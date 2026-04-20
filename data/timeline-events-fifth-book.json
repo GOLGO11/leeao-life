@@ -3298,5 +3298,532 @@
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/019.宣淫纪.txt",
       "line": 143
     }
+  },
+  {
+    "id": "book5-1961-four-mat-room-playboy-centerfold-discovery",
+    "date": "1961-12-31",
+    "displayDate": "退伍后住“四席小屋”时的一天",
+    "datePrecision": "undated-context",
+    "title": "李敖在衡阳路地摊发现《花花公子》大幅彩色裸照",
+    "summary": "《白露纪》写，李敖退伍后住“四席小屋”时，一天逛衡阳路地摊，看到《PLAYBOY》杂志中间折页的大幅彩色裸照，由此打开他对裸体照片、视觉审美和私人收藏的一个新阶段。",
+    "view": ["日常线", "身体线", "收藏线"],
+    "tags": ["四席小屋", "衡阳路", "PLAYBOY", "裸照", "视觉收藏"],
+    "people": ["李敖"],
+    "places": ["衡阳路", "四席小屋", "台北"],
+    "works": ["PLAYBOY", "李敖快意恩仇录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book5-1961-02-17-rents-four-mat-room"],
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "009.白露纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt",
+      "line": 147
+    }
+  },
+  {
+    "id": "book5-1967-spring-meets-little-y-on-road-after-dictionary-work",
+    "date": "1967-05-31",
+    "displayDate": "1967年春天",
+    "datePrecision": "season",
+    "title": "李敖在文星资料室隔壁认识“小Y”",
+    "summary": "《白露纪》写，1967年春，文星被迫改组后开始编字典，“小Y”作为政大中文系学生到隔壁资料室工作；一天下班路上，李敖认识了她，并由东门“美而廉”约会转入频密书信。",
+    "view": ["感情线", "日常线", "文星线"],
+    "tags": ["小Y", "文星", "资料室", "美而廉", "政大中文系"],
+    "people": ["李敖", "小Y"],
+    "places": ["台北", "东门美而廉"],
+    "works": ["李敖快意恩仇录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book5-1967-03-21-little-y-letters-begin"],
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "009.白露纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt",
+      "line": 149
+    }
+  },
+  {
+    "id": "book5-1967-03-23-little-y-keelung-harbor-yangming-letter",
+    "date": "1967-03-23",
+    "displayDate": "1967年3月23日",
+    "datePrecision": "day",
+    "title": "李敖写信谢“小Y”送来“基隆港”和“阳明”",
+    "summary": "《白露纪》引1967年3月23日情书，李敖感谢“小Y”送他的“基隆港”和“阳明”，并说想到岛上有她，便甘愿继续“泡”在台湾。",
+    "view": ["感情线", "书信线", "日常线"],
+    "tags": ["小Y", "情书", "基隆港", "阳明"],
+    "people": ["李敖", "小Y"],
+    "places": ["台湾", "基隆港"],
+    "works": ["李敖快意恩仇录"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "009.白露纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt",
+      "line": 159
+    }
+  },
+  {
+    "id": "book5-1967-03-28-little-y-rain-scarf-and-mask-letter",
+    "date": "1967-03-28",
+    "displayDate": "1967年3月28日",
+    "datePrecision": "day",
+    "title": "李敖写信给“小Y”记雨中送别、围巾与“面具”",
+    "summary": "《白露纪》引1967年3月28日情书，李敖写“小Y”在细雨中离去、自己想偷下她的围巾，又提到给她留下禁文以了解自己的“面具”。",
+    "view": ["感情线", "书信线", "写作线"],
+    "tags": ["小Y", "情书", "围巾", "禁文", "面具"],
+    "people": ["李敖", "小Y"],
+    "places": ["台北"],
+    "works": ["李敖快意恩仇录"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "009.白露纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt",
+      "line": 161
+    }
+  },
+  {
+    "id": "book5-1967-03-31-little-y-ivory-seal-letter",
+    "date": "1967-03-31",
+    "displayDate": "1967年3月的最后一夜",
+    "datePrecision": "day",
+    "title": "李敖给“小Y”写信并为她订制象牙小印",
+    "summary": "《白露纪》写，1967年3月的最后一夜，李敖给“小Y”写信，提到因她留下太阳镜而想念她，并在衡阳街象牙店物色小象牙，请名师为她治一颗小印。",
+    "view": ["感情线", "书信线", "日常线"],
+    "tags": ["小Y", "象牙小印", "太阳镜", "情书"],
+    "people": ["李敖", "小Y"],
+    "places": ["衡阳街", "台北"],
+    "works": ["李敖快意恩仇录"],
+    "certainty": "inferred",
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "009.白露纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt",
+      "line": 165
+    }
+  },
+  {
+    "id": "book5-1967-04-03-to-04-searches-little-y-in-rain",
+    "date": "1967-04-03",
+    "displayDate": "1967年4月3日至4日",
+    "datePrecision": "day-range",
+    "title": "李敖雨中到杭州南路、南门市场寻找“小Y”",
+    "summary": "《白露纪》引1967年4月3日至4日情书，李敖写自己大雨时赶到杭州南路，又绕到南门市场两次寻找“小Y”，想送她上学、怕她淋雨。",
+    "view": ["感情线", "书信线", "日常线"],
+    "tags": ["小Y", "杭州南路", "南门市场", "雨中", "情书"],
+    "people": ["李敖", "小Y"],
+    "places": ["杭州南路", "南门市场", "台北"],
+    "works": ["李敖快意恩仇录"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "009.白露纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt",
+      "line": 197
+    }
+  },
+  {
+    "id": "book5-1967-04-10-little-y-two-places-letter",
+    "date": "1967-04-10",
+    "displayDate": "1967年4月10日",
+    "datePrecision": "day",
+    "title": "李敖写给“小Y”的“两地书”情书",
+    "summary": "《白露纪》引1967年4月10日情书，李敖回应“小Y”一边走一边哭，写她的眼镜、桥牌、《欲之上》仍在车里，称亲密回忆已转为“两地书”。",
+    "view": ["感情线", "书信线", "日常线"],
+    "tags": ["小Y", "两地书", "欲之上", "桥牌", "情书"],
+    "people": ["李敖", "小Y"],
+    "places": ["台北"],
+    "works": ["欲之上", "李敖快意恩仇录"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "009.白露纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt",
+      "line": 199
+    }
+  },
+  {
+    "id": "book5-1967-04-11-little-y-only-chain-letter",
+    "date": "1967-04-11",
+    "displayDate": "1967年4月11日",
+    "datePrecision": "day",
+    "title": "李敖写信说写信已成他和“小Y”的唯一连锁",
+    "summary": "《白露纪》引1967年4月11日情书，李敖回应“小Y”要求他不要因生气而停信，称写信已是两人之间唯一获准的连锁。",
+    "view": ["感情线", "书信线"],
+    "tags": ["小Y", "情书", "连锁"],
+    "people": ["李敖", "小Y"],
+    "places": ["台北"],
+    "works": ["李敖快意恩仇录"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "009.白露纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt",
+      "line": 201
+    }
+  },
+  {
+    "id": "book5-1967-04-12-little-y-grave-marriage-hair-letter",
+    "date": "1967-04-12",
+    "displayDate": "1967年4月12日",
+    "datePrecision": "day",
+    "title": "李敖连写给“小Y”的坟墓、试婚和头发殉葬想象",
+    "summary": "《白露纪》引1967年4月12日多段情书，李敖从“小Y”看坟谈到死同穴，又写自己反对婚姻、赞成试婚，并要求她有一天以头发陪自己长眠。",
+    "view": ["感情线", "书信线", "思想线"],
+    "tags": ["小Y", "情书", "试婚", "死同穴", "头发"],
+    "people": ["李敖", "小Y"],
+    "places": ["台北"],
+    "works": ["李敖快意恩仇录"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "009.白露纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt",
+      "line": 203
+    }
+  },
+  {
+    "id": "book5-1967-04-23-little-y-bath-memory-letter",
+    "date": "1967-04-23",
+    "displayDate": "1967年4月23日",
+    "datePrecision": "day",
+    "title": "李敖写信记录“小Y”答应进浴室并为他洗身",
+    "summary": "《白露纪》写，“小Y”剪下长发送给李敖，并在生日时做卡片；最后她答应与李敖进浴室但不脱光，为他洗遍身体。1967年4月23日，李敖以情书记录这段亲密记忆。",
+    "view": ["感情线", "身体线", "书信线"],
+    "tags": ["小Y", "浴室", "头发", "生日卡", "情书"],
+    "people": ["李敖", "小Y"],
+    "places": ["台北"],
+    "works": ["李敖快意恩仇录"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "009.白露纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt",
+      "line": 209
+    }
+  },
+  {
+    "id": "book5-1967-04-27-little-y-tender-memory-letter",
+    "date": "1967-04-27",
+    "displayDate": "1967年4月27日",
+    "datePrecision": "day",
+    "title": "李敖写信回忆与“小Y”饭桌旁和车中的亲密",
+    "summary": "《白露纪》引1967年4月27日情书，李敖写自己从4月24日后右手便忘不了饭桌旁和绍兴南街汽车里的亲密触感，并记“小Y”第一次承认他是情人。",
+    "view": ["感情线", "身体线", "书信线"],
+    "tags": ["小Y", "绍兴南街", "汽车", "情人", "情书"],
+    "people": ["李敖", "小Y"],
+    "places": ["绍兴南街", "台北"],
+    "works": ["李敖快意恩仇录"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "009.白露纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt",
+      "line": 213
+    }
+  },
+  {
+    "id": "book5-1967-05-07-little-y-car-crash-letter-after-yin-chat",
+    "date": "1967-05-07",
+    "displayDate": "1967年5月7日",
+    "datePrecision": "day",
+    "title": "李敖与殷海光长谈后收到“小Y”撞车来信",
+    "summary": "《白露纪》引1967年5月7日情书，李敖写自己当晚与殷海光聊天两个多小时，回来收到“小Y”限时信，得知她也撞车，为她伤势心焦。",
+    "view": ["感情线", "书信线", "交游线"],
+    "tags": ["小Y", "殷海光", "撞车", "限时信", "情书"],
+    "people": ["李敖", "小Y", "殷海光"],
+    "places": ["台北"],
+    "works": ["李敖快意恩仇录"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "009.白露纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt",
+      "line": 221
+    }
+  },
+  {
+    "id": "book5-1967-05-09-little-y-persimmon-cakes-letter",
+    "date": "1967-05-09",
+    "displayDate": "1967年5月9日",
+    "datePrecision": "day",
+    "title": "李敖写信记录丢掉“小Y”送的柿饼并保留封套",
+    "summary": "《白露纪》引1967年5月9日情书，李敖写“小Y”送他的三个柿饼已不能再留，只好留下封套、丢掉柿饼，并追问她撞车后的伤口情况。",
+    "view": ["感情线", "书信线", "日常线"],
+    "tags": ["小Y", "柿饼", "封套", "撞车", "情书"],
+    "people": ["李敖", "小Y"],
+    "places": ["台北"],
+    "works": ["李敖快意恩仇录"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "009.白露纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt",
+      "line": 223
+    }
+  },
+  {
+    "id": "book5-1967-08-24-little-y-three-months-later-letter",
+    "date": "1967-08-24",
+    "displayDate": "1967年8月24日",
+    "datePrecision": "day",
+    "title": "李敖三个月后再写信给“小Y”",
+    "summary": "《白露纪》写，李敖与“小Y”亲热过度后发生隔阂，三个月后于1967年8月24日写信试投，质问她是否仍沉醉于情欲二分法，并署“狂童之狂也者”。",
+    "view": ["感情线", "书信线", "思想线"],
+    "tags": ["小Y", "情欲二分法", "试投", "情书"],
+    "people": ["李敖", "小Y"],
+    "places": ["台湾"],
+    "works": ["李敖快意恩仇录"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "009.白露纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt",
+      "line": 231
+    }
+  },
+  {
+    "id": "book5-1966-after-wenxing-liang-refuses-to-guarantee-li",
+    "date": "1966-12-31",
+    "displayDate": "文星风雨飘摇、李敖被警备总部约谈放出找保时",
+    "datePrecision": "undated-context",
+    "title": "李敖被警备总部约谈后请梁实秋作保遭婉拒",
+    "summary": "《根株纪》写，文星遭封后李敖被警备总部约谈，放出后需找保；他路过梁实秋家请梁作保，梁在特务面前婉拒，李敖最后找到立委王兆民作保。",
+    "view": ["司法线", "交游线", "文星线"],
+    "tags": ["梁实秋", "警备总部", "找保", "王兆民", "文星"],
+    "people": ["李敖", "梁实秋", "王兆民", "余光中"],
+    "places": ["台北"],
+    "works": ["李敖快意恩仇录"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "010.根株纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/010.根株纪.txt",
+      "line": 31
+    }
+  },
+  {
+    "id": "book5-1987-05-liang-copyright-correspondence-after-two-decades",
+    "date": "1987-05-31",
+    "displayDate": "1987年5月间",
+    "datePrecision": "month",
+    "title": "李敖因梁实秋一稿两卖涉及文星版权而与其通信",
+    "summary": "《根株纪》写，李敖自梁实秋拒绝作保后约二十年不敢再连累他；直到1987年5月间，因梁实秋一稿两卖、涉及文星版权，两人才再通过信。",
+    "view": ["出版线", "司法线", "交游线"],
+    "tags": ["梁实秋", "文星版权", "一稿两卖", "朱婉坚"],
+    "people": ["李敖", "梁实秋", "朱婉坚"],
+    "places": ["台湾"],
+    "works": ["李敖快意恩仇录"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "010.根株纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/010.根株纪.txt",
+      "line": 31
+    }
+  },
+  {
+    "id": "book5-1987-06-08-minshengbao-xu-kaichen-interview",
+    "date": "1987-06-08",
+    "displayDate": "1987年6月8日",
+    "datePrecision": "day",
+    "title": "《民生报》访问李敖时徐开尘到家做记录",
+    "summary": "《根株纪》写，1987年6月8日《民生报》访问李敖，负责记录的徐开尘进门使李敖眼睛一亮；此后几年她与同事邱海岳、林英哲等又与李敖聚餐数次。",
+    "view": ["媒体线", "日常线", "感情线"],
+    "tags": ["民生报", "徐开尘", "邱海岳", "林英哲", "采访"],
+    "people": ["李敖", "徐开尘", "邱海岳", "林英哲"],
+    "places": ["李敖家", "台北"],
+    "works": ["李敖快意恩仇录"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "010.根株纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/010.根株纪.txt",
+      "line": 43
+    }
+  },
+  {
+    "id": "book5-1990-03-wang-shijie-diary-reveals-rejection-of-li",
+    "date": "1990-03-31",
+    "displayDate": "1990年3月",
+    "datePrecision": "month",
+    "title": "《王世杰日记》出版后李敖完整了解中研院拒聘内幕",
+    "summary": "《根株纪》写，1990年3月《王世杰日记》全十册由中研院出版，李敖由1965年12月20日等日记材料完整了解梁实秋推荐他到中研院史语所、王世杰和李济拒绝的内幕。",
+    "view": ["考证线", "教育线", "出版线"],
+    "tags": ["王世杰日记", "梁实秋", "中研院", "李济", "史语所"],
+    "people": ["李敖", "王世杰", "梁实秋", "李济", "吴大猷", "张玉法"],
+    "places": ["中央研究院", "台湾"],
+    "works": ["王世杰日记", "李敖快意恩仇录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book5-1963-05-liang-recommends-li-to-academia-sinica"],
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "010.根株纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/010.根株纪.txt",
+      "line": 45
+    }
+  },
+  {
+    "id": "book5-1964-07-10-xu-fuguan-little-mad-dog-article",
+    "date": "1964-07-10",
+    "displayDate": "1964年7月10日",
+    "datePrecision": "day",
+    "title": "徐复观发文影射李敖为“小疯狗”，李敖后来提告",
+    "summary": "《根株纪》写，徐复观1964年7月10日撰文影射“以胡适为衣食父母”的人豢养“小疯狗”，并写“李×”批评台大；李敖认为除他之外别无他人可适用，后来据此提起诽谤诉讼。",
+    "view": ["司法线", "恩怨线", "媒体线"],
+    "tags": ["徐复观", "小疯狗", "诽谤", "台大"],
+    "people": ["李敖", "徐复观", "胡适"],
+    "places": ["台湾"],
+    "works": ["李敖快意恩仇录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book5-1965-11-02-xu-hong-case-dismissed-li-appeals"],
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "010.根株纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/010.根株纪.txt",
+      "line": 75
+    }
+  },
+  {
+    "id": "book5-1971-07-17-new-republic-reports-bai-yang-case",
+    "date": "1971-07-17",
+    "displayDate": "1971年7月17日",
+    "datePrecision": "day",
+    "title": "《新共和》刊出柏杨冤狱长篇报道，延续李敖海外传讯路线",
+    "summary": "《东郭纪》写，李敖透过魏克曼等协助把柏杨冤狱转达给外国记者；继《纽约时报》后，《新共和》于1971年7月17日刊出长篇报道，使柏杨冤情继续在海外曝光。",
+    "view": ["媒体线", "司法线", "交游线"],
+    "tags": ["柏杨", "新共和", "魏克曼", "海外报道", "冤狱"],
+    "people": ["李敖", "柏杨", "魏克曼"],
+    "places": ["美国", "台湾"],
+    "works": ["The New Republic", "李敖快意恩仇录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book5-1969-07-03-nyt-reports-bai-yang-through-overseas-channel"],
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "012.东郭纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/012.东郭纪.txt",
+      "line": 15
+    }
+  },
+  {
+    "id": "book5-1972-02-29-bai-yang-issues-library-card-for-li",
+    "date": "1972-02-29",
+    "displayDate": "1972年2月29日",
+    "datePrecision": "day",
+    "title": "柏杨在景美看守所为李敖优先办下借书证并选《生命的光辉》",
+    "summary": "《东郭纪》写，李敖1972年2月28日移送景美军法处后，第二天以书面申请看守所图书室借书证；晚上书送来时，只有李敖申请的先发下，借书证笔迹一看就是柏杨，并附雷马克《生命的光辉》。",
+    "view": ["狱中线", "读书线", "交游线"],
+    "tags": ["柏杨", "景美看守所", "借书证", "生命的光辉", "雷马克"],
+    "people": ["李敖", "柏杨", "袁耀权", "雷马克"],
+    "places": ["景美军法处看守所"],
+    "works": ["生命的光辉", "李敖快意恩仇录"],
+    "certainty": "inferred",
+    "crossReferences": ["book5-1972-07-14-huang-zhongguo-enters-cell"],
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "012.东郭纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/012.东郭纪.txt",
+      "line": 83
+    }
+  },
+  {
+    "id": "book5-1972-04-bai-yang-sent-green-island-li-secret-gift-via-diao",
+    "date": "1972-04-30",
+    "displayDate": "1972年4月",
+    "datePrecision": "month",
+    "title": "柏杨移送绿岛后，李敖托刁德善带礼物并转告营救细节",
+    "summary": "《东郭纪》写，1972年4月柏杨移送绿岛；两年后押区的刁德善等也要去绿岛时，李敖秘密请刁德善带礼物给柏杨，并转告自己为柏杨奔走海外人权线的种种细节。",
+    "view": ["狱中线", "交游线", "司法线"],
+    "tags": ["柏杨", "绿岛", "刁德善", "礼物", "国际笔会"],
+    "people": ["李敖", "柏杨", "刁德善"],
+    "places": ["绿岛", "景美军法处看守所"],
+    "works": ["李敖快意恩仇录"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "012.东郭纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/012.东郭纪.txt",
+      "line": 83
+    }
+  },
+  {
+    "id": "book5-1977-after-release-bai-yang-asks-borrow-his-books",
+    "date": "1977-12-31",
+    "displayDate": "柏杨出狱后",
+    "datePrecision": "undated-context",
+    "title": "柏杨出狱后托林紫耀向李敖借其旧作，李敖因藏书散失未能应命",
+    "summary": "《东郭纪》写，柏杨出狱后托林紫耀间接转话，希望借李敖藏书中的柏杨著作；李敖因多年坐牢期间藏书遭治安机关洗劫和亲友打劫，柏杨作品也已散失，只能据实婉拒。",
+    "view": ["交游线", "收藏线", "恩怨线"],
+    "tags": ["柏杨", "林紫耀", "藏书", "出狱后"],
+    "people": ["李敖", "柏杨", "林紫耀"],
+    "places": ["台湾"],
+    "works": ["李敖快意恩仇录"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "012.东郭纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/012.东郭纪.txt",
+      "line": 85
+    }
+  },
+  {
+    "id": "book5-1980-after-marriage-hu-yinmeng-proposes-bai-yang-dinner",
+    "date": "1980-12-31",
+    "displayDate": "李敖结婚后",
+    "datePrecision": "undated-context",
+    "title": "胡茵梦提议请柏杨吃饭，因柏杨推称饭局很多而作罢",
+    "summary": "《东郭纪》写，李敖结婚后，胡茵梦提议请柏杨吃饭，李敖同意；但电话打去后，柏杨表示自己饭局很多，这次请客便作罢。李敖后来把此事放入柏杨忘恩负义的脉络中回忆。",
+    "view": ["交游线", "感情线", "恩怨线"],
+    "tags": ["柏杨", "胡茵梦", "饭局", "婚后"],
+    "people": ["李敖", "胡茵梦", "柏杨"],
+    "places": ["台湾"],
+    "works": ["李敖快意恩仇录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book4-1980-05-06-li-marries-hu-yinmeng"],
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "012.东郭纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/012.东郭纪.txt",
+      "line": 85
+    }
+  },
+  {
+    "id": "book5-undated-huang-shicheng-fee-transferred-to-lin-zhengjie",
+    "date": "1989-12-31",
+    "displayDate": "党外时代某次为《深耕》写稿后",
+    "datePrecision": "undated-context",
+    "title": "李敖向黄石城要求三万元稿费后转给林正杰作竞选经费",
+    "summary": "《志留纪》写，党外时代李敖替黄石城出资的《深耕》写稿，嫌四千元稿费太少，要求改给三万元；黄石城照给后，李敖把这笔钱转给林正杰作竞选经费。",
+    "view": ["政治线", "出版线", "交游线"],
+    "tags": ["黄石城", "深耕", "林正杰", "竞选经费", "稿费"],
+    "people": ["李敖", "黄石城", "林正杰"],
+    "places": ["台湾"],
+    "works": ["深耕", "李敖快意恩仇录"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "020.志留纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/020.志留纪.txt",
+      "line": 106
+    }
+  },
+  {
+    "id": "book5-undated-su-rongquan-insurance-claim-recovered",
+    "date": "1998-12-31",
+    "displayDate": "苏荣泉泰北遇害后",
+    "datePrecision": "undated-context",
+    "title": "李敖替苏荣泉家属向八家保险公司追回两亿三千七百九十万元理赔",
+    "summary": "《志留纪》写，苏荣泉在泰北旅游时被枪杀后，家属向八家保险公司交涉四个月未果，求助李敖；李敖先分化安泰、南山，再写信警告财政部长林振国和保险司长陈冲，迫使国泰人寿等照赔，总额两亿三千七百九十万元。",
+    "view": ["司法线", "交游线", "恩怨线"],
+    "tags": ["苏荣泉", "保险理赔", "国泰人寿", "安泰人寿", "南山人寿", "陈冲"],
+    "people": ["李敖", "苏荣泉", "林振国", "陈冲"],
+    "places": ["台湾", "泰北"],
+    "works": ["李敖快意恩仇录"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "020.志留纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/020.志留纪.txt",
+      "line": 106
+    }
   }
 ]
