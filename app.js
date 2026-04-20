@@ -36,6 +36,7 @@ const dataFiles = [
   "./data/timeline-events-fifth-book.json",
   "./data/timeline-events-sixth-book.json"
 ];
+const dataVersion = "2026-04-20-sixth-round-4";
 
 const dateFormatter = new Intl.DateTimeFormat("zh-Hant", {
   year: "numeric",
@@ -235,8 +236,8 @@ function render() {
 
 async function boot() {
   const [eventGroups, logResponse] = await Promise.all([
-    Promise.all(dataFiles.map((file) => fetch(file).then((response) => response.json()))),
-    fetch("./data/ingestion-log.json")
+    Promise.all(dataFiles.map((file) => fetch(`${file}?v=${dataVersion}`, { cache: "no-store" }).then((response) => response.json()))),
+    fetch(`./data/ingestion-log.json?v=${dataVersion}`, { cache: "no-store" })
   ]);
   state.events = eventGroups.flat();
   state.log = await logResponse.json();

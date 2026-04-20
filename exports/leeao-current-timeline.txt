@@ -1,9 +1,9 @@
 李敖交互式年表：当前增量纯文本备份
 生成日期：2026-04-20
-事件总数：788
+事件总数：794
 数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json
 说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。
-日期精度统计：day=576；year=43；undated-range=1；undated-context=99；season=17；lunar-day=1；year-after=6；month=19；half-year=2；day-range=9；month-after=2；year-range=4；year-about=5；day-after=3；year-end=1
+日期精度统计：day=582；year=43；undated-range=1；undated-context=99；season=17；lunar-day=1；year-after=6；month=19；half-year=2；day-range=9；month-after=2；year-range=4；year-about=5；day-after=3；year-end=1
 
 
 1935
@@ -10314,6 +10314,84 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/028.长廷啊，不要在后台唱戏.txt
   数据：data/timeline-events-sixth-book.json#book6-2005-04-12-asks-hsieh-changting-to-pursue-arms-rental
+- 2005年5月2日 | 李敖质询李杰，借李文仪笑话谈潜艇采购与拖延战略
+  精度：day；可靠度：confirmed；排序日期：2005-05-02
+  摘要：《李文仪与潜艇采购》写，2005年5月2日李敖在国防委员会质询国防部长李杰，先用“李文仪”笑话讽刺国防部买潜艇，又追问谢长廷4月12日已答应军购、军租并行后，国防部为何仍只谈采购；他把“拖”说成面对特别预算与军购压力的战略，并要求李杰承认只要台湾不断掏钱就是“凯子军购”。
+  人物：李敖、李杰、李文仪、谢长廷、陈水扁
+  地点：立法院国防委员会、台北
+  标签：李杰、李文仪、潜艇采购、军租、拖延战略、凯子军购
+  视图：政治线、立法院线、军购线
+  作品：与台湾关系法、李敖议坛哀思录
+  交叉引用：book6-2005-04-12-asks-hsieh-changting-to-pursue-arms-rental、book6-2005-03-24-threatens-to-sue-hsieh-and-li-jie-over-submarine-budget
+  来源：李敖议坛哀思录 / 032.李文仪与潜艇采购 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/032.李文仪与潜艇采购.txt
+  数据：data/timeline-events-sixth-book.json#book6-2005-05-02-questions-li-jie-on-li-wenyi-submarine-and-delay-strategy
+- 2005年5月12日 | 李敖在《法医师法》联席会议为陈耀昌版本作人品证人
+  精度：day；可靠度：confirmed；排序日期：2005-05-12
+  摘要：《民进党中有我“卧底”的》写，2005年5月12日李敖在司法、卫生环境及社会福利联席委员会审查《法医师法》时发言，声明自己不懂法医学、但了解陈耀昌的人格与见识，因而支持陈耀昌提出的“台大第二次修正版”；他还以胡适愿为雷震作人格证人的故事说明，自己此刻也是为陈耀昌作人品证人。
+  人物：李敖、陈耀昌、胡适、雷震、尤清
+  地点：立法院、台北
+  标签：法医师法、陈耀昌、台大第二次修正版、人品证人、联席委员会
+  视图：政治线、立法院线、司法线
+  作品：法医师法、李敖议坛哀思录
+  交叉引用：-
+  来源：李敖议坛哀思录 / 030.民进党中有我“卧底”的 / line 17
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/030.民进党中有我“卧底”的.txt
+  数据：data/timeline-events-sixth-book.json#book6-2005-05-12-speaks-for-chen-yaochang-forensic-doctor-law
+- 2005年5月12日 | 李敖在本土语言政策公听会反对让孩子负担“妈妈的话”政策
+  精度：day；可靠度：confirmed；排序日期：2005-05-12
+  摘要：《去他妈的话》写，2005年5月12日李敖在科技及资讯委员会本土语言政策公听会上发言，认为所谓台湾话主要是闽南语，而闽南语人口并不只在台湾；他主张语言学者可以保存研究语言，但反对把“妈妈的话”做成政治运动并加重儿童学习负担，同时指出在台湾融合后的“国语”也已成为本地语言。
+  人物：李敖
+  地点：立法院科技及资讯委员会、台北
+  标签：本土语言、闽南话、台湾国语、妈妈的话、语言政策
+  视图：政治线、立法院线、思想线
+  作品：李敖议坛哀思录
+  交叉引用：-
+  来源：李敖议坛哀思录 / 033.去他妈的话 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/033.去他妈的话.txt
+  数据：data/timeline-events-sixth-book.json#book6-2005-05-12-speaks-against-local-language-policy
+- 2005年5月18日 | 李敖质询蔡明宪，要求国防部停止大量军中文宣刊物
+  精度：day；可靠度：confirmed；排序日期：2005-05-18
+  摘要：《军人，谁要你们舞文弄墨！》写，2005年5月18日李敖在国防委员会质询国防部副部长蔡明宪，批评国防部和总政战局长期维持《奋斗》《吾爱吾家》《胜利之光》《青年日报》等刊物与补助体系，认为康宁祥时期虽曾改革却仍留下过多文宣预算，要求军队不要“舞文弄墨”，应裁并刊物并停止浪费。
+  人物：李敖、蔡明宪、康宁祥、王明我、许历农、李文忠
+  地点：立法院国防委员会、台北
+  标签：蔡明宪、军中文宣、青年日报、总政战局、预算、国防委员会
+  视图：政治线、立法院线、军队线
+  作品：奋斗、吾爱吾家、胜利之光、青年日报、李敖议坛哀思录
+  交叉引用：-
+  来源：李敖议坛哀思录 / 034.军人，谁要你们舞文弄墨！ / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/034.军人，谁要你们舞文弄墨！.txt
+  数据：data/timeline-events-sixth-book.json#book6-2005-05-18-questions-cai-mingxian-on-military-publications
+- 2005年5月23日 | 李敖当众退还李杰万宝龙钢笔并要求国防部处理谢大宁案
+  精度：day；可靠度：confirmed；排序日期：2005-05-23
+  摘要：《钢笔事件》写，同日质询中李敖公开说明办公室有“不收礼”规矩，国防部却随归还书籍送来一支标价一万二千元的万宝龙钢笔；他当场退还李杰，并提出愿连同自己价值十六万元的海明威纪念笔一起拍卖、捐给民主行动联盟。随后他转入谢大宁因批评国防部而被控侮辱官署案，要求李杰撤回或软化告诉，并追问军队究竟为谁而战、为何而战。
+  人物：李敖、李杰、谢大宁、邱义仁、卓荣泰
+  地点：立法院国防委员会、台北
+  标签：钢笔事件、万宝龙、海明威纪念笔、民主行动联盟、谢大宁、侮辱官署罪
+  视图：政治线、立法院线、军队线、司法线
+  作品：李敖议坛哀思录
+  交叉引用：book6-2005-05-23-questions-li-jie-on-special-budget-and-arms-rental-progress、book6-2005-03-30-second-questions-li-jie-on-counterterrorism-and-military-morale
+  来源：李敖议坛哀思录 / 035.钢笔事件 / line 25
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/035.钢笔事件.txt
+  数据：data/timeline-events-sixth-book.json#book6-2005-05-23-steel-pen-event-and-hsieh-daining-lawsuit
+- 2005年5月23日 | 李敖质询李杰，追问特别预算与军租进度
+  精度：day；可靠度：confirmed；排序日期：2005-05-23
+  摘要：《钢笔事件》写，2005年5月23日李敖在国防委员会质询国防部长李杰，先要求财务官员离场，集中追问军购特别预算和军租进度；他指出谢长廷4月12日已同意军购、军租同时进行，要求李杰说明国防部是否真正落实，并继续从财政负担和《与台湾关系法》角度反对盲目军购。
+  人物：李敖、李杰、李瑞仓、陈庆财、谢长廷
+  地点：立法院国防委员会、台北
+  标签：李杰、特别预算、军租、军购、国防预算
+  视图：政治线、立法院线、军购线
+  作品：与台湾关系法、李敖议坛哀思录
+  交叉引用：book6-2005-04-12-asks-hsieh-changting-to-pursue-arms-rental
+  来源：李敖议坛哀思录 / 035.钢笔事件 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/035.钢笔事件.txt
+  数据：data/timeline-events-sixth-book.json#book6-2005-05-23-questions-li-jie-on-special-budget-and-arms-rental-progress
 
 2006
 - 2006年1月2日 | 李敖在重大军事采购政策公听会上提出“哥斯达黎加模式”

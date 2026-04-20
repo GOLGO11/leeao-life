@@ -98,7 +98,7 @@ tools/export-timeline-text.mjs 的 dataFiles
 
 ## 当前计数
 
-截至第六本第三轮及 1960-1961 重复事件校正结束：
+截至第六本第四轮结束：
 
 ```text
 data/timeline-events.json                         32
@@ -113,15 +113,15 @@ data/timeline-events-third-book-qiao-evidence.json 16
 data/timeline-events-fourth-book.json             115
 data/timeline-events-fourth-book-deepening.json   29
 data/timeline-events-fifth-book.json              220
-data/timeline-events-sixth-book.json              21
-总计                                             788
+data/timeline-events-sixth-book.json              27
+总计                                             794
 ```
 
 `exports/leeao-current-timeline.txt` 表头已同步：
 
 ```text
-事件总数：788
-日期精度统计：导出后以 exports/leeao-current-timeline.txt 表头为准
+事件总数：794
+日期精度统计：day=582；year=43；undated-range=1；undated-context=99；season=17；lunar-day=1；year-after=6；month=19；half-year=2；day-range=9；month-after=2；year-range=4；year-about=5；day-after=3；year-end=1
 ```
 
 ## 当前处理进度
@@ -132,7 +132,7 @@ data/timeline-events-sixth-book.json              21
 data/ingestion-log.json
 ```
 
-当前最新轮次为 `iteration: 30`。
+当前最新轮次为 `iteration: 31`。
 
 已处理到第六本：
 
@@ -147,7 +147,7 @@ data/ingestion-log.json
 
 第五本《李敖快意恩仇录》已经停止深挖，并完成 1960-1961 重复事件校正，当前定格在 220 条。
 
-第六本《李敖议坛哀思录》已推进到第三轮，当前 21 条。
+第六本《李敖议坛哀思录》已推进到第四轮，当前 27 条。
 
 ## 第六本当前状态
 
@@ -175,6 +175,11 @@ data/timeline-events-sixth-book.json
 026.用衣冠整禽兽.txt
 027.历史会证明我们同归于尽.txt
 028.长廷啊，不要在后台唱戏.txt
+030.民进党中有我“卧底”的.txt
+032.李文仪与潜艇采购.txt
+033.去他妈的话.txt
+034.军人，谁要你们舞文弄墨！.txt
+035.钢笔事件.txt
 ```
 
 当前已补入的骨架条目：
@@ -196,11 +201,16 @@ data/timeline-events-sixth-book.json
 - 2005-03-24 质询李杰，称将以谢长廷为第一被告、李杰为第二被告追究潜艇军购与公投法问题。
 - 2005-03-30 两场质询分别围绕《海军服饰条例》追打查勤事件、反恐挂钩与军队人心问题。
 - 2005-04-12 院会质询谢长廷，拆成军购与军租、法律中的“中国”、为林弘宣请命并批评杜正胜三条。
+- 2005-05-02 质询李杰，借李文仪笑话谈潜艇采购与拖延战略。
+- 2005-05-12 在《法医师法》联席会议为陈耀昌版本作人品证人。
+- 2005-05-12 在本土语言政策公听会反对让孩子负担“妈妈的话”政策。
+- 2005-05-18 质询蔡明宪，要求国防部停止大量军中文宣刊物。
+- 2005-05-23 质询李杰追问特别预算与军租进度，并当众退还万宝龙钢笔、要求处理谢大宁案。
 
 第六本当前最值得继续的路线：
 
-1. 优先处理 `030-035`，其中 2005-05-02、05-12、05-18、05-23 等日级质询很适合继续扩骨架。
-2. 再处理 `036-045` 的国安局线，注意区分李敖本人质询、历史背景和国安局内部旧案，不要把纯背景独立成旁人事件。
+1. 优先处理 `036-045` 的国安局线，注意区分李敖本人质询、历史背景和国安局内部旧案，不要把纯背景独立成旁人事件。
+2. `031.我炮口转向了.txt` 暂未入库：它是李敖转向诉讼/外部攻击的策略说明，缺精确日期；后续可在 2005 年模糊项集中处理时加入。
 3. 再分批处理 `134-142` 的起诉状与立法院公报，按“每轮只吃几份”原则拆成法律/院会链，不要一口气吞大文件。
 4. 继续时要注意：Book 6 原始 txt 多为 GB18030，直接 Read 常出现乱码；可靠流程是先 `iconv -f GB18030 -t UTF-8 ... | nl -ba`，再据此写 source.line。
 
@@ -402,9 +412,9 @@ node tools/export-timeline-text.mjs
 
 ```json
 {
-  "events": 788,
+  "events": 794,
   "fifth": 220,
-  "sixth": 21,
+  "sixth": 27,
   "dups": 0,
   "missingRefs": 0,
   "badDatesOrFields": 0
@@ -419,8 +429,8 @@ node tools/export-timeline-text.mjs
 
 第六本最值得继续的路线：
 
-1. 优先处理 `030-035`，其中有法医师法、本土语言、国防部、钢笔事件等明确日期材料。
-2. 接着处理 `036-045` 的国安局线，尤其 2005-03-14、03-28、05-04、05-12、10-13 等日级质询。
+1. 优先处理 `036-045` 的国安局线，尤其 2005-03-14、03-28、05-04、05-12、10-13 等日级质询。
+2. 回头集中处理 `031.我炮口转向了.txt` 这类缺确日但能说明李敖问政策略转向的模糊项，确保放在对应年份精确日级事件之后。
 3. 再分批处理 `134-142` 的起诉状与立法院公报。不要一口气吞下全部大文件，宜每轮只吃几份，拆成法律行动链与院会/委员会链。
 4. 第六本处理时优先补 2005-2006 的问政/军购/国安/两岸主线，把李敖立委任内时间轴先做厚，再回头吃长附录。
 5. 继续严格使用 GB18030 → UTF-8 转码后行号：`iconv -f GB18030 -t UTF-8 ... | nl -ba`。Book 6 直接 Read 常出现乱码，不能据乱码行号写 source.line。
