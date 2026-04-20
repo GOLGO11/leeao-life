@@ -495,5 +495,109 @@
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/020.前程（1997-·62岁以后）.txt",
       "line": 135
     }
+  },
+  {
+    "id": "book4-deep-1984-03-freedom-era-cooperation-begins",
+    "date": "1984-03-31",
+    "displayDate": "1984年3月",
+    "datePrecision": "month",
+    "title": "李敖与郑南榕开始合作《自由时代》系列",
+    "summary": "《笔伐》章写，郑南榕在《政治家》发表《李敖，不要走！》后与李敖来往渐多，到1984年3月开始合作办《自由时代》系列杂志，李敖参与其争取百分之百言论自由的早期布局。",
+    "view": ["出版线", "交游线", "思想线"],
+    "tags": ["郑南榕", "自由时代", "言论自由", "党外杂志"],
+    "people": ["李敖", "郑南榕"],
+    "places": ["台湾"],
+    "works": ["自由时代", "李敖回忆录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book3-1984-03-12-free-era-first-issue-li-cover"],
+    "source": {
+      "book": "李敖回忆录",
+      "chapter": "018.笔伐（1982-1992·47到57岁）",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/018.笔伐（1982-1992·47到57岁）.txt",
+      "line": 15
+    }
+  },
+  {
+    "id": "book4-deep-1986-06-03-li-supports-zheng-nanrong-after-arrest",
+    "date": "1986-06-03",
+    "displayDate": "1986年6月3日以后",
+    "datePrecision": "day-after",
+    "title": "郑南榕被捕后，李敖送钱支持其家庭与杂志",
+    "summary": "《笔伐》章写，郑南榕被捕第二天即1986年6月3日，党报以“郑南榕落网”宣传；随后李敖亲自送十万元给郑母，又约叶菊兰、邱谦城到家，给五十万元并承担杂志亏损。",
+    "view": ["交游线", "出版线", "司法线"],
+    "tags": ["郑南榕", "自由时代", "党外杂志", "援助"],
+    "people": ["李敖", "郑南榕", "叶菊兰", "邱谦城"],
+    "places": ["台湾", "李敖家"],
+    "works": ["自由时代", "李敖回忆录"],
+    "certainty": "inferred",
+    "crossReferences": ["book4-deep-1984-03-freedom-era-cooperation-begins"],
+    "source": {
+      "book": "李敖回忆录",
+      "chapter": "018.笔伐（1982-1992·47到57岁）",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/018.笔伐（1982-1992·47到57岁）.txt",
+      "line": 23
+    }
+  },
+  {
+    "id": "book4-deep-1986-07-23-qianqiu-58-seized-repeatedly",
+    "date": "1986-07-23",
+    "displayDate": "1986年7月23日、7月30日、8月4日",
+    "datePrecision": "day-range",
+    "title": "《千秋评论》第58期遭连续查扣，李敖连续再印",
+    "summary": "《笔伐》章以第58期为例，写1986年7月23日当局抢走四千本，7月30日再抢四千本，8月4日又抢一千五百本；李敖则一次次再印，形成拉锯式的出版抵抗。",
+    "view": ["出版线", "司法线", "思想线"],
+    "tags": ["千秋评论", "查禁", "出版法", "言论自由"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["千秋评论", "李敖回忆录"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖回忆录",
+      "chapter": "018.笔伐（1982-1992·47到57岁）",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/018.笔伐（1982-1992·47到57岁）.txt",
+      "line": 9
+    }
+  },
+  {
+    "id": "book4-deep-1988-08-28-writes-lesson-for-zhang-xiaoci",
+    "date": "1988-08-28",
+    "displayDate": "1988年8月28日",
+    "datePrecision": "day",
+    "title": "李敖发表《给章孝慈上一课》",
+    "summary": "《口诛》章写，1988年8月28日因报上传说章孝慈热衷实际政治，李敖在《世界论坛报》写短文《给章孝慈上一课》，劝章孝慈终老学术。四年后章孝慈来访时还提起此文。",
+    "view": ["出版线", "交游线", "思想线"],
+    "tags": ["章孝慈", "世界论坛报", "东吴大学", "学术"],
+    "people": ["李敖", "章孝慈"],
+    "places": ["台湾"],
+    "works": ["给章孝慈上一课", "世界论坛报", "李敖回忆录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book4-1993-03-26-meets-zhang-xiaoci-at-jinlan-building"],
+    "source": {
+      "book": "李敖回忆录",
+      "chapter": "019.口诛（1993-·58岁至今）",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/019.口诛（1993-·58岁至今）.txt",
+      "line": 49
+    }
+  },
+  {
+    "id": "book4-deep-1993-09-21-world-journal-reports-first-soochow-class",
+    "date": "1993-09-21",
+    "displayDate": "1993年9月21日",
+    "datePrecision": "day",
+    "title": "美国《世界日报》报道李敖东吴首课盛况",
+    "summary": "李敖1993年9月21日在东吴上第一堂课后，美国《世界日报》以“李敖笑称章孝慈‘引狼入室’”为题报道，称这是他十余年来第一份正式职业，并记录其课堂批蒋立场。",
+    "view": ["口诛线", "教育线", "媒体线"],
+    "tags": ["世界日报", "东吴大学", "章孝慈", "媒体报道"],
+    "people": ["李敖", "章孝慈", "简余晏"],
+    "places": ["东吴大学", "美国"],
+    "works": ["李敖回忆录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book4-1993-09-21-first-soochow-class", "book4-deep-1993-09-16-qiaobao-zhang-hires-li"],
+    "source": {
+      "book": "李敖回忆录",
+      "chapter": "019.口诛（1993-·58岁至今）",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/019.口诛（1993-·58岁至今）.txt",
+      "line": 61
+    }
   }
 ]

@@ -32,7 +32,8 @@ const dataFiles = [
   "./data/timeline-events-third-book.json",
   "./data/timeline-events-third-book-qiao-evidence.json",
   "./data/timeline-events-fourth-book.json",
-  "./data/timeline-events-fourth-book-deepening.json"
+  "./data/timeline-events-fourth-book-deepening.json",
+  "./data/timeline-events-fifth-book.json"
 ];
 
 const dateFormatter = new Intl.DateTimeFormat("zh-Hant", {
