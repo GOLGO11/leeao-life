@@ -1,9 +1,9 @@
 李敖交互式年表：当前增量纯文本备份
 生成日期：2026-04-20
-事件总数：781
+事件总数：794
 数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json
 说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。
-日期精度统计：day=571；year=43；undated-range=1；undated-context=98；season=17；lunar-day=1；year-after=6；month=19；half-year=2；day-range=9；month-after=2；year-range=4；year-about=5；day-after=2；year-end=1
+日期精度统计：day=582；year=43；undated-range=1；undated-context=99；season=17；lunar-day=1；year-after=6；month=19；half-year=2；day-range=9；month-after=2；year-range=4；year-about=5；day-after=3；year-end=1
 
 
 1935
@@ -9507,3 +9507,161 @@
   来源：李敖议坛哀思录 / 022.我高潮，你刹车 / line 3
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/022.我高潮，你刹车.txt
   数据：data/timeline-events-sixth-book.json#book6-2005-03-17-questions-mac-chairman-wu-zhaoxie-on-cross-strait-policy
+- 2005年3月21日 | 李敖质询霍守业，要求国防部证明台海战争不能打
+  精度：day；可靠度：confirmed；排序日期：2005-03-21
+  摘要：《应该去跟妇产科医生讲》写，2005年3月21日李敖在国防委员会质询国防部副部长霍守业，借爱国者三型导弹报告批评国防部用数字制造谎话，要求将军以专业胆识证明台海战争不能打，并以“穿透率并不代表命中率”反讽国防部的技术语言。
+  人物：李敖、霍守业、林勤经
+  地点：立法院国防委员会、台北
+  标签：霍守业、爱国者三型、国防委员会、穿透率、台海战争
+  视图：政治线、立法院线、军购线
+  作品：孙子兵法、李敖议坛哀思录
+  交叉引用：book6-2005-03-17-questions-li-jie-again-over-arms-purchase
+  来源：李敖议坛哀思录 / 023.应该去跟妇产科医生讲 / line 3
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/023.应该去跟妇产科医生讲.txt
+  数据：data/timeline-events-sixth-book.json#book6-2005-03-21-questions-huo-shouye-on-pac3-and-war-strategy
+- 2005年3月23日 | 李敖质询李杰，主张 P-3C 可租借并提出台湾不设防思考
+  精度：day；可靠度：confirmed；排序日期：2005-03-23
+  摘要：《为什么不从大的战略来考虑》写，2005年3月23日李敖在国防委员会质询国防部长李杰，围绕 P-3C 长程定翼反潜机军购，追问为何不能以租赁取代购买，又借南京不设防、金门撤防等历史类比，要求国防部从大战略考虑台湾部分区域不设防的可能。
+  人物：李敖、李杰、霍守业、林郁方、李宗仁
+  地点：立法院国防委员会、台北
+  标签：李杰、P-3C、军租、不设防、大战略
+  视图：政治线、立法院线、军购线
+  作品：李宗仁回忆录、李敖议坛哀思录
+  交叉引用：book6-2005-03-21-questions-huo-shouye-on-pac3-and-war-strategy
+  来源：李敖议坛哀思录 / 024.为什么不从大的战略来考虑 / line 3
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/024.为什么不从大的战略来考虑.txt
+  数据：data/timeline-events-sixth-book.json#book6-2005-03-23-questions-li-jie-on-p3c-rental-and-undefended-taiwan
+- 2005年3月24日 | 李敖质询李杰，称将以谢长廷为第一被告、李杰为第二被告追究潜艇军购
+  精度：day；可靠度：confirmed；排序日期：2005-03-24
+  摘要：《第一被告是谢长廷，第二就是你》写，2005年3月24日李敖在国防委员会质询国防部长李杰，围绕柴电潜艇军购、公投否决导弹采购案和《与台湾关系法》中的 provide 解释，称状子已写好，若谢长廷、李杰不反省，就以谢长廷为第一被告、李杰为第二被告提告。
+  人物：李敖、李杰、谢长廷、翁岳生、陈水扁
+  地点：立法院国防委员会、台北
+  标签：李杰、谢长廷、柴电潜艇、公投法、与台湾关系法、起诉
+  视图：政治线、立法院线、司法线、军购线
+  作品：与台湾关系法、公投法、李敖议坛哀思录
+  交叉引用：book6-2005-03-23-questions-li-jie-on-p3c-rental-and-undefended-taiwan
+  来源：李敖议坛哀思录 / 025.第一被告是谢长廷，第二就是你 / line 3
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/025.第一被告是谢长廷，第二就是你.txt
+  数据：data/timeline-events-sixth-book.json#book6-2005-03-24-threatens-to-sue-hsieh-and-li-jie-over-submarine-budget
+- 2005年3月30日 | 李敖质询李杰，借《海军服饰条例》追打海军总司令查勤事件
+  精度：day；可靠度：confirmed；排序日期：2005-03-30
+  摘要：《用衣冠整禽兽》写，2005年3月30日李敖在国防委员会质询李杰，围绕海军总司令查勤被换事件，从《海军服饰条例》切入，指出海军陆战队军官穿黑袜黄皮靴等规定，批评陈水扁把非海军科班者派任海军总司令，并要求李杰面对政治任命与军中真实问题。
+  人物：李敖、李杰、查勤、李海东、陈水扁、高凌云
+  地点：立法院国防委员会、台北
+  标签：李杰、查勤、海军服饰条例、海军陆战队、海军总司令
+  视图：政治线、立法院线、军队线
+  作品：海军服饰条例、李敖议坛哀思录
+  交叉引用：book6-2005-03-24-threatens-to-sue-hsieh-and-li-jie-over-submarine-budget
+  来源：李敖议坛哀思录 / 026.用衣冠整禽兽 / line 3
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/026.用衣冠整禽兽.txt
+  数据：data/timeline-events-sixth-book.json#book6-2005-03-30-morning-questions-li-jie-on-navy-uniform-and-cha-incident
+- 2005年3月30日再次质询 | 李敖再次质询李杰，批评反恐挂钩与军队人心问题
+  精度：day；可靠度：confirmed；排序日期：2005-03-30
+  摘要：《历史会证明我们同归于尽》写，2005年3月30日李敖在国防委员会再次质询国防部长李杰，批评台湾无端以反恐议题和国际挂钩，借查勤事件说明国防部“聪明人自扰”，并追问军队在《我爱中华》、五大信念等旧架构瓦解后究竟为谁而战、为何而战。
+  人物：李敖、李杰、萧美琴、查勤
+  地点：立法院国防委员会、台北
+  标签：李杰、反恐、查勤、军心、同归于尽
+  视图：政治线、立法院线、军队线
+  作品：李敖议坛哀思录
+  交叉引用：book6-2005-03-30-morning-questions-li-jie-on-navy-uniform-and-cha-incident
+  来源：李敖议坛哀思录 / 027.历史会证明我们同归于尽 / line 3
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/027.历史会证明我们同归于尽.txt
+  数据：data/timeline-events-sixth-book.json#book6-2005-03-30-second-questions-li-jie-on-counterterrorism-and-military-morale
+- 2005年4月12日 | 李敖质询谢长廷，为林弘宣请命并批评杜正胜消耗民进党
+  精度：day；可靠度：confirmed；排序日期：2005-04-12
+  摘要：《长廷啊，不要在后台唱戏》写，2005年4月12日李敖在院会质询末段，提到自己和王幸男同为坐过政治牢的立委，为美丽岛案站在第一排的林弘宣请命，要求谢长廷特别照顾；随后又借杜正胜地图、靖国神社和历史书写争议，批评谢内阁任用杜正胜使民进党持续消耗政治资源。
+  人物：李敖、谢长廷、林弘宣、王幸男、杜正胜、林永丰、郭国基
+  地点：立法院院会、台北
+  标签：谢长廷、林弘宣、王幸男、杜正胜、靖国神社、美丽岛事件
+  视图：政治线、立法院线、交游线、思想线
+  作品：台湾人的傲骨精神、李敖议坛哀思录
+  交叉引用：book6-2005-04-12-presses-hsieh-on-china-in-law-and-resistance-to-laws
+  来源：李敖议坛哀思录 / 028.长廷啊，不要在后台唱戏 / line 147
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/028.长廷啊，不要在后台唱戏.txt
+  数据：data/timeline-events-sixth-book.json#book6-2005-04-12-asks-hsieh-to-care-for-lin-hongxuan-and-criticizes-du-zhengsheng
+- 2005年4月12日 | 李敖质询谢长廷，逼问法律中的“中国”并要求二十天内书面答复
+  精度：day；可靠度：confirmed；排序日期：2005-04-12
+  摘要：《长廷啊，不要在后台唱戏》写，2005年4月12日李敖在院会质询谢长廷时，追问法律中的“中国”究竟是什么，要求谢以 yes or no 回答，并把问题延伸到《真相条例》、行政机关抵抗执行有效法律、大法官解释和“一个中国架构”等法理困境；谢长廷同意二十天后书面答复。
+  人物：李敖、谢长廷、侯友宜、游锡堃、林浊水
+  地点：立法院院会、台北
+  标签：谢长廷、中国、真相条例、大法官解释、书面答复、一个中国
+  视图：政治线、立法院线、两岸线、司法线
+  作品：真相条例、上海公报、八一七公报、李敖议坛哀思录
+  交叉引用：book6-2005-04-12-asks-hsieh-changting-to-pursue-arms-rental
+  来源：李敖议坛哀思录 / 028.长廷啊，不要在后台唱戏 / line 69
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/028.长廷啊，不要在后台唱戏.txt
+  数据：data/timeline-events-sixth-book.json#book6-2005-04-12-presses-hsieh-on-china-in-law-and-resistance-to-laws
+- 2005年4月12日 | 李敖院会质询谢长廷，要求军购与军租同时进行
+  精度：day；可靠度：confirmed；排序日期：2005-04-12
+  摘要：《长廷啊，不要在后台唱戏》写，2005年4月12日李敖在院会质询行政院长谢长廷，先以旧日交情和英国国会式人情味开场，再围绕《与台湾关系法》中的 provide、丘吉尔军租经验和台湾财政压力，要求谢长廷考虑以军租取代单一路径军购；谢长廷最后同意军购与军租可以同时进行。
+  人物：李敖、谢长廷、李杰、陈水扁、丘吉尔
+  地点：立法院院会、台北
+  标签：谢长廷、院会质询、军租、与台湾关系法、丘吉尔
+  视图：政治线、立法院线、军购线
+  作品：与台湾关系法、契约实务全书、第二次世界大战回忆录、李敖议坛哀思录
+  交叉引用：book6-2005-03-24-threatens-to-sue-hsieh-and-li-jie-over-submarine-budget
+  来源：李敖议坛哀思录 / 028.长廷啊，不要在后台唱戏 / line 3
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/028.长廷啊，不要在后台唱戏.txt
+  数据：data/timeline-events-sixth-book.json#book6-2005-04-12-asks-hsieh-changting-to-pursue-arms-rental
+
+2006
+- 2006年1月2日 | 李敖在重大军事采购政策公听会上提出“哥斯达黎加模式”
+  精度：day；可靠度：confirmed；排序日期：2006-01-02
+  摘要：《公听会听我言》写，2006年1月2日李敖在国防委员会重大军事采购政策公听会上发言，主张台湾可从哥斯达黎加无军队模式思考，质疑台湾军队战力，并提出可由自己或其美国女儿就《与台湾关系法》向美国总统小布什提起诉讼，借美国联邦法院解释“provide”是否等于买卖武器。
+  人物：李敖、小布什、李杰、李大维、马英九
+  地点：立法院国防委员会、台北
+  标签：公听会、重大军事采购、哥斯达黎加模式、与台湾关系法、小布什
+  视图：政治线、立法院线、军购线
+  作品：与台湾关系法、李敖议坛哀思录
+  交叉引用：book6-2005-03-09-first-questioning-of-defense-minister-li-jie、book6-2005-03-17-questions-li-jie-again-over-arms-purchase
+  来源：李敖议坛哀思录 / 062.公听会听我言 / line 3
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/062.公听会听我言.txt
+  数据：data/timeline-events-sixth-book.json#book6-2006-01-02-speaks-at-major-arms-procurement-public-hearing
+- 2006年1月5日 | 李敖质询蔡明宪并当场撕掉国防部提高国防预算报告
+  精度：day；可靠度：confirmed；排序日期：2006-01-05
+  摘要：《我当场撕掉国防部文件》写，2006年1月5日李敖在国防委员会质询国防部副部长蔡明宪，指出国防部报告把韩国、以色列国防预算占 GDP 比例算错，且资料单位混乱、选择性不列日本；他当场撕掉报告，要求国防部重做，蔡明宪最后代表国防部道歉。
+  人物：李敖、蔡明宪、梁功凯、李杰、马英九
+  地点：立法院国防委员会、台北
+  标签：国防委员会、蔡明宪、梁功凯、国防预算、撕文件、GDP百分比
+  视图：政治线、立法院线、军购线
+  作品：李敖议坛哀思录
+  交叉引用：book6-2006-01-02-speaks-at-major-arms-procurement-public-hearing
+  来源：李敖议坛哀思录 / 065.我当场撕掉国防部文件 / line 3
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/065.我当场撕掉国防部文件.txt
+  数据：data/timeline-events-sixth-book.json#book6-2006-01-05-tears-defense-ministry-gdp-report
+- 2006年10月24日 | 李敖在立法院程序委员会喷催泪瓦斯阻挡军购案付委
+  精度：day；可靠度：confirmed；排序日期：2006-10-24
+  摘要：《喷瓦斯事件》写，2006年10月24日李敖突然现身立法院程序委员会，为阻挡军购案付委，要求发言三分钟，戴上 V 怪客面具和防毒面罩，先请女性离场，再以防狼喷雾器喷出催泪瓦斯，导致会议中断并被提议移送纪律委员会。
+  人物：李敖、蔡启芳、王世坚、管碧玲、雷倩、马英九
+  地点：立法院程序委员会、台北
+  标签：喷瓦斯事件、程序委员会、军购案、V怪客、催泪瓦斯、纪律委员会
+  视图：政治线、立法院线、军购线
+  作品：李敖议坛哀思录
+  交叉引用：book6-2006-01-02-speaks-at-major-arms-procurement-public-hearing、book6-2006-01-05-tears-defense-ministry-gdp-report
+  来源：李敖议坛哀思录 / 081.喷瓦斯事件 / line 3
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/081.喷瓦斯事件.txt
+  数据：data/timeline-events-sixth-book.json#book6-2006-10-24-tear-gas-at-procedure-committee-to-block-arms-purchase
+- 喷瓦斯事件后 | 《苹果日报》头条报道李敖喷瓦斯事件并引发法律责任讨论
+  精度：day-after；可靠度：inferred；排序日期：2006-10-25
+  摘要：《喷瓦斯事件》引《苹果日报》报道，李敖在程序委员会喷催泪瓦斯后成为台湾头条新闻，报道以“李敖疯了”等语形容现场，并引述律师、警界和立委对强制罪、妨害合法集会、社会秩序维护法及纪律委员会处分的讨论，构成李敖反军购行动的即时媒体回响。
+  人物：李敖、方伯勋、方仰宁、蔡启芳、雷倩、管碧玲
+  地点：台北、立法院
+  标签：苹果日报、喷瓦斯事件、媒体报道、法律责任、纪律委员会
+  视图：媒体线、政治线、司法线
+  作品：苹果日报、李敖议坛哀思录
+  交叉引用：book6-2006-10-24-tear-gas-at-procedure-committee-to-block-arms-purchase
+  来源：李敖议坛哀思录 / 081.喷瓦斯事件 / line 7
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/081.喷瓦斯事件.txt
+  数据：data/timeline-events-sixth-book.json#book6-2006-10-25-apple-daily-front-page-and-legal-reaction-to-tear-gas
+- 喷瓦斯事件后 | 李敖收录林深靖《李敖与V怪客》及海外网友对喷瓦斯事件的反馈
+  精度：undated-context；可靠度：confirmed；排序日期：2006-12-31
+  摘要：《喷瓦斯事件》在《苹果日报》报道后，又摘录林深靖《李敖与V怪客》，把李敖喷瓦斯阻军购放到诺贝尔和平奖得主反军火交易的同日背景中解释；该章还收录海外凤凰博客网友对李敖戴面具闹立法院的支持和争议性反馈，显示此事在媒体与网络中的扩散。
+  人物：李敖、林深靖
+  地点：台湾、海外网络
+  标签：林深靖、李敖与V怪客、凤凰博客、网友反馈、反军购
+  视图：媒体线、政治线、思想线
+  作品：李敖与V怪客、李敖议坛哀思录
+  交叉引用：book6-2006-10-24-tear-gas-at-procedure-committee-to-block-arms-purchase
+  来源：李敖议坛哀思录 / 081.喷瓦斯事件 / line 27
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/081.喷瓦斯事件.txt
+  数据：data/timeline-events-sixth-book.json#book6-2006-after-tear-gas-lin-shenjing-v-for-vendetta-commentary-and-online-feedback
