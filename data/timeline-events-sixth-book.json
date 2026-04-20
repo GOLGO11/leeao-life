@@ -1701,5 +1701,581 @@
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/073.83只鸭子式民主.txt",
       "line": 21
     }
+  },
+  {
+    "id": "book6-2006-12-22-writes-defense-to-disciplinary-committee-after-tear-gas-case",
+    "date": "2006-12-22",
+    "displayDate": "2006年12月22日",
+    "datePrecision": "day",
+    "title": "李敖写成“催泪瓦斯阻军购”纪律答辩，交尹伶瑛转知",
+    "summary": "《瓦斯伺之以后》收录李敖就“催泪瓦斯阻军购”案答复纪律委员会的文字，署日2006年12月22日。李敖从公平、议事、比例和军购四面申辩，称程序委员会和政党协商剥夺其进场权、出场权，只剩在场权；又把喷瓦斯解释为少数派阻挠议事的一环，并把英国国会规范附卷，要求本案结案十日后归还。",
+    "view": ["政治线", "立法院线", "军购线", "司法线"],
+    "tags": ["催泪瓦斯", "纪律委员会", "立法委员行为法", "阻挠议事", "军购"],
+    "people": ["李敖", "尹伶瑛", "雷倩", "张硕文"],
+    "places": ["立法院", "台北"],
+    "works": ["立法委员行为法", "Erskine May's Treatise on The Law, Privileges, Proceedings and Usage of Parliament", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2006-10-24-tear-gas-at-procedure-committee-to-block-arms-purchase"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "082.瓦斯伺之以后",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/082.瓦斯伺之以后.txt",
+      "line": 49
+    }
+  },
+  {
+    "id": "book6-2006-12-29-holds-running-dog-sign-when-arms-procurement-passes",
+    "date": "2006-12-29",
+    "displayDate": "2006年12月29日",
+    "datePrecision": "day",
+    "title": "军购案付委过关时，李敖持“美国走狗”标语走到主席台前",
+    "summary": "《“陈水扁们是美国走狗，马英九们是美国走狗的走狗”》写，2006年12月29日军购案在立法院表决中过关，李敖独自走到主席台正面，在全部立委面前举牌，写着“陈水扁们是美国走狗／马英九们是美国走狗的走狗”，把军购过关归为蓝绿共同媚美。",
+    "view": ["政治线", "立法院线", "军购线"],
+    "tags": ["军购案", "美国走狗", "标语抗议", "国民党放水", "付委"],
+    "people": ["李敖", "陈水扁", "马英九"],
+    "places": ["立法院", "台北"],
+    "works": ["李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book6-2006-12-22-writes-defense-to-disciplinary-committee-after-tear-gas-case",
+      "book6-2006-10-24-tear-gas-at-procedure-committee-to-block-arms-purchase"
+    ],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "083.“陈水扁们是美国走狗，马英九们是美国走狗的走狗”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/083.“陈水扁们是美国走狗，马英九们是美国走狗的走狗”.txt",
+      "line": 5
+    }
+  },
+  {
+    "id": "book6-2006-12-30-english-papers-put-li-ao-running-dog-protest-on-front-page",
+    "date": "2006-12-30",
+    "displayDate": "2006年12月30日",
+    "datePrecision": "day",
+    "title": "英文报刊刊出李敖军购抗议照片与“美国走狗”译文",
+    "summary": "同章写，2006年12月30日，TAIPEI TIMES 以头版头题刊出李敖军购抗议图文，The China Post 也译出“陈水扁是美国走狗、马英九是美国走狗的走狗”一语；李敖据此记录自己在军购案最后一战中的媒体可见性，并批评中文蓝绿报纸封杀。",
+    "view": ["媒体线", "政治线", "立法院线", "军购线"],
+    "tags": ["Taipei Times", "The China Post", "英文报", "媒体回响", "军购"],
+    "people": ["李敖", "陈水扁", "马英九"],
+    "places": ["台北"],
+    "works": ["TAIPEI TIMES", "The China Post", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2006-12-29-holds-running-dog-sign-when-arms-procurement-passes"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "083.“陈水扁们是美国走狗，马英九们是美国走狗的走狗”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/083.“陈水扁们是美国走狗，马英九们是美国走狗的走狗”.txt",
+      "line": 13
+    }
+  },
+  {
+    "id": "book6-2007-02-10-writes-kmt-arms-procurement-water-release-name-list",
+    "date": "2007-02-10",
+    "displayDate": "2007年2月10日",
+    "datePrecision": "day",
+    "title": "李敖写成“媚美军购国民党放水花名榜”",
+    "summary": "《媚美军购国民党放水花名榜》署日2007年2月10日，李敖引用《立法院公报》第96卷第7期，逐项核对2006年12月29日军购付委两次记名表决，列出国民党在“甲级动员”和党纪压力下的赞成、弃权、反对、未投票或未入场名单，追究国民党对军购放水。",
+    "view": ["政治线", "立法院线", "军购线", "资料线"],
+    "tags": ["国民党放水", "军购案", "记名表决", "立法院公报", "花名榜"],
+    "people": ["李敖", "马英九", "雷倩", "林郁方", "苏起", "帅化民"],
+    "places": ["立法院", "台北"],
+    "works": ["立法院公报", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2006-12-29-holds-running-dog-sign-when-arms-procurement-passes"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "084.媚美军购国民党放水花名榜",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/084.媚美军购国民党放水花名榜.txt",
+      "line": 131
+    }
+  },
+  {
+    "id": "book6-2007-02-05-writes-twelve-questions-to-lei-chien-over-arms-procurement",
+    "date": "2007-02-05",
+    "displayDate": "2007年2月5日",
+    "datePrecision": "day",
+    "title": "李敖写“为媚美军购质问国民党员”，以雷倩为例列十二项质问",
+    "summary": "《为媚美军购质问国民党员》写，2007年2月5日李敖写成同名文章，以雷倩控告喷瓦斯事件为背景，从军购大前提、安全需求、潜舰、程序委员会、院会表决、雷学明案、反军购身份、投票反复、北京行和私德诚信等十二项，要求雷倩公开答复。",
+    "view": ["政治线", "军购线", "司法线", "资料线"],
+    "tags": ["雷倩", "军购案", "质问", "喷瓦斯案", "国民党"],
+    "people": ["李敖", "雷倩", "雷学明", "连战", "胡锦涛"],
+    "places": ["台北", "北京"],
+    "works": ["为媚美军购质问国民党员", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book6-2006-10-24-tear-gas-at-procedure-committee-to-block-arms-purchase",
+      "book6-2007-02-10-writes-kmt-arms-procurement-water-release-name-list"
+    ],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "085.为媚美军购质问国民党员",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/085.为媚美军购质问国民党员.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2006-10-15-tv-reports-li-ao-run-for-taipei-mayor-reactions",
+    "date": "2006-10-15",
+    "displayDate": "2006年10月15日",
+    "datePrecision": "day",
+    "title": "李敖决定投入台北市长选举后，电视画面播出马英九、谢长廷反应",
+    "summary": "《用选市长传播理念》写，李敖受赖岳忠“煽动”决定投身台北市长选举，明知不会当选却要借机会传播理念。消息传出后，2006年10月15日电视画面播出马英九称李敖对国民党威胁很大、谢长廷称不知该高兴还是当心。",
+    "view": ["政治线", "媒体线", "选举线"],
+    "tags": ["台北市长选举", "参选", "电视", "传播理念"],
+    "people": ["李敖", "赖岳忠", "马英九", "谢长廷"],
+    "places": ["台北"],
+    "works": ["李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "086.用选市长传播理念",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/086.用选市长传播理念.txt",
+      "line": 5
+    }
+  },
+  {
+    "id": "book6-2006-11-25-taipei-mayor-policy-presentation-raises-defense-and-arms-procurement",
+    "date": "2006-11-25",
+    "displayDate": "2006年11月25日",
+    "datePrecision": "day",
+    "title": "李敖在台北市长政见发表会主张“拉高台北、对抗烂的中央政府”",
+    "summary": "同章引中央社2006年11月25日报道，李敖在台北市长政见发表会上大谈军购、台北安全和对美政策，称美国不可能保卫台湾，台北不应设导弹基地，市政不该只限于修桥造路，而要拉高到保护台北安全、对抗中央政府的层次。",
+    "view": ["政治线", "选举线", "军购线", "媒体线"],
+    "tags": ["台北市长选举", "政见发表会", "中央社", "军购", "台北安全"],
+    "people": ["李敖", "陈水扁", "李杰"],
+    "places": ["台北"],
+    "works": ["中央社", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2006-10-15-tv-reports-li-ao-run-for-taipei-mayor-reactions"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "086.用选市长传播理念",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/086.用选市长传播理念.txt",
+      "line": 7
+    }
+  },
+  {
+    "id": "book6-2006-12-04-buys-apple-daily-nude-ad-for-taipei-mayor-campaign",
+    "date": "2006-12-04",
+    "displayDate": "2006年12月4日",
+    "datePrecision": "day",
+    "title": "李敖花45万元在《苹果日报》刊两大全版裸体竞选广告",
+    "summary": "《与五大名模同裸》写，2006年12月4日李敖花45万元在《苹果日报》登出两大全版广告，左角放外国五大名模裸体照，也放自己的裸体照，用金色标签遮住生殖器部分，并以“裸体抗议是中国传统，也是世界潮流”切入，质疑国民党凭什么说了算、谁破坏了泛蓝团结。",
+    "view": ["政治线", "选举线", "媒体线", "身体线"],
+    "tags": ["苹果日报", "裸体广告", "台北市长选举", "泛蓝团结", "国民党"],
+    "people": ["李敖", "郝龙斌", "陈水扁", "马英九", "宋楚瑜"],
+    "places": ["台北"],
+    "works": ["苹果日报", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2006-11-25-taipei-mayor-policy-presentation-raises-defense-and-arms-procurement"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "087.与五大名模同裸",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/087.与五大名模同裸.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2006-12-04-publishes-five-days-ad-for-taipei-election",
+    "date": "2006-12-04",
+    "displayDate": "2006年12月4日同日广告",
+    "datePrecision": "day",
+    "title": "李敖以“只要五天，天就会亮”广告催票",
+    "summary": "《“只要五天，天就会亮”》写，2006年12月4日同一天，李敖用广告主张在国会以预算冻结的焦土战让坏政府瘫痪、在首都以城市战让坏政府失灵，并提醒台北市长选举将在12月9日投票，“只要五天，天就会亮”。",
+    "view": ["政治线", "选举线", "媒体线"],
+    "tags": ["台北市长选举", "竞选广告", "预算冻结", "城市战", "只要五天"],
+    "people": ["李敖"],
+    "places": ["台北"],
+    "works": ["李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2006-12-04-buys-apple-daily-nude-ad-for-taipei-mayor-campaign"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "088.“只要五天，天就会亮”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/088.“只要五天，天就会亮”.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2006-12-04-publishes-he-essay-as-taipei-election-farewell",
+    "date": "2006-12-04",
+    "displayDate": "2006年12月4日同日散文",
+    "datePrecision": "day",
+    "title": "李敖发表散文“他”，把参选台北市长写成向台湾道别",
+    "summary": "《要抛弃蓝绿，展开新的思维》写，2006年12月4日李敖发表散文《他》，回顾自己离开北京、重返北京和在台北生活57年的经历，称投身台北市长选举不是从胜负考虑，而是以参选方式向台湾道别，要求选民抛弃蓝绿、展开新的思维。",
+    "view": ["政治线", "选举线", "写作线", "生平线"],
+    "tags": ["台北市长选举", "散文", "北京", "蓝绿", "道别"],
+    "people": ["李敖", "陈文茜"],
+    "places": ["台北", "北京", "台湾"],
+    "works": ["他", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2006-12-04-buys-apple-daily-nude-ad-for-taipei-mayor-campaign"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "089.要抛弃蓝绿，展开新的思维",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/089.要抛弃蓝绿，展开新的思维.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2006-12-09-loses-taipei-mayor-election-after-predicting-votes",
+    "date": "2006-12-09",
+    "displayDate": "2006年12月9日投票日",
+    "datePrecision": "day",
+    "title": "台北市长选举投票日，李敖预估8500票，开出7900票",
+    "summary": "《选市长的道德意义》写，市长选举投票那天，王祥基等人接李敖下山，要他书面存证预估得票；李敖写下8500票，王祥基另纸也写8500，结果开出7900票。李敖把这次选举概括为因传播理念而来、因落选一笑而去。",
+    "view": ["政治线", "选举线", "生平线"],
+    "tags": ["台北市长选举", "投票日", "得票", "落选", "传播理念"],
+    "people": ["李敖", "王祥基", "郝龙斌", "宋楚瑜"],
+    "places": ["台北"],
+    "works": ["李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book6-2006-12-04-buys-apple-daily-nude-ad-for-taipei-mayor-campaign",
+      "book6-2006-12-04-publishes-five-days-ad-for-taipei-election",
+      "book6-2006-12-04-publishes-he-essay-as-taipei-election-farewell"
+    ],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "090.选市长的道德意义",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/090.选市长的道德意义.txt",
+      "line": 35
+    }
+  },
+  {
+    "id": "book6-2006-04-20-xiao-ao-niandai-press-conference-before-broadcast",
+    "date": "2006-04-20",
+    "displayDate": "2006年5月7日开播前十七天（推定2006年4月20日）",
+    "datePrecision": "day",
+    "title": "年代电视为“笑‘敖’年代”举行开播记者会，莫文蔚献花",
+    "summary": "《“笑‘敖’年代”》写，年代电视准备自2006年5月7日起在每周日晚8至9点推出“笑‘敖’年代”，开播前十七天在喜来登二楼举行记者会，王幸男、郝龙斌等致词，莫文蔚作为神秘嘉宾从后方出来献花，李敖记录自己又搂又抱了这位动人的女人。此日由“开播前十七天”推定为2006年4月20日。",
+    "view": ["媒体线", "交游线", "政治线"],
+    "tags": ["笑敖年代", "年代电视", "记者会", "莫文蔚", "喜来登"],
+    "people": ["李敖", "严智径", "王幸男", "郝龙斌", "莫文蔚", "王祥基"],
+    "places": ["喜来登饭店", "台北"],
+    "works": ["笑敖年代", "李敖议坛哀思录"],
+    "certainty": "inferred",
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "091.“笑‘敖’年代”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/091.“笑‘敖’年代”.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2006-05-07-xiao-ao-niandai-begins-broadcast",
+    "date": "2006-05-07",
+    "displayDate": "2006年5月7日",
+    "datePrecision": "day",
+    "title": "年代电视“笑‘敖’年代”开播，由女主播访问李敖",
+    "summary": "同章写，严智径主持年代电视时安排每周日晚8到9点推出“笑‘敖’年代”，自2006年5月7日起播出，由女主播访问李敖一人，前后由陈静兰、汪用和担任。李敖因进入立法院依法不能主持节目，故称严智径让非本人主持本人，是突破恶政府言论管制。",
+    "view": ["媒体线", "政治线", "生平线"],
+    "tags": ["笑敖年代", "年代电视", "电视节目", "言论管制"],
+    "people": ["李敖", "严智径", "陈静兰", "汪用和", "王祥基"],
+    "places": ["台北"],
+    "works": ["笑敖年代", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2006-04-20-xiao-ao-niandai-press-conference-before-broadcast"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "091.“笑‘敖’年代”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/091.“笑‘敖’年代”.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2007-02-28-reprints-you-dont-know-228-with-chen-jingzhen",
+    "date": "2007-02-28",
+    "displayDate": "2007年2月28日",
+    "datePrecision": "day",
+    "title": "二二八六十周年，李敖与陈境圳重印《你不知道的二二八》",
+    "summary": "《“你不知道的二二八”》写，2007年2月28日为二二八六十周年，李敖与陈境圳重印《你不知道的二二八》，李敖在新版感言中回顾十年前二二八五十周年两人合作出版该书，称新版由陈境圳长文增订以为佐证，并批评十年来台湾政治以歪曲行公义、以斗倒斗臭行和解。",
+    "view": ["写作线", "政治线", "历史线"],
+    "tags": ["二二八", "重印", "新版感言", "陈境圳", "历史争议"],
+    "people": ["李敖", "陈境圳", "陈水扁"],
+    "places": ["台湾"],
+    "works": ["你不知道的二二八", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "092.“你不知道的二二八”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/092.“你不知道的二二八”.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2001-03-05-writes-jianzhong-heqiduo-essay",
+    "date": "2001-03-05",
+    "displayDate": "2001年3月5日",
+    "datePrecision": "day",
+    "title": "李敖写“贱种何其多”一文，批评媚日与角色错乱",
+    "summary": "《台湾的“贱种”性格》回溯，李敖早在2001年3月5日写过《“贱种”何其多》，以古诗“汉儿学得胡儿语，争向城头骂汉人”为引，批评台湾台独资本家、总统府资政、国策顾问和相关团体在慰安妇问题上的媚日与角色错乱。",
+    "view": ["写作线", "政治线", "历史线"],
+    "tags": ["贱种何其多", "慰安妇", "媚日", "台独", "日本"],
+    "people": ["李敖", "许文龙", "陈水扁", "金美龄", "蒋介石"],
+    "places": ["台湾", "日本"],
+    "works": ["贱种何其多", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "093.台湾的“贱种”性格",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/093.台湾的“贱种”性格.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2007-03-08-holds-press-conference-on-lee-tenghui-goto-shinpei-award",
+    "date": "2007-03-08",
+    "displayDate": "2007年3月8日",
+    "datePrecision": "day",
+    "title": "李敖因李登辉赴日领后藤新平赏而招待记者，宣布颁“蒋介石赏”",
+    "summary": "同章写，2007年3月8日传来李登辉去日本领“后藤新平赏”，李敖认为后藤新平是台湾殖民统治元凶级人物，遂招待记者发布《蒋介石赏》，称李登辉既可敬领杀人上万者名下之赏，自己也援例成立“蒋介石赏”颁给李登辉，借此做震撼教育。",
+    "view": ["政治线", "媒体线", "历史线"],
+    "tags": ["李登辉", "后藤新平赏", "蒋介石赏", "记者会", "媚日"],
+    "people": ["李敖", "李登辉", "后藤新平", "蒋介石"],
+    "places": ["台北", "日本", "台湾"],
+    "works": ["蒋介石赏", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2001-03-05-writes-jianzhong-heqiduo-essay"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "093.台湾的“贱种”性格",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/093.台湾的“贱种”性格.txt",
+      "line": 17
+    }
+  },
+  {
+    "id": "book6-2007-01-11-first-taiping-island-budget-speech-with-barbie",
+    "date": "2007-01-11",
+    "displayDate": "2007年1月11日第一次发言",
+    "datePrecision": "day",
+    "title": "李敖在联席会议质询太平岛跑道和63亿元军购预算，拿芭比娃娃警告后续花费",
+    "summary": "《太平岛纠缠战》写，2007年1月11日李敖在国防、预算及决算两委员会联席会议第一次发言，先问李杰太平岛七亿元简易跑道是否有战略考量，逼李杰承认有战略意涵；随后主张草案落日条款已到2006年12月31日，不应继续审查，并拿出芭比娃娃比喻63亿元预算会像玩具配件一样越买越多。",
+    "view": ["政治线", "立法院线", "军购线"],
+    "tags": ["太平岛", "李杰", "63亿元预算", "芭比娃娃", "落日条款", "潜舰"],
+    "people": ["李敖", "李杰", "林郁方", "苏起", "帅化民", "傅崐萁"],
+    "places": ["立法院", "太平岛", "台北"],
+    "works": ["立法院公报", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2006-12-29-holds-running-dog-sign-when-arms-procurement-passes"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "094.太平岛纠缠战",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/094.太平岛纠缠战.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2007-01-11-second-taiping-island-speech-on-poison-bento-and-three-percent-budget",
+    "date": "2007-01-11",
+    "displayDate": "2007年1月11日第二次发言",
+    "datePrecision": "day",
+    "title": "李敖第二次发言带便当上台，追问3%国防预算协议和“合理军购”",
+    "summary": "同日第二次发言中，李敖说自己带便当上台是怕有人下毒，又拿出卢秀燕、林郁方、柯俊雄、赵良燕、帅化民和自己连署通过的议案，提醒李杰九十六年度国防预算达不到GDP 3%就要下台；他还引用谢文政在1月2日《立法院公报》的记录，指出马英九所谓合理军购从6108亿降到2990亿站不住脚，因为国防部仍称价格从未变更。",
+    "view": ["政治线", "立法院线", "军购线"],
+    "tags": ["太平岛", "便当", "国防预算3%", "合理军购", "马英九", "李杰"],
+    "people": ["李敖", "李杰", "谢文政", "马英九", "卢秀燕", "林郁方", "帅化民"],
+    "places": ["立法院", "台北"],
+    "works": ["立法院公报", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2007-01-11-first-taiping-island-budget-speech-with-barbie"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "094.太平岛纠缠战",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/094.太平岛纠缠战.txt",
+      "line": 57
+    }
+  },
+  {
+    "id": "book6-2007-05-24-questions-li-tianyu-on-civilian-defense-minister-and-budget-three-percent",
+    "date": "2007-05-24",
+    "displayDate": "2007年5月24日",
+    "datePrecision": "day",
+    "title": "李敖在秘密会议质询李天羽，追问文人部长身份和3%预算下台协议",
+    "summary": "《会自杀的国防部长》写，2007年5月24日李敖在国防委员会秘密会议质询新任国防部长李天羽，先追问李天羽5月20日任部长时仍是现役军人、5月21日才卸下军职，质疑所谓文人部长；继而追问李杰时期正副部长若九十六年度国防预算未达GDP 3%就应下台的协议是否有效。",
+    "view": ["政治线", "立法院线", "军购线"],
+    "tags": ["李天羽", "秘密会议", "文人部长", "国防预算3%", "李杰"],
+    "people": ["李敖", "李天羽", "李杰", "苏贞昌", "林郁方", "帅化民"],
+    "places": ["立法院国防委员会", "台北"],
+    "works": ["李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2007-01-11-second-taiping-island-speech-on-poison-bento-and-three-percent-budget"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "096.会自杀的国防部长",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/096.会自杀的国防部长.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2007-05-24-questions-li-tianyu-on-arms-procurement-pacifier-and-installment-payment",
+    "date": "2007-05-24",
+    "displayDate": "2007年5月24日同场质询",
+    "datePrecision": "day",
+    "title": "李敖同场质询李天羽，批军购奶嘴效应和分期付款护航",
+    "summary": "同场质询中，李敖重申军购无用，台湾最多挡住1%飞弹，剩下靠美国来救却无保证；他解释送李杰大奶嘴是要其说真话，又追问国防部过去宣称不用特别预算会严重排挤其他预算，为什么国民党护航改成分期付款后又说不排挤，并在主席制止时反击林进兴。",
+    "view": ["政治线", "立法院线", "军购线"],
+    "tags": ["李天羽", "军购", "奶嘴效应", "分期付款", "特别预算"],
+    "people": ["李敖", "李天羽", "李杰", "赖士葆", "林进兴", "李大维"],
+    "places": ["立法院国防委员会", "台北"],
+    "works": ["与台湾关系法", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book6-2007-05-24-questions-li-tianyu-on-civilian-defense-minister-and-budget-three-percent",
+      "book6-2005-12-14-gets-li-dawei-to-admit-us-may-not-rescue-taiwan"
+    ],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "096.会自杀的国防部长",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/096.会自杀的国防部长.txt",
+      "line": 41
+    }
+  },
+  {
+    "id": "book6-2007-10-05-lunch-with-li-tianyu-and-laughs-at-fight-to-last-soldier",
+    "date": "2007-10-05",
+    "displayDate": "2007年10月5日中午",
+    "datePrecision": "day",
+    "title": "李天羽请国防委员会便饭，李敖听到“战到一兵一卒”当场笑起来",
+    "summary": "同章后记写，2007年10月5日中午李天羽请国防委员会委员便饭并做简报。李敖发言后，林进兴说军人要战到一兵一卒，李敖当场笑起来，并以蒋介石当年若真战到一兵一卒便不会来台湾，讽刺这种说法为“蒋公附体”。",
+    "view": ["政治线", "立法院线", "军购线", "日常线"],
+    "tags": ["李天羽", "国防委员会", "便饭", "战到一兵一卒", "蒋公附体"],
+    "people": ["李敖", "李天羽", "林进兴", "蒋介石"],
+    "places": ["台北", "立法院"],
+    "works": ["李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "096.会自杀的国防部长",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/096.会自杀的国防部长.txt",
+      "line": 123
+    }
+  },
+  {
+    "id": "book6-2007-06-21-lunch-with-lin-yufang-and-gives-li-seven-points",
+    "date": "2007-06-21",
+    "displayDate": "2007年6月21日",
+    "datePrecision": "day",
+    "title": "林郁方请李敖吃日本料理，李敖回赠书并交“李七点”",
+    "summary": "《周郎顾曲，我看郁方》写，2007年6月21日林郁方约李敖吃高级日本料理，李敖带《北京法源寺》英译本和林郁方十三年前论文回赠题字；饭前又交给林郁方“李七点”，包括亲美媚美是蒋政权遗毒、军购大前提不成立、军购拖垮财政、军购不能保台、台湾应走阎锡山原则以及哥斯达黎加、冰岛路线等。",
+    "view": ["交游线", "政治线", "军购线", "写作线"],
+    "tags": ["林郁方", "日本料理", "李七点", "北京法源寺", "军购"],
+    "people": ["李敖", "林郁方", "马英九"],
+    "places": ["台北"],
+    "works": ["北京法源寺", "Martyrs' Shrine", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "097.周郎顾曲，我看郁方",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/097.周郎顾曲，我看郁方.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2007-06-22-leaves-letter-to-lin-yufang-after-lunch",
+    "date": "2007-06-22",
+    "displayDate": "2007年6月22日",
+    "datePrecision": "day",
+    "title": "李敖给林郁方留信，延续饭局中的博学交锋",
+    "summary": "同章写，林郁方6月21日饭局中劝李敖留在立法院、甚至劝他到文山区参选；第二天，李敖给林郁方留信，谈杰斐逊墓碑、詹姆斯·鲍斯威尔与塞缪尔·约翰逊对话，并以“不出户知天下”回应林郁方邀他去西藏新疆。",
+    "view": ["交游线", "写作线", "政治线"],
+    "tags": ["林郁方", "信件", "文山区", "杰斐逊", "博斯威尔"],
+    "people": ["李敖", "林郁方", "托马斯·杰斐逊", "詹姆斯·鲍斯威尔", "塞缪尔·约翰逊"],
+    "places": ["台北", "文山区", "西藏", "新疆"],
+    "works": ["李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2007-06-21-lunch-with-lin-yufang-and-gives-li-seven-points"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "097.周郎顾曲，我看郁方",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/097.周郎顾曲，我看郁方.txt",
+      "line": 53
+    }
+  },
+  {
+    "id": "book6-2007-03-29-inscribes-red-11-for-lin-yufang",
+    "date": "2007-03-29",
+    "displayDate": "2007年3月29日",
+    "datePrecision": "day",
+    "title": "李敖赠《红色11》给林郁方并题诗",
+    "summary": "同章末尾记，李敖赠《红色11》给林郁方，并在扉页题诗“物竞天择强者胜，强阳不倒忍者龟，一分春色春犹在，十分红处便成灰”，署日2007年3月29日。这条补入两人交游和李敖以题赠方式施加政治劝说的日常痕迹。",
+    "view": ["交游线", "写作线", "政治线", "日常线"],
+    "tags": ["林郁方", "红色11", "题诗", "赠书", "题赠"],
+    "people": ["李敖", "林郁方"],
+    "places": ["台北"],
+    "works": ["红色11", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2007-06-21-lunch-with-lin-yufang-and-gives-li-seven-points"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "097.周郎顾曲，我看郁方",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/097.周郎顾曲，我看郁方.txt",
+      "line": 57
+    }
+  },
+  {
+    "id": "book6-2007-09-20-questions-lai-yingzhao-and-hsieh-tsaichuan-on-grand-justice-consent",
+    "date": "2007-09-20",
+    "displayDate": "2007年9月20日",
+    "datePrecision": "day",
+    "title": "李敖在全院委员会质询赖英照、谢在全，行使司法院院长副院长同意权",
+    "summary": "《“你确实非常深入”》写，2007年9月20日李敖在全院委员会行使司法院院长、副院长同意权时质询赖英照、谢在全。他以美国早期最高法院院长约翰·杰伊、哈佛经历、赖英照曾任行政院副院长、自由钟破裂等材料，要求被提名人具备和当权者对干的风骨。",
+    "view": ["政治线", "立法院线", "司法线"],
+    "tags": ["司法院", "大法官", "同意权", "赖英照", "谢在全", "自由钟"],
+    "people": ["李敖", "赖英照", "谢在全", "约翰·杰伊", "马歇尔"],
+    "places": ["立法院", "台北", "美国"],
+    "works": ["李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "098.“你确实非常深入”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/098.“你确实非常深入”.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2007-09-21-questions-four-grand-justice-nominees-on-imperial-justices",
+    "date": "2007-09-21",
+    "displayDate": "中华民国九十六年9月21日上午9时8分",
+    "datePrecision": "day",
+    "title": "李敖继续质询四位大法官被提名人，要求承诺能否和总统翻脸",
+    "summary": "《我解释了“大法官”》收录2007年9月21日上午9时8分继续开会记录。李敖以《自由中国》文章《岂容御用大法官滥用解释权》开场，称若四人通过就是御用大法官，并以大法官解释件数、预算和一字近六千元为例，要求叶百修等被提名人回答是否愿意和总统翻脸、宣布总统违宪。",
+    "view": ["政治线", "立法院线", "司法线"],
+    "tags": ["大法官", "同意权", "自由中国", "御用大法官", "司法院"],
+    "people": ["李敖", "叶百修", "林锡尧", "蔡清遊", "陈水扁", "翁岳生"],
+    "places": ["立法院", "台北"],
+    "works": ["自由中国", "岂容御用大法官滥用解释权", "你不知道的司法黑暗", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2007-09-20-questions-lai-yingzhao-and-hsieh-tsaichuan-on-grand-justice-consent"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "099.我解释了“大法官”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/099.我解释了“大法官”.txt",
+      "line": 5
+    }
+  },
+  {
+    "id": "book6-2007-09-26-questions-four-more-grand-justice-nominees-and-says-he-will-vote-no",
+    "date": "2007-09-26",
+    "displayDate": "中华民国九十六年9月26日上午9时10分",
+    "datePrecision": "day",
+    "title": "李敖再质询四位大法官被提名人，称全部要投反对票",
+    "summary": "《我又宰了四个》收录2007年9月26日上午9时10分继续开会记录。李敖质询刘铁铮、许志雄、叶俊荣等四位被提名人，从《儒林外史》、母语、蒙藏委员会、美国大法官马歇尔、公投辩论和御用大法官问题一路追打，末尾称四人统统没有资格，自己全部投反对票，只是要给他们教训。",
+    "view": ["政治线", "立法院线", "司法线"],
+    "tags": ["大法官", "同意权", "蒙藏委员会", "母语", "反对票"],
+    "people": ["李敖", "刘铁铮", "许志雄", "叶俊荣", "施启扬", "陈水扁", "马歇尔"],
+    "places": ["立法院", "台北"],
+    "works": ["儒林外史", "自由中国", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book6-2007-09-20-questions-lai-yingzhao-and-hsieh-tsaichuan-on-grand-justice-consent",
+      "book6-2007-09-21-questions-four-grand-justice-nominees-on-imperial-justices"
+    ],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "100.我又宰了四个",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/100.我又宰了四个.txt",
+      "line": 5
+    }
   }
 ]
