@@ -1239,5 +1239,467 @@
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/059.小马哥黄牛了.txt",
       "line": 3
     }
+  },
+  {
+    "id": "book6-2006-01-04-questions-li-jie-on-written-us-guarantee-and-fourteen-day-defense",
+    "date": "2006-01-04",
+    "displayDate": "2006年1月4日",
+    "datePrecision": "day",
+    "title": "李敖质询李杰，要求美国对十四天后是否救台湾提出书面保证",
+    "summary": "《书个鬼面！》写，2006年1月4日李敖在国防委员会质询李杰，延续李大维“美国可能来、可能不来、也可能来了一半又跑回去”的答复，逼李杰承认《与台湾关系法》字面没有说美国一定出兵；他要求李杰拿到美国军令状或保证书，否则不必谈军购案。李杰称会在当年汉光演习时想办法让美国提出书面，李敖后来补记此事失败，称“书个鬼面”。",
+    "view": ["政治线", "立法院线", "军购线"],
+    "tags": ["李杰", "十四天", "与台湾关系法", "严重关切", "书面保证", "汉光演习"],
+    "people": ["李敖", "李杰", "李大维", "裴西", "马克吐温"],
+    "places": ["立法院国防委员会", "台北"],
+    "works": ["与台湾关系法", "汤姆历险记", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book6-2005-12-14-gets-li-dawei-to-admit-us-may-not-rescue-taiwan",
+      "book6-2006-01-02-speaks-at-major-arms-procurement-public-hearing"
+    ],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "064.书个鬼面！",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/064.书个鬼面！.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2006-03-16-questions-ko-chenheng-with-old-book-and-announces-lawsuits",
+    "date": "2006-03-16",
+    "displayDate": "2006年3月16日",
+    "datePrecision": "day",
+    "title": "李敖质询柯承亨，借旧作追问文人领军并宣布告小布什",
+    "summary": "《用旧作作弄“小亨利”》写，2006年3月16日李敖在国防委员会质询国防部副部长柯承亨，拿出柯与陈水扁旧作追问其中“文人领军”与当下国防政策是否言行不符；他说明近日少来委员会，是因政党协商吞掉委员会成果，自己正忙着写状子，要告美国总统小布什，也告李登辉和陈水扁，要求以《与台湾关系法》中的 provide 追究美国应免费提供武器而非让台湾花钱购买。",
+    "view": ["政治线", "立法院线", "军购线", "司法线"],
+    "tags": ["柯承亨", "文人领军", "小布什", "与台湾关系法", "provide", "起诉"],
+    "people": ["李敖", "柯承亨", "陈水扁", "小布什", "李登辉", "马英九", "陈诚"],
+    "places": ["立法院国防委员会", "台北"],
+    "works": ["与台湾关系法", "上山·上山·爱", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book6-2006-01-02-speaks-at-major-arms-procurement-public-hearing",
+      "book6-2005-12-23-writes-open-letter-to-ma-yingjeou-with-arms-procurement-briefing"
+    ],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "067.用旧作作弄“小亨利”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/067.用旧作作弄“小亨利”.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2006-04-04-questions-su-tsengchang-with-pillow-and-casualty-estimates",
+    "date": "2006-04-04",
+    "displayDate": "2006年4月4日",
+    "datePrecision": "day",
+    "title": "李敖院会质询苏贞昌，带枕头抗议行政院长坐着备询",
+    "summary": "《“你今天坐下的话，我就躺下来。”》写，2006年4月4日李敖在院会质询行政院长苏贞昌，先问李杰共军五波十小时攻击会死多少军人，指出国防部过去报告战耗补充达12.8万人；随后转向苏贞昌，说上次苏坐下备询，这次自己带枕头来，如果苏再坐下就躺下来，并借此要求行政院长面对战争伤亡、十四天防卫和军购路线的根本问题。",
+    "view": ["政治线", "立法院线", "军购线"],
+    "tags": ["苏贞昌", "李杰", "枕头", "十四天", "战耗补充", "院会质询"],
+    "people": ["李敖", "苏贞昌", "李杰", "朱凯生", "谢长廷"],
+    "places": ["立法院院会", "台北"],
+    "works": ["青年日报", "立法院公报", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2006-01-04-questions-li-jie-on-written-us-guarantee-and-fourteen-day-defense"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "068.“你今天坐下的话，我就躺下来。”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/068.“你今天坐下的话，我就躺下来。”.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2006-04-04-urges-su-to-stop-hatred-and-rethink-cross-strait-path",
+    "date": "2006-04-04",
+    "displayDate": "2006年4月4日同场质询",
+    "datePrecision": "day",
+    "title": "李敖要求苏贞昌停止制造仇恨，改以谈判占共产党便宜",
+    "summary": "同场质询中，李敖批评陈水扁政府以自由、民主、本土、台独、修宪等抽象名词制造悲情，而不告诉台湾人打仗第一波会死大量军人；他要求苏贞昌从政府责任出发，停止把大陆委员会变成制造仇恨的机构，并主张依“一中”与九二共识上谈判桌，利用共产党富起来后的时机“占共产党便宜”，不要再封杀自己的出路。",
+    "view": ["政治线", "立法院线", "两岸线", "思想线"],
+    "tags": ["苏贞昌", "两岸关系", "九二共识", "一中", "大陆委员会", "悲情政治"],
+    "people": ["李敖", "苏贞昌", "陈水扁", "马英九", "杜正胜", "钱其琛", "谢长廷"],
+    "places": ["立法院院会", "台北"],
+    "works": ["宪法", "国统纲领", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2006-04-04-questions-su-tsengchang-with-pillow-and-casualty-estimates"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "068.“你今天坐下的话，我就躺下来。”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/068.“你今天坐下的话，我就躺下来。”.txt",
+      "line": 45
+    }
+  },
+  {
+    "id": "book6-2006-06-03-advocates-cabinet-no-confidence-after-song-visit",
+    "date": "2006-06-03",
+    "displayDate": "2006年6月3日",
+    "datePrecision": "day",
+    "title": "李敖倡议倒阁，随后批评马英九放水使倒阁无疾而终",
+    "summary": "《马英九放倒阁的水》写，2006年5月29日宋楚瑜拜访李敖推动罢免案时，李敖促提倒阁案；6月3日李敖公开倡议倒阁，泛蓝立委、宋楚瑜、郁慕明多有赞同，马英九也称倒阁符合宪政精神且胜算大。但李敖后来用流程表概括国民党从赞同到留中不发、鼓动撤签、时机再议，最终使倒阁无疾而终，并向记者公布“匈奴未灭它先灭；内阁未倒阳先倒”等打油诗。",
+    "view": ["政治线", "立法院线", "国民党线"],
+    "tags": ["倒阁", "马英九", "宋楚瑜", "留中不发", "泛蓝", "打油诗"],
+    "people": ["李敖", "宋楚瑜", "马英九", "郁慕明", "陈水扁"],
+    "places": ["立法院", "台北"],
+    "works": ["中国时报", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2006-09-19-writes-grab-ma-yingjeou-doggerel-and-joins-anti-arms-procurement-protest"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "070.马英九放倒阁的水",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/070.马英九放倒阁的水.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2006-06-23-speaks-at-impeachment-review-on-constitution-and-taiwan-independence",
+    "date": "2006-06-23",
+    "displayDate": "2006年6月23日",
+    "datePrecision": "day",
+    "title": "李敖在总统罢免案审查中主张以违宪宣誓为罢免陈水扁理由",
+    "summary": "《审查“罢免案”》写，2006年6月23日李敖在全院委员会审查总统罢免案时发言，先纠正马英九把郑南榕说成民进党党员和误引丘吉尔的两点错误，随后主张不要把目标缩小到礼券、刑事细节，而应根据《宪法》与陈水扁总统宣誓，指出中华民国宪法含自由地区与大陆地区，是一中宪法；陈水扁既不敢台独又不守宪法，违背誓言，足以罢免。",
+    "view": ["政治线", "立法院线", "司法线", "两岸线"],
+    "tags": ["罢免案", "陈水扁", "宪法", "一中宪法", "台独", "郑南榕"],
+    "people": ["李敖", "陈水扁", "马英九", "郑南榕", "丘吉尔", "布鲁塔克", "彭明敏"],
+    "places": ["立法院全院委员会", "台北"],
+    "works": ["宪法", "宪法增修条文", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2006-06-03-advocates-cabinet-no-confidence-after-song-visit"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "069.审查“罢免案”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/069.审查“罢免案”.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2006-06-23-challenges-cec-black-agency-and-sixty-day-election-rule",
+    "date": "2006-06-23",
+    "displayDate": "2006年6月23日同场发言",
+    "datePrecision": "day",
+    "title": "李敖在罢免案审查中批评中选会黑机关与倒阁后选举解释",
+    "summary": "同场发言末段，李敖补充程序问题，批评中央选举委员会组织法未成，是“黑机关”；他主张总统解散国会后的立委重选，宪法规定视同休会，因此仍属同一届次，不能照中选会说法直接按第七届或新制度处理，并要求在王金平领导下由立法院保护自身权益。",
+    "view": ["政治线", "立法院线", "司法线"],
+    "tags": ["中选会", "黑机关", "倒阁", "解散国会", "六十日选举", "程序问题"],
+    "people": ["李敖", "王金平"],
+    "places": ["立法院全院委员会", "台北"],
+    "works": ["宪法", "公职人员选举罢免法", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2006-06-23-speaks-at-impeachment-review-on-constitution-and-taiwan-independence"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "069.审查“罢免案”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/069.审查“罢免案”.txt",
+      "line": 43
+    }
+  },
+  {
+    "id": "book6-2006-06-27-votes-in-first-presidential-impeachment-case-and-notes-dpp-absence",
+    "date": "2006-06-27",
+    "displayDate": "2006年6月27日",
+    "datePrecision": "day",
+    "title": "李敖参加第一次陈水扁罢免案表决，记录民进党立委集体缺席",
+    "summary": "《83只鸭子式民主》写，第一次陈水扁总统罢免案于2006年6月27日表决，李敖参加了6月23日毁宪违法主题审查；投票结果为出席133人、同意119票、不同意0票、无效14票，因未达全体立委三分之二而不成立。李敖特别记下民进党83位立委全部龟缩不出席，形成“不同意0票”的历史记录。",
+    "view": ["政治线", "立法院线", "司法线"],
+    "tags": ["陈水扁", "罢免案", "民进党立委", "83只鸭子", "记名投票"],
+    "people": ["李敖", "陈水扁", "孙大千", "张显耀", "吴志扬"],
+    "places": ["立法院", "台北"],
+    "works": ["立法院公报", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2006-06-23-speaks-at-impeachment-review-on-constitution-and-taiwan-independence"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "073.83只鸭子式民主",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/073.83只鸭子式民主.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2006-10-13-participates-in-second-presidential-impeachment-vote",
+    "date": "2006-10-13",
+    "displayDate": "2006年10月13日",
+    "datePrecision": "day",
+    "title": "李敖参加第二次陈水扁罢免案表决，称民进党再度集体龟缩",
+    "summary": "《83只鸭子式民主》写，第二次陈水扁总统罢免案于2006年10月13日表决，《立法院公报》记录李敖参加了这一案；投票结果为出席130人、同意116票、不同意1票、无效13票，仍未达三分之二而不成立。李敖指出民进党立委83人再度集体龟缩，其中唯一反对票来自已被民进党开除的林进兴。",
+    "view": ["政治线", "立法院线", "司法线"],
+    "tags": ["陈水扁", "罢免案", "民进党立委", "83只鸭子", "林进兴"],
+    "people": ["李敖", "陈水扁", "吕学樟", "林进兴"],
+    "places": ["立法院", "台北"],
+    "works": ["立法院公报", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2006-06-27-votes-in-first-presidential-impeachment-case-and-notes-dpp-absence"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "073.83只鸭子式民主",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/073.83只鸭子式民主.txt",
+      "line": 13
+    }
+  },
+  {
+    "id": "book6-2006-10-19-questions-cec-chair-on-black-agency-and-post-no-confidence-election",
+    "date": "2006-10-19",
+    "displayDate": "2006年10月19日",
+    "datePrecision": "day",
+    "title": "李敖质询中选会张政雄，批其为黑衙门并追问倒阁后选举届次",
+    "summary": "《你们是不是“黑衙门”？》写，2006年10月19日李敖在内政及民族委员会质询中选会主委张政雄，先问其主任委员称呼和中选会是否合法，指出中选会组织法未通过，是“黑衙门”；随后追问若倒阁、解散国会，宪法要求六十日内选出新立委，中选会是否能用单一选区两票制配套、一年公告和113席新制抵触宪法，李敖坚持应按第六届225席处理。",
+    "view": ["政治线", "立法院线", "司法线"],
+    "tags": ["中选会", "张政雄", "黑衙门", "倒阁", "单一选区两票制", "113席"],
+    "people": ["李敖", "张政雄", "陈水扁", "马英九", "王金平", "林肯"],
+    "places": ["立法院内政及民族委员会", "台北"],
+    "works": ["宪法", "公职人员选举罢免法", "中央法规标准法", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2006-06-23-challenges-cec-black-agency-and-sixty-day-election-rule"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "075.你们是不是“黑衙门”？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/075.你们是不是“黑衙门”？.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2006-10-23-questions-xue-shimin-on-nsb-budget-and-anti-secession-law",
+    "date": "2006-10-23",
+    "displayDate": "2006年10月23日",
+    "datePrecision": "day",
+    "title": "李敖质询薛石民，批国安局成总统保护局并要求正视《反分裂国家法》",
+    "summary": "《台湾人为什么这么笨？》写，2006年10月23日李敖在国防、预算及决算、法制三委员会联席会上质询国安局长薛石民，批评国安局为保护陈水扁等人增加预算，变成总统保护局；他要求薛石民正视《反分裂国家法》第八条中“不台独就不打”的约束意义，停止配合陈水扁制造两岸仇恨，并告诉人民调整与大陆关系才是国家安全大方向。",
+    "view": ["政治线", "立法院线", "国安局线", "两岸线"],
+    "tags": ["薛石民", "国家安全局", "总统保护局", "反分裂国家法", "两岸仇恨", "预算"],
+    "people": ["李敖", "薛石民", "陈水扁", "吕秀莲", "马英九"],
+    "places": ["立法院联席委员会", "台北"],
+    "works": ["反分裂国家法", "台湾的主张", "台湾之子", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2005-10-13-asks-xue-about-bananas-and-criticizes-nsb-enemy-framework"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "076.台湾人为什么这么笨？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/076.台湾人为什么这么笨？.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2006-11-10-questions-su-on-tra-and-us-rescue-commitment",
+    "date": "2006-11-10",
+    "displayDate": "2006年11月10日",
+    "datePrecision": "day",
+    "title": "李敖院会质询苏贞昌，追问《与台湾关系法》是否承诺美国出兵",
+    "summary": "《臭骂苏光头》写，2006年11月10日李敖在院会国防组质询行政院长苏贞昌，要求李杰未被点名不得上台护航，并以李远哲国家论和“中华民国是不是中国”开场；他追问苏贞昌是否知道《与台湾关系法》并没有美国出兵承诺，而只是“严重关切”，并用李大维、钱复、沈剑虹等材料说明美国承诺不可靠，批评行政院长无知于军购的法律基础。",
+    "view": ["政治线", "立法院线", "军购线", "两岸线"],
+    "tags": ["苏贞昌", "与台湾关系法", "严重关切", "美国出兵", "李大维", "钱复"],
+    "people": ["李敖", "苏贞昌", "李杰", "李远哲", "李大维", "钱复", "沈剑虹", "陈水扁"],
+    "places": ["立法院院会", "台北"],
+    "works": ["与台湾关系法", "钱复回忆录", "沈剑虹回忆录", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book6-2006-01-04-questions-li-jie-on-written-us-guarantee-and-fourteen-day-defense",
+      "book6-2005-12-14-gets-li-dawei-to-admit-us-may-not-rescue-taiwan"
+    ],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "066.臭骂苏光头",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/066.臭骂苏光头.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2006-11-10-shows-su-nude-photo-and-argues-arms-procurement-is-dog-self-funded",
+    "date": "2006-11-10",
+    "displayDate": "2006年11月10日同场质询",
+    "datePrecision": "day",
+    "title": "李敖向苏贞昌展示当兵裸照抗议军购，批蓝绿烂党共同欺骗人民",
+    "summary": "同场质询中，李敖继续追问 provide 是否应为免费提供武器，批评国民党和民进党都让台湾当美国看门狗却自费买骨头；他以民生困苦、仁爱路空军总部要卖、蓝色反攻大陆和绿色台独都不敢兑现为据，批评两党共同用军购欺骗人民。为表达抗议，他拿出《李敖回忆录》中当兵时期裸照给苏贞昌看，称自己虽老仍要以裸体抗议蓝绿烂党。",
+    "view": ["政治线", "立法院线", "军购线", "自传线"],
+    "tags": ["苏贞昌", "裸体抗议", "当兵裸照", "provide", "蓝绿烂党", "看门狗"],
+    "people": ["李敖", "苏贞昌", "李杰", "连战", "陈水扁", "林义雄"],
+    "places": ["立法院院会", "台北", "仁爱路空军总部"],
+    "works": ["李敖回忆录", "与台湾关系法", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2006-11-10-questions-su-on-tra-and-us-rescue-commitment"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "066.臭骂苏光头",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/066.臭骂苏光头.txt",
+      "line": 161
+    }
+  },
+  {
+    "id": "book6-2006-11-10-lectures-su-on-costa-rica-iceland-and-taiwan-surrender-history",
+    "date": "2006-11-10",
+    "displayDate": "2006年11月10日同场质询末段",
+    "datePrecision": "day",
+    "title": "李敖要求苏贞昌思考哥斯达黎加、冰岛模式和台湾投降史",
+    "summary": "同场质询末段，李敖追问世界上有没有没有国防和军队的国家，要求苏贞昌思考哥斯达黎加、冰岛模式，并说台湾军队保护不了人民；他又以甲午割台后多数台湾人投降、日本五十年后离开、荷兰国防部有投降计划等例子，主张不要只喊“台湾人不是被吓大的”，而应承认打不过时保存文化命脉、上谈判桌占共产党便宜才是聪明路线。",
+    "view": ["政治线", "立法院线", "军购线", "两岸线"],
+    "tags": ["苏贞昌", "哥斯达黎加", "冰岛", "投降史", "马关条约", "谈判"],
+    "people": ["李敖", "苏贞昌", "陈水扁", "何应钦", "李杰"],
+    "places": ["立法院院会", "台北", "哥斯达黎加", "冰岛", "荷兰"],
+    "works": ["马关条约", "宪法", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book6-2006-11-10-shows-su-nude-photo-and-argues-arms-procurement-is-dog-self-funded",
+      "book6-2006-01-02-speaks-at-major-arms-procurement-public-hearing"
+    ],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "066.臭骂苏光头",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/066.臭骂苏光头.txt",
+      "line": 179
+    }
+  },
+  {
+    "id": "book6-2006-11-13-scolds-university-presidents-over-intellectual-courage",
+    "date": "2006-11-13",
+    "displayDate": "2006年11月13日",
+    "datePrecision": "day",
+    "title": "李敖审国立大学校务基金，要求大学校长拿出第一流知识分子风骨",
+    "summary": "《不要像李远哲这样子迷失》写，2006年11月13日李敖在审查教育部主管五十四所国立大学校院校务基金时发言，面对六十四位校长，要求前十位出列作代表，批评大学校长只会要预算却不敢像蔡元培、胡适那样对抗坏政府和坏教育部长；他以政大、中山、中正等校名、台大怪力乱神、施明德能否进校园、李家同三任校长等例子，要求校长不要软弱。",
+    "view": ["政治线", "立法院线", "教育线", "思想线"],
+    "tags": ["国立大学校务基金", "大学校长", "知识分子风骨", "蔡元培", "胡适", "李远哲"],
+    "people": ["李敖", "蔡元培", "胡适", "杜正胜", "李远哲", "李家同", "施明德", "陈鼓应", "杨振宁"],
+    "places": ["立法院", "台北", "台湾大学", "中央研究院"],
+    "works": ["开明少年", "蓝色的毛毯", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2005-04-06-scolds-university-presidents-in-water-fertilizer-incident"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "077.不要像李远哲这样子迷失",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/077.不要像李远哲这样子迷失.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2006-11-13-questions-nuclear-back-end-fund-and-suggests-xinjiang-disposal",
+    "date": "2006-11-13",
+    "displayDate": "2006年11月13日",
+    "datePrecision": "day",
+    "title": "李敖审核电后端基金，主张从两岸与新疆角度处理核废料",
+    "summary": "《关于核电后端》写，2006年11月13日李敖在审查经济部主管“核能发电后端营运基金”会议上发言，质询经济部次长施颜祥和台电人员，追问核一是否取得四十年运转执照、核废料最终处置是否真要公投、北韩贮存案是否成功；他主张若依宪法仍是一个中国，可从两岸谈判角度争取把核废料放到新疆，并批评核四停建复建造成巨大损失，建议不讲清危机就不给经费。",
+    "view": ["政治线", "立法院线", "能源线", "两岸线"],
+    "tags": ["核能发电后端营运基金", "核废料", "核四", "新疆", "台电", "施颜祥"],
+    "people": ["李敖", "施颜祥", "徐怀琼", "林义雄", "李远哲", "陈水扁"],
+    "places": ["立法院", "台北", "兰屿", "新疆", "北韩"],
+    "works": ["宪法", "核能简讯", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2006-11-13-scolds-university-presidents-over-intellectual-courage"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "078.关于核电后端",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/078.关于核电后端.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2006-11-15-speaks-to-li-wenchung-on-defense-budget-us-guarantee-and-people-livelihood",
+    "date": "2006-11-15",
+    "displayDate": "2006年11月15日",
+    "datePrecision": "day",
+    "title": "李敖审国防预算，劝李文忠用良心面对美国保证与民生困苦",
+    "summary": "《台湾人就是被吓大的》写，2006年11月15日李敖在审查国防部预算会议上发言，先拿《瓦解的帝国》给李文忠看，强调自己在党外的老大地位，并肯定李文忠、林浊水辞职时残余良知；随后回到军购，指出李杰说美国要求台湾抵抗十四天却始终没有美国保证，长程雷达只是替美国当看门狗，人民连吃饭都有问题，武器十五年后才到位，要求暂停武器采购，把预算移向民生。",
+    "view": ["政治线", "立法院线", "军购线", "预算线"],
+    "tags": ["李文忠", "国防预算", "美国保证", "长程雷达", "民生", "反军购"],
+    "people": ["李敖", "李文忠", "林浊水", "陈文茜", "李杰", "帅化民"],
+    "places": ["立法院国防委员会", "台北"],
+    "works": ["瓦解的帝国", "如何重拾党魂", "与台湾关系法", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2006-11-10-questions-su-on-tra-and-us-rescue-commitment"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "079.台湾人就是被吓大的",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/079.台湾人就是被吓大的.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2006-11-15-argues-taiwan-should-learn-surrender-history-and-negotiate",
+    "date": "2006-11-15",
+    "displayDate": "2006年11月15日同场发言",
+    "datePrecision": "day",
+    "title": "李敖在国防预算审查中主张不要喊打，应保存命脉、谈判占便宜",
+    "summary": "同场发言后段，李敖反驳“台湾人不是被吓大的”，指出作战初期五口之家可能先死一人，台湾祖先在1895年日本来台后多数投降才得以传宗接代，五十年后台湾又回到中国；他还举荷兰投降计划和何应钦参观荷兰国防部故事，主张打不过时保存文化命脉、等待机会，并派像李敖这样的人上谈判桌占共产党便宜。",
+    "view": ["政治线", "立法院线", "军购线", "两岸线"],
+    "tags": ["台湾人不是被吓大的", "投降史", "马关条约", "荷兰", "谈判", "哥斯达黎加"],
+    "people": ["李敖", "李文忠", "何应钦", "帅化民", "李杰"],
+    "places": ["立法院国防委员会", "台北", "荷兰"],
+    "works": ["马关条约", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book6-2006-11-15-speaks-to-li-wenchung-on-defense-budget-us-guarantee-and-people-livelihood",
+      "book6-2006-11-10-lectures-su-on-costa-rica-iceland-and-taiwan-surrender-history"
+    ],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "079.台湾人就是被吓大的",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/079.台湾人就是被吓大的.txt",
+      "line": 27
+    }
+  },
+  {
+    "id": "book6-2006-11-20-protests-li-jie-absence-and-questions-ko-on-free-dog-lunch",
+    "date": "2006-11-20",
+    "displayDate": "2006年11月20日",
+    "datePrecision": "day",
+    "title": "李敖抗议李杰缺席国防委员会，质询柯承亨“狗的午餐就是免费的”",
+    "summary": "《狗的午餐就是免费的》写，2006年11月20日国防委员会原邀李杰报告并备询，李杰因总统府接待外宾延后出席，李敖在座位上抗议李杰和陈水扁藐视国会，主张散会谴责；随后发言时批李杰是惯犯、懒鬼、马屁精，并质询柯承亨，指出国防部报告把《与台湾关系法》说成安全承诺和军售法源，质疑 provide 没有买卖意思。柯说天下没有白吃午餐，李敖回以“当我们给美国人做狗的时候，狗的午餐就是免费的”。",
+    "view": ["政治线", "立法院线", "军购线"],
+    "tags": ["李杰", "柯承亨", "藐视国会", "与台湾关系法", "provide", "狗的午餐"],
+    "people": ["李敖", "李杰", "柯承亨", "陈水扁", "薛石民", "林郁方"],
+    "places": ["立法院国防委员会", "台北"],
+    "works": ["与台湾关系法", "国防工业发展基金设置条例", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2006-03-16-questions-ko-chenheng-with-old-book-and-announces-lawsuits"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "080.狗的午餐就是免费的",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/080.狗的午餐就是免费的.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2006-11-20-criticizes-first-island-chain-and-long-range-radar-as-us-dog-duty",
+    "date": "2006-11-20",
+    "displayDate": "2006年11月20日同场发言",
+    "datePrecision": "day",
+    "title": "李敖批评第一岛链逻辑和长程预警雷达，称台湾替美国买眼睛",
+    "summary": "同场发言后段，李敖批评国防部把台湾放在美国、日本发明的第一岛链语气里，把对岸设成敌人，是继承蒋介石带来的仇恨；他又以台湾花巨资购买两座长程预警雷达为例，指出雷达对台湾防御沿海飞弹无用，却替美国对俄罗斯或大陆长程飞弹提供预警，是台湾当美国看门狗、还自费替主子买眼睛，并以民生困苦和潜艇十五年后才到位，批评军购根本乱搞。",
+    "view": ["政治线", "立法院线", "军购线", "两岸线"],
+    "tags": ["第一岛链", "长程预警雷达", "看门狗", "美国", "仇恨", "潜艇"],
+    "people": ["李敖", "柯承亨", "陈水扁", "蒋介石", "帅化民"],
+    "places": ["立法院国防委员会", "台北", "美国", "英国"],
+    "works": ["与台湾关系法", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book6-2006-11-20-protests-li-jie-absence-and-questions-ko-on-free-dog-lunch",
+      "book6-2006-11-15-speaks-to-li-wenchung-on-defense-budget-us-guarantee-and-people-livelihood"
+    ],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "080.狗的午餐就是免费的",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/080.狗的午餐就是免费的.txt",
+      "line": 69
+    }
+  },
+  {
+    "id": "book6-2006-11-24-participates-in-third-presidential-impeachment-vote-and-media-notes-his-yes-vote",
+    "date": "2006-11-24",
+    "displayDate": "2006年11月24日",
+    "datePrecision": "day",
+    "title": "李敖参加第三次陈水扁罢免案表决，成为无党籍同意票之一",
+    "summary": "《83只鸭子式民主》写，第三次陈水扁总统罢免案于2006年11月24日表决，李敖参加了这一案；投票结果为出席131人、同意118票、不同意1票、无效12票，仍未达三分之二而不成立。次日《中国时报》报道，国亲两党外，无党联盟投下六张同意票，另一张同意票来自无党籍立委李敖。李敖据此批评民进党83位立委三次集体不进场，是“83只鸭子式民主”。",
+    "view": ["政治线", "立法院线", "司法线", "媒体线"],
+    "tags": ["陈水扁", "罢免案", "83只鸭子", "中国时报", "无党籍同意票"],
+    "people": ["李敖", "陈水扁", "蔡锦隆", "郑金玲", "李文忠", "林浊水", "林进兴"],
+    "places": ["立法院", "台北"],
+    "works": ["立法院公报", "中国时报", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book6-2006-06-27-votes-in-first-presidential-impeachment-case-and-notes-dpp-absence",
+      "book6-2006-10-13-participates-in-second-presidential-impeachment-vote"
+    ],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "073.83只鸭子式民主",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/073.83只鸭子式民主.txt",
+      "line": 21
+    }
   }
 ]
