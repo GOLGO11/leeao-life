@@ -16,7 +16,7 @@
 - 已建立第三本乔家才黑牢证据链第二轮数据：`data/timeline-events-third-book-qiao-evidence.json`
 - 已建立第四本第一轮数据：`data/timeline-events-fourth-book.json`
 - 已建立第四本深挖增量数据：`data/timeline-events-fourth-book-deepening.json`
-- 已推进第五本第五轮数据：`data/timeline-events-fifth-book.json`（190 条）
+- 已推进第五本第六轮数据：`data/timeline-events-fifth-book.json`（213 条）
 - 已建立逐书处理日志：`data/ingestion-log.json`
 - 已生成研究校对用当前总表：`exports/leeao-current-timeline.txt`
 - 当前已处理《李敖自传与回忆》《李敖自传与回忆续集》《我最难忘的事和人》《李敖回忆录》的部分章节，未一次性读取 163 本全集

@@ -1,9 +1,9 @@
 李敖交互式年表：当前增量纯文本备份
 生成日期：2026-04-20
-事件总数：742
+事件总数：765
 数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json
 说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。
-日期精度统计：day=554；year=43；undated-range=1；undated-context=82；season=16；lunar-day=1；year-after=6；month=18；half-year=2；day-range=8；month-after=2；year-range=4；year-about=2；day-after=2；year-end=1
+日期精度统计：day=559；year=43；undated-range=1；undated-context=94；season=17；lunar-day=1；year-after=6；month=19；half-year=2；day-range=9；month-after=2；year-range=4；year-about=5；day-after=2；year-end=1
 
 
 1935
@@ -1997,6 +1997,18 @@
   来源：我最难忘的事和人 / 016.我最难忘的一个国特 / line 903
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/016.我最难忘的一个国特.txt
   数据：data/timeline-events-third-book-qiao-evidence.json#book3-1959-summer-zheng-jiemin-urges-proof-for-qiao
+- 台大做学生时的一天 | 李敖在文星书店看见华尔脱·奥图裸女画《夏日即景》
+  精度：undated-context；可靠度：confirmed；排序日期：1959-12-31
+  摘要：《白露纪》写，李敖台大做学生时常到衡阳路十五号文星书店，有一天在门框背后看见华尔脱·奥图的裸女画《夏日即景》，因买不起而只能反复观看；这成为他日后收藏和卧室布置中的重要视觉记忆。
+  人物：李敖、华尔脱·奥图
+  地点：衡阳路十五号、文星书店、台北
+  标签：文星书店、华尔脱·奥图、夏日即景、裸女画、收藏
+  视图：收藏线、日常线、文星线
+  作品：夏日即景、李敖快意恩仇录
+  交叉引用：-
+  来源：李敖快意恩仇录 / 009.白露纪 / line 13
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt
+  数据：data/timeline-events-fifth-book.json#book5-1950s-ntu-student-sees-walt-otto-summer-idyll-at-wenxing
 
 1960
 - 1960年1月18日 | 指导员当众替李敖扣领扣引发哄笑
@@ -2733,6 +2745,18 @@
   来源：李敖快意恩仇录 / 009.白露纪 / line 147
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1961-four-mat-room-playboy-centerfold-discovery
+- 退伍回来四席小屋时代 | 李敖在四席小屋时代初次发生买卖性经验
+  精度：undated-context；可靠度：confirmed；排序日期：1961-12-31
+  摘要：《白露纪》写，李敖退伍回来、住四席小屋时，曾在李善培、李弘飞带领下与性工作者发生经验；他后来把这件事和孙之森带他考察宝斗里等处并列，用以说明自己对妓女问题从书本研究转向现场观察。
+  人物：李敖、李善培、李弘飞
+  地点：台北
+  标签：四席小屋、买卖性经验、李善培、李弘飞、身体经验
+  视图：身体线、日常线、交游线
+  作品：李敖快意恩仇录
+  交叉引用：-
+  来源：李敖快意恩仇录 / 009.白露纪 / line 45
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt
+  数据：data/timeline-events-fifth-book.json#book5-1961-four-mat-room-first-sex-worker-experience
 
 1962
 - 1962年1月1日 | 在《文星》发表《播种者胡适》
@@ -2953,6 +2977,18 @@
   来源：李敖自传与回忆续集 / 034.文星与伪文星 / line 17
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/034.文星与伪文星.txt
   数据：data/timeline-events-second-book.json#book2-1963-12-17-xiao-thanks-li
+- 1963年1月号 | 李敖收藏《花花公子》1963年1月号 Judi Motercy 中页照片
+  精度：month；可靠度：confirmed；排序日期：1963-01-31
+  摘要：《白露纪》写，李敖三十多年来最中意的裸女照片，是《花花公子》1963年1月号 Judi Motercy 中页；他买了两份，一份送给 H，一份装框，伴随自己三十五年。
+  人物：李敖、H、Judi Motercy
+  地点：台北
+  标签：花花公子、Judi Motercy、中页照片、H、收藏
+  视图：收藏线、感情线、身体线
+  作品：Playboy、李敖快意恩仇录
+  交叉引用：-
+  来源：李敖快意恩仇录 / 009.白露纪 / line 147
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt
+  数据：data/timeline-events-fifth-book.json#book5-1963-01-playboy-judi-motercy-centerfold-becomes-longterm-image
 - 1963年5月 | 梁实秋秘密推荐李敖到中研院史语所
   精度：month；可靠度：confirmed；排序日期：1963-05-31
   摘要：《根株纪》据《王世杰日记》回顾，1963年5月梁实秋曾推荐李敖到中央研究院史语所，但王世杰、李济拒绝收纳。
@@ -3003,6 +3039,18 @@
   来源：李敖回忆录 / 020.前程（1997-·62岁以后） / line 25
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/020.前程（1997-·62岁以后）.txt
   数据：data/timeline-events-fourth-book-deepening.json#book4-deep-1964-05-01-wenxing-fujen-slap-article
+- 1964年5月1日 | 李敖租水源大楼三楼并在君子行认识 H
+  精度：day；可靠度：confirmed；排序日期：1964-05-01
+  摘要：《白露纪》写，1964年5月1日李敖租住水源路十九号之八“水源大楼”三楼，并在楼下的君子行认识 H；H 后来成为他文星时代重要的情书对象。
+  人物：李敖、H
+  地点：水源路十九号之八、水源大楼、君子行、台北
+  标签：水源大楼、君子行、H、租屋、文星时代
+  视图：居住线、感情线、日常线
+  作品：李敖快意恩仇录
+  交叉引用：-
+  来源：李敖快意恩仇录 / 009.白露纪 / line 47
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt
+  数据：data/timeline-events-fifth-book.json#book5-1964-05-01-rents-shuiyuan-building-meets-h-at-junzi-hang
 - 1964年5月22日 | 李敖赴陈诚家长谈两个多小时
   精度：day；可靠度：confirmed；排序日期：1964-05-22
   摘要：《星火纪》写，1964年5月22日10点10分，李敖经吴锡泽安排到陈诚家，谈胡适、青年出路、军队训练与政治局面，谈话约两个小时二十分钟。
@@ -3027,6 +3075,18 @@
   来源：李敖快意恩仇录 / 010.根株纪 / line 75
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/010.根株纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1964-07-10-xu-fuguan-little-mad-dog-article
+- 1964年8月4日 | 李敖写信向 H 谈“真正的男人”
+  精度：day；可靠度：confirmed；排序日期：1964-08-04
+  摘要：《白露纪》引1964年8月4日信，李敖向 H 解释什么是“真正的男人”，以男人的成熟、人格和性格来谈两人关系，也留下他文星时期情感表达的早期证据。
+  人物：李敖、H
+  地点：台北
+  标签：H、情书、真正的男人、文星时代
+  视图：感情线、书信线、思想线
+  作品：李敖快意恩仇录
+  交叉引用：book5-1964-09-28-to-1964-10-04-letters-to-h
+  来源：李敖快意恩仇录 / 009.白露纪 / line 55
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt
+  数据：data/timeline-events-fifth-book.json#book5-1964-08-04-letter-to-h-real-man
 - 1964年9月1日 | 《文星》第83期刊出内政部来函引发李敖不满
   精度：day；可靠度：confirmed；排序日期：1964-09-01
   摘要：李敖写道，1964年9月1日第83期《文星》登出内政部要求“嗣后注意改进”的来函，他因此极为恼怒，并在后续札记和声明中表达不满。
@@ -3075,6 +3135,18 @@
   来源：李敖自传与回忆 / 005.“北土非吾愿，东林怀我师” / line 809
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/005.“北土非吾愿，东林怀我师”.txt
   数据：data/timeline-events-first-book-supplement.json#1964-09-06-tao-bangshu
+- 1964年9月9日 | 李敖在台风后写信给 H 谈电话、孤独和相思
+  精度：day；可靠度：confirmed；排序日期：1964-09-09
+  摘要：《白露纪》引1964年9月9日信，李敖写台风、电话和夜间相思，称自己孤独得想哭，并以书信补足与 H 无法时时见面的情感联系。
+  人物：李敖、H
+  地点：台北
+  标签：H、情书、台风、电话、孤独
+  视图：感情线、书信线、日常线
+  作品：李敖快意恩仇录
+  交叉引用：book5-1964-09-28-to-1964-10-04-letters-to-h
+  来源：李敖快意恩仇录 / 009.白露纪 / line 73
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt
+  数据：data/timeline-events-fifth-book.json#book5-1964-09-09-letter-to-h-typhoon-phone-and-loneliness
 - 1964年9月22日 | 女儿李文在纽约出生
   精度：day；可靠度：confirmed；排序日期：1964-09-22
   摘要：李敖在《坐牢家爸爸给女儿的八十封信》自序中写，独生女李文于1964年9月22日生在美国纽约，使他“阴错阳差”成为美国人的父亲。
@@ -3087,6 +3159,30 @@
   来源：李敖自传与回忆续集 / 016.《坐牢家爸爸给女儿的八十封信》自序 / line 3
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/016.《坐牢家爸爸给女儿的八十封信》自序.txt
   数据：data/timeline-events-second-book.json#book2-1964-09-22-daughter-hedy-born
+- 1964年9月28日 | 李敖写信给 H，记她生病与就医后的探视
+  精度：day；可靠度：confirmed；排序日期：1964-09-28
+  摘要：《白露纪》引1964年9月28日信，李敖写 H 生病、医生诊断和自己探视后的牵挂，也记下文星时代恋爱生活中较琐细的医疗与陪伴片段。
+  人物：李敖、H
+  地点：台北
+  标签：H、情书、生病、探视、医生
+  视图：感情线、书信线、日常线
+  作品：李敖快意恩仇录
+  交叉引用：book5-1964-09-28-to-1964-10-04-letters-to-h
+  来源：李敖快意恩仇录 / 009.白露纪 / line 101
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt
+  数据：data/timeline-events-fifth-book.json#book5-1964-09-28-letter-to-h-illness-and-visit
+- 1964年9月30日 | 李敖写信给 H，记棺材、麻将、旅馆与返台北行程
+  精度：day；可靠度：confirmed；排序日期：1964-09-30
+  摘要：《白露纪》引1964年9月30日信，李敖写棺材、麻将等联想，也记自己在旅馆和图书馆间写信、晚七点半回台北的行程，留下恋爱书信中的日常路线。
+  人物：李敖、H
+  地点：台北
+  标签：H、情书、旅馆、图书馆、台北
+  视图：感情线、书信线、日常线
+  作品：李敖快意恩仇录
+  交叉引用：book5-1964-09-28-to-1964-10-04-letters-to-h
+  来源：李敖快意恩仇录 / 009.白露纪 / line 109
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt
+  数据：data/timeline-events-fifth-book.json#book5-1964-09-30-letter-to-h-coffin-mahjong-and-return-trip
 - 1964年10月3日中午 | 李焕在新台北饭店请李敖吃饭
   精度：day；可靠度：confirmed；排序日期：1964-10-03
   摘要：《星火纪》写，1964年10月3日中午，李焕在台北新台北饭店请李敖吃饭，旁敲侧击询问他与《台湾自救运动宣言》的关系；李敖以玩笑方式否认代笔或润饰。
@@ -3099,6 +3195,18 @@
   来源：李敖快意恩仇录 / 008.星火纪 / line 41
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/008.星火纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1964-10-03-li-huan-lunch
+- 1964年春天 | 李敖与文星附近上海咖啡馆女老板发生一夜关系
+  精度：season；可靠度：confirmed；排序日期：1964-04-30
+  摘要：《白露纪》写，1964年春天李敖常到《文星》附近一家咖啡馆，结识一位来自上海的年轻女老板；一晚她随李敖搭车到安东街二三一号三楼，发生一次关系，离去时留下照片和近似告别的话。
+  人物：李敖、上海咖啡馆女老板
+  地点：安东街二三一号三楼、台北
+  标签：咖啡馆、上海女老板、安东街、一夜关系、文星时代
+  视图：感情线、身体线、文星线
+  作品：李敖快意恩仇录
+  交叉引用：-
+  来源：李敖快意恩仇录 / 009.白露纪 / line 41
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt
+  数据：data/timeline-events-fifth-book.json#book5-1964-spring-affair-with-shanghai-cafe-owner-at-andong-st
 - 1964年9月28日至10月4日 | 李敖连续写给“H”的情书
   精度：day-range；可靠度：confirmed；排序日期：1964-09-28
   摘要：《白露纪》收录李敖1964年9月28日、9月30日、10月3日至4日写给“H”的情书片段，留下文星时代私生活和情感写作的日常痕迹。
@@ -3135,6 +3243,18 @@
   来源：李敖回忆录 / 020.前程（1997-·62岁以后） / line 29
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/020.前程（1997-·62岁以后）.txt
   数据：data/timeline-events-fourth-book-deepening.json#book4-deep-1964-09-after-xu-xiguang-investigates-wenxing
+- 1964年10月3日至4日 | 李敖写信给 H，谈聚会、腿和男性凝视
+  精度：day-range；可靠度：confirmed；排序日期：1964-10-03
+  摘要：《白露纪》引1964年10月3日至4日信，李敖从聚会谈到对腿的偏好和自我调侃，呈现他在私密书信中把身体趣味、幽默和恋爱占有感混写的方式。
+  人物：李敖、H
+  地点：台北
+  标签：H、情书、聚会、腿、身体趣味
+  视图：感情线、书信线、身体线
+  作品：李敖快意恩仇录
+  交叉引用：book5-1964-09-28-to-1964-10-04-letters-to-h
+  来源：李敖快意恩仇录 / 009.白露纪 / line 117
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt
+  数据：data/timeline-events-fifth-book.json#book5-1964-10-03-letter-to-h-party-and-leg-man
 - 1964年 | 李敖与王尚勤的女儿 Hedy Lee 在美国出生
   精度：year；可靠度：confirmed；排序日期：1964-12-31
   摘要：《前程》章交代，李敖与王尚勤有一名在美国出生的女儿 Hedy Lee，小名小文；陈鼓应当年曾玩笑说李敖二十多年后可凭“美国人的爸爸”身份去美国。
@@ -3147,6 +3267,18 @@
   来源：李敖回忆录 / 020.前程（1997-·62岁以后） / line 149
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/020.前程（1997-·62岁以后）.txt
   数据：data/timeline-events-fourth-book-deepening.json#book4-deep-1964-hedy-lee-born-in-us
+- 1964年扒辅仁大学黑暗期间 | 孙之森带李敖到江山楼、宝斗里观察妓女问题
+  精度：undated-context；可靠度：confirmed；排序日期：1964-12-31
+  摘要：《白露纪》写，李敖在《文星》扒辅仁大学黑暗期间，由孙之森带到江山楼、宝斗里等地作现场观察；李敖说自己过去只从书本研究妓女问题，这次进入实际生活现场。
+  人物：李敖、孙之森
+  地点：江山楼、宝斗里、台北
+  标签：孙之森、辅仁大学、江山楼、宝斗里、妓女问题
+  视图：文星线、身体线、调查线
+  作品：文星、李敖快意恩仇录
+  交叉引用：-
+  来源：李敖快意恩仇录 / 009.白露纪 / line 45
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt
+  数据：data/timeline-events-fifth-book.json#book5-1964-sun-zhishen-takes-li-to-jiangshanlou-baodouli-fieldwork
 - 1964年至1966年 | 李敖主持文星出版殷海光四本书
   精度：year-range；可靠度：confirmed；排序日期：1964-12-31
   摘要：《殷鉴纪》写，1964年至1966年间，李敖在文星主持出版殷海光《思想与方法》《到奴役之路》《海耶克和他的思想》《中国文化的展望》，其中还暗中贴补稿费。
@@ -3183,6 +3315,30 @@
   来源：李敖快意恩仇录 / 013.彭尸纪 / line 5
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/013.彭尸纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1964-peng-case-refuses-remorse-letter
+- 文星时代某日 | 李敖与阿贞发生一夜关系
+  精度：undated-context；可靠度：confirmed；排序日期：1964-12-31
+  摘要：《白露纪》写，阿贞原是国民党党营事业中兴公司负责人包养的女子，后来与李敖发生一夜关系；李敖把她列入自己文星时代的女性经验回忆。
+  人物：李敖、阿贞
+  地点：台北
+  标签：阿贞、中兴公司、一夜关系、文星时代
+  视图：感情线、身体线、文星线
+  作品：李敖快意恩仇录
+  交叉引用：-
+  来源：李敖快意恩仇录 / 009.白露纪 / line 145
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt
+  数据：data/timeline-events-fifth-book.json#book5-1964-affair-with-azhen-kmt-enterprise-mistress
+- 成为《文星》要角后的一天 | 萧孟能买下《夏日即景》送给李敖
+  精度：undated-context；可靠度：confirmed；排序日期：1964-12-31
+  摘要：《白露纪》写，李敖成为《文星》杂志要角后，把少年时代在文星书店看中而买不起的《夏日即景》告诉萧孟能；萧孟能随即买下赠给李敖，后来此画一直挂在李敖卧室里。
+  人物：李敖、萧孟能、华尔脱·奥图
+  地点：台北
+  标签：萧孟能、夏日即景、裸女画、赠画、卧室
+  视图：收藏线、文星线、交游线
+  作品：夏日即景、李敖快意恩仇录
+  交叉引用：book5-1950s-ntu-student-sees-walt-otto-summer-idyll-at-wenxing
+  来源：李敖快意恩仇录 / 009.白露纪 / line 13
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt
+  数据：data/timeline-events-fifth-book.json#book5-1964-about-xiao-mengneng-gifts-summer-idyll-to-li
 
 1965
 - 1965年5月4日 | 李敖致尚勤信中谈台大多次封杀其演讲
@@ -3341,6 +3497,18 @@
   来源：李敖自传与回忆续集 / 012.记文星事件 / line 13
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/012.记文星事件.txt
   数据：data/timeline-events-second-book-broad.json#book2-broad-1965-winter-wenxing-sealed
+- 《文星》后期 | 林海音到李敖家预订“告别文坛十书”
+  精度：undated-context；可靠度：confirmed；排序日期：1965-12-31
+  摘要：《根株纪》写，林海音主持《联合报》副刊时曾采用李敖稿件；到《文星》后期，她来到李敖家，预订李敖“告别文坛十书”，但后来因局势变化不敢再联络。
+  人物：李敖、林海音
+  地点：李敖家、台北
+  标签：林海音、联合副刊、告别文坛十书、文星后期
+  视图：文星线、出版线、交游线
+  作品：联合报副刊、告别文坛十书、李敖快意恩仇录
+  交叉引用：-
+  来源：李敖快意恩仇录 / 010.根株纪 / line 41
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/010.根株纪.txt
+  数据：data/timeline-events-fifth-book.json#book5-1965-lin-haiyin-visits-li-and-reserves-farewell-ten-books
 - 1965年 | 李敖写《孙逸仙和中国西化医学》并遭查禁
   精度：year；可靠度：confirmed；排序日期：1965-12-31
   摘要：《猪猡纪》写，李敖1965年写《孙逸仙和中国西化医学》，以历史考证方式拆解国民党政治图腾；该书随即遭国民党查禁，成为他后来“李敖的方法”的早期例证。
@@ -3463,6 +3631,18 @@
   来源：李敖自传与回忆 / 005.“北土非吾愿，东林怀我师” / line 755
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/005.“北土非吾愿，东林怀我师”.txt
   数据：data/timeline-events-first-book-broad.json#1966-books-banned
+- 《文星》被围剿后 | 王敬羲在香港刊出李敖《借古不讽今》却未付版税
+  精度：undated-context；可靠度：confirmed；排序日期：1966-12-31
+  摘要：《根株纪》写，《文星》被蒋介石方面围剿时，王敬羲在香港用《文星》招牌请李敖写稿；李敖写成《借古不讽今》，藏在茶叶罐中由香港女作家带出台湾，王敬羲刊出后却未付版税。
+  人物：李敖、王敬羲
+  地点：台湾、香港
+  标签：王敬羲、香港文星、借古不讽今、版税、茶叶罐
+  视图：文星线、出版线、恩怨线
+  作品：借古不讽今、文星、李敖快意恩仇录
+  交叉引用：-
+  来源：李敖快意恩仇录 / 010.根株纪 / line 39
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/010.根株纪.txt
+  数据：data/timeline-events-fifth-book.json#book5-1966-wang-jingxi-hongkong-publishes-jiegubufengjin-no-royalties
 - 1966年（民国五十五年） | 《关山烟尘记》正式问世
   精度：year；可靠度：confirmed；排序日期：1966-12-31
   摘要：乔家才回忆，周念行看过狱中稿本后建议先在《健行月刊》发表，将来再印书；十年后到1966年，《关山烟尘记》终于正式问世，成为李敖后来评价乔家才著述时反复提到的重要作品之一。
@@ -4165,6 +4345,42 @@
   来源：李敖快意恩仇录 / 014.寒武纪 / line 13
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/014.寒武纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1969-producer-four-men-five-women
+- 文星时期 | 余光中邀请李敖到师大参加现代诗朗诵会
+  精度：undated-context；可靠度：confirmed；排序日期：1969-12-31
+  摘要：《根株纪》写，文星时期余光中对李敖极力示好，曾邀请李敖到台湾师范大学参加现代诗朗诵会，并把李敖介绍为贵宾，现场获得热烈掌声。
+  人物：李敖、余光中
+  地点：台湾师范大学、台北
+  标签：余光中、师范大学、现代诗朗诵会、文星时期
+  视图：文星线、交游线、文学线
+  作品：李敖快意恩仇录
+  交叉引用：-
+  来源：李敖快意恩仇录 / 010.根株纪 / line 35
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/010.根株纪.txt
+  数据：data/timeline-events-fifth-book.json#book5-1960s-yu-guangzhong-invites-li-to-modern-poetry-reading
+- 文星时期 | 余光中邀请李敖到自己班上演讲
+  精度：undated-context；可靠度：confirmed；排序日期：1969-12-31
+  摘要：《根株纪》写，余光中在文星时期除邀李敖参加现代诗朗诵会外，还邀请他到自己班上讲演；李敖后来把这段交游放入余光中先亲近、后切割《文星》的脉络中追述。
+  人物：李敖、余光中
+  地点：台北
+  标签：余光中、课堂演讲、文星时期、交游
+  视图：文星线、交游线、演讲线
+  作品：李敖快意恩仇录
+  交叉引用：-
+  来源：李敖快意恩仇录 / 010.根株纪 / line 35
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/010.根株纪.txt
+  数据：data/timeline-events-fifth-book.json#book5-1960s-yu-guangzhong-invites-li-to-class-lecture
+- 文星时期某次饭局 | 何凡在饭局夸谈《联合报》专栏，李敖当场批评
+  精度：undated-context；可靠度：confirmed；排序日期：1969-12-31
+  摘要：《根株纪》写，文星时期李敖曾与何凡同桌吃饭；何凡夸耀自己在《联合报》副刊专栏已写成规模，李敖当场批评其“规模”不过是主妇们学写信的小事。
+  人物：李敖、何凡
+  地点：台北
+  标签：何凡、联合报、专栏、饭局、批评
+  视图：文星线、恩怨线、文学线
+  作品：联合报、李敖快意恩仇录
+  交叉引用：-
+  来源：李敖快意恩仇录 / 010.根株纪 / line 41
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/010.根株纪.txt
+  数据：data/timeline-events-fifth-book.json#book5-1960s-he-fan-meal-column-scale-argument
 
 1970
 - 1970年1月15日 | 彭明敏送的小狗“嘟嘟”中毒而死
@@ -4481,6 +4697,18 @@
   来源：李敖自传与回忆续集 / 017.刘辰旦——患难见真情的朋友 / line 51
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/017.刘辰旦——患难见真情的朋友.txt
   数据：data/timeline-events-second-book.json#book2-1971-07-23-li-tortured-at-liuzhangli
+- 李敖被捕后 | 王敬羲在《南北极》上支持入狱后的李敖
+  精度：undated-context；可靠度：confirmed；排序日期：1971-12-31
+  摘要：《根株纪》写，李敖被捕入狱后，王敬羲曾在香港《南北极》上支持李敖；李敖后来回顾王敬羲时，把这件事和王后来散布不利传闻并列，显示两人关系的反复。
+  人物：李敖、王敬羲
+  地点：香港、台湾
+  标签：王敬羲、南北极、香港、入狱、支持
+  视图：牢狱线、媒体线、交游线
+  作品：南北极、李敖快意恩仇录
+  交叉引用：-
+  来源：李敖快意恩仇录 / 010.根株纪 / line 39
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/010.根株纪.txt
+  数据：data/timeline-events-fifth-book.json#book5-1971-after-arrest-wang-jingxi-supports-li-in-nanbeiji
 
 1972
 - 1972-02-28 | 自警总保安处移送军法处看守所
@@ -5193,6 +5421,18 @@
   来源：李敖回忆录 / 020.前程（1997-·62岁以后） / line 19
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/020.前程（1997-·62岁以后）.txt
   数据：data/timeline-events-fourth-book-deepening.json#book4-deep-1979-after-return-talks-eight-hours-with-jin-yong
+- 李敖复出后 | 王敬羲在李敖复出后散布传闻并在萧孟能案中助阵
+  精度：undated-context；可靠度：confirmed；排序日期：1979-12-31
+  摘要：《根株纪》写，李敖复出后，王敬羲不但在背后散布对李敖不利的传闻，还在萧孟能反咬李敖时帮萧作伪证；李敖因此把王敬羲纳入恩怨账中。
+  人物：李敖、王敬羲、萧孟能
+  地点：台湾
+  标签：王敬羲、萧孟能、伪证、传闻、复出
+  视图：复出线、司法线、恩怨线
+  作品：李敖快意恩仇录
+  交叉引用：-
+  来源：李敖快意恩仇录 / 010.根株纪 / line 39
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/010.根株纪.txt
+  数据：data/timeline-events-fifth-book.json#book5-1979-after-comeback-wang-jingxi-rumors-and-xiao-case
 
 1980
 - 1980年1月10日 | 天母静庐房屋移转登记给胡茵梦
@@ -7489,6 +7729,42 @@
   来源：李敖快意恩仇录 / 017.猪猡纪 / line 13
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/017.猪猡纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1987-writes-sun-yatsen-study
+- 出狱十多年后 | 李敖出狱多年后与林海音重逢并在朱婉清版权案庭上交锋
+  精度：year-about；可靠度：inferred；排序日期：1987-12-31
+  摘要：《根株纪》写，李敖出狱十多年后先在路上偶遇林海音，后来又在朱婉清版权案法庭上相见；李敖当庭质问林海音为何萧太太过去有钱时大家找得到她，涉及文星旧版权纠纷。
+  人物：李敖、林海音、朱婉清
+  地点：台湾
+  标签：林海音、朱婉清、版权案、萧太太、法庭
+  视图：司法线、文星线、恩怨线
+  作品：李敖快意恩仇录
+  交叉引用：book5-1987-li-sues-yu-guangzhong-copyright-for-zhu-wanjian
+  来源：李敖快意恩仇录 / 010.根株纪 / line 41
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/010.根株纪.txt
+  数据：data/timeline-events-fifth-book.json#book5-1987-li-and-lin-haiyin-meet-then-court-copyright-case
+- 朱婉清版权案庭上 | 李敖在版权案庭上痛斥蔡文甫
+  精度：year-about；可靠度：inferred；排序日期：1987-12-31
+  摘要：《根株纪》写，朱婉清版权案审理时，蔡文甫出现在法庭；李敖当场斥责他代表的出版行为与文星旧账，形成文星旧友版权恩怨中的又一节点。
+  人物：李敖、蔡文甫、朱婉清
+  地点：台湾
+  标签：蔡文甫、朱婉清、版权案、法庭、文星旧账
+  视图：司法线、文星线、恩怨线
+  作品：李敖快意恩仇录
+  交叉引用：book5-1987-li-sues-yu-guangzhong-copyright-for-zhu-wanjian
+  来源：李敖快意恩仇录 / 010.根株纪 / line 35
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/010.根株纪.txt
+  数据：data/timeline-events-fifth-book.json#book5-1987-li-rebukes-cai-wenfu-in-copyright-case
+- 近二十年后 | 李敖代理朱婉清告余光中一稿两卖
+  精度：year-about；可靠度：inferred；排序日期：1987-12-31
+  摘要：《根株纪》写，近二十年后李敖为朱婉清处理文星旧书版权纠纷，告余光中把同一对象一稿两卖；余光中在法庭上主张当年与《文星》契约只限一版，李敖据此继续追究。
+  人物：李敖、余光中、朱婉清
+  地点：台湾
+  标签：余光中、朱婉清、版权、一稿两卖、法庭
+  视图：司法线、文星线、恩怨线
+  作品：李敖快意恩仇录
+  交叉引用：-
+  来源：李敖快意恩仇录 / 010.根株纪 / line 35
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/010.根株纪.txt
+  数据：data/timeline-events-fifth-book.json#book5-1987-li-sues-yu-guangzhong-copyright-for-zhu-wanjian
 
 1988
 - 1988年2月2日晨 | 写《〈恶法录及其他〉新版前言》

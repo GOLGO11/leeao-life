@@ -3825,5 +3825,473 @@
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/020.志留纪.txt",
       "line": 106
     }
+  },
+  {
+    "id": "book5-1950s-ntu-student-sees-walt-otto-summer-idyll-at-wenxing",
+    "date": "1959-12-31",
+    "displayDate": "台大做学生时的一天",
+    "datePrecision": "undated-context",
+    "title": "李敖在文星书店看见华尔脱·奥图裸女画《夏日即景》",
+    "summary": "《白露纪》写，李敖台大做学生时常到衡阳路十五号文星书店，有一天在门框背后看见华尔脱·奥图的裸女画《夏日即景》，因买不起而只能反复观看；这成为他日后收藏和卧室布置中的重要视觉记忆。",
+    "view": ["收藏线", "日常线", "文星线"],
+    "tags": ["文星书店", "华尔脱·奥图", "夏日即景", "裸女画", "收藏"],
+    "people": ["李敖", "华尔脱·奥图"],
+    "places": ["衡阳路十五号", "文星书店", "台北"],
+    "works": ["夏日即景", "李敖快意恩仇录"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "009.白露纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt",
+      "line": 13
+    }
+  },
+  {
+    "id": "book5-1964-about-xiao-mengneng-gifts-summer-idyll-to-li",
+    "date": "1964-12-31",
+    "displayDate": "成为《文星》要角后的一天",
+    "datePrecision": "undated-context",
+    "title": "萧孟能买下《夏日即景》送给李敖",
+    "summary": "《白露纪》写，李敖成为《文星》杂志要角后，把少年时代在文星书店看中而买不起的《夏日即景》告诉萧孟能；萧孟能随即买下赠给李敖，后来此画一直挂在李敖卧室里。",
+    "view": ["收藏线", "文星线", "交游线"],
+    "tags": ["萧孟能", "夏日即景", "裸女画", "赠画", "卧室"],
+    "people": ["李敖", "萧孟能", "华尔脱·奥图"],
+    "places": ["台北"],
+    "works": ["夏日即景", "李敖快意恩仇录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book5-1950s-ntu-student-sees-walt-otto-summer-idyll-at-wenxing"],
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "009.白露纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt",
+      "line": 13
+    }
+  },
+  {
+    "id": "book5-1961-four-mat-room-first-sex-worker-experience",
+    "date": "1961-12-31",
+    "displayDate": "退伍回来四席小屋时代",
+    "datePrecision": "undated-context",
+    "title": "李敖在四席小屋时代初次发生买卖性经验",
+    "summary": "《白露纪》写，李敖退伍回来、住四席小屋时，曾在李善培、李弘飞带领下与性工作者发生经验；他后来把这件事和孙之森带他考察宝斗里等处并列，用以说明自己对妓女问题从书本研究转向现场观察。",
+    "view": ["身体线", "日常线", "交游线"],
+    "tags": ["四席小屋", "买卖性经验", "李善培", "李弘飞", "身体经验"],
+    "people": ["李敖", "李善培", "李弘飞"],
+    "places": ["台北"],
+    "works": ["李敖快意恩仇录"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "009.白露纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt",
+      "line": 45
+    }
+  },
+  {
+    "id": "book5-1963-01-playboy-judi-motercy-centerfold-becomes-longterm-image",
+    "date": "1963-01-31",
+    "displayDate": "1963年1月号",
+    "datePrecision": "month",
+    "title": "李敖收藏《花花公子》1963年1月号 Judi Motercy 中页照片",
+    "summary": "《白露纪》写，李敖三十多年来最中意的裸女照片，是《花花公子》1963年1月号 Judi Motercy 中页；他买了两份，一份送给 H，一份装框，伴随自己三十五年。",
+    "view": ["收藏线", "感情线", "身体线"],
+    "tags": ["花花公子", "Judi Motercy", "中页照片", "H", "收藏"],
+    "people": ["李敖", "H", "Judi Motercy"],
+    "places": ["台北"],
+    "works": ["Playboy", "李敖快意恩仇录"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "009.白露纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt",
+      "line": 147
+    }
+  },
+  {
+    "id": "book5-1964-spring-affair-with-shanghai-cafe-owner-at-andong-st",
+    "date": "1964-04-30",
+    "displayDate": "1964年春天",
+    "datePrecision": "season",
+    "title": "李敖与文星附近上海咖啡馆女老板发生一夜关系",
+    "summary": "《白露纪》写，1964年春天李敖常到《文星》附近一家咖啡馆，结识一位来自上海的年轻女老板；一晚她随李敖搭车到安东街二三一号三楼，发生一次关系，离去时留下照片和近似告别的话。",
+    "view": ["感情线", "身体线", "文星线"],
+    "tags": ["咖啡馆", "上海女老板", "安东街", "一夜关系", "文星时代"],
+    "people": ["李敖", "上海咖啡馆女老板"],
+    "places": ["安东街二三一号三楼", "台北"],
+    "works": ["李敖快意恩仇录"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "009.白露纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt",
+      "line": 41
+    }
+  },
+  {
+    "id": "book5-1964-05-01-rents-shuiyuan-building-meets-h-at-junzi-hang",
+    "date": "1964-05-01",
+    "displayDate": "1964年5月1日",
+    "datePrecision": "day",
+    "title": "李敖租水源大楼三楼并在君子行认识 H",
+    "summary": "《白露纪》写，1964年5月1日李敖租住水源路十九号之八“水源大楼”三楼，并在楼下的君子行认识 H；H 后来成为他文星时代重要的情书对象。",
+    "view": ["居住线", "感情线", "日常线"],
+    "tags": ["水源大楼", "君子行", "H", "租屋", "文星时代"],
+    "people": ["李敖", "H"],
+    "places": ["水源路十九号之八", "水源大楼", "君子行", "台北"],
+    "works": ["李敖快意恩仇录"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "009.白露纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt",
+      "line": 47
+    }
+  },
+  {
+    "id": "book5-1964-08-04-letter-to-h-real-man",
+    "date": "1964-08-04",
+    "displayDate": "1964年8月4日",
+    "datePrecision": "day",
+    "title": "李敖写信向 H 谈“真正的男人”",
+    "summary": "《白露纪》引1964年8月4日信，李敖向 H 解释什么是“真正的男人”，以男人的成熟、人格和性格来谈两人关系，也留下他文星时期情感表达的早期证据。",
+    "view": ["感情线", "书信线", "思想线"],
+    "tags": ["H", "情书", "真正的男人", "文星时代"],
+    "people": ["李敖", "H"],
+    "places": ["台北"],
+    "works": ["李敖快意恩仇录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book5-1964-09-28-to-1964-10-04-letters-to-h"],
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "009.白露纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt",
+      "line": 55
+    }
+  },
+  {
+    "id": "book5-1964-09-09-letter-to-h-typhoon-phone-and-loneliness",
+    "date": "1964-09-09",
+    "displayDate": "1964年9月9日",
+    "datePrecision": "day",
+    "title": "李敖在台风后写信给 H 谈电话、孤独和相思",
+    "summary": "《白露纪》引1964年9月9日信，李敖写台风、电话和夜间相思，称自己孤独得想哭，并以书信补足与 H 无法时时见面的情感联系。",
+    "view": ["感情线", "书信线", "日常线"],
+    "tags": ["H", "情书", "台风", "电话", "孤独"],
+    "people": ["李敖", "H"],
+    "places": ["台北"],
+    "works": ["李敖快意恩仇录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book5-1964-09-28-to-1964-10-04-letters-to-h"],
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "009.白露纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt",
+      "line": 73
+    }
+  },
+  {
+    "id": "book5-1964-09-28-letter-to-h-illness-and-visit",
+    "date": "1964-09-28",
+    "displayDate": "1964年9月28日",
+    "datePrecision": "day",
+    "title": "李敖写信给 H，记她生病与就医后的探视",
+    "summary": "《白露纪》引1964年9月28日信，李敖写 H 生病、医生诊断和自己探视后的牵挂，也记下文星时代恋爱生活中较琐细的医疗与陪伴片段。",
+    "view": ["感情线", "书信线", "日常线"],
+    "tags": ["H", "情书", "生病", "探视", "医生"],
+    "people": ["李敖", "H"],
+    "places": ["台北"],
+    "works": ["李敖快意恩仇录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book5-1964-09-28-to-1964-10-04-letters-to-h"],
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "009.白露纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt",
+      "line": 101
+    }
+  },
+  {
+    "id": "book5-1964-09-30-letter-to-h-coffin-mahjong-and-return-trip",
+    "date": "1964-09-30",
+    "displayDate": "1964年9月30日",
+    "datePrecision": "day",
+    "title": "李敖写信给 H，记棺材、麻将、旅馆与返台北行程",
+    "summary": "《白露纪》引1964年9月30日信，李敖写棺材、麻将等联想，也记自己在旅馆和图书馆间写信、晚七点半回台北的行程，留下恋爱书信中的日常路线。",
+    "view": ["感情线", "书信线", "日常线"],
+    "tags": ["H", "情书", "旅馆", "图书馆", "台北"],
+    "people": ["李敖", "H"],
+    "places": ["台北"],
+    "works": ["李敖快意恩仇录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book5-1964-09-28-to-1964-10-04-letters-to-h"],
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "009.白露纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt",
+      "line": 109
+    }
+  },
+  {
+    "id": "book5-1964-10-03-letter-to-h-party-and-leg-man",
+    "date": "1964-10-03",
+    "displayDate": "1964年10月3日至4日",
+    "datePrecision": "day-range",
+    "title": "李敖写信给 H，谈聚会、腿和男性凝视",
+    "summary": "《白露纪》引1964年10月3日至4日信，李敖从聚会谈到对腿的偏好和自我调侃，呈现他在私密书信中把身体趣味、幽默和恋爱占有感混写的方式。",
+    "view": ["感情线", "书信线", "身体线"],
+    "tags": ["H", "情书", "聚会", "腿", "身体趣味"],
+    "people": ["李敖", "H"],
+    "places": ["台北"],
+    "works": ["李敖快意恩仇录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book5-1964-09-28-to-1964-10-04-letters-to-h"],
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "009.白露纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt",
+      "line": 117
+    }
+  },
+  {
+    "id": "book5-1964-sun-zhishen-takes-li-to-jiangshanlou-baodouli-fieldwork",
+    "date": "1964-12-31",
+    "displayDate": "1964年扒辅仁大学黑暗期间",
+    "datePrecision": "undated-context",
+    "title": "孙之森带李敖到江山楼、宝斗里观察妓女问题",
+    "summary": "《白露纪》写，李敖在《文星》扒辅仁大学黑暗期间，由孙之森带到江山楼、宝斗里等地作现场观察；李敖说自己过去只从书本研究妓女问题，这次进入实际生活现场。",
+    "view": ["文星线", "身体线", "调查线"],
+    "tags": ["孙之森", "辅仁大学", "江山楼", "宝斗里", "妓女问题"],
+    "people": ["李敖", "孙之森"],
+    "places": ["江山楼", "宝斗里", "台北"],
+    "works": ["文星", "李敖快意恩仇录"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "009.白露纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt",
+      "line": 45
+    }
+  },
+  {
+    "id": "book5-1964-affair-with-azhen-kmt-enterprise-mistress",
+    "date": "1964-12-31",
+    "displayDate": "文星时代某日",
+    "datePrecision": "undated-context",
+    "title": "李敖与阿贞发生一夜关系",
+    "summary": "《白露纪》写，阿贞原是国民党党营事业中兴公司负责人包养的女子，后来与李敖发生一夜关系；李敖把她列入自己文星时代的女性经验回忆。",
+    "view": ["感情线", "身体线", "文星线"],
+    "tags": ["阿贞", "中兴公司", "一夜关系", "文星时代"],
+    "people": ["李敖", "阿贞"],
+    "places": ["台北"],
+    "works": ["李敖快意恩仇录"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "009.白露纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt",
+      "line": 145
+    }
+  },
+  {
+    "id": "book5-1960s-yu-guangzhong-invites-li-to-modern-poetry-reading",
+    "date": "1969-12-31",
+    "displayDate": "文星时期",
+    "datePrecision": "undated-context",
+    "title": "余光中邀请李敖到师大参加现代诗朗诵会",
+    "summary": "《根株纪》写，文星时期余光中对李敖极力示好，曾邀请李敖到台湾师范大学参加现代诗朗诵会，并把李敖介绍为贵宾，现场获得热烈掌声。",
+    "view": ["文星线", "交游线", "文学线"],
+    "tags": ["余光中", "师范大学", "现代诗朗诵会", "文星时期"],
+    "people": ["李敖", "余光中"],
+    "places": ["台湾师范大学", "台北"],
+    "works": ["李敖快意恩仇录"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "010.根株纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/010.根株纪.txt",
+      "line": 35
+    }
+  },
+  {
+    "id": "book5-1960s-yu-guangzhong-invites-li-to-class-lecture",
+    "date": "1969-12-31",
+    "displayDate": "文星时期",
+    "datePrecision": "undated-context",
+    "title": "余光中邀请李敖到自己班上演讲",
+    "summary": "《根株纪》写，余光中在文星时期除邀李敖参加现代诗朗诵会外，还邀请他到自己班上讲演；李敖后来把这段交游放入余光中先亲近、后切割《文星》的脉络中追述。",
+    "view": ["文星线", "交游线", "演讲线"],
+    "tags": ["余光中", "课堂演讲", "文星时期", "交游"],
+    "people": ["李敖", "余光中"],
+    "places": ["台北"],
+    "works": ["李敖快意恩仇录"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "010.根株纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/010.根株纪.txt",
+      "line": 35
+    }
+  },
+  {
+    "id": "book5-1960s-he-fan-meal-column-scale-argument",
+    "date": "1969-12-31",
+    "displayDate": "文星时期某次饭局",
+    "datePrecision": "undated-context",
+    "title": "何凡在饭局夸谈《联合报》专栏，李敖当场批评",
+    "summary": "《根株纪》写，文星时期李敖曾与何凡同桌吃饭；何凡夸耀自己在《联合报》副刊专栏已写成规模，李敖当场批评其“规模”不过是主妇们学写信的小事。",
+    "view": ["文星线", "恩怨线", "文学线"],
+    "tags": ["何凡", "联合报", "专栏", "饭局", "批评"],
+    "people": ["李敖", "何凡"],
+    "places": ["台北"],
+    "works": ["联合报", "李敖快意恩仇录"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "010.根株纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/010.根株纪.txt",
+      "line": 41
+    }
+  },
+  {
+    "id": "book5-1965-lin-haiyin-visits-li-and-reserves-farewell-ten-books",
+    "date": "1965-12-31",
+    "displayDate": "《文星》后期",
+    "datePrecision": "undated-context",
+    "title": "林海音到李敖家预订“告别文坛十书”",
+    "summary": "《根株纪》写，林海音主持《联合报》副刊时曾采用李敖稿件；到《文星》后期，她来到李敖家，预订李敖“告别文坛十书”，但后来因局势变化不敢再联络。",
+    "view": ["文星线", "出版线", "交游线"],
+    "tags": ["林海音", "联合副刊", "告别文坛十书", "文星后期"],
+    "people": ["李敖", "林海音"],
+    "places": ["李敖家", "台北"],
+    "works": ["联合报副刊", "告别文坛十书", "李敖快意恩仇录"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "010.根株纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/010.根株纪.txt",
+      "line": 41
+    }
+  },
+  {
+    "id": "book5-1966-wang-jingxi-hongkong-publishes-jiegubufengjin-no-royalties",
+    "date": "1966-12-31",
+    "displayDate": "《文星》被围剿后",
+    "datePrecision": "undated-context",
+    "title": "王敬羲在香港刊出李敖《借古不讽今》却未付版税",
+    "summary": "《根株纪》写，《文星》被蒋介石方面围剿时，王敬羲在香港用《文星》招牌请李敖写稿；李敖写成《借古不讽今》，藏在茶叶罐中由香港女作家带出台湾，王敬羲刊出后却未付版税。",
+    "view": ["文星线", "出版线", "恩怨线"],
+    "tags": ["王敬羲", "香港文星", "借古不讽今", "版税", "茶叶罐"],
+    "people": ["李敖", "王敬羲"],
+    "places": ["台湾", "香港"],
+    "works": ["借古不讽今", "文星", "李敖快意恩仇录"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "010.根株纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/010.根株纪.txt",
+      "line": 39
+    }
+  },
+  {
+    "id": "book5-1971-after-arrest-wang-jingxi-supports-li-in-nanbeiji",
+    "date": "1971-12-31",
+    "displayDate": "李敖被捕后",
+    "datePrecision": "undated-context",
+    "title": "王敬羲在《南北极》上支持入狱后的李敖",
+    "summary": "《根株纪》写，李敖被捕入狱后，王敬羲曾在香港《南北极》上支持李敖；李敖后来回顾王敬羲时，把这件事和王后来散布不利传闻并列，显示两人关系的反复。",
+    "view": ["牢狱线", "媒体线", "交游线"],
+    "tags": ["王敬羲", "南北极", "香港", "入狱", "支持"],
+    "people": ["李敖", "王敬羲"],
+    "places": ["香港", "台湾"],
+    "works": ["南北极", "李敖快意恩仇录"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "010.根株纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/010.根株纪.txt",
+      "line": 39
+    }
+  },
+  {
+    "id": "book5-1979-after-comeback-wang-jingxi-rumors-and-xiao-case",
+    "date": "1979-12-31",
+    "displayDate": "李敖复出后",
+    "datePrecision": "undated-context",
+    "title": "王敬羲在李敖复出后散布传闻并在萧孟能案中助阵",
+    "summary": "《根株纪》写，李敖复出后，王敬羲不但在背后散布对李敖不利的传闻，还在萧孟能反咬李敖时帮萧作伪证；李敖因此把王敬羲纳入恩怨账中。",
+    "view": ["复出线", "司法线", "恩怨线"],
+    "tags": ["王敬羲", "萧孟能", "伪证", "传闻", "复出"],
+    "people": ["李敖", "王敬羲", "萧孟能"],
+    "places": ["台湾"],
+    "works": ["李敖快意恩仇录"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "010.根株纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/010.根株纪.txt",
+      "line": 39
+    }
+  },
+  {
+    "id": "book5-1987-li-sues-yu-guangzhong-copyright-for-zhu-wanjian",
+    "date": "1987-12-31",
+    "displayDate": "近二十年后",
+    "datePrecision": "year-about",
+    "title": "李敖代理朱婉清告余光中一稿两卖",
+    "summary": "《根株纪》写，近二十年后李敖为朱婉清处理文星旧书版权纠纷，告余光中把同一对象一稿两卖；余光中在法庭上主张当年与《文星》契约只限一版，李敖据此继续追究。",
+    "view": ["司法线", "文星线", "恩怨线"],
+    "tags": ["余光中", "朱婉清", "版权", "一稿两卖", "法庭"],
+    "people": ["李敖", "余光中", "朱婉清"],
+    "places": ["台湾"],
+    "works": ["李敖快意恩仇录"],
+    "certainty": "inferred",
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "010.根株纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/010.根株纪.txt",
+      "line": 35
+    }
+  },
+  {
+    "id": "book5-1987-li-rebukes-cai-wenfu-in-copyright-case",
+    "date": "1987-12-31",
+    "displayDate": "朱婉清版权案庭上",
+    "datePrecision": "year-about",
+    "title": "李敖在版权案庭上痛斥蔡文甫",
+    "summary": "《根株纪》写，朱婉清版权案审理时，蔡文甫出现在法庭；李敖当场斥责他代表的出版行为与文星旧账，形成文星旧友版权恩怨中的又一节点。",
+    "view": ["司法线", "文星线", "恩怨线"],
+    "tags": ["蔡文甫", "朱婉清", "版权案", "法庭", "文星旧账"],
+    "people": ["李敖", "蔡文甫", "朱婉清"],
+    "places": ["台湾"],
+    "works": ["李敖快意恩仇录"],
+    "certainty": "inferred",
+    "crossReferences": ["book5-1987-li-sues-yu-guangzhong-copyright-for-zhu-wanjian"],
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "010.根株纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/010.根株纪.txt",
+      "line": 35
+    }
+  },
+  {
+    "id": "book5-1987-li-and-lin-haiyin-meet-then-court-copyright-case",
+    "date": "1987-12-31",
+    "displayDate": "出狱十多年后",
+    "datePrecision": "year-about",
+    "title": "李敖出狱多年后与林海音重逢并在朱婉清版权案庭上交锋",
+    "summary": "《根株纪》写，李敖出狱十多年后先在路上偶遇林海音，后来又在朱婉清版权案法庭上相见；李敖当庭质问林海音为何萧太太过去有钱时大家找得到她，涉及文星旧版权纠纷。",
+    "view": ["司法线", "文星线", "恩怨线"],
+    "tags": ["林海音", "朱婉清", "版权案", "萧太太", "法庭"],
+    "people": ["李敖", "林海音", "朱婉清"],
+    "places": ["台湾"],
+    "works": ["李敖快意恩仇录"],
+    "certainty": "inferred",
+    "crossReferences": ["book5-1987-li-sues-yu-guangzhong-copyright-for-zhu-wanjian"],
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "010.根株纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/010.根株纪.txt",
+      "line": 41
+    }
   }
 ]
