@@ -1,0 +1,499 @@
+[
+  {
+    "id": "book4-deep-1963-11-01-wenxing-higher-education-article",
+    "date": "1963-11-01",
+    "displayDate": "1963年11月1日",
+    "datePrecision": "day",
+    "title": "李敖在《文星》发表《高等教育的一面怪现状》",
+    "summary": "《前程》章追述，李敖在《文星》第73期发表《高等教育的一面怪现状》，把“扒粪运动”推进到高等教育领域，并先从台大开刀。",
+    "view": ["出版线", "思想线", "教育线"],
+    "tags": ["文星", "高等教育", "扒粪运动", "台大"],
+    "people": ["李敖"],
+    "places": ["台北"],
+    "works": ["文星", "高等教育的一面怪现状", "李敖回忆录"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖回忆录",
+      "chapter": "020.前程（1997-·62岁以后）",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/020.前程（1997-·62岁以后）.txt",
+      "line": 25
+    }
+  },
+  {
+    "id": "book4-deep-1964-05-01-wenxing-fujen-slap-article",
+    "date": "1964-05-01",
+    "displayDate": "1964年5月1日",
+    "datePrecision": "day",
+    "title": "《文星》刊出《从一巴掌看辅仁大学》",
+    "summary": "《前程》章追述，1964年5月1日《文星》第79期刊出孙智燊透露、孟祥柯执笔的《从一巴掌看辅仁大学》，李敖的高等教育批判由台大转向辅大。",
+    "view": ["出版线", "思想线", "教育线"],
+    "tags": ["文星", "辅仁大学", "高等教育", "扒粪运动"],
+    "people": ["李敖", "孙智燊", "孟祥柯"],
+    "places": ["台北", "辅仁大学"],
+    "works": ["文星", "从一巴掌看辅仁大学", "李敖回忆录"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖回忆录",
+      "chapter": "020.前程（1997-·62岁以后）",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/020.前程（1997-·62岁以后）.txt",
+      "line": 25
+    }
+  },
+  {
+    "id": "book4-deep-1964-09-01-three-documents-fujen-college",
+    "date": "1964-09-01",
+    "displayDate": "1964年9月1日",
+    "datePrecision": "day",
+    "title": "李敖以“沈沉”名义发表《从三文件看辅仁大学文学院》",
+    "summary": "方豪提供辅大内幕文件后，李敖把方豪材料加进自己的部分，以“沈沉”名义在1964年9月1日《文星》第83期发表《从三文件看辅仁大学文学院》，引发天主教系统追查。",
+    "view": ["出版线", "思想线", "交游线", "教育线"],
+    "tags": ["文星", "辅仁大学", "方豪", "天主教", "笔名"],
+    "people": ["李敖", "方豪", "田耕莘"],
+    "places": ["台北", "辅仁大学"],
+    "works": ["文星", "从三文件看辅仁大学文学院", "李敖回忆录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book4-1964-09-01-wenxing-publishes-interior-ministry-letter"],
+    "source": {
+      "book": "李敖回忆录",
+      "chapter": "020.前程（1997-·62岁以后）",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/020.前程（1997-·62岁以后）.txt",
+      "line": 25
+    }
+  },
+  {
+    "id": "book4-deep-1964-09-after-fanghao-asks-li-to-publish-notice",
+    "date": "1964-09-30",
+    "displayDate": "1964年9月后",
+    "datePrecision": "month-after",
+    "title": "方豪请李敖登启事保护自己",
+    "summary": "《从三文件看辅仁大学文学院》引发教会追查后，方豪惊魂未定，请李敖在报上声明文章由李敖所写、与某神父无关；李敖答应并让《李敖启事》登上《联合报》。",
+    "view": ["交游线", "出版线", "日常线"],
+    "tags": ["方豪", "联合报", "启事", "辅仁大学"],
+    "people": ["李敖", "方豪"],
+    "places": ["台北"],
+    "works": ["李敖启事", "李敖回忆录"],
+    "certainty": "inferred",
+    "crossReferences": ["book4-deep-1964-09-01-three-documents-fujen-college"],
+    "source": {
+      "book": "李敖回忆录",
+      "chapter": "020.前程（1997-·62岁以后）",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/020.前程（1997-·62岁以后）.txt",
+      "line": 27
+    }
+  },
+  {
+    "id": "book4-deep-1964-09-after-xu-xiguang-investigates-wenxing",
+    "date": "1964-09-30",
+    "displayDate": "1964年9月后",
+    "datePrecision": "month-after",
+    "title": "徐熙光神父到李敖家追查《文星》作者",
+    "summary": "辅大文章风波中，徐熙光神父单独到李敖家，要求《文星》证明作者；李敖拒绝配合，并以公布神父丑闻反制，使方豪安然过关。",
+    "view": ["交游线", "出版线", "思想线", "教育线"],
+    "tags": ["徐熙光", "方豪", "文星", "辅仁大学", "天主教"],
+    "people": ["李敖", "徐熙光", "方豪", "田耕莘"],
+    "places": ["台北", "李敖家"],
+    "works": ["文星", "李敖回忆录"],
+    "certainty": "inferred",
+    "crossReferences": ["book4-deep-1964-09-01-three-documents-fujen-college", "book4-deep-1964-09-after-fanghao-asks-li-to-publish-notice"],
+    "source": {
+      "book": "李敖回忆录",
+      "chapter": "020.前程（1997-·62岁以后）",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/020.前程（1997-·62岁以后）.txt",
+      "line": 29
+    }
+  },
+  {
+    "id": "book4-deep-1964-autumn-fanghao-secret-meal-after-fujen-case",
+    "date": "1964-12-31",
+    "displayDate": "1964年辅大文章风波后",
+    "datePrecision": "year-after",
+    "title": "方豪与李敖秘密聚餐，称跟李敖奋斗吓死人",
+    "summary": "辅大文章风波过后，方豪与李敖秘密聚餐，夸李敖够朋友、说话算话；李敖劝他别做神父，方豪苦笑自己太老，并说再也不要做“奋斗的好人”。",
+    "view": ["交游线", "日常线", "思想线"],
+    "tags": ["方豪", "善霸", "辅仁大学", "奋斗的好人"],
+    "people": ["李敖", "方豪"],
+    "places": ["台北"],
+    "works": ["李敖回忆录"],
+    "certainty": "inferred",
+    "crossReferences": ["book4-deep-1964-09-after-xu-xiguang-investigates-wenxing"],
+    "source": {
+      "book": "李敖回忆录",
+      "chapter": "020.前程（1997-·62岁以后）",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/020.前程（1997-·62岁以后）.txt",
+      "line": 31
+    }
+  },
+  {
+    "id": "book4-deep-1964-hedy-lee-born-in-us",
+    "date": "1964-12-31",
+    "displayDate": "1964年",
+    "datePrecision": "year",
+    "title": "李敖与王尚勤的女儿 Hedy Lee 在美国出生",
+    "summary": "《前程》章交代，李敖与王尚勤有一名在美国出生的女儿 Hedy Lee，小名小文；陈鼓应当年曾玩笑说李敖二十多年后可凭“美国人的爸爸”身份去美国。",
+    "view": ["家庭线", "生平线"],
+    "tags": ["Hedy Lee", "小文", "王尚勤", "家庭"],
+    "people": ["李敖", "王尚勤", "Hedy Lee", "陈鼓应"],
+    "places": ["美国"],
+    "works": ["坐牢家爸爸给女儿的八十封信", "李敖回忆录"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖回忆录",
+      "chapter": "020.前程（1997-·62岁以后）",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/020.前程（1997-·62岁以后）.txt",
+      "line": 149
+    }
+  },
+  {
+    "id": "book4-deep-1970-xu-xiguang-debt-collection-during-surveillance",
+    "date": "1970-12-31",
+    "displayDate": "1970年前后软禁期间",
+    "datePrecision": "year-about",
+    "title": "李敖借警总跟监人员帮徐熙光吓退黑道",
+    "summary": "徐熙光神父后来与李敖熟识，因书店财务纠纷求助。李敖回忆自己正遭警备总部二十四小时跟踪软禁，便借力使力，让跟监人员亮身份，吓退对方黑道。",
+    "view": ["交游线", "日常线", "司法线"],
+    "tags": ["徐熙光", "警总", "软禁", "黑道", "债务纠纷"],
+    "people": ["李敖", "徐熙光", "宣凤林", "陆啸钊"],
+    "places": ["台北"],
+    "works": ["李敖回忆录"],
+    "certainty": "inferred",
+    "crossReferences": ["book4-deep-1964-09-after-xu-xiguang-investigates-wenxing"],
+    "source": {
+      "book": "李敖回忆录",
+      "chapter": "020.前程（1997-·62岁以后）",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/020.前程（1997-·62岁以后）.txt",
+      "line": 37
+    }
+  },
+  {
+    "id": "book4-deep-1974-prison-poem-only-love-a-little",
+    "date": "1974-12-31",
+    "displayDate": "1974年",
+    "datePrecision": "year",
+    "title": "李敖在牢中写《只爱一点点》",
+    "summary": "《前程》章谈爱情观时回引，李敖1974年在牢中写《只爱一点点》，以“只爱一点点”表达洒脱、限度感强的爱情态度。",
+    "view": ["思想线", "作品线", "司法线"],
+    "tags": ["爱情观", "牢狱", "诗"],
+    "people": ["李敖"],
+    "places": ["监狱"],
+    "works": ["只爱一点点", "李敖回忆录"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖回忆录",
+      "chapter": "020.前程（1997-·62岁以后）",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/020.前程（1997-·62岁以后）.txt",
+      "line": 187
+    }
+  },
+  {
+    "id": "book4-deep-1979-after-return-ping-xintao-introduces-sanmao",
+    "date": "1979-12-31",
+    "displayDate": "1979年复出后",
+    "datePrecision": "year-after",
+    "title": "平鑫涛介绍三毛与李敖见面",
+    "summary": "李敖回忆1979年复出后，皇冠的平鑫涛请他吃饭，并介绍仰慕他的三毛。李敖当面质疑三毛“帮助黄沙中的黑人”而不帮助“黑暗中的黄人”，作为他痛斥伪善的例子。",
+    "view": ["交游线", "思想线", "日常线"],
+    "tags": ["三毛", "平鑫涛", "皇冠", "伪善", "复出"],
+    "people": ["李敖", "平鑫涛", "三毛"],
+    "places": ["台北"],
+    "works": ["李敖回忆录"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖回忆录",
+      "chapter": "020.前程（1997-·62岁以后）",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/020.前程（1997-·62岁以后）.txt",
+      "line": 19
+    }
+  },
+  {
+    "id": "book4-deep-1979-after-return-talks-eight-hours-with-jin-yong",
+    "date": "1979-12-31",
+    "displayDate": "1979年复出后某晚",
+    "datePrecision": "undated-context",
+    "title": "金庸到李敖家长谈八小时",
+    "summary": "《前程》章把金庸列为李敖痛斥伪善的例子：金庸某晚到李敖家，一谈八小时，并谈到儿子死后精研佛学；李敖反问其财产与佛教舍离观如何相容。",
+    "view": ["交游线", "思想线", "日常线"],
+    "tags": ["金庸", "佛教", "伪善", "谈话"],
+    "people": ["李敖", "金庸"],
+    "places": ["李敖家"],
+    "works": ["李敖回忆录"],
+    "certainty": "inferred",
+    "source": {
+      "book": "李敖回忆录",
+      "chapter": "020.前程（1997-·62岁以后）",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/020.前程（1997-·62岁以后）.txt",
+      "line": 19
+    }
+  },
+  {
+    "id": "book4-deep-1984-about-meets-wang-xiaotun-renai-road",
+    "date": "1984-12-31",
+    "displayDate": "1984年前后",
+    "datePrecision": "year-about",
+    "title": "李敖在仁爱路初识王小屯",
+    "summary": "《前程》章写，王小屯十九岁时，李敖在台北仁爱路先看到她的背影与美腿，由此认识；八年后两人在1992年3月8日结婚。",
+    "view": ["生平线", "家庭线", "日常线"],
+    "tags": ["王小屯", "婚姻", "仁爱路"],
+    "people": ["李敖", "王小屯"],
+    "places": ["台北仁爱路"],
+    "works": ["李敖回忆录"],
+    "certainty": "inferred",
+    "crossReferences": ["book4-1992-03-08-marries-wang-xiaotun"],
+    "source": {
+      "book": "李敖回忆录",
+      "chapter": "020.前程（1997-·62岁以后）",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/020.前程（1997-·62岁以后）.txt",
+      "line": 139
+    }
+  },
+  {
+    "id": "book4-deep-1993-05-04-how-to-oppose-zhang-xiaoci-lecture",
+    "date": "1993-05-04",
+    "displayDate": "1993年5月4日",
+    "datePrecision": "day",
+    "title": "李敖在东吴校本部演讲《如何反对章孝慈》",
+    "summary": "到东吴任教前，李敖于1993年5月4日在校本部演讲《如何反对章孝慈》，学生海报一路贴到校门外；他称这场演讲是赴任前的“下马威”。",
+    "view": ["口诛线", "教育线", "思想线"],
+    "tags": ["东吴大学", "章孝慈", "演讲", "下马威"],
+    "people": ["李敖", "章孝慈"],
+    "places": ["东吴大学"],
+    "works": ["如何反对章孝慈", "李敖回忆录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book4-1993-06-07-breakfast-finalizes-soochow-job", "book4-1993-09-21-first-soochow-class"],
+    "source": {
+      "book": "李敖回忆录",
+      "chapter": "019.口诛（1993-·58岁至今）",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/019.口诛（1993-·58岁至今）.txt",
+      "line": 59
+    }
+  },
+  {
+    "id": "book4-deep-1993-09-16-qiaobao-zhang-hires-li",
+    "date": "1993-09-16",
+    "displayDate": "1993年9月16日",
+    "datePrecision": "day",
+    "title": "美国《侨报》报道章孝慈聘李敖任教",
+    "summary": "《口诛》章追列海外舆论，1993年9月16日美国《侨报》以《章孝慈聘李敖任教、决建东吴为具人文精神大学》为题，报道东吴聘李敖与章孝慈办学理念的关系。",
+    "view": ["口诛线", "教育线", "媒体线"],
+    "tags": ["侨报", "东吴大学", "章孝慈", "海外报道"],
+    "people": ["李敖", "章孝慈"],
+    "places": ["美国", "东吴大学"],
+    "works": ["李敖回忆录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book4-1993-09-21-first-soochow-class"],
+    "source": {
+      "book": "李敖回忆录",
+      "chapter": "019.口诛（1993-·58岁至今）",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/019.口诛（1993-·58岁至今）.txt",
+      "line": 73
+    }
+  },
+  {
+    "id": "book4-deep-1993-10-01-open-magazine-introduces-soochow-course",
+    "date": "1993-10-01",
+    "displayDate": "1993年10月1日",
+    "datePrecision": "day",
+    "title": "香港《开放杂志》报道李敖东吴开课",
+    "summary": "1993年10月1日，香港《开放杂志》刊出《批蒋作家李敖东吴开课——蒋家后人章孝慈引狼入室》，并引述章孝慈把聘请李敖视为东吴发扬人文精神的第一步。",
+    "view": ["口诛线", "教育线", "媒体线"],
+    "tags": ["开放杂志", "东吴大学", "章孝慈", "引狼入室"],
+    "people": ["李敖", "章孝慈"],
+    "places": ["香港", "东吴大学"],
+    "works": ["李敖回忆录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book4-1993-09-21-first-soochow-class"],
+    "source": {
+      "book": "李敖回忆录",
+      "chapter": "019.口诛（1993-·58岁至今）",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/019.口诛（1993-·58岁至今）.txt",
+      "line": 73
+    }
+  },
+  {
+    "id": "book4-deep-1993-10-01-united-evening-lonely-wolf-report",
+    "date": "1993-10-01",
+    "displayDate": "1993年10月1日",
+    "datePrecision": "day",
+    "title": "《联合晚报》刊出《孤独的狼重新啸傲江湖？》",
+    "summary": "《口诛》章回顾东吴任教带来的媒体转向，1993年10月1日《联合晚报》刊出黄靖雅《孤独的狼重新啸傲江湖？》，题名尤其令李敖侧目。",
+    "view": ["口诛线", "媒体线", "教育线"],
+    "tags": ["联合晚报", "东吴大学", "啸傲江湖", "媒体报道"],
+    "people": ["李敖", "黄靖雅"],
+    "places": ["台湾"],
+    "works": ["孤独的狼重新啸傲江湖？", "李敖回忆录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book4-1993-09-21-first-soochow-class", "book4-deep-1993-10-21-nanyang-reprints-lonely-wolf"],
+    "source": {
+      "book": "李敖回忆录",
+      "chapter": "019.口诛（1993-·58岁至今）",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/019.口诛（1993-·58岁至今）.txt",
+      "line": 175
+    }
+  },
+  {
+    "id": "book4-deep-1993-10-21-nanyang-reprints-lonely-wolf",
+    "date": "1993-10-21",
+    "displayDate": "1993年10月21日",
+    "datePrecision": "day",
+    "title": "吉隆坡《南洋商报》改题刊出李敖东吴报道",
+    "summary": "《联合晚报》的《孤独的狼重新啸傲江湖？》同月21日由吉隆坡《南洋商报》改题为《李敖重新啸傲江湖？》刊出，显示东吴任教新闻已进入海外华文媒体。",
+    "view": ["口诛线", "媒体线", "教育线"],
+    "tags": ["南洋商报", "联合晚报", "吉隆坡", "海外报道"],
+    "people": ["李敖", "黄靖雅"],
+    "places": ["吉隆坡", "东吴大学"],
+    "works": ["李敖重新啸傲江湖？", "李敖回忆录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book4-deep-1993-10-01-united-evening-lonely-wolf-report"],
+    "source": {
+      "book": "李敖回忆录",
+      "chapter": "019.口诛（1993-·58岁至今）",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/019.口诛（1993-·58岁至今）.txt",
+      "line": 175
+    }
+  },
+  {
+    "id": "book4-deep-1993-after-soochow-jingyi-xu-xiguang-invite",
+    "date": "1993-12-31",
+    "displayDate": "1993年东吴任教消息传出后",
+    "datePrecision": "year-after",
+    "title": "静宜大学由徐熙光署名寄聘书邀李敖任教",
+    "summary": "章孝慈请李敖到东吴后，静宜大学也闻风寄来邀请信与聘书，聘书署名校长徐熙光；李敖回忆自己最后谢绝，并因昔日徐熙光来查《文星》而为之一笑。",
+    "view": ["交游线", "教育线", "口诛线"],
+    "tags": ["静宜大学", "徐熙光", "东吴大学", "聘书"],
+    "people": ["李敖", "徐熙光", "章孝慈"],
+    "places": ["静宜大学", "东吴大学"],
+    "works": ["李敖回忆录"],
+    "certainty": "inferred",
+    "crossReferences": ["book4-deep-1964-09-after-xu-xiguang-investigates-wenxing", "book4-1993-09-21-first-soochow-class"],
+    "source": {
+      "book": "李敖回忆录",
+      "chapter": "020.前程（1997-·62岁以后）",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/020.前程（1997-·62岁以后）.txt",
+      "line": 37
+    }
+  },
+  {
+    "id": "book4-deep-1994-12-13-letter-to-wang-qinglin-after-zhang-illness",
+    "date": "1994-12-13",
+    "displayDate": "1994年12月13日",
+    "datePrecision": "day",
+    "title": "李敖致王庆琳，提出加倍退还东吴薪资助章孝慈",
+    "summary": "章孝慈1994年11月14日在北京脑溢血昏迷后，李敖于12月13日致信东吴历史系主任王庆琳，说明自己把任教薪资63255元提出并加倍为126510元捐回，且今后薪资也将比照办理。",
+    "view": ["交游线", "教育线", "日常线"],
+    "tags": ["章孝慈", "王庆琳", "东吴大学", "捐款", "薪资"],
+    "people": ["李敖", "章孝慈", "王庆琳"],
+    "places": ["东吴大学", "台北"],
+    "works": ["李敖回忆录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book4-1994-11-14-zhang-xiaoci-brain-hemorrhage", "book4-1995-03-05-art-auction-for-zhang-xiaoci-fund"],
+    "source": {
+      "book": "李敖回忆录",
+      "chapter": "019.口诛（1993-·58岁至今）",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/019.口诛（1993-·58岁至今）.txt",
+      "line": 89
+    }
+  },
+  {
+    "id": "book4-deep-1995-04-05-central-daily-auction-report",
+    "date": "1995-04-05",
+    "displayDate": "1995年4月5日",
+    "datePrecision": "day",
+    "title": "《中央日报》报道李敖拍卖所得分配",
+    "summary": "1995年4月5日，《中央日报》报道李敖为章孝慈筹款拍卖会所得分配：700万元捐给东吴，496万9000元另用于雏妓救援、二二八族群融合及子女教育基金。",
+    "view": ["交游线", "媒体线", "教育线"],
+    "tags": ["中央日报", "拍卖会", "章孝慈", "东吴大学", "捐款"],
+    "people": ["李敖", "章孝慈", "黄宏成", "张慈让", "黄秋雄"],
+    "places": ["台北", "东吴大学"],
+    "works": ["李敖回忆录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book4-1995-03-05-art-auction-for-zhang-xiaoci-fund", "book4-1995-04-04-donates-to-zhang-xiaoci-and-launches-chiang-book"],
+    "source": {
+      "book": "李敖回忆录",
+      "chapter": "019.口诛（1993-·58岁至今）",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/019.口诛（1993-·58岁至今）.txt",
+      "line": 101
+    }
+  },
+  {
+    "id": "book4-deep-1995-10-20-tvbs-live-ad-after-signing",
+    "date": "1995-10-20",
+    "displayDate": "1995年10月20日晚",
+    "datePrecision": "day",
+    "title": "李敖签约当晚在 TVBS 现场节目插播新节目广告",
+    "summary": "与真相新闻网签约当天晚上，李敖上 TVBS《台北夜未眠》现场节目，并按自己信中所说插播《李敖笑傲江湖》广告；TVBS 抗议后，李敖反讥其小气。",
+    "view": ["口诛线", "媒体线", "日常线"],
+    "tags": ["TVBS", "台北夜未眠", "李敖笑傲江湖", "真相新闻网"],
+    "people": ["李敖", "李昊曈", "崔家瑞", "董兹中"],
+    "places": ["台北"],
+    "works": ["李敖笑傲江湖", "台北夜未眠", "李敖回忆录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book4-1995-10-20-signs-li-ao-roams-jianghu-contract", "book4-1995-10-21-letter-to-li-haotong-about-postdated-checks"],
+    "source": {
+      "book": "李敖回忆录",
+      "chapter": "019.口诛（1993-·58岁至今）",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/019.口诛（1993-·58岁至今）.txt",
+      "line": 179
+    }
+  },
+  {
+    "id": "book4-deep-1996-10-30-roams-jianghu-renewed-after-one-year",
+    "date": "1996-10-30",
+    "displayDate": "1996年10月30日后",
+    "datePrecision": "day-after",
+    "title": "《李敖笑傲江湖》播出一年后续约",
+    "summary": "《口诛》章写，《李敖笑傲江湖》播出一年后，由周荃妹妹周菲出面，双方再续约一年；节目至《回忆录》写作时已播出近四百集。",
+    "view": ["口诛线", "媒体线"],
+    "tags": ["李敖笑傲江湖", "真相新闻网", "续约", "周荃", "周菲"],
+    "people": ["李敖", "周荃", "周菲"],
+    "places": ["台湾"],
+    "works": ["李敖笑傲江湖", "李敖回忆录"],
+    "certainty": "inferred",
+    "crossReferences": ["book4-1995-10-30-li-ao-roams-jianghu-begins-broadcast"],
+    "source": {
+      "book": "李敖回忆录",
+      "chapter": "019.口诛（1993-·58岁至今）",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/019.口诛（1993-·58岁至今）.txt",
+      "line": 203
+    }
+  },
+  {
+    "id": "book4-deep-1996-show-red-jacket-four-copies",
+    "date": "1996-12-31",
+    "displayDate": "《李敖笑傲江湖》节目期间",
+    "datePrecision": "undated-context",
+    "title": "李敖固定穿红夹克主持电视节目",
+    "summary": "《前程》章写，李敖做《李敖笑傲江湖》时电视上永远一袭红夹克，近四百场从不改变；后来因看到郝柏村也穿同款，他把同样的夹克都买来，一共四件。",
+    "view": ["日常线", "媒体线", "口诛线"],
+    "tags": ["李敖笑傲江湖", "红夹克", "电视", "郝柏村"],
+    "people": ["李敖", "郝柏村"],
+    "places": ["台湾"],
+    "works": ["李敖笑傲江湖", "李敖回忆录"],
+    "certainty": "inferred",
+    "crossReferences": ["book4-1995-10-30-li-ao-roams-jianghu-begins-broadcast", "book4-deep-1996-10-30-roams-jianghu-renewed-after-one-year"],
+    "source": {
+      "book": "李敖回忆录",
+      "chapter": "020.前程（1997-·62岁以后）",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/020.前程（1997-·62岁以后）.txt",
+      "line": 137
+    }
+  },
+  {
+    "id": "book4-deep-1997-undated-guest-work-routine",
+    "date": "1997-12-31",
+    "displayDate": "《前程》回忆晚年日常",
+    "datePrecision": "undated-context",
+    "title": "李敖形成一边做资料工一边待客的习惯",
+    "summary": "《前程》章写，朋友到李敖家作客时，他绝不专心待客，而是一边圈、剪、贴、分、捆、搬资料，一边谈话；孟绝子、陈兆基、陈彦增等人甚至会被拉来一起做工。",
+    "view": ["日常线", "交游线"],
+    "tags": ["待客之道", "资料工作", "工作狂", "朋友"],
+    "people": ["李敖", "孟绝子", "陈兆基", "陈彦增", "骆明道"],
+    "places": ["李敖家"],
+    "works": ["李敖回忆录"],
+    "certainty": "inferred",
+    "source": {
+      "book": "李敖回忆录",
+      "chapter": "020.前程（1997-·62岁以后）",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/020.前程（1997-·62岁以后）.txt",
+      "line": 135
+    }
+  }
+]

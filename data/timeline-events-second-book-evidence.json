@@ -1,0 +1,763 @@
+[
+  {
+    "id": "book2-evidence-1975-tucheng-detention-center-built",
+    "date": "1975-12-31",
+    "displayDate": "1975年",
+    "datePrecision": "year",
+    "title": "台北看守所土城新址落成",
+    "summary": "李敖在《监狱学土城？》中交代台北看守所土城新建所于1975年完成，土地三万七千余坪，额定收容二千七百人，却常收三千三百人左右，成为他批判监所黑暗的空间背景。",
+    "view": ["大事件对照线", "司法线"],
+    "tags": ["台北看守所", "土城", "监所", "待校日"],
+    "people": ["李敖"],
+    "places": ["台北看守所", "土城"],
+    "works": ["监狱学土城？"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖自传与回忆续集",
+      "chapter": "028.监狱学土城？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/028.监狱学土城？.txt",
+      "line": 5
+    }
+  },
+  {
+    "id": "book2-evidence-1980-07-20-hu-trust-ends",
+    "date": "1980-07-20",
+    "displayDate": "1980年7月20日",
+    "datePrecision": "day",
+    "title": "李敖与胡茵梦信托关系终止",
+    "summary": "《新女性的新谎话》追述，李敖与胡茵梦的信托关系已于1980年7月20日在刘维斌住处终止，李敖以此反驳胡茵梦继续持有权状的说法。",
+    "view": ["司法线", "生平线"],
+    "tags": ["胡茵梦", "信托", "天母静庐", "证据链"],
+    "people": ["李敖", "胡茵梦", "刘维斌"],
+    "places": ["台湾"],
+    "works": ["新女性的新谎话"],
+    "certainty": "confirmed",
+    "crossReferences": ["book2-1980-01-10-hu-yinmeng-house-transfer", "book2-1980-06-26-hu-yinmeng-certified-letter"],
+    "source": {
+      "book": "李敖自传与回忆续集",
+      "chapter": "025.新女性的新谎话",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/025.新女性的新谎话.txt",
+      "line": 15
+    }
+  },
+  {
+    "id": "book2-evidence-1980-07-23-hu-certified-letter",
+    "date": "1980-07-23",
+    "displayDate": "1980年7月23日",
+    "datePrecision": "day",
+    "title": "胡茵梦寄出存证信函谈权状",
+    "summary": "李敖在《新女性的新谎话》中说，胡茵梦于1980年7月23日寄出第二十六号存证信函，内容涉及李敖代她管理权状的说法，成为后续背信争议的证据之一。",
+    "view": ["司法线", "生平线"],
+    "tags": ["胡茵梦", "存证信", "权状", "证据链"],
+    "people": ["李敖", "胡茵梦"],
+    "places": ["台湾"],
+    "works": ["新女性的新谎话"],
+    "certainty": "confirmed",
+    "crossReferences": ["book2-evidence-1980-07-20-hu-trust-ends", "book2-1980-09-09-hu-yinmeng-court-testimony"],
+    "source": {
+      "book": "李敖自传与回忆续集",
+      "chapter": "025.新女性的新谎话",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/025.新女性的新谎话.txt",
+      "line": 17
+    }
+  },
+  {
+    "id": "book2-evidence-1980-08-28-li-hu-divorce",
+    "date": "1980-08-28",
+    "displayDate": "1980年8月28日",
+    "datePrecision": "day",
+    "title": "李敖与胡茵梦离婚",
+    "summary": "《新女性的新谎话》以1980年8月28日离婚为时间界线，说明7月20日信托终止与后续权状争议均发生在婚姻关系结束之前后。",
+    "view": ["生平线", "司法线"],
+    "tags": ["胡茵梦", "婚姻", "离婚", "证据链"],
+    "people": ["李敖", "胡茵梦"],
+    "places": ["台湾"],
+    "works": ["新女性的新谎话"],
+    "certainty": "confirmed",
+    "crossReferences": ["book2-evidence-1980-07-20-hu-trust-ends", "book2-1981-07-22-new-marriage-written"],
+    "source": {
+      "book": "李敖自传与回忆续集",
+      "chapter": "025.新女性的新谎话",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/025.新女性的新谎话.txt",
+      "line": 15
+    }
+  },
+  {
+    "id": "book2-evidence-1980-09-24-hu-phone-recording",
+    "date": "1980-09-24",
+    "displayDate": "1980年9月24日",
+    "datePrecision": "day",
+    "title": "胡茵梦电话录音承认权状在李敖处",
+    "summary": "李敖在《新女性的新谎话》中列出1980年9月24日电话录音，称胡茵梦承认权状在李敖处，用来对照她日后关于权状和信托关系的说法。",
+    "view": ["司法线", "生平线"],
+    "tags": ["胡茵梦", "电话录音", "权状", "证据链"],
+    "people": ["李敖", "胡茵梦"],
+    "places": ["台湾"],
+    "works": ["新女性的新谎话"],
+    "certainty": "confirmed",
+    "crossReferences": ["book2-1980-09-09-hu-yinmeng-court-testimony", "book2-evidence-1980-07-23-hu-certified-letter"],
+    "source": {
+      "book": "李敖自传与回忆续集",
+      "chapter": "025.新女性的新谎话",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/025.新女性的新谎话.txt",
+      "line": 23
+    }
+  },
+  {
+    "id": "book2-evidence-1980-10-06-hu-complaint-filed",
+    "date": "1980-10-06",
+    "displayDate": "1980年10月6日",
+    "datePrecision": "day",
+    "title": "李敖对胡茵梦提出告诉",
+    "summary": "《新女性的新谎话》列明，李敖于1980年10月6日递状，指控胡茵梦相关背信行为；此后10月、11月连续开侦查庭。",
+    "view": ["司法线", "生平线"],
+    "tags": ["胡茵梦", "告诉", "背信", "证据链"],
+    "people": ["李敖", "胡茵梦"],
+    "places": ["台北"],
+    "works": ["新女性的新谎话"],
+    "certainty": "confirmed",
+    "crossReferences": ["book2-evidence-1980-09-24-hu-phone-recording", "book2-1985-04-10-new-woman-lies-written"],
+    "source": {
+      "book": "李敖自传与回忆续集",
+      "chapter": "025.新女性的新谎话",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/025.新女性的新谎话.txt",
+      "line": 21
+    }
+  },
+  {
+    "id": "book2-evidence-1980-10-16-hu-investigation-hearing",
+    "date": "1980-10-16",
+    "displayDate": "1980年10月16日",
+    "datePrecision": "day",
+    "title": "胡茵梦案第一次侦查庭",
+    "summary": "李敖在《新女性的新谎话》中列出1980年10月16日为胡茵梦相关背信案侦查庭日期之一，是10月6日告诉后的司法程序节点。",
+    "view": ["司法线"],
+    "tags": ["胡茵梦", "侦查庭", "背信", "证据链"],
+    "people": ["李敖", "胡茵梦"],
+    "places": ["台北"],
+    "works": ["新女性的新谎话"],
+    "certainty": "confirmed",
+    "crossReferences": ["book2-evidence-1980-10-06-hu-complaint-filed"],
+    "source": {
+      "book": "李敖自传与回忆续集",
+      "chapter": "025.新女性的新谎话",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/025.新女性的新谎话.txt",
+      "line": 21
+    }
+  },
+  {
+    "id": "book2-evidence-1980-11-10-hu-investigation-hearing",
+    "date": "1980-11-10",
+    "displayDate": "1980年11月10日",
+    "datePrecision": "day",
+    "title": "胡茵梦案再开侦查庭",
+    "summary": "《新女性的新谎话》列出1980年11月10日侦查庭，显示胡茵梦背信争议在10月告诉后持续进入检方程序。",
+    "view": ["司法线"],
+    "tags": ["胡茵梦", "侦查庭", "背信", "证据链"],
+    "people": ["李敖", "胡茵梦"],
+    "places": ["台北"],
+    "works": ["新女性的新谎话"],
+    "certainty": "confirmed",
+    "crossReferences": ["book2-evidence-1980-10-06-hu-complaint-filed", "book2-evidence-1980-10-16-hu-investigation-hearing"],
+    "source": {
+      "book": "李敖自传与回忆续集",
+      "chapter": "025.新女性的新谎话",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/025.新女性的新谎话.txt",
+      "line": 21
+    }
+  },
+  {
+    "id": "book2-evidence-1980-11-20-hu-investigation-hearing",
+    "date": "1980-11-20",
+    "displayDate": "1980年11月20日",
+    "datePrecision": "day",
+    "title": "胡茵梦案第三次侦查庭",
+    "summary": "李敖在《新女性的新谎话》中把1980年11月20日列为胡茵梦案侦查庭日期，作为同一背信证据链的连续节点。",
+    "view": ["司法线"],
+    "tags": ["胡茵梦", "侦查庭", "背信", "证据链"],
+    "people": ["李敖", "胡茵梦"],
+    "places": ["台北"],
+    "works": ["新女性的新谎话"],
+    "certainty": "confirmed",
+    "crossReferences": ["book2-evidence-1980-10-06-hu-complaint-filed", "book2-evidence-1980-11-10-hu-investigation-hearing"],
+    "source": {
+      "book": "李敖自传与回忆续集",
+      "chapter": "025.新女性的新谎话",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/025.新女性的新谎话.txt",
+      "line": 21
+    }
+  },
+  {
+    "id": "book2-evidence-1981-01-05-liu-fengsong-transfer",
+    "date": "1981-01-05",
+    "displayDate": "1981年1月5日",
+    "datePrecision": "day",
+    "title": "刘峯松移送台北监狱前被独居第四十六房",
+    "summary": "《监狱学土城？》记载，刘峯松1981年1月5日移送台北监狱前在台北看守所独居第四十六房；他与李敖互通书信均被特别检查。",
+    "view": ["司法线", "交游线"],
+    "tags": ["刘峯松", "台北看守所", "书信", "监狱批判"],
+    "people": ["李敖", "刘峯松"],
+    "places": ["台北看守所", "台北监狱"],
+    "works": ["监狱学土城？"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖自传与回忆续集",
+      "chapter": "028.监狱学土城？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/028.监狱学土城？.txt",
+      "line": 21
+    }
+  },
+  {
+    "id": "book2-evidence-1981-03-21-mercy-fee-confiscation-order",
+    "date": "1981-03-21",
+    "displayDate": "1981年3月21日",
+    "datePrecision": "day",
+    "title": "法务部下令监所慈惠费没收解库",
+    "summary": "《监狱学土城？》列出法务部1981年3月21日令，要求监所慈惠费一律没收解缴国库；李敖用此说明监所财务与囚人利益的冲突。",
+    "view": ["司法线", "大事件对照线"],
+    "tags": ["法务部", "慈惠费", "监所", "监狱批判"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["监狱学土城？"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖自传与回忆续集",
+      "chapter": "028.监狱学土城？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/028.监狱学土城？.txt",
+      "line": 203
+    }
+  },
+  {
+    "id": "book2-evidence-1981-04-01-prison-rules-revised",
+    "date": "1981-04-01",
+    "displayDate": "1981年4月1日",
+    "datePrecision": "day",
+    "title": "监狱行刑法施行细则修正",
+    "summary": "李敖在《监狱学土城？》引到1981年4月1日修正的监狱行刑法施行细则及便民工作要点，用来检验台北看守所管理是否违反法令。",
+    "view": ["司法线", "大事件对照线"],
+    "tags": ["监狱行刑法", "法务部", "监所", "监狱批判"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["监狱学土城？"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖自传与回忆续集",
+      "chapter": "028.监狱学土城？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/028.监狱学土城？.txt",
+      "line": 243
+    }
+  },
+  {
+    "id": "book2-evidence-1981-04-11-mercy-fee-starts",
+    "date": "1981-04-11",
+    "displayDate": "1981年4月11日",
+    "datePrecision": "day",
+    "title": "慈惠费改没收解库起算",
+    "summary": "《监狱学土城？》写法务部慈惠费没收解库规定从1981年4月11日起算，是3月21日命令的执行节点。",
+    "view": ["司法线", "大事件对照线"],
+    "tags": ["法务部", "慈惠费", "监所", "监狱批判"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["监狱学土城？"],
+    "certainty": "confirmed",
+    "crossReferences": ["book2-evidence-1981-03-21-mercy-fee-confiscation-order"],
+    "source": {
+      "book": "李敖自传与回忆续集",
+      "chapter": "028.监狱学土城？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/028.监狱学土城？.txt",
+      "line": 203
+    }
+  },
+  {
+    "id": "book2-evidence-1981-06-22-yang-zongcai-son-detained",
+    "date": "1981-06-22",
+    "displayDate": "1981年6月22日",
+    "datePrecision": "day",
+    "title": "杨宗才带五岁儿子进入看守所",
+    "summary": "《监狱学土城？》记载，杨宗才于1981年6月22日带五岁儿子入台北看守所，后来父子被台北监狱拒收，又回到看守所，成为李敖观察监所荒谬的个案。",
+    "view": ["司法线", "大事件对照线"],
+    "tags": ["杨宗才", "台北看守所", "监所个案"],
+    "people": ["李敖", "杨宗才"],
+    "places": ["台北看守所"],
+    "works": ["监狱学土城？"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖自传与回忆续集",
+      "chapter": "028.监狱学土城？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/028.监狱学土城？.txt",
+      "line": 55
+    }
+  },
+  {
+    "id": "book2-evidence-1981-07-01-inmate-food-fee-raised",
+    "date": "1981-07-01",
+    "displayDate": "1981年7月1日",
+    "datePrecision": "day",
+    "title": "收容人饮食管理费提高",
+    "summary": "李敖在《监狱学土城？》记录，1981年7月1日起收容人饮食管理费由四百六十元提高到五百五十元，作为监所生活费用与管理问题的细节。",
+    "view": ["司法线", "日常线"],
+    "tags": ["台北看守所", "饮食管理费", "监所生活"],
+    "people": ["李敖"],
+    "places": ["台北看守所"],
+    "works": ["监狱学土城？"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖自传与回忆续集",
+      "chapter": "028.监狱学土城？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/028.监狱学土城？.txt",
+      "line": 321
+    }
+  },
+  {
+    "id": "book2-evidence-1981-07-16-wang-wenji-detained",
+    "date": "1981-07-16",
+    "displayDate": "1981年7月16日",
+    "datePrecision": "day",
+    "title": "汪文吉因包庇走私案被收押",
+    "summary": "《监狱学土城？》写，汪文吉1981年7月16日因涉嫌包庇走私被收押，后来却能在看守所内任非法杂役，显出管理特权问题。",
+    "view": ["司法线", "大事件对照线"],
+    "tags": ["汪文吉", "走私案", "台北看守所", "监狱批判"],
+    "people": ["李敖", "汪文吉"],
+    "places": ["台北看守所"],
+    "works": ["监狱学土城？"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖自传与回忆续集",
+      "chapter": "028.监狱学土城？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/028.监狱学土城？.txt",
+      "line": 49
+    }
+  },
+  {
+    "id": "book2-evidence-1981-07-17-li-congming-enters-detention",
+    "date": "1981-07-17",
+    "displayDate": "1981年7月17日",
+    "datePrecision": "day",
+    "title": "李聪明进入台北看守所",
+    "summary": "《监狱学土城？》追述，李聪明于1981年7月17日入台北看守所；两周后7月31日突然受伤死亡。此条作为死亡事件的前置校对节点。",
+    "view": ["司法线", "大事件对照线"],
+    "tags": ["李聪明", "台北看守所", "监所个案", "证据链"],
+    "people": ["李敖", "李聪明"],
+    "places": ["台北看守所"],
+    "works": ["监狱学土城？"],
+    "certainty": "confirmed",
+    "crossReferences": ["book2-1981-07-31-li-congming-dies"],
+    "source": {
+      "book": "李敖自传与回忆续集",
+      "chapter": "028.监狱学土城？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/028.监狱学土城？.txt",
+      "line": 113
+    }
+  },
+  {
+    "id": "book2-evidence-1981-08-04-yang-qianqian-assault",
+    "date": "1981-08-04",
+    "displayDate": "1981年8月4日",
+    "datePrecision": "day",
+    "title": "杨茜茜赴约后遭轮奸案发生",
+    "summary": "李敖在《监狱学土城？》用1981年8月4日杨茜茜案说明看守所外部司法案件与舆论问题，并将其纳入监所批判的社会背景。",
+    "view": ["大事件对照线", "司法线"],
+    "tags": ["杨茜茜", "司法案件", "社会背景"],
+    "people": ["李敖", "杨茜茜"],
+    "places": ["台湾"],
+    "works": ["监狱学土城？"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖自传与回忆续集",
+      "chapter": "028.监狱学土城？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/028.监狱学土城？.txt",
+      "line": 249
+    }
+  },
+  {
+    "id": "book2-evidence-1981-08-10-chen-amu-detained",
+    "date": "1981-08-10",
+    "displayDate": "1981年8月10日",
+    "datePrecision": "day",
+    "title": "陈阿木被收押",
+    "summary": "《监狱学土城？》列出陈阿木1981年8月10日被收押，作为台北看守所收容与处理个案的连续材料。",
+    "view": ["司法线", "大事件对照线"],
+    "tags": ["陈阿木", "台北看守所", "监所个案"],
+    "people": ["李敖", "陈阿木"],
+    "places": ["台北看守所"],
+    "works": ["监狱学土城？"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖自传与回忆续集",
+      "chapter": "028.监狱学土城？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/028.监狱学土城？.txt",
+      "line": 125
+    }
+  },
+  {
+    "id": "book2-evidence-1981-08-13-welfare-goods-letter",
+    "date": "1981-08-13",
+    "displayDate": "1981年8月13日",
+    "datePrecision": "day",
+    "title": "司法院秘书长函禁售军公教福利品图利",
+    "summary": "李敖在《监狱学土城？》引用1981年8月13日司法院秘书长函，说明军公教福利品不得转售图利，并借此批判监所内外利益链。",
+    "view": ["司法线", "大事件对照线"],
+    "tags": ["司法院", "福利品", "监所利益", "监狱批判"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["监狱学土城？"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖自传与回忆续集",
+      "chapter": "028.监狱学土城？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/028.监狱学土城？.txt",
+      "line": 177
+    }
+  },
+  {
+    "id": "book2-evidence-1981-09-14-wang-wenji-indictment",
+    "date": "1981-09-14",
+    "displayDate": "1981年9月14日",
+    "datePrecision": "day",
+    "title": "汪文吉收到起诉书",
+    "summary": "《监狱学土城？》列汪文吉案进程：1981年9月14日收到起诉书，9月22日回卡片室，10月1日开庭，10月7日交保释放。",
+    "view": ["司法线"],
+    "tags": ["汪文吉", "起诉书", "台北看守所", "证据链"],
+    "people": ["李敖", "汪文吉"],
+    "places": ["台北看守所"],
+    "works": ["监狱学土城？"],
+    "certainty": "confirmed",
+    "crossReferences": ["book2-evidence-1981-07-16-wang-wenji-detained"],
+    "source": {
+      "book": "李敖自传与回忆续集",
+      "chapter": "028.监狱学土城？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/028.监狱学土城？.txt",
+      "line": 49
+    }
+  },
+  {
+    "id": "book2-evidence-1981-09-15-printing-machine-enters-detention",
+    "date": "1981-09-15",
+    "displayDate": "1981年9月中",
+    "datePrecision": "month",
+    "title": "周宜万伪造国币案印刷机搬入看守所",
+    "summary": "《监狱学土城？》记载，1981年9月中，周宜万伪造国币案的印刷机被搬入台北看守所，李敖以此说明监所内案件展示与管理乱象。此条为月中暂挂，待校具体日。",
+    "view": ["司法线", "大事件对照线"],
+    "tags": ["周宜万", "伪造国币", "台北看守所", "待校日"],
+    "people": ["李敖", "周宜万"],
+    "places": ["台北看守所"],
+    "works": ["监狱学土城？"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖自传与回忆续集",
+      "chapter": "028.监狱学土城？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/028.监狱学土城？.txt",
+      "line": 153
+    }
+  },
+  {
+    "id": "book2-evidence-1981-09-22-wang-wenji-card-room",
+    "date": "1981-09-22",
+    "displayDate": "1981年9月22日",
+    "datePrecision": "day",
+    "title": "汪文吉回到卡片室",
+    "summary": "《监狱学土城？》列汪文吉在1981年9月22日回到卡片室，显示其在台北看守所中取得特殊工作位置。",
+    "view": ["司法线"],
+    "tags": ["汪文吉", "卡片室", "台北看守所", "证据链"],
+    "people": ["李敖", "汪文吉"],
+    "places": ["台北看守所"],
+    "works": ["监狱学土城？"],
+    "certainty": "confirmed",
+    "crossReferences": ["book2-evidence-1981-09-14-wang-wenji-indictment"],
+    "source": {
+      "book": "李敖自传与回忆续集",
+      "chapter": "028.监狱学土城？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/028.监狱学土城？.txt",
+      "line": 49
+    }
+  },
+  {
+    "id": "book2-evidence-1981-09-26-mao-songfeng-arrested",
+    "date": "1981-09-26",
+    "displayDate": "1981年9月26日",
+    "datePrecision": "day",
+    "title": "毛松枫被捕",
+    "summary": "《监狱学土城？》追述毛松枫1981年9月26日被捕，9月28日送医后死亡，是李敖列举看守所死亡个案的重要材料。",
+    "view": ["司法线", "大事件对照线"],
+    "tags": ["毛松枫", "台北看守所", "死亡个案", "证据链"],
+    "people": ["李敖", "毛松枫"],
+    "places": ["台北看守所"],
+    "works": ["监狱学土城？"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖自传与回忆续集",
+      "chapter": "028.监狱学土城？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/028.监狱学土城？.txt",
+      "line": 117
+    }
+  },
+  {
+    "id": "book2-evidence-1981-09-28-mao-songfeng-dies",
+    "date": "1981-09-28",
+    "displayDate": "1981年9月28日",
+    "datePrecision": "day",
+    "title": "毛松枫送医后死亡",
+    "summary": "《监狱学土城？》记载毛松枫1981年9月28日送医后死亡，与李聪明、张权、林志新等个案一起构成李敖的看守所死亡证据链。",
+    "view": ["司法线", "大事件对照线"],
+    "tags": ["毛松枫", "台北看守所", "死亡个案", "证据链"],
+    "people": ["李敖", "毛松枫"],
+    "places": ["台北看守所"],
+    "works": ["监狱学土城？"],
+    "certainty": "confirmed",
+    "crossReferences": ["book2-evidence-1981-09-26-mao-songfeng-arrested", "book2-1981-07-31-li-congming-dies"],
+    "source": {
+      "book": "李敖自传与回忆续集",
+      "chapter": "028.监狱学土城？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/028.监狱学土城？.txt",
+      "line": 117
+    }
+  },
+  {
+    "id": "book2-evidence-1981-10-01-wang-wenji-first-hearing",
+    "date": "1981-10-01",
+    "displayDate": "1981年10月1日",
+    "datePrecision": "day",
+    "title": "汪文吉案第一次开庭",
+    "summary": "《监狱学土城？》列汪文吉案1981年10月1日第一次开庭，并口头请求交保，是其收押、起诉、交保链条中的司法节点。",
+    "view": ["司法线"],
+    "tags": ["汪文吉", "开庭", "交保", "证据链"],
+    "people": ["李敖", "汪文吉"],
+    "places": ["台北"],
+    "works": ["监狱学土城？"],
+    "certainty": "confirmed",
+    "crossReferences": ["book2-evidence-1981-09-14-wang-wenji-indictment", "book2-evidence-1981-10-07-wang-wenji-bailed"],
+    "source": {
+      "book": "李敖自传与回忆续集",
+      "chapter": "028.监狱学土城？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/028.监狱学土城？.txt",
+      "line": 49
+    }
+  },
+  {
+    "id": "book2-evidence-1981-10-03-yang-father-son-return",
+    "date": "1981-10-03",
+    "displayDate": "1981年10月3日",
+    "datePrecision": "day",
+    "title": "台北监狱拒收杨宗才父子",
+    "summary": "《监狱学土城？》写，1981年10月3日台北监狱拒收杨宗才父子，父子又回到台北看守所，凸显儿童随父入监的荒谬处境。",
+    "view": ["司法线", "大事件对照线"],
+    "tags": ["杨宗才", "台北监狱", "台北看守所", "监所个案"],
+    "people": ["李敖", "杨宗才"],
+    "places": ["台北监狱", "台北看守所"],
+    "works": ["监狱学土城？"],
+    "certainty": "confirmed",
+    "crossReferences": ["book2-evidence-1981-06-22-yang-zongcai-son-detained"],
+    "source": {
+      "book": "李敖自传与回忆续集",
+      "chapter": "028.监狱学土城？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/028.监狱学土城？.txt",
+      "line": 55
+    }
+  },
+  {
+    "id": "book2-evidence-1981-10-07-wang-wenji-bailed",
+    "date": "1981-10-07",
+    "displayDate": "1981年10月7日",
+    "datePrecision": "day",
+    "title": "汪文吉十万元铺保释放",
+    "summary": "《监狱学土城？》记载，汪文吉1981年10月7日临时开庭，以十万元铺保释放，结束其在看守所内的这段特殊收押过程。",
+    "view": ["司法线"],
+    "tags": ["汪文吉", "交保", "台北看守所", "证据链"],
+    "people": ["李敖", "汪文吉"],
+    "places": ["台北"],
+    "works": ["监狱学土城？"],
+    "certainty": "confirmed",
+    "crossReferences": ["book2-evidence-1981-07-16-wang-wenji-detained", "book2-evidence-1981-10-01-wang-wenji-first-hearing"],
+    "source": {
+      "book": "李敖自传与回忆续集",
+      "chapter": "028.监狱学土城？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/028.监狱学土城？.txt",
+      "line": 49
+    }
+  },
+  {
+    "id": "book2-evidence-1981-10-21-lin-zhixin-detained",
+    "date": "1981-10-21",
+    "displayDate": "1981年10月21日",
+    "datePrecision": "day",
+    "title": "林志新进入台北看守所",
+    "summary": "《监狱学土城？》列林志新1981年10月21日入所，1982年1月19日送病舍当天死亡，是台北看守所死亡个案链的一环。",
+    "view": ["司法线", "大事件对照线"],
+    "tags": ["林志新", "台北看守所", "死亡个案", "证据链"],
+    "people": ["李敖", "林志新"],
+    "places": ["台北看守所"],
+    "works": ["监狱学土城？"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖自传与回忆续集",
+      "chapter": "028.监狱学土城？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/028.监狱学土城？.txt",
+      "line": 121
+    }
+  },
+  {
+    "id": "book2-evidence-1981-12-31-yang-changyan-special-visits",
+    "date": "1981-12-31",
+    "displayDate": "1981年12月31日",
+    "datePrecision": "day",
+    "title": "杨长艳在看守所特别面会三次",
+    "summary": "李敖在《监狱学土城？》以1981年12月31日杨长艳三次特别面会为例，说明台北看守所的面会特权与管理不平等。",
+    "view": ["司法线", "日常线"],
+    "tags": ["杨长艳", "特别面会", "台北看守所", "监狱批判"],
+    "people": ["李敖", "杨长艳", "朱光军"],
+    "places": ["台北看守所"],
+    "works": ["监狱学土城？"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖自传与回忆续集",
+      "chapter": "028.监狱学土城？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/028.监狱学土城？.txt",
+      "line": 231
+    }
+  },
+  {
+    "id": "book2-evidence-1982-01-03-prison-labor-news",
+    "date": "1982-01-03",
+    "displayDate": "1982年1月3日",
+    "datePrecision": "day",
+    "title": "中央社报道法务部要求监所作业训练不可只重利润",
+    "summary": "《监狱学土城？》引用1982年1月3日中央社报道，法务部要求各监所作业训练不得只从利润报酬着想，李敖以此反衬监所作业制度问题。",
+    "view": ["司法线", "大事件对照线"],
+    "tags": ["中央社", "法务部", "监所作业", "监狱批判"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["监狱学土城？"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖自传与回忆续集",
+      "chapter": "028.监狱学土城？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/028.监狱学土城？.txt",
+      "line": 149
+    }
+  },
+  {
+    "id": "book2-evidence-1982-01-14-zhang-quan-dies",
+    "date": "1982-01-14",
+    "displayDate": "1982年1月14日",
+    "datePrecision": "day",
+    "title": "张权在台北看守所暴毙",
+    "summary": "《监狱学土城？》列张权1982年1月14日暴毙，与李聪明、毛松枫、林志新等死亡个案并列，构成李敖追问看守所责任的材料。",
+    "view": ["司法线", "大事件对照线"],
+    "tags": ["张权", "台北看守所", "死亡个案", "证据链"],
+    "people": ["李敖", "张权"],
+    "places": ["台北看守所"],
+    "works": ["监狱学土城？"],
+    "certainty": "confirmed",
+    "crossReferences": ["book2-1981-07-31-li-congming-dies", "book2-evidence-1981-09-28-mao-songfeng-dies"],
+    "source": {
+      "book": "李敖自传与回忆续集",
+      "chapter": "028.监狱学土城？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/028.监狱学土城？.txt",
+      "line": 119
+    }
+  },
+  {
+    "id": "book2-evidence-1982-01-19-lin-zhixin-dies",
+    "date": "1982-01-19",
+    "displayDate": "1982年1月19日",
+    "datePrecision": "day",
+    "title": "林志新送病舍当天死亡",
+    "summary": "《监狱学土城？》写林志新1982年1月19日送病舍当天死亡，是李敖批判台北看守所医疗与管理黑暗的重要个案。",
+    "view": ["司法线", "大事件对照线"],
+    "tags": ["林志新", "台北看守所", "死亡个案", "证据链"],
+    "people": ["李敖", "林志新"],
+    "places": ["台北看守所"],
+    "works": ["监狱学土城？"],
+    "certainty": "confirmed",
+    "crossReferences": ["book2-evidence-1981-10-21-lin-zhixin-detained", "book2-evidence-1982-01-14-zhang-quan-dies"],
+    "source": {
+      "book": "李敖自传与回忆续集",
+      "chapter": "028.监狱学土城？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/028.监狱学土城？.txt",
+      "line": 121
+    }
+  },
+  {
+    "id": "book2-evidence-1982-01-20-chunyuan-exercise-arrests",
+    "date": "1982-01-20",
+    "displayDate": "1982年1月20日",
+    "datePrecision": "day",
+    "title": "春元演习首日九十九人进入收容中心",
+    "summary": "《监狱学土城？》记录1982年1月20日冬令春元演习首日，有九十九人被送入收容中心，作为台北看守所外部治安与收容机制的背景。",
+    "view": ["司法线", "大事件对照线"],
+    "tags": ["春元演习", "收容中心", "治安", "监狱批判"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["监狱学土城？"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖自传与回忆续集",
+      "chapter": "028.监狱学土城？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/028.监狱学土城？.txt",
+      "line": 311
+    }
+  },
+  {
+    "id": "book2-evidence-1984-03-08-hu-petition-filed",
+    "date": "1984-03-08",
+    "displayDate": "1984年3月8日",
+    "datePrecision": "day",
+    "title": "李敖递状提醒法院胡茵梦案未处理",
+    "summary": "《胡茵梦的“天性”问题》开头说，李敖1984年3月8日写状提醒法院，判决中遗漏胡茵梦背信、侵占证物问题；这是日后他连续追证的开端。",
+    "view": ["司法线", "生平线"],
+    "tags": ["胡茵梦", "法院", "递状", "证据链"],
+    "people": ["李敖", "胡茵梦"],
+    "places": ["台北"],
+    "works": ["胡茵梦的“天性”问题"],
+    "certainty": "confirmed",
+    "crossReferences": ["book2-1984-03-23-wang-jianfen-court-record", "book2-1984-11-29-hu-yinmeng-nature-written"],
+    "source": {
+      "book": "李敖自传与回忆续集",
+      "chapter": "024.胡茵梦的“天性”问题",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/024.胡茵梦的“天性”问题.txt",
+      "line": 7
+    }
+  },
+  {
+    "id": "book2-evidence-1984-11-28-hu-hearing",
+    "date": "1984-11-28",
+    "displayDate": "1984年11月28日上午（由文末日期推得）",
+    "datePrecision": "day",
+    "title": "胡茵梦案相关庭讯中法官仍追问证词矛盾",
+    "summary": "《胡茵梦的“天性”问题》署1984年11月29日，文中称“昨天上午开庭”，据此推得1984年11月28日上午开庭。李敖记法官仍在追问胡茵梦证词与权状问题。",
+    "view": ["司法线", "生平线"],
+    "tags": ["胡茵梦", "开庭", "权状", "证据链"],
+    "people": ["李敖", "胡茵梦"],
+    "places": ["台北"],
+    "works": ["胡茵梦的“天性”问题"],
+    "certainty": "inferred",
+    "crossReferences": ["book2-1984-11-29-hu-yinmeng-nature-written", "book2-evidence-1984-03-08-hu-petition-filed"],
+    "source": {
+      "book": "李敖自传与回忆续集",
+      "chapter": "024.胡茵梦的“天性”问题",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/024.胡茵梦的“天性”问题.txt",
+      "line": 21
+    }
+  },
+  {
+    "id": "book2-evidence-1985-04-04-hu-investigation-court",
+    "date": "1985-04-04",
+    "displayDate": "1985年4月4日（由文末日期推得）",
+    "datePrecision": "day",
+    "title": "胡因子等涉嫌背信案开侦查庭",
+    "summary": "《新女性的新谎话》署1985年4月10日，文中称“本月4日开胡因子等涉嫌背信侦查庭”，据此推得1985年4月4日开庭，是胡茵梦权状争议的后续侦查节点。",
+    "view": ["司法线", "生平线"],
+    "tags": ["胡茵梦", "胡因子", "背信", "侦查庭", "证据链"],
+    "people": ["李敖", "胡茵梦", "胡因子"],
+    "places": ["台北"],
+    "works": ["新女性的新谎话"],
+    "certainty": "inferred",
+    "crossReferences": ["book2-1985-04-10-new-woman-lies-written", "book2-evidence-1980-10-06-hu-complaint-filed"],
+    "source": {
+      "book": "李敖自传与回忆续集",
+      "chapter": "025.新女性的新谎话",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/025.新女性的新谎话.txt",
+      "line": 5
+    }
+  }
+]

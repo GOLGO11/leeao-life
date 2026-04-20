@@ -1,0 +1,338 @@
+[
+  {
+    "id": "book3-1948-07-09-qiao-escorted-to-nanjing",
+    "date": "1948-07-09",
+    "displayDate": "1948年7月9日",
+    "datePrecision": "day",
+    "title": "乔家才被押解到南京下狱",
+    "summary": "《我最难忘的一个国特》附录写乔家才于1948年7月1日被拘押，“八天后”由保密局军法处长李希成押解到南京下狱；此日据原文间隔推得，是黑牢转运链的第二个明确节点。",
+    "view": ["司法线", "大事件对照线"],
+    "tags": ["乔家才", "李希成", "南京", "黑牢"],
+    "people": ["李敖", "乔家才", "李希成"],
+    "places": ["北平", "南京"],
+    "works": ["我最难忘的一个国特", "乔家才入狱记"],
+    "certainty": "inferred",
+    "crossReferences": ["book3-1948-07-01-qiao-jiacai-arrested", "book3-1948-12-01-qiao-jiacai-sent-to-taiwan"],
+    "source": {
+      "book": "我最难忘的事和人",
+      "chapter": "016.我最难忘的一个国特",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/016.我最难忘的一个国特.txt",
+      "line": 575
+    }
+  },
+  {
+    "id": "book3-1948-after-nanjing-fu-yisheng-telegram-saves-qiao",
+    "date": "1948-07-31",
+    "displayDate": "1948年押往南京以后",
+    "datePrecision": "undated-context",
+    "title": "傅宜生电报总统要求保住乔家才性命",
+    "summary": "附录记，乔家才被押往南京以后，华北剿匪总司令傅宜生曾电请总统不要杀死他。乔家才并认为这份电报至少保住了性命，并可能反向促成“不能放、只好无期徒刑”的处理；这条上游营救线正是李敖后来判断乔家才黑牢材料并非孤证的重要根据。",
+    "view": ["司法线", "大事件对照线", "思想线"],
+    "tags": ["乔家才", "傅宜生", "电报", "营救链", "待校日"],
+    "people": ["李敖", "乔家才", "傅宜生", "刘培初"],
+    "places": ["南京", "台湾"],
+    "works": ["我最难忘的一个国特", "乔家才入狱记"],
+    "certainty": "confirmed",
+    "crossReferences": ["book3-1948-07-09-qiao-escorted-to-nanjing", "book3-1948-12-01-qiao-jiacai-sent-to-taiwan", "book3-1954-around-wang-chongwu-prison-inspection"],
+    "source": {
+      "book": "我最难忘的事和人",
+      "chapter": "016.我最难忘的一个国特",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/016.我最难忘的一个国特.txt",
+      "line": 879
+    }
+  },
+  {
+    "id": "book3-1948-midautumn-qiao-transferred-to-changzhou",
+    "date": "1948-09-18",
+    "displayDate": "1948年中秋后",
+    "datePrecision": "undated-context",
+    "title": "乔家才由南京宁海路改押常州监牢",
+    "summary": "附录记乔家才在南京宁海路关押后，于1948年中秋过后改移常州；他在常州狱中从学生口中得知马汉三已被枪决，报上还说自己被判无期徒刑，显示当局连判决都不向当事人告知。",
+    "view": ["司法线", "大事件对照线"],
+    "tags": ["乔家才", "常州", "宁海路", "黑牢", "待校日"],
+    "people": ["李敖", "乔家才", "马汉三"],
+    "places": ["南京宁海路", "常州"],
+    "works": ["我最难忘的一个国特", "乔家才入狱记"],
+    "certainty": "confirmed",
+    "crossReferences": ["book3-1948-07-09-qiao-escorted-to-nanjing", "book3-1948-12-01-qiao-jiacai-sent-to-taiwan"],
+    "source": {
+      "book": "我最难忘的事和人",
+      "chapter": "016.我最难忘的一个国特",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/016.我最难忘的一个国特.txt",
+      "line": 635
+    }
+  },
+  {
+    "id": "book3-1950-03-17-qiao-prison-meal-subsidy",
+    "date": "1950-03-17",
+    "displayDate": "1950年3月17日",
+    "datePrecision": "day",
+    "title": "乔家才在台北监牢于戴笠忌日获加菜",
+    "summary": "乔家才回忆，1950年3月17日是戴笠殉职四周年，台北有北方朋友凑钱送进牢房给吴景中、楼兆元和他，自此每餐加一碗菜，半年后又突然停掉；他怀疑钱款被凶恶的张炎吞没。",
+    "view": ["司法线", "日常线"],
+    "tags": ["乔家才", "吴景中", "楼兆元", "张炎", "监牢生活"],
+    "people": ["李敖", "乔家才", "吴景中", "楼兆元", "张炎"],
+    "places": ["台北", "延平南路监牢"],
+    "works": ["我最难忘的一个国特", "乔家才入狱记"],
+    "certainty": "confirmed",
+    "crossReferences": ["book3-1948-12-01-qiao-jiacai-sent-to-taiwan", "book3-1954-03-31-qiao-2100-days-poem"],
+    "source": {
+      "book": "我最难忘的事和人",
+      "chapter": "016.我最难忘的一个国特",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/016.我最难忘的一个国特.txt",
+      "line": 705
+    }
+  },
+  {
+    "id": "book3-1954-03-31-qiao-2100-days-poem",
+    "date": "1954-03-31",
+    "displayDate": "1954年3月31日",
+    "datePrecision": "day",
+    "title": "乔家才坐牢两千一百天题诗自伤",
+    "summary": "乔家才在附录中写，到1954年3月31日时自己已坐牢两千一百天，眼花、耳聋、白头，因而题下“牢里二千一百日，大觉醒来已白头”之诗，成为黑牢岁月的自我纪念。",
+    "view": ["司法线", "思想线"],
+    "tags": ["乔家才", "黑牢", "题诗", "桃园监牢"],
+    "people": ["李敖", "乔家才", "徐水庭"],
+    "places": ["桃园监牢"],
+    "works": ["我最难忘的一个国特", "乔家才入狱记"],
+    "certainty": "confirmed",
+    "crossReferences": ["book3-1950-03-17-qiao-prison-meal-subsidy", "book3-1975-07-01-qiao-prison-memoir-dated"],
+    "source": {
+      "book": "我最难忘的事和人",
+      "chapter": "016.我最难忘的一个国特",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/016.我最难忘的一个国特.txt",
+      "line": 757
+    }
+  },
+  {
+    "id": "book3-1957-04-21-qiao-released-from-taoyuan-prison",
+    "date": "1957-04-21",
+    "displayDate": "1957年4月21日下午",
+    "datePrecision": "day",
+    "title": "乔家才由桃园监牢获释",
+    "summary": "附录记，1957年4月21日下午，第六处处长周端甫亲自到桃园接乔家才出牢；他与各间牢房的难友一一握手告别后离开，结束近九年的黑牢生活。",
+    "view": ["司法线", "生平线"],
+    "tags": ["乔家才", "周端甫", "出牢", "桃园监牢"],
+    "people": ["李敖", "乔家才", "周端甫", "岳梓宇"],
+    "places": ["桃园监牢", "永和"],
+    "works": ["我最难忘的一个国特", "乔家才入狱记"],
+    "certainty": "confirmed",
+    "crossReferences": ["book3-1954-03-31-qiao-2100-days-poem", "book3-1960-02-22-qiao-restoration-certificate"],
+    "source": {
+      "book": "我最难忘的事和人",
+      "chapter": "016.我最难忘的一个国特",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/016.我最难忘的一个国特.txt",
+      "line": 797
+    }
+  },
+  {
+    "id": "book3-1957-04-24-qiao-attends-yuanshan-memorial",
+    "date": "1957-04-24",
+    "displayDate": "1957年4月24日",
+    "datePrecision": "day",
+    "title": "乔家才出牢后参加圆山太原五百完人公祭",
+    "summary": "乔家才写，1957年4月24日他出牢后参加圆山太原五百完人八周年公祭；在场无人落泪，他却因追念梁化之而失声流泪，显示出牢后的情感震荡。",
+    "view": ["生平线", "大事件对照线"],
+    "tags": ["乔家才", "圆山", "太原五百完人", "梁化之"],
+    "people": ["李敖", "乔家才", "梁化之"],
+    "places": ["圆山"],
+    "works": ["我最难忘的一个国特", "乔家才入狱记"],
+    "certainty": "confirmed",
+    "crossReferences": ["book3-1957-04-21-qiao-released-from-taoyuan-prison"],
+    "source": {
+      "book": "我最难忘的事和人",
+      "chapter": "016.我最难忘的一个国特",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/016.我最难忘的一个国特.txt",
+      "line": 805
+    }
+  },
+  {
+    "id": "book3-1957-04-26-qiao-banquet-hosted-by-zhang-yanyuan",
+    "date": "1957-04-26",
+    "displayDate": "1957年4月26日",
+    "datePrecision": "day",
+    "title": "张炎元在情报局大礼堂宴请乔家才",
+    "summary": "附录记，1957年4月26日情报局局长张炎元在芝山岩情报局大礼堂请乔家才吃饭，由箫信如、刘培初、李仲琳、吴毅安等作陪，并劝他赶快成家安顿生活。",
+    "view": ["交游线", "生平线"],
+    "tags": ["乔家才", "张炎元", "刘培初", "李仲琳", "出牢后"],
+    "people": ["李敖", "乔家才", "张炎元", "箫信如", "刘培初", "李仲琳", "吴毅安"],
+    "places": ["芝山岩情报局大礼堂"],
+    "works": ["我最难忘的一个国特", "乔家才入狱记"],
+    "certainty": "confirmed",
+    "crossReferences": ["book3-1957-04-21-qiao-released-from-taoyuan-prison", "book3-1957-05-01-qiao-clearing-banquet"],
+    "source": {
+      "book": "我最难忘的事和人",
+      "chapter": "016.我最难忘的一个国特",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/016.我最难忘的一个国特.txt",
+      "line": 807
+    }
+  },
+  {
+    "id": "book3-1957-05-01-qiao-clearing-banquet",
+    "date": "1957-05-01",
+    "displayDate": "1957年5月1日",
+    "datePrecision": "day",
+    "title": "军统旧友在泰利饭店为乔家才洗冤",
+    "summary": "乔家才记，1957年5月1日军统局老朋友们在中山北路泰利饭店为他洗冤，九十一人出席，被认为是军统来台后极盛大的一次宴会，也带有对毛人凤死后旧案翻转的象征意味。",
+    "view": ["交游线", "大事件对照线"],
+    "tags": ["乔家才", "泰利饭店", "洗冤", "军统旧友"],
+    "people": ["李敖", "乔家才", "刘启瑞", "谷正文", "王崇五"],
+    "places": ["中山北路泰利饭店"],
+    "works": ["我最难忘的一个国特", "乔家才入狱记"],
+    "certainty": "confirmed",
+    "crossReferences": ["book3-1957-04-21-qiao-released-from-taoyuan-prison", "book3-1957-04-26-qiao-banquet-hosted-by-zhang-yanyuan"],
+    "source": {
+      "book": "我最难忘的事和人",
+      "chapter": "016.我最难忘的一个国特",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/016.我最难忘的一个国特.txt",
+      "line": 813
+    }
+  },
+  {
+    "id": "book3-1959-11-27-qiao-special-pardon-order",
+    "date": "1959-11-27",
+    "displayDate": "1959年11月27日",
+    "datePrecision": "day",
+    "title": "总统机密令准予乔家才特赦复权",
+    "summary": "乔家才在1960年所领到的国防部特赦复权证书中注明，他是奉总统1959年11月27日机密乙字第11330号令获准特赦复权；这一机密令是其恢复政治与法律身份的关键前置节点。",
+    "view": ["司法线", "大事件对照线"],
+    "tags": ["乔家才", "特赦复权", "总统机密令", "白色恐怖"],
+    "people": ["李敖", "乔家才"],
+    "places": ["台湾", "总统府"],
+    "works": ["我最难忘的一个国特", "乔家才入狱记"],
+    "certainty": "confirmed",
+    "crossReferences": ["book3-1957-04-21-qiao-released-from-taoyuan-prison", "book3-1960-02-22-qiao-restoration-certificate"],
+    "source": {
+      "book": "我最难忘的事和人",
+      "chapter": "016.我最难忘的一个国特",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/016.我最难忘的一个国特.txt",
+      "line": 921
+    }
+  },
+  {
+    "id": "book3-1960-02-22-qiao-restoration-certificate",
+    "date": "1960-02-22",
+    "displayDate": "1960年2月22日",
+    "datePrecision": "day",
+    "title": "乔家才领到国防部特赦复权证书",
+    "summary": "附录记，1960年2月22日参谋总长彭孟缉发给乔家才国防部特赦复权证书，正式写明他此前因“贪污等案件”被判无期徒刑、褫夺公权终身，如今奉令准予特赦复权。",
+    "view": ["司法线", "思想线"],
+    "tags": ["乔家才", "彭孟缉", "特赦复权", "国防部"],
+    "people": ["李敖", "乔家才", "彭孟缉"],
+    "places": ["台湾", "国防部"],
+    "works": ["我最难忘的一个国特", "乔家才入狱记"],
+    "certainty": "confirmed",
+    "crossReferences": ["book3-1959-11-27-qiao-special-pardon-order", "book3-1990-10-05-qiao-prison-account-published"],
+    "source": {
+      "book": "我最难忘的事和人",
+      "chapter": "016.我最难忘的一个国特",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/016.我最难忘的一个国特.txt",
+      "line": 919
+    }
+  },
+  {
+    "id": "book3-1975-07-01-qiao-prison-memoir-dated",
+    "date": "1975-07-01",
+    "displayDate": "1975年7月1日",
+    "datePrecision": "day",
+    "title": "乔家才写定《入狱记》底稿署日",
+    "summary": "《乔家才入狱记》附录末尾署“民国六十四年7月1日记”，表明乔家才在1975年7月1日完成或整理这份黑牢回忆底稿；李敖后来据此改题并全文发表。",
+    "view": ["出版线", "司法线", "思想线"],
+    "tags": ["乔家才", "乔家才入狱记", "署日", "黑牢史料"],
+    "people": ["李敖", "乔家才"],
+    "places": ["台湾"],
+    "works": ["乔家才入狱记", "我最难忘的一个国特"],
+    "certainty": "confirmed",
+    "crossReferences": ["book3-1954-03-31-qiao-2100-days-poem", "book3-1990-10-05-qiao-prison-account-published"],
+    "source": {
+      "book": "我最难忘的事和人",
+      "chapter": "016.我最难忘的一个国特",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/016.我最难忘的一个国特.txt",
+      "line": 937
+    }
+  },
+  {
+    "id": "book3-1955-qiao-starts-writing-guanshan-yanchen-ji",
+    "date": "1955-12-31",
+    "displayDate": "1955年（四十四年）",
+    "datePrecision": "year",
+    "title": "乔家才在黑牢中开始撰写《关山烟尘记》",
+    "summary": "附录记，乔家才自称自四十四年起在狱中开始撰写八年抗战亲历，借写作抵抗“度日如年”的黑牢生活；这部稿子后来发展成《关山烟尘记》，也成为李敖判断乔家才记述价值的重要背景。",
+    "view": ["出版线", "司法线", "思想线"],
+    "tags": ["乔家才", "关山烟尘记", "黑牢写作", "待校日"],
+    "people": ["李敖", "乔家才", "黄珏", "黄正", "王功鎏"],
+    "places": ["桃园监牢"],
+    "works": ["关山烟尘记", "我最难忘的一个国特"],
+    "certainty": "confirmed",
+    "crossReferences": ["book3-1954-03-31-qiao-2100-days-poem", "book3-1966-qiao-guanshan-yanchen-ji-published", "book3-1990-10-05-qiao-prison-account-published"],
+    "source": {
+      "book": "我最难忘的事和人",
+      "chapter": "016.我最难忘的一个国特",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/016.我最难忘的一个国特.txt",
+      "line": 771
+    }
+  },
+  {
+    "id": "book3-1966-qiao-guanshan-yanchen-ji-published",
+    "date": "1966-12-31",
+    "displayDate": "1966年（民国五十五年）",
+    "datePrecision": "year",
+    "title": "《关山烟尘记》正式问世",
+    "summary": "乔家才回忆，周念行看过狱中稿本后建议先在《健行月刊》发表，将来再印书；十年后到1966年，《关山烟尘记》终于正式问世，成为李敖后来评价乔家才著述时反复提到的重要作品之一。",
+    "view": ["出版线", "思想线"],
+    "tags": ["乔家才", "关山烟尘记", "出版", "待校日"],
+    "people": ["李敖", "乔家才", "周念行"],
+    "places": ["台湾"],
+    "works": ["关山烟尘记", "我最难忘的一个国特"],
+    "certainty": "confirmed",
+    "crossReferences": ["book3-1955-qiao-starts-writing-guanshan-yanchen-ji", "book3-1990-10-05-qiao-prison-account-published"],
+    "source": {
+      "book": "我最难忘的事和人",
+      "chapter": "016.我最难忘的一个国特",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/016.我最难忘的一个国特.txt",
+      "line": 777
+    }
+  },
+  {
+    "id": "book3-1954-around-wang-chongwu-prison-inspection",
+    "date": "1954-12-31",
+    "displayDate": "约1954年前后",
+    "datePrecision": "undated-context",
+    "title": "王崇五借总统府名义入狱探视乔家才",
+    "summary": "附录记，约在1954年前后，总统府资料组曾将乔家才案卷调去研究营救，但因“无期徒刑是总统批的”而无能为力；他们随后借王崇五视察监牢探看其生活与受虐情况。这条线直接说明李敖后来将《乔家才入狱记》视作蒋介石黑牢证据时，并非孤证。",
+    "view": ["司法线", "思想线", "大事件对照线"],
+    "tags": ["乔家才", "王崇五", "总统府资料组", "黑牢", "待校日"],
+    "people": ["李敖", "乔家才", "王崇五"],
+    "places": ["桃园监牢", "总统府"],
+    "works": ["我最难忘的一个国特", "乔家才入狱记"],
+    "certainty": "confirmed",
+    "crossReferences": ["book3-1954-03-31-qiao-2100-days-poem", "book3-1957-04-21-qiao-released-from-taoyuan-prison", "book3-1990-10-05-qiao-prison-account-published"],
+    "source": {
+      "book": "我最难忘的事和人",
+      "chapter": "016.我最难忘的一个国特",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/016.我最难忘的一个国特.txt",
+      "line": 751
+    }
+  },
+  {
+    "id": "book3-1959-summer-zheng-jiemin-urges-proof-for-qiao",
+    "date": "1959-08-31",
+    "displayDate": "1959年夏",
+    "datePrecision": "season",
+    "title": "郑介民临终前催办乔家才报到证明",
+    "summary": "附录记，1959年夏乔家才为国大代表报到手续急返台北，情报局迟不出证明书；郑介民在去世当天早晨仍致电要求尽快办理，王唯一随后遵遗命办妥。此事显示乔家才复权并非自然恢复，而是经政治层层推动；对李敖理解其“黑牢后遗案”极关键。",
+    "view": ["司法线", "交游线", "大事件对照线"],
+    "tags": ["乔家才", "郑介民", "王唯一", "证明书", "待校日"],
+    "people": ["李敖", "乔家才", "郑介民", "王唯一", "张炎元"],
+    "places": ["台北", "情报局", "总统府"],
+    "works": ["我最难忘的一个国特", "乔家才入狱记"],
+    "certainty": "confirmed",
+    "crossReferences": ["book3-1959-11-27-qiao-special-pardon-order", "book3-1960-02-22-qiao-restoration-certificate"],
+    "source": {
+      "book": "我最难忘的事和人",
+      "chapter": "016.我最难忘的一个国特",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/016.我最难忘的一个国特.txt",
+      "line": 903
+    }
+  }
+]

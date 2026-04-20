@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "1935-04-25-birth-day-family-photo",
+    "date": "1935-04-25",
+    "displayDate": "1935年4月25日",
+    "datePrecision": "day",
+    "title": "父亲在李敖出生当天拍照留念",
+    "summary": "二姐回忆，李敖作为两家共同盼望多年的第一个男丁出生，父亲当天带着大姐和二姐到电影明星广告前拍照留念。",
+    "view": ["生平线", "日常线"],
+    "tags": ["出生", "家族", "日常"],
+    "people": ["李敖", "李鼎彝", "大姐", "二姐"],
+    "places": ["哈尔滨"],
+    "works": ["李敖自传"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖自传与回忆",
+      "chapter": "001.李敖自传",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/001.李敖自传.txt",
+      "line": 1006
+    }
+  },
+  {
+    "id": "1941-1943-taiyuan-summers-memory",
+    "date": "1941-07-01",
+    "displayDate": "1941-1943年太原暑期",
+    "datePrecision": "undated-range",
+    "title": "太原暑期记忆：五条腿的牛、相扑与禁烟所小跨院",
+    "summary": "二姐回忆，李敖在太原度过三个暑假，后来姐弟在台北都记得太原公园五条腿的牛、日本相扑表演赛，以及帽儿巷禁烟所房屋结构和小跨院。",
+    "view": ["生平线", "日常线"],
+    "tags": ["待校日", "太原", "童年", "日常"],
+    "people": ["李敖", "二姐", "俞松涛"],
+    "places": ["太原", "帽儿巷禁烟所"],
+    "works": ["李敖自传"],
+    "certainty": "contextual",
+    "source": {
+      "book": "李敖自传与回忆",
+      "chapter": "001.李敖自传",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/001.李敖自传.txt",
+      "line": 1001
+    }
+  },
+  {
+    "id": "1942-xinxian-maolin-window",
+    "date": "1942-09-01",
+    "displayDate": "约1942年入学初期",
+    "datePrecision": "undated-context",
+    "title": "茂林在窗外陪李敖适应小学",
+    "summary": "李敖初进新鲜胡同小学时胆小不习惯，由茂林站在教室窗外隔窗照应；他一边上课，一边紧张看着窗外。",
+    "view": ["生平线", "日常线"],
+    "tags": ["待校日", "小学", "茂林", "日常"],
+    "people": ["李敖", "茂林", "师老师"],
+    "places": ["北平", "新鲜胡同小学"],
+    "works": ["李敖自传"],
+    "certainty": "contextual",
+    "source": {
+      "book": "李敖自传与回忆",
+      "chapter": "001.李敖自传",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/001.李敖自传.txt",
+      "line": 441
+    }
+  },
+  {
+    "id": "1942-first-lesson-tianliangle",
+    "date": "1942-09-01",
+    "displayDate": "约1942年小学一年级",
+    "datePrecision": "undated-context",
+    "title": "记得小学第一课是“天亮了”",
+    "summary": "李敖回忆新鲜胡同小学一年级第一课只有三个字“天亮了”；此前他已在家背过《三字经》，也看过儿童书。",
+    "view": ["生平线", "日常线"],
+    "tags": ["待校日", "小学", "阅读", "日常"],
+    "people": ["李敖"],
+    "places": ["北平", "新鲜胡同小学"],
+    "works": ["李敖自传"],
+    "certainty": "contextual",
+    "source": {
+      "book": "李敖自传与回忆",
+      "chapter": "001.李敖自传",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/001.李敖自传.txt",
+      "line": 441
+    }
+  },
+  {
+    "id": "1942-schoolboy-pushed-urinal",
+    "date": "1942-10-01",
+    "displayDate": "约1942年小学一年级",
+    "datePrecision": "undated-context",
+    "title": "被同学推入尿池后报告老师",
+    "summary": "李敖回忆一年级时有顽皮男生在小便时从背后一推，使他两手陷到尿池里；他报告师老师，并把不知姓名的男生揪出来。",
+    "view": ["生平线", "日常线"],
+    "tags": ["待校日", "小学", "同学", "日常"],
+    "people": ["李敖", "师老师"],
+    "places": ["北平", "新鲜胡同小学"],
+    "works": ["李敖自传"],
+    "certainty": "contextual",
+    "source": {
+      "book": "李敖自传与回忆",
+      "chapter": "001.李敖自传",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/001.李敖自传.txt",
+      "line": 441
+    }
+  },
+  {
+    "id": "1942-school-gate-scolded",
+    "date": "1942-11-01",
+    "displayDate": "约1942年小学低年级",
+    "datePrecision": "undated-context",
+    "title": "校门口向老师敬礼反被斥责",
+    "summary": "李敖在校门口向一位男老师敬礼并喊老师早，却被当面斥责，回家大哭；五叔查出老师原是自己学生，前去责骂。",
+    "view": ["生平线", "日常线", "思想线"],
+    "tags": ["待校日", "小学", "教育", "日常"],
+    "people": ["李敖", "五叔"],
+    "places": ["北平", "新鲜胡同小学"],
+    "works": ["李敖自传"],
+    "certainty": "contextual",
+    "source": {
+      "book": "李敖自传与回忆",
+      "chapter": "001.李敖自传",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/001.李敖自传.txt",
+      "line": 445
+    }
+  },
+  {
+    "id": "1943-second-grade-cui-teacher",
+    "date": "1943-09-01",
+    "displayDate": "约1943年小学二年级",
+    "datePrecision": "undated-context",
+    "title": "崔老师的蓝布长袍与讲台清扫",
+    "summary": "二年级级任崔老师沉默刻板，穿旧“阴丹士林”蓝布长袍，每次进教室先一言不发地仔细清扫讲台桌椅；李敖由此留下最早的长袍印象。",
+    "view": ["生平线", "日常线"],
+    "tags": ["待校日", "小学", "老师", "日常"],
+    "people": ["李敖", "崔老师"],
+    "places": ["北平", "新鲜胡同小学"],
+    "works": ["李敖自传"],
+    "certainty": "contextual",
+    "source": {
+      "book": "李敖自传与回忆",
+      "chapter": "001.李敖自传",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/001.李敖自传.txt",
+      "line": 449
+    }
+  },
+  {
+    "id": "1943-second-grade-nightmare",
+    "date": "1943-10-01",
+    "displayDate": "约1943年小学二年级",
+    "datePrecision": "undated-context",
+    "title": "新鲜胡同小学课堂上的梦魇经验",
+    "summary": "李敖回忆二年级一天上课时坐在教室左后角，突然神志清楚却全身不能动弹；三十年后在警总军法处地板上又有类似经验。",
+    "view": ["生平线", "日常线"],
+    "tags": ["待校日", "小学", "梦魇", "日常"],
+    "people": ["李敖"],
+    "places": ["北平", "新鲜胡同小学"],
+    "works": ["李敖自传"],
+    "certainty": "contextual",
+    "source": {
+      "book": "李敖自传与回忆",
+      "chapter": "001.李敖自传",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/001.李敖自传.txt",
+      "line": 453
+    }
+  },
+  {
+    "id": "1943-drawing-cars-in-art-class",
+    "date": "1943-11-01",
+    "displayDate": "约1943年小学二年级以后",
+    "datePrecision": "undated-context",
+    "title": "图画课总画汽车",
+    "summary": "崔老师去世后，代课女老师使班上恢复活泼气氛；李敖在图画课总画汽车，女老师颇为欣赏，他自认汽车印象来自太原经验。",
+    "view": ["生平线", "日常线"],
+    "tags": ["待校日", "小学", "图画", "汽车"],
+    "people": ["李敖"],
+    "places": ["北平", "太原"],
+    "works": ["李敖自传"],
+    "certainty": "contextual",
+    "source": {
+      "book": "李敖自传与回忆",
+      "chapter": "001.李敖自传",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/001.李敖自传.txt",
+      "line": 457
+    }
+  },
+  {
+    "id": "1944-third-grade-music-japanese",
+    "date": "1944-09-01",
+    "displayDate": "约1944年小学三年级",
+    "datePrecision": "undated-context",
+    "title": "三年级起到校本部上课，开始音乐课与日文课",
+    "summary": "李敖三年级起到校本部上课，开始使用音乐教室，也开始学日文；他记得杨老师按风琴，学过《飞》和《好大的西北风》。",
+    "view": ["生平线", "日常线"],
+    "tags": ["待校日", "小学", "音乐", "日文"],
+    "people": ["李敖", "杨老师"],
+    "places": ["北平", "新鲜胡同小学"],
+    "works": ["李敖自传"],
+    "certainty": "contextual",
+    "source": {
+      "book": "李敖自传与回忆",
+      "chapter": "001.李敖自传",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/001.李敖自传.txt",
+      "line": 461
+    }
+  },
+  {
+    "id": "1944-winter-classroom-coal-stove",
+    "date": "1944-12-01",
+    "displayDate": "约1944年冬季",
+    "datePrecision": "undated-context",
+    "title": "冬天教室靠同学带煤生炉取暖",
+    "summary": "李敖回忆唱《好大的西北风》的冬季，教室冷得要命，一间教室一个火炉，燃料由全班同学每天自带，最早到的同学负责生火。",
+    "view": ["生平线", "日常线"],
+    "tags": ["待校日", "小学", "冬天", "炉子"],
+    "people": ["李敖"],
+    "places": ["北平", "新鲜胡同小学"],
+    "works": ["李敖自传"],
+    "certainty": "contextual",
+    "source": {
+      "book": "李敖自传与回忆",
+      "chapter": "001.李敖自传",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/001.李敖自传.txt",
+      "line": 475
+    }
+  },
+  {
+    "id": "1944-japanese-class-score-hundred",
+    "date": "1944-12-15",
+    "displayDate": "约1944年小学三年级",
+    "datePrecision": "undated-context",
+    "title": "父亲劝李敖把日文学好，李敖考了一百分",
+    "summary": "李敖因恨日本侵略中国而不喜欢学日文，成绩很坏；父亲劝他把恨日本和学日文分开，他开始发愤，最后考了一百分。",
+    "view": ["生平线", "日常线", "思想线"],
+    "tags": ["待校日", "日文", "父亲", "教育"],
+    "people": ["李敖", "李鼎彝"],
+    "places": ["北平", "新鲜胡同小学"],
+    "works": ["李敖自传"],
+    "certainty": "contextual",
+    "source": {
+      "book": "李敖自传与回忆",
+      "chapter": "001.李敖自传",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/001.李敖自传.txt",
+      "line": 479
+    }
+  },
+  {
+    "id": "1945-fourth-grade-zhan-yongjie",
+    "date": "1945-09-01",
+    "displayDate": "约1945年小学四年级",
+    "datePrecision": "undated-context",
+    "title": "詹永傑出现，带来抗战后新知识",
+    "summary": "抗战胜利后李敖升小学四年级，优秀同学詹永傑出现，会背《国父遗嘱》、读《三民主义》、唱国歌和《义勇军进行曲》，使李敖深受影响。",
+    "view": ["生平线", "日常线"],
+    "tags": ["待校日", "小学", "同学", "抗战胜利"],
+    "people": ["李敖", "詹永傑"],
+    "places": ["北平", "新鲜胡同小学"],
+    "works": ["李敖自传"],
+    "certainty": "contextual",
+    "source": {
+      "book": "李敖自传与回忆",
+      "chapter": "001.李敖自传",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/001.李敖自传.txt",
+      "line": 487
+    }
+  },
+  {
+    "id": "1946-fourth-grade-resist-qi-fengming",
+    "date": "1946-03-01",
+    "displayDate": "约1946年四年级第二学期",
+    "datePrecision": "undated-context",
+    "title": "响应詹永傑，群起抵制齐凤鸣",
+    "summary": "四年级第二学期，詹永傑发动同学抵制常欺负人的齐凤鸣，李敖因二年级时被齐凤鸣打过而首先响应；事后鲁小姐责备他“没想到你那么凶”。",
+    "view": ["生平线", "日常线"],
+    "tags": ["待校日", "小学", "同学", "冲突"],
+    "people": ["李敖", "詹永傑", "齐凤鸣", "鲁小姐"],
+    "places": ["北平", "新鲜胡同小学"],
+    "works": ["李敖自传"],
+    "certainty": "contextual",
+    "source": {
+      "book": "李敖自传与回忆",
+      "chapter": "001.李敖自传",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/001.李敖自传.txt",
+      "line": 487
+    }
+  },
+  {
+    "id": "1946-sworn-brotherhood-with-zhan-yongjie",
+    "date": "1946-04-01",
+    "displayDate": "约1946年小学四年级后期",
+    "datePrecision": "undated-context",
+    "title": "与詹永傑等三人在家焚香拜把子",
+    "summary": "李敖、詹永傑和另一位小朋友在李家焚香膜拜，受刘关张桃园结义影响拜起把子；父亲乐见其成，并叮嘱不要“拔香头子”。",
+    "view": ["生平线", "日常线"],
+    "tags": ["待校日", "小学", "友谊", "日常"],
+    "people": ["李敖", "詹永傑", "李鼎彝"],
+    "places": ["北平"],
+    "works": ["李敖自传"],
+    "certainty": "contextual",
+    "source": {
+      "book": "李敖自传与回忆",
+      "chapter": "001.李敖自传",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/001.李敖自传.txt",
+      "line": 487
+    }
+  },
+  {
+    "id": "1946-07-first-diploma",
+    "date": "1946-07-01",
+    "displayDate": "1946年7月",
+    "datePrecision": "month",
+    "title": "取得平生第一张文凭",
+    "summary": "小学四年级念完，李敖初小毕业并取得平生第一张文凭；证书写“中华民国三十五年七月”，图章旁加盖“暂用旧印”。",
+    "view": ["生平线", "日常线"],
+    "tags": ["待校日", "小学", "毕业", "文凭"],
+    "people": ["李敖", "张瑞珂"],
+    "places": ["北平", "新鲜胡同小学"],
+    "works": ["李敖自传"],
+    "certainty": "broad",
+    "source": {
+      "book": "李敖自传与回忆",
+      "chapter": "001.李敖自传",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/001.李敖自传.txt",
+      "line": 491
+    }
+  },
+  {
+    "id": "1946-welcome-he-yingqin-and-us-soldiers",
+    "date": "1946-09-01",
+    "displayDate": "约1946年抗战胜利后",
+    "datePrecision": "undated-context",
+    "title": "参加欢迎何应钦和美国军人北上",
+    "summary": "抗战胜利后，李敖所在小学生队伍曾列队欢迎陆军总司令何应钦到北平宣慰，也参加欢迎美国军人北上。",
+    "view": ["生平线", "日常线", "大事件对照线"],
+    "tags": ["待校日", "北平", "抗战胜利", "小学"],
+    "people": ["李敖", "何应钦"],
+    "places": ["北平"],
+    "works": ["李敖自传"],
+    "certainty": "contextual",
+    "source": {
+      "book": "李敖自传与回忆",
+      "chapter": "001.李敖自传",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/001.李敖自传.txt",
+      "line": 509
+    }
+  },
+  {
+    "id": "1947-wang-hengqing-teacher",
+    "date": "1947-09-01",
+    "displayDate": "约1947年小学五年级起",
+    "datePrecision": "undated-context",
+    "title": "王恒庆老师教古文，李敖课外阅读渐多",
+    "summary": "李敖五年级分在五丙，级任王恒庆在正课外教《陋室铭》《归去来辞》《桃花源记》等古文；五丙以后他课外书越读越多，成绩脱颖而出。",
+    "view": ["生平线", "日常线"],
+    "tags": ["待校日", "小学", "古文", "阅读"],
+    "people": ["李敖", "王恒庆"],
+    "places": ["北平", "新鲜胡同小学"],
+    "works": ["李敖自传"],
+    "certainty": "contextual",
+    "source": {
+      "book": "李敖自传与回忆",
+      "chapter": "001.李敖自传",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/001.李敖自传.txt",
+      "line": 513
+    }
+  },
+  {
+    "id": "1948-sixth-grade-class-leader-library",
+    "date": "1948-03-01",
+    "displayDate": "约1948年小学六年级",
+    "datePrecision": "undated-context",
+    "title": "当选自治会主席、图书馆馆长和模范儿童",
+    "summary": "李敖回忆六丙时，他当选班上自治会主席，又是学校图书馆馆长和模范儿童；王恒庆老师给他留下深刻影响。",
+    "view": ["生平线", "日常线"],
+    "tags": ["待校日", "小学", "图书馆", "模范儿童"],
+    "people": ["李敖", "王恒庆"],
+    "places": ["北平", "新鲜胡同小学"],
+    "works": ["李敖自传"],
+    "certainty": "contextual",
+    "source": {
+      "book": "李敖自传与回忆",
+      "chapter": "001.李敖自传",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/001.李敖自传.txt",
+      "line": 513
+    }
+  },
+  {
+    "id": "1948-seal-carving-bamboo-peace",
+    "date": "1948-04-01",
+    "displayDate": "约1948年小学高年级",
+    "datePrecision": "undated-context",
+    "title": "劳作课第一次刻“竹报平安”",
+    "summary": "外号“老头”的劳作老师是齐白石学生，教学生刻印；李敖第一次刻“竹报平安”四字，自评刻得不错。",
+    "view": ["生平线", "日常线"],
+    "tags": ["待校日", "小学", "刻印", "艺术"],
+    "people": ["李敖", "老头"],
+    "places": ["北平", "新鲜胡同小学"],
+    "works": ["李敖自传"],
+    "certainty": "contextual",
+    "source": {
+      "book": "李敖自传与回忆",
+      "chapter": "001.李敖自传",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/001.李敖自传.txt",
+      "line": 517
+    }
+  },
+  {
+    "id": "1948-enter-beijing-boys-first-fourth",
+    "date": "1948-08-01",
+    "displayDate": "约1948年考初中",
+    "datePrecision": "undated-context",
+    "title": "考北京男一中第四名，考男四中名列前茅",
+    "summary": "二姐回忆，李敖考北京男一中以第四名被录取，考男四中则名列前茅；父亲揭榜回家后十分得意。",
+    "view": ["生平线", "日常线"],
+    "tags": ["待校日", "升学", "北京男一中", "男四中"],
+    "people": ["李敖", "李鼎彝", "二姐"],
+    "places": ["北平"],
+    "works": ["李敖自传"],
+    "certainty": "contextual",
+    "source": {
+      "book": "李敖自传与回忆",
+      "chapter": "001.李敖自传",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/001.李敖自传.txt",
+      "line": 1006
+    }
+  },
+  {
+    "id": "1948-childhood-beijing-opera-weapons",
+    "date": "1948-08-15",
+    "displayDate": "约1948年赴沪前童年",
+    "datePrecision": "undated-context",
+    "title": "爱耍京戏刀枪剑戟",
+    "summary": "二姐回忆，李敖小时候不像姐姐们爱跳绳拍球，而喜欢耍京戏里的刀枪剑戟，常与大连边耍刀枪边哼锣鼓声。",
+    "view": ["生平线", "日常线"],
+    "tags": ["待校日", "童年", "京戏", "游戏"],
+    "people": ["李敖", "大连", "二姐"],
+    "places": ["北平"],
+    "works": ["李敖自传"],
+    "certainty": "contextual",
+    "source": {
+      "book": "李敖自传与回忆",
+      "chapter": "001.李敖自传",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/001.李敖自传.txt",
+      "line": 1010
+    }
+  },
+  {
+    "id": "1948-horsefly-in-living-room",
+    "date": "1948-09-01",
+    "displayDate": "约1948年赴沪前童年",
+    "datePrecision": "undated-context",
+    "title": "赤脚拍打客厅马蜂",
+    "summary": "二姐回忆，有一天客厅飞进马蜂，她吓得乱叫；李敖赤脚从沙发跳下，先用手掌拍落马蜂，再用脚踩，令二姐惊讶其胆大。",
+    "view": ["生平线", "日常线"],
+    "tags": ["待校日", "童年", "胆量", "日常"],
+    "people": ["李敖", "二姐"],
+    "places": ["北平"],
+    "works": ["李敖自传"],
+    "certainty": "contextual",
+    "source": {
+      "book": "李敖自传与回忆",
+      "chapter": "001.李敖自传",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/001.李敖自传.txt",
+      "line": 1012
+    }
+  },
+  {
+    "id": "1948-grasshopper-box",
+    "date": "1948-09-15",
+    "displayDate": "约1948年赴沪前童年",
+    "datePrecision": "undated-context",
+    "title": "帮二姐把一盒蚂蚱赶到院子里",
+    "summary": "二姐在男二中操场草堆捉蚂蚱，被母亲责令放掉后害怕不敢动手；李敖自告奋勇把盒子拿到院里，将蚂蚱东驱西赶放走。",
+    "view": ["生平线", "日常线"],
+    "tags": ["待校日", "童年", "姐弟", "日常"],
+    "people": ["李敖", "二姐", "李敖母亲"],
+    "places": ["北平", "男二中操场"],
+    "works": ["李敖自传"],
+    "certainty": "contextual",
+    "source": {
+      "book": "李敖自传与回忆",
+      "chapter": "001.李敖自传",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/001.李敖自传.txt",
+      "line": 1014
+    }
+  },
+  {
+    "id": "1948-green-apricots-in-nose",
+    "date": "1948-10-01",
+    "displayDate": "约1948年赴沪前童年",
+    "datePrecision": "undated-context",
+    "title": "把两个小青杏塞进鼻孔",
+    "summary": "二姐回忆，李敖常闷声不响调皮；有一天他把两个小青杏塞进鼻孔拿不出来，只好找二姐帮忙，二姐费力才弄出来。",
+    "view": ["生平线", "日常线"],
+    "tags": ["待校日", "童年", "调皮", "日常"],
+    "people": ["李敖", "二姐"],
+    "places": ["北平"],
+    "works": ["李敖自传"],
+    "certainty": "contextual",
+    "source": {
+      "book": "李敖自传与回忆",
+      "chapter": "001.李敖自传",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/001.李敖自传.txt",
+      "line": 1016
+    }
+  },
+  {
+    "id": "1948-hide-and-seek-mahjong-table",
+    "date": "1948-10-15",
+    "displayDate": "约1948年赴沪前童年",
+    "datePrecision": "undated-context",
+    "title": "捉迷藏躲到麻将桌下不出声",
+    "summary": "捉迷藏时，李敖躺在盖丝绒台布的麻将桌下两把椅子上，无论大人如何喊“小敖”都不吭声，最后才被发现。",
+    "view": ["生平线", "日常线"],
+    "tags": ["待校日", "童年", "捉迷藏", "日常"],
+    "people": ["李敖"],
+    "places": ["北平"],
+    "works": ["李敖自传"],
+    "certainty": "contextual",
+    "source": {
+      "book": "李敖自传与回忆",
+      "chapter": "001.李敖自传",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/001.李敖自传.txt",
+      "line": 1016
+    }
+  },
+  {
+    "id": "1948-beihai-ant-bite",
+    "date": "1948-10-20",
+    "displayDate": "约1948年赴沪前童年",
+    "datePrecision": "undated-context",
+    "title": "在北海公园把大蚂蚁放到手臂上",
+    "summary": "大人在北海公园茶座喝茶时，孩子们爬上小土坡看到大蚂蚁；李敖抓一只放在手臂上看它爬，结果手臂肿起一大片红疙瘩。",
+    "view": ["生平线", "日常线"],
+    "tags": ["待校日", "童年", "北海公园", "日常"],
+    "people": ["李敖"],
+    "places": ["北平", "北海公园"],
+    "works": ["李敖自传"],
+    "certainty": "contextual",
+    "source": {
+      "book": "李敖自传与回忆",
+      "chapter": "001.李敖自传",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/001.李敖自传.txt",
+      "line": 1016
+    }
+  },
+  {
+    "id": "1948-bed-boundary-with-sister",
+    "date": "1948-11-01",
+    "displayDate": "约1948年赴沪前童年",
+    "datePrecision": "undated-context",
+    "title": "与二姐同睡大床，以栏杆划界",
+    "summary": "二姐回忆，曾与李敖睡在一张大床上，吵架后规定第几根栏杆为界；半夜李敖发现二姐脚越界，醒来提醒。",
+    "view": ["生平线", "日常线"],
+    "tags": ["待校日", "童年", "姐弟", "日常"],
+    "people": ["李敖", "二姐"],
+    "places": ["北平"],
+    "works": ["李敖自传"],
+    "certainty": "contextual",
+    "source": {
+      "book": "李敖自传与回忆",
+      "chapter": "001.李敖自传",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/001.李敖自传.txt",
+      "line": 1018
+    }
+  },
+  {
+    "id": "1948-yonghegong-with-parents",
+    "date": "1948-11-15",
+    "displayDate": "约1948年赴沪前童年",
+    "datePrecision": "undated-context",
+    "title": "随父母和二姐逛雍和宫",
+    "summary": "二姐回忆，有一天父母只带李敖和她去逛雍和宫；上供有欢喜佛的殿时，导游和尚小声问小姐是否也上去，父亲说没关系。",
+    "view": ["生平线", "日常线"],
+    "tags": ["待校日", "童年", "雍和宫", "家族"],
+    "people": ["李敖", "二姐", "李鼎彝", "李敖母亲"],
+    "places": ["北平", "雍和宫"],
+    "works": ["李敖自传"],
+    "certainty": "contextual",
+    "source": {
+      "book": "李敖自传与回忆",
+      "chapter": "001.李敖自传",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/001.李敖自传.txt",
+      "line": 1020
+    }
+  },
+  {
+    "id": "1948-appendicitis-donghua-hospital",
+    "date": "1948-12-01",
+    "displayDate": "约1948年赴沪前童年",
+    "datePrecision": "undated-context",
+    "title": "在南池子东华医院开阑尾炎手术",
+    "summary": "二姐回忆，李敖生阑尾炎在北京南池子东华医院开刀，因手术稍迟转成腹膜炎，每日换药引流；他换药时不声不响，受到医生护士赞扬。",
+    "view": ["生平线", "日常线"],
+    "tags": ["待校日", "童年", "疾病", "东华医院"],
+    "people": ["李敖", "二姐"],
+    "places": ["北平", "南池子东华医院"],
+    "works": ["李敖自传"],
+    "certainty": "contextual",
+    "source": {
+      "book": "李敖自传与回忆",
+      "chapter": "001.李敖自传",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/001.李敖自传.txt",
+      "line": 1022
+    }
+  },
+  {
+    "id": "1948-sister-graduation-album-great-amazing",
+    "date": "1948-12-10",
+    "displayDate": "约1948年二姐小学毕业纪念册",
+    "datePrecision": "undated-context",
+    "title": "在二姐纪念册题“伟大惊人”",
+    "summary": "二姐小学毕业纪念册中，李敖画了一个人坐船撑篙，题字“伟大惊人”，落款“愚弟小敖”，令二姐多年后仍觉有趣。",
+    "view": ["生平线", "日常线"],
+    "tags": ["待校日", "童年", "姐弟", "题字"],
+    "people": ["李敖", "二姐"],
+    "places": ["北平"],
+    "works": ["李敖自传"],
+    "certainty": "contextual",
+    "source": {
+      "book": "李敖自传与回忆",
+      "chapter": "001.李敖自传",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/001.李敖自传.txt",
+      "line": 1024
+    }
+  },
+  {
+    "id": "1948-refuses-funeral-banner",
+    "date": "1948-12-15",
+    "displayDate": "约1948年赴沪前",
+    "datePrecision": "undated-context",
+    "title": "拒为外祖母灵柩打幡，与大姐冲突",
+    "summary": "外祖母去世后，按旧规矩应由长女的儿子李敖打幡；李敖听大伯父母教唆说自己姓李不姓张，不能为张家打幡，激怒大姐。",
+    "view": ["生平线", "日常线"],
+    "tags": ["待校日", "家族", "丧礼", "冲突"],
+    "people": ["李敖", "大姐", "外祖母"],
+    "places": ["北平"],
+    "works": ["李敖自传"],
+    "certainty": "contextual",
+    "source": {
+      "book": "李敖自传与回忆",
+      "chapter": "001.李敖自传",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/001.李敖自传.txt",
+      "line": 1026
+    }
+  },
+  {
+    "id": "1948-tianjin-return-beijing-for-books",
+    "date": "1948-12-20",
+    "displayDate": "约1948年天津等船时",
+    "datePrecision": "undated-context",
+    "title": "天津等船时单枪匹马回北京取书",
+    "summary": "李敖离开北京、在天津等船去上海时，利用空档独自回北京取书，被大姐数落冒失；他反击说大姐“一辈子嫁不出去”。",
+    "view": ["生平线", "日常线"],
+    "tags": ["待校日", "迁徙", "取书", "姐弟"],
+    "people": ["李敖", "大姐"],
+    "places": ["天津", "北京", "上海"],
+    "works": ["李敖自传"],
+    "certainty": "contextual",
+    "source": {
+      "book": "李敖自传与回忆",
+      "chapter": "001.李敖自传",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/001.李敖自传.txt",
+      "line": 1026
+    }
+  },
+  {
+    "id": "1951-yan-qiao-classroom-mirror-writing",
+    "date": "1951-09-15",
+    "displayDate": "约1951年高一上",
+    "datePrecision": "undated-context",
+    "title": "严侨课堂上倒写自己的名字",
+    "summary": "李敖高一由严侨教数学，严侨常把数学课扯到思想话题；有一次为证明自己说得对，他说若说错便把名字倒写，并熟练地在黑板上倒写“严侨”。",
+    "view": ["生平线", "日常线", "交游线"],
+    "tags": ["待校日", "严侨", "台中一中", "课堂"],
+    "people": ["李敖", "严侨", "胡家伦", "吴铸人"],
+    "places": ["台中", "台中一中"],
+    "works": ["我最难忘的一位老师"],
+    "certainty": "contextual",
+    "source": {
+      "book": "李敖自传与回忆",
+      "chapter": "003.我最难忘的一位老师",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/003.我最难忘的一位老师.txt",
+      "line": 36
+    }
+  },
+  {
+    "id": "1951-yan-qiao-math-workbook-comment",
+    "date": "1951-10-01",
+    "displayDate": "约1951年高一上",
+    "datePrecision": "undated-context",
+    "title": "严侨在数学练习簿上与李敖引文打笔仗",
+    "summary": "李敖在数学练习簿簿首引用英文谈数学超越时空；严侨批改时在“超越了空间与时间”下划红杠，朱批“我想它超越不了空时！”",
+    "view": ["生平线", "日常线", "交游线"],
+    "tags": ["待校日", "严侨", "数学", "课堂"],
+    "people": ["李敖", "严侨"],
+    "places": ["台中", "台中一中"],
+    "works": ["我最难忘的一位老师"],
+    "certainty": "contextual",
+    "source": {
+      "book": "李敖自传与回忆",
+      "chapter": "003.我最难忘的一位老师",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/003.我最难忘的一位老师.txt",
+      "line": 38
+    }
+  },
+  {
+    "id": "1951-long-letter-to-yan-qiao",
+    "date": "1951-11-01",
+    "displayDate": "约1951年高一上",
+    "datePrecision": "undated-context",
+    "title": "花几天写长信给严侨",
+    "summary": "李敖越来越欣赏严侨，花几天写成长信，细述自己的成长历程、对现实的不满和对国民党的讨厌；严侨读后劝慰，两人交情不同一般师生。",
+    "view": ["生平线", "日常线", "思想线", "交游线"],
+    "tags": ["待校日", "严侨", "书信", "思想"],
+    "people": ["李敖", "严侨"],
+    "places": ["台中", "台中一中"],
+    "works": ["我最难忘的一位老师"],
+    "certainty": "contextual",
+    "source": {
+      "book": "李敖自传与回忆",
+      "chapter": "003.我最难忘的一位老师",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/003.我最难忘的一位老师.txt",
+      "line": 40
+    }
+  },
+  {
+    "id": "1952-huang-zhong-private-tutoring",
+    "date": "1952-09-01",
+    "displayDate": "约1952年高三休学前后",
+    "datePrecision": "undated-context",
+    "title": "黄钟为李敖一人补习数学",
+    "summary": "李敖高三吃不消学校生活，自愿休学准备以同等学力考大学；黄钟与李敖父亲安排他到永安街住处，为李敖一人补习数学。",
+    "view": ["生平线", "日常线", "交游线"],
+    "tags": ["待校日", "黄钟", "补习", "台中"],
+    "people": ["李敖", "黄钟", "李鼎彝"],
+    "places": ["台中", "永安街"],
+    "works": ["我最难忘的一位老师"],
+    "certainty": "contextual",
+    "source": {
+      "book": "李敖自传与回忆",
+      "chapter": "003.我最难忘的一位老师",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/003.我最难忘的一位老师.txt",
+      "line": 46
+    }
+  },
+  {
+    "id": "1952-huang-zhong-hospital-care",
+    "date": "1952-12-01",
+    "displayDate": "约1952年黄钟病重期间",
+    "datePrecision": "undated-context",
+    "title": "每天到台中医院照料黄钟",
+    "summary": "黄钟病倒后住进台中医院，昏迷不醒，只能用机器抽痰；李敖每天前去照料，直到黄钟无言死去，并写《黄钟诔》等诗纪念。",
+    "view": ["生平线", "日常线", "交游线"],
+    "tags": ["待校日", "黄钟", "台中医院", "悼念"],
+    "people": ["李敖", "黄钟"],
+    "places": ["台中", "台中医院"],
+    "works": ["我最难忘的一位老师", "黄钟诔", "九泉唯有好人多"],
+    "certainty": "contextual",
+    "source": {
+      "book": "李敖自传与回忆",
+      "chapter": "003.我最难忘的一位老师",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/003.我最难忘的一位老师.txt",
+      "line": 48
+    }
+  },
+  {
+    "id": "1952-yan-qiao-blue-tail",
+    "date": "1952-12-15",
+    "displayDate": "约1952年黄钟病重后",
+    "datePrecision": "undated-context",
+    "title": "严侨夜路上告诉李敖“有人跟踪我，是蓝色的”",
+    "summary": "黄钟住院后，严侨探病时碰到李敖，夜间同行回家，低声告诉他不要回头，感觉有人跟踪且“是蓝色的”，暗指国民党特务。",
+    "view": ["生平线", "日常线", "交游线"],
+    "tags": ["待校日", "严侨", "白色恐怖", "跟踪"],
+    "people": ["李敖", "严侨", "黄钟"],
+    "places": ["台中"],
+    "works": ["我最难忘的一位老师"],
+    "certainty": "contextual",
+    "source": {
+      "book": "李敖自传与回忆",
+      "chapter": "003.我最难忘的一位老师",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/003.我最难忘的一位老师.txt",
+      "line": 52
+    }
+  },
+  {
+    "id": "1952-yan-qiao-confesses-communist",
+    "date": "1952-12-16",
+    "displayDate": "约1952年黄钟去世次日夜",
+    "datePrecision": "undated-context",
+    "title": "严侨在昏暗灯光下告诉李敖自己是共产党",
+    "summary": "黄钟去世次日，李敖送严侨回家并入内小坐；严侨劣酒下肚后告诉李敖自己是“那边来的”，原来是共产党。",
+    "view": ["生平线", "日常线", "思想线", "交游线"],
+    "tags": ["待校日", "严侨", "共产党", "白色恐怖"],
+    "people": ["李敖", "严侨", "黄钟"],
+    "places": ["台中", "育才街"],
+    "works": ["我最难忘的一位老师"],
+    "certainty": "contextual",
+    "source": {
+      "book": "李敖自传与回忆",
+      "chapter": "003.我最难忘的一位老师",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/003.我最难忘的一位老师.txt",
+      "line": 52
+    }
+  },
+  {
+    "id": "1952-yan-qiao-drinks-and-recites-xin-qiji",
+    "date": "1952-12-20",
+    "displayDate": "约1952年黄钟去世后",
+    "datePrecision": "undated-context",
+    "title": "严侨喝劣等米酒并背辛弃疾词",
+    "summary": "黄钟死后，严侨酒喝得更多；他常咬开公卖局劣等米酒瓶盖大喝，兴奋时背辛弃疾《西江月》，背到“以手推松曰去”便伸手向前推出。",
+    "view": ["生平线", "日常线", "交游线"],
+    "tags": ["待校日", "严侨", "饮酒", "辛弃疾"],
+    "people": ["李敖", "严侨", "黄钟"],
+    "places": ["台中"],
+    "works": ["我最难忘的一位老师"],
+    "certainty": "contextual",
+    "source": {
+      "book": "李敖自传与回忆",
+      "chapter": "003.我最难忘的一位老师",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/003.我最难忘的一位老师.txt",
+      "line": 62
+    }
+  },
+  {
+    "id": "1953-saves-breakfast-money-for-yan-family",
+    "date": "1953-01-15",
+    "displayDate": "约1953年严侨被捕后",
+    "datePrecision": "undated-context",
+    "title": "饿早饭省钱接济严师母",
+    "summary": "严侨被捕后，李敖与严师母商议如何照顾三个孩子，却无力帮助，只好不吃早饭省下一些钱送给严师母；父亲知道后严肃责备。",
+    "view": ["生平线", "日常线", "交游线"],
+    "tags": ["待校日", "严侨", "严师母", "白色恐怖", "接济"],
+    "people": ["李敖", "严侨", "严师母", "李鼎彝"],
+    "places": ["台中"],
+    "works": ["我最难忘的一位老师"],
+    "certainty": "contextual",
+    "source": {
+      "book": "李敖自传与回忆",
+      "chapter": "003.我最难忘的一位老师",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/003.我最难忘的一位老师.txt",
+      "line": 100
+    }
+  },
+  {
+    "id": "1953-yan-family-goes-north",
+    "date": "1953-02-01",
+    "displayDate": "约1953年严侨被捕后一阵子",
+    "datePrecision": "undated-context",
+    "title": "严师母带三个孩子含泪北上投亲",
+    "summary": "严侨被捕后一阵子仍无音讯，严师母与李敖商议后决定北上投亲，希望辜振甫等亲属援手，于是收拾残破家当，带三个孩子含泪离开台中。",
+    "view": ["生平线", "日常线", "交游线"],
+    "tags": ["待校日", "严侨", "严师母", "台中"],
+    "people": ["李敖", "严师母", "严方", "严正", "严谅", "辜振甫"],
+    "places": ["台中", "台北"],
+    "works": ["我最难忘的一位老师"],
+    "certainty": "contextual",
+    "source": {
+      "book": "李敖自传与回忆",
+      "chapter": "003.我最难忘的一位老师",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/003.我最难忘的一位老师.txt",
+      "line": 102
+    }
+  },
+  {
+    "id": "1953-walks-past-yan-old-house",
+    "date": "1953-03-01",
+    "displayDate": "约1953年严师母北上后",
+    "datePrecision": "undated-context",
+    "title": "夜里散步经过严侨旧宅",
+    "summary": "严师母北上后，严侨一家从台中育才路消逝；李敖有时夜里散步经过严家旧宅，看见院内浓荫和屋内死寂，内心悲凉。",
+    "view": ["生平线", "日常线", "交游线"],
+    "tags": ["待校日", "严侨", "育才路", "夜行"],
+    "people": ["李敖", "严侨", "严师母"],
+    "places": ["台中", "育才路"],
+    "works": ["我最难忘的一位老师"],
+    "certainty": "contextual",
+    "source": {
+      "book": "李敖自传与回忆",
+      "chapter": "003.我最难忘的一位老师",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/003.我最难忘的一位老师.txt",
+      "line": 104
+    }
+  },
+  {
+    "id": "1995-after-lunar-new-year-sister-stays-taipei",
+    "date": "1995-02-01",
+    "displayDate": "1995年旧历年后",
+    "datePrecision": "undated-context",
+    "title": "二姐在台北住一个半月，帮李敖接电话待客",
+    "summary": "二姐回忆，1995年旧历年后在台湾住一个半月，赶上李敖为章孝慈募捐拍卖前后，几乎每天访客不断，她帮忙接电话、转消息、倒水待客。",
+    "view": ["生平线", "日常线"],
+    "tags": ["待校日", "家族", "拍卖", "日常"],
+    "people": ["李敖", "二姐", "章孝慈"],
+    "places": ["台北"],
+    "works": ["李敖自传"],
+    "certainty": "contextual",
+    "source": {
+      "book": "李敖自传与回忆",
+      "chapter": "001.李敖自传",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/001.李敖自传.txt",
+      "line": 1034
+    }
+  },
+  {
+    "id": "1995-li-ao-study-order",
+    "date": "1995-02-15",
+    "displayDate": "1995年旧历年后",
+    "datePrecision": "undated-context",
+    "title": "请二姐整理资料书籍，但不能挪乱位置",
+    "summary": "二姐回忆，李敖偶尔请她稍稍整理资料和书籍，但只能落整齐，不能挪动地方，因为满屋子书各有放置规律，乱了就难找。",
+    "view": ["生平线", "日常线"],
+    "tags": ["待校日", "书房", "资料", "日常"],
+    "people": ["李敖", "二姐"],
+    "places": ["台北"],
+    "works": ["李敖自传"],
+    "certainty": "contextual",
+    "source": {
+      "book": "李敖自传与回忆",
+      "chapter": "001.李敖自传",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/001.李敖自传.txt",
+      "line": 1034
+    }
+  },
+  {
+    "id": "1995-li-ao-verifies-brother-in-law-blacklist",
+    "date": "1995-03-01",
+    "displayDate": "1995年3月前后",
+    "datePrecision": "undated-context",
+    "title": "隔一天找出大姐夫被列入逮捕名单的书面根据",
+    "summary": "1992年年底大姐夫偶然提到北京医学院学生会主席经历和被列入逮捕名单；二姐回忆李敖隔一天就找到书面根据，连告密者是谁也知道。",
+    "view": ["生平线", "日常线"],
+    "tags": ["待校日", "资料", "考证", "家族"],
+    "people": ["李敖", "大姐夫", "二姐"],
+    "places": ["台北", "北京"],
+    "works": ["李敖自传"],
+    "certainty": "contextual",
+    "source": {
+      "book": "李敖自传与回忆",
+      "chapter": "001.李敖自传",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/001.李敖自传.txt",
+      "line": 1036
+    }
+  },
+  {
+    "id": "1995-yangmingshan-benz-trip",
+    "date": "1995-03-15",
+    "displayDate": "1995年3月前后某星期天",
+    "datePrecision": "undated-context",
+    "title": "开 Benz 带二姐去阳明山，二姐晕车改搭公车",
+    "summary": "二姐回忆，一个星期天李敖开 Benz 带她去阳明山，因一路塞车和废气使她晕车，快到阳明山时决定下车改搭公车回台北。",
+    "view": ["生平线", "日常线"],
+    "tags": ["待校日", "阳明山", "汽车", "家族"],
+    "people": ["李敖", "二姐", "小屯"],
+    "places": ["台北", "阳明山"],
+    "works": ["李敖自传"],
+    "certainty": "contextual",
+    "source": {
+      "book": "李敖自传与回忆",
+      "chapter": "001.李敖自传",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/001.李敖自传.txt",
+      "line": 1038
+    }
+  },
+  {
+    "id": "1995-dental-care-for-sister",
+    "date": "1995-03-20",
+    "displayDate": "1995年3月前后",
+    "datePrecision": "undated-context",
+    "title": "主动安排二姐在台北治牙",
+    "summary": "二姐回忆，李敖主动建议她在台北治牙，先后打十来个电话给牙医，请其尽量多救活几颗牙齿，令牙医夫妇感动。",
+    "view": ["生平线", "日常线"],
+    "tags": ["待校日", "家族", "医疗", "日常"],
+    "people": ["李敖", "二姐"],
+    "places": ["台北"],
+    "works": ["李敖自传"],
+    "certainty": "contextual",
+    "source": {
+      "book": "李敖自传与回忆",
+      "chapter": "001.李敖自传",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/001.李敖自传.txt",
+      "line": 1040
+    }
+  },
+  {
+    "id": "1995-buys-kettle-for-sister-gift",
+    "date": "1995-04-01",
+    "displayDate": "1995年4月离台前一晚",
+    "datePrecision": "undated-context",
+    "title": "离台前一晚替二姐挑实用水壶作礼物",
+    "summary": "二姐离开台北前一晚想买巧克力送人，路上遇到李敖同去远东；李敖认为糖不实用，替她选了会响的水壶并说由他出钱。",
+    "view": ["生平线", "日常线"],
+    "tags": ["待校日", "家族", "礼物", "日常"],
+    "people": ["李敖", "二姐"],
+    "places": ["台北", "远东"],
+    "works": ["李敖自传"],
+    "certainty": "contextual",
+    "source": {
+      "book": "李敖自传与回忆",
+      "chapter": "001.李敖自传",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/001.李敖自传.txt",
+      "line": 1052
+    }
+  }
+]

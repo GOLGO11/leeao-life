@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>李敖交互式年表</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <img
+        class="hero__image"
+        src="https://commons.wikimedia.org/wiki/Special:FilePath/Li_Ao_1939.jpg"
+        alt="1939年的李敖家庭合影"
+      />
+      <div class="hero__shade"></div>
+      <div class="hero__content">
+        <p class="eyebrow">1935-2018</p>
+        <h1>李敖交互式年表</h1>
+        <p class="lede">从日子进入一生：出生、流亡、求学、文星、软禁、入狱、复出，以及每一次留下文字火花的现场。</p>
+      </div>
+      <p class="credit">图：Wikimedia Commons，Li Ao 1939.jpg</p>
+    </header>
+
+    <main>
+      <section class="toolbar" aria-label="年表筛选">
+        <label class="search">
+          <span>搜索</span>
+          <input id="searchInput" type="search" placeholder="人名、地点、作品、事件" />
+        </label>
+        <label>
+          <span>视图</span>
+          <select id="viewFilter">
+            <option value="all">全部视图</option>
+          </select>
+        </label>
+        <label>
+          <span>年代</span>
+          <select id="decadeFilter">
+            <option value="all">全部年代</option>
+          </select>
+        </label>
+        <label>
+          <span>排序</span>
+          <select id="sortOrder">
+            <option value="asc">由早到晚</option>
+            <option value="desc">由晚到早</option>
+          </select>
+        </label>
+      </section>
+
+      <section class="stats" aria-label="统计">
+        <div>
+          <strong id="eventCount">0</strong>
+          <span>条事件</span>
+        </div>
+        <div>
+          <strong id="rangeLabel">-</strong>
+          <span>时间跨度</span>
+        </div>
+        <div>
+          <strong id="bookCount">0</strong>
+          <span>本书已入库</span>
+        </div>
+      </section>
+
+      <section class="layout">
+        <aside class="rail" aria-label="年代导航">
+          <h2>年代</h2>
+          <div id="decadeNav" class="decade-nav"></div>
+        </aside>
+
+        <section class="timeline" aria-live="polite">
+          <div class="timeline-head">
+            <h2>年表</h2>
+            <p id="resultLabel">正在载入</p>
+          </div>
+          <ol id="timelineList" class="timeline-list"></ol>
+        </section>
+      </section>
+
+      <section class="method">
+        <h2>增量原则</h2>
+        <p>先以《李敖自传与回忆》建立骨架，只收可以追到具体日期的条目。后续每处理一本书，就追加事件、保留出处、更新日志；不把163本书一次性混读成一锅粥。</p>
+      </section>
+    </main>
+
+    <dialog id="eventDialog" class="event-dialog">
+      <button id="closeDialog" class="close" aria-label="关闭">×</button>
+      <div id="dialogBody"></div>
+    </dialog>
+
+    <script src="./app.js"></script>
+  </body>
+</html>
