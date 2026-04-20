@@ -4377,5 +4377,87 @@
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt",
       "line": 19
     }
+  },
+  {
+    "id": "book5-undated-frank-harris-reference-in-zhili-ji",
+    "date": "1998-12-31",
+    "displayDate": "《志留纪》末段自述中",
+    "datePrecision": "undated-context",
+    "title": "李敖以 Frank Harris《My Life and Loves》作为坦白书写的西方参照",
+    "summary": "《志留纪》末段写李敖决定以《回忆录》和《快意恩仇录》向世人期中结账，并特别建议读者参看英国文学家 Frank Harris 的自传《My Life and Loves》，把它作为自己坦白书写尺度的西方参照。",
+    "view": ["写作线", "思想线", "晚年线"],
+    "tags": ["Frank Harris", "My Life and Loves", "自传写作", "坦白书写", "志留纪"],
+    "people": ["李敖", "Frank Harris"],
+    "places": ["中国台湾"],
+    "works": ["志留纪", "李敖快意恩仇录", "My Life and Loves"],
+    "certainty": "confirmed",
+    "crossReferences": ["book5-1998-08-07-finishes-zhili-ji-and-body-donation-note"],
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "020.志留纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/020.志留纪.txt",
+      "line": 158
+    }
+  },
+  {
+    "id": "book5-undated-self-compares-to-de-gaulle-and-li-hongzhang",
+    "date": "1998-12-31",
+    "displayDate": "《志留纪》前段自述中",
+    "datePrecision": "undated-context",
+    "title": "李敖把自己的自大与李鸿章、戴高乐式人物并置",
+    "summary": "《志留纪》前段写李敖谈自己“关门自大”的姿态，认为自大若成一种施教与武器便有其价值，并把李鸿章、戴高乐当作这种以气势压人者的比较对象。",
+    "view": ["思想线", "晚年线"],
+    "tags": ["李鸿章", "戴高乐", "自大", "自我定位", "志留纪"],
+    "people": ["李敖", "李鸿章", "戴高乐", "陈彦增"],
+    "places": ["台湾"],
+    "works": ["志留纪", "李敖快意恩仇录"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "020.志留纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/020.志留纪.txt",
+      "line": 20
+    }
+  },
+  {
+    "id": "book5-undated-joe-louis-brown-bomber-metaphor-for-island-opponents",
+    "date": "1998-12-31",
+    "displayDate": "《志留纪》中晚段自述中",
+    "datePrecision": "undated-context",
+    "title": "李敖借乔·路易斯“褐色轰炸机”比喻台湾对手不堪一击",
+    "summary": "《志留纪》中李敖借重量级拳王乔·路易斯在台湾表演赛时找不到真正对手的索寞，来比喻自己在台湾文坛虽常出手，却也总觉得真正够格的敌人太少。",
+    "view": ["思想线", "晚年线", "恩怨线"],
+    "tags": ["乔·路易斯", "Brown Bomber", "敌人", "台湾文坛", "志留纪"],
+    "people": ["李敖", "乔·路易斯"],
+    "places": ["台湾"],
+    "works": ["志留纪", "李敖快意恩仇录"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "020.志留纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/020.志留纪.txt",
+      "line": 128
+    }
+  },
+  {
+    "id": "book5-undated-periodic-reckoning-of-human-thought-and-behavior",
+    "date": "1998-12-31",
+    "displayDate": "《志留纪》中晚段自述中",
+    "datePrecision": "undated-context",
+    "title": "李敖把自己的终身工作概括为对人类观念与行为的“期中结账”",
+    "summary": "《志留纪》写李敖一生的计划，是把人类的观念与行为逐项整理、研究、解释并作出结论，把自己的工作视为不同于上帝“最后审判”的一次“期中结账”。",
+    "view": ["思想线", "写作线", "晚年线"],
+    "tags": ["期中结账", "人类观念与行为", "自我定位", "志留纪"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["志留纪", "李敖快意恩仇录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book5-1998-08-07-finishes-zhili-ji-and-body-donation-note"],
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "020.志留纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/020.志留纪.txt",
+      "line": 130
+    }
   }
 ]

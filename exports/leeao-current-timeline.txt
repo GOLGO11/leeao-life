@@ -1,9 +1,9 @@
 李敖交互式年表：当前增量纯文本备份
 生成日期：2026-04-20
-事件总数：769
-数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json
+事件总数：781
+数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json
 说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。
-日期精度统计：day=563；year=43；undated-range=1；undated-context=94；season=17；lunar-day=1；year-after=6；month=19；half-year=2；day-range=9；month-after=2；year-range=4；year-about=5；day-after=2；year-end=1
+日期精度统计：day=571；year=43；undated-range=1；undated-context=98；season=17；lunar-day=1；year-after=6；month=19；half-year=2；day-range=9；month-after=2；year-range=4；year-about=5；day-after=2；year-end=1
 
 
 1935
@@ -9335,6 +9335,54 @@
   来源：李敖快意恩仇录 / 020.志留纪 / line 166
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/020.志留纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1998-08-07-finishes-zhili-ji-and-body-donation-note
+- 《志留纪》中晚段自述中 | 李敖把自己的终身工作概括为对人类观念与行为的“期中结账”
+  精度：undated-context；可靠度：confirmed；排序日期：1998-12-31
+  摘要：《志留纪》写李敖一生的计划，是把人类的观念与行为逐项整理、研究、解释并作出结论，把自己的工作视为不同于上帝“最后审判”的一次“期中结账”。
+  人物：李敖
+  地点：台湾
+  标签：期中结账、人类观念与行为、自我定位、志留纪
+  视图：思想线、写作线、晚年线
+  作品：志留纪、李敖快意恩仇录
+  交叉引用：book5-1998-08-07-finishes-zhili-ji-and-body-donation-note
+  来源：李敖快意恩仇录 / 020.志留纪 / line 130
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/020.志留纪.txt
+  数据：data/timeline-events-fifth-book.json#book5-undated-periodic-reckoning-of-human-thought-and-behavior
+- 《志留纪》中晚段自述中 | 李敖借乔·路易斯“褐色轰炸机”比喻台湾对手不堪一击
+  精度：undated-context；可靠度：confirmed；排序日期：1998-12-31
+  摘要：《志留纪》中李敖借重量级拳王乔·路易斯在台湾表演赛时找不到真正对手的索寞，来比喻自己在台湾文坛虽常出手，却也总觉得真正够格的敌人太少。
+  人物：李敖、乔·路易斯
+  地点：台湾
+  标签：乔·路易斯、Brown Bomber、敌人、台湾文坛、志留纪
+  视图：思想线、晚年线、恩怨线
+  作品：志留纪、李敖快意恩仇录
+  交叉引用：-
+  来源：李敖快意恩仇录 / 020.志留纪 / line 128
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/020.志留纪.txt
+  数据：data/timeline-events-fifth-book.json#book5-undated-joe-louis-brown-bomber-metaphor-for-island-opponents
+- 《志留纪》末段自述中 | 李敖以 Frank Harris《My Life and Loves》作为坦白书写的西方参照
+  精度：undated-context；可靠度：confirmed；排序日期：1998-12-31
+  摘要：《志留纪》末段写李敖决定以《回忆录》和《快意恩仇录》向世人期中结账，并特别建议读者参看英国文学家 Frank Harris 的自传《My Life and Loves》，把它作为自己坦白书写尺度的西方参照。
+  人物：李敖、Frank Harris
+  地点：中国台湾
+  标签：Frank Harris、My Life and Loves、自传写作、坦白书写、志留纪
+  视图：写作线、思想线、晚年线
+  作品：志留纪、李敖快意恩仇录、My Life and Loves
+  交叉引用：book5-1998-08-07-finishes-zhili-ji-and-body-donation-note
+  来源：李敖快意恩仇录 / 020.志留纪 / line 158
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/020.志留纪.txt
+  数据：data/timeline-events-fifth-book.json#book5-undated-frank-harris-reference-in-zhili-ji
+- 《志留纪》前段自述中 | 李敖把自己的自大与李鸿章、戴高乐式人物并置
+  精度：undated-context；可靠度：confirmed；排序日期：1998-12-31
+  摘要：《志留纪》前段写李敖谈自己“关门自大”的姿态，认为自大若成一种施教与武器便有其价值，并把李鸿章、戴高乐当作这种以气势压人者的比较对象。
+  人物：李敖、李鸿章、戴高乐、陈彦增
+  地点：台湾
+  标签：李鸿章、戴高乐、自大、自我定位、志留纪
+  视图：思想线、晚年线
+  作品：志留纪、李敖快意恩仇录
+  交叉引用：-
+  来源：李敖快意恩仇录 / 020.志留纪 / line 20
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/020.志留纪.txt
+  数据：data/timeline-events-fifth-book.json#book5-undated-self-compares-to-de-gaulle-and-li-hongzhang
 - 1998年六十三年将弃我而去之日 | 李敖写成《李敖快意恩仇录》自序
   精度：year-end；可靠度：confirmed；排序日期：1998-12-31
   摘要：《李敖快意恩仇录》自序署“1998年六十三年将弃我而去之日，李敖写于中国台湾”，标出此书自我总结、继续清算恩仇的写作时间。
@@ -9359,3 +9407,103 @@
   来源：李敖快意恩仇录 / 020.志留纪 / line 106
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/020.志留纪.txt
   数据：data/timeline-events-fifth-book.json#book5-undated-su-rongquan-insurance-claim-recovered
+
+2004
+- 2004年10月12日 | 李敖办理立委参选登记
+  精度：day；可靠度：confirmed；排序日期：2004-10-12
+  摘要：《从参选到上台》写，2004年10月12日李敖到主管机关办理立法委员参选登记，陈文茜、王祥基等人在侧，正式展开他的立委选战。
+  人物：李敖、陈文茜、王祥基、赖岳忠
+  地点：台湾
+  标签：立委选举、参选登记、陈文茜、王祥基
+  视图：政治线、生平线、媒体线
+  作品：李敖议坛哀思录
+  交叉引用：-
+  来源：李敖议坛哀思录 / 008.从参选到上台 / line 3
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/008.从参选到上台.txt
+  数据：data/timeline-events-sixth-book.json#book6-2004-10-12-registers-legislative-candidacy
+- 2004年11月14日 | 李敖在国父纪念馆举行参选期间唯一正式公开演讲
+  精度：day；可靠度：confirmed；排序日期：2004-11-14
+  摘要：《从参选到上台》写，2004年11月14日李敖在国父纪念馆公开演讲，这是他参选立委期间唯一一场正式活动，由陈文茜、罗大佑主持站台，吴思远自香港来助阵。
+  人物：李敖、陈文茜、罗大佑、吴思远
+  地点：国父纪念馆、台北
+  标签：国父纪念馆、公开演讲、立委选举、罗大佑、吴思远
+  视图：政治线、演讲线、交游线
+  作品：李敖议坛哀思录
+  交叉引用：-
+  来源：李敖议坛哀思录 / 008.从参选到上台 / line 9
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/008.从参选到上台.txt
+  数据：data/timeline-events-sixth-book.json#book6-2004-11-14-national-father-memorial-hall-campaign-speech
+
+2005
+- 2005年2月1日 | 李敖就职立委并公布研究室“四不一没有”
+  精度：day；可靠度：confirmed；排序日期：2005-02-01
+  摘要：《从参选到上台》写，李敖于2005年2月1日就职立法委员，研究室抽到中兴大楼1108号，并在门口贴出“不认六亲，只认正义”等“四不一没有”，表明其问政和待客规则。
+  人物：李敖、陈境圳、李姿仪
+  地点：立法院中兴大楼、台北
+  标签：立委就职、中兴大楼1108号、四不一没有、研究室
+  视图：政治线、日常线、生平线
+  作品：李敖议坛哀思录
+  交叉引用：-
+  来源：李敖议坛哀思录 / 008.从参选到上台 / line 17
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/008.从参选到上台.txt
+  数据：data/timeline-events-sixth-book.json#book6-2005-02-01-sworn-in-as-legislator-and-sets-office-rules
+- 2005年3月9日 | 李敖在国防委员会首次质询国防部长李杰
+  精度：day；可靠度：confirmed；排序日期：2005-03-09
+  摘要：《我告诉你，就是狗》写，2005年3月9日李敖在国防委员会首次质询国防部长李杰，围绕6108亿军购、《与台湾关系法》与美台关系激烈交锋，并以“我们是美国人的看门狗”概括其批判。
+  人物：李敖、李杰、顾崇廉、罗志明
+  地点：立法院国防委员会、台北
+  标签：国防委员会、李杰、军购、与台湾关系法
+  视图：政治线、立法院线、军购线
+  作品：与台湾关系法、李敖议坛哀思录
+  交叉引用：-
+  来源：李敖议坛哀思录 / 018.我告诉你，就是狗 / line 3
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/018.我告诉你，就是狗.txt
+  数据：data/timeline-events-sixth-book.json#book6-2005-03-09-first-questioning-of-defense-minister-li-jie
+- 2005年3月10日 | 李敖在国防委员会痛批退辅会亏待老荣民
+  精度：day；可靠度：confirmed；排序日期：2005-03-10
+  摘要：《我闻过他们的臭脚》写，2005年3月10日李敖质询退辅会主委高华柱，要求正视老荣民住房、大陆配偶、生命纪录与遗产处境，并称自己“闻过他们的臭脚”，强调发言来自基层军旅经验。
+  人物：李敖、高华柱、许历农、卢秀燕
+  地点：立法院国防委员会、台北
+  标签：退辅会、高华柱、老荣民、大陆配偶、国防委员会
+  视图：政治线、立法院线、老兵线
+  作品：李敖议坛哀思录
+  交叉引用：-
+  来源：李敖议坛哀思录 / 019.我闻过他们的臭脚 / line 3
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/019.我闻过他们的臭脚.txt
+  数据：data/timeline-events-sixth-book.json#book6-2005-03-10-questions-retired-servicemen-affairs-chairman-gao-huazhu
+- 2005年3月16日 | 李敖在联席委员会抗议李文忠为执政党护航国防预算
+  精度：day；可靠度：confirmed；排序日期：2005-03-16
+  摘要：《老贼化的民进党》写，2005年3月16日李敖在国防与预算及决算联席委员会上，反对李文忠为执政党护航“2005年度政府总预算案国防预算应项目报告后解冻”等四案，并批评民进党执政后重演旧国会作风。
+  人物：李敖、李文忠、蔡明宪、林郁方、顾崇廉、柯俊雄
+  地点：立法院、台北
+  标签：李文忠、国防预算、联席委员会、民进党
+  视图：政治线、立法院线、军购线
+  作品：李敖议坛哀思录
+  交叉引用：-
+  来源：李敖议坛哀思录 / 020.老贼化的民进党 / line 3
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/020.老贼化的民进党.txt
+  数据：data/timeline-events-sixth-book.json#book6-2005-03-16-protests-li-wenzhong-escorting-ruling-party-budget
+- 2005年3月17日 | 李敖再次质询李杰并以“割下LP”讥刺军购表忠逻辑
+  精度：day；可靠度：confirmed；排序日期：2005-03-17
+  摘要：《上将割屌记》写，2005年3月17日李敖在国防委员会再次质询李杰，继续反对军购与“当美国人的狗”逻辑，并用“割下LP以展现决心”的夸张说法讥刺政府要求台湾以高价军购向美国证明忠诚。
+  人物：李敖、李杰、蔡明宪、宋楚瑜
+  地点：立法院国防委员会、台北
+  标签：李杰、国防委员会、军购、与台湾关系法、李敖式质询
+  视图：政治线、立法院线、军购线
+  作品：8年参谋总长日记、钱复回忆录、李敖议坛哀思录
+  交叉引用：-
+  来源：李敖议坛哀思录 / 021.上将割屌记 / line 3
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/021.上将割屌记.txt
+  数据：data/timeline-events-sixth-book.json#book6-2005-03-17-questions-li-jie-again-over-arms-purchase
+- 2005年3月17日 | 李敖质询吴钊燮要求陆委会为两岸关系“踩刹车”
+  精度：day；可靠度：confirmed；排序日期：2005-03-17
+  摘要：《我高潮，你刹车》写，2005年3月17日李敖在内政及民族委员会质询陆委会主委吴钊燮，要求他依据《宪法》与《国统纲领》为台湾不断升级的反中情绪“踩刹车”，不要继续与大陆和十三亿人口对撞。
+  人物：李敖、吴钊燮
+  地点：立法院内政及民族委员会、台北
+  标签：吴钊燮、陆委会、内政及民族委员会、国统纲领、宪法
+  视图：政治线、立法院线、两岸线
+  作品：国统纲领、中华民国宪法、李敖议坛哀思录
+  交叉引用：-
+  来源：李敖议坛哀思录 / 022.我高潮，你刹车 / line 3
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/022.我高潮，你刹车.txt
+  数据：data/timeline-events-sixth-book.json#book6-2005-03-17-questions-mac-chairman-wu-zhaoxie-on-cross-strait-policy

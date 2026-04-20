@@ -6,16 +6,17 @@
 
 本项目依据 `leeao-new-directions.txt` 的“方向二：李敖交互式年表”，用《大李敖全集5.0》（wjm_tcy版）分章节文本逐书、逐轮增量制作李敖年表。
 
-核心原则：
+用户当前口径非常明确：
 
-1. 不一次性读取 163 本全集。
-2. 每次只处理一本书或一个明确章节目录。
-3. 事件尽量精确到日。
-4. 只有年、月、季节、上下文时间的事件也可入库，但必须用 `displayDate` 保留原文日期形态，并用 `datePrecision` 标明待校。
-5. 同一年内排序规则是：精确到日的事件在前，模糊时间项在后。
-6. 每条事件保留书名、章节、文件路径、转码后行号。
-7. 同案、同证据链、跨书重复材料使用 `crossReferences` 做交叉引用，不覆盖旧来源。
-8. 每轮新增后更新 `data/ingestion-log.json`，并重新导出 `exports/leeao-current-timeline.txt`。
+1. 不一次性读取 163 本全集，必须一本一本、章节一段一段增量推进。
+2. 年表要“大而全”，大事件、小事件、日常、身体、感情、书信、读者反馈、司法细节都可以进入。
+3. 不能添加和李敖无关的旁人事件。旁人材料只有在李敖行动、写作、通信、判断、交游、诉讼、被牵连时才入表。
+4. 最终文本会出版成书，数据要可校对、可追源，但用户更重视“大而全”，不要因出版顾虑过度删减。
+5. 时间尽量精确到日；无法确日的项目也可入库，但必须标明 `datePrecision`，并用 `displayDate` 保留原文形态。
+6. 同一年内排序规则：精确到日的条目在前，模糊时间项在后。
+7. 每条事件保留书名、章节、文件路径、转码后行号。
+8. 交叉引用的事件要认真校对，跨书同案用 `crossReferences` 串起来，不要乱挂。
+9. 每轮新增后更新 `data/ingestion-log.json`，重新导出 `exports/leeao-current-timeline.txt`。
 
 ## 工作目录
 
@@ -25,65 +26,50 @@
 /home/aihuashanying/leeao-life
 ```
 
+这是 git 仓库。接手时先看：
+
+```bash
+git status --short
+```
+
+当前交接时工作树已有未提交修改，至少包括：
+
+```text
+README.md
+app.js
+data/ingestion-log.json
+data/timeline-events-fifth-book.json
+data/timeline-events-sixth-book.json
+exports/leeao-current-timeline.txt
+tools/export-timeline-text.mjs
+DEVELOPMENT_HANDOFF.md
+```
+
+不要回退用户或前一位 agent 的改动。
+
 全集分章节文本路径：
 
 ```bash
 《大李敖全集5.0》（wjm_tcy版）分章节
 ```
 
-全集文本多为 GB18030 编码。读取正文时使用：
+全集正文多为 GB18030 编码。读取正文时使用：
 
 ```bash
-iconv -f gb18030 -t utf-8 "<章节路径>" | nl -ba
+iconv -f GB18030 -t UTF-8 "<章节路径>" | nl -ba
 ```
 
-或使用日期命中工具：
+日期命中工具：
 
 ```bash
-node tools/find-dated-lines.mjs '《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人'
+node tools/find-dated-lines.mjs '《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录'
 ```
 
-注意：`tools/find-dated-lines.mjs` 当前只接受“单本书目录”，不接受单个 txt 文件。
-
-## 当前页面与工具
-
-静态页面：
-
-- `index.html`
-- `styles.css`
-- `app.js`
-
-页面通过 `fetch()` 读取 JSON，所以需要静态服务器。
-
-当前曾启动过：
-
-```bash
-python3 -m http.server 4174
-```
-
-访问：
-
-```text
-http://localhost:4174/
-```
-
-4173 端口之前被占用，所以改用了 4174。
-
-导出纯文本总表：
-
-```bash
-node tools/export-timeline-text.mjs
-```
-
-输出：
-
-```bash
-exports/leeao-current-timeline.txt
-```
+注意：`tools/find-dated-lines.mjs` 接受单本书目录，不是单个 txt 文件。
 
 ## 当前数据文件
 
-页面和导出脚本当前合并以下数据文件：
+页面和导出脚本当前合并以下文件：
 
 ```text
 data/timeline-events.json
@@ -96,244 +82,212 @@ data/timeline-events-second-book-evidence.json
 data/timeline-events-third-book.json
 data/timeline-events-third-book-qiao-evidence.json
 data/timeline-events-fourth-book.json
+data/timeline-events-fourth-book-deepening.json
+data/timeline-events-fifth-book.json
+data/timeline-events-sixth-book.json
 ```
 
-`app.js` 中的加载列表在 `dataFiles`。
+同步位置：
 
-`tools/export-timeline-text.mjs` 中也有同一份数据文件列表。新增数据文件时两边都要同步更新。
+```text
+app.js 的 dataFiles
+tools/export-timeline-text.mjs 的 dataFiles
+```
+
+新增数据文件时两边都要同步。
 
 ## 当前计数
 
-截至第四本第四轮结束：
+截至第六本第一轮结束：
 
 ```text
-data/timeline-events.json                       32
-data/timeline-events-first-book-supplement.json 58
-data/timeline-events-first-book-broad.json      46
-data/timeline-events-first-book-daily.json      50
-data/timeline-events-second-book.json           67
-data/timeline-events-second-book-broad.json     27
-data/timeline-events-second-book-evidence.json  37
-data/timeline-events-third-book.json            71
+data/timeline-events.json                         32
+data/timeline-events-first-book-supplement.json   58
+data/timeline-events-first-book-broad.json        46
+data/timeline-events-first-book-daily.json        50
+data/timeline-events-second-book.json             67
+data/timeline-events-second-book-broad.json       27
+data/timeline-events-second-book-evidence.json    37
+data/timeline-events-third-book.json              71
 data/timeline-events-third-book-qiao-evidence.json 16
-data/timeline-events-fourth-book.json           119
-总计                                           523
+data/timeline-events-fourth-book.json             119
+data/timeline-events-fourth-book-deepening.json   29
+data/timeline-events-fifth-book.json              221
+data/timeline-events-sixth-book.json              8
+总计                                             781
 ```
 
-纯文本总表表头显示：
+`exports/leeao-current-timeline.txt` 表头已同步：
 
 ```text
-事件总数：523
-日期精度统计：待重新导出后以 exports/leeao-current-timeline.txt 表头为准
+事件总数：781
+日期精度统计：day=571；year=43；undated-range=1；undated-context=98；season=17；lunar-day=1；year-after=6；month=19；half-year=2；day-range=9；month-after=2；year-range=4；year-about=5；day-after=2；year-end=1
 ```
 
-## 已完成处理轮次
+## 当前处理进度
 
-处理日志见：
+处理日志的完整记录在：
 
 ```bash
 data/ingestion-log.json
 ```
 
-当前有 17 轮：
+当前最新轮次为 `iteration: 27`。
 
-1. 第一本《李敖自传与回忆》第一轮：建立基础日级骨架，32 条。
-2. 第一本第二轮：补台中一中、严侨、姚从吾、文星、入狱等密集事件，57 条。
-3. 第一本第三轮：回应年份空洞问题，补宽日期/待校日事件，45 条。
-4. 第一本第四轮：补日常痕迹，50 条，并建立纯文本导出工具。
-5. 第二本《李敖自传与回忆续集》第一轮：主干日级事件，65 条。
-6. 第二本第二轮：宽日期/背景线，27 条。
-7. 第二本第三轮：司法/监所证据链，37 条。
-8. 第三本《我最难忘的事和人》第一轮：全书主干、交游、出版、政治记忆，71 条。
-9. 第三本第二轮：乔家才黑牢证据链，11 条。
-10. 第三本第三轮：只补与李敖判断和取材直接相关的乔家才著述节点，2 条。
-11. 第三本第四轮：补总统府资料组/王崇五探视与郑介民催办证明书，2 条。
-12. 前三本交叉深挖第一轮：回补第一本 1 条、第二本 2 条，全部保持李敖主线，3 条。
-13. 前三本交叉深挖第二轮：第一本补“复出后的第一本书”节点，第三本补傅宜生电报保命节点；第二本因候选已在 broad 层或跨书来源层入库，本轮不重复加点，2 条。
-14. 第四本《李敖回忆录》第一轮：建立新数据文件，首批录入军队、《文星》、软禁、监狱、复出、笔伐六个核心章节，兼顾大事件、小事件、日常痕迹，46 条。
-15. 第四本第二轮：补入台中、台大、隐居、二进宫中的形成期、过渡期与狱中写作节点，继续扩充小事件与日常细节，20 条。
-16. 第四本第三轮：补入台中家庭账册与穷困日常、台大转系与恋爱/送报细节、二进宫监所日常，以及《口诛》中东吴任教、公开演讲与电视节目链条，40 条。
-17. 第四本第四轮：继续补《口诛》1994-1995 的东吴/章孝慈中段链，并开启《前程》第一轮，补晚年诗作、婚姻、家书、诉讼日记、自我定位与 1997 署日，13 条。
+已处理到第六本：
+
+```text
+001.李敖自传与回忆
+002.李敖自传与回忆续集
+003.我最难忘的事和人
+004.李敖回忆录
+005.李敖快意恩仇录
+006.李敖议坛哀思录
+```
+
+第五本《李敖快意恩仇录》已经停止深挖，当前定格在 221 条。
+
+第六本《李敖议坛哀思录》已开启第一轮，当前 8 条。
+
+## 第六本当前状态
+
+第六本数据文件：
+
+```text
+data/timeline-events-sixth-book.json
+```
+
+第六本首轮已处理章节：
+
+```text
+008.从参选到上台.txt
+018.我告诉你，就是狗.txt
+019.我闻过他们的臭脚.txt
+020.老贼化的民进党.txt
+021.上将割屌记.txt
+022.我高潮，你刹车.txt
+```
+
+当前已补入的骨架条目：
+
+- 2004-10-12 办理立委参选登记。
+- 2004-11-14 国父纪念馆公开演讲，为参选期间唯一正式活动。
+- 2005-02-01 就职立委，并在中兴大楼1108号研究室公布“四不一没有”。
+- 2005-03-09 首次质询国防部长李杰，围绕6108亿军购与《与台湾关系法》展开正面冲突。
+- 2005-03-10 质询退辅会主委高华柱，集中谈老荣民、住房、大陆配偶与生命史记录。
+- 2005-03-16 在国防与预算及决算联席委员会抗议李文忠护航执政党国防预算。
+- 2005-03-17 再次质询李杰，继续攻击军购与“美国把台湾当狗”的逻辑。
+- 2005-03-17 质询吴钊燮，要求陆委会按《宪法》与《国统纲领》为两岸关系“踩刹车”。
+
+第六本当前最值得继续的路线：
+
+1. 优先处理 `062.公听会听我言.txt`、`065.我当场撕掉国防部文件.txt`、`081.喷瓦斯事件.txt` 这类“单一动作 + 明确日期”章节，先把 2005-2006 的行动线串起来。
+2. 再分批处理 `134-142` 的起诉状与立法院公报，按“每轮只吃几份”原则拆成法律/院会链，不要一口气吞大文件。
+3. 继续时要注意：Book 6 原始 txt 多为 GB18030，直接 Read 常出现乱码；可靠流程是先 `iconv -f GB18030 -t UTF-8 ... | nl -ba`，再据此写 source.line。
+
+## 第五本已完成重点
+
+第五本数据文件：
+
+```text
+data/timeline-events-fifth-book.json
+```
+
+主要处理章节：
+
+```text
+001.陆根纪
+002.苗蚩纪
+003.犬儒纪
+004.彭尸纪
+005.寒武纪
+006.三叠纪
+007.梦遗纪
+009.白露纪
+010.根株纪
+012.东郭纪
+017.猪猡纪
+018.闹衙纪
+019.宣淫纪
+020.志留纪
+```
+
+第五本已经补入的大块包括：
+
+- 生日异说、二姐回忆、台中图书馆书目工程、少年诗、台大法专退学、与“罗”的爱情节点。
+- 1959-1960 预官日记中的训练、拒绝入党、下部队、行军和社会观察。
+- 1962-1963 性观念文章：《给谈中西文化的人看看病》《由一丝不挂说起》《论“处女膜整型”》。
+- 《白露纪》H 线：1964-05-01 租水源大楼并在君子行认识 H；1964-08-04、09-09、09-28、09-30、10-03 至 04 给 H 的书信。
+- 《白露纪》小Y线：1967 年春认识小Y，以及 1967-03-21、03-23、03-28、03-31、04-03/04、04-07、04-10、04-11、04-12、04-23、04-27、05-07、05-09、08-24 等密集情书节点。
+- 身体/感情/日常线：四席小屋时代初次买卖性经验、上海咖啡馆女老板一夜关系、阿贞一夜关系、孙之森带李敖到江山楼和宝斗里观察、汝清、君君、小叶、静美、林家祺、小苏、安、CCY 等。
+- 收藏/视觉线：《夏日即景》裸女画、PLAYBOY 折页裸照、1963 年 1 月号 Judi Motercy 中页照片。
+- 1985 五十岁生日礼物信：苏荣泉和李放送三义木雕达摩佛像后被折现、曾心仪衬衫、李宁古董花瓶、陈文茜《We Are The World》唱片、香港《九十年代》转来李惠慈读《三毛式伪善》后的来信。
+- 《根株纪》文星后交游/恩怨：梁实秋拒作保、1987 年梁实秋版权通信、余光中邀李敖参加师大现代诗朗诵会和课堂演讲、何凡饭局争执、林海音预订“告别文坛十书”、王敬羲香港《文星》刊《借古不讽今》不付版税、王敬羲后续支持/造谣/萧孟能案。
+- 《根株纪》版权案簇：李敖代理朱婉坚/朱婉清追究文星旧版权，与余光中、蔡文甫、林海音在法庭交锋。
+- 《东郭纪》柏杨线：1971-07-17《新共和》报道柏杨冤狱、1972-02-29 柏杨为李敖优先办借书证并选《生命的光辉》、1972 年 4 月绿岛礼物转告、柏杨出狱后借书、李敖婚后胡茵梦提议请柏杨吃饭未成。
+- 《闹衙纪》国家赔偿链：台北市政府、高雄市政府、台中市政府藏书查扣案。
+- 《宣淫纪》按用户“大而全”口径已保留身体、感情、性文字和日常材料，用中性摘要，不猎奇化。
+- 《志留纪》：汪荣祖信、黄妮娜信、郑淑敏称赞《北京法源寺》、《政治家》访谈、《我要吻周联华》、林荣三案赔偿支票、遗体捐献安排、黄石城稿费转林正杰、小苏保险理赔等。
+- 《志留纪》本轮又补入 4 条晚年 authorial/context 层节点：Frank Harris《My Life and Loves》参照、李鸿章/戴高乐式自我定位、乔·路易斯 Brown Bomber 比喻、以及“期中结账”式整理人类观念与行为的终身计划。
+
+## 第五本关键注意事项
+
+1. `朱婉坚` 与 `朱婉清`：源文中多见“朱婉坚”，此前部分条目写作“朱婉清”。继续时不要擅自大规模改名，先以原文校对；如果统一，应保留别名说明。
+2. 1987-05-07 第四本日记不是朱婉坚版权案确日。已核原文，它是“控司马文武等八人”案，不能挂到余光中、蔡文甫、林海音版权案。
+3. 朱婉坚版权案簇目前仍多为 `1987-12-31`、`datePrecision=year-about` 暂挂，后续要从其他诉讼文集、报刊访问或法院文书线索找具体庭期。
+4. H 后来赴美、婚变、再婚等多属 H 自身后事，本轮没有作为独立李敖事件。只有找到李敖通信、写作、行动中的具体关联，才补。
+5. 第五本里大量旁人丑闻、婚恋、政治旧事不能直接变成年表事件；必须问一句：这是李敖做了什么、写了什么、遭遇了什么、判断了什么，还是只是旁人传记？
+6. 身体/性材料可以收，但摘要保持研究口吻，避免渲染。用户要“大而全”，不是要八卦化。
+7. 第八轮已验证：`009.白露纪` 与 `010.根株纪` 仍有潜在增量，但前者重复风险高、后者编码污染重；除非拿到更干净文本或外部旁证，不宜为凑数量硬写。
+8. `book5-undated-huang-shicheng-fee-transferred-to-lin-zhengjie` 的外部搜索已找到一个重要旁证：whatot / books.leeao.net 镜像中的《李敖对话录》“才华盖世侠骨柔情的思想家”一篇，末署“李宁访问，1982年3月16日”，文中有“黄石城果然给了我三万，可是我把这钱转给林正杰当竞选经费了”。这证明李敖最迟在 1982-03-16 已公开这样叙述，但**仍未取得原刊扫描或权威目录页来确认这是不是原始发表日期，更不能直接等同于稿费转交发生日**；在拿到原刊之前，不要把该事件机械改成 day。
+9. `book5-undated-su-rongquan-insurance-claim-recovered` 的外部搜索目前**没有**找到可安全落到具体年月日的 contemporaneous 报刊、法院文书或保险业资料；只找到李敖相关数字化文集里的回忆性说法与大量无关保险判决噪音。现阶段应继续保持 `undated-context`，不要为了路线1硬改精确日。
 
 ## 第四本状态
 
-第四本第一轮已新建：
+第四本文件：
 
 ```text
 data/timeline-events-fourth-book.json
+data/timeline-events-fourth-book-deepening.json
 ```
 
-当前已录入 119 条，重点包括：
+当前合计 148 条。
 
-- 军队线：1959-09-07 南下受训、1960-03-03 下部队、1960-07-23 “七五炮打冲锋”、1960-08-14/15/16 张永亭手表链、1961-02-06 澎湖退伍。
-- 《文星》线：1963-07-18 陈立峰荐主编、1964-09-01 内政部来函、1965-08-31 第90期被禁、1968-01-25 资料室遭搜。
-- 软禁线：1970-01-15 嘟嘟死亡、1970-01-26 得知彭明敏抵瑞典、1970-04-07 跟监撞车、1970-05-01 假和解赔款、1971-01-02 致刘绍唐信、1971-03-15 “house arrest”信、1971-03-19 被带走。
-- 监狱线：1972-02-28 改押景美、1972-02-29 首次秘密审判见刘辰旦、1972-03-10 初判十年、1975-04-25 生日蛋糕、1975-09-25 再判减刑、1975-12-22 移送仁爱、1976-11-19 无保释放。
-- 复出线：1979-09-15 正式与胡茵梦相会、1979-09-18《忘了我是谁》发表、1979-11-11《时报周刊》封面、1980-05-06 结婚、1980-08-28 离婚。
-- 笔伐线：1981-04-18/04-23《千秋评论》执照、1981-06-17 改判有罪、1981-07-10 注销发行人登记、1981-08-10 预交前六册、1982-04-25 紫藤庐祝寿、1982-06-11 认识“安”、1984-01《万岁评论》起、1985-03-23 小董密件、1988-10-01《乌鸦评论》起、1989-03-06 最后一次与郑南榕通话、1989-04-07 郑南榕自焚、1991-02-27《求是报》起、1991-11-01《李敖求是评论》起、1992-04-01 停刊。
-- 台中线补入：1949-05-12 抵台、1952-06-15 见钱穆、1953-04-14/04-29 钱穆书信往返、1953 休学自学、1953 严侨被捕后接济严师母。
-- 台大线补入：1955 入历史系、1957-03-01《从读〈胡适文存〉说起》刊出、1958-06-15 与 1959-01-06 两条殷海光相关日记、1959-06-18 毕业、1959-08-02 二十六人送行。
-- 隐居线补入：1976-07-23 吴俊才安排会谈、1976-12-01 国关中心报到、1978-08-20 离职证明、1979-03-26/04-03/04-12 股东维权链、1979-06-06《中国时报》社会版宣布复出。
-- “二进宫”线目前新增：1981-11-09 狱中译《哥林多后书》给“汝清”；其余 1981-11-23、1982-02-10、1982-02-27、1982-03-08 等已在第二本 broad 层或第三本来源层存在，本轮刻意不重复造点。
+第四本主干已从 1949 年推进到 1997-03-31，完成度较高，后续主要是加厚：
 
-第四本第三轮又继续补细：
+- 《前程》：方豪、徐熙光、柏杨/林正杰/彭明敏、待客之道、树敌哲学、恋爱/意淫观等还可细拆。
+- 《口诛》：东吴、章孝慈、公开演讲、电视节目、媒体反馈还可细拆。
+- 《二进宫》：狱中生活细节、书信检查、放封、狱友互动仍可补。
+- 台中/台大：老师、同学网络、家计痕迹、恋爱细节仍有可补空间。
 
-- 台中线加密：1949-05-25、05-29、06-01、06-02、06-17 等家庭账册节点；便当盒被笑成“饭桶”、穷得去不成日月潭、旧照画童军帽、存德巷13号两榻榻米读书角、《初三上甲组报》等日常痕迹。
-- 台大线加密：1954 误入法律专修科、1955-06-27 退学重考、1955 父丧礼俗改革、母亲掌全校操行登记、与“罗”的热恋与送报热牛奶、“咪咪”短恋、1960-02-12 萧启庆转述姚从吾评价。
-- “二进宫”线加密：孝一舍32号“保护”独居、与刘峰松书信受特别检查、1981-11-22 记者团来访前临时换播音乐、第一次放封即被叫作“胡茵梦的丈夫”、“套冰圈”“桂冠屁股”、于长江“吃小灶”、石柏苍偷运资料写《监狱学土城？》。
-- 《口诛》线正式建起：1965-05-04 台大演讲封杀书信、1989-04-14 来台四十周年演讲会、1993-03-26/04-02/06-07/09-21/10-27 东吴任教链、1995-02-13/04-04/10-20/10-21/10-30 东吴与电视节目链、1996-02-24/02-26/03-21/05-21 章孝慈与东吴收束链。
+重要已校点：
 
-第四本第四轮继续推进：
+- `book4-1987-05-07-diary-on-litigation-as-joyful-justice` 是司马文武等八人案，不是文星版权案。
+- `book4-deep-1979-after-return-ping-xintao-introduces-sanmao` 已被第五本李惠慈/三毛来信条交叉引用。
 
-- 《口诛》线继续补上：1994-05-23 章孝慈洛城谈聘李敖、1994-08-15 华视《大学教育之精神内涵》、1994-11-14 章孝慈北京脑溢血、1995-03-05 新光美术馆拍卖会。
-- 《前程》线首轮建立：1982-01-25《真与幻》、1983年2月张大为“Ping无Pong”来信、1984-01-05《把她放在遥远》、1984-09-05 罗小如来访、1987-05-07 诉讼日记、1991-01-04 写母亲返台家书、1992-03-08 与王小屯结婚、1997-02-14“一个正确的人活在一个错误的地方”、1997-03-31 国泰医院疝气署日。
+## 前三本状态
 
-对下一位 coding agent 的简短判断：
+前三本都已进入“可继续回补但主干可暂告一段落”的状态。
 
-- 第四本主干已经从 1949 年推进到 1997-03-31，全书的大事件骨架已相当完整。
-- 现在最缺的不是再补“骨架”，而是继续把《前程》《口诛》《二进宫》做厚，尤其是小事件、日常痕迹、短信、短时相遇、媒体反馈、待客之道、晚年生活习惯与思想自述。
-- 若按完成度估计：第四本目前可视为已到 70%—80% 左右，属于“主干已成、后半深挖”阶段。
+第一本：
 
-第四本下一轮最值得继续：
+- 基础 32 条。
+- 补充 58 条。
+- 宽日期/复出链 46 条。
+- 日常痕迹 50 条。
 
-```text
-020.前程（1997-·62岁以后）.txt
-019.口诛（1993-·58岁至今）.txt
-017.“二进宫”（1981-1982·46岁）.txt
-006.台中（1949-1954·14到19岁）.txt 中尚可继续拆老师、同学网络与更细家计痕迹
-007.台大（1954-1959·19到24岁）.txt 中尚可继续拆“罗”与“咪咪”之外的同学交往与胡适/殷海光周边细节
-020.前程（1997-·62岁以后）.txt 中尚可继续拆方豪、徐熙光、柏杨/林正杰/彭明敏、待客之道、树敌哲学、恋爱/意淫观等更细的思想与日常痕迹
-```
+第二本：
 
-如果按用户最近一次要求的执行顺序来接：
+- 主干 67 条。
+- 宽日期/背景 27 条。
+- 司法/监所证据链 37 条。
+- 可回补方向：萧孟能案合同/判决/存证信日期、《监狱学土城？》更细监所日常、附证清单中的民国纪年证据。
 
-1. 先继续 `020.前程（1997-·62岁以后）.txt`
-2. 再回补 `019.口诛（1993-·58岁至今）.txt` 的电视/媒体/节目反馈与日常节点
-3. 然后再看 `017.“二进宫”` 是否继续补狱中生活细节
+第三本：
 
-尤其用户已明确要求第四本要“详细（大事件，小事件，日常）”，所以下一轮不应只补大节点，还要继续录入：
-
-- 书信、日记、短时相遇、送行、狱中生活、恋爱/家居细节。
-- 但仍只限与李敖本人行动、写作、司法处境、交游或判断直接相关的材料。
-
-## 第二本状态
-
-第二本不是“永远完成”，但主干可暂告一段落：
-
-- 主干事件已做。
-- 宽日期/背景线已做。
-- 《监狱学土城？》和胡茵梦案证据链已做一轮。
-
-后续如果要回补第二本，可继续细拆：
-
-- 附证清单中的民国纪年证据。
-- 《监狱学土城？》更细的监所日常、法令与个案。
-- 萧孟能案附证材料中更多合同、判决、存证信日期。
-
-但当前用户已要求进入第三本，所以不要卡在第二本。
-
-## 第三本状态
-
-第三本目录：
-
-```text
-001.我最难忘的一件木雕.txt
-002.我最难忘的一场演讲.txt
-003.我最难忘的一片小湖.txt
-004.我最难忘的一套条例.txt
-005.我最难忘的一个组织.txt
-006.我最难忘的一家书店.txt
-007.我最难忘的一个官僚同学.txt
-008.我最难忘的一个邻居.txt
-009.我最难忘的一位烈士.txt
-010.我最难忘的一个将军.txt
-011.我最难忘的一个老兵.txt
-012.我最难忘的一位学者.txt
-013.我最难忘的一位教授.txt
-014.我最难忘的一个“反共义士”.txt
-015.我最难忘的一位残障人士.txt
-016.我最难忘的一个国特.txt
-《我最难忘的事和人》自序.txt
-```
-
-当前前三本都已进入受控深挖阶段：
-
-- 第一本补充数据 58 条，宽日期/复出链 46 条。
-- 第二本主干数据 67 条、宽日期/背景 27 条、证据链 37 条。
-- 第三本主干与乔家才证据链合计 87 条。
-
-第三本前四轮已新增 86 条，重点包括：
-
-- 施启扬交往链。
-- 郑南榕言论自由链。
-- 宋希濂《鹰犬将军》出版链。
-- 张永亭军中日常链。
-- 乔家才黑牢材料链。
-- 第三本各篇写作署日。
-
-第二轮已继续细拆《乔家才入狱记》附录，补入：
-
-- 1948-07-09 押解南京。
-- 1948年中秋后移常州。
-- 1950-03-17 牢中加菜事件。
-- 1954-03-31 坐牢两千一百天题诗。
-- 1957-04-21 出牢。
-- 1957-04-24 公祭。
-- 1957-04-26 张炎元宴请。
-- 1957-05-01 泰利饭店洗冤宴。
-- 1959-11-27 总统机密令。
-- 1960-02-22 特赦复权证书。
-- 1975-07-01 《入狱记》底稿署日。
-
-第三轮在“不要过度扩写他人事件”的限制下，只补了两条与李敖后续判断直接相关的著述节点：
-
-- 1955年（四十四年）乔家才在黑牢中开始撰写《关山烟尘记》。 
-- 1966年《关山烟尘记》正式问世。
-
-第四轮继续沿“与李敖直接相关”的原则，补入：
-
-- 约1954年前后，总统府资料组调卷研究营救，并借王崇五探视监牢。
-- 1959年夏，郑介民临终前催办乔家才报到证明，王唯一随后办妥。
-
-最新这一轮把同样方法扩展到前三本，补入：
-
-- 第一本文星/封杀链：1979-12-06（推定）李敖致高信疆辞去《中国时报》专栏。
-- 第二本白色恐怖证据链：1971-07-23 六张犁灌水灌汽油刑求。
-- 第二本复判链：1975-09-15 李敖声明刑求口供全部无效。
-
-再下一轮继续克制补点，新增：
-
-- 第一本复出链：1979年6月《独白下的传统》作为复出后第一本新书亮相。
-- 第三本乔家才营救链：1948年押往南京以后，傅宜生电报总统要求保住乔家才性命。
-- 第二本本轮未新增：原拟继续承接的 1981-11-23、1982-02-10、1982-03-08，经复核已分别存在于第二本 broad 层或第三本交叉来源层，本轮刻意不重复加点。
-
-经原文复核，上一版手记里提到的：
-
-```text
-1960-11-27 总统机密令
-```
-
-应更正为：
-
-```text
-1959-11-27 总统机密令
-```
-
-因为附录所引 1960-02-22 国防部特赦复权证书明确写的是“总统四十八年11月27日机密乙字第11330号令”。
-
-第三本下一轮最值得做，仍然是：
-
-```text
-016.我最难忘的一个国特.txt
-```
-
-但重点已经不再是“补乔家才主链第一轮缺口”，而是沿第二轮继续往深处拆，例如：
-
-- 桃园监牢中的人物个案与牢房生态。
-- 王崇五视察监牢与总统府资料组营救线。
-- 乔家才出牢后围绕国大代表资格、情报局证明书、中央党部关卡的复权后续链。
-
-这些内容仍主要分布在 `016.我最难忘的一个国特.txt` 长附录后半段，行号需用 `iconv ... | nl -ba` 重新核对。
+- 主干 71 条。
+- 乔家才证据链 16 条。
+- 可回补方向：`016.我最难忘的一个国特.txt` 后半长附录中的监牢生态、总统府资料组、王崇五探视、郑介民催办证明书等，但仍要限制为李敖取材、判断、引用链的一部分。
 
 ## 数据结构
 
@@ -341,60 +295,42 @@ data/timeline-events-fourth-book.json
 
 ```json
 {
-  "id": "book3-1989-04-07-cheng-nan-jung-dies",
-  "date": "1989-04-07",
-  "displayDate": "1989年4月7日",
+  "id": "book5-1985-04-25-receives-hong-kong-li-huici-letter-about-sanmao",
+  "date": "1985-04-25",
+  "displayDate": "1985年4月25日",
   "datePrecision": "day",
-  "title": "郑南榕自焚身亡",
+  "title": "香港《九十年代》转来李惠慈因读《三毛式伪善》写给李敖的信",
   "summary": "……",
-  "view": ["大事件对照线", "交游线", "思想线"],
-  "tags": ["郑南榕", "言论自由", "自焚"],
-  "people": ["李敖", "郑南榕"],
-  "places": ["台湾"],
-  "works": ["我最难忘的一位烈士", "郑南榕研究"],
+  "view": ["读者线", "思想线", "交游线"],
+  "tags": ["李惠慈", "九十年代", "三毛式伪善", "香港读者", "五十岁生日"],
+  "people": ["李敖", "李惠慈", "三毛"],
+  "places": ["香港", "台北"],
+  "works": ["三毛式伪善", "九十年代", "李敖快意恩仇录"],
   "certainty": "confirmed",
-  "crossReferences": ["book3-1947-09-12-cheng-nan-jung-born"],
+  "crossReferences": ["book5-1985-04-26-birthday-gift-letter", "book4-deep-1979-after-return-ping-xintao-introduces-sanmao"],
   "source": {
-    "book": "我最难忘的事和人",
-    "chapter": "009.我最难忘的一位烈士",
-    "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/009.我最难忘的一位烈士.txt",
-    "line": 5
+    "book": "李敖快意恩仇录",
+    "chapter": "009.白露纪",
+    "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt",
+    "line": 19
   }
 }
 ```
 
 字段说明：
 
-- `date`：机器排序用，必须 `YYYY-MM-DD`。
+- `date`：机器排序用，必须是 `YYYY-MM-DD`。
 - `displayDate`：给人看的原文日期形态。
-- `datePrecision`：常见值有 `day`、`month`、`year`、`season`、`day-range`、`undated-context` 等。
+- `datePrecision`：常见值有 `day`、`month`、`year`、`season`、`day-range`、`undated-context`、`year-about` 等。
 - `certainty`：常见值 `confirmed` 或 `inferred`。
 - `crossReferences`：可选数组，填其他事件 ID。
 - `source.line`：GB18030 转 UTF-8 后，用 `nl -ba` 看到的行号。
 
-## 排序和模糊日期
+不要把排序日期当成已校准日期。只有年份的可挂到年末，例如 `1987-12-31`，但必须用 `datePrecision` 和 `displayDate` 标清。
 
-页面排序逻辑在 `app.js` 的 `compareEvents()`：
+## UI 状态
 
-1. 先按年份。
-2. 同一年内，精确到日的事件排在非日级事件前面。
-3. 再按 `date`。
-4. 再按标题。
-
-这意味着对于只有年份的条目，可以把 `date` 挂到该年末，如 `1975-12-31`，并用：
-
-```json
-"displayDate": "1975年",
-"datePrecision": "year"
-```
-
-对于只有月份的条目，可以挂到月末或合理的月内排序点，并明确 `datePrecision`。
-
-不要把排序日期当成已校准日期。
-
-## UI 现状
-
-用户特别要求把 UI 上“条日级事件”改为“条事件”，已完成。
+用户曾要求把 UI 上“条日级事件”改为“条事件”，已完成。
 
 位置：
 
@@ -402,23 +338,26 @@ data/timeline-events-fourth-book.json
 index.html
 ```
 
-统计区当前显示：
+当前显示：
 
 ```html
 <span>条事件</span>
 ```
 
-弹窗已支持显示交叉引用：
+弹窗支持显示交叉引用，逻辑在：
 
 ```text
 app.js openEvent()
 ```
 
-如果事件有 `crossReferences`，弹窗会显示：
+排序逻辑在：
 
 ```text
-交叉引用：...
+app.js compareEvents()
+tools/export-timeline-text.mjs compareEvents()
 ```
+
+两边都按“同一年内日级在前、模糊在后”处理。
 
 ## 校验命令
 
@@ -428,10 +367,10 @@ app.js openEvent()
 node --check app.js
 ```
 
-校验全部数据、重复 ID、交叉引用：
+完整数据、重复 ID、交叉引用、日期格式校验：
 
 ```bash
-node -e "const fs=require('fs'); const files=['data/timeline-events.json','data/timeline-events-first-book-supplement.json','data/timeline-events-first-book-broad.json','data/timeline-events-first-book-daily.json','data/timeline-events-second-book.json','data/timeline-events-second-book-broad.json','data/timeline-events-second-book-evidence.json','data/timeline-events-third-book.json','data/timeline-events-third-book-qiao-evidence.json','data/timeline-events-fourth-book.json']; const events=files.flatMap(f=>JSON.parse(fs.readFileSync(f,'utf8')).map(e=>({...e,file:f}))); const ids=new Set(); const dup=[]; const bad=[]; for(const e of events){ if(ids.has(e.id)) dup.push(e.id); ids.add(e.id); if(!/^\\d{4}-\\d{2}-\\d{2}$/.test(e.date)) bad.push('bad date '+e.id); if(!e.source?.line) bad.push('missing source '+e.id); if(!Array.isArray(e.view)) bad.push('missing view '+e.id); } const badRefs=[]; for(const e of events){ for(const ref of e.crossReferences||[]) if(!ids.has(ref)) badRefs.push(e.id+' -> '+ref); } console.log(JSON.stringify({total:events.length, duplicateIds:dup, bad, badRefs},null,2)); if(dup.length||bad.length||badRefs.length) process.exit(1);"
+node -e "const fs=require('fs'); const files=['data/timeline-events.json','data/timeline-events-first-book-supplement.json','data/timeline-events-first-book-broad.json','data/timeline-events-first-book-daily.json','data/timeline-events-second-book.json','data/timeline-events-second-book-broad.json','data/timeline-events-second-book-evidence.json','data/timeline-events-third-book.json','data/timeline-events-third-book-qiao-evidence.json','data/timeline-events-fourth-book.json','data/timeline-events-fourth-book-deepening.json','data/timeline-events-fifth-book.json','data/timeline-events-sixth-book.json']; const all=files.flatMap(f=>JSON.parse(fs.readFileSync(f,'utf8')).map(e=>({...e,file:f}))); const ids=new Set(all.map(e=>e.id)); const dup=all.map(e=>e.id).filter((id,i,a)=>a.indexOf(id)!==i); const missing=[]; const bad=[]; for(const e of all){ if(!/^\\d{4}-\\d{2}-\\d{2}$/.test(e.date)) bad.push([e.id,e.date]); if(!e.source?.line) bad.push([e.id,'missing source.line']); if(!Array.isArray(e.view)) bad.push([e.id,'missing view']); for(const r of e.crossReferences||[]) if(!ids.has(r)) missing.push([e.id,r]); } console.log(JSON.stringify({events:all.length,fifth:JSON.parse(fs.readFileSync('data/timeline-events-fifth-book.json','utf8')).length,sixth:JSON.parse(fs.readFileSync('data/timeline-events-sixth-book.json','utf8')).length,dups:dup.length,missingRefs:missing.length,badDatesOrFields:bad.length,missing:missing.slice(0,10),bad:bad.slice(0,10)}, null, 2)); if(dup.length||missing.length||bad.length) process.exit(1);"
 ```
 
 导出纯文本：
@@ -440,68 +379,49 @@ node -e "const fs=require('fs'); const files=['data/timeline-events.json','data/
 node tools/export-timeline-text.mjs
 ```
 
-确认本地服务是否能读到新 JSON：
-
-```bash
-curl -I http://localhost:4174/data/timeline-events-fourth-book.json
-```
-
-## 最近一次通过的校验
-
-最近一次通过前的校验结果：
+当前最后通过的校验：
 
 ```json
 {
-  "total": 450,
-  "fourth": 46,
-  "duplicateIds": [],
-  "badRefs": []
+  "events": 781,
+  "fifth": 221,
+  "sixth": 8,
+  "dups": 0,
+  "missingRefs": 0,
+  "badDatesOrFields": 0
 }
 ```
 
-`exports/leeao-current-timeline.txt` 在本轮更新前表头事件总数为 404；本轮完成后应更新到 450。
-
-## 注意事项
-
-1. 工作树不是 git 仓库，`git status` 会失败，不要依赖 git。
-2. 编辑文件时优先用 `apply_patch`。
-3. 不要用一次性全文读取所有 163 本书。
-4. 每处理一本书都要保持增量文件独立，便于人工校对。
-5. 第三本有些文字是附录中他人文章，录入时要区分：
-   - 是李敖本人行动。
-   - 是李敖引用的他人事件。
-   - 是历史背景/大事件对照。
-6. 对跨书重复节点不要删除旧条目。保留多来源，用 `crossReferences` 串起来。
-7. 对推断日期要在 `displayDate` 或 `certainty` 中说明，例如“由文末日期推得”。
-8. 纯文本备份是给研究人员校对的重要输出，每轮必须重导出。
-
 ## 建议下一步
 
-用户现已要求开始第四本《李敖回忆录》的年表挖掘，并且要求“详细（大事件，小事件，日常）”。下一位 agent 可以直接继续：
+当前用户已明确：**终止第5本的深挖，进入第6本《李敖议坛哀思录》**。
 
-1. 第四本下一轮优先补 006.台中、007.台大、017.“二进宫”、015.隐居，继续增加可精确到日的李敖本人节点。
-2. 第四本继续时务必保持用户要求的“详细”，但仍要克制范围：补小事件与日常痕迹，不要把与李敖无直接关系的外围人物人生拆成独立年表。
-3. 本轮已新建文件：
+因此接手后默认路线应是：**继续第6本，而不是回到第5本。**
 
-```text
-data/timeline-events-fourth-book.json
-```
+第六本最值得继续的路线：
 
-4. 本轮已将新文件加入：
+1. 优先处理 `062.公听会听我言.txt`、`065.我当场撕掉国防部文件.txt`、`081.喷瓦斯事件.txt`。它们都属于“单一动作 + 明确日期 + 李敖本人直接出场”的高价值章节，最适合第六本第二轮。
+2. 再分批处理 `134-142` 的起诉状与立法院公报。不要一口气吞下全部大文件，宜每轮只吃几份，拆成法律行动链与院会/委员会链。
+3. 第六本处理时优先补 2005-2006 的问政/军购/国安/两岸主线，把李敖立委任内时间轴先做厚，再回头吃长附录。
+4. 继续严格使用 GB18030 → UTF-8 转码后行号：`iconv -f GB18030 -t UTF-8 ... | nl -ba`。Book 6 直接 Read 常出现乱码，不能据乱码行号写 source.line。
 
-```text
-app.js 的 dataFiles
-tools/export-timeline-text.mjs 的 dataFiles
-```
+第五本留存的已知待办，不是当前主线，但可供将来回补时参考：
 
-5. 本轮已更新：
+- 黄石城/林正杰条：已有 `1982-03-16` 的**候选访谈日期**（《李敖对话录》镜像所示“李宁访问，1982年3月16日”），可作为后续追原刊的锚点，但在找到原刊扫描、目录记录或同时代报刊转载前，不足以把“转交竞选经费”事件本身改成 day。
+- 苏荣泉保险条：当前没有找到 exact date；下一步应优先检索台湾旧报数据库、司法院旧裁判书索引、以及《现代保险》这类行业期刊，而不是继续泛搜网页。
 
-```text
-README.md
-data/ingestion-log.json
-exports/leeao-current-timeline.txt
-DEVELOPMENT_HANDOFF.md
-```
+如果接手 agent 想先做第六本质量整理：
 
-6. 第四本后续继续时，先检查现有第一、三本交叉来源层，避免把 1961-02-06、1981-08-10、1989-04-07 这类已存在条目写成重复 ID；应保留第四本来源并用 crossReferences 串接。
-7. 后续继续新增时，仍要跑校验，确认总数、重复 ID、交叉引用都正常。
+1. 检查 `data/timeline-events-sixth-book.json` 中的摘要口径是否与前五本一致，特别是“政治线 / 立法院线 / 军购线 / 两岸线”的标签使用是否稳定。
+2. 抽样核第六本首轮 8 条的 source.line 是否全部对应 GB18030 转码后的实际行号。
+3. 第六本第二轮开始前，可先做一个 `2005-03` 到 `2006-01` 的章节-日期对照表，避免后来把同日不同委员会质询混成一条。
+
+## 操作提醒
+
+1. 用 `rg` 查找文本和 ID。
+2. 编辑用 `apply_patch`。
+3. 不要删除或回退现有改动。
+4. 不要把旁人事件扩成李敖年表。
+5. 不要伪精确。无法确日就用 `datePrecision` 标待校。
+6. 每轮结束必须同步四件事：JSON、`data/ingestion-log.json`、`README.md` 当前进度、`exports/leeao-current-timeline.txt`。
+7. 纯文本备份是研究人员校对用的重要输出，不能漏导。
