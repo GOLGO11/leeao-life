@@ -769,5 +769,134 @@
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/045.香蕉好吃吗？.txt",
       "line": 3
     }
+  },
+  {
+    "id": "book6-2005-04-06-questions-du-zhengsheng-with-old-map-and-constitutional-interrogation",
+    "date": "2005-04-06",
+    "displayDate": "2005年4月6日",
+    "datePrecision": "day",
+    "title": "李敖质询杜正胜，拿古地图批评教育部把台湾史政治化",
+    "summary": "《八次叫杜正胜闭嘴》写，2005年4月6日李敖在教育及文化委员会质询教育部长杜正胜，要求几位大学校长一同备询，又拿出古地图考杜正胜，指出该图中台湾尾在左边，说明古地图方位常依绘图和阅图需要而变，不应被文建会、教育部解释成政治符号；他多次要求杜正胜闭嘴，强调立委质询权来自《宪法》，并称杜的台湾史不及格。",
+    "view": ["政治线", "立法院线", "教育线", "思想线"],
+    "tags": ["杜正胜", "古地图", "台湾史", "文建会", "质询权", "闭嘴"],
+    "people": ["李敖", "杜正胜", "王拓", "黄光彩"],
+    "places": ["立法院教育及文化委员会", "台北"],
+    "works": ["宪法", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2005-04-12-asks-hsieh-to-care-for-lin-hongxuan-and-criticizes-du-zhengsheng"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "047.八次叫杜正胜闭嘴",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/047.八次叫杜正胜闭嘴.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2005-04-06-scolds-university-presidents-in-water-fertilizer-incident",
+    "date": "2005-04-06",
+    "displayDate": "2005年4月6日同场质询",
+    "datePrecision": "day",
+    "title": "李敖质问大学校长风骨，形成“大学校长水肥事件”",
+    "summary": "《大学校长水肥事件》续录同场质询，李敖转向台大、清大等大学校长，批评他们面对教育部和社会黑暗不敢站出来，特别质问陈维昭当年殷海光案中不敢到法院作证，又从蔡元培、傅斯年、大学近亲繁殖、院士反军购等材料讲到知识分子的风骨；他以“水肥不落外人田”故事讽刺大学体系封闭分赃，事后报道称大学校长私下无法接受这种羞辱。",
+    "view": ["政治线", "立法院线", "教育线", "思想线"],
+    "tags": ["大学校长水肥事件", "陈维昭", "殷海光", "近亲繁殖", "蔡元培", "知识分子风骨"],
+    "people": ["李敖", "杜正胜", "陈维昭", "殷海光", "劳思光", "蔡元培", "傅斯年", "李远哲", "李家同", "龙应台"],
+    "places": ["立法院教育及文化委员会", "台北", "台湾大学"],
+    "works": ["自由中国", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2005-04-06-questions-du-zhengsheng-with-old-map-and-constitutional-interrogation"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "048.大学校长水肥事件",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/048.大学校长水肥事件.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2005-05-23-lectures-du-zhengsheng-on-de-sinicization-and-language-policy",
+    "date": "2005-05-23",
+    "displayDate": "2005年5月23日",
+    "datePrecision": "day",
+    "title": "李敖在教育及文化委员会训杜正胜，批评去中国化与本土语言政策",
+    "summary": "《杜正胜听训》写，2005年5月23日李敖在教育及文化委员会质询教育部长杜正胜，称自己早上在国防委员会已发过脾气，转而以历史系老大哥身份谈根本问题；他批评教育政策走向去中国化，指出《宪法》仍涵盖大陆地区，又从联合国语言保护、闽南语人口、台湾国语、文言传统和儿童课业压力切入，要求杜正胜反省“妈妈的话”政策和教育方向。",
+    "view": ["政治线", "立法院线", "教育线", "思想线"],
+    "tags": ["杜正胜", "去中国化", "本土语言", "台湾国语", "九年一贯", "基本学力测验"],
+    "people": ["李敖", "杜正胜", "周灿德", "李登辉", "陈水扁", "王祯和"],
+    "places": ["立法院教育及文化委员会", "台北"],
+    "works": ["宪法", "史记", "明史", "嫁妆一牛车", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book6-2005-05-12-speaks-against-local-language-policy",
+      "book6-2005-05-23-steel-pen-event-and-hsieh-daining-lawsuit"
+    ],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "049.杜正胜听训",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/049.杜正胜听训.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2005-10-13-confronts-lee-yuan-tseh-on-academia-sinica-neutrality-and-chen-endorsement",
+    "date": "2005-10-13",
+    "displayDate": "2005年10月13日赶场后",
+    "datePrecision": "day",
+    "title": "李敖质询李远哲，逼问中研院中立原则与支持陈水扁是否矛盾",
+    "summary": "《逼李远哲道歉》写，2005年10月13日李敖从国防委员会赶到科技及信息委员会质询中央研究院院长李远哲，先以台大同届旧识和清华考卷开场，再引用李远哲1995年10月13日在中研院周报中劝同仁不要介入助选政治的文章，追问他2000年发表《向上提升，不要向下沉沦》公开支持陈水扁是否违反自己写下的中研院中立原则。",
+    "view": ["政治线", "立法院线", "教育线", "思想线"],
+    "tags": ["李远哲", "中央研究院", "向上提升不要向下沉沦", "政治中立", "陈水扁", "科技及信息委员会"],
+    "people": ["李敖", "李远哲", "陈水扁"],
+    "places": ["立法院科技及信息委员会", "台北", "中央研究院"],
+    "works": ["中央研究院周报", "向上提升，不要向下沉沦", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2005-10-13-asks-xue-about-bananas-and-criticizes-nsb-enemy-framework"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "050.逼李远哲道歉",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/050.逼李远哲道歉.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2005-10-13-questions-lee-yuan-tseh-on-blue-blanket-us-nationality-and-education-reform-apology",
+    "date": "2005-10-13",
+    "displayDate": "2005年10月13日同场质询",
+    "datePrecision": "day",
+    "title": "李敖以《蓝色的毛毯》追问李远哲美国国籍、教改责任并逼出道歉",
+    "summary": "同场质询中，李敖拿出《开明少年》杂志，追问李远哲童年受《蓝色的毛毯》影响的真正理由，并把故事中的农民说成逃兵，转而问李远哲当年在国外、曾有美国国籍及家人国籍问题；随后他追问李远哲参与教改十年是否有严重错误，逼李远哲承认未能缓解升学压力、反而加深，并向社会期待落空表示道歉。",
+    "view": ["政治线", "立法院线", "教育线", "家庭线"],
+    "tags": ["李远哲", "蓝色的毛毯", "开明少年", "美国国籍", "教改", "道歉"],
+    "people": ["李敖", "李远哲", "宋楚瑜", "连战"],
+    "places": ["立法院科技及信息委员会", "台北", "中央研究院"],
+    "works": ["开明少年", "蓝色的毛毯", "新新闻", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2005-10-13-confronts-lee-yuan-tseh-on-academia-sinica-neutrality-and-chen-endorsement"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "050.逼李远哲道歉",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/050.逼李远哲道歉.txt",
+      "line": 37
+    }
+  },
+  {
+    "id": "book6-2005-10-13-clashes-with-kuan-biling-and-gives-lee-yuan-tseh-exam-paper",
+    "date": "2005-10-13",
+    "displayDate": "2005年10月13日同场质询末段",
+    "datePrecision": "day",
+    "title": "李敖质询李远哲末段与管碧玲冲突，并把清华考卷送给李远哲",
+    "summary": "质询末段，李敖继续追问李远哲为陈水扁背书是否应道歉、是否该把中央研究院改制成大学，管碧玲在席位上护航李远哲并与李敖冲突；李敖多次要求不要用程序问题干扰，最后把带来的李远哲清华大学考试考卷送给李远哲。李敖离席后，又在立法院公报中摘录管碧玲和李远哲后续问答，作为这场质询的政治回声。",
+    "view": ["政治线", "立法院线", "教育线", "媒体线"],
+    "tags": ["李远哲", "管碧玲", "中央研究院", "清华考卷", "程序冲突", "立法院公报"],
+    "people": ["李敖", "李远哲", "管碧玲", "邱永仁", "陈水扁", "王金平"],
+    "places": ["立法院科技及信息委员会", "台北", "中央研究院"],
+    "works": ["立法院公报", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2005-10-13-questions-lee-yuan-tseh-on-blue-blanket-us-nationality-and-education-reform-apology"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "050.逼李远哲道歉",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/050.逼李远哲道歉.txt",
+      "line": 103
+    }
   }
 ]

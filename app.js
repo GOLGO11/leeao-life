@@ -36,7 +36,7 @@ const dataFiles = [
   "./data/timeline-events-fifth-book.json",
   "./data/timeline-events-sixth-book.json"
 ];
-const dataVersion = "2026-04-20-sixth-round-5";
+const dataVersion = "2026-04-20-sixth-round-6";
 
 const dateFormatter = new Intl.DateTimeFormat("zh-Hant", {
   year: "numeric",

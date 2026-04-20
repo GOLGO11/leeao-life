@@ -1,9 +1,9 @@
 李敖交互式年表：当前增量纯文本备份
 生成日期：2026-04-20
-事件总数：803
+事件总数：809
 数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json
 说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。
-日期精度统计：day=591；year=43；undated-range=1；undated-context=99；season=17；lunar-day=1；year-after=6；month=19；half-year=2；day-range=9；month-after=2；year-range=4；year-about=5；day-after=3；year-end=1
+日期精度统计：day=597；year=43；undated-range=1；undated-context=99；season=17；lunar-day=1；year-after=6；month=19；half-year=2；day-range=9；month-after=2；year-range=4；year-about=5；day-after=3；year-end=1
 
 
 1935
@@ -10327,6 +10327,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/027.历史会证明我们同归于尽.txt
   数据：data/timeline-events-sixth-book.json#book6-2005-03-30-second-questions-li-jie-on-counterterrorism-and-military-morale
+- 2005年4月6日 | 李敖质询杜正胜，拿古地图批评教育部把台湾史政治化
+  精度：day；可靠度：confirmed；排序日期：2005-04-06
+  摘要：《八次叫杜正胜闭嘴》写，2005年4月6日李敖在教育及文化委员会质询教育部长杜正胜，要求几位大学校长一同备询，又拿出古地图考杜正胜，指出该图中台湾尾在左边，说明古地图方位常依绘图和阅图需要而变，不应被文建会、教育部解释成政治符号；他多次要求杜正胜闭嘴，强调立委质询权来自《宪法》，并称杜的台湾史不及格。
+  人物：李敖、杜正胜、王拓、黄光彩
+  地点：立法院教育及文化委员会、台北
+  标签：杜正胜、古地图、台湾史、文建会、质询权、闭嘴
+  视图：政治线、立法院线、教育线、思想线
+  作品：宪法、李敖议坛哀思录
+  交叉引用：book6-2005-04-12-asks-hsieh-to-care-for-lin-hongxuan-and-criticizes-du-zhengsheng
+  来源：李敖议坛哀思录 / 047.八次叫杜正胜闭嘴 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/047.八次叫杜正胜闭嘴.txt
+  数据：data/timeline-events-sixth-book.json#book6-2005-04-06-questions-du-zhengsheng-with-old-map-and-constitutional-interrogation
+- 2005年4月6日同场质询 | 李敖质问大学校长风骨，形成“大学校长水肥事件”
+  精度：day；可靠度：confirmed；排序日期：2005-04-06
+  摘要：《大学校长水肥事件》续录同场质询，李敖转向台大、清大等大学校长，批评他们面对教育部和社会黑暗不敢站出来，特别质问陈维昭当年殷海光案中不敢到法院作证，又从蔡元培、傅斯年、大学近亲繁殖、院士反军购等材料讲到知识分子的风骨；他以“水肥不落外人田”故事讽刺大学体系封闭分赃，事后报道称大学校长私下无法接受这种羞辱。
+  人物：李敖、杜正胜、陈维昭、殷海光、劳思光、蔡元培、傅斯年、李远哲、李家同、龙应台
+  地点：立法院教育及文化委员会、台北、台湾大学
+  标签：大学校长水肥事件、陈维昭、殷海光、近亲繁殖、蔡元培、知识分子风骨
+  视图：政治线、立法院线、教育线、思想线
+  作品：自由中国、李敖议坛哀思录
+  交叉引用：book6-2005-04-06-questions-du-zhengsheng-with-old-map-and-constitutional-interrogation
+  来源：李敖议坛哀思录 / 048.大学校长水肥事件 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/048.大学校长水肥事件.txt
+  数据：data/timeline-events-sixth-book.json#book6-2005-04-06-scolds-university-presidents-in-water-fertilizer-incident
 - 2005年4月12日 | 李敖质询谢长廷，为林弘宣请命并批评杜正胜消耗民进党
   精度：day；可靠度：confirmed；排序日期：2005-04-12
   摘要：《长廷啊，不要在后台唱戏》写，2005年4月12日李敖在院会质询末段，提到自己和王幸男同为坐过政治牢的立委，为美丽岛案站在第一排的林弘宣请命，要求谢长廷特别照顾；随后又借杜正胜地图、靖国神社和历史书写争议，批评谢内阁任用杜正胜使民进党持续消耗政治资源。
@@ -10470,6 +10496,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/034.军人，谁要你们舞文弄墨！.txt
   数据：data/timeline-events-sixth-book.json#book6-2005-05-18-questions-cai-mingxian-on-military-publications
+- 2005年5月23日 | 李敖在教育及文化委员会训杜正胜，批评去中国化与本土语言政策
+  精度：day；可靠度：confirmed；排序日期：2005-05-23
+  摘要：《杜正胜听训》写，2005年5月23日李敖在教育及文化委员会质询教育部长杜正胜，称自己早上在国防委员会已发过脾气，转而以历史系老大哥身份谈根本问题；他批评教育政策走向去中国化，指出《宪法》仍涵盖大陆地区，又从联合国语言保护、闽南语人口、台湾国语、文言传统和儿童课业压力切入，要求杜正胜反省“妈妈的话”政策和教育方向。
+  人物：李敖、杜正胜、周灿德、李登辉、陈水扁、王祯和
+  地点：立法院教育及文化委员会、台北
+  标签：杜正胜、去中国化、本土语言、台湾国语、九年一贯、基本学力测验
+  视图：政治线、立法院线、教育线、思想线
+  作品：宪法、史记、明史、嫁妆一牛车、李敖议坛哀思录
+  交叉引用：book6-2005-05-12-speaks-against-local-language-policy、book6-2005-05-23-steel-pen-event-and-hsieh-daining-lawsuit
+  来源：李敖议坛哀思录 / 049.杜正胜听训 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/049.杜正胜听训.txt
+  数据：data/timeline-events-sixth-book.json#book6-2005-05-23-lectures-du-zhengsheng-on-de-sinicization-and-language-policy
 - 2005年5月23日 | 李敖当众退还李杰万宝龙钢笔并要求国防部处理谢大宁案
   精度：day；可靠度：confirmed；排序日期：2005-05-23
   摘要：《钢笔事件》写，同日质询中李敖公开说明办公室有“不收礼”规矩，国防部却随归还书籍送来一支标价一万二千元的万宝龙钢笔；他当场退还李杰，并提出愿连同自己价值十六万元的海明威纪念笔一起拍卖、捐给民主行动联盟。随后他转入谢大宁因批评国防部而被控侮辱官署案，要求李杰撤回或软化告诉，并追问军队究竟为谁而战、为何而战。
@@ -10509,6 +10548,45 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/045.香蕉好吃吗？.txt
   数据：data/timeline-events-sixth-book.json#book6-2005-10-13-asks-xue-about-bananas-and-criticizes-nsb-enemy-framework
+- 2005年10月13日同场质询 | 李敖以《蓝色的毛毯》追问李远哲美国国籍、教改责任并逼出道歉
+  精度：day；可靠度：confirmed；排序日期：2005-10-13
+  摘要：同场质询中，李敖拿出《开明少年》杂志，追问李远哲童年受《蓝色的毛毯》影响的真正理由，并把故事中的农民说成逃兵，转而问李远哲当年在国外、曾有美国国籍及家人国籍问题；随后他追问李远哲参与教改十年是否有严重错误，逼李远哲承认未能缓解升学压力、反而加深，并向社会期待落空表示道歉。
+  人物：李敖、李远哲、宋楚瑜、连战
+  地点：立法院科技及信息委员会、台北、中央研究院
+  标签：李远哲、蓝色的毛毯、开明少年、美国国籍、教改、道歉
+  视图：政治线、立法院线、教育线、家庭线
+  作品：开明少年、蓝色的毛毯、新新闻、李敖议坛哀思录
+  交叉引用：book6-2005-10-13-confronts-lee-yuan-tseh-on-academia-sinica-neutrality-and-chen-endorsement
+  来源：李敖议坛哀思录 / 050.逼李远哲道歉 / line 37
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/050.逼李远哲道歉.txt
+  数据：data/timeline-events-sixth-book.json#book6-2005-10-13-questions-lee-yuan-tseh-on-blue-blanket-us-nationality-and-education-reform-apology
+- 2005年10月13日同场质询末段 | 李敖质询李远哲末段与管碧玲冲突，并把清华考卷送给李远哲
+  精度：day；可靠度：confirmed；排序日期：2005-10-13
+  摘要：质询末段，李敖继续追问李远哲为陈水扁背书是否应道歉、是否该把中央研究院改制成大学，管碧玲在席位上护航李远哲并与李敖冲突；李敖多次要求不要用程序问题干扰，最后把带来的李远哲清华大学考试考卷送给李远哲。李敖离席后，又在立法院公报中摘录管碧玲和李远哲后续问答，作为这场质询的政治回声。
+  人物：李敖、李远哲、管碧玲、邱永仁、陈水扁、王金平
+  地点：立法院科技及信息委员会、台北、中央研究院
+  标签：李远哲、管碧玲、中央研究院、清华考卷、程序冲突、立法院公报
+  视图：政治线、立法院线、教育线、媒体线
+  作品：立法院公报、李敖议坛哀思录
+  交叉引用：book6-2005-10-13-questions-lee-yuan-tseh-on-blue-blanket-us-nationality-and-education-reform-apology
+  来源：李敖议坛哀思录 / 050.逼李远哲道歉 / line 103
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/050.逼李远哲道歉.txt
+  数据：data/timeline-events-sixth-book.json#book6-2005-10-13-clashes-with-kuan-biling-and-gives-lee-yuan-tseh-exam-paper
+- 2005年10月13日赶场后 | 李敖质询李远哲，逼问中研院中立原则与支持陈水扁是否矛盾
+  精度：day；可靠度：confirmed；排序日期：2005-10-13
+  摘要：《逼李远哲道歉》写，2005年10月13日李敖从国防委员会赶到科技及信息委员会质询中央研究院院长李远哲，先以台大同届旧识和清华考卷开场，再引用李远哲1995年10月13日在中研院周报中劝同仁不要介入助选政治的文章，追问他2000年发表《向上提升，不要向下沉沦》公开支持陈水扁是否违反自己写下的中研院中立原则。
+  人物：李敖、李远哲、陈水扁
+  地点：立法院科技及信息委员会、台北、中央研究院
+  标签：李远哲、中央研究院、向上提升不要向下沉沦、政治中立、陈水扁、科技及信息委员会
+  视图：政治线、立法院线、教育线、思想线
+  作品：中央研究院周报、向上提升，不要向下沉沦、李敖议坛哀思录
+  交叉引用：book6-2005-10-13-asks-xue-about-bananas-and-criticizes-nsb-enemy-framework
+  来源：李敖议坛哀思录 / 050.逼李远哲道歉 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/050.逼李远哲道歉.txt
+  数据：data/timeline-events-sixth-book.json#book6-2005-10-13-confronts-lee-yuan-tseh-on-academia-sinica-neutrality-and-chen-endorsement
 
 2006
 - 2006年1月2日 | 李敖在重大军事采购政策公听会上提出“哥斯达黎加模式”

@@ -98,7 +98,7 @@ tools/export-timeline-text.mjs 的 dataFiles
 
 ## 当前计数
 
-截至第六本第五轮结束：
+截至第六本第六轮结束：
 
 ```text
 data/timeline-events.json                         32
@@ -113,15 +113,15 @@ data/timeline-events-third-book-qiao-evidence.json 16
 data/timeline-events-fourth-book.json             115
 data/timeline-events-fourth-book-deepening.json   29
 data/timeline-events-fifth-book.json              220
-data/timeline-events-sixth-book.json              36
-总计                                             803
+data/timeline-events-sixth-book.json              42
+总计                                             809
 ```
 
 `exports/leeao-current-timeline.txt` 表头已同步：
 
 ```text
-事件总数：803
-日期精度统计：day=591；year=43；undated-range=1；undated-context=99；season=17；lunar-day=1；year-after=6；month=19；half-year=2；day-range=9；month-after=2；year-range=4；year-about=5；day-after=3；year-end=1
+事件总数：809
+日期精度统计：day=597；year=43；undated-range=1；undated-context=99；season=17；lunar-day=1；year-after=6；month=19；half-year=2；day-range=9；month-after=2；year-range=4；year-about=5；day-after=3；year-end=1
 ```
 
 ## 当前处理进度
@@ -132,7 +132,7 @@ data/timeline-events-sixth-book.json              36
 data/ingestion-log.json
 ```
 
-当前最新轮次为 `iteration: 32`。
+当前最新轮次为 `iteration: 33`。
 
 已处理到第六本：
 
@@ -147,7 +147,7 @@ data/ingestion-log.json
 
 第五本《李敖快意恩仇录》已经停止深挖，并完成 1960-1961 重复事件校正，当前定格在 220 条。
 
-第六本《李敖议坛哀思录》已推进到第五轮，当前 36 条。
+第六本《李敖议坛哀思录》已推进到第六轮，当前 42 条。
 
 ## 第六本当前状态
 
@@ -189,6 +189,10 @@ data/timeline-events-sixth-book.json
 043.国安局密件落在我手里.txt
 044.局长想赖？.txt
 045.香蕉好吃吗？.txt
+047.八次叫杜正胜闭嘴.txt
+048.大学校长水肥事件.txt
+049.杜正胜听训.txt
+050.逼李远哲道歉.txt
 ```
 
 当前已补入的骨架条目：
@@ -220,14 +224,18 @@ data/timeline-events-sixth-book.json
 - 2005-05-04 质询王进旺，追问台综院追款律师、刘冠军下落、徐炳强判决书与台综院第四所。
 - 2005-05-12 质询薛石民，追问徐炳强判决书、李登辉批文档案和诺贝尔和平奖密件预算。
 - 2005-10-13 以“香蕉好吃吗”开场质询薛石民，拒看会后收回报告，并批评国安局缺少化敌为友视野。
+- 2005-04-06 质询杜正胜，拿古地图批评教育部把台湾史政治化，并在同场形成“大学校长水肥事件”。
+- 2005-05-23 质询杜正胜，批评去中国化、本土语言政策和儿童课业压力。
+- 2005-10-13 赶场质询李远哲，追问中研院中立原则、2000 年支持陈水扁、美国国籍、教改责任、道歉、管碧玲冲突与清华考卷。
 
 第六本当前最值得继续的路线：
 
-1. 可继续处理 `046-050`，这组看起来是杜正胜、大学校长、李远哲等教育/学术行政质询线，预计仍有日级材料。
-2. `036.国家安全局对我下毒？.txt` 暂未单独入库：它含送香蕉、退国安局礼金、国安局视察换便当等日常，但日期不精确；后续可在第六本模糊项轮次集中补。
-3. `031.我炮口转向了.txt` 暂未入库：它是李敖转向诉讼/外部攻击的策略说明，缺精确日期；后续可在 2005 年模糊项集中处理时加入。
-4. 再分批处理 `134-142` 的起诉状与立法院公报，按“每轮只吃几份”原则拆成法律/院会链，不要一口气吞大文件。
-5. 继续时要注意：Book 6 原始 txt 多为 GB18030，直接 Read 常出现乱码；可靠流程是先 `iconv -f GB18030 -t UTF-8 ... | nl -ba`，再据此写 source.line。
+1. 可继续处理 `051-061`，预计仍是教育、文宣、政治问政材料；先用 `find-dated-lines` 或逐章 `iconv | nl -ba` 找日级锚点。
+2. `046.周公何辜啊！.txt` 暂未单独入库：它是李敖对杜正胜睡觉、挖鼻孔、本土派转向的评论短文，缺精确日期；后续可在第六本模糊项轮次补。
+3. `036.国家安全局对我下毒？.txt` 暂未单独入库：它含送香蕉、退国安局礼金、国安局视察时换便当等李敖日常动作，但日期不精确；后续可在第六本模糊项轮次集中补。
+4. `031.我炮口转向了.txt` 暂未入库：它是李敖转向诉讼/外部攻击的策略说明，缺精确日期；后续可在 2005 年模糊项集中处理时加入。
+5. 再分批处理 `134-142` 的起诉状与立法院公报，按“每轮只吃几份”原则拆成法律/院会链，不要一口气吞大文件。
+6. 继续时要注意：Book 6 原始 txt 多为 GB18030，直接 Read 常出现乱码；可靠流程是先 `iconv -f GB18030 -t UTF-8 ... | nl -ba`，再据此写 source.line。
 
 ## 第五本已完成重点
 
@@ -427,9 +435,9 @@ node tools/export-timeline-text.mjs
 
 ```json
 {
-  "events": 803,
+  "events": 809,
   "fifth": 220,
-  "sixth": 36,
+  "sixth": 42,
   "dups": 0,
   "missingRefs": 0,
   "badDatesOrFields": 0
@@ -444,8 +452,8 @@ node tools/export-timeline-text.mjs
 
 第六本最值得继续的路线：
 
-1. 优先处理 `046-050`，预计可补教育/学术行政质询线，尤其要看 2005-10-13 “赶去科技委员会宰李远哲”是否与 050 章衔接。
-2. 回头集中处理 `031.我炮口转向了.txt` 和 `036.国家安全局对我下毒？.txt` 这类缺确日但能说明李敖策略/日常动作的模糊项，确保放在对应年份精确日级事件之后。
+1. 优先处理 `051-061`，先判断每章是否有日级质询或发言锚点，再决定拆分粒度。
+2. 回头集中处理 `031.我炮口转向了.txt`、`036.国家安全局对我下毒？.txt`、`046.周公何辜啊！.txt` 这类缺确日但能说明李敖策略/日常/评论动作的模糊项，确保放在对应年份精确日级事件之后。
 3. 再分批处理 `134-142` 的起诉状与立法院公报。不要一口气吞下全部大文件，宜每轮只吃几份，拆成法律行动链与院会/委员会链。
 4. 第六本处理时优先补 2005-2006 的问政/军购/国安/两岸主线，把李敖立委任内时间轴先做厚，再回头吃长附录。
 5. 继续严格使用 GB18030 → UTF-8 转码后行号：`iconv -f GB18030 -t UTF-8 ... | nl -ba`。Book 6 直接 Read 常出现乱码，不能据乱码行号写 source.line。
