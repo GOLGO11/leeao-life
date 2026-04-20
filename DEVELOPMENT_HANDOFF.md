@@ -98,7 +98,7 @@ tools/export-timeline-text.mjs 的 dataFiles
 
 ## 当前计数
 
-截至第六本第六轮结束：
+截至第六本第七轮结束：
 
 ```text
 data/timeline-events.json                         32
@@ -113,15 +113,15 @@ data/timeline-events-third-book-qiao-evidence.json 16
 data/timeline-events-fourth-book.json             115
 data/timeline-events-fourth-book-deepening.json   29
 data/timeline-events-fifth-book.json              220
-data/timeline-events-sixth-book.json              42
-总计                                             809
+data/timeline-events-sixth-book.json              57
+总计                                             824
 ```
 
 `exports/leeao-current-timeline.txt` 表头已同步：
 
 ```text
-事件总数：809
-日期精度统计：day=597；year=43；undated-range=1；undated-context=99；season=17；lunar-day=1；year-after=6；month=19；half-year=2；day-range=9；month-after=2；year-range=4；year-about=5；day-after=3；year-end=1
+事件总数：824
+日期精度统计：day=612；year=43；undated-range=1；undated-context=99；season=17；lunar-day=1；year-after=6；month=19；half-year=2；day-range=9；month-after=2；year-range=4；year-about=5；day-after=3；year-end=1
 ```
 
 ## 当前处理进度
@@ -132,7 +132,7 @@ data/timeline-events-sixth-book.json              42
 data/ingestion-log.json
 ```
 
-当前最新轮次为 `iteration: 33`。
+当前最新轮次为 `iteration: 34`。
 
 已处理到第六本：
 
@@ -147,7 +147,7 @@ data/ingestion-log.json
 
 第五本《李敖快意恩仇录》已经停止深挖，并完成 1960-1961 重复事件校正，当前定格在 220 条。
 
-第六本《李敖议坛哀思录》已推进到第六轮，当前 42 条。
+第六本《李敖议坛哀思录》已推进到第七轮，当前 57 条。
 
 ## 第六本当前状态
 
@@ -193,6 +193,17 @@ data/timeline-events-sixth-book.json
 048.大学校长水肥事件.txt
 049.杜正胜听训.txt
 050.逼李远哲道歉.txt
+051.挖苦谢长廷.txt
+052.请你闭嘴！.txt
+053.护航丑证.txt
+054.作弄谢长廷之流.txt
+055.作弄“地下大使”.txt
+056.寄望小马哥.txt
+057.李敖就军购案说帖.txt
+058.马英九请吃饭.txt
+059.小马哥黄牛了.txt
+060.虽非害群之马，却见残旗之归.txt
+061.只要掐住马英九.txt
 ```
 
 当前已补入的骨架条目：
@@ -227,10 +238,20 @@ data/timeline-events-sixth-book.json
 - 2005-04-06 质询杜正胜，拿古地图批评教育部把台湾史政治化，并在同场形成“大学校长水肥事件”。
 - 2005-05-23 质询杜正胜，批评去中国化、本土语言政策和儿童课业压力。
 - 2005-10-13 赶场质询李远哲，追问中研院中立原则、2000 年支持陈水扁、美国国籍、教改责任、道歉、管碧玲冲突与清华考卷。
+- 2005-10-04 院会质询谢长廷，为黄富请命，追问军租进度，并劝谢阵前起义、公布谢聪敏稿件。
+- 2005-10-19 审查总预算时质询李杰，追问两星期防卫、美国是否救援，并警告马英九可能对军购放水。
+- 2005-11-07 审国防预算，要求说明军租细节、主张争议项目搁置，并要求删总政治作战局一半预算。
+- 2005-11-11 院会质询谢长廷，提六次恐吓、要求军租书面报告，并追问美国是否出兵与民进党党制问题。
+- 2005-12-14 质询驻美代表李大维，追问打指模、两星期防卫和美国可能不来救台湾。
+- 2005-12-23 写公开信给马英九，附军购案五项澄清说帖。
+- 2006-04-21 与马英九午餐谈军购，要求赴国民党中常会“单刀赴会”。
+- 2006-09-19 写“掐住马英九”顺口溜并声援反军购大联盟。
+- 2007-04-04 写“马英九是陈水扁八大贵人”。
+- 2007-06-01 写信请金溥聪转交马英九，追问中常会军购演讲承诺黄牛。
 
 第六本当前最值得继续的路线：
 
-1. 可继续处理 `051-061`，预计仍是教育、文宣、政治问政材料；先用 `find-dated-lines` 或逐章 `iconv | nl -ba` 找日级锚点。
+1. 可继续处理 `063-080`，因为 `062`、`065`、`081` 已在第二轮处理过；建议先扫 063-080 的日期锚点，避免和既有 2006 反军购行动重复。
 2. `046.周公何辜啊！.txt` 暂未单独入库：它是李敖对杜正胜睡觉、挖鼻孔、本土派转向的评论短文，缺精确日期；后续可在第六本模糊项轮次补。
 3. `036.国家安全局对我下毒？.txt` 暂未单独入库：它含送香蕉、退国安局礼金、国安局视察时换便当等李敖日常动作，但日期不精确；后续可在第六本模糊项轮次集中补。
 4. `031.我炮口转向了.txt` 暂未入库：它是李敖转向诉讼/外部攻击的策略说明，缺精确日期；后续可在 2005 年模糊项集中处理时加入。
@@ -435,9 +456,9 @@ node tools/export-timeline-text.mjs
 
 ```json
 {
-  "events": 809,
+  "events": 824,
   "fifth": 220,
-  "sixth": 42,
+  "sixth": 57,
   "dups": 0,
   "missingRefs": 0,
   "badDatesOrFields": 0
@@ -452,7 +473,7 @@ node tools/export-timeline-text.mjs
 
 第六本最值得继续的路线：
 
-1. 优先处理 `051-061`，先判断每章是否有日级质询或发言锚点，再决定拆分粒度。
+1. 优先处理 `063-080`，注意 `062.公听会听我言.txt`、`065.我当场撕掉国防部文件.txt`、`081.喷瓦斯事件.txt` 已处理过，避免重复。
 2. 回头集中处理 `031.我炮口转向了.txt`、`036.国家安全局对我下毒？.txt`、`046.周公何辜啊！.txt` 这类缺确日但能说明李敖策略/日常/评论动作的模糊项，确保放在对应年份精确日级事件之后。
 3. 再分批处理 `134-142` 的起诉状与立法院公报。不要一口气吞下全部大文件，宜每轮只吃几份，拆成法律行动链与院会/委员会链。
 4. 第六本处理时优先补 2005-2006 的问政/军购/国安/两岸主线，把李敖立委任内时间轴先做厚，再回头吃长附录。

@@ -898,5 +898,346 @@
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/050.逼李远哲道歉.txt",
       "line": 103
     }
+  },
+  {
+    "id": "book6-2005-10-04-questions-hsieh-on-huang-fu-arms-rental-and-military-procurement",
+    "date": "2005-10-04",
+    "displayDate": "2005年10月4日",
+    "datePrecision": "day",
+    "title": "李敖院会质询谢长廷，为黄富请命并追问军租进度",
+    "summary": "《挖苦谢长廷》写，2005年10月4日李敖在院会质询行政院长谢长廷，先继林弘宣之后为已成游民的民进党大老黄富请命，要求谢特别照顾；随后追问4月12日谢同意军购、军租并行后，为何至今没有向他报告军租进度，并继续从军购、军租、高铁和谢长廷是否替陈水扁背黑锅等问题上施压。",
+    "view": ["政治线", "立法院线", "军购线", "交游线"],
+    "tags": ["谢长廷", "黄富", "林弘宣", "军租", "军购", "高铁"],
+    "people": ["李敖", "谢长廷", "黄富", "林弘宣", "陈水扁", "马英九", "殷琪"],
+    "places": ["立法院院会", "台北"],
+    "works": ["李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book6-2005-04-12-asks-hsieh-changting-to-pursue-arms-rental",
+      "book6-2005-04-12-asks-hsieh-to-care-for-lin-hongxuan-and-criticizes-du-zhengsheng"
+    ],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "051.挖苦谢长廷",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/051.挖苦谢长廷.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2005-10-04-presses-hsieh-to-break-with-chen-and-publish-hsieh-tsungmin-statement",
+    "date": "2005-10-04",
+    "displayDate": "2005年10月4日同场质询",
+    "datePrecision": "day",
+    "title": "李敖劝谢长廷阵前起义，并公布谢聪敏稿件",
+    "summary": "同场质询后段，李敖以党外旧友身份劝谢长廷不要继续替陈水扁背黑锅，甚至提出“辞职”或“阵前起义”两条路；他还说将印发谢聪敏交给他的稿件，借谢聪敏、彭明敏、李鸿禧、辜宽敏等党外旧案，批评民进党当道者背叛党外理想，要求谢长廷以聪明、慈悲和勇气向陈水扁抗议。",
+    "view": ["政治线", "立法院线", "党外线", "思想线"],
+    "tags": ["谢长廷", "陈水扁", "谢聪敏", "党外", "阵前起义", "背黑锅"],
+    "people": ["李敖", "谢长廷", "谢聪敏", "陈水扁", "彭明敏", "李鸿禧", "辜宽敏", "范巽绿", "许世楷"],
+    "places": ["立法院院会", "台北"],
+    "works": ["台湾人民自救运动宣言", "谢长廷通讯", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2005-10-04-questions-hsieh-on-huang-fu-arms-rental-and-military-procurement"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "051.挖苦谢长廷",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/051.挖苦谢长廷.txt",
+      "line": 23
+    }
+  },
+  {
+    "id": "book6-2005-10-19-questions-li-jie-on-two-week-defense-and-us-rescue",
+    "date": "2005-10-19",
+    "displayDate": "2005年10月19日",
+    "datePrecision": "day",
+    "title": "李敖审预算时质询李杰，逼出台湾只能抵抗两星期再等美国",
+    "summary": "《请你闭嘴！》写，2005年10月19日李敖在审查2006年度政府总预算案时质询国防部长李杰，先要求官员不要影响发言，又拿立法院预算中心资料和公投文件批评国防部乱编预算；随后追问如果大陆攻台，现有军力能抵抗多久，李杰答复全力来打约两个礼拜，李敖据此追问两个礼拜后若美国不来，军购是否只会让台湾战到一兵一卒。",
+    "view": ["政治线", "立法院线", "军购线", "预算线"],
+    "tags": ["李杰", "2006年度政府总预算", "两星期", "与台湾关系法", "请你闭嘴", "公投"],
+    "people": ["李敖", "李杰", "王拓", "陈水扁"],
+    "places": ["立法院", "台北"],
+    "works": ["与台湾关系法", "宪法", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2005-03-23-questions-li-jie-on-p3c-rental-and-undefended-taiwan"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "052.请你闭嘴！",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/052.请你闭嘴！.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2005-10-19-warns-ma-yingjeou-may-release-kmt-arms-procurement",
+    "date": "2005-10-19",
+    "displayDate": "2005年10月19日同场质询",
+    "datePrecision": "day",
+    "title": "李敖质询李杰时警告马英九可能对军购放水",
+    "summary": "同场质询中，李敖拿三轮车追汽车比喻台湾军购追不上大陆军力，又拿马英九童年照片说国民党可能放水让军购过关，点名关中小组和军火商关系，怀疑马英九会屈服于美国压力或选票压力；他还借宋楚瑜怕被李敖骂而不明写支持军购的说法，强化自己在反军购链中的制衡角色。",
+    "view": ["政治线", "立法院线", "军购线", "国民党线"],
+    "tags": ["马英九", "关中", "军购", "三轮车追汽车", "宋楚瑜", "爱国者导弹"],
+    "people": ["李敖", "李杰", "马英九", "关中", "宋楚瑜", "陈水扁", "李海东", "王世坚"],
+    "places": ["立法院", "台北"],
+    "works": ["与台湾关系法", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book6-2005-10-19-questions-li-jie-on-two-week-defense-and-us-rescue",
+      "book6-2005-10-04-questions-hsieh-on-huang-fu-arms-rental-and-military-procurement"
+    ],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "052.请你闭嘴！",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/052.请你闭嘴！.txt",
+      "line": 73
+    }
+  },
+  {
+    "id": "book6-2005-11-07-objects-to-defense-budget-review-and-demands-arms-rental-details",
+    "date": "2005-11-07",
+    "displayDate": "2005年11月7日",
+    "datePrecision": "day",
+    "title": "李敖审国防预算，要求说明军租细节并主张争议项目搁置",
+    "summary": "《护航丑证》写，2005年11月7日李敖参加2006年度政府总预算国防部主管公开部分审查，开场即指出谢长廷曾称军购、军租并存，但预算书仍未说明哪些武器可以租、不必买，因此预算书太粗糙，主张应全部搁置；会议随后以逐目审查和有争议项目留待最后处理的方式进行。",
+    "view": ["政治线", "立法院线", "军购线", "预算线"],
+    "tags": ["李文忠", "国防预算", "军租", "2006年度政府总预算", "搁置", "护航"],
+    "people": ["李敖", "李文忠", "谢长廷", "林沧敏", "林郁方"],
+    "places": ["立法院国防委员会", "台北"],
+    "works": ["李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2005-10-04-questions-hsieh-on-huang-fu-arms-rental-and-military-procurement"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "053.护航丑证",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/053.护航丑证.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2005-11-07-demands-half-cut-of-general-political-warfare-bureau-budget",
+    "date": "2005-11-07",
+    "displayDate": "2005年11月7日同场审查",
+    "datePrecision": "day",
+    "title": "李敖要求删总政治作战局一半预算，批评李文忠护航",
+    "summary": "同场预算审查中，李敖围绕陈国祥事件和政战业务预算发言，主张总政治作战局是蒋介石为蒋经国量身定做的军中特务衙门，可用删预算的方式让它自然消灭；他原本要全部删除，经丁守中、苏起协商后提出删减一半，并以《青年日报》和“一报三刊”预算为例批评总政战局虚报与浪费。最后相关删减案被送全院联席会，李敖斥李文忠护航丑陋。",
+    "view": ["政治线", "立法院线", "军队线", "预算线"],
+    "tags": ["总政治作战局", "青年日报", "陈国祥", "国防法", "李文忠", "预算删减"],
+    "people": ["李敖", "李文忠", "李杰", "丁守中", "苏起", "林郁方", "陈国祥", "廖婉汝"],
+    "places": ["立法院国防委员会", "台北"],
+    "works": ["青年日报", "国防法", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book6-2005-11-07-objects-to-defense-budget-review-and-demands-arms-rental-details",
+      "book6-2005-05-18-questions-cai-mingxian-on-military-publications"
+    ],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "053.护航丑证",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/053.护航丑证.txt",
+      "line": 155
+    }
+  },
+  {
+    "id": "book6-2005-11-11-questions-hsieh-on-death-threats-and-arms-rental-written-report",
+    "date": "2005-11-11",
+    "displayDate": "2005年11月11日",
+    "datePrecision": "day",
+    "title": "李敖院会质询谢长廷，提六次恐吓并要求军租书面报告",
+    "summary": "《作弄谢长廷之流》写，2005年11月11日李敖在院会质询谢长廷，开场说自9月以来不到两个月收到六次恐吓，前四次血袋、第五次蟑螂、前一天子弹，要求行政院关心；随后拿出谢长廷十年前8月18日写给他的信，追问军购、军租并行已七个月却没有报告进度，谢长廷当场表示若国防部未书面报告，应向李敖道歉并补报告。",
+    "view": ["政治线", "立法院线", "军购线", "司法线"],
+    "tags": ["谢长廷", "恐吓", "血袋", "蟑螂", "子弹", "军租", "书面报告"],
+    "people": ["李敖", "谢长廷", "李杰", "杜十三"],
+    "places": ["立法院院会", "台北"],
+    "works": ["与台湾关系法", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2005-10-04-questions-hsieh-on-huang-fu-arms-rental-and-military-procurement"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "054.作弄谢长廷之流",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/054.作弄谢长廷之流.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2005-11-11-presses-hsieh-on-us-rescue-and-dpp-party-structure",
+    "date": "2005-11-11",
+    "displayDate": "2005年11月11日同场质询",
+    "datePrecision": "day",
+    "title": "李敖追问谢长廷美国是否出兵，并批评民进党变成“小国民党”",
+    "summary": "同场质询后段，李敖把李杰“两星期”说法转向谢长廷，要求行政院长说明若美国不来台湾军购能证明什么，并请谢以书面说明美国态度；接着他追问谢长廷当年设计民进党党纲党章，是否后悔没有做成英美式柔性政党而成为列宁体制式“小国民党”，最后以谢长廷文章中的“两岸和平”句子要求行政院重新思考国防政策。",
+    "view": ["政治线", "立法院线", "军购线", "党外线"],
+    "tags": ["谢长廷", "与台湾关系法", "两星期", "民进党党纲", "小国民党", "两岸和平"],
+    "people": ["李敖", "谢长廷", "李杰", "尤清", "姚文智", "克里孟梭"],
+    "places": ["立法院院会", "台北"],
+    "works": ["与台湾关系法", "党外党", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book6-2005-11-11-questions-hsieh-on-death-threats-and-arms-rental-written-report",
+      "book6-2005-10-19-questions-li-jie-on-two-week-defense-and-us-rescue"
+    ],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "054.作弄谢长廷之流",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/054.作弄谢长廷之流.txt",
+      "line": 35
+    }
+  },
+  {
+    "id": "book6-2005-12-14-questions-li-dawei-on-us-fingerprinting-and-two-week-defense",
+    "date": "2005-12-14",
+    "displayDate": "2005年12月14日",
+    "datePrecision": "day",
+    "title": "李敖质询李大维，追问入境美国打指模与两星期防卫说",
+    "summary": "《作弄“地下大使”》写，2005年12月14日李敖在外交及侨务委员会质询驻美代表李大维，先追问李大维上任一年多的成绩和入境美国打指模屈辱事件，再把问题转向军购：若台湾买武器只能抵抗两个星期，之后等待美国救援，驻美代表是否知道美国会不会来。",
+    "view": ["政治线", "立法院线", "外交线", "军购线"],
+    "tags": ["李大维", "驻美代表", "打指模", "两星期", "外交辞令", "地下大使"],
+    "people": ["李敖", "李大维", "吴淑珍", "李杰"],
+    "places": ["立法院外交及侨务委员会", "台北", "美国"],
+    "works": ["与台湾关系法", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2005-10-19-questions-li-jie-on-two-week-defense-and-us-rescue"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "055.作弄“地下大使”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/055.作弄“地下大使”.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2005-12-14-gets-li-dawei-to-admit-us-may-not-rescue-taiwan",
+    "date": "2005-12-14",
+    "displayDate": "2005年12月14日同场质询",
+    "datePrecision": "day",
+    "title": "李敖引用李大维旧著，逼其承认美国可能不会救台湾",
+    "summary": "同场质询中，李敖引用李大维博士论文和《与台湾关系法》安全条款，列举1956年匈牙利、1975年安哥拉、1976年朝鲜杀美军、1979年中越战争四个美国“严重关切”却未出兵的案例，追问如果美国对台也只是严重关切怎么办；李大维承认美国不来“当然有可能”，李敖据此总结台湾军购把安全寄托在猜谜式外交辞令上。",
+    "view": ["政治线", "立法院线", "外交线", "军购线"],
+    "tags": ["李大维", "与台湾关系法", "严重关切", "美国救援", "裴西", "安全模糊"],
+    "people": ["李敖", "李大维", "李杰", "裴西", "苏起", "黄适卓"],
+    "places": ["立法院外交及侨务委员会", "台北"],
+    "works": ["与台湾关系法", "李大维博士论文", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2005-12-14-questions-li-dawei-on-us-fingerprinting-and-two-week-defense"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "055.作弄“地下大使”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/055.作弄“地下大使”.txt",
+      "line": 57
+    }
+  },
+  {
+    "id": "book6-2005-12-23-writes-open-letter-to-ma-yingjeou-with-arms-procurement-briefing",
+    "date": "2005-12-23",
+    "displayDate": "2005年12月23日",
+    "datePrecision": "day",
+    "title": "李敖写公开信给马英九，附军购案五项澄清说帖",
+    "summary": "《寄望小马哥》《李敖就军购案说帖》写，2005年12月23日李敖锁定国民党主席马英九，写成《致马英九主席老弟公开信》，要求马不再以“谢谢指教”应付军购问题；信中提出五项澄清，包括《与台湾关系法》不是台湾保护法、只说严重关切、基于美国利益、provide 不等于花钱军购，以及美国在法律上把台湾置于尴尬位置，要求马在澄清前坚持削减、冻结国防开支。",
+    "view": ["政治线", "军购线", "国民党线", "写作线"],
+    "tags": ["马英九", "公开信", "军购案说帖", "与台湾关系法", "provide", "国民党主席"],
+    "people": ["李敖", "马英九", "李大维", "李杰", "罗斯", "裴西", "沈剑虹", "严复"],
+    "places": ["台北"],
+    "works": ["致马英九主席老弟公开信", "李敖就军购案说帖", "与台湾关系法", "中美建交公报", "使美八年纪要", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book6-2005-12-14-gets-li-dawei-to-admit-us-may-not-rescue-taiwan",
+      "book6-2005-10-19-warns-ma-yingjeou-may-release-kmt-arms-procurement"
+    ],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "056.寄望小马哥",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/056.寄望小马哥.txt",
+      "line": 7
+    },
+    "additionalSources": [
+      {
+        "book": "李敖议坛哀思录",
+        "chapter": "057.李敖就军购案说帖",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/057.李敖就军购案说帖.txt",
+        "line": 3
+      }
+    ]
+  },
+  {
+    "id": "book6-2006-04-21-lunch-with-ma-yingjeou-on-arms-procurement-and-kmt-speech",
+    "date": "2006-04-21",
+    "displayDate": "2006年4月21日",
+    "datePrecision": "day",
+    "title": "马英九请李敖吃午饭谈军购，李敖要求赴国民党中常会“单刀赴会”",
+    "summary": "《马英九请吃饭》写，2006年4月21日马英九在牡丹园餐厅请李敖吃午饭，金惟纯、金溥聪在座，双方就军购问题交换意见但未达成共识；会后李敖表示单独劝马英九没有用，要去国民党中央常务委员会公开劝说整个团队，题目是“如何让国民党醒过来”，并说要“单刀赴会把他们给宰掉”。",
+    "view": ["政治线", "军购线", "国民党线", "交游线"],
+    "tags": ["马英九", "牡丹园", "军购", "国民党中常会", "单刀赴会", "联合报"],
+    "people": ["李敖", "马英九", "金惟纯", "金溥聪", "邱毅", "范凌嘉"],
+    "places": ["牡丹园餐厅", "台北", "国民党中央常务委员会"],
+    "works": ["联合报", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2005-12-23-writes-open-letter-to-ma-yingjeou-with-arms-procurement-briefing"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "058.马英九请吃饭",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/058.马英九请吃饭.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2006-09-19-writes-grab-ma-yingjeou-doggerel-and-joins-anti-arms-procurement-protest",
+    "date": "2006-09-19",
+    "displayDate": "2006年9月19日",
+    "datePrecision": "day",
+    "title": "李敖写“掐住马英九”顺口溜，并声援反军购大联盟",
+    "summary": "《只要掐住马英九》写，2006年9月19日李敖顺手写三首总名“掐住马英九”的顺口溜，主张反军购、删国防、把国防预算移作民生，并点出国民党在立法院过半、关键只在马英九；同日媒体报道立法院开议蓝绿对决，李敖作打油诗要掐马英九脖子，且到立法院外声援反军购大联盟，表示应在立法院以逸待劳，提倒阁、挡军购、删预算。",
+    "view": ["政治线", "立法院线", "军购线", "国民党线"],
+    "tags": ["掐住马英九", "顺口溜", "反军购大联盟", "倒阁", "删预算", "雅虎奇摩新闻"],
+    "people": ["李敖", "马英九", "苏贞昌", "施明德", "高金素梅", "李杰"],
+    "places": ["立法院", "台北"],
+    "works": ["掐住马英九", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book6-2006-04-21-lunch-with-ma-yingjeou-on-arms-procurement-and-kmt-speech",
+      "book6-2006-10-24-tear-gas-at-procedure-committee-to-block-arms-purchase"
+    ],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "061.只要掐住马英九",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/061.只要掐住马英九.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2007-04-04-writes-ma-yingjeou-as-eight-benefactors-of-chen-shuibian",
+    "date": "2007-04-04",
+    "displayDate": "2007年4月4日",
+    "datePrecision": "day",
+    "title": "李敖写“马英九是陈水扁八大贵人”，批评马多次使扁得利",
+    "summary": "《虽非害群之马，却见残旗之归》收录李敖2007年4月4日文字“马英九是陈水扁八大贵人”，列举马英九从台北市长选胜、2000年大选前夜民调、2004年投废票运动、三一九枪击后未促停办大选、特别费转移焦点等八点，使陈水扁得利或脱困，最后以“虽非害群之马，却见残旗之归”作结。",
+    "view": ["政治线", "国民党线", "写作线"],
+    "tags": ["马英九", "陈水扁", "八大贵人", "三一九枪击", "特别费", "残旗之归"],
+    "people": ["李敖", "马英九", "陈水扁", "宋楚瑜", "连战"],
+    "places": ["台北"],
+    "works": ["马英九是陈水扁八大贵人", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2006-09-19-writes-grab-ma-yingjeou-doggerel-and-joins-anti-arms-procurement-protest"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "060.虽非害群之马，却见残旗之归",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/060.虽非害群之马，却见残旗之归.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2007-06-01-writes-ma-yingjeou-through-king-pu-tsung-over-broken-kmt-speech-promise",
+    "date": "2007-06-01",
+    "displayDate": "2007年6月1日",
+    "datePrecision": "day",
+    "title": "李敖写信请金溥聪转交马英九，追问中常会军购演讲承诺黄牛",
+    "summary": "《小马哥黄牛了》写，马英九2006年4月21日答应请李敖到国民党中常会谈军购，后来没有兑现；2007年6月1日金溥聪出面邀李敖餐叙时，李敖写信请金转交马英九，追问一年来未见“合理军购”共商，也未见中常会“单刀赴会”安排，并批评国民党长期单边主义决定他人命运。李敖记马收信后有风度地道歉，但军购终于放水，已太迟。",
+    "view": ["政治线", "军购线", "国民党线", "通信线"],
+    "tags": ["马英九", "金溥聪", "军购", "国民党中常会", "黄牛", "单边主义"],
+    "people": ["李敖", "马英九", "金溥聪", "蒋经国"],
+    "places": ["台北"],
+    "works": ["李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2006-04-21-lunch-with-ma-yingjeou-on-arms-procurement-and-kmt-speech"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "059.小马哥黄牛了",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/059.小马哥黄牛了.txt",
+      "line": 3
+    }
   }
 ]
