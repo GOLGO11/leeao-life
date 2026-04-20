@@ -563,5 +563,211 @@
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/035.钢笔事件.txt",
       "line": 25
     }
+  },
+  {
+    "id": "book6-2005-03-14-questions-xue-shimin-on-nsb-secrecy-and-taizongyuan-money",
+    "date": "2005-03-14",
+    "displayDate": "2005年3月14日",
+    "datePrecision": "day",
+    "title": "李敖首次质询薛石民，追问国安局机密报告、密账与台综院款项",
+    "summary": "《安全不是黑暗作业的护符》写，2005年3月14日李敖在国防委员会质询国家安全局局长薛石民，把《自由中国》社论题旨改写成“安全不是黑暗作业的护符”，抗议国安局给立委看文件后又收回，并从刘冠军偷渡、潘希贤赴大陆、李登辉台综院款项、蔡英文收据和秘密基金切入，逼问所谓机密是否正在遮蔽贪腐与追索责任。",
+    "view": ["政治线", "立法院线", "国安局线", "司法线"],
+    "tags": ["薛石民", "国家安全局", "刘冠军", "台综院", "秘密基金", "安全不是黑暗作业的护符"],
+    "people": ["李敖", "薛石民", "李登辉", "刘冠军", "潘希贤", "丁渝洲", "蔡英文", "徐炳强"],
+    "places": ["立法院国防委员会", "台北"],
+    "works": ["自由中国", "亚洲周刊", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": [],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "037.安全不是黑暗作业的护符",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/037.安全不是黑暗作业的护符.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2005-03-14-shows-nsb-secret-files-on-lee-tenghui-nobel-campaign",
+    "date": "2005-03-14",
+    "displayDate": "2005年3月14日同场质询",
+    "datePrecision": "day",
+    "title": "李敖拿出国安局密件，称李登辉争诺贝尔和平奖花费四十四万余美元",
+    "summary": "《“大师说是真的，那大概就是真的。”》续录同场质询，李敖坚持手中国安局内部文件为真，指出文件记载以美金447878元为李登辉争取诺贝尔和平奖提名，又说《壹周刊》、海外媒体不能公布的文件却落到自己手里；薛石民回应“为了国家安全”希望他不要随便发表，李敖则要求国安局追查文件外泄与内部贪腐，而非只防立委。",
+    "view": ["政治线", "立法院线", "国安局线", "媒体线"],
+    "tags": ["薛石民", "国家安全局", "密件", "诺贝尔和平奖", "亚洲周刊", "李大师"],
+    "people": ["李敖", "薛石民", "李登辉", "刘冠军", "蔡英文"],
+    "places": ["立法院国防委员会", "台北"],
+    "works": ["壹周刊", "亚洲周刊", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2005-03-14-questions-xue-shimin-on-nsb-secrecy-and-taizongyuan-money"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "038.“大师说是真的，那大概就是真的。”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/038.“大师说是真的，那大概就是真的。”.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2005-03-28-presses-xue-to-sue-lee-tenghui-and-attach-taizongyuan-assets",
+    "date": "2005-03-28",
+    "displayDate": "2005年3月28日",
+    "datePrecision": "day",
+    "title": "李敖再质询薛石民，要求国安局告李登辉并假扣押台综院财产",
+    "summary": "《国安局礼遇“强奸犯”李登辉》写，2005年3月28日李敖再次质询薛石民，追问3月14日承诺追回台综院790万美元后的进度，主张国安局应以被害人身份按《贪污治罪条例》告李登辉，并对台综院申请假扣押；他还说可三天内替国安局写好状子，甚至愿公开募捐假扣押所需担保金。",
+    "view": ["政治线", "立法院线", "国安局线", "司法线"],
+    "tags": ["薛石民", "李登辉", "台综院", "贪污治罪条例", "假扣押", "国安密账"],
+    "people": ["李敖", "薛石民", "李登辉", "徐炳强", "谢长廷"],
+    "places": ["立法院国防委员会", "台北"],
+    "works": ["贪污治罪条例", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2005-03-14-questions-xue-shimin-on-nsb-secrecy-and-taizongyuan-money"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "039.国安局礼遇“强奸犯”李登辉",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/039.国安局礼遇“强奸犯”李登辉.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2005-03-28-criticizes-nsb-report-and-cross-strait-hatred",
+    "date": "2005-03-28",
+    "displayDate": "2005年3月28日同场质询",
+    "datePrecision": "day",
+    "title": "李敖批评国安局报告敷衍，要求薛石民不要制造两岸仇恨",
+    "summary": "《“阴门阵”与“屁股阵”》续录同场质询，李敖把国安局报告中对抗中共的另类形象批成“花拳绣腿”，以义和团“阴门阵”和“小屁屁”意象讽刺政治表演，要求薛石民以情报首长身份说真话、停止制造两岸仇恨，并提醒他不要只在队伍中戴太阳眼镜而不承担国家安全责任。",
+    "view": ["政治线", "立法院线", "国安局线", "两岸线"],
+    "tags": ["薛石民", "国安局报告", "两岸关系", "阴门阵", "屁股阵", "国家安全"],
+    "people": ["李敖", "薛石民", "汤因比", "陈水扁"],
+    "places": ["立法院国防委员会", "台北"],
+    "works": ["李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2005-03-28-presses-xue-to-sue-lee-tenghui-and-attach-taizongyuan-assets"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "040.“阴门阵”与“屁股阵”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/040.“阴门阵”与“屁股阵”.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2005-05-04-questions-wang-jinwang-on-taizongyuan-lawyers-and-written-answer",
+    "date": "2005-05-04",
+    "displayDate": "2005年5月4日",
+    "datePrecision": "day",
+    "title": "李敖质询王进旺，追问台综院追款为何迟未委任律师",
+    "summary": "《副局长要毒死谁？》写，2005年5月4日李敖在国防委员会质询国安局副局长王进旺，先以到国安局吃便当后肚痛开玩笑，随即追问薛石民3月28日称要找律师研究台综院追款，王进旺却说两周内才会委任律师；李敖质疑国安局说法不一、追讨李登辉台综院至少3.1亿元太慢，并要求两周内书面答复。",
+    "view": ["政治线", "立法院线", "国安局线", "司法线"],
+    "tags": ["王进旺", "台综院", "国安密账", "律师", "书面答复", "便当"],
+    "people": ["李敖", "王进旺", "薛石民", "李登辉", "徐炳强"],
+    "places": ["立法院国防委员会", "台北"],
+    "works": ["李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2005-03-28-presses-xue-to-sue-lee-tenghui-and-attach-taizongyuan-assets"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "041.副局长要毒死谁？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/041.副局长要毒死谁？.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2005-05-04-questions-wang-on-liu-guanjun-verdict-and-taizongyuan-fourth-site",
+    "date": "2005-05-04",
+    "displayDate": "2005年5月4日同场质询",
+    "datePrecision": "day",
+    "title": "李敖追问王进旺刘冠军下落、徐炳强判决书与台综院第四所",
+    "summary": "同场质询后段，李敖追问国安局所谓抓刘冠军的“非常手段”、刘冠军是否仍在大陆，又质疑徐炳强二审判决书为何不公布，以及国安局是否通知法院列为机密；他还要求参观台湾综合研究院第四所，并要求国安局说明1995年至1999年预算中是否有一千万美元出账。",
+    "view": ["政治线", "立法院线", "国安局线", "司法线"],
+    "tags": ["王进旺", "刘冠军", "徐炳强", "判决书", "台综院第四所", "机密审判"],
+    "people": ["李敖", "王进旺", "刘冠军", "徐炳强", "刘泰英", "李文忠"],
+    "places": ["立法院国防委员会", "台北", "台湾综合研究院第四所"],
+    "works": ["李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2005-05-04-questions-wang-jinwang-on-taizongyuan-lawyers-and-written-answer"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "041.副局长要毒死谁？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/041.副局长要毒死谁？.txt",
+      "line": 69
+    }
+  },
+  {
+    "id": "book6-2005-05-12-questions-xue-on-xu-bingqiang-verdict-and-destroyed-files",
+    "date": "2005-05-12",
+    "displayDate": "2005年5月12日赶场后",
+    "datePrecision": "day",
+    "title": "李敖质询薛石民，追问徐炳强判决书与李登辉批文档案是否被毁",
+    "summary": "《还是档案被销毁了？》写，2005年5月12日李敖从科技及资讯委员会赶场到国防委员会后，质询薛石民和国安局法制组，追问徐炳强判决书为何被列为机密、国安局是否曾要求高等法院不发表判决；他说明自己要以此作为告李登辉的证据，并进一步逼问李登辉命令殷宗文拨款台综院的批文档案是否已被销毁。",
+    "view": ["政治线", "立法院线", "国安局线", "司法线"],
+    "tags": ["薛石民", "徐炳强", "判决书", "李登辉", "殷宗文", "档案销毁"],
+    "people": ["李敖", "薛石民", "陈炳林", "徐炳强", "李登辉", "殷宗文", "王进旺"],
+    "places": ["立法院国防委员会", "台北"],
+    "works": ["李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book6-2005-05-12-speaks-against-local-language-policy",
+      "book6-2005-05-04-questions-wang-on-liu-guanjun-verdict-and-taizongyuan-fourth-site"
+    ],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "042.还是档案被销毁了？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/042.还是档案被销毁了？.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2005-05-12-shows-nsb-secret-document-on-nobel-campaign-and-budget",
+    "date": "2005-05-12",
+    "displayDate": "2005年5月12日同场质询",
+    "datePrecision": "day",
+    "title": "李敖向薛石民展示诺贝尔和平奖密件，并要求说明预算与台综院进度",
+    "summary": "《国安局密件落在我手里》《局长想赖？》续录同场质询，李敖拿出殷宗文呈给李登辉、涉及争取诺贝尔和平奖提名的国安局内部秘密文件，强调预算为美金447878元，并追问若陈水扁也要求国安局推动诺贝尔和平奖，薛石民是否会拨款；他还追问台综院是否只剩债务关系，要求两周内以书面资料报告追款进度。",
+    "view": ["政治线", "立法院线", "国安局线", "司法线"],
+    "tags": ["薛石民", "国安局密件", "诺贝尔和平奖", "预算", "台综院", "书面报告"],
+    "people": ["李敖", "薛石民", "李登辉", "殷宗文", "陈水扁"],
+    "places": ["立法院国防委员会", "台北"],
+    "works": ["李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book6-2005-05-12-questions-xue-on-xu-bingqiang-verdict-and-destroyed-files",
+      "book6-2005-03-14-shows-nsb-secret-files-on-lee-tenghui-nobel-campaign"
+    ],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "043.国安局密件落在我手里",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/043.国安局密件落在我手里.txt",
+      "line": 3
+    },
+    "additionalSources": [
+      {
+        "book": "李敖议坛哀思录",
+        "chapter": "044.局长想赖？",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/044.局长想赖？.txt",
+        "line": 3
+      }
+    ]
+  },
+  {
+    "id": "book6-2005-10-13-asks-xue-about-bananas-and-criticizes-nsb-enemy-framework",
+    "date": "2005-10-13",
+    "displayDate": "2005年10月13日",
+    "datePrecision": "day",
+    "title": "李敖问薛石民“香蕉好吃吗”，并批评国安局缺少化敌为友视野",
+    "summary": "《香蕉好吃吗？》写，2005年10月13日李敖在国防委员会质询薛石民，开场问国安局收到的香蕉好不好吃，随后拒看会后要收回的国安局报告，批评国安局仍以围堵、防范和敌对为大前提，而没有把化敌为友作为国家安全方法；他借林肯消灭政敌的故事劝薛石民放宽视野，并说自己因还要赶去科技委员会“宰李远哲”，所以把怒气保留下来。",
+    "view": ["政治线", "立法院线", "国安局线", "两岸线"],
+    "tags": ["薛石民", "香蕉", "国安局报告", "化敌为友", "两岸关系", "李远哲"],
+    "people": ["李敖", "薛石民", "李登辉", "陈水扁", "刘泰英", "李远哲", "林肯"],
+    "places": ["立法院国防委员会", "台北"],
+    "works": ["李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book6-2005-03-28-criticizes-nsb-report-and-cross-strait-hatred",
+      "book6-2005-05-12-shows-nsb-secret-document-on-nobel-campaign-and-budget"
+    ],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "045.香蕉好吃吗？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/045.香蕉好吃吗？.txt",
+      "line": 3
+    }
   }
 ]
