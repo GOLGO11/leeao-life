@@ -16,7 +16,7 @@
 - 已建立第三本乔家才黑牢证据链第二轮数据：`data/timeline-events-third-book-qiao-evidence.json`
 - 已建立第四本第一轮数据：`data/timeline-events-fourth-book.json`
 - 已建立第四本深挖增量数据：`data/timeline-events-fourth-book-deepening.json`
-- 已推进第五本第八轮数据：`data/timeline-events-fifth-book.json`（221 条）
+- 已推进第五本第八轮数据并完成1960-1961重复事件校正：`data/timeline-events-fifth-book.json`（220 条）
 - 已推进第六本第三轮数据：`data/timeline-events-sixth-book.json`（21 条）
 - 已建立逐书处理日志：`data/ingestion-log.json`
 - 已生成研究校对用当前总表：`exports/leeao-current-timeline.txt`

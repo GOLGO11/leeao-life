@@ -585,27 +585,6 @@
     }
   },
   {
-    "id": "book5-1961-02-06-demobilizes-at-penghu-arrives-kaohsiung",
-    "date": "1961-02-06",
-    "displayDate": "1961年2月6日",
-    "datePrecision": "day",
-    "title": "李敖在澎湖退伍并午后抵达高雄",
-    "summary": "《委蜕纪》开篇写，1961年2月6日李敖在澎湖退伍，午后抵达高雄，军旅阶段告一段落。",
-    "view": ["生平线", "军旅线"],
-    "tags": ["退伍", "澎湖", "高雄"],
-    "people": ["李敖"],
-    "places": ["澎湖", "高雄"],
-    "works": ["李敖快意恩仇录"],
-    "certainty": "confirmed",
-    "crossReferences": ["1961-02-06-return-warship"],
-    "source": {
-      "book": "李敖快意恩仇录",
-      "chapter": "007.委蜕纪",
-      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/007.委蜕纪.txt",
-      "line": 5
-    }
-  },
-  {
     "id": "book5-1961-02-17-rents-four-mat-room",
     "date": "1961-02-17",
     "displayDate": "1961年2月17日",

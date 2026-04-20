@@ -53,6 +53,13 @@ function sourceLine(event) {
   return `${event.source.book} / ${event.source.chapter} / line ${event.source.line}`;
 }
 
+function additionalSourceLines(event) {
+  return (event.additionalSources || []).map((source) => {
+    const note = source.note ? `；说明：${source.note}` : "";
+    return `${source.book} / ${source.chapter} / line ${source.line}${note}`;
+  });
+}
+
 const events = dataFiles
   .flatMap((file) => readJson(file).map((event) => ({ ...event, dataFile: file })))
   .sort(compareEvents);
@@ -90,6 +97,8 @@ for (const event of events) {
   lines.push(`  作品：${(event.works || []).join("、") || "-"}`);
   lines.push(`  交叉引用：${(event.crossReferences || []).join("、") || "-"}`);
   lines.push(`  来源：${sourceLine(event)}`);
+  const extraSources = additionalSourceLines(event);
+  lines.push(`  补充来源：${extraSources.length ? extraSources.join("；") : "-"}`);
   lines.push(`  文件：${event.source.path}`);
   lines.push(`  数据：${event.dataFile}#${event.id}`);
 }

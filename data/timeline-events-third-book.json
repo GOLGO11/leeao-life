@@ -173,7 +173,7 @@
     "tags": ["军队", "张永亭", "预备军官", "七五炮打冲锋"],
     "people": ["李敖", "张永亭"],
     "places": ["台南县新化", "五甲势"],
-    "works": ["我最难忘的一个老兵"],
+    "works": ["我最难忘的一个老兵", "李敖回忆录"],
     "certainty": "confirmed",
     "source": {
       "book": "我最难忘的事和人",
@@ -200,7 +200,16 @@
       "chapter": "011.我最难忘的一个老兵",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/011.我最难忘的一个老兵.txt",
       "line": 27
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖回忆录",
+        "chapter": "008.军队（1959-1961·24到26岁）",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/008.军队（1959-1961·24到26岁）.txt",
+        "line": 69,
+        "note": "同一则1960年8月14日军中日记在第四本再次摘录。"
+      }
+    ]
   },
   {
     "id": "book3-1960-08-15-zhang-yongting-wins-watch-back",
@@ -213,7 +222,7 @@
     "tags": ["军队", "张永亭", "日记"],
     "people": ["李敖", "张永亭"],
     "places": ["台湾"],
-    "works": ["我最难忘的一个老兵"],
+    "works": ["我最难忘的一个老兵", "李敖回忆录"],
     "certainty": "confirmed",
     "crossReferences": ["book3-1960-08-14-zhang-yongting-redeem-watch"],
     "source": {
@@ -221,7 +230,16 @@
       "chapter": "011.我最难忘的一个老兵",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/011.我最难忘的一个老兵.txt",
       "line": 27
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖回忆录",
+        "chapter": "008.军队（1959-1961·24到26岁）",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/008.军队（1959-1961·24到26岁）.txt",
+        "line": 69,
+        "note": "同一则1960年8月15日军中日记在第四本再次摘录。"
+      }
+    ]
   },
   {
     "id": "book3-1960-08-16-zhang-yongting-loses-watch-again",
@@ -234,7 +252,7 @@
     "tags": ["军队", "张永亭", "日记"],
     "people": ["李敖", "张永亭"],
     "places": ["台湾"],
-    "works": ["我最难忘的一个老兵"],
+    "works": ["我最难忘的一个老兵", "李敖回忆录"],
     "certainty": "confirmed",
     "crossReferences": ["book3-1960-08-14-zhang-yongting-redeem-watch", "book3-1960-08-15-zhang-yongting-wins-watch-back"],
     "source": {
@@ -242,28 +260,16 @@
       "chapter": "011.我最难忘的一个老兵",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/011.我最难忘的一个老兵.txt",
       "line": 27
-    }
-  },
-  {
-    "id": "book3-1961-02-06-li-retired-penghu-zhang-sendoff",
-    "date": "1961-02-06",
-    "displayDate": "1961年2月6日",
-    "datePrecision": "day",
-    "title": "李敖在澎湖退伍，张永亭送到码头",
-    "summary": "《我最难忘的一个老兵》写李敖1961年2月6日在澎湖退伍，官兵集体送上车，张永亭随车送到码头；李敖最后赏他十元，余款仅够回家火车票。",
-    "view": ["生平线", "日常线"],
-    "tags": ["退伍", "澎湖", "张永亭", "军队"],
-    "people": ["李敖", "张永亭"],
-    "places": ["澎湖"],
-    "works": ["我最难忘的一个老兵"],
-    "certainty": "confirmed",
-    "crossReferences": ["1961-02-06-return-warship"],
-    "source": {
-      "book": "我最难忘的事和人",
-      "chapter": "011.我最难忘的一个老兵",
-      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/011.我最难忘的一个老兵.txt",
-      "line": 35
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖回忆录",
+        "chapter": "008.军队（1959-1961·24到26岁）",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/008.军队（1959-1961·24到26岁）.txt",
+        "line": 69,
+        "note": "同一则1960年8月16日军中日记在第四本再次摘录。"
+      }
+    ]
   },
   {
     "id": "book3-1961-04-27-shi-qiyang-letter",

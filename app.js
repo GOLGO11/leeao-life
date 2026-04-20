@@ -202,6 +202,11 @@ function openEvent(event) {
   const crossReferences = event.crossReferences?.length
     ? `<p class="dialog-source">交叉引用：${event.crossReferences.join("、")}</p>`
     : "";
+  const additionalSources = event.additionalSources?.length
+    ? `<p class="dialog-source">补充来源：${event.additionalSources
+        .map((source) => `${source.book} / ${source.chapter} / line ${source.line}`)
+        .join("；")}</p>`
+    : "";
   dialogBody.innerHTML = `
     <p class="dialog-date">${dateLabel(event)}</p>
     <h2>${event.title}</h2>
@@ -215,6 +220,7 @@ function openEvent(event) {
       文件：${event.source.path}<br>
       转码后行号：${event.source.line}
     </p>
+    ${additionalSources}
     ${crossReferences}
   `;
   dialog.showModal();

@@ -98,7 +98,7 @@ tools/export-timeline-text.mjs 的 dataFiles
 
 ## 当前计数
 
-截至第六本第三轮结束：
+截至第六本第三轮及 1960-1961 重复事件校正结束：
 
 ```text
 data/timeline-events.json                         32
@@ -108,20 +108,20 @@ data/timeline-events-first-book-daily.json        50
 data/timeline-events-second-book.json             67
 data/timeline-events-second-book-broad.json       27
 data/timeline-events-second-book-evidence.json    37
-data/timeline-events-third-book.json              71
+data/timeline-events-third-book.json              70
 data/timeline-events-third-book-qiao-evidence.json 16
-data/timeline-events-fourth-book.json             119
+data/timeline-events-fourth-book.json             115
 data/timeline-events-fourth-book-deepening.json   29
-data/timeline-events-fifth-book.json              221
+data/timeline-events-fifth-book.json              220
 data/timeline-events-sixth-book.json              21
-总计                                             794
+总计                                             788
 ```
 
 `exports/leeao-current-timeline.txt` 表头已同步：
 
 ```text
-事件总数：794
-日期精度统计：day=582；year=43；undated-range=1；undated-context=99；season=17；lunar-day=1；year-after=6；month=19；half-year=2；day-range=9；month-after=2；year-range=4；year-about=5；day-after=3；year-end=1
+事件总数：788
+日期精度统计：导出后以 exports/leeao-current-timeline.txt 表头为准
 ```
 
 ## 当前处理进度
@@ -132,7 +132,7 @@ data/timeline-events-sixth-book.json              21
 data/ingestion-log.json
 ```
 
-当前最新轮次为 `iteration: 29`。
+当前最新轮次为 `iteration: 30`。
 
 已处理到第六本：
 
@@ -145,7 +145,7 @@ data/ingestion-log.json
 006.李敖议坛哀思录
 ```
 
-第五本《李敖快意恩仇录》已经停止深挖，当前定格在 221 条。
+第五本《李敖快意恩仇录》已经停止深挖，并完成 1960-1961 重复事件校正，当前定格在 220 条。
 
 第六本《李敖议坛哀思录》已推进到第三轮，当前 21 条。
 
@@ -402,8 +402,8 @@ node tools/export-timeline-text.mjs
 
 ```json
 {
-  "events": 794,
-  "fifth": 221,
+  "events": 788,
+  "fifth": 220,
   "sixth": 21,
   "dups": 0,
   "missingRefs": 0,
