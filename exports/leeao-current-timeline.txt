@@ -1,9 +1,9 @@
 李敖交互式年表：当前增量纯文本备份
 生成日期：2026-04-20
-事件总数：765
+事件总数：769
 数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json
 说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。
-日期精度统计：day=559；year=43；undated-range=1；undated-context=94；season=17；lunar-day=1；year-after=6；month=19；half-year=2；day-range=9；month-after=2；year-range=4；year-about=5；day-after=2；year-end=1
+日期精度统计：day=563；year=43；undated-range=1；undated-context=94；season=17；lunar-day=1；year-after=6；month=19；half-year=2；day-range=9；month-after=2；year-range=4；year-about=5；day-after=2；year-end=1
 
 
 1935
@@ -7101,6 +7101,18 @@
   来源：李敖快意恩仇录 / 019.宣淫纪 / line 129
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/019.宣淫纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1985-04-24-fiftieth-birthday-eve-sexual-self-defense-dialogue
+- 1985年50岁生日前夕 | 苏荣泉和李放送李敖三义大木雕佛像作寿礼，李敖令其折现
+  精度：day；可靠度：confirmed；排序日期：1985-04-24
+  摘要：《白露纪》写，李敖五十岁生日前夕，苏荣泉和李放从三义买来一座大木雕达摩佛像作寿礼；李敖认为木雕极丑、艺术水准太低，责令二人收回并折成现金分期付款，三人最后以大笑收场。
+  人物：李敖、苏荣泉、李放
+  地点：三义、台北
+  标签：五十岁生日、苏荣泉、李放、三义木雕、达摩佛像、审美
+  视图：日常线、交游线、收藏线
+  作品：李敖快意恩仇录
+  交叉引用：book5-1985-04-26-birthday-gift-letter
+  来源：李敖快意恩仇录 / 009.白露纪 / line 13
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt
+  数据：data/timeline-events-fifth-book.json#book5-1985-04-24-su-rongquan-li-fang-gift-ugly-damo-statue
 - 1985年4月25日 | 李敖出版《五十·五十·易》并引出误扣赔偿机会
   精度：day；可靠度：confirmed；排序日期：1985-04-25
   摘要：《闹衙纪》写，1985年4月25日，李敖出版《李敖千秋评论丛书》中的《五十·五十·易》上下册；下册被警备总部扣押，上册未禁却被台北市政府误扣，成为国家赔偿案起点。
@@ -7113,6 +7125,30 @@
   来源：李敖快意恩仇录 / 018.闹衙纪 / line 7
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/018.闹衙纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1985-04-25-publishes-fifty-fifty-yi
+- 1985年4月25日 | 香港《九十年代》转来李惠慈因读《三毛式伪善》写给李敖的信
+  精度：day；可靠度：confirmed；排序日期：1985-04-25
+  摘要：《白露纪》引1985年4月26日晨信，李敖说前一天香港《九十年代》转来李惠慈写给他的信；李惠慈因读到李敖论三毛伪善的文字而来信感谢，甚至不知李敖是男是女。
+  人物：李敖、李惠慈、三毛
+  地点：香港、台北
+  标签：李惠慈、九十年代、三毛式伪善、香港读者、五十岁生日
+  视图：读者线、思想线、交游线
+  作品：三毛式伪善、九十年代、李敖快意恩仇录
+  交叉引用：book5-1985-04-26-birthday-gift-letter、book4-deep-1979-after-return-ping-xintao-introduces-sanmao
+  来源：李敖快意恩仇录 / 009.白露纪 / line 19
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt
+  数据：data/timeline-events-fifth-book.json#book5-1985-04-25-receives-hong-kong-li-huici-letter-about-sanmao
+- 1985年4月25日华诞之日 | 李敖五十岁生日当天穿上曾心仪所赠衬衫
+  精度：day；可靠度：confirmed；排序日期：1985-04-25
+  摘要：《白露纪》引1985年4月26日晨信，李敖感谢曾心仪送的衬衫，称自己已在华诞之日穿上，并以自嘲方式描述五十岁生日当天的新装形象。
+  人物：李敖、曾心仪
+  地点：台北
+  标签：五十岁生日、曾心仪、衬衫、寿礼、新装
+  视图：日常线、交游线、身体线
+  作品：李敖快意恩仇录
+  交叉引用：book5-1985-04-26-birthday-gift-letter
+  来源：李敖快意恩仇录 / 009.白露纪 / line 19
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt
+  数据：data/timeline-events-fifth-book.json#book5-1985-04-25-wears-zeng-xinyi-shirt-on-birthday
 - 1985年4月26日晨 | 李敖写信评论五十岁生日礼物
   精度：day；可靠度：confirmed；排序日期：1985-04-26
   摘要：《白露纪》引信，1985年4月26日晨李敖致曾心仪、李宁、陈文茜，评论五十岁生日礼物，也借此说明自己的艺术趣味与审美标准。
@@ -7125,6 +7161,18 @@
   来源：李敖快意恩仇录 / 009.白露纪 / line 31
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1985-04-26-birthday-gift-letter
+- 1985年4月26日晨 | 李敖在五十岁生日谢信中评论李宁花瓶和陈文茜唱片
+  精度：day；可靠度：confirmed；排序日期：1985-04-26
+  摘要：《白露纪》引1985年4月26日晨信，李敖除感谢曾心仪衬衫外，又评李宁所赠古董花瓶“典雅”，并评论陈文茜赠送的《We Are The World》援非唱片，借礼物继续发挥自己的审美、慈善与伪善判断。
+  人物：李敖、李宁、陈文茜
+  地点：台北
+  标签：李宁、陈文茜、古董花瓶、We Are The World、五十岁生日、审美
+  视图：日常线、交游线、思想线
+  作品：We Are The World、李敖快意恩仇录
+  交叉引用：book5-1985-04-26-birthday-gift-letter
+  来源：李敖快意恩仇录 / 009.白露纪 / line 19
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt
+  数据：data/timeline-events-fifth-book.json#book5-1985-04-26-birthday-letter-comments-li-ning-vase-and-chen-wenqian-record
 - 1985-06-05 | 写定《“北土非吾愿，东林怀我师”》
   精度：day；可靠度：confirmed；排序日期：1985-06-05
   摘要：李敖在文末署1985年6月5日午，完成回想姚从吾老师的长文。

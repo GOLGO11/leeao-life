@@ -4293,5 +4293,89 @@
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/010.根株纪.txt",
       "line": 41
     }
+  },
+  {
+    "id": "book5-1985-04-24-su-rongquan-li-fang-gift-ugly-damo-statue",
+    "date": "1985-04-24",
+    "displayDate": "1985年50岁生日前夕",
+    "datePrecision": "day",
+    "title": "苏荣泉和李放送李敖三义大木雕佛像作寿礼，李敖令其折现",
+    "summary": "《白露纪》写，李敖五十岁生日前夕，苏荣泉和李放从三义买来一座大木雕达摩佛像作寿礼；李敖认为木雕极丑、艺术水准太低，责令二人收回并折成现金分期付款，三人最后以大笑收场。",
+    "view": ["日常线", "交游线", "收藏线"],
+    "tags": ["五十岁生日", "苏荣泉", "李放", "三义木雕", "达摩佛像", "审美"],
+    "people": ["李敖", "苏荣泉", "李放"],
+    "places": ["三义", "台北"],
+    "works": ["李敖快意恩仇录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book5-1985-04-26-birthday-gift-letter"],
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "009.白露纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt",
+      "line": 13
+    }
+  },
+  {
+    "id": "book5-1985-04-25-wears-zeng-xinyi-shirt-on-birthday",
+    "date": "1985-04-25",
+    "displayDate": "1985年4月25日华诞之日",
+    "datePrecision": "day",
+    "title": "李敖五十岁生日当天穿上曾心仪所赠衬衫",
+    "summary": "《白露纪》引1985年4月26日晨信，李敖感谢曾心仪送的衬衫，称自己已在华诞之日穿上，并以自嘲方式描述五十岁生日当天的新装形象。",
+    "view": ["日常线", "交游线", "身体线"],
+    "tags": ["五十岁生日", "曾心仪", "衬衫", "寿礼", "新装"],
+    "people": ["李敖", "曾心仪"],
+    "places": ["台北"],
+    "works": ["李敖快意恩仇录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book5-1985-04-26-birthday-gift-letter"],
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "009.白露纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt",
+      "line": 19
+    }
+  },
+  {
+    "id": "book5-1985-04-25-receives-hong-kong-li-huici-letter-about-sanmao",
+    "date": "1985-04-25",
+    "displayDate": "1985年4月25日",
+    "datePrecision": "day",
+    "title": "香港《九十年代》转来李惠慈因读《三毛式伪善》写给李敖的信",
+    "summary": "《白露纪》引1985年4月26日晨信，李敖说前一天香港《九十年代》转来李惠慈写给他的信；李惠慈因读到李敖论三毛伪善的文字而来信感谢，甚至不知李敖是男是女。",
+    "view": ["读者线", "思想线", "交游线"],
+    "tags": ["李惠慈", "九十年代", "三毛式伪善", "香港读者", "五十岁生日"],
+    "people": ["李敖", "李惠慈", "三毛"],
+    "places": ["香港", "台北"],
+    "works": ["三毛式伪善", "九十年代", "李敖快意恩仇录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book5-1985-04-26-birthday-gift-letter", "book4-deep-1979-after-return-ping-xintao-introduces-sanmao"],
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "009.白露纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt",
+      "line": 19
+    }
+  },
+  {
+    "id": "book5-1985-04-26-birthday-letter-comments-li-ning-vase-and-chen-wenqian-record",
+    "date": "1985-04-26",
+    "displayDate": "1985年4月26日晨",
+    "datePrecision": "day",
+    "title": "李敖在五十岁生日谢信中评论李宁花瓶和陈文茜唱片",
+    "summary": "《白露纪》引1985年4月26日晨信，李敖除感谢曾心仪衬衫外，又评李宁所赠古董花瓶“典雅”，并评论陈文茜赠送的《We Are The World》援非唱片，借礼物继续发挥自己的审美、慈善与伪善判断。",
+    "view": ["日常线", "交游线", "思想线"],
+    "tags": ["李宁", "陈文茜", "古董花瓶", "We Are The World", "五十岁生日", "审美"],
+    "people": ["李敖", "李宁", "陈文茜"],
+    "places": ["台北"],
+    "works": ["We Are The World", "李敖快意恩仇录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book5-1985-04-26-birthday-gift-letter"],
+    "source": {
+      "book": "李敖快意恩仇录",
+      "chapter": "009.白露纪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt",
+      "line": 19
+    }
   }
 ]
