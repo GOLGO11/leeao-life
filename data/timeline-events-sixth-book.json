@@ -2627,5 +2627,126 @@
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/132.摸屁股送客.txt",
       "line": 31
     }
+  },
+  {
+    "id": "book6-2005-03-06-files-civil-suit-against-224-legislators-over-anti-anti-secession-resolution",
+    "date": "2005-03-06",
+    "displayDate": "2005年3月6日",
+    "datePrecision": "day",
+    "title": "李敖提出民事起诉状，控告224名立委通过《反〈反分裂国家法〉决议文》冒用其名义",
+    "summary": "《控告全部立法委员民事起诉状》署日2005年3月6日。李敖因224名立委于3月4日仅用十分钟草率通过《反〈反分裂国家法〉决议文》，未征询其同意、却在媒体上制造“立院一致反对”的同流合污印象，遂依民法第184条、第185条提起民事诉讼，要求每位被告赔偿新台币一元，以堵住立法院冒用全体民意代表名义发布决议文之先例。",
+    "view": ["政治线", "立法院线", "司法线", "两岸线"],
+    "tags": ["民事起诉", "224名立委", "反分裂国家法", "决议文", "程序正义", "一元赔偿"],
+    "people": ["李敖", "王金平", "丁守中", "王世坚", "王幸男", "李文忠", "林郁方", "高金素梅", "颜清标", "蔡英文", "苏起", "顾崇廉"],
+    "places": ["台北", "立法院"],
+    "works": ["反〈反分裂国家法〉决议文", "民法", "立法院组织法", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book6-2005-03-09-first-questioning-of-defense-minister-li-jie",
+      "book6-2005-03-16-protests-li-wenzhong-escorting-ruling-party-budget"
+    ],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "134.附录二、控告全部立法委员民事起诉状",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/134.附录二、控告全部立法委员民事起诉状.txt",
+      "line": 33
+    }
+  },
+  {
+    "id": "book6-2006-03-16-files-criminal-complaint-against-bush-lee-tenghui-and-chen-shuibian-over-arms-procurement",
+    "date": "2006-03-16",
+    "displayDate": "中华民国九十五年（2006）3月16日",
+    "datePrecision": "day",
+    "title": "李敖提出告发状，控告布什、李登辉、陈水扁涉对美军购图利",
+    "summary": "《控告布什、李登辉、陈水扁的状子》署日2006年3月16日。李敖以《台湾关系法》中的 provide 应解为“供应”而非“售予”为核心论点，主张台湾自1979年以来长期以预算形式对美军购，已使美国政府与军火商不当得利；他据此依刑法图利罪逻辑，向台湾司法机关告发美国总统 George W. Bush、李登辉和陈水扁，并借案系统性展开对“凯子军购”的法理论证。",
+    "view": ["政治线", "军购线", "司法线", "两岸线"],
+    "tags": ["告发状", "布什", "李登辉", "陈水扁", "台湾关系法", "provide", "图利罪", "军购"],
+    "people": ["李敖", "George W. Bush", "李登辉", "陈水扁", "蒋介石", "蒋经国", "Ed Ross", "Hedy Lee", "杨宗儒", "林宪同"],
+    "places": ["台北", "美国", "白宫"],
+    "works": ["台湾关系法", "中美建交公报", "钱复回忆录", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book6-2006-03-16-questions-ko-chenheng-with-old-book-and-announces-lawsuits",
+      "book6-2006-01-02-speaks-at-major-arms-procurement-public-hearing",
+      "book6-2005-12-14-gets-li-dawei-to-admit-us-may-not-rescue-taiwan"
+    ],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "135.附录三、控告布什、李登辉、陈水扁的状子",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/135.附录三、控告布什、李登辉、陈水扁的状子.txt",
+      "line": 145
+    }
+  },
+  {
+    "id": "book6-2005-11-18-questions-frank-hsieh-cabinet-on-roc-not-china-contradiction",
+    "date": "2005-11-18",
+    "displayDate": "2005年11月18日",
+    "datePrecision": "day",
+    "title": "李敖在院会连问“我们是不是中国”，追打谢长廷内阁的国号论述矛盾",
+    "summary": "《立法院公报第94卷第70期院会纪录》所录院会质询中，李敖于2005年11月18日下午先后追问姚文智、石守谦、郑丽君、陈其南、陈全寿与谢长廷：既都承认“我们是中华民国”，为何又说“我们不是中国”？他据此指出若按此逻辑，现有法律中涉及“中国”的137处用语都须修改，并批评民进党政府既不敢公开宣布台湾共和国，又长期在“不是中国”的说法上掩耳盗铃。",
+    "view": ["政治线", "立法院线", "两岸线"],
+    "tags": ["谢长廷", "姚文智", "石守谦", "郑丽君", "陈其南", "陈全寿", "中华民国", "中国", "台独"],
+    "people": ["李敖", "谢长廷", "姚文智", "石守谦", "郑丽君", "陈其南", "陈全寿", "杜正胜"],
+    "places": ["立法院", "台北"],
+    "works": ["中华民国年鉴", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book6-2005-04-12-presses-hsieh-on-china-in-law-and-resistance-to-laws",
+      "book6-2007-03-23-writes-explanation-of-taiwan-independence-referendum"
+    ],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "137.立法院公报第94卷第70期院会纪录",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/137.立法院公报第94卷第70期院会纪录.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2007-06-11-questions-chang-chunghsiung-on-ignoring-legislative-power-and-nuclear-four-losses",
+    "date": "2007-06-11",
+    "displayDate": "2007年6月11日",
+    "datePrecision": "day",
+    "title": "李敖在全院委员会质询张俊雄，追打行政院抗拒立法权与核四停建损失",
+    "summary": "《立法院公报第96卷第51期委员会纪录》所录全院委员会中，李敖于2007年6月11日质询行政院长张俊雄，先批行政院与总统府带头拒绝执行立法院通过的真调会等法律，又以核四停建后3个月又8天复建、美国在台商会估计损失3431亿元为例，追究行政院藐视立法院、随意停建复建的责任，并借张俊雄当年掌掴梁肃戎旧事，劝其用最后任期讲真话。",
+    "view": ["政治线", "立法院线", "能源线"],
+    "tags": ["张俊雄", "全院委员会", "核四", "真调会", "覆议", "立法权"],
+    "people": ["李敖", "张俊雄", "李远哲", "梁肃戎", "谢长廷"],
+    "places": ["立法院", "台北"],
+    "works": ["李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book6-2007-09-28-questions-chang-chunghsiung-on-localization-and-fake-independence"
+    ],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "141.立法院公报第96卷第51期委员会纪录",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/141.立法院公报第96卷第51期委员会纪录.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2007-06-11-presses-chang-chunghsiung-to-back-or-reject-taiwan-independence-referendum",
+    "date": "2007-06-11",
+    "displayDate": "2007年6月11日同场发言",
+    "datePrecision": "day",
+    "title": "李敖同场逼张俊雄对“台独公投”表态，批民进党只敢玩假的",
+    "summary": "同场发言后段，李敖指出自己已把蔡同荣版“台独公投”条文合法送达张俊雄办公室，但张一周内未联署，因此当面逼问张俊雄究竟反不反对台独公投，并批评民进党虽然掌权却只有13人敢联署，根本不敢玩真的；他以老大哥口气劝张俊雄不要继续跟着陈水扁走，若真反对台独公投也应公开讲明。",
+    "view": ["政治线", "立法院线", "两岸线"],
+    "tags": ["张俊雄", "台独公投", "蔡同荣条款", "民进党", "联署"],
+    "people": ["李敖", "张俊雄", "蔡同荣", "陈水扁", "谢长廷"],
+    "places": ["立法院", "台北"],
+    "works": ["民进党党纲", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book6-2007-06-11-questions-chang-chunghsiung-on-ignoring-legislative-power-and-nuclear-four-losses",
+      "book6-2007-03-23-writes-explanation-of-taiwan-independence-referendum",
+      "book6-2007-03-28-writes-dont-wait-fart-piece-to-force-dpp-platform-fulfillment"
+    ],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "141.立法院公报第96卷第51期委员会纪录",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/141.立法院公报第96卷第51期委员会纪录.txt",
+      "line": 21
+    }
   }
 ]

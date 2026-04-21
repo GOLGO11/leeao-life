@@ -1,9 +1,9 @@
 李敖交互式年表：当前增量纯文本备份
 生成日期：2026-04-21
-事件总数：888
+事件总数：893
 数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json
 说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。
-日期精度统计：day=676；year=43；undated-range=1；undated-context=99；season=17；lunar-day=1；year-after=6；month=19；half-year=2；day-range=9；month-after=2；year-range=4；year-about=5；day-after=3；year-end=1
+日期精度统计：day=681；year=43；undated-range=1；undated-context=99；season=17；lunar-day=1；year-after=6；month=19；half-year=2；day-range=9；month-after=2；year-range=4；year-about=5；day-after=3；year-end=1
 
 
 1935
@@ -10225,6 +10225,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/113.反军购固盘秘辛.txt
   数据：data/timeline-events-sixth-book.json#book6-2005-02-23-issues-six-point-statement-to-lock-song-chuyu-into-anti-arms-line
+- 2005年3月6日 | 李敖提出民事起诉状，控告224名立委通过《反〈反分裂国家法〉决议文》冒用其名义
+  精度：day；可靠度：confirmed；排序日期：2005-03-06
+  摘要：《控告全部立法委员民事起诉状》署日2005年3月6日。李敖因224名立委于3月4日仅用十分钟草率通过《反〈反分裂国家法〉决议文》，未征询其同意、却在媒体上制造“立院一致反对”的同流合污印象，遂依民法第184条、第185条提起民事诉讼，要求每位被告赔偿新台币一元，以堵住立法院冒用全体民意代表名义发布决议文之先例。
+  人物：李敖、王金平、丁守中、王世坚、王幸男、李文忠、林郁方、高金素梅、颜清标、蔡英文、苏起、顾崇廉
+  地点：台北、立法院
+  标签：民事起诉、224名立委、反分裂国家法、决议文、程序正义、一元赔偿
+  视图：政治线、立法院线、司法线、两岸线
+  作品：反〈反分裂国家法〉决议文、民法、立法院组织法、李敖议坛哀思录
+  交叉引用：book6-2005-03-09-first-questioning-of-defense-minister-li-jie、book6-2005-03-16-protests-li-wenzhong-escorting-ruling-party-budget
+  来源：李敖议坛哀思录 / 134.附录二、控告全部立法委员民事起诉状 / line 33
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/134.附录二、控告全部立法委员民事起诉状.txt
+  数据：data/timeline-events-sixth-book.json#book6-2005-03-06-files-civil-suit-against-224-legislators-over-anti-anti-secession-resolution
 - 2005年3月9日 | 李敖在国防委员会首次质询国防部长李杰
   精度：day；可靠度：confirmed；排序日期：2005-03-09
   摘要：《我告诉你，就是狗》写，2005年3月9日李敖在国防委员会首次质询国防部长李杰，围绕6108亿军购、《与台湾关系法》与美台关系激烈交锋，并以“我们是美国人的看门狗”概括其批判。
@@ -10784,6 +10797,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/054.作弄谢长廷之流.txt
   数据：data/timeline-events-sixth-book.json#book6-2005-11-11-presses-hsieh-on-us-rescue-and-dpp-party-structure
+- 2005年11月18日 | 李敖在院会连问“我们是不是中国”，追打谢长廷内阁的国号论述矛盾
+  精度：day；可靠度：confirmed；排序日期：2005-11-18
+  摘要：《立法院公报第94卷第70期院会纪录》所录院会质询中，李敖于2005年11月18日下午先后追问姚文智、石守谦、郑丽君、陈其南、陈全寿与谢长廷：既都承认“我们是中华民国”，为何又说“我们不是中国”？他据此指出若按此逻辑，现有法律中涉及“中国”的137处用语都须修改，并批评民进党政府既不敢公开宣布台湾共和国，又长期在“不是中国”的说法上掩耳盗铃。
+  人物：李敖、谢长廷、姚文智、石守谦、郑丽君、陈其南、陈全寿、杜正胜
+  地点：立法院、台北
+  标签：谢长廷、姚文智、石守谦、郑丽君、陈其南、陈全寿、中华民国、中国、台独
+  视图：政治线、立法院线、两岸线
+  作品：中华民国年鉴、李敖议坛哀思录
+  交叉引用：book6-2005-04-12-presses-hsieh-on-china-in-law-and-resistance-to-laws、book6-2007-03-23-writes-explanation-of-taiwan-independence-referendum
+  来源：李敖议坛哀思录 / 137.立法院公报第94卷第70期院会纪录 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/137.立法院公报第94卷第70期院会纪录.txt
+  数据：data/timeline-events-sixth-book.json#book6-2005-11-18-questions-frank-hsieh-cabinet-on-roc-not-china-contradiction
 - 2005年12月14日 | 李敖质询李大维，追问入境美国打指模与两星期防卫说
   精度：day；可靠度：confirmed；排序日期：2005-12-14
   摘要：《作弄“地下大使”》写，2005年12月14日李敖在外交及侨务委员会质询驻美代表李大维，先追问李大维上任一年多的成绩和入境美国打指模屈辱事件，再把问题转向军购：若台湾买武器只能抵抗两个星期，之后等待美国救援，驻美代表是否知道美国会不会来。
@@ -10877,6 +10903,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/067.用旧作作弄“小亨利”.txt
   数据：data/timeline-events-sixth-book.json#book6-2006-03-16-questions-ko-chenheng-with-old-book-and-announces-lawsuits
+- 中华民国九十五年（2006）3月16日 | 李敖提出告发状，控告布什、李登辉、陈水扁涉对美军购图利
+  精度：day；可靠度：confirmed；排序日期：2006-03-16
+  摘要：《控告布什、李登辉、陈水扁的状子》署日2006年3月16日。李敖以《台湾关系法》中的 provide 应解为“供应”而非“售予”为核心论点，主张台湾自1979年以来长期以预算形式对美军购，已使美国政府与军火商不当得利；他据此依刑法图利罪逻辑，向台湾司法机关告发美国总统 George W. Bush、李登辉和陈水扁，并借案系统性展开对“凯子军购”的法理论证。
+  人物：李敖、George W. Bush、李登辉、陈水扁、蒋介石、蒋经国、Ed Ross、Hedy Lee、杨宗儒、林宪同
+  地点：台北、美国、白宫
+  标签：告发状、布什、李登辉、陈水扁、台湾关系法、provide、图利罪、军购
+  视图：政治线、军购线、司法线、两岸线
+  作品：台湾关系法、中美建交公报、钱复回忆录、李敖议坛哀思录
+  交叉引用：book6-2006-03-16-questions-ko-chenheng-with-old-book-and-announces-lawsuits、book6-2006-01-02-speaks-at-major-arms-procurement-public-hearing、book6-2005-12-14-gets-li-dawei-to-admit-us-may-not-rescue-taiwan
+  来源：李敖议坛哀思录 / 135.附录三、控告布什、李登辉、陈水扁的状子 / line 145
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/135.附录三、控告布什、李登辉、陈水扁的状子.txt
+  数据：data/timeline-events-sixth-book.json#book6-2006-03-16-files-criminal-complaint-against-bush-lee-tenghui-and-chen-shuibian-over-arms-procurement
 - 2006年4月4日 | 李敖院会质询苏贞昌，带枕头抗议行政院长坐着备询
   精度：day；可靠度：confirmed；排序日期：2006-04-04
   摘要：《“你今天坐下的话，我就躺下来。”》写，2006年4月4日李敖在院会质询行政院长苏贞昌，先问李杰共军五波十小时攻击会死多少军人，指出国防部过去报告战耗补充达12.8万人；随后转向苏贞昌，说上次苏坐下备询，这次自己带枕头来，如果苏再坐下就躺下来，并借此要求行政院长面对战争伤亡、十四天防卫和军购路线的根本问题。
@@ -11529,6 +11568,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/059.小马哥黄牛了.txt
   数据：data/timeline-events-sixth-book.json#book6-2007-06-01-writes-ma-yingjeou-through-king-pu-tsung-over-broken-kmt-speech-promise
+- 2007年6月11日 | 李敖在全院委员会质询张俊雄，追打行政院抗拒立法权与核四停建损失
+  精度：day；可靠度：confirmed；排序日期：2007-06-11
+  摘要：《立法院公报第96卷第51期委员会纪录》所录全院委员会中，李敖于2007年6月11日质询行政院长张俊雄，先批行政院与总统府带头拒绝执行立法院通过的真调会等法律，又以核四停建后3个月又8天复建、美国在台商会估计损失3431亿元为例，追究行政院藐视立法院、随意停建复建的责任，并借张俊雄当年掌掴梁肃戎旧事，劝其用最后任期讲真话。
+  人物：李敖、张俊雄、李远哲、梁肃戎、谢长廷
+  地点：立法院、台北
+  标签：张俊雄、全院委员会、核四、真调会、覆议、立法权
+  视图：政治线、立法院线、能源线
+  作品：李敖议坛哀思录
+  交叉引用：book6-2007-09-28-questions-chang-chunghsiung-on-localization-and-fake-independence
+  来源：李敖议坛哀思录 / 141.立法院公报第96卷第51期委员会纪录 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/141.立法院公报第96卷第51期委员会纪录.txt
+  数据：data/timeline-events-sixth-book.json#book6-2007-06-11-questions-chang-chunghsiung-on-ignoring-legislative-power-and-nuclear-four-losses
+- 2007年6月11日同场发言 | 李敖同场逼张俊雄对“台独公投”表态，批民进党只敢玩假的
+  精度：day；可靠度：confirmed；排序日期：2007-06-11
+  摘要：同场发言后段，李敖指出自己已把蔡同荣版“台独公投”条文合法送达张俊雄办公室，但张一周内未联署，因此当面逼问张俊雄究竟反不反对台独公投，并批评民进党虽然掌权却只有13人敢联署，根本不敢玩真的；他以老大哥口气劝张俊雄不要继续跟着陈水扁走，若真反对台独公投也应公开讲明。
+  人物：李敖、张俊雄、蔡同荣、陈水扁、谢长廷
+  地点：立法院、台北
+  标签：张俊雄、台独公投、蔡同荣条款、民进党、联署
+  视图：政治线、立法院线、两岸线
+  作品：民进党党纲、李敖议坛哀思录
+  交叉引用：book6-2007-06-11-questions-chang-chunghsiung-on-ignoring-legislative-power-and-nuclear-four-losses、book6-2007-03-23-writes-explanation-of-taiwan-independence-referendum、book6-2007-03-28-writes-dont-wait-fart-piece-to-force-dpp-platform-fulfillment
+  来源：李敖议坛哀思录 / 141.立法院公报第96卷第51期委员会纪录 / line 21
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/141.立法院公报第96卷第51期委员会纪录.txt
+  数据：data/timeline-events-sixth-book.json#book6-2007-06-11-presses-chang-chunghsiung-to-back-or-reject-taiwan-independence-referendum
 - 2007年6月21日 | 林郁方请李敖吃日本料理，李敖回赠书并交“李七点”
   精度：day；可靠度：confirmed；排序日期：2007-06-21
   摘要：《周郎顾曲，我看郁方》写，2007年6月21日林郁方约李敖吃高级日本料理，李敖带《北京法源寺》英译本和林郁方十三年前论文回赠题字；饭前又交给林郁方“李七点”，包括亲美媚美是蒋政权遗毒、军购大前提不成立、军购拖垮财政、军购不能保台、台湾应走阎锡山原则以及哥斯达黎加、冰岛路线等。
