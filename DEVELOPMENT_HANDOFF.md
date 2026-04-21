@@ -98,7 +98,7 @@ tools/export-timeline-text.mjs 的 dataFiles
 
 ## 当前计数
 
-截至第六本第十九轮结束：
+截至第六本第二十轮结束：
 
 ```text
 data/timeline-events.json                         32
@@ -113,15 +113,15 @@ data/timeline-events-third-book-qiao-evidence.json 16
 data/timeline-events-fourth-book.json             115
 data/timeline-events-fourth-book-deepening.json   29
 data/timeline-events-fifth-book.json              220
-data/timeline-events-sixth-book.json              149
-总计                                             916
+data/timeline-events-sixth-book.json              151
+总计                                             918
 ```
 
 `exports/leeao-current-timeline.txt` 表头已同步：
 
 ```text
-事件总数：916
-日期精度统计：day=693；year=44；undated-range=1；undated-context=109；season=17；lunar-day=1；year-after=6；month=19；half-year=2；day-range=9；month-after=2；year-range=4；year-about=5；day-after=3；year-end=1
+事件总数：918
+日期精度统计：day=693；year=44；undated-range=1；undated-context=111；season=17；lunar-day=1；year-after=6；month=19；half-year=2；day-range=9；month-after=2；year-range=4；year-about=5；day-after=3；year-end=1
 ```
 
 ## 当前处理进度
@@ -132,7 +132,7 @@ data/timeline-events-sixth-book.json              149
 data/ingestion-log.json
 ```
 
-当前最新轮次为 `iteration: 46`。
+当前最新轮次为 `iteration: 47`。
 
 已处理到第六本：
 
@@ -147,7 +147,7 @@ data/ingestion-log.json
 
 第五本《李敖快意恩仇录》已经停止深挖，并完成 1960-1961 重复事件校正，当前定格在 220 条。
 
-第六本《李敖议坛哀思录》已推进到第十九轮，当前 149 条。
+第六本《李敖议坛哀思录》已推进到第二十轮，当前 151 条。
 
 ## 第六本当前状态
 
@@ -357,8 +357,10 @@ data/timeline-events-sixth-book.json
 
 第六本当前最值得继续的路线：
 
-1. 第六本当前最顺的主线，已经从“补硬日期”切到“补模糊项但高价值文本”。`095`、`114`、`115`、`116`、`117`、`118`、`119`、`120`、`121`、`122` 都已处理；下一批最自然的是把 `108`、`112`、`128` 作为**一次合并审查任务**来做，目标是判断“哪些值得入表、哪些应继续不入表”，而不是保证全部硬拆成事件。
-2. `128.我的台湾人朋友.txt` 目前刻意未拆，因为该章大段是朋友、助理、办公室与名单材料，容易滑成与李敖关系过弱的旁人事件。若回头处理，应只抽李敖本人明确动作、合作、邀约、馈赠、写作或公开致谢，不要把名单本身变成年表。
+1. 第六本当前最顺的主线，已经从“补硬日期”切到“补模糊项但高价值文本”。`095`、`114`、`115`、`116`、`117`、`118`、`119`、`120`、`121`、`122` 都已处理；`108 / 112 / 128` 也已做过一次合并审查。
+2. `108.两组耐人寻味的名单.txt` 已补入一条：李敖整理“台独公投”案连署与拒签名单，作为揭穿民进党假台独的证据。这一章更适合作为既有 2007 年“台独公投”链的补证，而不是再拆很多独立事件。
+3. `112.“他妈的”与“你妈的”.txt` 已审过一轮，目前判断更像论证与修辞补述，暂不值得强起独立事件；除非后续用户要求把思想表达密度再提高。
+4. `128.我的台湾人朋友.txt` 已补入一条较安全的直接材料：李敖记刘文雄与林镇驹把中国智慧党海报贴到办公室门口看板上。其余部分仍需严防滑成与李敖关系过弱的旁人名录或履历材料。
 3. `134-142` 现已全部至少处理过一轮；其中 `136`、`140`、`142` 仍是带说明的 `certainty=inferred`。这三条以后可由人工校对或专门档案回查来升级，但现阶段不值得继续大量耗时。
 4. 继续时要注意：Book 6 原始 txt 多为 GB18030，直接 Read 常出现乱码；可靠流程是先 `iconv -f GB18030 -t UTF-8 ... | nl -ba`，再据此写 source.line。
 

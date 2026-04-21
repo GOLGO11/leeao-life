@@ -1,9 +1,9 @@
 李敖交互式年表：当前增量纯文本备份
 生成日期：2026-04-21
-事件总数：916
+事件总数：918
 数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json
 说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。
-日期精度统计：day=693；year=44；undated-range=1；undated-context=109；season=17；lunar-day=1；year-after=6；month=19；half-year=2；day-range=9；month-after=2；year-range=4；year-about=5；day-after=3；year-end=1
+日期精度统计：day=693；year=44；undated-range=1；undated-context=111；season=17；lunar-day=1；year-after=6；month=19；half-year=2；day-range=9；month-after=2；year-range=4；year-about=5；day-after=3；year-end=1
 
 
 1935
@@ -11921,6 +11921,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/132.摸屁股送客.txt
   数据：data/timeline-events-sixth-book.json#book6-2007-11-06-finishes-book-with-turn-in-paper-ending-at-taipei-loft
+- 2007年3月28日前后 | 李敖整理“台独公投”案的连署与拒签名单，作为揭穿民进党假台独的证据
+  精度：undated-context；可靠度：confirmed；排序日期：2007-03-28
+  摘要：《两组耐人寻味的名单》把李敖提出“台独公投”案后的两组名单并列出来：一组是24名愿意连署者，一组是42名连先前蔡同荣版都支持过、这次却不敢再签的民进党立委。对李敖而言，这不是单纯名册，而是他用来证明“民进党连自己的台独提案都不敢接球”的一份政治证据。
+  人物：李敖、蔡同荣、王幸男、高金素梅、赖清德、郭正亮
+  地点：立法院、台北
+  标签：台独公投、连署名单、民进党、蔡同荣、假台独
+  视图：政治线、两岸线、立法院线
+  作品：李敖议坛哀思录
+  交叉引用：book6-2007-03-23-writes-explanation-of-taiwan-independence-referendum、book6-2007-03-28-writes-dont-wait-fart-piece-to-force-dpp-platform-fulfillment、book6-2007-06-11-presses-chang-chunghsiung-to-back-or-reject-taiwan-independence-referendum
+  来源：李敖议坛哀思录 / 108.两组耐人寻味的名单 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/108.两组耐人寻味的名单.txt
+  数据：data/timeline-events-sixth-book.json#book6-2007-03-28-compiles-co-signer-and-non-signer-lists-for-taiwan-independence-referendum-bill
 - 2007年9月26日前后 | 李敖借郭正亮办公室介入军购采购案新闻，申明自己绝不用公家信封办私事
   精度：undated-context；可靠度：confirmed；排序日期：2007-09-26
   摘要：《我不用公家信封》引述2007年9月26日《联合报》关于郭正亮办公室介入军方采购案的报道，借题批评立委以头衔施压、助理卷入利益输送已成议场常态；随后李敖转而强调自己办公室一向公私分明，私事绝不用印有“立法院”的信封，连助理也必须洁身自爱，以此把自己的作风与一般立委切开。
@@ -11960,6 +11973,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/125.“中国智慧党”灌顶宣言.txt
   数据：data/timeline-events-sixth-book.json#book6-2007-09-30-publishes-china-wisdom-party-anointment-manifesto
+- 2007年9月30日前后 | 李敖记刘文雄与林镇驹把中国智慧党海报贴到办公室门口看板上
+  精度：undated-context；可靠度：confirmed；排序日期：2007-09-30
+  摘要：《我的台湾人朋友》写到，李敖创立中国智慧党后，刘文雄和其顾问林镇驹把中国智慧党的海报张贴在办公室门口看板上。对年表来说，这条可保留为创党后的一个小动作：它显示李敖并非单独喊口号，而确有立院友人愿意在空间与姿态上公开给他站台。
+  人物：李敖、刘文雄、林镇驹
+  地点：立法院、台北
+  标签：中国智慧党、刘文雄、林镇驹、海报、看板、创党回响
+  视图：组党线、交游线、立法院线
+  作品：中国智慧党、李敖议坛哀思录
+  交叉引用：book6-2007-09-30-founds-china-wisdom-party-at-zhongxing-building-room-103、book6-2007-09-30-publishes-china-wisdom-party-anointment-manifesto
+  来源：李敖议坛哀思录 / 128.我的台湾人朋友 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/128.我的台湾人朋友.txt
+  数据：data/timeline-events-sixth-book.json#book6-2007-09-30-records-liu-wenhsiung-and-lin-zhenju-posting-china-wisdom-party-poster
 - 2007年9月30日前后 | 李敖提出中国智慧党“智慧测量表”，把其核心政治判断整理成十项标准
   精度：undated-context；可靠度：confirmed；排序日期：2007-09-30
   摘要：《“中国智慧党”智慧测量表》把李敖在立法院三年反复论述的核心判断整理成十项“最起码的智慧政见”，包括不信中华民国是国家、不信台独、不信“以台湾名义进联合国”、不信共产党是敌人、不信军购与固守保台、不信美国会来救台湾等，等于把其议场攻防浓缩成一份纲领式判断清单。

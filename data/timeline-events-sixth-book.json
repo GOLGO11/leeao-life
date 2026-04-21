@@ -3174,6 +3174,55 @@
     }
   },
   {
+    "id": "book6-2007-03-28-compiles-co-signer-and-non-signer-lists-for-taiwan-independence-referendum-bill",
+    "date": "2007-03-28",
+    "displayDate": "2007年3月28日前后",
+    "datePrecision": "undated-context",
+    "title": "李敖整理“台独公投”案的连署与拒签名单，作为揭穿民进党假台独的证据",
+    "summary": "《两组耐人寻味的名单》把李敖提出“台独公投”案后的两组名单并列出来：一组是24名愿意连署者，一组是42名连先前蔡同荣版都支持过、这次却不敢再签的民进党立委。对李敖而言，这不是单纯名册，而是他用来证明“民进党连自己的台独提案都不敢接球”的一份政治证据。",
+    "view": ["政治线", "两岸线", "立法院线"],
+    "tags": ["台独公投", "连署名单", "民进党", "蔡同荣", "假台独"],
+    "people": ["李敖", "蔡同荣", "王幸男", "高金素梅", "赖清德", "郭正亮"],
+    "places": ["立法院", "台北"],
+    "works": ["李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book6-2007-03-23-writes-explanation-of-taiwan-independence-referendum",
+      "book6-2007-03-28-writes-dont-wait-fart-piece-to-force-dpp-platform-fulfillment",
+      "book6-2007-06-11-presses-chang-chunghsiung-to-back-or-reject-taiwan-independence-referendum"
+    ],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "108.两组耐人寻味的名单",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/108.两组耐人寻味的名单.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2007-09-30-records-liu-wenhsiung-and-lin-zhenju-posting-china-wisdom-party-poster",
+    "date": "2007-09-30",
+    "displayDate": "2007年9月30日前后",
+    "datePrecision": "undated-context",
+    "title": "李敖记刘文雄与林镇驹把中国智慧党海报贴到办公室门口看板上",
+    "summary": "《我的台湾人朋友》写到，李敖创立中国智慧党后，刘文雄和其顾问林镇驹把中国智慧党的海报张贴在办公室门口看板上。对年表来说，这条可保留为创党后的一个小动作：它显示李敖并非单独喊口号，而确有立院友人愿意在空间与姿态上公开给他站台。",
+    "view": ["组党线", "交游线", "立法院线"],
+    "tags": ["中国智慧党", "刘文雄", "林镇驹", "海报", "看板", "创党回响"],
+    "people": ["李敖", "刘文雄", "林镇驹"],
+    "places": ["立法院", "台北"],
+    "works": ["中国智慧党", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book6-2007-09-30-founds-china-wisdom-party-at-zhongxing-building-room-103",
+      "book6-2007-09-30-publishes-china-wisdom-party-anointment-manifesto"
+    ],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "128.我的台湾人朋友",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/128.我的台湾人朋友.txt",
+      "line": 5
+    }
+  },
+  {
     "id": "book6-2005-02-01-writes-open-letter-to-colleagues-against-oath-regulations",
     "date": "2005-02-01",
     "displayDate": "2005年2月1日",
