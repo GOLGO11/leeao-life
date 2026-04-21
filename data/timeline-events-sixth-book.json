@@ -2277,5 +2277,355 @@
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/100.我又宰了四个.txt",
       "line": 5
     }
+  },
+  {
+    "id": "book6-2007-09-28-questions-chang-chunghsiung-on-localization-and-fake-independence",
+    "date": "2007-09-28",
+    "displayDate": "2007年9月28日",
+    "datePrecision": "day",
+    "title": "李敖在总预算院会质询张俊雄，借“斯文豪氏蛙”批本土政策与假台独",
+    "summary": "《“斯文豪氏蛙”》写，2007年9月28日李敖在审查九十七年度中央政府总预算案院会上质询行政院长张俊雄，借台湾赤蛙实为“斯文豪氏蛙”和闽南话并非“台湾话”的例子，批评教育部本土教育政策名实错乱；又要张俊雄讲真话，指出无论以台湾名义入联还是以中华民国返联都走不通，民进党与国民党长期都在骗台湾人民。",
+    "view": ["政治线", "立法院线", "两岸线"],
+    "tags": ["张俊雄", "总预算", "本土化", "联合国", "台独", "斯文豪氏蛙"],
+    "people": ["李敖", "张俊雄", "王幸男", "谢长廷", "苏贞昌", "蒋介石", "蒋经国", "李登辉", "陈水扁"],
+    "places": ["立法院", "台北", "台湾", "联合国"],
+    "works": ["李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book6-2007-03-23-writes-explanation-of-taiwan-independence-referendum",
+      "book6-2007-03-28-writes-dont-wait-fart-piece-to-force-dpp-platform-fulfillment"
+    ],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "101.“斯文豪氏蛙”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/101.“斯文豪氏蛙”.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2007-10-01-questions-hsu-huiyou-on-un-name-before-referendum",
+    "date": "2007-10-01",
+    "displayDate": "2007年10月1日",
+    "datePrecision": "day",
+    "title": "李敖质询许惠祐，追问公投入联前应先定国名",
+    "summary": "《什么机密？机个屁密！》写，2007年10月1日李敖在国防委员会质询国安局长许惠祐，先提到媒体报道他筹组中国智慧党，继而反复追问：若公投入联通过、联合国同意台湾入会，究竟是以“台湾”、“台湾共和国”、“台湾民主国”还是“中华民国”名义加入？李敖据此批评执政党舍本逐末，主张先通过“台独公投”建立新国名。",
+    "view": ["政治线", "立法院线", "两岸线"],
+    "tags": ["许惠祐", "国安局", "公投入联", "国名", "中国智慧党", "台独公投"],
+    "people": ["李敖", "许惠祐", "陈水扁"],
+    "places": ["立法院国防委员会", "台北", "联合国"],
+    "works": ["李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book6-2007-03-23-writes-explanation-of-taiwan-independence-referendum",
+      "book6-2007-03-28-writes-dont-wait-fart-piece-to-force-dpp-platform-fulfillment"
+    ],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "102.什么机密？机个屁密！",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/102.什么机密？机个屁密！.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2007-10-03-questions-hu-zhenpu-with-yu-hsiikun-stepfather-veteran-example",
+    "date": "2007-10-03",
+    "displayDate": "2007年10月3日",
+    "datePrecision": "day",
+    "title": "李敖质询胡镇埔，拿游锡堃继父老士官领取退俸举例为退辅会背书",
+    "summary": "《游锡堃的爸爸是外省士官》写，2007年10月3日李敖在国防委员会质询退辅会主委胡镇埔，指出游锡堃母亲改嫁外省湖南籍老士官夏福禧后，直到2002年去世仍领取退辅会半薪，借此说明退辅会预算并非只养外省老兵，而民进党现任主席家庭也受其照顾；他据此痛批退辅会不会运用现成宣传资料，任由外界污名化。",
+    "view": ["政治线", "立法院线", "老兵线"],
+    "tags": ["胡镇埔", "退辅会", "游锡堃", "夏福禧", "退休俸", "老荣民"],
+    "people": ["李敖", "胡镇埔", "游锡堃", "夏福禧", "黄秀菊", "帅化民"],
+    "places": ["立法院国防委员会", "台北"],
+    "works": ["李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2005-03-10-questions-retired-servicemen-affairs-chairman-gao-huazhu"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "103.游锡堃的爸爸是外省士官",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/103.游锡堃的爸爸是外省士官.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2007-10-05-questions-auditor-general-lin-chinglung-on-catching-big-tigers",
+    "date": "2007-10-05",
+    "displayDate": "2007年10月5日",
+    "datePrecision": "day",
+    "title": "李敖质询审计长林庆隆，称自己当年投反对票并要他去抓“大角”",
+    "summary": "《我是反对你出任的》写，2007年10月5日李敖在审核九十五年度中央政府总决算报告时质询审计长林庆隆，先说明自己当年即是五张反对其出任审计长的票之一；继而追打总统府发票与审计抽查问题，批评审计体系长期不敢碰“大角”只抓“小角”，要求林庆隆面对总统府和重大财政浪费问题。",
+    "view": ["政治线", "立法院线", "司法线"],
+    "tags": ["林庆隆", "审计长", "总决算", "总统府", "发票", "大角小角"],
+    "people": ["李敖", "林庆隆", "苏振平", "陈水扁"],
+    "places": ["立法院", "台北", "总统府"],
+    "works": ["李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2007-10-05-lunch-with-li-tianyu-and-laughs-at-fight-to-last-soldier"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "104.我是反对你出任的",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/104.我是反对你出任的.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2001-03-29-writes-fake-goods-essay-to-expose-fake-taiwan-independence",
+    "date": "2001-03-29",
+    "displayDate": "2001年3月29日",
+    "datePrecision": "day",
+    "title": "李敖写《“假货”何其多》，自认最早点破“台独是假的”",
+    "summary": "《台独是假的》写，李敖自称最早点破“台独是假的”的先知，并点出其中最简明的一篇是2001年3月29日所写《“假货”何其多》，作为其长期拆穿“假台独”论述的代表文字。",
+    "view": ["写作线", "政治线", "两岸线"],
+    "tags": ["假货何其多", "台独是假的", "写作", "反讽"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["假货何其多", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2001-03-05-writes-jianzhong-heqiduo-essay"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "105.台独是假的",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/105.台独是假的.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2007-03-23-writes-explanation-of-taiwan-independence-referendum",
+    "date": "2007-03-23",
+    "displayDate": "2007年3月23日",
+    "datePrecision": "day",
+    "title": "李敖写《李敖对“台独公投”说明书》",
+    "summary": "《李敖对“台独公投”说明书》写，2007年3月23日李敖以戏谑口吻写出同名说明书，集中批评民进党口称建立台湾共和国却不敢废掉中华民国国号与国旗，并借连战2004年11月20日与陈水扁2004年11月21日围绕“台独公投”的对话，讥刺蓝绿都不敢玩真的。",
+    "view": ["写作线", "政治线", "两岸线"],
+    "tags": ["台独公投", "说明书", "台湾共和国", "中华民国", "连战", "陈水扁"],
+    "people": ["李敖", "连战", "陈水扁", "蒋介石"],
+    "places": ["台湾"],
+    "works": ["李敖对“台独公投”说明书", "民进党党纲", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "106.李敖对“台独公投”说明书",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/106.李敖对“台独公投”说明书.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2007-03-28-writes-dont-wait-fart-piece-to-force-dpp-platform-fulfillment",
+    "date": "2007-03-28",
+    "displayDate": "2007年3月28日",
+    "datePrecision": "day",
+    "title": "李敖写《是谁不肯兑现民进党党纲？》，喊出“不要等个屁呀”",
+    "summary": "《不要等个屁呀！》写，2007年3月28日李敖在五天前《李敖对“台独公投”说明书》基础上，进一步写成《是谁不肯兑现民进党党纲？》，追溯1999年公投法运动、2003年11月27日蔡同荣版表决弃权闹剧和2004年公投绑大选，要求民进党若真要独立，就应立即修《公投法》举行“台独公投”，而不是继续玩“正名”“修宪”“第二共和”等家家酒。",
+    "view": ["写作线", "政治线", "两岸线"],
+    "tags": ["民进党党纲", "台独公投", "公投法", "蔡同荣", "第二共和", "修宪"],
+    "people": ["李敖", "蔡同荣", "彭明敏", "李镇源", "林义雄", "黄石城", "辜宽敏", "陈隆志", "高俊明", "许世楷", "黄昭堂", "李文忠"],
+    "places": ["台湾", "立法院"],
+    "works": ["是谁不肯兑现民进党党纲？", "公民投票法", "民进党党纲", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2007-03-23-writes-explanation-of-taiwan-independence-referendum"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "107.不要等个屁呀！",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/107.不要等个屁呀！.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2004-11-27-publishes-joint-daily-advertisement-against-green-candidates-over-fake-referendum",
+    "date": "2004-11-27",
+    "displayDate": "2004年11月27日",
+    "datePrecision": "day",
+    "title": "李敖在《联合报》刊广告“公投他投，罗网你投”",
+    "summary": "《公投他投，罗网你投》回溯，2004年11月27日李敖透过陈福寿在《联合报》刊出广告，以沈富雄、蓝美津、郭正亮、段宜康等南区民进党候选人为靶，重述民进党党纲中的“台独公投”、1999年公投法运动和2003年11月27日表决弃权，批评绿色候选人“公投他投，罗网你投”。",
+    "view": ["政治线", "选举线", "媒体线"],
+    "tags": ["联合报", "竞选广告", "公投他投罗网你投", "台独公投", "南区立委选举"],
+    "people": ["李敖", "陈福寿", "沈富雄", "蓝美津", "郭正亮", "段宜康", "蔡同荣", "李文忠"],
+    "places": ["台北", "台湾"],
+    "works": ["联合报", "公投他投，罗网你投", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book6-2007-03-28-writes-dont-wait-fart-piece-to-force-dpp-platform-fulfillment",
+      "book6-2004-12-08-publishes-final-joint-daily-legislative-campaign-ad"
+    ],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "109.公投他投，罗网你投",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/109.公投他投，罗网你投.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2004-12-08-publishes-final-joint-daily-legislative-campaign-ad",
+    "date": "2004-12-08",
+    "displayDate": "2004年12月8日",
+    "datePrecision": "day",
+    "title": "李敖在《联合报》刊出最后一次立委竞选广告，称“选三只老鼠呢？还是一头老虎？”",
+    "summary": "《选三只老鼠呢？还是一头老虎？》写，2004年12月8日李敖在《联合报》刊最后一次立委竞选广告，强调自己是真正敢跟政府对干的“老虎”，并借包润石11月29日重提“四不一没有”、陈水扁12月1日再向美国保证以及许历农12月4日推荐信，提出“向老共要和平、向老美要公平、向民进党要太平”的竞选主张。",
+    "view": ["政治线", "选举线", "媒体线", "两岸线"],
+    "tags": ["联合报", "竞选广告", "老虎", "四不一没有", "许历农", "向老美要公平"],
+    "people": ["李敖", "包润石", "陈水扁", "许历农", "李登辉", "汪道涵"],
+    "places": ["台湾", "美国", "立法院"],
+    "works": ["联合报", "李敖议坛哀思录", "与台湾关系法"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book6-2004-11-14-national-father-memorial-hall-campaign-speech",
+      "book6-2004-11-27-publishes-joint-daily-advertisement-against-green-candidates-over-fake-referendum"
+    ],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "110.选三只老鼠呢？还是一头老虎？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/110.选三只老鼠呢？还是一头老虎？.txt",
+      "line": 5
+    }
+  },
+  {
+    "id": "book6-2007-01-18-announces-support-vote-for-chen-tsungming-as-prosecutor-general",
+    "date": "2007-01-18",
+    "displayDate": "2007年1月18日",
+    "datePrecision": "day",
+    "title": "李敖宣布将投赞成票支持陈聪明任检察总长，并在院会亮票",
+    "summary": "《我这一票人》写，2007年1月18日检察总长陈聪明同意权案进入关键表决，外界原预期李敖会投反对票，但他当日上午公开表示将投赞成票，理由是陈聪明当年曾抵抗军方压力，起诉萧孟能、王剑芬和胡因梦伪造文书案。李敖强调自己投的是“当年的陈聪明”，并在院会亮票，故意逆着国民党阻投路线行事。",
+    "view": ["政治线", "立法院线", "司法线", "媒体线"],
+    "tags": ["陈聪明", "检察总长", "同意权", "亮票", "胡因梦", "伪造文书"],
+    "people": ["李敖", "陈聪明", "胡因梦", "萧孟能", "王剑芬", "马英九"],
+    "places": ["立法院", "台北"],
+    "works": ["法院组织法", "联合晚报", "YAHOO!奇摩新闻", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "111.我这一票人",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/111.我这一票人.txt",
+      "line": 7
+    }
+  },
+  {
+    "id": "book6-2005-02-23-issues-six-point-statement-to-lock-song-chuyu-into-anti-arms-line",
+    "date": "2005-02-23",
+    "displayDate": "2005年2月23日",
+    "datePrecision": "day",
+    "title": "李敖发表《李敖的六点声明》，先把宋楚瑜咬定在反军购线上",
+    "summary": "《反军购固盘秘辛》写，2005年2月23日李敖发表《李敖的六点声明》，一面回顾自己拆穿国民党与民进党的著述，一面强调多党制衡和在野党套牢执政党的必要，并点名宋楚瑜既然已参加民主行动联盟反军购游行，就不应受亲美、CIA背景或军火回扣人士影响而转向支持军购。",
+    "view": ["政治线", "军购线", "写作线"],
+    "tags": ["宋楚瑜", "六点声明", "反军购", "民主行动联盟", "亲民党"],
+    "people": ["李敖", "宋楚瑜", "连战", "李登辉", "马英九", "王作荣"],
+    "places": ["台湾"],
+    "works": ["李敖的六点声明", "国民党研究", "国民党研究续集", "民进党研究", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "113.反军购固盘秘辛",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/113.反军购固盘秘辛.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book6-2006-10-19-refuses-meeting-request-from-ait-deputy-director-robert-wang",
+    "date": "2006-10-19",
+    "displayDate": "2006年10月19日",
+    "datePrecision": "day",
+    "title": "李敖拒绝美国在台协会副处长王晓岷约见",
+    "summary": "《反军购固盘秘辛》末尾记，2006年10月19日 Vicky 转告美国在台协会副处长 Robert S. Wang 想约李敖见面，并留下两个时间，李敖回应“不要理他们，我讨厌美国人。”这条反映他在反军购主线外，对美国方面私下接触的明确拒绝。",
+    "view": ["政治线", "军购线", "两岸线", "日常线"],
+    "tags": ["美国在台协会", "Robert S. Wang", "拒见", "反美", "反军购"],
+    "people": ["李敖", "Robert S. Wang", "Vicky"],
+    "places": ["台北"],
+    "works": ["李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book6-2006-10-19-questions-cec-chair-on-black-agency-and-post-no-confidence-election",
+      "book6-2006-12-29-holds-running-dog-sign-when-arms-procurement-passes"
+    ],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "113.反军购固盘秘辛",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/113.反军购固盘秘辛.txt",
+      "line": 33
+    }
+  },
+  {
+    "id": "book6-2005-11-03-writes-to-yen-chingpiao-to-attend-defense-committee-and-block-arms-vote",
+    "date": "2005-11-03",
+    "displayDate": "2005年11月3日",
+    "datePrecision": "day",
+    "title": "李敖写信催颜清标出席国防委员会，阻止军购案偷渡表决",
+    "summary": "《高金素梅送我“裸照”》收录李敖于2005年11月3日写给颜清标的短函，要求颜在下周一上午、周三全天务必出席国防委员会坐镇，以防军购案被李文忠等人一两票之差偷渡表决成功。李敖同时找高金素梅帮忙说动颜清标，但高金后来失信未能到场。",
+    "view": ["政治线", "立法院线", "军购线"],
+    "tags": ["颜清标", "高金素梅", "国防委员会", "军购案", "写信"],
+    "people": ["李敖", "颜清标", "高金素梅", "李文忠", "陈文茜"],
+    "places": ["立法院国防委员会", "台北"],
+    "works": ["李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book6-2005-11-07-objects-to-defense-budget-review-and-demands-arms-rental-details",
+      "book6-2005-11-07-demands-half-cut-of-general-political-warfare-bureau-budget"
+    ],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "123.高金素梅送我“裸照”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/123.高金素梅送我“裸照”.txt",
+      "line": 7
+    }
+  },
+  {
+    "id": "book6-2007-09-30-founds-china-wisdom-party-at-zhongxing-building-room-103",
+    "date": "2007-09-30",
+    "displayDate": "2007年9月30日上午10时",
+    "datePrecision": "day",
+    "title": "李敖在中兴大楼103室召开“中国智慧党成立大会”",
+    "summary": "《创立中国第一个英美式民主政党》写，2007年9月30日上午10时，李敖在立法院中兴大楼103室贴出“中国智慧党成立大会”，补足法定人数并由内政部专员到场见证，正式推出“中国智慧党”。他在现场致词50分钟、张贴22张图片证据，并记下全部开支31122元；随后内政部刁难登记，他则透过林宪同直接提告，故意留下“碍难照准”的记录。",
+    "view": ["政治线", "组党线", "写作线"],
+    "tags": ["中国智慧党", "中兴大楼103室", "成立大会", "林宪同", "冯沪祥"],
+    "people": ["李敖", "冯沪祥", "林宪同", "叶芳雄", "林镇驹", "刘文雄", "李戡", "李逸洋", "陈荫华"],
+    "places": ["立法院中兴大楼", "台北"],
+    "works": ["中国智慧党", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2007-10-01-questions-hsu-huiyou-on-un-name-before-referendum"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "124.创立中国第一个英美式民主政党",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/124.创立中国第一个英美式民主政党.txt",
+      "line": 5
+    }
+  },
+  {
+    "id": "book6-2005-02-01-writes-open-letter-to-colleagues-against-oath-regulations",
+    "date": "2005-02-01",
+    "displayDate": "2005年2月1日",
+    "datePrecision": "day",
+    "title": "李敖给立法院同仁写公开信，主张废止《宣誓条例》",
+    "summary": "《给立法院各位同仁的一封信》署日2005年2月1日。李敖在就任立委当天写给同仁公开信，批评《宣誓条例》是国民党75年前留下的神权时代把戏，荒谬地把宣誓人先假设成会徇私舞弊、受贿赂的“王八蛋”；他建议用《中央法规标准法》第21条“因情势变迁”的理由废止该条例。",
+    "view": ["政治线", "立法院线", "写作线"],
+    "tags": ["宣誓条例", "公开信", "中央法规标准法", "立委就职", "废止"],
+    "people": ["李敖"],
+    "places": ["立法院", "台北"],
+    "works": ["宣誓条例", "中央法规标准法", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": ["book6-2005-02-01-sworn-in-as-legislator-and-sets-office-rules"],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "133.附录一、给立法院各位同仁的一封信",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/133.附录一、给立法院各位同仁的一封信.txt",
+      "line": 5
+    }
+  },
+  {
+    "id": "book6-2007-11-06-finishes-book-with-turn-in-paper-ending-at-taipei-loft",
+    "date": "2007-11-06",
+    "displayDate": "2007年11月6日，在台北楼中楼",
+    "datePrecision": "day",
+    "title": "李敖在台北楼中楼写下“缴卷”式结尾，为《李敖议坛哀思录》收束",
+    "summary": "《摸屁股送客》末尾署日2007年11月6日，李敖把这本书比作最后一堂考试的缴卷，称自己最懒得写这本书，只想赶快考完、走到阳光下去吃蛋卷冰淇淋，并以“王八，再见；冰淇淋，我来了！”作为收尾，留下这一卷的写作结束痕迹。",
+    "view": ["写作线", "生平线", "日常线"],
+    "tags": ["台北楼中楼", "写作", "缴卷", "李敖议坛哀思录", "结尾"],
+    "people": ["李敖"],
+    "places": ["台北楼中楼", "台北"],
+    "works": ["李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "132.摸屁股送客",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/132.摸屁股送客.txt",
+      "line": 31
+    }
   }
 ]

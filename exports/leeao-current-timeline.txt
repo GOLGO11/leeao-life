@@ -1,9 +1,9 @@
 李敖交互式年表：当前增量纯文本备份
-生成日期：2026-04-20
-事件总数：872
+生成日期：2026-04-21
+事件总数：888
 数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json
 说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。
-日期精度统计：day=660；year=43；undated-range=1；undated-context=99；season=17；lunar-day=1；year-after=6；month=19；half-year=2；day-range=9；month-after=2；year-range=4；year-about=5；day-after=3；year-end=1
+日期精度统计：day=676；year=43；undated-range=1；undated-context=99；season=17；lunar-day=1；year-after=6；month=19；half-year=2；day-range=9；month-after=2；year-range=4；year-about=5；day-after=3；year-end=1
 
 
 1935
@@ -10117,6 +10117,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/093.台湾的“贱种”性格.txt
   数据：data/timeline-events-sixth-book.json#book6-2001-03-05-writes-jianzhong-heqiduo-essay
+- 2001年3月29日 | 李敖写《“假货”何其多》，自认最早点破“台独是假的”
+  精度：day；可靠度：confirmed；排序日期：2001-03-29
+  摘要：《台独是假的》写，李敖自称最早点破“台独是假的”的先知，并点出其中最简明的一篇是2001年3月29日所写《“假货”何其多》，作为其长期拆穿“假台独”论述的代表文字。
+  人物：李敖
+  地点：台湾
+  标签：假货何其多、台独是假的、写作、反讽
+  视图：写作线、政治线、两岸线
+  作品：假货何其多、李敖议坛哀思录
+  交叉引用：book6-2001-03-05-writes-jianzhong-heqiduo-essay
+  来源：李敖议坛哀思录 / 105.台独是假的 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/105.台独是假的.txt
+  数据：data/timeline-events-sixth-book.json#book6-2001-03-29-writes-fake-goods-essay-to-expose-fake-taiwan-independence
 
 2004
 - 2004年10月12日 | 李敖办理立委参选登记
@@ -10145,8 +10158,47 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/008.从参选到上台.txt
   数据：data/timeline-events-sixth-book.json#book6-2004-11-14-national-father-memorial-hall-campaign-speech
+- 2004年11月27日 | 李敖在《联合报》刊广告“公投他投，罗网你投”
+  精度：day；可靠度：confirmed；排序日期：2004-11-27
+  摘要：《公投他投，罗网你投》回溯，2004年11月27日李敖透过陈福寿在《联合报》刊出广告，以沈富雄、蓝美津、郭正亮、段宜康等南区民进党候选人为靶，重述民进党党纲中的“台独公投”、1999年公投法运动和2003年11月27日表决弃权，批评绿色候选人“公投他投，罗网你投”。
+  人物：李敖、陈福寿、沈富雄、蓝美津、郭正亮、段宜康、蔡同荣、李文忠
+  地点：台北、台湾
+  标签：联合报、竞选广告、公投他投罗网你投、台独公投、南区立委选举
+  视图：政治线、选举线、媒体线
+  作品：联合报、公投他投，罗网你投、李敖议坛哀思录
+  交叉引用：book6-2007-03-28-writes-dont-wait-fart-piece-to-force-dpp-platform-fulfillment、book6-2004-12-08-publishes-final-joint-daily-legislative-campaign-ad
+  来源：李敖议坛哀思录 / 109.公投他投，罗网你投 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/109.公投他投，罗网你投.txt
+  数据：data/timeline-events-sixth-book.json#book6-2004-11-27-publishes-joint-daily-advertisement-against-green-candidates-over-fake-referendum
+- 2004年12月8日 | 李敖在《联合报》刊出最后一次立委竞选广告，称“选三只老鼠呢？还是一头老虎？”
+  精度：day；可靠度：confirmed；排序日期：2004-12-08
+  摘要：《选三只老鼠呢？还是一头老虎？》写，2004年12月8日李敖在《联合报》刊最后一次立委竞选广告，强调自己是真正敢跟政府对干的“老虎”，并借包润石11月29日重提“四不一没有”、陈水扁12月1日再向美国保证以及许历农12月4日推荐信，提出“向老共要和平、向老美要公平、向民进党要太平”的竞选主张。
+  人物：李敖、包润石、陈水扁、许历农、李登辉、汪道涵
+  地点：台湾、美国、立法院
+  标签：联合报、竞选广告、老虎、四不一没有、许历农、向老美要公平
+  视图：政治线、选举线、媒体线、两岸线
+  作品：联合报、李敖议坛哀思录、与台湾关系法
+  交叉引用：book6-2004-11-14-national-father-memorial-hall-campaign-speech、book6-2004-11-27-publishes-joint-daily-advertisement-against-green-candidates-over-fake-referendum
+  来源：李敖议坛哀思录 / 110.选三只老鼠呢？还是一头老虎？ / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/110.选三只老鼠呢？还是一头老虎？.txt
+  数据：data/timeline-events-sixth-book.json#book6-2004-12-08-publishes-final-joint-daily-legislative-campaign-ad
 
 2005
+- 2005年2月1日 | 李敖给立法院同仁写公开信，主张废止《宣誓条例》
+  精度：day；可靠度：confirmed；排序日期：2005-02-01
+  摘要：《给立法院各位同仁的一封信》署日2005年2月1日。李敖在就任立委当天写给同仁公开信，批评《宣誓条例》是国民党75年前留下的神权时代把戏，荒谬地把宣誓人先假设成会徇私舞弊、受贿赂的“王八蛋”；他建议用《中央法规标准法》第21条“因情势变迁”的理由废止该条例。
+  人物：李敖
+  地点：立法院、台北
+  标签：宣誓条例、公开信、中央法规标准法、立委就职、废止
+  视图：政治线、立法院线、写作线
+  作品：宣誓条例、中央法规标准法、李敖议坛哀思录
+  交叉引用：book6-2005-02-01-sworn-in-as-legislator-and-sets-office-rules
+  来源：李敖议坛哀思录 / 133.附录一、给立法院各位同仁的一封信 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/133.附录一、给立法院各位同仁的一封信.txt
+  数据：data/timeline-events-sixth-book.json#book6-2005-02-01-writes-open-letter-to-colleagues-against-oath-regulations
 - 2005年2月1日 | 李敖就职立委并公布研究室“四不一没有”
   精度：day；可靠度：confirmed；排序日期：2005-02-01
   摘要：《从参选到上台》写，李敖于2005年2月1日就职立法委员，研究室抽到中兴大楼1108号，并在门口贴出“不认六亲，只认正义”等“四不一没有”，表明其问政和待客规则。
@@ -10160,6 +10212,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/008.从参选到上台.txt
   数据：data/timeline-events-sixth-book.json#book6-2005-02-01-sworn-in-as-legislator-and-sets-office-rules
+- 2005年2月23日 | 李敖发表《李敖的六点声明》，先把宋楚瑜咬定在反军购线上
+  精度：day；可靠度：confirmed；排序日期：2005-02-23
+  摘要：《反军购固盘秘辛》写，2005年2月23日李敖发表《李敖的六点声明》，一面回顾自己拆穿国民党与民进党的著述，一面强调多党制衡和在野党套牢执政党的必要，并点名宋楚瑜既然已参加民主行动联盟反军购游行，就不应受亲美、CIA背景或军火回扣人士影响而转向支持军购。
+  人物：李敖、宋楚瑜、连战、李登辉、马英九、王作荣
+  地点：台湾
+  标签：宋楚瑜、六点声明、反军购、民主行动联盟、亲民党
+  视图：政治线、军购线、写作线
+  作品：李敖的六点声明、国民党研究、国民党研究续集、民进党研究、李敖议坛哀思录
+  交叉引用：-
+  来源：李敖议坛哀思录 / 113.反军购固盘秘辛 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/113.反军购固盘秘辛.txt
+  数据：data/timeline-events-sixth-book.json#book6-2005-02-23-issues-six-point-statement-to-lock-song-chuyu-into-anti-arms-line
 - 2005年3月9日 | 李敖在国防委员会首次质询国防部长李杰
   精度：day；可靠度：confirmed；排序日期：2005-03-09
   摘要：《我告诉你，就是狗》写，2005年3月9日李敖在国防委员会首次质询国防部长李杰，围绕6108亿军购、《与台湾关系法》与美台关系激烈交锋，并以“我们是美国人的看门狗”概括其批判。
@@ -10654,6 +10719,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/052.请你闭嘴！.txt
   数据：data/timeline-events-sixth-book.json#book6-2005-10-19-warns-ma-yingjeou-may-release-kmt-arms-procurement
+- 2005年11月3日 | 李敖写信催颜清标出席国防委员会，阻止军购案偷渡表决
+  精度：day；可靠度：confirmed；排序日期：2005-11-03
+  摘要：《高金素梅送我“裸照”》收录李敖于2005年11月3日写给颜清标的短函，要求颜在下周一上午、周三全天务必出席国防委员会坐镇，以防军购案被李文忠等人一两票之差偷渡表决成功。李敖同时找高金素梅帮忙说动颜清标，但高金后来失信未能到场。
+  人物：李敖、颜清标、高金素梅、李文忠、陈文茜
+  地点：立法院国防委员会、台北
+  标签：颜清标、高金素梅、国防委员会、军购案、写信
+  视图：政治线、立法院线、军购线
+  作品：李敖议坛哀思录
+  交叉引用：book6-2005-11-07-objects-to-defense-budget-review-and-demands-arms-rental-details、book6-2005-11-07-demands-half-cut-of-general-political-warfare-bureau-budget
+  来源：李敖议坛哀思录 / 123.高金素梅送我“裸照” / line 7
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/123.高金素梅送我“裸照”.txt
+  数据：data/timeline-events-sixth-book.json#book6-2005-11-03-writes-to-yen-chingpiao-to-attend-defense-committee-and-block-arms-vote
 - 2005年11月7日 | 李敖审国防预算，要求说明军租细节并主张争议项目搁置
   精度：day；可靠度：confirmed；排序日期：2005-11-07
   摘要：《护航丑证》写，2005年11月7日李敖参加2006年度政府总预算国防部主管公开部分审查，开场即指出谢长廷曾称军购、军租并存，但预算书仍未说明哪些武器可以租、不必买，因此预算书太粗糙，主张应全部搁置；会议随后以逐目审查和有争议项目留待最后处理的方式进行。
@@ -10955,6 +11033,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/086.用选市长传播理念.txt
   数据：data/timeline-events-sixth-book.json#book6-2006-10-15-tv-reports-li-ao-run-for-taipei-mayor-reactions
+- 2006年10月19日 | 李敖拒绝美国在台协会副处长王晓岷约见
+  精度：day；可靠度：confirmed；排序日期：2006-10-19
+  摘要：《反军购固盘秘辛》末尾记，2006年10月19日 Vicky 转告美国在台协会副处长 Robert S. Wang 想约李敖见面，并留下两个时间，李敖回应“不要理他们，我讨厌美国人。”这条反映他在反军购主线外，对美国方面私下接触的明确拒绝。
+  人物：李敖、Robert S. Wang、Vicky
+  地点：台北
+  标签：美国在台协会、Robert S. Wang、拒见、反美、反军购
+  视图：政治线、军购线、两岸线、日常线
+  作品：李敖议坛哀思录
+  交叉引用：book6-2006-10-19-questions-cec-chair-on-black-agency-and-post-no-confidence-election、book6-2006-12-29-holds-running-dog-sign-when-arms-procurement-passes
+  来源：李敖议坛哀思录 / 113.反军购固盘秘辛 / line 33
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/113.反军购固盘秘辛.txt
+  数据：data/timeline-events-sixth-book.json#book6-2006-10-19-refuses-meeting-request-from-ait-deputy-director-robert-wang
 - 2006年10月19日 | 李敖质询中选会张政雄，批其为黑衙门并追问倒阁后选举届次
   精度：day；可靠度：confirmed；排序日期：2006-10-19
   摘要：《你们是不是“黑衙门”？》写，2006年10月19日李敖在内政及民族委员会质询中选会主委张政雄，先问其主任委员称呼和中选会是否合法，指出中选会组织法未通过，是“黑衙门”；随后追问若倒阁、解散国会，宪法要求六十日内选出新立委，中选会是否能用单一选区两票制配套、一年公告和113席新制抵触宪法，李敖坚持应按第六届225席处理。
@@ -11282,6 +11373,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/094.太平岛纠缠战.txt
   数据：data/timeline-events-sixth-book.json#book6-2007-01-11-second-taiping-island-speech-on-poison-bento-and-three-percent-budget
+- 2007年1月18日 | 李敖宣布将投赞成票支持陈聪明任检察总长，并在院会亮票
+  精度：day；可靠度：confirmed；排序日期：2007-01-18
+  摘要：《我这一票人》写，2007年1月18日检察总长陈聪明同意权案进入关键表决，外界原预期李敖会投反对票，但他当日上午公开表示将投赞成票，理由是陈聪明当年曾抵抗军方压力，起诉萧孟能、王剑芬和胡因梦伪造文书案。李敖强调自己投的是“当年的陈聪明”，并在院会亮票，故意逆着国民党阻投路线行事。
+  人物：李敖、陈聪明、胡因梦、萧孟能、王剑芬、马英九
+  地点：立法院、台北
+  标签：陈聪明、检察总长、同意权、亮票、胡因梦、伪造文书
+  视图：政治线、立法院线、司法线、媒体线
+  作品：法院组织法、联合晚报、YAHOO!奇摩新闻、李敖议坛哀思录
+  交叉引用：-
+  来源：李敖议坛哀思录 / 111.我这一票人 / line 7
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/111.我这一票人.txt
+  数据：data/timeline-events-sixth-book.json#book6-2007-01-18-announces-support-vote-for-chen-tsungming-as-prosecutor-general
 - 2007年2月5日 | 李敖写“为媚美军购质问国民党员”，以雷倩为例列十二项质问
   精度：day；可靠度：confirmed；排序日期：2007-02-05
   摘要：《为媚美军购质问国民党员》写，2007年2月5日李敖写成同名文章，以雷倩控告喷瓦斯事件为背景，从军购大前提、安全需求、潜舰、程序委员会、院会表决、雷学明案、反军购身份、投票反复、北京行和私德诚信等十二项，要求雷倩公开答复。
@@ -11334,6 +11438,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/093.台湾的“贱种”性格.txt
   数据：data/timeline-events-sixth-book.json#book6-2007-03-08-holds-press-conference-on-lee-tenghui-goto-shinpei-award
+- 2007年3月23日 | 李敖写《李敖对“台独公投”说明书》
+  精度：day；可靠度：confirmed；排序日期：2007-03-23
+  摘要：《李敖对“台独公投”说明书》写，2007年3月23日李敖以戏谑口吻写出同名说明书，集中批评民进党口称建立台湾共和国却不敢废掉中华民国国号与国旗，并借连战2004年11月20日与陈水扁2004年11月21日围绕“台独公投”的对话，讥刺蓝绿都不敢玩真的。
+  人物：李敖、连战、陈水扁、蒋介石
+  地点：台湾
+  标签：台独公投、说明书、台湾共和国、中华民国、连战、陈水扁
+  视图：写作线、政治线、两岸线
+  作品：李敖对“台独公投”说明书、民进党党纲、李敖议坛哀思录
+  交叉引用：-
+  来源：李敖议坛哀思录 / 106.李敖对“台独公投”说明书 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/106.李敖对“台独公投”说明书.txt
+  数据：data/timeline-events-sixth-book.json#book6-2007-03-23-writes-explanation-of-taiwan-independence-referendum
+- 2007年3月28日 | 李敖写《是谁不肯兑现民进党党纲？》，喊出“不要等个屁呀”
+  精度：day；可靠度：confirmed；排序日期：2007-03-28
+  摘要：《不要等个屁呀！》写，2007年3月28日李敖在五天前《李敖对“台独公投”说明书》基础上，进一步写成《是谁不肯兑现民进党党纲？》，追溯1999年公投法运动、2003年11月27日蔡同荣版表决弃权闹剧和2004年公投绑大选，要求民进党若真要独立，就应立即修《公投法》举行“台独公投”，而不是继续玩“正名”“修宪”“第二共和”等家家酒。
+  人物：李敖、蔡同荣、彭明敏、李镇源、林义雄、黄石城、辜宽敏、陈隆志、高俊明、许世楷、黄昭堂、李文忠
+  地点：台湾、立法院
+  标签：民进党党纲、台独公投、公投法、蔡同荣、第二共和、修宪
+  视图：写作线、政治线、两岸线
+  作品：是谁不肯兑现民进党党纲？、公民投票法、民进党党纲、李敖议坛哀思录
+  交叉引用：book6-2007-03-23-writes-explanation-of-taiwan-independence-referendum
+  来源：李敖议坛哀思录 / 107.不要等个屁呀！ / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/107.不要等个屁呀！.txt
+  数据：data/timeline-events-sixth-book.json#book6-2007-03-28-writes-dont-wait-fart-piece-to-force-dpp-platform-fulfillment
 - 2007年3月29日 | 李敖赠《红色11》给林郁方并题诗
   精度：day；可靠度：confirmed；排序日期：2007-03-29
   摘要：同章末尾记，李敖赠《红色11》给林郁方，并在扉页题诗“物竞天择强者胜，强阳不倒忍者龟，一分春色春犹在，十分红处便成灰”，署日2007年3月29日。这条补入两人交游和李敖以题赠方式施加政治劝说的日常痕迹。
@@ -11464,6 +11594,71 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/100.我又宰了四个.txt
   数据：data/timeline-events-sixth-book.json#book6-2007-09-26-questions-four-more-grand-justice-nominees-and-says-he-will-vote-no
+- 2007年9月28日 | 李敖在总预算院会质询张俊雄，借“斯文豪氏蛙”批本土政策与假台独
+  精度：day；可靠度：confirmed；排序日期：2007-09-28
+  摘要：《“斯文豪氏蛙”》写，2007年9月28日李敖在审查九十七年度中央政府总预算案院会上质询行政院长张俊雄，借台湾赤蛙实为“斯文豪氏蛙”和闽南话并非“台湾话”的例子，批评教育部本土教育政策名实错乱；又要张俊雄讲真话，指出无论以台湾名义入联还是以中华民国返联都走不通，民进党与国民党长期都在骗台湾人民。
+  人物：李敖、张俊雄、王幸男、谢长廷、苏贞昌、蒋介石、蒋经国、李登辉、陈水扁
+  地点：立法院、台北、台湾、联合国
+  标签：张俊雄、总预算、本土化、联合国、台独、斯文豪氏蛙
+  视图：政治线、立法院线、两岸线
+  作品：李敖议坛哀思录
+  交叉引用：book6-2007-03-23-writes-explanation-of-taiwan-independence-referendum、book6-2007-03-28-writes-dont-wait-fart-piece-to-force-dpp-platform-fulfillment
+  来源：李敖议坛哀思录 / 101.“斯文豪氏蛙” / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/101.“斯文豪氏蛙”.txt
+  数据：data/timeline-events-sixth-book.json#book6-2007-09-28-questions-chang-chunghsiung-on-localization-and-fake-independence
+- 2007年9月30日上午10时 | 李敖在中兴大楼103室召开“中国智慧党成立大会”
+  精度：day；可靠度：confirmed；排序日期：2007-09-30
+  摘要：《创立中国第一个英美式民主政党》写，2007年9月30日上午10时，李敖在立法院中兴大楼103室贴出“中国智慧党成立大会”，补足法定人数并由内政部专员到场见证，正式推出“中国智慧党”。他在现场致词50分钟、张贴22张图片证据，并记下全部开支31122元；随后内政部刁难登记，他则透过林宪同直接提告，故意留下“碍难照准”的记录。
+  人物：李敖、冯沪祥、林宪同、叶芳雄、林镇驹、刘文雄、李戡、李逸洋、陈荫华
+  地点：立法院中兴大楼、台北
+  标签：中国智慧党、中兴大楼103室、成立大会、林宪同、冯沪祥
+  视图：政治线、组党线、写作线
+  作品：中国智慧党、李敖议坛哀思录
+  交叉引用：book6-2007-10-01-questions-hsu-huiyou-on-un-name-before-referendum
+  来源：李敖议坛哀思录 / 124.创立中国第一个英美式民主政党 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/124.创立中国第一个英美式民主政党.txt
+  数据：data/timeline-events-sixth-book.json#book6-2007-09-30-founds-china-wisdom-party-at-zhongxing-building-room-103
+- 2007年10月1日 | 李敖质询许惠祐，追问公投入联前应先定国名
+  精度：day；可靠度：confirmed；排序日期：2007-10-01
+  摘要：《什么机密？机个屁密！》写，2007年10月1日李敖在国防委员会质询国安局长许惠祐，先提到媒体报道他筹组中国智慧党，继而反复追问：若公投入联通过、联合国同意台湾入会，究竟是以“台湾”、“台湾共和国”、“台湾民主国”还是“中华民国”名义加入？李敖据此批评执政党舍本逐末，主张先通过“台独公投”建立新国名。
+  人物：李敖、许惠祐、陈水扁
+  地点：立法院国防委员会、台北、联合国
+  标签：许惠祐、国安局、公投入联、国名、中国智慧党、台独公投
+  视图：政治线、立法院线、两岸线
+  作品：李敖议坛哀思录
+  交叉引用：book6-2007-03-23-writes-explanation-of-taiwan-independence-referendum、book6-2007-03-28-writes-dont-wait-fart-piece-to-force-dpp-platform-fulfillment
+  来源：李敖议坛哀思录 / 102.什么机密？机个屁密！ / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/102.什么机密？机个屁密！.txt
+  数据：data/timeline-events-sixth-book.json#book6-2007-10-01-questions-hsu-huiyou-on-un-name-before-referendum
+- 2007年10月3日 | 李敖质询胡镇埔，拿游锡堃继父老士官领取退俸举例为退辅会背书
+  精度：day；可靠度：confirmed；排序日期：2007-10-03
+  摘要：《游锡堃的爸爸是外省士官》写，2007年10月3日李敖在国防委员会质询退辅会主委胡镇埔，指出游锡堃母亲改嫁外省湖南籍老士官夏福禧后，直到2002年去世仍领取退辅会半薪，借此说明退辅会预算并非只养外省老兵，而民进党现任主席家庭也受其照顾；他据此痛批退辅会不会运用现成宣传资料，任由外界污名化。
+  人物：李敖、胡镇埔、游锡堃、夏福禧、黄秀菊、帅化民
+  地点：立法院国防委员会、台北
+  标签：胡镇埔、退辅会、游锡堃、夏福禧、退休俸、老荣民
+  视图：政治线、立法院线、老兵线
+  作品：李敖议坛哀思录
+  交叉引用：book6-2005-03-10-questions-retired-servicemen-affairs-chairman-gao-huazhu
+  来源：李敖议坛哀思录 / 103.游锡堃的爸爸是外省士官 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/103.游锡堃的爸爸是外省士官.txt
+  数据：data/timeline-events-sixth-book.json#book6-2007-10-03-questions-hu-zhenpu-with-yu-hsiikun-stepfather-veteran-example
+- 2007年10月5日 | 李敖质询审计长林庆隆，称自己当年投反对票并要他去抓“大角”
+  精度：day；可靠度：confirmed；排序日期：2007-10-05
+  摘要：《我是反对你出任的》写，2007年10月5日李敖在审核九十五年度中央政府总决算报告时质询审计长林庆隆，先说明自己当年即是五张反对其出任审计长的票之一；继而追打总统府发票与审计抽查问题，批评审计体系长期不敢碰“大角”只抓“小角”，要求林庆隆面对总统府和重大财政浪费问题。
+  人物：李敖、林庆隆、苏振平、陈水扁
+  地点：立法院、台北、总统府
+  标签：林庆隆、审计长、总决算、总统府、发票、大角小角
+  视图：政治线、立法院线、司法线
+  作品：李敖议坛哀思录
+  交叉引用：book6-2007-10-05-lunch-with-li-tianyu-and-laughs-at-fight-to-last-soldier
+  来源：李敖议坛哀思录 / 104.我是反对你出任的 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/104.我是反对你出任的.txt
+  数据：data/timeline-events-sixth-book.json#book6-2007-10-05-questions-auditor-general-lin-chinglung-on-catching-big-tigers
 - 2007年10月5日中午 | 李天羽请国防委员会便饭，李敖听到“战到一兵一卒”当场笑起来
   精度：day；可靠度：confirmed；排序日期：2007-10-05
   摘要：同章后记写，2007年10月5日中午李天羽请国防委员会委员便饭并做简报。李敖发言后，林进兴说军人要战到一兵一卒，李敖当场笑起来，并以蒋介石当年若真战到一兵一卒便不会来台湾，讽刺这种说法为“蒋公附体”。
@@ -11477,3 +11672,16 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/096.会自杀的国防部长.txt
   数据：data/timeline-events-sixth-book.json#book6-2007-10-05-lunch-with-li-tianyu-and-laughs-at-fight-to-last-soldier
+- 2007年11月6日，在台北楼中楼 | 李敖在台北楼中楼写下“缴卷”式结尾，为《李敖议坛哀思录》收束
+  精度：day；可靠度：confirmed；排序日期：2007-11-06
+  摘要：《摸屁股送客》末尾署日2007年11月6日，李敖把这本书比作最后一堂考试的缴卷，称自己最懒得写这本书，只想赶快考完、走到阳光下去吃蛋卷冰淇淋，并以“王八，再见；冰淇淋，我来了！”作为收尾，留下这一卷的写作结束痕迹。
+  人物：李敖
+  地点：台北楼中楼、台北
+  标签：台北楼中楼、写作、缴卷、李敖议坛哀思录、结尾
+  视图：写作线、生平线、日常线
+  作品：李敖议坛哀思录
+  交叉引用：-
+  来源：李敖议坛哀思录 / 132.摸屁股送客 / line 31
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/132.摸屁股送客.txt
+  数据：data/timeline-events-sixth-book.json#book6-2007-11-06-finishes-book-with-turn-in-paper-ending-at-taipei-loft
