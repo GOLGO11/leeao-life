@@ -1465,5 +1465,101 @@
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/483.四点结局.txt",
       "line": 5
     }
+  },
+  {
+    "id": "book7-1984-12-22-meets-lu-huadong-and-refuses-to-let-persecution-go",
+    "date": "1984-12-22",
+    "displayDate": "1984年12月22日",
+    "datePrecision": "day",
+    "title": "李敖在百货公司重逢卢华栋，并表明自己绝不把国民党迫害“就算了”",
+    "summary": "《“就算了？”》写，1984年12月22日，李敖在百货公司重逢台大老同学卢华栋，得知对方出狱后已结婚生子、洗手商场，不愿再写狱中回忆。李敖追问“这样被国民党欺负了，就算了？”卢华栋答“就算了”，李敖则借此明确写出自己恩仇绝不轻放、要“千刀万里追”的性格。",
+    "view": ["恩仇线", "友朋线", "反抗线"],
+    "tags": ["卢华栋", "百货公司", "重逢", "国民党迫害", "1984年12月22日"],
+    "people": ["李敖", "卢华栋", "黄毅辛", "陶希圣", "胡秋原"],
+    "places": ["台北"],
+    "works": ["李敖风流自传"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book7-1985-06-08-letter-to-liu-huiyun-about-his-way-of-fighting-old-k"
+    ],
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "556.“就算了？”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/556.“就算了？”.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book7-1985-06-08-letter-to-liu-huiyun-about-his-way-of-fighting-old-k",
+    "date": "1985-06-08",
+    "displayDate": "1985年6月8日",
+    "datePrecision": "day",
+    "title": "李敖致刘会云长信，系统说明自己反老K的“方式”",
+    "summary": "《我有我的方式》写，1985年6月8日，李敖致信刘会云，集中解释自己如何以出书反击、法律求偿、海外专栏和拒绝合作等多重方式对付国民党老K。他在信中把这种斗争方式说成不是作秀而是务实，也把自己最欣赏的地方归结为始终不给老K“吃”下去。",
+    "view": ["书信线", "反抗线", "写作线"],
+    "tags": ["刘会云", "书信", "老K", "反抗方式", "1985年6月8日"],
+    "people": ["李敖", "刘会云", "许水德", "苏南成", "Michel Oksenberg", "陈诚", "蒋经国"],
+    "places": ["台北", "美国"],
+    "works": ["万岁", "鸟政府，赔钱来！", "损害赔偿请求书", "李敖风流自传"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book7-1984-12-05-writes-letter-to-liu-huiyun-revealing-mood-after-divorce",
+      "book7-1984-12-22-meets-lu-huadong-and-refuses-to-let-persecution-go"
+    ],
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "558.我有我的方式",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/558.我有我的方式.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book7-2011-publishes-i-dream-broken-so-i-awake-and-lists-eight-directions",
+    "date": "2011-12-31",
+    "displayDate": "2011年",
+    "datePrecision": "year",
+    "title": "李敖出版《我梦碎，所以我梦醒》，提出“八点方向”",
+    "summary": "《八点方向》写，2011年李敖出版《我梦碎，所以我梦醒》，在书中提出“八点方向”，把自己对中国、台湾、共产党、美国以及两岸相处的判断压缩成八条原则。这是他晚年政治总论的一次集中定稿，也可视作《议坛》阶段之后的思想结穴。",
+    "view": ["写作线", "思想线", "晚年线"],
+    "tags": ["我梦碎，所以我梦醒", "八点方向", "2011年", "两岸", "政治总论"],
+    "people": ["李敖"],
+    "places": ["台北"],
+    "works": ["我梦碎，所以我梦醒", "李敖风流自传"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book7-2011-xiamen-university-lecture-considered-best-of-life",
+      "book7-2011-03-31-receives-xiamen-university-honorary-professorship"
+    ],
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "552.八点方向",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/552.八点方向.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book7-1991-09-30-qianqiu-pinglun-ends-after-ten-years",
+    "date": "1991-09-30",
+    "displayDate": "1991年9月30日",
+    "datePrecision": "day",
+    "title": "《千秋评论》停刊，十年出版战线告一段落",
+    "summary": "《“十年辛苦不寻常”》写，1991年9月30日，《千秋评论》在创造历史十年后停刊，李敖把这十年形容为字字皆血、一路从戒严打到解严的长期阵地战。这一停刊日可视为他以《千秋评论》为主轴连续对抗国民党的出版战线正式收束。",
+    "view": ["出版线", "反抗线", "写作线"],
+    "tags": ["千秋评论", "停刊", "十年辛苦不寻常", "1991年9月30日", "出版战线"],
+    "people": ["李敖"],
+    "places": ["台北"],
+    "works": ["千秋评论", "李敖风流自传"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book4-1981-08-10-prepares-first-six-qianqiu-volumes-before-prison",
+      "book4-deep-1986-07-23-qianqiu-58-seized-repeatedly",
+      "book4-1991-11-01-li-ao-qiushi-review-starts"
+    ],
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "565.“十年辛苦不寻常”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/565.“十年辛苦不寻常”.txt",
+      "line": 3
+    }
   }
 ]

@@ -1,9 +1,9 @@
 李敖交互式年表：当前增量纯文本备份
 生成日期：2026-04-22
-事件总数：993
+事件总数：998
 数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json
 说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。
-日期精度统计：day=747；year=55；undated-range=1；undated-context=112；season=21；lunar-day=1；year-after=6；month=24；half-year=2；day-range=9；month-after=2；year-range=4；year-about=5；day-after=3；year-end=1
+日期精度统计：day=751；year=56；undated-range=1；undated-context=112；season=21；lunar-day=1；year-after=6；month=24；half-year=2；day-range=9；month-after=2；year-range=4；year-about=5；day-after=3；year-end=1
 
 
 1935
@@ -7825,6 +7825,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/484.刘会云.txt
   数据：data/timeline-events-seventh-book.json#book7-1984-12-05-writes-letter-to-liu-huiyun-revealing-mood-after-divorce
+- 1984年12月22日 | 李敖在百货公司重逢卢华栋，并表明自己绝不把国民党迫害“就算了”
+  精度：day；可靠度：confirmed；排序日期：1984-12-22
+  摘要：《“就算了？”》写，1984年12月22日，李敖在百货公司重逢台大老同学卢华栋，得知对方出狱后已结婚生子、洗手商场，不愿再写狱中回忆。李敖追问“这样被国民党欺负了，就算了？”卢华栋答“就算了”，李敖则借此明确写出自己恩仇绝不轻放、要“千刀万里追”的性格。
+  人物：李敖、卢华栋、黄毅辛、陶希圣、胡秋原
+  地点：台北
+  标签：卢华栋、百货公司、重逢、国民党迫害、1984年12月22日
+  视图：恩仇线、友朋线、反抗线
+  作品：李敖风流自传
+  交叉引用：book7-1985-06-08-letter-to-liu-huiyun-about-his-way-of-fighting-old-k
+  来源：李敖风流自传 / 556.“就算了？” / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/556.“就算了？”.txt
+  数据：data/timeline-events-seventh-book.json#book7-1984-12-22-meets-lu-huadong-and-refuses-to-let-persecution-go
 - 1984年1月 | 李敖开始出版《万岁评论》
   精度：month；可靠度：confirmed；排序日期：1984-01-31
   摘要：李敖在“笔伐”章说明，自1984年1月起他又加出《万岁评论》，与《千秋评论》错开出版，形成几乎每半个月出书一册的节奏。
@@ -7918,6 +7931,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/018.笔伐（1982-1992·47到57岁）.txt
   数据：data/timeline-events-fourth-book.json#book4-1985-03-23-zheng-nanjung-delivers-xiaodong-secret-packet
+- 1985年4月2日 | 李敖出地检处后与胡茵梦寒暄，并当面挖苦萧孟能“欠我十天”
+  精度：day；可靠度：confirmed；排序日期：1985-04-02
+  摘要：《四点结局》引李敖1985年4月2日日记：当日他出地检处庭后，先与胡茵梦当庭前后寒暄，又当着萧孟能的面打趣，说对方先后被判一个月二十天和四个月，还“欠我十天”，等第三次坐牢就扯平。这个同场片段把李敖、胡茵梦与萧孟能三人纠葛，在官司现场浓缩成一瞬。
+  人物：李敖、胡茵梦、萧孟能
+  地点：台北地检处
+  标签：地检处、胡茵梦、萧孟能、日记、1985年4月2日
+  视图：司法线、感情线、恩仇线
+  作品：李敖风流自传
+  交叉引用：book7-1987-01-14-high-court-hearing-xiao-mengneng-false-accusation-case-first-mediation、book4-1980-08-28-li-announces-divorce-from-hu
+  来源：李敖风流自传 / 483.四点结局 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/483.四点结局.txt
+  数据：data/timeline-events-seventh-book.json#book7-1985-04-02-greets-hu-yinmeng-and-jokes-with-xiao-mengneng-after-court
 - 1985年4月4日（由文末日期推得） | 胡因子等涉嫌背信案开侦查庭
   精度：day；可靠度：inferred；排序日期：1985-04-04
   摘要：《新女性的新谎话》署1985年4月10日，文中称“本月4日开胡因子等涉嫌背信侦查庭”，据此推得1985年4月4日开庭，是胡茵梦权状争议的后续侦查节点。
@@ -8100,6 +8126,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/005.“北土非吾愿，东林怀我师”.txt
   数据：data/timeline-events-first-book-supplement.json#1985-06-05-yao-essay-finished
+- 1985年6月8日 | 李敖致刘会云长信，系统说明自己反老K的“方式”
+  精度：day；可靠度：confirmed；排序日期：1985-06-08
+  摘要：《我有我的方式》写，1985年6月8日，李敖致信刘会云，集中解释自己如何以出书反击、法律求偿、海外专栏和拒绝合作等多重方式对付国民党老K。他在信中把这种斗争方式说成不是作秀而是务实，也把自己最欣赏的地方归结为始终不给老K“吃”下去。
+  人物：李敖、刘会云、许水德、苏南成、Michel Oksenberg、陈诚、蒋经国
+  地点：台北、美国
+  标签：刘会云、书信、老K、反抗方式、1985年6月8日
+  视图：书信线、反抗线、写作线
+  作品：万岁、鸟政府，赔钱来！、损害赔偿请求书、李敖风流自传
+  交叉引用：book7-1984-12-05-writes-letter-to-liu-huiyun-revealing-mood-after-divorce、book7-1984-12-22-meets-lu-huadong-and-refuses-to-let-persecution-go
+  来源：李敖风流自传 / 558.我有我的方式 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/558.我有我的方式.txt
+  数据：data/timeline-events-seventh-book.json#book7-1985-06-08-letter-to-liu-huiyun-about-his-way-of-fighting-old-k
 - 1985年6月24日 | 李敖委龙云翔向台北市政府提出损害赔偿请求
   精度：day；可靠度：confirmed；排序日期：1985-06-24
   摘要：《闹衙纪》写，因《五十·五十·易》上册遭误扣，李敖于1985年6月24日由龙云翔律师代理，向台北市政府提出损害赔偿请求，要求赔偿被扣书款及象征性一元。
@@ -9568,6 +9607,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/014.我最难忘的一个“反共义士”.txt
   数据：data/timeline-events-third-book.json#book3-1991-08-13-qu-juncheng-written
+- 1991年9月30日 | 《千秋评论》停刊，十年出版战线告一段落
+  精度：day；可靠度：confirmed；排序日期：1991-09-30
+  摘要：《“十年辛苦不寻常”》写，1991年9月30日，《千秋评论》在创造历史十年后停刊，李敖把这十年形容为字字皆血、一路从戒严打到解严的长期阵地战。这一停刊日可视为他以《千秋评论》为主轴连续对抗国民党的出版战线正式收束。
+  人物：李敖
+  地点：台北
+  标签：千秋评论、停刊、十年辛苦不寻常、1991年9月30日、出版战线
+  视图：出版线、反抗线、写作线
+  作品：千秋评论、李敖风流自传
+  交叉引用：book4-1981-08-10-prepares-first-six-qianqiu-volumes-before-prison、book4-deep-1986-07-23-qianqiu-58-seized-repeatedly、book4-1991-11-01-li-ao-qiushi-review-starts
+  来源：李敖风流自传 / 565.“十年辛苦不寻常” / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/565.“十年辛苦不寻常”.txt
+  数据：data/timeline-events-seventh-book.json#book7-1991-09-30-qianqiu-pinglun-ends-after-ten-years
 - 1991年10月19日 | 李敖写《新版三十三不亦快哉》
   精度：day；可靠度：confirmed；排序日期：1991-10-19
   摘要：《志留纪》写，李敖1991年10月19日写《新版三十三不亦快哉》，以短篇条列方式表达自己的玩世喜感、政治讽刺与日常趣味。
@@ -13038,6 +13090,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/237.《第73烈士》志缘.txt
   数据：data/timeline-events-seventh-book.json#book7-2011-04-27-marks-publication-of-the-73rd-martyr-with-corrected-date
+- 2011年 | 李敖出版《我梦碎，所以我梦醒》，提出“八点方向”
+  精度：year；可靠度：confirmed；排序日期：2011-12-31
+  摘要：《八点方向》写，2011年李敖出版《我梦碎，所以我梦醒》，在书中提出“八点方向”，把自己对中国、台湾、共产党、美国以及两岸相处的判断压缩成八条原则。这是他晚年政治总论的一次集中定稿，也可视作《议坛》阶段之后的思想结穴。
+  人物：李敖
+  地点：台北
+  标签：我梦碎，所以我梦醒、八点方向、2011年、两岸、政治总论
+  视图：写作线、思想线、晚年线
+  作品：我梦碎，所以我梦醒、李敖风流自传
+  交叉引用：book7-2011-xiamen-university-lecture-considered-best-of-life、book7-2011-03-31-receives-xiamen-university-honorary-professorship
+  来源：李敖风流自传 / 552.八点方向 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/552.八点方向.txt
+  数据：data/timeline-events-seventh-book.json#book7-2011-publishes-i-dream-broken-so-i-awake-and-lists-eight-directions
 - 2011年 | 李敖应朱崇实之邀赴厦门大学演讲，并自评为生平最好一场
   精度：year；可靠度：confirmed；排序日期：2011-12-31
   摘要：《厦门大学》写，2011年李敖应朱崇实邀请赴厦门大学演讲，自称这是自己一生最好的一场演讲，比北大那场更激越。章中同时补出他因怕连累刘长乐而未事先告知此行，使厦门之行带有一层私谊与自我保护的意味。
