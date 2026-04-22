@@ -1,9 +1,9 @@
 李敖交互式年表：当前增量纯文本备份
 生成日期：2026-04-22
-事件总数：1106
-数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json
+事件总数：1116
+数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json
 说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。
-日期精度统计：day=836；year=69；year-range=6；undated-range=1；undated-context=113；season=22；lunar-day=1；year-after=7；month=29；half-year=2；day-range=9；month-after=2；year-about=5；day-after=3；year-end=1
+日期精度统计：day=844；year=70；year-range=6；undated-range=1；undated-context=113；season=22；lunar-day=1；year-after=7；month=29；half-year=2；day-range=10；month-after=2；year-about=5；day-after=3；year-end=1
 
 
 1935
@@ -3595,6 +3595,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/022.十三年和十三月.txt
   数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1962-12-17-thirteen-years-and-thirteen-months-dated
+- 1962年1月15日夜11时半动手写，七小时写毕，在碧潭山楼 | 李敖在碧潭山楼通宵写成《光绪朝对节妇贞女的旌表》
+  精度：day-range；可靠度：confirmed；排序日期：1962-01-15
+  摘要：《光绪朝对节妇贞女的旌表》文末署“1962年1月15日夜11时半动手写，七小时写毕，在碧潭山楼”。这条留下了李敖深夜起笔、通宵完成此文的清晰写作痕迹，也把碧潭山楼再次钉进他早期写作生活里。
+  人物：李敖
+  地点：碧潭山楼
+  标签：光绪朝对节妇贞女的旌表、碧潭山楼、通宵写作、1962、独白下的传统
+  视图：写作线、生平线、思想线
+  作品：光绪朝对节妇贞女的旌表、独白下的传统
+  交叉引用：-
+  来源：独白下的传统 / 013.光绪朝对节妇贞女的旌表 / line 101
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/003.独白下的传统/013.光绪朝对节妇贞女的旌表.txt
+  数据：data/timeline-events-monologue-under-tradition.json#monologue-under-tradition-1962-01-15-festival-women-citations-written-overnight
 
 1963
 - 1963年1月1日 | 李敖在《今日医药》谈修改医师法与医界风气
@@ -5427,6 +5440,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/007.我最难忘的一个官僚同学.txt
   数据：data/timeline-events-third-book.json#book3-1968-05-13-shi-phone-dagongbao-wenxing
+- 1968年6月13日 | 李敖写定《从高玉树为儿子“冥婚”看中国两面文化》
+  精度：day；可靠度：confirmed；排序日期：1968-06-13
+  摘要：《从高玉树为儿子“冥婚”看中国两面文化》文末署1968年6月13日。李敖借高玉树家为亡子补办冥婚的社会新闻，转入中国经典传统与民俗传统之间的冲突，写成一篇很典型的文化双面批判文章。
+  人物：李敖、高玉树
+  地点：台北、山仔后
+  标签：从高玉树为儿子冥婚看中国两面文化、高玉树、冥婚、1968、独白下的传统
+  视图：写作线、思想线、文化线
+  作品：从高玉树为儿子“冥婚”看中国两面文化、独白下的传统
+  交叉引用：-
+  来源：独白下的传统 / 014.从高玉树为儿子“冥婚”看中国两面文化 / line 55
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/003.独白下的传统/014.从高玉树为儿子“冥婚”看中国两面文化.txt
+  数据：data/timeline-events-monologue-under-tradition.json#monologue-under-tradition-1968-06-13-ghao-yu-shu-ghost-marriage-culture-two-faces
 - 1968年10月25日 | 《台湾青年》刊出泰源监狱政治犯名单
   精度：day；可靠度：confirmed；排序日期：1968-10-25
   摘要：李敖在被讯问时看到《台湾青年》第一二〇期，其1968年10月25日刊出的“台湾泰源监狱政治犯名单”令他恍然：原来自己提供的名单已被台独机关刊物使用。
@@ -6762,6 +6788,19 @@
   数据：data/timeline-events-fourth-book.json#book4-1978-08-20-finally-gets-ir-center-resignation-certificate
 
 1979
+- 1979年1月30日以两个小时初稿 | 李敖两小时写出《欢喜佛》初稿
+  精度：day；可靠度：confirmed；排序日期：1979-01-30
+  摘要：《欢喜佛》文末署“1979年1月30日以两个小时初稿，5月10日以四个小时修订”。这一条先把初稿日钉住，显示李敖在1979年初已开始集中处理这一组文化批判文章。
+  人物：李敖
+  地点：台湾
+  标签：欢喜佛、初稿、两个小时、1979、独白下的传统
+  视图：写作线、思想线、文化线
+  作品：欢喜佛、独白下的传统
+  交叉引用：-
+  来源：独白下的传统 / 015.欢喜佛 / line 71
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/003.独白下的传统/015.欢喜佛.txt
+  数据：data/timeline-events-monologue-under-tradition.json#monologue-under-tradition-1979-01-30-huan-xi-fo-first-draft-in-two-hours
 - 1979年3月26日 | 李敖以股东身分质问中国合成橡胶公司
   精度：day；可靠度：confirmed；排序日期：1979-03-26
   摘要：李敖在隐居尾声的经济纠纷里写到，他自1979年3月26日起以股东身分三次发函中国合成橡胶公司，追问中国信托投资公司持股违法与公司治理问题。
@@ -6801,6 +6840,84 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/015.隐居（1976-1979·41到44岁）.txt
   数据：data/timeline-events-fourth-book.json#book4-1979-04-12-writes-china-trust-demand-letter
+- 1979年5月10日以四个小时修订 | 李敖四小时修订《欢喜佛》
+  精度：day；可靠度：confirmed；排序日期：1979-05-10
+  摘要：《欢喜佛》文末署“1979年1月30日以两个小时初稿，5月10日以四个小时修订”。这条把初稿之后的再加工节点补上，也让《欢喜佛》和《独白下的传统》里5月密集写作线连起来。
+  人物：李敖
+  地点：台湾
+  标签：欢喜佛、修订、四个小时、1979、独白下的传统
+  视图：写作线、思想线、文化线
+  作品：欢喜佛、独白下的传统
+  交叉引用：monologue-under-tradition-1979-01-30-huan-xi-fo-first-draft-in-two-hours
+  来源：独白下的传统 / 015.欢喜佛 / line 71
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/003.独白下的传统/015.欢喜佛.txt
+  数据：data/timeline-events-monologue-under-tradition.json#monologue-under-tradition-1979-05-10-huan-xi-fo-revised-in-four-hours
+- 1979年5月11日 | 李敖写定《鼓声咚咚的中国之音》
+  精度：day；可靠度：confirmed；排序日期：1979-05-11
+  摘要：《鼓声咚咚的中国之音》文末署1979年5月11日。文章借“谏鼓”“登闻鼓”与凤阳花鼓，梳理中国“下面的声音”如何被压制、象征化与民间化，是《独白下的传统》中典型的制度文化批判文章。
+  人物：李敖
+  地点：台湾
+  标签：鼓声咚咚的中国之音、谏鼓、登闻鼓、凤阳花鼓、独白下的传统
+  视图：写作线、思想线、政治线
+  作品：鼓声咚咚的中国之音、独白下的传统
+  交叉引用：-
+  来源：独白下的传统 / 019.鼓声咚咚的中国之音 / line 183
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/003.独白下的传统/019.鼓声咚咚的中国之音.txt
+  数据：data/timeline-events-monologue-under-tradition.json#monologue-under-tradition-1979-05-11-drum-sound-china-voice-written
+- 1979年5月11日三小时写成 | 李敖三小时写成《一种失传了的言论道具》
+  精度：day；可靠度：confirmed；排序日期：1979-05-11
+  摘要：《一种失传了的言论道具》文末署“1979年5月11日三小时写成”。文章借“诽谤之木”与华表的历史变形，讨论中国专制传统里象征性纳谏与真实言论空间之间的落差。
+  人物：李敖
+  地点：台湾
+  标签：一种失传了的言论道具、诽谤之木、华表、三小时写成、独白下的传统
+  视图：写作线、思想线、政治线
+  作品：一种失传了的言论道具、独白下的传统
+  交叉引用：monologue-under-tradition-1979-05-11-drum-sound-china-voice-written
+  来源：独白下的传统 / 020.一种失传了的言论道具 / line 89
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/003.独白下的传统/020.一种失传了的言论道具.txt
+  数据：data/timeline-events-monologue-under-tradition.json#monologue-under-tradition-1979-05-11-lost-speech-prop-written-in-three-hours
+- 1979年5月14日三小时写成 | 李敖三小时写成《人能感动蝙蝠论》
+  精度：day；可靠度：confirmed；排序日期：1979-05-14
+  摘要：《人能感动蝙蝠论》文末署“1979年5月14日三小时写成”。文章从“人事感天”一路写到韩愈与蝙蝠、鳄鱼的荒诞传说，以戏谑笔法批评中国知识分子处理迷信观念的方式。
+  人物：李敖、韩愈、顾炎武
+  地点：台湾
+  标签：人能感动蝙蝠论、韩愈、蝙蝠、三小时写成、独白下的传统
+  视图：写作线、思想线、文化线
+  作品：人能感动蝙蝠论、独白下的传统
+  交叉引用：-
+  来源：独白下的传统 / 017.人能感动蝙蝠论 / line 47
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/003.独白下的传统/017.人能感动蝙蝠论.txt
+  数据：data/timeline-events-monologue-under-tradition.json#monologue-under-tradition-1979-05-14-human-can-move-bats-written-in-three-hours
+- 1979年5月18日 | 李敖写《记一个不合作主义者》
+  精度：day；可靠度：confirmed；排序日期：1979-05-18
+  摘要：《记一个不合作主义者》文末署1979年5月18日。李敖借明清之际的李二曲，讨论在强权下坚持不合作主义的传统与代价，把古代隐逸转换成一种现代政治寓言。
+  人物：李敖、李二曲、康熙
+  地点：台湾、陕西
+  标签：记一个不合作主义者、李二曲、不合作主义、独白下的传统
+  视图：写作线、思想线、政治线
+  作品：记一个不合作主义者、独白下的传统
+  交叉引用：-
+  来源：独白下的传统 / 021.记一个不合作主义者 / line 55
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/003.独白下的传统/021.记一个不合作主义者.txt
+  数据：data/timeline-events-monologue-under-tradition.json#monologue-under-tradition-1979-05-18-records-a-noncooperator
+- 1979年5月24日一个小时完工 | 李敖一小时写成《人能感动老虎论》
+  精度：day；可靠度：confirmed；排序日期：1979-05-24
+  摘要：《人能感动老虎论》文末署“1979年5月24日一个小时完工”。这篇是《人能感动蝙蝠论》的续写，转入“循吏感虎”与孝子感动物的传统想象，继续拆解中国文化中的泛灵信仰。
+  人物：李敖
+  地点：台湾
+  标签：人能感动老虎论、老虎、一个小时完工、独白下的传统
+  视图：写作线、思想线、文化线
+  作品：人能感动老虎论、独白下的传统
+  交叉引用：monologue-under-tradition-1979-05-14-human-can-move-bats-written-in-three-hours
+  来源：独白下的传统 / 018.人能感动老虎论 / line 55
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/003.独白下的传统/018.人能感动老虎论.txt
+  数据：data/timeline-events-monologue-under-tradition.json#monologue-under-tradition-1979-05-24-human-can-move-tigers-written-in-one-hour
 - 1979年6月6日 | 《中国时报》社会版图文报道李敖复出
   精度：day；可靠度：confirmed；排序日期：1979-06-06
   摘要：李敖回忆，1979年6月6日《中国时报》社会版刊出《李敖变了吗？看他怎么说！》，成为台湾报纸第一次大篇幅图文并茂报道李敖，文坛由此奔走相告他已复出。
@@ -6918,6 +7035,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/014.被封杀的“人民公敌”.txt
   数据：data/timeline-events-first-book-broad.json#1979-06-du-bai-xia-de-chuan-tong-first-comeback-book
+- 1979年经年累月足不出户之日在台湾写 | 李敖在台湾闭门写《独白下的传统》
+  精度：year；可靠度：confirmed；排序日期：1979-12-31
+  摘要：《快看〈独白下的传统〉》文末署“1979年经年累月足不出户之日在台湾写”。这为《独白下的传统》整本书的写作状态留下一个总引式节点，显示它是在李敖复出后以长期闭门方式写成的中国入门书。
+  人物：李敖
+  地点：台湾
+  标签：独白下的传统、台湾、足不出户、1979、写作
+  视图：写作线、思想线、生平线
+  作品：独白下的传统
+  交叉引用：1979-06-du-bai-xia-de-chuan-tong-first-comeback-book
+  来源：独白下的传统 / 001.快看《独白下的传统》 / line 113
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/003.独白下的传统/001.快看《独白下的传统》.txt
+  数据：data/timeline-events-monologue-under-tradition.json#monologue-under-tradition-1979-book-written-in-seclusion-in-taiwan
 - 1979年复出后 | 平鑫涛介绍三毛与李敖见面
   精度：year-after；可靠度：confirmed；排序日期：1979-12-31
   摘要：李敖回忆1979年复出后，皇冠的平鑫涛请他吃饭，并介绍仰慕他的三毛。李敖当面质疑三毛“帮助黄沙中的黑人”而不帮助“黑暗中的黄人”，作为他痛斥伪善的例子。

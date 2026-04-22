@@ -1,0 +1,214 @@
+[
+  {
+    "id": "monologue-under-tradition-1979-book-written-in-seclusion-in-taiwan",
+    "date": "1979-12-31",
+    "displayDate": "1979年经年累月足不出户之日在台湾写",
+    "datePrecision": "year",
+    "title": "李敖在台湾闭门写《独白下的传统》",
+    "summary": "《快看〈独白下的传统〉》文末署“1979年经年累月足不出户之日在台湾写”。这为《独白下的传统》整本书的写作状态留下一个总引式节点，显示它是在李敖复出后以长期闭门方式写成的中国入门书。",
+    "view": ["写作线", "思想线", "生平线"],
+    "tags": ["独白下的传统", "台湾", "足不出户", "1979", "写作"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["独白下的传统"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "1979-06-du-bai-xia-de-chuan-tong-first-comeback-book"
+    ],
+    "source": {
+      "book": "独白下的传统",
+      "chapter": "001.快看《独白下的传统》",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/003.独白下的传统/001.快看《独白下的传统》.txt",
+      "line": 113
+    }
+  },
+  {
+    "id": "monologue-under-tradition-1979-05-11-drum-sound-china-voice-written",
+    "date": "1979-05-11",
+    "displayDate": "1979年5月11日",
+    "datePrecision": "day",
+    "title": "李敖写定《鼓声咚咚的中国之音》",
+    "summary": "《鼓声咚咚的中国之音》文末署1979年5月11日。文章借“谏鼓”“登闻鼓”与凤阳花鼓，梳理中国“下面的声音”如何被压制、象征化与民间化，是《独白下的传统》中典型的制度文化批判文章。",
+    "view": ["写作线", "思想线", "政治线"],
+    "tags": ["鼓声咚咚的中国之音", "谏鼓", "登闻鼓", "凤阳花鼓", "独白下的传统"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["鼓声咚咚的中国之音", "独白下的传统"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "独白下的传统",
+      "chapter": "019.鼓声咚咚的中国之音",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/003.独白下的传统/019.鼓声咚咚的中国之音.txt",
+      "line": 183
+    }
+  },
+  {
+    "id": "monologue-under-tradition-1979-05-11-lost-speech-prop-written-in-three-hours",
+    "date": "1979-05-11",
+    "displayDate": "1979年5月11日三小时写成",
+    "datePrecision": "day",
+    "title": "李敖三小时写成《一种失传了的言论道具》",
+    "summary": "《一种失传了的言论道具》文末署“1979年5月11日三小时写成”。文章借“诽谤之木”与华表的历史变形，讨论中国专制传统里象征性纳谏与真实言论空间之间的落差。",
+    "view": ["写作线", "思想线", "政治线"],
+    "tags": ["一种失传了的言论道具", "诽谤之木", "华表", "三小时写成", "独白下的传统"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["一种失传了的言论道具", "独白下的传统"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "monologue-under-tradition-1979-05-11-drum-sound-china-voice-written"
+    ],
+    "source": {
+      "book": "独白下的传统",
+      "chapter": "020.一种失传了的言论道具",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/003.独白下的传统/020.一种失传了的言论道具.txt",
+      "line": 89
+    }
+  },
+  {
+    "id": "monologue-under-tradition-1979-05-14-human-can-move-bats-written-in-three-hours",
+    "date": "1979-05-14",
+    "displayDate": "1979年5月14日三小时写成",
+    "datePrecision": "day",
+    "title": "李敖三小时写成《人能感动蝙蝠论》",
+    "summary": "《人能感动蝙蝠论》文末署“1979年5月14日三小时写成”。文章从“人事感天”一路写到韩愈与蝙蝠、鳄鱼的荒诞传说，以戏谑笔法批评中国知识分子处理迷信观念的方式。",
+    "view": ["写作线", "思想线", "文化线"],
+    "tags": ["人能感动蝙蝠论", "韩愈", "蝙蝠", "三小时写成", "独白下的传统"],
+    "people": ["李敖", "韩愈", "顾炎武"],
+    "places": ["台湾"],
+    "works": ["人能感动蝙蝠论", "独白下的传统"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "独白下的传统",
+      "chapter": "017.人能感动蝙蝠论",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/003.独白下的传统/017.人能感动蝙蝠论.txt",
+      "line": 47
+    }
+  },
+  {
+    "id": "monologue-under-tradition-1979-05-18-records-a-noncooperator",
+    "date": "1979-05-18",
+    "displayDate": "1979年5月18日",
+    "datePrecision": "day",
+    "title": "李敖写《记一个不合作主义者》",
+    "summary": "《记一个不合作主义者》文末署1979年5月18日。李敖借明清之际的李二曲，讨论在强权下坚持不合作主义的传统与代价，把古代隐逸转换成一种现代政治寓言。",
+    "view": ["写作线", "思想线", "政治线"],
+    "tags": ["记一个不合作主义者", "李二曲", "不合作主义", "独白下的传统"],
+    "people": ["李敖", "李二曲", "康熙"],
+    "places": ["台湾", "陕西"],
+    "works": ["记一个不合作主义者", "独白下的传统"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "独白下的传统",
+      "chapter": "021.记一个不合作主义者",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/003.独白下的传统/021.记一个不合作主义者.txt",
+      "line": 55
+    }
+  },
+  {
+    "id": "monologue-under-tradition-1979-05-24-human-can-move-tigers-written-in-one-hour",
+    "date": "1979-05-24",
+    "displayDate": "1979年5月24日一个小时完工",
+    "datePrecision": "day",
+    "title": "李敖一小时写成《人能感动老虎论》",
+    "summary": "《人能感动老虎论》文末署“1979年5月24日一个小时完工”。这篇是《人能感动蝙蝠论》的续写，转入“循吏感虎”与孝子感动物的传统想象，继续拆解中国文化中的泛灵信仰。",
+    "view": ["写作线", "思想线", "文化线"],
+    "tags": ["人能感动老虎论", "老虎", "一个小时完工", "独白下的传统"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["人能感动老虎论", "独白下的传统"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "monologue-under-tradition-1979-05-14-human-can-move-bats-written-in-three-hours"
+    ],
+    "source": {
+      "book": "独白下的传统",
+      "chapter": "018.人能感动老虎论",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/003.独白下的传统/018.人能感动老虎论.txt",
+      "line": 55
+    }
+  },
+  {
+    "id": "monologue-under-tradition-1962-01-15-festival-women-citations-written-overnight",
+    "date": "1962-01-15",
+    "displayDate": "1962年1月15日夜11时半动手写，七小时写毕，在碧潭山楼",
+    "datePrecision": "day-range",
+    "title": "李敖在碧潭山楼通宵写成《光绪朝对节妇贞女的旌表》",
+    "summary": "《光绪朝对节妇贞女的旌表》文末署“1962年1月15日夜11时半动手写，七小时写毕，在碧潭山楼”。这条留下了李敖深夜起笔、通宵完成此文的清晰写作痕迹，也把碧潭山楼再次钉进他早期写作生活里。",
+    "view": ["写作线", "生平线", "思想线"],
+    "tags": ["光绪朝对节妇贞女的旌表", "碧潭山楼", "通宵写作", "1962", "独白下的传统"],
+    "people": ["李敖"],
+    "places": ["碧潭山楼"],
+    "works": ["光绪朝对节妇贞女的旌表", "独白下的传统"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "独白下的传统",
+      "chapter": "013.光绪朝对节妇贞女的旌表",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/003.独白下的传统/013.光绪朝对节妇贞女的旌表.txt",
+      "line": 101
+    }
+  },
+  {
+    "id": "monologue-under-tradition-1968-06-13-ghao-yu-shu-ghost-marriage-culture-two-faces",
+    "date": "1968-06-13",
+    "displayDate": "1968年6月13日",
+    "datePrecision": "day",
+    "title": "李敖写定《从高玉树为儿子“冥婚”看中国两面文化》",
+    "summary": "《从高玉树为儿子“冥婚”看中国两面文化》文末署1968年6月13日。李敖借高玉树家为亡子补办冥婚的社会新闻，转入中国经典传统与民俗传统之间的冲突，写成一篇很典型的文化双面批判文章。",
+    "view": ["写作线", "思想线", "文化线"],
+    "tags": ["从高玉树为儿子冥婚看中国两面文化", "高玉树", "冥婚", "1968", "独白下的传统"],
+    "people": ["李敖", "高玉树"],
+    "places": ["台北", "山仔后"],
+    "works": ["从高玉树为儿子“冥婚”看中国两面文化", "独白下的传统"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "独白下的传统",
+      "chapter": "014.从高玉树为儿子“冥婚”看中国两面文化",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/003.独白下的传统/014.从高玉树为儿子“冥婚”看中国两面文化.txt",
+      "line": 55
+    }
+  },
+  {
+    "id": "monologue-under-tradition-1979-01-30-huan-xi-fo-first-draft-in-two-hours",
+    "date": "1979-01-30",
+    "displayDate": "1979年1月30日以两个小时初稿",
+    "datePrecision": "day",
+    "title": "李敖两小时写出《欢喜佛》初稿",
+    "summary": "《欢喜佛》文末署“1979年1月30日以两个小时初稿，5月10日以四个小时修订”。这一条先把初稿日钉住，显示李敖在1979年初已开始集中处理这一组文化批判文章。",
+    "view": ["写作线", "思想线", "文化线"],
+    "tags": ["欢喜佛", "初稿", "两个小时", "1979", "独白下的传统"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["欢喜佛", "独白下的传统"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "独白下的传统",
+      "chapter": "015.欢喜佛",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/003.独白下的传统/015.欢喜佛.txt",
+      "line": 71
+    }
+  },
+  {
+    "id": "monologue-under-tradition-1979-05-10-huan-xi-fo-revised-in-four-hours",
+    "date": "1979-05-10",
+    "displayDate": "1979年5月10日以四个小时修订",
+    "datePrecision": "day",
+    "title": "李敖四小时修订《欢喜佛》",
+    "summary": "《欢喜佛》文末署“1979年1月30日以两个小时初稿，5月10日以四个小时修订”。这条把初稿之后的再加工节点补上，也让《欢喜佛》和《独白下的传统》里5月密集写作线连起来。",
+    "view": ["写作线", "思想线", "文化线"],
+    "tags": ["欢喜佛", "修订", "四个小时", "1979", "独白下的传统"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["欢喜佛", "独白下的传统"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "monologue-under-tradition-1979-01-30-huan-xi-fo-first-draft-in-two-hours"
+    ],
+    "source": {
+      "book": "独白下的传统",
+      "chapter": "015.欢喜佛",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/003.独白下的传统/015.欢喜佛.txt",
+      "line": 71
+    }
+  }
+]
