@@ -1,6 +1,6 @@
 # 李敖交互式年表开发交接记录
 
-生成日期：2026-04-20
+生成日期：2026-04-22
 
 ## 项目目标
 
@@ -98,7 +98,7 @@ tools/export-timeline-text.mjs 的 dataFiles
 
 ## 当前计数
 
-截至第六本第二十轮结束：
+截至第六本第二十一轮结束：
 
 ```text
 data/timeline-events.json                         32
@@ -113,15 +113,15 @@ data/timeline-events-third-book-qiao-evidence.json 16
 data/timeline-events-fourth-book.json             115
 data/timeline-events-fourth-book-deepening.json   29
 data/timeline-events-fifth-book.json              220
-data/timeline-events-sixth-book.json              151
-总计                                             918
+data/timeline-events-sixth-book.json              156
+总计                                             923
 ```
 
 `exports/leeao-current-timeline.txt` 表头已同步：
 
 ```text
-事件总数：918
-日期精度统计：day=693；year=44；undated-range=1；undated-context=111；season=17；lunar-day=1；year-after=6；month=19；half-year=2；day-range=9；month-after=2；year-range=4；year-about=5；day-after=3；year-end=1
+事件总数：923
+日期精度统计：day=698；year=44；undated-range=1；undated-context=111；season=17；lunar-day=1；year-after=6；month=19；half-year=2；day-range=9；month-after=2；year-range=4；year-about=5；day-after=3；year-end=1
 ```
 
 ## 当前处理进度
@@ -132,7 +132,7 @@ data/timeline-events-sixth-book.json              151
 data/ingestion-log.json
 ```
 
-当前最新轮次为 `iteration: 47`。
+当前最新轮次为 `iteration: 48`。
 
 已处理到第六本：
 
@@ -147,7 +147,7 @@ data/ingestion-log.json
 
 第五本《李敖快意恩仇录》已经停止深挖，并完成 1960-1961 重复事件校正，当前定格在 220 条。
 
-第六本《李敖议坛哀思录》已推进到第二十轮，当前 151 条。
+第六本《李敖议坛哀思录》已推进到第二十一轮，当前 156 条。
 
 ## 第六本当前状态
 
@@ -357,10 +357,11 @@ data/timeline-events-sixth-book.json
 
 第六本当前最值得继续的路线：
 
-1. 第六本当前最顺的主线，已经从“补硬日期”切到“补模糊项但高价值文本”。`095`、`114`、`115`、`116`、`117`、`118`、`119`、`120`、`121`、`122` 都已处理；`108 / 112 / 128` 也已做过一次合并审查。
-2. `108.两组耐人寻味的名单.txt` 已补入一条：李敖整理“台独公投”案连署与拒签名单，作为揭穿民进党假台独的证据。这一章更适合作为既有 2007 年“台独公投”链的补证，而不是再拆很多独立事件。
-3. `112.“他妈的”与“你妈的”.txt` 已审过一轮，目前判断更像论证与修辞补述，暂不值得强起独立事件；除非后续用户要求把思想表达密度再提高。
-4. `128.我的台湾人朋友.txt` 已补入一条较安全的直接材料：李敖记刘文雄与林镇驹把中国智慧党海报贴到办公室门口看板上。其余部分仍需严防滑成与李敖关系过弱的旁人名录或履历材料。
+1. 第六本当前最顺的主线，已经从“补硬日期”切到“补模糊项但高价值文本”，但这轮又回补了前半部几章里漏掉的硬日期：`013`、`014`、`015`、`016` 已补入 5 条，前半部的立院姿态与政治书信链更完整了。
+2. `013.我拒绝向孙中山宣誓.txt` 已补入一条：2005-02-01 李敖在立委宣誓时摆出自己照片，拒绝向孙中山遗像宣誓。它与同日写给同仁废止《宣誓条例》的公开信互为表里。
+3. `014.院长王金平.txt` 已补入一条高价值书信：2006-12-24 写给王金平但未寄出的信，集中陈述台湾“自欺、亲美、仇共”三大危机。章内其余饭局、送礼与人情往还仍应克制，不要泛化成年表噪音。
+4. `015.我选立委的第一目的.txt`、`016.挡军购，宋楚瑜有前功.txt` 已分别补入 2004-11-02《2300万，别再做笨蛋》声明，以及 2006-12-08/09 致宋楚瑜两封信。它们把李敖的反军购立场从参选前一直拉到 2006 年底党团策略，链条更清楚。
+5. `112.“他妈的”与“你妈的”.txt` 仍保持“审后暂不入”；`128.我的台湾人朋友.txt` 除已入那一条中国智慧党海报外，其余部分仍应严防滑成旁人名录。
 3. `134-142` 现已全部至少处理过一轮；其中 `136`、`140`、`142` 仍是带说明的 `certainty=inferred`。这三条以后可由人工校对或专门档案回查来升级，但现阶段不值得继续大量耗时。
 4. 继续时要注意：Book 6 原始 txt 多为 GB18030，直接 Read 常出现乱码；可靠流程是先 `iconv -f GB18030 -t UTF-8 ... | nl -ba`，再据此写 source.line。
 

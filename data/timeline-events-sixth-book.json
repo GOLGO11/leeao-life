@@ -3433,5 +3433,125 @@
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/141.立法院公报第96卷第51期委员会纪录.txt",
       "line": 21
     }
+  },
+  {
+    "id": "book6-2004-11-02-issues-2300-million-dont-be-fools-statement-against-us-arms-logic",
+    "date": "2004-11-02",
+    "displayDate": "2004年11月2日",
+    "datePrecision": "day",
+    "title": "李敖发表《2300万，别再做笨蛋》，先行亮出参选立委后的反军购主轴",
+    "summary": "《我选立委的第一目的》回忆，李敖在2004年12月11日当选前38天、即2004年11月2日，就发表《2300万，别再做笨蛋——李敖就军购案的声明》，用九点说明质疑《与台湾关系法》、美国军售与台湾替美国“花钱买骨头”的逻辑，提前表明自己参选立委的首要目标是对付美国与反对军购。",
+    "view": ["政治线", "军购线", "思想线"],
+    "tags": ["2300万别再做笨蛋", "军购声明", "与台湾关系法", "美国", "参选立委"],
+    "people": ["李敖", "乔治·肯楠", "保罗·尼兹"],
+    "places": ["台北", "台湾", "美国"],
+    "works": ["2300万，别再做笨蛋——李敖就军购案的声明", "与台湾关系法", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book6-2004-10-12-registers-legislative-candidacy",
+      "book6-2005-03-09-first-questioning-of-defense-minister-li-jie"
+    ],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "015.我选立委的第一目的",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/015.我选立委的第一目的.txt",
+      "line": 13
+    }
+  },
+  {
+    "id": "book6-2005-02-01-refuses-to-swear-to-sun-yat-sen-by-using-his-own-portrait",
+    "date": "2005-02-01",
+    "displayDate": "2005年2月1日",
+    "datePrecision": "day",
+    "title": "李敖在立委宣誓时摆出自己照片，拒绝向孙中山遗像宣誓",
+    "summary": "《我拒绝向孙中山宣誓》写，李敖认为《宣誓条例》强制向国旗与“国父”遗像宣誓荒谬，且孙中山本人曾作假誓，因此在立委就职宣誓时请摄影家赖岳忠把自己的照片放大贴板，立在桌上，故意挡在自己与孙中山遗像之间，对着自己的照片宣誓。",
+    "view": ["政治线", "立法院线", "思想线"],
+    "tags": ["宣誓", "孙中山", "宣誓条例", "赖岳忠", "立委就职"],
+    "people": ["李敖", "孙中山", "赖岳忠", "陈文茜"],
+    "places": ["立法院", "台北"],
+    "works": ["宣誓条例", "李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book6-2005-02-01-sworn-in-as-legislator-and-sets-office-rules",
+      "book6-2005-02-01-writes-open-letter-to-colleagues-against-oath-regulations"
+    ],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "013.我拒绝向孙中山宣誓",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/013.我拒绝向孙中山宣誓.txt",
+      "line": 21
+    }
+  },
+  {
+    "id": "book6-2006-12-08-writes-letter-to-song-chuyu-defending-song-over-lien-soong-meeting-and-arms-delay",
+    "date": "2006-12-08",
+    "displayDate": "2006年12月8日晨10时30分",
+    "datePrecision": "day",
+    "title": "李敖致信宋楚瑜，为其“扁宋会”形象辩护并肯定其拖住军购",
+    "summary": "《挡军购，宋楚瑜有前功》收录李敖2006年12月8日上午10时30分写给宋楚瑜的信。李敖在信中指出，外界因“扁宋会”而不再支持宋楚瑜，是误会了宋；他强调扁宋会背后有美国因素，而宋在军购案上实际上坚持原则、拖住陈水扁，不该被简单看作出卖支持者。",
+    "view": ["政治线", "军购线", "书信线"],
+    "tags": ["宋楚瑜", "扁宋会", "军购", "书信", "美国"],
+    "people": ["李敖", "宋楚瑜", "陈水扁"],
+    "places": ["台北"],
+    "works": ["李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book6-2005-02-23-issues-six-point-statement-to-lock-song-chuyu-into-anti-arms-line",
+      "book6-2006-06-03-advocates-cabinet-no-confidence-after-song-visit"
+    ],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "016.挡军购，宋楚瑜有前功",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/016.挡军购，宋楚瑜有前功.txt",
+      "line": 39
+    }
+  },
+  {
+    "id": "book6-2006-12-09-writes-wuhan-plan-letter-urging-song-chuyu-to-split-caucuses",
+    "date": "2006-12-09",
+    "displayDate": "2006年12月9日夜7时10分",
+    "datePrecision": "day",
+    "title": "李敖写“吴汉计划”信，劝宋楚瑜拆分党团瘫痪立法院",
+    "summary": "《挡军购，宋楚瑜有前功》收录李敖2006年12月9日夜7时10分写给宋楚瑜的第二封信。李敖借东汉吴汉败后仍磨刀备战的典故，提出“吴汉计划”，主张亲民党在立法院把稳定席次细胞分裂成二到三个党团，以多组团队协商、阻挠议案和冻结预算，借此瘫痪立法院、抢救台湾政局。",
+    "view": ["政治线", "立法院线", "军购线", "书信线"],
+    "tags": ["吴汉计划", "宋楚瑜", "亲民党", "党团", "filibuster", "书信"],
+    "people": ["李敖", "宋楚瑜", "吴汉"],
+    "places": ["立法院", "台北"],
+    "works": ["李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book6-2006-12-08-writes-letter-to-song-chuyu-defending-song-over-lien-soong-meeting-and-arms-delay",
+      "book6-2006-06-03-advocates-cabinet-no-confidence-after-song-visit"
+    ],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "016.挡军购，宋楚瑜有前功",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/016.挡军购，宋楚瑜有前功.txt",
+      "line": 53
+    }
+  },
+  {
+    "id": "book6-2006-12-24-writes-unsent-letter-to-wang-jinping-on-three-crises",
+    "date": "2006-12-24",
+    "displayDate": "2006年12月24日",
+    "datePrecision": "day",
+    "title": "李敖写给王金平一封未寄出的信，陈述台湾三大危机与最后希望",
+    "summary": "《院长王金平》写，2006年12月24日李敖在阳明山“青山见我楼”写好一封给王金平的信，但最终踟蹰未寄。信中他把台湾困局概括为自欺、亲美、仇共三大危机，称自己是把最后希望寄托给唯一可能力挽狂澜的人，并劝王金平在军购与两岸问题上作出选择。",
+    "view": ["政治线", "军购线", "书信线", "交游线"],
+    "tags": ["王金平", "未寄出的信", "三大危机", "亲美", "仇共", "军购"],
+    "people": ["李敖", "王金平", "李显龙"],
+    "places": ["阳明山青山见我楼", "台湾"],
+    "works": ["李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book6-2006-04-21-lunch-with-ma-yingjeou-on-arms-procurement-and-kmt-speech",
+      "book6-2006-12-29-holds-running-dog-sign-when-arms-procurement-passes"
+    ],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "014.院长王金平",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/014.院长王金平.txt",
+      "line": 41
+    }
   }
 ]
