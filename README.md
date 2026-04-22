@@ -18,10 +18,11 @@
 - 已建立第四本深挖增量数据：`data/timeline-events-fourth-book-deepening.json`
 - 已推进第五本第八轮数据并完成1960-1961重复事件校正：`data/timeline-events-fifth-book.json`（220 条）
 - 已推进第六本第二十三轮数据：`data/timeline-events-sixth-book.json`（160 条）
-- 已推进第七本第二十八轮数据：`data/timeline-events-seventh-book.json`（78 条）
+- 已完成第七本 closeout：`data/timeline-events-seventh-book.json`（78 条，阶段性收束）
+- 已建立第八本第七轮数据：`data/timeline-events-eighth-book.json`（42 条）
 - 已建立逐书处理日志：`data/ingestion-log.json`
 - 已生成研究校对用当前总表：`exports/leeao-current-timeline.txt`
-- 当前已处理《李敖自传与回忆》《李敖自传与回忆续集》《我最难忘的事和人》《李敖回忆录》《李敖快意恩仇录》《李敖议坛哀思录》《李敖风流自传》的部分章节，未一次性读取 163 本全集
+- 当前已处理《李敖自传与回忆》《李敖自传与回忆续集》《我最难忘的事和人》《李敖回忆录》《李敖快意恩仇录》《李敖议坛哀思录》《李敖风流自传》《李敖相关》的增量章节；其中第七本《李敖风流自传》已完成最后一次模糊项筛查与阶段性收束，后续仅保留跨书互校式回补，不再作为常规深挖主线；第八本《李敖相关》当前按“参考资料 / 名录 / 查禁清单”口径开挖，优先录入此前未保留的名录收录、媒体处理与官方处分节点。
 
 ## 增量规则
 
