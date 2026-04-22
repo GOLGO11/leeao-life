@@ -37,7 +37,7 @@ const dataFiles = [
   "./data/timeline-events-sixth-book.json",
   "./data/timeline-events-seventh-book.json"
 ];
-const dataVersion = "2026-04-22-seventh-round-9";
+const dataVersion = "2026-04-22-seventh-round-12";
 
 const dateFormatter = new Intl.DateTimeFormat("zh-Hant", {
   year: "numeric",
@@ -166,7 +166,7 @@ function renderDecadeNav(decades) {
 }
 
 function renderStats(events) {
-  eventCount.textContent = String(events.length);
+  eventCount.textContent = String(state.events.length);
   bookCount.textContent = String(unique(state.events.map((event) => event.source.book)).length);
   if (!events.length) {
     rangeLabel.textContent = "-";
@@ -175,7 +175,7 @@ function renderStats(events) {
   }
   const sorted = [...events].sort((a, b) => a.date.localeCompare(b.date));
   rangeLabel.textContent = `${sorted[0].date.slice(0, 4)}-${sorted.at(-1).date.slice(0, 4)}`;
-  resultLabel.textContent = `当前显示 ${events.length} 条`;
+  resultLabel.textContent = `当前显示 ${events.length} 条，已载入 ${state.events.length} 条，数据版本 ${dataVersion}`;
 }
 
 function renderTimeline(events) {

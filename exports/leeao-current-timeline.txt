@@ -1,9 +1,9 @@
 李敖交互式年表：当前增量纯文本备份
 生成日期：2026-04-22
-事件总数：967
+事件总数：976
 数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json
 说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。
-日期精度统计：day=728；year=52；undated-range=1；undated-context=112；season=19；lunar-day=1；year-after=6；month=22；half-year=2；day-range=9；month-after=2；year-range=4；year-about=5；day-after=3；year-end=1
+日期精度统计：day=734；year=54；undated-range=1；undated-context=112；season=20；lunar-day=1；year-after=6；month=22；half-year=2；day-range=9；month-after=2；year-range=4；year-about=5；day-after=3；year-end=1
 
 
 1935
@@ -2969,6 +2969,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/008.星火纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1961-wenxianhui-temporary-job
+- 1961年冬天 | 李敖以《老年人和棒子》投进《文星》，正式接上文星线
+  精度：season；可靠度：confirmed；排序日期：1961-12-31
+  摘要：《我进〈文星〉》写，1961年冬天，李敖写成《老年人和棒子》投到《文星》，自此《文星》编辑群开始注意到他；随后他又接连发表《给谈中西文化的人看看病》等文，迅速打进台湾思想文化场域。这条材料把他进入《文星》的起点说得更具体。
+  人物：李敖、萧孟能、朱婉坚
+  地点：台北
+  标签：文星、老年人和棒子、1961年冬天、投稿、出道
+  视图：写作线、出版线、文星线
+  作品：老年人和棒子、文星、李敖风流自传
+  交叉引用：-
+  来源：李敖风流自传 / 250.我进《文星》 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/250.我进《文星》.txt
+  数据：data/timeline-events-seventh-book.json#book7-1961-winter-enters-wenxing-through-old-man-and-stick
 - 退伍后住“四席小屋”时的一天 | 李敖在衡阳路地摊发现《花花公子》大幅彩色裸照
   精度：undated-context；可靠度：confirmed；排序日期：1961-12-31
   摘要：《白露纪》写，李敖退伍后住“四席小屋”时，一天逛衡阳路地摊，看到《PLAYBOY》杂志中间折页的大幅彩色裸照，由此打开他对裸体照片、视觉审美和私人收藏的一个新阶段。
@@ -3155,6 +3168,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/007.《恶法录及其他》新版前言.txt
   数据：data/timeline-events-second-book.json#book2-1963-04-05-lu-xiaozhao-letter-evil-laws
+- 1963年5月4日 | 高荫祖出示陶希圣来信后，李敖离开文献会
+  精度：day；可靠度：confirmed；排序日期：1963-05-04
+  摘要：《离开文献会》写，1963年5月4日，高荫祖出示陶希圣前一日赴日时留下的信，表示文献会以研究生为宜，请李敖暂别来上班；李敖当场拒绝入党建议，也谢绝“留职发薪”的好意，就此离开文献会。这条材料把李敖与陶希圣系统决裂的时间钉得更稳。
+  人物：李敖、陶希圣、高荫祖
+  地点：台北
+  标签：文献会、陶希圣、高荫祖、离职、拒绝入党
+  视图：生平线、工作线、思想线
+  作品：李敖风流自传
+  交叉引用：-
+  来源：李敖风流自传 / 276.离开文献会 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/276.离开文献会.txt
+  数据：data/timeline-events-seventh-book.json#book7-1963-05-04-leaves-wenxianhui-after-tao-letter-shown
 - 1963年5月8日 | 李敖在心园与李方桂、姚从吾、吴相湘同席吃饭
   精度：day；可靠度：confirmed；排序日期：1963-05-08
   摘要：《中央研究院不准进门》写，1963年5月8日，李敖在台北心园与语言学家李方桂、姚从吾、吴相湘等同席吃饭。此时他刚离文献会不久，席间师友对失业一事绝口不提，正显出李敖在文献会后的人际尴尬与学界余温并存。
@@ -3417,6 +3443,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/005.“北土非吾愿，东林怀我师”.txt
   数据：data/timeline-events-first-book-supplement.json#1964-09-02-tao-criticizes-li
+- 1964年9月2日 | 陶希圣在《中央日报》发表《保全台大的名誉》，公开攻击李敖
+  精度：day；可靠度：confirmed；排序日期：1964-09-02
+  摘要：《陶希圣公开攻击我》写，1964年9月2日，陶希圣在《中央日报》发表《保全台大的名誉》，指李敖“诬蔑台大的文章”叛师毁友、架空造谣，并主张台大应依法追诉。对李敖来说，这标志着陶希圣从私下拉拢失败转为公开翻脸。
+  人物：李敖、陶希圣
+  地点：台北
+  标签：陶希圣、中央日报、保全台大的名誉、公开攻击、台大
+  视图：论战线、文星线、思想线
+  作品：中央日报、保全台大的名誉、李敖风流自传
+  交叉引用：-
+  来源：李敖风流自传 / 279.陶希圣公开攻击我 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/279.陶希圣公开攻击我.txt
+  数据：data/timeline-events-seventh-book.json#book7-1964-09-02-tao-xisheng-publishes-protect-taiwan-university-honor-attacking-li
 - 1964-09-06 | 陶希圣续写《谤书》攻击《胡适评传》
   精度：day；可靠度：confirmed；排序日期：1964-09-06
   摘要：陶希圣在四天后又写《谤书》，攻击李敖《胡适评传》第一册，称若无人异议可说是士林之耻。
@@ -3430,6 +3469,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/005.“北土非吾愿，东林怀我师”.txt
   数据：data/timeline-events-first-book-supplement.json#1964-09-06-tao-bangshu
+- 1964年9月6日 | 陶希圣再发《谤书》，追打《胡适评传》
+  精度：day；可靠度：confirmed；排序日期：1964-09-06
+  摘要：《陶希圣公开攻击我》写，1964年9月6日，陶希圣又在《中央日报》发表《谤书》，指《胡适评传》表面上赞胡适，实则从上代到本人都加以讥刺，并以“士君子之态”相责。李敖把这看成双方公开决裂后的又一次追击。
+  人物：李敖、陶希圣、胡适
+  地点：台北
+  标签：陶希圣、中央日报、谤书、胡适评传、公开攻击
+  视图：论战线、写作线、思想线
+  作品：中央日报、谤书、胡适评传、李敖风流自传
+  交叉引用：-
+  来源：李敖风流自传 / 279.陶希圣公开攻击我 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/279.陶希圣公开攻击我.txt
+  数据：data/timeline-events-seventh-book.json#book7-1964-09-06-tao-xisheng-publishes-bangshu-attacking-hu-shi-pingzhuan
 - 1964年9月9日 | 李敖在台风后写信给 H 谈电话、孤独和相思
   精度：day；可靠度：confirmed；排序日期：1964-09-09
   摘要：《白露纪》引1964年9月9日信，李敖写台风、电话和夜间相思，称自己孤独得想哭，并以书信补足与 H 无法时时见面的情感联系。
@@ -4452,6 +4504,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/012.东郭纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1968-03-28-secret-letter-to-sun-kuanhan-for-bai-yang
+- 1968年3月31日深夜 | 《文星》最后一夜，李敖见书店挤满读者直至午夜结束
+  精度：day；可靠度：confirmed；排序日期：1968-03-31
+  摘要：《〈纽约时报〉报丧》写，1968年3月31日是《文星》书店最后一天，整日读者挤得水泄不通，直到夜里十二点才正式结束；萧孟能亲去书店陪读者度过最后两小时。李敖把这一夜记成《文星》在群众惜别与政治压力下收场的现场。
+  人物：李敖、萧孟能
+  地点：台北、文星书店
+  标签：文星、最后一夜、书店、读者、1968年3月31日
+  视图：文星线、出版线、现场线
+  作品：文星、李敖风流自传
+  交叉引用：book2-broad-1968-04-01-wenxing-bookstore-closes
+  来源：李敖风流自传 / 260.《纽约时报》报丧 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/260.《纽约时报》报丧.txt
+  数据：data/timeline-events-seventh-book.json#book7-1968-03-31-stays-through-final-night-of-wenxing-bookstore
 - 1968年4月1日 | 文星书店预定关门日
   精度：day；可靠度：confirmed；排序日期：1968-04-01
   摘要：《纽约时报》报道写明，文星书店宣布将于1968年4月1日关门；李敖译文认为这使许多青年作家、画家、摄影家、现代舞者和学生失去精神寄托。
@@ -7552,6 +7617,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/007.我最难忘的一个官僚同学.txt
   数据：data/timeline-events-third-book.json#book3-1984-10-06-letter-to-shi-prison-human-rights
+- 1984年10月7日星期天 | 李敖在国父纪念馆附近见老兵沿街卖国旗，写下流亡政权残梦
+  精度：day；可靠度：confirmed；排序日期：1984-10-07
+  摘要：《卖国旗的老兵》写，1984年10月7日星期天，国庆将近，李敖散步时在国父纪念馆附近见一名精神失常似的退役老兵沿街兜售塑胶国旗，高喊“中华民国万岁”。李敖由此联想到流亡来台后的政权残梦与老兵的破碎命运，把街头目击写成一则极具时代感的观察。
+  人物：李敖
+  地点：台北、国父纪念馆
+  标签：老兵、国旗、国父纪念馆、国庆前夕、街头观察
+  视图：日常线、观察线、老兵线
+  作品：李敖风流自传
+  交叉引用：-
+  来源：李敖风流自传 / 236.卖国旗的老兵 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/236.卖国旗的老兵.txt
+  数据：data/timeline-events-seventh-book.json#book7-1984-10-07-observes-old-veteran-selling-flags-before-national-day
 - 1984年10月14日清早四点 | 李敖在日月潭玄奘寺前自比唐僧，记下“千山我独行”的孤寂感
   精度：day；可靠度：confirmed；排序日期：1984-10-14
   摘要：《唐僧》写，1984年10月14日清早四点，李敖在寒风中的日月潭凭栏远望，天亮后又到玄奘寺看唐僧指骨，并由石柱对联生出“身外身”之感，自觉像唐僧取经般独行于唤醒梦中梦的事业。这条材料留下他在山水、宗教遗迹与自我使命感之间的一次少见自况。
@@ -7853,6 +7931,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1985-04-26-birthday-letter-comments-li-ning-vase-and-chen-wenqian-record
+- 1985年5月25日 | 李敖从《前进》得知侯立朝自承曾奉蒋经国之命打击《文星》
+  精度：day；可靠度：confirmed；排序日期：1985-05-25
+  摘要：《背后原来是蒋经国》写，1985年5月25日林正杰的《前进》披露，侯立朝自称曾是“蒋经国的打手”，当年亲奉蒋经国之命对《文星》集团开火。李敖把这篇披露看作自己在二十年后终于得到蒋经国亲自指挥消灭《文星》的人证。
+  人物：李敖、侯立朝、蒋经国、林正杰
+  地点：台湾
+  标签：侯立朝、蒋经国、前进、文星、人证
+  视图：文星线、政治线、追索线
+  作品：前进、李敖风流自传
+  交叉引用：-
+  来源：李敖风流自传 / 253.背后原来是蒋经国 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/253.背后原来是蒋经国.txt
+  数据：data/timeline-events-seventh-book.json#book7-1985-05-25-learns-hou-lichao-was-chiang-ching-kuos-hired-hand-against-wenxing
 - 1985-06-05 | 写定《“北土非吾愿，东林怀我师”》
   精度：day；可靠度：confirmed；排序日期：1985-06-05
   摘要：李敖在文末署1985年6月5日午，完成回想姚从吾老师的长文。
@@ -8494,6 +8585,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/010.我最难忘的一个将军.txt
   数据：data/timeline-events-third-book.json#book3-1987-10-song-signed-book-for-li
+- 1987年 | 吴相湘自美国来信，称许《孙中山研究》并追念三十年前交情
+  精度：year；可靠度：confirmed；排序日期：1987-12-31
+  摘要：《吴相湘》写，1987年吴相湘七十五岁时自美国来信，称赞李敖所写《孙中山研究》，并特意提到书中念旧情的文字使他感动，回忆三十年前往事如“当时意气论交人”。这条材料留下李敖与旧师友在学术与情义上的晚年回响。
+  人物：李敖、吴相湘
+  地点：美国、台湾
+  标签：吴相湘、孙中山研究、来信、1987年、师友情谊
+  视图：交游线、写作线、学术线
+  作品：孙中山研究、李敖风流自传
+  交叉引用：-
+  来源：李敖风流自传 / 187.吴相湘 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/187.吴相湘.txt
+  数据：data/timeline-events-seventh-book.json#book7-1987-wu-xiangxiang-writes-praising-sun-yat-sen-study
 - 1987年 | 李敖写《孙中山研究》延伸批孙考证
   精度：year；可靠度：confirmed；排序日期：1987-12-31
   摘要：《猪猡纪》写，李敖1987年写《孙中山研究》，继续以史料比对方式拆解孙中山神话；台北市新闻处长唐启明曾把他告到地检处，但检察官被其说服。
@@ -11299,6 +11403,19 @@
   补充来源：李敖议坛哀思录 / 057.李敖就军购案说帖 / line 3
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/056.寄望小马哥.txt
   数据：data/timeline-events-sixth-book.json#book6-2005-12-23-writes-open-letter-to-ma-yingjeou-with-arms-procurement-briefing
+- 2005年 | 李敖回到北京新鲜胡同小学，收到校方与学生纪念品
+  精度：year；可靠度：confirmed；排序日期：2005-12-31
+  摘要：《难忘小学，小学难忘》写，2005年李敖回到北京，专程匆匆去了一趟新鲜胡同小学，小朋友当场送他纪念品。多年后，校长孙文燕又转来一本为李敖校友制作的纪念册，使这次回访成为他与童年学校重新接上的一笔。
+  人物：李敖、孙文燕
+  地点：北京、新鲜胡同小学
+  标签：新鲜胡同小学、北京、返校、纪念品、2005年
+  视图：生平线、返访线、教育线
+  作品：李敖风流自传
+  交叉引用：1942-xinxian-hutong-school
+  来源：李敖风流自传 / 111.难忘小学，小学难忘 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/111.难忘小学，小学难忘.txt
+  数据：data/timeline-events-seventh-book.json#book7-2005-revisits-xinxian-hutong-primary-school-in-beijing
 
 2006
 - 2006年1月2日 | 李敖在重大军事采购政策公听会上提出“哥斯达黎加模式”
@@ -12135,9 +12252,9 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/060.虽非害群之马，却见残旗之归.txt
   数据：data/timeline-events-sixth-book.json#book6-2007-04-04-writes-ma-yingjeou-as-eight-benefactors-of-chen-shuibian
-- 2007年5月21日前后 | 李敖为李杰下台开记者会，送大奶嘴并公开劝其写出真相
-  精度：day；可靠度：inferred；排序日期：2007-05-21
-  摘要：《李杰下台了！》写，李杰去职后，李敖召开记者会，拿出特制的大奶嘴象征送别，并公布写给李杰的公开信，要求他以退职上将身份写出军购不能保台、美国从未承诺来救、以及“战到一兵一卒”并不可能等真相。后来国防部联络人不敢转交大奶嘴，行政院国会联络人代为转送，构成李敖借李杰下台继续追打军购神话的一次戏剧性动作。
+- 2007年5月20日 | 李敖为李杰下台开记者会，送大奶嘴并公开劝其写出真相
+  精度：day；可靠度：confirmed；排序日期：2007-05-20
+  摘要：《李杰下台了！》写，李敖在署日 2007 年 5 月 20 日的公开信中，配合记者会拿出特制的大奶嘴象征送别，并劝即将去职的李杰以退职上将身份写出军购不能保台、美国从未承诺来救、以及“战到一兵一卒”并不可能等真相。后来国防部联络人不敢转交大奶嘴，行政院国会联络人代为转送，构成李敖借李杰下台继续追打军购神话的一次戏剧性动作。
   人物：李敖、李杰、李天羽、崔永生、丁渝洲
   地点：台北、立法院、国防部
   标签：李杰、记者会、大奶嘴、公开信、军购、李天羽
@@ -12145,7 +12262,7 @@
   作品：李敖议坛哀思录
   交叉引用：book6-2007-05-24-questions-li-tianyu-on-civilian-defense-minister-and-budget-three-percent、book6-2007-10-05-lunch-with-li-tianyu-and-laughs-at-fight-to-last-soldier
   来源：李敖议坛哀思录 / 095.李杰下台了！ / line 3
-  补充来源：外部日期校对 / 中国台湾网报道《李天羽一上任就拔除李杰四爱将》 / line 1；说明：报道记载李天羽于2007-05-21接任、李杰同日下台；本章记者会与送大奶嘴动作暂按此锚点入库，并以 inferred 标示。
+  补充来源：外部日期校对 / 中国台湾网报道《李天羽一上任就拔除李杰四爱将》 / line 1；说明：外部报道记载李天羽于 2007-05-21 接任、李杰同日下台；本章公开信署日为 2007-05-20，现以章内署日确定记者会与公开信动作。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/095.李杰下台了！.txt
   数据：data/timeline-events-sixth-book.json#book6-2007-05-21-holds-pacifier-press-event-for-li-jie-and-publishes-open-letter
 - 2007年5月24日 | 李敖在秘密会议质询李天羽，追问文人部长身份和3%预算下台协议
