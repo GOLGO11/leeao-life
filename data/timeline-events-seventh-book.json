@@ -186,5 +186,414 @@
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/020.斗鱼.txt",
       "line": 3
     }
+  },
+  {
+    "id": "book7-2002-11-27-drafts-outline-for-naked-seventeen-before-virtual-seventeen",
+    "date": "2002-11-27",
+    "displayDate": "2002年11月27日",
+    "datePrecision": "day",
+    "title": "李敖写出《赤裸的十七岁》大纲，作为《虚拟的十七岁》的前身构想",
+    "summary": "《赤裸的十七岁》写，2002年11月27日，李敖先写出《赤裸的十七岁》大纲，作为后来《虚拟的十七岁》的前身构想。章中他把“赤裸”从色情联想拉回文学与青春主题，并说明朱仑街高中女生 C. J. 周如何成为自己笔下“朱仑症”“朱仑现象”的模特儿原型。",
+    "view": ["写作线", "情感线"],
+    "tags": ["赤裸的十七岁", "虚拟的十七岁", "大纲", "朱仑症", "C.J.周"],
+    "people": ["李敖", "C.J.周"],
+    "places": ["台北朱仑街"],
+    "works": ["赤裸的十七岁", "虚拟的十七岁", "李敖风流自传"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "673.赤裸的十七岁",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/673.赤裸的十七岁.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book7-2006-03-29-receives-zhu-chongshi-calligraphy-praise",
+    "date": "2006-03-29",
+    "displayDate": "2006年3月29日",
+    "datePrecision": "day",
+    "title": "朱崇实写三十二字颂词给李敖，开启其后厦门大学缘分",
+    "summary": "《朱崇实校长》写，2006年3月29日，厦门大学校长朱崇实写下“傲骨铮铮，胸襟荡荡。文思如泉，文采如画。身居宝岛，心系华夏。先生风范，永存天下”三十二字颂词给李敖。李敖把这视为两人周旋多年、最终促成厦门行与名誉教授聘书的一段前缘。",
+    "view": ["交游线", "写作线"],
+    "tags": ["朱崇实", "厦门大学", "颂词", "书法", "华夏"],
+    "people": ["李敖", "朱崇实", "陈支平"],
+    "places": ["厦门大学", "大陆"],
+    "works": ["李敖风流自传", "阳痿美国"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book7-2011-03-31-receives-xiamen-university-honorary-professorship"
+    ],
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "637.朱崇实校长",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/637.朱崇实校长.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book7-2011-03-31-receives-xiamen-university-honorary-professorship",
+    "date": "2011-03-31",
+    "displayDate": "2011年3月31日",
+    "datePrecision": "day",
+    "title": "朱崇实向李敖送出厦门大学名誉教授聘书",
+    "summary": "《朱崇实校长》写，2011年3月31日，厦门大学校长朱崇实正式向李敖送出名誉教授聘书。李敖把这一头衔看作自己在大陆所得最“落实”的正式荣誉，并特别记下朱崇实细读《阳痿美国》校对表一事，视为难得知音。",
+    "view": ["生平线", "交游线", "荣誉线"],
+    "tags": ["厦门大学", "名誉教授", "朱崇实", "阳痿美国"],
+    "people": ["李敖", "朱崇实", "陈支平"],
+    "places": ["厦门大学", "厦门"],
+    "works": ["阳痿美国", "李敖风流自传"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book7-2006-03-29-receives-zhu-chongshi-calligraphy-praise"
+    ],
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "637.朱崇实校长",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/637.朱崇实校长.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book7-2014-12-17-records-diary-turning-toward-writing-fengliu-zizhuan",
+    "date": "2014-12-17",
+    "displayDate": "2014年12月17日日记",
+    "datePrecision": "day",
+    "title": "李敖在日记中由反对转向同意写《李敖风流自传》",
+    "summary": "《书成后记》写，2014年12月17日，李敖在日记中仍表示不赞成写《李敖风流自传》，认为八十年来许多岛上俗事不值得花时间；但紧接着他又转念，觉得自己八十岁应出一书表示表示，若能把俗事写成别有施教作用的“纪功碑”，写了也好。此日记成为《李敖风流自传》真正动笔前的重要心理转折。",
+    "view": ["写作线", "生平线"],
+    "tags": ["风流自传", "书成后记", "日记", "八十岁", "纪功碑"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["李敖风流自传"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "674.书成后记",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/674.书成后记.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book7-1962-02-01-goes-to-wenxianhui-and-meets-tao-xisheng",
+    "date": "1962-02-01",
+    "displayDate": "1962年2月1日",
+    "datePrecision": "day",
+    "title": "李敖赴文献会见陶希圣，正式接上文献会工作线",
+    "summary": "《文献会》写，1962年2月1日，李敖到文献会见陶希圣。这一天也正是他在《文星》第52期发表《给谈中西文化的人看看病》、已点名攻击陶希圣的同一天。李敖把这一幕写成自己在谋生、做学问和公开挑衅权威之间同时开局的典型场面。",
+    "view": ["生平线", "工作线", "文星线"],
+    "tags": ["文献会", "陶希圣", "姚从吾", "吴相湘", "文星"],
+    "people": ["李敖", "陶希圣", "姚从吾", "吴相湘", "罗家伦"],
+    "places": ["文献会", "台北"],
+    "works": ["李敖风流自传", "给谈中西文化的人看看病"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book5-1961-wenxianhui-temporary-job",
+      "book5-1962-02-01-zhongxi-culture-essay"
+    ],
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "186.文献会",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/186.文献会.txt",
+      "line": 5
+    }
+  },
+  {
+    "id": "book7-1963-05-08-dines-at-xinyuan-with-li-fangkuei-and-teachers",
+    "date": "1963-05-08",
+    "displayDate": "1963年5月8日",
+    "datePrecision": "day",
+    "title": "李敖在心园与李方桂、姚从吾、吴相湘同席吃饭",
+    "summary": "《中央研究院不准进门》写，1963年5月8日，李敖在台北心园与语言学家李方桂、姚从吾、吴相湘等同席吃饭。此时他刚离文献会不久，席间师友对失业一事绝口不提，正显出李敖在文献会后的人际尴尬与学界余温并存。",
+    "view": ["交游线", "工作线", "生平线"],
+    "tags": ["李方桂", "心园", "姚从吾", "吴相湘", "饭局"],
+    "people": ["李敖", "李方桂", "姚从吾", "吴相湘", "毛子水"],
+    "places": ["心园", "台北"],
+    "works": ["李敖风流自传"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "316.中央研究院不准进门",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/316.中央研究院不准进门.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book7-1966-11-09-books-seized-at-yajiang-binding-factory",
+    "date": "1966-11-09",
+    "displayDate": "1966年11月9日傍晚至深夜",
+    "datePrecision": "day",
+    "title": "李敖在雅江街装订厂遭警察查禁并扣走《告别文坛十书》相关书册",
+    "summary": "《〈李敖告别文坛十书〉》写，1966年11月9日，台北雅江街35号装订厂遭警方与便衣人员查禁，准备运出的《孙悟空和我》与《乌鸦又叫了》等书及封面海报被整批拉走。李敖当晚在现场与警方周旋到深夜，又被带到分局讯问，成为其出版被封杀时期的一次标志性现场。",
+    "view": ["文星线", "出版线", "司法线"],
+    "tags": ["告别文坛十书", "查禁", "雅江街", "装订厂", "孙悟空和我", "乌鸦又叫了"],
+    "people": ["李敖", "陈平景", "娄振岳", "郑文杰"],
+    "places": ["台北雅江街35号", "台北"],
+    "works": ["李敖风流自传", "李敖告别文坛十书", "孙悟空和我", "乌鸦又叫了"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "1965-11-05-ten-books-seized"
+    ],
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "367.《李敖告别文坛十书》",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/367.《李敖告别文坛十书》.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book7-1991-visits-last-kaiming-bookstore-in-taipei",
+    "date": "1991-12-31",
+    "displayDate": "1991年的一天",
+    "datePrecision": "year",
+    "title": "李敖重访台北开明书店旧址，发现只剩楼上一间残局小店",
+    "summary": "《书店之死》写，1991年的一天，李敖心血来潮重访中山北路开明书店旧址，先见门面已变成面包公司，后循后梯上到三楼，才在残局般的小房里找到仅存的台北开明书店。他抱着新买的书离去时，把这一幕写成像老朋友死去般的黯然告别。",
+    "view": ["日常线", "书业线", "生平线"],
+    "tags": ["开明书店", "中山北路", "旧书店", "书业", "台北"],
+    "people": ["李敖", "索非"],
+    "places": ["中山北路一段77号", "台北"],
+    "works": ["李敖风流自传"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "128.书店之死",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/128.书店之死.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book7-2001-04-25-publishes-shangshan-shangshan-ai",
+    "date": "2001-04-25",
+    "displayDate": "2001年4月25日",
+    "datePrecision": "day",
+    "title": "李敖出版长篇小说《上山·上山·爱》",
+    "summary": "《李敖的淫威》写，2001年4月25日，李敖继《北京法源寺》后再出长篇小说《上山·上山·爱》。此书在台湾登上排行榜第一名并迅速售空，连台北市议会审查出版品条例时都拿它当成“情色样本”开玩笑，反成李敖名气与威慑力的一次侧证。",
+    "view": ["写作线", "出版线"],
+    "tags": ["上山·上山·爱", "长篇小说", "出版", "排行榜", "金溥聪"],
+    "people": ["李敖", "金溥聪"],
+    "places": ["台湾", "台北"],
+    "works": ["上山·上山·爱", "北京法源寺", "李敖风流自传"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "612.李敖的淫威",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/612.李敖的淫威.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book7-2004-03-08-begins-phoenix-tv-commentary-line",
+    "date": "2004-03-08",
+    "displayDate": "2004年3月8日",
+    "datePrecision": "day",
+    "title": "李敖应凤凰电视之邀开播评论台湾“大选”，开启大陆电视主场线",
+    "summary": "《刘长乐》写，2004年3月8日，李敖应凤凰电视之邀开播评论即将开票的台湾“大选”。他把这次上凤凰视为“直攻腹心”的起点，并把刘长乐拉他进入电视与大陆公共空间，看作自己从“台湾李敖”重新回到“中国李敖”的关键转折。",
+    "view": ["媒体线", "生平线", "大陆线"],
+    "tags": ["凤凰电视", "刘长乐", "大选评论", "李敖有话说", "大陆线"],
+    "people": ["李敖", "刘长乐"],
+    "places": ["北京", "凤凰电视"],
+    "works": ["李敖风流自传", "李敖有话说"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "619.刘长乐",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/619.刘长乐.txt",
+      "line": 5
+    }
+  },
+  {
+    "id": "book7-2011-03-03-submits-manuscript-of-the-73rd-martyr",
+    "date": "2011-03-03",
+    "displayDate": "2011年3月3日",
+    "datePrecision": "day",
+    "title": "李敖在《大江大海骗了你》后七十天交出《第73烈士》完稿",
+    "summary": "《〈第73烈士〉志缘》写，2011年3月3日，李敖在《大江大海骗了你》完稿七十天后，把《第73烈士》书稿交给张坤山、张书铭父子。此章把这部小说写成自己酝酿半世纪后终于落笔完成的一次兑现。",
+    "view": ["写作线", "出版线"],
+    "tags": ["第73烈士", "大江大海骗了你", "完稿", "张坤山", "张书铭"],
+    "people": ["李敖", "张坤山", "张书铭"],
+    "places": ["台北"],
+    "works": ["第73烈士", "大江大海骗了你", "李敖风流自传"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book7-2011-03-11-asks-wang-yu-for-photo-for-the-73rd-martyr",
+      "book7-2011-04-27-marks-publication-of-the-73rd-martyr-with-corrected-date"
+    ],
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "237.《第73烈士》志缘",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/237.《第73烈士》志缘.txt",
+      "line": 9
+    }
+  },
+  {
+    "id": "book7-2011-03-11-asks-wang-yu-for-photo-for-the-73rd-martyr",
+    "date": "2011-03-11",
+    "displayDate": "2011年3月11日",
+    "datePrecision": "day",
+    "title": "李敖致电多年不见的王宇索取照片，用作《第73烈士》人物模特线索",
+    "summary": "《〈第73烈士〉志缘》写，2011年3月11日，李敖打电话给多年未见、时年八十二岁的王宇，要了一张照片。王宇在书中只是被他戏剧化处理的模特儿之一，这通电话留下了小说写作阶段仍在补取人物材料的痕迹。",
+    "view": ["写作线", "交游线"],
+    "tags": ["第73烈士", "王宇", "电话", "照片", "模特儿"],
+    "people": ["李敖", "王宇"],
+    "places": ["台北"],
+    "works": ["第73烈士", "李敖风流自传"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book7-2011-03-03-submits-manuscript-of-the-73rd-martyr",
+      "book7-2011-04-27-marks-publication-of-the-73rd-martyr-with-corrected-date"
+    ],
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "237.《第73烈士》志缘",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/237.《第73烈士》志缘.txt",
+      "line": 9
+    }
+  },
+  {
+    "id": "book7-2011-04-27-marks-publication-of-the-73rd-martyr-with-corrected-date",
+    "date": "2011-04-27",
+    "displayDate": "2011年4月27日",
+    "datePrecision": "day",
+    "title": "李敖特意把《第73烈士》版权页印成4月27日，以纠正黄花岗纪念日期误传",
+    "summary": "《〈第73烈士〉志缘》写，李敖特意把《第73烈士》版权页印为2011年4月27日，用来对应辛亥黄花岗起义一百周年的正确阳历日期，并借此纠正长期把“三月二十九”阴历误当阳历来过的百年错误。这使本书出版本身也成为一次史实校正动作。",
+    "view": ["写作线", "出版线", "史识线"],
+    "tags": ["第73烈士", "黄花岗", "4月27日", "版权页", "日期校正"],
+    "people": ["李敖"],
+    "places": ["台北"],
+    "works": ["第73烈士", "李敖风流自传"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book7-2011-03-03-submits-manuscript-of-the-73rd-martyr",
+      "book7-2011-03-11-asks-wang-yu-for-photo-for-the-73rd-martyr"
+    ],
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "237.《第73烈士》志缘",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/237.《第73烈士》志缘.txt",
+      "line": 19
+    }
+  },
+  {
+    "id": "book7-1984-12-05-writes-letter-to-liu-huiyun-revealing-mood-after-divorce",
+    "date": "1984-12-05",
+    "displayDate": "1984年12月5日",
+    "datePrecision": "day",
+    "title": "李敖致刘会云长信，剖白离婚后仍留台北死斗国民党的心境",
+    "summary": "《刘会云》写，1984年12月5日，李敖写信给刘会云，回顾机场送别后的感伤，同时表明自己仍留在台北、准备继续拆穿国民党并随时面对暗杀或下狱。这封信把他离婚后的私人情绪、政治孤绝与自我定位压缩在同一时刻，极能表白其当时处境。",
+    "view": ["情感线", "书信线", "思想线"],
+    "tags": ["刘会云", "书信", "离婚后", "国民党", "处境自白"],
+    "people": ["李敖", "刘会云", "罗小如"],
+    "places": ["台北"],
+    "works": ["李敖风流自传"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "484.刘会云",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/484.刘会云.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book7-1990-playboy-annual-report-features-li-ao-photo",
+    "date": "1990-12-31",
+    "displayDate": "1990年",
+    "datePrecision": "year",
+    "title": "PLAYBOY 英文年刊刊出李敖照片",
+    "summary": "《我与PLAYBOY的一点后缘》写，1990年，PLAYBOY Enterprises 英文年刊从十五种外语版每年一百八十位名人中选出三位刊照，李敖即在其列。李敖把这件事记成自己与 PLAYBOY 的一段趣味后缘，也与他长期收藏、谈论裸照文化的个人脉络相接。",
+    "view": ["媒体线", "日常线", "生平线"],
+    "tags": ["PLAYBOY", "年刊", "照片", "媒体形象", "裸照文化"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["PLAYBOY", "李敖风流自传"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "495.我与PLAYBOY的一点后缘",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/495.我与PLAYBOY的一点后缘.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book7-1991-12-27-lunches-with-yang-xikun-after-quarter-century",
+    "date": "1991-12-27",
+    "displayDate": "1991年12月27日中午",
+    "datePrecision": "day",
+    "title": "四分之一世纪后，李敖与杨西崑在四季重续旧谈",
+    "summary": "《四分之一世纪后》写，1991年12月27日中午，李敖与杨西崑在四季吃西餐，从十一点半谈到两点半。席间杨西崑直言政府不该长期打压李敖，李敖则总结其一生为中国人做事可肯定、若只为该政权做事则不值得，这场旧友重谈留下了晚年回望政治生涯的一次清楚对话。",
+    "view": ["交游线", "思想线", "生平线"],
+    "tags": ["杨西崑", "四季", "午餐", "旧谈", "政治回望"],
+    "people": ["李敖", "杨西崑", "吴相湘", "王世杰"],
+    "places": ["四季", "台北"],
+    "works": ["李敖风流自传"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "614.四分之一世纪后",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/614.四分之一世纪后.txt",
+      "line": 5
+    }
+  },
+  {
+    "id": "book7-2000-01-12-receives-letter-of-thanks-from-wei-tingchao-widow",
+    "date": "2000-01-12",
+    "displayDate": "2000年1月12日",
+    "datePrecision": "day",
+    "title": "李敖收到魏廷朝遗孀张庆惠来信致谢慰问金",
+    "summary": "《魏太太》写，2000年1月12日，魏廷朝遗孀张庆惠来信感谢李敖在魏廷朝骤逝后立即致悼并寄来巨额慰问金。李敖在这章里把此信与后来立法院相见并置，留下他对旧友身后家属持续照应的一条线索。",
+    "view": ["交游线", "书信线", "生平线"],
+    "tags": ["魏廷朝", "张庆惠", "慰问金", "书信", "旧友情义"],
+    "people": ["李敖", "张庆惠", "魏廷朝"],
+    "places": ["台湾"],
+    "works": ["李敖风流自传"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "524.魏太太",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/524.魏太太.txt",
+      "line": 5
+    }
+  },
+  {
+    "id": "book7-2000-01-21-meets-hu-yinmeng-on-street-and-embraces-farewell",
+    "date": "2000-01-21",
+    "displayDate": "2000年1月21日14时50分",
+    "datePrecision": "day",
+    "title": "李敖在东丰街大安路口偶遇胡茵梦，相拥而别",
+    "summary": "《路遇胡茵梦》引日记写，2000年1月21日14时50分，李敖在东丰街大安路口迎面碰见胡茵梦。两人相拥时胡茵梦落泪，并说自己写完那本书后觉得不该写，李敖拍着她的背长拥而别，留下这段迟来而克制的旧情回声。",
+    "view": ["情感线", "日常线", "生平线"],
+    "tags": ["胡茵梦", "东丰街", "重逢", "相拥", "日记"],
+    "people": ["李敖", "胡茵梦"],
+    "places": ["东丰街大安路口", "台北"],
+    "works": ["李敖风流自传"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "476.路遇胡茵梦",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/476.路遇胡茵梦.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book7-2002-05-31-leaves-zhongtian-ending-five-year-zhou-quan-period",
+    "date": "2002-05-31",
+    "displayDate": "2002年5月31日",
+    "datePrecision": "day",
+    "title": "中天电视台换老板后，李敖结束周荃体系下的五年电视阶段",
+    "summary": "《怀念周荃》写，2002年5月31日，中天电视台换老板，李敖也随之告退，结束自 1995 年以来在周荃体系下持续五年的电视节目阶段。李敖把周荃与刘长乐并列为自己进入媒体世界的两位知己，这一日正好构成前一阶段的句点。",
+    "view": ["媒体线", "生平线"],
+    "tags": ["周荃", "中天电视台", "电视节目", "告退", "媒体阶段"],
+    "people": ["李敖", "周荃", "刘长乐", "郑乃嘉"],
+    "places": ["中天电视台", "台湾"],
+    "works": ["李敖笑傲江湖", "李敖秘密书房", "李敖颠倒众生", "李敖风流自传"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book4-1995-10-30-li-ao-roams-jianghu-begins-broadcast",
+      "book7-2004-03-08-begins-phoenix-tv-commentary-line"
+    ],
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "607.怀念周荃",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/607.怀念周荃.txt",
+      "line": 5
+    }
   }
 ]
