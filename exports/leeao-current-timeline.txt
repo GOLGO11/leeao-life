@@ -1,9 +1,9 @@
 李敖交互式年表：当前增量纯文本备份
 生成日期：2026-04-22
-事件总数：923
-数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json
+事件总数：935
+数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json
 说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。
-日期精度统计：day=698；year=44；undated-range=1；undated-context=111；season=17；lunar-day=1；year-after=6；month=19；half-year=2；day-range=9；month-after=2；year-range=4；year-about=5；day-after=3；year-end=1
+日期精度统计：day=709；year=44；undated-range=1；undated-context=112；season=17；lunar-day=1；year-after=6；month=19；half-year=2；day-range=9；month-after=2；year-range=4；year-about=5；day-after=3；year-end=1
 
 
 1935
@@ -904,6 +904,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/007.我最难忘的一个官僚同学.txt
   数据：data/timeline-events-third-book.json#book3-1949-04-12-li-arrives-taiwan-source3
+- 1949年5月11日早上 | 李家自上海搭“中兴轮”离开大陆赴台
+  精度：day；可靠度：confirmed；排序日期：1949-05-11
+  摘要：《出大陆记》写，1949年5月11日早上，李敖一家自上海登上“中兴轮”离开大陆。彼时客轮已沦为难民船，李敖把行李堆在甲板上，自己躺在行李上随船赴台，这一程构成其一生流亡台湾的开端。
+  人物：李敖、李鼎彝、王国华
+  地点：上海、中兴轮
+  标签：中兴轮、上海、赴台、难民船、流亡
+  视图：生平线、家族线、迁徙线
+  作品：李敖风流自传
+  交叉引用：1949-05-12-arrive-taiwan、book4-1949-05-12-arrives-taiwan-at-keelung-source4
+  来源：李敖风流自传 / 131.出大陆记 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/131.出大陆记.txt
+  数据：data/timeline-events-seventh-book.json#book7-1949-05-11-leaves-shanghai-on-zhongxing-lun-with-family
 - 1949-05-12 | 李家自上海抵达台湾
   精度：day；可靠度：confirmed；排序日期：1949-05-12
   摘要：李敖一家从上海到台湾，傍晚在基隆下船，当夜坐火车到台中；李敖随后跳班考取台中一中、台中二中，并选择台中一中。
@@ -917,6 +930,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/003.我最难忘的一位老师.txt
   数据：data/timeline-events-first-book-supplement.json#1949-05-12-arrive-taiwan
+- 1949年5月12日傍晚 | 李家乘“中兴轮”于傍晚抵达基隆
+  精度：day；可靠度：confirmed；排序日期：1949-05-12
+  摘要：《出大陆记》写，1949年5月12日傍晚，李敖一家乘“中兴轮”抵达基隆。李敖在此章以“自此一住六十六年”回望赴台后的整段人生，把这次抵达视为流亡台湾生活的真正起点。
+  人物：李敖、李鼎彝、王国华
+  地点：基隆、台湾
+  标签：基隆、中兴轮、赴台、流亡、傍晚抵达
+  视图：生平线、家族线、迁徙线
+  作品：李敖风流自传
+  交叉引用：1949-05-12-arrive-taiwan、book4-1949-05-12-arrives-taiwan-at-keelung-source4、book7-1949-05-11-leaves-shanghai-on-zhongxing-lun-with-family
+  来源：李敖风流自传 / 131.出大陆记 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/131.出大陆记.txt
+  数据：data/timeline-events-seventh-book.json#book7-1949-05-12-arrives-keelung-by-zhongxing-lun-source7
 - 1949年5月12日傍晚 | 李敖乘中兴轮抵台并连夜赴台中
   精度：day；可靠度：confirmed；排序日期：1949-05-12
   摘要：《李敖回忆录》写，1949年5月12日傍晚李敖一家抵达基隆，张松涵到码头接人，当晚转赴台中，半夜抵达模范西巷张家，正式开始台湾生活。
@@ -1209,6 +1235,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/006.台中（1949-1954·14到19岁）.txt
   数据：data/timeline-events-fourth-book.json#book4-1952-06-15-visits-qian-mu-source4
+- 1952年6月15日 | 徐武军带李敖到存德巷一号拜访钱穆
+  精度：day；可靠度：confirmed；排序日期：1952-06-15
+  摘要：《我结识了钱穆》写，1952年6月15日，徐武军带李敖走进台中存德巷一号，拜访在当地养伤的钱穆。李敖把这次见面视作自己在台湾少年时代结识重要学者的起点，也交代了徐复观、徐武军与钱穆之间的关系背景。
+  人物：李敖、钱穆、徐武军、徐复观、居浩然
+  地点：台中存德巷一号、台中
+  标签：钱穆、徐武军、存德巷一号、台中、拜访
+  视图：生平线、交游线、求学线
+  作品：李敖风流自传
+  交叉引用：book2-1952-06-15-meets-qian-mu、book4-1952-06-15-visits-qian-mu-source4
+  来源：李敖风流自传 / 168.我结识了钱穆 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/168.我结识了钱穆.txt
+  数据：data/timeline-events-seventh-book.json#book7-1952-06-15-meets-qian-mu-source7
 - 1952年6月15日 | 徐武军带李敖拜访钱穆
   精度：day；可靠度：confirmed；排序日期：1952-06-15
   摘要：徐武军认为李敖程度好，约定后在1952年6月15日带他走进台中存德巷一号，见到养伤中的钱穆。
@@ -1354,6 +1393,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/006.台中（1949-1954·14到19岁）.txt
   数据：data/timeline-events-fourth-book.json#book4-1953-04-14-letter-to-qian-mu-source4
+- 1953年4月14日 | 李敖致信钱穆，表达感谢并质疑其著作错误
+  精度：day；可靠度：confirmed；排序日期：1953-04-14
+  摘要：《钱穆印象记》写，李敖在与钱穆见面后未再登门，待钱穆回港后，于1953年4月14日写信给他，既表达谢意，也直接质疑其著作中的错误。这条材料更清楚地显出少年李敖求学时已敢于向名宿发难的性格。
+  人物：李敖、钱穆
+  地点：台中、香港
+  标签：钱穆、书信、质疑、史学、少年李敖
+  视图：生平线、书信线、求学线
+  作品：李敖风流自传
+  交叉引用：book2-1953-04-14-letter-to-qian-mu、book4-1953-04-14-letter-to-qian-mu-source4、book7-1953-04-29-receives-qian-mu-reply-source7
+  来源：李敖风流自传 / 169.钱穆印象记 / line 9
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/169.钱穆印象记.txt
+  数据：data/timeline-events-seventh-book.json#book7-1953-04-14-writes-letter-to-qian-mu-source7
+- 1953年4月29日 | 李敖收到钱穆回信
+  精度：day；可靠度：confirmed；排序日期：1953-04-29
+  摘要：《钱穆印象记》写，李敖于1953年4月29日收到钱穆对其来信的答复。这一来一往，使两人的关系从单次拜访延伸为正式通信，也留下李敖少年时期与史学名家直接切磋的又一证据。
+  人物：李敖、钱穆
+  地点：台中、香港
+  标签：钱穆、回信、通信、史学
+  视图：生平线、书信线、求学线
+  作品：李敖风流自传
+  交叉引用：book4-1953-04-29-qian-mu-replies-to-li、book7-1953-04-14-writes-letter-to-qian-mu-source7
+  来源：李敖风流自传 / 169.钱穆印象记 / line 9
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/169.钱穆印象记.txt
+  数据：data/timeline-events-seventh-book.json#book7-1953-04-29-receives-qian-mu-reply-source7
 - 1953年4月29日 | 钱穆回信答复李敖请教
   精度：day；可靠度：confirmed；排序日期：1953-04-29
   摘要：李敖回忆，1953年4月29日他收到钱穆回信，对前信中提出的史料与版本问题逐一答复，这封回信被他视为少年时代得前辈指导的重要证据。
@@ -1486,6 +1551,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/005.大寒纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1954-09-14-enters-ntu-law-special-course
+- 1954年9月14日 | 李敖以高中肄业资格入学台大法律专修科
+  精度：day；可靠度：confirmed；排序日期：1954-09-14
+  摘要：《王作荣》写，1954年9月14日，十九岁的李敖以高中二年级肄业身份考入台大法律专修科，也就是后来的法律系司法组。此章同时补出其在课堂上当面挑战老师、以“三民主义到底有没有缺点”逼问王作荣的早期课堂形象。
+  人物：李敖、王作荣、林彬、李登辉
+  地点：台大、台北
+  标签：台大、法律专修科、王作荣、林彬、入学
+  视图：生平线、求学线
+  作品：李敖风流自传
+  交叉引用：book5-1954-09-14-enters-ntu-law-special-course
+  来源：李敖风流自传 / 172.王作荣 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/172.王作荣.txt
+  数据：data/timeline-events-seventh-book.json#book7-1954-09-14-enters-ntu-law-special-course-source7
 - 1954年暑假 | 以同等学力考进台大法律系司法组
   精度：season；可靠度：broad；排序日期：1954-09-01
   摘要：李敖1954年暑假以同等学力资格考进台湾大学法律系司法组，读了不到一年又自动休学。
@@ -1646,6 +1724,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/005.大寒纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1956-10-15-first-sex-with-luo
+- 1956年10月15日 | 李敖与“罗”在台北结束处子身
+  精度：day；可靠度：confirmed；排序日期：1956-10-15
+  摘要：《艰苦的恋爱》写，1956年10月15日，二十一岁的李敖在台北与“罗”发生性关系，章中直言“情归不处”，并以旅馆查房、公共浴池等细节交代国民党高压社会下恋爱与性经验的艰难环境。这是《风流自传》中极具代表性的私生活节点。
+  人物：李敖、罗、庄因
+  地点：台北
+  标签：罗、恋爱、性经验、公共浴池、国民党高压
+  视图：生平线、情感线、日常线
+  作品：李敖风流自传
+  交叉引用：book5-1956-10-15-first-sex-with-luo
+  来源：李敖风流自传 / 192.艰苦的恋爱 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/192.艰苦的恋爱.txt
+  数据：data/timeline-events-seventh-book.json#book7-1956-10-15-first-sex-with-luo-source7
 - 1956年 | 开始选姚从吾《辽金元史》
   精度：year；可靠度：broad；排序日期：1956-09-01
   摘要：李敖说开始选姚从吾的课是1956年的事，当时升入大学二年级，姚开《辽金元史》上下两学期共六学分。
@@ -10146,6 +10237,21 @@
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/105.台独是假的.txt
   数据：data/timeline-events-sixth-book.json#book6-2001-03-29-writes-fake-goods-essay-to-expose-fake-taiwan-independence
 
+2003
+- 2003年8月17日 | 李敖买下一条斗鱼，并由其好斗性写出自况式感想
+  精度：day；可靠度：confirmed；排序日期：2003-08-17
+  摘要：《斗鱼》写，2003年8月17日，李敖买下一条斗鱼，喜其飘逸、倨傲而甘于孤独。两天后他把斗鱼放进大鱼缸，斗鱼疯狂追逐保护箱中的小红鱼，至21日竟把自己累死。李敖借这条斗鱼写下对“专盯小号目标、终至斗死自己”式人格的观察，也留下难得的日常生活痕迹。
+  人物：李敖
+  地点：台北
+  标签：斗鱼、宠物、日常痕迹、自况
+  视图：日常线、生平线
+  作品：李敖风流自传
+  交叉引用：-
+  来源：李敖风流自传 / 020.斗鱼 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/020.斗鱼.txt
+  数据：data/timeline-events-seventh-book.json#book7-2003-08-17-buys-a-betta-fish-and-observes-its-solitary-combat
+
 2004
 - 2004年10月12日 | 李敖办理立委参选登记
   精度：day；可靠度：confirmed；排序日期：2004-10-12
@@ -11477,6 +11583,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/083.“陈水扁们是美国走狗，马英九们是美国走狗的走狗”.txt
   数据：data/timeline-events-sixth-book.json#book6-2006-12-30-english-papers-put-li-ao-running-dog-protest-on-front-page
+- 2006年3月16日前后 | 李敖自述已把立院主力从内部发言转向外部拆穿与告发主轴
+  精度：undated-context；可靠度：confirmed；排序日期：2006-03-16
+  摘要：《我炮口转向了》写，李敖在比较自己与苏秋镇式传统议会战法后，明确表示已判断委员会质询和院会发言多半只剩媒体效果，因此决定减少在委员会内消耗，改以“外部拆穿比内部颠覆正确”为原则，把主力转向院外揭露与更高层级的政治、司法动作；他并以控告美国总统布什、联合李文在北京同步提告为例，说明自己已把“炮口转向”。
+  人物：李敖、苏秋镇、李文、布什、康宁祥
+  地点：立法院、北京、台北
+  标签：炮口转向、外部拆穿、内部颠覆、布什、李文、策略转向
+  视图：政治线、立法院线、司法线、思想线
+  作品：李敖议坛哀思录
+  交叉引用：book6-2006-03-16-files-criminal-complaint-against-bush-lee-tenghui-and-chen-shuibian-over-arms-procurement、book6-2005-12-23-writes-open-letter-to-ma-yingjeou-with-arms-procurement-briefing
+  来源：李敖议坛哀思录 / 031.我炮口转向了 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/031.我炮口转向了.txt
+  数据：data/timeline-events-sixth-book.json#book6-2006-03-16-shifts-main-battle-from-committee-floor-to-external-exposure-and-lawsuit
 - 喷瓦斯事件后 | 《苹果日报》头条报道李敖喷瓦斯事件并引发法律责任讨论
   精度：day-after；可靠度：inferred；排序日期：2006-10-25
   摘要：《喷瓦斯事件》引《苹果日报》报道，李敖在程序委员会喷催泪瓦斯后成为台湾头条新闻，报道以“李敖疯了”等语形容现场，并引述律师、警界和立委对强制罪、妨害合法集会、社会秩序维护法及纪律委员会处分的讨论，构成李敖反军购行动的即时媒体回响。
@@ -11661,6 +11780,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/097.周郎顾曲，我看郁方.txt
   数据：data/timeline-events-sixth-book.json#book6-2007-03-29-inscribes-red-11-for-lin-yufang
+- 2007年4月3日 | 李敖致信吴敦义，警告国民党在单一选区两票制下应对其退避一百舍
+  精度：day；可靠度：confirmed；排序日期：2007-04-03
+  摘要：《我的国民党观》收录李敖于2007年4月3日写给国民党秘书长吴敦义的信。李敖指出单一选区两票制使自己也成被“宫”之列，若国民党仍不在其选区退让，将可能与他“同归于尽”，甚至被他重演上届打败陈学圣的局面。此信既是对新选制造成挤压的抗议，也是他对国民党发出的公开警告。
+  人物：李敖、吴敦义、林义雄、陈学圣
+  地点：台湾
+  标签：吴敦义、单一选区两票制、退避一百舍、陈学圣、书信、国民党
+  视图：政治线、国民党线、书信线
+  作品：李敖议坛哀思录
+  交叉引用：book6-2007-04-03-says-only-he-went-to-jail-for-taiwan-independence-and-challenges-su、book6-2007-11-06-records-zhao-liangyan-phenomenon-as-victim-of-single-member-districts
+  来源：李敖议坛哀思录 / 071.我的国民党观 / line 35
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/071.我的国民党观.txt
+  数据：data/timeline-events-sixth-book.json#book6-2007-04-03-writes-to-wu-dunyi-warning-kmt-to-retreat-or-mutually-destroy
 - 2007年4月3日 | 李敖称满院只有自己真为台独坐过牢，当面挑战苏贞昌玩真的
   精度：day；可靠度：confirmed；排序日期：2007-04-03
   摘要：《立法院公报第96卷第27期院会纪录》所录院会总质询中，李敖于2007年4月3日先立下“约法三章”，随即逼问苏贞昌：二百多名立委里谁曾因台独坐牢？他自答只有自己，并据此要求苏若真有七成九民意，就别再空谈修宪、第二共和，而应干脆推动“台独公投”，别再让民进党继续扮演假台独。
@@ -11843,6 +11975,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/097.周郎顾曲，我看郁方.txt
   数据：data/timeline-events-sixth-book.json#book6-2007-06-22-leaves-letter-to-lin-yufang-after-lunch
+- 2007年7月11日 | 李敖在“青山见我楼”写成《李敖议坛哀思录》小引二
+  精度：day；可靠度：confirmed；排序日期：2007-07-11
+  摘要：《李敖议坛哀思录》小引二署日2007年7月11日，地点为草山之阳“青山见我楼”。文中李敖以“老太太式自传”说明本书写法，强调自己要以大手笔效老妪书、随意唠叨而少作假，从而为整部《李敖议坛哀思录》定下自传体与随笔体兼具的写作基调。
+  人物：李敖、赵元任、杨步伟、胡适、江冬秀
+  地点：草山之阳青山见我楼
+  标签：小引二、青山见我楼、写作、自传体、议坛哀思录
+  视图：写作线、生平线
+  作品：李敖议坛哀思录
+  交叉引用：book6-2007-09-22-writes-preface-one-for-yitan-aisi-lu-at-qingshan-jianwo-lou、book6-2007-11-06-finishes-book-with-turn-in-paper-ending-at-taipei-loft
+  来源：李敖议坛哀思录 / 002.《李敖议坛哀思录》小引二 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/002.《李敖议坛哀思录》小引二.txt
+  数据：data/timeline-events-sixth-book.json#book6-2007-07-11-writes-preface-two-for-yitan-aisi-lu-at-qingshan-jianwo-lou
 - 2007年9月13日 | 李敖质询审计长被提名人林庆隆，逼其证明敢查总统与大案
   精度：day；可靠度：inferred；排序日期：2007-09-13
   摘要：《立法院公报第96卷第61期委员会纪录》所录被提名人资格询答中，李敖抓住林庆隆体检表“肛门和直肠”未检一项发挥，借题指审计部本应把守预算“后门”，却长期在国安局密帐、台综院、核四停建与总统府预算上开后门；他要求林庆隆证明自己不是只打苍蝇不打老虎的官僚，而真能凭审计长六年任期去查总统与重大财政弊案。
@@ -11882,6 +12027,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/099.我解释了“大法官”.txt
   数据：data/timeline-events-sixth-book.json#book6-2007-09-21-questions-four-grand-justice-nominees-on-imperial-justices
+- 2007年9月22日 | 李敖在“青山见我楼”写成《李敖议坛哀思录》小引一
+  精度：day；可靠度：confirmed；排序日期：2007-09-22
+  摘要：《李敖议坛哀思录》小引一署日2007年9月22日，地点为草山之阳“青山见我楼”。李敖在文中以“哀思之录，亦今之春秋”概括此书性质，说明自己在72岁之年要以最少时间草成这部议坛野史自传，用以刺群小、彰自我，也为全书赋予晚年总括与自我定位色彩。
+  人物：李敖、孔子
+  地点：草山之阳青山见我楼
+  标签：小引一、青山见我楼、春秋、写作、议坛哀思录
+  视图：写作线、生平线
+  作品：李敖议坛哀思录
+  交叉引用：book6-2007-07-11-writes-preface-two-for-yitan-aisi-lu-at-qingshan-jianwo-lou、book6-2007-11-06-finishes-book-with-turn-in-paper-ending-at-taipei-loft
+  来源：李敖议坛哀思录 / 001《李敖议坛哀思录》小引一 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/001《李敖议坛哀思录》小引一.txt
+  数据：data/timeline-events-sixth-book.json#book6-2007-09-22-writes-preface-one-for-yitan-aisi-lu-at-qingshan-jianwo-lou
 - 中华民国九十六年9月26日上午9时10分 | 李敖再质询四位大法官被提名人，称全部要投反对票
   精度：day；可靠度：confirmed；排序日期：2007-09-26
   摘要：《我又宰了四个》收录2007年9月26日上午9时10分继续开会记录。李敖质询刘铁铮、许志雄、叶俊荣等四位被提名人，从《儒林外史》、母语、蒙藏委员会、美国大法官马歇尔、公投辩论和御用大法官问题一路追打，末尾称四人统统没有资格，自己全部投反对票，只是要给他们教训。

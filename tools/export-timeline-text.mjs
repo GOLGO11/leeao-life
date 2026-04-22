@@ -15,7 +15,8 @@ const dataFiles = [
   "data/timeline-events-fourth-book.json",
   "data/timeline-events-fourth-book-deepening.json",
   "data/timeline-events-fifth-book.json",
-  "data/timeline-events-sixth-book.json"
+  "data/timeline-events-sixth-book.json",
+  "data/timeline-events-seventh-book.json"
 ];
 const outputPath = path.join(root, "exports", "leeao-current-timeline.txt");
 

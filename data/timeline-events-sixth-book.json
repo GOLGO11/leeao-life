@@ -3553,5 +3553,101 @@
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/014.院长王金平.txt",
       "line": 41
     }
+  },
+  {
+    "id": "book6-2006-03-16-shifts-main-battle-from-committee-floor-to-external-exposure-and-lawsuit",
+    "date": "2006-03-16",
+    "displayDate": "2006年3月16日前后",
+    "datePrecision": "undated-context",
+    "title": "李敖自述已把立院主力从内部发言转向外部拆穿与告发主轴",
+    "summary": "《我炮口转向了》写，李敖在比较自己与苏秋镇式传统议会战法后，明确表示已判断委员会质询和院会发言多半只剩媒体效果，因此决定减少在委员会内消耗，改以“外部拆穿比内部颠覆正确”为原则，把主力转向院外揭露与更高层级的政治、司法动作；他并以控告美国总统布什、联合李文在北京同步提告为例，说明自己已把“炮口转向”。",
+    "view": ["政治线", "立法院线", "司法线", "思想线"],
+    "tags": ["炮口转向", "外部拆穿", "内部颠覆", "布什", "李文", "策略转向"],
+    "people": ["李敖", "苏秋镇", "李文", "布什", "康宁祥"],
+    "places": ["立法院", "北京", "台北"],
+    "works": ["李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book6-2006-03-16-files-criminal-complaint-against-bush-lee-tenghui-and-chen-shuibian-over-arms-procurement",
+      "book6-2005-12-23-writes-open-letter-to-ma-yingjeou-with-arms-procurement-briefing"
+    ],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "031.我炮口转向了",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/031.我炮口转向了.txt",
+      "line": 5
+    }
+  },
+  {
+    "id": "book6-2007-04-03-writes-to-wu-dunyi-warning-kmt-to-retreat-or-mutually-destroy",
+    "date": "2007-04-03",
+    "displayDate": "2007年4月3日",
+    "datePrecision": "day",
+    "title": "李敖致信吴敦义，警告国民党在单一选区两票制下应对其退避一百舍",
+    "summary": "《我的国民党观》收录李敖于2007年4月3日写给国民党秘书长吴敦义的信。李敖指出单一选区两票制使自己也成被“宫”之列，若国民党仍不在其选区退让，将可能与他“同归于尽”，甚至被他重演上届打败陈学圣的局面。此信既是对新选制造成挤压的抗议，也是他对国民党发出的公开警告。",
+    "view": ["政治线", "国民党线", "书信线"],
+    "tags": ["吴敦义", "单一选区两票制", "退避一百舍", "陈学圣", "书信", "国民党"],
+    "people": ["李敖", "吴敦义", "林义雄", "陈学圣"],
+    "places": ["台湾"],
+    "works": ["李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book6-2007-04-03-says-only-he-went-to-jail-for-taiwan-independence-and-challenges-su",
+      "book6-2007-11-06-records-zhao-liangyan-phenomenon-as-victim-of-single-member-districts"
+    ],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "071.我的国民党观",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/071.我的国民党观.txt",
+      "line": 35
+    }
+  },
+  {
+    "id": "book6-2007-07-11-writes-preface-two-for-yitan-aisi-lu-at-qingshan-jianwo-lou",
+    "date": "2007-07-11",
+    "displayDate": "2007年7月11日",
+    "datePrecision": "day",
+    "title": "李敖在“青山见我楼”写成《李敖议坛哀思录》小引二",
+    "summary": "《李敖议坛哀思录》小引二署日2007年7月11日，地点为草山之阳“青山见我楼”。文中李敖以“老太太式自传”说明本书写法，强调自己要以大手笔效老妪书、随意唠叨而少作假，从而为整部《李敖议坛哀思录》定下自传体与随笔体兼具的写作基调。",
+    "view": ["写作线", "生平线"],
+    "tags": ["小引二", "青山见我楼", "写作", "自传体", "议坛哀思录"],
+    "people": ["李敖", "赵元任", "杨步伟", "胡适", "江冬秀"],
+    "places": ["草山之阳青山见我楼"],
+    "works": ["李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book6-2007-09-22-writes-preface-one-for-yitan-aisi-lu-at-qingshan-jianwo-lou",
+      "book6-2007-11-06-finishes-book-with-turn-in-paper-ending-at-taipei-loft"
+    ],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "002.《李敖议坛哀思录》小引二",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/002.《李敖议坛哀思录》小引二.txt",
+      "line": 5
+    }
+  },
+  {
+    "id": "book6-2007-09-22-writes-preface-one-for-yitan-aisi-lu-at-qingshan-jianwo-lou",
+    "date": "2007-09-22",
+    "displayDate": "2007年9月22日",
+    "datePrecision": "day",
+    "title": "李敖在“青山见我楼”写成《李敖议坛哀思录》小引一",
+    "summary": "《李敖议坛哀思录》小引一署日2007年9月22日，地点为草山之阳“青山见我楼”。李敖在文中以“哀思之录，亦今之春秋”概括此书性质，说明自己在72岁之年要以最少时间草成这部议坛野史自传，用以刺群小、彰自我，也为全书赋予晚年总括与自我定位色彩。",
+    "view": ["写作线", "生平线"],
+    "tags": ["小引一", "青山见我楼", "春秋", "写作", "议坛哀思录"],
+    "people": ["李敖", "孔子"],
+    "places": ["草山之阳青山见我楼"],
+    "works": ["李敖议坛哀思录"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book6-2007-07-11-writes-preface-two-for-yitan-aisi-lu-at-qingshan-jianwo-lou",
+      "book6-2007-11-06-finishes-book-with-turn-in-paper-ending-at-taipei-loft"
+    ],
+    "source": {
+      "book": "李敖议坛哀思录",
+      "chapter": "001《李敖议坛哀思录》小引一",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/001《李敖议坛哀思录》小引一.txt",
+      "line": 5
+    }
   }
 ]

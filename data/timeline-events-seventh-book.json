@@ -1,0 +1,190 @@
+[
+  {
+    "id": "book7-1949-05-11-leaves-shanghai-on-zhongxing-lun-with-family",
+    "date": "1949-05-11",
+    "displayDate": "1949年5月11日早上",
+    "datePrecision": "day",
+    "title": "李家自上海搭“中兴轮”离开大陆赴台",
+    "summary": "《出大陆记》写，1949年5月11日早上，李敖一家自上海登上“中兴轮”离开大陆。彼时客轮已沦为难民船，李敖把行李堆在甲板上，自己躺在行李上随船赴台，这一程构成其一生流亡台湾的开端。",
+    "view": ["生平线", "家族线", "迁徙线"],
+    "tags": ["中兴轮", "上海", "赴台", "难民船", "流亡"],
+    "people": ["李敖", "李鼎彝", "王国华"],
+    "places": ["上海", "中兴轮"],
+    "works": ["李敖风流自传"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "1949-05-12-arrive-taiwan",
+      "book4-1949-05-12-arrives-taiwan-at-keelung-source4"
+    ],
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "131.出大陆记",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/131.出大陆记.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book7-1949-05-12-arrives-keelung-by-zhongxing-lun-source7",
+    "date": "1949-05-12",
+    "displayDate": "1949年5月12日傍晚",
+    "datePrecision": "day",
+    "title": "李家乘“中兴轮”于傍晚抵达基隆",
+    "summary": "《出大陆记》写，1949年5月12日傍晚，李敖一家乘“中兴轮”抵达基隆。李敖在此章以“自此一住六十六年”回望赴台后的整段人生，把这次抵达视为流亡台湾生活的真正起点。",
+    "view": ["生平线", "家族线", "迁徙线"],
+    "tags": ["基隆", "中兴轮", "赴台", "流亡", "傍晚抵达"],
+    "people": ["李敖", "李鼎彝", "王国华"],
+    "places": ["基隆", "台湾"],
+    "works": ["李敖风流自传"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "1949-05-12-arrive-taiwan",
+      "book4-1949-05-12-arrives-taiwan-at-keelung-source4",
+      "book7-1949-05-11-leaves-shanghai-on-zhongxing-lun-with-family"
+    ],
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "131.出大陆记",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/131.出大陆记.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book7-1952-06-15-meets-qian-mu-source7",
+    "date": "1952-06-15",
+    "displayDate": "1952年6月15日",
+    "datePrecision": "day",
+    "title": "徐武军带李敖到存德巷一号拜访钱穆",
+    "summary": "《我结识了钱穆》写，1952年6月15日，徐武军带李敖走进台中存德巷一号，拜访在当地养伤的钱穆。李敖把这次见面视作自己在台湾少年时代结识重要学者的起点，也交代了徐复观、徐武军与钱穆之间的关系背景。",
+    "view": ["生平线", "交游线", "求学线"],
+    "tags": ["钱穆", "徐武军", "存德巷一号", "台中", "拜访"],
+    "people": ["李敖", "钱穆", "徐武军", "徐复观", "居浩然"],
+    "places": ["台中存德巷一号", "台中"],
+    "works": ["李敖风流自传"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book2-1952-06-15-meets-qian-mu",
+      "book4-1952-06-15-visits-qian-mu-source4"
+    ],
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "168.我结识了钱穆",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/168.我结识了钱穆.txt",
+      "line": 5
+    }
+  },
+  {
+    "id": "book7-1953-04-14-writes-letter-to-qian-mu-source7",
+    "date": "1953-04-14",
+    "displayDate": "1953年4月14日",
+    "datePrecision": "day",
+    "title": "李敖致信钱穆，表达感谢并质疑其著作错误",
+    "summary": "《钱穆印象记》写，李敖在与钱穆见面后未再登门，待钱穆回港后，于1953年4月14日写信给他，既表达谢意，也直接质疑其著作中的错误。这条材料更清楚地显出少年李敖求学时已敢于向名宿发难的性格。",
+    "view": ["生平线", "书信线", "求学线"],
+    "tags": ["钱穆", "书信", "质疑", "史学", "少年李敖"],
+    "people": ["李敖", "钱穆"],
+    "places": ["台中", "香港"],
+    "works": ["李敖风流自传"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book2-1953-04-14-letter-to-qian-mu",
+      "book4-1953-04-14-letter-to-qian-mu-source4",
+      "book7-1953-04-29-receives-qian-mu-reply-source7"
+    ],
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "169.钱穆印象记",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/169.钱穆印象记.txt",
+      "line": 9
+    }
+  },
+  {
+    "id": "book7-1953-04-29-receives-qian-mu-reply-source7",
+    "date": "1953-04-29",
+    "displayDate": "1953年4月29日",
+    "datePrecision": "day",
+    "title": "李敖收到钱穆回信",
+    "summary": "《钱穆印象记》写，李敖于1953年4月29日收到钱穆对其来信的答复。这一来一往，使两人的关系从单次拜访延伸为正式通信，也留下李敖少年时期与史学名家直接切磋的又一证据。",
+    "view": ["生平线", "书信线", "求学线"],
+    "tags": ["钱穆", "回信", "通信", "史学"],
+    "people": ["李敖", "钱穆"],
+    "places": ["台中", "香港"],
+    "works": ["李敖风流自传"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book4-1953-04-29-qian-mu-replies-to-li",
+      "book7-1953-04-14-writes-letter-to-qian-mu-source7"
+    ],
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "169.钱穆印象记",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/169.钱穆印象记.txt",
+      "line": 9
+    }
+  },
+  {
+    "id": "book7-1954-09-14-enters-ntu-law-special-course-source7",
+    "date": "1954-09-14",
+    "displayDate": "1954年9月14日",
+    "datePrecision": "day",
+    "title": "李敖以高中肄业资格入学台大法律专修科",
+    "summary": "《王作荣》写，1954年9月14日，十九岁的李敖以高中二年级肄业身份考入台大法律专修科，也就是后来的法律系司法组。此章同时补出其在课堂上当面挑战老师、以“三民主义到底有没有缺点”逼问王作荣的早期课堂形象。",
+    "view": ["生平线", "求学线"],
+    "tags": ["台大", "法律专修科", "王作荣", "林彬", "入学"],
+    "people": ["李敖", "王作荣", "林彬", "李登辉"],
+    "places": ["台大", "台北"],
+    "works": ["李敖风流自传"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book5-1954-09-14-enters-ntu-law-special-course"
+    ],
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "172.王作荣",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/172.王作荣.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book7-1956-10-15-first-sex-with-luo-source7",
+    "date": "1956-10-15",
+    "displayDate": "1956年10月15日",
+    "datePrecision": "day",
+    "title": "李敖与“罗”在台北结束处子身",
+    "summary": "《艰苦的恋爱》写，1956年10月15日，二十一岁的李敖在台北与“罗”发生性关系，章中直言“情归不处”，并以旅馆查房、公共浴池等细节交代国民党高压社会下恋爱与性经验的艰难环境。这是《风流自传》中极具代表性的私生活节点。",
+    "view": ["生平线", "情感线", "日常线"],
+    "tags": ["罗", "恋爱", "性经验", "公共浴池", "国民党高压"],
+    "people": ["李敖", "罗", "庄因"],
+    "places": ["台北"],
+    "works": ["李敖风流自传"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book5-1956-10-15-first-sex-with-luo"
+    ],
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "192.艰苦的恋爱",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/192.艰苦的恋爱.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book7-2003-08-17-buys-a-betta-fish-and-observes-its-solitary-combat",
+    "date": "2003-08-17",
+    "displayDate": "2003年8月17日",
+    "datePrecision": "day",
+    "title": "李敖买下一条斗鱼，并由其好斗性写出自况式感想",
+    "summary": "《斗鱼》写，2003年8月17日，李敖买下一条斗鱼，喜其飘逸、倨傲而甘于孤独。两天后他把斗鱼放进大鱼缸，斗鱼疯狂追逐保护箱中的小红鱼，至21日竟把自己累死。李敖借这条斗鱼写下对“专盯小号目标、终至斗死自己”式人格的观察，也留下难得的日常生活痕迹。",
+    "view": ["日常线", "生平线"],
+    "tags": ["斗鱼", "宠物", "日常痕迹", "自况"],
+    "people": ["李敖"],
+    "places": ["台北"],
+    "works": ["李敖风流自传"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "020.斗鱼",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/020.斗鱼.txt",
+      "line": 3
+    }
+  }
+]
