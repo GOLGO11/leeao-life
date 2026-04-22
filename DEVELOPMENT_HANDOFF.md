@@ -40,6 +40,7 @@ app.js
 data/ingestion-log.json
 data/timeline-events-fifth-book.json
 data/timeline-events-sixth-book.json
+data/timeline-events-traditional-monologue.json
 exports/leeao-current-timeline.txt
 tools/export-timeline-text.mjs
 DEVELOPMENT_HANDOFF.md
@@ -87,6 +88,7 @@ data/timeline-events-fifth-book.json
 data/timeline-events-sixth-book.json
 data/timeline-events-seventh-book.json
 data/timeline-events-eighth-book.json
+data/timeline-events-traditional-monologue.json
 ```
 
 同步位置：
@@ -100,7 +102,7 @@ tools/export-timeline-text.mjs 的 dataFiles
 
 ## 当前计数
 
-截至第八本第七轮结束：
+截至《传统下的独白》第一轮结束：
 
 ```text
 data/timeline-events.json                         32
@@ -118,14 +120,15 @@ data/timeline-events-fifth-book.json              220
 data/timeline-events-sixth-book.json              160
 data/timeline-events-seventh-book.json            78
 data/timeline-events-eighth-book.json             42
-总计                                             1047
+data/timeline-events-traditional-monologue.json   17
+总计                                             1064
 ```
 
 `exports/leeao-current-timeline.txt` 表头当前应同步为：
 
 ```text
-事件总数：1047
-日期精度统计：day=781；year=67；year-range=6；undated-range=1；undated-context=113；season=21；lunar-day=1；year-after=7；month=28；half-year=2；day-range=9；month-after=2；year-about=5；day-after=3；year-end=1
+事件总数：1064
+日期精度统计：day=798；year=67；year-range=6；undated-range=1；undated-context=113；season=21；lunar-day=1；year-after=7；month=28；half-year=2；day-range=9；month-after=2；year-about=5；day-after=3；year-end=1
 ```
 
 ## 当前处理进度
@@ -136,7 +139,7 @@ data/timeline-events-eighth-book.json             42
 data/ingestion-log.json
 ```
 
-当前最新轮次为 `iteration: 86`。
+当前最新轮次为 `iteration: 89`。
 
 已处理到第八本：
 
@@ -149,12 +152,71 @@ data/ingestion-log.json
 006.李敖议坛哀思录
 007.李敖风流自传
 008.李敖相关
+009.传统下的独白
 ```
 
 第五本《李敖快意恩仇录》已经停止深挖，并完成 1960-1961 重复事件校正，当前定格在 220 条。
 第六本《李敖议坛哀思录》已推进到第二十三轮，当前 160 条，事件抽取层面已基本收束。
 第七本《李敖风流自传》已完成第二十九轮 closeout，当前 78 条，进入阶段性收束状态。
-第八本《李敖相关》已推进到第七轮，当前 42 条。
+第八本《李敖相关》已推进到第七轮，当前 42 条，现按“95%完成”口径阶段性停住。
+《传统下的独白》已推进到第三轮，当前 17 条。
+
+## 《传统下的独白》当前状态
+
+《传统下的独白》数据文件：
+
+```text
+data/timeline-events-traditional-monologue.json
+```
+
+前三轮采取的是**先稳后扩，再转入补强层**的策略：先用自序、再版自序与文末署日起步，再扩到成对出现的“写作地/写定日 + 报刊发表日”节点，随后开始补原刊—改订—发表后回响的链条，避免把所有日期命中不分层次地混写。
+
+前三轮累计已新增 17 条，其中第三轮新增的重点是：
+
+- `1961-04-03` 《充员官》刊于台北《中华日报》副刊
+- `1961-07-07` 《假如我是女人》初稿写成
+- `1963-06-01` 《假如我是女人》刊于《文星》第六十八号
+- `1963-08-16` 李敖为《假如我是女人》补记发表后反响
+
+这使《传统下的独白》里至少已有两类较完整的链条：
+
+1. **原刊—改订链**：如《充员官》
+2. **初稿—发表—后记反响链**：如《假如我是女人》
+
+这一步很重要，因为它说明这本书的“主干”已经不是单薄的书目表，而开始有厚度、有传播过程、有文祸余波。
+
+前两轮补出的重点仍包括：
+
+- `1961年妇女节` 《独身者的独白》写于“四席小屋”
+- `1961-03-12` 《独身者的独白》刊于《联合报》副刊
+- `1961-04-02` 《无为先生传》一口气写完
+- `1961-04-11` 《爱情的刽子手》写于“四席小屋”
+- `1961-04-17` 《爱情的刽子手》刊于《联合报》副刊
+- `1961-05-24` 《一封神气的情书》文末署日
+- `1962-11-01` 《修改〈医师法〉与废止中医》原登《文星》第六十一号
+- `1963-01-01` 李敖在《今日医药》谈修改医师法与医界风气
+- `1963-06-18` 《张天师可以歇歇了！》文末署日
+- `1963-07-01` 《张天师可以歇歇了！》原登《文星》第六十九期
+- 以及第一轮的 `1962-12-17` / `1963-10-08` / `1963-10-10`
+
+当前明确不重复起条的已有节点：
+
+- `1963-09-25` 《传统下的独白》出版（第五本已稳固落库）
+- `1961-11-01` 《老年人和棒子》发表（第五本与第一本补充层已吸收）
+
+这说明《传统下的独白》的最佳推进方式，不是把所有日期命中机械抄完，而是继续优先处理：
+
+1. 文末明确署日且能单独成立的作品写定/修订节点
+2. 能补出原刊发表与入书改订之间层次差异的条目
+3. 再版、自序、后记这类能交代作品传播反应的书内说明
+4. 像 `018` 这种带有大量历史背景日期的长论战文，只收李敖本人文章发表/回应的直接锚点，不把法律史背景机械拆成时间线
+
+下一轮最值得优先复核的，是与第三轮同型、但尚未系统抽取的后记型章节：
+
+- `009.由一丝不挂说起`：有 1962-08-24、1962-08-27、1962-09-01、1963-05-22 等多层后记链
+- `010.不讨老婆之“不亦快哉”`：有 1962-12-07 一改、1963-08-16 再改、1963-12-30《新生报》副刊发表链
+- `011.妈妈的梦幻`、`012.妈妈·弟弟·电影`、`013.长袍心理学`、`014.红玫瑰`、`015.旧天子与新皇帝`：都带有明显后记与改稿信息，适合按同一模板推进
+- `018.修改《医师法》与废止中医` 中 1963-03-08《联合报》医师法动议报道，若后续要做“外部回响线”，可再纳入
 
 ## 第八本当前状态
 

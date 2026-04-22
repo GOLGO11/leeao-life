@@ -1,9 +1,9 @@
 李敖交互式年表：当前增量纯文本备份
 生成日期：2026-04-22
-事件总数：1047
-数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json
+事件总数：1064
+数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json
 说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。
-日期精度统计：day=781；year=67；year-range=6；undated-range=1；undated-context=113；season=21；lunar-day=1；year-after=7；month=28；half-year=2；day-range=9；month-after=2；year-about=5；day-after=3；year-end=1
+日期精度统计：day=798；year=67；year-range=6；undated-range=1；undated-context=113；season=21；lunar-day=1；year-after=7；month=28；half-year=2；day-range=9；month-after=2；year-about=5；day-after=3；year-end=1
 
 
 1935
@@ -2670,6 +2670,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/005.“北土非吾愿，东林怀我师”.txt
   数据：data/timeline-events-first-book-supplement.json#1961-03-04-first-private-talk-yao
+- 1961年妇女节 | 李敖在“四席小屋”写《独身者的独白》
+  精度：day；可靠度：inferred；排序日期：1961-03-08
+  摘要：《独身者的独白》文末署“1961年妇女节在台北‘四席小屋’”。这为李敖早期在“四席小屋”写作、以独身与爱情问题自我剖白的文字，留下一个可明确换算到公历的写作锚点。
+  人物：李敖
+  地点：台北、四席小屋
+  标签：独身者的独白、四席小屋、妇女节、写作、传统下的独白
+  视图：写作线、生平线、情感线
+  作品：独身者的独白、传统下的独白
+  交叉引用：-
+  来源：传统下的独白 / 003.独身者的独白 / line 31
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/003.独身者的独白.txt
+  数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1961-03-08-bachelors-soliloquy-written-in-four-mat-room
 - 1961-03-11 | 第二次与姚从吾谈话甚洽
   精度：day；可靠度：confirmed；排序日期：1961-03-11
   摘要：李敖日记记下与姚从吾第二次谈话甚洽，姚甚至不知胡适有 The Chinese Renaissance，并赞同李敖翻译。
@@ -2683,6 +2696,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/005.“北土非吾愿，东林怀我师”.txt
   数据：data/timeline-events-first-book-supplement.json#1961-03-11-second-talk-yao
+- 1961年3月12日 | 《独身者的独白》刊于《联合报》副刊
+  精度：day；可靠度：confirmed；排序日期：1961-03-12
+  摘要：《独身者的独白》文末注明“《联合报》副刊1961年3月12日”。这为李敖早期以独身观与反婚恋俗套姿态切入公共写作，提供了一个明确的报刊发表节点。
+  人物：李敖
+  地点：台北
+  标签：独身者的独白、联合报、副刊、四席小屋、传统下的独白
+  视图：出版线、写作线、生平线
+  作品：独身者的独白、联合报、传统下的独白
+  交叉引用：-
+  来源：传统下的独白 / 003.独身者的独白 / line 33
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/003.独身者的独白.txt
+  数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1961-03-12-bachelors-soliloquy-published-in-united-daily
 - 1961-03-14 | 生平第一次领到薪水
   精度：day；可靠度：confirmed；排序日期：1961-03-14
   摘要：李敖日记记下下午领取三千元，是他生平第一次领到薪水；同日因《独身者的独白》与姚从吾发生写作冲突。
@@ -2722,6 +2748,58 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/005.“北土非吾愿，东林怀我师”.txt
   数据：data/timeline-events-first-book-supplement.json#1961-03-25-yao-buys-songhuiyao
+- 1961年4月2日夜 | 李敖一口气写完《无为先生传》
+  精度：day；可靠度：confirmed；排序日期：1961-04-02
+  摘要：《无为先生传》文末明记“1961年4月2日夜一口气写完”。这类自署写作完成时刻很适合作为《传统下的独白》一书内部的作品生成锚点。
+  人物：李敖
+  地点：台湾
+  标签：无为先生传、一口气写完、写作、传统下的独白
+  视图：写作线、生平线
+  作品：无为先生传、传统下的独白
+  交叉引用：-
+  来源：传统下的独白 / 016.无为先生传 / line 41
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/016.无为先生传.txt
+  数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1961-04-02-wuwei-xiansheng-zhuan-written-in-one-sitting
+- 1961年4月3日 | 《充员官》刊于台北《中华日报》副刊
+  精度：day；可靠度：confirmed；排序日期：1961-04-03
+  摘要：《充员官》文末注明“原登在1961年4月3日台北《中华日报》副刊”。补入这条后，便能与1963年10月8日“依原稿稍做改订”构成一组完整的原刊—入书改订双节点。
+  人物：李敖
+  地点：台北
+  标签：充员官、中华日报、副刊、预备军官、传统下的独白
+  视图：出版线、写作线、生平线
+  作品：充员官、中华日报、传统下的独白
+  交叉引用：traditional-monologue-1963-10-08-chongyuanguan-revised-from-original-manuscript
+  来源：传统下的独白 / 017.充员官 / line 37
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/017.充员官.txt
+  数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1961-04-03-chongyuanguan-published-in-zhonghua-daily
+- 1961年4月11日在台北“四席小屋” | 李敖在“四席小屋”写《爱情的刽子手》
+  精度：day；可靠度：confirmed；排序日期：1961-04-11
+  摘要：《爱情的刽子手》文末署“1961年4月11日在台北‘四席小屋’”。这把李敖在“四席小屋”时期围绕爱情、婚姻与现代社会结构的思辨写作，落实到具体一天。
+  人物：李敖
+  地点：台北、四席小屋
+  标签：爱情的刽子手、四席小屋、写作、爱情观、传统下的独白
+  视图：写作线、情感线、思想线
+  作品：爱情的刽子手、传统下的独白
+  交叉引用：-
+  来源：传统下的独白 / 004.爱情的刽子手 / line 53
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/004.爱情的刽子手.txt
+  数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1961-04-11-love-executioner-written-in-four-mat-room
+- 1961年4月17日 | 《爱情的刽子手》刊于《联合报》副刊
+  精度：day；可靠度：confirmed；排序日期：1961-04-17
+  摘要：《爱情的刽子手》文末注明“《联合报》副刊1961年4月17日”。它把李敖对爱情、婚姻与主妇社会的批判，从写作现场推进到正式发表场域。
+  人物：李敖
+  地点：台北
+  标签：爱情的刽子手、联合报、副刊、爱情观、传统下的独白
+  视图：出版线、情感线、思想线
+  作品：爱情的刽子手、联合报、传统下的独白
+  交叉引用：-
+  来源：传统下的独白 / 004.爱情的刽子手 / line 55
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/004.爱情的刽子手.txt
+  数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1961-04-17-love-executioner-published-in-united-daily
 - 1961-04-21 | 给林海音信中自述助理处境
   精度：day；可靠度：confirmed；排序日期：1961-04-21
   摘要：李敖晨起抄完给林海音的信，说明自己任“国家长期发展科学委员会国家研究讲座教授助理”，也写到姚从吾干涉他写文章。
@@ -2787,6 +2865,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/005.“北土非吾愿，东林怀我师”.txt
   数据：data/timeline-events-first-book-supplement.json#1961-05-18-read-yao-diaries
+- 1961年5月24日 | 《一封神气的情书》文末署日
+  精度：day；可靠度：confirmed；排序日期：1961-05-24
+  摘要：《一封神气的情书》末尾先以“××年×月××日”保留情书体裁的姿态，随后又独立署出“1961年5月24日”。这为李敖把情场自嘲、炫才与书写表演结合起来的文章，留下一个明确日期锚点。
+  人物：李敖
+  地点：台湾
+  标签：一封神气的情书、署日、情书体、写作、传统下的独白
+  视图：写作线、情感线、生平线
+  作品：一封神气的情书、传统下的独白
+  交叉引用：-
+  来源：传统下的独白 / 005.一封神气的情书 / line 51
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/005.一封神气的情书.txt
+  数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1961-05-24-magnificent-love-letter-dated
 - 1961年6月15日 | 李敖改租“碧潭山楼”
   精度：day；可靠度：confirmed；排序日期：1961-06-15
   摘要：《委蜕纪》写，李敖在“四席小屋”住四个月后，于1961年6月15日改租“碧潭山楼”，一人徜徉其中，颇得山水之乐。
@@ -2813,6 +2904,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/242.“碧潭山楼”.txt
   数据：data/timeline-events-seventh-book.json#book7-1961-07-05-records-prolific-writing-day-at-bitan-hill-house
+- 1961年7月7日 | 《假如我是女人》初稿写成
+  精度：day；可靠度：confirmed；排序日期：1961-07-07
+  摘要：《假如我是女人》后记说明，这篇文章“初稿在1961年7月7日，后来两度修改”。这使它不仅有最终发表日，还有一个明确的早期写作起点。
+  人物：李敖
+  地点：台湾
+  标签：假如我是女人、初稿、写作、性别、传统下的独白
+  视图：写作线、情感线、思想线
+  作品：假如我是女人、传统下的独白
+  交叉引用：-
+  来源：传统下的独白 / 006.假如我是女人 / line 61
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/006.假如我是女人.txt
+  数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1961-07-07-if-i-were-a-woman-first-draft
 - 1961年8月18日 | 李敖考上台大历史研究所
   精度：day；可靠度：confirmed；排序日期：1961-08-18
   摘要：《委蜕纪》明记，1961年8月18日李敖考上台大历史研究所，随后进入研究生与文献会并行的阶段。
@@ -3192,8 +3296,47 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/003.我最难忘的一位老师.txt
   数据：data/timeline-events-first-book-supplement.json#1962-10-01-yan-letter-debt
+- 1962年11月1日 | 《修改〈医师法〉与废止中医》原登《文星》第六十一号
+  精度：day；可靠度：confirmed；排序日期：1962-11-01
+  摘要：《修改〈医师法〉与废止中医》文内后记说明，此文原登《文星》第六十一号（1962年11月1日台北出版）。这为李敖以现代化与科学医学立场批判中医法制留下一条明确的原始发表节点。
+  人物：李敖
+  地点：台北
+  标签：修改医师法与废止中医、文星、医学、中医、传统下的独白
+  视图：出版线、思想线、写作线
+  作品：修改《医师法》与废止中医、文星、传统下的独白
+  交叉引用：-
+  来源：传统下的独白 / 018.修改《医师法》与废止中医 / line 267
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/018.修改《医师法》与废止中医.txt
+  数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1962-11-01-medical-practitioners-law-essay-published-in-wenxing
+- 1962年12月17日 | 李敖写定《十三年和十三月》
+  精度：day；可靠度：confirmed；排序日期：1962-12-17
+  摘要：《十三年和十三月》文末署1962年12月17日。这篇带有自传与思想自剖色彩的长文回顾李敖1949年赴台后十三年的受教育、入台大、从军、回校与投向《文星》的过程，是《传统下的独白》中可直接落日的作品署日节点。
+  人物：李敖
+  地点：台湾
+  标签：十三年和十三月、署日、写作、传统下的独白
+  视图：写作线、思想线、生平线
+  作品：十三年和十三月、传统下的独白
+  交叉引用：-
+  来源：传统下的独白 / 022.十三年和十三月 / line 139
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/022.十三年和十三月.txt
+  数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1962-12-17-thirteen-years-and-thirteen-months-dated
 
 1963
+- 1963年1月1日 | 李敖在《今日医药》谈修改医师法与医界风气
+  精度：day；可靠度：confirmed；排序日期：1963-01-01
+  摘要：《修改〈医师法〉与废止中医》文内附记说明，台北今日医药新闻社举办“修改医师法与革新医界风气的途径”笔谈会，并在《今日医药》第260号（1963年1月1日）发表李敖的意见。这个节点显示他围绕医师法问题的介入，从《文星》文章继续延伸到专业医药刊物。
+  人物：李敖
+  地点：台北
+  标签：今日医药、医师法、医界风气、笔谈、传统下的独白
+  视图：出版线、思想线、写作线
+  作品：修改《医师法》与废止中医、今日医药、传统下的独白
+  交叉引用：traditional-monologue-1962-11-01-medical-practitioners-law-essay-published-in-wenxing
+  来源：传统下的独白 / 018.修改《医师法》与废止中医 / line 243
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/018.修改《医师法》与废止中医.txt
+  数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1963-01-01-li-ao-responds-on-medical-law-and-medical-ethos
 - 1963年1月9日 | 施启扬从海德堡致信吴章铨、魏廷朝、史静波
   精度：day；可靠度：confirmed；排序日期：1963-01-09
   摘要：第三本收录施启扬1963年1月9日信，谈德国《镜报》事件、学生示威与寄给《文星》的稿件，李敖后来将其文章登在《文星》第六十四期。
@@ -3259,6 +3402,45 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/316.中央研究院不准进门.txt
   数据：data/timeline-events-seventh-book.json#book7-1963-05-08-dines-at-xinyuan-with-li-fangkuei-and-teachers
+- 1963年6月1日 | 《假如我是女人》刊于《文星》第六十八号
+  精度：day；可靠度：confirmed；排序日期：1963-06-01
+  摘要：《假如我是女人》后记说明，此文“最后发表在《文星》六十八号（1963年6月1日台北出版）”。它把李敖借女性口吻讽刺男人、文学圈与政治文化的文章，落实为清楚的杂志发表节点。
+  人物：李敖
+  地点：台北
+  标签：假如我是女人、文星、性别、讽刺、传统下的独白
+  视图：出版线、思想线、情感线
+  作品：假如我是女人、文星、传统下的独白
+  交叉引用：traditional-monologue-1961-07-07-if-i-were-a-woman-first-draft、traditional-monologue-1963-08-16-if-i-were-a-woman-post-publication-backlash-note
+  来源：传统下的独白 / 006.假如我是女人 / line 61
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/006.假如我是女人.txt
+  数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1963-06-01-if-i-were-a-woman-published-in-wenxing
+- 1963年6月18日 | 李敖写定《张天师可以歇歇了！》
+  精度：day；可靠度：confirmed；排序日期：1963-06-18
+  摘要：《张天师可以歇歇了！》文末署1963年6月18日。文章借张天师津贴问题批评依附祖宗、坐吃世袭与国家为传统符号买单的旧制度，是《传统下的独白》中典型的反传统时评文字。
+  人物：李敖
+  地点：台湾
+  标签：张天师可以歇歇了、署日、反传统、宗教、传统下的独白
+  视图：写作线、思想线、政治线
+  作品：张天师可以歇歇了！、传统下的独白
+  交叉引用：-
+  来源：传统下的独白 / 021.张天师可以歇歇了！ / line 81
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/021.张天师可以歇歇了！.txt
+  数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1963-06-18-zhang-tianshi-can-rest-written
+- 1963年7月1日 | 《张天师可以歇歇了！》原登《文星》第六十九期
+  精度：day；可靠度：confirmed；排序日期：1963-07-01
+  摘要：《张天师可以歇歇了！》后记注明，此文原登《文星》第六十九期（1963年7月1日台北出版）。这把李敖对传统宗教特权与国家补贴的批评，进一步落实为具体的杂志发表节点。
+  人物：李敖
+  地点：台北
+  标签：张天师可以歇歇了、文星、宗教、世袭、传统下的独白
+  视图：出版线、思想线、政治线
+  作品：张天师可以歇歇了！、文星、传统下的独白
+  交叉引用：traditional-monologue-1963-06-18-zhang-tianshi-can-rest-written
+  来源：传统下的独白 / 021.张天师可以歇歇了！ / line 83
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/021.张天师可以歇歇了！.txt
+  数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1963-07-01-zhang-tianshi-can-rest-published-in-wenxing
 - 1963年7月18日 | 陈立峰让贤荐李敖任《文星》主编
   精度：day；可靠度：confirmed；排序日期：1963-07-18
   摘要：李敖在《文星》回忆中写，1963年7月18日陈立峰让贤推荐他接手《文星》主编；他虽未正式就任，却开始帮助萧孟能稳住杂志水平。
@@ -3272,6 +3454,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/011.《文星》（1962-1966·27到31岁）.txt
   数据：data/timeline-events-fourth-book.json#book4-1963-07-18-chen-lifeng-recommends-li-as-wenxing-editor
+- 1963年8月16日 | 李敖为《假如我是女人》补记发表后反响
+  精度：day；可靠度：confirmed；排序日期：1963-08-16
+  摘要：《假如我是女人》后记末署1963年8月16日，并追记文章发表后“被女读者大骂”，又被胡秋原引到法院控告其诽谤。这条可视为作品发表后回响与文祸延伸的书内补记节点。
+  人物：李敖、胡秋原
+  地点：台湾
+  标签：假如我是女人、后记、胡秋原、文祸、传统下的独白
+  视图：写作线、司法线、思想线
+  作品：假如我是女人、传统下的独白
+  交叉引用：traditional-monologue-1963-06-01-if-i-were-a-woman-published-in-wenxing
+  来源：传统下的独白 / 006.假如我是女人 / line 61
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/006.假如我是女人.txt
+  数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1963-08-16-if-i-were-a-woman-post-publication-backlash-note
 - 1963年9月25日 | 李敖第一本书《传统下的独白》出版
   精度：day；可靠度：confirmed；排序日期：1963-09-25
   摘要：《星火纪》称1963年9月25日是李敖的大日子，这一天文星出版他的第一本书《传统下的独白》，其写作风格和骂人名声由此确立。
@@ -3298,6 +3493,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1963-10-01-chunvmo-zhengxing-published
+- 1963年10月8日 | 李敖为《充员官》依原稿稍做改订
+  精度：day；可靠度：confirmed；排序日期：1963-10-08
+  摘要：《充员官》文末先注明原文发表于1961年4月3日台北《中华日报》副刊，继而又注明“现在依原稿稍做改订，1963年10月8日”。这使它在原始发表之外，又留下一个可单独入表的修订与入书准备节点。
+  人物：李敖
+  地点：台湾
+  标签：充员官、改订、中华日报、预备军官、传统下的独白
+  视图：写作线、出版线、生平线
+  作品：充员官、传统下的独白
+  交叉引用：-
+  来源：传统下的独白 / 017.充员官 / line 39
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/017.充员官.txt
+  数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1963-10-08-chongyuanguan-revised-from-original-manuscript
 - 1963-10-09 | 姚从吾鼓励李敖“运用神笔”写杂文
   精度：day；可靠度：confirmed；排序日期：1963-10-09
   摘要：姚从吾写信给李敖，称赞《蒋廷黻和他走的路》，并建议他写“西贡佛教徒自焚之谜”，显示姚从反对到鼓励写杂文的变化。
@@ -3311,6 +3519,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/005.“北土非吾愿，东林怀我师”.txt
   数据：data/timeline-events-first-book-supplement.json#1963-10-09-yao-encourages-essay
+- 1963年10月10日 | 李敖写《传统下的独白》再版自序
+  精度：day；可靠度：confirmed；排序日期：1963-10-10
+  摘要：《传统下的独白》再版自序文末署1963年10月10日。李敖在文中明确说此书9月25日出版，出版后两个星期便有再版机会，因此这篇自序既是再版署日，也是他对自己第一本书传播反应的直接说明。
+  人物：李敖
+  地点：台湾
+  标签：传统下的独白、再版、自序、文星
+  视图：出版线、写作线、生平线
+  作品：传统下的独白
+  交叉引用：book5-1963-09-25-first-book-traditional-monologue
+  来源：传统下的独白 / 002.《传统下的独白》再版自序 / line 13
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/002.《传统下的独白》再版自序.txt
+  数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1963-10-10-traditional-monologue-reprint-preface
 - 1963年11月1日 | 李敖在《文星》发表《高等教育的一面怪现状》
   精度：day；可靠度：confirmed；排序日期：1963-11-01
   摘要：《前程》章追述，李敖在《文星》第73期发表《高等教育的一面怪现状》，把“扒粪运动”推进到高等教育领域，并先从台大开刀。

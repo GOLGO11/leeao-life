@@ -1,0 +1,348 @@
+[
+  {
+    "id": "traditional-monologue-1961-03-08-bachelors-soliloquy-written-in-four-mat-room",
+    "date": "1961-03-08",
+    "displayDate": "1961年妇女节",
+    "datePrecision": "day",
+    "title": "李敖在“四席小屋”写《独身者的独白》",
+    "summary": "《独身者的独白》文末署“1961年妇女节在台北‘四席小屋’”。这为李敖早期在“四席小屋”写作、以独身与爱情问题自我剖白的文字，留下一个可明确换算到公历的写作锚点。",
+    "view": ["写作线", "生平线", "情感线"],
+    "tags": ["独身者的独白", "四席小屋", "妇女节", "写作", "传统下的独白"],
+    "people": ["李敖"],
+    "places": ["台北", "四席小屋"],
+    "works": ["独身者的独白", "传统下的独白"],
+    "certainty": "inferred",
+    "source": {
+      "book": "传统下的独白",
+      "chapter": "003.独身者的独白",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/003.独身者的独白.txt",
+      "line": 31
+    }
+  },
+  {
+    "id": "traditional-monologue-1961-03-12-bachelors-soliloquy-published-in-united-daily",
+    "date": "1961-03-12",
+    "displayDate": "1961年3月12日",
+    "datePrecision": "day",
+    "title": "《独身者的独白》刊于《联合报》副刊",
+    "summary": "《独身者的独白》文末注明“《联合报》副刊1961年3月12日”。这为李敖早期以独身观与反婚恋俗套姿态切入公共写作，提供了一个明确的报刊发表节点。",
+    "view": ["出版线", "写作线", "生平线"],
+    "tags": ["独身者的独白", "联合报", "副刊", "四席小屋", "传统下的独白"],
+    "people": ["李敖"],
+    "places": ["台北"],
+    "works": ["独身者的独白", "联合报", "传统下的独白"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "传统下的独白",
+      "chapter": "003.独身者的独白",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/003.独身者的独白.txt",
+      "line": 33
+    }
+  },
+  {
+    "id": "traditional-monologue-1961-04-02-wuwei-xiansheng-zhuan-written-in-one-sitting",
+    "date": "1961-04-02",
+    "displayDate": "1961年4月2日夜",
+    "datePrecision": "day",
+    "title": "李敖一口气写完《无为先生传》",
+    "summary": "《无为先生传》文末明记“1961年4月2日夜一口气写完”。这类自署写作完成时刻很适合作为《传统下的独白》一书内部的作品生成锚点。",
+    "view": ["写作线", "生平线"],
+    "tags": ["无为先生传", "一口气写完", "写作", "传统下的独白"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["无为先生传", "传统下的独白"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "传统下的独白",
+      "chapter": "016.无为先生传",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/016.无为先生传.txt",
+      "line": 41
+    }
+  },
+  {
+    "id": "traditional-monologue-1961-04-11-love-executioner-written-in-four-mat-room",
+    "date": "1961-04-11",
+    "displayDate": "1961年4月11日在台北“四席小屋”",
+    "datePrecision": "day",
+    "title": "李敖在“四席小屋”写《爱情的刽子手》",
+    "summary": "《爱情的刽子手》文末署“1961年4月11日在台北‘四席小屋’”。这把李敖在“四席小屋”时期围绕爱情、婚姻与现代社会结构的思辨写作，落实到具体一天。",
+    "view": ["写作线", "情感线", "思想线"],
+    "tags": ["爱情的刽子手", "四席小屋", "写作", "爱情观", "传统下的独白"],
+    "people": ["李敖"],
+    "places": ["台北", "四席小屋"],
+    "works": ["爱情的刽子手", "传统下的独白"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "传统下的独白",
+      "chapter": "004.爱情的刽子手",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/004.爱情的刽子手.txt",
+      "line": 53
+    }
+  },
+  {
+    "id": "traditional-monologue-1961-04-17-love-executioner-published-in-united-daily",
+    "date": "1961-04-17",
+    "displayDate": "1961年4月17日",
+    "datePrecision": "day",
+    "title": "《爱情的刽子手》刊于《联合报》副刊",
+    "summary": "《爱情的刽子手》文末注明“《联合报》副刊1961年4月17日”。它把李敖对爱情、婚姻与主妇社会的批判，从写作现场推进到正式发表场域。",
+    "view": ["出版线", "情感线", "思想线"],
+    "tags": ["爱情的刽子手", "联合报", "副刊", "爱情观", "传统下的独白"],
+    "people": ["李敖"],
+    "places": ["台北"],
+    "works": ["爱情的刽子手", "联合报", "传统下的独白"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "传统下的独白",
+      "chapter": "004.爱情的刽子手",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/004.爱情的刽子手.txt",
+      "line": 55
+    }
+  },
+  {
+    "id": "traditional-monologue-1961-05-24-magnificent-love-letter-dated",
+    "date": "1961-05-24",
+    "displayDate": "1961年5月24日",
+    "datePrecision": "day",
+    "title": "《一封神气的情书》文末署日",
+    "summary": "《一封神气的情书》末尾先以“××年×月××日”保留情书体裁的姿态，随后又独立署出“1961年5月24日”。这为李敖把情场自嘲、炫才与书写表演结合起来的文章，留下一个明确日期锚点。",
+    "view": ["写作线", "情感线", "生平线"],
+    "tags": ["一封神气的情书", "署日", "情书体", "写作", "传统下的独白"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["一封神气的情书", "传统下的独白"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "传统下的独白",
+      "chapter": "005.一封神气的情书",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/005.一封神气的情书.txt",
+      "line": 51
+    }
+  },
+  {
+    "id": "traditional-monologue-1962-11-01-medical-practitioners-law-essay-published-in-wenxing",
+    "date": "1962-11-01",
+    "displayDate": "1962年11月1日",
+    "datePrecision": "day",
+    "title": "《修改〈医师法〉与废止中医》原登《文星》第六十一号",
+    "summary": "《修改〈医师法〉与废止中医》文内后记说明，此文原登《文星》第六十一号（1962年11月1日台北出版）。这为李敖以现代化与科学医学立场批判中医法制留下一条明确的原始发表节点。",
+    "view": ["出版线", "思想线", "写作线"],
+    "tags": ["修改医师法与废止中医", "文星", "医学", "中医", "传统下的独白"],
+    "people": ["李敖"],
+    "places": ["台北"],
+    "works": ["修改《医师法》与废止中医", "文星", "传统下的独白"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "传统下的独白",
+      "chapter": "018.修改《医师法》与废止中医",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/018.修改《医师法》与废止中医.txt",
+      "line": 267
+    }
+  },
+  {
+    "id": "traditional-monologue-1962-12-17-thirteen-years-and-thirteen-months-dated",
+    "date": "1962-12-17",
+    "displayDate": "1962年12月17日",
+    "datePrecision": "day",
+    "title": "李敖写定《十三年和十三月》",
+    "summary": "《十三年和十三月》文末署1962年12月17日。这篇带有自传与思想自剖色彩的长文回顾李敖1949年赴台后十三年的受教育、入台大、从军、回校与投向《文星》的过程，是《传统下的独白》中可直接落日的作品署日节点。",
+    "view": ["写作线", "思想线", "生平线"],
+    "tags": ["十三年和十三月", "署日", "写作", "传统下的独白"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["十三年和十三月", "传统下的独白"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "传统下的独白",
+      "chapter": "022.十三年和十三月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/022.十三年和十三月.txt",
+      "line": 139
+    }
+  },
+  {
+    "id": "traditional-monologue-1963-01-01-li-ao-responds-on-medical-law-and-medical-ethos",
+    "date": "1963-01-01",
+    "displayDate": "1963年1月1日",
+    "datePrecision": "day",
+    "title": "李敖在《今日医药》谈修改医师法与医界风气",
+    "summary": "《修改〈医师法〉与废止中医》文内附记说明，台北今日医药新闻社举办“修改医师法与革新医界风气的途径”笔谈会，并在《今日医药》第260号（1963年1月1日）发表李敖的意见。这个节点显示他围绕医师法问题的介入，从《文星》文章继续延伸到专业医药刊物。",
+    "view": ["出版线", "思想线", "写作线"],
+    "tags": ["今日医药", "医师法", "医界风气", "笔谈", "传统下的独白"],
+    "people": ["李敖"],
+    "places": ["台北"],
+    "works": ["修改《医师法》与废止中医", "今日医药", "传统下的独白"],
+    "certainty": "confirmed",
+    "crossReferences": ["traditional-monologue-1962-11-01-medical-practitioners-law-essay-published-in-wenxing"],
+    "source": {
+      "book": "传统下的独白",
+      "chapter": "018.修改《医师法》与废止中医",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/018.修改《医师法》与废止中医.txt",
+      "line": 243
+    }
+  },
+  {
+    "id": "traditional-monologue-1963-06-18-zhang-tianshi-can-rest-written",
+    "date": "1963-06-18",
+    "displayDate": "1963年6月18日",
+    "datePrecision": "day",
+    "title": "李敖写定《张天师可以歇歇了！》",
+    "summary": "《张天师可以歇歇了！》文末署1963年6月18日。文章借张天师津贴问题批评依附祖宗、坐吃世袭与国家为传统符号买单的旧制度，是《传统下的独白》中典型的反传统时评文字。",
+    "view": ["写作线", "思想线", "政治线"],
+    "tags": ["张天师可以歇歇了", "署日", "反传统", "宗教", "传统下的独白"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["张天师可以歇歇了！", "传统下的独白"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "传统下的独白",
+      "chapter": "021.张天师可以歇歇了！",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/021.张天师可以歇歇了！.txt",
+      "line": 81
+    }
+  },
+  {
+    "id": "traditional-monologue-1963-07-01-zhang-tianshi-can-rest-published-in-wenxing",
+    "date": "1963-07-01",
+    "displayDate": "1963年7月1日",
+    "datePrecision": "day",
+    "title": "《张天师可以歇歇了！》原登《文星》第六十九期",
+    "summary": "《张天师可以歇歇了！》后记注明，此文原登《文星》第六十九期（1963年7月1日台北出版）。这把李敖对传统宗教特权与国家补贴的批评，进一步落实为具体的杂志发表节点。",
+    "view": ["出版线", "思想线", "政治线"],
+    "tags": ["张天师可以歇歇了", "文星", "宗教", "世袭", "传统下的独白"],
+    "people": ["李敖"],
+    "places": ["台北"],
+    "works": ["张天师可以歇歇了！", "文星", "传统下的独白"],
+    "certainty": "confirmed",
+    "crossReferences": ["traditional-monologue-1963-06-18-zhang-tianshi-can-rest-written"],
+    "source": {
+      "book": "传统下的独白",
+      "chapter": "021.张天师可以歇歇了！",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/021.张天师可以歇歇了！.txt",
+      "line": 83
+    }
+  },
+  {
+    "id": "traditional-monologue-1961-04-03-chongyuanguan-published-in-zhonghua-daily",
+    "date": "1961-04-03",
+    "displayDate": "1961年4月3日",
+    "datePrecision": "day",
+    "title": "《充员官》刊于台北《中华日报》副刊",
+    "summary": "《充员官》文末注明“原登在1961年4月3日台北《中华日报》副刊”。补入这条后，便能与1963年10月8日“依原稿稍做改订”构成一组完整的原刊—入书改订双节点。",
+    "view": ["出版线", "写作线", "生平线"],
+    "tags": ["充员官", "中华日报", "副刊", "预备军官", "传统下的独白"],
+    "people": ["李敖"],
+    "places": ["台北"],
+    "works": ["充员官", "中华日报", "传统下的独白"],
+    "certainty": "confirmed",
+    "crossReferences": ["traditional-monologue-1963-10-08-chongyuanguan-revised-from-original-manuscript"],
+    "source": {
+      "book": "传统下的独白",
+      "chapter": "017.充员官",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/017.充员官.txt",
+      "line": 37
+    }
+  },
+  {
+    "id": "traditional-monologue-1961-07-07-if-i-were-a-woman-first-draft",
+    "date": "1961-07-07",
+    "displayDate": "1961年7月7日",
+    "datePrecision": "day",
+    "title": "《假如我是女人》初稿写成",
+    "summary": "《假如我是女人》后记说明，这篇文章“初稿在1961年7月7日，后来两度修改”。这使它不仅有最终发表日，还有一个明确的早期写作起点。",
+    "view": ["写作线", "情感线", "思想线"],
+    "tags": ["假如我是女人", "初稿", "写作", "性别", "传统下的独白"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["假如我是女人", "传统下的独白"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "传统下的独白",
+      "chapter": "006.假如我是女人",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/006.假如我是女人.txt",
+      "line": 61
+    }
+  },
+  {
+    "id": "traditional-monologue-1963-06-01-if-i-were-a-woman-published-in-wenxing",
+    "date": "1963-06-01",
+    "displayDate": "1963年6月1日",
+    "datePrecision": "day",
+    "title": "《假如我是女人》刊于《文星》第六十八号",
+    "summary": "《假如我是女人》后记说明，此文“最后发表在《文星》六十八号（1963年6月1日台北出版）”。它把李敖借女性口吻讽刺男人、文学圈与政治文化的文章，落实为清楚的杂志发表节点。",
+    "view": ["出版线", "思想线", "情感线"],
+    "tags": ["假如我是女人", "文星", "性别", "讽刺", "传统下的独白"],
+    "people": ["李敖"],
+    "places": ["台北"],
+    "works": ["假如我是女人", "文星", "传统下的独白"],
+    "certainty": "confirmed",
+    "crossReferences": ["traditional-monologue-1961-07-07-if-i-were-a-woman-first-draft", "traditional-monologue-1963-08-16-if-i-were-a-woman-post-publication-backlash-note"],
+    "source": {
+      "book": "传统下的独白",
+      "chapter": "006.假如我是女人",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/006.假如我是女人.txt",
+      "line": 61
+    }
+  },
+  {
+    "id": "traditional-monologue-1963-08-16-if-i-were-a-woman-post-publication-backlash-note",
+    "date": "1963-08-16",
+    "displayDate": "1963年8月16日",
+    "datePrecision": "day",
+    "title": "李敖为《假如我是女人》补记发表后反响",
+    "summary": "《假如我是女人》后记末署1963年8月16日，并追记文章发表后“被女读者大骂”，又被胡秋原引到法院控告其诽谤。这条可视为作品发表后回响与文祸延伸的书内补记节点。",
+    "view": ["写作线", "司法线", "思想线"],
+    "tags": ["假如我是女人", "后记", "胡秋原", "文祸", "传统下的独白"],
+    "people": ["李敖", "胡秋原"],
+    "places": ["台湾"],
+    "works": ["假如我是女人", "传统下的独白"],
+    "certainty": "confirmed",
+    "crossReferences": ["traditional-monologue-1963-06-01-if-i-were-a-woman-published-in-wenxing"],
+    "source": {
+      "book": "传统下的独白",
+      "chapter": "006.假如我是女人",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/006.假如我是女人.txt",
+      "line": 61
+    }
+  },
+  {
+    "id": "traditional-monologue-1963-10-08-chongyuanguan-revised-from-original-manuscript",
+    "date": "1963-10-08",
+    "displayDate": "1963年10月8日",
+    "datePrecision": "day",
+    "title": "李敖为《充员官》依原稿稍做改订",
+    "summary": "《充员官》文末先注明原文发表于1961年4月3日台北《中华日报》副刊，继而又注明“现在依原稿稍做改订，1963年10月8日”。这使它在原始发表之外，又留下一个可单独入表的修订与入书准备节点。",
+    "view": ["写作线", "出版线", "生平线"],
+    "tags": ["充员官", "改订", "中华日报", "预备军官", "传统下的独白"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["充员官", "传统下的独白"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "传统下的独白",
+      "chapter": "017.充员官",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/017.充员官.txt",
+      "line": 39
+    }
+  },
+  {
+    "id": "traditional-monologue-1963-10-10-traditional-monologue-reprint-preface",
+    "date": "1963-10-10",
+    "displayDate": "1963年10月10日",
+    "datePrecision": "day",
+    "title": "李敖写《传统下的独白》再版自序",
+    "summary": "《传统下的独白》再版自序文末署1963年10月10日。李敖在文中明确说此书9月25日出版，出版后两个星期便有再版机会，因此这篇自序既是再版署日，也是他对自己第一本书传播反应的直接说明。",
+    "view": ["出版线", "写作线", "生平线"],
+    "tags": ["传统下的独白", "再版", "自序", "文星"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["传统下的独白"],
+    "certainty": "confirmed",
+    "crossReferences": ["book5-1963-09-25-first-book-traditional-monologue"],
+    "source": {
+      "book": "传统下的独白",
+      "chapter": "002.《传统下的独白》再版自序",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/002.《传统下的独白》再版自序.txt",
+      "line": 13
+    }
+  }
+]
