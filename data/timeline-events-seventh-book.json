@@ -1046,5 +1046,185 @@
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/253.背后原来是蒋经国.txt",
       "line": 3
     }
+  },
+  {
+    "id": "book7-1961-07-05-records-prolific-writing-day-at-bitan-hill-house",
+    "date": "1961-07-05",
+    "displayDate": "1961年7月5日日记",
+    "datePrecision": "day",
+    "title": "李敖在碧潭山楼记下一天写作过千字的高产状态",
+    "summary": "《“碧潭山楼”》引 1961 年 7 月 5 日日记，李敖记自己在碧潭山楼写信、写稿、读书、校文，一天内完成多项工作，并特别记下“十一时始写，二小时写了一千字”。这条材料把他脱离四席小屋后在山楼中转入高密度写作的节奏钉到了日。",
+    "view": ["写作线", "日常线", "居住线"],
+    "tags": ["碧潭山楼", "日记", "写作", "1961年7月5日", "高产"],
+    "people": ["李敖"],
+    "places": ["新店", "碧潭山楼"],
+    "works": ["李敖风流自传"],
+    "certainty": "confirmed",
+    "crossReferences": ["book5-1961-06-15-rents-bitan-hill-room"],
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "242.“碧潭山楼”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/242.“碧潭山楼”.txt",
+      "line": 5
+    }
+  },
+  {
+    "id": "book7-1962-02-24-hu-shi-dies-before-li-repays-the-thousand-yuan",
+    "date": "1962-02-24",
+    "displayDate": "1962年2月24日",
+    "datePrecision": "day",
+    "title": "胡适去世，李敖记“一千元债”因而顿成终身纪念",
+    "summary": "《债主死了》写，胡适曾借李敖一千元救急，李敖原定在 1962 年 3 月 12 日前归还；不料 1962 年 2 月 24 日胡适突然去世，这笔债遂再也无法偿清。李敖后来把这件事看作自己以整理、传播胡适思想来长期报答的一层私人因缘。",
+    "view": ["交游线", "胡适线", "写作线"],
+    "tags": ["胡适", "一千元", "债主死了", "1962年2月24日", "私人因缘"],
+    "people": ["李敖", "胡适"],
+    "places": ["台湾"],
+    "works": ["李敖风流自传"],
+    "certainty": "confirmed",
+    "crossReferences": ["book7-1961-winter-enters-wenxing-through-old-man-and-stick"],
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "246.债主死了",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/246.债主死了.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book7-1965-moves-into-taida-yiyuan-apartment-as-life-improves",
+    "date": "1965-12-31",
+    "displayDate": "1965年（30岁时）",
+    "datePrecision": "year",
+    "title": "李敖三十岁时迁入台大艺苑公寓，生活开始明显脱穷",
+    "summary": "《开始脱穷》写，李敖进入文献会、又与《文星》关系渐深后，收入结构逐渐改变；他自述二十六岁还住每月二百二十元的小屋，到了三十岁已迁入值十万的“台大艺苑公寓”。这条材料留下他在文星时代由穷学生逐步摆脱窘迫的一处生活坐标。",
+    "view": ["生平线", "居住线", "经济线"],
+    "tags": ["台大艺苑公寓", "脱穷", "文星时代", "1965年", "生活转变"],
+    "people": ["李敖"],
+    "places": ["台北", "台大艺苑公寓"],
+    "works": ["李敖风流自传"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "264.开始脱穷",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/264.开始脱穷.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book7-1961-10-10-writes-long-letter-to-hu-shi-recounting-his-life",
+    "date": "1961-10-10",
+    "displayDate": "1961年10月10日",
+    "datePrecision": "day",
+    "title": "李敖写长信给胡适重诉生平，此信后来成为“知匪不报”案核心证据",
+    "summary": "《我被检举“知匪不报”》写，1961年10月10日，李敖写下一封长信给胡适，重诉自己的生平遭际。胡适读后曾拿给多人看，其中一度因徐高阮扣信不还，后来竟被转化成李敖“知匪不报”“预谋投匪”的材料，成为他后续遭检举的重要导火线。",
+    "view": ["书信线", "胡适线", "司法线"],
+    "tags": ["胡适", "长信", "知匪不报", "徐高阮", "1961年10月10日"],
+    "people": ["李敖", "胡适", "徐高阮", "胡秋原"],
+    "places": ["台北"],
+    "works": ["李敖风流自传"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "1961-10-06-letter-hu-salary",
+      "1961-10-07-hu-check",
+      "1961-10-29-hu-news-yan-alive"
+    ],
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "312.我被检举“知匪不报”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/312.我被检举“知匪不报”.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book7-1963-summer-qian-siliang-reveals-hu-shi-left-an-unfinished-letter",
+    "date": "1963-08-31",
+    "displayDate": "1963年夏天",
+    "datePrecision": "season",
+    "title": "钱思亮约谈时向李敖透露胡适留有一封未写完给他的信",
+    "summary": "《胡适没写完的一封信》写，1963年夏天，台大校长钱思亮约李敖长谈，谈到胡适时透露：胡适死后遗稿中有一封写给李敖但未写完的信，并称其中一段可证明胡适人格与做事认真。李敖把这次透露视为后来追索胡适遗稿、确认两人交情的重要起点。",
+    "view": ["胡适线", "交游线", "文献线"],
+    "tags": ["钱思亮", "胡适", "未完信", "遗稿", "1963年夏天"],
+    "people": ["李敖", "钱思亮", "胡适"],
+    "places": ["台北", "台湾大学"],
+    "works": ["李敖风流自传"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book7-1961-10-10-writes-long-letter-to-hu-shi-recounting-his-life"
+    ],
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "315.胡适没写完的一封信",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/315.胡适没写完的一封信.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book7-1990-12-writes-hu-shi-bai-nian-gu-ji-for-xu-kaichen",
+    "date": "1990-12-31",
+    "displayDate": "1990年12月",
+    "datePrecision": "month",
+    "title": "胡适百年诞辰时，李敖应徐开尘之约写成《胡适百年孤寂》",
+    "summary": "《徐开尘约我写文章》写，1990年12月，适逢胡适百年诞辰，《民生报》徐开尘邀李敖写纪念短文，李敖遂写成《胡适百年孤寂》。他在文中回望自己与胡适从1952年到1961年的见面、通信和“一千元赎当”因缘，把这篇短文写成私人记忆与胡适评价的结合。",
+    "view": ["写作线", "胡适线", "媒体线"],
+    "tags": ["徐开尘", "胡适百年孤寂", "民生报", "胡适百年诞辰", "1990年12月"],
+    "people": ["李敖", "徐开尘", "胡适"],
+    "places": ["台北"],
+    "works": ["胡适百年孤寂", "民生报", "李敖风流自传"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book5-1987-06-08-minshengbao-xu-kaichen-interview",
+      "book7-1961-10-10-writes-long-letter-to-hu-shi-recounting-his-life"
+    ],
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "308.徐开尘约我写文章",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/308.徐开尘约我写文章.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book7-1999-08-27-hu-qiuyuan-loses-final-appeal-and-must-pay-li-ao",
+    "date": "1999-08-27",
+    "displayDate": "1999年8月27日",
+    "datePrecision": "day",
+    "title": "胡秋原判赔李敖百万确定，李敖自述终于打败这场三十七年官司",
+    "summary": "《胡秋原赔了五分之一退休金给我》写，1999年8月27日《联合报》登出“胡秋原判赔李敖百万确定”。李敖回看这场从三十七年前结下梁子延续下来的官司，认为自己终于打败胡秋原，不仅为自己报仇，也为殷海光雪恨。",
+    "view": ["司法线", "恩仇线", "媒体线"],
+    "tags": ["胡秋原", "联合报", "判赔确定", "官司", "1999年8月27日"],
+    "people": ["李敖", "胡秋原", "郭鑫生", "殷海光"],
+    "places": ["台湾"],
+    "works": ["联合报", "李敖风流自传"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book7-1999-12-02-hu-qiuyuan-pays-927261-and-li-ao-removes-seal"
+    ],
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "332.胡秋原赔了五分之一退休金给我",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/332.胡秋原赔了五分之一退休金给我.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book7-1999-12-02-hu-qiuyuan-pays-927261-and-li-ao-removes-seal",
+    "date": "1999-12-02",
+    "displayDate": "1999年12月2日",
+    "datePrecision": "day",
+    "title": "胡秋原缴出九十二万余元支票后，李敖揭下其住宅封条",
+    "summary": "《胡秋原赔了五分之一退休金给我》引李敖1999年12月10日日记，记12月2日胡秋原缴出“玖拾贰万柒仟贰佰陆拾壹元整”的国库支票后，李敖才揭下其住家被查封的封条。李敖把这笔赔款视为几十年恩仇中的一次痛快结算。",
+    "view": ["司法线", "恩仇线", "日记线"],
+    "tags": ["胡秋原", "赔款", "封条", "日记", "1999年12月2日"],
+    "people": ["李敖", "胡秋原"],
+    "places": ["台北", "新店"],
+    "works": ["李敖风流自传"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book7-1999-08-27-hu-qiuyuan-loses-final-appeal-and-must-pay-li-ao"
+    ],
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "332.胡秋原赔了五分之一退休金给我",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/332.胡秋原赔了五分之一退休金给我.txt",
+      "line": 7
+    }
   }
 ]
