@@ -1,0 +1,385 @@
+[
+  {
+    "id": "traditional-monologue-sequel-1960-09-09-on-the-direction-of-intellectuals-letter-written",
+    "date": "1960-09-09",
+    "displayDate": "1960年9月9日的早晨",
+    "datePrecision": "day",
+    "title": "李敖写《论知识人的动向》致新公、宏老",
+    "summary": "《论知识人的动向》文末署“敖之 1960年9月9日的早晨”。文中李敖辩驳“稳健”“融合”的知识人姿态，主张在环境极限下仍应尽量表白真我，是这本书里很清楚的一条早期思想写作节点。",
+    "view": ["写作线", "思想线", "生平线"],
+    "tags": ["论知识人的动向", "知识人", "书信", "署日", "传统下的再白"],
+    "people": ["李敖", "新公", "宏老", "马戈", "老景"],
+    "places": ["台湾"],
+    "works": ["论知识人的动向", "传统下的再白"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "传统下的再白",
+      "chapter": "005.论知识人的动向",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/002.传统下的再白/005.论知识人的动向.txt",
+      "line": 29
+    }
+  },
+  {
+    "id": "traditional-monologue-sequel-1960-12-01-strange-definitions-written-in-military-camp",
+    "date": "1960-12-01",
+    "displayDate": "1960年12月1日",
+    "datePrecision": "day",
+    "title": "李敖在军中写《怪定义四则》",
+    "summary": "《怪定义四则》文末署“1960年12月1日作于军中”。这条留下了李敖服役时期以短促警句和反讽方式写作的一个明确节点。",
+    "view": ["写作线", "思想线", "军中线"],
+    "tags": ["怪定义四则", "军中", "署日", "短论", "传统下的再白"],
+    "people": ["李敖"],
+    "places": ["军中"],
+    "works": ["怪定义四则", "传统下的再白"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "传统下的再白",
+      "chapter": "006.怪定义四则",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/002.传统下的再白/006.怪定义四则.txt",
+      "line": 11
+    }
+  },
+  {
+    "id": "traditional-monologue-sequel-1960-12-02-strange-definitions-history-note-added",
+    "date": "1960-12-02",
+    "displayDate": "1960年12月2日夜",
+    "datePrecision": "day",
+    "title": "李敖夜补《怪定义四则》中“历史家”一则",
+    "summary": "《怪定义四则》中“历史家”条目后自注“1960年12月2日夜又记”。这说明该组短定义并非一次写成，而是在次夜继续补笔修整。",
+    "view": ["写作线", "思想线", "日常线"],
+    "tags": ["怪定义四则", "历史家", "又记", "夜补", "传统下的再白"],
+    "people": ["李敖"],
+    "places": ["军中"],
+    "works": ["怪定义四则", "传统下的再白"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "traditional-monologue-sequel-1960-12-01-strange-definitions-written-in-military-camp"
+    ],
+    "source": {
+      "book": "传统下的再白",
+      "chapter": "006.怪定义四则",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/002.传统下的再白/006.怪定义四则.txt",
+      "line": 5
+    }
+  },
+  {
+    "id": "traditional-monologue-sequel-1965-12-27-diary-wang-shijie-cried",
+    "date": "1965-12-27",
+    "displayDate": "1965年12月27日",
+    "datePrecision": "day",
+    "title": "李敖记王世杰因《蒋廷黻选集》序文受刺激而哭",
+    "summary": "《日记八则》首则署1965年12月27日，记王世杰见到李敖在《蒋廷黻选集》序中的批评后，告辩两难，气得哭起，并多方施压要求删序。",
+    "view": ["日常线", "论战线", "出版线"],
+    "tags": ["日记八则", "王世杰", "蒋廷黻选集", "删序", "传统下的再白"],
+    "people": ["李敖", "王世杰", "萧孟能", "张群", "黄少谷", "萧同兹"],
+    "places": ["台湾"],
+    "works": ["日记八则", "蒋廷黻选集", "传统下的再白"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "传统下的再白",
+      "chapter": "007.日记八则",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/002.传统下的再白/007.日记八则.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "traditional-monologue-sequel-1966-02-17-diary-hears-wang-shijie-moves-to-ban-preface",
+    "date": "1966-02-17",
+    "displayDate": "1966年2月17日",
+    "datePrecision": "day",
+    "title": "李敖写《闻王世杰运动查禁〈蒋廷黻选集〉中李敖序文有感》",
+    "summary": "《日记八则》第二则署1966年2月17日，以戏拟诗句记录王世杰设法查禁《蒋廷黻选集》序文一事，展现李敖把现实冲突直接转成文字反击的习惯。",
+    "view": ["日常线", "写作线", "论战线"],
+    "tags": ["日记八则", "王世杰", "蒋廷黻选集", "查禁", "传统下的再白"],
+    "people": ["李敖", "王世杰"],
+    "places": ["台湾"],
+    "works": ["日记八则", "蒋廷黻选集", "传统下的再白"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "traditional-monologue-sequel-1965-12-27-diary-wang-shijie-cried"
+    ],
+    "source": {
+      "book": "传统下的再白",
+      "chapter": "007.日记八则",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/002.传统下的再白/007.日记八则.txt",
+      "line": 21
+    }
+  },
+  {
+    "id": "traditional-monologue-sequel-1966-02-17-diary-silang-song",
+    "date": "1966-02-17",
+    "displayDate": "1966年2月17日",
+    "datePrecision": "day",
+    "title": "李敖写《四郎歌》自嘲诗战",
+    "summary": "《日记八则》第三则同署1966年2月17日，以《四郎歌》继续回应围剿，并在附记里记下对方批评其诗不佳，李敖反唇相讥。",
+    "view": ["日常线", "写作线", "论战线"],
+    "tags": ["日记八则", "四郎歌", "诗", "论战", "传统下的再白"],
+    "people": ["李敖", "绍唐", "浩然"],
+    "places": ["台湾"],
+    "works": ["日记八则", "四郎歌", "传统下的再白"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "traditional-monologue-sequel-1966-02-17-diary-hears-wang-shijie-moves-to-ban-preface"
+    ],
+    "source": {
+      "book": "传统下的再白",
+      "chapter": "007.日记八则",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/002.传统下的再白/007.日记八则.txt",
+      "line": 31
+    }
+  },
+  {
+    "id": "traditional-monologue-sequel-1966-02-22-diary-sun-yat-sen-admonition",
+    "date": "1966-02-22",
+    "displayDate": "1966年2月22日",
+    "datePrecision": "day",
+    "title": "李敖记孙中山劝告国民党应容忍异己",
+    "summary": "《日记八则》第四则署1966年2月22日。李敖摘录孙中山谈对付无政府主义者“最好与他辩论明白”的文字，借此反讽当下国民党对异己的不耐与不容。",
+    "view": ["日常线", "思想线", "政治线"],
+    "tags": ["日记八则", "孙中山", "国民党", "异己", "传统下的再白"],
+    "people": ["李敖", "孙中山"],
+    "places": ["台湾"],
+    "works": ["日记八则", "传统下的再白"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "传统下的再白",
+      "chapter": "007.日记八则",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/002.传统下的再白/007.日记八则.txt",
+      "line": 45
+    }
+  },
+  {
+    "id": "traditional-monologue-sequel-1966-02-22-diary-lin-sen-admonition",
+    "date": "1966-02-22",
+    "displayDate": "1966年2月22日",
+    "datePrecision": "day",
+    "title": "李敖记林森劝告国民党应虚与和平待异己",
+    "summary": "《日记八则》第五则同署1966年2月22日。李敖引林森致曹汤三信，强调对党内不同意见者不必争闲气，借历史文件继续批评现实政治心态。",
+    "view": ["日常线", "思想线", "政治线"],
+    "tags": ["日记八则", "林森", "国民党", "历史文件", "传统下的再白"],
+    "people": ["李敖", "林森", "曹汤三"],
+    "places": ["台湾", "三藩市"],
+    "works": ["日记八则", "传统下的再白"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "traditional-monologue-sequel-1966-02-22-diary-sun-yat-sen-admonition"
+    ],
+    "source": {
+      "book": "传统下的再白",
+      "chapter": "007.日记八则",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/002.传统下的再白/007.日记八则.txt",
+      "line": 51
+    }
+  },
+  {
+    "id": "traditional-monologue-sequel-1966-04-02-diary-dines-with-li-shengting",
+    "date": "1966-04-02",
+    "displayDate": "1966年4月2日",
+    "datePrecision": "day",
+    "title": "李敖与李声庭在博爱路美而廉吃饭",
+    "summary": "《日记八则》第六则署1966年4月2日，记李声庭来信约会面，李敖当晚请其在博爱路美而廉吃饭，并听其谈东海大学内部受“老疯狗”挑衅分化的情形。",
+    "view": ["日常线", "交游线", "思想线"],
+    "tags": ["日记八则", "李声庭", "博爱路", "美而廉", "东海大学", "传统下的再白"],
+    "people": ["李敖", "李声庭"],
+    "places": ["博爱路", "美而廉", "东海大学"],
+    "works": ["日记八则", "传统下的再白"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "传统下的再白",
+      "chapter": "007.日记八则",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/002.传统下的再白/007.日记八则.txt",
+      "line": 59
+    }
+  },
+  {
+    "id": "traditional-monologue-sequel-1966-05-16-diary-my-faith-in-the-rain",
+    "date": "1966-05-16",
+    "displayDate": "1966年5月16日，在雨中",
+    "datePrecision": "day",
+    "title": "李敖在雨中写下《我的信仰》",
+    "summary": "《日记八则》第七则署“1966年5月16日，在雨中”。李敖在此系统写下自己的“强者的哲学”、智慧与狠心肠的自我要求，是其思想自白中的一个鲜明节点。",
+    "view": ["日常线", "思想线", "写作线"],
+    "tags": ["日记八则", "我的信仰", "在雨中", "强者哲学", "传统下的再白"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["日记八则", "我的信仰", "传统下的再白"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "传统下的再白",
+      "chapter": "007.日记八则",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/002.传统下的再白/007.日记八则.txt",
+      "line": 67
+    }
+  },
+  {
+    "id": "traditional-monologue-sequel-1966-06-16-diary-on-xuanqu",
+    "date": "1966-06-16",
+    "displayDate": "1966年6月16日",
+    "datePrecision": "day",
+    "title": "李敖记《海外轩渠》译名不妥",
+    "summary": "《日记八则》第八则署1966年6月16日，李敖就 Swift 旧译《海外轩渠》中的“轩渠”一词考订其义，认为无论作笑貌还是两手高举，都不切原意，留下一个典型的词义辨析日记节点。",
+    "view": ["日常线", "思想线", "写作线"],
+    "tags": ["日记八则", "轩渠", "Swift", "词义", "传统下的再白"],
+    "people": ["李敖", "Swift", "朱骏声"],
+    "places": ["台湾"],
+    "works": ["日记八则", "海外轩渠", "传统下的再白"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "传统下的再白",
+      "chapter": "007.日记八则",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/002.传统下的再白/007.日记八则.txt",
+      "line": 89
+    }
+  },
+  {
+    "id": "traditional-monologue-sequel-1966-08-14-inspiration-caught-in-pieces-dated",
+    "date": "1966-08-14",
+    "displayDate": "1966年8月14日",
+    "datePrecision": "day",
+    "title": "李敖写定《灵感零捉》",
+    "summary": "《灵感零捉》文末署1966年8月14日。文中以十三条灵感短句评论政党、审查、避祸与知识人的处境，是李敖1966年中期思想与风格的一枚清楚钉子。",
+    "view": ["写作线", "思想线", "政治线"],
+    "tags": ["灵感零捉", "署日", "短句", "审查", "传统下的再白"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["灵感零捉", "传统下的再白"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "传统下的再白",
+      "chapter": "004.灵感零捉",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/002.传统下的再白/004.灵感零捉.txt",
+      "line": 55
+    }
+  },
+  {
+    "id": "traditional-monologue-sequel-1958-modernized-love-introduction-written",
+    "date": "1958-12-31",
+    "displayDate": "五十一年作",
+    "datePrecision": "year",
+    "title": "李敖写《现代化的爱情——一个导论》",
+    "summary": "《现代化的爱情——一个导论》文末署“五十一年作”。这篇文字系统主张中国年轻人的爱情观应从传统与半吊子现代化中脱出，转向更开放、更现代的理解，是《传统下的再白》爱情论述簇的起点。",
+    "view": ["写作线", "思想线", "情感线"],
+    "tags": ["现代化的爱情", "爱情观", "五十一年作", "传统下的再白"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["现代化的爱情——一个导论", "传统下的再白"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "传统下的再白",
+      "chapter": "001.现代化的爱情——一个导论",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/002.传统下的再白/001.现代化的爱情——一个导论.txt",
+      "line": 35
+    }
+  },
+  {
+    "id": "traditional-monologue-sequel-1958-three-discourses-on-women-written",
+    "date": "1958-12-31",
+    "displayDate": "四十七年作",
+    "datePrecision": "year",
+    "title": "李敖写《女人三论》",
+    "summary": "《女人三论》文末署“四十七年作”。文中分别谈女人的小气、记忆与理由，带有明显的早期两性观察与论辩姿态，是《传统下的再白》女人论述簇的重要起点。",
+    "view": ["写作线", "思想线", "情感线"],
+    "tags": ["女人三论", "女人", "四十七年作", "传统下的再白"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["女人三论", "传统下的再白"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "传统下的再白",
+      "chapter": "002.女人三论",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/002.传统下的再白/002.女人三论.txt",
+      "line": 45
+    }
+  },
+  {
+    "id": "traditional-monologue-sequel-1966-02-17-women-aphorisms-first-batch",
+    "date": "1966-02-17",
+    "displayDate": "1966年2月17日",
+    "datePrecision": "day",
+    "title": "李敖写第一批《谈女人》语录",
+    "summary": "《李敖先生谈女人（语录）》中多则条目后标注“2月17日”，末尾又总注“以上1966年作”。据此可将这一组关于情敌、女男平等、女人互夸等语录，落实到1966年2月17日这一批次。",
+    "view": ["写作线", "思想线", "情感线"],
+    "tags": ["谈女人", "语录", "1966年2月17日", "女人", "传统下的再白"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["李敖先生谈女人（语录）", "传统下的再白"],
+    "certainty": "inferred",
+    "source": {
+      "book": "传统下的再白",
+      "chapter": "003.李敖先生谈女人（语录）",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/002.传统下的再白/003.李敖先生谈女人（语录）.txt",
+      "line": 7
+    }
+  },
+  {
+    "id": "traditional-monologue-sequel-1966-09-22-women-aphorisms-second-batch",
+    "date": "1966-09-22",
+    "displayDate": "1966年9月22日",
+    "datePrecision": "day",
+    "title": "李敖写第二批《谈女人》语录",
+    "summary": "《李敖先生谈女人（语录）》后半多则条目后标注“9月22日”，末尾总注“以上1966年作”。据此可把这组关于眼泪、订婚、衣饰、张默君与比阔的语录，归到1966年9月22日这一批次。",
+    "view": ["写作线", "思想线", "情感线"],
+    "tags": ["谈女人", "语录", "1966年9月22日", "女人", "传统下的再白"],
+    "people": ["李敖", "张默君"],
+    "places": ["台湾"],
+    "works": ["李敖先生谈女人（语录）", "传统下的再白"],
+    "certainty": "inferred",
+    "crossReferences": [
+      "traditional-monologue-sequel-1966-02-17-women-aphorisms-first-batch"
+    ],
+    "source": {
+      "book": "传统下的再白",
+      "chapter": "003.李敖先生谈女人（语录）",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/002.传统下的再白/003.李敖先生谈女人（语录）.txt",
+      "line": 25
+    }
+  },
+  {
+    "id": "traditional-monologue-sequel-1965-09-15-li-ao-publishes-guard-room-report-on-academia-sinica-fund-split",
+    "date": "1965-09-15",
+    "displayDate": "五十四年九月十五日",
+    "datePrecision": "day",
+    "title": "李敖公布中研院警卫室关于暑期讲习会结余经费分配的秘密报告",
+    "summary": "在《王世杰“蒙混舞弊”的铁证》中，李敖说明自己“握有秘密文件一纸，现公布于后”，并全文引出一份署“报告：五十四年九月十五日于本院警卫室”的院内报告，指暑期科学讲习会结余经费被少数办事人员私分。这是李敖围绕王世杰与中研院行政腐败所公布的一份核心证据。",
+    "view": ["证据线", "思想线", "论战线"],
+    "tags": ["王世杰", "中央研究院", "警卫室报告", "暑期讲习会", "传统下的再白"],
+    "people": ["李敖", "王世杰", "袁贻瑾", "赵保轩", "王海龙", "李满元", "刘继琨"],
+    "places": ["中央研究院"],
+    "works": ["王世杰“蒙混舞弊”的铁证", "传统下的再白"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "traditional-monologue-sequel-1965-12-27-diary-wang-shijie-cried",
+      "traditional-monologue-sequel-1966-02-17-diary-hears-wang-shijie-moves-to-ban-preface"
+    ],
+    "source": {
+      "book": "传统下的再白",
+      "chapter": "008.王世杰“蒙混舞弊”的铁证",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/002.传统下的再白/008.王世杰“蒙混舞弊”的铁证.txt",
+      "line": 38
+    }
+  },
+  {
+    "id": "traditional-monologue-sequel-1966-02-08-li-ao-publishes-pan-guangyu-letter-on-kickbacks",
+    "date": "1966-02-08",
+    "displayDate": "二月八日",
+    "datePrecision": "day",
+    "title": "李敖公布潘光宇致袁贻瑾揭发学人归国讲学机票回扣的信",
+    "summary": "在《王世杰“蒙混舞弊”的铁证》中，李敖说明自己“握有影印本，现公布于后”，并引出远东旅行社潘光宇致中研院总干事袁贻瑾的信。信中揭发暑期学人归国讲学机票款被要求扣回佣百分之三点五。结合上下文“现在是民国五十五年”与信末仅署“二月八日”，此处将该信日期暂挂为 1966-02-08。",
+    "view": ["证据线", "思想线", "论战线"],
+    "tags": ["王世杰", "潘光宇", "袁贻瑾", "中央研究院", "回扣", "传统下的再白"],
+    "people": ["李敖", "潘光宇", "袁贻瑾", "赵保轩", "王振球", "王世杰"],
+    "places": ["中央研究院"],
+    "works": ["王世杰“蒙混舞弊”的铁证", "传统下的再白"],
+    "certainty": "inferred",
+    "crossReferences": [
+      "traditional-monologue-sequel-1965-09-15-li-ao-publishes-guard-room-report-on-academia-sinica-fund-split",
+      "traditional-monologue-sequel-1965-12-27-diary-wang-shijie-cried"
+    ],
+    "source": {
+      "book": "传统下的再白",
+      "chapter": "008.王世杰“蒙混舞弊”的铁证",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/002.传统下的再白/008.王世杰“蒙混舞弊”的铁证.txt",
+      "line": 34
+    }
+  }
+]

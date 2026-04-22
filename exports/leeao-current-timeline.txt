@@ -1,9 +1,9 @@
 李敖交互式年表：当前增量纯文本备份
 生成日期：2026-04-22
-事件总数：1088
-数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json
+事件总数：1106
+数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json
 说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。
-日期精度统计：day=820；year=67；year-range=6；undated-range=1；undated-context=113；season=22；lunar-day=1；year-after=7；month=29；half-year=2；day-range=9；month-after=2；year-about=5；day-after=3；year-end=1
+日期精度统计：day=836；year=69；year-range=6；undated-range=1；undated-context=113；season=22；lunar-day=1；year-after=7；month=29；half-year=2；day-range=9；month-after=2；year-about=5；day-after=3；year-end=1
 
 
 1935
@@ -2040,6 +2040,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/007.台大（1954-1959·19到24岁）.txt
   数据：data/timeline-events-fourth-book.json#book4-1958-short-romance-with-mimi
+- 五十一年作 | 李敖写《现代化的爱情——一个导论》
+  精度：year；可靠度：confirmed；排序日期：1958-12-31
+  摘要：《现代化的爱情——一个导论》文末署“五十一年作”。这篇文字系统主张中国年轻人的爱情观应从传统与半吊子现代化中脱出，转向更开放、更现代的理解，是《传统下的再白》爱情论述簇的起点。
+  人物：李敖
+  地点：台湾
+  标签：现代化的爱情、爱情观、五十一年作、传统下的再白
+  视图：写作线、思想线、情感线
+  作品：现代化的爱情——一个导论、传统下的再白
+  交叉引用：-
+  来源：传统下的再白 / 001.现代化的爱情——一个导论 / line 35
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/002.传统下的再白/001.现代化的爱情——一个导论.txt
+  数据：data/timeline-events-traditional-monologue-sequel.json#traditional-monologue-sequel-1958-modernized-love-introduction-written
+- 四十七年作 | 李敖写《女人三论》
+  精度：year；可靠度：confirmed；排序日期：1958-12-31
+  摘要：《女人三论》文末署“四十七年作”。文中分别谈女人的小气、记忆与理由，带有明显的早期两性观察与论辩姿态，是《传统下的再白》女人论述簇的重要起点。
+  人物：李敖
+  地点：台湾
+  标签：女人三论、女人、四十七年作、传统下的再白
+  视图：写作线、思想线、情感线
+  作品：女人三论、传统下的再白
+  交叉引用：-
+  来源：传统下的再白 / 002.女人三论 / line 45
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/002.传统下的再白/002.女人三论.txt
+  数据：data/timeline-events-traditional-monologue-sequel.json#traditional-monologue-sequel-1958-three-discourses-on-women-written
 
 1959
 - 1959年1月6日 | 李敖日记称学到殷海光“不难”
@@ -2564,6 +2590,19 @@
   补充来源：李敖回忆录 / 008.军队（1959-1961·24到26岁） / line 69；说明：同一则1960年8月16日军中日记在第四本再次摘录。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/011.我最难忘的一个老兵.txt
   数据：data/timeline-events-third-book.json#book3-1960-08-16-zhang-yongting-loses-watch-again
+- 1960年9月9日的早晨 | 李敖写《论知识人的动向》致新公、宏老
+  精度：day；可靠度：confirmed；排序日期：1960-09-09
+  摘要：《论知识人的动向》文末署“敖之 1960年9月9日的早晨”。文中李敖辩驳“稳健”“融合”的知识人姿态，主张在环境极限下仍应尽量表白真我，是这本书里很清楚的一条早期思想写作节点。
+  人物：李敖、新公、宏老、马戈、老景
+  地点：台湾
+  标签：论知识人的动向、知识人、书信、署日、传统下的再白
+  视图：写作线、思想线、生平线
+  作品：论知识人的动向、传统下的再白
+  交叉引用：-
+  来源：传统下的再白 / 005.论知识人的动向 / line 29
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/002.传统下的再白/005.论知识人的动向.txt
+  数据：data/timeline-events-traditional-monologue-sequel.json#traditional-monologue-sequel-1960-09-09-on-the-direction-of-intellectuals-letter-written
 - 1960-11-07 | 营房中写信给姚从吾
   精度：day；可靠度：confirmed；排序日期：1960-11-07
   摘要：李敖在营房借老士官刘云的灯光写信给姚从吾，感谢其四年来在治学、做人和经济上的照顾。
@@ -2590,6 +2629,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/011.妈妈的梦幻.txt
   数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1960-11-20-mothers-dream-published-in-united-daily
+- 1960年12月1日 | 李敖在军中写《怪定义四则》
+  精度：day；可靠度：confirmed；排序日期：1960-12-01
+  摘要：《怪定义四则》文末署“1960年12月1日作于军中”。这条留下了李敖服役时期以短促警句和反讽方式写作的一个明确节点。
+  人物：李敖
+  地点：军中
+  标签：怪定义四则、军中、署日、短论、传统下的再白
+  视图：写作线、思想线、军中线
+  作品：怪定义四则、传统下的再白
+  交叉引用：-
+  来源：传统下的再白 / 006.怪定义四则 / line 11
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/002.传统下的再白/006.怪定义四则.txt
+  数据：data/timeline-events-traditional-monologue-sequel.json#traditional-monologue-sequel-1960-12-01-strange-definitions-written-in-military-camp
+- 1960年12月2日夜 | 李敖夜补《怪定义四则》中“历史家”一则
+  精度：day；可靠度：confirmed；排序日期：1960-12-02
+  摘要：《怪定义四则》中“历史家”条目后自注“1960年12月2日夜又记”。这说明该组短定义并非一次写成，而是在次夜继续补笔修整。
+  人物：李敖
+  地点：军中
+  标签：怪定义四则、历史家、又记、夜补、传统下的再白
+  视图：写作线、思想线、日常线
+  作品：怪定义四则、传统下的再白
+  交叉引用：traditional-monologue-sequel-1960-12-01-strange-definitions-written-in-military-camp
+  来源：传统下的再白 / 006.怪定义四则 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/002.传统下的再白/006.怪定义四则.txt
+  数据：data/timeline-events-traditional-monologue-sequel.json#traditional-monologue-sequel-1960-12-02-strange-definitions-history-note-added
 - 1960年冬天快来时 | 《自由中国》事件后自由主义刊物收场
   精度：season；可靠度：broad；排序日期：1960-11-01
   摘要：《记文星事件》把《自由中国》事件写为国民党箝制言论自由的剧烈事件之一：1960年冬天快来时，雷震等被捕，殷海光遭长期监视。
@@ -4342,6 +4407,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/011.《文星》（1962-1966·27到31岁）.txt
   数据：data/timeline-events-fourth-book.json#book4-1965-08-31-wenxing-90-banned
+- 五十四年九月十五日 | 李敖公布中研院警卫室关于暑期讲习会结余经费分配的秘密报告
+  精度：day；可靠度：confirmed；排序日期：1965-09-15
+  摘要：在《王世杰“蒙混舞弊”的铁证》中，李敖说明自己“握有秘密文件一纸，现公布于后”，并全文引出一份署“报告：五十四年九月十五日于本院警卫室”的院内报告，指暑期科学讲习会结余经费被少数办事人员私分。这是李敖围绕王世杰与中研院行政腐败所公布的一份核心证据。
+  人物：李敖、王世杰、袁贻瑾、赵保轩、王海龙、李满元、刘继琨
+  地点：中央研究院
+  标签：王世杰、中央研究院、警卫室报告、暑期讲习会、传统下的再白
+  视图：证据线、思想线、论战线
+  作品：王世杰“蒙混舞弊”的铁证、传统下的再白
+  交叉引用：traditional-monologue-sequel-1965-12-27-diary-wang-shijie-cried、traditional-monologue-sequel-1966-02-17-diary-hears-wang-shijie-moves-to-ban-preface
+  来源：传统下的再白 / 008.王世杰“蒙混舞弊”的铁证 / line 38
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/002.传统下的再白/008.王世杰“蒙混舞弊”的铁证.txt
+  数据：data/timeline-events-traditional-monologue-sequel.json#traditional-monologue-sequel-1965-09-15-li-ao-publishes-guard-room-report-on-academia-sinica-fund-split
 - 1965年11月2日 | 徐复观、洪炎秋案被驳回后李敖抗告
   精度：day；可靠度：confirmed；排序日期：1965-11-02
   摘要：《根株纪》写，李敖委托李声庭律师告徐复观、洪炎秋；1965年11月2日台中地方法院裁定驳回，李敖随即提起抗告，并在《文星》第九十八期批评裁定。
@@ -4420,6 +4498,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/011.为《文星》招魂.txt
   数据：data/timeline-events-second-book.json#book2-1965-12-26-letter-to-yin-haiguang-wenxing-ban
+- 1965年12月27日 | 李敖记王世杰因《蒋廷黻选集》序文受刺激而哭
+  精度：day；可靠度：confirmed；排序日期：1965-12-27
+  摘要：《日记八则》首则署1965年12月27日，记王世杰见到李敖在《蒋廷黻选集》序中的批评后，告辩两难，气得哭起，并多方施压要求删序。
+  人物：李敖、王世杰、萧孟能、张群、黄少谷、萧同兹
+  地点：台湾
+  标签：日记八则、王世杰、蒋廷黻选集、删序、传统下的再白
+  视图：日常线、论战线、出版线
+  作品：日记八则、蒋廷黻选集、传统下的再白
+  交叉引用：-
+  来源：传统下的再白 / 007.日记八则 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/002.传统下的再白/007.日记八则.txt
+  数据：data/timeline-events-traditional-monologue-sequel.json#traditional-monologue-sequel-1965-12-27-diary-wang-shijie-cried
 - 1965年12月27日 | 高玉树下达《文星》停刊一年命令
   精度：day；可靠度：confirmed；排序日期：1965-12-27
   摘要：《星火纪》写，1965年12月27日由台北市长高玉树出面，下达《文星》停刊一年的命令；李敖认为《我们对国法党限的严正表示》构成了杀身之祸的最后条件。
@@ -4526,6 +4617,19 @@
   数据：data/timeline-events-seventh-book.json#book7-1965-moves-into-taida-yiyuan-apartment-as-life-improves
 
 1966
+- 二月八日 | 李敖公布潘光宇致袁贻瑾揭发学人归国讲学机票回扣的信
+  精度：day；可靠度：inferred；排序日期：1966-02-08
+  摘要：在《王世杰“蒙混舞弊”的铁证》中，李敖说明自己“握有影印本，现公布于后”，并引出远东旅行社潘光宇致中研院总干事袁贻瑾的信。信中揭发暑期学人归国讲学机票款被要求扣回佣百分之三点五。结合上下文“现在是民国五十五年”与信末仅署“二月八日”，此处将该信日期暂挂为 1966-02-08。
+  人物：李敖、潘光宇、袁贻瑾、赵保轩、王振球、王世杰
+  地点：中央研究院
+  标签：王世杰、潘光宇、袁贻瑾、中央研究院、回扣、传统下的再白
+  视图：证据线、思想线、论战线
+  作品：王世杰“蒙混舞弊”的铁证、传统下的再白
+  交叉引用：traditional-monologue-sequel-1965-09-15-li-ao-publishes-guard-room-report-on-academia-sinica-fund-split、traditional-monologue-sequel-1965-12-27-diary-wang-shijie-cried
+  来源：传统下的再白 / 008.王世杰“蒙混舞弊”的铁证 / line 34
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/002.传统下的再白/008.王世杰“蒙混舞弊”的铁证.txt
+  数据：data/timeline-events-traditional-monologue-sequel.json#traditional-monologue-sequel-1966-02-08-li-ao-publishes-pan-guangyu-letter-on-kickbacks
 - 1966年2月15日 | 张群秘密呈文点名陆啸钊与《文星》问题
   精度：day；可靠度：confirmed；排序日期：1966-02-15
   摘要：李敖指出，据1966年2月15日张群上蒋介石的秘密呈文，可见陆啸钊投入《文星》所处的政治压力。
@@ -4539,6 +4643,45 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/007.《恶法录及其他》新版前言.txt
   数据：data/timeline-events-second-book.json#book2-1966-02-15-zhang-qun-secret-memo
+- 1966年2月17日 | 李敖写《四郎歌》自嘲诗战
+  精度：day；可靠度：confirmed；排序日期：1966-02-17
+  摘要：《日记八则》第三则同署1966年2月17日，以《四郎歌》继续回应围剿，并在附记里记下对方批评其诗不佳，李敖反唇相讥。
+  人物：李敖、绍唐、浩然
+  地点：台湾
+  标签：日记八则、四郎歌、诗、论战、传统下的再白
+  视图：日常线、写作线、论战线
+  作品：日记八则、四郎歌、传统下的再白
+  交叉引用：traditional-monologue-sequel-1966-02-17-diary-hears-wang-shijie-moves-to-ban-preface
+  来源：传统下的再白 / 007.日记八则 / line 31
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/002.传统下的再白/007.日记八则.txt
+  数据：data/timeline-events-traditional-monologue-sequel.json#traditional-monologue-sequel-1966-02-17-diary-silang-song
+- 1966年2月17日 | 李敖写《闻王世杰运动查禁〈蒋廷黻选集〉中李敖序文有感》
+  精度：day；可靠度：confirmed；排序日期：1966-02-17
+  摘要：《日记八则》第二则署1966年2月17日，以戏拟诗句记录王世杰设法查禁《蒋廷黻选集》序文一事，展现李敖把现实冲突直接转成文字反击的习惯。
+  人物：李敖、王世杰
+  地点：台湾
+  标签：日记八则、王世杰、蒋廷黻选集、查禁、传统下的再白
+  视图：日常线、写作线、论战线
+  作品：日记八则、蒋廷黻选集、传统下的再白
+  交叉引用：traditional-monologue-sequel-1965-12-27-diary-wang-shijie-cried
+  来源：传统下的再白 / 007.日记八则 / line 21
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/002.传统下的再白/007.日记八则.txt
+  数据：data/timeline-events-traditional-monologue-sequel.json#traditional-monologue-sequel-1966-02-17-diary-hears-wang-shijie-moves-to-ban-preface
+- 1966年2月17日 | 李敖写第一批《谈女人》语录
+  精度：day；可靠度：inferred；排序日期：1966-02-17
+  摘要：《李敖先生谈女人（语录）》中多则条目后标注“2月17日”，末尾又总注“以上1966年作”。据此可将这一组关于情敌、女男平等、女人互夸等语录，落实到1966年2月17日这一批次。
+  人物：李敖
+  地点：台湾
+  标签：谈女人、语录、1966年2月17日、女人、传统下的再白
+  视图：写作线、思想线、情感线
+  作品：李敖先生谈女人（语录）、传统下的再白
+  交叉引用：-
+  来源：传统下的再白 / 003.李敖先生谈女人（语录） / line 7
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/002.传统下的再白/003.李敖先生谈女人（语录）.txt
+  数据：data/timeline-events-traditional-monologue-sequel.json#traditional-monologue-sequel-1966-02-17-women-aphorisms-first-batch
 - 1966-02-21 | 徐复观在《征信新闻报》追杀李敖
   精度：day；可靠度：confirmed；排序日期：1966-02-21
   摘要：李敖后来引用徐复观1966年2月21日《征信新闻报》文章，指出对方称李敖发展程度已威胁社会与民族安全。
@@ -4552,6 +4695,45 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/014.被封杀的“人民公敌”.txt
   数据：data/timeline-events.json#1966-02-21-xu-fuguan-attack
+- 1966年2月22日 | 李敖记孙中山劝告国民党应容忍异己
+  精度：day；可靠度：confirmed；排序日期：1966-02-22
+  摘要：《日记八则》第四则署1966年2月22日。李敖摘录孙中山谈对付无政府主义者“最好与他辩论明白”的文字，借此反讽当下国民党对异己的不耐与不容。
+  人物：李敖、孙中山
+  地点：台湾
+  标签：日记八则、孙中山、国民党、异己、传统下的再白
+  视图：日常线、思想线、政治线
+  作品：日记八则、传统下的再白
+  交叉引用：-
+  来源：传统下的再白 / 007.日记八则 / line 45
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/002.传统下的再白/007.日记八则.txt
+  数据：data/timeline-events-traditional-monologue-sequel.json#traditional-monologue-sequel-1966-02-22-diary-sun-yat-sen-admonition
+- 1966年2月22日 | 李敖记林森劝告国民党应虚与和平待异己
+  精度：day；可靠度：confirmed；排序日期：1966-02-22
+  摘要：《日记八则》第五则同署1966年2月22日。李敖引林森致曹汤三信，强调对党内不同意见者不必争闲气，借历史文件继续批评现实政治心态。
+  人物：李敖、林森、曹汤三
+  地点：台湾、三藩市
+  标签：日记八则、林森、国民党、历史文件、传统下的再白
+  视图：日常线、思想线、政治线
+  作品：日记八则、传统下的再白
+  交叉引用：traditional-monologue-sequel-1966-02-22-diary-sun-yat-sen-admonition
+  来源：传统下的再白 / 007.日记八则 / line 51
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/002.传统下的再白/007.日记八则.txt
+  数据：data/timeline-events-traditional-monologue-sequel.json#traditional-monologue-sequel-1966-02-22-diary-lin-sen-admonition
+- 1966年4月2日 | 李敖与李声庭在博爱路美而廉吃饭
+  精度：day；可靠度：confirmed；排序日期：1966-04-02
+  摘要：《日记八则》第六则署1966年4月2日，记李声庭来信约会面，李敖当晚请其在博爱路美而廉吃饭，并听其谈东海大学内部受“老疯狗”挑衅分化的情形。
+  人物：李敖、李声庭
+  地点：博爱路、美而廉、东海大学
+  标签：日记八则、李声庭、博爱路、美而廉、东海大学、传统下的再白
+  视图：日常线、交游线、思想线
+  作品：日记八则、传统下的再白
+  交叉引用：-
+  来源：传统下的再白 / 007.日记八则 / line 59
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/002.传统下的再白/007.日记八则.txt
+  数据：data/timeline-events-traditional-monologue-sequel.json#traditional-monologue-sequel-1966-04-02-diary-dines-with-li-shengting
 - 1966年4月9日 | 吴申叔约李敖在家吃最后一顿饭，事后不久即闭门绝交而死
   精度：day；可靠度：confirmed；排序日期：1966-04-09
   摘要：《吴申叔的最后晚餐》写，1966年4月9日，吴申叔约李敖到家中吃饭，席间有熊式一、林文奎、丁墨南、李湘芬、张继高、萧孟能等人。李敖后来回望这场饭局，认为几乎像吴申叔有意设下的惜别宴，因为不久后吴即闭户不见朋友，前后不过一年多便悲愤而死。
@@ -4591,6 +4773,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/008.我怎样给王尚义擦屁股.txt
   数据：data/timeline-events-second-book.json#book2-1966-04-25-wang-shangyi-essay
+- 1966年5月16日，在雨中 | 李敖在雨中写下《我的信仰》
+  精度：day；可靠度：confirmed；排序日期：1966-05-16
+  摘要：《日记八则》第七则署“1966年5月16日，在雨中”。李敖在此系统写下自己的“强者的哲学”、智慧与狠心肠的自我要求，是其思想自白中的一个鲜明节点。
+  人物：李敖
+  地点：台湾
+  标签：日记八则、我的信仰、在雨中、强者哲学、传统下的再白
+  视图：日常线、思想线、写作线
+  作品：日记八则、我的信仰、传统下的再白
+  交叉引用：-
+  来源：传统下的再白 / 007.日记八则 / line 67
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/002.传统下的再白/007.日记八则.txt
+  数据：data/timeline-events-traditional-monologue-sequel.json#traditional-monologue-sequel-1966-05-16-diary-my-faith-in-the-rain
 - 1966年5月17日 | 李敖应李翰祥邀请到明星班演讲并共餐
   精度：day；可靠度：confirmed；排序日期：1966-05-17
   摘要：《寒武纪》写，1966年5月17日，李翰祥邀李敖到明星班演讲，随后一起吃饭；这一日成为二人从初识走向密切往来的早期节点。
@@ -4617,6 +4812,45 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/014.被封杀的“人民公敌”.txt
   数据：data/timeline-events.json#1966-06-11-letter-beiyi
+- 1966年6月16日 | 李敖记《海外轩渠》译名不妥
+  精度：day；可靠度：confirmed；排序日期：1966-06-16
+  摘要：《日记八则》第八则署1966年6月16日，李敖就 Swift 旧译《海外轩渠》中的“轩渠”一词考订其义，认为无论作笑貌还是两手高举，都不切原意，留下一个典型的词义辨析日记节点。
+  人物：李敖、Swift、朱骏声
+  地点：台湾
+  标签：日记八则、轩渠、Swift、词义、传统下的再白
+  视图：日常线、思想线、写作线
+  作品：日记八则、海外轩渠、传统下的再白
+  交叉引用：-
+  来源：传统下的再白 / 007.日记八则 / line 89
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/002.传统下的再白/007.日记八则.txt
+  数据：data/timeline-events-traditional-monologue-sequel.json#traditional-monologue-sequel-1966-06-16-diary-on-xuanqu
+- 1966年8月14日 | 李敖写定《灵感零捉》
+  精度：day；可靠度：confirmed；排序日期：1966-08-14
+  摘要：《灵感零捉》文末署1966年8月14日。文中以十三条灵感短句评论政党、审查、避祸与知识人的处境，是李敖1966年中期思想与风格的一枚清楚钉子。
+  人物：李敖
+  地点：台湾
+  标签：灵感零捉、署日、短句、审查、传统下的再白
+  视图：写作线、思想线、政治线
+  作品：灵感零捉、传统下的再白
+  交叉引用：-
+  来源：传统下的再白 / 004.灵感零捉 / line 55
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/002.传统下的再白/004.灵感零捉.txt
+  数据：data/timeline-events-traditional-monologue-sequel.json#traditional-monologue-sequel-1966-08-14-inspiration-caught-in-pieces-dated
+- 1966年9月22日 | 李敖写第二批《谈女人》语录
+  精度：day；可靠度：inferred；排序日期：1966-09-22
+  摘要：《李敖先生谈女人（语录）》后半多则条目后标注“9月22日”，末尾总注“以上1966年作”。据此可把这组关于眼泪、订婚、衣饰、张默君与比阔的语录，归到1966年9月22日这一批次。
+  人物：李敖、张默君
+  地点：台湾
+  标签：谈女人、语录、1966年9月22日、女人、传统下的再白
+  视图：写作线、思想线、情感线
+  作品：李敖先生谈女人（语录）、传统下的再白
+  交叉引用：traditional-monologue-sequel-1966-02-17-women-aphorisms-first-batch
+  来源：传统下的再白 / 003.李敖先生谈女人（语录） / line 25
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/002.传统下的再白/003.李敖先生谈女人（语录）.txt
+  数据：data/timeline-events-traditional-monologue-sequel.json#traditional-monologue-sequel-1966-09-22-women-aphorisms-second-batch
 - 1966-11-07 | 徐高阮等举行声讨李敖大会
   精度：day；可靠度：confirmed；排序日期：1966-11-07
   摘要：徐高阮在台北妇女之家邀约国青民三党人士及文化界人士，油印公布李敖给胡适的信，称李敖为“叛逆分子”并告到警总。
