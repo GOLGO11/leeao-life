@@ -1226,5 +1226,244 @@
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/332.胡秋原赔了五分之一退休金给我.txt",
       "line": 7
     }
+  },
+  {
+    "id": "book7-1966-04-09-last-dinner-at-wu-shenshu-home",
+    "date": "1966-04-09",
+    "displayDate": "1966年4月9日",
+    "datePrecision": "day",
+    "title": "吴申叔约李敖在家吃最后一顿饭，事后不久即闭门绝交而死",
+    "summary": "《吴申叔的最后晚餐》写，1966年4月9日，吴申叔约李敖到家中吃饭，席间有熊式一、林文奎、丁墨南、李湘芬、张继高、萧孟能等人。李敖后来回望这场饭局，认为几乎像吴申叔有意设下的惜别宴，因为不久后吴即闭户不见朋友，前后不过一年多便悲愤而死。",
+    "view": ["交游线", "文星线", "日常线"],
+    "tags": ["吴申叔", "最后晚餐", "饭局", "惜别宴", "1966年4月9日"],
+    "people": ["李敖", "吴申叔", "熊式一", "林文奎", "丁墨南", "李湘芬", "张继高", "萧孟能", "王莫愁"],
+    "places": ["台北", "吴申叔家"],
+    "works": ["李敖风流自传"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book5-1964-01-14-first-meets-wu-shenshu"
+    ],
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "339.吴申叔的最后晚餐",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/339.吴申叔的最后晚餐.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book7-1967-05-12-jokes-with-yin-haiguang-about-water-fertilizer-department",
+    "date": "1967-05-12",
+    "displayDate": "1967年5月12日",
+    "datePrecision": "day",
+    "title": "李敖在殷海光病床边谈“中国文化学院水肥系”笑话",
+    "summary": "《水肥系》写，1967年5月12日，李敖在殷海光病床边谈到中国文化学院巧立名目，戏称该校除了“水肥系”外简直什么系都有；殷海光当场冷冷接道，其哲学系就是“水肥系”。这条材料留下殷海光病中与李敖仍保持机锋笑骂的一瞬，也补足其住院阶段的日常痕迹。",
+    "view": ["殷海光线", "日常线", "言谈线"],
+    "tags": ["殷海光", "水肥系", "病床边", "中国文化学院", "1967年5月12日"],
+    "people": ["李敖", "殷海光", "黄三"],
+    "places": ["台北", "病房"],
+    "works": ["李敖风流自传"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book5-1967-04-20-takes-yin-to-stomach-doctor",
+      "book6-2005-04-06-scolds-university-presidents-in-water-fertilizer-incident"
+    ],
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "354.水肥系",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/354.水肥系.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book7-1991-12-27-encounters-lao-siguang-on-dongfeng-st-after-dinner",
+    "date": "1991-12-27",
+    "displayDate": "1991年12月27日晚饭后",
+    "datePrecision": "day",
+    "title": "李敖在东丰街偶遇劳思光，讥其“哲学学到徘徊于电玩之中”",
+    "summary": "《打电玩的劳思光》写，1991年12月27日晚饭后，李敖与小屯在东丰街散步，忽闻一声长叹，认出路人竟是劳思光。李敖当场调侃这个“书呆子”又出没东丰街，感叹其哲学竟学到徘徊电玩店与马路叹息之间，把这场偶遇写成一则晚年街头观察。",
+    "view": ["交游线", "日常线", "街头线"],
+    "tags": ["劳思光", "东丰街", "偶遇", "电玩", "1991年12月27日"],
+    "people": ["李敖", "劳思光", "小屯", "高信疆"],
+    "places": ["台北东丰街"],
+    "works": ["李敖风流自传"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book7-1991-12-27-lunches-with-yang-xikun-after-quarter-century"
+    ],
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "359.打电玩的劳思光",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/359.打电玩的劳思光.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book7-1971-03-19-gives-xiaolei-cash-and-polaroids-before-arrest",
+    "date": "1971-03-19",
+    "displayDate": "1971年3月19日晚上",
+    "datePrecision": "day",
+    "title": "被捕前，李敖把十万现金和拍立得裸照交给小蕾保管",
+    "summary": "《被捕》写，1971年3月19日晚上，李敖被保安处黑轿车带走前，先回卧室把一包十万现金交给小蕾备用，并把她二十岁时由自己用拍立得拍下的一包裸照也交还给她保管，嘱其不得给第三者看到。这个动作发生在他结束十四个月软禁、正式走上漫长牢狱之前，留下极私人也极紧张的一瞬。",
+    "view": ["感情线", "身体线", "牢狱线"],
+    "tags": ["小蕾", "被捕前", "十万现金", "拍立得", "1971年3月19日"],
+    "people": ["李敖", "小蕾", "林业振"],
+    "places": ["台北", "李敖住处"],
+    "works": ["李敖风流自传"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book4-1971-03-19-taken-away-ending-house-arrest",
+      "book2-1971-03-19-arrest-after-house-arrest",
+      "1971-03-19-arrested"
+    ],
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "388.被捕",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/388.被捕.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book7-1972-07-moves-from-room-2-to-room-11-at-jingmei-detention",
+    "date": "1972-07-31",
+    "displayDate": "1972年7月",
+    "datePrecision": "month",
+    "title": "李敖在景美看守所由二号房迁到十一号房",
+    "summary": "《从二号房到十一号房》写，李敖于1972年2月28日改押景美军法看守所后，先住在阴暗残破的二号房；到1972年7月因修房，才搬到对面的十一号房。李敖后来把十一号房记成自己狱中经验最具戏剧张力的空间之一，并成为《红色11》的背景。",
+    "view": ["牢狱线", "居住线", "日常线"],
+    "tags": ["景美军法看守所", "二号房", "十一号房", "1972年7月", "红色11"],
+    "people": ["李敖", "袁耀权"],
+    "places": ["景美军法看守所", "秀朗桥下"],
+    "works": ["李敖风流自传", "红色11"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book7-2003-03-28-finishes-postscript-to-red-11",
+      "1972-02-28-moved-to-military-detention",
+      "book4-1976-11-19-released-without-guarantor"
+    ],
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "411.从二号房到十一号房",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/411.从二号房到十一号房.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book7-2003-03-28-finishes-postscript-to-red-11",
+    "date": "2003-03-28",
+    "displayDate": "2003年3月28日",
+    "datePrecision": "day",
+    "title": "李敖写定《红色11》后记",
+    "summary": "《〈红色11〉后记》署名写于2003年3月28日。李敖在这篇后记里把自己多年监狱见闻与白色恐怖经验重新凝聚成戏剧文本，直指蒋介石政权与美国对台湾人权灾难的责任，也为《红色11》这部监狱题材作品正式收束。",
+    "view": ["写作线", "牢狱线", "出版线"],
+    "tags": ["红色11", "后记", "2003年3月28日", "白色恐怖", "剧本"],
+    "people": ["李敖", "李世杰", "谢聪敏", "魏廷朝", "李政一"],
+    "places": ["台北"],
+    "works": ["红色11", "李敖风流自传"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book7-1972-07-moves-from-room-2-to-room-11-at-jingmei-detention",
+      "book6-2007-03-29-inscribes-red-11-for-lin-yufang"
+    ],
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "412.《红色11》后记",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/412.《红色11》后记.txt",
+      "line": 17
+    }
+  },
+  {
+    "id": "book7-1978-08-20-receives-resignation-certificate-from-guoguan-center",
+    "date": "1978-08-20",
+    "displayDate": "1978年8月20日",
+    "datePrecision": "day",
+    "title": "李敖收到国关中心离职证明，正式结束副研究员身份",
+    "summary": "《弃干薪而去》写，李敖出狱后虽名义上在政治大学国际关系研究中心任副研究员，但长期拒绝研究、拒绝签到、拒绝领薪。直到1978年8月20日，他终于收到蔡维屏签发的离职证明，证明书所填离职日期为1978年3月1日，显示这场辞职拉扯拖了数月才真正收束。",
+    "view": ["生平线", "职业线", "反抗线"],
+    "tags": ["国关中心", "离职证明", "副研究员", "蔡维屏", "1978年8月20日"],
+    "people": ["李敖", "蔡维屏", "吴俊才"],
+    "places": ["台北", "政治大学国际关系研究中心"],
+    "works": ["李敖风流自传"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book4-1976-12-01-starts-work-at-international-relations-center",
+      "book4-1976-07-23-baoanchu-car-takes-li-to-talks"
+    ],
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "461.弃干薪而去",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/461.弃干薪而去.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book7-1979-11-11-times-weekly-features-hu-yinmeng-holding-bridge-card-with-li-photo",
+    "date": "1979-11-11",
+    "displayDate": "1979年11月11日",
+    "datePrecision": "day",
+    "title": "《时报周刊》以胡茵梦手持桥牌小照搂李敖作封面，恋情传闻大热",
+    "summary": "《胡茵梦出现》写，1979年11月11日《时报周刊》以胡茵梦为封面，手执一张红心老K桥牌，牌上小照片是她从背后搂着李敖。这一封面把两人的关系从文化版、社会版进一步推向大众娱乐视野，也让李敖自述自己由“社会版”人物变成“影剧版”要角。",
+    "view": ["媒体线", "感情线", "名流线"],
+    "tags": ["时报周刊", "胡茵梦", "封面", "桥牌", "1979年11月11日"],
+    "people": ["李敖", "胡茵梦", "陈文彬", "林清玄", "简志信"],
+    "places": ["台北"],
+    "works": ["时报周刊", "独白下的传统", "李敖风流自传"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book4-1979-09-15-formally-meets-hu-yinmeng",
+      "book4-1980-05-06-li-marries-hu-yinmeng"
+    ],
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "468.胡茵梦出现",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/468.胡茵梦出现.txt",
+      "line": 5
+    }
+  },
+  {
+    "id": "book7-1987-01-14-high-court-hearing-xiao-mengneng-false-accusation-case-first-mediation",
+    "date": "1987-01-14",
+    "displayDate": "1987年1月14日",
+    "datePrecision": "day",
+    "title": "萧孟能诬告案在高院开庭，法官首次力劝双方和解",
+    "summary": "《萧负李》写，1987年1月14日，萧孟能在其诬告案上诉后于高等法院开庭，法官廖茂荣一再劝谕和解。李敖为尊重法官善意，退庭后委由龙云翔律师去函开具条件，为后续2月18日再开庭而终告破裂的和解尝试埋下前奏。",
+    "view": ["司法线", "恩仇线", "文星线"],
+    "tags": ["萧孟能", "诬告案", "高等法院", "和解", "1987年1月14日"],
+    "people": ["李敖", "萧孟能", "廖茂荣", "龙云翔", "王剑芬"],
+    "places": ["台北高等法院"],
+    "works": ["李敖风流自传"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book2-1987-02-18-xiao-false-charge-hearing"
+    ],
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "478.萧负李",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/478.萧负李.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book7-1985-04-02-greets-hu-yinmeng-and-jokes-with-xiao-mengneng-after-court",
+    "date": "1985-04-02",
+    "displayDate": "1985年4月2日",
+    "datePrecision": "day",
+    "title": "李敖出地检处后与胡茵梦寒暄，并当面挖苦萧孟能“欠我十天”",
+    "summary": "《四点结局》引李敖1985年4月2日日记：当日他出地检处庭后，先与胡茵梦当庭前后寒暄，又当着萧孟能的面打趣，说对方先后被判一个月二十天和四个月，还“欠我十天”，等第三次坐牢就扯平。这个同场片段把李敖、胡茵梦与萧孟能三人纠葛，在官司现场浓缩成一瞬。",
+    "view": ["司法线", "感情线", "恩仇线"],
+    "tags": ["地检处", "胡茵梦", "萧孟能", "日记", "1985年4月2日"],
+    "people": ["李敖", "胡茵梦", "萧孟能"],
+    "places": ["台北地检处"],
+    "works": ["李敖风流自传"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book7-1987-01-14-high-court-hearing-xiao-mengneng-false-accusation-case-first-mediation",
+      "book4-1980-08-28-li-announces-divorce-from-hu"
+    ],
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "483.四点结局",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/483.四点结局.txt",
+      "line": 5
+    }
   }
 ]
