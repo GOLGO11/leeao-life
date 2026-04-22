@@ -1561,5 +1561,157 @@
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/565.“十年辛苦不寻常”.txt",
       "line": 3
     }
+  },
+  {
+    "id": "book7-2005-shenzhou-trip-daughter-asks-why-people-like-the-old-man-at-peking-university",
+    "date": "2005-10-01",
+    "displayDate": "2005年神州文化之旅、北大演讲时",
+    "datePrecision": "undated-context",
+    "title": "李敖在北大演讲时，小女儿李谌当场问“大家为什么喜欢这老头？”",
+    "summary": "《我的小女儿》写，李敖参加神州文化之旅时，全家同在北京；他到北大演讲，人山人海，年纪尚小的小女儿李谌当场问小屯：“大家为什么喜欢这老头？”这条材料虽无确日，却留下他晚年大陆行与家庭现场同时入镜的一笔罕见日常痕迹。",
+    "view": ["家庭线", "大陆行线", "日常线"],
+    "tags": ["待校日", "神州文化之旅", "北京大学", "李谌", "家庭现场"],
+    "people": ["李敖", "李谌", "小屯"],
+    "places": ["北京", "北京大学"],
+    "works": ["李敖风流自传"],
+    "certainty": "contextual",
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "621.我的小女儿",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/621.我的小女儿.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book7-2005-after-becoming-legislator-reconnects-with-weng-zhen-family-descendants",
+    "date": "2005-01-01",
+    "displayDate": "2005年当立委之后",
+    "datePrecision": "year-after",
+    "title": "李敖当立委后，因翁镇旧缘与翁家第二代重续前缘",
+    "summary": "《我家最早认识的台湾人》写，李敖当立委后，陈明真办公室主任王爱雪代婆婆翁苏亚孙送礼致意，只因在电视上听到李敖提起父亲当年与台湾人翁镇的旧缘。后来在饭局中，李敖又见到翁镇之子翁廷伟与侄子翁廷府，使父辈留在赴台前史中的一段旧线，经由第二代在台湾重新接上。",
+    "view": ["家族线", "交游线", "返照线"],
+    "tags": ["待校日", "翁镇", "王爱雪", "翁苏亚孙", "翁廷伟", "立委之后"],
+    "people": ["李敖", "李鼎彝", "翁镇", "王爱雪", "翁苏亚孙", "翁廷伟", "翁廷府"],
+    "places": ["台北"],
+    "works": ["李敖风流自传", "李敖快意恩仇录"],
+    "certainty": "contextual",
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "550.我家最早认识的台湾人",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/550.我家最早认识的台湾人.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book7-1971-1972-hears-luo-yongli-describe-himself-as-god-tiger-dog-in-detention",
+    "date": "1971-01-01",
+    "displayDate": "1971-1972年在保安处看守所期间",
+    "datePrecision": "year-range",
+    "title": "李敖在保安处看守所听罗永黎自嘲是“神仙·老虎·狗”",
+    "summary": "《罗所长的“神仙·老虎·狗”》写，1971到1972年间李敖被关在警备总部保安处看守所时，所长罗永黎与他混熟后自嘲：见老婆是神仙，见囚犯是老虎，见长官是狗。李敖把这段话记下，不仅留下白色恐怖看守所内少见的口语现场，也侧写了他与狱方人物之间逐渐形成的微妙观察关系。",
+    "view": ["黑牢线", "生平线", "日常线"],
+    "tags": ["待校日", "保安处看守所", "罗永黎", "白色恐怖", "神仙老虎狗"],
+    "people": ["李敖", "罗永黎", "雷震"],
+    "places": ["警备总部保安处看守所", "台湾"],
+    "works": ["李敖风流自传"],
+    "certainty": "contextual",
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "640.罗所长的“神仙-老虎-狗”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/640.罗所长的“神仙-老虎-狗”.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book7-2015-early-turns-hello-li-ao-into-full-book-though-ten-million-followers-milestone",
+    "date": "2015-01-01",
+    "displayDate": "2015年初",
+    "datePrecision": "year",
+    "title": "李敖在微博粉丝破千万后决定把“哈囉李敖”整理成《虽千万人，李敖往矣》足本",
+    "summary": "《“哈囉李敖”》写，到了“今年初”，李敖已凭140字短文积累上千万粉丝，于是决定把“哈囉李敖”中在大陆被拦截的内容恢复旧观，整理成足本《虽千万人，李敖往矣》。结合2015年4月新书发表报道，这条可作为他把微博短文体正式结集成书的晚年写作节点。",
+    "view": ["写作线", "媒体线", "晚年线"],
+    "tags": ["哈囉李敖", "虽千万人，李敖往矣", "微博", "粉丝破千万", "2015年初"],
+    "people": ["李敖"],
+    "places": ["台北", "大陆网络平台"],
+    "works": ["虽千万人，李敖往矣", "李敖风流自传"],
+    "certainty": "contextual",
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "638.“哈囉李敖”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/638.“哈囉李敖”.txt",
+      "line": 3
+    },
+    "additionalSources": [
+      {
+        "book": "外部日期校对",
+        "chapter": "李敖推出两本新书庆祝80岁大寿",
+        "path": "https://hkcd.com/content/2015-04/24/content_925817.html",
+        "line": 1,
+        "note": "2015-04-24 报道确认《虽千万人，李敖往矣》与《李敖风流自传》同场作为80岁新书发布，可用来校定本章所称“今年初”已进入2015年出书阶段。"
+      }
+    ]
+  },
+  {
+    "id": "book7-1941-1942-father-imprisoned-by-japanese-authorities-and-released-without-conviction",
+    "date": "1941-01-01",
+    "displayDate": "1941-1942年太原时期",
+    "datePrecision": "year-range",
+    "title": "李敖父亲李鼎彝卷入太原禁烟局案，被日本方面羁押半年多后无罪开释",
+    "summary": "《爸爸坐了日本牢》写，李敖父亲李鼎彝在太原禁烟局案中遭日本方面关押半年多；同案中的信科长、于秘书被酷刑拷打，却都未诬攀李鼎彝，最终使其得以无罪开释。对李敖家史来说，这不仅是父亲在沦陷区抗敌与自保代价的一部分，也构成他后来反复追索国民党与日本问题的一条早年背景线。",
+    "view": ["家族线", "抗战线", "生平线"],
+    "tags": ["待校日", "李鼎彝", "太原禁烟局", "日本宪兵", "冤狱", "无罪开释"],
+    "people": ["李敖", "李鼎彝", "信科长", "于秘书"],
+    "places": ["太原", "日本宪兵队"],
+    "works": ["李敖风流自传"],
+    "certainty": "contextual",
+    "crossReferences": ["1940-wang-kemin-north-china-political-council", "1941-taiyuan-opium-bureau"],
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "046.爸爸坐了日本牢",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/046.爸爸坐了日本牢.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book7-1948-sees-general-ma-zhanshan-at-wang-chiachen-home",
+    "date": "1948-12-31",
+    "displayDate": "1948年，初一时",
+    "datePrecision": "year",
+    "title": "李敖在王家桢家中见到马占山将军，留下童年抗日英雄记忆",
+    "summary": "《我见到马占山将军》写，李敖还是初一学生时，曾在王家桢家中亲见来访的马占山将军，对这位最早公开抗日的东北名将心怀无限崇敬。章中又写两年后即1950年马占山在北京去世，因此这次亲见可稳妥挂在1948年，成为李敖童年记忆中少见的抗日人物实见一笔。",
+    "view": ["生平线", "抗战线", "东北线"],
+    "tags": ["待校日", "马占山", "王家桢", "初一学生", "抗日英雄"],
+    "people": ["李敖", "马占山", "王家桢"],
+    "places": ["北京"],
+    "works": ["李敖风流自传"],
+    "certainty": "contextual",
+    "crossReferences": ["1947-04-16-ma-zhanshan-returns-to-northeast"],
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "043.我见到马占山将军",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/043.我见到马占山将军.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "book7-2007-completes-virtual-seventeen-and-launches-it-with-liu-changle-hosting",
+    "date": "2007-12-31",
+    "displayDate": "2007年",
+    "datePrecision": "year",
+    "title": "李敖完成《虚拟的十七岁》，并由刘长乐主持新书发表会",
+    "summary": "《〈虚拟的十七岁〉》写，李敖自2004年后断续写作这部小说，中间又经历立委、开刀、电视与选举等消耗，直到2007年才为向刘长乐证明自己离开凤凰后仍快意充实而快马加鞭完成。章中又记新书发表会主持人正是刘长乐，并由凤凰方面安排两位十七岁少女持书作态，使这部小说在2002年大纲之外，终于有了真正完成与亮相的一年锚点。",
+    "view": ["写作线", "媒体线", "出版线"],
+    "tags": ["虚拟的十七岁", "刘长乐", "新书发表会", "朱仑", "2007年"],
+    "people": ["李敖", "刘长乐", "安心亚", "苏惠昭"],
+    "places": ["台北"],
+    "works": ["虚拟的十七岁", "李敖风流自传"],
+    "certainty": "contextual",
+    "crossReferences": ["book7-2002-11-27-drafts-outline-for-bare-seventeen-as-prototype-of-virtual-seventeen"],
+    "source": {
+      "book": "李敖风流自传",
+      "chapter": "015.《虚拟的十七岁》",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/015.《虚拟的十七岁》.txt",
+      "line": 11
+    }
   }
 ]

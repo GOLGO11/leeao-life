@@ -18,7 +18,7 @@
 - 已建立第四本深挖增量数据：`data/timeline-events-fourth-book-deepening.json`
 - 已推进第五本第八轮数据并完成1960-1961重复事件校正：`data/timeline-events-fifth-book.json`（220 条）
 - 已推进第六本第二十三轮数据：`data/timeline-events-sixth-book.json`（160 条）
-- 已推进第七本第二十四轮数据：`data/timeline-events-seventh-book.json`（71 条）
+- 已推进第七本第二十八轮数据：`data/timeline-events-seventh-book.json`（78 条）
 - 已建立逐书处理日志：`data/ingestion-log.json`
 - 已生成研究校对用当前总表：`exports/leeao-current-timeline.txt`
 - 当前已处理《李敖自传与回忆》《李敖自传与回忆续集》《我最难忘的事和人》《李敖回忆录》《李敖快意恩仇录》《李敖议坛哀思录》《李敖风流自传》的部分章节，未一次性读取 163 本全集
