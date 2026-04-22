@@ -114,15 +114,15 @@ data/timeline-events-fourth-book.json             115
 data/timeline-events-fourth-book-deepening.json   29
 data/timeline-events-fifth-book.json              220
 data/timeline-events-sixth-book.json              160
-data/timeline-events-seventh-book.json            27
-总计                                             954
+data/timeline-events-seventh-book.json            40
+总计                                             967
 ```
 
 `exports/leeao-current-timeline.txt` 表头已同步：
 
 ```text
-事件总数：954
-日期精度统计：day=726；year=46；undated-range=1；undated-context=112；season=17；lunar-day=1；year-after=6；month=19；half-year=2；day-range=9；month-after=2；year-range=4；year-about=5；day-after=3；year-end=1
+事件总数：967
+日期精度统计：day=728；year=52；undated-range=1；undated-context=112；season=19；lunar-day=1；year-after=6；half-year=2；month=22；day-range=9；month-after=2；year-range=4；year-about=5；day-after=3；year-end=1
 ```
 
 ## 当前处理进度
@@ -133,7 +133,7 @@ data/timeline-events-seventh-book.json            27
 data/ingestion-log.json
 ```
 
-当前最新轮次为 `iteration: 54`。
+当前最新轮次为 `iteration: 59`。
 
 已处理到第七本：
 
@@ -149,7 +149,7 @@ data/ingestion-log.json
 
 第五本《李敖快意恩仇录》已经停止深挖，并完成 1960-1961 重复事件校正，当前定格在 220 条。
 第六本《李敖议坛哀思录》已推进到第二十三轮，当前 160 条，事件抽取层面已基本收束。
-第七本《李敖风流自传》已推进到第四轮，当前 27 条。
+第七本《李敖风流自传》已推进到第九轮，当前 40 条。
 
 ## 第七本当前状态
 
@@ -165,7 +165,7 @@ data/timeline-events-seventh-book.json
 2. 每轮只吃一小批硬日期，优先日级、且能补强既有链条或提供新日常痕迹的章节。
 3. 对明显只是姿态文、总论、旧材料回收、或和前书完全同义重复的章节，审后暂不入，不要被短章数量吓到而机械拆章。
 
-第七本前四轮已入库的 27 条，集中在：
+第七本前九轮已入库的 40 条，集中在：
 
 - `1949-05-11 / 1949-05-12` 赴台迁徙线
 - `1952-06-15 / 1953-04-14 / 1953-04-29` 钱穆交往与通信线
@@ -208,6 +208,34 @@ data/timeline-events-seventh-book.json
 - `2000-01-12` 魏廷朝遗孀致谢信
 - `2000-01-21` 东丰街偶遇胡茵梦
 - `2002-05-31` 结束周荃阶段电视线
+
+第五轮则补入了一批“非日级但很值钱”的回望节点，说明第七本后段可以放心按原文精度收一些年份/月度条目，只要它们确实对应李敖的明确动作，而不是泛议论：
+
+- `1997` 义卖收藏救助慰安妇
+- `2001年春天` 写《送高信疆归大陆序》
+- `2010` 逼高信疆就医并为其购墓
+- `2010年10月` 出版《阳痿美国》
+
+第六轮再补两条较具第七本气味的自况/大陆行节点：
+
+- `1984-10-14` 日月潭玄奘寺前“唐僧”自况
+- `2011` 厦门大学演讲并自评为生平最佳
+
+第七轮补入两条更偏“思想定位与历史介入”的节点：
+
+- `1997` 与陈境圳合著《你不知道的二二八》
+- `1999年10月` 在《明报月刊》发表《民国定义和总统定义》
+
+第八轮继续小步快跑，补入两条此前未落的短促材料：
+
+- `1993` 提出“第一流知识分子唯恐中国大乱”
+- `1984年春天` 与“渊如”的短暂情感痕迹
+
+第九轮把吞吐量提高到 12 章处理、3 条入表，新增的是：
+
+- `2000` 宋楚瑜败选后托张光锦送五百万元
+- `2004-12-11` 开票日逛书店、赴飞碟途中确认当选
+- `2009年7月` 收到《巨流河》与附信但终未回
 
 ## 第六本当前状态
 

@@ -1,9 +1,9 @@
 李敖交互式年表：当前增量纯文本备份
 生成日期：2026-04-22
-事件总数：954
+事件总数：967
 数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json
 说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。
-日期精度统计：day=726；year=46；undated-range=1；undated-context=112；season=17；lunar-day=1；year-after=6；month=19；half-year=2；day-range=9；month-after=2；year-range=4；year-about=5；day-after=3；year-end=1
+日期精度统计：day=728；year=52；undated-range=1；undated-context=112；season=19；lunar-day=1；year-after=6；month=22；half-year=2；day-range=9；month-after=2；year-range=4；year-about=5；day-after=3；year-end=1
 
 
 1935
@@ -7552,6 +7552,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/007.我最难忘的一个官僚同学.txt
   数据：data/timeline-events-third-book.json#book3-1984-10-06-letter-to-shi-prison-human-rights
+- 1984年10月14日清早四点 | 李敖在日月潭玄奘寺前自比唐僧，记下“千山我独行”的孤寂感
+  精度：day；可靠度：confirmed；排序日期：1984-10-14
+  摘要：《唐僧》写，1984年10月14日清早四点，李敖在寒风中的日月潭凭栏远望，天亮后又到玄奘寺看唐僧指骨，并由石柱对联生出“身外身”之感，自觉像唐僧取经般独行于唤醒梦中梦的事业。这条材料留下他在山水、宗教遗迹与自我使命感之间的一次少见自况。
+  人物：李敖、玄奘
+  地点：日月潭、玄奘寺
+  标签：日月潭、玄奘寺、唐僧、自况、千山我独行
+  视图：思想线、生平线、日常线
+  作品：李敖风流自传
+  交叉引用：-
+  来源：李敖风流自传 / 647.唐僧 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/647.唐僧.txt
+  数据：data/timeline-events-seventh-book.json#book7-1984-10-14-contemplates-at-sun-moon-lake-and-identifies-with-tang-monk
 - 1984年11月28日上午（由文末日期推得） | 胡茵梦案相关庭讯中法官仍追问证词矛盾
   精度：day；可靠度：inferred；排序日期：1984-11-28
   摘要：《胡茵梦的“天性”问题》署1984年11月29日，文中称“昨天上午开庭”，据此推得1984年11月28日上午开庭。李敖记法官仍在追问胡茵梦证词与权状问题。
@@ -7604,6 +7617,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/018.笔伐（1982-1992·47到57岁）.txt
   数据：data/timeline-events-fourth-book.json#book4-1984-01-wansui-review-starts
+- 1984年春天 | 李敖在路上认识台大心理系“渊如”，事后以“鲜花插在牛粪上”自叹
+  精度：season；可靠度：confirmed；排序日期：1984-03-01
+  摘要：《“渊如”》写，1984年春天，李敖在路上认识台大心理系女生“渊如”，二十分钟后便邀她到家里，也约好了下次见面；不久对方来信和来电表示仍决定跟原先的男友走下去，李敖于是以“鲜花又插在牛粪上了”自嘲收场。这条是《风流自传》里典型的短促而具体的情感痕迹。
+  人物：李敖、渊如
+  地点：台北
+  标签：渊如、台大心理系、情感、1984年春天、短促关系
+  视图：情感线、日常线
+  作品：李敖风流自传
+  交叉引用：-
+  来源：李敖风流自传 / 663.“渊如” / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/663.“渊如”.txt
+  数据：data/timeline-events-seventh-book.json#book7-1984-spring-meets-yuanru-and-laments-flower-falls-on-dung
 - 1984年3月 | 李敖与郑南榕开始合作《自由时代》系列
   精度：month；可靠度：confirmed；排序日期：1984-03-31
   摘要：《笔伐》章写，郑南榕在《政治家》发表《李敖，不要走！》后与李敖来往渐多，到1984年3月开始合作办《自由时代》系列杂志，李敖参与其争取百分之百言论自由的早期布局。
@@ -9650,6 +9676,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/005.大寒纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1993-11-19-wang-zuorong-banquet-at-tianchu
+- 1993年 | 李敖借海地难民例子提出“第一流知识分子唯恐中国大乱”
+  精度：year；可靠度：confirmed；排序日期：1993-12-31
+  摘要：《唯恐中国大乱》写，1993年李敖借海地难民被美国海岸警卫队拦回的例子，批评那些整天唱衰中国、唯恐中国不乱的人，并明确提出“第一流知识分子唯恐中国大乱”。这条材料可看作他九十年代处理中美与中国秩序问题的一次凝练表达。
+  人物：李敖
+  地点：中国、美国、海地
+  标签：中国大乱、海地难民、美国、知识分子、中国问题
+  视图：思想线、中国问题线
+  作品：李敖风流自传
+  交叉引用：-
+  来源：李敖风流自传 / 624.唯恐中国大乱 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/624.唯恐中国大乱.txt
+  数据：data/timeline-events-seventh-book.json#book7-1993-warns-first-rate-intellectuals-should-fear-china-chaos
 - 1993年东吴任教消息传出后 | 静宜大学由徐熙光署名寄聘书邀李敖任教
   精度：year-after；可靠度：inferred；排序日期：1993-12-31
   摘要：章孝慈请李敖到东吴后，静宜大学也闻风寄来邀请信与聘书，聘书署名校长徐熙光；李敖回忆自己最后谢绝，并因昔日徐熙光来查《文星》而为之一笑。
@@ -10165,6 +10204,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/020.前程（1997-·62岁以后）.txt
   数据：data/timeline-events-fourth-book-deepening.json#book4-deep-1997-undated-guest-work-routine
+- 1997年 | 李敖与陈境圳合著《你不知道的二二八》
+  精度：year；可靠度：confirmed；排序日期：1997-12-31
+  摘要：《突破二二八》写，1997年李敖与陈境圳合著《你不知道的二二八》，李敖强调此书的整体架构出自自己，细部充实则多赖陈境圳完成。此条把他在二二八议题上的早期介入，从 2007 年重印线再往前推回到首次成书节点。
+  人物：李敖、陈境圳、孟绝子
+  地点：台湾
+  标签：二二八、陈境圳、合著、你不知道的二二八
+  视图：写作线、思想线、公共行动线
+  作品：你不知道的二二八、二二八研究、二二八研究续集、二二八研究三集、李敖风流自传
+  交叉引用：book6-2007-02-28-reprints-you-dont-know-228-with-chen-jingzhen
+  来源：李敖风流自传 / 596.突破二二八 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/596.突破二二八.txt
+  数据：data/timeline-events-seventh-book.json#book7-1997-coauthors-you-dont-know-228-with-chen-jingzhen
+- 1997年 | 李敖拿出一百件收藏义卖，分送慰安妇以拒绝日方私了方案
+  精度：year；可靠度：confirmed；排序日期：1997-12-31
+  摘要：《义助慰安妇》写，1997年日本方面企图以每人五十万私了台湾慰安妇问题时，李敖拿出一百件收藏义卖三千万，并把款项分送给慰安妇。李敖把这件事写成既保住中国人尊严，也连带送走自己部分旧藏的一次义举。
+  人物：李敖、黄阿桃、王清峰、李庆华、施寄青、宋楚瑜、陈水扁、马英九
+  地点：台湾
+  标签：慰安妇、义卖、收藏、黄阿桃、王清峰
+  视图：生平线、公共行动线、收藏线
+  作品：李敖风流自传
+  交叉引用：-
+  来源：李敖风流自传 / 629.义助慰安妇 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/629.义助慰安妇.txt
+  数据：data/timeline-events-seventh-book.json#book7-1997-charity-auction-for-comfort-women-and-donates-proceeds
 
 1998
 - 1998年7月6日 | 《商业周刊》刊出《李敖谈王作荣》
@@ -10285,6 +10350,21 @@
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/020.志留纪.txt
   数据：data/timeline-events-fifth-book.json#book5-undated-su-rongquan-insurance-claim-recovered
 
+1999
+- 1999年10月号 | 李敖在《明报月刊》预先发表《民国定义和总统定义》
+  精度：month；可靠度：confirmed；排序日期：1999-10-01
+  摘要：《我言明在先》写，李敖在 1999 年 10 月号《明报月刊》发表《民国定义和总统定义》，先行界定所谓“总统”只是“中国台湾的领导人”别名，并主张未来两岸谈出的“中国”仍可采用“中华民国”名义。此文构成他后来投入 2000 年选举前的公开定位声明。
+  人物：李敖、毛泽东
+  地点：台湾、香港、中国大陆
+  标签：明报月刊、民国定义和总统定义、1999年10月、总统定义、统一定位
+  视图：思想线、写作线、政治线
+  作品：民国定义和总统定义、明报月刊、李敖风流自传
+  交叉引用：-
+  来源：李敖风流自传 / 618.我言明在先 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/618.我言明在先.txt
+  数据：data/timeline-events-seventh-book.json#book7-1999-10-publishes-definitions-of-republic-and-president-before-run
+
 2000
 - 2000年1月12日 | 李敖收到魏廷朝遗孀张庆惠来信致谢慰问金
   精度：day；可靠度：confirmed；排序日期：2000-01-12
@@ -10325,6 +10405,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/115.李庆华李庆安兄妹档.txt
   数据：data/timeline-events-sixth-book.json#book6-2000-01-01-li-chinghua-pushes-li-ao-to-run-in-presidential-race
+- 2000年败选以后的一天 | 宋楚瑜败选后托张光锦送来五百万元，李敖只答应寄放不收走
+  精度：year；可靠度：confirmed；排序日期：2000-12-31
+  摘要：《宋楚瑜》写，2000 年选举败选后的一天，张光锦将军到李敖书房，出示宋楚瑜送来的五百万元赠款。李敖表示可以放在宋楚瑜那里，自己需要时再去领，用这种方式婉拒直接收受。这条材料把两人由敌转友后的特殊往来，写得很具体。
+  人物：李敖、宋楚瑜、张光锦
+  地点：台北
+  标签：宋楚瑜、张光锦、五百万元、败选后、书房
+  视图：交游线、政治线、金钱往来线
+  作品：李敖风流自传
+  交叉引用：-
+  来源：李敖风流自传 / 518.宋楚瑜 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/518.宋楚瑜.txt
+  数据：data/timeline-events-seventh-book.json#book7-2000-after-election-song-chuyu-offers-5-million-through-zhang-guangjin
 
 2001
 - 2001年3月5日 | 李敖写“贱种何其多”一文，批评媚日与角色错乱
@@ -10366,6 +10459,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/612.李敖的淫威.txt
   数据：data/timeline-events-seventh-book.json#book7-2001-04-25-publishes-shangshan-shangshan-ai
+- 2001年春天 | 高信疆赴大陆发展前，李敖写《送高信疆归大陆序》为其壮行
+  精度：season；可靠度：confirmed；排序日期：2001-03-01
+  摘要：《高信疆在大陆》写，2001年春天，高信疆赴大陆发展前，李敖专门写下《送高信疆归大陆序》为其壮行，把他视为有才干的优秀中国人，盼其能在更大中国空间一展抱负。章末又补出这份期待后来落空，使这篇赠序带有强烈的时代落差感。
+  人物：李敖、高信疆
+  地点：大陆、台湾
+  标签：高信疆、赠序、大陆发展、送高信疆归大陆序
+  视图：交游线、写作线、大陆线
+  作品：送高信疆归大陆序、李敖风流自传
+  交叉引用：-
+  来源：李敖风流自传 / 643.高信疆在大陆 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/643.高信疆在大陆.txt
+  数据：data/timeline-events-seventh-book.json#book7-2001-spring-writes-preface-for-gao-xinjiang-going-to-mainland
 
 2002
 - 2002年5月31日 | 中天电视台换老板后，李敖结束周荃体系下的五年电视阶段
@@ -10489,6 +10595,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/110.选三只老鼠呢？还是一头老虎？.txt
   数据：data/timeline-events-sixth-book.json#book6-2004-12-08-publishes-final-joint-daily-legislative-campaign-ad
+- 2004年12月11日开票日 | 李敖在逛书店与上飞碟途中确认自己当选立委
+  精度：day；可靠度：confirmed；排序日期：2004-12-11
+  摘要：《绝无仅有的选举方式》写，2004年12月11日开票日，李敖先与吴子嘉逛书店、买书喝饮料，后来才被王祥基等人找到，赶去飞碟电台途中确认自己险胜当选。章中还写到他本人一路看书、若无其事，以及助选团队猜票数的插曲，留下这次当选极不典型的现场感。
+  人物：李敖、吴子嘉、王祥基、陈文茜、李姿仪、张书铭
+  地点：诚品书店、飞碟电台、台北
+  标签：立委当选、吴子嘉、王祥基、飞碟电台、开票日、书店
+  视图：政治线、日常线、媒体线
+  作品：李敖风流自传
+  交叉引用：-
+  来源：李敖风流自传 / 510.绝无仅有的选举方式 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/510.绝无仅有的选举方式.txt
+  数据：data/timeline-events-seventh-book.json#book7-2004-12-11-learns-of-legislative-election-victory-after-bookstore-and-radio-trip
 
 2005
 - 2005年2月1日 | 李敖在立委宣誓时摆出自己照片，拒绝向孙中山遗像宣誓
@@ -12485,6 +12604,49 @@
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/122.赵良燕现象.txt
   数据：data/timeline-events-sixth-book.json#book6-2007-11-06-records-zhao-liangyan-phenomenon-as-victim-of-single-member-districts
 
+2009
+- 2009年7月 | 李敖收到齐世英之女寄赠《巨流河》，但终未回信
+  精度：month；可靠度：confirmed；排序日期：2009-07-01
+  摘要：《齐世英》写，2009年7月，李敖收到齐世英之女寄赠的《巨流河》和附信，对方称与李敖来自同一片乡土、盼其赐寄数语。李敖记下自己年复一年都没有回一行字，并把这份沉默视为对齐家虚伪的一种判断。
+  人物：李敖、齐世英、齐邦媛
+  地点：台湾
+  标签：齐世英、巨流河、来信、2009年7月、未回信
+  视图：交游线、书信线、阅读线
+  作品：巨流河、李敖风流自传
+  交叉引用：-
+  来源：李敖风流自传 / 595.齐世英 / line 7
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/595.齐世英.txt
+  数据：data/timeline-events-seventh-book.json#book7-2009-07-receives-giant-river-from-qi-shiyings-daughter-and-does-not-reply
+
+2010
+- 2010年10月 | 李敖出版《阳痿美国》，公开为自己半世纪美国旧梦送葬
+  精度：month；可靠度：confirmed；排序日期：2010-10-01
+  摘要：《〈阳痿美国〉》写，2010年10月，李敖出版六百五十多页的《阳痿美国》，把自己半世纪前对美国的向往彻底翻转成系统批判。李敖把这本书视为拆穿美国、也送葬自己旧梦的一次强烈转变。
+  人物：李敖
+  地点：台湾
+  标签：阳痿美国、美国、出版、思想转变
+  视图：写作线、思想线、出版线
+  作品：阳痿美国、李敖风流自传
+  交叉引用：-
+  来源：李敖风流自传 / 651.《阳痿美国》 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/651.《阳痿美国》.txt
+  数据：data/timeline-events-seventh-book.json#book7-2010-10-publishes-yangwei-america
+- 2010年 | 李敖逼高信疆做健康检查，后又出资购墓地处理后事
+  精度：year；可靠度：confirmed；排序日期：2010-12-31
+  摘要：《我送他一座坟》写，2010年李敖见高信疆气色不对，二话不说替他安排健康检查、准备十万元并把人“押送”到医院；其后高信疆病逝，李敖又出资六十万元买下墓地。此章把他对老友从逼其就医到负担后事的一整段侠义行为连成一线。
+  人物：李敖、高信疆、柯元馨、赖岳忠、马家辉、张大春
+  地点：台湾、阳明山基督教墓园
+  标签：高信疆、健康检查、墓地、后事、侠义
+  视图：交游线、日常线、生平线
+  作品：李敖风流自传
+  交叉引用：book7-2001-spring-writes-preface-for-gao-xinjiang-going-to-mainland
+  来源：李敖风流自传 / 644.我送他一座坟 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/644.我送他一座坟.txt
+  数据：data/timeline-events-seventh-book.json#book7-2010-forces-gao-xinjiang-health-check-and-later-buys-grave
+
 2011
 - 2011年3月3日 | 李敖在《大江大海骗了你》后七十天交出《第73烈士》完稿
   精度：day；可靠度：confirmed；排序日期：2011-03-03
@@ -12538,6 +12700,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/237.《第73烈士》志缘.txt
   数据：data/timeline-events-seventh-book.json#book7-2011-04-27-marks-publication-of-the-73rd-martyr-with-corrected-date
+- 2011年 | 李敖应朱崇实之邀赴厦门大学演讲，并自评为生平最好一场
+  精度：year；可靠度：confirmed；排序日期：2011-12-31
+  摘要：《厦门大学》写，2011年李敖应朱崇实邀请赴厦门大学演讲，自称这是自己一生最好的一场演讲，比北大那场更激越。章中同时补出他因怕连累刘长乐而未事先告知此行，使厦门之行带有一层私谊与自我保护的意味。
+  人物：李敖、朱崇实、刘长乐、吴成典
+  地点：厦门大学、厦门
+  标签：厦门大学、朱崇实、演讲、刘长乐、大陆行
+  视图：大陆线、媒体线、演讲线
+  作品：李敖风流自传
+  交叉引用：book7-2011-03-31-receives-xiamen-university-honorary-professorship
+  来源：李敖风流自传 / 636.厦门大学 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/636.厦门大学.txt
+  数据：data/timeline-events-seventh-book.json#book7-2011-xiamen-university-lecture-considered-best-of-life
 
 2014
 - 2014年12月17日日记 | 李敖在日记中由反对转向同意写《李敖风流自传》
