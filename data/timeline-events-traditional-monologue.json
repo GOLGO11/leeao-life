@@ -344,5 +344,537 @@
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/002.《传统下的独白》再版自序.txt",
       "line": 13
     }
+  },
+  {
+    "id": "traditional-monologue-1962-08-24-from-going-naked-written",
+    "date": "1962-08-24",
+    "displayDate": "1962年8月24日",
+    "datePrecision": "day",
+    "title": "李敖写定《由一丝不挂说起》",
+    "summary": "《由一丝不挂说起》正文末署1962年8月24日。这篇文章借玛丽莲·梦露之死与女性身体观念，系统讨论中国与西方在肉体、服饰和现代化上的观念变化，是《传统下的独白》中极具代表性的文化论战文字。",
+    "view": ["写作线", "思想线", "文化线"],
+    "tags": ["由一丝不挂说起", "署日", "现代化", "身体观", "传统下的独白"],
+    "people": ["李敖", "玛丽莲·梦露"],
+    "places": ["台湾"],
+    "works": ["由一丝不挂说起", "传统下的独白"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "传统下的独白",
+      "chapter": "009.由一丝不挂说起",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/009.由一丝不挂说起.txt",
+      "line": 65
+    }
+  },
+  {
+    "id": "traditional-monologue-1962-08-27-from-going-naked-addendum",
+    "date": "1962-08-27",
+    "displayDate": "1962年8月27日",
+    "datePrecision": "day",
+    "title": "李敖为《由一丝不挂说起》补写附记",
+    "summary": "《由一丝不挂说起》附记写于1962年8月27日，记下英国裸体画展被禁又重挂的小新闻。它显示这篇文章在写定后并未马上封笔，而是继续把国际舆论中的身体与审美争议纳入文中。",
+    "view": ["写作线", "思想线", "文化线"],
+    "tags": ["由一丝不挂说起", "附记", "裸体画", "现代化", "传统下的独白"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["由一丝不挂说起", "传统下的独白"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "traditional-monologue-1962-08-24-from-going-naked-written"
+    ],
+    "source": {
+      "book": "传统下的独白",
+      "chapter": "009.由一丝不挂说起",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/009.由一丝不挂说起.txt",
+      "line": 101
+    }
+  },
+  {
+    "id": "traditional-monologue-1963-05-22-from-going-naked-postscript-backlash",
+    "date": "1963-05-22",
+    "displayDate": "1963年5月22日",
+    "datePrecision": "day",
+    "title": "李敖为《由一丝不挂说起》补记发表后的争议回响",
+    "summary": "《由一丝不挂说起》后记中又补写到1963年5月22日，追记《文星》转载、留学生抗议信与台湾裸体摄影风波等后续回响。这使该文形成“写定—附记—后记回响”的完整链条。",
+    "view": ["写作线", "思想线", "文化线"],
+    "tags": ["由一丝不挂说起", "后记", "回响", "文星", "传统下的独白"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["由一丝不挂说起", "文星", "传统下的独白"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "traditional-monologue-1962-08-24-from-going-naked-written",
+      "traditional-monologue-1962-08-27-from-going-naked-addendum"
+    ],
+    "source": {
+      "book": "传统下的独白",
+      "chapter": "009.由一丝不挂说起",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/009.由一丝不挂说起.txt",
+      "line": 139
+    }
+  },
+  {
+    "id": "traditional-monologue-1962-12-07-bachelorhood-pleasures-first-revision",
+    "date": "1962-12-07",
+    "displayDate": "1962年12月7日",
+    "datePrecision": "day",
+    "title": "李敖第一次改写《不讨老婆之“不亦快哉”》",
+    "summary": "《不讨老婆之“不亦快哉”（三十三则）》文末注明“1962年12月7日一改”。这让这篇以独身、不婚与反情场麻烦为主题的短章，不只停在最终发表，而有明确的修订过程可循。",
+    "view": ["写作线", "情感线", "思想线"],
+    "tags": ["不讨老婆之不亦快哉", "一改", "独身", "修订", "传统下的独白"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["不讨老婆之“不亦快哉”（三十三则）", "传统下的独白"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "传统下的独白",
+      "chapter": "010.不讨老婆之“不亦快哉”（三十三则）",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/010.不讨老婆之“不亦快哉”（三十三则）.txt",
+      "line": 71
+    }
+  },
+  {
+    "id": "traditional-monologue-1963-08-16-bachelorhood-pleasures-second-revision",
+    "date": "1963-08-16",
+    "displayDate": "1963年8月16日",
+    "datePrecision": "day",
+    "title": "李敖再次改写《不讨老婆之“不亦快哉”》",
+    "summary": "《不讨老婆之“不亦快哉”（三十三则）》文末又记“1963年8月16日再改”。这说明李敖在正式见报前仍持续雕琢此文，把游戏文字与个人立场打磨成更成熟的版本。",
+    "view": ["写作线", "情感线", "思想线"],
+    "tags": ["不讨老婆之不亦快哉", "再改", "独身", "修订", "传统下的独白"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["不讨老婆之“不亦快哉”（三十三则）", "传统下的独白"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "traditional-monologue-1962-12-07-bachelorhood-pleasures-first-revision"
+    ],
+    "source": {
+      "book": "传统下的独白",
+      "chapter": "010.不讨老婆之“不亦快哉”（三十三则）",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/010.不讨老婆之“不亦快哉”（三十三则）.txt",
+      "line": 71
+    }
+  },
+  {
+    "id": "traditional-monologue-1963-12-30-bachelorhood-pleasures-published-in-xinshengbao",
+    "date": "1963-12-30",
+    "displayDate": "1963年12月30日",
+    "datePrecision": "day",
+    "title": "《不讨老婆之“不亦快哉”》刊于《新生报》副刊",
+    "summary": "《不讨老婆之“不亦快哉”（三十三则）》文末注明刊于《新生报》副刊1963年12月30日。它把这篇典型李敖式游戏文章，落实为清楚的报刊发表节点。",
+    "view": ["出版线", "情感线", "思想线"],
+    "tags": ["不讨老婆之不亦快哉", "新生报", "副刊", "独身", "传统下的独白"],
+    "people": ["李敖"],
+    "places": ["台北"],
+    "works": ["不讨老婆之“不亦快哉”（三十三则）", "新生报", "传统下的独白"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "traditional-monologue-1962-12-07-bachelorhood-pleasures-first-revision",
+      "traditional-monologue-1963-08-16-bachelorhood-pleasures-second-revision"
+    ],
+    "source": {
+      "book": "传统下的独白",
+      "chapter": "010.不讨老婆之“不亦快哉”（三十三则）",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/010.不讨老婆之“不亦快哉”（三十三则）.txt",
+      "line": 127
+    }
+  },
+  {
+    "id": "traditional-monologue-1960-11-20-mothers-dream-published-in-united-daily",
+    "date": "1960-11-20",
+    "displayDate": "1960年11月20日",
+    "datePrecision": "day",
+    "title": "《妈妈的梦幻》刊于台北《联合报》副刊",
+    "summary": "《妈妈的梦幻》后记说明，此文原登1960年11月20日台北《联合报》副刊。它把李敖写母亲、家庭秩序与李家“民主化”的幽默文章，落实为明确的原刊节点。",
+    "view": ["出版线", "家庭线", "写作线"],
+    "tags": ["妈妈的梦幻", "联合报", "副刊", "母亲", "传统下的独白"],
+    "people": ["李敖", "李敖母亲"],
+    "places": ["台北"],
+    "works": ["妈妈的梦幻", "联合报", "传统下的独白"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "传统下的独白",
+      "chapter": "011.妈妈的梦幻",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/011.妈妈的梦幻.txt",
+      "line": 51
+    }
+  },
+  {
+    "id": "traditional-monologue-1962-11-27-mothers-dream-postscript",
+    "date": "1962-11-27",
+    "displayDate": "1962年11月27日",
+    "datePrecision": "day",
+    "title": "李敖为《妈妈的梦幻》补记母亲读后反应",
+    "summary": "《妈妈的梦幻》后记署1962年11月27日，追记文章发表后母亲当面警告他不要再把自己写得“又贪财又好吃”。这条让作品回响不只停在报刊层面，也回到李家家庭内部的即时反馈。",
+    "view": ["写作线", "家庭线", "日常线"],
+    "tags": ["妈妈的梦幻", "后记", "母亲反应", "家庭", "传统下的独白"],
+    "people": ["李敖", "李敖母亲"],
+    "places": ["台湾"],
+    "works": ["妈妈的梦幻", "传统下的独白"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "traditional-monologue-1960-11-20-mothers-dream-published-in-united-daily"
+    ],
+    "source": {
+      "book": "传统下的独白",
+      "chapter": "011.妈妈的梦幻",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/011.妈妈的梦幻.txt",
+      "line": 51
+    }
+  },
+  {
+    "id": "traditional-monologue-1962-06-01-mother-brother-film-published-in-wenxing",
+    "date": "1962-06-01",
+    "displayDate": "1962年6月1日",
+    "datePrecision": "day",
+    "title": "《妈妈·弟弟·电影》原登《文星》第五十六号",
+    "summary": "《妈妈·弟弟·电影》后记说明，全文及后记原登《文星》第五十六号（1962年6月1日台北出版）。这为李敖以家庭喜剧与影迷文化讽刺时论的文章，留下清楚的杂志发表节点。",
+    "view": ["出版线", "家庭线", "写作线"],
+    "tags": ["妈妈弟弟电影", "文星", "母亲", "电影", "传统下的独白"],
+    "people": ["李敖", "李敖母亲"],
+    "places": ["台北"],
+    "works": ["妈妈·弟弟·电影", "文星", "传统下的独白"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "传统下的独白",
+      "chapter": "012.妈妈·弟弟·电影",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/012.妈妈·弟弟·电影.txt",
+      "line": 51
+    }
+  },
+  {
+    "id": "traditional-monologue-1963-05-22-mother-brother-film-postscript-backlash",
+    "date": "1963-05-22",
+    "displayDate": "1963年5月22日",
+    "datePrecision": "day",
+    "title": "李敖为《妈妈·弟弟·电影》补记发表后争议与家中回响",
+    "summary": "《妈妈·弟弟·电影》后记末署1963年5月22日，追记《政治评论》《学宗》与胡秋原方面的批评，同时也补记母亲来信和路边少女谈论此文的场景。这条使作品从家庭趣文延伸到文化论战现场。",
+    "view": ["写作线", "家庭线", "思想线"],
+    "tags": ["妈妈弟弟电影", "后记", "文星", "胡秋原", "传统下的独白"],
+    "people": ["李敖", "胡秋原", "李敖母亲"],
+    "places": ["台湾"],
+    "works": ["妈妈·弟弟·电影", "文星", "传统下的独白"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "traditional-monologue-1962-06-01-mother-brother-film-published-in-wenxing"
+    ],
+    "source": {
+      "book": "传统下的独白",
+      "chapter": "012.妈妈·弟弟·电影",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/012.妈妈·弟弟·电影.txt",
+      "line": 51
+    }
+  },
+  {
+    "id": "traditional-monologue-1961-03-15-changpao-psychology-written-in-four-mat-room",
+    "date": "1961-03-15",
+    "displayDate": "1961年3月15日在台北“四席小屋”",
+    "datePrecision": "day",
+    "title": "李敖在“四席小屋”写《长袍心理学》",
+    "summary": "《长袍心理学》文末署1961年3月15日在台北“四席小屋”。这篇文章把长袍穿着、文化心理与时代讽刺揉成一炉，也留下李敖早期在“四席小屋”持续写作的又一个明确锚点。",
+    "view": ["写作线", "思想线", "文化线"],
+    "tags": ["长袍心理学", "四席小屋", "写作", "长袍", "传统下的独白"],
+    "people": ["李敖"],
+    "places": ["台北", "四席小屋"],
+    "works": ["长袍心理学", "传统下的独白"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "传统下的独白",
+      "chapter": "013.长袍心理学",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/013.长袍心理学.txt",
+      "line": 39
+    }
+  },
+  {
+    "id": "traditional-monologue-1962-03-13-changpao-psychology-first-revision",
+    "date": "1962-03-13",
+    "displayDate": "1962年3月13日",
+    "datePrecision": "day",
+    "title": "李敖第一次改写《长袍心理学》",
+    "summary": "《长袍心理学》文末记“1962年3月13日改一年前旧作”。这让此文形成从1961年写定到1962年首次重修的作品演进链。",
+    "view": ["写作线", "思想线", "文化线"],
+    "tags": ["长袍心理学", "改稿", "长袍", "修订", "传统下的独白"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["长袍心理学", "传统下的独白"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "traditional-monologue-1961-03-15-changpao-psychology-written-in-four-mat-room"
+    ],
+    "source": {
+      "book": "传统下的独白",
+      "chapter": "013.长袍心理学",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/013.长袍心理学.txt",
+      "line": 41
+    }
+  },
+  {
+    "id": "traditional-monologue-1962-11-27-changpao-psychology-second-revision",
+    "date": "1962-11-27",
+    "displayDate": "1962年11月27日",
+    "datePrecision": "day",
+    "title": "李敖再次改写《长袍心理学》",
+    "summary": "《长袍心理学》文末又记“11月27日再改”。这说明李敖在入书前继续打磨此文，把文化自嘲与讽刺性进一步修整成定稿面貌。",
+    "view": ["写作线", "思想线", "文化线"],
+    "tags": ["长袍心理学", "再改", "长袍", "修订", "传统下的独白"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["长袍心理学", "传统下的独白"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "traditional-monologue-1962-03-13-changpao-psychology-first-revision"
+    ],
+    "source": {
+      "book": "传统下的独白",
+      "chapter": "013.长袍心理学",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/013.长袍心理学.txt",
+      "line": 41
+    }
+  },
+  {
+    "id": "traditional-monologue-1960-06-14-red-rose-written-and-sent-to-rosa",
+    "date": "1960-06-14",
+    "displayDate": "1960年6月14日",
+    "datePrecision": "day",
+    "title": "李敖写成《红玫瑰》寄给 Rosa",
+    "summary": "《红玫瑰》后记写到，1960年6月9日他在新化附近服役时收到 Rosa 来信命题，6月14日便写好寄出。这使《红玫瑰》在后来的入书改订前，先有一个明确的军中写作与寄发节点。",
+    "view": ["写作线", "情感线", "生平线"],
+    "tags": ["红玫瑰", "Rosa", "军中写作", "寄出", "传统下的独白"],
+    "people": ["李敖", "Rosa"],
+    "places": ["新化附近", "台湾"],
+    "works": ["红玫瑰", "传统下的独白"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "传统下的独白",
+      "chapter": "014.红玫瑰",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/014.红玫瑰.txt",
+      "line": 57
+    }
+  },
+  {
+    "id": "traditional-monologue-1961-04-06-red-rose-published-in-united-daily",
+    "date": "1961-04-06",
+    "displayDate": "1961年4月6日",
+    "datePrecision": "day",
+    "title": "《红玫瑰》刊于台北《联合报》副刊",
+    "summary": "《红玫瑰》后记说明，退伍后李敖把此文稍加修改，发表在1961年4月6日台北《联合报》副刊。它让这篇感伤而少见的抒情文字有了明确的公开发表节点。",
+    "view": ["出版线", "情感线", "写作线"],
+    "tags": ["红玫瑰", "联合报", "副刊", "Rosa", "传统下的独白"],
+    "people": ["李敖", "Rosa"],
+    "places": ["台北"],
+    "works": ["红玫瑰", "联合报", "传统下的独白"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "traditional-monologue-1960-06-14-red-rose-written-and-sent-to-rosa"
+    ],
+    "source": {
+      "book": "传统下的独白",
+      "chapter": "014.红玫瑰",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/014.红玫瑰.txt",
+      "line": 57
+    }
+  },
+  {
+    "id": "traditional-monologue-1963-05-22-red-rose-postscript-at-330am",
+    "date": "1963-05-22",
+    "displayDate": "1963年5月22日晨三时半",
+    "datePrecision": "day",
+    "title": "李敖深夜补写《红玫瑰》后记并抄录悼恋诗",
+    "summary": "《红玫瑰》后记末署1963年5月22日晨三时半。李敖在此追记 Rosa 已赴美国、自己对旧情与旧作的重新观看，并抄出豪斯曼诗意译来表达隐痛，使这篇文章形成少见的深夜后记节点。",
+    "view": ["写作线", "情感线", "日常线"],
+    "tags": ["红玫瑰", "后记", "Rosa", "凌晨", "传统下的独白"],
+    "people": ["李敖", "Rosa", "豪斯曼"],
+    "places": ["台湾"],
+    "works": ["红玫瑰", "传统下的独白"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "traditional-monologue-1960-06-14-red-rose-written-and-sent-to-rosa",
+      "traditional-monologue-1961-04-06-red-rose-published-in-united-daily"
+    ],
+    "source": {
+      "book": "传统下的独白",
+      "chapter": "014.红玫瑰",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/014.红玫瑰.txt",
+      "line": 61
+    }
+  },
+  {
+    "id": "traditional-monologue-1961-winter-old-emperor-new-emperor-written-in-xindian",
+    "date": "1961-12-31",
+    "displayDate": "1961年的冬天",
+    "datePrecision": "season",
+    "title": "李敖在新店写《旧天子与新皇帝》",
+    "summary": "《旧天子与新皇帝》文末记“1961年的冬天作于新店”。这条为李敖尝试历史小说切片写法，留下一个带季节精度的写作节点。",
+    "view": ["写作线", "思想线", "文学线"],
+    "tags": ["旧天子与新皇帝", "新店", "历史小说", "冬天", "传统下的独白"],
+    "people": ["李敖"],
+    "places": ["新店"],
+    "works": ["旧天子与新皇帝", "传统下的独白"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "传统下的独白",
+      "chapter": "015.旧天子与新皇帝",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/015.旧天子与新皇帝.txt",
+      "line": 151
+    }
+  },
+  {
+    "id": "traditional-monologue-1962-11-27-old-emperor-new-emperor-revised",
+    "date": "1962-11-27",
+    "displayDate": "1962年11月27日",
+    "datePrecision": "day",
+    "title": "李敖小改《旧天子与新皇帝》并交代历史小说计划未续",
+    "summary": "《旧天子与新皇帝》文末记1962年11月27日小作修改，后记也同日说明原想把中国历史事件做“切片”写成短篇小说，最后只写成这一篇。它既是修订日，也是一次自我写作计划说明。",
+    "view": ["写作线", "思想线", "文学线"],
+    "tags": ["旧天子与新皇帝", "小作修改", "历史小说", "写作计划", "传统下的独白"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["旧天子与新皇帝", "传统下的独白"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "traditional-monologue-1961-winter-old-emperor-new-emperor-written-in-xindian"
+    ],
+    "source": {
+      "book": "传统下的独白",
+      "chapter": "015.旧天子与新皇帝",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/015.旧天子与新皇帝.txt",
+      "line": 153
+    }
+  },
+  {
+    "id": "traditional-monologue-1963-03-08-medical-law-provincial-council-motion-reported",
+    "date": "1963-03-08",
+    "displayDate": "1963年3月8日",
+    "datePrecision": "day",
+    "title": "省议会促立法院废弃《医师法》第三条第三款，《联合报》报道李敖所争论题",
+    "summary": "《修改〈医师法〉与废止中医》后记补录1963年3月8日台北《联合报》消息，记省议会第六次临时大会通过动议，请立法院审议修正《医师法》时废弃第三条第三款。它把李敖围绕医师法与中医资格问题的论战，推进到可见的公共回响层。",
+    "view": ["思想线", "出版线", "政治线"],
+    "tags": ["修改医师法与废止中医", "联合报", "省议会", "医师法", "中医", "传统下的独白"],
+    "people": ["李敖"],
+    "places": ["台北", "雾峰"],
+    "works": ["修改《医师法》与废止中医", "联合报", "传统下的独白"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "traditional-monologue-1962-11-01-medical-practitioners-law-essay-published-in-wenxing",
+      "traditional-monologue-1963-01-01-li-ao-responds-on-medical-law-and-medical-ethos"
+    ],
+    "source": {
+      "book": "传统下的独白",
+      "chapter": "018.修改《医师法》与废止中医",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/018.修改《医师法》与废止中医.txt",
+      "line": 259
+    }
+  },
+  {
+    "id": "traditional-monologue-1963-09-12-medical-law-postscript-records-counterattacks",
+    "date": "1963-09-12",
+    "displayDate": "1963年9月12日",
+    "datePrecision": "day",
+    "title": "李敖补记《修改〈医师法〉与废止中医》引发的围剿与外部响应",
+    "summary": "《修改〈医师法〉与废止中医》后记末署1963年9月12日，李敖追记中医界刊物围剿、香港响应，以及省议会动议与《联合报》消息。这使此文不只停在原刊与转载层，而形成一条可见争论扩散的后记节点。",
+    "view": ["思想线", "写作线", "政治线"],
+    "tags": ["修改医师法与废止中医", "后记", "中医围剿", "联合报", "传统下的独白"],
+    "people": ["李敖"],
+    "places": ["台北", "香港"],
+    "works": ["修改《医师法》与废止中医", "传统下的独白"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "traditional-monologue-1962-11-01-medical-practitioners-law-essay-published-in-wenxing",
+      "traditional-monologue-1963-01-01-li-ao-responds-on-medical-law-and-medical-ethos",
+      "traditional-monologue-1963-03-08-medical-law-provincial-council-motion-reported"
+    ],
+    "source": {
+      "book": "传统下的独白",
+      "chapter": "018.修改《医师法》与废止中医",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/018.修改《医师法》与废止中医.txt",
+      "line": 267
+    }
+  },
+  {
+    "id": "traditional-monologue-1963-05-01-absurd-laws-published-in-wenxing",
+    "date": "1963-05-01",
+    "displayDate": "1963年5月1日",
+    "datePrecision": "day",
+    "title": "《几条荒谬的法律》原登《文星》第六十七期",
+    "summary": "《几条荒谬的法律》文末注明原刊于《文星》第六十七期（1963年5月1日）。这为李敖批判立法委员因职得任律师、法官等制度荒谬，留下一个明确的原刊节点。",
+    "view": ["出版线", "思想线", "政治线"],
+    "tags": ["几条荒谬的法律", "文星", "律师法", "法院组织法", "传统下的独白"],
+    "people": ["李敖"],
+    "places": ["台北"],
+    "works": ["几条荒谬的法律", "文星", "传统下的独白"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "传统下的独白",
+      "chapter": "019.几条荒谬的法律",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/019.几条荒谬的法律.txt",
+      "line": 221
+    }
+  },
+  {
+    "id": "traditional-monologue-1961-04-08-laonianren-he-bangzi-conceived-after-reading-wang-hongjun",
+    "date": "1961-04-08",
+    "displayDate": "1961年4月8日",
+    "datePrecision": "day",
+    "title": "李敖因姚从吾示王洪钧文章而动念写《老年人和棒子》",
+    "summary": "《老年人和棒子》后记抄录1961年4月8日日记，记姚从吾持王洪钧文章给李敖看，他“立即想作一文抒感”。这使《老年人和棒子》的写作起点，可以从成文日再往前推到触发动念的一天。",
+    "view": ["写作线", "生平线", "思想线"],
+    "tags": ["老年人和棒子", "姚从吾", "王洪钧", "日记", "传统下的独白"],
+    "people": ["李敖", "姚从吾", "王洪钧", "李其泰"],
+    "places": ["台北"],
+    "works": ["老年人和棒子", "传统下的独白"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book5-1961-11-01-laonianren-he-bangzi-published"
+    ],
+    "source": {
+      "book": "传统下的独白",
+      "chapter": "020.老年人和棒子",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/020.老年人和棒子.txt",
+      "line": 203
+    }
+  },
+  {
+    "id": "traditional-monologue-1961-04-14-laonianren-he-bangzi-written-until-3am",
+    "date": "1961-04-14",
+    "displayDate": "1961年4月14日",
+    "datePrecision": "day",
+    "title": "李敖深夜写《老年人和棒子》至凌晨三时",
+    "summary": "《老年人和棒子》后记抄录1961年4月14日日记，记“写《老年人和棒子》至夜3时，文思甚涌”。这为该文的成稿过程，留下一个比发表日更贴身的写作痕迹。",
+    "view": ["写作线", "日常线", "思想线"],
+    "tags": ["老年人和棒子", "日记", "凌晨写作", "文思甚涌", "传统下的独白"],
+    "people": ["李敖"],
+    "places": ["台北"],
+    "works": ["老年人和棒子", "传统下的独白"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "traditional-monologue-1961-04-08-laonianren-he-bangzi-conceived-after-reading-wang-hongjun",
+      "book5-1961-11-01-laonianren-he-bangzi-published"
+    ],
+    "source": {
+      "book": "传统下的独白",
+      "chapter": "020.老年人和棒子",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/020.老年人和棒子.txt",
+      "line": 205
+    }
+  },
+  {
+    "id": "traditional-monologue-1961-06-china-miss-theory-published-in-renjianshi",
+    "date": "1961-06-01",
+    "displayDate": "1961年6月",
+    "datePrecision": "month",
+    "title": "《中国小姐论》刊于《人间世》",
+    "summary": "《中国小姐论》文末注明《人间世》1961年6月。它把李敖早期以选美、女性时髦化与现代中国文化心态为题的杂文，落实为一个明确的月度发表节点。",
+    "view": ["出版线", "思想线", "文化线"],
+    "tags": ["中国小姐论", "人间世", "选美", "女性", "传统下的独白"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["中国小姐论", "人间世", "传统下的独白"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "传统下的独白",
+      "chapter": "008.中国小姐论",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/008.中国小姐论.txt",
+      "line": 25
+    }
   }
 ]

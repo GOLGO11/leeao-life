@@ -1,9 +1,9 @@
 李敖交互式年表：当前增量纯文本备份
 生成日期：2026-04-22
-事件总数：1064
+事件总数：1088
 数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json
 说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。
-日期精度统计：day=798；year=67；year-range=6；undated-range=1；undated-context=113；season=21；lunar-day=1；year-after=7；month=28；half-year=2；day-range=9；month-after=2；year-about=5；day-after=3；year-end=1
+日期精度统计：day=820；year=67；year-range=6；undated-range=1；undated-context=113；season=22；lunar-day=1；year-after=7；month=29；half-year=2；day-range=9；month-after=2；year-about=5；day-after=3；year-end=1
 
 
 1935
@@ -2486,6 +2486,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/006.投笔纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1960-05-29-records-girl-being-sold
+- 1960年6月14日 | 李敖写成《红玫瑰》寄给 Rosa
+  精度：day；可靠度：confirmed；排序日期：1960-06-14
+  摘要：《红玫瑰》后记写到，1960年6月9日他在新化附近服役时收到 Rosa 来信命题，6月14日便写好寄出。这使《红玫瑰》在后来的入书改订前，先有一个明确的军中写作与寄发节点。
+  人物：李敖、Rosa
+  地点：新化附近、台湾
+  标签：红玫瑰、Rosa、军中写作、寄出、传统下的独白
+  视图：写作线、情感线、生平线
+  作品：红玫瑰、传统下的独白
+  交叉引用：-
+  来源：传统下的独白 / 014.红玫瑰 / line 57
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/014.红玫瑰.txt
+  数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1960-06-14-red-rose-written-and-sent-to-rosa
 - 1960年7月23日 | 李敖在连测验中闹出“七五炮打冲锋”笑话
   精度：day；可靠度：confirmed；排序日期：1960-07-23
   摘要：《我最难忘的一个老兵》写，1960年7月23日清早连测验，李敖率兵器排冲到前面，老兵张永亭坐地罢战，后来成为“七五炮打冲锋”的军中笑话。
@@ -2564,6 +2577,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/005.“北土非吾愿，东林怀我师”.txt
   数据：data/timeline-events.json#1960-11-07-letter-to-yao
+- 1960年11月20日 | 《妈妈的梦幻》刊于台北《联合报》副刊
+  精度：day；可靠度：confirmed；排序日期：1960-11-20
+  摘要：《妈妈的梦幻》后记说明，此文原登1960年11月20日台北《联合报》副刊。它把李敖写母亲、家庭秩序与李家“民主化”的幽默文章，落实为明确的原刊节点。
+  人物：李敖、李敖母亲
+  地点：台北
+  标签：妈妈的梦幻、联合报、副刊、母亲、传统下的独白
+  视图：出版线、家庭线、写作线
+  作品：妈妈的梦幻、联合报、传统下的独白
+  交叉引用：-
+  来源：传统下的独白 / 011.妈妈的梦幻 / line 51
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/011.妈妈的梦幻.txt
+  数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1960-11-20-mothers-dream-published-in-united-daily
 - 1960年冬天快来时 | 《自由中国》事件后自由主义刊物收场
   精度：season；可靠度：broad；排序日期：1960-11-01
   摘要：《记文星事件》把《自由中国》事件写为国民党箝制言论自由的剧烈事件之一：1960年冬天快来时，雷震等被捕，殷海光遭长期监视。
@@ -2722,6 +2748,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/005.“北土非吾愿，东林怀我师”.txt
   数据：data/timeline-events-first-book-supplement.json#1961-03-14-first-salary
+- 1961年3月15日在台北“四席小屋” | 李敖在“四席小屋”写《长袍心理学》
+  精度：day；可靠度：confirmed；排序日期：1961-03-15
+  摘要：《长袍心理学》文末署1961年3月15日在台北“四席小屋”。这篇文章把长袍穿着、文化心理与时代讽刺揉成一炉，也留下李敖早期在“四席小屋”持续写作的又一个明确锚点。
+  人物：李敖
+  地点：台北、四席小屋
+  标签：长袍心理学、四席小屋、写作、长袍、传统下的独白
+  视图：写作线、思想线、文化线
+  作品：长袍心理学、传统下的独白
+  交叉引用：-
+  来源：传统下的独白 / 013.长袍心理学 / line 39
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/013.长袍心理学.txt
+  数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1961-03-15-changpao-psychology-written-in-four-mat-room
 - 1961-03-18 | 姚从吾劝李敖发表文章用笔名
   精度：day；可靠度：confirmed；排序日期：1961-03-18
   摘要：姚从吾带来《宋史》，谈到胡适问李敖在报上发牢骚的事；姚也说发表文章是好事，希望李敖使用笔名。
@@ -2774,6 +2813,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/017.充员官.txt
   数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1961-04-03-chongyuanguan-published-in-zhonghua-daily
+- 1961年4月6日 | 《红玫瑰》刊于台北《联合报》副刊
+  精度：day；可靠度：confirmed；排序日期：1961-04-06
+  摘要：《红玫瑰》后记说明，退伍后李敖把此文稍加修改，发表在1961年4月6日台北《联合报》副刊。它让这篇感伤而少见的抒情文字有了明确的公开发表节点。
+  人物：李敖、Rosa
+  地点：台北
+  标签：红玫瑰、联合报、副刊、Rosa、传统下的独白
+  视图：出版线、情感线、写作线
+  作品：红玫瑰、联合报、传统下的独白
+  交叉引用：traditional-monologue-1960-06-14-red-rose-written-and-sent-to-rosa
+  来源：传统下的独白 / 014.红玫瑰 / line 57
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/014.红玫瑰.txt
+  数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1961-04-06-red-rose-published-in-united-daily
+- 1961年4月8日 | 李敖因姚从吾示王洪钧文章而动念写《老年人和棒子》
+  精度：day；可靠度：confirmed；排序日期：1961-04-08
+  摘要：《老年人和棒子》后记抄录1961年4月8日日记，记姚从吾持王洪钧文章给李敖看，他“立即想作一文抒感”。这使《老年人和棒子》的写作起点，可以从成文日再往前推到触发动念的一天。
+  人物：李敖、姚从吾、王洪钧、李其泰
+  地点：台北
+  标签：老年人和棒子、姚从吾、王洪钧、日记、传统下的独白
+  视图：写作线、生平线、思想线
+  作品：老年人和棒子、传统下的独白
+  交叉引用：book5-1961-11-01-laonianren-he-bangzi-published
+  来源：传统下的独白 / 020.老年人和棒子 / line 203
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/020.老年人和棒子.txt
+  数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1961-04-08-laonianren-he-bangzi-conceived-after-reading-wang-hongjun
 - 1961年4月11日在台北“四席小屋” | 李敖在“四席小屋”写《爱情的刽子手》
   精度：day；可靠度：confirmed；排序日期：1961-04-11
   摘要：《爱情的刽子手》文末署“1961年4月11日在台北‘四席小屋’”。这把李敖在“四席小屋”时期围绕爱情、婚姻与现代社会结构的思辨写作，落实到具体一天。
@@ -2787,6 +2852,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/004.爱情的刽子手.txt
   数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1961-04-11-love-executioner-written-in-four-mat-room
+- 1961年4月14日 | 李敖深夜写《老年人和棒子》至凌晨三时
+  精度：day；可靠度：confirmed；排序日期：1961-04-14
+  摘要：《老年人和棒子》后记抄录1961年4月14日日记，记“写《老年人和棒子》至夜3时，文思甚涌”。这为该文的成稿过程，留下一个比发表日更贴身的写作痕迹。
+  人物：李敖
+  地点：台北
+  标签：老年人和棒子、日记、凌晨写作、文思甚涌、传统下的独白
+  视图：写作线、日常线、思想线
+  作品：老年人和棒子、传统下的独白
+  交叉引用：traditional-monologue-1961-04-08-laonianren-he-bangzi-conceived-after-reading-wang-hongjun、book5-1961-11-01-laonianren-he-bangzi-published
+  来源：传统下的独白 / 020.老年人和棒子 / line 205
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/020.老年人和棒子.txt
+  数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1961-04-14-laonianren-he-bangzi-written-until-3am
 - 1961年4月17日 | 《爱情的刽子手》刊于《联合报》副刊
   精度：day；可靠度：confirmed；排序日期：1961-04-17
   摘要：《爱情的刽子手》文末注明“《联合报》副刊1961年4月17日”。它把李敖对爱情、婚姻与主妇社会的批判，从写作现场推进到正式发表场域。
@@ -3073,6 +3151,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/005.“北土非吾愿，东林怀我师”.txt
   数据：data/timeline-events-first-book-supplement.json#1961-11-13-yin-haiguang-praises
+- 1961年6月 | 《中国小姐论》刊于《人间世》
+  精度：month；可靠度：confirmed；排序日期：1961-06-01
+  摘要：《中国小姐论》文末注明《人间世》1961年6月。它把李敖早期以选美、女性时髦化与现代中国文化心态为题的杂文，落实为一个明确的月度发表节点。
+  人物：李敖
+  地点：台湾
+  标签：中国小姐论、人间世、选美、女性、传统下的独白
+  视图：出版线、思想线、文化线
+  作品：中国小姐论、人间世、传统下的独白
+  交叉引用：-
+  来源：传统下的独白 / 008.中国小姐论 / line 25
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/008.中国小姐论.txt
+  数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1961-06-china-miss-theory-published-in-renjianshi
 - 1961年夏天 | 退伍后考入研究所
   精度：season；可靠度：broad；排序日期：1961-07-01
   摘要：李敖写到自己1961年退伍回来，夏天考入研究所，冬天投稿《文星》。
@@ -3138,6 +3229,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/250.我进《文星》.txt
   数据：data/timeline-events-seventh-book.json#book7-1961-winter-enters-wenxing-through-old-man-and-stick
+- 1961年的冬天 | 李敖在新店写《旧天子与新皇帝》
+  精度：season；可靠度：confirmed；排序日期：1961-12-31
+  摘要：《旧天子与新皇帝》文末记“1961年的冬天作于新店”。这条为李敖尝试历史小说切片写法，留下一个带季节精度的写作节点。
+  人物：李敖
+  地点：新店
+  标签：旧天子与新皇帝、新店、历史小说、冬天、传统下的独白
+  视图：写作线、思想线、文学线
+  作品：旧天子与新皇帝、传统下的独白
+  交叉引用：-
+  来源：传统下的独白 / 015.旧天子与新皇帝 / line 151
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/015.旧天子与新皇帝.txt
+  数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1961-winter-old-emperor-new-emperor-written-in-xindian
 - 退伍后住“四席小屋”时的一天 | 李敖在衡阳路地摊发现《花花公子》大幅彩色裸照
   精度：undated-context；可靠度：confirmed；排序日期：1961-12-31
   摘要：《白露纪》写，李敖退伍后住“四席小屋”时，一天逛衡阳路地摊，看到《PLAYBOY》杂志中间折页的大幅彩色裸照，由此打开他对裸体照片、视觉审美和私人收藏的一个新阶段。
@@ -3244,6 +3348,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/246.债主死了.txt
   数据：data/timeline-events-seventh-book.json#book7-1962-02-24-hu-shi-dies-before-li-repays-the-thousand-yuan
+- 1962年3月13日 | 李敖第一次改写《长袍心理学》
+  精度：day；可靠度：confirmed；排序日期：1962-03-13
+  摘要：《长袍心理学》文末记“1962年3月13日改一年前旧作”。这让此文形成从1961年写定到1962年首次重修的作品演进链。
+  人物：李敖
+  地点：台湾
+  标签：长袍心理学、改稿、长袍、修订、传统下的独白
+  视图：写作线、思想线、文化线
+  作品：长袍心理学、传统下的独白
+  交叉引用：traditional-monologue-1961-03-15-changpao-psychology-written-in-four-mat-room
+  来源：传统下的独白 / 013.长袍心理学 / line 41
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/013.长袍心理学.txt
+  数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1962-03-13-changpao-psychology-first-revision
+- 1962年6月1日 | 《妈妈·弟弟·电影》原登《文星》第五十六号
+  精度：day；可靠度：confirmed；排序日期：1962-06-01
+  摘要：《妈妈·弟弟·电影》后记说明，全文及后记原登《文星》第五十六号（1962年6月1日台北出版）。这为李敖以家庭喜剧与影迷文化讽刺时论的文章，留下清楚的杂志发表节点。
+  人物：李敖、李敖母亲
+  地点：台北
+  标签：妈妈弟弟电影、文星、母亲、电影、传统下的独白
+  视图：出版线、家庭线、写作线
+  作品：妈妈·弟弟·电影、文星、传统下的独白
+  交叉引用：-
+  来源：传统下的独白 / 012.妈妈·弟弟·电影 / line 51
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/012.妈妈·弟弟·电影.txt
+  数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1962-06-01-mother-brother-film-published-in-wenxing
 - 1962年7月6日 | 萧孟能写信感谢李敖提升《文星》
   精度：day；可靠度：confirmed；排序日期：1962-07-06
   摘要：李敖在《文星与伪文星》中说，自己保有萧孟能1962年7月6日的感恩信，称“我是多么的感谢你”。
@@ -3270,6 +3400,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/003.我最难忘的一位老师.txt
   数据：data/timeline-events-first-book-supplement.json#1962-07-15-yan-hospital-bill
+- 1962年8月24日 | 李敖写定《由一丝不挂说起》
+  精度：day；可靠度：confirmed；排序日期：1962-08-24
+  摘要：《由一丝不挂说起》正文末署1962年8月24日。这篇文章借玛丽莲·梦露之死与女性身体观念，系统讨论中国与西方在肉体、服饰和现代化上的观念变化，是《传统下的独白》中极具代表性的文化论战文字。
+  人物：李敖、玛丽莲·梦露
+  地点：台湾
+  标签：由一丝不挂说起、署日、现代化、身体观、传统下的独白
+  视图：写作线、思想线、文化线
+  作品：由一丝不挂说起、传统下的独白
+  交叉引用：-
+  来源：传统下的独白 / 009.由一丝不挂说起 / line 65
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/009.由一丝不挂说起.txt
+  数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1962-08-24-from-going-naked-written
+- 1962年8月27日 | 李敖为《由一丝不挂说起》补写附记
+  精度：day；可靠度：confirmed；排序日期：1962-08-27
+  摘要：《由一丝不挂说起》附记写于1962年8月27日，记下英国裸体画展被禁又重挂的小新闻。它显示这篇文章在写定后并未马上封笔，而是继续把国际舆论中的身体与审美争议纳入文中。
+  人物：李敖
+  地点：台湾
+  标签：由一丝不挂说起、附记、裸体画、现代化、传统下的独白
+  视图：写作线、思想线、文化线
+  作品：由一丝不挂说起、传统下的独白
+  交叉引用：traditional-monologue-1962-08-24-from-going-naked-written
+  来源：传统下的独白 / 009.由一丝不挂说起 / line 101
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/009.由一丝不挂说起.txt
+  数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1962-08-27-from-going-naked-addendum
 - 1962年9月1日 | 李敖发表《由一丝不挂说起》
   精度：day；可靠度：confirmed；排序日期：1962-09-01
   摘要：《白露纪》列举李敖在性观念与文化论战中的文章，说明他于1962年9月1日发表《由一丝不挂说起》。
@@ -3309,6 +3465,58 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/018.修改《医师法》与废止中医.txt
   数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1962-11-01-medical-practitioners-law-essay-published-in-wenxing
+- 1962年11月27日 | 李敖小改《旧天子与新皇帝》并交代历史小说计划未续
+  精度：day；可靠度：confirmed；排序日期：1962-11-27
+  摘要：《旧天子与新皇帝》文末记1962年11月27日小作修改，后记也同日说明原想把中国历史事件做“切片”写成短篇小说，最后只写成这一篇。它既是修订日，也是一次自我写作计划说明。
+  人物：李敖
+  地点：台湾
+  标签：旧天子与新皇帝、小作修改、历史小说、写作计划、传统下的独白
+  视图：写作线、思想线、文学线
+  作品：旧天子与新皇帝、传统下的独白
+  交叉引用：traditional-monologue-1961-winter-old-emperor-new-emperor-written-in-xindian
+  来源：传统下的独白 / 015.旧天子与新皇帝 / line 153
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/015.旧天子与新皇帝.txt
+  数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1962-11-27-old-emperor-new-emperor-revised
+- 1962年11月27日 | 李敖为《妈妈的梦幻》补记母亲读后反应
+  精度：day；可靠度：confirmed；排序日期：1962-11-27
+  摘要：《妈妈的梦幻》后记署1962年11月27日，追记文章发表后母亲当面警告他不要再把自己写得“又贪财又好吃”。这条让作品回响不只停在报刊层面，也回到李家家庭内部的即时反馈。
+  人物：李敖、李敖母亲
+  地点：台湾
+  标签：妈妈的梦幻、后记、母亲反应、家庭、传统下的独白
+  视图：写作线、家庭线、日常线
+  作品：妈妈的梦幻、传统下的独白
+  交叉引用：traditional-monologue-1960-11-20-mothers-dream-published-in-united-daily
+  来源：传统下的独白 / 011.妈妈的梦幻 / line 51
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/011.妈妈的梦幻.txt
+  数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1962-11-27-mothers-dream-postscript
+- 1962年11月27日 | 李敖再次改写《长袍心理学》
+  精度：day；可靠度：confirmed；排序日期：1962-11-27
+  摘要：《长袍心理学》文末又记“11月27日再改”。这说明李敖在入书前继续打磨此文，把文化自嘲与讽刺性进一步修整成定稿面貌。
+  人物：李敖
+  地点：台湾
+  标签：长袍心理学、再改、长袍、修订、传统下的独白
+  视图：写作线、思想线、文化线
+  作品：长袍心理学、传统下的独白
+  交叉引用：traditional-monologue-1962-03-13-changpao-psychology-first-revision
+  来源：传统下的独白 / 013.长袍心理学 / line 41
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/013.长袍心理学.txt
+  数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1962-11-27-changpao-psychology-second-revision
+- 1962年12月7日 | 李敖第一次改写《不讨老婆之“不亦快哉”》
+  精度：day；可靠度：confirmed；排序日期：1962-12-07
+  摘要：《不讨老婆之“不亦快哉”（三十三则）》文末注明“1962年12月7日一改”。这让这篇以独身、不婚与反情场麻烦为主题的短章，不只停在最终发表，而有明确的修订过程可循。
+  人物：李敖
+  地点：台湾
+  标签：不讨老婆之不亦快哉、一改、独身、修订、传统下的独白
+  视图：写作线、情感线、思想线
+  作品：不讨老婆之“不亦快哉”（三十三则）、传统下的独白
+  交叉引用：-
+  来源：传统下的独白 / 010.不讨老婆之“不亦快哉”（三十三则） / line 71
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/010.不讨老婆之“不亦快哉”（三十三则）.txt
+  数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1962-12-07-bachelorhood-pleasures-first-revision
 - 1962年12月17日 | 李敖写定《十三年和十三月》
   精度：day；可靠度：confirmed；排序日期：1962-12-17
   摘要：《十三年和十三月》文末署1962年12月17日。这篇带有自传与思想自剖色彩的长文回顾李敖1949年赴台后十三年的受教育、入台大、从军、回校与投向《文星》的过程，是《传统下的独白》中可直接落日的作品署日节点。
@@ -3350,6 +3558,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/007.我最难忘的一个官僚同学.txt
   数据：data/timeline-events-third-book.json#book3-1963-01-09-shi-heidelberg-letter
+- 1963年3月8日 | 省议会促立法院废弃《医师法》第三条第三款，《联合报》报道李敖所争论题
+  精度：day；可靠度：confirmed；排序日期：1963-03-08
+  摘要：《修改〈医师法〉与废止中医》后记补录1963年3月8日台北《联合报》消息，记省议会第六次临时大会通过动议，请立法院审议修正《医师法》时废弃第三条第三款。它把李敖围绕医师法与中医资格问题的论战，推进到可见的公共回响层。
+  人物：李敖
+  地点：台北、雾峰
+  标签：修改医师法与废止中医、联合报、省议会、医师法、中医、传统下的独白
+  视图：思想线、出版线、政治线
+  作品：修改《医师法》与废止中医、联合报、传统下的独白
+  交叉引用：traditional-monologue-1962-11-01-medical-practitioners-law-essay-published-in-wenxing、traditional-monologue-1963-01-01-li-ao-responds-on-medical-law-and-medical-ethos
+  来源：传统下的独白 / 018.修改《医师法》与废止中医 / line 259
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/018.修改《医师法》与废止中医.txt
+  数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1963-03-08-medical-law-provincial-council-motion-reported
 - 1963年3月19日 | 李敖自动在台大历史研究所休学
   精度：day；可靠度：confirmed；排序日期：1963-03-19
   摘要：《委蜕纪》引李敖致钱思亮信，说明自己于1963年3月19日自动在历史研究所休学，次年未再办复学手续，遂离开台大。
@@ -3376,6 +3597,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/007.《恶法录及其他》新版前言.txt
   数据：data/timeline-events-second-book.json#book2-1963-04-05-lu-xiaozhao-letter-evil-laws
+- 1963年5月1日 | 《几条荒谬的法律》原登《文星》第六十七期
+  精度：day；可靠度：confirmed；排序日期：1963-05-01
+  摘要：《几条荒谬的法律》文末注明原刊于《文星》第六十七期（1963年5月1日）。这为李敖批判立法委员因职得任律师、法官等制度荒谬，留下一个明确的原刊节点。
+  人物：李敖
+  地点：台北
+  标签：几条荒谬的法律、文星、律师法、法院组织法、传统下的独白
+  视图：出版线、思想线、政治线
+  作品：几条荒谬的法律、文星、传统下的独白
+  交叉引用：-
+  来源：传统下的独白 / 019.几条荒谬的法律 / line 221
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/019.几条荒谬的法律.txt
+  数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1963-05-01-absurd-laws-published-in-wenxing
 - 1963年5月4日 | 高荫祖出示陶希圣来信后，李敖离开文献会
   精度：day；可靠度：confirmed；排序日期：1963-05-04
   摘要：《离开文献会》写，1963年5月4日，高荫祖出示陶希圣前一日赴日时留下的信，表示文献会以研究生为宜，请李敖暂别来上班；李敖当场拒绝入党建议，也谢绝“留职发薪”的好意，就此离开文献会。这条材料把李敖与陶希圣系统决裂的时间钉得更稳。
@@ -3402,6 +3636,45 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/316.中央研究院不准进门.txt
   数据：data/timeline-events-seventh-book.json#book7-1963-05-08-dines-at-xinyuan-with-li-fangkuei-and-teachers
+- 1963年5月22日 | 李敖为《由一丝不挂说起》补记发表后的争议回响
+  精度：day；可靠度：confirmed；排序日期：1963-05-22
+  摘要：《由一丝不挂说起》后记中又补写到1963年5月22日，追记《文星》转载、留学生抗议信与台湾裸体摄影风波等后续回响。这使该文形成“写定—附记—后记回响”的完整链条。
+  人物：李敖
+  地点：台湾
+  标签：由一丝不挂说起、后记、回响、文星、传统下的独白
+  视图：写作线、思想线、文化线
+  作品：由一丝不挂说起、文星、传统下的独白
+  交叉引用：traditional-monologue-1962-08-24-from-going-naked-written、traditional-monologue-1962-08-27-from-going-naked-addendum
+  来源：传统下的独白 / 009.由一丝不挂说起 / line 139
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/009.由一丝不挂说起.txt
+  数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1963-05-22-from-going-naked-postscript-backlash
+- 1963年5月22日 | 李敖为《妈妈·弟弟·电影》补记发表后争议与家中回响
+  精度：day；可靠度：confirmed；排序日期：1963-05-22
+  摘要：《妈妈·弟弟·电影》后记末署1963年5月22日，追记《政治评论》《学宗》与胡秋原方面的批评，同时也补记母亲来信和路边少女谈论此文的场景。这条使作品从家庭趣文延伸到文化论战现场。
+  人物：李敖、胡秋原、李敖母亲
+  地点：台湾
+  标签：妈妈弟弟电影、后记、文星、胡秋原、传统下的独白
+  视图：写作线、家庭线、思想线
+  作品：妈妈·弟弟·电影、文星、传统下的独白
+  交叉引用：traditional-monologue-1962-06-01-mother-brother-film-published-in-wenxing
+  来源：传统下的独白 / 012.妈妈·弟弟·电影 / line 51
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/012.妈妈·弟弟·电影.txt
+  数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1963-05-22-mother-brother-film-postscript-backlash
+- 1963年5月22日晨三时半 | 李敖深夜补写《红玫瑰》后记并抄录悼恋诗
+  精度：day；可靠度：confirmed；排序日期：1963-05-22
+  摘要：《红玫瑰》后记末署1963年5月22日晨三时半。李敖在此追记 Rosa 已赴美国、自己对旧情与旧作的重新观看，并抄出豪斯曼诗意译来表达隐痛，使这篇文章形成少见的深夜后记节点。
+  人物：李敖、Rosa、豪斯曼
+  地点：台湾
+  标签：红玫瑰、后记、Rosa、凌晨、传统下的独白
+  视图：写作线、情感线、日常线
+  作品：红玫瑰、传统下的独白
+  交叉引用：traditional-monologue-1960-06-14-red-rose-written-and-sent-to-rosa、traditional-monologue-1961-04-06-red-rose-published-in-united-daily
+  来源：传统下的独白 / 014.红玫瑰 / line 61
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/014.红玫瑰.txt
+  数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1963-05-22-red-rose-postscript-at-330am
 - 1963年6月1日 | 《假如我是女人》刊于《文星》第六十八号
   精度：day；可靠度：confirmed；排序日期：1963-06-01
   摘要：《假如我是女人》后记说明，此文“最后发表在《文星》六十八号（1963年6月1日台北出版）”。它把李敖借女性口吻讽刺男人、文学圈与政治文化的文章，落实为清楚的杂志发表节点。
@@ -3467,6 +3740,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/006.假如我是女人.txt
   数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1963-08-16-if-i-were-a-woman-post-publication-backlash-note
+- 1963年8月16日 | 李敖再次改写《不讨老婆之“不亦快哉”》
+  精度：day；可靠度：confirmed；排序日期：1963-08-16
+  摘要：《不讨老婆之“不亦快哉”（三十三则）》文末又记“1963年8月16日再改”。这说明李敖在正式见报前仍持续雕琢此文，把游戏文字与个人立场打磨成更成熟的版本。
+  人物：李敖
+  地点：台湾
+  标签：不讨老婆之不亦快哉、再改、独身、修订、传统下的独白
+  视图：写作线、情感线、思想线
+  作品：不讨老婆之“不亦快哉”（三十三则）、传统下的独白
+  交叉引用：traditional-monologue-1962-12-07-bachelorhood-pleasures-first-revision
+  来源：传统下的独白 / 010.不讨老婆之“不亦快哉”（三十三则） / line 71
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/010.不讨老婆之“不亦快哉”（三十三则）.txt
+  数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1963-08-16-bachelorhood-pleasures-second-revision
+- 1963年9月12日 | 李敖补记《修改〈医师法〉与废止中医》引发的围剿与外部响应
+  精度：day；可靠度：confirmed；排序日期：1963-09-12
+  摘要：《修改〈医师法〉与废止中医》后记末署1963年9月12日，李敖追记中医界刊物围剿、香港响应，以及省议会动议与《联合报》消息。这使此文不只停在原刊与转载层，而形成一条可见争论扩散的后记节点。
+  人物：李敖
+  地点：台北、香港
+  标签：修改医师法与废止中医、后记、中医围剿、联合报、传统下的独白
+  视图：思想线、写作线、政治线
+  作品：修改《医师法》与废止中医、传统下的独白
+  交叉引用：traditional-monologue-1962-11-01-medical-practitioners-law-essay-published-in-wenxing、traditional-monologue-1963-01-01-li-ao-responds-on-medical-law-and-medical-ethos、traditional-monologue-1963-03-08-medical-law-provincial-council-motion-reported
+  来源：传统下的独白 / 018.修改《医师法》与废止中医 / line 267
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/018.修改《医师法》与废止中医.txt
+  数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1963-09-12-medical-law-postscript-records-counterattacks
 - 1963年9月25日 | 李敖第一本书《传统下的独白》出版
   精度：day；可靠度：confirmed；排序日期：1963-09-25
   摘要：《星火纪》称1963年9月25日是李敖的大日子，这一天文星出版他的第一本书《传统下的独白》，其写作风格和骂人名声由此确立。
@@ -3571,6 +3870,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/034.文星与伪文星.txt
   数据：data/timeline-events-second-book.json#book2-1963-12-17-xiao-thanks-li
+- 1963年12月30日 | 《不讨老婆之“不亦快哉”》刊于《新生报》副刊
+  精度：day；可靠度：confirmed；排序日期：1963-12-30
+  摘要：《不讨老婆之“不亦快哉”（三十三则）》文末注明刊于《新生报》副刊1963年12月30日。它把这篇典型李敖式游戏文章，落实为清楚的报刊发表节点。
+  人物：李敖
+  地点：台北
+  标签：不讨老婆之不亦快哉、新生报、副刊、独身、传统下的独白
+  视图：出版线、情感线、思想线
+  作品：不讨老婆之“不亦快哉”（三十三则）、新生报、传统下的独白
+  交叉引用：traditional-monologue-1962-12-07-bachelorhood-pleasures-first-revision、traditional-monologue-1963-08-16-bachelorhood-pleasures-second-revision
+  来源：传统下的独白 / 010.不讨老婆之“不亦快哉”（三十三则） / line 127
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/010.不讨老婆之“不亦快哉”（三十三则）.txt
+  数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1963-12-30-bachelorhood-pleasures-published-in-xinshengbao
 - 1963年1月号 | 李敖收藏《花花公子》1963年1月号 Judi Motercy 中页照片
   精度：month；可靠度：confirmed；排序日期：1963-01-31
   摘要：《白露纪》写，李敖三十多年来最中意的裸女照片，是《花花公子》1963年1月号 Judi Motercy 中页；他买了两份，一份送给 H，一份装框，伴随自己三十五年。

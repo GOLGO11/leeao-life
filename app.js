@@ -39,7 +39,7 @@ const dataFiles = [
   "./data/timeline-events-eighth-book.json",
   "./data/timeline-events-traditional-monologue.json"
 ];
-const dataVersion = "2026-04-22-traditional-monologue-round-03";
+const dataVersion = "2026-04-22-traditional-monologue-round-06";
 
 const dateFormatter = new Intl.DateTimeFormat("zh-Hant", {
   year: "numeric",
