@@ -1,24 +1,129 @@
 # 李敖交互式年表开发交接记录
 
-生成日期：2026-04-22
+生成日期：2026-04-23
 
-## 项目目标
+## 交接摘要
 
-本项目依据 `leeao-new-directions.txt` 的“方向二：李敖交互式年表”，用《大李敖全集5.0》（wjm_tcy版）分章节文本逐书、逐轮增量制作李敖年表。
+这份摘要是给下一位 agent 直接接手用的，优先看这一段，不要再信文档顶部旧版本留下来的过时数字。
 
-用户当前口径非常明确：
+### 当前总状态
 
-1. 不一次性读取 163 本全集，必须一本一本、章节一段一段增量推进。
-2. 年表要“大而全”，大事件、小事件、日常、身体、感情、书信、读者反馈、司法细节都可以进入。
+- 项目路径：`/home/aihuashanying/leeao-life`
+- 当前总事件数：`1389`
+- 当前全库校验：
+
+```json
+{
+  "events": 1389,
+  "dups": 0,
+  "missingRefs": 0,
+  "badDatesOrFields": 0
+}
+```
+
+- 纯文本总表表头当前应为：`事件总数：1389`
+- 当前前端版本号：
+  - `app.js` 的 `dataVersion`：`2026-04-23-shilun-xinyu-round-03`
+  - `index.html` 的 CSS / JS query param：`2026-04-23-shilun-xinyu-round-03`
+
+### 用户硬规则
+
+1. 必须一本一本、章节一段一段增量推进，不能一次性吞全集。
+2. 年表追求“大而全”，大事、小事、日常、身体、感情、书信、读者反馈、司法细节都可以进。
 3. 不能添加和李敖无关的旁人事件。旁人材料只有在李敖行动、写作、通信、判断、交游、诉讼、被牵连时才入表。
-4. 最终文本会出版成书，数据要可校对、可追源，但用户更重视“大而全”，不要因出版顾虑过度删减。
-5. 时间尽量精确到日；无法确日的项目也可入库，但必须标明 `datePrecision`，并用 `displayDate` 保留原文形态。
-6. 同一年内排序规则：精确到日的条目在前，模糊时间项在后。
-7. 每条事件保留书名、章节、文件路径、转码后行号。
-8. 交叉引用的事件要认真校对，跨书同案用 `crossReferences` 串起来，不要乱挂。
-9. 每轮新增后更新 `data/ingestion-log.json`，重新导出 `exports/leeao-current-timeline.txt`。
+4. 时间尽量精确到日；不能确日时也可入库，但必须老实标 `datePrecision`，并用 `displayDate` 保留原文日期形态。
+5. 同一年排序规则：精确到日的条目在前，模糊时间项在后。
+6. 每条事件都保留书名、章节、文件路径、转码后行号。
+7. 交叉引用要认真校对。跨书同案、同证据链、同一事件回响，用 `crossReferences` 串起来，但不要乱挂。
+8. 从最新处理的书开始，UI 里交叉引用要显示为**中文可读信息**，不要显示英文 / 拼音 id。
+9. 每轮新增后都要同步更新 `data/ingestion-log.json`，并重新导出 `exports/leeao-current-timeline.txt`。
 
-## 工作目录
+### 最常见的坑
+
+- 全集正文大多是 `GB18030`，读取正文时要用：
+
+```bash
+iconv -f GB18030 -t UTF-8 "<章节路径>" | nl -ba
+```
+
+- 新增数据文件时，要同时同步：
+  - `app.js` 的 `dataFiles`
+  - `tools/export-timeline-text.mjs` 的 `dataFiles`
+- 只改 JSON 不改 `app.js / index.html` 版本号，UI 很容易还显示旧数字。
+- 只改数据不重导 `exports/leeao-current-timeline.txt`，纯文本备份表头会落后。
+- 不要把旁人履历、报刊评论目录、法律史背景，误扩成李敖事件。
+- 模糊时间不要伪精确；尤其是只有“某年某月”“夏天”“有一次”的材料。
+- `crossReferences` 改完一定要再跑全库校验；目前项目已经做到 `missingRefs = 0`，不要回退。
+
+### 当前最自然的工作起点
+
+刚完成的是 **《世论新语》第三轮推进**：
+
+- 当前 20 条
+- 已收：`《世论新语》自序`、`046.为无壳蜗牛出臭主意`、`099.早上的感想`、`168.李登辉文抄公`，以及 `031 / 037 / 042 / 056 / 067 / 083 / 101 / 109` 和 `007 / 010 / 011 / 012 / 014 / 015 / 017 / 020` 这两批正文开头带月日锚点的短章
+- 已明确暂缓：`002.高玉树与三面无耻`、`025.对彭明敏要公道`、`181.“吕野鸡”与“曾土鸡”`，因为目前抓到的日级日期分别来自附录、括注期号或他刊署日，**不宜直接算成《世论新语》专栏自己的署日**
+- `054.这是哪国的中文！` 只有引文里的 `1989年8月X日`，暂不硬造具体日
+
+因此，**下一位 agent 最自然的动作是继续《世论新语》，优先推进9月下旬到11月上旬那些同样只有单一月日、且不混入旧年份引文的短章**。  
+这一轮继续坐实两个避坑点：
+
+- 不要把附录、括注期号、他报他刊转载件里的日期，误记成《世论新语》专栏本身的发表日
+- 对只给“8月24日下午”“9月10日的报上”这类正文月日锚点，可在整本 1989 年专栏语境稳定时入表，但要明标 `certainty: inferred`
+- 开头若直接出现旧年份（如 1969 / 1983 / 1985）或同章同时出现多个竞争月日，就继续留在 keep-out 池，不要为追速度而硬收
+
+### 已阶段性封卷 / 收束的书
+
+- 《独白下的传统》：10 条
+- 《李敖文存》：24 条
+- 《波波颂》：57 条
+- 《李敖全集》：39 条
+- 《教育与脸谱》：19 条
+- 《文化论战丹火录》：12 条
+- 《为中国思想趋向求答案》：10 条
+- 《上下古今谈》：60 条
+
+这些书后面如需再回看，优先做跨书互校、少数模糊项升级、或交叉引用加固，不再适合整包深挖。
+
+### 仍可视情况回补的小心点
+
+- 《李敖风流自传》：已阶段性收束，但短章极多，后续只能高吞吐量快筛，不能一章一条慢磨。
+- 《李敖相关》：当前 42 条，按“95%完成”口径停住，后面更适合补缝，不适合大拆。
+- 《传统下的独白》《传统下的再白》：骨架已立，后续更像跨书互校，不像还能整批出新。
+
+### 当前数据文件计数
+
+```text
+data/timeline-events.json                              32
+data/timeline-events-first-book-supplement.json        58
+data/timeline-events-first-book-broad.json             46
+data/timeline-events-first-book-daily.json             50
+data/timeline-events-second-book.json                  67
+data/timeline-events-second-book-broad.json            27
+data/timeline-events-second-book-evidence.json         37
+data/timeline-events-third-book.json                   70
+data/timeline-events-third-book-qiao-evidence.json     16
+data/timeline-events-fourth-book.json                  115
+data/timeline-events-fourth-book-deepening.json        29
+data/timeline-events-fifth-book.json                   220
+data/timeline-events-sixth-book.json                   160
+data/timeline-events-seventh-book.json                 78
+data/timeline-events-eighth-book.json                  42
+data/timeline-events-traditional-monologue.json        41
+data/timeline-events-traditional-monologue-sequel.json 18
+data/timeline-events-monologue-under-tradition.json    10
+data/timeline-events-wencun.json                       24
+data/timeline-events-wencun-two.json                   32
+data/timeline-events-bobo-song.json                    57
+data/timeline-events-li-ao-complete-works.json         39
+data/timeline-events-education-and-faces.json          19
+data/timeline-events-cultural-debate-danhuo.json       12
+data/timeline-events-thought-trend-answer.json         10
+data/timeline-events-shangxia-gujin-talks.json         60
+data/timeline-events-shilun-xinyu.json                 20
+总计                                                  1389
+```
+
+### 工作目录与基本命令
 
 项目路径：
 
@@ -26,24 +131,10 @@
 /home/aihuashanying/leeao-life
 ```
 
-这是 git 仓库。接手时先看：
+接手先看：
 
 ```bash
 git status --short
-```
-
-当前交接时工作树已有未提交修改，至少包括：
-
-```text
-README.md
-app.js
-data/ingestion-log.json
-data/timeline-events-fifth-book.json
-data/timeline-events-sixth-book.json
-data/timeline-events-traditional-monologue.json
-exports/leeao-current-timeline.txt
-tools/export-timeline-text.mjs
-DEVELOPMENT_HANDOFF.md
 ```
 
 不要回退用户或前一位 agent 的改动。
@@ -54,19 +145,13 @@ DEVELOPMENT_HANDOFF.md
 《大李敖全集5.0》（wjm_tcy版）分章节
 ```
 
-全集正文多为 GB18030 编码。读取正文时使用：
-
-```bash
-iconv -f GB18030 -t UTF-8 "<章节路径>" | nl -ba
-```
-
 日期命中工具：
 
 ```bash
-node tools/find-dated-lines.mjs '《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录'
+node tools/find-dated-lines.mjs '《大李敖全集5.0》（wjm_tcy版）分章节/某一本书目录'
 ```
 
-注意：`tools/find-dated-lines.mjs` 接受单本书目录，不是单个 txt 文件。
+注意：`tools/find-dated-lines.mjs` 接受的是**单本书目录**，不是单个 txt 文件。
 
 ## 当前数据文件
 
@@ -89,6 +174,16 @@ data/timeline-events-sixth-book.json
 data/timeline-events-seventh-book.json
 data/timeline-events-eighth-book.json
 data/timeline-events-traditional-monologue.json
+data/timeline-events-traditional-monologue-sequel.json
+data/timeline-events-monologue-under-tradition.json
+data/timeline-events-wencun.json
+data/timeline-events-wencun-two.json
+data/timeline-events-bobo-song.json
+data/timeline-events-li-ao-complete-works.json
+data/timeline-events-education-and-faces.json
+data/timeline-events-cultural-debate-danhuo.json
+data/timeline-events-thought-trend-answer.json
+data/timeline-events-shangxia-gujin-talks.json
 ```
 
 同步位置：
@@ -100,37 +195,6 @@ tools/export-timeline-text.mjs 的 dataFiles
 
 新增数据文件时两边都要同步。
 
-## 当前计数
-
-截至《传统下的独白》第一轮结束：
-
-```text
-data/timeline-events.json                         32
-data/timeline-events-first-book-supplement.json   58
-data/timeline-events-first-book-broad.json        46
-data/timeline-events-first-book-daily.json        50
-data/timeline-events-second-book.json             67
-data/timeline-events-second-book-broad.json       27
-data/timeline-events-second-book-evidence.json    37
-data/timeline-events-third-book.json              70
-data/timeline-events-third-book-qiao-evidence.json 16
-data/timeline-events-fourth-book.json             115
-data/timeline-events-fourth-book-deepening.json   29
-data/timeline-events-fifth-book.json              220
-data/timeline-events-sixth-book.json              160
-data/timeline-events-seventh-book.json            78
-data/timeline-events-eighth-book.json             42
-data/timeline-events-traditional-monologue.json   41
-总计                                             1088
-```
-
-`exports/leeao-current-timeline.txt` 表头当前应同步为：
-
-```text
-事件总数：1088
-日期精度统计：以 exports/leeao-current-timeline.txt 当前表头为准
-```
-
 ## 当前处理进度
 
 处理日志的完整记录在：
@@ -139,9 +203,7 @@ data/timeline-events-traditional-monologue.json   41
 data/ingestion-log.json
 ```
 
-当前最新轮次为 `iteration: 99`。
-
-已处理到第十二本：
+已处理到：
 
 ```text
 001.李敖自传与回忆
@@ -156,16 +218,15 @@ data/ingestion-log.json
 010.传统下的再白
 011.独白下的传统
 012.李敖文存
+013.李敖文存二集
+014.波波颂
+015.李敖全集
+016.教育与脸谱
+017.文化论战丹火录
+018.为中国思想趋向求答案
+019.上下古今谈
+020.世论新语
 ```
-
-第五本《李敖快意恩仇录》已经停止深挖，并完成 1960-1961 重复事件校正，当前定格在 220 条。
-第六本《李敖议坛哀思录》已推进到第二十三轮，当前 160 条，事件抽取层面已基本收束。
-第七本《李敖风流自传》已完成第二十九轮 closeout，当前 78 条，进入阶段性收束状态。
-第八本《李敖相关》已推进到第七轮，当前 42 条，现按“95%完成”口径阶段性停住。
-《传统下的独白》已推进到第六轮，当前 41 条。
-《传统下的再白》已推进到第三轮，当前 18 条。
-《独白下的传统》已推进到第四轮，当前 10 条，已阶段性封卷。
-《李敖文存》已推进到第三轮，当前 24 条，并已完成 001-020 全目录覆盖。
 
 ## 《李敖文存》当前状态
 

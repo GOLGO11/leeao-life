@@ -1,9 +1,9 @@
 李敖交互式年表：当前增量纯文本备份
 生成日期：2026-04-23
-事件总数：1369
-数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json
+事件总数：1389
+数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json
 说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。
-日期精度统计：day=1070；year=84；year-range=6；undated-range=1；undated-context=113；season=22；lunar-day=1；year-after=7；month=39；half-year=2；day-range=11；month-after=2；day-after=4；year-context=1；year-about=5；year-end=1
+日期精度统计：day=1090；year=84；year-range=6；undated-range=1；undated-context=113；season=22；lunar-day=1；year-after=7；month=39；half-year=2；day-range=11；month-after=2；day-after=4；year-context=1；year-about=5；year-end=1
 
 
 1935
@@ -13607,6 +13607,136 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/001.我最难忘的一件木雕.txt
   数据：data/timeline-events-third-book.json#book3-1989-07-26-woodcarving-written
+- 1989年8月3日 | 李敖评段宏俊竞逐“总统”前途坎坷
+  精度：day；可靠度：inferred；排序日期：1989-08-03
+  摘要：《段宏俊前途坎坷？》开头直接以“8月3日《自立早报》”“同日《台湾时报》”进入时事。结合《世论新语》1989年书内专栏语境，这条可保守落为 1989年8月3日的专栏短评，记录李敖对段宏俊竞逐“总统”前景的判断。
+  人物：李敖、段宏俊、李登辉
+  地点：台湾
+  标签：世论新语、段宏俊、总统选举、自立早报、台湾时报、1989
+  视图：写作线、媒体线、专栏线
+  作品：世论新语、段宏俊前途坎坷？
+  交叉引用：-
+  来源：世论新语 / 037.段宏俊前途坎坷？ / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/005.世论新语/037.段宏俊前途坎坷？.txt
+  数据：data/timeline-events-shilun-xinyu.json#shilun-xinyu-1989-08-03-duan-hongjun-presidential-bid
+- 1989年8月6日 | 李敖批评高玉树助选后否认助选
+  精度：day；可靠度：inferred；排序日期：1989-08-06
+  摘要：《睁眼说瞎话》开头直接写高玉树“8月6日”在尤清主办的竞选晚会上演说，事后却否认助选。结合《世论新语》1989年专栏语境，这条可保守落为 1989年8月6日。
+  人物：李敖、高玉树、尤清
+  地点：台湾
+  标签：世论新语、高玉树、尤清、助选、1989
+  视图：写作线、政治线、专栏线
+  作品：世论新语、睁眼说瞎话
+  交叉引用：-
+  来源：世论新语 / 007.睁眼说瞎话 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/005.世论新语/007.睁眼说瞎话.txt
+  数据：data/timeline-events-shilun-xinyu.json#shilun-xinyu-1989-08-06-gao-yushu-campaign-speech-denial
+- 1989年8月16日 | 李敖借陈良埙谈话质疑“孙立人事件”与“英明领袖”说法
+  精度：day；可靠度：inferred；排序日期：1989-08-16
+  摘要：《“英明领袖”何能被欺瞒？》开头直接写陈良埙等“8月16日发表谈话”。结合《世论新语》1989年专栏语境，这条可保守落为 1989年8月16日，记录李敖借此反驳“蒋介石被欺瞒”说法。
+  人物：李敖、陈良埙、孙立人、蒋介石、萧孟能
+  地点：台湾
+  标签：世论新语、孙立人事件、陈良埙、蒋介石、1989
+  视图：写作线、思想线、专栏线
+  作品：世论新语、“英明领袖”何能被欺瞒？
+  交叉引用：-
+  来源：世论新语 / 010.“英明领袖”何能被欺瞒？ / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/005.世论新语/010.“英明领袖”何能被欺瞒？.txt
+  数据：data/timeline-events-shilun-xinyu.json#shilun-xinyu-1989-08-16-sun-liren-case-remarks
+- 1989年8月17日 | 李敖批评吴伯雄为钱穆公产住宅辩护
+  精度：day；可靠度：inferred；排序日期：1989-08-17
+  摘要：《合法租用个屁！》开头直接写吴伯雄“8月17日召开记者会”，为钱穆所住房舍辩护。结合《世论新语》1989年专栏语境，这条可保守落为 1989年8月17日。
+  人物：李敖、吴伯雄、钱穆、蒋介石
+  地点：台北、台湾
+  标签：世论新语、吴伯雄、钱穆、公产房舍、1989
+  视图：写作线、政治线、专栏线
+  作品：世论新语、合法租用个屁！
+  交叉引用：-
+  来源：世论新语 / 011.合法租用个屁！ / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/005.世论新语/011.合法租用个屁！.txt
+  数据：data/timeline-events-shilun-xinyu.json#shilun-xinyu-1989-08-17-wu-boxiong-defends-qian-mu-house
+- 1989年8月17日 | 李敖借“摩耶精舍”讥刺“高风亮节”说法
+  精度：day；可靠度：inferred；排序日期：1989-08-17
+  摘要：《“高风亮节”又一房》正文开头后一段直接写“8月17日我又在钱穆家附近见到一起”。结合《世论新语》1989年专栏语境，这条可保守落为 1989年8月17日，记录李敖借张大千故居与蒋氏题字继续反讽钱穆住宅争议。
+  人物：李敖、张大千、钱穆、吴伯雄、蒋介石、蒋经国
+  地点：外双溪、台湾
+  标签：世论新语、张大千、钱穆、高风亮节、摩耶精舍、1989
+  视图：写作线、文化线、专栏线
+  作品：世论新语、“高风亮节”又一房
+  交叉引用：-
+  来源：世论新语 / 012.“高风亮节”又一房 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/005.世论新语/012.“高风亮节”又一房.txt
+  数据：data/timeline-events-shilun-xinyu.json#shilun-xinyu-1989-08-17-visits-maya-jing-she-and-mocks-gaofeng-liangjie
+- 1989年8月19日 | 李敖借陈水扁文章谈“忘了我们是谁”的山地政策
+  精度：day；可靠度：inferred；排序日期：1989-08-19
+  摘要：《忘了我们是谁》正文第二段直接写“8月19日，看到报上有我的朋友陈水扁一文”。结合《世论新语》1989年专栏语境，这条可保守落为 1989年8月19日。
+  人物：李敖、陈水扁、王海玲、许瀚君
+  地点：台湾
+  标签：世论新语、陈水扁、高山族、忘了我是谁、1989
+  视图：写作线、思想线、专栏线
+  作品：世论新语、忘了我们是谁、忘了我是谁
+  交叉引用：-
+  来源：世论新语 / 015.忘了我们是谁 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/005.世论新语/015.忘了我们是谁.txt
+  数据：data/timeline-events-shilun-xinyu.json#shilun-xinyu-1989-08-19-chen-shuibian-mountain-policy-essay
+- 1989年8月19日 | 李敖借嘉义二二八纪念碑开幕质疑“历史公道”范围
+  精度：day；可靠度：inferred；排序日期：1989-08-19
+  摘要：《“真心讨回历史公道”？》开头直接写首座二二八纪念碑决定“8月19日”在嘉义落成。结合《世论新语》1989年专栏语境，这条可保守落为 1989年8月19日。
+  人物：李敖、张博雅、陈永兴
+  地点：嘉义市、台湾
+  标签：世论新语、二二八、嘉义、纪念碑、高山族、1989
+  视图：写作线、历史线、专栏线
+  作品：世论新语、“真心讨回历史公道”？、二二八和平纪念歌
+  交叉引用：-
+  来源：世论新语 / 014.“真心讨回历史公道”？ / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/005.世论新语/014.“真心讨回历史公道”？.txt
+  数据：data/timeline-events-shilun-xinyu.json#shilun-xinyu-1989-08-19-chiayi-228-monument-opening
+- 1989年8月20日 | 李敖讥刺赵少康“新国民党”比国民党还国民党
+  精度：day；可靠度：inferred；排序日期：1989-08-20
+  摘要：《比国民党还国民党》开头直接写“8月20日《民众日报》社论指出……”。结合《世论新语》1989年专栏语境，这条可保守落为 1989年8月20日，记录李敖借赵少康与林正杰的对照批评“新国民党”把戏。
+  人物：李敖、赵少康、林正杰、武炳炎
+  地点：台湾
+  标签：世论新语、赵少康、新国民党、林正杰、民众日报、1989
+  视图：写作线、政治线、专栏线
+  作品：世论新语、比国民党还国民党
+  交叉引用：-
+  来源：世论新语 / 020.比国民党还国民党 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/005.世论新语/020.比国民党还国民党.txt
+  数据：data/timeline-events-shilun-xinyu.json#shilun-xinyu-1989-08-20-new-kmt-line-challenged
+- 1989年8月20日 | 李敖批评余纪忠报纸变造邓小平照片
+  精度：day；可靠度：inferred；排序日期：1989-08-20
+  摘要：《余纪忠变造照片》开头直接写“8月20日《中国时报》第六版头条登出……”。结合《世论新语》1989年专栏语境，这条可保守落为 1989年8月20日。
+  人物：李敖、余纪忠、邓小平、徐海东、聂荣臻、王首道、杨尚昆、罗瑞卿、程子华、陈光
+  地点：台湾
+  标签：世论新语、余纪忠、中国时报、邓小平、照片、1989
+  视图：写作线、媒体线、专栏线
+  作品：世论新语、余纪忠变造照片
+  交叉引用：-
+  来源：世论新语 / 017.余纪忠变造照片 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/005.世论新语/017.余纪忠变造照片.txt
+  数据：data/timeline-events-shilun-xinyu.json#shilun-xinyu-1989-08-20-yu-jizhong-photo-tampering
+- 1989年8月24日下午 | 夏君璐二十多年后登门看李敖
+  精度：day；可靠度：inferred；排序日期：1989-08-24
+  摘要：《殷海光死不瞑目》开头直接记“8月24日下午，殷海光先生的夫人夏君璐女士来我家”。结合《世论新语》1989年成书语境，这条可保守落为 1989年8月24日，记录夏君璐返台参加殷海光逝世二十周年活动期间登门看望李敖。
+  人物：李敖、夏君璐、殷海光、胡虚一
+  地点：李敖家、台湾
+  标签：世论新语、夏君璐、殷海光、来访、1989
+  视图：交游线、日常线、专栏线
+  作品：世论新语、殷海光死不瞑目
+  交叉引用：-
+  来源：世论新语 / 031.殷海光死不瞑目 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/005.世论新语/031.殷海光死不瞑目.txt
+  数据：data/timeline-events-shilun-xinyu.json#shilun-xinyu-1989-08-24-xia-junlu-visits-li-ao
 - 1989年8月24日下午 | 殷太太夏君璐二十年后登门看李敖
   精度：day；可靠度：confirmed；排序日期：1989-08-24
   摘要：《殷鉴纪》写，1989年8月24日下午，殷海光太太夏君璐由陈宏正陪同登门看李敖。二十年未见后，双方谈殷海光、全集出版和当年救病往事。
@@ -13620,6 +13750,123 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/011.殷鉴纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1989-08-24-yin-wife-visits-li
+- 1989年8月28日 | 刘福增撰文称李敖是殷海光学生中的例外
+  精度：day；可靠度：inferred；排序日期：1989-08-28
+  摘要：《刘福增的公道》开头直接写刘福增“8月28日”在《首都早报》发表纪念殷海光文章，并称李敖“也许算是例外”。结合《世论新语》1989年专栏语境，这条可保守落为 1989年8月28日。
+  人物：李敖、刘福增、殷海光、陈鼓应
+  地点：台湾
+  标签：世论新语、刘福增、殷海光、首都早报、1989
+  视图：回响线、交游线、专栏线
+  作品：世论新语、刘福增的公道、冲出自由的警戒区——纪念殷海光先生逝世二十周年
+  交叉引用：-
+  来源：世论新语 / 042.刘福增的公道 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/005.世论新语/042.刘福增的公道.txt
+  数据：data/timeline-events-shilun-xinyu.json#shilun-xinyu-1989-08-28-liu-fuzeng-speaks-for-li-ao
+- 1989年9月1日 | 李敖借梁肃戎谈话批评外省人与本省人互弃
+  精度：day；可靠度：inferred；排序日期：1989-09-01
+  摘要：《他们情归何处？》开头直接写“9月1日，记者问梁肃戎说……”。结合《世论新语》1989年专栏语境，这条可保守落为 1989年9月1日，记录李敖借梁肃戎有关民进党与外省人的谈话，反讽外省人与本省人互相弃如敝屣。
+  人物：李敖、梁肃戎、费希平、孟绝子
+  地点：台湾
+  标签：世论新语、梁肃戎、外省人、民进党、1989
+  视图：写作线、思想线、专栏线
+  作品：世论新语、他们情归何处？
+  交叉引用：-
+  来源：世论新语 / 056.他们情归何处？ / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/005.世论新语/056.他们情归何处？.txt
+  数据：data/timeline-events-shilun-xinyu.json#shilun-xinyu-1989-09-01-liang-su-rong-comments-on-mainlanders
+- 1989年9月3日 | 《世界论坛报》刊出《为无壳蜗牛出臭主意》
+  精度：day；可靠度：confirmed；排序日期：1989-09-03
+  摘要：《为无壳蜗牛出臭主意》文末注明《世界论坛报》1989年9月3日，标出李敖在《世论新语》专栏里借“无壳蜗牛”抗议与大便／拉尿方案，讥刺国民党住屋政策与民进党借题作秀。
+  人物：李敖、孟绝子
+  地点：台北、台湾
+  标签：世论新语、世界论坛报、无壳蜗牛、住房、1989
+  视图：发表线、媒体线、专栏线
+  作品：世论新语、为无壳蜗牛出臭主意、世界论坛报
+  交叉引用：-
+  来源：世论新语 / 046.为无壳蜗牛出臭主意 / line 27
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/005.世论新语/046.为无壳蜗牛出臭主意.txt
+  数据：data/timeline-events-shilun-xinyu.json#shilun-xinyu-1989-09-03-homeless-snails-column
+- 1989年9月6日早上8点57分 | 李敖批评武士嵩节目把刘备的话说成叶曼格言
+  精度：day；可靠度：inferred；排序日期：1989-09-06
+  摘要：《恶“视”传千里》正文直接记“9月6日早上8点57分”华视节目画面，把刘备对阿斗的话误作叶曼格言。结合《世论新语》1989年专栏语境，这条可保守落为 1989年9月6日。
+  人物：李敖、武士嵩、叶曼、刘备、诸葛亮
+  地点：台湾
+  标签：世论新语、武士嵩、华视、叶曼、剽窃、1989
+  视图：写作线、媒体线、专栏线
+  作品：世论新语、恶“视”传千里
+  交叉引用：-
+  来源：世论新语 / 067.恶“视”传千里 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/005.世论新语/067.恶“视”传千里.txt
+  数据：data/timeline-events-shilun-xinyu.json#shilun-xinyu-1989-09-06-wushi-song-plagiarism-broadcast
+- 1989年9月10日 | 李敖借报上小新闻反讽施启扬“宅心仁厚”
+  精度：day；可靠度：inferred；排序日期：1989-09-10
+  摘要：《施启扬宅心仁厚？》开头直接写“9月10日的报上，有一小新闻”。结合《世论新语》1989年专栏语境，这条可保守落为 1989年9月10日，记录李敖借此反讽施启扬只对身边警卫施小恩而不顾黑暗狱政。
+  人物：李敖、施启扬、萧天赞
+  地点：台湾
+  标签：世论新语、施启扬、狱政、报纸、1989
+  视图：写作线、司法线、专栏线
+  作品：世论新语、施启扬宅心仁厚？
+  交叉引用：-
+  来源：世论新语 / 083.施启扬宅心仁厚？ / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/005.世论新语/083.施启扬宅心仁厚？.txt
+  数据：data/timeline-events-shilun-xinyu.json#shilun-xinyu-1989-09-10-criticizes-shi-qiyang-kindness-story
+- 1989年9月14日 | 李敖批评石永贵误造余登发“买棺材抗议”说法
+  精度：day；可靠度：inferred；排序日期：1989-09-14
+  摘要：《石永贵的无知妄作》开头直接写“9月14日，无知妄作的石永贵……”。结合《世论新语》1989年专栏语境，这条可保守落为 1989年9月14日，记录李敖反驳《中央日报》对余登发南京抗议往事的误造。
+  人物：李敖、石永贵、余登发
+  地点：台湾、南京
+  标签：世论新语、石永贵、中央日报、余登发、1989
+  视图：写作线、媒体线、专栏线
+  作品：世论新语、石永贵的无知妄作
+  交叉引用：-
+  来源：世论新语 / 101.石永贵的无知妄作 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/005.世论新语/101.石永贵的无知妄作.txt
+  数据：data/timeline-events-shilun-xinyu.json#shilun-xinyu-1989-09-14-rebukes-shi-yonggui-fabrication
+- 1989年9月16日 | 李敖写《早上的感想》批评华视误引“罗兰夫人”
+  精度：day；可靠度：confirmed；排序日期：1989-09-16
+  摘要：《早上的感想》开头自记“今天是1989年9月16日”，可直接钉住这则《世论新语》短章的写作日期。李敖借华视晨间新闻与武士嵩误引“罗兰夫人”一语，继续批评国民党“只有武化，没有文化”。
+  人物：李敖、武士嵩、赵少康、罗兰夫人
+  地点：台中、台湾
+  标签：世论新语、华视、武士嵩、罗兰夫人、1989
+  视图：写作线、思想线、专栏线
+  作品：世论新语、早上的感想
+  交叉引用：-
+  来源：世论新语 / 099.早上的感想 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/005.世论新语/099.早上的感想.txt
+  数据：data/timeline-events-shilun-xinyu.json#shilun-xinyu-1989-09-16-morning-thoughts
+- 1989年9月19日 | 李敖批评王惕吾借“历史感”为蒋介石官邸护航
+  精度：day；可靠度：inferred；排序日期：1989-09-19
+  摘要：《评王惕吾的〈历史感〉》开头直接写王惕吾的《联合报》“9月19日以《历史感》为题”。结合《世论新语》1989年专栏语境，这条可保守落为 1989年9月19日，记录李敖对保留士林官邸论的反击。
+  人物：李敖、王惕吾、蒋介石
+  地点：台湾、士林官邸
+  标签：世论新语、王惕吾、联合报、士林官邸、蒋介石、1989
+  视图：写作线、思想线、专栏线
+  作品：世论新语、评王惕吾的《历史感》
+  交叉引用：-
+  来源：世论新语 / 109.评王惕吾的《历史感》 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/005.世论新语/109.评王惕吾的《历史感》.txt
+  数据：data/timeline-events-shilun-xinyu.json#shilun-xinyu-1989-09-19-criticizes-wang-tiwu-historical-sense
+- 1989年10月10日 | 李敖写《李登辉文抄公》批评李登辉国庆祝词抄袭林肯
+  精度：day；可靠度：confirmed；排序日期：1989-10-10
+  摘要：《李登辉文抄公》开头直接写“1989年10月10日，李登辉发表‘国庆祝词’”，随即把祝词中的“一半自由、一半奴役”句法与林肯1858年演说对照，指斥李登辉是“特大号的文抄公”。
+  人物：李敖、李登辉、林肯
+  地点：台湾
+  标签：世论新语、李登辉、国庆祝词、林肯、1989
+  视图：写作线、思想线、专栏线
+  作品：世论新语、李登辉文抄公
+  交叉引用：-
+  来源：世论新语 / 168.李登辉文抄公 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/005.世论新语/168.李登辉文抄公.txt
+  数据：data/timeline-events-shilun-xinyu.json#shilun-xinyu-1989-10-10-lee-teng-hui-plagiarism-column
 - 1989年10月18日 | 李敖写《郑南榕研究》自序
   精度：day；可靠度：confirmed；排序日期：1989-10-18
   摘要：《我最难忘的一位烈士》即《郑南榕研究》自序，文末署1989年10月18日。李敖说郑南榕死后半年，他终于能印行纪念之书。
@@ -13633,6 +13880,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/009.我最难忘的一位烈士.txt
   数据：data/timeline-events-third-book.json#book3-1989-10-18-cheng-nan-jung-preface
+- 1989年11月10日 | 李敖写《世论新语》自序
+  精度：day；可靠度：confirmed；排序日期：1989-11-10
+  摘要：《世论新语》自序文末署1989年11月10日。李敖在序中交代，这本书是为段宏俊所办《世界论坛报》专栏结集而成，并把它自定为一种“短促突击”式文体的汇编。
+  人物：李敖、段宏俊
+  地点：台湾
+  标签：世论新语、自序、世界论坛报、段宏俊、1989
+  视图：写作线、作品线、序跋线
+  作品：世论新语、《世论新语》自序、世界论坛报
+  交叉引用：-
+  来源：世论新语 / 《世论新语》自序 / line 17
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/005.世论新语/《世论新语》自序.txt
+  数据：data/timeline-events-shilun-xinyu.json#shilun-xinyu-1989-11-10-preface-written
 - 1989年11月11日 | 李敖收到宋希濂长信
   精度：day；可靠度：confirmed；排序日期：1989-11-11
   摘要：《我最难忘的一个将军》记，李敖在1989年11月11日收到宋希濂回信，宋说明与文史出版社商谈版权、照片安排、书名与两岸和平统一等。
