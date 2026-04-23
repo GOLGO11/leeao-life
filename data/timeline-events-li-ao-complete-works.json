@@ -1,0 +1,782 @@
+[
+  {
+    "id": "complete-works-1967-06-03-sven-dignity-swept-away",
+    "date": "1967-06-03",
+    "displayDate": "1967年6月3日",
+    "datePrecision": "day",
+    "title": "李敖写《从有感于斯文到有感于斯文扫地》",
+    "summary": "《从有感于斯文到有感于斯文扫地》署1967年6月3日，集中谈台湾经营出版业的政治压力、版权悖论与出口书刊困境。",
+    "view": ["写作线", "作品线", "出版线"],
+    "tags": ["李敖全集", "出版", "文星", "1967"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["从有感于斯文到有感于斯文扫地", "李敖全集"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖全集",
+      "chapter": "002.从有感于斯文到有感于斯文扫地",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/002.从有感于斯文到有感于斯文扫地.txt",
+      "line": 17
+    }
+  },
+  {
+    "id": "complete-works-1979-08-16-hair-net-and-law-net",
+    "date": "1979-08-16",
+    "displayDate": "1979年8月16日",
+    "datePrecision": "day",
+    "title": "《中国时报》刊出李敖《发网恢恢·法网恢恢》",
+    "summary": "《发网恢恢·法网恢恢》以1979年8月16日《中国时报》为发表层，借中学女生发禁问题批评教育官僚的管制癖。",
+    "view": ["发表线", "作品线", "时评线"],
+    "tags": ["李敖全集", "中国时报", "发禁", "1979"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["发网恢恢·法网恢恢", "中国时报", "李敖全集"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖全集",
+      "chapter": "003.发网恢恢·法网恢恢",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/003.发网恢恢·法网恢恢.txt",
+      "line": 25
+    }
+  },
+  {
+    "id": "complete-works-1963-09-22-postscript-thirteen-years",
+    "date": "1963-09-22",
+    "displayDate": "1963年9月22日夜",
+    "datePrecision": "day",
+    "title": "李敖为《十三年和十三月》写跋",
+    "summary": "《跋〈十三年和十三月〉》署1963年9月22日夜，回顾该文在读者间引发的大量来信与震动。",
+    "view": ["写作线", "作品线", "跋文线"],
+    "tags": ["李敖全集", "十三年和十三月", "跋", "1963"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["跋《十三年和十三月》", "十三年和十三月", "李敖全集"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖全集",
+      "chapter": "004.跋《十三年和十三月》",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/004.跋《十三年和十三月》.txt",
+      "line": 5
+    }
+  },
+  {
+    "id": "complete-works-1979-dictator-rides-tiger",
+    "date": "1979-01-01",
+    "displayDate": "1979年",
+    "datePrecision": "year",
+    "title": "李敖写《独裁者骑虎难下》",
+    "summary": "《独裁者骑虎难下》署1979年，以邱吉尔关于独裁者骑虎难下的名言为中心，申说独裁政权的困局。",
+    "view": ["写作线", "作品线", "思想线"],
+    "tags": ["李敖全集", "邱吉尔", "独裁", "1979"],
+    "people": ["李敖", "邱吉尔"],
+    "places": ["台湾"],
+    "works": ["独裁者骑虎难下", "李敖全集"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖全集",
+      "chapter": "007.独裁者骑虎难下",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/007.独裁者骑虎难下.txt",
+      "line": 9
+    }
+  },
+  {
+    "id": "complete-works-1969-black-white-no-longer-clear",
+    "date": "1969-01-01",
+    "displayDate": "1969年，金恩被刺周年",
+    "datePrecision": "year",
+    "title": "李敖写《从此黑白不分明！》",
+    "summary": "《从此黑白不分明！》署1969年金恩被刺周年，以美国黑人民权问题为题，讨论种族平等与非暴力运动。",
+    "view": ["写作线", "作品线", "国际线"],
+    "tags": ["李敖全集", "黑人问题", "金恩", "1969"],
+    "people": ["李敖", "马丁·路德·金"],
+    "places": ["台湾", "美国"],
+    "works": ["从此黑白不分明！", "李敖全集"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖全集",
+      "chapter": "009.从此黑白不分明！",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/009.从此黑白不分明！.txt",
+      "line": 21
+    }
+  },
+  {
+    "id": "complete-works-1966-05-02-ntu-new-ten-commandments",
+    "date": "1966-05-02",
+    "displayDate": "1966年5月2日",
+    "datePrecision": "day",
+    "title": "李敖写《台湾大学的新“十诫”》",
+    "summary": "《台湾大学的新“十诫”》署1966年5月2日，以台大学生惩戒规则为靶子，批评校方以记过和纪律管制替代教育。",
+    "view": ["写作线", "作品线", "校园线"],
+    "tags": ["李敖全集", "台湾大学", "十诫", "1966"],
+    "people": ["李敖", "钱思亮"],
+    "places": ["台湾大学", "台湾"],
+    "works": ["台湾大学的新“十诫”", "李敖全集"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖全集",
+      "chapter": "010.台湾大学的新“十诫”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/010.台湾大学的新“十诫”.txt",
+      "line": 197
+    }
+  },
+  {
+    "id": "complete-works-1964-08-20-higher-education-problem",
+    "date": "1964-08-20",
+    "displayDate": "1964年8月20日",
+    "datePrecision": "day",
+    "title": "李敖写《高等教育问题》附录长文",
+    "summary": "《高等教育问题》所收附录长文署1964年8月20日，围绕辅仁大学文学院的人事与制度乱象展开系统揭发。",
+    "view": ["写作线", "作品线", "校园线"],
+    "tags": ["李敖全集", "高等教育", "辅仁大学", "1964"],
+    "people": ["李敖"],
+    "places": ["辅仁大学", "台湾"],
+    "works": ["高等教育问题", "李敖全集"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖全集",
+      "chapter": "011.高等教育问题",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/011.高等教育问题.txt",
+      "line": 455
+    }
+  },
+  {
+    "id": "complete-works-1964-12-01-illegitimate-son-and-lo-kuang",
+    "date": "1964-12-01",
+    "displayDate": "1964年12月1日",
+    "datePrecision": "day",
+    "title": "《文星》刊出《私生子与罗光》编辑室报告",
+    "summary": "《私生子与罗光》以1964年12月1日《文星》第八十六期编辑室报告为锚点，批评罗光一稿两投与宗教争论中的失范。",
+    "view": ["发表线", "作品线", "编辑线"],
+    "tags": ["李敖全集", "文星", "罗光", "1964"],
+    "people": ["李敖", "罗光", "吕逸文"],
+    "places": ["台湾"],
+    "works": ["私生子与罗光", "文星", "李敖全集"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖全集",
+      "chapter": "012.私生子与罗光",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/012.私生子与罗光.txt",
+      "line": 5
+    }
+  },
+  {
+    "id": "complete-works-1968-07-03-how-to-teach-foreigners",
+    "date": "1968-07-03",
+    "displayDate": "1968年7月3日",
+    "datePrecision": "day",
+    "title": "李敖代三姐李琳作《怎样教洋鬼子》",
+    "summary": "《怎样教洋鬼子》署1968年7月3日，并注明代三姐李琳作，属于李敖全集里带有明确代笔说明的作品。",
+    "view": ["写作线", "作品线", "代作线"],
+    "tags": ["李敖全集", "李琳", "代作", "1968"],
+    "people": ["李敖", "李琳"],
+    "places": ["台湾"],
+    "works": ["怎样教洋鬼子", "李敖全集"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖全集",
+      "chapter": "013.怎样教洋鬼子",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/013.怎样教洋鬼子.txt",
+      "line": 49
+    }
+  },
+  {
+    "id": "complete-works-1970-05-10-five-ills-of-intellectuals",
+    "date": "1970-05-10",
+    "displayDate": "1970年5月10日夜五时",
+    "datePrecision": "day",
+    "title": "李敖写《粗谈中国知识分子五病》",
+    "summary": "《粗谈中国知识分子五病》署1970年5月10日夜五时，后又附记说明此文系代丁颖为王晓波《象牙塔外》所写序文。",
+    "view": ["写作线", "作品线", "序跋线"],
+    "tags": ["李敖全集", "知识分子", "丁颖", "王晓波", "1970"],
+    "people": ["李敖", "丁颖", "王晓波"],
+    "places": ["台湾"],
+    "works": ["粗谈中国知识分子五病", "象牙塔外", "李敖全集"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖全集",
+      "chapter": "014.粗谈中国知识分子五病",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/014.粗谈中国知识分子五病.txt",
+      "line": 41
+    }
+  },
+  {
+    "id": "complete-works-1979-10-07-fu-or-not-fu",
+    "date": "1979-10-07",
+    "displayDate": "1979年10月7日",
+    "datePrecision": "day",
+    "title": "李敖写《副不副，副哉？副哉？》",
+    "summary": "《副不副，副哉？副哉？》署1979年10月7日，以梁启超姐妹报与办报态度为核心，借古论今谈副刊与传播。",
+    "view": ["写作线", "作品线", "出版线"],
+    "tags": ["李敖全集", "梁启超", "副刊", "1979"],
+    "people": ["李敖", "梁启超"],
+    "places": ["台湾"],
+    "works": ["副不副，副哉？副哉？", "李敖全集"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖全集",
+      "chapter": "015.副不副，副哉？副哉？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/015.副不副，副哉？副哉？.txt",
+      "line": 99
+    }
+  },
+  {
+    "id": "complete-works-1964-08-01-on-medical-regulations",
+    "date": "1964-08-01",
+    "displayDate": "1964年8月1日",
+    "datePrecision": "day",
+    "title": "《文星》以编辑室报告推出《论医师法规》专题",
+    "summary": "《论医师法规》以《文星》第八十二期编辑室报告、1964年8月1日为专题锚点，延续李敖和吴基福围绕医师法修改的舆论攻防。",
+    "view": ["发表线", "作品线", "编辑线"],
+    "tags": ["李敖全集", "文星", "医师法", "1964"],
+    "people": ["李敖", "吴基福", "林枕客"],
+    "places": ["台湾"],
+    "works": ["论医师法规", "文星", "李敖全集"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖全集",
+      "chapter": "016.论医师法规",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/016.论医师法规.txt",
+      "line": 31
+    }
+  },
+  {
+    "id": "complete-works-1964-10-01-no-longer-handle-wenxing-editing",
+    "date": "1964-10-01",
+    "displayDate": "1964年10月1日",
+    "datePrecision": "day",
+    "title": "李敖声明今后不再过问《文星》编务",
+    "summary": "《论医师法规》末尾收《文星》第八十四期所载“李敖的两句话”，明确表示今后不再过问《文星》杂志编务。",
+    "view": ["出版线", "作品线", "声明线"],
+    "tags": ["李敖全集", "文星", "编务", "1964"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["论医师法规", "文星", "李敖全集"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖全集",
+      "chapter": "016.论医师法规",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/016.论医师法规.txt",
+      "line": 75
+    }
+  },
+  {
+    "id": "complete-works-1979-rather-let-criminal-escape",
+    "date": "1979-01-01",
+    "displayDate": "1979年",
+    "datePrecision": "year",
+    "title": "李敖写《宁肯让犯人逃掉》",
+    "summary": "《宁肯让犯人逃掉》署1979年，以罗文干案和梁启超的话申说宁纵毋枉、不可枉法的法治观。",
+    "view": ["写作线", "作品线", "法治线"],
+    "tags": ["李敖全集", "梁启超", "罗文干", "1979"],
+    "people": ["李敖", "梁启超", "罗文干"],
+    "places": ["台湾"],
+    "works": ["宁肯让犯人逃掉", "李敖全集"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖全集",
+      "chapter": "017.宁肯让犯人逃掉",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/017.宁肯让犯人逃掉.txt",
+      "line": 11
+    }
+  },
+  {
+    "id": "complete-works-1965-08-outline-of-avoiding-trouble",
+    "date": "1965-08-01",
+    "displayDate": "1965年8月",
+    "datePrecision": "month",
+    "title": "《人间世》刊出《避祸学大纲》",
+    "summary": "《避祸学大纲》以《人间世》第七卷第九期、1965年8月为发表锚点，提出李敖自命发明的“避祸学”十五法。",
+    "view": ["发表线", "作品线", "思想线"],
+    "tags": ["李敖全集", "人间世", "避祸学", "1965"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["避祸学大纲", "人间世", "李敖全集"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖全集",
+      "chapter": "018.避祸学大纲",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/018.避祸学大纲.txt",
+      "line": 61
+    }
+  },
+  {
+    "id": "complete-works-1969-08-20-publishing-plan-for-bookworms",
+    "date": "1969-08-20",
+    "displayDate": "1969年8月20日",
+    "datePrecision": "day",
+    "title": "李敖写《一个专为书呆子写的出版企划书》",
+    "summary": "《一个专为书呆子写的出版企划书》署1969年8月20日，把办出版的顺序、分工与用人法则写成极务实的纲要。",
+    "view": ["写作线", "作品线", "出版线"],
+    "tags": ["李敖全集", "出版企划", "书呆子", "1969"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["一个专为书呆子写的出版企划书", "李敖全集"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖全集",
+      "chapter": "019.一个专为书呆子写的出版企划书",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/019.一个专为书呆子写的出版企划书.txt",
+      "line": 67
+    }
+  },
+  {
+    "id": "complete-works-1966-03-09-new-epoch-publishing-origin",
+    "date": "1966-03-09",
+    "displayDate": "1966年3月9日",
+    "datePrecision": "day",
+    "title": "李敖写《新纪元出版公司的缘起》",
+    "summary": "《出版缘起示例》第一则以1966年3月9日为锚点，提出新纪元出版公司的创办理念与“开展新纪元”的出版使命。",
+    "view": ["写作线", "作品线", "出版线"],
+    "tags": ["李敖全集", "新纪元出版公司", "出版缘起", "1966"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["出版缘起示例", "新纪元出版公司的缘起", "李敖全集"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖全集",
+      "chapter": "020.出版缘起示例",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/020.出版缘起示例.txt",
+      "line": 13
+    }
+  },
+  {
+    "id": "complete-works-1966-03-10-letter-about-publishing-origin",
+    "date": "1966-03-10",
+    "displayDate": "1966年3月10日",
+    "datePrecision": "day",
+    "title": "李敖写《关于出版缘起的一封信》",
+    "summary": "《出版缘起示例》第二则署1966年3月10日，是李敖写给鑫生兄、讨论《新纪元出版公司的缘起》修改与气魄的一封信。",
+    "view": ["写作线", "作品线", "书信线"],
+    "tags": ["李敖全集", "出版缘起", "书信", "1966"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["出版缘起示例", "关于出版缘起的一封信", "李敖全集"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖全集",
+      "chapter": "020.出版缘起示例",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/020.出版缘起示例.txt",
+      "line": 31
+    }
+  },
+  {
+    "id": "complete-works-1968-01-11-famous-writers-series-intro",
+    "date": "1968-01-11",
+    "displayDate": "1968年1月11日",
+    "datePrecision": "day",
+    "title": "李敖写《名家文库》小引",
+    "summary": "《出版缘起示例》第三则署1968年1月11日，为《名家文库》说明保存卓越个人与少数精神遗产的出版目的。",
+    "view": ["写作线", "作品线", "序跋线"],
+    "tags": ["李敖全集", "名家文库", "出版缘起", "1968"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["出版缘起示例", "名家文库", "李敖全集"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖全集",
+      "chapter": "020.出版缘起示例",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/020.出版缘起示例.txt",
+      "line": 39
+    }
+  },
+  {
+    "id": "complete-works-1968-03-11-reader-series-afterword",
+    "date": "1968-03-11",
+    "displayDate": "1968年3月11日",
+    "datePrecision": "day",
+    "title": "李敖写《读者文库》书后",
+    "summary": "《出版缘起示例》第四则署1968年3月11日，以“及时买书”的观念为《读者文库》作书后说明。",
+    "view": ["写作线", "作品线", "序跋线"],
+    "tags": ["李敖全集", "读者文库", "出版缘起", "1968"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["出版缘起示例", "读者文库", "李敖全集"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖全集",
+      "chapter": "020.出版缘起示例",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/020.出版缘起示例.txt",
+      "line": 49
+    }
+  },
+  {
+    "id": "complete-works-1970-12-03-yuntian-series-origin",
+    "date": "1970-12-03",
+    "displayDate": "1970年12月3日",
+    "datePrecision": "day",
+    "title": "李敖写《云天文库》缘起",
+    "summary": "《出版缘起示例》第五则署1970年12月3日，说明袖珍本丛书在中国出版业中的角色与《云天文库》的推动意义。",
+    "view": ["写作线", "作品线", "出版线"],
+    "tags": ["李敖全集", "云天文库", "出版缘起", "1970"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["出版缘起示例", "云天文库", "李敖全集"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖全集",
+      "chapter": "020.出版缘起示例",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/020.出版缘起示例.txt",
+      "line": 61
+    }
+  },
+  {
+    "id": "complete-works-1970-12-03-yuntian-series-launch",
+    "date": "1970-12-03",
+    "displayDate": "1970年12月3日",
+    "datePrecision": "day",
+    "title": "李敖写《云天丛刊》发刊词",
+    "summary": "《出版缘起示例》第六则署1970年12月3日，借国际出版比较与读书风气数据，为《云天丛刊》发刊张本。",
+    "view": ["写作线", "作品线", "出版线"],
+    "tags": ["李敖全集", "云天丛刊", "发刊词", "1970"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["出版缘起示例", "云天丛刊", "李敖全集"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖全集",
+      "chapter": "020.出版缘起示例",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/020.出版缘起示例.txt",
+      "line": 71
+    }
+  },
+  {
+    "id": "complete-works-1970-02-cactus-series-origin",
+    "date": "1970-02-01",
+    "displayDate": "1970年2月",
+    "datePrecision": "month",
+    "title": "李敖写《仙人掌丛刊》出版缘起",
+    "summary": "《出版缘起示例》第七则署1970年2月，把《仙人掌丛刊》放进战后求遗书、保存文化命脉的传统里。",
+    "view": ["写作线", "作品线", "出版线"],
+    "tags": ["李敖全集", "仙人掌丛刊", "出版缘起", "1970"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["出版缘起示例", "仙人掌丛刊", "李敖全集"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖全集",
+      "chapter": "020.出版缘起示例",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/020.出版缘起示例.txt",
+      "line": 81
+    }
+  },
+  {
+    "id": "complete-works-1966-03-22-crafty-people-song",
+    "date": "1966-03-22",
+    "displayDate": "1966年3月22日",
+    "datePrecision": "day",
+    "title": "李敖写《刁民歌》",
+    "summary": "《刁民歌》署1966年3月22日，是李敖在《李敖全集》中保留下来的短章之一。",
+    "view": ["写作线", "作品线"],
+    "tags": ["李敖全集", "刁民歌", "1966"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["刁民歌", "李敖全集"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖全集",
+      "chapter": "021.刁民歌",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/021.刁民歌.txt",
+      "line": 11
+    }
+  },
+  {
+    "id": "complete-works-1979-subduing-tiger-different-methods",
+    "date": "1979-01-01",
+    "displayDate": "1979年",
+    "datePrecision": "year",
+    "title": "李敖写《伏虎有术，手法亦有异同》",
+    "summary": "《伏虎有术，手法亦有异同》署1979年，借林森与林森式作风申说和平表象与实际手法之间的差异。",
+    "view": ["写作线", "作品线", "人物线"],
+    "tags": ["李敖全集", "林森", "1979"],
+    "people": ["李敖", "林森"],
+    "places": ["台湾"],
+    "works": ["伏虎有术，手法亦有异同", "李敖全集"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖全集",
+      "chapter": "022.伏虎有术，手法亦有异同",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/022.伏虎有术，手法亦有异同.txt",
+      "line": 13
+    }
+  },
+  {
+    "id": "complete-works-1966-09-22-illegal-ejaculation-discussion",
+    "date": "1966-09-22",
+    "displayDate": "1966年9月22日",
+    "datePrecision": "day",
+    "title": "李敖写《“非法出精”的讨论》",
+    "summary": "《“非法出精”的讨论》署1966年9月22日，以独身、性压抑与“李敖式自淫生活”展开一篇极具个人色彩的文章。",
+    "view": ["写作线", "作品线", "私语线"],
+    "tags": ["李敖全集", "非法出精", "1966"],
+    "people": ["李敖", "方豪"],
+    "places": ["碧潭", "台湾"],
+    "works": ["“非法出精”的讨论", "李敖全集"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖全集",
+      "chapter": "023.“非法出精”的讨论",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/023.“非法出精”的讨论.txt",
+      "line": 47
+    }
+  },
+  {
+    "id": "complete-works-1979-06-15-twenty-four-poems",
+    "date": "1979-06-15",
+    "displayDate": "1979年6月15日",
+    "datePrecision": "day",
+    "title": "李敖发表《李诗廿四首》并自注写作缘起",
+    "summary": "《李诗廿四首》在前言署1979年6月15日，同时说明前二十三首作于1974年八小时之间，最后一首作于1977年十分钟内。",
+    "view": ["写作线", "作品线", "诗作线"],
+    "tags": ["李敖全集", "李诗廿四首", "1979"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["李诗廿四首", "李敖全集"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖全集",
+      "chapter": "024.李诗廿四首",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/024.李诗廿四首.txt",
+      "line": 15
+    }
+  },
+  {
+    "id": "complete-works-1966-01-12-minimum-low-profile-standard",
+    "date": "1966-01-12",
+    "displayDate": "1966年1月12日",
+    "datePrecision": "day",
+    "title": "李敖写《一个最起码又最低调的标准》",
+    "summary": "《一个最起码又最低调的标准》署1966年1月12日，围绕报禁和舆论家对同业受难的最低记录义务提出要求。",
+    "view": ["写作线", "作品线", "出版线"],
+    "tags": ["李敖全集", "报禁", "舆论", "1966"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["一个最起码又最低调的标准", "李敖全集"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖全集",
+      "chapter": "025.一个最起码又最低调的标准",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/025.一个最起码又最低调的标准.txt",
+      "line": 17
+    }
+  },
+  {
+    "id": "complete-works-1967-07-12-letter-for-yin-exit",
+    "date": "1967-07-12",
+    "displayDate": "1967年7月12日",
+    "datePrecision": "day",
+    "title": "李敖写信主张让殷海光出境",
+    "summary": "《我的殷海光》收入李敖1967年7月12日给殷海光的信，主张有关方面应放殷海光离台，认为像殷海光这样的异议人物到了国外，反而会成为“台湾政府有自由的最好人证”。",
+    "view": ["书信线", "交游线", "政治线"],
+    "tags": ["李敖全集", "殷海光", "出境", "书信", "1967"],
+    "people": ["李敖", "殷海光"],
+    "places": ["台湾"],
+    "works": ["我的殷海光", "李敖全集"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖全集",
+      "chapter": "026.我的殷海光",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/026.我的殷海光.txt",
+      "line": 171
+    }
+  },
+  {
+    "id": "complete-works-1955-10-06-night-moon-dream-memory",
+    "date": "1955-10-06",
+    "displayDate": "1955年10月6夜追记",
+    "datePrecision": "day",
+    "title": "李敖追记《觇月梦忆》",
+    "summary": "《觇月梦忆》文末署“1955年10月6夜追记”，借中秋踏月回望父亲于当年四月火葬离世后的哀思，是《李敖全集》中一条很早的私人悼念文字。",
+    "view": ["写作线", "作品线", "家族线"],
+    "tags": ["李敖全集", "觇月梦忆", "父亲", "1955"],
+    "people": ["李敖", "李鼎彝"],
+    "places": ["台中郊外", "台湾"],
+    "works": ["觇月梦忆", "李敖全集"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖全集",
+      "chapter": "027.觇月梦忆",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/027.觇月梦忆.txt",
+      "line": 21
+    }
+  },
+  {
+    "id": "complete-works-1955-12-24-on-cicadas",
+    "date": "1955-12-24",
+    "displayDate": "1955年12月24日",
+    "datePrecision": "day",
+    "title": "李敖写《谈蝉》",
+    "summary": "《谈蝉》署1955年12月24日，以蝉鸣与“宁鸣而死，不默而生”的句子寄托言论不屈之意，属于李敖极早的借物抒怀短文。",
+    "view": ["写作线", "作品线", "思想线"],
+    "tags": ["李敖全集", "谈蝉", "宁鸣而死", "1955"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["谈蝉", "李敖全集"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖全集",
+      "chapter": "028.谈蝉",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/028.谈蝉.txt",
+      "line": 23
+    }
+  },
+  {
+    "id": "complete-works-1955-01-02-real-story",
+    "date": "1955-01-02",
+    "displayDate": "1955年1月2夜",
+    "datePrecision": "day",
+    "title": "李敖写《一个真实的故事》",
+    "summary": "《一个真实的故事》署1955年1月2夜，以旧报中的冻饿童尸新闻与景美少年扶养弟妹的现实并置，呈现李敖早年的社会悲悯。",
+    "view": ["写作线", "作品线", "社会线"],
+    "tags": ["李敖全集", "一个真实的故事", "社会观察", "1955"],
+    "people": ["李敖", "高德源"],
+    "places": ["上海", "景美", "台湾"],
+    "works": ["一个真实的故事", "李敖全集"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖全集",
+      "chapter": "029.一个真实的故事",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/029.一个真实的故事.txt",
+      "line": 31
+    }
+  },
+  {
+    "id": "complete-works-1957-01-on-eden-resignation",
+    "date": "1957-01-01",
+    "displayDate": "1957年1月",
+    "datePrecision": "month",
+    "title": "李敖写《邱吉尔论艾登辞职》",
+    "summary": "《邱吉尔论艾登辞职》署1957年1月，借邱吉尔回忆录中的一夜无眠，评说艾登去职与政治领袖的历史命运。",
+    "view": ["写作线", "作品线", "国际线"],
+    "tags": ["李敖全集", "邱吉尔", "艾登", "1957"],
+    "people": ["李敖", "邱吉尔", "艾登"],
+    "places": ["英国"],
+    "works": ["邱吉尔论艾登辞职", "李敖全集"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖全集",
+      "chapter": "030.邱吉尔论艾登辞职",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/030.邱吉尔论艾登辞职.txt",
+      "line": 11
+    }
+  },
+  {
+    "id": "complete-works-1966-09-24-sun-wukong-and-me",
+    "date": "1966-09-24",
+    "displayDate": "1966年9月24日",
+    "datePrecision": "day",
+    "title": "李敖写《孙悟空和我》",
+    "summary": "《孙悟空和我》署1966年9月24日，以孙悟空被压五行山的故事自比李敖在“告别文坛”前后的处境，把《文化论战丹火录》与“卖牛肉面”姿态连成一条自嘲而尖刻的反击线。",
+    "view": ["写作线", "作品线", "出版线"],
+    "tags": ["李敖全集", "孙悟空和我", "文化论战丹火录", "告别文坛", "1966"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["孙悟空和我", "文化论战丹火录", "李敖全集"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖全集",
+      "chapter": "031.孙悟空和我",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/031.孙悟空和我.txt",
+      "line": 107
+    }
+  },
+  {
+    "id": "complete-works-1965-original-great-wall-still-moving",
+    "date": "1965-01-01",
+    "displayDate": "1965年原作",
+    "datePrecision": "year",
+    "title": "李敖原作《长城还在动呵！》",
+    "summary": "《长城还在动呵！》文末署“1965年原作，1981年订正”，把中国人的长城观念与民族主义迷思连在一起，是《李敖全集》里典型的旧作再修订文本。",
+    "view": ["写作线", "作品线", "思想线"],
+    "tags": ["李敖全集", "长城还在动呵", "原作", "1965"],
+    "people": ["李敖"],
+    "places": ["中国", "台湾"],
+    "works": ["长城还在动呵！", "李敖全集"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖全集",
+      "chapter": "032.长城还在动呵！",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/032.长城还在动呵！.txt",
+      "line": 127
+    }
+  },
+  {
+    "id": "complete-works-1981-revised-great-wall-still-moving",
+    "date": "1981-01-01",
+    "displayDate": "1981年订正",
+    "datePrecision": "year",
+    "title": "李敖订正《长城还在动呵！》",
+    "summary": "《长城还在动呵！》文末同时保留“1981年订正”信息，说明李敖在八十年代初对这篇1965年旧作重新校改并回收进《李敖全集》。",
+    "view": ["修订线", "作品线", "出版线"],
+    "tags": ["李敖全集", "长城还在动呵", "订正", "1981"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["长城还在动呵！", "李敖全集"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖全集",
+      "chapter": "032.长城还在动呵！",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/032.长城还在动呵！.txt",
+      "line": 127
+    }
+  },
+  {
+    "id": "complete-works-1965-new-and-old-things",
+    "date": "1965-01-01",
+    "displayDate": "1965年",
+    "datePrecision": "year",
+    "title": "李敖写《新物与旧物》",
+    "summary": "《新物与旧物》文末署1965年，从林则徐、魏源到林语堂、钱玄同一路梳理中国西化与现代化问题，是《李敖全集》里一篇孙中山与西化主题的长论。",
+    "view": ["写作线", "作品线", "思想线"],
+    "tags": ["李敖全集", "新物与旧物", "西化", "1965"],
+    "people": ["李敖", "林则徐", "魏源", "林语堂", "钱玄同", "孙中山"],
+    "places": ["中国", "台湾"],
+    "works": ["新物与旧物", "李敖全集"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖全集",
+      "chapter": "033.新物与旧物",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/033.新物与旧物.txt",
+      "line": 465
+    }
+  },
+  {
+    "id": "complete-works-1965-original-distorted-revolutionary",
+    "date": "1965-01-01",
+    "displayDate": "1965年原作",
+    "datePrecision": "year",
+    "title": "李敖原作《被歪曲的革命家》",
+    "summary": "《被歪曲的革命家》文末署“1965年原作，1981年订正”，主张恢复孙中山作为深受西方影响的现代革命者真面目。",
+    "view": ["写作线", "作品线", "思想线"],
+    "tags": ["李敖全集", "被歪曲的革命家", "孙中山", "原作", "1965"],
+    "people": ["李敖", "孙中山"],
+    "places": ["中国", "台湾"],
+    "works": ["被歪曲的革命家", "李敖全集"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖全集",
+      "chapter": "034.被歪曲的革命家",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/034.被歪曲的革命家.txt",
+      "line": 195
+    }
+  },
+  {
+    "id": "complete-works-1981-revised-distorted-revolutionary",
+    "date": "1981-01-01",
+    "displayDate": "1981年订正",
+    "datePrecision": "year",
+    "title": "李敖订正《被歪曲的革命家》",
+    "summary": "《被歪曲的革命家》同时保留“1981年订正”信息，显示李敖在八十年代初重新校改这篇1965年孙中山论并收入《李敖全集》。",
+    "view": ["修订线", "作品线", "出版线"],
+    "tags": ["李敖全集", "被歪曲的革命家", "孙中山", "订正", "1981"],
+    "people": ["李敖", "孙中山"],
+    "places": ["台湾"],
+    "works": ["被歪曲的革命家", "李敖全集"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖全集",
+      "chapter": "034.被歪曲的革命家",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/034.被歪曲的革命家.txt",
+      "line": 195
+    }
+  }
+]

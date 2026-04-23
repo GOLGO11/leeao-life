@@ -1,9 +1,9 @@
 李敖交互式年表：当前增量纯文本备份
 生成日期：2026-04-23
-事件总数：1229
-数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json
+事件总数：1268
+数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json
 说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。
-日期精度统计：day=946；year=74；year-range=6；undated-range=1；undated-context=113；season=22；lunar-day=1；year-after=7；month=33；half-year=2；day-range=11；month-after=2；day-after=4；year-context=1；year-about=5；year-end=1
+日期精度统计：day=973；year=83；year-range=6；undated-range=1；undated-context=113；season=22；lunar-day=1；year-after=7；month=36；half-year=2；day-range=11；month-after=2；day-after=4；year-context=1；year-about=5；year-end=1
 
 
 1935
@@ -1631,6 +1631,19 @@
   数据：data/timeline-events-third-book-qiao-evidence.json#book3-1954-around-wang-chongwu-prison-inspection
 
 1955
+- 1955年1月2夜 | 李敖写《一个真实的故事》
+  精度：day；可靠度：confirmed；排序日期：1955-01-02
+  摘要：《一个真实的故事》署1955年1月2夜，以旧报中的冻饿童尸新闻与景美少年扶养弟妹的现实并置，呈现李敖早年的社会悲悯。
+  人物：李敖、高德源
+  地点：上海、景美、台湾
+  标签：李敖全集、一个真实的故事、社会观察、1955
+  视图：写作线、作品线、社会线
+  作品：一个真实的故事、李敖全集
+  交叉引用：-
+  来源：李敖全集 / 029.一个真实的故事 / line 31
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/029.一个真实的故事.txt
+  数据：data/timeline-events-li-ao-complete-works.json#complete-works-1955-01-02-real-story
 - 1955年4月27日 | 父亲去世，法律专修科同学捐款被李敖拒收
   精度：day；可靠度：confirmed；排序日期：1955-04-27
   摘要：父亲李鼎彝于1955年4月27日去世，李敖赶回台中；法律专修科全班同学捐款送他，陆啸钊预言李敖不会收，后来果然被拒。
@@ -1670,6 +1683,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/005.大寒纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1955-06-27-withdraws-from-ntu-law
+- 1955年10月6夜追记 | 李敖追记《觇月梦忆》
+  精度：day；可靠度：confirmed；排序日期：1955-10-06
+  摘要：《觇月梦忆》文末署“1955年10月6夜追记”，借中秋踏月回望父亲于当年四月火葬离世后的哀思，是《李敖全集》中一条很早的私人悼念文字。
+  人物：李敖、李鼎彝
+  地点：台中郊外、台湾
+  标签：李敖全集、觇月梦忆、父亲、1955
+  视图：写作线、作品线、家族线
+  作品：觇月梦忆、李敖全集
+  交叉引用：-
+  来源：李敖全集 / 027.觇月梦忆 / line 21
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/027.觇月梦忆.txt
+  数据：data/timeline-events-li-ao-complete-works.json#complete-works-1955-10-06-night-moon-dream-memory
+- 1955年12月24日 | 李敖写《谈蝉》
+  精度：day；可靠度：confirmed；排序日期：1955-12-24
+  摘要：《谈蝉》署1955年12月24日，以蝉鸣与“宁鸣而死，不默而生”的句子寄托言论不屈之意，属于李敖极早的借物抒怀短文。
+  人物：李敖
+  地点：台湾
+  标签：李敖全集、谈蝉、宁鸣而死、1955
+  视图：写作线、作品线、思想线
+  作品：谈蝉、李敖全集
+  交叉引用：-
+  来源：李敖全集 / 028.谈蝉 / line 23
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/028.谈蝉.txt
+  数据：data/timeline-events-li-ao-complete-works.json#complete-works-1955-12-24-on-cicadas
 - 1955年 | 进入台大历史系
   精度：year；可靠度：broad；排序日期：1955-09-01
   摘要：李敖休学后重新考试进入台大历史系，自称到历史系后安定下来，除考试外自由读书、游山玩水、喝酒吵架。
@@ -1908,6 +1947,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/006.提升文星的一个回忆.txt
   数据：data/timeline-events-first-book-broad.json#1957-wenxing-magazine-founded
+- 1957年1月 | 李敖写《邱吉尔论艾登辞职》
+  精度：month；可靠度：confirmed；排序日期：1957-01-01
+  摘要：《邱吉尔论艾登辞职》署1957年1月，借邱吉尔回忆录中的一夜无眠，评说艾登去职与政治领袖的历史命运。
+  人物：李敖、邱吉尔、艾登
+  地点：英国
+  标签：李敖全集、邱吉尔、艾登、1957
+  视图：写作线、作品线、国际线
+  作品：邱吉尔论艾登辞职、李敖全集
+  交叉引用：-
+  来源：李敖全集 / 030.邱吉尔论艾登辞职 / line 11
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/030.邱吉尔论艾登辞职.txt
+  数据：data/timeline-events-li-ao-complete-works.json#complete-works-1957-01-on-eden-resignation
 
 1958
 - 1958年5月13日 | 日记隐记研究孟大中离书
@@ -3844,6 +3896,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/018.修改《医师法》与废止中医.txt
   数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1963-09-12-medical-law-postscript-records-counterattacks
+- 1963年9月22日夜 | 李敖为《十三年和十三月》写跋
+  精度：day；可靠度：confirmed；排序日期：1963-09-22
+  摘要：《跋〈十三年和十三月〉》署1963年9月22日夜，回顾该文在读者间引发的大量来信与震动。
+  人物：李敖
+  地点：台湾
+  标签：李敖全集、十三年和十三月、跋、1963
+  视图：写作线、作品线、跋文线
+  作品：跋《十三年和十三月》、十三年和十三月、李敖全集
+  交叉引用：-
+  来源：李敖全集 / 004.跋《十三年和十三月》 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/004.跋《十三年和十三月》.txt
+  数据：data/timeline-events-li-ao-complete-works.json#complete-works-1963-09-22-postscript-thirteen-years
 - 1963年9月25日 | 李敖第一本书《传统下的独白》出版
   精度：day；可靠度：confirmed；排序日期：1963-09-25
   摘要：《星火纪》称1963年9月25日是李敖的大日子，这一天文星出版他的第一本书《传统下的独白》，其写作风格和骂人名声由此确立。
@@ -4080,6 +4145,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/010.根株纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1964-07-10-xu-fuguan-little-mad-dog-article
+- 1964年8月1日 | 《文星》以编辑室报告推出《论医师法规》专题
+  精度：day；可靠度：confirmed；排序日期：1964-08-01
+  摘要：《论医师法规》以《文星》第八十二期编辑室报告、1964年8月1日为专题锚点，延续李敖和吴基福围绕医师法修改的舆论攻防。
+  人物：李敖、吴基福、林枕客
+  地点：台湾
+  标签：李敖全集、文星、医师法、1964
+  视图：发表线、作品线、编辑线
+  作品：论医师法规、文星、李敖全集
+  交叉引用：-
+  来源：李敖全集 / 016.论医师法规 / line 31
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/016.论医师法规.txt
+  数据：data/timeline-events-li-ao-complete-works.json#complete-works-1964-08-01-on-medical-regulations
 - 1964年8月4日 | 李敖写信向 H 谈“真正的男人”
   精度：day；可靠度：confirmed；排序日期：1964-08-04
   摘要：《白露纪》引1964年8月4日信，李敖向 H 解释什么是“真正的男人”，以男人的成熟、人格和性格来谈两人关系，也留下他文星时期情感表达的早期证据。
@@ -4093,6 +4171,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1964-08-04-letter-to-h-real-man
+- 1964年8月20日 | 李敖写《高等教育问题》附录长文
+  精度：day；可靠度：confirmed；排序日期：1964-08-20
+  摘要：《高等教育问题》所收附录长文署1964年8月20日，围绕辅仁大学文学院的人事与制度乱象展开系统揭发。
+  人物：李敖
+  地点：辅仁大学、台湾
+  标签：李敖全集、高等教育、辅仁大学、1964
+  视图：写作线、作品线、校园线
+  作品：高等教育问题、李敖全集
+  交叉引用：-
+  来源：李敖全集 / 011.高等教育问题 / line 455
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/011.高等教育问题.txt
+  数据：data/timeline-events-li-ao-complete-works.json#complete-works-1964-08-20-higher-education-problem
 - 1964年9月1日 | 《文星》第83期刊出内政部来函引发李敖不满
   精度：day；可靠度：confirmed；排序日期：1964-09-01
   摘要：李敖写道，1964年9月1日第83期《文星》登出内政部要求“嗣后注意改进”的来函，他因此极为恼怒，并在后续札记和声明中表达不满。
@@ -4223,6 +4314,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1964-09-30-letter-to-h-coffin-mahjong-and-return-trip
+- 1964年10月1日 | 李敖声明今后不再过问《文星》编务
+  精度：day；可靠度：confirmed；排序日期：1964-10-01
+  摘要：《论医师法规》末尾收《文星》第八十四期所载“李敖的两句话”，明确表示今后不再过问《文星》杂志编务。
+  人物：李敖
+  地点：台湾
+  标签：李敖全集、文星、编务、1964
+  视图：出版线、作品线、声明线
+  作品：论医师法规、文星、李敖全集
+  交叉引用：-
+  来源：李敖全集 / 016.论医师法规 / line 75
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/016.论医师法规.txt
+  数据：data/timeline-events-li-ao-complete-works.json#complete-works-1964-10-01-no-longer-handle-wenxing-editing
 - 1964年10月3日中午 | 李焕在新台北饭店请李敖吃饭
   精度：day；可靠度：confirmed；排序日期：1964-10-03
   摘要：《星火纪》写，1964年10月3日中午，李焕在台北新台北饭店请李敖吃饭，旁敲侧击询问他与《台湾自救运动宣言》的关系；李敖以玩笑方式否认代笔或润饰。
@@ -4236,6 +4340,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/008.星火纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1964-10-03-li-huan-lunch
+- 1964年12月1日 | 《文星》刊出《私生子与罗光》编辑室报告
+  精度：day；可靠度：confirmed；排序日期：1964-12-01
+  摘要：《私生子与罗光》以1964年12月1日《文星》第八十六期编辑室报告为锚点，批评罗光一稿两投与宗教争论中的失范。
+  人物：李敖、罗光、吕逸文
+  地点：台湾
+  标签：李敖全集、文星、罗光、1964
+  视图：发表线、作品线、编辑线
+  作品：私生子与罗光、文星、李敖全集
+  交叉引用：-
+  来源：李敖全集 / 012.私生子与罗光 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/012.私生子与罗光.txt
+  数据：data/timeline-events-li-ao-complete-works.json#complete-works-1964-12-01-illegitimate-son-and-lo-kuang
 - 1964年春天 | 李敖与文星附近上海咖啡馆女老板发生一夜关系
   精度：season；可靠度：confirmed；排序日期：1964-04-30
   摘要：《白露纪》写，1964年春天李敖常到《文星》附近一家咖啡馆，结识一位来自上海的年轻女老板；一晚她随李敖搭车到安东街二三一号三楼，发生一次关系，离去时留下照片和近似告别的话。
@@ -4602,6 +4719,45 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/005.“北土非吾愿，东林怀我师”.txt
   数据：data/timeline-events-first-book-broad.json#1965-wenxing-banned
+- 1965年 | 李敖写《新物与旧物》
+  精度：year；可靠度：confirmed；排序日期：1965-01-01
+  摘要：《新物与旧物》文末署1965年，从林则徐、魏源到林语堂、钱玄同一路梳理中国西化与现代化问题，是《李敖全集》里一篇孙中山与西化主题的长论。
+  人物：李敖、林则徐、魏源、林语堂、钱玄同、孙中山
+  地点：中国、台湾
+  标签：李敖全集、新物与旧物、西化、1965
+  视图：写作线、作品线、思想线
+  作品：新物与旧物、李敖全集
+  交叉引用：-
+  来源：李敖全集 / 033.新物与旧物 / line 465
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/033.新物与旧物.txt
+  数据：data/timeline-events-li-ao-complete-works.json#complete-works-1965-new-and-old-things
+- 1965年原作 | 李敖原作《长城还在动呵！》
+  精度：year；可靠度：confirmed；排序日期：1965-01-01
+  摘要：《长城还在动呵！》文末署“1965年原作，1981年订正”，把中国人的长城观念与民族主义迷思连在一起，是《李敖全集》里典型的旧作再修订文本。
+  人物：李敖
+  地点：中国、台湾
+  标签：李敖全集、长城还在动呵、原作、1965
+  视图：写作线、作品线、思想线
+  作品：长城还在动呵！、李敖全集
+  交叉引用：-
+  来源：李敖全集 / 032.长城还在动呵！ / line 127
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/032.长城还在动呵！.txt
+  数据：data/timeline-events-li-ao-complete-works.json#complete-works-1965-original-great-wall-still-moving
+- 1965年原作 | 李敖原作《被歪曲的革命家》
+  精度：year；可靠度：confirmed；排序日期：1965-01-01
+  摘要：《被歪曲的革命家》文末署“1965年原作，1981年订正”，主张恢复孙中山作为深受西方影响的现代革命者真面目。
+  人物：李敖、孙中山
+  地点：中国、台湾
+  标签：李敖全集、被歪曲的革命家、孙中山、原作、1965
+  视图：写作线、作品线、思想线
+  作品：被歪曲的革命家、李敖全集
+  交叉引用：-
+  来源：李敖全集 / 034.被歪曲的革命家 / line 195
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/034.被歪曲的革命家.txt
+  数据：data/timeline-events-li-ao-complete-works.json#complete-works-1965-original-distorted-revolutionary
 - 1965年5月27日-6月8日 | 香港书展期间《文星》形成强势局面
   精度：day-range；可靠度：confirmed；排序日期：1965-05-27
   摘要：李敖回顾以杂志配合书店运作的计划，称1965年5月27日到6月8日香港书展，《文星》已成为通吃局面，使国民党宣传出版黯然失色。
@@ -4615,6 +4771,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/011.为《文星》招魂.txt
   数据：data/timeline-events-second-book.json#book2-1965-05-27-hongkong-book-fair
+- 1965年8月 | 《人间世》刊出《避祸学大纲》
+  精度：month；可靠度：confirmed；排序日期：1965-08-01
+  摘要：《避祸学大纲》以《人间世》第七卷第九期、1965年8月为发表锚点，提出李敖自命发明的“避祸学”十五法。
+  人物：李敖
+  地点：台湾
+  标签：李敖全集、人间世、避祸学、1965
+  视图：发表线、作品线、思想线
+  作品：避祸学大纲、人间世、李敖全集
+  交叉引用：-
+  来源：李敖全集 / 018.避祸学大纲 / line 61
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/018.避祸学大纲.txt
+  数据：data/timeline-events-li-ao-complete-works.json#complete-works-1965-08-outline-of-avoiding-trouble
 - 1965年冬天未过 | 国民党封闭《文星》杂志
   精度：season；可靠度：broad；排序日期：1965-12-01
   摘要：《记文星事件》回顾，1965年冬天未过，国民党因李敖要求党部退出司法界和军队的文字，先非法搜索、威胁印刷厂并没收稿件，最后封闭《文星》。
@@ -4682,6 +4851,19 @@
   数据：data/timeline-events-seventh-book.json#book7-1965-moves-into-taida-yiyuan-apartment-as-life-improves
 
 1966
+- 1966年1月12日 | 李敖写《一个最起码又最低调的标准》
+  精度：day；可靠度：confirmed；排序日期：1966-01-12
+  摘要：《一个最起码又最低调的标准》署1966年1月12日，围绕报禁和舆论家对同业受难的最低记录义务提出要求。
+  人物：李敖
+  地点：台湾
+  标签：李敖全集、报禁、舆论、1966
+  视图：写作线、作品线、出版线
+  作品：一个最起码又最低调的标准、李敖全集
+  交叉引用：-
+  来源：李敖全集 / 025.一个最起码又最低调的标准 / line 17
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/025.一个最起码又最低调的标准.txt
+  数据：data/timeline-events-li-ao-complete-works.json#complete-works-1966-01-12-minimum-low-profile-standard
 - 二月八日 | 李敖公布潘光宇致袁贻瑾揭发学人归国讲学机票回扣的信
   精度：day；可靠度：inferred；排序日期：1966-02-08
   摘要：在《王世杰“蒙混舞弊”的铁证》中，李敖说明自己“握有影印本，现公布于后”，并引出远东旅行社潘光宇致中研院总干事袁贻瑾的信。信中揭发暑期学人归国讲学机票款被要求扣回佣百分之三点五。结合上下文“现在是民国五十五年”与信末仅署“二月八日”，此处将该信日期暂挂为 1966-02-08。
@@ -4786,6 +4968,45 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/002.传统下的再白/007.日记八则.txt
   数据：data/timeline-events-traditional-monologue-sequel.json#traditional-monologue-sequel-1966-02-22-diary-lin-sen-admonition
+- 1966年3月9日 | 李敖写《新纪元出版公司的缘起》
+  精度：day；可靠度：confirmed；排序日期：1966-03-09
+  摘要：《出版缘起示例》第一则以1966年3月9日为锚点，提出新纪元出版公司的创办理念与“开展新纪元”的出版使命。
+  人物：李敖
+  地点：台湾
+  标签：李敖全集、新纪元出版公司、出版缘起、1966
+  视图：写作线、作品线、出版线
+  作品：出版缘起示例、新纪元出版公司的缘起、李敖全集
+  交叉引用：-
+  来源：李敖全集 / 020.出版缘起示例 / line 13
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/020.出版缘起示例.txt
+  数据：data/timeline-events-li-ao-complete-works.json#complete-works-1966-03-09-new-epoch-publishing-origin
+- 1966年3月10日 | 李敖写《关于出版缘起的一封信》
+  精度：day；可靠度：confirmed；排序日期：1966-03-10
+  摘要：《出版缘起示例》第二则署1966年3月10日，是李敖写给鑫生兄、讨论《新纪元出版公司的缘起》修改与气魄的一封信。
+  人物：李敖
+  地点：台湾
+  标签：李敖全集、出版缘起、书信、1966
+  视图：写作线、作品线、书信线
+  作品：出版缘起示例、关于出版缘起的一封信、李敖全集
+  交叉引用：-
+  来源：李敖全集 / 020.出版缘起示例 / line 31
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/020.出版缘起示例.txt
+  数据：data/timeline-events-li-ao-complete-works.json#complete-works-1966-03-10-letter-about-publishing-origin
+- 1966年3月22日 | 李敖写《刁民歌》
+  精度：day；可靠度：confirmed；排序日期：1966-03-22
+  摘要：《刁民歌》署1966年3月22日，是李敖在《李敖全集》中保留下来的短章之一。
+  人物：李敖
+  地点：台湾
+  标签：李敖全集、刁民歌、1966
+  视图：写作线、作品线
+  作品：刁民歌、李敖全集
+  交叉引用：-
+  来源：李敖全集 / 021.刁民歌 / line 11
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/021.刁民歌.txt
+  数据：data/timeline-events-li-ao-complete-works.json#complete-works-1966-03-22-crafty-people-song
 - 1966年4月2日 | 李敖与李声庭在博爱路美而廉吃饭
   精度：day；可靠度：confirmed；排序日期：1966-04-02
   摘要：《日记八则》第六则署1966年4月2日，记李声庭来信约会面，李敖当晚请其在博爱路美而廉吃饭，并听其谈东海大学内部受“老疯狗”挑衅分化的情形。
@@ -4851,6 +5072,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/008.我怎样给王尚义擦屁股.txt
   数据：data/timeline-events-second-book.json#book2-1966-04-25-wang-shangyi-essay
+- 1966年5月2日 | 李敖写《台湾大学的新“十诫”》
+  精度：day；可靠度：confirmed；排序日期：1966-05-02
+  摘要：《台湾大学的新“十诫”》署1966年5月2日，以台大学生惩戒规则为靶子，批评校方以记过和纪律管制替代教育。
+  人物：李敖、钱思亮
+  地点：台湾大学、台湾
+  标签：李敖全集、台湾大学、十诫、1966
+  视图：写作线、作品线、校园线
+  作品：台湾大学的新“十诫”、李敖全集
+  交叉引用：-
+  来源：李敖全集 / 010.台湾大学的新“十诫” / line 197
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/010.台湾大学的新“十诫”.txt
+  数据：data/timeline-events-li-ao-complete-works.json#complete-works-1966-05-02-ntu-new-ten-commandments
 - 1966年5月16日，在雨中 | 李敖在雨中写下《我的信仰》
   精度：day；可靠度：confirmed；排序日期：1966-05-16
   摘要：《日记八则》第七则署“1966年5月16日，在雨中”。李敖在此系统写下自己的“强者的哲学”、智慧与狠心肠的自我要求，是其思想自白中的一个鲜明节点。
@@ -5007,6 +5241,19 @@
   补充来源：李敖文存二集 / 012.牛肉面老板的七封信 / line 139；说明：同日夜深复青木
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/005.李敖文存二集/012.牛肉面老板的七封信.txt
   数据：data/timeline-events-wencun-two.json#wencun-two-1966-09-13-two-letters-on-travel-and-monk-life
+- 1966年9月22日 | 李敖写《“非法出精”的讨论》
+  精度：day；可靠度：confirmed；排序日期：1966-09-22
+  摘要：《“非法出精”的讨论》署1966年9月22日，以独身、性压抑与“李敖式自淫生活”展开一篇极具个人色彩的文章。
+  人物：李敖、方豪
+  地点：碧潭、台湾
+  标签：李敖全集、非法出精、1966
+  视图：写作线、作品线、私语线
+  作品：“非法出精”的讨论、李敖全集
+  交叉引用：-
+  来源：李敖全集 / 023.“非法出精”的讨论 / line 47
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/023.“非法出精”的讨论.txt
+  数据：data/timeline-events-li-ao-complete-works.json#complete-works-1966-09-22-illegal-ejaculation-discussion
 - 1966年9月22日 | 李敖写第二批《谈女人》语录
   精度：day；可靠度：inferred；排序日期：1966-09-22
   摘要：《李敖先生谈女人（语录）》后半多则条目后标注“9月22日”，末尾总注“以上1966年作”。据此可把这组关于眼泪、订婚、衣饰、张默君与比阔的语录，归到1966年9月22日这一批次。
@@ -5020,6 +5267,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/002.传统下的再白/003.李敖先生谈女人（语录）.txt
   数据：data/timeline-events-traditional-monologue-sequel.json#traditional-monologue-sequel-1966-09-22-women-aphorisms-second-batch
+- 1966年9月24日 | 李敖写《孙悟空和我》
+  精度：day；可靠度：confirmed；排序日期：1966-09-24
+  摘要：《孙悟空和我》署1966年9月24日，以孙悟空被压五行山的故事自比李敖在“告别文坛”前后的处境，把《文化论战丹火录》与“卖牛肉面”姿态连成一条自嘲而尖刻的反击线。
+  人物：李敖
+  地点：台湾
+  标签：李敖全集、孙悟空和我、文化论战丹火录、告别文坛、1966
+  视图：写作线、作品线、出版线
+  作品：孙悟空和我、文化论战丹火录、李敖全集
+  交叉引用：-
+  来源：李敖全集 / 031.孙悟空和我 / line 107
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/031.孙悟空和我.txt
+  数据：data/timeline-events-li-ao-complete-works.json#complete-works-1966-09-24-sun-wukong-and-me
 - 1966年9月25日 | 李敖写《纠正于右任幻想出来的一段革命史》
   精度：day；可靠度：confirmed；排序日期：1966-09-25
   摘要：《纠正于右任幻想出来的一段革命史》文末署1966年9月25日，显示《李敖文存》中也收入了六十年代已成形的史证型文字。
@@ -5425,6 +5685,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/354.水肥系.txt
   数据：data/timeline-events-seventh-book.json#book7-1967-05-12-jokes-with-yin-haiguang-about-water-fertilizer-department
+- 1967年6月3日 | 李敖写《从有感于斯文到有感于斯文扫地》
+  精度：day；可靠度：confirmed；排序日期：1967-06-03
+  摘要：《从有感于斯文到有感于斯文扫地》署1967年6月3日，集中谈台湾经营出版业的政治压力、版权悖论与出口书刊困境。
+  人物：李敖
+  地点：台湾
+  标签：李敖全集、出版、文星、1967
+  视图：写作线、作品线、出版线
+  作品：从有感于斯文到有感于斯文扫地、李敖全集
+  交叉引用：-
+  来源：李敖全集 / 002.从有感于斯文到有感于斯文扫地 / line 17
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/002.从有感于斯文到有感于斯文扫地.txt
+  数据：data/timeline-events-li-ao-complete-works.json#complete-works-1967-06-03-sven-dignity-swept-away
+- 1967年7月12日 | 李敖写信主张让殷海光出境
+  精度：day；可靠度：confirmed；排序日期：1967-07-12
+  摘要：《我的殷海光》收入李敖1967年7月12日给殷海光的信，主张有关方面应放殷海光离台，认为像殷海光这样的异议人物到了国外，反而会成为“台湾政府有自由的最好人证”。
+  人物：李敖、殷海光
+  地点：台湾
+  标签：李敖全集、殷海光、出境、书信、1967
+  视图：书信线、交游线、政治线
+  作品：我的殷海光、李敖全集
+  交叉引用：-
+  来源：李敖全集 / 026.我的殷海光 / line 171
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/026.我的殷海光.txt
+  数据：data/timeline-events-li-ao-complete-works.json#complete-works-1967-07-12-letter-for-yin-exit
 - 1967年8月24日 | 李敖三个月后再写信给“小Y”
   精度：day；可靠度：confirmed；排序日期：1967-08-24
   摘要：《白露纪》写，李敖与“小Y”亲热过度后发生隔阂，三个月后于1967年8月24日写信试投，质问她是否仍沉醉于情欲二分法，并署“狂童之狂也者”。
@@ -5544,6 +5830,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/004.李敖文存/017.《左舜生选集》序.txt
   数据：data/timeline-events-wencun.json#wencun-1968-01-10-zuo-shunsheng-selected-works-preface
+- 1968年1月11日 | 李敖写《名家文库》小引
+  精度：day；可靠度：confirmed；排序日期：1968-01-11
+  摘要：《出版缘起示例》第三则署1968年1月11日，为《名家文库》说明保存卓越个人与少数精神遗产的出版目的。
+  人物：李敖
+  地点：台湾
+  标签：李敖全集、名家文库、出版缘起、1968
+  视图：写作线、作品线、序跋线
+  作品：出版缘起示例、名家文库、李敖全集
+  交叉引用：-
+  来源：李敖全集 / 020.出版缘起示例 / line 39
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/020.出版缘起示例.txt
+  数据：data/timeline-events-li-ao-complete-works.json#complete-works-1968-01-11-famous-writers-series-intro
 - 1968年1月25日下午 | 警总纠合各路人马突击搜查《文星》资料室
   精度：day；可靠度：confirmed；排序日期：1968-01-25
   摘要：李敖回忆，1968年1月25日下午警总联合多方人马突击搜查《文星》资料室；他当时正在隔壁家中，开门见到便衣与警察后立刻明白《文星》已到大祸临头阶段。
@@ -5609,6 +5908,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/012.记文星事件.txt
   数据：data/timeline-events-second-book-broad.json#book2-broad-1968-03-08-writes-wenxing-event
+- 1968年3月11日 | 李敖写《读者文库》书后
+  精度：day；可靠度：confirmed；排序日期：1968-03-11
+  摘要：《出版缘起示例》第四则署1968年3月11日，以“及时买书”的观念为《读者文库》作书后说明。
+  人物：李敖
+  地点：台湾
+  标签：李敖全集、读者文库、出版缘起、1968
+  视图：写作线、作品线、序跋线
+  作品：出版缘起示例、读者文库、李敖全集
+  交叉引用：-
+  来源：李敖全集 / 020.出版缘起示例 / line 49
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/020.出版缘起示例.txt
+  数据：data/timeline-events-li-ao-complete-works.json#complete-works-1968-03-11-reader-series-afterword
 - 1968年3月17日 | 《纽约时报》刊出文星书店被迫关门报道
   精度：day；可靠度：confirmed；排序日期：1968-03-17
   摘要：安瑞甫根据李敖说明，于1968年3月17日《纽约时报》星期天版第七页刊出关于文星书店受治安人员压力被迫关门的报道。
@@ -5700,6 +6012,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/003.独白下的传统/014.从高玉树为儿子“冥婚”看中国两面文化.txt
   数据：data/timeline-events-monologue-under-tradition.json#monologue-under-tradition-1968-06-13-ghao-yu-shu-ghost-marriage-culture-two-faces
+- 1968年7月3日 | 李敖代三姐李琳作《怎样教洋鬼子》
+  精度：day；可靠度：confirmed；排序日期：1968-07-03
+  摘要：《怎样教洋鬼子》署1968年7月3日，并注明代三姐李琳作，属于李敖全集里带有明确代笔说明的作品。
+  人物：李敖、李琳
+  地点：台湾
+  标签：李敖全集、李琳、代作、1968
+  视图：写作线、作品线、代作线
+  作品：怎样教洋鬼子、李敖全集
+  交叉引用：-
+  来源：李敖全集 / 013.怎样教洋鬼子 / line 49
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/013.怎样教洋鬼子.txt
+  数据：data/timeline-events-li-ao-complete-works.json#complete-works-1968-07-03-how-to-teach-foreigners
 - 1968年10月25日 | 《台湾青年》刊出泰源监狱政治犯名单
   精度：day；可靠度：confirmed；排序日期：1968-10-25
   摘要：李敖在被讯问时看到《台湾青年》第一二〇期，其1968年10月25日刊出的“台湾泰源监狱政治犯名单”令他恍然：原来自己提供的名单已被台独机关刊物使用。
@@ -5923,6 +6248,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/005.李敖文存二集/002.给杨贵妃的一封信.txt
   数据：data/timeline-events-wencun-two.json#wencun-two-1969-08-09-letter-to-yang-guifei-published
+- 1969年8月20日 | 李敖写《一个专为书呆子写的出版企划书》
+  精度：day；可靠度：confirmed；排序日期：1969-08-20
+  摘要：《一个专为书呆子写的出版企划书》署1969年8月20日，把办出版的顺序、分工与用人法则写成极务实的纲要。
+  人物：李敖
+  地点：台湾
+  标签：李敖全集、出版企划、书呆子、1969
+  视图：写作线、作品线、出版线
+  作品：一个专为书呆子写的出版企划书、李敖全集
+  交叉引用：-
+  来源：李敖全集 / 019.一个专为书呆子写的出版企划书 / line 67
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/019.一个专为书呆子写的出版企划书.txt
+  数据：data/timeline-events-li-ao-complete-works.json#complete-works-1969-08-20-publishing-plan-for-bookworms
 - 1969年9月5日 | 艾玫拿柏杨答辩书给李敖看
   精度：day；可靠度：confirmed；排序日期：1969-09-05
   摘要：《东郭纪》写，1969年9月5日艾玫特别找到李敖，拿出柏杨答辩书请他表示意见；李敖注意到其中“民主建设学院”可查证的活扣。
@@ -5988,6 +6326,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/011.殷鉴纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1969-09-21-skips-yin-memorial-service
+- 1969年，金恩被刺周年 | 李敖写《从此黑白不分明！》
+  精度：year；可靠度：confirmed；排序日期：1969-01-01
+  摘要：《从此黑白不分明！》署1969年金恩被刺周年，以美国黑人民权问题为题，讨论种族平等与非暴力运动。
+  人物：李敖、马丁·路德·金
+  地点：台湾、美国
+  标签：李敖全集、黑人问题、金恩、1969
+  视图：写作线、作品线、国际线
+  作品：从此黑白不分明！、李敖全集
+  交叉引用：-
+  来源：李敖全集 / 009.从此黑白不分明！ / line 21
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/009.从此黑白不分明！.txt
+  数据：data/timeline-events-li-ao-complete-works.json#complete-works-1969-black-white-no-longer-clear
 - 1969年 | 李敖担任刘家昌影片《四男五女》正式制片
   精度：year；可靠度：confirmed；排序日期：1969-12-31
   摘要：《寒武纪》写，1969年，刘家昌拍《四男五女》，李敖担任正式制片；电影现场的饭局和告示事件，又牵出他与李翰祥的公开往来。
@@ -6133,6 +6484,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/013.软禁（1970-1971·35到36岁）.txt
   数据：data/timeline-events-fourth-book.json#book4-1970-05-01-fake-taxi-settlement-over-crash
+- 1970年5月10日夜五时 | 李敖写《粗谈中国知识分子五病》
+  精度：day；可靠度：confirmed；排序日期：1970-05-10
+  摘要：《粗谈中国知识分子五病》署1970年5月10日夜五时，后又附记说明此文系代丁颖为王晓波《象牙塔外》所写序文。
+  人物：李敖、丁颖、王晓波
+  地点：台湾
+  标签：李敖全集、知识分子、丁颖、王晓波、1970
+  视图：写作线、作品线、序跋线
+  作品：粗谈中国知识分子五病、象牙塔外、李敖全集
+  交叉引用：-
+  来源：李敖全集 / 014.粗谈中国知识分子五病 / line 41
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/014.粗谈中国知识分子五病.txt
+  数据：data/timeline-events-li-ao-complete-works.json#complete-works-1970-05-10-five-ills-of-intellectuals
 - 1970年7月18日 | 李敖在软禁监控中展开日月潭“捉迷藏”
   精度：day；可靠度：confirmed；排序日期：1970-07-18
   摘要：《寒武纪》写，李敖1970年被软禁后，7月18日发现监控车辆增多，遂故意带着监控者一路出门到日月潭，形成他称为“捉迷藏”的软禁日常。
@@ -6185,6 +6549,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/017.刘辰旦——患难见真情的朋友.txt
   数据：data/timeline-events-second-book.json#book2-1970-10-12-tainan-usis-bombing
+- 1970年12月3日 | 李敖写《云天文库》缘起
+  精度：day；可靠度：confirmed；排序日期：1970-12-03
+  摘要：《出版缘起示例》第五则署1970年12月3日，说明袖珍本丛书在中国出版业中的角色与《云天文库》的推动意义。
+  人物：李敖
+  地点：台湾
+  标签：李敖全集、云天文库、出版缘起、1970
+  视图：写作线、作品线、出版线
+  作品：出版缘起示例、云天文库、李敖全集
+  交叉引用：-
+  来源：李敖全集 / 020.出版缘起示例 / line 61
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/020.出版缘起示例.txt
+  数据：data/timeline-events-li-ao-complete-works.json#complete-works-1970-12-03-yuntian-series-origin
+- 1970年12月3日 | 李敖写《云天丛刊》发刊词
+  精度：day；可靠度：confirmed；排序日期：1970-12-03
+  摘要：《出版缘起示例》第六则署1970年12月3日，借国际出版比较与读书风气数据，为《云天丛刊》发刊张本。
+  人物：李敖
+  地点：台湾
+  标签：李敖全集、云天丛刊、发刊词、1970
+  视图：写作线、作品线、出版线
+  作品：出版缘起示例、云天丛刊、李敖全集
+  交叉引用：-
+  来源：李敖全集 / 020.出版缘起示例 / line 71
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/020.出版缘起示例.txt
+  数据：data/timeline-events-li-ao-complete-works.json#complete-works-1970-12-03-yuntian-series-launch
 - 1970年12月6日 | 李敖致林益宣请辞台中一中同学会
   精度：day；可靠度：confirmed；排序日期：1970-12-06
   摘要：李敖在《我最难忘的一个官僚同学》中收录1970年12月6日致林益宣信，说明自己被警总跟踪十个多月，不便参加12月11日台中一中同学会。
@@ -6211,6 +6601,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/008.最后的九日.txt
   数据：data/timeline-events-first-book-broad.json#1970-01-house-arrest-begins
+- 1970年2月 | 李敖写《仙人掌丛刊》出版缘起
+  精度：month；可靠度：confirmed；排序日期：1970-02-01
+  摘要：《出版缘起示例》第七则署1970年2月，把《仙人掌丛刊》放进战后求遗书、保存文化命脉的传统里。
+  人物：李敖
+  地点：台湾
+  标签：李敖全集、仙人掌丛刊、出版缘起、1970
+  视图：写作线、作品线、出版线
+  作品：出版缘起示例、仙人掌丛刊、李敖全集
+  交叉引用：-
+  来源：李敖全集 / 020.出版缘起示例 / line 81
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/020.出版缘起示例.txt
+  数据：data/timeline-events-li-ao-complete-works.json#complete-works-1970-02-cactus-series-origin
 - 1970年前后软禁期间 | 李敖借警总跟监人员帮徐熙光吓退黑道
   精度：year-about；可靠度：inferred；排序日期：1970-12-31
   摘要：徐熙光神父后来与李敖熟识，因书店财务纠纷求助。李敖回忆自己正遭警备总部二十四小时跟踪软禁，便借力使力，让跟监人员亮身份，吓退对方黑道。
@@ -7399,6 +7802,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/004.李敖文存/005.由不自由的自由到自由的不自由.txt
   数据：data/timeline-events-wencun.json#wencun-1979-06-12-from-unfree-freedom-to-free-unfreedom-written
+- 1979年6月15日 | 李敖发表《李诗廿四首》并自注写作缘起
+  精度：day；可靠度：confirmed；排序日期：1979-06-15
+  摘要：《李诗廿四首》在前言署1979年6月15日，同时说明前二十三首作于1974年八小时之间，最后一首作于1977年十分钟内。
+  人物：李敖
+  地点：台湾
+  标签：李敖全集、李诗廿四首、1979
+  视图：写作线、作品线、诗作线
+  作品：李诗廿四首、李敖全集
+  交叉引用：-
+  来源：李敖全集 / 024.李诗廿四首 / line 15
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/024.李诗廿四首.txt
+  数据：data/timeline-events-li-ao-complete-works.json#complete-works-1979-06-15-twenty-four-poems
 - 1979年6月17日 | 李敖写《当年老子如何如何》
   精度：day；可靠度：confirmed；排序日期：1979-06-17
   摘要：《当年老子如何如何》文末署1979年6月17日，继续追打回忆录式自我神化与历史抢功。
@@ -7568,6 +7984,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/004.李敖文存/001.看谁文章写得好？（代序）.txt
   数据：data/timeline-events-wencun.json#wencun-1979-08-14-preface-written
+- 1979年8月16日 | 《中国时报》刊出李敖《发网恢恢·法网恢恢》
+  精度：day；可靠度：confirmed；排序日期：1979-08-16
+  摘要：《发网恢恢·法网恢恢》以1979年8月16日《中国时报》为发表层，借中学女生发禁问题批评教育官僚的管制癖。
+  人物：李敖
+  地点：台湾
+  标签：李敖全集、中国时报、发禁、1979
+  视图：发表线、作品线、时评线
+  作品：发网恢恢·法网恢恢、中国时报、李敖全集
+  交叉引用：-
+  来源：李敖全集 / 003.发网恢恢·法网恢恢 / line 25
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/003.发网恢恢·法网恢恢.txt
+  数据：data/timeline-events-li-ao-complete-works.json#complete-works-1979-08-16-hair-net-and-law-net
 - 1979年8月18日 | 李敖写《重要不重要与不重要重要》
   精度：day；可靠度：confirmed；排序日期：1979-08-18
   摘要：《重要不重要与不重要重要》文末署1979年8月18日，是李敖紧接着选美、发式与路名争议继续追打“重要性排序”的一篇时评。
@@ -7711,6 +8140,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/016.复出（1979-1981·44到46岁）.txt
   数据：data/timeline-events-fourth-book.json#book4-1979-09-18-forgot-who-i-am-published
+- 1979年10月7日 | 李敖写《副不副，副哉？副哉？》
+  精度：day；可靠度：confirmed；排序日期：1979-10-07
+  摘要：《副不副，副哉？副哉？》署1979年10月7日，以梁启超姐妹报与办报态度为核心，借古论今谈副刊与传播。
+  人物：李敖、梁启超
+  地点：台湾
+  标签：李敖全集、梁启超、副刊、1979
+  视图：写作线、作品线、出版线
+  作品：副不副，副哉？副哉？、李敖全集
+  交叉引用：-
+  来源：李敖全集 / 015.副不副，副哉？副哉？ / line 99
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/015.副不副，副哉？副哉？.txt
+  数据：data/timeline-events-li-ao-complete-works.json#complete-works-1979-10-07-fu-or-not-fu
 - 《中国时报》1979年10月17日 | 《绝子如不见》刊于《中国时报》
   精度：day；可靠度：confirmed；排序日期：1979-10-17
   摘要：《绝子如不见》文末署明《中国时报》1979年10月17日，表明这封写给孟绝子的信后来转入报刊公共空间。
@@ -7776,6 +8218,45 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/014.被封杀的“人民公敌”.txt
   数据：data/timeline-events-first-book-supplement.json#1979-12-06-resigns-china-times-column
+- 1979年 | 李敖写《宁肯让犯人逃掉》
+  精度：year；可靠度：confirmed；排序日期：1979-01-01
+  摘要：《宁肯让犯人逃掉》署1979年，以罗文干案和梁启超的话申说宁纵毋枉、不可枉法的法治观。
+  人物：李敖、梁启超、罗文干
+  地点：台湾
+  标签：李敖全集、梁启超、罗文干、1979
+  视图：写作线、作品线、法治线
+  作品：宁肯让犯人逃掉、李敖全集
+  交叉引用：-
+  来源：李敖全集 / 017.宁肯让犯人逃掉 / line 11
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/017.宁肯让犯人逃掉.txt
+  数据：data/timeline-events-li-ao-complete-works.json#complete-works-1979-rather-let-criminal-escape
+- 1979年 | 李敖写《伏虎有术，手法亦有异同》
+  精度：year；可靠度：confirmed；排序日期：1979-01-01
+  摘要：《伏虎有术，手法亦有异同》署1979年，借林森与林森式作风申说和平表象与实际手法之间的差异。
+  人物：李敖、林森
+  地点：台湾
+  标签：李敖全集、林森、1979
+  视图：写作线、作品线、人物线
+  作品：伏虎有术，手法亦有异同、李敖全集
+  交叉引用：-
+  来源：李敖全集 / 022.伏虎有术，手法亦有异同 / line 13
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/022.伏虎有术，手法亦有异同.txt
+  数据：data/timeline-events-li-ao-complete-works.json#complete-works-1979-subduing-tiger-different-methods
+- 1979年 | 李敖写《独裁者骑虎难下》
+  精度：year；可靠度：confirmed；排序日期：1979-01-01
+  摘要：《独裁者骑虎难下》署1979年，以邱吉尔关于独裁者骑虎难下的名言为中心，申说独裁政权的困局。
+  人物：李敖、邱吉尔
+  地点：台湾
+  标签：李敖全集、邱吉尔、独裁、1979
+  视图：写作线、作品线、思想线
+  作品：独裁者骑虎难下、李敖全集
+  交叉引用：-
+  来源：李敖全集 / 007.独裁者骑虎难下 / line 9
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/007.独裁者骑虎难下.txt
+  数据：data/timeline-events-li-ao-complete-works.json#complete-works-1979-dictator-rides-tiger
 - 1979年6月 | 复出文坛，重掀巨浪
   精度：month；可靠度：broad；排序日期：1979-06-01
   摘要：李敖在严侨一生二死的叙述中写到，1976年11月出狱，1979年6月复出，在文坛重掀巨浪。
@@ -8703,6 +9184,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/006.波波颂/009.“显性伪君子”和“隐性伪君子”.txt
   数据：data/timeline-events-bobo-song.json#bobo-song-1981-overt-and-covert-hypocrites
+- 1981年订正 | 李敖订正《长城还在动呵！》
+  精度：year；可靠度：confirmed；排序日期：1981-01-01
+  摘要：《长城还在动呵！》文末同时保留“1981年订正”信息，说明李敖在八十年代初对这篇1965年旧作重新校改并回收进《李敖全集》。
+  人物：李敖
+  地点：台湾
+  标签：李敖全集、长城还在动呵、订正、1981
+  视图：修订线、作品线、出版线
+  作品：长城还在动呵！、李敖全集
+  交叉引用：-
+  来源：李敖全集 / 032.长城还在动呵！ / line 127
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/032.长城还在动呵！.txt
+  数据：data/timeline-events-li-ao-complete-works.json#complete-works-1981-revised-great-wall-still-moving
+- 1981年订正 | 李敖订正《被歪曲的革命家》
+  精度：year；可靠度：confirmed；排序日期：1981-01-01
+  摘要：《被歪曲的革命家》同时保留“1981年订正”信息，显示李敖在八十年代初重新校改这篇1965年孙中山论并收入《李敖全集》。
+  人物：李敖、孙中山
+  地点：台湾
+  标签：李敖全集、被歪曲的革命家、孙中山、订正、1981
+  视图：修订线、作品线、出版线
+  作品：被歪曲的革命家、李敖全集
+  交叉引用：-
+  来源：李敖全集 / 034.被歪曲的革命家 / line 195
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/034.被歪曲的革命家.txt
+  数据：data/timeline-events-li-ao-complete-works.json#complete-works-1981-revised-distorted-revolutionary
 - 1981年作 | 李敖写《“三毛式伪善”和“金庸式伪善”》
   精度：year；可靠度：confirmed；排序日期：1981-01-01
   摘要：《“三毛式伪善”和“金庸式伪善”》署1981年作，把他与三毛、金庸的交谈与观察收束成对两种伪善的命名。
