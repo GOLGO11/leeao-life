@@ -46,9 +46,10 @@ const dataFiles = [
   "./data/timeline-events-li-ao-complete-works.json",
   "./data/timeline-events-education-and-faces.json",
   "./data/timeline-events-cultural-debate-danhuo.json",
-  "./data/timeline-events-thought-trend-answer.json"
+  "./data/timeline-events-thought-trend-answer.json",
+  "./data/timeline-events-shangxia-gujin-talks.json"
 ];
-const dataVersion = "2026-04-23-thought-answer-round-02";
+const dataVersion = "2026-04-23-shangxia-round-08";
 
 const dateFormatter = new Intl.DateTimeFormat("zh-Hant", {
   year: "numeric",

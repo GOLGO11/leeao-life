@@ -1,0 +1,1397 @@
+[
+  {
+    "id": "shangxia-1965-07-02-liu-xiuman-xinxiang-launches",
+    "date": "1965-07-02",
+    "displayDate": "1965年7月2日",
+    "datePrecision": "day",
+    "title": "《中华日报》开始刊载《秀嫚信箱》",
+    "summary": "《从〈秀嫚信箱〉到〈上下古今谈〉》回顾，1965年7月2日起，《中华日报》由刘秀嫚执笔开出《秀嫚信箱》专栏。李敖把它和自己三天后在《台湾日报》开写《上下古今谈》并列，视为当月台湾报纸副刊上的两件“大事”。",
+    "view": ["媒体线", "回响线", "专栏线"],
+    "tags": ["上下古今谈", "秀嫚信箱", "刘秀嫚", "中华日报", "1965"],
+    "people": ["李敖", "刘秀嫚"],
+    "places": ["台湾"],
+    "works": ["秀嫚信箱", "上下古今谈"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-07-05-taiwan-daily-launches-shangxia-gujin-talks"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "001.从《秀嫚信箱》到《上下古今谈》",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/001.从《秀嫚信箱》到《上下古今谈》.txt",
+      "line": 27
+    }
+  },
+  {
+    "id": "shangxia-1965-07-03-li-ao-submits-self-introduction",
+    "date": "1965-07-03",
+    "displayDate": "1965年7月3日",
+    "datePrecision": "day",
+    "title": "李敖为《上下古今谈》写自拟简介",
+    "summary": "《〈上下古今谈〉李敖自拟简介》末署1965年7月3日。李敖在这份给《台湾日报》与杨翰参考的自拟简介里，自列生平、著作、脾气与“喜说笑话”，也把自己当时已经出版的七种书目一并钉住。",
+    "view": ["写作线", "媒体线", "作品线"],
+    "tags": ["上下古今谈", "自拟简介", "台湾日报", "1965"],
+    "people": ["李敖", "夏晓华", "杨翰"],
+    "places": ["台湾"],
+    "works": ["上下古今谈", "《上下古今谈》李敖自拟简介"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-07-05-taiwan-daily-launches-shangxia-gujin-talks"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "061.《上下古今谈》李敖自拟简介",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/061.《上下古今谈》李敖自拟简介.txt",
+      "line": 23
+    }
+  },
+  {
+    "id": "shangxia-1965-07-05-taiwan-daily-launches-shangxia-gujin-talks",
+    "date": "1965-07-05",
+    "displayDate": "1965年7月5日",
+    "datePrecision": "day",
+    "title": "《台湾日报》开始刊载《上下古今谈》",
+    "summary": "《开场白——“浪子”回头》文末注明《台湾日报》1965年7月5日，标出李敖在中部大报正式开写《上下古今谈》的第一天。这条线把他“重返中部”的媒体活动和日报专栏写作起点明确钉住。",
+    "view": ["发表线", "媒体线", "专栏线"],
+    "tags": ["上下古今谈", "台湾日报", "专栏", "1965"],
+    "people": ["李敖", "夏晓华"],
+    "places": ["台湾中部", "台湾"],
+    "works": ["上下古今谈", "开场白——“浪子”回头"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-07-03-li-ao-submits-self-introduction",
+      "shangxia-1965-07-02-liu-xiuman-xinxiang-launches"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "002.开场白——“浪子”回头",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/002.开场白——“浪子”回头.txt",
+      "line": 17
+    }
+  },
+  {
+    "id": "shangxia-1965-07-06-human-comedy-framing",
+    "date": "1965-07-06",
+    "displayDate": "1965年7月6日",
+    "datePrecision": "day",
+    "title": "李敖以《人间喜剧》为引，正式解释《上下古今谈》题旨",
+    "summary": "《破题——从〈人间喜剧〉说起》刊于1965年7月6日。李敖借巴尔扎克、萨洛扬与吴稚晖旧作，说明《上下古今谈》这个题目的承继与改写，也把这组日报专栏明白放进新的时代语境中。",
+    "view": ["发表线", "思想线", "专栏线"],
+    "tags": ["上下古今谈", "人间喜剧", "吴稚晖", "1965"],
+    "people": ["李敖", "夏晓华", "吴稚晖", "巴尔扎克", "萨洛扬"],
+    "places": ["台湾"],
+    "works": ["上下古今谈", "破题——从《人间喜剧》说起"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-07-05-taiwan-daily-launches-shangxia-gujin-talks"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "003.破题——从《人间喜剧》说起",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/003.破题——从《人间喜剧》说起.txt",
+      "line": 17
+    }
+  },
+  {
+    "id": "shangxia-1965-07-07-up-down-and-ya-su",
+    "date": "1965-07-07",
+    "displayDate": "1965年7月7日",
+    "datePrecision": "day",
+    "title": "《“上下”与雅俗》刊出，李敖公开交代自己的“下里巴人”文体",
+    "summary": "《“上下”与雅俗》刊于1965年7月7日。李敖在文中明言自己写文章“有话直说，有屁直放”，把“以俗为雅”摆成专栏的文体自觉，也等于为《上下古今谈》的语言风格先打招呼。",
+    "view": ["发表线", "文体线", "专栏线"],
+    "tags": ["上下古今谈", "文体", "以俗为雅", "1965"],
+    "people": ["李敖", "黄庭坚"],
+    "places": ["台湾"],
+    "works": ["上下古今谈", "“上下”与雅俗"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-07-05-taiwan-daily-launches-shangxia-gujin-talks"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "004.“上下”与雅俗",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/004.“上下”与雅俗.txt",
+      "line": 17
+    }
+  },
+  {
+    "id": "shangxia-1965-07-08-camel-and-tuo-gu",
+    "date": "1965-07-08",
+    "displayDate": "1965年7月8日",
+    "datePrecision": "day",
+    "title": "《“古今”与骆驼》刊出，李敖拿“牵骆驼”比喻中国人的托古病",
+    "summary": "《“古今”与骆驼》刊于1965年7月8日。李敖借湖北人“牵骆驼”骗卖草药的故事，批评中国思想传统里动辄“牵古人为骆驼”的托古习气，为这本书的历史批评线开了一个很典型的头。",
+    "view": ["发表线", "思想线", "历史线"],
+    "tags": ["上下古今谈", "托古病", "牵骆驼", "1965"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["上下古今谈", "“古今”与骆驼"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-07-06-human-comedy-framing"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "005.“古今”与骆驼",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/005.“古今”与骆驼.txt",
+      "line": 19
+    }
+  },
+  {
+    "id": "shangxia-1965-07-09-three-topics-of-column",
+    "date": "1965-07-09",
+    "displayDate": "1965年7月9日",
+    "datePrecision": "day",
+    "title": "《“谈”什么？》刊出，李敖交代专栏三大主题",
+    "summary": "《“谈”什么？》刊于1965年7月9日。李敖在文中直接转述夏晓华对这组专栏的三点期待：谈乡土、谈历史、谈时潮，使《上下古今谈》的栏目规划第一次被清楚说开。",
+    "view": ["发表线", "媒体线", "专栏线"],
+    "tags": ["上下古今谈", "夏晓华", "乡土", "历史", "时潮", "1965"],
+    "people": ["李敖", "夏晓华"],
+    "places": ["台北", "台湾"],
+    "works": ["上下古今谈", "“谈”什么？"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-07-05-taiwan-daily-launches-shangxia-gujin-talks"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "006.“谈”什么？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/006.“谈”什么？.txt",
+      "line": 13
+    }
+  },
+  {
+    "id": "shangxia-1965-07-10-broadcast-to-good-people",
+    "date": "1965-07-10",
+    "displayDate": "1965年7月10日",
+    "datePrecision": "day",
+    "title": "《对“好人”播音》刊出，李敖提出“好人退让恶路”的问题",
+    "summary": "《对“好人”播音》刊于1965年7月10日。李敖借吴相湘辞台大一事，把“好人退让恶路”“坏人都在台上唱戏，好人蹲在屋里叹气”的问题重新推出，明确把专栏拉进现实政治与知识分子处境。",
+    "view": ["发表线", "思想线", "现实线"],
+    "tags": ["上下古今谈", "好人", "吴相湘", "现实批评", "1965"],
+    "people": ["李敖", "吴相湘", "罗斯福", "爱因斯坦", "张伯苓"],
+    "places": ["台湾"],
+    "works": ["上下古今谈", "对“好人”播音"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-07-09-three-topics-of-column"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "007.对“好人”播音",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/007.对“好人”播音.txt",
+      "line": 15
+    }
+  },
+  {
+    "id": "shangxia-1965-07-11-fighting-good-people",
+    "date": "1965-07-11",
+    "displayDate": "1965年7月11日",
+    "datePrecision": "day",
+    "title": "《不仅仅是做“好人”》刊出，李敖主张“奋斗的好人”",
+    "summary": "《不仅仅是做“好人”》刊于1965年7月11日。李敖援引《努力周报》里蔡元培、胡适等人的《我们的政治主张》，强调“做好人是不够的，需要做奋斗的好人”，使这组专栏的现实战斗姿态更明确。",
+    "view": ["发表线", "思想线", "现实线"],
+    "tags": ["上下古今谈", "奋斗的好人", "努力周报", "蔡元培", "胡适", "1965"],
+    "people": ["李敖", "蔡元培", "胡适", "李大钊", "丁文江", "陶行知"],
+    "places": ["台湾"],
+    "works": ["上下古今谈", "不仅仅是做“好人”", "我们的政治主张"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-07-10-broadcast-to-good-people"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "008.不仅仅是做“好人”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/008.不仅仅是做“好人”.txt",
+      "line": 15
+    }
+  },
+  {
+    "id": "shangxia-1965-07-12-big-breast-movement-history",
+    "date": "1965-07-12",
+    "displayDate": "1965年7月12日",
+    "datePrecision": "day",
+    "title": "《大奶奶运动史》刊出，李敖借乳房解放史谈现代自由",
+    "summary": "《大奶奶运动史》刊于1965年7月12日。李敖借六龟乡剪乳案、张竞生与胡适的“大奶奶主义”、以及朱家骅在广东提倡“天乳运动”的旧事，把女人乳房的解放写成现代社会自由扩张的一条另类历史线。",
+    "view": ["发表线", "社会线", "观念线"],
+    "tags": ["上下古今谈", "大奶奶运动史", "天乳运动", "自由", "1965"],
+    "people": ["李敖", "张竞生", "胡适", "朱家骅"],
+    "places": ["高雄县六龟乡", "广东", "台湾"],
+    "works": ["上下古今谈", "大奶奶运动史"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-07-05-taiwan-daily-launches-shangxia-gujin-talks"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "009.大奶奶运动史",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/009.大奶奶运动史.txt",
+      "line": 13
+    }
+  },
+  {
+    "id": "shangxia-1965-07-13-from-big-breasts-to-topless",
+    "date": "1965-07-13",
+    "displayDate": "1965年7月13日",
+    "datePrecision": "day",
+    "title": "《由大奶奶到上空装》刊出，李敖评论“无顶装”与传统禁忌",
+    "summary": "《由大奶奶到上空装》刊于1965年7月13日。李敖借1964年欧美“上空装”风潮与台湾警务处的官方表态，批评当局动辄拿“传统中国道德观念”压人，也把前一天的大奶奶话题推进到服装与身体自由的现实争论。",
+    "view": ["发表线", "社会线", "现实线"],
+    "tags": ["上下古今谈", "上空装", "无顶装", "传统", "1965"],
+    "people": ["李敖"],
+    "places": ["台湾", "美国", "欧洲"],
+    "works": ["上下古今谈", "由大奶奶到上空装"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-07-12-big-breast-movement-history"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "010.由大奶奶到上空装",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/010.由大奶奶到上空装.txt",
+      "line": 17
+    }
+  },
+  {
+    "id": "shangxia-1965-07-14-criticizes-chizi-heart",
+    "date": "1965-07-14",
+    "displayDate": "1965年7月14日",
+    "datePrecision": "day",
+    "title": "《“赤子之心”？》刊出，李敖质疑孟子式“赤子”观念",
+    "summary": "《“赤子之心”？》刊于1965年7月14日。李敖借老子、孟子以来的“赤子之心”说，批评把婴儿状态神圣化的定义思考，主张这种传统观念经不起严格分析。",
+    "view": ["发表线", "思想线", "观念线"],
+    "tags": ["上下古今谈", "赤子之心", "孟子", "定义思考", "1965"],
+    "people": ["李敖", "老子", "孟子", "赵元任"],
+    "places": ["台湾"],
+    "works": ["上下古今谈", "“赤子之心”？"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-07-08-camel-and-tuo-gu"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "011.“赤子之心”？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/011.“赤子之心”？.txt",
+      "line": 17
+    }
+  },
+  {
+    "id": "shangxia-1965-07-15-conscienceless-generation",
+    "date": "1965-07-15",
+    "displayDate": "1965年7月15日",
+    "datePrecision": "day",
+    "title": "《没良心》刊出，李敖主张用知识和理智代替“良心”抽象词",
+    "summary": "《没良心》刊于1965年7月15日。李敖借《一见哈哈笑》的《问心》笑话，批评“良心”只是传统标准的反射，主张新时代知识分子不该再拿这种含混词汇做判断标准。",
+    "view": ["发表线", "思想线", "观念线"],
+    "tags": ["上下古今谈", "没良心", "良心", "知识分子", "1965"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["上下古今谈", "没良心"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-07-14-criticizes-chizi-heart"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "012.没良心",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/012.没良心.txt",
+      "line": 17
+    }
+  },
+  {
+    "id": "shangxia-1965-07-16-terrible-brother",
+    "date": "1965-07-16",
+    "displayDate": "1965年7月16日",
+    "datePrecision": "day",
+    "title": "《可怕的哥哥》刊出，李敖抨击父权与兄权侵犯恋爱和性交自由",
+    "summary": "《可怕的哥哥》刊于1965年7月16日。李敖借苗栗毁容案与强押验身的荒谬情节，批评传统父权、兄权越界干涉女性的恋爱自由权与性交自由权。",
+    "view": ["发表线", "社会线", "现实线"],
+    "tags": ["上下古今谈", "可怕的哥哥", "恋爱自由", "处女膜", "1965"],
+    "people": ["李敖"],
+    "places": ["苗栗", "台北", "台湾"],
+    "works": ["上下古今谈", "可怕的哥哥"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "thought-answer-1963-10-07-luo-fan-sends-clipping-on-chastity-discourse",
+      "shangxia-1965-07-15-conscienceless-generation"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "013.可怕的哥哥",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/013.可怕的哥哥.txt",
+      "line": 13
+    }
+  },
+  {
+    "id": "shangxia-1965-07-17-good-man-takes-responsibility",
+    "date": "1965-07-17",
+    "displayDate": "1965年7月17日",
+    "datePrecision": "day",
+    "title": "《好汉做事好汉当》刊出，李敖借贯高故事批评法庭狡赖者",
+    "summary": "《好汉做事好汉当》刊于1965年7月17日。李敖借汉初贯高不肯诬攀赵王张敖的故事，讥刺当代写诽谤文字却不敢公开承认的人，继续推进他对文坛官司与知识分子担当的批判。",
+    "view": ["发表线", "现实线", "论战线"],
+    "tags": ["上下古今谈", "好汉做事好汉当", "贯高", "文坛官司", "1965"],
+    "people": ["李敖", "贯高", "张敖", "刘邦"],
+    "places": ["台湾"],
+    "works": ["上下古今谈", "好汉做事好汉当"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-07-16-terrible-brother"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "014.好汉做事好汉当",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/014.好汉做事好汉当.txt",
+      "line": 23
+    }
+  },
+  {
+    "id": "shangxia-1965-07-18-good-man-and-responsibility",
+    "date": "1965-07-18",
+    "displayDate": "1965年7月18日",
+    "datePrecision": "day",
+    "title": "《“好汉”与负责》刊出，李敖以马克·吐温为“法律外负责”典型",
+    "summary": "《“好汉”与负责》刊于1965年7月18日。李敖借马克·吐温破产后仍主动偿债的旧事，强调真正的“好汉”应当在法律之外也敢负责任，继续追打当代法庭上的狡赖姿态。",
+    "view": ["发表线", "现实线", "思想线"],
+    "tags": ["上下古今谈", "好汉与负责", "马克吐温", "责任", "1965"],
+    "people": ["李敖", "马克·吐温"],
+    "places": ["台湾", "美国"],
+    "works": ["上下古今谈", "“好汉”与负责"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-07-17-good-man-takes-responsibility"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "015.“好汉”与负责",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/015.“好汉”与负责.txt",
+      "line": 15
+    }
+  },
+  {
+    "id": "shangxia-1965-07-19-one-word-teacher-and-editing",
+    "date": "1965-07-19",
+    "displayDate": "1965年7月19日",
+    "datePrecision": "day",
+    "title": "《“一字师”和改文章》刊出，李敖批评新闻出版界滥改原稿",
+    "summary": "《“一字师”和改文章》刊于1965年7月19日。李敖由范仲淹的“一字师”典故谈到新闻圈对作者原稿的擅改，批评编辑出版界未经同意就改文体与文意的坏习惯。",
+    "view": ["发表线", "出版线", "文体线"],
+    "tags": ["上下古今谈", "一字师", "改文章", "出版", "1965"],
+    "people": ["李敖", "范仲淹", "王新命", "胡健中", "陶希圣"],
+    "places": ["台湾"],
+    "works": ["上下古今谈", "“一字师”和改文章"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-07-03-li-ao-submits-self-introduction"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "016.“一字师”和改文章",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/016.“一字师”和改文章.txt",
+      "line": 15
+    }
+  },
+  {
+    "id": "shangxia-1965-07-20-from-nostalgia-to-bigger-spirit",
+    "date": "1965-07-20",
+    "displayDate": "1965年7月20日",
+    "datePrecision": "day",
+    "title": "《从乡愁到大气派》刊出，李敖反对外省文人以“作客”姿态写台湾",
+    "summary": "《从乡愁到大气派》刊于1965年7月20日。李敖批评退守台湾后的文人过度沉湎乡愁，主张任何方向的中国人都不该在中国土地上摆出“做客”姿态，而应培养更大的胸襟与气派。",
+    "view": ["发表线", "思想线", "现实线"],
+    "tags": ["上下古今谈", "乡愁", "大气派", "外省文人", "1965"],
+    "people": ["李敖", "林则徐", "白居易", "陆游"],
+    "places": ["台湾", "大陆", "新疆"],
+    "works": ["上下古今谈", "从乡愁到大气派"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-07-05-taiwan-daily-launches-shangxia-gujin-talks"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "017.从乡愁到大气派",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/017.从乡愁到大气派.txt",
+      "line": 19
+    }
+  },
+  {
+    "id": "shangxia-1965-07-21-cobbler-politics",
+    "date": "1965-07-21",
+    "displayDate": "1965年7月21日",
+    "datePrecision": "day",
+    "title": "《臭皮匠政治》刊出，李敖为民主政治中的“小百姓问政”辩护",
+    "summary": "《臭皮匠政治》刊于1965年7月21日。李敖由凤山风化区争议和地方议会丑闻出发，为“臭皮匠政治”式的民主作辩护，强调民意代表再混帐，也仍是民主初期不可避免的过渡现象。",
+    "view": ["发表线", "政治线", "民主线"],
+    "tags": ["上下古今谈", "臭皮匠政治", "民主政治", "风化区", "1965"],
+    "people": ["李敖"],
+    "places": ["高雄县凤山镇", "台湾"],
+    "works": ["上下古今谈", "臭皮匠政治"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-07-09-three-topics-of-column"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "018.臭皮匠政治",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/018.臭皮匠政治.txt",
+      "line": 15
+    }
+  },
+  {
+    "id": "shangxia-1965-07-22-cobbler-and-democratic-boot",
+    "date": "1965-07-22",
+    "displayDate": "1965年7月22日",
+    "datePrecision": "day",
+    "title": "《臭皮匠和民主靴》刊出，李敖强调民意代表应为百姓而非政府说话",
+    "summary": "《臭皮匠和民主靴》刊于1965年7月22日。李敖把民主制度比作维护小百姓的“民主靴”，强调民意代表应是百姓的传声筒，不该沦为政府的应声虫。",
+    "view": ["发表线", "政治线", "民主线"],
+    "tags": ["上下古今谈", "民主靴", "臭皮匠", "民意代表", "1965"],
+    "people": ["李敖", "孙中山", "阿克吞", "孟德斯鸠", "老子"],
+    "places": ["台湾"],
+    "works": ["上下古今谈", "臭皮匠和民主靴"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-07-21-cobbler-politics"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "019.臭皮匠和民主靴",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/019.臭皮匠和民主靴.txt",
+      "line": 21
+    }
+  },
+  {
+    "id": "shangxia-1965-07-23-never-hire-again-legal-question",
+    "date": "1965-07-23",
+    "displayDate": "1965年7月23日",
+    "datePrecision": "day",
+    "title": "《“永不录用”的法律问题》刊出，李敖质疑黄杰对翁慨案的超前处分",
+    "summary": "《“永不录用”的法律问题》刊于1965年7月23日。李敖借翁慨毁容案后黄杰宣称“永不录用”的说法，指出这类终身剥夺公务员资格的表态既不合《刑法》，也不合《公务员惩戒法》。",
+    "view": ["发表线", "法律线", "现实线"],
+    "tags": ["上下古今谈", "永不录用", "黄杰", "翁慨", "法律", "1965"],
+    "people": ["李敖", "黄杰", "翁慨"],
+    "places": ["彰化", "台湾"],
+    "works": ["上下古今谈", "“永不录用”的法律问题"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-07-16-terrible-brother",
+      "shangxia-1965-07-22-cobbler-and-democratic-boot"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "020.“永不录用”的法律问题",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/020.“永不录用”的法律问题.txt",
+      "line": 25
+    }
+  },
+  {
+    "id": "shangxia-1965-07-24-sweden-and-abolition-of-prostitution",
+    "date": "1965-07-24",
+    "displayDate": "1965年7月24日",
+    "datePrecision": "day",
+    "title": "《瑞典与废娼》刊出，李敖借瑞典经验推动彻底废娼",
+    "summary": "《瑞典与废娼》刊于1965年7月24日。李敖借瑞典性开放与废娼并行的社会状况，反衬台湾九年来《台湾省管理妓女办法》有名无实，明确提出应从承认公娼的旧办法转向真正的废娼路线。",
+    "view": ["发表线", "社会线", "改革线"],
+    "tags": ["上下古今谈", "瑞典与废娼", "废娼", "台湾省管理妓女办法", "1965"],
+    "people": ["李敖", "严家淦"],
+    "places": ["瑞典", "台湾"],
+    "works": ["上下古今谈", "瑞典与废娼"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-07-23-never-hire-again-legal-question"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "021.瑞典与废娼",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/021.瑞典与废娼.txt",
+      "line": 17
+    }
+  },
+  {
+    "id": "shangxia-1965-07-25-how-effective-is-abolition",
+    "date": "1965-07-25",
+    "displayDate": "1965年7月25日",
+    "datePrecision": "day",
+    "title": "《废娼效果知多少？》刊出，李敖质问九年管理妓女办法的实际成绩",
+    "summary": "《废娼效果知多少？》刊于1965年7月25日。李敖以北投与潮州的实例质问《台湾省管理妓女办法》施行九年来究竟取得何种成果，指出所谓公娼管理常常只是私娼猖獗和雏妓受害的遮羞布。",
+    "view": ["发表线", "社会线", "现实线"],
+    "tags": ["上下古今谈", "废娼效果知多少", "北投", "私娼", "1965"],
+    "people": ["李敖"],
+    "places": ["北投", "潮州", "台湾"],
+    "works": ["上下古今谈", "废娼效果知多少？"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-07-24-sweden-and-abolition-of-prostitution"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "022.废娼效果知多少？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/022.废娼效果知多少？.txt",
+      "line": 13
+    }
+  },
+  {
+    "id": "shangxia-1965-07-26-darkness-of-licensed-prostitution",
+    "date": "1965-07-26",
+    "displayDate": "1965年7月26日",
+    "datePrecision": "day",
+    "title": "《公娼的黑暗》刊出，李敖认定公娼制度与废娼理想双重失败",
+    "summary": "《公娼的黑暗》刊于1965年7月26日。李敖指出政府一面高唱废娼、一面承认公娼的设计已经在九年后全面破产，并借三峡、台中等地实例批评公娼制度沦为贩卖、虐待与私娼掩护的护符。",
+    "view": ["发表线", "社会线", "批判线"],
+    "tags": ["上下古今谈", "公娼的黑暗", "废娼", "公娼制度", "1965"],
+    "people": ["李敖"],
+    "places": ["三峡", "台中", "台湾"],
+    "works": ["上下古今谈", "公娼的黑暗"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-07-25-how-effective-is-abolition"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "023.公娼的黑暗",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/023.公娼的黑暗.txt",
+      "line": 19
+    }
+  },
+  {
+    "id": "shangxia-1965-07-27-he-xiuzi-example",
+    "date": "1965-07-27",
+    "displayDate": "1965年7月27日",
+    "datePrecision": "day",
+    "title": "《何秀子的启示》刊出，李敖提议让何秀子参与设计彻底取缔娼妓方案",
+    "summary": "《何秀子的启示》刊于1965年7月27日。李敖在全面批判公私娼黑暗之余，又把何秀子当作特殊个案，提出一个带有反讽意味却不乏现实意图的建议：让改过后的何秀子参与设计台湾彻底取缔娼妓的方案。",
+    "view": ["发表线", "社会线", "论战线"],
+    "tags": ["上下古今谈", "何秀子", "启示", "废娼", "1965"],
+    "people": ["李敖", "何秀子"],
+    "places": ["台北", "丰原", "台中", "台湾"],
+    "works": ["上下古今谈", "何秀子的启示"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-07-26-darkness-of-licensed-prostitution"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "024.何秀子的启示",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/024.何秀子的启示.txt",
+      "line": 17
+    }
+  },
+  {
+    "id": "shangxia-1965-07-28-legal-view-on-he-xiuzi",
+    "date": "1965-07-28",
+    "displayDate": "1965年7月28日",
+    "datePrecision": "day",
+    "title": "《何秀子事件的法律观点》刊出，李敖区分打击私娼与维持法治的边界",
+    "summary": "《何秀子事件的法律观点》刊于1965年7月28日。李敖一面赞助警方合法查办何秀子，一面批评《中央日报》和台北市政府凭“舆论”与“民意”越过法律程序，强调即使对坏人也不能牺牲法治。",
+    "view": ["发表线", "法律线", "现实线"],
+    "tags": ["上下古今谈", "何秀子事件的法律观点", "法治", "中央日报", "1965"],
+    "people": ["李敖", "何秀子", "李凤超", "张国疆", "陈天佑", "白世维"],
+    "places": ["台北", "台湾"],
+    "works": ["上下古今谈", "何秀子事件的法律观点"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-07-27-he-xiuzi-example",
+      "shangxia-1965-07-23-never-hire-again-legal-question"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "025.何秀子事件的法律观点",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/025.何秀子事件的法律观点.txt",
+      "line": 17
+    }
+  },
+  {
+    "id": "shangxia-1965-07-29-hooligans-and-law",
+    "date": "1965-07-29",
+    "displayDate": "1965年7月29日",
+    "datePrecision": "day",
+    "title": "《“流氓”与法律》刊出，李敖抨击违宪的取缔流氓办法",
+    "summary": "《“流氓”与法律》刊于1965年7月29日。李敖借法国“皇帝密封信”和范仲淹所警惕的“法外杀人”，批判《台湾省戒严时期取缔流氓办法》让警察可凭好恶决定谁是“流氓”，认为这种制度流弊极大。",
+    "view": ["发表线", "法律线", "批判线"],
+    "tags": ["上下古今谈", "流氓与法律", "取缔流氓办法", "违宪", "1965"],
+    "people": ["李敖", "范仲淹", "罗兰夫人", "陈庆华", "陆啸钊"],
+    "places": ["台湾", "法国"],
+    "works": ["上下古今谈", "“流氓”与法律"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-07-28-legal-view-on-he-xiuzi"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "026.“流氓”与法律",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/026.“流氓”与法律.txt",
+      "line": 25
+    }
+  },
+  {
+    "id": "shangxia-1965-07-30-how-to-punish-hooligans",
+    "date": "1965-07-30",
+    "displayDate": "1965年7月30日",
+    "datePrecision": "day",
+    "title": "《“流氓”应该怎么罚？》刊出，李敖主张回到刑法而非流氓办法",
+    "summary": "《“流氓”应该怎么罚？》刊于1965年7月30日。李敖继续追打《台湾省戒严时期取缔流氓办法》，指出其定义笼统、处分期间不明，主张真正该做的是回到《刑法》的正规条文处罚犯罪行为，而不是靠粗糙办法整人。",
+    "view": ["发表线", "法律线", "现实线"],
+    "tags": ["上下古今谈", "流氓应该怎么罚", "刑法", "取缔流氓办法", "1965"],
+    "people": ["李敖", "陶百川", "李公权"],
+    "places": ["台湾"],
+    "works": ["上下古今谈", "“流氓”应该怎么罚？"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-07-29-hooligans-and-law"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "027.“流氓”应该怎么罚？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/027.“流氓”应该怎么罚？.txt",
+      "line": 39
+    }
+  },
+  {
+    "id": "shangxia-1965-07-31-sage-education",
+    "date": "1965-07-31",
+    "displayDate": "1965年7月31日",
+    "datePrecision": "day",
+    "title": "《圣人教育》刊出，李敖主张以小市民教育替代“希圣希贤”",
+    "summary": "《圣人教育》刊于1965年7月31日。李敖批评中国教育长期鼓励受教育者去做“圣人”，认为这种反人常情的希圣教育只会制造人格分裂，主张改用平实可行的小市民教育来统一人格。",
+    "view": ["发表线", "教育线", "思想线"],
+    "tags": ["上下古今谈", "圣人教育", "小市民教育", "人格分裂", "1965"],
+    "people": ["李敖", "文天祥", "康有为", "孔子", "孟子"],
+    "places": ["台湾"],
+    "works": ["上下古今谈", "圣人教育"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "education-faces-1963-12-01-teacherhood-and-right-wrong",
+      "shangxia-1965-07-14-criticizes-chizi-heart"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "028.圣人教育",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/028.圣人教育.txt",
+      "line": 23
+    }
+  },
+  {
+    "id": "shangxia-1965-08-02-why-self-help-revenge",
+    "date": "1965-08-02",
+    "displayDate": "1965年8月2日",
+    "datePrecision": "day",
+    "title": "《为什么“自力报复”？》刊出，李敖分析社会转向私刑报复的三重原因",
+    "summary": "《为什么“自力报复”？》刊于1965年8月2日。李敖借当时一连串毁容与报复案件，归纳出传统暗示、法律失效与社会闭锁三项原因，认为要解决“自力报复”风气，不能只靠严刑峻法。",
+    "view": ["发表线", "社会线", "现实线"],
+    "tags": ["上下古今谈", "自力报复", "社会心理", "法律失效", "1965"],
+    "people": ["李敖"],
+    "places": ["台湾", "台中", "苗栗"],
+    "works": ["上下古今谈", "为什么“自力报复”？"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-07-16-terrible-brother",
+      "shangxia-1965-07-28-legal-view-on-he-xiuzi"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "030.为什么“自力报复”？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/030.为什么“自力报复”？.txt",
+      "line": 23
+    }
+  },
+  {
+    "id": "shangxia-1965-08-03-shen-zhiyue-not-scary",
+    "date": "1965-08-03",
+    "displayDate": "1965年8月3日",
+    "datePrecision": "day",
+    "title": "《沈之岳也不可怕》刊出，李敖借调查局记者会称许“刑求”应成历史名词",
+    "summary": "《沈之岳也不可怕》刊于1965年8月3日。李敖抓住沈之岳在记者会上公开谈反对刑求这一点，称其为自由中国神秘机关走向开明的起点，并顺势连到孙中山1912年禁刑讯的旧令。",
+    "view": ["发表线", "政治线", "法治线"],
+    "tags": ["上下古今谈", "沈之岳也不可怕", "刑求", "调查局", "1965"],
+    "people": ["李敖", "沈之岳", "夏晓华", "张明炜", "孙中山"],
+    "places": ["台湾"],
+    "works": ["上下古今谈", "沈之岳也不可怕"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book7-1972-07-moves-from-room-2-to-room-11-at-jingmei-detention",
+      "shangxia-1965-08-02-why-self-help-revenge"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "032.沈之岳也不可怕",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/032.沈之岳也不可怕.txt",
+      "line": 25
+    }
+  },
+  {
+    "id": "shangxia-1965-08-04-shakespeare-is-agent",
+    "date": "1965-08-04",
+    "displayDate": "1965年8月4日",
+    "datePrecision": "day",
+    "title": "《莎士比亚是特务》刊出，李敖借英国特务史谈治安人员素质",
+    "summary": "《莎士比亚是特务》刊于1965年8月4日。李敖借马罗、莎士比亚与英国特务系统的传闻和讨论，转而谈现代治安机关的专业水准，强调真正能保障社会的不是敲诈勒索式人物，而是高素质机构。",
+    "view": ["发表线", "政治线", "历史线"],
+    "tags": ["上下古今谈", "莎士比亚是特务", "马罗", "特务", "1965"],
+    "people": ["李敖", "莎士比亚", "马罗", "梁实秋", "余光中"],
+    "places": ["台湾", "英国", "美国"],
+    "works": ["上下古今谈", "莎士比亚是特务"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-08-03-shen-zhiyue-not-scary"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "033.莎士比亚是特务",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/033.莎士比亚是特务.txt",
+      "line": 19
+    }
+  },
+  {
+    "id": "shangxia-1965-08-05-running-red-light",
+    "date": "1965-08-05",
+    "displayDate": "1965年8月5日",
+    "datePrecision": "day",
+    "title": "《闯“红灯”》刊出，李敖用交通红灯重释“慎独”",
+    "summary": "《闯“红灯”》刊于1965年8月5日。李敖由现代交通红灯与胡适在美国遇见的守法司机出发，重释“慎独”的意义，并借此讥刺中国社会到处设无形红灯、反倒逼人拿马路红灯发泄。",
+    "view": ["发表线", "思想线", "现实线"],
+    "tags": ["上下古今谈", "闯红灯", "慎独", "胡适", "1965"],
+    "people": ["李敖", "胡适", "龚自珍"],
+    "places": ["台湾", "美国"],
+    "works": ["上下古今谈", "闯“红灯”"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-07-19-one-word-teacher-and-editing"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "034.闯“红灯”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/034.闯“红灯”.txt",
+      "line": 21
+    }
+  },
+  {
+    "id": "shangxia-1965-08-06-atomic-bomb-twenty-years",
+    "date": "1965-08-06",
+    "displayDate": "1965年8月6日",
+    "datePrecision": "day",
+    "title": "《原子弹20岁感言》刊出，李敖以广岛二十周年反思战争已无胜利者",
+    "summary": "《原子弹20岁感言》刊于1965年8月6日。李敖借广岛挨炸二十周年，强调原子弹已让战争从“你死我活”走到“大家死大家不活”，并借此批评仍迷信武力解决一切的人。",
+    "view": ["发表线", "国际线", "思想线"],
+    "tags": ["上下古今谈", "原子弹20岁感言", "广岛", "战争", "1965"],
+    "people": ["李敖", "海明威"],
+    "places": ["广岛", "日本", "台湾"],
+    "works": ["上下古今谈", "原子弹20岁感言"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-08-04-shakespeare-is-agent"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "035.原子弹20岁感言",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/035.原子弹20岁感言.txt",
+      "line": 21
+    }
+  },
+  {
+    "id": "shangxia-1965-08-10-lin-sen-files-lawsuit",
+    "date": "1965-08-10",
+    "displayDate": "1965年8月10日",
+    "datePrecision": "day",
+    "title": "《林森先生打官司》刊出，李敖借林森维权旧事提倡“奋斗的好人”",
+    "summary": "《林森先生打官司》刊于1965年8月10日。李敖借林森替九江被打死的余发程追打英国租界官司的故事，继续强调所谓“奋斗的好人”不该只做温吞的好人，而要为平地小百姓挺身打抱不平。",
+    "view": ["发表线", "人物线", "现实线"],
+    "tags": ["上下古今谈", "林森先生打官司", "林森", "奋斗的好人", "1965"],
+    "people": ["李敖", "林森", "余发程"],
+    "places": ["九江", "台南", "嘉义", "台湾"],
+    "works": ["上下古今谈", "林森先生打官司"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-07-11-fighting-good-people"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "029.林森先生打官司",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/029.林森先生打官司.txt",
+      "line": 15
+    }
+  },
+  {
+    "id": "shangxia-1965-08-07-four-point-analysis-of-sino-french-affair",
+    "date": "1965-08-07",
+    "displayDate": "1965年8月7日",
+    "datePrecision": "day",
+    "title": "《中法私案的四点分析》刊出，李敖把“中法三角恋”拆成四个层次",
+    "summary": "《中法私案的四点分析》刊于1965年8月7日。李敖针对施显谋、丹妮尔与黎东方夫妇引发的“中法三角恋”争议，区分法律、道义、爱情与传统四个层次，主张别再用糊涂的传统与道德立场压人。",
+    "view": ["发表线", "现实线", "论战线"],
+    "tags": ["上下古今谈", "中法私案的四点分析", "丹妮尔", "黎东方", "1965"],
+    "people": ["李敖", "黎东方", "丹妮尔", "施显谋", "陈雪琴"],
+    "places": ["台湾", "桃园"],
+    "works": ["上下古今谈", "中法私案的四点分析"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-08-02-why-self-help-revenge"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "036.中法私案的四点分析",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/036.中法私案的四点分析.txt",
+      "line": 23
+    }
+  },
+  {
+    "id": "shangxia-1965-08-08-wuxia-fiction-warning",
+    "date": "1965-08-08",
+    "displayDate": "1965年8月8日",
+    "datePrecision": "day",
+    "title": "《“武侠小说”，着镖！》刊出，李敖警告武侠热反射挫败情绪",
+    "summary": "《“武侠小说”，着镖！》刊于1965年8月8日。李敖由晚唐、晚清到当代“新剑侠派”的流行，批评武侠小说满足了群体挫败感与逃避现实心理，甚至会败坏斗志与追求真正知识的能力。",
+    "view": ["发表线", "文化线", "批判线"],
+    "tags": ["上下古今谈", "武侠小说着镖", "武侠小说", "新剑侠派", "1965"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["上下古今谈", "“武侠小说”，着镖！"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-08-06-atomic-bomb-twenty-years"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "037.“武侠小说”，着镖！",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/037.“武侠小说”，着镖！.txt",
+      "line": 19
+    }
+  },
+  {
+    "id": "shangxia-1965-08-09-truth-under-tilt",
+    "date": "1965-08-09",
+    "displayDate": "1965年8月9日",
+    "datePrecision": "day",
+    "title": "《斜气下的真理》刊出，李敖借比萨斜塔谈新思想常被视为“斜气”",
+    "summary": "《斜气下的真理》刊于1965年8月9日。李敖由比萨斜塔与伽利略丢铁球的故事出发，论证真正的新思想与新人物常被旧传统视作“斜气”，但只要代表真理，就不会被围剿阻住。",
+    "view": ["发表线", "思想线", "历史线"],
+    "tags": ["上下古今谈", "斜气下的真理", "比萨斜塔", "伽利略", "1965"],
+    "people": ["李敖", "伽利略", "亚里士多德"],
+    "places": ["比萨", "意大利", "台湾"],
+    "works": ["上下古今谈", "斜气下的真理"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-07-08-camel-and-tuo-gu"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "038.斜气下的真理",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/038.斜气下的真理.txt",
+      "line": 21
+    }
+  },
+  {
+    "id": "shangxia-1965-08-10-road-of-chen-zha-mou",
+    "date": "1965-08-10",
+    "displayDate": "1965年8月10日",
+    "datePrecision": "day",
+    "title": "《陈查某之路》刊出，李敖借百万元捐款谈富人也要学会“花钱”",
+    "summary": "《陈查某之路》刊于1965年8月10日。李敖由“青果大王”陈查某捐出新台币一百万元谈起，主张富人不仅要会赚钱，更要会把钱花向社会福利与文化事业。",
+    "view": ["发表线", "社会线", "人物线"],
+    "tags": ["上下古今谈", "陈查某之路", "陈查某", "社会福利", "1965"],
+    "people": ["李敖", "陈查某", "连震东", "卡内基"],
+    "places": ["台湾", "东北", "哈尔滨"],
+    "works": ["上下古今谈", "陈查某之路"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-08-10-lin-sen-files-lawsuit"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "039.陈查某之路",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/039.陈查某之路.txt",
+      "line": 17
+    }
+  },
+  {
+    "id": "shangxia-1965-08-05-social-transition-not-finished",
+    "date": "1965-08-05",
+    "displayDate": "1965年8月5日",
+    "datePrecision": "day",
+    "title": "《社会转型未到家》刊出，李敖反驳“社会转型已定型”的乐观看法",
+    "summary": "《社会转型未到家》收入李敖对《台湾日报》8月5日社论《重视生命与重视贞操》的公开辩驳，主张台湾社会尚未真正完成从封闭到开放、从男权到两性平等的转型，因此不能简单把情变悲剧归因于个体失德。",
+    "view": ["发表线", "社会线", "论战线"],
+    "tags": ["上下古今谈", "社会转型未到家", "重视生命与重视贞操", "社会转型", "1965"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["上下古今谈", "社会转型未到家"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-08-05-running-red-light",
+      "shangxia-1965-08-02-why-self-help-revenge"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "040.社会转型未到家",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/040.社会转型未到家.txt",
+      "line": 33
+    }
+  },
+  {
+    "id": "shangxia-1965-08-12-no-hair-on-brush",
+    "date": "1965-08-12",
+    "displayDate": "1965年8月12日",
+    "datePrecision": "day",
+    "title": "《笔上无毛说》刊出，李敖反对中小学强推毛笔书法",
+    "summary": "《笔上无毛说》刊于1965年8月12日。李敖借省教育厅再度要求中小学强化毛笔字和书法教学，公开主张这套做法已经不合时代潮流，青年精力应放在更切实的知识与技能上。",
+    "view": ["发表线", "教育线", "现实线"],
+    "tags": ["上下古今谈", "笔上无毛说", "毛笔字", "教育厅", "1965"],
+    "people": ["李敖", "潘振球", "黄杰"],
+    "places": ["台湾"],
+    "works": ["上下古今谈", "笔上无毛说"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-07-31-sage-education"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "041.笔上无毛说",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/041.笔上无毛说.txt",
+      "line": 17
+    }
+  },
+  {
+    "id": "shangxia-1965-08-13-guan-yu-taxi",
+    "date": "1965-08-13",
+    "displayDate": "1965年8月13日",
+    "datePrecision": "day",
+    "title": "《关公的计程车》刊出，李敖借关公和赤兔马谈新时代英雄已超越旧武侠造型",
+    "summary": "《关公的计程车》刊于1965年8月13日。李敖借关公生日与计程车发明日同在8月13日这一巧合，写出新时代英雄已经不再依赖青龙刀与赤兔马，而要超越旧式英雄想象。",
+    "view": ["发表线", "文化线", "思想线"],
+    "tags": ["上下古今谈", "关公的计程车", "关公", "赤兔马", "1965"],
+    "people": ["李敖", "关羽", "吕布", "曹操"],
+    "places": ["台湾"],
+    "works": ["上下古今谈", "关公的计程车"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-08-08-wuxia-fiction-warning"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "042.关公的计程车",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/042.关公的计程车.txt",
+      "line": 15
+    }
+  },
+  {
+    "id": "shangxia-1965-08-14-guan-yu-cao-cao-triangle",
+    "date": "1965-08-14",
+    "displayDate": "1965年8月14日",
+    "datePrecision": "day",
+    "title": "《关公曹操三角恋爱论》刊出，李敖重写关公欲杀曹操的“吃醋”动机",
+    "summary": "《关公曹操三角恋爱论》刊于1965年8月14日。李敖借《华阳国志》等材料，戏剧性地重写关公与曹操之间的历史旧案，把关公猎中欲杀曹操解释成争夺秦宜禄妻而起的“吃醋”与情敌关系。",
+    "view": ["发表线", "历史线", "文化线"],
+    "tags": ["上下古今谈", "关公曹操三角恋爱论", "关羽", "曹操", "1965"],
+    "people": ["李敖", "关羽", "曹操", "刘备", "秦宜禄"],
+    "places": ["台湾"],
+    "works": ["上下古今谈", "关公曹操三角恋爱论"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-08-13-guan-yu-taxi"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "043.关公曹操三角恋爱论",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/043.关公曹操三角恋爱论.txt",
+      "line": 23
+    }
+  },
+  {
+    "id": "shangxia-1965-08-15-ford-has-fortune-not-virtue",
+    "date": "1965-08-15",
+    "displayDate": "1965年8月15日",
+    "datePrecision": "day",
+    "title": "《福特有福无特》刊出，李敖借福特论“藏富于民”",
+    "summary": "《福特有福无特》刊于1965年8月15日。李敖借福特汽车业与高工资制度的历史，强调资本家若愿意把利益分给工人和顾客，既能维持繁荣，也能抵制极左极右式的独裁统制。",
+    "view": ["发表线", "经济线", "思想线"],
+    "tags": ["上下古今谈", "福特有福无特", "福特", "藏富于民", "1965"],
+    "people": ["李敖", "福特", "马克思", "希特勒", "斯大林"],
+    "places": ["台湾", "美国"],
+    "works": ["上下古今谈", "福特有福无特"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-08-10-road-of-chen-zha-mou"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "044.福特有福无特",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/044.福特有福无特.txt",
+      "line": 15
+    }
+  },
+  {
+    "id": "shangxia-1965-08-16-true-value-of-getting-rich",
+    "date": "1965-08-16",
+    "displayDate": "1965年8月16日",
+    "datePrecision": "day",
+    "title": "《发财的真价值》刊出，李敖把财富视为抵抗腐败政治的武器",
+    "summary": "《发财的真价值》刊于1965年8月16日。李敖借伯夷叔齐、姜太公、陶朱公、司马迁到美国“藏富于民”的例子，强调财富不仅是生活保障，也是一种抵抗腐败政治和专制控制的力量。",
+    "view": ["发表线", "经济线", "思想线"],
+    "tags": ["上下古今谈", "发财的真价值", "藏富于民", "财富", "1965"],
+    "people": ["李敖", "伯夷", "叔齐", "姜太公", "司马迁"],
+    "places": ["台湾", "美国"],
+    "works": ["上下古今谈", "发财的真价值"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-08-15-ford-has-fortune-not-virtue"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "045.发财的真价值",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/045.发财的真价值.txt",
+      "line": 11
+    }
+  },
+  {
+    "id": "shangxia-1965-08-17-i-want-to-turn-black-white-upside-down",
+    "date": "1965-08-17",
+    "displayDate": "1965年8月17日",
+    "datePrecision": "day",
+    "title": "《我要颠倒黑白》刊出，李敖借美国黑人问题为美国辩护",
+    "summary": "《我要颠倒黑白》刊于1965年8月17日。李敖从美国黑人奴隶史、马丁·路德·金的非暴力民权运动写起，主张美国虽背负黑人问题的历史耻辱，但其缓进改良和法治秩序仍比其他制度更值得肯定。",
+    "view": ["发表线", "国际线", "政治线"],
+    "tags": ["上下古今谈", "我要颠倒黑白", "美国黑人问题", "马丁路德金", "1965"],
+    "people": ["李敖", "马丁·路德·金", "彭区", "路易·阿姆斯特朗"],
+    "places": ["美国", "台湾", "非洲"],
+    "works": ["上下古今谈", "我要颠倒黑白"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-08-15-ford-has-fortune-not-virtue"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "046.我要颠倒黑白",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/046.我要颠倒黑白.txt",
+      "line": 15
+    }
+  },
+  {
+    "id": "shangxia-1965-08-18-reader-roars-one",
+    "date": "1965-08-18",
+    "displayDate": "1965年8月18日",
+    "datePrecision": "day",
+    "title": "《读者怒吼之一》刊出，李敖公开回应读者陈砺军来信",
+    "summary": "《读者怒吼之一》刊于1965年8月18日。李敖公开发表读者陈砺军要求《上下古今谈》停刊的来信，并以此反击自己常年遭遇的匿名威胁与“黑邮船”，把报上争论正式拉到读者公开战场。",
+    "view": ["发表线", "回响线", "论战线"],
+    "tags": ["上下古今谈", "读者怒吼之一", "陈砺军", "读者来信", "1965"],
+    "people": ["李敖", "陈砺军", "夏晓华"],
+    "places": ["台湾"],
+    "works": ["上下古今谈", "读者怒吼之一"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-08-12-no-hair-on-brush"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "047.读者怒吼之一",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/047.读者怒吼之一.txt",
+      "line": 27
+    }
+  },
+  {
+    "id": "shangxia-1965-08-19-smile-as-backing",
+    "date": "1965-08-19",
+    "displayDate": "1965年8月19日",
+    "datePrecision": "day",
+    "title": "《用笑脸做后盾》刊出，李敖主张以轻快笑脸化解严肃旧气",
+    "summary": "《用笑脸做后盾》刊于1965年8月19日。李敖由李林甫“笑里藏刀”、东方朔、鲁仲连到土耳其外交人物，主张许多本来被严肃处理的事情，反而更该用笑脸、幽默和轻快姿态来化解。",
+    "view": ["发表线", "思想线", "人物线"],
+    "tags": ["上下古今谈", "用笑脸做后盾", "笑里藏刀", "东方朔", "1965"],
+    "people": ["李敖", "李林甫", "安禄山", "东方朔", "泰戈尔"],
+    "places": ["台湾", "中国", "土耳其", "印度"],
+    "works": ["上下古今谈", "用笑脸做后盾"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-08-18-reader-roars-one"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "048.用笑脸做后盾",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/048.用笑脸做后盾.txt",
+      "line": 21
+    }
+  },
+  {
+    "id": "shangxia-1965-08-20-democratic-trend",
+    "date": "1965-08-20",
+    "displayDate": "1965年8月20日",
+    "datePrecision": "day",
+    "title": "《民主趋向》刊出，李敖列举反民主政权的十二种脸谱",
+    "summary": "《民主趋向》刊于1965年8月20日。李敖从维也纳会议后的反动政治一路写到二战后残余独裁，归纳出暴力维持政权、一党专政、特务横行、统制经济等十二种反民主脸谱，强调中国人不该丧失对民主潮流的信念。",
+    "view": ["发表线", "政治线", "思想线"],
+    "tags": ["上下古今谈", "民主趋向", "反民主", "独裁", "1965"],
+    "people": ["李敖", "赫鲁晓夫", "佛朗哥"],
+    "places": ["台湾", "欧洲", "俄国", "西班牙"],
+    "works": ["上下古今谈", "民主趋向"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "danhuo-1962-cultural-debate-erupts",
+      "shangxia-1965-08-03-shen-zhiyue-not-scary"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "049.民主趋向",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/049.民主趋向.txt",
+      "line": 39
+    }
+  },
+  {
+    "id": "shangxia-1965-08-21-if-father-commits-crime",
+    "date": "1965-08-21",
+    "displayDate": "1965年8月21日",
+    "datePrecision": "day",
+    "title": "《如果爸爸犯了罪》刊出，李敖借舜与郑成功比较法与亲情冲突",
+    "summary": "《如果爸爸犯了罪》刊于1965年8月21日。李敖由孟子“舜负父逃亡”与孔子“父子互隐”谈起，对照美国警长之子开罚父亲和郑成功“大义灭亲”的例子，讨论法与亲情在现代社会中的优先次序。",
+    "view": ["发表线", "思想线", "法律线"],
+    "tags": ["上下古今谈", "如果爸爸犯了罪", "父子互隐", "大义灭亲", "1965"],
+    "people": ["李敖", "孟子", "孔子", "郑成功"],
+    "places": ["台湾", "美国"],
+    "works": ["上下古今谈", "如果爸爸犯了罪"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-07-23-never-hire-again-legal-question",
+      "shangxia-1965-08-20-democratic-trend"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "050.如果爸爸犯了罪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/050.如果爸爸犯了罪.txt",
+      "line": 21
+    }
+  },
+  {
+    "id": "shangxia-1965-08-22-western-fork-eats-human-flesh",
+    "date": "1965-08-22",
+    "displayDate": "1965年8月22日",
+    "datePrecision": "day",
+    "title": "《西餐叉子吃人肉》刊出，李敖重申反对“半吊子西化”",
+    "summary": "《西餐叉子吃人肉》刊于1965年8月22日。李敖重提《给谈中西文化的人看看病》里的旧譬喻，批评那种只吸收西方皮毛、又把旧传统硬拼上去的“半吊子西化”，认为结果只会新旧杂糅、社会大乱。",
+    "view": ["发表线", "思想线", "文化线"],
+    "tags": ["上下古今谈", "西餐叉子吃人肉", "半吊子西化", "固有文化", "1965"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["上下古今谈", "西餐叉子吃人肉", "给谈中西文化的人看看病"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book5-1962-02-01-zhongxi-culture-essay",
+      "shangxia-1965-08-12-no-hair-on-brush"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "051.西餐叉子吃人肉",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/051.西餐叉子吃人肉.txt",
+      "line": 21
+    }
+  },
+  {
+    "id": "shangxia-1965-08-23-stars-are-heroes",
+    "date": "1965-08-23",
+    "displayDate": "1965年8月23日",
+    "datePrecision": "day",
+    "title": "《明星即英雄》刊出，李敖以瓦伦蒂诺重写现代“英雄”定义",
+    "summary": "《明星即英雄》刊于1965年8月23日。李敖借瓦伦蒂诺之死引发的群众哀悼，论证现代社会里的“英雄”不再必然靠枪杆、笔阵或铜臭，而可以单凭魅力与形象直接掌握人心。",
+    "view": ["发表线", "文化线", "思想线"],
+    "tags": ["上下古今谈", "明星即英雄", "瓦伦蒂诺", "英雄", "1965"],
+    "people": ["李敖", "瓦伦蒂诺"],
+    "places": ["纽约", "美国", "台湾"],
+    "works": ["上下古今谈", "明星即英雄"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-08-14-guan-yu-cao-cao-triangle"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "052.明星即英雄",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/052.明星即英雄.txt",
+      "line": 33
+    }
+  },
+  {
+    "id": "shangxia-1965-08-24-wang-baochuan-spirit",
+    "date": "1965-08-24",
+    "displayDate": "1965年8月24日",
+    "datePrecision": "day",
+    "title": "《王宝钏精神》刊出，李敖要求打倒“愚贞”与薛平贵式男权",
+    "summary": "《王宝钏精神》刊于1965年8月24日。李敖借王宝钏苦守寒窑与薛平贵另娶代战公主的戏剧情节，批评单方面要求女性守贞的旧道德，主张新时代必须同时打倒“薛平贵思想”和“王宝钏精神”。",
+    "view": ["发表线", "两性线", "思想线"],
+    "tags": ["上下古今谈", "王宝钏精神", "愚贞", "薛平贵", "1965"],
+    "people": ["李敖", "王宝钏", "薛平贵", "黄胜常"],
+    "places": ["台湾"],
+    "works": ["上下古今谈", "王宝钏精神"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-08-07-four-point-analysis-of-sino-french-affair",
+      "shangxia-1965-08-05-social-transition-not-finished"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "053.王宝钏精神",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/053.王宝钏精神.txt",
+      "line": 29
+    }
+  },
+  {
+    "id": "shangxia-1965-08-25-another-side-of-wang-baochuan",
+    "date": "1965-08-25",
+    "displayDate": "1965年8月25日",
+    "datePrecision": "day",
+    "title": "《王宝钏的另一面》刊出，李敖改从恋爱婚姻自由角度重估王宝钏",
+    "summary": "《王宝钏的另一面》刊于1965年8月25日。李敖接着前一篇，把王宝钏从“愚贞”另一面翻转为敢于争取恋爱与婚姻自由的民间女性典型，认为这一面反而值得新时代女性重新回味。",
+    "view": ["发表线", "两性线", "思想线"],
+    "tags": ["上下古今谈", "王宝钏的另一面", "恋爱自由", "婚姻自由", "1965"],
+    "people": ["李敖", "王宝钏", "薛平贵", "王允"],
+    "places": ["台湾"],
+    "works": ["上下古今谈", "王宝钏的另一面"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-08-24-wang-baochuan-spirit"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "054.王宝钏的另一面",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/054.王宝钏的另一面.txt",
+      "line": 31
+    }
+  },
+  {
+    "id": "shangxia-1965-08-23-judging-cases-not-riddles",
+    "date": "1965-08-23",
+    "displayDate": "1965年8月23日",
+    "datePrecision": "day",
+    "title": "《判案不是猜谜！》写定，李敖痛批法官凭想象判死刑",
+    "summary": "《判案不是猜谜！》署1965年8月23日。李敖借刘堂坤案一二审都凭不同“想象情节”判死刑的状况，抨击法官乱用自由心证，强调人命关天的案件必须建立在铁证而不是猜谜之上。",
+    "view": ["写作线", "法律线", "现实线"],
+    "tags": ["上下古今谈", "判案不是猜谜", "刘堂坤", "自由心证", "1965"],
+    "people": ["李敖", "刘堂坤", "吴基福"],
+    "places": ["嘉义", "台湾"],
+    "works": ["上下古今谈", "判案不是猜谜！"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-07-30-how-to-punish-hooligans",
+      "shangxia-1965-07-23-never-hire-again-legal-question"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "055.判案不是猜谜！",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/055.判案不是猜谜！.txt",
+      "line": 19
+    }
+  },
+  {
+    "id": "shangxia-1965-08-26-speaking-for-ye-feng",
+    "date": "1965-08-26",
+    "displayDate": "1965年8月26日",
+    "datePrecision": "day",
+    "title": "《为叶枫说话》刊出，李敖为叶枫的恋爱自由与私生活辩护",
+    "summary": "《为叶枫说话》刊于1965年8月26日。李敖回应台中读者来信，为港星叶枫遭媒体围剿一事辩护，主张现代社会应允许成年女性自主恋爱与生活，不该再用“潘金莲”式旧道德围攻她。",
+    "view": ["发表线", "回响线", "两性线"],
+    "tags": ["上下古今谈", "为叶枫说话", "叶枫", "恋爱自由", "1965"],
+    "people": ["李敖", "叶枫"],
+    "places": ["台中", "台北", "台湾"],
+    "works": ["上下古今谈", "为叶枫说话"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-08-24-wang-baochuan-spirit",
+      "shangxia-1965-08-18-reader-roars-one"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "056.为叶枫说话",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/056.为叶枫说话.txt",
+      "line": 23
+    }
+  },
+  {
+    "id": "shangxia-1965-08-27-final-affirmation",
+    "date": "1965-08-27",
+    "displayDate": "1965年8月27日",
+    "datePrecision": "day",
+    "title": "《最后的肯定》刊出，李敖以希特勒与吴三桂论男人最终仍会倒向“美人”",
+    "summary": "《最后的肯定》刊于1965年8月27日。李敖借希特勒临死前结婚、吴三桂“冲冠一怒为红颜”、以及张学良与赵四小姐的例子，写出所谓男人到最后往往还是会在“美人”而非“江山”上做出最后肯定。",
+    "view": ["发表线", "思想线", "人物线"],
+    "tags": ["上下古今谈", "最后的肯定", "希特勒", "吴三桂", "1965"],
+    "people": ["李敖", "希特勒", "吴三桂", "张学良", "赵四小姐"],
+    "places": ["台湾", "德国", "台北"],
+    "works": ["上下古今谈", "最后的肯定"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-08-26-speaking-for-ye-feng"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "057.最后的肯定",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/057.最后的肯定.txt",
+      "line": 19
+    }
+  },
+  {
+    "id": "shangxia-1965-07-14-letter-to-xia-xiaohua-on-cut-sections",
+    "date": "1965-07-14",
+    "displayDate": "1965年7月14日傍晚",
+    "datePrecision": "day",
+    "title": "李敖致夏晓华信，请归还《没良心》被删稿并谈专栏尺度",
+    "summary": "《致夏晓华先生的一封信》署1965年7月14日傍晚。李敖在信里请报社退还《没良心》被删去的部分，以备日后出集时补入，也坦言自己会尽量在个人标准边缘“向中看齐”，但若时机一到便可能抽身而去。",
+    "view": ["书信线", "编辑线", "专栏线"],
+    "tags": ["上下古今谈", "致夏晓华先生的一封信", "夏晓华", "没良心", "1965"],
+    "people": ["李敖", "夏晓华", "杨翰", "张继高"],
+    "places": ["台湾"],
+    "works": ["上下古今谈", "没良心", "致夏晓华先生的一封信"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-07-15-conscienceless-generation"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "058.致夏晓华先生的一封信",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/058.致夏晓华先生的一封信.txt",
+      "line": 13
+    }
+  },
+  {
+    "id": "shangxia-1965-08-26-letter-to-xia-xiaohua-announces-stop",
+    "date": "1965-08-26",
+    "displayDate": "1965年8月26日",
+    "datePrecision": "day",
+    "title": "李敖致夏晓华信，宣布《上下古今谈》就此打住并准备成书",
+    "summary": "《致夏晓华先生的另一封信》署1965年8月26日。李敖在信里正式表示《上下古今谈》写了五十四天后决定就此打住，并通知夏晓华文星方面准备在9月1日宣布、9月25日出书。",
+    "view": ["书信线", "出版线", "收束线"],
+    "tags": ["上下古今谈", "致夏晓华先生的另一封信", "停写", "出书", "1965"],
+    "people": ["李敖", "夏晓华", "杨翰", "孟能", "张继高"],
+    "places": ["台湾"],
+    "works": ["上下古今谈", "最后的肯定", "致夏晓华先生的另一封信"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-08-27-final-affirmation"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "059.致夏晓华先生的另一封信",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/059.致夏晓华先生的另一封信.txt",
+      "line": 19
+    }
+  },
+  {
+    "id": "shangxia-1965-08-28-letter-to-xia-xiaohua-after-stop",
+    "date": "1965-08-28",
+    "displayDate": "1965年8月28日",
+    "datePrecision": "day",
+    "title": "李敖致夏晓华信，建议由刘秀嫚接手并说明《上下古今谈》出书权",
+    "summary": "《致夏晓华先生的又一封信》署1965年8月28日。李敖在专栏停摆后，建议夏晓华考虑找刘秀嫚接手，同时强调《上下古今谈》将由文星出版，并说明发表权与出书权是两回事。",
+    "view": ["书信线", "出版线", "媒体线"],
+    "tags": ["上下古今谈", "致夏晓华先生的又一封信", "刘秀嫚", "出书权", "1965"],
+    "people": ["李敖", "夏晓华", "刘秀嫚"],
+    "places": ["台湾"],
+    "works": ["上下古今谈", "从《秀嫚信箱》到《上下古今谈》", "致夏晓华先生的又一封信"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "shangxia-1965-07-02-liu-xiuman-xinxiang-launches",
+      "shangxia-1965-08-26-letter-to-xia-xiaohua-announces-stop"
+    ],
+    "source": {
+      "book": "上下古今谈",
+      "chapter": "060.致夏晓华先生的又一封信",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/060.致夏晓华先生的又一封信.txt",
+      "line": 15
+    }
+  }
+]
