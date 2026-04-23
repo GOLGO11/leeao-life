@@ -44,9 +44,11 @@ const dataFiles = [
   "./data/timeline-events-wencun-two.json",
   "./data/timeline-events-bobo-song.json",
   "./data/timeline-events-li-ao-complete-works.json",
-  "./data/timeline-events-education-and-faces.json"
+  "./data/timeline-events-education-and-faces.json",
+  "./data/timeline-events-cultural-debate-danhuo.json",
+  "./data/timeline-events-thought-trend-answer.json"
 ];
-const dataVersion = "2026-04-23-education-faces-round-02";
+const dataVersion = "2026-04-23-thought-answer-round-02";
 
 const dateFormatter = new Intl.DateTimeFormat("zh-Hant", {
   year: "numeric",
@@ -73,6 +75,14 @@ function decadeOf(event) {
 
 function yearOf(event) {
   return event.date.slice(0, 4);
+}
+
+function crossReferenceLabel(id) {
+  const linked = state.events.find((event) => event.id === id);
+  if (!linked) {
+    return id;
+  }
+  return `${dateLabel(linked)}《${linked.title}》`;
 }
 
 function isDayPrecise(event) {
@@ -211,7 +221,7 @@ function renderTimeline(events) {
 
 function openEvent(event) {
   const crossReferences = event.crossReferences?.length
-    ? `<p class="dialog-source">交叉引用：${event.crossReferences.join("、")}</p>`
+    ? `<p class="dialog-source">交叉引用：${event.crossReferences.map(crossReferenceLabel).join("；")}</p>`
     : "";
   const additionalSources = event.additionalSources?.length
     ? `<p class="dialog-source">补充来源：${event.additionalSources

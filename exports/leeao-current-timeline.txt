@@ -1,9 +1,9 @@
 李敖交互式年表：当前增量纯文本备份
 生成日期：2026-04-23
-事件总数：1287
-数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json
+事件总数：1309
+数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json
 说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。
-日期精度统计：day=991；year=83；year-range=6；undated-range=1；undated-context=113；season=22；lunar-day=1；year-after=7；month=37；half-year=2；day-range=11；month-after=2；day-after=4；year-context=1；year-about=5；year-end=1
+日期精度统计：day=1010；year=84；year-range=6；undated-range=1；undated-context=113；season=22；lunar-day=1；year-after=7；month=39；half-year=2；day-range=11；month-after=2；day-after=4；year-context=1；year-about=5；year-end=1
 
 
 1935
@@ -832,7 +832,7 @@
   标签：待校日、马占山、王家桢、初一学生、抗日英雄
   视图：生平线、抗战线、东北线
   作品：李敖风流自传
-  交叉引用：1947-04-16-ma-zhanshan-returns-to-northeast
+  交叉引用：1947-04-16-ma-zhanshan-returns-northeast
   来源：李敖风流自传 / 043.我见到马占山将军 / line 3
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/043.我见到马占山将军.txt
@@ -3478,6 +3478,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/246.债主死了.txt
   数据：data/timeline-events-seventh-book.json#book7-1962-02-24-hu-shi-dies-before-li-repays-the-thousand-yuan
+- 1962年2月25日 | 周若木在《政治评论》发起早期反击
+  精度：day；可靠度：confirmed；排序日期：1962-02-25
+  摘要：李敖在《文化论战丹火录》回顾，1962年2月25日《政治评论》第7卷第12期刊出周若木《论中西文化问题》，这是《给谈中西文化的人看看病》发表后最早的一波公开围剿之一。
+  人物：李敖、周若木
+  地点：台湾
+  标签：文化论战丹火录、政治评论、周若木、1962
+  视图：论战线、回响线、发表线
+  作品：文化论战丹火录、论中西文化问题
+  交叉引用：book5-1962-02-01-zhongxi-culture-essay
+  来源：文化论战丹火录 / 002.文化论战丹火录 / line 139
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/002.文化论战丹火录/002.文化论战丹火录.txt
+  数据：data/timeline-events-cultural-debate-danhuo.json#danhuo-1962-02-25-zhou-ruomu-counterattack
 - 1962年3月13日 | 李敖第一次改写《长袍心理学》
   精度：day；可靠度：confirmed；排序日期：1962-03-13
   摘要：《长袍心理学》文末记“1962年3月13日改一年前旧作”。这让此文形成从1961年写定到1962年首次重修的作品演进链。
@@ -3491,6 +3504,84 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/013.长袍心理学.txt
   数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1962-03-13-changpao-psychology-first-revision
+- 1962年3月25日 | 叶青发表《全盘西化论之分析》加入围剿
+  精度：day；可靠度：confirmed；排序日期：1962-03-25
+  摘要：《文化论战丹火录》记，1962年3月25日，叶青在《政治评论》第8卷第2期发表《全盘西化论之分析》，标志这场论战从单篇反驳升级为持续性的阵地战。
+  人物：李敖、叶青
+  地点：台湾
+  标签：文化论战丹火录、政治评论、叶青、1962
+  视图：论战线、回响线、发表线
+  作品：文化论战丹火录、全盘西化论之分析
+  交叉引用：book5-1962-02-01-zhongxi-culture-essay
+  来源：文化论战丹火录 / 002.文化论战丹火录 / line 283
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/002.文化论战丹火录/002.文化论战丹火录.txt
+  数据：data/timeline-events-cultural-debate-danhuo.json#danhuo-1962-03-25-ye-qing-analysis-of-wholesale-westernization
+- 1962年3月27日 | 李敖写《我要继续给人看看病》
+  精度：day；可靠度：confirmed；排序日期：1962-03-27
+  摘要：《我要继续给人看看病》末署1962年3月27日，显示李敖在《给谈中西文化的人看看病》引发围剿后，并未收手，反而继续以更细的分论推进全盘西化与现代化立场。
+  人物：李敖、胡秋原
+  地点：台湾
+  标签：我要继续给人看看病、中西文化论战、全盘西化、1962
+  视图：写作线、思想线、论战线
+  作品：我要继续给人看看病、为中国思想趋向求答案
+  交叉引用：book5-1962-02-01-zhongxi-culture-essay、danhuo-1962-02-25-zhou-ruomu-counterattack、danhuo-1962-03-25-ye-qing-analysis-of-wholesale-westernization
+  来源：为中国思想趋向求答案 / 003.我要继续给人看看病 / line 513
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/003.为中国思想趋向求答案/003.我要继续给人看看病.txt
+  数据：data/timeline-events-thought-trend-answer.json#thought-answer-1962-03-27-continues-diagnosing-cultural-debate
+- 1962年4月1日 | 《我要继续给人看看病》刊于《文星》第五十四期
+  精度：day；可靠度：confirmed；排序日期：1962-04-01
+  摘要：《我要继续给人看看病》文末注明刊于《文星》第五十四期（1962年4月1日）。它把李敖在中西文化论战中的第二波系统回应钉到具体发表层，也把这场论战从导言推进到连环分论。
+  人物：李敖
+  地点：台北
+  标签：我要继续给人看看病、文星、中西文化论战、1962
+  视图：发表线、思想线、论战线
+  作品：我要继续给人看看病、文星、为中国思想趋向求答案
+  交叉引用：thought-answer-1962-03-27-continues-diagnosing-cultural-debate、book5-1962-02-01-zhongxi-culture-essay
+  来源：为中国思想趋向求答案 / 003.我要继续给人看看病 / line 517
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/003.为中国思想趋向求答案/003.我要继续给人看看病.txt
+  数据：data/timeline-events-thought-trend-answer.json#thought-answer-1962-04-01-continues-diagnosing-published-in-wenxing
+- 1962年4月10日 | 叶青发表《文化创造论之确立》
+  精度：day；可靠度：confirmed；排序日期：1962-04-10
+  摘要：《文化论战丹火录》记，1962年4月10日叶青在《政治评论》第8卷第3期发表《文化创造论之确立》，不再单独攻击胡秋原，而是与传统派、超越派形成更明显的联合战线，共同围攻李敖等西化论者。
+  人物：李敖、叶青、胡秋原
+  地点：台湾
+  标签：文化论战丹火录、政治评论、叶青、1962
+  视图：论战线、回响线、发表线
+  作品：文化论战丹火录、文化创造论之确立
+  交叉引用：book5-1962-02-01-zhongxi-culture-essay
+  来源：文化论战丹火录 / 002.文化论战丹火录 / line 371
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/002.文化论战丹火录/002.文化论战丹火录.txt
+  数据：data/timeline-events-cultural-debate-danhuo.json#danhuo-1962-04-10-ye-qing-establishes-cultural-creation-line
+- 1962年5月13日 | 《政治评论》社举办中西文化座谈会
+  精度：day；可靠度：confirmed；排序日期：1962-05-13
+  摘要：李敖在《文化论战丹火录》中记下，1962年5月13日《政治评论》社举办所谓中西文化座谈会，邀集多名学术教育界人士发言，成为传统派对文化论战的一次集体动员。
+  人物：李敖、叶青、沈刚伯、吴相湘、徐复观
+  地点：台湾
+  标签：文化论战丹火录、政治评论、座谈会、1962
+  视图：论战线、回响线、座谈线
+  作品：文化论战丹火录
+  交叉引用：book5-1962-02-01-zhongxi-culture-essay
+  来源：文化论战丹火录 / 002.文化论战丹火录 / line 685
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/002.文化论战丹火录/002.文化论战丹火录.txt
+  数据：data/timeline-events-cultural-debate-danhuo.json#danhuo-1962-05-13-political-review-cultural-forum
+- 1962年5月25日 | 《政治评论》扩大刊出座谈会纪录并发动总攻
+  精度：day；可靠度：confirmed；排序日期：1962-05-25
+  摘要：李敖在《文化论战丹火录》中记下，1962年5月25日《政治评论》第8卷第6期大篇幅刊出座谈会滥套文字，并在其后续补篇与读者投书中继续集体围剿，把文化论战推进到更成规模的总攻阶段。
+  人物：李敖、叶青、毛子水、李定一、叶守乾
+  地点：台湾
+  标签：文化论战丹火录、政治评论、座谈会纪录、1962
+  视图：论战线、回响线、舆论线
+  作品：文化论战丹火录、中西文化问题（座谈会纪录补篇）
+  交叉引用：danhuo-1962-05-13-political-review-cultural-forum、book5-1962-02-01-zhongxi-culture-essay
+  来源：文化论战丹火录 / 002.文化论战丹火录 / line 697
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/002.文化论战丹火录/002.文化论战丹火录.txt
+  数据：data/timeline-events-cultural-debate-danhuo.json#danhuo-1962-05-25-political-review-escalates-general-offensive
 - 1962年6月1日 | 《妈妈·弟弟·电影》原登《文星》第五十六号
   精度：day；可靠度：confirmed；排序日期：1962-06-01
   摘要：《妈妈·弟弟·电影》后记说明，全文及后记原登《文星》第五十六号（1962年6月1日台北出版）。这为李敖以家庭喜剧与影迷文化讽刺时论的文章，留下清楚的杂志发表节点。
@@ -3504,6 +3595,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/012.妈妈·弟弟·电影.txt
   数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1962-06-01-mother-brother-film-published-in-wenxing
+- 1962年6月15日 | 若兰报道《中西文化论战新形势》
+  精度：day；可靠度：confirmed；排序日期：1962-06-15
+  摘要：《文化论战丹火录》记，1962年6月15日香港《中国学生周报》第517期刊出若兰《中西文化论战新形势》，从外部观察角度指出西化派已换上青年新军，而传统派与超越派后继乏力，显示战局进入新阶段。
+  人物：李敖、若兰、沈国钧、许登源、田尚明、徐复观、胡秋原、郑学稼、叶青
+  地点：香港、台湾
+  标签：文化论战丹火录、中国学生周报、若兰、1962
+  视图：论战线、回响线、外部观察线
+  作品：文化论战丹火录、中西文化论战新形势
+  交叉引用：book5-1962-02-01-zhongxi-culture-essay
+  来源：文化论战丹火录 / 002.文化论战丹火录 / line 1045
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/002.文化论战丹火录/002.文化论战丹火录.txt
+  数据：data/timeline-events-cultural-debate-danhuo.json#danhuo-1962-06-15-ruolan-reports-new-shape-of-debate
 - 1962年7月6日 | 萧孟能写信感谢李敖提升《文星》
   精度：day；可靠度：confirmed；排序日期：1962-07-06
   摘要：李敖在《文星与伪文星》中说，自己保有萧孟能1962年7月6日的感恩信，称“我是多么的感谢你”。
@@ -3530,6 +3634,58 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/003.我最难忘的一位老师.txt
   数据：data/timeline-events-first-book-supplement.json#1962-07-15-yan-hospital-bill
+- 1962年7月15日 | 青年党《醒狮》举办中西文化座谈会
+  精度：day；可靠度：confirmed；排序日期：1962-07-15
+  摘要：《文化论战丹火录》记，1962年7月15日青年党机关刊物《醒狮》社召集党内元老、报刊编辑、教授与民意代表举行文化座谈会，显示中西文化论战已从个人撰文攻防扩展到政党阵营层面的集体动员，相关纪录后来又被《政治评论》摘要转用。
+  人物：李敖、余家菊、张梦九、刘泗英、关德辛、黄欣周、辛植柏、陈善新
+  地点：台湾
+  标签：文化论战丹火录、醒狮、青年党、1962
+  视图：论战线、阵营线、座谈线
+  作品：文化论战丹火录、青年党中西文化问题座谈会纪录摘要
+  交叉引用：book5-1962-02-01-zhongxi-culture-essay、danhuo-1962-05-13-political-review-cultural-forum
+  来源：文化论战丹火录 / 002.文化论战丹火录 / line 1199
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/002.文化论战丹火录/002.文化论战丹火录.txt
+  数据：data/timeline-events-cultural-debate-danhuo.json#danhuo-1962-07-15-youth-party-awakening-lion-forum
+- 1962年7月22日 | 李敖写《敬答吴心柳先生》
+  精度：day；可靠度：confirmed；排序日期：1962-07-22
+  摘要：《敬答吴心柳先生》末署1962年7月22日。李敖借回信继续细化“全盘西化”论战中的起脚点、方法与分论策略，也留下他如何看待自己从导言转入分题作战的清楚自述。
+  人物：李敖、吴心柳
+  地点：台湾、香港
+  标签：敬答吴心柳先生、吴心柳、中西文化论战、1962
+  视图：写作线、书信线、论战线
+  作品：敬答吴心柳先生、为中国思想趋向求答案
+  交叉引用：book5-1962-02-01-zhongxi-culture-essay、thought-answer-1962-03-27-continues-diagnosing-cultural-debate
+  来源：为中国思想趋向求答案 / 004.敬答吴心柳先生 / line 53
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/003.为中国思想趋向求答案/004.敬答吴心柳先生.txt
+  数据：data/timeline-events-thought-trend-answer.json#thought-answer-1962-07-22-replies-to-wu-xinliu
+- 1962年7月25日 | 李敖写《“文化太保”谈梅毒》
+  精度：day；可靠度：confirmed；排序日期：1962-07-25
+  摘要：《“文化太保”谈梅毒》末署1962年7月25日。李敖借“梅毒”与“文化太保”这两个争议词，回敬论敌对其用语的帽子化攻击，并继续说明西化冲击下词汇、观念与文化交流的不可逆。
+  人物：李敖
+  地点：台湾
+  标签：文化太保谈梅毒、梅毒、文化太保、西化、1962
+  视图：写作线、思想线、论战线
+  作品：“文化太保”谈梅毒、为中国思想趋向求答案
+  交叉引用：thought-answer-1962-07-22-replies-to-wu-xinliu、danhuo-1962-07-15-youth-party-awakening-lion-forum
+  来源：为中国思想趋向求答案 / 005.“文化太保”谈梅毒 / line 111
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/003.为中国思想趋向求答案/005.“文化太保”谈梅毒.txt
+  数据：data/timeline-events-thought-trend-answer.json#thought-answer-1962-07-25-cultural-gestapo-syphilis-written
+- 1962年8月1日 | 《敬答吴心柳先生》刊于《文星》第五十八期
+  精度：day；可靠度：confirmed；排序日期：1962-08-01
+  摘要：《敬答吴心柳先生》文末注明刊于《文星》第五十八期（1962年8月1日）。这使李敖给吴心柳的长信，不只是私人通信，而成为中西文化论战中公开发表的继续作战文本。
+  人物：李敖、吴心柳
+  地点：台北
+  标签：敬答吴心柳先生、文星、吴心柳、1962
+  视图：发表线、书信线、论战线
+  作品：敬答吴心柳先生、文星、为中国思想趋向求答案
+  交叉引用：thought-answer-1962-07-22-replies-to-wu-xinliu
+  来源：为中国思想趋向求答案 / 004.敬答吴心柳先生 / line 55
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/003.为中国思想趋向求答案/004.敬答吴心柳先生.txt
+  数据：data/timeline-events-thought-trend-answer.json#thought-answer-1962-08-01-reply-to-wu-published-in-wenxing
 - 1962年8月24日 | 李敖写定《由一丝不挂说起》
   精度：day；可靠度：confirmed；排序日期：1962-08-24
   摘要：《由一丝不挂说起》正文末署1962年8月24日。这篇文章借玛丽莲·梦露之死与女性身体观念，系统讨论中国与西方在肉体、服饰和现代化上的观念变化，是《传统下的独白》中极具代表性的文化论战文字。
@@ -3582,6 +3738,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/003.我最难忘的一位老师.txt
   数据：data/timeline-events-first-book-supplement.json#1962-10-01-yan-letter-debt
+- 1962年10月10日 | 陶希圣发表《中西文化论战中高一层的见解》
+  精度：day；可靠度：confirmed；排序日期：1962-10-10
+  摘要：《文化论战丹火录》记，1962年10月10日陶希圣在《中央日报》发表《中西文化论战中高一层的见解》，宣称论战已到结束阶段，并试图把争论提升到“灵性”与道德教育问题，显示重量级政治文化人物正式下场改写战线层级。
+  人物：李敖、陶希圣、邱有珍
+  地点：台湾
+  标签：文化论战丹火录、陶希圣、中央日报、1962
+  视图：论战线、介入线、发表线
+  作品：文化论战丹火录、中西文化论战中高一层的见解
+  交叉引用：book5-1962-02-01-zhongxi-culture-essay、danhuo-1962-10-16-zuo-shunsheng-supportive-intervention
+  来源：文化论战丹火录 / 002.文化论战丹火录 / line 1563
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/002.文化论战丹火录/002.文化论战丹火录.txt
+  数据：data/timeline-events-cultural-debate-danhuo.json#danhuo-1962-10-10-tao-xisheng-higher-level-view
+- 1962年10月16日 | 左舜生发文声援反传统文化论点
+  精度：day；可靠度：confirmed；排序日期：1962-10-16
+  摘要：《文化论战丹火录》特别拎出左舜生于1962年10月16日在《民主潮》发表《从研究现代中国谈到东西文化》，把高谈传统文化而暗放冷箭者称作“共产党的变种”，视作论战中少数有力的同向支援。
+  人物：李敖、左舜生
+  地点：台湾
+  标签：文化论战丹火录、左舜生、民主潮、1962
+  视图：论战线、回响线、支援线
+  作品：文化论战丹火录、从研究现代中国谈到东西文化
+  交叉引用：book5-1962-02-01-zhongxi-culture-essay、traditional-monologue-1962-11-01-medical-practitioners-law-essay-published-in-wenxing
+  来源：文化论战丹火录 / 002.文化论战丹火录 / line 2305
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/002.文化论战丹火录/002.文化论战丹火录.txt
+  数据：data/timeline-events-cultural-debate-danhuo.json#danhuo-1962-10-16-zuo-shunsheng-supportive-intervention
 - 1962年11月1日 | 《修改〈医师法〉与废止中医》原登《文星》第六十一号
   精度：day；可靠度：confirmed；排序日期：1962-11-01
   摘要：《修改〈医师法〉与废止中医》文内后记说明，此文原登《文星》第六十一号（1962年11月1日台北出版）。这为李敖以现代化与科学医学立场批判中医法制留下一条明确的原始发表节点。
@@ -3595,6 +3777,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/018.修改《医师法》与废止中医.txt
   数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1962-11-01-medical-practitioners-law-essay-published-in-wenxing
+- 1962年11月12日 | 李敖与王尚勤在牯岭街书摊发现《梅毒详论》
+  精度：day；可靠度：confirmed；排序日期：1962-11-12
+  摘要：《“文化太保”谈梅毒》后记记，1962年11月12日，李敖和王尚勤逛台北牯岭街书摊时，发现一本中华医学会发行的《梅毒详论》。这说明他在论战文字发表后，仍继续主动搜罗近代医学资料，为自己的文化与知识论战补强依据。
+  人物：李敖、王尚勤
+  地点：台北牯岭街、台北
+  标签：文化太保谈梅毒、牯岭街、王尚勤、梅毒详论、1962
+  视图：日常线、读书线、论战线
+  作品：“文化太保”谈梅毒、梅毒详论、为中国思想趋向求答案
+  交叉引用：thought-answer-1962-07-25-cultural-gestapo-syphilis-written
+  来源：为中国思想趋向求答案 / 005.“文化太保”谈梅毒 / line 139
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/003.为中国思想趋向求答案/005.“文化太保”谈梅毒.txt
+  数据：data/timeline-events-thought-trend-answer.json#thought-answer-1962-11-12-finds-syphilis-monograph-with-shangqin
 - 1962年11月27日 | 李敖小改《旧天子与新皇帝》并交代历史小说计划未续
   精度：day；可靠度：confirmed；排序日期：1962-11-27
   摘要：《旧天子与新皇帝》文末记1962年11月27日小作修改，后记也同日说明原想把中国历史事件做“切片”写成短篇小说，最后只写成这一篇。它既是修订日，也是一次自我写作计划说明。
@@ -3660,6 +3855,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/022.十三年和十三月.txt
   数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1962-12-17-thirteen-years-and-thirteen-months-dated
+- 1962年 | 1962年中西文化论战全面爆发
+  精度：year；可靠度：confirmed；排序日期：1962-01-01
+  摘要：《文化论战丹火录》把1962年定为一场中西文化大论战爆发之年，并将其视作中华民国成立以来一连串思想论战中的重要一环，也是李敖集中介入文化路线之争的起点。
+  人物：李敖、胡适
+  地点：台湾
+  标签：文化论战丹火录、中西文化论战、1962、论战
+  视图：思想线、论战线、作品线
+  作品：文化论战丹火录
+  交叉引用：book5-1962-02-01-zhongxi-culture-essay、book5-1962-09-01-yisi-bugua-published、traditional-monologue-1962-11-01-medical-practitioners-law-essay-published-in-wenxing、book5-1963-10-01-chunvmo-zhengxing-published
+  来源：文化论战丹火录 / 002.文化论战丹火录 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/002.文化论战丹火录/002.文化论战丹火录.txt
+  数据：data/timeline-events-cultural-debate-danhuo.json#danhuo-1962-cultural-debate-erupts
 - 1962年1月15日夜11时半动手写，七小时写毕，在碧潭山楼 | 李敖在碧潭山楼通宵写成《光绪朝对节妇贞女的旌表》
   精度：day-range；可靠度：confirmed；排序日期：1962-01-15
   摘要：《光绪朝对节妇贞女的旌表》文末署“1962年1月15日夜11时半动手写，七小时写毕，在碧潭山楼”。这条留下了李敖深夜起笔、通宵完成此文的清晰写作痕迹，也把碧潭山楼再次钉进他早期写作生活里。
@@ -3974,6 +4182,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1963-10-01-chunvmo-zhengxing-published
+- 1963年10月7日 | 骆梵寄剪报给李敖，继续《论“处女膜整形”》后的讨论
+  精度：day；可靠度：confirmed；排序日期：1963-10-07
+  摘要：《论“处女膜整形”》后记记，1963年10月7日，冈山读者骆梵寄剪报给李敖，称其为“愚民政策的证据之一”，并认为比文中原先引用的读者投书更有价值。这条材料把该文发表后的读者互动和李敖继续搜集社会舆论材料的动作补了出来。
+  人物：李敖、骆梵
+  地点：冈山、台北
+  标签：论处女膜整形、骆梵、剪报、读者来信、1963
+  视图：回响线、书信线、论战线
+  作品：论“处女膜整形”、为中国思想趋向求答案
+  交叉引用：book5-1963-10-01-chunvmo-zhengxing-published
+  来源：为中国思想趋向求答案 / 006.论“处女膜整形” / line 351
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/003.为中国思想趋向求答案/006.论“处女膜整形”.txt
+  数据：data/timeline-events-thought-trend-answer.json#thought-answer-1963-10-07-luo-fan-sends-clipping-on-chastity-discourse
 - 1963年10月8日 | 李敖为《充员官》依原稿稍做改订
   精度：day；可靠度：confirmed；排序日期：1963-10-08
   摘要：《充员官》文末先注明原文发表于1961年4月3日台北《中华日报》副刊，继而又注明“现在依原稿稍做改订，1963年10月8日”。这使它在原始发表之外，又留下一个可单独入表的修订与入书准备节点。
@@ -4210,6 +4431,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/001.教育与脸谱/003.论“占着茅坑不拉屎””.txt
   数据：data/timeline-events-education-and-faces.json#education-faces-1964-01-01-occupying-outhouse-not-pooping
+- 1964年元旦 | 《中国思想趋向的一个答案》刊于《自立晚报》元旦特刊
+  精度：day；可靠度：confirmed；排序日期：1964-01-01
+  摘要：《中国思想趋向的一个答案》后记说明，此文原登台北《自立晚报》1964年元旦特刊《新岁献言》。这为李敖把“反孔系统”“现代自由主义”“科学、民主、现代化”连成整体答案，留下明确发表节点。
+  人物：李敖、叶明勋
+  地点：台北
+  标签：中国思想趋向的一个答案、自立晚报、元旦特刊、1964
+  视图：发表线、思想线、作品线
+  作品：中国思想趋向的一个答案、自立晚报、为中国思想趋向求答案
+  交叉引用：thought-answer-1964-05-introduces-my-answer-book、danhuo-1964-06-25-opening-statement-on-publication-day
+  来源：为中国思想趋向求答案 / 007.中国思想趋向的一个答案 / line 67
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/003.为中国思想趋向求答案/007.中国思想趋向的一个答案.txt
+  数据：data/timeline-events-thought-trend-answer.json#thought-answer-1964-01-01-answer-to-china-thought-trend-published
 - 1964年1月14日 | 吴申叔在台北喜临门请李敖吃饭
   精度：day；可靠度：confirmed；排序日期：1964-01-14
   摘要：《星火纪》写，李敖初识吴申叔是在1964年1月14日，吴申叔请他在台北喜临门吃饭，成为文星时代一段重要交游的起点。
@@ -4314,6 +4548,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/001.教育与脸谱/012.於梨华和她的小说.txt
   数据：data/timeline-events-education-and-faces.json#education-faces-1964-06-01-yu-lihua-published
+- 1964年6月25日《为中国思想趋向求答案》出书之日 | 李敖写《文化论战丹火录》开场白
+  精度：day；可靠度：confirmed；排序日期：1964-06-25
+  摘要：《文化论战丹火录》开场白署“1964年6月25日《为中国思想趋向求答案》出书之日”，显示李敖把这本围剿档案册与自己同日推出的思想主张书并置，形成攻防两线并开的姿态。
+  人物：李敖
+  地点：台湾
+  标签：文化论战丹火录、开场白、为中国思想趋向求答案、1964
+  视图：序跋线、作品线、出版线
+  作品：文化论战丹火录、为中国思想趋向求答案、《文化论战丹火录》开场白
+  交叉引用：book5-1962-02-01-zhongxi-culture-essay、book5-1962-09-01-yisi-bugua-published、traditional-monologue-1962-11-01-medical-practitioners-law-essay-published-in-wenxing、book5-1963-10-01-chunvmo-zhengxing-published
+  来源：文化论战丹火录 / 001.《文化论战丹火录》开场白 / line 41
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/002.文化论战丹火录/001.《文化论战丹火录》开场白.txt
+  数据：data/timeline-events-cultural-debate-danhuo.json#danhuo-1964-06-25-opening-statement-on-publication-day
 - 1964年7月10日 | 徐复观发文影射李敖为“小疯狗”，李敖后来提告
   精度：day；可靠度：confirmed；排序日期：1964-07-10
   摘要：《根株纪》写，徐复观1964年7月10日撰文影射“以胡适为衣食父母”的人豢养“小疯狗”，并写“李×”批评台大；李敖认为除他之外别无他人可适用，后来据此提起诽谤诉讼。
@@ -4327,6 +4574,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/010.根株纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1964-07-10-xu-fuguan-little-mad-dog-article
+- 1964年7月22日在台北 | 李敖写完《文化论战丹火录》
+  精度：day；可靠度：confirmed；排序日期：1964-07-22
+  摘要：《文化论战丹火录》结语末署“1964年7月22日在台北”，标出李敖将这场中西文化论战的材料、攻击与回响整理成册的完成时间。
+  人物：李敖
+  地点：台北、台湾
+  标签：文化论战丹火录、结语、1964、写作
+  视图：写作线、作品线、收束线
+  作品：文化论战丹火录
+  交叉引用：danhuo-1964-06-25-opening-statement-on-publication-day、book5-1962-02-01-zhongxi-culture-essay、book5-1962-09-01-yisi-bugua-published、traditional-monologue-1962-11-01-medical-practitioners-law-essay-published-in-wenxing、book5-1963-10-01-chunvmo-zhengxing-published
+  来源：文化论战丹火录 / 002.文化论战丹火录 / line 2321
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/002.文化论战丹火录/002.文化论战丹火录.txt
+  数据：data/timeline-events-cultural-debate-danhuo.json#danhuo-1964-07-22-completes-cultural-debate-danhuo-record
 - 1964年7月27日东方未明时 | 李敖写成《教育与脸谱》序幕
   精度：day；可靠度：confirmed；排序日期：1964-07-27
   摘要：《教育与脸谱》序幕文末署“1964年7月27日东方未明时”，显示李敖把这一册视为对教育界与学术界脸谱的集中记录和反击。
@@ -4613,6 +4873,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1964-spring-affair-with-shanghai-cafe-owner-at-andong-st
+- 1964年5月在台湾 | 李敖写《介绍我的〈为中国思想趋向求答案〉》
+  精度：month；可靠度：confirmed；排序日期：1964-05-31
+  摘要：《介绍我的〈为中国思想趋向求答案〉》末署“1964年5月在台湾”。这篇序文式文字把李敖自己定位为为中国文化思想困局求答案的人，并把“科学”“民主”“现代化”明确树为时代方向，是本书最清楚的开卷姿态。
+  人物：李敖
+  地点：台湾
+  标签：为中国思想趋向求答案、介绍、现代化、1964
+  视图：序跋线、思想线、作品线
+  作品：为中国思想趋向求答案、介绍我的《为中国思想趋向求答案》
+  交叉引用：danhuo-1964-06-25-opening-statement-on-publication-day
+  来源：为中国思想趋向求答案 / 001.介绍我的《为中国思想趋向求答案》 / line 49
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/003.为中国思想趋向求答案/001.介绍我的《为中国思想趋向求答案》.txt
+  数据：data/timeline-events-thought-trend-answer.json#thought-answer-1964-05-introduces-my-answer-book
+- 1964年6月 | 李敖写《文化论战的尾巴》
+  精度：month；可靠度：confirmed；排序日期：1964-06-30
+  摘要：《文化论战的尾巴》末署“1964年6月”。这篇收束文字把李敖在论战后的孤臣心境、对主将未至的失望，以及自认继续扮演前锋角色的悲壮姿态，一并钉在《为中国思想趋向求答案》的尾声上。
+  人物：李敖、居浩然
+  地点：台湾
+  标签：文化论战的尾巴、文化论战、1964、收束
+  视图：写作线、论战线、收束线
+  作品：文化论战的尾巴、为中国思想趋向求答案
+  交叉引用：danhuo-1964-07-22-completes-cultural-debate-danhuo-record、danhuo-1964-06-25-opening-statement-on-publication-day
+  来源：为中国思想趋向求答案 / 008.文化论战的尾巴 / line 17
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/003.为中国思想趋向求答案/008.文化论战的尾巴.txt
+  数据：data/timeline-events-thought-trend-answer.json#thought-answer-1964-06-cultural-debate-tail-written
 - 1964年9月28日至10月4日 | 李敖连续写给“H”的情书
   精度：day-range；可靠度：confirmed；排序日期：1964-09-28
   摘要：《白露纪》收录李敖1964年9月28日、9月30日、10月3日至4日写给“H”的情书片段，留下文星时代私生活和情感写作的日常痕迹。
@@ -11934,7 +12220,7 @@
   标签：孙中山研究、出版法、行政处分、查禁
   视图：出版线、司法线、思想线
   作品：孙中山研究、李敖相关
-  交叉引用：book5-1987-writes-sun-yat-sen-study
+  交叉引用：book5-1987-writes-sun-yatsen-study
   来源：李敖相关 / 006.李敖著作查禁清单及官方理由 / line 399
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/008.李敖相关/006.李敖著作查禁清单及官方理由.txt
@@ -16537,7 +16823,7 @@
   标签：虚拟的十七岁、刘长乐、新书发表会、朱仑、2007年
   视图：写作线、媒体线、出版线
   作品：虚拟的十七岁、李敖风流自传
-  交叉引用：book7-2002-11-27-drafts-outline-for-bare-seventeen-as-prototype-of-virtual-seventeen
+  交叉引用：book7-2002-11-27-drafts-outline-for-naked-seventeen-before-virtual-seventeen
   来源：李敖风流自传 / 015.《虚拟的十七岁》 / line 11
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/015.《虚拟的十七岁》.txt

@@ -25,7 +25,9 @@ const dataFiles = [
   "data/timeline-events-wencun-two.json",
   "data/timeline-events-bobo-song.json",
   "data/timeline-events-li-ao-complete-works.json",
-  "data/timeline-events-education-and-faces.json"
+  "data/timeline-events-education-and-faces.json",
+  "data/timeline-events-cultural-debate-danhuo.json",
+  "data/timeline-events-thought-trend-answer.json"
 ];
 const outputPath = path.join(root, "exports", "leeao-current-timeline.txt");
 

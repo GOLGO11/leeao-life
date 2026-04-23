@@ -1685,7 +1685,7 @@
     "places": ["北京"],
     "works": ["李敖风流自传"],
     "certainty": "contextual",
-    "crossReferences": ["1947-04-16-ma-zhanshan-returns-to-northeast"],
+    "crossReferences": ["1947-04-16-ma-zhanshan-returns-northeast"],
     "source": {
       "book": "李敖风流自传",
       "chapter": "043.我见到马占山将军",
@@ -1706,7 +1706,7 @@
     "places": ["台北"],
     "works": ["虚拟的十七岁", "李敖风流自传"],
     "certainty": "contextual",
-    "crossReferences": ["book7-2002-11-27-drafts-outline-for-bare-seventeen-as-prototype-of-virtual-seventeen"],
+    "crossReferences": ["book7-2002-11-27-drafts-outline-for-naked-seventeen-before-virtual-seventeen"],
     "source": {
       "book": "李敖风流自传",
       "chapter": "015.《虚拟的十七岁》",

@@ -1,0 +1,239 @@
+[
+  {
+    "id": "thought-answer-1964-05-introduces-my-answer-book",
+    "date": "1964-05-31",
+    "displayDate": "1964年5月在台湾",
+    "datePrecision": "month",
+    "title": "李敖写《介绍我的〈为中国思想趋向求答案〉》",
+    "summary": "《介绍我的〈为中国思想趋向求答案〉》末署“1964年5月在台湾”。这篇序文式文字把李敖自己定位为为中国文化思想困局求答案的人，并把“科学”“民主”“现代化”明确树为时代方向，是本书最清楚的开卷姿态。",
+    "view": ["序跋线", "思想线", "作品线"],
+    "tags": ["为中国思想趋向求答案", "介绍", "现代化", "1964"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["为中国思想趋向求答案", "介绍我的《为中国思想趋向求答案》"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "danhuo-1964-06-25-opening-statement-on-publication-day"
+    ],
+    "source": {
+      "book": "为中国思想趋向求答案",
+      "chapter": "001.介绍我的《为中国思想趋向求答案》",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/003.为中国思想趋向求答案/001.介绍我的《为中国思想趋向求答案》.txt",
+      "line": 49
+    }
+  },
+  {
+    "id": "thought-answer-1962-03-27-continues-diagnosing-cultural-debate",
+    "date": "1962-03-27",
+    "displayDate": "1962年3月27日",
+    "datePrecision": "day",
+    "title": "李敖写《我要继续给人看看病》",
+    "summary": "《我要继续给人看看病》末署1962年3月27日，显示李敖在《给谈中西文化的人看看病》引发围剿后，并未收手，反而继续以更细的分论推进全盘西化与现代化立场。",
+    "view": ["写作线", "思想线", "论战线"],
+    "tags": ["我要继续给人看看病", "中西文化论战", "全盘西化", "1962"],
+    "people": ["李敖", "胡秋原"],
+    "places": ["台湾"],
+    "works": ["我要继续给人看看病", "为中国思想趋向求答案"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book5-1962-02-01-zhongxi-culture-essay",
+      "danhuo-1962-02-25-zhou-ruomu-counterattack",
+      "danhuo-1962-03-25-ye-qing-analysis-of-wholesale-westernization"
+    ],
+    "source": {
+      "book": "为中国思想趋向求答案",
+      "chapter": "003.我要继续给人看看病",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/003.为中国思想趋向求答案/003.我要继续给人看看病.txt",
+      "line": 513
+    }
+  },
+  {
+    "id": "thought-answer-1962-04-01-continues-diagnosing-published-in-wenxing",
+    "date": "1962-04-01",
+    "displayDate": "1962年4月1日",
+    "datePrecision": "day",
+    "title": "《我要继续给人看看病》刊于《文星》第五十四期",
+    "summary": "《我要继续给人看看病》文末注明刊于《文星》第五十四期（1962年4月1日）。它把李敖在中西文化论战中的第二波系统回应钉到具体发表层，也把这场论战从导言推进到连环分论。",
+    "view": ["发表线", "思想线", "论战线"],
+    "tags": ["我要继续给人看看病", "文星", "中西文化论战", "1962"],
+    "people": ["李敖"],
+    "places": ["台北"],
+    "works": ["我要继续给人看看病", "文星", "为中国思想趋向求答案"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "thought-answer-1962-03-27-continues-diagnosing-cultural-debate",
+      "book5-1962-02-01-zhongxi-culture-essay"
+    ],
+    "source": {
+      "book": "为中国思想趋向求答案",
+      "chapter": "003.我要继续给人看看病",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/003.为中国思想趋向求答案/003.我要继续给人看看病.txt",
+      "line": 517
+    }
+  },
+  {
+    "id": "thought-answer-1962-07-22-replies-to-wu-xinliu",
+    "date": "1962-07-22",
+    "displayDate": "1962年7月22日",
+    "datePrecision": "day",
+    "title": "李敖写《敬答吴心柳先生》",
+    "summary": "《敬答吴心柳先生》末署1962年7月22日。李敖借回信继续细化“全盘西化”论战中的起脚点、方法与分论策略，也留下他如何看待自己从导言转入分题作战的清楚自述。",
+    "view": ["写作线", "书信线", "论战线"],
+    "tags": ["敬答吴心柳先生", "吴心柳", "中西文化论战", "1962"],
+    "people": ["李敖", "吴心柳"],
+    "places": ["台湾", "香港"],
+    "works": ["敬答吴心柳先生", "为中国思想趋向求答案"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book5-1962-02-01-zhongxi-culture-essay",
+      "thought-answer-1962-03-27-continues-diagnosing-cultural-debate"
+    ],
+    "source": {
+      "book": "为中国思想趋向求答案",
+      "chapter": "004.敬答吴心柳先生",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/003.为中国思想趋向求答案/004.敬答吴心柳先生.txt",
+      "line": 53
+    }
+  },
+  {
+    "id": "thought-answer-1962-08-01-reply-to-wu-published-in-wenxing",
+    "date": "1962-08-01",
+    "displayDate": "1962年8月1日",
+    "datePrecision": "day",
+    "title": "《敬答吴心柳先生》刊于《文星》第五十八期",
+    "summary": "《敬答吴心柳先生》文末注明刊于《文星》第五十八期（1962年8月1日）。这使李敖给吴心柳的长信，不只是私人通信，而成为中西文化论战中公开发表的继续作战文本。",
+    "view": ["发表线", "书信线", "论战线"],
+    "tags": ["敬答吴心柳先生", "文星", "吴心柳", "1962"],
+    "people": ["李敖", "吴心柳"],
+    "places": ["台北"],
+    "works": ["敬答吴心柳先生", "文星", "为中国思想趋向求答案"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "thought-answer-1962-07-22-replies-to-wu-xinliu"
+    ],
+    "source": {
+      "book": "为中国思想趋向求答案",
+      "chapter": "004.敬答吴心柳先生",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/003.为中国思想趋向求答案/004.敬答吴心柳先生.txt",
+      "line": 55
+    }
+  },
+  {
+    "id": "thought-answer-1962-07-25-cultural-gestapo-syphilis-written",
+    "date": "1962-07-25",
+    "displayDate": "1962年7月25日",
+    "datePrecision": "day",
+    "title": "李敖写《“文化太保”谈梅毒》",
+    "summary": "《“文化太保”谈梅毒》末署1962年7月25日。李敖借“梅毒”与“文化太保”这两个争议词，回敬论敌对其用语的帽子化攻击，并继续说明西化冲击下词汇、观念与文化交流的不可逆。",
+    "view": ["写作线", "思想线", "论战线"],
+    "tags": ["文化太保谈梅毒", "梅毒", "文化太保", "西化", "1962"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["“文化太保”谈梅毒", "为中国思想趋向求答案"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "thought-answer-1962-07-22-replies-to-wu-xinliu",
+      "danhuo-1962-07-15-youth-party-awakening-lion-forum"
+    ],
+    "source": {
+      "book": "为中国思想趋向求答案",
+      "chapter": "005.“文化太保”谈梅毒",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/003.为中国思想趋向求答案/005.“文化太保”谈梅毒.txt",
+      "line": 111
+    }
+  },
+  {
+    "id": "thought-answer-1962-11-12-finds-syphilis-monograph-with-shangqin",
+    "date": "1962-11-12",
+    "displayDate": "1962年11月12日",
+    "datePrecision": "day",
+    "title": "李敖与王尚勤在牯岭街书摊发现《梅毒详论》",
+    "summary": "《“文化太保”谈梅毒》后记记，1962年11月12日，李敖和王尚勤逛台北牯岭街书摊时，发现一本中华医学会发行的《梅毒详论》。这说明他在论战文字发表后，仍继续主动搜罗近代医学资料，为自己的文化与知识论战补强依据。",
+    "view": ["日常线", "读书线", "论战线"],
+    "tags": ["文化太保谈梅毒", "牯岭街", "王尚勤", "梅毒详论", "1962"],
+    "people": ["李敖", "王尚勤"],
+    "places": ["台北牯岭街", "台北"],
+    "works": ["“文化太保”谈梅毒", "梅毒详论", "为中国思想趋向求答案"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "thought-answer-1962-07-25-cultural-gestapo-syphilis-written"
+    ],
+    "source": {
+      "book": "为中国思想趋向求答案",
+      "chapter": "005.“文化太保”谈梅毒",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/003.为中国思想趋向求答案/005.“文化太保”谈梅毒.txt",
+      "line": 139
+    }
+  },
+  {
+    "id": "thought-answer-1963-10-07-luo-fan-sends-clipping-on-chastity-discourse",
+    "date": "1963-10-07",
+    "displayDate": "1963年10月7日",
+    "datePrecision": "day",
+    "title": "骆梵寄剪报给李敖，继续《论“处女膜整形”》后的讨论",
+    "summary": "《论“处女膜整形”》后记记，1963年10月7日，冈山读者骆梵寄剪报给李敖，称其为“愚民政策的证据之一”，并认为比文中原先引用的读者投书更有价值。这条材料把该文发表后的读者互动和李敖继续搜集社会舆论材料的动作补了出来。",
+    "view": ["回响线", "书信线", "论战线"],
+    "tags": ["论处女膜整形", "骆梵", "剪报", "读者来信", "1963"],
+    "people": ["李敖", "骆梵"],
+    "places": ["冈山", "台北"],
+    "works": ["论“处女膜整形”", "为中国思想趋向求答案"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book5-1963-10-01-chunvmo-zhengxing-published"
+    ],
+    "source": {
+      "book": "为中国思想趋向求答案",
+      "chapter": "006.论“处女膜整形”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/003.为中国思想趋向求答案/006.论“处女膜整形”.txt",
+      "line": 351
+    }
+  },
+  {
+    "id": "thought-answer-1964-01-01-answer-to-china-thought-trend-published",
+    "date": "1964-01-01",
+    "displayDate": "1964年元旦",
+    "datePrecision": "day",
+    "title": "《中国思想趋向的一个答案》刊于《自立晚报》元旦特刊",
+    "summary": "《中国思想趋向的一个答案》后记说明，此文原登台北《自立晚报》1964年元旦特刊《新岁献言》。这为李敖把“反孔系统”“现代自由主义”“科学、民主、现代化”连成整体答案，留下明确发表节点。",
+    "view": ["发表线", "思想线", "作品线"],
+    "tags": ["中国思想趋向的一个答案", "自立晚报", "元旦特刊", "1964"],
+    "people": ["李敖", "叶明勋"],
+    "places": ["台北"],
+    "works": ["中国思想趋向的一个答案", "自立晚报", "为中国思想趋向求答案"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "thought-answer-1964-05-introduces-my-answer-book",
+      "danhuo-1964-06-25-opening-statement-on-publication-day"
+    ],
+    "source": {
+      "book": "为中国思想趋向求答案",
+      "chapter": "007.中国思想趋向的一个答案",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/003.为中国思想趋向求答案/007.中国思想趋向的一个答案.txt",
+      "line": 67
+    }
+  },
+  {
+    "id": "thought-answer-1964-06-cultural-debate-tail-written",
+    "date": "1964-06-30",
+    "displayDate": "1964年6月",
+    "datePrecision": "month",
+    "title": "李敖写《文化论战的尾巴》",
+    "summary": "《文化论战的尾巴》末署“1964年6月”。这篇收束文字把李敖在论战后的孤臣心境、对主将未至的失望，以及自认继续扮演前锋角色的悲壮姿态，一并钉在《为中国思想趋向求答案》的尾声上。",
+    "view": ["写作线", "论战线", "收束线"],
+    "tags": ["文化论战的尾巴", "文化论战", "1964", "收束"],
+    "people": ["李敖", "居浩然"],
+    "places": ["台湾"],
+    "works": ["文化论战的尾巴", "为中国思想趋向求答案"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "danhuo-1964-07-22-completes-cultural-debate-danhuo-record",
+      "danhuo-1964-06-25-opening-statement-on-publication-day"
+    ],
+    "source": {
+      "book": "为中国思想趋向求答案",
+      "chapter": "008.文化论战的尾巴",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/003.为中国思想趋向求答案/008.文化论战的尾巴.txt",
+      "line": 17
+    }
+  }
+]

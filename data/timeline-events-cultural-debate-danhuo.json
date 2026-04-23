@@ -1,0 +1,292 @@
+[
+  {
+    "id": "danhuo-1962-cultural-debate-erupts",
+    "date": "1962-01-01",
+    "displayDate": "1962年",
+    "datePrecision": "year",
+    "title": "1962年中西文化论战全面爆发",
+    "summary": "《文化论战丹火录》把1962年定为一场中西文化大论战爆发之年，并将其视作中华民国成立以来一连串思想论战中的重要一环，也是李敖集中介入文化路线之争的起点。",
+    "view": ["思想线", "论战线", "作品线"],
+    "tags": ["文化论战丹火录", "中西文化论战", "1962", "论战"],
+    "people": ["李敖", "胡适"],
+    "places": ["台湾"],
+    "works": ["文化论战丹火录"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book5-1962-02-01-zhongxi-culture-essay",
+      "book5-1962-09-01-yisi-bugua-published",
+      "traditional-monologue-1962-11-01-medical-practitioners-law-essay-published-in-wenxing",
+      "book5-1963-10-01-chunvmo-zhengxing-published"
+    ],
+    "source": {
+      "book": "文化论战丹火录",
+      "chapter": "002.文化论战丹火录",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/002.文化论战丹火录/002.文化论战丹火录.txt",
+      "line": 5
+    }
+  },
+  {
+    "id": "danhuo-1962-02-25-zhou-ruomu-counterattack",
+    "date": "1962-02-25",
+    "displayDate": "1962年2月25日",
+    "datePrecision": "day",
+    "title": "周若木在《政治评论》发起早期反击",
+    "summary": "李敖在《文化论战丹火录》回顾，1962年2月25日《政治评论》第7卷第12期刊出周若木《论中西文化问题》，这是《给谈中西文化的人看看病》发表后最早的一波公开围剿之一。",
+    "view": ["论战线", "回响线", "发表线"],
+    "tags": ["文化论战丹火录", "政治评论", "周若木", "1962"],
+    "people": ["李敖", "周若木"],
+    "places": ["台湾"],
+    "works": ["文化论战丹火录", "论中西文化问题"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book5-1962-02-01-zhongxi-culture-essay"
+    ],
+    "source": {
+      "book": "文化论战丹火录",
+      "chapter": "002.文化论战丹火录",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/002.文化论战丹火录/002.文化论战丹火录.txt",
+      "line": 139
+    }
+  },
+  {
+    "id": "danhuo-1962-03-25-ye-qing-analysis-of-wholesale-westernization",
+    "date": "1962-03-25",
+    "displayDate": "1962年3月25日",
+    "datePrecision": "day",
+    "title": "叶青发表《全盘西化论之分析》加入围剿",
+    "summary": "《文化论战丹火录》记，1962年3月25日，叶青在《政治评论》第8卷第2期发表《全盘西化论之分析》，标志这场论战从单篇反驳升级为持续性的阵地战。",
+    "view": ["论战线", "回响线", "发表线"],
+    "tags": ["文化论战丹火录", "政治评论", "叶青", "1962"],
+    "people": ["李敖", "叶青"],
+    "places": ["台湾"],
+    "works": ["文化论战丹火录", "全盘西化论之分析"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book5-1962-02-01-zhongxi-culture-essay"
+    ],
+    "source": {
+      "book": "文化论战丹火录",
+      "chapter": "002.文化论战丹火录",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/002.文化论战丹火录/002.文化论战丹火录.txt",
+      "line": 283
+    }
+  },
+  {
+    "id": "danhuo-1962-05-13-political-review-cultural-forum",
+    "date": "1962-05-13",
+    "displayDate": "1962年5月13日",
+    "datePrecision": "day",
+    "title": "《政治评论》社举办中西文化座谈会",
+    "summary": "李敖在《文化论战丹火录》中记下，1962年5月13日《政治评论》社举办所谓中西文化座谈会，邀集多名学术教育界人士发言，成为传统派对文化论战的一次集体动员。",
+    "view": ["论战线", "回响线", "座谈线"],
+    "tags": ["文化论战丹火录", "政治评论", "座谈会", "1962"],
+    "people": ["李敖", "叶青", "沈刚伯", "吴相湘", "徐复观"],
+    "places": ["台湾"],
+    "works": ["文化论战丹火录"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book5-1962-02-01-zhongxi-culture-essay"
+    ],
+    "source": {
+      "book": "文化论战丹火录",
+      "chapter": "002.文化论战丹火录",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/002.文化论战丹火录/002.文化论战丹火录.txt",
+      "line": 685
+    }
+  },
+  {
+    "id": "danhuo-1962-10-16-zuo-shunsheng-supportive-intervention",
+    "date": "1962-10-16",
+    "displayDate": "1962年10月16日",
+    "datePrecision": "day",
+    "title": "左舜生发文声援反传统文化论点",
+    "summary": "《文化论战丹火录》特别拎出左舜生于1962年10月16日在《民主潮》发表《从研究现代中国谈到东西文化》，把高谈传统文化而暗放冷箭者称作“共产党的变种”，视作论战中少数有力的同向支援。",
+    "view": ["论战线", "回响线", "支援线"],
+    "tags": ["文化论战丹火录", "左舜生", "民主潮", "1962"],
+    "people": ["李敖", "左舜生"],
+    "places": ["台湾"],
+    "works": ["文化论战丹火录", "从研究现代中国谈到东西文化"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book5-1962-02-01-zhongxi-culture-essay",
+      "traditional-monologue-1962-11-01-medical-practitioners-law-essay-published-in-wenxing"
+    ],
+    "source": {
+      "book": "文化论战丹火录",
+      "chapter": "002.文化论战丹火录",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/002.文化论战丹火录/002.文化论战丹火录.txt",
+      "line": 2305
+    }
+  },
+  {
+    "id": "danhuo-1964-06-25-opening-statement-on-publication-day",
+    "date": "1964-06-25",
+    "displayDate": "1964年6月25日《为中国思想趋向求答案》出书之日",
+    "datePrecision": "day",
+    "title": "李敖写《文化论战丹火录》开场白",
+    "summary": "《文化论战丹火录》开场白署“1964年6月25日《为中国思想趋向求答案》出书之日”，显示李敖把这本围剿档案册与自己同日推出的思想主张书并置，形成攻防两线并开的姿态。",
+    "view": ["序跋线", "作品线", "出版线"],
+    "tags": ["文化论战丹火录", "开场白", "为中国思想趋向求答案", "1964"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["文化论战丹火录", "为中国思想趋向求答案", "《文化论战丹火录》开场白"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book5-1962-02-01-zhongxi-culture-essay",
+      "book5-1962-09-01-yisi-bugua-published",
+      "traditional-monologue-1962-11-01-medical-practitioners-law-essay-published-in-wenxing",
+      "book5-1963-10-01-chunvmo-zhengxing-published"
+    ],
+    "source": {
+      "book": "文化论战丹火录",
+      "chapter": "001.《文化论战丹火录》开场白",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/002.文化论战丹火录/001.《文化论战丹火录》开场白.txt",
+      "line": 41
+    }
+  },
+  {
+    "id": "danhuo-1964-07-22-completes-cultural-debate-danhuo-record",
+    "date": "1964-07-22",
+    "displayDate": "1964年7月22日在台北",
+    "datePrecision": "day",
+    "title": "李敖写完《文化论战丹火录》",
+    "summary": "《文化论战丹火录》结语末署“1964年7月22日在台北”，标出李敖将这场中西文化论战的材料、攻击与回响整理成册的完成时间。",
+    "view": ["写作线", "作品线", "收束线"],
+    "tags": ["文化论战丹火录", "结语", "1964", "写作"],
+    "people": ["李敖"],
+    "places": ["台北", "台湾"],
+    "works": ["文化论战丹火录"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "danhuo-1964-06-25-opening-statement-on-publication-day",
+      "book5-1962-02-01-zhongxi-culture-essay",
+      "book5-1962-09-01-yisi-bugua-published",
+      "traditional-monologue-1962-11-01-medical-practitioners-law-essay-published-in-wenxing",
+      "book5-1963-10-01-chunvmo-zhengxing-published"
+    ],
+    "source": {
+      "book": "文化论战丹火录",
+      "chapter": "002.文化论战丹火录",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/002.文化论战丹火录/002.文化论战丹火录.txt",
+      "line": 2321
+    }
+  },
+  {
+    "id": "danhuo-1962-04-10-ye-qing-establishes-cultural-creation-line",
+    "date": "1962-04-10",
+    "displayDate": "1962年4月10日",
+    "datePrecision": "day",
+    "title": "叶青发表《文化创造论之确立》",
+    "summary": "《文化论战丹火录》记，1962年4月10日叶青在《政治评论》第8卷第3期发表《文化创造论之确立》，不再单独攻击胡秋原，而是与传统派、超越派形成更明显的联合战线，共同围攻李敖等西化论者。",
+    "view": ["论战线", "回响线", "发表线"],
+    "tags": ["文化论战丹火录", "政治评论", "叶青", "1962"],
+    "people": ["李敖", "叶青", "胡秋原"],
+    "places": ["台湾"],
+    "works": ["文化论战丹火录", "文化创造论之确立"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book5-1962-02-01-zhongxi-culture-essay"
+    ],
+    "source": {
+      "book": "文化论战丹火录",
+      "chapter": "002.文化论战丹火录",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/002.文化论战丹火录/002.文化论战丹火录.txt",
+      "line": 371
+    }
+  },
+  {
+    "id": "danhuo-1962-05-25-political-review-escalates-general-offensive",
+    "date": "1962-05-25",
+    "displayDate": "1962年5月25日",
+    "datePrecision": "day",
+    "title": "《政治评论》扩大刊出座谈会纪录并发动总攻",
+    "summary": "李敖在《文化论战丹火录》中记下，1962年5月25日《政治评论》第8卷第6期大篇幅刊出座谈会滥套文字，并在其后续补篇与读者投书中继续集体围剿，把文化论战推进到更成规模的总攻阶段。",
+    "view": ["论战线", "回响线", "舆论线"],
+    "tags": ["文化论战丹火录", "政治评论", "座谈会纪录", "1962"],
+    "people": ["李敖", "叶青", "毛子水", "李定一", "叶守乾"],
+    "places": ["台湾"],
+    "works": ["文化论战丹火录", "中西文化问题（座谈会纪录补篇）"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "danhuo-1962-05-13-political-review-cultural-forum",
+      "book5-1962-02-01-zhongxi-culture-essay"
+    ],
+    "source": {
+      "book": "文化论战丹火录",
+      "chapter": "002.文化论战丹火录",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/002.文化论战丹火录/002.文化论战丹火录.txt",
+      "line": 697
+    }
+  },
+  {
+    "id": "danhuo-1962-06-15-ruolan-reports-new-shape-of-debate",
+    "date": "1962-06-15",
+    "displayDate": "1962年6月15日",
+    "datePrecision": "day",
+    "title": "若兰报道《中西文化论战新形势》",
+    "summary": "《文化论战丹火录》记，1962年6月15日香港《中国学生周报》第517期刊出若兰《中西文化论战新形势》，从外部观察角度指出西化派已换上青年新军，而传统派与超越派后继乏力，显示战局进入新阶段。",
+    "view": ["论战线", "回响线", "外部观察线"],
+    "tags": ["文化论战丹火录", "中国学生周报", "若兰", "1962"],
+    "people": ["李敖", "若兰", "沈国钧", "许登源", "田尚明", "徐复观", "胡秋原", "郑学稼", "叶青"],
+    "places": ["香港", "台湾"],
+    "works": ["文化论战丹火录", "中西文化论战新形势"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book5-1962-02-01-zhongxi-culture-essay"
+    ],
+    "source": {
+      "book": "文化论战丹火录",
+      "chapter": "002.文化论战丹火录",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/002.文化论战丹火录/002.文化论战丹火录.txt",
+      "line": 1045
+    }
+  },
+  {
+    "id": "danhuo-1962-07-15-youth-party-awakening-lion-forum",
+    "date": "1962-07-15",
+    "displayDate": "1962年7月15日",
+    "datePrecision": "day",
+    "title": "青年党《醒狮》举办中西文化座谈会",
+    "summary": "《文化论战丹火录》记，1962年7月15日青年党机关刊物《醒狮》社召集党内元老、报刊编辑、教授与民意代表举行文化座谈会，显示中西文化论战已从个人撰文攻防扩展到政党阵营层面的集体动员，相关纪录后来又被《政治评论》摘要转用。",
+    "view": ["论战线", "阵营线", "座谈线"],
+    "tags": ["文化论战丹火录", "醒狮", "青年党", "1962"],
+    "people": ["李敖", "余家菊", "张梦九", "刘泗英", "关德辛", "黄欣周", "辛植柏", "陈善新"],
+    "places": ["台湾"],
+    "works": ["文化论战丹火录", "青年党中西文化问题座谈会纪录摘要"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book5-1962-02-01-zhongxi-culture-essay",
+      "danhuo-1962-05-13-political-review-cultural-forum"
+    ],
+    "source": {
+      "book": "文化论战丹火录",
+      "chapter": "002.文化论战丹火录",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/002.文化论战丹火录/002.文化论战丹火录.txt",
+      "line": 1199
+    }
+  },
+  {
+    "id": "danhuo-1962-10-10-tao-xisheng-higher-level-view",
+    "date": "1962-10-10",
+    "displayDate": "1962年10月10日",
+    "datePrecision": "day",
+    "title": "陶希圣发表《中西文化论战中高一层的见解》",
+    "summary": "《文化论战丹火录》记，1962年10月10日陶希圣在《中央日报》发表《中西文化论战中高一层的见解》，宣称论战已到结束阶段，并试图把争论提升到“灵性”与道德教育问题，显示重量级政治文化人物正式下场改写战线层级。",
+    "view": ["论战线", "介入线", "发表线"],
+    "tags": ["文化论战丹火录", "陶希圣", "中央日报", "1962"],
+    "people": ["李敖", "陶希圣", "邱有珍"],
+    "places": ["台湾"],
+    "works": ["文化论战丹火录", "中西文化论战中高一层的见解"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book5-1962-02-01-zhongxi-culture-essay",
+      "danhuo-1962-10-16-zuo-shunsheng-supportive-intervention"
+    ],
+    "source": {
+      "book": "文化论战丹火录",
+      "chapter": "002.文化论战丹火录",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/002.文化论战丹火录/002.文化论战丹火录.txt",
+      "line": 1563
+    }
+  }
+]
