@@ -39,9 +39,11 @@ const dataFiles = [
   "./data/timeline-events-eighth-book.json",
   "./data/timeline-events-traditional-monologue.json",
   "./data/timeline-events-traditional-monologue-sequel.json",
-  "./data/timeline-events-monologue-under-tradition.json"
+  "./data/timeline-events-monologue-under-tradition.json",
+  "./data/timeline-events-wencun.json",
+  "./data/timeline-events-wencun-two.json"
 ];
-const dataVersion = "2026-04-22-monologue-under-tradition-round-02";
+const dataVersion = "2026-04-23-wencun-two-round-02";
 
 const dateFormatter = new Intl.DateTimeFormat("zh-Hant", {
   year: "numeric",

@@ -1,0 +1,490 @@
+[
+  {
+    "id": "wencun-1979-08-14-preface-written",
+    "date": "1979-08-14",
+    "displayDate": "1979年8月14日",
+    "datePrecision": "day",
+    "title": "李敖写《看谁文章写得好？（代序）》",
+    "summary": "《看谁文章写得好？（代序）》文末署1979年8月14日，既为《李敖文存》发端，也集中表现李敖对中国文章传统与白话文写作标准的自我定位。",
+    "view": ["写作线", "作品线", "思想线"],
+    "tags": ["李敖文存", "代序", "文章观", "1979"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["李敖文存", "看谁文章写得好？（代序）"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖文存",
+      "chapter": "001.看谁文章写得好？（代序）",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/004.李敖文存/001.看谁文章写得好？（代序）.txt",
+      "line": 41
+    }
+  },
+  {
+    "id": "wencun-1979-09-05-preface-published-in-china-times",
+    "date": "1979-09-05",
+    "displayDate": "《中国时报》1979年9月5日",
+    "datePrecision": "day",
+    "title": "《看谁文章写得好？（代序）》刊于《中国时报》",
+    "summary": "《看谁文章写得好？（代序）》署明《中国时报》1979年9月5日，显示《李敖文存》序文先以报纸发表的方式进入公共讨论。",
+    "view": ["发表线", "作品线", "媒体线"],
+    "tags": ["李敖文存", "中国时报", "代序", "1979"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["李敖文存", "看谁文章写得好？（代序）", "中国时报"],
+    "certainty": "confirmed",
+    "crossReferences": ["wencun-1979-08-14-preface-written"],
+    "source": {
+      "book": "李敖文存",
+      "chapter": "001.看谁文章写得好？（代序）",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/004.李敖文存/001.看谁文章写得好？（代序）.txt",
+      "line": 43
+    }
+  },
+  {
+    "id": "wencun-1979-06-10-li-ao-profile-breaking-open",
+    "date": "1979-06-10",
+    "displayDate": "1979年6月10日",
+    "datePrecision": "day",
+    "title": "李敖写《“李敖特写”破题》",
+    "summary": "《“李敖特写”破题》文末署1979年6月10日，是《李敖文存》前段自我书写与媒体形象拆解的一条清楚起点。",
+    "view": ["写作线", "作品线", "媒体线"],
+    "tags": ["李敖特写破题", "李敖文存", "1979"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["“李敖特写”破题", "李敖文存"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖文存",
+      "chapter": "002.“李敖特写”破题",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/004.李敖文存/002.“李敖特写”破题.txt",
+      "line": 7
+    }
+  },
+  {
+    "id": "wencun-1979-06-07-bodhisattva-essay-written",
+    "date": "1979-06-07",
+    "displayDate": "1979年6月7日",
+    "datePrecision": "day",
+    "title": "李敖写《大慈大悲李敖菩萨》",
+    "summary": "《大慈大悲李敖菩萨》文末署1979年6月7日，延续复出后的自我形象书写和反讽笔调。",
+    "view": ["写作线", "作品线", "思想线"],
+    "tags": ["大慈大悲李敖菩萨", "李敖文存", "1979"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["大慈大悲李敖菩萨", "李敖文存"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖文存",
+      "chapter": "003.大慈大悲李敖菩萨",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/004.李敖文存/003.大慈大悲李敖菩萨.txt",
+      "line": 83
+    }
+  },
+  {
+    "id": "wencun-1979-06-11-is-there-still-anyone-chinese-written",
+    "date": "1979-06-11",
+    "displayDate": "1979年6月11日",
+    "datePrecision": "day",
+    "title": "李敖写《“我中华尚有人耶？”》",
+    "summary": "《“我中华尚有人耶？”》文末署1979年6月11日，是复出后继续借近现代题材发言的一篇代表作。",
+    "view": ["写作线", "作品线", "思想线"],
+    "tags": ["我中华尚有人耶", "李敖文存", "1979"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["“我中华尚有人耶？”", "李敖文存"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖文存",
+      "chapter": "004.“我中华尚有人耶？”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/004.李敖文存/004.“我中华尚有人耶？”.txt",
+      "line": 59
+    }
+  },
+  {
+    "id": "wencun-1979-06-12-from-unfree-freedom-to-free-unfreedom-written",
+    "date": "1979-06-12",
+    "displayDate": "1979年6月12日",
+    "datePrecision": "day",
+    "title": "李敖写《由不自由的自由到自由的不自由》",
+    "summary": "《由不自由的自由到自由的不自由》文末署1979年6月12日，题目本身就浓缩了李敖当时对台湾言论环境的敏感判断。",
+    "view": ["写作线", "作品线", "政治线"],
+    "tags": ["由不自由的自由到自由的不自由", "李敖文存", "1979"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["由不自由的自由到自由的不自由", "李敖文存"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖文存",
+      "chapter": "005.由不自由的自由到自由的不自由",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/004.李敖文存/005.由不自由的自由到自由的不自由.txt",
+      "line": 53
+    }
+  },
+  {
+    "id": "wencun-1979-06-17-when-old-man-talks-history-written",
+    "date": "1979-06-17",
+    "displayDate": "1979年6月17日",
+    "datePrecision": "day",
+    "title": "李敖写《当年老子如何如何》",
+    "summary": "《当年老子如何如何》文末署1979年6月17日，继续追打回忆录式自我神化与历史抢功。",
+    "view": ["写作线", "作品线", "史论线"],
+    "tags": ["当年老子如何如何", "李敖文存", "1979"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["当年老子如何如何", "李敖文存"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖文存",
+      "chapter": "006.当年老子如何如何",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/004.李敖文存/006.当年老子如何如何.txt",
+      "line": 47
+    }
+  },
+  {
+    "id": "wencun-1966-09-25-correcting-yu-youren-revolution-history",
+    "date": "1966-09-25",
+    "displayDate": "1966年9月25日",
+    "datePrecision": "day",
+    "title": "李敖写《纠正于右任幻想出来的一段革命史》",
+    "summary": "《纠正于右任幻想出来的一段革命史》文末署1966年9月25日，显示《李敖文存》中也收入了六十年代已成形的史证型文字。",
+    "view": ["写作线", "作品线", "史论线"],
+    "tags": ["纠正于右任幻想出来的一段革命史", "于右任", "1966", "李敖文存"],
+    "people": ["李敖", "于右任"],
+    "places": ["台湾"],
+    "works": ["纠正于右任幻想出来的一段革命史", "李敖文存"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖文存",
+      "chapter": "007.纠正于右任幻想出来的一段革命史",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/004.李敖文存/007.纠正于右任幻想出来的一段革命史.txt",
+      "line": 55
+    }
+  },
+  {
+    "id": "wencun-1979-07-17-bedside-skills-finished-by-brush",
+    "date": "1979-07-17",
+    "displayDate": "1979年7月17日用毛笔写完",
+    "datePrecision": "day",
+    "title": "李敖用毛笔写完《床上功夫》",
+    "summary": "《床上功夫》文末署“1979年7月17日用毛笔写完”，既留下完成日，也保留了这篇文章的手写方式。",
+    "view": ["写作线", "作品线", "生活线"],
+    "tags": ["床上功夫", "毛笔写完", "1979", "李敖文存"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["床上功夫", "李敖文存"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖文存",
+      "chapter": "008.床上功夫",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/004.李敖文存/008.床上功夫.txt",
+      "line": 41
+    }
+  },
+  {
+    "id": "wencun-1979-07-10-monks-eating-meat-written",
+    "date": "1979-07-10",
+    "displayDate": "1979年7月10日",
+    "datePrecision": "day",
+    "title": "李敖写《论和尚吃肉》",
+    "summary": "《论和尚吃肉》文末署1979年7月10日，延续李敖以传统材料做文化翻案与常识拆解的写法。",
+    "view": ["写作线", "作品线", "文化线"],
+    "tags": ["论和尚吃肉", "1979", "李敖文存"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["论和尚吃肉", "李敖文存"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖文存",
+      "chapter": "009.论和尚吃肉",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/004.李敖文存/009.论和尚吃肉.txt",
+      "line": 37
+    }
+  },
+  {
+    "id": "wencun-1966-entertainment-magazine-gambling-history-original",
+    "date": "1966-12-31",
+    "displayDate": "1966年《人人娱乐》杂志第五期",
+    "datePrecision": "year",
+    "title": "《中华大赌特赌史》原登《人人娱乐》",
+    "summary": "《中华大赌特赌史》后记说明此文原登1966年《人人娱乐》杂志第五期，用顾乐笔名发表。这为《李敖文存》中的早期娱乐史写作补出原刊层。",
+    "view": ["发表线", "作品线", "媒体线"],
+    "tags": ["中华大赌特赌史", "人人娱乐", "顾乐", "1966", "李敖文存"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["中华大赌特赌史", "人人娱乐", "李敖文存"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖文存",
+      "chapter": "012.中华大赌特赌史",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/004.李敖文存/012.中华大赌特赌史.txt",
+      "line": 91
+    }
+  },
+  {
+    "id": "wencun-1979-national-gambling-history-republished",
+    "date": "1979-12-31",
+    "displayDate": "1979年重刊《国赌史记》于《时报周刊》第七十九期",
+    "datePrecision": "year",
+    "title": "《中华大赌特赌史》改题《国赌史记》重刊",
+    "summary": "《中华大赌特赌史》后记说明，1979年此文以《国赌史记》为题重刊于《时报周刊》第七十九期，仍用顾乐笔名发表。",
+    "view": ["发表线", "作品线", "媒体线"],
+    "tags": ["国赌史记", "中华大赌特赌史", "时报周刊", "顾乐", "1979", "李敖文存"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["国赌史记", "中华大赌特赌史", "时报周刊", "李敖文存"],
+    "certainty": "confirmed",
+    "crossReferences": ["wencun-1966-entertainment-magazine-gambling-history-original"],
+    "source": {
+      "book": "李敖文存",
+      "chapter": "012.中华大赌特赌史",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/004.李敖文存/012.中华大赌特赌史.txt",
+      "line": 91
+    }
+  },
+  {
+    "id": "wencun-1979-07-25-read-brothel-history-from-qingshi-written",
+    "date": "1979-07-25",
+    "displayDate": "1979年7月25日",
+    "datePrecision": "day",
+    "title": "李敖写《且从青史看青楼》",
+    "summary": "《且从青史看青楼》文末署1979年7月25日，是《李敖文存》中另一篇典型以历史材料切入文化观察的文章。",
+    "view": ["写作线", "作品线", "文化线"],
+    "tags": ["且从青史看青楼", "1979", "李敖文存"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["且从青史看青楼", "李敖文存"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖文存",
+      "chapter": "013.且从青史看青楼",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/004.李敖文存/013.且从青史看青楼.txt",
+      "line": 87
+    }
+  },
+  {
+    "id": "wencun-1968-04-30-zhonghua-guji-congkan-preface",
+    "date": "1968-04-30",
+    "displayDate": "1968年4月30日",
+    "datePrecision": "day",
+    "title": "李敖写《〈中华古籍丛刊〉缘起》",
+    "summary": "《古书新见》正文保留原署日1968年4月30日，说明它原是李敖为《中华古籍丛刊》所写的序文。",
+    "view": ["写作线", "作品线", "出版线"],
+    "tags": ["古书新见", "中华古籍丛刊", "序", "1968", "李敖文存"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["古书新见", "中华古籍丛刊", "李敖文存"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖文存",
+      "chapter": "014.古书新见",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/004.李敖文存/014.古书新见.txt",
+      "line": 27
+    }
+  },
+  {
+    "id": "wencun-1979-08-22-retitled-gushu-xinjian",
+    "date": "1979-08-22",
+    "displayDate": "1979年8月22日",
+    "datePrecision": "day",
+    "title": "李敖将《〈中华古籍丛刊〉缘起》改题为《古书新见》",
+    "summary": "《古书新见》附记说明：这是李敖十一年前为《中华古籍丛刊》写的序，1979年8月22日改名收入《李敖文存》。",
+    "view": ["编选线", "作品线", "出版线"],
+    "tags": ["古书新见", "中华古籍丛刊", "改题", "1979", "李敖文存"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["古书新见", "中华古籍丛刊", "李敖文存"],
+    "certainty": "confirmed",
+    "crossReferences": ["wencun-1968-04-30-zhonghua-guji-congkan-preface"],
+    "source": {
+      "book": "李敖文存",
+      "chapter": "014.古书新见",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/004.李敖文存/014.古书新见.txt",
+      "line": 29
+    }
+  },
+  {
+    "id": "wencun-1979-06-28-so-stupid-still-want-robbery-written",
+    "date": "1979-06-28",
+    "displayDate": "1979年6月28日",
+    "datePrecision": "day",
+    "title": "李敖写《这样笨，还要做强盗！》",
+    "summary": "《这样笨，还要做强盗！》文末署1979年6月28日，是《李敖文存》中一篇以日本战史与民族性问题切入的文章。",
+    "view": ["写作线", "作品线", "思想线"],
+    "tags": ["这样笨还要做强盗", "1979", "李敖文存"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["这样笨，还要做强盗！", "李敖文存"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖文存",
+      "chapter": "015.这样笨，还要做强盗！",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/004.李敖文存/015.这样笨，还要做强盗！.txt",
+      "line": 135
+    }
+  },
+  {
+    "id": "wencun-1968-01-10-zuo-shunsheng-selected-works-preface",
+    "date": "1968-01-10",
+    "displayDate": "1968年1月10日",
+    "datePrecision": "day",
+    "title": "李敖写《〈左舜生选集〉序》",
+    "summary": "《〈左舜生选集〉序》文末署1968年1月10日，记录了李敖为左舜生作品集作序的明确日期。",
+    "view": ["写作线", "作品线", "交游线"],
+    "tags": ["左舜生选集", "序", "1968", "李敖文存"],
+    "people": ["李敖", "左舜生"],
+    "places": ["台湾"],
+    "works": ["左舜生选集", "《左舜生选集》序", "李敖文存"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖文存",
+      "chapter": "017.《左舜生选集》序",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/004.李敖文存/017.《左舜生选集》序.txt",
+      "line": 25
+    }
+  },
+  {
+    "id": "wencun-1979-08-22-letter-to-meng-juezi",
+    "date": "1979-08-22",
+    "displayDate": "敖之 1979年8月22日",
+    "datePrecision": "day",
+    "title": "李敖写《绝子如不见》致孟绝子",
+    "summary": "《绝子如不见》正文署“敖之 1979年8月22日”，是李敖写给孟绝子的公开信式文字，也顺带回顾了他为活人作序屡遭删削的经历。",
+    "view": ["书信线", "交游线", "作品线"],
+    "tags": ["绝子如不见", "孟绝子", "书信", "1979", "李敖文存"],
+    "people": ["李敖", "孟绝子"],
+    "places": ["台湾"],
+    "works": ["绝子如不见", "李敖文存"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖文存",
+      "chapter": "018.绝子如不见",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/004.李敖文存/018.绝子如不见.txt",
+      "line": 15
+    }
+  },
+  {
+    "id": "wencun-1979-10-17-letter-to-meng-juezi-published",
+    "date": "1979-10-17",
+    "displayDate": "《中国时报》1979年10月17日",
+    "datePrecision": "day",
+    "title": "《绝子如不见》刊于《中国时报》",
+    "summary": "《绝子如不见》文末署明《中国时报》1979年10月17日，表明这封写给孟绝子的信后来转入报刊公共空间。",
+    "view": ["发表线", "书信线", "媒体线"],
+    "tags": ["绝子如不见", "中国时报", "孟绝子", "1979", "李敖文存"],
+    "people": ["李敖", "孟绝子"],
+    "places": ["台湾"],
+    "works": ["绝子如不见", "中国时报", "李敖文存"],
+    "certainty": "confirmed",
+    "crossReferences": ["wencun-1979-08-22-letter-to-meng-juezi"],
+    "source": {
+      "book": "李敖文存",
+      "chapter": "018.绝子如不见",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/004.李敖文存/018.绝子如不见.txt",
+      "line": 51
+    }
+  },
+  {
+    "id": "wencun-1965-12-07-preface-to-jiang-tingfu-selected-works",
+    "date": "1965-12-07",
+    "displayDate": "一九六五年蒋廷黻死后五十九天的早上在台北写",
+    "datePrecision": "day-after",
+    "title": "李敖写《〈蒋廷黻选集〉序》",
+    "summary": "《〈蒋廷黻选集〉序》文末署“一九六五年蒋廷黻死后五十九天的早上在台北写”。依蒋廷黻1965年10月9日去世推算，此文应写于1965年12月7日早上。这条把《李敖文存》与前面王世杰、蒋廷黻相关证据链稳稳接上。",
+    "view": ["写作线", "作品线", "交游线"],
+    "tags": ["蒋廷黻选集", "序", "王世杰", "1965", "李敖文存"],
+    "people": ["李敖", "蒋廷黻", "王世杰"],
+    "places": ["台北"],
+    "works": ["蒋廷黻选集", "《蒋廷黻选集》序", "李敖文存"],
+    "certainty": "inferred",
+    "crossReferences": [
+      "traditional-monologue-sequel-1965-12-27-diary-wang-shijie-cried",
+      "traditional-monologue-sequel-1966-02-17-diary-hears-wang-shijie-moves-to-ban-preface"
+    ],
+    "source": {
+      "book": "李敖文存",
+      "chapter": "016.《蒋廷黻选集》序",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/004.李敖文存/016.《蒋廷黻选集》序.txt",
+      "line": 325
+    }
+  },
+  {
+    "id": "wencun-1979-07-02-golden-view-published-in-times-weekly",
+    "date": "1979-07-02",
+    "displayDate": "《时报周刊》第七十一期1979年7月2日",
+    "datePrecision": "day",
+    "title": "《黄帝子孙的黄金观》刊于《时报周刊》",
+    "summary": "《黄帝子孙的黄金观》文末署《时报周刊》第七十一期1979年7月2日。这条把《李敖文存》中黄金观长文的公共发表时间钉住。",
+    "view": ["发表线", "作品线", "媒体线"],
+    "tags": ["黄帝子孙的黄金观", "时报周刊", "1979", "李敖文存"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["黄帝子孙的黄金观", "时报周刊", "李敖文存"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖文存",
+      "chapter": "011.黄帝子孙的黄金观",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/004.李敖文存/011.黄帝子孙的黄金观.txt",
+      "line": 89
+    }
+  },
+  {
+    "id": "wencun-1979-07-heartbreak-land-literature",
+    "date": "1979-07-31",
+    "displayDate": "1979年7月",
+    "datePrecision": "month",
+    "title": "李敖写《伤心之地的文学》",
+    "summary": "《伤心之地的文学》文末仅署1979年7月。文章借《台湾文学全集》与李鸿章“伤心之地”之语，提出文学应站在被侮辱与被损害者一边的标准。",
+    "view": ["写作线", "作品线", "思想线"],
+    "tags": ["伤心之地的文学", "台湾文学全集", "1979", "李敖文存"],
+    "people": ["李敖", "李鸿章"],
+    "places": ["台湾"],
+    "works": ["伤心之地的文学", "李敖文存", "台湾文学全集"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖文存",
+      "chapter": "019.伤心之地的文学",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/004.李敖文存/019.伤心之地的文学.txt",
+      "line": 13
+    }
+  },
+  {
+    "id": "wencun-1979-06-love-him-for-his-enemies",
+    "date": "1979-06-30",
+    "displayDate": "1979年6月",
+    "datePrecision": "month",
+    "title": "李敖写《为他有那样的敌人而爱他》",
+    "summary": "《为他有那样的敌人而爱他》文末仅署1979年6月。这篇短文借英文政治名言发挥，形成一则很典型的李敖式敌友观。",
+    "view": ["写作线", "作品线", "思想线"],
+    "tags": ["为他有那样的敌人而爱他", "敌友观", "1979", "李敖文存"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["为他有那样的敌人而爱他", "李敖文存"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖文存",
+      "chapter": "020.为他有那样的敌人而爱他",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/004.李敖文存/020.为他有那样的敌人而爱他.txt",
+      "line": 15
+    }
+  },
+  {
+    "id": "wencun-1965-08-01-after-ju-haoran-essay-published",
+    "date": "1965-08-01",
+    "displayDate": "《文星》第九十四期1965年8月1日",
+    "datePrecision": "day",
+    "title": "《写在居浩然〈义和团思想和文化沙文主义〉的后面》刊于《文星》",
+    "summary": "《写在居浩然〈义和团思想和文化沙文主义〉的后面》署《文星》第九十四期1965年8月1日。此文连同附录一、附录二一起构成李敖与居浩然围绕“义和团思想”和文化沙文主义的公开论争层。",
+    "view": ["发表线", "作品线", "论战线"],
+    "tags": ["写在居浩然义和团思想和文化沙文主义的后面", "文星", "居浩然", "1965", "李敖文存"],
+    "people": ["李敖", "居浩然"],
+    "places": ["台湾"],
+    "works": ["写在居浩然《义和团思想和文化沙文主义》的后面", "文星", "李敖文存"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖文存",
+      "chapter": "010.写在居浩然《义和团思想和文化沙文主义》的后面",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/004.李敖文存/010.写在居浩然《义和团思想和文化沙文主义》的后面.txt",
+      "line": 93
+    }
+  }
+]
