@@ -1,9 +1,9 @@
 李敖交互式年表：当前增量纯文本备份
 生成日期：2026-04-23
-事件总数：1268
-数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json
+事件总数：1287
+数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json
 说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。
-日期精度统计：day=973；year=83；year-range=6；undated-range=1；undated-context=113；season=22；lunar-day=1；year-after=7；month=36；half-year=2；day-range=11；month-after=2；day-after=4；year-context=1；year-about=5；year-end=1
+日期精度统计：day=991；year=83；year-range=6；undated-range=1；undated-context=113；season=22；lunar-day=1；year-after=7；month=37；half-year=2；day-range=11；month-after=2；day-after=4；year-context=1；year-about=5；year-end=1
 
 
 1935
@@ -3452,6 +3452,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/186.文献会.txt
   数据：data/timeline-events-seventh-book.json#book7-1962-02-01-goes-to-wenxianhui-and-meets-tao-xisheng
+- 1962年2月24日 | 李济在中研院酒会上作悲观致词
+  精度：day；可靠度：confirmed；排序日期：1962-02-24
+  摘要：李敖在《从李济的悲剧看中央研究院的几个黑暗面》中追述，李济于1962年2月24日中央研究院第五次院士会议后酒会上发表悲观致词，并因过度泄气当场遭吴大猷与胡适反驳。
+  人物：李敖、李济、吴大猷、胡适
+  地点：台湾、中央研究院
+  标签：教育与脸谱、李济、中央研究院、1962
+  视图：机构线、人物线、中研院线
+  作品：从李济的悲剧看中央研究院的几个黑暗面、教育与脸谱
+  交叉引用：-
+  来源：教育与脸谱 / 008.从李济的悲剧看中央研究院的几个黑暗面 / line 35
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/001.教育与脸谱/008.从李济的悲剧看中央研究院的几个黑暗面.txt
+  数据：data/timeline-events-education-and-faces.json#education-faces-1962-02-24-li-ji-pessimistic-speech-at-academia-sinica
 - 1962年2月24日 | 胡适去世，李敖记“一千元债”因而顿成终身纪念
   精度：day；可靠度：confirmed；排序日期：1962-02-24
   摘要：《债主死了》写，胡适曾借李敖一千元救急，李敖原定在 1962 年 3 月 12 日前归还；不料 1962 年 2 月 24 日胡适突然去世，这笔债遂再也无法偿清。李敖后来把这件事看作自己以整理、传播胡适思想来长期报答的一层私人因缘。
@@ -3831,6 +3844,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/021.张天师可以歇歇了！.txt
   数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1963-06-18-zhang-tianshi-can-rest-written
+- 《文星》第69期 1963年7月1日 | 《文星》刊出《工作最多的老头子——胡佛》
+  精度：day；可靠度：confirmed；排序日期：1963-07-01
+  摘要：《工作最多的老头子——胡佛》文末署《文星》第69期、1963年7月1日，是《教育与脸谱》前段一篇借胡佛人格与历史来谈公共人物的文章。
+  人物：李敖、胡佛
+  地点：台湾、美国
+  标签：教育与脸谱、胡佛、文星、1963
+  视图：发表线、作品线、人物线
+  作品：工作最多的老头子——胡佛、文星、教育与脸谱
+  交叉引用：-
+  来源：教育与脸谱 / 011.工作最多的老头子——胡佛 / line 101
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/001.教育与脸谱/011.工作最多的老头子——胡佛.txt
+  数据：data/timeline-events-education-and-faces.json#education-faces-1963-07-01-hoover-old-man-working-most
 - 1963年7月1日 | 《张天师可以歇歇了！》原登《文星》第六十九期
   精度：day；可靠度：confirmed；排序日期：1963-07-01
   摘要：《张天师可以歇歇了！》后记注明，此文原登《文星》第六十九期（1963年7月1日台北出版）。这把李敖对传统宗教特权与国家补贴的批评，进一步落实为具体的杂志发表节点。
@@ -3922,6 +3948,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/008.星火纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1963-09-25-first-book-traditional-monologue
+- 《文星》第72期 1963年10月1日 | 《文星》刊出《蒋廷黻和他走的路》
+  精度：day；可靠度：confirmed；排序日期：1963-10-01
+  摘要：《蒋廷黻和他走的路》文末署《文星》第72期、1963年10月1日，把蒋廷黻作为中国学人从政的一件“样品”来讨论。
+  人物：李敖、蒋廷黻
+  地点：台湾
+  标签：教育与脸谱、蒋廷黻、文星、1963
+  视图：发表线、作品线、人物线
+  作品：蒋廷黻和他走的路、文星、教育与脸谱
+  交叉引用：-
+  来源：教育与脸谱 / 010.蒋廷黻和他走的路 / line 161
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/001.教育与脸谱/010.蒋廷黻和他走的路.txt
+  数据：data/timeline-events-education-and-faces.json#education-faces-1963-10-01-jiang-tingfu-road
 - 1963年10月1日 | 李敖发表《论“处女膜整型”》
   精度：day；可靠度：confirmed；排序日期：1963-10-01
   摘要：《白露纪》写，1963年10月1日李敖发表《论“处女膜整型”》，作为他在文星时代讨论性观念与文化移植问题的代表文章之一。
@@ -3974,6 +4013,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/002.《传统下的独白》再版自序.txt
   数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1963-10-10-traditional-monologue-reprint-preface
+- 《文星》第73期 1963年11月1日 | 《文星》刊出《李济：他的贡献和悲剧》
+  精度：day；可靠度：confirmed；排序日期：1963-11-01
+  摘要：《李济：他的贡献和悲剧》文末署《文星》第73期、1963年11月1日，正式把李敖对李济及中国教育学术困局的批判推上公共场域。
+  人物：李敖、李济
+  地点：台湾
+  标签：教育与脸谱、李济、文星、1963
+  视图：发表线、作品线、人物线
+  作品：李济：他的贡献和悲剧、文星、教育与脸谱
+  交叉引用：-
+  来源：教育与脸谱 / 007.李济：他的贡献和悲剧 / line 133
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/001.教育与脸谱/007.李济：他的贡献和悲剧.txt
+  数据：data/timeline-events-education-and-faces.json#education-faces-1963-11-01-li-ji-contribution-and-tragedy-published
 - 1963年11月1日 | 李敖在《文星》发表《高等教育的一面怪现状》
   精度：day；可靠度：confirmed；排序日期：1963-11-01
   摘要：《前程》章追述，李敖在《文星》第73期发表《高等教育的一面怪现状》，把“扒粪运动”推进到高等教育领域，并先从台大开刀。
@@ -4000,6 +4052,45 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/010.根株纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1963-11-05-visits-xu-zhuoyun-home
+- 1963年11月6日 | 《大华晚报》发表社论《高等教育的危机》
+  精度：day；可靠度：confirmed；排序日期：1963-11-06
+  摘要：在《高等教育的一面怪现状》引爆风波后，《关于高等教育怪现状的讨论》把《大华晚报》1963年11月6日社论《高等教育的危机》列为最早的重要公开回响之一。
+  人物：李敖
+  地点：台湾
+  标签：教育与脸谱、高等教育的危机、大华晚报、1963
+  视图：回响线、教育线、舆论线
+  作品：高等教育的危机、大华晚报、教育与脸谱
+  交叉引用：-
+  来源：教育与脸谱 / 004.关于高等教育怪现状的讨论 / line 27
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/001.教育与脸谱/004.关于高等教育怪现状的讨论.txt
+  数据：data/timeline-events-education-and-faces.json#education-faces-1963-11-06-dahua-editorial-higher-education-crisis
+- 1963年11月6日晨4时一刻 | 李敖写《一封没寄出的信》致台静农
+  精度：day；可靠度：confirmed；排序日期：1963-11-06
+  摘要：《一封没寄出的信》署1963年11月6日晨4时一刻，是李敖在《高等教育的一面怪现状》引发风波后，专向台静农说明自己并非针对其个人的深夜信稿。
+  人物：李敖、台静农
+  地点：台湾、台湾大学
+  标签：教育与脸谱、台静农、没寄出的信、1963
+  视图：书信线、教育线、交游线
+  作品：一封没寄出的信、教育与脸谱
+  交叉引用：-
+  来源：教育与脸谱 / 005.一封没寄出的信 / line 17
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/001.教育与脸谱/005.一封没寄出的信.txt
+  数据：data/timeline-events-education-and-faces.json#education-faces-1963-11-06-unsent-letter-to-tai-jingnong
+- 《文星》第74期，1963年12月1日 | 《文星》刊出《师道与是非》
+  精度：day；可靠度：confirmed；排序日期：1963-12-01
+  摘要：《师道与是非》文末署《文星》第74期、1963年12月1日，是李敖围绕高等教育批判继续推进“师道”与公共是非观的一篇关键续作。
+  人物：李敖
+  地点：台湾
+  标签：教育与脸谱、师道与是非、文星、1963
+  视图：发表线、作品线、教育线
+  作品：师道与是非、文星、教育与脸谱
+  交叉引用：-
+  来源：教育与脸谱 / 002.师道与是非 / line 191
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/001.教育与脸谱/002.师道与是非.txt
+  数据：data/timeline-events-education-and-faces.json#education-faces-1963-12-01-teacherhood-and-right-wrong
 - 1963年12月17日 | 萧孟能再次写信感谢李敖
   精度：day；可靠度：confirmed；排序日期：1963-12-17
   摘要：李敖说自己还保有萧孟能1963年12月17日信，信中称“您使我扬名吐怨气，万分的感谢”，多年后成为文星纠纷的对照证据。
@@ -4013,6 +4104,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/034.文星与伪文星.txt
   数据：data/timeline-events-second-book.json#book2-1963-12-17-xiao-thanks-li
+- 1963年12月25日 | 高雄医学院《南杏》公开信响应高教批判
+  精度：day；可靠度：confirmed；排序日期：1963-12-25
+  摘要：高雄医学院《南杏》第二期于1963年12月25日刊出萧义明、高资敏、张俊雄等人的公开信，明确呼应李敖对高等教育怪现状的批判，并主张年轻人应敢于直言师道与校政问题。
+  人物：李敖、萧义明、高资敏、张俊雄
+  地点：台湾、高雄
+  标签：教育与脸谱、南杏、高雄医学院、1963
+  视图：回响线、教育线、学生线
+  作品：关于高等教育怪现状的讨论、南杏、教育与脸谱
+  交叉引用：-
+  来源：教育与脸谱 / 004.关于高等教育怪现状的讨论 / line 267
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/001.教育与脸谱/004.关于高等教育怪现状的讨论.txt
+  数据：data/timeline-events-education-and-faces.json#education-faces-1963-12-25-nanxing-open-letter-echoes-critique
 - 1963年12月30日 | 《不讨老婆之“不亦快哉”》刊于《新生报》副刊
   精度：day；可靠度：confirmed；排序日期：1963-12-30
   摘要：《不讨老婆之“不亦快哉”（三十三则）》文末注明刊于《新生报》副刊1963年12月30日。它把这篇典型李敖式游戏文章，落实为清楚的报刊发表节点。
@@ -4065,8 +4169,47 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/315.胡适没写完的一封信.txt
   数据：data/timeline-events-seventh-book.json#book7-1963-summer-qian-siliang-reveals-hu-shi-left-an-unfinished-letter
+- 1963年11月 | 李敖写《又一封没寄出的信》
+  精度：month；可靠度：confirmed；排序日期：1963-11-01
+  摘要：《又一封没寄出的信》文末仅署1963年11月，继续围绕高等教育怪现状风波表明自己不愿退回书斋、而要继续在公共战场发言的姿态。
+  人物：李敖
+  地点：台湾
+  标签：教育与脸谱、又一封没寄出的信、1963
+  视图：书信线、教育线、思想线
+  作品：又一封没寄出的信、教育与脸谱
+  交叉引用：-
+  来源：教育与脸谱 / 006.又一封没寄出的信 / line 27
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/001.教育与脸谱/006.又一封没寄出的信.txt
+  数据：data/timeline-events-education-and-faces.json#education-faces-1963-11-another-unsent-letter
 
 1964
+- 《文星》第75期 1964年1月1日 | 《文星》刊出《读〈虚有其表的考试法〉》
+  精度：day；可靠度：confirmed；排序日期：1964-01-01
+  摘要：《读〈虚有其表的考试法〉》文末署《文星》第75期、1964年1月1日，从考试院和律师考试制度切入，延伸李敖对教育与选才机制的批判。
+  人物：李敖、莫德惠
+  地点：台湾
+  标签：教育与脸谱、考试院、虚有其表的考试法、文星、1964
+  视图：发表线、作品线、教育线
+  作品：读《虚有其表的考试法》、文星、教育与脸谱
+  交叉引用：-
+  来源：教育与脸谱 / 009.读《虚有其表的考试法》 / line 49
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/001.教育与脸谱/009.读《虚有其表的考试法》.txt
+  数据：data/timeline-events-education-and-faces.json#education-faces-1964-01-01-reading-empty-exam-system
+- 《文星》第75期，1964年1月1日 | 《文星》刊出《论“占着茅坑不拉屎”》
+  精度：day；可靠度：confirmed；排序日期：1964-01-01
+  摘要：《论“占着茅坑不拉屎”》文末署《文星》第75期、1964年1月1日，继续把台大文学院和学界恋栈、占位不作为的问题推向公开讨论。
+  人物：李敖、沈刚伯
+  地点：台湾、台湾大学
+  标签：教育与脸谱、占着茅坑不拉屎、文星、1964
+  视图：发表线、作品线、教育线
+  作品：论“占着茅坑不拉屎”、文星、教育与脸谱
+  交叉引用：-
+  来源：教育与脸谱 / 003.论“占着茅坑不拉屎”” / line 141
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/001.教育与脸谱/003.论“占着茅坑不拉屎””.txt
+  数据：data/timeline-events-education-and-faces.json#education-faces-1964-01-01-occupying-outhouse-not-pooping
 - 1964年1月14日 | 吴申叔在台北喜临门请李敖吃饭
   精度：day；可靠度：confirmed；排序日期：1964-01-14
   摘要：《星火纪》写，李敖初识吴申叔是在1964年1月14日，吴申叔请他在台北喜临门吃饭，成为文星时代一段重要交游的起点。
@@ -4080,6 +4223,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/008.星火纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1964-01-14-first-meets-wu-shenshu
+- 1964年1月26日 | 《中央日报》刊出《李济谈勇于负责》
+  精度：day；可靠度：confirmed；排序日期：1964-01-26
+  摘要：《从李济的悲剧看中央研究院的几个黑暗面》指出，《中央日报》于1964年1月26日刊出《李济谈勇于负责》，李济借此反击李敖的“棒子论”，成为双方论战的重要一环。
+  人物：李敖、李济
+  地点：台湾
+  标签：教育与脸谱、李济谈勇于负责、中央日报、1964
+  视图：回响线、人物线、中研院线
+  作品：从李济的悲剧看中央研究院的几个黑暗面、李济谈勇于负责、教育与脸谱
+  交叉引用：-
+  来源：教育与脸谱 / 008.从李济的悲剧看中央研究院的几个黑暗面 / line 251
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/001.教育与脸谱/008.从李济的悲剧看中央研究院的几个黑暗面.txt
+  数据：data/timeline-events-education-and-faces.json#education-faces-1964-01-26-central-daily-li-ji-talks-responsibility
 - 1964-02-20 | 萧启庆来信评论《论“占着毛坑不拉屎”》
   精度：day；可靠度：confirmed；排序日期：1964-02-20
   摘要：萧启庆从美国来信，读到李敖批评台大文学院的文章后，以玩笑方式说李敖“随地大小便”。
@@ -4132,6 +4288,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/008.星火纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1964-05-22-meets-chen-cheng
+- 1964年5月27日晚上花了三个小时一口气写完 | 李敖写完《於梨华和她的小说》
+  精度：day；可靠度：confirmed；排序日期：1964-05-27
+  摘要：《於梨华和她的小说》正文署1964年5月27日晚三小时一口气写完，显示这篇评论是在强烈情绪和高速写作状态中完成的。
+  人物：李敖、於梨华
+  地点：台湾
+  标签：教育与脸谱、於梨华和她的小说、於梨华、1964
+  视图：写作线、作品线、人物线
+  作品：於梨华和她的小说、教育与脸谱
+  交叉引用：-
+  来源：教育与脸谱 / 012.於梨华和她的小说 / line 59
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/001.教育与脸谱/012.於梨华和她的小说.txt
+  数据：data/timeline-events-education-and-faces.json#education-faces-1964-05-27-yu-lihua-written
+- 《文星》第80期 1964年6月1日 | 《文星》刊出《於梨华和她的小说》
+  精度：day；可靠度：confirmed；排序日期：1964-06-01
+  摘要：《於梨华和她的小说》后记说明原登《文星》第80期、1964年6月1日，补出这篇评论进入公共讨论的发表层。
+  人物：李敖、於梨华
+  地点：台湾
+  标签：教育与脸谱、於梨华和她的小说、文星、1964
+  视图：发表线、作品线、人物线
+  作品：於梨华和她的小说、文星、教育与脸谱
+  交叉引用：-
+  来源：教育与脸谱 / 012.於梨华和她的小说 / line 61
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/001.教育与脸谱/012.於梨华和她的小说.txt
+  数据：data/timeline-events-education-and-faces.json#education-faces-1964-06-01-yu-lihua-published
 - 1964年7月10日 | 徐复观发文影射李敖为“小疯狗”，李敖后来提告
   精度：day；可靠度：confirmed；排序日期：1964-07-10
   摘要：《根株纪》写，徐复观1964年7月10日撰文影射“以胡适为衣食父母”的人豢养“小疯狗”，并写“李×”批评台大；李敖认为除他之外别无他人可适用，后来据此提起诽谤诉讼。
@@ -4145,6 +4327,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/010.根株纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1964-07-10-xu-fuguan-little-mad-dog-article
+- 1964年7月27日东方未明时 | 李敖写成《教育与脸谱》序幕
+  精度：day；可靠度：confirmed；排序日期：1964-07-27
+  摘要：《教育与脸谱》序幕文末署“1964年7月27日东方未明时”，显示李敖把这一册视为对教育界与学术界脸谱的集中记录和反击。
+  人物：李敖
+  地点：台湾
+  标签：教育与脸谱、序幕、1964、写作
+  视图：写作线、作品线、序跋线
+  作品：教育与脸谱、《教育与脸谱》序幕
+  交叉引用：-
+  来源：教育与脸谱 / 《教育与脸谱》序幕 / line 47
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/001.教育与脸谱/《教育与脸谱》序幕.txt
+  数据：data/timeline-events-education-and-faces.json#education-faces-1964-07-27-preface-written-before-dawn
 - 1964年8月1日 | 《文星》以编辑室报告推出《论医师法规》专题
   精度：day；可靠度：confirmed；排序日期：1964-08-01
   摘要：《论医师法规》以《文星》第八十二期编辑室报告、1964年8月1日为专题锚点，延续李敖和吴基福围绕医师法修改的舆论攻防。
@@ -4171,6 +4366,45 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1964-08-04-letter-to-h-real-man
+- 《文星》第82期 1964年8月10日 | 《文星》刊出《教育与脸谱》序幕
+  精度：day；可靠度：confirmed；排序日期：1964-08-10
+  摘要：《教育与脸谱》序幕末尾保留《文星》第82期、1964年8月10日发表层，说明这一册的总引先在《文星》公开亮相。
+  人物：李敖
+  地点：台湾
+  标签：教育与脸谱、文星、1964、发表
+  视图：发表线、作品线、出版线
+  作品：教育与脸谱、文星、《教育与脸谱》序幕
+  交叉引用：-
+  来源：教育与脸谱 / 《教育与脸谱》序幕 / line 51
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/001.教育与脸谱/《教育与脸谱》序幕.txt
+  数据：data/timeline-events-education-and-faces.json#education-faces-1964-08-10-preface-published-in-wenxing
+- 1964年8月17日 | 李敖为《於梨华和她的小说》写后记收束
+  精度：day；可靠度：confirmed；排序日期：1964-08-17
+  摘要：《於梨华和她的小说》后记末尾署1964年8月17日，说明李敖在两个月余的回响、来信与笔战后，对此文做了一次集中收束。
+  人物：李敖、於梨华
+  地点：台湾
+  标签：教育与脸谱、於梨华和她的小说、后记、1964
+  视图：后记线、作品线、人物线
+  作品：於梨华和她的小说、教育与脸谱
+  交叉引用：-
+  来源：教育与脸谱 / 012.於梨华和她的小说 / line 149
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/001.教育与脸谱/012.於梨华和她的小说.txt
+  数据：data/timeline-events-education-and-faces.json#education-faces-1964-08-17-yu-lihua-postscript
+- 1964年8月19日 | 李敖写完《关于高等教育怪现状的讨论》
+  精度：day；可靠度：confirmed；排序日期：1964-08-19
+  摘要：《关于高等教育怪现状的讨论》文末署1964年8月19日，显示李敖在将近一年回响、来信、社论和学生响应之后，对高教风波做了一次集中整理与收束。
+  人物：李敖、王洪钧
+  地点：台湾
+  标签：教育与脸谱、关于高等教育怪现状的讨论、1964、写作
+  视图：写作线、回响线、教育线
+  作品：关于高等教育怪现状的讨论、教育与脸谱
+  交叉引用：-
+  来源：教育与脸谱 / 004.关于高等教育怪现状的讨论 / line 355
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/001.教育与脸谱/004.关于高等教育怪现状的讨论.txt
+  数据：data/timeline-events-education-and-faces.json#education-faces-1964-08-19-completes-discussion-of-higher-education-phenomena
 - 1964年8月20日 | 李敖写《高等教育问题》附录长文
   精度：day；可靠度：confirmed；排序日期：1964-08-20
   摘要：《高等教育问题》所收附录长文署1964年8月20日，围绕辅仁大学文学院的人事与制度乱象展开系统揭发。
@@ -4184,6 +4418,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/011.高等教育问题.txt
   数据：data/timeline-events-li-ao-complete-works.json#complete-works-1964-08-20-higher-education-problem
+- 1964年8月22日 | 李敖写完《从李济的悲剧看中央研究院的几个黑暗面》
+  精度：day；可靠度：confirmed；排序日期：1964-08-22
+  摘要：《从李济的悲剧看中央研究院的几个黑暗面》文末署1964年8月22日，标出李敖把李济与中央研究院批判线系统整理成篇的完成时间。
+  人物：李敖、李济、王世杰
+  地点：台湾、中央研究院
+  标签：教育与脸谱、中央研究院、李济、1964
+  视图：写作线、作品线、中研院线
+  作品：从李济的悲剧看中央研究院的几个黑暗面、教育与脸谱
+  交叉引用：-
+  来源：教育与脸谱 / 008.从李济的悲剧看中央研究院的几个黑暗面 / line 277
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/001.教育与脸谱/008.从李济的悲剧看中央研究院的几个黑暗面.txt
+  数据：data/timeline-events-education-and-faces.json#education-faces-1964-08-22-completes-dark-sides-of-academia-sinica
 - 1964年9月1日 | 《文星》第83期刊出内政部来函引发李敖不满
   精度：day；可靠度：confirmed；排序日期：1964-09-01
   摘要：李敖写道，1964年9月1日第83期《文星》登出内政部要求“嗣后注意改进”的来函，他因此极为恼怒，并在后续札记和声明中表达不满。

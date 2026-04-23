@@ -43,9 +43,10 @@ const dataFiles = [
   "./data/timeline-events-wencun.json",
   "./data/timeline-events-wencun-two.json",
   "./data/timeline-events-bobo-song.json",
-  "./data/timeline-events-li-ao-complete-works.json"
+  "./data/timeline-events-li-ao-complete-works.json",
+  "./data/timeline-events-education-and-faces.json"
 ];
-const dataVersion = "2026-04-23-complete-works-round-04";
+const dataVersion = "2026-04-23-education-faces-round-02";
 
 const dateFormatter = new Intl.DateTimeFormat("zh-Hant", {
   year: "numeric",
