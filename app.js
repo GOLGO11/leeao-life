@@ -51,7 +51,7 @@ const dataFiles = [
   "./data/timeline-events-shilun-xinyu.json",
   "./data/timeline-events-qiushi-xinyu.json"
 ];
-const dataVersion = "2026-04-24-qiushi-xinyu-round-01";
+const dataVersion = "2026-04-24-qiushi-xinyu-round-09";
 
 const dateFormatter = new Intl.DateTimeFormat("zh-Hant", {
   year: "numeric",
