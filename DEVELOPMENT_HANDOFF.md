@@ -9,22 +9,22 @@
 ### 当前总状态
 
 - 项目路径：`/home/aihuashanying/leeao-life`
-- 当前总事件数：`1511`
+- 当前总事件数：`1548`
 - 当前全库校验：
 
 ```json
 {
-  "events": 1511,
+  "events": 1548,
   "dups": 0,
   "missingRefs": 0,
   "structuralBad": 0
 }
 ```
 
-- 纯文本总表表头当前应为：`事件总数：1511`
+- 纯文本总表表头当前应为：`事件总数：1548`
 - 当前前端版本号：
-  - `app.js` 的 `dataVersion`：`2026-04-24-qiushi-xinyu-round-09`
-  - `index.html` 的 CSS / JS query param：`2026-04-24-qiushi-xinyu-round-09`
+  - `app.js` 的 `dataVersion`：`2026-04-24-woshi-tiananmen-round-02`
+  - `index.html` 的 CSS / JS query param：`2026-04-24-woshi-tiananmen-round-02`
 
 ### 用户硬规则
 
@@ -56,6 +56,23 @@ iconv -f GB18030 -t UTF-8 "<章节路径>" | nl -ba
 - `crossReferences` 改完一定要再跑全库校验；目前项目已经做到 `missingRefs = 0`，不要回退。
 
 ### 当前最自然的工作起点
+
+当前主线已经从《求是新语》closeout 切到 **《我是天安门》第二轮后续 / 近 closeout 状态**：
+
+- 当前 `data/timeline-events-woshi-tiananmen.json`：**37 条**
+- 前两轮累计已收：`001 / 002 / 004 / 005 / 006 / 007 / 008 / 009 / 010 / 011 / 012 / 013 / 014 / 016 / 017 / 018 / 019 / 020 / 021 / 022 / 023 / 024 / 025 / 026 / 027 / 028 / 029 / 030 / 032 / 033 / 034 / 035 / 036 / 037 / 038 / 039 / 040`
+- 本轮明确暂缓：
+  - `003`：开头 `10月7日`、正文另有 `10月1日`、文末又署 `1983年11月16日夜`，首轮视为竞争锚点
+  - `015`：当前只找到 `1990年1月9-14日` 这一范围日期，若要入库应走待校日 / 区间日期口径
+  - `031`：当前只见“一九九一年五月”月份级署日，若要入库应走宽日期口径
+- 本轮已坐实的口径：
+  - 优先收文末完整署日，或正文直接给出完整中文年月日的篇章
+  - `010` 与 `013` 虽有前文回指，但“回应 / 续写”动作与完整署日明确，仍可安全入表
+  - `038` 与 `039` 已补双向 `crossReferences`
+  - 第二轮又补成两组相邻专题：`018 / 019` 的毛家亲属特权线，和 `024 / 025` 的钓鱼台 / 保钓线
+- 因此，**下一位 agent 最自然的动作是对《我是天安门》剩余的 `003 / 015 / 031` 做保守 closeout，而不是返回《求是新语》继续推进章号。**
+
+#### 《求是新语》第十轮 closeout 参考（已过主线）
 
 刚完成的是 **《求是新语》第十轮 closeout**：
 
@@ -216,7 +233,8 @@ data/timeline-events-thought-trend-answer.json         10
 data/timeline-events-shangxia-gujin-talks.json         60
 data/timeline-events-shilun-xinyu.json                 72
 data/timeline-events-qiushi-xinyu.json                 70
-总计                                                  1511
+data/timeline-events-woshi-tiananmen.json              37
+总计                                                  1548
 ```
 
 ### 工作目录与基本命令
@@ -282,6 +300,7 @@ data/timeline-events-thought-trend-answer.json
 data/timeline-events-shangxia-gujin-talks.json
 data/timeline-events-shilun-xinyu.json
 data/timeline-events-qiushi-xinyu.json
+data/timeline-events-woshi-tiananmen.json
 ```
 
 同步位置：
@@ -325,6 +344,7 @@ data/ingestion-log.json
 019.上下古今谈
 020.世论新语
 021.求是新语
+022.我是天安门
 ```
 
 ## 《李敖文存》当前状态
@@ -2082,18 +2102,18 @@ node tools/export-timeline-text.mjs
 
 ```json
 {
-  "events": 1511,
+  "events": 1548,
   "qiushi": 70,
+  "woshi": 23,
   "dups": 0,
   "missingRefs": 0,
-  "structuralBad": 0,
-  "qiushiBadNewFile": 0
+  "structuralBad": 0
 }
 ```
 
 ## 建议下一步
 
-当前用户对第七本《李敖风流自传》的要求已经完成：**最后一次模糊项筛查 + 总校对式 closeout + 阶段性结束**。
+当前最自然的下一步已经不再是《求是新语》或更早的书，而是：**对《我是天安门》剩余的 `003 / 015 / 031` 做一轮保守 closeout，确认这本是否可以阶段性收束。**
 
 因此接手后默认路线**不再是继续把第七本当主线往下扫**，而应理解为：第七本已进入 maintenance / backfill 状态。
 
