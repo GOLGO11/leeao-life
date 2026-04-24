@@ -9,22 +9,22 @@
 ### 当前总状态
 
 - 项目路径：`/home/aihuashanying/leeao-life`
-- 当前总事件数：`1608`
+- 当前总事件数：`1624`
 - 当前全库校验：
 
 ```json
 {
-  "events": 1608,
+  "events": 1624,
   "dups": 0,
   "missingRefs": 0,
   "structuralBad": 0
 }
 ```
 
-- 纯文本总表表头当前应为：`事件总数：1608`
+- 纯文本总表表头当前应为：`事件总数：1624`
 - 当前前端版本号：
-  - `app.js` 的 `dataVersion`：`2026-04-24-jingfumen-round-05`
-  - `index.html` 的 CSS / JS query param：`2026-04-24-jingfumen-round-05`
+  - `app.js` 的 `dataVersion`：`2026-04-24-freedom-summoning-round-01`
+  - `index.html` 的 CSS / JS query param：`2026-04-24-freedom-summoning-round-01`
 
 ### 用户硬规则
 
@@ -57,7 +57,15 @@ iconv -f GB18030 -t UTF-8 "<章节路径>" | nl -ba
 
 ### 当前最自然的工作起点
 
-当前主线已经从《求是新语》closeout、再到《我是天安门》closeout，继续切到了 **《你是景福门》第五轮 closeout**：
+当前主线已经从《求是新语》closeout、再到《我是天安门》closeout、《你是景福门》第五轮 closeout，继续切到了 **《为自由招魂》第一轮**：
+
+- 当前 `data/timeline-events-freedom-summoning.json`：**16 条**
+- 第一轮已收章节：`001 / 002 / 003 / 004 / 005 / 007 / 008 / 009 / 010 / 011 / 012 / 013`
+- 第一轮口径：先收李敖直接当事的写作、投稿说明、禁刊记录、回信婉拒演讲、公开发表与后记事件；纯背景、旁人法律材料、机构判决和跨书疑似重复宽日期材料暂缓。
+- 暂缓重点：`006.流血的自由` 疑似与 `data/timeline-events-wencun-two.json` 既有条目相近且只有宽日期；`013.月亮属于谁的？` 中法律/信件/判决日期先不扩成李敖事件；`014-022` 留待下一轮细读。
+- 下一步最自然是继续《为自由招魂》第二轮，处理 `014-022`，尤其对 `014 / 015 / 019 / 020 / 022` 的 dense documentary/legal/source-material 章节保持保守。
+
+上一条主线 **《你是景福门》第五轮 closeout** 已完成：
 
 - 当前 `data/timeline-events-jingfumen.json`：**57 条**
 - 第一轮已收章节：`001 / 004 / 005 / 006 / 007 / 009 / 010 / 011 / 025 / 040`
@@ -234,8 +242,9 @@ data/timeline-events-shangxia-gujin-talks.json         60
 data/timeline-events-shilun-xinyu.json                 72
 data/timeline-events-qiushi-xinyu.json                 70
 data/timeline-events-woshi-tiananmen.json              40
-data/timeline-events-jingfumen.json                    16
-总计                                                  1567
+data/timeline-events-jingfumen.json                    57
+data/timeline-events-freedom-summoning.json            16
+总计                                                  1624
 ```
 
 ### 工作目录与基本命令
@@ -302,6 +311,8 @@ data/timeline-events-shangxia-gujin-talks.json
 data/timeline-events-shilun-xinyu.json
 data/timeline-events-qiushi-xinyu.json
 data/timeline-events-woshi-tiananmen.json
+data/timeline-events-jingfumen.json
+data/timeline-events-freedom-summoning.json
 ```
 
 同步位置：
@@ -347,6 +358,7 @@ data/ingestion-log.json
 021.求是新语
 022.我是天安门
 023.你是景福门
+024.为自由招魂
 ```
 
 ## 《李敖文存》当前状态
@@ -2104,21 +2116,22 @@ node tools/export-timeline-text.mjs
 
 ```json
 {
-  "events": 1567,
+  "events": 1624,
   "qiushi": 70,
   "woshi": 40,
-  "jingfumen": 16,
+  "jingfumen": 57,
+  "freedom": 16,
   "dups": 0,
   "missingRefs": 0,
-  "structuralBad": 0
+  "freedomStructuralBad": 0
 }
 ```
 
 ## 建议下一步
 
-当前最自然的下一步已经是：**继续《你是景福门》第二轮，补正文里李敖本人当事的事件，同时继续保持条目短、实、贴原文。**
+当前最自然的下一步已经是：**继续《为自由招魂》第二轮，处理 014-022，并对密集 documentary/legal/source-material 章节保持保守。**
 
-因此接手后默认路线**不是回头深挖《求是新语》或《我是天安门》**，而是把这两本视为已收束参考线，把《你是景福门》当主线继续推进。
+因此接手后默认路线**不是回头深挖《求是新语》《我是天安门》或继续按章号推进《你是景福门》**，而是把这些已收束书作为参考线，把《为自由招魂》当主线继续推进。
 
 默认建议路线改为：
 

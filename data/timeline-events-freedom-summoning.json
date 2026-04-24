@@ -1,0 +1,322 @@
+[
+  {
+    "id": "freedom-summoning-1965-06-08-writes-democracy-under-dictatorship",
+    "date": "1965-06-08",
+    "displayDate": "1965年6月8日",
+    "datePrecision": "day",
+    "title": "李敖写《独裁中的民主》",
+    "summary": "《独裁中的民主》文末署“六月八日写讫”。李敖从立法院、国会运作与政治禁忌切入，批评独裁体制下的民主表象。",
+    "view": ["写作线", "思想线", "政治线"],
+    "tags": ["为自由招魂", "民主", "独裁", "1965"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["为自由招魂", "独裁中的民主"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "001.独裁中的民主",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/001.独裁中的民主.txt",
+      "line": 99
+    }
+  },
+  {
+    "id": "freedom-summoning-1965-09-21-writes-wen-jing-lun",
+    "date": "1965-09-21",
+    "displayDate": "1965年9月21日",
+    "datePrecision": "day",
+    "title": "李敖写《文警论》",
+    "summary": "《文警论》文末署“一九六五年九月二十一日”。李敖讨论文化、警察与言论控制的关系，锋芒指向台湾的文禁环境。",
+    "view": ["写作线", "思想线", "政治线"],
+    "tags": ["为自由招魂", "文警论", "言论自由", "1965"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["为自由招魂", "文警论"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "002.文警论及附件",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/002.文警论及附件.txt",
+      "line": 37
+    }
+  },
+  {
+    "id": "freedom-summoning-1965-09-21-letter-submits-wen-jing-lun",
+    "date": "1965-09-21",
+    "displayDate": "1965年9月21日",
+    "datePrecision": "day",
+    "title": "李敖致信说明《文警论》投稿",
+    "summary": "《文警论及附件》收有李敖九月二十一日信，说明《文警论》投稿与发表处境，显示文章送刊时已预见压力。",
+    "view": ["交游线", "写作线", "政治线"],
+    "tags": ["为自由招魂", "文警论", "投稿", "言论自由", "1965"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["为自由招魂", "文警论"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "002.文警论及附件",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/002.文警论及附件.txt",
+      "line": 59
+    }
+  },
+  {
+    "id": "freedom-summoning-1965-09-24-records-wen-jing-lun-phone-pressure",
+    "date": "1965-09-24",
+    "displayDate": "1965年9月24日",
+    "datePrecision": "day",
+    "title": "李敖记《文警论》遭电话关照",
+    "summary": "《文警论及附件》记九月二十四日电话关照，《文警论》不能刊出；李敖把这次禁刊压力作为文禁实证保留下来。",
+    "view": ["出版线", "政治线", "写作线"],
+    "tags": ["为自由招魂", "文警论", "禁刊", "言论自由", "1965"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["为自由招魂", "文警论"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "002.文警论及附件",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/002.文警论及附件.txt",
+      "line": 83
+    }
+  },
+  {
+    "id": "freedom-summoning-1965-12-19-writes-dreamed-zhang-zongchang",
+    "date": "1965-12-19",
+    "displayDate": "1965年12月19日",
+    "datePrecision": "day",
+    "title": "李敖写《张宗昌，我梦到了你！》",
+    "summary": "《张宗昌，我梦到了你！》文末署“一九六五年十二月十九日”。李敖借张宗昌入梦，讽刺威权、军阀与政治荒诞。",
+    "view": ["写作线", "思想线", "政治线"],
+    "tags": ["为自由招魂", "张宗昌", "讽刺", "1965"],
+    "people": ["李敖", "张宗昌"],
+    "places": ["台湾"],
+    "works": ["为自由招魂", "张宗昌，我梦到了你！"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "003.张宗昌，我梦到了你！",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/003.张宗昌，我梦到了你！.txt",
+      "line": 43
+    }
+  },
+  {
+    "id": "freedom-summoning-1984-01-04-postscript-dreamed-zhang-zongchang",
+    "date": "1984-01-04",
+    "displayDate": "1984年1月4日",
+    "datePrecision": "day",
+    "title": "李敖为《张宗昌，我梦到了你！》写后记",
+    "summary": "《张宗昌，我梦到了你！》后记署“一九八四年一月四日”。李敖在后记中回看旧作处境，并继续把它放入自由与禁忌的脉络。",
+    "view": ["写作线", "出版线", "思想线"],
+    "tags": ["为自由招魂", "后记", "张宗昌", "1984"],
+    "people": ["李敖", "张宗昌"],
+    "places": ["台湾"],
+    "works": ["为自由招魂", "张宗昌，我梦到了你！"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "003.张宗昌，我梦到了你！",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/003.张宗昌，我梦到了你！.txt",
+      "line": 47
+    }
+  },
+  {
+    "id": "freedom-summoning-1979-11-18-writes-freedom-to-joke",
+    "date": "1979-11-18",
+    "displayDate": "1979年11月18日",
+    "datePrecision": "day",
+    "title": "李敖写《开玩笑的自由》",
+    "summary": "《开玩笑的自由》文末署“一九七九年十一月十八日”。李敖以开玩笑为切口，谈自由尺度与政治社会气氛。",
+    "view": ["写作线", "思想线", "政治线"],
+    "tags": ["为自由招魂", "开玩笑的自由", "言论自由", "1979"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["为自由招魂", "开玩笑的自由"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "004.开玩笑的自由",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/004.开玩笑的自由.txt",
+      "line": 51
+    }
+  },
+  {
+    "id": "freedom-summoning-1979-11-22-china-times-publishes-freedom-to-joke",
+    "date": "1979-11-22",
+    "displayDate": "1979年11月22日",
+    "datePrecision": "day",
+    "title": "《中国时报》刊出李敖《开玩笑的自由》",
+    "summary": "《开玩笑的自由》文末说明发表于一九七九年十一月二十二日《中国时报》。这是李敖此文公开发表的日期。",
+    "view": ["出版线", "写作线", "政治线"],
+    "tags": ["为自由招魂", "中国时报", "开玩笑的自由", "发表", "1979"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["为自由招魂", "开玩笑的自由", "中国时报"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "004.开玩笑的自由",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/004.开玩笑的自由.txt",
+      "line": 51
+    }
+  },
+  {
+    "id": "freedom-summoning-1980-04-04-declines-kaohsiung-medical-college-speech",
+    "date": "1980-04-04",
+    "displayDate": "1980年4月4日",
+    "datePrecision": "day",
+    "title": "李敖回信婉拒高雄医学院演讲",
+    "summary": "《没有演说的自由》收李敖四月四日回信，说明不能到高雄医学院演讲；文章标题即把这次婉拒放入演说自由问题中。",
+    "view": ["交游线", "政治线", "思想线"],
+    "tags": ["为自由招魂", "没有演说的自由", "高雄医学院", "演说自由", "1980"],
+    "people": ["李敖"],
+    "places": ["高雄医学院", "台湾"],
+    "works": ["为自由招魂", "没有演说的自由"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "005.没有演说的自由",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/005.没有演说的自由.txt",
+      "line": 7
+    }
+  },
+  {
+    "id": "freedom-summoning-1981-07-22-writes-martyr-without-bleeding-freedom",
+    "date": "1981-07-22",
+    "displayDate": "1981年7月22日",
+    "datePrecision": "day",
+    "title": "李敖写《记一位没有“流血的自由”的先烈》",
+    "summary": "《记一位没有“流血的自由”的先烈》文末署“一九八一年七月二十二日”。李敖借先烈故事继续讨论自由、牺牲与政治压迫。",
+    "view": ["写作线", "思想线", "政治线"],
+    "tags": ["为自由招魂", "流血的自由", "先烈", "1981"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["为自由招魂", "记一位没有“流血的自由”的先烈"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "007.记一位没有“流血的自由”的先烈",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/007.记一位没有“流血的自由”的先烈.txt",
+      "line": 15
+    }
+  },
+  {
+    "id": "freedom-summoning-1979-11-20-china-times-publishes-cartoon-freedom",
+    "date": "1979-11-20",
+    "displayDate": "1979年11月20日",
+    "datePrecision": "day",
+    "title": "《中国时报》刊出李敖《漫画的自由意义》",
+    "summary": "《漫画的自由意义》文末说明发表于一九七九年十一月二十日《中国时报》。这是李敖此文公开发表的日期。",
+    "view": ["出版线", "写作线", "思想线"],
+    "tags": ["为自由招魂", "中国时报", "漫画的自由意义", "发表", "1979"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["为自由招魂", "漫画的自由意义", "中国时报"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "008.漫画的自由意义",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/008.漫画的自由意义.txt",
+      "line": 19
+    }
+  },
+  {
+    "id": "freedom-summoning-1981-12-01-writes-freedom-not-to-flatter",
+    "date": "1981-12-01",
+    "displayDate": "1981年12月1日",
+    "datePrecision": "day",
+    "title": "李敖写《不拍马屁的自由》",
+    "summary": "《不拍马屁的自由》文末署“一九八一年十二月一日”。李敖以“不拍马屁”为题，讨论人格、权力与自由表达。",
+    "view": ["写作线", "思想线", "政治线"],
+    "tags": ["为自由招魂", "不拍马屁的自由", "人格", "1981"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["为自由招魂", "不拍马屁的自由"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "009.不拍马屁的自由",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/009.不拍马屁的自由.txt",
+      "line": 15
+    }
+  },
+  {
+    "id": "freedom-summoning-1981-12-01-writes-freedom-to-dream-as-llama",
+    "date": "1981-12-01",
+    "displayDate": "1981年12月1日",
+    "datePrecision": "day",
+    "title": "李敖写《梦做骆马的自由》",
+    "summary": "《梦做骆马的自由》文末署“一九八一年十二月一日”。李敖以梦与骆马作讽喻，继续写自由的限制与荒诞。",
+    "view": ["写作线", "思想线", "政治线"],
+    "tags": ["为自由招魂", "梦做骆马的自由", "自由", "1981"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["为自由招魂", "梦做骆马的自由"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "010.梦做骆马的自由",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/010.梦做骆马的自由.txt",
+      "line": 35
+    }
+  },
+  {
+    "id": "freedom-summoning-1982-03-21-writes-on-dissent",
+    "date": "1982-03-21",
+    "displayDate": "1982年3月21日",
+    "datePrecision": "day",
+    "title": "李敖写《论唱反调》",
+    "summary": "《论唱反调》文末署“一九八二年三月二十一日”。李敖正面论述唱反调的意义，把异议视为自由社会的必要声音。",
+    "view": ["写作线", "思想线", "政治线"],
+    "tags": ["为自由招魂", "论唱反调", "异议", "1982"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["为自由招魂", "论唱反调"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "011.论唱反调",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/011.论唱反调.txt",
+      "line": 41
+    }
+  },
+  {
+    "id": "freedom-summoning-1982-03-28-writes-freedom-to-be-angry-and-speak",
+    "date": "1982-03-28",
+    "displayDate": "1982年3月28日",
+    "datePrecision": "day",
+    "title": "李敖写《“敢怒而又敢言”的自由》",
+    "summary": "《“敢怒而又敢言”的自由》文末署“一九八二年三月二十八日”。李敖强调不只要敢怒，也要能公开发言。",
+    "view": ["写作线", "思想线", "政治线"],
+    "tags": ["为自由招魂", "敢怒而又敢言", "言论自由", "1982"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["为自由招魂", "“敢怒而又敢言”的自由"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "012.“敢怒而又敢言”的自由",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/012.“敢怒而又敢言”的自由.txt",
+      "line": 45
+    }
+  },
+  {
+    "id": "freedom-summoning-1982-06-21-writes-who-owns-the-moon",
+    "date": "1982-06-21",
+    "displayDate": "1982年6月21日",
+    "datePrecision": "day",
+    "title": "李敖写《月亮属于谁的？》",
+    "summary": "《月亮属于谁的？》文末署“一九八二年六月二十一日”。李敖围绕权利、归属与司法材料，写下这篇自由论述。",
+    "view": ["写作线", "思想线", "司法线"],
+    "tags": ["为自由招魂", "月亮属于谁的", "司法", "1982"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["为自由招魂", "月亮属于谁的？"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "013.月亮属于谁的？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/013.月亮属于谁的？.txt",
+      "line": 25
+    }
+  }
+]
