@@ -50,9 +50,10 @@ const dataFiles = [
   "./data/timeline-events-shangxia-gujin-talks.json",
   "./data/timeline-events-shilun-xinyu.json",
   "./data/timeline-events-qiushi-xinyu.json",
-  "./data/timeline-events-woshi-tiananmen.json"
+  "./data/timeline-events-woshi-tiananmen.json",
+  "./data/timeline-events-jingfumen.json"
 ];
-const dataVersion = "2026-04-24-woshi-tiananmen-round-02";
+const dataVersion = "2026-04-24-jingfumen-round-05";
 
 const dateFormatter = new Intl.DateTimeFormat("zh-Hant", {
   year: "numeric",
