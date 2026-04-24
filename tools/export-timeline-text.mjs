@@ -29,7 +29,8 @@ const dataFiles = [
   "data/timeline-events-cultural-debate-danhuo.json",
   "data/timeline-events-thought-trend-answer.json",
   "data/timeline-events-shangxia-gujin-talks.json",
-  "data/timeline-events-shilun-xinyu.json"
+  "data/timeline-events-shilun-xinyu.json",
+  "data/timeline-events-qiushi-xinyu.json"
 ];
 const outputPath = path.join(root, "exports", "leeao-current-timeline.txt");
 
