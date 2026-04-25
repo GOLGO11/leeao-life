@@ -318,5 +318,185 @@
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/013.月亮属于谁的？.txt",
       "line": 25
     }
+  },
+  {
+    "id": "freedom-summoning-1983-01-17-writes-wild-freedom",
+    "date": "1983-01-17",
+    "displayDate": "1983年1月17日",
+    "datePrecision": "day",
+    "title": "李敖写《我们梦想“野蛮之自由”》",
+    "summary": "《我们梦想“野蛮之自由”》文末署“1983年1月17日”。李敖借户籍法、户警合一与自己出狱后被频繁查户口的经历，追索被统治技术夺走的自由。",
+    "view": ["写作线", "思想线", "政治线"],
+    "tags": ["为自由招魂", "户警合一", "自由", "1983"],
+    "people": ["李敖", "孙中山"],
+    "places": ["台湾"],
+    "works": ["为自由招魂", "我们梦想“野蛮之自由”"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "014.我们梦想“野蛮之自由”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/014.我们梦想“野蛮之自由”.txt",
+      "line": 117
+    }
+  },
+  {
+    "id": "freedom-summoning-1985-01-19-writes-reading-secret-police-meeting-record",
+    "date": "1985-01-19",
+    "displayDate": "1985年1月19日晨",
+    "datePrecision": "day",
+    "title": "李敖写《读警总秘密会议纪录》",
+    "summary": "《读警总秘密会议纪录》文末署“1985年1月19日晨”。李敖据秘密流出的警总会议纪录，揭出文化审检、查扣与“依法追诉”的整套钳制言论机制。",
+    "view": ["写作线", "政治线", "出版线"],
+    "tags": ["为自由招魂", "警总", "审检", "1985"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["为自由招魂", "读警总秘密会议纪录"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "015.读警总秘密会议纪录",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/015.读警总秘密会议纪录.txt",
+      "line": 115
+    }
+  },
+  {
+    "id": "freedom-summoning-1983-02-06-writes-meaning-beyond-secret-carving-case",
+    "date": "1983-02-06",
+    "displayDate": "1983年2月6日",
+    "datePrecision": "day",
+    "title": "李敖写《秘雕案的案外意义》",
+    "summary": "《秘雕案的案外意义》文末署“1983年2月6日”。李敖借“秘雕案”主张争自由要先抢到言论与埋怨的自由，把它放在其他自由之前来谈。",
+    "view": ["写作线", "思想线", "政治线"],
+    "tags": ["为自由招魂", "秘雕案", "言论自由", "1983"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["为自由招魂", "秘雕案的案外意义"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "016.秘雕案的案外意义",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/016.秘雕案的案外意义.txt",
+      "line": 79
+    }
+  },
+  {
+    "id": "freedom-summoning-1983-03-27-writes-first-sound-is-most-like",
+    "date": "1983-03-27",
+    "displayDate": "1983年3月27日",
+    "datePrecision": "day",
+    "title": "李敖写《还是第一声最像》",
+    "summary": "《还是第一声最像》文末署“1983年3月27日”。李敖系统清理报禁历史与借口，直指国民党钳制办报自由后的种种托词不过是在“拉椅子”。",
+    "view": ["写作线", "思想线", "出版线"],
+    "tags": ["为自由招魂", "报禁", "办报自由", "1983"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["为自由招魂", "还是第一声最像"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "017.还是第一声最像",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/017.还是第一声最像.txt",
+      "line": 139
+    }
+  },
+  {
+    "id": "freedom-summoning-1983-05-27-writes-spring-breeze-blows-again",
+    "date": "1983-05-27",
+    "displayDate": "1983年5月27日",
+    "datePrecision": "day",
+    "title": "李敖写《“春风吹又生”》",
+    "summary": "《“春风吹又生”》文末署“1983年5月27日”。李敖用新乐府体写抢书、查扣与继续抗争，把禁压下的出版处境直接写成现场诗。",
+    "view": ["写作线", "出版线", "政治线"],
+    "tags": ["为自由招魂", "查禁", "抢书", "1983"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["为自由招魂", "“春风吹又生”"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "018.“春风吹又生”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/018.“春风吹又生”.txt",
+      "line": 13
+    }
+  },
+  {
+    "id": "freedom-summoning-1983-10-17-writes-freedom-of-speech-in-the-belly",
+    "date": "1983-10-17",
+    "displayDate": "1983年10月17日清晨一点到五点三刻",
+    "datePrecision": "day",
+    "title": "李敖写《肚皮里的言论自由》",
+    "summary": "《肚皮里的言论自由》文末署“1983年10月17日清晨一点到五点三刻”。李敖借孙陵与《大风雪》禁解经过，继续追打国民党所谓出版处分“有救济途径”的说法。",
+    "view": ["写作线", "思想线", "出版线"],
+    "tags": ["为自由招魂", "言论自由", "禁书", "1983"],
+    "people": ["李敖", "孙陵"],
+    "places": ["台湾"],
+    "works": ["为自由招魂", "肚皮里的言论自由"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "019.肚皮里的言论自由",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/019.肚皮里的言论自由.txt",
+      "line": 633
+    }
+  },
+  {
+    "id": "freedom-summoning-1983-12-12-writes-political-persecution-of-music",
+    "date": "1983-12-12",
+    "displayDate": "1983年12月12日",
+    "datePrecision": "day",
+    "title": "李敖写《政治迫害音乐的讨论》",
+    "summary": "《政治迫害音乐的讨论》文末署“1983年12月12日”。李敖借江文也之死与黄怡文章，讨论政治如何长期压迫音乐与艺术生命。",
+    "view": ["写作线", "思想线", "文化线"],
+    "tags": ["为自由招魂", "江文也", "音乐", "1983"],
+    "people": ["李敖", "江文也", "黄怡"],
+    "places": ["台湾"],
+    "works": ["为自由招魂", "政治迫害音乐的讨论"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "020.政治迫害音乐的讨论",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/020.政治迫害音乐的讨论.txt",
+      "line": 123
+    }
+  },
+  {
+    "id": "freedom-summoning-1985-01-17-writes-why-price-increase",
+    "date": "1985-01-17",
+    "displayDate": "1985年1月17日",
+    "datePrecision": "day",
+    "title": "李敖写《为什么涨价？》",
+    "summary": "《为什么涨价？》文末署“1985年1月17日”。李敖从党外周刊与《千秋评论》《万岁评论》被查禁、被预抢的现实，说明涨价背后的出版生存压力。",
+    "view": ["写作线", "出版线", "政治线"],
+    "tags": ["为自由招魂", "千秋评论", "查禁", "1985"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["为自由招魂", "为什么涨价？", "千秋评论", "万岁评论"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "021.为什么涨价？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/021.为什么涨价？.txt",
+      "line": 25
+    }
+  },
+  {
+    "id": "freedom-summoning-1985-04-18-writes-postscript-ye-mingxun-secret-document",
+    "date": "1985-04-18",
+    "displayDate": "1985年4月18日晨",
+    "datePrecision": "day",
+    "title": "李敖写《〈叶明勋密件〉书后》",
+    "summary": "《〈叶明勋密件〉书后》文末署“1985年4月18日晨”。李敖借叶明勋密件与《自立晚报》往事，继续揭示国民党如何伸手控制报纸与编辑政策。",
+    "view": ["写作线", "出版线", "政治线"],
+    "tags": ["为自由招魂", "叶明勋", "自立晚报", "1985"],
+    "people": ["李敖", "叶明勋", "李玉阶"],
+    "places": ["台湾"],
+    "works": ["为自由招魂", "《叶明勋密件》书后", "自立晚报"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "022.《叶明勋密件》书后",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/022.《叶明勋密件》书后.txt",
+      "line": 79
+    }
   }
 ]

@@ -9,22 +9,22 @@
 ### 当前总状态
 
 - 项目路径：`/home/aihuashanying/leeao-life`
-- 当前总事件数：`1624`
+- 当前总事件数：`1633`
 - 当前全库校验：
 
 ```json
 {
-  "events": 1624,
+  "events": 1633,
   "dups": 0,
   "missingRefs": 0,
   "structuralBad": 0
 }
 ```
 
-- 纯文本总表表头当前应为：`事件总数：1624`
+- 纯文本总表表头当前应为：`事件总数：1633`
 - 当前前端版本号：
-  - `app.js` 的 `dataVersion`：`2026-04-24-freedom-summoning-round-01`
-  - `index.html` 的 CSS / JS query param：`2026-04-24-freedom-summoning-round-01`
+  - `app.js` 的 `dataVersion`：`2026-04-25-freedom-summoning-round-02`
+  - `index.html` 的 CSS / JS query param：`2026-04-25-freedom-summoning-round-02`
 
 ### 用户硬规则
 
@@ -57,13 +57,15 @@ iconv -f GB18030 -t UTF-8 "<章节路径>" | nl -ba
 
 ### 当前最自然的工作起点
 
-当前主线已经从《求是新语》closeout、再到《我是天安门》closeout、《你是景福门》第五轮 closeout，继续切到了 **《为自由招魂》第一轮**：
+当前主线已经从《求是新语》closeout、再到《我是天安门》closeout、《你是景福门》第五轮 closeout，继续推进到 **《为自由招魂》第二轮**：
 
-- 当前 `data/timeline-events-freedom-summoning.json`：**16 条**
+- 当前 `data/timeline-events-freedom-summoning.json`：**25 条**
 - 第一轮已收章节：`001 / 002 / 003 / 004 / 005 / 007 / 008 / 009 / 010 / 011 / 012 / 013`
+- 第二轮已收章节：`014 / 015 / 016 / 017 / 018 / 019 / 020 / 021 / 022`
 - 第一轮口径：先收李敖直接当事的写作、投稿说明、禁刊记录、回信婉拒演讲、公开发表与后记事件；纯背景、旁人法律材料、机构判决和跨书疑似重复宽日期材料暂缓。
-- 暂缓重点：`006.流血的自由` 疑似与 `data/timeline-events-wencun-two.json` 既有条目相近且只有宽日期；`013.月亮属于谁的？` 中法律/信件/判决日期先不扩成李敖事件；`014-022` 留待下一轮细读。
-- 下一步最自然是继续《为自由招魂》第二轮，处理 `014-022`，尤其对 `014 / 015 / 019 / 020 / 022` 的 dense documentary/legal/source-material 章节保持保守。
+- 第二轮坐实的口径：`014-022` 新增 9 条，全部是文末明确署日的写作事件；`014 / 015 / 019 / 020 / 022` 里的 dense documentary/legal/source-material 章节继续保持保守，不把法令、会议纪录、人物履历、旧案日期和旁人材料硬扩成李敖事件。
+- 暂缓重点：`006.流血的自由` 疑似与 `data/timeline-events-wencun-two.json` 既有条目相近且只有宽日期，继续暂缓；`013.月亮属于谁的？` 中法律/信件/判决日期仍先不扩成李敖事件；`014-022` 相关材料链后续只适合在跨书互校或 keep-out 池复核时谨慎升级。
+- 因此，**《为自由招魂》001-022 已完成目录级首轮覆盖；下一位 agent 不必再按章号推进这本，可转向下一本书，或只做 keep-out 池复核、跨书互校与交叉引用小修。**
 
 上一条主线 **《你是景福门》第五轮 closeout** 已完成：
 
@@ -243,8 +245,8 @@ data/timeline-events-shilun-xinyu.json                 72
 data/timeline-events-qiushi-xinyu.json                 70
 data/timeline-events-woshi-tiananmen.json              40
 data/timeline-events-jingfumen.json                    57
-data/timeline-events-freedom-summoning.json            16
-总计                                                  1624
+data/timeline-events-freedom-summoning.json            25
+总计                                                  1633
 ```
 
 ### 工作目录与基本命令

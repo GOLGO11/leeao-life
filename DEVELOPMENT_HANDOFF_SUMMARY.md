@@ -10,19 +10,19 @@
 ## 一、当前快照
 
 - 项目路径：`/home/aihuashanying/leeao-life`
-- 当前总事件数：**1624**
-- 当前最新轮次：`iteration: 167`
-- 当前数据版本：`2026-04-24-freedom-summoning-round-01`
+- 当前总事件数：**1633**
+- 当前最新轮次：`iteration: 168`
+- 当前数据版本：`2026-04-25-freedom-summoning-round-02`
 - 当前纯文本总表：`exports/leeao-current-timeline.txt`
 - 当前前端版本：
-  - `app.js` 的 `dataVersion`：`2026-04-24-freedom-summoning-round-01`
-  - `index.html` 的 CSS / JS query param：`2026-04-24-freedom-summoning-round-01`
+  - `app.js` 的 `dataVersion`：`2026-04-25-freedom-summoning-round-02`
+  - `index.html` 的 CSS / JS query param：`2026-04-25-freedom-summoning-round-02`
 
 当前全库校验应维持：
 
 ```json
 {
-  "events": 1624,
+  "events": 1633,
   "dups": 0,
   "missingRefs": 0,
   "structuralBad": 0
@@ -37,11 +37,12 @@
 
 ### 当前工作树状态
 
-当前工作树是 **dirty** 的，接手时不要回退现有改动。此时最重要的新增/修改集中在《为自由招魂》第一轮：
+当前工作树是 **dirty** 的，接手时不要回退现有改动。此时最重要的新增/修改集中在《为自由招魂》第二轮：
 
 - 新增：`data/timeline-events-freedom-summoning.json`
 - 已同步：`app.js`、`tools/export-timeline-text.mjs`、`index.html`、`README.md`、`data/ingestion-log.json`、`DEVELOPMENT_HANDOFF.md`、`DEVELOPMENT_HANDOFF_SUMMARY.md`、`exports/leeao-current-timeline.txt`
 - 既有《你是景福门》数据文件维持 57 条 closeout 状态，不要回退。
+- `data/timeline-events-freedom-summoning.json` 已从 16 条推进到 25 条。
 
 ---
 
@@ -81,25 +82,22 @@
 ### 当前状态
 
 - 当前文件：[data/timeline-events-freedom-summoning.json](/home/aihuashanying/leeao-life/data/timeline-events-freedom-summoning.json)
-- 当前条目数：**16**
-- 当前轮次：**第一轮完成**
-- 本轮处理章节：
-  - `001.独裁中的民主`
-  - `002.文警论及附件`
-  - `003.张宗昌，我梦到了你！`
-  - `004.开玩笑的自由`
-  - `005.没有演说的自由`
-  - `007.记一位没有“流血的自由”的先烈`
-  - `008.漫画的自由意义`
-  - `009.不拍马屁的自由`
-  - `010.梦做骆马的自由`
-  - `011.论唱反调`
-  - `012.“敢怒而又敢言”的自由`
-  - `013.月亮属于谁的？`
+- 当前条目数：**25**
+- 当前轮次：**第二轮完成**
+- 第二轮处理章节：
+  - `014.我们梦想“野蛮之自由”`
+  - `015.读警总秘密会议纪录`
+  - `016.秘雕案的案外意义`
+  - `017.还是第一声最像`
+  - `018.“春风吹又生”`
+  - `019.肚皮里的言论自由`
+  - `020.政治迫害音乐的讨论`
+  - `021.为什么涨价？`
+  - `022.《叶明勋密件》书后`
 
 ### 当前口径
 
-第一轮先保守收录李敖直接当事的写作、投稿说明、禁刊记录、回信婉拒演讲、公开发表和后记事件；`006.流血的自由` 因宽日期且疑似已有跨书近似条目，暂缓不入；`013` 中法律/信件/判决日期先作为背景材料暂缓，只收 1982年6月21日李敖写作事件。下一轮应继续 `014-022`，对 dense documentary/legal/source-material 章节逐段辨析，避免把旁人或机构材料误扩成李敖事件。
+第一轮保守收录李敖直接当事的写作、投稿说明、禁刊记录、回信婉拒演讲、公开发表和后记事件；第二轮继续处理 `014-022`，本轮新增 9 条，全部为文末明确署日的写作事件。当前已明确：`014 / 015 / 019 / 020 / 022` 等章里的法令、会议纪录、人物履历、旧案日期和音乐/报业材料链，主要作为背景与论证层，不宜为了凑数扩成李敖事件。`006.流血的自由` 仍因宽日期且疑似已有跨书近似条目继续暂缓；《为自由招魂》现在可视为完成一轮目录级覆盖，后续更适合做 keep-out 池复核、跨书互校与少数材料链升级。
 
 ---
 
@@ -313,7 +311,7 @@
 
 也就是说：
 
-> **下一位默认不要把《求是新语》《我是天安门》或《你是景福门》再当主线深挖。当前主线就是《为自由招魂》第二轮。**
+> **下一位默认不要把《求是新语》《我是天安门》或《你是景福门》再当主线深挖。《为自由招魂》也已完成第二轮和目录级首轮覆盖；下一步更自然的是转向下一本新书，或回做 keep-out 池复核、跨书互校。**
 
 ---
 
@@ -321,13 +319,13 @@
 
 先确认这些值没有漂：
 
-- 总事件数：`1624`
+- 总事件数：`1633`
 - `《求是新语》`：`70`
 - `《我是天安门》`：`40`
 - `《你是景福门》`：`57`
-- `《为自由招魂》`：`16`
-- `dataVersion = 2026-04-24-freedom-summoning-round-01`
-- `exports/leeao-current-timeline.txt` 表头：`事件总数：1624`
+- `《为自由招魂》`：`25`
+- `dataVersion = 2026-04-25-freedom-summoning-round-02`
+- `exports/leeao-current-timeline.txt` 表头：`事件总数：1633`
 
 ### 快速命令
 
@@ -365,8 +363,8 @@ node --check tools/export-timeline-text.mjs
 
 ```json
 {
-  "events": 1624,
-  "freedom": 16,
+  "events": 1633,
+  "freedom": 25,
   "dups": 0,
   "missingRefs": 0,
   "freedomStructuralBad": 0
@@ -377,4 +375,4 @@ node --check tools/export-timeline-text.mjs
 
 ## 九、一句话交给下一位
 
-> **当前主线是《为自由招魂》第二轮：继续处理 `014-022`，只收李敖直接当事的写作、通信、发表、诉讼/被卷入等事件；`006` 和 `013` 的背景/法律材料已在第一轮保守暂缓，不要为凑数硬入。**
+> **《为自由招魂》现已完成第二轮并把 `001-022` 正文目录至少正式覆盖一遍：第二轮新增 9 条文末署日写作事件，继续守住“法律材料、旁人履历、旧案日期不硬扩成李敖事件”的边界。下一位更自然是切到下一本新书，或回做 keep-out 池复核、跨书互校。**

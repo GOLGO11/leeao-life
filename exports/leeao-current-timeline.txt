@@ -1,9 +1,9 @@
 李敖交互式年表：当前增量纯文本备份
-生成日期：2026-04-24
-事件总数：1624
+生成日期：2026-04-25
+事件总数：1633
 数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json
 说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。
-日期精度统计：day=1323；year=84；year-range=6；undated-range=1；undated-context=113；season=22；lunar-day=1；year-after=7；month=40；half-year=2；day-range=12；month-after=2；day-after=4；year-context=1；year-about=5；year-end=1
+日期精度统计：day=1332；year=84；year-range=6；undated-range=1；undated-context=113；season=22；lunar-day=1；year-after=7；month=40；half-year=2；day-range=12；month-after=2；day-after=4；year-context=1；year-about=5；year-end=1
 
 
 1935
@@ -11268,6 +11268,19 @@
   数据：data/timeline-events-fifth-book.json#book5-1982-annie-thousand-days-intimate-memory
 
 1983
+- 1983年1月17日 | 李敖写《我们梦想“野蛮之自由”》
+  精度：day；可靠度：confirmed；排序日期：1983-01-17
+  摘要：《我们梦想“野蛮之自由”》文末署“1983年1月17日”。李敖借户籍法、户警合一与自己出狱后被频繁查户口的经历，追索被统治技术夺走的自由。
+  人物：李敖、孙中山
+  地点：台湾
+  标签：为自由招魂、户警合一、自由、1983
+  视图：写作线、思想线、政治线
+  作品：为自由招魂、我们梦想“野蛮之自由”
+  交叉引用：-
+  来源：为自由招魂 / 014.我们梦想“野蛮之自由” / line 117
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/014.我们梦想“野蛮之自由”.txt
+  数据：data/timeline-events-freedom-summoning.json#freedom-summoning-1983-01-17-writes-wild-freedom
 - 1983年1月29日 | 高院驳回萧孟能抗告
   精度：day；可靠度：confirmed；排序日期：1983-01-29
   摘要：萧孟能对《文星杂志选集》案提起抗告，1983年1月29日台湾高等法院推事刘士元、尤三谋、柯庆贤驳回。
@@ -11294,6 +11307,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/008.李敖相关/001.李敖五十年表.txt
   数据：data/timeline-events-eighth-book.json#book8-1983-02-01-publishes-volume-seven-and-eight-of-complete-works
+- 1983年2月6日 | 李敖写《秘雕案的案外意义》
+  精度：day；可靠度：confirmed；排序日期：1983-02-06
+  摘要：《秘雕案的案外意义》文末署“1983年2月6日”。李敖借“秘雕案”主张争自由要先抢到言论与埋怨的自由，把它放在其他自由之前来谈。
+  人物：李敖
+  地点：台湾
+  标签：为自由招魂、秘雕案、言论自由、1983
+  视图：写作线、思想线、政治线
+  作品：为自由招魂、秘雕案的案外意义
+  交叉引用：-
+  来源：为自由招魂 / 016.秘雕案的案外意义 / line 79
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/016.秘雕案的案外意义.txt
+  数据：data/timeline-events-freedom-summoning.json#freedom-summoning-1983-02-06-writes-meaning-beyond-secret-carving-case
 - 1983-02-27 | 四名绿岛叛乱犯因“感化悔悟”获假释
   精度：day；可靠度：confirmed；排序日期：1983-02-27
   摘要：李敖引用党报报道，1983年2月27日四名关在绿岛三十年的政治犯以“感化悔悟”名义获得假释。
@@ -11320,6 +11346,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/031.从主流到乱流.txt
   数据：data/timeline-events-second-book-broad.json#book2-broad-1983-02-28-news-bureau-approves-wenxing-registration
+- 1983年3月27日 | 李敖写《还是第一声最像》
+  精度：day；可靠度：confirmed；排序日期：1983-03-27
+  摘要：《还是第一声最像》文末署“1983年3月27日”。李敖系统清理报禁历史与借口，直指国民党钳制办报自由后的种种托词不过是在“拉椅子”。
+  人物：李敖
+  地点：台湾
+  标签：为自由招魂、报禁、办报自由、1983
+  视图：写作线、思想线、出版线
+  作品：为自由招魂、还是第一声最像
+  交叉引用：-
+  来源：为自由招魂 / 017.还是第一声最像 / line 139
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/017.还是第一声最像.txt
+  数据：data/timeline-events-freedom-summoning.json#freedom-summoning-1983-03-27-writes-first-sound-is-most-like
 - 1983-04-13 | 写成《我最难忘的一个小偷》
   精度：day；可靠度：confirmed；排序日期：1983-04-13
   摘要：李敖早起花五十分钟写成《我最难忘的一个小偷》，回忆军法处政治犯生活中的“欧卡曾”和“毛真好”误会。
@@ -11346,6 +11385,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/008.李敖相关/006.李敖著作查禁清单及官方理由.txt
   数据：data/timeline-events-eighth-book.json#book8-1983-05-24-chiu-review-22-banned-before-publication
+- 1983年5月27日 | 李敖写《“春风吹又生”》
+  精度：day；可靠度：confirmed；排序日期：1983-05-27
+  摘要：《“春风吹又生”》文末署“1983年5月27日”。李敖用新乐府体写抢书、查扣与继续抗争，把禁压下的出版处境直接写成现场诗。
+  人物：李敖
+  地点：台湾
+  标签：为自由招魂、查禁、抢书、1983
+  视图：写作线、出版线、政治线
+  作品：为自由招魂、“春风吹又生”
+  交叉引用：-
+  来源：为自由招魂 / 018.“春风吹又生” / line 13
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/018.“春风吹又生”.txt
+  数据：data/timeline-events-freedom-summoning.json#freedom-summoning-1983-05-27-writes-spring-breeze-blows-again
 - 1983年6月9日 | 李敖花十小时写《我最难忘的一个“匪谍”》
   精度：day；可靠度：confirmed；排序日期：1983-06-09
   摘要：《三叠纪》写，1983年6月9日，李敖用十小时写成《我最难忘的一个“匪谍”》，系统回忆黄中国案与狱中相处。
@@ -11463,6 +11515,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/007.我是天安门/002.“谢谢你，帝国主义！”.txt
   数据：data/timeline-events-woshi-tiananmen.json#woshi-tiananmen-1983-09-29-thanks-imperialism-column
+- 1983年10月17日清晨一点到五点三刻 | 李敖写《肚皮里的言论自由》
+  精度：day；可靠度：confirmed；排序日期：1983-10-17
+  摘要：《肚皮里的言论自由》文末署“1983年10月17日清晨一点到五点三刻”。李敖借孙陵与《大风雪》禁解经过，继续追打国民党所谓出版处分“有救济途径”的说法。
+  人物：李敖、孙陵
+  地点：台湾
+  标签：为自由招魂、言论自由、禁书、1983
+  视图：写作线、思想线、出版线
+  作品：为自由招魂、肚皮里的言论自由
+  交叉引用：-
+  来源：为自由招魂 / 019.肚皮里的言论自由 / line 633
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/019.肚皮里的言论自由.txt
+  数据：data/timeline-events-freedom-summoning.json#freedom-summoning-1983-10-17-writes-freedom-of-speech-in-the-belly
 - 1983年10月29日 | 《钞票·肚皮·尿》在标示出书日前即遭提前查禁
   精度：day；可靠度：confirmed；排序日期：1983-10-29
   摘要：同一清单列，《千秋评论26：钞票·肚皮·尿》标示出书日为1983年10月30日，但查禁日却是1983年10月29日。对年表而言，这条不是补题名，而是补出李敖刊物在发行前一天便遭预先封杀的异常行政节奏。
@@ -11515,6 +11580,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/008.最后的九日.txt
   数据：data/timeline-events.json#1983-11-24-last-nine-days-written
+- 1983年12月12日 | 李敖写《政治迫害音乐的讨论》
+  精度：day；可靠度：confirmed；排序日期：1983-12-12
+  摘要：《政治迫害音乐的讨论》文末署“1983年12月12日”。李敖借江文也之死与黄怡文章，讨论政治如何长期压迫音乐与艺术生命。
+  人物：李敖、江文也、黄怡
+  地点：台湾
+  标签：为自由招魂、江文也、音乐、1983
+  视图：写作线、思想线、文化线
+  作品：为自由招魂、政治迫害音乐的讨论
+  交叉引用：-
+  来源：为自由招魂 / 020.政治迫害音乐的讨论 / line 123
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/020.政治迫害音乐的讨论.txt
+  数据：data/timeline-events-freedom-summoning.json#freedom-summoning-1983-12-12-writes-political-persecution-of-music
 - 1983年12月20日 | 《大使·老鼠·怕》在标示出书日前十日即遭提前查禁
   精度：day；可靠度：confirmed；排序日期：1983-12-20
   摘要：《李敖著作查禁清单及官方理由》列，《千秋评论27：大使·老鼠·怕》标示出书日为1983年12月30日，但查禁日已在1983年12月20日。与前两条连看，可以看出李敖刊物在1983年已不只是出版后被扣押，而是屡次在预定出书日前就先遭行政堵截。
@@ -12169,6 +12247,32 @@
   数据：data/timeline-events-fourth-book-deepening.json#book4-deep-1984-about-meets-wang-xiaotun-renai-road
 
 1985
+- 1985年1月17日 | 李敖写《为什么涨价？》
+  精度：day；可靠度：confirmed；排序日期：1985-01-17
+  摘要：《为什么涨价？》文末署“1985年1月17日”。李敖从党外周刊与《千秋评论》《万岁评论》被查禁、被预抢的现实，说明涨价背后的出版生存压力。
+  人物：李敖
+  地点：台湾
+  标签：为自由招魂、千秋评论、查禁、1985
+  视图：写作线、出版线、政治线
+  作品：为自由招魂、为什么涨价？、千秋评论、万岁评论
+  交叉引用：-
+  来源：为自由招魂 / 021.为什么涨价？ / line 25
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/021.为什么涨价？.txt
+  数据：data/timeline-events-freedom-summoning.json#freedom-summoning-1985-01-17-writes-why-price-increase
+- 1985年1月19日晨 | 李敖写《读警总秘密会议纪录》
+  精度：day；可靠度：confirmed；排序日期：1985-01-19
+  摘要：《读警总秘密会议纪录》文末署“1985年1月19日晨”。李敖据秘密流出的警总会议纪录，揭出文化审检、查扣与“依法追诉”的整套钳制言论机制。
+  人物：李敖
+  地点：台湾
+  标签：为自由招魂、警总、审检、1985
+  视图：写作线、政治线、出版线
+  作品：为自由招魂、读警总秘密会议纪录
+  交叉引用：-
+  来源：为自由招魂 / 015.读警总秘密会议纪录 / line 115
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/015.读警总秘密会议纪录.txt
+  数据：data/timeline-events-freedom-summoning.json#freedom-summoning-1985-01-19-writes-reading-secret-police-meeting-record
 - 1985年3月23日 | 郑南榕把“小董”密件转交李敖
   精度：day；可靠度：confirmed；排序日期：1985-03-23
   摘要：李敖回忆，1985年3月23日一位自称“许先生”的人把江南命案在逃者“小董”留下的密件交给郑南榕，再由郑南榕亲自送到李敖家中。
@@ -12260,6 +12364,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/004.怀严侨.txt
   数据：data/timeline-events-first-book-supplement.json#1985-04-18-write-poems-for-yan
+- 1985年4月18日晨 | 李敖写《〈叶明勋密件〉书后》
+  精度：day；可靠度：confirmed；排序日期：1985-04-18
+  摘要：《〈叶明勋密件〉书后》文末署“1985年4月18日晨”。李敖借叶明勋密件与《自立晚报》往事，继续揭示国民党如何伸手控制报纸与编辑政策。
+  人物：李敖、叶明勋、李玉阶
+  地点：台湾
+  标签：为自由招魂、叶明勋、自立晚报、1985
+  视图：写作线、出版线、政治线
+  作品：为自由招魂、《叶明勋密件》书后、自立晚报
+  交叉引用：-
+  来源：为自由招魂 / 022.《叶明勋密件》书后 / line 79
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/022.《叶明勋密件》书后.txt
+  数据：data/timeline-events-freedom-summoning.json#freedom-summoning-1985-04-18-writes-postscript-ye-mingxun-secret-document
 - 1985年4月24日五十岁生日前夜 | 李敖在五十岁生日前夜留下关于身体谣言的答问
   精度：day；可靠度：inferred；排序日期：1985-04-24
   摘要：《宣淫纪》写，因长年坐牢与树敌，有人对李敖身体能力加以诽谤；李敖在五十岁生日前夜留下答问，正面回应阳痿、同性凝视、狱中身体经验等问题。
