@@ -9,22 +9,22 @@
 ### 当前总状态
 
 - 项目路径：`/home/aihuashanying/leeao-life`
-- 当前总事件数：`1633`
+- 当前总事件数：`1661`
 - 当前全库校验：
 
 ```json
 {
-  "events": 1633,
+  "events": 1661,
   "dups": 0,
   "missingRefs": 0,
   "structuralBad": 0
 }
 ```
 
-- 纯文本总表表头当前应为：`事件总数：1633`
+- 纯文本总表表头当前应为：`事件总数：1661`
 - 当前前端版本号：
-  - `app.js` 的 `dataVersion`：`2026-04-25-freedom-summoning-round-02`
-  - `index.html` 的 CSS / JS query param：`2026-04-25-freedom-summoning-round-02`
+  - `app.js` 的 `dataVersion`：`2026-04-27-freedom-summoning-round-06-closeout`
+  - `index.html` 的 CSS / JS query param：`2026-04-27-freedom-summoning-round-06-closeout`
 
 ### 用户硬规则
 
@@ -57,15 +57,19 @@ iconv -f GB18030 -t UTF-8 "<章节路径>" | nl -ba
 
 ### 当前最自然的工作起点
 
-当前主线已经从《求是新语》closeout、再到《我是天安门》closeout、《你是景福门》第五轮 closeout，继续推进到 **《为自由招魂》第二轮**：
+当前主线已经从《求是新语》closeout、再到《我是天安门》closeout、《你是景福门》第五轮 closeout，最后推进并收束到 **《为自由招魂》第六轮 closeout**：
 
-- 当前 `data/timeline-events-freedom-summoning.json`：**25 条**
+- 当前 `data/timeline-events-freedom-summoning.json`：**53 条**
 - 第一轮已收章节：`001 / 002 / 003 / 004 / 005 / 007 / 008 / 009 / 010 / 011 / 012 / 013`
 - 第二轮已收章节：`014 / 015 / 016 / 017 / 018 / 019 / 020 / 021 / 022`
 - 第一轮口径：先收李敖直接当事的写作、投稿说明、禁刊记录、回信婉拒演讲、公开发表与后记事件；纯背景、旁人法律材料、机构判决和跨书疑似重复宽日期材料暂缓。
-- 第二轮坐实的口径：`014-022` 新增 9 条，全部是文末明确署日的写作事件；`014 / 015 / 019 / 020 / 022` 里的 dense documentary/legal/source-material 章节继续保持保守，不把法令、会议纪录、人物履历、旧案日期和旁人材料硬扩成李敖事件。
-- 暂缓重点：`006.流血的自由` 疑似与 `data/timeline-events-wencun-two.json` 既有条目相近且只有宽日期，继续暂缓；`013.月亮属于谁的？` 中法律/信件/判决日期仍先不扩成李敖事件；`014-022` 相关材料链后续只适合在跨书互校或 keep-out 池复核时谨慎升级。
-- 因此，**《为自由招魂》001-022 已完成目录级首轮覆盖；下一位 agent 不必再按章号推进这本，可转向下一本书，或只做 keep-out 池复核、跨书互校与交叉引用小修。**
+- 第二轮坐实的口径：`014-022` 新增 9 条，全部是文末明确署日的写作事件；但这只是目录级覆盖，不等于内容挖完。
+- 第三轮坐实的口径：回应“只做目录级覆盖、没有挖正文李敖当事事件和模糊项”的问题，回到 `006 / 013 / 014 / 015 / 019 / 020 / 021 / 022` 正文层补入 24 条。新增包括：1967 年写/1981 年改写《流血的自由》、主编《文星杂志选集》、1982年5月14日胜诉、1976年冬出狱后被查户口并抗议且保留签章表、取得警总秘密会议纪录、孙陵通信与《文星》发表链、请黄怡给《千秋评论》写江文也、《千秋评论》涨价/预查禁、取得叶明勋密件和李子弋邀稿被截留。
+- 第四轮坐实的口径：先按用户要求清理重复，把 `freedom-summoning-1967-writes-bleeding-freedom` 删除并并入 `wencun-two-1967-crackdown-writers-no-blood-freedom` 的补充来源；同时补强萧孟能案、户警合一链、警总纪录链、千秋评论预查禁链、叶明勋密件链的 `crossReferences`，再继续复核 `001-012`，新增“十八年后发表《文警论》及相关历史文献”“把《张宗昌，我梦到了你！》收入《李敖千秋评论丛书》”以及约1968年形成‘开玩笑的自由’判断三条正文层事件。
+- 第五轮坐实的口径：继续复核 `013-022`，但不误把孙陵呈文、谢然之来信等旁人动作扩成李敖事件；只新增李敖1966年写《一个最起码又最低调的标准》这一条高置信旧文锚点，并补强《文星杂志选集第三册》↔主编选集、《万岁评论》↔《为什么涨价？》、《千秋评论28》↔1985 预查禁链、警总纪录取得↔写作等 crossReferences。
+- 第六轮 closeout 坐实的口径：根据最终复核与 Oracle 审查，再补入 1965年8月4日李敖回信孙陵、明确催生《〈大风雪〉还要再查禁吗？》续稿这一条唯一剩余高置信漏项；同时正式确认 `019` 其余日期多属孙陵申诉或机关函复、`020` 黄怡看稿/改稿语句并入既有条目，不再细拆新事件。
+- 暂缓重点：`014 / 015 / 019 / 020 / 022` 里的 dense documentary/legal/source-material 仍需保守，不把法令、会议纪录、人物履历、音乐史背景和旁人材料硬扩成李敖事件；但只要李敖有写、收、发、主编、保存、被查禁/被阻断、诉讼当事等动作，就应继续考虑入表。
+- 因此，**《为自由招魂》现已完成第六轮 closeout。下一位 agent 默认不再按章号深挖这本，只做跨书互校、交叉引用加固，或在别书发现更强锚点时顺手回补。**
 
 上一条主线 **《你是景福门》第五轮 closeout** 已完成：
 
@@ -245,8 +249,8 @@ data/timeline-events-shilun-xinyu.json                 72
 data/timeline-events-qiushi-xinyu.json                 70
 data/timeline-events-woshi-tiananmen.json              40
 data/timeline-events-jingfumen.json                    57
-data/timeline-events-freedom-summoning.json            25
-总计                                                  1633
+data/timeline-events-freedom-summoning.json            53
+总计                                                  1661
 ```
 
 ### 工作目录与基本命令
@@ -2118,11 +2122,11 @@ node tools/export-timeline-text.mjs
 
 ```json
 {
-  "events": 1624,
+  "events": 1661,
   "qiushi": 70,
   "woshi": 40,
   "jingfumen": 57,
-  "freedom": 16,
+  "freedom": 53,
   "dups": 0,
   "missingRefs": 0,
   "freedomStructuralBad": 0
@@ -2131,9 +2135,9 @@ node tools/export-timeline-text.mjs
 
 ## 建议下一步
 
-当前最自然的下一步已经是：**继续《为自由招魂》第二轮，处理 014-022，并对密集 documentary/legal/source-material 章节保持保守。**
+当前最自然的下一步已经不再是继续深挖《为自由招魂》，而是转回其他书、全局一致性校对，或跨书重复链清理。
 
-因此接手后默认路线**不是回头深挖《求是新语》《我是天安门》或继续按章号推进《你是景福门》**，而是把这些已收束书作为参考线，把《为自由招魂》当主线继续推进。
+因此接手后默认路线**不是回头深挖《求是新语》《我是天安门》、继续按章号推进《你是景福门》，也不是继续按章号推进《为自由招魂》**，而是把这些已收束书作为参考线，转向别书或全局一致性工作。
 
 默认建议路线改为：
 

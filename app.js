@@ -54,7 +54,7 @@ const dataFiles = [
   "./data/timeline-events-jingfumen.json",
   "./data/timeline-events-freedom-summoning.json"
 ];
-const dataVersion = "2026-04-25-freedom-summoning-round-02";
+const dataVersion = "2026-04-27-freedom-summoning-round-06-closeout";
 
 const dateFormatter = new Intl.DateTimeFormat("zh-Hant", {
   year: "numeric",

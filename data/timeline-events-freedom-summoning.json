@@ -52,6 +52,7 @@
     "places": ["台湾"],
     "works": ["为自由招魂", "文警论"],
     "certainty": "confirmed",
+    "crossReferences": ["freedom-summoning-1983-after-eighteen-years-publishes-wen-jing-historical-documents"],
     "source": {
       "book": "为自由招魂",
       "chapter": "002.文警论及附件",
@@ -72,6 +73,7 @@
     "places": ["台湾"],
     "works": ["为自由招魂", "文警论"],
     "certainty": "confirmed",
+    "crossReferences": ["freedom-summoning-1983-after-eighteen-years-publishes-wen-jing-historical-documents"],
     "source": {
       "book": "为自由招魂",
       "chapter": "002.文警论及附件",
@@ -105,13 +107,14 @@
     "displayDate": "1984年1月4日",
     "datePrecision": "day",
     "title": "李敖为《张宗昌，我梦到了你！》写后记",
-    "summary": "《张宗昌，我梦到了你！》后记署“一九八四年一月四日”。李敖在后记中回看旧作处境，并继续把它放入自由与禁忌的脉络。",
+    "summary": "《张宗昌，我梦到了你！》后记署“一九八四年一月四日”。李敖在后记中回看旧作当年未能在台湾发表的处境，并说明十九年后已把它收入《李敖千秋评论丛书》，继续把它放入自由与禁忌的脉络。",
     "view": ["写作线", "出版线", "思想线"],
     "tags": ["为自由招魂", "后记", "张宗昌", "1984"],
     "people": ["李敖", "张宗昌"],
     "places": ["台湾"],
     "works": ["为自由招魂", "张宗昌，我梦到了你！"],
     "certainty": "confirmed",
+    "crossReferences": ["freedom-summoning-1984-01-04-publishes-dreamed-zhang-zongchang-in-qianqiu-series"],
     "source": {
       "book": "为自由招魂",
       "chapter": "003.张宗昌，我梦到了你！",
@@ -125,13 +128,14 @@
     "displayDate": "1979年11月18日",
     "datePrecision": "day",
     "title": "李敖写《开玩笑的自由》",
-    "summary": "《开玩笑的自由》文末署“一九七九年十一月十八日”。李敖以开玩笑为切口，谈自由尺度与政治社会气氛。",
+    "summary": "《开玩笑的自由》文末署“一九七九年十一月十八日”。李敖以开玩笑为切口，谈自由尺度与政治社会气氛，并把自己十一年前读到美国讽刺约翰逊总统著作时形成的民主判断写进正文。",
     "view": ["写作线", "思想线", "政治线"],
     "tags": ["为自由招魂", "开玩笑的自由", "言论自由", "1979"],
     "people": ["李敖"],
     "places": ["台湾"],
     "works": ["为自由招魂", "开玩笑的自由"],
     "certainty": "confirmed",
+    "crossReferences": ["freedom-summoning-1968-forms-joking-freedom-view-from-lyndon-johnson-satire-book"],
     "source": {
       "book": "为自由招魂",
       "chapter": "004.开玩笑的自由",
@@ -352,6 +356,7 @@
     "places": ["台湾"],
     "works": ["为自由招魂", "读警总秘密会议纪录"],
     "certainty": "confirmed",
+    "crossReferences": ["freedom-summoning-1985-before-jan-19-gets-secret-police-record"],
     "source": {
       "book": "为自由招魂",
       "chapter": "015.读警总秘密会议纪录",
@@ -365,13 +370,14 @@
     "displayDate": "1983年2月6日",
     "datePrecision": "day",
     "title": "李敖写《秘雕案的案外意义》",
-    "summary": "《秘雕案的案外意义》文末署“1983年2月6日”。李敖借“秘雕案”主张争自由要先抢到言论与埋怨的自由，把它放在其他自由之前来谈。",
+    "summary": "《秘雕案的案外意义》文末署“1983年2月6日”。李敖借“秘雕案”主张争自由要先抢到言论与埋怨的自由，把它放在其他自由之前来谈，并回引自己1966年写《一个最起码又最低调的标准》时对新闻自由最低要求的主张。",
     "view": ["写作线", "思想线", "政治线"],
     "tags": ["为自由招魂", "秘雕案", "言论自由", "1983"],
     "people": ["李敖"],
     "places": ["台湾"],
     "works": ["为自由招魂", "秘雕案的案外意义"],
     "certainty": "confirmed",
+    "crossReferences": ["freedom-summoning-1966-writes-minimum-and-low-key-standard-for-press-freedom"],
     "source": {
       "book": "为自由招魂",
       "chapter": "016.秘雕案的案外意义",
@@ -452,6 +458,7 @@
     "places": ["台湾"],
     "works": ["为自由招魂", "政治迫害音乐的讨论"],
     "certainty": "confirmed",
+    "crossReferences": ["freedom-summoning-1983-before-dec-12-asks-huang-yi-to-write-jiang-wenye"],
     "source": {
       "book": "为自由招魂",
       "chapter": "020.政治迫害音乐的讨论",
@@ -472,6 +479,12 @@
     "places": ["台湾"],
     "works": ["为自由招魂", "为什么涨价？", "千秋评论", "万岁评论"],
     "certainty": "confirmed",
+    "crossReferences": [
+      "book8-1981-starts-li-ao-qianqiu-commentary-series",
+      "book4-1984-01-wansui-review-starts",
+      "freedom-summoning-1985-01-qiangqiu-wansui-raise-price-under-censorship",
+      "freedom-summoning-1985-01-26-qianqiu-39-banned-before-release"
+    ],
     "source": {
       "book": "为自由招魂",
       "chapter": "021.为什么涨价？",
@@ -492,11 +505,639 @@
     "places": ["台湾"],
     "works": ["为自由招魂", "《叶明勋密件》书后", "自立晚报"],
     "certainty": "confirmed",
+    "crossReferences": ["freedom-summoning-1985-before-apr-18-gets-ye-mingxun-secret-document"],
     "source": {
       "book": "为自由招魂",
       "chapter": "022.《叶明勋密件》书后",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/022.《叶明勋密件》书后.txt",
       "line": 79
+    }
+  },
+  {
+    "id": "freedom-summoning-1981-rewrites-bleeding-freedom-before-reimprisonment",
+    "date": "1981-12-31",
+    "displayDate": "1981年，出狱后又行将入狱之时，在台北改写",
+    "datePrecision": "year-context",
+    "title": "李敖改写《流血的自由》",
+    "summary": "《流血的自由》文末说明原文在1967年写于台北，1981年李敖“出狱后又行将入狱之时”在台北改写。这一条补出同一自由论题在李敖再度入狱前的改写层。",
+    "view": ["写作线", "思想线", "司法线"],
+    "tags": ["为自由招魂", "流血的自由", "改写", "待校日", "1981"],
+    "people": ["李敖"],
+    "places": ["台北"],
+    "works": ["为自由招魂", "流血的自由"],
+    "certainty": "confirmed",
+    "crossReferences": ["wencun-two-1967-crackdown-writers-no-blood-freedom"],
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "006.流血的自由",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/006.流血的自由.txt",
+      "line": 57
+    }
+  },
+  {
+    "id": "freedom-summoning-1982-05-14-wins-xiao-mengneng-case",
+    "date": "1982-05-14",
+    "displayDate": "1982年5月14日",
+    "datePrecision": "day",
+    "title": "李敖在萧孟能案中获最高法院判胜诉",
+    "summary": "《月亮属于谁的？》称“今年5月14日”最高法院推翻高院三推事判李敖有罪的理由，判李敖胜诉；李敖并表示将要求冤狱赔偿、另告萧孟能诬告。",
+    "view": ["司法线", "出版线", "思想线"],
+    "tags": ["为自由招魂", "萧孟能", "文星", "冤狱赔偿", "1982"],
+    "people": ["李敖", "萧孟能"],
+    "places": ["台湾"],
+    "works": ["为自由招魂", "月亮属于谁的？", "文星杂志选集"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book4-1981-06-17-high-court-guilty-verdict-undercuts-license",
+      "book2-broad-1982-05-23-xiao-press-defamation-judgment",
+      "book2-broad-1982-07-20-xiao-sues-wenxing-selection",
+      "book2-broad-1982-11-30-lin-maoxiong-dismisses-xiao",
+      "book2-broad-1983-01-29-high-court-dismisses-xiao-appeal",
+      "freedom-summoning-1982-before-june-edits-wenxing-anthology"
+    ],
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "013.月亮属于谁的？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/013.月亮属于谁的？.txt",
+      "line": 23
+    }
+  },
+  {
+    "id": "freedom-summoning-1982-before-june-edits-wenxing-anthology",
+    "date": "1982-06-21",
+    "displayDate": "1982年6月21日前（据本文写作日推定）",
+    "datePrecision": "undated-context",
+    "title": "李敖应出版社之请主编《文星杂志选集》",
+    "summary": "《月亮属于谁的？》中李敖自述自己是《文星》杂志主编，对文星思想流传有责任，因此应出版社之请、不取报酬主编《文星杂志选集》。原文未给确日，暂依本文写作日挂靠。",
+    "view": ["出版线", "写作线", "思想线"],
+    "tags": ["为自由招魂", "文星", "文星杂志选集", "待校日", "1982"],
+    "people": ["李敖", "萧孟能"],
+    "places": ["台湾"],
+    "works": ["为自由招魂", "月亮属于谁的？", "文星杂志选集", "文星"],
+    "certainty": "inferred",
+    "crossReferences": [
+      "book8-1974-07-16-wenxing-selected-volume-three-banned",
+      "book2-broad-1982-07-20-xiao-sues-wenxing-selection",
+      "book2-broad-1982-11-30-lin-maoxiong-dismisses-xiao",
+      "book2-broad-1983-01-29-high-court-dismisses-xiao-appeal",
+      "freedom-summoning-1982-05-14-wins-xiao-mengneng-case"
+    ],
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "013.月亮属于谁的？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/013.月亮属于谁的？.txt",
+      "line": 21
+    }
+  },
+  {
+    "id": "freedom-summoning-1976-winter-experiences-household-police-checks",
+    "date": "1976-12-31",
+    "displayDate": "1976年冬天出狱后",
+    "datePrecision": "season",
+    "title": "李敖出狱后遭户警合一警察半月查户口",
+    "summary": "《我们梦想“野蛮之自由”》自述李敖1976年冬天出狱后，正式领教“户警合一”的厉害：警察每半个月查一次户口，在户口查察签章表上签得密密麻麻。",
+    "view": ["司法线", "生活线", "政治线"],
+    "tags": ["为自由招魂", "户警合一", "查户口", "待校日", "1976"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["为自由招魂", "我们梦想“野蛮之自由”"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "freedom-summoning-1977-protests-household-police-checks",
+      "freedom-summoning-1977-keeps-household-check-table",
+      "freedom-summoning-1983-01-17-writes-wild-freedom"
+    ],
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "014.我们梦想“野蛮之自由”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/014.我们梦想“野蛮之自由”.txt",
+      "line": 113
+    }
+  },
+  {
+    "id": "freedom-summoning-1977-protests-household-police-checks",
+    "date": "1977-12-31",
+    "displayDate": "1977年前后（据出狱后一年推定）",
+    "datePrecision": "undated-context",
+    "title": "李敖抗议户警合一警察频繁查户口",
+    "summary": "《我们梦想“野蛮之自由”》说李敖被半月查户口“亲了一年”后火了，向有关机关提出强烈抗议；有关机关打招呼后，警方才稍形收敛。",
+    "view": ["生活线", "政治线", "司法线"],
+    "tags": ["为自由招魂", "户警合一", "抗议", "待校日", "1977"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["为自由招魂", "我们梦想“野蛮之自由”"],
+    "certainty": "inferred",
+    "crossReferences": [
+      "freedom-summoning-1976-winter-experiences-household-police-checks",
+      "freedom-summoning-1977-keeps-household-check-table",
+      "freedom-summoning-1983-01-17-writes-wild-freedom"
+    ],
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "014.我们梦想“野蛮之自由”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/014.我们梦想“野蛮之自由”.txt",
+      "line": 113
+    }
+  },
+  {
+    "id": "freedom-summoning-1985-before-jan-19-gets-secret-police-record",
+    "date": "1985-01-19",
+    "displayDate": "1985年1月19日前不久",
+    "datePrecision": "undated-context",
+    "title": "李敖透过秘密管道取得警总秘密会议纪录",
+    "summary": "《读警总秘密会议纪录》开头说李敖“最近”透过秘密管道得到警备总部秘密会议纪录残本；该材料成为他揭露文化审检机制的依据。",
+    "view": ["出版线", "政治线", "证据线"],
+    "tags": ["为自由招魂", "警总", "秘密会议纪录", "待校日", "1985"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["为自由招魂", "读警总秘密会议纪录"],
+    "certainty": "inferred",
+    "crossReferences": ["freedom-summoning-1985-01-19-writes-reading-secret-police-meeting-record"],
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "015.读警总秘密会议纪录",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/015.读警总秘密会议纪录.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "freedom-summoning-1963-05-talks-with-durdin-and-bottorff",
+    "date": "1963-05-31",
+    "displayDate": "1963年5月",
+    "datePrecision": "month",
+    "title": "李敖与杜尔丁、司马笑在咖啡馆谈台湾大学教授状态",
+    "summary": "《肚皮里的言论自由》回忆1963年5月，美国《纽约时报》记者杜尔丁、美国新闻处副处长司马笑约李敖在咖啡馆谈话，杜尔丁向李敖询问台湾大学教授为何活力不够。",
+    "view": ["交游线", "思想线", "生活线"],
+    "tags": ["为自由招魂", "杜尔丁", "司马笑", "待校日", "1963"],
+    "people": ["李敖", "杜尔丁", "司马笑"],
+    "places": ["台湾"],
+    "works": ["为自由招魂", "肚皮里的言论自由"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "019.肚皮里的言论自由",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/019.肚皮里的言论自由.txt",
+      "line": 11
+    }
+  },
+  {
+    "id": "freedom-summoning-1963-01-17-sun-ling-writes-li-ao-after-meal",
+    "date": "1963-01-17",
+    "displayDate": "1963年1月17日",
+    "datePrecision": "day",
+    "title": "孙陵写信给李敖谈毛子水等人",
+    "summary": "《肚皮里的言论自由》收孙陵1963年1月17日致李敖信；此前孙陵托王尚勤约李敖到家吃饭，此信承接见面后未尽之谈。",
+    "view": ["书信线", "交游线", "思想线"],
+    "tags": ["为自由招魂", "孙陵", "书信", "1963"],
+    "people": ["李敖", "孙陵", "王尚勤"],
+    "places": ["台湾"],
+    "works": ["为自由招魂", "肚皮里的言论自由"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "019.肚皮里的言论自由",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/019.肚皮里的言论自由.txt",
+      "line": 59
+    }
+  },
+  {
+    "id": "freedom-summoning-1964-08-20-sun-ling-thanks-li-ao-for-wenyi-gongzuo",
+    "date": "1964-08-20",
+    "displayDate": "1964年8月20日",
+    "datePrecision": "day",
+    "title": "孙陵写信感谢李敖赠《文艺工作》",
+    "summary": "《肚皮里的言论自由》记李敖送孙陵一本台湾绝无仅有的抗战刊物《文艺工作》后，孙陵在1964年8月20日写信向李敖致谢，并约有暇一醉。",
+    "view": ["书信线", "交游线", "出版线"],
+    "tags": ["为自由招魂", "孙陵", "文艺工作", "书信", "1964"],
+    "people": ["李敖", "孙陵"],
+    "places": ["台湾"],
+    "works": ["为自由招魂", "肚皮里的言论自由", "文艺工作"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "019.肚皮里的言论自由",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/019.肚皮里的言论自由.txt",
+      "line": 67
+    }
+  },
+  {
+    "id": "freedom-summoning-1964-10-08-sun-ling-asks-li-ao-about-literary-journal",
+    "date": "1964-10-08",
+    "displayDate": "1964年10月8日",
+    "datePrecision": "day",
+    "title": "孙陵连写两信与李敖谈办文艺刊物",
+    "summary": "《肚皮里的言论自由》记孙陵与李敖谈话后“有了新生气”，1964年10月8日一日之内连来两封信，想拉李敖一起办文艺刊物。",
+    "view": ["书信线", "交游线", "出版线"],
+    "tags": ["为自由招魂", "孙陵", "文艺刊物", "书信", "1964"],
+    "people": ["李敖", "孙陵"],
+    "places": ["台湾"],
+    "works": ["为自由招魂", "肚皮里的言论自由"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "019.肚皮里的言论自由",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/019.肚皮里的言论自由.txt",
+      "line": 83
+    }
+  },
+  {
+    "id": "freedom-summoning-1965-04-29-li-ao-writes-sun-ling-about-dafengxue",
+    "date": "1965-04-29",
+    "displayDate": "1965年4月29日",
+    "datePrecision": "day",
+    "title": "李敖写信鼓励孙陵重推《大风雪》",
+    "summary": "《肚皮里的言论自由》收李敖1965年4月29日致孙陵信，祝贺《大风雪》解禁后重见书摊，并称其解禁史料是中国禁书史上的好材料。",
+    "view": ["书信线", "交游线", "出版线"],
+    "tags": ["为自由招魂", "孙陵", "大风雪", "禁书", "书信", "1965"],
+    "people": ["李敖", "孙陵"],
+    "places": ["台湾"],
+    "works": ["为自由招魂", "肚皮里的言论自由", "大风雪"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "019.肚皮里的言论自由",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/019.肚皮里的言论自由.txt",
+      "line": 103
+    }
+  },
+  {
+    "id": "freedom-summoning-1965-05-13-li-ao-suggests-exposing-censorship",
+    "date": "1965-05-13",
+    "displayDate": "1965年5月13日",
+    "datePrecision": "day",
+    "title": "李敖写信建议孙陵揭出查禁机关内幕",
+    "summary": "《肚皮里的言论自由》记孙陵谈查禁机关把“爱新觉罗氏”当“俄帝字汇”后，李敖在1965年5月13日去信，建议孙陵把查禁机关内幕抖出来，由《文星》发表以存一代信史。",
+    "view": ["书信线", "出版线", "政治线"],
+    "tags": ["为自由招魂", "孙陵", "文星", "禁书", "书信", "1965"],
+    "people": ["李敖", "孙陵"],
+    "places": ["台湾"],
+    "works": ["为自由招魂", "肚皮里的言论自由", "文星", "大风雪"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "019.肚皮里的言论自由",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/019.肚皮里的言论自由.txt",
+      "line": 157
+    }
+  },
+  {
+    "id": "freedom-summoning-1965-05-16-sun-ling-sends-censorship-essay-to-li-ao",
+    "date": "1965-05-16",
+    "displayDate": "1965年5月16日",
+    "datePrecision": "day",
+    "title": "孙陵写成揭露查禁机关文章并寄给李敖",
+    "summary": "《肚皮里的言论自由》记李敖建议后，孙陵在1965年5月16日写成两千七八百字文章，并附信寄给李敖，称可供《文星》补白或讨论。",
+    "view": ["书信线", "出版线", "政治线"],
+    "tags": ["为自由招魂", "孙陵", "文星", "查禁", "书信", "1965"],
+    "people": ["李敖", "孙陵"],
+    "places": ["台湾"],
+    "works": ["为自由招魂", "肚皮里的言论自由", "文星", "大风雪"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "019.肚皮里的言论自由",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/019.肚皮里的言论自由.txt",
+      "line": 173
+    }
+  },
+  {
+    "id": "freedom-summoning-1965-06-01-li-ao-publishes-sun-ling-essay-in-wenxing",
+    "date": "1965-06-01",
+    "displayDate": "1965年6月1日",
+    "datePrecision": "day",
+    "title": "李敖把孙陵禁书文章编入《文星》第九十二期",
+    "summary": "《肚皮里的言论自由》记孙陵文章到后，李敖把它配成一组炮弹，发表在《文星》第九十二期；组内还包括陆啸钊、李声庭两文，共同强打禁书问题。",
+    "view": ["出版线", "写作线", "政治线"],
+    "tags": ["为自由招魂", "孙陵", "文星", "禁书", "发表", "1965"],
+    "people": ["李敖", "孙陵", "陆啸钊", "李声庭"],
+    "places": ["台湾"],
+    "works": ["为自由招魂", "肚皮里的言论自由", "文星", "大风雪"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "019.肚皮里的言论自由",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/019.肚皮里的言论自由.txt",
+      "line": 187
+    }
+  },
+  {
+    "id": "freedom-summoning-1965-08-04-li-ao-replies-sun-ling-and-urges-sequel",
+    "date": "1965-08-04",
+    "displayDate": "1965年8月4日",
+    "datePrecision": "day",
+    "title": "李敖回信孙陵并催写《〈大风雪〉还要再查禁吗？》续稿",
+    "summary": "《肚皮里的言论自由》所收李敖1965年8月4日回信说，收到孙陵来稿后觉得可以继续推进，决定再写一篇，拟出十个小题目并要求围绕《大风雪》与查禁问题扩写，明确推动后续文章成形。",
+    "view": ["书信线", "写作线", "政治线"],
+    "tags": ["为自由招魂", "孙陵", "文星", "大风雪", "书信", "查禁", "1965"],
+    "people": ["李敖", "孙陵"],
+    "places": ["台湾"],
+    "works": ["为自由招魂", "肚皮里的言论自由", "大风雪", "〈大风雪〉还要再查禁吗？"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "freedom-summoning-1965-05-16-sun-ling-sends-censorship-essay-to-li-ao",
+      "freedom-summoning-1965-06-01-li-ao-publishes-sun-ling-essay-in-wenxing",
+      "freedom-summoning-1965-08-13-li-ao-keeps-sun-ling-second-essay"
+    ],
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "019.肚皮里的言论自由",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/019.肚皮里的言论自由.txt",
+      "line": 263
+    }
+  },
+  {
+    "id": "freedom-summoning-1965-08-13-li-ao-keeps-sun-ling-second-essay",
+    "date": "1965-08-13",
+    "displayDate": "1965年8月13日",
+    "datePrecision": "day",
+    "title": "孙陵第二篇掀底文章送到《文星》并封在李敖手里",
+    "summary": "《肚皮里的言论自由》记孙陵在1965年8月13日完成《〈大风雪〉还要再查禁吗？》并送到《文星》；李敖说这篇文章后来封在他手里十八年。",
+    "view": ["出版线", "交游线", "政治线"],
+    "tags": ["为自由招魂", "孙陵", "文星", "大风雪", "待校日", "1965"],
+    "people": ["李敖", "孙陵"],
+    "places": ["台湾"],
+    "works": ["为自由招魂", "肚皮里的言论自由", "大风雪"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "019.肚皮里的言论自由",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/019.肚皮里的言论自由.txt",
+      "line": 277
+    }
+  },
+  {
+    "id": "freedom-summoning-1985-01-qiangqiu-wansui-raise-price-under-censorship",
+    "date": "1985-01-31",
+    "displayDate": "1985年1月起",
+    "datePrecision": "month",
+    "title": "《千秋评论》《万岁评论》因查禁严重调整售价",
+    "summary": "《为什么涨价？》开头说本月起党外周刊联合启事调整售价，李敖说明《千秋评论》《万岁评论》处境相同，在查禁严重、成本增加下也要涨价。",
+    "view": ["出版线", "政治线", "生活线"],
+    "tags": ["为自由招魂", "千秋评论", "万岁评论", "涨价", "待校日", "1985"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["为自由招魂", "为什么涨价？", "千秋评论", "万岁评论"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book8-1981-starts-li-ao-qianqiu-commentary-series",
+      "book4-1984-01-wansui-review-starts",
+      "book8-1983-05-24-chiu-review-22-banned-before-publication",
+      "book8-1983-10-29-chiu-review-26-banned-before-publication",
+      "book8-1983-12-20-chiu-review-27-banned-before-publication",
+      "book8-1984-01-08-chiu-review-28-banned-before-publication",
+      "freedom-summoning-1985-01-26-qianqiu-39-banned-before-release"
+    ],
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "021.为什么涨价？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/021.为什么涨价？.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "freedom-summoning-1985-01-26-qianqiu-39-banned-before-release",
+    "date": "1985-01-26",
+    "displayDate": "1985年1月26日",
+    "datePrecision": "day",
+    "title": "《千秋评论》第三十九期未发行即出现查禁命令",
+    "summary": "《为什么涨价？》举例说《千秋评论》第三十九期1月25日出版，还没发行就有1月26日查禁命令出现；李敖以此说明警总疯狂查扣已到“预抢制”。",
+    "view": ["出版线", "政治线", "司法线"],
+    "tags": ["为自由招魂", "千秋评论", "查禁", "警总", "1985"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["为自由招魂", "为什么涨价？", "千秋评论"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book8-1981-starts-li-ao-qianqiu-commentary-series",
+      "book8-1983-05-24-chiu-review-22-banned-before-publication",
+      "book8-1983-10-29-chiu-review-26-banned-before-publication",
+      "book8-1983-12-20-chiu-review-27-banned-before-publication",
+      "book8-1984-01-08-chiu-review-28-banned-before-publication",
+      "freedom-summoning-1985-01-qiangqiu-wansui-raise-price-under-censorship"
+    ],
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "021.为什么涨价？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/021.为什么涨价？.txt",
+      "line": 17
+    }
+  },
+  {
+    "id": "freedom-summoning-1985-before-apr-18-gets-ye-mingxun-secret-document",
+    "date": "1985-04-18",
+    "displayDate": "1985年4月18日前",
+    "datePrecision": "undated-context",
+    "title": "李敖辗转取得叶明勋上国民党中央密件底本",
+    "summary": "《〈叶明勋密件〉书后》说《叶明勋密件》是李敖所下标题，事实上是一封叶明勋上国民党中央委员会的秘密呈文，底本由李敖辗转获得，并在文中公布。",
+    "view": ["证据线", "出版线", "政治线"],
+    "tags": ["为自由招魂", "叶明勋", "密件", "自立晚报", "待校日", "1985"],
+    "people": ["李敖", "叶明勋"],
+    "places": ["台湾"],
+    "works": ["为自由招魂", "《叶明勋密件》书后", "自立晚报"],
+    "certainty": "inferred",
+    "crossReferences": ["freedom-summoning-1985-04-18-writes-postscript-ye-mingxun-secret-document"],
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "022.《叶明勋密件》书后",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/022.《叶明勋密件》书后.txt",
+      "line": 13
+    }
+  },
+  {
+    "id": "freedom-summoning-1959-1965-ye-mingxun-hides-li-ziyi-invitation",
+    "date": "1965-12-31",
+    "displayDate": "叶明勋任《自立晚报》社长期间（1959-1965）",
+    "datePrecision": "year-range",
+    "title": "叶明勋秘藏李子弋请李敖写《自立晚报》专栏之事",
+    "summary": "《〈叶明勋密件〉书后》写叶明勋曾说自己做《文星》发行人碰到李敖、做《自立晚报》社长碰到李子弋；李子弋曾托叶明勋找李敖写《自立晚报》专栏，叶明勋秘藏此事，不肯转达。",
+    "view": ["出版线", "交游线", "政治线"],
+    "tags": ["为自由招魂", "叶明勋", "李子弋", "自立晚报", "待校日", "1959-1965"],
+    "people": ["李敖", "叶明勋", "李子弋"],
+    "places": ["台湾"],
+    "works": ["为自由招魂", "《叶明勋密件》书后", "自立晚报"],
+    "certainty": "inferred",
+    "crossReferences": [
+      "freedom-summoning-1985-before-apr-18-gets-ye-mingxun-secret-document",
+      "freedom-summoning-1985-04-18-writes-postscript-ye-mingxun-secret-document",
+      "thought-answer-1964-01-01-answer-to-china-thought-trend-published"
+    ],
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "022.《叶明勋密件》书后",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/022.《叶明勋密件》书后.txt",
+      "line": 75
+    }
+  },
+  {
+    "id": "freedom-summoning-1977-keeps-household-check-table",
+    "date": "1977-12-31",
+    "displayDate": "1977年前后（据出狱后查户口经历推定）",
+    "datePrecision": "undated-context",
+    "title": "李敖保留户口查察签章表作证据",
+    "summary": "《我们梦想“野蛮之自由”》说李敖在警方查户口稍形收敛、惊魂甫定后，特别把户口名簿上的户口查察签章表留作纪念，作为失去“野蛮之自由”的证据。",
+    "view": ["证据线", "生活线", "政治线"],
+    "tags": ["为自由招魂", "户警合一", "查户口", "证据", "待校日", "1977"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["为自由招魂", "我们梦想“野蛮之自由”"],
+    "certainty": "inferred",
+    "crossReferences": [
+      "freedom-summoning-1976-winter-experiences-household-police-checks",
+      "freedom-summoning-1977-protests-household-police-checks",
+      "freedom-summoning-1983-01-17-writes-wild-freedom"
+    ],
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "014.我们梦想“野蛮之自由”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/014.我们梦想“野蛮之自由”.txt",
+      "line": 113
+    }
+  },
+  {
+    "id": "freedom-summoning-1983-after-eighteen-years-publishes-wen-jing-historical-documents",
+    "date": "1983-12-31",
+    "displayDate": "十八年后（据1965年原件推定约为1983年）",
+    "datePrecision": "undated-context",
+    "title": "李敖十八年后发表《文警论》及相关历史文献",
+    "summary": "《文警论及附件》开头写，下列三篇文字是李敖十八年前的作品，当时无法在台湾流传；十八年后，他把这些历史文献重新发表，作为回看文禁与‘文警’系统的证据链。",
+    "view": ["出版线", "证据线", "政治线"],
+    "tags": ["为自由招魂", "文警论", "历史文献", "待校日", "1983"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["为自由招魂", "文警论"],
+    "certainty": "inferred",
+    "crossReferences": [
+      "freedom-summoning-1965-09-21-letter-submits-wen-jing-lun",
+      "freedom-summoning-1965-09-24-records-wen-jing-lun-phone-pressure"
+    ],
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "002.文警论及附件",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/002.文警论及附件.txt",
+      "line": 3
+    }
+  },
+  {
+    "id": "freedom-summoning-1984-01-04-publishes-dreamed-zhang-zongchang-in-qianqiu-series",
+    "date": "1984-01-04",
+    "displayDate": "1984年1月4日前后",
+    "datePrecision": "undated-context",
+    "title": "李敖把《张宗昌，我梦到了你！》收入《李敖千秋评论丛书》",
+    "summary": "《张宗昌，我梦到了你！》后记说，这篇十九年前的旧作当时未能在台湾发表；十九年后，李敖已把它发表在《李敖千秋评论丛书》里，补出旧作回流公共空间的一层出版动作。",
+    "view": ["出版线", "写作线", "思想线"],
+    "tags": ["为自由招魂", "张宗昌", "李敖千秋评论丛书", "待校日", "1984"],
+    "people": ["李敖", "张宗昌"],
+    "places": ["台湾"],
+    "works": ["为自由招魂", "张宗昌，我梦到了你！", "李敖千秋评论丛书"],
+    "certainty": "inferred",
+    "crossReferences": ["freedom-summoning-1984-01-04-postscript-dreamed-zhang-zongchang"],
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "003.张宗昌，我梦到了你！",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/003.张宗昌，我梦到了你！.txt",
+      "line": 47
+    }
+  },
+  {
+    "id": "freedom-summoning-1968-forms-joking-freedom-view-from-lyndon-johnson-satire-book",
+    "date": "1968-12-31",
+    "displayDate": "十一年前（据1979年写作日推定约为1968年）",
+    "datePrecision": "year-context",
+    "title": "李敖因读美国讽刺约翰逊总统的书形成“开玩笑的自由”判断",
+    "summary": "《开玩笑的自由》回忆，十一年前李敖看到美国出版家把仿《毛语录》的《约翰逊“主席”语录》一路开总统玩笑；这本书使他定型出一种判断：衡量民主最单刀直入的办法，就是看有没有“开玩笑的自由”。",
+    "view": ["思想线", "阅读线", "政治线"],
+    "tags": ["为自由招魂", "开玩笑的自由", "约翰逊", "待校日", "1968"],
+    "people": ["李敖", "约翰逊"],
+    "places": ["美国", "台湾"],
+    "works": ["为自由招魂", "开玩笑的自由", "约翰逊“主席”语录"],
+    "certainty": "inferred",
+    "crossReferences": ["freedom-summoning-1979-11-18-writes-freedom-to-joke"],
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "004.开玩笑的自由",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/004.开玩笑的自由.txt",
+      "line": 47
+    }
+  },
+  {
+    "id": "freedom-summoning-1966-writes-minimum-and-low-key-standard-for-press-freedom",
+    "date": "1966-12-31",
+    "displayDate": "1966年",
+    "datePrecision": "year",
+    "title": "李敖写《一个最起码又最低调的标准》",
+    "summary": "《秘雕案的案外意义》回引李敖1966年所写《一个最起码又最低调的标准》，其中要求各报对任何侵犯人身自由与言论自由的事件，至少都应留出篇幅一致刊登，作为他后来反复申说新闻自由底线的重要旧文锚点。",
+    "view": ["写作线", "思想线", "出版线"],
+    "tags": ["为自由招魂", "新闻自由", "待校日", "1966"],
+    "people": ["李敖"],
+    "places": ["台湾"],
+    "works": ["为自由招魂", "一个最起码又最低调的标准"],
+    "certainty": "confirmed",
+    "crossReferences": ["freedom-summoning-1983-02-06-writes-meaning-beyond-secret-carving-case"],
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "016.秘雕案的案外意义",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/016.秘雕案的案外意义.txt",
+      "line": 55
+    }
+  },
+  {
+    "id": "freedom-summoning-1964-09-16-sun-ling-invites-li-ao-to-wenxing-bookstore",
+    "date": "1964-09-16",
+    "displayDate": "1964年9月16日",
+    "datePrecision": "day",
+    "title": "孙陵写信约李敖到文星书店商谈出版",
+    "summary": "《肚皮里的言论自由》收孙陵9月16日信，约李敖本星期六下午四时到文星书店，谈自费出版拙集多种并请文星经销。",
+    "view": ["书信线", "交游线", "出版线"],
+    "tags": ["为自由招魂", "孙陵", "文星书店", "书信", "1964"],
+    "people": ["李敖", "孙陵"],
+    "places": ["文星书店", "台湾"],
+    "works": ["为自由招魂", "肚皮里的言论自由", "文星书店"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "019.肚皮里的言论自由",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/019.肚皮里的言论自由.txt",
+      "line": 75
+    }
+  },
+  {
+    "id": "freedom-summoning-1965-05-01-sun-ling-replies-li-ao-about-censorship",
+    "date": "1965-05-01",
+    "displayDate": "1965年5月1日（文中叙述为5月4日收到/引出）",
+    "datePrecision": "day",
+    "title": "孙陵回信给李敖谈《大风雪》解禁与查禁机关",
+    "summary": "《肚皮里的言论自由》称5月4日孙陵回信给李敖，信末署5月1日。孙陵在信中说李敖是迄今唯一表示赞成他反抗禁书的人，并谈查禁机关把“爱新觉罗氏”当作“俄帝字汇”。",
+    "view": ["书信线", "交游线", "出版线"],
+    "tags": ["为自由招魂", "孙陵", "大风雪", "禁书", "书信", "1965"],
+    "people": ["李敖", "孙陵"],
+    "places": ["台湾"],
+    "works": ["为自由招魂", "肚皮里的言论自由", "大风雪"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "019.肚皮里的言论自由",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/019.肚皮里的言论自由.txt",
+      "line": 135
+    }
+  },
+  {
+    "id": "freedom-summoning-1983-before-dec-12-asks-huang-yi-to-write-jiang-wenye",
+    "date": "1983-12-12",
+    "displayDate": "1983年12月12日前不久",
+    "datePrecision": "undated-context",
+    "title": "李敖请黄怡给《千秋评论》写江文也文章",
+    "summary": "《政治迫害音乐的讨论》中李敖说，美国“台美基金会”人文科学奖推出江文也、杨逵、陈锦芳、李敖四人后，他请黄怡给《千秋评论》写一点江文也的事情，黄怡很快写成。",
+    "view": ["出版线", "交游线", "文化线"],
+    "tags": ["为自由招魂", "黄怡", "江文也", "千秋评论", "待校日", "1983"],
+    "people": ["李敖", "黄怡", "江文也"],
+    "places": ["台湾"],
+    "works": ["为自由招魂", "政治迫害音乐的讨论", "千秋评论"],
+    "certainty": "inferred",
+    "source": {
+      "book": "为自由招魂",
+      "chapter": "020.政治迫害音乐的讨论",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/020.政治迫害音乐的讨论.txt",
+      "line": 97
     }
   }
 ]

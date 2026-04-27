@@ -699,6 +699,7 @@
     "places": ["台湾"],
     "works": ["万岁评论", "李敖回忆录"],
     "certainty": "confirmed",
+    "crossReferences": ["freedom-summoning-1985-01-17-writes-why-price-increase", "freedom-summoning-1985-01-qiangqiu-wansui-raise-price-under-censorship"],
     "source": {
       "book": "李敖回忆录",
       "chapter": "018.笔伐（1982-1992·47到57岁）",

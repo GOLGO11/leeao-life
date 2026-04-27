@@ -1,9 +1,9 @@
 李敖交互式年表：当前增量纯文本备份
-生成日期：2026-04-25
-事件总数：1633
+生成日期：2026-04-27
+事件总数：1661
 数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json
 说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。
-日期精度统计：day=1332；year=84；year-range=6；undated-range=1；undated-context=113；season=22；lunar-day=1；year-after=7；month=40；half-year=2；day-range=12；month-after=2；day-after=4；year-context=1；year-about=5；year-end=1
+日期精度统计：day=1345；year=85；year-range=7；undated-range=1；undated-context=121；season=23；lunar-day=1；year-after=7；month=42；half-year=2；day-range=12；month-after=2；day-after=4；year-context=3；year-about=5；year-end=1
 
 
 1935
@@ -3909,6 +3909,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/007.我最难忘的一个官僚同学.txt
   数据：data/timeline-events-third-book.json#book3-1963-01-09-shi-heidelberg-letter
+- 1963年1月17日 | 孙陵写信给李敖谈毛子水等人
+  精度：day；可靠度：confirmed；排序日期：1963-01-17
+  摘要：《肚皮里的言论自由》收孙陵1963年1月17日致李敖信；此前孙陵托王尚勤约李敖到家吃饭，此信承接见面后未尽之谈。
+  人物：李敖、孙陵、王尚勤
+  地点：台湾
+  标签：为自由招魂、孙陵、书信、1963
+  视图：书信线、交游线、思想线
+  作品：为自由招魂、肚皮里的言论自由
+  交叉引用：-
+  来源：为自由招魂 / 019.肚皮里的言论自由 / line 59
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/019.肚皮里的言论自由.txt
+  数据：data/timeline-events-freedom-summoning.json#freedom-summoning-1963-01-17-sun-ling-writes-li-ao-after-meal
 - 1963年3月8日 | 省议会促立法院废弃《医师法》第三条第三款，《联合报》报道李敖所争论题
   精度：day；可靠度：confirmed；排序日期：1963-03-08
   摘要：《修改〈医师法〉与废止中医》后记补录1963年3月8日台北《联合报》消息，记省议会第六次临时大会通过动议，请立法院审议修正《医师法》时废弃第三条第三款。它把李敖围绕医师法与中医资格问题的论战，推进到可见的公共回响层。
@@ -4364,6 +4377,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1963-01-playboy-judi-motercy-centerfold-becomes-longterm-image
+- 1963年5月 | 李敖与杜尔丁、司马笑在咖啡馆谈台湾大学教授状态
+  精度：month；可靠度：confirmed；排序日期：1963-05-31
+  摘要：《肚皮里的言论自由》回忆1963年5月，美国《纽约时报》记者杜尔丁、美国新闻处副处长司马笑约李敖在咖啡馆谈话，杜尔丁向李敖询问台湾大学教授为何活力不够。
+  人物：李敖、杜尔丁、司马笑
+  地点：台湾
+  标签：为自由招魂、杜尔丁、司马笑、待校日、1963
+  视图：交游线、思想线、生活线
+  作品：为自由招魂、肚皮里的言论自由
+  交叉引用：-
+  来源：为自由招魂 / 019.肚皮里的言论自由 / line 11
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/019.肚皮里的言论自由.txt
+  数据：data/timeline-events-freedom-summoning.json#freedom-summoning-1963-05-talks-with-durdin-and-bottorff
 - 1963年5月 | 梁实秋秘密推荐李敖到中研院史语所
   精度：month；可靠度：confirmed；排序日期：1963-05-31
   摘要：《根株纪》据《王世杰日记》回顾，1963年5月梁实秋曾推荐李敖到中央研究院史语所，但王世杰、李济拒绝收纳。
@@ -4665,6 +4691,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/001.教育与脸谱/004.关于高等教育怪现状的讨论.txt
   数据：data/timeline-events-education-and-faces.json#education-faces-1964-08-19-completes-discussion-of-higher-education-phenomena
+- 1964年8月20日 | 孙陵写信感谢李敖赠《文艺工作》
+  精度：day；可靠度：confirmed；排序日期：1964-08-20
+  摘要：《肚皮里的言论自由》记李敖送孙陵一本台湾绝无仅有的抗战刊物《文艺工作》后，孙陵在1964年8月20日写信向李敖致谢，并约有暇一醉。
+  人物：李敖、孙陵
+  地点：台湾
+  标签：为自由招魂、孙陵、文艺工作、书信、1964
+  视图：书信线、交游线、出版线
+  作品：为自由招魂、肚皮里的言论自由、文艺工作
+  交叉引用：-
+  来源：为自由招魂 / 019.肚皮里的言论自由 / line 67
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/019.肚皮里的言论自由.txt
+  数据：data/timeline-events-freedom-summoning.json#freedom-summoning-1964-08-20-sun-ling-thanks-li-ao-for-wenyi-gongzuo
 - 1964年8月20日 | 李敖写《高等教育问题》附录长文
   精度：day；可靠度：confirmed；排序日期：1964-08-20
   摘要：《高等教育问题》所收附录长文署1964年8月20日，围绕辅仁大学文学院的人事与制度乱象展开系统揭发。
@@ -4782,6 +4821,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1964-09-09-letter-to-h-typhoon-phone-and-loneliness
+- 1964年9月16日 | 孙陵写信约李敖到文星书店商谈出版
+  精度：day；可靠度：confirmed；排序日期：1964-09-16
+  摘要：《肚皮里的言论自由》收孙陵9月16日信，约李敖本星期六下午四时到文星书店，谈自费出版拙集多种并请文星经销。
+  人物：李敖、孙陵
+  地点：文星书店、台湾
+  标签：为自由招魂、孙陵、文星书店、书信、1964
+  视图：书信线、交游线、出版线
+  作品：为自由招魂、肚皮里的言论自由、文星书店
+  交叉引用：-
+  来源：为自由招魂 / 019.肚皮里的言论自由 / line 75
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/019.肚皮里的言论自由.txt
+  数据：data/timeline-events-freedom-summoning.json#freedom-summoning-1964-09-16-sun-ling-invites-li-ao-to-wenxing-bookstore
 - 1964年9月22日 | 女儿李文在纽约出生
   精度：day；可靠度：confirmed；排序日期：1964-09-22
   摘要：李敖在《坐牢家爸爸给女儿的八十封信》自序中写，独生女李文于1964年9月22日生在美国纽约，使他“阴错阳差”成为美国人的父亲。
@@ -4847,6 +4899,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/008.星火纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1964-10-03-li-huan-lunch
+- 1964年10月8日 | 孙陵连写两信与李敖谈办文艺刊物
+  精度：day；可靠度：confirmed；排序日期：1964-10-08
+  摘要：《肚皮里的言论自由》记孙陵与李敖谈话后“有了新生气”，1964年10月8日一日之内连来两封信，想拉李敖一起办文艺刊物。
+  人物：李敖、孙陵
+  地点：台湾
+  标签：为自由招魂、孙陵、文艺刊物、书信、1964
+  视图：书信线、交游线、出版线
+  作品：为自由招魂、肚皮里的言论自由
+  交叉引用：-
+  来源：为自由招魂 / 019.肚皮里的言论自由 / line 83
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/019.肚皮里的言论自由.txt
+  数据：data/timeline-events-freedom-summoning.json#freedom-summoning-1964-10-08-sun-ling-asks-li-ao-about-literary-journal
 - 1964年12月1日 | 《文星》刊出《私生子与罗光》编辑室报告
   精度：day；可靠度：confirmed；排序日期：1964-12-01
   摘要：《私生子与罗光》以1964年12月1日《文星》第八十六期编辑室报告为锚点，批评罗光一稿两投与宗教争论中的失范。
@@ -5070,6 +5135,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/005.李敖文存二集/009.过早的答案.txt
   数据：data/timeline-events-wencun-two.json#wencun-two-1965-04-21-letter-to-liu-jimin
+- 1965年4月29日 | 李敖写信鼓励孙陵重推《大风雪》
+  精度：day；可靠度：confirmed；排序日期：1965-04-29
+  摘要：《肚皮里的言论自由》收李敖1965年4月29日致孙陵信，祝贺《大风雪》解禁后重见书摊，并称其解禁史料是中国禁书史上的好材料。
+  人物：李敖、孙陵
+  地点：台湾
+  标签：为自由招魂、孙陵、大风雪、禁书、书信、1965
+  视图：书信线、交游线、出版线
+  作品：为自由招魂、肚皮里的言论自由、大风雪
+  交叉引用：-
+  来源：为自由招魂 / 019.肚皮里的言论自由 / line 103
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/019.肚皮里的言论自由.txt
+  数据：data/timeline-events-freedom-summoning.json#freedom-summoning-1965-04-29-li-ao-writes-sun-ling-about-dafengxue
+- 1965年5月1日（文中叙述为5月4日收到/引出） | 孙陵回信给李敖谈《大风雪》解禁与查禁机关
+  精度：day；可靠度：confirmed；排序日期：1965-05-01
+  摘要：《肚皮里的言论自由》称5月4日孙陵回信给李敖，信末署5月1日。孙陵在信中说李敖是迄今唯一表示赞成他反抗禁书的人，并谈查禁机关把“爱新觉罗氏”当作“俄帝字汇”。
+  人物：李敖、孙陵
+  地点：台湾
+  标签：为自由招魂、孙陵、大风雪、禁书、书信、1965
+  视图：书信线、交游线、出版线
+  作品：为自由招魂、肚皮里的言论自由、大风雪
+  交叉引用：-
+  来源：为自由招魂 / 019.肚皮里的言论自由 / line 135
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/019.肚皮里的言论自由.txt
+  数据：data/timeline-events-freedom-summoning.json#freedom-summoning-1965-05-01-sun-ling-replies-li-ao-about-censorship
 - 1965年5月4日 | 李敖致尚勤信中谈台大多次封杀其演讲
   精度：day；可靠度：confirmed；排序日期：1965-05-04
   摘要：《口诛》章引述李敖1965年5月4日致尚勤信，称台大学生近几个月至少四次请他演说遭校方驳回，连当晚文学院原订的五四演讲也被挡下。
@@ -5083,6 +5174,45 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/019.口诛（1993-·58岁至今）.txt
   数据：data/timeline-events-fourth-book.json#book4-1965-05-04-letter-on-ntu-speaking-ban
+- 1965年5月13日 | 李敖写信建议孙陵揭出查禁机关内幕
+  精度：day；可靠度：confirmed；排序日期：1965-05-13
+  摘要：《肚皮里的言论自由》记孙陵谈查禁机关把“爱新觉罗氏”当“俄帝字汇”后，李敖在1965年5月13日去信，建议孙陵把查禁机关内幕抖出来，由《文星》发表以存一代信史。
+  人物：李敖、孙陵
+  地点：台湾
+  标签：为自由招魂、孙陵、文星、禁书、书信、1965
+  视图：书信线、出版线、政治线
+  作品：为自由招魂、肚皮里的言论自由、文星、大风雪
+  交叉引用：-
+  来源：为自由招魂 / 019.肚皮里的言论自由 / line 157
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/019.肚皮里的言论自由.txt
+  数据：data/timeline-events-freedom-summoning.json#freedom-summoning-1965-05-13-li-ao-suggests-exposing-censorship
+- 1965年5月16日 | 孙陵写成揭露查禁机关文章并寄给李敖
+  精度：day；可靠度：confirmed；排序日期：1965-05-16
+  摘要：《肚皮里的言论自由》记李敖建议后，孙陵在1965年5月16日写成两千七八百字文章，并附信寄给李敖，称可供《文星》补白或讨论。
+  人物：李敖、孙陵
+  地点：台湾
+  标签：为自由招魂、孙陵、文星、查禁、书信、1965
+  视图：书信线、出版线、政治线
+  作品：为自由招魂、肚皮里的言论自由、文星、大风雪
+  交叉引用：-
+  来源：为自由招魂 / 019.肚皮里的言论自由 / line 173
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/019.肚皮里的言论自由.txt
+  数据：data/timeline-events-freedom-summoning.json#freedom-summoning-1965-05-16-sun-ling-sends-censorship-essay-to-li-ao
+- 1965年6月1日 | 李敖把孙陵禁书文章编入《文星》第九十二期
+  精度：day；可靠度：confirmed；排序日期：1965-06-01
+  摘要：《肚皮里的言论自由》记孙陵文章到后，李敖把它配成一组炮弹，发表在《文星》第九十二期；组内还包括陆啸钊、李声庭两文，共同强打禁书问题。
+  人物：李敖、孙陵、陆啸钊、李声庭
+  地点：台湾
+  标签：为自由招魂、孙陵、文星、禁书、发表、1965
+  视图：出版线、写作线、政治线
+  作品：为自由招魂、肚皮里的言论自由、文星、大风雪
+  交叉引用：-
+  来源：为自由招魂 / 019.肚皮里的言论自由 / line 187
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/019.肚皮里的言论自由.txt
+  数据：data/timeline-events-freedom-summoning.json#freedom-summoning-1965-06-01-li-ao-publishes-sun-ling-essay-in-wenxing
 - 1965年6月8日 | 李敖写《独裁中的民主》
   精度：day；可靠度：confirmed；排序日期：1965-06-08
   摘要：《独裁中的民主》文末署“六月八日写讫”。李敖从立法院、国会运作与政治禁忌切入，批评独裁体制下的民主表象。
@@ -5538,6 +5668,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/033.莎士比亚是特务.txt
   数据：data/timeline-events-shangxia-gujin-talks.json#shangxia-1965-08-04-shakespeare-is-agent
+- 1965年8月4日 | 李敖回信孙陵并催写《〈大风雪〉还要再查禁吗？》续稿
+  精度：day；可靠度：confirmed；排序日期：1965-08-04
+  摘要：《肚皮里的言论自由》所收李敖1965年8月4日回信说，收到孙陵来稿后觉得可以继续推进，决定再写一篇，拟出十个小题目并要求围绕《大风雪》与查禁问题扩写，明确推动后续文章成形。
+  人物：李敖、孙陵
+  地点：台湾
+  标签：为自由招魂、孙陵、文星、大风雪、书信、查禁、1965
+  视图：书信线、写作线、政治线
+  作品：为自由招魂、肚皮里的言论自由、大风雪、〈大风雪〉还要再查禁吗？
+  交叉引用：freedom-summoning-1965-05-16-sun-ling-sends-censorship-essay-to-li-ao、freedom-summoning-1965-06-01-li-ao-publishes-sun-ling-essay-in-wenxing、freedom-summoning-1965-08-13-li-ao-keeps-sun-ling-second-essay
+  来源：为自由招魂 / 019.肚皮里的言论自由 / line 263
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/019.肚皮里的言论自由.txt
+  数据：data/timeline-events-freedom-summoning.json#freedom-summoning-1965-08-04-li-ao-replies-sun-ling-and-urges-sequel
 - 1965年8月5日 | 《闯“红灯”》刊出，李敖用交通红灯重释“慎独”
   精度：day；可靠度：confirmed；排序日期：1965-08-05
   摘要：《闯“红灯”》刊于1965年8月5日。李敖由现代交通红灯与胡适在美国遇见的守法司机出发，重释“慎独”的意义，并借此讥刺中国社会到处设无形红灯、反倒逼人拿马路红灯发泄。
@@ -5668,6 +5811,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/042.关公的计程车.txt
   数据：data/timeline-events-shangxia-gujin-talks.json#shangxia-1965-08-13-guan-yu-taxi
+- 1965年8月13日 | 孙陵第二篇掀底文章送到《文星》并封在李敖手里
+  精度：day；可靠度：confirmed；排序日期：1965-08-13
+  摘要：《肚皮里的言论自由》记孙陵在1965年8月13日完成《〈大风雪〉还要再查禁吗？》并送到《文星》；李敖说这篇文章后来封在他手里十八年。
+  人物：李敖、孙陵
+  地点：台湾
+  标签：为自由招魂、孙陵、文星、大风雪、待校日、1965
+  视图：出版线、交游线、政治线
+  作品：为自由招魂、肚皮里的言论自由、大风雪
+  交叉引用：-
+  来源：为自由招魂 / 019.肚皮里的言论自由 / line 277
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/019.肚皮里的言论自由.txt
+  数据：data/timeline-events-freedom-summoning.json#freedom-summoning-1965-08-13-li-ao-keeps-sun-ling-second-essay
 - 1965年8月14日 | 《关公曹操三角恋爱论》刊出，李敖重写关公欲杀曹操的“吃醋”动机
   精度：day；可靠度：confirmed；排序日期：1965-08-14
   摘要：《关公曹操三角恋爱论》刊于1965年8月14日。李敖借《华阳国志》等材料，戏剧性地重写关公与曹操之间的历史旧案，把关公猎中欲杀曹操解释成争夺秦宜禄妻而起的“吃醋”与情敌关系。
@@ -5936,7 +6092,7 @@
   标签：为自由招魂、文警论、投稿、言论自由、1965
   视图：交游线、写作线、政治线
   作品：为自由招魂、文警论
-  交叉引用：-
+  交叉引用：freedom-summoning-1983-after-eighteen-years-publishes-wen-jing-historical-documents
   来源：为自由招魂 / 002.文警论及附件 / line 59
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/002.文警论及附件.txt
@@ -5949,7 +6105,7 @@
   标签：为自由招魂、文警论、禁刊、言论自由、1965
   视图：出版线、政治线、写作线
   作品：为自由招魂、文警论
-  交叉引用：-
+  交叉引用：freedom-summoning-1983-after-eighteen-years-publishes-wen-jing-historical-documents
   来源：为自由招魂 / 002.文警论及附件 / line 83
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/002.文警论及附件.txt
@@ -6227,6 +6383,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/264.开始脱穷.txt
   数据：data/timeline-events-seventh-book.json#book7-1965-moves-into-taida-yiyuan-apartment-as-life-improves
+- 叶明勋任《自立晚报》社长期间（1959-1965） | 叶明勋秘藏李子弋请李敖写《自立晚报》专栏之事
+  精度：year-range；可靠度：inferred；排序日期：1965-12-31
+  摘要：《〈叶明勋密件〉书后》写叶明勋曾说自己做《文星》发行人碰到李敖、做《自立晚报》社长碰到李子弋；李子弋曾托叶明勋找李敖写《自立晚报》专栏，叶明勋秘藏此事，不肯转达。
+  人物：李敖、叶明勋、李子弋
+  地点：台湾
+  标签：为自由招魂、叶明勋、李子弋、自立晚报、待校日、1959-1965
+  视图：出版线、交游线、政治线
+  作品：为自由招魂、《叶明勋密件》书后、自立晚报
+  交叉引用：freedom-summoning-1985-before-apr-18-gets-ye-mingxun-secret-document、freedom-summoning-1985-04-18-writes-postscript-ye-mingxun-secret-document、thought-answer-1964-01-01-answer-to-china-thought-trend-published
+  来源：为自由招魂 / 022.《叶明勋密件》书后 / line 75
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/022.《叶明勋密件》书后.txt
+  数据：data/timeline-events-freedom-summoning.json#freedom-summoning-1959-1965-ye-mingxun-hides-li-ziyi-invitation
 
 1966
 - 1966年1月12日 | 李敖写《一个最起码又最低调的标准》
@@ -6762,6 +6931,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/010.根株纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1966-wang-jingxi-hongkong-publishes-jiegubufengjin-no-royalties
+- 1966年 | 李敖写《一个最起码又最低调的标准》
+  精度：year；可靠度：confirmed；排序日期：1966-12-31
+  摘要：《秘雕案的案外意义》回引李敖1966年所写《一个最起码又最低调的标准》，其中要求各报对任何侵犯人身自由与言论自由的事件，至少都应留出篇幅一致刊登，作为他后来反复申说新闻自由底线的重要旧文锚点。
+  人物：李敖
+  地点：台湾
+  标签：为自由招魂、新闻自由、待校日、1966
+  视图：写作线、思想线、出版线
+  作品：为自由招魂、一个最起码又最低调的标准
+  交叉引用：freedom-summoning-1983-02-06-writes-meaning-beyond-secret-carving-case
+  来源：为自由招魂 / 016.秘雕案的案外意义 / line 55
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/016.秘雕案的案外意义.txt
+  数据：data/timeline-events-freedom-summoning.json#freedom-summoning-1966-writes-minimum-and-low-key-standard-for-press-freedom
 - 1966年（民国五十五年） | 《关山烟尘记》正式问世
   精度：year；可靠度：confirmed；排序日期：1966-12-31
   摘要：乔家才回忆，周念行看过狱中稿本后建议先在《健行月刊》发表，将来再印书；十年后到1966年，《关山烟尘记》终于正式问世，成为李敖后来评价乔家才著述时反复提到的重要作品之一。
@@ -7182,15 +7364,15 @@
   数据：data/timeline-events-fifth-book.json#book5-1967-spring-meets-little-y-on-road-after-dictionary-work
 - 1967年共产党大举迫害文人之日在台北写 | 李敖写《论没有“流血的自由”》
   精度：year-context；可靠度：confirmed；排序日期：1967-12-31
-  摘要：《论没有“流血的自由”》文末仅署“1967年共产党大举迫害文人之日在台北写”。这条先以宽精度保留，标记出李敖把汪精卫、谭嗣同、禹之谟与斯大林式大清洗并置来谈“烈士”与“流血自由”的时间背景。
+  摘要：《论没有“流血的自由”》与《为自由招魂》所收《流血的自由》都指向同一写作时点：文末仅署“1967年共产党大举迫害文人之日在台北写”。这条保留为主条目，标记出李敖把汪精卫、谭嗣同、禹之谟与斯大林式大清洗并置来谈“烈士”与“流血自由”的时间背景。
   人物：李敖
   地点：台北
   标签：论没有流血的自由、1967、台北、李敖文存二集
   视图：写作线、作品线、思想线
   作品：论没有“流血的自由”、李敖文存二集
-  交叉引用：-
+  交叉引用：freedom-summoning-1981-rewrites-bleeding-freedom-before-reimprisonment
   来源：李敖文存二集 / 011.论没有“流血的自由” / line 43
-  补充来源：-
+  补充来源：为自由招魂 / 006.流血的自由 / line 55；说明：异名版本《流血的自由》，对应同一1967年写作时点
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/005.李敖文存二集/011.论没有“流血的自由”.txt
   数据：data/timeline-events-wencun-two.json#wencun-two-1967-crackdown-writers-no-blood-freedom
 
@@ -7533,6 +7715,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/009.我最难忘的一位烈士.txt
   数据：data/timeline-events-third-book.json#book3-1968-summer-cheng-nan-jung-first-meets-li
+- 十一年前（据1979年写作日推定约为1968年） | 李敖因读美国讽刺约翰逊总统的书形成“开玩笑的自由”判断
+  精度：year-context；可靠度：inferred；排序日期：1968-12-31
+  摘要：《开玩笑的自由》回忆，十一年前李敖看到美国出版家把仿《毛语录》的《约翰逊“主席”语录》一路开总统玩笑；这本书使他定型出一种判断：衡量民主最单刀直入的办法，就是看有没有“开玩笑的自由”。
+  人物：李敖、约翰逊
+  地点：美国、台湾
+  标签：为自由招魂、开玩笑的自由、约翰逊、待校日、1968
+  视图：思想线、阅读线、政治线
+  作品：为自由招魂、开玩笑的自由、约翰逊“主席”语录
+  交叉引用：freedom-summoning-1979-11-18-writes-freedom-to-joke
+  来源：为自由招魂 / 004.开玩笑的自由 / line 47
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/004.开玩笑的自由.txt
+  数据：data/timeline-events-freedom-summoning.json#freedom-summoning-1968-forms-joking-freedom-view-from-lyndon-johnson-satire-book
 
 1969
 - 1969年1月26日 | 李敖送施启扬《社会科学国际百科全书》作红包
@@ -8554,7 +8749,7 @@
   标签：文星杂志选集第三册、查禁、警总、出版管制
   视图：出版线、司法线、文星线
   作品：文星杂志选集第三册、李敖相关
-  交叉引用：-
+  交叉引用：freedom-summoning-1982-before-june-edits-wenxing-anthology
   来源：李敖相关 / 006.李敖著作查禁清单及官方理由 / line 41
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/008.李敖相关/006.李敖著作查禁清单及官方理由.txt
@@ -8849,6 +9044,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/001.李敖自传.txt
   数据：data/timeline-events-first-book-broad.json#1976-mid-sisters-learn-li-ao
+- 1976年冬天出狱后 | 李敖出狱后遭户警合一警察半月查户口
+  精度：season；可靠度：confirmed；排序日期：1976-12-31
+  摘要：《我们梦想“野蛮之自由”》自述李敖1976年冬天出狱后，正式领教“户警合一”的厉害：警察每半个月查一次户口，在户口查察签章表上签得密密麻麻。
+  人物：李敖
+  地点：台湾
+  标签：为自由招魂、户警合一、查户口、待校日、1976
+  视图：司法线、生活线、政治线
+  作品：为自由招魂、我们梦想“野蛮之自由”
+  交叉引用：freedom-summoning-1977-protests-household-police-checks、freedom-summoning-1977-keeps-household-check-table、freedom-summoning-1983-01-17-writes-wild-freedom
+  来源：为自由招魂 / 014.我们梦想“野蛮之自由” / line 113
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/014.我们梦想“野蛮之自由”.txt
+  数据：data/timeline-events-freedom-summoning.json#freedom-summoning-1976-winter-experiences-household-police-checks
 
 1977
 - 1977年12月17日 | 萧孟能与朱婉坚订立协议书补充条款
@@ -8890,6 +9098,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/005.李敖文存二集/015.办杂志的一些意愿.txt
   数据：data/timeline-events-wencun-two.json#wencun-two-1977-07-hidden-launch-wenfeng
+- 1977年前后（据出狱后一年推定） | 李敖抗议户警合一警察频繁查户口
+  精度：undated-context；可靠度：inferred；排序日期：1977-12-31
+  摘要：《我们梦想“野蛮之自由”》说李敖被半月查户口“亲了一年”后火了，向有关机关提出强烈抗议；有关机关打招呼后，警方才稍形收敛。
+  人物：李敖
+  地点：台湾
+  标签：为自由招魂、户警合一、抗议、待校日、1977
+  视图：生活线、政治线、司法线
+  作品：为自由招魂、我们梦想“野蛮之自由”
+  交叉引用：freedom-summoning-1976-winter-experiences-household-police-checks、freedom-summoning-1977-keeps-household-check-table、freedom-summoning-1983-01-17-writes-wild-freedom
+  来源：为自由招魂 / 014.我们梦想“野蛮之自由” / line 113
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/014.我们梦想“野蛮之自由”.txt
+  数据：data/timeline-events-freedom-summoning.json#freedom-summoning-1977-protests-household-police-checks
+- 1977年前后（据出狱后查户口经历推定） | 李敖保留户口查察签章表作证据
+  精度：undated-context；可靠度：inferred；排序日期：1977-12-31
+  摘要：《我们梦想“野蛮之自由”》说李敖在警方查户口稍形收敛、惊魂甫定后，特别把户口名簿上的户口查察签章表留作纪念，作为失去“野蛮之自由”的证据。
+  人物：李敖
+  地点：台湾
+  标签：为自由招魂、户警合一、查户口、证据、待校日、1977
+  视图：证据线、生活线、政治线
+  作品：为自由招魂、我们梦想“野蛮之自由”
+  交叉引用：freedom-summoning-1976-winter-experiences-household-police-checks、freedom-summoning-1977-protests-household-police-checks、freedom-summoning-1983-01-17-writes-wild-freedom
+  来源：为自由招魂 / 014.我们梦想“野蛮之自由” / line 113
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/014.我们梦想“野蛮之自由”.txt
+  数据：data/timeline-events-freedom-summoning.json#freedom-summoning-1977-keeps-household-check-table
 - 柏杨出狱后 | 柏杨出狱后托林紫耀向李敖借其旧作，李敖因藏书散失未能应命
   精度：undated-context；可靠度：confirmed；排序日期：1977-12-31
   摘要：《东郭纪》写，柏杨出狱后托林紫耀间接转话，希望借李敖藏书中的柏杨著作；李敖因多年坐牢期间藏书遭治安机关洗劫和亲友打劫，柏杨作品也已散失，只能据实婉拒。
@@ -9572,13 +9806,13 @@
   数据：data/timeline-events-fourth-book.json#book4-1979-11-11-times-weekly-cover-li-and-hu
 - 1979年11月18日 | 李敖写《开玩笑的自由》
   精度：day；可靠度：confirmed；排序日期：1979-11-18
-  摘要：《开玩笑的自由》文末署“一九七九年十一月十八日”。李敖以开玩笑为切口，谈自由尺度与政治社会气氛。
+  摘要：《开玩笑的自由》文末署“一九七九年十一月十八日”。李敖以开玩笑为切口，谈自由尺度与政治社会气氛，并把自己十一年前读到美国讽刺约翰逊总统著作时形成的民主判断写进正文。
   人物：李敖
   地点：台湾
   标签：为自由招魂、开玩笑的自由、言论自由、1979
   视图：写作线、思想线、政治线
   作品：为自由招魂、开玩笑的自由
-  交叉引用：-
+  交叉引用：freedom-summoning-1968-forms-joking-freedom-view-from-lyndon-johnson-satire-book
   来源：为自由招魂 / 004.开玩笑的自由 / line 51
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/004.开玩笑的自由.txt
@@ -10809,6 +11043,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/019.宣淫纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1981-meets-jingmei-at-wistaria-after-dinner
+- 1981年，出狱后又行将入狱之时，在台北改写 | 李敖改写《流血的自由》
+  精度：year-context；可靠度：confirmed；排序日期：1981-12-31
+  摘要：《流血的自由》文末说明原文在1967年写于台北，1981年李敖“出狱后又行将入狱之时”在台北改写。这一条补出同一自由论题在李敖再度入狱前的改写层。
+  人物：李敖
+  地点：台北
+  标签：为自由招魂、流血的自由、改写、待校日、1981
+  视图：写作线、思想线、司法线
+  作品：为自由招魂、流血的自由
+  交叉引用：wencun-two-1967-crackdown-writers-no-blood-freedom
+  来源：为自由招魂 / 006.流血的自由 / line 57
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/006.流血的自由.txt
+  数据：data/timeline-events-freedom-summoning.json#freedom-summoning-1981-rewrites-bleeding-freedom-before-reimprisonment
 - 1981年起 | 开始持续出版《李敖千秋评论丛书》
   精度：year；可靠度：confirmed；排序日期：1981-12-31
   摘要：《1995中华民国作家作品目录——李敖》记，《李敖千秋评论丛书》自1981年起由四季出版公司持续出版；《中华民国现代名人录——李敖》更说明这一系列在李敖二度入狱后启动，并长期不断。对完整年表而言，这条补出了李敖1980年代最重要的连续出版工程之一。
@@ -11045,6 +11292,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/018.笔伐（1982-1992·47到57岁）.txt
   数据：data/timeline-events-fourth-book.json#book4-1982-04-25-party-outsiders-plan-birthday-at-zitenglu
+- 1982年5月14日 | 李敖在萧孟能案中获最高法院判胜诉
+  精度：day；可靠度：confirmed；排序日期：1982-05-14
+  摘要：《月亮属于谁的？》称“今年5月14日”最高法院推翻高院三推事判李敖有罪的理由，判李敖胜诉；李敖并表示将要求冤狱赔偿、另告萧孟能诬告。
+  人物：李敖、萧孟能
+  地点：台湾
+  标签：为自由招魂、萧孟能、文星、冤狱赔偿、1982
+  视图：司法线、出版线、思想线
+  作品：为自由招魂、月亮属于谁的？、文星杂志选集
+  交叉引用：book4-1981-06-17-high-court-guilty-verdict-undercuts-license、book2-broad-1982-05-23-xiao-press-defamation-judgment、book2-broad-1982-07-20-xiao-sues-wenxing-selection、book2-broad-1982-11-30-lin-maoxiong-dismisses-xiao、book2-broad-1983-01-29-high-court-dismisses-xiao-appeal、freedom-summoning-1982-before-june-edits-wenxing-anthology
+  来源：为自由招魂 / 013.月亮属于谁的？ / line 23
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/013.月亮属于谁的？.txt
+  数据：data/timeline-events-freedom-summoning.json#freedom-summoning-1982-05-14-wins-xiao-mengneng-case
 - 1982年6月11日 | 李敖在忠孝东路认识“安”
   精度：day；可靠度：confirmed；排序日期：1982-06-11
   摘要：李敖回忆，1982年6月11日下班时间他独行忠孝东路时认识了“安”，当晚即请她到法国餐厅罗曼蒂吃饭，后来发展成持续千日的亲密关系。
@@ -11214,6 +11474,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/031.从主流到乱流.txt
   数据：data/timeline-events-second-book-broad.json#book2-broad-1982-05-23-xiao-press-defamation-judgment
+- 1982年6月21日前（据本文写作日推定） | 李敖应出版社之请主编《文星杂志选集》
+  精度：undated-context；可靠度：inferred；排序日期：1982-06-21
+  摘要：《月亮属于谁的？》中李敖自述自己是《文星》杂志主编，对文星思想流传有责任，因此应出版社之请、不取报酬主编《文星杂志选集》。原文未给确日，暂依本文写作日挂靠。
+  人物：李敖、萧孟能
+  地点：台湾
+  标签：为自由招魂、文星、文星杂志选集、待校日、1982
+  视图：出版线、写作线、思想线
+  作品：为自由招魂、月亮属于谁的？、文星杂志选集、文星
+  交叉引用：book8-1974-07-16-wenxing-selected-volume-three-banned、book2-broad-1982-07-20-xiao-sues-wenxing-selection、book2-broad-1982-11-30-lin-maoxiong-dismisses-xiao、book2-broad-1983-01-29-high-court-dismisses-xiao-appeal、freedom-summoning-1982-05-14-wins-xiao-mengneng-case
+  来源：为自由招魂 / 013.月亮属于谁的？ / line 21
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/013.月亮属于谁的？.txt
+  数据：data/timeline-events-freedom-summoning.json#freedom-summoning-1982-before-june-edits-wenxing-anthology
 - 约1982年7月20日 | 萧孟能因《文星杂志选集》告李敖
   精度：undated-context；可靠度：contextual；排序日期：1982-07-20
   摘要：李敖致萧太太信中说，萧孟能“去年7月20日”到法院告他，又招待记者，指控李敖无权使用《文星》名义。
@@ -11309,13 +11582,13 @@
   数据：data/timeline-events-eighth-book.json#book8-1983-02-01-publishes-volume-seven-and-eight-of-complete-works
 - 1983年2月6日 | 李敖写《秘雕案的案外意义》
   精度：day；可靠度：confirmed；排序日期：1983-02-06
-  摘要：《秘雕案的案外意义》文末署“1983年2月6日”。李敖借“秘雕案”主张争自由要先抢到言论与埋怨的自由，把它放在其他自由之前来谈。
+  摘要：《秘雕案的案外意义》文末署“1983年2月6日”。李敖借“秘雕案”主张争自由要先抢到言论与埋怨的自由，把它放在其他自由之前来谈，并回引自己1966年写《一个最起码又最低调的标准》时对新闻自由最低要求的主张。
   人物：李敖
   地点：台湾
   标签：为自由招魂、秘雕案、言论自由、1983
   视图：写作线、思想线、政治线
   作品：为自由招魂、秘雕案的案外意义
-  交叉引用：-
+  交叉引用：freedom-summoning-1966-writes-minimum-and-low-key-standard-for-press-freedom
   来源：为自由招魂 / 016.秘雕案的案外意义 / line 79
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/016.秘雕案的案外意义.txt
@@ -11588,7 +11861,7 @@
   标签：为自由招魂、江文也、音乐、1983
   视图：写作线、思想线、文化线
   作品：为自由招魂、政治迫害音乐的讨论
-  交叉引用：-
+  交叉引用：freedom-summoning-1983-before-dec-12-asks-huang-yi-to-write-jiang-wenye
   来源：为自由招魂 / 020.政治迫害音乐的讨论 / line 123
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/020.政治迫害音乐的讨论.txt
@@ -11632,6 +11905,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/020.前程（1997-·62岁以后）.txt
   数据：data/timeline-events-fourth-book.json#book4-1983-02-reader-zhang-dawei-compares-li-to-ping-without-pong
+- 1983年12月12日前不久 | 李敖请黄怡给《千秋评论》写江文也文章
+  精度：undated-context；可靠度：inferred；排序日期：1983-12-12
+  摘要：《政治迫害音乐的讨论》中李敖说，美国“台美基金会”人文科学奖推出江文也、杨逵、陈锦芳、李敖四人后，他请黄怡给《千秋评论》写一点江文也的事情，黄怡很快写成。
+  人物：李敖、黄怡、江文也
+  地点：台湾
+  标签：为自由招魂、黄怡、江文也、千秋评论、待校日、1983
+  视图：出版线、交游线、文化线
+  作品：为自由招魂、政治迫害音乐的讨论、千秋评论
+  交叉引用：-
+  来源：为自由招魂 / 020.政治迫害音乐的讨论 / line 97
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/020.政治迫害音乐的讨论.txt
+  数据：data/timeline-events-freedom-summoning.json#freedom-summoning-1983-before-dec-12-asks-huang-yi-to-write-jiang-wenye
 - 《民生报》记者CCY结婚后的一次见面 | 李敖记录与《民生报》记者“CCY”的一次不愉快床上经验
   精度：undated-context；可靠度：confirmed；排序日期：1983-12-31
   摘要：《宣淫纪》写，《民生报》记者“CCY”结婚后曾带婚纱照到李敖家，二人发生一次未完成的亲密场景；李敖称这是自己一生最不愉快的床上糗事，但仍保留对“CCY”的好印象。
@@ -11658,6 +11944,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/019.宣淫纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1983-meets-xiaoye-and-writes-two-hundred-million-years
+- 十八年后（据1965年原件推定约为1983年） | 李敖十八年后发表《文警论》及相关历史文献
+  精度：undated-context；可靠度：inferred；排序日期：1983-12-31
+  摘要：《文警论及附件》开头写，下列三篇文字是李敖十八年前的作品，当时无法在台湾流传；十八年后，他把这些历史文献重新发表，作为回看文禁与‘文警’系统的证据链。
+  人物：李敖
+  地点：台湾
+  标签：为自由招魂、文警论、历史文献、待校日、1983
+  视图：出版线、证据线、政治线
+  作品：为自由招魂、文警论
+  交叉引用：freedom-summoning-1965-09-21-letter-submits-wen-jing-lun、freedom-summoning-1965-09-24-records-wen-jing-lun-phone-pressure
+  来源：为自由招魂 / 002.文警论及附件 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/002.文警论及附件.txt
+  数据：data/timeline-events-freedom-summoning.json#freedom-summoning-1983-after-eighteen-years-publishes-wen-jing-historical-documents
 - 小苏带年轻女性到李敖书房的一次下午 | 苏荣泉带年轻女性到李敖书房，李敖以考察生活为由交谈后让她离开
   精度：undated-context；可靠度：confirmed；排序日期：1983-12-31
   摘要：《宣淫纪》写，苏荣泉曾约定下午三点带一位年轻女性到李敖书房，称可让李敖考察新人类和妓女生活；李敖询问其生活后没有发生性交易，让对方离开，并以此说明自己反对无爱情的买卖性关系。
@@ -11688,13 +11987,13 @@
 1984
 - 1984年1月4日 | 李敖为《张宗昌，我梦到了你！》写后记
   精度：day；可靠度：confirmed；排序日期：1984-01-04
-  摘要：《张宗昌，我梦到了你！》后记署“一九八四年一月四日”。李敖在后记中回看旧作处境，并继续把它放入自由与禁忌的脉络。
+  摘要：《张宗昌，我梦到了你！》后记署“一九八四年一月四日”。李敖在后记中回看旧作当年未能在台湾发表的处境，并说明十九年后已把它收入《李敖千秋评论丛书》，继续把它放入自由与禁忌的脉络。
   人物：李敖、张宗昌
   地点：台湾
   标签：为自由招魂、后记、张宗昌、1984
   视图：写作线、出版线、思想线
   作品：为自由招魂、张宗昌，我梦到了你！
-  交叉引用：-
+  交叉引用：freedom-summoning-1984-01-04-publishes-dreamed-zhang-zongchang-in-qianqiu-series
   来源：为自由招魂 / 003.张宗昌，我梦到了你！ / line 47
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/003.张宗昌，我梦到了你！.txt
@@ -11720,7 +12019,7 @@
   标签：活爸·死爸·黑、千秋评论28、查禁提前、预先打压
   视图：出版线、司法线、思想线
   作品：活爸·死爸·黑、李敖千秋评论丛书、李敖相关
-  交叉引用：book8-1983-05-24-chiu-review-22-banned-before-publication、book8-1983-10-29-chiu-review-26-banned-before-publication、book8-1983-12-20-chiu-review-27-banned-before-publication
+  交叉引用：book8-1983-05-24-chiu-review-22-banned-before-publication、book8-1983-10-29-chiu-review-26-banned-before-publication、book8-1983-12-20-chiu-review-27-banned-before-publication、freedom-summoning-1985-01-qiangqiu-wansui-raise-price-under-censorship、freedom-summoning-1985-01-26-qianqiu-39-banned-before-release
   来源：李敖相关 / 006.李敖著作查禁清单及官方理由 / line 63
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/008.李敖相关/006.李敖著作查禁清单及官方理由.txt
@@ -12167,6 +12466,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/556.“就算了？”.txt
   数据：data/timeline-events-seventh-book.json#book7-1984-12-22-meets-lu-huadong-and-refuses-to-let-persecution-go
+- 1984年1月4日前后 | 李敖把《张宗昌，我梦到了你！》收入《李敖千秋评论丛书》
+  精度：undated-context；可靠度：inferred；排序日期：1984-01-04
+  摘要：《张宗昌，我梦到了你！》后记说，这篇十九年前的旧作当时未能在台湾发表；十九年后，李敖已把它发表在《李敖千秋评论丛书》里，补出旧作回流公共空间的一层出版动作。
+  人物：李敖、张宗昌
+  地点：台湾
+  标签：为自由招魂、张宗昌、李敖千秋评论丛书、待校日、1984
+  视图：出版线、写作线、思想线
+  作品：为自由招魂、张宗昌，我梦到了你！、李敖千秋评论丛书
+  交叉引用：freedom-summoning-1984-01-04-postscript-dreamed-zhang-zongchang
+  来源：为自由招魂 / 003.张宗昌，我梦到了你！ / line 47
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/003.张宗昌，我梦到了你！.txt
+  数据：data/timeline-events-freedom-summoning.json#freedom-summoning-1984-01-04-publishes-dreamed-zhang-zongchang-in-qianqiu-series
 - 1984年1月 | 李敖开始出版《万岁评论》
   精度：month；可靠度：confirmed；排序日期：1984-01-31
   摘要：李敖在“笔伐”章说明，自1984年1月起他又加出《万岁评论》，与《千秋评论》错开出版，形成几乎每半个月出书一册的节奏。
@@ -12175,7 +12487,7 @@
   标签：万岁评论、待校日、杂志
   视图：出版线、思想线
   作品：万岁评论、李敖回忆录
-  交叉引用：-
+  交叉引用：freedom-summoning-1985-01-17-writes-why-price-increase、freedom-summoning-1985-01-qiangqiu-wansui-raise-price-under-censorship
   来源：李敖回忆录 / 018.笔伐（1982-1992·47到57岁） / line 11
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/018.笔伐（1982-1992·47到57岁）.txt
@@ -12255,7 +12567,7 @@
   标签：为自由招魂、千秋评论、查禁、1985
   视图：写作线、出版线、政治线
   作品：为自由招魂、为什么涨价？、千秋评论、万岁评论
-  交叉引用：-
+  交叉引用：book8-1981-starts-li-ao-qianqiu-commentary-series、book4-1984-01-wansui-review-starts、freedom-summoning-1985-01-qiangqiu-wansui-raise-price-under-censorship、freedom-summoning-1985-01-26-qianqiu-39-banned-before-release
   来源：为自由招魂 / 021.为什么涨价？ / line 25
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/021.为什么涨价？.txt
@@ -12268,11 +12580,24 @@
   标签：为自由招魂、警总、审检、1985
   视图：写作线、政治线、出版线
   作品：为自由招魂、读警总秘密会议纪录
-  交叉引用：-
+  交叉引用：freedom-summoning-1985-before-jan-19-gets-secret-police-record
   来源：为自由招魂 / 015.读警总秘密会议纪录 / line 115
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/015.读警总秘密会议纪录.txt
   数据：data/timeline-events-freedom-summoning.json#freedom-summoning-1985-01-19-writes-reading-secret-police-meeting-record
+- 1985年1月26日 | 《千秋评论》第三十九期未发行即出现查禁命令
+  精度：day；可靠度：confirmed；排序日期：1985-01-26
+  摘要：《为什么涨价？》举例说《千秋评论》第三十九期1月25日出版，还没发行就有1月26日查禁命令出现；李敖以此说明警总疯狂查扣已到“预抢制”。
+  人物：李敖
+  地点：台湾
+  标签：为自由招魂、千秋评论、查禁、警总、1985
+  视图：出版线、政治线、司法线
+  作品：为自由招魂、为什么涨价？、千秋评论
+  交叉引用：book8-1981-starts-li-ao-qianqiu-commentary-series、book8-1983-05-24-chiu-review-22-banned-before-publication、book8-1983-10-29-chiu-review-26-banned-before-publication、book8-1983-12-20-chiu-review-27-banned-before-publication、book8-1984-01-08-chiu-review-28-banned-before-publication、freedom-summoning-1985-01-qiangqiu-wansui-raise-price-under-censorship
+  来源：为自由招魂 / 021.为什么涨价？ / line 17
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/021.为什么涨价？.txt
+  数据：data/timeline-events-freedom-summoning.json#freedom-summoning-1985-01-26-qianqiu-39-banned-before-release
 - 1985年3月23日 | 郑南榕把“小董”密件转交李敖
   精度：day；可靠度：confirmed；排序日期：1985-03-23
   摘要：李敖回忆，1985年3月23日一位自称“许先生”的人把江南命案在逃者“小董”留下的密件交给郑南榕，再由郑南榕亲自送到李敖家中。
@@ -12372,7 +12697,7 @@
   标签：为自由招魂、叶明勋、自立晚报、1985
   视图：写作线、出版线、政治线
   作品：为自由招魂、《叶明勋密件》书后、自立晚报
-  交叉引用：-
+  交叉引用：freedom-summoning-1985-before-apr-18-gets-ye-mingxun-secret-document
   来源：为自由招魂 / 022.《叶明勋密件》书后 / line 79
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/022.《叶明勋密件》书后.txt
@@ -12650,6 +12975,45 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/006.波波颂/035.优先反叛，干死他们.txt
   数据：data/timeline-events-bobo-song.json#bobo-song-1985-12-25-rebel-first
+- 1985年1月19日前不久 | 李敖透过秘密管道取得警总秘密会议纪录
+  精度：undated-context；可靠度：inferred；排序日期：1985-01-19
+  摘要：《读警总秘密会议纪录》开头说李敖“最近”透过秘密管道得到警备总部秘密会议纪录残本；该材料成为他揭露文化审检机制的依据。
+  人物：李敖
+  地点：台湾
+  标签：为自由招魂、警总、秘密会议纪录、待校日、1985
+  视图：出版线、政治线、证据线
+  作品：为自由招魂、读警总秘密会议纪录
+  交叉引用：freedom-summoning-1985-01-19-writes-reading-secret-police-meeting-record
+  来源：为自由招魂 / 015.读警总秘密会议纪录 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/015.读警总秘密会议纪录.txt
+  数据：data/timeline-events-freedom-summoning.json#freedom-summoning-1985-before-jan-19-gets-secret-police-record
+- 1985年1月起 | 《千秋评论》《万岁评论》因查禁严重调整售价
+  精度：month；可靠度：confirmed；排序日期：1985-01-31
+  摘要：《为什么涨价？》开头说本月起党外周刊联合启事调整售价，李敖说明《千秋评论》《万岁评论》处境相同，在查禁严重、成本增加下也要涨价。
+  人物：李敖
+  地点：台湾
+  标签：为自由招魂、千秋评论、万岁评论、涨价、待校日、1985
+  视图：出版线、政治线、生活线
+  作品：为自由招魂、为什么涨价？、千秋评论、万岁评论
+  交叉引用：book8-1981-starts-li-ao-qianqiu-commentary-series、book4-1984-01-wansui-review-starts、book8-1983-05-24-chiu-review-22-banned-before-publication、book8-1983-10-29-chiu-review-26-banned-before-publication、book8-1983-12-20-chiu-review-27-banned-before-publication、book8-1984-01-08-chiu-review-28-banned-before-publication、freedom-summoning-1985-01-26-qianqiu-39-banned-before-release
+  来源：为自由招魂 / 021.为什么涨价？ / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/021.为什么涨价？.txt
+  数据：data/timeline-events-freedom-summoning.json#freedom-summoning-1985-01-qiangqiu-wansui-raise-price-under-censorship
+- 1985年4月18日前 | 李敖辗转取得叶明勋上国民党中央密件底本
+  精度：undated-context；可靠度：inferred；排序日期：1985-04-18
+  摘要：《〈叶明勋密件〉书后》说《叶明勋密件》是李敖所下标题，事实上是一封叶明勋上国民党中央委员会的秘密呈文，底本由李敖辗转获得，并在文中公布。
+  人物：李敖、叶明勋
+  地点：台湾
+  标签：为自由招魂、叶明勋、密件、自立晚报、待校日、1985
+  视图：证据线、出版线、政治线
+  作品：为自由招魂、《叶明勋密件》书后、自立晚报
+  交叉引用：freedom-summoning-1985-04-18-writes-postscript-ye-mingxun-secret-document
+  来源：为自由招魂 / 022.《叶明勋密件》书后 / line 13
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/022.《叶明勋密件》书后.txt
+  数据：data/timeline-events-freedom-summoning.json#freedom-summoning-1985-before-apr-18-gets-ye-mingxun-secret-document
 
 1986
 - 1986年1月23日 | 李敖写《李老哥手复》
