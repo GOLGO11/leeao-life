@@ -589,6 +589,11 @@
     "places": ["中国大陆"],
     "works": ["新浪微博", "李敖相关"],
     "certainty": "confirmed",
+    "crossReferences": [
+      "ni-bendan-2011-02-writes-book-jacket-words-for-big-river-sea-deceived-you",
+      "book7-2011-03-03-submits-manuscript-of-the-73rd-martyr",
+      "ni-bendan-2011-08-29-rewrites-you-idiot-you-idiot"
+    ],
     "source": {
       "book": "李敖相关",
       "chapter": "001.李敖五十年表",

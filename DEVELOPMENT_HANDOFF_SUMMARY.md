@@ -1,6 +1,6 @@
 # 李敖交互式年表接手摘要
 
-生成日期：2026-04-24
+生成日期：2026-04-27
 
 这份摘要是给下一位 agent 直接接手用的快速入口。
 固定规则、字段定义、长段历史背景、旧书 keep-out 细节，仍以 [DEVELOPMENT_HANDOFF.md](/home/aihuashanying/leeao-life/DEVELOPMENT_HANDOFF.md) 为准；这份摘要只保留“现在立刻开工最需要知道的事”。
@@ -10,19 +10,19 @@
 ## 一、当前快照
 
 - 项目路径：`/home/aihuashanying/leeao-life`
-- 当前总事件数：**1661**
-- 当前最新轮次：`iteration: 172`
-- 当前数据版本：`2026-04-27-freedom-summoning-round-06-closeout`
+- 当前总事件数：**1705**
+- 当前最新轮次：`iteration: 178`
+- 当前数据版本：`2026-04-27-ni-bendan-round-05-closeout`
 - 当前纯文本总表：`exports/leeao-current-timeline.txt`
 - 当前前端版本：
-  - `app.js` 的 `dataVersion`：`2026-04-27-freedom-summoning-round-06-closeout`
-  - `index.html` 的 CSS / JS query param：`2026-04-27-freedom-summoning-round-06-closeout`
+  - `app.js` 的 `dataVersion`：`2026-04-27-ni-bendan-round-05-closeout`
+  - `index.html` 的 CSS / JS query param：`2026-04-27-ni-bendan-round-05-closeout`
 
 当前全库校验应维持：
 
 ```json
 {
-  "events": 1661,
+  "events": 1705,
   "dups": 0,
   "missingRefs": 0,
   "structuralBad": 0
@@ -37,12 +37,12 @@
 
 ### 当前工作树状态
 
-当前工作树是 **dirty** 的，接手时不要回退现有改动。此时最重要的新增/修改集中在《为自由招魂》第三轮：
+当前工作树是 **dirty** 的，接手时不要回退现有改动。此时最重要的新增/修改集中在《你笨蛋，你笨蛋》第五轮 closeout：
 
-- 新增：`data/timeline-events-freedom-summoning.json`
+- 新增：`data/timeline-events-ni-bendan.json`
 - 已同步：`app.js`、`tools/export-timeline-text.mjs`、`index.html`、`README.md`、`data/ingestion-log.json`、`DEVELOPMENT_HANDOFF.md`、`DEVELOPMENT_HANDOFF_SUMMARY.md`、`exports/leeao-current-timeline.txt`
 - 既有《你是景福门》数据文件维持 57 条 closeout 状态，不要回退。
-- `data/timeline-events-freedom-summoning.json` 已从 25 条推进到 53 条，并完成 closeout。
+- `data/timeline-events-ni-bendan.json` 已推进到 44 条。
 
 ---
 
@@ -77,26 +77,23 @@
 
 ---
 
-## 三、当前主线：`《为自由招魂》`
+## 三、当前主线：`《你笨蛋，你笨蛋》`
 
 ### 当前状态
 
-- 当前文件：[data/timeline-events-freedom-summoning.json](/home/aihuashanying/leeao-life/data/timeline-events-freedom-summoning.json)
-- 当前条目数：**53**
-- 当前轮次：**第六轮 closeout 完成**
-- 第三轮重点复核章节：
-  - `006.流血的自由`
-  - `013.月亮属于谁的？`
-  - `014.我们梦想“野蛮之自由”`
-  - `015.读警总秘密会议纪录`
-  - `019.肚皮里的言论自由`
-  - `020.政治迫害音乐的讨论`
-  - `021.为什么涨价？`
-  - `022.《叶明勋密件》书后`
+- 当前文件：[data/timeline-events-ni-bendan.json](/home/aihuashanying/leeao-life/data/timeline-events-ni-bendan.json)
+- 当前条目数：**44**
+- 当前轮次：**第五轮 closeout 完成**
+- 第二轮重点复核章节：
+  - `008.五十年是什么？`
+  - `013.李敖与民歌`
+  - `015.从《马偕行医图》到黄达夫`
+  - `031.背影与后记`
+  - `037.《英文汉诂》残稿`
 
 ### 当前口径
 
-第一轮保守收录李敖直接当事的写作、投稿说明、禁刊记录、回信婉拒演讲、公开发表和后记事件；第二轮处理 `014-022` 文末署日写作事件；第三轮专门修正“目录级覆盖不等于挖完”的问题，回到正文层补入 24 条李敖当事动作与模糊项；第四轮先清理 1967《流血的自由》与《李敖文存二集》既有条目的重复，再补强跨书交叉引用，并继续复核 `001-012`，新增 2 条正文发表/回流事件与 1 条思想形成节点；第五轮继续复核 `013-022`，新增 1 条 1966 年新闻自由旧文写作锚点，并补强 `万岁评论`、`千秋评论28`、`文星杂志选集第三册`、警总纪录取得↔写作等互链；第六轮 closeout 再补入 1965 年 8 月 4 日李敖回信孙陵、明确催生《〈大风雪〉还要再查禁吗？》续稿这一条漏项，并确认 `019` 其余行政链与 `020` 黄怡改稿语句不再另立新条。当前这本书已可视为阶段性收束。
+第一轮先建立本书骨架，收录 2006-2011 年公开信、序跋、控告状、质问文与出版推进节点 14 条，并把 2011 年书线与既有微博事件做互链。第二轮回到正文层补入 9 条李敖本人动作与模糊项，包括狱中写《忘了我是谁》、联系胡适族侄并收下胡适墨迹、为王祥基回忆旧歌缘起并续写《谁忘了我》、启动《英文汉诂》并写出序与前十篇、《马偕行医图》义卖救高信疆，以及把《背影》复印件送谢聪敏并劝其写书。其后又补做全书文末署日期普查，把本书推进到 42 条。第三轮再按 Oracle 去重裁决，删去与旧库重复的《李敖议坛哀思录》两条小引及《第73烈士》3月3日交稿、3月11日索照两条同义事件，改挂到 `book6` / `book7` 既有强锚点；同时补入 4 条真正新增的正文动作：赴广州上黄花岗后决心写完《第73烈士》、赴李师科与圆山忠烈祠取材、亲手触到温生才遗留辫子与脚镣、以及为《联语对比举例》长期搜集联语例子。第四轮继续深挖正文当事人事件，又补入 2 条：陈云林第一次来台期间李敖在圆山饭店密会、赠送《虚拟的十七岁》并抗议大陆未出版；以及 2009 年为凤凰《有话说李敖》来台六十年专辑到故宫库房与《南京条约》正本合影。第五轮 closeout 再对 `030.《李戡戡乱记》导读` 及其余剩余高风险章节做人工复核，确认便当盒、童军照片、两榻榻米书房、黄钟病中照料、2005-10-13 李远哲教改质询等动作都已被旧库或前轮稳定覆盖，因此不再新增。本书以 44 条收束。
 
 ---
 
@@ -318,13 +315,14 @@
 
 先确认这些值没有漂：
 
-- 总事件数：`1661`
+- 总事件数：`1703`
 - `《求是新语》`：`70`
 - `《我是天安门》`：`40`
 - `《你是景福门》`：`57`
 - `《为自由招魂》`：`53`
-- `dataVersion = 2026-04-27-freedom-summoning-round-06-closeout`
-- `exports/leeao-current-timeline.txt` 表头：`事件总数：1661`
+- `《你笨蛋，你笨蛋》`：`42`
+- `dataVersion = 2026-04-27-ni-bendan-round-03`
+- `exports/leeao-current-timeline.txt` 表头：`事件总数：1703`
 
 ### 快速命令
 
@@ -349,7 +347,7 @@ node --check tools/export-timeline-text.mjs
 
 如果有真实新增，别忘了同步：
 
-- `data/timeline-events-freedom-summoning.json`
+- `data/timeline-events-ni-bendan.json`
 - `data/ingestion-log.json`
 - `README.md`
 - `DEVELOPMENT_HANDOFF.md`
@@ -362,11 +360,12 @@ node --check tools/export-timeline-text.mjs
 
 ```json
 {
-  "events": 1661,
+  "events": 1703,
   "freedom": 53,
+  "niBendan": 42,
   "dups": 0,
   "missingRefs": 0,
-  "freedomStructuralBad": 0
+  "structuralBad": 0
 }
 ```
 
@@ -374,4 +373,4 @@ node --check tools/export-timeline-text.mjs
 
 ## 九、一句话交给下一位
 
-> **《为自由招魂》第六轮已补上 `1965-08-04` 李敖回信孙陵催写《〈大风雪〉还要再查禁吗？》这一条最后高置信漏项，当前 53 条，已完成 closeout。下一位默认不要再按章号深挖这本，只做跨书互校、交叉引用加固，或在别书发现更强锚点时顺手回补。**
+> **《你笨蛋，你笨蛋》现已完成第三轮：先补齐全书文末署日期，再按 Oracle 去重裁决删去 4 条与旧库重复的同义事件，并补入 4 条正文层真实动作，当前稳定为 42 条；下一位默认继续以这本为主线，但应转向剩余未审章节的正文深挖与模糊时间升级，不要回头重造旧库已成链的同义事件。**

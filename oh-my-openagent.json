@@ -1,0 +1,45 @@
+{
+  "lsp": {
+    "typescript": {
+      "command": [
+        "node_modules/.bin/typescript-language-server.cmd",
+        "--stdio"
+      ],
+      "extensions": [
+        ".ts",
+        ".tsx",
+        ".js",
+        ".jsx",
+        ".mjs",
+        ".cjs",
+        ".mts",
+        ".cts"
+      ]
+    },
+    "biome": {
+      "command": [
+        "node_modules/.bin/biome.cmd",
+        "lsp-proxy"
+      ],
+      "extensions": [
+        ".ts",
+        ".tsx",
+        ".js",
+        ".jsx",
+        ".mjs",
+        ".cjs",
+        ".mts",
+        ".cts",
+        ".json",
+        ".jsonc",
+        ".vue",
+        ".astro",
+        ".svelte",
+        ".css",
+        ".graphql",
+        ".gql",
+        ".html"
+      ]
+    }
+  }
+}
