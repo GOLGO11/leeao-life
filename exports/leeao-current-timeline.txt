@@ -1,9 +1,9 @@
 李敖交互式年表：当前增量纯文本备份
 生成日期：2026-05-03
-事件总数：1789
+事件总数：1793
 数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json；data/timeline-events-ni-bendan.json；data/timeline-events-dream-awake.json；data/timeline-events-li-ao-xinkan.json
 说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。
-日期精度统计：day=1436；year=87；year-range=8；undated-range=1；undated-context=136；season=25；lunar-day=1；year-after=7；month=46；half-year=2；school-year-context=5；day-range=12；month-after=3；year-context=5；day-after=4；year-about=5；after-date-context=1；range-context=1；before-date-context=2；day-context=1；year-end=1
+日期精度统计：day=1437；year=87；year-range=8；undated-range=1；undated-context=138；season=25；lunar-day=1；year-after=7；month=46；half-year=2；school-year-context=5；day-range=12；month-after=3；year-context=5；day-after=4；year-about=5；after-date-context=1；before-date-context=3；range-context=1；day-context=1；year-end=1
 
 
 1935
@@ -6305,6 +6305,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/011.为《文星》招魂.txt
   数据：data/timeline-events-second-book.json#book2-1965-11-06-wenxing-evocation-written
+- 1965年12月1日（《文星》第九十八期，待校） | 李敖以本社名义在《文星》第九十八期刊出《国法党限》文章
+  精度：day；可靠度：contextual；排序日期：1965-12-01
+  摘要：《无出其左，有谢可击》追述，李敖在《文星》杂志第九十八期以“本社”名义刊出《我们对“国法党限”的严正表示》，表面抨击谢然之作风，实则触及党部退出司法与军队等问题，并成为《文星》被消灭的最后条件。
+  人物：李敖、谢然之、蒋介石、萧孟能
+  地点：台北、台湾
+  标签：李敖新刊、文星、我们对国法党限的严正表示、谢然之、国法党限、1965
+  视图：写作线、文星线、政治线
+  作品：李敖新刊、无出其左，有谢可击、我们对国法党限的严正表示、文星
+  交叉引用：liao-xinkan-1989-01-15-037-wenxing-xie-ranzhi、book5-1965-12-15-wenxing-98-banned、book5-1965-12-27-wenxing-one-year-suspension
+  来源：李敖新刊 / 037.无出其左，有谢可击 / line 3
+  补充来源：李敖新刊 / 037.无出其左，有谢可击 / line 89；说明：附录二重述第九十八期以本社名义发表该文，并说明其成为查禁关键。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/012.李敖新刊/037.无出其左，有谢可击.txt
+  数据：data/timeline-events-li-ao-xinkan.json#liao-xinkan-1965-12-01-publishes-guofa-dangxian-wenxing-98
 - 1965年12月15日 | 警务处转警总代电查禁《文星》第九十八期
   精度：day；可靠度：confirmed；排序日期：1965-12-15
   摘要：《星火纪》写，第九十九期筹印期间，1965年12月15日警务处转下警总训唤代电查禁《文星》第九十八期，文星停刊链条进入最后阶段。
@@ -7100,6 +7113,19 @@
   补充来源：李敖文存二集 / 010.一封存证信的故事 / line 9；说明：列出原定刊期
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/005.李敖文存二集/010.一封存证信的故事.txt
   数据：data/timeline-events-wencun-two.json#wencun-two-1966-09-01-to-09-08-central-daily-ran-first-three-ads
+- 《文星》第九十八期查禁后（待校） | 李敖写《我们对“言论立场”的严正表示》并寄到海外
+  精度：undated-context；可靠度：contextual；排序日期：1966-12-31
+  摘要：《无出其左，有谢可击》追述，国民党查禁《文星》第九十八期、禁止《国法党限》文章流传后，海外报刊多有转载；李敖后来又写《我们对“言论立场”的严正表示》寄到海外，继续揭露谢然之底细。
+  人物：李敖、谢然之
+  地点：台北、海外
+  标签：李敖新刊、文星、我们对言论立场的严正表示、谢然之、海外转载、1966
+  视图：写作线、文星线、海外线
+  作品：李敖新刊、无出其左，有谢可击、我们对言论立场的严正表示、文星
+  交叉引用：liao-xinkan-1989-01-15-037-wenxing-xie-ranzhi、book5-1965-12-15-wenxing-98-banned、book5-1965-12-27-wenxing-one-year-suspension
+  来源：李敖新刊 / 037.无出其左，有谢可击 / line 9
+  补充来源：李敖新刊 / 037.无出其左，有谢可击 / line 81；说明：附录二收录《我们对“言论立场”的严正表示》正文。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/012.李敖新刊/037.无出其左，有谢可击.txt
+  数据：data/timeline-events-li-ao-xinkan.json#liao-xinkan-1966-context-writes-yanlun-lichang-sends-overseas
 - 《文星》被围剿后 | 王敬羲在香港刊出李敖《借古不讽今》却未付版税
   精度：undated-context；可靠度：confirmed；排序日期：1966-12-31
   摘要：《根株纪》写，《文星》被蒋介石方面围剿时，王敬羲在香港用《文星》招牌请李敖写稿；李敖写成《借古不讽今》，藏在茶叶罐中由香港女作家带出台湾，王敬羲刊出后却未付版税。
@@ -7113,6 +7139,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/010.根株纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1966-wang-jingxi-hongkong-publishes-jiegubufengjin-no-royalties
+- 《国法党限》文发表后（待校） | 李敖收到居浩然来信评《国法党限》文章
+  精度：undated-context；可靠度：contextual；排序日期：1966-12-31
+  摘要：《无出其左，有谢可击》追述，澳洲的居浩然读到李敖《我们对“国法党限”的严正表示》后写信来，责怪此文似在“清君侧”；李敖回看认为文章真正触及的是蒋介石本人及其左右的因果责任。
+  人物：李敖、居浩然、蒋介石
+  地点：澳洲、台北
+  标签：李敖新刊、居浩然、文星、我们对国法党限的严正表示、书信、1966
+  视图：书信线、文星线、思想线
+  作品：李敖新刊、无出其左，有谢可击、我们对国法党限的严正表示、文星
+  交叉引用：liao-xinkan-1989-01-15-037-wenxing-xie-ranzhi、wencun-1965-08-01-after-ju-haoran-essay-published、book5-1965-12-27-wenxing-one-year-suspension
+  来源：李敖新刊 / 037.无出其左，有谢可击 / line 7
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/012.李敖新刊/037.无出其左，有谢可击.txt
+  数据：data/timeline-events-li-ao-xinkan.json#liao-xinkan-1966-context-receives-ju-haoran-letter-on-guofa-dangxian
 - 1966年 | 李敖写《一个最起码又最低调的标准》
   精度：year；可靠度：confirmed；排序日期：1966-12-31
   摘要：《秘雕案的案外意义》回引李敖1966年所写《一个最起码又最低调的标准》，其中要求各报对任何侵犯人身自由与言论自由的事件，至少都应留出篇幅一致刊登，作为他后来反复申说新闻自由底线的重要旧文锚点。
@@ -15100,6 +15139,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/012.李敖新刊/036.浮生记趣四续.txt
   数据：data/timeline-events-li-ao-xinkan.json#liao-xinkan-1988-12-29-036-floating-life-notes-fourth-sequel
+- 1988年9月18日前（待校） | 李敖照告《亚洲人》杂志刊“李敖死了”广告案
+  精度：before-date-context；可靠度：contextual；排序日期：1988-09-18
+  摘要：《台湾的法官最怕报阀》文末署1988年9月18日。文中说，同一个“李敖死了”广告后来刊登在《亚洲人》杂志，李敖照告不误；台北地院与台湾高院在此案中认定发行人应为广告负责，并判被告有罪。
+  人物：李敖
+  地点：台北、台湾
+  标签：李敖新刊、台湾的法官最怕报阀、亚洲人杂志、李敖死了、诽谤、广告、1988
+  视图：法律线、媒体线
+  作品：李敖新刊、台湾的法官最怕报阀、亚洲人杂志
+  交叉引用：liao-xinkan-1988-09-18-010-judges-fear-press-tycoons、liao-xinkan-1986-10-22-writes-zilih-evening-news-after-li-ao-dead-ad
+  来源：李敖新刊 / 010.台湾的法官最怕报阀 / line 11
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/012.李敖新刊/010.台湾的法官最怕报阀.txt
+  数据：data/timeline-events-li-ao-xinkan.json#liao-xinkan-1988-before-sep-18-sues-asian-magazine-li-ao-dead-ad
 - 1988年秋（12月8日前约一个半月以上） | 李敖告发李登辉及五院院长涉嫌共同伪造文书
   精度：range-context；可靠度：contextual；排序日期：1988-10-31
   摘要：《李敖控告李登辉及五院院长伪造文书案》收录刑事告发状。李敖主张李登辉、倪文亚等六人在蒋经国遗嘱见证上共同伪造私文书，足以损害蒋经国及公众，并依刑事诉讼法提出告发，请求一律提起公诉。原文未署告发日，文后称告发后约一个半月收到地检处函，故暂作1988年秋的上下文节点。

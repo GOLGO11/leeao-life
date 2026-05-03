@@ -10,19 +10,19 @@
 ## 一、当前快照
 
 - 项目路径：`/home/aihuashanying/leeao-life`
-- 当前总事件数：**1789**
+- 当前总事件数：**1793**
 - 当前最新轮次：`iteration: 188`
-- 当前数据版本：`2026-05-03-li-ao-xinkan-round-04`
+- 当前数据版本：`2026-05-03-li-ao-xinkan-round-05-closeout`
 - 当前纯文本总表：`exports/leeao-current-timeline.txt`
 - 当前前端版本：
-  - `app.js` 的 `dataVersion`：`2026-05-03-li-ao-xinkan-round-04`
-  - `index.html` 的 CSS / JS query param：`2026-05-03-li-ao-xinkan-round-04`
+  - `app.js` 的 `dataVersion`：`2026-05-03-li-ao-xinkan-round-05-closeout`
+  - `index.html` 的 CSS / JS query param：`2026-05-03-li-ao-xinkan-round-05-closeout`
 
 当前全库校验应维持：
 
 ```json
 {
-  "events": 1789,
+  "events": 1793,
   "dups": 0,
   "missingRefs": 0,
   "structuralBad": 0
@@ -37,13 +37,13 @@
 
 ### 当前工作树状态
 
-当前工作树是 **dirty** 的，接手时不要回退现有改动。此时最重要的新增/修改已切到《李敖新刊》第四轮：
+当前工作树是 **dirty** 的，接手时不要回退现有改动。此时最重要的新增/修改已切到《李敖新刊》第五轮 closeout：
 
 - 新增：`data/timeline-events-li-ao-xinkan.json`
 - 已同步：`app.js`、`tools/export-timeline-text.mjs`、`index.html`、`README.md`、`data/ingestion-log.json`、`DEVELOPMENT_HANDOFF.md`、`DEVELOPMENT_HANDOFF_SUMMARY.md`、`exports/leeao-current-timeline.txt`
 - 既有《你笨蛋，你笨蛋》数据文件维持 44 条 closeout 状态，不要回退。
 - `data/timeline-events-dream-awake.json` 第六轮 closeout 后保持 17 条。
-- `data/timeline-events-li-ao-xinkan.json` 第四轮已推进到 67 条。
+- `data/timeline-events-li-ao-xinkan.json` 第五轮 closeout 已推进到 71 条。
 
 ---
 
@@ -83,9 +83,9 @@
 ### 当前状态
 
 - 当前文件：`data/timeline-events-li-ao-xinkan.json`
-- 当前条目数：**67**
-- 当前轮次：**第四轮完成**
-- 当前口径：第一轮建立全书文末署日写作骨架；第二轮回到正文层补法律文书、催告书信与可入表的日常交游；第三轮做旧链互引与低锚点日常取舍；第四轮补正文层当事动作。1989 年出版《李敖新刊》丛书总事件已由第八本覆盖，本书只做交叉引用，不重复造总出版事件。
+- 当前条目数：**71**
+- 当前轮次：**第五轮 closeout 完成**
+- 当前口径：第一轮建立全书文末署日写作骨架；第二轮回到正文层补法律文书、催告书信与可入表的日常交游；第三轮做旧链互引与低锚点日常取舍；第四轮补正文层当事动作；第五轮 closeout 专门处理旧链补缝和剩余候选章。1989 年出版《李敖新刊》丛书总事件已由第八本覆盖，本书只做交叉引用，不重复造总出版事件。
 - 已收/复核章节：`《李敖新刊》总序 / 001-038`
 
 ### 当前口径
@@ -98,7 +98,9 @@
 
 第四轮新增 7 条：`003` 1984年托江鹏坚质询水晶大厦；`006` 文星时期徐钟珮介绍余传韬、李敖劝其搞反对党；`010` 1986-10-22 后因“李敖死了”广告去信并提告；`014/015` 1970-03-17 萧孟能致李敖信谈冯作民版税；`027` 1982-04-01《从上海到海上》难童照片与警总警告、1988年请王小痴辑刊三毛旧作；`028` 1988-12-16 前收到刘志宏来信。
 
-下一轮重点：做第五轮 closeout 式扫尾，复核 `001-002 / 004-005 / 007-009 / 011-012 / 019-022 / 024-025 / 037-038` 是否确无新增李敖当事动作；特别查 `037` 旧作寄海外、居浩然来信是否已有旧链，`010` 亚洲人杂志同案是否值得低锚点入表。
+第五轮 closeout 新增 4 条：`037` 1965-12-01 李敖以本社名义在《文星》第九十八期刊出《我们对“国法党限”的严正表示》、居浩然读后写信给李敖、李敖另写《我们对“言论立场”的严正表示》并寄到海外；`010` 1988-09-18 前李敖照告《亚洲人》杂志刊“李敖死了”广告案。
+
+第五轮已完成 closeout：`001-002 / 004-005 / 007-009 / 011-012 / 019-022 / 024-025 / 038` 复核后仍以评论、历史材料或旁人新闻为主，不新增；`037` 与 `010` 的可入表动作已补。下一轮建议转入下一本书，或只做跨书互校、模糊时间升级和 reciprocal crossReferences。
 
 ## 四、上一主线：`《你笨蛋，你笨蛋》`
 
@@ -340,16 +342,16 @@
 
 先确认这些值没有漂：
 
-- 总事件数：`1789`
+- 总事件数：`1793`
 - `《求是新语》`：`70`
 - `《我是天安门》`：`40`
 - `《你是景福门》`：`57`
 - `《为自由招魂》`：`53`
 - `《你笨蛋，你笨蛋》`：`44`
 - `《我梦碎，所以我梦醒》`：`17`
-- `《李敖新刊》`：`67`
-- `dataVersion = 2026-05-03-li-ao-xinkan-round-04`
-- `exports/leeao-current-timeline.txt` 表头：`事件总数：1789`
+- `《李敖新刊》`：`71`
+- `dataVersion = 2026-05-03-li-ao-xinkan-round-05-closeout`
+- `exports/leeao-current-timeline.txt` 表头：`事件总数：1793`
 
 ### 快速命令
 
@@ -387,11 +389,11 @@ node --check tools/export-timeline-text.mjs
 
 ```json
 {
-  "events": 1789,
+  "events": 1793,
   "freedom": 53,
   "niBendan": 44,
   "dreamAwake": 17,
-  "liAoXinkan": 67,
+  "liAoXinkan": 71,
   "dups": 0,
   "missingRefs": 0,
   "structuralBad": 0
@@ -402,4 +404,4 @@ node --check tools/export-timeline-text.mjs
 
 ## 十、一句话交给下一位
 
-> **《李敖新刊》已完成第四轮：累计 67 条；第四轮补水晶大厦质询、余传韬交游、自立晚报广告诉讼、萧孟能来信、难童照片、三毛旧作辑刊和刘志宏读者来信。下一位默认做第五轮 closeout 式扫尾，复核剩余章节是否确无新增当事动作，并加固旧链互引。**
+> **《李敖新刊》已完成第五轮 closeout：累计 71 条；第五轮补《国法党限》刊出、居浩然来信、《言论立场》寄海外和《亚洲人》杂志同案。下一位默认转入下一本书；若继续本书，只做跨书互校、模糊时间升级和 reciprocal crossReferences。**

@@ -57,7 +57,7 @@ const dataFiles = [
   "./data/timeline-events-dream-awake.json",
   "./data/timeline-events-li-ao-xinkan.json"
 ];
-const dataVersion = "2026-05-03-li-ao-xinkan-round-04";
+const dataVersion = "2026-05-03-li-ao-xinkan-round-05-closeout";
 
 const dateFormatter = new Intl.DateTimeFormat("zh-Hant", {
   year: "numeric",
