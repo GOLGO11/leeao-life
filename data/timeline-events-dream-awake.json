@@ -20,6 +20,88 @@
     }
   },
   {
+    "id": "dream-awake-1980-05-06-hu-gengnian-dinner-legislator-silence-question",
+    "date": "1980-05-06",
+    "displayDate": "1980年5月6日当天晚上",
+    "datePrecision": "day",
+    "title": "李敖在婚礼当晚饭局反问胡赓年31年不发言",
+    "summary": "《“老贼”又梦碎》写，1980年5月6日李敖与胡茵梦结婚当天晚上，胡赓年请两人吃饭；席间胡赓年谈到立委生涯，得意地说31年来在立法院没说过一句话。李敖听后难过，忍不住反问立法委员本该为民喉舌，东北同乡选他出来，他一连31年不讲话是否对得起职责。",
+    "view": ["交游线", "婚恋线", "政治线", "日常线"],
+    "tags": ["我梦碎，所以我梦醒", "胡赓年", "胡茵梦", "立法院", "老贼", "1980"],
+    "people": ["李敖", "胡茵梦", "胡赓年"],
+    "places": ["台北", "台湾"],
+    "works": ["我梦碎，所以我梦醒", "“老贼”又梦碎"],
+    "certainty": "confirmed",
+    "crossReferences": ["book4-1980-05-06-li-marries-hu-yinmeng"],
+    "source": {
+      "book": "我梦碎，所以我梦醒",
+      "chapter": "043.“老贼”又梦碎",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/011.我梦碎，所以我梦醒/043.“老贼”又梦碎.txt",
+      "line": 7
+    }
+  },
+  {
+    "id": "dream-awake-1970-context-finds-home-bug-installed-by-security-agents",
+    "date": "1970-12-31",
+    "displayDate": "软禁期间（原文作“当年”）",
+    "datePrecision": "undated-context",
+    "title": "李敖回家查出治安人员偷装的窃听器",
+    "summary": "《“黄莺”梦碎》借黄莺回巢检查异物作比，补述李敖“当年”也很精明：国民党治安人员趁他出门，派“扒窃小组”潜进家中偷装窃听器，他一回家就查出来。此事与1971年1月2日致刘绍唐信中提到家中侦听器已转交联合国人权委员会的材料互相补强。",
+    "view": ["司法线", "日常线", "身体线"],
+    "tags": ["我梦碎，所以我梦醒", "窃听器", "软禁", "治安人员", "监控", "1970"],
+    "people": ["李敖"],
+    "places": ["台北", "台湾"],
+    "works": ["我梦碎，所以我梦醒", "“黄莺”梦碎"],
+    "certainty": "contextual",
+    "crossReferences": ["book4-1971-01-02-letter-to-liu-shaotang-about-bug-and-books"],
+    "source": {
+      "book": "我梦碎，所以我梦醒",
+      "chapter": "060.“黄莺”梦碎",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/011.我梦碎，所以我梦醒/060.“黄莺”梦碎.txt",
+      "line": 15
+    }
+  },
+  {
+    "id": "dream-awake-1964-context-chen-cheng-invites-li-ao-to-talk-about-kmt-future",
+    "date": "1964-12-31",
+    "displayDate": "陈诚死前一年（约1964年）",
+    "datePrecision": "year-context",
+    "title": "陈诚邀李敖谈国民党前途",
+    "summary": "《“暴政必亡”梦碎》写，陈诚死前一年曾邀李敖做一次谈话，坦白说“共产党的失败，并不就是国民党的胜利”；李敖由此留下印象，认为陈诚深忧国民党的前途，明白国民党若要继续，必须改头换面。",
+    "view": ["交游线", "政治线", "思想线"],
+    "tags": ["我梦碎，所以我梦醒", "陈诚", "国民党", "谈话", "1964"],
+    "people": ["李敖", "陈诚"],
+    "places": ["台湾"],
+    "works": ["我梦碎，所以我梦醒", "“暴政必亡”梦碎"],
+    "certainty": "contextual",
+    "source": {
+      "book": "我梦碎，所以我梦醒",
+      "chapter": "033.“暴政必亡”梦碎",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/011.我梦碎，所以我梦醒/033.“暴政必亡”梦碎.txt",
+      "line": 5
+    }
+  },
+  {
+    "id": "dream-awake-2010-08-19-song-chuyu-brings-ryukyu-documents-to-li-ao",
+    "date": "2010-08-19",
+    "displayDate": "2010年8月19日",
+    "datePrecision": "day",
+    "title": "宋楚瑜到阳明山给李敖看琉球文件",
+    "summary": "《“钓鱼台”梦碎》写，2010年8月19日宋楚瑜到阳明山看李敖，带了一大箱文件给他过目；其中有中国飞机本有权利使用琉球机场的文件。李敖据此追问蒋介石当年同意琉球中美共管后，为什么中国后来会被踢走，并把材料纳入钓鱼台与琉球问题的历史追查。",
+    "view": ["交游线", "资料线", "政治线"],
+    "tags": ["我梦碎，所以我梦醒", "宋楚瑜", "阳明山", "钓鱼台", "琉球", "资料", "2010"],
+    "people": ["李敖", "宋楚瑜", "蒋介石", "罗斯福"],
+    "places": ["阳明山", "台湾", "琉球", "钓鱼台"],
+    "works": ["我梦碎，所以我梦醒", "“钓鱼台”梦碎"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "我梦碎，所以我梦醒",
+      "chapter": "013.“钓鱼台”梦碎",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/011.我梦碎，所以我梦醒/013.“钓鱼台”梦碎.txt",
+      "line": 7
+    }
+  },
+  {
     "id": "dream-awake-1984-10-10-writes-old-veteran-selling-flags",
     "date": "1984-10-10",
     "displayDate": "1984年10月10日",
@@ -143,6 +225,91 @@
     }
   },
   {
+    "id": "dream-awake-2011-07-23-wears-new-hearing-aid-for-hong-kong-book-fair-speech",
+    "date": "2011-07-23",
+    "displayDate": "2011年7月23日（香港书展演讲时）",
+    "datePrecision": "day",
+    "title": "李敖戴着新买助听器在香港书展演讲",
+    "summary": "《梦醒时分》附录《李敖香港旋风》写，李敖在香港书展演讲时不时摸耳边助听器；他说这副西门子助听器效果不好、杂音重，但价值15万新台币，正是为了来香港演讲新买的。这条补入其晚年公开演讲中的身体与工具细节。",
+    "view": ["身体线", "演讲线", "日常线"],
+    "tags": ["我梦碎，所以我梦醒", "香港书展", "助听器", "西门子", "身体", "2011"],
+    "people": ["李敖"],
+    "places": ["香港书展", "香港"],
+    "works": ["我梦碎，所以我梦醒", "李敖香港旋风"],
+    "certainty": "confirmed",
+    "crossReferences": ["book8-2011-07-23-speaks-at-hong-kong-book-fair"],
+    "source": {
+      "book": "我梦碎，所以我梦醒",
+      "chapter": "061.梦醒时分",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/011.我梦碎，所以我梦醒/061.梦醒时分.txt",
+      "line": 81
+    }
+  },
+  {
+    "id": "dream-awake-2011-07-23-points-out-pan-yugang-at-hong-kong-book-fair-speech",
+    "date": "2011-07-23",
+    "displayDate": "2011年7月23日（香港书展演讲中）",
+    "datePrecision": "day",
+    "title": "李敖在香港书展演讲中指认潘毓刚",
+    "summary": "《梦醒时分》附录《李敖香港旋风》写，李敖谈到“要好好的活过敌人”时，指着台下说有一位从美国来的50年老朋友，二人常开玩笑比赛谁更长寿、谁能在对方坟上小便；报道说明这位老友就是世界量子化学界学者潘毓刚。",
+    "view": ["交游线", "演讲线", "日常线"],
+    "tags": ["我梦碎，所以我梦醒", "香港书展", "潘毓刚", "老友", "长寿", "2011"],
+    "people": ["李敖", "潘毓刚"],
+    "places": ["香港书展", "香港", "美国"],
+    "works": ["我梦碎，所以我梦醒", "李敖香港旋风"],
+    "certainty": "confirmed",
+    "crossReferences": ["book8-2011-07-23-speaks-at-hong-kong-book-fair"],
+    "source": {
+      "book": "我梦碎，所以我梦醒",
+      "chapter": "061.梦醒时分",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/011.我梦碎，所以我梦醒/061.梦醒时分.txt",
+      "line": 105
+    }
+  },
+  {
+    "id": "dream-awake-2011-08-07-asia-weekly-publishes-li-ao-hong-kong-whirlwind",
+    "date": "2011-08-07",
+    "displayDate": "2011年8月7日",
+    "datePrecision": "day",
+    "title": "《亚洲周刊》刊出《李敖香港旋风》",
+    "summary": "《梦醒时分》附录一收《亚洲周刊》2011年8月7日《李敖香港旋风》。报道整理了李敖香港书展演讲及相关采访录音，记录他谈共产党功过、香港民主与经济、自己可能参选总统和立委，并补写林青霞送花、潘毓刚在场、翌日光华新闻文化中心演讲等现场细节。",
+    "view": ["媒体线", "演讲线", "香港线"],
+    "tags": ["我梦碎，所以我梦醒", "亚洲周刊", "李敖香港旋风", "香港书展", "2011"],
+    "people": ["李敖", "林青霞", "潘毓刚", "胡锦涛", "温家宝"],
+    "places": ["香港", "香港书展", "光华新闻文化中心"],
+    "works": ["我梦碎，所以我梦醒", "李敖香港旋风", "亚洲周刊"],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book8-2011-07-23-speaks-at-hong-kong-book-fair",
+      "dream-awake-2011-07-23-wears-new-hearing-aid-for-hong-kong-book-fair-speech",
+      "dream-awake-2011-07-23-points-out-pan-yugang-at-hong-kong-book-fair-speech",
+      "dream-awake-2011-07-23-meets-brigitte-lin-after-book-fair-lecture",
+      "dream-awake-2011-07-24-speaks-at-kwang-hwa-news-culture-center"
+    ],
+    "source": {
+      "book": "我梦碎，所以我梦醒",
+      "chapter": "061.梦醒时分",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/011.我梦碎，所以我梦醒/061.梦醒时分.txt",
+      "line": 127
+    },
+    "additionalSources": [
+      {
+        "book": "我梦碎，所以我梦醒",
+        "chapter": "061.梦醒时分",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/011.我梦碎，所以我梦醒/061.梦醒时分.txt",
+        "line": 81,
+        "note": "报道记录演讲时助听器细节。"
+      },
+      {
+        "book": "我梦碎，所以我梦醒",
+        "chapter": "061.梦醒时分",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/011.我梦碎，所以我梦醒/061.梦醒时分.txt",
+        "line": 105,
+        "note": "报道记录潘毓刚在场。"
+      }
+    ]
+  },
+  {
     "id": "dream-awake-2011-10-09-asia-weekly-publishes-li-ao-bombards-kmt-ccp-interview",
     "date": "2011-10-09",
     "displayDate": "2011年10月9日",
@@ -153,11 +320,16 @@
     "tags": ["我梦碎，所以我梦醒", "亚洲周刊", "宋楚瑜", "马英九", "阳痿美国", "2011"],
     "people": ["李敖", "宋楚瑜", "连战", "马英九", "杨洁篪", "童清峰"],
     "places": ["台湾", "香港"],
-    "works": ["我梦碎，所以我梦醒", "阳痿美国", "审判美国", "你笨蛋，你笨蛋"],
-    "certainty": "confirmed",
-    "source": {
-      "book": "我梦碎，所以我梦醒",
-      "chapter": "061.梦醒时分",
+  "works": ["我梦碎，所以我梦醒", "阳痿美国", "审判美国", "你笨蛋，你笨蛋"],
+  "certainty": "confirmed",
+  "crossReferences": [
+    "book6-2005-03-14-questions-xue-shimin-on-nsb-secrecy-and-taizongyuan-money",
+    "book6-2005-03-28-presses-xue-to-sue-lee-tenghui-and-attach-taizongyuan-assets",
+    "book6-2006-03-06-presses-su-tsengchang-to-admit-abolishing-nuc"
+  ],
+  "source": {
+    "book": "我梦碎，所以我梦醒",
+    "chapter": "061.梦醒时分",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/011.我梦碎，所以我梦醒/061.梦醒时分.txt",
       "line": 197
     },
@@ -169,15 +341,22 @@
         "line": 133,
         "note": "访谈开头交代宋楚瑜问计与李敖煽动宋参选。"
       },
-      {
-        "book": "我梦碎，所以我梦醒",
-        "chapter": "061.梦醒时分",
-        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/011.我梦碎，所以我梦醒/061.梦醒时分.txt",
-        "line": 165,
-        "note": "补充《阳痿美国》大陆出版受阻与李敖报复说法。"
-      }
-    ]
-  },
+    {
+      "book": "我梦碎，所以我梦醒",
+      "chapter": "061.梦醒时分",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/011.我梦碎，所以我梦醒/061.梦醒时分.txt",
+      "line": 165,
+      "note": "补充《阳痿美国》大陆出版受阻与李敖报复说法。"
+    },
+    {
+      "book": "我梦碎，所以我梦醒",
+      "chapter": "061.梦醒时分",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/011.我梦碎，所以我梦醒/061.梦醒时分.txt",
+      "line": 185,
+      "note": "补充李敖自述在立法院追台综院款项、并准备向监察院告马英九“内乱外患罪”。"
+    }
+  ]
+},
   {
     "id": "dream-awake-2011-11-17-writes-closing-chapter-while-lying-in-bed",
     "date": "2011-11-17",
@@ -236,5 +415,25 @@
         "note": "补充躺着仰写和使用PILOT G-2 05钢珠笔的写作细节。"
       }
     ]
+  },
+  {
+    "id": "dream-awake-2011-09-refuses-library-of-congress-speech-after-confucius-institute-pressure",
+    "date": "2011-09-30",
+    "displayDate": "2011年9月",
+    "datePrecision": "month",
+    "title": "李敖拒赴美国国会图书馆演说",
+    "summary": "《“黑猫”梦碎，“白猫”也梦碎》写，美国国会图书馆原本以白纸黑字邀请函请李敖于2011年9月莅馆演说；马里兰大学“孔菩萨学院”闻风施压，要求他演说时不得颠覆辛亥革命史、不得批评孙中山。李敖因此拒绝前往，并把此事作为大陆软实力与宣传体制失误的反面样本。",
+    "view": ["演讲线", "思想线", "两岸线"],
+    "tags": ["我梦碎，所以我梦醒", "美国国会图书馆", "马里兰大学", "孔菩萨学院", "孔子学院", "辛亥革命", "孙中山", "2011"],
+    "people": ["李敖", "孙中山"],
+    "places": ["美国", "华盛顿", "马里兰"],
+    "works": ["我梦碎，所以我梦醒", "“黑猫”梦碎，“白猫”也梦碎"],
+    "certainty": "confirmed",
+    "source": {
+      "book": "我梦碎，所以我梦醒",
+      "chapter": "034.“黑猫”梦碎，“白猫”也梦碎",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/011.我梦碎，所以我梦醒/034.“黑猫”梦碎，“白猫”也梦碎.txt",
+      "line": 9
+    }
   }
 ]

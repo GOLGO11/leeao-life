@@ -56,7 +56,7 @@ const dataFiles = [
   "./data/timeline-events-ni-bendan.json",
   "./data/timeline-events-dream-awake.json"
 ];
-const dataVersion = "2026-05-03-dream-awake-round-01";
+const dataVersion = "2026-05-03-dream-awake-round-06-closeout";
 
 const dateFormatter = new Intl.DateTimeFormat("zh-Hant", {
   year: "numeric",

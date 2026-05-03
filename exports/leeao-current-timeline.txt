@@ -1,9 +1,9 @@
 李敖交互式年表：当前增量纯文本备份
 生成日期：2026-05-03
-事件总数：1714
+事件总数：1722
 数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json；data/timeline-events-ni-bendan.json；data/timeline-events-dream-awake.json
 说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。
-日期精度统计：day=1384；year=87；year-range=7；undated-range=1；undated-context=127；season=25；lunar-day=1；year-after=7；month=45；half-year=2；day-range=12；month-after=3；day-after=4；year-context=3；year-about=5；year-end=1
+日期精度统计：day=1389；year=87；year-range=7；undated-range=1；undated-context=128；season=25；lunar-day=1；year-after=7；month=46；half-year=2；day-range=12；month-after=3；year-context=4；day-after=4；year-about=5；year-end=1
 
 
 1935
@@ -5107,6 +5107,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1964-about-xiao-mengneng-gifts-summer-idyll-to-li
+- 陈诚死前一年（约1964年） | 陈诚邀李敖谈国民党前途
+  精度：year-context；可靠度：contextual；排序日期：1964-12-31
+  摘要：《“暴政必亡”梦碎》写，陈诚死前一年曾邀李敖做一次谈话，坦白说“共产党的失败，并不就是国民党的胜利”；李敖由此留下印象，认为陈诚深忧国民党的前途，明白国民党若要继续，必须改头换面。
+  人物：李敖、陈诚
+  地点：台湾
+  标签：我梦碎，所以我梦醒、陈诚、国民党、谈话、1964
+  视图：交游线、政治线、思想线
+  作品：我梦碎，所以我梦醒、“暴政必亡”梦碎
+  交叉引用：-
+  来源：我梦碎，所以我梦醒 / 033.“暴政必亡”梦碎 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/011.我梦碎，所以我梦醒/033.“暴政必亡”梦碎.txt
+  数据：data/timeline-events-dream-awake.json#dream-awake-1964-context-chen-cheng-invites-li-ao-to-talk-about-kmt-future
 
 1965
 - 1965年4月17日 | 李敖写《过早的答案》
@@ -8200,6 +8213,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/020.前程（1997-·62岁以后）.txt
   数据：data/timeline-events-fourth-book-deepening.json#book4-deep-1970-xu-xiguang-debt-collection-during-surveillance
+- 软禁期间（原文作“当年”） | 李敖回家查出治安人员偷装的窃听器
+  精度：undated-context；可靠度：contextual；排序日期：1970-12-31
+  摘要：《“黄莺”梦碎》借黄莺回巢检查异物作比，补述李敖“当年”也很精明：国民党治安人员趁他出门，派“扒窃小组”潜进家中偷装窃听器，他一回家就查出来。此事与1971年1月2日致刘绍唐信中提到家中侦听器已转交联合国人权委员会的材料互相补强。
+  人物：李敖
+  地点：台北、台湾
+  标签：我梦碎，所以我梦醒、窃听器、软禁、治安人员、监控、1970
+  视图：司法线、日常线、身体线
+  作品：我梦碎，所以我梦醒、“黄莺”梦碎
+  交叉引用：book4-1971-01-02-letter-to-liu-shaotang-about-bug-and-books
+  来源：我梦碎，所以我梦醒 / 060.“黄莺”梦碎 / line 15
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/011.我梦碎，所以我梦醒/060.“黄莺”梦碎.txt
+  数据：data/timeline-events-dream-awake.json#dream-awake-1970-context-finds-home-bug-installed-by-security-agents
 
 1971
 - 1971年1月2日夜 | 李敖致刘绍唐信谈窃听器与卖书度日
@@ -10118,6 +10144,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/016.复出（1979-1981·44到46岁）.txt
   数据：data/timeline-events-fourth-book.json#book4-1980-05-06-li-marries-hu-yinmeng
+- 1980年5月6日当天晚上 | 李敖在婚礼当晚饭局反问胡赓年31年不发言
+  精度：day；可靠度：confirmed；排序日期：1980-05-06
+  摘要：《“老贼”又梦碎》写，1980年5月6日李敖与胡茵梦结婚当天晚上，胡赓年请两人吃饭；席间胡赓年谈到立委生涯，得意地说31年来在立法院没说过一句话。李敖听后难过，忍不住反问立法委员本该为民喉舌，东北同乡选他出来，他一连31年不讲话是否对得起职责。
+  人物：李敖、胡茵梦、胡赓年
+  地点：台北、台湾
+  标签：我梦碎，所以我梦醒、胡赓年、胡茵梦、立法院、老贼、1980
+  视图：交游线、婚恋线、政治线、日常线
+  作品：我梦碎，所以我梦醒、“老贼”又梦碎
+  交叉引用：book4-1980-05-06-li-marries-hu-yinmeng
+  来源：我梦碎，所以我梦醒 / 043.“老贼”又梦碎 / line 7
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/011.我梦碎，所以我梦醒/043.“老贼”又梦碎.txt
+  数据：data/timeline-events-dream-awake.json#dream-awake-1980-05-06-hu-gengnian-dinner-legislator-silence-question
 - 1980年6月26日 | 胡茵梦致王剑芬存证信承认借名登记
   精度：day；可靠度：confirmed；排序日期：1980-06-26
   摘要：李敖引用1980年6月26日胡茵梦致王剑芬第二十号存证信，称李敖要送房子给她她当面拒绝，但同意借名登记。
@@ -21930,6 +21969,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/010.你笨蛋，你笨蛋/032.我写《阳痿美国》.txt
   数据：data/timeline-events-ni-bendan.json#ni-bendan-2010-08-13-writes-impotent-america
+- 2010年8月19日 | 宋楚瑜到阳明山给李敖看琉球文件
+  精度：day；可靠度：confirmed；排序日期：2010-08-19
+  摘要：《“钓鱼台”梦碎》写，2010年8月19日宋楚瑜到阳明山看李敖，带了一大箱文件给他过目；其中有中国飞机本有权利使用琉球机场的文件。李敖据此追问蒋介石当年同意琉球中美共管后，为什么中国后来会被踢走，并把材料纳入钓鱼台与琉球问题的历史追查。
+  人物：李敖、宋楚瑜、蒋介石、罗斯福
+  地点：阳明山、台湾、琉球、钓鱼台
+  标签：我梦碎，所以我梦醒、宋楚瑜、阳明山、钓鱼台、琉球、资料、2010
+  视图：交游线、资料线、政治线
+  作品：我梦碎，所以我梦醒、“钓鱼台”梦碎
+  交叉引用：-
+  来源：我梦碎，所以我梦醒 / 013.“钓鱼台”梦碎 / line 7
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/011.我梦碎，所以我梦醒/013.“钓鱼台”梦碎.txt
+  数据：data/timeline-events-dream-awake.json#dream-awake-2010-08-19-song-chuyu-brings-ryukyu-documents-to-li-ao
 - 2010年10月 | 李敖出版《阳痿美国》，公开为自己半世纪美国旧梦送葬
   精度：month；可靠度：confirmed；排序日期：2010-10-01
   摘要：《〈阳痿美国〉》写，2010年10月，李敖出版六百五十多页的《阳痿美国》，把自己半世纪前对美国的向往彻底翻转成系统批判。李敖把这本书视为拆穿美国、也送葬自己旧梦的一次强烈转变。
@@ -22075,6 +22127,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/008.李敖相关/001.李敖五十年表.txt
   数据：data/timeline-events-eighth-book.json#book8-2011-07-23-speaks-at-hong-kong-book-fair
+- 2011年7月23日（香港书展演讲中） | 李敖在香港书展演讲中指认潘毓刚
+  精度：day；可靠度：confirmed；排序日期：2011-07-23
+  摘要：《梦醒时分》附录《李敖香港旋风》写，李敖谈到“要好好的活过敌人”时，指着台下说有一位从美国来的50年老朋友，二人常开玩笑比赛谁更长寿、谁能在对方坟上小便；报道说明这位老友就是世界量子化学界学者潘毓刚。
+  人物：李敖、潘毓刚
+  地点：香港书展、香港、美国
+  标签：我梦碎，所以我梦醒、香港书展、潘毓刚、老友、长寿、2011
+  视图：交游线、演讲线、日常线
+  作品：我梦碎，所以我梦醒、李敖香港旋风
+  交叉引用：book8-2011-07-23-speaks-at-hong-kong-book-fair
+  来源：我梦碎，所以我梦醒 / 061.梦醒时分 / line 105
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/011.我梦碎，所以我梦醒/061.梦醒时分.txt
+  数据：data/timeline-events-dream-awake.json#dream-awake-2011-07-23-points-out-pan-yugang-at-hong-kong-book-fair-speech
 - 2011年7月23日（香港书展演讲后） | 李敖在香港书展后台见林青霞
   精度：day；可靠度：inferred；排序日期：2011-07-23
   摘要：《梦醒时分》附录写，李敖在香港书展演讲当天收到林青霞祝演讲成功的贺卡和花篮；演讲结束后，他带着妻女到对面会场后台见林青霞，两人以“彼此彼此”互道仍如十几年前模样。
@@ -22088,6 +22153,19 @@
   补充来源：我梦碎，所以我梦醒 / 061.梦醒时分 / line 121；说明：补充林青霞送贺卡和花篮。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/011.我梦碎，所以我梦醒/061.梦醒时分.txt
   数据：data/timeline-events-dream-awake.json#dream-awake-2011-07-23-meets-brigitte-lin-after-book-fair-lecture
+- 2011年7月23日（香港书展演讲时） | 李敖戴着新买助听器在香港书展演讲
+  精度：day；可靠度：confirmed；排序日期：2011-07-23
+  摘要：《梦醒时分》附录《李敖香港旋风》写，李敖在香港书展演讲时不时摸耳边助听器；他说这副西门子助听器效果不好、杂音重，但价值15万新台币，正是为了来香港演讲新买的。这条补入其晚年公开演讲中的身体与工具细节。
+  人物：李敖
+  地点：香港书展、香港
+  标签：我梦碎，所以我梦醒、香港书展、助听器、西门子、身体、2011
+  视图：身体线、演讲线、日常线
+  作品：我梦碎，所以我梦醒、李敖香港旋风
+  交叉引用：book8-2011-07-23-speaks-at-hong-kong-book-fair
+  来源：我梦碎，所以我梦醒 / 061.梦醒时分 / line 81
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/011.我梦碎，所以我梦醒/061.梦醒时分.txt
+  数据：data/timeline-events-dream-awake.json#dream-awake-2011-07-23-wears-new-hearing-aid-for-hong-kong-book-fair-speech
 - 2011年7月24日（据“翌日”推定） | 李敖在光华新闻文化中心演讲
   精度：day；可靠度：inferred；排序日期：2011-07-24
   摘要：《梦醒时分》附录写，香港书展演讲翌日，李敖受亚太台商联合总会邀请，作客光华新闻文化中心，并把这场《李敖的惊世绝艺》称为“总统竞选演讲”。
@@ -22101,6 +22179,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/011.我梦碎，所以我梦醒/061.梦醒时分.txt
   数据：data/timeline-events-dream-awake.json#dream-awake-2011-07-24-speaks-at-kwang-hwa-news-culture-center
+- 2011年8月7日 | 《亚洲周刊》刊出《李敖香港旋风》
+  精度：day；可靠度：confirmed；排序日期：2011-08-07
+  摘要：《梦醒时分》附录一收《亚洲周刊》2011年8月7日《李敖香港旋风》。报道整理了李敖香港书展演讲及相关采访录音，记录他谈共产党功过、香港民主与经济、自己可能参选总统和立委，并补写林青霞送花、潘毓刚在场、翌日光华新闻文化中心演讲等现场细节。
+  人物：李敖、林青霞、潘毓刚、胡锦涛、温家宝
+  地点：香港、香港书展、光华新闻文化中心
+  标签：我梦碎，所以我梦醒、亚洲周刊、李敖香港旋风、香港书展、2011
+  视图：媒体线、演讲线、香港线
+  作品：我梦碎，所以我梦醒、李敖香港旋风、亚洲周刊
+  交叉引用：book8-2011-07-23-speaks-at-hong-kong-book-fair、dream-awake-2011-07-23-wears-new-hearing-aid-for-hong-kong-book-fair-speech、dream-awake-2011-07-23-points-out-pan-yugang-at-hong-kong-book-fair-speech、dream-awake-2011-07-23-meets-brigitte-lin-after-book-fair-lecture、dream-awake-2011-07-24-speaks-at-kwang-hwa-news-culture-center
+  来源：我梦碎，所以我梦醒 / 061.梦醒时分 / line 127
+  补充来源：我梦碎，所以我梦醒 / 061.梦醒时分 / line 81；说明：报道记录演讲时助听器细节。；我梦碎，所以我梦醒 / 061.梦醒时分 / line 105；说明：报道记录潘毓刚在场。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/011.我梦碎，所以我梦醒/061.梦醒时分.txt
+  数据：data/timeline-events-dream-awake.json#dream-awake-2011-08-07-asia-weekly-publishes-li-ao-hong-kong-whirlwind
 - 2011年8月17日改写 | 李敖改写《他》
   精度：day；可靠度：confirmed；排序日期：2011-08-17
   摘要：《他》文末署“2011年8月17日改写”。李敖以第三人称重写自己离开北京后返乡、参选台北市长与晚年自我告别的姿态，把自况写成一篇收束性的短章。
@@ -22135,9 +22226,9 @@
   标签：我梦碎，所以我梦醒、亚洲周刊、宋楚瑜、马英九、阳痿美国、2011
   视图：媒体线、选举线、两岸线
   作品：我梦碎，所以我梦醒、阳痿美国、审判美国、你笨蛋，你笨蛋
-  交叉引用：-
+  交叉引用：book6-2005-03-14-questions-xue-shimin-on-nsb-secrecy-and-taizongyuan-money、book6-2005-03-28-presses-xue-to-sue-lee-tenghui-and-attach-taizongyuan-assets、book6-2006-03-06-presses-su-tsengchang-to-admit-abolishing-nuc
   来源：我梦碎，所以我梦醒 / 061.梦醒时分 / line 197
-  补充来源：我梦碎，所以我梦醒 / 061.梦醒时分 / line 133；说明：访谈开头交代宋楚瑜问计与李敖煽动宋参选。；我梦碎，所以我梦醒 / 061.梦醒时分 / line 165；说明：补充《阳痿美国》大陆出版受阻与李敖报复说法。
+  补充来源：我梦碎，所以我梦醒 / 061.梦醒时分 / line 133；说明：访谈开头交代宋楚瑜问计与李敖煽动宋参选。；我梦碎，所以我梦醒 / 061.梦醒时分 / line 165；说明：补充《阳痿美国》大陆出版受阻与李敖报复说法。；我梦碎，所以我梦醒 / 061.梦醒时分 / line 185；说明：补充李敖自述在立法院追台综院款项、并准备向监察院告马英九“内乱外患罪”。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/011.我梦碎，所以我梦醒/061.梦醒时分.txt
   数据：data/timeline-events-dream-awake.json#dream-awake-2011-10-09-asia-weekly-publishes-li-ao-bombards-kmt-ccp-interview
 - 2011年11月17日清早6点20分 | 李敖卧床仰写《梦醒时分》
@@ -22270,6 +22361,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/010.你笨蛋，你笨蛋/037.《英文汉诂》残稿.txt
   数据：data/timeline-events-ni-bendan.json#ni-bendan-2011-08-publishes-yingwen-hangu-remnants
+- 2011年9月 | 李敖拒赴美国国会图书馆演说
+  精度：month；可靠度：confirmed；排序日期：2011-09-30
+  摘要：《“黑猫”梦碎，“白猫”也梦碎》写，美国国会图书馆原本以白纸黑字邀请函请李敖于2011年9月莅馆演说；马里兰大学“孔菩萨学院”闻风施压，要求他演说时不得颠覆辛亥革命史、不得批评孙中山。李敖因此拒绝前往，并把此事作为大陆软实力与宣传体制失误的反面样本。
+  人物：李敖、孙中山
+  地点：美国、华盛顿、马里兰
+  标签：我梦碎，所以我梦醒、美国国会图书馆、马里兰大学、孔菩萨学院、孔子学院、辛亥革命、孙中山、2011
+  视图：演讲线、思想线、两岸线
+  作品：我梦碎，所以我梦醒、“黑猫”梦碎，“白猫”也梦碎
+  交叉引用：-
+  来源：我梦碎，所以我梦醒 / 034.“黑猫”梦碎，“白猫”也梦碎 / line 9
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/011.我梦碎，所以我梦醒/034.“黑猫”梦碎，“白猫”也梦碎.txt
+  数据：data/timeline-events-dream-awake.json#dream-awake-2011-09-refuses-library-of-congress-speech-after-confucius-institute-pressure
 - 2011年 | 李敖写《顽童哲学家》
   精度：year；可靠度：confirmed；排序日期：2011-12-31
   摘要：《顽童哲学家》末署“2011年”。李敖借追影子、转圈圈与 Peter Pan 的意象，写自己理解中的“顽童哲学家”——不断追赶自己的那种人。
