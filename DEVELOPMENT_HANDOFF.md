@@ -9,22 +9,22 @@
 ### 当前总状态
 
 - 项目路径：`/home/aihuashanying/leeao-life`
-- 当前总事件数：`1793`
+- 当前总事件数：`1874`
 - 当前全库校验：
 
 ```json
 {
-  "events": 1793,
+  "events": 1874,
   "dups": 0,
   "missingRefs": 0,
   "structuralBad": 0
 }
 ```
 
-- 纯文本总表表头当前应为：`事件总数：1793`
+- 纯文本总表表头当前应为：`事件总数：1874`
 - 当前前端版本号：
-  - `app.js` 的 `dataVersion`：`2026-05-03-li-ao-xinkan-round-05-closeout`
-  - `index.html` 的 CSS / JS query param：`2026-05-03-li-ao-xinkan-round-05-closeout`
+  - `app.js` 的 `dataVersion`：`2026-05-03-qianqiu-wansui-round-03`
+  - `index.html` 的 CSS / JS query param：`2026-05-03-qianqiu-wansui-round-03`
 
 ### 用户硬规则
 
@@ -57,9 +57,19 @@ iconv -f GB18030 -t UTF-8 "<章节路径>" | nl -ba
 
 ### 当前最自然的工作起点
 
-当前主线已经从《求是新语》closeout、再到《我是天安门》closeout、《你是景福门》第五轮 closeout、《为自由招魂》第六轮 closeout、《你笨蛋，你笨蛋》第五轮 closeout、《我梦碎，所以我梦醒》第六轮 closeout，并已完成 **《李敖新刊》第五轮 closeout**：
+当前主线已经从《求是新语》closeout、再到《我是天安门》closeout、《你是景福门》第五轮 closeout、《为自由招魂》第六轮 closeout、《你笨蛋，你笨蛋》第五轮 closeout、《我梦碎，所以我梦醒》第六轮 closeout、《李敖新刊》第五轮 closeout，转入 **《千秋万岁乌鸦求是合集》第三轮**：
 
-- 当前 `data/timeline-events-li-ao-xinkan.json`：**71 条**
+- 当前 `data/timeline-events-qianqiu-wansui-wuya-qiushi.json`：**81 条**
+- 第一轮新增 42 条：覆盖 `001-006 / 008-009 / 011 / 013 / 017-020 / 023-030 / 033-044 / 046-047 / 049-050 / 054 / 057-058 / 060` 的稳定署日、原载、重写和少量年份级节点。
+- 第二轮新增 9 条：补 `007` 五十闭关、`012` 侯德健来信/新格唱片/跋文、`014` 林浊水来信与民族观回应、`055` 狱中《快乐律》、`059` 邓维桢谈话感想。
+- 第三轮新增 30 条：专攻 `051.李敖著作年表` 的上半与独立出版节点，补入 1952-1959 早年发表/日记起讫，1964-1966 书籍出版，1971 香港《借古不讽今》，1979《李敖文存》《李敖文存二集》，1982《三情之书》，1983-1984《李敖千秋评论号外》四期与《战斗是检验党外的唯一标准》，1985《要把金针度与人》《能下床就是好猫》。
+- 第三轮去重原则：已由旧库强锚点覆盖的《传统下的独白》首书出版、《我给我画帽子》、《五十·五十·易》、1983《李敖全集》第七八册、部分提前查禁个案等不重造；本轮只补此前未稳固钉住的发表/出版层，并对《胡适评传》《孙逸仙和中国西化医学》《告别文坛十书》《借古不讽今》《能下床就是好猫》等挂回旧库相关链。
+- 下一轮建议：继续第四轮，仍专攻 `051` 下半最密的 1981-1985《千秋评论》《万岁评论》逐期出版/查禁链。做法应先查旧库已落的总起点、提前查禁个案、涨价线和误扣赔偿线；再把未覆盖的逐期出版节点按批次补入，查禁日期不明者只在出版摘要中注明“年表标注查禁”，不要伪造查禁日。
+
+上一条主线 **《李敖新刊》第五轮 closeout** 已完成：
+
+- 当前 `data/timeline-events-li-ao-xinkan.json
+data/timeline-events-qianqiu-wansui-wuya-qiushi.json`：**71 条**
 - 第一轮已收/复核章节：`《李敖新刊》总序 / 001-038`
 - 第一轮口径：先建立全书文末署日写作骨架，收 1988-07-04 到 1989-03-24 共 39 条；1989 年出版《李敖新刊》丛书总事件已由第八本 `book8-1989-li-ao-new-series-published` 覆盖，本轮只对总序互链，不重造出版总事件。
 - 第二轮新增 19 条：`029` 倪文亚书信链 6 条（1987-06-23 到 1987-07-22）；`026` 李登辉及五院院长伪造文书告发案 2 条；`033` 1964、1965 年间李敖说动萧孟能由文星为龚德柏出书 1 条；`031 / 032 / 036` 浮生记趣日常交游 10 条。
@@ -283,8 +293,10 @@ data/timeline-events-jingfumen.json                    57
 data/timeline-events-freedom-summoning.json            53
 data/timeline-events-ni-bendan.json                    44
 data/timeline-events-dream-awake.json                  17
-data/timeline-events-li-ao-xinkan.json                 71
-总计                                                  1793
+data/timeline-events-li-ao-xinkan.json
+data/timeline-events-qianqiu-wansui-wuya-qiushi.json                 81
+data/timeline-events-qianqiu-wansui-wuya-qiushi.json   81
+总计                                                  1874
 ```
 
 ### 工作目录与基本命令
