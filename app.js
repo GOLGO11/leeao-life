@@ -54,9 +54,10 @@ const dataFiles = [
   "./data/timeline-events-jingfumen.json",
   "./data/timeline-events-freedom-summoning.json",
   "./data/timeline-events-ni-bendan.json",
-  "./data/timeline-events-dream-awake.json"
+  "./data/timeline-events-dream-awake.json",
+  "./data/timeline-events-li-ao-xinkan.json"
 ];
-const dataVersion = "2026-05-03-dream-awake-round-06-closeout";
+const dataVersion = "2026-05-03-li-ao-xinkan-round-04";
 
 const dateFormatter = new Intl.DateTimeFormat("zh-Hant", {
   year: "numeric",
