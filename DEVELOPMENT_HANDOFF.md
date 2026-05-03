@@ -9,22 +9,22 @@
 ### 当前总状态
 
 - 项目路径：`/home/aihuashanying/leeao-life`
-- 当前总事件数：`1933`
+- 当前总事件数：`1977`
 - 当前全库校验：
 
 ```json
 {
-  "events": 1933,
+  "events": 1977,
   "dups": 0,
   "missingRefs": 0,
   "structuralBad": 0
 }
 ```
 
-- 纯文本总表表头当前应为：`事件总数：1933`
+- 纯文本总表表头当前应为：`事件总数：1977`
 - 当前前端版本号：
-  - `app.js` 的 `dataVersion`：`2026-05-03-qianqiu-wansui-round-05`
-  - `index.html` 的 CSS / JS query param：`2026-05-03-qianqiu-wansui-round-05`
+  - `app.js` 的 `dataVersion`：`2026-05-03-qianqiu-wansui-round-06`
+  - `index.html` 的 CSS / JS query param：`2026-05-03-qianqiu-wansui-round-06`
 
 ### 用户硬规则
 
@@ -57,16 +57,17 @@ iconv -f GB18030 -t UTF-8 "<章节路径>" | nl -ba
 
 ### 当前最自然的工作起点
 
-当前主线已经从《求是新语》closeout、再到《我是天安门》closeout、《你是景福门》第五轮 closeout、《为自由招魂》第六轮 closeout、《你笨蛋，你笨蛋》第五轮 closeout、《我梦碎，所以我梦醒》第六轮 closeout、《李敖新刊》第五轮 closeout，转入 **《千秋万岁乌鸦求是合集》第五轮**：
+当前主线已经从《求是新语》closeout、再到《我是天安门》closeout、《你是景福门》第五轮 closeout、《为自由招魂》第六轮 closeout、《你笨蛋，你笨蛋》第五轮 closeout、《我梦碎，所以我梦醒》第六轮 closeout、《李敖新刊》第五轮 closeout，转入 **《千秋万岁乌鸦求是合集》第六轮**：
 
-- 当前 `data/timeline-events-qianqiu-wansui-wuya-qiushi.json`：**140 条**
+- 当前 `data/timeline-events-qianqiu-wansui-wuya-qiushi.json`：**184 条**
 - 第一轮新增 42 条：覆盖稳定署日、原载、重写和少量年份级节点。
 - 第二轮新增 9 条：补五十闭关、侯德健/新格唱片、林浊水来信、狱中《快乐律》和邓维桢谈话线。
 - 第三轮新增 30 条：专攻 `051.李敖著作年表` 上半和独立出版节点，补早年发表、1964-1966 书籍出版、1971 香港《借古不讽今》、1979《文存》双书、1982《三情之书》、千秋评论号外和少数独立专书。
 - 第四轮新增 52 条：继续 `051` 下半，补《千秋评论》1-42、44-51 期逐期出版层；`43《五十·五十·易》`旧库已有精确出版与误扣赔偿链，不重造；另补 1984 与 1985 两组《万岁评论》逐期写文字/查禁范围节点。
 - 第四轮特殊处理：`39《流芳·遗臭·驴》`在本章作 1984-12-25 出版，但旧库《为什么涨价？》链据另一处文字作 1985-01-25 出版、1985-01-26 即有查禁命令，已用 `certainty=contested` 并互链旧库。
 - 第五轮新增 7 条：补 `031 / 032` 署期写作、`015` 自序写作与林世煜来电、`045` 苏治洋到李敖家送影印全卷与李敖写《拍卷惊奇》、`048`《记二马》署期写作；并给第八本、第五本、《为自由招魂》旧锚点补 `additionalSources` 与 reciprocal crossReferences。
-- 下一轮建议：做第六轮，从 `061-090` 开始向后推进，先扫文末署日、来信/电话/来访、日常动作和旧库重复锚点，特别留意 `087.黑牢忆趣`、`090.被禁忆趣`。
+- 第六轮新增 44 条：处理 `061-090`，补入密集署期写作、法律文书、来信/电话/来访与出版审查日常；代表节点包括 1982-08-28 “隐而不退”计划、居蜜来信与王小痴材料链、郭吉仁饭局、推事回避状、蔡仁坚留信、谢聪敏到李敖家叙旧、陈定炎来信、张烈查禁饭局与《被禁忆趣》。
+- 下一轮建议：做第七轮，从 `091-120` 开始向后推进，重点看 `092-099` 浮生一粲系列、`100.和胡茵梦有关的笑话`、`101.预官记趣`、`111.夜归题记`、`120.全美华人协会颁奖典礼录音答辞`。
 
 上一条主线 **《李敖新刊》第五轮 closeout** 已完成：
 
@@ -295,8 +296,8 @@ data/timeline-events-freedom-summoning.json            53
 data/timeline-events-ni-bendan.json                    44
 data/timeline-events-dream-awake.json                  17
 data/timeline-events-li-ao-xinkan.json                 71
-data/timeline-events-qianqiu-wansui-wuya-qiushi.json   140
-总计                                                  1933
+data/timeline-events-qianqiu-wansui-wuya-qiushi.json   184
+总计                                                  1977
 ```
 
 ### 工作目录与基本命令

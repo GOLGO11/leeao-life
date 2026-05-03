@@ -59,7 +59,16 @@
       "chapter": "006.李敖著作查禁清单及官方理由",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/008.李敖相关/006.李敖著作查禁清单及官方理由.txt",
       "line": 399
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "千秋万岁乌鸦求是合集",
+        "chapter": "088.钦佩陈定炎先生",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/088.钦佩陈定炎先生.txt",
+        "line": 9,
+        "note": "补述李敖1987年9月出版《孙中山研究》作为专书起点，并收入替陈炯明翻案文字。"
+      }
+    ]
   },
   {
     "id": "book8-1987-10-11-diplomacy-sex-and-foreign-affairs-suspended-for-one-year",
@@ -333,6 +342,13 @@
         "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/051.李敖著作年表.txt",
         "line": 101,
         "note": "著作年表列第27期1983年12月30日出版并标注查禁。"
+      },
+      {
+        "book": "千秋万岁乌鸦求是合集",
+        "chapter": "090.被禁忆趣",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/090.被禁忆趣.txt",
+        "line": 7,
+        "note": "补述第27期出版前装订厂抢书现场：李敖曾嘱弟弟不要把全部书集中，后因装订厂一次运入一万本被抢光。"
       }
     ]
   },
@@ -354,7 +370,17 @@
       "chapter": "004.中华民国作家作品目录——李敖",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/008.李敖相关/004.中华民国作家作品目录——李敖.txt",
       "line": 39
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "千秋万岁乌鸦求是合集",
+        "chapter": "089.武林旧事",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/089.武林旧事.txt",
+        "line": 9,
+        "note": "补述1980年第一梯次《李敖全集》六巨册付排时，警总书刊审查人员张烈经叶圣康安排与李敖午餐。"
+      }
+    ],
+    "crossReferences": ["qianqiu-wansui-1980-context-089-lunches-with-censor-zhang-lie", "qianqiu-wansui-1980-context-089-zhang-lie-phone-releases-six-volumes"]
   },
   {
     "id": "book8-1981-starts-li-ao-qianqiu-commentary-series",

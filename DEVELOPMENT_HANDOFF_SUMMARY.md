@@ -10,19 +10,19 @@
 ## 一、当前快照
 
 - 项目路径：`/home/aihuashanying/leeao-life`
-- 当前总事件数：**1933**
-- 当前最新轮次：`iteration: 194`
-- 当前数据版本：`2026-05-03-qianqiu-wansui-round-05`
+- 当前总事件数：**1977**
+- 当前最新轮次：`iteration: 195`
+- 当前数据版本：`2026-05-03-qianqiu-wansui-round-06`
 - 当前纯文本总表：`exports/leeao-current-timeline.txt`
 - 当前前端版本：
-  - `app.js` 的 `dataVersion`：`2026-05-03-qianqiu-wansui-round-05`
-  - `index.html` 的 CSS / JS query param：`2026-05-03-qianqiu-wansui-round-05`
+  - `app.js` 的 `dataVersion`：`2026-05-03-qianqiu-wansui-round-06`
+  - `index.html` 的 CSS / JS query param：`2026-05-03-qianqiu-wansui-round-06`
 
 当前全库校验应维持：
 
 ```json
 {
-  "events": 1933,
+  "events": 1977,
   "dups": 0,
   "missingRefs": 0,
   "structuralBad": 0
@@ -37,14 +37,14 @@
 
 ### 当前工作树状态
 
-当前工作树是 **dirty** 的，接手时不要回退现有改动。此时最重要的新增/修改已切到《千秋万岁乌鸦求是合集》第五轮：
+当前工作树是 **dirty** 的，接手时不要回退现有改动。此时最重要的新增/修改已切到《千秋万岁乌鸦求是合集》第六轮：
 
 - 新增：`data/timeline-events-li-ao-xinkan.json`、`data/timeline-events-qianqiu-wansui-wuya-qiushi.json`
 - 已同步：`app.js`、`tools/export-timeline-text.mjs`、`index.html`、`README.md`、`data/ingestion-log.json`、`DEVELOPMENT_HANDOFF.md`、`DEVELOPMENT_HANDOFF_SUMMARY.md`、`exports/leeao-current-timeline.txt`
 - 既有《你笨蛋，你笨蛋》数据文件维持 44 条 closeout 状态，不要回退。
 - `data/timeline-events-dream-awake.json` 第六轮 closeout 后保持 17 条。
 - `data/timeline-events-li-ao-xinkan.json` 第五轮 closeout 已推进到 71 条。
-- `data/timeline-events-qianqiu-wansui-wuya-qiushi.json` 第五轮已推进，当前 140 条。
+- `data/timeline-events-qianqiu-wansui-wuya-qiushi.json` 第六轮已推进，当前 184 条。
 
 ---
 
@@ -84,9 +84,9 @@
 ### 当前状态
 
 - 当前文件：`data/timeline-events-qianqiu-wansui-wuya-qiushi.json`
-- 当前条目数：**140**
-- 当前轮次：**第五轮完成**
-- 当前口径：前三轮完成稳定署日、正文动作与 `051` 上半/独立出版补缝；第四轮继续 `051` 下半，补齐《千秋评论》逐期出版层，并将《万岁评论》按来源精度收为范围组节点；第五轮补正文动作并加固旧库强锚点补源互链。
+- 当前条目数：**184**
+- 当前轮次：**第六轮完成**
+- 当前口径：前三轮完成稳定署日、正文动作与 `051` 上半/独立出版补缝；第四轮继续 `051` 下半，补齐《千秋评论》逐期出版层，并将《万岁评论》按来源精度收为范围组节点；第五轮补正文动作并加固旧库强锚点补源互链；第六轮处理 `061-090`，补密集署期写作、法律文书、通信会面与出版审查日常。
 - 已收/复核章节：`001-060`，其中 `051` 已完成两轮专题拆分。
 
 ### 当前口径
@@ -99,7 +99,9 @@
 
 第五轮新增 7 条：`031 / 032` 署期写作、`015` 自序写作与林世煜来电、`045` 苏治洋送影印全卷与李敖写《拍卷惊奇》、`048`《记二马》署期写作。`021 / 022 / 052 / 053 / 056` 无稳定署期或当事动作，keep-out。另给第八本、第五本、《为自由招魂》旧锚点补 `additionalSources` 与 reciprocal crossReferences。
 
-下一轮重点：做第六轮，从 `061-090` 开始向后推进，先扫文末署日、来信/电话/来访、日常动作和旧库重复锚点，特别留意 `087.黑牢忆趣`、`090.被禁忆趣`。
+第六轮新增 44 条：`061-090` 中除 `075` 未见署期外，大量署期写作、法律文书和正文动作入库；代表节点包括 1982-08-28 “隐而不退”计划、居蜜来信与王小痴材料链、郭吉仁饭局、推事回避状、蔡仁坚留信、谢聪敏到李敖家叙旧、陈定炎来信、张烈查禁饭局与《被禁忆趣》。黄中国、谢聪敏密函、《李敖全集》出版、第27期查禁等旧库强锚点只补源不重复造主事件。
+
+下一轮重点：做第七轮，从 `091-120` 开始向后推进，重点看 `092-099` 浮生一粲系列、`100.和胡茵梦有关的笑话`、`101.预官记趣`、`111.夜归题记`、`120.全美华人协会颁奖典礼录音答辞`。
 
 ## 四、上一主线：`《你笨蛋，你笨蛋》`
 
@@ -277,7 +279,7 @@
 
 ### 下一轮建议顺序
 
-当前主线《千秋万岁乌鸦求是合集》已完成第五轮，累计 140 条。下一步最自然是做第六轮：从 `061-090` 开始向后推进，先扫文末署日、来信/电话/来访、日常动作和旧库重复锚点，特别留意 `087.黑牢忆趣`、`090.被禁忆趣`。
+当前主线《千秋万岁乌鸦求是合集》已完成第六轮，累计 184 条。下一步最自然是做第七轮：从 `091-120` 开始向后推进，重点看 `092-099` 浮生一粲系列、`100.和胡茵梦有关的笑话`、`101.预官记趣`、`111.夜归题记`、`120.全美华人协会颁奖典礼录音答辞`。
 
 ### 下一轮具体在找什么
 
@@ -334,7 +336,7 @@
 
 先确认这些值没有漂：
 
-- 总事件数：`1933`
+- 总事件数：`1977`
 - `《求是新语》`：`70`
 - `《我是天安门》`：`40`
 - `《你是景福门》`：`57`
@@ -342,9 +344,9 @@
 - `《你笨蛋，你笨蛋》`：`44`
 - `《我梦碎，所以我梦醒》`：`17`
 - `《李敖新刊》`：`71`
-- `《千秋万岁乌鸦求是合集》`：`140`
-- `dataVersion = 2026-05-03-qianqiu-wansui-round-05`
-- `exports/leeao-current-timeline.txt` 表头：`事件总数：1933`
+- `《千秋万岁乌鸦求是合集》`：`184`
+- `dataVersion = 2026-05-03-qianqiu-wansui-round-06`
+- `exports/leeao-current-timeline.txt` 表头：`事件总数：1977`
 
 ### 快速命令
 
@@ -382,12 +384,12 @@ node --check tools/export-timeline-text.mjs
 
 ```json
 {
-  "events": 1933,
+  "events": 1977,
   "freedom": 53,
   "niBendan": 44,
   "dreamAwake": 17,
   "liAoXinkan": 71,
-  "qianqiuWansui": 140,
+  "qianqiuWansui": 184,
   "dups": 0,
   "missingRefs": 0,
   "structuralBad": 0
@@ -398,4 +400,4 @@ node --check tools/export-timeline-text.mjs
 
 ## 十、一句话交给下一位
 
-> **《千秋万岁乌鸦求是合集》已完成第五轮：累计 140 条；已补 `015 / 031-032 / 045 / 048` 正文动作并给旧库强锚点补源互链。下一位默认做第六轮，从 `061-090` 开始向后推进，先扫文末署日、来信/电话/来访、日常动作和旧库重复锚点。**
+> **《千秋万岁乌鸦求是合集》已完成第六轮：累计 184 条；`061-090` 已补署期写作、法律文书、通信会面与出版审查日常，并对旧库强锚点补源。下一位默认做第七轮，从 `091-120` 开始，重点看浮生一粲系列、胡茵梦、预官记趣、夜归题记和全美华人协会答辞。**
