@@ -150,7 +150,17 @@
       "chapter": "003.中华民国现代名人录——李敖",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/008.李敖相关/003.中华民国现代名人录——李敖.txt",
       "line": 7
-    }
+    },
+    "crossReferences": ["qianqiu-wansui-1990-10-29-120-records-naca-award-acceptance-speech"],
+    "additionalSources": [
+      {
+        "book": "千秋万岁乌鸦求是合集",
+        "chapter": "120.全美华人协会颁奖典礼录音答辞",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/120.全美华人协会颁奖典礼录音答辞.txt",
+        "line": 5,
+        "note": "补出李敖因与台湾国民党政府纠缠无法赴美，委请好友代为出席、领奖并发表录音答辞。"
+      }
+    ]
   },
   {
     "id": "book8-1999-12-07-china-times-reports-directory-now-includes-li-ao",

@@ -1,9 +1,9 @@
 ﻿李敖交互式年表：当前增量纯文本备份
 生成日期：2026-05-03
-事件总数：1977
+事件总数：2025
 数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json；data/timeline-events-ni-bendan.json；data/timeline-events-dream-awake.json；data/timeline-events-li-ao-xinkan.json；data/timeline-events-qianqiu-wansui-wuya-qiushi.json
 说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。
-日期精度统计：day=1606；year=90；year-range=8；undated-range=1；undated-context=140；season=25；lunar-day=1；year-after=7；month=47；half-year=2；school-year-context=5；day-range=13；month-after=3；year-context=6；day-after=4；year-about=5；month-context=1；day-context=4；range-context=3；before-date-context=4；after-date-context=1；year-end=1
+日期精度统计：day=1639；year=90；year-range=11；undated-range=1；undated-context=140；season=25；lunar-day=1；year-after=7；month=47；half-year=2；school-year-context=5；day-range=14；month-after=3；year-context=11；day-after=4；year-about=5；month-context=1；day-context=4；range-context=9；before-date-context=4；after-date-context=1；year-end=1
 
 
 1935
@@ -2507,7 +2507,7 @@
   作品：李敖回忆录
   交叉引用：-
   来源：李敖回忆录 / 008.军队（1959-1961·24到26岁） / line 3
-  补充来源：-
+  补充来源：千秋万岁乌鸦求是合集 / 101.预官记趣 / line 3；说明：补述李敖称1959年9月9日起开始第八期预备军官训练，并留下日记。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/008.军队（1959-1961·24到26岁）.txt
   数据：data/timeline-events-fourth-book.json#book4-1959-09-07-reserve-officer-training-begins
 - 1959年9月7日早上8点半 | 李敖南下凤山时获台中友人送行
@@ -2704,7 +2704,7 @@
   作品：李敖回忆录
   交叉引用：-
   来源：李敖回忆录 / 008.军队（1959-1961·24到26岁） / line 29
-  补充来源：-
+  补充来源：千秋万岁乌鸦求是合集 / 101.预官记趣 / line 25；说明：补述1960年3月3日从步校出发下部队途中偷拆思想考核资料袋，看到“思想游移，媚外思想甚重”。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/008.军队（1959-1961·24到26岁）.txt
   数据：data/timeline-events-fourth-book.json#book4-1960-03-03-leaves-infantry-school-for-unit
 - 1960年3月5日 | 李敖到部队第三天写信给母亲
@@ -3005,7 +3005,7 @@
   作品：我最难忘的一位老师、我最难忘的一个老兵、李敖回忆录、李敖快意恩仇录
   交叉引用：-
   来源：李敖自传与回忆 / 003.我最难忘的一位老师 / line 118
-  补充来源：我最难忘的事和人 / 011.我最难忘的一个老兵 / line 35；说明：补充张永亭送到码头与李敖赏十元等退伍日细节。；李敖回忆录 / 008.军队（1959-1961·24到26岁） / line 75；说明：同一退伍送行事件的第四本来源。；李敖快意恩仇录 / 007.委蜕纪 / line 5；说明：补充退伍当日午后抵达高雄。
+  补充来源：我最难忘的事和人 / 011.我最难忘的一个老兵 / line 35；说明：补充张永亭送到码头与李敖赏十元等退伍日细节。；李敖回忆录 / 008.军队（1959-1961·24到26岁） / line 75；说明：同一退伍送行事件的第四本来源。；李敖快意恩仇录 / 007.委蜕纪 / line 5；说明：补充退伍当日午后抵达高雄。；千秋万岁乌鸦求是合集 / 101.预官记趣 / line 3；说明：补述李敖在预官日记整理时回望1961年2月6日退伍，视为1959-1961军人生涯终点。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/003.我最难忘的一位老师.txt
   数据：data/timeline-events-first-book-supplement.json#1961-02-06-return-warship
 - 1961-02-15 | 退伍后回到台大
@@ -5104,7 +5104,7 @@
   作品：文星、从三文件看辅仁大学文学院、李敖回忆录
   交叉引用：book4-1964-09-01-wenxing-publishes-interior-ministry-letter
   来源：李敖回忆录 / 020.前程（1997-·62岁以后） / line 25
-  补充来源：-
+  补充来源：千秋万岁乌鸦求是合集 / 098.浮生一粲六续 / line 7；说明：本卷重述方豪化名“沈沉”与《从三文件看辅仁大学文学院》引发教会追查的经过。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/020.前程（1997-·62岁以后）.txt
   数据：data/timeline-events-fourth-book-deepening.json#book4-deep-1964-09-01-three-documents-fujen-college
 - 1964-09-02 | 陶希圣在《中央日报》写《保全台大的名誉》批李敖
@@ -5351,7 +5351,7 @@
   作品：文星、李敖回忆录
   交叉引用：book4-deep-1964-09-01-three-documents-fujen-college、book4-deep-1964-09-after-fanghao-asks-li-to-publish-notice
   来源：李敖回忆录 / 020.前程（1997-·62岁以后） / line 29
-  补充来源：-
+  补充来源：千秋万岁乌鸦求是合集 / 098.浮生一粲六续 / line 7；说明：补述徐神父到《文星》要求证明作者、李敖拒绝并反制的细节。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/020.前程（1997-·62岁以后）.txt
   数据：data/timeline-events-fourth-book-deepening.json#book4-deep-1964-09-after-xu-xiguang-investigates-wenxing
 - 1964年10月3日至4日 | 李敖写信给 H，谈聚会、腿和男性凝视
@@ -5416,9 +5416,22 @@
   作品：李敖回忆录
   交叉引用：book4-deep-1964-09-after-xu-xiguang-investigates-wenxing
   来源：李敖回忆录 / 020.前程（1997-·62岁以后） / line 31
-  补充来源：-
+  补充来源：千秋万岁乌鸦求是合集 / 098.浮生一粲六续 / line 7；说明：补述方豪后来偷偷请李敖吃饭并说“跟你一起奋斗，吓死人了”。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/020.前程（1997-·62岁以后）.txt
   数据：data/timeline-events-fourth-book-deepening.json#book4-deep-1964-autumn-fanghao-secret-meal-after-fujen-case
+- 1964年彭明敏案发生后 | 李焕请李敖吃饭，侧探彭明敏案宣言是否经他润色
+  精度：year-context；可靠度：contextual；排序日期：1964-12-31
+  摘要：《浮生一粲二续》追述，彭明敏、谢聪敏、魏廷朝叛乱案宣言文笔甚佳，国民党怀疑出自李敖之手。案发后李焕请李敖吃饭，席间侧面试探宣言是否经他润色；李敖答称自己尚未看过宣言内容。
+  人物：李敖、李焕、彭明敏、谢聪敏、魏廷朝
+  地点：台湾
+  标签：千秋万岁乌鸦求是合集、浮生一粲二续、李焕、彭明敏案、谢聪敏、魏廷朝
+  视图：政治线、交游线、司法线
+  作品：千秋万岁乌鸦求是合集、浮生一粲二续
+  交叉引用：book5-1964-peng-case-refuses-remorse-letter
+  来源：千秋万岁乌鸦求是合集 / 094.浮生一粲二续 / line 9
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/094.浮生一粲二续.txt
+  数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1964-context-094-li-huan-tests-peng-declaration-authorship
 - 1964年彭明敏案后 | 李敖拒为彭明敏起草悔过上书
   精度：year；可靠度：confirmed；排序日期：1964-12-31
   摘要：《彭尸纪》写，彭明敏、谢聪敏、魏廷朝因“台湾人民自救宣言”案被捕后，有人希望李敖代拟悔过、求告式文字；李敖认为这会伤害人格与气节，坚决拒绝。
@@ -6822,7 +6835,7 @@
   作品：李敖新刊、大学生岂可请愿！
   交叉引用：liao-xinkan-1988-08-19-006-students-petition
   来源：李敖新刊 / 006.大学生岂可请愿！ / line 3
-  补充来源：-
+  补充来源：千秋万岁乌鸦求是合集 / 094.浮生一粲二续 / line 11；说明：同一余传韬回台、徐钟珮介绍、李敖建议其组织新党旧事的本卷重述。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/012.李敖新刊/006.大学生岂可请愿！.txt
   数据：data/timeline-events-li-ao-xinkan.json#liao-xinkan-1960s-context-xu-zhongpei-introduces-yu-chuantao
 - 叶明勋任《自立晚报》社长期间（1959-1965） | 叶明勋秘藏李子弋请李敖写《自立晚报》专栏之事
@@ -7895,6 +7908,19 @@
   补充来源：为自由招魂 / 006.流血的自由 / line 55；说明：异名版本《流血的自由》，对应同一1967年写作时点
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/005.李敖文存二集/011.论没有“流血的自由”.txt
   数据：data/timeline-events-wencun-two.json#wencun-two-1967-crackdown-writers-no-blood-freedom
+- 离开《文星》后无以维生时 | 李敖与李世君以“OK李”名义收购旧电器谋生
+  精度：year-context；可靠度：contextual；排序日期：1967-12-31
+  摘要：《浮生一粲二续》追述，李敖遭国民党迫害、离开《文星》后一度无以维生，便与李世君以“OK李”为名在英文报登广告，收购外国人旧电器再转手出售，也因此结交演艺圈与赌友。
+  人物：李敖、李世君
+  地点：台北、台湾
+  标签：千秋万岁乌鸦求是合集、浮生一粲二续、OK李、文星、谋生、旧电器
+  视图：生平线、日常线、文星线
+  作品：千秋万岁乌鸦求是合集、浮生一粲二续
+  交叉引用：-
+  来源：千秋万岁乌鸦求是合集 / 094.浮生一粲二续 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/094.浮生一粲二续.txt
+  数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1967-context-094-ok-li-used-appliance-business
 
 1968
 - 1968年1月10日 | 李敖写《〈左舜生选集〉序》
@@ -8982,6 +9008,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/051.李敖著作年表.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1971-051-jiegubufengjin-published-in-hongkong
+- 1971年秘密军法审判期间 | 李敖在秘密军法审判中沉默，以耶稣受审回应军法官
+  精度：year-context；可靠度：contextual；排序日期：1971-12-31
+  摘要：《浮生一粲七续》追述，李敖与魏廷朝同受秘密军法审判时，李敖夷然不发一语。军法官问他为什么不说话，他答“耶稣被审判时也不说话”；魏廷朝在旁急着说要替李敖说话，使李敖几乎忍不住笑。
+  人物：李敖、魏廷朝
+  地点：台湾
+  标签：千秋万岁乌鸦求是合集、浮生一粲七续、秘密军法审判、魏廷朝、沉默、1971
+  视图：司法线、监狱线、政治线
+  作品：千秋万岁乌鸦求是合集、浮生一粲七续
+  交叉引用：-
+  来源：千秋万岁乌鸦求是合集 / 099.浮生一粲七续 / line 7
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/099.浮生一粲七续.txt
+  数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1971-context-099-silent-at-secret-military-trial
 - 李敖被捕后 | 王敬羲在《南北极》上支持入狱后的李敖
   精度：undated-context；可靠度：confirmed；排序日期：1971-12-31
   摘要：《根株纪》写，李敖被捕入狱后，王敬羲曾在香港《南北极》上支持李敖；李敖后来回顾王敬羲时，把这件事和王后来散布不利传闻并列，显示两人关系的反复。
@@ -9205,6 +9244,45 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/411.从二号房到十一号房.txt
   数据：data/timeline-events-seventh-book.json#book7-1972-07-moves-from-room-2-to-room-11-at-jingmei-detention
+- 1971-1976年军法处禁报期间 | 李敖在军法处误听《往事只能回味》歌词
+  精度：year-range；可靠度：contextual；排序日期：1972-12-31
+  摘要：《浮生一粲三续》追述，李敖在军法处多年不能看报，消息多靠新进牢人口耳相传，流行歌曲倒听到不少。他把刘家昌《往事只能回味》末句听成“我只好另外找一位”，出狱后见到歌词才恍然失笑，并觉得误听反而更积极。
+  人物：李敖、刘家昌
+  地点：军法处、台湾
+  标签：千秋万岁乌鸦求是合集、浮生一粲三续、往事只能回味、刘家昌、禁报、牢狱日常
+  视图：监狱线、日常线、文化线
+  作品：千秋万岁乌鸦求是合集、浮生一粲三续、往事只能回味
+  交叉引用：-
+  来源：千秋万岁乌鸦求是合集 / 095.浮生一粲三续 / line 11
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/095.浮生一粲三续.txt
+  数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1972-context-095-mishears-liu-jiachang-song
+- 1971-1976年景美军法处押房期间 | “毛真好”被窃听误会成政治问题
+  精度：year-range；可靠度：contextual；排序日期：1972-12-31
+  摘要：《浮生一粲三续》写，李敖把父亲东北旧猞猁皮袍带入牢房御寒，“欧卡曾”摸着皮毛连说“毛真好”。由于牢房扩音器同时也是窃听器，次日他被叫去调查是否称赞毛泽东，费尽力气才解释过关。
+  人物：李敖、欧卡曾、毛泽东
+  地点：景美军法处、台湾
+  标签：千秋万岁乌鸦求是合集、浮生一粲三续、毛真好、窃听器、景美军法处、欧卡曾
+  视图：监狱线、日常线、白色恐怖线
+  作品：千秋万岁乌鸦求是合集、浮生一粲三续
+  交叉引用：1983-04-13-thief-memory
+  来源：千秋万岁乌鸦求是合集 / 095.浮生一粲三续 / line 9
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/095.浮生一粲三续.txt
+  数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1972-context-095-lux-fur-robe-mao-zhenhao-wiretap
+- 1971-1976年景美军法处押房期间 | 李敖在景美军法处与小偷“欧卡曾”同押一房
+  精度：year-range；可靠度：contextual；排序日期：1972-12-31
+  摘要：《浮生一粲三续》追述，李敖在景美军法处押房时，曾与一个十九岁、无所不偷的小偷同住一房。李敖用台湾话给他起外号“欧卡曾”，对方承诺出狱后要找脱衣舞女到李敖窗下表演，逗得李敖坐牢多年少有地大笑。
+  人物：李敖、欧卡曾
+  地点：景美军法处、台湾
+  标签：千秋万岁乌鸦求是合集、浮生一粲三续、景美军法处、欧卡曾、牢狱日常
+  视图：监狱线、日常线
+  作品：千秋万岁乌鸦求是合集、浮生一粲三续
+  交叉引用：1983-04-13-thief-memory
+  来源：千秋万岁乌鸦求是合集 / 095.浮生一粲三续 / line 7
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/095.浮生一粲三续.txt
+  数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1972-context-095-shares-cell-with-okazeng
 
 1973
 - 1973年1月24日 | 开始写给女儿李文的狱中家书
@@ -9388,7 +9466,7 @@
   作品：只爱一点点、李敖回忆录
   交叉引用：-
   来源：李敖回忆录 / 020.前程（1997-·62岁以后） / line 187
-  补充来源：-
+  补充来源：千秋万岁乌鸦求是合集 / 115.多情却似总少情 / line 13；说明：李敖1990年谈爱情观时回引1974年牢中诗《只爱一点点》。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/020.前程（1997-·62岁以后）.txt
   数据：data/timeline-events-fourth-book-deepening.json#book4-deep-1974-prison-poem-only-love-a-little
 - 1974年某一天（约39年前） | 李敖在狱中写出《忘了我是谁》歌词
@@ -10755,6 +10833,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/011.我梦碎，所以我梦醒/043.“老贼”又梦碎.txt
   数据：data/timeline-events-dream-awake.json#dream-awake-1980-05-06-hu-gengnian-dinner-legislator-silence-question
+- 1980年5月8日夜（结婚第三天） | 李敖与胡茵梦婚后第三夜接到自称中视导播的威胁电话
+  精度：day；可靠度：inferred；排序日期：1980-05-08
+  摘要：《浮生一粲五续》追述，李敖与胡茵梦结婚第三天夜里三点多，有人自称中视林导播打电话找胡茵梦，并威胁公布床上照片。李敖回应说胡茵梦婚前列过名单，名单里没有此人，若真有照片便公布好了。
+  人物：李敖、胡茵梦
+  地点：台湾
+  标签：千秋万岁乌鸦求是合集、浮生一粲五续、胡茵梦、中视、威胁电话、1980
+  视图：婚恋线、日常线
+  作品：千秋万岁乌鸦求是合集、浮生一粲五续
+  交叉引用：book4-1980-05-06-li-marries-hu-yinmeng
+  来源：千秋万岁乌鸦求是合集 / 097.浮生一粲五续 / line 15
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/097.浮生一粲五续.txt
+  数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1980-05-08-097-marriage-third-night-fake-director-call
 - 1980年6月26日 | 胡茵梦致王剑芬存证信承认借名登记
   精度：day；可靠度：confirmed；排序日期：1980-06-26
   摘要：李敖引用1980年6月26日胡茵梦致王剑芬第二十号存证信，称李敖要送房子给她她当面拒绝，但同意借名登记。
@@ -10830,7 +10921,7 @@
   作品：李敖回忆录
   交叉引用：-
   来源：李敖回忆录 / 016.复出（1979-1981·44到46岁） / line 75
-  补充来源：-
+  补充来源：千秋万岁乌鸦求是合集 / 097.浮生一粲五续 / line 17；说明：补述李敖送离婚书与玫瑰花、两人相拥拍离婚照的细节。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/016.复出（1979-1981·44到46岁）.txt
   数据：data/timeline-events-fourth-book.json#book4-1980-08-28-li-announces-divorce-from-hu
 - 1980年8月28日 | 李敖在胡因梦发表官方口径声明后决定离婚
@@ -11028,6 +11119,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/012.东郭纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1980-after-marriage-hu-yinmeng-proposes-bai-yang-dinner
+- 萧孟能婚变纠纷期间 | 李敖陪萧孟能太太去找萧孟能理论
+  精度：year-context；可靠度：contextual；排序日期：1980-12-31
+  摘要：《浮生一粲五续》追述，萧孟能把十五户房地过户给王剑芬及其亲友名下后要离婚，萧太太生活困难。李敖认为不平，陪她去找萧孟能理论，后来被国民党新闻界渲染为“捉奸案”；当晚段宏俊也在场，并与王剑芬斗嘴。
+  人物：李敖、萧孟能、萧太太、王剑芬、段宏俊
+  地点：台湾
+  标签：千秋万岁乌鸦求是合集、浮生一粲五续、萧孟能、萧太太、王剑芬、段宏俊、捉奸案
+  视图：司法线、交游线、日常线
+  作品：千秋万岁乌鸦求是合集、浮生一粲五续
+  交叉引用：bobo-song-1981-overt-and-covert-hypocrites、book2-1984-08-16-li-accuses-xiao-false-charge
+  来源：千秋万岁乌鸦求是合集 / 097.浮生一粲五续 / line 9
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/097.浮生一粲五续.txt
+  数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1980-context-097-accompanies-xiao-wife-to-confront-xiao-mengneng
 
 1981
 - 1981年1月5日 | 刘峯松移送台北监狱前被独居第四十六房
@@ -11742,7 +11846,7 @@
   作品：李敖回忆录
   交叉引用：-
   来源：李敖回忆录 / 017.“二进宫”（1981-1982·46岁） / line 35
-  补充来源：-
+  补充来源：千秋万岁乌鸦求是合集 / 100.和胡茵梦有关的笑话 / line 5；说明：本卷重述土城看守所第二天放封时各路角头称李敖为“胡茵梦的丈夫”。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/017.“二进宫”（1981-1982·46岁）.txt
   数据：data/timeline-events-fourth-book.json#book4-1981-first-release-recognized-as-hu-yinmeng-husband
 - 约1981年二进宫期间 | 李敖与刘峰松的来往书信在土城遭特别检查与抄录
@@ -12942,7 +13046,7 @@
   作品：我最难忘的一个小偷
   交叉引用：-
   来源：李敖自传与回忆 / 010.我最难忘的一个小偷 / line 21
-  补充来源：-
+  补充来源：千秋万岁乌鸦求是合集 / 095.浮生一粲三续 / line 7；说明：1989年再述军法处小偷“欧卡曾”旧事。；千秋万岁乌鸦求是合集 / 095.浮生一粲三续 / line 9；说明：1989年再述猞猁皮袍“毛真好”窃听误会。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/010.我最难忘的一个小偷.txt
   数据：data/timeline-events-first-book-supplement.json#1983-04-13-thief-memory
 - 1983年5月1日 | 《千秋评论》第21期《粗心·细姨·毛》出版
@@ -13701,6 +13805,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/006.波波颂/022.江南，根本没有春天.txt
   数据：data/timeline-events-bobo-song.json#bobo-song-1984-01-26-jiangnan-has-no-spring
+- 1984年1月29日 | 李敖意译《张三李四一起倒霉诗》
+  精度：day；可靠度：confirmed；排序日期：1984-01-29
+  摘要：《张三李四一起倒霉诗》写，1984年1月29日李敖曾意译一首可题为“张三李四一起倒霉诗”的短诗。1990年5月7日重写此题时，他把旧译稿重新收入文中。
+  人物：李敖
+  地点：台湾
+  标签：千秋万岁乌鸦求是合集、张三李四一起倒霉诗、意译、诗、1984
+  视图：写作线、作品线
+  作品：千秋万岁乌鸦求是合集、张三李四一起倒霉诗
+  交叉引用：-
+  来源：千秋万岁乌鸦求是合集 / 114.张三李四一起倒霉诗 / line 15
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/114.张三李四一起倒霉诗.txt
+  数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1984-01-29-114-translates-zhangsan-lisi-poem
 - 1984年2月3日 | 李敖写公开信要求孙观汉就柏杨恩怨表态
   精度：day；可靠度：confirmed；排序日期：1984-02-03
   摘要：《东郭纪》写，由于孙观汉当年与李敖同谋营救柏杨，李敖于1984年2月3日写公开信给孙观汉，要求他对柏杨、李敖之间的恩怨与营救内幕表态。
@@ -14753,7 +14870,7 @@
   作品：李敖风流自传
   交叉引用：book7-1987-01-14-high-court-hearing-xiao-mengneng-false-accusation-case-first-mediation、book4-1980-08-28-li-announces-divorce-from-hu
   来源：李敖风流自传 / 483.四点结局 / line 5
-  补充来源：-
+  补充来源：千秋万岁乌鸦求是合集 / 100.和胡茵梦有关的笑话 / line 19；说明：本卷全文摘录1985年4月2日日记，补强胡茵梦寒暄与挖苦萧孟能“欠我十天”的同场细节。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/483.四点结局.txt
   数据：data/timeline-events-seventh-book.json#book7-1985-04-02-greets-hu-yinmeng-and-jokes-with-xiao-mengneng-after-court
 - 1985年4月4日（由文末日期推得） | 胡因子等涉嫌背信案开侦查庭
@@ -18482,6 +18599,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/005.世论新语/064.屋顶上的反对党.txt
   数据：data/timeline-events-shilun-xinyu.json#shilun-xinyu-1989-09-04-rooftop-opposition-party
+- 1989年9月5日 | 李敖写《为胡秋原的迫害举证》
+  精度：day；可靠度：confirmed；排序日期：1989-09-05
+  摘要：《为胡秋原的迫害举证》署1989年9月5日。李敖针对韦政通、王晓波谈殷海光受迫害资料一事，指出胡秋原当年材料本已公开刊载并构成迫害链。
+  人物：李敖、胡秋原、殷海光、韦政通、王晓波
+  地点：台湾
+  标签：千秋万岁乌鸦求是合集、为胡秋原的迫害举证、胡秋原、殷海光、韦政通、王晓波、1989
+  视图：写作线
+  作品：千秋万岁乌鸦求是合集、为胡秋原的迫害举证
+  交叉引用：-
+  来源：千秋万岁乌鸦求是合集 / 102.为胡秋原的迫害举证 / line 13
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/102.为胡秋原的迫害举证.txt
+  数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1989-09-05-102-writes-evidence-of-hu-qiuyuan-persecution
 - 1989年9月6日早上8点57分 | 李敖批评武士嵩节目把刘备的话说成叶曼格言
   精度：day；可靠度：inferred；排序日期：1989-09-06
   摘要：《恶“视”传千里》正文直接记“9月6日早上8点57分”华视节目画面，把刘备对阿斗的话误作叶曼格言。结合《世论新语》1989年专栏语境，这条可保守落为 1989年9月6日。
@@ -19522,6 +19652,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/087.黑牢忆趣.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1989-11-29-087-hsieh-tsungmin-visits-li-home
+- 1989年12月3日 | 李敖写《“子见南子”捉古》
+  精度：day；可靠度：confirmed；排序日期：1989-12-03
+  摘要：《“子见南子”捉古》署1989年12月3日。李敖以林语堂《子见南子》旧案为题，追索反孔、尊孔与政治权力之间的历史纠葛。
+  人物：李敖、林语堂
+  地点：台湾
+  标签：千秋万岁乌鸦求是合集、子见南子、林语堂、反孔、历史论述、1989
+  视图：写作线
+  作品：千秋万岁乌鸦求是合集、“子见南子”捉古
+  交叉引用：-
+  来源：千秋万岁乌鸦求是合集 / 105.“子见南子”捉古 / line 15
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/105.“子见南子”捉古.txt
+  数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1989-12-03-105-writes-catching-ancient-zijian-nanzi
 - 1989年12月3日 | 李敖写《黑牢忆趣》
   精度：day；可靠度：confirmed；排序日期：1989-12-03
   摘要：《黑牢忆趣》署1989年12月3日。李敖回忆两次国民党黑牢中的苦中作乐、台独案侦讯、谢聪敏密函、蔡俊军、许性德、黄中国等狱中片段。
@@ -19548,6 +19691,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/002.我最难忘的一场演讲.txt
   数据：data/timeline-events-third-book.json#book3-1989-12-04-chiao-tung-letter
+- 1989年12月5日 | 李敖写《“子见南子”证今》
+  精度：day；可靠度：confirmed；排序日期：1989-12-05
+  摘要：《“子见南子”证今》署1989年12月5日。李敖承接《“子见南子”捉古》，引用孔德懋、张默生、鲁迅等材料，继续论证《子见南子》事件在现代政治文化中的意义。
+  人物：李敖、孔德懋、张默生、鲁迅
+  地点：台湾
+  标签：千秋万岁乌鸦求是合集、子见南子、孔德懋、张默生、鲁迅、1989
+  视图：写作线
+  作品：千秋万岁乌鸦求是合集、“子见南子”证今
+  交叉引用：-
+  来源：千秋万岁乌鸦求是合集 / 106.“子见南子”证今 / line 21
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/106.“子见南子”证今.txt
+  数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1989-12-05-106-writes-zijian-nanzi-modern-proof
 - 1989年12月6日 | 李敖借“全家只有一条裤子”追问中国苦贫与核子政策
   精度：day；可靠度：inferred；排序日期：1989-12-06
   摘要：《中国没裤子穿的问题》文末明确署“1989年12月6日”。李敖从香港《解放月报》转载的西北贫困实录谈起，抓住少女冬梅因家里唯一一条裤子被母亲穿走而只能裹被躺在炕上的细节，追问中国贫穷并非共产制度一手造成，却也始终没被真正改善；国家宁肯“没有裤子也要核子”的路线究竟值不值得。
@@ -19574,6 +19730,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/006.求是新语/051.赵少康的是与非.txt
   数据：data/timeline-events-qiushi-xinyu.json#qiushi-xinyu-1989-12-06-chao-shao-kang-central-daily-attack
+- 1989年12月6日（文中“前天”） | 段宏俊来电打趣李敖“骂的人都当选了”
+  精度：day；可靠度：inferred；排序日期：1989-12-06
+  摘要：《和胡茵梦有关的笑话》署1989年12月8日，文中说“前天”段宏俊打电话给李敖，打趣说李敖文章骂的人都当选了。李敖顺势提到段宏俊是自己与胡茵梦离婚证书的见证人，并把选举结果也编入笑话。
+  人物：李敖、段宏俊、胡茵梦
+  地点：台湾
+  标签：千秋万岁乌鸦求是合集、和胡茵梦有关的笑话、段宏俊、胡茵梦、选举、1989
+  视图：通信线、交游线、政治线
+  作品：千秋万岁乌鸦求是合集、和胡茵梦有关的笑话
+  交叉引用：-
+  来源：千秋万岁乌鸦求是合集 / 100.和胡茵梦有关的笑话 / line 17
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/100.和胡茵梦有关的笑话.txt
+  数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1989-12-06-100-duan-hongjun-phone-about-election-jokes
 - 1989年12月7日 | 李敖写《钦佩陈定炎先生》
   精度：day；可靠度：confirmed；排序日期：1989-12-07
   摘要：《钦佩陈定炎先生》署1989年12月7日。李敖由吕坤“替人辩冤白谤”谈起，记述《孙中山研究》后与陈炯明之子陈定炎联系，并赞其长期搜集陈炯明资料。
@@ -19600,6 +19769,71 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/006.求是新语/069.民进党的公函问题.txt
   数据：data/timeline-events-qiushi-xinyu.json#qiushi-xinyu-1989-12-07-dpp-hsinchu-branch-blocks-shih-hsing-chung
+- 1989年12月8日 | 李敖写《和胡茵梦有关的笑话》
+  精度：day；可靠度：confirmed；排序日期：1989-12-08
+  摘要：《和胡茵梦有关的笑话》署1989年12月8日。李敖把汪荣祖饭局、土城放封、官方作家目录、胡赓年、段宏俊电话和1985年地检处日记等材料，编成围绕胡茵梦的系列笑话。
+  人物：李敖、胡茵梦、汪荣祖、段宏俊、萧孟能、胡赓年
+  地点：台湾
+  标签：千秋万岁乌鸦求是合集、和胡茵梦有关的笑话、胡茵梦、汪荣祖、段宏俊、萧孟能、1989
+  视图：写作线
+  作品：千秋万岁乌鸦求是合集、和胡茵梦有关的笑话
+  交叉引用：book4-1981-first-release-recognized-as-hu-yinmeng-husband、book7-1985-04-02-greets-hu-yinmeng-and-jokes-with-xiao-mengneng-after-court
+  来源：千秋万岁乌鸦求是合集 / 100.和胡茵梦有关的笑话 / line 23
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/100.和胡茵梦有关的笑话.txt
+  数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1989-12-08-100-writes-jokes-about-hu-yinmeng
+- 1989年12月9日 | 李敖写《浮生一粲》
+  精度：day；可靠度：confirmed；排序日期：1989-12-09
+  摘要：《浮生一粲》署1989年12月9日。李敖以短札方式写母亲、父亲、台中一中、妹妹、阎孟华等家族与师友轶事。
+  人物：李敖、张桂贞、程国强、阎孟华
+  地点：台湾
+  标签：千秋万岁乌鸦求是合集、浮生一粲、家族记忆、台中一中、1989
+  视图：写作线
+  作品：千秋万岁乌鸦求是合集、浮生一粲
+  交叉引用：-
+  来源：千秋万岁乌鸦求是合集 / 092.浮生一粲 / line 17
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/092.浮生一粲.txt
+  数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1989-12-09-092-writes-floating-life-note
+- 1989年12月10日 | 李敖写《浮生一粲一续》
+  精度：day；可靠度：confirmed；排序日期：1989-12-10
+  摘要：《浮生一粲一续》署1989年12月10日。李敖续写吴晓瑁、刘家昌、江青、居浩然等交游轶事，并把旧日酒肉朋友生活纳入自省。
+  人物：李敖、刘家昌、江青、刘维斌、居浩然
+  地点：台湾
+  标签：千秋万岁乌鸦求是合集、浮生一粲一续、刘家昌、江青、居浩然、1989
+  视图：写作线
+  作品：千秋万岁乌鸦求是合集、浮生一粲一续
+  交叉引用：-
+  来源：千秋万岁乌鸦求是合集 / 093.浮生一粲一续 / line 15
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/093.浮生一粲一续.txt
+  数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1989-12-10-093-writes-floating-life-note-first-sequel
+- 1989年12月11日 | 李敖写《浮生一粲二续》
+  精度：day；可靠度：confirmed；排序日期：1989-12-11
+  摘要：《浮生一粲二续》署1989年12月11日。李敖回忆离开《文星》后的生活谋生、李焕试探彭明敏案宣言，以及余传韬回台时的政治建议。
+  人物：李敖、李世君、李焕、余传韬、徐钟珮、彭明敏
+  地点：台湾
+  标签：千秋万岁乌鸦求是合集、浮生一粲二续、文星、李焕、余传韬、彭明敏案、1989
+  视图：写作线
+  作品：千秋万岁乌鸦求是合集、浮生一粲二续
+  交叉引用：-
+  来源：千秋万岁乌鸦求是合集 / 094.浮生一粲二续 / line 13
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/094.浮生一粲二续.txt
+  数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1989-12-11-094-writes-floating-life-note-second-sequel
+- 1989年12月12日 | 李敖写《浮生一粲三续》
+  精度：day；可靠度：confirmed；排序日期：1989-12-12
+  摘要：《浮生一粲三续》署1989年12月12日。李敖集中回忆景美军法处押房日常，包括“欧卡曾”、猞猁皮袍“毛真好”误会、禁报生活与误听流行歌曲。
+  人物：李敖、欧卡曾、刘家昌
+  地点：台湾
+  标签：千秋万岁乌鸦求是合集、浮生一粲三续、景美军法处、欧卡曾、毛真好、牢狱日常、1989
+  视图：写作线
+  作品：千秋万岁乌鸦求是合集、浮生一粲三续
+  交叉引用：1983-04-13-thief-memory
+  来源：千秋万岁乌鸦求是合集 / 095.浮生一粲三续 / line 17
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/095.浮生一粲三续.txt
+  数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1989-12-12-095-writes-floating-life-note-third-sequel
 - 1989年12月13日 | 李敖写《被禁忆趣》
   精度：day；可靠度：confirmed；排序日期：1989-12-13
   摘要：《被禁忆趣》署1989年12月13日。李敖回忆自己的书被国民党政府查禁九十六种、组织班子与查禁人员捉迷藏，以及《千秋评论》第二十七期装订厂被抢等趣事。
@@ -19613,6 +19847,58 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/090.被禁忆趣.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1989-12-13-090-writes-banned-anecdotes
+- 1989年12月15日 | 李敖写《浮生一粲四续》
+  精度：day；可靠度：confirmed；排序日期：1989-12-15
+  摘要：《浮生一粲四续》署1989年12月15日。李敖以短札续写友人、艺文圈、女儿美国学校经验与简志信等交游片段。
+  人物：李敖、简志信、孟绝子
+  地点：台湾
+  标签：千秋万岁乌鸦求是合集、浮生一粲四续、交游、女儿、简志信、1989
+  视图：写作线
+  作品：千秋万岁乌鸦求是合集、浮生一粲四续
+  交叉引用：-
+  来源：千秋万岁乌鸦求是合集 / 096.浮生一粲四续 / line 29
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/096.浮生一粲四续.txt
+  数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1989-12-15-096-writes-floating-life-note-fourth-sequel
+- 1989年12月16日 | 李敖写《浮生一粲五续》
+  精度：day；可靠度：confirmed；排序日期：1989-12-16
+  摘要：《浮生一粲五续》署1989年12月16日。李敖写萧孟能太太事件、段宏俊与王剑芬斗嘴、胡茵梦婚后电话威胁及离婚照等旧事。
+  人物：李敖、萧孟能、胡茵梦、段宏俊、王剑芬
+  地点：台湾
+  标签：千秋万岁乌鸦求是合集、浮生一粲五续、萧孟能、胡茵梦、段宏俊、王剑芬、1989
+  视图：写作线
+  作品：千秋万岁乌鸦求是合集、浮生一粲五续
+  交叉引用：book4-1980-08-28-li-announces-divorce-from-hu、book7-1985-04-02-greets-hu-yinmeng-and-jokes-with-xiao-mengneng-after-court
+  来源：千秋万岁乌鸦求是合集 / 097.浮生一粲五续 / line 21
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/097.浮生一粲五续.txt
+  数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1989-12-16-097-writes-floating-life-note-fifth-sequel
+- 1989年12月16日 | 李敖写《浮生一粲六续》
+  精度：day；可靠度：confirmed；排序日期：1989-12-16
+  摘要：《浮生一粲六续》署1989年12月16日。李敖回忆方豪、萧启庆、辅仁大学文学院风波及天主教方面追查《文星》的往事。
+  人物：李敖、方豪、萧启庆、田耕莘、徐熙光
+  地点：台湾
+  标签：千秋万岁乌鸦求是合集、浮生一粲六续、方豪、文星、辅仁大学、天主教、1989
+  视图：写作线
+  作品：千秋万岁乌鸦求是合集、浮生一粲六续
+  交叉引用：book4-deep-1964-09-01-three-documents-fujen-college、book4-deep-1964-09-after-xu-xiguang-investigates-wenxing、book4-deep-1964-autumn-fanghao-secret-meal-after-fujen-case
+  来源：千秋万岁乌鸦求是合集 / 098.浮生一粲六续 / line 15
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/098.浮生一粲六续.txt
+  数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1989-12-16-098-writes-floating-life-note-sixth-sequel
+- 1989年12月17日 | 李敖写《浮生一粲七续》
+  精度：day；可靠度：confirmed；排序日期：1989-12-17
+  摘要：《浮生一粲七续》署1989年12月17日。李敖由魏廷朝、魏廷昱、林水泉、黄天福等人串起政治犯、军法审判与牢中笑话。
+  人物：李敖、魏廷朝、魏廷昱、林水泉、黄天福、彭明敏
+  地点：台湾
+  标签：千秋万岁乌鸦求是合集、浮生一粲七续、魏廷朝、林水泉、政治犯、军法审判、1989
+  视图：写作线
+  作品：千秋万岁乌鸦求是合集、浮生一粲七续
+  交叉引用：-
+  来源：千秋万岁乌鸦求是合集 / 099.浮生一粲七续 / line 21
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/099.浮生一粲七续.txt
+  数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1989-12-17-099-writes-floating-life-note-seventh-sequel
 - 1989年12月17日 | 李敖写《寄语刘宾雁老乡》
   精度：day；可靠度：confirmed；排序日期：1989-12-17
   摘要：《寄语刘宾雁老乡》文末署“1989年12月17日”。李敖寄语刘宾雁不要被国民党拿去做样板。
@@ -19743,6 +20029,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/006.求是新语/079.会了又怎样？.txt
   数据：data/timeline-events-qiushi-xinyu.json#qiushi-xinyu-1989-12-23-mainland-affairs-committee-empty-show
+- 1989年12月25日 | 李敖写《段宏俊的妙语》
+  精度：day；可靠度：confirmed；排序日期：1989-12-25
+  摘要：《段宏俊的妙语》署1989年12月25日。李敖借老友段宏俊公开成立竞选总统办事处，讽刺台湾选总统仍有劝进、一言堂与消除杂音的旧戏码。
+  人物：李敖、段宏俊、李登辉
+  地点：台湾
+  标签：千秋万岁乌鸦求是合集、段宏俊的妙语、段宏俊、总统选举、世界论坛报、1989
+  视图：写作线
+  作品：千秋万岁乌鸦求是合集、段宏俊的妙语
+  交叉引用：-
+  来源：千秋万岁乌鸦求是合集 / 091.段宏俊的妙语 / line 13
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/091.段宏俊的妙语.txt
+  数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1989-12-25-091-writes-duan-hongjun-witty-remarks
 - 1989年12月29日 | 写定《我最难忘的一场演讲》
   精度：day；可靠度：confirmed；排序日期：1989-12-29
   摘要：《我最难忘的一场演讲》文末署1989年12月29日，李敖以交通大学演讲经历写陈碧君到陈璧君的历史联想。
@@ -19782,6 +20081,71 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/010.我最难忘的一个将军.txt
   数据：data/timeline-events-third-book.json#book3-1989-11-25-song-book-process-written
+- 1989年12月9日前一阵子 | 程国强约李敖等四十年老同学小聚
+  精度：range-context；可靠度：contextual；排序日期：1989-12-09
+  摘要：《浮生一粲》写，程国强在中国文化大学任教后，前一阵子约李敖等四十年老同学小聚；李敖席间拿父母旧事开玩笑，说若当年母亲嫁给程烈，这世界便没有李敖而有“程国强”了。
+  人物：李敖、程国强、程烈、张桂贞
+  地点：台湾
+  标签：千秋万岁乌鸦求是合集、浮生一粲、程国强、同学小聚、1989
+  视图：交游线、日常线
+  作品：千秋万岁乌鸦求是合集、浮生一粲
+  交叉引用：-
+  来源：千秋万岁乌鸦求是合集 / 092.浮生一粲 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/092.浮生一粲.txt
+  数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1989-12-09-context-092-cheng-guoqiang-classmates-gathering
+- 1989年12月17日前后 | 魏廷昱来看李敖，李敖重评魏廷朝与谢聪敏
+  精度：range-context；可靠度：contextual；排序日期：1989-12-17
+  摘要：《浮生一粲七续》写，魏廷朝的弟弟魏廷昱目前来看李敖。李敖对他说，自己当年被魏廷朝、谢聪敏咬成台独分子而坐冤狱时，曾觉得他们是最坏的台湾人；阅人已多后，反觉得他们是最好的台湾人。
+  人物：李敖、魏廷昱、魏廷朝、谢聪敏
+  地点：台湾
+  标签：千秋万岁乌鸦求是合集、浮生一粲七续、魏廷昱、魏廷朝、谢聪敏、1989
+  视图：交游线、政治线、司法线
+  作品：千秋万岁乌鸦求是合集、浮生一粲七续
+  交叉引用：-
+  来源：千秋万岁乌鸦求是合集 / 099.浮生一粲七续 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/099.浮生一粲七续.txt
+  数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1989-12-17-context-099-wei-tingyu-visits-li
+- 1989年12月17日前数日 | 林水泉请李敖吃饭，相隔二十多年再作东
+  精度：range-context；可靠度：contextual；排序日期：1989-12-17
+  摘要：《浮生一粲七续》写，日前林水泉请李敖吃饭，距离上一次请饭已有二十多年。李敖由此回忆林水泉当台北市党外议员时的豪爽、义气与军法处看守所轶事。
+  人物：李敖、林水泉、黄毅辛
+  地点：台湾
+  标签：千秋万岁乌鸦求是合集、浮生一粲七续、林水泉、饭局、党外、1989
+  视图：交游线、日常线
+  作品：千秋万岁乌鸦求是合集、浮生一粲七续
+  交叉引用：-
+  来源：千秋万岁乌鸦求是合集 / 099.浮生一粲七续 / line 15
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/099.浮生一粲七续.txt
+  数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1989-12-17-context-099-lin-shuiquan-dinner
+- 1989年12月19-20日 | 李敖写《预官记趣》
+  精度：day-range；可靠度：confirmed；排序日期：1989-12-19
+  摘要：《预官记趣》署1989年12月19-20日。李敖在整理完预官日记后，回看1959至1961年军人生涯，把入伍训练、演讲比赛、思想考核、厕所文学等军旅日常整理成短札。
+  人物：李敖、孙玉华、于建业、陈汉卿、郑清茂
+  地点：台湾
+  标签：千秋万岁乌鸦求是合集、预官记趣、预官日记、军旅日常、思想考核、1989
+  视图：写作线
+  作品：千秋万岁乌鸦求是合集、预官记趣
+  交叉引用：book4-1959-09-07-reserve-officer-training-begins、book4-1960-03-03-leaves-infantry-school-for-unit、1961-02-06-return-warship
+  来源：千秋万岁乌鸦求是合集 / 101.预官记趣 / line 75
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/101.预官记趣.txt
+  数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1989-12-19-101-writes-reserve-officer-anecdotes
+- 1989年12月19-20日前 | 李敖整理完预官日记并准备出版
+  精度：range-context；可靠度：contextual；排序日期：1989-12-19
+  摘要：《预官记趣》开头写，1959年9月9日起至1961年2月6日退伍的军人生涯是李敖人生重大转捩；他当年一天不缺地留下日记，最近已整理完毕，即将出版，于是写数则“预官记趣”存作雪泥鸿爪。
+  人物：李敖
+  地点：台湾
+  标签：千秋万岁乌鸦求是合集、预官记趣、预官日记、整理日记、出版准备、1989
+  视图：写作线、军旅线、出版线
+  作品：千秋万岁乌鸦求是合集、预官记趣、预官日记
+  交叉引用：book4-1959-09-07-reserve-officer-training-begins、1961-02-06-return-warship
+  来源：千秋万岁乌鸦求是合集 / 101.预官记趣 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/101.预官记趣.txt
+  数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1989-12-19-101-finishes-organizing-reserve-officer-diary
 - 1989年12月21日至23日 | 李敖写《我最难忘的一个老兵》
   精度：day-range；可靠度：confirmed；排序日期：1989-12-21
   摘要：《我最难忘的一个老兵》文末署1989年12月21日至23日，追忆预备军官时期老兵张永亭。
@@ -19821,6 +20185,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/008.李敖相关/001.李敖五十年表.txt
   数据：data/timeline-events-eighth-book.json#book8-1989-li-ao-new-series-published
+- 1989年江青来台期间 | 江青到李敖家拜访，李敖自悔旧日酒肉朋友生活
+  精度：year-context；可靠度：contextual；排序日期：1989-12-31
+  摘要：《浮生一粲一续》写，1989年江青来台时曾到李敖家拜访。李敖由刘维斌家通宵赌局旧事想起江青与刘家昌婚姻失败，自觉当年酒肉朋友不无责任，虽多年后已成律己极严之人，仍不免自悔少作。
+  人物：李敖、江青、刘家昌、刘维斌
+  地点：李敖家、台湾
+  标签：千秋万岁乌鸦求是合集、浮生一粲一续、江青、刘家昌、自省、1989
+  视图：交游线、日常线、思想线
+  作品：千秋万岁乌鸦求是合集、浮生一粲一续
+  交叉引用：-
+  来源：千秋万岁乌鸦求是合集 / 093.浮生一粲一续 / line 11
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/093.浮生一粲一续.txt
+  数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1989-context-093-jiang-qing-visits-li-home
 - 党外时代某次为《深耕》写稿后 | 李敖向黄石城要求三万元稿费后转给林正杰作竞选经费
   精度：undated-context；可靠度：confirmed；排序日期：1989-12-31
   摘要：《志留纪》写，党外时代李敖替黄石城出资的《深耕》写稿，嫌四千元稿费太少，要求改给三万元；黄石城照给后，李敖把这笔钱转给林正杰作竞选经费。
@@ -19888,6 +20265,45 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/006.求是新语/098.出于宗教，入于宗教.txt
   数据：data/timeline-events-qiushi-xinyu.json#qiushi-xinyu-1990-01-04-mainland-dissidents-convert-to-buddhism
+- 1990年1月7日 | 李敖写《夜归题记》
+  精度：day；可靠度：confirmed；排序日期：1990-01-07
+  摘要：《夜归题记》署1990年1月7日。李敖写自己当晚自台中夜归后有感，分题而记，涉及夜不出门习惯、报人办学、商人办报等观察。
+  人物：李敖
+  地点：台湾
+  标签：千秋万岁乌鸦求是合集、夜归题记、台中、夜归、题记、1990
+  视图：写作线
+  作品：千秋万岁乌鸦求是合集、夜归题记
+  交叉引用：-
+  来源：千秋万岁乌鸦求是合集 / 111.夜归题记 / line 53
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/111.夜归题记.txt
+  数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1990-01-07-111-writes-night-return-notes
+- 1990年1月9日 | 李敖写《蒋孝武的胡说无耻》
+  精度：day；可靠度：confirmed；排序日期：1990-01-09
+  摘要：《蒋孝武的胡说无耻》署1990年1月9日。李敖批评蒋孝武相关言论，把它纳入自己持续批蒋家王朝、批江南案责任的文字线。
+  人物：李敖、蒋孝武
+  地点：台湾
+  标签：千秋万岁乌鸦求是合集、蒋孝武的胡说无耻、蒋孝武、批蒋、江南案、1990
+  视图：写作线
+  作品：千秋万岁乌鸦求是合集、蒋孝武的胡说无耻
+  交叉引用：-
+  来源：千秋万岁乌鸦求是合集 / 109.蒋孝武的胡说无耻 / line 15
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/109.蒋孝武的胡说无耻.txt
+  数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1990-01-09-109-writes-jiang-xiaowu-nonsense
+- 1990年1月10日 | 李敖写《可耻的“拥戴”》
+  精度：day；可靠度：confirmed；排序日期：1990-01-10
+  摘要：《可耻的“拥戴”》署1990年1月10日。李敖批评许倬云、高英茂、高希均等学人围绕李登辉、李焕人选制造“拥戴”共识，并把这种姿态与袁世凯时代劝进相照。
+  人物：李敖、许倬云、李登辉、李焕、高英茂、高希均
+  地点：台湾
+  标签：千秋万岁乌鸦求是合集、可耻的拥戴、许倬云、李登辉、李焕、中国时报、1990
+  视图：写作线
+  作品：千秋万岁乌鸦求是合集、可耻的“拥戴”
+  交叉引用：-
+  来源：千秋万岁乌鸦求是合集 / 103.可耻的“拥戴” / line 13
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/103.可耻的“拥戴”.txt
+  数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1990-01-10-103-writes-shameful-embrace
 - 1990年1月11日 | 李敖斥马纪壮吹捧蒋孝武“人品正直”是不要脸的谎话
   精度：day；可靠度：inferred；排序日期：1990-01-11
   摘要：《蒋孝武“人品正直”？》正文开头直接写“1月11日《中央日报》登”。李敖抓住马纪壮在东京夸蒋孝武“为人直爽、人品正直”的说法，反斥蒋孝武乃江南案元凶，所谓“正直”只是无耻小人之间的互捧。结合《求是新语》编集卷首段语境，这条可保守落为1990年1月11日。
@@ -19927,6 +20343,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/006.求是新语/105.宋楚瑜失态.txt
   数据：data/timeline-events-qiushi-xinyu.json#qiushi-xinyu-1990-01-12-soong-chu-yu-kneels-at-mourning-hall
+- 1990年1月13日 | 李敖写《斥许倬云的谄媚之言》
+  精度：day；可靠度：confirmed；排序日期：1990-01-13
+  摘要：《斥许倬云的谄媚之言》署1990年1月13日。李敖针对许倬云在《中国时报》悼念蒋经国两周年文章，批驳其把四十年威权统治包装成民主化功劳。
+  人物：李敖、许倬云、蒋经国、余纪忠
+  地点：台湾
+  标签：千秋万岁乌鸦求是合集、斥许倬云的谄媚之言、许倬云、蒋经国、中国时报、1990
+  视图：写作线
+  作品：千秋万岁乌鸦求是合集、斥许倬云的谄媚之言
+  交叉引用：-
+  来源：千秋万岁乌鸦求是合集 / 107.斥许倬云的谄媚之言 / line 9
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/107.斥许倬云的谄媚之言.txt
+  数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1990-01-13-107-writes-rebuke-xu-zhuoyun-flattery
 - 1990年1月13日 | 李敖在蒋经国死后二周年重申将继续揭蒋家祸国史
   精度：day；可靠度：confirmed；排序日期：1990-01-13
   摘要：《蒋经国死了两年了》正文开头直接写“1990年1月13日是蒋经国死了两年了的日子”。李敖借蒋经国二周年忌日，区分靠蒋家得势者与发愿揭露蒋家丑史者，并强调自己将继续以历史家的方式鞭及枯骨。该章开头给出完整日期，可直接落为1990年1月13日。
@@ -19953,6 +20382,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/017.猪猡纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1990-01-13-chen-lifu-warns-zhou-zhiming
+- 1990年1月14日 | 李敖写《再斥许倬云的谄媚之言》
+  精度：day；可靠度：confirmed；排序日期：1990-01-14
+  摘要：《再斥许倬云的谄媚之言》署1990年1月14日。李敖在前文之后继续批驳许倬云替蒋介石、蒋经国开脱，并抓出“王道入江东”等史学错误。
+  人物：李敖、许倬云、蒋介石、蒋经国
+  地点：台湾
+  标签：千秋万岁乌鸦求是合集、再斥许倬云的谄媚之言、许倬云、蒋介石、蒋经国、1990
+  视图：写作线
+  作品：千秋万岁乌鸦求是合集、再斥许倬云的谄媚之言
+  交叉引用：-
+  来源：千秋万岁乌鸦求是合集 / 108.再斥许倬云的谄媚之言 / line 13
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/108.再斥许倬云的谄媚之言.txt
+  数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1990-01-14-108-writes-again-rebuke-xu-zhuoyun-flattery
 - 1990年1月14日 | 李敖批中社成立只是国民党同路学者的自卑感反射
   精度：day；可靠度：inferred；排序日期：1990-01-14
   摘要：《“中社”的嘴脸》正文开头直接写“1月14日成立了”。李敖借中华论政学社成立与其成员名单，批评这批国民党或同路学者以集体出动来与“澄社”别苗头，实则只是自卑感与无力感的反射。结合《求是新语》编集卷首段语境，这条可保守落为1990年1月14日。
@@ -19966,6 +20408,84 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/006.求是新语/111.“中社”的嘴脸.txt
   数据：data/timeline-events-qiushi-xinyu.json#qiushi-xinyu-1990-01-14-chung-she-formed-to-counter-cheng-she
+- 1990年1月15日 | 李敖写《时闻杂写》
+  精度：day；可靠度：confirmed；排序日期：1990-01-15
+  摘要：《时闻杂写》署1990年1月15日。李敖从蒋经国民主宪政部署、张晓风悼蒋文字、胡虚一返乡修坟等时闻与身边事入笔，延续对政治肉麻和朋友日常的讽刺。
+  人物：李敖、胡虚一、蒋经国、张晓风
+  地点：台湾
+  标签：千秋万岁乌鸦求是合集、时闻杂写、胡虚一、蒋经国、张晓风、1990
+  视图：写作线
+  作品：千秋万岁乌鸦求是合集、时闻杂写
+  交叉引用：-
+  来源：千秋万岁乌鸦求是合集 / 104.时闻杂写 / line 31
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/104.时闻杂写.txt
+  数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1990-01-15-104-writes-miscellaneous-current-notes
+- 1990年2月22日 | 李敖写《多情却似总少情》
+  精度：day；可靠度：confirmed；排序日期：1990-02-22
+  摘要：《多情却似总少情》署1990年2月22日。李敖谈爱情在生命中所占比例，回引1974年牢中诗《只爱一点点》，阐明其“多情却似总少情”的爱情观。
+  人物：李敖
+  地点：台湾
+  标签：千秋万岁乌鸦求是合集、多情却似总少情、只爱一点点、爱情观、1990
+  视图：写作线
+  作品：千秋万岁乌鸦求是合集、多情却似总少情
+  交叉引用：book4-deep-1974-prison-poem-only-love-a-little
+  来源：千秋万岁乌鸦求是合集 / 115.多情却似总少情 / line 41
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/115.多情却似总少情.txt
+  数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1990-02-22-115-writes-love-is-less-when-deep
+- 1990年3月6日 | 李敖写《若亡而实在》
+  精度：day；可靠度：confirmed；排序日期：1990-03-06
+  摘要：《若亡而实在》署1990年3月6日。李敖借“若亡而实在”谈爱情记忆与人生感受，也与他在其他自传材料中回忆离婚后情感经验的线索互相照应。
+  人物：李敖、胡茵梦
+  地点：台湾
+  标签：千秋万岁乌鸦求是合集、若亡而实在、爱情记忆、胡茵梦、1990
+  视图：写作线
+  作品：千秋万岁乌鸦求是合集、若亡而实在
+  交叉引用：book5-1980-after-divorce-meets-junjun
+  来源：千秋万岁乌鸦求是合集 / 110.若亡而实在 / line 25
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/110.若亡而实在.txt
+  数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1990-03-06-110-writes-ruowang-er-shizai
+- 1990年5月7日 | 李敖写《两个我》
+  精度：day；可靠度：confirmed；排序日期：1990-05-07
+  摘要：《两个我》署1990年5月7日。李敖从近日在静宜大学、逢甲大学讲演文天祥谈起，发挥“两个我”交战的题旨写成诗作。
+  人物：李敖、文天祥
+  地点：台湾
+  标签：千秋万岁乌鸦求是合集、两个我、文天祥、静宜大学、逢甲大学、1990
+  视图：写作线
+  作品：千秋万岁乌鸦求是合集、两个我
+  交叉引用：-
+  来源：千秋万岁乌鸦求是合集 / 112.两个我 / line 29
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/112.两个我.txt
+  数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1990-05-07-112-writes-two-selves
+- 1990年5月7日 | 李敖写《张三李四一起倒霉诗》
+  精度：day；可靠度：confirmed；排序日期：1990-05-07
+  摘要：《张三李四一起倒霉诗》署1990年5月7日。李敖回引自己1984年1月29日的意译，把“张三李四一起倒霉”化成讽刺诗题。
+  人物：李敖
+  地点：台湾
+  标签：千秋万岁乌鸦求是合集、张三李四一起倒霉诗、诗、意译、1990
+  视图：写作线
+  作品：千秋万岁乌鸦求是合集、张三李四一起倒霉诗
+  交叉引用：qianqiu-wansui-1984-01-29-114-translates-zhangsan-lisi-poem
+  来源：千秋万岁乌鸦求是合集 / 114.张三李四一起倒霉诗 / line 27
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/114.张三李四一起倒霉诗.txt
+  数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1990-05-07-114-writes-zhangsan-lisi-poem
+- 1990年5月7日 | 李敖写《题戴枷图》
+  精度：day；可靠度：confirmed；排序日期：1990-05-07
+  摘要：《题戴枷图》署1990年5月7日。李敖以“戴枷图”为题写诗，把图像题咏纳入自己讽刺与自况式写作。
+  人物：李敖
+  地点：台湾
+  标签：千秋万岁乌鸦求是合集、题戴枷图、诗、题画、1990
+  视图：写作线
+  作品：千秋万岁乌鸦求是合集、题戴枷图
+  交叉引用：-
+  来源：千秋万岁乌鸦求是合集 / 113.题戴枷图 / line 19
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/113.题戴枷图.txt
+  数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1990-05-07-113-writes-inscription-on-cangue-picture
 - 1990年6月1日 | 李敖为《介绍托斯基大作》补写附记
   精度：day；可靠度：confirmed；排序日期：1990-06-01
   摘要：李敖在1990年6月1日为《介绍托斯基大作》补写附记，说明当年“托斯基”就是苦苓，旧文得以解禁见天日。
@@ -20005,6 +20525,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/007.我是天安门/013.中国没裤子穿的片段.txt
   数据：data/timeline-events-woshi-tiananmen.json#woshi-tiananmen-1990-06-11-no-pants-fragments
+- 1990年6月12日 | 李敖写《金兰随记》
+  精度：day；可靠度：confirmed；排序日期：1990-06-12
+  摘要：《金兰随记》署1990年6月12日。李敖以随记方式处理“金兰”题目，延续本卷杂文中把典故、人物与时论交错编排的写法。
+  人物：李敖
+  地点：台湾
+  标签：千秋万岁乌鸦求是合集、金兰随记、随记、1990
+  视图：写作线
+  作品：千秋万岁乌鸦求是合集、金兰随记
+  交叉引用：-
+  来源：千秋万岁乌鸦求是合集 / 116.金兰随记 / line 47
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/116.金兰随记.txt
+  数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1990-06-12-116-writes-golden-orchid-notes
 - 1990年6月12日 | 李敖抗议《作家作品目录》排斥自己的电视片段播出时被剪掉
   精度：day；可靠度：confirmed；排序日期：1990-06-12
   摘要：同章补记，李敖1990年6月9日在中国电视公司节目里举《中华民国作家作品目录》抗议官方不认其为作家的那段录像，到6月12日电视播出时被剪掉；他于6月14日补记此事。这个节点把李敖所遭遇的文化排斥，从“目录不收”进一步推进到“电视不播”的具体媒体处理。
@@ -20018,6 +20551,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/008.李敖相关/004.中华民国作家作品目录——李敖.txt
   数据：data/timeline-events-eighth-book.json#book8-1990-06-12-ctv-cuts-directory-protest-segment
+- 1990年7月9日 | 李敖写《国民同异》
+  精度：day；可靠度：confirmed；排序日期：1990-07-09
+  摘要：《国民同异》署1990年7月9日。李敖围绕“国民”与政治身份的同异问题发议论，是本卷1990年夏季政论写作的一环。
+  人物：李敖
+  地点：台湾
+  标签：千秋万岁乌鸦求是合集、国民同异、政治身份、1990
+  视图：写作线
+  作品：千秋万岁乌鸦求是合集、国民同异
+  交叉引用：-
+  来源：千秋万岁乌鸦求是合集 / 117.国民同异 / line 31
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/117.国民同异.txt
+  数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1990-07-09-117-writes-national-same-different
 - 1990年8月30日 | 李敖写《中国问题的真解决》
   精度：day；可靠度：inferred；排序日期：1990-08-30
   摘要：《中国问题的真解决》文末署“1990年8月30日”。李敖写中国问题应先解决贫穷，再谈自由民主。
@@ -20031,6 +20577,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/007.我是天安门/026.中国问题的真解决.txt
   数据：data/timeline-events-woshi-tiananmen.json#woshi-tiananmen-1990-08-30-true-solution-is-ending-poverty
+- 1990年8月30日 | 李敖写《娘娘腔的社论》
+  精度：day；可靠度：confirmed；排序日期：1990-08-30
+  摘要：《娘娘腔的社论》署1990年8月30日。李敖从波斯湾危机、日月潭翻船与《自由时报》社论写起，批评郝柏村高尔夫事件中的舆论表达。
+  人物：李敖、郝柏村、布什
+  地点：台湾
+  标签：千秋万岁乌鸦求是合集、娘娘腔的社论、郝柏村、自由时报、日月潭翻船、1990
+  视图：写作线
+  作品：千秋万岁乌鸦求是合集、娘娘腔的社论
+  交叉引用：-
+  来源：千秋万岁乌鸦求是合集 / 118.娘娘腔的社论 / line 9
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/118.娘娘腔的社论.txt
+  数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1990-08-30-118-writes-effeminate-editorial
 - 1990年8月31日 | 写定《我最难忘的一位学者》
   精度：day；可靠度：confirmed；排序日期：1990-08-31
   摘要：《我最难忘的一位学者》文末署1990年8月31日，李敖回忆钱穆，并从1952年初识、1972年银雀山出土等材料批判钱穆学说。
@@ -20044,6 +20603,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/012.我最难忘的一位学者.txt
   数据：data/timeline-events-third-book.json#book3-1990-08-31-qian-mu-scholar-written
+- 1990年9月2日 | 李敖写《郝柏村也来王阳明了！》
+  精度：day；可靠度：confirmed；排序日期：1990-09-02
+  摘要：《郝柏村也来王阳明了！》署1990年9月2日。李敖由郝柏村、警察阳明化谈起，借王阳明、朱子、曾国藩、蒋介石等历史链条批判专制政权的连坐与团练传统。
+  人物：李敖、郝柏村、王阳明、朱熹、蒋介石
+  地点：台湾
+  标签：千秋万岁乌鸦求是合集、郝柏村也来王阳明了、郝柏村、王阳明、朱子、蒋介石、1990
+  视图：写作线
+  作品：千秋万岁乌鸦求是合集、郝柏村也来王阳明了！
+  交叉引用：-
+  来源：千秋万岁乌鸦求是合集 / 119.郝柏村也来王阳明了！ / line 17
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/119.郝柏村也来王阳明了！.txt
+  数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1990-09-02-119-writes-hao-baicun-wang-yangming
 - 1990年9月7日 | 写定《我最难忘的一位教授》
   精度：day；可靠度：confirmed；排序日期：1990-09-07
   摘要：《我最难忘的一位教授》文末署1990年9月7日，李敖回忆台静农1957年帮他卖旧书，也批判台静农晚年接受国民党奖项。
@@ -20096,6 +20668,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/016.我最难忘的一个国特.txt
   数据：data/timeline-events-third-book.json#book3-1990-10-05-qiao-prison-account-published
+- 1990年10月29日 | 李敖为全美华人协会最佳成就奖录音答辞
+  精度：day；可靠度：confirmed；排序日期：1990-10-29
+  摘要：《全美华人协会颁奖典礼录音答辞》署1990年10月29日。李敖说自己因与台湾国民党政府纠缠而不能亲赴美国领奖，只好请绝对可靠的好友代出席、代领奖，并以录音向全美华人协会致谢。
+  人物：李敖
+  地点：美国、台湾
+  标签：千秋万岁乌鸦求是合集、全美华人协会、最佳成就奖、录音答辞、美国、1990
+  视图：荣誉线、演讲线、海外线
+  作品：千秋万岁乌鸦求是合集、全美华人协会颁奖典礼录音答辞
+  交叉引用：book8-1990-10-receives-naca-outstanding-achievement-award、qianqiu-wansui-1990-10-29-120-writes-naca-award-acceptance-speech
+  来源：千秋万岁乌鸦求是合集 / 120.全美华人协会颁奖典礼录音答辞 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/120.全美华人协会颁奖典礼录音答辞.txt
+  数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1990-10-29-120-records-naca-award-acceptance-speech
+- 1990年10月29日 | 李敖写《全美华人协会颁奖典礼录音答辞》
+  精度：day；可靠度：confirmed；排序日期：1990-10-29
+  摘要：《全美华人协会颁奖典礼录音答辞》署1990年10月29日。李敖因与台湾国民党政府纠缠而无法亲赴美国，只能请好友代为出席、领奖、致意，并以录音答辞调侃“最佳成就奖”还可三十年后再颁。
+  人物：李敖
+  地点：台湾
+  标签：千秋万岁乌鸦求是合集、全美华人协会颁奖典礼录音答辞、全美华人协会、最佳成就奖、录音答辞、美国、1990
+  视图：写作线
+  作品：千秋万岁乌鸦求是合集、全美华人协会颁奖典礼录音答辞
+  交叉引用：book8-1990-10-receives-naca-outstanding-achievement-award
+  来源：千秋万岁乌鸦求是合集 / 120.全美华人协会颁奖典礼录音答辞 / line 11
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/120.全美华人协会颁奖典礼录音答辞.txt
+  数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1990-10-29-120-writes-naca-award-acceptance-speech
 - 1990年11月10日 | 李敖获美华协会奖项但因出境限制只能录音致辞
   精度：day；可靠度：confirmed；排序日期：1990-11-10
   摘要：《梦遗纪》写，1990年11月10日美华协会在美国颁奖给李敖等人，李敖因无法出境，只能以录音方式发表演说。
@@ -20135,6 +20733,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/007.我是天安门/015.毛泽东与湖南独立.txt
   数据：data/timeline-events-woshi-tiananmen.json#woshi-tiananmen-1990-01-09-14-mao-and-hunan-independence
+- 1990年1月15日前 | 李敖赠金给胡虚一赴大陆探亲
+  精度：range-context；可靠度：contextual；排序日期：1990-01-15
+  摘要：《时闻杂写》写，李敖的朋友胡虚一去大陆探亲，李敖赠金以壮行色。胡虚一回台后，李敖得知他不但送礼还为亲人修新坟，便笑说朋友资助本为生活与行旅，他却拿去大修祖坟。
+  人物：李敖、胡虚一
+  地点：台湾、大陆
+  标签：千秋万岁乌鸦求是合集、时闻杂写、胡虚一、探亲、赠金、1990
+  视图：交游线、日常线
+  作品：千秋万岁乌鸦求是合集、时闻杂写
+  交叉引用：-
+  来源：千秋万岁乌鸦求是合集 / 104.时闻杂写 / line 29
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/104.时闻杂写.txt
+  数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1990-01-15-context-104-gives-hu-xuyi-travel-money
 - 1990年3月 | 《王世杰日记》出版后李敖完整了解中研院拒聘内幕
   精度：month；可靠度：confirmed；排序日期：1990-03-31
   摘要：《根株纪》写，1990年3月《王世杰日记》全十册由中研院出版，李敖由1965年12月20日等日记材料完整了解梁实秋推荐他到中研院史语所、王世杰和李济拒绝的内幕。
@@ -20161,6 +20772,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/011.我梦碎，所以我梦醒/047.“上将”梦碎.txt
   数据：data/timeline-events-dream-awake.json#dream-awake-1990-03-after-chen-liangxun-writes-li-ao-about-sun-liren-case
+- 1990年5月7日前近日 | 李敖近日在静宜大学、逢甲大学讲演文天祥与“两个我”
+  精度：range-context；可靠度：contextual；排序日期：1990-05-07
+  摘要：《两个我》开头说，李敖最近在静宜大学、逢甲大学讲演，谈到文天祥并不想殉道，却在最后选择中殉道；他据此发挥“两个我”交战的题旨写成诗作。
+  人物：李敖、文天祥
+  地点：静宜大学、逢甲大学、台湾
+  标签：千秋万岁乌鸦求是合集、两个我、静宜大学、逢甲大学、文天祥、1990
+  视图：演讲线、思想线、写作线
+  作品：千秋万岁乌鸦求是合集、两个我
+  交叉引用：-
+  来源：千秋万岁乌鸦求是合集 / 112.两个我 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/112.两个我.txt
+  数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1990-05-07-context-112-lectures-at-providence-and-fengchia
 - 1990年6月 | 写《我最难忘的一片小湖》
   精度：month；可靠度：confirmed；排序日期：1990-06-30
   摘要：《我最难忘的一片小湖》文末署1990年6月，李敖以中兴大学中兴湖的中国地图造型展开两岸与历史遐思。
@@ -20182,9 +20806,9 @@
   标签：全美华人协会、最佳成就奖、海外荣誉
   视图：荣誉线、生平线、海外线
   作品：中华民国现代名人录、李敖相关
-  交叉引用：-
+  交叉引用：qianqiu-wansui-1990-10-29-120-records-naca-award-acceptance-speech
   来源：李敖相关 / 003.中华民国现代名人录——李敖 / line 7
-  补充来源：-
+  补充来源：千秋万岁乌鸦求是合集 / 120.全美华人协会颁奖典礼录音答辞 / line 5；说明：补出李敖因与台湾国民党政府纠缠无法赴美，委请好友代为出席、领奖并发表录音答辞。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/008.李敖相关/003.中华民国现代名人录——李敖.txt
   数据：data/timeline-events-eighth-book.json#book8-1990-10-receives-naca-outstanding-achievement-award
 - 1990年 | 出版《爱情的秘密》

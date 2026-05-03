@@ -878,7 +878,9 @@
     "places": ["北京", "新鲜胡同小学"],
     "works": ["李敖风流自传"],
     "certainty": "confirmed",
-    "crossReferences": ["1942-xinxian-hutong-school"],
+    "crossReferences": [
+      "1942-xinxian-hutong-school"
+    ],
     "source": {
       "book": "李敖风流自传",
       "chapter": "111.难忘小学，小学难忘",
@@ -1019,7 +1021,9 @@
     "places": ["台北", "文星书店"],
     "works": ["文星", "李敖风流自传"],
     "certainty": "confirmed",
-    "crossReferences": ["book2-broad-1968-04-01-wenxing-bookstore-closes"],
+    "crossReferences": [
+      "book2-broad-1968-04-01-wenxing-bookstore-closes"
+    ],
     "source": {
       "book": "李敖风流自传",
       "chapter": "260.《纽约时报》报丧",
@@ -1060,7 +1064,9 @@
     "places": ["新店", "碧潭山楼"],
     "works": ["李敖风流自传"],
     "certainty": "confirmed",
-    "crossReferences": ["book5-1961-06-15-rents-bitan-hill-room"],
+    "crossReferences": [
+      "book5-1961-06-15-rents-bitan-hill-room"
+    ],
     "source": {
       "book": "李敖风流自传",
       "chapter": "242.“碧潭山楼”",
@@ -1081,7 +1087,9 @@
     "places": ["台湾"],
     "works": ["李敖风流自传"],
     "certainty": "confirmed",
-    "crossReferences": ["book7-1961-winter-enters-wenxing-through-old-man-and-stick"],
+    "crossReferences": [
+      "book7-1961-winter-enters-wenxing-through-old-man-and-stick"
+    ],
     "source": {
       "book": "李敖风流自传",
       "chapter": "246.债主死了",
@@ -1464,7 +1472,16 @@
       "chapter": "483.四点结局",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/483.四点结局.txt",
       "line": 5
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "千秋万岁乌鸦求是合集",
+        "chapter": "100.和胡茵梦有关的笑话",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/100.和胡茵梦有关的笑话.txt",
+        "line": 19,
+        "note": "本卷全文摘录1985年4月2日日记，补强胡茵梦寒暄与挖苦萧孟能“欠我十天”的同场细节。"
+      }
+    ]
   },
   {
     "id": "book7-1984-12-22-meets-lu-huadong-and-refuses-to-let-persecution-go",
@@ -1664,7 +1681,10 @@
     "places": ["太原", "日本宪兵队"],
     "works": ["李敖风流自传"],
     "certainty": "contextual",
-    "crossReferences": ["1940-wang-kemin-north-china-political-council", "1941-taiyuan-opium-bureau"],
+    "crossReferences": [
+      "1940-wang-kemin-north-china-political-council",
+      "1941-taiyuan-opium-bureau"
+    ],
     "source": {
       "book": "李敖风流自传",
       "chapter": "046.爸爸坐了日本牢",
@@ -1685,7 +1705,9 @@
     "places": ["北京"],
     "works": ["李敖风流自传"],
     "certainty": "contextual",
-    "crossReferences": ["1947-04-16-ma-zhanshan-returns-northeast"],
+    "crossReferences": [
+      "1947-04-16-ma-zhanshan-returns-northeast"
+    ],
     "source": {
       "book": "李敖风流自传",
       "chapter": "043.我见到马占山将军",
@@ -1706,7 +1728,9 @@
     "places": ["台北"],
     "works": ["虚拟的十七岁", "李敖风流自传"],
     "certainty": "contextual",
-    "crossReferences": ["book7-2002-11-27-drafts-outline-for-naked-seventeen-before-virtual-seventeen"],
+    "crossReferences": [
+      "book7-2002-11-27-drafts-outline-for-naked-seventeen-before-virtual-seventeen"
+    ],
     "source": {
       "book": "李敖风流自传",
       "chapter": "015.《虚拟的十七岁》",
