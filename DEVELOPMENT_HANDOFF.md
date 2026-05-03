@@ -9,22 +9,22 @@
 ### 当前总状态
 
 - 项目路径：`/home/aihuashanying/leeao-life`
-- 当前总事件数：`1705`
+- 当前总事件数：`1714`
 - 当前全库校验：
 
 ```json
 {
-  "events": 1705,
+  "events": 1714,
   "dups": 0,
   "missingRefs": 0,
   "structuralBad": 0
 }
 ```
 
-- 纯文本总表表头当前应为：`事件总数：1705`
+- 纯文本总表表头当前应为：`事件总数：1714`
 - 当前前端版本号：
-  - `app.js` 的 `dataVersion`：`2026-04-27-ni-bendan-round-05-closeout`
-  - `index.html` 的 CSS / JS query param：`2026-04-27-ni-bendan-round-05-closeout`
+  - `app.js` 的 `dataVersion`：`2026-05-03-dream-awake-round-01`
+  - `index.html` 的 CSS / JS query param：`2026-05-03-dream-awake-round-01`
 
 ### 用户硬规则
 
@@ -57,7 +57,16 @@ iconv -f GB18030 -t UTF-8 "<章节路径>" | nl -ba
 
 ### 当前最自然的工作起点
 
-当前主线已经从《求是新语》closeout、再到《我是天安门》closeout、《你是景福门》第五轮 closeout、《为自由招魂》第六轮 closeout，继续切到 **《你笨蛋，你笨蛋》第五轮 closeout**：
+当前主线已经从《求是新语》closeout、再到《我是天安门》closeout、《你是景福门》第五轮 closeout、《为自由招魂》第六轮 closeout、《你笨蛋，你笨蛋》第五轮 closeout，继续切到 **《我梦碎，所以我梦醒》第一轮**：
+
+- 当前 `data/timeline-events-dream-awake.json`：**9 条**
+- 第一轮已收/复核章节：`《我梦碎，所以我梦醒》序 / 006 / 047 / 048 / 053 / 061`
+- 第一轮口径：先建立新书骨架，优先收李敖本人写作、访谈、香港书展现场动作与旧文写定层；大量历史日期、旁人政治动作、蒋介石/国民党旧材料只作论证背景，不误扩成年表事件。
+- 本轮新增 9 条：1984-09-03 写《“中华民国”亡国考》、1984-10-10 写《卖国旗的老兵》、1990年3月后陈良埙致信李敖并附孙案监察委员信、2011-07-22 抵港准备香港书展、2011-07-23 演讲后见林青霞、2011-07-24 在光华新闻文化中心演讲、2011-10-09《亚洲周刊》刊出李敖炮轰国共访问、2011-11-17 卧床仰写《梦醒时分》、2011-11-26 写序并交代17天成书。
+- 明确不重造：`053.“反军购”梦碎` 的 2006-12-29 / 2006-12-30 已由第六本反军购链稳定覆盖；`048.“国旗”梦碎` 的 1984-10-07 目击老兵卖国旗已由第七本稳定覆盖；`061.梦醒时分` 的 2011-07-23 香港书展主演讲已由第八本稳定覆盖；2011 年出版《我梦碎，所以我梦醒》并提出“八点方向”的总事件已由第七本覆盖。本轮只补细部支线与写作层，并用 `crossReferences` 归档。
+- 下一步仍可继续《我梦碎，所以我梦醒》按目录簇推进 `002-046` 与 `049-060`，但要继续防止把历史论据、旁人材料和旧库同义事件扩成新条。
+
+上一条主线 **《你笨蛋，你笨蛋》第五轮 closeout** 已完成：
 
 - 当前 `data/timeline-events-ni-bendan.json`：**44 条**
 - 第一轮已收章节：`009 / 010 / 012 / 020 / 021 / 022 / 023 / 028 / 032 / 035 / 036 / 040`
@@ -251,7 +260,8 @@ data/timeline-events-woshi-tiananmen.json              40
 data/timeline-events-jingfumen.json                    57
 data/timeline-events-freedom-summoning.json            53
 data/timeline-events-ni-bendan.json                    44
-总计                                                  1705
+data/timeline-events-dream-awake.json                  9
+总计                                                  1714
 ```
 
 ### 工作目录与基本命令
@@ -320,6 +330,8 @@ data/timeline-events-qiushi-xinyu.json
 data/timeline-events-woshi-tiananmen.json
 data/timeline-events-jingfumen.json
 data/timeline-events-freedom-summoning.json
+data/timeline-events-ni-bendan.json
+data/timeline-events-dream-awake.json
 ```
 
 同步位置：
@@ -366,6 +378,8 @@ data/ingestion-log.json
 022.我是天安门
 023.你是景福门
 024.为自由招魂
+025.你笨蛋，你笨蛋
+026.我梦碎，所以我梦醒
 ```
 
 ## 《李敖文存》当前状态

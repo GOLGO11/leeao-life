@@ -1,9 +1,9 @@
 李敖交互式年表：当前增量纯文本备份
-生成日期：2026-04-27
-事件总数：1705
-数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json；data/timeline-events-ni-bendan.json
+生成日期：2026-05-03
+事件总数：1714
+数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json；data/timeline-events-ni-bendan.json；data/timeline-events-dream-awake.json
 说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。
-日期精度统计：day=1376；year=87；year-range=7；undated-range=1；undated-context=127；season=25；lunar-day=1；year-after=7；month=45；half-year=2；day-range=12；month-after=2；day-after=4；year-context=3；year-about=5；year-end=1
+日期精度统计：day=1384；year=87；year-range=7；undated-range=1；undated-context=127；season=25；lunar-day=1；year-after=7；month=45；half-year=2；day-range=12；month-after=3；day-after=4；year-context=3；year-about=5；year-end=1
 
 
 1935
@@ -12349,6 +12349,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/006.波波颂/029.美国人忘了什么？.txt
   数据：data/timeline-events-bobo-song.json#bobo-song-1984-08-16-americans-forgot
+- 1984年9月3日 | 李敖写《“中华民国”亡国考》
+  精度：day；可靠度：confirmed；排序日期：1984-09-03
+  摘要：《蒋介石不止一次自承“亡国”》回述，李敖早在1984年9月3日写成《“中华民国”亡国考》，用蒋介石秘密谈话证据点破“中华民国”早已亡国；他后来记下，此文曾使国民党文工会主任廖风德先惊疑、后暗中佩服。
+  人物：李敖、蒋介石、廖风德
+  地点：台湾
+  标签：我梦碎，所以我梦醒、中华民国亡国考、蒋介石、亡国、1984
+  视图：写作线、政治线、考证线
+  作品：我梦碎，所以我梦醒、“中华民国”亡国考
+  交叉引用：-
+  来源：我梦碎，所以我梦醒 / 006.蒋介石不止一次自承“亡国” / line 11
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/011.我梦碎，所以我梦醒/006.蒋介石不止一次自承“亡国”.txt
+  数据：data/timeline-events-dream-awake.json#dream-awake-1984-09-03-writes-zhonghua-minguo-ruined-state-study
 - 1984年9月5日 | 罗小如自美国来问李敖今后方向
   精度：day；可靠度：confirmed；排序日期：1984-09-05
   摘要：1984年9月5日，罗小如从美国来问李敖今后的方向，李敖答以跟国民党陷在一个岛上“又有个屁方向”，并借题发挥自己与台湾“偕小”而思想“离台自大”的处境。
@@ -12414,6 +12427,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/236.卖国旗的老兵.txt
   数据：data/timeline-events-seventh-book.json#book7-1984-10-07-observes-old-veteran-selling-flags-before-national-day
+- 1984年10月10日 | 李敖写《卖国旗的老兵》
+  精度：day；可靠度：confirmed；排序日期：1984-10-10
+  摘要：《“国旗”梦碎》重录《卖国旗的老兵》，文末署“1984年10月10日”。这篇文字把10月7日国庆前夕目击退役老兵沿街兜售塑胶国旗的场景，写成对“中华民国”流亡记忆与老兵命运的短篇速写。
+  人物：李敖
+  地点：台北、国父纪念馆
+  标签：我梦碎，所以我梦醒、卖国旗的老兵、国旗、荣民、1984
+  视图：写作线、日常线、政治线
+  作品：我梦碎，所以我梦醒、卖国旗的老兵
+  交叉引用：book7-1984-10-07-observes-old-veteran-selling-flags-before-national-day
+  来源：我梦碎，所以我梦醒 / 048.“国旗”梦碎 / line 13
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/011.我梦碎，所以我梦醒/048.“国旗”梦碎.txt
+  数据：data/timeline-events-dream-awake.json#dream-awake-1984-10-10-writes-old-veteran-selling-flags
 - 1984年10月14日清早四点 | 李敖在日月潭玄奘寺前自比唐僧，记下“千山我独行”的孤寂感
   精度：day；可靠度：confirmed；排序日期：1984-10-14
   摘要：《唐僧》写，1984年10月14日清早四点，李敖在寒风中的日月潭凭栏远望，天亮后又到玄奘寺看唐僧指骨，并由石柱对联生出“身外身”之感，自觉像唐僧取经般独行于唤醒梦中梦的事业。这条材料留下他在山水、宗教遗迹与自我使命感之间的一次少见自况。
@@ -16768,6 +16794,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/010.根株纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1990-03-wang-shijie-diary-reveals-rejection-of-li
+- 1990年3月后 | 陈良埙致信李敖谈孙立人案冤狱
+  精度：month-after；可靠度：inferred；排序日期：1990-03-31
+  摘要：《“上将”梦碎》写，李敖为孙立人案做历史平反、编《孙立人研究》《孙案研究》期间，与陈良埙成为朋友；陈良埙后来写信给“李敖老弟”，并附上1990年3月致监察委员余俊贤、陶百川、王枕华的信，继续追究孙案调查不公。
+  人物：李敖、陈良埙、孙立人、余俊贤、陶百川、王枕华、曾心仪
+  地点：台北、监察院
+  标签：我梦碎，所以我梦醒、陈良埙、孙立人案、来信、1990
+  视图：交游线、司法线、资料线
+  作品：我梦碎，所以我梦醒、孙立人研究、孙案研究
+  交叉引用：shilun-xinyu-1989-08-16-sun-liren-case-remarks
+  来源：我梦碎，所以我梦醒 / 047.“上将”梦碎 / line 17
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/011.我梦碎，所以我梦醒/047.“上将”梦碎.txt
+  数据：data/timeline-events-dream-awake.json#dream-awake-1990-03-after-chen-liangxun-writes-li-ao-about-sun-liren-case
 - 1990年6月 | 写《我最难忘的一片小湖》
   精度：month；可靠度：confirmed；排序日期：1990-06-30
   摘要：《我最难忘的一片小湖》文末署1990年6月，李敖以中兴大学中兴湖的中国地图造型展开两岸与历史遐思。
@@ -22010,6 +22049,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/008.李敖相关/001.李敖五十年表.txt
   数据：data/timeline-events-eighth-book.json#book8-2011-05-17-opens-sina-weibo-account
+- 2011年7月22日下午（据《亚洲周刊》附录语境推定） | 李敖抵达香港准备书展演讲
+  精度：day；可靠度：inferred；排序日期：2011-07-22
+  摘要：《梦醒时分》附录《李敖香港旋风》写，李敖在香港书展演讲前一天下午步出香港机场，红夹克、红领带、大墨镜，口袋插着五枝笔；他与王志慧、李谌同行但刻意不同机，并拒绝独自走贵宾通道，陪朋友排队过海关。
+  人物：李敖、王志慧、李谌、赖岳忠
+  地点：香港、香港机场
+  标签：我梦碎，所以我梦醒、香港书展、香港、王志慧、李谌、2011
+  视图：生平线、演讲线、日常线
+  作品：我梦碎，所以我梦醒
+  交叉引用：book8-2011-07-23-speaks-at-hong-kong-book-fair
+  来源：我梦碎，所以我梦醒 / 061.梦醒时分 / line 59
+  补充来源：我梦碎，所以我梦醒 / 061.梦醒时分 / line 61；说明：补充李敖安排家人不同机与排队过关细节。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/011.我梦碎，所以我梦醒/061.梦醒时分.txt
+  数据：data/timeline-events-dream-awake.json#dream-awake-2011-07-22-arrives-hong-kong-for-book-fair
 - 2011年7月23日 | 在香港书展演讲
   精度：day；可靠度：confirmed；排序日期：2011-07-23
   摘要：《李敖五十年表》记，2011年7月23日，李敖在香港书展演讲。与2011年春季的大陆高校演讲簇相连，这条补出了其当年公开传播线从校园向香港大型文化场域延展的一次节点。
@@ -22023,6 +22075,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/008.李敖相关/001.李敖五十年表.txt
   数据：data/timeline-events-eighth-book.json#book8-2011-07-23-speaks-at-hong-kong-book-fair
+- 2011年7月23日（香港书展演讲后） | 李敖在香港书展后台见林青霞
+  精度：day；可靠度：inferred；排序日期：2011-07-23
+  摘要：《梦醒时分》附录写，李敖在香港书展演讲当天收到林青霞祝演讲成功的贺卡和花篮；演讲结束后，他带着妻女到对面会场后台见林青霞，两人以“彼此彼此”互道仍如十几年前模样。
+  人物：李敖、林青霞、王志慧、李谌
+  地点：香港书展、香港
+  标签：我梦碎，所以我梦醒、香港书展、林青霞、书展、2011
+  视图：交游线、演讲线、媒体线
+  作品：我梦碎，所以我梦醒、窗里窗外
+  交叉引用：book8-2011-07-23-speaks-at-hong-kong-book-fair
+  来源：我梦碎，所以我梦醒 / 061.梦醒时分 / line 123
+  补充来源：我梦碎，所以我梦醒 / 061.梦醒时分 / line 121；说明：补充林青霞送贺卡和花篮。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/011.我梦碎，所以我梦醒/061.梦醒时分.txt
+  数据：data/timeline-events-dream-awake.json#dream-awake-2011-07-23-meets-brigitte-lin-after-book-fair-lecture
+- 2011年7月24日（据“翌日”推定） | 李敖在光华新闻文化中心演讲
+  精度：day；可靠度：inferred；排序日期：2011-07-24
+  摘要：《梦醒时分》附录写，香港书展演讲翌日，李敖受亚太台商联合总会邀请，作客光华新闻文化中心，并把这场《李敖的惊世绝艺》称为“总统竞选演讲”。
+  人物：李敖
+  地点：香港、光华新闻文化中心
+  标签：我梦碎，所以我梦醒、光华新闻文化中心、亚太台商联合总会、总统竞选、2011
+  视图：演讲线、选举线、海外线
+  作品：我梦碎，所以我梦醒、李敖的惊世绝艺
+  交叉引用：book8-2011-07-23-speaks-at-hong-kong-book-fair
+  来源：我梦碎，所以我梦醒 / 061.梦醒时分 / line 125
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/011.我梦碎，所以我梦醒/061.梦醒时分.txt
+  数据：data/timeline-events-dream-awake.json#dream-awake-2011-07-24-speaks-at-kwang-hwa-news-culture-center
 - 2011年8月17日改写 | 李敖改写《他》
   精度：day；可靠度：confirmed；排序日期：2011-08-17
   摘要：《他》文末署“2011年8月17日改写”。李敖以第三人称重写自己离开北京后返乡、参选台北市长与晚年自我告别的姿态，把自况写成一篇收束性的短章。
@@ -22049,6 +22127,45 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/010.你笨蛋，你笨蛋/040.你笨蛋，你笨蛋.txt
   数据：data/timeline-events-ni-bendan.json#ni-bendan-2011-08-29-rewrites-you-idiot-you-idiot
+- 2011年10月9日 | 《亚洲周刊》刊出李敖炮轰国共访问
+  精度：day；可靠度：confirmed；排序日期：2011-10-09
+  摘要：《梦醒时分》附录二《李敖炮轰国共》刊于香港《亚洲周刊》2011年10月9日。访谈中李敖证实大陆方面曾透过连战劝退宋楚瑜，宋向他征询意见时，他劝宋不要配合共产党；又说自己因大陆打压《阳痿美国》而替宋煽风点火，准备代表亲民党在文山区打马英九老家。
+  人物：李敖、宋楚瑜、连战、马英九、杨洁篪、童清峰
+  地点：台湾、香港
+  标签：我梦碎，所以我梦醒、亚洲周刊、宋楚瑜、马英九、阳痿美国、2011
+  视图：媒体线、选举线、两岸线
+  作品：我梦碎，所以我梦醒、阳痿美国、审判美国、你笨蛋，你笨蛋
+  交叉引用：-
+  来源：我梦碎，所以我梦醒 / 061.梦醒时分 / line 197
+  补充来源：我梦碎，所以我梦醒 / 061.梦醒时分 / line 133；说明：访谈开头交代宋楚瑜问计与李敖煽动宋参选。；我梦碎，所以我梦醒 / 061.梦醒时分 / line 165；说明：补充《阳痿美国》大陆出版受阻与李敖报复说法。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/011.我梦碎，所以我梦醒/061.梦醒时分.txt
+  数据：data/timeline-events-dream-awake.json#dream-awake-2011-10-09-asia-weekly-publishes-li-ao-bombards-kmt-ccp-interview
+- 2011年11月17日清早6点20分 | 李敖卧床仰写《梦醒时分》
+  精度：day；可靠度：confirmed；排序日期：2011-11-17
+  摘要：《梦醒时分》文末署“2011年11月17日清早6点20分，卧床仰写在中国台湾”。李敖在本书收束章中把前面各类“梦碎”样本归纳为十三点结论，并明确把“中国是唯一选择”作为梦醒后的方向。
+  人物：李敖
+  地点：台湾
+  标签：我梦碎，所以我梦醒、梦醒时分、卧床仰写、2011
+  视图：写作线、思想线、晚年线
+  作品：我梦碎，所以我梦醒、梦醒时分
+  交叉引用：-
+  来源：我梦碎，所以我梦醒 / 061.梦醒时分 / line 55
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/011.我梦碎，所以我梦醒/061.梦醒时分.txt
+  数据：data/timeline-events-dream-awake.json#dream-awake-2011-11-17-writes-closing-chapter-while-lying-in-bed
+- 2011年11月26日 | 李敖写《我梦碎，所以我梦醒》序
+  精度：day；可靠度：confirmed；排序日期：2011-11-26
+  摘要：《我梦碎，所以我梦醒》序文末署“2011年11月26日在中国台湾”。李敖在序中说自己继2011年2月用40天写《大江大海骗了你》后，9个月后只花17天写成这本书；又说明自己75岁后渐弃电视口伐、回归书房笔诛，每天工作18小时，并以躺着仰写的方式完成这部应时之书。
+  人物：李敖
+  地点：台湾
+  标签：我梦碎，所以我梦醒、序、大江大海骗了你、17天、2011
+  视图：写作线、晚年线、思想线
+  作品：我梦碎，所以我梦醒、大江大海骗了你
+  交叉引用：book7-2011-publishes-i-dream-broken-so-i-awake-and-lists-eight-directions
+  来源：我梦碎，所以我梦醒 / 《我梦碎，所以我梦醒》序 / line 121
+  补充来源：我梦碎，所以我梦醒 / 《我梦碎，所以我梦醒》序 / line 5；说明：序中自述继《大江大海骗了你》后用17天写成本书。；我梦碎，所以我梦醒 / 《我梦碎，所以我梦醒》序 / line 111；说明：补充躺着仰写和使用PILOT G-2 05钢珠笔的写作细节。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/011.我梦碎，所以我梦醒/《我梦碎，所以我梦醒》序.txt
+  数据：data/timeline-events-dream-awake.json#dream-awake-2011-11-26-writes-preface-after-seventeen-day-book
 - 2011年2月 | 李敖为《大江大海骗了你》写书衣词
   精度：month；可靠度：confirmed；排序日期：2011-02-28
   摘要：《〈大江大海骗了你〉书衣词》署期仅作“2011年2月”。李敖在书衣词中集中火力批驳龙应台《大江大海一九四九》的叙事与姿态，把这本书包装成拆穿“文明话术”的入口。
