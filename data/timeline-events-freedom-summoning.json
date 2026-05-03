@@ -479,12 +479,7 @@
     "places": ["台湾"],
     "works": ["为自由招魂", "为什么涨价？", "千秋评论", "万岁评论"],
     "certainty": "confirmed",
-    "crossReferences": [
-      "book8-1981-starts-li-ao-qianqiu-commentary-series",
-      "book4-1984-01-wansui-review-starts",
-      "freedom-summoning-1985-01-qiangqiu-wansui-raise-price-under-censorship",
-      "freedom-summoning-1985-01-26-qianqiu-39-banned-before-release"
-    ],
+    "crossReferences": ["book8-1981-starts-li-ao-qianqiu-commentary-series", "book4-1984-01-wansui-review-starts", "freedom-summoning-1985-01-qiangqiu-wansui-raise-price-under-censorship", "freedom-summoning-1985-01-26-qianqiu-39-banned-before-release"],
     "source": {
       "book": "为自由招魂",
       "chapter": "021.为什么涨价？",
@@ -547,14 +542,7 @@
     "places": ["台湾"],
     "works": ["为自由招魂", "月亮属于谁的？", "文星杂志选集"],
     "certainty": "confirmed",
-    "crossReferences": [
-      "book4-1981-06-17-high-court-guilty-verdict-undercuts-license",
-      "book2-broad-1982-05-23-xiao-press-defamation-judgment",
-      "book2-broad-1982-07-20-xiao-sues-wenxing-selection",
-      "book2-broad-1982-11-30-lin-maoxiong-dismisses-xiao",
-      "book2-broad-1983-01-29-high-court-dismisses-xiao-appeal",
-      "freedom-summoning-1982-before-june-edits-wenxing-anthology"
-    ],
+    "crossReferences": ["book4-1981-06-17-high-court-guilty-verdict-undercuts-license", "book2-broad-1982-05-23-xiao-press-defamation-judgment", "book2-broad-1982-07-20-xiao-sues-wenxing-selection", "book2-broad-1982-11-30-lin-maoxiong-dismisses-xiao", "book2-broad-1983-01-29-high-court-dismisses-xiao-appeal", "freedom-summoning-1982-before-june-edits-wenxing-anthology"],
     "source": {
       "book": "为自由招魂",
       "chapter": "013.月亮属于谁的？",
@@ -575,13 +563,7 @@
     "places": ["台湾"],
     "works": ["为自由招魂", "月亮属于谁的？", "文星杂志选集", "文星"],
     "certainty": "inferred",
-    "crossReferences": [
-      "book8-1974-07-16-wenxing-selected-volume-three-banned",
-      "book2-broad-1982-07-20-xiao-sues-wenxing-selection",
-      "book2-broad-1982-11-30-lin-maoxiong-dismisses-xiao",
-      "book2-broad-1983-01-29-high-court-dismisses-xiao-appeal",
-      "freedom-summoning-1982-05-14-wins-xiao-mengneng-case"
-    ],
+    "crossReferences": ["book8-1974-07-16-wenxing-selected-volume-three-banned", "book2-broad-1982-07-20-xiao-sues-wenxing-selection", "book2-broad-1982-11-30-lin-maoxiong-dismisses-xiao", "book2-broad-1983-01-29-high-court-dismisses-xiao-appeal", "freedom-summoning-1982-05-14-wins-xiao-mengneng-case"],
     "source": {
       "book": "为自由招魂",
       "chapter": "013.月亮属于谁的？",
@@ -602,11 +584,7 @@
     "places": ["台湾"],
     "works": ["为自由招魂", "我们梦想“野蛮之自由”"],
     "certainty": "confirmed",
-    "crossReferences": [
-      "freedom-summoning-1977-protests-household-police-checks",
-      "freedom-summoning-1977-keeps-household-check-table",
-      "freedom-summoning-1983-01-17-writes-wild-freedom"
-    ],
+    "crossReferences": ["freedom-summoning-1977-protests-household-police-checks", "freedom-summoning-1977-keeps-household-check-table", "freedom-summoning-1983-01-17-writes-wild-freedom"],
     "source": {
       "book": "为自由招魂",
       "chapter": "014.我们梦想“野蛮之自由”",
@@ -627,11 +605,7 @@
     "places": ["台湾"],
     "works": ["为自由招魂", "我们梦想“野蛮之自由”"],
     "certainty": "inferred",
-    "crossReferences": [
-      "freedom-summoning-1976-winter-experiences-household-police-checks",
-      "freedom-summoning-1977-keeps-household-check-table",
-      "freedom-summoning-1983-01-17-writes-wild-freedom"
-    ],
+    "crossReferences": ["freedom-summoning-1976-winter-experiences-household-police-checks", "freedom-summoning-1977-keeps-household-check-table", "freedom-summoning-1983-01-17-writes-wild-freedom"],
     "source": {
       "book": "为自由招魂",
       "chapter": "014.我们梦想“野蛮之自由”",
@@ -833,11 +807,7 @@
     "places": ["台湾"],
     "works": ["为自由招魂", "肚皮里的言论自由", "大风雪", "〈大风雪〉还要再查禁吗？"],
     "certainty": "confirmed",
-    "crossReferences": [
-      "freedom-summoning-1965-05-16-sun-ling-sends-censorship-essay-to-li-ao",
-      "freedom-summoning-1965-06-01-li-ao-publishes-sun-ling-essay-in-wenxing",
-      "freedom-summoning-1965-08-13-li-ao-keeps-sun-ling-second-essay"
-    ],
+    "crossReferences": ["freedom-summoning-1965-05-16-sun-ling-sends-censorship-essay-to-li-ao", "freedom-summoning-1965-06-01-li-ao-publishes-sun-ling-essay-in-wenxing", "freedom-summoning-1965-08-13-li-ao-keeps-sun-ling-second-essay"],
     "source": {
       "book": "为自由招魂",
       "chapter": "019.肚皮里的言论自由",
@@ -878,15 +848,7 @@
     "places": ["台湾"],
     "works": ["为自由招魂", "为什么涨价？", "千秋评论", "万岁评论"],
     "certainty": "confirmed",
-    "crossReferences": [
-      "book8-1981-starts-li-ao-qianqiu-commentary-series",
-      "book4-1984-01-wansui-review-starts",
-      "book8-1983-05-24-chiu-review-22-banned-before-publication",
-      "book8-1983-10-29-chiu-review-26-banned-before-publication",
-      "book8-1983-12-20-chiu-review-27-banned-before-publication",
-      "book8-1984-01-08-chiu-review-28-banned-before-publication",
-      "freedom-summoning-1985-01-26-qianqiu-39-banned-before-release"
-    ],
+    "crossReferences": ["book8-1981-starts-li-ao-qianqiu-commentary-series", "book4-1984-01-wansui-review-starts", "book8-1983-05-24-chiu-review-22-banned-before-publication", "book8-1983-10-29-chiu-review-26-banned-before-publication", "book8-1983-12-20-chiu-review-27-banned-before-publication", "book8-1984-01-08-chiu-review-28-banned-before-publication", "freedom-summoning-1985-01-26-qianqiu-39-banned-before-release"],
     "source": {
       "book": "为自由招魂",
       "chapter": "021.为什么涨价？",
@@ -907,20 +869,22 @@
     "places": ["台湾"],
     "works": ["为自由招魂", "为什么涨价？", "千秋评论"],
     "certainty": "confirmed",
-    "crossReferences": [
-      "book8-1981-starts-li-ao-qianqiu-commentary-series",
-      "book8-1983-05-24-chiu-review-22-banned-before-publication",
-      "book8-1983-10-29-chiu-review-26-banned-before-publication",
-      "book8-1983-12-20-chiu-review-27-banned-before-publication",
-      "book8-1984-01-08-chiu-review-28-banned-before-publication",
-      "freedom-summoning-1985-01-qiangqiu-wansui-raise-price-under-censorship"
-    ],
+    "crossReferences": ["book8-1981-starts-li-ao-qianqiu-commentary-series", "book8-1983-05-24-chiu-review-22-banned-before-publication", "book8-1983-10-29-chiu-review-26-banned-before-publication", "book8-1983-12-20-chiu-review-27-banned-before-publication", "book8-1984-01-08-chiu-review-28-banned-before-publication", "freedom-summoning-1985-01-qiangqiu-wansui-raise-price-under-censorship", "qianqiu-wansui-1984-12-25-051-qianqiu-review-39"],
     "source": {
       "book": "为自由招魂",
       "chapter": "021.为什么涨价？",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/021.为什么涨价？.txt",
       "line": 17
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "千秋万岁乌鸦求是合集",
+        "chapter": "051.李敖著作年表",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/051.李敖著作年表.txt",
+        "line": 103,
+        "note": "著作年表列第39期为1984年12月25日出版并标注查禁；与《为什么涨价？》所述1985年1月25日出版存在日期差异。"
+      }
+    ]
   },
   {
     "id": "freedom-summoning-1985-before-apr-18-gets-ye-mingxun-secret-document",
@@ -956,11 +920,7 @@
     "places": ["台湾"],
     "works": ["为自由招魂", "《叶明勋密件》书后", "自立晚报"],
     "certainty": "inferred",
-    "crossReferences": [
-      "freedom-summoning-1985-before-apr-18-gets-ye-mingxun-secret-document",
-      "freedom-summoning-1985-04-18-writes-postscript-ye-mingxun-secret-document",
-      "thought-answer-1964-01-01-answer-to-china-thought-trend-published"
-    ],
+    "crossReferences": ["freedom-summoning-1985-before-apr-18-gets-ye-mingxun-secret-document", "freedom-summoning-1985-04-18-writes-postscript-ye-mingxun-secret-document", "thought-answer-1964-01-01-answer-to-china-thought-trend-published"],
     "source": {
       "book": "为自由招魂",
       "chapter": "022.《叶明勋密件》书后",
@@ -981,11 +941,7 @@
     "places": ["台湾"],
     "works": ["为自由招魂", "我们梦想“野蛮之自由”"],
     "certainty": "inferred",
-    "crossReferences": [
-      "freedom-summoning-1976-winter-experiences-household-police-checks",
-      "freedom-summoning-1977-protests-household-police-checks",
-      "freedom-summoning-1983-01-17-writes-wild-freedom"
-    ],
+    "crossReferences": ["freedom-summoning-1976-winter-experiences-household-police-checks", "freedom-summoning-1977-protests-household-police-checks", "freedom-summoning-1983-01-17-writes-wild-freedom"],
     "source": {
       "book": "为自由招魂",
       "chapter": "014.我们梦想“野蛮之自由”",
@@ -1006,10 +962,7 @@
     "places": ["台湾"],
     "works": ["为自由招魂", "文警论"],
     "certainty": "inferred",
-    "crossReferences": [
-      "freedom-summoning-1965-09-21-letter-submits-wen-jing-lun",
-      "freedom-summoning-1965-09-24-records-wen-jing-lun-phone-pressure"
-    ],
+    "crossReferences": ["freedom-summoning-1965-09-21-letter-submits-wen-jing-lun", "freedom-summoning-1965-09-24-records-wen-jing-lun-phone-pressure"],
     "source": {
       "book": "为自由招魂",
       "chapter": "002.文警论及附件",

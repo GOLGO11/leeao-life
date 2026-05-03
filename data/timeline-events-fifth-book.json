@@ -2513,7 +2513,16 @@
       "chapter": "018.闹衙纪",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/018.闹衙纪.txt",
       "line": 7
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "千秋万岁乌鸦求是合集",
+        "chapter": "051.李敖著作年表",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/051.李敖著作年表.txt",
+        "line": 105,
+        "note": "著作年表同记1985年4月25日出版《五十·五十·易》上下册并标注查禁。"
+      }
+    ]
   },
   {
     "id": "book5-1985-06-24-claims-damages-from-taipei-city",
@@ -2573,7 +2582,16 @@
       "chapter": "018.闹衙纪",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/018.闹衙纪.txt",
       "line": 9
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "千秋万岁乌鸦求是合集",
+        "chapter": "051.李敖著作年表",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/051.李敖著作年表.txt",
+        "line": 105,
+        "note": "著作年表同记1985年4月15日出版《我给我画帽子》。"
+      }
+    ]
   },
   {
     "id": "book5-1985-06-27-kaohsiung-police-seize-hat-book",
@@ -4169,7 +4187,17 @@
       "chapter": "010.根株纪",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/010.根株纪.txt",
       "line": 39
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "千秋万岁乌鸦求是合集",
+        "chapter": "051.李敖著作年表",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/051.李敖著作年表.txt",
+        "line": 77,
+        "note": "著作年表列1971年《借古不讽今》在香港出版，台湾不准进口。"
+      }
+    ],
+    "crossReferences": ["qianqiu-wansui-1971-051-jiegubufengjin-published-in-hongkong"]
   },
   {
     "id": "book5-1971-after-arrest-wang-jingxi-supports-li-in-nanbeiji",

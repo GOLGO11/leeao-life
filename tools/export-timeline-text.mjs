@@ -126,6 +126,6 @@ for (const event of events) {
 }
 
 fs.mkdirSync(path.dirname(outputPath), { recursive: true });
-fs.writeFileSync(outputPath, `${lines.join("\n")}\n`, "utf8");
+fs.writeFileSync(outputPath, `\uFEFF${lines.join("\n")}\n`, "utf8");
 
 console.log(outputPath);
