@@ -188,10 +188,10 @@
   {
     "id": "beijing-fayuansi-1990-year-end-finishes-novel-before-qiushi-bao",
     "date": "1990-12-31",
-    "displayDate": "1990年底（1991年6月12日文中称“去年年底”）",
-    "datePrecision": "year-end",
-    "title": "李敖在创办《求是报》前用一个多月快速完成《北京法源寺》",
-    "summary": "李敖写道，国民党在台湾三十七年的报禁解除后，他决定创办《求是报》，自知报纸一办时间会被困住，于是花一个多月、每天写两个多小时，终于在“去年年底”快速完成《北京法源寺》。因文章署日为1991年6月12日，此处“去年年底”记为1990年底。",
+    "displayDate": "1990年12月31日（《尾声》署日；1991年6月12日写作说明称“去年年底”）",
+    "datePrecision": "day",
+    "title": "李敖在台北为《北京法源寺》尾声署日，并确认小说在创办《求是报》前完成",
+    "summary": "《北京法源寺》017《尾声--掘坟》末尾署“1990年12月31日，在中国台北”，为全书提供了书内确切署日。李敖后来在1991年6月12日《我写〈北京法源寺〉》中回述，报禁解除后他决定创办《求是报》，自知报纸一办时间会被困住，于是花一个多月、每天写两个多小时，在“去年年底”快速完成《北京法源寺》。本条只取尾声署日与作者写作说明，不把尾声中的小说/历史叙事当作现实年表。",
     "view": [
       "创作线",
       "媒体线"
@@ -202,7 +202,10 @@
       "报禁解除",
       "完稿",
       "快速写作",
-      "1990"
+      "1990",
+      "尾声署日",
+      "台北",
+      "精确署日"
     ],
     "people": [
       "李敖"
@@ -218,11 +221,17 @@
     "certainty": "reported-by-author",
     "source": {
       "book": "北京法源寺",
-      "chapter": "018.我写《北京法源寺》",
-      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/001.北京法源寺/018.我写《北京法源寺》.txt",
-      "line": 9
+      "chapter": "017.尾声--掘坟",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/001.北京法源寺/017.尾声——掘坟.txt",
+      "line": 19
     },
     "additionalSources": [
+      {
+        "book": "北京法源寺",
+        "chapter": "018.我写《北京法源寺》",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/001.北京法源寺/018.我写《北京法源寺》.txt",
+        "line": 9
+      },
       {
         "book": "北京法源寺",
         "chapter": "018.我写《北京法源寺》",
@@ -233,7 +242,8 @@
     "crossReferences": [
       "book4-1992-04-01-li-ao-qiushi-review-ends",
       "book5-1992-01-03-hospital-queue-beijing-fayuansi-praise",
-      "book8-2000-beijing-fayuan-temple-nobel-prize-nomination"
+      "book8-2000-beijing-fayuan-temple-nobel-prize-nomination",
+      "beijing-fayuansi-1991-06-12-writes-about-writing-fayuan"
     ]
   },
   {

@@ -61,7 +61,17 @@ const dataFiles = [
   "./data/timeline-events-qianqiu-wansui-bianwai.json",
   "./data/timeline-events-beijing-fayuansi.json"
 ];
-const dataVersion = "2026-05-04-sponsor-scope-note";
+const supplementalDataFiles = new Set([
+  "./data/timeline-events-first-book-supplement.json",
+  "./data/timeline-events-first-book-broad.json",
+  "./data/timeline-events-first-book-daily.json",
+  "./data/timeline-events-second-book-broad.json",
+  "./data/timeline-events-second-book-evidence.json",
+  "./data/timeline-events-third-book-qiao-evidence.json",
+  "./data/timeline-events-fourth-book-deepening.json"
+]);
+const processedBookCount = dataFiles.filter((file) => !supplementalDataFiles.has(file)).length;
+const dataVersion = "2026-05-04-beijing-fayuansi-closeout";
 
 const dateFormatter = new Intl.DateTimeFormat("zh-Hant", {
   year: "numeric",
@@ -199,7 +209,7 @@ function renderDecadeNav(decades) {
 
 function renderStats(events) {
   eventCount.textContent = String(state.events.length);
-  bookCount.textContent = String(unique(state.events.map((event) => event.source.book)).length);
+  bookCount.textContent = String(processedBookCount);
   if (!events.length) {
     rangeLabel.textContent = "-";
     resultLabel.textContent = "没有匹配事件";

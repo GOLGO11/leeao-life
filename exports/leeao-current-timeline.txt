@@ -3,7 +3,7 @@
 事件总数：2183
 数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json；data/timeline-events-ni-bendan.json；data/timeline-events-dream-awake.json；data/timeline-events-li-ao-xinkan.json；data/timeline-events-qianqiu-wansui-wuya-qiushi.json；data/timeline-events-li-ao-zawenji.json；data/timeline-events-qianqiu-wansui-bianwai.json；data/timeline-events-beijing-fayuansi.json
 说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。
-日期精度统计：day=1761；year=93；year-range=13；undated-range=1；undated-context=140；season=26；lunar-day=1；year-after=7；month=49；half-year=2；school-year-context=5；day-range=14；month-after=3；year-context=16；day-after=4；before-date-context=10；year-about=6；after-date-context=8；month-context=3；day-context=5；range-context=14；year-end=2
+日期精度统计：day=1762；year=93；year-range=13；undated-range=1；undated-context=140；season=26；lunar-day=1；year-after=7；month=49；half-year=2；school-year-context=5；day-range=14；month-after=3；year-context=16；day-after=4；before-date-context=10；year-about=6；after-date-context=8；month-context=3；day-context=5；range-context=14；year-end=1
 
 
 1935
@@ -21851,6 +21851,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/130.忘亦好.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1990-12-26-130-writes-forgetting-is-good
+- 1990年12月31日（《尾声》署日；1991年6月12日写作说明称“去年年底”） | 李敖在台北为《北京法源寺》尾声署日，并确认小说在创办《求是报》前完成
+  精度：day；可靠度：reported-by-author；排序日期：1990-12-31
+  摘要：《北京法源寺》017《尾声--掘坟》末尾署“1990年12月31日，在中国台北”，为全书提供了书内确切署日。李敖后来在1991年6月12日《我写〈北京法源寺〉》中回述，报禁解除后他决定创办《求是报》，自知报纸一办时间会被困住，于是花一个多月、每天写两个多小时，在“去年年底”快速完成《北京法源寺》。本条只取尾声署日与作者写作说明，不把尾声中的小说/历史叙事当作现实年表。
+  人物：李敖
+  地点：台湾
+  标签：北京法源寺、求是报、报禁解除、完稿、快速写作、1990、尾声署日、台北、精确署日
+  视图：创作线、媒体线
+  作品：北京法源寺、求是报、我写《北京法源寺》
+  交叉引用：book4-1992-04-01-li-ao-qiushi-review-ends、book5-1992-01-03-hospital-queue-beijing-fayuansi-praise、book8-2000-beijing-fayuan-temple-nobel-prize-nomination、beijing-fayuansi-1991-06-12-writes-about-writing-fayuan
+  来源：北京法源寺 / 017.尾声--掘坟 / line 19
+  补充来源：北京法源寺 / 018.我写《北京法源寺》 / line 9；北京法源寺 / 018.我写《北京法源寺》 / line 25
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/001.北京法源寺/017.尾声——掘坟.txt
+  数据：data/timeline-events-beijing-fayuansi.json#beijing-fayuansi-1990-year-end-finishes-novel-before-qiushi-bao
 - 1990年1月9-14日 | 李敖写《毛泽东与湖南独立》
   精度：day-range；可靠度：inferred；排序日期：1990-01-09
   摘要：《毛泽东与湖南独立》文末署“1990年1月9-14日”。李敖写毛泽东1920年鼓吹湖南独立，并借此谈台独口号未必都是真信念。
@@ -22007,19 +22020,6 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/308.徐开尘约我写文章.txt
   数据：data/timeline-events-seventh-book.json#book7-1990-12-writes-hu-shi-bai-nian-gu-ji-for-xu-kaichen
-- 1990年底（1991年6月12日文中称“去年年底”） | 李敖在创办《求是报》前用一个多月快速完成《北京法源寺》
-  精度：year-end；可靠度：reported-by-author；排序日期：1990-12-31
-  摘要：李敖写道，国民党在台湾三十七年的报禁解除后，他决定创办《求是报》，自知报纸一办时间会被困住，于是花一个多月、每天写两个多小时，终于在“去年年底”快速完成《北京法源寺》。因文章署日为1991年6月12日，此处“去年年底”记为1990年底。
-  人物：李敖
-  地点：台湾
-  标签：北京法源寺、求是报、报禁解除、完稿、快速写作、1990
-  视图：创作线、媒体线
-  作品：北京法源寺、求是报、我写《北京法源寺》
-  交叉引用：book4-1992-04-01-li-ao-qiushi-review-ends、book5-1992-01-03-hospital-queue-beijing-fayuansi-praise、book8-2000-beijing-fayuan-temple-nobel-prize-nomination
-  来源：北京法源寺 / 018.我写《北京法源寺》 / line 9
-  补充来源：北京法源寺 / 018.我写《北京法源寺》 / line 25
-  文件：《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/001.北京法源寺/018.我写《北京法源寺》.txt
-  数据：data/timeline-events-beijing-fayuansi.json#beijing-fayuansi-1990-year-end-finishes-novel-before-qiushi-bao
 
 1991
 - 1991年1月4日 | 李敖致昆明大姐信中写母亲返台后的风趣状态
