@@ -1,9 +1,9 @@
 ﻿李敖交互式年表：当前增量纯文本备份
 生成日期：2026-05-04
-事件总数：2373
-数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json；data/timeline-events-ni-bendan.json；data/timeline-events-dream-awake.json；data/timeline-events-li-ao-xinkan.json；data/timeline-events-qianqiu-wansui-wuya-qiushi.json；data/timeline-events-li-ao-zawenji.json；data/timeline-events-qianqiu-wansui-bianwai.json；data/timeline-events-beijing-fayuansi.json；data/timeline-events-shangshan-ai.json；data/timeline-events-red-11.json；data/timeline-events-virtual-seventeen.json；data/timeline-events-yangwei-america.json；data/timeline-events-73rd-martyr.json；data/timeline-events-love-secret.json；data/timeline-events-li-ao-love-poems.json；data/timeline-events-li-yulu.json；data/timeline-events-li-ao-yulu.json
+事件总数：2385
+数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json；data/timeline-events-ni-bendan.json；data/timeline-events-dream-awake.json；data/timeline-events-li-ao-xinkan.json；data/timeline-events-qianqiu-wansui-wuya-qiushi.json；data/timeline-events-li-ao-zawenji.json；data/timeline-events-qianqiu-wansui-bianwai.json；data/timeline-events-beijing-fayuansi.json；data/timeline-events-shangshan-ai.json；data/timeline-events-red-11.json；data/timeline-events-virtual-seventeen.json；data/timeline-events-yangwei-america.json；data/timeline-events-73rd-martyr.json；data/timeline-events-love-secret.json；data/timeline-events-li-ao-love-poems.json；data/timeline-events-li-yulu.json；data/timeline-events-li-ao-yulu.json；data/timeline-events-sui-qianwan-li-ao-wangyi.json
 说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。
-日期精度统计：day=1941；year=97；year-range=13；undated-range=1；undated-context=141；season=27；lunar-day=1；year-after=7；month=51；half-year=2；school-year-context=5；day-range=14；year-about=8；month-after=3；year-context=16；day-after=4；before-date-context=11；after-date-context=8；month-context=3；day-context=5；range-context=14；year-end=1
+日期精度统计：day=1952；year=97；year-range=13；undated-range=1；undated-context=141；season=27；lunar-day=1；year-after=7；month=51；half-year=2；school-year-context=5；day-range=14；year-about=8；month-after=3；year-context=16；day-after=4；before-date-context=11；after-date-context=8；month-context=3；day-context=6；range-context=14；year-end=1
 
 
 1935
@@ -30512,6 +30512,123 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/008.李敖相关/001.李敖五十年表.txt
   数据：data/timeline-events-eighth-book.json#book8-2011-05-17-opens-sina-weibo-account
+- 2011年5月17日 | 李敖以“拿牛刀的来了”开启“哈囉李敖”140字网路写作
+  精度：day；可靠度：confirmed；排序日期：2011-05-17
+  摘要：《2011年5月》第一日开篇即题“拿牛刀的来了”，李敖把自己进入140字网路写作写成“我来了、我看见了、我征服了”。《开微博的缘由》又说明他在网路时代开设“哈啰李敖”相关网站，台湾用 Facebook，大陆用博客、微博和 QQ；因书不能流传，只好下海写每则140字的网站短文。
+  人物：李敖
+  地点：台湾、大陆网络平台
+  标签：虽千万人，李敖往矣、哈囉李敖、微博、Facebook、140字
+  视图：写作线、媒体线、晚年线
+  作品：虽千万人，李敖往矣、哈囉李敖
+  交叉引用：book7-2015-early-turns-hello-li-ao-into-full-book-though-ten-million-followers-milestone
+  来源：虽千万人，李敖往矣 / 001.2011年5月 / line 7
+  补充来源：虽千万人，李敖往矣 / 054.开微博的缘由 / line 3；说明：说明“哈啰李敖”命名、台湾 Facebook 与大陆博客/微博/QQ 的平台分布。；虽千万人，李敖往矣 / 054.开微博的缘由 / line 11；说明：李敖自述因书不能流传，只好写140字网站短文。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/005.虽千万人，李敖往矣/001.2011年5月.txt
+  数据：data/timeline-events-sui-qianwan-li-ao-wangyi.json#sui-qianwan-2011-05-17-starts-hello-li-ao-140-char-web-writing
+- 2011年5月17日 | 晓娥来电告知《阳痿美国》等书在大陆出版受阻
+  精度：day；可靠度：confirmed；排序日期：2011-05-17
+  摘要：《2011年5月》“共产党盯上了”写，晓娥来电告诉李敖，继《阳痿美国》不能出版后，《大江大海骗了你》《第73烈士》也都有阻力；李敖回应说国民党查禁他的书到第96本后垮台，如今由共产党接力，已超过100本。此条与三书既有写作/交稿/出版链交叉引用，不重复改写旧节点。
+  人物：李敖、晓娥
+  地点：台湾、大陆出版界
+  标签：虽千万人，李敖往矣、阳痿美国、大江大海骗了你、第73烈士、出版受阻
+  视图：出版线、两岸线、晚年线
+  作品：虽千万人，李敖往矣、阳痿美国、大江大海骗了你、第73烈士
+  交叉引用：ni-bendan-2010-08-13-writes-impotent-america、book7-2010-10-publishes-yangwei-america、book7-2011-03-03-submits-manuscript-of-the-73rd-martyr、dream-awake-2011-10-09-asia-weekly-publishes-li-ao-bombards-kmt-ccp-interview
+  来源：虽千万人，李敖往矣 / 001.2011年5月 / line 15
+  补充来源：虽千万人，李敖往矣 / 054.开微博的缘由 / line 13；说明：同文补述三本新书在大陆“出不来”或“胎死腹中”，并解释他写微博是为突破封锁。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/005.虽千万人，李敖往矣/001.2011年5月.txt
+  数据：data/timeline-events-sui-qianwan-li-ao-wangyi.json#sui-qianwan-2011-05-17-xiaoe-calls-about-mainland-publication-blockage
+- 2011年5月19日 | 李敖公开“哈囉李敖”班子：手写、小屯打字、赖岳忠制作后发布
+  精度：day；可靠度：confirmed；排序日期：2011-05-19
+  摘要：《2011年5月》“随我魂归祖国”写，当时“哈囉李敖”的工作班子是李敖手写、太太小屯打字、好友赖岳忠制作后发布；其中可能惹来杀身之祸的文章，由赖岳忠斟酌只在台湾 Facebook 发出。李敖还预告写成1000则、14万字后，会在台湾出一部未删完整版。
+  人物：李敖、王小屯、赖岳忠
+  地点：台湾
+  标签：虽千万人，李敖往矣、哈囉李敖、王小屯、赖岳忠、Facebook
+  视图：写作线、媒体线、家庭线
+  作品：虽千万人，李敖往矣、哈囉李敖
+  交叉引用：book7-2015-early-turns-hello-li-ao-into-full-book-though-ten-million-followers-milestone
+  来源：虽千万人，李敖往矣 / 001.2011年5月 / line 179
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/005.虽千万人，李敖往矣/001.2011年5月.txt
+  数据：data/timeline-events-sui-qianwan-li-ao-wangyi.json#sui-qianwan-2011-05-19-documents-hello-li-ao-production-team
+- 2011年5月19日 | 李敖说明“哈囉李敖”首批近30篇由杨宗儒律师助理代打
+  精度：day；可靠度：confirmed；排序日期：2011-05-19
+  摘要：《2011年5月》“打字之谜”写，李敖承认自己不会电脑打字，因此“哈囉李敖”上网后虽文章是真的，打字却是假的；第一批近30篇，是他找杨宗儒律师告小S时，顺便请杨宗儒助理们代打。这条保留“哈囉李敖”初期制作的具体日常流程。
+  人物：李敖、杨宗儒、小S
+  地点：台北
+  标签：虽千万人，李敖往矣、哈囉李敖、打字、杨宗儒、小S
+  视图：写作线、日常线、媒体线
+  作品：虽千万人，李敖往矣、哈囉李敖
+  交叉引用：-
+  来源：虽千万人，李敖往矣 / 001.2011年5月 / line 151
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/005.虽千万人，李敖往矣/001.2011年5月.txt
+  数据：data/timeline-events-sui-qianwan-li-ao-wangyi.json#sui-qianwan-2011-05-19-law-office-assistants-type-first-posts
+- 2011年5月20日 | 李敖称李戡是“哈囉李敖”的北京“闇将军”
+  精度：day；可靠度：confirmed；排序日期：2011-05-20
+  摘要：《2011年5月》“李戡是‘闇将军’”写，身在北京的李戡最早鼓动李敖玩140字，并每天电话遥控；李敖称他是真正操盘者。文中还提到在北京的小额鼓舞他尽快起动，并承担将来“魂归祖国版”的伏线。
+  人物：李敖、李戡、小额
+  地点：北京、台湾
+  标签：虽千万人，李敖往矣、哈囉李敖、李戡、小额、140字
+  视图：家庭线、写作线、媒体线
+  作品：虽千万人，李敖往矣、哈囉李敖
+  交叉引用：-
+  来源：虽千万人，李敖往矣 / 001.2011年5月 / line 185
+  补充来源：虽千万人，李敖往矣 / 《虽千万人，李敖往矣》自序 / line 3；说明：自序追述李戡四年前点化他，提示微博140字管道尚有零星透气可能。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/005.虽千万人，李敖往矣/001.2011年5月.txt
+  数据：data/timeline-events-sui-qianwan-li-ao-wangyi.json#sui-qianwan-2011-05-20-li-kan-operates-as-beijing-remote-strategist
+- 2011年5月20日清早 | 李敖清早躺在木板床上仰写四则“哈囉李敖”
+  精度：day；可靠度：confirmed；排序日期：2011-05-20
+  摘要：《2011年5月》“水獭颂”写，前四则短文是李敖清早未起、躺在木板床上仰着写的；他由此联想到躺在水上吃东西的水獭，并说明自己多年在狱中睡木板，已经上瘾。这条记录了微博短文写作中的身体姿态与狱后日常习惯。
+  人物：李敖
+  地点：台湾
+  标签：虽千万人，李敖往矣、哈囉李敖、木板床、狱后习惯、早晨写作
+  视图：日常线、写作线、晚年线
+  作品：虽千万人，李敖往矣、哈囉李敖
+  交叉引用：-
+  来源：虽千万人，李敖往矣 / 001.2011年5月 / line 197
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/005.虽千万人，李敖往矣/001.2011年5月.txt
+  数据：data/timeline-events-sui-qianwan-li-ao-wangyi.json#sui-qianwan-2011-05-20-writes-four-posts-lying-on-wooden-bed
+- 2011年5月22日 | 李敖买水货 iPad II 并当晚手写输入四篇短文
+  精度：day；可靠度：confirmed；排序日期：2011-05-22
+  摘要：《2011年5月》“李大师会打字了”写，2011年5月22日星期日下午，李敖买了水货 iPad II，晚上就打出4篇，很有成就感；他说明自己用手写法输入，虽会汉语拼音和注音符号，但手写法更得心应手。这条是“哈囉李敖”从代打走向自我输入的重要日常节点。
+  人物：李敖
+  地点：台湾
+  标签：虽千万人，李敖往矣、哈囉李敖、iPad II、打字、手写输入
+  视图：日常线、写作线、媒体线
+  作品：虽千万人，李敖往矣、哈囉李敖
+  交叉引用：-
+  来源：虽千万人，李敖往矣 / 001.2011年5月 / line 243
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/005.虽千万人，李敖往矣/001.2011年5月.txt
+  数据：data/timeline-events-sui-qianwan-li-ao-wangyi.json#sui-qianwan-2011-05-22-buys-ipad-and-types-four-posts
+- 2011年5月24日 | 李敖上侯佩岑节目，谈《只爱一点点》
+  精度：day；可靠度：confirmed；排序日期：2011-05-24
+  摘要：《2011年5月》“只爱一点点”写，李敖多年前写过“不爱那么多，只爱一点点”一诗；5月24日上侯佩岑节目时，侯佩岑特别引进这首诗并加以认同，李敖称她“真是解人也”。此条只收节目现场与旧诗被引入的现实动作，不把诗句本身扩作新事件。
+  人物：李敖、侯佩岑
+  地点：台湾
+  标签：虽千万人，李敖往矣、侯佩岑、只爱一点点、节目、诗
+  视图：媒体线、写作线、感情线
+  作品：虽千万人，李敖往矣、只爱一点点
+  交叉引用：-
+  来源：虽千万人，李敖往矣 / 001.2011年5月 / line 269
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/005.虽千万人，李敖往矣/001.2011年5月.txt
+  数据：data/timeline-events-sui-qianwan-li-ao-wangyi.json#sui-qianwan-2011-05-24-appears-on-hou-peicen-program-with-poem
+- 2011年5月27日 | 李敖收到中信出版社印行的《审判美国》
+  精度：day；可靠度：confirmed；排序日期：2011-05-27
+  摘要：《2011年5月》“二零一一年五月二十七日”写，李敖于2011年5月27日收到北京中信出版社印行的《审判美国》，看到版权页“2011年5月第1次印刷”，感到“悲欣交集”；他说明此书原本《阳痿美国》历经270天折腾、成品被封杀成纸浆，最后自阉书名为《审判美国》得以出版。
+  人物：李敖
+  地点：北京、大陆出版界、台湾
+  标签：虽千万人，李敖往矣、审判美国、阳痿美国、中信出版社、改名出版
+  视图：出版线、两岸线、晚年线
+  作品：虽千万人，李敖往矣、审判美国、阳痿美国
+  交叉引用：ni-bendan-2010-08-13-writes-impotent-america、book7-2010-10-publishes-yangwei-america、sui-qianwan-2011-05-17-xiaoe-calls-about-mainland-publication-blockage
+  来源：虽千万人，李敖往矣 / 001.2011年5月 / line 331
+  补充来源：虽千万人，李敖往矣 / 001.2011年5月 / line 327；说明：同日前后文先说明《阳痿美国》几经疏通后蒙准改名出版。；虽千万人，李敖往矣 / 001.2011年5月 / line 335；说明：补充同一本书在海峡两边分别叫《审判美国》和《阳痿美国》。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/005.虽千万人，李敖往矣/001.2011年5月.txt
+  数据：data/timeline-events-sui-qianwan-li-ao-wangyi.json#sui-qianwan-2011-05-27-receives-citic-edition-of-trial-america
 - 2011年7月22日下午（据《亚洲周刊》附录语境推定） | 李敖抵达香港准备书展演讲
   精度：day；可靠度：inferred；排序日期：2011-07-22
   摘要：《梦醒时分》附录《李敖香港旋风》写，李敖在香港书展演讲前一天下午步出香港机场，红夹克、红领带、大墨镜，口袋插着五枝笔；他与王志慧、李谌同行但刻意不同机，并拒绝独自走贵宾通道，陪朋友排队过海关。
@@ -30616,6 +30733,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/010.你笨蛋，你笨蛋/039.他.txt
   数据：data/timeline-events-ni-bendan.json#ni-bendan-2011-08-17-rewrites-he
+- 2011年8月18日 | 李敖参加“20110818李敖微访谈”
+  精度：day；可靠度：confirmed；排序日期：2011-08-18
+  摘要：《20110818李敖微访谈》收录一场微博问答，主持人开场称“现在是真的李敖坐在旁边”，李敖随即回答出版、教育、子女、两岸、未来写作等问题；其中他表示世界性的大书应该写，也说明为什么把儿子送到北京读书。这条按文件题名日期入表，保留为李敖晚年网络互动节点。
+  人物：李敖、李戡
+  地点：台湾、大陆网络平台、北京
+  标签：虽千万人，李敖往矣、微访谈、微博、李戡、网络互动
+  视图：媒体线、晚年线、家庭线
+  作品：虽千万人，李敖往矣
+  交叉引用：-
+  来源：虽千万人，李敖往矣 / 055.20110818李敖微访谈 / line 3
+  补充来源：虽千万人，李敖往矣 / 055.20110818李敖微访谈 / line 13；说明：回答把儿子送到北京读书的理由。；虽千万人，李敖往矣 / 055.20110818李敖微访谈 / line 53；说明：回答未来几年写作计划，称世界性的大书应该写。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/005.虽千万人，李敖往矣/055.20110818李敖微访谈.txt
+  数据：data/timeline-events-sui-qianwan-li-ao-wangyi.json#sui-qianwan-2011-08-18-does-micro-interview
 - 2011年8月29日改写 | 李敖改写《你笨蛋，你笨蛋》
   精度：day；可靠度：confirmed；排序日期：2011-08-29
   摘要：《你笨蛋，你笨蛋》文末署“2011年8月29日改写”。李敖回溯1994、1998、2000三次蓝营选举抉择，把“你笨蛋，你笨蛋”写成对国民党与蓝营选民的集中政治讽刺。
@@ -30772,6 +30902,19 @@
   补充来源：第73烈士 / 008.附录——《第73烈士》志缘 / line 23；第73烈士 / 008.附录——《第73烈士》志缘 / line 5；说明：补充半世纪酝酿起点。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/010.你笨蛋，你笨蛋/036.《第73烈士》志缘.txt
   数据：data/timeline-events-ni-bendan.json#ni-bendan-2011-spring-month-range-writes-73rd-martyr-epilogue
+- 2011年5月20日 | 李敖在“哈囉李敖”披露美国国会图书馆成立“李敖特藏”
+  精度：day-context；可靠度：contextual；排序日期：2011-05-20
+  摘要：《2011年5月》“李敖特藏”写，美国国会图书馆成立 Li Ao Collection；李敖把这件事同自己的大陆、台湾、美国三地出版处境并置，还说《阳痿美国》将在美国出版、在大陆反倒被查禁。此条记录的是2011年5月20日李敖披露并评论“李敖特藏”，特藏成立日待后续校准。
+  人物：李敖
+  地点：美国国会图书馆、华盛顿、台湾、大陆出版界
+  标签：虽千万人，李敖往矣、李敖特藏、美国国会图书馆、阳痿美国、出版受阻
+  视图：出版线、媒体线、国际线
+  作品：虽千万人，李敖往矣、阳痿美国
+  交叉引用：dream-awake-2011-09-refuses-library-of-congress-speech-after-confucius-institute-pressure、sui-qianwan-2011-05-17-xiaoe-calls-about-mainland-publication-blockage
+  来源：虽千万人，李敖往矣 / 001.2011年5月 / line 189
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/005.虽千万人，李敖往矣/001.2011年5月.txt
+  数据：data/timeline-events-sui-qianwan-li-ao-wangyi.json#sui-qianwan-2011-05-20-discloses-library-of-congress-li-ao-collection
 - 2011年8月17日前几年 | 李敖特意搜集联语例子留存
   精度：undated-context；可靠度：contextual；排序日期：2011-08-16
   摘要：《联语对比举例》正文写，李敖在成文前几年特别搜集了一些有代表性的联语作为举例留存；他把这件事视作对联语传统的一次“反革命”式保存。
@@ -30946,7 +31089,7 @@
   作品：虽千万人，李敖往矣、李敖风流自传
   交叉引用：-
   来源：李敖风流自传 / 638.“哈囉李敖” / line 3
-  补充来源：外部日期校对 / 李敖推出两本新书庆祝80岁大寿 / line 1；说明：2015-04-24 报道确认《虽千万人，李敖往矣》与《李敖风流自传》同场作为80岁新书发布，可用来校定本章所称“今年初”已进入2015年出书阶段。
+  补充来源：外部日期校对 / 李敖推出两本新书庆祝80岁大寿 / line 1；说明：2015-04-24 报道确认《虽千万人，李敖往矣》与《李敖风流自传》同场作为80岁新书发布，可用来校定本章所称“今年初”已进入2015年出书阶段。；虽千万人，李敖往矣 / 《虽千万人，李敖往矣》自序 / line 3；说明：李敖自序明说粉丝已千万，决定出版《虽千万人，李敖往矣》足本一书，欢庆80岁。；虽千万人，李敖往矣 / 《虽千万人，李敖往矣》自序 / line 5；说明：自序补充“哈囉李敖”开笔时已预告将来在岛上出未删完整版，现在完整版兑现。；虽千万人，李敖往矣 / 《虽千万人，李敖往矣》自序 / line 9；说明：自序概括每日一则、写了30个月，除了2012全年缺货外迄未小休。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/638.“哈囉李敖”.txt
   数据：data/timeline-events-seventh-book.json#book7-2015-early-turns-hello-li-ao-into-full-book-though-ten-million-followers-milestone
 
@@ -30992,6 +31135,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/008.李敖相关/001.李敖五十年表.txt
   数据：data/timeline-events-eighth-book.json#book8-2017-06-09-gives-last-public-lecture-at-flypage-bookstore
+- 2017年9月4日 | 李敖立遗嘱，安排著作权、保险金和给李文的月付事项
+  精度：day；可靠度：confirmed；排序日期：2017-09-04
+  摘要：《李敖遗嘱》收录“立遗嘱人李敖亲笔如下”，文中安排其著作著作权已赠与王志慧，待李戡有能力经营时全数移转予李戡；富邦人寿保险金由李谌为受益人取得；并委由陈境圳每月支付美金1000元予李文至70岁，但若李文对王志慧、李戡、李谌提出诉讼或骚扰行为即丧失权利。遗嘱署2017年9月4日。
+  人物：李敖、王志慧、李戡、李谌、陈境圳、李文
+  地点：台湾
+  标签：虽千万人，李敖往矣、遗嘱、著作权、王志慧、李戡、李谌、李文、陈境圳
+  视图：家庭线、出版线、晚年线
+  作品：虽千万人，李敖往矣、李敖遗嘱
+  交叉引用：-
+  来源：虽千万人，李敖往矣 / 056.李敖遗嘱 / line 5
+  补充来源：虽千万人，李敖往矣 / 056.李敖遗嘱 / line 7；说明：著作权赠与王志慧，并待李戡能经营时移转。；虽千万人，李敖往矣 / 056.李敖遗嘱 / line 9；说明：富邦人寿保险金由李谌为受益人取得。；虽千万人，李敖往矣 / 056.李敖遗嘱 / line 11；说明：陈境圳每月支付美金1000元给李文及丧失权利条件。；虽千万人，李敖往矣 / 056.李敖遗嘱 / line 19；说明：遗嘱署日为2017年9月4日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/005.虽千万人，李敖往矣/056.李敖遗嘱.txt
+  数据：data/timeline-events-sui-qianwan-li-ao-wangyi.json#sui-qianwan-2017-09-04-writes-will
 - 2017年11月 | 舞台剧《北京法源寺》到台北演出时，李敖已在医院昏迷
   精度：month；可靠度：reported-by-third-party；排序日期：2017-11-30
   摘要：《北京青年报》报道说，舞台剧《北京法源寺》北京首演时李敖因北京冬天太冷未能到场；2017年11月该剧抵达台北时，李敖已经昏迷在医院，演员只能在李戡陪同下到李敖书房参观。此条是作品改编在李敖晚年发生的接受史节点，主体为第三方报道，不是李敖本人行动。

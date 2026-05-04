@@ -595,8 +595,9 @@
 - `《李敖的情诗》`：`37`
 - `《李语录》`：`0`
 - `《李敖语录》`：`97`
-- `dataVersion = 2026-05-04-li-ao-yulu-closeout`
-- `exports/leeao-current-timeline.txt` 表头：`事件总数：2373`
+- `《虽千万人，李敖往矣》`：`12`
+- `dataVersion = 2026-05-04-sui-qianwan-round-01`
+- `exports/leeao-current-timeline.txt` 表头：`事件总数：2385`
 
 ### 快速命令
 
@@ -622,6 +623,7 @@ node --check tools/export-timeline-text.mjs
 如果有真实新增，别忘了同步：
 
 - `data/timeline-events-dream-awake.json`
+- `data/timeline-events-sui-qianwan-li-ao-wangyi.json`
 - `data/ingestion-log.json`
 - `README.md`
 - `DEVELOPMENT_HANDOFF.md`
@@ -634,10 +636,12 @@ node --check tools/export-timeline-text.mjs
 
 ```json
 {
-  "events": 2144,
+  "events": 2385,
   "freedom": 53,
   "niBendan": 44,
   "dreamAwake": 17,
+  "liAoYulu": 97,
+  "suiQianwan": 12,
   "liAoXinkan": 71,
   "qianqiuWansui": 331,
   "liAoZawenji": 27,
@@ -698,3 +702,11 @@ node --check tools/export-timeline-text.mjs
 - 030 中 H/小Y 情书日期歧异留待未来《李敖的情书》或书信原本校勘；本书 closeout 不覆盖旧库《白露纪》更完整链。
 - dataVersion `2026-05-04-li-ao-yulu-closeout`；本书阶段性收束，下一轮建议转入下一本书。
 
+## 《虽千万人，李敖往矣》第一轮（2026-05-04）
+
+- 更正书名边界：本轮转入 `005.诗集语录类/005.虽千万人，李敖往矣`，不要再锁到不存在的《李敖的情书》。
+- 新增 `data/timeline-events-sui-qianwan-li-ao-wangyi.json`，第一轮新增 12 条，总表从 2373 条推进到 2385 条；app/export 已接入，dataVersion `2026-05-04-sui-qianwan-round-01`。
+- 处理目录、自序、001.2011年5月、054.开微博的缘由、055.20110818李敖微访谈、056.李敖遗嘱；微博短评不按观点机械入表，只收李敖当事动作、写作/发布流程、出版受阻、节目访谈、遗嘱等。
+- 新增重点：2011-05-17 开始“哈囉李敖”140字网路写作；同日晓娥来电告知三书出版受阻；2011-05-19 代打与手写/小屯/赖岳忠发布班子；2011-05-20 李戡“闇将军”、木板床仰写四则、披露国会图书馆“李敖特藏”；2011-05-22 买 iPad II 并打出4篇；2011-05-24 上侯佩岑节目；2011-05-27 收到中信《审判美国》；2011-08-18 微访谈；2017-09-04 遗嘱。
+- 旧 `book7-2015-early-turns-hello-li-ao-into-full-book-though-ten-million-followers-milestone` 补《虽千万人，李敖往矣》自序 lines 3/5/9；不重复造2015结集足本事件。
+- 下一轮建议处理 002-006（2011年6月至10月），继续只收李敖当事动作、出版/节目/书信/身体日常/家庭协作，并把纯政治短评和旁人新闻 keep-out。
