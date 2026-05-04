@@ -671,7 +671,7 @@
     "places": ["台湾"],
     "works": ["鹰犬将军", "我最难忘的一个将军"],
     "certainty": "confirmed",
-    "crossReferences": ["book3-1984-04-04-central-daily-attacks-song"],
+    "crossReferences": ["book3-1984-04-04-central-daily-attacks-song", "qianqiu-bianwai-1985-06-song-xilian-preface-thanks-li-ao-eagle-dog-general"],
     "source": {
       "book": "我最难忘的事和人",
       "chapter": "010.我最难忘的一个将军",
@@ -692,13 +692,21 @@
     "places": ["台湾", "美国"],
     "works": ["鹰犬将军", "李敖千秋评论丛书"],
     "certainty": "confirmed",
-    "crossReferences": ["book3-1984-06-07-li-writes-eagle-dog-general"],
+    "crossReferences": ["book3-1984-06-07-li-writes-eagle-dog-general", "qianqiu-bianwai-1985-06-song-xilian-preface-thanks-li-ao-eagle-dog-general"],
     "source": {
       "book": "我最难忘的事和人",
       "chapter": "010.我最难忘的一个将军",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/010.我最难忘的一个将军.txt",
       "line": 9
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "千秋万岁编外集",
+        "chapter": "058.《鹰犬将军》前言（宋希濂）",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/015.千秋万岁编外集/058.《鹰犬将军》前言（宋希濂）.txt",
+        "line": 13
+      }
+    ]
   },
   {
     "id": "book3-1984-10-05-li-article-against-shi-published",
@@ -774,7 +782,7 @@
     "places": ["美国", "台湾"],
     "works": ["鹰犬将军", "我最难忘的一个将军"],
     "certainty": "confirmed",
-    "crossReferences": ["book3-1984-06-15-eagle-dog-general-published"],
+    "crossReferences": ["book3-1984-06-15-eagle-dog-general-published", "qianqiu-bianwai-1985-06-song-xilian-preface-thanks-li-ao-eagle-dog-general"],
     "source": {
       "book": "我最难忘的事和人",
       "chapter": "010.我最难忘的一个将军",

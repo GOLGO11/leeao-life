@@ -23,37 +23,59 @@
 这份摘要是给下一位 agent 直接接手用的，优先看这一段，不要再信文档顶部旧版本留下来的过时数字。
 
 ### 当前总状态
+### 《千秋万岁编外集》第一轮新增 2 条
+
+- 1985-01-05：大风在《丑陋的中国人》中转述李敖近来批判共产党与国民党的豪语；此条为大风转述，不是李敖本人文章或自述。
+- 1989-11-16：大风在纽约写《从选战看台湾》，公开主张选李敖当台湾政治领导人；此条为大风倡议/评价，李敖是被谈论对象，不是作者。
+- 复核结论：全书首轮扫到的正文有效候选集中在 051、052；多数“李敖”命中是电子书页脚，091 的“李君/李某/李英涛”不是李敖，不入表。
+- 下一轮建议：第二轮回扫 053-091 的刊载说明、编者/选注者说明和政治案件材料，只收李敖被明确卷入的当事人事件，并继续标注第三方来源性质。
+
+### 《千秋万岁编外集》第二轮新增 1 条
+
+- 1985年6月：宋希濂在北京写《鹰犬将军》前言，感谢素无一面之缘的李敖为他写《鹰犬将军》，并决定用此文作书名；此条为宋希濂前言中的第三方叙述，不是李敖本人自述。
+- 补源：058 line 13 挂回第三本《鹰犬将军》写作/发表/宋希濂赠书旧链；081 line 87 挂回第四本 1972-03-10 李敖十年徒刑旧链。
+- keep-out：065 的 wjm_tcy 注非原书正文且无稳定日期；078-081 的“李先生”多为李世杰本人；090 无李敖正文参与；091 的李英涛不是李敖。
+- 下一轮建议：第三轮 closeout，回扫全书 001-091 的 keep-out、页脚误命中、同姓旁人与旧链补源，若无新增即可转入下一本。
+
+### 《千秋万岁编外集》第三轮 closeout 新增 0 条
+
+- 全书 001-091 closeout 回扫后，无新增李敖当事人事件。
+- 已确认真实李敖命中只集中在 051、052、058、065、081：051/052/058 已入表，065 为电子整理者注，081 已补到旧判刑链。
+- 已排除：055/057 的“李先生”为李宗仁；078-081 的“李先生”多指李世杰；091 的李君/李某/李英涛不是李敖；090 无李敖当事人动作；页脚资源站/QQ群仍全部排除。
+- 本书阶段性 closeout 完成；下一轮建议转入 `004.小说剧本类/001.北京法源寺` 第一轮，小说正文情节不入表，只扫李敖创作、出版、序跋、禁书/改编等当事人动作。
+
 ## 2026-05-04 当前接手快照
 
-- 当前主线：已完成《李敖杂文集》第三轮 closeout。
-- 当前文件：`data/timeline-events-li-ao-zawenji.json`，27 条。
-- 当前总事件数：`2151`。
-- 当前最新日志：`iteration: 203`。
-- 当前数据版本：`2026-05-04-li-ao-zawenji-round-03-closeout`。
-- 当前导出表头应为：`事件总数：2151`。
-- 全库校验：files=36,total=2151,dups=0,badShape=0,badDates=0,missingRefs=0。
-- 下一轮建议：转入下一本 `015.千秋万岁编外集` 第一轮，先列目录、扫署日/节目日期/专栏日期，再建立写作骨架和正文动作层。
+- 当前主线：已完成《千秋万岁编外集》第三轮 closeout。
+- 当前文件：`data/timeline-events-qianqiu-wansui-bianwai.json`，3 条。
+- 当前总事件数：`2154`。
+- 当前最新日志：`iteration: 206`。
+- 当前数据版本：`2026-05-04-qianqiu-bianwai-round-03-closeout`。
+- 当前导出表头应为：`事件总数：2154`。
+- 全库校验：files=37,total=2154,dups=0,badShape=0,badDates=0,missingRefs=0。
+- 本书特别规则已执行：全部文章均非李敖本人撰写；从本书入表的 3 条均标注为他人叙述/转述。
+- 本轮 closeout 无新增；电子书页脚、电子整理者注、李世杰自称“李先生”、李英涛线均不入表。
+- 下一轮建议：转入 `004.小说剧本类/001.北京法源寺` 第一轮；小说正文情节不入表，优先扫序跋、后记、写作日期、出版说明、访谈/改编/禁书与李敖本人创作出版动作。
 
-
-
-- 项目路径：`/home/aihuashanying/leeao-life`
-- 当前总事件数：`2151`
+- 项目路径：`C:\Users\zzy87\Desktop\project\leeao-life`
+- 当前总事件数：`2154`
 - 当前全库校验：
 
 ```json
 {
-  "events": 2144,
+  "files": 37,
+  "total": 2154,
   "dups": 0,
-  "missingRefs": 0,
-  "structuralBad": 0
+  "badShape": 0,
+  "badDates": 0,
+  "missingRefs": 0
 }
 ```
 
-- 纯文本总表表头当前应为：`事件总数：2151`
+- 纯文本总表表头当前应为：`事件总数：2154`
 - 当前前端版本号：
-  - `app.js` 的 `dataVersion`：`2026-05-04-li-ao-zawenji-round-03-closeout`
-  - `index.html` 的 CSS / JS query param：`2026-05-04-li-ao-zawenji-round-03-closeout`
-
+  - `app.js` 的 `dataVersion`：`2026-05-04-qianqiu-bianwai-round-03-closeout`
+  - `index.html` 的 CSS / JS query param：`2026-05-04-qianqiu-bianwai-round-03-closeout`
 ### 用户硬规则
 
 1. 必须一本一本、章节一段一段增量推进，不能一次性吞全集。
@@ -331,7 +353,8 @@ data/timeline-events-dream-awake.json                  17
 data/timeline-events-li-ao-xinkan.json                 71
 data/timeline-events-qianqiu-wansui-wuya-qiushi.json   331
 data/timeline-events-li-ao-zawenji.json               27
-总计                                                  2124
+data/timeline-events-qianqiu-wansui-bianwai.json        3
+总计                                                  2154
 ```
 
 ### 工作目录与基本命令
@@ -402,6 +425,10 @@ data/timeline-events-jingfumen.json
 data/timeline-events-freedom-summoning.json
 data/timeline-events-ni-bendan.json
 data/timeline-events-dream-awake.json
+data/timeline-events-li-ao-xinkan.json
+data/timeline-events-qianqiu-wansui-wuya-qiushi.json
+data/timeline-events-li-ao-zawenji.json
+data/timeline-events-qianqiu-wansui-bianwai.json
 ```
 
 同步位置：
@@ -451,6 +478,9 @@ data/ingestion-log.json
 025.你笨蛋，你笨蛋
 026.我梦碎，所以我梦醒
 027.李敖新刊
+028.千秋万岁乌鸦求是合集
+029.李敖杂文集
+030.千秋万岁编外集
 ```
 
 ## 《李敖文存》当前状态

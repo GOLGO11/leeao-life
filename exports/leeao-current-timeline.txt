@@ -1,9 +1,9 @@
 ﻿李敖交互式年表：当前增量纯文本备份
 生成日期：2026-05-04
-事件总数：2151
-数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json；data/timeline-events-ni-bendan.json；data/timeline-events-dream-awake.json；data/timeline-events-li-ao-xinkan.json；data/timeline-events-qianqiu-wansui-wuya-qiushi.json；data/timeline-events-li-ao-zawenji.json
+事件总数：2154
+数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json；data/timeline-events-ni-bendan.json；data/timeline-events-dream-awake.json；data/timeline-events-li-ao-xinkan.json；data/timeline-events-qianqiu-wansui-wuya-qiushi.json；data/timeline-events-li-ao-zawenji.json；data/timeline-events-qianqiu-wansui-bianwai.json
 说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。
-日期精度统计：day=1739；year=92；year-range=11；undated-range=1；undated-context=140；season=26；lunar-day=1；year-after=7；month=47；half-year=2；school-year-context=5；day-range=14；month-after=3；year-context=15；day-after=4；before-date-context=9；year-about=5；after-date-context=8；month-context=3；day-context=5；range-context=13；year-end=1
+日期精度统计：day=1741；year=92；year-range=11；undated-range=1；undated-context=140；season=26；lunar-day=1；year-after=7；month=48；half-year=2；school-year-context=5；day-range=14；month-after=3；year-context=15；day-after=4；before-date-context=9；year-about=5；after-date-context=8；month-context=3；day-context=5；range-context=13；year-end=1
 
 
 1935
@@ -9293,7 +9293,7 @@
   作品：李敖回忆录
   交叉引用：-
   来源：李敖回忆录 / 014.监狱（1971-1976·36到41岁） / line 35
-  补充来源：-
+  补充来源：千秋万岁编外集 / 081.火烧岛十载风霜三（李世杰） / line 87
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/014.监狱（1971-1976·36到41岁）.txt
   数据：data/timeline-events-fourth-book.json#book4-1972-03-10-first-sentence-ten-years
 - 1972年4月25日 | 谢聪敏密函经小林正成转登《纽约时报》并提及李敖
@@ -14658,7 +14658,7 @@
   标签：宋希濂、写作、鹰犬将军
   视图：出版线、思想线
   作品：鹰犬将军、我最难忘的一个将军
-  交叉引用：book3-1984-04-04-central-daily-attacks-song
+  交叉引用：book3-1984-04-04-central-daily-attacks-song、qianqiu-bianwai-1985-06-song-xilian-preface-thanks-li-ao-eagle-dog-general
   来源：我最难忘的事和人 / 010.我最难忘的一个将军 / line 7
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/010.我最难忘的一个将军.txt
@@ -14684,9 +14684,9 @@
   标签：宋希濂、李敖千秋评论丛书、北美日报、鹰犬将军
   视图：出版线、思想线
   作品：鹰犬将军、李敖千秋评论丛书
-  交叉引用：book3-1984-06-07-li-writes-eagle-dog-general
+  交叉引用：book3-1984-06-07-li-writes-eagle-dog-general、qianqiu-bianwai-1985-06-song-xilian-preface-thanks-li-ao-eagle-dog-general
   来源：我最难忘的事和人 / 010.我最难忘的一个将军 / line 9
-  补充来源：-
+  补充来源：千秋万岁编外集 / 058.《鹰犬将军》前言（宋希濂） / line 13
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/010.我最难忘的一个将军.txt
   数据：data/timeline-events-third-book.json#book3-1984-06-15-eagle-dog-general-published
 - 1984年6月27日 | 李敖写《用替身可也！》
@@ -15211,6 +15211,19 @@
   数据：data/timeline-events-fourth-book-deepening.json#book4-deep-1984-about-meets-wang-xiaotun-renai-road
 
 1985
+- 1985年1月5日（美国《美丽岛》刊出；李敖发言为大风转述的“近又”语境） | 大风在《丑陋的中国人》中转述李敖近来批判共产党与国民党的豪语
+  精度：day；可靠度：reported-by-third-party；排序日期：1985-01-05
+  摘要：《丑陋的中国人》署“美国《美丽岛》，一九八五年一月五日”。大风在文中说“消息传来，英勇的李敖近又发出豪语”，并转述李敖关于“最坏的共产党”“最坏的国民党”的说法。注意：这条是大风文章中的转述，不是李敖本人自述或原文署日，只作为他人叙述中的李敖发言线索入表。
+  人物：李敖、大风、柏杨
+  地点：美国、台湾
+  标签：千秋万岁编外集、丑陋的中国人、大风、美国美丽岛、柏杨、1985、他人转述
+  视图：政治线、媒体线
+  作品：丑陋的中国人、美国美丽岛、千秋万岁编外集
+  交叉引用：shilun-xinyu-1989-09-10-bowing-to-japanese-with-bare-bottom
+  来源：千秋万岁编外集 / 052.丑陋的中国人（大风） / line 13
+  补充来源：千秋万岁编外集 / 052.丑陋的中国人（大风） / line 25
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/015.千秋万岁编外集/052.丑陋的中国人（大风）.txt
+  数据：data/timeline-events-qianqiu-wansui-bianwai.json#qianqiu-bianwai-1985-01-05-dafeng-quotes-li-ao-party-aphorism
 - 1985年1月9日午 | 李敖写《吕坤名言发微》
   精度：day；可靠度：confirmed；排序日期：1985-01-09
   摘要：《吕坤名言发微》署1985年1月9日午。李敖在这篇文字中延续《千秋万岁乌鸦求是合集》的政论、读书札记或杂文写作脉络，留下一个可定位的写作节点。
@@ -16017,6 +16030,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/022.《叶明勋密件》书后.txt
   数据：data/timeline-events-freedom-summoning.json#freedom-summoning-1985-before-apr-18-gets-ye-mingxun-secret-document
+- 1985年6月于北京（宋希濂前言署月） | 宋希濂在《鹰犬将军》前言中感谢李敖，并决定用李敖文章作书名
+  精度：month；可靠度：reported-by-third-party；排序日期：1985-06-30
+  摘要：宋希濂在《鹰犬将军》前言中说，台湾政论家李敖为他写了一篇《鹰犬将军》，纽约《北美日报》转载时加了编者按语；宋称感谢“素无一面之缘的李敖先生”为他写这篇文章，并决定用此文作为本书书名。注意：这条是宋希濂前言中的第三方叙述和致谢，不是李敖本人自述；李敖在此条中是文章作者和被致谢者。
+  人物：李敖、宋希濂
+  地点：北京、纽约、台湾、美国
+  标签：千秋万岁编外集、鹰犬将军、宋希濂、北美日报、第三方叙述、1985
+  视图：出版线、媒体线
+  作品：鹰犬将军、千秋万岁编外集
+  交叉引用：book3-1984-06-07-li-writes-eagle-dog-general、book3-1984-06-15-eagle-dog-general-published、book3-1987-10-song-signed-book-for-li
+  来源：千秋万岁编外集 / 058.《鹰犬将军》前言（宋希濂） / line 13
+  补充来源：千秋万岁编外集 / 058.《鹰犬将军》前言（宋希濂） / line 15
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/015.千秋万岁编外集/058.《鹰犬将军》前言（宋希濂）.txt
+  数据：data/timeline-events-qianqiu-wansui-bianwai.json#qianqiu-bianwai-1985-06-song-xilian-preface-thanks-li-ao-eagle-dog-general
 - 1985年1月至10月 | 李敖在1985年《万岁评论》第十三至二十六期逐期写文字
   精度：range-context；可靠度：confirmed；排序日期：1985-10-31
   摘要：《李敖著作年表》记载，李敖在1985年1月至10月出版的《万岁评论》逐期写文字：第十三期四篇、第十四期二篇、第十五期四篇、第十六期四篇、第十七期三篇、第十八期四篇、第十九期二篇、第二十期六篇、第二十一期一篇、第二十二期四篇、第二十三期四篇、第二十四期三篇、第二十五期三篇、第二十六期三篇；这一组各期均标注“查禁”。
@@ -17160,7 +17186,7 @@
   标签：宋希濂、傅朝枢、鹰犬将军、待校日
   视图：交游线、出版线
   作品：鹰犬将军、我最难忘的一个将军
-  交叉引用：book3-1984-06-15-eagle-dog-general-published
+  交叉引用：book3-1984-06-15-eagle-dog-general-published、qianqiu-bianwai-1985-06-song-xilian-preface-thanks-li-ao-eagle-dog-general
   来源：我最难忘的事和人 / 010.我最难忘的一个将军 / line 13
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/010.我最难忘的一个将军.txt
@@ -20510,6 +20536,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/006.求是新语/030.林义雄矫情.txt
   数据：data/timeline-events-qiushi-xinyu.json#qiushi-xinyu-1989-11-16-lin-yi-hsiung-returns-donation
+- 1989年11月16日于纽约市 | 大风在纽约写《从选战看台湾》，公开主张选李敖当台湾政治领导人
+  精度：day；可靠度：reported-by-third-party；排序日期：1989-11-16
+  摘要：《从选战看台湾》署“一九八九年十一月十六日于纽约市”。大风评论台湾选战，称台面人物不孚众望，唯有李敖能替台湾全民争光，并主张“选出李敖先生当你们的头头”。注意：这是大风的公开倡议和评价，不是李敖本人说法；李敖在此条中是被倡议对象，不是文章作者。
+  人物：李敖、大风、李登辉、许信良、陈婉真
+  地点：纽约、台湾
+  标签：千秋万岁编外集、从选战看台湾、大风、台湾选战、李敖、纽约、1989、他人倡议
+  视图：政治线、媒体线
+  作品：从选战看台湾、千秋万岁编外集
+  交叉引用：-
+  来源：千秋万岁编外集 / 051.从选战看台湾（大风） / line 13
+  补充来源：千秋万岁编外集 / 051.从选战看台湾（大风） / line 15；千秋万岁编外集 / 051.从选战看台湾（大风） / line 17；千秋万岁编外集 / 051.从选战看台湾（大风） / line 19
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/015.千秋万岁编外集/051.从选战看台湾（大风）.txt
+  数据：data/timeline-events-qianqiu-wansui-bianwai.json#qianqiu-bianwai-1989-11-16-dafeng-advocates-li-ao-as-taiwan-leader
 - 1989年11月17日 | 李敖批林浊水新宪法说法不过重演国民党旧论
   精度：day；可靠度：inferred；排序日期：1989-11-17
   摘要：《“何其声之似我也！”》正文直接写“11月17日《民众日报》登出”。李敖借林浊水谈“台湾共和国宪法”特色，反讽其现实与理想并举的讲法与国民党当年两头并举的旧说如出一辙。结合《求是新语》1989年专栏语境，这条可保守落为1989年11月17日。
