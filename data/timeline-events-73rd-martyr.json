@@ -1,0 +1,74 @@
+[
+  {
+    "id": "martyr-73-1961-about-collects-mo-jipeng-calligraphy-and-conceives-novel",
+    "date": "1961-04-30",
+    "displayDate": "约1961年（2011年三四之月回忆“五十年前”）",
+    "datePrecision": "year-about",
+    "title": "李敖收集到莫纪彭墨迹，开始注意这位黄花岗劫后余生者并想写《第73烈士》",
+    "summary": "《〈第73烈士〉志缘》写，五十年前李敖收集到莫纪彭的墨迹，从此注意到这位黄花岗上劫后余生的老先生，并想写这本小说；他在 2011 年回顾，这部小说从酝酿到完工正好半世纪。此条只采附录中的作者现实创作因缘，不把小说正文中的林光烈、莫纪彭、王宇等剧情入表。",
+    "view": [
+      "写作线",
+      "文献线",
+      "史识线"
+    ],
+    "tags": [
+      "第73烈士",
+      "莫纪彭",
+      "黄花岗",
+      "墨迹",
+      "小说构思",
+      "约1961"
+    ],
+    "people": [
+      "李敖",
+      "莫纪彭"
+    ],
+    "places": [
+      "台湾",
+      "黄花岗"
+    ],
+    "works": [
+      "第73烈士",
+      "《第73烈士》志缘"
+    ],
+    "certainty": "reported-by-author",
+    "crossReferences": [
+      "ni-bendan-2011-spring-month-range-writes-73rd-martyr-epilogue",
+      "martyr-73-2011-before-mar-03-li-shike-event-shapes-composite-plot",
+      "book7-2011-03-03-submits-manuscript-of-the-73rd-martyr",
+      "book7-2011-04-27-marks-publication-of-the-73rd-martyr-with-corrected-date"
+    ],
+    "source": {
+      "book": "第73烈士",
+      "chapter": "008.附录——《第73烈士》志缘",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/006.第73烈士/008.附录——《第73烈士》志缘.txt",
+      "line": 5
+    }
+  },
+  {
+    "id": "martyr-73-2011-before-mar-03-li-shike-event-shapes-composite-plot",
+    "date": "2011-03-02",
+    "displayDate": "2011年3月3日前（《第73烈士》构思定型期；具体日期不详）",
+    "datePrecision": "undated-context",
+    "title": "李敖因李师科事件形成合并《第73烈士》小说情节的构想",
+    "summary": "《〈第73烈士〉志缘》写，李师科事件引起李敖“合并小说情节的构想”。此条只记录附录中李敖自述的现实创作构思，不把正文里的李师科、林光烈、王宇等剧情当作现实事件；因原文未给构思发生日期，暂以上交完稿前的构思定型期作约略锚点。",
+    "view": ["写作线", "取材线", "史识线"],
+    "tags": ["第73烈士", "李师科", "小说构思", "情节合并", "待校日", "2011"],
+    "people": ["李敖", "李师科"],
+    "places": ["台北"],
+    "works": ["第73烈士", "《第73烈士》志缘"],
+    "certainty": "reported-by-author",
+    "crossReferences": [
+      "martyr-73-1961-about-collects-mo-jipeng-calligraphy-and-conceives-novel",
+      "ni-bendan-2011-before-mar-03-researches-li-shike-and-yuanshan-martyrs-shrines",
+      "book7-2011-03-03-submits-manuscript-of-the-73rd-martyr",
+      "ni-bendan-2011-spring-month-range-writes-73rd-martyr-epilogue"
+    ],
+    "source": {
+      "book": "第73烈士",
+      "chapter": "008.附录——《第73烈士》志缘",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/006.第73烈士/008.附录——《第73烈士》志缘.txt",
+      "line": 7
+    }
+  }
+]

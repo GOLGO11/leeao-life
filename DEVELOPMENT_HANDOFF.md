@@ -143,27 +143,41 @@
 - 007 line 103、008 line 21 等“注”属于译名/百科式说明，017 line 71、040 line 157-193 等资料段仍嵌在审判文本内；目录 line 56 和各章末页脚为电子整理信息，不入表。
 - 《阳痿美国》已完成阶段性 closeout。下一轮建议转入 `004.小说剧本类/006.第73烈士`；仍按小说剧本类规则，优先扫序跋、后记、署日、出版说明和取材/创作说明，正文历史/剧场情节谨慎排除。
 
+### 《第73烈士》第一轮新增 1 条
+
+- 约1961年：李敖收集到莫纪彭墨迹，开始注意这位黄花岗劫后余生者并想写《第73烈士》；此由 2011 年三四之月《〈第73烈士〉志缘》回忆“五十年前”推得，只作约略年锚点。
+- 重复处理：旧库已有 2011-03-03 交《第73烈士》完稿、2011-03-11 致电王宇索照片、2011-04-27 特印版权页、2011 三四之月后记署期、赴广州黄花岗、赴李师科/圆山忠烈祠、触到温生才辫子脚镣等节点；本轮只补当前本书 008 附录出处和交叉引用。
+- 已新增 `data/timeline-events-73rd-martyr.json`，并接入 app/export；`processedBookCount` 推进到 36，项目总表推进到 2190 条。
+- keep-out：001-007 正文中的 1911、1949、1961、1963、1982、2002、2011 日期与林光烈、莫纪彭、王宇、李师科等叙事，均按小说/历史叙事排除。
+- 后续裁决：008 line 7 “李师科事件，引起我合并小说情节的构想”已在第二轮 closeout 作为模糊时间构思节点单独入表。
+
+### 《第73烈士》第二轮 closeout 新增 1 条
+
+- 2011年3月3日前：李敖因李师科事件形成合并《第73烈士》小说情节的构想；原文没有具体形成日期，故以上交完稿前的构思定型期作约略锚点，并注明只采附录中的作者现实构思，不采正文剧情。
+- 正文复核：001-007 的章节首尾、作者/编者/注记关键词、2011 圆山忠烈祠桥段、《李戡戡乱记》提及、wjm_tcy 电子整理注与页脚均已回扫；未发现可脱离小说叙事独立入表的李敖现实当事人事件。
+- 当前本书阶段性 closeout：`data/timeline-events-73rd-martyr.json` 共 2 条；旧库 2011 交稿、索照、版权页、黄花岗/忠烈祠/温生才取材链继续只保留互链和补源，不重复造条。
+
 ## 2026-05-04 当前接手快照
 
-- 当前主线：已完成《阳痿美国》第二轮书内 closeout。
-- 当前文件：`data/timeline-events-yangwei-america.json`，0 条；另已补 `data/timeline-events-ni-bendan.json`、`data/timeline-events-seventh-book.json`、`data/timeline-events-dream-awake.json` 的旧《阳痿美国》链。
-- 当前总事件数：`2189`。
-- 当前最新日志：`iteration: 217`。
-- 当前数据版本：`2026-05-04-yangwei-america-closeout`。
-- 当前导出表头应为：`事件总数：2189`。
-- 全库校验：files=42,total=2189,dups=0,badShape=0,badDates=0,missingRefs=0。
-- 本书特别规则已执行：审判正文按剧场文本排除；只把当前本书作为旧写作/出版链补源。
-- 本轮新增 0 条；旧 2010-08-13 写作、2010年10月出版、2011 大陆打压/参选访谈链已补 additionalSources 与 crossReferences。
-- 下一轮建议：转入 `004.小说剧本类/006.第73烈士`。
+- 当前主线：已完成《第73烈士》第二轮 closeout。
+- 当前文件：`data/timeline-events-73rd-martyr.json`，2 条；另已补 `data/timeline-events-seventh-book.json`、`data/timeline-events-ni-bendan.json` 的旧《第73烈士》链。
+- 当前总事件数：`2191`。
+- 当前最新日志：`iteration: 219`。
+- 当前数据版本：`2026-05-04-73rd-martyr-closeout`。
+- 当前导出表头应为：`事件总数：2191`。
+- 全库校验：files=43,total=2191,dups=0,badShape=0,badDates=0,missingRefs=0。
+- 本书特别规则已执行：001-007 小说/历史正文按叙事排除；008 附录现实写作因缘、构思定型与旧链补源已入。
+- 本轮新增 1 条；《第73烈士》累计 2 条；旧 2011 交稿、索照、版权页、取材链已补 additionalSources 与 crossReferences。
+- 下一轮建议：转入下一本小说剧本类书目；仍按小说剧本类规则，只收序跋、后记、署日、出版说明、创作/取材/发表/查禁等李敖现实当事人动作。
 
 - 项目路径：`C:\Users\zzy87\Desktop\project\leeao-life`
-- 当前总事件数：`2189`
+- 当前总事件数：`2191`
 - 当前全库校验：
 
 ```json
 {
-  "files": 41,
-  "total": 2189,
+  "files": 43,
+  "total": 2191,
   "dups": 0,
   "badShape": 0,
   "badDates": 0,
@@ -171,10 +185,10 @@
 }
 ```
 
-- 纯文本总表表头当前应为：`事件总数：2189`
+- 纯文本总表表头当前应为：`事件总数：2191`
 - 当前前端版本号：
-  - `app.js` 的 `dataVersion`：`2026-05-04-yangwei-america-closeout`
-  - `index.html` 的 CSS / JS query param：`2026-05-04-yangwei-america-closeout`
+  - `app.js` 的 `dataVersion`：`2026-05-04-73rd-martyr-closeout`
+  - `index.html` 的 CSS / JS query param：`2026-05-04-73rd-martyr-closeout`
 ### 用户硬规则
 
 1. 必须一本一本、章节一段一段增量推进，不能一次性吞全集。

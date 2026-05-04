@@ -860,6 +860,7 @@
     "works": ["你笨蛋，你笨蛋", "第73烈士"],
     "certainty": "confirmed",
     "crossReferences": [
+      "martyr-73-1961-about-collects-mo-jipeng-calligraphy-and-conceives-novel",
       "book7-2011-03-03-submits-manuscript-of-the-73rd-martyr",
       "book7-2011-03-11-asks-wang-yu-for-photo-for-the-73rd-martyr",
       "book7-2011-04-27-marks-publication-of-the-73rd-martyr-with-corrected-date"
@@ -869,7 +870,22 @@
       "chapter": "036.《第73烈士》志缘",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/010.你笨蛋，你笨蛋/036.《第73烈士》志缘.txt",
       "line": 23
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "第73烈士",
+        "chapter": "008.附录——《第73烈士》志缘",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/006.第73烈士/008.附录——《第73烈士》志缘.txt",
+        "line": 23
+      },
+      {
+        "book": "第73烈士",
+        "chapter": "008.附录——《第73烈士》志缘",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/006.第73烈士/008.附录——《第73烈士》志缘.txt",
+        "line": 5,
+        "note": "补充半世纪酝酿起点。"
+      }
+    ]
   },
   {
     "id": "ni-bendan-2011-08-17-rewrites-he",
@@ -913,7 +929,15 @@
       "chapter": "036.《第73烈士》志缘",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/010.你笨蛋，你笨蛋/036.《第73烈士》志缘.txt",
       "line": 9
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "第73烈士",
+        "chapter": "008.附录——《第73烈士》志缘",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/006.第73烈士/008.附录——《第73烈士》志缘.txt",
+        "line": 9
+      }
+    ]
   },
   {
     "id": "ni-bendan-2011-before-mar-03-researches-li-shike-and-yuanshan-martyrs-shrines",
@@ -929,6 +953,7 @@
     "works": ["你笨蛋，你笨蛋", "第73烈士"],
     "certainty": "contextual",
     "crossReferences": [
+      "martyr-73-2011-before-mar-03-li-shike-event-shapes-composite-plot",
       "book7-2011-03-03-submits-manuscript-of-the-73rd-martyr",
       "ni-bendan-2011-spring-month-range-writes-73rd-martyr-epilogue"
     ],
@@ -937,7 +962,15 @@
       "chapter": "036.《第73烈士》志缘",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/010.你笨蛋，你笨蛋/036.《第73烈士》志缘.txt",
       "line": 15
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "第73烈士",
+        "chapter": "008.附录——《第73烈士》志缘",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/006.第73烈士/008.附录——《第73烈士》志缘.txt",
+        "line": 15
+      }
+    ]
   },
   {
     "id": "ni-bendan-2011-before-apr-27-handles-wen-shengcai-relics",
@@ -961,7 +994,15 @@
       "chapter": "036.《第73烈士》志缘",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/010.你笨蛋，你笨蛋/036.《第73烈士》志缘.txt",
       "line": 17
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "第73烈士",
+        "chapter": "008.附录——《第73烈士》志缘",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/006.第73烈士/008.附录——《第73烈士》志缘.txt",
+        "line": 17
+      }
+    ]
   },
   {
     "id": "ni-bendan-2011-before-aug-17-collects-couplet-examples",

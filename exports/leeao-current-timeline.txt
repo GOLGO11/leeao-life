@@ -1,9 +1,9 @@
 ﻿李敖交互式年表：当前增量纯文本备份
 生成日期：2026-05-04
-事件总数：2189
-数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json；data/timeline-events-ni-bendan.json；data/timeline-events-dream-awake.json；data/timeline-events-li-ao-xinkan.json；data/timeline-events-qianqiu-wansui-wuya-qiushi.json；data/timeline-events-li-ao-zawenji.json；data/timeline-events-qianqiu-wansui-bianwai.json；data/timeline-events-beijing-fayuansi.json；data/timeline-events-shangshan-ai.json；data/timeline-events-red-11.json；data/timeline-events-virtual-seventeen.json；data/timeline-events-yangwei-america.json
+事件总数：2191
+数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json；data/timeline-events-ni-bendan.json；data/timeline-events-dream-awake.json；data/timeline-events-li-ao-xinkan.json；data/timeline-events-qianqiu-wansui-wuya-qiushi.json；data/timeline-events-li-ao-zawenji.json；data/timeline-events-qianqiu-wansui-bianwai.json；data/timeline-events-beijing-fayuansi.json；data/timeline-events-shangshan-ai.json；data/timeline-events-red-11.json；data/timeline-events-virtual-seventeen.json；data/timeline-events-yangwei-america.json；data/timeline-events-73rd-martyr.json
 说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。
-日期精度统计：day=1766；year=93；year-range=13；undated-range=1；undated-context=140；season=26；lunar-day=1；year-after=7；month=49；half-year=2；school-year-context=5；day-range=14；month-after=3；year-context=16；day-after=4；before-date-context=11；year-about=7；after-date-context=8；month-context=3；day-context=5；range-context=14；year-end=1
+日期精度统计：day=1766；year=93；year-range=13；undated-range=1；undated-context=141；season=26；lunar-day=1；year-after=7；month=49；half-year=2；school-year-context=5；day-range=14；year-about=8；month-after=3；year-context=16；day-after=4；before-date-context=11；after-date-context=8；month-context=3；day-context=5；range-context=14；year-end=1
 
 
 1935
@@ -3567,6 +3567,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/005.“北土非吾愿，东林怀我师”.txt
   数据：data/timeline-events-first-book-supplement.json#1961-11-13-yin-haiguang-praises
+- 约1961年（2011年三四之月回忆“五十年前”） | 李敖收集到莫纪彭墨迹，开始注意这位黄花岗劫后余生者并想写《第73烈士》
+  精度：year-about；可靠度：reported-by-author；排序日期：1961-04-30
+  摘要：《〈第73烈士〉志缘》写，五十年前李敖收集到莫纪彭的墨迹，从此注意到这位黄花岗上劫后余生的老先生，并想写这本小说；他在 2011 年回顾，这部小说从酝酿到完工正好半世纪。此条只采附录中的作者现实创作因缘，不把小说正文中的林光烈、莫纪彭、王宇等剧情入表。
+  人物：李敖、莫纪彭
+  地点：台湾、黄花岗
+  标签：第73烈士、莫纪彭、黄花岗、墨迹、小说构思、约1961
+  视图：写作线、文献线、史识线
+  作品：第73烈士、《第73烈士》志缘
+  交叉引用：ni-bendan-2011-spring-month-range-writes-73rd-martyr-epilogue、martyr-73-2011-before-mar-03-li-shike-event-shapes-composite-plot、book7-2011-03-03-submits-manuscript-of-the-73rd-martyr、book7-2011-04-27-marks-publication-of-the-73rd-martyr-with-corrected-date
+  来源：第73烈士 / 008.附录——《第73烈士》志缘 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/006.第73烈士/008.附录——《第73烈士》志缘.txt
+  数据：data/timeline-events-73rd-martyr.json#martyr-73-1961-about-collects-mo-jipeng-calligraphy-and-conceives-novel
 - 1961年6月 | 《中国小姐论》刊于《人间世》
   精度：month；可靠度：confirmed；排序日期：1961-06-01
   摘要：《中国小姐论》文末注明《人间世》1961年6月。它把李敖早期以选美、女性时髦化与现代中国文化心态为题的杂文，落实为一个明确的月度发表节点。
@@ -28050,9 +28063,9 @@
   标签：第73烈士、大江大海骗了你、完稿、张坤山、张书铭
   视图：写作线、出版线
   作品：第73烈士、大江大海骗了你、李敖风流自传
-  交叉引用：book7-2011-03-11-asks-wang-yu-for-photo-for-the-73rd-martyr、book7-2011-04-27-marks-publication-of-the-73rd-martyr-with-corrected-date
+  交叉引用：martyr-73-1961-about-collects-mo-jipeng-calligraphy-and-conceives-novel、book7-2011-03-11-asks-wang-yu-for-photo-for-the-73rd-martyr、book7-2011-04-27-marks-publication-of-the-73rd-martyr-with-corrected-date
   来源：李敖风流自传 / 237.《第73烈士》志缘 / line 9
-  补充来源：-
+  补充来源：第73烈士 / 008.附录——《第73烈士》志缘 / line 9
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/237.《第73烈士》志缘.txt
   数据：data/timeline-events-seventh-book.json#book7-2011-03-03-submits-manuscript-of-the-73rd-martyr
 - 2011年3月11日 | 李敖致电多年不见的王宇索取照片，用作《第73烈士》人物模特线索
@@ -28065,7 +28078,7 @@
   作品：第73烈士、李敖风流自传
   交叉引用：book7-2011-03-03-submits-manuscript-of-the-73rd-martyr、book7-2011-04-27-marks-publication-of-the-73rd-martyr-with-corrected-date
   来源：李敖风流自传 / 237.《第73烈士》志缘 / line 9
-  补充来源：-
+  补充来源：第73烈士 / 008.附录——《第73烈士》志缘 / line 9
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/237.《第73烈士》志缘.txt
   数据：data/timeline-events-seventh-book.json#book7-2011-03-11-asks-wang-yu-for-photo-for-the-73rd-martyr
 - 2011年3月31日 | 朱崇实向李敖送出厦门大学名誉教授聘书
@@ -28115,9 +28128,9 @@
   标签：第73烈士、黄花岗、4月27日、版权页、日期校正
   视图：写作线、出版线、史识线
   作品：第73烈士、李敖风流自传
-  交叉引用：book7-2011-03-03-submits-manuscript-of-the-73rd-martyr、book7-2011-03-11-asks-wang-yu-for-photo-for-the-73rd-martyr
+  交叉引用：martyr-73-1961-about-collects-mo-jipeng-calligraphy-and-conceives-novel、book7-2011-03-03-submits-manuscript-of-the-73rd-martyr、book7-2011-03-11-asks-wang-yu-for-photo-for-the-73rd-martyr
   来源：李敖风流自传 / 237.《第73烈士》志缘 / line 19
-  补充来源：-
+  补充来源：第73烈士 / 008.附录——《第73烈士》志缘 / line 19
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/237.《第73烈士》志缘.txt
   数据：data/timeline-events-seventh-book.json#book7-2011-04-27-marks-publication-of-the-73rd-martyr-with-corrected-date
 - 2011年5月17日 | 开通新浪微博
@@ -28310,11 +28323,24 @@
   标签：你笨蛋，你笨蛋、第73烈士、李师科、忠烈祠、待校日、2011
   视图：写作线、取材线、交游线
   作品：你笨蛋，你笨蛋、第73烈士
-  交叉引用：book7-2011-03-03-submits-manuscript-of-the-73rd-martyr、ni-bendan-2011-spring-month-range-writes-73rd-martyr-epilogue
+  交叉引用：martyr-73-2011-before-mar-03-li-shike-event-shapes-composite-plot、book7-2011-03-03-submits-manuscript-of-the-73rd-martyr、ni-bendan-2011-spring-month-range-writes-73rd-martyr-epilogue
   来源：你笨蛋，你笨蛋 / 036.《第73烈士》志缘 / line 15
-  补充来源：-
+  补充来源：第73烈士 / 008.附录——《第73烈士》志缘 / line 15
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/010.你笨蛋，你笨蛋/036.《第73烈士》志缘.txt
   数据：data/timeline-events-ni-bendan.json#ni-bendan-2011-before-mar-03-researches-li-shike-and-yuanshan-martyrs-shrines
+- 2011年3月3日前（《第73烈士》构思定型期；具体日期不详） | 李敖因李师科事件形成合并《第73烈士》小说情节的构想
+  精度：undated-context；可靠度：reported-by-author；排序日期：2011-03-02
+  摘要：《〈第73烈士〉志缘》写，李师科事件引起李敖“合并小说情节的构想”。此条只记录附录中李敖自述的现实创作构思，不把正文里的李师科、林光烈、王宇等剧情当作现实事件；因原文未给构思发生日期，暂以上交完稿前的构思定型期作约略锚点。
+  人物：李敖、李师科
+  地点：台北
+  标签：第73烈士、李师科、小说构思、情节合并、待校日、2011
+  视图：写作线、取材线、史识线
+  作品：第73烈士、《第73烈士》志缘
+  交叉引用：martyr-73-1961-about-collects-mo-jipeng-calligraphy-and-conceives-novel、ni-bendan-2011-before-mar-03-researches-li-shike-and-yuanshan-martyrs-shrines、book7-2011-03-03-submits-manuscript-of-the-73rd-martyr、ni-bendan-2011-spring-month-range-writes-73rd-martyr-epilogue
+  来源：第73烈士 / 008.附录——《第73烈士》志缘 / line 7
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/006.第73烈士/008.附录——《第73烈士》志缘.txt
+  数据：data/timeline-events-73rd-martyr.json#martyr-73-2011-before-mar-03-li-shike-event-shapes-composite-plot
 - 2011年3月3日前（赴广州上黄花岗之后） | 李敖赴广州上黄花岗后决心快速写完《第73烈士》
   精度：undated-context；可靠度：contextual；排序日期：2011-03-02
   摘要：《〈第73烈士〉志缘》写，李敖在刘长乐安排下特别去了一趟广州、上了一次黄花岗，回来以后决心快速写完《第73烈士》。这一趟实地到访构成了交稿前最明确的写作触发动作。
@@ -28325,7 +28351,7 @@
   作品：你笨蛋，你笨蛋、第73烈士
   交叉引用：book7-2011-03-03-submits-manuscript-of-the-73rd-martyr、book7-2011-04-27-marks-publication-of-the-73rd-martyr-with-corrected-date
   来源：你笨蛋，你笨蛋 / 036.《第73烈士》志缘 / line 9
-  补充来源：-
+  补充来源：第73烈士 / 008.附录——《第73烈士》志缘 / line 9
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/010.你笨蛋，你笨蛋/036.《第73烈士》志缘.txt
   数据：data/timeline-events-ni-bendan.json#ni-bendan-2011-before-mar-03-visits-huanghuagang-and-decides-to-finish-73rd-martyr
 - 2011年，建国百年之春 | 李敖为《我也李敖一下》祖国版写序
@@ -28364,7 +28390,7 @@
   作品：你笨蛋，你笨蛋、第73烈士
   交叉引用：book7-2011-04-27-marks-publication-of-the-73rd-martyr-with-corrected-date、ni-bendan-2011-spring-month-range-writes-73rd-martyr-epilogue
   来源：你笨蛋，你笨蛋 / 036.《第73烈士》志缘 / line 17
-  补充来源：-
+  补充来源：第73烈士 / 008.附录——《第73烈士》志缘 / line 17
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/010.你笨蛋，你笨蛋/036.《第73烈士》志缘.txt
   数据：data/timeline-events-ni-bendan.json#ni-bendan-2011-before-apr-27-handles-wen-shengcai-relics
 - 2011年三四之月在中国台北 | 李敖写《第73烈士》志缘后记说明
@@ -28375,9 +28401,9 @@
   标签：你笨蛋，你笨蛋、第73烈士、后记、待校日、2011
   视图：写作线、出版线、史识线
   作品：你笨蛋，你笨蛋、第73烈士
-  交叉引用：book7-2011-03-03-submits-manuscript-of-the-73rd-martyr、book7-2011-03-11-asks-wang-yu-for-photo-for-the-73rd-martyr、book7-2011-04-27-marks-publication-of-the-73rd-martyr-with-corrected-date
+  交叉引用：martyr-73-1961-about-collects-mo-jipeng-calligraphy-and-conceives-novel、book7-2011-03-03-submits-manuscript-of-the-73rd-martyr、book7-2011-03-11-asks-wang-yu-for-photo-for-the-73rd-martyr、book7-2011-04-27-marks-publication-of-the-73rd-martyr-with-corrected-date
   来源：你笨蛋，你笨蛋 / 036.《第73烈士》志缘 / line 23
-  补充来源：-
+  补充来源：第73烈士 / 008.附录——《第73烈士》志缘 / line 23；第73烈士 / 008.附录——《第73烈士》志缘 / line 5；说明：补充半世纪酝酿起点。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/010.你笨蛋，你笨蛋/036.《第73烈士》志缘.txt
   数据：data/timeline-events-ni-bendan.json#ni-bendan-2011-spring-month-range-writes-73rd-martyr-epilogue
 - 2011年8月17日前几年 | 李敖特意搜集联语例子留存

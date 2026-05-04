@@ -63,7 +63,8 @@ const dataFiles = [
   "./data/timeline-events-shangshan-ai.json",
   "./data/timeline-events-red-11.json",
   "./data/timeline-events-virtual-seventeen.json",
-  "./data/timeline-events-yangwei-america.json"
+  "./data/timeline-events-yangwei-america.json",
+  "./data/timeline-events-73rd-martyr.json"
 ];
 const supplementalDataFiles = new Set([
   "./data/timeline-events-first-book-supplement.json",
@@ -75,7 +76,7 @@ const supplementalDataFiles = new Set([
   "./data/timeline-events-fourth-book-deepening.json"
 ]);
 const processedBookCount = dataFiles.filter((file) => !supplementalDataFiles.has(file)).length;
-const dataVersion = "2026-05-04-yangwei-america-closeout";
+const dataVersion = "2026-05-04-73rd-martyr-closeout";
 
 const dateFormatter = new Intl.DateTimeFormat("zh-Hant", {
   year: "numeric",
