@@ -1,9 +1,9 @@
 ﻿李敖交互式年表：当前增量纯文本备份
 生成日期：2026-05-04
-事件总数：2239
-数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json；data/timeline-events-ni-bendan.json；data/timeline-events-dream-awake.json；data/timeline-events-li-ao-xinkan.json；data/timeline-events-qianqiu-wansui-wuya-qiushi.json；data/timeline-events-li-ao-zawenji.json；data/timeline-events-qianqiu-wansui-bianwai.json；data/timeline-events-beijing-fayuansi.json；data/timeline-events-shangshan-ai.json；data/timeline-events-red-11.json；data/timeline-events-virtual-seventeen.json；data/timeline-events-yangwei-america.json；data/timeline-events-73rd-martyr.json；data/timeline-events-love-secret.json
+事件总数：2276
+数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json；data/timeline-events-ni-bendan.json；data/timeline-events-dream-awake.json；data/timeline-events-li-ao-xinkan.json；data/timeline-events-qianqiu-wansui-wuya-qiushi.json；data/timeline-events-li-ao-zawenji.json；data/timeline-events-qianqiu-wansui-bianwai.json；data/timeline-events-beijing-fayuansi.json；data/timeline-events-shangshan-ai.json；data/timeline-events-red-11.json；data/timeline-events-virtual-seventeen.json；data/timeline-events-yangwei-america.json；data/timeline-events-73rd-martyr.json；data/timeline-events-love-secret.json；data/timeline-events-li-ao-love-poems.json
 说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。
-日期精度统计：day=1811；year=94；year-range=13；undated-range=1；undated-context=141；season=27；lunar-day=1；year-after=7；month=50；half-year=2；school-year-context=5；day-range=14；year-about=8；month-after=3；year-context=16；day-after=4；before-date-context=11；after-date-context=8；month-context=3；day-context=5；range-context=14；year-end=1
+日期精度统计：day=1844；year=97；year-range=13；undated-range=1；undated-context=141；season=27；lunar-day=1；year-after=7；month=51；half-year=2；school-year-context=5；day-range=14；year-about=8；month-after=3；year-context=16；day-after=4；before-date-context=11；after-date-context=8；month-context=3；day-context=5；range-context=14；year-end=1
 
 
 1935
@@ -1627,17 +1627,17 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/006.台中（1949-1954·14到19岁）.txt
   数据：data/timeline-events-fourth-book.json#book4-1953-self-suspends-from-school-to-study-at-home
-- 1953年间 | 李敖写下《多情总难免》等少年诗
+- 1953年间 | 李敖写下并保存一批1953年中学旧作少年诗
   精度：year；可靠度：confirmed；排序日期：1953-12-31
-  摘要：《小寒纪》写，1953年间李敖写了一大批诗，包括《多情总难免》《遐想》《浮海与藏山》《写贻党混子》《论侠六首》《诗的原则》等，已显出日后的独行与反党棍思想。
+  摘要：《小寒纪》已概述，1953年间李敖写了一大批少年诗。《李敖的情诗》072-120 又以“以下为中学旧作”集中保存这批1953年旧作，包含《浮海与藏山》《述志》《写贻党混子》《反宗教诗》《多情总难免》《论侠六首》《诗的原则》《杂诗八首》《遐想》《不将朋友作情人》等。此条作为中学旧作群总节点归档，不把49首纯诗正文逐首拆成现实事件。
   人物：李敖
   地点：台中
-  标签：少年诗、台中一中、思想形成
-  视图：作品线、思想线、生平线
-  作品：多情总难免、遐想、浮海与藏山、写贻党混子、李敖快意恩仇录
+  标签：少年诗、台中一中、思想形成、李敖的情诗、中学旧作、1953
+  视图：作品线、思想线、生平线、诗文线
+  作品：多情总难免、遐想、浮海与藏山、写贻党混子、李敖快意恩仇录、李敖的情诗、述志、集句、蒙祸与苟安、胆、天心我心、堂堂诗、诗与气魄、笑中刀、孤愤、反宗教诗、五首、情长、思想的境界、大漠、井水、情诗集句、白卷、大笑放歌、小儿女心肠、心头、心照、论侠六首、长袍、四言诗、独行、独立、沉静、心中的话、凡人、怎样、诗的原则、伟大、情诗二绝、爱情、绿罗裙、浩歌、立志、读史怀古、风云、往事、未老、西江月、杂诗八首、集句三绝、不将朋友作情人
   交叉引用：-
   来源：李敖快意恩仇录 / 004.小寒纪 / line 29
-  补充来源：-
+  补充来源：李敖的情诗 / 072.浮海与藏山（以下为中学旧作) / line 11；说明：072.浮海与藏山（以下为中学旧作)：题为《浮海与藏山》，署1953年。；李敖的情诗 / 073.述志 / line 19；说明：073.述志：题为《述志》，署1953年。；李敖的情诗 / 074.集句 / line 11；说明：074.集句：题为《集句》，署1953年。；李敖的情诗 / 075.蒙祸与苟安 / line 11；说明：075.蒙祸与苟安：题为《蒙祸与苟安》，署1953年。；李敖的情诗 / 076.写贻党混子 / line 19；说明：076.写贻党混子：题为《写贻党混子》，署1953年。；李敖的情诗 / 077.胆 / line 11；说明：077.胆：题为《胆》，署1953年。；李敖的情诗 / 078.天心我心 / line 11；说明：078.天心我心：题为《天心我心》，署1953年。；李敖的情诗 / 079.堂堂诗 / line 11；说明：079.堂堂诗：题为《堂堂诗》，署1953年。；李敖的情诗 / 080.诗与气魄 / line 11；说明：080.诗与气魄：题为《诗与气魄》，署1953年。；李敖的情诗 / 081.笑中刀 / line 11；说明：081.笑中刀：题为《笑中刀》，署1953年。；李敖的情诗 / 082.孤愤 / line 11；说明：082.孤愤：题为《孤愤》，署1953年。；李敖的情诗 / 083.反宗教诗 / line 35；说明：083.反宗教诗：题为《反宗教诗》，署1953年。；李敖的情诗 / 084.五首 / line 53；说明：084.五首：题为《五首》，署1953年。；李敖的情诗 / 085.情长 / line 11；说明：085.情长：题为《情长》，署1953年。；李敖的情诗 / 086.思想的境界 / line 43；说明：086.思想的境界：题为《思想的境界》，署1953年。；李敖的情诗 / 087.大漠 / line 11；说明：087.大漠：题为《大漠》，署1953年。；李敖的情诗 / 088.多情总难免 / line 11；说明：088.多情总难免：题为《多情总难免》，署1953年。；李敖的情诗 / 089.井水 / line 11；说明：089.井水：题为《井水》，署1953年。；李敖的情诗 / 090.情诗集句 / line 11；说明：090.情诗集句：题为《情诗集句》，署1953年。；李敖的情诗 / 091.白卷 / line 11；说明：091.白卷：题为《白卷》，署1953年。；李敖的情诗 / 092.大笑放歌 / line 35；说明：092.大笑放歌：题为《大笑放歌》，署1953年。；李敖的情诗 / 093.小儿女心肠 / line 11；说明：093.小儿女心肠：题为《小儿女心肠》，署1953年。；李敖的情诗 / 094.心头 / line 19；说明：094.心头：题为《心头》，署1953年。；李敖的情诗 / 095.心照 / line 11；说明：095.心照：题为《心照》，署1953年。；李敖的情诗 / 096.论侠六首 / line 51；说明：096.论侠六首：题为《论侠六首》，署1953年。；李敖的情诗 / 097.长袍 / line 19；说明：097.长袍：题为《长袍》，署1953年。；李敖的情诗 / 098.四言诗 / line 11；说明：098.四言诗：题为《四言诗》，署1953年。；李敖的情诗 / 099.独行 / line 11；说明：099.独行：题为《独行》，署1953年。；李敖的情诗 / 100.独立 / line 11；说明：100.独立：题为《独立》，署1953年。；李敖的情诗 / 101.沉静 / line 11；说明：101.沉静：题为《沉静》，署1953年。；李敖的情诗 / 102.心中的话 / line 19；说明：102.心中的话：题为《心中的话》，署1953年。；李敖的情诗 / 103.凡人 / line 29；说明：103.凡人：题为《凡人》，署1953年。；李敖的情诗 / 104.怎样 / line 11；说明：104.怎样：题为《怎样》，署1953年。；李敖的情诗 / 105.诗的原则 / line 11；说明：105.诗的原则：题为《诗的原则》，署1953年。；李敖的情诗 / 106.伟大 / line 17；说明：106.伟大：题为《伟大》，署1953年。；李敖的情诗 / 107.情诗二绝 / line 19；说明：107.情诗二绝：题为《情诗二绝》，署1953年。；李敖的情诗 / 108.爱情 / line 19；说明：108.爱情：题为《爱情》，署1953年。；李敖的情诗 / 109.绿罗裙 / line 11；说明：109.绿罗裙：题为《绿罗裙》，署1953年。；李敖的情诗 / 110.浩歌 / line 11；说明：110.浩歌：题为《浩歌》，署1953年。；李敖的情诗 / 111.立志 / line 11；说明：111.立志：题为《立志》，署1953年。；李敖的情诗 / 112.读史怀古 / line 11；说明：112.读史怀古：题为《读史怀古》，署1953年。；李敖的情诗 / 113.风云 / line 11；说明：113.风云：题为《风云》，署1953年。；李敖的情诗 / 114.往事 / line 11；说明：114.往事：题为《往事》，署1953年。；李敖的情诗 / 115.未老 / line 11；说明：115.未老：题为《未老》，署1953年。；李敖的情诗 / 116.西江月 / line 19；说明：116.西江月：题为《西江月》，署1953年。；李敖的情诗 / 117.杂诗八首 / line 83；说明：117.杂诗八首：题为《杂诗八首》，署1953年。；李敖的情诗 / 118.遐想 / line 35；说明：118.遐想：题为《遐想》，署1953年。；李敖的情诗 / 119.集句三绝 / line 27；说明：119.集句三绝：题为《集句三绝》，署1953年。；李敖的情诗 / 120.不将朋友作情人 / line 11；说明：120.不将朋友作情人：题为《不将朋友作情人》，署1953年。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/004.小寒纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1953-writes-many-poems-including-duoqing
 
@@ -2090,6 +2090,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/016.我最难忘的一个国特.txt
   数据：data/timeline-events-third-book-qiao-evidence.json#book3-1957-05-01-qiao-clearing-banquet
+- 1957年7月29日 | 李敖写下《我将归来开放》
+  精度：day；可靠度：reported-by-author；排序日期：1957-07-29
+  摘要：《我将归来开放》文末署1957年7月29日。本条只收早期诗作的精确署日写作节点，不把诗中“归来开放”的抒情宣言另拆成现实事件。
+  人物：李敖
+  地点：台湾
+  标签：李敖的情诗、我将归来开放、早期写作、1957
+  视图：写作线、诗文线
+  作品：李敖的情诗、我将归来开放
+  交叉引用：-
+  来源：李敖的情诗 / 002.我将归来开放 / line 35
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/002.李敖的情诗/002.我将归来开放.txt
+  数据：data/timeline-events-li-ao-love-poems.json#li-ao-love-poems-1957-07-29-writes-i-will-return-to-bloom
 - 1957年 | 《文星》杂志开始萌芽
   精度：year；可靠度：broad；排序日期：1957-01-01
   摘要：李敖在《记文星事件》中回顾，《自由中国》之后，一个自1957年开始萌芽的《文星》杂志逐渐壮大。
@@ -2287,6 +2300,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/007.我最难忘的一个官僚同学.txt
   数据：data/timeline-events-third-book.json#book3-1958-08-02-li-graduates-returns-taichung
+- 1958年10月20日 | 李敖写下《爱情如牙刷》
+  精度：day；可靠度：reported-by-author；排序日期：1958-10-20
+  摘要：《爱情如牙刷》文末署1958年10月20日，并在诗中括注或作“女人如牙刷”。本条只收精确署日写作节点，不把诗中比喻扩展为现实感情事件。
+  人物：李敖
+  地点：台湾
+  标签：李敖的情诗、爱情如牙刷、早期写作、1958
+  视图：写作线、诗文线、感情线
+  作品：李敖的情诗、爱情如牙刷
+  交叉引用：-
+  来源：李敖的情诗 / 003.爱情如牙刷 / line 11
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/002.李敖的情诗/003.爱情如牙刷.txt
+  数据：data/timeline-events-li-ao-love-poems.json#li-ao-love-poems-1958-10-20-writes-love-like-toothbrush
 - 1958-11-04 | 赴松山机场迎胡适
   精度：day；可靠度：confirmed；排序日期：1958-11-04
   摘要：李敖日记追记，他赴松山机场迎胡适，胡适在人潮中叫他“李敖”，姚从吾随后鼓励他“好好干”。
@@ -2300,6 +2326,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/005.“北土非吾愿，东林怀我师”.txt
   数据：data/timeline-events.json#1958-11-04-hu-shih-airport
+- 1958年11月10日 | 李敖写下《乌来观瀑诗》
+  精度：day；可靠度：reported-by-author；排序日期：1958-11-10
+  摘要：《乌来观瀑诗》文末署1958年11月10日。诗题指向乌来观瀑经验，本条收写作署日与地点线索，不把诗中追忆另拆成未经证实的具体行程。
+  人物：李敖
+  地点：乌来、台湾
+  标签：李敖的情诗、乌来观瀑诗、乌来、早期写作、1958
+  视图：写作线、诗文线、日常线
+  作品：李敖的情诗、乌来观瀑诗
+  交叉引用：-
+  来源：李敖的情诗 / 004.乌来观瀑诗 / line 19
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/002.李敖的情诗/004.乌来观瀑诗.txt
+  数据：data/timeline-events-li-ao-love-poems.json#li-ao-love-poems-1958-11-10-writes-wulai-waterfall-poem
 - 1958-11-17 | 姚从吾与李敖谈论文方向
   精度：day；可靠度：confirmed；排序日期：1958-11-17
   摘要：姚从吾转述胡适记得李敖，并希望他改做元遗山研究；李敖坚持自己的宋代婚姻题目。
@@ -2326,6 +2365,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/005.“北土非吾愿，东林怀我师”.txt
   数据：data/timeline-events.json#1958-11-24-hu-shih-grass
+- 1958年11月27日 | 李敖写下《一九五八年十一月二十七日》
+  精度：day；可靠度：reported-by-author；排序日期：1958-11-27
+  摘要：《一九五八年十一月二十七日》以日期为题，文末又署1958年11月27日。本条收这个早期精确署日写作节点，不把诗中自由/早年意象外推为独立生平事件。
+  人物：李敖
+  地点：台湾
+  标签：李敖的情诗、一九五八年十一月二十七日、早期写作、1958
+  视图：写作线、诗文线
+  作品：李敖的情诗、一九五八年十一月二十七日
+  交叉引用：-
+  来源：李敖的情诗 / 005.一九五八年十一月二十七日 / line 19
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/002.李敖的情诗/005.一九五八年十一月二十七日.txt
+  数据：data/timeline-events-li-ao-love-poems.json#li-ao-love-poems-1958-11-27-writes-november-27-poem
 - 1958-11-28 | 毕业论文题名确定
   精度：day；可靠度：confirmed；排序日期：1958-11-28
   摘要：李敖赴姚从吾处登记论文，经商量题名为“宋代婚姻解消及其社会约制的初探”，姚从吾表示将送胡适请教。
@@ -2339,6 +2391,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/005.“北土非吾愿，东林怀我师”.txt
   数据：data/timeline-events.json#1958-11-28-thesis-title
+- 1958年12月22日 | 李敖在台湾写《死别》早期段落
+  精度：day；可靠度：reported-by-author；排序日期：1958-12-22
+  摘要：《死别》正文中一段署“李敖1958年12月22日在台湾”。本条只收《李敖的情诗》保留下来的早期写作署记，不把文中恋爱叙述再拆成可证现实关系。
+  人物：李敖
+  地点：台湾
+  标签：李敖的情诗、死别、1958、早期写作
+  视图：写作线、感情线、诗文线
+  作品：李敖的情诗、死别
+  交叉引用：-
+  来源：李敖的情诗 / 018.死别 / line 113
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/002.李敖的情诗/018.死别.txt
+  数据：data/timeline-events-li-ao-love-poems.json#li-ao-love-poems-1958-12-22-writes-death-separation-in-taiwan
+- 1958年12月28日 | 胡适回谢李敖生日诗并称可预见其白话诗前途
+  精度：day；可靠度：quoted-correspondence；排序日期：1958-12-28
+  摘要：《寿诗》收李敖1958年写给胡适的生日诗，并收胡适1958年12月28日回语：“谢谢你送我的生日诗”，还说这首打油诗可预测李敖做白话诗的前途。本条收李敖赠诗与胡适回谢的交往节点。
+  人物：李敖、胡适
+  地点：台湾
+  标签：李敖的情诗、寿诗、胡适、白话诗、1958
+  视图：交游线、写作线、诗文线
+  作品：李敖的情诗、寿诗
+  交叉引用：-
+  来源：李敖的情诗 / 010.寿诗 / line 29
+  补充来源：李敖的情诗 / 010.寿诗 / line 33；说明：胡适回语署日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/002.李敖的情诗/010.寿诗.txt
+  数据：data/timeline-events-li-ao-love-poems.json#li-ao-love-poems-1958-12-28-hu-shih-replies-to-birthday-poem
 - 1958年 | 写信给马戈谈“文化商人”构想
   精度：year；可靠度：broad；排序日期：1958-01-01
   摘要：李敖做大学生时写信给马戈，谈知识分子从事文化事业、重视钱财力量和文化传播经济基础的构想。
@@ -2471,6 +2549,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/007.台大（1954-1959·19到24岁）.txt
   数据：data/timeline-events-fourth-book.json#book4-1959-06-18-graduates-from-ntu-source4
+- 1959年6月20日 | 李敖口占《水月雾山》写奉以宽
+  精度：day；可靠度：reported-by-author；排序日期：1959-06-20
+  摘要：《水月雾山》末署“1959年6月20日口占绝句写奉以宽”。本条收口占和写赠动作。
+  人物：李敖、以宽
+  地点：台湾
+  标签：李敖的情诗、水月雾山、以宽、口占、1959
+  视图：写作线、交游线、诗文线
+  作品：李敖的情诗、水月雾山
+  交叉引用：-
+  来源：李敖的情诗 / 006.水月雾山 / line 11
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/002.李敖的情诗/006.水月雾山.txt
+  数据：data/timeline-events-li-ao-love-poems.json#li-ao-love-poems-1959-06-20-composes-water-moon-mist-mountain-for-yikuan
 - 1959-07-07 | 送交“宋代婚姻”研究计划
   精度：day；可靠度：confirmed；排序日期：1959-07-07
   摘要：李敖把“宋代婚姻”研究计划送给姚从吾；次日长谈后，他因感情和人生选择等原因，决定去当兵、不考研究所。
@@ -2772,6 +2863,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/006.投笔纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1960-03-10-transferred-to-regimental-search-platoon
+- 1960年3月12日 | 李敖以“李排长敖”署名撰《小猴情人潘毓刚寿诗》
+  精度：day；可靠度：reported-by-author；排序日期：1960-03-12
+  摘要：《小猴情人潘毓刚寿诗》开头署“1960年3月12日李排长敖敬撰”。本条收军中身份下为潘毓刚写寿诗的动作，不把诗中玩笑语逐句拆为事实。
+  人物：李敖、潘毓刚
+  地点：台湾
+  标签：李敖的情诗、潘毓刚、寿诗、李排长敖、1960
+  视图：写作线、交游线、军中线、诗文线
+  作品：李敖的情诗、小猴情人潘毓刚寿诗
+  交叉引用：-
+  来源：李敖的情诗 / 011.小猴情人潘毓刚寿诗 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/002.李敖的情诗/011.小猴情人潘毓刚寿诗.txt
+  数据：data/timeline-events-li-ao-love-poems.json#li-ao-love-poems-1960-03-12-writes-pan-yugang-birthday-poem
 - 1960年3月16日 | 李敖记录军中参观枪决现场
   精度：day；可靠度：confirmed；排序日期：1960-03-16
   摘要：《投笔纪》摘录，1960年3月16日李敖看到军中如何处理暴行事件：师朝会后集体去参观四二炮连上士韩乾忠被枪决现场，形成他对军中暴行和老兵苦闷的观察。
@@ -2850,6 +2954,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/006.投笔纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1960-05-29-records-girl-being-sold
+- 1960年6月2日，在军中 | 李敖在军中据景新汉、马戈来信写《爱情军师赐诗》
+  精度：day；可靠度：reported-by-author；排序日期：1960-06-02
+  摘要：《爱情军师赐诗》题注写，景新汉三页书称马戈最需要“经验丰富诡计多端之参谋”，马戈二页信也说景新汉劝他问计于李敖；李敖因而作诗戏之。文末署1960年6月2日，在军中。
+  人物：李敖、景新汉、马戈
+  地点：台湾
+  标签：李敖的情诗、爱情军师赐诗、景新汉、马戈、军中、1960
+  视图：写作线、交游线、军中线、感情线
+  作品：李敖的情诗、爱情军师赐诗
+  交叉引用：-
+  来源：李敖的情诗 / 007.爱情军师赐诗 / line 3
+  补充来源：李敖的情诗 / 007.爱情军师赐诗 / line 29；说明：文末署日与地点。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/002.李敖的情诗/007.爱情军师赐诗.txt
+  数据：data/timeline-events-li-ao-love-poems.json#li-ao-love-poems-1960-06-02-writes-love-strategist-poem-for-margo-in-army
 - 1960年6月14日 | 李敖写成《红玫瑰》寄给 Rosa
   精度：day；可靠度：confirmed；排序日期：1960-06-14
   摘要：《红玫瑰》后记写到，1960年6月9日他在新化附近服役时收到 Rosa 来信命题，6月14日便写好寄出。这使《红玫瑰》在后来的入书改订前，先有一个明确的军中写作与寄发节点。
@@ -2860,9 +2977,35 @@
   作品：红玫瑰、传统下的独白
   交叉引用：-
   来源：传统下的独白 / 014.红玫瑰 / line 57
-  补充来源：-
+  补充来源：李敖的情诗 / 018.死别 / line 157；说明：《李敖的情诗》收录《死别》时复述1960年6月9日收到Rosa命题来信、6月14日写好寄出《红玫瑰》。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/014.红玫瑰.txt
   数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1960-06-14-red-rose-written-and-sent-to-rosa
+- 1960年6月22日，在军中 | 李敖下午在林中芒果树下作诗戏马戈
+  精度：day；可靠度：reported-by-author；排序日期：1960-06-22
+  摘要：《爱情军师又赐诗》题注写，李敖“下午在林中芒果树下，作诗戏马戈”；诗题下又署“李敖杜撰（1960年6月22日，在军中）”。末段还说明最后一句原拟“祸水”，怕马戈介意而改作“大水”。
+  人物：李敖、马戈
+  地点：台湾
+  标签：李敖的情诗、爱情军师又赐诗、马戈、芒果树、军中、1960
+  视图：写作线、交游线、军中线、日常线
+  作品：李敖的情诗、爱情军师又赐诗
+  交叉引用：-
+  来源：李敖的情诗 / 008.爱情军师又赐诗 / line 3
+  补充来源：李敖的情诗 / 008.爱情军师又赐诗 / line 7；说明：题下署日。；李敖的情诗 / 008.爱情军师又赐诗 / line 67；说明：改字说明。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/002.李敖的情诗/008.爱情军师又赐诗.txt
+  数据：data/timeline-events-li-ao-love-poems.json#li-ao-love-poems-1960-06-22-writes-margo-birthday-poem-under-mango-tree
+- 1960年7月1日 | 李敖清晨独走山路后写《相思树下》
+  精度：day；可靠度：reported-by-author；排序日期：1960-07-01
+  摘要：《相思树下》题注写，李敖五时即起，在黑夜中去103，独在山路中行走，又立山头看晨景，生平第一次这么早独在山中眺望；归来续成小诗。署注说1960年7月1日作于军中，并说明末句曾改字。
+  人物：李敖
+  地点：台湾
+  标签：李敖的情诗、相思树下、山路、清晨、军中、1960
+  视图：日常线、写作线、军中线、诗文线
+  作品：李敖的情诗、相思树下
+  交叉引用：-
+  来源：李敖的情诗 / 015.相思树下 / line 3
+  补充来源：李敖的情诗 / 015.相思树下 / line 21；说明：署日与改字说明。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/002.李敖的情诗/015.相思树下.txt
+  数据：data/timeline-events-li-ao-love-poems.json#li-ao-love-poems-1960-07-01-early-mountain-walk-writes-under-acacia
 - 1960年7月23日 | 李敖在连测验中闹出“七五炮打冲锋”笑话
   精度：day；可靠度：confirmed；排序日期：1960-07-23
   摘要：《我最难忘的一个老兵》写，1960年7月23日清早连测验，李敖率兵器排冲到前面，老兵张永亭坐地罢战，后来成为“七五炮打冲锋”的军中笑话。
@@ -2889,6 +3032,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/008.军队（1959-1961·24到26岁）.txt
   数据：data/timeline-events-fourth-book.json#book4-1960-07-23-seventy-five-cannon-charge-source4
+- 1960年7月25日 | 李敖军中首次大醉后写《我竟醉》
+  精度：day；可靠度：reported-by-author；排序日期：1960-07-25
+  摘要：《我竟醉》题注写，下午3时半因副连长任排长周年纪念强拉李敖喝酒，大醉到晚饭不能食，是生平首次大醉；夜8时半起，半醉下成诗。署注说1960年7月25日醉酒昏睡五小时后写于军中，翌日早晨改易四字。
+  人物：李敖
+  地点：台湾
+  标签：李敖的情诗、我竟醉、首次大醉、军中、1960
+  视图：日常线、军中线、写作线、诗文线
+  作品：李敖的情诗、我竟醉
+  交叉引用：-
+  来源：李敖的情诗 / 012.我竟醉 / line 3
+  补充来源：李敖的情诗 / 012.我竟醉 / line 63；说明：署日与翌晨改稿说明。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/002.李敖的情诗/012.我竟醉.txt
+  数据：data/timeline-events-li-ao-love-poems.json#li-ao-love-poems-1960-07-25-first-drunk-writes-poem-in-army
+- 1960年7月26日 | 李敖午后照镜见乱发后作《老子歌》
+  精度：day；可靠度：reported-by-author；排序日期：1960-07-26
+  摘要：《老子歌·老子二歌》题注写，李敖午后照镜见乱发，忽起灵感，去厕归来后涌成《老子歌》。文末署1960年7月26日作于军中。
+  人物：李敖
+  地点：台湾
+  标签：李敖的情诗、老子歌、乱发、军中、1960
+  视图：日常线、军中线、写作线、诗文线
+  作品：李敖的情诗、老子歌
+  交叉引用：-
+  来源：李敖的情诗 / 013.老子歌·老子二歌 / line 5
+  补充来源：李敖的情诗 / 013.老子歌·老子二歌 / line 57；说明：文末署日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/002.李敖的情诗/013.老子歌·老子二歌.txt
+  数据：data/timeline-events-li-ao-love-poems.json#li-ao-love-poems-1960-07-26-mirror-hair-inspiration-writes-laozi-song
 - 1960年8月14日 | 张永亭求李敖帮忙赎手表
   精度：day；可靠度：confirmed；排序日期：1960-08-14
   摘要：李敖在《我最难忘的一个老兵》中引用1960年8月14日日记，张永亭夜来求他帮忙赎手表并表示不再赌，李敖送他二十元。
@@ -2941,6 +3110,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/002.传统下的再白/005.论知识人的动向.txt
   数据：data/timeline-events-traditional-monologue-sequel.json#traditional-monologue-sequel-1960-09-09-on-the-direction-of-intellectuals-letter-written
+- 1960年10月15日 | 李敖在旧摘要小本发现1955年日历后写《日历与往事》
+  精度：day；可靠度：reported-by-author；排序日期：1960-10-15
+  摘要：《日历与往事》题注写，李敖在旧摘要小本中发现1955年日历、星期表，3月以后与1960年完全一样，于是倚箱写五绝一首，记平静中的小感想。文末署1960年10月15日作于军中。
+  人物：李敖
+  地点：台湾
+  标签：李敖的情诗、日历与往事、旧摘要小本、军中、1960
+  视图：日常线、军中线、写作线、诗文线
+  作品：李敖的情诗、日历与往事
+  交叉引用：-
+  来源：李敖的情诗 / 016.日历与往事 / line 3
+  补充来源：李敖的情诗 / 016.日历与往事 / line 17；说明：文末署日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/002.李敖的情诗/016.日历与往事.txt
+  数据：data/timeline-events-li-ao-love-poems.json#li-ao-love-poems-1960-10-15-finds-1955-calendar-and-writes-diary-poem
 - 1960-11-07 | 营房中写信给姚从吾
   精度：day；可靠度：confirmed；排序日期：1960-11-07
   摘要：李敖在营房借老士官刘云的灯光写信给姚从吾，感谢其四年来在治学、做人和经济上的照顾。
@@ -2954,6 +3136,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/005.“北土非吾愿，东林怀我师”.txt
   数据：data/timeline-events.json#1960-11-07-letter-to-yao
+- 1960年11月8日 | 李敖在军中作《老子二歌》并称其为史家新信条
+  精度：day；可靠度：reported-by-author；排序日期：1960-11-08
+  摘要：《老子歌·老子二歌》末注写，《老子二歌》最后两句是“李敖派史家治史的新信条、新抱负”，1960年11月8日作于军中。本条收诗作及自我定位说明。
+  人物：李敖
+  地点：台湾
+  标签：李敖的情诗、老子二歌、史家、军中、1960
+  视图：写作线、思想线、军中线、诗文线
+  作品：李敖的情诗、老子二歌
+  交叉引用：-
+  来源：李敖的情诗 / 013.老子歌·老子二歌 / line 85
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/002.李敖的情诗/013.老子歌·老子二歌.txt
+  数据：data/timeline-events-li-ao-love-poems.json#li-ao-love-poems-1960-11-08-writes-laozi-second-song-in-army
+- 1960年11月12日 | 李敖在军中作《水调歌头》
+  精度：day；可靠度：reported-by-author；排序日期：1960-11-12
+  摘要：《水调歌头》文末署“1960年11月12日作于军中”。本条只收明确写作署注，不把词中姿态另拆为现实动作。
+  人物：李敖
+  地点：台湾
+  标签：李敖的情诗、水调歌头、军中、1960
+  视图：写作线、军中线、诗文线
+  作品：李敖的情诗、水调歌头
+  交叉引用：-
+  来源：李敖的情诗 / 014.水调歌头 / line 83
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/002.李敖的情诗/014.水调歌头.txt
+  数据：data/timeline-events-li-ao-love-poems.json#li-ao-love-poems-1960-11-12-writes-shuidiaogetou-in-army
 - 1960年11月20日 | 《妈妈的梦幻》刊于台北《联合报》副刊
   精度：day；可靠度：confirmed；排序日期：1960-11-20
   摘要：《妈妈的梦幻》后记说明，此文原登1960年11月20日台北《联合报》副刊。它把李敖写母亲、家庭秩序与李家“民主化”的幽默文章，落实为明确的原刊节点。
@@ -2993,6 +3201,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/002.传统下的再白/006.怪定义四则.txt
   数据：data/timeline-events-traditional-monologue-sequel.json#traditional-monologue-sequel-1960-12-02-strange-definitions-history-note-added
+- 1960年12月26日 | 李敖作《追》
+  精度：day；可靠度：reported-by-author；排序日期：1960-12-26
+  摘要：《追》末注写“这诗可题做《追》。1960年12月26日，敖之。”本条只收诗题和署日可坐实的写作动作。
+  人物：李敖
+  地点：台湾
+  标签：李敖的情诗、追、1960
+  视图：写作线、诗文线
+  作品：李敖的情诗、追
+  交叉引用：-
+  来源：李敖的情诗 / 017.追 / line 11
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/002.李敖的情诗/017.追.txt
+  数据：data/timeline-events-li-ao-love-poems.json#li-ao-love-poems-1960-12-26-writes-zhui
+- 1960年9月 | 李敖为五年老友景新汉作悬弧大庆诗
+  精度：month；可靠度：reported-by-author；排序日期：1960-09-30
+  摘要：《民国乐府贺新汉居士悬弧大庆》写景新汉家在万华，内有花园名玫园。诗末署“1960年的9月，五年老朋友李敖作”。本条收为景新汉祝寿作诗的交游节点。
+  人物：李敖、景新汉
+  地点：万华、台湾
+  标签：李敖的情诗、景新汉、悬弧大庆、万华、玫园、1960
+  视图：交游线、写作线、诗文线
+  作品：李敖的情诗、民国乐府贺新汉居士悬弧大庆
+  交叉引用：-
+  来源：李敖的情诗 / 009.民国乐府贺新汉居士悬弧大庆 / line 87
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/002.李敖的情诗/009.民国乐府贺新汉居士悬弧大庆.txt
+  数据：data/timeline-events-li-ao-love-poems.json#li-ao-love-poems-1960-09-writes-birthday-poem-for-jing-xinhan
 - 1960年冬天快来时 | 《自由中国》事件后自由主义刊物收场
   精度：season；可靠度：broad；排序日期：1960-11-01
   摘要：《记文星事件》把《自由中国》事件写为国民党箝制言论自由的剧烈事件之一：1960年冬天快来时，雷震等被捕，殷海光遭长期监视。
@@ -3006,6 +3240,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/012.记文星事件.txt
   数据：data/timeline-events-second-book-broad.json#book2-broad-1960-winter-free-china-case
+- 1960年12月 | 李敖再写胡适寿诗
+  精度：month；可靠度：reported-by-author；排序日期：1960-12-31
+  摘要：《寿诗》后半组收李敖为胡适写的另一组寿诗，末署“李敖 1960年12月”。本条收1960年再度为胡适祝寿作诗的节点。
+  人物：李敖、胡适
+  地点：台湾
+  标签：李敖的情诗、寿诗、胡适、1960
+  视图：交游线、写作线、诗文线
+  作品：李敖的情诗、寿诗
+  交叉引用：-
+  来源：李敖的情诗 / 010.寿诗 / line 217
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/002.李敖的情诗/010.寿诗.txt
+  数据：data/timeline-events-li-ao-love-poems.json#li-ao-love-poems-1960-12-writes-another-birthday-poem-for-hu-shih
 - 服兵役时期（由马宏祥介绍，待校） | 马宏祥在服兵役时期把魏廷朝介绍给李敖
   精度：undated-context；可靠度：contextual；排序日期：1960-12-31
   摘要：《浮生记趣四续》追述，魏廷朝在台大法律系时李敖并不认识他；到魏廷朝当兵时，才由马宏祥介绍给李敖认识。李敖并顺笔记下魏廷朝为人拙朴及其大姐所说看外国电影分不清演员的趣事。
@@ -3099,6 +3346,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/005.“北土非吾愿，东林怀我师”.txt
   数据：data/timeline-events-first-book-supplement.json#1961-02-27-yao-refuses-repayment
+- 1961年2月最后一天深夜三点钟 | 李敖在台北“四席小屋”深夜写《死别》段落
+  精度：day；可靠度：reported-by-author；排序日期：1961-02-28
+  摘要：《死别》中一段署“李敖，1961年2月的最后一天深夜三点钟在台北，在他的‘四席小屋’”。本条收《李敖的情诗》保留下来的具体写作时地。
+  人物：李敖
+  地点：台北
+  标签：李敖的情诗、死别、四席小屋、台北、1961
+  视图：写作线、日常线、诗文线
+  作品：李敖的情诗、死别
+  交叉引用：-
+  来源：李敖的情诗 / 018.死别 / line 129
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/002.李敖的情诗/018.死别.txt
+  数据：data/timeline-events-li-ao-love-poems.json#li-ao-love-poems-1961-02-28-writes-death-separation-in-four-mat-room
 - 1961-03-04 | 第一次与姚从吾个别谈话
   精度：day；可靠度：confirmed；排序日期：1961-03-04
   摘要：李敖日记记下第一次与姚从吾个别谈话，姚仍不赞成他的婚姻研究，并希望他读《宋史》、做宋代人物地理分布。
@@ -3203,6 +3463,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/005.“北土非吾愿，东林怀我师”.txt
   数据：data/timeline-events-first-book-supplement.json#1961-03-25-yao-buys-songhuiyao
+- 1961年4月2日 | 李敖写下诗作《无为》
+  精度：day；可靠度：reported-by-author；排序日期：1961-04-02
+  摘要：《无为》文末署1961年4月2日。旧库另有同日“一口气写完《无为先生传》”节点；本条只收诗作《无为》的署日写作动作，并与同日散文写作链互相参照。
+  人物：李敖
+  地点：台湾
+  标签：李敖的情诗、无为、老子、1961
+  视图：写作线、思想线、诗文线
+  作品：李敖的情诗、无为
+  交叉引用：traditional-monologue-1961-04-02-wuwei-xiansheng-zhuan-written-in-one-sitting
+  来源：李敖的情诗 / 019.无为 / line 19
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/002.李敖的情诗/019.无为.txt
+  数据：data/timeline-events-li-ao-love-poems.json#li-ao-love-poems-1961-04-02-writes-wuwei-poem
 - 1961年4月2日夜 | 李敖一口气写完《无为先生传》
   精度：day；可靠度：confirmed；排序日期：1961-04-02
   摘要：《无为先生传》文末明记“1961年4月2日夜一口气写完”。这类自署写作完成时刻很适合作为《传统下的独白》一书内部的作品生成锚点。
@@ -3239,7 +3512,7 @@
   作品：红玫瑰、联合报、传统下的独白
   交叉引用：traditional-monologue-1960-06-14-red-rose-written-and-sent-to-rosa
   来源：传统下的独白 / 014.红玫瑰 / line 57
-  补充来源：-
+  补充来源：李敖的情诗 / 018.死别 / line 157；说明：《李敖的情诗》收录《死别》时复述《红玫瑰》退伍后稍改，并于1961年4月6日发表在台北《联合报》副刊。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/014.红玫瑰.txt
   数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1961-04-06-red-rose-published-in-united-daily
 - 1961年4月8日 | 李敖因姚从吾示王洪钧文章而动念写《老年人和棒子》
@@ -4167,6 +4440,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/010.不讨老婆之“不亦快哉”（三十三则）.txt
   数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1962-12-07-bachelorhood-pleasures-first-revision
+- 1962年12月14日 | 李敖作《呈光中》赠余光中
+  精度：day；可靠度：reported-by-author；排序日期：1962-12-14
+  摘要：《呈光中》末署“敖 1962年12月14日”。诗题中的“光中”与正文“现代诗的头儿”指向余光中；本条收李敖写诗相呈的交往节点。
+  人物：李敖、余光中
+  地点：台湾
+  标签：李敖的情诗、呈光中、余光中、现代诗、1962
+  视图：交游线、写作线、诗文线
+  作品：李敖的情诗、呈光中
+  交叉引用：book5-1960s-yu-guangzhong-invites-li-to-modern-poetry-reading、book5-1960s-yu-guangzhong-invites-li-to-class-lecture
+  来源：李敖的情诗 / 021.呈光中 / line 41
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/002.李敖的情诗/021.呈光中.txt
+  数据：data/timeline-events-li-ao-love-poems.json#li-ao-love-poems-1962-12-14-writes-poem-to-yu-guangzhong
 - 1962年12月17日 | 李敖写定《十三年和十三月》
   精度：day；可靠度：confirmed；排序日期：1962-12-17
   摘要：《十三年和十三月》文末署1962年12月17日。这篇带有自传与思想自剖色彩的长文回顾李敖1949年赴台后十三年的受教育、入台大、从军、回校与投向《文星》的过程，是《传统下的独白》中可直接落日的作品署日节点。
@@ -4361,7 +4647,7 @@
   作品：红玫瑰、传统下的独白
   交叉引用：traditional-monologue-1960-06-14-red-rose-written-and-sent-to-rosa、traditional-monologue-1961-04-06-red-rose-published-in-united-daily
   来源：传统下的独白 / 014.红玫瑰 / line 61
-  补充来源：-
+  补充来源：李敖的情诗 / 018.死别 / line 161；说明：《李敖的情诗》收录《死别》时复述1963年5月22日晨三时半深夜写《红玫瑰》后记并抄豪斯曼诗。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/014.红玫瑰.txt
   数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1963-05-22-red-rose-postscript-at-330am
 - 1963年6月1日 | 《假如我是女人》刊于《文星》第六十八号
@@ -6970,6 +7256,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/039.读丘吉尔传的感想.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1966-02-07-039-rnfffcglli6sfmonesj6nj5f
+- 1966年2月7日 | 李敖写给CL的信中夹带桑塔耶那情诗译文
+  精度：day；可靠度：reported-by-author；排序日期：1966-02-07
+  摘要：《译桑塔耶那的情诗》在诗译后收录李敖给CL的信，署1966年2月7日。信中说他已四个月没去文星书店，独住公寓四楼，夜间通宵看书、写书、思考、走来走去，并提到十三年前的往事。
+  人物：李敖、CL、George Santayana
+  地点：台北
+  标签：李敖的情诗、桑塔耶那、CL、文星书店、寓公、1966
+  视图：书信线、翻译线、日常线、感情线
+  作品：李敖的情诗、译桑塔耶那的情诗
+  交叉引用：-
+  来源：李敖的情诗 / 022.译桑塔耶那的情诗 / line 101
+  补充来源：李敖的情诗 / 022.译桑塔耶那的情诗 / line 113；说明：信末署名署日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/002.李敖的情诗/022.译桑塔耶那的情诗.txt
+  数据：data/timeline-events-li-ao-love-poems.json#li-ao-love-poems-1966-02-07-writes-cl-letter-with-santayana-love-poem
 - 二月八日 | 李敖公布潘光宇致袁贻瑾揭发学人归国讲学机票回扣的信
   精度：day；可靠度：inferred；排序日期：1966-02-08
   摘要：在《王世杰“蒙混舞弊”的铁证》中，李敖说明自己“握有影印本，现公布于后”，并引出远东旅行社潘光宇致中研院总干事袁贻瑾的信。信中揭发暑期学人归国讲学机票款被要求扣回佣百分之三点五。结合上下文“现在是民国五十五年”与信末仅署“二月八日”，此处将该信日期暂挂为 1966-02-08。
@@ -7087,6 +7386,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/002.传统下的再白/007.日记八则.txt
   数据：data/timeline-events-traditional-monologue-sequel.json#traditional-monologue-sequel-1966-02-22-diary-lin-sen-admonition
+- 1966年2月24日天快亮前 | 李敖为中央书局官司赴台中，一夜未睡写两封长信和“婆婆论”
+  精度：day；可靠度：reported-by-author；排序日期：1966-02-24
+  摘要：《译桑塔耶那的情诗》收录1966年2月24日给CL的信。信中说他昨晚11点到台中，专程来打对一个国民党籍书商、中央书局董事长的官司，一夜没睡；先写一封长信给清华大学两个教授，再写这封“婆婆论”，四小时后出庭，随即回台北。
+  人物：李敖、CL
+  地点：台中、台北
+  标签：李敖的情诗、CL、台中、中央书局、官司、婆婆论、1966
+  视图：书信线、司法线、日常线、感情线
+  作品：李敖的情诗、译桑塔耶那的情诗
+  交叉引用：-
+  来源：李敖的情诗 / 022.译桑塔耶那的情诗 / line 135
+  补充来源：李敖的情诗 / 022.译桑塔耶那的情诗 / line 137；说明：信末署日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/002.李敖的情诗/022.译桑塔耶那的情诗.txt
+  数据：data/timeline-events-li-ao-love-poems.json#li-ao-love-poems-1966-02-24-taichung-lawsuit-night-writes-two-letters-and-mother-in-law-note
 - 1966年3月9日 | 李敖写《新纪元出版公司的缘起》
   精度：day；可靠度：confirmed；排序日期：1966-03-09
   摘要：《出版缘起示例》第一则以1966年3月9日为锚点，提出新纪元出版公司的创办理念与“开展新纪元”的出版使命。
@@ -7191,6 +7503,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/014.寒武纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1966-04-16-meets-li-hanxiang
+- 1966年4月22日深夜5点50分 | 李敖深夜写给CL的长信，回望十三年忧患
+  精度：day；可靠度：reported-by-author；排序日期：1966-04-22
+  摘要：《译桑塔耶那的情诗》收录1966年4月22日给CL的信，信中李敖说自己从十三年前写第一封信到十三年后再写此信，已“饱更忧患”，再过三天就是三十一岁。信末署“敖 1966年4月22日‘深夜’5点50分”。
+  人物：李敖、CL、梁实秋
+  地点：台湾
+  标签：李敖的情诗、CL、深夜、三十一岁、1966
+  视图：书信线、感情线、思想线、日常线
+  作品：李敖的情诗、译桑塔耶那的情诗
+  交叉引用：-
+  来源：李敖的情诗 / 022.译桑塔耶那的情诗 / line 153
+  补充来源：李敖的情诗 / 022.译桑塔耶那的情诗 / line 157；说明：信末署时。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/002.李敖的情诗/022.译桑塔耶那的情诗.txt
+  数据：data/timeline-events-li-ao-love-poems.json#li-ao-love-poems-1966-04-22-writes-deep-night-cl-letter
 - 1966年4月25日 | 署写《我怎样给王尚义擦屁股》
   精度：day；可靠度：confirmed；排序日期：1966-04-25
   摘要：《我怎样给王尚义擦屁股》文末署“敖之 1966年4月25日”，记录李敖与王尚义相关文字往来的回忆。
@@ -7204,6 +7529,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/008.我怎样给王尚义擦屁股.txt
   数据：data/timeline-events-second-book.json#book2-1966-04-25-wang-shangyi-essay
+- 1966年4月27日 | 李敖见CL后被往事缠住，开始写一份“李敖年表”
+  精度：day；可靠度：reported-by-author；排序日期：1966-04-27
+  摘要：《译桑塔耶那的情诗》收录1966年4月27日信，李敖说1958年2月18日想与CL找宁静处谈两三个小时的构想，八年后才成事实；当天送CL回去后，被往事缠住，并开始做一份“李敖年表”，刚写到十三岁。
+  人物：李敖、CL、George Santayana
+  地点：台湾
+  标签：李敖的情诗、CL、李敖年表、1958、1966
+  视图：书信线、感情线、写作线、自传线
+  作品：李敖的情诗、译桑塔耶那的情诗、李敖年表
+  交叉引用：-
+  来源：李敖的情诗 / 022.译桑塔耶那的情诗 / line 163
+  补充来源：李敖的情诗 / 022.译桑塔耶那的情诗 / line 165；说明：开始写“李敖年表”。；李敖的情诗 / 022.译桑塔耶那的情诗 / line 177；说明：信末署日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/002.李敖的情诗/022.译桑塔耶那的情诗.txt
+  数据：data/timeline-events-li-ao-love-poems.json#li-ao-love-poems-1966-04-27-begins-li-ao-chronology-after-seeing-cl
 - 1966年5月2日 | 李敖写《台湾大学的新“十诫”》
   精度：day；可靠度：confirmed；排序日期：1966-05-02
   摘要：《台湾大学的新“十诫”》署1966年5月2日，以台大学生惩戒规则为靶子，批评校方以记过和纪律管制替代教育。
@@ -7986,6 +8324,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/011.在废墟中营建.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1967-07-19-011-signs-secret-wenfeng-cooperation-agreement
+- 1967年8月14日天未明时 | 李敖天未明时写《我们相信》
+  精度：day；可靠度：reported-by-author；排序日期：1967-08-14
+  摘要：《我们相信》末署“1967年8月14日天未明时”。诗中反复说“我们相信”，并写“我们会等待到那一天，我们会制造出那一天”；本条只收天未明时的写作锚点，不把诗中“他们/我们”的政治抒情再拆成单独事实。
+  人物：李敖
+  地点：台湾
+  标签：李敖的情诗、我们相信、天未明时、1967
+  视图：写作线、思想线、诗文线
+  作品：李敖的情诗、我们相信
+  交叉引用：-
+  来源：李敖的情诗 / 023.我们相信 / line 45
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/002.李敖的情诗/023.我们相信.txt
+  数据：data/timeline-events-li-ao-love-poems.json#li-ao-love-poems-1967-08-14-predawn-writes-we-believe
 - 1967年8月24日 | 李敖三个月后再写信给“小Y”
   精度：day；可靠度：confirmed；排序日期：1967-08-24
   摘要：《白露纪》写，李敖与“小Y”亲热过度后发生隔阂，三个月后于1967年8月24日写信试投，质问她是否仍沉醉于情欲二分法，并署“狂童之狂也者”。
@@ -9742,6 +10093,19 @@
   补充来源：千秋万岁乌鸦求是合集 / 115.多情却似总少情 / line 13；说明：李敖1990年谈爱情观时回引1974年牢中诗《只爱一点点》。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/020.前程（1997-·62岁以后）.txt
   数据：data/timeline-events-fourth-book-deepening.json#book4-deep-1974-prison-poem-only-love-a-little
+- 1974年 | 李敖就徐志摩《他眼里有你》翻作《原来你在这里》
+  精度：year；可靠度：reported-by-author；排序日期：1974-12-31
+  摘要：《原来你在这里》末注“就徐志摩《他眼里有你》翻作。1974年。”本条收李敖对徐志摩诗的翻作动作；原文无月日，按年级入表。
+  人物：李敖、徐志摩
+  地点：台湾
+  标签：李敖的情诗、原来你在这里、徐志摩、他眼里有你、翻作、1974
+  视图：写作线、改作线、诗文线
+  作品：李敖的情诗、原来你在这里、他眼里有你
+  交叉引用：-
+  来源：李敖的情诗 / 045.原来你在这里 / line 25
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/002.李敖的情诗/045.原来你在这里.txt
+  数据：data/timeline-events-li-ao-love-poems.json#li-ao-love-poems-1974-adapts-xu-zhimo-he-has-you-in-his-eyes
 - 1974年某一天（约39年前） | 李敖在狱中写出《忘了我是谁》歌词
   精度：undated-context；可靠度：contextual；排序日期：1974-12-31
   摘要：《李敖与民歌》回忆，约在1974年某一天，李敖为向同牢人换几张《中央日报》碎报纸，当场写了几首歌词，其中一首就是《忘了我是谁》。这条是后来1979年发表前的狱中创作起点。
@@ -10060,6 +10424,19 @@
   数据：data/timeline-events-beijing-fayuansi.json#beijing-fayuansi-1976-after-release-starts-first-chapters
 
 1977
+- 1977年4月19日 | 李敖在中心诊所病房改作蒂斯代尔《I Shall Not Care》为《四月之死》
+  精度：day；可靠度：reported-by-author；排序日期：1977-04-19
+  摘要：《四月之死》题注写，莎拉·蒂斯代尔1933年1月28日自杀；四十四年后，1977年4月19日，李敖在“中心诊所”病房，就她的 I Shall Not Care 一诗改作《四月之死》，并附原诗于后。
+  人物：李敖、Sara Teasdale
+  地点：中心诊所、台湾
+  标签：李敖的情诗、四月之死、中心诊所、Sara Teasdale、I Shall Not Care、1977
+  视图：写作线、翻译线、身体线、诗文线
+  作品：李敖的情诗、四月之死、I Shall Not Care
+  交叉引用：-
+  来源：李敖的情诗 / 048.四月之死 / line 19
+  补充来源：李敖的情诗 / 048.四月之死 / line 35；说明：文末署日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/002.李敖的情诗/048.四月之死.txt
+  数据：data/timeline-events-li-ao-love-poems.json#li-ao-love-poems-1977-04-19-adapts-teasdale-in-central-clinic-ward
 - 1977年12月17日 | 萧孟能与朱婉坚订立协议书补充条款
   精度：day；可靠度：confirmed；排序日期：1977-12-17
   摘要：李敖在萧孟能案中反复引用，1977年12月17日萧孟能与朱婉坚订立“协议书补充条款”，成为水晶大厦屋顶房屋争议的重要证据。
@@ -11418,6 +11795,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/089.武林旧事.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1980-context-089-zhang-lie-phone-releases-six-volumes
+- 1980年 | 李敖与胡茵梦在艾迪亚听口琴，当场作《胡茵梦与口琴》
+  精度：year；可靠度：reported-by-author；排序日期：1980-12-31
+  摘要：《胡茵梦与口琴》题注写，1980年李敖与胡茵梦在艾迪亚（Idea）听人吹口琴，胡茵梦回忆七年前她与口琴的一段故事，李敖当场作此诗。原文无更细日期，故按年级入表。
+  人物：李敖、胡茵梦
+  地点：艾迪亚、台湾
+  标签：李敖的情诗、胡茵梦与口琴、胡茵梦、艾迪亚、Idea、口琴、1980
+  视图：感情线、日常线、写作线、诗文线
+  作品：李敖的情诗、胡茵梦与口琴
+  交叉引用：-
+  来源：李敖的情诗 / 049.胡茵梦与口琴 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/002.李敖的情诗/049.胡茵梦与口琴.txt
+  数据：data/timeline-events-li-ao-love-poems.json#li-ao-love-poems-1980-at-idea-with-hu-yinmeng-writes-harmonica-poem
 - 1980年3月21日后、第二次入狱前 | 李敖找新格唱片负责人替侯德健争取收入
   精度：undated-context；可靠度：contextual；排序日期：1980-12-31
   摘要：侯德健来信后，李敖自述自己没有二十万元可借，便找到新格唱片公司的负责人，询问能否设法提高侯德健从《龙的传人》唱片所得的收入，并要求不必向侯德健说明是他拜托；新格负责人答应试试看。
@@ -11485,6 +11875,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/028.监狱学土城？.txt
   数据：data/timeline-events-second-book-evidence.json#book2-evidence-1981-01-05-liu-fengsong-transfer
+- 1981年1月28日，狱中作 | 李敖狱中作《探监》
+  精度：day；可靠度：reported-by-author；排序日期：1981-01-28
+  摘要：《探监》末署“1981年1月28日，狱中作”。本条只收狱中写作节点，不把诗中探监人物进一步坐实为未证现实事件。
+  人物：李敖
+  地点：台湾
+  标签：李敖的情诗、探监、狱中作、1981
+  视图：牢狱线、写作线、感情线、诗文线
+  作品：李敖的情诗、探监
+  交叉引用：-
+  来源：李敖的情诗 / 071.探监 / line 51
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/002.李敖的情诗/071.探监.txt
+  数据：data/timeline-events-li-ao-love-poems.json#li-ao-love-poems-1981-01-28-writes-prison-visit-poem
 - 1981年3月21日 | 法务部下令监所慈惠费没收解库
   精度：day；可靠度：confirmed；排序日期：1981-03-21
   摘要：《监狱学土城？》列出法务部1981年3月21日令，要求监所慈惠费一律没收解缴国库；李敖用此说明监所财务与囚人利益的冲突。
@@ -12327,7 +12730,7 @@
   作品：爱情的秘密、李诗四首、无所逃
   交叉引用：-
   来源：爱情的秘密 / 012.李诗四首 / line 5
-  补充来源：-
+  补充来源：李敖的情诗 / 050.无所逃 / line 3；说明：《李敖的情诗》收录同题诗，题注同样写杨增悌告知李善培在美国被杀后作此诗。；李敖的情诗 / 050.无所逃 / line 37；说明：《李敖的情诗》收录本诗末署1981年。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/012.李诗四首.txt
   数据：data/timeline-events-love-secret.json#love-secret-1981-about-writes-no-escape-after-hearing-li-shanpei-killed
 - 1981年，出狱后又行将入狱之时，在台北改写 | 李敖改写《流血的自由》
@@ -12356,6 +12759,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/054.论褫夺狂——兼论政治犯是终身职.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1981-12-31-054-rlmr3fhmimo2——g3grlmjzzlh7mnjk6np1ks6jpcc
+- 1981年狱中作 | 李敖狱中作《喜欢的与该做的》
+  精度：year；可靠度：reported-by-author；排序日期：1981-12-31
+  摘要：《喜欢的与该做的》末署“1981年狱中作”。诗中以“喜欢的”与“该做的”对照享乐哲学、苦行主义与“平行道德”；本条收狱中写作节点，不把诗中议论另拆为事件。
+  人物：李敖
+  地点：台湾
+  标签：李敖的情诗、喜欢的与该做的、狱中作、平行道德、1981
+  视图：牢狱线、写作线、思想线、诗文线
+  作品：李敖的情诗、喜欢的与该做的
+  交叉引用：-
+  来源：李敖的情诗 / 054.喜欢的与该做的 / line 35
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/002.李敖的情诗/054.喜欢的与该做的.txt
+  数据：data/timeline-events-li-ao-love-poems.json#li-ao-love-poems-1981-prison-writes-likes-and-shoulds
 - 1981年起 | 开始持续出版《李敖千秋评论丛书》
   精度：year；可靠度：confirmed；排序日期：1981-12-31
   摘要：《1995中华民国作家作品目录——李敖》记，《李敖千秋评论丛书》自1981年起由四季出版公司持续出版；《中华民国现代名人录——李敖》更说明这一系列在李敖二度入狱后启动，并长期不断。对完整年表而言，这条补出了李敖1980年代最重要的连续出版工程之一。
@@ -12407,7 +12823,7 @@
   作品：爱情的秘密、情诗十四首、插花
   交叉引用：-
   来源：爱情的秘密 / 015.情诗十四首 / line 467
-  补充来源：-
+  补充来源：李敖的情诗 / 070.插花 / line 51；说明：《李敖的情诗》收录同题诗，末署1982年1月5日狱中作，并附日本花道“主月流”一语。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/015.情诗十四首.txt
   数据：data/timeline-events-love-secret.json#love-secret-1982-01-05-writes-flower-arranging-in-prison
 - 1982年1月5日，狱中作 | 李敖在狱中写《坐牢的三十三不亦快哉》
@@ -12436,6 +12852,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/028.监狱学土城？.txt
   数据：data/timeline-events-second-book-evidence.json#book2-evidence-1982-01-14-zhang-quan-dies
+- 1982年1月17日 | 李敖同日写下五首爱情诗
+  精度：day；可靠度：reported-by-author；排序日期：1982-01-17
+  摘要：《随你化成一个》《裸相有庄严》、“好吧！”、《直到这一刻来临》《爱里》均署1982年1月17日。本条作同日诗作群归档，只记录写作署日，不把诗中亲密意象坐实为现实细节。
+  人物：李敖
+  地点：台湾
+  标签：李敖的情诗、随你化成一个、裸相有庄严、好吧、直到这一刻来临、爱里、1982
+  视图：写作线、感情线、诗文线
+  作品：李敖的情诗、随你化成一个、裸相有庄严、好吧、直到这一刻来临、爱里
+  交叉引用：-
+  来源：李敖的情诗 / 058.随你化成一个 / line 27
+  补充来源：李敖的情诗 / 059.裸相有庄严 / line 27；说明：同署1982年1月17日。；李敖的情诗 / 060.“好吧！ ” / line 19；说明：同署1982年1月17日。；李敖的情诗 / 061.直到这一刻來临 / line 45；说明：同署1982年1月17日。；李敖的情诗 / 062.爱里 / line 27；说明：同署1982年1月17日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/002.李敖的情诗/058.随你化成一个.txt
+  数据：data/timeline-events-li-ao-love-poems.json#li-ao-love-poems-1982-01-17-writes-five-love-poems
+- 1982年1月18日来信前一小时 | 李敖在来信前一小时写《酒藕》
+  精度：day；可靠度：reported-by-author；排序日期：1982-01-18
+  摘要：《酒藕》末署“1982年1月18日来信前一小时”。本条只收这个明确的来信前写作时点；来信者与信件内容原文未说明，暂不推定。
+  人物：李敖
+  地点：台湾
+  标签：李敖的情诗、酒藕、来信前一小时、1982
+  视图：写作线、书信线、感情线、诗文线
+  作品：李敖的情诗、酒藕
+  交叉引用：-
+  来源：李敖的情诗 / 066.酒藕 / line 31
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/002.李敖的情诗/066.酒藕.txt
+  数据：data/timeline-events-li-ao-love-poems.json#li-ao-love-poems-1982-01-18-writes-jiuou-one-hour-before-letter
 - 1982年1月19日 | 林志新送病舍当天死亡
   精度：day；可靠度：confirmed；排序日期：1982-01-19
   摘要：《监狱学土城？》写林志新1982年1月19日送病舍当天死亡，是李敖批判台北看守所医疗与管理黑暗的重要个案。
@@ -12462,6 +12904,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/028.监狱学土城？.txt
   数据：data/timeline-events-second-book-evidence.json#book2-evidence-1982-01-20-chunyuan-exercise-arrests
+- 1982年1月23日 | 李敖写下《然后就去远行》
+  精度：day；可靠度：reported-by-author；排序日期：1982-01-23
+  摘要：《然后就去远行》文末署1982年1月23日。本条只收诗作精确署日，不把诗中远行、饮酒与恋爱意象外推为现实行程。
+  人物：李敖
+  地点：台湾
+  标签：李敖的情诗、然后就去远行、1982
+  视图：写作线、感情线、诗文线
+  作品：李敖的情诗、然后就去远行
+  交叉引用：-
+  来源：李敖的情诗 / 068.然后就去远行 / line 27
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/002.李敖的情诗/068.然后就去远行.txt
+  数据：data/timeline-events-li-ao-love-poems.json#li-ao-love-poems-1982-01-23-writes-then-go-travel
+- 1982年1月25日 | 李敖同日写下三首爱情收束题材诗
+  精度：day；可靠度：reported-by-author；排序日期：1982-01-25
+  摘要：《请把恋爱终止》《情书会失效》《情老》均署1982年1月25日；旧库同日已有《真与幻》写作节点。本条作同日诗作群归档，只记录写作署日，不把诗中分离、情书或“情老”意象坐实为现实关系事件。
+  人物：李敖
+  地点：台湾
+  标签：李敖的情诗、请把恋爱终止、情书会失效、情老、1982
+  视图：写作线、感情线、诗文线
+  作品：李敖的情诗、请把恋爱终止、情书会失效、情老
+  交叉引用：book4-1982-01-25-writes-poem-true-and-illusion-before-release
+  来源：李敖的情诗 / 063.请把恋爱终止 / line 19
+  补充来源：李敖的情诗 / 064.情书会失效 / line 35；说明：同署1982年1月25日。；李敖的情诗 / 067.情老 / line 27；说明：同署1982年1月25日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/002.李敖的情诗/063.请把恋爱终止.txt
+  数据：data/timeline-events-li-ao-love-poems.json#li-ao-love-poems-1982-01-25-writes-three-love-ending-poems
 - 1982年1月25日 | 李敖在出狱前十六天写下《真与幻》
   精度：day；可靠度：confirmed；排序日期：1982-01-25
   摘要：《前程》章回忆，1982年1月25日李敖在出狱前十六天独坐囚室，首次写下《真与幻》一诗，用以表达“真幻一体”的爱情与存在观。
@@ -12472,7 +12940,7 @@
   作品：李敖回忆录、真与幻
   交叉引用：love-secret-1982-01-25-writes-drum-inside-and-above-in-solitary
   来源：李敖回忆录 / 020.前程（1997-·62岁以后） / line 155
-  补充来源：爱情的秘密 / 015.情诗十四首 / line 33；说明：本书收录《真与幻》原诗，补强1982年1月25日署日。
+  补充来源：爱情的秘密 / 015.情诗十四首 / line 33；说明：本书收录《真与幻》原诗，补强1982年1月25日署日。；李敖的情诗 / 057.真与幻 / line 31；说明：《李敖的情诗》收录同题诗，末署1982年1月25日。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/020.前程（1997-·62岁以后）.txt
   数据：data/timeline-events-fourth-book.json#book4-1982-01-25-writes-poem-true-and-illusion-before-release
 - 1982年1月25日 | 李敖狱中独居，听楼上死囚脚镣声后作《鼓里与鼓上》
@@ -12722,6 +13190,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/011.为《文星》招魂.txt
   数据：data/timeline-events-second-book.json#book2-1982-04-16-wenxing-evocation-taipei
+- 1982年4月17日 | 李敖写《三情之书》序，说明《李敖的情诗》等三书主题
+  精度：day；可靠度：reported-by-author；排序日期：1982-04-17
+  摘要：《三情之书》序写明三情之书是《李敖的情诗》《李敖的情书》《李敖的情话》，大多收李敖未发表过的有关爱情文字，并主张“我们要有现代化的爱情”。文末署1982年4月17日。
+  人物：李敖
+  地点：台湾
+  标签：李敖的情诗、三情之书、李敖的情书、李敖的情话、现代化的爱情、1982
+  视图：写作线、出版线、思想线、感情线
+  作品：李敖的情诗、李敖的情书、李敖的情话、三情之书
+  交叉引用：qianqiu-wansui-1982-06-051-publishes-three-emotion-books
+  来源：李敖的情诗 / 001.《三情之书》序 / line 3
+  补充来源：李敖的情诗 / 001.《三情之书》序 / line 95；说明：序末署日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/002.李敖的情诗/001.《三情之书》序.txt
+  数据：data/timeline-events-li-ao-love-poems.json#li-ao-love-poems-1982-04-17-writes-preface-to-three-emotion-books
 - 1982年4月21日 | 李敖写《政治挂帅不够帅》
   精度：day；可靠度：confirmed；排序日期：1982-04-21
   摘要：《政治挂帅不够帅》文末署1982年4月21日。李敖借“政治挂帅”概念批评政治权力侵入自由、尊严、智慧与真理，并回引1964年读者来信作为思想气候例证。
@@ -12787,6 +13268,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/013.月亮属于谁的？.txt
   数据：data/timeline-events-freedom-summoning.json#freedom-summoning-1982-05-14-wins-xiao-mengneng-case
+- 1982年5月20日（《李敖著作年表》作1982年6月） | 李敖出版《三情之书》三种
+  精度：day；可靠度：confirmed；排序日期：1982-05-20
+  摘要：《李敖著作年表》记载，李敖1982年6月又出版《三情之书》：《李敖的情诗》《李敖的情书》《李敖的情话》；《李敖的情诗》所收远景丛刊版权页则明列远景出版事业有限公司于1982年5月20日出版，本条据书内版权页校为日级日期，并保留著作年表作6月的异文。
+  人物：李敖
+  地点：台湾
+  标签：千秋万岁乌鸦求是合集、李敖著作年表、三情之书、李敖的情诗、李敖的情书、李敖的情话、1982
+  视图：写作线、出版线
+  作品：千秋万岁乌鸦求是合集、李敖著作年表、三情之书、李敖的情诗、李敖的情书、李敖的情话
+  交叉引用：-
+  来源：千秋万岁乌鸦求是合集 / 051.李敖著作年表 / line 99
+  补充来源：李敖的情诗 / 121.远景丛刊261 / line 9；说明：远景丛刊版权页明列“一九八二年五月二十日远景出版事业有限公司出版”。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/051.李敖著作年表.txt
+  数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1982-06-051-publishes-three-emotion-books
 - 1982年5月28日 | 李敖写《地下哲学家的札记》中关于台湾“怪胎”的札记
   精度：day；可靠度：confirmed；排序日期：1982-05-28
   摘要：《地下哲学家的札记》收1982年5月28日札记，李敖写台湾在国民党“怪子宫”中生出怪胎，是其狱中/困厄时期思想札记的一则。
@@ -13320,19 +13814,6 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/013.月亮属于谁的？.txt
   数据：data/timeline-events-freedom-summoning.json#freedom-summoning-1982-before-june-edits-wenxing-anthology
-- 1982年6月 | 李敖出版《三情之书》三种
-  精度：month；可靠度：confirmed；排序日期：1982-06-30
-  摘要：《李敖著作年表》记载，李敖1982年6月又出版《三情之书》：《李敖的情诗》《李敖的情书》《李敖的情话》。
-  人物：李敖
-  地点：台湾
-  标签：千秋万岁乌鸦求是合集、李敖著作年表、三情之书、李敖的情诗、李敖的情书、李敖的情话、1982
-  视图：写作线、出版线
-  作品：千秋万岁乌鸦求是合集、李敖著作年表、三情之书、李敖的情诗、李敖的情书、李敖的情话
-  交叉引用：-
-  来源：千秋万岁乌鸦求是合集 / 051.李敖著作年表 / line 99
-  补充来源：-
-  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/051.李敖著作年表.txt
-  数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1982-06-051-publishes-three-emotion-books
 - 约1982年7月20日 | 萧孟能因《文星杂志选集》告李敖
   精度：undated-context；可靠度：contextual；排序日期：1982-07-20
   摘要：李敖致萧太太信中说，萧孟能“去年7月20日”到法院告他，又招待记者，指控李敖无权使用《文星》名义。

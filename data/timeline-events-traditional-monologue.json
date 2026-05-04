@@ -649,7 +649,16 @@
       "chapter": "014.红玫瑰",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/014.红玫瑰.txt",
       "line": 57
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖的情诗",
+        "chapter": "018.死别",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/002.李敖的情诗/018.死别.txt",
+        "line": 157,
+        "note": "《李敖的情诗》收录《死别》时复述1960年6月9日收到Rosa命题来信、6月14日写好寄出《红玫瑰》。"
+      }
+    ]
   },
   {
     "id": "traditional-monologue-1961-04-06-red-rose-published-in-united-daily",
@@ -672,7 +681,16 @@
       "chapter": "014.红玫瑰",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/014.红玫瑰.txt",
       "line": 57
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖的情诗",
+        "chapter": "018.死别",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/002.李敖的情诗/018.死别.txt",
+        "line": 157,
+        "note": "《李敖的情诗》收录《死别》时复述《红玫瑰》退伍后稍改，并于1961年4月6日发表在台北《联合报》副刊。"
+      }
+    ]
   },
   {
     "id": "traditional-monologue-1963-05-22-red-rose-postscript-at-330am",
@@ -696,7 +714,16 @@
       "chapter": "014.红玫瑰",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/014.红玫瑰.txt",
       "line": 61
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖的情诗",
+        "chapter": "018.死别",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/002.李敖的情诗/018.死别.txt",
+        "line": 161,
+        "note": "《李敖的情诗》收录《死别》时复述1963年5月22日晨三时半深夜写《红玫瑰》后记并抄豪斯曼诗。"
+      }
+    ]
   },
   {
     "id": "traditional-monologue-1961-winter-old-emperor-new-emperor-written-in-xindian",
