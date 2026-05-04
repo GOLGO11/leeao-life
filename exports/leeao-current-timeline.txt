@@ -1,7 +1,7 @@
 ﻿李敖交互式年表：当前增量纯文本备份
 生成日期：2026-05-04
 事件总数：2276
-数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json；data/timeline-events-ni-bendan.json；data/timeline-events-dream-awake.json；data/timeline-events-li-ao-xinkan.json；data/timeline-events-qianqiu-wansui-wuya-qiushi.json；data/timeline-events-li-ao-zawenji.json；data/timeline-events-qianqiu-wansui-bianwai.json；data/timeline-events-beijing-fayuansi.json；data/timeline-events-shangshan-ai.json；data/timeline-events-red-11.json；data/timeline-events-virtual-seventeen.json；data/timeline-events-yangwei-america.json；data/timeline-events-73rd-martyr.json；data/timeline-events-love-secret.json；data/timeline-events-li-ao-love-poems.json
+数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json；data/timeline-events-ni-bendan.json；data/timeline-events-dream-awake.json；data/timeline-events-li-ao-xinkan.json；data/timeline-events-qianqiu-wansui-wuya-qiushi.json；data/timeline-events-li-ao-zawenji.json；data/timeline-events-qianqiu-wansui-bianwai.json；data/timeline-events-beijing-fayuansi.json；data/timeline-events-shangshan-ai.json；data/timeline-events-red-11.json；data/timeline-events-virtual-seventeen.json；data/timeline-events-yangwei-america.json；data/timeline-events-73rd-martyr.json；data/timeline-events-love-secret.json；data/timeline-events-li-ao-love-poems.json；data/timeline-events-li-yulu.json
 说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。
 日期精度统计：day=1844；year=97；year-range=13；undated-range=1；undated-context=141；season=27；lunar-day=1；year-after=7；month=51；half-year=2；school-year-context=5；day-range=14；year-about=8；month-after=3；year-context=16；day-after=4；before-date-context=11；after-date-context=8；month-context=3；day-context=5；range-context=14；year-end=1
 
@@ -13286,12 +13286,12 @@
   摘要：《地下哲学家的札记》收1982年5月28日札记，李敖写台湾在国民党“怪子宫”中生出怪胎，是其狱中/困厄时期思想札记的一则。
   人物：李敖
   地点：台湾
-  标签：地下哲学家的札记、札记、1982
+  标签：地下哲学家的札记、札记、1982、李语录
   视图：写作线
-  作品：地下哲学家的札记
+  作品：地下哲学家的札记、李语录
   交叉引用：-
   来源：千秋万岁乌鸦求是合集 / 181.地下哲学家的札记 / line 17
-  补充来源：-
+  补充来源：李语录 / 046.地下哲学家的札记 / line 17；说明：《李语录》046 收同题札记第454则，署1982年5月28日。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/181.地下哲学家的札记.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1982-05-28-181-underground-philosopher-note-island-level
 - 1982年6月1日 | 《千秋评论》第10期《文星·围剿·卖》出版
@@ -13312,12 +13312,12 @@
   摘要：《地下哲学家的札记》在1982年6月8日连收多则札记：李敖戏称自己没机会交到像李敖那样的朋友，写坐牢可“时常同自己在一起”，并批评有人不是学历史而是亵渎历史、不是办杂志而是糟蹋杂志。
   人物：李敖
   地点：台湾
-  标签：地下哲学家的札记、坐牢、札记、1982
+  标签：地下哲学家的札记、坐牢、札记、1982、李语录
   视图：写作线
-  作品：地下哲学家的札记
+  作品：地下哲学家的札记、李语录
   交叉引用：-
   来源：千秋万岁乌鸦求是合集 / 181.地下哲学家的札记 / line 21
-  补充来源：-
+  补充来源：李语录 / 046.地下哲学家的札记 / line 21；说明：《李语录》046 收第455-463则，多则署1982年6月8日。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/181.地下哲学家的札记.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1982-06-08-181-prison-notes-on-self-friend-history-and-magazine
 - 1982年6月9日 | 李敖写澳洲女学生问他想不想做皇帝等札记
@@ -13325,12 +13325,12 @@
   摘要：《地下哲学家的札记》收1982年6月9日札记，李敖记澳洲女学生问他想不想做皇帝，他答“不想做皇帝，想做上帝”；同日又写“下帝”、徐复观、熊十力与政治宣传等短札。
   人物：李敖
   地点：台湾
-  标签：地下哲学家的札记、澳洲女学生、札记、1982
+  标签：地下哲学家的札记、澳洲女学生、札记、1982、李语录
   视图：写作线
-  作品：地下哲学家的札记
+  作品：地下哲学家的札记、李语录
   交叉引用：-
   来源：千秋万岁乌鸦求是合集 / 181.地下哲学家的札记 / line 63
-  补充来源：-
+  补充来源：李语录 / 046.地下哲学家的札记 / line 59；说明：《李语录》046 收第464-467则，署1982年6月9日。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/181.地下哲学家的札记.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1982-06-09-181-notes-on-emperor-god-and-under-emperor
 - 1982年6月10日 | 李敖写巴顿收到士兵谢函的札记
@@ -13338,12 +13338,12 @@
   摘要：《地下哲学家的札记》收1982年6月10日札记，李敖记巴顿将军收到士兵感谢争取福利的信，并借此作短评。
   人物：李敖
   地点：台湾
-  标签：地下哲学家的札记、巴顿、札记、1982
+  标签：地下哲学家的札记、巴顿、札记、1982、李语录
   视图：写作线
-  作品：地下哲学家的札记
+  作品：地下哲学家的札记、李语录
   交叉引用：-
   来源：千秋万岁乌鸦求是合集 / 181.地下哲学家的札记 / line 75
-  补充来源：-
+  补充来源：李语录 / 046.地下哲学家的札记 / line 75；说明：《李语录》046 收第468则，署1982年6月10日。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/181.地下哲学家的札记.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1982-06-10-181-patton-thank-letter-note
 - 1982年6月11日 | 李敖写《混蛋的投票·混蛋的当家》
@@ -13442,12 +13442,12 @@
   摘要：《地下哲学家的札记》收1982年7月2日三则札记，李敖谈小人不知“边缘点”、自己以保持距离为方法，并说不让小人接近生活。
   人物：李敖
   地点：台湾
-  标签：地下哲学家的札记、小人、札记、1982
+  标签：地下哲学家的札记、小人、札记、1982、李语录
   视图：写作线
-  作品：地下哲学家的札记
+  作品：地下哲学家的札记、李语录
   交叉引用：-
   来源：千秋万岁乌鸦求是合集 / 181.地下哲学家的札记 / line 87
-  补充来源：-
+  补充来源：李语录 / 046.地下哲学家的札记 / line 87；说明：《李语录》046 收第471-473则，署1982年7月2日。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/181.地下哲学家的札记.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1982-07-02-181-notes-on-keeping-distance-from-petty-people
 - 1982年7月15日 | 李敖写《论“烧冷灶”》
@@ -13793,12 +13793,12 @@
   摘要：《地下哲学家的札记》收1982年6月中旬两则札记：李敖说平等不是重量级与轻量级不分的一对一对打，又写“其成也糊涂，其败也糊涂。吴基福是也”。
   人物：李敖
   地点：台湾
-  标签：地下哲学家的札记、吴基福、札记、1982
+  标签：地下哲学家的札记、吴基福、札记、1982、李语录
   视图：写作线
-  作品：地下哲学家的札记
+  作品：地下哲学家的札记、李语录
   交叉引用：-
   来源：千秋万岁乌鸦求是合集 / 181.地下哲学家的札记 / line 79
-  补充来源：-
+  补充来源：李语录 / 046.地下哲学家的札记 / line 79；说明：《李语录》046 收第469-470则，署1982年6月中旬。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/181.地下哲学家的札记.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1982-06-mid-181-notes-on-equality-and-wu-jifu
 - 1982年6月21日前（据本文写作日推定） | 李敖应出版社之请主编《文星杂志选集》
@@ -22467,12 +22467,12 @@
   摘要：《夜归题记》署1990年1月7日。李敖写自己当晚自台中夜归后有感，分题而记，涉及夜不出门习惯、报人办学、商人办报等观察。
   人物：李敖
   地点：台湾
-  标签：千秋万岁乌鸦求是合集、夜归题记、台中、夜归、题记、1990
+  标签：千秋万岁乌鸦求是合集、夜归题记、台中、夜归、题记、1990、李语录
   视图：写作线
-  作品：千秋万岁乌鸦求是合集、夜归题记
+  作品：千秋万岁乌鸦求是合集、夜归题记、李语录
   交叉引用：-
   来源：千秋万岁乌鸦求是合集 / 111.夜归题记 / line 53
-  补充来源：-
+  补充来源：李语录 / 044.夜归题记 / line 53；说明：《李语录》044 收《夜归题记》，文末署1990年1月7日。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/111.夜归题记.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1990-01-07-111-writes-night-return-notes
 - 1990年1月9日 | 李敖写《蒋孝武的胡说无耻》
@@ -22727,12 +22727,12 @@
   摘要：《金兰随记》署1990年6月12日。李敖以随记方式处理“金兰”题目，延续本卷杂文中把典故、人物与时论交错编排的写法。
   人物：李敖
   地点：台湾
-  标签：千秋万岁乌鸦求是合集、金兰随记、随记、1990
+  标签：千秋万岁乌鸦求是合集、金兰随记、随记、1990、李语录
   视图：写作线
-  作品：千秋万岁乌鸦求是合集、金兰随记
+  作品：千秋万岁乌鸦求是合集、金兰随记、李语录
   交叉引用：-
   来源：千秋万岁乌鸦求是合集 / 116.金兰随记 / line 47
-  补充来源：-
+  补充来源：李语录 / 042.金兰随记 / line 47；说明：《李语录》042 收《金兰随记》，文末署1990年6月12日。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/116.金兰随记.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1990-06-12-116-writes-golden-orchid-notes
 - 1990年6月12日 | 李敖抗议《作家作品目录》排斥自己的电视片段播出时被剪掉
@@ -22753,12 +22753,12 @@
   摘要：《国民同异》署1990年7月9日。李敖围绕“国民”与政治身份的同异问题发议论，是本卷1990年夏季政论写作的一环。
   人物：李敖
   地点：台湾
-  标签：千秋万岁乌鸦求是合集、国民同异、政治身份、1990
+  标签：千秋万岁乌鸦求是合集、国民同异、政治身份、1990、李语录
   视图：写作线
-  作品：千秋万岁乌鸦求是合集、国民同异
+  作品：千秋万岁乌鸦求是合集、国民同异、李语录
   交叉引用：-
   来源：千秋万岁乌鸦求是合集 / 117.国民同异 / line 31
-  补充来源：-
+  补充来源：李语录 / 043.国民同异 / line 31；说明：《李语录》043 收《国民同异》，文末署1990年7月9日。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/117.国民同异.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1990-07-09-117-writes-national-same-different
 - 1990年7月25日 | 李敖写《懂不懂与变不变》
@@ -22792,12 +22792,12 @@
   摘要：《片羽片语》署1990年8月16日，收入李敖关于贝多芬、法律、谣言、工作难易等短句式札记。
   人物：李敖
   地点：台湾
-  标签：片羽片语、札记、1990
+  标签：片羽片语、札记、1990、李语录
   视图：写作线
-  作品：片羽片语
+  作品：片羽片语、李语录
   交叉引用：-
   来源：千秋万岁乌鸦求是合集 / 161.片羽片语 / line 59
-  补充来源：-
+  补充来源：李语录 / 041.片羽片语 / line 59；说明：《李语录》041 收《片羽片语》，文末署1990年8月16日。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/161.片羽片语.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1990-08-16-161-writes-fragments
 - 1990年8月30日 | 李敖写《中国问题的真解决》
@@ -22922,12 +22922,12 @@
   摘要：《夜阑散记》署1990年10月15日，记录李敖夜间杂感式写作。
   人物：李敖
   地点：台湾
-  标签：夜阑散记、杂感、1990
+  标签：夜阑散记、杂感、1990、李语录
   视图：写作线
-  作品：夜阑散记
+  作品：夜阑散记、李语录
   交叉引用：-
   来源：千秋万岁乌鸦求是合集 / 159.夜阑散记 / line 51
-  补充来源：-
+  补充来源：李语录 / 045.夜阑散记 / line 51；说明：《李语录》045 收《夜阑散记》，文末署1990年10月15日。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/159.夜阑散记.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1990-10-15-159-writes-night-notes
 - 1990年10月29日 | 李敖为全美华人协会最佳成就奖录音答辞

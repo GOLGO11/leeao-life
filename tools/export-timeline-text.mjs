@@ -47,7 +47,8 @@ const dataFiles = [
   "data/timeline-events-yangwei-america.json",
   "data/timeline-events-73rd-martyr.json",
   "data/timeline-events-love-secret.json",
-  "data/timeline-events-li-ao-love-poems.json"
+  "data/timeline-events-li-ao-love-poems.json",
+  "data/timeline-events-li-yulu.json"
 ];
 const outputPath = path.join(root, "exports", "leeao-current-timeline.txt");
 

@@ -214,18 +214,32 @@
 - keep-out：020 及 024-044、046-047、051-053、065、069 等只有年级署日或纯诗正文者继续不机械入表；072-120 仍归档到 1953 中学旧作总节点。所有补入条目只记录写作/署日动作，不把诗中“我/她”、亲密意象或抒情宣言坐实为现实关系事件。
 - 当前《李敖的情诗》累计 37 条；项目总表推进到 2276 条。
 
+### 《李语录》第一轮旧链补源 0 条
+
+- 范围：目录、001-046。001-040 为无日期语录段，语录正文不逐条当作现实事件；041-045 为 1990 年五篇署日随记，046 为 1982 年《地下哲学家的札记》多组署日札记。
+- 去重处理：041-046 的 11 个强日期锚点均已在 `data/timeline-events-qianqiu-wansui-wuya-qiushi.json` 中有同义事件，本轮只补《李语录》additionalSources，并在旧节点 tags/works 中加入《李语录》。
+- 补源旧节点：1982-05-28、1982-06-08、1982-06-09、1982-06-10、1982年6月中旬、1982-07-02《地下哲学家的札记》六组；1990-01-07《夜归题记》、1990-06-12《金兰随记》、1990-07-09《国民同异》、1990-08-16《片羽片语》、1990-10-15《夜阑散记》。
+- 新建 `data/timeline-events-li-yulu.json` 为空数组，用于标记本书作为主线书接入；《李语录》新增事件 0 条，项目总表仍为 2276 条。
+
+### 《李语录》closeout 新增 0 条
+
+- 范围：目录与 001-040 回扫。目录页只列总目录，001-040 虽有“出版家”“3月29日之役”“电视”“坐牢”等词，但均为语录正文内容，不是题注、署日、出版页或编选说明。
+- 结论：本书 closeout 不新增事件；继续保留 `data/timeline-events-li-yulu.json` 为空数组，标记本书已处理；041-046 第一轮已补旧链 11 个出处。
+- keep-out：001-040 全部按无日期语录正文 keep-out，不把格言、政治判断、情爱玩笑或第一人称语句直接拆成李敖现实事件。
+- 当前《李语录》累计 0 条；项目总表仍为 2276 条。
+
 ## 2026-05-04 当前接手快照
 
-- 当前主线：已完成《李敖的情诗》closeout，范围覆盖 001-121。
-- 当前文件：`data/timeline-events-li-ao-love-poems.json`，37 条；另已补 `data/timeline-events-fifth-book.json` 的 1953 中学旧作总节点，以及 `data/timeline-events-fourth-book.json`、`data/timeline-events-love-secret.json`、`data/timeline-events-traditional-monologue.json`、`data/timeline-events-qianqiu-wansui-wuya-qiushi.json` 旧链出处。
+- 当前主线：已完成《李语录》closeout，范围覆盖目录、001-046；001-040 与目录页无新增，041-046 已补旧链出处。
+- 当前文件：`data/timeline-events-li-yulu.json`，0 条；另已补 `data/timeline-events-qianqiu-wansui-wuya-qiushi.json` 的 11 个旧节点《李语录》出处。上一阶段 `data/timeline-events-li-ao-love-poems.json` 为 37 条。
 - 当前总事件数：`2276`。
-- 当前最新日志：`iteration: 227`。
-- 当前数据版本：`2026-05-04-li-ao-love-poems-closeout`。
+- 当前最新日志：`iteration: 229`。
+- 当前数据版本：`2026-05-04-li-yulu-closeout`。
 - 当前导出表头应为：`事件总数：2276`。
-- 全库校验：files=45,total=2276,dups=0,badShape=0,badDates=0,missingRefs=0。
-- 本书特别规则：诗歌正文暂不直接入表，只采散文说明、后记、题注、署注中可坐实的李敖现实写作/翻译/修改/赠答/书信动作；旧《三情之书》出版、《无所逃》《插花》《红玫瑰》《真与幻》与 1953 中学旧作总节点不重复造条，只补出处或交叉引用。
-- 本轮新增 8 条；《李敖的情诗》累计 37 条。
-- 下一轮建议：转入下一本 `003.李敖的情书` 第一轮；仍按诗集/情书类谨慎口径，优先收序跋、题注、书信日期、写信/收信/出版动作，正文情话不直接当现实事件。
+- 全库校验目标：files=46,total=2276,dups=0,badShape=0,badDates=0,missingRefs=0。
+- 本书特别规则：语录正文暂不直接入表，只采序跋、题注、署日札记、出版/编选说明中可坐实的李敖现实写作/整理/发表动作；旧库已有同义节点时只补出处或交叉引用。
+- 本轮新增 0 条；《李语录》累计 0 条；processedBookCount 仍为 39。
+- 下一轮建议：转入 `004.李敖语录` 第一轮；注意与《李语录》分开处理，先扫目录、序跋、版权页、署日札记和旧库同义节点。
 
 - 项目路径：`C:\Users\zzy87\Desktop\project\leeao-life`
 - 当前总事件数：`2276`
@@ -233,7 +247,7 @@
 
 ```json
 {
-  "files": 45,
+  "files": 46,
   "total": 2276,
   "dups": 0,
   "badShape": 0,
@@ -244,8 +258,8 @@
 
 - 纯文本总表表头当前应为：`事件总数：2276`
 - 当前前端版本号：
-  - `app.js` 的 `dataVersion`：`2026-05-04-li-ao-love-poems-closeout`
-  - `index.html` 的 CSS / JS query param：`2026-05-04-li-ao-love-poems-closeout`
+  - `app.js` 的 `dataVersion`：`2026-05-04-li-yulu-closeout`
+  - `index.html` 的 CSS / JS query param：`2026-05-04-li-yulu-closeout`
 ### 用户硬规则
 
 1. 必须一本一本、章节一段一段增量推进，不能一次性吞全集。
