@@ -1,9 +1,9 @@
 ﻿李敖交互式年表：当前增量纯文本备份
 生成日期：2026-05-04
-事件总数：2188
-数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json；data/timeline-events-ni-bendan.json；data/timeline-events-dream-awake.json；data/timeline-events-li-ao-xinkan.json；data/timeline-events-qianqiu-wansui-wuya-qiushi.json；data/timeline-events-li-ao-zawenji.json；data/timeline-events-qianqiu-wansui-bianwai.json；data/timeline-events-beijing-fayuansi.json；data/timeline-events-shangshan-ai.json；data/timeline-events-red-11.json
+事件总数：2189
+数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json；data/timeline-events-ni-bendan.json；data/timeline-events-dream-awake.json；data/timeline-events-li-ao-xinkan.json；data/timeline-events-qianqiu-wansui-wuya-qiushi.json；data/timeline-events-li-ao-zawenji.json；data/timeline-events-qianqiu-wansui-bianwai.json；data/timeline-events-beijing-fayuansi.json；data/timeline-events-shangshan-ai.json；data/timeline-events-red-11.json；data/timeline-events-virtual-seventeen.json
 说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。
-日期精度统计：day=1765；year=93；year-range=13；undated-range=1；undated-context=140；season=26；lunar-day=1；year-after=7；month=49；half-year=2；school-year-context=5；day-range=14；month-after=3；year-context=16；day-after=4；before-date-context=11；year-about=7；after-date-context=8；month-context=3；day-context=5；range-context=14；year-end=1
+日期精度统计：day=1766；year=93；year-range=13；undated-range=1；undated-context=140；season=26；lunar-day=1；year-after=7；month=49；half-year=2；school-year-context=5；day-range=14；month-after=3；year-context=16；day-after=4；before-date-context=11；year-about=7；after-date-context=8；month-context=3；day-context=5；range-context=14；year-end=1
 
 
 1935
@@ -25354,9 +25354,9 @@
   标签：赤裸的十七岁、虚拟的十七岁、大纲、朱仑症、C.J.周
   视图：写作线、情感线
   作品：赤裸的十七岁、虚拟的十七岁、李敖风流自传
-  交叉引用：-
+  交叉引用：virtual-seventeen-2008-04-10-writes-about-writing、book7-2007-completes-virtual-seventeen-and-launches-it-with-liu-changle-hosting
   来源：李敖风流自传 / 673.赤裸的十七岁 / line 3
-  补充来源：-
+  补充来源：虚拟的十七岁 / 060.我写《虚拟的十七岁》 / line 23；虚拟的十七岁 / 060.我写《虚拟的十七岁》 / line 17
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/673.赤裸的十七岁.txt
   数据：data/timeline-events-seventh-book.json#book7-2002-11-27-drafts-outline-for-naked-seventeen-before-virtual-seventeen
 
@@ -27652,9 +27652,9 @@
   标签：虚拟的十七岁、刘长乐、新书发表会、朱仑、2007年
   视图：写作线、媒体线、出版线
   作品：虚拟的十七岁、李敖风流自传
-  交叉引用：book7-2002-11-27-drafts-outline-for-naked-seventeen-before-virtual-seventeen
+  交叉引用：book7-2002-11-27-drafts-outline-for-naked-seventeen-before-virtual-seventeen、virtual-seventeen-2008-04-10-writes-about-writing、ni-bendan-2008-first-chen-yunlin-taiwan-visit-secret-meeting-and-gifts-virtual-seventeen
   来源：李敖风流自传 / 015.《虚拟的十七岁》 / line 11
-  补充来源：-
+  补充来源：虚拟的十七岁 / 《虚拟的十七岁》目录 / line 3；虚拟的十七岁 / 060.我写《虚拟的十七岁》 / line 29；虚拟的十七岁 / 060.我写《虚拟的十七岁》 / line 11
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/015.《虚拟的十七岁》.txt
   数据：data/timeline-events-seventh-book.json#book7-2007-completes-virtual-seventeen-and-launches-it-with-liu-changle-hosting
 - 2007年 | 结束《李敖有话说》节目
@@ -27672,6 +27672,19 @@
   数据：data/timeline-events-eighth-book.json#book8-2007-ends-li-ao-you-hua-shuo-program
 
 2008
+- 2008年4月10日 | 李敖写《我写〈虚拟的十七岁〉》，说明朱仑症、朱仑现象与模特儿来源
+  精度：day；可靠度：confirmed；排序日期：2008-04-10
+  摘要：《我写〈虚拟的十七岁〉》署“2008年4月10日，在中国台北”。李敖在文中从“身体年轻、头脑年深”的文学梦说起，称自己创造了“虚拟的十七岁”“朱仑症”和“朱仑现象”；又说几年前八卦媒体封面过自己和高中女生的故事，这位十七岁高中女生是《虚拟的十七岁》的模特儿，名字是 C·J·周，在台北市朱仑街念高中。此条采作者后记的现实写作说明，不把小说正文情节入表。
+  人物：李敖、C.J.周
+  地点：中国台北、台北市朱仑街
+  标签：虚拟的十七岁、我写《虚拟的十七岁》、朱仑症、朱仑现象、C.J.周、后记
+  视图：写作线、出版线、情感线
+  作品：虚拟的十七岁、我写《虚拟的十七岁》
+  交叉引用：book7-2002-11-27-drafts-outline-for-naked-seventeen-before-virtual-seventeen、book7-2007-completes-virtual-seventeen-and-launches-it-with-liu-changle-hosting、ni-bendan-2008-first-chen-yunlin-taiwan-visit-secret-meeting-and-gifts-virtual-seventeen
+  来源：虚拟的十七岁 / 060.我写《虚拟的十七岁》 / line 29
+  补充来源：虚拟的十七岁 / 060.我写《虚拟的十七岁》 / line 11；虚拟的十七岁 / 060.我写《虚拟的十七岁》 / line 17；虚拟的十七岁 / 060.我写《虚拟的十七岁》 / line 23
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/004.虚拟的十七岁/060.我写《虚拟的十七岁》.txt
+  数据：data/timeline-events-virtual-seventeen.json#virtual-seventeen-2008-04-10-writes-about-writing
 - 2008年5月2日 | 李敖在和信演讲时展示《马偕行医图》并提议义卖救高信疆
   精度：day；可靠度：confirmed；排序日期：2008-05-02
   摘要：《从〈马偕行医图〉到黄达夫》写，李敖应邀到和信医院演讲时，把尘封仓库多年的《马偕行医图》一并带到现场，当场建议黄达夫以六百万元收购，所得一半给高信疆治病，其余再分配作公益。

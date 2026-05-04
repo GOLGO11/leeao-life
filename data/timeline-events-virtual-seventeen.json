@@ -1,0 +1,67 @@
+[
+  {
+    "id": "virtual-seventeen-2008-04-10-writes-about-writing",
+    "date": "2008-04-10",
+    "displayDate": "2008年4月10日",
+    "datePrecision": "day",
+    "title": "李敖写《我写〈虚拟的十七岁〉》，说明朱仑症、朱仑现象与模特儿来源",
+    "summary": "《我写〈虚拟的十七岁〉》署“2008年4月10日，在中国台北”。李敖在文中从“身体年轻、头脑年深”的文学梦说起，称自己创造了“虚拟的十七岁”“朱仑症”和“朱仑现象”；又说几年前八卦媒体封面过自己和高中女生的故事，这位十七岁高中女生是《虚拟的十七岁》的模特儿，名字是 C·J·周，在台北市朱仑街念高中。此条采作者后记的现实写作说明，不把小说正文情节入表。",
+    "view": [
+      "写作线",
+      "出版线",
+      "情感线"
+    ],
+    "tags": [
+      "虚拟的十七岁",
+      "我写《虚拟的十七岁》",
+      "朱仑症",
+      "朱仑现象",
+      "C.J.周",
+      "后记"
+    ],
+    "people": [
+      "李敖",
+      "C.J.周"
+    ],
+    "places": [
+      "中国台北",
+      "台北市朱仑街"
+    ],
+    "works": [
+      "虚拟的十七岁",
+      "我写《虚拟的十七岁》"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "虚拟的十七岁",
+      "chapter": "060.我写《虚拟的十七岁》",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/004.虚拟的十七岁/060.我写《虚拟的十七岁》.txt",
+      "line": 29
+    },
+    "additionalSources": [
+      {
+        "book": "虚拟的十七岁",
+        "chapter": "060.我写《虚拟的十七岁》",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/004.虚拟的十七岁/060.我写《虚拟的十七岁》.txt",
+        "line": 11
+      },
+      {
+        "book": "虚拟的十七岁",
+        "chapter": "060.我写《虚拟的十七岁》",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/004.虚拟的十七岁/060.我写《虚拟的十七岁》.txt",
+        "line": 17
+      },
+      {
+        "book": "虚拟的十七岁",
+        "chapter": "060.我写《虚拟的十七岁》",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/004.虚拟的十七岁/060.我写《虚拟的十七岁》.txt",
+        "line": 23
+      }
+    ],
+    "crossReferences": [
+      "book7-2002-11-27-drafts-outline-for-naked-seventeen-before-virtual-seventeen",
+      "book7-2007-completes-virtual-seventeen-and-launches-it-with-liu-changle-hosting",
+      "ni-bendan-2008-first-chen-yunlin-taiwan-visit-secret-meeting-and-gifts-virtual-seventeen"
+    ]
+  }
+]

@@ -368,7 +368,25 @@
       "chapter": "673.赤裸的十七岁",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/673.赤裸的十七岁.txt",
       "line": 3
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "虚拟的十七岁",
+        "chapter": "060.我写《虚拟的十七岁》",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/004.虚拟的十七岁/060.我写《虚拟的十七岁》.txt",
+        "line": 23
+      },
+      {
+        "book": "虚拟的十七岁",
+        "chapter": "060.我写《虚拟的十七岁》",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/004.虚拟的十七岁/060.我写《虚拟的十七岁》.txt",
+        "line": 17
+      }
+    ],
+    "crossReferences": [
+      "virtual-seventeen-2008-04-10-writes-about-writing",
+      "book7-2007-completes-virtual-seventeen-and-launches-it-with-liu-changle-hosting"
+    ]
   },
   {
     "id": "book7-2006-03-29-receives-zhu-chongshi-calligraphy-praise",
@@ -3291,13 +3309,35 @@
     ],
     "certainty": "contextual",
     "crossReferences": [
-      "book7-2002-11-27-drafts-outline-for-naked-seventeen-before-virtual-seventeen"
+      "book7-2002-11-27-drafts-outline-for-naked-seventeen-before-virtual-seventeen",
+      "virtual-seventeen-2008-04-10-writes-about-writing",
+      "ni-bendan-2008-first-chen-yunlin-taiwan-visit-secret-meeting-and-gifts-virtual-seventeen"
     ],
     "source": {
       "book": "李敖风流自传",
       "chapter": "015.《虚拟的十七岁》",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/015.《虚拟的十七岁》.txt",
       "line": 11
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "虚拟的十七岁",
+        "chapter": "《虚拟的十七岁》目录",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/004.虚拟的十七岁/《虚拟的十七岁》目录.txt",
+        "line": 3
+      },
+      {
+        "book": "虚拟的十七岁",
+        "chapter": "060.我写《虚拟的十七岁》",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/004.虚拟的十七岁/060.我写《虚拟的十七岁》.txt",
+        "line": 29
+      },
+      {
+        "book": "虚拟的十七岁",
+        "chapter": "060.我写《虚拟的十七岁》",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/004.虚拟的十七岁/060.我写《虚拟的十七岁》.txt",
+        "line": 11
+      }
+    ]
   }
 ]

@@ -109,35 +109,50 @@
 - 001 剧中人与 002-005 四幕正文均为剧本叙事，人物对白、枪决、囚房日常、剧中时间均不采为现实年表；目录和页脚仍不入表。
 - 《红色11》已完成阶段性 closeout。下一轮建议转入 `004.小说剧本类/004.虚拟的十七岁`；仍按小说剧本类规则，先扫序跋/后记/署日/出版说明，只收李敖现实创作、发表、查禁、说明等当事人事件。
 
+### 《虚拟的十七岁》第一轮新增 1 条
+
+- 2008-04-10：李敖写《我写〈虚拟的十七岁〉》，说明“虚拟的十七岁”“朱仑症”“朱仑现象”，并明确 C·J·周是本书模特儿、曾在台北市朱仑街念高中。
+- 重复处理：旧库已有 2002-11-27《赤裸的十七岁》前身大纲、2007 年完成《虚拟的十七岁》并由刘长乐主持新书发表会、2008 陈云林来台密会赠书链；本轮只补当前本书来源和 crossReferences。
+- keep-out：001-059 正文虽含大量 2007 住院、搬家、模特儿、朱仑、磺溪、美国学校等日期与第一人称叙述，但均在小说/虚拟情节中，第一轮暂不采为现实事件。
+- 下一轮建议：第二轮书内 closeout，集中复核 001-059 章首章尾、署日、可能作者自注和 2007 住院/搬家/书房日期是否有后记外非剧情证据；若仍无新增，即阶段性收束。
+
+### 《虚拟的十七岁》第二轮书内 closeout 新增 0 条
+
+- 本轮复核 001-059 章首章尾、日期锚点、住院/搬家/书房/模特儿/朱仑/磺溪/美国学校等候选，无新增事件；《虚拟的十七岁》维持 1 条，项目总表维持 2189 条。
+- 001-059 多处日期仍处于小说/梦境/虚拟叙事层；046 line 5 明说“白描和白日梦”，支持保留正文 keep-out 口径。
+- 059 line 5/19 的北京两个月、通知搬家公司、结束书房、天母/美国学校等内容处于小说尾声内，缺少本书后记外的非剧情锚点，不入现实年表。
+- 060 后记 line 29/11/17/23 已完成入库或补源；旧 2002 前身大纲、旧 2007 完成发表链、2008 陈云林赠书链已互挂。
+- 《虚拟的十七岁》已完成阶段性 closeout。下一轮建议转入 `004.小说剧本类/005.阳痿美国`。
+
 ## 2026-05-04 当前接手快照
 
-- 当前主线：已完成《红色11》第二轮书内 closeout。
-- 当前文件：`data/timeline-events-red-11.json`，1 条；另已补旧后记节点 `data/timeline-events-seventh-book.json`。
-- 当前总事件数：`2188`。
-- 当前最新日志：`iteration: 213`。
-- 当前数据版本：`2026-05-04-red-11-closeout`。
-- 当前导出表头应为：`事件总数：2188`。
-- 全库校验：files=40,total=2188,dups=0,badShape=0,badDates=0,missingRefs=0。
-- 本书特别规则已执行：001-005 剧本正文为虚构/戏剧叙事，不把人物行动、对白、枪决或剧中日期入表；006 后记中的创作/署日/资料说明可入表。
-- 第一轮新增 1 条；第二轮 closeout 新增 0 条；旧 2003-03-28 后记事件只补 additionalSources 与 crossReferences。
-- 下一轮建议：转入《虚拟的十七岁》；若继续《红色11》，只做技术修正、交叉引用小修或用户要求的回收/删改。
+- 当前主线：已完成《虚拟的十七岁》第二轮书内 closeout。
+- 当前文件：`data/timeline-events-virtual-seventeen.json`，1 条；另已补 `data/timeline-events-seventh-book.json` 旧前身大纲/完成发表链。
+- 当前总事件数：`2189`。
+- 当前最新日志：`iteration: 215`。
+- 当前数据版本：`2026-05-04-virtual-seventeen-closeout`。
+- 当前导出表头应为：`事件总数：2189`。
+- 全库校验：files=41,total=2189,dups=0,badShape=0,badDates=0,missingRefs=0。
+- 本书特别规则已执行：001-059 小说正文按虚构/虚拟叙事排除；060 后记中的写作说明、署日和模特儿来源已入表。
+- 本轮新增 0 条；旧 2002 前身大纲、2007 完成/发表会和 2008 陈云林赠书链已补 additionalSources 与 crossReferences。
+- 下一轮建议：转入 `004.小说剧本类/005.阳痿美国`。
 
 ## 一、当前快照
 
 - 项目路径：`C:\Users\zzy87\Desktop\project\leeao-life`
-- 当前总事件数：**2188**
-- 当前最新轮次：`iteration: 213`
-- 当前数据版本：`2026-05-04-red-11-closeout`
+- 当前总事件数：**2189**
+- 当前最新轮次：`iteration: 215`
+- 当前数据版本：`2026-05-04-virtual-seventeen-closeout`
 - 当前纯文本总表：`exports/leeao-current-timeline.txt`
 - 当前前端版本：
-  - `app.js` 的 `dataVersion`：`2026-05-04-red-11-closeout`
-  - `index.html` 的 CSS / JS query param：`2026-05-04-red-11-closeout`
+  - `app.js` 的 `dataVersion`：`2026-05-04-virtual-seventeen-closeout`
+  - `index.html` 的 CSS / JS query param：`2026-05-04-virtual-seventeen-closeout`
 当前全库校验应维持：
 
 ```json
 {
-  "files": 40,
-  "total": 2188,
+  "files": 41,
+  "total": 2189,
   "dups": 0,
   "badShape": 0,
   "badDates": 0,
@@ -153,14 +168,14 @@
 
 ### 当前工作树状态
 
-当前工作树可能是 **dirty** 的，接手时不要回退现有改动。此时最新主线已完成《红色11》第二轮书内 closeout：
+当前工作树可能是 **dirty** 的，接手时不要回退现有改动。此时最新主线已完成《虚拟的十七岁》第二轮书内 closeout：
 
-- 新增：`data/timeline-events-red-11.json`（1 条）。
-- 更新：`data/timeline-events-seventh-book.json` 的《红色11》旧后记节点补源与互链。
+- 新增：`data/timeline-events-virtual-seventeen.json`（1 条）。
+- 更新：`data/timeline-events-seventh-book.json` 的《赤裸的十七岁》前身大纲与《虚拟的十七岁》完成/发表会旧节点补源与互链。
 - 已同步：`app.js`、`tools/export-timeline-text.mjs`、`index.html`、`README.md`、`data/ingestion-log.json`、`DEVELOPMENT_HANDOFF.md`、`DEVELOPMENT_HANDOFF_SUMMARY.md`、`exports/leeao-current-timeline.txt`。
 - 既有《千秋万岁编外集》维持 3 条 closeout 状态；这些条目均为第三方叙述/转述，不要改成李敖自述。
 - 《北京法源寺》第二轮已加入跨书出版、书信勘误、广告购赠、节目讲解、英译/诺奖外围、法源寺到访和舞台改编链；001-017 小说正文情节仍不入表。
-- 《红色11》001-005 剧本正文情节不入表；第二轮已确认后记背景段/参考名单不新增。下一步默认转入《虚拟的十七岁》。
+- 《虚拟的十七岁》001-059 小说正文按虚构/虚拟情节排除；下一步默认转入 `004.小说剧本类/005.阳痿美国`。
 
 ---
 
@@ -453,7 +468,7 @@
 
 先确认这些值没有漂：
 
-- 总事件数：`2188`
+- 总事件数：`2189`
 - `《求是新语》`：`70`
 - `《我是天安门》`：`40`
 - `《你是景福门》`：`57`
@@ -467,8 +482,9 @@
 - `《北京法源寺》`：`29`
 - `《上山·上山·爱》`：`4`
 - `《红色11》`：`1`
-- `dataVersion = 2026-05-04-red-11-closeout`
-- `exports/leeao-current-timeline.txt` 表头：`事件总数：2188`
+- `《虚拟的十七岁》`：`1`
+- `dataVersion = 2026-05-04-virtual-seventeen-closeout`
+- `exports/leeao-current-timeline.txt` 表头：`事件总数：2189`
 
 ### 快速命令
 

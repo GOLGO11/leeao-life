@@ -42,7 +42,8 @@ const dataFiles = [
   "data/timeline-events-qianqiu-wansui-bianwai.json",
   "data/timeline-events-beijing-fayuansi.json",
   "data/timeline-events-shangshan-ai.json",
-  "data/timeline-events-red-11.json"
+  "data/timeline-events-red-11.json",
+  "data/timeline-events-virtual-seventeen.json"
 ];
 const outputPath = path.join(root, "exports", "leeao-current-timeline.txt");
 
