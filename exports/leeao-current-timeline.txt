@@ -1,9 +1,9 @@
 ﻿李敖交互式年表：当前增量纯文本备份
 生成日期：2026-05-04
-事件总数：2187
-数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json；data/timeline-events-ni-bendan.json；data/timeline-events-dream-awake.json；data/timeline-events-li-ao-xinkan.json；data/timeline-events-qianqiu-wansui-wuya-qiushi.json；data/timeline-events-li-ao-zawenji.json；data/timeline-events-qianqiu-wansui-bianwai.json；data/timeline-events-beijing-fayuansi.json；data/timeline-events-shangshan-ai.json
+事件总数：2188
+数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json；data/timeline-events-ni-bendan.json；data/timeline-events-dream-awake.json；data/timeline-events-li-ao-xinkan.json；data/timeline-events-qianqiu-wansui-wuya-qiushi.json；data/timeline-events-li-ao-zawenji.json；data/timeline-events-qianqiu-wansui-bianwai.json；data/timeline-events-beijing-fayuansi.json；data/timeline-events-shangshan-ai.json；data/timeline-events-red-11.json
 说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。
-日期精度统计：day=1764；year=93；year-range=13；undated-range=1；undated-context=140；season=26；lunar-day=1；year-after=7；month=49；half-year=2；school-year-context=5；day-range=14；month-after=3；year-context=16；day-after=4；before-date-context=11；year-about=7；after-date-context=8；month-context=3；day-context=5；range-context=14；year-end=1
+日期精度统计：day=1765；year=93；year-range=13；undated-range=1；undated-context=140；season=26；lunar-day=1；year-after=7；month=49；half-year=2；school-year-context=5；day-range=14；month-after=3；year-context=16；day-after=4；before-date-context=11；year-about=7；after-date-context=8；month-context=3；day-context=5；range-context=14；year-end=1
 
 
 1935
@@ -25369,11 +25369,24 @@
   标签：红色11、后记、2003年3月28日、白色恐怖、剧本
   视图：写作线、牢狱线、出版线
   作品：红色11、李敖风流自传
-  交叉引用：book7-1972-07-moves-from-room-2-to-room-11-at-jingmei-detention、book6-2007-03-29-inscribes-red-11-for-lin-yufang
+  交叉引用：book7-1972-07-moves-from-room-2-to-room-11-at-jingmei-detention、book6-2007-03-29-inscribes-red-11-for-lin-yufang、red-11-2003-03-28-finishes-script-in-eighty-days-standing
   来源：李敖风流自传 / 412.《红色11》后记 / line 17
-  补充来源：-
+  补充来源：红色11 / 006.后记 / line 17；红色11 / 006.后记 / line 13；红色11 / 006.后记 / line 19
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/412.《红色11》后记.txt
   数据：data/timeline-events-seventh-book.json#book7-2003-03-28-finishes-postscript-to-red-11
+- 2003年3月28日后记回述（写作期八十天） | 李敖称花八十天站着写完剧本《红色11》
+  精度：day；可靠度：reported-by-author；排序日期：2003-03-28
+  摘要：《红色11》后记中，李敖说有良知、亲历白色恐怖或身受其害的人已无力掌握这些“人间地狱”，因此自己站出来，花八十天站着写完这个剧本。附启又说明，剧本除三四十年来的苦心焦思、耳闻身历外，也在若干个案上参考或改写李世杰、劫余、李政一、林树枝、谢聪敏、魏廷朝等人的文字，使其变成对话体，并说明红色十一房在秀朗桥下的地理背景。此条只采作者后记的创作过程，不采剧本正文人物情节。
+  人物：李敖、李世杰、劫余、李政一、林树枝、谢聪敏、魏廷朝
+  地点：中国台湾、景美军法看守所、秀朗桥下
+  标签：红色11、剧本、八十天、站着写、白色恐怖、写作材料
+  视图：创作线、牢狱线、白色恐怖线
+  作品：红色11
+  交叉引用：book7-2003-03-28-finishes-postscript-to-red-11、book7-1972-07-moves-from-room-2-to-room-11-at-jingmei-detention
+  来源：红色11 / 006.后记 / line 13
+  补充来源：红色11 / 006.后记 / line 19
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/003.红色11/006.后记.txt
+  数据：data/timeline-events-red-11.json#red-11-2003-03-28-finishes-script-in-eighty-days-standing
 - 2003年8月17日 | 李敖买下一条斗鱼，并由其好斗性写出自况式感想
   精度：day；可靠度：confirmed；排序日期：2003-08-17
   摘要：《斗鱼》写，2003年8月17日，李敖买下一条斗鱼，喜其飘逸、倨傲而甘于孤独。两天后他把斗鱼放进大鱼缸，斗鱼疯狂追逐保护箱中的小红鱼，至21日竟把自己累死。李敖借这条斗鱼写下对“专盯小号目标、终至斗死自己”式人格的观察，也留下难得的日常生活痕迹。

@@ -93,35 +93,51 @@
 - 004 line 1611 与 005 line 37 的 2001-04-13 署日已作为创作收束与后记署写来源使用，不另起重复署日事件。
 - 《上山·上山·爱》已完成阶段性 closeout。下一轮建议转入下一本书；若继续本书，只做技术修正、交叉引用小修或用户要求的回收/删改。
 
+### 《红色11》第一轮新增 1 条
+
+- 2003-03-28：李敖在后记回述，自己花八十天站着写完剧本《红色11》；附启说明写作除三四十年来苦心焦思、耳闻身历外，也参考或改写李世杰、劫余、李政一、林树枝、谢聪敏、魏廷朝等人的文字为对话体。
+- 重复处理：旧库已有 `book7-2003-03-28-finishes-postscript-to-red-11` 写定后记事件，本轮只补当前本书 006 line 17/13/19 为 additionalSources，并挂回新建创作过程条。
+- keep-out：001 剧中人、002-005 四幕正文均属剧本叙事，囚房、人物、枪决、对白和 20世纪70年代/六月下旬/三月下旬等日期不采为李敖现实事件；目录与页脚均为电子整理/资源站信息。
+- 下一轮建议：第二轮书内 closeout，复核 006 后记 line 3-11 对美国/蒋介石/白色恐怖的政治判断是否只作背景，line 19 所列参考/改写名单是否需要与旧政治犯链补交叉引用；再复核四幕正文是否仅为剧本情节。若无新增，即本书阶段性 closeout。
+
+### 《红色11》第二轮书内 closeout 新增 0 条
+
+- 本轮回扫 006 后记 line 3-11、line 19、目录和 001-005 剧本正文，无新增事件；《红色11》维持 1 条，项目总表维持 2188 条。
+- 006 line 3-11 是李敖对美国帝国主义、蒋介石政权、白色恐怖统计数字与文学制造方法的政治/文学背景论述，已并入 line 13 写作动机，不另起事件。
+- 006 line 19 的长名单是参考或改写他人文字为对话体的创作材料声明；名单虽与旧库政治犯/朋友链有关，但在本书不形成新的李敖当事动作，不机械补一串 crossReferences。
+- 保留的直接互链为 2003-03-28《红色11》后记署日旧事件与 1972年7月迁入景美十一号房旧事件，分别对应本书署写/收束与空间背景。
+- 001 剧中人与 002-005 四幕正文均为剧本叙事，人物对白、枪决、囚房日常、剧中时间均不采为现实年表；目录和页脚仍不入表。
+- 《红色11》已完成阶段性 closeout。下一轮建议转入 `004.小说剧本类/004.虚拟的十七岁`；仍按小说剧本类规则，先扫序跋/后记/署日/出版说明，只收李敖现实创作、发表、查禁、说明等当事人事件。
+
 ## 2026-05-04 当前接手快照
 
-- 当前主线：已完成《上山·上山·爱》第二轮书内 closeout。
-- 当前文件：`data/timeline-events-shangshan-ai.json`，4 条；另已补旧出版节点 `data/timeline-events-seventh-book.json`。
-- 当前总事件数：`2187`。
-- 当前最新日志：`iteration: 211`。
-- 当前数据版本：`2026-05-04-shangshan-ai-closeout`。
-- 当前导出表头应为：`事件总数：2187`。
-- 全库校验：files=39,total=2187,dups=0,badShape=0,badDates=0,missingRefs=0。
-- 本书特别规则已执行：001-004 小说正文为虚构叙事，不把情节、小说内人物行动或小说内日期入表；005 作者后记中的创作/查禁/署写/完稿说明可入表。
-- 第一轮新增 4 条；第二轮 closeout 新增 0 条；旧 2001-04-25 出版事件只补 additionalSources 与 crossReferences。
-- 下一轮建议：转入下一本书；若继续《上山·上山·爱》，只做技术修正、交叉引用小修或用户要求的回收/删改。
+- 当前主线：已完成《红色11》第二轮书内 closeout。
+- 当前文件：`data/timeline-events-red-11.json`，1 条；另已补旧后记节点 `data/timeline-events-seventh-book.json`。
+- 当前总事件数：`2188`。
+- 当前最新日志：`iteration: 213`。
+- 当前数据版本：`2026-05-04-red-11-closeout`。
+- 当前导出表头应为：`事件总数：2188`。
+- 全库校验：files=40,total=2188,dups=0,badShape=0,badDates=0,missingRefs=0。
+- 本书特别规则已执行：001-005 剧本正文为虚构/戏剧叙事，不把人物行动、对白、枪决或剧中日期入表；006 后记中的创作/署日/资料说明可入表。
+- 第一轮新增 1 条；第二轮 closeout 新增 0 条；旧 2003-03-28 后记事件只补 additionalSources 与 crossReferences。
+- 下一轮建议：转入《虚拟的十七岁》；若继续《红色11》，只做技术修正、交叉引用小修或用户要求的回收/删改。
 
 ## 一、当前快照
 
 - 项目路径：`C:\Users\zzy87\Desktop\project\leeao-life`
-- 当前总事件数：**2187**
-- 当前最新轮次：`iteration: 211`
-- 当前数据版本：`2026-05-04-shangshan-ai-closeout`
+- 当前总事件数：**2188**
+- 当前最新轮次：`iteration: 213`
+- 当前数据版本：`2026-05-04-red-11-closeout`
 - 当前纯文本总表：`exports/leeao-current-timeline.txt`
 - 当前前端版本：
-  - `app.js` 的 `dataVersion`：`2026-05-04-shangshan-ai-closeout`
-  - `index.html` 的 CSS / JS query param：`2026-05-04-shangshan-ai-closeout`
+  - `app.js` 的 `dataVersion`：`2026-05-04-red-11-closeout`
+  - `index.html` 的 CSS / JS query param：`2026-05-04-red-11-closeout`
 当前全库校验应维持：
 
 ```json
 {
-  "files": 39,
-  "total": 2187,
+  "files": 40,
+  "total": 2188,
   "dups": 0,
   "badShape": 0,
   "badDates": 0,
@@ -137,14 +153,14 @@
 
 ### 当前工作树状态
 
-当前工作树可能是 **dirty** 的，接手时不要回退现有改动。此时最新主线已完成《上山·上山·爱》第二轮书内 closeout：
+当前工作树可能是 **dirty** 的，接手时不要回退现有改动。此时最新主线已完成《红色11》第二轮书内 closeout：
 
-- 新增：`data/timeline-events-shangshan-ai.json`（4 条）。
-- 更新：`data/timeline-events-seventh-book.json` 的《上山·上山·爱》旧出版节点补源与互链。
+- 新增：`data/timeline-events-red-11.json`（1 条）。
+- 更新：`data/timeline-events-seventh-book.json` 的《红色11》旧后记节点补源与互链。
 - 已同步：`app.js`、`tools/export-timeline-text.mjs`、`index.html`、`README.md`、`data/ingestion-log.json`、`DEVELOPMENT_HANDOFF.md`、`DEVELOPMENT_HANDOFF_SUMMARY.md`、`exports/leeao-current-timeline.txt`。
 - 既有《千秋万岁编外集》维持 3 条 closeout 状态；这些条目均为第三方叙述/转述，不要改成李敖自述。
 - 《北京法源寺》第二轮已加入跨书出版、书信勘误、广告购赠、节目讲解、英译/诺奖外围、法源寺到访和舞台改编链；001-017 小说正文情节仍不入表。
-- 《上山·上山·爱》001-004 小说正文情节不入表；第二轮已确认 005 背景段/文学定位段不新增。下一步默认转入下一本书。
+- 《红色11》001-005 剧本正文情节不入表；第二轮已确认后记背景段/参考名单不新增。下一步默认转入《虚拟的十七岁》。
 
 ---
 
@@ -437,7 +453,7 @@
 
 先确认这些值没有漂：
 
-- 总事件数：`2187`
+- 总事件数：`2188`
 - `《求是新语》`：`70`
 - `《我是天安门》`：`40`
 - `《你是景福门》`：`57`
@@ -450,8 +466,9 @@
 - `《千秋万岁编外集》`：`3`
 - `《北京法源寺》`：`29`
 - `《上山·上山·爱》`：`4`
-- `dataVersion = 2026-05-04-shangshan-ai-closeout`
-- `exports/leeao-current-timeline.txt` 表头：`事件总数：2187`
+- `《红色11》`：`1`
+- `dataVersion = 2026-05-04-red-11-closeout`
+- `exports/leeao-current-timeline.txt` 表头：`事件总数：2188`
 
 ### 快速命令
 

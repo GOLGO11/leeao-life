@@ -2613,14 +2613,35 @@
     "certainty": "confirmed",
     "crossReferences": [
       "book7-1972-07-moves-from-room-2-to-room-11-at-jingmei-detention",
-      "book6-2007-03-29-inscribes-red-11-for-lin-yufang"
+      "book6-2007-03-29-inscribes-red-11-for-lin-yufang",
+      "red-11-2003-03-28-finishes-script-in-eighty-days-standing"
     ],
     "source": {
       "book": "李敖风流自传",
       "chapter": "412.《红色11》后记",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/412.《红色11》后记.txt",
       "line": 17
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "红色11",
+        "chapter": "006.后记",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/003.红色11/006.后记.txt",
+        "line": 17
+      },
+      {
+        "book": "红色11",
+        "chapter": "006.后记",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/003.红色11/006.后记.txt",
+        "line": 13
+      },
+      {
+        "book": "红色11",
+        "chapter": "006.后记",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/003.红色11/006.后记.txt",
+        "line": 19
+      }
+    ]
   },
   {
     "id": "book7-1978-08-20-receives-resignation-certificate-from-guoguan-center",
