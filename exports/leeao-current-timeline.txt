@@ -1,9 +1,9 @@
 ﻿李敖交互式年表：当前增量纯文本备份
 生成日期：2026-05-04
-事件总数：2183
-数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json；data/timeline-events-ni-bendan.json；data/timeline-events-dream-awake.json；data/timeline-events-li-ao-xinkan.json；data/timeline-events-qianqiu-wansui-wuya-qiushi.json；data/timeline-events-li-ao-zawenji.json；data/timeline-events-qianqiu-wansui-bianwai.json；data/timeline-events-beijing-fayuansi.json
+事件总数：2187
+数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json；data/timeline-events-ni-bendan.json；data/timeline-events-dream-awake.json；data/timeline-events-li-ao-xinkan.json；data/timeline-events-qianqiu-wansui-wuya-qiushi.json；data/timeline-events-li-ao-zawenji.json；data/timeline-events-qianqiu-wansui-bianwai.json；data/timeline-events-beijing-fayuansi.json；data/timeline-events-shangshan-ai.json
 说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。
-日期精度统计：day=1762；year=93；year-range=13；undated-range=1；undated-context=140；season=26；lunar-day=1；year-after=7；month=49；half-year=2；school-year-context=5；day-range=14；month-after=3；year-context=16；day-after=4；before-date-context=10；year-about=6；after-date-context=8；month-context=3；day-context=5；range-context=14；year-end=1
+日期精度统计：day=1764；year=93；year-range=13；undated-range=1；undated-context=140；season=26；lunar-day=1；year-after=7；month=49；half-year=2；school-year-context=5；day-range=14；month-after=3；year-context=16；day-after=4；before-date-context=11；year-about=7；after-date-context=8；month-context=3；day-context=5；range-context=14；year-end=1
 
 
 1935
@@ -9177,6 +9177,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/640.罗所长的“神仙-老虎-狗”.txt
   数据：data/timeline-events-seventh-book.json#book7-1971-1972-hears-luo-yongli-describe-himself-as-god-tiger-dog-in-detention
+- 1971年3月19日入狱前（2001年4月13日回述） | 李敖称《上山·上山·爱》在坐牢前已构思并写过片段
+  精度：before-date-context；可靠度：reported-by-author；排序日期：1971-03-18
+  摘要：李敖在《我写〈上山·上山·爱〉》中回述，《北京法源寺》是在黑牢等待覆判时构思，《上山·上山·爱》则构思在坐牢之前，并已写过一些片段。他又说自己下狱后家中两次被搜查，许多箱“叛乱文件”被搬走，过滤后分次归还的六箱中就有这些小说片段，理由是内容被看作“黄色”而非“红色”。此条只采作者后记中的创作前史，不采小说正文情节。
+  人物：李敖
+  地点：台湾
+  标签：上山·上山·爱、小说构思、坐牢前、搜查、片段归还
+  视图：创作线、司法线
+  作品：上山·上山·爱、北京法源寺
+  交叉引用：1971-03-19-arrested、book4-1971-03-19-taken-away-ending-house-arrest、beijing-fayuansi-1975-about-prison-conception-title-decided
+  来源：上山·上山·爱 / 005.我写《上山·上山·爱》 / line 19
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/002.上山·上山·爱/005.我写《上山·上山·爱》.txt
+  数据：data/timeline-events-shangshan-ai.json#shangshan-ai-before-1971-prison-conception-and-fragments
 - 1971年 | 《借古不讽今》在香港出版
   精度：year；可靠度：confirmed；排序日期：1971-12-31
   摘要：《李敖著作年表》记载，李敖1971年被捕下狱前后，《借古不讽今》在香港出版，台湾不准进口。旧库已有王敬羲在香港刊出此书且未付版税的回忆线，本条补入本年表的出版归档。
@@ -15235,6 +15248,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/020.前程（1997-·62岁以后）.txt
   数据：data/timeline-events-fourth-book-deepening.json#book4-deep-1984-about-meets-wang-xiaotun-renai-road
+- 约1984年（2001年4月13日文中称“17年前”） | 李敖称《上山·上山·爱》连载时被国民党当局查禁，小说因而难以继续
+  精度：year-about；可靠度：reported-by-author；排序日期：1984-12-31
+  摘要：李敖在2001年4月13日的后记中说，17年前《上山·上山·爱》连载时，国民党当局立刻下查禁令，罪名包括“蓄意为匪宣传、诬蔑政府、侮辱壮烈殉国先烈、扭曲事实、挑拨政府与人民情感、严重淆乱视听”等，结果小说碍难写下去。此条用后记署日反推为约1984年，并保留约略精度。
+  人物：李敖
+  地点：台湾
+  标签：上山·上山·爱、连载、查禁令、禁书、国民党
+  视图：出版线、禁书线、创作线
+  作品：上山·上山·爱
+  交叉引用：shangshan-ai-before-1971-prison-conception-and-fragments、book7-2001-04-25-publishes-shangshan-shangshan-ai
+  来源：上山·上山·爱 / 005.我写《上山·上山·爱》 / line 13
+  补充来源：上山·上山·爱 / 005.我写《上山·上山·爱》 / line 19
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/002.上山·上山·爱/005.我写《上山·上山·爱》.txt
+  数据：data/timeline-events-shangshan-ai.json#shangshan-ai-1984-about-serial-banned-before-completion
 
 1985
 - 1985年1月5日（美国《美丽岛》刊出；李敖发言为大风转述的“近又”语境） | 大风在《丑陋的中国人》中转述李敖近来批判共产党与国民党的豪语
@@ -25162,6 +25188,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/105.台独是假的.txt
   数据：data/timeline-events-sixth-book.json#book6-2001-03-29-writes-fake-goods-essay-to-expose-fake-taiwan-independence
+- 2001年4月13日 | 李敖写《我写〈上山·上山·爱〉》，说明小说查禁、续写与定位
+  精度：day；可靠度：confirmed；排序日期：2001-04-13
+  摘要：李敖在中国台湾署写《我写〈上山·上山·爱〉》，说明国民党时代事后查禁与连载查禁的机制，回述本书17年前连载被禁、坐牢前构思及片段归还，又预告将在自己66岁生日出版这部30万字长篇。他还说明扉页十四字、书名来由与“黄色其外，红色其中”的自我定位。此条为作者后记署写事件，不采小说正文情节。
+  人物：李敖
+  地点：中国台湾
+  标签：上山·上山·爱、我写《上山·上山·爱》、后记、查禁、写作说明
+  视图：写作线、出版线、禁书线
+  作品：上山·上山·爱、我写《上山·上山·爱》、北京法源寺
+  交叉引用：shangshan-ai-1984-about-serial-banned-before-completion、shangshan-ai-2001-before-apr25-finishes-in-forty-days、book7-2001-04-25-publishes-shangshan-shangshan-ai
+  来源：上山·上山·爱 / 005.我写《上山·上山·爱》 / line 37
+  补充来源：上山·上山·爱 / 005.我写《上山·上山·爱》 / line 13；上山·上山·爱 / 005.我写《上山·上山·爱》 / line 15；上山·上山·爱 / 005.我写《上山·上山·爱》 / line 19；上山·上山·爱 / 005.我写《上山·上山·爱》 / line 21
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/002.上山·上山·爱/005.我写《上山·上山·爱》.txt
+  数据：data/timeline-events-shangshan-ai.json#shangshan-ai-2001-04-13-writes-about-writing
+- 2001年4月13日（第三部与后记署日；4月25日出版前） | 李敖称《上山·上山·爱》构思三十多年后，最后四十多天一口气写完
+  精度：day；可靠度：reported-by-author；排序日期：2001-04-13
+  摘要：《我写〈上山·上山·爱〉》说，对构思30多年、最后花40多天一口气写完的作者而言，这本小说应了扉页十四字“清者阅之以成圣，浊者见之以为淫”。第三部正文末也署“2001年4月13日，在中国台湾”，可与同日后记署日互证其出版前完成/收束时间。此条记录创作收束过程，不把小说情节入表。
+  人物：李敖
+  地点：中国台湾
+  标签：上山·上山·爱、完稿、四十多天、扉页、2001
+  视图：创作线、出版线
+  作品：上山·上山·爱
+  交叉引用：shangshan-ai-before-1971-prison-conception-and-fragments、shangshan-ai-2001-04-13-writes-about-writing、book7-2001-04-25-publishes-shangshan-shangshan-ai
+  来源：上山·上山·爱 / 005.我写《上山·上山·爱》 / line 21
+  补充来源：上山·上山·爱 / 004.第三部——三十年后 / line 1611；上山·上山·爱 / 005.我写《上山·上山·爱》 / line 23；上山·上山·爱 / 005.我写《上山·上山·爱》 / line 25
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/002.上山·上山·爱/005.我写《上山·上山·爱》.txt
+  数据：data/timeline-events-shangshan-ai.json#shangshan-ai-2001-before-apr25-finishes-in-forty-days
 - 2001年4月25日 | 李敖出版长篇小说《上山·上山·爱》
   精度：day；可靠度：confirmed；排序日期：2001-04-25
   摘要：《李敖的淫威》写，2001年4月25日，李敖继《北京法源寺》后再出长篇小说《上山·上山·爱》。此书在台湾登上排行榜第一名并迅速售空，连台北市议会审查出版品条例时都拿它当成“情色样本”开玩笑，反成李敖名气与威慑力的一次侧证。
@@ -25170,9 +25222,9 @@
   标签：上山·上山·爱、长篇小说、出版、排行榜、金溥聪
   视图：写作线、出版线
   作品：上山·上山·爱、北京法源寺、李敖风流自传
-  交叉引用：-
+  交叉引用：shangshan-ai-1984-about-serial-banned-before-completion、shangshan-ai-2001-04-13-writes-about-writing、shangshan-ai-2001-before-apr25-finishes-in-forty-days
   来源：李敖风流自传 / 612.李敖的淫威 / line 3
-  补充来源：-
+  补充来源：上山·上山·爱 / 005.我写《上山·上山·爱》 / line 15；上山·上山·爱 / 005.我写《上山·上山·爱》 / line 21
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/612.李敖的淫威.txt
   数据：data/timeline-events-seventh-book.json#book7-2001-04-25-publishes-shangshan-shangshan-ai
 - 2001年5月7日，在中国台湾 | 李敖写《李敖的“淫威”》

@@ -707,7 +707,26 @@
       "chapter": "612.李敖的淫威",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/612.李敖的淫威.txt",
       "line": 3
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "上山·上山·爱",
+        "chapter": "005.我写《上山·上山·爱》",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/002.上山·上山·爱/005.我写《上山·上山·爱》.txt",
+        "line": 15
+      },
+      {
+        "book": "上山·上山·爱",
+        "chapter": "005.我写《上山·上山·爱》",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/002.上山·上山·爱/005.我写《上山·上山·爱》.txt",
+        "line": 21
+      }
+    ],
+    "crossReferences": [
+      "shangshan-ai-1984-about-serial-banned-before-completion",
+      "shangshan-ai-2001-04-13-writes-about-writing",
+      "shangshan-ai-2001-before-apr25-finishes-in-forty-days"
+    ]
   },
   {
     "id": "book7-2004-03-08-begins-phoenix-tv-commentary-line",

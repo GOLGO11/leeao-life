@@ -1,0 +1,220 @@
+[
+  {
+    "id": "shangshan-ai-before-1971-prison-conception-and-fragments",
+    "date": "1971-03-18",
+    "displayDate": "1971年3月19日入狱前（2001年4月13日回述）",
+    "datePrecision": "before-date-context",
+    "title": "李敖称《上山·上山·爱》在坐牢前已构思并写过片段",
+    "summary": "李敖在《我写〈上山·上山·爱〉》中回述，《北京法源寺》是在黑牢等待覆判时构思，《上山·上山·爱》则构思在坐牢之前，并已写过一些片段。他又说自己下狱后家中两次被搜查，许多箱“叛乱文件”被搬走，过滤后分次归还的六箱中就有这些小说片段，理由是内容被看作“黄色”而非“红色”。此条只采作者后记中的创作前史，不采小说正文情节。",
+    "view": [
+      "创作线",
+      "司法线"
+    ],
+    "tags": [
+      "上山·上山·爱",
+      "小说构思",
+      "坐牢前",
+      "搜查",
+      "片段归还"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "上山·上山·爱",
+      "北京法源寺"
+    ],
+    "certainty": "reported-by-author",
+    "source": {
+      "book": "上山·上山·爱",
+      "chapter": "005.我写《上山·上山·爱》",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/002.上山·上山·爱/005.我写《上山·上山·爱》.txt",
+      "line": 19
+    },
+    "crossReferences": [
+      "1971-03-19-arrested",
+      "book4-1971-03-19-taken-away-ending-house-arrest",
+      "beijing-fayuansi-1975-about-prison-conception-title-decided"
+    ]
+  },
+  {
+    "id": "shangshan-ai-1984-about-serial-banned-before-completion",
+    "date": "1984-12-31",
+    "displayDate": "约1984年（2001年4月13日文中称“17年前”）",
+    "datePrecision": "year-about",
+    "title": "李敖称《上山·上山·爱》连载时被国民党当局查禁，小说因而难以继续",
+    "summary": "李敖在2001年4月13日的后记中说，17年前《上山·上山·爱》连载时，国民党当局立刻下查禁令，罪名包括“蓄意为匪宣传、诬蔑政府、侮辱壮烈殉国先烈、扭曲事实、挑拨政府与人民情感、严重淆乱视听”等，结果小说碍难写下去。此条用后记署日反推为约1984年，并保留约略精度。",
+    "view": [
+      "出版线",
+      "禁书线",
+      "创作线"
+    ],
+    "tags": [
+      "上山·上山·爱",
+      "连载",
+      "查禁令",
+      "禁书",
+      "国民党"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "上山·上山·爱"
+    ],
+    "certainty": "reported-by-author",
+    "source": {
+      "book": "上山·上山·爱",
+      "chapter": "005.我写《上山·上山·爱》",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/002.上山·上山·爱/005.我写《上山·上山·爱》.txt",
+      "line": 13
+    },
+    "additionalSources": [
+      {
+        "book": "上山·上山·爱",
+        "chapter": "005.我写《上山·上山·爱》",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/002.上山·上山·爱/005.我写《上山·上山·爱》.txt",
+        "line": 19
+      }
+    ],
+    "crossReferences": [
+      "shangshan-ai-before-1971-prison-conception-and-fragments",
+      "book7-2001-04-25-publishes-shangshan-shangshan-ai"
+    ]
+  },
+  {
+    "id": "shangshan-ai-2001-04-13-writes-about-writing",
+    "date": "2001-04-13",
+    "displayDate": "2001年4月13日",
+    "datePrecision": "day",
+    "title": "李敖写《我写〈上山·上山·爱〉》，说明小说查禁、续写与定位",
+    "summary": "李敖在中国台湾署写《我写〈上山·上山·爱〉》，说明国民党时代事后查禁与连载查禁的机制，回述本书17年前连载被禁、坐牢前构思及片段归还，又预告将在自己66岁生日出版这部30万字长篇。他还说明扉页十四字、书名来由与“黄色其外，红色其中”的自我定位。此条为作者后记署写事件，不采小说正文情节。",
+    "view": [
+      "写作线",
+      "出版线",
+      "禁书线"
+    ],
+    "tags": [
+      "上山·上山·爱",
+      "我写《上山·上山·爱》",
+      "后记",
+      "查禁",
+      "写作说明"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "中国台湾"
+    ],
+    "works": [
+      "上山·上山·爱",
+      "我写《上山·上山·爱》",
+      "北京法源寺"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "上山·上山·爱",
+      "chapter": "005.我写《上山·上山·爱》",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/002.上山·上山·爱/005.我写《上山·上山·爱》.txt",
+      "line": 37
+    },
+    "additionalSources": [
+      {
+        "book": "上山·上山·爱",
+        "chapter": "005.我写《上山·上山·爱》",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/002.上山·上山·爱/005.我写《上山·上山·爱》.txt",
+        "line": 13
+      },
+      {
+        "book": "上山·上山·爱",
+        "chapter": "005.我写《上山·上山·爱》",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/002.上山·上山·爱/005.我写《上山·上山·爱》.txt",
+        "line": 15
+      },
+      {
+        "book": "上山·上山·爱",
+        "chapter": "005.我写《上山·上山·爱》",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/002.上山·上山·爱/005.我写《上山·上山·爱》.txt",
+        "line": 19
+      },
+      {
+        "book": "上山·上山·爱",
+        "chapter": "005.我写《上山·上山·爱》",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/002.上山·上山·爱/005.我写《上山·上山·爱》.txt",
+        "line": 21
+      }
+    ],
+    "crossReferences": [
+      "shangshan-ai-1984-about-serial-banned-before-completion",
+      "shangshan-ai-2001-before-apr25-finishes-in-forty-days",
+      "book7-2001-04-25-publishes-shangshan-shangshan-ai"
+    ]
+  },
+  {
+    "id": "shangshan-ai-2001-before-apr25-finishes-in-forty-days",
+    "date": "2001-04-13",
+    "displayDate": "2001年4月13日（第三部与后记署日；4月25日出版前）",
+    "datePrecision": "day",
+    "title": "李敖称《上山·上山·爱》构思三十多年后，最后四十多天一口气写完",
+    "summary": "《我写〈上山·上山·爱〉》说，对构思30多年、最后花40多天一口气写完的作者而言，这本小说应了扉页十四字“清者阅之以成圣，浊者见之以为淫”。第三部正文末也署“2001年4月13日，在中国台湾”，可与同日后记署日互证其出版前完成/收束时间。此条记录创作收束过程，不把小说情节入表。",
+    "view": [
+      "创作线",
+      "出版线"
+    ],
+    "tags": [
+      "上山·上山·爱",
+      "完稿",
+      "四十多天",
+      "扉页",
+      "2001"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "中国台湾"
+    ],
+    "works": [
+      "上山·上山·爱"
+    ],
+    "certainty": "reported-by-author",
+    "source": {
+      "book": "上山·上山·爱",
+      "chapter": "005.我写《上山·上山·爱》",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/002.上山·上山·爱/005.我写《上山·上山·爱》.txt",
+      "line": 21
+    },
+    "additionalSources": [
+      {
+        "book": "上山·上山·爱",
+        "chapter": "004.第三部——三十年后",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/002.上山·上山·爱/004.第三部——三十年后.txt",
+        "line": 1611
+      },
+      {
+        "book": "上山·上山·爱",
+        "chapter": "005.我写《上山·上山·爱》",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/002.上山·上山·爱/005.我写《上山·上山·爱》.txt",
+        "line": 23
+      },
+      {
+        "book": "上山·上山·爱",
+        "chapter": "005.我写《上山·上山·爱》",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/002.上山·上山·爱/005.我写《上山·上山·爱》.txt",
+        "line": 25
+      }
+    ],
+    "crossReferences": [
+      "shangshan-ai-before-1971-prison-conception-and-fragments",
+      "shangshan-ai-2001-04-13-writes-about-writing",
+      "book7-2001-04-25-publishes-shangshan-shangshan-ai"
+    ]
+  }
+]
