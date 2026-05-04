@@ -1,30 +1,58 @@
 # 李敖交互式年表开发交接记录
 
-生成日期：2026-05-03
+生成日期：2026-05-04
+
+### 《李敖杂文集》第二轮新增 2 条
+
+- 1966-01-01：文星书店在台北日、晚报刊广告，预告二月出版李敖参与编成的《韩福瑞和他的思想》。
+- 1997年义卖活动期间：李敖写《义助慰安妇》作为“李敖百件珍藏义卖活动专辑缘起”。
+- 复核结论：007 法轮功、008 阿扁、009 厦大诗未找到更强署日；008 改挂 2000-05-20 后的下限锚点。
+- 下一轮建议：第三轮最终收束，回扫 001-015 是否仍有被误判为纯评论的李敖动作；若无新增，即转入下一本。
+
+### 《李敖杂文集》第三轮 closeout 新增 5 条
+
+- 1984-01-07 前：邓维贤约李敖为复刊《政治家》开“李敖答问”专栏，李敖同意。
+- 1984-01-07：李敖宣布此后长篇专文只收在《千秋评论》或《万岁评论》。
+- 1999-09-01：李敖在《杨澜工作室》谈抢救中文并提出《李敖中文大句典》。
+- 2000-03-13：李敖在电子报中说已与远流出版社签约，三年内编《李敖中文大句典》。
+- 2001-09-11 后：李敖在《李敖大哥大》讲《台大校长不要脸》，批陈维昭延任与拒证。
+- 本书 001-015 已完成阶段性 closeout；下一轮建议转入 `015.千秋万岁编外集` 第一轮。
 
 ## 交接摘要
 
 这份摘要是给下一位 agent 直接接手用的，优先看这一段，不要再信文档顶部旧版本留下来的过时数字。
 
 ### 当前总状态
+## 2026-05-04 当前接手快照
+
+- 当前主线：已完成《李敖杂文集》第三轮 closeout。
+- 当前文件：`data/timeline-events-li-ao-zawenji.json`，27 条。
+- 当前总事件数：`2151`。
+- 当前最新日志：`iteration: 203`。
+- 当前数据版本：`2026-05-04-li-ao-zawenji-round-03-closeout`。
+- 当前导出表头应为：`事件总数：2151`。
+- 全库校验：files=36,total=2151,dups=0,badShape=0,badDates=0,missingRefs=0。
+- 下一轮建议：转入下一本 `015.千秋万岁编外集` 第一轮，先列目录、扫署日/节目日期/专栏日期，再建立写作骨架和正文动作层。
+
+
 
 - 项目路径：`/home/aihuashanying/leeao-life`
-- 当前总事件数：`2124`
+- 当前总事件数：`2151`
 - 当前全库校验：
 
 ```json
 {
-  "events": 2124,
+  "events": 2144,
   "dups": 0,
   "missingRefs": 0,
   "structuralBad": 0
 }
 ```
 
-- 纯文本总表表头当前应为：`事件总数：2124`
+- 纯文本总表表头当前应为：`事件总数：2151`
 - 当前前端版本号：
-  - `app.js` 的 `dataVersion`：`2026-05-03-qianqiu-wansui-round-11-closeout`
-  - `index.html` 的 CSS / JS query param：`2026-05-03-qianqiu-wansui-round-11-closeout`
+  - `app.js` 的 `dataVersion`：`2026-05-04-li-ao-zawenji-round-03-closeout`
+  - `index.html` 的 CSS / JS query param：`2026-05-04-li-ao-zawenji-round-03-closeout`
 
 ### 用户硬规则
 
@@ -59,7 +87,7 @@ iconv -f GB18030 -t UTF-8 "<章节路径>" | nl -ba
 
 当前主线已经从《求是新语》closeout、再到《我是天安门》closeout、《你是景福门》第五轮 closeout、《为自由招魂》第六轮 closeout、《你笨蛋，你笨蛋》第五轮 closeout、《我梦碎，所以我梦醒》第六轮 closeout、《李敖新刊》第五轮 closeout，完成 **《千秋万岁乌鸦求是合集》第十一轮 closeout**：
 
-- 当前 `data/timeline-events-qianqiu-wansui-wuya-qiushi.json`：**331 条**
+- 上一主线 `data/timeline-events-qianqiu-wansui-wuya-qiushi.json`：**331 条**；当前主线 `data/timeline-events-li-ao-zawenji.json`：**20 条**
 - 第一轮新增 42 条：覆盖稳定署日、原载、重写和少量年份级节点。
 - 第二轮新增 9 条：补五十闭关、侯德健/新格唱片、林浊水来信、狱中《快乐律》和邓维桢谈话线。
 - 第三轮新增 30 条：专攻 `051.李敖著作年表` 上半和独立出版节点，补早年发表、1964-1966 书籍出版、1971 香港《借古不讽今》、1979《文存》双书、1982《三情之书》、千秋评论号外和少数独立专书。
@@ -302,6 +330,7 @@ data/timeline-events-ni-bendan.json                    44
 data/timeline-events-dream-awake.json                  17
 data/timeline-events-li-ao-xinkan.json                 71
 data/timeline-events-qianqiu-wansui-wuya-qiushi.json   331
+data/timeline-events-li-ao-zawenji.json               27
 总计                                                  2124
 ```
 

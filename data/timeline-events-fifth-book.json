@@ -1595,14 +1595,30 @@
     ],
     "certainty": "confirmed",
     "crossReferences": [
-      "book2-1965-12-26-letter-to-yin-haiguang-wenxing-ban"
+      "book2-1965-12-26-letter-to-yin-haiguang-wenxing-ban",
+      "li-ao-zawenji-1966-before-feb-xiao-mengneng-humphrey-preface-written-by-li",
+      "li-ao-zawenji-1966-01-01-wenxing-ad-humphrey-book"
     ],
     "source": {
       "book": "李敖快意恩仇录",
       "chapter": "008.星火纪",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/008.星火纪.txt",
       "line": 11
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖杂文集",
+        "chapter": "011.关于韩福瑞和他的思想",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/011.关于韩福瑞和他的思想.txt",
+        "line": 9
+      },
+      {
+        "book": "李敖杂文集",
+        "chapter": "011.关于韩福瑞和他的思想",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/011.关于韩福瑞和他的思想.txt",
+        "line": 11
+      }
+    ]
   },
   {
     "id": "book5-1962-02-01-zhongxi-culture-essay",

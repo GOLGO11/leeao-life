@@ -1,0 +1,1268 @@
+[
+  {
+    "id": "li-ao-zawenji-1952-10-31-my-hope-united-daily",
+    "date": "1952-10-31",
+    "displayDate": "1952年10月31日",
+    "datePrecision": "day",
+    "title": "台中一中李敖在《联合报》发表《我的希望》",
+    "summary": "《我的希望》文末标注“台中一中李敖（1952-10-31/联合报/06版/）”。这是李敖中学时期以救国团特刊语境发表的早年文字，主张少喊口号、各司其事。",
+    "view": [
+      "写作线",
+      "出版线"
+    ],
+    "tags": [
+      "李敖杂文集",
+      "我的希望",
+      "联合报",
+      "台中一中",
+      "1952"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台中",
+      "台湾"
+    ],
+    "works": [
+      "我的希望",
+      "联合报",
+      "李敖杂文集"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖杂文集",
+      "chapter": "001.我的希望",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/001.我的希望.txt",
+      "line": 17
+    }
+  },
+  {
+    "id": "li-ao-zawenji-1966-01-01-wenxing-ad-humphrey-book",
+    "date": "1966-01-01",
+    "displayDate": "1966年1月1日",
+    "datePrecision": "day",
+    "title": "文星书店刊广告预告出版李敖参与编成的《韩福瑞和他的思想》",
+    "summary": "李敖代写的《关于韩福瑞和他的思想》序文写，文星杂志因1965年12月27日停刊，韩福瑞封面人物的第九十九期无法出版；另一方面，文星书店在1966年1月1日台北日、晚报刊登广告，预告二月出版《韩福瑞和他的思想》。这条补出李敖参与小册编纂链中的公开预告节点。",
+    "view": [
+      "出版线",
+      "文星线",
+      "写作线"
+    ],
+    "tags": [
+      "韩福瑞和他的思想",
+      "文星书店",
+      "台北日、晚报",
+      "韩福瑞",
+      "1966"
+    ],
+    "people": [
+      "李敖",
+      "萧孟能",
+      "韩福瑞",
+      "陈香梅",
+      "胡汝森"
+    ],
+    "places": [
+      "台北",
+      "台湾"
+    ],
+    "works": [
+      "韩福瑞和他的思想",
+      "关于韩福瑞和他的思想",
+      "我所知道的韩福瑞",
+      "李敖杂文集"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖杂文集",
+      "chapter": "011.关于韩福瑞和他的思想",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/011.关于韩福瑞和他的思想.txt",
+      "line": 11
+    },
+    "additionalSources": [
+      {
+        "book": "李敖杂文集",
+        "chapter": "011.关于韩福瑞和他的思想",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/011.关于韩福瑞和他的思想.txt",
+        "line": 13
+      }
+    ],
+    "crossReferences": [
+      "li-ao-zawenji-1966-before-feb-xiao-mengneng-humphrey-preface-written-by-li",
+      "li-ao-zawenji-1966-before-feb-chen-xiangmei-humphrey-article-rewritten-by-li",
+      "book5-1965-12-27-wenxing-one-year-suspension"
+    ]
+  },
+  {
+    "id": "li-ao-zawenji-1966-before-feb-chen-xiangmei-humphrey-article-rewritten-by-li",
+    "date": "1966-02-28",
+    "displayDate": "1966年2月前后（《韩福瑞和他的思想》出版前）",
+    "datePrecision": "before-date-context",
+    "title": "李敖连改带写陈香梅《我所知道的韩福瑞》",
+    "summary": "《我所知道的韩福瑞》前注引李敖《“洁本”云乎哉？》说，署名陈香梅的《我所知道的韩福瑞》其实是李敖连改带写：原稿经他删改后剩1841字，他又加写1634字。",
+    "view": [
+      "写作线",
+      "文星线"
+    ],
+    "tags": [
+      "我所知道的韩福瑞",
+      "陈香梅",
+      "韩福瑞",
+      "洁本云乎哉",
+      "文星",
+      "1966"
+    ],
+    "people": [
+      "李敖",
+      "陈香梅",
+      "韩福瑞"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "我所知道的韩福瑞",
+      "韩福瑞和他的思想",
+      "“洁本”云乎哉？",
+      "李敖杂文集"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖杂文集",
+      "chapter": "010.我所知道的韩福瑞",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/010.我所知道的韩福瑞.txt",
+      "line": 3
+    },
+    "crossReferences": [
+      "book2-broad-1986-09-10-clean-version-written",
+      "li-ao-zawenji-1966-01-01-wenxing-ad-humphrey-book"
+    ]
+  },
+  {
+    "id": "li-ao-zawenji-1966-before-feb-xiao-mengneng-humphrey-preface-written-by-li",
+    "date": "1966-02-28",
+    "displayDate": "1966年2月前后（《韩福瑞和他的思想》出版前）",
+    "datePrecision": "before-date-context",
+    "title": "李敖代写萧孟能《关于韩福瑞和他的思想》序文，并参与小册编成",
+    "summary": "《关于韩福瑞和他的思想》前注引李敖《“洁本”云乎哉？》说，署名萧孟能的序文其实是李敖所写；正文又说文星书店1966年1月1日登广告，预告2月出版《韩福瑞和他的思想》，在胡汝森设计下小册子完成。",
+    "view": [
+      "写作线",
+      "出版线",
+      "文星线"
+    ],
+    "tags": [
+      "关于韩福瑞和他的思想",
+      "萧孟能",
+      "韩福瑞",
+      "文星书店",
+      "洁本云乎哉",
+      "1966"
+    ],
+    "people": [
+      "李敖",
+      "萧孟能",
+      "韩福瑞",
+      "胡汝森"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "关于韩福瑞和他的思想",
+      "韩福瑞和他的思想",
+      "“洁本”云乎哉？",
+      "李敖杂文集"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖杂文集",
+      "chapter": "011.关于韩福瑞和他的思想",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/011.关于韩福瑞和他的思想.txt",
+      "line": 3
+    },
+    "additionalSources": [
+      {
+        "book": "李敖杂文集",
+        "chapter": "011.关于韩福瑞和他的思想",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/011.关于韩福瑞和他的思想.txt",
+        "line": 11
+      },
+      {
+        "book": "李敖杂文集",
+        "chapter": "011.关于韩福瑞和他的思想",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/011.关于韩福瑞和他的思想.txt",
+        "line": 13
+      },
+      {
+        "book": "李敖杂文集",
+        "chapter": "011.关于韩福瑞和他的思想",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/011.关于韩福瑞和他的思想.txt",
+        "line": 7
+      }
+    ],
+    "crossReferences": [
+      "book2-broad-1986-09-10-clean-version-written",
+      "book5-1965-12-27-wenxing-one-year-suspension",
+      "li-ao-zawenji-1966-01-01-wenxing-ad-humphrey-book"
+    ]
+  },
+  {
+    "id": "li-ao-zawenji-1974-06-15-prison-letter-on-book-censorship-and-guji-set",
+    "date": "1974-06-15",
+    "displayDate": "1974年6月15日",
+    "datePrecision": "day",
+    "title": "李敖在狱中写信谈书刊检查，并请求购买《中华古籍丛刊》",
+    "summary": "《狱中书信两封》第一封署“六三、六、十五。敖之”。李敖说明所内书刊检查管制办法改变，朋友寄书多不能通过，建议改由所方代买，并请对方买一套《中华古籍丛刊》，另附“凭此单提中华古籍丛刊壹套”。",
+    "view": [
+      "通信线",
+      "监所线",
+      "读书线"
+    ],
+    "tags": [
+      "狱中书信两封",
+      "中华古籍丛刊",
+      "书刊检查",
+      "监狱",
+      "1974"
+    ],
+    "people": [
+      "李敖",
+      "段宏俊"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "狱中书信两封",
+      "中华古籍丛刊",
+      "李敖杂文集"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖杂文集",
+      "chapter": "002.狱中书信两封",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/002.狱中书信两封.txt",
+      "line": 27
+    },
+    "crossReferences": [
+      "wencun-1968-04-30-zhonghua-guji-congkan-preface"
+    ]
+  },
+  {
+    "id": "li-ao-zawenji-1975-01-11-prison-letter-on-books-house-health-and-family",
+    "date": "1975-01-11",
+    "displayDate": "1975年1月11日夜",
+    "datePrecision": "day",
+    "title": "李敖在狱中写信安排卖书、封存台中老家，并记身体与家事困扰",
+    "summary": "《狱中书信两封》第二封署“敖之六四、一、十一夜”。李敖谈除夕信、卖书款、台中老家与书房清理，提到托丁颖处理书物、请孟南下，又写到九月间总医院检查肺囊肿、血压高到160，以及小八出狱后的家事烦扰。",
+    "view": [
+      "通信线",
+      "监所线",
+      "日常线",
+      "家庭线"
+    ],
+    "tags": [
+      "狱中书信两封",
+      "丁颖",
+      "萧孟能",
+      "台中老家",
+      "身体",
+      "1975"
+    ],
+    "people": [
+      "李敖",
+      "萧孟能",
+      "丁颖",
+      "小八"
+    ],
+    "places": [
+      "台湾",
+      "台中"
+    ],
+    "works": [
+      "狱中书信两封",
+      "李敖杂文集"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖杂文集",
+      "chapter": "002.狱中书信两封",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/002.狱中书信两封.txt",
+      "line": 45
+    }
+  },
+  {
+    "id": "li-ao-zawenji-1984-01-07-announces-long-essays-only-qianqiu-wansui",
+    "date": "1984-01-07",
+    "displayDate": "1984年1月7日",
+    "datePrecision": "day",
+    "title": "李敖宣布此后长篇专文只收在《千秋评论》或《万岁评论》",
+    "summary": "在《〈政治家〉开“李敖答问”专栏缘起》末尾，李敖说明因已为《政治家》开“李敖答问”专栏，此后的长篇大论专文将只收在《千秋评论》或《万岁评论》里，“一律内销”“只此两家，别无分号”。这是他对专栏答问与长文发表渠道的公开安排。",
+    "view": [
+      "出版线",
+      "写作线",
+      "媒体线"
+    ],
+    "tags": [
+      "政治家",
+      "李敖答问",
+      "千秋评论",
+      "万岁评论",
+      "1984"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "政治家",
+      "李敖答问",
+      "千秋评论",
+      "万岁评论",
+      "〈政治家〉开“李敖答问”专栏缘起",
+      "李敖杂文集"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖杂文集",
+      "chapter": "015.《政治家》开“李敖答问”专栏缘起",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/015.《政治家》开“李敖答问”专栏缘起.txt",
+      "line": 41
+    },
+    "additionalSources": [
+      {
+        "book": "李敖杂文集",
+        "chapter": "015.《政治家》开“李敖答问”专栏缘起",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/015.《政治家》开“李敖答问”专栏缘起.txt",
+        "line": 43
+      }
+    ],
+    "crossReferences": [
+      "li-ao-zawenji-1984-01-07-writes-politicalist-li-ao-qa-column-origin"
+    ]
+  },
+  {
+    "id": "li-ao-zawenji-1984-01-07-writes-politicalist-li-ao-qa-column-origin",
+    "date": "1984-01-07",
+    "displayDate": "1984年1月7日",
+    "datePrecision": "day",
+    "title": "李敖写《〈政治家〉开“李敖答问”专栏缘起》",
+    "summary": "《〈政治家〉开“李敖答问”专栏缘起》署1984年1月7日。文中写《政治家》停刊一年后即将复刊，邓维贤约李敖开“李敖答问”专栏，李敖同意每期回答海内外读者提问。",
+    "view": [
+      "写作线",
+      "媒体线"
+    ],
+    "tags": [
+      "政治家",
+      "李敖答问",
+      "邓维贤",
+      "1984"
+    ],
+    "people": [
+      "李敖",
+      "邓维贤"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "政治家",
+      "李敖答问",
+      "〈政治家〉开“李敖答问”专栏缘起",
+      "李敖杂文集"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖杂文集",
+      "chapter": "015.《政治家》开“李敖答问”专栏缘起",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/015.《政治家》开“李敖答问”专栏缘起.txt",
+      "line": 43
+    },
+    "crossReferences": [
+      "li-ao-zawenji-1984-before-jan-07-deng-weixian-invites-li-ao-qa-column",
+      "li-ao-zawenji-1984-01-07-announces-long-essays-only-qianqiu-wansui"
+    ],
+    "additionalSources": [
+      {
+        "book": "李敖杂文集",
+        "chapter": "015.《政治家》开“李敖答问”专栏缘起",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/015.《政治家》开“李敖答问”专栏缘起.txt",
+        "line": 41
+      }
+    ]
+  },
+  {
+    "id": "li-ao-zawenji-1984-before-jan-07-deng-weixian-invites-li-ao-qa-column",
+    "date": "1984-01-07",
+    "displayDate": "1984年1月7日前（据缘起署日）",
+    "datePrecision": "before-date-context",
+    "title": "邓维贤约李敖为复刊《政治家》开“李敖答问”专栏，李敖同意",
+    "summary": "《〈政治家〉开“李敖答问”专栏缘起》写，《政治家》停刊一年后即将复刊，邓维贤把半月刊改为周刊，并约李敖开新专栏；李敖说自己“情不可却、义不容辞，自然遵命，说开就开”。本条补出专栏成立前的邀约与同意动作。",
+    "view": [
+      "媒体线",
+      "写作线",
+      "交游线"
+    ],
+    "tags": [
+      "政治家",
+      "李敖答问",
+      "邓维贤",
+      "专栏",
+      "1984"
+    ],
+    "people": [
+      "李敖",
+      "邓维贤"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "政治家",
+      "李敖答问",
+      "〈政治家〉开“李敖答问”专栏缘起",
+      "李敖杂文集"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖杂文集",
+      "chapter": "015.《政治家》开“李敖答问”专栏缘起",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/015.《政治家》开“李敖答问”专栏缘起.txt",
+      "line": 3
+    },
+    "additionalSources": [
+      {
+        "book": "李敖杂文集",
+        "chapter": "015.《政治家》开“李敖答问”专栏缘起",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/015.《政治家》开“李敖答问”专栏缘起.txt",
+        "line": 5
+      }
+    ],
+    "crossReferences": [
+      "li-ao-zawenji-1984-01-07-writes-politicalist-li-ao-qa-column-origin",
+      "li-ao-zawenji-1984-01-16-minzhuren-publishes-li-ao-qa-column-origin"
+    ]
+  },
+  {
+    "id": "li-ao-zawenji-1984-01-16-minzhuren-publishes-li-ao-qa-column-origin",
+    "date": "1984-01-16",
+    "displayDate": "1984年1月16日",
+    "datePrecision": "day",
+    "title": "《民主人》第24期刊出《〈政治家〉开“李敖答问”专栏缘起》",
+    "summary": "《〈政治家〉开“李敖答问”专栏缘起》文末标注“民主人第24期 1984年1月16日”。这条保留“李敖答问”专栏缘起文字的报刊发表层。",
+    "view": [
+      "出版线",
+      "媒体线"
+    ],
+    "tags": [
+      "民主人",
+      "政治家",
+      "李敖答问",
+      "1984"
+    ],
+    "people": [
+      "李敖",
+      "邓维贤"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "民主人",
+      "政治家",
+      "李敖答问",
+      "〈政治家〉开“李敖答问”专栏缘起",
+      "李敖杂文集"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖杂文集",
+      "chapter": "015.《政治家》开“李敖答问”专栏缘起",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/015.《政治家》开“李敖答问”专栏缘起.txt",
+      "line": 45
+    },
+    "crossReferences": [
+      "li-ao-zawenji-1984-01-07-writes-politicalist-li-ao-qa-column-origin",
+      "li-ao-zawenji-1984-before-jan-07-deng-weixian-invites-li-ao-qa-column"
+    ]
+  },
+  {
+    "id": "li-ao-zawenji-1989-03-04-note-happiness-and-technique",
+    "date": "1989-03-04",
+    "displayDate": "1989年3月4日",
+    "datePrecision": "day",
+    "title": "李敖写札记《快乐与技术》",
+    "summary": "《李敖札记》中《快乐与技术》署1989年3月4日。李敖把快乐视为“里应外合”的技术问题，认为形式、程序可以影响实质。",
+    "view": [
+      "写作线",
+      "思想线"
+    ],
+    "tags": [
+      "李敖札记",
+      "快乐与技术",
+      "1989"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "李敖札记",
+      "快乐与技术",
+      "李敖杂文集"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖杂文集",
+      "chapter": "003.李敖札记",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/003.李敖札记.txt",
+      "line": 5
+    }
+  },
+  {
+    "id": "li-ao-zawenji-1989-03-04-note-tears-and-smile",
+    "date": "1989-03-04",
+    "displayDate": "1989年3月4日",
+    "datePrecision": "day",
+    "title": "李敖写札记《泪痕犹在，已见笑脸》",
+    "summary": "《李敖札记》中《泪痕犹在，已见笑脸》署1989年3月4日。李敖写重大不快事件后，自己可在一小时内平定不快乐，并以小孩子泪痕犹在已见笑脸作对照。",
+    "view": [
+      "写作线",
+      "日常线"
+    ],
+    "tags": [
+      "李敖札记",
+      "泪痕犹在，已见笑脸",
+      "1989"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "李敖札记",
+      "泪痕犹在，已见笑脸",
+      "李敖杂文集"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖杂文集",
+      "chapter": "003.李敖札记",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/003.李敖札记.txt",
+      "line": 9
+    }
+  },
+  {
+    "id": "li-ao-zawenji-1989-03-14-note-ding-naizhu-tv-and-hu-yinmeng-memory",
+    "date": "1989-03-14",
+    "displayDate": "1989年3月14日",
+    "datePrecision": "day",
+    "title": "李敖看丁乃竺电视谈密宗，并追记丁乃竺、胡茵梦曾到家中",
+    "summary": "《李敖札记》中《美女与妖妄》署1989年3月14日。李敖早上看电视节目中丁乃竺谈密宗，联想到多年前丁乃竺与胡茵梦到家里来的情景，并批评迷信与妖妄。",
+    "view": [
+      "日常线",
+      "交游线",
+      "写作线"
+    ],
+    "tags": [
+      "李敖札记",
+      "丁乃竺",
+      "胡茵梦",
+      "密宗",
+      "1989"
+    ],
+    "people": [
+      "李敖",
+      "丁乃竺",
+      "胡茵梦"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "李敖札记",
+      "美女与妖妄",
+      "李敖杂文集"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖杂文集",
+      "chapter": "003.李敖札记",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/003.李敖札记.txt",
+      "line": 13
+    }
+  },
+  {
+    "id": "li-ao-zawenji-1989-03-24-dinner-huang-san-asks-about-fighting-kmt",
+    "date": "1989-03-24",
+    "displayDate": "1989年3月24日晚饭前",
+    "datePrecision": "day",
+    "title": "黄三晚饭前问李敖搞国民党是否有效，李敖答“志在一搞”",
+    "summary": "《李敖札记》中《是必为也，非必能也》署1989年3月24日。晚饭前黄三问李敖“这样搞国民党有效吗”，李敖以粗口笑答重点在“志在一搞”，黄三大笑。",
+    "view": [
+      "日常线",
+      "政治线",
+      "交游线"
+    ],
+    "tags": [
+      "李敖札记",
+      "黄三",
+      "国民党",
+      "晚饭前",
+      "1989"
+    ],
+    "people": [
+      "李敖",
+      "黄三"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "李敖札记",
+      "是必为也，非必能也",
+      "李敖杂文集"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖杂文集",
+      "chapter": "003.李敖札记",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/003.李敖札记.txt",
+      "line": 17
+    }
+  },
+  {
+    "id": "li-ao-zawenji-1989-04-13-note-wu-yuechao-at-xinyi-road",
+    "date": "1989-04-13",
+    "displayDate": "1989年4月13日",
+    "datePrecision": "day",
+    "title": "李敖记吴越潮生前在信义路口谈国民党好人与坏人",
+    "summary": "《李敖札记》中《坏的好人》署1989年4月13日。李敖记吴越潮生前曾在信义路口对他说，国民党有很多坏人，也有好人；李敖由此评论“帮助国民党作恶的好人”只是“坏的好人”。",
+    "view": [
+      "日常线",
+      "政治线",
+      "交游线"
+    ],
+    "tags": [
+      "李敖札记",
+      "吴越潮",
+      "信义路口",
+      "国民党",
+      "1989"
+    ],
+    "people": [
+      "李敖",
+      "吴越潮"
+    ],
+    "places": [
+      "信义路口",
+      "台湾"
+    ],
+    "works": [
+      "李敖札记",
+      "坏的好人",
+      "李敖杂文集"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖杂文集",
+      "chapter": "003.李敖札记",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/003.李敖札记.txt",
+      "line": 21
+    }
+  },
+  {
+    "id": "li-ao-zawenji-1989-07-18-writes-return-sun-yatsen-ticket",
+    "date": "1989-07-18",
+    "displayDate": "1989年7月18日",
+    "datePrecision": "day",
+    "title": "李敖写《退孙中山的票》",
+    "summary": "《退孙中山的票》文末署1989年7月18日。李敖借孙中山等人1900年致香港总督书与陪审制承诺，批评国民党长期没有兑现司法改革。",
+    "view": [
+      "写作线",
+      "政治线",
+      "司法线"
+    ],
+    "tags": [
+      "退孙中山的票",
+      "孙中山",
+      "陪审制",
+      "国民党",
+      "1989"
+    ],
+    "people": [
+      "李敖",
+      "孙中山",
+      "林洋港"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "退孙中山的票",
+      "李敖杂文集"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖杂文集",
+      "chapter": "005.退孙中山的票",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/005.退孙中山的票.txt",
+      "line": 21
+    }
+  },
+  {
+    "id": "li-ao-zawenji-1994-after-apr-17-asks-chen-weizhao-testify-yin-haiguang-case",
+    "date": "1994-04-17",
+    "displayDate": "1994年4月17日后",
+    "datePrecision": "after-date-context",
+    "title": "李敖在官司中请陈维昭为殷海光遭台大迫害作证，陈维昭写信拒绝",
+    "summary": "《台大校长不要脸》写，1994年4月17日《自立晚报》刊出陈维昭称殷海光因批评国民党而被撵出台大教职；后来李敖打官司，请陈维昭来作证，陈维昭却写信给法院称社务繁忙、不克到场。",
+    "view": [
+      "司法线",
+      "政治线",
+      "殷海光线"
+    ],
+    "tags": [
+      "台大校长不要脸",
+      "陈维昭",
+      "殷海光",
+      "作证",
+      "台大",
+      "1994"
+    ],
+    "people": [
+      "李敖",
+      "陈维昭",
+      "殷海光"
+    ],
+    "places": [
+      "台湾大学",
+      "台湾"
+    ],
+    "works": [
+      "台大校长不要脸",
+      "李敖杂文集"
+    ],
+    "certainty": "inferred",
+    "source": {
+      "book": "李敖杂文集",
+      "chapter": "004.台大校长不要脸",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/004.台大校长不要脸.txt",
+      "line": 21
+    },
+    "crossReferences": [
+      "book6-2005-04-06-scolds-university-presidents-in-water-fertilizer-incident",
+      "li-ao-zawenji-2001-after-sep-11-talks-ntu-president-shameless"
+    ],
+    "additionalSources": [
+      {
+        "book": "李敖大哥大",
+        "chapter": "059.台大校长不要脸",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/006.李敖大哥大/059.台大校长不要脸.txt",
+        "line": 59
+      }
+    ]
+  },
+  {
+    "id": "li-ao-zawenji-1995-07-14-work-log-for-lu-jiazhen",
+    "date": "1995-07-14",
+    "displayDate": "1995年7月14日",
+    "datePrecision": "day",
+    "title": "李敖写给吕佳真的工作日志，要求恢复下班后书面日志",
+    "summary": "《给吕佳真的工作日志》署1995年7月14日。李敖列出工作纪律，要求电话不能超过十分钟、尊重未发表文章的秘密、离开单位须告知，并从本日开始恢复工作日志，下班后放在他桌上。",
+    "view": [
+      "日常线",
+      "工作线"
+    ],
+    "tags": [
+      "给吕佳真的工作日志",
+      "吕佳真",
+      "工作日志",
+      "1995"
+    ],
+    "people": [
+      "李敖",
+      "吕佳真"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "给吕佳真的工作日志",
+      "李敖杂文集"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖杂文集",
+      "chapter": "014.给吕佳真的工作日志",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/014.给吕佳真的工作日志.txt",
+      "line": 19
+    }
+  },
+  {
+    "id": "li-ao-zawenji-1997-context-writes-comfort-women-auction-preface",
+    "date": "1997-12-31",
+    "displayDate": "1997年义卖活动期间（据旧锚点）",
+    "datePrecision": "year-context",
+    "title": "李敖写《义助慰安妇》作为百件珍藏义卖活动专辑缘起",
+    "summary": "《义助慰安妇》副题为“李敖百件珍藏义卖活动专辑缘起”。文中李敖说明日本以民间团体五十万元“私了”慰安妇的卑劣，并写“我们要举办这次活动，援助慰安妇”，这条补出1997年义卖行动之外的文字发动和专辑缘起层。",
+    "view": [
+      "写作线",
+      "公益线",
+      "出版线"
+    ],
+    "tags": [
+      "义助慰安妇",
+      "百件珍藏义卖",
+      "慰安妇",
+      "日本",
+      "1997"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台湾",
+      "日本"
+    ],
+    "works": [
+      "义助慰安妇",
+      "李敖百件珍藏义卖活动专辑",
+      "李敖杂文集"
+    ],
+    "certainty": "inferred",
+    "source": {
+      "book": "李敖杂文集",
+      "chapter": "006.义助慰安妇",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/006.义助慰安妇.txt",
+      "line": 3
+    },
+    "additionalSources": [
+      {
+        "book": "李敖杂文集",
+        "chapter": "006.义助慰安妇",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/006.义助慰安妇.txt",
+        "line": 25
+      }
+    ],
+    "crossReferences": [
+      "book7-1997-charity-auction-for-comfort-women-and-donates-proceeds"
+    ]
+  },
+  {
+    "id": "li-ao-zawenji-1999-09-01-yanglan-interview-chinese-sentence-dictionary",
+    "date": "1999-09-01",
+    "displayDate": "1999年9月1日",
+    "datePrecision": "day",
+    "title": "李敖在《杨澜工作室》谈抢救中文并提出《李敖中文大句典》",
+    "summary": "1999年9月1日《杨澜工作室》中，杨澜问李敖为什么要编“句典”，李敖回答自己怕烂中文被确定，所以要抢救中文、编八百万字《李敖中文大句典》，由他确定最好的中文。此条补强《李敖中文大句典》构想书中“早就在刘长乐凤凰电视上提出句典构想”的早期公开锚点。",
+    "view": [
+      "访谈线",
+      "写作线",
+      "文化线"
+    ],
+    "tags": [
+      "杨澜工作室",
+      "李敖中文大句典",
+      "凤凰电视",
+      "中文",
+      "1999"
+    ],
+    "people": [
+      "李敖",
+      "杨澜",
+      "刘长乐"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "杨澜工作室",
+      "李敖中文大句典",
+      "李敖杂文集"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖政论综艺集",
+      "chapter": "008.19990901《杨澜工作室》",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/012.李敖政论综艺集/008.19990901《杨澜工作室》.txt",
+      "line": 177
+    },
+    "additionalSources": [
+      {
+        "book": "李敖政论综艺集",
+        "chapter": "008.19990901《杨澜工作室》",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/012.李敖政论综艺集/008.19990901《杨澜工作室》.txt",
+        "line": 183
+      },
+      {
+        "book": "李敖杂文集",
+        "chapter": "013.《李敖中文大句典》构想书",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/013.《李敖中文大句典》构想书.txt",
+        "line": 5
+      }
+    ],
+    "crossReferences": [
+      "li-ao-zawenji-2008-09-06-writes-chinese-sentence-dictionary-plan"
+    ]
+  },
+  {
+    "id": "li-ao-zawenji-1999-context-writes-denounce-falun-gong",
+    "date": "1999-12-31",
+    "displayDate": "1999年（据法轮功创办七年及1998年12月25日信后）",
+    "datePrecision": "year-context",
+    "title": "李敖写《为什么要声讨法轮功？》",
+    "summary": "《为什么要声讨法轮功？》据法轮功教主1998年12月25日信和“创办了只7年”的语境，可暂挂1999年。李敖把法轮功归入新兴宗教和邪教问题，赞成声讨，认为其扩散能力和走火入魔风险有爆炸性祸害。",
+    "view": [
+      "写作线",
+      "政治线"
+    ],
+    "tags": [
+      "为什么要声讨法轮功？",
+      "法轮功",
+      "新兴宗教",
+      "1999"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台湾",
+      "中国大陆"
+    ],
+    "works": [
+      "为什么要声讨法轮功？",
+      "李敖杂文集"
+    ],
+    "certainty": "inferred",
+    "source": {
+      "book": "李敖杂文集",
+      "chapter": "007.为什么要声讨法轮功？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/007.为什么要声讨法轮功？.txt",
+      "line": 5
+    }
+  },
+  {
+    "id": "li-ao-zawenji-2000-03-13-says-signed-yuanliu-for-chinese-sentence-dictionary",
+    "date": "2000-03-13",
+    "displayDate": "2000年3月13日",
+    "datePrecision": "day",
+    "title": "李敖在电子报中说已与远流签约，三年内编《李敖中文大句典》",
+    "summary": "2000年3月13日《李敖送电集》文字中，李敖谈中文、语音输入与同音字困境，说“最近我和远流出版社签了约，要在三年内编一本《李敖中文大句典》”，用句子表达语言与感情。这条补出2008年构想书之前的签约推进层。",
+    "view": [
+      "出版线",
+      "写作线",
+      "文化线"
+    ],
+    "tags": [
+      "李敖中文大句典",
+      "远流出版社",
+      "李敖送电集",
+      "签约",
+      "2000"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "李敖中文大句典",
+      "李敖送电集",
+      "李敖杂文集"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖送电集",
+      "chapter": "026.2000年3月13日",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/026.2000年3月13日.txt",
+      "line": 45
+    },
+    "additionalSources": [
+      {
+        "book": "李敖杂文集",
+        "chapter": "013.《李敖中文大句典》构想书",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/013.《李敖中文大句典》构想书.txt",
+        "line": 5
+      }
+    ],
+    "crossReferences": [
+      "li-ao-zawenji-1999-09-01-yanglan-interview-chinese-sentence-dictionary",
+      "li-ao-zawenji-2008-09-06-writes-chinese-sentence-dictionary-plan"
+    ]
+  },
+  {
+    "id": "li-ao-zawenji-2000-context-writes-four-ways-out-for-chen-shui-bian",
+    "date": "2000-05-20",
+    "displayDate": "2000年5月20日后（陈水扁就任总统后，据来台51年语境）",
+    "datePrecision": "after-date-context",
+    "title": "李敖写《阿扁的四条出路》",
+    "summary": "《阿扁的四条出路》开头写李敖在台湾住了51年，并称陈水扁“现在做了总统”。据1949年赴台和陈水扁2000年5月20日就任总统，本条改挂为就任后的下限锚点；文中分析陈水扁党内困局，并提出勾结国民党、罗福助、李登辉、宋楚瑜四条路。",
+    "view": [
+      "写作线",
+      "政治线"
+    ],
+    "tags": [
+      "阿扁的四条出路",
+      "陈水扁",
+      "民进党",
+      "2000"
+    ],
+    "people": [
+      "李敖",
+      "陈水扁",
+      "李登辉",
+      "宋楚瑜",
+      "邱义仁",
+      "罗福助"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "阿扁的四条出路",
+      "李敖杂文集"
+    ],
+    "certainty": "inferred",
+    "source": {
+      "book": "李敖杂文集",
+      "chapter": "008.阿扁的四条出路",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/008.阿扁的四条出路.txt",
+      "line": 3
+    },
+    "additionalSources": [
+      {
+        "book": "李敖杂文集",
+        "chapter": "008.阿扁的四条出路",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/008.阿扁的四条出路.txt",
+        "line": 21
+      },
+      {
+        "book": "李敖杂文集",
+        "chapter": "008.阿扁的四条出路",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/008.阿扁的四条出路.txt",
+        "line": 31
+      }
+    ]
+  },
+  {
+    "id": "li-ao-zawenji-2001-after-sep-11-talks-ntu-president-shameless",
+    "date": "2001-09-11",
+    "displayDate": "2001年9月11日后（据同题《李敖大哥大》提及世贸事件后钱复“刚刚回来”）",
+    "datePrecision": "after-date-context",
+    "title": "李敖在《李敖大哥大》讲《台大校长不要脸》，批陈维昭延任与拒证",
+    "summary": "《李敖杂文集》收《台大校长不要脸》；同题《李敖大哥大》节目中，李敖以“今天报上登”台大校庆餐会切入，批陈维昭在任内修改任期自肥，又追述1994年陈维昭公开承认殷海光被免除台大教职，后来却拒绝为李敖官司作证。节目还提到钱复在世贸事件后送款刚回来，因此本条暂挂2001年9月11日后。",
+    "view": [
+      "媒体线",
+      "司法线",
+      "台大线"
+    ],
+    "tags": [
+      "台大校长不要脸",
+      "陈维昭",
+      "殷海光",
+      "台大",
+      "李敖大哥大",
+      "2001"
+    ],
+    "people": [
+      "李敖",
+      "陈维昭",
+      "殷海光",
+      "钱思亮",
+      "钱复",
+      "李远哲"
+    ],
+    "places": [
+      "台湾大学",
+      "台北",
+      "台湾"
+    ],
+    "works": [
+      "台大校长不要脸",
+      "李敖大哥大",
+      "李敖杂文集"
+    ],
+    "certainty": "inferred",
+    "source": {
+      "book": "李敖杂文集",
+      "chapter": "004.台大校长不要脸",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/004.台大校长不要脸.txt",
+      "line": 1
+    },
+    "additionalSources": [
+      {
+        "book": "李敖杂文集",
+        "chapter": "004.台大校长不要脸",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/004.台大校长不要脸.txt",
+        "line": 21
+      },
+      {
+        "book": "李敖大哥大",
+        "chapter": "059.台大校长不要脸",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/006.李敖大哥大/059.台大校长不要脸.txt",
+        "line": 49
+      },
+      {
+        "book": "李敖大哥大",
+        "chapter": "059.台大校长不要脸",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/006.李敖大哥大/059.台大校长不要脸.txt",
+        "line": 53
+      },
+      {
+        "book": "李敖大哥大",
+        "chapter": "059.台大校长不要脸",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/006.李敖大哥大/059.台大校长不要脸.txt",
+        "line": 59
+      }
+    ],
+    "crossReferences": [
+      "li-ao-zawenji-1994-after-apr-17-asks-chen-weizhao-testify-yin-haiguang-case",
+      "book6-2005-04-06-scolds-university-presidents-in-water-fertilizer-incident"
+    ]
+  },
+  {
+    "id": "li-ao-zawenji-2007-10-26-writes-china-olympic-song-in-one-hour",
+    "date": "2007-10-26",
+    "displayDate": "2007年10月26日夜一小时作",
+    "datePrecision": "day",
+    "title": "李敖一小时写成《中国奥运歌》",
+    "summary": "《中国奥运歌》文末署“李敖2007.10.26夜以一小时作”。这首歌词以2008北京奥运前的中国主题写成，反复唱出“世界的高处是我们中国”。",
+    "view": [
+      "写作线",
+      "诗歌线"
+    ],
+    "tags": [
+      "中国奥运歌",
+      "奥运",
+      "2007"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "中国奥运歌",
+      "李敖杂文集"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖杂文集",
+      "chapter": "012.中国奥运歌",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/012.中国奥运歌.txt",
+      "line": 39
+    }
+  },
+  {
+    "id": "li-ao-zawenji-2008-09-06-writes-chinese-sentence-dictionary-plan",
+    "date": "2008-09-06",
+    "displayDate": "2008年9月6日晨，在山之阳",
+    "datePrecision": "day",
+    "title": "李敖在阳明山写《李敖中文大句典》构想书",
+    "summary": "《〈李敖中文大句典〉构想书》署2008年9月6日晨“在山之阳”。李敖写自己早在刘长乐凤凰电视上提出句典构想，计划从2009到2015仿林语堂六年计划，八十大寿前成书。",
+    "view": [
+      "写作线",
+      "出版线",
+      "晚年计划线"
+    ],
+    "tags": [
+      "李敖中文大句典",
+      "刘长乐",
+      "凤凰电视",
+      "阳明山",
+      "2008"
+    ],
+    "people": [
+      "李敖",
+      "刘长乐"
+    ],
+    "places": [
+      "阳明山",
+      "台湾"
+    ],
+    "works": [
+      "李敖中文大句典",
+      "李敖杂文集"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖杂文集",
+      "chapter": "013.《李敖中文大句典》构想书",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/013.《李敖中文大句典》构想书.txt",
+      "line": 9
+    },
+    "crossReferences": [
+      "li-ao-zawenji-1999-09-01-yanglan-interview-chinese-sentence-dictionary",
+      "li-ao-zawenji-2000-03-13-says-signed-yuanliu-for-chinese-sentence-dictionary"
+    ],
+    "additionalSources": [
+      {
+        "book": "李敖政论综艺集",
+        "chapter": "008.19990901《杨澜工作室》",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/012.李敖政论综艺集/008.19990901《杨澜工作室》.txt",
+        "line": 183
+      },
+      {
+        "book": "李敖送电集",
+        "chapter": "026.2000年3月13日",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/026.2000年3月13日.txt",
+        "line": 45
+      }
+    ]
+  },
+  {
+    "id": "li-ao-zawenji-2011-after-mar-31-writes-three-poems-for-xiamen-honorary-post",
+    "date": "2011-03-31",
+    "displayDate": "2011年3月31日后（据厦门大学聘书语境）",
+    "datePrecision": "after-date-context",
+    "title": "李敖为厦门大学聘书写三首诗，分别致朱崇实、陈支平、陈平景",
+    "summary": "《关于厦门大学聘书诗三首》说明，厦门大学跟进聘李敖为终身讲座教授后，李敖写三首诗：一给朱崇实校长，一给陈支平院长，一给居中传信的陈平景。此事与2011年3月31日厦门大学名誉教授聘书链相连。",
+    "view": [
+      "写作线",
+      "交游线",
+      "大陆线"
+    ],
+    "tags": [
+      "厦门大学",
+      "聘书诗",
+      "朱崇实",
+      "陈支平",
+      "陈平景",
+      "2011"
+    ],
+    "people": [
+      "李敖",
+      "朱崇实",
+      "陈支平",
+      "陈平景"
+    ],
+    "places": [
+      "厦门大学",
+      "厦门"
+    ],
+    "works": [
+      "关于厦门大学聘书诗三首",
+      "李敖杂文集"
+    ],
+    "certainty": "inferred",
+    "source": {
+      "book": "李敖杂文集",
+      "chapter": "009.关于厦门大学聘书诗三首",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/009.关于厦门大学聘书诗三首.txt",
+      "line": 3
+    },
+    "crossReferences": [
+      "book7-2011-03-31-receives-xiamen-university-honorary-professorship"
+    ]
+  }
+]

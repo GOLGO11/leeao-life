@@ -1,28 +1,56 @@
 # 李敖交互式年表接手摘要
 
-生成日期：2026-05-03
+生成日期：2026-05-04
 
 这份摘要是给下一位 agent 直接接手用的快速入口。
 固定规则、字段定义、长段历史背景、旧书 keep-out 细节，仍以 [DEVELOPMENT_HANDOFF.md](/home/aihuashanying/leeao-life/DEVELOPMENT_HANDOFF.md) 为准；这份摘要只保留“现在立刻开工最需要知道的事”。
 
 ---
 
+### 《李敖杂文集》第二轮新增 2 条
+
+- 1966-01-01：文星书店在台北日、晚报刊广告，预告二月出版李敖参与编成的《韩福瑞和他的思想》。
+- 1997年义卖活动期间：李敖写《义助慰安妇》作为“李敖百件珍藏义卖活动专辑缘起”。
+- 复核结论：007 法轮功、008 阿扁、009 厦大诗未找到更强署日；008 改挂 2000-05-20 后的下限锚点。
+- 下一轮建议：第三轮最终收束，回扫 001-015 是否仍有被误判为纯评论的李敖动作；若无新增，即转入下一本。
+
+### 《李敖杂文集》第三轮 closeout 新增 5 条
+
+- 1984-01-07 前：邓维贤约李敖为复刊《政治家》开“李敖答问”专栏，李敖同意。
+- 1984-01-07：李敖宣布此后长篇专文只收在《千秋评论》或《万岁评论》。
+- 1999-09-01：李敖在《杨澜工作室》谈抢救中文并提出《李敖中文大句典》。
+- 2000-03-13：李敖在电子报中说已与远流出版社签约，三年内编《李敖中文大句典》。
+- 2001-09-11 后：李敖在《李敖大哥大》讲《台大校长不要脸》，批陈维昭延任与拒证。
+- 本书 001-015 已完成阶段性 closeout；下一轮建议转入 `015.千秋万岁编外集` 第一轮。
+
+## 2026-05-04 当前接手快照
+
+- 当前主线：已完成《李敖杂文集》第三轮 closeout。
+- 当前文件：`data/timeline-events-li-ao-zawenji.json`，27 条。
+- 当前总事件数：`2151`。
+- 当前最新日志：`iteration: 203`。
+- 当前数据版本：`2026-05-04-li-ao-zawenji-round-03-closeout`。
+- 当前导出表头应为：`事件总数：2151`。
+- 全库校验：files=36,total=2151,dups=0,badShape=0,badDates=0,missingRefs=0。
+- 下一轮建议：转入下一本 `015.千秋万岁编外集` 第一轮，先列目录、扫署日/节目日期/专栏日期，再建立写作骨架和正文动作层。
+
+
 ## 一、当前快照
 
 - 项目路径：`/home/aihuashanying/leeao-life`
-- 当前总事件数：**2124**
-- 当前最新轮次：`iteration: 200`
-- 当前数据版本：`2026-05-03-qianqiu-wansui-round-11-closeout`
+- 当前总事件数：**2151**
+- 当前最新轮次：`iteration: 203`
+- 当前数据版本：`2026-05-04-li-ao-zawenji-round-03-closeout`
 - 当前纯文本总表：`exports/leeao-current-timeline.txt`
 - 当前前端版本：
-  - `app.js` 的 `dataVersion`：`2026-05-03-qianqiu-wansui-round-11-closeout`
-  - `index.html` 的 CSS / JS query param：`2026-05-03-qianqiu-wansui-round-11-closeout`
+  - `app.js` 的 `dataVersion`：`2026-05-04-li-ao-zawenji-round-03-closeout`
+  - `index.html` 的 CSS / JS query param：`2026-05-04-li-ao-zawenji-round-03-closeout`
 
 当前全库校验应维持：
 
 ```json
 {
-  "events": 2124,
+  "events": 2144,
   "dups": 0,
   "missingRefs": 0,
   "structuralBad": 0
@@ -44,7 +72,7 @@
 - 既有《你笨蛋，你笨蛋》数据文件维持 44 条 closeout 状态，不要回退。
 - `data/timeline-events-dream-awake.json` 第六轮 closeout 后保持 17 条。
 - `data/timeline-events-li-ao-xinkan.json` 第五轮 closeout 已推进到 71 条。
-- `data/timeline-events-qianqiu-wansui-wuya-qiushi.json` 第十一轮 closeout 已完成，当前 331 条。
+- `data/timeline-events-qianqiu-wansui-wuya-qiushi.json` 第十一轮 closeout 已完成，上一主线 331 条。当前主线为 `data/timeline-events-li-ao-zawenji.json` 第三轮 closeout 27 条。
 
 ---
 
@@ -84,7 +112,7 @@
 ### 当前状态
 
 - 当前文件：`data/timeline-events-qianqiu-wansui-wuya-qiushi.json`
-- 当前条目数：**331**
+- 上一主线条目数：**331**；当前《李敖杂文集》条目数：**27**
 - 当前轮次：**第十一轮 closeout 完成**
 - 当前口径：前三轮完成稳定署日、正文动作与 `051` 上半/独立出版补缝；第四轮继续 `051` 下半，补齐《千秋评论》逐期出版层，并将《万岁评论》按来源精度收为范围组节点；第五轮补正文动作并加固旧库强锚点补源互链；第六轮处理 `061-090`，补密集署期写作、法律文书、通信会面与出版审查日常；第七轮处理 `091-120`，补全浮生一粲系列、胡茵梦/萧孟能旧案、预官记趣、夜归题记、静宜/逢甲讲演和全美华人协会答辞；第八轮处理 `121-150`，补署日短评、傅朝枢电传证据、殷海光后事对照和李敖待客日常；第九轮处理 `151-180`，补来台四十周年、求是报定价、释昭慧通信、林正杰旧信和《千秋评论》赶稿；第十轮处理 `181-192`（目录只到 192），补牢中札记、殷海光信件/就医/筹款、《求是报》赵少康投书、王善从报告与孙立人案出版链；第十一轮 closeout 回扫 `001-192`，补 `010 / 011` 漏项与旧链补源，并明确剩余零覆盖章节的 keep-out。
 - 已收/复核章节：`001-060`，其中 `051` 已完成两轮专题拆分。
@@ -280,7 +308,7 @@
 
 ### 下一轮建议顺序
 
-当前主线《千秋万岁乌鸦求是合集》已完成第十一轮 closeout，累计 331 条。下一步最自然是转入 `014.李敖杂文集` 第一轮；开轮先列目录、做署日扫描，再建立写作骨架和正文动作层。
+当前主线已完成《李敖杂文集》第三轮 closeout，累计 27 条；《千秋万岁乌鸦求是合集》作为上一主线已以 331 条 closeout。下一步最自然是做《李敖杂文集》第二轮 closeout/复核，重点查 006 / 007 / 008 / 009 / 010 / 011 的可升级日期与跨书强锚点。
 
 ### 下一轮具体在找什么
 
@@ -337,7 +365,7 @@
 
 先确认这些值没有漂：
 
-- 总事件数：`2124`
+- 总事件数：`2151`
 - `《求是新语》`：`70`
 - `《我是天安门》`：`40`
 - `《你是景福门》`：`57`
@@ -346,8 +374,8 @@
 - `《我梦碎，所以我梦醒》`：`17`
 - `《李敖新刊》`：`71`
 - `《千秋万岁乌鸦求是合集》`：`331`
-- `dataVersion = 2026-05-03-qianqiu-wansui-round-11-closeout`
-- `exports/leeao-current-timeline.txt` 表头：`事件总数：2124`
+- `dataVersion = 2026-05-04-li-ao-zawenji-round-03-closeout`
+- `exports/leeao-current-timeline.txt` 表头：`事件总数：2151`
 
 ### 快速命令
 
@@ -385,12 +413,13 @@ node --check tools/export-timeline-text.mjs
 
 ```json
 {
-  "events": 2124,
+  "events": 2144,
   "freedom": 53,
   "niBendan": 44,
   "dreamAwake": 17,
   "liAoXinkan": 71,
   "qianqiuWansui": 331,
+  "liAoZawenji": 27,
   "dups": 0,
   "missingRefs": 0,
   "structuralBad": 0
@@ -401,4 +430,4 @@ node --check tools/export-timeline-text.mjs
 
 ## 十、一句话交给下一位
 
-> **《千秋万岁乌鸦求是合集》已完成第十一轮 closeout：累计 331 条；全目录 `001-192` 已做覆盖审计，补 `010 / 011` 漏项与旧链补源，剩余零覆盖章节已明确 keep-out。下一位默认转入 `014.李敖杂文集` 第一轮，先列目录与署日扫描，再建写作骨架和正文动作层。**
+> **《李敖杂文集》已完成第三轮 closeout：累计 27 条并接入总表，当前总数 2151；《千秋万岁乌鸦求是合集》上一主线已 331 条 closeout。下一位默认做《李敖杂文集》第二轮 closeout/复核，重点查 006 / 007 / 008 / 009 / 010 / 011 的可升级日期与跨书强锚点。**

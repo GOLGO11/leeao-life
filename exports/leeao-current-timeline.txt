@@ -1,9 +1,9 @@
 ﻿李敖交互式年表：当前增量纯文本备份
-生成日期：2026-05-03
-事件总数：2124
-数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json；data/timeline-events-ni-bendan.json；data/timeline-events-dream-awake.json；data/timeline-events-li-ao-xinkan.json；data/timeline-events-qianqiu-wansui-wuya-qiushi.json
+生成日期：2026-05-04
+事件总数：2151
+数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json；data/timeline-events-ni-bendan.json；data/timeline-events-dream-awake.json；data/timeline-events-li-ao-xinkan.json；data/timeline-events-qianqiu-wansui-wuya-qiushi.json；data/timeline-events-li-ao-zawenji.json
 说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。
-日期精度统计：day=1721；year=92；year-range=11；undated-range=1；undated-context=140；season=26；lunar-day=1；year-after=7；month=47；half-year=2；school-year-context=5；day-range=14；month-after=3；year-context=13；day-after=4；year-about=5；after-date-context=4；month-context=3；day-context=5；range-context=13；before-date-context=6；year-end=1
+日期精度统计：day=1739；year=92；year-range=11；undated-range=1；undated-context=140；season=26；lunar-day=1；year-after=7；month=47；half-year=2；school-year-context=5；day-range=14；month-after=3；year-context=15；day-after=4；before-date-context=9；year-about=5；after-date-context=8；month-context=3；day-context=5；range-context=13；year-end=1
 
 
 1935
@@ -1365,6 +1365,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/005.我与胡适的“微妙关系”.txt
   数据：data/timeline-events-second-book.json#book2-1952-10-01-letter-to-hu-shih
+- 1952年10月31日 | 台中一中李敖在《联合报》发表《我的希望》
+  精度：day；可靠度：confirmed；排序日期：1952-10-31
+  摘要：《我的希望》文末标注“台中一中李敖（1952-10-31/联合报/06版/）”。这是李敖中学时期以救国团特刊语境发表的早年文字，主张少喊口号、各司其事。
+  人物：李敖
+  地点：台中、台湾
+  标签：李敖杂文集、我的希望、联合报、台中一中、1952
+  视图：写作线、出版线
+  作品：我的希望、联合报、李敖杂文集
+  交叉引用：-
+  来源：李敖杂文集 / 001.我的希望 / line 17
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/001.我的希望.txt
+  数据：data/timeline-events-li-ao-zawenji.json#li-ao-zawenji-1952-10-31-my-hope-united-daily
 - 1952年 | 文星书店创办
   精度：year；可靠度：broad；排序日期：1952-01-01
   摘要：李敖回顾文星时写到，文星书店创办于1952年，后来与《文星》杂志共同成为他介入文化出版的重要平台。
@@ -6690,9 +6703,9 @@
   标签：文星、停刊、高玉树、言论管制
   视图：文星线、出版线、政治线
   作品：文星、我们对国法党限的严正表示、李敖快意恩仇录
-  交叉引用：book2-1965-12-26-letter-to-yin-haiguang-wenxing-ban
+  交叉引用：book2-1965-12-26-letter-to-yin-haiguang-wenxing-ban、li-ao-zawenji-1966-before-feb-xiao-mengneng-humphrey-preface-written-by-li、li-ao-zawenji-1966-01-01-wenxing-ad-humphrey-book
   来源：李敖快意恩仇录 / 008.星火纪 / line 11
-  补充来源：-
+  补充来源：李敖杂文集 / 011.关于韩福瑞和他的思想 / line 9；李敖杂文集 / 011.关于韩福瑞和他的思想 / line 11
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/008.星火纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1965-12-27-wenxing-one-year-suspension
 - 1965年12月28日 | 《纽约时报》请李敖写《文星》停刊新闻稿
@@ -6892,6 +6905,19 @@
   数据：data/timeline-events-freedom-summoning.json#freedom-summoning-1959-1965-ye-mingxun-hides-li-ziyi-invitation
 
 1966
+- 1966年1月1日 | 文星书店刊广告预告出版李敖参与编成的《韩福瑞和他的思想》
+  精度：day；可靠度：confirmed；排序日期：1966-01-01
+  摘要：李敖代写的《关于韩福瑞和他的思想》序文写，文星杂志因1965年12月27日停刊，韩福瑞封面人物的第九十九期无法出版；另一方面，文星书店在1966年1月1日台北日、晚报刊登广告，预告二月出版《韩福瑞和他的思想》。这条补出李敖参与小册编纂链中的公开预告节点。
+  人物：李敖、萧孟能、韩福瑞、陈香梅、胡汝森
+  地点：台北、台湾
+  标签：韩福瑞和他的思想、文星书店、台北日、晚报、韩福瑞、1966
+  视图：出版线、文星线、写作线
+  作品：韩福瑞和他的思想、关于韩福瑞和他的思想、我所知道的韩福瑞、李敖杂文集
+  交叉引用：li-ao-zawenji-1966-before-feb-xiao-mengneng-humphrey-preface-written-by-li、li-ao-zawenji-1966-before-feb-chen-xiangmei-humphrey-article-rewritten-by-li、book5-1965-12-27-wenxing-one-year-suspension
+  来源：李敖杂文集 / 011.关于韩福瑞和他的思想 / line 11
+  补充来源：李敖杂文集 / 011.关于韩福瑞和他的思想 / line 13
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/011.关于韩福瑞和他的思想.txt
+  数据：data/timeline-events-li-ao-zawenji.json#li-ao-zawenji-1966-01-01-wenxing-ad-humphrey-book
 - 1966年1月12日 | 李敖写《一个最起码又最低调的标准》
   精度：day；可靠度：confirmed；排序日期：1966-01-12
   摘要：《一个最起码又最低调的标准》署1966年1月12日，围绕报禁和舆论家对同业受难的最低记录义务提出要求。
@@ -7451,6 +7477,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/005.“北土非吾愿，东林怀我师”.txt
   数据：data/timeline-events-first-book-broad.json#1966-books-banned
+- 1966年2月前后（《韩福瑞和他的思想》出版前） | 李敖代写萧孟能《关于韩福瑞和他的思想》序文，并参与小册编成
+  精度：before-date-context；可靠度：confirmed；排序日期：1966-02-28
+  摘要：《关于韩福瑞和他的思想》前注引李敖《“洁本”云乎哉？》说，署名萧孟能的序文其实是李敖所写；正文又说文星书店1966年1月1日登广告，预告2月出版《韩福瑞和他的思想》，在胡汝森设计下小册子完成。
+  人物：李敖、萧孟能、韩福瑞、胡汝森
+  地点：台湾
+  标签：关于韩福瑞和他的思想、萧孟能、韩福瑞、文星书店、洁本云乎哉、1966
+  视图：写作线、出版线、文星线
+  作品：关于韩福瑞和他的思想、韩福瑞和他的思想、“洁本”云乎哉？、李敖杂文集
+  交叉引用：book2-broad-1986-09-10-clean-version-written、book5-1965-12-27-wenxing-one-year-suspension、li-ao-zawenji-1966-01-01-wenxing-ad-humphrey-book
+  来源：李敖杂文集 / 011.关于韩福瑞和他的思想 / line 3
+  补充来源：李敖杂文集 / 011.关于韩福瑞和他的思想 / line 11；李敖杂文集 / 011.关于韩福瑞和他的思想 / line 13；李敖杂文集 / 011.关于韩福瑞和他的思想 / line 7
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/011.关于韩福瑞和他的思想.txt
+  数据：data/timeline-events-li-ao-zawenji.json#li-ao-zawenji-1966-before-feb-xiao-mengneng-humphrey-preface-written-by-li
+- 1966年2月前后（《韩福瑞和他的思想》出版前） | 李敖连改带写陈香梅《我所知道的韩福瑞》
+  精度：before-date-context；可靠度：confirmed；排序日期：1966-02-28
+  摘要：《我所知道的韩福瑞》前注引李敖《“洁本”云乎哉？》说，署名陈香梅的《我所知道的韩福瑞》其实是李敖连改带写：原稿经他删改后剩1841字，他又加写1634字。
+  人物：李敖、陈香梅、韩福瑞
+  地点：台湾
+  标签：我所知道的韩福瑞、陈香梅、韩福瑞、洁本云乎哉、文星、1966
+  视图：写作线、文星线
+  作品：我所知道的韩福瑞、韩福瑞和他的思想、“洁本”云乎哉？、李敖杂文集
+  交叉引用：book2-broad-1986-09-10-clean-version-written、li-ao-zawenji-1966-01-01-wenxing-ad-humphrey-book
+  来源：李敖杂文集 / 010.我所知道的韩福瑞 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/010.我所知道的韩福瑞.txt
+  数据：data/timeline-events-li-ao-zawenji.json#li-ao-zawenji-1966-before-feb-chen-xiangmei-humphrey-article-rewritten-by-li
 - 1966年9月1日、5日、8日 | 《中央日报》按约刊出李敖前三次广告
   精度：day-range；可靠度：confirmed；排序日期：1966-09-01
   摘要：《一封存证信的故事》所收1966年10月5日存证信说明，《中央日报》对李敖广告原定9月1日、5日、8日、10月1日、3日（或4日）刊出，其中前三次均已准时刊出。这条补出双方关系尚未彻底翻脸前的广告履约层。
@@ -8191,9 +8243,9 @@
   标签：古书新见、中华古籍丛刊、序、1968、李敖文存
   视图：写作线、作品线、出版线
   作品：古书新见、中华古籍丛刊、李敖文存
-  交叉引用：-
+  交叉引用：li-ao-zawenji-1974-06-15-prison-letter-on-book-censorship-and-guji-set
   来源：李敖文存 / 014.古书新见 / line 27
-  补充来源：-
+  补充来源：李敖杂文集 / 002.狱中书信两封 / line 35
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/004.李敖文存/014.古书新见.txt
   数据：data/timeline-events-wencun.json#wencun-1968-04-30-zhonghua-guji-congkan-preface
 - 1968年5月13日 | 施启扬电话告知《大公报》文星集团文章
@@ -9534,6 +9586,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/006.波波颂/006.活在湿度计里.txt
   数据：data/timeline-events-bobo-song.json#bobo-song-1974-06-02-hygrometer
+- 1974年6月15日 | 李敖在狱中写信谈书刊检查，并请求购买《中华古籍丛刊》
+  精度：day；可靠度：confirmed；排序日期：1974-06-15
+  摘要：《狱中书信两封》第一封署“六三、六、十五。敖之”。李敖说明所内书刊检查管制办法改变，朋友寄书多不能通过，建议改由所方代买，并请对方买一套《中华古籍丛刊》，另附“凭此单提中华古籍丛刊壹套”。
+  人物：李敖、段宏俊
+  地点：台湾
+  标签：狱中书信两封、中华古籍丛刊、书刊检查、监狱、1974
+  视图：通信线、监所线、读书线
+  作品：狱中书信两封、中华古籍丛刊、李敖杂文集
+  交叉引用：wencun-1968-04-30-zhonghua-guji-congkan-preface
+  来源：李敖杂文集 / 002.狱中书信两封 / line 27
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/002.狱中书信两封.txt
+  数据：data/timeline-events-li-ao-zawenji.json#li-ao-zawenji-1974-06-15-prison-letter-on-book-censorship-and-guji-set
 - 1974年7月7日夜狱中作 | 李敖在狱中作《孤独与鬼》
   精度：day；可靠度：confirmed；排序日期：1974-07-07
   摘要：《孤独与鬼》署1974年7月7日夜狱中作，把李敖狱中诗作推进到1974年7月。
@@ -9614,6 +9679,19 @@
   数据：data/timeline-events-ni-bendan.json#ni-bendan-1974-undated-writes-forgot-who-i-am-in-prison
 
 1975
+- 1975年1月11日夜 | 李敖在狱中写信安排卖书、封存台中老家，并记身体与家事困扰
+  精度：day；可靠度：confirmed；排序日期：1975-01-11
+  摘要：《狱中书信两封》第二封署“敖之六四、一、十一夜”。李敖谈除夕信、卖书款、台中老家与书房清理，提到托丁颖处理书物、请孟南下，又写到九月间总医院检查肺囊肿、血压高到160，以及小八出狱后的家事烦扰。
+  人物：李敖、萧孟能、丁颖、小八
+  地点：台湾、台中
+  标签：狱中书信两封、丁颖、萧孟能、台中老家、身体、1975
+  视图：通信线、监所线、日常线、家庭线
+  作品：狱中书信两封、李敖杂文集
+  交叉引用：-
+  来源：李敖杂文集 / 002.狱中书信两封 / line 45
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/002.狱中书信两封.txt
+  数据：data/timeline-events-li-ao-zawenji.json#li-ao-zawenji-1975-01-11-prison-letter-on-books-house-health-and-family
 - 1975年4月25日 | 刘辰旦托姐姐送生日蛋糕给狱中的李敖
   精度：day；可靠度：confirmed；排序日期：1975-04-25
   摘要：李敖回忆，1975年4月25日他在小房里看书时，班长送进生日蛋糕，原来是刘辰旦请姐姐特地买来送给他的。
@@ -14169,6 +14247,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/020.前程（1997-·62岁以后）.txt
   数据：data/timeline-events-fourth-book.json#book4-1984-01-05-writes-put-her-far-away
+- 1984年1月7日 | 李敖写《〈政治家〉开“李敖答问”专栏缘起》
+  精度：day；可靠度：confirmed；排序日期：1984-01-07
+  摘要：《〈政治家〉开“李敖答问”专栏缘起》署1984年1月7日。文中写《政治家》停刊一年后即将复刊，邓维贤约李敖开“李敖答问”专栏，李敖同意每期回答海内外读者提问。
+  人物：李敖、邓维贤
+  地点：台湾
+  标签：政治家、李敖答问、邓维贤、1984
+  视图：写作线、媒体线
+  作品：政治家、李敖答问、〈政治家〉开“李敖答问”专栏缘起、李敖杂文集
+  交叉引用：li-ao-zawenji-1984-before-jan-07-deng-weixian-invites-li-ao-qa-column、li-ao-zawenji-1984-01-07-announces-long-essays-only-qianqiu-wansui
+  来源：李敖杂文集 / 015.《政治家》开“李敖答问”专栏缘起 / line 43
+  补充来源：李敖杂文集 / 015.《政治家》开“李敖答问”专栏缘起 / line 41
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/015.《政治家》开“李敖答问”专栏缘起.txt
+  数据：data/timeline-events-li-ao-zawenji.json#li-ao-zawenji-1984-01-07-writes-politicalist-li-ao-qa-column-origin
+- 1984年1月7日 | 李敖宣布此后长篇专文只收在《千秋评论》或《万岁评论》
+  精度：day；可靠度：confirmed；排序日期：1984-01-07
+  摘要：在《〈政治家〉开“李敖答问”专栏缘起》末尾，李敖说明因已为《政治家》开“李敖答问”专栏，此后的长篇大论专文将只收在《千秋评论》或《万岁评论》里，“一律内销”“只此两家，别无分号”。这是他对专栏答问与长文发表渠道的公开安排。
+  人物：李敖
+  地点：台湾
+  标签：政治家、李敖答问、千秋评论、万岁评论、1984
+  视图：出版线、写作线、媒体线
+  作品：政治家、李敖答问、千秋评论、万岁评论、〈政治家〉开“李敖答问”专栏缘起、李敖杂文集
+  交叉引用：li-ao-zawenji-1984-01-07-writes-politicalist-li-ao-qa-column-origin
+  来源：李敖杂文集 / 015.《政治家》开“李敖答问”专栏缘起 / line 41
+  补充来源：李敖杂文集 / 015.《政治家》开“李敖答问”专栏缘起 / line 43
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/015.《政治家》开“李敖答问”专栏缘起.txt
+  数据：data/timeline-events-li-ao-zawenji.json#li-ao-zawenji-1984-01-07-announces-long-essays-only-qianqiu-wansui
 - 1984年1月8日 | 《活爸·死爸·黑》在标示出书日前即遭提前查禁
   精度：day；可靠度：confirmed；排序日期：1984-01-08
   摘要：《李敖著作查禁清单及官方理由》明确标注，《千秋评论28：活爸·死爸·黑》标示出书日为1984年1月10日，但已在1984年1月8日遭以（73）隆彻字第0073号查禁。与此前已入库的《老儿·小儿·病》《钞票·肚皮·尿》《大使·老鼠·怕》连看，这条继续把‘查禁早于出书’的行政预先封堵模式从1983年延伸到1984年初，说明这一模式并非偶发。
@@ -14195,6 +14299,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/051.李敖著作年表.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1984-01-10-051-qianqiu-review-28
+- 1984年1月16日 | 《民主人》第24期刊出《〈政治家〉开“李敖答问”专栏缘起》
+  精度：day；可靠度：confirmed；排序日期：1984-01-16
+  摘要：《〈政治家〉开“李敖答问”专栏缘起》文末标注“民主人第24期 1984年1月16日”。这条保留“李敖答问”专栏缘起文字的报刊发表层。
+  人物：李敖、邓维贤
+  地点：台湾
+  标签：民主人、政治家、李敖答问、1984
+  视图：出版线、媒体线
+  作品：民主人、政治家、李敖答问、〈政治家〉开“李敖答问”专栏缘起、李敖杂文集
+  交叉引用：li-ao-zawenji-1984-01-07-writes-politicalist-li-ao-qa-column-origin、li-ao-zawenji-1984-before-jan-07-deng-weixian-invites-li-ao-qa-column
+  来源：李敖杂文集 / 015.《政治家》开“李敖答问”专栏缘起 / line 45
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/015.《政治家》开“李敖答问”专栏缘起.txt
+  数据：data/timeline-events-li-ao-zawenji.json#li-ao-zawenji-1984-01-16-minzhuren-publishes-li-ao-qa-column-origin
 - 1984年1月26日 | 李敖写《江南，根本没有春天》
   精度：day；可靠度：confirmed；排序日期：1984-01-26
   摘要：《江南，根本没有春天》署1984年1月26日，借评蒋芸《江南，再也没有春天》反驳梦境式乡愁，主张面对真实中国而不是陶醉旧梦。
@@ -14962,6 +15079,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/003.张宗昌，我梦到了你！.txt
   数据：data/timeline-events-freedom-summoning.json#freedom-summoning-1984-01-04-publishes-dreamed-zhang-zongchang-in-qianqiu-series
+- 1984年1月7日前（据缘起署日） | 邓维贤约李敖为复刊《政治家》开“李敖答问”专栏，李敖同意
+  精度：before-date-context；可靠度：confirmed；排序日期：1984-01-07
+  摘要：《〈政治家〉开“李敖答问”专栏缘起》写，《政治家》停刊一年后即将复刊，邓维贤把半月刊改为周刊，并约李敖开新专栏；李敖说自己“情不可却、义不容辞，自然遵命，说开就开”。本条补出专栏成立前的邀约与同意动作。
+  人物：李敖、邓维贤
+  地点：台湾
+  标签：政治家、李敖答问、邓维贤、专栏、1984
+  视图：媒体线、写作线、交游线
+  作品：政治家、李敖答问、〈政治家〉开“李敖答问”专栏缘起、李敖杂文集
+  交叉引用：li-ao-zawenji-1984-01-07-writes-politicalist-li-ao-qa-column-origin、li-ao-zawenji-1984-01-16-minzhuren-publishes-li-ao-qa-column-origin
+  来源：李敖杂文集 / 015.《政治家》开“李敖答问”专栏缘起 / line 3
+  补充来源：李敖杂文集 / 015.《政治家》开“李敖答问”专栏缘起 / line 5
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/015.《政治家》开“李敖答问”专栏缘起.txt
+  数据：data/timeline-events-li-ao-zawenji.json#li-ao-zawenji-1984-before-jan-07-deng-weixian-invites-li-ao-qa-column
 - 1984年1月 | 李敖开始出版《万岁评论》
   精度：month；可靠度：confirmed；排序日期：1984-01-31
   摘要：李敖在“笔伐”章说明，自1984年1月起他又加出《万岁评论》，与《千秋评论》错开出版，形成几乎每半个月出书一册的节奏。
@@ -16170,9 +16300,9 @@
   标签：文星复刊、萧孟能、写作
   视图：出版线、论战线
   作品：“洁本”云乎哉？
-  交叉引用：-
+  交叉引用：li-ao-zawenji-1966-before-feb-chen-xiangmei-humphrey-article-rewritten-by-li、li-ao-zawenji-1966-before-feb-xiao-mengneng-humphrey-preface-written-by-li
   来源：李敖自传与回忆续集 / 032.“洁本”云乎哉？ / line 15
-  补充来源：-
+  补充来源：李敖杂文集 / 010.我所知道的韩福瑞 / line 3；李敖杂文集 / 011.关于韩福瑞和他的思想 / line 3
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/032.“洁本”云乎哉？.txt
   数据：data/timeline-events-second-book-broad.json#book2-broad-1986-09-10-clean-version-written
 - 1986年9月16日 | 署写《银纸包个臭皮蛋》
@@ -18092,6 +18222,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/010.我最难忘的一个将军.txt
   数据：data/timeline-events-third-book.json#book3-1989-03-03-song-sends-materials
+- 1989年3月4日 | 李敖写札记《快乐与技术》
+  精度：day；可靠度：confirmed；排序日期：1989-03-04
+  摘要：《李敖札记》中《快乐与技术》署1989年3月4日。李敖把快乐视为“里应外合”的技术问题，认为形式、程序可以影响实质。
+  人物：李敖
+  地点：台湾
+  标签：李敖札记、快乐与技术、1989
+  视图：写作线、思想线
+  作品：李敖札记、快乐与技术、李敖杂文集
+  交叉引用：-
+  来源：李敖杂文集 / 003.李敖札记 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/003.李敖札记.txt
+  数据：data/timeline-events-li-ao-zawenji.json#li-ao-zawenji-1989-03-04-note-happiness-and-technique
+- 1989年3月4日 | 李敖写札记《泪痕犹在，已见笑脸》
+  精度：day；可靠度：confirmed；排序日期：1989-03-04
+  摘要：《李敖札记》中《泪痕犹在，已见笑脸》署1989年3月4日。李敖写重大不快事件后，自己可在一小时内平定不快乐，并以小孩子泪痕犹在已见笑脸作对照。
+  人物：李敖
+  地点：台湾
+  标签：李敖札记、泪痕犹在，已见笑脸、1989
+  视图：写作线、日常线
+  作品：李敖札记、泪痕犹在，已见笑脸、李敖杂文集
+  交叉引用：-
+  来源：李敖杂文集 / 003.李敖札记 / line 9
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/003.李敖札记.txt
+  数据：data/timeline-events-li-ao-zawenji.json#li-ao-zawenji-1989-03-04-note-tears-and-smile
 - 1989年3月6日 | 李敖写《“文化种猪”接种记》
   精度：day；可靠度：confirmed；排序日期：1989-03-06
   摘要：《“文化种猪”接种记》署1989年3月6日。李敖在这篇文字中延续《千秋万岁乌鸦求是合集》的政论、读书札记或杂文写作脉络，留下一个可定位的写作节点。
@@ -18118,6 +18274,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/018.笔伐（1982-1992·47到57岁）.txt
   数据：data/timeline-events-fourth-book.json#book4-1989-03-06-last-phone-call-with-zheng-nanjung
+- 1989年3月14日 | 李敖看丁乃竺电视谈密宗，并追记丁乃竺、胡茵梦曾到家中
+  精度：day；可靠度：confirmed；排序日期：1989-03-14
+  摘要：《李敖札记》中《美女与妖妄》署1989年3月14日。李敖早上看电视节目中丁乃竺谈密宗，联想到多年前丁乃竺与胡茵梦到家里来的情景，并批评迷信与妖妄。
+  人物：李敖、丁乃竺、胡茵梦
+  地点：台湾
+  标签：李敖札记、丁乃竺、胡茵梦、密宗、1989
+  视图：日常线、交游线、写作线
+  作品：李敖札记、美女与妖妄、李敖杂文集
+  交叉引用：-
+  来源：李敖杂文集 / 003.李敖札记 / line 13
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/003.李敖札记.txt
+  数据：data/timeline-events-li-ao-zawenji.json#li-ao-zawenji-1989-03-14-note-ding-naizhu-tv-and-hu-yinmeng-memory
 - 1989年3月16日 | 李敖写《林洋港的无耻》
   精度：day；可靠度：confirmed；排序日期：1989-03-16
   摘要：《林洋港的无耻》署1989年3月16日。李敖延续对林洋港介入朱高正传讯等司法问题的批评。
@@ -18170,6 +18339,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/012.李敖新刊/《李敖新刊》总序.txt
   数据：data/timeline-events-li-ao-xinkan.json#liao-xinkan-1989-03-24-writes-general-preface
+- 1989年3月24日晚饭前 | 黄三晚饭前问李敖搞国民党是否有效，李敖答“志在一搞”
+  精度：day；可靠度：confirmed；排序日期：1989-03-24
+  摘要：《李敖札记》中《是必为也，非必能也》署1989年3月24日。晚饭前黄三问李敖“这样搞国民党有效吗”，李敖以粗口笑答重点在“志在一搞”，黄三大笑。
+  人物：李敖、黄三
+  地点：台湾
+  标签：李敖札记、黄三、国民党、晚饭前、1989
+  视图：日常线、政治线、交游线
+  作品：李敖札记、是必为也，非必能也、李敖杂文集
+  交叉引用：-
+  来源：李敖杂文集 / 003.李敖札记 / line 17
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/003.李敖札记.txt
+  数据：data/timeline-events-li-ao-zawenji.json#li-ao-zawenji-1989-03-24-dinner-huang-san-asks-about-fighting-kmt
 - 1989年3月28日 | 李敖写《民进党的司法倒车》
   精度：day；可靠度：confirmed；排序日期：1989-03-28
   摘要：《民进党的司法倒车》文末署“1989年3月28日”。李敖借张盛喜法官加入民进党，批评民进党在法官党籍问题上推翻多年理想。
@@ -18287,6 +18469,19 @@
   补充来源：千秋万岁乌鸦求是合集 / 151.非宾即客四十年 / line 3；说明：同日酒席与台中一中旧同学席次细节。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/152.李敖来台四十年.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1989-04-12-151-152-friends-dinner-forty-years-in-taiwan
+- 1989年4月13日 | 李敖记吴越潮生前在信义路口谈国民党好人与坏人
+  精度：day；可靠度：confirmed；排序日期：1989-04-13
+  摘要：《李敖札记》中《坏的好人》署1989年4月13日。李敖记吴越潮生前曾在信义路口对他说，国民党有很多坏人，也有好人；李敖由此评论“帮助国民党作恶的好人”只是“坏的好人”。
+  人物：李敖、吴越潮
+  地点：信义路口、台湾
+  标签：李敖札记、吴越潮、信义路口、国民党、1989
+  视图：日常线、政治线、交游线
+  作品：李敖札记、坏的好人、李敖杂文集
+  交叉引用：-
+  来源：李敖杂文集 / 003.李敖札记 / line 21
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/003.李敖札记.txt
+  数据：data/timeline-events-li-ao-zawenji.json#li-ao-zawenji-1989-04-13-note-wu-yuechao-at-xinyi-road
 - 1989年4月14日 | “来台四十周年纪念演讲会”在耕莘文教院爆满举行
   精度：day；可靠度：confirmed；排序日期：1989-04-14
   摘要：1989年4月14日，李敖的“来台四十周年纪念演讲会”在耕莘文教院举行，场内外人山人海，演讲后签名卖书一下卖空五十万元，并由黄菊文特别安排便衣暗中保护。
@@ -18794,6 +18989,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/007.我是天安门/009.从法国大革命看中国.txt
   数据：data/timeline-events-woshi-tiananmen.json#woshi-tiananmen-1989-07-14-french-revolution-and-china
+- 1989年7月18日 | 李敖写《退孙中山的票》
+  精度：day；可靠度：confirmed；排序日期：1989-07-18
+  摘要：《退孙中山的票》文末署1989年7月18日。李敖借孙中山等人1900年致香港总督书与陪审制承诺，批评国民党长期没有兑现司法改革。
+  人物：李敖、孙中山、林洋港
+  地点：台湾
+  标签：退孙中山的票、孙中山、陪审制、国民党、1989
+  视图：写作线、政治线、司法线
+  作品：退孙中山的票、李敖杂文集
+  交叉引用：-
+  来源：李敖杂文集 / 005.退孙中山的票 / line 21
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/005.退孙中山的票.txt
+  数据：data/timeline-events-li-ao-zawenji.json#li-ao-zawenji-1989-07-18-writes-return-sun-yatsen-ticket
 - 1989年7月19日 | 李敖写《我要吻周联华》展示玩世式政治讽刺
   精度：day；可靠度：confirmed；排序日期：1989-07-19
   摘要：《志留纪》写，李敖1989年7月19日写《我要吻周联华》，以盯住周联华、马英九、许水德、连战等人物的方式展示自己玩世、夸张而尖锐的政治讽刺。
@@ -23705,6 +23913,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/019.口诛（1993-·58岁至今）.txt
   数据：data/timeline-events-fourth-book-deepening.json#book4-deep-1994-12-13-letter-to-wang-qinglin-after-zhang-illness
+- 1994年4月17日后 | 李敖在官司中请陈维昭为殷海光遭台大迫害作证，陈维昭写信拒绝
+  精度：after-date-context；可靠度：inferred；排序日期：1994-04-17
+  摘要：《台大校长不要脸》写，1994年4月17日《自立晚报》刊出陈维昭称殷海光因批评国民党而被撵出台大教职；后来李敖打官司，请陈维昭来作证，陈维昭却写信给法院称社务繁忙、不克到场。
+  人物：李敖、陈维昭、殷海光
+  地点：台湾大学、台湾
+  标签：台大校长不要脸、陈维昭、殷海光、作证、台大、1994
+  视图：司法线、政治线、殷海光线
+  作品：台大校长不要脸、李敖杂文集
+  交叉引用：book6-2005-04-06-scolds-university-presidents-in-water-fertilizer-incident、li-ao-zawenji-2001-after-sep-11-talks-ntu-president-shameless
+  来源：李敖杂文集 / 004.台大校长不要脸 / line 21
+  补充来源：李敖大哥大 / 059.台大校长不要脸 / line 59
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/004.台大校长不要脸.txt
+  数据：data/timeline-events-li-ao-zawenji.json#li-ao-zawenji-1994-after-apr-17-asks-chen-weizhao-testify-yin-haiguang-case
 
 1995
 - 1995年2月13日 | 李敖致函东吴历史系教师追问删改批秦孝仪文字之责任
@@ -23785,6 +24006,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/013.彭尸纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1995-07-05-li-refuses-last-supper-with-peng
+- 1995年7月14日 | 李敖写给吕佳真的工作日志，要求恢复下班后书面日志
+  精度：day；可靠度：confirmed；排序日期：1995-07-14
+  摘要：《给吕佳真的工作日志》署1995年7月14日。李敖列出工作纪律，要求电话不能超过十分钟、尊重未发表文章的秘密、离开单位须告知，并从本日开始恢复工作日志，下班后放在他桌上。
+  人物：李敖、吕佳真
+  地点：台湾
+  标签：给吕佳真的工作日志、吕佳真、工作日志、1995
+  视图：日常线、工作线
+  作品：给吕佳真的工作日志、李敖杂文集
+  交叉引用：-
+  来源：李敖杂文集 / 014.给吕佳真的工作日志 / line 19
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/014.给吕佳真的工作日志.txt
+  数据：data/timeline-events-li-ao-zawenji.json#li-ao-zawenji-1995-07-14-work-log-for-lu-jiazhen
 - 1995年8月17日 | 李敖挂号致信谢长廷要求更正彭明敏辩护说法
   精度：day；可靠度：confirmed；排序日期：1995-08-17
   摘要：《彭尸纪》写，李敖看到谢长廷在《联合报》为彭明敏辩护后，于1995年8月17日挂号写信给谢长廷，要求他核对事实并更正；谢长廷次日回信。
@@ -24187,11 +24421,24 @@
   标签：慰安妇、义卖、收藏、黄阿桃、王清峰
   视图：生平线、公共行动线、收藏线
   作品：李敖风流自传
-  交叉引用：-
+  交叉引用：li-ao-zawenji-1997-context-writes-comfort-women-auction-preface
   来源：李敖风流自传 / 629.义助慰安妇 / line 3
-  补充来源：-
+  补充来源：李敖杂文集 / 006.义助慰安妇 / line 3；李敖杂文集 / 006.义助慰安妇 / line 25
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/629.义助慰安妇.txt
   数据：data/timeline-events-seventh-book.json#book7-1997-charity-auction-for-comfort-women-and-donates-proceeds
+- 1997年义卖活动期间（据旧锚点） | 李敖写《义助慰安妇》作为百件珍藏义卖活动专辑缘起
+  精度：year-context；可靠度：inferred；排序日期：1997-12-31
+  摘要：《义助慰安妇》副题为“李敖百件珍藏义卖活动专辑缘起”。文中李敖说明日本以民间团体五十万元“私了”慰安妇的卑劣，并写“我们要举办这次活动，援助慰安妇”，这条补出1997年义卖行动之外的文字发动和专辑缘起层。
+  人物：李敖
+  地点：台湾、日本
+  标签：义助慰安妇、百件珍藏义卖、慰安妇、日本、1997
+  视图：写作线、公益线、出版线
+  作品：义助慰安妇、李敖百件珍藏义卖活动专辑、李敖杂文集
+  交叉引用：book7-1997-charity-auction-for-comfort-women-and-donates-proceeds
+  来源：李敖杂文集 / 006.义助慰安妇 / line 3
+  补充来源：李敖杂文集 / 006.义助慰安妇 / line 25
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/006.义助慰安妇.txt
+  数据：data/timeline-events-li-ao-zawenji.json#li-ao-zawenji-1997-context-writes-comfort-women-auction-preface
 
 1998
 - 1998年7月6日 | 《商业周刊》刊出《李敖谈王作荣》
@@ -24339,6 +24586,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/332.胡秋原赔了五分之一退休金给我.txt
   数据：data/timeline-events-seventh-book.json#book7-1999-08-27-hu-qiuyuan-loses-final-appeal-and-must-pay-li-ao
+- 1999年9月1日 | 李敖在《杨澜工作室》谈抢救中文并提出《李敖中文大句典》
+  精度：day；可靠度：confirmed；排序日期：1999-09-01
+  摘要：1999年9月1日《杨澜工作室》中，杨澜问李敖为什么要编“句典”，李敖回答自己怕烂中文被确定，所以要抢救中文、编八百万字《李敖中文大句典》，由他确定最好的中文。此条补强《李敖中文大句典》构想书中“早就在刘长乐凤凰电视上提出句典构想”的早期公开锚点。
+  人物：李敖、杨澜、刘长乐
+  地点：台湾
+  标签：杨澜工作室、李敖中文大句典、凤凰电视、中文、1999
+  视图：访谈线、写作线、文化线
+  作品：杨澜工作室、李敖中文大句典、李敖杂文集
+  交叉引用：li-ao-zawenji-2008-09-06-writes-chinese-sentence-dictionary-plan
+  来源：李敖政论综艺集 / 008.19990901《杨澜工作室》 / line 177
+  补充来源：李敖政论综艺集 / 008.19990901《杨澜工作室》 / line 183；李敖杂文集 / 013.《李敖中文大句典》构想书 / line 5
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/012.李敖政论综艺集/008.19990901《杨澜工作室》.txt
+  数据：data/timeline-events-li-ao-zawenji.json#li-ao-zawenji-1999-09-01-yanglan-interview-chinese-sentence-dictionary
 - 1999年12月2日 | 胡秋原缴出九十二万余元支票后，李敖揭下其住宅封条
   精度：day；可靠度：confirmed；排序日期：1999-12-02
   摘要：《胡秋原赔了五分之一退休金给我》引李敖1999年12月10日日记，记12月2日胡秋原缴出“玖拾贰万柒仟贰佰陆拾壹元整”的国库支票后，李敖才揭下其住家被查封的封条。李敖把这笔赔款视为几十年恩仇中的一次痛快结算。
@@ -24378,6 +24638,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/618.我言明在先.txt
   数据：data/timeline-events-seventh-book.json#book7-1999-10-publishes-definitions-of-republic-and-president-before-run
+- 1999年（据法轮功创办七年及1998年12月25日信后） | 李敖写《为什么要声讨法轮功？》
+  精度：year-context；可靠度：inferred；排序日期：1999-12-31
+  摘要：《为什么要声讨法轮功？》据法轮功教主1998年12月25日信和“创办了只7年”的语境，可暂挂1999年。李敖把法轮功归入新兴宗教和邪教问题，赞成声讨，认为其扩散能力和走火入魔风险有爆炸性祸害。
+  人物：李敖
+  地点：台湾、中国大陆
+  标签：为什么要声讨法轮功？、法轮功、新兴宗教、1999
+  视图：写作线、政治线
+  作品：为什么要声讨法轮功？、李敖杂文集
+  交叉引用：-
+  来源：李敖杂文集 / 007.为什么要声讨法轮功？ / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/007.为什么要声讨法轮功？.txt
+  数据：data/timeline-events-li-ao-zawenji.json#li-ao-zawenji-1999-context-writes-denounce-falun-gong
 
 2000
 - 2000年1月12日 | 李敖收到魏廷朝遗孀张庆惠来信致谢慰问金
@@ -24419,6 +24692,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/476.路遇胡茵梦.txt
   数据：data/timeline-events-seventh-book.json#book7-2000-01-21-meets-hu-yinmeng-on-street-and-embraces-farewell
+- 2000年3月13日 | 李敖在电子报中说已与远流签约，三年内编《李敖中文大句典》
+  精度：day；可靠度：confirmed；排序日期：2000-03-13
+  摘要：2000年3月13日《李敖送电集》文字中，李敖谈中文、语音输入与同音字困境，说“最近我和远流出版社签了约，要在三年内编一本《李敖中文大句典》”，用句子表达语言与感情。这条补出2008年构想书之前的签约推进层。
+  人物：李敖
+  地点：台湾
+  标签：李敖中文大句典、远流出版社、李敖送电集、签约、2000
+  视图：出版线、写作线、文化线
+  作品：李敖中文大句典、李敖送电集、李敖杂文集
+  交叉引用：li-ao-zawenji-1999-09-01-yanglan-interview-chinese-sentence-dictionary、li-ao-zawenji-2008-09-06-writes-chinese-sentence-dictionary-plan
+  来源：李敖送电集 / 026.2000年3月13日 / line 45
+  补充来源：李敖杂文集 / 013.《李敖中文大句典》构想书 / line 5
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/026.2000年3月13日.txt
+  数据：data/timeline-events-li-ao-zawenji.json#li-ao-zawenji-2000-03-13-says-signed-yuanliu-for-chinese-sentence-dictionary
 - 2000年总统选举前 | 李庆华任新党主席时力排众议，推动李敖投入2000年“总统”选举
   精度：year；可靠度：confirmed；排序日期：2000-01-01
   摘要：《李庆华李庆安兄妹档》回忆，李庆华任新党党主席时，曾力排众议推李敖出来参加2000年“总统”选举。李敖把这件事视为自己在历史与记录上留下“2000年光芒的一页”的关键推动，并明确表示对李庆华一直感念。这条的价值在于补出李敖自述的政治参选推动链，而不是扩写李氏家族轶事。
@@ -24432,6 +24718,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/115.李庆华李庆安兄妹档.txt
   数据：data/timeline-events-sixth-book.json#book6-2000-01-01-li-chinghua-pushes-li-ao-to-run-in-presidential-race
+- 2000年5月20日后（陈水扁就任总统后，据来台51年语境） | 李敖写《阿扁的四条出路》
+  精度：after-date-context；可靠度：inferred；排序日期：2000-05-20
+  摘要：《阿扁的四条出路》开头写李敖在台湾住了51年，并称陈水扁“现在做了总统”。据1949年赴台和陈水扁2000年5月20日就任总统，本条改挂为就任后的下限锚点；文中分析陈水扁党内困局，并提出勾结国民党、罗福助、李登辉、宋楚瑜四条路。
+  人物：李敖、陈水扁、李登辉、宋楚瑜、邱义仁、罗福助
+  地点：台湾
+  标签：阿扁的四条出路、陈水扁、民进党、2000
+  视图：写作线、政治线
+  作品：阿扁的四条出路、李敖杂文集
+  交叉引用：-
+  来源：李敖杂文集 / 008.阿扁的四条出路 / line 3
+  补充来源：李敖杂文集 / 008.阿扁的四条出路 / line 21；李敖杂文集 / 008.阿扁的四条出路 / line 31
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/008.阿扁的四条出路.txt
+  数据：data/timeline-events-li-ao-zawenji.json#li-ao-zawenji-2000-context-writes-four-ways-out-for-chen-shui-bian
 - 2000年 | 《北京法源寺》获诺贝尔文学奖提名
   精度：year；可靠度：confirmed；排序日期：2000-12-31
   摘要：《李敖五十年表》记，李敖在2000年代表新党参选所谓“中华民国总统”的同年，其长篇历史小说《北京法源寺》获诺贝尔文学奖提名，并被写成台湾地区第一位获该奖提名的作家。对“大而全”的总年表而言，这条补的是李敖晚年作品在国际文学名望层面的公共节点，而不只是选举或媒体话题。
@@ -24564,6 +24863,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/643.高信疆在大陆.txt
   数据：data/timeline-events-seventh-book.json#book7-2001-spring-writes-preface-for-gao-xinjiang-going-to-mainland
+- 2001年9月11日后（据同题《李敖大哥大》提及世贸事件后钱复“刚刚回来”） | 李敖在《李敖大哥大》讲《台大校长不要脸》，批陈维昭延任与拒证
+  精度：after-date-context；可靠度：inferred；排序日期：2001-09-11
+  摘要：《李敖杂文集》收《台大校长不要脸》；同题《李敖大哥大》节目中，李敖以“今天报上登”台大校庆餐会切入，批陈维昭在任内修改任期自肥，又追述1994年陈维昭公开承认殷海光被免除台大教职，后来却拒绝为李敖官司作证。节目还提到钱复在世贸事件后送款刚回来，因此本条暂挂2001年9月11日后。
+  人物：李敖、陈维昭、殷海光、钱思亮、钱复、李远哲
+  地点：台湾大学、台北、台湾
+  标签：台大校长不要脸、陈维昭、殷海光、台大、李敖大哥大、2001
+  视图：媒体线、司法线、台大线
+  作品：台大校长不要脸、李敖大哥大、李敖杂文集
+  交叉引用：li-ao-zawenji-1994-after-apr-17-asks-chen-weizhao-testify-yin-haiguang-case、book6-2005-04-06-scolds-university-presidents-in-water-fertilizer-incident
+  来源：李敖杂文集 / 004.台大校长不要脸 / line 1
+  补充来源：李敖杂文集 / 004.台大校长不要脸 / line 21；李敖大哥大 / 059.台大校长不要脸 / line 49；李敖大哥大 / 059.台大校长不要脸 / line 53；李敖大哥大 / 059.台大校长不要脸 / line 59
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/004.台大校长不要脸.txt
+  数据：data/timeline-events-li-ao-zawenji.json#li-ao-zawenji-2001-after-sep-11-talks-ntu-president-shameless
 
 2002
 - 2002年2月7日夜1时40分 | 李敖写《胡适语粹》新序
@@ -25009,9 +25321,9 @@
   标签：大学校长水肥事件、陈维昭、殷海光、近亲繁殖、蔡元培、知识分子风骨
   视图：政治线、立法院线、教育线、思想线
   作品：自由中国、李敖议坛哀思录
-  交叉引用：book6-2005-04-06-questions-du-zhengsheng-with-old-map-and-constitutional-interrogation
+  交叉引用：book6-2005-04-06-questions-du-zhengsheng-with-old-map-and-constitutional-interrogation、li-ao-zawenji-1994-after-apr-17-asks-chen-weizhao-testify-yin-haiguang-case、li-ao-zawenji-2001-after-sep-11-talks-ntu-president-shameless
   来源：李敖议坛哀思录 / 048.大学校长水肥事件 / line 3
-  补充来源：-
+  补充来源：李敖杂文集 / 004.台大校长不要脸 / line 21
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/048.大学校长水肥事件.txt
   数据：data/timeline-events-sixth-book.json#book6-2005-04-06-scolds-university-presidents-in-water-fertilizer-incident
 - 2005年4月12日 | 李敖质询谢长廷，为林弘宣请命并批评杜正胜消耗民进党
@@ -26682,6 +26994,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/096.会自杀的国防部长.txt
   数据：data/timeline-events-sixth-book.json#book6-2007-10-05-lunch-with-li-tianyu-and-laughs-at-fight-to-last-soldier
+- 2007年10月26日夜一小时作 | 李敖一小时写成《中国奥运歌》
+  精度：day；可靠度：confirmed；排序日期：2007-10-26
+  摘要：《中国奥运歌》文末署“李敖2007.10.26夜以一小时作”。这首歌词以2008北京奥运前的中国主题写成，反复唱出“世界的高处是我们中国”。
+  人物：李敖
+  地点：台湾
+  标签：中国奥运歌、奥运、2007
+  视图：写作线、诗歌线
+  作品：中国奥运歌、李敖杂文集
+  交叉引用：-
+  来源：李敖杂文集 / 012.中国奥运歌 / line 39
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/012.中国奥运歌.txt
+  数据：data/timeline-events-li-ao-zawenji.json#li-ao-zawenji-2007-10-26-writes-china-olympic-song-in-one-hour
 - 2007年11月6日，在台北楼中楼 | 李敖在台北楼中楼写下“缴卷”式结尾，为《李敖议坛哀思录》收束
   精度：day；可靠度：confirmed；排序日期：2007-11-06
   摘要：《摸屁股送客》末尾署日2007年11月6日，李敖把这本书比作最后一堂考试的缴卷，称自己最懒得写这本书，只想赶快考完、走到阳光下去吃蛋卷冰淇淋，并以“王八，再见；冰淇淋，我来了！”作为收尾，留下这一卷的写作结束痕迹。
@@ -26918,6 +27243,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/010.你笨蛋，你笨蛋/015.从《马偕行医图》到黄达夫.txt
   数据：data/timeline-events-ni-bendan.json#ni-bendan-2008-05-05-refuses-bargain-sale-of-mackay-painting
+- 2008年9月6日晨，在山之阳 | 李敖在阳明山写《李敖中文大句典》构想书
+  精度：day；可靠度：confirmed；排序日期：2008-09-06
+  摘要：《〈李敖中文大句典〉构想书》署2008年9月6日晨“在山之阳”。李敖写自己早在刘长乐凤凰电视上提出句典构想，计划从2009到2015仿林语堂六年计划，八十大寿前成书。
+  人物：李敖、刘长乐
+  地点：阳明山、台湾
+  标签：李敖中文大句典、刘长乐、凤凰电视、阳明山、2008
+  视图：写作线、出版线、晚年计划线
+  作品：李敖中文大句典、李敖杂文集
+  交叉引用：li-ao-zawenji-1999-09-01-yanglan-interview-chinese-sentence-dictionary、li-ao-zawenji-2000-03-13-says-signed-yuanliu-for-chinese-sentence-dictionary
+  来源：李敖杂文集 / 013.《李敖中文大句典》构想书 / line 9
+  补充来源：李敖政论综艺集 / 008.19990901《杨澜工作室》 / line 183；李敖送电集 / 026.2000年3月13日 / line 45
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/013.《李敖中文大句典》构想书.txt
+  数据：data/timeline-events-li-ao-zawenji.json#li-ao-zawenji-2008-09-06-writes-chinese-sentence-dictionary-plan
 - 2008年11月（陈云林第一次来台湾期间） | 李敖密会陈云林并赠送《虚拟的十七岁》
   精度：undated-context；可靠度：contextual；排序日期：2008-11-30
   摘要：《〈李敖大全集〉大陆新版序》回述，陈云林第一次来台湾时，刘长乐安排李敖在圆山饭店密室与其秘密见面。李敖当场带去新作《虚拟的十七岁》相赠，并借赠书向陈云林“抗议”此书当时不能在祖国出版。
@@ -27270,9 +27608,9 @@
   标签：厦门大学、名誉教授、朱崇实、阳痿美国
   视图：生平线、交游线、荣誉线
   作品：阳痿美国、李敖风流自传
-  交叉引用：book7-2006-03-29-receives-zhu-chongshi-calligraphy-praise
+  交叉引用：book7-2006-03-29-receives-zhu-chongshi-calligraphy-praise、li-ao-zawenji-2011-after-mar-31-writes-three-poems-for-xiamen-honorary-post
   来源：李敖风流自传 / 637.朱崇实校长 / line 3
-  补充来源：-
+  补充来源：李敖杂文集 / 009.关于厦门大学聘书诗三首 / line 3
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/637.朱崇实校长.txt
   数据：data/timeline-events-seventh-book.json#book7-2011-03-31-receives-xiamen-university-honorary-professorship
 - 2011年4月1日 | 在暨南大学演讲
@@ -27535,6 +27873,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/010.你笨蛋，你笨蛋/033.潘毓刚《我也李敖一下》祖国版序.txt
   数据：data/timeline-events-ni-bendan.json#ni-bendan-2011-spring-writes-mainland-preface-for-wo-ye-li-ao-yixia
+- 2011年3月31日后（据厦门大学聘书语境） | 李敖为厦门大学聘书写三首诗，分别致朱崇实、陈支平、陈平景
+  精度：after-date-context；可靠度：inferred；排序日期：2011-03-31
+  摘要：《关于厦门大学聘书诗三首》说明，厦门大学跟进聘李敖为终身讲座教授后，李敖写三首诗：一给朱崇实校长，一给陈支平院长，一给居中传信的陈平景。此事与2011年3月31日厦门大学名誉教授聘书链相连。
+  人物：李敖、朱崇实、陈支平、陈平景
+  地点：厦门大学、厦门
+  标签：厦门大学、聘书诗、朱崇实、陈支平、陈平景、2011
+  视图：写作线、交游线、大陆线
+  作品：关于厦门大学聘书诗三首、李敖杂文集
+  交叉引用：book7-2011-03-31-receives-xiamen-university-honorary-professorship
+  来源：李敖杂文集 / 009.关于厦门大学聘书诗三首 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/009.关于厦门大学聘书诗三首.txt
+  数据：data/timeline-events-li-ao-zawenji.json#li-ao-zawenji-2011-after-mar-31-writes-three-poems-for-xiamen-honorary-post
 - 2011年4月27日前（《第73烈士》取材期） | 李敖亲手触到温生才遗留的辫子和脚镣
   精度：undated-context；可靠度：contextual；排序日期：2011-04-26
   摘要：《〈第73烈士〉志缘》写，李敖称自己“亲眼看到、亲手触到”温生才被砍头后留下的辫子和脚镣，并感谢邵铭煌主任给他这个机会。此举为《第73烈士》提供了极强的实物史料触感。
