@@ -1,0 +1,1552 @@
+[
+  {
+    "id": "beijing-fayuansi-1975-about-prison-conception-title-decided",
+    "date": "1975-12-31",
+    "displayDate": "约1975年（1991年6月12日回忆“十六年前”第一次政治犯黑狱中）",
+    "datePrecision": "year-about",
+    "title": "李敖在第一次政治犯狱中决定《北京法源寺》书名并构想小说",
+    "summary": "李敖在《我写〈北京法源寺〉》中追述，《北京法源寺》作为书名，是他第一次做政治犯时在国民党黑狱中决定的；自1971年起的长期囚禁与软禁中，他在狱中构想出几部小说，其中一部就是《北京法源寺》。这里的“约1975年”由1991年6月12日文章所说“十六年前”推得，只作近似时间锚。",
+    "view": [
+      "创作线",
+      "牢狱线"
+    ],
+    "tags": [
+      "北京法源寺",
+      "小说创作",
+      "政治犯",
+      "国民党黑狱",
+      "书名",
+      "约1975"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台湾",
+      "军法处"
+    ],
+    "works": [
+      "北京法源寺",
+      "我写《北京法源寺》"
+    ],
+    "certainty": "reported-by-author",
+    "source": {
+      "book": "北京法源寺",
+      "chapter": "018.我写《北京法源寺》",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/001.北京法源寺/018.我写《北京法源寺》.txt",
+      "line": 3
+    },
+    "additionalSources": [
+      {
+        "book": "北京法源寺",
+        "chapter": "018.我写《北京法源寺》",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/001.北京法源寺/018.我写《北京法源寺》.txt",
+        "line": 25
+      }
+    ],
+    "crossReferences": [
+      "1971-03-19-arrested",
+      "book2-1971-03-19-arrest-after-house-arrest",
+      "book4-1971-03-19-taken-away-ending-house-arrest",
+      "book4-1976-11-19-released-without-guarantor"
+    ]
+  },
+  {
+    "id": "beijing-fayuansi-1976-after-release-starts-first-chapters",
+    "date": "1976-12-31",
+    "displayDate": "1976年出狱后",
+    "datePrecision": "year-context",
+    "title": "李敖出狱后开始断续写《北京法源寺》前几章",
+    "summary": "李敖说，黑狱中禁止写作，他只能先粗略构想书中情节，以备出狱后追写；1976年出狱并料理劫后事务之余，他开始断断续续写《北京法源寺》前几章。",
+    "view": [
+      "创作线",
+      "牢狱线"
+    ],
+    "tags": [
+      "北京法源寺",
+      "小说创作",
+      "出狱",
+      "前几章",
+      "1976"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "北京法源寺",
+      "我写《北京法源寺》"
+    ],
+    "certainty": "reported-by-author",
+    "source": {
+      "book": "北京法源寺",
+      "chapter": "018.我写《北京法源寺》",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/001.北京法源寺/018.我写《北京法源寺》.txt",
+      "line": 5
+    },
+    "crossReferences": [
+      "book4-1976-11-19-released-without-guarantor",
+      "book4-1976-12-01-starts-work-at-international-relations-center"
+    ]
+  },
+  {
+    "id": "beijing-fayuansi-1979-1990-intermittent-drafting-delayed",
+    "date": "1990-12-30",
+    "displayDate": "1979年复出文坛后至1990年底前",
+    "datePrecision": "range-context",
+    "title": "李敖复出文坛后长期被其他写作牵住，《北京法源寺》只断续写万余字",
+    "summary": "李敖回忆，1979年复出文坛后，他十二年间主力几乎全投在其他写作上，出书一百二十种、被查禁九十六种、被查扣十一万七千六百册；《北京法源寺》因此被耽误，十二年中只断续写了万把字，始终没能完成。",
+    "view": [
+      "创作线",
+      "出版线"
+    ],
+    "tags": [
+      "北京法源寺",
+      "复出文坛",
+      "查禁",
+      "查扣",
+      "断续写作",
+      "1979-1990"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "北京法源寺",
+      "我写《北京法源寺》"
+    ],
+    "certainty": "reported-by-author",
+    "source": {
+      "book": "北京法源寺",
+      "chapter": "018.我写《北京法源寺》",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/001.北京法源寺/018.我写《北京法源寺》.txt",
+      "line": 5
+    },
+    "crossReferences": [
+      "1979-06-return-literary-world"
+    ]
+  },
+  {
+    "id": "beijing-fayuansi-1990-before-completion-research-assistance",
+    "date": "1990-12-30",
+    "displayDate": "1990年底完稿前（据1991年6月12日写作说明回溯）",
+    "datePrecision": "before-date-context",
+    "title": "李敖为《北京法源寺》做历史考证并请友人代查北京实地资料",
+    "summary": "李敖说明，《北京法源寺》以历史考证为底子：日本公使馆木窗据1900年照片写成；法源寺现状由许以祺在北京为他照相画图；袁崇焕坟墓资料由潘君密托北京作家出版社李荣胜代找；康有为、谭嗣同故居现状由陈兆基代查访。此条为创作资料准备事件，日期锚定为1990年底完稿前的回溯，不是精确发生日。",
+    "view": [
+      "创作线",
+      "学术线"
+    ],
+    "tags": [
+      "北京法源寺",
+      "历史考证",
+      "许以祺",
+      "潘君密",
+      "李荣胜",
+      "陈兆基",
+      "资料准备",
+      "北京"
+    ],
+    "people": [
+      "李敖",
+      "许以祺",
+      "潘君密",
+      "李荣胜",
+      "陈兆基",
+      "袁崇焕",
+      "康有为",
+      "谭嗣同"
+    ],
+    "places": [
+      "北京",
+      "法源寺",
+      "日本公使馆",
+      "袁崇焕坟墓",
+      "康有为故居",
+      "谭嗣同故居"
+    ],
+    "works": [
+      "北京法源寺",
+      "我写《北京法源寺》"
+    ],
+    "certainty": "reported-by-author",
+    "source": {
+      "book": "北京法源寺",
+      "chapter": "018.我写《北京法源寺》",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/001.北京法源寺/018.我写《北京法源寺》.txt",
+      "line": 15
+    },
+    "crossReferences": [
+      "beijing-fayuansi-1990-year-end-finishes-novel-before-qiushi-bao"
+    ]
+  },
+  {
+    "id": "beijing-fayuansi-1990-year-end-finishes-novel-before-qiushi-bao",
+    "date": "1990-12-31",
+    "displayDate": "1990年底（1991年6月12日文中称“去年年底”）",
+    "datePrecision": "year-end",
+    "title": "李敖在创办《求是报》前用一个多月快速完成《北京法源寺》",
+    "summary": "李敖写道，国民党在台湾三十七年的报禁解除后，他决定创办《求是报》，自知报纸一办时间会被困住，于是花一个多月、每天写两个多小时，终于在“去年年底”快速完成《北京法源寺》。因文章署日为1991年6月12日，此处“去年年底”记为1990年底。",
+    "view": [
+      "创作线",
+      "媒体线"
+    ],
+    "tags": [
+      "北京法源寺",
+      "求是报",
+      "报禁解除",
+      "完稿",
+      "快速写作",
+      "1990"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "北京法源寺",
+      "求是报",
+      "我写《北京法源寺》"
+    ],
+    "certainty": "reported-by-author",
+    "source": {
+      "book": "北京法源寺",
+      "chapter": "018.我写《北京法源寺》",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/001.北京法源寺/018.我写《北京法源寺》.txt",
+      "line": 9
+    },
+    "additionalSources": [
+      {
+        "book": "北京法源寺",
+        "chapter": "018.我写《北京法源寺》",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/001.北京法源寺/018.我写《北京法源寺》.txt",
+        "line": 25
+      }
+    ],
+    "crossReferences": [
+      "book4-1992-04-01-li-ao-qiushi-review-ends",
+      "book5-1992-01-03-hospital-queue-beijing-fayuansi-praise",
+      "book8-2000-beijing-fayuan-temple-nobel-prize-nomination"
+    ]
+  },
+  {
+    "id": "beijing-fayuansi-1991-06-11-qiushi-bao-reprint-controversy",
+    "date": "1991-06-11",
+    "displayDate": "1991年6月11日下午3时",
+    "datePrecision": "day",
+    "title": "李敖写《李敖谈〈李敖的报纸〉》，回应《求是报》重登《北京法源寺》的争议",
+    "summary": "李敖在《李敖谈〈李敖的报纸〉》中回应陈嘉宗批评《求是报》“旧文新刊”，其中包括重新登载长篇小说《北京法源寺》。李敖解释，旧文重刊是为了让过去被禁的作品重新流通，并借此反击台湾文学环境，称若台湾真有文学创作，也不必由他来写《北京法源寺》。这条记录的是李敖围绕该小说连载/重刊的公开辩护，不采小说正文情节。",
+    "view": [
+      "媒体线",
+      "出版线",
+      "创作线"
+    ],
+    "tags": [
+      "北京法源寺",
+      "求是报",
+      "旧文新刊",
+      "李敖的报纸",
+      "陈嘉宗",
+      "公开回应"
+    ],
+    "people": [
+      "李敖",
+      "陈嘉宗"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "北京法源寺",
+      "求是报",
+      "李敖谈《李敖的报纸》"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖报刊集",
+      "chapter": "016.李敖谈《李敖的报纸》",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/001.李敖报刊集/016.李敖谈《李敖的报纸》.txt",
+      "line": 25
+    },
+    "additionalSources": [
+      {
+        "book": "李敖报刊集",
+        "chapter": "016.李敖谈《李敖的报纸》",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/001.李敖报刊集/016.李敖谈《李敖的报纸》.txt",
+        "line": 27
+      },
+      {
+        "book": "李敖报刊集",
+        "chapter": "016.李敖谈《李敖的报纸》",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/001.李敖报刊集/016.李敖谈《李敖的报纸》.txt",
+        "line": 43
+      }
+    ],
+    "crossReferences": [
+      "beijing-fayuansi-1990-year-end-finishes-novel-before-qiushi-bao",
+      "book4-1992-04-01-li-ao-qiushi-review-ends"
+    ]
+  },
+  {
+    "id": "beijing-fayuansi-1991-06-12-writes-about-writing-fayuan",
+    "date": "1991-06-12",
+    "displayDate": "1991年6月12日",
+    "datePrecision": "day",
+    "title": "李敖写《我写〈北京法源寺〉》，说明小说创作缘起与印行心意",
+    "summary": "李敖在1991年6月12日署日的《我写〈北京法源寺〉》中，集中说明《北京法源寺》的书名缘起、狱中构思、出狱后断续写作、1990年底完稿、历史考证方法与小说观；文末又说自己独处台湾写此书，如今“印此书以归故国”，难忘自己是大陆人。此条为写作说明/序跋层事件，不把小说正文情节当作现实年表。",
+    "view": [
+      "创作线",
+      "出版线"
+    ],
+    "tags": [
+      "北京法源寺",
+      "我写《北京法源寺》",
+      "写作说明",
+      "序跋",
+      "印行",
+      "1991"
+    ],
+    "people": [
+      "李敖",
+      "谭嗣同"
+    ],
+    "places": [
+      "台湾",
+      "北京",
+      "中国大陆"
+    ],
+    "works": [
+      "北京法源寺",
+      "我写《北京法源寺》",
+      "仁学"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "北京法源寺",
+      "chapter": "018.我写《北京法源寺》",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/001.北京法源寺/018.我写《北京法源寺》.txt",
+      "line": 25
+    },
+    "additionalSources": [
+      {
+        "book": "北京法源寺",
+        "chapter": "018.我写《北京法源寺》",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/001.北京法源寺/018.我写《北京法源寺》.txt",
+        "line": 23
+      }
+    ],
+    "crossReferences": [
+      "beijing-fayuansi-1975-about-prison-conception-title-decided",
+      "beijing-fayuansi-1990-year-end-finishes-novel-before-qiushi-bao",
+      "book5-1992-01-03-hospital-queue-beijing-fayuansi-praise"
+    ]
+  },
+  {
+    "id": "beijing-fayuansi-1991-06-13-guo-qiyuan-correction-and-back-cover-copy",
+    "date": "1991-06-13",
+    "displayDate": "1991年6月13日",
+    "datePrecision": "day",
+    "title": "李敖答郭启元，承诺改正《北京法源寺》单行本并亲写封底介绍词",
+    "summary": "郭启元来信指出《北京法源寺》中《南京条约》一处史实疑难，并预言此书会成为不朽名作。李敖回信说原稿漏了“起”字，单行本自当改正；同日还说明书正在设计封面，封底介绍词由他亲写，并把《北京法源寺》称为自己的第一部长篇小说。这是单行本付印前后的校改与封底文案事件。",
+    "view": [
+      "书信线",
+      "出版线",
+      "创作线"
+    ],
+    "tags": [
+      "北京法源寺",
+      "郭启元",
+      "勘改",
+      "单行本",
+      "封底介绍词",
+      "南京条约"
+    ],
+    "people": [
+      "李敖",
+      "郭启元"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "北京法源寺",
+      "讨论《北京法源寺》"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖书函集",
+      "chapter": "044.讨论《北京法源寺》",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/008.李敖书函集/044.讨论《北京法源寺》.txt",
+      "line": 35
+    },
+    "additionalSources": [
+      {
+        "book": "李敖书函集",
+        "chapter": "044.讨论《北京法源寺》",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/008.李敖书函集/044.讨论《北京法源寺》.txt",
+        "line": 37
+      },
+      {
+        "book": "李敖书函集",
+        "chapter": "044.讨论《北京法源寺》",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/008.李敖书函集/044.讨论《北京法源寺》.txt",
+        "line": 39
+      },
+      {
+        "book": "李敖书函集",
+        "chapter": "044.讨论《北京法源寺》",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/008.李敖书函集/044.讨论《北京法源寺》.txt",
+        "line": 47
+      }
+    ],
+    "crossReferences": [
+      "beijing-fayuansi-1991-06-12-writes-about-writing-fayuan",
+      "beijing-fayuansi-1991-06-30-published-by-wenxing"
+    ]
+  },
+  {
+    "id": "beijing-fayuansi-1991-06-30-published-by-wenxing",
+    "date": "1991-06-30",
+    "displayDate": "1991年6月30日",
+    "datePrecision": "day",
+    "title": "《北京法源寺》由台北文星书店出版",
+    "summary": "《李敖五十年表》记1991年6月30日出版《北京法源寺》；《中华民国作家作品目录--李敖》又列明该书由台北文星书店出版，民国八十年六月，32开，366页。此条补足《北京法源寺》单行本的出版节点，和此前写作完成、写作说明、读者反应与诺奖提名旧节点互相引用。",
+    "view": [
+      "出版线",
+      "创作线"
+    ],
+    "tags": [
+      "北京法源寺",
+      "文星书店",
+      "出版",
+      "单行本",
+      "1991"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "北京法源寺",
+      "李敖五十年表",
+      "中华民国作家作品目录--李敖"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖相关",
+      "chapter": "001.李敖五十年表",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/008.李敖相关/001.李敖五十年表.txt",
+      "line": 139
+    },
+    "additionalSources": [
+      {
+        "book": "李敖相关",
+        "chapter": "004.中华民国作家作品目录--李敖",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/008.李敖相关/004.中华民国作家作品目录——李敖.txt",
+        "line": 59
+      }
+    ],
+    "crossReferences": [
+      "beijing-fayuansi-1990-year-end-finishes-novel-before-qiushi-bao",
+      "beijing-fayuansi-1991-06-12-writes-about-writing-fayuan",
+      "beijing-fayuansi-1991-06-13-guo-qiyuan-correction-and-back-cover-copy",
+      "book5-1992-01-03-hospital-queue-beijing-fayuansi-praise",
+      "book8-2000-beijing-fayuan-temple-nobel-prize-nomination"
+    ]
+  },
+  {
+    "id": "beijing-fayuansi-1991-09-05-pan-yugang-errata",
+    "date": "1991-09-05",
+    "displayDate": "1991年9月5日",
+    "datePrecision": "day",
+    "title": "李敖答潘毓刚，整理《北京法源寺》第一轮勘误",
+    "summary": "潘毓刚1991年8月26日来信指出《北京法源寺》的两个漏洞。李敖9月5日答信，说明此书是在办《求是报》前夜匆匆赶完又快速付印，原稿斑驳杂乱；出书后陈兆基、林永丰等人也指出不妥和笔误。李敖随信列出勘误表，并解释历史小说中古今语言并置的处理。",
+    "view": [
+      "书信线",
+      "出版线",
+      "创作线"
+    ],
+    "tags": [
+      "北京法源寺",
+      "勘误",
+      "潘毓刚",
+      "陈兆基",
+      "林永丰",
+      "求是报"
+    ],
+    "people": [
+      "李敖",
+      "潘毓刚",
+      "陈兆基",
+      "林永丰"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "北京法源寺",
+      "《北京法源寺》勘误"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖书启集",
+      "chapter": "001.《北京法源寺》勘误",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/001.《北京法源寺》勘误.txt",
+      "line": 29
+    },
+    "additionalSources": [
+      {
+        "book": "李敖书启集",
+        "chapter": "001.《北京法源寺》勘误",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/001.《北京法源寺》勘误.txt",
+        "line": 31
+      },
+      {
+        "book": "李敖书启集",
+        "chapter": "001.《北京法源寺》勘误",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/001.《北京法源寺》勘误.txt",
+        "line": 55
+      },
+      {
+        "book": "李敖书启集",
+        "chapter": "001.《北京法源寺》勘误",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/001.《北京法源寺》勘误.txt",
+        "line": 59
+      }
+    ],
+    "crossReferences": [
+      "beijing-fayuansi-1991-06-30-published-by-wenxing",
+      "beijing-fayuansi-1991-12-21-fang-jianxiang-unified-errata"
+    ]
+  },
+  {
+    "id": "beijing-fayuansi-1991-12-21-fang-jianxiang-unified-errata",
+    "date": "1991-12-21",
+    "displayDate": "1991年12月21日",
+    "datePrecision": "day",
+    "title": "李敖答方健祥，综合四人意见重列《北京法源寺》勘误表",
+    "summary": "方健祥10月8日致信，称读《北京法源寺》后震撼，并希望再版时改正两处小疵。李敖12月21日答复，再次说明此书出书前与办《求是报》撞档，来不及细校；他综合陈兆基、林永丰、潘毓刚和方健祥前后指正，统一列出勘误表，并盼对方继续指正。",
+    "view": [
+      "书信线",
+      "出版线",
+      "创作线"
+    ],
+    "tags": [
+      "北京法源寺",
+      "再勘误",
+      "方健祥",
+      "陈兆基",
+      "林永丰",
+      "潘毓刚",
+      "再版"
+    ],
+    "people": [
+      "李敖",
+      "方健祥",
+      "陈兆基",
+      "林永丰",
+      "潘毓刚"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "北京法源寺",
+      "《北京法源寺》再勘误"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖书启集",
+      "chapter": "004.《北京法源寺》再勘误",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/004.《北京法源寺》再勘误.txt",
+      "line": 25
+    },
+    "additionalSources": [
+      {
+        "book": "李敖书启集",
+        "chapter": "004.《北京法源寺》再勘误",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/004.《北京法源寺》再勘误.txt",
+        "line": 27
+      },
+      {
+        "book": "李敖书启集",
+        "chapter": "004.《北京法源寺》再勘误",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/004.《北京法源寺》再勘误.txt",
+        "line": 29
+      },
+      {
+        "book": "李敖书启集",
+        "chapter": "004.《北京法源寺》再勘误",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/004.《北京法源寺》再勘误.txt",
+        "line": 51
+      },
+      {
+        "book": "李敖书启集",
+        "chapter": "004.《北京法源寺》再勘误",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/004.《北京法源寺》再勘误.txt",
+        "line": 53
+      }
+    ],
+    "crossReferences": [
+      "beijing-fayuansi-1991-09-05-pan-yugang-errata",
+      "beijing-fayuansi-1991-06-30-published-by-wenxing"
+    ]
+  },
+  {
+    "id": "beijing-fayuansi-1992-02-12-li-ning-buys-forty-copies",
+    "date": "1992-02-12",
+    "displayDate": "1992年2月12日",
+    "datePrecision": "day",
+    "title": "李宁花一万元买《北京法源寺》，李敖出版社送去四十本",
+    "summary": "李敖随写记载，李宁花一万元购买《北京法源寺》，李敖出版社当天送去四十本，其中二十本精装、二十本平装。李敖在前一天电话里问她为何买这么多送人，李宁说此书论佛精彩，愿作功德分送友好。此条是读者购买与作者出版机构配送层面的日常事件。",
+    "view": [
+      "日常线",
+      "出版线",
+      "读者线"
+    ],
+    "tags": [
+      "北京法源寺",
+      "李宁",
+      "购书",
+      "赠书",
+      "李敖出版社",
+      "读者反应"
+    ],
+    "people": [
+      "李敖",
+      "李宁"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "北京法源寺",
+      "李宁大买《北京法源寺》"
+    ],
+    "certainty": "reported-by-author",
+    "source": {
+      "book": "李敖随写录后集",
+      "chapter": "117.李宁大买《北京法源寺》",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/010.李敖随写录后集/117.李宁大买《北京法源寺》.txt",
+      "line": 3
+    },
+    "additionalSources": [
+      {
+        "book": "李敖随写录后集",
+        "chapter": "117.李宁大买《北京法源寺》",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/010.李敖随写录后集/117.李宁大买《北京法源寺》.txt",
+        "line": 5
+      }
+    ],
+    "crossReferences": [
+      "beijing-fayuansi-1991-06-30-published-by-wenxing",
+      "book5-1992-01-03-hospital-queue-beijing-fayuansi-praise"
+    ]
+  },
+  {
+    "id": "beijing-fayuansi-1992-02-25-xinguang-radio-ad-copy",
+    "date": "1992-02-25",
+    "displayDate": "1992年2月25日",
+    "datePrecision": "day",
+    "title": "李敖为新光社广播免费广告拟《北京法源寺》广告词",
+    "summary": "《〈北京法源寺〉广告词》记，江述凡免费替李敖打“新光社”广播广告，李敖因此自拟《北京法源寺》广告词。此条补出该书上市后的广播宣传动作，属于出版发行与媒体推广层面。",
+    "view": [
+      "出版线",
+      "媒体线"
+    ],
+    "tags": [
+      "北京法源寺",
+      "广告词",
+      "江述凡",
+      "新光社",
+      "广播广告",
+      "宣传"
+    ],
+    "people": [
+      "李敖",
+      "江述凡"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "北京法源寺",
+      "《北京法源寺》广告词"
+    ],
+    "certainty": "reported-by-author",
+    "source": {
+      "book": "李敖随写录后集",
+      "chapter": "149.《北京法源寺》广告词",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/010.李敖随写录后集/149.《北京法源寺》广告词.txt",
+      "line": 3
+    },
+    "crossReferences": [
+      "beijing-fayuansi-1991-06-30-published-by-wenxing",
+      "beijing-fayuansi-1992-02-12-li-ning-buys-forty-copies"
+    ]
+  },
+  {
+    "id": "beijing-fayuansi-1992-context-renmin-wenxue-authorized-mainland-edition",
+    "date": "1992-12-31",
+    "displayDate": "1990-1992年",
+    "datePrecision": "year-range",
+    "title": "李敖授权人民文学出版社出版《北京法源寺》等四部作品",
+    "summary": "《大陆研究李敖综述》称，1990至1992年间李敖授权人民文学出版社出版《独白下的传统》《李敖自传与回忆》《坐牢家爸爸给女儿的八十封信》以及《北京法源寺》；这四部被该文称为李敖首次亲自授权大陆出版，其中《北京法源寺》是大陆引进此书的最早版本。此为第三方研究综述说法，不是李敖本人自述；1999年《长江日报》专访中，李敖也提到自己在北京人民文学出版社出过《北京法源寺》。",
+    "view": [
+      "出版线",
+      "大陆线",
+      "研究线"
+    ],
+    "tags": [
+      "北京法源寺",
+      "人民文学出版社",
+      "大陆出版",
+      "授权出版",
+      "第三方综述"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "北京",
+      "中国大陆"
+    ],
+    "works": [
+      "北京法源寺",
+      "独白下的传统",
+      "李敖自传与回忆",
+      "坐牢家爸爸给女儿的八十封信",
+      "大陆研究李敖综述"
+    ],
+    "certainty": "reported-by-third-party",
+    "source": {
+      "book": "李敖研究fashion文集",
+      "chapter": "005.大陆研究李敖综述",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/017.百家论李敖/007.李敖研究fashion文集/005.大陆研究李敖综述.txt",
+      "line": 13,
+      "note": "第三方研究综述；明示为非李敖本人说法。"
+    },
+    "additionalSources": [
+      {
+        "book": "李敖访谈录1990-2018",
+        "chapter": "006.19990403《长江日报》专访李敖",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/006.19990403《长江日报》专访李敖.txt",
+        "line": 19
+      }
+    ],
+    "crossReferences": [
+      "beijing-fayuansi-1991-06-30-published-by-wenxing",
+      "book8-2000-beijing-fayuan-temple-nobel-prize-nomination"
+    ]
+  },
+  {
+    "id": "beijing-fayuansi-1999-09-29-announces-english-nobel-submission",
+    "date": "1999-09-29",
+    "displayDate": "1999年9月29日",
+    "datePrecision": "day",
+    "title": "李敖在《挑战李敖》中预告《北京法源寺》英文本将送诺贝尔文学奖参选",
+    "summary": "1999年9月29日《挑战李敖》中，李敖答观众时称自己的大手笔文学作品《北京法源寺》将在次年二月送到瑞典参加诺贝尔文学奖参选。11月15日和12月8日相关节目/演讲中，他又多次以英文本参选为题回应提问。此条记录的是获提名前的公开预告，不重复建立实际提名事件。",
+    "view": [
+      "节目线",
+      "文学线",
+      "海外线"
+    ],
+    "tags": [
+      "北京法源寺",
+      "挑战李敖",
+      "诺贝尔文学奖",
+      "英文本",
+      "预告"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台湾",
+      "瑞典"
+    ],
+    "works": [
+      "北京法源寺",
+      "挑战李敖"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "挑战李敖",
+      "chapter": "002.19990929挑战李敖",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/002.挑战李敖/002.19990929挑战李敖.txt",
+      "line": 75
+    },
+    "additionalSources": [
+      {
+        "book": "挑战李敖",
+        "chapter": "034.19991115挑战李敖",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/002.挑战李敖/034.19991115挑战李敖.txt",
+        "line": 111
+      },
+      {
+        "book": "挑战李敖",
+        "chapter": "051.19991208挑战李敖",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/002.挑战李敖/051.19991208挑战李敖.txt",
+        "line": 121
+      },
+      {
+        "book": "李敖演讲集",
+        "chapter": "015.19991208李敖文化大学演讲",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/011.李敖演讲集/015.19991208李敖文化大学演讲.txt",
+        "line": 121
+      }
+    ],
+    "crossReferences": [
+      "book8-2000-beijing-fayuan-temple-nobel-prize-nomination"
+    ]
+  },
+  {
+    "id": "beijing-fayuansi-2000-02-15-english-edition-launch",
+    "date": "2000-02-15",
+    "displayDate": "2000年2月15日",
+    "datePrecision": "day",
+    "title": "《北京法源寺》英文版举行新书发表会",
+    "summary": "李敖在2000年2月16日《挑战李敖》中回忆，前一天新闻局长赵怡参加了他的诺贝尔文学奖《北京法源寺》英文版新书发表会并致词。同一集又答观众说英文版当时在台湾还未发行，可能以后才买得到。此条补出英文本发表会与发行状态，实际诺奖提名仍归旧节点。",
+    "view": [
+      "出版线",
+      "节目线",
+      "海外线"
+    ],
+    "tags": [
+      "北京法源寺",
+      "英文版",
+      "新书发表会",
+      "赵怡",
+      "诺贝尔文学奖",
+      "挑战李敖"
+    ],
+    "people": [
+      "李敖",
+      "赵怡"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "北京法源寺",
+      "挑战李敖"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "挑战李敖",
+      "chapter": "096.20000216挑战李敖",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/002.挑战李敖/096.20000216挑战李敖.txt",
+      "line": 45
+    },
+    "additionalSources": [
+      {
+        "book": "挑战李敖",
+        "chapter": "096.20000216挑战李敖",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/002.挑战李敖/096.20000216挑战李敖.txt",
+        "line": 81
+      }
+    ],
+    "crossReferences": [
+      "beijing-fayuansi-1999-09-29-announces-english-nobel-submission",
+      "book8-2000-beijing-fayuan-temple-nobel-prize-nomination"
+    ]
+  },
+  {
+    "id": "beijing-fayuansi-2000-03-30-secret-study-episode-06",
+    "date": "2000-03-30",
+    "displayDate": "2000年3月30日",
+    "datePrecision": "day",
+    "title": "李敖在《秘密书房》恢复《北京法源寺》系列第六集",
+    "summary": "2000年3月30日《李敖秘密书房》题为《北京法源寺》（六），李敖说明因总统选举中断后恢复该系列，并说自己的长篇小说目前只有《北京法源寺》一部。此条记录节目讨论，不采小说剧情为现实事件。",
+    "view": [
+      "节目线",
+      "创作线"
+    ],
+    "tags": [
+      "北京法源寺",
+      "李敖秘密书房",
+      "电视节目",
+      "系列节目"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "北京法源寺",
+      "李敖秘密书房"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖秘密书房",
+      "chapter": "081.20000330《北京法源寺》（六）",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/003.李敖秘密书房/081.20000330《北京法源寺》（六）.txt",
+      "line": 1
+    },
+    "additionalSources": [
+      {
+        "book": "李敖秘密书房",
+        "chapter": "081.20000330《北京法源寺》（六）",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/003.李敖秘密书房/081.20000330《北京法源寺》（六）.txt",
+        "line": 3
+      },
+      {
+        "book": "李敖秘密书房",
+        "chapter": "081.20000330《北京法源寺》（六）",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/003.李敖秘密书房/081.20000330《北京法源寺》（六）.txt",
+        "line": 5
+      }
+    ],
+    "crossReferences": [
+      "book8-2000-beijing-fayuan-temple-nobel-prize-nomination"
+    ]
+  },
+  {
+    "id": "beijing-fayuansi-2000-03-31-secret-study-episode-07",
+    "date": "2000-03-31",
+    "displayDate": "2000年3月31日",
+    "datePrecision": "day",
+    "title": "李敖在《秘密书房》谈《北京法源寺》出版九年后因诺奖提名再受注意",
+    "summary": "2000年3月31日《北京法源寺》（七）中，李敖说此书写于九年前，卖了一万多本，后来因诺贝尔文学奖提名而重新受到注意。此条作为节目层面的接受史记录，并与旧诺奖提名节点交叉引用。",
+    "view": [
+      "节目线",
+      "出版线",
+      "文学线"
+    ],
+    "tags": [
+      "北京法源寺",
+      "李敖秘密书房",
+      "销量",
+      "诺贝尔文学奖",
+      "接受史"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "北京法源寺",
+      "李敖秘密书房"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖秘密书房",
+      "chapter": "082.20000331《北京法源寺》（七）",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/003.李敖秘密书房/082.20000331《北京法源寺》（七）.txt",
+      "line": 1
+    },
+    "additionalSources": [
+      {
+        "book": "李敖秘密书房",
+        "chapter": "082.20000331《北京法源寺》（七）",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/003.李敖秘密书房/082.20000331《北京法源寺》（七）.txt",
+        "line": 3
+      }
+    ],
+    "crossReferences": [
+      "beijing-fayuansi-1991-06-30-published-by-wenxing",
+      "book8-2000-beijing-fayuan-temple-nobel-prize-nomination"
+    ]
+  },
+  {
+    "id": "beijing-fayuansi-2000-04-03-secret-study-episode-08",
+    "date": "2000-04-03",
+    "displayDate": "2000年4月3日",
+    "datePrecision": "day",
+    "title": "李敖在《秘密书房》讲《北京法源寺》的篇章结构",
+    "summary": "2000年4月3日《北京法源寺》（八）中，李敖围绕《北京法源寺》的结构展开说明，提到全书由十五章以及前言、尾声构成。此条是作者在节目中解释作品结构，非小说情节入表。",
+    "view": [
+      "节目线",
+      "创作线"
+    ],
+    "tags": [
+      "北京法源寺",
+      "李敖秘密书房",
+      "作品结构",
+      "前言",
+      "尾声"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "北京法源寺",
+      "李敖秘密书房"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖秘密书房",
+      "chapter": "083.20000403《北京法源寺》（八）",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/003.李敖秘密书房/083.20000403《北京法源寺》（八）.txt",
+      "line": 1
+    },
+    "additionalSources": [
+      {
+        "book": "李敖秘密书房",
+        "chapter": "083.20000403《北京法源寺》（八）",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/003.李敖秘密书房/083.20000403《北京法源寺》（八）.txt",
+        "line": 3
+      }
+    ],
+    "crossReferences": [
+      "beijing-fayuansi-2000-03-30-secret-study-episode-06"
+    ]
+  },
+  {
+    "id": "beijing-fayuansi-2000-04-04-secret-study-episode-09",
+    "date": "2000-04-04",
+    "displayDate": "2000年4月4日",
+    "datePrecision": "day",
+    "title": "李敖在《秘密书房》以戊戌变法和政变说明《北京法源寺》主轴",
+    "summary": "2000年4月4日《北京法源寺》（九）中，李敖继续介绍这部小说，说明其主轴围绕戊戌变法与戊戌政变展开。此条仅记录作者节目讲解作品主题，不把历史/小说叙事情节抽为李敖生平事件。",
+    "view": [
+      "节目线",
+      "创作线",
+      "思想线"
+    ],
+    "tags": [
+      "北京法源寺",
+      "李敖秘密书房",
+      "戊戌变法",
+      "戊戌政变",
+      "主题说明"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "北京法源寺",
+      "李敖秘密书房"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖秘密书房",
+      "chapter": "084.20000404《北京法源寺》（九）",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/003.李敖秘密书房/084.20000404《北京法源寺》（九）.txt",
+      "line": 1
+    },
+    "additionalSources": [
+      {
+        "book": "李敖秘密书房",
+        "chapter": "084.20000404《北京法源寺》（九）",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/003.李敖秘密书房/084.20000404《北京法源寺》（九）.txt",
+        "line": 5
+      }
+    ],
+    "crossReferences": [
+      "beijing-fayuansi-2000-04-03-secret-study-episode-08"
+    ]
+  },
+  {
+    "id": "beijing-fayuansi-2000-04-05-secret-study-episode-10",
+    "date": "2000-04-05",
+    "displayDate": "2000年4月5日",
+    "datePrecision": "day",
+    "title": "李敖在《秘密书房》谈《北京法源寺》中谭嗣同不逃与自我牺牲主题",
+    "summary": "2000年4月5日《北京法源寺》（十）中，李敖延续系列节目，谈到谭嗣同不逃以及自我牺牲的主题。此条是作者对作品主题的节目讲解，不把谭嗣同行动当成李敖现实事件。",
+    "view": [
+      "节目线",
+      "创作线",
+      "思想线"
+    ],
+    "tags": [
+      "北京法源寺",
+      "李敖秘密书房",
+      "谭嗣同",
+      "牺牲主题",
+      "作品讲解"
+    ],
+    "people": [
+      "李敖",
+      "谭嗣同"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "北京法源寺",
+      "李敖秘密书房"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖秘密书房",
+      "chapter": "085.20000405《北京法源寺》（十）",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/003.李敖秘密书房/085.20000405《北京法源寺》（十）.txt",
+      "line": 1
+    },
+    "additionalSources": [
+      {
+        "book": "李敖秘密书房",
+        "chapter": "085.20000405《北京法源寺》（十）",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/003.李敖秘密书房/085.20000405《北京法源寺》（十）.txt",
+        "line": 5
+      }
+    ],
+    "crossReferences": [
+      "beijing-fayuansi-2000-04-04-secret-study-episode-09"
+    ]
+  },
+  {
+    "id": "beijing-fayuansi-2000-04-06-secret-study-episode-11-asia-weekly",
+    "date": "2000-04-06",
+    "displayDate": "2000年4月6日",
+    "datePrecision": "day",
+    "title": "李敖在《秘密书房》引《亚洲周刊》报道《北京法源寺》被诺奖提名后的热度",
+    "summary": "2000年4月6日《北京法源寺》（十一）中，李敖提到2000年3月27日至4月2日《亚洲周刊》用两个整版报道“李敖人气烤热法源寺”，并说《北京法源寺》获诺贝尔文学奖提名后引发大陆和台湾注意。此条属于作者节目中转述媒体反应。",
+    "view": [
+      "节目线",
+      "媒体线",
+      "大陆线"
+    ],
+    "tags": [
+      "北京法源寺",
+      "李敖秘密书房",
+      "亚洲周刊",
+      "诺贝尔文学奖",
+      "媒体反应"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台湾",
+      "中国大陆"
+    ],
+    "works": [
+      "北京法源寺",
+      "李敖秘密书房",
+      "亚洲周刊"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖秘密书房",
+      "chapter": "086.20000406《北京法源寺》（十一）",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/003.李敖秘密书房/086.20000406《北京法源寺》（十一）.txt",
+      "line": 1
+    },
+    "additionalSources": [
+      {
+        "book": "李敖秘密书房",
+        "chapter": "086.20000406《北京法源寺》（十一）",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/003.李敖秘密书房/086.20000406《北京法源寺》（十一）.txt",
+        "line": 5
+      }
+    ],
+    "crossReferences": [
+      "book8-2000-beijing-fayuan-temple-nobel-prize-nomination",
+      "beijing-fayuansi-2000-03-31-secret-study-episode-07"
+    ]
+  },
+  {
+    "id": "beijing-fayuansi-2000-04-07-secret-study-episode-12-temple-visitors",
+    "date": "2000-04-07",
+    "displayDate": "2000年4月7日",
+    "datePrecision": "day",
+    "title": "李敖在《秘密书房》续谈《北京法源寺》提名后带动法源寺游客",
+    "summary": "2000年4月7日《北京法源寺》（十二）中，李敖继续引用《亚洲周刊》报道，谈到《北京法源寺》获提名后使北京法源寺本身受到更多关注，游客增加。此条是作品接受与现实地点热度的节目记录。",
+    "view": [
+      "节目线",
+      "媒体线",
+      "大陆线"
+    ],
+    "tags": [
+      "北京法源寺",
+      "法源寺",
+      "李敖秘密书房",
+      "亚洲周刊",
+      "游客",
+      "接受史"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "北京",
+      "法源寺",
+      "台湾"
+    ],
+    "works": [
+      "北京法源寺",
+      "李敖秘密书房",
+      "亚洲周刊"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖秘密书房",
+      "chapter": "087.20000407《北京法源寺》（十二）",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/003.李敖秘密书房/087.20000407《北京法源寺》（十二）.txt",
+      "line": 1
+    },
+    "additionalSources": [
+      {
+        "book": "李敖秘密书房",
+        "chapter": "087.20000407《北京法源寺》（十二）",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/003.李敖秘密书房/087.20000407《北京法源寺》（十二）.txt",
+        "line": 5
+      }
+    ],
+    "crossReferences": [
+      "beijing-fayuansi-2000-04-06-secret-study-episode-11-asia-weekly",
+      "book8-2000-beijing-fayuan-temple-nobel-prize-nomination"
+    ]
+  },
+  {
+    "id": "beijing-fayuansi-2000-04-10-secret-study-episode-13",
+    "date": "2000-04-10",
+    "displayDate": "2000年4月10日",
+    "datePrecision": "day",
+    "title": "李敖在《秘密书房》谈《北京法源寺》以寺为焦点的观点",
+    "summary": "2000年4月10日《北京法源寺》（十三）中，李敖继续讲解这部小说，强调以法源寺作为观察和展开中国历史问题的焦点。此条记录作品阐释层面的节目活动。",
+    "view": [
+      "节目线",
+      "创作线",
+      "思想线"
+    ],
+    "tags": [
+      "北京法源寺",
+      "李敖秘密书房",
+      "法源寺",
+      "作品观点",
+      "历史阐释"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台湾",
+      "北京",
+      "法源寺"
+    ],
+    "works": [
+      "北京法源寺",
+      "李敖秘密书房"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖秘密书房",
+      "chapter": "088.20000410《北京法源寺》（十三）",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/003.李敖秘密书房/088.20000410《北京法源寺》（十三）.txt",
+      "line": 1
+    },
+    "additionalSources": [
+      {
+        "book": "李敖秘密书房",
+        "chapter": "088.20000410《北京法源寺》（十三）",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/003.李敖秘密书房/088.20000410《北京法源寺》（十三）.txt",
+        "line": 5
+      }
+    ],
+    "crossReferences": [
+      "beijing-fayuansi-2000-04-07-secret-study-episode-12-temple-visitors"
+    ]
+  },
+  {
+    "id": "beijing-fayuansi-2000-04-11-secret-study-episode-14-finale",
+    "date": "2000-04-11",
+    "displayDate": "2000年4月11日",
+    "datePrecision": "day",
+    "title": "李敖在《秘密书房》完成《北京法源寺》系列最后一集总结",
+    "summary": "2000年4月11日《北京法源寺》（十四）中，李敖说明这是该系列最后一集、要做总结，并继续讨论小说结尾。此条标记《秘密书房》集中介绍《北京法源寺》系列的收束节点。",
+    "view": [
+      "节目线",
+      "创作线"
+    ],
+    "tags": [
+      "北京法源寺",
+      "李敖秘密书房",
+      "系列节目",
+      "总结",
+      "最后一集"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "北京法源寺",
+      "李敖秘密书房"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖秘密书房",
+      "chapter": "089.20000411《北京法源寺》（十四）",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/003.李敖秘密书房/089.20000411《北京法源寺》（十四）.txt",
+      "line": 1
+    },
+    "additionalSources": [
+      {
+        "book": "李敖秘密书房",
+        "chapter": "089.20000411《北京法源寺》（十四）",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/003.李敖秘密书房/089.20000411《北京法源寺》（十四）.txt",
+        "line": 5
+      },
+      {
+        "book": "李敖秘密书房",
+        "chapter": "089.20000411《北京法源寺》（十四）",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/003.李敖秘密书房/089.20000411《北京法源寺》（十四）.txt",
+        "line": 7
+      }
+    ],
+    "crossReferences": [
+      "beijing-fayuansi-2000-04-10-secret-study-episode-13"
+    ]
+  },
+  {
+    "id": "beijing-fayuansi-2000-2001-shanghai-youth-interview-nobel-and-piracy",
+    "date": "2001-12-31",
+    "displayDate": "2000-2001年《上海青年报》专访期间",
+    "datePrecision": "year-range",
+    "title": "李敖在《上海青年报》专访中谈《北京法源寺》提名来由与大陆盗版态度",
+    "summary": "《上海青年报》专访中，李敖说朋友拿《北京法源寺》申请诺贝尔文学奖评选并获提名，最初连他自己都不知道；谈到提名后大陆出现盗版，他表示不怪盗版，只要不乱改、不要冒名即可。此条作为访谈中对诺奖提名来由和盗版态度的补充，实际提名事件归旧节点。",
+    "view": [
+      "访谈线",
+      "出版线",
+      "大陆线"
+    ],
+    "tags": [
+      "北京法源寺",
+      "上海青年报",
+      "诺贝尔文学奖",
+      "盗版",
+      "访谈"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "中国大陆",
+      "台湾"
+    ],
+    "works": [
+      "北京法源寺",
+      "上海青年报"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖访谈录1990-2018",
+      "chapter": "019.2000-2001《上海青年报》专访李敖",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/019.2000-2001《上海青年报》专访李敖.txt",
+      "line": 209
+    },
+    "additionalSources": [
+      {
+        "book": "李敖访谈录1990-2018",
+        "chapter": "019.2000-2001《上海青年报》专访李敖",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/019.2000-2001《上海青年报》专访李敖.txt",
+        "line": 189
+      },
+      {
+        "book": "李敖访谈录1990-2018",
+        "chapter": "019.2000-2001《上海青年报》专访李敖",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/019.2000-2001《上海青年报》专访李敖.txt",
+        "line": 243
+      }
+    ],
+    "crossReferences": [
+      "book8-2000-beijing-fayuan-temple-nobel-prize-nomination",
+      "beijing-fayuansi-1992-context-renmin-wenxue-authorized-mainland-edition"
+    ]
+  },
+  {
+    "id": "beijing-fayuansi-2005-09-22-first-visit-to-fayuan-temple-after-peking-university",
+    "date": "2005-09-22",
+    "displayDate": "2005年9月22日下午",
+    "datePrecision": "day",
+    "title": "李敖北大演讲后预告下午去法源寺，后来自称写书前从未到过那里",
+    "summary": "2005年9月22日北大演讲中，李敖提到自己当天下午要去法源寺看看，并说此前从未去过那个地方，却能写出《北京法源寺》。后来节目中他回忆大陆行时到法源寺现场人潮汹涌，无法“独与天地精神往来”。此条记录作品完成多年后作者实地到访/参访法源寺的现实行动，不采小说情节。",
+    "view": [
+      "大陆线",
+      "演讲线",
+      "创作线"
+    ],
+    "tags": [
+      "北京法源寺",
+      "法源寺",
+      "北京大学演讲",
+      "神州文化之旅",
+      "实地参访",
+      "北京"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "北京大学",
+      "北京",
+      "法源寺"
+    ],
+    "works": [
+      "北京法源寺",
+      "李敖演讲集",
+      "李敖有话说"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖演讲集",
+      "chapter": "038.20050922李敖北大演讲",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/011.李敖演讲集/038.20050922李敖北大演讲.txt",
+      "line": 93
+    },
+    "additionalSources": [
+      {
+        "book": "李敖有话说",
+        "chapter": "631.2006-08-07：谈王国维的遗书",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/007.李敖有话说/631.2006-08-07：谈王国维的遗书.txt",
+        "line": 21
+      },
+      {
+        "book": "李敖有话说",
+        "chapter": "631.2006-08-07：谈王国维的遗书",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/007.李敖有话说/631.2006-08-07：谈王国维的遗书.txt",
+        "line": 25
+      },
+      {
+        "book": "李敖研究fashion文集",
+        "chapter": "012.李敖的保镖",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/017.百家论李敖/007.李敖研究fashion文集/012.李敖的保镖.txt",
+        "line": 9,
+        "note": "第三方叙述，补充现场安保和人潮失控情况；非李敖本人说法。"
+      }
+    ],
+    "crossReferences": [
+      "beijing-fayuansi-1990-before-completion-research-assistance",
+      "book7-2005-shenzhou-trip-daughter-asks-why-people-like-the-old-man-at-peking-university"
+    ]
+  },
+  {
+    "id": "beijing-fayuansi-2012-tian-qinxin-adaptation-study-meetings",
+    "date": "2012-12-31",
+    "displayDate": "2012年",
+    "datePrecision": "year",
+    "title": "田沁鑫在李敖书房与李敖讨论改编《北京法源寺》，李敖授权舞台化",
+    "summary": "《北京青年报》2018年报道回溯，田沁鑫2012年因《风华绝代》赴台北时经刘晓庆首次见到李敖；在李敖书房里，两人讨论哪部作品适合改编，田沁鑫提出《法源寺》，李敖认为语言密度高、适合对话。报道又称田沁鑫随后六次赴台北与李敖见面，李敖赠她万宝龙钢笔和印章，签约时几乎不审合同，只电话询问能否保留康有为关于历史必然性的观点。此条为第三方报道回溯，不是李敖本人自述。",
+    "view": [
+      "改编线",
+      "访谈线",
+      "创作线"
+    ],
+    "tags": [
+      "北京法源寺",
+      "田沁鑫",
+      "刘晓庆",
+      "舞台剧",
+      "改编授权",
+      "第三方报道"
+    ],
+    "people": [
+      "李敖",
+      "田沁鑫",
+      "刘晓庆"
+    ],
+    "places": [
+      "台北",
+      "李敖书房"
+    ],
+    "works": [
+      "北京法源寺",
+      "风华绝代",
+      "北京青年报"
+    ],
+    "certainty": "reported-by-third-party",
+    "source": {
+      "book": "李敖访谈录1990-2018",
+      "chapter": "077.20180319《北京青年报》报导",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/077.20180319《北京青年报》报导.txt",
+      "line": 27,
+      "note": "第三方报道回溯；明示为非李敖本人说法。"
+    },
+    "additionalSources": [
+      {
+        "book": "李敖访谈录1990-2018",
+        "chapter": "077.20180319《北京青年报》报导",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/077.20180319《北京青年报》报导.txt",
+        "line": 31
+      },
+      {
+        "book": "李敖访谈录1990-2018",
+        "chapter": "077.20180319《北京青年报》报导",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/077.20180319《北京青年报》报导.txt",
+        "line": 33
+      },
+      {
+        "book": "李敖访谈录1990-2018",
+        "chapter": "077.20180319《北京青年报》报导",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/077.20180319《北京青年报》报导.txt",
+        "line": 35
+      }
+    ],
+    "crossReferences": [
+      "beijing-fayuansi-1991-06-30-published-by-wenxing",
+      "beijing-fayuansi-2017-11-stage-play-taipei-while-hospitalized"
+    ]
+  },
+  {
+    "id": "beijing-fayuansi-2017-11-stage-play-taipei-while-hospitalized",
+    "date": "2017-11-30",
+    "displayDate": "2017年11月",
+    "datePrecision": "month",
+    "title": "舞台剧《北京法源寺》到台北演出时，李敖已在医院昏迷",
+    "summary": "《北京青年报》报道说，舞台剧《北京法源寺》北京首演时李敖因北京冬天太冷未能到场；2017年11月该剧抵达台北时，李敖已经昏迷在医院，演员只能在李戡陪同下到李敖书房参观。此条是作品改编在李敖晚年发生的接受史节点，主体为第三方报道，不是李敖本人行动。",
+    "view": [
+      "改编线",
+      "晚年线",
+      "家庭线"
+    ],
+    "tags": [
+      "北京法源寺",
+      "舞台剧",
+      "台北演出",
+      "田沁鑫",
+      "李戡",
+      "晚年",
+      "第三方报道"
+    ],
+    "people": [
+      "李敖",
+      "田沁鑫",
+      "李戡"
+    ],
+    "places": [
+      "台北",
+      "北京",
+      "李敖书房"
+    ],
+    "works": [
+      "北京法源寺",
+      "北京青年报"
+    ],
+    "certainty": "reported-by-third-party",
+    "source": {
+      "book": "李敖访谈录1990-2018",
+      "chapter": "077.20180319《北京青年报》报导",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/077.20180319《北京青年报》报导.txt",
+      "line": 37,
+      "note": "第三方报道；事件主体为作品改编到台北，非李敖本人行动。"
+    },
+    "crossReferences": [
+      "beijing-fayuansi-2012-tian-qinxin-adaptation-study-meetings",
+      "book8-2018-03-18-li-ao-dies"
+    ]
+  }
+]

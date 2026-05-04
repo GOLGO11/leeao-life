@@ -70,6 +70,21 @@ h1 {
   letter-spacing: 0;
 }
 
+.sponsor {
+  display: inline-flex;
+  align-items: center;
+  margin: 18px 0 0;
+  border: 1px solid rgba(240, 216, 151, 0.82);
+  border-radius: 8px;
+  background: rgba(179, 38, 30, 0.88);
+  color: #fff7df;
+  padding: 8px 12px;
+  font-size: clamp(18px, 2vw, 24px);
+  font-weight: 700;
+  line-height: 1.35;
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.22);
+}
+
 .lede {
   max-width: 680px;
   margin: 22px 0 0;

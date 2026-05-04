@@ -1,9 +1,9 @@
 ﻿李敖交互式年表：当前增量纯文本备份
 生成日期：2026-05-04
-事件总数：2154
-数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json；data/timeline-events-ni-bendan.json；data/timeline-events-dream-awake.json；data/timeline-events-li-ao-xinkan.json；data/timeline-events-qianqiu-wansui-wuya-qiushi.json；data/timeline-events-li-ao-zawenji.json；data/timeline-events-qianqiu-wansui-bianwai.json
+事件总数：2183
+数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json；data/timeline-events-ni-bendan.json；data/timeline-events-dream-awake.json；data/timeline-events-li-ao-xinkan.json；data/timeline-events-qianqiu-wansui-wuya-qiushi.json；data/timeline-events-li-ao-zawenji.json；data/timeline-events-qianqiu-wansui-bianwai.json；data/timeline-events-beijing-fayuansi.json
 说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。
-日期精度统计：day=1741；year=92；year-range=11；undated-range=1；undated-context=140；season=26；lunar-day=1；year-after=7；month=48；half-year=2；school-year-context=5；day-range=14；month-after=3；year-context=15；day-after=4；before-date-context=9；year-about=5；after-date-context=8；month-context=3；day-context=5；range-context=13；year-end=1
+日期精度统计：day=1761；year=93；year-range=13；undated-range=1；undated-context=140；season=26；lunar-day=1；year-after=7；month=49；half-year=2；school-year-context=5；day-range=14；month-after=3；year-context=16；day-after=4；before-date-context=10；year-about=6；after-date-context=8；month-context=3；day-context=5；range-context=14；year-end=2
 
 
 1935
@@ -9848,6 +9848,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/028.监狱学土城？.txt
   数据：data/timeline-events-second-book-evidence.json#book2-evidence-1975-tucheng-detention-center-built
+- 约1975年（1991年6月12日回忆“十六年前”第一次政治犯黑狱中） | 李敖在第一次政治犯狱中决定《北京法源寺》书名并构想小说
+  精度：year-about；可靠度：reported-by-author；排序日期：1975-12-31
+  摘要：李敖在《我写〈北京法源寺〉》中追述，《北京法源寺》作为书名，是他第一次做政治犯时在国民党黑狱中决定的；自1971年起的长期囚禁与软禁中，他在狱中构想出几部小说，其中一部就是《北京法源寺》。这里的“约1975年”由1991年6月12日文章所说“十六年前”推得，只作近似时间锚。
+  人物：李敖
+  地点：台湾、军法处
+  标签：北京法源寺、小说创作、政治犯、国民党黑狱、书名、约1975
+  视图：创作线、牢狱线
+  作品：北京法源寺、我写《北京法源寺》
+  交叉引用：1971-03-19-arrested、book2-1971-03-19-arrest-after-house-arrest、book4-1971-03-19-taken-away-ending-house-arrest、book4-1976-11-19-released-without-guarantor
+  来源：北京法源寺 / 018.我写《北京法源寺》 / line 3
+  补充来源：北京法源寺 / 018.我写《北京法源寺》 / line 25
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/001.北京法源寺/018.我写《北京法源寺》.txt
+  数据：data/timeline-events-beijing-fayuansi.json#beijing-fayuansi-1975-about-prison-conception-title-decided
 
 1976
 - 1976-02-09 | 在仁爱庄读旧报，得知严侨真正死讯
@@ -9954,6 +9967,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/014.我们梦想“野蛮之自由”.txt
   数据：data/timeline-events-freedom-summoning.json#freedom-summoning-1976-winter-experiences-household-police-checks
+- 1976年出狱后 | 李敖出狱后开始断续写《北京法源寺》前几章
+  精度：year-context；可靠度：reported-by-author；排序日期：1976-12-31
+  摘要：李敖说，黑狱中禁止写作，他只能先粗略构想书中情节，以备出狱后追写；1976年出狱并料理劫后事务之余，他开始断断续续写《北京法源寺》前几章。
+  人物：李敖
+  地点：台湾
+  标签：北京法源寺、小说创作、出狱、前几章、1976
+  视图：创作线、牢狱线
+  作品：北京法源寺、我写《北京法源寺》
+  交叉引用：book4-1976-11-19-released-without-guarantor、book4-1976-12-01-starts-work-at-international-relations-center
+  来源：北京法源寺 / 018.我写《北京法源寺》 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/001.北京法源寺/018.我写《北京法源寺》.txt
+  数据：data/timeline-events-beijing-fayuansi.json#beijing-fayuansi-1976-after-release-starts-first-chapters
 
 1977
 - 1977年12月17日 | 萧孟能与朱婉坚订立协议书补充条款
@@ -21916,6 +21942,32 @@
   补充来源：千秋万岁乌鸦求是合集 / 120.全美华人协会颁奖典礼录音答辞 / line 5；说明：补出李敖因与台湾国民党政府纠缠无法赴美，委请好友代为出席、领奖并发表录音答辞。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/008.李敖相关/003.中华民国现代名人录——李敖.txt
   数据：data/timeline-events-eighth-book.json#book8-1990-10-receives-naca-outstanding-achievement-award
+- 1979年复出文坛后至1990年底前 | 李敖复出文坛后长期被其他写作牵住，《北京法源寺》只断续写万余字
+  精度：range-context；可靠度：reported-by-author；排序日期：1990-12-30
+  摘要：李敖回忆，1979年复出文坛后，他十二年间主力几乎全投在其他写作上，出书一百二十种、被查禁九十六种、被查扣十一万七千六百册；《北京法源寺》因此被耽误，十二年中只断续写了万把字，始终没能完成。
+  人物：李敖
+  地点：台湾
+  标签：北京法源寺、复出文坛、查禁、查扣、断续写作、1979-1990
+  视图：创作线、出版线
+  作品：北京法源寺、我写《北京法源寺》
+  交叉引用：1979-06-return-literary-world
+  来源：北京法源寺 / 018.我写《北京法源寺》 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/001.北京法源寺/018.我写《北京法源寺》.txt
+  数据：data/timeline-events-beijing-fayuansi.json#beijing-fayuansi-1979-1990-intermittent-drafting-delayed
+- 1990年底完稿前（据1991年6月12日写作说明回溯） | 李敖为《北京法源寺》做历史考证并请友人代查北京实地资料
+  精度：before-date-context；可靠度：reported-by-author；排序日期：1990-12-30
+  摘要：李敖说明，《北京法源寺》以历史考证为底子：日本公使馆木窗据1900年照片写成；法源寺现状由许以祺在北京为他照相画图；袁崇焕坟墓资料由潘君密托北京作家出版社李荣胜代找；康有为、谭嗣同故居现状由陈兆基代查访。此条为创作资料准备事件，日期锚定为1990年底完稿前的回溯，不是精确发生日。
+  人物：李敖、许以祺、潘君密、李荣胜、陈兆基、袁崇焕、康有为、谭嗣同
+  地点：北京、法源寺、日本公使馆、袁崇焕坟墓、康有为故居、谭嗣同故居
+  标签：北京法源寺、历史考证、许以祺、潘君密、李荣胜、陈兆基、资料准备、北京
+  视图：创作线、学术线
+  作品：北京法源寺、我写《北京法源寺》
+  交叉引用：beijing-fayuansi-1990-year-end-finishes-novel-before-qiushi-bao
+  来源：北京法源寺 / 018.我写《北京法源寺》 / line 15
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/001.北京法源寺/018.我写《北京法源寺》.txt
+  数据：data/timeline-events-beijing-fayuansi.json#beijing-fayuansi-1990-before-completion-research-assistance
 - 1990年 | 出版《爱情的秘密》
   精度：year；可靠度：confirmed；排序日期：1990-12-31
   摘要：《李敖五十年表》记，李敖于1990年出版《爱情的秘密》。在第八本当前已补进全集、自传双书、新刊与大全集等大型出版节点之后，这条继续把1990年代单本作品线补得更完整，避免总年表在李敖中晚年出版谱系上只剩结集类大节点。
@@ -21955,6 +22007,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/308.徐开尘约我写文章.txt
   数据：data/timeline-events-seventh-book.json#book7-1990-12-writes-hu-shi-bai-nian-gu-ji-for-xu-kaichen
+- 1990年底（1991年6月12日文中称“去年年底”） | 李敖在创办《求是报》前用一个多月快速完成《北京法源寺》
+  精度：year-end；可靠度：reported-by-author；排序日期：1990-12-31
+  摘要：李敖写道，国民党在台湾三十七年的报禁解除后，他决定创办《求是报》，自知报纸一办时间会被困住，于是花一个多月、每天写两个多小时，终于在“去年年底”快速完成《北京法源寺》。因文章署日为1991年6月12日，此处“去年年底”记为1990年底。
+  人物：李敖
+  地点：台湾
+  标签：北京法源寺、求是报、报禁解除、完稿、快速写作、1990
+  视图：创作线、媒体线
+  作品：北京法源寺、求是报、我写《北京法源寺》
+  交叉引用：book4-1992-04-01-li-ao-qiushi-review-ends、book5-1992-01-03-hospital-queue-beijing-fayuansi-praise、book8-2000-beijing-fayuan-temple-nobel-prize-nomination
+  来源：北京法源寺 / 018.我写《北京法源寺》 / line 9
+  补充来源：北京法源寺 / 018.我写《北京法源寺》 / line 25
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/001.北京法源寺/018.我写《北京法源寺》.txt
+  数据：data/timeline-events-beijing-fayuansi.json#beijing-fayuansi-1990-year-end-finishes-novel-before-qiushi-bao
 
 1991
 - 1991年1月4日 | 李敖致昆明大姐信中写母亲返台后的风趣状态
@@ -22893,6 +22958,45 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/006.求是新语/160.宋英式的公平.txt
   数据：data/timeline-events-qiushi-xinyu.json#qiushi-xinyu-1991-06-09-song-ying-on-fu-cheng-and-lei-chen
+- 1991年6月11日下午3时 | 李敖写《李敖谈〈李敖的报纸〉》，回应《求是报》重登《北京法源寺》的争议
+  精度：day；可靠度：confirmed；排序日期：1991-06-11
+  摘要：李敖在《李敖谈〈李敖的报纸〉》中回应陈嘉宗批评《求是报》“旧文新刊”，其中包括重新登载长篇小说《北京法源寺》。李敖解释，旧文重刊是为了让过去被禁的作品重新流通，并借此反击台湾文学环境，称若台湾真有文学创作，也不必由他来写《北京法源寺》。这条记录的是李敖围绕该小说连载/重刊的公开辩护，不采小说正文情节。
+  人物：李敖、陈嘉宗
+  地点：台湾
+  标签：北京法源寺、求是报、旧文新刊、李敖的报纸、陈嘉宗、公开回应
+  视图：媒体线、出版线、创作线
+  作品：北京法源寺、求是报、李敖谈《李敖的报纸》
+  交叉引用：beijing-fayuansi-1990-year-end-finishes-novel-before-qiushi-bao、book4-1992-04-01-li-ao-qiushi-review-ends
+  来源：李敖报刊集 / 016.李敖谈《李敖的报纸》 / line 25
+  补充来源：李敖报刊集 / 016.李敖谈《李敖的报纸》 / line 27；李敖报刊集 / 016.李敖谈《李敖的报纸》 / line 43
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/001.李敖报刊集/016.李敖谈《李敖的报纸》.txt
+  数据：data/timeline-events-beijing-fayuansi.json#beijing-fayuansi-1991-06-11-qiushi-bao-reprint-controversy
+- 1991年6月12日 | 李敖写《我写〈北京法源寺〉》，说明小说创作缘起与印行心意
+  精度：day；可靠度：confirmed；排序日期：1991-06-12
+  摘要：李敖在1991年6月12日署日的《我写〈北京法源寺〉》中，集中说明《北京法源寺》的书名缘起、狱中构思、出狱后断续写作、1990年底完稿、历史考证方法与小说观；文末又说自己独处台湾写此书，如今“印此书以归故国”，难忘自己是大陆人。此条为写作说明/序跋层事件，不把小说正文情节当作现实年表。
+  人物：李敖、谭嗣同
+  地点：台湾、北京、中国大陆
+  标签：北京法源寺、我写《北京法源寺》、写作说明、序跋、印行、1991
+  视图：创作线、出版线
+  作品：北京法源寺、我写《北京法源寺》、仁学
+  交叉引用：beijing-fayuansi-1975-about-prison-conception-title-decided、beijing-fayuansi-1990-year-end-finishes-novel-before-qiushi-bao、book5-1992-01-03-hospital-queue-beijing-fayuansi-praise
+  来源：北京法源寺 / 018.我写《北京法源寺》 / line 25
+  补充来源：北京法源寺 / 018.我写《北京法源寺》 / line 23
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/001.北京法源寺/018.我写《北京法源寺》.txt
+  数据：data/timeline-events-beijing-fayuansi.json#beijing-fayuansi-1991-06-12-writes-about-writing-fayuan
+- 1991年6月13日 | 李敖答郭启元，承诺改正《北京法源寺》单行本并亲写封底介绍词
+  精度：day；可靠度：confirmed；排序日期：1991-06-13
+  摘要：郭启元来信指出《北京法源寺》中《南京条约》一处史实疑难，并预言此书会成为不朽名作。李敖回信说原稿漏了“起”字，单行本自当改正；同日还说明书正在设计封面，封底介绍词由他亲写，并把《北京法源寺》称为自己的第一部长篇小说。这是单行本付印前后的校改与封底文案事件。
+  人物：李敖、郭启元
+  地点：台湾
+  标签：北京法源寺、郭启元、勘改、单行本、封底介绍词、南京条约
+  视图：书信线、出版线、创作线
+  作品：北京法源寺、讨论《北京法源寺》
+  交叉引用：beijing-fayuansi-1991-06-12-writes-about-writing-fayuan、beijing-fayuansi-1991-06-30-published-by-wenxing
+  来源：李敖书函集 / 044.讨论《北京法源寺》 / line 35
+  补充来源：李敖书函集 / 044.讨论《北京法源寺》 / line 37；李敖书函集 / 044.讨论《北京法源寺》 / line 39；李敖书函集 / 044.讨论《北京法源寺》 / line 47
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/008.李敖书函集/044.讨论《北京法源寺》.txt
+  数据：data/timeline-events-beijing-fayuansi.json#beijing-fayuansi-1991-06-13-guo-qiyuan-correction-and-back-cover-copy
 - 1991年6月14日 | 李敖借6月14日报道批美国黑名单流风四十年不歇
   精度：day；可靠度：inferred；排序日期：1991-06-14
   摘要：《美国的黑名单》正文开头直接写“6月14日，《美国侨报》据《纽约时报》报导说”。李敖据此写美国政府同意清除因意识形态问题而禁止入境的二十五万个外国人名单，认为这份黑名单正是麦卡锡时代流风四十年不歇的产物，并借题对照国民党的本国人黑名单。结合目录中《李敖求是新语》1991年6月1日至8月20日语境，这条可保守落为1991年6月14日。
@@ -23062,6 +23166,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/135.强盗的让步.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1991-06-29-135-writes-bandits-concession
+- 1991年6月30日 | 《北京法源寺》由台北文星书店出版
+  精度：day；可靠度：confirmed；排序日期：1991-06-30
+  摘要：《李敖五十年表》记1991年6月30日出版《北京法源寺》；《中华民国作家作品目录--李敖》又列明该书由台北文星书店出版，民国八十年六月，32开，366页。此条补足《北京法源寺》单行本的出版节点，和此前写作完成、写作说明、读者反应与诺奖提名旧节点互相引用。
+  人物：李敖
+  地点：台北
+  标签：北京法源寺、文星书店、出版、单行本、1991
+  视图：出版线、创作线
+  作品：北京法源寺、李敖五十年表、中华民国作家作品目录--李敖
+  交叉引用：beijing-fayuansi-1990-year-end-finishes-novel-before-qiushi-bao、beijing-fayuansi-1991-06-12-writes-about-writing-fayuan、beijing-fayuansi-1991-06-13-guo-qiyuan-correction-and-back-cover-copy、book5-1992-01-03-hospital-queue-beijing-fayuansi-praise、book8-2000-beijing-fayuan-temple-nobel-prize-nomination
+  来源：李敖相关 / 001.李敖五十年表 / line 139
+  补充来源：李敖相关 / 004.中华民国作家作品目录--李敖 / line 59
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/008.李敖相关/001.李敖五十年表.txt
+  数据：data/timeline-events-beijing-fayuansi.json#beijing-fayuansi-1991-06-30-published-by-wenxing
 - 1991年7月1日 | 李敖闻蒋孝武死讯写《欣闻蒋孝武暴毙》
   精度：day；可靠度：confirmed；排序日期：1991-07-01
   摘要：《猪猡纪》写，蒋孝武于1991年7月1日去世，李敖随即以《欣闻蒋孝武暴毙》为题写顺口溜六首，把它放入自己批蒋、批蒋家王朝的写作脉络。
@@ -23283,6 +23400,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/014.我最难忘的一个“反共义士”.txt
   数据：data/timeline-events-third-book.json#book3-1991-08-13-qu-juncheng-written
+- 1991年9月5日 | 李敖答潘毓刚，整理《北京法源寺》第一轮勘误
+  精度：day；可靠度：confirmed；排序日期：1991-09-05
+  摘要：潘毓刚1991年8月26日来信指出《北京法源寺》的两个漏洞。李敖9月5日答信，说明此书是在办《求是报》前夜匆匆赶完又快速付印，原稿斑驳杂乱；出书后陈兆基、林永丰等人也指出不妥和笔误。李敖随信列出勘误表，并解释历史小说中古今语言并置的处理。
+  人物：李敖、潘毓刚、陈兆基、林永丰
+  地点：台湾
+  标签：北京法源寺、勘误、潘毓刚、陈兆基、林永丰、求是报
+  视图：书信线、出版线、创作线
+  作品：北京法源寺、《北京法源寺》勘误
+  交叉引用：beijing-fayuansi-1991-06-30-published-by-wenxing、beijing-fayuansi-1991-12-21-fang-jianxiang-unified-errata
+  来源：李敖书启集 / 001.《北京法源寺》勘误 / line 29
+  补充来源：李敖书启集 / 001.《北京法源寺》勘误 / line 31；李敖书启集 / 001.《北京法源寺》勘误 / line 55；李敖书启集 / 001.《北京法源寺》勘误 / line 59
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/001.《北京法源寺》勘误.txt
+  数据：data/timeline-events-beijing-fayuansi.json#beijing-fayuansi-1991-09-05-pan-yugang-errata
 - 1991年9月30日 | 《千秋评论》停刊，十年出版战线告一段落
   精度：day；可靠度：confirmed；排序日期：1991-09-30
   摘要：《“十年辛苦不寻常”》写，1991年9月30日，《千秋评论》在创造历史十年后停刊，李敖把这十年形容为字字皆血、一路从戒严打到解严的长期阵地战。这一停刊日可视为他以《千秋评论》为主轴连续对抗国民党的出版战线正式收束。
@@ -23322,6 +23452,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/018.笔伐（1982-1992·47到57岁）.txt
   数据：data/timeline-events-fourth-book.json#book4-1991-11-01-li-ao-qiushi-review-starts
+- 1991年12月21日 | 李敖答方健祥，综合四人意见重列《北京法源寺》勘误表
+  精度：day；可靠度：confirmed；排序日期：1991-12-21
+  摘要：方健祥10月8日致信，称读《北京法源寺》后震撼，并希望再版时改正两处小疵。李敖12月21日答复，再次说明此书出书前与办《求是报》撞档，来不及细校；他综合陈兆基、林永丰、潘毓刚和方健祥前后指正，统一列出勘误表，并盼对方继续指正。
+  人物：李敖、方健祥、陈兆基、林永丰、潘毓刚
+  地点：台湾
+  标签：北京法源寺、再勘误、方健祥、陈兆基、林永丰、潘毓刚、再版
+  视图：书信线、出版线、创作线
+  作品：北京法源寺、《北京法源寺》再勘误
+  交叉引用：beijing-fayuansi-1991-09-05-pan-yugang-errata、beijing-fayuansi-1991-06-30-published-by-wenxing
+  来源：李敖书启集 / 004.《北京法源寺》再勘误 / line 25
+  补充来源：李敖书启集 / 004.《北京法源寺》再勘误 / line 27；李敖书启集 / 004.《北京法源寺》再勘误 / line 29；李敖书启集 / 004.《北京法源寺》再勘误 / line 51；李敖书启集 / 004.《北京法源寺》再勘误 / line 53
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/004.《北京法源寺》再勘误.txt
+  数据：data/timeline-events-beijing-fayuansi.json#beijing-fayuansi-1991-12-21-fang-jianxiang-unified-errata
 - 1991年12月27日中午 | 四分之一世纪后，李敖与杨西崑在四季重续旧谈
   精度：day；可靠度：confirmed；排序日期：1991-12-27
   摘要：《四分之一世纪后》写，1991年12月27日中午，李敖与杨西崑在四季吃西餐，从十一点半谈到两点半。席间杨西崑直言政府不该长期打压李敖，李敖则总结其一生为中国人做事可肯定、若只为该政权做事则不值得，这场旧友重谈留下了晚年回望政治生涯的一次清楚对话。
@@ -23506,6 +23649,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/006.我最难忘的一家书店.txt
   数据：data/timeline-events-third-book.json#book3-1992-02-09-bookstore-written
+- 1992年2月12日 | 李宁花一万元买《北京法源寺》，李敖出版社送去四十本
+  精度：day；可靠度：reported-by-author；排序日期：1992-02-12
+  摘要：李敖随写记载，李宁花一万元购买《北京法源寺》，李敖出版社当天送去四十本，其中二十本精装、二十本平装。李敖在前一天电话里问她为何买这么多送人，李宁说此书论佛精彩，愿作功德分送友好。此条是读者购买与作者出版机构配送层面的日常事件。
+  人物：李敖、李宁
+  地点：台湾
+  标签：北京法源寺、李宁、购书、赠书、李敖出版社、读者反应
+  视图：日常线、出版线、读者线
+  作品：北京法源寺、李宁大买《北京法源寺》
+  交叉引用：beijing-fayuansi-1991-06-30-published-by-wenxing、book5-1992-01-03-hospital-queue-beijing-fayuansi-praise
+  来源：李敖随写录后集 / 117.李宁大买《北京法源寺》 / line 3
+  补充来源：李敖随写录后集 / 117.李宁大买《北京法源寺》 / line 5
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/010.李敖随写录后集/117.李宁大买《北京法源寺》.txt
+  数据：data/timeline-events-beijing-fayuansi.json#beijing-fayuansi-1992-02-12-li-ning-buys-forty-copies
 - 1992年2月13日晨 | 写定《我最难忘的一位残障人士》
   精度：day；可靠度：confirmed；排序日期：1992-02-13
   摘要：《我最难忘的一位残障人士》文末署1992年2月13日晨，李敖介绍邱铭笙《用写的卡通动画、黑色喜剧》，称其为病房里的哲学家。
@@ -23519,6 +23675,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/015.我最难忘的一位残障人士.txt
   数据：data/timeline-events-third-book.json#book3-1992-02-13-disabled-philosopher-written
+- 1992年2月25日 | 李敖为新光社广播免费广告拟《北京法源寺》广告词
+  精度：day；可靠度：reported-by-author；排序日期：1992-02-25
+  摘要：《〈北京法源寺〉广告词》记，江述凡免费替李敖打“新光社”广播广告，李敖因此自拟《北京法源寺》广告词。此条补出该书上市后的广播宣传动作，属于出版发行与媒体推广层面。
+  人物：李敖、江述凡
+  地点：台湾
+  标签：北京法源寺、广告词、江述凡、新光社、广播广告、宣传
+  视图：出版线、媒体线
+  作品：北京法源寺、《北京法源寺》广告词
+  交叉引用：beijing-fayuansi-1991-06-30-published-by-wenxing、beijing-fayuansi-1992-02-12-li-ning-buys-forty-copies
+  来源：李敖随写录后集 / 149.《北京法源寺》广告词 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/010.李敖随写录后集/149.《北京法源寺》广告词.txt
+  数据：data/timeline-events-beijing-fayuansi.json#beijing-fayuansi-1992-02-25-xinguang-radio-ad-copy
 - 1992年3月8日 | 李敖与王小屯结婚
   精度：day；可靠度：confirmed；排序日期：1992-03-08
   摘要：《前程》章回忆，李敖与小他近三十岁的王小屯认识八年后，于1992年3月8日结婚，并以“证人从老，证书从俗，正朔从伪，三从出炉”题字于结婚证书上。
@@ -23571,6 +23740,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/017.猪猡纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1982-to-1992-ten-year-pen-war-against-kmt
+- 1990-1992年 | 李敖授权人民文学出版社出版《北京法源寺》等四部作品
+  精度：year-range；可靠度：reported-by-third-party；排序日期：1992-12-31
+  摘要：《大陆研究李敖综述》称，1990至1992年间李敖授权人民文学出版社出版《独白下的传统》《李敖自传与回忆》《坐牢家爸爸给女儿的八十封信》以及《北京法源寺》；这四部被该文称为李敖首次亲自授权大陆出版，其中《北京法源寺》是大陆引进此书的最早版本。此为第三方研究综述说法，不是李敖本人自述；1999年《长江日报》专访中，李敖也提到自己在北京人民文学出版社出过《北京法源寺》。
+  人物：李敖
+  地点：北京、中国大陆
+  标签：北京法源寺、人民文学出版社、大陆出版、授权出版、第三方综述
+  视图：出版线、大陆线、研究线
+  作品：北京法源寺、独白下的传统、李敖自传与回忆、坐牢家爸爸给女儿的八十封信、大陆研究李敖综述
+  交叉引用：beijing-fayuansi-1991-06-30-published-by-wenxing、book8-2000-beijing-fayuan-temple-nobel-prize-nomination
+  来源：李敖研究fashion文集 / 005.大陆研究李敖综述 / line 13
+  补充来源：李敖访谈录1990-2018 / 006.19990403《长江日报》专访李敖 / line 19
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/017.百家论李敖/007.李敖研究fashion文集/005.大陆研究李敖综述.txt
+  数据：data/timeline-events-beijing-fayuansi.json#beijing-fayuansi-1992-context-renmin-wenxue-authorized-mainland-edition
 - 1992年 | 李敖请大姐、二姐来台湾重聚
   精度：year；可靠度：confirmed；排序日期：1992-12-31
   摘要：《陆根纪》写，李敖1948年离开北京后与留在大陆的大姐、二姐分别四十四年；1992年，他请两位姐姐来台湾重聚，成为后来补足家族记忆的重要开端。
@@ -24638,6 +24820,19 @@
   补充来源：李敖政论综艺集 / 008.19990901《杨澜工作室》 / line 183；李敖杂文集 / 013.《李敖中文大句典》构想书 / line 5
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/012.李敖政论综艺集/008.19990901《杨澜工作室》.txt
   数据：data/timeline-events-li-ao-zawenji.json#li-ao-zawenji-1999-09-01-yanglan-interview-chinese-sentence-dictionary
+- 1999年9月29日 | 李敖在《挑战李敖》中预告《北京法源寺》英文本将送诺贝尔文学奖参选
+  精度：day；可靠度：confirmed；排序日期：1999-09-29
+  摘要：1999年9月29日《挑战李敖》中，李敖答观众时称自己的大手笔文学作品《北京法源寺》将在次年二月送到瑞典参加诺贝尔文学奖参选。11月15日和12月8日相关节目/演讲中，他又多次以英文本参选为题回应提问。此条记录的是获提名前的公开预告，不重复建立实际提名事件。
+  人物：李敖
+  地点：台湾、瑞典
+  标签：北京法源寺、挑战李敖、诺贝尔文学奖、英文本、预告
+  视图：节目线、文学线、海外线
+  作品：北京法源寺、挑战李敖
+  交叉引用：book8-2000-beijing-fayuan-temple-nobel-prize-nomination
+  来源：挑战李敖 / 002.19990929挑战李敖 / line 75
+  补充来源：挑战李敖 / 034.19991115挑战李敖 / line 111；挑战李敖 / 051.19991208挑战李敖 / line 121；李敖演讲集 / 015.19991208李敖文化大学演讲 / line 121
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/002.挑战李敖/002.19990929挑战李敖.txt
+  数据：data/timeline-events-beijing-fayuansi.json#beijing-fayuansi-1999-09-29-announces-english-nobel-submission
 - 1999年12月2日 | 胡秋原缴出九十二万余元支票后，李敖揭下其住宅封条
   精度：day；可靠度：confirmed；排序日期：1999-12-02
   摘要：《胡秋原赔了五分之一退休金给我》引李敖1999年12月10日日记，记12月2日胡秋原缴出“玖拾贰万柒仟贰佰陆拾壹元整”的国库支票后，李敖才揭下其住家被查封的封条。李敖把这笔赔款视为几十年恩仇中的一次痛快结算。
@@ -24731,6 +24926,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/476.路遇胡茵梦.txt
   数据：data/timeline-events-seventh-book.json#book7-2000-01-21-meets-hu-yinmeng-on-street-and-embraces-farewell
+- 2000年2月15日 | 《北京法源寺》英文版举行新书发表会
+  精度：day；可靠度：confirmed；排序日期：2000-02-15
+  摘要：李敖在2000年2月16日《挑战李敖》中回忆，前一天新闻局长赵怡参加了他的诺贝尔文学奖《北京法源寺》英文版新书发表会并致词。同一集又答观众说英文版当时在台湾还未发行，可能以后才买得到。此条补出英文本发表会与发行状态，实际诺奖提名仍归旧节点。
+  人物：李敖、赵怡
+  地点：台湾
+  标签：北京法源寺、英文版、新书发表会、赵怡、诺贝尔文学奖、挑战李敖
+  视图：出版线、节目线、海外线
+  作品：北京法源寺、挑战李敖
+  交叉引用：beijing-fayuansi-1999-09-29-announces-english-nobel-submission、book8-2000-beijing-fayuan-temple-nobel-prize-nomination
+  来源：挑战李敖 / 096.20000216挑战李敖 / line 45
+  补充来源：挑战李敖 / 096.20000216挑战李敖 / line 81
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/002.挑战李敖/096.20000216挑战李敖.txt
+  数据：data/timeline-events-beijing-fayuansi.json#beijing-fayuansi-2000-02-15-english-edition-launch
 - 2000年3月13日 | 李敖在电子报中说已与远流签约，三年内编《李敖中文大句典》
   精度：day；可靠度：confirmed；排序日期：2000-03-13
   摘要：2000年3月13日《李敖送电集》文字中，李敖谈中文、语音输入与同音字困境，说“最近我和远流出版社签了约，要在三年内编一本《李敖中文大句典》”，用句子表达语言与感情。这条补出2008年构想书之前的签约推进层。
@@ -24744,6 +24952,123 @@
   补充来源：李敖杂文集 / 013.《李敖中文大句典》构想书 / line 5
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/026.2000年3月13日.txt
   数据：data/timeline-events-li-ao-zawenji.json#li-ao-zawenji-2000-03-13-says-signed-yuanliu-for-chinese-sentence-dictionary
+- 2000年3月30日 | 李敖在《秘密书房》恢复《北京法源寺》系列第六集
+  精度：day；可靠度：confirmed；排序日期：2000-03-30
+  摘要：2000年3月30日《李敖秘密书房》题为《北京法源寺》（六），李敖说明因总统选举中断后恢复该系列，并说自己的长篇小说目前只有《北京法源寺》一部。此条记录节目讨论，不采小说剧情为现实事件。
+  人物：李敖
+  地点：台湾
+  标签：北京法源寺、李敖秘密书房、电视节目、系列节目
+  视图：节目线、创作线
+  作品：北京法源寺、李敖秘密书房
+  交叉引用：book8-2000-beijing-fayuan-temple-nobel-prize-nomination
+  来源：李敖秘密书房 / 081.20000330《北京法源寺》（六） / line 1
+  补充来源：李敖秘密书房 / 081.20000330《北京法源寺》（六） / line 3；李敖秘密书房 / 081.20000330《北京法源寺》（六） / line 5
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/003.李敖秘密书房/081.20000330《北京法源寺》（六）.txt
+  数据：data/timeline-events-beijing-fayuansi.json#beijing-fayuansi-2000-03-30-secret-study-episode-06
+- 2000年3月31日 | 李敖在《秘密书房》谈《北京法源寺》出版九年后因诺奖提名再受注意
+  精度：day；可靠度：confirmed；排序日期：2000-03-31
+  摘要：2000年3月31日《北京法源寺》（七）中，李敖说此书写于九年前，卖了一万多本，后来因诺贝尔文学奖提名而重新受到注意。此条作为节目层面的接受史记录，并与旧诺奖提名节点交叉引用。
+  人物：李敖
+  地点：台湾
+  标签：北京法源寺、李敖秘密书房、销量、诺贝尔文学奖、接受史
+  视图：节目线、出版线、文学线
+  作品：北京法源寺、李敖秘密书房
+  交叉引用：beijing-fayuansi-1991-06-30-published-by-wenxing、book8-2000-beijing-fayuan-temple-nobel-prize-nomination
+  来源：李敖秘密书房 / 082.20000331《北京法源寺》（七） / line 1
+  补充来源：李敖秘密书房 / 082.20000331《北京法源寺》（七） / line 3
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/003.李敖秘密书房/082.20000331《北京法源寺》（七）.txt
+  数据：data/timeline-events-beijing-fayuansi.json#beijing-fayuansi-2000-03-31-secret-study-episode-07
+- 2000年4月3日 | 李敖在《秘密书房》讲《北京法源寺》的篇章结构
+  精度：day；可靠度：confirmed；排序日期：2000-04-03
+  摘要：2000年4月3日《北京法源寺》（八）中，李敖围绕《北京法源寺》的结构展开说明，提到全书由十五章以及前言、尾声构成。此条是作者在节目中解释作品结构，非小说情节入表。
+  人物：李敖
+  地点：台湾
+  标签：北京法源寺、李敖秘密书房、作品结构、前言、尾声
+  视图：节目线、创作线
+  作品：北京法源寺、李敖秘密书房
+  交叉引用：beijing-fayuansi-2000-03-30-secret-study-episode-06
+  来源：李敖秘密书房 / 083.20000403《北京法源寺》（八） / line 1
+  补充来源：李敖秘密书房 / 083.20000403《北京法源寺》（八） / line 3
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/003.李敖秘密书房/083.20000403《北京法源寺》（八）.txt
+  数据：data/timeline-events-beijing-fayuansi.json#beijing-fayuansi-2000-04-03-secret-study-episode-08
+- 2000年4月4日 | 李敖在《秘密书房》以戊戌变法和政变说明《北京法源寺》主轴
+  精度：day；可靠度：confirmed；排序日期：2000-04-04
+  摘要：2000年4月4日《北京法源寺》（九）中，李敖继续介绍这部小说，说明其主轴围绕戊戌变法与戊戌政变展开。此条仅记录作者节目讲解作品主题，不把历史/小说叙事情节抽为李敖生平事件。
+  人物：李敖
+  地点：台湾
+  标签：北京法源寺、李敖秘密书房、戊戌变法、戊戌政变、主题说明
+  视图：节目线、创作线、思想线
+  作品：北京法源寺、李敖秘密书房
+  交叉引用：beijing-fayuansi-2000-04-03-secret-study-episode-08
+  来源：李敖秘密书房 / 084.20000404《北京法源寺》（九） / line 1
+  补充来源：李敖秘密书房 / 084.20000404《北京法源寺》（九） / line 5
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/003.李敖秘密书房/084.20000404《北京法源寺》（九）.txt
+  数据：data/timeline-events-beijing-fayuansi.json#beijing-fayuansi-2000-04-04-secret-study-episode-09
+- 2000年4月5日 | 李敖在《秘密书房》谈《北京法源寺》中谭嗣同不逃与自我牺牲主题
+  精度：day；可靠度：confirmed；排序日期：2000-04-05
+  摘要：2000年4月5日《北京法源寺》（十）中，李敖延续系列节目，谈到谭嗣同不逃以及自我牺牲的主题。此条是作者对作品主题的节目讲解，不把谭嗣同行动当成李敖现实事件。
+  人物：李敖、谭嗣同
+  地点：台湾
+  标签：北京法源寺、李敖秘密书房、谭嗣同、牺牲主题、作品讲解
+  视图：节目线、创作线、思想线
+  作品：北京法源寺、李敖秘密书房
+  交叉引用：beijing-fayuansi-2000-04-04-secret-study-episode-09
+  来源：李敖秘密书房 / 085.20000405《北京法源寺》（十） / line 1
+  补充来源：李敖秘密书房 / 085.20000405《北京法源寺》（十） / line 5
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/003.李敖秘密书房/085.20000405《北京法源寺》（十）.txt
+  数据：data/timeline-events-beijing-fayuansi.json#beijing-fayuansi-2000-04-05-secret-study-episode-10
+- 2000年4月6日 | 李敖在《秘密书房》引《亚洲周刊》报道《北京法源寺》被诺奖提名后的热度
+  精度：day；可靠度：confirmed；排序日期：2000-04-06
+  摘要：2000年4月6日《北京法源寺》（十一）中，李敖提到2000年3月27日至4月2日《亚洲周刊》用两个整版报道“李敖人气烤热法源寺”，并说《北京法源寺》获诺贝尔文学奖提名后引发大陆和台湾注意。此条属于作者节目中转述媒体反应。
+  人物：李敖
+  地点：台湾、中国大陆
+  标签：北京法源寺、李敖秘密书房、亚洲周刊、诺贝尔文学奖、媒体反应
+  视图：节目线、媒体线、大陆线
+  作品：北京法源寺、李敖秘密书房、亚洲周刊
+  交叉引用：book8-2000-beijing-fayuan-temple-nobel-prize-nomination、beijing-fayuansi-2000-03-31-secret-study-episode-07
+  来源：李敖秘密书房 / 086.20000406《北京法源寺》（十一） / line 1
+  补充来源：李敖秘密书房 / 086.20000406《北京法源寺》（十一） / line 5
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/003.李敖秘密书房/086.20000406《北京法源寺》（十一）.txt
+  数据：data/timeline-events-beijing-fayuansi.json#beijing-fayuansi-2000-04-06-secret-study-episode-11-asia-weekly
+- 2000年4月7日 | 李敖在《秘密书房》续谈《北京法源寺》提名后带动法源寺游客
+  精度：day；可靠度：confirmed；排序日期：2000-04-07
+  摘要：2000年4月7日《北京法源寺》（十二）中，李敖继续引用《亚洲周刊》报道，谈到《北京法源寺》获提名后使北京法源寺本身受到更多关注，游客增加。此条是作品接受与现实地点热度的节目记录。
+  人物：李敖
+  地点：北京、法源寺、台湾
+  标签：北京法源寺、法源寺、李敖秘密书房、亚洲周刊、游客、接受史
+  视图：节目线、媒体线、大陆线
+  作品：北京法源寺、李敖秘密书房、亚洲周刊
+  交叉引用：beijing-fayuansi-2000-04-06-secret-study-episode-11-asia-weekly、book8-2000-beijing-fayuan-temple-nobel-prize-nomination
+  来源：李敖秘密书房 / 087.20000407《北京法源寺》（十二） / line 1
+  补充来源：李敖秘密书房 / 087.20000407《北京法源寺》（十二） / line 5
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/003.李敖秘密书房/087.20000407《北京法源寺》（十二）.txt
+  数据：data/timeline-events-beijing-fayuansi.json#beijing-fayuansi-2000-04-07-secret-study-episode-12-temple-visitors
+- 2000年4月10日 | 李敖在《秘密书房》谈《北京法源寺》以寺为焦点的观点
+  精度：day；可靠度：confirmed；排序日期：2000-04-10
+  摘要：2000年4月10日《北京法源寺》（十三）中，李敖继续讲解这部小说，强调以法源寺作为观察和展开中国历史问题的焦点。此条记录作品阐释层面的节目活动。
+  人物：李敖
+  地点：台湾、北京、法源寺
+  标签：北京法源寺、李敖秘密书房、法源寺、作品观点、历史阐释
+  视图：节目线、创作线、思想线
+  作品：北京法源寺、李敖秘密书房
+  交叉引用：beijing-fayuansi-2000-04-07-secret-study-episode-12-temple-visitors
+  来源：李敖秘密书房 / 088.20000410《北京法源寺》（十三） / line 1
+  补充来源：李敖秘密书房 / 088.20000410《北京法源寺》（十三） / line 5
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/003.李敖秘密书房/088.20000410《北京法源寺》（十三）.txt
+  数据：data/timeline-events-beijing-fayuansi.json#beijing-fayuansi-2000-04-10-secret-study-episode-13
+- 2000年4月11日 | 李敖在《秘密书房》完成《北京法源寺》系列最后一集总结
+  精度：day；可靠度：confirmed；排序日期：2000-04-11
+  摘要：2000年4月11日《北京法源寺》（十四）中，李敖说明这是该系列最后一集、要做总结，并继续讨论小说结尾。此条标记《秘密书房》集中介绍《北京法源寺》系列的收束节点。
+  人物：李敖
+  地点：台湾
+  标签：北京法源寺、李敖秘密书房、系列节目、总结、最后一集
+  视图：节目线、创作线
+  作品：北京法源寺、李敖秘密书房
+  交叉引用：beijing-fayuansi-2000-04-10-secret-study-episode-13
+  来源：李敖秘密书房 / 089.20000411《北京法源寺》（十四） / line 1
+  补充来源：李敖秘密书房 / 089.20000411《北京法源寺》（十四） / line 5；李敖秘密书房 / 089.20000411《北京法源寺》（十四） / line 7
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/003.李敖秘密书房/089.20000411《北京法源寺》（十四）.txt
+  数据：data/timeline-events-beijing-fayuansi.json#beijing-fayuansi-2000-04-11-secret-study-episode-14-finale
 - 2000年总统选举前 | 李庆华任新党主席时力排众议，推动李敖投入2000年“总统”选举
   精度：year；可靠度：confirmed；排序日期：2000-01-01
   摘要：《李庆华李庆安兄妹档》回忆，李庆华任新党党主席时，曾力排众议推李敖出来参加2000年“总统”选举。李敖把这件事视为自己在历史与记录上留下“2000年光芒的一页”的关键推动，并明确表示对李庆华一直感念。这条的价值在于补出李敖自述的政治参选推动链，而不是扩写李氏家族轶事。
@@ -24778,9 +25103,9 @@
   标签：北京法源寺、诺贝尔文学奖、提名、国际声誉
   视图：荣誉线、出版线、生平线
   作品：北京法源寺、李敖相关
-  交叉引用：-
+  交叉引用：beijing-fayuansi-1991-06-30-published-by-wenxing、beijing-fayuansi-1999-09-29-announces-english-nobel-submission、beijing-fayuansi-2000-02-15-english-edition-launch、beijing-fayuansi-2000-03-31-secret-study-episode-07、beijing-fayuansi-2000-2001-shanghai-youth-interview-nobel-and-piracy
   来源：李敖相关 / 001.李敖五十年表 / line 157
-  补充来源：-
+  补充来源：李敖相关 / 001.李敖五十年表 / line 157；李敖访谈录1990-2018 / 019.2000-2001《上海青年报》专访李敖 / line 189；李敖访谈录1990-2018 / 019.2000-2001《上海青年报》专访李敖 / line 209；李敖秘密书房 / 086.20000406《北京法源寺》（十一） / line 5；李敖研究fashion文集 / 005.大陆研究李敖综述 / line 19；说明：第三方研究综述，补《中国友谊》2000年初借提名出版宣传版本的说法。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/008.李敖相关/001.李敖五十年表.txt
   数据：data/timeline-events-eighth-book.json#book8-2000-beijing-fayuan-temple-nobel-prize-nomination
 - 2000年败选以后的一天 | 宋楚瑜败选后托张光锦送来五百万元，李敖只答应寄放不收走
@@ -24915,6 +25240,19 @@
   补充来源：李敖杂文集 / 004.台大校长不要脸 / line 21；李敖大哥大 / 059.台大校长不要脸 / line 49；李敖大哥大 / 059.台大校长不要脸 / line 53；李敖大哥大 / 059.台大校长不要脸 / line 59
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/004.台大校长不要脸.txt
   数据：data/timeline-events-li-ao-zawenji.json#li-ao-zawenji-2001-after-sep-11-talks-ntu-president-shameless
+- 2000-2001年《上海青年报》专访期间 | 李敖在《上海青年报》专访中谈《北京法源寺》提名来由与大陆盗版态度
+  精度：year-range；可靠度：confirmed；排序日期：2001-12-31
+  摘要：《上海青年报》专访中，李敖说朋友拿《北京法源寺》申请诺贝尔文学奖评选并获提名，最初连他自己都不知道；谈到提名后大陆出现盗版，他表示不怪盗版，只要不乱改、不要冒名即可。此条作为访谈中对诺奖提名来由和盗版态度的补充，实际提名事件归旧节点。
+  人物：李敖
+  地点：中国大陆、台湾
+  标签：北京法源寺、上海青年报、诺贝尔文学奖、盗版、访谈
+  视图：访谈线、出版线、大陆线
+  作品：北京法源寺、上海青年报
+  交叉引用：book8-2000-beijing-fayuan-temple-nobel-prize-nomination、beijing-fayuansi-1992-context-renmin-wenxue-authorized-mainland-edition
+  来源：李敖访谈录1990-2018 / 019.2000-2001《上海青年报》专访李敖 / line 209
+  补充来源：李敖访谈录1990-2018 / 019.2000-2001《上海青年报》专访李敖 / line 189；李敖访谈录1990-2018 / 019.2000-2001《上海青年报》专访李敖 / line 243
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/019.2000-2001《上海青年报》专访李敖.txt
+  数据：data/timeline-events-beijing-fayuansi.json#beijing-fayuansi-2000-2001-shanghai-youth-interview-nobel-and-piracy
 
 2002
 - 2002年2月7日夜1时40分 | 李敖写《胡适语粹》新序
@@ -25547,6 +25885,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/035.钢笔事件.txt
   数据：data/timeline-events-sixth-book.json#book6-2005-05-23-questions-li-jie-on-special-budget-and-arms-rental-progress
+- 2005年9月22日下午 | 李敖北大演讲后预告下午去法源寺，后来自称写书前从未到过那里
+  精度：day；可靠度：confirmed；排序日期：2005-09-22
+  摘要：2005年9月22日北大演讲中，李敖提到自己当天下午要去法源寺看看，并说此前从未去过那个地方，却能写出《北京法源寺》。后来节目中他回忆大陆行时到法源寺现场人潮汹涌，无法“独与天地精神往来”。此条记录作品完成多年后作者实地到访/参访法源寺的现实行动，不采小说情节。
+  人物：李敖
+  地点：北京大学、北京、法源寺
+  标签：北京法源寺、法源寺、北京大学演讲、神州文化之旅、实地参访、北京
+  视图：大陆线、演讲线、创作线
+  作品：北京法源寺、李敖演讲集、李敖有话说
+  交叉引用：beijing-fayuansi-1990-before-completion-research-assistance、book7-2005-shenzhou-trip-daughter-asks-why-people-like-the-old-man-at-peking-university
+  来源：李敖演讲集 / 038.20050922李敖北大演讲 / line 93
+  补充来源：李敖有话说 / 631.2006-08-07：谈王国维的遗书 / line 21；李敖有话说 / 631.2006-08-07：谈王国维的遗书 / line 25；李敖研究fashion文集 / 012.李敖的保镖 / line 9；说明：第三方叙述，补充现场安保和人潮失控情况；非李敖本人说法。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/011.李敖演讲集/038.20050922李敖北大演讲.txt
+  数据：data/timeline-events-beijing-fayuansi.json#beijing-fayuansi-2005-09-22-first-visit-to-fayuan-temple-after-peking-university
 - 2005年10月4日 | 李敖院会质询谢长廷，为黄富请命并追问军租进度
   精度：day；可靠度：confirmed；排序日期：2005-10-04
   摘要：《挖苦谢长廷》写，2005年10月4日李敖在院会质询行政院长谢长廷，先继林弘宣之后为已成游民的民进党大老黄富请命，要求谢特别照顾；随后追问4月12日谢同意军购、军租并行后，为何至今没有向他报告军租进度，并继续从军购、军租、高铁和谢长廷是否替陈水扁背黑锅等问题上施压。
@@ -28031,6 +28382,19 @@
   数据：data/timeline-events-seventh-book.json#book7-2011-xiamen-university-lecture-considered-best-of-life
 
 2012
+- 2012年 | 田沁鑫在李敖书房与李敖讨论改编《北京法源寺》，李敖授权舞台化
+  精度：year；可靠度：reported-by-third-party；排序日期：2012-12-31
+  摘要：《北京青年报》2018年报道回溯，田沁鑫2012年因《风华绝代》赴台北时经刘晓庆首次见到李敖；在李敖书房里，两人讨论哪部作品适合改编，田沁鑫提出《法源寺》，李敖认为语言密度高、适合对话。报道又称田沁鑫随后六次赴台北与李敖见面，李敖赠她万宝龙钢笔和印章，签约时几乎不审合同，只电话询问能否保留康有为关于历史必然性的观点。此条为第三方报道回溯，不是李敖本人自述。
+  人物：李敖、田沁鑫、刘晓庆
+  地点：台北、李敖书房
+  标签：北京法源寺、田沁鑫、刘晓庆、舞台剧、改编授权、第三方报道
+  视图：改编线、访谈线、创作线
+  作品：北京法源寺、风华绝代、北京青年报
+  交叉引用：beijing-fayuansi-1991-06-30-published-by-wenxing、beijing-fayuansi-2017-11-stage-play-taipei-while-hospitalized
+  来源：李敖访谈录1990-2018 / 077.20180319《北京青年报》报导 / line 27
+  补充来源：李敖访谈录1990-2018 / 077.20180319《北京青年报》报导 / line 31；李敖访谈录1990-2018 / 077.20180319《北京青年报》报导 / line 33；李敖访谈录1990-2018 / 077.20180319《北京青年报》报导 / line 35
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/077.20180319《北京青年报》报导.txt
+  数据：data/timeline-events-beijing-fayuansi.json#beijing-fayuansi-2012-tian-qinxin-adaptation-study-meetings
 - 2012年 | 在内地出版《李敖50年唯一自选集》
   精度：year；可靠度：confirmed；排序日期：2012-12-31
   摘要：《李敖五十年表》记，李敖在2012年全年没发微博，但在内地出版《李敖50年唯一自选集》。这条补出他在微博沉默期仍持续通过出版进入公共传播场的一根作品线。
@@ -28158,6 +28522,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/008.李敖相关/001.李敖五十年表.txt
   数据：data/timeline-events-eighth-book.json#book8-2017-06-09-gives-last-public-lecture-at-flypage-bookstore
+- 2017年11月 | 舞台剧《北京法源寺》到台北演出时，李敖已在医院昏迷
+  精度：month；可靠度：reported-by-third-party；排序日期：2017-11-30
+  摘要：《北京青年报》报道说，舞台剧《北京法源寺》北京首演时李敖因北京冬天太冷未能到场；2017年11月该剧抵达台北时，李敖已经昏迷在医院，演员只能在李戡陪同下到李敖书房参观。此条是作品改编在李敖晚年发生的接受史节点，主体为第三方报道，不是李敖本人行动。
+  人物：李敖、田沁鑫、李戡
+  地点：台北、北京、李敖书房
+  标签：北京法源寺、舞台剧、台北演出、田沁鑫、李戡、晚年、第三方报道
+  视图：改编线、晚年线、家庭线
+  作品：北京法源寺、北京青年报
+  交叉引用：beijing-fayuansi-2012-tian-qinxin-adaptation-study-meetings、book8-2018-03-18-li-ao-dies
+  来源：李敖访谈录1990-2018 / 077.20180319《北京青年报》报导 / line 37
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/077.20180319《北京青年报》报导.txt
+  数据：data/timeline-events-beijing-fayuansi.json#beijing-fayuansi-2017-11-stage-play-taipei-while-hospitalized
 
 2018
 - 2018年3月18日上午10时59分 | 李敖逝世

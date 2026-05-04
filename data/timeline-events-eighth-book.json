@@ -1084,7 +1084,47 @@
       "chapter": "001.李敖五十年表",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/008.李敖相关/001.李敖五十年表.txt",
       "line": 157
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖相关",
+        "chapter": "001.李敖五十年表",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/008.李敖相关/001.李敖五十年表.txt",
+        "line": 157
+      },
+      {
+        "book": "李敖访谈录1990-2018",
+        "chapter": "019.2000-2001《上海青年报》专访李敖",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/019.2000-2001《上海青年报》专访李敖.txt",
+        "line": 189
+      },
+      {
+        "book": "李敖访谈录1990-2018",
+        "chapter": "019.2000-2001《上海青年报》专访李敖",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/019.2000-2001《上海青年报》专访李敖.txt",
+        "line": 209
+      },
+      {
+        "book": "李敖秘密书房",
+        "chapter": "086.20000406《北京法源寺》（十一）",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/003.李敖秘密书房/086.20000406《北京法源寺》（十一）.txt",
+        "line": 5
+      },
+      {
+        "book": "李敖研究fashion文集",
+        "chapter": "005.大陆研究李敖综述",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/017.百家论李敖/007.李敖研究fashion文集/005.大陆研究李敖综述.txt",
+        "line": 19,
+        "note": "第三方研究综述，补《中国友谊》2000年初借提名出版宣传版本的说法。"
+      }
+    ],
+    "crossReferences": [
+      "beijing-fayuansi-1991-06-30-published-by-wenxing",
+      "beijing-fayuansi-1999-09-29-announces-english-nobel-submission",
+      "beijing-fayuansi-2000-02-15-english-edition-launch",
+      "beijing-fayuansi-2000-03-31-secret-study-episode-07",
+      "beijing-fayuansi-2000-2001-shanghai-youth-interview-nobel-and-piracy"
+    ]
   },
   {
     "id": "book8-2001-08-13-hosts-li-ao-big-brother-on-cti",
