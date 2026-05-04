@@ -1,9 +1,9 @@
 ﻿李敖交互式年表：当前增量纯文本备份
 生成日期：2026-05-04
-事件总数：2276
-数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json；data/timeline-events-ni-bendan.json；data/timeline-events-dream-awake.json；data/timeline-events-li-ao-xinkan.json；data/timeline-events-qianqiu-wansui-wuya-qiushi.json；data/timeline-events-li-ao-zawenji.json；data/timeline-events-qianqiu-wansui-bianwai.json；data/timeline-events-beijing-fayuansi.json；data/timeline-events-shangshan-ai.json；data/timeline-events-red-11.json；data/timeline-events-virtual-seventeen.json；data/timeline-events-yangwei-america.json；data/timeline-events-73rd-martyr.json；data/timeline-events-love-secret.json；data/timeline-events-li-ao-love-poems.json；data/timeline-events-li-yulu.json
+事件总数：2373
+数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json；data/timeline-events-ni-bendan.json；data/timeline-events-dream-awake.json；data/timeline-events-li-ao-xinkan.json；data/timeline-events-qianqiu-wansui-wuya-qiushi.json；data/timeline-events-li-ao-zawenji.json；data/timeline-events-qianqiu-wansui-bianwai.json；data/timeline-events-beijing-fayuansi.json；data/timeline-events-shangshan-ai.json；data/timeline-events-red-11.json；data/timeline-events-virtual-seventeen.json；data/timeline-events-yangwei-america.json；data/timeline-events-73rd-martyr.json；data/timeline-events-love-secret.json；data/timeline-events-li-ao-love-poems.json；data/timeline-events-li-yulu.json；data/timeline-events-li-ao-yulu.json
 说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。
-日期精度统计：day=1844；year=97；year-range=13；undated-range=1；undated-context=141；season=27；lunar-day=1；year-after=7；month=51；half-year=2；school-year-context=5；day-range=14；year-about=8；month-after=3；year-context=16；day-after=4；before-date-context=11；after-date-context=8；month-context=3；day-context=5；range-context=14；year-end=1
+日期精度统计：day=1941；year=97；year-range=13；undated-range=1；undated-context=141；season=27；lunar-day=1；year-after=7；month=51；half-year=2；school-year-context=5；day-range=14；year-about=8；month-after=3；year-context=16；day-after=4；before-date-context=11；after-date-context=8；month-context=3；day-context=5；range-context=14；year-end=1
 
 
 1935
@@ -1960,6 +1960,19 @@
   数据：data/timeline-events-li-ao-xinkan.json#liao-xinkan-1956-context-takes-yao-congwu-liao-jin-yuan-history
 
 1957
+- 1957年2月11日 | 李敖独坐图书馆，记录自己的担当进境
+  精度：day；可靠度：excerpted-diary；排序日期：1957-02-11
+  摘要：《李敖语录》摘录《大学札记》1957年2月11日条。李敖独坐图书馆，观察自己在深沉、冷静、沉着、持重和忍耐方面有了担当进境。
+  人物：李敖
+  地点：-
+  标签：李敖语录、大学札记、日记、语录摘录、1957
+  视图：日常线、写作线、思想线
+  作品：李敖语录、大学札记
+  交叉引用：-
+  来源：李敖语录 / 004.自我炼钢 / line 11
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-02-11-daxue-zhaji-library-self-discipline
 - 1957年3月1日 | 《从读〈胡适文存〉说起》在《自由中国》刊出
   精度：day；可靠度：confirmed；排序日期：1957-03-01
   摘要：李敖在第四本重述，这篇经《这一代》《大学》辗转后的旧稿最终于1957年3月1日在《自由中国》发表，成为他在该刊的第一篇也是最后一篇文章。
@@ -2090,6 +2103,435 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/016.我最难忘的一个国特.txt
   数据：data/timeline-events-third-book-qiao-evidence.json#book3-1957-05-01-qiao-clearing-banquet
+- 1957年5月16日 | 李敖记录自我训练成效，抵抗消极情绪
+  精度：day；可靠度：excerpted-diary；排序日期：1957-05-16
+  摘要：《李敖语录》摘录《大学札记》1957年5月16日条。李敖写自我训练已有成效，消极情绪只能短暂突击，自己正在变得坚强、有志气。
+  人物：李敖
+  地点：-
+  标签：李敖语录、大学札记、日记、语录摘录、1957
+  视图：日常线、写作线、思想线
+  作品：李敖语录、大学札记
+  交叉引用：-
+  来源：李敖语录 / 004.自我炼钢 / line 15
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-05-16-daxue-zhaji-resists-pessimism
+- 1957年5月18日 | 李敖以英雄之气训练意志，戒回想与多言
+  精度：day；可靠度：excerpted-diary；排序日期：1957-05-18
+  摘要：《李敖语录》摘录《大学札记》1957年5月18日多条。李敖由钱思亮称胡适意志坚强谈起，要求自己具有英雄之气的意志，并提醒自己默然不语、停止无益回想，以壮烈反动抵抗消极。
+  人物：李敖、钱思亮、胡适
+  地点：-
+  标签：李敖语录、大学札记、日记、语录摘录、1957
+  视图：日常线、写作线、思想线
+  作品：李敖语录、大学札记
+  交叉引用：-
+  来源：李敖语录 / 004.自我炼钢 / line 21
+  补充来源：李敖语录 / 004.自我炼钢 / line 31；说明：摘自《大学札记》1957年5月18日。；李敖语录 / 004.自我炼钢 / line 35；说明：摘自《大学札记》1957年5月18日。；李敖语录 / 004.自我炼钢 / line 39；说明：摘自《大学札记》1957年5月18日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-05-18-daxue-zhaji-heroic-will
+- 1957年5月19日 | 李敖展开律己极严的意志生活
+  精度：day；可靠度：excerpted-diary；排序日期：1957-05-19
+  摘要：《李敖语录》摘录《大学札记》1957年5月19日条。李敖提出过意志生活，展开律己极严的严肃生活；同日他凝视邱吉尔造像，把坚定刚强视为力量的化身。
+  人物：李敖、邱吉尔
+  地点：-
+  标签：李敖语录、大学札记、日记、语录摘录、1957
+  视图：日常线、写作线、思想线
+  作品：李敖语录、大学札记
+  交叉引用：-
+  来源：李敖语录 / 004.自我炼钢 / line 43
+  补充来源：李敖语录 / 004.自我炼钢 / line 47；说明：摘自《大学札记》1957年5月19日。；李敖语录 / 010.外国历史人物 / line 111；说明：摘自《大学札记》1957年5月19日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-05-19-daxue-zhaji-life-of-will
+- 1957年5月20日 | 李敖谈独醒与持志，抛弃拜伦式不快乐
+  精度：day；可靠度：excerpted-diary；排序日期：1957-05-20
+  摘要：《李敖语录》摘录《大学札记》1957年5月20日条。李敖记陈彦增笑称“众人皆睡而敖独醒”，并写自己受罗素影响，抛弃拜伦式不快乐，同时要求自己斩断嗜好贪着、持志不衰。
+  人物：李敖、陈彦增、罗素
+  地点：-
+  标签：李敖语录、大学札记、日记、语录摘录、1957
+  视图：日常线、写作线、思想线
+  作品：李敖语录、大学札记
+  交叉引用：-
+  来源：李敖语录 / 005.立言家的真面目 / line 215
+  补充来源：李敖语录 / 006.我思我在 / line 31；说明：摘自《大学札记》1957年5月20日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/005.立言家的真面目.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-05-20-daxue-zhaji-awake-and-hold-will
+- 1957年5月24日 | 李敖在《大学札记》中评论翁松燃的思想解放
+  精度：day；可靠度：excerpted-diary；排序日期：1957-05-24
+  摘要：《李敖语录》摘录《大学札记》1957年5月24日条。李敖写翁松燃过去走过错路，但终于走向智慧的思想解放，认为其幸运来自洁身自爱和有所不为。
+  人物：李敖、翁松燃
+  地点：-
+  标签：李敖语录、大学札记、日记、语录摘录、1957
+  视图：日常线、写作线、思想线
+  作品：李敖语录、大学札记
+  交叉引用：-
+  来源：李敖语录 / 009.中国当代人物 / line 245
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/009.中国当代人物.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-05-24-daxue-zhaji-weng-songran
+- 1957年5月25日 | 李敖想到要替朋友设想前途
+  精度：day；可靠度：excerpted-diary；排序日期：1957-05-25
+  摘要：《李敖语录》摘录《大学札记》1957年5月25日条。李敖躺在床上想到，应花时间替几位好朋友仔细考虑前途，并热心帮助朋友做事。
+  人物：李敖
+  地点：-
+  标签：李敖语录、大学札记、日记、语录摘录、1957
+  视图：日常线、写作线、思想线
+  作品：李敖语录、大学札记
+  交叉引用：-
+  来源：李敖语录 / 004.自我炼钢 / line 51
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-05-25-daxue-zhaji-plan-for-friends
+- 1957年5月27日 | 李敖写下要做伟大的人
+  精度：day；可靠度：excerpted-diary；排序日期：1957-05-27
+  摘要：《李敖语录》摘录《大学札记》1957年5月27日条。李敖写自己要做一个伟大的人，形成伟大的自处生活和对人态度，使人在记忆中以他为有光彩的人。
+  人物：李敖
+  地点：-
+  标签：李敖语录、大学札记、日记、语录摘录、1957
+  视图：日常线、写作线、思想线
+  作品：李敖语录、大学札记
+  交叉引用：-
+  来源：李敖语录 / 004.自我炼钢 / line 55
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-05-27-daxue-zhaji-wants-to-be-great
+- 1957年5月29日 | 李敖以毒蛇比喻意外打击，要求立即解毒
+  精度：day；可靠度：excerpted-diary；排序日期：1957-05-29
+  摘要：《李敖语录》摘录《大学札记》1957年5月29日条。李敖把意外打击比作突然被毒蛇咬，提醒自己应立刻解毒，而不是沉溺于追问伤害如何发生。
+  人物：李敖
+  地点：-
+  标签：李敖语录、大学札记、日记、语录摘录、1957
+  视图：日常线、写作线、思想线
+  作品：李敖语录、大学札记
+  交叉引用：-
+  来源：李敖语录 / 004.自我炼钢 / line 59
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-05-29-daxue-zhaji-antidote-metaphor
+- 1957年6月1日 | 李敖反省懒惰习惯，要求自己做得更好
+  精度：day；可靠度：excerpted-diary；排序日期：1957-06-01
+  摘要：《李敖语录》摘录《大学札记》1957年6月1日条。李敖以苏格拉底标准衡量自己，发现自己原可做得更好，因而反省十五年读书生活中的懒惰习惯，反对好逸恶劳。
+  人物：李敖
+  地点：-
+  标签：李敖语录、大学札记、日记、语录摘录、1957
+  视图：日常线、写作线、思想线
+  作品：李敖语录、大学札记
+  交叉引用：-
+  来源：李敖语录 / 004.自我炼钢 / line 63
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-06-01-daxue-zhaji-reflects-laziness
+- 1957年6月2日 | 李敖观察青年男女腐败面，勉励自己无从腐败
+  精度：day；可靠度：excerpted-diary；排序日期：1957-06-02
+  摘要：《李敖语录》摘录《大学札记》1957年6月2日条。李敖观察受过教育的青年男女少读正经书、少思考人世问题，转而勉励自己努力做一个无从腐败的人。
+  人物：李敖
+  地点：-
+  标签：李敖语录、大学札记、日记、语录摘录、1957
+  视图：日常线、写作线、思想线
+  作品：李敖语录、大学札记
+  交叉引用：-
+  来源：李敖语录 / 004.自我炼钢 / line 67
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-06-02-daxue-zhaji-observes-youth-corruption
+- 1957年6月4日 | 李敖冥想第一等人的境界
+  精度：day；可靠度：excerpted-diary；排序日期：1957-06-04
+  摘要：《李敖语录》摘录《大学札记》1957年6月4日条。李敖躺在床上冥想第一等人的境界，借富兰克林、伏尔泰、胡适、罗素、林肯等例子训练自己的胸襟和判断标准。
+  人物：李敖
+  地点：-
+  标签：李敖语录、大学札记、日记、语录摘录、1957
+  视图：日常线、写作线、思想线
+  作品：李敖语录、大学札记
+  交叉引用：-
+  来源：李敖语录 / 004.自我炼钢 / line 71
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-06-04-daxue-zhaji-first-class-person
+- 1957年6月9日 | 李敖把沉默视为进步，戒可不必说的话
+  精度：day；可靠度：excerpted-diary；排序日期：1957-06-09
+  摘要：《李敖语录》摘录《大学札记》1957年6月9日条。李敖写沉默带来缜密思考、清醒意识和稳定心绪，提醒自己少说可不必说的话。
+  人物：李敖
+  地点：-
+  标签：李敖语录、大学札记、日记、语录摘录、1957
+  视图：日常线、写作线、思想线
+  作品：李敖语录、大学札记
+  交叉引用：-
+  来源：李敖语录 / 004.自我炼钢 / line 75
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-06-09-daxue-zhaji-silence-as-progress
+- 1957年6月12日 | 李敖概括蜕变生活四阶段
+  精度：day；可靠度：excerpted-diary；排序日期：1957-06-12
+  摘要：《李敖语录》摘录《大学札记》1957年6月12日两条。李敖写有奇气的人会养成坚强高兴的习惯，并把蜕变生活分为发大宏愿、勉强去做、养成习惯、兴味盎然四阶段。
+  人物：李敖
+  地点：-
+  标签：李敖语录、大学札记、日记、语录摘录、1957
+  视图：日常线、写作线、思想线
+  作品：李敖语录、大学札记
+  交叉引用：-
+  来源：李敖语录 / 004.自我炼钢 / line 81
+  补充来源：李敖语录 / 004.自我炼钢 / line 85；说明：摘自《大学札记》1957年6月12日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-06-12-daxue-zhaji-four-stages-of-transformation
+- 1957年6月13日 | 李敖从图书馆做工回来，感到恬静安宁
+  精度：day；可靠度：excerpted-diary；排序日期：1957-06-13
+  摘要：《李敖语录》摘录《大学札记》1957年6月13日条。李敖从图书馆做工回来，因“不做自了汉”的胸怀与志愿感到恬静，想培养宁静安定的习惯。
+  人物：李敖
+  地点：-
+  标签：李敖语录、大学札记、日记、语录摘录、1957
+  视图：日常线、写作线、思想线
+  作品：李敖语录、大学札记
+  交叉引用：-
+  来源：李敖语录 / 004.自我炼钢 / line 89
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-06-13-daxue-zhaji-library-work-serenity
+- 1957年6月15日 | 李敖写铁石心肠与自胜意志
+  精度：day；可靠度：excerpted-diary；排序日期：1957-06-15
+  摘要：《李敖语录》摘录《大学札记》1957年6月15日条。李敖把铁石心肠视为意志的成功表现，强调理智、感情、冲动都不够，只有自胜的硬意志能支撑成事。
+  人物：李敖
+  地点：-
+  标签：李敖语录、大学札记、日记、语录摘录、1957
+  视图：日常线、写作线、思想线
+  作品：李敖语录、大学札记
+  交叉引用：-
+  来源：李敖语录 / 004.自我炼钢 / line 93
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-06-15-daxue-zhaji-iron-heart
+- 1957年6月16日 | 李敖反省爱说话，决定练习沉默
+  精度：day；可靠度：excerpted-diary；排序日期：1957-06-16
+  摘要：《李敖语录》摘录《大学札记》1957年6月16日条。李敖反省自己爱乘兴多说话、沉默素养太差，认为这会影响沉闷的努力，决心改变爱说话习惯。
+  人物：李敖
+  地点：-
+  标签：李敖语录、大学札记、日记、语录摘录、1957
+  视图：日常线、写作线、思想线
+  作品：李敖语录、大学札记
+  交叉引用：-
+  来源：李敖语录 / 004.自我炼钢 / line 97
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-06-16-daxue-zhaji-speak-less
+- 1957年6月18日 | 李敖独坐楼栏望群山与孤燕
+  精度：day；可靠度：excerpted-diary；排序日期：1957-06-18
+  摘要：《李敖语录》摘录《大学札记》1957年6月18日条。李敖独坐楼栏，凝望远处群山与孤燕，感到心胸开阔远大，愿在寂寞中认识自己。
+  人物：李敖
+  地点：-
+  标签：李敖语录、大学札记、日记、语录摘录、1957
+  视图：日常线、写作线、思想线
+  作品：李敖语录、大学札记
+  交叉引用：-
+  来源：李敖语录 / 004.自我炼钢 / line 101
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-06-18-daxue-zhaji-solitary-swallow
+- 1957年6月19日 | 李敖决定迎接痛苦，并以明察目光戒自欺
+  精度：day；可靠度：excerpted-diary；排序日期：1957-06-19
+  摘要：《李敖语录》摘录《大学札记》1957年6月19日两条。李敖决定迎接并承受痛苦，不再回避；又以明察目光提醒自己正视人和事的恶面，停止自欺与迷恋偶像。
+  人物：李敖
+  地点：-
+  标签：李敖语录、大学札记、日记、语录摘录、1957
+  视图：日常线、写作线、思想线
+  作品：李敖语录、大学札记
+  交叉引用：-
+  来源：李敖语录 / 004.自我炼钢 / line 107
+  补充来源：李敖语录 / 004.自我炼钢 / line 111；说明：摘自《大学札记》1957年6月19日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-06-19-daxue-zhaji-face-pain-open-eyed
+- 1957年6月21日 | 李敖写尊重人格与合则留不合则去
+  精度：day；可靠度：excerpted-diary；排序日期：1957-06-21
+  摘要：《李敖语录》摘录《大学札记》1957年6月21日条。李敖写胸襟广大者尊重别人和自己的人格，不强求一件事或一个人，主张合则留、不合则去。
+  人物：李敖
+  地点：-
+  标签：李敖语录、大学札记、日记、语录摘录、1957
+  视图：日常线、写作线、思想线
+  作品：李敖语录、大学札记
+  交叉引用：-
+  来源：李敖语录 / 004.自我炼钢 / line 115
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-06-21-daxue-zhaji-respect-personality
+- 1957年6月24日 | 李敖体会有余味的轻松快乐
+  精度：day；可靠度：excerpted-diary；排序日期：1957-06-24
+  摘要：《李敖语录》摘录《大学札记》1957年6月24日条。李敖记录自己体会到有余味的快乐，觉得这种快乐轻松、宁静、安全、自尊，并开始享受节制含蓄的态度。
+  人物：李敖
+  地点：-
+  标签：李敖语录、大学札记、日记、语录摘录、1957
+  视图：日常线、写作线、思想线
+  作品：李敖语录、大学札记
+  交叉引用：-
+  来源：李敖语录 / 004.自我炼钢 / line 119
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-06-24-daxue-zhaji-aftertaste-happiness
+- 1957年6月26日 | 李敖相信安闲自由生活能带来进步
+  精度：day；可靠度：excerpted-diary；排序日期：1957-06-26
+  摘要：《李敖语录》摘录《大学札记》1957年6月26日条。李敖写自己能得到安闲生活的乐趣，并相信自由不受别人意见限制的生活最能带来愉快与进步。
+  人物：李敖
+  地点：-
+  标签：李敖语录、大学札记、日记、语录摘录、1957
+  视图：日常线、写作线、思想线
+  作品：李敖语录、大学札记
+  交叉引用：-
+  来源：李敖语录 / 004.自我炼钢 / line 123
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-06-26-daxue-zhaji-leisure-freedom
+- 1957年7月4日 | 李敖认为胸襟与雄心使生活转入新路
+  精度：day；可靠度：excerpted-diary；排序日期：1957-07-04
+  摘要：《李敖语录》摘录《大学札记》1957年7月4日条。李敖写胸襟与雄心的开阔远大把生活带入新路，使他无法容忍再走老路，只能继续向前。
+  人物：李敖
+  地点：-
+  标签：李敖语录、大学札记、日记、语录摘录、1957
+  视图：日常线、写作线、思想线
+  作品：李敖语录、大学札记
+  交叉引用：-
+  来源：李敖语录 / 004.自我炼钢 / line 127
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-07-04-daxue-zhaji-new-road
+- 1957年7月5日 | 李敖写与知心朋友谈天，并称自己无法谦虚
+  精度：day；可靠度：excerpted-diary；排序日期：1957-07-05
+  摘要：《李敖语录》摘录《大学札记》1957年7月5日两条。李敖记录自己与知心朋友谈天时很愉快、与俗人相处则沉默；同日又写下自己无法谦虚，认为继往开来的重担非他莫属。
+  人物：李敖
+  地点：-
+  标签：李敖语录、大学札记、日记、语录摘录、1957
+  视图：日常线、写作线、思想线
+  作品：李敖语录、大学札记
+  交叉引用：-
+  来源：李敖语录 / 004.自我炼钢 / line 131
+  补充来源：李敖语录 / 004.自我炼钢 / line 135；说明：摘自《大学札记》1957年7月5日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-07-05-daxue-zhaji-cannot-be-humble
+- 1957年7月6日 | 李敖把愉快建立在自恃上，并学习胡适乐观
+  精度：day；可靠度：excerpted-diary；排序日期：1957-07-06
+  摘要：《李敖语录》摘录《大学札记》1957年7月6日两条。李敖写真正长久的愉快要建筑在自恃上，并决定学习胡适的内在乐观和外在笑脸。
+  人物：李敖
+  地点：-
+  标签：李敖语录、大学札记、日记、语录摘录、1957
+  视图：日常线、写作线、思想线
+  作品：李敖语录、大学札记
+  交叉引用：-
+  来源：李敖语录 / 004.自我炼钢 / line 139
+  补充来源：李敖语录 / 004.自我炼钢 / line 145；说明：摘自《大学札记》1957年7月6日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-07-06-daxue-zhaji-self-reliance-and-hu-shi-smile
+- 1957年7月7日 | 李敖深夜努力，从屈原和克里蒙梭获得鼓舞
+  精度：day；可靠度：excerpted-diary；排序日期：1957-07-07
+  摘要：《李敖语录》摘录《大学札记》1957年7月7日条。李敖深夜写到功力不会唐捐，想到屈原和克里蒙梭，觉得这些例子给了自己持续努力的鼓励。
+  人物：李敖
+  地点：-
+  标签：李敖语录、大学札记、日记、语录摘录、1957
+  视图：日常线、写作线、思想线
+  作品：李敖语录、大学札记
+  交叉引用：-
+  来源：李敖语录 / 004.自我炼钢 / line 155
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-07-07-daxue-zhaji-midnight-effort
+- 1957年7月9日 | 李敖记录抵挡流俗，并以白云无尽收束追问
+  精度：day；可靠度：excerpted-diary；排序日期：1957-07-09
+  摘要：《李敖语录》摘录《大学札记》1957年7月9日两条。李敖震惊于社会恶习染人之深，强调一人抵挡流俗的坚定；同日又以“但去莫复问，白云无尽时”收束无益追问。
+  人物：李敖
+  地点：-
+  标签：李敖语录、大学札记、日记、语录摘录、1957
+  视图：日常线、写作线、思想线
+  作品：李敖语录、大学札记
+  交叉引用：-
+  来源：李敖语录 / 004.自我炼钢 / line 159
+  补充来源：李敖语录 / 004.自我炼钢 / line 169；说明：摘自《大学札记》1957年7月9日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-07-09-daxue-zhaji-against-vulgarity
+- 1957年7月10日 | 李敖借鲁仲连思考高士的不合俗
+  精度：day；可靠度：excerpted-diary；排序日期：1957-07-10
+  摘要：《李敖语录》摘录《大学札记》1957年7月10日条。李敖写鲁仲连之所以成为高士，正在于不以世俗态度应付人世，并把这看成代表人类尊严的作风。
+  人物：李敖、鲁仲连
+  地点：-
+  标签：李敖语录、大学札记、日记、语录摘录、1957
+  视图：日常线、写作线、思想线
+  作品：李敖语录、大学札记
+  交叉引用：-
+  来源：李敖语录 / 008.中国历史人物 / line 67
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/008.中国历史人物.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-07-10-daxue-zhaji-lu-zhonglian
+- 1957年7月11日 | 李敖自觉过不了世俗生活，只能严格前行
+  精度：day；可靠度：excerpted-diary；排序日期：1957-07-11
+  摘要：《李敖语录》摘录《大学札记》1957年7月11日条。李敖写自己即使按通常标准获得稳定职业、爱情、家庭，也难以草草过平凡男人的一生，因此只能以严苛标准逼自己前行。
+  人物：李敖
+  地点：-
+  标签：李敖语录、大学札记、日记、语录摘录、1957
+  视图：日常线、写作线、思想线
+  作品：李敖语录、大学札记
+  交叉引用：-
+  来源：李敖语录 / 004.自我炼钢 / line 173
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-07-11-daxue-zhaji-cannot-live-vulgar-life
+- 1957年7月15日 | 李敖提醒自己消灭两种狂态
+  精度：day；可靠度：excerpted-diary；排序日期：1957-07-15
+  摘要：《李敖语录》摘录《大学札记》1957年7月15日条。李敖指出自己具有两种缺乏严肃正派和修养不到家的狂态，从这一天起正式提醒自己消灭它们。
+  人物：李敖
+  地点：-
+  标签：李敖语录、大学札记、日记、语录摘录、1957
+  视图：日常线、写作线、思想线
+  作品：李敖语录、大学札记
+  交叉引用：-
+  来源：李敖语录 / 004.自我炼钢 / line 183
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-07-15-daxue-zhaji-eliminate-wild-attitudes
+- 1957年7月20日 | 李敖要求自己保有勇敢远大的憧憬
+  精度：day；可靠度：excerpted-diary；排序日期：1957-07-20
+  摘要：《李敖语录》摘录《大学札记》1957年7月20日条。李敖提醒自己要有勇敢远大的憧憬与眼光，不能被眼前小诱惑绊倒，并相信不劳而获不会持久。
+  人物：李敖
+  地点：-
+  标签：李敖语录、大学札记、日记、语录摘录、1957
+  视图：日常线、写作线、思想线
+  作品：李敖语录、大学札记
+  交叉引用：-
+  来源：李敖语录 / 004.自我炼钢 / line 187
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-07-20-daxue-zhaji-great-vision
+- 1957年7月21日 | 李敖把读日记比作祈祷
+  精度：day；可靠度：excerpted-diary；排序日期：1957-07-21
+  摘要：《李敖语录》摘录《大学札记》1957年7月21日条。李敖写读日记仿佛祈祷，可在起床、入睡或需要时给自己打气，使心胸开朗并重新发愤。
+  人物：李敖
+  地点：-
+  标签：李敖语录、大学札记、日记、语录摘录、1957
+  视图：日常线、写作线、思想线
+  作品：李敖语录、大学札记
+  交叉引用：-
+  来源：李敖语录 / 004.自我炼钢 / line 191
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-07-21-daxue-zhaji-reading-diary-as-prayer
+- 1957年7月22日 | 李敖练习缩短无谓交往，并思考成熟风度
+  精度：day；可靠度：excerpted-diary；排序日期：1957-07-22
+  摘要：《李敖语录》摘录《大学札记》1957年7月22日两条。李敖决定练习用老实不客气而圆滑的方式缩短无谓交往；又从拜伦等语句思考成熟、不浅薄、有长者风所需的风度与气度。
+  人物：李敖
+  地点：-
+  标签：李敖语录、大学札记、日记、语录摘录、1957
+  视图：日常线、写作线、思想线
+  作品：李敖语录、大学札记
+  交叉引用：-
+  来源：李敖语录 / 004.自我炼钢 / line 195
+  补充来源：李敖语录 / 004.自我炼钢 / line 199；说明：摘自《大学札记》1957年7月22日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-07-22-daxue-zhaji-reduce-pointless-socializing
+- 1957年7月28日 | 李敖静听人群而厌恶俗情，记录静默生活
+  精度：day；可靠度：excerpted-diary；排序日期：1957-07-28
+  摘要：《李敖语录》摘录《大学札记》1957年7月28日三条。李敖在人堆中静听人们谈笑，感到厌恶俗情；同日又记只做事不讲话、在池边看儿童钓鱼、读英诗与日记，并反省自己曾把现实硬当作理想。
+  人物：李敖
+  地点：-
+  标签：李敖语录、大学札记、日记、语录摘录、1957
+  视图：日常线、写作线、思想线
+  作品：李敖语录、大学札记
+  交叉引用：-
+  来源：李敖语录 / 004.自我炼钢 / line 209
+  补充来源：李敖语录 / 004.自我炼钢 / line 213；说明：摘自《大学札记》1957年7月28日。；李敖语录 / 004.自我炼钢 / line 217；说明：摘自《大学札记》1957年7月28日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-07-28-daxue-zhaji-silent-life
 - 1957年7月29日 | 李敖写下《我将归来开放》
   精度：day；可靠度：reported-by-author；排序日期：1957-07-29
   摘要：《我将归来开放》文末署1957年7月29日。本条只收早期诗作的精确署日写作节点，不把诗中“归来开放”的抒情宣言另拆成现实事件。
@@ -2103,6 +2545,175 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/002.李敖的情诗/002.我将归来开放.txt
   数据：data/timeline-events-li-ao-love-poems.json#li-ao-love-poems-1957-07-29-writes-i-will-return-to-bloom
+- 1957年7月29日 | 李敖写自己绝不怕孤单寂寞
+  精度：day；可靠度：excerpted-diary；排序日期：1957-07-29
+  摘要：《李敖语录》摘录《大学札记》1957年7月29日条。李敖写自己不怕孤单寂寞，即使长夜漫漫、任重道远，也愿独行走向前程。
+  人物：李敖
+  地点：-
+  标签：李敖语录、大学札记、日记、语录摘录、1957
+  视图：日常线、写作线、思想线
+  作品：李敖语录、大学札记
+  交叉引用：li-ao-love-poems-1957-07-29-writes-i-will-return-to-bloom
+  来源：李敖语录 / 004.自我炼钢 / line 231
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-07-29-daxue-zhaji-not-afraid-of-solitude
+- 1957年7月30日 | 李敖写要做活泼泼的人，并争取小段时间
+  精度：day；可靠度：excerpted-diary；排序日期：1957-07-30
+  摘要：《李敖语录》摘录《大学札记》1957年7月30日两条。李敖写要做一个活泼泼的人，并提醒自己不仅大段时间不可浪费，小段时间也要尽力争取。
+  人物：李敖
+  地点：-
+  标签：李敖语录、大学札记、日记、语录摘录、1957
+  视图：日常线、写作线、思想线
+  作品：李敖语录、大学札记
+  交叉引用：-
+  来源：李敖语录 / 004.自我炼钢 / line 241
+  补充来源：李敖语录 / 004.自我炼钢 / line 245；说明：摘自《大学札记》1957年7月30日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-07-30-daxue-zhaji-lively-and-time
+- 1957年8月2日 | 李敖确认孤立的必要，锤炼凯撒式硬心肠
+  精度：day；可靠度：excerpted-diary；排序日期：1957-08-02
+  摘要：《李敖语录》摘录《大学札记》1957年8月2日三条。李敖写光身一人与孤立的必然和必要，又希望保留一点玩世不恭的幽默，并锤炼凯撒式硬心肠与可怕的坚强。
+  人物：李敖
+  地点：-
+  标签：李敖语录、大学札记、日记、语录摘录、1957
+  视图：日常线、写作线、思想线
+  作品：李敖语录、大学札记
+  交叉引用：-
+  来源：李敖语录 / 004.自我炼钢 / line 249
+  补充来源：李敖语录 / 004.自我炼钢 / line 263；说明：摘自《大学札记》1957年8月2日。；李敖语录 / 004.自我炼钢 / line 267；说明：摘自《大学札记》1957年8月2日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-08-02-daxue-zhaji-necessary-solitude-and-hardness
+- 1957年8月5日 | 李敖重视一点一滴进步和五分钟价值
+  精度：day；可靠度：excerpted-diary；排序日期：1957-08-05
+  摘要：《李敖语录》摘录《大学札记》1957年8月5日条。李敖写努力的人重视一点一滴的变异和进化，不忽视五分钟的价值，播种造因时得暇就进一寸。
+  人物：李敖
+  地点：-
+  标签：李敖语录、大学札记、日记、语录摘录、1957
+  视图：日常线、写作线、思想线
+  作品：李敖语录、大学札记
+  交叉引用：-
+  来源：李敖语录 / 004.自我炼钢 / line 271
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-08-05-daxue-zhaji-five-minutes
+- 1957年8月6日 | 李敖清早写定“比例的眼光”
+  精度：day；可靠度：excerpted-diary；排序日期：1957-08-06
+  摘要：《李敖语录》摘录《大学札记》1957年8月6日条。李敖写“比例的眼光”是自己蕴蓄已久的模糊念头，并在这天清早把它写定。
+  人物：李敖
+  地点：-
+  标签：李敖语录、大学札记、日记、语录摘录、1957
+  视图：日常线、写作线、思想线
+  作品：李敖语录、大学札记
+  交叉引用：-
+  来源：李敖语录 / 004.自我炼钢 / line 283
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-08-06-daxue-zhaji-proportion-view
+- 1957年8月13日 | 李敖练习说话慢一点，以免失言
+  精度：day；可靠度：excerpted-diary；排序日期：1957-08-13
+  摘要：《李敖语录》摘录《大学札记》1957年8月13日条。李敖发现话说得太快最容易失言，决定练习反应和说话慢一点，并以约翰·杜威为仿效对象。
+  人物：李敖
+  地点：-
+  标签：李敖语录、大学札记、日记、语录摘录、1957
+  视图：日常线、写作线、思想线
+  作品：李敖语录、大学札记
+  交叉引用：-
+  来源：李敖语录 / 004.自我炼钢 / line 287
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-08-13-daxue-zhaji-speak-slowly
+- 1957年8月19日 | 李敖写以苛取人必须严律己
+  精度：day；可靠度：excerpted-diary；排序日期：1957-08-19
+  摘要：《李敖语录》摘录《大学札记》1957年8月19日条。李敖写以苛取人必须伴随严律己，反省自己每天放松太多，律己仍不够严。
+  人物：李敖
+  地点：-
+  标签：李敖语录、大学札记、日记、语录摘录、1957
+  视图：日常线、写作线、思想线
+  作品：李敖语录、大学札记
+  交叉引用：-
+  来源：李敖语录 / 004.自我炼钢 / line 291
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-08-19-daxue-zhaji-strict-to-self
+- 1957年8月30日 | 李敖以朋友眼中的自己作为行为标准
+  精度：day；可靠度：excerpted-diary；排序日期：1957-08-30
+  摘要：《李敖语录》摘录《大学札记》1957年8月30日条。李敖想到可用朋友观点来看自己，从对人帮助到明信片字迹，都可借此作为行为取舍标准。
+  人物：李敖
+  地点：-
+  标签：李敖语录、大学札记、日记、语录摘录、1957
+  视图：日常线、写作线、思想线
+  作品：李敖语录、大学札记
+  交叉引用：-
+  来源：李敖语录 / 004.自我炼钢 / line 295
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-08-30-daxue-zhaji-friends-view
+- 1957年9月2日 | 李敖相信伟大的作风能减少痛苦
+  精度：day；可靠度：excerpted-diary；排序日期：1957-09-02
+  摘要：《李敖语录》摘录《大学札记》1957年9月2日条。李敖写作风愈伟大，痛苦就愈少，并对采取伟大作风获得解脱抱有绝对信任。
+  人物：李敖
+  地点：-
+  标签：李敖语录、大学札记、日记、语录摘录、1957
+  视图：日常线、写作线、思想线
+  作品：李敖语录、大学札记
+  交叉引用：-
+  来源：李敖语录 / 004.自我炼钢 / line 299
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-09-02-daxue-zhaji-great-style-less-pain
+- 1957年9月7日 | 李敖刻画精明、智慧、危险的力量形象
+  精度：day；可靠度：excerpted-diary；排序日期：1957-09-07
+  摘要：《李敖语录》摘录《大学札记》1957年9月7日条。李敖描写一种晶莹、精明、智慧而带危险闪光的眼神，以及果决有力、沉得住气的力量形象。
+  人物：李敖
+  地点：-
+  标签：李敖语录、大学札记、日记、语录摘录、1957
+  视图：日常线、写作线、思想线
+  作品：李敖语录、大学札记
+  交叉引用：-
+  来源：李敖语录 / 004.自我炼钢 / line 303
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-09-07-daxue-zhaji-dangerous-bright-eyes
+- 1957年9月9日 | 李敖认为高傲对自己有用
+  精度：day；可靠度：excerpted-diary；排序日期：1957-09-09
+  摘要：《李敖语录》摘录《大学札记》1957年9月9日条。李敖写自己从不觉得高傲有害，反而认为高傲有大用途，应该扩张这种态度与心理。
+  人物：李敖
+  地点：-
+  标签：李敖语录、大学札记、日记、语录摘录、1957
+  视图：日常线、写作线、思想线
+  作品：李敖语录、大学札记
+  交叉引用：-
+  来源：李敖语录 / 004.自我炼钢 / line 309
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-09-09-daxue-zhaji-use-of-pride
+- 1957年9月10日 | 李敖照 X 光回来，在秋风中发现孤单可爱
+  精度：day；可靠度：excerpted-diary；排序日期：1957-09-10
+  摘要：《李敖语录》摘录《大学札记》1957年9月10日条。李敖下午照 X 光回来，秋风吹乱头发和衣裳，他一边走一边感到孤单，并发现孤单的可爱。
+  人物：李敖
+  地点：-
+  标签：李敖语录、大学札记、日记、语录摘录、1957
+  视图：日常线、写作线、思想线
+  作品：李敖语录、大学札记
+  交叉引用：-
+  来源：李敖语录 / 004.自我炼钢 / line 313
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-09-10-daxue-zhaji-xray-autumn-wind
+- 1957年11月17日 | 李敖在台大宿舍为《大学札记》写后记并决定结束日记
+  精度：day；可靠度：excerpted-diary；排序日期：1957-11-17
+  摘要：《李敖语录》摘录《大学札记》后记。1957年11月17日晨，李敖在台北温州街73号台大第一宿舍第四室写后记，认为日记帮助自己渡过难关，并决定结束这本日记。
+  人物：李敖
+  地点：台北、温州街、台大第一宿舍
+  标签：李敖语录、大学札记、日记、语录摘录、1957
+  视图：日常线、写作线、思想线
+  作品：李敖语录、大学札记
+  交叉引用：-
+  来源：李敖语录 / 004.自我炼钢 / line 317
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-11-17-daxue-zhaji-afterword
 - 1957年 | 《文星》杂志开始萌芽
   精度：year；可靠度：broad；排序日期：1957-01-01
   摘要：李敖在《记文星事件》中回顾，《自由中国》之后，一个自1957年开始萌芽的《文星》杂志逐渐壮大。
@@ -2248,6 +2859,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/051.李敖著作年表.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1958-06-08-051-starts-university-late-diary
+- 1958年6月11日 | 李敖在日记中谈恋爱失望与“纸上的罗曼斯”
+  精度：day；可靠度：reported-by-author；排序日期：1958-06-11
+  摘要：《李敖语录》摘录《大学后期日记甲集》1958年6月11日多条。李敖记下与彦增谈恋爱难成，转而认为现实爱情愈来愈被否定，也许只有纸上的罗曼斯才有意义。
+  人物：李敖、彦增、马宏祥
+  地点：台北
+  标签：李敖语录、大学后期日记、纸上罗曼斯、日记
+  视图：日常线、思想线、情感线
+  作品：李敖语录、大学后期日记甲集、大学后期日记乙集、纸上罗曼斯
+  交叉引用：-
+  来源：李敖语录 / 031.纸上罗曼斯 / line 7
+  补充来源：李敖语录 / 031.纸上罗曼斯 / line 11；说明：同日与彦增谈恋爱。；李敖语录 / 031.纸上罗曼斯 / line 15；说明：同日认为纸上的罗曼斯仍有意义。；李敖语录 / 031.纸上罗曼斯 / line 19；说明：同日记马宏祥关于灵感与照相的说法。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1958-06-11-paper-romance-diary
+- 1958年6月13日 | 李敖日记写 L 已不能再使自己受震撼
+  精度：day；可靠度：reported-by-author；排序日期：1958-06-13
+  摘要：《李敖语录》摘录《大学后期日记甲集》1958年6月13日条。李敖写 L 在自己意识里的地位已经结束，不能再使他受震撼。
+  人物：李敖、L
+  地点：台北
+  标签：李敖语录、大学后期日记、纸上罗曼斯、日记
+  视图：日常线、思想线、情感线
+  作品：李敖语录、大学后期日记甲集、大学后期日记乙集、纸上罗曼斯
+  交叉引用：-
+  来源：李敖语录 / 031.纸上罗曼斯 / line 23
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1958-06-13-diary-l-no-longer-shakes-him
 - 1958年6月15日 | 李敖日记批评殷海光“老是那一套”
   精度：day；可靠度：confirmed；排序日期：1958-06-15
   摘要：李敖在第四本引述1958年6月15日日记，写道“国实无人，如胡适之老是卖老货，殷海光也老是那一套”，显示他对台大前辈人物的佩服始终带着强烈保留。
@@ -2261,6 +2898,84 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/007.台大（1954-1959·19到24岁）.txt
   数据：data/timeline-events-fourth-book.json#book4-1958-06-15-diary-says-yin-haiguang-limited
+- 1958年6月15日 | 李敖日记称不找她与不写稿带来“不悔恨”
+  精度：day；可靠度：reported-by-author；排序日期：1958-06-15
+  摘要：《李敖语录》摘录《大学后期日记甲集》1958年6月15日条。李敖写不找她与不写稿反而使自己不悔恨，并自称开始从“艺术的人生想法”回看过去、展望未来。
+  人物：李敖
+  地点：台北
+  标签：李敖语录、大学后期日记、纸上罗曼斯、日记
+  视图：日常线、思想线、情感线
+  作品：李敖语录、大学后期日记甲集、大学后期日记乙集、纸上罗曼斯
+  交叉引用：book4-1958-06-15-diary-says-yin-haiguang-limited
+  来源：李敖语录 / 031.纸上罗曼斯 / line 27
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1958-06-15-diary-aesthetic-life-harvest
+- 1958年6月16日 | 李敖午后与咪咪看电影、听音乐，并感叹恋爱花费
+  精度：day；可靠度：reported-by-author；排序日期：1958-06-16
+  摘要：《李敖语录》摘录《大学后期日记甲集》1958年6月16日条。李敖记午后与咪咪看《飞车生死斗》，后碰到老马并同去大新听音乐，感叹恋爱经济吃不消。
+  人物：李敖、咪咪、老马
+  地点：台北
+  标签：李敖语录、大学后期日记、纸上罗曼斯、日记
+  视图：日常线、思想线、情感线
+  作品：李敖语录、大学后期日记甲集、大学后期日记乙集、纸上罗曼斯
+  交叉引用：-
+  来源：李敖语录 / 031.纸上罗曼斯 / line 31
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1958-06-16-diary-mimi-movie-music-date
+- 1958年6月17日 | 李敖日记写淡淡地爱与看轻旧日迷恋
+  精度：day；可靠度：reported-by-author；排序日期：1958-06-17
+  摘要：《李敖语录》摘录《大学后期日记甲集》1958年6月17日两条。李敖一面写“不深爱任何人，淡淡的爱一点或两点”，一面反省自己过去把她们看得太高。
+  人物：李敖
+  地点：台北
+  标签：李敖语录、大学后期日记、纸上罗曼斯、日记
+  视图：日常线、思想线、情感线
+  作品：李敖语录、大学后期日记甲集、大学后期日记乙集、纸上罗曼斯
+  交叉引用：-
+  来源：李敖语录 / 031.纸上罗曼斯 / line 35
+  补充来源：李敖语录 / 031.纸上罗曼斯 / line 39；说明：同日继续反省过去高估女性与恋爱对象。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1958-06-17-diary-light-love-and-disillusion
+- 1958年6月26日 | 李敖日记由女孩子笑脸说话写到“不言人过”
+  精度：day；可靠度：reported-by-author；排序日期：1958-06-26
+  摘要：《李敖语录》摘录《大学后期日记甲集》1958年6月26日两条。李敖先记见一女孩子对管理员笑脸说话，继而提醒自己不说女孩子缺点、不言人过。
+  人物：李敖
+  地点：台北
+  标签：李敖语录、大学后期日记、纸上罗曼斯、日记
+  视图：日常线、思想线、情感线
+  作品：李敖语录、大学后期日记甲集、大学后期日记乙集、纸上罗曼斯
+  交叉引用：-
+  来源：李敖语录 / 031.纸上罗曼斯 / line 43
+  补充来源：李敖语录 / 031.纸上罗曼斯 / line 47；说明：同日自我约束“不言人过”。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1958-06-26-diary-smile-and-not-speaking-ill
+- 1958年7月9日 | 李敖日记称宁写情书，不与没出息的人浪费时间
+  精度：day；可靠度：reported-by-author；排序日期：1958-07-09
+  摘要：《李敖语录》摘录《大学后期日记甲集》1958年7月9日条。李敖写宁愿累积式地写情书，也不愿与“没出息的人”浪费时间。
+  人物：李敖
+  地点：台北
+  标签：李敖语录、大学后期日记、纸上罗曼斯、日记
+  视图：日常线、思想线、情感线
+  作品：李敖语录、大学后期日记甲集、大学后期日记乙集、纸上罗曼斯
+  交叉引用：-
+  来源：李敖语录 / 031.纸上罗曼斯 / line 51
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1958-07-09-diary-prefers-writing-love-letters
+- 1958年7月10日 | 李敖日记批评女生宿舍门口徘徊者，拒绝低三下四恋爱
+  精度：day；可靠度：reported-by-author；排序日期：1958-07-10
+  摘要：《李敖语录》摘录《大学后期日记甲集》1958年7月10日条。李敖见女生宿舍门口徘徊的男人，提醒自己不谈低三下四的恋爱。
+  人物：李敖
+  地点：台北
+  标签：李敖语录、大学后期日记、纸上罗曼斯、日记
+  视图：日常线、思想线、情感线
+  作品：李敖语录、大学后期日记甲集、大学后期日记乙集、纸上罗曼斯
+  交叉引用：book3-1958-07-10-meng-celebrates-certificate
+  来源：李敖语录 / 031.纸上罗曼斯 / line 55
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1958-07-10-diary-refuses-lowly-romance
 - 1958年7月10日 | 孟大中请李敖和施启扬吃饭庆功
   精度：day；可靠度：confirmed；排序日期：1958-07-10
   摘要：第三本追述，《大学后期日记》1958年7月10日记“夜大中请我和启扬晚饭”，李敖解释这是孟大中离书事成后的庆功宴。
@@ -2287,6 +3002,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/051.李敖著作年表.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1958-07-19-051-publishes-liang-qichao-and-xu-zhimo
+- 1958年7月22日 | 李敖日记写“为爱情而痛苦，我是再也不会了”
+  精度：day；可靠度：reported-by-author；排序日期：1958-07-22
+  摘要：《李敖语录》摘录《大学后期日记甲集》1958年7月22日条。李敖把“为爱情而痛苦，我是再也不会了”列为当日自我判断之一。
+  人物：李敖
+  地点：台北
+  标签：李敖语录、大学后期日记、纸上罗曼斯、日记
+  视图：日常线、思想线、情感线
+  作品：李敖语录、大学后期日记甲集、大学后期日记乙集、纸上罗曼斯
+  交叉引用：-
+  来源：李敖语录 / 031.纸上罗曼斯 / line 67
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1958-07-22-diary-no-more-love-pain
+- 1958年7月26日 | 李敖在日记中把“自律”列为要点
+  精度：day；可靠度：reported-by-author；排序日期：1958-07-26
+  摘要：《李敖语录》摘录《大学后期日记甲集》1958年7月26日条。摘录只保留“自律”二字，显示他在爱情与生活判断之外继续记录自我规训。
+  人物：李敖
+  地点：台北
+  标签：李敖语录、大学后期日记、纸上罗曼斯、日记、自律
+  视图：日常线、思想线、情感线
+  作品：李敖语录、大学后期日记甲集、大学后期日记乙集、纸上罗曼斯
+  交叉引用：-
+  来源：李敖语录 / 031.纸上罗曼斯 / line 77
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1958-07-26-diary-self-discipline
 - 1958年8月2日 | 李敖大学毕业返回台中
   精度：day；可靠度：confirmed；排序日期：1958-08-02
   摘要：《我最难忘的一个官僚同学》引用李敖1958年8月2日日记：大学毕业返回台中，车站送行者包括周弘、陈鼓应、王尚义、施启扬等二十六人。
@@ -2300,6 +3041,71 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/007.我最难忘的一个官僚同学.txt
   数据：data/timeline-events-third-book.json#book3-1958-08-02-li-graduates-returns-taichung
+- 1958年8月28日 | 李敖日记写男女之间“一拖”感情就会完蛋
+  精度：day；可靠度：reported-by-author；排序日期：1958-08-28
+  摘要：《李敖语录》摘录《大学后期日记甲集》1958年8月28日条。李敖把“男女之间就怕拖，一拖，即使有点感情也完蛋了”列为判断。
+  人物：李敖
+  地点：台北
+  标签：李敖语录、大学后期日记、纸上罗曼斯、日记
+  视图：日常线、思想线、情感线
+  作品：李敖语录、大学后期日记甲集、大学后期日记乙集、纸上罗曼斯
+  交叉引用：-
+  来源：李敖语录 / 031.纸上罗曼斯 / line 109
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1958-08-28-diary-men-women-delay
+- 1958年8月31日 | 李敖日记留下“心犹乘风作雨来”一句
+  精度：day；可靠度：reported-by-author；排序日期：1958-08-31
+  摘要：《李敖语录》摘录《大学后期日记甲集》1958年8月31日条，保留李敖以“心犹乘风作雨来”表达当日情绪的短句。
+  人物：李敖
+  地点：台北
+  标签：李敖语录、大学后期日记、纸上罗曼斯、日记
+  视图：日常线、思想线、情感线
+  作品：李敖语录、大学后期日记甲集、大学后期日记乙集、纸上罗曼斯
+  交叉引用：-
+  来源：李敖语录 / 031.纸上罗曼斯 / line 133
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1958-08-31-diary-heart-rides-wind-rain
+- 1958年10月10日 | 李敖日记连记男女影响与女人穿戴玩笑
+  精度：day；可靠度：reported-by-author；排序日期：1958-10-10
+  摘要：《李敖语录》摘录《大学后期日记甲集》1958年10月10日两条。李敖写女人对男人可能影响一生，又记“女人就是这样一种动物，你无论给她什么，她都能穿在身上”的玩笑。
+  人物：李敖
+  地点：台北
+  标签：李敖语录、大学后期日记、纸上罗曼斯、日记
+  视图：日常线、思想线、情感线
+  作品：李敖语录、大学后期日记甲集、大学后期日记乙集、纸上罗曼斯
+  交叉引用：-
+  来源：李敖语录 / 031.纸上罗曼斯 / line 137
+  补充来源：李敖语录 / 031.纸上罗曼斯 / line 141；说明：同日关于女人与穿戴的短句。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1958-10-10-diary-women-influence-and-gifts
+- 1958年10月17日 | 李敖日记称恋爱目的只在轻松
+  精度：day；可靠度：reported-by-author；排序日期：1958-10-17
+  摘要：《李敖语录》摘录《大学后期日记甲集》1958年10月17日条。李敖写自己本质上看不起、厌恶那些不能理解他的人，并把恋爱的目的收束为轻松。
+  人物：李敖
+  地点：台北
+  标签：李敖语录、大学后期日记、纸上罗曼斯、日记
+  视图：日常线、思想线、情感线
+  作品：李敖语录、大学后期日记甲集、大学后期日记乙集、纸上罗曼斯
+  交叉引用：-
+  来源：李敖语录 / 031.纸上罗曼斯 / line 145
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1958-10-17-diary-love-for-lightness
+- 1958年10月20日 | 李敖日记写“不觅解语花”并在图书馆反思女性“可厌”面
+  精度：day；可靠度：reported-by-author；排序日期：1958-10-20
+  摘要：《李敖语录》摘录《大学后期日记甲集》1958年10月20日两条。李敖先写“不觅解语花”，又记坐在图书馆一角，转从“可厌”的一面观看女孩子。
+  人物：李敖
+  地点：台北
+  标签：李敖语录、大学后期日记、纸上罗曼斯、日记
+  视图：日常线、思想线、情感线
+  作品：李敖语录、大学后期日记甲集、大学后期日记乙集、纸上罗曼斯
+  交叉引用：-
+  来源：李敖语录 / 031.纸上罗曼斯 / line 155
+  补充来源：李敖语录 / 031.纸上罗曼斯 / line 159；说明：同日在图书馆一角远望窗外，反思女孩子“可厌”的一面。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1958-10-20-diary-no-flower-and-library-reflection
 - 1958年10月20日 | 李敖写下《爱情如牙刷》
   精度：day；可靠度：reported-by-author；排序日期：1958-10-20
   摘要：《爱情如牙刷》文末署1958年10月20日，并在诗中括注或作“女人如牙刷”。本条只收精确署日写作节点，不把诗中比喻扩展为现实感情事件。
@@ -2313,6 +3119,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/002.李敖的情诗/003.爱情如牙刷.txt
   数据：data/timeline-events-li-ao-love-poems.json#li-ao-love-poems-1958-10-20-writes-love-like-toothbrush
+- 1958年10月27日 | 李敖日记写厌恶练舞初跳的丑状
+  精度：day；可靠度：reported-by-author；排序日期：1958-10-27
+  摘要：《李敖语录》摘录《大学后期日记甲集》1958年10月27日条。李敖写练舞初跳的丑状，并称自己厌这些女儿们。
+  人物：李敖
+  地点：台北
+  标签：李敖语录、大学后期日记、纸上罗曼斯、日记
+  视图：日常线、思想线、情感线
+  作品：李敖语录、大学后期日记甲集、大学后期日记乙集、纸上罗曼斯
+  交叉引用：-
+  来源：李敖语录 / 031.纸上罗曼斯 / line 163
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1958-10-27-diary-dislikes-dance-practice
 - 1958-11-04 | 赴松山机场迎胡适
   精度：day；可靠度：confirmed；排序日期：1958-11-04
   摘要：李敖日记追记，他赴松山机场迎胡适，胡适在人潮中叫他“李敖”，姚从吾随后鼓励他“好好干”。
@@ -2326,6 +3145,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/005.“北土非吾愿，东林怀我师”.txt
   数据：data/timeline-events.json#1958-11-04-hu-shih-airport
+- 1958年11月10日 | 李敖日记决意断情丝绝爱欲
+  精度：day；可靠度：reported-by-author；排序日期：1958-11-10
+  摘要：《李敖语录》摘录《大学后期日记甲集》1958年11月10日条。李敖写决自今起断情丝、绝爱欲，不再在其中浮沉周旋。
+  人物：李敖
+  地点：台北
+  标签：李敖语录、大学后期日记、纸上罗曼斯、日记
+  视图：日常线、思想线、情感线
+  作品：李敖语录、大学后期日记甲集、大学后期日记乙集、纸上罗曼斯
+  交叉引用：-
+  来源：李敖语录 / 031.纸上罗曼斯 / line 177
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1958-11-10-diary-breaks-love-threads
 - 1958年11月10日 | 李敖写下《乌来观瀑诗》
   精度：day；可靠度：reported-by-author；排序日期：1958-11-10
   摘要：《乌来观瀑诗》文末署1958年11月10日。诗题指向乌来观瀑经验，本条收写作署日与地点线索，不把诗中追忆另拆成未经证实的具体行程。
@@ -2339,6 +3171,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/002.李敖的情诗/004.乌来观瀑诗.txt
   数据：data/timeline-events-li-ao-love-poems.json#li-ao-love-poems-1958-11-10-writes-wulai-waterfall-poem
+- 1958年11月11日 | 李敖日记称跳舞等事肤浅
+  精度：day；可靠度：reported-by-author；排序日期：1958-11-11
+  摘要：《李敖语录》摘录《大学后期日记甲集》1958年11月11日条。李敖写跳舞等实在肤浅、浅薄，自己甚为厌恶。
+  人物：李敖
+  地点：台北
+  标签：李敖语录、大学后期日记、纸上罗曼斯、日记
+  视图：日常线、思想线、情感线
+  作品：李敖语录、大学后期日记甲集、大学后期日记乙集、纸上罗曼斯
+  交叉引用：-
+  来源：李敖语录 / 031.纸上罗曼斯 / line 181
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1958-11-11-diary-dislikes-dancing
 - 1958-11-17 | 姚从吾与李敖谈论文方向
   精度：day；可靠度：confirmed；排序日期：1958-11-17
   摘要：姚从吾转述胡适记得李敖，并希望他改做元遗山研究；李敖坚持自己的宋代婚姻题目。
@@ -2365,6 +3210,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/005.“北土非吾愿，东林怀我师”.txt
   数据：data/timeline-events.json#1958-11-24-hu-shih-grass
+- 1958年11月26日 | 李敖日记由 BB 印象强化“到处有芳草”看法
+  精度：day；可靠度：reported-by-author；排序日期：1958-11-26
+  摘要：《李敖语录》摘录《大学后期日记甲集》1958年11月26日条。李敖写 BB 的姿态、手段、顽皮与做鬼脸都过人，并认为此印象更坚定自己不为一人所迷的看法。
+  人物：李敖、BB
+  地点：台北
+  标签：李敖语录、大学后期日记、纸上罗曼斯、日记
+  视图：日常线、思想线、情感线
+  作品：李敖语录、大学后期日记甲集、大学后期日记乙集、纸上罗曼斯
+  交叉引用：-
+  来源：李敖语录 / 031.纸上罗曼斯 / line 191
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1958-11-26-diary-bb-strengthens-many-flowers-view
 - 1958年11月27日 | 李敖写下《一九五八年十一月二十七日》
   精度：day；可靠度：reported-by-author；排序日期：1958-11-27
   摘要：《一九五八年十一月二十七日》以日期为题，文末又署1958年11月27日。本条收这个早期精确署日写作节点，不把诗中自由/早年意象外推为独立生平事件。
@@ -2391,6 +3249,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/005.“北土非吾愿，东林怀我师”.txt
   数据：data/timeline-events.json#1958-11-28-thesis-title
+- 1958年12月12日 | 李敖日记写爱情的纯一性不可能
+  精度：day；可靠度：reported-by-author；排序日期：1958-12-12
+  摘要：《李敖语录》摘录《大学后期日记甲集》1958年12月12日条。李敖认为爱情的纯一性不可能，即使深爱一人，也不必然排除与别人牵连。
+  人物：李敖
+  地点：台北
+  标签：李敖语录、大学后期日记、纸上罗曼斯、日记
+  视图：日常线、思想线、情感线
+  作品：李敖语录、大学后期日记甲集、大学后期日记乙集、纸上罗曼斯
+  交叉引用：-
+  来源：李敖语录 / 031.纸上罗曼斯 / line 201
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1958-12-12-diary-love-not-purely-exclusive
 - 1958年12月22日 | 李敖在台湾写《死别》早期段落
   精度：day；可靠度：reported-by-author；排序日期：1958-12-22
   摘要：《死别》正文中一段署“李敖1958年12月22日在台湾”。本条只收《李敖的情诗》保留下来的早期写作署记，不把文中恋爱叙述再拆成可证现实关系。
@@ -2484,6 +3355,71 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/007.台大（1954-1959·19到24岁）.txt
   数据：data/timeline-events-fourth-book.json#book4-1959-01-06-diary-says-can-learn-yin-quickly
+- 1959年1月15日 | 李敖日记立意少花时间在女人身上
+  精度：day；可靠度：reported-by-author；排序日期：1959-01-15
+  摘要：《李敖语录》摘录《大学后期日记乙集》1959年1月15日条。李敖写厌烦人们整日把时间花在女人身上，立意每日只用小部分时间想想看看，不多受干扰。
+  人物：李敖
+  地点：台北
+  标签：李敖语录、大学后期日记、纸上罗曼斯、日记
+  视图：日常线、思想线、情感线
+  作品：李敖语录、大学后期日记甲集、大学后期日记乙集、纸上罗曼斯
+  交叉引用：-
+  来源：李敖语录 / 031.纸上罗曼斯 / line 205
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1959-01-15-diary-limits-time-on-women
+- 1959年1月16日 | 李敖日记写旧日美感幻象消失，并记“他们每个都姓李”
+  精度：day；可靠度：reported-by-author；排序日期：1959-01-16
+  摘要：《李敖语录》摘录《大学后期日记乙集》1959年1月16日两条。李敖写自己所迷恋的美丽与可爱可能只是幻象，又另记“他们每个都姓李”。
+  人物：李敖
+  地点：台北
+  标签：李敖语录、大学后期日记、纸上罗曼斯、日记
+  视图：日常线、思想线、情感线
+  作品：李敖语录、大学后期日记甲集、大学后期日记乙集、纸上罗曼斯
+  交叉引用：-
+  来源：李敖语录 / 031.纸上罗曼斯 / line 209
+  补充来源：李敖语录 / 031.纸上罗曼斯 / line 221；说明：同日另有“他们每个都姓李”短句。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1959-01-16-diary-fading-illusion-and-li-surname
+- 1959年1月24日 | 李敖与“神枪手”小谈，对方笑他没结婚就想离婚
+  精度：day；可靠度：reported-by-author；排序日期：1959-01-24
+  摘要：《李敖语录》摘录《大学后期日记乙集》1959年1月24日条。李敖记与“神枪手”小谈笑了半天，对方开玩笑说他“没结婚就想离婚”。
+  人物：李敖、神枪手
+  地点：台北
+  标签：李敖语录、大学后期日记、纸上罗曼斯、日记
+  视图：日常线、思想线、情感线
+  作品：李敖语录、大学后期日记甲集、大学后期日记乙集、纸上罗曼斯
+  交叉引用：-
+  来源：李敖语录 / 031.纸上罗曼斯 / line 225
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1959-01-24-diary-chat-with-shenqiangshou
+- 1959年1月25日 | 李敖日记写不能容忍自己与恶心的男女交涉
+  精度：day；可靠度：reported-by-author；排序日期：1959-01-25
+  摘要：《李敖语录》摘录《大学后期日记乙集》1959年1月25日条。李敖写自己对恶心的男女，不能容忍去跟他们有交涉。
+  人物：李敖
+  地点：台北
+  标签：李敖语录、大学后期日记、纸上罗曼斯、日记
+  视图：日常线、思想线、情感线
+  作品：李敖语录、大学后期日记甲集、大学后期日记乙集、纸上罗曼斯
+  交叉引用：-
+  来源：李敖语录 / 031.纸上罗曼斯 / line 229
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1959-01-25-diary-refuses-dealing-with-disgusting-people
+- 1959年1月27日 | 李敖日记称自己已达任何女人不足动怀的地步
+  精度：day；可靠度：reported-by-author；排序日期：1959-01-27
+  摘要：《李敖语录》摘录《大学后期日记乙集》1959年1月27日条。李敖写自己满意于心中丝毫不为所动，认为已达到任何女人都不足以使自己动怀的地步。
+  人物：李敖
+  地点：台北
+  标签：李敖语录、大学后期日记、纸上罗曼斯、日记
+  视图：日常线、思想线、情感线
+  作品：李敖语录、大学后期日记甲集、大学后期日记乙集、纸上罗曼斯
+  交叉引用：-
+  来源：李敖语录 / 031.纸上罗曼斯 / line 233
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1959-01-27-diary-not-moved-by-any-woman
 - 1959-02-24 | 赴南港听胡适讲《真历史与假历史》
   精度：day；可靠度：confirmed；排序日期：1959-02-24
   摘要：李敖赴南港听胡适演讲《真历史与假历史》，日记中也留下“叹众老之中，竟无一可为吾师者”的判断。
@@ -2497,6 +3433,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/005.“北土非吾愿，东林怀我师”.txt
   数据：data/timeline-events.json#1959-02-24-hu-shih-lecture
+- 1959年2月24日 | 李敖日记把爱情比作大台风
+  精度：day；可靠度：reported-by-author；排序日期：1959-02-24
+  摘要：《李敖语录》摘录《大学后期日记乙集》1959年2月24日条。李敖写“爱情好比大台风”，称之为“爱情台风化”。
+  人物：李敖
+  地点：台北
+  标签：李敖语录、大学后期日记、纸上罗曼斯、日记
+  视图：日常线、思想线、情感线
+  作品：李敖语录、大学后期日记甲集、大学后期日记乙集、纸上罗曼斯
+  交叉引用：-
+  来源：李敖语录 / 031.纸上罗曼斯 / line 243
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1959-02-24-diary-love-typhoon-metaphor
 - 1959-03-01 | 写信批评胡适以下“老朽们”
   精度：day；可靠度：confirmed；排序日期：1959-03-01
   摘要：李敖在日记中记下傍晚覆徐高阮长信，攻击胡适以下的老朽们，显示他不满足于既有自由主义师承。
@@ -2510,6 +3459,84 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/005.“北土非吾愿，东林怀我师”.txt
   数据：data/timeline-events.json#1959-03-01-letter-against-elders
+- 1959年3月8日 | 李敖日记写“名女人是拍卖出来的”
+  精度：day；可靠度：reported-by-author；排序日期：1959-03-08
+  摘要：《李敖语录》摘录《大学后期日记乙集》1959年3月8日条。李敖记下“名女人是拍卖出来的”一句。
+  人物：李敖
+  地点：台北
+  标签：李敖语录、大学后期日记、纸上罗曼斯、日记
+  视图：日常线、思想线、情感线
+  作品：李敖语录、大学后期日记甲集、大学后期日记乙集、纸上罗曼斯
+  交叉引用：-
+  来源：李敖语录 / 031.纸上罗曼斯 / line 247
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1959-03-08-diary-famous-women-auctioned
+- 1959年3月12日 | 李敖在印度史课上插嘴谈寡妇，引众人大笑
+  精度：day；可靠度：reported-by-author；排序日期：1959-03-12
+  摘要：《李敖语录》摘录《大学后期日记乙集》1959年3月12日条。李敖记吴俊才先生讲寡妇事，自己插嘴说“她们一定很痛苦”，众人大笑。
+  人物：李敖、吴俊才
+  地点：台北
+  标签：李敖语录、大学后期日记、纸上罗曼斯、日记
+  视图：日常线、思想线、情感线
+  作品：李敖语录、大学后期日记甲集、大学后期日记乙集、纸上罗曼斯
+  交叉引用：-
+  来源：李敖语录 / 031.纸上罗曼斯 / line 255
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1959-03-12-diary-interrupts-indian-history-class
+- 1959年3月13日 | 李敖日记写图片、幻想与精神恋才是永恒的美
+  精度：day；可靠度：reported-by-author；排序日期：1959-03-13
+  摘要：《李敖语录》摘录《大学后期日记乙集》1959年3月13日条。李敖认为理想才是美的，图片、幻想、精神恋才是永恒的美与喜悦，一点现实便足够。
+  人物：李敖
+  地点：台北
+  标签：李敖语录、大学后期日记、纸上罗曼斯、日记
+  视图：日常线、思想线、情感线
+  作品：李敖语录、大学后期日记甲集、大学后期日记乙集、纸上罗曼斯
+  交叉引用：-
+  来源：李敖语录 / 031.纸上罗曼斯 / line 259
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1959-03-13-diary-spiritual-romance-ideal-beauty
+- 1959年3月15日 | 李敖日记记某女士“我不爱你是应该，你爱我是本分”
+  精度：day；可靠度：reported-by-author；排序日期：1959-03-15
+  摘要：《李敖语录》摘录《大学后期日记乙集》1959年3月15日条。李敖记下某女士“我不爱你是应该，你爱我是本分”的妙语。
+  人物：李敖
+  地点：台北
+  标签：李敖语录、大学后期日记、纸上罗曼斯、日记
+  视图：日常线、思想线、情感线
+  作品：李敖语录、大学后期日记甲集、大学后期日记乙集、纸上罗曼斯
+  交叉引用：-
+  来源：李敖语录 / 031.纸上罗曼斯 / line 263
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1959-03-15-diary-woman-quip-love-duty
+- 1959年3月17日 | 李敖日记称恋爱行为如写信是可怕冒险
+  精度：day；可靠度：reported-by-author；排序日期：1959-03-17
+  摘要：《李敖语录》摘录《大学后期日记乙集》1959年3月17日条。李敖认为在不开化的社会里，恋爱行为如写信都是可怕冒险，因此主张无为。
+  人物：李敖
+  地点：台北
+  标签：李敖语录、大学后期日记、纸上罗曼斯、日记
+  视图：日常线、思想线、情感线
+  作品：李敖语录、大学后期日记甲集、大学后期日记乙集、纸上罗曼斯
+  交叉引用：-
+  来源：李敖语录 / 031.纸上罗曼斯 / line 267
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1959-03-17-diary-love-letters-dangerous-adventure
+- 1959年4月23日 | 李敖日记抱定不与女人往还的宗旨
+  精度：day；可靠度：reported-by-author；排序日期：1959-04-23
+  摘要：《李敖语录》摘录《大学后期日记乙集》1959年4月23日条。李敖写自己近乎惨痛地感到与女人有任何关系终会不快，因此抱定不与女人有丝毫往还的宗旨。
+  人物：李敖
+  地点：台北
+  标签：李敖语录、大学后期日记、纸上罗曼斯、日记
+  视图：日常线、思想线、情感线
+  作品：李敖语录、大学后期日记甲集、大学后期日记乙集、纸上罗曼斯
+  交叉引用：-
+  来源：李敖语录 / 031.纸上罗曼斯 / line 271
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1959-04-23-diary-resolves-no-contact-with-women
 - 1959-04-30 | 在台大医院与胡适长谈
   精度：day；可靠度：confirmed；排序日期：1959-04-30
   摘要：上午十时后，李敖在台大医院四楼特别病房与胡适谈话，讨论《名公书判清明集》的时代问题。
@@ -2562,6 +3589,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/002.李敖的情诗/006.水月雾山.txt
   数据：data/timeline-events-li-ao-love-poems.json#li-ao-love-poems-1959-06-20-composes-water-moon-mist-mountain-for-yikuan
+- 1959年6月28日 | 李敖日记写不求人了解赏识，并力求自清
+  精度：day；可靠度：reported-by-author；排序日期：1959-06-28
+  摘要：《李敖语录》摘录《大学后期日记乙集》1959年6月28日条。李敖写不求他人了解与赏识，并要力求干干净净地自清，不屈身求别人认识自己。
+  人物：李敖
+  地点：台北
+  标签：李敖语录、大学后期日记、纸上罗曼斯、日记
+  视图：日常线、思想线、情感线
+  作品：李敖语录、大学后期日记甲集、大学后期日记乙集、纸上罗曼斯
+  交叉引用：-
+  来源：李敖语录 / 031.纸上罗曼斯 / line 275
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1959-06-28-diary-seeks-clean-self-reliance
 - 1959-07-07 | 送交“宋代婚姻”研究计划
   精度：day；可靠度：confirmed；排序日期：1959-07-07
   摘要：李敖把“宋代婚姻”研究计划送给姚从吾；次日长谈后，他因感情和人生选择等原因，决定去当兵、不考研究所。
@@ -2575,6 +3615,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/005.“北土非吾愿，东林怀我师”.txt
   数据：data/timeline-events.json#1959-07-07-thesis-plan
+- 1959年7月20日 | 李敖日记写思考要冷静、追求实行要热情
+  精度：day；可靠度：reported-by-author；排序日期：1959-07-20
+  摘要：《李敖语录》摘录《大学后期日记乙集》1959年7月20日条。李敖把“思考要冷静，追求与实行要狂热、热情”列为自我提醒。
+  人物：李敖
+  地点：台北
+  标签：李敖语录、大学后期日记、纸上罗曼斯、日记
+  视图：日常线、思想线、情感线
+  作品：李敖语录、大学后期日记甲集、大学后期日记乙集、纸上罗曼斯
+  交叉引用：-
+  来源：李敖语录 / 031.纸上罗曼斯 / line 291
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1959-07-20-diary-calm-thinking-passionate-pursuit
 - 1959-08-02 | 离开台北大学生活，南下入伍
   精度：day；可靠度：confirmed；排序日期：1959-08-02
   摘要：李敖8月1日向姚从吾辞行，8月2日上火车南下。他说台北五年大学风光至此告一段落。
@@ -3084,6 +4137,19 @@
   补充来源：李敖回忆录 / 008.军队（1959-1961·24到26岁） / line 69；说明：同一则1960年8月15日军中日记在第四本再次摘录。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/011.我最难忘的一个老兵.txt
   数据：data/timeline-events-third-book.json#book3-1960-08-15-zhang-yongting-wins-watch-back
+- 1960年8月15日 | 李敖在预官日记中写“Anti women论”请人分析
+  精度：day；可靠度：reported-by-author；排序日期：1960-08-15
+  摘要：《李敖语录》摘录《一个预备军官的日记》1960年8月15日条。李敖自称因重视个人自主、又对女性关系“余悸犹存”，写成一篇“Anti women论”请对方以科学态度分析。
+  人物：李敖
+  地点：台湾
+  标签：李敖语录、情书、写作
+  视图：书信线、日常线、情感线
+  作品：李敖语录、一个预备军官的日记、Anti women论
+  交叉引用：-
+  来源：李敖语录 / 030.情书一束 / line 13
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/030.情书一束.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1960-08-15-preofficer-diary-anti-women-analysis
 - 1960年8月16日 | 张永亭手表又输掉
   精度：day；可靠度：confirmed；排序日期：1960-08-16
   摘要：李敖在同一段军中日记链中写，1960年8月16日张永亭的手表又输掉了，成为这位老兵嗜赌性格的日常细节。
@@ -3346,6 +4412,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/005.“北土非吾愿，东林怀我师”.txt
   数据：data/timeline-events-first-book-supplement.json#1961-02-27-yao-refuses-repayment
+- 1961年2月28日 | 李敖在《霸王·公鸭·情书》中写到生日礼物承诺
+  精度：day；可靠度：reported-by-author；排序日期：1961-02-28
+  摘要：《李敖语录》摘录《霸王·公鸭·情书》1961年2月28日条。李敖在书信体文字中说若对方快乐生活下去，自己会在她生日时送一点礼物。
+  人物：李敖
+  地点：台湾
+  标签：李敖语录、情书、写作
+  视图：书信线、日常线、情感线
+  作品：李敖语录、霸王·公鸭·情书
+  交叉引用：-
+  来源：李敖语录 / 030.情书一束 / line 27
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/030.情书一束.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1961-02-28-bawang-gongya-qingshu-birthday-gift
 - 1961年2月最后一天深夜三点钟 | 李敖在台北“四席小屋”深夜写《死别》段落
   精度：day；可靠度：reported-by-author；排序日期：1961-02-28
   摘要：《死别》中一段署“李敖，1961年2月的最后一天深夜三点钟在台北，在他的‘四席小屋’”。本条收《李敖的情诗》保留下来的具体写作时地。
@@ -3788,6 +4867,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/005.“北土非吾愿，东林怀我师”.txt
   数据：data/timeline-events-first-book-supplement.json#1961-10-14-key-to-yao-room
+- 1961年10月18日深夜 | 李敖深夜写情书，称多年后或仍会记得那封信
+  精度：day；可靠度：reported-by-author；排序日期：1961-10-18
+  摘要：《李敖语录》摘录《李敖情书集》1961年10月18日深夜文字。李敖在信中写自己不属于任何人，也不期待奇迹，只留下对一封信和一双“不看我的眼睛”的记忆。
+  人物：李敖
+  地点：台湾
+  标签：李敖语录、情书、写作
+  视图：书信线、日常线、情感线
+  作品：李敖语录、李敖情书集
+  交叉引用：-
+  来源：李敖语录 / 030.情书一束 / line 47
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/030.情书一束.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1961-10-18-late-night-love-letter-from-qingshuji
 - 1961-10-29 | 胡适写信告知严侨仍在人世
   精度：day；可靠度：confirmed；排序日期：1961-10-29
   摘要：胡适10月29日夜写信给李敖，转述华严、叶明勋来访所言：严以侨已恢复自由，在台北私立育英中学教书。
@@ -4323,6 +5415,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1962-09-01-yisi-bugua-published
+- 1962年9月5日 | 李敖写给 G，台风后担心花莲消息
+  精度：day；可靠度：reported-by-author；排序日期：1962-09-05
+  摘要：《李敖语录》摘录《给G的九十四封信》1962年9月5日。李敖写台风后屋顶漏水、停电无报，因对方住在花莲而焦急关注花莲消息。
+  人物：李敖、G
+  地点：台湾
+  标签：李敖语录、情书、写作
+  视图：书信线、日常线、情感线
+  作品：李敖语录、给G的九十四封信
+  交叉引用：-
+  来源：李敖语录 / 030.情书一束 / line 79
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/030.情书一束.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1962-09-05-writes-to-g-after-typhoon
 - 1962-10-01 | 严侨写信给李敖：“债，债，债！”
   精度：day；可靠度：confirmed；排序日期：1962-10-01
   摘要：严侨在生计无着时写信给李敖，开头即说“债，债，债！每日过日都成问题了”，这是李敖收到的严侨唯一一封信。
@@ -5146,6 +6251,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/051.李敖著作年表.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1964-03-25-051-publishes-hu-shi-research
+- 1964年3月31日 | 李敖在情书中预告未来小说会写出对方
+  精度：day；可靠度：reported-by-author；排序日期：1964-03-31
+  摘要：《李敖语录》摘录《李敖情书集》1964年3月31日文字。李敖在信中对收信人说，多年以后她会在他的一部小说中真正找到自己。
+  人物：李敖
+  地点：台湾
+  标签：李敖语录、情书、写作
+  视图：书信线、日常线、情感线
+  作品：李敖语录、李敖情书集
+  交叉引用：-
+  来源：李敖语录 / 030.情书一束 / line 105
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/030.情书一束.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1964-03-31-qingshuji-future-novel
 - 1964年4月10日 | 李敖出版《胡适评传》
   精度：day；可靠度：confirmed；排序日期：1964-04-10
   摘要：《李敖著作年表》记载，李敖于1964年4月10日出版《胡适评传》；此书后来引发陶希圣《谤书》等攻击。
@@ -5307,14 +6425,27 @@
   摘要：《论医师法规》以《文星》第八十二期编辑室报告、1964年8月1日为专题锚点，延续李敖和吴基福围绕医师法修改的舆论攻防。
   人物：李敖、吴基福、林枕客
   地点：台湾
-  标签：李敖全集、文星、医师法、1964
+  标签：李敖全集、文星、医师法、李敖语录、1964
   视图：发表线、作品线、编辑线
-  作品：论医师法规、文星、李敖全集
+  作品：论医师法规、文星、李敖全集、李敖语录
   交叉引用：-
   来源：李敖全集 / 016.论医师法规 / line 31
-  补充来源：-
+  补充来源：李敖语录 / 016.法制观念 / line 107；说明：《李敖语录》摘录《1964年8月<文星>杂志编辑室报告》中责问政府官员和民意代表的段落。；李敖语录 / 016.法制观念 / line 113；说明：《李敖语录》摘录同一编辑室报告中自述《文星》自五十一年冬到本年夏持续呼吁立委和舆论界反省。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/016.论医师法规.txt
   数据：data/timeline-events-li-ao-complete-works.json#complete-works-1964-08-01-on-medical-regulations
+- 1964年8月3日 | 李敖写给 H，记一周未见和失眠等待电话
+  精度：day；可靠度：reported-by-author；排序日期：1964-08-03
+  摘要：《李敖语录》摘录《给H的十三封信》1964年8月3日。李敖写从上周起未见 H、未闻其声，前夜工作到两点半后仍难入睡，并催她来电话。
+  人物：李敖、H
+  地点：台湾
+  标签：李敖语录、情书、写作
+  视图：书信线、日常线、情感线
+  作品：李敖语录、给H的十三封信
+  交叉引用：-
+  来源：李敖语录 / 030.情书一束 / line 121
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/030.情书一束.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1964-08-03-writes-to-h-after-not-seeing-her
 - 1964年8月4日 | 李敖写信向 H 谈“真正的男人”
   精度：day；可靠度：confirmed；排序日期：1964-08-04
   摘要：《白露纪》引1964年8月4日信，李敖向 H 解释什么是“真正的男人”，以男人的成熟、人格和性格来谈两人关系，也留下他文星时期情感表达的早期证据。
@@ -5471,6 +6602,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/279.陶希圣公开攻击我.txt
   数据：data/timeline-events-seventh-book.json#book7-1964-09-02-tao-xisheng-publishes-protect-taiwan-university-honor-attacking-li
+- 1964年9月4日 | 李敖写给 H，拒绝为爱变成“奴才”式人物
+  精度：day；可靠度：reported-by-author；排序日期：1964-09-04
+  摘要：《李敖语录》摘录《给H的十三封信》1964年9月4日。李敖在信中说若自己无止境地为所爱者做不愿做的事，就不再是李敖，而成了普通世俗人物。
+  人物：李敖、H
+  地点：台湾
+  标签：李敖语录、情书、写作
+  视图：书信线、日常线、情感线
+  作品：李敖语录、给H的十三封信
+  交叉引用：-
+  来源：李敖语录 / 030.情书一束 / line 151
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/030.情书一束.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1964-09-04-writes-to-h-about-not-being-secular
 - 1964-09-06 | 陶希圣续写《谤书》攻击《胡适评传》
   精度：day；可靠度：confirmed；排序日期：1964-09-06
   摘要：陶希圣在四天后又写《谤书》，攻击李敖《胡适评传》第一册，称若无人异议可说是士林之耻。
@@ -5562,6 +6706,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1964-09-28-letter-to-h-illness-and-visit
+- 1964年9月29日清晨 | 李敖天亮时写给 H，记清晨七点一刻仍随手写信
+  精度：day；可靠度：reported-by-author；排序日期：1964-09-29
+  摘要：《李敖语录》摘录《给H的十三封信》1964年9月29日。李敖写到“天又亮了”，清晨七点一刻仍在随手写信，并把此刻想象为 H 坐三轮车的时候。
+  人物：李敖、H
+  地点：台湾
+  标签：李敖语录、情书、写作
+  视图：书信线、日常线、情感线
+  作品：李敖语录、给H的十三封信
+  交叉引用：-
+  来源：李敖语录 / 030.情书一束 / line 211
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/030.情书一束.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1964-09-29-writes-to-h-at-dawn
 - 1964年9月30日 | 李敖写信给 H，记棺材、麻将、旅馆与返台北行程
   精度：day；可靠度：confirmed；排序日期：1964-09-30
   摘要：《白露纪》引1964年9月30日信，李敖写棺材、麻将等联想，也记自己在旅馆和图书馆间写信、晚七点半回台北的行程，留下恋爱书信中的日常路线。
@@ -6453,12 +7610,12 @@
   摘要：《原子弹20岁感言》刊于1965年8月6日。李敖借广岛挨炸二十周年，强调原子弹已让战争从“你死我活”走到“大家死大家不活”，并借此批评仍迷信武力解决一切的人。
   人物：李敖、海明威
   地点：广岛、日本、台湾
-  标签：上下古今谈、原子弹20岁感言、广岛、战争、1965
+  标签：上下古今谈、原子弹20岁感言、广岛、战争、李敖语录、1965
   视图：发表线、国际线、思想线
-  作品：上下古今谈、原子弹20岁感言
+  作品：上下古今谈、原子弹20岁感言、李敖语录
   交叉引用：shangxia-1965-08-04-shakespeare-is-agent
   来源：上下古今谈 / 035.原子弹20岁感言 / line 21
-  补充来源：-
+  补充来源：李敖语录 / 013.天南地北 / line 123；说明：《李敖语录》摘录《原子弹二十岁感言》中“整整二十年前的今天（8月6号）”起笔的广岛二十周年段落。；李敖语录 / 013.天南地北 / line 127；说明：《李敖语录》摘录同文对原子弹改变战争性质的判断。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/035.原子弹20岁感言.txt
   数据：data/timeline-events-shangxia-gujin-talks.json#shangxia-1965-08-06-atomic-bomb-twenty-years
 - 1965年8月7日 | 《中法私案的四点分析》刊出，李敖把“中法三角恋”拆成四个层次
@@ -6799,6 +7956,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/011.《文星》（1962-1966·27到31岁）.txt
   数据：data/timeline-events-fourth-book.json#book4-1965-08-31-wenxing-90-banned
+- 1965年9月4日清早 | 李敖清早写《给阿贞》，称一夜未睡且信比人先到更好
+  精度：day；可靠度：reported-by-author；排序日期：1965-09-04
+  摘要：《李敖语录》摘录《给阿贞》1965年9月4日清早文字。李敖写前夜送对方上楼后一夜没睡好，认为清早让信先到比自己亲自到更合适。
+  人物：李敖、阿贞
+  地点：台湾
+  标签：李敖语录、情书、写作
+  视图：书信线、日常线、情感线
+  作品：李敖语录、给阿贞
+  交叉引用：-
+  来源：李敖语录 / 030.情书一束 / line 249
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/030.情书一束.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1965-09-04-early-morning-letter-to-azhen
 - 五十四年九月十五日 | 李敖公布中研院警卫室关于暑期讲习会结余经费分配的秘密报告
   精度：day；可靠度：confirmed；排序日期：1965-09-15
   摘要：在《王世杰“蒙混舞弊”的铁证》中，李敖说明自己“握有秘密文件一纸，现公布于后”，并全文引出一份署“报告：五十四年九月十五日于本院警卫室”的院内报告，指暑期科学讲习会结余经费被少数办事人员私分。这是李敖围绕王世杰与中研院行政腐败所公布的一份核心证据。
@@ -6921,12 +8091,12 @@
   摘要：《李敖著作年表》记载，李敖于1965年11月12日出版《孙逸仙和中国西化医学》，并注明此书后来遭查禁。旧库已有年份级写作/查禁节点，本条补出出版日。
   人物：李敖
   地点：台湾
-  标签：千秋万岁乌鸦求是合集、李敖著作年表、孙逸仙和中国西化医学、孙逸仙、中国西化医学、查禁、1965
+  标签：千秋万岁乌鸦求是合集、李敖著作年表、孙逸仙和中国西化医学、孙逸仙、中国西化医学、查禁、1965、李敖语录
   视图：写作线、出版线
-  作品：千秋万岁乌鸦求是合集、李敖著作年表、孙逸仙和中国西化医学
+  作品：千秋万岁乌鸦求是合集、李敖著作年表、孙逸仙和中国西化医学、李敖语录
   交叉引用：book5-1965-writes-sun-yatsen-western-medicine、1966-books-banned
   来源：千秋万岁乌鸦求是合集 / 051.李敖著作年表 / line 65
-  补充来源：-
+  补充来源：李敖语录 / 024.批判国民党 / line 189；说明：李敖回顾其批判孙中山主线，称从1965年推出《孙逸仙和中国西化医学》到1987年出版《孙中山研究》，主线都是求真。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/051.李敖著作年表.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1965-11-12-051-publishes-sun-yatsen-western-medicine
 - 1965年12月1日（《文星》第九十八期，待校） | 李敖以本社名义在《文星》第九十八期刊出《国法党限》文章
@@ -7168,12 +8338,12 @@
   摘要：《猪猡纪》写，李敖1965年写《孙逸仙和中国西化医学》，以历史考证方式拆解国民党政治图腾；该书随即遭国民党查禁，成为他后来“李敖的方法”的早期例证。
   人物：李敖、孙中山
   地点：台湾
-  标签：孙中山、查禁、历史考证、李敖的方法
+  标签：孙中山、查禁、历史考证、李敖的方法、李敖语录
   视图：思想线、出版线、司法线
-  作品：孙逸仙和中国西化医学、李敖快意恩仇录
+  作品：孙逸仙和中国西化医学、李敖快意恩仇录、李敖语录
   交叉引用：-
   来源：李敖快意恩仇录 / 017.猪猡纪 / line 13
-  补充来源：-
+  补充来源：李敖语录 / 024.批判国民党 / line 189；说明：李敖回顾其批判孙中山主线，称1965年推出《孙逸仙和中国西化医学》。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/017.猪猡纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1965-writes-sun-yatsen-western-medicine
 - 1965年（30岁时） | 李敖三十岁时迁入台大艺苑公寓，生活开始明显脱穷
@@ -7326,12 +8496,12 @@
   摘要：《李敖先生谈女人（语录）》中多则条目后标注“2月17日”，末尾又总注“以上1966年作”。据此可将这一组关于情敌、女男平等、女人互夸等语录，落实到1966年2月17日这一批次。
   人物：李敖
   地点：台湾
-  标签：谈女人、语录、1966年2月17日、女人、传统下的再白
+  标签：谈女人、语录、1966年2月17日、女人、传统下的再白、李敖语录
   视图：写作线、思想线、情感线
-  作品：李敖先生谈女人（语录）、传统下的再白
+  作品：李敖先生谈女人（语录）、传统下的再白、李敖语录
   交叉引用：-
   来源：传统下的再白 / 003.李敖先生谈女人（语录） / line 7
-  补充来源：-
+  补充来源：李敖语录 / 029.论女性·论选美 / line 319；说明：《李敖语录》摘录《李敖先生谈女人》中从“妇人之言”到订婚、离婚等一组语录，对应第一批《谈女人》语录。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/002.传统下的再白/003.李敖先生谈女人（语录）.txt
   数据：data/timeline-events-traditional-monologue-sequel.json#traditional-monologue-sequel-1966-02-17-women-aphorisms-first-batch
 - 1966-02-21 | 徐复观在《征信新闻报》追杀李敖
@@ -7729,12 +8899,12 @@
   摘要：《李敖先生谈女人（语录）》后半多则条目后标注“9月22日”，末尾总注“以上1966年作”。据此可把这组关于眼泪、订婚、衣饰、张默君与比阔的语录，归到1966年9月22日这一批次。
   人物：李敖、张默君
   地点：台湾
-  标签：谈女人、语录、1966年9月22日、女人、传统下的再白
+  标签：谈女人、语录、1966年9月22日、女人、传统下的再白、李敖语录
   视图：写作线、思想线、情感线
-  作品：李敖先生谈女人（语录）、传统下的再白
+  作品：李敖先生谈女人（语录）、传统下的再白、李敖语录
   交叉引用：traditional-monologue-sequel-1966-02-17-women-aphorisms-first-batch
   来源：传统下的再白 / 003.李敖先生谈女人（语录） / line 25
-  补充来源：-
+  补充来源：李敖语录 / 029.论女性·论选美 / line 385；说明：《李敖语录》摘录《李敖先生谈女人》后半组语录，含1964年春在旗袍店见张默君量三围的见闻、衣饰与比阔等条。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/002.传统下的再白/003.李敖先生谈女人（语录）.txt
   数据：data/timeline-events-traditional-monologue-sequel.json#traditional-monologue-sequel-1966-09-22-women-aphorisms-second-batch
 - 1966年9月24日 | 李敖写《孙悟空和我》
@@ -8012,6 +9182,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/010.根株纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1967-03-16-car-crash-and-mistaken-arrest-scare
+- 1967年3月19日星期天前的第二天 | 李敖在星期天前两天写给 Y，临睡前仍带着怨气
+  精度：day；可靠度：reported-by-author；排序日期：1967-03-17
+  摘要：《李敖语录》摘录《给Y的四十八封信》，题注作“1967年3月19日星期天前的第二天”。据题注推算为1967年3月17日；李敖写到深夜一点半将睡，仍在信末发泄情绪。
+  人物：李敖、Y
+  地点：台湾
+  标签：李敖语录、情书、写作
+  视图：书信线、日常线、情感线
+  作品：李敖语录、给Y的四十八封信
+  交叉引用：-
+  来源：李敖语录 / 030.情书一束 / line 263
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/030.情书一束.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1967-03-17-writes-to-y-before-sunday
 - 1967年3月21日清早 | 李敖写给“小Y”的早期情书片段
   精度：day；可靠度：confirmed；排序日期：1967-03-21
   摘要：《白露纪》引李敖1967年3月21日清早给“小Y”的情书，写到十小时余的相处、照片与爱情感受，显示文星改组后私人情感线的展开。
@@ -9009,12 +10192,12 @@
   摘要：《从此黑白不分明！》署1969年金恩被刺周年，以美国黑人民权问题为题，讨论种族平等与非暴力运动。
   人物：李敖、马丁·路德·金
   地点：台湾、美国
-  标签：李敖全集、黑人问题、金恩、1969
+  标签：李敖全集、黑人问题、金恩、李敖语录、1969
   视图：写作线、作品线、国际线
-  作品：从此黑白不分明！、李敖全集
+  作品：从此黑白不分明！、李敖全集、李敖语录
   交叉引用：-
   来源：李敖全集 / 009.从此黑白不分明！ / line 21
-  补充来源：-
+  补充来源：李敖语录 / 013.天南地北 / line 161；说明：《李敖语录》摘录《从此黑白不分明！》中对美国黑人民权、非暴力运动和法律秩序的论述。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/009.从此黑白不分明！.txt
   数据：data/timeline-events-li-ao-complete-works.json#complete-works-1969-black-white-no-longer-clear
 - 1960年代知识人交游中（待校） | 李敖先向周弃子借钱以避开其借钱
@@ -9901,12 +11084,12 @@
   摘要：《坐牢家爸爸给女儿的八十封信》自序说明，这批信写于1973年1月24日到1975年11月1日之间，李敖当时独居景美军法处看守所第八房。
   人物：李敖、李文、冯音汝
   地点：景美军法处看守所
-  标签：狱中书信、女儿、景美军法处
+  标签：狱中书信、女儿、景美军法处、李敖语录
   视图：生平线、出版线
-  作品：坐牢家爸爸给女儿的八十封信
+  作品：坐牢家爸爸给女儿的八十封信、李敖语录
   交叉引用：-
   来源：李敖自传与回忆续集 / 016.《坐牢家爸爸给女儿的八十封信》自序 / line 9
-  补充来源：-
+  补充来源：李敖语录 / 007.牢狱岁月 / line 75；说明：《李敖语录》转摘狱中家书写作期，重述1973年1月24日至1975年11月1日独居景美军法处看守所第八房。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/016.《坐牢家爸爸给女儿的八十封信》自序.txt
   数据：data/timeline-events-second-book.json#book2-1973-01-24-first-prison-letter-to-daughter
 - 1973年6月2日 | 中央社报道于长城加入中共驻联合国代表团工作
@@ -10243,12 +11426,12 @@
   摘要：《坐牢家爸爸给女儿的八十封信》所收书信写作期止于1975年11月1日，跨越李敖在景美军法处看守所第八房的两年多时间。
   人物：李敖、李文
   地点：景美军法处看守所
-  标签：狱中书信、女儿、景美军法处
+  标签：狱中书信、女儿、景美军法处、李敖语录
   视图：生平线、出版线
-  作品：坐牢家爸爸给女儿的八十封信
+  作品：坐牢家爸爸给女儿的八十封信、李敖语录
   交叉引用：-
   来源：李敖自传与回忆续集 / 016.《坐牢家爸爸给女儿的八十封信》自序 / line 9
-  补充来源：-
+  补充来源：李敖语录 / 007.牢狱岁月 / line 75；说明：《李敖语录》转摘狱中家书写作期，重述1973年1月24日至1975年11月1日独居景美军法处看守所第八房。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/016.《坐牢家爸爸给女儿的八十封信》自序.txt
   数据：data/timeline-events-second-book.json#book2-1975-11-01-last-prison-letter-to-daughter
 - 1975-12-22 | 移送仁爱教育实验所
@@ -15508,6 +16691,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/051.李敖著作年表.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1984-05-15-051-qianqiu-review-32
+- 1984年5月16日 | 李敖在《李敖札记》中写对俗人的性格表演
+  精度：day；可靠度：excerpted-diary；排序日期：1984-05-16
+  摘要：《李敖语录》摘录《李敖札记》1984年5月16日条。李敖写对俗人有时要做朝外的性格表演，让对方知所警惕，但自己内心并不真的动气。
+  人物：李敖
+  地点：-
+  标签：李敖语录、李敖札记、日记、语录摘录、1984
+  视图：日常线、写作线、思想线
+  作品：李敖语录、李敖札记
+  交叉引用：-
+  来源：李敖语录 / 006.我思我在 / line 163
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/006.我思我在.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1984-05-16-li-ao-zhaji-character-performance
 - 1984年5月23日 | 李敖以沈沉笔名写《今日圣人的下场》
   精度：day；可靠度：confirmed；排序日期：1984-05-23
   摘要：《今日圣人的下场（沈沉）》署1984年5月23日。李敖以沈沉笔名评论老荣民零用钱与中央民意代表待遇的强烈反差。
@@ -16329,6 +17525,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/051.李敖著作年表.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1985-03-15-051-qianqiu-review-42
+- 1985年3月20日 | 李敖在《李敖札记》中批评台静农等人的垮相
+  精度：day；可靠度：excerpted-diary；排序日期：1985-03-20
+  摘要：《李敖语录》摘录《李敖札记》1985年3月20日条。李敖谈大陆挫败来台者在国民党统治下的精神垮落，并批评台静农与梁实秋同台受奖等表现。
+  人物：李敖、台静农、梁实秋
+  地点：-
+  标签：李敖语录、李敖札记、日记、语录摘录、1985
+  视图：日常线、写作线、思想线
+  作品：李敖语录、李敖札记
+  交叉引用：-
+  来源：李敖语录 / 009.中国当代人物 / line 57
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/009.中国当代人物.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1985-03-20-li-ao-zhaji-tai-jingnong
 - 1985年3月23日 | 李敖与史通写《这叫什么公开审判？》
   精度：day；可靠度：confirmed；排序日期：1985-03-23
   摘要：《这叫什么公开审判？（李敖·史通）》署1985年3月23日。李敖在这篇文字中延续《千秋万岁乌鸦求是合集》的政论、读书札记或杂文写作脉络，留下一个可定位的写作节点。
@@ -16880,12 +18089,12 @@
   摘要：《“太轻了，不算！”》文末署1985年9月25日夜，文章从魏廷朝受刑求等记忆展开。
   人物：李敖、魏廷朝、彭明敏
   地点：台湾
-  标签：魏廷朝、刑求、写作
+  标签：魏廷朝、刑求、写作、李敖语录
   视图：出版线、论战线、交游线
-  作品：“太轻了，不算！”
+  作品：“太轻了，不算！”、李敖语录
   交叉引用：-
   来源：李敖自传与回忆续集 / 015.“太轻了，不算！” / line 15
-  补充来源：-
+  补充来源：李敖语录 / 025.论台湾与党外人士 / line 255；说明：补录李敖转述魏廷朝第一次出狱后经彭明敏相约见面，并说被打掉牙“太轻了，不算”的回忆片段。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/015.“太轻了，不算！”.txt
   数据：data/timeline-events-second-book.json#book2-1985-09-25-too-light-written
 - 1985年10月8日午 | 李敖写《皮尔逊与黑资料》
@@ -17358,6 +18567,19 @@
   补充来源：爱情的秘密 / 059.以山谷之道，还治其身 / line 9；说明：李敖说明以《武昌松风阁》杂写狱事。；爱情的秘密 / 059.以山谷之道，还治其身 / line 15；说明：文末署日。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/059.以山谷之道，还治其身.txt
   数据：data/timeline-events-love-secret.json#love-secret-1986-09-08-rewrites-huang-tingjian-songfengge-for-prison-affairs
+- 1986年9月9日 | 李敖在《李敖札记》中称自己是工作狂
+  精度：day；可靠度：excerpted-diary；排序日期：1986-09-09
+  摘要：《李敖语录》摘录《李敖札记》1986年9月9日条。李敖写有人说星期天要消遣，但日历在他眼中全是黑字，并称自己是工作狂。
+  人物：李敖
+  地点：-
+  标签：李敖语录、李敖札记、日记、语录摘录、1986
+  视图：日常线、写作线、思想线
+  作品：李敖语录、李敖札记
+  交叉引用：-
+  来源：李敖语录 / 006.我思我在 / line 205
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/006.我思我在.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1986-09-09-li-ao-zhaji-workaholic
 - 1986年9月10日午 | 写《“洁本”云乎哉？》
   精度：day；可靠度：confirmed；排序日期：1986-09-10
   摘要：《“洁本”云乎哉？》文末署1986年9月10日午，李敖批评萧孟能复刊号试图消灭李敖痕迹，却仍处处留下李敖“阴魂”。
@@ -17410,6 +18632,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/012.记文星事件.txt
   数据：data/timeline-events-second-book-broad.json#book2-broad-1986-10-06-wenxing-event-note
+- 1986年10月7日 | 李敖在《李敖札记》中说台湾如大监狱
+  精度：day；可靠度：excerpted-diary；排序日期：1986-10-07
+  摘要：《李敖语录》摘录《李敖札记》1986年10月7日条。李敖写自己在台湾很少写日记，因为广义来说台湾就是一座大监狱，生活单调得很少值得一记。
+  人物：李敖
+  地点：-
+  标签：李敖语录、李敖札记、日记、语录摘录、1986
+  视图：日常线、写作线、思想线
+  作品：李敖语录、李敖札记
+  交叉引用：-
+  来源：李敖语录 / 007.牢狱岁月 / line 173
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/007.牢狱岁月.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1986-10-07-li-ao-zhaji-taiwan-prison
 - 1986年10月17日 | 胡虚一应李敖之请来信评论余光中《丽达与天鹅》译诗
   精度：day；可靠度：reported-by-author；排序日期：1986-10-17
   摘要：《关于〈丽达与天鹅〉》写，李敖请胡虚一注意余光中的译诗并表示意见；1986年10月17日，胡虚一写信来，分条评论。此条收李敖发起的译诗讨论与来信节点。
@@ -17527,6 +18762,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/006.波波颂/034.再记国民党和它同路人的知识水平.txt
   数据：data/timeline-events-bobo-song.json#bobo-song-1986-12-05-kmt-knowledge-level-again
+- 1986年12月9日 | 李敖在《李敖札记》中写继续追求古典美德世界
+  精度：day；可靠度：excerpted-diary；排序日期：1986-12-09
+  摘要：《李敖语录》摘录《李敖札记》1986年12月9日条。李敖写自己的悲剧在于想以一己之力追回浪漫、仗义、狂飙的古典美德世界，即使环境和同志不足，仍继续前进。
+  人物：李敖
+  地点：-
+  标签：李敖语录、李敖札记、日记、语录摘录、1986
+  视图：日常线、写作线、思想线
+  作品：李敖语录、李敖札记
+  交叉引用：-
+  来源：李敖语录 / 005.立言家的真面目 / line 7
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/005.立言家的真面目.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1986-12-09-li-ao-zhaji-tragic-classical-world
 - 1986年5月2日前（据蔡仁坚留信前暂挂） | 郑南榕来电安排李敖在福华饭店见蔡仁坚
   精度：before-date-context；可靠度：contextual；排序日期：1986-05-01
   摘要：《蔡仁坚错在哪里？》记，蔡仁坚被李敖控告后去找郑南榕“喊救命”，郑南榕打电话给李敖，安排两人在福华饭店见面；蔡仁坚当面解释、道歉。时间在1986年5月2日蔡仁坚留信前，暂挂5月1日。
@@ -18145,12 +19393,12 @@
   摘要：《李敖著作查禁清单及官方理由》录，李敖出版社发行的《孙中山研究》于1987年9月10日初版，随后因封面把“孙中山卖国”标题醒目置于国父遗像之上，被认定违反出版法，遭到禁止出售、散布并扣押出版品的行政处分。这条材料把此前只到年份的《孙中山研究》节点推进到日级，并补足其受处分的官方理由。
   人物：李敖
   地点：台湾
-  标签：孙中山研究、出版法、行政处分、查禁
+  标签：孙中山研究、出版法、行政处分、查禁、李敖语录
   视图：出版线、司法线、思想线
-  作品：孙中山研究、李敖相关
+  作品：孙中山研究、李敖相关、李敖语录
   交叉引用：book5-1987-writes-sun-yatsen-study
   来源：李敖相关 / 006.李敖著作查禁清单及官方理由 / line 399
-  补充来源：千秋万岁乌鸦求是合集 / 088.钦佩陈定炎先生 / line 9；说明：补述李敖1987年9月出版《孙中山研究》作为专书起点，并收入替陈炯明翻案文字。
+  补充来源：千秋万岁乌鸦求是合集 / 088.钦佩陈定炎先生 / line 9；说明：补述李敖1987年9月出版《孙中山研究》作为专书起点，并收入替陈炯明翻案文字。；李敖语录 / 024.批判国民党 / line 189；说明：李敖回顾其批判孙中山主线，称1987年出版《孙中山研究》。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/008.李敖相关/006.李敖著作查禁清单及官方理由.txt
   数据：data/timeline-events-eighth-book.json#book8-1987-09-10-sun-yat-sen-study-first-edition-penalized
 - 1987-09-15 | 写《李敖自传与回忆》自序
@@ -18366,12 +19614,12 @@
   摘要：《猪猡纪》写，李敖1987年写《孙中山研究》，继续以史料比对方式拆解孙中山神话；台北市新闻处长唐启明曾把他告到地检处，但检察官被其说服。
   人物：李敖、孙中山、唐启明
   地点：台北
-  标签：孙中山研究、唐启明、地检处、批孙
+  标签：孙中山研究、唐启明、地检处、批孙、李敖语录
   视图：思想线、出版线、司法线
-  作品：孙中山研究、李敖快意恩仇录
+  作品：孙中山研究、李敖快意恩仇录、李敖语录
   交叉引用：-
   来源：李敖快意恩仇录 / 017.猪猡纪 / line 13
-  补充来源：千秋万岁乌鸦求是合集 / 088.钦佩陈定炎先生 / line 9；说明：补述《孙中山研究》专书起点及其中替陈炯明翻案文字。
+  补充来源：千秋万岁乌鸦求是合集 / 088.钦佩陈定炎先生 / line 9；说明：补述《孙中山研究》专书起点及其中替陈炯明翻案文字。；李敖语录 / 024.批判国民党 / line 189；说明：李敖回顾其批判孙中山主线，称1987年出版《孙中山研究》。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/017.猪猡纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1987-writes-sun-yatsen-study
 - 出狱十多年后 | 李敖出狱多年后与林海音重逢并在朱婉清版权案庭上交锋
@@ -19483,6 +20731,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/003.李敖札记.txt
   数据：data/timeline-events-li-ao-zawenji.json#li-ao-zawenji-1989-03-14-note-ding-naizhu-tv-and-hu-yinmeng-memory
+- 1989年3月15日，在台湾 | 李敖写《李敖语录》总序，称全书大功告成
+  精度：day；可靠度：reported-by-author；排序日期：1989-03-15
+  摘要：《李敖语录》总序署1989年3月15日在台湾。李敖说明苏荣泉倡议编《李敖语录》，请应凤凰主持计划；在应凤凰经年累月编辑、吕佳真校补、詹赐珠顺稿、叶淑珍制作配合后，他看过清样，称这部书使李敖精华尽收眼底。
+  人物：李敖、苏荣泉、应凤凰、吕佳真、詹赐珠、叶淑珍
+  地点：台湾
+  标签：李敖语录、总序、苏荣泉、应凤凰、李敖出版社、1989
+  视图：写作线、出版线、语录线
+  作品：李敖语录、胡适语粹
+  交叉引用：-
+  来源：李敖语录 / 002.《李敖语录》总序（李敖） / line 15
+  补充来源：李敖语录 / 002.《李敖语录》总序（李敖） / line 13；说明：李敖回述近二十年前曾与段宏俊合作《胡适语粹》，作为《李敖语录》体例背景。；李敖语录 / 002.《李敖语录》总序（李敖） / line 19；说明：总序署日。；李敖语录 / 003.《李敖语录》编辑手记（应凤凰） / line 27；说明：应凤凰第三方编辑手记，述苏荣泉约谈并提出精选李敖作品为语录的构想。；李敖语录 / 003.《李敖语录》编辑手记（应凤凰） / line 29；说明：应凤凰第三方编辑手记，述一年多编选、细读李敖已出版作品。；李敖语录 / 003.《李敖语录》编辑手记（应凤凰） / line 31；说明：应凤凰第三方编辑手记，述先筛选文章精华、再分类并决定册数。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/002.《李敖语录》总序（李敖）.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1989-03-15-writes-preface-and-reviews-proofs
 - 1989年3月16日 | 李敖写《林洋港的无耻》
   精度：day；可靠度：confirmed；排序日期：1989-03-16
   摘要：《林洋港的无耻》署1989年3月16日。李敖延续对林洋港介入朱高正传讯等司法问题的批评。
