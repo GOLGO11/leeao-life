@@ -160,12 +160,39 @@
     "places": ["台湾"],
     "works": ["你笨蛋，你笨蛋", "阳痿美国"],
     "certainty": "confirmed",
+    "crossReferences": [
+      "book7-2010-10-publishes-yangwei-america",
+      "dream-awake-2011-10-09-asia-weekly-publishes-li-ao-bombards-kmt-ccp-interview"
+    ],
     "source": {
       "book": "你笨蛋，你笨蛋",
       "chapter": "032.我写《阳痿美国》",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/010.你笨蛋，你笨蛋/032.我写《阳痿美国》.txt",
       "line": 21
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "阳痿美国",
+        "chapter": "001.扉幕 JOHN-JOHN开场白",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/005.阳痿美国/001.扉幕 JOHN-JOHN开场白.txt",
+        "line": 17,
+        "note": "本书正文落实“使美国阳痿”的核心概念。"
+      },
+      {
+        "book": "阳痿美国",
+        "chapter": "001.扉幕 JOHN-JOHN开场白",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/005.阳痿美国/001.扉幕 JOHN-JOHN开场白.txt",
+        "line": 27,
+        "note": "首幕直接点出书名式命题。"
+      },
+      {
+        "book": "阳痿美国",
+        "chapter": "046.尾幕 JOHN-JOHN收尾",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/005.阳痿美国/046.尾幕 JOHN-JOHN收尾.txt",
+        "line": 37,
+        "note": "尾幕回扣“美国阳痿了”的戏剧结论。"
+      }
+    ]
   },
   {
     "id": "ni-bendan-2011-02-writes-book-jacket-words-for-big-river-sea-deceived-you",

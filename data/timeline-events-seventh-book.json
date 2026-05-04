@@ -1319,12 +1319,46 @@
       "李敖风流自传"
     ],
     "certainty": "confirmed",
+    "crossReferences": [
+      "ni-bendan-2010-08-13-writes-impotent-america",
+      "dream-awake-2011-10-09-asia-weekly-publishes-li-ao-bombards-kmt-ccp-interview"
+    ],
     "source": {
       "book": "李敖风流自传",
       "chapter": "651.《阳痿美国》",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/651.《阳痿美国》.txt",
       "line": 3
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "阳痿美国",
+        "chapter": "《阳痿美国》目录",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/005.阳痿美国/《阳痿美国》目录.txt",
+        "line": 1,
+        "note": "本轮接入当前本书目录作为出版物实体补源。"
+      },
+      {
+        "book": "阳痿美国",
+        "chapter": "《阳痿美国》目录",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/005.阳痿美国/《阳痿美国》目录.txt",
+        "line": 54,
+        "note": "目录说明本书译名以李敖认定者为准。"
+      },
+      {
+        "book": "阳痿美国",
+        "chapter": "001.扉幕 JOHN-JOHN开场白",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/005.阳痿美国/001.扉幕 JOHN-JOHN开场白.txt",
+        "line": 27,
+        "note": "首幕直接点出书名式命题。"
+      },
+      {
+        "book": "阳痿美国",
+        "chapter": "046.尾幕 JOHN-JOHN收尾",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/005.阳痿美国/046.尾幕 JOHN-JOHN收尾.txt",
+        "line": 37,
+        "note": "尾幕回扣全书戏剧结论。"
+      }
+    ]
   },
   {
     "id": "book7-1984-10-14-contemplates-at-sun-moon-lake-and-identifies-with-tang-monk",

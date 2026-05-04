@@ -125,18 +125,36 @@
 - 060 后记 line 29/11/17/23 已完成入库或补源：新后记事件、旧 2002 前身大纲、旧 2007 完成发表链、2008 陈云林赠书链已互挂。
 - 《虚拟的十七岁》已完成阶段性 closeout。下一轮建议转入 `004.小说剧本类/005.阳痿美国`，仍按小说剧本类规则，只收李敖现实创作、发表、查禁、序跋、出版说明等当事人事件。
 
+### 《阳痿美国》第一轮新增 0 条
+
+- 本轮扫目录、001 扉幕、002 序幕、003-045 四十三幕审判正文和 046 尾幕；无新增事件，项目总表维持 2189 条。
+- 旧库已有 2010-08-13 李敖写《阳痿美国》和 2010年10月出版《阳痿美国》两条，本轮不重复造写作/出版事件，只补当前本书来源。
+- 已新增空数据文件 `data/timeline-events-yangwei-america.json`，并接入 app/export；`processedBookCount` 因本书接入推进到 35，但总事件数不变。
+- 补源/互链：`ni-bendan-2010-08-13-writes-impotent-america` 补 001 line 17、line 27、046 line 37；`book7-2010-10-publishes-yangwei-america` 补目录 line 1、line 54、001 line 27、046 line 37。
+- 已把 2010-08-13 写作、2010年10月出版、2011-10-09《亚洲周刊》访谈中大陆打压《阳痿美国》/李敖为宋楚瑜煽风点火三条互挂 crossReferences。
+- keep-out：目录总统在位日期、2008 奥运、2007 情报新闻、2010 海地地震以及各幕美国历史日期均为剧场论证材料，不是李敖现实当事人事件；line 56 为 wjm_tcy 电子整理注，不入表。
+- 下一轮建议：《阳痿美国》第二轮书内 closeout，重点复核 003-045 是否有跳出对白的作者自注、编辑说明或可与 2010 出版/2011 大陆打压链互证的非剧情锚点；若无新增，即本书阶段性收束。
+
+### 《阳痿美国》第二轮书内 closeout 新增 0 条
+
+- 本轮复核 003-045 四十三幕审判正文的关键字命中、非对白行、括号注与页脚；无新增事件，`data/timeline-events-yangwei-america.json` 维持 0 条，项目总表维持 2189 条。
+- 未发现脱离剧中对白的作者署日、后记、出版说明或可单独入库的李敖现实动作；此前旧写作/出版/大陆打压链补源已经足够。
+- 003 line 209 的 2007 情报新闻、043 line 227 的 2010 海地地震、044 多处 2001-2006 反恐/伊战材料、各总统在位日期及历史事件日期，均为“上帝李”审判论证中的材料，不作为李敖现实当事人事件。
+- 007 line 103、008 line 21 等“注”属于译名/百科式说明，017 line 71、040 line 157-193 等资料段仍嵌在审判文本内；目录 line 56 和各章末页脚为电子整理信息，不入表。
+- 《阳痿美国》已完成阶段性 closeout。下一轮建议转入 `004.小说剧本类/006.第73烈士`；仍按小说剧本类规则，优先扫序跋、后记、署日、出版说明和取材/创作说明，正文历史/剧场情节谨慎排除。
+
 ## 2026-05-04 当前接手快照
 
-- 当前主线：已完成《虚拟的十七岁》第二轮书内 closeout。
-- 当前文件：`data/timeline-events-virtual-seventeen.json`，1 条；另已补 `data/timeline-events-seventh-book.json` 旧前身大纲/完成发表链。
+- 当前主线：已完成《阳痿美国》第二轮书内 closeout。
+- 当前文件：`data/timeline-events-yangwei-america.json`，0 条；另已补 `data/timeline-events-ni-bendan.json`、`data/timeline-events-seventh-book.json`、`data/timeline-events-dream-awake.json` 的旧《阳痿美国》链。
 - 当前总事件数：`2189`。
-- 当前最新日志：`iteration: 215`。
-- 当前数据版本：`2026-05-04-virtual-seventeen-closeout`。
+- 当前最新日志：`iteration: 217`。
+- 当前数据版本：`2026-05-04-yangwei-america-closeout`。
 - 当前导出表头应为：`事件总数：2189`。
-- 全库校验：files=41,total=2189,dups=0,badShape=0,badDates=0,missingRefs=0。
-- 本书特别规则已执行：001-059 小说正文按虚构/虚拟叙事排除；060 后记中的写作说明、署日和模特儿来源已入表。
-- 本轮新增 0 条；旧 2002 前身大纲、2007 完成/发表会和 2008 陈云林赠书链已补 additionalSources 与 crossReferences。
-- 下一轮建议：转入 `004.小说剧本类/005.阳痿美国`。
+- 全库校验：files=42,total=2189,dups=0,badShape=0,badDates=0,missingRefs=0。
+- 本书特别规则已执行：审判正文按剧场文本排除；只把当前本书作为旧写作/出版链补源。
+- 本轮新增 0 条；旧 2010-08-13 写作、2010年10月出版、2011 大陆打压/参选访谈链已补 additionalSources 与 crossReferences。
+- 下一轮建议：转入 `004.小说剧本类/006.第73烈士`。
 
 - 项目路径：`C:\Users\zzy87\Desktop\project\leeao-life`
 - 当前总事件数：`2189`
@@ -155,8 +173,8 @@
 
 - 纯文本总表表头当前应为：`事件总数：2189`
 - 当前前端版本号：
-  - `app.js` 的 `dataVersion`：`2026-05-04-virtual-seventeen-closeout`
-  - `index.html` 的 CSS / JS query param：`2026-05-04-virtual-seventeen-closeout`
+  - `app.js` 的 `dataVersion`：`2026-05-04-yangwei-america-closeout`
+  - `index.html` 的 CSS / JS query param：`2026-05-04-yangwei-america-closeout`
 ### 用户硬规则
 
 1. 必须一本一本、章节一段一段增量推进，不能一次性吞全集。

@@ -124,34 +124,51 @@
 - 060 后记 line 29/11/17/23 已完成入库或补源；旧 2002 前身大纲、旧 2007 完成发表链、2008 陈云林赠书链已互挂。
 - 《虚拟的十七岁》已完成阶段性 closeout。下一轮建议转入 `004.小说剧本类/005.阳痿美国`。
 
+### 《阳痿美国》第一轮新增 0 条
+
+- 本轮扫目录、001 扉幕、002 序幕、003-045 四十三幕审判正文和 046 尾幕；无新增事件，项目总表维持 2189 条。
+- 旧库已有 2010-08-13 李敖写《阳痿美国》和 2010年10月出版《阳痿美国》两条，本轮不重复造写作/出版事件，只补当前本书来源。
+- 已新增空数据文件 `data/timeline-events-yangwei-america.json` 并接入 app/export；`processedBookCount` 推进到 35，总事件数不变。
+- 已把 2010-08-13 写作、2010年10月出版、2011-10-09《亚洲周刊》访谈中大陆打压《阳痿美国》/李敖为宋楚瑜煽风点火三条互挂 crossReferences。
+- keep-out：目录总统在位日期、2008 奥运、2007 情报新闻、2010 海地地震以及各幕美国历史日期均为剧场论证材料；line 56 为 wjm_tcy 电子整理注，不入表。
+- 下一轮建议：《阳痿美国》第二轮书内 closeout。
+
+### 《阳痿美国》第二轮书内 closeout 新增 0 条
+
+- 本轮复核 003-045 四十三幕审判正文的关键字命中、非对白行、括号注与页脚；无新增事件，`data/timeline-events-yangwei-america.json` 维持 0 条，项目总表维持 2189 条。
+- 未发现脱离剧中对白的作者署日、后记、出版说明或可单独入库的李敖现实动作；旧写作/出版/大陆打压链补源已经足够。
+- 003 line 209 的 2007 情报新闻、043 line 227 的 2010 海地地震、044 多处 2001-2006 反恐/伊战材料、各总统在位日期及历史事件日期，均为“上帝李”审判论证中的材料，不作为李敖现实当事人事件。
+- 007 line 103、008 line 21 等“注”属于译名/百科式说明，017 line 71、040 line 157-193 等资料段仍嵌在审判文本内；目录 line 56 和各章末页脚为电子整理信息，不入表。
+- 《阳痿美国》已完成阶段性 closeout。下一轮建议转入 `004.小说剧本类/006.第73烈士`。
+
 ## 2026-05-04 当前接手快照
 
-- 当前主线：已完成《虚拟的十七岁》第二轮书内 closeout。
-- 当前文件：`data/timeline-events-virtual-seventeen.json`，1 条；另已补 `data/timeline-events-seventh-book.json` 旧前身大纲/完成发表链。
+- 当前主线：已完成《阳痿美国》第二轮书内 closeout。
+- 当前文件：`data/timeline-events-yangwei-america.json`，0 条；另已补 `data/timeline-events-ni-bendan.json`、`data/timeline-events-seventh-book.json`、`data/timeline-events-dream-awake.json` 的旧《阳痿美国》链。
 - 当前总事件数：`2189`。
-- 当前最新日志：`iteration: 215`。
-- 当前数据版本：`2026-05-04-virtual-seventeen-closeout`。
+- 当前最新日志：`iteration: 217`。
+- 当前数据版本：`2026-05-04-yangwei-america-closeout`。
 - 当前导出表头应为：`事件总数：2189`。
-- 全库校验：files=41,total=2189,dups=0,badShape=0,badDates=0,missingRefs=0。
-- 本书特别规则已执行：001-059 小说正文按虚构/虚拟叙事排除；060 后记中的写作说明、署日和模特儿来源已入表。
-- 本轮新增 0 条；旧 2002 前身大纲、2007 完成/发表会和 2008 陈云林赠书链已补 additionalSources 与 crossReferences。
-- 下一轮建议：转入 `004.小说剧本类/005.阳痿美国`。
+- 全库校验：files=42,total=2189,dups=0,badShape=0,badDates=0,missingRefs=0。
+- 本书特别规则已执行：审判正文按剧场文本排除；只把当前本书作为旧写作/出版链补源。
+- 本轮新增 0 条；旧 2010-08-13 写作、2010年10月出版、2011 大陆打压/参选访谈链已补 additionalSources 与 crossReferences。
+- 下一轮建议：转入 `004.小说剧本类/006.第73烈士`。
 
 ## 一、当前快照
 
 - 项目路径：`C:\Users\zzy87\Desktop\project\leeao-life`
 - 当前总事件数：**2189**
-- 当前最新轮次：`iteration: 215`
-- 当前数据版本：`2026-05-04-virtual-seventeen-closeout`
+- 当前最新轮次：`iteration: 217`
+- 当前数据版本：`2026-05-04-yangwei-america-closeout`
 - 当前纯文本总表：`exports/leeao-current-timeline.txt`
 - 当前前端版本：
-  - `app.js` 的 `dataVersion`：`2026-05-04-virtual-seventeen-closeout`
-  - `index.html` 的 CSS / JS query param：`2026-05-04-virtual-seventeen-closeout`
+  - `app.js` 的 `dataVersion`：`2026-05-04-yangwei-america-closeout`
+  - `index.html` 的 CSS / JS query param：`2026-05-04-yangwei-america-closeout`
 当前全库校验应维持：
 
 ```json
 {
-  "files": 41,
+  "files": 42,
   "total": 2189,
   "dups": 0,
   "badShape": 0,
@@ -168,14 +185,16 @@
 
 ### 当前工作树状态
 
-当前工作树可能是 **dirty** 的，接手时不要回退现有改动。此时最新主线已完成《虚拟的十七岁》第二轮书内 closeout：
+当前工作树可能是 **dirty** 的，接手时不要回退现有改动。此时最新主线已完成《阳痿美国》第二轮书内 closeout：
 
 - 新增：`data/timeline-events-virtual-seventeen.json`（1 条）。
+- 新增：`data/timeline-events-yangwei-america.json`（0 条，表示本书已首轮接入）。
 - 更新：`data/timeline-events-seventh-book.json` 的《赤裸的十七岁》前身大纲与《虚拟的十七岁》完成/发表会旧节点补源与互链。
+- 更新：`data/timeline-events-ni-bendan.json`、`data/timeline-events-seventh-book.json`、`data/timeline-events-dream-awake.json` 的《阳痿美国》写作、出版、大陆打压/参选访谈链补源与互链。
 - 已同步：`app.js`、`tools/export-timeline-text.mjs`、`index.html`、`README.md`、`data/ingestion-log.json`、`DEVELOPMENT_HANDOFF.md`、`DEVELOPMENT_HANDOFF_SUMMARY.md`、`exports/leeao-current-timeline.txt`。
 - 既有《千秋万岁编外集》维持 3 条 closeout 状态；这些条目均为第三方叙述/转述，不要改成李敖自述。
 - 《北京法源寺》第二轮已加入跨书出版、书信勘误、广告购赠、节目讲解、英译/诺奖外围、法源寺到访和舞台改编链；001-017 小说正文情节仍不入表。
-- 《虚拟的十七岁》001-059 小说正文按虚构/虚拟情节排除；下一步默认转入 `004.小说剧本类/005.阳痿美国`。
+- 《阳痿美国》001-046 剧场审判正文已按剧本/政治论证排除；下一步默认转入 `004.小说剧本类/006.第73烈士`。
 
 ---
 
@@ -483,7 +502,8 @@
 - `《上山·上山·爱》`：`4`
 - `《红色11》`：`1`
 - `《虚拟的十七岁》`：`1`
-- `dataVersion = 2026-05-04-virtual-seventeen-closeout`
+- `《阳痿美国》`：`0`
+- `dataVersion = 2026-05-04-yangwei-america-closeout`
 - `exports/leeao-current-timeline.txt` 表头：`事件总数：2189`
 
 ### 快速命令

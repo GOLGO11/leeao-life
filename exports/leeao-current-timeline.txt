@@ -1,7 +1,7 @@
 ﻿李敖交互式年表：当前增量纯文本备份
 生成日期：2026-05-04
 事件总数：2189
-数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json；data/timeline-events-ni-bendan.json；data/timeline-events-dream-awake.json；data/timeline-events-li-ao-xinkan.json；data/timeline-events-qianqiu-wansui-wuya-qiushi.json；data/timeline-events-li-ao-zawenji.json；data/timeline-events-qianqiu-wansui-bianwai.json；data/timeline-events-beijing-fayuansi.json；data/timeline-events-shangshan-ai.json；data/timeline-events-red-11.json；data/timeline-events-virtual-seventeen.json
+数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json；data/timeline-events-ni-bendan.json；data/timeline-events-dream-awake.json；data/timeline-events-li-ao-xinkan.json；data/timeline-events-qianqiu-wansui-wuya-qiushi.json；data/timeline-events-li-ao-zawenji.json；data/timeline-events-qianqiu-wansui-bianwai.json；data/timeline-events-beijing-fayuansi.json；data/timeline-events-shangshan-ai.json；data/timeline-events-red-11.json；data/timeline-events-virtual-seventeen.json；data/timeline-events-yangwei-america.json
 说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。
 日期精度统计：day=1766；year=93；year-range=13；undated-range=1；undated-context=140；season=26；lunar-day=1；year-after=7；month=49；half-year=2；school-year-context=5；day-range=14；month-after=3；year-context=16；day-after=4；before-date-context=11；year-about=7；after-date-context=8；month-context=3；day-context=5；range-context=14；year-end=1
 
@@ -27996,9 +27996,9 @@
   标签：你笨蛋，你笨蛋、阳痿美国、美国、2010
   视图：写作线、政治线、国际线
   作品：你笨蛋，你笨蛋、阳痿美国
-  交叉引用：-
+  交叉引用：book7-2010-10-publishes-yangwei-america、dream-awake-2011-10-09-asia-weekly-publishes-li-ao-bombards-kmt-ccp-interview
   来源：你笨蛋，你笨蛋 / 032.我写《阳痿美国》 / line 21
-  补充来源：-
+  补充来源：阳痿美国 / 001.扉幕 JOHN-JOHN开场白 / line 17；说明：本书正文落实“使美国阳痿”的核心概念。；阳痿美国 / 001.扉幕 JOHN-JOHN开场白 / line 27；说明：首幕直接点出书名式命题。；阳痿美国 / 046.尾幕 JOHN-JOHN收尾 / line 37；说明：尾幕回扣“美国阳痿了”的戏剧结论。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/010.你笨蛋，你笨蛋/032.我写《阳痿美国》.txt
   数据：data/timeline-events-ni-bendan.json#ni-bendan-2010-08-13-writes-impotent-america
 - 2010年8月19日 | 宋楚瑜到阳明山给李敖看琉球文件
@@ -28022,9 +28022,9 @@
   标签：阳痿美国、美国、出版、思想转变
   视图：写作线、思想线、出版线
   作品：阳痿美国、李敖风流自传
-  交叉引用：-
+  交叉引用：ni-bendan-2010-08-13-writes-impotent-america、dream-awake-2011-10-09-asia-weekly-publishes-li-ao-bombards-kmt-ccp-interview
   来源：李敖风流自传 / 651.《阳痿美国》 / line 3
-  补充来源：-
+  补充来源：阳痿美国 / 《阳痿美国》目录 / line 1；说明：本轮接入当前本书目录作为出版物实体补源。；阳痿美国 / 《阳痿美国》目录 / line 54；说明：目录说明本书译名以李敖认定者为准。；阳痿美国 / 001.扉幕 JOHN-JOHN开场白 / line 27；说明：首幕直接点出书名式命题。；阳痿美国 / 046.尾幕 JOHN-JOHN收尾 / line 37；说明：尾幕回扣全书戏剧结论。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/651.《阳痿美国》.txt
   数据：data/timeline-events-seventh-book.json#book7-2010-10-publishes-yangwei-america
 - 2010年 | 李敖逼高信疆做健康检查，后又出资购墓地处理后事
@@ -28258,7 +28258,7 @@
   标签：我梦碎，所以我梦醒、亚洲周刊、宋楚瑜、马英九、阳痿美国、2011
   视图：媒体线、选举线、两岸线
   作品：我梦碎，所以我梦醒、阳痿美国、审判美国、你笨蛋，你笨蛋
-  交叉引用：book6-2005-03-14-questions-xue-shimin-on-nsb-secrecy-and-taizongyuan-money、book6-2005-03-28-presses-xue-to-sue-lee-tenghui-and-attach-taizongyuan-assets、book6-2006-03-06-presses-su-tsengchang-to-admit-abolishing-nuc
+  交叉引用：book6-2005-03-14-questions-xue-shimin-on-nsb-secrecy-and-taizongyuan-money、book6-2005-03-28-presses-xue-to-sue-lee-tenghui-and-attach-taizongyuan-assets、book6-2006-03-06-presses-su-tsengchang-to-admit-abolishing-nuc、ni-bendan-2010-08-13-writes-impotent-america、book7-2010-10-publishes-yangwei-america
   来源：我梦碎，所以我梦醒 / 061.梦醒时分 / line 197
   补充来源：我梦碎，所以我梦醒 / 061.梦醒时分 / line 133；说明：访谈开头交代宋楚瑜问计与李敖煽动宋参选。；我梦碎，所以我梦醒 / 061.梦醒时分 / line 165；说明：补充《阳痿美国》大陆出版受阻与李敖报复说法。；我梦碎，所以我梦醒 / 061.梦醒时分 / line 185；说明：补充李敖自述在立法院追台综院款项、并准备向监察院告马英九“内乱外患罪”。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/011.我梦碎，所以我梦醒/061.梦醒时分.txt
