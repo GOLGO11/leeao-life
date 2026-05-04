@@ -3873,14 +3873,31 @@
     ],
     "certainty": "confirmed",
     "crossReferences": [
-      "1972-10-27-donne-translation"
+      "1972-10-27-donne-translation",
+      "love-secret-1983-04-06-illness-writes-donne-translation-note"
     ],
     "source": {
       "book": "李敖快意恩仇录",
       "chapter": "015.三叠纪",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/015.三叠纪.txt",
       "line": 29
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "爱情的秘密",
+        "chapter": "004.一首诗几件事",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/004.一首诗几件事.txt",
+        "line": 9,
+        "note": "《爱情的秘密》收录文追述1972年10月27日狱中译约翰·邓恩诗、黄中国抄录与出狱后保存入档。"
+      },
+      {
+        "book": "爱情的秘密",
+        "chapter": "004.一首诗几件事",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/004.一首诗几件事.txt",
+        "line": 55,
+        "note": "狱中译诗原署日。"
+      }
+    ]
   },
   {
     "id": "book5-1972-11-01-witnesses-huang-execution-source5",
@@ -6056,7 +6073,24 @@
       "chapter": "019.宣淫纪",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/019.宣淫纪.txt",
       "line": 67
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "爱情的秘密",
+        "chapter": "036.两亿年在你手里",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/036.两亿年在你手里.txt",
+        "line": 3,
+        "note": "《爱情的秘密》收录本题注“1983年12月10日夜得南美化石，给梦中的小叶”。"
+      },
+      {
+        "book": "爱情的秘密",
+        "chapter": "036.两亿年在你手里",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/036.两亿年在你手里.txt",
+        "line": 53,
+        "note": "《爱情的秘密》收录本诗末署1983年12月11日晨。"
+      }
+    ],
+    "crossReferences": []
   },
   {
     "id": "book5-1981-meets-jingmei-at-wistaria-after-dinner",

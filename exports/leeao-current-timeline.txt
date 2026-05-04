@@ -1,9 +1,9 @@
 ﻿李敖交互式年表：当前增量纯文本备份
 生成日期：2026-05-04
-事件总数：2191
-数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json；data/timeline-events-ni-bendan.json；data/timeline-events-dream-awake.json；data/timeline-events-li-ao-xinkan.json；data/timeline-events-qianqiu-wansui-wuya-qiushi.json；data/timeline-events-li-ao-zawenji.json；data/timeline-events-qianqiu-wansui-bianwai.json；data/timeline-events-beijing-fayuansi.json；data/timeline-events-shangshan-ai.json；data/timeline-events-red-11.json；data/timeline-events-virtual-seventeen.json；data/timeline-events-yangwei-america.json；data/timeline-events-73rd-martyr.json
+事件总数：2239
+数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json；data/timeline-events-ni-bendan.json；data/timeline-events-dream-awake.json；data/timeline-events-li-ao-xinkan.json；data/timeline-events-qianqiu-wansui-wuya-qiushi.json；data/timeline-events-li-ao-zawenji.json；data/timeline-events-qianqiu-wansui-bianwai.json；data/timeline-events-beijing-fayuansi.json；data/timeline-events-shangshan-ai.json；data/timeline-events-red-11.json；data/timeline-events-virtual-seventeen.json；data/timeline-events-yangwei-america.json；data/timeline-events-73rd-martyr.json；data/timeline-events-love-secret.json
 说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。
-日期精度统计：day=1766；year=93；year-range=13；undated-range=1；undated-context=141；season=26；lunar-day=1；year-after=7；month=49；half-year=2；school-year-context=5；day-range=14；year-about=8；month-after=3；year-context=16；day-after=4；before-date-context=11；after-date-context=8；month-context=3；day-context=5；range-context=14；year-end=1
+日期精度统计：day=1811；year=94；year-range=13；undated-range=1；undated-context=141；season=27；lunar-day=1；year-after=7；month=50；half-year=2；school-year-context=5；day-range=14；year-about=8；month-after=3；year-context=16；day-after=4；before-date-context=11；after-date-context=8；month-context=3；day-context=5；range-context=14；year-end=1
 
 
 1935
@@ -3816,6 +3816,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/013.长袍心理学.txt
   数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1962-03-13-changpao-psychology-first-revision
+- 1962年3月18日 | 李敖试用古体诗翻译布莱克《爱情之秘》
+  精度：day；可靠度：reported-by-author；排序日期：1962-03-18
+  摘要：《爱情的秘密》写，李敖读朱光潜《无言之美》中所引布莱克《爱情之秘》后，总觉得朱译“达意有余，诗意不足”；1962年3月18日，他试用古体诗翻译此诗。此条采散文说明中的现实翻译动作，不把诗中抒情主体当作李敖本人经历。
+  人物：李敖、William Blake、朱光潜
+  地点：台湾
+  标签：爱情的秘密、布莱克、爱情之秘、翻译、古体诗、1962
+  视图：写作线、翻译线、诗文线
+  作品：爱情的秘密、爱情之秘、无言之美
+  交叉引用：-
+  来源：爱情的秘密 / 001.爱情的秘密 / line 49
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/001.爱情的秘密.txt
+  数据：data/timeline-events-love-secret.json#love-secret-1962-03-18-translates-blake-love-secret
 - 1962年3月25日 | 叶青发表《全盘西化论之分析》加入围剿
   精度：day；可靠度：confirmed；排序日期：1962-03-25
   摘要：《文化论战丹火录》记，1962年3月25日，叶青在《政治评论》第8卷第2期发表《全盘西化论之分析》，标志这场论战从单篇反驳升级为持续性的阵地战。
@@ -7617,7 +7630,7 @@
   作品：在废墟中营建、千秋万岁乌鸦求是合集
   交叉引用：qianqiu-wansui-1983-07-28-011-h7siovhi7ffxq3pire
   来源：千秋万岁乌鸦求是合集 / 011.在废墟中营建 / line 5
-  补充来源：-
+  补充来源：爱情的秘密 / 058.《千秋评论》满五年了！ / line 5；说明：《爱情的秘密》收录五周年文追述1966年“李敖每月一书”构想。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/011.在废墟中营建.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1966-context-011-conceives-monthly-book-strategy-after-wenxing-ban
 - 文星风雨飘摇、李敖被警备总部约谈放出找保时 | 李敖被警备总部约谈后请梁实秋作保遭婉拒
@@ -9151,6 +9164,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/014.寒武纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1971-05-13-nyt-reports-li-arrest
+- 1971年6月18日 | 李敖在警备总部牢房独居时一小时译成《沙丘忆》
+  精度：day；可靠度：reported-by-author；排序日期：1971-06-18
+  摘要：《沙丘忆》后记写，1971年6月18日，李敖在警备总部“不见天日”的牢房里独居，想到萨拉·蒂斯代尔这首诗，用一小时把它译成。后记又说，这首译诗是他“台北蒙难”时残存的作品，对他有特别意义，因此后来特地写了衬托文字。
+  人物：李敖、Sara Teasdale
+  地点：警备总部牢房、台北
+  标签：爱情的秘密、沙丘忆、萨拉·蒂斯代尔、警备总部、狱中翻译、1971
+  视图：狱中线、翻译线、写作线
+  作品：爱情的秘密、沙丘忆、On the Dunes
+  交叉引用：love-secret-1972-04-08-translates-shakespeare-songs-in-prison、1972-10-27-donne-translation、book5-1972-10-27-translates-no-man-is-island-source5
+  来源：爱情的秘密 / 002.沙丘忆 / line 57
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/002.沙丘忆.txt
+  数据：data/timeline-events-love-secret.json#love-secret-1971-06-18-translates-teasdale-on-the-dunes-in-prison
 - 1971年7月17日 | 《新共和》刊出柏杨冤狱长篇报道，延续李敖海外传讯路线
   精度：day；可靠度：confirmed；排序日期：1971-07-17
   摘要：《东郭纪》写，李敖透过魏克曼等协助把柏杨冤狱转达给外国记者；继《纽约时报》后，《新共和》于1971年7月17日刊出长篇报道，使柏杨冤情继续在海外曝光。
@@ -9322,6 +9348,19 @@
   补充来源：千秋万岁编外集 / 081.火烧岛十载风霜三（李世杰） / line 87
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/014.监狱（1971-1976·36到41岁）.txt
   数据：data/timeline-events-fourth-book.json#book4-1972-03-10-first-sentence-ten-years
+- 1972年4月8日 | 李敖在警备总司令部军法处狱中意译莎士比亚两首诗
+  精度：day；可靠度：reported-by-author；排序日期：1972-04-08
+  摘要：《除却一寒冬》写，1972年4月8日，李敖在警备总司令部军法处狱中，曾把莎士比亚《随你欢喜》第五幕中的两首诗意译出来。文章随后回忆牢中御寒、夜晚在阴暗灯光和咿哑地板上来回走路背书两三个小时的日常。
+  人物：李敖、William Shakespeare
+  地点：警备总司令部军法处、台北
+  标签：爱情的秘密、莎士比亚、随你欢喜、军法处、狱中翻译、背书、1972
+  视图：狱中线、翻译线、日常线
+  作品：爱情的秘密、除却一寒冬、As You Like It
+  交叉引用：love-secret-1971-06-18-translates-teasdale-on-the-dunes-in-prison、1972-10-27-donne-translation、book5-1972-10-27-translates-no-man-is-island-source5
+  来源：爱情的秘密 / 003.除却一寒冬 / line 39
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/003.除却一寒冬.txt
+  数据：data/timeline-events-love-secret.json#love-secret-1972-04-08-translates-shakespeare-songs-in-prison
 - 1972年4月25日 | 谢聪敏密函经小林正成转登《纽约时报》并提及李敖
   精度：day；可靠度：confirmed；排序日期：1972-04-25
   摘要：《三叠纪》写，1972年4月25日，谢聪敏狱中密函经小林正成带出并刊于《纽约时报》，其中提到李敖被牵扯成所谓台湾独立委员会成员的错误指控。
@@ -9382,9 +9421,9 @@
   标签：狱中、翻译、黄中国
   视图：生平线
   作品：我最难忘的一个“匪谍”
-  交叉引用：-
+  交叉引用：book5-1972-10-27-translates-no-man-is-island-source5、love-secret-1983-04-06-illness-writes-donne-translation-note
   来源：李敖自传与回忆 / 009.我最难忘的一个“匪谍” / line 191
-  补充来源：-
+  补充来源：爱情的秘密 / 004.一首诗几件事 / line 9；说明：《爱情的秘密》收录文追述1972年10月27日狱中译约翰·邓恩诗、黄中国抄录与出狱后保存入档。；爱情的秘密 / 004.一首诗几件事 / line 55；说明：狱中译诗原署日。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/009.我最难忘的一个“匪谍”.txt
   数据：data/timeline-events.json#1972-10-27-donne-translation
 - 1972年10月27日 | 李敖在狱中翻译约翰·邓恩名段
@@ -9395,9 +9434,9 @@
   标签：John Donne、黄中国、翻译、景美
   视图：狱中线、写作线、思想线
   作品：李敖快意恩仇录
-  交叉引用：1972-10-27-donne-translation
+  交叉引用：1972-10-27-donne-translation、love-secret-1983-04-06-illness-writes-donne-translation-note
   来源：李敖快意恩仇录 / 015.三叠纪 / line 29
-  补充来源：-
+  补充来源：爱情的秘密 / 004.一首诗几件事 / line 9；说明：《爱情的秘密》收录文追述1972年10月27日狱中译约翰·邓恩诗、黄中国抄录与出狱后保存入档。；爱情的秘密 / 004.一首诗几件事 / line 55；说明：狱中译诗原署日。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/015.三叠纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1972-10-27-translates-no-man-is-island-source5
 - 1972-11-01 | 黄中国清晨被押往刑场
@@ -9452,6 +9491,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/411.从二号房到十一号房.txt
   数据：data/timeline-events-seventh-book.json#book7-1972-07-moves-from-room-2-to-room-11-at-jingmei-detention
+- 1972年10月间 | 李敖在狱中改译桑塔亚纳《给W. P.》第二首
+  精度：month；可靠度：reported-by-author；排序日期：1972-10-31
+  摘要：《评改余光中的一首译诗》写，李敖认为余光中译桑塔亚纳《给W. P.》第二首生硬不通；1972年10月间，他在狱中曾改译此诗。此条与同月27日狱中翻译约翰·邓恩名段并列，作为《爱情的秘密》第一轮中可由散文说明坐实的狱中翻译动作。
+  人物：李敖、George Santayana、余光中
+  地点：狱中、台湾
+  标签：爱情的秘密、桑塔亚纳、余光中、英诗译注、狱中翻译、1972
+  视图：狱中线、翻译线、论战线
+  作品：爱情的秘密、评改余光中的一首译诗、给W. P.、英诗译注
+  交叉引用：1972-10-27-donne-translation、book5-1972-10-27-translates-no-man-is-island-source5、love-secret-1972-04-08-translates-shakespeare-songs-in-prison
+  来源：爱情的秘密 / 005.评改余光中的一首译诗 / line 81
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/005.评改余光中的一首译诗.txt
+  数据：data/timeline-events-love-secret.json#love-secret-1972-10-about-retranslates-santayana-to-wp-in-prison
 - 1971-1976年军法处禁报期间 | 李敖在军法处误听《往事只能回味》歌词
   精度：year-range；可靠度：contextual；排序日期：1972-12-31
   摘要：《浮生一粲三续》追述，李敖在军法处多年不能看报，消息多靠新进牢人口耳相传，流行歌曲倒听到不少。他把刘家昌《往事只能回味》末句听成“我只好另外找一位”，出狱后见到歌词才恍然失笑，并觉得误听反而更积极。
@@ -11794,7 +11846,7 @@
   作品：千秋评论、李敖回忆录
   交叉引用：book3-1981-08-10-li-second-political-imprisonment、book2-1980-08-26-xiao-accuses-li-embezzlement、qianqiu-wansui-1981-12-01-011-secret-channel-prison-writings-enter-qianqiu-review
   来源：李敖回忆录 / 018.笔伐（1982-1992·47到57岁） / line 7
-  补充来源：千秋万岁乌鸦求是合集 / 011.在废墟中营建 / line 153；千秋万岁乌鸦求是合集 / 011.在废墟中营建 / line 155
+  补充来源：千秋万岁乌鸦求是合集 / 011.在废墟中营建 / line 153；千秋万岁乌鸦求是合集 / 011.在废墟中营建 / line 155；爱情的秘密 / 058.《千秋评论》满五年了！ / line 7；说明：五周年文追述入狱前夜汝清陪李敖预先编好前六册，入狱当天清早交给林秉钦。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/018.笔伐（1982-1992·47到57岁）.txt
   数据：data/timeline-events-fourth-book.json#book4-1981-08-10-prepares-first-six-qianqiu-volumes-before-prison
 - 1981年8月11日（据“入狱第二天”推定） | 李敖在土城看守所结识刘峰松
@@ -12249,7 +12301,7 @@
   作品：千秋评论、自由·党外·蚕、霸王·骆马·人、神仙·老虎·狗、在废墟中营建
   交叉引用：qianqiu-wansui-1981-12-01-051-qianqiu-review-04、qianqiu-wansui-1982-01-01-051-qianqiu-review-05、qianqiu-wansui-1982-02-01-051-qianqiu-review-06、book4-1981-08-10-prepares-first-six-qianqiu-volumes-before-prison
   来源：千秋万岁乌鸦求是合集 / 011.在废墟中营建 / line 157
-  补充来源：-
+  补充来源：爱情的秘密 / 058.《千秋评论》满五年了！ / line 7；说明：五周年文追述狱中建立秘密运稿管道，并列第四至第六期十七篇狱中新作。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/011.在废墟中营建.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1981-12-01-011-secret-channel-prison-writings-enter-qianqiu-review
 - 1981年 | 李敖与李明谨烛光晚餐后在紫藤庐认识“静美”
@@ -12265,6 +12317,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/019.宣淫纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1981-meets-jingmei-at-wistaria-after-dinner
+- 1981年 | 李敖听杨增悌说李善培在美国被杀后作《无所逃》
+  精度：year；可靠度：reported-by-author；排序日期：1981-12-31
+  摘要：《李诗四首》中的《无所逃》题下注明，杨增悌告诉李敖“李善培在美国被一个黑人杀死了”，李敖因而作此诗。此条只采题注中的现实触发与写作动作，不把诗中普遍化的生死感慨扩成事实叙事。
+  人物：李敖、杨增悌、李善培
+  地点：台湾、美国
+  标签：爱情的秘密、李诗四首、无所逃、李善培、杨增悌、1981
+  视图：写作线、交游线、诗文线
+  作品：爱情的秘密、李诗四首、无所逃
+  交叉引用：-
+  来源：爱情的秘密 / 012.李诗四首 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/012.李诗四首.txt
+  数据：data/timeline-events-love-secret.json#love-secret-1981-about-writes-no-escape-after-hearing-li-shanpei-killed
 - 1981年，出狱后又行将入狱之时，在台北改写 | 李敖改写《流血的自由》
   精度：year-context；可靠度：confirmed；排序日期：1981-12-31
   摘要：《流血的自由》文末说明原文在1967年写于台北，1981年李敖“出狱后又行将入狱之时”在台北改写。这一条补出同一自由论题在李敖再度入狱前的改写层。
@@ -12332,6 +12397,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/028.监狱学土城？.txt
   数据：data/timeline-events-second-book-evidence.json#book2-evidence-1982-01-03-prison-labor-news
+- 1982年1月5日 | 李敖在狱中作《插花》
+  精度：day；可靠度：reported-by-author；排序日期：1982-01-05
+  摘要：《情诗十四首》所收《插花》末署“1982年1月5日狱中作”。诗中写透过栏柱、窗纱看黄花，此条只收署注可坐实的狱中写作动作，不把诗中身体化意象当作额外现实事件。
+  人物：李敖
+  地点：狱中、台湾
+  标签：爱情的秘密、情诗十四首、插花、狱中作、1982
+  视图：狱中线、写作线、诗文线
+  作品：爱情的秘密、情诗十四首、插花
+  交叉引用：-
+  来源：爱情的秘密 / 015.情诗十四首 / line 467
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/015.情诗十四首.txt
+  数据：data/timeline-events-love-secret.json#love-secret-1982-01-05-writes-flower-arranging-in-prison
 - 1982年1月5日，狱中作 | 李敖在狱中写《坐牢的三十三不亦快哉》
   精度：day；可靠度：confirmed；排序日期：1982-01-05
   摘要：《坐牢的三十三不亦快哉》署1982年1月5日，狱中作。李敖在这篇文字中延续《千秋万岁乌鸦求是合集》的政论、读书札记或杂文写作脉络，留下一个可定位的写作节点。
@@ -12392,11 +12470,50 @@
   标签：诗、真与幻、狱中生活、待校日
   视图：生平线、思想线、日常线
   作品：李敖回忆录、真与幻
-  交叉引用：-
+  交叉引用：love-secret-1982-01-25-writes-drum-inside-and-above-in-solitary
   来源：李敖回忆录 / 020.前程（1997-·62岁以后） / line 155
-  补充来源：-
+  补充来源：爱情的秘密 / 015.情诗十四首 / line 33；说明：本书收录《真与幻》原诗，补强1982年1月25日署日。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/020.前程（1997-·62岁以后）.txt
   数据：data/timeline-events-fourth-book.json#book4-1982-01-25-writes-poem-true-and-illusion-before-release
+- 1982年1月25日 | 李敖狱中独居，听楼上死囚脚镣声后作《鼓里与鼓上》
+  精度：day；可靠度：reported-by-author；排序日期：1982-01-25
+  摘要：《鼓里与鼓上》题注写，李敖狱中独居时，楼上关着独居死囚，死囚戴脚镣来回走动，声音清晰可闻。诗末署1982年1月25日。此条采题注与署日合成的狱中日常、写作节点。
+  人物：李敖
+  地点：狱中、台湾
+  标签：爱情的秘密、鼓里与鼓上、狱中独居、死囚、脚镣、1982
+  视图：狱中线、日常线、写作线
+  作品：爱情的秘密、鼓里与鼓上
+  交叉引用：book4-1982-01-25-writes-poem-true-and-illusion-before-release
+  来源：爱情的秘密 / 014.鼓里与鼓上 / line 3
+  补充来源：爱情的秘密 / 014.鼓里与鼓上 / line 37；说明：诗末署日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/014.鼓里与鼓上.txt
+  数据：data/timeline-events-love-secret.json#love-secret-1982-01-25-writes-drum-inside-and-above-in-solitary
+- 1982年1月26日作，5月8日改 | 李敖作《老兵》，后来在5月8日修改
+  精度：day；可靠度：reported-by-author；排序日期：1982-01-26
+  摘要：《老兵》末署“1982年1月26日作，5月8日改”。此条只收署注中的写作与修改动作；诗中老兵命运作为主题背景，不拆成旁人独立事件。
+  人物：李敖
+  地点：台湾
+  标签：爱情的秘密、老兵、作改、1982
+  视图：写作线、诗文线、老兵线
+  作品：爱情的秘密、老兵
+  交叉引用：-
+  来源：爱情的秘密 / 016.老兵 / line 27
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/016.老兵.txt
+  数据：data/timeline-events-love-secret.json#love-secret-1982-01-26-writes-and-may-08-revises-old-soldier
+- 1982年1月29日 | 李敖在狱中作《两首反中立的诗》
+  精度：day；可靠度：reported-by-author；排序日期：1982-01-29
+  摘要：《两首反中立的诗》收入《一面倒才对》和《怪事为什么不怪》，两首诗末均署“1982年1月29日狱中作”。此条合并为同日狱中组诗写作节点。
+  人物：李敖
+  地点：狱中、台湾
+  标签：爱情的秘密、两首反中立的诗、一面倒才对、怪事为什么不怪、狱中作、1982
+  视图：狱中线、写作线、诗文线
+  作品：爱情的秘密、两首反中立的诗、一面倒才对、怪事为什么不怪
+  交叉引用：-
+  来源：爱情的秘密 / 017.两首反中立的诗 / line 13
+  补充来源：爱情的秘密 / 017.两首反中立的诗 / line 43；说明：第二首同署狱中作。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/017.两首反中立的诗.txt
+  数据：data/timeline-events-love-secret.json#love-secret-1982-01-29-writes-two-anti-neutrality-poems-in-prison
 - 1982年2月1日 | 《千秋评论》第6期《神仙·老虎·狗》出版
   精度：day；可靠度：confirmed；排序日期：1982-02-01
   摘要：《李敖著作年表》记载，李敖于1982年2月1日出版《千秋评论》第6期《神仙·老虎·狗》。
@@ -13151,6 +13268,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/006.波波颂/017.我是圣人.txt
   数据：data/timeline-events-bobo-song.json#bobo-song-1982-12-12-i-am-sage
+- 1982年12月27日下午 | 李敖整理旧稿时补完《丹尼少年》译文
+  精度：day；可靠度：reported-by-author；排序日期：1982-12-27
+  摘要：《墓中人语》写，李敖一直想把爱尔兰民歌《丹尼少年》译成中文，一年前试译一半还没译完就入狱；1982年12月27日上午整理旧稿时发现这一半译文，决定补完，花一个半小时用直译、意译混合法译成。此条记录出狱后整理旧稿并完成翻译的动作。
+  人物：李敖
+  地点：台湾
+  标签：爱情的秘密、墓中人语、丹尼少年、Danny Boy、旧稿、翻译、1982
+  视图：翻译线、写作线、狱后线
+  作品：爱情的秘密、墓中人语、Danny Boy
+  交叉引用：-
+  来源：爱情的秘密 / 018.墓中人语 / line 5
+  补充来源：爱情的秘密 / 018.墓中人语 / line 73；说明：文末署“1982年12月27日下午”。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/018.墓中人语.txt
+  数据：data/timeline-events-love-secret.json#love-secret-1982-12-27-completes-danny-boy-translation
 - 约1982年5月23日 | 地方法院判萧孟能记者会诽谤李敖
   精度：undated-context；可靠度：contextual；排序日期：1982-05-23
   摘要：《从主流到乱流》记述，萧孟能因《文星杂志选集》事招待记者骂李敖，被李敖告到法院；去年5月23日地方法院推事林茂雄判决萧孟能诽谤成立。
@@ -13296,6 +13426,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/051.李敖著作年表.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1983-01-01-051-qianqiu-review-17
+- 1983年1月8日晨 | 李敖写《情律》并说明灵肉关系与纯灵爱情观
+  精度：day；可靠度：reported-by-author；排序日期：1983-01-08
+  摘要：《情律》末署1983年1月8日晨，诗后注释追述刘家昌十多年前一句玩笑，并说明李敖相信爱情一部分是灵肉一致，一部分是纯灵关系；他还写到自己和一些心爱的情人不上床或不急于上床，意在纯灵关系。此条采注释中的作者自述爱情观，不把诗中比喻继续外推为具体恋情事件。
+  人物：李敖、刘家昌
+  地点：台湾
+  标签：爱情的秘密、情律、刘家昌、爱情观、精神恋爱、1983
+  视图：写作线、感情线、思想线
+  作品：爱情的秘密、情律
+  交叉引用：-
+  来源：爱情的秘密 / 019.情律 / line 19
+  补充来源：爱情的秘密 / 019.情律 / line 25；说明：诗注说明灵肉一致与纯灵关系。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/019.情律.txt
+  数据：data/timeline-events-love-secret.json#love-secret-1983-01-08-writes-emotional-law-and-notes-love-view
 - 1983年1月15日 | 李敖写《当然是个人人格问题》
   精度：day；可靠度：confirmed；排序日期：1983-01-15
   摘要：《当然是个人人格问题》署1983年1月15日。李敖在这篇文字中延续《千秋万岁乌鸦求是合集》的政论、读书札记或杂文写作脉络，留下一个可定位的写作节点。
@@ -13309,6 +13452,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/035.当然是个人人格问题.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1983-01-15-035-itvmd2k6nffufjufjukl8tm6u54
+- 1983年1月16日 | 李敖收到李筱峰贺年片后，边吃十二个饺子边写四首诗
+  精度：day；可靠度：reported-by-author；排序日期：1983-01-16
+  摘要：《菩萨写诗》写，李筱峰在前一年12月10日“人权日夜”于贺年片上写七绝《叙近况致敖之先生》；李敖收到贺年卡一个多月后心血来潮，一边独吃晚饭的十二个饺子，一边写了四首回应诗。文末署1983年1月16日。
+  人物：李敖、李筱峰
+  地点：台湾
+  标签：爱情的秘密、菩萨写诗、李筱峰、贺年片、饺子、1983
+  视图：通信线、写作线、日常线
+  作品：爱情的秘密、菩萨写诗、叙近况致敖之先生
+  交叉引用：-
+  来源：爱情的秘密 / 020.菩萨写诗 / line 3
+  补充来源：爱情的秘密 / 020.菩萨写诗 / line 9；说明：写四首诗的日常细节。；爱情的秘密 / 020.菩萨写诗 / line 27；说明：文末署日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/020.菩萨写诗.txt
+  数据：data/timeline-events-love-secret.json#love-secret-1983-01-16-writes-four-poems-after-li-xiaofeng-new-year-card
 - 1983年1月16日夜，浴盆中作 | 李敖写《二次出狱后，声名翻两番》
   精度：day；可靠度：confirmed；排序日期：1983-01-16
   摘要：《二次出狱后，声名翻两番》署1983年1月16日夜，浴盆中作。李敖在这篇文字中延续《千秋万岁乌鸦求是合集》的政论、读书札记或杂文写作脉络，留下一个可定位的写作节点。
@@ -13348,6 +13504,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/031.从主流到乱流.txt
   数据：data/timeline-events-second-book-broad.json#book2-broad-1983-01-29-high-court-dismisses-xiao-appeal
+- 1983年1月30日夜 | 李敖头痛中读陈迪剪发投书，十分钟写《剪他三分头！》
+  精度：day；可靠度：reported-by-author；排序日期：1983-01-30
+  摘要：《剪他三分头！》写，李敖1979年曾为中学女生头发向教育部长朱汇森抗议写诗，并收入1980年6月25日出版的《李敖全集》第一册；后来他看到1981年11月4日《中国时报》陈迪《请部长也剪三分头》一文。1983年1月30日夜，他几天头痛中从这篇文字得到灵感，花十分钟再写一首诗。
+  人物：李敖、朱汇森、陈迪
+  地点：台湾
+  标签：爱情的秘密、剪他三分头、朱汇森、陈迪、中国时报、头痛、1983
+  视图：写作线、教育线、日常线
+  作品：爱情的秘密、剪他三分头！、李敖全集、请部长也剪三分头
+  交叉引用：-
+  来源：爱情的秘密 / 021.剪他三分头！ / line 3
+  补充来源：爱情的秘密 / 021.剪他三分头！ / line 41；说明：看到陈迪投书。；爱情的秘密 / 021.剪他三分头！ / line 45；说明：头痛中得到灵感并十分钟写成。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/021.剪他三分头！.txt
+  数据：data/timeline-events-love-secret.json#love-secret-1983-01-30-writes-cut-him-three-parts-hair
 - 1983年2月1日 | 《千秋评论》第18期《大头·小人·影》出版
   精度：day；可靠度：confirmed；排序日期：1983-02-01
   摘要：《李敖著作年表》记载，李敖于1983年2月1日出版《千秋评论》第18期《大头·小人·影》。
@@ -13374,6 +13543,19 @@
   补充来源：千秋万岁乌鸦求是合集 / 051.李敖著作年表 / line 101；说明：《李敖著作年表》同记1983年2月1日出版《李敖全集》第七册、第八册。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/008.李敖相关/001.李敖五十年表.txt
   数据：data/timeline-events-eighth-book.json#book8-1983-02-01-publishes-volume-seven-and-eight-of-complete-works
+- 1983年2月1日 | 李敖半小时写《“癣”与“屁”》
+  精度：day；可靠度：reported-by-author；排序日期：1983-02-01
+  摘要：《“癣”与“屁”》末署“1983年2月1日半小时写此诗”。此条只采署注中明确的写作耗时与写作节点，诗中政治讽刺内容不另拆事件。
+  人物：李敖
+  地点：台湾
+  标签：爱情的秘密、癣与屁、半小时、1983
+  视图：写作线、诗文线
+  作品：爱情的秘密、“癣”与“屁”
+  交叉引用：-
+  来源：爱情的秘密 / 022.“癣”与“屁” / line 67
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/022.“癣”与“屁”.txt
+  数据：data/timeline-events-love-secret.json#love-secret-1983-02-01-writes-ringworm-and-fart-in-half-hour
 - 1983年2月6日 | 李敖写《秘雕案的案外意义》
   精度：day；可靠度：confirmed；排序日期：1983-02-06
   摘要：《秘雕案的案外意义》文末署“1983年2月6日”。李敖借“秘雕案”主张争自由要先抢到言论与埋怨的自由，把它放在其他自由之前来谈，并回引自己1966年写《一个最起码又最低调的标准》时对新闻自由最低要求的主张。
@@ -13439,6 +13621,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/085.蔡仁坚错在哪里？.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1983-03-04-085-lin-zhengjie-invites-li-to-write-for-qianjin
+- 1983年3月8日下午 | 李敖十分钟写完《自赞五首》
+  精度：day；可靠度：reported-by-author；排序日期：1983-03-08
+  摘要：《自赞五首》末署“1983年3月8日下午十分钟写完”。诗中还写到“给我写信，就是投稿”“夙夜匪懈，东翻西找”等自况；此条只收署注中的写作动作。
+  人物：李敖
+  地点：台湾
+  标签：爱情的秘密、自赞五首、十分钟、1983
+  视图：写作线、日常线、诗文线
+  作品：爱情的秘密、自赞五首
+  交叉引用：-
+  来源：爱情的秘密 / 024.自赞五首 / line 43
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/024.自赞五首.txt
+  数据：data/timeline-events-love-secret.json#love-secret-1983-03-08-writes-five-self-praises-in-ten-minutes
 - 1983年3月11日，有感而作 | 李敖写《深耕的故事》
   精度：day；可靠度：confirmed；排序日期：1983-03-11
   摘要：《深耕的故事》署“一九八三年三月十一日，有感而作”。李敖借刘章“深耕概种，立苗欲疏”一典，讽刺黄石城《深耕》杂志受压与国民党政治生态。
@@ -13478,6 +13673,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/017.还是第一声最像.txt
   数据：data/timeline-events-freedom-summoning.json#freedom-summoning-1983-03-27-writes-first-sound-is-most-like
+- 1983年3月28日 | 林水泉返台索《千秋评论》，李敖题诗给他
+  精度：day；可靠度：reported-by-author；排序日期：1983-03-28
+  摘要：《猫狗诗和非猫狗诗》中“怀林水泉”小注写，林水泉与李敖同囚景美军法处，又先后住草山白云山庄；林水泉返台索《千秋评论》，李敖题诗给他。诗后署1983年3月28日。
+  人物：李敖、林水泉
+  地点：台湾
+  标签：爱情的秘密、林水泉、千秋评论、景美军法处、草山白云山庄、1983
+  视图：交游线、牢狱线、写作线、诗文线
+  作品：爱情的秘密、猫狗诗和非猫狗诗、千秋评论
+  交叉引用：-
+  来源：爱情的秘密 / 063.猫狗诗和非猫狗诗 / line 51
+  补充来源：爱情的秘密 / 063.猫狗诗和非猫狗诗 / line 57；说明：小注说明同囚与索书题诗背景。；爱情的秘密 / 063.猫狗诗和非猫狗诗 / line 59；说明：文末署日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/063.猫狗诗和非猫狗诗.txt
+  数据：data/timeline-events-love-secret.json#love-secret-1983-03-28-inscribes-poem-for-lin-shuiquan
 - 1983年4月1日 | 《千秋评论》第20期《将军·战犯·腰》出版
   精度：day；可靠度：confirmed；排序日期：1983-04-01
   摘要：《李敖著作年表》记载，李敖于1983年4月1日出版《千秋评论》第20期《将军·战犯·腰》。
@@ -13517,6 +13725,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/177.遥想东坡当年.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1983-04-06-177-finishes-dongpo-while-ill
+- 1983年4月6日病中 | 李敖病中写《一首诗几件事》并刊出约翰·邓恩译诗
+  精度：day；可靠度：reported-by-author；排序日期：1983-04-06
+  摘要：《一首诗几件事》追述李敖1972年10月27日在军法处牢房译出约翰·邓恩名诗、黄中国抄录、出狱后保存入档，并说明胡虚一、孟绝子曾提出意见但他为保持狱中原译纪念性不再改。文末署1983年4月6日病中；旧库已有1972年狱中翻译节点，本条补后来的病中发表说明。
+  人物：李敖、John Donne、黄中国、胡虚一、孟绝子
+  地点：台湾
+  标签：爱情的秘密、约翰·邓恩、一首诗几件事、胡虚一、孟绝子、黄中国、病中、1983
+  视图：写作线、翻译线、牢狱线、诗文线
+  作品：爱情的秘密、一首诗几件事、约翰·邓恩译诗
+  交叉引用：1972-10-27-donne-translation、book5-1972-10-27-translates-no-man-is-island-source5
+  来源：爱情的秘密 / 004.一首诗几件事 / line 9
+  补充来源：爱情的秘密 / 004.一首诗几件事 / line 13；说明：说明“如今我发表这首诗”并作声明。；爱情的秘密 / 004.一首诗几件事 / line 55；说明：狱中译诗原署日。；爱情的秘密 / 004.一首诗几件事 / line 59；说明：追述胡虚一、孟绝子意见与保持狱中原译。；爱情的秘密 / 004.一首诗几件事 / line 61；说明：文末署日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/004.一首诗几件事.txt
+  数据：data/timeline-events-love-secret.json#love-secret-1983-04-06-illness-writes-donne-translation-note
 - 1983-04-13 | 写成《我最难忘的一个小偷》
   精度：day；可靠度：confirmed；排序日期：1983-04-13
   摘要：李敖早起花五十分钟写成《我最难忘的一个小偷》，回忆军法处政治犯生活中的“欧卡曾”和“毛真好”误会。
@@ -13543,6 +13764,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/051.李敖著作年表.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1983-05-01-051-qianqiu-review-21
+- 1983年5月9日 | 李敖写《除却一寒冬》追述狱中译莎士比亚与御寒背书
+  精度：day；可靠度：reported-by-author；排序日期：1983-05-09
+  摘要：《除却一寒冬》说明李敖1972年4月8日在警备总司令部军法处狱中意译莎士比亚两首歌，并在后段追述牢中冬夜为御寒在阴暗灯光下边走边背书两三个小时。文末署1983年5月9日；旧库已有1972年译诗节点，本条补后来的追述写作动作。
+  人物：李敖、William Shakespeare
+  地点：台湾
+  标签：爱情的秘密、除却一寒冬、莎士比亚、狱中御寒、背书、1983
+  视图：写作线、翻译线、牢狱线、日常线
+  作品：爱情的秘密、除却一寒冬、随你欢喜
+  交叉引用：love-secret-1972-04-08-translates-shakespeare-songs-in-prison
+  来源：爱情的秘密 / 003.除却一寒冬 / line 39
+  补充来源：爱情的秘密 / 003.除却一寒冬 / line 65；说明：追述牢中冬夜御寒与背书。；爱情的秘密 / 003.除却一寒冬 / line 67；说明：文末署日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/003.除却一寒冬.txt
+  数据：data/timeline-events-love-secret.json#love-secret-1983-05-09-writes-shakespeare-winter-prison-note
 - 1983年5月16日 | 李敖重看《两个不合作主义者》后再写史料补论
   精度：day；可靠度：confirmed；排序日期：1983-05-16
   摘要：《两个不合作主义者》后段写“重看三月间写的《记两个不合作主义者》，意犹未尽”，文末署1983年5月16日；李敖就阮籍、嵇康史料再作补论。
@@ -13569,6 +13803,19 @@
   补充来源：千秋万岁乌鸦求是合集 / 051.李敖著作年表 / line 101；说明：著作年表列第22期1983年6月1日出版，并标注查禁、装订厂没收。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/008.李敖相关/006.李敖著作查禁清单及官方理由.txt
   数据：data/timeline-events-eighth-book.json#book8-1983-05-24-chiu-review-22-banned-before-publication
+- 1983年5月26日 | 李敖受《Cavalier》洋和尚录音带漫画启发写三首诗
+  精度：day；可靠度：reported-by-author；排序日期：1983-05-26
+  摘要：《洋和尚和录音带》题注写，1966年1月《Cavalier》杂志有洋和尚放录音带代撞钟的漫画，李敖称这是“西餐叉子吃人肉”式的现代化，并“感而有诗三首”。文末署1983年5月26日。此条收漫画触发的写作节点，不把漫画本身拆成李敖事件。
+  人物：李敖
+  地点：台湾
+  标签：爱情的秘密、洋和尚和录音带、Cavalier、漫画、西餐叉子吃人肉、1983
+  视图：写作线、思想线、诗文线
+  作品：爱情的秘密、洋和尚和录音带
+  交叉引用：qianqiu-wansui-1983-05-26-178-starts-qianqiu-review-23-after-issue-22-seized
+  来源：爱情的秘密 / 025.洋和尚和录音带 / line 3
+  补充来源：爱情的秘密 / 025.洋和尚和录音带 / line 53；说明：文末署日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/025.洋和尚和录音带.txt
+  数据：data/timeline-events-love-secret.json#love-secret-1983-05-26-writes-foreign-monk-and-tape-recorder
 - 1983年5月26日上午、下午 | 李敖上午得知《千秋评论》二十二期被抢，下午开工赶写二十三期
   精度：day；可靠度：confirmed；排序日期：1983-05-26
   摘要：《因祸为福说》所收1983年5月30日日记记，26日上午传来《千秋评论》二十二期被抢后，李敖当天下午就开工赶写二十三期。
@@ -13582,6 +13829,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/178.因祸为福说.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1983-05-26-178-starts-qianqiu-review-23-after-issue-22-seized
+- 1983年5月27日 | 李敖十分钟作《反咬高人吕洞宾》
+  精度：day；可靠度：reported-by-author；排序日期：1983-05-27
+  摘要：《反咬高人吕洞宾》末署“1983年5月27日十分钟作”。此条只收明确署注中的写作耗时与写作节点，避免把诗中骂世语气再拆成现实事件。
+  人物：李敖
+  地点：台湾
+  标签：爱情的秘密、反咬高人吕洞宾、十分钟、1983
+  视图：写作线、诗文线
+  作品：爱情的秘密、反咬高人吕洞宾
+  交叉引用：qianqiu-wansui-1983-05-27-064-writes-fork-new-theory、freedom-summoning-1983-05-27-writes-spring-breeze-blows-again
+  来源：爱情的秘密 / 026.反咬高人吕洞宾 / line 35
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/026.反咬高人吕洞宾.txt
+  数据：data/timeline-events-love-secret.json#love-secret-1983-05-27-writes-bite-back-lu-dongbin-in-ten-minutes
 - 1983年5月27日 | 李敖写《“春风吹又生”》
   精度：day；可靠度：confirmed；排序日期：1983-05-27
   摘要：《“春风吹又生”》文末署“1983年5月27日”。李敖用新乐府体写抢书、查扣与继续抗争，把禁压下的出版处境直接写成现场诗。
@@ -13868,6 +14128,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/002.乱世母女泪.txt
   数据：data/timeline-events-second-book.json#book2-1983-09-13-writes-luan-shi-mu-nv-lei
+- 1983年9月16日晨 | 李敖为狱中译诗《沙丘忆》写衬托性文字
+  精度：day；可靠度：reported-by-author；排序日期：1983-09-16
+  摘要：《沙丘忆》正文末署1983年9月16日晨；后记追述1971年6月18日李敖在警备总部牢房独居时一小时译成此诗，并说因这首译诗是“台北蒙难”残存作品，对他有特别意义，所以特别为它写了这篇衬托性文字。
+  人物：李敖、Sara Teasdale
+  地点：台湾
+  标签：爱情的秘密、沙丘忆、萨拉·蒂斯代尔、台北蒙难、衬托性文字、1983
+  视图：写作线、翻译线、牢狱线、诗文线
+  作品：爱情的秘密、沙丘忆、On the Dunes
+  交叉引用：love-secret-1971-06-18-translates-teasdale-on-the-dunes-in-prison
+  来源：爱情的秘密 / 002.沙丘忆 / line 55
+  补充来源：爱情的秘密 / 002.沙丘忆 / line 57；说明：后记追述1971年狱中一小时译成。；爱情的秘密 / 002.沙丘忆 / line 59；说明：说明写“衬托性文字”的原因。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/002.沙丘忆.txt
+  数据：data/timeline-events-love-secret.json#love-secret-1983-09-16-writes-on-the-dunes-framing-note
 - 1983年9月29日 | 李敖借香港经验反讽英国式帝国主义留下制度光明面
   精度：day；可靠度：inferred；排序日期：1983-09-29
   摘要：《“谢谢你，帝国主义！”》文末明确署“1983年9月29日在台湾”。李敖借香港与英租界经验反驳国共长期把一切问题都粗暴归罪于“帝国主义”的说法，强调英国式帝国主义虽有侵略性，却也留下言论自由、法治与制度遗产，逼人反思中国自己为何总对不起自己人。
@@ -14063,6 +14336,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/170.张建邦丑闻中，林正杰为何沉默？.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1983-11-26-170-lin-zhengjie-letter-to-li-about-zhang-jianbang-loan
+- 1983年11月27日 | 李敖合并杜甫、赵翼名句写《万古风骚一羽毛》
+  精度：day；可靠度：reported-by-author；排序日期：1983-11-27
+  摘要：《万古风骚一羽毛》开头明说，李敖把杜甫“三分割据纡筹策，万古云霄一羽毛”和赵翼“江山代有才人出，各领风骚数百年”合成题目，并写出此诗。文末署1983年11月27日。
+  人物：李敖、杜甫、赵翼
+  地点：台湾
+  标签：爱情的秘密、万古风骚一羽毛、杜甫、赵翼、1983
+  视图：写作线、思想线、诗文线
+  作品：爱情的秘密、万古风骚一羽毛
+  交叉引用：-
+  来源：爱情的秘密 / 035.万古风骚一羽毛 / line 3
+  补充来源：爱情的秘密 / 035.万古风骚一羽毛 / line 37；说明：文末署日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/035.万古风骚一羽毛.txt
+  数据：data/timeline-events-love-secret.json#love-secret-1983-11-27-writes-one-feather-poem
 - 1983年11月28日 | 李敖写《索拉兹的一个错误》
   精度：day；可靠度：confirmed；排序日期：1983-11-28
   摘要：《索拉兹的一个错误》署1983年11月28日。李敖借索拉兹把台湾与波兰作比较的说法，反驳其对台湾政治自由程度的误判。
@@ -14190,7 +14476,7 @@
   作品：千秋万岁乌鸦求是合集、乱世居家泪、“于人曰浩然，沛乎塞苍冥”——怀念居浩然
   交叉引用：-
   来源：千秋万岁乌鸦求是合集 / 070.乱世居家泪 / line 5
-  补充来源：-
+  补充来源：爱情的秘密 / 028.“于人曰浩然，沛乎塞苍冥” / line 5；说明：本书自述四季出版公司转来居蜜来信。；爱情的秘密 / 028.“于人曰浩然，沛乎塞苍冥” / line 35；说明：本书自述接信后决定写四组新作怀念居浩然。；爱情的秘密 / 028.“于人曰浩然，沛乎塞苍冥” / line 69；说明：文末署“1983年6月24日在台北”。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/070.乱世居家泪.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1983-06-20-070-receives-ju-mi-letter-and-writes-ju-haoran-memorial
 - 1983年12月12日前不久 | 李敖请黄怡给《千秋评论》写江文也文章
@@ -14229,7 +14515,7 @@
   作品：两亿年在你手里、李敖快意恩仇录
   交叉引用：-
   来源：李敖快意恩仇录 / 019.宣淫纪 / line 67
-  补充来源：-
+  补充来源：爱情的秘密 / 036.两亿年在你手里 / line 3；说明：《爱情的秘密》收录本题注“1983年12月10日夜得南美化石，给梦中的小叶”。；爱情的秘密 / 036.两亿年在你手里 / line 53；说明：《爱情的秘密》收录本诗末署1983年12月11日晨。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/019.宣淫纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1983-meets-xiaoye-and-writes-two-hundred-million-years
 - 十八年后（据1965年原件推定约为1983年） | 李敖十八年后发表《文警论》及相关历史文献
@@ -14296,7 +14582,7 @@
   作品：李敖回忆录、把她放在遥远
   交叉引用：-
   来源：李敖回忆录 / 020.前程（1997-·62岁以后） / line 213
-  补充来源：-
+  补充来源：爱情的秘密 / 038.把她放在遥远 / line 1；说明：《爱情的秘密》收录同题诗。；爱情的秘密 / 038.把她放在遥远 / line 23；说明：同题诗正文开头。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/020.前程（1997-·62岁以后）.txt
   数据：data/timeline-events-fourth-book.json#book4-1984-01-05-writes-put-her-far-away
 - 1984年1月7日 | 李敖写《〈政治家〉开“李敖答问”专栏缘起》
@@ -14390,6 +14676,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/114.张三李四一起倒霉诗.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1984-01-29-114-translates-zhangsan-lisi-poem
+- 1984年1月29日午餐时 | 李敖午餐时意译布莱克《子夜歌》前二节
+  精度：day；可靠度：reported-by-author；排序日期：1984-01-29
+  摘要：《一片欢喜心，对夜坐着笑》写，1984年1月29日午餐时，李敖边吃边译英国诗人布莱克《子夜歌》（Night）前二节，并顺手写下感想。旧库同日已有另一首短诗意译，本条单列布莱克译诗动作。
+  人物：李敖、William Blake
+  地点：台湾
+  标签：爱情的秘密、布莱克、子夜歌、Night、午餐、1984
+  视图：写作线、翻译线、诗文线、日常线
+  作品：爱情的秘密、一片欢喜心，对夜坐着笑、子夜歌、Night
+  交叉引用：qianqiu-wansui-1984-01-29-114-translates-zhangsan-lisi-poem
+  来源：爱情的秘密 / 041.一片欢喜心，对夜坐着笑 / line 35
+  补充来源：爱情的秘密 / 041.一片欢喜心，对夜坐着笑 / line 41；说明：说明为“意译”。；爱情的秘密 / 041.一片欢喜心，对夜坐着笑 / line 43；说明：文末署日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/041.一片欢喜心，对夜坐着笑.txt
+  数据：data/timeline-events-love-secret.json#love-secret-1984-01-29-translates-blake-night-at-lunch
 - 1984年2月3日 | 李敖写公开信要求孙观汉就柏杨恩怨表态
   精度：day；可靠度：confirmed；排序日期：1984-02-03
   摘要：《东郭纪》写，由于孙观汉当年与李敖同谋营救柏杨，李敖于1984年2月3日写公开信给孙观汉，要求他对柏杨、李敖之间的恩怨与营救内幕表态。
@@ -14429,6 +14728,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/020.志留纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1984-02-05-letter-to-yu-jizhong
+- 1984年2月8日清早4点半 | 李敖清早四点半起床写《不让她做大牌》
+  精度：day；可靠度：reported-by-author；排序日期：1984-02-08
+  摘要：《不让她做大牌》文末说明，1984年2月8日清早四点半，李敖起床写下八行小诗，并由拿破仑与女性纠缠的史事引出附记。此条收清早写诗与史事联想，不把诗中情感主体扩张为现实恋爱事件。
+  人物：李敖、拿破仑
+  地点：台湾
+  标签：爱情的秘密、不让她做大牌、拿破仑、清早四点半、1984
+  视图：写作线、日常线、诗文线
+  作品：爱情的秘密、不让她做大牌
+  交叉引用：-
+  来源：爱情的秘密 / 042.不让她做大牌 / line 21
+  补充来源：爱情的秘密 / 042.不让她做大牌 / line 23；说明：文末署日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/042.不让她做大牌.txt
+  数据：data/timeline-events-love-secret.json#love-secret-1984-02-08-wakes-0430-writes-napoleon-poem
 - 1984年2月12日 | 李敖写《能下床就是好猫》
   精度：day；可靠度：confirmed；排序日期：1984-02-12
   摘要：《能下床就是好猫》署1984年2月12日，延续《波波颂》同名篇前后的生活性写作。
@@ -14533,6 +14845,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/009.我最难忘的一位烈士.txt
   数据：data/timeline-events-third-book.json#book3-1984-03-12-free-era-first-issue-li-cover
+- 1984年3月12日想起；3月14日写定 | 李敖想起并写定《我为她雕出石像》
+  精度：day；可靠度：reported-by-author；排序日期：1984-03-14
+  摘要：《我为她雕出石像》末署“1984年3月12日想起；14日写定”。本条只收可坐实的构思与写定动作，不把诗中“她”直接等同现实人物。
+  人物：李敖
+  地点：台湾
+  标签：爱情的秘密、我为她雕出石像、想起、写定、1984
+  视图：写作线、诗文线
+  作品：爱情的秘密、我为她雕出石像
+  交叉引用：-
+  来源：爱情的秘密 / 043.我为她雕出石像 / line 59
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/043.我为她雕出石像.txt
+  数据：data/timeline-events-love-secret.json#love-secret-1984-03-14-finalizes-sculpt-her-statue
 - 1984年3月15日 | 《千秋评论》第30期《乌龟·王八·绿》出版
   精度：day；可靠度：confirmed；排序日期：1984-03-15
   摘要：《李敖著作年表》记载，李敖于1984年3月15日出版《千秋评论》第30期《乌龟·王八·绿》。
@@ -14546,6 +14871,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/051.李敖著作年表.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1984-03-15-051-qianqiu-review-30
+- 1984年3月19日晨 | 李敖清晨一小时写《只有干干干！》
+  精度：day；可靠度：reported-by-author；排序日期：1984-03-19
+  摘要：《只有干干干！》末署“1984年3月19日晨以一小时作”。诗中有“只去埋头写文章”一句，本条仅收署注中的清晨写作与耗时。
+  人物：李敖
+  地点：台湾
+  标签：爱情的秘密、只有干干干、一小时、清晨、1984
+  视图：写作线、日常线、诗文线
+  作品：爱情的秘密、只有干干干！
+  交叉引用：-
+  来源：爱情的秘密 / 045.只有干干干！ / line 51
+  补充来源：爱情的秘密 / 045.只有干干干！ / line 15；说明：诗中自况“埋头写文章”。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/045.只有干干干！.txt
+  数据：data/timeline-events-love-secret.json#love-secret-1984-03-19-writes-only-work-in-one-hour
+- 1984年3月21日 | 李敖写《赌的哲学》并追记戒赌
+  精度：day；可靠度：reported-by-author；排序日期：1984-03-21
+  摘要：《赌的哲学》后记中，李敖自述年轻时工作之余嗜赌，坐牢后赌友星散；又说前年生日被骆明道坚邀豪赌一次后，因有更重要的事全神贯注，决定说不赌就不赌。文末署1984年3月21日。
+  人物：李敖、骆明道
+  地点：台湾
+  标签：爱情的秘密、赌的哲学、戒赌、骆明道、1984
+  视图：写作线、日常线、交游线
+  作品：爱情的秘密、赌的哲学
+  交叉引用：-
+  来源：爱情的秘密 / 046.赌的哲学 / line 19
+  补充来源：爱情的秘密 / 046.赌的哲学 / line 21；说明：文末署日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/046.赌的哲学.txt
+  数据：data/timeline-events-love-secret.json#love-secret-1984-03-21-writes-gambling-philosophy-and-quitting-note
 - 1984年3月23日 | 王剑芬在高院民庭笔录中称付过现款给胡茵梦
   精度：day；可靠度：confirmed；排序日期：1984-03-23
   摘要：李敖在《胡茵梦的“天性”问题》中引用1984年3月23日高院民庭笔录，王剑芬称曾付现款给胡茵梦，用以对照胡茵梦此前证词。
@@ -14637,6 +14988,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/031.从主流到乱流.txt
   数据：data/timeline-events-second-book-broad.json#book2-broad-1984-04-25-xiao-land-case-appeal-dismissed
+- 1984年4月30日夜 | 李敖夜写勃朗宁《一个文法学家的葬礼》札记
+  精度：day；可靠度：reported-by-author；排序日期：1984-04-30
+  摘要：《一个文法学家的葬礼》介绍勃朗宁同名长诗，并引格拉宾《勃朗宁故事》讨论其理想主义色彩。文末署1984年4月30日夜。此条收李敖的外国诗评写作，不拆诗中故事为现实事件。
+  人物：李敖、Robert Browning、Harvey Carson Grumbine
+  地点：台湾
+  标签：爱情的秘密、勃朗宁、一个文法学家的葬礼、外国诗评、1984
+  视图：写作线、思想线、诗文线
+  作品：爱情的秘密、一个文法学家的葬礼、A Grammarian's Funeral
+  交叉引用：-
+  来源：爱情的秘密 / 049.“一个文法学家的葬礼” / line 3
+  补充来源：爱情的秘密 / 049.“一个文法学家的葬礼” / line 53；说明：引用格拉宾《勃朗宁故事》。；爱情的秘密 / 049.“一个文法学家的葬礼” / line 55；说明：文末署日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/049.“一个文法学家的葬礼”.txt
+  数据：data/timeline-events-love-secret.json#love-secret-1984-04-30-writes-on-browning-grammarian-funeral
 - 1984年5月7日 | 李敖写《施性忠被判刑的感想》
   精度：day；可靠度：confirmed；排序日期：1984-05-07
   摘要：《施性忠被判刑的感想》署1984年5月7日。李敖在这篇文字中延续《千秋万岁乌鸦求是合集》的政论、读书札记或杂文写作脉络，留下一个可定位的写作节点。
@@ -14741,6 +15105,19 @@
   补充来源：千秋万岁编外集 / 058.《鹰犬将军》前言（宋希濂） / line 13
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/010.我最难忘的一个将军.txt
   数据：data/timeline-events-third-book.json#book3-1984-06-15-eagle-dog-general-published
+- 1984年6月18日 | 李敖感而写《老虎歌》
+  精度：day；可靠度：reported-by-author；排序日期：1984-06-18
+  摘要：《老虎歌》题前小记写，李敖由“虎落平阳被犬欺”一语联想到自己的处境，“感而有诗，打油一首”。文末署1984年6月18日。
+  人物：李敖
+  地点：台湾
+  标签：爱情的秘密、老虎歌、虎落平阳、1984
+  视图：写作线、诗文线、思想线
+  作品：爱情的秘密、老虎歌
+  交叉引用：-
+  来源：爱情的秘密 / 050.老虎歌 / line 3
+  补充来源：爱情的秘密 / 050.老虎歌 / line 37；说明：文末署日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/050.老虎歌.txt
+  数据：data/timeline-events-love-secret.json#love-secret-1984-06-18-writes-tiger-song
 - 1984年6月27日 | 李敖写《用替身可也！》
   精度：day；可靠度：confirmed；排序日期：1984-06-27
   摘要：《用替身可也！》署1984年6月27日，为《波波颂》中1984年夏季写作再加一条锚点。
@@ -15027,6 +15404,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/051.李敖著作年表.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1984-10-15-051-qianqiu-review-37
+- 1984年10月19-20日 | 李敖把胡虚一《我们七个》译稿改成“胡李译本”
+  精度：day；可靠度：reported-by-author；排序日期：1984-10-20
+  摘要：《我们七个》记述，陈维青逼请李敖译 Wordsworth《We Are Seven》，李敖先转胡虚一试译；9月23日胡虚一寄来译稿并请他斟酌润色。10月19至20日，李敖在刘峰松、金珠和女儿催促后清早花一个半小时，把“胡译本”改成“胡李译本”。
+  人物：李敖、胡虚一、陈维青、刘峰松、金珠、William Wordsworth
+  地点：台湾
+  标签：爱情的秘密、我们七个、Wordsworth、胡虚一、陈维青、刘峰松、金珠、1984
+  视图：写作线、翻译线、交游线、日常线
+  作品：爱情的秘密、我们七个、We Are Seven
+  交叉引用：-
+  来源：爱情的秘密 / 051.《我们七个》 / line 5
+  补充来源：爱情的秘密 / 051.《我们七个》 / line 7；说明：李敖说明清早花一个半小时改译。；爱情的秘密 / 051.《我们七个》 / line 159；说明：文末署“李敖 1984年10月19-20日”。；爱情的秘密 / 051.《我们七个》 / line 167；说明：陈维青10月24日复信称收到译稿。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/051.《我们七个》.txt
+  数据：data/timeline-events-love-secret.json#love-secret-1984-10-20-revises-hu-xuyi-we-are-seven-translation
 - 1984年11月15日 | 《千秋评论》第38期《鸡嘴·鸭嘴·变》出版
   精度：day；可靠度：confirmed；排序日期：1984-11-15
   摘要：《李敖著作年表》记载，李敖于1984年11月15日出版《千秋评论》第38期《鸡嘴·鸭嘴·变》。 年表在此期后标注“查禁”。
@@ -15731,6 +16121,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/051.李敖著作年表.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1985-05-15-051-qianqiu-review-44
+- 1985年5月19日 | 李敖作《寄曾心仪》，称“新出棋谱送心仪”
+  精度：day；可靠度：reported-by-author；排序日期：1985-05-19
+  摘要：《七绝十七首》中一首题为《寄曾心仪》，诗中写“正义幸有我辈在，新出棋谱送心仪”，署1985年5月19日。本条只收题名和送赠语可坐实的寄赠动作，不从诗句扩张私人关系。
+  人物：李敖、曾心仪
+  地点：台湾
+  标签：爱情的秘密、七绝十七首、曾心仪、寄赠、棋谱、1985
+  视图：写作线、交游线、诗文线
+  作品：爱情的秘密、七绝十七首、寄曾心仪
+  交叉引用：-
+  来源：爱情的秘密 / 052.七绝十七首 / line 31
+  补充来源：爱情的秘密 / 052.七绝十七首 / line 35；说明：诗中“新出棋谱送心仪”。；爱情的秘密 / 052.七绝十七首 / line 37；说明：文末署日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/052.七绝十七首.txt
+  数据：data/timeline-events-love-secret.json#love-secret-1985-05-19-sends-new-chess-manual-poem-to-zeng-xinyi
+- 1985年5月20日 | 李敖以“远流版新作”题赠石美人、萧美人
+  精度：day；可靠度：reported-by-author；排序日期：1985-05-20
+  摘要：《七绝十七首》中两首分别题为“远流版新作赠石美人”“远流版新作赠萧美人”，均署1985年5月20日。此条只收题赠动作，暂不从诗中推定更多私人关系。
+  人物：李敖、石美人、萧美人
+  地点：台湾
+  标签：爱情的秘密、七绝十七首、远流版新作、题赠、1985
+  视图：写作线、交游线、诗文线
+  作品：爱情的秘密、七绝十七首
+  交叉引用：-
+  来源：爱情的秘密 / 052.七绝十七首 / line 39
+  补充来源：爱情的秘密 / 052.七绝十七首 / line 45；说明：赠石美人一首署日。；爱情的秘密 / 052.七绝十七首 / line 47；说明：赠萧美人题名。；爱情的秘密 / 052.七绝十七首 / line 53；说明：赠萧美人一首署日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/052.七绝十七首.txt
+  数据：data/timeline-events-love-secret.json#love-secret-1985-05-20-inscribes-yuanliu-new-work-for-shi-and-xiao
 - 1985年5月25日 | 李敖从《前进》得知侯立朝自承曾奉蒋经国之命打击《文星》
   精度：day；可靠度：confirmed；排序日期：1985-05-25
   摘要：《背后原来是蒋经国》写，1985年5月25日林正杰的《前进》披露，侯立朝自称曾是“蒋经国的打手”，当年亲奉蒋经国之命对《文星》集团开火。李敖把这篇披露看作自己在二十年后终于得到蒋经国亲自指挥消灭《文星》的人证。
@@ -15796,6 +16212,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/051.李敖著作年表.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1985-06-15-051-qianqiu-review-45
+- 1985年6月20日 | 李敖写《怀唐文标》
+  精度：day；可靠度：reported-by-author；排序日期：1985-06-20
+  摘要：《也有诗兴》首篇题为“怀唐文标”，诗中出现“四月欣然祝我寿，六月怆然吊君丧”句，文末署1985年6月20日。此条仅收题名与署日可坐实的纪念诗写作。
+  人物：李敖、唐文标
+  地点：台湾
+  标签：爱情的秘密、也有诗兴、唐文标、怀唐文标、1985
+  视图：写作线、交游线、诗文线
+  作品：爱情的秘密、也有诗兴、怀唐文标
+  交叉引用：-
+  来源：爱情的秘密 / 053.也有诗兴 / line 3
+  补充来源：爱情的秘密 / 053.也有诗兴 / line 5；说明：诗句说明祝寿与吊丧背景。；爱情的秘密 / 053.也有诗兴 / line 9；说明：文末署日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/053.也有诗兴.txt
+  数据：data/timeline-events-love-secret.json#love-secret-1985-06-20-writes-memorial-poem-for-tang-wenbiao
 - 1985年6月24日 | 李敖委龙云翔向台北市政府提出损害赔偿请求
   精度：day；可靠度：confirmed；排序日期：1985-06-24
   摘要：《闹衙纪》写，因《五十·五十·易》上册遭误扣，李敖于1985年6月24日由龙云翔律师代理，向台北市政府提出损害赔偿请求，要求赔偿被扣书款及象征性一元。
@@ -15861,6 +16290,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/014.我才“妨害军机”呢！.txt
   数据：data/timeline-events-second-book.json#book2-1985-07-24-military-secret-written
+- 1985年8月6日 | 李敖写《爱情的秘密》开篇评译文字并比较朱光潜译布莱克
+  精度：day；可靠度：reported-by-author；排序日期：1985-08-06
+  摘要：《爱情的秘密》开篇回忆北京四中未能听朱光潜讲演，又比较朱光潜所译布莱克《爱情之秘》，说明自己1962年3月18日试用古体诗翻译。文末署1985年8月6日；本条补这篇开篇评译文字的写作节点。
+  人物：李敖、朱光潜、William Blake
+  地点：台湾
+  标签：爱情的秘密、爱情的秘密、布莱克、朱光潜、爱情之秘、1985
+  视图：写作线、翻译线、思想线、诗文线
+  作品：爱情的秘密、爱情的秘密、爱情之秘、Love's Secret
+  交叉引用：love-secret-1962-03-18-translates-blake-love-secret
+  来源：爱情的秘密 / 001.爱情的秘密 / line 47
+  补充来源：爱情的秘密 / 001.爱情的秘密 / line 49；说明：追述1962年试译布莱克。；爱情的秘密 / 001.爱情的秘密 / line 81；说明：评述朱译与台湾译诗。；爱情的秘密 / 001.爱情的秘密 / line 83；说明：文末署日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/001.爱情的秘密.txt
+  数据：data/timeline-events-love-secret.json#love-secret-1985-08-06-writes-opening-blake-translation-critique
 - 1985年8月10日 | 李敖去函高雄市长苏南成追究误扣书责任
   精度：day；可靠度：confirmed；排序日期：1985-08-10
   摘要：《闹衙纪》写，李敖于1985年8月10日去函高雄市长苏南成，指出《我给我画帽子》未被查禁却遭扣押，涉及公务权力不法侵害发行权。
@@ -16253,6 +16695,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/085.蔡仁坚错在哪里？.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1986-05-02-085-cai-renjian-leaves-letter-at-li-home
+- 1986年5月23日夜2时 | 李敖夜写《袭唐诗七绝四首有序》讽刺国民党“沟通”
+  精度：day；可靠度：reported-by-author；排序日期：1986-05-23
+  摘要：《袭唐诗七绝四首有序》序中说，最近国民党骗党外搞沟通，李敖以男女约会“电灯泡”、皮条客等比喻引出四首袭唐人七绝，“盖存诗史焉”。文末署1986年5月23日夜2时。
+  人物：李敖
+  地点：台湾
+  标签：爱情的秘密、袭唐诗七绝四首有序、国民党、党外、沟通、1986
+  视图：写作线、政治线、诗文线
+  作品：爱情的秘密、袭唐诗七绝四首有序
+  交叉引用：-
+  来源：爱情的秘密 / 055.袭唐诗七绝四首有序 / line 9
+  补充来源：爱情的秘密 / 055.袭唐诗七绝四首有序 / line 27；说明：文末署日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/055.袭唐诗七绝四首有序.txt
+  数据：data/timeline-events-love-secret.json#love-secret-1986-05-23-writes-tang-style-quatrains-on-kmt-communication
 - 1986年6月10日 | 李敖写《探探和事佬的底》
   精度：day；可靠度：confirmed；排序日期：1986-06-10
   摘要：《探探和事佬的底》署1986年6月10日以三小时一气写成，集中讽刺和稀泥式的调人作风。
@@ -16357,6 +16812,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/027.彼以熊来，吾以熊往.txt
   数据：data/timeline-events-second-book.json#book2-1986-09-05-bear-reply-written
+- 1986年9月5-6日 | 李敖集中“旧词新改”记牢事与军法审判
+  精度：day；可靠度：reported-by-author；排序日期：1986-09-06
+  摘要：《旧词新改》多处标注“新改”，其中有“记牢事也”“记军法大审我一言不发也”等小注。文末署1986年9月5-6日，并附注追述军法审判时李敖一言不发、以耶稣被审作比。
+  人物：李敖
+  地点：台湾
+  标签：爱情的秘密、旧词新改、牢事、军法审判、1986
+  视图：写作线、牢狱线、司法线、诗文线
+  作品：爱情的秘密、旧词新改
+  交叉引用：-
+  来源：爱情的秘密 / 057.旧词新改 / line 7
+  补充来源：爱情的秘密 / 057.旧词新改 / line 47；说明：“记军法大审我一言不发也”小注。；爱情的秘密 / 057.旧词新改 / line 59；说明：文末署日。；爱情的秘密 / 057.旧词新改 / line 63；说明：附注追述军法审判时不发一言。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/057.旧词新改.txt
+  数据：data/timeline-events-love-secret.json#love-secret-1986-09-06-rewrites-old-ci-for-prison-and-trial-memory
 - 1986年9月7日 | 写《胡茵梦的抗议信》与《资料大王小谈》
   精度：day；可靠度：confirmed；排序日期：1986-09-07
   摘要：第二本中两篇文章均署1986年9月7日：一篇处理胡茵梦抗议信，一篇谈李敖作为“资料大王”的资料能力。
@@ -16383,6 +16851,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/006.波波颂/043.顺风与逆风.txt
   数据：data/timeline-events-bobo-song.json#bobo-song-1986-09-07-tailwind-and-headwind
+- 1986年9月7日夜2时半 | 李敖子夜疾书《千秋评论》五周年总结
+  精度：day；可靠度：reported-by-author；排序日期：1986-09-07
+  摘要：《千秋评论》满五年了！写，1986年9月《千秋评论》满五周年，李敖把第五十九、六十期连号合刊，加上第四十三期分刊，共成六十期六十册，并附一至六十期总目录。文末说他“子夜疾书，作此总结”，署1986年9月7日夜2时半。
+  人物：李敖
+  地点：台湾
+  标签：爱情的秘密、千秋评论、五周年、总目录、六十期、1986
+  视图：写作线、出版线、政治线
+  作品：爱情的秘密、千秋评论、李敖千秋评论丛书、《千秋评论》满五年了！
+  交叉引用：qianqiu-wansui-1966-context-011-conceives-monthly-book-strategy-after-wenxing-ban、book4-1981-08-10-prepares-first-six-qianqiu-volumes-before-prison、qianqiu-wansui-1981-12-01-011-secret-channel-prison-writings-enter-qianqiu-review、book4-deep-1986-07-23-qianqiu-58-seized-repeatedly
+  来源：爱情的秘密 / 058.《千秋评论》满五年了！ / line 3
+  补充来源：爱情的秘密 / 058.《千秋评论》满五年了！ / line 5；说明：追述1966年“李敖每月一书”构想。；爱情的秘密 / 058.《千秋评论》满五年了！ / line 7；说明：追述1981年入狱前预编前六册与狱中秘密运稿。；爱情的秘密 / 058.《千秋评论》满五年了！ / line 9；说明：追述第58期连续查扣与再印。；爱情的秘密 / 058.《千秋评论》满五年了！ / line 11；说明：“子夜疾书”总结。；爱情的秘密 / 058.《千秋评论》满五年了！ / line 53；说明：文末署日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/058.《千秋评论》满五年了！.txt
+  数据：data/timeline-events-love-secret.json#love-secret-1986-09-07-writes-qianqiu-review-fifth-anniversary-summary
+- 1986年9月8日傍晚 | 李敖借黄庭坚《武昌松风阁》“脱胎换骨”杂写狱事
+  精度：day；可靠度：reported-by-author；排序日期：1986-09-08
+  摘要：《以山谷之道，还治其身》写，李敖认同黄庭坚“换骨法”“脱胎法”，并以《武昌松风阁》试加脱胎换骨，“杂写狱事”。文末署1986年9月8日傍晚。
+  人物：李敖、黄庭坚
+  地点：台湾
+  标签：爱情的秘密、黄庭坚、武昌松风阁、狱事、脱胎换骨、1986
+  视图：写作线、牢狱线、思想线、诗文线
+  作品：爱情的秘密、以山谷之道，还治其身、武昌松风阁
+  交叉引用：-
+  来源：爱情的秘密 / 059.以山谷之道，还治其身 / line 7
+  补充来源：爱情的秘密 / 059.以山谷之道，还治其身 / line 9；说明：李敖说明以《武昌松风阁》杂写狱事。；爱情的秘密 / 059.以山谷之道，还治其身 / line 15；说明：文末署日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/059.以山谷之道，还治其身.txt
+  数据：data/timeline-events-love-secret.json#love-secret-1986-09-08-rewrites-huang-tingjian-songfengge-for-prison-affairs
 - 1986年9月10日午 | 写《“洁本”云乎哉？》
   精度：day；可靠度：confirmed；排序日期：1986-09-10
   摘要：《“洁本”云乎哉？》文末署1986年9月10日午，李敖批评萧孟能复刊号试图消灭李敖痕迹，却仍处处留下李敖“阴魂”。
@@ -16435,6 +16929,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/012.记文星事件.txt
   数据：data/timeline-events-second-book-broad.json#book2-broad-1986-10-06-wenxing-event-note
+- 1986年10月17日 | 胡虚一应李敖之请来信评论余光中《丽达与天鹅》译诗
+  精度：day；可靠度：reported-by-author；排序日期：1986-10-17
+  摘要：《关于〈丽达与天鹅〉》写，李敖请胡虚一注意余光中的译诗并表示意见；1986年10月17日，胡虚一写信来，分条评论。此条收李敖发起的译诗讨论与来信节点。
+  人物：李敖、胡虚一、余光中、W. B. Yeats
+  地点：台湾
+  标签：爱情的秘密、胡虚一、余光中、丽达与天鹅、Yeats、1986
+  视图：交游线、翻译线、诗文线
+  作品：爱情的秘密、关于《丽达与天鹅》、丽达与天鹅、Leda and the Swan
+  交叉引用：-
+  来源：爱情的秘密 / 060.关于《丽达与天鹅》 / line 73
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/060.关于《丽达与天鹅》.txt
+  数据：data/timeline-events-love-secret.json#love-secret-1986-10-17-receives-hu-xuyi-comments-on-yu-leda-translation
+- 1986年10月19日 | 李敖写《关于〈丽达与天鹅〉》并示范翻译 Yeats
+  精度：day；可靠度：reported-by-author；排序日期：1986-10-19
+  摘要：《关于〈丽达与天鹅〉》中，李敖在“李敖的总评”之后说“现在，我就来翻译这首诗，做一示范”，随后给出自己的译文。文末署1986年10月19日。
+  人物：李敖、W. B. Yeats、余光中、胡虚一
+  地点：台湾
+  标签：爱情的秘密、丽达与天鹅、Yeats、余光中、胡虚一、1986
+  视图：写作线、翻译线、诗文线
+  作品：爱情的秘密、关于《丽达与天鹅》、丽达与天鹅、Leda and the Swan
+  交叉引用：love-secret-1986-10-17-receives-hu-xuyi-comments-on-yu-leda-translation
+  来源：爱情的秘密 / 060.关于《丽达与天鹅》 / line 199
+  补充来源：爱情的秘密 / 060.关于《丽达与天鹅》 / line 217；说明：李敖说明示范翻译。；爱情的秘密 / 060.关于《丽达与天鹅》 / line 273；说明：文末署日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/060.关于《丽达与天鹅》.txt
+  数据：data/timeline-events-love-secret.json#love-secret-1986-10-19-translates-yeats-leda-and-the-swan
 - 1986年10月21日 | 李敖以沈沉笔名写《何须马丁尼！》
   精度：day；可靠度：confirmed；排序日期：1986-10-21
   摘要：《何须马丁尼！（沈沉）》署1986年10月21日，文件注称沈沉是李敖的笔名。李敖借谷正纲演说作风讽刺国民党大老。
@@ -16565,6 +17085,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/018.笔伐（1982-1992·47到57岁）.txt
   数据：data/timeline-events-fourth-book-deepening.json#book4-deep-1986-06-03-li-supports-zheng-nanrong-after-arrest
+- 1986年春天（诗稿延至8月23日至9月5日署日） | 李敖因海外传话作《高楼书感》回应统一问题
+  精度：season；可靠度：reported-by-author；排序日期：1986-06-30
+  摘要：《高楼书感》题注写，1986年春天，李敖有感于海外传话称“因台独坐牢的李敖罕言统一问题”，因此作诗。组诗中多首署1986年8月23日，末首署9月5日；本条用1986年春季语境入表，避免把诗句细节拆成事实。
+  人物：李敖
+  地点：台湾
+  标签：爱情的秘密、高楼书感、统一问题、台独、海外传话、1986
+  视图：写作线、政治线、诗文线
+  作品：爱情的秘密、高楼书感
+  交叉引用：-
+  来源：爱情的秘密 / 056.高楼书感 / line 13
+  补充来源：爱情的秘密 / 056.高楼书感 / line 25；说明：组诗署日之一。；爱情的秘密 / 056.高楼书感 / line 69；说明：末首署日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/056.高楼书感.txt
+  数据：data/timeline-events-love-secret.json#love-secret-1986-spring-writes-gaolou-shugan-after-unification-rumor
 - 1986年7月23日、7月30日、8月4日 | 《千秋评论》第58期遭连续查扣，李敖连续再印
   精度：day-range；可靠度：confirmed；排序日期：1986-07-23
   摘要：《笔伐》章以第58期为例，写1986年7月23日当局抢走四千本，7月30日再抢四千本，8月4日又抢一千五百本；李敖则一次次再印，形成拉锯式的出版抵抗。
@@ -16575,7 +17108,7 @@
   作品：千秋评论、李敖回忆录
   交叉引用：-
   来源：李敖回忆录 / 018.笔伐（1982-1992·47到57岁） / line 9
-  补充来源：-
+  补充来源：爱情的秘密 / 058.《千秋评论》满五年了！ / line 9；说明：五周年文追述第58期7月23日、7月30日、8月4日连续被抢书与再印。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/018.笔伐（1982-1992·47到57岁）.txt
   数据：data/timeline-events-fourth-book-deepening.json#book4-deep-1986-07-23-qianqiu-58-seized-repeatedly
 - 1986年10月22日后 | 李敖因《自立晚报》刊“李敖死了”广告而去信并提告
@@ -16593,6 +17126,19 @@
   数据：data/timeline-events-li-ao-xinkan.json#liao-xinkan-1986-10-22-writes-zilih-evening-news-after-li-ao-dead-ad
 
 1987
+- 1987年1月9日夜10时 | 李敖夜写弗罗斯特《向沧海凝神》译诗札记
+  精度：day；可靠度：reported-by-author；排序日期：1987-01-09
+  摘要：《向沧海凝神》引美国诗人弗罗斯特《不远也不深》（Neither Out Far Nor in Deep）并给出中文转写。文末署1987年1月9日夜10时；本条收外国诗译介写作，不把诗中景象拆为现实事件。
+  人物：李敖、Robert Frost
+  地点：台湾
+  标签：爱情的秘密、弗罗斯特、不远也不深、Neither Out Far Nor in Deep、1987
+  视图：写作线、翻译线、诗文线
+  作品：爱情的秘密、向沧海凝神、Neither Out Far Nor in Deep
+  交叉引用：-
+  来源：爱情的秘密 / 061.向沧海凝神 / line 3
+  补充来源：爱情的秘密 / 061.向沧海凝神 / line 17；说明：文末署日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/061.向沧海凝神.txt
+  数据：data/timeline-events-love-secret.json#love-secret-1987-01-09-writes-on-frost-neither-out-far-nor-in-deep
 - 1987年1月14日 | 萧孟能诬告案在高院开庭，法官首次力劝双方和解
   精度：day；可靠度：confirmed；排序日期：1987-01-14
   摘要：《萧负李》写，1987年1月14日，萧孟能在其诬告案上诉后于高等法院开庭，法官廖茂荣一再劝谕和解。李敖为尊重法官善意，退庭后委由龙云翔律师去函开具条件，为后续2月18日再开庭而终告破裂的和解尝试埋下前奏。
@@ -16619,6 +17165,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/008.李敖相关/006.李敖著作查禁清单及官方理由.txt
   数据：data/timeline-events-eighth-book.json#book8-1987-01-22-chiang-kai-shek-study-sequel-banned
+- 1987年1月31日 | 李敖写《诗句的实验者》谈歌德诗句的历史印证
+  精度：day；可靠度：reported-by-author；排序日期：1987-01-31
+  摘要：《诗句的实验者》引歌德诗 Harfenspieler 与卡莱尔英译，又写普鲁士王后露易莎在拿破仑大军压境时把诗句刻在旅馆玻璃窗上，借此提出“诗句的实验者”说。文末署1987年1月31日。
+  人物：李敖、歌德、Thomas Carlyle、露易莎
+  地点：台湾
+  标签：爱情的秘密、诗句的实验者、歌德、卡莱尔、露易莎、1987
+  视图：写作线、思想线、诗文线
+  作品：爱情的秘密、诗句的实验者、Harfenspieler
+  交叉引用：-
+  来源：爱情的秘密 / 062.诗句的实验者 / line 3
+  补充来源：爱情的秘密 / 062.诗句的实验者 / line 21；说明：提出“诗句的实验者”说。；爱情的秘密 / 062.诗句的实验者 / line 23；说明：文末署日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/062.诗句的实验者.txt
+  数据：data/timeline-events-love-secret.json#love-secret-1987-01-31-writes-poem-experimenter-note
 - 1987年2月6日夜小改旧作 | 李敖夜间小改旧作《小记罗素四书》
   精度：day；可靠度：confirmed；排序日期：1987-02-06
   摘要：《小记罗素四书》署“1987年2月6日夜小改旧作”。李敖介绍罗素四部重要著作，并在旧作基础上作小修。
@@ -16879,6 +17438,19 @@
   补充来源：李敖新刊 / 029.倪文亚答复李敖事件 / line 5；说明：正文概述催告信内容与法律理由。；李敖新刊 / 029.倪文亚答复李敖事件 / line 23；说明：文内题名为“李敖催告书”。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/012.李敖新刊/029.倪文亚答复李敖事件.txt
   数据：data/timeline-events-li-ao-xinkan.json#liao-xinkan-1987-06-23-first-demand-letter-to-ni-wenya-on-zhu-gaozheng
+- 1987年6月24日 | 李敖把《能下床就是好猫》题赠林英喆、徐开尘、邱海岳
+  精度：day；可靠度：reported-by-author；排序日期：1987-06-24
+  摘要：《猫狗诗和非猫狗诗》连续三首题为《能下床就是好猫》一书赠林英喆、赠徐开尘、赠邱海岳，均署1987年6月24日。旧库已有1987年6月8日《民生报》访问与三人交游线，本条补赠书题诗动作。
+  人物：李敖、林英喆、徐开尘、邱海岳
+  地点：台湾
+  标签：爱情的秘密、能下床就是好猫、林英喆、徐开尘、邱海岳、题赠、1987
+  视图：交游线、写作线、诗文线、出版线
+  作品：爱情的秘密、猫狗诗和非猫狗诗、能下床就是好猫
+  交叉引用：book5-1987-06-08-minshengbao-xu-kaichen-interview、qianqiu-wansui-1985-08-30-051-publishes-good-cat
+  来源：爱情的秘密 / 063.猫狗诗和非猫狗诗 / line 3
+  补充来源：爱情的秘密 / 063.猫狗诗和非猫狗诗 / line 9；说明：赠林英喆一首署日。；爱情的秘密 / 063.猫狗诗和非猫狗诗 / line 11；说明：赠徐开尘题名。；爱情的秘密 / 063.猫狗诗和非猫狗诗 / line 17；说明：赠徐开尘一首署日。；爱情的秘密 / 063.猫狗诗和非猫狗诗 / line 19；说明：赠邱海岳题名。；爱情的秘密 / 063.猫狗诗和非猫狗诗 / line 25；说明：赠邱海岳一首署日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/063.猫狗诗和非猫狗诗.txt
+  数据：data/timeline-events-love-secret.json#love-secret-1987-06-24-inscribes-good-cat-for-three-minsheng-people
 - 1987年6月24日 | 李敖赶赴台中料理母亲宿舍藏书被扣善后
   精度：day；可靠度：confirmed；排序日期：1987-06-24
   摘要：《闹衙纪》写，李敖1987年6月24日赶到台中，访问邻居、派出所主管和里长，取得盖有台中市政府大印的取缔违法出版品三联单，为后续国家赔偿诉讼奠定证据。
@@ -17139,6 +17711,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/010.“谁是涂咪咪？”.txt
   数据：data/timeline-events-second-book.json#book2-1987-10-16-tu-mimi-written
+- 1987年10月17日 | 李敖据李世杰所说写《沈府犬》
+  精度：day；可靠度：reported-by-author；排序日期：1987-10-17
+  摘要：《猫狗诗和非猫狗诗》中的《沈府犬》写到，李世杰说范子文夫妇入狱后，其犬移养沈府。诗后署1987年10月17日。此条只收李敖据友人所说写诗的节点，正文涉及他人处境不另立为李敖当事事件。
+  人物：李敖、李世杰、范子文
+  地点：台湾
+  标签：爱情的秘密、沈府犬、李世杰、范子文、1987
+  视图：写作线、交游线、诗文线
+  作品：爱情的秘密、猫狗诗和非猫狗诗、沈府犬
+  交叉引用：-
+  来源：爱情的秘密 / 063.猫狗诗和非猫狗诗 / line 27
+  补充来源：爱情的秘密 / 063.猫狗诗和非猫狗诗 / line 35；说明：文末署日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/063.猫狗诗和非猫狗诗.txt
+  数据：data/timeline-events-love-secret.json#love-secret-1987-10-17-writes-shen-house-dog-from-li-shijie-story
+- 1987年10月19日 | 陆啸钊家有喜事来帖，李敖以旧画相赠
+  精度：day；可靠度：reported-by-author；排序日期：1987-10-19
+  摘要：《猫狗诗和非猫狗诗》题注写“啸钊家有喜事来帖，以旧画赠之”，诗后附陆啸钊答诗。事件日期按该组诗署1987年10月19日入表。
+  人物：李敖、陆啸钊
+  地点：台湾
+  标签：爱情的秘密、陆啸钊、旧画、答诗、1987
+  视图：交游线、日常线、诗文线
+  作品：爱情的秘密、猫狗诗和非猫狗诗
+  交叉引用：-
+  来源：爱情的秘密 / 063.猫狗诗和非猫狗诗 / line 61
+  补充来源：爱情的秘密 / 063.猫狗诗和非猫狗诗 / line 73；说明：附陆啸钊答诗。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/063.猫狗诗和非猫狗诗.txt
+  数据：data/timeline-events-love-secret.json#love-secret-1987-10-19-gives-old-painting-to-lu-xiaozhao
 - 1987年10月23日 | 李敖写《从侮辱圣母到侮辱国父》
   精度：day；可靠度：confirmed；排序日期：1987-10-23
   摘要：《从侮辱圣母到侮辱国父》署1987年10月23日。李敖从日本“蹈绘”谈到国民党对孙中山形象的政治禁忌。
@@ -17362,6 +17960,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/006.波波颂/050.文人之雄.txt
   数据：data/timeline-events-bobo-song.json#bobo-song-1988-01-07-hero-among-writers
+- 1988年1月17日 | 李敖写《评改余光中的一首译诗》评余光中译桑塔亚纳
+  精度：day；可靠度：reported-by-author；排序日期：1988-01-17
+  摘要：《评改余光中的一首译诗》指出余光中《英诗译注》中桑塔亚纳《悲悼》题名和译文问题，并追述李敖1972年10月间在狱中曾改译桑塔亚纳《给W. P.》第二首。文末署1988年1月17日；旧库已有狱中改译节点，本条补1988年的评改文字。
+  人物：李敖、余光中、George Santayana
+  地点：台湾
+  标签：爱情的秘密、余光中、桑塔亚纳、给W. P.、英诗译注、1988
+  视图：写作线、翻译线、思想线、诗文线
+  作品：爱情的秘密、评改余光中的一首译诗、给W. P.、英诗译注
+  交叉引用：love-secret-1972-10-about-retranslates-santayana-to-wp-in-prison
+  来源：爱情的秘密 / 005.评改余光中的一首译诗 / line 11
+  补充来源：爱情的秘密 / 005.评改余光中的一首译诗 / line 81；说明：追述1972年狱中改译。；爱情的秘密 / 005.评改余光中的一首译诗 / line 109；说明：评余译韵脚和文句。；爱情的秘密 / 005.评改余光中的一首译诗 / line 113；说明：文末署日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/005.评改余光中的一首译诗.txt
+  数据：data/timeline-events-love-secret.json#love-secret-1988-01-17-writes-critique-of-yu-guangzhong-santayana-translation
 - 1988年2月2日晨 | 写《〈恶法录及其他〉新版前言》
   精度：day；可靠度：confirmed；排序日期：1988-02-02
   摘要：《〈恶法录及其他〉新版前言》文末署1988年2月2日晨，重述法律专修科、陆啸钊与《文星》时期的关系。
@@ -18116,6 +18727,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/012.李敖新刊/036.浮生记趣四续.txt
   数据：data/timeline-events-li-ao-xinkan.json#liao-xinkan-1988-12-29-036-floating-life-notes-fourth-sequel
+- 1988年12月31日午饭时（1989年1月1日文末追记） | 李敖与小屯午饭时合译弗罗斯特《雪花纷飞》
+  精度：day；可靠度：reported-by-author；排序日期：1988-12-31
+  摘要：《弗罗斯特的〈雪花纷飞〉》写，弗罗斯特有诗《Dust of Snow》，李敖“昨天午饭时，与小屯合译如下”；文末署1989年1月1日，故合译动作按前一日1988年12月31日入表。
+  人物：李敖、王小屯、Robert Frost
+  地点：台湾
+  标签：爱情的秘密、弗罗斯特、雪花纷飞、Dust of Snow、小屯、1988
+  视图：翻译线、日常线、家庭线、诗文线
+  作品：爱情的秘密、弗罗斯特的《雪花纷飞》、Dust of Snow
+  交叉引用：-
+  来源：爱情的秘密 / 064.弗罗斯特的《雪花纷飞》 / line 3
+  补充来源：爱情的秘密 / 064.弗罗斯特的《雪花纷飞》 / line 45；说明：文末署1989年1月1日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/064.弗罗斯特的《雪花纷飞》.txt
+  数据：data/timeline-events-love-secret.json#love-secret-1988-12-31-co-translates-frost-dust-of-snow-with-xiaotun
 - 1988年9月18日前（待校） | 李敖照告《亚洲人》杂志刊“李敖死了”广告案
   精度：before-date-context；可靠度：contextual；排序日期：1988-09-18
   摘要：《台湾的法官最怕报阀》文末署1988年9月18日。文中说，同一个“李敖死了”广告后来刊登在《亚洲人》杂志，李敖照告不误；台北地院与台湾高院在此案中认定发行人应为广告负责，并判被告有罪。

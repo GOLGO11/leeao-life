@@ -514,12 +514,32 @@
     "places": ["台湾"],
     "works": ["我最难忘的一个“匪谍”"],
     "certainty": "confirmed",
+    "crossReferences": [
+      "book5-1972-10-27-translates-no-man-is-island-source5",
+      "love-secret-1983-04-06-illness-writes-donne-translation-note"
+    ],
     "source": {
       "book": "李敖自传与回忆",
       "chapter": "009.我最难忘的一个“匪谍”",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/009.我最难忘的一个“匪谍”.txt",
       "line": 191
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "爱情的秘密",
+        "chapter": "004.一首诗几件事",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/004.一首诗几件事.txt",
+        "line": 9,
+        "note": "《爱情的秘密》收录文追述1972年10月27日狱中译约翰·邓恩诗、黄中国抄录与出狱后保存入档。"
+      },
+      {
+        "book": "爱情的秘密",
+        "chapter": "004.一首诗几件事",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/004.一首诗几件事.txt",
+        "line": 55,
+        "note": "狱中译诗原署日。"
+      }
+    ]
   },
   {
     "id": "1972-11-01-huang-zhongguo-executed",
