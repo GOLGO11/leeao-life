@@ -1506,7 +1506,16 @@
       "chapter": "007.委蜕纪",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/007.委蜕纪.txt",
       "line": 5
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "早年日记",
+        "chapter": "003.四席小屋日记",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/003.四席小屋日记.txt",
+        "line": 7,
+        "note": "《四席小屋日记》前记复述退伍后在学校附近找四个榻榻米大的小房，并命名为“四席小屋”。"
+      }
+    ]
   },
   {
     "id": "book5-1961-06-15-rents-bitan-hill-room",
@@ -1540,7 +1549,22 @@
       "chapter": "007.委蜕纪",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/007.委蜕纪.txt",
       "line": 5
-    }
+    },
+    "crossReferences": [
+      "zaonian-riji-1961-05-21-yao-study-two-year-plan-and-room-withdrawal",
+      "zaonian-riji-1961-05-27-looks-at-house-in-xindian-with-tao-subao-couple",
+      "zaonian-riji-1961-06-18-yanzeng-rowing-and-loan-avoids-taipei",
+      "zaonian-riji-1961-06-19-starts-cooking-rows-with-qiqing-and-listens-jiangshan-meiren"
+    ],
+    "additionalSources": [
+      {
+        "book": "早年日记",
+        "chapter": "003.四席小屋日记",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/003.四席小屋日记.txt",
+        "line": 1945,
+        "note": "《四席小屋日记》6月15日原日记简记“新汉陪搬家”，补足搬离四席小屋至碧潭居住线。"
+      }
+    ]
   },
   {
     "id": "book5-1961-08-18-admitted-ntu-history-graduate-school",

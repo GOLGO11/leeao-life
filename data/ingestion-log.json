@@ -1742,7 +1742,7 @@
       "649.我拒绝做美国人：1997-10-29 AIT 最后通知与 1984 对美表态线已在第五本处理。",
       "653.苦命的序：1980-04-20 被删序事件已在第五本处理。"
     ],
-    "eventsAdded": 0,
+    "eventsAdded": 63,
     "notes": [
       "本轮第七本没有新增条目，维持 40 条；这不是停滞，而是把一批重叠章正式判掉，避免后续重复开采。",
       "第七本总章节文件数仍为 676，入表涉及章节数维持 35，目录层面剩余约 641 章未处理。",
@@ -8284,6 +8284,284 @@
       "closeout 补入 4 条小事件：读《飘》尾段、翻译 Rossetti 诗句、看报读劳榦致台大历史系同学文章、两次做绝情功夫。",
       "复核确认《大学札记》没有单独后记文件，171.结束日记即1957-11-17晨后记/收束点；该点已归档到旧《李敖语录》后记节点。",
       "dataVersion更新为 2026-05-05-daxue-zhaji-closeout。"
+    ]
+  },
+  {
+    "iteration": 249,
+    "date": "2026-05-05",
+    "book": "早年日记",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记",
+    "encoding": "GB18030",
+    "strategy": "《早年日记》第一轮：处理001《十七天的校园生活》（整理说明署1982-09-04；日记1958-05-27至1958-06-07）。本章逐日密集，优先拆听胡适演讲、历史系欢迎会、军训、校园目击、交游谈话、看电影、合写诗、请饭、体育成绩、读书与写作计划等具体当事人事件；纯格言、引文、性格判断暂不逐条造事件。",
+    "chaptersProcessed": [
+      "《早年日记》目录.txt",
+      "001.十七天的校园生活.txt",
+      "旧库查重：data 中未发现既有《早年日记》专门事件；只在旧 ingestion-log 有未来查重提示"
+    ],
+    "chaptersDeferred": [
+      "002.毕业以后，从军以前.txt：1959-08-03至1959-09-06，失业在家、通信、宴客、抽签、电影、从军前交游密集，建议下一轮单独处理。",
+      "003.四席小屋日记.txt：1961-02-16至1961-06-19，篇幅很长，建议至少拆成多轮。",
+      "004.二十年前的一些断片.txt：1966年文星、告别文坛十书、警总抄书与诉讼材料密集，需独立多轮。"
+    ],
+    "eventsAdded": 37,
+    "notes": [
+      "新增 data/timeline-events-zaonian-riji.json，并接入 app.js、TXT 导出脚本、CSV 导出脚本。",
+      "第一轮新增《十七天的校园生活》37条事件，覆盖1982整理说明与1958-05-27至1958-06-07的校园日常。",
+      "dataVersion更新为 2026-05-05-zaonian-riji-round-01。"
+    ]
+  },
+  {
+    "iteration": 250,
+    "date": "2026-05-05",
+    "book": "早年日记",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记",
+    "scope": [
+      "002.毕业以后，从军以前.txt"
+    ],
+    "strategy": "《早年日记》第二轮：处理002《毕业以后，从军以前》（1959-08-03至1959-09-06，整理说明署1984-01-27）。本章是毕业返台中、入凤山预官训练前的过渡日记；按大而全原则拆通信、来访、宴饭、抽签、看电影、读书、写作计划、戒烟、送别等具体日常事件；纯格言式自我激励只在连接到行动时入表。",
+    "filesRead": [
+      "002.毕业以后，从军以前.txt",
+      "data/timeline-events-zaonian-riji.json",
+      "data/timeline-events.json",
+      "data/timeline-events-fourth-book.json"
+    ],
+    "eventsAdded": 62,
+    "crossReferenceUpdates": [
+      "1959-08-02-southbound-military：补《早年日记》002整理说明为 additionalSources，并与本轮整理说明事件互引。",
+      "book4-1959-09-07-reserve-officer-training-begins：补《早年日记》002整理说明为 additionalSources，并与本轮整理说明事件互引。"
+    ],
+    "nextRecommended": [
+      "第三轮建议进入003《四席小屋日记》前段。该章横跨1961-02-16至1961-06-19且极长，建议先只做1961-02-16至1961-03-15左右：退伍后四席小屋生活、求职/谋职、读书、通信、台中台北往返和早期写作计划。",
+      "003后续应继续按月份或自然密度拆轮，避免一次吞掉造成漏项。"
+    ],
+    "output": [
+      "data/timeline-events-zaonian-riji.json",
+      "exports/leeao-current-timeline.txt",
+      "exports/leeao-current-timeline.csv"
+    ],
+    "notes": [
+      "1959-09-04仅记“忘了干什么了”，未单独造事件。",
+      "本轮未越出《早年日记》002正文，只对开头明示的既有1959-08-02、1959-09-07节点作来源交叉。"
+    ]
+  },
+  {
+    "iteration": 251,
+    "date": "2026-05-05",
+    "book": "早年日记",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记",
+    "scope": [
+      "003.四席小屋日记.txt：前记、1961-02-16至1961-03-15"
+    ],
+    "strategy": "《早年日记》第三轮：进入003《四席小屋日记》前段，只处理前记及1961-02-16至1961-03-15。按大而全原则拆退伍回台大、找房租屋、搬入四席小屋、购置器物、通信、借还钱、来客、读书、翻译、投稿、文章见报、研究计划和生计节点；纯调笑与格言不单独造事件，已存在的大节点只补 additionalSources/crossReferences。",
+    "filesRead": [
+      "003.四席小屋日记.txt",
+      "data/timeline-events-zaonian-riji.json",
+      "data/timeline-events-first-book-supplement.json",
+      "data/timeline-events-fifth-book.json",
+      "data/timeline-events-traditional-monologue.json"
+    ],
+    "eventsAdded": 61,
+    "crossReferenceUpdates": [
+      "1961-02-15-return-ntu",
+      "book5-1961-02-17-rents-four-mat-room",
+      "1961-02-17-four-mat-diary",
+      "1961-02-21-borrow-500",
+      "1961-02-27-yao-refuses-repayment",
+      "1961-03-04-first-private-talk-yao",
+      "1961-03-11-second-talk-yao",
+      "1961-03-14-first-salary",
+      "traditional-monologue-1961-03-08-bachelors-soliloquy-written-in-four-mat-room",
+      "traditional-monologue-1961-03-12-bachelors-soliloquy-published-in-united-daily",
+      "traditional-monologue-1961-03-15-changpao-psychology-written-in-four-mat-room"
+    ],
+    "nextRecommended": [
+      "第四轮继续003《四席小屋日记》中段，建议处理1961-03-16至1961-04-15：宋史统计研究、《宋帝始生异象考》《宋帝尊谥考》、中央图书馆/牯岭街书摊、与姚从吾关于笔名和发表文章的谈话、3月18后续、3月底至4月中写作发表节点。",
+      "继续注意与《传统下的独白》《李敖的情诗》《李敖自传与回忆》既有作品署日和姚从吾线交叉引用。"
+    ],
+    "output": [
+      "data/timeline-events-zaonian-riji.json",
+      "exports/leeao-current-timeline.txt",
+      "exports/leeao-current-timeline.csv"
+    ],
+    "notes": [
+      "本轮未处理3月16日以后正文，避免过界导致漏项。",
+      "Rosa、潘毓萱、小璞儒等日常线只收李敖实际行动和可定位交游，露骨玩笑未逐条入表。"
+    ],
+    "dedupeCorrection": {
+      "removedFromNewBookFile": [
+        "zaonian-riji-1961-02-17-finds-and-rents-four-mat-room",
+        "zaonian-riji-1961-02-17-night-talk-with-yao-congwu",
+        "zaonian-riji-1961-02-21-borrows-500-from-yao-and-posts-looking-for-shi-ke",
+        "zaonian-riji-1961-02-27-yao-refuses-repayment-and-introduces-jiang-fucong",
+        "zaonian-riji-1961-03-04-first-private-talk-with-yao-and-translation-plan",
+        "zaonian-riji-1961-03-08-rewrites-bachelors-soliloquy-on-womens-day",
+        "zaonian-riji-1961-03-11-second-private-talk-with-yao-about-translation",
+        "zaonian-riji-1961-03-14-receives-first-salary-and-conflicts-with-yao-over-article"
+      ],
+      "reason": "这些节点与旧库已有四席小屋骨架、姚从吾谈话、文章署日/发表和首次薪水节点同义，改为旧节点 additionalSources/crossReferences，不在《早年日记》专档重复显示。"
+    }
+  },
+  {
+    "iteration": 252,
+    "date": "2026-05-05",
+    "book": "早年日记",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记",
+    "scope": [
+      "003.四席小屋日记.txt：1961-03-16至1961-04-15"
+    ],
+    "strategy": "《早年日记》第四轮：继续003《四席小屋日记》中段，处理1961-03-16至1961-04-15。新建研究、写作、投稿、读书、买书、补语文、来客、经济与居住日常；对旧库已有的姚从吾劝笔名、买《宋会要》、《无为先生传》、《充员官》、《红玫瑰》、《爱情的刽子手》、《老年人和棒子》、《中国小姐论》等作品/骨架节点只补 additionalSources 与 crossReferences。",
+    "filesRead": [
+      "003.四席小屋日记.txt",
+      "data/timeline-events-zaonian-riji.json",
+      "data/timeline-events-first-book-supplement.json",
+      "data/timeline-events-traditional-monologue.json"
+    ],
+    "eventsAdded": 63,
+    "crossReferenceUpdates": [
+      "1961-03-18-yao-encourages-pen-name",
+      "1961-03-25-yao-buys-songhuiyao",
+      "traditional-monologue-1961-04-02-wuwei-xiansheng-zhuan-written-in-one-sitting",
+      "traditional-monologue-1961-04-03-chongyuanguan-published-in-zhonghua-daily",
+      "traditional-monologue-1961-04-06-red-rose-published-in-united-daily",
+      "traditional-monologue-1961-04-08-laonianren-he-bangzi-conceived-after-reading-wang-hongjun",
+      "traditional-monologue-1961-04-11-love-executioner-written-in-four-mat-room",
+      "traditional-monologue-1961-04-14-laonianren-he-bangzi-written-until-3am",
+      "traditional-monologue-1961-06-china-miss-theory-published-in-renjianshi"
+    ],
+    "nextRecommended": [
+      "第五轮继续003《四席小屋日记》后段之一，建议处理1961-04-16至1961-05-15：第一天补法文、4月17《爱情的刽子手》见报、4月19《假如我是女人》日记写完、4月21给林海音信、4月22《红玫瑰》稿费、4月底到5月上旬国史馆/罗家伦/姚从吾线、持续语言学习与写作投稿。",
+      "继续优先交叉引用《传统下的独白》《李敖自传与回忆》旧节点，避免作品署日/发表日重复显示。"
+    ],
+    "output": [
+      "data/timeline-events-zaonian-riji.json",
+      "exports/leeao-current-timeline.txt",
+      "exports/leeao-current-timeline.csv"
+    ],
+    "notes": [
+      "本轮未处理4月16日以后正文。",
+      "露骨玩笑、梦境、纯情绪宣言不单独入表；只在连接到写作、读书、通信、交游、经济或居住动作时概括保留。"
+    ],
+    "closeoutCorrection": {
+      "field": "eventsAdded",
+      "previousValue": 0,
+      "correctedValue": 63,
+      "reason": "003《四席小屋日记》1961-03-16至1961-04-15日期范围实际新增63条；原日志误记为0。"
+    }
+  },
+  {
+    "iteration": 253,
+    "date": "2026-05-05",
+    "book": "早年日记",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记",
+    "scope": [
+      "003.四席小屋日记.txt：1961-04-16至1961-05-15"
+    ],
+    "strategy": "《早年日记》第五轮：继续003《四席小屋日记》后段之一，处理1961-04-16至1961-05-15。新建法文/德文学习、稿费、来客、生日、探监、借书、翻译、留学考准备、胡适/姚从吾/吴相湘线等日常事件；对旧库已有《爱情的刽子手》发表、给林海音信、姚从吾回绝国史馆、《红玫瑰》发表、《假如我是女人》《一封神气的情书》等作品链只补 additionalSources 与 crossReferences。",
+    "filesRead": [
+      "003.四席小屋日记.txt",
+      "data/timeline-events-zaonian-riji.json",
+      "data/timeline-events-first-book-supplement.json",
+      "data/timeline-events-traditional-monologue.json"
+    ],
+    "eventsAdded": 53,
+    "crossReferenceUpdates": [
+      "traditional-monologue-1961-04-17-love-executioner-published-in-united-daily",
+      "1961-04-21-letter-lin-haiyin",
+      "traditional-monologue-1961-04-06-red-rose-published-in-united-daily",
+      "1961-05-02-yao-refuses-guoshiguan",
+      "traditional-monologue-1961-07-07-if-i-were-a-woman-first-draft",
+      "traditional-monologue-1961-05-24-magnificent-love-letter-dated"
+    ],
+    "nextRecommended": [
+      "第六轮继续003《四席小屋日记》后段之二，建议处理1961-05-16至1961-06-19：5月17姚从吾要李敖去福州街访胡适、5月18看姚从吾四十四年日记、5月24《一封神气的情书》署日、5月底至6月中搬离四席小屋前的语言学习/写作/借贷/购书/搬家准备，最后接6月19章尾。",
+      "这一轮之后应对003全章做一次小型重复归档复查，再进入004《二十年前的一些断片》。"
+    ],
+    "output": [
+      "data/timeline-events-zaonian-riji.json",
+      "exports/leeao-current-timeline.txt",
+      "exports/leeao-current-timeline.csv"
+    ],
+    "notes": [
+      "梦境和露骨玩笑不单独入表；只保留与写作、通信、交游、求学、经济或居住动作相连的内容。",
+      "4月19《假如我是女人》与旧库1961-07-07初稿说法存在书内时间差，本轮作为日记生成过程线索处理，不覆盖旧作品节点。"
+    ],
+    "dedupeCorrection": {
+      "removedFromNewBookFile": [
+        "zaonian-riji-1961-04-21-copies-letter-to-lin-haiyin",
+        "zaonian-riji-1961-05-02-yao-says-luo-jialun-wanted-guoshiguan"
+      ],
+      "reason": "这两条与旧库主节点完全同义；保留旧节点并以《早年日记》003作为 additionalSources，不在专档重复显示。"
+    }
+  },
+  {
+    "iteration": 254,
+    "date": "2026-05-05",
+    "book": "早年日记",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记",
+    "scope": [
+      "003.四席小屋日记.txt：1961-05-16至1961-06-19"
+    ],
+    "strategy": "《早年日记》第六轮：继续003《四席小屋日记》后段之二，处理1961-05-16至1961-06-19。对短记仍按大而全原则保留写作、通信、来客、借款、还账、看房、搬家、划船、读书、做饭等当事人日常；对旧库已有姚从吾催访胡适、看姚从吾四十四年日记、《一封神气的情书》署日、《中国小姐论》刊于《人间世》、搬往碧潭山楼等节点只补 additionalSources/crossReferences。",
+    "filesRead": [
+      "003.四席小屋日记.txt",
+      "data/timeline-events-zaonian-riji.json",
+      "data/timeline-events-first-book-supplement.json",
+      "data/timeline-events-fifth-book.json",
+      "data/timeline-events-traditional-monologue.json"
+    ],
+    "eventsAdded": 42,
+    "crossReferenceUpdates": [
+      "1961-05-17-yao-urges-visit-hu",
+      "1961-05-18-read-yao-diaries",
+      "traditional-monologue-1961-05-24-magnificent-love-letter-dated",
+      "traditional-monologue-1961-06-china-miss-theory-published-in-renjianshi",
+      "book5-1961-06-15-rents-bitan-hill-room"
+    ],
+    "nextRecommended": [
+      "下一轮建议先做003《四席小屋日记》全章小型 closeout：复核2月16日至6月19日是否还有漏掉的来客/通信/借贷/作品生成短记，重点查同日多事件是否拆分过细或漏互引。",
+      "closeout 后再进入004《二十年前的一些断片》，该章是回看性质，需分清1980年代整理/追述与1950年代原事件，不把回忆性判断当成新日级事件。"
+    ],
+    "output": [
+      "data/timeline-events-zaonian-riji.json",
+      "exports/leeao-current-timeline.txt",
+      "exports/leeao-current-timeline.csv"
+    ],
+    "notes": [
+      "梦境、露骨凝视和纯情绪宣言不单独造事件；与写作计划、居住迁移、通信、师友往来或读书研究相连时概括保留。",
+      "6月15日“新汉陪搬家”与旧库碧潭山楼主节点同义，本轮只补来源，不在《早年日记》专档重复显示。"
+    ]
+  },
+  {
+    "iteration": 255,
+    "date": "2026-05-05",
+    "book": "早年日记",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记",
+    "scope": [
+      "003.四席小屋日记.txt：全章 closeout（前记、1961-02-16至1961-06-19）"
+    ],
+    "strategy": "《早年日记》003《四席小屋日记》全章 closeout：核对日期覆盖、疑似重复、旧节点交叉引用和 sourceLine 准确性。对前轮因编码读取偏移导致的 source.line 错位做元数据校正；将4月28日 Mother and Bessie Skinner's Ring 意译练习从误置的4月24日改回4月28日；修正第四轮 ingestion-log 的 eventsAdded 误记。",
+    "filesRead": [
+      "003.四席小屋日记.txt",
+      "data/timeline-events-zaonian-riji.json",
+      "data/timeline-events-first-book-supplement.json",
+      "data/timeline-events-fifth-book.json",
+      "data/timeline-events-traditional-monologue.json",
+      "data/ingestion-log.json"
+    ],
+    "eventsAdded": 0,
+    "crossReferenceUpdates": [],
+    "nextRecommended": [
+      "下一轮进入004《二十年前的一些断片》。该章是回忆/断片性质，先读前后说明，分清1960年代原事件、1980年代整理追述和纯回忆判断。",
+      "重点关注若出现明确可定位的李敖当事人动作：写作、通信、搬迁、师友往来、借贷、求学/研究、投稿发表；纯回忆性评价不单独入表。"
+    ],
+    "output": [
+      "data/timeline-events-zaonian-riji.json",
+      "exports/leeao-current-timeline.txt",
+      "exports/leeao-current-timeline.csv"
+    ],
+    "notes": [
+      "本 closeout 未新增事件，总量不变；主要修正 sourceLine 与一条误置日期。",
+      "6月10日为梦境、6月13/14/16为空白短记；6月15搬家已归旧库碧潭山楼主节点，不在专档重复造事件。"
     ]
   }
 ]
