@@ -3022,7 +3022,19 @@
       "chapter": "031.纸上罗曼斯",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt",
       "line": 109
-    }
+    },
+    "crossReferences": [
+      "daxue-houqi-jia-1958-08-28-talks-with-jing-on-present-freedom-and-love"
+    ],
+    "additionalSources": [
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "003.1958年8月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/003.1958年8月.txt",
+        "line": 259,
+        "note": "《大学后期日记甲集》原文，属8月28日夜与景谈话第十五条。"
+      }
+    ]
   },
   {
     "id": "li-ao-yulu-1958-08-31-diary-heart-rides-wind-rain",
@@ -3060,7 +3072,19 @@
       "chapter": "031.纸上罗曼斯",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt",
       "line": 133
-    }
+    },
+    "crossReferences": [
+      "daxue-houqi-jia-1958-08-31-night-at-xinhan-discusses-celibacy-and-composes-history-poem"
+    ],
+    "additionalSources": [
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "003.1958年8月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/003.1958年8月.txt",
+        "line": 301,
+        "note": "《大学后期日记甲集》原文，属8月31日夜在景新汉处所作咏史诗末句。"
+      }
+    ]
   },
   {
     "id": "li-ao-yulu-1958-10-10-diary-women-influence-and-gifts",
@@ -3106,7 +3130,24 @@
         "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt",
         "line": 141,
         "note": "同日关于女人与穿戴的短句。"
+      },
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "005.1958年10月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/005.1958年10月.txt",
+        "line": 143,
+        "note": "《大学后期日记甲集》原文，关于女人对男人可能影响一生的说法。"
+      },
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "005.1958年10月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/005.1958年10月.txt",
+        "line": 145,
+        "note": "《大学后期日记甲集》原文，周弘关于女人与穿戴的玩笑。"
       }
+    ],
+    "crossReferences": [
+      "daxue-houqi-jia-1958-10-10-notes-women-influence-and-zhou-hong-clothing-joke"
     ]
   },
   {
@@ -3145,7 +3186,19 @@
       "chapter": "031.纸上罗曼斯",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt",
       "line": 145
-    }
+    },
+    "crossReferences": [
+      "daxue-houqi-jia-1958-10-17-yingshan-dance-talk-and-love-purpose-lightness"
+    ],
+    "additionalSources": [
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "005.1958年10月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/005.1958年10月.txt",
+        "line": 231,
+        "note": "《大学后期日记甲集》原文，夜听英善跳舞归言后关于“暂与俗人谐”与恋爱目的的记录。"
+      }
+    ]
   },
   {
     "id": "li-ao-yulu-1958-10-20-diary-no-flower-and-library-reflection",
@@ -3191,7 +3244,39 @@
         "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt",
         "line": 159,
         "note": "同日在图书馆一角远望窗外，反思女孩子“可厌”的一面。"
+      },
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "005.1958年10月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/005.1958年10月.txt",
+        "line": 263,
+        "note": "《大学后期日记甲集》原文，续成10月13日之诗。"
+      },
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "005.1958年10月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/005.1958年10月.txt",
+        "line": 267,
+        "note": "《大学后期日记甲集》原文，诗句“爱情如牙刷（或作‘女人如牙刷’）”。"
+      },
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "005.1958年10月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/005.1958年10月.txt",
+        "line": 271,
+        "note": "《大学后期日记甲集》原文，诗句“不觅解语花”。"
+      },
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "005.1958年10月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/005.1958年10月.txt",
+        "line": 273,
+        "note": "《大学后期日记甲集》原文，图书馆一角反思女孩子“可厌”的一面。"
       }
+    ],
+    "crossReferences": [
+      "daxue-houqi-jia-1958-10-20-completes-love-like-toothbrush-poem",
+      "daxue-houqi-jia-1958-10-20-library-reflection-on-disliked-side-of-girls"
     ]
   },
   {
@@ -3230,7 +3315,19 @@
       "chapter": "031.纸上罗曼斯",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt",
       "line": 163
-    }
+    },
+    "crossReferences": [
+      "daxue-houqi-jia-1958-10-27-dislikes-first-dance-practice-awkwardness"
+    ],
+    "additionalSources": [
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "005.1958年10月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/005.1958年10月.txt",
+        "line": 375,
+        "note": "《大学后期日记甲集》原文，10月27日练舞初跳之丑状。"
+      }
+    ]
   },
   {
     "id": "li-ao-yulu-1958-11-10-diary-breaks-love-threads",
@@ -3268,7 +3365,26 @@
       "chapter": "031.纸上罗曼斯",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt",
       "line": 177
-    }
+    },
+    "crossReferences": [
+      "daxue-houqi-jia-1958-11-10-four-gazes-and-resolves-to-break-love-threads"
+    ],
+    "additionalSources": [
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "006.1958年11月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/006.1958年11月.txt",
+        "line": 167,
+        "note": "《大学后期日记甲集》原文，列出四眼光。"
+      },
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "006.1958年11月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/006.1958年11月.txt",
+        "line": 177,
+        "note": "《大学后期日记甲集》原文，决自今起断情丝而绝爱欲。"
+      }
+    ]
   },
   {
     "id": "li-ao-yulu-1958-11-11-diary-dislikes-dancing",
@@ -3306,7 +3422,19 @@
       "chapter": "031.纸上罗曼斯",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt",
       "line": 181
-    }
+    },
+    "crossReferences": [
+      "daxue-houqi-jia-1958-11-11-dislikes-dancing-as-shallow"
+    ],
+    "additionalSources": [
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "006.1958年11月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/006.1958年11月.txt",
+        "line": 309,
+        "note": "《大学后期日记甲集》原文，跳舞等实在肤浅、浅薄。"
+      }
+    ]
   },
   {
     "id": "li-ao-yulu-1958-11-26-diary-bb-strengthens-many-flowers-view",
@@ -3345,7 +3473,26 @@
       "chapter": "031.纸上罗曼斯",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt",
       "line": 191
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "006.1958年11月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/006.1958年11月.txt",
+        "line": 583,
+        "note": "《大学后期日记甲集》原文所在日记条，先记夜独看《女人征服男人》。"
+      },
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "006.1958年11月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/006.1958年11月.txt",
+        "line": 589,
+        "note": "原文摘录 BB 千娇百媚与“到处有芳草”看法。"
+      }
+    ],
+    "crossReferences": [
+      "daxue-houqi-jia-1958-11-26-watches-woman-conquers-man-and-bb-strengthens-many-flowers-view"
+    ]
   },
   {
     "id": "li-ao-yulu-1958-12-12-diary-love-not-purely-exclusive",

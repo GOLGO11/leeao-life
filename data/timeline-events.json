@@ -307,7 +307,19 @@
       "chapter": "005.“北土非吾愿，东林怀我师”",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/005.“北土非吾愿，东林怀我师”.txt",
       "line": 65
-    }
+    },
+    "crossReferences": [
+      "daxue-houqi-jia-1958-11-06-after-hu-shih-airport-renews-effort-and-women-disgust"
+    ],
+    "additionalSources": [
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "006.1958年11月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/006.1958年11月.txt",
+        "line": 79,
+        "note": "《大学后期日记甲集》原文，详记李敖赴松山机场迎胡适、胡适在人潮中叫他、姚从吾谈论文并鼓励“好好干”、胡适握手称“李先生”。"
+      }
+    ]
   },
   {
     "id": "1958-11-17-yao-discusses-thesis",
@@ -341,7 +353,22 @@
       "chapter": "005.“北土非吾愿，东林怀我师”",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/005.“北土非吾愿，东林怀我师”.txt",
       "line": 67
-    }
+    },
+    "crossReferences": [
+      "daxue-houqi-jia-1958-11-17-yao-congwu-hu-shih-thesis-direction-and-li-ao-refuses-change",
+      "daxue-houqi-jia-1958-11-19-thesis-title-song-marriage-dissolution-research-with-weng",
+      "daxue-houqi-jia-1958-11-21-thesis-title-changed-to-song-marriage-dissolution-and-restraints",
+      "daxue-houqi-jia-1958-11-22-wu-xiangxiang-and-friends-advise-against-thesis-but-li-ao-determined"
+    ],
+    "additionalSources": [
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "006.1958年11月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/006.1958年11月.txt",
+        "line": 425,
+        "note": "《大学后期日记甲集》原文，详记萧启庆告知、姚从吾转述胡适记忆李敖并谈论文方向、借缪钺遗山年谱、李敖坚持不改宋代婚姻题。"
+      }
+    ]
   },
   {
     "id": "1958-11-24-hu-shih-grass",
@@ -373,7 +400,19 @@
       "chapter": "005.“北土非吾愿，东林怀我师”",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/005.“北土非吾愿，东林怀我师”.txt",
       "line": 69
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "006.1958年11月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/006.1958年11月.txt",
+        "line": 543,
+        "note": "《大学后期日记甲集》原文详记胡适谈长信、北平话、敦煌离婚状、赵元任祝寿论文、周日再约等细节。"
+      }
+    ],
+    "crossReferences": [
+      "daxue-houqi-jia-1958-11-24-hu-shih-grass-talk-long-letter-dunhuang-divorce-and-sunday-appointment"
+    ]
   },
   {
     "id": "1958-11-28-thesis-title",
@@ -406,7 +445,24 @@
       "chapter": "005.“北土非吾愿，东林怀我师”",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/005.“北土非吾愿，东林怀我师”.txt",
       "line": 71
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "006.1958年11月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/006.1958年11月.txt",
+        "line": 619,
+        "note": "《大学后期日记甲集》原文详记姚从吾登记论文、题名商量、送目次给胡适以及劝入研究院。"
+      }
+    ],
+    "crossReferences": [
+      "daxue-houqi-jia-1958-11-28-registers-thesis-with-yao-title-social-restraints-and-hu-shih-opinion",
+      "daxue-houqi-jia-1958-11-17-yao-congwu-hu-shih-thesis-direction-and-li-ao-refuses-change",
+      "daxue-houqi-jia-1958-11-19-thesis-title-song-marriage-dissolution-research-with-weng",
+      "daxue-houqi-jia-1958-11-21-thesis-title-changed-to-song-marriage-dissolution-and-restraints",
+      "daxue-houqi-jia-1958-11-22-wu-xiangxiang-and-friends-advise-against-thesis-but-li-ao-determined",
+      "daxue-houqi-jia-1958-11-29-visits-liu-chonghong-shen-gangbo-and-academic-office-for-thesis-registration"
+    ]
   },
   {
     "id": "1959-02-24-hu-shih-lecture",

@@ -68,7 +68,34 @@
       "chapter": "003.爱情如牙刷",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/002.李敖的情诗/003.爱情如牙刷.txt",
       "line": 11
-    }
+    },
+    "crossReferences": [
+      "daxue-houqi-jia-1958-10-20-completes-love-like-toothbrush-poem",
+      "li-ao-yulu-1958-10-20-diary-no-flower-and-library-reflection"
+    ],
+    "additionalSources": [
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "005.1958年10月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/005.1958年10月.txt",
+        "line": 263,
+        "note": "《大学后期日记甲集》原文，李敖记“续成13日之诗”。"
+      },
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "005.1958年10月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/005.1958年10月.txt",
+        "line": 267,
+        "note": "日记原文收“爱情如牙刷（或作‘女人如牙刷’）”。"
+      },
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "005.1958年10月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/005.1958年10月.txt",
+        "line": 271,
+        "note": "日记原文收“不觅解语花”。"
+      }
+    ]
   },
   {
     "id": "li-ao-love-poems-1958-11-10-writes-wulai-waterfall-poem",
@@ -106,7 +133,34 @@
       "chapter": "004.乌来观瀑诗",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/002.李敖的情诗/004.乌来观瀑诗.txt",
       "line": 19
-    }
+    },
+    "crossReferences": [
+      "daxue-houqi-jia-1958-11-10-composes-wulai-waterfall-and-two-playful-poems-in-tongjian-class",
+      "daxue-houqi-jia-1958-11-09-wulai-trip-with-qingchao-society"
+    ],
+    "additionalSources": [
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "006.1958年11月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/006.1958年11月.txt",
+        "line": 181,
+        "note": "《大学后期日记甲集》原文，通鉴课时成《乌来观瀑诗》。"
+      },
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "006.1958年11月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/006.1958年11月.txt",
+        "line": 183,
+        "note": "日记原文所录《乌来观瀑诗》首句。"
+      },
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "006.1958年11月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/006.1958年11月.txt",
+        "line": 219,
+        "note": "日记原文补记李敖极爱乌来瀑布。"
+      }
+    ]
   },
   {
     "id": "li-ao-love-poems-1958-11-27-writes-november-27-poem",
@@ -141,7 +195,26 @@
       "chapter": "005.一九五八年十一月二十七日",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/002.李敖的情诗/005.一九五八年十一月二十七日.txt",
       "line": 19
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "006.1958年11月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/006.1958年11月.txt",
+        "line": 595,
+        "note": "《大学后期日记甲集》11月27日日记原文保存同诗。"
+      },
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "006.1958年11月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/006.1958年11月.txt",
+        "line": 609,
+        "note": "日记原文诗末“狭窄而愚昧的早年”。"
+      }
+    ],
+    "crossReferences": [
+      "daxue-houqi-jia-1958-11-27-writes-november-27-poem-in-diary"
+    ]
   },
   {
     "id": "li-ao-love-poems-1958-12-22-writes-death-separation-in-taiwan",

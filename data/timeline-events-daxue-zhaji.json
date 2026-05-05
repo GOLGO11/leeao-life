@@ -1416,7 +1416,20 @@
       "chapter": "095.诗赠孟大强",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/095.诗赠孟大强.txt",
       "line": 3
-    }
+    },
+    "crossReferences": [
+      "daxue-houqi-jia-1958-09-24-treats-meng-dazhong-songran-movie-and-ice",
+      "daxue-houqi-jia-1966-09-27-anti-woman-expels-meng-dazhong"
+    ],
+    "additionalSources": [
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "004.1958年9月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/004.1958年9月.txt",
+        "line": 293,
+        "note": "《大学后期日记甲集》9月24日条后按追引1957年7月6日早上写给孟大中的 Anti-Woman 会诗。"
+      }
+    ]
   },
   {
     "id": "daxue-zhaji-1957-07-06-goes-to-cihang-chan-temple-with-renlong",
