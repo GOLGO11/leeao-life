@@ -1,9 +1,9 @@
 ﻿李敖交互式年表：当前增量纯文本备份
 生成日期：2026-05-05
-事件总数：3078
+事件总数：3132
 数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json；data/timeline-events-ni-bendan.json；data/timeline-events-dream-awake.json；data/timeline-events-li-ao-xinkan.json；data/timeline-events-qianqiu-wansui-wuya-qiushi.json；data/timeline-events-li-ao-zawenji.json；data/timeline-events-qianqiu-wansui-bianwai.json；data/timeline-events-beijing-fayuansi.json；data/timeline-events-shangshan-ai.json；data/timeline-events-red-11.json；data/timeline-events-virtual-seventeen.json；data/timeline-events-yangwei-america.json；data/timeline-events-73rd-martyr.json；data/timeline-events-love-secret.json；data/timeline-events-li-ao-love-poems.json；data/timeline-events-li-yulu.json；data/timeline-events-li-ao-yulu.json；data/timeline-events-sui-qianwan-li-ao-wangyi.json；data/timeline-events-tiaozhan-li-ao-ao-yulu.json；data/timeline-events-daxue-zhaji.json；data/timeline-events-zaonian-riji.json
 说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。
-日期精度统计：day=2638；year=97；year-range=13；undated-range=1；undated-context=141；season=29；lunar-day=1；year-after=7；month=53；half-year=2；school-year-context=5；day-range=16；year-about=8；month-after=3；year-context=16；day-after=4；before-date-context=11；after-date-context=8；month-context=3；day-context=6；range-context=14；year-end=1；month-range=1
+日期精度统计：day=2692；year=97；year-range=13；undated-range=1；undated-context=141；season=29；lunar-day=1；year-after=7；month=53；half-year=2；school-year-context=5；day-range=16；year-about=8；month-after=3；year-context=16；day-after=4；before-date-context=11；after-date-context=8；month-context=3；day-context=6；range-context=14；year-end=1；month-range=1
 
 
 1935
@@ -9620,9 +9620,9 @@
   标签：早年日记、四席小屋日记、陶苏保、看房、新店、迁居
   视图：居住线、师友线
   作品：早年日记
-  交叉引用：-
+  交叉引用：zaonian-riji-1961-06-15-xinhan-accompanies-move
   来源：早年日记 / 003.四席小屋日记 / line 1841
-  补充来源：-
+  补充来源：早年日记 / 003.四席小屋日记 / line 1943；说明：1961年6月15日原记补明景新汉陪李敖搬家，承接5月27日新店看房线。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/003.四席小屋日记.txt
   数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1961-05-27-looks-at-house-in-xindian-with-tao-subao-couple
 - 1961年5月28日 | 昭先、方印、施珂、马宏祥同日来访李敖
@@ -9794,6 +9794,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/003.四席小屋日记.txt
   数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1961-06-09-guying-letter-taotao-visit-and-bb-photo
+- 1961年6月10日 | 李敖大梦及 Lo，醒来茫然
+  精度：day；可靠度：confirmed；排序日期：1961-06-10
+  摘要：1961年6月10日，李敖“大梦及 Lo”，并说从没有这样有系统的长梦；醒来后茫然不已。此条保留为《四席小屋日记》晚段的内心与梦境日常。
+  人物：李敖、Lo
+  地点：-
+  标签：早年日记、四席小屋日记、Lo、梦、日常
+  视图：生活线、情感线
+  作品：早年日记、四席小屋日记
+  交叉引用：-
+  来源：早年日记 / 003.四席小屋日记 / line 1927
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/003.四席小屋日记.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1961-06-10-dreams-systematically-of-lo
 - 1961年6月11日 | 李敖给鼓应写信
   精度：day；可靠度：confirmed；排序日期：1961-06-11
   摘要：1961年6月11日，李敖给鼓应写信。
@@ -9833,6 +9846,19 @@
   补充来源：早年日记 / 003.四席小屋日记 / line 1945；说明：《四席小屋日记》6月15日原日记简记“新汉陪搬家”，补足搬离四席小屋至碧潭居住线。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/007.委蜕纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1961-06-15-rents-bitan-hill-room
+- 1961年6月15日 | 景新汉陪李敖搬家
+  精度：day；可靠度：confirmed；排序日期：1961-06-15
+  摘要：1961年6月15日，景新汉陪李敖搬家。这是《四席小屋日记》末段从新生南路四席小屋转向新店乡居的搬迁细节之一。
+  人物：李敖、景新汉
+  地点：四席小屋、新店
+  标签：早年日记、四席小屋日记、景新汉、新汉、搬家、四席小屋、新店
+  视图：生活线、居住线
+  作品：早年日记、四席小屋日记
+  交叉引用：zaonian-riji-1982-07-28-prefaces-four-mat-room-diary、zaonian-riji-1961-05-27-looks-at-house-in-xindian-with-tao-subao-couple
+  来源：早年日记 / 003.四席小屋日记 / line 1943
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/003.四席小屋日记.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1961-06-15-xinhan-accompanies-move
 - 1961年6月17日 | 李敖去第一宿舍改作文一下午，夜间施珂来
   精度：day；可靠度：confirmed；排序日期：1961-06-17
   摘要：1961年6月17日，李敖去第一宿舍，改了一下午作文；夜里施珂来访。
@@ -10976,9 +11002,9 @@
   标签：假如我是女人、后记、胡秋原、文祸、传统下的独白
   视图：写作线、司法线、思想线
   作品：假如我是女人、传统下的独白
-  交叉引用：traditional-monologue-1963-06-01-if-i-were-a-woman-published-in-wenxing
+  交叉引用：traditional-monologue-1963-06-01-if-i-were-a-woman-published-in-wenxing、zaonian-riji-1966-12-09-counterclaim-hu-case-rebukes-hu-qiuyuan-one-and-half-hours
   来源：传统下的独白 / 006.假如我是女人 / line 61
-  补充来源：-
+  补充来源：早年日记 / 004.二十年前的一些断片 / line 1103；说明：1966年12月9日原记补明李敖出反诉胡案庭，痛斥胡秋原一个半小时，属于《假如我是女人》后记所称胡秋原控告诽谤后的官司链。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/006.假如我是女人.txt
   数据：data/timeline-events-traditional-monologue.json#traditional-monologue-1963-08-16-if-i-were-a-woman-post-publication-backlash-note
 - 1963年8月16日 | 李敖再次改写《不讨老婆之“不亦快哉”》
@@ -12605,9 +12631,9 @@
   标签：上下古今谈、何秀子、启示、废娼、1965
   视图：发表线、社会线、论战线
   作品：上下古今谈、何秀子的启示
-  交叉引用：shangxia-1965-07-26-darkness-of-licensed-prostitution
+  交叉引用：shangxia-1965-07-26-darkness-of-licensed-prostitution、shangxia-1965-07-28-legal-view-on-he-xiuzi
   来源：上下古今谈 / 024.何秀子的启示 / line 17
-  补充来源：-
+  补充来源：早年日记 / 004.二十年前的一些断片 / line 99；说明：《二十年前的一些断片》1966年2月15日摘录何秀子事件后续法规修正新闻，可作《何秀子的启示》后续背景。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/024.何秀子的启示.txt
   数据：data/timeline-events-shangxia-gujin-talks.json#shangxia-1965-07-27-he-xiuzi-example
 - 1965年7月28日 | 《何秀子事件的法律观点》刊出，李敖区分打击私娼与维持法治的边界
@@ -12620,7 +12646,7 @@
   作品：上下古今谈、何秀子事件的法律观点
   交叉引用：shangxia-1965-07-27-he-xiuzi-example、shangxia-1965-07-23-never-hire-again-legal-question
   来源：上下古今谈 / 025.何秀子事件的法律观点 / line 17
-  补充来源：-
+  补充来源：早年日记 / 004.二十年前的一些断片 / line 99；说明：《二十年前的一些断片》1966年2月15日摘录《公论报》“省府例会通过娼妓管理修正办法”，李敖标题称其为“一个专为何秀子而改订的法律”。该条为公共新闻追踪，未另造李敖当事事件。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/025.何秀子事件的法律观点.txt
   数据：data/timeline-events-shangxia-gujin-talks.json#shangxia-1965-07-28-legal-view-on-he-xiuzi
 - 1965年7月29日 | 《“流氓”与法律》刊出，李敖抨击违宪的取缔流氓办法
@@ -13608,7 +13634,7 @@
   标签：早年日记、二十年前的一些断片、徐复观、新中国饭店、胡秋原、郑学稼、殷海光、文星、和谈
   视图：文星线、师友线、论战线
   作品：早年日记、文星
-  交叉引用：-
+  交叉引用：1966-02-21-xu-fuguan-attack、zaonian-riji-1966-05-07-files-complaint-against-xu-fuguan-yu-jizhong-and-visits-united-daily、zaonian-riji-1966-09-09-taipei-district-court-acquits-xu-fuguan-yu-jizhong
   来源：早年日记 / 004.二十年前的一些断片 / line 53
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
@@ -14154,7 +14180,7 @@
   标签：早年日记、二十年前的一些断片、孙陵、晚饭、咖啡、文警、曹圣芬、南宫博、原始文件
   视图：师友线、文星线、文艺线
   作品：早年日记
-  交叉引用：-
+  交叉引用：qianqiu-wansui-1982-11-07-032-writes-shekou-and-rose、zaonian-riji-1966-12-26-cao-shengfen-court-delayed-plainclothes-checks-arrival
   来源：早年日记 / 004.二十年前的一些断片 / line 271
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
@@ -14388,9 +14414,9 @@
   标签：早年日记、二十年前的一些断片、徐复观、余纪忠、状子、联合报、王惕吾、王崇五、中和乡、吴相湘、乔迁
   视图：诉讼线、媒体线、师友线
   作品：早年日记
-  交叉引用：1966-02-21-xu-fuguan-attack、zaonian-riji-1966-09-09-taipei-district-court-acquits-xu-fuguan-yu-jizhong、zaonian-riji-1966-10-12-high-court-appeal-xu-yu-yu-jizhong-party-meeting-excuse
+  交叉引用：1966-02-21-xu-fuguan-attack、zaonian-riji-1966-09-09-taipei-district-court-acquits-xu-fuguan-yu-jizhong、zaonian-riji-1966-10-12-high-court-appeal-xu-yu-yu-jizhong-party-meeting-excuse、zaonian-riji-1966-12-09-appears-in-xu-yu-case-and-rebukes-duanmu-kai、zaonian-riji-1966-12-26-xu-case-appeal-dismissed-and-judicial-darkness-feeling、zaonian-riji-1966-05-13-check-account-court-sylvia-and-jumi-letter、zaonian-riji-1966-01-06-talks-with-xu-fuguan-at-new-china-hotel
   来源：早年日记 / 004.二十年前的一些断片 / line 421
-  补充来源：早年日记 / 004.二十年前的一些断片 / line 749；说明：1966年9月9日原记台北地院判徐复观、余纪忠“皆无罪”，为5月7日控告线后续。；早年日记 / 004.二十年前的一些断片 / line 845；说明：1966年10月12日原记高院上诉控徐复观、余纪忠，余纪忠以党部开会请假，李敖当庭质问。
+  补充来源：早年日记 / 004.二十年前的一些断片 / line 749；说明：1966年9月9日原记台北地院判徐复观、余纪忠“皆无罪”，为5月7日控告线后续。；早年日记 / 004.二十年前的一些断片 / line 845；说明：1966年10月12日原记高院上诉控徐复观、余纪忠，余纪忠以党部开会请假，李敖当庭质问。；早年日记 / 004.二十年前的一些断片 / line 1101；说明：1966年12月9日原记补明李敖上午出控徐复观、余纪忠案庭，并斥端木恺律师。；早年日记 / 004.二十年前的一些断片 / line 1119；说明：1966年12月26日原记补明“控徐等案上诉驳回”，且李敖在法院涌现“司法黑暗”之念。；早年日记 / 004.二十年前的一些断片 / line 489；说明：1966年5月13日原记补出李敖下午高院开庭，与推事争辩；出庭后张继高说余纪忠被告后第二天就去找他。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
   数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-05-07-files-complaint-against-xu-fuguan-yu-jizhong-and-visits-united-daily
 - 1966年5月8日 | 《联合报》登出李敖控徐复观、余纪忠消息，李敖晚赴三三家
@@ -14401,9 +14427,9 @@
   标签：早年日记、二十年前的一些断片、联合报、徐复观、余纪忠、谭卓民、菲律宾、领带、浴血金沙、Sand of the Kalahari、三三、当兵、萧同兹、黄雪村
   视图：诉讼线、师友线、观影线
   作品：早年日记、联合报、浴血金沙、Sand of the Kalahari
-  交叉引用：zaonian-riji-1966-05-07-files-complaint-against-xu-fuguan-yu-jizhong-and-visits-united-daily、1966-02-21-xu-fuguan-attack、zaonian-riji-1966-09-09-taipei-district-court-acquits-xu-fuguan-yu-jizhong、zaonian-riji-1966-10-12-high-court-appeal-xu-yu-yu-jizhong-party-meeting-excuse
+  交叉引用：zaonian-riji-1966-05-07-files-complaint-against-xu-fuguan-yu-jizhong-and-visits-united-daily、1966-02-21-xu-fuguan-attack、zaonian-riji-1966-09-09-taipei-district-court-acquits-xu-fuguan-yu-jizhong、zaonian-riji-1966-10-12-high-court-appeal-xu-yu-yu-jizhong-party-meeting-excuse、zaonian-riji-1966-12-09-appears-in-xu-yu-case-and-rebukes-duanmu-kai、zaonian-riji-1966-12-26-xu-case-appeal-dismissed-and-judicial-darkness-feeling、zaonian-riji-1966-05-13-check-account-court-sylvia-and-jumi-letter
   来源：早年日记 / 004.二十年前的一些断片 / line 431
-  补充来源：早年日记 / 004.二十年前的一些断片 / line 749；说明：1966年9月9日原记台北地院判徐复观、余纪忠“皆无罪”，为5月8日见报线后续。；早年日记 / 004.二十年前的一些断片 / line 845；说明：1966年10月12日原记高院上诉控徐复观、余纪忠，余纪忠以党部开会请假，李敖当庭质问。
+  补充来源：早年日记 / 004.二十年前的一些断片 / line 749；说明：1966年9月9日原记台北地院判徐复观、余纪忠“皆无罪”，为5月8日见报线后续。；早年日记 / 004.二十年前的一些断片 / line 845；说明：1966年10月12日原记高院上诉控徐复观、余纪忠，余纪忠以党部开会请假，李敖当庭质问。；早年日记 / 004.二十年前的一些断片 / line 1101；说明：1966年12月9日原记补明李敖上午出控徐复观、余纪忠案庭，并斥端木恺律师。；早年日记 / 004.二十年前的一些断片 / line 1119；说明：1966年12月26日原记补明“控徐等案上诉驳回”，且李敖在法院涌现“司法黑暗”之念。；早年日记 / 004.二十年前的一些断片 / line 489；说明：1966年5月13日原记补出李敖下午高院开庭，与推事争辩；出庭后张继高说余纪忠被告后第二天就去找他。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
   数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-05-08-united-daily-reports-lawsuit-and-sansan-army-eve
 - 1966年5月8日 | 汤元吉来访李敖二次未遇，李敖夜与小钊谈生计
@@ -14479,7 +14505,7 @@
   标签：早年日记、二十年前的一些断片、支票开户、小钊、支票簿、林光民、高院、推事、张继高、余纪忠、万绿丛中一点红、Sylvia、居蜜
   视图：生计线、诉讼线、观影线
   作品：早年日记、万绿丛中一点红、Sylvia
-  交叉引用：-
+  交叉引用：zaonian-riji-1966-05-07-files-complaint-against-xu-fuguan-yu-jizhong-and-visits-united-daily、zaonian-riji-1966-05-08-united-daily-reports-lawsuit-and-sansan-army-eve、zaonian-riji-1966-09-09-taipei-district-court-acquits-xu-fuguan-yu-jizhong
   来源：早年日记 / 004.二十年前的一些断片 / line 489
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
@@ -14687,9 +14713,9 @@
   标签：早年日记、二十年前的一些断片、余徐案、李律师、余纪忠、徐复观、黄琨生、陈彦增、吴相湘、萧孟能、刘绍唐、小华、云南馆、破镜边缘、蓝明、Bottorff、对联
   视图：诉讼线、通信线、师友线、日常线
   作品：早年日记、破镜边缘、取三千弱水；为一代强人
-  交叉引用：zaonian-riji-1966-09-09-taipei-district-court-acquits-xu-fuguan-yu-jizhong
+  交叉引用：zaonian-riji-1966-09-09-taipei-district-court-acquits-xu-fuguan-yu-jizhong、zaonian-riji-1966-12-09-appears-in-xu-yu-case-and-rebukes-duanmu-kai、zaonian-riji-1966-12-26-xu-case-appeal-dismissed-and-judicial-darkness-feeling
   来源：早年日记 / 004.二十年前的一些断片 / line 573
-  补充来源：早年日记 / 004.二十年前的一些断片 / line 749；说明：1966年9月9日原记台北地院判徐复观、余纪忠“皆无罪”，为6月18日拒绝放弃余徐案的后续。
+  补充来源：早年日记 / 004.二十年前的一些断片 / line 749；说明：1966年9月9日原记台北地院判徐复观、余纪忠“皆无罪”，为6月18日拒绝放弃余徐案的后续。；早年日记 / 004.二十年前的一些断片 / line 1101；说明：1966年12月9日原记补明李敖上午出控徐复观、余纪忠案庭，并斥端木恺律师。；早年日记 / 004.二十年前的一些断片 / line 1119；说明：1966年12月26日原记补明“控徐等案上诉驳回”，且李敖在法院涌现“司法黑暗”之念。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
   数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-06-18-refuses-drop-yu-xu-case-letters-shaotang-movie-and-couplet
 - 1966年7月5日 | 李敖陪 Grace 过二十六岁生日，看电影、晚饭并买书
@@ -14921,9 +14947,9 @@
   标签：早年日记、二十年前的一些断片、中央日报、商钟、曹圣芬、告别文坛、卖牛肉面、广告
   视图：媒体线、出版线、生计线
   作品：早年日记、李敖告别文坛十书
-  交叉引用：wencun-two-1966-09-01-advertised-in-six-taipei-newspapers、wencun-two-1966-09-01-to-09-08-central-daily-ran-first-three-ads
+  交叉引用：wencun-two-1966-09-01-advertised-in-six-taipei-newspapers、wencun-two-1966-09-01-to-09-08-central-daily-ran-first-three-ads、zaonian-riji-1966-12-26-cao-shengfen-court-delayed-plainclothes-checks-arrival、zaonian-riji-1966-12-26-judge-skips-li-court-li-questions-and-file-not-brought
   来源：早年日记 / 004.二十年前的一些断片 / line 703
-  补充来源：-
+  补充来源：早年日记 / 004.二十年前的一些断片 / line 1117；说明：1966年12月26日原记补出李敖“控曹圣芬庭”的法院现场，传票8点30分而9点30分后始开。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
   数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-08-30-central-daily-ad-negotiation-shang-zhong-cao-shengfen
 - 1966年8月30日 | 李敖在《联合报》《征信新闻》等处加登广告遇阻，柏杨喊“没有你的活路”
@@ -14999,7 +15025,7 @@
   标签：早年日记、二十年前的一些断片、左舜生、清早长谈
   视图：师友线、思想线
   作品：早年日记
-  交叉引用：-
+  交叉引用：zaonian-riji-1966-11-21-zuo-shunsheng-central-daily-article-seen-as-supporting-li-ao
   来源：早年日记 / 004.二十年前的一些断片 / line 721
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
@@ -15064,9 +15090,9 @@
   标签：早年日记、二十年前的一些断片、台北地院、徐复观、余纪忠、余徐案、皆无罪
   视图：诉讼线、论战线
   作品：早年日记
-  交叉引用：zaonian-riji-1966-05-07-files-complaint-against-xu-fuguan-yu-jizhong-and-visits-united-daily、zaonian-riji-1966-05-08-united-daily-reports-lawsuit-and-sansan-army-eve、zaonian-riji-1966-06-18-refuses-drop-yu-xu-case-letters-shaotang-movie-and-couplet、zaonian-riji-1966-10-12-high-court-appeal-xu-yu-yu-jizhong-party-meeting-excuse
+  交叉引用：zaonian-riji-1966-05-07-files-complaint-against-xu-fuguan-yu-jizhong-and-visits-united-daily、zaonian-riji-1966-05-08-united-daily-reports-lawsuit-and-sansan-army-eve、zaonian-riji-1966-06-18-refuses-drop-yu-xu-case-letters-shaotang-movie-and-couplet、zaonian-riji-1966-10-12-high-court-appeal-xu-yu-yu-jizhong-party-meeting-excuse、zaonian-riji-1966-12-09-appears-in-xu-yu-case-and-rebukes-duanmu-kai、zaonian-riji-1966-12-26-xu-case-appeal-dismissed-and-judicial-darkness-feeling、zaonian-riji-1966-01-06-talks-with-xu-fuguan-at-new-china-hotel
   来源：早年日记 / 004.二十年前的一些断片 / line 749
-  补充来源：早年日记 / 004.二十年前的一些断片 / line 845；说明：1966年10月12日原记高院上诉控徐复观、余纪忠，余纪忠以党部开会请假，李敖当庭质问。
+  补充来源：早年日记 / 004.二十年前的一些断片 / line 845；说明：1966年10月12日原记高院上诉控徐复观、余纪忠，余纪忠以党部开会请假，李敖当庭质问。；早年日记 / 004.二十年前的一些断片 / line 1101；说明：1966年12月9日原记补明李敖上午出控徐复观、余纪忠案庭，并斥端木恺律师。；早年日记 / 004.二十年前的一些断片 / line 1119；说明：1966年12月26日原记补明“控徐等案上诉驳回”，且李敖在法院涌现“司法黑暗”之念。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
   数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-09-09-taipei-district-court-acquits-xu-fuguan-yu-jizhong
 - 1966年9月9日 | 李敖请戴良午饭，同看《北非谍影》，夜听白帆谈“奇遇”
@@ -15389,9 +15415,9 @@
   标签：早年日记、二十年前的一些断片、高院、徐复观、余纪忠、余徐案、党部开会、党重于法
   视图：诉讼线、论战线
   作品：早年日记
-  交叉引用：zaonian-riji-1966-05-07-files-complaint-against-xu-fuguan-yu-jizhong-and-visits-united-daily、zaonian-riji-1966-05-08-united-daily-reports-lawsuit-and-sansan-army-eve、zaonian-riji-1966-09-09-taipei-district-court-acquits-xu-fuguan-yu-jizhong
+  交叉引用：zaonian-riji-1966-05-07-files-complaint-against-xu-fuguan-yu-jizhong-and-visits-united-daily、zaonian-riji-1966-05-08-united-daily-reports-lawsuit-and-sansan-army-eve、zaonian-riji-1966-09-09-taipei-district-court-acquits-xu-fuguan-yu-jizhong、zaonian-riji-1966-12-09-appears-in-xu-yu-case-and-rebukes-duanmu-kai、zaonian-riji-1966-12-26-xu-case-appeal-dismissed-and-judicial-darkness-feeling
   来源：早年日记 / 004.二十年前的一些断片 / line 843
-  补充来源：-
+  补充来源：早年日记 / 004.二十年前的一些断片 / line 1101；说明：1966年12月9日原记补明李敖上午出控徐复观、余纪忠案庭，并斥端木恺律师。；早年日记 / 004.二十年前的一些断片 / line 1119；说明：1966年12月26日原记补明“控徐等案上诉驳回”，且李敖在法院涌现“司法黑暗”之念。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
   数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-10-12-high-court-appeal-xu-yu-yu-jizhong-party-meeting-excuse
 - 1966年10月14日 | 李敖考取驾驶汽车，学科一百分、术科七十四分
@@ -15467,9 +15493,9 @@
   标签：千秋万岁乌鸦求是合集、李敖著作年表、李敖告别文坛十书、乌鸦又叫了、两性问题及其他、李敖写的信、也有情书、孙悟空和我、查禁、1966
   视图：写作线、出版线
   作品：千秋万岁乌鸦求是合集、李敖著作年表、李敖告别文坛十书、乌鸦又叫了、两性问题及其他、妈离不了你、李敖写的信、也有情书、传统下的再白、孙悟空和我、大学后期日记甲集、大学后期日记乙集、不要叫罢
-  交叉引用：book7-1966-11-09-books-seized-at-yajiang-binding-factory、1965-11-05-ten-books-seized、zaonian-riji-1966-11-04-writes-xu-daoning-about-ten-books-qinghua-and-water-buffalo-press、zaonian-riji-1966-11-08-books-start-mailing-tiesheng-shaotang-factory-sorting-and-h、zaonian-riji-1966-11-09-yajiang-factory-supervision-and-searches-new-factory、zaonian-riji-1966-11-09-new-factory-cart-moves-also-love-letters-and-dont-shout、zaonian-riji-1966-11-09-lou-zhenyue-plainclothes-ban-wuya-sun-wukong、zaonian-riji-1966-11-09-zheng-wenjie-huang-police-cars-seize-books-covers-posters、zaonian-riji-1966-11-09-taken-to-second-precinct-questioned-until-after-midnight、zaonian-riji-1966-11-09-second-precinct-talk-notes-id-order-transcript-politeness、zaonian-riji-1966-11-10-yajiang-factory-under-plainclothes-surveillance、zaonian-riji-1966-11-10-pingjing-leaves-factory-under-three-plainclothes-eyes、zaonian-riji-1966-11-10-pingjing-li-ao-meet-near-guocui-drive-to-fujen-and-visit-friends、zaonian-riji-1966-11-10-li-guojin-zeng-contact-li-ao-and-police-move-into-bindery、zaonian-riji-1966-11-11-zheng-orders-four-books-bound-with-flaps-and-back-covers-blacked、zaonian-riji-1966-11-11-meierlian-dinner-movie-and-joke-about-dushuren、zaonian-riji-1966-11-13-cover-cutting-factory-visits-and-police-ask-fast-binding、zaonian-riji-1966-11-14-garrison-demands-zhix-deletion-li-guojin-denies、zaonian-riji-1966-11-14-many-reader-letters-and-third-letter-to-readers、zaonian-riji-1966-11-15-fuyuan-letter-police-refuse-release-lou-issues-permit、zaonian-riji-1966-11-16-factory-meets-zhang-wei-shou-and-baojing-wu-packs、zaonian-riji-1966-11-16-takes-four-books-four-copies-and-gives-receipt、zaonian-riji-1966-11-17-police-shift-responsibility-xiaozuo-gets-books-at-dusk、zaonian-riji-1966-11-18-packs-books-until-one-with-pingjing-zhangping-and-rebukes-zhangping
+  交叉引用：book7-1966-11-09-books-seized-at-yajiang-binding-factory、1965-11-05-ten-books-seized、zaonian-riji-1966-11-04-writes-xu-daoning-about-ten-books-qinghua-and-water-buffalo-press、zaonian-riji-1966-11-08-books-start-mailing-tiesheng-shaotang-factory-sorting-and-h、zaonian-riji-1966-11-09-yajiang-factory-supervision-and-searches-new-factory、zaonian-riji-1966-11-09-new-factory-cart-moves-also-love-letters-and-dont-shout、zaonian-riji-1966-11-09-lou-zhenyue-plainclothes-ban-wuya-sun-wukong、zaonian-riji-1966-11-09-zheng-wenjie-huang-police-cars-seize-books-covers-posters、zaonian-riji-1966-11-09-taken-to-second-precinct-questioned-until-after-midnight、zaonian-riji-1966-11-09-second-precinct-talk-notes-id-order-transcript-politeness、zaonian-riji-1966-11-10-yajiang-factory-under-plainclothes-surveillance、zaonian-riji-1966-11-10-pingjing-leaves-factory-under-three-plainclothes-eyes、zaonian-riji-1966-11-10-pingjing-li-ao-meet-near-guocui-drive-to-fujen-and-visit-friends、zaonian-riji-1966-11-10-li-guojin-zeng-contact-li-ao-and-police-move-into-bindery、zaonian-riji-1966-11-11-zheng-orders-four-books-bound-with-flaps-and-back-covers-blacked、zaonian-riji-1966-11-11-meierlian-dinner-movie-and-joke-about-dushuren、zaonian-riji-1966-11-13-cover-cutting-factory-visits-and-police-ask-fast-binding、zaonian-riji-1966-11-14-garrison-demands-zhix-deletion-li-guojin-denies、zaonian-riji-1966-11-14-many-reader-letters-and-third-letter-to-readers、zaonian-riji-1966-11-15-fuyuan-letter-police-refuse-release-lou-issues-permit、zaonian-riji-1966-11-16-factory-meets-zhang-wei-shou-and-baojing-wu-packs、zaonian-riji-1966-11-16-takes-four-books-four-copies-and-gives-receipt、zaonian-riji-1966-11-17-police-shift-responsibility-xiaozuo-gets-books-at-dusk、zaonian-riji-1966-11-18-packs-books-until-one-with-pingjing-zhangping-and-rebukes-zhangping、zaonian-riji-1966-11-21-bindery-talks-with-lou-officer-until-four、zaonian-riji-1966-11-21-starts-southbound-book-selling-with-huanwen-to-taichung、zaonian-riji-1966-11-22-writes-letter-to-garrison-and-heads-south、zaonian-riji-1966-11-22-bookstall-bosses-on-route-say-long-admired、zaonian-riji-1966-11-22-tainan-meets-wang-shixian-and-jiang-zongtang、zaonian-riji-1966-11-22-police-visit-wanli-three-times-warning-not-to-sell-li-ao-books、zaonian-riji-1966-11-23-zhangping-phone-ziyao-business-and-huanwen-introductions、zaonian-riji-1966-11-23-pingtung-universal-bookstore-boss-tian-serves-coffee、zaonian-riji-1966-11-24-registered-letter-to-taipei-postmaster-over-delayed-books、zaonian-riji-1966-12-21-visits-lawyer-li-twice-and-gives-four-books、zaonian-riji-1966-12-26-keelung-ban-selling-li-ao-books-xiaozuo-li-guojin-call
   来源：千秋万岁乌鸦求是合集 / 051.李敖著作年表 / line 67
-  补充来源：早年日记 / 004.二十年前的一些断片 / line 871；说明：1966年11月4日李敖致徐道宁信称《告别文坛十书》因印刷过程中发生“微妙情况”，至今还不能出书，大概还得拖几天。；早年日记 / 004.二十年前的一些断片 / line 889；说明：1966年11月8日原记傍晚起书开始寄出，李敖在厂中分书至十一时后。；早年日记 / 004.二十年前的一些断片 / line 905；说明：陈平景手记补明11月9日装订进度：《乌鸦又叫了》毛坯约千册，《孙悟空和我》正在装订。；早年日记 / 004.二十年前的一些断片 / line 907；说明：陈平景手记补明另洽新厂并运《也有情书》《不要叫吧》已叠部分。；早年日记 / 004.二十年前的一些断片 / line 911；说明：陈平景手记补明二分局称奉上级命查禁《乌鸦又叫了》《孙悟空和我》。；早年日记 / 004.二十年前的一些断片 / line 915；说明：陈平景手记补明警方拉走《孙悟空和我》《乌鸦又叫了》及封面、海报等书料。；早年日记 / 004.二十年前的一些断片 / line 935；说明：陈平景手记补明11月10日装订厂仍在做《不要叫吧》三百册，现场受便衣监视。；早年日记 / 004.二十年前的一些断片 / line 953；说明：陈平景手记补明11月11日《大学后期日记甲、乙集》《妈离不了你》《传统下的再白》四书可装订，但蝴蝶页、封底字须涂掉且出厂送警检查。；早年日记 / 004.二十年前的一些断片 / line 973；说明：1966年11月13日原记补明李敖为割除封面事大访工厂，并在装订厂受驻厂警察催促快装订。；早年日记 / 004.二十年前的一些断片 / line 981；说明：1966年11月14日原记补明装订厂称警总来人要求“之×”字样也得删去，李中校稍后否认。；早年日记 / 004.二十年前的一些断片 / line 995；说明：1966年11月15日原记补明李敖取得准发书信，娄振岳确认“之×”不要涂改。；早年日记 / 004.二十年前的一些断片 / line 1009；说明：1966年11月16日原记补明工厂现场在警员看守下继续打包。；早年日记 / 004.二十年前的一些断片 / line 1011；说明：1966年11月16日原记补明李敖取四书各四册。；早年日记 / 004.二十年前的一些断片 / line 1021；说明：1966年11月17日原记补明小左傍晚始取到书。；早年日记 / 004.二十年前的一些断片 / line 1033；说明：1966年11月18日原记补明李敖夜里与陈平景、张平包书至1时。
+  补充来源：早年日记 / 004.二十年前的一些断片 / line 871；说明：1966年11月4日李敖致徐道宁信称《告别文坛十书》因印刷过程中发生“微妙情况”，至今还不能出书，大概还得拖几天。；早年日记 / 004.二十年前的一些断片 / line 889；说明：1966年11月8日原记傍晚起书开始寄出，李敖在厂中分书至十一时后。；早年日记 / 004.二十年前的一些断片 / line 905；说明：陈平景手记补明11月9日装订进度：《乌鸦又叫了》毛坯约千册，《孙悟空和我》正在装订。；早年日记 / 004.二十年前的一些断片 / line 907；说明：陈平景手记补明另洽新厂并运《也有情书》《不要叫吧》已叠部分。；早年日记 / 004.二十年前的一些断片 / line 911；说明：陈平景手记补明二分局称奉上级命查禁《乌鸦又叫了》《孙悟空和我》。；早年日记 / 004.二十年前的一些断片 / line 915；说明：陈平景手记补明警方拉走《孙悟空和我》《乌鸦又叫了》及封面、海报等书料。；早年日记 / 004.二十年前的一些断片 / line 935；说明：陈平景手记补明11月10日装订厂仍在做《不要叫吧》三百册，现场受便衣监视。；早年日记 / 004.二十年前的一些断片 / line 953；说明：陈平景手记补明11月11日《大学后期日记甲、乙集》《妈离不了你》《传统下的再白》四书可装订，但蝴蝶页、封底字须涂掉且出厂送警检查。；早年日记 / 004.二十年前的一些断片 / line 973；说明：1966年11月13日原记补明李敖为割除封面事大访工厂，并在装订厂受驻厂警察催促快装订。；早年日记 / 004.二十年前的一些断片 / line 981；说明：1966年11月14日原记补明装订厂称警总来人要求“之×”字样也得删去，李中校稍后否认。；早年日记 / 004.二十年前的一些断片 / line 995；说明：1966年11月15日原记补明李敖取得准发书信，娄振岳确认“之×”不要涂改。；早年日记 / 004.二十年前的一些断片 / line 1009；说明：1966年11月16日原记补明工厂现场在警员看守下继续打包。；早年日记 / 004.二十年前的一些断片 / line 1011；说明：1966年11月16日原记补明李敖取四书各四册。；早年日记 / 004.二十年前的一些断片 / line 1021；说明：1966年11月17日原记补明小左傍晚始取到书。；早年日记 / 004.二十年前的一些断片 / line 1033；说明：1966年11月18日原记补明李敖夜里与陈平景、张平包书至1时。；早年日记 / 004.二十年前的一些断片 / line 1045；说明：1966年11月21日原记补明李敖与焕文南下，沿途卖书，夜抵台中。；早年日记 / 004.二十年前的一些断片 / line 1055；说明：1966年11月22日原记补明李敖环岛卖书第一日，历彰化、员林、北港、西螺、嘉义、台南，书摊老板皆道久仰，但台南警察干涉严重。；早年日记 / 004.二十年前的一些断片 / line 1057；说明：1966年11月22日原记补明李敖当晚转高雄，延续环岛卖书行程。；早年日记 / 004.二十年前的一些断片 / line 1065；说明：1966年11月23日原记补明环岛卖书第二日，张平与林紫耀谈生意，焕文介绍杨春海、陈福顺等人脉。；早年日记 / 004.二十年前的一些断片 / line 1067；说明：1966年11月23日原记补明李敖饭后赴屏东见环球书店老板，田老板请咖啡，并继续南行至恒春。；早年日记 / 004.二十年前的一些断片 / line 1075；说明：1966年11月24日原记补明李敖给台北邮局局长限时双挂存证信，警告其迟递自己的书。；早年日记 / 004.二十年前的一些断片 / line 1109；说明：1966年12月21日原记补明李敖送李律师书四册。；早年日记 / 004.二十年前的一些断片 / line 1125；说明：1966年12月26日原记补明基隆方面又发生禁卖李敖书之事，小左已电李中校，李中校答应去电解决。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/051.李敖著作年表.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1966-11-05-051-publishes-farewell-literary-world-ten-books
 - 1966-11-07 | 徐高阮等举行声讨李敖大会
@@ -15597,9 +15623,9 @@
   标签：告别文坛十书、查禁、雅江街、装订厂、孙悟空和我、乌鸦又叫了
   视图：文星线、出版线、司法线
   作品：李敖风流自传、李敖告别文坛十书、孙悟空和我、乌鸦又叫了
-  交叉引用：1965-11-05-ten-books-seized、zaonian-riji-1966-11-09-yajiang-factory-supervision-and-searches-new-factory、zaonian-riji-1966-11-09-new-factory-cart-moves-also-love-letters-and-dont-shout、zaonian-riji-1966-11-09-lou-zhenyue-plainclothes-ban-wuya-sun-wukong、zaonian-riji-1966-11-09-zheng-wenjie-huang-police-cars-seize-books-covers-posters、zaonian-riji-1966-11-09-taken-to-second-precinct-questioned-until-after-midnight、zaonian-riji-1966-11-09-second-precinct-talk-notes-id-order-transcript-politeness、zaonian-riji-1966-11-10-yajiang-factory-under-plainclothes-surveillance、zaonian-riji-1966-11-10-pingjing-leaves-factory-under-three-plainclothes-eyes、zaonian-riji-1966-11-10-pingjing-li-ao-meet-near-guocui-drive-to-fujen-and-visit-friends、zaonian-riji-1966-11-10-li-guojin-zeng-contact-li-ao-and-police-move-into-bindery、zaonian-riji-1966-11-11-zheng-orders-four-books-bound-with-flaps-and-back-covers-blacked、zaonian-riji-1966-11-11-meierlian-dinner-movie-and-joke-about-dushuren、zaonian-riji-1966-11-13-cover-cutting-factory-visits-and-police-ask-fast-binding、zaonian-riji-1966-11-13-visits-tianmu-shilin-for-li-guojin-but-he-has-moved、zaonian-riji-1966-11-14-garrison-demands-zhix-deletion-li-guojin-denies、zaonian-riji-1966-11-14-meierlian-talk-with-li-guojin-and-bindery-police-details、zaonian-riji-1966-11-15-fuyuan-letter-police-refuse-release-lou-issues-permit、zaonian-riji-1966-11-15-jincheng-lunch-movie-bindery-mother-car-breakdown-yulon-letter、zaonian-riji-1966-11-16-factory-meets-zhang-wei-shou-and-baojing-wu-packs、zaonian-riji-1966-11-16-takes-four-books-four-copies-and-gives-receipt、zaonian-riji-1966-11-17-police-shift-responsibility-xiaozuo-gets-books-at-dusk、zaonian-riji-1966-11-18-li-guojin-phone-and-refuses-illegal-letter-to-garrison
+  交叉引用：1965-11-05-ten-books-seized、zaonian-riji-1966-11-09-yajiang-factory-supervision-and-searches-new-factory、zaonian-riji-1966-11-09-new-factory-cart-moves-also-love-letters-and-dont-shout、zaonian-riji-1966-11-09-lou-zhenyue-plainclothes-ban-wuya-sun-wukong、zaonian-riji-1966-11-09-zheng-wenjie-huang-police-cars-seize-books-covers-posters、zaonian-riji-1966-11-09-taken-to-second-precinct-questioned-until-after-midnight、zaonian-riji-1966-11-09-second-precinct-talk-notes-id-order-transcript-politeness、zaonian-riji-1966-11-10-yajiang-factory-under-plainclothes-surveillance、zaonian-riji-1966-11-10-pingjing-leaves-factory-under-three-plainclothes-eyes、zaonian-riji-1966-11-10-pingjing-li-ao-meet-near-guocui-drive-to-fujen-and-visit-friends、zaonian-riji-1966-11-10-li-guojin-zeng-contact-li-ao-and-police-move-into-bindery、zaonian-riji-1966-11-11-zheng-orders-four-books-bound-with-flaps-and-back-covers-blacked、zaonian-riji-1966-11-11-meierlian-dinner-movie-and-joke-about-dushuren、zaonian-riji-1966-11-13-cover-cutting-factory-visits-and-police-ask-fast-binding、zaonian-riji-1966-11-13-visits-tianmu-shilin-for-li-guojin-but-he-has-moved、zaonian-riji-1966-11-14-garrison-demands-zhix-deletion-li-guojin-denies、zaonian-riji-1966-11-14-meierlian-talk-with-li-guojin-and-bindery-police-details、zaonian-riji-1966-11-15-fuyuan-letter-police-refuse-release-lou-issues-permit、zaonian-riji-1966-11-15-jincheng-lunch-movie-bindery-mother-car-breakdown-yulon-letter、zaonian-riji-1966-11-16-factory-meets-zhang-wei-shou-and-baojing-wu-packs、zaonian-riji-1966-11-16-takes-four-books-four-copies-and-gives-receipt、zaonian-riji-1966-11-17-police-shift-responsibility-xiaozuo-gets-books-at-dusk、zaonian-riji-1966-11-18-li-guojin-phone-and-refuses-illegal-letter-to-garrison、zaonian-riji-1966-11-21-talks-three-hours-with-li-guojin-at-grand-hotel、zaonian-riji-1966-11-21-bindery-talks-with-lou-officer-until-four、zaonian-riji-1966-12-21-second-precinct-sealed-book-room-fee-garrison-pays
   来源：李敖风流自传 / 367.《李敖告别文坛十书》 / line 3
-  补充来源：早年日记 / 004.二十年前的一些断片 / line 905；说明：陈平景手记补明11月9日上午李敖到雅江街35号装订厂监工，《乌鸦又叫了》毛坯约千册，《孙悟空和我》正在装订。；早年日记 / 004.二十年前的一些断片 / line 911；说明：陈平景手记补明二分局娄振岳率便衣到厂，称奉上级命查禁《乌鸦又叫了》《孙悟空和我》。；早年日记 / 004.二十年前的一些断片 / line 915；说明：陈平景手记补明郑文杰、市警局黄某到场，红色警车拉走《孙悟空和我》《乌鸦又叫了》及封面、海报等书料。；早年日记 / 004.二十年前的一些断片 / line 919；说明：陈平景手记补明李敖与陈平景被带到二分局，娄振岳讯至深夜，12时20分离开。；早年日记 / 004.二十年前的一些断片 / line 929；说明：陈平景手记补明二分局谈话中李敖要求出示警总命令、取得笔录、证明态度无不礼貌，并使“讯问”改为“谈话”。；早年日记 / 004.二十年前的一些断片 / line 935；说明：陈平景手记补明11月10日再赴雅江街35号，厂方与便衣监视紧张，不准带走任何东西。；早年日记 / 004.二十年前的一些断片 / line 939；说明：陈平景手记补明11月10日李敖与陈平景会合后到辅仁透气并辗转访友。；早年日记 / 004.二十年前的一些断片 / line 947；说明：陈平景手记补明11月10日晚李国瑾、曾先生与李敖初步接触，且此夜起警方派人住入装订厂。；早年日记 / 004.二十年前的一些断片 / line 953；说明：陈平景手记补明11月11日郑文杰命厂方装订四书，但蝴蝶页、封底字须涂掉，出厂须送警检查。；早年日记 / 004.二十年前的一些断片 / line 973；说明：1966年11月13日原记补明李敖为割除封面与小左大访工厂，驻厂警察拜托快装订。；早年日记 / 004.二十年前的一些断片 / line 983；说明：1966年11月14日原记补明李敖与李中校在博爱路美而廉谈后，赴装订厂与两名警察谈细节。；早年日记 / 004.二十年前的一些断片 / line 995；说明：1966年11月15日原记补明驻厂警察仍不肯放行，李敖再会郑文杰、娄振岳并取得准发书信。；早年日记 / 004.二十年前的一些断片 / line 1009；说明：1966年11月16日原记补明李敖在工厂晤警员张伟、寿先生，保警吴君帮忙打包。；早年日记 / 004.二十年前的一些断片 / line 1011；说明：1966年11月16日原记补明李敖取四书各四册，并应张伟要求付收据。；早年日记 / 004.二十年前的一些断片 / line 1021；说明：1966年11月17日原记补明警员互推责任，李敖留据先行，小左傍晚始取到书。
+  补充来源：早年日记 / 004.二十年前的一些断片 / line 905；说明：陈平景手记补明11月9日上午李敖到雅江街35号装订厂监工，《乌鸦又叫了》毛坯约千册，《孙悟空和我》正在装订。；早年日记 / 004.二十年前的一些断片 / line 911；说明：陈平景手记补明二分局娄振岳率便衣到厂，称奉上级命查禁《乌鸦又叫了》《孙悟空和我》。；早年日记 / 004.二十年前的一些断片 / line 915；说明：陈平景手记补明郑文杰、市警局黄某到场，红色警车拉走《孙悟空和我》《乌鸦又叫了》及封面、海报等书料。；早年日记 / 004.二十年前的一些断片 / line 919；说明：陈平景手记补明李敖与陈平景被带到二分局，娄振岳讯至深夜，12时20分离开。；早年日记 / 004.二十年前的一些断片 / line 929；说明：陈平景手记补明二分局谈话中李敖要求出示警总命令、取得笔录、证明态度无不礼貌，并使“讯问”改为“谈话”。；早年日记 / 004.二十年前的一些断片 / line 935；说明：陈平景手记补明11月10日再赴雅江街35号，厂方与便衣监视紧张，不准带走任何东西。；早年日记 / 004.二十年前的一些断片 / line 939；说明：陈平景手记补明11月10日李敖与陈平景会合后到辅仁透气并辗转访友。；早年日记 / 004.二十年前的一些断片 / line 947；说明：陈平景手记补明11月10日晚李国瑾、曾先生与李敖初步接触，且此夜起警方派人住入装订厂。；早年日记 / 004.二十年前的一些断片 / line 953；说明：陈平景手记补明11月11日郑文杰命厂方装订四书，但蝴蝶页、封底字须涂掉，出厂须送警检查。；早年日记 / 004.二十年前的一些断片 / line 973；说明：1966年11月13日原记补明李敖为割除封面与小左大访工厂，驻厂警察拜托快装订。；早年日记 / 004.二十年前的一些断片 / line 983；说明：1966年11月14日原记补明李敖与李中校在博爱路美而廉谈后，赴装订厂与两名警察谈细节。；早年日记 / 004.二十年前的一些断片 / line 995；说明：1966年11月15日原记补明驻厂警察仍不肯放行，李敖再会郑文杰、娄振岳并取得准发书信。；早年日记 / 004.二十年前的一些断片 / line 1009；说明：1966年11月16日原记补明李敖在工厂晤警员张伟、寿先生，保警吴君帮忙打包。；早年日记 / 004.二十年前的一些断片 / line 1011；说明：1966年11月16日原记补明李敖取四书各四册，并应张伟要求付收据。；早年日记 / 004.二十年前的一些断片 / line 1021；说明：1966年11月17日原记补明警员互推责任，李敖留据先行，小左傍晚始取到书。；早年日记 / 004.二十年前的一些断片 / line 1045；说明：1966年11月21日原记补明李敖与李中校谈三小时后，再去装订厂与娄警官等谈到4点。；早年日记 / 004.二十年前的一些断片 / line 1107；说明：1966年12月21日原记补明李敖去二分局拒绝出封书房房费，李中校答应由警总出钱。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/367.《李敖告别文坛十书》.txt
   数据：data/timeline-events-seventh-book.json#book7-1966-11-09-books-seized-at-yajiang-binding-factory
 - 1966年11月10日下午2时至3时半 | 李敖、陈平景再赴雅江街35号，见装订厂四面警卫、便衣监视
@@ -15844,9 +15870,9 @@
   标签：胡秋原、徐高阮、中华杂志、红帽
   视图：论战线、出版线
   作品：我最难忘的一位老师
-  交叉引用：zaonian-riji-1966-11-18-central-daily-runs-zhonghua-magazine-ad-accusing-communist
+  交叉引用：zaonian-riji-1966-11-18-central-daily-runs-zhonghua-magazine-ad-accusing-communist、zaonian-riji-1966-11-21-zuo-shunsheng-central-daily-article-seen-as-supporting-li-ao、zaonian-riji-1966-12-09-counterclaim-hu-case-rebukes-hu-qiuyuan-one-and-half-hours
   来源：李敖自传与回忆 / 003.我最难忘的一位老师 / line 242
-  补充来源：早年日记 / 004.二十年前的一些断片 / line 1039；说明：1966年11月18日原记补明《中央》登出《中华杂志》广告，李敖记被诬为“共产党”。
+  补充来源：早年日记 / 004.二十年前的一些断片 / line 1039；说明：1966年11月18日原记补明《中央》登出《中华杂志》广告，李敖记被诬为“共产党”。；早年日记 / 004.二十年前的一些断片 / line 1047；说明：1966年11月21日括注追记左舜生在《中央日报》发文主张提高言论自由容忍度，李敖认为显然为他而发，并说后来胡秋原大力攻击左舜生。；早年日记 / 004.二十年前的一些断片 / line 1103；说明：1966年12月9日原记补明李敖下午出反诉胡案庭，痛斥胡秋原一个半小时。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/003.我最难忘的一位老师.txt
   数据：data/timeline-events-first-book-supplement.json#1966-11-16-hu-qiuyuan-publishes-letter
 - 1966年11月16日 | 李敖取四书各四册，应张伟要求付收据
@@ -15961,9 +15987,9 @@
   标签：早年日记、二十年前的一些断片、中央、中华杂志、广告、共产党、诬陷、知识人、借刀杀人
   视图：论战线、政治线、出版线
   作品：早年日记、中华杂志、中央日报
-  交叉引用：1966-11-16-hu-qiuyuan-publishes-letter
+  交叉引用：1966-11-16-hu-qiuyuan-publishes-letter、zaonian-riji-1966-12-09-counterclaim-hu-case-rebukes-hu-qiuyuan-one-and-half-hours
   来源：早年日记 / 004.二十年前的一些断片 / line 1039
-  补充来源：-
+  补充来源：早年日记 / 004.二十年前的一些断片 / line 1103；说明：1966年12月9日原记补明李敖在反诉胡案庭上痛斥胡秋原一个半小时。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
   数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-11-18-central-daily-runs-zhonghua-magazine-ad-accusing-communist
 - 1966年11月18日晚至次日凌晨1时 | 李敖夜里包书至1时，陈平景、张平协同，随后痛责张平
@@ -15992,6 +16018,682 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
   数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-11-18-li-guojin-phone-and-refuses-illegal-letter-to-garrison
+- 1966年11月21日（1986年9月30日追记） | 左舜生在《中央日报》发表《记留台北三周的观感》，李敖追记其话显然为自己而发
+  精度：day；可靠度：confirmed；排序日期：1966-11-21
+  摘要：1966年11月21日，李敖记李中校盛言当天左舜生文字，认为其中指李敖而发，呼之欲出。1986年9月30日李敖追记说明，左舜生这天在《中央日报》发表《记留台北三周的观感》，主张对言论和书籍应提高容忍，不应以刀笔置少数人于死地；李敖追记说这些话显然是为他而发，难怪后来胡秋原要大力攻击左舜生。
+  人物：李敖、左舜生、李国瑾、胡秋原
+  地点：台北
+  标签：早年日记、二十年前的一些断片、1986追记、左舜生、中央日报、记留台北三周的观感、李中校、李国瑾、言论自由、书籍发行、胡秋原、仗义
+  视图：论战线、政治线、出版线、师友线
+  作品：早年日记、中央日报、记留台北三周的观感、左舜生选集
+  交叉引用：zaonian-riji-1966-09-04-early-morning-talk-with-zuo-shunsheng、1966-11-16-hu-qiuyuan-publishes-letter、wencun-1968-01-10-zuo-shunsheng-selected-works-preface
+  来源：早年日记 / 004.二十年前的一些断片 / line 1047
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-11-21-zuo-shunsheng-central-daily-article-seen-as-supporting-li-ao
+- 1966年11月21日4时后至夜 | 李敖与焕文南下沿途卖书，夜抵台中宿意文
+  精度：day；可靠度：confirmed；排序日期：1966-11-21
+  摘要：1966年11月21日下午4点后，李敖与焕文南下，沿途卖书，夜抵台中，宿意文。日记记书店、书摊老板说仰慕者颇多。这是11月22日至26日“环岛卖书记”的前奏，也说明被查扣后的书册仍需李敖亲自奔走销售。
+  人物：李敖、焕文、意文、书店老板、书摊老板
+  地点：台中、意文处
+  标签：早年日记、二十年前的一些断片、焕文、南下、沿途卖书、台中、意文、书店、书摊、仰慕者
+  视图：出版线、旅行线、师友线、日常线
+  作品：早年日记、李敖告别文坛十书
+  交叉引用：qianqiu-wansui-1966-11-05-051-publishes-farewell-literary-world-ten-books、zaonian-riji-1966-11-18-packs-books-until-one-with-pingjing-zhangping-and-rebukes-zhangping、zaonian-riji-1966-11-22-writes-letter-to-garrison-and-heads-south、zaonian-riji-1966-11-22-changhua-yuanlin-beigang-xiluo-chiayi-route、zaonian-riji-1966-11-22-bookstall-bosses-on-route-say-long-admired、zaonian-riji-1966-11-26-drives-to-hsinchu-after-dinner-and-returns-taipei-at-midnight
+  来源：早年日记 / 004.二十年前的一些断片 / line 1045
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-11-21-starts-southbound-book-selling-with-huanwen-to-taichung
+- 1966年11月21日下午至4时 | 李敖再去装订厂，与娄警官等谈到4点
+  精度：day；可靠度：confirmed；排序日期：1966-11-21
+  摘要：1966年11月21日，李敖在中国大饭店谈完后再去装订厂，与娄警官等谈到下午4点。娄警官应即前几日处理准发书信、笔录事的娄振岳，显示查扣后的装订厂交涉仍未完全结束。
+  人物：李敖、娄振岳
+  地点：装订厂
+  标签：早年日记、二十年前的一些断片、装订厂、娄警官、娄振岳、谈到4点、告别文坛十书
+  视图：出版线、司法线
+  作品：早年日记、李敖告别文坛十书
+  交叉引用：book7-1966-11-09-books-seized-at-yajiang-binding-factory、zaonian-riji-1966-11-15-fuyuan-letter-police-refuse-release-lou-issues-permit、zaonian-riji-1966-11-21-talks-three-hours-with-li-guojin-at-grand-hotel
+  来源：早年日记 / 004.二十年前的一些断片 / line 1045
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-11-21-bindery-talks-with-lou-officer-until-four
+- 1966年11月21日午后 | 李敖午后与李中校在中国大饭店八楼谈三小时
+  精度：day；可靠度：confirmed；排序日期：1966-11-21
+  摘要：1966年11月21日午后，李敖跟李中校在中国大饭店八楼谈三小时。结合前后日记，李中校即李国瑾，此谈仍属《告别文坛十书》查扣、放行和警总交涉后的延续。
+  人物：李敖、李国瑾
+  地点：中国大饭店
+  标签：早年日记、二十年前的一些断片、李中校、李国瑾、中国大饭店、八楼、三小时、警总交涉
+  视图：司法线、出版线、师友线
+  作品：早年日记、李敖告别文坛十书
+  交叉引用：zaonian-riji-1966-11-18-li-guojin-phone-and-refuses-illegal-letter-to-garrison、book7-1966-11-09-books-seized-at-yajiang-binding-factory
+  来源：早年日记 / 004.二十年前的一些断片 / line 1045
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-11-21-talks-three-hours-with-li-guojin-at-grand-hotel
+- 1966年11月21日晨 | 李敖晨访 Miles，并修车、见 H
+  精度：day；可靠度：confirmed；排序日期：1966-11-21
+  摘要：1966年11月21日星期一晨，李敖访 Miles，并修车，见 H。此日标题为“左舜生仗义”，但日记开端仍保留了修车与私交的日常行踪。
+  人物：李敖、Miles、H
+  地点：台北
+  标签：早年日记、二十年前的一些断片、Miles、修车、H、左舜生仗义
+  视图：情感线、日常线
+  作品：早年日记
+  交叉引用：zaonian-riji-1966-11-17-yulon-car-zhengfang-helps-and-night-meixin
+  来源：早年日记 / 004.二十年前的一些断片 / line 1041
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-11-21-morning-visits-miles-repairs-car-and-sees-h
+- 1966年11月22日台南 | 台南警察一早三次去万利书报社，称“最好不要卖李敖的书”
+  精度：day；可靠度：confirmed；排序日期：1966-11-22
+  摘要：1966年11月22日，李敖在台南得知警察干涉卖书情形颇严重：警察当天一早即去万利书报社三次，说“最好不要卖李敖的书”，致各书摊店皆不敢卖。此条是《告别文坛十书》查扣后地方销售被压制的直接现场。
+  人物：李敖、姜宗棠、警察
+  地点：台南、万利书报社
+  标签：早年日记、二十年前的一些断片、环岛卖书记、台南、警察、万利书报社、不要卖李敖的书、书摊店、告别文坛十书、禁书
+  视图：出版线、司法线、政治线
+  作品：早年日记、李敖告别文坛十书
+  交叉引用：1966-books-banned、qianqiu-wansui-1966-11-05-051-publishes-farewell-literary-world-ten-books、zaonian-riji-1966-11-22-tainan-meets-wang-shixian-and-jiang-zongtang
+  来源：早年日记 / 004.二十年前的一些断片 / line 1055
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-11-22-police-visit-wanli-three-times-warning-not-to-sell-li-ao-books
+- 1966年11月22日台南 | 李敖在台南见集贤书摊王世贤及万利书报社姜宗棠
+  精度：day；可靠度：confirmed；排序日期：1966-11-22
+  摘要：1966年11月22日，李敖到台南后，见集贤书摊王世贤及万利书报社姜宗棠，并由此得知当地警察干涉卖书情形颇严重。
+  人物：李敖、焕文、吴东明、王世贤、姜宗棠
+  地点：台南、集贤书摊、万利书报社
+  标签：早年日记、二十年前的一些断片、环岛卖书记、台南、集贤书摊、王世贤、万利书报社、姜宗棠、警察干涉
+  视图：出版线、司法线、旅行线
+  作品：早年日记、李敖告别文坛十书
+  交叉引用：zaonian-riji-1966-11-22-takes-wenyou-bookstore-wu-dongming-from-chiayi-to-tainan、zaonian-riji-1966-11-22-police-visit-wanli-three-times-warning-not-to-sell-li-ao-books
+  来源：早年日记 / 004.二十年前的一些断片 / line 1055
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-11-22-tainan-meets-wang-shixian-and-jiang-zongtang
+- 1966年11月22日白天 | 李敖抵彰化，与焕文入大黑佛肚中，又历员林、北港、西螺、嘉义
+  精度：day；可靠度：confirmed；排序日期：1966-11-22
+  摘要：1966年11月22日，李敖南下抵彰化，与焕文同入“大黑佛肚中”；再赴员林，买橘子吃。二人觅午饭不得，历北港、西螺、嘉义，到嘉义午饭时已下午4点。
+  人物：李敖、焕文
+  地点：彰化、员林、北港、西螺、嘉义
+  标签：早年日记、二十年前的一些断片、环岛卖书记、焕文、彰化、大黑佛、员林、橘子、北港、西螺、嘉义、午饭
+  视图：旅行线、师友线、日常线
+  作品：早年日记
+  交叉引用：zaonian-riji-1966-11-22-writes-letter-to-garrison-and-heads-south
+  来源：早年日记 / 004.二十年前的一些断片 / line 1055
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-11-22-changhua-yuanlin-beigang-xiluo-chiayi-route
+- 1966年11月22日白天 | 李敖沿途遇书摊老板，皆道久仰
+  精度：day；可靠度：confirmed；排序日期：1966-11-22
+  摘要：1966年11月22日，李敖与焕文历北港、西螺、嘉义等地，书摊老板皆道久仰之意。此条保留“环岛卖书”途中基层书摊对李敖的直接反应。
+  人物：李敖、焕文、书摊老板
+  地点：北港、西螺、嘉义
+  标签：早年日记、二十年前的一些断片、环岛卖书记、书摊老板、久仰、北港、西螺、嘉义、卖书
+  视图：出版线、公共形象线、旅行线
+  作品：早年日记、李敖告别文坛十书
+  交叉引用：qianqiu-wansui-1966-11-05-051-publishes-farewell-literary-world-ten-books、zaonian-riji-1966-11-21-starts-southbound-book-selling-with-huanwen-to-taichung
+  来源：早年日记 / 004.二十年前的一些断片 / line 1055
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-11-22-bookstall-bosses-on-route-say-long-admired
+- 1966年11月22日晚 | 萧孟能晚来长途电话
+  精度：day；可靠度：confirmed；排序日期：1966-11-22
+  摘要：1966年11月22日晚，萧孟能来长途电话。李敖此时正在环岛卖书途中，当晚已转至高雄。
+  人物：李敖、萧孟能
+  地点：高雄
+  标签：早年日记、二十年前的一些断片、环岛卖书记、萧孟能、长途电话、高雄
+  视图：师友线、出版线、旅行线
+  作品：早年日记
+  交叉引用：zaonian-riji-1966-11-22-kaohsiung-dancing-and-eight-rounds-of-cards
+  来源：早年日记 / 004.二十年前的一些断片 / line 1059
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-11-22-mengneng-long-distance-phone-call-at-night
+- 1966年11月22日晚，高雄 | 李敖转高雄，金开、沈遐祺、林紫耀请跳舞，后玩小牌八圈
+  精度：day；可靠度：confirmed；排序日期：1966-11-22
+  摘要：1966年11月22日，李敖旋转高雄。金开、沈遐祺、林紫耀请他跳舞；随后他与林紫耀、焕文、荫如玩小牌八圈。
+  人物：李敖、金开、沈遐祺、林紫耀、焕文、荫如
+  地点：高雄
+  标签：早年日记、二十年前的一些断片、环岛卖书记、高雄、金开、沈遐祺、林紫耀、焕文、荫如、跳舞、小牌八圈
+  视图：师友线、旅行线、日常线
+  作品：早年日记
+  交叉引用：zaonian-riji-1966-11-22-police-visit-wanli-three-times-warning-not-to-sell-li-ao-books、zaonian-riji-1966-11-23-jinkai-shen-xiaqi-ziyao-treat-lunch-at-houdefu
+  来源：早年日记 / 004.二十年前的一些断片 / line 1057
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-11-22-kaohsiung-dancing-and-eight-rounds-of-cards
+- 1966年11月22日晨 | 李敖晨起写信给警总，旋即南下
+  精度：day；可靠度：confirmed；排序日期：1966-11-22
+  摘要：1966年11月22日星期二，李敖晨起写信给警总，随即南下。这是“环岛卖书记”第一日的开端，接续前一日与焕文南下沿途卖书。
+  人物：李敖、焕文
+  地点：台湾中南部
+  标签：早年日记、二十年前的一些断片、环岛卖书记、警总、写信、南下、卖书
+  视图：司法线、出版线、旅行线
+  作品：早年日记、李敖告别文坛十书
+  交叉引用：zaonian-riji-1966-11-21-starts-southbound-book-selling-with-huanwen-to-taichung、zaonian-riji-1966-11-18-li-guojin-phone-and-refuses-illegal-letter-to-garrison
+  来源：早年日记 / 004.二十年前的一些断片 / line 1051
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-11-22-writes-letter-to-garrison-and-heads-south
+- 1966年11月22日路上 | 李敖路上见一公路局小姐，记其清秀动人
+  精度：day；可靠度：confirmed；排序日期：1966-11-22
+  摘要：1966年11月22日环岛卖书途中，李敖路上见一位公路局小姐，记她颇清秀动人。这是紧张卖书与警察干涉行程中的一个日常观察。
+  人物：李敖、公路局小姐
+  地点：台湾中南部路上
+  标签：早年日记、二十年前的一些断片、环岛卖书记、公路局小姐、清秀动人、路上
+  视图：日常线、旅行线
+  作品：早年日记
+  交叉引用：-
+  来源：早年日记 / 004.二十年前的一些断片 / line 1055
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-11-22-sees-pretty-highway-bureau-girl-on-road
+- 1966年11月22日嘉义至台南 | 李敖在嘉义“夹带”文友书局老板吴东明同去台南
+  精度：day；可靠度：confirmed；排序日期：1966-11-22
+  摘要：1966年11月22日，李敖在嘉义“夹带”文友书局老板吴东明同去台南。此条显示他环岛卖书并非只是拜访书摊，也把地方书局人脉带入下一站。
+  人物：李敖、焕文、吴东明
+  地点：嘉义、台南、文友书局
+  标签：早年日记、二十年前的一些断片、环岛卖书记、嘉义、文友书局、吴东明、台南、书局老板
+  视图：出版线、旅行线、师友线
+  作品：早年日记、李敖告别文坛十书
+  交叉引用：zaonian-riji-1966-11-22-bookstall-bosses-on-route-say-long-admired
+  来源：早年日记 / 004.二十年前的一些断片 / line 1055
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-11-22-takes-wenyou-bookstore-wu-dongming-from-chiayi-to-tainan
+- 1966年11月23日下午 | 荫如陪李敖修车，后决定小夫妇坐李敖车北返
+  精度：day；可靠度：confirmed；排序日期：1966-11-23
+  摘要：1966年11月23日下午，荫如陪李敖修车；后来决定小夫妇坐李敖的车北返。此条接续前几日裕隆取车、修车线，也预示后续返北路线中的同行者安排。
+  人物：李敖、荫如、小夫妇
+  地点：高雄
+  标签：早年日记、二十年前的一些断片、环岛卖书记、荫如、修车、小夫妇、北返、汽车
+  视图：师友线、旅行线、日常线
+  作品：早年日记
+  交叉引用：zaonian-riji-1966-11-17-yulon-car-zhengfang-helps-and-night-meixin、zaonian-riji-1966-11-21-morning-visits-miles-repairs-car-and-sees-h
+  来源：早年日记 / 004.二十年前的一些断片 / line 1065
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-11-23-yinru-accompanies-car-repair-and-couple-to-ride-north
+- 1966年11月23日中午 | 金开、沈遐祺、林紫耀三人请李敖于厚德福
+  精度：day；可靠度：confirmed；排序日期：1966-11-23
+  摘要：1966年11月23日中午，金开、沈遐祺、林紫耀三人请李敖在厚德福吃饭，接续前一夜高雄跳舞与打牌后的交游。
+  人物：李敖、金开、沈遐祺、林紫耀
+  地点：厚德福、高雄
+  标签：早年日记、二十年前的一些断片、环岛卖书记、金开、沈遐祺、林紫耀、厚德福、午饭
+  视图：师友线、旅行线、日常线
+  作品：早年日记
+  交叉引用：zaonian-riji-1966-11-22-kaohsiung-dancing-and-eight-rounds-of-cards
+  来源：早年日记 / 004.二十年前的一些断片 / line 1065
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-11-23-jinkai-shen-xiaqi-ziyao-treat-lunch-at-houdefu
+- 1966年11月23日午前 | 张平通长途电话与林紫耀谈生意，焕文介绍杨春海、陈福顺
+  精度：day；可靠度：confirmed；排序日期：1966-11-23
+  摘要：1966年11月23日午前，张平通长途电话，与林紫耀谈生意。焕文为李敖介绍励志杨老板春海，以及黎明（台北圆环）陈老板福顺，显示环岛卖书途中也在铺接书业、生意人脉。
+  人物：李敖、张平、林紫耀、焕文、杨春海、陈福顺
+  地点：高雄、台北圆环
+  标签：早年日记、二十年前的一些断片、环岛卖书记、张平、长途电话、林紫耀、谈生意、焕文、励志、杨春海、黎明、台北圆环、陈福顺
+  视图：出版线、师友线、财务线
+  作品：早年日记
+  交叉引用：zaonian-riji-1966-11-22-mengneng-long-distance-phone-call-at-night、zaonian-riji-1966-11-22-kaohsiung-dancing-and-eight-rounds-of-cards
+  来源：早年日记 / 004.二十年前的一些断片 / line 1065
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-11-23-zhangping-phone-ziyao-business-and-huanwen-introductions
+- 1966年11月23日晚饭后 | 李敖饭后去屏东，见环球书店老板，沈阳人田老板请咖啡
+  精度：day；可靠度：confirmed；排序日期：1966-11-23
+  摘要：1966年11月23日晚饭后，李敖去屏东，见环球书店老板；沈阳人田老板请他喝咖啡。此条延续环岛卖书的地方书店接触线。
+  人物：李敖、田老板、环球书店老板
+  地点：屏东、环球书店
+  标签：早年日记、二十年前的一些断片、环岛卖书记、屏东、环球书店、田老板、沈阳人、咖啡、书店老板
+  视图：出版线、旅行线、师友线
+  作品：早年日记、李敖告别文坛十书
+  交叉引用：qianqiu-wansui-1966-11-05-051-publishes-farewell-literary-world-ten-books、zaonian-riji-1966-11-22-tainan-meets-wang-shixian-and-jiang-zongtang
+  来源：早年日记 / 004.二十年前的一些断片 / line 1067
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-11-23-pingtung-universal-bookstore-boss-tian-serves-coffee
+- 1966年11月23日晨 | 李敖在大同之家住一夜，睡得极不舒服
+  精度：day；可靠度：confirmed；排序日期：1966-11-23
+  摘要：1966年11月23日，李敖记在大同之家住了一夜，睡得极不舒服。这是环岛卖书第二日的开端，保留了奔走卖书途中住宿状态的细节。
+  人物：李敖
+  地点：大同之家
+  标签：早年日记、二十年前的一些断片、环岛卖书记、大同之家、住宿、睡得不舒服
+  视图：旅行线、日常线
+  作品：早年日记
+  交叉引用：zaonian-riji-1966-11-22-kaohsiung-dancing-and-eight-rounds-of-cards
+  来源：早年日记 / 004.二十年前的一些断片 / line 1061
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-11-23-uncomfortable-night-at-datong-house
+- 1966年11月23日深夜至近4时 | 李敖开车抵四重溪、恒春觅旅社不果，深夜入垦丁又折返恒春投宿
+  精度：day；可靠度：confirmed；排序日期：1966-11-23
+  摘要：1966年11月23日，李敖饭后去屏东后再开车抵四重溪、恒春，皆觅旅社不果；深夜入垦丁，遇山而止，又折返恒春投宿，已夜近4时。
+  人物：李敖
+  地点：屏东、四重溪、恒春、垦丁
+  标签：早年日记、二十年前的一些断片、环岛卖书记、四重溪、恒春、垦丁、觅旅社、投宿、深夜、开车
+  视图：旅行线、日常线
+  作品：早年日记
+  交叉引用：zaonian-riji-1966-11-23-pingtung-universal-bookstore-boss-tian-serves-coffee、zaonian-riji-1966-11-24-noisy-hengchun-inn-and-long-distance-call-to-h
+  来源：早年日记 / 004.二十年前的一些断片 / line 1067
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-11-23-searches-lodging-at-sichongxi-hengchun-kenting-until-four
+- 1966年11月23日傍晚 | 李敖在凤山聚丰楼参加荫如夫妇回门酒，新娘二姐夫向他致敬
+  精度：day；可靠度：confirmed；排序日期：1966-11-23
+  摘要：1966年11月23日傍晚，李敖在凤山聚丰楼参加荫如夫妇回门酒。新娘二姐夫为官校二十八期第一名毕业者，向李敖殷殷致敬。
+  人物：李敖、荫如、荫如妻、新娘二姐夫
+  地点：凤山、聚丰楼
+  标签：早年日记、二十年前的一些断片、环岛卖书记、凤山、聚丰楼、荫如夫妇、回门酒、官校二十八期、致敬
+  视图：师友线、旅行线、日常线、公共形象线
+  作品：早年日记
+  交叉引用：zaonian-riji-1966-11-23-yinru-accompanies-car-repair-and-couple-to-ride-north
+  来源：早年日记 / 004.二十年前的一些断片 / line 1065
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-11-23-fengshan-jufenglou-yinru-couple-return-banquet
+- 1966年11月24日 | 李敖给台北邮局局长限时双挂存证信，警告其迟递书件
+  精度：day；可靠度：confirmed；排序日期：1966-11-24
+  摘要：1966年11月24日，李敖给台北邮局局长寄限时双挂存证信，警告他为什么迟递自己的书。恒春邮局局长颇以为问。此条显示《告别文坛十书》环岛销售期间，李敖也在追究邮递延误对书件流通的影响。
+  人物：李敖、台北邮局局长、恒春邮局局长
+  地点：恒春、台北
+  标签：早年日记、二十年前的一些断片、环岛卖书记、台北邮局局长、恒春邮局局长、限时双挂、存证信、迟递、书件、告别文坛十书
+  视图：出版线、司法线、旅行线
+  作品：早年日记、李敖告别文坛十书
+  交叉引用：qianqiu-wansui-1966-11-05-051-publishes-farewell-literary-world-ten-books、zaonian-riji-1966-11-22-writes-letter-to-garrison-and-heads-south
+  来源：早年日记 / 004.二十年前的一些断片 / line 1075
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-11-24-registered-letter-to-taipei-postmaster-over-delayed-books
+- 1966年11月24日上午至12时05分 | 李敖再赴垦丁公园，请湖北人许先生带路观国家公园内景
+  精度：day；可靠度：confirmed；排序日期：1966-11-24
+  摘要：1966年11月24日，李敖再赴垦丁公园，请到湖北人导游许先生带路，得观国家公园全部内景。他记山如国画中山，钟乳狭谷颇不恶；12点05分开始在山顶用望远镜看太平洋、巴士海峡及台湾海峡。
+  人物：李敖、许先生
+  地点：垦丁公园、太平洋、巴士海峡、台湾海峡
+  标签：早年日记、二十年前的一些断片、环岛卖书记、垦丁公园、许先生、湖北人、国家公园、钟乳狭谷、望远镜、太平洋、巴士海峡、台湾海峡
+  视图：旅行线、日常线
+  作品：早年日记
+  交叉引用：-
+  来源：早年日记 / 004.二十年前的一些断片 / line 1077
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-11-24-kenting-guide-xu-national-park-and-three-seas-view
+- 1966年11月24日下午2时后 | 李敖去鹅銮鼻，卧石栏看云，又到 Beach 看美国男女沙滩嬉戏
+  精度：day；可靠度：confirmed；排序日期：1966-11-24
+  摘要：1966年11月24日下午2点后，李敖去鹅銮鼻，记灯塔极美，建筑也颇欧化；他卧在石栏上看云，海风吹来，颇得开畅之乐。归途又去 Beach，看美国男女沙滩嬉戏，颇有感触。
+  人物：李敖、美国男女
+  地点：鹅銮鼻、Beach、恒春半岛
+  标签：早年日记、二十年前的一些断片、环岛卖书记、鹅銮鼻、灯塔、石栏、看云、海风、Beach、美国男女、沙滩
+  视图：旅行线、日常线
+  作品：早年日记
+  交叉引用：zaonian-riji-1966-11-24-kenting-guide-xu-national-park-and-three-seas-view
+  来源：早年日记 / 004.二十年前的一些断片 / line 1079
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-11-24-eluanbi-lighthouse-clouds-and-beach-americans
+- 1966年11月24日晚，知本 | 荫如夫妇为焕文祝生，李敖作陪
+  精度：day；可靠度：confirmed；排序日期：1966-11-24
+  摘要：1966年11月24日晚抵知本后，荫如夫妇为焕文祝生，李敖作陪。这条接续前一日决定小夫妇坐李敖车北返以及环岛同行关系。
+  人物：李敖、荫如、荫如妻、焕文
+  地点：知本、知本大饭店
+  标签：早年日记、二十年前的一些断片、环岛卖书记、荫如夫妇、焕文、祝生、知本
+  视图：师友线、旅行线、日常线
+  作品：早年日记
+  交叉引用：zaonian-riji-1966-11-23-yinru-accompanies-car-repair-and-couple-to-ride-north、zaonian-riji-1966-11-24-arrives-zhiben-grand-hotel-at-ten-thirty
+  来源：早年日记 / 004.二十年前的一些断片 / line 1081
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-11-24-yinru-couple-celebrates-huanwen-birthday-at-zhiben
+- 1966年11月24日晚，知本大饭店 | 李敖在知本第一次被按摩师按摩，并记温泉水清而无臭
+  精度：day；可靠度：confirmed；排序日期：1966-11-24
+  摘要：1966年11月24日晚，在知本大饭店，一位合肥籍按摩师来按摩，李敖记这是自己生平第一次被按摩师按摩。此人学按摩一年半，原为军人，1953年失明，每次按摩四十元。李敖又记知本温泉水清而无臭，颇好。
+  人物：李敖、合肥籍按摩师
+  地点：知本、知本大饭店
+  标签：早年日记、二十年前的一些断片、环岛卖书记、知本大饭店、按摩师、合肥籍、军人、失明、四十元、第一次按摩、温泉
+  视图：旅行线、健康线、日常线
+  作品：早年日记
+  交叉引用：zaonian-riji-1966-11-24-arrives-zhiben-grand-hotel-at-ten-thirty
+  来源：早年日记 / 004.二十年前的一些断片 / line 1081
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-11-24-first-massage-and-zhiben-hot-spring
+- 1966年11月24日晚10时半 | 李敖晚10时半抵知本，投宿知本大饭店
+  精度：day；可靠度：confirmed；排序日期：1966-11-24
+  摘要：1966年11月24日晚10点半，李敖方抵知本，投宿知本大饭店。他记饭店以耸立青山为背，建筑颇美，接续此前艰苦难行的山海路。
+  人物：李敖
+  地点：知本、知本大饭店
+  标签：早年日记、二十年前的一些断片、环岛卖书记、知本、知本大饭店、投宿、青山、建筑
+  视图：旅行线、日常线
+  作品：早年日记
+  交叉引用：zaonian-riji-1966-11-24-fenggang-takes-car-and-hard-mountain-sea-road-to-taitung、zaonian-riji-1966-11-25-zhiben-morning-light-and-rain-clouds
+  来源：早年日记 / 004.二十年前的一些断片 / line 1081
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-11-24-arrives-zhiben-grand-hotel-at-ten-thirty
+- 1966年11月24日晨 | 李敖晨记旅社极嘈杂，并给 H 长途电话
+  精度：day；可靠度：confirmed；排序日期：1966-11-24
+  摘要：1966年11月24日星期四晨，李敖记旅社极嘈杂。当天他又给 H 打长途电话，保留了环岛卖书途中住宿环境与情感联系的日常细节。
+  人物：李敖、H
+  地点：恒春
+  标签：早年日记、二十年前的一些断片、环岛卖书记、旅社、嘈杂、H、长途电话、恒春
+  视图：情感线、旅行线、日常线
+  作品：早年日记
+  交叉引用：zaonian-riji-1966-11-23-searches-lodging-at-sichongxi-hengchun-kenting-until-four
+  来源：早年日记 / 004.二十年前的一些断片 / line 1069
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-11-24-noisy-hengchun-inn-and-long-distance-call-to-h
+- 1966年11月24日傍晚至夜 | 李敖到枫港接车，傍晚赴台东途中遇生平仅见难行山海路
+  精度：day；可靠度：confirmed；排序日期：1966-11-24
+  摘要：1966年11月24日，李敖到枫港接车，并记枫港苍蝇极多。傍晚去台东途中，一开始山路晚景甚美，高山族亦多；后来突入崎路，难行程度生平仅见，左为高山、右为大海，中间是坏路与来去车，极艰苦难行。
+  人物：李敖
+  地点：枫港、台东途中、太平洋
+  标签：早年日记、二十年前的一些断片、环岛卖书记、枫港、接车、苍蝇、台东、山路、高山族、太平洋、坏路、艰苦难行
+  视图：旅行线、日常线
+  作品：早年日记
+  交叉引用：zaonian-riji-1966-11-23-yinru-accompanies-car-repair-and-couple-to-ride-north、zaonian-riji-1966-11-25-northbound-rivers-wading-and-car-repairs、zaonian-riji-1966-11-25-washboard-road-rail-bridge-and-yinru-car-trapped
+  来源：早年日记 / 004.二十年前的一些断片 / line 1081
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-11-24-fenggang-takes-car-and-hard-mountain-sea-road-to-taitung
+- 1966年11月25日 | 李敖思写《中国人的两性观》一书
+  精度：day；可靠度：confirmed；排序日期：1966-11-25
+  摘要：1966年11月25日，李敖记“思写《中国人的两性观》一书”。这是环岛卖书途中突然浮现的明确写作计划，应单独作为写作线保存。
+  人物：李敖
+  地点：知本
+  标签：早年日记、二十年前的一些断片、中国人的两性观、写作计划、两性观、写书念头
+  视图：写作线、思想线
+  作品：早年日记、中国人的两性观
+  交叉引用：-
+  来源：早年日记 / 004.二十年前的一些断片 / line 1087
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-11-25-thinks-of-writing-chinese-view-of-sexes
+- 1966年11月25日午后 | 李敖午后北上，路上过河四五处，下车涉水多次并修车
+  精度：day；可靠度：confirmed；排序日期：1966-11-25
+  摘要：1966年11月25日午后，李敖北上，路上过河四五处，车为之阻。他下车涉水多次并修车，记颇好玩，也冷冽。
+  人物：李敖
+  地点：台东至花莲途中
+  标签：早年日记、二十年前的一些断片、环岛卖书记、北上、过河、涉水、修车、冷冽
+  视图：旅行线、日常线
+  作品：早年日记
+  交叉引用：zaonian-riji-1966-11-24-fenggang-takes-car-and-hard-mountain-sea-road-to-taitung
+  来源：早年日记 / 004.二十年前的一些断片 / line 1091
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-11-25-northbound-rivers-wading-and-car-repairs
+- 1966年11月25日午后 | 李敖记洗衣板路与桥上铁轨路极多，荫如开车陷窄铁轨中
+  精度：day；可靠度：confirmed；排序日期：1966-11-25
+  摘要：1966年11月25日，李敖记路上“洗衣板路”及桥上铁轨路极多。荫如开车，车陷窄铁轨中，场面颇惊险。
+  人物：李敖、荫如
+  地点：台东至花莲途中
+  标签：早年日记、二十年前的一些断片、环岛卖书记、洗衣板路、铁轨路、荫如、开车、陷车、惊险
+  视图：旅行线、日常线
+  作品：早年日记
+  交叉引用：zaonian-riji-1966-11-25-northbound-rivers-wading-and-car-repairs
+  来源：早年日记 / 004.二十年前的一些断片 / line 1091
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-11-25-washboard-road-rail-bridge-and-yinru-car-trapped
+- 1966年11月25日午前 | 李敖午前抵台东，雨中逛胡铁花纪念碑
+  精度：day；可靠度：confirmed；排序日期：1966-11-25
+  摘要：1966年11月25日午前，李敖抵台东，在雨中逛胡铁花纪念碑。此条接续前一晚知本投宿和当天清晨雨景。
+  人物：李敖、胡铁花
+  地点：台东、胡铁花纪念碑
+  标签：早年日记、二十年前的一些断片、环岛卖书记、台东、胡铁花纪念碑、雨中
+  视图：旅行线、日常线
+  作品：早年日记
+  交叉引用：zaonian-riji-1966-11-25-zhiben-morning-light-and-rain-clouds
+  来源：早年日记 / 004.二十年前的一些断片 / line 1091
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-11-25-arrives-taitung-and-visits-hu-tiehua-monument-in-rain
+- 1966年11月25日近子夜 | 李敖近子夜抵花莲，住恒春大旅社并给 H 电报
+  精度：day；可靠度：confirmed；排序日期：1966-11-25
+  摘要：1966年11月25日近子夜，李敖抵花莲，住恒春大旅社，并给 H 发一封电报。此条接续前一日给 H 长途电话，显示环岛途中仍保持联系。
+  人物：李敖、H
+  地点：花莲、恒春大旅社
+  标签：早年日记、二十年前的一些断片、环岛卖书记、花莲、恒春大旅社、H、电报
+  视图：情感线、旅行线、日常线
+  作品：早年日记
+  交叉引用：zaonian-riji-1966-11-24-noisy-hengchun-inn-and-long-distance-call-to-h、zaonian-riji-1966-11-25-washboard-road-rail-bridge-and-yinru-car-trapped
+  来源：早年日记 / 004.二十年前的一些断片 / line 1093
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-11-25-arrives-hualien-near-midnight-and-telegrams-h
+- 1966年11月25日深夜至26日凌晨3时 | 因苏花公路不通，李敖决定改走横贯公路，深夜敲店门市衣修车至3时始睡
+  精度：day；可靠度：confirmed；排序日期：1966-11-25
+  摘要：1966年11月25日夜，因苏花公路不通，李敖决定改走横贯公路。他深夜敲店门市衣修车，夜3时始睡，为次日横贯公路返北作准备。
+  人物：李敖
+  地点：花莲、苏花公路、横贯公路
+  标签：早年日记、二十年前的一些断片、环岛卖书记、苏花公路、横贯公路、修车、深夜、3时始睡、花莲
+  视图：旅行线、日常线
+  作品：早年日记
+  交叉引用：zaonian-riji-1966-11-25-arrives-hualien-near-midnight-and-telegrams-h、zaonian-riji-1966-11-26-enters-cross-island-highway-tianxiang-dangerous-road、zaonian-riji-1966-11-26-drives-to-hsinchu-after-dinner-and-returns-taipei-at-midnight
+  来源：早年日记 / 004.二十年前的一些断片 / line 1093
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-11-25-suhua-closed-switches-to-cross-island-highway-and-repairs-car-until-three
+- 1966年11月25日清晨 | 李敖在知本见晨光甚美，又记雨云低垂山下树上
+  精度：day；可靠度：confirmed；排序日期：1966-11-25
+  摘要：1966年11月25日星期五，李敖记晨光甚美。清晨下雨，云低垂在山下树上，极美。这是环岛卖书记中由知本出发前的自然观察。
+  人物：李敖
+  地点：知本
+  标签：早年日记、二十年前的一些断片、环岛卖书记、知本、晨光、下雨、低云、风景
+  视图：旅行线、日常线
+  作品：早年日记
+  交叉引用：zaonian-riji-1966-11-24-arrives-zhiben-grand-hotel-at-ten-thirty
+  来源：早年日记 / 004.二十年前的一些断片 / line 1083
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-11-25-zhiben-morning-light-and-rain-clouds
+- 1966年11月26日 | 李敖在海拔二千六百米处见多处坍方，到大禹岭始有东西可买食
+  精度：day；可靠度：confirmed；排序日期：1966-11-26
+  摘要：1966年11月26日，李敖行至海拔二千六百米以上，见坍方有多处。大禹岭为最高点，他到那里才有东西可买来吃。
+  人物：李敖
+  地点：横贯公路、大禹岭
+  标签：早年日记、二十年前的一些断片、环岛卖书记、横贯公路、海拔二千六百米、坍方、大禹岭、买食
+  视图：旅行线、日常线
+  作品：早年日记
+  交叉引用：zaonian-riji-1966-11-26-enters-cross-island-highway-tianxiang-dangerous-road
+  来源：早年日记 / 004.二十年前的一些断片 / line 1097
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-11-26-landslides-at-2600-meters-and-dayuling-food
+- 1966年11月26日6时至7时半后 | 李敖6时即醒，7时半离花莲，过海星女中而生感
+  精度：day；可靠度：confirmed；排序日期：1966-11-26
+  摘要：1966年11月26日星期六，李敖6时即醒，7时半离花莲。大路上过海星女中，颇令他人生感不已。
+  人物：李敖
+  地点：花莲、海星女中
+  标签：早年日记、二十年前的一些断片、环岛卖书记、花莲、海星女中、早醒、离花莲
+  视图：旅行线、日常线
+  作品：早年日记
+  交叉引用：zaonian-riji-1966-11-25-arrives-hualien-near-midnight-and-telegrams-h
+  来源：早年日记 / 004.二十年前的一些断片 / line 1095
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-11-26-wakes-early-leaves-hualien-passes-stella-maris
+- 1966年11月26日上午 | 李敖入横贯公路，风景奇佳，过天祥后路亦惊险
+  精度：day；可靠度：confirmed；排序日期：1966-11-26
+  摘要：1966年11月26日，李敖旋入横贯公路，记风景奇佳；过天祥后，路也变得惊险。这是前一夜因苏花公路不通而改走横贯公路的实行。
+  人物：李敖
+  地点：横贯公路、天祥
+  标签：早年日记、二十年前的一些断片、环岛卖书记、横贯公路、天祥、风景、险路
+  视图：旅行线、日常线
+  作品：早年日记
+  交叉引用：zaonian-riji-1966-11-25-suhua-closed-switches-to-cross-island-highway-and-repairs-car-until-three、zaonian-riji-1966-11-26-wakes-early-leaves-hualien-passes-stella-maris
+  来源：早年日记 / 004.二十年前的一些断片 / line 1097
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-11-26-enters-cross-island-highway-tianxiang-dangerous-road
+- 1966年11月26日下午 | 李敖下午到梨山，梨山以下多下坡，由他直开抵平原
+  精度：day；可靠度：confirmed；排序日期：1966-11-26
+  摘要：1966年11月26日下午，李敖到梨山，记风光不恶。梨山以下多下坡，由李敖直开抵平原。
+  人物：李敖
+  地点：梨山、台湾中部
+  标签：早年日记、二十年前的一些断片、环岛卖书记、梨山、风光、下坡、开车、平原
+  视图：旅行线、日常线
+  作品：早年日记
+  交叉引用：zaonian-riji-1966-11-26-landslides-at-2600-meters-and-dayuling-food
+  来源：早年日记 / 004.二十年前的一些断片 / line 1097
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-11-26-arrives-lishan-and-drives-downhill-to-plain
+- 1966年11月26日晚至夜12时 | 李敖晚饭后一口气开至新竹，夜归北已12时
+  精度：day；可靠度：confirmed；排序日期：1966-11-26
+  摘要：1966年11月26日，李敖晚饭后一口气开至新竹；夜里归北时已是12时。至此，11月21日以来的“环岛卖书记”行程收束回台北。
+  人物：李敖
+  地点：新竹、台北
+  标签：早年日记、二十年前的一些断片、环岛卖书记、新竹、归北、台北、夜12时、开车
+  视图：旅行线、日常线
+  作品：早年日记
+  交叉引用：zaonian-riji-1966-11-26-arrives-lishan-and-drives-downhill-to-plain、zaonian-riji-1966-11-21-starts-southbound-book-selling-with-huanwen-to-taichung
+  来源：早年日记 / 004.二十年前的一些断片 / line 1097
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-11-26-drives-to-hsinchu-after-dinner-and-returns-taipei-at-midnight
+- 1966年12月9日上午 | 李敖上午出控徐余案庭，斥端木恺律师
+  精度：day；可靠度：confirmed；排序日期：1966-12-09
+  摘要：1966年12月9日上午，李敖出控徐复观、余纪忠案庭，并斥端木恺律师。此条是5月送状、9月地院判徐余皆无罪、10月高院上诉之后的又一次出庭现场。
+  人物：李敖、徐复观、余纪忠、端木恺
+  地点：台北
+  标签：早年日记、二十年前的一些断片、徐余案、徐复观、余纪忠、端木恺、律师、出庭、控告
+  视图：司法线、论战线
+  作品：早年日记
+  交叉引用：zaonian-riji-1966-05-07-files-complaint-against-xu-fuguan-yu-jizhong-and-visits-united-daily、zaonian-riji-1966-09-09-taipei-district-court-acquits-xu-fuguan-yu-jizhong、zaonian-riji-1966-10-12-high-court-appeal-xu-yu-yu-jizhong-party-meeting-excuse、zaonian-riji-1966-12-26-xu-case-appeal-dismissed-and-judicial-darkness-feeling
+  来源：早年日记 / 004.二十年前的一些断片 / line 1099
+  补充来源：早年日记 / 004.二十年前的一些断片 / line 1119；说明：1966年12月26日原记补明“控徐等案上诉驳回”，且李敖在法院涌现“司法黑暗”之念。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-12-09-appears-in-xu-yu-case-and-rebukes-duanmu-kai
+- 1966年12月9日下午 | 李敖下午出反诉胡案庭，痛斥胡秋原一个半小时，推事为之动容
+  精度：day；可靠度：confirmed；排序日期：1966-12-09
+  摘要：1966年12月9日下午，李敖出反诉胡案庭，痛斥胡秋原一个半小时，推事为之动容。此条承接胡秋原对李敖的诽谤控告、11月《中华杂志》攻击，以及后来长期延伸至胡秋原判赔的官司链。
+  人物：李敖、胡秋原、推事
+  地点：台北
+  标签：早年日记、二十年前的一些断片、反诉胡案、胡秋原、痛斥、推事、动容、出庭、官司
+  视图：司法线、论战线、政治线
+  作品：早年日记
+  交叉引用：traditional-monologue-1963-08-16-if-i-were-a-woman-post-publication-backlash-note、1966-11-16-hu-qiuyuan-publishes-letter、zaonian-riji-1966-11-18-central-daily-runs-zhonghua-magazine-ad-accusing-communist、book7-1999-08-27-hu-qiuyuan-loses-final-appeal-and-must-pay-li-ao
+  来源：早年日记 / 004.二十年前的一些断片 / line 1103
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-12-09-counterclaim-hu-case-rebukes-hu-qiuyuan-one-and-half-hours
+- 1966年12月21日 | 李敖去光逖处留片，下午去裕隆保养车
+  精度：day；可靠度：confirmed；排序日期：1966-12-21
+  摘要：1966年12月21日，李敖去光逖处留片。下午，他去裕隆保养车，接续11月以来买车、修车、环岛卖书之后的汽车维护线。
+  人物：李敖、光逖
+  地点：裕隆、台北
+  标签：早年日记、二十年前的一些断片、光逖、留片、裕隆、保养车、汽车
+  视图：师友线、日常线、旅行线
+  作品：早年日记
+  交叉引用：zaonian-riji-1966-11-17-yulon-car-zhengfang-helps-and-night-meixin、zaonian-riji-1966-11-26-drives-to-hsinchu-after-dinner-and-returns-taipei-at-midnight
+  来源：早年日记 / 004.二十年前的一些断片 / line 1111
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-12-21-leaves-photo-at-guangti-and-maintains-car-at-yulon
+- 1966年12月21日 | 李敖去李律师处二次，并送李律师书四册
+  精度：day；可靠度：confirmed；排序日期：1966-12-21
+  摘要：1966年12月21日，李敖去李律师处两次，并送李律师书四册。此事接续12月9日出庭后与律师的往来，也保留《告别文坛十书》余波中的送书细节。
+  人物：李敖、李律师
+  地点：台北
+  标签：早年日记、二十年前的一些断片、李律师、送书、四册、出庭后、告别文坛十书
+  视图：司法线、出版线、师友线
+  作品：早年日记、李敖告别文坛十书
+  交叉引用：zaonian-riji-1966-12-09-appears-in-xu-yu-case-and-rebukes-duanmu-kai、qianqiu-wansui-1966-11-05-051-publishes-farewell-literary-world-ten-books
+  来源：早年日记 / 004.二十年前的一些断片 / line 1109
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-12-21-visits-lawyer-li-twice-and-gives-four-books
+- 1966年12月21日上午 | 李敖又去二分局，与郑局长、娄警官谈封书房房费，李中校答应由警总出钱
+  精度：day；可靠度：confirmed；排序日期：1966-12-21
+  摘要：1966年12月21日上午，李敖又去二分局，与郑局长、娄警官“打开窗子说话”。他拒绝出封书房之房费；结果娄警官与李中校通电话，李中校答应由警总出钱。这是11月雅江街查扣和封书房之后的费用善后细节。
+  人物：李敖、郑局长、娄振岳、李国瑾
+  地点：二分局
+  标签：早年日记、二十年前的一些断片、二分局、郑局长、娄警官、娄振岳、李中校、李国瑾、封书房、房费、警总、告别文坛十书
+  视图：司法线、出版线、财务线
+  作品：早年日记、李敖告别文坛十书
+  交叉引用：book7-1966-11-09-books-seized-at-yajiang-binding-factory、1966-books-banned、zaonian-riji-1966-11-15-fuyuan-letter-police-refuse-release-lou-issues-permit、zaonian-riji-1966-11-21-bindery-talks-with-lou-officer-until-four
+  来源：早年日记 / 004.二十年前的一些断片 / line 1105
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-12-21-second-precinct-sealed-book-room-fee-garrison-pays
+- 1966年12月21日夜 | 李敖夜在 Oasis 与 H 晚饭
+  精度：day；可靠度：confirmed；排序日期：1966-12-21
+  摘要：1966年12月21日夜，李敖在 Oasis 与 H 晚饭。此条接续11月下旬环岛途中给 H 电话、电报，以及12月21日白天司法善后和日常事务后的情感线。
+  人物：李敖、H
+  地点：Oasis
+  标签：早年日记、二十年前的一些断片、Oasis、H、晚饭
+  视图：情感线、日常线
+  作品：早年日记
+  交叉引用：zaonian-riji-1966-11-24-noisy-hengchun-inn-and-long-distance-call-to-h、zaonian-riji-1966-11-25-arrives-hualien-near-midnight-and-telegrams-h
+  来源：早年日记 / 004.二十年前的一些断片 / line 1113
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-12-21-dinner-with-h-at-oasis
+- 1966年12月26日 | 李敖控徐等案上诉驳回，并在法院涌现“司法黑暗”之念
+  精度：day；可靠度：confirmed；排序日期：1966-12-26
+  摘要：1966年12月26日，李敖记下“控徐等案上诉驳回”。同日在法院，他不断涌现“司法黑暗”之念；这是5月控徐复观、余纪忠案，9月地院判徐、余皆无罪，10月高院上诉，12月9日再出庭之后的上诉结果。
+  人物：李敖、徐复观、余纪忠
+  地点：法院
+  标签：早年日记、二十年前的一些断片、徐余案、徐复观、余纪忠、上诉驳回、司法黑暗
+  视图：司法线、论战线
+  作品：早年日记
+  交叉引用：zaonian-riji-1966-05-07-files-complaint-against-xu-fuguan-yu-jizhong-and-visits-united-daily、zaonian-riji-1966-09-09-taipei-district-court-acquits-xu-fuguan-yu-jizhong、zaonian-riji-1966-10-12-high-court-appeal-xu-yu-yu-jizhong-party-meeting-excuse、zaonian-riji-1966-12-09-appears-in-xu-yu-case-and-rebukes-duanmu-kai
+  来源：早年日记 / 004.二十年前的一些断片 / line 1119
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-12-26-xu-case-appeal-dismissed-and-judicial-darkness-feeling
+- 1966年12月26日上午 | 法官到庭后不开李敖庭，李敖起立质问才发现卷宗未带
+  精度：day；可靠度：confirmed；排序日期：1966-12-26
+  摘要：1966年12月26日上午，曹圣芬案法官到后竟不开李敖的庭，审过两案后李敖起立质问；法官作无奈状，命女书记官下去拿卷，李敖发现卷宗都未带来。后来男书记官来，才开庭；庭讯照例废话一阵，约半小时。
+  人物：李敖、曹圣芬、法官、女书记官、男书记官
+  地点：法院
+  标签：早年日记、二十年前的一些断片、曹圣芬、法院、法官、书记官、卷宗、开庭、司法黑暗
+  视图：司法线
+  作品：早年日记
+  交叉引用：zaonian-riji-1966-12-26-cao-shengfen-court-delayed-plainclothes-checks-arrival、zaonian-riji-1966-08-30-central-daily-ad-negotiation-shang-zhong-cao-shengfen、qianqiu-wansui-1982-11-07-032-writes-shekou-and-rose
+  来源：早年日记 / 004.二十年前的一些断片 / line 1117
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-12-26-judge-skips-li-court-li-questions-and-file-not-brought
+- 1966年12月26日下午至晚间 | 陈彦增来访，李敖看病后在 R.M. 晚饭并回家做工
+  精度：day；可靠度：confirmed；排序日期：1966-12-26
+  摘要：1966年12月26日下午，陈彦增来。李敖看病，晚饭于 R.M.，随后回家做工。他还记下近三天工作不恶，应当以不断与大量的方式持之以恒。
+  人物：李敖、陈彦增
+  地点：R.M.
+  标签：早年日记、二十年前的一些断片、陈彦增、看病、R.M.、晚饭、做工、日常
+  视图：生活线、写作线
+  作品：早年日记
+  交叉引用：-
+  来源：早年日记 / 004.二十年前的一些断片 / line 1123
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-12-26-yanzeng-visits-sees-doctor-dinner-at-rm-and-work
+- 1966年12月26日晨8时30分至9时30分后 | 李敖出控曹圣芬庭，法院便衣持册查其到否且延后开庭
+  精度：day；可靠度：confirmed；排序日期：1966-12-26
+  摘要：1966年12月26日晨8点30分，李敖出控曹圣芬庭；传票上他列第一名且庭期为8点30分，但到9点30分后才开庭。一开始法院一名便衣持油印册向法警查李敖是否已到，册上有四个庭号，李敖判断似乎皆为有关之庭。
+  人物：李敖、曹圣芬、便衣、法警
+  地点：法院
+  标签：早年日记、二十年前的一些断片、曹圣芬、出庭、法院、便衣、传票、司法黑暗
+  视图：司法线、论战线
+  作品：早年日记
+  交叉引用：zaonian-riji-1966-12-26-judge-skips-li-court-li-questions-and-file-not-brought、zaonian-riji-1966-08-30-central-daily-ad-negotiation-shang-zhong-cao-shengfen、qianqiu-wansui-1982-11-07-032-writes-shekou-and-rose
+  来源：早年日记 / 004.二十年前的一些断片 / line 1117
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-12-26-cao-shengfen-court-delayed-plainclothes-checks-arrival
+- 1966年12月26日傍晚 | 李敖电小左得知基隆又禁卖李敖书，李中校答应去电解决
+  精度：day；可靠度：confirmed；排序日期：1966-12-26
+  摘要：1966年12月26日傍晚，李敖打电话给小左，得知基隆方面又发生禁卖李敖书之事。小左已致电李中校，李中校答应去电解决；这是11月《李敖告别文坛十书》查扣、南下卖书途中万利书局遭警告，以及12月21日二分局封书房费用善后之后的禁卖书后续。
+  人物：李敖、小左、李国瑾
+  地点：基隆
+  标签：早年日记、二十年前的一些断片、小左、李中校、李国瑾、基隆、禁卖、禁书、李敖书、告别文坛十书
+  视图：出版线、司法线
+  作品：早年日记、李敖告别文坛十书
+  交叉引用：1966-books-banned、qianqiu-wansui-1966-11-05-051-publishes-farewell-literary-world-ten-books、zaonian-riji-1966-11-22-police-visit-wanli-three-times-warning-not-to-sell-li-ao-books、zaonian-riji-1966-12-21-second-precinct-sealed-book-room-fee-garrison-pays
+  来源：早年日记 / 004.二十年前的一些断片 / line 1125
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
+  数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-12-26-keelung-ban-selling-li-ao-books-xiaozuo-li-guojin-call
 - 1966年 | 多部李敖著作被查禁
   精度：year；可靠度：broad；排序日期：1966-01-01
   摘要：1966年，《孙逸仙和中国西化医学》《传统下的独白》《历史与人像》《为中国思想趋向求答案》《教育与脸谱》等书被查禁。
@@ -16000,9 +16702,9 @@
   标签：待校日、禁书、文星、警总
   视图：出版线、论战线
   作品：“北土非吾愿，东林怀我师”
-  交叉引用：zaonian-riji-1966-07-22-mengneng-brings-garrison-big-ban-list-six-books、zaonian-riji-1966-07-23-taichung-printer-refuses-new-book-after-ban-list、zaonian-riji-1966-08-25-third-printer-refuses-to-print-li-ao-book、zaonian-riji-1966-10-11-motor-vehicle-office-haircut-xiaozuo-and-garrison-at-printer、book7-1966-11-09-books-seized-at-yajiang-binding-factory、zaonian-riji-1966-11-09-yajiang-factory-supervision-and-searches-new-factory、zaonian-riji-1966-11-09-new-factory-cart-moves-also-love-letters-and-dont-shout、zaonian-riji-1966-11-09-lou-zhenyue-plainclothes-ban-wuya-sun-wukong、zaonian-riji-1966-11-09-zheng-wenjie-huang-police-cars-seize-books-covers-posters、zaonian-riji-1966-11-09-taken-to-second-precinct-questioned-until-after-midnight、zaonian-riji-1966-11-09-second-precinct-talk-notes-id-order-transcript-politeness、zaonian-riji-1966-11-10-yajiang-factory-under-plainclothes-surveillance、zaonian-riji-1966-11-10-pingjing-leaves-factory-under-three-plainclothes-eyes、zaonian-riji-1966-11-10-pingjing-li-ao-meet-near-guocui-drive-to-fujen-and-visit-friends、zaonian-riji-1966-11-10-li-guojin-zeng-contact-li-ao-and-police-move-into-bindery、zaonian-riji-1966-11-11-zheng-orders-four-books-bound-with-flaps-and-back-covers-blacked、zaonian-riji-1966-11-11-meierlian-dinner-movie-and-joke-about-dushuren、zaonian-riji-1966-11-13-cover-cutting-factory-visits-and-police-ask-fast-binding、zaonian-riji-1966-11-14-garrison-demands-zhix-deletion-li-guojin-denies、zaonian-riji-1966-11-15-fuyuan-letter-police-refuse-release-lou-issues-permit、zaonian-riji-1966-11-16-receives-four-subpoenas-and-plans-hospital-exam、zaonian-riji-1966-11-18-li-guojin-phone-and-refuses-illegal-letter-to-garrison、zaonian-riji-1966-11-16-modern-publishes-kmt-anti-li-special-issue
+  交叉引用：zaonian-riji-1966-07-22-mengneng-brings-garrison-big-ban-list-six-books、zaonian-riji-1966-07-23-taichung-printer-refuses-new-book-after-ban-list、zaonian-riji-1966-08-25-third-printer-refuses-to-print-li-ao-book、zaonian-riji-1966-10-11-motor-vehicle-office-haircut-xiaozuo-and-garrison-at-printer、book7-1966-11-09-books-seized-at-yajiang-binding-factory、zaonian-riji-1966-11-09-yajiang-factory-supervision-and-searches-new-factory、zaonian-riji-1966-11-09-new-factory-cart-moves-also-love-letters-and-dont-shout、zaonian-riji-1966-11-09-lou-zhenyue-plainclothes-ban-wuya-sun-wukong、zaonian-riji-1966-11-09-zheng-wenjie-huang-police-cars-seize-books-covers-posters、zaonian-riji-1966-11-09-taken-to-second-precinct-questioned-until-after-midnight、zaonian-riji-1966-11-09-second-precinct-talk-notes-id-order-transcript-politeness、zaonian-riji-1966-11-10-yajiang-factory-under-plainclothes-surveillance、zaonian-riji-1966-11-10-pingjing-leaves-factory-under-three-plainclothes-eyes、zaonian-riji-1966-11-10-pingjing-li-ao-meet-near-guocui-drive-to-fujen-and-visit-friends、zaonian-riji-1966-11-10-li-guojin-zeng-contact-li-ao-and-police-move-into-bindery、zaonian-riji-1966-11-11-zheng-orders-four-books-bound-with-flaps-and-back-covers-blacked、zaonian-riji-1966-11-11-meierlian-dinner-movie-and-joke-about-dushuren、zaonian-riji-1966-11-13-cover-cutting-factory-visits-and-police-ask-fast-binding、zaonian-riji-1966-11-14-garrison-demands-zhix-deletion-li-guojin-denies、zaonian-riji-1966-11-15-fuyuan-letter-police-refuse-release-lou-issues-permit、zaonian-riji-1966-11-16-receives-four-subpoenas-and-plans-hospital-exam、zaonian-riji-1966-11-18-li-guojin-phone-and-refuses-illegal-letter-to-garrison、zaonian-riji-1966-11-16-modern-publishes-kmt-anti-li-special-issue、zaonian-riji-1966-11-22-police-visit-wanli-three-times-warning-not-to-sell-li-ao-books、zaonian-riji-1966-12-21-second-precinct-sealed-book-room-fee-garrison-pays、zaonian-riji-1966-12-26-keelung-ban-selling-li-ao-books-xiaozuo-li-guojin-call
   来源：李敖自传与回忆 / 005.“北土非吾愿，东林怀我师” / line 755
-  补充来源：早年日记 / 004.二十年前的一些断片 / line 603；说明：1966年7月22日原记萧孟能送来警总“大禁书单”，其中包括李敖六种著作。；早年日记 / 004.二十年前的一些断片 / line 611；说明：1966年7月23日原记台中印刷厂因警总大禁书拒印李敖新作。；早年日记 / 004.二十年前的一些断片 / line 695；说明：1966年8月25日原记第三个印刷厂拒绝印李敖的书，延续7月警总禁书后的拒印压力。；早年日记 / 004.二十年前的一些断片 / line 841；说明：1966年10月11日原记李敖从小左处得知警总已派人去印刷厂，延续禁书与拒印压力。；早年日记 / 004.二十年前的一些断片 / line 911；说明：1966年11月9日陈平景手记补明二分局称奉上级命查禁《乌鸦又叫了》《孙悟空和我》。；早年日记 / 004.二十年前的一些断片 / line 915；说明：1966年11月9日陈平景手记补明红色警车拉走《孙悟空和我》《乌鸦又叫了》及封面、海报等书料。；早年日记 / 004.二十年前的一些断片 / line 935；说明：1966年11月10日陈平景手记补明雅江街35号装订厂四面警卫、便衣监视，不准带走任何东西。；早年日记 / 004.二十年前的一些断片 / line 953；说明：1966年11月11日陈平景手记补明四书须涂掉蝴蝶页、封底字，出厂须送警检查。；早年日记 / 004.二十年前的一些断片 / line 973；说明：1966年11月13日原记补明驻厂警察仍看守装订厂，并拜托李敖快装订。；早年日记 / 004.二十年前的一些断片 / line 981；说明：1966年11月14日原记补明警总一度传出连“之×”字样也得删去。；早年日记 / 004.二十年前的一些断片 / line 995；说明：1966年11月15日原记补明驻厂警察仍不放行，李敖向郑文杰、娄振岳再作交涉。；早年日记 / 004.二十年前的一些断片 / line 1013；说明：1966年11月16日原记补明李敖连接传票四纸，拟全部请假。；早年日记 / 004.二十年前的一些断片 / line 1015；说明：1966年11月16日下的1986年9月30日追记称《现代》是国民党当时赶出的批李专刊。；早年日记 / 004.二十年前的一些断片 / line 1031；说明：1966年11月18日原记补明李敖再去警总，拒绝写他认为违法的信。
+  补充来源：早年日记 / 004.二十年前的一些断片 / line 603；说明：1966年7月22日原记萧孟能送来警总“大禁书单”，其中包括李敖六种著作。；早年日记 / 004.二十年前的一些断片 / line 611；说明：1966年7月23日原记台中印刷厂因警总大禁书拒印李敖新作。；早年日记 / 004.二十年前的一些断片 / line 695；说明：1966年8月25日原记第三个印刷厂拒绝印李敖的书，延续7月警总禁书后的拒印压力。；早年日记 / 004.二十年前的一些断片 / line 841；说明：1966年10月11日原记李敖从小左处得知警总已派人去印刷厂，延续禁书与拒印压力。；早年日记 / 004.二十年前的一些断片 / line 911；说明：1966年11月9日陈平景手记补明二分局称奉上级命查禁《乌鸦又叫了》《孙悟空和我》。；早年日记 / 004.二十年前的一些断片 / line 915；说明：1966年11月9日陈平景手记补明红色警车拉走《孙悟空和我》《乌鸦又叫了》及封面、海报等书料。；早年日记 / 004.二十年前的一些断片 / line 935；说明：1966年11月10日陈平景手记补明雅江街35号装订厂四面警卫、便衣监视，不准带走任何东西。；早年日记 / 004.二十年前的一些断片 / line 953；说明：1966年11月11日陈平景手记补明四书须涂掉蝴蝶页、封底字，出厂须送警检查。；早年日记 / 004.二十年前的一些断片 / line 973；说明：1966年11月13日原记补明驻厂警察仍看守装订厂，并拜托李敖快装订。；早年日记 / 004.二十年前的一些断片 / line 981；说明：1966年11月14日原记补明警总一度传出连“之×”字样也得删去。；早年日记 / 004.二十年前的一些断片 / line 995；说明：1966年11月15日原记补明驻厂警察仍不放行，李敖向郑文杰、娄振岳再作交涉。；早年日记 / 004.二十年前的一些断片 / line 1013；说明：1966年11月16日原记补明李敖连接传票四纸，拟全部请假。；早年日记 / 004.二十年前的一些断片 / line 1015；说明：1966年11月16日下的1986年9月30日追记称《现代》是国民党当时赶出的批李专刊。；早年日记 / 004.二十年前的一些断片 / line 1031；说明：1966年11月18日原记补明李敖再去警总，拒绝写他认为违法的信。；早年日记 / 004.二十年前的一些断片 / line 1055；说明：1966年11月22日原记补明台南警察一早三次去万利书报社，说“最好不要卖李敖的书”，致各书摊店皆不敢卖。；早年日记 / 004.二十年前的一些断片 / line 1107；说明：1966年12月21日原记补明封书房房费善后，由李中校答应警总出钱。；早年日记 / 004.二十年前的一些断片 / line 1125；说明：1966年12月26日原记补明基隆方面又发生禁卖李敖书之事，小左已电李中校，李中校答应去电解决。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/005.“北土非吾愿，东林怀我师”.txt
   数据：data/timeline-events-first-book-broad.json#1966-books-banned
 - 1966年2月前后（《韩福瑞和他的思想》出版前） | 李敖代写萧孟能《关于韩福瑞和他的思想》序文，并参与小册编成
@@ -16641,9 +17343,9 @@
   标签：左舜生选集、序、1968、李敖文存
   视图：写作线、作品线、交游线
   作品：左舜生选集、《左舜生选集》序、李敖文存
-  交叉引用：-
+  交叉引用：zaonian-riji-1966-09-04-early-morning-talk-with-zuo-shunsheng、zaonian-riji-1966-11-21-zuo-shunsheng-central-daily-article-seen-as-supporting-li-ao
   来源：李敖文存 / 017.《左舜生选集》序 / line 25
-  补充来源：-
+  补充来源：早年日记 / 004.二十年前的一些断片 / line 1047；说明：1966年11月21日原记及1986追记补明左舜生在《中央日报》发文，李敖认为其言论显然为自己而发。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/004.李敖文存/017.《左舜生选集》序.txt
   数据：data/timeline-events-wencun.json#wencun-1968-01-10-zuo-shunsheng-selected-works-preface
 - 1968年1月11日 | 李敖写《名家文库》小引
@@ -21700,9 +22402,9 @@
   标签：早年日记、四席小屋日记、前记、退伍、新生南路、研究所、四席小屋
   视图：写作线、整理线、日记线
   作品：早年日记、十三年和十三月、李敖千秋评论丛书、霸王·骆马·人、无所逃
-  交叉引用：1961-02-06-return-warship、1961-02-15-return-ntu、book5-1961-02-17-rents-four-mat-room
+  交叉引用：1961-02-06-return-warship、1961-02-15-return-ntu、book5-1961-02-17-rents-four-mat-room、zaonian-riji-1961-06-15-xinhan-accompanies-move
   来源：早年日记 / 003.四席小屋日记 / line 3
-  补充来源：-
+  补充来源：早年日记 / 003.四席小屋日记 / line 1943；说明：1961年6月15日原记补明景新汉陪李敖搬家，是四席小屋时代结束、转向新店乡居的末段细节。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/003.四席小屋日记.txt
   数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1982-07-28-prefaces-four-mat-room-diary
 - 1982年8月1日 | 《千秋评论》第12期《牛刀·警察·抓》出版
@@ -21843,9 +22545,9 @@
   标签：千秋万岁乌鸦求是合集、蛇口与玫瑰、中央日报、中华日报、自由中国、曹圣芬、1982
   视图：写作线、政治线、考证线
   作品：千秋万岁乌鸦求是合集、“蛇口”与“玫瑰”、给秦孝仪先生上一课、停止强奸孔夫子！
-  交叉引用：qianqiu-wansui-1982-04-26-057-p21o2ui1pfl6g20n4vfeyfeorni
+  交叉引用：qianqiu-wansui-1982-04-26-057-p21o2ui1pfl6g20n4vfeyfeorni、zaonian-riji-1966-12-26-cao-shengfen-court-delayed-plainclothes-checks-arrival、zaonian-riji-1966-12-26-judge-skips-li-court-li-questions-and-file-not-brought
   来源：千秋万岁乌鸦求是合集 / 032.“蛇口”与“玫瑰” / line 83
-  补充来源：-
+  补充来源：早年日记 / 004.二十年前的一些断片 / line 1117；说明：1966年12月26日原记补出李敖控曹圣芬庭：传票8点30分，法院便衣持册查其到否，9点30分后始开。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/032.“蛇口”与“玫瑰”.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1982-11-07-032-writes-shekou-and-rose
 - 1982-11-11 | 行政院称绿岛政治犯缺乏悛悔实据
@@ -34266,9 +34968,9 @@
   标签：胡秋原、联合报、判赔确定、官司、1999年8月27日
   视图：司法线、恩仇线、媒体线
   作品：联合报、李敖风流自传
-  交叉引用：book7-1999-12-02-hu-qiuyuan-pays-927261-and-li-ao-removes-seal
+  交叉引用：book7-1999-12-02-hu-qiuyuan-pays-927261-and-li-ao-removes-seal、zaonian-riji-1966-12-09-counterclaim-hu-case-rebukes-hu-qiuyuan-one-and-half-hours
   来源：李敖风流自传 / 332.胡秋原赔了五分之一退休金给我 / line 3
-  补充来源：-
+  补充来源：早年日记 / 004.二十年前的一些断片 / line 1103；说明：1966年12月9日原记补明李敖在反诉胡案庭痛斥胡秋原一个半小时，是后来胡秋原官司链的早期庭审现场之一。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/332.胡秋原赔了五分之一退休金给我.txt
   数据：data/timeline-events-seventh-book.json#book7-1999-08-27-hu-qiuyuan-loses-final-appeal-and-must-pay-li-ao
 - 1999年9月1日 | 李敖在《杨澜工作室》谈抢救中文并提出《李敖中文大句典》

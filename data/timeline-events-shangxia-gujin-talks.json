@@ -568,14 +568,24 @@
     "works": ["上下古今谈", "何秀子的启示"],
     "certainty": "confirmed",
     "crossReferences": [
-      "shangxia-1965-07-26-darkness-of-licensed-prostitution"
+      "shangxia-1965-07-26-darkness-of-licensed-prostitution",
+      "shangxia-1965-07-28-legal-view-on-he-xiuzi"
     ],
     "source": {
       "book": "上下古今谈",
       "chapter": "024.何秀子的启示",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/024.何秀子的启示.txt",
       "line": 17
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 99,
+        "note": "《二十年前的一些断片》1966年2月15日摘录何秀子事件后续法规修正新闻，可作《何秀子的启示》后续背景。"
+      }
+    ]
   },
   {
     "id": "shangxia-1965-07-28-legal-view-on-he-xiuzi",
@@ -599,7 +609,16 @@
       "chapter": "025.何秀子事件的法律观点",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/004.上下古今谈/025.何秀子事件的法律观点.txt",
       "line": 17
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 99,
+        "note": "《二十年前的一些断片》1966年2月15日摘录《公论报》“省府例会通过娼妓管理修正办法”，李敖标题称其为“一个专为何秀子而改订的法律”。该条为公共新闻追踪，未另造李敖当事事件。"
+      }
+    ]
   },
   {
     "id": "shangxia-1965-07-29-hooligans-and-law",

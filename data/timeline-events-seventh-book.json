@@ -663,7 +663,10 @@
       "zaonian-riji-1966-11-16-factory-meets-zhang-wei-shou-and-baojing-wu-packs",
       "zaonian-riji-1966-11-16-takes-four-books-four-copies-and-gives-receipt",
       "zaonian-riji-1966-11-17-police-shift-responsibility-xiaozuo-gets-books-at-dusk",
-      "zaonian-riji-1966-11-18-li-guojin-phone-and-refuses-illegal-letter-to-garrison"
+      "zaonian-riji-1966-11-18-li-guojin-phone-and-refuses-illegal-letter-to-garrison",
+      "zaonian-riji-1966-11-21-talks-three-hours-with-li-guojin-at-grand-hotel",
+      "zaonian-riji-1966-11-21-bindery-talks-with-lou-officer-until-four",
+      "zaonian-riji-1966-12-21-second-precinct-sealed-book-room-fee-garrison-pays"
     ],
     "source": {
       "book": "李敖风流自传",
@@ -776,6 +779,20 @@
         "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
         "line": 1021,
         "note": "1966年11月17日原记补明警员互推责任，李敖留据先行，小左傍晚始取到书。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 1045,
+        "note": "1966年11月21日原记补明李敖与李中校谈三小时后，再去装订厂与娄警官等谈到4点。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 1107,
+        "note": "1966年12月21日原记补明李敖去二分局拒绝出封书房房费，李中校答应由警总出钱。"
       }
     ]
   },
@@ -2529,14 +2546,24 @@
     ],
     "certainty": "confirmed",
     "crossReferences": [
-      "book7-1999-12-02-hu-qiuyuan-pays-927261-and-li-ao-removes-seal"
+      "book7-1999-12-02-hu-qiuyuan-pays-927261-and-li-ao-removes-seal",
+      "zaonian-riji-1966-12-09-counterclaim-hu-case-rebukes-hu-qiuyuan-one-and-half-hours"
     ],
     "source": {
       "book": "李敖风流自传",
       "chapter": "332.胡秋原赔了五分之一退休金给我",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/332.胡秋原赔了五分之一退休金给我.txt",
       "line": 3
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 1103,
+        "note": "1966年12月9日原记补明李敖在反诉胡案庭痛斥胡秋原一个半小时，是后来胡秋原官司链的早期庭审现场之一。"
+      }
+    ]
   },
   {
     "id": "book7-1999-12-02-hu-qiuyuan-pays-927261-and-li-ao-removes-seal",

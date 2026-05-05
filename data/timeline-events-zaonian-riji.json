@@ -3875,7 +3875,17 @@
     "crossReferences": [
       "1961-02-06-return-warship",
       "1961-02-15-return-ntu",
-      "book5-1961-02-17-rents-four-mat-room"
+      "book5-1961-02-17-rents-four-mat-room",
+      "zaonian-riji-1961-06-15-xinhan-accompanies-move"
+    ],
+    "additionalSources": [
+      {
+        "book": "早年日记",
+        "chapter": "003.四席小屋日记",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/003.四席小屋日记.txt",
+        "line": 1943,
+        "note": "1961年6月15日原记补明景新汉陪李敖搬家，是四席小屋时代结束、转向新店乡居的末段细节。"
+      }
     ]
   },
   {
@@ -12230,7 +12240,19 @@
       "chapter": "003.四席小屋日记",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/003.四席小屋日记.txt",
       "line": 1841
-    }
+    },
+    "crossReferences": [
+      "zaonian-riji-1961-06-15-xinhan-accompanies-move"
+    ],
+    "additionalSources": [
+      {
+        "book": "早年日记",
+        "chapter": "003.四席小屋日记",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/003.四席小屋日记.txt",
+        "line": 1943,
+        "note": "1961年6月15日原记补明景新汉陪李敖搬家，承接5月27日新店看房线。"
+      }
+    ]
   },
   {
     "id": "zaonian-riji-1961-05-28-zhaoxian-fangyin-shike-macrosxiang-visit",
@@ -12724,6 +12746,42 @@
     }
   },
   {
+    "id": "zaonian-riji-1961-06-10-dreams-systematically-of-lo",
+    "date": "1961-06-10",
+    "displayDate": "1961年6月10日",
+    "datePrecision": "day",
+    "title": "李敖大梦及 Lo，醒来茫然",
+    "summary": "1961年6月10日，李敖“大梦及 Lo”，并说从没有这样有系统的长梦；醒来后茫然不已。此条保留为《四席小屋日记》晚段的内心与梦境日常。",
+    "view": [
+      "生活线",
+      "情感线"
+    ],
+    "tags": [
+      "早年日记",
+      "四席小屋日记",
+      "Lo",
+      "梦",
+      "日常"
+    ],
+    "people": [
+      "李敖",
+      "Lo"
+    ],
+    "places": [],
+    "works": [
+      "早年日记",
+      "四席小屋日记"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "早年日记",
+      "chapter": "003.四席小屋日记",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/003.四席小屋日记.txt",
+      "line": 1927,
+      "note": "本条据《早年日记》原记。"
+    }
+  },
+  {
     "id": "zaonian-riji-1961-06-11-writes-letter-to-guying",
     "date": "1961-06-11",
     "displayDate": "1961年6月11日",
@@ -12787,6 +12845,51 @@
       "chapter": "003.四席小屋日记",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/003.四席小屋日记.txt",
       "line": 1937
+    }
+  },
+  {
+    "id": "zaonian-riji-1961-06-15-xinhan-accompanies-move",
+    "date": "1961-06-15",
+    "displayDate": "1961年6月15日",
+    "datePrecision": "day",
+    "title": "景新汉陪李敖搬家",
+    "summary": "1961年6月15日，景新汉陪李敖搬家。这是《四席小屋日记》末段从新生南路四席小屋转向新店乡居的搬迁细节之一。",
+    "view": [
+      "生活线",
+      "居住线"
+    ],
+    "tags": [
+      "早年日记",
+      "四席小屋日记",
+      "景新汉",
+      "新汉",
+      "搬家",
+      "四席小屋",
+      "新店"
+    ],
+    "people": [
+      "李敖",
+      "景新汉"
+    ],
+    "places": [
+      "四席小屋",
+      "新店"
+    ],
+    "works": [
+      "早年日记",
+      "四席小屋日记"
+    ],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "zaonian-riji-1982-07-28-prefaces-four-mat-room-diary",
+      "zaonian-riji-1961-05-27-looks-at-house-in-xindian-with-tao-subao-couple"
+    ],
+    "source": {
+      "book": "早年日记",
+      "chapter": "003.四席小屋日记",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/003.四席小屋日记.txt",
+      "line": 1943,
+      "note": "本条据《早年日记》原记。"
     }
   },
   {
@@ -13187,7 +13290,12 @@
       "chapter": "004.二十年前的一些断片",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
       "line": 53
-    }
+    },
+    "crossReferences": [
+      "1966-02-21-xu-fuguan-attack",
+      "zaonian-riji-1966-05-07-files-complaint-against-xu-fuguan-yu-jizhong-and-visits-united-daily",
+      "zaonian-riji-1966-09-09-taipei-district-court-acquits-xu-fuguan-yu-jizhong"
+    ]
   },
   {
     "id": "zaonian-riji-1966-02-07-writes-great-spirit-and-work-person-notes",
@@ -14080,7 +14188,11 @@
       "chapter": "004.二十年前的一些断片",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
       "line": 271
-    }
+    },
+    "crossReferences": [
+      "qianqiu-wansui-1982-11-07-032-writes-shekou-and-rose",
+      "zaonian-riji-1966-12-26-cao-shengfen-court-delayed-plainclothes-checks-arrival"
+    ]
   },
   {
     "id": "zaonian-riji-1966-04-18-receives-su-changkun-petition-and-hosts-lin-shuiquan-students",
@@ -14764,7 +14876,11 @@
     "crossReferences": [
       "1966-02-21-xu-fuguan-attack",
       "zaonian-riji-1966-09-09-taipei-district-court-acquits-xu-fuguan-yu-jizhong",
-      "zaonian-riji-1966-10-12-high-court-appeal-xu-yu-yu-jizhong-party-meeting-excuse"
+      "zaonian-riji-1966-10-12-high-court-appeal-xu-yu-yu-jizhong-party-meeting-excuse",
+      "zaonian-riji-1966-12-09-appears-in-xu-yu-case-and-rebukes-duanmu-kai",
+      "zaonian-riji-1966-12-26-xu-case-appeal-dismissed-and-judicial-darkness-feeling",
+      "zaonian-riji-1966-05-13-check-account-court-sylvia-and-jumi-letter",
+      "zaonian-riji-1966-01-06-talks-with-xu-fuguan-at-new-china-hotel"
     ],
     "additionalSources": [
       {
@@ -14780,6 +14896,27 @@
         "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
         "line": 845,
         "note": "1966年10月12日原记高院上诉控徐复观、余纪忠，余纪忠以党部开会请假，李敖当庭质问。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 1101,
+        "note": "1966年12月9日原记补明李敖上午出控徐复观、余纪忠案庭，并斥端木恺律师。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 1119,
+        "note": "1966年12月26日原记补明“控徐等案上诉驳回”，且李敖在法院涌现“司法黑暗”之念。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 489,
+        "note": "1966年5月13日原记补出李敖下午高院开庭，与推事争辩；出庭后张继高说余纪忠被告后第二天就去找他。"
       }
     ]
   },
@@ -14840,7 +14977,10 @@
       "zaonian-riji-1966-05-07-files-complaint-against-xu-fuguan-yu-jizhong-and-visits-united-daily",
       "1966-02-21-xu-fuguan-attack",
       "zaonian-riji-1966-09-09-taipei-district-court-acquits-xu-fuguan-yu-jizhong",
-      "zaonian-riji-1966-10-12-high-court-appeal-xu-yu-yu-jizhong-party-meeting-excuse"
+      "zaonian-riji-1966-10-12-high-court-appeal-xu-yu-yu-jizhong-party-meeting-excuse",
+      "zaonian-riji-1966-12-09-appears-in-xu-yu-case-and-rebukes-duanmu-kai",
+      "zaonian-riji-1966-12-26-xu-case-appeal-dismissed-and-judicial-darkness-feeling",
+      "zaonian-riji-1966-05-13-check-account-court-sylvia-and-jumi-letter"
     ],
     "additionalSources": [
       {
@@ -14856,6 +14996,27 @@
         "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
         "line": 845,
         "note": "1966年10月12日原记高院上诉控徐复观、余纪忠，余纪忠以党部开会请假，李敖当庭质问。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 1101,
+        "note": "1966年12月9日原记补明李敖上午出控徐复观、余纪忠案庭，并斥端木恺律师。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 1119,
+        "note": "1966年12月26日原记补明“控徐等案上诉驳回”，且李敖在法院涌现“司法黑暗”之念。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 489,
+        "note": "1966年5月13日原记补出李敖下午高院开庭，与推事争辩；出庭后张继高说余纪忠被告后第二天就去找他。"
       }
     ]
   },
@@ -15122,7 +15283,12 @@
       "chapter": "004.二十年前的一些断片",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
       "line": 489
-    }
+    },
+    "crossReferences": [
+      "zaonian-riji-1966-05-07-files-complaint-against-xu-fuguan-yu-jizhong-and-visits-united-daily",
+      "zaonian-riji-1966-05-08-united-daily-reports-lawsuit-and-sansan-army-eve",
+      "zaonian-riji-1966-09-09-taipei-district-court-acquits-xu-fuguan-yu-jizhong"
+    ]
   },
   {
     "id": "zaonian-riji-1966-05-20-lido-with-peng-mingmin-and-writes-pleadings",
@@ -15611,7 +15777,9 @@
       "line": 573
     },
     "crossReferences": [
-      "zaonian-riji-1966-09-09-taipei-district-court-acquits-xu-fuguan-yu-jizhong"
+      "zaonian-riji-1966-09-09-taipei-district-court-acquits-xu-fuguan-yu-jizhong",
+      "zaonian-riji-1966-12-09-appears-in-xu-yu-case-and-rebukes-duanmu-kai",
+      "zaonian-riji-1966-12-26-xu-case-appeal-dismissed-and-judicial-darkness-feeling"
     ],
     "additionalSources": [
       {
@@ -15620,6 +15788,20 @@
         "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
         "line": 749,
         "note": "1966年9月9日原记台北地院判徐复观、余纪忠“皆无罪”，为6月18日拒绝放弃余徐案的后续。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 1101,
+        "note": "1966年12月9日原记补明李敖上午出控徐复观、余纪忠案庭，并斥端木恺律师。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 1119,
+        "note": "1966年12月26日原记补明“控徐等案上诉驳回”，且李敖在法院涌现“司法黑暗”之念。"
       }
     ]
   },
@@ -16412,14 +16594,25 @@
     "certainty": "confirmed",
     "crossReferences": [
       "wencun-two-1966-09-01-advertised-in-six-taipei-newspapers",
-      "wencun-two-1966-09-01-to-09-08-central-daily-ran-first-three-ads"
+      "wencun-two-1966-09-01-to-09-08-central-daily-ran-first-three-ads",
+      "zaonian-riji-1966-12-26-cao-shengfen-court-delayed-plainclothes-checks-arrival",
+      "zaonian-riji-1966-12-26-judge-skips-li-court-li-questions-and-file-not-brought"
     ],
     "source": {
       "book": "早年日记",
       "chapter": "004.二十年前的一些断片",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
       "line": 703
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 1117,
+        "note": "1966年12月26日原记补出李敖“控曹圣芬庭”的法院现场，传票8点30分而9点30分后始开。"
+      }
+    ]
   },
   {
     "id": "zaonian-riji-1966-08-30-united-credit-news-minzu-zili-ad-resistance-and-bo-yang-no-livelihood",
@@ -16602,7 +16795,10 @@
       "chapter": "004.二十年前的一些断片",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
       "line": 721
-    }
+    },
+    "crossReferences": [
+      "zaonian-riji-1966-11-21-zuo-shunsheng-central-daily-article-seen-as-supporting-li-ao"
+    ]
   },
   {
     "id": "zaonian-riji-1966-09-04-mengneng-xiaozhao-xiaozuo-beef-enterprise-reader-letters-and-operation-beirut",
@@ -16863,7 +17059,10 @@
       "zaonian-riji-1966-05-07-files-complaint-against-xu-fuguan-yu-jizhong-and-visits-united-daily",
       "zaonian-riji-1966-05-08-united-daily-reports-lawsuit-and-sansan-army-eve",
       "zaonian-riji-1966-06-18-refuses-drop-yu-xu-case-letters-shaotang-movie-and-couplet",
-      "zaonian-riji-1966-10-12-high-court-appeal-xu-yu-yu-jizhong-party-meeting-excuse"
+      "zaonian-riji-1966-10-12-high-court-appeal-xu-yu-yu-jizhong-party-meeting-excuse",
+      "zaonian-riji-1966-12-09-appears-in-xu-yu-case-and-rebukes-duanmu-kai",
+      "zaonian-riji-1966-12-26-xu-case-appeal-dismissed-and-judicial-darkness-feeling",
+      "zaonian-riji-1966-01-06-talks-with-xu-fuguan-at-new-china-hotel"
     ],
     "source": {
       "book": "早年日记",
@@ -16878,6 +17077,20 @@
         "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
         "line": 845,
         "note": "1966年10月12日原记高院上诉控徐复观、余纪忠，余纪忠以党部开会请假，李敖当庭质问。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 1101,
+        "note": "1966年12月9日原记补明李敖上午出控徐复观、余纪忠案庭，并斥端木恺律师。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 1119,
+        "note": "1966年12月26日原记补明“控徐等案上诉驳回”，且李敖在法院涌现“司法黑暗”之念。"
       }
     ]
   },
@@ -17543,14 +17756,32 @@
     "crossReferences": [
       "zaonian-riji-1966-05-07-files-complaint-against-xu-fuguan-yu-jizhong-and-visits-united-daily",
       "zaonian-riji-1966-05-08-united-daily-reports-lawsuit-and-sansan-army-eve",
-      "zaonian-riji-1966-09-09-taipei-district-court-acquits-xu-fuguan-yu-jizhong"
+      "zaonian-riji-1966-09-09-taipei-district-court-acquits-xu-fuguan-yu-jizhong",
+      "zaonian-riji-1966-12-09-appears-in-xu-yu-case-and-rebukes-duanmu-kai",
+      "zaonian-riji-1966-12-26-xu-case-appeal-dismissed-and-judicial-darkness-feeling"
     ],
     "source": {
       "book": "早年日记",
       "chapter": "004.二十年前的一些断片",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
       "line": 843
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 1101,
+        "note": "1966年12月9日原记补明李敖上午出控徐复观、余纪忠案庭，并斥端木恺律师。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 1119,
+        "note": "1966年12月26日原记补明“控徐等案上诉驳回”，且李敖在法院涌现“司法黑暗”之念。"
+      }
+    ]
   },
   {
     "id": "zaonian-riji-1966-10-12-night-picks-up-h",
@@ -19610,13 +19841,2449 @@
     ],
     "certainty": "confirmed",
     "crossReferences": [
-      "1966-11-16-hu-qiuyuan-publishes-letter"
+      "1966-11-16-hu-qiuyuan-publishes-letter",
+      "zaonian-riji-1966-12-09-counterclaim-hu-case-rebukes-hu-qiuyuan-one-and-half-hours"
     ],
     "source": {
       "book": "早年日记",
       "chapter": "004.二十年前的一些断片",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
       "line": 1039,
+      "note": "本条据《早年日记》原记。"
+    },
+    "additionalSources": [
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 1103,
+        "note": "1966年12月9日原记补明李敖在反诉胡案庭上痛斥胡秋原一个半小时。"
+      }
+    ]
+  },
+  {
+    "id": "zaonian-riji-1966-11-21-morning-visits-miles-repairs-car-and-sees-h",
+    "date": "1966-11-21",
+    "displayDate": "1966年11月21日晨",
+    "datePrecision": "day",
+    "title": "李敖晨访 Miles，并修车、见 H",
+    "summary": "1966年11月21日星期一晨，李敖访 Miles，并修车，见 H。此日标题为“左舜生仗义”，但日记开端仍保留了修车与私交的日常行踪。",
+    "view": [
+      "情感线",
+      "日常线"
+    ],
+    "tags": [
+      "早年日记",
+      "二十年前的一些断片",
+      "Miles",
+      "修车",
+      "H",
+      "左舜生仗义"
+    ],
+    "people": [
+      "李敖",
+      "Miles",
+      "H"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "早年日记"
+    ],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "zaonian-riji-1966-11-17-yulon-car-zhengfang-helps-and-night-meixin"
+    ],
+    "source": {
+      "book": "早年日记",
+      "chapter": "004.二十年前的一些断片",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+      "line": 1041,
+      "note": "本条据《早年日记》原记。"
+    }
+  },
+  {
+    "id": "zaonian-riji-1966-11-21-talks-three-hours-with-li-guojin-at-grand-hotel",
+    "date": "1966-11-21",
+    "displayDate": "1966年11月21日午后",
+    "datePrecision": "day",
+    "title": "李敖午后与李中校在中国大饭店八楼谈三小时",
+    "summary": "1966年11月21日午后，李敖跟李中校在中国大饭店八楼谈三小时。结合前后日记，李中校即李国瑾，此谈仍属《告别文坛十书》查扣、放行和警总交涉后的延续。",
+    "view": [
+      "司法线",
+      "出版线",
+      "师友线"
+    ],
+    "tags": [
+      "早年日记",
+      "二十年前的一些断片",
+      "李中校",
+      "李国瑾",
+      "中国大饭店",
+      "八楼",
+      "三小时",
+      "警总交涉"
+    ],
+    "people": [
+      "李敖",
+      "李国瑾"
+    ],
+    "places": [
+      "中国大饭店"
+    ],
+    "works": [
+      "早年日记",
+      "李敖告别文坛十书"
+    ],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "zaonian-riji-1966-11-18-li-guojin-phone-and-refuses-illegal-letter-to-garrison",
+      "book7-1966-11-09-books-seized-at-yajiang-binding-factory"
+    ],
+    "source": {
+      "book": "早年日记",
+      "chapter": "004.二十年前的一些断片",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+      "line": 1045,
+      "note": "本条据《早年日记》原记。"
+    }
+  },
+  {
+    "id": "zaonian-riji-1966-11-21-bindery-talks-with-lou-officer-until-four",
+    "date": "1966-11-21",
+    "displayDate": "1966年11月21日下午至4时",
+    "datePrecision": "day",
+    "title": "李敖再去装订厂，与娄警官等谈到4点",
+    "summary": "1966年11月21日，李敖在中国大饭店谈完后再去装订厂，与娄警官等谈到下午4点。娄警官应即前几日处理准发书信、笔录事的娄振岳，显示查扣后的装订厂交涉仍未完全结束。",
+    "view": [
+      "出版线",
+      "司法线"
+    ],
+    "tags": [
+      "早年日记",
+      "二十年前的一些断片",
+      "装订厂",
+      "娄警官",
+      "娄振岳",
+      "谈到4点",
+      "告别文坛十书"
+    ],
+    "people": [
+      "李敖",
+      "娄振岳"
+    ],
+    "places": [
+      "装订厂"
+    ],
+    "works": [
+      "早年日记",
+      "李敖告别文坛十书"
+    ],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book7-1966-11-09-books-seized-at-yajiang-binding-factory",
+      "zaonian-riji-1966-11-15-fuyuan-letter-police-refuse-release-lou-issues-permit",
+      "zaonian-riji-1966-11-21-talks-three-hours-with-li-guojin-at-grand-hotel"
+    ],
+    "source": {
+      "book": "早年日记",
+      "chapter": "004.二十年前的一些断片",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+      "line": 1045,
+      "note": "本条据《早年日记》原记。"
+    }
+  },
+  {
+    "id": "zaonian-riji-1966-11-21-starts-southbound-book-selling-with-huanwen-to-taichung",
+    "date": "1966-11-21",
+    "displayDate": "1966年11月21日4时后至夜",
+    "datePrecision": "day",
+    "title": "李敖与焕文南下沿途卖书，夜抵台中宿意文",
+    "summary": "1966年11月21日下午4点后，李敖与焕文南下，沿途卖书，夜抵台中，宿意文。日记记书店、书摊老板说仰慕者颇多。这是11月22日至26日“环岛卖书记”的前奏，也说明被查扣后的书册仍需李敖亲自奔走销售。",
+    "view": [
+      "出版线",
+      "旅行线",
+      "师友线",
+      "日常线"
+    ],
+    "tags": [
+      "早年日记",
+      "二十年前的一些断片",
+      "焕文",
+      "南下",
+      "沿途卖书",
+      "台中",
+      "意文",
+      "书店",
+      "书摊",
+      "仰慕者"
+    ],
+    "people": [
+      "李敖",
+      "焕文",
+      "意文",
+      "书店老板",
+      "书摊老板"
+    ],
+    "places": [
+      "台中",
+      "意文处"
+    ],
+    "works": [
+      "早年日记",
+      "李敖告别文坛十书"
+    ],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "qianqiu-wansui-1966-11-05-051-publishes-farewell-literary-world-ten-books",
+      "zaonian-riji-1966-11-18-packs-books-until-one-with-pingjing-zhangping-and-rebukes-zhangping",
+      "zaonian-riji-1966-11-22-writes-letter-to-garrison-and-heads-south",
+      "zaonian-riji-1966-11-22-changhua-yuanlin-beigang-xiluo-chiayi-route",
+      "zaonian-riji-1966-11-22-bookstall-bosses-on-route-say-long-admired",
+      "zaonian-riji-1966-11-26-drives-to-hsinchu-after-dinner-and-returns-taipei-at-midnight"
+    ],
+    "source": {
+      "book": "早年日记",
+      "chapter": "004.二十年前的一些断片",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+      "line": 1045,
+      "note": "本条据《早年日记》原记。"
+    }
+  },
+  {
+    "id": "zaonian-riji-1966-11-21-zuo-shunsheng-central-daily-article-seen-as-supporting-li-ao",
+    "date": "1966-11-21",
+    "displayDate": "1966年11月21日（1986年9月30日追记）",
+    "datePrecision": "day",
+    "title": "左舜生在《中央日报》发表《记留台北三周的观感》，李敖追记其话显然为自己而发",
+    "summary": "1966年11月21日，李敖记李中校盛言当天左舜生文字，认为其中指李敖而发，呼之欲出。1986年9月30日李敖追记说明，左舜生这天在《中央日报》发表《记留台北三周的观感》，主张对言论和书籍应提高容忍，不应以刀笔置少数人于死地；李敖追记说这些话显然是为他而发，难怪后来胡秋原要大力攻击左舜生。",
+    "view": [
+      "论战线",
+      "政治线",
+      "出版线",
+      "师友线"
+    ],
+    "tags": [
+      "早年日记",
+      "二十年前的一些断片",
+      "1986追记",
+      "左舜生",
+      "中央日报",
+      "记留台北三周的观感",
+      "李中校",
+      "李国瑾",
+      "言论自由",
+      "书籍发行",
+      "胡秋原",
+      "仗义"
+    ],
+    "people": [
+      "李敖",
+      "左舜生",
+      "李国瑾",
+      "胡秋原"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "早年日记",
+      "中央日报",
+      "记留台北三周的观感",
+      "左舜生选集"
+    ],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "zaonian-riji-1966-09-04-early-morning-talk-with-zuo-shunsheng",
+      "1966-11-16-hu-qiuyuan-publishes-letter",
+      "wencun-1968-01-10-zuo-shunsheng-selected-works-preface"
+    ],
+    "source": {
+      "book": "早年日记",
+      "chapter": "004.二十年前的一些断片",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+      "line": 1047,
+      "note": "本条含1966年11月21日原记“李中校盛言今日左舜生文字”，及同条括注中的1986年9月30日李敖追记。"
+    }
+  },
+  {
+    "id": "zaonian-riji-1966-11-22-writes-letter-to-garrison-and-heads-south",
+    "date": "1966-11-22",
+    "displayDate": "1966年11月22日晨",
+    "datePrecision": "day",
+    "title": "李敖晨起写信给警总，旋即南下",
+    "summary": "1966年11月22日星期二，李敖晨起写信给警总，随即南下。这是“环岛卖书记”第一日的开端，接续前一日与焕文南下沿途卖书。",
+    "view": [
+      "司法线",
+      "出版线",
+      "旅行线"
+    ],
+    "tags": [
+      "早年日记",
+      "二十年前的一些断片",
+      "环岛卖书记",
+      "警总",
+      "写信",
+      "南下",
+      "卖书"
+    ],
+    "people": [
+      "李敖",
+      "焕文"
+    ],
+    "places": [
+      "台湾中南部"
+    ],
+    "works": [
+      "早年日记",
+      "李敖告别文坛十书"
+    ],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "zaonian-riji-1966-11-21-starts-southbound-book-selling-with-huanwen-to-taichung",
+      "zaonian-riji-1966-11-18-li-guojin-phone-and-refuses-illegal-letter-to-garrison"
+    ],
+    "source": {
+      "book": "早年日记",
+      "chapter": "004.二十年前的一些断片",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+      "line": 1051,
+      "note": "本条据《早年日记》原记。"
+    }
+  },
+  {
+    "id": "zaonian-riji-1966-11-22-changhua-yuanlin-beigang-xiluo-chiayi-route",
+    "date": "1966-11-22",
+    "displayDate": "1966年11月22日白天",
+    "datePrecision": "day",
+    "title": "李敖抵彰化，与焕文入大黑佛肚中，又历员林、北港、西螺、嘉义",
+    "summary": "1966年11月22日，李敖南下抵彰化，与焕文同入“大黑佛肚中”；再赴员林，买橘子吃。二人觅午饭不得，历北港、西螺、嘉义，到嘉义午饭时已下午4点。",
+    "view": [
+      "旅行线",
+      "师友线",
+      "日常线"
+    ],
+    "tags": [
+      "早年日记",
+      "二十年前的一些断片",
+      "环岛卖书记",
+      "焕文",
+      "彰化",
+      "大黑佛",
+      "员林",
+      "橘子",
+      "北港",
+      "西螺",
+      "嘉义",
+      "午饭"
+    ],
+    "people": [
+      "李敖",
+      "焕文"
+    ],
+    "places": [
+      "彰化",
+      "员林",
+      "北港",
+      "西螺",
+      "嘉义"
+    ],
+    "works": [
+      "早年日记"
+    ],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "zaonian-riji-1966-11-22-writes-letter-to-garrison-and-heads-south"
+    ],
+    "source": {
+      "book": "早年日记",
+      "chapter": "004.二十年前的一些断片",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+      "line": 1055,
+      "note": "本条据《早年日记》原记。"
+    }
+  },
+  {
+    "id": "zaonian-riji-1966-11-22-bookstall-bosses-on-route-say-long-admired",
+    "date": "1966-11-22",
+    "displayDate": "1966年11月22日白天",
+    "datePrecision": "day",
+    "title": "李敖沿途遇书摊老板，皆道久仰",
+    "summary": "1966年11月22日，李敖与焕文历北港、西螺、嘉义等地，书摊老板皆道久仰之意。此条保留“环岛卖书”途中基层书摊对李敖的直接反应。",
+    "view": [
+      "出版线",
+      "公共形象线",
+      "旅行线"
+    ],
+    "tags": [
+      "早年日记",
+      "二十年前的一些断片",
+      "环岛卖书记",
+      "书摊老板",
+      "久仰",
+      "北港",
+      "西螺",
+      "嘉义",
+      "卖书"
+    ],
+    "people": [
+      "李敖",
+      "焕文",
+      "书摊老板"
+    ],
+    "places": [
+      "北港",
+      "西螺",
+      "嘉义"
+    ],
+    "works": [
+      "早年日记",
+      "李敖告别文坛十书"
+    ],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "qianqiu-wansui-1966-11-05-051-publishes-farewell-literary-world-ten-books",
+      "zaonian-riji-1966-11-21-starts-southbound-book-selling-with-huanwen-to-taichung"
+    ],
+    "source": {
+      "book": "早年日记",
+      "chapter": "004.二十年前的一些断片",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+      "line": 1055,
+      "note": "本条据《早年日记》原记。"
+    }
+  },
+  {
+    "id": "zaonian-riji-1966-11-22-sees-pretty-highway-bureau-girl-on-road",
+    "date": "1966-11-22",
+    "displayDate": "1966年11月22日路上",
+    "datePrecision": "day",
+    "title": "李敖路上见一公路局小姐，记其清秀动人",
+    "summary": "1966年11月22日环岛卖书途中，李敖路上见一位公路局小姐，记她颇清秀动人。这是紧张卖书与警察干涉行程中的一个日常观察。",
+    "view": [
+      "日常线",
+      "旅行线"
+    ],
+    "tags": [
+      "早年日记",
+      "二十年前的一些断片",
+      "环岛卖书记",
+      "公路局小姐",
+      "清秀动人",
+      "路上"
+    ],
+    "people": [
+      "李敖",
+      "公路局小姐"
+    ],
+    "places": [
+      "台湾中南部路上"
+    ],
+    "works": [
+      "早年日记"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "早年日记",
+      "chapter": "004.二十年前的一些断片",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+      "line": 1055,
+      "note": "本条据《早年日记》原记。"
+    }
+  },
+  {
+    "id": "zaonian-riji-1966-11-22-takes-wenyou-bookstore-wu-dongming-from-chiayi-to-tainan",
+    "date": "1966-11-22",
+    "displayDate": "1966年11月22日嘉义至台南",
+    "datePrecision": "day",
+    "title": "李敖在嘉义“夹带”文友书局老板吴东明同去台南",
+    "summary": "1966年11月22日，李敖在嘉义“夹带”文友书局老板吴东明同去台南。此条显示他环岛卖书并非只是拜访书摊，也把地方书局人脉带入下一站。",
+    "view": [
+      "出版线",
+      "旅行线",
+      "师友线"
+    ],
+    "tags": [
+      "早年日记",
+      "二十年前的一些断片",
+      "环岛卖书记",
+      "嘉义",
+      "文友书局",
+      "吴东明",
+      "台南",
+      "书局老板"
+    ],
+    "people": [
+      "李敖",
+      "焕文",
+      "吴东明"
+    ],
+    "places": [
+      "嘉义",
+      "台南",
+      "文友书局"
+    ],
+    "works": [
+      "早年日记",
+      "李敖告别文坛十书"
+    ],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "zaonian-riji-1966-11-22-bookstall-bosses-on-route-say-long-admired"
+    ],
+    "source": {
+      "book": "早年日记",
+      "chapter": "004.二十年前的一些断片",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+      "line": 1055,
+      "note": "本条据《早年日记》原记。"
+    }
+  },
+  {
+    "id": "zaonian-riji-1966-11-22-tainan-meets-wang-shixian-and-jiang-zongtang",
+    "date": "1966-11-22",
+    "displayDate": "1966年11月22日台南",
+    "datePrecision": "day",
+    "title": "李敖在台南见集贤书摊王世贤及万利书报社姜宗棠",
+    "summary": "1966年11月22日，李敖到台南后，见集贤书摊王世贤及万利书报社姜宗棠，并由此得知当地警察干涉卖书情形颇严重。",
+    "view": [
+      "出版线",
+      "司法线",
+      "旅行线"
+    ],
+    "tags": [
+      "早年日记",
+      "二十年前的一些断片",
+      "环岛卖书记",
+      "台南",
+      "集贤书摊",
+      "王世贤",
+      "万利书报社",
+      "姜宗棠",
+      "警察干涉"
+    ],
+    "people": [
+      "李敖",
+      "焕文",
+      "吴东明",
+      "王世贤",
+      "姜宗棠"
+    ],
+    "places": [
+      "台南",
+      "集贤书摊",
+      "万利书报社"
+    ],
+    "works": [
+      "早年日记",
+      "李敖告别文坛十书"
+    ],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "zaonian-riji-1966-11-22-takes-wenyou-bookstore-wu-dongming-from-chiayi-to-tainan",
+      "zaonian-riji-1966-11-22-police-visit-wanli-three-times-warning-not-to-sell-li-ao-books"
+    ],
+    "source": {
+      "book": "早年日记",
+      "chapter": "004.二十年前的一些断片",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+      "line": 1055,
+      "note": "本条据《早年日记》原记。"
+    }
+  },
+  {
+    "id": "zaonian-riji-1966-11-22-police-visit-wanli-three-times-warning-not-to-sell-li-ao-books",
+    "date": "1966-11-22",
+    "displayDate": "1966年11月22日台南",
+    "datePrecision": "day",
+    "title": "台南警察一早三次去万利书报社，称“最好不要卖李敖的书”",
+    "summary": "1966年11月22日，李敖在台南得知警察干涉卖书情形颇严重：警察当天一早即去万利书报社三次，说“最好不要卖李敖的书”，致各书摊店皆不敢卖。此条是《告别文坛十书》查扣后地方销售被压制的直接现场。",
+    "view": [
+      "出版线",
+      "司法线",
+      "政治线"
+    ],
+    "tags": [
+      "早年日记",
+      "二十年前的一些断片",
+      "环岛卖书记",
+      "台南",
+      "警察",
+      "万利书报社",
+      "不要卖李敖的书",
+      "书摊店",
+      "告别文坛十书",
+      "禁书"
+    ],
+    "people": [
+      "李敖",
+      "姜宗棠",
+      "警察"
+    ],
+    "places": [
+      "台南",
+      "万利书报社"
+    ],
+    "works": [
+      "早年日记",
+      "李敖告别文坛十书"
+    ],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "1966-books-banned",
+      "qianqiu-wansui-1966-11-05-051-publishes-farewell-literary-world-ten-books",
+      "zaonian-riji-1966-11-22-tainan-meets-wang-shixian-and-jiang-zongtang"
+    ],
+    "source": {
+      "book": "早年日记",
+      "chapter": "004.二十年前的一些断片",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+      "line": 1055,
+      "note": "本条据《早年日记》原记。"
+    }
+  },
+  {
+    "id": "zaonian-riji-1966-11-22-kaohsiung-dancing-and-eight-rounds-of-cards",
+    "date": "1966-11-22",
+    "displayDate": "1966年11月22日晚，高雄",
+    "datePrecision": "day",
+    "title": "李敖转高雄，金开、沈遐祺、林紫耀请跳舞，后玩小牌八圈",
+    "summary": "1966年11月22日，李敖旋转高雄。金开、沈遐祺、林紫耀请他跳舞；随后他与林紫耀、焕文、荫如玩小牌八圈。",
+    "view": [
+      "师友线",
+      "旅行线",
+      "日常线"
+    ],
+    "tags": [
+      "早年日记",
+      "二十年前的一些断片",
+      "环岛卖书记",
+      "高雄",
+      "金开",
+      "沈遐祺",
+      "林紫耀",
+      "焕文",
+      "荫如",
+      "跳舞",
+      "小牌八圈"
+    ],
+    "people": [
+      "李敖",
+      "金开",
+      "沈遐祺",
+      "林紫耀",
+      "焕文",
+      "荫如"
+    ],
+    "places": [
+      "高雄"
+    ],
+    "works": [
+      "早年日记"
+    ],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "zaonian-riji-1966-11-22-police-visit-wanli-three-times-warning-not-to-sell-li-ao-books",
+      "zaonian-riji-1966-11-23-jinkai-shen-xiaqi-ziyao-treat-lunch-at-houdefu"
+    ],
+    "source": {
+      "book": "早年日记",
+      "chapter": "004.二十年前的一些断片",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+      "line": 1057,
+      "note": "本条据《早年日记》原记。"
+    }
+  },
+  {
+    "id": "zaonian-riji-1966-11-22-mengneng-long-distance-phone-call-at-night",
+    "date": "1966-11-22",
+    "displayDate": "1966年11月22日晚",
+    "datePrecision": "day",
+    "title": "萧孟能晚来长途电话",
+    "summary": "1966年11月22日晚，萧孟能来长途电话。李敖此时正在环岛卖书途中，当晚已转至高雄。",
+    "view": [
+      "师友线",
+      "出版线",
+      "旅行线"
+    ],
+    "tags": [
+      "早年日记",
+      "二十年前的一些断片",
+      "环岛卖书记",
+      "萧孟能",
+      "长途电话",
+      "高雄"
+    ],
+    "people": [
+      "李敖",
+      "萧孟能"
+    ],
+    "places": [
+      "高雄"
+    ],
+    "works": [
+      "早年日记"
+    ],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "zaonian-riji-1966-11-22-kaohsiung-dancing-and-eight-rounds-of-cards"
+    ],
+    "source": {
+      "book": "早年日记",
+      "chapter": "004.二十年前的一些断片",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+      "line": 1059,
+      "note": "本条据《早年日记》原记。"
+    }
+  },
+  {
+    "id": "zaonian-riji-1966-11-23-uncomfortable-night-at-datong-house",
+    "date": "1966-11-23",
+    "displayDate": "1966年11月23日晨",
+    "datePrecision": "day",
+    "title": "李敖在大同之家住一夜，睡得极不舒服",
+    "summary": "1966年11月23日，李敖记在大同之家住了一夜，睡得极不舒服。这是环岛卖书第二日的开端，保留了奔走卖书途中住宿状态的细节。",
+    "view": [
+      "旅行线",
+      "日常线"
+    ],
+    "tags": [
+      "早年日记",
+      "二十年前的一些断片",
+      "环岛卖书记",
+      "大同之家",
+      "住宿",
+      "睡得不舒服"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "大同之家"
+    ],
+    "works": [
+      "早年日记"
+    ],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "zaonian-riji-1966-11-22-kaohsiung-dancing-and-eight-rounds-of-cards"
+    ],
+    "source": {
+      "book": "早年日记",
+      "chapter": "004.二十年前的一些断片",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+      "line": 1061,
+      "note": "本条据《早年日记》原记。"
+    }
+  },
+  {
+    "id": "zaonian-riji-1966-11-23-zhangping-phone-ziyao-business-and-huanwen-introductions",
+    "date": "1966-11-23",
+    "displayDate": "1966年11月23日午前",
+    "datePrecision": "day",
+    "title": "张平通长途电话与林紫耀谈生意，焕文介绍杨春海、陈福顺",
+    "summary": "1966年11月23日午前，张平通长途电话，与林紫耀谈生意。焕文为李敖介绍励志杨老板春海，以及黎明（台北圆环）陈老板福顺，显示环岛卖书途中也在铺接书业、生意人脉。",
+    "view": [
+      "出版线",
+      "师友线",
+      "财务线"
+    ],
+    "tags": [
+      "早年日记",
+      "二十年前的一些断片",
+      "环岛卖书记",
+      "张平",
+      "长途电话",
+      "林紫耀",
+      "谈生意",
+      "焕文",
+      "励志",
+      "杨春海",
+      "黎明",
+      "台北圆环",
+      "陈福顺"
+    ],
+    "people": [
+      "李敖",
+      "张平",
+      "林紫耀",
+      "焕文",
+      "杨春海",
+      "陈福顺"
+    ],
+    "places": [
+      "高雄",
+      "台北圆环"
+    ],
+    "works": [
+      "早年日记"
+    ],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "zaonian-riji-1966-11-22-mengneng-long-distance-phone-call-at-night",
+      "zaonian-riji-1966-11-22-kaohsiung-dancing-and-eight-rounds-of-cards"
+    ],
+    "source": {
+      "book": "早年日记",
+      "chapter": "004.二十年前的一些断片",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+      "line": 1065,
+      "note": "本条据《早年日记》原记。"
+    }
+  },
+  {
+    "id": "zaonian-riji-1966-11-23-jinkai-shen-xiaqi-ziyao-treat-lunch-at-houdefu",
+    "date": "1966-11-23",
+    "displayDate": "1966年11月23日中午",
+    "datePrecision": "day",
+    "title": "金开、沈遐祺、林紫耀三人请李敖于厚德福",
+    "summary": "1966年11月23日中午，金开、沈遐祺、林紫耀三人请李敖在厚德福吃饭，接续前一夜高雄跳舞与打牌后的交游。",
+    "view": [
+      "师友线",
+      "旅行线",
+      "日常线"
+    ],
+    "tags": [
+      "早年日记",
+      "二十年前的一些断片",
+      "环岛卖书记",
+      "金开",
+      "沈遐祺",
+      "林紫耀",
+      "厚德福",
+      "午饭"
+    ],
+    "people": [
+      "李敖",
+      "金开",
+      "沈遐祺",
+      "林紫耀"
+    ],
+    "places": [
+      "厚德福",
+      "高雄"
+    ],
+    "works": [
+      "早年日记"
+    ],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "zaonian-riji-1966-11-22-kaohsiung-dancing-and-eight-rounds-of-cards"
+    ],
+    "source": {
+      "book": "早年日记",
+      "chapter": "004.二十年前的一些断片",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+      "line": 1065,
+      "note": "本条据《早年日记》原记。"
+    }
+  },
+  {
+    "id": "zaonian-riji-1966-11-23-yinru-accompanies-car-repair-and-couple-to-ride-north",
+    "date": "1966-11-23",
+    "displayDate": "1966年11月23日下午",
+    "datePrecision": "day",
+    "title": "荫如陪李敖修车，后决定小夫妇坐李敖车北返",
+    "summary": "1966年11月23日下午，荫如陪李敖修车；后来决定小夫妇坐李敖的车北返。此条接续前几日裕隆取车、修车线，也预示后续返北路线中的同行者安排。",
+    "view": [
+      "师友线",
+      "旅行线",
+      "日常线"
+    ],
+    "tags": [
+      "早年日记",
+      "二十年前的一些断片",
+      "环岛卖书记",
+      "荫如",
+      "修车",
+      "小夫妇",
+      "北返",
+      "汽车"
+    ],
+    "people": [
+      "李敖",
+      "荫如",
+      "小夫妇"
+    ],
+    "places": [
+      "高雄"
+    ],
+    "works": [
+      "早年日记"
+    ],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "zaonian-riji-1966-11-17-yulon-car-zhengfang-helps-and-night-meixin",
+      "zaonian-riji-1966-11-21-morning-visits-miles-repairs-car-and-sees-h"
+    ],
+    "source": {
+      "book": "早年日记",
+      "chapter": "004.二十年前的一些断片",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+      "line": 1065,
+      "note": "本条据《早年日记》原记。"
+    }
+  },
+  {
+    "id": "zaonian-riji-1966-11-23-fengshan-jufenglou-yinru-couple-return-banquet",
+    "date": "1966-11-23",
+    "displayDate": "1966年11月23日傍晚",
+    "datePrecision": "day",
+    "title": "李敖在凤山聚丰楼参加荫如夫妇回门酒，新娘二姐夫向他致敬",
+    "summary": "1966年11月23日傍晚，李敖在凤山聚丰楼参加荫如夫妇回门酒。新娘二姐夫为官校二十八期第一名毕业者，向李敖殷殷致敬。",
+    "view": [
+      "师友线",
+      "旅行线",
+      "日常线",
+      "公共形象线"
+    ],
+    "tags": [
+      "早年日记",
+      "二十年前的一些断片",
+      "环岛卖书记",
+      "凤山",
+      "聚丰楼",
+      "荫如夫妇",
+      "回门酒",
+      "官校二十八期",
+      "致敬"
+    ],
+    "people": [
+      "李敖",
+      "荫如",
+      "荫如妻",
+      "新娘二姐夫"
+    ],
+    "places": [
+      "凤山",
+      "聚丰楼"
+    ],
+    "works": [
+      "早年日记"
+    ],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "zaonian-riji-1966-11-23-yinru-accompanies-car-repair-and-couple-to-ride-north"
+    ],
+    "source": {
+      "book": "早年日记",
+      "chapter": "004.二十年前的一些断片",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+      "line": 1065,
+      "note": "本条据《早年日记》原记。"
+    }
+  },
+  {
+    "id": "zaonian-riji-1966-11-23-pingtung-universal-bookstore-boss-tian-serves-coffee",
+    "date": "1966-11-23",
+    "displayDate": "1966年11月23日晚饭后",
+    "datePrecision": "day",
+    "title": "李敖饭后去屏东，见环球书店老板，沈阳人田老板请咖啡",
+    "summary": "1966年11月23日晚饭后，李敖去屏东，见环球书店老板；沈阳人田老板请他喝咖啡。此条延续环岛卖书的地方书店接触线。",
+    "view": [
+      "出版线",
+      "旅行线",
+      "师友线"
+    ],
+    "tags": [
+      "早年日记",
+      "二十年前的一些断片",
+      "环岛卖书记",
+      "屏东",
+      "环球书店",
+      "田老板",
+      "沈阳人",
+      "咖啡",
+      "书店老板"
+    ],
+    "people": [
+      "李敖",
+      "田老板",
+      "环球书店老板"
+    ],
+    "places": [
+      "屏东",
+      "环球书店"
+    ],
+    "works": [
+      "早年日记",
+      "李敖告别文坛十书"
+    ],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "qianqiu-wansui-1966-11-05-051-publishes-farewell-literary-world-ten-books",
+      "zaonian-riji-1966-11-22-tainan-meets-wang-shixian-and-jiang-zongtang"
+    ],
+    "source": {
+      "book": "早年日记",
+      "chapter": "004.二十年前的一些断片",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+      "line": 1067,
+      "note": "本条据《早年日记》原记。"
+    }
+  },
+  {
+    "id": "zaonian-riji-1966-11-23-searches-lodging-at-sichongxi-hengchun-kenting-until-four",
+    "date": "1966-11-23",
+    "displayDate": "1966年11月23日深夜至近4时",
+    "datePrecision": "day",
+    "title": "李敖开车抵四重溪、恒春觅旅社不果，深夜入垦丁又折返恒春投宿",
+    "summary": "1966年11月23日，李敖饭后去屏东后再开车抵四重溪、恒春，皆觅旅社不果；深夜入垦丁，遇山而止，又折返恒春投宿，已夜近4时。",
+    "view": [
+      "旅行线",
+      "日常线"
+    ],
+    "tags": [
+      "早年日记",
+      "二十年前的一些断片",
+      "环岛卖书记",
+      "四重溪",
+      "恒春",
+      "垦丁",
+      "觅旅社",
+      "投宿",
+      "深夜",
+      "开车"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "屏东",
+      "四重溪",
+      "恒春",
+      "垦丁"
+    ],
+    "works": [
+      "早年日记"
+    ],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "zaonian-riji-1966-11-23-pingtung-universal-bookstore-boss-tian-serves-coffee",
+      "zaonian-riji-1966-11-24-noisy-hengchun-inn-and-long-distance-call-to-h"
+    ],
+    "source": {
+      "book": "早年日记",
+      "chapter": "004.二十年前的一些断片",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+      "line": 1067,
+      "note": "本条据《早年日记》原记。"
+    }
+  },
+  {
+    "id": "zaonian-riji-1966-11-24-noisy-hengchun-inn-and-long-distance-call-to-h",
+    "date": "1966-11-24",
+    "displayDate": "1966年11月24日晨",
+    "datePrecision": "day",
+    "title": "李敖晨记旅社极嘈杂，并给 H 长途电话",
+    "summary": "1966年11月24日星期四晨，李敖记旅社极嘈杂。当天他又给 H 打长途电话，保留了环岛卖书途中住宿环境与情感联系的日常细节。",
+    "view": [
+      "情感线",
+      "旅行线",
+      "日常线"
+    ],
+    "tags": [
+      "早年日记",
+      "二十年前的一些断片",
+      "环岛卖书记",
+      "旅社",
+      "嘈杂",
+      "H",
+      "长途电话",
+      "恒春"
+    ],
+    "people": [
+      "李敖",
+      "H"
+    ],
+    "places": [
+      "恒春"
+    ],
+    "works": [
+      "早年日记"
+    ],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "zaonian-riji-1966-11-23-searches-lodging-at-sichongxi-hengchun-kenting-until-four"
+    ],
+    "source": {
+      "book": "早年日记",
+      "chapter": "004.二十年前的一些断片",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+      "line": 1069,
+      "note": "本条据《早年日记》原记。"
+    }
+  },
+  {
+    "id": "zaonian-riji-1966-11-24-registered-letter-to-taipei-postmaster-over-delayed-books",
+    "date": "1966-11-24",
+    "displayDate": "1966年11月24日",
+    "datePrecision": "day",
+    "title": "李敖给台北邮局局长限时双挂存证信，警告其迟递书件",
+    "summary": "1966年11月24日，李敖给台北邮局局长寄限时双挂存证信，警告他为什么迟递自己的书。恒春邮局局长颇以为问。此条显示《告别文坛十书》环岛销售期间，李敖也在追究邮递延误对书件流通的影响。",
+    "view": [
+      "出版线",
+      "司法线",
+      "旅行线"
+    ],
+    "tags": [
+      "早年日记",
+      "二十年前的一些断片",
+      "环岛卖书记",
+      "台北邮局局长",
+      "恒春邮局局长",
+      "限时双挂",
+      "存证信",
+      "迟递",
+      "书件",
+      "告别文坛十书"
+    ],
+    "people": [
+      "李敖",
+      "台北邮局局长",
+      "恒春邮局局长"
+    ],
+    "places": [
+      "恒春",
+      "台北"
+    ],
+    "works": [
+      "早年日记",
+      "李敖告别文坛十书"
+    ],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "qianqiu-wansui-1966-11-05-051-publishes-farewell-literary-world-ten-books",
+      "zaonian-riji-1966-11-22-writes-letter-to-garrison-and-heads-south"
+    ],
+    "source": {
+      "book": "早年日记",
+      "chapter": "004.二十年前的一些断片",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+      "line": 1075,
+      "note": "本条据《早年日记》原记。"
+    }
+  },
+  {
+    "id": "zaonian-riji-1966-11-24-kenting-guide-xu-national-park-and-three-seas-view",
+    "date": "1966-11-24",
+    "displayDate": "1966年11月24日上午至12时05分",
+    "datePrecision": "day",
+    "title": "李敖再赴垦丁公园，请湖北人许先生带路观国家公园内景",
+    "summary": "1966年11月24日，李敖再赴垦丁公园，请到湖北人导游许先生带路，得观国家公园全部内景。他记山如国画中山，钟乳狭谷颇不恶；12点05分开始在山顶用望远镜看太平洋、巴士海峡及台湾海峡。",
+    "view": [
+      "旅行线",
+      "日常线"
+    ],
+    "tags": [
+      "早年日记",
+      "二十年前的一些断片",
+      "环岛卖书记",
+      "垦丁公园",
+      "许先生",
+      "湖北人",
+      "国家公园",
+      "钟乳狭谷",
+      "望远镜",
+      "太平洋",
+      "巴士海峡",
+      "台湾海峡"
+    ],
+    "people": [
+      "李敖",
+      "许先生"
+    ],
+    "places": [
+      "垦丁公园",
+      "太平洋",
+      "巴士海峡",
+      "台湾海峡"
+    ],
+    "works": [
+      "早年日记"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "早年日记",
+      "chapter": "004.二十年前的一些断片",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+      "line": 1077,
+      "note": "本条据《早年日记》原记。"
+    }
+  },
+  {
+    "id": "zaonian-riji-1966-11-24-eluanbi-lighthouse-clouds-and-beach-americans",
+    "date": "1966-11-24",
+    "displayDate": "1966年11月24日下午2时后",
+    "datePrecision": "day",
+    "title": "李敖去鹅銮鼻，卧石栏看云，又到 Beach 看美国男女沙滩嬉戏",
+    "summary": "1966年11月24日下午2点后，李敖去鹅銮鼻，记灯塔极美，建筑也颇欧化；他卧在石栏上看云，海风吹来，颇得开畅之乐。归途又去 Beach，看美国男女沙滩嬉戏，颇有感触。",
+    "view": [
+      "旅行线",
+      "日常线"
+    ],
+    "tags": [
+      "早年日记",
+      "二十年前的一些断片",
+      "环岛卖书记",
+      "鹅銮鼻",
+      "灯塔",
+      "石栏",
+      "看云",
+      "海风",
+      "Beach",
+      "美国男女",
+      "沙滩"
+    ],
+    "people": [
+      "李敖",
+      "美国男女"
+    ],
+    "places": [
+      "鹅銮鼻",
+      "Beach",
+      "恒春半岛"
+    ],
+    "works": [
+      "早年日记"
+    ],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "zaonian-riji-1966-11-24-kenting-guide-xu-national-park-and-three-seas-view"
+    ],
+    "source": {
+      "book": "早年日记",
+      "chapter": "004.二十年前的一些断片",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+      "line": 1079,
+      "note": "本条据《早年日记》原记。"
+    }
+  },
+  {
+    "id": "zaonian-riji-1966-11-24-fenggang-takes-car-and-hard-mountain-sea-road-to-taitung",
+    "date": "1966-11-24",
+    "displayDate": "1966年11月24日傍晚至夜",
+    "datePrecision": "day",
+    "title": "李敖到枫港接车，傍晚赴台东途中遇生平仅见难行山海路",
+    "summary": "1966年11月24日，李敖到枫港接车，并记枫港苍蝇极多。傍晚去台东途中，一开始山路晚景甚美，高山族亦多；后来突入崎路，难行程度生平仅见，左为高山、右为大海，中间是坏路与来去车，极艰苦难行。",
+    "view": [
+      "旅行线",
+      "日常线"
+    ],
+    "tags": [
+      "早年日记",
+      "二十年前的一些断片",
+      "环岛卖书记",
+      "枫港",
+      "接车",
+      "苍蝇",
+      "台东",
+      "山路",
+      "高山族",
+      "太平洋",
+      "坏路",
+      "艰苦难行"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "枫港",
+      "台东途中",
+      "太平洋"
+    ],
+    "works": [
+      "早年日记"
+    ],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "zaonian-riji-1966-11-23-yinru-accompanies-car-repair-and-couple-to-ride-north",
+      "zaonian-riji-1966-11-25-northbound-rivers-wading-and-car-repairs",
+      "zaonian-riji-1966-11-25-washboard-road-rail-bridge-and-yinru-car-trapped"
+    ],
+    "source": {
+      "book": "早年日记",
+      "chapter": "004.二十年前的一些断片",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+      "line": 1081,
+      "note": "本条据《早年日记》原记。"
+    }
+  },
+  {
+    "id": "zaonian-riji-1966-11-24-arrives-zhiben-grand-hotel-at-ten-thirty",
+    "date": "1966-11-24",
+    "displayDate": "1966年11月24日晚10时半",
+    "datePrecision": "day",
+    "title": "李敖晚10时半抵知本，投宿知本大饭店",
+    "summary": "1966年11月24日晚10点半，李敖方抵知本，投宿知本大饭店。他记饭店以耸立青山为背，建筑颇美，接续此前艰苦难行的山海路。",
+    "view": [
+      "旅行线",
+      "日常线"
+    ],
+    "tags": [
+      "早年日记",
+      "二十年前的一些断片",
+      "环岛卖书记",
+      "知本",
+      "知本大饭店",
+      "投宿",
+      "青山",
+      "建筑"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "知本",
+      "知本大饭店"
+    ],
+    "works": [
+      "早年日记"
+    ],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "zaonian-riji-1966-11-24-fenggang-takes-car-and-hard-mountain-sea-road-to-taitung",
+      "zaonian-riji-1966-11-25-zhiben-morning-light-and-rain-clouds"
+    ],
+    "source": {
+      "book": "早年日记",
+      "chapter": "004.二十年前的一些断片",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+      "line": 1081,
+      "note": "本条据《早年日记》原记。"
+    }
+  },
+  {
+    "id": "zaonian-riji-1966-11-24-yinru-couple-celebrates-huanwen-birthday-at-zhiben",
+    "date": "1966-11-24",
+    "displayDate": "1966年11月24日晚，知本",
+    "datePrecision": "day",
+    "title": "荫如夫妇为焕文祝生，李敖作陪",
+    "summary": "1966年11月24日晚抵知本后，荫如夫妇为焕文祝生，李敖作陪。这条接续前一日决定小夫妇坐李敖车北返以及环岛同行关系。",
+    "view": [
+      "师友线",
+      "旅行线",
+      "日常线"
+    ],
+    "tags": [
+      "早年日记",
+      "二十年前的一些断片",
+      "环岛卖书记",
+      "荫如夫妇",
+      "焕文",
+      "祝生",
+      "知本"
+    ],
+    "people": [
+      "李敖",
+      "荫如",
+      "荫如妻",
+      "焕文"
+    ],
+    "places": [
+      "知本",
+      "知本大饭店"
+    ],
+    "works": [
+      "早年日记"
+    ],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "zaonian-riji-1966-11-23-yinru-accompanies-car-repair-and-couple-to-ride-north",
+      "zaonian-riji-1966-11-24-arrives-zhiben-grand-hotel-at-ten-thirty"
+    ],
+    "source": {
+      "book": "早年日记",
+      "chapter": "004.二十年前的一些断片",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+      "line": 1081,
+      "note": "本条据《早年日记》原记。"
+    }
+  },
+  {
+    "id": "zaonian-riji-1966-11-24-first-massage-and-zhiben-hot-spring",
+    "date": "1966-11-24",
+    "displayDate": "1966年11月24日晚，知本大饭店",
+    "datePrecision": "day",
+    "title": "李敖在知本第一次被按摩师按摩，并记温泉水清而无臭",
+    "summary": "1966年11月24日晚，在知本大饭店，一位合肥籍按摩师来按摩，李敖记这是自己生平第一次被按摩师按摩。此人学按摩一年半，原为军人，1953年失明，每次按摩四十元。李敖又记知本温泉水清而无臭，颇好。",
+    "view": [
+      "旅行线",
+      "健康线",
+      "日常线"
+    ],
+    "tags": [
+      "早年日记",
+      "二十年前的一些断片",
+      "环岛卖书记",
+      "知本大饭店",
+      "按摩师",
+      "合肥籍",
+      "军人",
+      "失明",
+      "四十元",
+      "第一次按摩",
+      "温泉"
+    ],
+    "people": [
+      "李敖",
+      "合肥籍按摩师"
+    ],
+    "places": [
+      "知本",
+      "知本大饭店"
+    ],
+    "works": [
+      "早年日记"
+    ],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "zaonian-riji-1966-11-24-arrives-zhiben-grand-hotel-at-ten-thirty"
+    ],
+    "source": {
+      "book": "早年日记",
+      "chapter": "004.二十年前的一些断片",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+      "line": 1081,
+      "note": "本条据《早年日记》原记。"
+    }
+  },
+  {
+    "id": "zaonian-riji-1966-11-25-zhiben-morning-light-and-rain-clouds",
+    "date": "1966-11-25",
+    "displayDate": "1966年11月25日清晨",
+    "datePrecision": "day",
+    "title": "李敖在知本见晨光甚美，又记雨云低垂山下树上",
+    "summary": "1966年11月25日星期五，李敖记晨光甚美。清晨下雨，云低垂在山下树上，极美。这是环岛卖书记中由知本出发前的自然观察。",
+    "view": [
+      "旅行线",
+      "日常线"
+    ],
+    "tags": [
+      "早年日记",
+      "二十年前的一些断片",
+      "环岛卖书记",
+      "知本",
+      "晨光",
+      "下雨",
+      "低云",
+      "风景"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "知本"
+    ],
+    "works": [
+      "早年日记"
+    ],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "zaonian-riji-1966-11-24-arrives-zhiben-grand-hotel-at-ten-thirty"
+    ],
+    "source": {
+      "book": "早年日记",
+      "chapter": "004.二十年前的一些断片",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+      "line": 1083,
+      "note": "本条据《早年日记》原记。"
+    }
+  },
+  {
+    "id": "zaonian-riji-1966-11-25-thinks-of-writing-chinese-view-of-sexes",
+    "date": "1966-11-25",
+    "displayDate": "1966年11月25日",
+    "datePrecision": "day",
+    "title": "李敖思写《中国人的两性观》一书",
+    "summary": "1966年11月25日，李敖记“思写《中国人的两性观》一书”。这是环岛卖书途中突然浮现的明确写作计划，应单独作为写作线保存。",
+    "view": [
+      "写作线",
+      "思想线"
+    ],
+    "tags": [
+      "早年日记",
+      "二十年前的一些断片",
+      "中国人的两性观",
+      "写作计划",
+      "两性观",
+      "写书念头"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "知本"
+    ],
+    "works": [
+      "早年日记",
+      "中国人的两性观"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "早年日记",
+      "chapter": "004.二十年前的一些断片",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+      "line": 1087,
+      "note": "本条据《早年日记》原记。"
+    }
+  },
+  {
+    "id": "zaonian-riji-1966-11-25-arrives-taitung-and-visits-hu-tiehua-monument-in-rain",
+    "date": "1966-11-25",
+    "displayDate": "1966年11月25日午前",
+    "datePrecision": "day",
+    "title": "李敖午前抵台东，雨中逛胡铁花纪念碑",
+    "summary": "1966年11月25日午前，李敖抵台东，在雨中逛胡铁花纪念碑。此条接续前一晚知本投宿和当天清晨雨景。",
+    "view": [
+      "旅行线",
+      "日常线"
+    ],
+    "tags": [
+      "早年日记",
+      "二十年前的一些断片",
+      "环岛卖书记",
+      "台东",
+      "胡铁花纪念碑",
+      "雨中"
+    ],
+    "people": [
+      "李敖",
+      "胡铁花"
+    ],
+    "places": [
+      "台东",
+      "胡铁花纪念碑"
+    ],
+    "works": [
+      "早年日记"
+    ],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "zaonian-riji-1966-11-25-zhiben-morning-light-and-rain-clouds"
+    ],
+    "source": {
+      "book": "早年日记",
+      "chapter": "004.二十年前的一些断片",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+      "line": 1091,
+      "note": "本条据《早年日记》原记。"
+    }
+  },
+  {
+    "id": "zaonian-riji-1966-11-25-northbound-rivers-wading-and-car-repairs",
+    "date": "1966-11-25",
+    "displayDate": "1966年11月25日午后",
+    "datePrecision": "day",
+    "title": "李敖午后北上，路上过河四五处，下车涉水多次并修车",
+    "summary": "1966年11月25日午后，李敖北上，路上过河四五处，车为之阻。他下车涉水多次并修车，记颇好玩，也冷冽。",
+    "view": [
+      "旅行线",
+      "日常线"
+    ],
+    "tags": [
+      "早年日记",
+      "二十年前的一些断片",
+      "环岛卖书记",
+      "北上",
+      "过河",
+      "涉水",
+      "修车",
+      "冷冽"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台东至花莲途中"
+    ],
+    "works": [
+      "早年日记"
+    ],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "zaonian-riji-1966-11-24-fenggang-takes-car-and-hard-mountain-sea-road-to-taitung"
+    ],
+    "source": {
+      "book": "早年日记",
+      "chapter": "004.二十年前的一些断片",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+      "line": 1091,
+      "note": "本条据《早年日记》原记。"
+    }
+  },
+  {
+    "id": "zaonian-riji-1966-11-25-washboard-road-rail-bridge-and-yinru-car-trapped",
+    "date": "1966-11-25",
+    "displayDate": "1966年11月25日午后",
+    "datePrecision": "day",
+    "title": "李敖记洗衣板路与桥上铁轨路极多，荫如开车陷窄铁轨中",
+    "summary": "1966年11月25日，李敖记路上“洗衣板路”及桥上铁轨路极多。荫如开车，车陷窄铁轨中，场面颇惊险。",
+    "view": [
+      "旅行线",
+      "日常线"
+    ],
+    "tags": [
+      "早年日记",
+      "二十年前的一些断片",
+      "环岛卖书记",
+      "洗衣板路",
+      "铁轨路",
+      "荫如",
+      "开车",
+      "陷车",
+      "惊险"
+    ],
+    "people": [
+      "李敖",
+      "荫如"
+    ],
+    "places": [
+      "台东至花莲途中"
+    ],
+    "works": [
+      "早年日记"
+    ],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "zaonian-riji-1966-11-25-northbound-rivers-wading-and-car-repairs"
+    ],
+    "source": {
+      "book": "早年日记",
+      "chapter": "004.二十年前的一些断片",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+      "line": 1091,
+      "note": "本条据《早年日记》原记。"
+    }
+  },
+  {
+    "id": "zaonian-riji-1966-11-25-arrives-hualien-near-midnight-and-telegrams-h",
+    "date": "1966-11-25",
+    "displayDate": "1966年11月25日近子夜",
+    "datePrecision": "day",
+    "title": "李敖近子夜抵花莲，住恒春大旅社并给 H 电报",
+    "summary": "1966年11月25日近子夜，李敖抵花莲，住恒春大旅社，并给 H 发一封电报。此条接续前一日给 H 长途电话，显示环岛途中仍保持联系。",
+    "view": [
+      "情感线",
+      "旅行线",
+      "日常线"
+    ],
+    "tags": [
+      "早年日记",
+      "二十年前的一些断片",
+      "环岛卖书记",
+      "花莲",
+      "恒春大旅社",
+      "H",
+      "电报"
+    ],
+    "people": [
+      "李敖",
+      "H"
+    ],
+    "places": [
+      "花莲",
+      "恒春大旅社"
+    ],
+    "works": [
+      "早年日记"
+    ],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "zaonian-riji-1966-11-24-noisy-hengchun-inn-and-long-distance-call-to-h",
+      "zaonian-riji-1966-11-25-washboard-road-rail-bridge-and-yinru-car-trapped"
+    ],
+    "source": {
+      "book": "早年日记",
+      "chapter": "004.二十年前的一些断片",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+      "line": 1093,
+      "note": "本条据《早年日记》原记。"
+    }
+  },
+  {
+    "id": "zaonian-riji-1966-11-25-suhua-closed-switches-to-cross-island-highway-and-repairs-car-until-three",
+    "date": "1966-11-25",
+    "displayDate": "1966年11月25日深夜至26日凌晨3时",
+    "datePrecision": "day",
+    "title": "因苏花公路不通，李敖决定改走横贯公路，深夜敲店门市衣修车至3时始睡",
+    "summary": "1966年11月25日夜，因苏花公路不通，李敖决定改走横贯公路。他深夜敲店门市衣修车，夜3时始睡，为次日横贯公路返北作准备。",
+    "view": [
+      "旅行线",
+      "日常线"
+    ],
+    "tags": [
+      "早年日记",
+      "二十年前的一些断片",
+      "环岛卖书记",
+      "苏花公路",
+      "横贯公路",
+      "修车",
+      "深夜",
+      "3时始睡",
+      "花莲"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "花莲",
+      "苏花公路",
+      "横贯公路"
+    ],
+    "works": [
+      "早年日记"
+    ],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "zaonian-riji-1966-11-25-arrives-hualien-near-midnight-and-telegrams-h",
+      "zaonian-riji-1966-11-26-enters-cross-island-highway-tianxiang-dangerous-road",
+      "zaonian-riji-1966-11-26-drives-to-hsinchu-after-dinner-and-returns-taipei-at-midnight"
+    ],
+    "source": {
+      "book": "早年日记",
+      "chapter": "004.二十年前的一些断片",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+      "line": 1093,
+      "note": "本条据《早年日记》原记。"
+    }
+  },
+  {
+    "id": "zaonian-riji-1966-11-26-wakes-early-leaves-hualien-passes-stella-maris",
+    "date": "1966-11-26",
+    "displayDate": "1966年11月26日6时至7时半后",
+    "datePrecision": "day",
+    "title": "李敖6时即醒，7时半离花莲，过海星女中而生感",
+    "summary": "1966年11月26日星期六，李敖6时即醒，7时半离花莲。大路上过海星女中，颇令他人生感不已。",
+    "view": [
+      "旅行线",
+      "日常线"
+    ],
+    "tags": [
+      "早年日记",
+      "二十年前的一些断片",
+      "环岛卖书记",
+      "花莲",
+      "海星女中",
+      "早醒",
+      "离花莲"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "花莲",
+      "海星女中"
+    ],
+    "works": [
+      "早年日记"
+    ],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "zaonian-riji-1966-11-25-arrives-hualien-near-midnight-and-telegrams-h"
+    ],
+    "source": {
+      "book": "早年日记",
+      "chapter": "004.二十年前的一些断片",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+      "line": 1095,
+      "note": "本条据《早年日记》原记。"
+    }
+  },
+  {
+    "id": "zaonian-riji-1966-11-26-enters-cross-island-highway-tianxiang-dangerous-road",
+    "date": "1966-11-26",
+    "displayDate": "1966年11月26日上午",
+    "datePrecision": "day",
+    "title": "李敖入横贯公路，风景奇佳，过天祥后路亦惊险",
+    "summary": "1966年11月26日，李敖旋入横贯公路，记风景奇佳；过天祥后，路也变得惊险。这是前一夜因苏花公路不通而改走横贯公路的实行。",
+    "view": [
+      "旅行线",
+      "日常线"
+    ],
+    "tags": [
+      "早年日记",
+      "二十年前的一些断片",
+      "环岛卖书记",
+      "横贯公路",
+      "天祥",
+      "风景",
+      "险路"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "横贯公路",
+      "天祥"
+    ],
+    "works": [
+      "早年日记"
+    ],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "zaonian-riji-1966-11-25-suhua-closed-switches-to-cross-island-highway-and-repairs-car-until-three",
+      "zaonian-riji-1966-11-26-wakes-early-leaves-hualien-passes-stella-maris"
+    ],
+    "source": {
+      "book": "早年日记",
+      "chapter": "004.二十年前的一些断片",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+      "line": 1097,
+      "note": "本条据《早年日记》原记。"
+    }
+  },
+  {
+    "id": "zaonian-riji-1966-11-26-landslides-at-2600-meters-and-dayuling-food",
+    "date": "1966-11-26",
+    "displayDate": "1966年11月26日",
+    "datePrecision": "day",
+    "title": "李敖在海拔二千六百米处见多处坍方，到大禹岭始有东西可买食",
+    "summary": "1966年11月26日，李敖行至海拔二千六百米以上，见坍方有多处。大禹岭为最高点，他到那里才有东西可买来吃。",
+    "view": [
+      "旅行线",
+      "日常线"
+    ],
+    "tags": [
+      "早年日记",
+      "二十年前的一些断片",
+      "环岛卖书记",
+      "横贯公路",
+      "海拔二千六百米",
+      "坍方",
+      "大禹岭",
+      "买食"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "横贯公路",
+      "大禹岭"
+    ],
+    "works": [
+      "早年日记"
+    ],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "zaonian-riji-1966-11-26-enters-cross-island-highway-tianxiang-dangerous-road"
+    ],
+    "source": {
+      "book": "早年日记",
+      "chapter": "004.二十年前的一些断片",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+      "line": 1097,
+      "note": "本条据《早年日记》原记。"
+    }
+  },
+  {
+    "id": "zaonian-riji-1966-11-26-arrives-lishan-and-drives-downhill-to-plain",
+    "date": "1966-11-26",
+    "displayDate": "1966年11月26日下午",
+    "datePrecision": "day",
+    "title": "李敖下午到梨山，梨山以下多下坡，由他直开抵平原",
+    "summary": "1966年11月26日下午，李敖到梨山，记风光不恶。梨山以下多下坡，由李敖直开抵平原。",
+    "view": [
+      "旅行线",
+      "日常线"
+    ],
+    "tags": [
+      "早年日记",
+      "二十年前的一些断片",
+      "环岛卖书记",
+      "梨山",
+      "风光",
+      "下坡",
+      "开车",
+      "平原"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "梨山",
+      "台湾中部"
+    ],
+    "works": [
+      "早年日记"
+    ],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "zaonian-riji-1966-11-26-landslides-at-2600-meters-and-dayuling-food"
+    ],
+    "source": {
+      "book": "早年日记",
+      "chapter": "004.二十年前的一些断片",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+      "line": 1097,
+      "note": "本条据《早年日记》原记。"
+    }
+  },
+  {
+    "id": "zaonian-riji-1966-11-26-drives-to-hsinchu-after-dinner-and-returns-taipei-at-midnight",
+    "date": "1966-11-26",
+    "displayDate": "1966年11月26日晚至夜12时",
+    "datePrecision": "day",
+    "title": "李敖晚饭后一口气开至新竹，夜归北已12时",
+    "summary": "1966年11月26日，李敖晚饭后一口气开至新竹；夜里归北时已是12时。至此，11月21日以来的“环岛卖书记”行程收束回台北。",
+    "view": [
+      "旅行线",
+      "日常线"
+    ],
+    "tags": [
+      "早年日记",
+      "二十年前的一些断片",
+      "环岛卖书记",
+      "新竹",
+      "归北",
+      "台北",
+      "夜12时",
+      "开车"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "新竹",
+      "台北"
+    ],
+    "works": [
+      "早年日记"
+    ],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "zaonian-riji-1966-11-26-arrives-lishan-and-drives-downhill-to-plain",
+      "zaonian-riji-1966-11-21-starts-southbound-book-selling-with-huanwen-to-taichung"
+    ],
+    "source": {
+      "book": "早年日记",
+      "chapter": "004.二十年前的一些断片",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+      "line": 1097,
+      "note": "本条据《早年日记》原记。"
+    }
+  },
+  {
+    "id": "zaonian-riji-1966-12-09-appears-in-xu-yu-case-and-rebukes-duanmu-kai",
+    "date": "1966-12-09",
+    "displayDate": "1966年12月9日上午",
+    "datePrecision": "day",
+    "title": "李敖上午出控徐余案庭，斥端木恺律师",
+    "summary": "1966年12月9日上午，李敖出控徐复观、余纪忠案庭，并斥端木恺律师。此条是5月送状、9月地院判徐余皆无罪、10月高院上诉之后的又一次出庭现场。",
+    "view": [
+      "司法线",
+      "论战线"
+    ],
+    "tags": [
+      "早年日记",
+      "二十年前的一些断片",
+      "徐余案",
+      "徐复观",
+      "余纪忠",
+      "端木恺",
+      "律师",
+      "出庭",
+      "控告"
+    ],
+    "people": [
+      "李敖",
+      "徐复观",
+      "余纪忠",
+      "端木恺"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "早年日记"
+    ],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "zaonian-riji-1966-05-07-files-complaint-against-xu-fuguan-yu-jizhong-and-visits-united-daily",
+      "zaonian-riji-1966-09-09-taipei-district-court-acquits-xu-fuguan-yu-jizhong",
+      "zaonian-riji-1966-10-12-high-court-appeal-xu-yu-yu-jizhong-party-meeting-excuse",
+      "zaonian-riji-1966-12-26-xu-case-appeal-dismissed-and-judicial-darkness-feeling"
+    ],
+    "source": {
+      "book": "早年日记",
+      "chapter": "004.二十年前的一些断片",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+      "line": 1099,
+      "note": "本条据《早年日记》原记。"
+    },
+    "additionalSources": [
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 1119,
+        "note": "1966年12月26日原记补明“控徐等案上诉驳回”，且李敖在法院涌现“司法黑暗”之念。"
+      }
+    ]
+  },
+  {
+    "id": "zaonian-riji-1966-12-09-counterclaim-hu-case-rebukes-hu-qiuyuan-one-and-half-hours",
+    "date": "1966-12-09",
+    "displayDate": "1966年12月9日下午",
+    "datePrecision": "day",
+    "title": "李敖下午出反诉胡案庭，痛斥胡秋原一个半小时，推事为之动容",
+    "summary": "1966年12月9日下午，李敖出反诉胡案庭，痛斥胡秋原一个半小时，推事为之动容。此条承接胡秋原对李敖的诽谤控告、11月《中华杂志》攻击，以及后来长期延伸至胡秋原判赔的官司链。",
+    "view": [
+      "司法线",
+      "论战线",
+      "政治线"
+    ],
+    "tags": [
+      "早年日记",
+      "二十年前的一些断片",
+      "反诉胡案",
+      "胡秋原",
+      "痛斥",
+      "推事",
+      "动容",
+      "出庭",
+      "官司"
+    ],
+    "people": [
+      "李敖",
+      "胡秋原",
+      "推事"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "早年日记"
+    ],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "traditional-monologue-1963-08-16-if-i-were-a-woman-post-publication-backlash-note",
+      "1966-11-16-hu-qiuyuan-publishes-letter",
+      "zaonian-riji-1966-11-18-central-daily-runs-zhonghua-magazine-ad-accusing-communist",
+      "book7-1999-08-27-hu-qiuyuan-loses-final-appeal-and-must-pay-li-ao"
+    ],
+    "source": {
+      "book": "早年日记",
+      "chapter": "004.二十年前的一些断片",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+      "line": 1103,
+      "note": "本条据《早年日记》原记。"
+    }
+  },
+  {
+    "id": "zaonian-riji-1966-12-21-second-precinct-sealed-book-room-fee-garrison-pays",
+    "date": "1966-12-21",
+    "displayDate": "1966年12月21日上午",
+    "datePrecision": "day",
+    "title": "李敖又去二分局，与郑局长、娄警官谈封书房房费，李中校答应由警总出钱",
+    "summary": "1966年12月21日上午，李敖又去二分局，与郑局长、娄警官“打开窗子说话”。他拒绝出封书房之房费；结果娄警官与李中校通电话，李中校答应由警总出钱。这是11月雅江街查扣和封书房之后的费用善后细节。",
+    "view": [
+      "司法线",
+      "出版线",
+      "财务线"
+    ],
+    "tags": [
+      "早年日记",
+      "二十年前的一些断片",
+      "二分局",
+      "郑局长",
+      "娄警官",
+      "娄振岳",
+      "李中校",
+      "李国瑾",
+      "封书房",
+      "房费",
+      "警总",
+      "告别文坛十书"
+    ],
+    "people": [
+      "李敖",
+      "郑局长",
+      "娄振岳",
+      "李国瑾"
+    ],
+    "places": [
+      "二分局"
+    ],
+    "works": [
+      "早年日记",
+      "李敖告别文坛十书"
+    ],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "book7-1966-11-09-books-seized-at-yajiang-binding-factory",
+      "1966-books-banned",
+      "zaonian-riji-1966-11-15-fuyuan-letter-police-refuse-release-lou-issues-permit",
+      "zaonian-riji-1966-11-21-bindery-talks-with-lou-officer-until-four"
+    ],
+    "source": {
+      "book": "早年日记",
+      "chapter": "004.二十年前的一些断片",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+      "line": 1105,
+      "note": "本条据《早年日记》原记。"
+    }
+  },
+  {
+    "id": "zaonian-riji-1966-12-21-visits-lawyer-li-twice-and-gives-four-books",
+    "date": "1966-12-21",
+    "displayDate": "1966年12月21日",
+    "datePrecision": "day",
+    "title": "李敖去李律师处二次，并送李律师书四册",
+    "summary": "1966年12月21日，李敖去李律师处两次，并送李律师书四册。此事接续12月9日出庭后与律师的往来，也保留《告别文坛十书》余波中的送书细节。",
+    "view": [
+      "司法线",
+      "出版线",
+      "师友线"
+    ],
+    "tags": [
+      "早年日记",
+      "二十年前的一些断片",
+      "李律师",
+      "送书",
+      "四册",
+      "出庭后",
+      "告别文坛十书"
+    ],
+    "people": [
+      "李敖",
+      "李律师"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "早年日记",
+      "李敖告别文坛十书"
+    ],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "zaonian-riji-1966-12-09-appears-in-xu-yu-case-and-rebukes-duanmu-kai",
+      "qianqiu-wansui-1966-11-05-051-publishes-farewell-literary-world-ten-books"
+    ],
+    "source": {
+      "book": "早年日记",
+      "chapter": "004.二十年前的一些断片",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+      "line": 1109,
+      "note": "本条据《早年日记》原记。"
+    }
+  },
+  {
+    "id": "zaonian-riji-1966-12-21-leaves-photo-at-guangti-and-maintains-car-at-yulon",
+    "date": "1966-12-21",
+    "displayDate": "1966年12月21日",
+    "datePrecision": "day",
+    "title": "李敖去光逖处留片，下午去裕隆保养车",
+    "summary": "1966年12月21日，李敖去光逖处留片。下午，他去裕隆保养车，接续11月以来买车、修车、环岛卖书之后的汽车维护线。",
+    "view": [
+      "师友线",
+      "日常线",
+      "旅行线"
+    ],
+    "tags": [
+      "早年日记",
+      "二十年前的一些断片",
+      "光逖",
+      "留片",
+      "裕隆",
+      "保养车",
+      "汽车"
+    ],
+    "people": [
+      "李敖",
+      "光逖"
+    ],
+    "places": [
+      "裕隆",
+      "台北"
+    ],
+    "works": [
+      "早年日记"
+    ],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "zaonian-riji-1966-11-17-yulon-car-zhengfang-helps-and-night-meixin",
+      "zaonian-riji-1966-11-26-drives-to-hsinchu-after-dinner-and-returns-taipei-at-midnight"
+    ],
+    "source": {
+      "book": "早年日记",
+      "chapter": "004.二十年前的一些断片",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+      "line": 1111,
+      "note": "本条据《早年日记》原记。"
+    }
+  },
+  {
+    "id": "zaonian-riji-1966-12-21-dinner-with-h-at-oasis",
+    "date": "1966-12-21",
+    "displayDate": "1966年12月21日夜",
+    "datePrecision": "day",
+    "title": "李敖夜在 Oasis 与 H 晚饭",
+    "summary": "1966年12月21日夜，李敖在 Oasis 与 H 晚饭。此条接续11月下旬环岛途中给 H 电话、电报，以及12月21日白天司法善后和日常事务后的情感线。",
+    "view": [
+      "情感线",
+      "日常线"
+    ],
+    "tags": [
+      "早年日记",
+      "二十年前的一些断片",
+      "Oasis",
+      "H",
+      "晚饭"
+    ],
+    "people": [
+      "李敖",
+      "H"
+    ],
+    "places": [
+      "Oasis"
+    ],
+    "works": [
+      "早年日记"
+    ],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "zaonian-riji-1966-11-24-noisy-hengchun-inn-and-long-distance-call-to-h",
+      "zaonian-riji-1966-11-25-arrives-hualien-near-midnight-and-telegrams-h"
+    ],
+    "source": {
+      "book": "早年日记",
+      "chapter": "004.二十年前的一些断片",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+      "line": 1113,
+      "note": "本条据《早年日记》原记。"
+    }
+  },
+  {
+    "id": "zaonian-riji-1966-12-26-cao-shengfen-court-delayed-plainclothes-checks-arrival",
+    "date": "1966-12-26",
+    "displayDate": "1966年12月26日晨8时30分至9时30分后",
+    "datePrecision": "day",
+    "title": "李敖出控曹圣芬庭，法院便衣持册查其到否且延后开庭",
+    "summary": "1966年12月26日晨8点30分，李敖出控曹圣芬庭；传票上他列第一名且庭期为8点30分，但到9点30分后才开庭。一开始法院一名便衣持油印册向法警查李敖是否已到，册上有四个庭号，李敖判断似乎皆为有关之庭。",
+    "view": [
+      "司法线",
+      "论战线"
+    ],
+    "tags": [
+      "早年日记",
+      "二十年前的一些断片",
+      "曹圣芬",
+      "出庭",
+      "法院",
+      "便衣",
+      "传票",
+      "司法黑暗"
+    ],
+    "people": [
+      "李敖",
+      "曹圣芬",
+      "便衣",
+      "法警"
+    ],
+    "places": [
+      "法院"
+    ],
+    "works": [
+      "早年日记"
+    ],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "zaonian-riji-1966-12-26-judge-skips-li-court-li-questions-and-file-not-brought",
+      "zaonian-riji-1966-08-30-central-daily-ad-negotiation-shang-zhong-cao-shengfen",
+      "qianqiu-wansui-1982-11-07-032-writes-shekou-and-rose"
+    ],
+    "source": {
+      "book": "早年日记",
+      "chapter": "004.二十年前的一些断片",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+      "line": 1117,
+      "note": "本条据《早年日记》原记。"
+    }
+  },
+  {
+    "id": "zaonian-riji-1966-12-26-judge-skips-li-court-li-questions-and-file-not-brought",
+    "date": "1966-12-26",
+    "displayDate": "1966年12月26日上午",
+    "datePrecision": "day",
+    "title": "法官到庭后不开李敖庭，李敖起立质问才发现卷宗未带",
+    "summary": "1966年12月26日上午，曹圣芬案法官到后竟不开李敖的庭，审过两案后李敖起立质问；法官作无奈状，命女书记官下去拿卷，李敖发现卷宗都未带来。后来男书记官来，才开庭；庭讯照例废话一阵，约半小时。",
+    "view": [
+      "司法线"
+    ],
+    "tags": [
+      "早年日记",
+      "二十年前的一些断片",
+      "曹圣芬",
+      "法院",
+      "法官",
+      "书记官",
+      "卷宗",
+      "开庭",
+      "司法黑暗"
+    ],
+    "people": [
+      "李敖",
+      "曹圣芬",
+      "法官",
+      "女书记官",
+      "男书记官"
+    ],
+    "places": [
+      "法院"
+    ],
+    "works": [
+      "早年日记"
+    ],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "zaonian-riji-1966-12-26-cao-shengfen-court-delayed-plainclothes-checks-arrival",
+      "zaonian-riji-1966-08-30-central-daily-ad-negotiation-shang-zhong-cao-shengfen",
+      "qianqiu-wansui-1982-11-07-032-writes-shekou-and-rose"
+    ],
+    "source": {
+      "book": "早年日记",
+      "chapter": "004.二十年前的一些断片",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+      "line": 1117,
+      "note": "本条据《早年日记》原记。"
+    }
+  },
+  {
+    "id": "zaonian-riji-1966-12-26-xu-case-appeal-dismissed-and-judicial-darkness-feeling",
+    "date": "1966-12-26",
+    "displayDate": "1966年12月26日",
+    "datePrecision": "day",
+    "title": "李敖控徐等案上诉驳回，并在法院涌现“司法黑暗”之念",
+    "summary": "1966年12月26日，李敖记下“控徐等案上诉驳回”。同日在法院，他不断涌现“司法黑暗”之念；这是5月控徐复观、余纪忠案，9月地院判徐、余皆无罪，10月高院上诉，12月9日再出庭之后的上诉结果。",
+    "view": [
+      "司法线",
+      "论战线"
+    ],
+    "tags": [
+      "早年日记",
+      "二十年前的一些断片",
+      "徐余案",
+      "徐复观",
+      "余纪忠",
+      "上诉驳回",
+      "司法黑暗"
+    ],
+    "people": [
+      "李敖",
+      "徐复观",
+      "余纪忠"
+    ],
+    "places": [
+      "法院"
+    ],
+    "works": [
+      "早年日记"
+    ],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "zaonian-riji-1966-05-07-files-complaint-against-xu-fuguan-yu-jizhong-and-visits-united-daily",
+      "zaonian-riji-1966-09-09-taipei-district-court-acquits-xu-fuguan-yu-jizhong",
+      "zaonian-riji-1966-10-12-high-court-appeal-xu-yu-yu-jizhong-party-meeting-excuse",
+      "zaonian-riji-1966-12-09-appears-in-xu-yu-case-and-rebukes-duanmu-kai"
+    ],
+    "source": {
+      "book": "早年日记",
+      "chapter": "004.二十年前的一些断片",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+      "line": 1119,
+      "note": "本条据《早年日记》原记；1121行补明李敖在法院涌现“司法黑暗”之念。"
+    }
+  },
+  {
+    "id": "zaonian-riji-1966-12-26-yanzeng-visits-sees-doctor-dinner-at-rm-and-work",
+    "date": "1966-12-26",
+    "displayDate": "1966年12月26日下午至晚间",
+    "datePrecision": "day",
+    "title": "陈彦增来访，李敖看病后在 R.M. 晚饭并回家做工",
+    "summary": "1966年12月26日下午，陈彦增来。李敖看病，晚饭于 R.M.，随后回家做工。他还记下近三天工作不恶，应当以不断与大量的方式持之以恒。",
+    "view": [
+      "生活线",
+      "写作线"
+    ],
+    "tags": [
+      "早年日记",
+      "二十年前的一些断片",
+      "陈彦增",
+      "看病",
+      "R.M.",
+      "晚饭",
+      "做工",
+      "日常"
+    ],
+    "people": [
+      "李敖",
+      "陈彦增"
+    ],
+    "places": [
+      "R.M."
+    ],
+    "works": [
+      "早年日记"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "早年日记",
+      "chapter": "004.二十年前的一些断片",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+      "line": 1123,
+      "note": "本条据《早年日记》原记。"
+    }
+  },
+  {
+    "id": "zaonian-riji-1966-12-26-keelung-ban-selling-li-ao-books-xiaozuo-li-guojin-call",
+    "date": "1966-12-26",
+    "displayDate": "1966年12月26日傍晚",
+    "datePrecision": "day",
+    "title": "李敖电小左得知基隆又禁卖李敖书，李中校答应去电解决",
+    "summary": "1966年12月26日傍晚，李敖打电话给小左，得知基隆方面又发生禁卖李敖书之事。小左已致电李中校，李中校答应去电解决；这是11月《李敖告别文坛十书》查扣、南下卖书途中万利书局遭警告，以及12月21日二分局封书房费用善后之后的禁卖书后续。",
+    "view": [
+      "出版线",
+      "司法线"
+    ],
+    "tags": [
+      "早年日记",
+      "二十年前的一些断片",
+      "小左",
+      "李中校",
+      "李国瑾",
+      "基隆",
+      "禁卖",
+      "禁书",
+      "李敖书",
+      "告别文坛十书"
+    ],
+    "people": [
+      "李敖",
+      "小左",
+      "李国瑾"
+    ],
+    "places": [
+      "基隆"
+    ],
+    "works": [
+      "早年日记",
+      "李敖告别文坛十书"
+    ],
+    "certainty": "confirmed",
+    "crossReferences": [
+      "1966-books-banned",
+      "qianqiu-wansui-1966-11-05-051-publishes-farewell-literary-world-ten-books",
+      "zaonian-riji-1966-11-22-police-visit-wanli-three-times-warning-not-to-sell-li-ao-books",
+      "zaonian-riji-1966-12-21-second-precinct-sealed-book-room-fee-garrison-pays"
+    ],
+    "source": {
+      "book": "早年日记",
+      "chapter": "004.二十年前的一些断片",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+      "line": 1125,
       "note": "本条据《早年日记》原记。"
     }
   }

@@ -635,7 +635,20 @@
       "chapter": "017.《左舜生选集》序",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/004.李敖文存/017.《左舜生选集》序.txt",
       "line": 25
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 1047,
+        "note": "1966年11月21日原记及1986追记补明左舜生在《中央日报》发文，李敖认为其言论显然为自己而发。"
+      }
+    ],
+    "crossReferences": [
+      "zaonian-riji-1966-09-04-early-morning-talk-with-zuo-shunsheng",
+      "zaonian-riji-1966-11-21-zuo-shunsheng-central-daily-article-seen-as-supporting-li-ao"
+    ]
   },
   {
     "id": "wencun-1979-08-22-letter-to-meng-juezi",

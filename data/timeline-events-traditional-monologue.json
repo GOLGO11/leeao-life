@@ -700,14 +700,24 @@
     ],
     "certainty": "confirmed",
     "crossReferences": [
-      "traditional-monologue-1963-06-01-if-i-were-a-woman-published-in-wenxing"
+      "traditional-monologue-1963-06-01-if-i-were-a-woman-published-in-wenxing",
+      "zaonian-riji-1966-12-09-counterclaim-hu-case-rebukes-hu-qiuyuan-one-and-half-hours"
     ],
     "source": {
       "book": "传统下的独白",
       "chapter": "006.假如我是女人",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/006.假如我是女人.txt",
       "line": 61
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 1103,
+        "note": "1966年12月9日原记补明李敖出反诉胡案庭，痛斥胡秋原一个半小时，属于《假如我是女人》后记所称胡秋原控告诽谤后的官司链。"
+      }
+    ]
   },
   {
     "id": "traditional-monologue-1963-10-08-chongyuanguan-revised-from-original-manuscript",

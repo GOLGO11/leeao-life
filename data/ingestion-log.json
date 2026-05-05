@@ -9111,5 +9111,431 @@
       "本轮按原文校正了上一轮推荐语中的误差：11月16至18日未见绍鹏去厂、郑局长、二分局等内容。",
       "《现代》出版条明确标为1986年9月30日李敖追记，不混同为1966年原记当日书写。"
     ]
+  },
+  {
+    "iteration": 271,
+    "date": "2026-05-05",
+    "book": "早年日记",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记",
+    "scope": [
+      "004.二十年前的一些断片.txt：1966-11-21"
+    ],
+    "strategy": "《早年日记》004《二十年前的一些断片》第十六轮：专做1966年11月21日“左舜生仗义”。收录晨访Miles、修车、见H；午后与李中校在中国大饭店八楼谈三小时；再去装订厂与娄警官等谈到4点；4点后与焕文南下沿途卖书、夜抵台中宿意文、书店摊老板称仰慕者颇多；以及李中校盛言左舜生文字、1986追记左舜生《记留台北三周的观感》显然为李敖而发。对雅江街查扣总节点、《告别文坛十书》出版节点、胡秋原《中华杂志》旧节点、《左舜生选集》序节点及9月4日左舜生会面节点补 additionalSources 或 crossReferences。",
+    "filesRead": [
+      "004.二十年前的一些断片.txt",
+      "data/timeline-events-zaonian-riji.json",
+      "data/timeline-events-seventh-book.json",
+      "data/timeline-events-qianqiu-wansui-wuya-qiushi.json",
+      "data/timeline-events-first-book-supplement.json",
+      "data/timeline-events-wencun.json",
+      "data/ingestion-log.json",
+      "exports/leeao-current-timeline.csv.manifest.json"
+    ],
+    "eventsAdded": 5,
+    "crossReferenceUpdates": [
+      "book7-1966-11-09-books-seized-at-yajiang-binding-factory",
+      "qianqiu-wansui-1966-11-05-051-publishes-farewell-literary-world-ten-books",
+      "1966-11-16-hu-qiuyuan-publishes-letter",
+      "wencun-1968-01-10-zuo-shunsheng-selected-works-preface",
+      "zaonian-riji-1966-09-04-early-morning-talk-with-zuo-shunsheng"
+    ],
+    "nextRecommended": [
+      "下一轮进入004《二十年前的一些断片》1966-11-22“环岛卖书记”第一日：重点看晨起写信给警总、南下彰化/员林/北港/西螺/嘉义/台南/高雄，沿途书摊老板反应，台南万利书报社姜宗棠称警察一天三次干涉、各书摊店不敢卖，以及高雄跳舞、小牌、孟能长途电话。",
+      "11月22日地点和人物密集，建议单日处理，不要与11月23-26合并。"
+    ],
+    "output": [
+      "data/timeline-events-zaonian-riji.json",
+      "exports/leeao-current-timeline.txt",
+      "exports/leeao-current-timeline.csv"
+    ],
+    "notes": [
+      "左舜生长段为1986年9月30日追记，新增事件已在 displayDate 与 source note 中标明。",
+      "本轮未复制左舜生长引文全文，只摘要其言论自由、书籍发行与不应置人死地的要点，保留导出内容紧凑性。"
+    ]
+  },
+  {
+    "iteration": 272,
+    "date": "2026-05-05",
+    "book": "早年日记",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记",
+    "scope": [
+      "004.二十年前的一些断片.txt：1966-11-22《环岛卖书记》第一日"
+    ],
+    "strategy": "《早年日记》004《二十年前的一些断片》第十七轮：处理1966年11月22日环岛卖书第一日。收录晨起写信给警总并南下；彰化与焕文入大黑佛肚中、员林买橘子、历北港西螺嘉义且午饭至4点；沿途书摊老板皆道久仰；路上见公路局小姐；嘉义夹带文友书局老板吴东明去台南；台南见集贤书摊王世贤和万利书报社姜宗棠；得知台南警察一早三次去万利称最好不要卖李敖的书，致各书摊店皆不敢卖；转高雄后金开、沈遐祺、林紫耀请跳舞，后与林紫耀、焕文、荫如玩小牌八圈；萧孟能晚来长途电话。对《告别文坛十书》出版节点、1966禁书 broad 节点和11月21南下卖书节点补 additionalSources 与 crossReferences。",
+    "filesRead": [
+      "004.二十年前的一些断片.txt",
+      "data/timeline-events-zaonian-riji.json",
+      "data/timeline-events-qianqiu-wansui-wuya-qiushi.json",
+      "data/timeline-events-first-book-broad.json",
+      "data/ingestion-log.json",
+      "exports/leeao-current-timeline.csv.manifest.json"
+    ],
+    "eventsAdded": 9,
+    "crossReferenceUpdates": [
+      "qianqiu-wansui-1966-11-05-051-publishes-farewell-literary-world-ten-books",
+      "1966-books-banned",
+      "zaonian-riji-1966-11-21-starts-southbound-book-selling-with-huanwen-to-taichung"
+    ],
+    "nextRecommended": [
+      "下一轮继续004《二十年前的一些断片》1966-11-23：重点看大同之家一夜难睡、张平长途电话与紫耀谈生意、焕文介绍励志杨春海/黎明陈老板、厚德福午饭、荫如陪修车、决定小夫妇坐李敖车北返、凤山聚丰楼参加荫如夫妇回门酒，以及晚后屏东/四重溪/恒春/垦丁觅旅社到夜近4时。",
+      "11月23日也是单日信息密集，建议仍单日处理，并注意把虚实人名和地方书店/生意线索收完整。"
+    ],
+    "output": [
+      "data/timeline-events-zaonian-riji.json",
+      "exports/leeao-current-timeline.txt",
+      "exports/leeao-current-timeline.csv"
+    ],
+    "notes": [
+      "本轮将台南警察三次去万利书报社干涉销售单独成条，并回挂1966禁书 broad 节点。",
+      "公路局小姐、橘子、午饭至4点、跳舞、小牌、长途电话等日常细节均按“大而全”原则保留。"
+    ]
+  },
+  {
+    "iteration": 273,
+    "date": "2026-05-05",
+    "book": "早年日记",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记",
+    "scope": [
+      "004.二十年前的一些断片.txt：1966-11-23《环岛卖书记》第二日"
+    ],
+    "strategy": "《早年日记》004《二十年前的一些断片》第十八轮：处理1966年11月23日环岛卖书第二日。收录大同之家一夜难睡；午前张平长途电话与林紫耀谈生意、焕文介绍励志杨春海和黎明陈福顺；金开、沈遐祺、林紫耀三人厚德福午饭；荫如陪修车并决定小夫妇坐李敖车北返；凤山聚丰楼参加荫如夫妇回门酒，新娘二姐夫向李敖致敬；饭后去屏东见环球书店老板、沈阳人田老板请咖啡；再开车到四重溪、恒春、垦丁觅旅社不果，折返恒春近4时投宿。对《告别文坛十书》出版节点和11月22高雄交游节点补 additionalSources 与 crossReferences。",
+    "filesRead": [
+      "004.二十年前的一些断片.txt",
+      "data/timeline-events-zaonian-riji.json",
+      "data/timeline-events-qianqiu-wansui-wuya-qiushi.json",
+      "data/ingestion-log.json",
+      "exports/leeao-current-timeline.csv.manifest.json"
+    ],
+    "eventsAdded": 7,
+    "crossReferenceUpdates": [
+      "qianqiu-wansui-1966-11-05-051-publishes-farewell-literary-world-ten-books",
+      "zaonian-riji-1966-11-22-kaohsiung-dancing-and-eight-rounds-of-cards"
+    ],
+    "nextRecommended": [
+      "下一轮继续004《二十年前的一些断片》1966-11-24：重点看从恒春出发经车城、枋寮、东港、高雄，南北奔走卖书/书店反应，车辆与同行人安排，以及当日是否继续涉及警方干涉销售。",
+      "11月24原文需要先完整拉取，若内容很长，建议仍按单日处理。"
+    ],
+    "output": [
+      "data/timeline-events-zaonian-riji.json",
+      "exports/leeao-current-timeline.txt",
+      "exports/leeao-current-timeline.csv"
+    ],
+    "notes": [
+      "本轮将书业/生意介绍、屏东环球书店与深夜觅旅社分别成条，避免把出版线和旅行日常混成一条。",
+      "“今开”按前后文金开入库；“黎明（台北圆环）陈老板（福顺）”按陈福顺入 people，同时保留原称谓在 tags/summary。"
+    ]
+  },
+  {
+    "iteration": 274,
+    "date": "2026-05-05",
+    "book": "早年日记",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记",
+    "scope": [
+      "004.二十年前的一些断片.txt：1966-11-24《环岛卖书记》第三日"
+    ],
+    "strategy": "《早年日记》004《二十年前的一些断片》第十九轮：处理1966年11月24日环岛卖书第三日。收录晨旅社嘈杂与给H长途电话；给台北邮局局长限时双挂存证信、警告迟递书件、恒春邮局局长反应；再赴垦丁公园，请湖北人导游许先生观国家公园内景并在山顶用望远镜看太平洋、巴士海峡、台湾海峡；下午去鹅銮鼻看灯塔、卧石栏看云、归途去Beach看美国男女沙滩嬉戏；到枫港接车、傍晚赴台东途中经历生平仅见难行山海路；晚10点半抵知本投宿知本大饭店；荫如夫妇为焕文祝生；合肥籍失明按摩师按摩及知本温泉。对《告别文坛十书》出版节点与11月23恒春投宿节点补 additionalSources/crossReferences。",
+    "filesRead": [
+      "004.二十年前的一些断片.txt",
+      "data/timeline-events-zaonian-riji.json",
+      "data/timeline-events-qianqiu-wansui-wuya-qiushi.json",
+      "data/ingestion-log.json",
+      "exports/leeao-current-timeline.csv.manifest.json"
+    ],
+    "eventsAdded": 8,
+    "crossReferenceUpdates": [
+      "qianqiu-wansui-1966-11-05-051-publishes-farewell-literary-world-ten-books",
+      "zaonian-riji-1966-11-23-searches-lodging-at-sichongxi-hengchun-kenting-until-four"
+    ],
+    "nextRecommended": [
+      "下一轮继续004《二十年前的一些断片》1966-11-25：重点看晨光甚美、思写《中国人的两性观》一书、上午访太麻里游泳、午后沿东海岸北上至花莲，沿途风景、人物、车辆与住宿细节。",
+      "11月25原文接下来较长，建议仍单日处理，尤其注意写作念头《中国人的两性观》应单独入写作线。"
+    ],
+    "output": [
+      "data/timeline-events-zaonian-riji.json",
+      "exports/leeao-current-timeline.txt",
+      "exports/leeao-current-timeline.csv"
+    ],
+    "notes": [
+      "上一轮推荐中误提车城、枋寮、东港、高雄；本轮已按原文改为恒春、垦丁、鹅銮鼻、枫港、台东途中、知本路线。",
+      "邮局存证信因直接涉及书件迟递和《告别文坛十书》流通，已单独成条并回挂出版节点。"
+    ]
+  },
+  {
+    "iteration": 275,
+    "date": "2026-05-05",
+    "book": "早年日记",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记",
+    "scope": [
+      "004.二十年前的一些断片.txt：1966-11-25《环岛卖书记》第四日"
+    ],
+    "strategy": "《早年日记》004《二十年前的一些断片》第二十轮：处理1966年11月25日环岛卖书第四日。收录知本晨光与清晨雨云；思写《中国人的两性观》一书；午前抵台东、雨中逛胡铁花纪念碑；午后北上过河四五处、下车涉水多次并修车；洗衣板路和桥上铁轨路极多、荫如开车陷窄铁轨中；近子夜抵花莲，住恒春大旅社并给H电报；因苏花公路不通决定改走横贯公路，深夜敲店门市衣修车至夜3时始睡。对11月24知本投宿、枫港至台东艰苦山海路节点补 crossReferences。",
+    "filesRead": [
+      "004.二十年前的一些断片.txt",
+      "data/timeline-events-zaonian-riji.json",
+      "data/ingestion-log.json",
+      "exports/leeao-current-timeline.csv.manifest.json"
+    ],
+    "eventsAdded": 7,
+    "crossReferenceUpdates": [
+      "zaonian-riji-1966-11-24-arrives-zhiben-grand-hotel-at-ten-thirty",
+      "zaonian-riji-1966-11-24-fenggang-takes-car-and-hard-mountain-sea-road-to-taitung"
+    ],
+    "nextRecommended": [
+      "下一轮继续004《二十年前的一些断片》1966-11-26：重点看6时醒、7时半离花莲、过海星女中、入横贯公路、天祥后惊险、海拔二千六百米坍方、大禹岭买食、梨山风光、李敖一路开下坡抵平原、晚饭后一口气开至新竹、夜归北已12时。",
+      "11月26是环岛卖书记收束日，建议单日处理后再转入12月9日出庭节点。"
+    ],
+    "output": [
+      "data/timeline-events-zaonian-riji.json",
+      "exports/leeao-current-timeline.txt",
+      "exports/leeao-current-timeline.csv"
+    ],
+    "notes": [
+      "上一轮推荐中误提太麻里游泳；本轮已按原文修正为台东胡铁花纪念碑、北上涉水修车、花莲改走横贯公路。",
+      "《中国人的两性观》为明确写作念头，已单独成条，不并入旅行叙述。"
+    ]
+  },
+  {
+    "iteration": 276,
+    "date": "2026-05-05",
+    "book": "早年日记",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记",
+    "scope": [
+      "004.二十年前的一些断片.txt：1966-11-26《环岛卖书记》收束日"
+    ],
+    "strategy": "《早年日记》004《二十年前的一些断片》第二十一轮：处理1966年11月26日环岛卖书收束日。收录6时醒、7时半离花莲、过海星女中有感；入横贯公路风景奇佳、过天祥后路险；海拔二千六百米处多坍方，大禹岭为最高点且始有东西买食；下午到梨山，梨山以下多下坡，由李敖直开抵平原；晚饭后一口气开至新竹，夜归北已12时。对11月25因苏花公路不通改走横贯公路节点、11月21南下卖书节点补 crossReferences。",
+    "filesRead": [
+      "004.二十年前的一些断片.txt",
+      "data/timeline-events-zaonian-riji.json",
+      "data/ingestion-log.json",
+      "exports/leeao-current-timeline.csv.manifest.json"
+    ],
+    "eventsAdded": 5,
+    "crossReferenceUpdates": [
+      "zaonian-riji-1966-11-25-suhua-closed-switches-to-cross-island-highway-and-repairs-car-until-three",
+      "zaonian-riji-1966-11-21-starts-southbound-book-selling-with-huanwen-to-taichung"
+    ],
+    "nextRecommended": [
+      "下一轮继续004《二十年前的一些断片》1966-12-09：重点看上午出控徐余案庭、斥端木恺律师；下午出反诉胡案庭、痛斥胡秋原一个半小时，推事为之动容。",
+      "12月9日明显回到司法/论战线，建议同时检查旧库徐复观余纪忠案、胡秋原案相关节点，避免重复造总事件，只补庭审细节和交叉引用。"
+    ],
+    "output": [
+      "data/timeline-events-zaonian-riji.json",
+      "exports/leeao-current-timeline.txt",
+      "exports/leeao-current-timeline.csv"
+    ],
+    "notes": [
+      "本轮作为11月21-26日环岛卖书记收束，不再补新的书店节点，重点保留返北路线和驾驶细节。",
+      "下一轮从12月9日开始，主题从旅行/卖书转回庭审。"
+    ]
+  },
+  {
+    "iteration": 277,
+    "date": "2026-05-05",
+    "book": "早年日记",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记",
+    "scope": [
+      "004.二十年前的一些断片.txt：1966-12-09《出庭》"
+    ],
+    "strategy": "《早年日记》004《二十年前的一些断片》第二十二轮：处理1966年12月9日出庭。新增上午出控徐复观、余纪忠案庭并斥端木恺律师；下午出反诉胡案庭、痛斥胡秋原一个半小时且推事为之动容。对既有徐余案链（5月7日送状、5月8日见报、6月18日拒绝放弃、9月9日地院皆无罪、10月12日高院上诉）补12月9日庭审后续；对胡秋原《中华杂志》攻击节点、《假如我是女人》文祸节点、1999年胡秋原判赔节点补 additionalSources 与 crossReferences。",
+    "filesRead": [
+      "004.二十年前的一些断片.txt",
+      "data/timeline-events-zaonian-riji.json",
+      "data/timeline-events-first-book-supplement.json",
+      "data/timeline-events-traditional-monologue.json",
+      "data/timeline-events-seventh-book.json",
+      "data/ingestion-log.json",
+      "exports/leeao-current-timeline.csv.manifest.json"
+    ],
+    "eventsAdded": 2,
+    "crossReferenceUpdates": [
+      "zaonian-riji-1966-05-07-files-complaint-against-xu-fuguan-yu-jizhong-and-visits-united-daily",
+      "zaonian-riji-1966-05-08-united-daily-reports-lawsuit-and-sansan-army-eve",
+      "zaonian-riji-1966-06-18-refuses-drop-yu-xu-case-letters-shaotang-movie-and-couplet",
+      "zaonian-riji-1966-09-09-taipei-district-court-acquits-xu-fuguan-yu-jizhong",
+      "zaonian-riji-1966-10-12-high-court-appeal-xu-yu-yu-jizhong-party-meeting-excuse",
+      "1966-11-16-hu-qiuyuan-publishes-letter",
+      "zaonian-riji-1966-11-18-central-daily-runs-zhonghua-magazine-ad-accusing-communist",
+      "traditional-monologue-1963-08-16-if-i-were-a-woman-post-publication-backlash-note",
+      "book7-1999-08-27-hu-qiuyuan-loses-final-appeal-and-must-pay-li-ao"
+    ],
+    "nextRecommended": [
+      "下一轮继续004《二十年前的一些断片》1966-12-21：重点看上午去二分局，与郑局长、娄警官打开窗子说话；拒绝出封书房房费；娄警官与李中校通电话后李中校答应由警总出钱；去李律师处二次并送书四册；去光逖处留片；下午去裕隆保养车；夜在 Oasis 与 H 晚饭。",
+      "12月21同时接回查扣/封书房费用、律师、裕隆保养车和H晚饭，建议按司法善后、律师/书、日常三组拆条。"
+    ],
+    "output": [
+      "data/timeline-events-zaonian-riji.json",
+      "exports/leeao-current-timeline.txt",
+      "exports/leeao-current-timeline.csv"
+    ],
+    "notes": [
+      "本轮未重复造徐余案或胡秋原案总节点，只补1966年12月9日两场庭审的现场动作。",
+      "胡秋原下午庭审同时回挂1963《假如我是女人》后记文祸、1966《中华杂志》攻击与1999判赔终局，便于后续跨时期追踪。"
+    ]
+  },
+  {
+    "iteration": 278,
+    "date": "2026-05-05",
+    "book": "早年日记",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记",
+    "scope": [
+      "004.二十年前的一些断片.txt：1966-12-21《又去二分局》"
+    ],
+    "strategy": "《早年日记》004《二十年前的一些断片》第二十三轮：处理1966年12月21日。收录上午去二分局，与郑局长、娄警官打开窗子说话，拒绝出封书房房费，娄警官与李中校通电话后李中校答应由警总出钱；去李律师处二次并送李律师书四册；去光逖处留片，下午去裕隆保养车；夜在Oasis与H晚饭。对雅江街查扣总节点、1966禁书 broad 节点、《告别文坛十书》出版节点补 additionalSources 与 crossReferences。",
+    "filesRead": [
+      "004.二十年前的一些断片.txt",
+      "data/timeline-events-zaonian-riji.json",
+      "data/timeline-events-seventh-book.json",
+      "data/timeline-events-first-book-broad.json",
+      "data/timeline-events-qianqiu-wansui-wuya-qiushi.json",
+      "data/ingestion-log.json",
+      "exports/leeao-current-timeline.csv.manifest.json"
+    ],
+    "eventsAdded": 4,
+    "crossReferenceUpdates": [
+      "book7-1966-11-09-books-seized-at-yajiang-binding-factory",
+      "1966-books-banned",
+      "qianqiu-wansui-1966-11-05-051-publishes-farewell-literary-world-ten-books"
+    ],
+    "nextRecommended": [
+      "下一轮继续004《二十年前的一些断片》1966-12-26：重点看晨8点30分出控曹圣芬庭、法院便衣持册查李敖到否、法官延迟开庭且卷宗未带、李敖起立质问、控徐等案上诉驳回、司法黑暗之念、彦增来/看病/R.M.晚饭/做工，以及傍晚小左告知基隆方面又禁卖李敖书、李中校答应去电解决。",
+      "12月26内容密度高，建议按法院现场、徐等案上诉驳回、禁卖书后续和日常工作四组拆条。"
+    ],
+    "output": [
+      "data/timeline-events-zaonian-riji.json",
+      "exports/leeao-current-timeline.txt",
+      "exports/leeao-current-timeline.csv"
+    ],
+    "notes": [
+      "封书房房费被作为11月9查扣与封书房后的费用善后处理，已回挂雅江街查扣总节点。",
+      "李律师送书四册与Oasis晚饭保留为日常/交游细节，不扩大为无来源的案情判断。"
+    ]
+  },
+  {
+    "iteration": 279,
+    "date": "2026-05-05",
+    "book": "早年日记",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记",
+    "scope": [
+      "004.二十年前的一些断片.txt：1966-12-26《司法黑暗》"
+    ],
+    "strategy": "《早年日记》004《二十年前的一些断片》第二十四轮：处理1966年12月26日《司法黑暗》。新增晨8点30分出控曹圣芬庭且法院便衣持册查李敖到否；法官到庭后不开李敖庭，李敖起立质问后才拿卷、开庭约半小时；控徐等案上诉驳回并在法院涌现司法黑暗之念；下午陈彦增来、看病、R.M.晚饭与回家做工；傍晚电小左得知基隆又发生禁卖李敖书之事，李中校答应去电解决。对徐余案旧链、曹圣芬旧节点、1966禁书 broad 节点和《告别文坛十书》出版节点补 additionalSources 与 crossReferences。",
+    "filesRead": [
+      "004.二十年前的一些断片.txt",
+      "data/timeline-events-zaonian-riji.json",
+      "data/timeline-events-first-book-broad.json",
+      "data/timeline-events-qianqiu-wansui-wuya-qiushi.json",
+      "data/ingestion-log.json",
+      "exports/leeao-current-timeline.csv.manifest.json"
+    ],
+    "eventsAdded": 5,
+    "crossReferenceUpdates": [
+      "zaonian-riji-1966-05-07-files-complaint-against-xu-fuguan-yu-jizhong-and-visits-united-daily",
+      "zaonian-riji-1966-05-08-united-daily-reports-lawsuit-and-sansan-army-eve",
+      "zaonian-riji-1966-06-18-refuses-drop-yu-xu-case-letters-shaotang-movie-and-couplet",
+      "zaonian-riji-1966-09-09-taipei-district-court-acquits-xu-fuguan-yu-jizhong",
+      "zaonian-riji-1966-10-12-high-court-appeal-xu-yu-yu-jizhong-party-meeting-excuse",
+      "zaonian-riji-1966-12-09-appears-in-xu-yu-case-and-rebukes-duanmu-kai",
+      "zaonian-riji-1966-08-30-central-daily-ad-negotiation-shang-zhong-cao-shengfen",
+      "qianqiu-wansui-1982-11-07-032-writes-shekou-and-rose",
+      "1966-books-banned",
+      "qianqiu-wansui-1966-11-05-051-publishes-farewell-literary-world-ten-books"
+    ],
+    "nextRecommended": [
+      "下一轮建议先做004《二十年前的一些断片》全章 closeout：复核1966年1月5日至12月26日是否漏收，重点检查徐余案、胡秋原案、曹圣芬案、告别文坛十书/禁书/雅江街查扣、环岛卖书、陈平景手记和1986追记的交叉引用与来源标注。",
+      "004章已到正文末尾，1127行以后为wjm_tcy制作信息，不应入库；closeout 后再进入《早年日记》下一章。"
+    ],
+    "output": [
+      "data/timeline-events-zaonian-riji.json",
+      "exports/leeao-current-timeline.txt",
+      "exports/leeao-current-timeline.csv"
+    ],
+    "notes": [
+      "本轮将曹圣芬庭现场拆成法院便衣查到否和法官不开庭/卷宗未带两条，保留司法程序细节。",
+      "徐余案上诉驳回作为前案链路的结果节点，旧节点只补来源和交叉引用，避免重复造总案。",
+      "基隆禁卖书回挂1966禁书 broad 节点与《告别文坛十书》节点，作为11月查扣和卖书受阻后的后续。"
+    ]
+  },
+  {
+    "iteration": 280,
+    "date": "2026-05-05",
+    "book": "早年日记",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记",
+    "scope": [
+      "004.二十年前的一些断片.txt：全章 closeout"
+    ],
+    "strategy": "《早年日记》004《二十年前的一些断片》closeout：对105个日期标题和195条本章事件做覆盖检查。确认正文至1966年12月26日结束，1127行以后为wjm_tcy制作信息，不入库。两个零事件标题中，1966年2月15日为《公论报》公共新闻摘录，回挂《何秀子事件的法律观点》旧节点，不新造李敖当事事件；1966年4月9日吴申叔请客已由《李敖风流自传》旧主节点收录并附本章来源，不重复造事件。补强1月6日徐复观谈话、4月17日孙陵/曹圣芬材料、5月13日高院出庭与徐余案链的交叉引用。",
+    "filesRead": [
+      "004.二十年前的一些断片.txt",
+      "data/timeline-events-zaonian-riji.json",
+      "data/timeline-events-shangxia-gujin-talks.json",
+      "data/timeline-events-seventh-book.json",
+      "data/ingestion-log.json",
+      "exports/leeao-current-timeline.csv.manifest.json"
+    ],
+    "eventsAdded": 0,
+    "crossReferenceUpdates": [
+      "zaonian-riji-1966-01-06-talks-with-xu-fuguan-at-new-china-hotel",
+      "zaonian-riji-1966-04-17-treats-sun-ling-dinner-and-sees-documents",
+      "zaonian-riji-1966-05-13-check-account-court-sylvia-and-jumi-letter",
+      "zaonian-riji-1966-05-07-files-complaint-against-xu-fuguan-yu-jizhong-and-visits-united-daily",
+      "zaonian-riji-1966-05-08-united-daily-reports-lawsuit-and-sansan-army-eve",
+      "zaonian-riji-1966-09-09-taipei-district-court-acquits-xu-fuguan-yu-jizhong",
+      "shangxia-1965-07-27-he-xiuzi-example",
+      "shangxia-1965-07-28-legal-view-on-he-xiuzi"
+    ],
+    "nextRecommended": [
+      "下一轮进入《早年日记》下一章前，先列目录确认下一章文件名与范围；如果用户同意，建议从005章第一轮开始，按日期标题推进。",
+      "进入下一章时继续沿用本章规则：日记、来信、手记、追记分清来源主体；旧库已有主节点时只补 additionalSources 与 crossReferences。"
+    ],
+    "output": [
+      "data/timeline-events-zaonian-riji.json",
+      "data/timeline-events-shangxia-gujin-talks.json",
+      "exports/leeao-current-timeline.txt",
+      "exports/leeao-current-timeline.csv"
+    ],
+    "notes": [
+      "004章 closeout 后事件数不变；本轮重点是消除覆盖盲点与互引断点。",
+      "2月15日何秀子法规新闻保守处理为旧文后续背景，不扩成李敖当事事件。",
+      "4月9日吴申叔请客旧节点已有本章 line 207 来源，符合重复项归档到交叉引用/附加来源原则。"
+    ]
+  },
+  {
+    "iteration": 281,
+    "date": "2026-05-05",
+    "book": "早年日记",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记",
+    "scope": [
+      "《早年日记》全书 closeout：001-004 四章"
+    ],
+    "strategy": "《早年日记》全书 closeout：复核四章目录、章节事件数、日记日期覆盖、来源主体标注、交叉引用和导出完整性。全书共四章：001《十七天的校园生活》、002《毕业以后，从军以前》、003《四席小屋日记》、004《二十年前的一些断片》。日期覆盖检查发现003章末段仍有两条李敖当事日常可补：1961年6月10日大梦及Lo，1961年6月15日景新汉陪搬家。1959年9月4日“忘了干什么了”、1961年6月13/14/16空白日、004章2月15日公共新闻与4月9日旧主节点均不新造事件。",
+    "filesRead": [
+      "001.十七天的校园生活.txt",
+      "002.毕业以后，从军以前.txt",
+      "003.四席小屋日记.txt",
+      "004.二十年前的一些断片.txt",
+      "data/timeline-events-zaonian-riji.json",
+      "data/timeline-events-shangxia-gujin-talks.json",
+      "data/ingestion-log.json",
+      "exports/leeao-current-timeline.csv.manifest.json"
+    ],
+    "eventsAdded": 2,
+    "crossReferenceUpdates": [
+      "zaonian-riji-1982-07-28-prefaces-four-mat-room-diary",
+      "zaonian-riji-1961-05-27-looks-at-house-in-xindian-with-tao-subao-couple"
+    ],
+    "nextRecommended": [
+      "《早年日记》已完成全书 closeout；下一轮建议转入用户指定的下一本书。",
+      "如果进入下一本前要做技术侧收束，可先做一次全库 CSV/TXT 导出抽样核验和网站本地打开检查。"
+    ],
+    "output": [
+      "data/timeline-events-zaonian-riji.json",
+      "exports/leeao-current-timeline.txt",
+      "exports/leeao-current-timeline.csv"
+    ],
+    "notes": [
+      "003章6月13、6月14、6月16为原文空白日，不入库。",
+      "002章1959年9月4日原文仅“忘了干什么了”，未形成可收事件。",
+      "004章2月15日公共新闻已在上一轮 closeout 回挂何秀子旧节点；4月9日吴申叔饭局已由第七本旧节点收录并附本章来源。"
+    ]
   }
 ]

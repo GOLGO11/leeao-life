@@ -941,7 +941,10 @@
       "zaonian-riji-1966-11-15-fuyuan-letter-police-refuse-release-lou-issues-permit",
       "zaonian-riji-1966-11-16-receives-four-subpoenas-and-plans-hospital-exam",
       "zaonian-riji-1966-11-18-li-guojin-phone-and-refuses-illegal-letter-to-garrison",
-      "zaonian-riji-1966-11-16-modern-publishes-kmt-anti-li-special-issue"
+      "zaonian-riji-1966-11-16-modern-publishes-kmt-anti-li-special-issue",
+      "zaonian-riji-1966-11-22-police-visit-wanli-three-times-warning-not-to-sell-li-ao-books",
+      "zaonian-riji-1966-12-21-second-precinct-sealed-book-room-fee-garrison-pays",
+      "zaonian-riji-1966-12-26-keelung-ban-selling-li-ao-books-xiaozuo-li-guojin-call"
     ],
     "additionalSources": [
       {
@@ -1041,6 +1044,27 @@
         "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
         "line": 1031,
         "note": "1966年11月18日原记补明李敖再去警总，拒绝写他认为违法的信。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 1055,
+        "note": "1966年11月22日原记补明台南警察一早三次去万利书报社，说“最好不要卖李敖的书”，致各书摊店皆不敢卖。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 1107,
+        "note": "1966年12月21日原记补明封书房房费善后，由李中校答应警总出钱。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 1125,
+        "note": "1966年12月26日原记补明基隆方面又发生禁卖李敖书之事，小左已电李中校，李中校答应去电解决。"
       }
     ]
   },
