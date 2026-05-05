@@ -1,9 +1,9 @@
 ﻿李敖交互式年表：当前增量纯文本备份
 生成日期：2026-05-05
-事件总数：2535
-数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json；data/timeline-events-ni-bendan.json；data/timeline-events-dream-awake.json；data/timeline-events-li-ao-xinkan.json；data/timeline-events-qianqiu-wansui-wuya-qiushi.json；data/timeline-events-li-ao-zawenji.json；data/timeline-events-qianqiu-wansui-bianwai.json；data/timeline-events-beijing-fayuansi.json；data/timeline-events-shangshan-ai.json；data/timeline-events-red-11.json；data/timeline-events-virtual-seventeen.json；data/timeline-events-yangwei-america.json；data/timeline-events-73rd-martyr.json；data/timeline-events-love-secret.json；data/timeline-events-li-ao-love-poems.json；data/timeline-events-li-yulu.json；data/timeline-events-li-ao-yulu.json；data/timeline-events-sui-qianwan-li-ao-wangyi.json；data/timeline-events-tiaozhan-li-ao-ao-yulu.json
+事件总数：2617
+数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json；data/timeline-events-ni-bendan.json；data/timeline-events-dream-awake.json；data/timeline-events-li-ao-xinkan.json；data/timeline-events-qianqiu-wansui-wuya-qiushi.json；data/timeline-events-li-ao-zawenji.json；data/timeline-events-qianqiu-wansui-bianwai.json；data/timeline-events-beijing-fayuansi.json；data/timeline-events-shangshan-ai.json；data/timeline-events-red-11.json；data/timeline-events-virtual-seventeen.json；data/timeline-events-yangwei-america.json；data/timeline-events-73rd-martyr.json；data/timeline-events-love-secret.json；data/timeline-events-li-ao-love-poems.json；data/timeline-events-li-yulu.json；data/timeline-events-li-ao-yulu.json；data/timeline-events-sui-qianwan-li-ao-wangyi.json；data/timeline-events-tiaozhan-li-ao-ao-yulu.json；data/timeline-events-daxue-zhaji.json
 说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。
-日期精度统计：day=2095；year=97；year-range=13；undated-range=1；undated-context=141；season=29；lunar-day=1；year-after=7；month=53；half-year=2；school-year-context=5；day-range=16；year-about=8；month-after=3；year-context=16；day-after=4；before-date-context=11；after-date-context=8；month-context=3；day-context=6；range-context=14；year-end=1；month-range=1
+日期精度统计：day=2177；year=97；year-range=13；undated-range=1；undated-context=141；season=29；lunar-day=1；year-after=7；month=53；half-year=2；school-year-context=5；day-range=16；year-about=8；month-after=3；year-context=16；day-after=4；before-date-context=11；after-date-context=8；month-context=3；day-context=6；range-context=14；year-end=1；month-range=1
 
 
 1935
@@ -1970,7 +1970,7 @@
   作品：李敖语录、大学札记
   交叉引用：-
   来源：李敖语录 / 004.自我炼钢 / line 11
-  补充来源：-
+  补充来源：大学札记 / 001.担当 / line 3；说明：原书《大学札记》同日条。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-02-11-daxue-zhaji-library-self-discipline
 - 1957年3月1日 | 《从读〈胡适文存〉说起》在《自由中国》刊出
@@ -2090,6 +2090,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/016.我最难忘的一个国特.txt
   数据：data/timeline-events-third-book-qiao-evidence.json#book3-1957-04-26-qiao-banquet-hosted-by-zhang-yanyuan
+- 1957年4月28日 | 李敖与姚从吾、庄申赴南港中央研究院读书一日
+  精度：day；可靠度：confirmed；排序日期：1957-04-28
+  摘要：《去南港》写，李敖前一日下午与姚从吾约好，1957年4月28日7点50分在温州街口见姚从吾和庄申，同车赴南港中央研究院，读书竟日；中午与庄申谈，又赴徐芸书寓，并到历史语言研究所书库中大谈。
+  人物：李敖、姚从吾、庄申、徐芸
+  地点：温州街、南港、中央研究院、历史语言研究所
+  标签：大学札记、南港、中央研究院、历史语言研究所、温州街
+  视图：求学线、交游线、日常线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 002.去南港 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/002.去南港.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-04-28-goes-to-nangang-academia-sinica-with-yao-congwu
 - 1957年5月1日 | 军统旧友在泰利饭店为乔家才洗冤
   精度：day；可靠度：confirmed；排序日期：1957-05-01
   摘要：乔家才记，1957年5月1日军统局老朋友们在中山北路泰利饭店为他洗冤，九十一人出席，被认为是军统来台后极盛大的一次宴会，也带有对毛人凤死后旧案翻转的象征意味。
@@ -2113,7 +2126,7 @@
   作品：李敖语录、大学札记
   交叉引用：-
   来源：李敖语录 / 004.自我炼钢 / line 15
-  补充来源：-
+  补充来源：大学札记 / 004.消极只是暂时的 / line 3；说明：原书《大学札记》同日条。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-05-16-daxue-zhaji-resists-pessimism
 - 1957年5月18日 | 李敖以英雄之气训练意志，戒回想与多言
@@ -2126,9 +2139,22 @@
   作品：李敖语录、大学札记
   交叉引用：-
   来源：李敖语录 / 004.自我炼钢 / line 21
-  补充来源：李敖语录 / 004.自我炼钢 / line 31；说明：摘自《大学札记》1957年5月18日。；李敖语录 / 004.自我炼钢 / line 35；说明：摘自《大学札记》1957年5月18日。；李敖语录 / 004.自我炼钢 / line 39；说明：摘自《大学札记》1957年5月18日。
+  补充来源：李敖语录 / 004.自我炼钢 / line 31；说明：摘自《大学札记》1957年5月18日。；李敖语录 / 004.自我炼钢 / line 35；说明：摘自《大学札记》1957年5月18日。；李敖语录 / 004.自我炼钢 / line 39；说明：摘自《大学札记》1957年5月18日。；大学札记 / 005.英雄之气的意志 / line 5；说明：原书补出胡适意志与“英雄之气的意志”语境。；大学札记 / 006.艾森豪威尔的意志 / line 7；说明：原书补出借艾森豪威尔戒烟训练戒绝意志。；大学札记 / 007.“我就默然不语” / line 9；说明：原书补出沉默训练语境。；大学札记 / 008.有条件的回想 / line 3；说明：原书补出不作有害回想的标准。；大学札记 / 009.壮烈的反动 / line 3；说明：原书补出抵抗消极的“壮烈反动”。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-05-18-daxue-zhaji-heroic-will
+- 1957年5月19日 | 李敖下午与张世民谈天，确认要“深刻地影响别人”
+  精度：day；可靠度：confirmed；排序日期：1957-05-19
+  摘要：《“要活在深刻地影响别人！”》写，1957年5月19日下午，李敖与张世民谈天，因而更加认识阿德勒“要生活在深刻地影响别人”这句话；他把林毓生、马宏祥、孙英善所说的“有一套”转化成自己要影响朋友与别人眼中观感的志向。
+  人物：李敖、张世民、林毓生、马宏祥、孙英善
+  地点：台湾大学
+  标签：大学札记、张世民、阿德勒、朋友、自我训练
+  视图：交游线、思想线、求学线
+  作品：大学札记
+  交叉引用：li-ao-yulu-1957-05-19-daxue-zhaji-life-of-will
+  来源：大学札记 / 011.“要活在深刻地影响别人！” / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/011.“要活在深刻地影响别人！”.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-05-19-talks-with-zhang-shimin-about-affecting-others
 - 1957年5月19日 | 李敖展开律己极严的意志生活
   精度：day；可靠度：excerpted-diary；排序日期：1957-05-19
   摘要：《李敖语录》摘录《大学札记》1957年5月19日条。李敖提出过意志生活，展开律己极严的严肃生活；同日他凝视邱吉尔造像，把坚定刚强视为力量的化身。
@@ -2139,7 +2165,7 @@
   作品：李敖语录、大学札记
   交叉引用：-
   来源：李敖语录 / 004.自我炼钢 / line 43
-  补充来源：李敖语录 / 004.自我炼钢 / line 47；说明：摘自《大学札记》1957年5月19日。；李敖语录 / 010.外国历史人物 / line 111；说明：摘自《大学札记》1957年5月19日。
+  补充来源：李敖语录 / 004.自我炼钢 / line 47；说明：摘自《大学札记》1957年5月19日。；李敖语录 / 010.外国历史人物 / line 111；说明：摘自《大学札记》1957年5月19日。；大学札记 / 010.丘吉尔的坚强 / line 3；说明：原书补出凝视丘吉尔造像与坚定刚强语境。；大学札记 / 012.道德勇气 / line 3；说明：原书补出律己极严的严肃生活。；大学札记 / 013.感觉的生活与意志的生活 / line 3；说明：原书补出“意志的生活”论述。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-05-19-daxue-zhaji-life-of-will
 - 1957年5月20日 | 李敖谈独醒与持志，抛弃拜伦式不快乐
@@ -2152,9 +2178,61 @@
   作品：李敖语录、大学札记
   交叉引用：-
   来源：李敖语录 / 005.立言家的真面目 / line 215
-  补充来源：李敖语录 / 006.我思我在 / line 31；说明：摘自《大学札记》1957年5月20日。
+  补充来源：李敖语录 / 006.我思我在 / line 31；说明：摘自《大学札记》1957年5月20日。；大学札记 / 014.独醒与快乐 / line 3；说明：原书补出陈彦增玩笑与抛弃拜伦式不快乐。；大学札记 / 015.抖擞与旧习 / line 3；说明：原书补出拒绝广诚电影邀约与持志不衰。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/005.立言家的真面目.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-05-20-daxue-zhaji-awake-and-hold-will
+- 1957年5月23日 | 李敖赴师大观看艺术系学生作画
+  精度：day；可靠度：confirmed；排序日期：1957-05-23
+  摘要：《看作画》写，1957年5月23日，李敖赴师范大学，看艺术系学生作画并颇有感触；他由此想到艺术是变相爱自然，认为自己尚未深入艺术领域，而其中一定有大片兴趣宝藏。
+  人物：李敖
+  地点：师范大学、台北
+  标签：大学札记、师大、艺术系、作画、艺术
+  视图：求学线、艺术线、日常线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 021.看作画 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/021.看作画.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-05-23-goes-to-normal-university-to-watch-art-students-paint
+- 1957年5月23日 | 李敖赴殷海光家商谈，迅速决定转哲学系、学德文等求学方向
+  精度：day；可靠度：confirmed；排序日期：1957-05-23
+  摘要：《见殷海光》写，1957年5月23日，李敖赴殷海光家商谈；谈话结果促成他对转哲学系、学成德文、多念一年和将来职业选择等几个大决定。殷海光还送给他《怎样研究苏俄》一本、《祖国》二二七期一册。
+  人物：李敖、殷海光
+  地点：殷海光家、台北
+  标签：大学札记、殷海光、转哲学系、德文、赠书
+  视图：求学线、师友线、思想线
+  作品：大学札记、怎样研究苏俄、祖国
+  交叉引用：-
+  来源：大学札记 / 022.见殷海光 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/022.见殷海光.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-05-23-visits-yin-haiguang-and-decides-study-path
+- 1957年5月23日 | 李敖强起后赴张世民家，又到车站前冰店谈一小时
+  精度：day；可靠度：confirmed；排序日期：1957-05-23
+  摘要：《与张世民谈》写，1957年5月23日中午，李敖“强起来”，坐三轮车赴张世民家，又与张世民坐十九路车到车站前冰店谈约一小时；这次谈话使他更坚定“立志不闻不问”的态度。
+  人物：李敖、张世民
+  地点：台北、车站前冰店
+  标签：大学札记、张世民、冰店、三轮车、车站
+  视图：交游线、日常线、求学线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 019.与张世民谈 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/019.与张世民谈.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-05-23-visits-zhang-shimin-and-talks-at-ice-shop
+- 1957年5月23日 | 孟大中两度来李敖宿舍，二人夜谈近五小时
+  精度：day；可靠度：confirmed；排序日期：1957-05-23
+  摘要：《孟大中》写，1957年5月23日下午孟大中到李敖宿舍时李敖不在，留条而去；傍晚孟大中再来，二人畅谈近五小时，交换对同情心的意见。夜里他们吃了两碗面、两块西瓜，近十二时李敖才送孟大中回去。
+  人物：李敖、孟大中、张灏
+  地点：台湾大学宿舍、台湾大学校园
+  标签：大学札记、孟大中、宿舍、夜谈、同情心
+  视图：交游线、日常线、求学线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 023.孟大中 / line 3
+  补充来源：大学札记 / 023.孟大中 / line 5；说明：夜谈近五小时后吃面、西瓜，近十二时送孟大中回去。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/023.孟大中.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-05-23-meng-dazhong-visits-dorm-and-talks-five-hours
 - 1957年5月24日 | 李敖在《大学札记》中评论翁松燃的思想解放
   精度：day；可靠度：excerpted-diary；排序日期：1957-05-24
   摘要：《李敖语录》摘录《大学札记》1957年5月24日条。李敖写翁松燃过去走过错路，但终于走向智慧的思想解放，认为其幸运来自洁身自爱和有所不为。
@@ -2165,9 +2243,22 @@
   作品：李敖语录、大学札记
   交叉引用：-
   来源：李敖语录 / 009.中国当代人物 / line 245
-  补充来源：-
+  补充来源：大学札记 / 024.翁松燃 / line 3；说明：原书《大学札记》同日条。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/009.中国当代人物.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-05-24-daxue-zhaji-weng-songran
+- 1957年5月25日 | 李敖清晨失眠后，为自慰问题设定私人自律规则
+  精度：day；可靠度：confirmed；排序日期：1957-05-25
+  摘要：《手淫与动机派》写，1957年5月25日大约清晨两点，李敖醒后睡不着，躺在床上想了许多，其中最主要的是对自慰问题作决定：同意每周末入睡前一次，平时彻底禁止；他还把这个决定同道德行为、动机派标准和日后哲学研究联系起来。
+  人物：李敖
+  地点：台湾大学宿舍
+  标签：大学札记、身体自律、失眠、私人日记、动机派
+  视图：身体线、日记线、自我训练线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 025.手淫与动机派 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/025.手淫与动机派.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-05-25-sets-private-sexual-self-discipline-rule
 - 1957年5月25日 | 李敖想到要替朋友设想前途
   精度：day；可靠度：excerpted-diary；排序日期：1957-05-25
   摘要：《李敖语录》摘录《大学札记》1957年5月25日条。李敖躺在床上想到，应花时间替几位好朋友仔细考虑前途，并热心帮助朋友做事。
@@ -2178,9 +2269,22 @@
   作品：李敖语录、大学札记
   交叉引用：-
   来源：李敖语录 / 004.自我炼钢 / line 51
-  补充来源：-
+  补充来源：大学札记 / 026.为朋友做打算 / line 3；说明：原书《大学札记》同日条。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-05-25-daxue-zhaji-plan-for-friends
+- 1957年5月26日 | 李敖决定每天只用睡前一小时做自律功夫
+  精度：day；可靠度：confirmed；排序日期：1957-05-26
+  摘要：《当心“自我耽溺”》写，1957年5月26日，李敖意识到自己把太多时间花在自律、读修养书和写日记上；王建人还两度笑他整天写日记。李敖因此决定，自律功夫只在每天临睡前一小时内做，其他时间连修养书和日记本都不要翻。
+  人物：李敖、王建人、张灏、孙英善
+  地点：台湾大学
+  标签：大学札记、日记、自律、自我耽溺、王建人
+  视图：日记线、自我训练线、求学线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 027.当心“自我耽溺” / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/027.当心“自我耽溺”.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-05-26-limits-diary-and-self-cultivation-to-one-hour
 - 1957年5月27日 | 李敖写下要做伟大的人
   精度：day；可靠度：excerpted-diary；排序日期：1957-05-27
   摘要：《李敖语录》摘录《大学札记》1957年5月27日条。李敖写自己要做一个伟大的人，形成伟大的自处生活和对人态度，使人在记忆中以他为有光彩的人。
@@ -2191,9 +2295,35 @@
   作品：李敖语录、大学札记
   交叉引用：-
   来源：李敖语录 / 004.自我炼钢 / line 55
-  补充来源：-
+  补充来源：大学札记 / 028.用伟大做标准 / line 3；说明：原书补出病中仍以伟大标准自处。；大学札记 / 029.胸襟 / line 9；说明：原书补出同日关于慷慨与胸襟的引文。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-05-27-daxue-zhaji-wants-to-be-great
+- 1957年5月28日 | 张世民中午来拿东西，李敖关心其前途与坚强程度
+  精度：day；可靠度：confirmed；排序日期：1957-05-28
+  摘要：《顺民观》写，1957年5月28日中午，张世民来找李敖拿东西。李敖记下自己很关心张世民的前途，认为他不够坚强、易在环境压力下做得过且过的顺民，希望自己的助力能使张世民坚强起来。
+  人物：李敖、张世民
+  地点：台湾大学
+  标签：大学札记、张世民、朋友前途、顺民观
+  视图：交游线、日常线、求学线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 030.顺民观 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/030.顺民观.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-05-28-zhang-shimin-visits-to-fetch-things
+- 1957年5月28日 | 李敖夜间与孟大中赴冰店谈天，谈到戒严后才回宿舍
+  精度：day；可靠度：confirmed；排序日期：1957-05-28
+  摘要：《给人间一点温暖》写，1957年5月28日晚，孟大中来找李敖，二人同赴冰店谈天。李敖把自己所抉择的理论用谈话方式谈了几遍，觉得极有帮助；二人谈到夜里十二点戒严后才各归宿舍。
+  人物：李敖、孟大中
+  地点：台北冰店、台湾大学宿舍
+  标签：大学札记、孟大中、冰店、夜谈、戒严
+  视图：交游线、日常线、思想线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 031.给人间一点温暖 / line 13
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/031.给人间一点温暖.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-05-28-talks-with-meng-dazhong-at-ice-shop-until-curfew
 - 1957年5月29日 | 李敖以毒蛇比喻意外打击，要求立即解毒
   精度：day；可靠度：excerpted-diary；排序日期：1957-05-29
   摘要：《李敖语录》摘录《大学札记》1957年5月29日条。李敖把意外打击比作突然被毒蛇咬，提醒自己应立刻解毒，而不是沉溺于追问伤害如何发生。
@@ -2204,9 +2334,22 @@
   作品：李敖语录、大学札记
   交叉引用：-
   来源：李敖语录 / 004.自我炼钢 / line 59
-  补充来源：-
+  补充来源：大学札记 / 032.毒蛇喻 / line 3；说明：原书《大学札记》同日条。；大学札记 / 033.“已往”是个贼 / line 3；说明：原书补出用《情断奈何天》提醒自己不要被过去偷去未来。；大学札记 / 034.胡适论反省 / line 3；说明：原书补出胡适反省论。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-05-29-daxue-zhaji-antidote-metaphor
+- 1957年5月31日 | 李敖在札记中写陈彦增，称其绰号“小老弟”
+  精度：day；可靠度：confirmed；排序日期：1957-05-31
+  摘要：《陈彦增》写，1957年5月31日，李敖记录陈彦增其人：绰号“小老弟”，像孩子，却在思想上毫不含糊，发牢骚振振有辞，做人也有正义风范；同时也写其缺点是懒、因循、爱看小说和鬼扯，不珍惜青春时代。
+  人物：李敖、陈彦增
+  地点：台湾大学
+  标签：大学札记、陈彦增、小老弟、朋友观察
+  视图：人物线、交游线、日记线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 035.陈彦增 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/035.陈彦增.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-05-31-writes-about-chen-yanzeng-xiao-laodi
 - 1957年6月1日 | 李敖反省懒惰习惯，要求自己做得更好
   精度：day；可靠度：excerpted-diary；排序日期：1957-06-01
   摘要：《李敖语录》摘录《大学札记》1957年6月1日条。李敖以苏格拉底标准衡量自己，发现自己原可做得更好，因而反省十五年读书生活中的懒惰习惯，反对好逸恶劳。
@@ -2217,9 +2360,22 @@
   作品：李敖语录、大学札记
   交叉引用：-
   来源：李敖语录 / 004.自我炼钢 / line 63
-  补充来源：-
+  补充来源：大学札记 / 036.论懒惰 / line 3；说明：原书补出反省懒惰的长段论述。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-06-01-daxue-zhaji-reflects-laziness
+- 1957年6月1日 | 李敖夜与孟大中在清真馆吃牛肉饺，随后到冰店读词散步
+  精度：day；可靠度：confirmed；排序日期：1957-06-01
+  摘要：《论懒惰》写，1957年6月1日夜，李敖与孟大中在清真馆吃牛肉饺，随后坐在冰店一起读词，散步归来；当晚李敖又把近日计划“凝固”一遍。
+  人物：李敖、孟大中
+  地点：清真馆、冰店、台北
+  标签：大学札记、孟大中、清真馆、牛肉饺、读词
+  视图：交游线、日常线、求学线
+  作品：大学札记
+  交叉引用：li-ao-yulu-1957-06-01-daxue-zhaji-reflects-laziness
+  来源：大学札记 / 036.论懒惰 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/036.论懒惰.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-06-01-eats-beef-dumplings-with-meng-dazhong-and-reads-ci
 - 1957年6月2日 | 李敖观察青年男女腐败面，勉励自己无从腐败
   精度：day；可靠度：excerpted-diary；排序日期：1957-06-02
   摘要：《李敖语录》摘录《大学札记》1957年6月2日条。李敖观察受过教育的青年男女少读正经书、少思考人世问题，转而勉励自己努力做一个无从腐败的人。
@@ -2230,9 +2386,48 @@
   作品：李敖语录、大学札记
   交叉引用：-
   来源：李敖语录 / 004.自我炼钢 / line 67
-  补充来源：-
+  补充来源：大学札记 / 040.志士仁人的比例数 / line 3；说明：原书补出观察青年男女腐败面。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-06-02-daxue-zhaji-observes-youth-corruption
+- 1957年6月3日 | 李敖见“小弟”给翁松燃送鱼肉粽子，顺口说出两句“金言”
+  精度：day；可靠度：confirmed；排序日期：1957-06-03
+  摘要：《两句金言》写，1957年6月3日，李敖见“小弟”给翁松燃送鱼肉粽子来，顺口说出两句关于女人好坏的“金言”。此条保留《大学札记》中的人际现场，不将短语本身扩写成观点事件。
+  人物：李敖、翁松燃、小弟
+  地点：台湾大学
+  标签：大学札记、翁松燃、小弟、鱼肉粽子、金言
+  视图：交游线、日常线、语录线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 044.两句金言 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/044.两句金言.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-06-03-sees-xiaodi-bring-zongzi-to-weng-songran
+- 1957年6月3日 | 李敖赴车站接张世民，饭后到朝风谈至四时一刻
+  精度：day；可靠度：confirmed；排序日期：1957-06-03
+  摘要：《梁启超论加富尔》写，1957年6月3日下午两点，李敖赴车站接张世民；二人吃饭后到朝风谈到四时一刻。李敖记下张世民能有新气象，着实可喜。
+  人物：李敖、张世民
+  地点：车站、朝风、台北
+  标签：大学札记、张世民、车站、朝风、谈话
+  视图：交游线、日常线、求学线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 042.梁启超论加富尔 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/042.梁启超论加富尔.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-06-03-meets-zhang-shimin-at-station-and-talks-at-chaofeng
+- 1957年6月4日 | 李敖中午与沈鸿骏在“成都”吃饭，谈爱情移动性
+  精度：day；可靠度：confirmed；排序日期：1957-06-04
+  摘要：《爱情的移动性》写，1957年6月4日中午，李敖与沈鸿骏在“成都”吃午饭，谈到爱情移动不定的问题；李敖由此开始特别留意并研究这一问题。
+  人物：李敖、沈鸿骏
+  地点：成都、台北
+  标签：大学札记、沈鸿骏、成都、午饭、爱情
+  视图：交游线、情感线、日常线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 047.爱情的移动性 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/047.爱情的移动性.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-06-04-lunches-with-shen-hongjun-at-chengdu
 - 1957年6月4日 | 李敖冥想第一等人的境界
   精度：day；可靠度：excerpted-diary；排序日期：1957-06-04
   摘要：《李敖语录》摘录《大学札记》1957年6月4日条。李敖躺在床上冥想第一等人的境界，借富兰克林、伏尔泰、胡适、罗素、林肯等例子训练自己的胸襟和判断标准。
@@ -2243,9 +2438,35 @@
   作品：李敖语录、大学札记
   交叉引用：-
   来源：李敖语录 / 004.自我炼钢 / line 71
-  补充来源：-
+  补充来源：大学札记 / 045.第一等人 / line 3；说明：原书《大学札记》同日条。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-06-04-daxue-zhaji-first-class-person
+- 1957年6月5日 | 李敖中午与张世民、傍晚与广诚谈学问之乐，并后悔下午耗在师大
+  精度：day；可靠度：confirmed；排序日期：1957-06-05
+  摘要：《学问之乐》写，1957年6月5日中午，李敖与张世民谈邹德泳“学问之得意”之意；傍晚又与广诚谈，并劝他“别把心抛到外边去”。同日李敖也记下一下午消耗于师大，思来后悔，提醒自己引以为戒。
+  人物：李敖、张世民、广诚、邹德泳
+  地点：师大、台北
+  标签：大学札记、张世民、广诚、师大、学问之乐
+  视图：交游线、求学线、日常线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 050.学问之乐 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/050.学问之乐.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-06-05-talks-with-shimin-and-guangcheng-about-learning-joy
+- 1957年6月5日 | 李敖从翁松燃处获得“不急求人知”的新认识
+  精度：day；可靠度：confirmed；排序日期：1957-06-05
+  摘要：《人未己知怎么办？》写，1957年6月5日晚，李敖因翁松燃帮助，对“人未己知，不可急求其知”有了新认识，得到“无言是最好的抗议、无言是最好的解释”的经验。
+  人物：李敖、翁松燃
+  地点：台湾大学
+  标签：大学札记、翁松燃、无言、止谤、自我训练
+  视图：交游线、思想线、日记线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 053.人未己知怎么办？ / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/053.人未己知怎么办？.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-06-05-gets-weng-songran-help-on-not-seeking-recognition
 - 1957年6月9日 | 李敖把沉默视为进步，戒可不必说的话
   精度：day；可靠度：excerpted-diary；排序日期：1957-06-09
   摘要：《李敖语录》摘录《大学札记》1957年6月9日条。李敖写沉默带来缜密思考、清醒意识和稳定心绪，提醒自己少说可不必说的话。
@@ -2256,9 +2477,74 @@
   作品：李敖语录、大学札记
   交叉引用：-
   来源：李敖语录 / 004.自我炼钢 / line 75
-  补充来源：-
+  补充来源：大学札记 / 056.沉默 / line 3；说明：原书补出洗衣时反省沉默功夫。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-06-09-daxue-zhaji-silence-as-progress
+- 1957年6月10日 | 李敖晨上辽金元史时写述志诗
+  精度：day；可靠度：confirmed；排序日期：1957-06-10
+  摘要：《述志诗》写，1957年6月10日早晨上辽金元史课时，李敖写述志诗一首，求达意而不求工。诗中写二十二年悲欢付浮云，把握目前、埋头做新人。
+  人物：李敖
+  地点：台湾大学
+  标签：大学札记、述志诗、辽金元史、课堂、诗
+  视图：求学线、写作线、诗作线
+  作品：大学札记、述志诗
+  交叉引用：-
+  来源：大学札记 / 057.述志诗 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/057.述志诗.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-06-10-writes-aspiration-poem-in-liao-jin-yuan-history-class
+- 1957年6月12日 | 李敖月下独立后，与沈鸿骏、孟大中散步坐谈至近二时
+  精度：day；可靠度：confirmed；排序日期：1957-06-12
+  摘要：《月下散步》写，1957年6月12日晚10时，李敖出外约孟大中散步未遇，独立月下半个多小时；归来又与沈鸿骏外出散步半小时，谈爱情上的心胸开旷。孟大中后来到，二人同赴校园散步坐谈，看云、月、塘水、楼影，近2时始归。
+  人物：李敖、沈鸿骏、孟大中
+  地点：台湾大学校园
+  标签：大学札记、月下散步、孟大中、沈鸿骏、校园、夜谈
+  视图：日常线、交游线、校园线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 066.月下散步 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/066.月下散步.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-06-12-walks-under-moon-with-shen-hongjun-and-meng-dazhong
+- 1957年6月12日 | 李敖决定转哲学系，并有尽承殷海光衣钵之意
+  精度：day；可靠度：confirmed；排序日期：1957-06-12
+  摘要：《尽承殷海光衣钵》写，李敖既决定转哲学系，又有“尽承海光衣钵”之意；他相信殷海光所走的路对世道人心有深远影响，并希望以自己的才能在这一方向有所贡献。
+  人物：李敖、殷海光
+  地点：台湾大学
+  标签：大学札记、转系、哲学系、殷海光、求学方向
+  视图：求学线、思想线、师友线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 064.尽承殷海光衣钵 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/064.尽承殷海光衣钵.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-06-12-decides-transfer-philosophy-follow-yin-haiguang
+- 1957年6月12日 | 李敖接到张世民来片，得知其坚持读书生活
+  精度：day；可靠度：confirmed；排序日期：1957-06-12
+  摘要：《道与得》写，张世民在11日来片给李敖，说分手快一星期，自己没有白过一分钟，也因考试将近而不来找李敖，留下时间做有用的事。李敖在1957年6月12日接片后很高兴，认为张世民正过着“壮志新来与昔殊”的蜕变生活。
+  人物：李敖、张世民
+  地点：-
+  标签：大学札记、张世民、来片、考试、自我训练
+  视图：交游线、日常线、思想线
+  作品：大学札记
+  交叉引用：li-ao-yulu-1957-06-12-daxue-zhaji-four-stages-of-transformation
+  来源：大学札记 / 063.道与得 / line 3
+  补充来源：大学札记 / 063.道与得 / line 17；说明：李敖接片后的同日札记。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/063.道与得.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-06-12-receives-zhang-shimin-postcard
+- 1957年6月12日 | 李敖傍晚小读《飘》的尾段
+  精度：day；可靠度：confirmed；排序日期：1957-06-12
+  摘要：《胃口倒尽》写，1957年6月12日傍晚，李敖小读《飘》的尾段，由其中人物“Mine wore out”等话，触发自己关于爱情兴趣、口味与热烈消退的反动心理。
+  人物：李敖
+  地点：-
+  标签：大学札记、飘、读书、傍晚、爱情
+  视图：读书线、日常线、思想线
+  作品：大学札记、飘
+  交叉引用：-
+  来源：大学札记 / 065.胃口倒尽 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/065.胃口倒尽.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-06-12-reads-ending-of-gone-with-the-wind
 - 1957年6月12日 | 李敖概括蜕变生活四阶段
   精度：day；可靠度：excerpted-diary；排序日期：1957-06-12
   摘要：《李敖语录》摘录《大学札记》1957年6月12日两条。李敖写有奇气的人会养成坚强高兴的习惯，并把蜕变生活分为发大宏愿、勉强去做、养成习惯、兴味盎然四阶段。
@@ -2269,7 +2555,7 @@
   作品：李敖语录、大学札记
   交叉引用：-
   来源：李敖语录 / 004.自我炼钢 / line 81
-  补充来源：李敖语录 / 004.自我炼钢 / line 85；说明：摘自《大学札记》1957年6月12日。
+  补充来源：李敖语录 / 004.自我炼钢 / line 85；说明：摘自《大学札记》1957年6月12日。；大学札记 / 063.道与得 / line 17；说明：原书《大学札记》同日条。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-06-12-daxue-zhaji-four-stages-of-transformation
 - 1957年6月13日 | 李敖从图书馆做工回来，感到恬静安宁
@@ -2282,9 +2568,22 @@
   作品：李敖语录、大学札记
   交叉引用：-
   来源：李敖语录 / 004.自我炼钢 / line 89
-  补充来源：-
+  补充来源：大学札记 / 069.宁静 / line 3；说明：原书《大学札记》同日条。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-06-13-daxue-zhaji-library-work-serenity
+- 1957年6月13日 | 李敖因近代史课中失声而笑，反省自己态度不够严肃
+  精度：day；可靠度：confirmed；排序日期：1957-06-13
+  摘要：《严肃》写，1957年6月13日，李敖对自己早上在近代史课中失声而笑很不满意，由此反省自己对人的态度不够严肃，并决定努力形成雍容、有尊严、不苟言笑的长者风。
+  人物：李敖
+  地点：台湾大学
+  标签：大学札记、近代史课、严肃、课堂、自我训练
+  视图：求学线、日常线、自我训练线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 067.严肃 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/067.严肃.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-06-13-laughs-in-modern-history-class-and-corrects-attitude
 - 1957年6月15日 | 李敖写铁石心肠与自胜意志
   精度：day；可靠度：excerpted-diary；排序日期：1957-06-15
   摘要：《李敖语录》摘录《大学札记》1957年6月15日条。李敖把铁石心肠视为意志的成功表现，强调理智、感情、冲动都不够，只有自胜的硬意志能支撑成事。
@@ -2295,9 +2594,22 @@
   作品：李敖语录、大学札记
   交叉引用：-
   来源：李敖语录 / 004.自我炼钢 / line 93
-  补充来源：-
+  补充来源：大学札记 / 071.铁石心肠 / line 3；说明：原书《大学札记》同日条。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-06-15-daxue-zhaji-iron-heart
+- 1957年6月15日 | 李敖考体育推铅球，成绩七米五
+  精度：day；可靠度：confirmed；排序日期：1957-06-15
+  摘要：《铁石心肠》写，1957年6月15日，李敖考体育推铅球，成绩“奇佳”为七米五。考试归来路上，他转而想到成事者的“铁石心肠”气象。
+  人物：李敖
+  地点：台湾大学
+  标签：大学札记、体育、推铅球、七米五、自我训练
+  视图：求学线、日常线、身体线
+  作品：大学札记
+  交叉引用：li-ao-yulu-1957-06-15-daxue-zhaji-iron-heart
+  来源：大学札记 / 071.铁石心肠 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/071.铁石心肠.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-06-15-takes-pe-shot-put-test
 - 1957年6月16日 | 李敖反省爱说话，决定练习沉默
   精度：day；可靠度：excerpted-diary；排序日期：1957-06-16
   摘要：《李敖语录》摘录《大学札记》1957年6月16日条。李敖反省自己爱乘兴多说话、沉默素养太差，认为这会影响沉闷的努力，决心改变爱说话习惯。
@@ -2308,9 +2620,35 @@
   作品：李敖语录、大学札记
   交叉引用：-
   来源：李敖语录 / 004.自我炼钢 / line 97
-  补充来源：-
+  补充来源：大学札记 / 072.沉默寡言 / line 3；说明：原书《大学札记》同日条。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-06-16-daxue-zhaji-speak-less
+- 1957年6月16日 | 翁松燃毕业，李敖中午请他在“成都”吃饭
+  精度：day；可靠度：confirmed；排序日期：1957-06-16
+  摘要：《翁松燃毕业的感想》写，1957年6月16日，翁松燃毕业；中午李敖请他在“成都”店吃饭，并由此想到平静、有规律、少变化的每日生活最适合自己。
+  人物：李敖、翁松燃
+  地点：成都店
+  标签：大学札记、翁松燃、毕业、成都、午饭
+  视图：交游线、日常线、校园线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 073.翁松燃毕业的感想 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/073.翁松燃毕业的感想.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-06-16-treats-weng-songran-lunch-at-chengdu
+- 1957年6月18日 | 李敖上完历史系二年级最后一堂课
+  精度：day；可靠度：confirmed；排序日期：1957-06-18
+  摘要：《最后一课》写，1957年6月18日，李敖宁静地上完自己在历史系二年级的最末一堂课。课前他独坐楼栏，凝望远处群山和孤燕，心胸开阔远大。
+  人物：李敖
+  地点：台湾大学
+  标签：大学札记、历史系、最后一课、台大二年级、楼栏
+  视图：求学线、校园线、日常线
+  作品：大学札记
+  交叉引用：li-ao-yulu-1957-06-18-daxue-zhaji-solitary-swallow
+  来源：大学札记 / 075.最后一课 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/075.最后一课.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-06-18-finishes-last-second-year-history-class
 - 1957年6月18日 | 李敖独坐楼栏望群山与孤燕
   精度：day；可靠度：excerpted-diary；排序日期：1957-06-18
   摘要：《李敖语录》摘录《大学札记》1957年6月18日条。李敖独坐楼栏，凝望远处群山与孤燕，感到心胸开阔远大，愿在寂寞中认识自己。
@@ -2321,9 +2659,22 @@
   作品：李敖语录、大学札记
   交叉引用：-
   来源：李敖语录 / 004.自我炼钢 / line 101
-  补充来源：-
+  补充来源：大学札记 / 075.最后一课 / line 3；说明：原书《大学札记》同日条。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-06-18-daxue-zhaji-solitary-swallow
+- 1957年6月18日 | 李敖晚饭后与马宏祥长谈七小时
+  精度：day；可靠度：confirmed；排序日期：1957-06-18
+  摘要：《最后一课》写，1957年6月18日晚饭后，李敖与马宏祥长谈七小时，交换了很多意见。此条保留同日札记中的具体交游现场。
+  人物：李敖、马宏祥
+  地点：-
+  标签：大学札记、马宏祥、长谈、晚饭后
+  视图：交游线、日常线、思想线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 075.最后一课 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/075.最后一课.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-06-18-talks-with-ma-hongxiang-seven-hours
 - 1957年6月19日 | 李敖决定迎接痛苦，并以明察目光戒自欺
   精度：day；可靠度：excerpted-diary；排序日期：1957-06-19
   摘要：《李敖语录》摘录《大学札记》1957年6月19日两条。李敖决定迎接并承受痛苦，不再回避；又以明察目光提醒自己正视人和事的恶面，停止自欺与迷恋偶像。
@@ -2334,7 +2685,7 @@
   作品：李敖语录、大学札记
   交叉引用：-
   来源：李敖语录 / 004.自我炼钢 / line 107
-  补充来源：李敖语录 / 004.自我炼钢 / line 111；说明：摘自《大学札记》1957年6月19日。
+  补充来源：李敖语录 / 004.自我炼钢 / line 111；说明：摘自《大学札记》1957年6月19日。；大学札记 / 076.痛苦颂 / line 3；说明：原书《大学札记》同日条。；大学札记 / 077.正视善，也正视恶 / line 3；说明：原书《大学札记》同日条。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-06-19-daxue-zhaji-face-pain-open-eyed
 - 1957年6月21日 | 李敖写尊重人格与合则留不合则去
@@ -2347,9 +2698,48 @@
   作品：李敖语录、大学札记
   交叉引用：-
   来源：李敖语录 / 004.自我炼钢 / line 115
-  补充来源：-
+  补充来源：大学札记 / 079.心胸 / line 3；说明：原书《大学札记》同日条。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-06-21-daxue-zhaji-respect-personality
+- 1957年6月22日 | 李敖晚上与同室诸君大玩捉迷藏
+  精度：day；可靠度：confirmed；排序日期：1957-06-22
+  摘要：《捉迷藏》写，1957年6月22日晚，李敖与室中诸君“返老还童”，大捉一阵迷藏，笑到肚子痛；事后他又因其近于“狂欢的娱乐”而后悔。
+  人物：李敖
+  地点：台湾大学宿舍
+  标签：大学札记、捉迷藏、宿舍、同室诸君、娱乐
+  视图：日常线、宿舍线、交游线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 081.捉迷藏 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/081.捉迷藏.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-06-22-plays-hide-and-seek-with-roommates
+- 1957年6月22日 | 李敖翻译 Christina Rossetti《A Birthday》中的诗句
+  精度：day；可靠度：confirmed；排序日期：1957-06-22
+  摘要：《因忘而笑》写，1957年6月22日，李敖译 Christina Georgina Rossetti《A Birthday》中的一句诗，把它译为“你因忘掉而微笑远比因记忆而痛苦来得好”，并决定努力实现这两句词。
+  人物：李敖、Christina Georgina Rossetti
+  地点：-
+  标签：大学札记、Christina Rossetti、A Birthday、翻译、诗句
+  视图：写作线、读书线、日记线
+  作品：大学札记、A Birthday
+  交叉引用：-
+  来源：大学札记 / 080.因忘而笑 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/080.因忘而笑.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-06-22-translates-rossetti-birthday-line
+- 1957年6月24日 | 王德毅以《贻友》诗赠李敖
+  精度：day；可靠度：confirmed；排序日期：1957-06-24
+  摘要：《贻友诗》写，1957年6月24日，王德毅以《贻友》一诗见赠李敖，诗中有“孤鸟鸣高树，知音在四方”等句。
+  人物：李敖、王德毅
+  地点：-
+  标签：大学札记、王德毅、贻友、赠诗、诗
+  视图：交游线、诗作线、日常线
+  作品：大学札记、贻友
+  交叉引用：-
+  来源：大学札记 / 084.贻友诗 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/084.贻友诗.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-06-24-receives-poem-from-wang-deyi
 - 1957年6月24日 | 李敖体会有余味的轻松快乐
   精度：day；可靠度：excerpted-diary；排序日期：1957-06-24
   摘要：《李敖语录》摘录《大学札记》1957年6月24日条。李敖记录自己体会到有余味的快乐，觉得这种快乐轻松、宁静、安全、自尊，并开始享受节制含蓄的态度。
@@ -2360,9 +2750,22 @@
   作品：李敖语录、大学札记
   交叉引用：-
   来源：李敖语录 / 004.自我炼钢 / line 119
-  补充来源：-
+  补充来源：大学札记 / 083.有余味 / line 3；说明：原书《大学札记》同日条。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-06-24-daxue-zhaji-aftertaste-happiness
+- 1957年6月26日 | 李敖夜请孟大中与家旦吃西瓜冰激凌并谈许久
+  精度：day；可靠度：confirmed；排序日期：1957-06-26
+  摘要：《安而乐、闲而清》写，1957年6月26日夜，李敖请孟大中与家旦吃西瓜冰激凌，并谈了许久。此条保留同日札记里的饮食与交游现场。
+  人物：李敖、孟大中、家旦
+  地点：-
+  标签：大学札记、孟大中、家旦、西瓜冰激凌、夜谈
+  视图：交游线、日常线、饮食线
+  作品：大学札记
+  交叉引用：li-ao-yulu-1957-06-26-daxue-zhaji-leisure-freedom
+  来源：大学札记 / 085.安而乐、闲而清 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/085.安而乐、闲而清.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-06-26-treats-meng-dazhong-and-jiadan-ice-cream
 - 1957年6月26日 | 李敖相信安闲自由生活能带来进步
   精度：day；可靠度：excerpted-diary；排序日期：1957-06-26
   摘要：《李敖语录》摘录《大学札记》1957年6月26日条。李敖写自己能得到安闲生活的乐趣，并相信自由不受别人意见限制的生活最能带来愉快与进步。
@@ -2373,9 +2776,61 @@
   作品：李敖语录、大学札记
   交叉引用：-
   来源：李敖语录 / 004.自我炼钢 / line 123
-  补充来源：-
+  补充来源：大学札记 / 085.安而乐、闲而清 / line 3；说明：原书《大学札记》同日条。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-06-26-daxue-zhaji-leisure-freedom
+- 1957年6月27日 | 李敖赴台静农家商谈转系，夜访方豪谈至近十时
+  精度：day；可靠度：confirmed；排序日期：1957-06-27
+  摘要：《见台静农、方豪》写，1957年6月27日下午，李敖赴台静农先生家商谈转系事；夜里凤翰与德毅约他去方豪处，畅谈到近10时才辞出。方豪称李敖“你是聪明人”，又说转系“简直是胡闹”，并提到鲁实先在图书馆读书十八年。
+  人物：李敖、台静农、方豪、凤翰、德毅、鲁实先
+  地点：-
+  标签：大学札记、台静农、方豪、转系、凤翰、德毅、鲁实先
+  视图：求学线、交游线、师友线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 086.见台静农、方豪 / line 3
+  补充来源：大学札记 / 086.见台静农、方豪 / line 5；说明：夜访方豪及方豪评语。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/086.见台静农、方豪.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-06-27-visits-tai-jingnong-and-fang-hao-for-transfer
+- 1957年6月29日 | 李敖与三姐、张忠娟谈，并在师大观察男女青年
+  精度：day；可靠度：confirmed；排序日期：1957-06-29
+  摘要：《自负》写，1957年6月29日，李敖与三姐、张忠娟谈，并在师范大学静观男女青年们；这一现场引发了他对自己与同代青年差异的强烈自负感。
+  人物：李敖、三姐、张忠娟
+  地点：师范大学
+  标签：大学札记、三姐、张忠娟、师大、青年
+  视图：交游线、日常线、思想线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 089.自负 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/089.自负.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-06-29-talks-with-third-sister-and-zhang-zhongjuan-at-normal-university
+- 1957年6月29日 | 李敖在王家看到四只小鹦鹉，想到将来养小动物
+  精度：day；可靠度：confirmed；排序日期：1957-06-29
+  摘要：《养小动物》写，1957年6月29日，李敖在王家看到四只小鹦鹉，很是喜欢，并想到将来养两对鹦鹉及兔子等小动物，作为好玩的嗜好。
+  人物：李敖
+  地点：王家
+  标签：大学札记、王家、小鹦鹉、小动物、嗜好
+  视图：日常线、生活线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 088.养小动物 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/088.养小动物.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-06-29-sees-parakeets-at-wang-home
+- 1957年7月3日 | 李敖与孟大中买票逛书店，购《国学纲要》并索得照片
+  精度：day；可靠度：confirmed；排序日期：1957-07-03
+  摘要：《孟大中照片》写，1957年7月3日早上，李敖与孟大中一同赴车站买票，后又同逛书店；李敖以五元购刘明水《国学纲要》二册，并从孟大中处要得一张照片。
+  人物：李敖、孟大中、刘明水
+  地点：车站、书店
+  标签：大学札记、孟大中、车站、书店、国学纲要、刘明水、照片
+  视图：交游线、日常线、读书线
+  作品：大学札记、国学纲要
+  交叉引用：-
+  来源：大学札记 / 090.孟大中照片 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/090.孟大中照片.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-07-03-buys-tickets-book-and-gets-meng-dazhong-photo
 - 1957年7月4日 | 李敖认为胸襟与雄心使生活转入新路
   精度：day；可靠度：excerpted-diary；排序日期：1957-07-04
   摘要：《李敖语录》摘录《大学札记》1957年7月4日条。李敖写胸襟与雄心的开阔远大把生活带入新路，使他无法容忍再走老路，只能继续向前。
@@ -2386,9 +2841,22 @@
   作品：李敖语录、大学札记
   交叉引用：-
   来源：李敖语录 / 004.自我炼钢 / line 127
-  补充来源：-
+  补充来源：大学札记 / 091.火车上杂感 / line 3；说明：原书《大学札记》同日条。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-07-04-daxue-zhaji-new-road
+- 1957年7月4日 | 翁松燃雇三轮车送李敖至车站，李敖坐三小时火车
+  精度：day；可靠度：confirmed；排序日期：1957-07-04
+  摘要：《火车上杂感》写，1957年7月4日，翁松燃雇三轮车送李敖至车站，并想为他饯行，李敖以“诈术”却之；随后李敖坐三小时火车，看山水原野，胸襟开旷。
+  人物：李敖、翁松燃
+  地点：车站、火车
+  标签：大学札记、翁松燃、三轮车、车站、火车、饯行
+  视图：交游线、日常线、旅行线
+  作品：大学札记
+  交叉引用：li-ao-yulu-1957-07-04-daxue-zhaji-new-road
+  来源：大学札记 / 091.火车上杂感 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/091.火车上杂感.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-07-04-weng-songran-sends-li-ao-to-station
 - 1957年7月5日 | 李敖写与知心朋友谈天，并称自己无法谦虚
   精度：day；可靠度：excerpted-diary；排序日期：1957-07-05
   摘要：《李敖语录》摘录《大学札记》1957年7月5日两条。李敖记录自己与知心朋友谈天时很愉快、与俗人相处则沉默；同日又写下自己无法谦虚，认为继往开来的重担非他莫属。
@@ -2399,9 +2867,48 @@
   作品：李敖语录、大学札记
   交叉引用：-
   来源：李敖语录 / 004.自我炼钢 / line 131
-  补充来源：李敖语录 / 004.自我炼钢 / line 135；说明：摘自《大学札记》1957年7月5日。
+  补充来源：李敖语录 / 004.自我炼钢 / line 135；说明：摘自《大学札记》1957年7月5日。；大学札记 / 092.知心朋友与俗人 / line 3；说明：原书《大学札记》同日条。；大学札记 / 093.中学教员的营扰 / line 3；说明：原书《大学札记》同日条。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-07-05-daxue-zhaji-cannot-be-humble
+- 1957年7月6日 | 李华俊早上来寓，李敖与他谈天并嘲笑病态沉重
+  精度：day；可靠度：confirmed；排序日期：1957-07-06
+  摘要：《笑脸》写，1957年7月6日早上，李华俊来李敖寓所谈天；李敖向他尽情嘲笑沉重、落落寡欢等病态，并决定学习胡适内在乐观与外在笑脸。
+  人物：李敖、李华俊、胡适
+  地点：-
+  标签：大学札记、李华俊、寓所、谈天、笑脸、胡适
+  视图：交游线、日常线、思想线
+  作品：大学札记
+  交叉引用：li-ao-yulu-1957-07-06-daxue-zhaji-self-reliance-and-hu-shi-smile
+  来源：大学札记 / 097.笑脸 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/097.笑脸.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-07-06-li-huajun-visits-and-talks
+- 1957年7月6日 | 李敖午后与仁龙赴慈航禅院塔旁远眺
+  精度：day；可靠度：confirmed；排序日期：1957-07-06
+  摘要：《去禅院》写，1957年7月6日午后，李敖与仁龙赴“慈航禅院”的塔旁远眺；他由此想到真正长久的愉快要建筑在自恃上，并提到孟大中对此种看法有先见。
+  人物：李敖、仁龙、孟大中
+  地点：慈航禅院
+  标签：大学札记、仁龙、慈航禅院、远眺、孟大中
+  视图：交游线、日常线、地点线
+  作品：大学札记
+  交叉引用：li-ao-yulu-1957-07-06-daxue-zhaji-self-reliance-and-hu-shi-smile
+  来源：大学札记 / 096.去禅院 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/096.去禅院.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-07-06-goes-to-cihang-chan-temple-with-renlong
+- 1957年7月6日 | 李敖写诗给孟大中，并另作一章赠孟大强
+  精度：day；可靠度：confirmed；排序日期：1957-07-06
+  摘要：《诗赠孟大强》写，1957年7月6日，李敖写诗给孟大中，并另作一章赠孟大强，诗中以“老夫抱歉未接汝，聊将此诗遥祝阁下每天勤上班”作结。
+  人物：李敖、孟大中、孟大强
+  地点：-
+  标签：大学札记、孟大中、孟大强、赠诗、诗
+  视图：诗作线、交游线、写作线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 095.诗赠孟大强 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/095.诗赠孟大强.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-07-06-writes-poems-to-meng-dazhong-and-meng-daqiang
 - 1957年7月6日 | 李敖把愉快建立在自恃上，并学习胡适乐观
   精度：day；可靠度：excerpted-diary；排序日期：1957-07-06
   摘要：《李敖语录》摘录《大学札记》1957年7月6日两条。李敖写真正长久的愉快要建筑在自恃上，并决定学习胡适的内在乐观和外在笑脸。
@@ -2412,9 +2919,22 @@
   作品：李敖语录、大学札记
   交叉引用：-
   来源：李敖语录 / 004.自我炼钢 / line 139
-  补充来源：李敖语录 / 004.自我炼钢 / line 145；说明：摘自《大学札记》1957年7月6日。
+  补充来源：李敖语录 / 004.自我炼钢 / line 145；说明：摘自《大学札记》1957年7月6日。；大学札记 / 096.去禅院 / line 3；说明：原书《大学札记》同日条。；大学札记 / 097.笑脸 / line 3；说明：原书《大学札记》同日条。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-07-06-daxue-zhaji-self-reliance-and-hu-shi-smile
+- 1957年7月7日 | 李敖作小诗自述兼赠马宏祥
+  精度：day；可靠度：confirmed；排序日期：1957-07-07
+  摘要：《诗赠马宏祥》写，1957年7月7日，李敖作小诗一首，自述兼赠马宏祥，诗中写“一笑相绝故人去，饱经忧患剩此身”。
+  人物：李敖、马宏祥
+  地点：-
+  标签：大学札记、马宏祥、赠诗、诗、自述
+  视图：诗作线、交游线、写作线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 101.诗赠马宏祥 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/101.诗赠马宏祥.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-07-07-writes-poem-to-ma-hongxiang
 - 1957年7月7日 | 李敖深夜努力，从屈原和克里蒙梭获得鼓舞
   精度：day；可靠度：excerpted-diary；排序日期：1957-07-07
   摘要：《李敖语录》摘录《大学札记》1957年7月7日条。李敖深夜写到功力不会唐捐，想到屈原和克里蒙梭，觉得这些例子给了自己持续努力的鼓励。
@@ -2425,9 +2945,22 @@
   作品：李敖语录、大学札记
   交叉引用：-
   来源：李敖语录 / 004.自我炼钢 / line 155
-  补充来源：-
+  补充来源：大学札记 / 102.努力自造 / line 3；说明：原书《大学札记》同日条。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-07-07-daxue-zhaji-midnight-effort
+- 1957年7月9日 | 仁龙夜来李敖家谈天，使李敖观察社会恶习
+  精度：day；可靠度：confirmed；排序日期：1957-07-09
+  摘要：《抵挡流俗》写，1957年7月9日夜，仁龙来李敖家谈天，使李敖震惊于社会恶习染人之深，也使他对社会丑恶一面多所了解。
+  人物：李敖、仁龙
+  地点：李敖家
+  标签：大学札记、仁龙、来家、谈天、社会恶习
+  视图：交游线、日常线、思想线
+  作品：大学札记
+  交叉引用：li-ao-yulu-1957-07-09-daxue-zhaji-against-vulgarity
+  来源：大学札记 / 103.抵挡流俗 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/103.抵挡流俗.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-07-09-renlong-visits-home-to-talk
 - 1957年7月9日 | 李敖记录抵挡流俗，并以白云无尽收束追问
   精度：day；可靠度：excerpted-diary；排序日期：1957-07-09
   摘要：《李敖语录》摘录《大学札记》1957年7月9日两条。李敖震惊于社会恶习染人之深，强调一人抵挡流俗的坚定；同日又以“但去莫复问，白云无尽时”收束无益追问。
@@ -2438,9 +2971,61 @@
   作品：李敖语录、大学札记
   交叉引用：-
   来源：李敖语录 / 004.自我炼钢 / line 159
-  补充来源：李敖语录 / 004.自我炼钢 / line 169；说明：摘自《大学札记》1957年7月9日。
+  补充来源：李敖语录 / 004.自我炼钢 / line 169；说明：摘自《大学札记》1957年7月9日。；大学札记 / 103.抵挡流俗 / line 3；说明：原书《大学札记》同日条。；大学札记 / 105.屠格涅夫论远离敌人 / line 3；说明：原书《大学札记》同日条。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-07-09-daxue-zhaji-against-vulgarity
+- 1957年7月9日 | 李敖作“狂诗”一首
+  精度：day；可靠度：confirmed；排序日期：1957-07-09
+  摘要：《狂诗一首》写，1957年7月9日，李敖作“狂诗”一首，诗中写“自古惺惺惜惺惺，单凭慧眼瞩英雄”。
+  人物：李敖
+  地点：-
+  标签：大学札记、狂诗、诗、写作
+  视图：诗作线、写作线、思想线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 104.狂诗一首 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/104.狂诗一首.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-07-09-writes-wild-poem
+- 1957年7月10日 | 李敖下午与姚渔湘谈两个多小时
+  精度：day；可靠度：confirmed；排序日期：1957-07-10
+  摘要：《与姚渔湘谈后》写，1957年7月10日下午，李敖与姚渔湘先生谈了两个多小时，对“文人相轻”以及知识分子合作问题颇有感触。
+  人物：李敖、姚渔湘
+  地点：-
+  标签：大学札记、姚渔湘、文人相轻、知识分子、谈话
+  视图：交游线、思想线、师友线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 109.与姚渔湘谈后 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/109.与姚渔湘谈后.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-07-10-talks-with-yao-yuxiang-two-hours
+- 1957年7月10日 | 李敖作诗“略达所怀”
+  精度：day；可靠度：confirmed；排序日期：1957-07-10
+  摘要：《作诗一首》写，1957年7月10日，李敖作诗一首，称“略达所怀，未能工也”；诗中写“数载奔波罢，我方倦游归”等句。
+  人物：李敖
+  地点：-
+  标签：大学札记、作诗、诗、写作
+  视图：诗作线、写作线、日常线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 108.作诗一首 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/108.作诗一首.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-07-10-writes-poem-after-years-of-running
+- 1957年7月10日 | 李敖看报读到劳榦写给台大历史系同学的文章
+  精度：day；可靠度：confirmed；排序日期：1957-07-10
+  摘要：《乱跑的青年》写，1957年7月10日，李敖看报见劳榦为文致“战斗训练”“神鹰大队”之“学术研究队”的台大历史系同学，由此联想到胡适和易卜生关于在纷乱中救出自己的话。
+  人物：李敖、劳榦、胡适、易卜生
+  地点：台湾大学
+  标签：大学札记、看报、劳榦、战斗训练、神鹰大队、学术研究队、台大历史系
+  视图：读报线、求学线、思想线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 106.乱跑的青年 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/106.乱跑的青年.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-07-10-reads-lao-gan-newspaper-article-to-history-students
 - 1957年7月10日 | 李敖借鲁仲连思考高士的不合俗
   精度：day；可靠度：excerpted-diary；排序日期：1957-07-10
   摘要：《李敖语录》摘录《大学札记》1957年7月10日条。李敖写鲁仲连之所以成为高士，正在于不以世俗态度应付人世，并把这看成代表人类尊严的作风。
@@ -2451,7 +3036,7 @@
   作品：李敖语录、大学札记
   交叉引用：-
   来源：李敖语录 / 008.中国历史人物 / line 67
-  补充来源：-
+  补充来源：大学札记 / 107.鲁仲连 / line 3；说明：原书《大学札记》同日条。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/008.中国历史人物.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-07-10-daxue-zhaji-lu-zhonglian
 - 1957年7月11日 | 李敖自觉过不了世俗生活，只能严格前行
@@ -2464,9 +3049,61 @@
   作品：李敖语录、大学札记
   交叉引用：-
   来源：李敖语录 / 004.自我炼钢 / line 173
-  补充来源：-
+  补充来源：大学札记 / 110.过不了世俗的生活 / line 3；说明：原书《大学札记》同日条。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-07-11-daxue-zhaji-cannot-live-vulgar-life
+- 1957年7月12日 | 李敖在札记中记录“小鬼”李华俊两张造像
+  精度：day；可靠度：confirmed；排序日期：1957-07-12
+  摘要：《“小鬼”李华俊》写，1957年7月12日，李敖记录李华俊的两张造像：一张是进大学后照的，一张是高中毕业照的。原电子书注明图删。
+  人物：李敖、李华俊
+  地点：-
+  标签：大学札记、李华俊、照片、造像、图删
+  视图：交游线、日常线、影像线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 111.“小鬼”李华俊 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/111.“小鬼”李华俊.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-07-12-records-two-photos-of-li-huajun
+- 1957年7月13日 | 李敖夜与孟大中大谈至二时四十分
+  精度：day；可靠度：confirmed；排序日期：1957-07-13
+  摘要：《谈话之功》写，1957年7月13日夜，李敖与孟大中大谈至2时40分始归，打破历来纪录；当夜月色甚好，二人无所不谈。
+  人物：李敖、孟大中
+  地点：-
+  标签：大学札记、孟大中、夜谈、月色、二时四十分
+  视图：交游线、日常线、夜谈线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 112.谈话之功 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/112.谈话之功.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-07-13-talks-with-meng-dazhong-until-0240
+- 1957年7月13日 | 李敖晨起看朋友，近午赴三重镇访张世民
+  精度：day；可靠度：confirmed；排序日期：1957-07-13
+  摘要：《谈话之功》写，1957年7月13日，李敖晨起看朋友，见凤翰、马宏祥等；近午赴三重镇访张世民，畅谈自己近日的新气象，谈吐态度极为乐天有力。
+  人物：李敖、凤翰、马宏祥、张世民
+  地点：三重镇
+  标签：大学札记、凤翰、马宏祥、张世民、三重镇、访友
+  视图：交游线、日常线、地点线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 112.谈话之功 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/112.谈话之功.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-07-13-visits-friends-and-zhang-shimin-in-sanchong
+- 1957年7月15日 | 李敖午前与新汉、马宏祥在新兴楼上谈天
+  精度：day；可靠度：confirmed；排序日期：1957-07-15
+  摘要：《论狂态》写，1957年7月15日午前，李敖与新汉、马宏祥在新兴楼上谈天；回来后，他由此发愿消掉自己表情与言论之间的两种“狂态”。
+  人物：李敖、新汉、马宏祥
+  地点：新兴楼
+  标签：大学札记、新汉、马宏祥、新兴楼、谈天、狂态
+  视图：交游线、日常线、思想线
+  作品：大学札记
+  交叉引用：li-ao-yulu-1957-07-15-daxue-zhaji-eliminate-wild-attitudes
+  来源：大学札记 / 113.论狂态 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/113.论狂态.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-07-15-talks-with-xinhan-and-ma-hongxiang-at-xinxinglou
 - 1957年7月15日 | 李敖提醒自己消灭两种狂态
   精度：day；可靠度：excerpted-diary；排序日期：1957-07-15
   摘要：《李敖语录》摘录《大学札记》1957年7月15日条。李敖指出自己具有两种缺乏严肃正派和修养不到家的狂态，从这一天起正式提醒自己消灭它们。
@@ -2477,9 +3114,61 @@
   作品：李敖语录、大学札记
   交叉引用：-
   来源：李敖语录 / 004.自我炼钢 / line 183
-  补充来源：-
+  补充来源：大学札记 / 113.论狂态 / line 9；说明：原书《大学札记》同日条。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-07-15-daxue-zhaji-eliminate-wild-attitudes
+- 1957年7月16日 | 李敖写孤独自造诗，晚饭后独自散步
+  精度：day；可靠度：confirmed；排序日期：1957-07-16
+  摘要：《从孤独中创造自我》写，1957年7月16日，李敖写“息交绝游少交往”等诗句，并从事“从孤独中创造自我”的单调生活；晚饭后他独自散步，感到心胸远大、毫无俗情。
+  人物：李敖
+  地点：-
+  标签：大学札记、孤独、散步、作诗、自我训练
+  视图：诗作线、日常线、自我训练线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 114.从孤独中创造自我 / line 3
+  补充来源：大学札记 / 114.从孤独中创造自我 / line 9；说明：晚饭后独自散步。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/114.从孤独中创造自我.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-07-16-writes-solitude-poem-and-walks-alone-after-dinner
+- 1957年7月18日 | 李敖晨见吴相湘，谈转系及国史馆介绍
+  精度：day；可靠度：confirmed；排序日期：1957-07-18
+  摘要：《见吴相湘》写，1957年7月18日晨，李敖见吴相湘。吴相湘对李敖转系表示遗憾，又说党史会李敖不肯去，可介绍他去国史馆，并已跟罗家伦说过。
+  人物：李敖、吴相湘、罗家伦
+  地点：-
+  标签：大学札记、吴相湘、转系、党史会、国史馆、罗家伦
+  视图：求学线、交游线、师友线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 115.见吴相湘 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/115.见吴相湘.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-07-18-meets-wu-xiangxiang-about-transfer-and-history-institute
+- 1957年7月19日 | 李敖与马宏祥访殷海光，受赠《胡适思想与中国前途》抽印本
+  精度：day；可靠度：confirmed；排序日期：1957-07-19
+  摘要：《见殷海光》写，1957年7月19日下午，李敖与马宏祥去殷海光家；殷海光赠李敖《胡适思想与中国前途》一文抽印本，李敖认为此文甚好，并记《祖国》曾转载。
+  人物：李敖、马宏祥、殷海光
+  地点：-
+  标签：大学札记、殷海光、马宏祥、胡适思想与中国前途、抽印本、祖国
+  视图：交游线、师友线、读书线
+  作品：大学札记、胡适思想与中国前途、祖国
+  交叉引用：-
+  来源：大学札记 / 116.见殷海光 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/116.见殷海光.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-07-19-visits-yin-haiguang-with-ma-hongxiang-and-receives-offprint
+- 1957年7月20日 | 李敖与史静波逛书店，在文星书店购《逻辑新引》等三书
+  精度：day；可靠度：confirmed；排序日期：1957-07-20
+  摘要：《在文星书店的一个感想》写，1957年7月20日，李敖与史静波逛书店，购《逻辑新引》等三书；在文星书店，他由购书现场生出关于勇敢远大憧憬与眼光的感想。
+  人物：李敖、史静波
+  地点：文星书店
+  标签：大学札记、史静波、文星书店、逻辑新引、购书
+  视图：读书线、交游线、日常线
+  作品：大学札记、逻辑新引
+  交叉引用：li-ao-yulu-1957-07-20-daxue-zhaji-great-vision
+  来源：大学札记 / 117.在文星书店的一个感想 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/117.在文星书店的一个感想.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-07-20-visits-wenxing-bookstore-with-shi-jingbo-and-buys-books
 - 1957年7月20日 | 李敖要求自己保有勇敢远大的憧憬
   精度：day；可靠度：excerpted-diary；排序日期：1957-07-20
   摘要：《李敖语录》摘录《大学札记》1957年7月20日条。李敖提醒自己要有勇敢远大的憧憬与眼光，不能被眼前小诱惑绊倒，并相信不劳而获不会持久。
@@ -2490,7 +3179,7 @@
   作品：李敖语录、大学札记
   交叉引用：-
   来源：李敖语录 / 004.自我炼钢 / line 187
-  补充来源：-
+  补充来源：大学札记 / 117.在文星书店的一个感想 / line 3；说明：原书《大学札记》同日条。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-07-20-daxue-zhaji-great-vision
 - 1957年7月21日 | 李敖把读日记比作祈祷
@@ -2503,7 +3192,7 @@
   作品：李敖语录、大学札记
   交叉引用：-
   来源：李敖语录 / 004.自我炼钢 / line 191
-  补充来源：-
+  补充来源：大学札记 / 118.日记与祈祷 / line 3；说明：原书《大学札记》同日条。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-07-21-daxue-zhaji-reading-diary-as-prayer
 - 1957年7月22日 | 李敖练习缩短无谓交往，并思考成熟风度
@@ -2516,9 +3205,48 @@
   作品：李敖语录、大学札记
   交叉引用：-
   来源：李敖语录 / 004.自我炼钢 / line 195
-  补充来源：李敖语录 / 004.自我炼钢 / line 199；说明：摘自《大学札记》1957年7月22日。
+  补充来源：李敖语录 / 004.自我炼钢 / line 199；说明：摘自《大学札记》1957年7月22日。；大学札记 / 120.拒绝不爱光阴的朋友 / line 3；说明：原书《大学札记》同日条。；大学札记 / 119.有长者风 / line 3；说明：原书《大学札记》同日条。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-07-22-daxue-zhaji-reduce-pointless-socializing
+- 1957年7月22日 | 李敖晚上接连与三位朋友耗去四小时，决定节制无谓交往
+  精度：day；可靠度：confirmed；排序日期：1957-07-22
+  摘要：《拒绝不爱光阴的朋友》写，1957年7月22日晚上，李敖接连与三位朋友消耗四个小时，极为追悔；他决定以后用老实不客气而圆滑的态度，缩短或避免耽搁时间的无谓交往。
+  人物：李敖
+  地点：-
+  标签：大学札记、朋友、四小时、交往、节制时间
+  视图：交游线、日常线、自我训练线
+  作品：大学札记
+  交叉引用：li-ao-yulu-1957-07-22-daxue-zhaji-reduce-pointless-socializing
+  来源：大学札记 / 120.拒绝不爱光阴的朋友 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/120.拒绝不爱光阴的朋友.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-07-22-spends-four-hours-with-three-friends-and-regrets
+- 1957年7月23日 | 李敖与姚从吾小谈，受劝勿多发表文字并作诗
+  精度：day；可靠度：confirmed；排序日期：1957-07-23
+  摘要：《与姚从吾谈》写，1957年7月23日，李敖与姚从吾先生小谈；姚从吾以“积深流厚”之意劝他勿多发表文字，李敖深以为然。归来后，李敖作小诗一首，写“摒情专心穷文史，隐姓埋名二十年”。
+  人物：李敖、姚从吾
+  地点：-
+  标签：大学札记、姚从吾、发表文字、作诗、积深流厚
+  视图：求学线、师友线、写作线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 121.与姚从吾谈 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/121.与姚从吾谈.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-07-23-talks-with-yao-congwu-and-writes-poem
+- 1957年7月27日 | 李敖在札记中以卢保为用功、心静、淡泊的榜样
+  精度：day；可靠度：confirmed；排序日期：1957-07-27
+  摘要：《卢保》写，1957年7月27日，李敖记卢保是他所知以用功出名的人物之一，心静与淡泊两点尤其令他吃惊佩服，并称卢保是自己最好的榜样和营养。
+  人物：李敖、卢保
+  地点：-
+  标签：大学札记、卢保、用功、心静、淡泊、榜样
+  视图：思想线、人物线、日记线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 123.卢保 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/123.卢保.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-07-27-writes-lu-bao-as-model-of-diligence
 - 1957年7月28日 | 李敖静听人群而厌恶俗情，记录静默生活
   精度：day；可靠度：excerpted-diary；排序日期：1957-07-28
   摘要：《李敖语录》摘录《大学札记》1957年7月28日三条。李敖在人堆中静听人们谈笑，感到厌恶俗情；同日又记只做事不讲话、在池边看儿童钓鱼、读英诗与日记，并反省自己曾把现实硬当作理想。
@@ -2529,9 +3257,22 @@
   作品：李敖语录、大学札记
   交叉引用：-
   来源：李敖语录 / 004.自我炼钢 / line 209
-  补充来源：李敖语录 / 004.自我炼钢 / line 213；说明：摘自《大学札记》1957年7月28日。；李敖语录 / 004.自我炼钢 / line 217；说明：摘自《大学札记》1957年7月28日。
+  补充来源：李敖语录 / 004.自我炼钢 / line 213；说明：摘自《大学札记》1957年7月28日。；李敖语录 / 004.自我炼钢 / line 217；说明：摘自《大学札记》1957年7月28日。；大学札记 / 124.一天静默 / line 3；说明：原书《大学札记》同日条。；大学札记 / 125.值得说的话是多么少 / line 3；说明：原书《大学札记》同日条。；大学札记 / 126.硬把现实当作理想 / line 3；说明：原书《大学札记》同日条。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-07-28-daxue-zhaji-silent-life
+- 1957年7月29日 | 吴新地与沈鸿骏说李敖不苟言笑、神秘
+  精度：day；可靠度：confirmed；排序日期：1957-07-29
+  摘要：《“余独好修以为常”》写，1957年7月29日晚，吴新地与沈鸿骏说李敖现在不苟言笑，“这家伙真是神秘”。李敖由此确认自己愿意单独而神秘地生活。
+  人物：李敖、吴新地、沈鸿骏
+  地点：-
+  标签：大学札记、吴新地、沈鸿骏、不苟言笑、神秘
+  视图：交游线、日常线、自我训练线
+  作品：大学札记
+  交叉引用：li-ao-yulu-1957-07-29-daxue-zhaji-not-afraid-of-solitude
+  来源：大学札记 / 127.“余独好修以为常” / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/127.“余独好修以为常”.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-07-29-wu-xindi-and-shen-hongjun-call-li-ao-mysterious
 - 1957年7月29日 | 李敖写下《我将归来开放》
   精度：day；可靠度：reported-by-author；排序日期：1957-07-29
   摘要：《我将归来开放》文末署1957年7月29日。本条只收早期诗作的精确署日写作节点，不把诗中“归来开放”的抒情宣言另拆成现实事件。
@@ -2555,9 +3296,22 @@
   作品：李敖语录、大学札记
   交叉引用：li-ao-love-poems-1957-07-29-writes-i-will-return-to-bloom
   来源：李敖语录 / 004.自我炼钢 / line 231
-  补充来源：-
+  补充来源：大学札记 / 127.“余独好修以为常” / line 3；说明：原书《大学札记》同日条。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-07-29-daxue-zhaji-not-afraid-of-solitude
+- 1957年7月30日 | 李敖午赴台静农家小坐
+  精度：day；可靠度：confirmed；排序日期：1957-07-30
+  摘要：《见台静农》写，1957年7月30日中午，李敖赴台静农先生家小坐。台静农说近日将把所有时间都花在看招生卷子上，李敖由此想到生活累人和时间用途问题。
+  人物：李敖、台静农
+  地点：-
+  标签：大学札记、台静农、招生卷子、小坐
+  视图：交游线、师友线、日常线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 129.见台静农 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/129.见台静农.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-07-30-visits-tai-jingnong-at-home
 - 1957年7月30日 | 李敖写要做活泼泼的人，并争取小段时间
   精度：day；可靠度：excerpted-diary；排序日期：1957-07-30
   摘要：《李敖语录》摘录《大学札记》1957年7月30日两条。李敖写要做一个活泼泼的人，并提醒自己不仅大段时间不可浪费，小段时间也要尽力争取。
@@ -2568,7 +3322,7 @@
   作品：李敖语录、大学札记
   交叉引用：-
   来源：李敖语录 / 004.自我炼钢 / line 241
-  补充来源：李敖语录 / 004.自我炼钢 / line 245；说明：摘自《大学札记》1957年7月30日。
+  补充来源：李敖语录 / 004.自我炼钢 / line 245；说明：摘自《大学札记》1957年7月30日。；大学札记 / 128.三句话 / line 3；说明：原书《大学札记》同日条。；大学札记 / 130.小段时间的把握 / line 3；说明：原书《大学札记》同日条。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-07-30-daxue-zhaji-lively-and-time
 - 1957年8月2日 | 李敖确认孤立的必要，锤炼凯撒式硬心肠
@@ -2581,9 +3335,22 @@
   作品：李敖语录、大学札记
   交叉引用：-
   来源：李敖语录 / 004.自我炼钢 / line 249
-  补充来源：李敖语录 / 004.自我炼钢 / line 263；说明：摘自《大学札记》1957年8月2日。；李敖语录 / 004.自我炼钢 / line 267；说明：摘自《大学札记》1957年8月2日。
+  补充来源：李敖语录 / 004.自我炼钢 / line 263；说明：摘自《大学札记》1957年8月2日。；李敖语录 / 004.自我炼钢 / line 267；说明：摘自《大学札记》1957年8月2日。；大学札记 / 131.“绝对不怕孤立” / line 3；说明：原书《大学札记》同日条。；大学札记 / 132.太上忘情的原因 / line 3；说明：原书《大学札记》同日条。；大学札记 / 133.凯撒式的 / line 3；说明：原书《大学札记》同日条。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-08-02-daxue-zhaji-necessary-solitude-and-hardness
+- 1957年8月4日 | 李敖与善培谈话时边翻书、边谈书中问题
+  精度：day；可靠度：confirmed；排序日期：1957-08-04
+  摘要：《一边谈话，一边工作》写，1957年8月4日，李敖与善培谈话时，采用边翻书、边谈书中问题的方式；他认为这两种方式都可取，应予推广。
+  人物：李敖、善培
+  地点：-
+  标签：大学札记、善培、谈话、翻书、工作方法
+  视图：交游线、读书线、日常线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 134.一边谈话，一边工作 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/134.一边谈话，一边工作.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-08-04-talks-with-shanpei-while-working
 - 1957年8月5日 | 李敖重视一点一滴进步和五分钟价值
   精度：day；可靠度：excerpted-diary；排序日期：1957-08-05
   摘要：《李敖语录》摘录《大学札记》1957年8月5日条。李敖写努力的人重视一点一滴的变异和进化，不忽视五分钟的价值，播种造因时得暇就进一寸。
@@ -2594,7 +3361,7 @@
   作品：李敖语录、大学札记
   交叉引用：-
   来源：李敖语录 / 004.自我炼钢 / line 271
-  补充来源：-
+  补充来源：大学札记 / 135.一点一滴的重要 / line 3；说明：原书《大学札记》同日条。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-08-05-daxue-zhaji-five-minutes
 - 1957年8月6日 | 李敖清早写定“比例的眼光”
@@ -2607,9 +3374,35 @@
   作品：李敖语录、大学札记
   交叉引用：-
   来源：李敖语录 / 004.自我炼钢 / line 283
-  补充来源：-
+  补充来源：大学札记 / 136.比例的眼光 / line 3；说明：原书《大学札记》同日条。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-08-06-daxue-zhaji-proportion-view
+- 1957年8月8日 | 李敖念英文时想到陈绍鹏先生读书的样子
+  精度：day；可靠度：confirmed；排序日期：1957-08-08
+  摘要：《陈绍鹏先生》写，1957年8月8日，李敖每念英文就想到陈绍鹏先生，想到他安坐椅中、悠闲而专心读书的情形，并称其为大名士和能做学问的人。
+  人物：李敖、陈绍鹏
+  地点：-
+  标签：大学札记、陈绍鹏、英文、读书、做学问
+  视图：读书线、人物线、日记线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 140.陈绍鹏先生 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/140.陈绍鹏先生.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-08-08-remembers-chen-shaopeng-while-reading-english
+- 1957年8月10日 | 李敖决定从当晚开始每晚临睡前精读日记一刻钟
+  精度：day；可靠度：confirmed；排序日期：1957-08-10
+  摘要：《祈祷与主敬》写，1957年8月10日，李敖决定从当晚临睡前开始“一刻钟的‘祈祷’”且永不间断。这里的“祈祷”是他的特解，指带着虔诚庄敬心情精读日记，然后安然就寝。
+  人物：李敖
+  地点：-
+  标签：大学札记、祈祷、主敬、精读日记、临睡前
+  视图：日常线、自我训练线、日记线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 141.祈祷与主敬 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/141.祈祷与主敬.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-08-10-starts-nightly-diary-prayer
 - 1957年8月13日 | 李敖练习说话慢一点，以免失言
   精度：day；可靠度：excerpted-diary；排序日期：1957-08-13
   摘要：《李敖语录》摘录《大学札记》1957年8月13日条。李敖发现话说得太快最容易失言，决定练习反应和说话慢一点，并以约翰·杜威为仿效对象。
@@ -2620,9 +3413,48 @@
   作品：李敖语录、大学札记
   交叉引用：-
   来源：李敖语录 / 004.自我炼钢 / line 287
-  补充来源：-
+  补充来源：大学札记 / 142.系中同学来台中 / line 3；说明：原书《大学札记》同日条。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-08-13-daxue-zhaji-speak-slowly
+- 1957年8月13日 | 李敖请萧启庆、袁天吃午饭，又帮系中同学在台中安顿住处
+  精度：day；可靠度：confirmed；排序日期：1957-08-13
+  摘要：《系中同学来台中》写，1957年8月13日，李敖请萧启庆、袁天吃午饭，送他们上车时正遇历史系同学下车，于是帮他们搞住处，忙了一下午。此事后，他反省自己仍有几度失言，要练习说话慢一点。
+  人物：李敖、萧启庆、袁天
+  地点：台中、车站
+  标签：大学札记、萧启庆、袁天、台中、系中同学、住处、送车
+  视图：交游线、日常线、求学线
+  作品：大学札记
+  交叉引用：li-ao-yulu-1957-08-13-daxue-zhaji-speak-slowly
+  来源：大学札记 / 142.系中同学来台中 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/142.系中同学来台中.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-08-13-treats-xiao-qiqing-yuan-tian-and-helps-classmates-in-taichung
+- 1957年8月14日 | 李敖与历史系同学参观东海大学、北沟古物
+  精度：day；可靠度：confirmed；排序日期：1957-08-14
+  摘要：《去北沟》写，1957年8月14日，李敖与系中同学参观东海大学，途中与傅乐成小谈；午后赴北沟参观古物，见《四库全书》《永乐大典》、王羲之《快雪时晴帖》及赵子昂等绘画多幅。
+  人物：李敖、傅乐成、王羲之、赵子昂
+  地点：东海大学、北沟
+  标签：大学札记、东海大学、北沟、傅乐成、四库全书、永乐大典、快雪时晴帖
+  视图：求学线、交游线、参观线
+  作品：大学札记、四库全书、永乐大典、快雪时晴帖
+  交叉引用：-
+  来源：大学札记 / 143.去北沟 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/143.去北沟.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-08-14-visits-tunghai-and-beigou-with-history-classmates
+- 1957年8月15日 | 李敖近午送客北归，收到女同学赠台灯
+  精度：day；可靠度：confirmed；排序日期：1957-08-15
+  摘要：《送客北归》写，1957年8月15日近午，李敖送系中同学上车，女孩子们送他台灯一座。两天招待使他寝食皆不正常，下午在李华俊处小睡。
+  人物：李敖、李华俊
+  地点：车站、李华俊处
+  标签：大学札记、送客北归、台灯、李华俊、系中同学、招待
+  视图：交游线、日常线、求学线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 144.送客北归 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/144.送客北归.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-08-15-sends-guests-north-and-receives-desk-lamp
 - 1957年8月19日 | 李敖写以苛取人必须严律己
   精度：day；可靠度：excerpted-diary；排序日期：1957-08-19
   摘要：《李敖语录》摘录《大学札记》1957年8月19日条。李敖写以苛取人必须伴随严律己，反省自己每天放松太多，律己仍不够严。
@@ -2633,9 +3465,74 @@
   作品：李敖语录、大学札记
   交叉引用：-
   来源：李敖语录 / 004.自我炼钢 / line 291
-  补充来源：-
+  补充来源：大学札记 / 147.不放松自己 / line 3；说明：原书《大学札记》同日条。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-08-19-daxue-zhaji-strict-to-self
+- 1957年8月23日 | 李敖再赴北沟看第三期古物展，归时遇雨衣履皆濡
+  精度：day；可靠度：confirmed；排序日期：1957-08-23
+  摘要：《再去北沟》写，1957年8月23日，李敖赴北沟看第三期古物展览，见宋徽宗、文彦博、司马光、富弼、文征明、董其昌等法书，以及唐寅、郎世宁等绘画、书籍、古物和复辟文件多种；归时遇雨，衣履皆濡。
+  人物：李敖、宋徽宗、文彦博、司马光、富弼、文征明、董其昌、唐寅、郎世宁
+  地点：北沟
+  标签：大学札记、北沟、第三期古物展、宋徽宗、文彦博、司马光、富弼、文征明、董其昌、唐寅、郎世宁、遇雨
+  视图：参观线、读书线、日常线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 150.再去北沟 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/150.再去北沟.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-08-23-visits-beigou-third-exhibition-and-returns-in-rain
+- 1957年8月23日 | 李敖听闻王兆民、翁松燃等人称他非俗场中人、有大志向
+  精度：day；可靠度：confirmed；排序日期：1957-08-23
+  摘要：《再去北沟》同日记，王兆民跟程烈说李敖不是俗场中人，非一般男孩子所可及；翁松燃向庄因说李敖有大志向、自视甚高。李敖由此记下自己当晚意气深自负。
+  人物：李敖、王兆民、程烈、翁松燃、庄因
+  地点：-
+  标签：大学札记、王兆民、程烈、翁松燃、庄因、大志向、自负
+  视图：交游线、人物评价线、思想线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 150.再去北沟 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/150.再去北沟.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-08-23-hears-friends-praise-him-as-not-worldly
+- 1957年8月29日 | 李敖一日作信七封
+  精度：day；可靠度：confirmed；排序日期：1957-08-29
+  摘要：《与张世民通信》末写，1957年8月29日，李敖一日作信七封，并认为朋友交谊很可使自己获得一段时间的愉快。
+  人物：李敖
+  地点：-
+  标签：大学札记、作信、七封信、朋友交谊
+  视图：通信线、日常线、交游线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 152.与张世民通信 / line 65
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/152.与张世民通信.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-08-29-writes-seven-letters-in-one-day
+- 1957年8月29日 | 李敖早上与刘博崑谈七十分钟
+  精度：day；可靠度：confirmed；排序日期：1957-08-29
+  摘要：《与刘博崑谈》写，1957年8月29日早上，李敖与刘博崑谈七十分钟，刘博崑所言东北人性格之事令李敖觉得可念。
+  人物：李敖、刘博崑
+  地点：-
+  标签：大学札记、刘博崑、东北人性格、七十分钟
+  视图：交游线、日常线、谈话线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 151.与刘博崑谈 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/151.与刘博崑谈.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-08-29-talks-with-liu-bokun-seventy-minutes
+- 1957年8月29日 | 李敖早上接张世民来信，午后三时一刻署名长信回覆
+  精度：day；可靠度：confirmed；排序日期：1957-08-29
+  摘要：《与张世民通信》写，1957年8月29日早上，李敖接到张世民的信；张世民说先后收到李敖几张明信片，并谈教书计划几乎告吹、何去何从迷惘。李敖随后写长信回覆，署“敖 1957年8月29日午三时一刻”，并说明这封信约写四小时。
+  人物：李敖、张世民
+  地点：-
+  标签：大学札记、张世民、明信片、长信、午三时一刻、四小时
+  视图：通信线、交游线、写作线
+  作品：大学札记、与张世民通信
+  交叉引用：-
+  来源：大学札记 / 152.与张世民通信 / line 3
+  补充来源：大学札记 / 152.与张世民通信 / line 17；说明：李敖早上接到张世民的信。；大学札记 / 152.与张世民通信 / line 59；说明：李敖回信署时。；大学札记 / 152.与张世民通信 / line 63；说明：李敖说明这信约写四小时。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/152.与张世民通信.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-08-29-receives-zhang-shimin-letter-and-replies-four-hours
 - 1957年8月30日 | 李敖以朋友眼中的自己作为行为标准
   精度：day；可靠度：excerpted-diary；排序日期：1957-08-30
   摘要：《李敖语录》摘录《大学札记》1957年8月30日条。李敖想到可用朋友观点来看自己，从对人帮助到明信片字迹，都可借此作为行为取舍标准。
@@ -2646,9 +3543,48 @@
   作品：李敖语录、大学札记
   交叉引用：-
   来源：李敖语录 / 004.自我炼钢 / line 295
-  补充来源：-
+  补充来源：大学札记 / 154.朋友的观点 / line 3；说明：原书《大学札记》同日条。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-08-30-daxue-zhaji-friends-view
+- 1957年8月30日 | 李敖早上接到吴新地来信与小诗
+  精度：day；可靠度：confirmed；排序日期：1957-08-30
+  摘要：《朋友的观点》写，1957年8月30日早上，李敖接到吴新地的信。吴新地在信中以小诗写李敖如“浩瀚而深沉的大海”，又询问学生证、图章是否需要寄上，并说奖学金已经领过。
+  人物：李敖、吴新地
+  地点：-
+  标签：大学札记、吴新地、来信、小诗、学生证、图章、奖学金
+  视图：通信线、交游线、诗作线
+  作品：大学札记、吴新地来信
+  交叉引用：li-ao-yulu-1957-08-30-daxue-zhaji-friends-view
+  来源：大学札记 / 154.朋友的观点 / line 3
+  补充来源：大学札记 / 154.朋友的观点 / line 5；说明：吴新地来信正文起。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/154.朋友的观点.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-08-30-receives-wu-xindi-letter-with-poem
+- 1957年8月30日 | 李敖夜购物归来经过思恩堂，听到唱诗歌声
+  精度：day；可靠度：confirmed；排序日期：1957-08-30
+  摘要：《思恩堂外》写，1957年8月30日夜，李敖购物归来，经过思恩堂，听到唱诗歌声；他的反应是沉着有力，并由此确认自己“绝对不怕孤立”的态度。
+  人物：李敖
+  地点：思恩堂
+  标签：大学札记、思恩堂、购物、唱诗、孤立
+  视图：日常线、地点线、思想线
+  作品：大学札记
+  交叉引用：li-ao-yulu-1957-08-30-daxue-zhaji-friends-view
+  来源：大学札记 / 153.思恩堂外 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/153.思恩堂外.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-08-30-passes-sien-church-after-shopping-and-hears-hymns
+- 1957年8月31日 | 李敖夜深以两三分钟写成打油诗一首
+  精度：day；可靠度：confirmed；排序日期：1957-08-31
+  摘要：《打油诗一首》写，1957年8月31日夜渐深时，李敖以两三分钟作成打油诗一首，诗中写“南辕北辙非同道，异床各梦不相干”。
+  人物：李敖
+  地点：-
+  标签：大学札记、打油诗、夜深、写作
+  视图：诗作线、写作线、日常线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 155.打油诗一首 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/155.打油诗一首.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-08-31-writes-doggerel-poem-at-night
 - 1957年9月2日 | 李敖相信伟大的作风能减少痛苦
   精度：day；可靠度：excerpted-diary；排序日期：1957-09-02
   摘要：《李敖语录》摘录《大学札记》1957年9月2日条。李敖写作风愈伟大，痛苦就愈少，并对采取伟大作风获得解脱抱有绝对信任。
@@ -2659,9 +3595,35 @@
   作品：李敖语录、大学札记
   交叉引用：-
   来源：李敖语录 / 004.自我炼钢 / line 299
-  补充来源：-
+  补充来源：大学札记 / 157.伟大与痛苦 / line 3；说明：原书《大学札记》同日条。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-09-02-daxue-zhaji-great-style-less-pain
+- 1957年9月3日 | 李敖收到新汉来书，称其苦苦坚持令人佩钦
+  精度：day；可靠度：confirmed；排序日期：1957-09-03
+  摘要：《新汉来书》写，1957年9月3日，新汉来书说李敖能苦苦坚持，殊令人佩钦，并使朋辈安心。
+  人物：李敖、新汉
+  地点：-
+  标签：大学札记、新汉、来书、坚持
+  视图：通信线、交游线、人物评价线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 158.新汉来书 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/158.新汉来书.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-09-03-receives-xinhan-letter
+- 1957年9月4日 | 李敖决定与朋友交谈时随手记下结论
+  精度：day；可靠度：confirmed；排序日期：1957-09-04
+  摘要：《谈话要随手记结论》写，1957年9月4日，李敖认为与朋友交谈中，应当随时抽纸记下结论。这是他对谈话和笔记方式的一条具体自我规定。
+  人物：李敖
+  地点：-
+  标签：大学札记、谈话、笔记、结论、自我规定
+  视图：日常线、交游线、写作线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 159.谈话要随手记结论 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/159.谈话要随手记结论.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-09-04-decides-to-record-talk-conclusions
 - 1957年9月7日 | 李敖刻画精明、智慧、危险的力量形象
   精度：day；可靠度：excerpted-diary；排序日期：1957-09-07
   摘要：《李敖语录》摘录《大学札记》1957年9月7日条。李敖描写一种晶莹、精明、智慧而带危险闪光的眼神，以及果决有力、沉得住气的力量形象。
@@ -2672,9 +3634,22 @@
   作品：李敖语录、大学札记
   交叉引用：-
   来源：李敖语录 / 004.自我炼钢 / line 303
-  补充来源：-
+  补充来源：大学札记 / 161.有力量的表情 / line 3；说明：原书《大学札记》同日条。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-09-07-daxue-zhaji-dangerous-bright-eyes
+- 1957年9月8日 | 中秋节夜，李敖与张世民谈至十二时始归
+  精度：day；可靠度：confirmed；排序日期：1957-09-08
+  摘要：《与世民夜谈》写，1957年9月8日中秋节夜，李敖与张世民谈至12时才回去。此条保留《大学札记》中很短但明确的节日夜谈现场。
+  人物：李敖、张世民
+  地点：-
+  标签：大学札记、张世民、中秋节、夜谈、十二时
+  视图：交游线、日常线、节日线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 162.与世民夜谈 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/162.与世民夜谈.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-09-08-mid-autumn-talks-with-zhang-shimin-until-midnight
 - 1957年9月9日 | 李敖认为高傲对自己有用
   精度：day；可靠度：excerpted-diary；排序日期：1957-09-09
   摘要：《李敖语录》摘录《大学札记》1957年9月9日条。李敖写自己从不觉得高傲有害，反而认为高傲有大用途，应该扩张这种态度与心理。
@@ -2685,7 +3660,7 @@
   作品：李敖语录、大学札记
   交叉引用：-
   来源：李敖语录 / 004.自我炼钢 / line 309
-  补充来源：-
+  补充来源：大学札记 / 163.慷慨、孤立与高傲 / line 3；说明：原书《大学札记》同日条。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-09-09-daxue-zhaji-use-of-pride
 - 1957年9月10日 | 李敖照 X 光回来，在秋风中发现孤单可爱
@@ -2698,9 +3673,87 @@
   作品：李敖语录、大学札记
   交叉引用：-
   来源：李敖语录 / 004.自我炼钢 / line 313
-  补充来源：-
+  补充来源：大学札记 / 164.孤单的可爱 / line 3；说明：原书《大学札记》同日条。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-09-10-daxue-zhaji-xray-autumn-wind
+- 1957年9月13日 | 李敖收到庄因来函，谈转系未成
+  精度：day；可靠度：confirmed；排序日期：1957-09-13
+  摘要：《转系未成》写，1957年9月13日，庄因来函论李敖转系未成，说如李敖以前对他所言，应“咬着牙”念下去、读自己的书，并称李敖以往的勇气与魄力足可担当。
+  人物：李敖、庄因
+  地点：-
+  标签：大学札记、庄因、转系未成、来函、历史系
+  视图：通信线、求学线、交游线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 165.转系未成 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/165.转系未成.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-09-13-receives-zhuang-yin-letter-about-failed-transfer
+- 1957年9月20日 | 李敖与马宏祥谈至夜深，归来照料胃痛的吴新地至二时
+  精度：day；可靠度：confirmed；排序日期：1957-09-20
+  摘要：《自然的坦然与做作的坦然》写，1957年9月20日，李敖与马宏祥谈至夜深，马宏祥劝他以自然之坦然而非做作之坦然；归来时适逢吴新地闹胃痛，李敖照料至2时才睡。
+  人物：李敖、马宏祥、吴新地
+  地点：-
+  标签：大学札记、马宏祥、吴新地、夜谈、胃痛、照料
+  视图：交游线、日常线、照料线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 166.自然的坦然与做作的坦然 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/166.自然的坦然与做作的坦然.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-09-20-talks-with-ma-hongxiang-and-cares-for-wu-xindi
+- 1957年10月3日 | 李敖晨与新汉作联句游戏甚欢
+  精度：day；可靠度：confirmed；排序日期：1957-10-03
+  摘要：《联句游戏》写，1957年10月3日早晨，李敖与新汉作联句游戏甚欢。此条保留札记中短小的日常文学游戏。
+  人物：李敖、新汉
+  地点：-
+  标签：大学札记、新汉、联句、游戏、早晨
+  视图：交游线、诗作线、日常线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 167.联句游戏 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/167.联句游戏.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-10-03-plays-couplet-game-with-xinhan
+- 1957年10月9日 | 李敖两次做“绝情”的功夫
+  精度：day；可靠度：confirmed；排序日期：1957-10-09
+  摘要：《绝情功夫》写，1957年10月9日，李敖记录自己两次做“绝情”的功夫，且皆做得很好。此条保留《大学札记》中简短但明确的自我训练动作。
+  人物：李敖
+  地点：-
+  标签：大学札记、绝情功夫、自我训练、两次
+  视图：自我训练线、日常线、情感线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 168.绝情功夫 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/168.绝情功夫.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-10-09-practices-jueqing-twice
+- 1957年10月21日 | 李敖夜赴陈淑平家开历史系迎新会筹备会
+  精度：day；可靠度：confirmed；排序日期：1957-10-21
+  摘要：《历史系迎新筹备会》写，1957年10月21日夜，李敖赴陈淑平家开历史系迎新会筹备会。
+  人物：李敖、陈淑平
+  地点：陈淑平家
+  标签：大学札记、陈淑平、历史系、迎新会、筹备会
+  视图：求学线、交游线、校园线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 169.历史系迎新筹备会 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/169.历史系迎新筹备会.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-10-21-attends-history-welcome-prep-meeting-at-chen-shuping-home
+- 1957年10月22日 | 李敖喝酒三杯，称为平生第一次大饮
+  精度：day；可靠度：confirmed；排序日期：1957-10-22
+  摘要：《喝酒三杯》写，1957年10月22日，李敖喝酒三杯，并称这是自己平生第一次大饮。
+  人物：李敖
+  地点：-
+  标签：大学札记、喝酒、三杯、第一次大饮
+  视图：日常线、饮食线、身体线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 170.喝酒三杯 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/170.喝酒三杯.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-10-22-drinks-three-cups-first-big-drinking
 - 1957年11月17日 | 李敖在台大宿舍为《大学札记》写后记并决定结束日记
   精度：day；可靠度：excerpted-diary；排序日期：1957-11-17
   摘要：《李敖语录》摘录《大学札记》后记。1957年11月17日晨，李敖在台北温州街73号台大第一宿舍第四室写后记，认为日记帮助自己渡过难关，并决定结束这本日记。
@@ -2711,7 +3764,7 @@
   作品：李敖语录、大学札记
   交叉引用：-
   来源：李敖语录 / 004.自我炼钢 / line 317
-  补充来源：-
+  补充来源：大学札记 / 171.结束日记 / line 3；说明：原书《大学札记》同日条。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-11-17-daxue-zhaji-afterword
 - 1957年 | 《文星》杂志开始萌芽
@@ -14711,6 +15764,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/051.李敖著作年表.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1982-08-01-051-qianqiu-review-12
+- 1982年8月5日 | 李敖写《大学札记》前记，决定公布二十五年前的札记
+  精度：day；可靠度：confirmed；排序日期：1982-08-05
+  摘要：《大学札记》前记署1982年8月5日。李敖说明这批札记写于1957年2月至11月，自己当时在台湾大学历史系念二到三年级；二十五年后，他决定不再“藏诸名山”，把这批自我锻炼成钢铁的修养性札记公布出来。
+  人物：李敖
+  地点：台湾、台湾大学
+  标签：大学札记、前记、公布旧札记、台湾大学、自我炼钢
+  视图：日记线、出版线、自传线
+  作品：大学札记
+  交叉引用：-
+  来源：大学札记 / 《大学札记》前记 / line 3
+  补充来源：大学札记 / 《大学札记》前记 / line 7；说明：二十五年后决定公布札记，不再“藏诸名山”。；大学札记 / 《大学札记》前记 / line 9；说明：前记署日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/《大学札记》前记.txt
+  数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1982-08-05-writes-foreword-and-releases-old-notes
 - 1982年8月28日 | 李敖宣布计划到草山过“隐而不退”的生活
   精度：day；可靠度：confirmed；排序日期：1982-08-28
   摘要：《隐而不退的告白》写，李敖计划从1982年8月28日起到草山过“隐而不退”的生活，专一工作、独力战斗、不见朋友；日后指教和讨教均改以书面往返。
