@@ -1,9 +1,9 @@
 ﻿李敖交互式年表：当前增量纯文本备份
 生成日期：2026-05-05
-事件总数：2534
-数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json；data/timeline-events-ni-bendan.json；data/timeline-events-dream-awake.json；data/timeline-events-li-ao-xinkan.json；data/timeline-events-qianqiu-wansui-wuya-qiushi.json；data/timeline-events-li-ao-zawenji.json；data/timeline-events-qianqiu-wansui-bianwai.json；data/timeline-events-beijing-fayuansi.json；data/timeline-events-shangshan-ai.json；data/timeline-events-red-11.json；data/timeline-events-virtual-seventeen.json；data/timeline-events-yangwei-america.json；data/timeline-events-73rd-martyr.json；data/timeline-events-love-secret.json；data/timeline-events-li-ao-love-poems.json；data/timeline-events-li-yulu.json；data/timeline-events-li-ao-yulu.json；data/timeline-events-sui-qianwan-li-ao-wangyi.json
+事件总数：2535
+数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json；data/timeline-events-ni-bendan.json；data/timeline-events-dream-awake.json；data/timeline-events-li-ao-xinkan.json；data/timeline-events-qianqiu-wansui-wuya-qiushi.json；data/timeline-events-li-ao-zawenji.json；data/timeline-events-qianqiu-wansui-bianwai.json；data/timeline-events-beijing-fayuansi.json；data/timeline-events-shangshan-ai.json；data/timeline-events-red-11.json；data/timeline-events-virtual-seventeen.json；data/timeline-events-yangwei-america.json；data/timeline-events-73rd-martyr.json；data/timeline-events-love-secret.json；data/timeline-events-li-ao-love-poems.json；data/timeline-events-li-yulu.json；data/timeline-events-li-ao-yulu.json；data/timeline-events-sui-qianwan-li-ao-wangyi.json；data/timeline-events-tiaozhan-li-ao-ao-yulu.json
 说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。
-日期精度统计：day=2095；year=97；year-range=13；undated-range=1；undated-context=141；season=29；lunar-day=1；year-after=7；month=53；half-year=2；school-year-context=5；day-range=15；year-about=8；month-after=3；year-context=16；day-after=4；before-date-context=11；after-date-context=8；month-context=3；day-context=6；range-context=14；year-end=1；month-range=1
+日期精度统计：day=2095；year=97；year-range=13；undated-range=1；undated-context=141；season=29；lunar-day=1；year-after=7；month=53；half-year=2；school-year-context=5；day-range=16；year-about=8；month-after=3；year-context=16；day-after=4；before-date-context=11；after-date-context=8；month-context=3；day-context=6；range-context=14；year-end=1；month-range=1
 
 
 1935
@@ -27264,6 +27264,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/008.李敖相关/004.中华民国作家作品目录——李敖.txt
   数据：data/timeline-events-eighth-book.json#book8-1999-12-07-china-times-reports-directory-now-includes-li-ao
+- 1999年10月1日至2000年4月10日（本书所收） | 《挑战李敖——敖语录》摘录《挑战李敖》节目尾声“敖语录”栏目
+  精度：day-range；可靠度：confirmed；排序日期：1999-10-01
+  摘要：《挑战李敖——敖语录》按月收录1999年10月1日至2000年4月10日的短语。对照《挑战李敖》节目全文，1999年10月1日节目尾声李敖明说“现在我们开始最后的敖语录”，随后说出同日短语；1999年10月8日节目中观众也把“毛语录、蒋语录、李登辉语录”与“敖语录”并提，说明这组材料是节目中固定出现的收尾栏目。本条只记录栏目/摘编形态，不把每条格言观点拆成现实事件。
+  人物：李敖
+  地点：台湾
+  标签：挑战李敖——敖语录、挑战李敖、敖语录、节目栏目、语录摘编
+  视图：节目线、语录线、媒体线
+  作品：挑战李敖——敖语录、挑战李敖
+  交叉引用：beijing-fayuansi-1999-09-29-announces-english-nobel-submission
+  来源：挑战李敖——敖语录 / 001.1999年10月 / line 3
+  补充来源：挑战李敖——敖语录 / 001.1999年10月 / line 5；说明：本书所收1999年10月1日第一条短语。；挑战李敖——敖语录 / 007.2000年4月 / line 15；说明：本书所收最后日期为2000年4月10日。；挑战李敖 / 003.19991001挑战李敖 / line 99；说明：节目尾声明说“现在我们开始最后的敖语录”，内容与本书1999年10月1日条相同。；挑战李敖 / 008.19991008挑战李敖 / line 133；说明：观众在节目中提到“自从有毛语录、蒋语录跟李登辉语录，现在有敖语录”，可作栏目名称的外部互证。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/006.挑战李敖——敖语录/001.1999年10月.txt
+  数据：data/timeline-events-tiaozhan-li-ao-ao-yulu.json#tiaozhan-ao-yulu-1999-10-01-collected-ao-yulu-segment
 - 1999年10月号 | 李敖在《明报月刊》预先发表《民国定义和总统定义》
   精度：month；可靠度：confirmed；排序日期：1999-10-01
   摘要：《我言明在先》写，李敖在 1999 年 10 月号《明报月刊》发表《民国定义和总统定义》，先行界定所谓“总统”只是“中国台湾的领导人”别名，并主张未来两岸谈出的“中国”仍可采用“中华民国”名义。此文构成他后来投入 2000 年选举前的公开定位声明。
