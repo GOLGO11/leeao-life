@@ -250,7 +250,20 @@
       "chapter": "018.死别",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/002.李敖的情诗/018.死别.txt",
       "line": 113
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "007.1958年12月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+        "line": 379,
+        "note": "《大学后期日记甲集》同日原记：夜写出给 Rosa 的信四页，二日来颇念 Rosa。"
+      }
+    ],
+    "crossReferences": [
+      "daxue-houqi-jia-1958-12-22-writes-four-page-letter-to-rosa-and-cannot-forget-her",
+      "daxue-houqi-jia-1958-12-23-sends-human-rights-stamp-card-and-letter-to-rosa"
+    ]
   },
   {
     "id": "li-ao-love-poems-1958-12-28-hu-shih-replies-to-birthday-poem",
@@ -296,7 +309,26 @@
         "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/002.李敖的情诗/010.寿诗.txt",
         "line": 33,
         "note": "胡适回语署日。"
+      },
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "007.1958年12月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+        "line": 311,
+        "note": "《大学后期日记甲集》原记12月16日晨写好祝寿词，快信挂号寄南港。"
+      },
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "007.1958年12月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+        "line": 319,
+        "note": "《大学后期日记甲集》原记12月17日赴南港送胡适旧版《四十自述》及《胡适的时论一集》，胡适送《师门五年记》。"
       }
+    ],
+    "crossReferences": [
+      "daxue-houqi-jia-1958-12-06-good-deeds-near-birthday-song-for-hu-shih",
+      "daxue-houqi-jia-1958-12-16-sends-hu-shih-birthday-verse-by-registered-express-to-nangang",
+      "daxue-houqi-jia-1958-12-17-nangang-gives-hu-shih-old-books-and-receives-shimen-wunianji"
     ]
   },
   {

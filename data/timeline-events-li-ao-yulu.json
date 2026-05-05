@@ -3530,7 +3530,26 @@
       "chapter": "031.纸上罗曼斯",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt",
       "line": 201
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "007.1958年12月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+        "line": 231,
+        "note": "《大学后期日记甲集》原文所在日记条，先记返中并看《猎虎英雄不了情》。"
+      },
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "007.1958年12月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+        "line": 237,
+        "note": "原文摘录“爱情的纯一性是不可能的”。"
+      }
+    ],
+    "crossReferences": [
+      "daxue-houqi-jia-1958-12-12-film-reflection-ways-to-free-from-feelings-and-love-not-exclusive"
+    ]
   },
   {
     "id": "li-ao-yulu-1959-01-15-diary-limits-time-on-women",

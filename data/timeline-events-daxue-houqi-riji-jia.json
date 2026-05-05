@@ -56,6 +56,9 @@
         "line": 13,
         "note": "前记署日。"
       }
+    ],
+    "crossReferences": [
+      "daxue-houqi-jia-1958-06-08-starts-new-diary-and-new-life"
     ]
   },
   {
@@ -93,7 +96,9 @@
     },
     "crossReferences": [
       "qianqiu-wansui-1958-06-08-051-starts-university-late-diary",
-      "zaonian-riji-1982-09-04-prefaces-seventeen-days-campus-life"
+      "zaonian-riji-1982-09-04-prefaces-seventeen-days-campus-life",
+      "daxue-houqi-jia-1966-09-27-preface-reflects-on-campus-diary",
+      "daxue-houqi-jia-1958-06-08-visits-hu-shi-at-nangang-and-receives-yilin-judgment"
     ],
     "additionalSources": [
       {
@@ -146,7 +151,10 @@
     },
     "crossReferences": [
       "zaonian-riji-1958-05-27-attends-hu-shi-evidence-lecture",
-      "zaonian-riji-1958-06-05-attends-hu-shi-lecture-at-law-college"
+      "zaonian-riji-1958-06-05-attends-hu-shi-lecture-at-law-college",
+      "daxue-houqi-jia-1958-06-14-hu-shi-calligraphy-arrives",
+      "daxue-houqi-jia-1958-06-26-lotus-pond-x-y-hu-shi-letter-and-card-notebook",
+      "daxue-houqi-jia-1958-07-05-nangang-xu-zhimo-materials-and-hu-shi-residence"
     ],
     "additionalSources": [
       {
@@ -795,7 +803,9 @@
       "line": 101
     },
     "crossReferences": [
-      "li-ao-yulu-1958-06-11-paper-romance-diary"
+      "li-ao-yulu-1958-06-11-paper-romance-diary",
+      "daxue-houqi-jia-1958-06-13-l-no-longer-shakes-him",
+      "daxue-houqi-jia-1958-06-17-light-love-and-disillusion"
     ],
     "additionalSources": [
       {
@@ -863,6 +873,11 @@
         "line": 157,
         "note": "日记列出日夜睡眠分配表。"
       }
+    ],
+    "crossReferences": [
+      "daxue-houqi-jia-1958-12-01-third-revision-daily-schedule-and-principles",
+      "daxue-houqi-jia-1958-12-26-learns-time-scheduling-from-sun-yingshan-and-starts-good-morning-miss-dove",
+      "daxue-houqi-jia-1958-12-27-arranges-work-schedule-and-forget-everything-work-method"
     ]
   },
   {
@@ -1103,7 +1118,9 @@
       "line": 195
     },
     "crossReferences": [
-      "li-ao-yulu-1958-06-13-diary-l-no-longer-shakes-him"
+      "li-ao-yulu-1958-06-13-diary-l-no-longer-shakes-him",
+      "daxue-houqi-jia-1958-06-11-talks-with-yanzeng-paper-romance",
+      "daxue-houqi-jia-1958-06-17-light-love-and-disillusion"
     ]
   },
   {
@@ -1196,7 +1213,8 @@
       "line": 221
     },
     "crossReferences": [
-      "daxue-houqi-jia-1958-06-08-visits-hu-shi-at-nangang-and-receives-yilin-judgment"
+      "daxue-houqi-jia-1958-06-08-visits-hu-shi-at-nangang-and-receives-yilin-judgment",
+      "daxue-houqi-jia-1958-06-15-criticizes-overattacking-hu-shi-and-yin-haiguang"
     ]
   },
   {
@@ -1408,7 +1426,9 @@
       "line": 249
     },
     "crossReferences": [
-      "book4-1958-06-15-diary-says-yin-haiguang-limited"
+      "book4-1958-06-15-diary-says-yin-haiguang-limited",
+      "daxue-houqi-jia-1958-06-08-visits-hu-shi-at-nangang-and-receives-yilin-judgment",
+      "daxue-houqi-jia-1958-06-14-hu-shi-calligraphy-arrives"
     ],
     "additionalSources": [
       {
@@ -1999,7 +2019,10 @@
       "line": 325
     },
     "crossReferences": [
-      "li-ao-yulu-1958-06-17-diary-light-love-and-disillusion"
+      "li-ao-yulu-1958-06-17-diary-light-love-and-disillusion",
+      "daxue-houqi-jia-1958-06-11-talks-with-yanzeng-paper-romance",
+      "daxue-houqi-jia-1958-06-13-l-no-longer-shakes-him",
+      "daxue-houqi-jia-1958-07-22-talks-with-ma-ge-no-more-love-pain"
     ],
     "additionalSources": [
       {
@@ -3815,6 +3838,10 @@
         "line": 759,
         "note": "同日记孙玉华信息。"
       }
+    ],
+    "crossReferences": [
+      "daxue-houqi-jia-1958-06-08-visits-hu-shi-at-nangang-and-receives-yilin-judgment",
+      "daxue-houqi-jia-1958-11-24-hu-shih-grass-talk-long-letter-dunhuang-divorce-and-sunday-appointment"
     ]
   },
   {
@@ -5041,7 +5068,10 @@
     },
     "crossReferences": [
       "daxue-houqi-jia-1958-07-01-plans-three-xu-zhimo-essays",
-      "qianqiu-wansui-1958-07-19-051-publishes-liang-qichao-and-xu-zhimo"
+      "qianqiu-wansui-1958-07-19-051-publishes-liang-qichao-and-xu-zhimo",
+      "daxue-houqi-jia-1958-06-08-visits-hu-shi-at-nangang-and-receives-yilin-judgment",
+      "daxue-houqi-jia-1958-07-11-sends-liang-qichao-and-xu-zhimo",
+      "daxue-houqi-jia-1958-07-19-central-daily-publishes-liang-qichao-and-xu-zhimo"
     ]
   },
   {
@@ -5974,7 +6004,8 @@
     "crossReferences": [
       "daxue-houqi-jia-1958-07-01-plans-three-xu-zhimo-essays",
       "daxue-houqi-jia-1958-07-05-nangang-xu-zhimo-materials-and-hu-shi-residence",
-      "qianqiu-wansui-1958-07-19-051-publishes-liang-qichao-and-xu-zhimo"
+      "qianqiu-wansui-1958-07-19-051-publishes-liang-qichao-and-xu-zhimo",
+      "daxue-houqi-jia-1958-07-19-central-daily-publishes-liang-qichao-and-xu-zhimo"
     ]
   },
   {
@@ -7085,7 +7116,10 @@
       "line": 325
     },
     "crossReferences": [
-      "li-ao-yulu-1958-07-22-diary-no-more-love-pain"
+      "li-ao-yulu-1958-07-22-diary-no-more-love-pain",
+      "daxue-houqi-jia-1958-06-17-light-love-and-disillusion",
+      "daxue-houqi-jia-1958-07-26-treats-mimi-as-good-friend-and-cuts-love-socializing-self-discipline",
+      "daxue-houqi-jia-1958-08-28-talks-with-jing-on-present-freedom-and-love"
     ],
     "additionalSources": [
       {
@@ -7607,7 +7641,10 @@
       "line": 399
     },
     "crossReferences": [
-      "li-ao-yulu-1958-07-26-diary-self-discipline"
+      "li-ao-yulu-1958-07-26-diary-self-discipline",
+      "daxue-houqi-jia-1958-07-22-talks-with-ma-ge-no-more-love-pain",
+      "daxue-houqi-jia-1958-08-28-talks-with-jing-on-present-freedom-and-love",
+      "daxue-houqi-jia-1958-10-17-yingshan-dance-talk-and-love-purpose-lightness"
     ],
     "additionalSources": [
       {
@@ -8026,7 +8063,10 @@
       "chapter": "002.1958年7月",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/002.1958年7月.txt",
       "line": 445
-    }
+    },
+    "crossReferences": [
+      "daxue-houqi-jia-1958-08-10-no-plan-book-reviews-safecracker-and-quits-chess"
+    ]
   },
   {
     "id": "daxue-houqi-jia-1958-07-30-guan-guoying-praises-robe-and-plays-chess",
@@ -8814,7 +8854,11 @@
       "chapter": "003.1958年8月",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/003.1958年8月.txt",
       "line": 51
-    }
+    },
+    "crossReferences": [
+      "daxue-houqi-jia-1958-09-26-freshmen-unaccustomed-and-li-ao-ignores-rosa-y",
+      "daxue-houqi-jia-1958-10-06-zhou-hong-school-rosa-y-l-and-history-teacher-li"
+    ]
   },
   {
     "id": "daxue-houqi-jia-1958-08-08-chinese-department-library-second-book-shipment-and-dyed-shirt",
@@ -9046,6 +9090,10 @@
         "line": 77,
         "note": "同日决戒象棋。"
       }
+    ],
+    "crossReferences": [
+      "daxue-houqi-jia-1958-07-29-plays-chess-until-four-am",
+      "daxue-houqi-jia-1958-12-01-third-revision-daily-schedule-and-principles"
     ]
   },
   {
@@ -10523,7 +10571,10 @@
       "line": 229
     },
     "crossReferences": [
-      "li-ao-yulu-1958-08-28-diary-men-women-delay"
+      "li-ao-yulu-1958-08-28-diary-men-women-delay",
+      "daxue-houqi-jia-1958-07-22-talks-with-ma-ge-no-more-love-pain",
+      "daxue-houqi-jia-1958-07-26-treats-mimi-as-good-friend-and-cuts-love-socializing-self-discipline",
+      "daxue-houqi-jia-1958-10-17-yingshan-dance-talk-and-love-purpose-lightness"
     ],
     "additionalSources": [
       {
@@ -14180,6 +14231,11 @@
         "line": 365,
         "note": "同日对 Rosa、Y 等侧头如不见。"
       }
+    ],
+    "crossReferences": [
+      "daxue-houqi-jia-1958-08-07-goes-to-bitan-hears-ye-qiande-and-ignores-rosa",
+      "daxue-houqi-jia-1958-10-06-zhou-hong-school-rosa-y-l-and-history-teacher-li",
+      "daxue-houqi-jia-1958-11-11-sees-y-rosa-unmoved-and-decides-no-more-effort"
     ]
   },
   {
@@ -15583,7 +15639,12 @@
       "chapter": "005.1958年10月",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/005.1958年10月.txt",
       "line": 97
-    }
+    },
+    "crossReferences": [
+      "daxue-houqi-jia-1958-08-07-goes-to-bitan-hears-ye-qiande-and-ignores-rosa",
+      "daxue-houqi-jia-1958-09-26-freshmen-unaccustomed-and-li-ao-ignores-rosa-y",
+      "daxue-houqi-jia-1958-10-30-priest-greets-and-xiao-qiqing-praises-playful-air-rosa-also-has-it"
+    ]
   },
   {
     "id": "daxue-houqi-jia-1958-10-06-visits-old-li-and-withdraws-chinese-historiography-seminar",
@@ -17291,7 +17352,10 @@
       "line": 231
     },
     "crossReferences": [
-      "li-ao-yulu-1958-10-17-diary-love-for-lightness"
+      "li-ao-yulu-1958-10-17-diary-love-for-lightness",
+      "daxue-houqi-jia-1958-08-28-talks-with-jing-on-present-freedom-and-love",
+      "daxue-houqi-jia-1958-11-10-four-gazes-and-resolves-to-break-love-threads",
+      "daxue-houqi-jia-1958-12-12-film-reflection-ways-to-free-from-feelings-and-love-not-exclusive"
     ]
   },
   {
@@ -18681,7 +18745,9 @@
       "line": 375
     },
     "crossReferences": [
-      "li-ao-yulu-1958-10-27-diary-dislikes-dance-practice"
+      "li-ao-yulu-1958-10-27-diary-dislikes-dance-practice",
+      "daxue-houqi-jia-1958-11-11-dislikes-dancing-as-shallow",
+      "daxue-houqi-jia-1958-12-31-zhou-home-dance-with-guo-zhongkang-liang-and-first-dance-with-p"
     ]
   },
   {
@@ -19249,7 +19315,9 @@
     ],
     "crossReferences": [
       "daxue-houqi-jia-1958-10-23-xiao-qiqing-yuan-tianzhong-praise-cynical-optimist-path",
-      "daxue-houqi-jia-1958-10-28-letter-to-ma-hongxiang-on-lin-yutang-and-humor-master"
+      "daxue-houqi-jia-1958-10-28-letter-to-ma-hongxiang-on-lin-yutang-and-humor-master",
+      "daxue-houqi-jia-1958-10-06-zhou-hong-school-rosa-y-l-and-history-teacher-li",
+      "daxue-houqi-jia-1958-11-11-sees-y-rosa-unmoved-and-decides-no-more-effort"
     ]
   },
   {
@@ -19560,7 +19628,8 @@
       }
     ],
     "crossReferences": [
-      "daxue-houqi-jia-1958-10-27-decides-to-compile-li-ao-joke-collection"
+      "daxue-houqi-jia-1958-10-27-decides-to-compile-li-ao-joke-collection",
+      "daxue-houqi-jia-1958-12-01-plans-to-compile-zuorenji"
     ]
   },
   {
@@ -20577,7 +20646,9 @@
       "line": 101
     },
     "crossReferences": [
-      "1958-11-04-hu-shih-airport"
+      "1958-11-04-hu-shih-airport",
+      "daxue-houqi-jia-1958-11-09-dahua-evening-photo-of-welcoming-hu-shih-shows-li-ao-head",
+      "daxue-houqi-jia-1958-11-17-yao-congwu-hu-shih-thesis-direction-and-li-ao-refuses-change"
     ]
   },
   {
@@ -21052,7 +21123,8 @@
       "line": 161
     },
     "crossReferences": [
-      "1958-11-04-hu-shih-airport"
+      "1958-11-04-hu-shih-airport",
+      "daxue-houqi-jia-1958-11-06-after-hu-shih-airport-renews-effort-and-women-disgust"
     ]
   },
   {
@@ -21148,7 +21220,10 @@
       }
     ],
     "crossReferences": [
-      "li-ao-yulu-1958-11-10-diary-breaks-love-threads"
+      "li-ao-yulu-1958-11-10-diary-breaks-love-threads",
+      "daxue-houqi-jia-1958-10-17-yingshan-dance-talk-and-love-purpose-lightness",
+      "daxue-houqi-jia-1958-11-11-sees-y-rosa-unmoved-and-decides-no-more-effort",
+      "daxue-houqi-jia-1958-12-12-film-reflection-ways-to-free-from-feelings-and-love-not-exclusive"
     ]
   },
   {
@@ -21520,6 +21595,13 @@
         "line": 291,
         "note": "李敖决定不再做如此打算和努力。"
       }
+    ],
+    "crossReferences": [
+      "daxue-houqi-jia-1958-09-26-freshmen-unaccustomed-and-li-ao-ignores-rosa-y",
+      "daxue-houqi-jia-1958-10-30-priest-greets-and-xiao-qiqing-praises-playful-air-rosa-also-has-it",
+      "daxue-houqi-jia-1958-11-10-four-gazes-and-resolves-to-break-love-threads",
+      "daxue-houqi-jia-1958-12-12-film-reflection-ways-to-free-from-feelings-and-love-not-exclusive",
+      "daxue-houqi-jia-1958-12-31-zhou-home-dance-with-guo-zhongkang-liang-and-first-dance-with-p"
     ]
   },
   {
@@ -21640,7 +21722,9 @@
       "line": 309
     },
     "crossReferences": [
-      "li-ao-yulu-1958-11-11-diary-dislikes-dancing"
+      "li-ao-yulu-1958-11-11-diary-dislikes-dancing",
+      "daxue-houqi-jia-1958-10-27-dislikes-first-dance-practice-awkwardness",
+      "daxue-houqi-jia-1958-12-31-zhou-home-dance-with-guo-zhongkang-liang-and-first-dance-with-p"
     ]
   },
   {
@@ -22286,6 +22370,9 @@
         "line": 409,
         "note": "李敖说以善画王八成名有何不可。"
       }
+    ],
+    "crossReferences": [
+      "daxue-houqi-jia-1958-12-25-hungry-angry-and-plans-wangba-yiluo-qianzhang-study-with-zhuangyin"
     ]
   },
   {
@@ -22415,7 +22502,10 @@
       "chapter": "006.1958年11月",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/006.1958年11月.txt",
       "line": 417
-    }
+    },
+    "crossReferences": [
+      "daxue-houqi-jia-1958-12-31-zhou-home-dance-with-guo-zhongkang-liang-and-first-dance-with-p"
+    ]
   },
   {
     "view": [
@@ -22547,7 +22637,10 @@
       "1958-11-17-yao-discusses-thesis",
       "daxue-houqi-jia-1958-11-19-thesis-title-song-marriage-dissolution-research-with-weng",
       "daxue-houqi-jia-1958-11-21-thesis-title-changed-to-song-marriage-dissolution-and-restraints",
-      "daxue-houqi-jia-1958-11-22-wu-xiangxiang-and-friends-advise-against-thesis-but-li-ao-determined"
+      "daxue-houqi-jia-1958-11-22-wu-xiangxiang-and-friends-advise-against-thesis-but-li-ao-determined",
+      "daxue-houqi-jia-1958-11-06-after-hu-shih-airport-renews-effort-and-women-disgust",
+      "daxue-houqi-jia-1958-11-28-registers-thesis-with-yao-title-social-restraints-and-hu-shih-opinion",
+      "daxue-houqi-jia-1958-11-24-hu-shih-grass-talk-long-letter-dunhuang-divorce-and-sunday-appointment"
     ]
   },
   {
@@ -23097,7 +23190,8 @@
       "1958-11-17-yao-discusses-thesis",
       "daxue-houqi-jia-1958-11-17-yao-congwu-hu-shih-thesis-direction-and-li-ao-refuses-change",
       "daxue-houqi-jia-1958-11-19-thesis-title-song-marriage-dissolution-research-with-weng",
-      "daxue-houqi-jia-1958-11-21-thesis-title-changed-to-song-marriage-dissolution-and-restraints"
+      "daxue-houqi-jia-1958-11-21-thesis-title-changed-to-song-marriage-dissolution-and-restraints",
+      "daxue-houqi-jia-1958-11-28-registers-thesis-with-yao-title-social-restraints-and-hu-shih-opinion"
     ]
   },
   {
@@ -23592,7 +23686,10 @@
     ],
     "crossReferences": [
       "1958-11-24-hu-shih-grass",
-      "daxue-houqi-jia-1958-11-17-yao-congwu-hu-shih-thesis-direction-and-li-ao-refuses-change"
+      "daxue-houqi-jia-1958-11-17-yao-congwu-hu-shih-thesis-direction-and-li-ao-refuses-change",
+      "daxue-houqi-jia-1958-06-26-lotus-pond-x-y-hu-shi-letter-and-card-notebook",
+      "daxue-houqi-jia-1958-11-29-nangang-photos-qingmingji-songxingtong-and-long-talk-with-xu-gaoruan",
+      "daxue-houqi-jia-1958-11-30-delivers-hu-shih-wencun-to-free-china-for-lei-zhen-via-xu-gaoruan"
     ]
   },
   {
@@ -24411,7 +24508,9 @@
       "line": 633
     },
     "crossReferences": [
-      "daxue-houqi-jia-1958-07-05-nangang-xu-zhimo-materials-and-hu-shi-residence"
+      "daxue-houqi-jia-1958-07-05-nangang-xu-zhimo-materials-and-hu-shi-residence",
+      "daxue-houqi-jia-1958-11-24-hu-shih-grass-talk-long-letter-dunhuang-divorce-and-sunday-appointment",
+      "daxue-houqi-jia-1958-12-05-nangang-wang-baoxian-thanks-medicine-and-reads-songxingtong"
     ]
   },
   {
@@ -24635,7 +24734,10 @@
       "chapter": "006.1958年11月",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/006.1958年11月.txt",
       "line": 647
-    }
+    },
+    "crossReferences": [
+      "daxue-houqi-jia-1958-11-24-hu-shih-grass-talk-long-letter-dunhuang-divorce-and-sunday-appointment"
+    ]
   },
   {
     "view": [
@@ -24761,7 +24863,10 @@
       "chapter": "007.1958年12月",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
       "line": 5
-    }
+    },
+    "crossReferences": [
+      "daxue-houqi-jia-1958-10-30-night-at-jing-discusses-joke-materials-proverbs-johnson-and-gomoku"
+    ]
   },
   {
     "view": [
@@ -24798,7 +24903,11 @@
       "chapter": "007.1958年12月",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
       "line": 7
-    }
+    },
+    "crossReferences": [
+      "daxue-houqi-jia-1958-06-08-visits-hu-shi-at-nangang-and-receives-yilin-judgment",
+      "daxue-houqi-jia-1958-12-06-good-deeds-near-birthday-song-for-hu-shih"
+    ]
   },
   {
     "view": [
@@ -25019,6 +25128,9 @@
         "line": 45,
         "note": "胡振华医师提醒过度呼拉圈运动可能有害。"
       }
+    ],
+    "crossReferences": [
+      "daxue-houqi-jia-1958-12-31-plays-chess-with-zhou-yu-and-performs-hula-hoop"
     ]
   },
   {
@@ -25080,6 +25192,12 @@
         "line": 71,
         "note": "以不动用洋书之四小时为原则。"
       }
+    ],
+    "crossReferences": [
+      "daxue-houqi-jia-1958-12-26-learns-time-scheduling-from-sun-yingshan-and-starts-good-morning-miss-dove",
+      "daxue-houqi-jia-1958-12-27-arranges-work-schedule-and-forget-everything-work-method",
+      "daxue-houqi-jia-1958-06-12-resumes-night-life-and-sleep-schedule",
+      "daxue-houqi-jia-1958-08-10-no-plan-book-reviews-safecracker-and-quits-chess"
     ]
   },
   {
@@ -25393,6 +25511,9 @@
         "line": 103,
         "note": "写《好事近》。"
       }
+    ],
+    "crossReferences": [
+      "daxue-houqi-jia-1958-12-06-good-deeds-near-birthday-song-for-hu-shih"
     ]
   },
   {
@@ -25528,7 +25649,9 @@
     "crossReferences": [
       "daxue-houqi-jia-1958-11-29-buys-cold-medicine-for-wang-baoxian-at-sinica-library",
       "daxue-houqi-jia-1958-11-29-nangang-photos-qingmingji-songxingtong-and-long-talk-with-xu-gaoruan",
-      "daxue-houqi-jia-1958-07-05-nangang-xu-zhimo-materials-and-hu-shi-residence"
+      "daxue-houqi-jia-1958-07-05-nangang-xu-zhimo-materials-and-hu-shi-residence",
+      "daxue-houqi-jia-1958-12-16-sends-hu-shih-birthday-verse-by-registered-express-to-nangang",
+      "daxue-houqi-jia-1958-12-17-nangang-gives-hu-shih-old-books-and-receives-shimen-wunianji"
     ]
   },
   {
@@ -25731,6 +25854,12 @@
         "line": 149,
         "note": "署“李敖 1958年”。"
       }
+    ],
+    "crossReferences": [
+      "daxue-houqi-jia-1958-12-04-notes-jokes-qian-mu-soup-and-good-deeds-near-song",
+      "daxue-houqi-jia-1958-12-16-sends-hu-shih-birthday-verse-by-registered-express-to-nangang",
+      "li-ao-love-poems-1958-12-28-hu-shih-replies-to-birthday-poem",
+      "daxue-houqi-jia-1958-12-01-notes-hu-shih-speech-and-churchill-like-mouth"
     ]
   },
   {
@@ -26040,5 +26169,2970 @@
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
       "line": 173
     }
+  },
+  {
+    "view": [
+      "思想线",
+      "情感线",
+      "自省线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "人间何处有真人",
+      "怀往之情",
+      "情感切割",
+      "自省"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台北",
+      "台大"
+    ],
+    "works": [
+      "大学后期日记甲集"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-08-bus-thoughts-is-dog-or-human-and-rejects-nostalgia",
+    "date": "1958-12-08",
+    "displayDate": "1958年12月8日",
+    "datePrecision": "day",
+    "title": "李敖上车前想到“是狗还是人”“人间何处有真人”，并决意排除怀往之情",
+    "summary": "李敖上车前想到“是狗还是人？”“人间何处有真人？”在车上又觉得即使些微怀往之情，也都是肉麻、可耻、恶心的，此念不可衰下去。他说过去虽有此类念头，却是部分、矛盾的，自今起要成为百分之百清一色的念头，别的都滚蛋。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 177
+    }
+  },
+  {
+    "view": [
+      "写作线",
+      "诗文线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "毛毛诗",
+      "新诗",
+      "白话诗"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台北",
+      "台大"
+    ],
+    "works": [
+      "大学后期日记甲集",
+      "毛毛诗"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-08-writes-maomao-poem",
+    "date": "1958-12-08",
+    "displayDate": "1958年12月8日",
+    "datePrecision": "day",
+    "title": "李敖写白话新诗《毛毛诗》",
+    "summary": "李敖在日记中写《毛毛诗》，标明是“新诗，白话的”。诗从睡醒在床上发现一根黑黑、曲拐弯的毛，写到不知是腋毛还是阴毛。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 179
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "007.1958年12月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+        "line": 181,
+        "note": "《毛毛诗》正文起句。"
+      },
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "007.1958年12月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+        "line": 191,
+        "note": "《毛毛诗》末句。"
+      }
+    ]
+  },
+  {
+    "view": [
+      "情感线",
+      "电影线",
+      "交游线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "照片",
+      "Rosa",
+      "翁松燃",
+      "初恋"
+    ],
+    "people": [
+      "李敖",
+      "Rosa",
+      "翁松燃"
+    ],
+    "places": [
+      "台北",
+      "台大"
+    ],
+    "works": [
+      "大学后期日记甲集",
+      "初恋"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-08-photo-like-rosa-and-watches-first-love-with-weng-songran",
+    "date": "1958-12-08",
+    "displayDate": "1958年12月8日",
+    "datePrecision": "day",
+    "title": "李敖评照片坏样子可爱像 Rosa，夜与翁松燃看《初恋》",
+    "summary": "李敖记一张照片“坏样子，可爱的，像 Rosa”（图删）。夜里他与翁松燃看《初恋》。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 193
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "007.1958年12月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+        "line": 195,
+        "note": "夜与翁松燃看《初恋》。"
+      }
+    ],
+    "crossReferences": [
+      "daxue-houqi-jia-1958-12-20-green-car-weekend-adventure-with-zhouhong-shugu-youliang-to-rosa"
+    ]
+  },
+  {
+    "view": [
+      "通信线",
+      "交游线",
+      "情感线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "华民",
+      "来信",
+      "时运不佳",
+      "夫妻破裂",
+      "生病",
+      "勇气"
+    ],
+    "people": [
+      "李敖",
+      "华民"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "大学后期日记甲集"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-09-huamin-letter-praises-courage-after-future-marriage-breakup-and-illness",
+    "date": "1958-12-09",
+    "displayDate": "1958年12月9日",
+    "datePrecision": "day",
+    "title": "华民来信称李敖虽时运不佳、未来夫妻破裂、生病，仍有勇气活得有声有色",
+    "summary": "华民来信说，李敖近来时运不佳，夫妻（未来的）破裂，又生病；但多亏他还有勇气活下去，且活得有声有色，令人佩服。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 199
+    }
+  },
+  {
+    "view": [
+      "电影线",
+      "交游线",
+      "日常线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "周弘",
+      "战争与爱情",
+      "In Love and War"
+    ],
+    "people": [
+      "李敖",
+      "周弘"
+    ],
+    "places": [
+      "台北",
+      "台大"
+    ],
+    "works": [
+      "大学后期日记甲集",
+      "In Love and War",
+      "战争与爱情"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-09-watches-in-love-and-war-with-zhou-hong",
+    "date": "1958-12-09",
+    "displayDate": "1958年12月9日",
+    "datePrecision": "day",
+    "title": "李敖夜与周弘看《战争与爱情》",
+    "summary": "夜里，李敖与周弘看《战争与爱情》（In Love and War）。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 201
+    }
+  },
+  {
+    "view": [
+      "日常线",
+      "交游线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "丕隆",
+      "游芳园",
+      "午饭"
+    ],
+    "people": [
+      "李敖",
+      "丕隆"
+    ],
+    "places": [
+      "台北",
+      "游芳园"
+    ],
+    "works": [
+      "大学后期日记甲集"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-10-lunch-with-pilong-at-youfangyuan",
+    "date": "1958-12-10",
+    "displayDate": "1958年12月10日",
+    "datePrecision": "day",
+    "title": "李敖请丕隆在游芳园午饭",
+    "summary": "李敖请丕隆在游芳园吃午饭。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 205
+    }
+  },
+  {
+    "view": [
+      "读书线",
+      "校园线",
+      "日常线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "第八宿舍",
+      "崔书琴",
+      "独立时论集",
+      "买书",
+      "往忆"
+    ],
+    "people": [
+      "李敖",
+      "崔书琴"
+    ],
+    "places": [
+      "台北",
+      "台大第八宿舍"
+    ],
+    "works": [
+      "大学后期日记甲集",
+      "独立时论集"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-10-buys-cui-shuqin-independent-review-collection-at-eighth-dorm",
+    "date": "1958-12-10",
+    "displayDate": "1958年12月10日",
+    "datePrecision": "day",
+    "title": "李敖赴第八宿舍买崔书琴主编《独立时论集》，引发许多往忆",
+    "summary": "李敖赴第八宿舍，买一位同学卖出的崔书琴主编《独立时论集》，并因此颇多往忆。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 207
+    }
+  },
+  {
+    "view": [
+      "读书线",
+      "学术线",
+      "自律线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "印度史",
+      "卡片",
+      "夜间工作"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台北",
+      "台大"
+    ],
+    "works": [
+      "大学后期日记甲集",
+      "印度史卡片"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-10-makes-indian-history-cards-at-night",
+    "date": "1958-12-10",
+    "displayDate": "1958年12月10日",
+    "datePrecision": "day",
+    "title": "李敖夜作印度史卡片",
+    "summary": "夜里，李敖制作印度史卡片。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 209
+    },
+    "crossReferences": [
+      "daxue-houqi-jia-1958-12-15-lunch-shanpei-qinyuanchun-and-borrows-indian-history-books-at-yizhong-library",
+      "daxue-houqi-jia-1958-12-18-studies-british-french-india-struggle-clive-hastings-and-bibliography"
+    ]
+  },
+  {
+    "view": [
+      "通信线",
+      "交游线",
+      "自我形象线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "庄因",
+      "陈彦增",
+      "来信",
+      "嬉皮笑脸"
+    ],
+    "people": [
+      "李敖",
+      "庄因",
+      "陈彦增"
+    ],
+    "places": [
+      "台北",
+      "台大"
+    ],
+    "works": [
+      "大学后期日记甲集"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-11-zhuang-yin-and-chen-yanzeng-letter-advises-learning-his-smiling-style",
+    "date": "1958-12-11",
+    "displayDate": "1958年12月11日",
+    "datePrecision": "day",
+    "title": "庄因与陈彦增来信，劝人学李敖嬉皮笑脸",
+    "summary": "庄因与陈彦增来信，信中劝对方学李敖的嬉皮笑脸。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 213
+    }
+  },
+  {
+    "view": [
+      "写作线",
+      "诗文线",
+      "交游线",
+      "情感线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "景新汉",
+      "吃冰",
+      "女人老了",
+      "短诗"
+    ],
+    "people": [
+      "李敖",
+      "景新汉"
+    ],
+    "places": [
+      "台北",
+      "台大"
+    ],
+    "works": [
+      "大学后期日记甲集",
+      "女人老了"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-11-writes-women-aged-poem-while-eating-ice-with-xinhan",
+    "date": "1958-12-11",
+    "displayDate": "1958年12月11日",
+    "datePrecision": "day",
+    "title": "李敖与景新汉吃冰时作“女人老了”短诗",
+    "summary": "李敖与景新汉吃冰时作诗：“年轻的变老了！年老的更老了！哎呀呀，女人老了！”",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 215
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "007.1958年12月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+        "line": 217,
+        "note": "短诗正文起句。"
+      },
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "007.1958年12月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+        "line": 223,
+        "note": "短诗末句。"
+      }
+    ]
+  },
+  {
+    "view": [
+      "交游线",
+      "日常线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "周弘",
+      "庄因",
+      "畅谈",
+      "深夜洗澡"
+    ],
+    "people": [
+      "李敖",
+      "周弘",
+      "庄因"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "大学后期日记甲集"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-11-night-talk-with-zhou-hong-zhuang-yin-and-late-bath",
+    "date": "1958-12-11",
+    "displayDate": "1958年12月11日",
+    "datePrecision": "day",
+    "title": "李敖夜与周弘、庄因等畅谈，深夜洗澡而归",
+    "summary": "夜里，李敖与周弘、庄因等畅谈；深夜洗澡而归。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 225
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "007.1958年12月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+        "line": 227,
+        "note": "深夜洗澡而归。"
+      }
+    ]
+  },
+  {
+    "view": [
+      "家庭线",
+      "旅行线",
+      "电影线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "返中",
+      "飞快车",
+      "三姐",
+      "猎虎英雄不了情",
+      "Harry Black and the Tiger"
+    ],
+    "people": [
+      "李敖",
+      "三姐"
+    ],
+    "places": [
+      "台北",
+      "台中"
+    ],
+    "works": [
+      "大学后期日记甲集",
+      "The Adventurous Life Story of Harry Black and the Tiger",
+      "猎虎英雄不了情"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-12-returns-taichung-by-820-express-and-third-sister-invites-tiger-film",
+    "date": "1958-12-12",
+    "displayDate": "1958年12月12日",
+    "datePrecision": "day",
+    "title": "李敖坐八点二十分飞快车返台中，下午三姐请看《猎虎英雄不了情》",
+    "summary": "李敖坐八点二十分飞快车返中；下午三姐请他看《猎虎英雄不了情》（The Adventurous Life Story of Harry Black and the Tiger）。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 231
+    }
+  },
+  {
+    "view": [
+      "情感线",
+      "思想线",
+      "电影线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "猎虎英雄不了情",
+      "解脱感情",
+      "知足",
+      "爱情就是变幻",
+      "爱情的纯一性不可能",
+      "纸上罗曼斯"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台中"
+    ],
+    "works": [
+      "大学后期日记甲集",
+      "李敖语录",
+      "纸上罗曼斯",
+      "猎虎英雄不了情"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-12-film-reflection-ways-to-free-from-feelings-and-love-not-exclusive",
+    "date": "1958-12-12",
+    "displayDate": "1958年12月12日",
+    "datePrecision": "day",
+    "title": "李敖由《猎虎英雄不了情》总结解脱感情之道，认为爱情的纯一性不可能",
+    "summary": "看《猎虎英雄不了情》后，李敖深信解脱感情之道在四点：知足；变幻乃真，人不能在一起却可得到其心，爱情就是变幻的；爱情的纯一性不可能，即使深爱一人，也仍会与别人牵扯；工作等可以排遣，不让感情反客为主。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 231
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "007.1958年12月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+        "line": 233,
+        "note": "解脱感情之道之一：知足。"
+      },
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "007.1958年12月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+        "line": 235,
+        "note": "解脱感情之道之二：变幻乃真。"
+      },
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "007.1958年12月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+        "line": 237,
+        "note": "《李敖语录》摘录的爱情纯一性判断。"
+      },
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "007.1958年12月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+        "line": 239,
+        "note": "以工作等排遣，不使感情反客为主。"
+      }
+    ],
+    "crossReferences": [
+      "li-ao-yulu-1958-12-12-diary-love-not-purely-exclusive",
+      "daxue-houqi-jia-1958-12-25-xiaoxuan-navy-sweater-gaze-and-emotional-calm",
+      "daxue-houqi-jia-1958-12-26-relieved-from-rosa-turmoil-self-diagnosis-ship-cabin-and-turtle-study",
+      "daxue-houqi-jia-1958-10-17-yingshan-dance-talk-and-love-purpose-lightness",
+      "daxue-houqi-jia-1958-11-10-four-gazes-and-resolves-to-break-love-threads",
+      "daxue-houqi-jia-1958-11-11-sees-y-rosa-unmoved-and-decides-no-more-effort"
+    ]
+  },
+  {
+    "view": [
+      "电影线",
+      "思想线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "人类的故事",
+      "The Story of Mankind",
+      "未竟即出",
+      "历史一环"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台中"
+    ],
+    "works": [
+      "大学后期日记甲集",
+      "The Story of Mankind",
+      "人类的故事"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-12-watches-story-of-mankind-and-leaves-before-finish",
+    "date": "1958-12-12",
+    "displayDate": "1958年12月12日",
+    "datePrecision": "day",
+    "title": "李敖夜看《人类的故事》，嫌其极劣未竟即出，并记两点感想",
+    "summary": "夜里李敖看《人类的故事》（The Story of Mankind），觉得极劣，没看完就离场。他记下两点：人在世界上做的事善多恶少，故有权生存；一个坏人或好人都不能影响全人类，人类不可能都伟大、都好，“他不过是历史上的一环。”",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 241
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "007.1958年12月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+        "line": 243,
+        "note": "人在世界上做的事善多恶少。"
+      },
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "007.1958年12月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+        "line": 245,
+        "note": "一个坏人或好人都不能影响全人类。"
+      }
+    ]
+  },
+  {
+    "view": [
+      "交游线",
+      "日常线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "华民",
+      "谈话"
+    ],
+    "people": [
+      "李敖",
+      "华民"
+    ],
+    "places": [
+      "台中"
+    ],
+    "works": [
+      "大学后期日记甲集"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-12-talks-with-huamin",
+    "date": "1958-12-12",
+    "displayDate": "1958年12月12日",
+    "datePrecision": "day",
+    "title": "李敖与华民谈话",
+    "summary": "李敖当天与华民谈话。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 247
+    }
+  },
+  {
+    "view": [
+      "交游线",
+      "日常线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "华俊",
+      "谈话"
+    ],
+    "people": [
+      "李敖",
+      "华俊"
+    ],
+    "places": [
+      "台中"
+    ],
+    "works": [
+      "大学后期日记甲集"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-13-talks-with-huajun",
+    "date": "1958-12-13",
+    "displayDate": "1958年12月13日",
+    "datePrecision": "day",
+    "title": "李敖与华俊谈话",
+    "summary": "12月13日，李敖与华俊谈话。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 251
+    }
+  },
+  {
+    "view": [
+      "交游线",
+      "日常线",
+      "自省线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "张世民",
+      "新居",
+      "大二姐",
+      "博洽"
+    ],
+    "people": [
+      "李敖",
+      "张世民",
+      "大二姐"
+    ],
+    "places": [
+      "台中",
+      "张世民新居"
+    ],
+    "works": [
+      "大学后期日记甲集"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-13-visits-zhang-shimin-new-home-and-praised-most-learned-among-friends",
+    "date": "1958-12-13",
+    "displayDate": "1958年12月13日",
+    "datePrecision": "day",
+    "title": "李敖三点至十点访张世民新居，被大二姐称为世民诸友中最博洽者",
+    "summary": "李敖下午三点到晚上十点访问张世民于其新居。大二姐都称赞李敖是张世民诸友中最博洽者；李敖观张世民新居，颇有所感。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 253
+    },
+    "crossReferences": [
+      "daxue-houqi-jia-1958-12-05-gives-zhu-instructor-international-organization-book-and-zhang-shimin-wedding-invitation"
+    ]
+  },
+  {
+    "view": [
+      "交游线",
+      "日常线",
+      "情感线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "善培",
+      "慎斋堂",
+      "张福慧",
+      "情书",
+      "Ohio笔记本"
+    ],
+    "people": [
+      "李敖",
+      "善培",
+      "张福慧"
+    ],
+    "places": [
+      "台中",
+      "慎斋堂"
+    ],
+    "works": [
+      "大学后期日记甲集"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-14-shanpei-lunch-shenzhaitang-talks-and-ohio-notebooks",
+    "date": "1958-12-14",
+    "displayDate": "1958年12月14日",
+    "datePrecision": "day",
+    "title": "善培来午饭后，李敖同赴慎斋堂小坐，与张福慧等大谈并得 Ohio 笔记本",
+    "summary": "善培来午饭，饭后李敖与他同赴慎斋堂，在其室小坐，并与张福慧等大谈。李敖觉得善培的情书甚妙而有趣；善培送他 Ohio 的笔记本两册，李敖留下一册。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 257
+    }
+  },
+  {
+    "view": [
+      "交游线",
+      "婚礼线",
+      "日常线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "张世民",
+      "鹿鸣春",
+      "婚礼",
+      "张太太",
+      "恶作剧",
+      "新居",
+      "婚礼改造"
+    ],
+    "people": [
+      "李敖",
+      "张世民",
+      "张太太"
+    ],
+    "places": [
+      "台中",
+      "鹿鸣春",
+      "张世民新居"
+    ],
+    "works": [
+      "大学后期日记甲集"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-14-attends-zhang-shimin-wedding-at-lumingchun-and-pranks-new-couple",
+    "date": "1958-12-14",
+    "displayDate": "1958年12月14日",
+    "datePrecision": "day",
+    "title": "李敖赴鹿鸣春参加张世民婚礼，婚后到新居促狭捉弄新夫妇至十时半",
+    "summary": "五时半，李敖赴鹿鸣春参加张世民婚礼。张世民一边做新郎，一边向李敖抱怨“婚礼非改造不可！”婚后李敖等赴其新居促狭，恶作剧包括读诗、脱鞋、捶腿、梳头、抱至床上接吻、点烟、送糖等，捉弄新夫妇至十时半才归。李敖还记张太太是自己看到的最漂亮的台湾省人。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 259
+    },
+    "crossReferences": [
+      "daxue-houqi-jia-1958-12-05-gives-zhu-instructor-international-organization-book-and-zhang-shimin-wedding-invitation",
+      "daxue-houqi-jia-1958-12-13-visits-zhang-shimin-new-home-and-praised-most-learned-among-friends"
+    ]
+  },
+  {
+    "view": [
+      "交游线",
+      "家庭线",
+      "地方政治线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "林金标",
+      "台中市长",
+      "张世民婚礼",
+      "父亲丧事",
+      "捐钱"
+    ],
+    "people": [
+      "李敖",
+      "林金标",
+      "李鼎彝"
+    ],
+    "places": [
+      "台中",
+      "鹿鸣春"
+    ],
+    "works": [
+      "大学后期日记甲集"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-14-talks-with-taichung-mayor-lin-jinbiao-at-wedding",
+    "date": "1958-12-14",
+    "displayDate": "1958年12月14日",
+    "datePrecision": "day",
+    "title": "李敖在婚礼上与台中市长林金标小谈，并记其曾在父亲死时捐钱",
+    "summary": "在张世民婚礼上，李敖与台中市长林金标小谈。李敖追记，林金标在他老子死的时候捐了不少钱。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 261
+    }
+  },
+  {
+    "view": [
+      "读书线",
+      "思想线",
+      "剪报线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "剪报",
+      "性教育在瑞典",
+      "华明",
+      "瑞典",
+      "性教育",
+      "两性观"
+    ],
+    "people": [
+      "李敖",
+      "华明"
+    ],
+    "places": [
+      "台中",
+      "瑞典"
+    ],
+    "works": [
+      "大学后期日记甲集",
+      "性教育在瑞典"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-14-clips-sex-education-in-sweden-article",
+    "date": "1958-12-14",
+    "displayDate": "1958年12月14日",
+    "datePrecision": "day",
+    "title": "李敖剪存华明译《性教育在瑞典》一文",
+    "summary": "李敖在12月14日日记中剪报一则，为华明译《性教育在瑞典》。剪报介绍瑞典政府通令全国学校施行性教育，说明课程从小学一年级开始，涉及生理、青春期、怀孕分娩、私生、生育控制、堕胎与性变态等议题，并讨论公开性教育对社会风气的影响。此条记录李敖剪存与关注这一性教育材料，不把剪报外部事实拆成李敖亲历事件。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 263
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "007.1958年12月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+        "line": 267,
+        "note": "剪报开头写瑞典政府通令全国所有学校施行性教育。"
+      },
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "007.1958年12月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+        "line": 279,
+        "note": "剪报说明小学一年级性教育课本内容。"
+      },
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "007.1958年12月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+        "line": 283,
+        "note": "剪报说明高中阶段扩展到社会方面。"
+      },
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "007.1958年12月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+        "line": 291,
+        "note": "剪报讨论实行性教育后的女性贞洁与社会评价。"
+      }
+    ]
+  },
+  {
+    "view": [
+      "交游线",
+      "读书线",
+      "旅行线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "善培",
+      "东大",
+      "东海大学",
+      "华俊",
+      "玉明",
+      "明秀",
+      "宪沧",
+      "东瀛",
+      "寒假小住",
+      "图书"
+    ],
+    "people": [
+      "李敖",
+      "善培",
+      "华俊",
+      "玉明",
+      "明秀",
+      "宪沧",
+      "东瀛"
+    ],
+    "places": [
+      "台中",
+      "东海大学"
+    ],
+    "works": [
+      "大学后期日记甲集"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-15-visits-tunghai-with-shanpei-and-plans-winter-stay",
+    "date": "1958-12-15",
+    "displayDate": "1958年12月15日",
+    "datePrecision": "day",
+    "title": "李敖上午与善培同赴东大，与华俊等相聚甚欢，并决定寒假来此小住阅览图书",
+    "summary": "上午李敖与善培同赴东大，与华俊、玉明、明秀、宪沧、东瀛等相聚甚欢。他决定寒假时来此小住，并阅览东大的图书。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 297
+    }
+  },
+  {
+    "view": [
+      "交游线",
+      "读书线",
+      "日常线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "善培",
+      "沁园春",
+      "台中一中",
+      "一中图书馆",
+      "印度史",
+      "借书"
+    ],
+    "people": [
+      "李敖",
+      "善培"
+    ],
+    "places": [
+      "台中",
+      "沁园春",
+      "台中一中图书馆"
+    ],
+    "works": [
+      "大学后期日记甲集",
+      "印度史参考书籍"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-15-lunch-shanpei-qinyuanchun-and-borrows-indian-history-books-at-yizhong-library",
+    "date": "1958-12-15",
+    "displayDate": "1958年12月15日",
+    "datePrecision": "day",
+    "title": "李敖午请善培于沁园春，下午去一中图书馆借印度史参考书籍",
+    "summary": "中午李敖请善培在沁园春吃饭；下午去一中图书馆，借印度史参考书籍。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 299
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "007.1958年12月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+        "line": 301,
+        "note": "下午去一中图书馆借印度史参考书籍。"
+      }
+    ],
+    "crossReferences": [
+      "daxue-houqi-jia-1958-12-10-makes-indian-history-cards-at-night",
+      "daxue-houqi-jia-1958-12-18-studies-british-french-india-struggle-clive-hastings-and-bibliography"
+    ]
+  },
+  {
+    "view": [
+      "旅行线",
+      "交游线",
+      "日常线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "北返",
+      "山水景色",
+      "何君",
+      "张君",
+      "如意村",
+      "周弘",
+      "夜谈"
+    ],
+    "people": [
+      "李敖",
+      "何君",
+      "张君",
+      "周弘"
+    ],
+    "places": [
+      "台中",
+      "台北",
+      "如意村",
+      "宿舍"
+    ],
+    "works": [
+      "大学后期日记甲集"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-15-returns-north-at-410-scenery-talks-and-late-zhouhong-conversation",
+    "date": "1958-12-15",
+    "displayDate": "1958年12月15日",
+    "datePrecision": "day",
+    "title": "李敖四时十分北返，车中看山水并与何、张诸君大谈，夜返宿舍约周弘谈至深夜",
+    "summary": "下午四时十分，李敖北返。车中看山水景色，并与何、张诸君等大谈至台北；在如意村晚饭后返宿舍，又约周弘谈至夜深。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 303
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "007.1958年12月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+        "line": 305,
+        "note": "在如意村晚饭，返宿舍约周弘谈至夜深。"
+      }
+    ]
+  },
+  {
+    "view": [
+      "自省线",
+      "交游线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "谈吐",
+      "表情",
+      "声调",
+      "进步"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台北",
+      "台大"
+    ],
+    "works": [
+      "大学后期日记甲集"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-15-feels-great-progress-in-speaking-expression-and-voice",
+    "date": "1958-12-15",
+    "displayDate": "1958年12月15日",
+    "datePrecision": "day",
+    "title": "李敖自觉谈吐大有进步，说话表情及声调甚能动人",
+    "summary": "李敖在日记中自评，自己在谈吐上大有进步，说话表情及声调甚能动人。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 307
+    }
+  },
+  {
+    "view": [
+      "写作线",
+      "胡适线",
+      "通信线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "胡适",
+      "祝寿词",
+      "快信",
+      "挂号",
+      "南港",
+      "好事近",
+      "寿诗"
+    ],
+    "people": [
+      "李敖",
+      "胡适"
+    ],
+    "places": [
+      "台北",
+      "南港"
+    ],
+    "works": [
+      "大学后期日记甲集",
+      "好事近",
+      "寿诗"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-16-sends-hu-shih-birthday-verse-by-registered-express-to-nangang",
+    "date": "1958-12-16",
+    "displayDate": "1958年12月16日",
+    "datePrecision": "day",
+    "title": "李敖晨写好祝寿词，快信挂号寄南港给胡适",
+    "summary": "早晨李敖写好祝寿词，并以快信挂号寄往南港给胡适。这一寄送动作承接12月6日写成的《好事近》胡适六十八岁生日小词，也将通向12月28日胡适回谢生日诗。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 311
+    },
+    "crossReferences": [
+      "daxue-houqi-jia-1958-12-06-good-deeds-near-birthday-song-for-hu-shih",
+      "daxue-houqi-jia-1958-12-17-nangang-gives-hu-shih-old-books-and-receives-shimen-wunianji",
+      "li-ao-love-poems-1958-12-28-hu-shih-replies-to-birthday-poem",
+      "daxue-houqi-jia-1958-12-05-nangang-wang-baoxian-thanks-medicine-and-reads-songxingtong"
+    ]
+  },
+  {
+    "view": [
+      "情感线",
+      "校园线",
+      "日常线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "小玄",
+      "蓝外套",
+      "清淡可人",
+      "瘦弱",
+      "安静"
+    ],
+    "people": [
+      "李敖",
+      "小玄"
+    ],
+    "places": [
+      "台北",
+      "台大"
+    ],
+    "works": [
+      "大学后期日记甲集"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-16-xiaoxuan-blue-coat-quiet-and-lovely",
+    "date": "1958-12-16",
+    "displayDate": "1958年12月16日",
+    "datePrecision": "day",
+    "title": "李敖见小玄穿蓝外套，觉得清淡可人，比以前更瘦弱、更安静",
+    "summary": "小玄今天穿蓝外套，李敖觉得她清淡可人，并写“今天真是喜欢她”；他又觉得她比以前更瘦弱、更安静。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 313
+    }
+  },
+  {
+    "view": [
+      "电影线",
+      "日常线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "十二怒汉",
+      "12 Angry Men",
+      "好片"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台北",
+      "台大"
+    ],
+    "works": [
+      "大学后期日记甲集",
+      "12 Angry Men",
+      "十二怒汉"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-16-watches-twelve-angry-men",
+    "date": "1958-12-16",
+    "displayDate": "1958年12月16日",
+    "datePrecision": "day",
+    "title": "李敖下午看《十二怒汉》，称其真是好片",
+    "summary": "下午李敖去看《十二怒汉》（12 Angry Men），认为真是好片。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 315
+    }
+  },
+  {
+    "view": [
+      "胡适线",
+      "交游线",
+      "读书线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "胡适",
+      "南港",
+      "四十自述",
+      "胡适的时论一集",
+      "师门五年记",
+      "赠书"
+    ],
+    "people": [
+      "李敖",
+      "胡适"
+    ],
+    "places": [
+      "台北",
+      "南港"
+    ],
+    "works": [
+      "大学后期日记甲集",
+      "四十自述",
+      "胡适的时论一集",
+      "师门五年记"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-17-nangang-gives-hu-shih-old-books-and-receives-shimen-wunianji",
+    "date": "1958-12-17",
+    "displayDate": "1958年12月17日",
+    "datePrecision": "day",
+    "title": "李敖赴南港送胡适旧版《四十自述》《胡适的时论一集》，胡适回赠《师门五年记》",
+    "summary": "李敖赴南港，送胡适旧版《四十自述》及《胡适的时论一集》各一册；胡适则送李敖《师门五年记》一册。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 319
+    },
+    "crossReferences": [
+      "daxue-houqi-jia-1958-12-16-sends-hu-shih-birthday-verse-by-registered-express-to-nangang",
+      "li-ao-love-poems-1958-12-28-hu-shih-replies-to-birthday-poem",
+      "daxue-houqi-jia-1958-12-31-receives-hu-shih-new-year-card-and-shimen-wunianji-corrected-proof",
+      "daxue-houqi-jia-1958-12-05-nangang-wang-baoxian-thanks-medicine-and-reads-songxingtong",
+      "daxue-houqi-jia-1958-12-29-mou-zongsan-insults-hu-shih-and-li-ao-resolves-laugh-forget-insults"
+    ]
+  },
+  {
+    "view": [
+      "情感线",
+      "校园线",
+      "日常线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "牙科",
+      "护士小姐",
+      "赵依依",
+      "参考室",
+      "篮球场",
+      "二号馆",
+      "马尾头发"
+    ],
+    "people": [
+      "李敖",
+      "牙科护士",
+      "赵依依"
+    ],
+    "places": [
+      "台北",
+      "台大"
+    ],
+    "works": [
+      "大学后期日记甲集"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-17-dental-nurse-and-zhao-yiyi-glances",
+    "date": "1958-12-17",
+    "displayDate": "1958年12月17日",
+    "datePrecision": "day",
+    "title": "李敖记牙科护士生气可爱，又记赵依依三处侧头看他、马尾头发可爱",
+    "summary": "李敖记牙科中那位护士小姐生气时很可爱；又记赵依依在参考室门前、篮球场上、二号馆门前三次侧过头来看，马尾头发实在很可爱。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 321
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "007.1958年12月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+        "line": 323,
+        "note": "赵依依在参考室门前、篮球场上、二号馆门前侧过头来看。"
+      }
+    ]
+  },
+  {
+    "view": [
+      "校园线",
+      "学术线",
+      "自省线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "吴俊才",
+      "卡片",
+      "缴笔记",
+      "印度史",
+      "自由研究",
+      "独立治学"
+    ],
+    "people": [
+      "李敖",
+      "吴俊才"
+    ],
+    "places": [
+      "台北",
+      "台大"
+    ],
+    "works": [
+      "大学后期日记甲集",
+      "印度史卡片"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-18-wu-juncai-praises-card-method-and-li-ao-attacks-note-taking",
+    "date": "1958-12-18",
+    "displayDate": "1958年12月18日",
+    "datePrecision": "day",
+    "title": "吴俊才称道李敖卡片，李敖追记自己以三十五张卡片“敷衍”缴笔记并攻击记笔记",
+    "summary": "吴俊才为卡片事居然称道李敖，李敖觉得可怪。敖按追记，吴俊才要同学缴笔记时，李敖因从来不记笔记，只好花几小时写三十五张卡片“敷衍”上去；他在卡片前两张极力攻击记笔记，说大学为自由研究学术之地，研究方法亦各自由，大学生治学贵在参考众书、独立治学，不应株守笔记以应考试及先生审阅。吴俊才反而在班上大大称赞李敖。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 327
+    },
+    "crossReferences": [
+      "daxue-houqi-jia-1958-12-10-makes-indian-history-cards-at-night"
+    ]
+  },
+  {
+    "view": [
+      "读书线",
+      "学术线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "印度史",
+      "英法争夺",
+      "Robert Clive",
+      "Warren Hastings",
+      "卡拉地之战",
+      "阿可德",
+      "加尔各答",
+      "近世欧罗巴殖民史",
+      "现代印度论"
+    ],
+    "people": [
+      "李敖",
+      "Robert Clive",
+      "Warren Hastings",
+      "Phillip Francis",
+      "大川周明",
+      "伊东敬"
+    ],
+    "places": [
+      "台北",
+      "台大"
+    ],
+    "works": [
+      "大学后期日记甲集",
+      "History of British India",
+      "近世欧罗巴殖民史",
+      "现代印度论"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-18-studies-british-french-india-struggle-clive-hastings-and-bibliography",
+    "date": "1958-12-18",
+    "displayDate": "1958年12月18日",
+    "datePrecision": "day",
+    "title": "李敖整理英法印度争夺、Robert Clive 与 Warren Hastings 材料",
+    "summary": "李敖整理印度史材料，记英法两国在印度东南海岸争夺近二十年，最后英国取得独霸地位；又详记卡拉地之战、Robert Clive 的经历、阿可德之战、加尔各答之围、返英后受攻击自杀，以及 Warren Hastings 的发迹、受控、获判无罪、赎回祖产 Dalesford 和晚年。末列大川周明《近世欧罗巴殖民史》、伊东敬《现代印度论》等参考。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 329
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "007.1958年12月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+        "line": 333,
+        "note": "Robert Clive 幼年与赴印度材料。"
+      },
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "007.1958年12月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+        "line": 339,
+        "note": "Robert Clive 返英后遭攻击而自杀。"
+      },
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "007.1958年12月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+        "line": 341,
+        "note": "Warren Hastings 受控案与晚年材料。"
+      },
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "007.1958年12月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+        "line": 345,
+        "note": "参考书目。"
+      }
+    ],
+    "crossReferences": [
+      "daxue-houqi-jia-1958-12-10-makes-indian-history-cards-at-night",
+      "daxue-houqi-jia-1958-12-15-lunch-shanpei-qinyuanchun-and-borrows-indian-history-books-at-yizhong-library"
+    ]
+  },
+  {
+    "view": [
+      "交游线",
+      "学术线",
+      "读书线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "萧启庆",
+      "南港"
+    ],
+    "people": [
+      "李敖",
+      "萧启庆"
+    ],
+    "places": [
+      "台北",
+      "南港"
+    ],
+    "works": [
+      "大学后期日记甲集"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-19-goes-nangang-with-xiao-qiqing",
+    "date": "1958-12-19",
+    "displayDate": "1958年12月19日",
+    "datePrecision": "day",
+    "title": "李敖与萧启庆赴南港",
+    "summary": "李敖与萧启庆赴南港。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 349
+    }
+  },
+  {
+    "view": [
+      "交游线",
+      "情感线",
+      "日常线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "周弘",
+      "圣诞卡",
+      "圣诞红",
+      "抽签",
+      "女娃儿"
+    ],
+    "people": [
+      "李敖",
+      "周弘"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "大学后期日记甲集"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-19-buys-christmas-cards-with-zhouhong-and-draws-lots-for-girls",
+    "date": "1958-12-19",
+    "displayDate": "1958年12月19日",
+    "datePrecision": "day",
+    "title": "李敖夜与周弘赴街购五元圣诞卡，归来抽签决定送给哪个女娃儿",
+    "summary": "夜里李敖与周弘赴街购买五元圣诞卡，卡面有两朵圣诞红、两叶、两果。归来后两人抽签玩，决定送给哪个女娃儿。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 351
+    }
+  },
+  {
+    "view": [
+      "电影线",
+      "交游线",
+      "胡适线",
+      "思想线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "周弘",
+      "战地双雄",
+      "胡适",
+      "拔尖心",
+      "首席心"
+    ],
+    "people": [
+      "李敖",
+      "周弘",
+      "胡适"
+    ],
+    "places": [
+      "台北",
+      "台大"
+    ],
+    "works": [
+      "大学后期日记甲集",
+      "战地双雄"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-20-watches-war-film-and-comments-hu-shih-ambition",
+    "date": "1958-12-20",
+    "displayDate": "1958年12月20日",
+    "datePrecision": "day",
+    "title": "李敖与周弘看《战地双雄》，并评胡适拔尖心与首席心太重",
+    "summary": "李敖与周弘看《战地双雄》。当天他又记，胡适的拔尖心与首席心太重。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 355
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "007.1958年12月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+        "line": 357,
+        "note": "李敖评胡适的拔尖心与首席心太重。"
+      }
+    ],
+    "crossReferences": [
+      "daxue-houqi-jia-1958-12-29-mou-zongsan-insults-hu-shih-and-li-ao-resolves-laugh-forget-insults"
+    ]
+  },
+  {
+    "view": [
+      "交游线",
+      "情感线",
+      "日常线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "周弘",
+      "述古",
+      "又亮",
+      "绿车",
+      "赵",
+      "谭",
+      "Rosa",
+      "小棉袄",
+      "周末奇遇"
+    ],
+    "people": [
+      "李敖",
+      "周弘",
+      "述古",
+      "又亮",
+      "赵",
+      "谭",
+      "Rosa"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "大学后期日记甲集"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-20-green-car-weekend-adventure-with-zhouhong-shugu-youliang-to-rosa",
+    "date": "1958-12-20",
+    "displayDate": "1958年12月20日",
+    "datePrecision": "day",
+    "title": "李敖夜与周弘、述古、又亮驾绿车出游，最后到 Rosa 处，称这个周末真是奇遇",
+    "summary": "夜里李敖与周弘、述古、又亮驾绿车出游，先至赵，后至谭，最后至 Rosa 处。李敖称这个周末真是奇遇，并记 Rosa 似穿着小棉袄。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 359
+    },
+    "crossReferences": [
+      "daxue-houqi-jia-1958-12-08-photo-like-rosa-and-watches-first-love-with-weng-songran",
+      "daxue-houqi-jia-1958-12-21-morning-zhou-home-and-afternoon-letter-to-rosa"
+    ]
+  },
+  {
+    "view": [
+      "交游线",
+      "情感线",
+      "通信线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "周家",
+      "Rosa",
+      "写信"
+    ],
+    "people": [
+      "李敖",
+      "周弘家人",
+      "Rosa"
+    ],
+    "places": [
+      "台北",
+      "周家"
+    ],
+    "works": [
+      "大学后期日记甲集"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-21-morning-zhou-home-and-afternoon-letter-to-rosa",
+    "date": "1958-12-21",
+    "displayDate": "1958年12月21日",
+    "datePrecision": "day",
+    "title": "李敖晨赴周家，午后写信给 Rosa",
+    "summary": "早晨李敖赴周家；午后写信给 Rosa。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 363
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "007.1958年12月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+        "line": 365,
+        "note": "午后写信给 Rosa。"
+      }
+    ],
+    "crossReferences": [
+      "daxue-houqi-jia-1958-12-20-green-car-weekend-adventure-with-zhouhong-shugu-youliang-to-rosa",
+      "daxue-houqi-jia-1958-12-22-writes-four-page-letter-to-rosa-and-cannot-forget-her"
+    ]
+  },
+  {
+    "view": [
+      "交游线",
+      "日常线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "翁",
+      "散步",
+      "吃冰"
+    ],
+    "people": [
+      "李敖",
+      "翁"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "大学后期日记甲集"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-21-weng-comes-walks-and-eats-ice",
+    "date": "1958-12-21",
+    "displayDate": "1958年12月21日",
+    "datePrecision": "day",
+    "title": "翁来访，李敖同其散步吃冰",
+    "summary": "下午翁来，李敖同他散步、吃冰。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 367
+    }
+  },
+  {
+    "view": [
+      "交游线",
+      "日常线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "施珂",
+      "庄因",
+      "油饼",
+      "照片"
+    ],
+    "people": [
+      "李敖",
+      "施珂",
+      "庄因"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "大学后期日记甲集"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-21-night-with-shi-ke-zhuang-yin-oil-cakes-and-photos",
+    "date": "1958-12-21",
+    "displayDate": "1958年12月21日",
+    "datePrecision": "day",
+    "title": "李敖夜与施珂、庄因吃油饼、看照片等",
+    "summary": "夜里李敖与施珂、庄因吃油饼、看照片等。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 369
+    }
+  },
+  {
+    "view": [
+      "通信线",
+      "校园线",
+      "学术线",
+      "交游线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "写信",
+      "通鉴课",
+      "玄老",
+      "论文",
+      "吴相湘",
+      "宿舍"
+    ],
+    "people": [
+      "李敖",
+      "玄老",
+      "吴相湘"
+    ],
+    "places": [
+      "台北",
+      "台大"
+    ],
+    "works": [
+      "大学后期日记甲集"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-22-writes-letters-all-morning-talks-thesis-and-wu-xiangxiang",
+    "date": "1958-12-22",
+    "displayDate": "1958年12月22日",
+    "datePrecision": "day",
+    "title": "李敖写了一上午信，通鉴课上与玄老小谈论文，夜在宿舍前与吴相湘小谈",
+    "summary": "12月22日，李敖写了一上午的信；通鉴课上与玄老小谈论文等事；夜里在宿舍前又与吴相湘小谈。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 373
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "007.1958年12月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+        "line": 375,
+        "note": "通鉴课上与玄老小谈论文等事。"
+      },
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "007.1958年12月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+        "line": 377,
+        "note": "夜在宿舍前与吴相湘小谈。"
+      }
+    ]
+  },
+  {
+    "view": [
+      "情感线",
+      "通信线",
+      "写作线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "Rosa",
+      "四页信",
+      "梦寐之间",
+      "周弘",
+      "死别",
+      "给Rosa"
+    ],
+    "people": [
+      "李敖",
+      "Rosa",
+      "周弘"
+    ],
+    "places": [
+      "台北",
+      "台大"
+    ],
+    "works": [
+      "大学后期日记甲集",
+      "李敖的情诗",
+      "死别"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-22-writes-four-page-letter-to-rosa-and-cannot-forget-her",
+    "date": "1958-12-22",
+    "displayDate": "1958年12月22日",
+    "datePrecision": "day",
+    "title": "李敖夜写出给 Rosa 的四页信，二日来颇念 Rosa，梦寐之间不能忘之",
+    "summary": "夜里李敖写出给 Rosa 的信四页。二日来他颇念 Rosa，每于梦寐之间不能忘之。周弘说：“好男人不找她，坏男人中只有李敖好。”这一天也对应《李敖的情诗》所保存《死别》中“给Rosa”段落的1958年12月22日署记。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 379
+    },
+    "crossReferences": [
+      "li-ao-love-poems-1958-12-22-writes-death-separation-in-taiwan",
+      "daxue-houqi-jia-1958-12-21-morning-zhou-home-and-afternoon-letter-to-rosa",
+      "daxue-houqi-jia-1958-12-23-sends-human-rights-stamp-card-and-letter-to-rosa",
+      "daxue-houqi-jia-1958-12-26-relieved-from-rosa-turmoil-self-diagnosis-ship-cabin-and-turtle-study"
+    ]
+  },
+  {
+    "view": [
+      "通信线",
+      "情感线",
+      "日常线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "Rosa",
+      "人权邮票",
+      "from our house to your house",
+      "寄信",
+      "圣诞卡"
+    ],
+    "people": [
+      "李敖",
+      "Rosa"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "大学后期日记甲集"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-23-sends-human-rights-stamp-card-and-letter-to-rosa",
+    "date": "1958-12-23",
+    "displayDate": "1958年12月23日",
+    "datePrecision": "day",
+    "title": "李敖十时半后用一套人权邮票寄“from our house to your house”卡及信给 Rosa",
+    "summary": "十时半后，李敖用一套人权邮票（共五元）寄“from our house to your house”卡及信给 Rosa。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 383
+    },
+    "crossReferences": [
+      "daxue-houqi-jia-1958-12-22-writes-four-page-letter-to-rosa-and-cannot-forget-her",
+      "daxue-houqi-jia-1958-12-26-relieved-from-rosa-turmoil-self-diagnosis-ship-cabin-and-turtle-study"
+    ]
+  },
+  {
+    "view": [
+      "校园线",
+      "日常线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "林耀福",
+      "外二",
+      "洗衣",
+      "久仰大名"
+    ],
+    "people": [
+      "李敖",
+      "林耀福"
+    ],
+    "places": [
+      "台北",
+      "台大"
+    ],
+    "works": [
+      "大学后期日记甲集"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-23-lin-yaofu-says-he-has-long-heard-li-ao-name",
+    "date": "1958-12-23",
+    "displayDate": "1958年12月23日",
+    "datePrecision": "day",
+    "title": "外二林耀福洗衣时自报久仰李敖大名",
+    "summary": "外二林耀福洗衣时，自报久仰李敖大名。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 385
+    }
+  },
+  {
+    "view": [
+      "交游线",
+      "思想线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "景家",
+      "脸色",
+      "邓南遮",
+      "新式文人"
+    ],
+    "people": [
+      "李敖",
+      "景新汉",
+      "邓南遮"
+    ],
+    "places": [
+      "台北",
+      "景家"
+    ],
+    "works": [
+      "大学后期日记甲集"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-23-three-hour-night-talk-at-jing-home-on-faces-kindness-and-modern-writer",
+    "date": "1958-12-23",
+    "displayDate": "1958年12月23日",
+    "datePrecision": "day",
+    "title": "李敖夜赴景家谈三小时，谈脸色、好坏不足喜忧与新式文人邓南遮",
+    "summary": "夜里李敖赴景家谈三小时。他记下三点：鄙夷脸色不可忍，脾气脸色尚可忍；对你好不足喜，坏不足忧；完全新式的文人如邓南遮。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 387
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "007.1958年12月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+        "line": 389,
+        "note": "谈鄙夷脸色与脾气脸色。"
+      },
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "007.1958年12月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+        "line": 393,
+        "note": "谈完全新式的文人如邓南遮。"
+      }
+    ]
+  },
+  {
+    "view": [
+      "交游线",
+      "自我形象线",
+      "日常线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "家旦",
+      "张曼",
+      "潇洒",
+      "性格",
+      "娃娃脸",
+      "持身风度"
+    ],
+    "people": [
+      "李敖",
+      "家旦",
+      "张曼"
+    ],
+    "places": [
+      "台北",
+      "台大"
+    ],
+    "works": [
+      "大学后期日记甲集"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-24-talks-with-jiadan-zhangman-and-feels-his-style-rare",
+    "date": "1958-12-24",
+    "displayDate": "1958年12月24日",
+    "datePrecision": "day",
+    "title": "李敖午前与家旦、张曼小谈，张曼称其潇洒、性格、娃娃脸，李敖自觉持身风度鲜有人及",
+    "summary": "午前李敖与家旦、张曼小谈。张曼说他潇洒、性格、娃娃脸等，李敖也感到自己的持身风度鲜有人及。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 397
+    }
+  },
+  {
+    "view": [
+      "情感线",
+      "自省线",
+      "日常线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "谭洁力",
+      "订婚",
+      "满月",
+      "教堂钟声",
+      "跳舞",
+      "有用之人"
+    ],
+    "people": [
+      "李敖",
+      "谭洁力"
+    ],
+    "places": [
+      "台北",
+      "台大"
+    ],
+    "works": [
+      "大学后期日记甲集"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-24-hears-tan-jieli-may-be-engaged-and-moonlit-self-awakening",
+    "date": "1958-12-24",
+    "displayDate": "1958年12月24日",
+    "datePrecision": "day",
+    "title": "李敖听闻谭洁力快订婚，夜里独步满月下，悟自己非此中人、当做有用之人",
+    "summary": "李敖记“谭洁力快订婚了？”同日，室中人多去跳舞，他独步满月之下，听教堂钟声，看红男绿女。多日浪游使他自觉几乎失掉自己，今夜深悟自己非此中之人，应当做一个有用之人，并反问岁月岂可如此度过。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 399
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "007.1958年12月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+        "line": 401,
+        "note": "满月下自省，深悟自己非此中之人。"
+      }
+    ],
+    "crossReferences": [
+      "daxue-houqi-jia-1958-12-25-xiaoxuan-navy-sweater-gaze-and-emotional-calm",
+      "daxue-houqi-jia-1958-12-26-relieved-from-rosa-turmoil-self-diagnosis-ship-cabin-and-turtle-study"
+    ]
+  },
+  {
+    "view": [
+      "情感线",
+      "校园线",
+      "自省线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "小玄",
+      "藏青绒衣",
+      "眼光",
+      "感情平静"
+    ],
+    "people": [
+      "李敖",
+      "小玄"
+    ],
+    "places": [
+      "台北",
+      "台大"
+    ],
+    "works": [
+      "大学后期日记甲集"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-25-xiaoxuan-navy-sweater-gaze-and-emotional-calm",
+    "date": "1958-12-25",
+    "displayDate": "1958年12月25日",
+    "datePrecision": "day",
+    "title": "李敖进教室前见穿藏青绒衣的小玄安静一瞥，并决定还是少扯感情为妙",
+    "summary": "进教室前，李敖见穿藏青绒衣的小玄的眼光，觉得那是多安静的一瞥。随后他记，自己明晚即决定还是少扯这些为妙，这半年感情的大平静是重要且必要的。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 405
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "007.1958年12月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+        "line": 407,
+        "note": "决定还是少扯这些为妙，感情的大平静重要而必要。"
+      }
+    ],
+    "crossReferences": [
+      "daxue-houqi-jia-1958-12-12-film-reflection-ways-to-free-from-feelings-and-love-not-exclusive",
+      "daxue-houqi-jia-1958-12-24-hears-tan-jieli-may-be-engaged-and-moonlit-self-awakening",
+      "daxue-houqi-jia-1958-12-26-relieved-from-rosa-turmoil-self-diagnosis-ship-cabin-and-turtle-study",
+      "daxue-houqi-jia-1958-12-31-zhou-home-dance-with-guo-zhongkang-liang-and-first-dance-with-p"
+    ]
+  },
+  {
+    "view": [
+      "日常线",
+      "写作线",
+      "交游线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "hungry",
+      "angry",
+      "庄因",
+      "傅园",
+      "王八一落千丈考",
+      "詈词"
+    ],
+    "people": [
+      "李敖",
+      "庄因"
+    ],
+    "places": [
+      "台北",
+      "傅园"
+    ],
+    "works": [
+      "大学后期日记甲集",
+      "王八一落千丈考"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-25-hungry-angry-and-plans-wangba-yiluo-qianzhang-study-with-zhuangyin",
+    "date": "1958-12-25",
+    "displayDate": "1958年12月25日",
+    "datePrecision": "day",
+    "title": "李敖因 hungry 而 angry，并与庄因在傅园小谈，思写《王八一落千丈考》",
+    "summary": "李敖记“因 hungry 而 angry”。又与庄因在傅园小谈，想到要写《王八一落千丈考》，考证“王八”在中国历史上为什么逐渐变为詈人之词。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 409
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "007.1958年12月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+        "line": 411,
+        "note": "与庄因在傅园小谈并思写《王八一落千丈考》。"
+      }
+    ],
+    "crossReferences": [
+      "daxue-houqi-jia-1958-11-15-dongwu-kelly-with-zhou-hong-tingsheng-and-turtle-painting-ideas"
+    ]
+  },
+  {
+    "view": [
+      "日常线",
+      "交游线",
+      "校园线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "方豪",
+      "李敖之先生",
+      "床上抄报",
+      "法学院"
+    ],
+    "people": [
+      "李敖",
+      "方豪"
+    ],
+    "places": [
+      "台北",
+      "台大法学院"
+    ],
+    "works": [
+      "大学后期日记甲集"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-26-fang-hao-li-ao-zhi-xiansheng-newspaper-copying-and-law-college",
+    "date": "1958-12-26",
+    "displayDate": "1958年12月26日",
+    "datePrecision": "day",
+    "title": "李敖记方豪的《李敖之先生》，决定明日起床上抄报，早上赴法学院",
+    "summary": "12月26日，李敖记“方豪的《李敖之先生》”；又记床上抄报自明日起，早上赴法学院。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 415
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "007.1958年12月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+        "line": 417,
+        "note": "床上抄报自明日起。"
+      },
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "007.1958年12月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+        "line": 419,
+        "note": "早上赴法学院。"
+      }
+    ]
+  },
+  {
+    "view": [
+      "情感线",
+      "自省线",
+      "自律线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "Rosa",
+      "解脱",
+      "自诊",
+      "船舱式",
+      "乌龟式",
+      "用功",
+      "以不变应万变"
+    ],
+    "people": [
+      "李敖",
+      "Rosa"
+    ],
+    "places": [
+      "台北",
+      "台大"
+    ],
+    "works": [
+      "大学后期日记甲集"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-26-relieved-from-rosa-turmoil-self-diagnosis-ship-cabin-and-turtle-study",
+    "date": "1958-12-26",
+    "displayDate": "1958年12月26日",
+    "datePrecision": "day",
+    "title": "李敖连日为 Rosa 事不宁，今晚始得解脱，提出“船舱式”隔绝与“乌龟式”用功",
+    "summary": "连日为 Rosa 事闹得不宁，李敖今晚始得解脱。他说自己毕竟能够自诊，对人世的看法不再趋于极端绝对，反应也不是悲观、脆弱、孩子气、矛盾横生；他要以不变应万变的作风应付人间万事，切行“船舱式”隔绝并加以“乌龟式”的用功，觉得自己又恢复原状，但比原状更积极、老练、更长大一些。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 421
+    },
+    "crossReferences": [
+      "daxue-houqi-jia-1958-12-22-writes-four-page-letter-to-rosa-and-cannot-forget-her",
+      "daxue-houqi-jia-1958-12-23-sends-human-rights-stamp-card-and-letter-to-rosa",
+      "daxue-houqi-jia-1958-12-12-film-reflection-ways-to-free-from-feelings-and-love-not-exclusive",
+      "daxue-houqi-jia-1958-12-24-hears-tan-jieli-may-be-engaged-and-moonlit-self-awakening",
+      "daxue-houqi-jia-1958-12-25-xiaoxuan-navy-sweater-gaze-and-emotional-calm",
+      "daxue-houqi-jia-1958-12-27-long-talk-with-rosa-and-night-zhenbeiping-jing-home-games",
+      "daxue-houqi-jia-1958-12-31-zhou-home-dance-with-guo-zhongkang-liang-and-first-dance-with-p",
+      "daxue-houqi-jia-1958-11-10-four-gazes-and-resolves-to-break-love-threads"
+    ]
+  },
+  {
+    "view": [
+      "思想线",
+      "自省线",
+      "自律线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "永远是轻松的",
+      "人间第一修养",
+      "男人气概",
+      "盛气凌人",
+      "自得其乐",
+      "从容不迫"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台北",
+      "台大"
+    ],
+    "works": [
+      "大学后期日记甲集"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-26-lists-ten-qualities-and-first-cultivation-always-light",
+    "date": "1958-12-26",
+    "displayDate": "1958年12月26日",
+    "datePrecision": "day",
+    "title": "李敖列出自己要永远保持的十种状态，并称“永远是轻松的”是人间第一修养",
+    "summary": "李敖说听到她们终夜跳舞事已毫无所谓，反正自己永远轻松、满不在乎、无所谓。他列出自己要永是轻松一笑了之、慷慨有男人气概、强硬跋扈、哈哈、正派、奇行、客气有礼、豪迈盛气凌人、能自得其乐、遣人幽默等十项。随后他写“永远是轻松的！”是人间第一修养，为今日之大收割，包括永不紧张、永不恐惧、永不慌张，生活也应从容不迫，不制造紧张。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 421
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "007.1958年12月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+        "line": 423,
+        "note": "李敖列出要永远保持的十种状态。"
+      },
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "007.1958年12月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+        "line": 443,
+        "note": "“永远是轻松的！”是人间第一修养。"
+      },
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "007.1958年12月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+        "line": 451,
+        "note": "生活方面以怎样轻松就怎样过。"
+      }
+    ]
+  },
+  {
+    "view": [
+      "读书线",
+      "自律线",
+      "交游线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "孙英善",
+      "日理万机",
+      "时间调度",
+      "Good Morning Miss Dove",
+      "Frances Gray Patten",
+      "琐碎时间"
+    ],
+    "people": [
+      "李敖",
+      "孙英善",
+      "Frances Gray Patten"
+    ],
+    "places": [
+      "台北",
+      "台大"
+    ],
+    "works": [
+      "大学后期日记甲集",
+      "Good Morning, Miss Dove"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-26-learns-time-scheduling-from-sun-yingshan-and-starts-good-morning-miss-dove",
+    "date": "1958-12-26",
+    "displayDate": "1958年12月26日",
+    "datePrecision": "day",
+    "title": "李敖称孙英善日理万机习惯可法，并决定用读小说争取琐碎时间，从 Good Morning, Miss Dove 开始",
+    "summary": "李敖记孙英善有日理万机的习惯，其时间调度很可效法。他又决定还是用读小说来争取琐碎时间，从 Frances Gray Patten 1954 年的 Good Morning, Miss Dove 开始。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 453
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "007.1958年12月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+        "line": 455,
+        "note": "用读小说争取琐碎时间，从 Good Morning, Miss Dove 开始。"
+      }
+    ],
+    "crossReferences": [
+      "daxue-houqi-jia-1958-12-01-third-revision-daily-schedule-and-principles",
+      "daxue-houqi-jia-1958-12-27-arranges-work-schedule-and-forget-everything-work-method",
+      "daxue-houqi-jia-1958-06-12-resumes-night-life-and-sleep-schedule"
+    ]
+  },
+  {
+    "view": [
+      "自律线",
+      "工作线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "工作时间表",
+      "九小时工作",
+      "专心",
+      "速度",
+      "调换"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台北",
+      "台大"
+    ],
+    "works": [
+      "大学后期日记甲集"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-27-arranges-work-schedule-and-forget-everything-work-method",
+    "date": "1958-12-27",
+    "displayDate": "1958年12月27日",
+    "datePrecision": "day",
+    "title": "李敖要把工作时间排表，定九小时工作并提出忘怀一切的工作三法",
+    "summary": "李敖说要把工作的时间排一个表：九至十二点三小时、二至五点三小时、七至十点三小时一定要工作。他又写“忘怀一切的工作”三法：专心、速度、调换。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 459
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "007.1958年12月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+        "line": 461,
+        "note": "九至十二、二至五、七至十共九小时一定要工作。"
+      },
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "007.1958年12月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+        "line": 463,
+        "note": "忘怀一切的工作三法。"
+      }
+    ],
+    "crossReferences": [
+      "daxue-houqi-jia-1958-12-01-third-revision-daily-schedule-and-principles",
+      "daxue-houqi-jia-1958-12-26-learns-time-scheduling-from-sun-yingshan-and-starts-good-morning-miss-dove",
+      "daxue-houqi-jia-1958-06-12-resumes-night-life-and-sleep-schedule"
+    ]
+  },
+  {
+    "view": [
+      "情感线",
+      "交游线",
+      "日常线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "Rosa",
+      "长谈",
+      "真北平",
+      "炒肉烧饼",
+      "景家",
+      "游戏"
+    ],
+    "people": [
+      "李敖",
+      "Rosa",
+      "景新汉"
+    ],
+    "places": [
+      "台北",
+      "真北平",
+      "景家"
+    ],
+    "works": [
+      "大学后期日记甲集"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-27-long-talk-with-rosa-and-night-zhenbeiping-jing-home-games",
+    "date": "1958-12-27",
+    "displayDate": "1958年12月27日",
+    "datePrecision": "day",
+    "title": "李敖三点半至四点半与 Rosa 长谈，夜赴真北平吃炒肉烧饼后转赴景家畅谈做游戏",
+    "summary": "下午三点半至四点半，李敖与 Rosa 长谈。夜里他赴真北平吃炒肉烧饼，随后转赴景家，畅谈并做游戏。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 465
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "007.1958年12月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+        "line": 467,
+        "note": "夜赴真北平后转赴景家畅谈做游戏。"
+      }
+    ],
+    "crossReferences": [
+      "daxue-houqi-jia-1958-12-26-relieved-from-rosa-turmoil-self-diagnosis-ship-cabin-and-turtle-study",
+      "daxue-houqi-jia-1958-12-31-zhou-home-dance-with-guo-zhongkang-liang-and-first-dance-with-p"
+    ]
+  },
+  {
+    "view": [
+      "交游线",
+      "日常线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "周弘",
+      "谈话",
+      "一下午"
+    ],
+    "people": [
+      "李敖",
+      "周弘"
+    ],
+    "places": [
+      "台北",
+      "台大"
+    ],
+    "works": [
+      "大学后期日记甲集"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-28-zhou-hong-talks-all-afternoon",
+    "date": "1958-12-28",
+    "displayDate": "1958年12月28日",
+    "datePrecision": "day",
+    "title": "周弘来与李敖谈了一下午",
+    "summary": "12月28日，周弘来，与李敖谈了一下午。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 471
+    }
+  },
+  {
+    "view": [
+      "电影线",
+      "交游线",
+      "日常线"
+    ],
+    "tags": [
+      "大学后期日记甲集",
+      "圣女之歌",
+      "The Story of Bernadette",
+      "女师",
+      "石缦仪"
+    ],
+    "people": [
+      "李敖",
+      "石缦仪"
+    ],
+    "places": [
+      "台北",
+      "女师"
+    ],
+    "works": [
+      "大学后期日记甲集",
+      "The Story of Bernadette",
+      "圣女之歌"
+    ],
+    "certainty": "diary",
+    "id": "daxue-houqi-jia-1958-12-28-watches-the-song-of-bernadette-at-womens-normal-and-talks-with-shi-manyi",
+    "date": "1958-12-28",
+    "displayDate": "1958年12月28日",
+    "datePrecision": "day",
+    "title": "李敖夜于女师看《圣女之歌》，入场前与石缦仪小谈",
+    "summary": "夜里李敖去女师看《圣女之歌》（The Story of Bernadette），入场前与石缦仪小谈。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 473
+    }
+  },
+  {
+    "id": "daxue-houqi-jia-1958-12-29-mou-zongsan-insults-hu-shih-and-li-ao-resolves-laugh-forget-insults",
+    "date": "1958-12-29",
+    "displayDate": "1958年12月29日",
+    "datePrecision": "day",
+    "title": "李敖由牟宗三侮辱胡适事，想到遇不得意或被凌应一笑忘怀",
+    "summary": "李敖记东海大学牟宗三故意侮辱胡适一事，使他想到：若每日遇不得意之事，或有人欺凌自己，一笑忘怀即可。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 477
+    },
+    "view": [
+      "思想线",
+      "胡适线",
+      "自省线"
+    ],
+    "tags": [
+      "牟宗三",
+      "东海大学",
+      "胡适",
+      "侮辱",
+      "一笑忘怀"
+    ],
+    "people": [
+      "李敖",
+      "牟宗三",
+      "胡适"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "大学后期日记甲集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-jia-1958-12-26-lists-ten-qualities-and-first-cultivation-always-light",
+      "daxue-houqi-jia-1958-12-20-watches-war-film-and-comments-hu-shih-ambition",
+      "daxue-houqi-jia-1958-12-17-nangang-gives-hu-shih-old-books-and-receives-shimen-wunianji",
+      "daxue-houqi-jia-1958-12-31-receives-hu-shih-new-year-card-and-shimen-wunianji-corrected-proof"
+    ]
+  },
+  {
+    "id": "daxue-houqi-jia-1958-12-30-afternoon-goes-to-p-home-with-zhou-hong-and-yaozu",
+    "date": "1958-12-30",
+    "displayDate": "1958年12月30日",
+    "datePrecision": "day",
+    "title": "李敖午后与周弘、耀祖去 P 家",
+    "summary": "午后，李敖与周弘、耀祖同去 P 家。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 481
+    },
+    "view": [
+      "日常线",
+      "交游线",
+      "情感线"
+    ],
+    "tags": [
+      "P",
+      "周弘",
+      "耀祖",
+      "P家"
+    ],
+    "people": [
+      "李敖",
+      "周弘",
+      "耀祖",
+      "P"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "大学后期日记甲集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-jia-1958-12-31-xiao-kanghua-brings-letter-inviting-p-to-magazine-and-qingchao-dance",
+      "daxue-houqi-jia-1958-12-31-zhou-home-dance-with-guo-zhongkang-liang-and-first-dance-with-p"
+    ]
+  },
+  {
+    "id": "daxue-houqi-jia-1958-12-31-xiao-kanghua-brings-letter-inviting-p-to-magazine-and-qingchao-dance",
+    "date": "1958-12-31",
+    "displayDate": "1958年12月31日",
+    "datePrecision": "day",
+    "title": "萧康华带信来，请李敖明日邀 P 参加大学杂志社与青潮文艺社舞会",
+    "summary": "中午，萧康华带信来，叫李敖明日去请 P 参加大学杂志社与青潮文艺社在宁波西街97号福州同乡堂举行的舞会。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 485
+    },
+    "view": [
+      "交游线",
+      "情感线",
+      "社团线"
+    ],
+    "tags": [
+      "萧康华",
+      "P",
+      "大学杂志社",
+      "青潮文艺社",
+      "舞会",
+      "福州同乡堂"
+    ],
+    "people": [
+      "李敖",
+      "萧康华",
+      "P"
+    ],
+    "places": [
+      "台北",
+      "宁波西街97号福州同乡堂"
+    ],
+    "works": [
+      "大学后期日记甲集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-jia-1958-12-30-afternoon-goes-to-p-home-with-zhou-hong-and-yaozu",
+      "daxue-houqi-jia-1958-12-31-zhou-home-dance-with-guo-zhongkang-liang-and-first-dance-with-p"
+    ]
+  },
+  {
+    "id": "daxue-houqi-jia-1958-12-31-buys-oranges-prizes-and-helps-zhou-hong-arrange-party",
+    "date": "1958-12-31",
+    "displayDate": "1958年12月31日",
+    "datePrecision": "day",
+    "title": "李敖下午采买橘子、奖品等，并到周家助周弘布置",
+    "summary": "下午，李敖采买橘子、奖品等物，并赴周家帮助周弘布置。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 487
+    },
+    "view": [
+      "日常线",
+      "交游线"
+    ],
+    "tags": [
+      "橘子",
+      "奖品",
+      "周家",
+      "布置",
+      "周弘"
+    ],
+    "people": [
+      "李敖",
+      "周弘"
+    ],
+    "places": [
+      "台北",
+      "周家"
+    ],
+    "works": [
+      "大学后期日记甲集"
+    ],
+    "certainty": "diary"
+  },
+  {
+    "id": "daxue-houqi-jia-1958-12-31-receives-hu-shih-new-year-card-and-shimen-wunianji-corrected-proof",
+    "date": "1958-12-31",
+    "displayDate": "1958年12月31日",
+    "datePrecision": "day",
+    "title": "李敖晚饭前收到胡适寄来的贺年卡及《师门五年记》校正本",
+    "summary": "晚饭前，李敖收到胡适寄来的贺年卡及《师门五年记》校正本；他特别记下自己尚未寄贺年卡给胡适。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 489
+    },
+    "view": [
+      "胡适线",
+      "读书线",
+      "交游线"
+    ],
+    "tags": [
+      "胡适",
+      "贺年卡",
+      "师门五年记",
+      "校正本"
+    ],
+    "people": [
+      "李敖",
+      "胡适"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "大学后期日记甲集",
+      "师门五年记"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-jia-1958-12-17-nangang-gives-hu-shih-old-books-and-receives-shimen-wunianji",
+      "li-ao-love-poems-1958-12-28-hu-shih-replies-to-birthday-poem",
+      "daxue-houqi-jia-1958-12-29-mou-zongsan-insults-hu-shih-and-li-ao-resolves-laugh-forget-insults"
+    ]
+  },
+  {
+    "id": "daxue-houqi-jia-1958-12-31-zhou-home-dance-with-guo-zhongkang-liang-and-first-dance-with-p",
+    "date": "1958-12-31",
+    "displayDate": "1958年12月31日",
+    "datePrecision": "day",
+    "title": "李敖赴周家舞会，陪郭仲康与梁小姐谈话，并生平第一次与 P 跳舞",
+    "summary": "夜七时一刻，李敖赴周家。成大土木四年级、浙江人郭仲康偕师大梁小姐先到，李敖受钧度之托陪二人谈话。舞会上，他没有理会 Y 与 Rosa，只与 P 跳了两支舞，并记这是他生平第一次跳舞。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 491
+    },
+    "view": [
+      "日常线",
+      "交游线",
+      "情感线"
+    ],
+    "tags": [
+      "周家",
+      "舞会",
+      "郭仲康",
+      "梁小姐",
+      "钧度",
+      "第一次跳舞",
+      "P",
+      "Y",
+      "Rosa"
+    ],
+    "people": [
+      "李敖",
+      "周弘",
+      "郭仲康",
+      "梁小姐",
+      "钧度",
+      "Y",
+      "Rosa",
+      "P"
+    ],
+    "places": [
+      "台北",
+      "周家"
+    ],
+    "works": [
+      "大学后期日记甲集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-jia-1958-12-30-afternoon-goes-to-p-home-with-zhou-hong-and-yaozu",
+      "daxue-houqi-jia-1958-12-27-long-talk-with-rosa-and-night-zhenbeiping-jing-home-games",
+      "daxue-houqi-jia-1958-11-11-sees-y-rosa-unmoved-and-decides-no-more-effort",
+      "daxue-houqi-jia-1958-12-25-xiaoxuan-navy-sweater-gaze-and-emotional-calm",
+      "daxue-houqi-jia-1958-10-27-dislikes-first-dance-practice-awkwardness",
+      "daxue-houqi-jia-1958-11-11-dislikes-dancing-as-shallow",
+      "daxue-houqi-jia-1958-11-16-zhang-qiaoteng-birthday-dance-and-p-appears-lovely"
+    ]
+  },
+  {
+    "id": "daxue-houqi-jia-1958-12-31-plays-chess-with-zhou-yu-and-performs-hula-hoop",
+    "date": "1958-12-31",
+    "displayDate": "1958年12月31日",
+    "datePrecision": "day",
+    "title": "李敖在周家与周渝下棋，并表演玩呼啦圈",
+    "summary": "同晚在周家，李敖又与周渝下棋，并表演玩呼啦圈。",
+    "source": {
+      "book": "大学后期日记甲集",
+      "chapter": "007.1958年12月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt",
+      "line": 491
+    },
+    "view": [
+      "日常线",
+      "交游线"
+    ],
+    "tags": [
+      "周渝",
+      "下棋",
+      "呼啦圈",
+      "表演",
+      "周家"
+    ],
+    "people": [
+      "李敖",
+      "周渝"
+    ],
+    "places": [
+      "台北",
+      "周家"
+    ],
+    "works": [
+      "大学后期日记甲集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-jia-1958-12-01-clips-hula-hoop-craze-as-sociology-example"
+    ]
   }
 ]
