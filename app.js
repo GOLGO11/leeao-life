@@ -72,7 +72,8 @@ const dataFiles = [
   "./data/timeline-events-sui-qianwan-li-ao-wangyi.json",
   "./data/timeline-events-tiaozhan-li-ao-ao-yulu.json",
   "./data/timeline-events-daxue-zhaji.json",
-  "./data/timeline-events-zaonian-riji.json"
+  "./data/timeline-events-zaonian-riji.json",
+  "./data/timeline-events-daxue-houqi-riji-jia.json"
 ];
 const supplementalDataFiles = new Set([
   "./data/timeline-events-first-book-supplement.json",
@@ -84,7 +85,7 @@ const supplementalDataFiles = new Set([
   "./data/timeline-events-fourth-book-deepening.json"
 ]);
 const processedBookCount = dataFiles.filter((file) => !supplementalDataFiles.has(file)).length;
-const dataVersion = "2026-05-05-zaonian-riji-closeout";
+const dataVersion = "2026-05-05-daxue-houqi-jia-round-9";
 
 const dateFormatter = new Intl.DateTimeFormat("zh-Hant", {
   year: "numeric",

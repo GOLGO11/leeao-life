@@ -2035,7 +2035,19 @@
       "chapter": "007.台大（1954-1959·19到24岁）",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/007.台大（1954-1959·19到24岁）.txt",
       "line": 45
-    }
+    },
+    "crossReferences": [
+      "daxue-houqi-jia-1958-06-15-criticizes-overattacking-hu-shi-and-yin-haiguang"
+    ],
+    "additionalSources": [
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "001.1958年6月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/001.1958年6月.txt",
+        "line": 253,
+        "note": "《大学后期日记甲集》原文。"
+      }
+    ]
   },
   {
     "id": "book4-1959-01-06-diary-says-can-learn-yin-quickly",

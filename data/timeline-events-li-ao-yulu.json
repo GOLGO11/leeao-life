@@ -2447,7 +2447,31 @@
         "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt",
         "line": 19,
         "note": "同日记马宏祥关于灵感与照相的说法。"
+      },
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "001.1958年6月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/001.1958年6月.txt",
+        "line": 101,
+        "note": "《大学后期日记甲集》原文记与陈彦增谈恋爱之事。"
+      },
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "001.1958年6月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/001.1958年6月.txt",
+        "line": 103,
+        "note": "原文记也许只有纸上的罗曼斯才有意义。"
+      },
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "001.1958年6月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/001.1958年6月.txt",
+        "line": 105,
+        "note": "原文记马宏祥关于女人、照相和灵感的比喻。"
       }
+    ],
+    "crossReferences": [
+      "daxue-houqi-jia-1958-06-11-talks-with-yanzeng-paper-romance"
     ]
   },
   {
@@ -2487,7 +2511,19 @@
       "chapter": "031.纸上罗曼斯",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt",
       "line": 23
-    }
+    },
+    "crossReferences": [
+      "daxue-houqi-jia-1958-06-13-l-no-longer-shakes-him"
+    ],
+    "additionalSources": [
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "001.1958年6月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/001.1958年6月.txt",
+        "line": 195,
+        "note": "《大学后期日记甲集》原文。"
+      }
+    ]
   },
   {
     "id": "li-ao-yulu-1958-06-15-diary-aesthetic-life-harvest",
@@ -2521,14 +2557,24 @@
     ],
     "certainty": "reported-by-author",
     "crossReferences": [
-      "book4-1958-06-15-diary-says-yin-haiguang-limited"
+      "book4-1958-06-15-diary-says-yin-haiguang-limited",
+      "daxue-houqi-jia-1958-06-15-aesthetic-life-harvest"
     ],
     "source": {
       "book": "李敖语录",
       "chapter": "031.纸上罗曼斯",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt",
       "line": 27
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "001.1958年6月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/001.1958年6月.txt",
+        "line": 277,
+        "note": "《大学后期日记甲集》原文。"
+      }
+    ]
   },
   {
     "id": "li-ao-yulu-1958-06-16-diary-mimi-movie-music-date",
@@ -2568,7 +2614,19 @@
       "chapter": "031.纸上罗曼斯",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt",
       "line": 31
-    }
+    },
+    "crossReferences": [
+      "daxue-houqi-jia-1958-06-16-mimi-movie-daxin-music-and-love-expense"
+    ],
+    "additionalSources": [
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "001.1958年6月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/001.1958年6月.txt",
+        "line": 289,
+        "note": "《大学后期日记甲集》原文。"
+      }
+    ]
   },
   {
     "id": "li-ao-yulu-1958-06-17-diary-light-love-and-disillusion",
@@ -2614,7 +2672,24 @@
         "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt",
         "line": 39,
         "note": "同日继续反省过去高估女性与恋爱对象。"
+      },
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "001.1958年6月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/001.1958年6月.txt",
+        "line": 325,
+        "note": "《大学后期日记甲集》原文记淡淡地爱与不被女人磨折。"
+      },
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "001.1958年6月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/001.1958年6月.txt",
+        "line": 329,
+        "note": "原文续记看轻旧日迷恋。"
       }
+    ],
+    "crossReferences": [
+      "daxue-houqi-jia-1958-06-17-light-love-and-disillusion"
     ]
   },
   {
@@ -2661,7 +2736,24 @@
         "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt",
         "line": 47,
         "note": "同日自我约束“不言人过”。"
+      },
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "001.1958年6月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/001.1958年6月.txt",
+        "line": 739,
+        "note": "《大学后期日记甲集》原文记笑脸要像拔枪一样快。"
+      },
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "001.1958年6月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/001.1958年6月.txt",
+        "line": 741,
+        "note": "原文记“不说女孩子缺点！不言人过。”"
       }
+    ],
+    "crossReferences": [
+      "daxue-houqi-jia-1958-06-26-smile-fast-and-not-speaking-ill"
     ]
   },
   {
@@ -2700,7 +2792,26 @@
       "chapter": "031.纸上罗曼斯",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt",
       "line": 51
-    }
+    },
+    "crossReferences": [
+      "daxue-houqi-jia-1958-07-09-prefers-love-letters-and-upward-life"
+    ],
+    "additionalSources": [
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "002.1958年7月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/002.1958年7月.txt",
+        "line": 173,
+        "note": "《大学后期日记甲集》原文。"
+      },
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "002.1958年7月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/002.1958年7月.txt",
+        "line": 175,
+        "note": "同日续记永远向上爬、做成熟完全的人。"
+      }
+    ]
   },
   {
     "id": "li-ao-yulu-1958-07-10-diary-refuses-lowly-romance",
@@ -2734,14 +2845,24 @@
     ],
     "certainty": "reported-by-author",
     "crossReferences": [
-      "book3-1958-07-10-meng-celebrates-certificate"
+      "book3-1958-07-10-meng-celebrates-certificate",
+      "daxue-houqi-jia-1958-07-10-refuses-lowly-romance-at-womens-dorm"
     ],
     "source": {
       "book": "李敖语录",
       "chapter": "031.纸上罗曼斯",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt",
       "line": 55
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "002.1958年7月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/002.1958年7月.txt",
+        "line": 183,
+        "note": "《大学后期日记甲集》原文。"
+      }
+    ]
   },
   {
     "id": "li-ao-yulu-1958-07-22-diary-no-more-love-pain",
@@ -2779,7 +2900,26 @@
       "chapter": "031.纸上罗曼斯",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt",
       "line": 67
-    }
+    },
+    "crossReferences": [
+      "daxue-houqi-jia-1958-07-22-talks-with-ma-ge-no-more-love-pain"
+    ],
+    "additionalSources": [
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "002.1958年7月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/002.1958年7月.txt",
+        "line": 325,
+        "note": "《大学后期日记甲集》原文记夜与马戈谈。"
+      },
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "002.1958年7月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/002.1958年7月.txt",
+        "line": 335,
+        "note": "原文记“为爱情而痛苦，我是再也不会了。”"
+      }
+    ]
   },
   {
     "id": "li-ao-yulu-1958-07-26-diary-self-discipline",
@@ -2818,7 +2958,33 @@
       "chapter": "031.纸上罗曼斯",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt",
       "line": 77
-    }
+    },
+    "crossReferences": [
+      "daxue-houqi-jia-1958-07-26-treats-mimi-as-good-friend-and-cuts-love-socializing-self-discipline"
+    ],
+    "additionalSources": [
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "002.1958年7月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/002.1958年7月.txt",
+        "line": 403,
+        "note": "《大学后期日记甲集》原文语境：李敖说迫切要读的书太多。"
+      },
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "002.1958年7月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/002.1958年7月.txt",
+        "line": 409,
+        "note": "原文把“自律”列入要点。"
+      },
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "002.1958年7月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/002.1958年7月.txt",
+        "line": 411,
+        "note": "原文续记面面光不可能，须砍断许多以成全专一时力。"
+      }
+    ]
   },
   {
     "id": "li-ao-yulu-1958-08-28-diary-men-women-delay",

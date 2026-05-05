@@ -54,6 +54,7 @@ const dataFiles = [
   "data/timeline-events-tiaozhan-li-ao-ao-yulu.json",
   "data/timeline-events-daxue-zhaji.json",
   "data/timeline-events-zaonian-riji.json",
+  "data/timeline-events-daxue-houqi-riji-jia.json",
 ];
 
 const outputDir = path.join(root, "exports");

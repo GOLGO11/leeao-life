@@ -475,7 +475,26 @@
       "chapter": "021.张天师可以歇歇了！",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/021.张天师可以歇歇了！.txt",
       "line": 81
-    }
+    },
+    "crossReferences": [
+      "daxue-houqi-jia-1958-06-20-zhang-tianshi-diary-seed-for-essay"
+    ],
+    "additionalSources": [
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "001.1958年6月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/001.1958年6月.txt",
+        "line": 427,
+        "note": "李敖后按说明这段1958年6月20日日记是五年后写《张天师可以歇歇了！》的张本。"
+      },
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "001.1958年6月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/001.1958年6月.txt",
+        "line": 507,
+        "note": "《大学后期日记甲集》附文署1963年6月18日。"
+      }
+    ]
   },
   {
     "id": "traditional-monologue-1963-07-01-zhang-tianshi-can-rest-published-in-wenxing",
@@ -509,7 +528,8 @@
     ],
     "certainty": "confirmed",
     "crossReferences": [
-      "traditional-monologue-1963-06-18-zhang-tianshi-can-rest-written"
+      "traditional-monologue-1963-06-18-zhang-tianshi-can-rest-written",
+      "daxue-houqi-jia-1958-06-20-zhang-tianshi-diary-seed-for-essay"
     ],
     "source": {
       "book": "传统下的独白",

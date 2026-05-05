@@ -344,7 +344,26 @@
       "chapter": "051.李敖著作年表",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/051.李敖著作年表.txt",
       "line": 51
-    }
+    },
+    "crossReferences": [
+      "daxue-houqi-jia-1958-06-08-starts-new-diary-and-new-life"
+    ],
+    "additionalSources": [
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "001.1958年6月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/001.1958年6月.txt",
+        "line": 5,
+        "note": "《大学后期日记甲集》原文开端，李敖称这是“新日子、新生涯”。"
+      },
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "《大学后期日记甲集》前记",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/《大学后期日记甲集》前记.txt",
+        "line": 3,
+        "note": "前记说明本集时间为1958年下半年。"
+      }
+    ]
   },
   {
     "id": "qianqiu-wansui-1958-07-19-051-publishes-liang-qichao-and-xu-zhimo",
@@ -384,7 +403,43 @@
       "chapter": "051.李敖著作年表",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/051.李敖著作年表.txt",
       "line": 51
-    }
+    },
+    "crossReferences": [
+      "daxue-houqi-jia-1958-07-01-plans-three-xu-zhimo-essays",
+      "daxue-houqi-jia-1958-07-05-nangang-xu-zhimo-materials-and-hu-shi-residence",
+      "daxue-houqi-jia-1958-07-11-sends-liang-qichao-and-xu-zhimo",
+      "daxue-houqi-jia-1958-07-19-central-daily-publishes-liang-qichao-and-xu-zhimo"
+    ],
+    "additionalSources": [
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "002.1958年7月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/002.1958年7月.txt",
+        "line": 31,
+        "note": "7月1日原文记李敖决定写三篇有关徐志摩的文章，其中包括《梁启超与徐志摩》。"
+      },
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "002.1958年7月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/002.1958年7月.txt",
+        "line": 91,
+        "note": "7月5日原文记李敖赴南港搜集徐志摩材料。"
+      },
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "002.1958年7月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/002.1958年7月.txt",
+        "line": 197,
+        "note": "7月11日原文记李敖发出《梁启超与徐志摩》。"
+      },
+      {
+        "book": "大学后期日记甲集",
+        "chapter": "002.1958年7月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/002.1958年7月.txt",
+        "line": 285,
+        "note": "7月19日原文记当天《中央日报》登出《梁启超与徐志摩》。"
+      }
+    ]
   },
   {
     "id": "qianqiu-wansui-1959-08-02-051-finishes-university-late-diary",
