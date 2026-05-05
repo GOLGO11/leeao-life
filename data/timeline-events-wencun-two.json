@@ -723,7 +723,81 @@
       "chapter": "012.牛肉面老板的七封信",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/005.李敖文存二集/012.牛肉面老板的七封信.txt",
       "line": 33
-    }
+    },
+    "crossReferences": [
+      "zaonian-riji-1966-08-15-tv-yu-guangzhong-russell-johnson-beef-noodle-plan-and-guling-lease",
+      "zaonian-riji-1966-08-30-central-daily-ad-negotiation-shang-zhong-cao-shengfen",
+      "zaonian-riji-1966-08-30-united-credit-news-minzu-zili-ad-resistance-and-bo-yang-no-livelihood",
+      "zaonian-riji-1966-09-01-central-united-credit-news-ads-published-and-united-renewal-correction",
+      "zaonian-riji-1966-09-01-credit-news-refuses-renewal-by-position-excuse-and-afternoon-wang-family",
+      "zaonian-riji-1966-10-04-wu-liangyan-brings-tianwentai-beef-noodle-article-and-reserves-books",
+      "zaonian-riji-1966-10-06-zhonghe-factory-run-ten-books-settled"
+    ],
+    "additionalSources": [
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 645,
+        "note": "1966年8月15日原记李敖已与张平谈卖牛肉面计划。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 705,
+        "note": "1966年8月30日原记《中央日报》经商钟斡旋后同意照登广告。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 707,
+        "note": "1966年8月30日原记李敖到《联合报》加登广告遇阻，9月1日广告因已收款而照登。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 709,
+        "note": "1966年8月30日原记《征信新闻》方面拒绝加登，经张平峻拒退稿后答应至少9月1日照登。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 711,
+        "note": "1966年8月30日原记《民族晚报》《自立晚报》照登，柏杨在《自立晚报》社说“这个岛上没有你的活路”。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 715,
+        "note": "1966年9月1日原记《中央日报》《联合报》《征信新闻》均已登出广告，李敖再赴《联合报》商续登及更正。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 717,
+        "note": "1966年9月1日原记《征信新闻》以不能保证有位置为由推辞续登。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 829,
+        "note": "1966年10月4日原记吴亮言带来《天文台》中论李敖卖面文字，并留下二百元预约书。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 823,
+        "note": "1966年10月6日原记李敖跑工厂，总算十本书有着落。"
+      }
+    ]
   },
   {
     "id": "wencun-two-1966-09-01-to-09-08-central-daily-ran-first-three-ads",
@@ -760,7 +834,9 @@
     "certainty": "confirmed",
     "crossReferences": [
       "wencun-two-1966-10-05-certified-letter-to-central-daily",
-      "wencun-two-1966-09-01-advertised-in-six-taipei-newspapers"
+      "wencun-two-1966-09-01-advertised-in-six-taipei-newspapers",
+      "zaonian-riji-1966-08-30-central-daily-ad-negotiation-shang-zhong-cao-shengfen",
+      "zaonian-riji-1966-09-05-central-daily-first-page-ad-negotiation-and-hu-qiuyuan-complaint"
     ],
     "source": {
       "book": "李敖文存二集",
@@ -775,6 +851,20 @@
         "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/005.李敖文存二集/010.一封存证信的故事.txt",
         "line": 9,
         "note": "列出原定刊期"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 705,
+        "note": "1966年8月30日原记《中央日报》方面同意9月1日广告照登，且未删“卖牛肉面”等话。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 733,
+        "note": "1966年9月5日原记李敖向《中央日报》交涉，获准广告登第一版一次并续登两次。"
       }
     ]
   },
@@ -902,7 +992,27 @@
       "chapter": "012.牛肉面老板的七封信",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/005.李敖文存二集/012.牛肉面老板的七封信.txt",
       "line": 37
-    }
+    },
+    "crossReferences": [
+      "zaonian-riji-1966-08-15-tv-yu-guangzhong-russell-johnson-beef-noodle-plan-and-guling-lease",
+      "zaonian-riji-1966-10-03-h-zengzhi-visit-yu-guangzhong-translated-titles-peng-reschedules"
+    ],
+    "additionalSources": [
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 641,
+        "note": "1966年8月15日原记李敖夜看电视访问余光中，同日已与张平谈卖牛肉面计划。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 815,
+        "note": "1966年10月3日原记余光中交下英译书名，可作为9月3日请余光中赞助卖牛肉面后续。"
+      }
+    ]
   },
   {
     "id": "wencun-two-1979-09-04-beef-noodle-afterword",

@@ -175,7 +175,35 @@
       "chapter": "012.记文星事件",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/012.记文星事件.txt",
       "line": 13
-    }
+    },
+    "crossReferences": [
+      "zaonian-riji-1966-07-27-seals-door-with-wenxing-and-watches-thief-of-bagadad",
+      "zaonian-riji-1966-08-02-handles-handover-with-xiao-mengneng-and-moves-out-21-23",
+      "zaonian-riji-1966-08-24-kaohsiung-wenxing-dayong-branch-sealed-after-sixty-days"
+    ],
+    "additionalSources": [
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 619,
+        "note": "1966年7月27日原记李敖正式与文星“封门”，称双方盖起“柏林围墙”。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 625,
+        "note": "1966年8月2日原记李敖与萧孟能办移交，正式迁出二十一至二十三号。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 687,
+        "note": "1966年8月24日原记萧孟能告知高雄文星书店分店大勇书店正式被封门，只开六十天。"
+      }
+    ]
   },
   {
     "id": "book2-broad-1968-03-04-wenxing-bookstore-announces-closing",

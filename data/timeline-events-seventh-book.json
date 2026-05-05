@@ -641,14 +641,143 @@
     ],
     "certainty": "confirmed",
     "crossReferences": [
-      "1965-11-05-ten-books-seized"
+      "1965-11-05-ten-books-seized",
+      "zaonian-riji-1966-11-09-yajiang-factory-supervision-and-searches-new-factory",
+      "zaonian-riji-1966-11-09-new-factory-cart-moves-also-love-letters-and-dont-shout",
+      "zaonian-riji-1966-11-09-lou-zhenyue-plainclothes-ban-wuya-sun-wukong",
+      "zaonian-riji-1966-11-09-zheng-wenjie-huang-police-cars-seize-books-covers-posters",
+      "zaonian-riji-1966-11-09-taken-to-second-precinct-questioned-until-after-midnight",
+      "zaonian-riji-1966-11-09-second-precinct-talk-notes-id-order-transcript-politeness",
+      "zaonian-riji-1966-11-10-yajiang-factory-under-plainclothes-surveillance",
+      "zaonian-riji-1966-11-10-pingjing-leaves-factory-under-three-plainclothes-eyes",
+      "zaonian-riji-1966-11-10-pingjing-li-ao-meet-near-guocui-drive-to-fujen-and-visit-friends",
+      "zaonian-riji-1966-11-10-li-guojin-zeng-contact-li-ao-and-police-move-into-bindery",
+      "zaonian-riji-1966-11-11-zheng-orders-four-books-bound-with-flaps-and-back-covers-blacked",
+      "zaonian-riji-1966-11-11-meierlian-dinner-movie-and-joke-about-dushuren",
+      "zaonian-riji-1966-11-13-cover-cutting-factory-visits-and-police-ask-fast-binding",
+      "zaonian-riji-1966-11-13-visits-tianmu-shilin-for-li-guojin-but-he-has-moved",
+      "zaonian-riji-1966-11-14-garrison-demands-zhix-deletion-li-guojin-denies",
+      "zaonian-riji-1966-11-14-meierlian-talk-with-li-guojin-and-bindery-police-details",
+      "zaonian-riji-1966-11-15-fuyuan-letter-police-refuse-release-lou-issues-permit",
+      "zaonian-riji-1966-11-15-jincheng-lunch-movie-bindery-mother-car-breakdown-yulon-letter",
+      "zaonian-riji-1966-11-16-factory-meets-zhang-wei-shou-and-baojing-wu-packs",
+      "zaonian-riji-1966-11-16-takes-four-books-four-copies-and-gives-receipt",
+      "zaonian-riji-1966-11-17-police-shift-responsibility-xiaozuo-gets-books-at-dusk",
+      "zaonian-riji-1966-11-18-li-guojin-phone-and-refuses-illegal-letter-to-garrison"
     ],
     "source": {
       "book": "李敖风流自传",
       "chapter": "367.《李敖告别文坛十书》",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/367.《李敖告别文坛十书》.txt",
       "line": 3
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 905,
+        "note": "陈平景手记补明11月9日上午李敖到雅江街35号装订厂监工，《乌鸦又叫了》毛坯约千册，《孙悟空和我》正在装订。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 911,
+        "note": "陈平景手记补明二分局娄振岳率便衣到厂，称奉上级命查禁《乌鸦又叫了》《孙悟空和我》。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 915,
+        "note": "陈平景手记补明郑文杰、市警局黄某到场，红色警车拉走《孙悟空和我》《乌鸦又叫了》及封面、海报等书料。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 919,
+        "note": "陈平景手记补明李敖与陈平景被带到二分局，娄振岳讯至深夜，12时20分离开。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 929,
+        "note": "陈平景手记补明二分局谈话中李敖要求出示警总命令、取得笔录、证明态度无不礼貌，并使“讯问”改为“谈话”。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 935,
+        "note": "陈平景手记补明11月10日再赴雅江街35号，厂方与便衣监视紧张，不准带走任何东西。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 939,
+        "note": "陈平景手记补明11月10日李敖与陈平景会合后到辅仁透气并辗转访友。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 947,
+        "note": "陈平景手记补明11月10日晚李国瑾、曾先生与李敖初步接触，且此夜起警方派人住入装订厂。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 953,
+        "note": "陈平景手记补明11月11日郑文杰命厂方装订四书，但蝴蝶页、封底字须涂掉，出厂须送警检查。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 973,
+        "note": "1966年11月13日原记补明李敖为割除封面与小左大访工厂，驻厂警察拜托快装订。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 983,
+        "note": "1966年11月14日原记补明李敖与李中校在博爱路美而廉谈后，赴装订厂与两名警察谈细节。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 995,
+        "note": "1966年11月15日原记补明驻厂警察仍不肯放行，李敖再会郑文杰、娄振岳并取得准发书信。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 1009,
+        "note": "1966年11月16日原记补明李敖在工厂晤警员张伟、寿先生，保警吴君帮忙打包。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 1011,
+        "note": "1966年11月16日原记补明李敖取四书各四册，并应张伟要求付收据。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 1021,
+        "note": "1966年11月17日原记补明警员互推责任，李敖留据先行，小左傍晚始取到书。"
+      }
+    ]
   },
   {
     "id": "book7-1991-visits-last-kaiming-bookstore-in-taipei",
@@ -2496,7 +2625,16 @@
       "chapter": "339.吴申叔的最后晚餐",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/339.吴申叔的最后晚餐.txt",
       "line": 3
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 207,
+        "note": "《二十年前的一些断片》4月9日条补明吴申叔、王莫愁下帖请客，席间有熊式一、林文奎、丁墨南、李湘芬、张继高、萧孟能等。"
+      }
+    ]
   },
   {
     "id": "book7-1967-05-12-jokes-with-yin-haiguang-about-water-fertilizer-department",

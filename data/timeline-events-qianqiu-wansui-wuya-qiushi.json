@@ -894,7 +894,8 @@
     "certainty": "confirmed",
     "crossReferences": [
       "book5-1965-writes-sun-yatsen-western-medicine",
-      "1966-books-banned"
+      "1966-books-banned",
+      "zaonian-riji-1966-05-04-promises-send-sun-yatsen-western-medicine-to-sun-ke"
     ],
     "source": {
       "book": "千秋万岁乌鸦求是合集",
@@ -909,6 +910,13 @@
         "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/024.批判国民党.txt",
         "line": 189,
         "note": "李敖回顾其批判孙中山主线，称从1965年推出《孙逸仙和中国西化医学》到1987年出版《孙中山研究》，主线都是求真。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 415,
+        "note": "《二十年前的一些断片》5月4日原记补明孙科托人求购《孙逸仙和中国西化医学》，李敖告知已被查禁并答应赠书。"
       }
     ]
   },
@@ -1063,14 +1071,143 @@
     "certainty": "confirmed",
     "crossReferences": [
       "book7-1966-11-09-books-seized-at-yajiang-binding-factory",
-      "1965-11-05-ten-books-seized"
+      "1965-11-05-ten-books-seized",
+      "zaonian-riji-1966-11-04-writes-xu-daoning-about-ten-books-qinghua-and-water-buffalo-press",
+      "zaonian-riji-1966-11-08-books-start-mailing-tiesheng-shaotang-factory-sorting-and-h",
+      "zaonian-riji-1966-11-09-yajiang-factory-supervision-and-searches-new-factory",
+      "zaonian-riji-1966-11-09-new-factory-cart-moves-also-love-letters-and-dont-shout",
+      "zaonian-riji-1966-11-09-lou-zhenyue-plainclothes-ban-wuya-sun-wukong",
+      "zaonian-riji-1966-11-09-zheng-wenjie-huang-police-cars-seize-books-covers-posters",
+      "zaonian-riji-1966-11-09-taken-to-second-precinct-questioned-until-after-midnight",
+      "zaonian-riji-1966-11-09-second-precinct-talk-notes-id-order-transcript-politeness",
+      "zaonian-riji-1966-11-10-yajiang-factory-under-plainclothes-surveillance",
+      "zaonian-riji-1966-11-10-pingjing-leaves-factory-under-three-plainclothes-eyes",
+      "zaonian-riji-1966-11-10-pingjing-li-ao-meet-near-guocui-drive-to-fujen-and-visit-friends",
+      "zaonian-riji-1966-11-10-li-guojin-zeng-contact-li-ao-and-police-move-into-bindery",
+      "zaonian-riji-1966-11-11-zheng-orders-four-books-bound-with-flaps-and-back-covers-blacked",
+      "zaonian-riji-1966-11-11-meierlian-dinner-movie-and-joke-about-dushuren",
+      "zaonian-riji-1966-11-13-cover-cutting-factory-visits-and-police-ask-fast-binding",
+      "zaonian-riji-1966-11-14-garrison-demands-zhix-deletion-li-guojin-denies",
+      "zaonian-riji-1966-11-14-many-reader-letters-and-third-letter-to-readers",
+      "zaonian-riji-1966-11-15-fuyuan-letter-police-refuse-release-lou-issues-permit",
+      "zaonian-riji-1966-11-16-factory-meets-zhang-wei-shou-and-baojing-wu-packs",
+      "zaonian-riji-1966-11-16-takes-four-books-four-copies-and-gives-receipt",
+      "zaonian-riji-1966-11-17-police-shift-responsibility-xiaozuo-gets-books-at-dusk",
+      "zaonian-riji-1966-11-18-packs-books-until-one-with-pingjing-zhangping-and-rebukes-zhangping"
     ],
     "source": {
       "book": "千秋万岁乌鸦求是合集",
       "chapter": "051.李敖著作年表",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/051.李敖著作年表.txt",
       "line": 67
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 871,
+        "note": "1966年11月4日李敖致徐道宁信称《告别文坛十书》因印刷过程中发生“微妙情况”，至今还不能出书，大概还得拖几天。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 889,
+        "note": "1966年11月8日原记傍晚起书开始寄出，李敖在厂中分书至十一时后。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 905,
+        "note": "陈平景手记补明11月9日装订进度：《乌鸦又叫了》毛坯约千册，《孙悟空和我》正在装订。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 907,
+        "note": "陈平景手记补明另洽新厂并运《也有情书》《不要叫吧》已叠部分。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 911,
+        "note": "陈平景手记补明二分局称奉上级命查禁《乌鸦又叫了》《孙悟空和我》。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 915,
+        "note": "陈平景手记补明警方拉走《孙悟空和我》《乌鸦又叫了》及封面、海报等书料。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 935,
+        "note": "陈平景手记补明11月10日装订厂仍在做《不要叫吧》三百册，现场受便衣监视。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 953,
+        "note": "陈平景手记补明11月11日《大学后期日记甲、乙集》《妈离不了你》《传统下的再白》四书可装订，但蝴蝶页、封底字须涂掉且出厂送警检查。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 973,
+        "note": "1966年11月13日原记补明李敖为割除封面事大访工厂，并在装订厂受驻厂警察催促快装订。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 981,
+        "note": "1966年11月14日原记补明装订厂称警总来人要求“之×”字样也得删去，李中校稍后否认。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 995,
+        "note": "1966年11月15日原记补明李敖取得准发书信，娄振岳确认“之×”不要涂改。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 1009,
+        "note": "1966年11月16日原记补明工厂现场在警员看守下继续打包。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 1011,
+        "note": "1966年11月16日原记补明李敖取四书各四册。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 1021,
+        "note": "1966年11月17日原记补明小左傍晚始取到书。"
+      },
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 1033,
+        "note": "1966年11月18日原记补明李敖夜里与陈平景、张平包书至1时。"
+      }
+    ]
   },
   {
     "id": "qianqiu-wansui-1966-context-011-conceives-monthly-book-strategy-after-wenxing-ban",

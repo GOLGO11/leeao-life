@@ -1312,7 +1312,19 @@
       "chapter": "003.我最难忘的一位老师",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/003.我最难忘的一位老师.txt",
       "line": 242
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 1039,
+        "note": "1966年11月18日原记补明《中央》登出《中华杂志》广告，李敖记被诬为“共产党”。"
+      }
+    ],
+    "crossReferences": [
+      "zaonian-riji-1966-11-18-central-daily-runs-zhonghua-magazine-ad-accusing-communist"
+    ]
   },
   {
     "id": "1967-04-08-prosecuted-obstruction",

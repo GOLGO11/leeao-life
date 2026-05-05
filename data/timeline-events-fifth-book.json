@@ -3681,7 +3681,19 @@
       "chapter": "014.寒武纪",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/014.寒武纪.txt",
       "line": 9
-    }
+    },
+    "crossReferences": [
+      "zaonian-riji-1966-04-16-mengneng-talks-letters-and-tang-yuanji-consolation"
+    ],
+    "additionalSources": [
+      {
+        "book": "早年日记",
+        "chapter": "004.二十年前的一些断片",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
+        "line": 255,
+        "note": "《二十年前的一些断片》4月16日原记补明李敖午后由伟康约参观国联，并介绍李翰祥。"
+      }
+    ]
   },
   {
     "id": "book5-1966-05-17-lectures-li-hanxiang-star-class",
