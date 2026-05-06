@@ -45,10 +45,34 @@
         "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/002.毕业以后，从军以前.txt",
         "line": 5,
         "note": "《毕业以后，从军以前》整理说明补明1959年9月7日以后，李敖到凤山接受第八期预官训练，并开始《一个预备军官的日记》。"
+      },
+      {
+        "book": "一个预备军官的日记",
+        "chapter": "007.《一个预备军官的日记》引言",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/007.《一个预备军官的日记》引言.txt",
+        "line": 3,
+        "note": "李敖在本书引言中回述1959年9月7日到凤山陆军步兵学校受训。"
+      },
+      {
+        "book": "一个预备军官的日记",
+        "chapter": "008.横槊集·1959年9月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/008.横槊集·1959年9月.txt",
+        "line": 3,
+        "note": "《横槊集》题注作1959年9月7日至10月9日。"
+      },
+      {
+        "book": "一个预备军官的日记",
+        "chapter": "008.横槊集·1959年9月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/008.横槊集·1959年9月.txt",
+        "line": 31,
+        "note": "1959年9月7日晚抵凤山后领衣、削发并入营。"
       }
     ],
     "crossReferences": [
-      "zaonian-riji-1984-01-27-prefaces-after-graduation-before-service"
+      "zaonian-riji-1984-01-27-prefaces-after-graduation-before-service",
+      "preofficer-diary-1982-04-19-writes-introduction-and-decides-to-publish-complete-diary",
+      "preofficer-diary-1959-09-07-starts-hengshuo-at-houbi-and-travels-south",
+      "preofficer-diary-1959-09-07-arrives-fengshan-receives-uniform-haircut-and-sleepless-first-night"
     ]
   },
   {
@@ -90,7 +114,26 @@
       "chapter": "008.军队（1959-1961·24到26岁）",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/008.军队（1959-1961·24到26岁）.txt",
       "line": 5
-    }
+    },
+    "crossReferences": [
+      "preofficer-diary-1959-09-07-starts-hengshuo-at-houbi-and-travels-south"
+    ],
+    "additionalSources": [
+      {
+        "book": "一个预备军官的日记",
+        "chapter": "008.横槊集·1959年9月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/008.横槊集·1959年9月.txt",
+        "line": 9,
+        "note": "李敖在9月7日日记中列出世民、光锦、姚、述、昭、仁龙送行，光锦送原子笔。"
+      },
+      {
+        "book": "一个预备军官的日记",
+        "chapter": "008.横槊集·1959年9月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/008.横槊集·1959年9月.txt",
+        "line": 11,
+        "note": "9时50分自彰化搭火车南下。"
+      }
+    ]
   },
   {
     "id": "book4-1960-03-03-leaves-infantry-school-for-unit",

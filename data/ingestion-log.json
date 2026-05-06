@@ -12339,5 +12339,86 @@
       "duplicatePolicy": "本轮只补回链与来源，不新增事件；同义节点继续归档到crossReferences/additionalSources。"
     },
     "nextRecommendation": "下一轮建议先核沉思日记类目录，确认《大学后期日记乙集》后的下一本书名和边界，再开下一本第一轮；开轮前先做旧库同书名/同日期查重，尤其日记续接处不要把《早年日记》已处理内容重复入库。"
+  },
+  {
+    "iteration": 351,
+    "date": "2026-05-06",
+    "book": "一个预备军官的日记",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记",
+    "scope": [
+      "001-006：他人序言中的成书/第三方见证",
+      "007：《一个预备军官的日记》引言",
+      "008.横槊集·1959年9月：1959年9月7日至9月17日"
+    ],
+    "strategy": "《一个预备军官的日记》第一轮：先处理各序言与李敖引言中的成书、出版和第三方见证，再进入1959年9月入营开端；对已有旧节点的9月7预官训练开始/送行、9月17给马戈信、9月23《凤山杂诗》只补原书来源与crossReferences，不重复制造总节点；新增入营日常、训练、写作、书信、诗作、同队评价与中秋晚会等细节。",
+    "filesRead": [
+      "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/001.虽非冤家，却也路窄（潘毓刚）.txt",
+      "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/002.真实的历史·素朴的记录（杨尔琳）.txt",
+      "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/003.可爱的家伙（刘耀祖）.txt",
+      "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/004.写序，不能也不会（施珂）.txt",
+      "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/005.谈吐正如同他所写的东西（陈瑞洲）.txt",
+      "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/006.《预官日记》序（陶英惠）.txt",
+      "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/007.《一个预备军官的日记》引言.txt",
+      "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/008.横槊集·1959年9月.txt"
+    ],
+    "eventsAdded": 27,
+    "eventIds": [
+      "preofficer-diary-1982-04-19-writes-introduction-and-decides-to-publish-complete-diary",
+      "preofficer-diary-1988-01-15-pan-yugang-writes-preface-on-twa-flight-and-recalls-training-with-li",
+      "preofficer-diary-1989-05-09-yang-erlin-writes-preface-after-li-calls-about-preofficer-diary-publication",
+      "preofficer-diary-1989-05-20-liu-yaozu-writes-preface-and-recalls-li-ao-discussion-jokes-and-will",
+      "preofficer-diary-1992-01-23-li-calls-chen-ruizhou-after-thirty-two-years",
+      "preofficer-diary-1992-02-20-chen-ruizhou-writes-preface-about-li-daily-diary-writing-at-buschool",
+      "preofficer-diary-1992-05-27-tao-yinghui-writes-preface-about-li-ao-in-ninth-company",
+      "preofficer-diary-1959-09-07-starts-hengshuo-at-houbi-and-travels-south",
+      "preofficer-diary-1959-09-07-writes-first-two-fengshan-poems-on-way-to-camp",
+      "preofficer-diary-1959-09-07-arrives-fengshan-receives-uniform-haircut-and-sleepless-first-night",
+      "preofficer-diary-1959-09-08-organizes-inner-order-writes-thirteen-postcards-and-letter",
+      "preofficer-diary-1959-09-09-cleaning-leader-breakfast-leg-wrap-rifle-and-rewrites-rules-as-novel",
+      "preofficer-diary-1959-09-10-reads-writes-and-begins-autobiography-amid-training",
+      "preofficer-diary-1959-09-10-conflicts-with-ma-baoting-after-three-minute-assembly",
+      "preofficer-diary-1959-09-11-hand-kiss-joke-two-autobiographies-and-talks-with-ma-baoting",
+      "preofficer-diary-1959-09-11-enjoys-rain-and-escapes-drama-to-eat-beef-noodles-then-acts-diarrhea",
+      "preofficer-diary-1959-09-12-chats-with-major-zhu-keping-and-steals-english-reading-during-forced-nap",
+      "preofficer-diary-1959-09-13-cuts-grass-eats-at-welfare-and-gets-supplies-from-yanzeng",
+      "preofficer-diary-1959-09-14-guard-duty-frog-insect-night-and-shi-ke-talks-army-progress",
+      "preofficer-diary-1959-09-14-basic-training-love-speech-big-lunch-and-debate-with-liu",
+      "preofficer-diary-1959-09-14-self-introduction-wins-applause-and-guidance-officer-laughs",
+      "preofficer-diary-1959-09-15-completes-guard-poem-and-jokes-with-liu-officer",
+      "preofficer-diary-1959-09-15-zhutai-letter-zheng-qingmao-parody-and-classmates-call-him-ghost-talent",
+      "preofficer-diary-1959-09-16-bar-test-calisthenics-haircut-welfare-and-zhou-tao-talk",
+      "preofficer-diary-1959-09-17-letter-to-margo-says-army-life-is-tempering-and-hemingway-model",
+      "preofficer-diary-1959-09-17-stops-wearing-watch-and-glasses-and-cheers-basketball-in-sun",
+      "preofficer-diary-1959-09-17-first-pay-eight-yuan-and-mid-autumn-feast-evening-party"
+    ],
+    "crossReferenceUpdates": [
+      {
+        "file": "data/timeline-events-fourth-book.json",
+        "id": "book4-1959-09-07-reserve-officer-training-begins"
+      },
+      {
+        "file": "data/timeline-events-fourth-book.json",
+        "id": "book4-1959-09-07-southbound-sendoff-to-fengshan"
+      },
+      {
+        "file": "data/timeline-events-fifth-book.json",
+        "id": "book5-1959-09-17-letter-to-margo-about-hemingway"
+      },
+      {
+        "file": "data/timeline-events-fifth-book.json",
+        "id": "book5-1959-09-23-writes-fengshan-poem"
+      }
+    ],
+    "duplicatePolicy": "9月7开始预官训练、9月7南下送行、9月17给马戈信、9月23《凤山杂诗》已有旧库锚点，本轮只补原书来源和细节回挂；新增事件限于本书原文能独立定位的日常/书信/训练/写作节点。",
+    "coverage": {
+      "sourceChapter": "008.横槊集·1959年9月",
+      "processedLines": "1-243",
+      "excludedLines": "689以后页脚；9月18日至30日留待下一轮",
+      "note": "第一轮处理至9月17日中秋晚会。"
+    },
+    "validation": {
+      "planned": "include new data file + version update + export-timeline-text + export-timeline-csv + structural validation"
+    },
+    "nextRecommendation": "下一轮建议继续008.横槊集·1959年9月.txt第二轮，处理9月18日至9月30日。重点包括9月20给黄淑兰慰问信、9月21小说底稿被老三没收、9月23《凤山杂诗》续作和七一四高地地图阅读、9月24屏东大武营区跳伞训练参观、9月25给启庆信与“内敛”决定、9月27挖防空洞/罢食风波/毒酒座右铭、9月28教师节放假与同队评价、9月29大调动、9月30清茂说从讨厌长袍到喜欢李敖。"
   }
 ]

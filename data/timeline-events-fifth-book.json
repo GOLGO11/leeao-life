@@ -914,7 +914,26 @@
       "chapter": "006.投笔纪",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/006.投笔纪.txt",
       "line": 9
-    }
+    },
+    "crossReferences": [
+      "preofficer-diary-1959-09-17-letter-to-margo-says-army-life-is-tempering-and-hemingway-model"
+    ],
+    "additionalSources": [
+      {
+        "book": "一个预备军官的日记",
+        "chapter": "008.横槊集·1959年9月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/008.横槊集·1959年9月.txt",
+        "line": 213,
+        "note": "《一个预备军官的日记》原文抄出昨晚给马戈信。"
+      },
+      {
+        "book": "一个预备军官的日记",
+        "chapter": "008.横槊集·1959年9月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/008.横槊集·1959年9月.txt",
+        "line": 215,
+        "note": "原信详述军中生活是磨炼、海明威为勇敢文人榜样。"
+      }
+    ]
   },
   {
     "id": "book5-1959-09-23-writes-fengshan-poem",
@@ -950,7 +969,19 @@
       "chapter": "006.投笔纪",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/006.投笔纪.txt",
       "line": 13
-    }
+    },
+    "crossReferences": [
+      "preofficer-diary-1959-09-07-writes-first-two-fengshan-poems-on-way-to-camp"
+    ],
+    "additionalSources": [
+      {
+        "book": "一个预备军官的日记",
+        "chapter": "008.横槊集·1959年9月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/008.横槊集·1959年9月.txt",
+        "line": 13,
+        "note": "《凤山杂诗》前二首实于1959年9月7日高凤途中写成。"
+      }
+    ]
   },
   {
     "id": "book5-1959-10-28-ligang-afternoon-diary",

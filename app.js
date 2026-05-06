@@ -74,7 +74,8 @@ const dataFiles = [
   "./data/timeline-events-daxue-zhaji.json",
   "./data/timeline-events-zaonian-riji.json",
   "./data/timeline-events-daxue-houqi-riji-jia.json",
-  "./data/timeline-events-daxue-houqi-riji-yi.json"
+  "./data/timeline-events-daxue-houqi-riji-yi.json",
+  "./data/timeline-events-preofficer-diary.json"
 ];
 const supplementalDataFiles = new Set([
   "./data/timeline-events-first-book-supplement.json",
@@ -86,7 +87,7 @@ const supplementalDataFiles = new Set([
   "./data/timeline-events-fourth-book-deepening.json"
 ]);
 const processedBookCount = dataFiles.filter((file) => !supplementalDataFiles.has(file)).length;
-const dataVersion = "2026-05-06-daxue-houqi-yi-closeout";
+const dataVersion = "2026-05-06-preofficer-diary-round1-sponsor15";
 
 const dateFormatter = new Intl.DateTimeFormat("zh-Hant", {
   year: "numeric",
