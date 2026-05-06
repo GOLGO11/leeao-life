@@ -11070,5 +11070,402 @@
       "3月8“名女人是拍卖出来的”已有《李敖语录》节点，本轮只在乙集上下文事件中交叉引用并补源到旧节点。",
       "后续新增日记心理活动类事件统一采用“李敖说他想到/觉得/认为”等表述，避免写成客观读心。"
     ]
+  },
+  {
+    "iteration": 321,
+    "date": "2026-05-06",
+    "book": "大学后期日记乙集",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集",
+    "scope": [
+      "003.1959年3月.txt：1959年3月9日至3月16日"
+    ],
+    "strategy": "《大学后期日记乙集》第十轮：处理3月9日至3月16日。旧《李敖语录》已有3月12印度史插嘴、3月13精神恋、3月15某女士妙语三条，本轮只补乙集原文来源与crossReferences，不重复造同义语录节点。新增3月9史仲序午饭/静波独立生活、通鉴课室内葬及殡、静波仲序评才气高不用功、李敖一得时即用功；3月10七点以前起来、Bonnie索糖；3月11远亲近冤家、俞小薇、旧欢成语新诂、徐石索巧克力糖、请启庆饭谈情绪时代、大读宋人文集、新汉小白夜谈骂人/称谓研究、睡前与同室吹牛；3月12过人的轻松与无为玩世两大法宝、小玄新外套和讲义、尼赫鲁妹妹/奈都夫人、Suttee、印度妇女继承权、印度史课插嘴；3月13法学院遇P、讽戴炎辉、罗思琳骂阴险、大量工作、精神恋理想美；3月14访到《宋刑统》；3月15吴相湘评长袍学生、某女士妙语、与庄因大谈大唱大笑；3月16抗战与中产崩溃、帝国主义与民族主义界限、为不哭而大笑、俗语札记、请阿地晚饭。",
+    "filesRead": [
+      "003.1959年3月.txt",
+      "data/timeline-events-daxue-houqi-riji-yi.json",
+      "data/timeline-events-li-ao-yulu.json",
+      "data/timeline-events-daxue-houqi-riji-jia.json",
+      "data/timeline-events-daxue-zhaji.json",
+      "data/timeline-events-zaonian-riji.json"
+    ],
+    "eventsAdded": 34,
+    "crossReferenceUpdates": [
+      "《李敖语录》3月12印度史插嘴补乙集line151与line145上下文，回挂本轮3月12课堂事件。",
+      "《李敖语录》3月13精神恋补乙集line163，回挂本轮3月13精神恋事件。",
+      "《李敖语录》3月15某女士妙语补乙集line173，回挂本轮3月15妙语事件。",
+      "3月12轻松/无为/玩世回挂2月17五项大作风、甲集12月26永远轻松与甲集10月玩世线；3月14宋刑统回挂甲集南港读《宋刑统》线。"
+    ],
+    "nextRecommended": [
+      "下一轮建议继续003.1959年3月.txt的3月17日至3月23日；重点包括3月17小玄衣着细节、台静农夸旧袍、无为在不开化社会中的恋爱策略与已有《李敖语录》3月17节点、3月18-20的读书/课堂/人际细节、3月21以后若出现写作计划和信件要拆细。",
+      "进入下一轮前先查《李敖语录》3月17“恋爱行为如写信是可怕冒险”旧节点，补乙集原文来源与上下文，仍不重复造同义语录节点。"
+    ],
+    "output": [
+      "data/timeline-events-daxue-houqi-riji-yi.json",
+      "data/timeline-events-li-ao-yulu.json",
+      "app.js",
+      "index.html",
+      "exports/leeao-current-timeline.txt",
+      "exports/leeao-current-timeline.csv"
+    ],
+    "notes": [
+      "本轮严格限于3月9日至3月16日，3月17只作为下一轮边界未处理。",
+      "本轮所有内心判断与计划均用“李敖说/记/称/认为”等表述，不直写为外部心理事实。"
+    ]
+  },
+  {
+    "iteration": 322,
+    "date": "2026-05-06",
+    "book": "大学后期日记乙集",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集",
+    "scope": [
+      "003.1959年3月.txt：1959年3月17日至3月22日"
+    ],
+    "strategy": "《大学后期日记乙集》第十一轮：处理3月17日至3月22日，严格不进入3月23日长篇打油诗组。旧《李敖语录》已有3月17恋爱行为如写信是可怕冒险节点，本轮只补乙集原文line195与crossReferences，不重复造同义语录节点。新增3月17小玄粉红杜鹃花/褐发外套细节、台静农夸旧袍、恋爱行为可怕冒险与无为；3月18欧洲学生买象过Alps、二度看石梅丽、夜访老马、 大中请夜饭、与祝公夜谈；3月19与吴俊才小谈并告以玩世不恭、听洪煨莲讲演并与启庆谈演说、请启庆夜饭后班会有意故意活泼/酷似胡适/淑平胡适照片；3月20忘了干什么与请彦增夜饭；3月21与启庆中央图书馆看书、寿尔康夜饭走归宿舍小谈；3月22与宏祥新汉彦增庄因祝泰草山阳明山游、夜与彦增寿尔康及大浴、黄淑兰介绍父亲黄建中。",
+    "filesRead": [
+      "003.1959年3月.txt",
+      "data/timeline-events-daxue-houqi-riji-yi.json",
+      "data/timeline-events-li-ao-yulu.json",
+      "data/timeline-events-daxue-houqi-riji-jia.json",
+      "data/timeline-events-daxue-zhaji.json",
+      "data/timeline-events-zaonian-riji.json"
+    ],
+    "eventsAdded": 18,
+    "crossReferenceUpdates": [
+      "《李敖语录》3月17恋爱行为可怕冒险补乙集line195，并回挂本轮3月17无为事件。",
+      "3月17旧袍回挂3月15吴相湘长袍评论与3月2吴相湘赞袍；小玄服饰回挂3月12新外套讲义与3月7遥对小玄。",
+      "3月19班会酷似胡适回挂3月1胡适批评线、2月23陈淑平电话线；3月22草山游回挂3月8彦增归来与3月18老马线。"
+    ],
+    "nextRecommended": [
+      "下一轮建议单独处理3月23日长篇打油诗组：写打油诗整个下午、克斌催稿、《酱爆肉》《贼毛咏》《犬儒的狂吠》《跳舞者》等，按写作缘起、每首诗题与涉及人物/地点拆分，注意诗文正文只摘要不长引。",
+      "处理3月23日前可先查《李敖语录》是否有犬儒主义、第欧根尼、寿尔康或跳舞者相关摘录；若有则补源回挂，不重复造节点。"
+    ],
+    "output": [
+      "data/timeline-events-daxue-houqi-riji-yi.json",
+      "data/timeline-events-li-ao-yulu.json",
+      "app.js",
+      "index.html",
+      "exports/leeao-current-timeline.txt",
+      "exports/leeao-current-timeline.csv"
+    ],
+    "notes": [
+      "本轮严格限于3月17日至3月22日，3月23日长诗组留给下一轮。",
+      "继续采用“李敖说他觉得/记/称”口径处理心理判断与自省，不直写为外部心理事实。"
+    ]
+  },
+  {
+    "iteration": 323,
+    "date": "2026-05-06",
+    "book": "大学后期日记乙集",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集",
+    "scope": [
+      "003.1959年3月.txt：1959年3月23日长篇打油诗组"
+    ],
+    "strategy": "《大学后期日记乙集》第十二轮：单独处理3月23日长篇打油诗组。旧库未发现《酱爆肉》《贼毛咏》《犬儒的狂吠》《跳舞者》《穷与诗》《快乐神》或《淫虐狂》对应既有事件，故本轮新增写作缘起一条、六首打油诗各一条、读《淫虐狂》一条；诗文正文只作摘要与短句提示，不全文搬入。回挂寿尔康饮食线、赖玉森/赖兽医贼毛旧线、玩世不恭/犬儒线、戒跳舞线与快乐神/伏尔泰相关旧线。",
+    "filesRead": [
+      "003.1959年3月.txt",
+      "data/timeline-events-daxue-houqi-riji-yi.json",
+      "data/timeline-events-daxue-houqi-riji-jia.json",
+      "data/timeline-events-li-ao-yulu.json",
+      "data/ingestion-log.json"
+    ],
+    "eventsAdded": 8,
+    "crossReferenceUpdates": [
+      "《酱爆肉》回挂3月21、3月22寿尔康近期节点与1月25寿尔康旧节点。",
+      "《贼毛咏》回挂甲集1958年9月23日认识赖玉森/赖贼毛节点与3月11同室吹牛节点。",
+      "《犬儒的狂吠》《快乐神》回挂3月12无为玩世、3月19告吴俊才以玩世不恭与甲集伏尔泰/玩世线。",
+      "《跳舞者》回挂2月25四戒中戒舞与3月7拒电影独坐图书馆的自律线。"
+    ],
+    "nextRecommended": [
+      "下一轮建议继续003.1959年3月.txt的3月24日至3月31日，完成3月收束；重点包括3月24酷爱小玄与电话陈淑平电影请不起、3月25以后若有连续诗文/信件/读书计划需拆细。",
+      "进入下一轮前先查《李敖语录》3月24以后是否还有纸上罗曼斯摘录，继续采用补源回挂、不重复造节点的规则。"
+    ],
+    "output": [
+      "data/timeline-events-daxue-houqi-riji-yi.json",
+      "app.js",
+      "index.html",
+      "exports/leeao-current-timeline.txt",
+      "exports/leeao-current-timeline.csv"
+    ],
+    "notes": [
+      "本轮严格限于3月23日，未处理3月24日以后内容。",
+      "诗文内容只摘要关键主题和少量短句，保证导出完整记录事件来源，又避免把整首诗塞入年表摘要。"
+    ]
+  },
+  {
+    "iteration": 324,
+    "date": "2026-05-06",
+    "book": "大学后期日记乙集",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集",
+    "scope": [
+      "003.1959年3月.txt：1959年3月24日至3月31日，完成3月收束"
+    ],
+    "strategy": "《大学后期日记乙集》第十三轮：处理3月24日至3月31日，完成1959年3月收束。检索旧库未发现《李敖语录》同日摘录；本轮按大而全原则新增小玄线、陈淑平电话、招待新汉仲序一川、罗思琳恶作剧、乔芹、改革婚姻法、四五计划、庄因施珂吃冰赏月、世界社李石曾/蔡元培对联书展、小玄蓝衣与真爱宣言、陈一川/萧启庆评价、吴俊才赠书签名、笑话、校园照相、桥赛、送英善、访宏祥与夜谈、宏祥留宿与看《迷魂记》、清真馆/新德/景家、周家名誉事、新德益宣早饭、为祝公办事、启扬消夜、P在碧潭、罗子冀教授风度、黄祝贵西藏问题讲演与宿舍谈、西藏葬俗研究作文。忽略line423以后的制作者页脚。",
+    "filesRead": [
+      "003.1959年3月.txt",
+      "data/timeline-events-daxue-houqi-riji-yi.json",
+      "data/timeline-events-daxue-houqi-riji-jia.json",
+      "data/timeline-events-li-ao-yulu.json",
+      "data/timeline-events-zaonian-riji.json",
+      "data/timeline-events-woshi-tiananmen.json"
+    ],
+    "eventsAdded": 28,
+    "crossReferenceUpdates": [
+      "3月25改革婚姻法回挂3月3赵凤喈《中国妇女在法律上之地位》、3月5婚姻论文计划与2月27《处女问题》。",
+      "3月26小玄两条回挂3月24酷爱小玄、3月17小玄服饰和3月13精神恋线。",
+      "3月31教授风度回挂甲集1958年11月4日教授风度旧线；西藏葬俗作文回挂1961年《西藏葬俗考》旧稿线与1991年西藏问题文章。"
+    ],
+    "nextRecommended": [
+      "下一轮建议先做003.1959年3月.txt全月close check：检查3月1日至31日是否漏收日期、旧《李敖语录》3月8/12/13/15/17是否均补源回挂、source line是否准确、交叉引用是否都存在，再转入004.1959年4月.txt。",
+      "close check时重点抽查3月23长诗组导出摘要是否完整但不过度长引，以及3月24-31小玄/西藏/婚姻法/四五计划这些线是否能在网页搜索到。"
+    ],
+    "output": [
+      "data/timeline-events-daxue-houqi-riji-yi.json",
+      "app.js",
+      "index.html",
+      "exports/leeao-current-timeline.txt",
+      "exports/leeao-current-timeline.csv"
+    ],
+    "notes": [
+      "本轮完成3月正文，line423以后为制作者页脚，未入库。",
+      "继续采用“李敖记/说/认为/思考”的口径处理日记心理、自省与计划。"
+    ]
+  },
+  {
+    "iteration": 325,
+    "date": "2026-05-06",
+    "book": "大学后期日记乙集",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集",
+    "scope": [
+      "003.1959年3月.txt：1959年3月全月 close check"
+    ],
+    "strategy": "《大学后期日记乙集》3月全月收束检查：核对3月1日至31日日期覆盖、旧《李敖语录》3月8/12/13/15/17补源回挂、3月23长篇打油诗组摘要完整性、关键词检索、交叉引用、source path、网页本地图片和导出口径。未新增事件，未发现需修补漏项。",
+    "filesRead": [
+      "003.1959年3月.txt",
+      "data/timeline-events-daxue-houqi-riji-yi.json",
+      "data/timeline-events-li-ao-yulu.json",
+      "exports/leeao-current-timeline.txt",
+      "exports/leeao-current-timeline.csv"
+    ],
+    "eventsAdded": 0,
+    "crossReferenceUpdates": [
+      "确认3月8、3月12、3月13、3月15、3月17五个旧《李敖语录》节点均有乙集003.1959年3月原文来源、works包含《大学后期日记乙集》且crossReferences回挂乙集上下文事件。",
+      "确认3月全月121条、每日均有覆盖；3月23长诗组为8条，摘要保留写作缘起和主题但未长引全文。",
+      "确认四五计划、改革婚姻法、西藏葬俗、酷爱小玄、名女人是拍卖出来的、精神恋、可怕的冒险、犬儒的狂吠、快乐神、酱爆肉、贼毛咏均可在导出文本检索。"
+    ],
+    "nextRecommended": [
+      "下一轮建议转入004.1959年4月.txt第一段，先处理4月1日至4月8日左右；开头先查《李敖语录》是否有4月同日旧摘录，尤其纸上罗曼斯、读书自省或小玄相关语录，沿用补源回挂不重复造节点规则。",
+      "进入4月时继续注意日记心理口径：写成“李敖说他觉得/想到/认为”，不要把内心活动写成客观读心。"
+    ],
+    "output": [
+      "data/ingestion-log.json",
+      "app.js",
+      "index.html",
+      "exports/leeao-current-timeline.txt",
+      "exports/leeao-current-timeline.csv"
+    ],
+    "notes": [
+      "3月全月正文已收束，line423以后制作者页脚未入库。",
+      "本次close check未改变事件数据，总事件数仍为4082，乙集仍为321条。"
+    ]
+  },
+  {
+    "iteration": 326,
+    "date": "2026-05-06",
+    "book": "大学后期日记乙集",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集",
+    "scope": [
+      "004.1959年4月.txt：1959年4月1日至4月8日"
+    ],
+    "strategy": "《大学后期日记乙集》4月第一轮：先读4月1日至4月8日原文，检索现有乙集与《李敖语录》同日旧节点，确认旧《李敖语录》在4月上旬无同日摘录，故本轮按大而全原则新增日常、交游、胡适/姚从吾、方豪、出版物麻烦、小玄、健康与读书/自省方法事件；同一饭局、同一拜访链和同日小事尽量合并入单条并用additionalSources保留来源行。",
+    "filesRead": [
+      "004.1959年4月.txt",
+      "data/timeline-events-daxue-houqi-riji-yi.json",
+      "data/timeline-events-daxue-houqi-riji-jia.json",
+      "data/timeline-events-li-ao-yulu.json",
+      "exports/leeao-current-timeline.txt"
+    ],
+    "eventsAdded": 26,
+    "crossReferenceUpdates": [
+      "4月1日姚从吾鼓励并转述胡适问“胡适迷”节点，回挂甲集1958年11月17日胡适论文意见、1959年2月24日南港听胡适讲演、3月1日致徐高阮信批评胡适线。",
+      "4月6日至7日大学出版物麻烦与课外活动组办事拆为前因后果两条，并互相回挂。",
+      "4月7日小玄车棚与小蓬莱招呼，回挂3月24酷爱小玄与3月26印度史课后真爱宣言；4月8日少计划多工作、反省日记式自省，回挂1月马宏祥谈话线与乙集前记。"
+    ],
+    "nextRecommended": [
+      "下一轮建议继续004.1959年4月.txt第二段，处理4月9日至4月16日；这段有夜读书、黄祝贵长谈、蒋廷黻评胡适、胡适住院、翻《梦溪笔谈》《容斋随笔》、夜读法、小玄服饰与寿尔康/中央图书馆线。",
+      "第二轮开头应先核对4月13日胡适病于台大医院203室是否已有旧胡适线或《李敖语录》摘录；4月16日“冥想太多”“朋友沙子论”要继续用“李敖说/认为”口径处理心理与观点。"
+    ],
+    "output": [
+      "data/timeline-events-daxue-houqi-riji-yi.json",
+      "data/ingestion-log.json",
+      "app.js",
+      "index.html",
+      "exports/leeao-current-timeline.txt",
+      "exports/leeao-current-timeline.csv"
+    ],
+    "notes": [
+      "本轮新增4月1日至4月8日共26条；4月上旬尚未触及《李敖语录》4月23日纸上罗曼斯节点。",
+      "继续沿用日记心理口径，未使用“李敖想到”式直写。"
+    ]
+  },
+  {
+    "iteration": 327,
+    "date": "2026-05-06",
+    "book": "大学后期日记乙集",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集",
+    "scope": [
+      "004.1959年4月.txt：1959年4月9日至4月16日"
+    ],
+    "strategy": "《大学后期日记乙集》4月第二轮：处理4月9日至4月16日。先检索同日旧《李敖语录》和全库胡适/小玄/黄祝贵/朋友沙子论等相关旧线，确认4月9日至16日无同日语录摘录；按大而全原则新增夜读与废寝忘食、黄祝贵长谈、蒋廷黻评胡适、启庆/周弘日常、绍文新德来访、马家谈天与朋友成熟评价、台大医院探胡适与光宗、翻《梦溪笔谈》《容斋随笔》、夜读法、小玄招呼与服饰、中央图书馆看书、温静波票钱、杜勒斯辞职、性问题理智化、朋友沙子论等事件。",
+    "filesRead": [
+      "004.1959年4月.txt",
+      "data/timeline-events-daxue-houqi-riji-yi.json",
+      "data/timeline-events-li-ao-yulu.json",
+      "data/timeline-events.json",
+      "data/timeline-events-daxue-houqi-riji-jia.json"
+    ],
+    "eventsAdded": 23,
+    "crossReferenceUpdates": [
+      "4月9日夜读/废寝忘食回挂4月8日少计划多工作与反省日记式自省。",
+      "4月13日台大医院探胡适病于203室回挂4月8日姚从吾介绍胡颂平安排访胡适，以及旧主干1959年4月30日胡适医院长谈。",
+      "4月14日夜读法回挂4月9日夜读、4月13日读书至二时半；小玄招呼与4月16日服饰回挂4月7日小玄车棚/小蓬莱与3月小玄线。",
+      "4月16日性问题与反对冥想太多回挂4月8日反省日记式自省与3月17日恋爱行为可怕冒险；朋友沙子论回挂3月4日朋友沙子论。"
+    ],
+    "nextRecommended": [
+      "下一轮建议继续004.1959年4月.txt第三段，处理4月17日至4月23日。重点包括黄英星/赖玉森/小又亮评价李敖性格与作风、许×琛题字与惜别卡、决定编《幽他一默集》、读 Kinsey 生平、姚从吾劝看胡适、温静波独唱、4月19日决定不考编译官而考研究院、研究所百日计划、赵元任辞行广告、黄祝贵谈文章、朋友沙子论实践、爱情婚姻剪报，以及4月23日旧《李敖语录》“不与女人往还”节点补源回挂。",
+      "第三轮必须先处理《李敖语录》4月23日节点：不要重复造同义事件，应该给旧语录节点补入乙集原文来源，同时在乙集新节点与其交叉引用。"
+    ],
+    "output": [
+      "data/timeline-events-daxue-houqi-riji-yi.json",
+      "data/ingestion-log.json",
+      "app.js",
+      "index.html",
+      "exports/leeao-current-timeline.txt",
+      "exports/leeao-current-timeline.csv"
+    ],
+    "notes": [
+      "本轮新增4月9日至4月16日共23条，日记心理、自评与观点均采用“李敖说/认为/记”口径。",
+      "4月13日仅入库探病胡适；4月30日台大医院与胡适长谈留待后续4月30日段落处理。"
+    ]
+  },
+  {
+    "iteration": 328,
+    "date": "2026-05-06",
+    "book": "大学后期日记乙集",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集",
+    "scope": [
+      "004.1959年4月.txt：1959年4月17日至4月23日"
+    ],
+    "strategy": "《大学后期日记乙集》4月第三轮：处理4月17日至4月23日。先检索旧《李敖语录》与全库相关线，确认4月23日“不与女人往还”已有《李敖语录》节点，故不重复造同义事件；改为补充乙集原文来源，并在乙集新增“小玄生日相望”上下文事件回挂旧语录节点。其余按大而全原则新增性格评价、不争不怒、许×琛题字/送糖/惜别卡、《幽他一默集》计划、Kinsey生平、姚从吾劝看胡适、温静波独唱、研究院与百日计划、赵元任辞行广告、马真吾蒙藏问题谈话、海格爱情婚姻剪报、控制交游时间、成荻评价、英善生日、旧档与无为、小玄互致意、朋友沙子论实践、马戈夜谈、台大医院看光宗、寿尔康/大新赏月唱歌、球赛、通信与车中读书习惯等。",
+    "filesRead": [
+      "004.1959年4月.txt",
+      "data/timeline-events-daxue-houqi-riji-yi.json",
+      "data/timeline-events-li-ao-yulu.json",
+      "data/timeline-events.json",
+      "data/timeline-events-daxue-houqi-riji-jia.json",
+      "data/timeline-events-zaonian-riji.json"
+    ],
+    "eventsAdded": 27,
+    "crossReferenceUpdates": [
+      "旧《李敖语录》节点 li-ao-yulu-1959-04-23-diary-resolves-no-contact-with-women 补入乙集004.1959年4月 line271 原文来源，并回挂乙集4月23日小玄生日相望上下文事件。",
+      "4月18日姚从吾劝看胡适回挂4月8日姚从吾写胡颂平介绍信与4月13日台大医院探胡适。",
+      "4月19日研究所百日计划回挂同日不考编译官而考研究院；4月21日再订细目回挂4月19日计划。",
+      "4月20日海格爱情婚姻剪报回挂4月16日理智处理性问题；4月22日朋友沙子论实践回挂3月4日与4月16日朋友沙子论。"
+    ],
+    "nextRecommended": [
+      "下一轮建议继续004.1959年4月.txt第四段，处理4月24日至4月30日，完成4月正文收束。重点包括4月24日暖寿、4月25日二十四岁生日全日、4月26日南港中央研究院读书与资本主义/共产主义强迫劳动谈话、4月27日旅途/朋友/资料线、4月28-29日胡适相关安排，以及4月30日台大医院四楼特别病房与胡适长谈。",
+      "第四轮要特别注意：4月24-25是生日密集日，日常很多但不可漏；4月30日已有旧主干节点 1959-04-30-hu-shih-hospital，应补乙集来源和必要交叉引用，不重复造同义胡适医院长谈节点。"
+    ],
+    "output": [
+      "data/timeline-events-daxue-houqi-riji-yi.json",
+      "data/timeline-events-li-ao-yulu.json",
+      "data/ingestion-log.json",
+      "app.js",
+      "index.html",
+      "exports/leeao-current-timeline.txt",
+      "exports/leeao-current-timeline.csv"
+    ],
+    "notes": [
+      "本轮乙集新增27条；《李敖语录》4月23日旧节点只补源、补交叉引用。",
+      "4月23日“不与女人往还”不重复造项，乙集只保留小玄生日相望上下文。"
+    ]
+  },
+  {
+    "iteration": 329,
+    "date": "2026-05-06",
+    "book": "大学后期日记乙集",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集",
+    "scope": [
+      "004.1959年4月.txt：1959年4月24日至4月30日，完成4月正文收束"
+    ],
+    "strategy": "《大学后期日记乙集》4月第四轮：处理4月24日至4月30日，完成4月正文。先检索旧主干节点，确认4月30日台大医院与胡适长谈已有 data/timeline-events.json 的 1959-04-30-hu-shih-hospital，故补入乙集原文来源与交叉引用，不重复造同义胡适长谈节点。乙集新增暖寿、吴相湘事感想、二十四岁生日全日、生日电影/真北平饭局、访启扬与为大中作报告、给宏祥看阎选《浣溪沙》、强震与生日心事、父亲忌日、不再辱主义、李玄伯三轮车称教授、南港中研院读书竟日、收到照片与画像摄影、景家聊天、吴铸人与宏祥来谈、为宏祥介绍信访姚从吾、4月30日周家自省等事件。",
+    "filesRead": [
+      "004.1959年4月.txt",
+      "data/timeline-events-daxue-houqi-riji-yi.json",
+      "data/timeline-events.json",
+      "data/timeline-events-daxue-zhaji.json",
+      "data/timeline-events-daxue-houqi-riji-jia.json"
+    ],
+    "eventsAdded": 16,
+    "crossReferenceUpdates": [
+      "旧主干 1959-04-30-hu-shih-hospital 补入乙集004.1959年4月 line347 原文来源，回挂4月13日台大医院探胡适与4月18日姚从吾劝看胡适。",
+      "4月28日南港中研院读书竟日回挂《大学札记》1957年4月28日南港旧线，以及甲集1958年11月29日、12月5日王宝先赠药/面谢旧线。",
+      "4月25日生日全日回挂4月24日暖寿与4月23日看光宗病；4月27日李玄伯称教授回挂4月6日通鉴课与3月31日教授风度旧线。"
+    ],
+    "nextRecommended": [
+      "下一轮建议做004.1959年4月.txt全月 close check：核对4月1日至30日每日覆盖、4月23《李敖语录》补源不重复、4月30旧主干胡适医院节点补源、source line准确性、导出关键词完整性，并确认line351以后制作者页脚未入库。",
+      "close check重点抽查4月25生日密集条、4月27“不再辱主义”、4月28南港中研院、4月30胡适长谈，避免摘要过度压缩导致导出文本信息不完整。"
+    ],
+    "output": [
+      "data/timeline-events-daxue-houqi-riji-yi.json",
+      "data/timeline-events.json",
+      "data/ingestion-log.json",
+      "app.js",
+      "index.html",
+      "exports/leeao-current-timeline.txt",
+      "exports/leeao-current-timeline.csv"
+    ],
+    "notes": [
+      "本轮乙集新增16条；4月30胡适医院长谈旧主干只补源和交叉引用。",
+      "原文中南港中央研究院读书为4月28日，不是此前建议中误写的4月26日；已按原文日期入库。",
+      "004.1959年4月.txt line351以后为制作者页脚，未入库。"
+    ]
+  },
+  {
+    "iteration": 330,
+    "date": "2026-05-06",
+    "book": "大学后期日记乙集",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集",
+    "scope": [
+      "004.1959年4月.txt：1959年4月全月 close check"
+    ],
+    "strategy": "《大学后期日记乙集》4月全月 close check：逐行复核4月1日至4月30日源文与当前乙集事件覆盖，确认每日均已有事件；重点抽查4月23旧《李敖语录》“不与女人往还”节点、4月25二十四岁生日密集条、4月27“不再辱主义”、4月28南港中央研究院、4月30旧主干胡适医院长谈。4月23按重复归档原则保留旧语录节点补乙集来源，不重复新增同义事件；4月30按旧主干节点补源与交叉引用，不重复新增胡适长谈事件。",
+    "filesRead": [
+      "004.1959年4月.txt",
+      "data/timeline-events-daxue-houqi-riji-yi.json",
+      "data/timeline-events-li-ao-yulu.json",
+      "data/timeline-events.json",
+      "exports/leeao-current-timeline.txt",
+      "exports/leeao-current-timeline.csv.manifest.json"
+    ],
+    "eventsAdded": 0,
+    "crossReferenceUpdates": [
+      "本轮为核对收束，无新增交叉引用；确认4月23旧语录节点与4月30旧主干节点的交叉引用仍为字符串ID数组且无悬空。"
+    ],
+    "nextRecommended": [
+      "下一轮建议转入005.1959年5月.txt第一段，先处理5月1日至5月7日左右。开轮前先检索旧《李敖语录》、主干胡适线、大学后期日记甲集中的同日/同主题节点，尤其注意胡适、姚从吾、论文、研究所百日计划、寿尔康与交游线，避免重复造项。",
+      "5月第一轮仍按日记类“大而全”策略：日常、交游、读书、写作计划、信件、电影、健康与自省均可入表；外部剪报只作为李敖剪存/评论事件处理。"
+    ],
+    "output": [
+      "data/ingestion-log.json",
+      "app.js",
+      "index.html",
+      "exports/leeao-current-timeline.txt",
+      "exports/leeao-current-timeline.csv"
+    ],
+    "notes": [
+      "4月全月乙集事件共92条，覆盖4月1日至4月30日全部日段。",
+      "004.1959年4月.txt line351以后为电子整理页脚，未入库且未出现在导出文本。",
+      "本轮未新增事件，属于完整性、重复归档和导出污染 close check。"
+    ]
   }
 ]

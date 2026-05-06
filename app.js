@@ -86,7 +86,7 @@ const supplementalDataFiles = new Set([
   "./data/timeline-events-fourth-book-deepening.json"
 ]);
 const processedBookCount = dataFiles.filter((file) => !supplementalDataFiles.has(file)).length;
-const dataVersion = "2026-05-06-daxue-houqi-yi-round-09";
+const dataVersion = "2026-05-06-daxue-houqi-yi-april-close-check";
 
 const dateFormatter = new Intl.DateTimeFormat("zh-Hant", {
   year: "numeric",

@@ -557,13 +557,26 @@
       "“北土非吾愿，东林怀我师”"
     ],
     "certainty": "confirmed",
-    "source": {
-      "book": "李敖自传与回忆",
-      "chapter": "005.“北土非吾愿，东林怀我师”",
-      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/005.“北土非吾愿，东林怀我师”.txt",
-      "line": 91
-    }
+  "source": {
+    "book": "李敖自传与回忆",
+    "chapter": "005.“北土非吾愿，东林怀我师”",
+    "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/005.“北土非吾愿，东林怀我师”.txt",
+    "line": 91
   },
+  "additionalSources": [
+    {
+      "book": "大学后期日记乙集",
+      "chapter": "004.1959年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/004.1959年4月.txt",
+      "line": 347,
+      "note": "乙集原文详记上午十时后在台大医院四楼特别病房与胡适谈，经胡颂平秘书，胡适之见李敖大呼“李先生”，并谈《名公书判清明集》时代问题。"
+    }
+  ],
+  "crossReferences": [
+    "daxue-houqi-yi-1959-04-13-visits-hu-shih-and-guangzong-at-ntu-hospital",
+    "daxue-houqi-yi-1959-04-18-yao-again-urges-hu-shih-visit-says-hu-wants-deeper-relation"
+  ]
+},
   {
     "id": "1959-05-09-human-rights-direction",
     "date": "1959-05-09",

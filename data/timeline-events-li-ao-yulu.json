@@ -3936,7 +3936,7 @@
     "displayDate": "1959年3月12日",
     "datePrecision": "day",
     "title": "李敖在印度史课上插嘴谈寡妇，引众人大笑",
-    "summary": "《李敖语录》摘录《大学后期日记乙集》1959年3月12日条。李敖记吴俊才先生讲寡妇事，自己插嘴说“她们一定很痛苦”，众人大笑。",
+    "summary": "《李敖语录》摘录《大学后期日记乙集》1959年3月12日条。李敖记吴俊才先生讲寡妇事，自己插嘴说“她们一定很痛苦”，众人大笑；乙集原文同日前数则还记印度妇女、寡妇殉夫等课堂札记。",
     "view": [
       "日常线",
       "思想线",
@@ -3957,7 +3957,6 @@
     ],
     "works": [
       "李敖语录",
-      "大学后期日记甲集",
       "大学后期日记乙集",
       "纸上罗曼斯"
     ],
@@ -3967,7 +3966,26 @@
       "chapter": "031.纸上罗曼斯",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt",
       "line": 255
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "003.1959年3月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/003.1959年3月.txt",
+        "line": 151,
+        "note": "乙集原文同日第六则：印度史上吴俊才讲寡妇事，李敖插嘴，引众人大笑。"
+      },
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "003.1959年3月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/003.1959年3月.txt",
+        "line": 145,
+        "note": "同日印度妇女、尼赫鲁妹妹与奈都夫人的课堂札记上下文。"
+      }
+    ],
+    "crossReferences": [
+      "daxue-houqi-yi-1959-03-12-indian-history-class-interrupts-wu-juncai-widow-topic-everyone-laughs"
+    ]
   },
   {
     "id": "li-ao-yulu-1959-03-13-diary-spiritual-romance-ideal-beauty",
@@ -3975,7 +3993,7 @@
     "displayDate": "1959年3月13日",
     "datePrecision": "day",
     "title": "李敖日记写图片、幻想与精神恋才是永恒的美",
-    "summary": "《李敖语录》摘录《大学后期日记乙集》1959年3月13日条。李敖认为理想才是美的，图片、幻想、精神恋才是永恒的美与喜悦，一点现实便足够。",
+    "summary": "《李敖语录》摘录《大学后期日记乙集》1959年3月13日条。李敖说理想才是美的，图片、幻想、精神恋才是永恒的美与喜悦，只凭借一点点现实就够。",
     "view": [
       "日常线",
       "思想线",
@@ -3995,7 +4013,6 @@
     ],
     "works": [
       "李敖语录",
-      "大学后期日记甲集",
       "大学后期日记乙集",
       "纸上罗曼斯"
     ],
@@ -4005,7 +4022,19 @@
       "chapter": "031.纸上罗曼斯",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt",
       "line": 259
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "003.1959年3月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/003.1959年3月.txt",
+        "line": 163,
+        "note": "乙集原文同日第五则：理想、图片、幻想与精神恋才是永恒的美。"
+      }
+    ],
+    "crossReferences": [
+      "daxue-houqi-yi-1959-03-13-ideal-pictures-fantasy-and-spiritual-love-as-eternal-beauty"
+    ]
   },
   {
     "id": "li-ao-yulu-1959-03-15-diary-woman-quip-love-duty",
@@ -4033,7 +4062,6 @@
     ],
     "works": [
       "李敖语录",
-      "大学后期日记甲集",
       "大学后期日记乙集",
       "纸上罗曼斯"
     ],
@@ -4043,7 +4071,19 @@
       "chapter": "031.纸上罗曼斯",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt",
       "line": 263
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "003.1959年3月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/003.1959年3月.txt",
+        "line": 173,
+        "note": "乙集原文同日第二则：某女士之妙语。"
+      }
+    ],
+    "crossReferences": [
+      "daxue-houqi-yi-1959-03-15-records-woman-quip-i-do-not-love-you-you-loving-me-duty"
+    ]
   },
   {
     "id": "li-ao-yulu-1959-03-17-diary-love-letters-dangerous-adventure",
@@ -4051,7 +4091,7 @@
     "displayDate": "1959年3月17日",
     "datePrecision": "day",
     "title": "李敖日记称恋爱行为如写信是可怕冒险",
-    "summary": "《李敖语录》摘录《大学后期日记乙集》1959年3月17日条。李敖认为在不开化的社会里，恋爱行为如写信都是可怕冒险，因此主张无为。",
+    "summary": "《李敖语录》摘录《大学后期日记乙集》1959年3月17日条。李敖说他觉得在不开化的目前社会里，恋爱行为如写信都是可怕冒险，因此主张除无为外一概不可。",
     "view": [
       "日常线",
       "思想线",
@@ -4071,7 +4111,6 @@
     ],
     "works": [
       "李敖语录",
-      "大学后期日记甲集",
       "大学后期日记乙集",
       "纸上罗曼斯"
     ],
@@ -4081,7 +4120,19 @@
       "chapter": "031.纸上罗曼斯",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt",
       "line": 267
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "003.1959年3月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/003.1959年3月.txt",
+        "line": 195,
+        "note": "乙集原文同日第三则：恋爱行为如写信等都是“可怕的冒险”，除无为外一概皆不可。"
+      }
+    ],
+    "crossReferences": [
+      "daxue-houqi-yi-1959-03-17-love-behavior-like-letters-dangerous-adventure-in-uncivilized-society"
+    ]
   },
   {
     "id": "li-ao-yulu-1959-04-23-diary-resolves-no-contact-with-women",
@@ -4114,13 +4165,25 @@
       "纸上罗曼斯"
     ],
     "certainty": "reported-by-author",
-    "source": {
-      "book": "李敖语录",
-      "chapter": "031.纸上罗曼斯",
-      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt",
-      "line": 271
-    }
+  "source": {
+    "book": "李敖语录",
+    "chapter": "031.纸上罗曼斯",
+    "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt",
+    "line": 271
   },
+  "additionalSources": [
+    {
+      "book": "大学后期日记乙集",
+      "chapter": "004.1959年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/004.1959年4月.txt",
+      "line": 271,
+      "note": "乙集原文同日第四则：李敖说自己近乎惨痛地感到与女人有任何关系终会不快，抱定不与女人有丝毫往还的宗旨与主义。"
+    }
+  ],
+  "crossReferences": [
+    "daxue-houqi-yi-1959-04-23-xiaoxuan-birthday-long-mutual-gaze"
+  ]
+},
   {
     "id": "li-ao-yulu-1959-06-28-diary-seeks-clean-self-reliance",
     "date": "1959-06-28",
