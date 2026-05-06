@@ -11467,5 +11467,247 @@
       "004.1959年4月.txt line351以后为电子整理页脚，未入库且未出现在导出文本。",
       "本轮未新增事件，属于完整性、重复归档和导出污染 close check。"
     ]
+  },
+  {
+    "iteration": 331,
+    "date": "2026-05-06",
+    "book": "大学后期日记乙集",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集",
+    "scope": [
+      "005.1959年5月.txt：1959年5月1日至5月7日"
+    ],
+    "strategy": "《大学后期日记乙集》5月第一轮：处理5月1日至5月7日。先检索全库1959年5月1日至7日同日旧节点，未发现同日主节点；再核魏廷朝、胡家伦、家教、P家舞会、研究所计划、夜车、冷水浴等相关旧线。本轮按日记类大而全原则新增作息与姚从吾小谈、家教接洽、取照片与电影、P家舞会、照相与冷水浴、傅乐成购书款、夜车与三轮车夫谈话、开始教书、认识魏廷朝、普及学术及社会改革方向、东门国校体检、吴铸人与胡家伦谈话、自助找朱重明与伊丽莎白·泰勒再醮新闻评论等。",
+    "filesRead": [
+      "005.1959年5月.txt",
+      "data/timeline-events-daxue-houqi-riji-yi.json",
+      "data/timeline-events.json",
+      "data/timeline-events-li-ao-yulu.json",
+      "data/timeline-events-daxue-houqi-riji-jia.json",
+      "data/timeline-events-li-ao-xinkan.json"
+    ],
+    "eventsAdded": 14,
+    "crossReferenceUpdates": [
+      "5月6日“普及学术及社会改革/大众化第一”节点回挂旧主干 1959-05-09-human-rights-direction；5月9原文补源留待下一轮处理。",
+      "5月6日认识魏廷朝节点回挂后来《李敖新刊》服兵役时期马宏祥介绍魏廷朝的回述节点。",
+      "5月3日P家舞会回挂1月1日P家、2月11日P致意及1月3日Dear John线；5月7日胡家伦谈话回挂甲集1958年7月23日胡家伦旧线。"
+    ],
+    "nextRecommended": [
+      "下一轮建议继续005.1959年5月.txt第二段，处理5月8日至5月12日左右。重点包括5月8卖给萧启庆书款、《夺情记》、巴黎Collection Pelliot号码给方豪；5月9翁松燃、Rosa触发、卢华栋评价、独处时间、题赠照片、寿尔康合宴与《逆潮》、吴相湘纪念刊、干事会、胡适等《人权论集》方向；5月10大中购印石、送翁行、碧潭游、朋友沙子论与布鲁塔斯精神；5月11论文每日一章、自赞文字、李玄伯笔记小说、吴相湘赠五四特刊、陈彦增寿诗。",
+      "下一轮特别注意：5月9“读《人权论集》，确认方向在人权”已有旧主干节点，必须补乙集原文 line109 与交叉引用，不重复造同义事件；其余同日细节可作为乙集日常/交游/读书节点入库。"
+    ],
+    "output": [
+      "data/timeline-events-daxue-houqi-riji-yi.json",
+      "data/ingestion-log.json",
+      "app.js",
+      "index.html",
+      "exports/leeao-current-timeline.txt",
+      "exports/leeao-current-timeline.csv"
+    ],
+    "notes": [
+      "本轮新增13条，未修改旧主干5月9节点，避免越出5月1日至7日范围。",
+      "5月6日思想节点按“李敖说/认为/记录”口径处理，未使用“李敖想到”直写。"
+    ]
+  },
+  {
+    "iteration": 332,
+    "date": "2026-05-06",
+    "book": "大学后期日记乙集",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集",
+    "scope": [
+      "005.1959年5月.txt：1959年5月8日至5月12日"
+    ],
+    "strategy": "《大学后期日记乙集》5月第二轮：处理5月8日至5月12日。先核同日旧节点，确认5月9读《人权论集》已有旧主干 1959-05-09-human-rights-direction，故只补乙集原文来源、作品与交叉引用，不重复造同义事件。其余按大而全原则新增5月8 X光照片戏语/萧启庆书款/《夺情记》/开夜车疲乏/Pelliot号码给方豪；5月9翁松燃校园与Rosa触动、卢华栋评价、独处时间、题赠照片、寿尔康合宴与《逆潮》及婚姻悲剧、吴相湘纪念刊/干事会/教书/校园散步；5月10大中购印石、送翁松燃、碧潭划船、徐之评价、景家布鲁塔斯精神与朋友沙子论；5月11咪咪/Y/张灏骂毓生、每日一章论文与自赞、李玄伯《芦浦笔记》、述古耀祖评价与吴相湘赠五四特刊、陈彦增寿诗、周广铭胡颂平与P事、通鉴课与照片；5月12为英善买扇与为彦增购书、体贴朋友/陆军仪队/大中应对谈。",
+    "filesRead": [
+      "005.1959年5月.txt",
+      "data/timeline-events-daxue-houqi-riji-yi.json",
+      "data/timeline-events.json",
+      "data/timeline-events-daxue-houqi-riji-jia.json",
+      "data/timeline-events-li-ao-yulu.json",
+      "data/timeline-events-zaonian-riji.json"
+    ],
+    "eventsAdded": 18,
+    "crossReferenceUpdates": [
+      "旧主干 1959-05-09-human-rights-direction 补入乙集005.1959年5月 line109 原文来源，并回挂5月6日“大众化第一/普及学术及社会改革”节点。",
+      "5月9独处时间采用“李敖说他想到”口径，避免直写“李敖想到”。",
+      "5月10朋友沙子论回挂3月4日、4月22日旧线；5月11女人关系倦游回挂4月23旧《李敖语录》不与女人往还节点。"
+    ],
+    "nextRecommended": [
+      "下一轮建议继续005.1959年5月.txt第三段，处理5月13日至5月18日左右。重点包括5月13给陈彦增寄信三书题字、与老马九条谈话、治印新层次；5月14读完Hater’s Castle/外文系图书馆/Y注视/给书给陈彦增/陈彦增回信；5月15以后如有论文、友朋、书信、电影、思想节点继续按日记类大而全处理。",
+      "下一轮特别注意：5月13是5月11陈彦增寿诗与5月12购书的后续，应优先回挂；若出现《李敖语录》摘录或旧主干同义节点，仍补源不重造。"
+    ],
+    "output": [
+      "data/timeline-events-daxue-houqi-riji-yi.json",
+      "data/timeline-events.json",
+      "data/ingestion-log.json",
+      "app.js",
+      "index.html",
+      "exports/leeao-current-timeline.txt",
+      "exports/leeao-current-timeline.csv"
+    ],
+    "notes": [
+      "本轮乙集新增18条；另更新旧主干《人权论集》节点1条。",
+      "5月11《债主陈彦增寿诗》摘要保留生日、债务、酱爆肉、洗脚水、阿Q和《水浒传》注等核心内容，以保证导出文本信息完整。"
+    ]
+  },
+  {
+    "iteration": 333,
+    "date": "2026-05-06",
+    "book": "大学后期日记乙集",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集",
+    "scope": [
+      "005.1959年5月.txt：1959年5月13日至5月18日"
+    ],
+    "strategy": "《大学后期日记乙集》5月第三轮：处理5月13日至5月18日。先核旧库陈彦增、老马/马宏祥、治印、朋友沙子论、论文与5月13至18同日节点，未发现同日旧主干或语录同义节点；本轮按日记类大而全原则新增5月13陈彦增一信三书题字、老马九条谈话、夜刻印新层次、田纳西女人之爱与离书/心理残忍离婚；5月14工学院与孟大中；5月15景请午饭/为大中作书/寿尔康饭局、教授派头评价、始抽烟与蓝衣党看自赞页、老马来信评朋友沙子论倡导者、黄祝贵谈蒋廷黻/修宪/胡适/爱情婚姻并借《人权论集》、二十四小时生活计划；5月16景新汉体贴不叫醒、唐一山久仰与学者风度、夜与老马闹事后的朋友类型/沟通/做人的技巧大反省；5月17景家与彦增谈及四时叫人起床；5月18黄淑兰玩笑/不旅行/改印、黄祝贵题赠《匈牙利的十月革命》。",
+    "filesRead": [
+      "005.1959年5月.txt",
+      "data/timeline-events-daxue-houqi-riji-yi.json",
+      "data/timeline-events-daxue-houqi-riji-jia.json",
+      "data/timeline-events-li-ao-yulu.json",
+      "data/timeline-events-zaonian-riji.json",
+      "data/timeline-events-li-ao-xinkan.json"
+    ],
+    "eventsAdded": 16,
+    "crossReferenceUpdates": [
+      "5月13陈彦增一信三书题字回挂5月11陈彦增寿诗与5月12购书节点。",
+      "5月15黄祝贵借《人权论集》回挂旧主干1959-05-09-human-rights-direction与4月10蒋廷黻评胡适节点。",
+      "5月16老马冲突大反省回挂5月15老马来信、5月13老马九条谈话、5月10朋友沙子论与4月12朋友成熟评价。",
+      "5月18改印回挂5月13治印新层次。"
+    ],
+    "nextRecommended": [
+      "下一轮建议继续005.1959年5月.txt第四段，处理5月19日至5月24日左右。重点包括5月19大考后清晨4-12睡眠制、述古午饭谈做人成功、夜写演说稿；5月20启庆天中庄因寿尔康/傅园唱歌、警告黄淑兰、送四小姐、沈称口齿伶俐；5月21设计新式贺年卡生日卡祝寿卡、银翼送四姐、球赛与Bonnie、新兴吃冰、欢送会及关颂韬旧忆；5月22看《傻人行大运》与多客至夜12时；5月23庄喆北来、棋战大赢；5月24阳明山游与山水爱好、景家群英会老马人道论与李敖改造一部分论。",
+      "下一轮要特别注意5月19-24和本轮5月16朋友类型反省、5月18改印之间的延续；如遇纯剪报或外部政治材料，只按李敖读/记/评论入表。"
+    ],
+    "output": [
+      "data/timeline-events-daxue-houqi-riji-yi.json",
+      "data/ingestion-log.json",
+      "app.js",
+      "index.html",
+      "exports/leeao-current-timeline.txt",
+      "exports/leeao-current-timeline.csv"
+    ],
+    "notes": [
+      "本轮乙集新增16条。",
+      "5月16长反省节点保留“朋友类型”“做人的技巧”“房子钥匙”“不可与言/只能言”等核心内容，避免导出文本过度压缩。"
+    ]
+  },
+  {
+    "iteration": 334,
+    "date": "2026-05-06",
+    "book": "大学后期日记乙集",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集",
+    "scope": [
+      "005.1959年5月.txt：1959年5月19日至5月24日"
+    ],
+    "strategy": "《大学后期日记乙集》5月第四轮：处理5月19日至5月24日。先核旧库同日、阳明山/草山、傅园、黄淑兰、关颂韬、东华医院阑尾手术、老马人道论等线索；未发现本段同日旧主干或语录同义节点，关颂韬旧忆回挂早年东华医院阑尾手术节点。本轮新增5月19大考后4-12睡眠制、寿尔康与述古谈做人成功、夜写演说稿至4时20分；5月20寿尔康午饭与傅园唱歌、警告黄淑兰与贺元宜等怕捣蛋、四小姐辞行/新兴吃冰/水源地车站送别、沈午称口齿伶俐；5月21设计新式贺年卡生日卡祝寿卡、银翼宴四姐、赛球与Bonnie送糖/新兴吃冰、欢送会放气球与关颂韬东华医院旧忆；5月22与景新汉看《傻人行大运》、多客至夜12时；5月23庄喆北来与棋战大赢；5月24阳明山游与山水爱好、景家群英会老马人道论与李敖“改造一部分，使一部分脱颖而出”论。",
+    "filesRead": [
+      "005.1959年5月.txt",
+      "data/timeline-events-daxue-houqi-riji-yi.json",
+      "data/timeline-events-first-book-daily.json",
+      "data/timeline-events-daxue-houqi-riji-jia.json",
+      "data/timeline-events-zaonian-riji.json"
+    ],
+    "eventsAdded": 16,
+    "crossReferenceUpdates": [
+      "5月21关颂韬旧忆回挂早年1948-appendicitis-donghua-hospital东华医院阑尾手术节点。",
+      "5月24阳明山游回挂3月22草山/阳明山旧游。",
+      "5月24老马人道论与李敖改造论回挂5月16老马冲突反省、5月13老马九条谈话和5月10朋友沙子论节点。",
+      "5月20四小姐辞行与5月21银翼宴四姐互相回挂。"
+    ],
+    "nextRecommended": [
+      "下一轮建议继续005.1959年5月.txt第五段，处理5月25日至5月31日，完成5月正文收束。重点包括5月25为大中赶文章、大发肝火与“独处与内敛/知止”反省；5月26肝火太大、马浩小谈、与庄喆洗澡大谈；5月27艾克评杜勒斯、国际加洗照片；5月28卖《欧洲地理》、阿登纳参加杜勒斯葬礼与杜勒斯评价、由吴相湘找萧王事说他想到未来人物类型、心胸开广如底斯累利；5月29若有后续继续按原文处理。",
+      "第五段要特别注意：5月28“想到我将来到底要变成什么人”必须写成“李敖由吴相湘找萧、王事说他想到……”，并回查是否已有杜勒斯、底斯累利或未来人物类型旧节点，避免重复。"
+    ],
+    "output": [
+      "data/timeline-events-daxue-houqi-riji-yi.json",
+      "data/ingestion-log.json",
+      "app.js",
+      "index.html",
+      "exports/leeao-current-timeline.txt",
+      "exports/leeao-current-timeline.csv"
+    ],
+    "notes": [
+      "本轮乙集新增16条。",
+      "关颂韬旧忆属于1959年日记中的作者按语回忆，入库为5月21当日触发的回忆节点，并回挂早年手术节点。"
+    ]
+  },
+  {
+    "iteration": 335,
+    "date": "2026-05-06",
+    "book": "大学后期日记乙集",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集",
+    "scope": [
+      "005.1959年5月.txt：1959年5月25日至5月31日，完成5月正文收束"
+    ],
+    "strategy": "《大学后期日记乙集》5月第五轮：处理5月25日至5月31日，完成5月正文。先核旧库杜勒斯、吴相湘、底斯累利、阳明山、照片、知止/肝火与5月25至31同日节点；未发现同日旧主干或语录同义节点。本轮新增为孟大中赶文章、大发肝火并练习独处内敛与知止、肝火太大及与马浩/庄喆谈、艾克评杜勒斯与国际加洗照片、卖《欧洲地理》、阿登纳参加杜勒斯葬礼与李敖评价杜勒斯正义理想、由吴相湘找萧王事说他想到未来文学-学术-政治之间的人物类型、心胸开广如底斯累利及印度/尖刻观察、五月画展请帖、游芳园请启庆感想、五月画展与中山堂欢送晚会、与英善谈虚无/大野心/有办法的人、画展室消遣马浩、与彦增为咸林买镜框并写新婚贺信、黄正铭态度、夜读旧信感触、女生第五宿舍外号等。",
+    "filesRead": [
+      "005.1959年5月.txt",
+      "data/timeline-events-daxue-houqi-riji-yi.json",
+      "data/timeline-events-daxue-houqi-riji-jia.json",
+      "data/timeline-events-zaonian-riji.json",
+      "data/timeline-events.json"
+    ],
+    "eventsAdded": 17,
+    "crossReferenceUpdates": [
+      "5月28由吴相湘找萧王事说他想到未来人物类型，按用户要求采用“李敖由……说他想到……”写法，并回挂5月6日普及学术/社会改革、5月24改造一部分论与4月24吴相湘事感想。",
+      "杜勒斯线回挂4月16辞职、5月27艾克评杜勒斯与1958年11月22甲集旧评。",
+      "5月29“有办法的人”回挂5月28杜勒斯葬礼评价与未来人物类型节点。",
+      "5月31页脚从425行起，未入库。"
+    ],
+    "nextRecommended": [
+      "下一轮建议做005.1959年5月.txt全月 close check：核对5月1日至31日每日覆盖、5月9旧主干《人权论集》补源、5月28“想到”口径、5月31页脚污染、source line准确性与导出完整性。重点抽查5月6大众化第一、5月16朋友类型长反省、5月25知止、5月28未来人物类型、5月29有办法的人。",
+      "close check 后再进入006.1959年6月.txt第一轮。"
+    ],
+    "output": [
+      "data/timeline-events-daxue-houqi-riji-yi.json",
+      "data/ingestion-log.json",
+      "app.js",
+      "index.html",
+      "exports/leeao-current-timeline.txt",
+      "exports/leeao-current-timeline.csv"
+    ],
+    "notes": [
+      "本轮乙集新增17条。",
+      "005.1959年5月.txt line425以后为电子整理页脚，未入库。"
+    ]
+  },
+  {
+    "iteration": 336,
+    "date": "2026-05-06",
+    "book": "????????",
+    "root": "??????5.0??wjm_tcy?????/006.?????/004.????????",
+    "scope": [
+      "005.1959?5?.txt?1959?5??? closeout ??"
+    ],
+    "strategy": "??????????5??? closeout??5?1??31??????????????????5?6??????5?9?????????5?16????????5?21??????????5?25???5?28????????????????5?29??????5?31?????????????????5?31???????5?31????1958?5?31??????????????????????????",
+    "filesRead": [
+      "005.1959?5?.txt",
+      "data/timeline-events-daxue-houqi-riji-yi.json",
+      "data/timeline-events-zaonian-riji.json",
+      "data/timeline-events-first-book-daily.json",
+      "exports/leeao-current-timeline.txt",
+      "exports/leeao-current-timeline.csv"
+    ],
+    "eventsAdded": 0,
+    "crossReferenceUpdates": [
+      "5?31????????1958?5?31??????????????????????????????????",
+      "5?21?????????????????1948-appendicitis-donghua-hospital?????????",
+      "??5?28??????????????????????????????",
+      "??005.1959?5?.txt line425????????????"
+    ],
+    "nextRecommended": [
+      "???????006.1959?6?.txt??????6?1??6?7????????????????5??????/?????????????????????????????????/???????????????"
+    ],
+    "output": [
+      "data/timeline-events-daxue-houqi-riji-yi.json",
+      "data/ingestion-log.json",
+      "app.js",
+      "index.html",
+      "exports/leeao-current-timeline.txt",
+      "exports/leeao-current-timeline.csv"
+    ],
+    "notes": [
+      "???5??? closeout?????0?????????",
+      "5???????81??5?1??31????????"
+    ]
   }
 ]

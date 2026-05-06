@@ -17898,6 +17898,4114 @@
     ]
   },
   {
+    "id": "daxue-houqi-yi-1959-05-01-afternoon-sleep-night-reading-black-curtain-and-yao-talk",
+    "date": "1959-05-01",
+    "displayDate": "1959年5月1日",
+    "datePrecision": "day",
+    "title": "李敖决定下午睡眠、夜里看书，并做黑幔防阳光；午前与姚从吾小谈",
+    "summary": "李敖又决定采用下午睡眠、夜里看书的作息，并要做一块黑幔以防阳光。午前，他与姚从吾小谈。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 5
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 7,
+        "note": "午前与姚从吾小谈。"
+      }
+    ],
+    "view": [
+      "日常线",
+      "读书线",
+      "师友线"
+    ],
+    "tags": [
+      "下午睡眠",
+      "夜里看书",
+      "黑幔",
+      "姚从吾",
+      "作息"
+    ],
+    "people": [
+      "李敖",
+      "姚从吾"
+    ],
+    "places": [
+      "台北",
+      "台湾大学"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-04-14-says-night-reading-method-necessary-for-scholar",
+      "daxue-houqi-yi-1959-04-21-refines-graduate-school-hundred-day-plan-details"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-02-wang-miss-introduces-tutoring-and-visits-yu-junzhi-with-shi-ke",
+    "date": "1959-05-02",
+    "displayDate": "1959年5月2日",
+    "datePrecision": "day",
+    "title": "王大小姐替李敖介绍家教，李敖与施珂赴虞君质家接洽",
+    "summary": "早晨，王大小姐替李敖介绍一处家教，原是虞君质代阙家托王大小姐而来。夜里，李敖与施珂三人同赴虞君质家接洽，虞氏夫妇颇健谈。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 11
+    },
+    "view": [
+      "日常线",
+      "职业线",
+      "交游线"
+    ],
+    "tags": [
+      "家教",
+      "王大小姐",
+      "虞君质",
+      "阙家",
+      "施珂"
+    ],
+    "people": [
+      "李敖",
+      "王大小姐",
+      "虞君质",
+      "虞君质夫人",
+      "施珂"
+    ],
+    "places": [
+      "台北",
+      "虞君质家"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-05-03-visits-que-hanqian-home-for-tutoring"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-02-gets-photos-with-ma-and-treats-man-of-west",
+    "date": "1959-05-02",
+    "displayDate": "1959年5月2日",
+    "datePrecision": "day",
+    "title": "李敖下午与马戈取照片，并请他看《西部人》",
+    "summary": "下午，李敖与马戈去取照片，并请马戈看电影《西部人》（Man of West）。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 13
+    },
+    "view": [
+      "日常线",
+      "交游线",
+      "电影线"
+    ],
+    "tags": [
+      "马戈",
+      "取照片",
+      "西部人",
+      "Man of West"
+    ],
+    "people": [
+      "李敖",
+      "马戈"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "大学后期日记乙集",
+      "西部人"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-04-25-twenty-fourth-birthday-hospital-condensed-milk-photo-books-and-lunch-banquet"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-03-visits-que-hanqian-home-for-tutoring",
+    "date": "1959-05-03",
+    "displayDate": "1959年5月3日",
+    "datePrecision": "day",
+    "title": "李敖上午赴阙汉骞家接洽家教",
+    "summary": "上午，李敖赴阙汉骞家接洽家教，延续前一日王大小姐、虞君质介绍家教的安排。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 17
+    },
+    "view": [
+      "日常线",
+      "职业线"
+    ],
+    "tags": [
+      "阙汉骞",
+      "家教",
+      "接洽"
+    ],
+    "people": [
+      "李敖",
+      "阙汉骞"
+    ],
+    "places": [
+      "台北",
+      "阙汉骞家"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-05-02-wang-miss-introduces-tutoring-and-visits-yu-junzhi-with-shi-ke"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-03-p-home-dance-party-applause-social-ability-and-early-leaves",
+    "date": "1959-05-03",
+    "displayDate": "1959年5月3日",
+    "datePrecision": "day",
+    "title": "李敖夜请广诚晚饭后买花篮赴 P 家舞会，受鼓掌欢迎并自喜交际能力",
+    "summary": "夜里，李敖请广诚晚饭后买花篮赴 P 家舞会；一上楼，数十人为他鼓掌欢迎，P 父及神父邀他上座。他与众友一一寒暄，自喜交际能力。P 托他招待客人等，虽多人关注，他却“无为之心”甚重，十时前即与广诚不辞而归；后来听说 P 唱 Dear John。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 19
+    },
+    "view": [
+      "交游线",
+      "日常线",
+      "音乐线",
+      "自我评价线"
+    ],
+    "tags": [
+      "P家",
+      "舞会",
+      "广诚",
+      "花篮",
+      "鼓掌欢迎",
+      "交际能力",
+      "无为之心",
+      "Dear John"
+    ],
+    "people": [
+      "李敖",
+      "广诚",
+      "P",
+      "P父",
+      "神父"
+    ],
+    "places": [
+      "台北",
+      "P家"
+    ],
+    "works": [
+      "大学后期日记乙集",
+      "Dear John"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-01-01-rides-cao-car-to-p-home-and-p-says-love-letters-in-bag-not-allowed-to-read",
+      "daxue-houqi-yi-1959-02-11-zhao-home-dance-at-roosevelt-road-p-greets-three-times-and-insomnia",
+      "daxue-houqi-yi-1959-01-03-watches-the-buccaneer-with-xinhan-hongxiang-and-night-talks-sings-dear-john"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-04-photos-with-jing-bai-zhuang-and-starts-cold-bath",
+    "date": "1959-05-04",
+    "displayDate": "1959年5月4日",
+    "datePrecision": "day",
+    "title": "李敖晨与景新汉、白、庄因照相，并开始洗冷水浴",
+    "summary": "早晨，李敖与景新汉、白、庄因照相；同日，他开始洗冷水浴。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 23
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 25,
+        "note": "始洗冷水浴。"
+      }
+    ],
+    "view": [
+      "日常线",
+      "交游线",
+      "健康线"
+    ],
+    "tags": [
+      "景新汉",
+      "白",
+      "庄因",
+      "照相",
+      "冷水浴"
+    ],
+    "people": [
+      "李敖",
+      "景新汉",
+      "白",
+      "庄因"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-02-23-thaw-cold-bath-and-macmillan-political-language"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-04-receives-two-hundred-from-fu-lecheng-for-china-history",
+    "date": "1959-05-04",
+    "displayDate": "1959年5月4日",
+    "datePrecision": "day",
+    "title": "李敖收到傅乐成购买《中国通史》的二百元书款",
+    "summary": "李敖收到傅乐成购买他所卖《中国通史》的二百元书款，延续其卖书与师友往还的经济线索。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 27
+    },
+    "view": [
+      "日常线",
+      "经济线",
+      "师友线"
+    ],
+    "tags": [
+      "傅乐成",
+      "中国通史",
+      "卖书",
+      "书款",
+      "二百元"
+    ],
+    "people": [
+      "李敖",
+      "傅乐成"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "大学后期日记乙集",
+      "中国通史"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-jia-1958-09-14-receives-390-yuan-book-sale-money",
+      "daxue-houqi-yi-1959-01-22-walks-campus-with-fu-lecheng-and-meets-huang-zhugui"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-04-night-work-until-two-thirty-and-talks-with-tricycle-drivers",
+    "date": "1959-05-04",
+    "displayDate": "1959年5月4日",
+    "datePrecision": "day",
+    "title": "李敖开夜车至二时半且成绩极好，晚饭时与三位三轮车夫谈话",
+    "summary": "李敖开夜车至二时半，觉得极有成绩。晚饭时，他与三轮车夫焦、郑、卢三先生谈话。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 29
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 31,
+        "note": "晚饭时与三轮车夫焦、郑、卢三先生谈。"
+      }
+    ],
+    "view": [
+      "日常线",
+      "读书线",
+      "交游线"
+    ],
+    "tags": [
+      "开夜车",
+      "二时半",
+      "三轮车夫",
+      "焦先生",
+      "郑先生",
+      "卢先生"
+    ],
+    "people": [
+      "李敖",
+      "焦先生",
+      "郑先生",
+      "卢先生"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-05-01-afternoon-sleep-night-reading-black-curtain-and-yao-talk"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-05-starts-tutoring-and-yu-junzhi-praises-literary-talent",
+    "date": "1959-05-05",
+    "displayDate": "1959年5月5日",
+    "datePrecision": "day",
+    "title": "李敖夜里开始教书，虞君质称他为文学院大才子",
+    "summary": "夜里，李敖开始教书。前一日虞君质说他是文学院大才子，阙家深觉荣幸。李敖同日记下下午未能午睡、夜里未能开夜车。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 35
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 37,
+        "note": "今日下午未能午睡，夜未能开车。"
+      }
+    ],
+    "view": [
+      "职业线",
+      "日常线",
+      "自我评价线"
+    ],
+    "tags": [
+      "教书",
+      "家教",
+      "虞君质",
+      "文学院大才子",
+      "阙家",
+      "午睡",
+      "开夜车"
+    ],
+    "people": [
+      "李敖",
+      "虞君质"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-05-02-wang-miss-introduces-tutoring-and-visits-yu-junzhi-with-shi-ke",
+      "daxue-houqi-yi-1959-05-03-visits-que-hanqian-home-for-tutoring",
+      "daxue-houqi-yi-1959-05-04-night-work-until-two-thirty-and-talks-with-tricycle-drivers"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-06-ugly-men-club-and-meets-wei-tingchao-at-ma-home",
+    "date": "1959-05-06",
+    "displayDate": "1959年5月6日",
+    "datePrecision": "day",
+    "title": "李敖戏称该组织丑男人俱乐部，夜识魏廷朝于马戈寓并同赴吉美吃冰",
+    "summary": "李敖戏称“该组织丑男人俱乐部”。夜里，他在马戈寓所认识魏廷朝，并同赴吉美吃冰；他观察魏廷朝是极寡欲、近乎苦行派的人，从六年不看电影、布衣破鞋、到上等冰店也不惯等可见。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 41
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 43,
+        "note": "夜识魏廷朝于马戈寓，同赴吉美吃冰，并记其近乎苦行派。"
+      }
+    ],
+    "view": [
+      "交游线",
+      "日常线",
+      "人物观察线"
+    ],
+    "tags": [
+      "丑男人俱乐部",
+      "魏廷朝",
+      "马戈",
+      "吉美",
+      "吃冰",
+      "苦行派",
+      "寡欲"
+    ],
+    "people": [
+      "李敖",
+      "魏廷朝",
+      "马戈"
+    ],
+    "places": [
+      "台北",
+      "马戈寓所",
+      "吉美"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "liao-xinkan-1960-context-ma-hongxiang-introduces-wei-tingchao"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-06-popularizes-scholarship-social-reform-and-night-work-method",
+    "date": "1959-05-06",
+    "displayDate": "1959年5月6日",
+    "datePrecision": "day",
+    "title": "李敖提出“大众化第一”，说自己的路是普及学术及社会改革",
+    "summary": "夜里，李敖记录“双方逆流说、瀑布说”，又由 Durant 使哲学书销路增加二百个百分点一事，痛恨与“人”脱节的学者和知识分子，认为今之学者不会为文、不能动人，“大众化第一”是李敖的方向与方法。他说自己的路是普及学术及社会改革，议题包括人口、婚姻、恋爱、娼妓、养女、丧礼、读物、少年犯罪等，均应以长文或专书著作解决；当晚开始重视节育问题，认为它与政治冲突较少、可行且有利社会。他还要求自己做一个生龙活虎的独行好汉，并记开夜车的方法在熬过一开始的困倦。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 45
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 47,
+        "note": "大众化第一，是李敖的方向与方法。"
+      },
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 49,
+        "note": "自己的路是普及学术及社会改革，并列人口、婚姻、恋爱、娼妓、养女、丧礼、读物、少年犯罪等议题。"
+      },
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 51,
+        "note": "做一个生龙活虎的独行好汉。"
+      },
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 53,
+        "note": "敖按称此日记显示早已形成救国方法与知识分子的自处之道，并记夜车方法。"
+      }
+    ],
+    "view": [
+      "思想线",
+      "写作线",
+      "社会改革线",
+      "读书线"
+    ],
+    "tags": [
+      "大众化第一",
+      "普及学术",
+      "社会改革",
+      "人口",
+      "婚姻",
+      "恋爱",
+      "娼妓",
+      "养女",
+      "丧礼",
+      "读物",
+      "少年犯罪",
+      "节育",
+      "独行好汉",
+      "开夜车"
+    ],
+    "people": [
+      "李敖",
+      "Will Durant"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "1959-05-09-human-rights-direction",
+      "daxue-houqi-yi-1959-04-19-sets-graduate-school-hundred-day-plan",
+      "daxue-houqi-yi-1959-05-04-night-work-until-two-thirty-and-talks-with-tricycle-drivers"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-07-dongmen-primary-physical-exam-height-weight-myopia-and-rooftop-view",
+    "date": "1959-05-07",
+    "displayDate": "1959年5月7日",
+    "datePrecision": "day",
+    "title": "李敖赴东门国校体检，记身高体重近视等级，并与系中数人上楼远眺",
+    "summary": "下午，李敖赴东门国校体检，并留信给吴俊才，表示这次不是逃课。他记录体重五十三、身高一七三、一切正常，因近视列为乙等；景新汉血压高一四〇，使他意外。体检后，他与系中数人赴国校三楼顶上远眺。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 57
+    },
+    "view": [
+      "健康线",
+      "校园线",
+      "日常线"
+    ],
+    "tags": [
+      "东门国校",
+      "体检",
+      "吴俊才",
+      "体重五十三",
+      "身高一七三",
+      "近视",
+      "乙等",
+      "景新汉",
+      "血压"
+    ],
+    "people": [
+      "李敖",
+      "吴俊才",
+      "景新汉"
+    ],
+    "places": [
+      "台北",
+      "东门国校"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary"
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-07-talks-with-wu-zhuren-hu-jialun-and-expands-li-ao-type",
+    "date": "1959-05-07",
+    "displayDate": "1959年5月7日",
+    "datePrecision": "day",
+    "title": "李敖夜在吴铸人处与吴铸人、胡家伦谈，被称大名士并自述“李敖之型”",
+    "summary": "夜里，李敖在吴铸人处与吴铸人、胡家伦谈。二人说他是大名士；胡家伦显得活力不足、虚无低潮、少言稳重，自谓能力不足，并说过去曾视李敖为超人，如今视凡人亦觉有可取之处。李敖送胡家伦上三路车后独归，颇有所触，反而更增意气纵横，想使自己的类型发扬光大，称自己的“活力”“亲和力”“嚣张”“豪迈”“自信”“跋扈”构成过人、异人处，并作诗自志。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 59
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 67,
+        "note": "诗末“铲”字次晨改作“锄”。"
+      }
+    ],
+    "view": [
+      "交游线",
+      "自我评价线",
+      "思想线"
+    ],
+    "tags": [
+      "吴铸人",
+      "胡家伦",
+      "大名士",
+      "李敖之型",
+      "活力",
+      "亲和力",
+      "嚣张",
+      "豪迈",
+      "自信",
+      "跋扈",
+      "自志诗"
+    ],
+    "people": [
+      "李敖",
+      "吴铸人",
+      "胡家伦"
+    ],
+    "places": [
+      "台北",
+      "吴铸人处"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-jia-1958-07-23-talks-with-hu-jialun-about-authority-rebellion-and-stability"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-07-helps-find-zhu-chongming-sleeps-at-four-and-notes-elizabeth-taylor-remarriage",
+    "date": "1959-05-07",
+    "displayDate": "1959年5月7日",
+    "datePrecision": "day",
+    "title": "李敖晚助人找朱重明，四时才睡，并记伊丽莎白·泰勒再醮新闻",
+    "summary": "晚上，李敖帮助别人找朱重明，作为自己热心的一例。他同前夜一样，到四时才睡；又见报载伊丽莎白·泰勒再醮，傧相却是前夫之子小麦克·陶德，感叹西方人的作风令人向往。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 69
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 71,
+        "note": "同昨夜一样，四时始睡。"
+      },
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 73,
+        "note": "报载伊丽莎白·泰勒再醮，李敖评论西方人的作风令人向往。"
+      }
+    ],
+    "view": [
+      "日常线",
+      "交游线",
+      "社会观察线"
+    ],
+    "tags": [
+      "朱重明",
+      "热心",
+      "四时始睡",
+      "伊丽莎白·泰勒",
+      "小麦克·陶德",
+      "西方作风"
+    ],
+    "people": [
+      "李敖",
+      "朱重明",
+      "伊丽莎白·泰勒",
+      "小麦克·陶德"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary"
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-08-xray-photo-joke-book-money-movie-night-work-and-pelliot-numbers",
+    "date": "1959-05-08",
+    "displayDate": "1959年5月8日",
+    "datePrecision": "day",
+    "title": "李敖戏称赠人 X 光照片以示肝胆相见；收萧启庆书款、看《夺情记》，并把 Pelliot 号码给方豪",
+    "summary": "李敖戏称何不赠人 X 光照片以示肝胆相见。同日，他收到卖给萧启庆《先秦史》《秦汉史》《两晋南北朝史》五册的一百三十元书款，与许小弟看《夺情记》；夜里开夜车时困了，两点就睡，并警惕近来交际、电影透支精力太多，必须节制。他还把巴黎 Collection Pelliot 号码给方豪。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 77
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 79,
+        "note": "收到卖给萧启庆《先秦史》《秦汉史》《两晋南北朝史》五册书款一三〇元。"
+      },
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 81,
+        "note": "与许小弟看《夺情记》。"
+      },
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 83,
+        "note": "夜开夜车困倦，两点睡，并警惕交际、电影透支精力。"
+      },
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 85,
+        "note": "巴黎 Collection Pelliot 号码给方豪。"
+      }
+    ],
+    "view": [
+      "日常线",
+      "经济线",
+      "电影线",
+      "读书线",
+      "师友线"
+    ],
+    "tags": [
+      "X光照片",
+      "肝胆相见",
+      "萧启庆",
+      "书款",
+      "先秦史",
+      "秦汉史",
+      "两晋南北朝史",
+      "夺情记",
+      "许小弟",
+      "开夜车",
+      "Collection Pelliot",
+      "方豪"
+    ],
+    "people": [
+      "李敖",
+      "萧启庆",
+      "许小弟",
+      "方豪"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "大学后期日记乙集",
+      "先秦史",
+      "秦汉史",
+      "两晋南北朝史",
+      "夺情记"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-05-04-receives-two-hundred-from-fu-lecheng-for-china-history",
+      "daxue-houqi-yi-1959-05-04-night-work-until-two-thirty-and-talks-with-tricycle-drivers",
+      "daxue-houqi-yi-1959-04-08-asks-fang-hao-to-arrange-photographing-paris-dunhuang-scrolls"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-09-campus-with-songran-sees-rosa-and-lu-huadong-praises-fame",
+    "date": "1959-05-09",
+    "displayDate": "1959年5月9日",
+    "datePrecision": "day",
+    "title": "李敖陪翁松燃逛校园见到 Rosa 有所触，卢华栋称台大学生不知李敖等于白念",
+    "summary": "上午，李敖陪翁松燃逛校园，看到 Rosa，颇有所触，并感叹又是一年的五月。卢华栋则说，台大学生若不知道李敖，那台大也白念了。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 89
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 91,
+        "note": "卢华栋称台大学生若不知道李敖，台大也白念了。"
+      }
+    ],
+    "view": [
+      "校园线",
+      "交游线",
+      "自我评价线",
+      "感情线"
+    ],
+    "tags": [
+      "翁松燃",
+      "校园",
+      "Rosa",
+      "五月",
+      "卢华栋",
+      "台大",
+      "知名度"
+    ],
+    "people": [
+      "李敖",
+      "翁松燃",
+      "Rosa",
+      "卢华栋"
+    ],
+    "places": [
+      "台北",
+      "台湾大学"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-03-03-meets-rosa-at-classroom-side-door-with-expressionless-expression",
+      "daxue-houqi-yi-1959-02-22-farewell-songran-with-friends-cards-and-dinner-at-shouer-kang"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-09-says-he-thought-solitude-time-gives-stability-and-reading",
+    "date": "1959-05-09",
+    "displayDate": "1959年5月9日",
+    "datePrecision": "day",
+    "title": "李敖在外文系图书馆背面读书时说他想到每日应有许多独处时间",
+    "summary": "李敖在外文系图书馆背面读书时说他想到，自己每天应该有许多“独处的时间”，这种时间使他有定力，并且可以多读书。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 93
+    },
+    "view": [
+      "读书线",
+      "日常线",
+      "思想线"
+    ],
+    "tags": [
+      "外文系图书馆",
+      "独处的时间",
+      "定力",
+      "读书"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台北",
+      "台湾大学",
+      "外文系图书馆"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-04-23-warns-social-time-too-much-solitude-best"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-09-inscribes-twenty-fourth-year-photos-to-zhaozhen-and-zhuangyin",
+    "date": "1959-05-09",
+    "displayDate": "1959年5月9日",
+    "datePrecision": "day",
+    "title": "李敖题赠“二十四岁造像”照片给袁兆真与庄因",
+    "summary": "李敖在照片上题赠一对小情人：一张写“李敖二十四岁造像”，送给袁兆真珍藏；另一张写“李敖二十四岁造像，鼻子之大，较之庄因略无逊色”，题赠庄因。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 95
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 97,
+        "note": "送给袁兆真珍藏。"
+      },
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 99,
+        "note": "题赠庄因，并戏称自己鼻子之大较庄因略无逊色。"
+      }
+    ],
+    "view": [
+      "日常线",
+      "交游线",
+      "自我形象线"
+    ],
+    "tags": [
+      "照片",
+      "二十四岁造像",
+      "袁兆真",
+      "庄因",
+      "题赠"
+    ],
+    "people": [
+      "李敖",
+      "袁兆真",
+      "庄因"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-04-25-twenty-fourth-birthday-hospital-condensed-milk-photo-books-and-lunch-banquet",
+      "daxue-houqi-yi-1959-05-02-gets-photos-with-ma-and-treats-man-of-west"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-09-shouerkang-farewell-songran-movie-nichao-and-marriage-tragedy",
+    "date": "1959-05-09",
+    "displayDate": "1959年5月9日",
+    "datePrecision": "day",
+    "title": "李敖午与彦增、庄因、英善合宴翁松燃于寿尔康，后看《逆潮》并说婚姻为大悲剧",
+    "summary": "中午，李敖与陈彦增、庄因、孙英善合宴翁松燃于寿尔康。随后翁松燃请他们到新生看电影《逆潮》；出来后，李敖与陈彦增谈到结婚不得，认为婚姻是大悲剧。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 101
+    },
+    "view": [
+      "交游线",
+      "日常线",
+      "电影线",
+      "思想线"
+    ],
+    "tags": [
+      "翁松燃",
+      "陈彦增",
+      "庄因",
+      "孙英善",
+      "寿尔康",
+      "新生",
+      "逆潮",
+      "婚姻",
+      "大悲剧"
+    ],
+    "people": [
+      "李敖",
+      "陈彦增",
+      "庄因",
+      "孙英善",
+      "翁松燃"
+    ],
+    "places": [
+      "台北",
+      "寿尔康",
+      "新生"
+    ],
+    "works": [
+      "大学后期日记乙集",
+      "逆潮"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-04-20-agrees-with-bachelor-hague-on-love-and-marriage",
+      "daxue-houqi-yi-1959-02-22-farewell-songran-with-friends-cards-and-dinner-at-shouer-kang"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-09-wu-xiangxiang-memorial-issue-meeting-tutoring-campus-walk",
+    "date": "1959-05-09",
+    "displayDate": "1959年5月9日",
+    "datePrecision": "day",
+    "title": "吴相湘说要送纪念刊给李敖；李敖晚开干事会、教书并与庄陈翁校园散步",
+    "summary": "吴相湘说要送一册纪念刊给李敖。同日晚七时，李敖在临十一开干事会，只开二十分钟就去教书；夜里又与庄因、陈彦增、翁松燃在校园散步。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 103
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 105,
+        "note": "七时在临十一开干事会，只开二十分钟就教书去。"
+      },
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 107,
+        "note": "夜与庄、陈、翁在校园散步。"
+      }
+    ],
+    "view": [
+      "校园线",
+      "交游线",
+      "职业线",
+      "师友线"
+    ],
+    "tags": [
+      "吴相湘",
+      "纪念刊",
+      "干事会",
+      "临十一",
+      "教书",
+      "庄因",
+      "陈彦增",
+      "翁松燃",
+      "校园散步"
+    ],
+    "people": [
+      "李敖",
+      "吴相湘",
+      "庄因",
+      "陈彦增",
+      "翁松燃"
+    ],
+    "places": [
+      "台北",
+      "台湾大学",
+      "临十一"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-05-05-starts-tutoring-and-yu-junzhi-praises-literary-talent",
+      "daxue-houqi-yi-1959-04-24-says-he-thought-from-wu-xiangxiang-matter-why-in-vain"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-10-dazhong-seal-stone-songran-cigarettes-and-bitan-rowing",
+    "date": "1959-05-10",
+    "displayDate": "1959年5月10日",
+    "datePrecision": "day",
+    "title": "李敖陪孟大中购印石、送翁松燃纸烟，并与景新汉等碧潭游划船",
+    "summary": "上午，李敖陪孟大中购印石，并在大新吃杨梅冰淇淋谈话。中午，他以纸烟一包送翁松燃出行。下午，他与景新汉、庄因、陈彦增作碧潭游，并大划船，自称技术最高；旁人看他的黑长袍，说“又一个神父”“这是神父吗？”",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 113
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 115,
+        "note": "午以纸烟一包送翁行。"
+      },
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 117,
+        "note": "与景、庄、陈作碧潭游，划船并被人误称神父。"
+      }
+    ],
+    "view": [
+      "日常线",
+      "交游线",
+      "游历线"
+    ],
+    "tags": [
+      "孟大中",
+      "印石",
+      "大新",
+      "杨梅冰淇淋",
+      "翁松燃",
+      "纸烟",
+      "碧潭",
+      "划船",
+      "黑长袍",
+      "神父"
+    ],
+    "people": [
+      "李敖",
+      "孟大中",
+      "翁松燃",
+      "景新汉",
+      "庄因",
+      "陈彦增"
+    ],
+    "places": [
+      "台北",
+      "大新",
+      "碧潭"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-04-05-bitan-trip-with-ma-zhuang-chen-and-religion-quip"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-10-xu-praises-scholar-look-voice-and-playfulness",
+    "date": "1959-05-10",
+    "displayDate": "1959年5月10日",
+    "datePrecision": "day",
+    "title": "徐称李敖很有学问的样子、声音好听，说话真好玩",
+    "summary": "徐称李敖“很有学问的样子”，又说他声音很好听、说话真好玩。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 119
+    },
+    "view": [
+      "自我评价线",
+      "交游线"
+    ],
+    "tags": [
+      "徐",
+      "有学问的样子",
+      "声音好听",
+      "说话好玩"
+    ],
+    "people": [
+      "李敖",
+      "徐"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-05-07-talks-with-wu-zhuren-hu-jialun-and-expands-li-ao-type"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-10-jing-home-brutus-friend-sand-theory-considerateness-and-bad-man-comment",
+    "date": "1959-05-10",
+    "displayDate": "1959年5月10日",
+    "datePrecision": "day",
+    "title": "李敖夜在景家宣传布鲁塔斯精神与朋友沙子论，景新汉称其能体贴人，庄因称其够资格做大坏蛋",
+    "summary": "夜里，李敖在景新汉家，庄因、陈彦增群集；因李敖 Anti 老马，老马未至。李敖一再宣传杀凯撒的 Brutus 是世上最伟大的朋友，提倡“朋友沙子论”和“布鲁塔斯精神”。景新汉说他颇能体贴人，李敖认为自己该更如此且此点无人能及；庄因说他“做大坏蛋极够资格”，后来李敖加按说自己的伟大在于能够坏而不肯坏、有本领去坏而一心去好。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 121
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 123,
+        "note": "景言李敖颇能体贴人。"
+      },
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 125,
+        "note": "庄因称李敖做大坏蛋极够资格，敖按解释坏而不肯坏。"
+      }
+    ],
+    "view": [
+      "交游线",
+      "思想线",
+      "自我评价线"
+    ],
+    "tags": [
+      "景家",
+      "景新汉",
+      "庄因",
+      "陈彦增",
+      "老马",
+      "Anti老马",
+      "Brutus",
+      "布鲁塔斯精神",
+      "朋友沙子论",
+      "体贴人",
+      "大坏蛋"
+    ],
+    "people": [
+      "李敖",
+      "景新汉",
+      "庄因",
+      "陈彦增",
+      "老马",
+      "Brutus",
+      "凯撒"
+    ],
+    "places": [
+      "台北",
+      "景家"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-03-04-friend-sand-theory-for-utilitarian-friends",
+      "daxue-houqi-yi-1959-04-22-practices-friend-sand-theory-with-eternal-indifference",
+      "daxue-houqi-yi-1959-04-30-night-at-zhou-home-reflects-not-considerate-enough"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-11-meets-mimi-y-looks-and-criticizes-yusheng-with-zhang-hao",
+    "date": "1959-05-11",
+    "displayDate": "1959年5月11日",
+    "datePrecision": "day",
+    "title": "李敖路上碰到咪咪、在参考室受 Y 注视，并与张灏大骂毓生",
+    "summary": "李敖在路上碰到咪咪，又记参考室 Y 看他。随后，他与张灏大骂毓生无骨头、无耻。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 129
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 131,
+        "note": "与张灏大骂毓生之无骨头、无耻。"
+      }
+    ],
+    "view": [
+      "日常线",
+      "交游线",
+      "感情线"
+    ],
+    "tags": [
+      "咪咪",
+      "参考室",
+      "Y",
+      "张灏",
+      "毓生",
+      "无骨头",
+      "无耻"
+    ],
+    "people": [
+      "李敖",
+      "咪咪",
+      "Y",
+      "张灏",
+      "毓生"
+    ],
+    "places": [
+      "台北",
+      "台湾大学",
+      "参考室"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary"
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-11-resolves-daily-one-thesis-chapter-and-self-praise-portrait",
+    "date": "1959-05-11",
+    "displayDate": "1959年5月11日",
+    "datePrecision": "day",
+    "title": "李敖决定今日起每日完成一章论文，并写自赞文字描摹自己的笑脸、傲岸与才华",
+    "summary": "李敖决定今日起每日完成一章论文。他又写“李敖自赞的话”，说自己永远带着玩世不恭的笑脸和忍俊不禁的尊容，眉宇间流露无限傲岸与自许，才华四溢的谈吐中还能感到不可救药的刚毅与轻松。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 133
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 137,
+        "note": "自赞文字详述玩世不恭的笑脸、傲岸自许、才华四溢与刚毅轻松。"
+      }
+    ],
+    "view": [
+      "论文线",
+      "写作线",
+      "自我评价线"
+    ],
+    "tags": [
+      "论文",
+      "每日一章",
+      "自赞",
+      "玩世不恭",
+      "傲岸",
+      "自许",
+      "才华",
+      "刚毅",
+      "轻松"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台北",
+      "台湾大学"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-04-19-sets-graduate-school-hundred-day-plan",
+      "daxue-houqi-yi-1959-04-21-refines-graduate-school-hundred-day-plan-details"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-11-li-xuanbo-on-lupu-biji-and-book-series-edition",
+    "date": "1959-05-11",
+    "displayDate": "1959年5月11日",
+    "datePrecision": "day",
+    "title": "李玄伯告诉李敖《芦浦笔记》北虏部分被删，并说明《笔记小说大观》版本",
+    "summary": "李玄伯告诉李敖，刘昌诗《芦浦笔记》中言北虏部分被删去；又说《笔记小说大观》是进步书局影印文明书局“说库”本。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 139
+    },
+    "view": [
+      "读书线",
+      "师友线",
+      "学术线"
+    ],
+    "tags": [
+      "李玄伯",
+      "刘昌诗",
+      "芦浦笔记",
+      "北虏",
+      "笔记小说大观",
+      "进步书局",
+      "文明书局",
+      "说库"
+    ],
+    "people": [
+      "李敖",
+      "李玄伯",
+      "刘昌诗"
+    ],
+    "places": [
+      "台北",
+      "台湾大学"
+    ],
+    "works": [
+      "大学后期日记乙集",
+      "芦浦笔记",
+      "笔记小说大观"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-04-27-li-xuanbo-invites-li-to-rickshaw-and-says-people-think-he-is-professor"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-11-shugu-yaozu-say-li-ao-lovable-and-wu-xiangxiang-gives-may-fourth-special-issue",
+    "date": "1959-05-11",
+    "displayDate": "1959年5月11日",
+    "datePrecision": "day",
+    "title": "述古称李敖可爱，耀祖称可爱得讨厌；吴相湘送《五四爱国运动四十周年纪念特刊》",
+    "summary": "述古说“李敖可爱”，耀祖说他“可爱得讨厌”。同日，吴相湘送给李敖《五四爱国运动四十周年纪念特刊》。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 141
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 143,
+        "note": "吴相湘送《五四爱国运动四十周年纪念特刊》。"
+      }
+    ],
+    "view": [
+      "交游线",
+      "自我评价线",
+      "读书线",
+      "师友线"
+    ],
+    "tags": [
+      "述古",
+      "耀祖",
+      "可爱",
+      "可爱得讨厌",
+      "吴相湘",
+      "五四爱国运动四十周年纪念特刊"
+    ],
+    "people": [
+      "李敖",
+      "述古",
+      "耀祖",
+      "吴相湘"
+    ],
+    "places": [
+      "台北",
+      "台湾大学"
+    ],
+    "works": [
+      "大学后期日记乙集",
+      "五四爱国运动四十周年纪念特刊"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-05-09-wu-xiangxiang-memorial-issue-meeting-tutoring-campus-walk"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-11-writes-birthday-poem-for-creditor-chen-yanzeng",
+    "date": "1959-05-11",
+    "displayDate": "1959年5月11日",
+    "datePrecision": "day",
+    "title": "李敖写《债主陈彦增寿诗》，戏写彦增生日、借钱不还与朋友情味",
+    "summary": "李敖写《债主陈彦增寿诗》，称陈彦增“小朋友”，说二人认识快四年，“同声又同臭”。诗中戏写彦增今天过生日却不肯度寿，不去电影院、不吃酱爆肉、不喝“洗脚水”、不念金箍咒，专门闹情绪、脸蛋瘦、不爱说话；又戏写李敖不还债、钱又不够，彦增要骂不敢骂、要揍不忍揍，借钱没利息反要打折扣，穷得像夜壶漏，还提到王妈与因吃醋而想“擦擦擦擦”的阿 Q。注中引《水浒传》孙二娘对武松“由你奸似鬼，喝了老娘洗脚水”。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 145
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 147,
+        "note": "诗题为《债主陈彦增寿诗》。"
+      },
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 157,
+        "note": "诗中写陈彦增今天过生日却不肯度寿。"
+      },
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 177,
+        "note": "诗中戏写李敖不还债、借钱没利息反要打折扣。"
+      },
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 205,
+        "note": "注引《水浒传》孙二娘对武松“洗脚水”语。"
+      }
+    ],
+    "view": [
+      "诗作线",
+      "交游线",
+      "日常线"
+    ],
+    "tags": [
+      "陈彦增",
+      "寿诗",
+      "债主",
+      "生日",
+      "酱爆肉",
+      "洗脚水",
+      "金箍咒",
+      "借钱",
+      "水浒传",
+      "孙二娘",
+      "武松"
+    ],
+    "people": [
+      "李敖",
+      "陈彦增",
+      "王妈",
+      "阿Q",
+      "孙二娘",
+      "武松"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "大学后期日记乙集",
+      "债主陈彦增寿诗",
+      "水浒传"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-04-25-yanzeng-treats-movie-and-night-zhenbeiping-banquet"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-11-zhou-guangming-talks-li-ao-with-yingshan-from-hu-songping-and-p-women-weariness",
+    "date": "1959-05-11",
+    "displayDate": "1959年5月11日",
+    "datePrecision": "day",
+    "title": "周广铭与英善谈李敖，提胡颂平与 P 事；李敖说自己倦于任何女人关系",
+    "summary": "周广铭早上与孙英善大谈李敖，并说从胡颂平处知道李敖甚熟，又谈到李敖与 P 的事。李敖则说自己甚倦游于与任何女人的关系。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 207
+    },
+    "view": [
+      "交游线",
+      "感情线",
+      "胡适线"
+    ],
+    "tags": [
+      "周广铭",
+      "孙英善",
+      "胡颂平",
+      "P",
+      "女人关系",
+      "倦游"
+    ],
+    "people": [
+      "李敖",
+      "周广铭",
+      "孙英善",
+      "胡颂平",
+      "P"
+    ],
+    "places": [
+      "台北",
+      "台湾大学"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "1959-04-30-hu-shih-hospital",
+      "li-ao-yulu-1959-04-23-diary-resolves-no-contact-with-women",
+      "daxue-houqi-yi-1959-05-03-p-home-dance-party-applause-social-ability-and-early-leaves"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-11-tongjian-class-jokes-huang-shulan-and-weng-jing-asks-for-photo",
+    "date": "1959-05-11",
+    "displayDate": "1959年5月11日",
+    "datePrecision": "day",
+    "title": "李敖通鉴课上开黄淑兰玩笑，翁京等索照片，国际照相馆称他去照了一张“玉照”",
+    "summary": "李敖在通鉴课上开黄淑兰玩笑；翁京等人向他索照片，国际照相馆则告诉他们李敖去照了一张“玉照”。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 209
+    },
+    "view": [
+      "校园线",
+      "日常线",
+      "交游线"
+    ],
+    "tags": [
+      "通鉴课",
+      "黄淑兰",
+      "翁京",
+      "照片",
+      "国际照相馆",
+      "玉照"
+    ],
+    "people": [
+      "李敖",
+      "黄淑兰",
+      "翁京"
+    ],
+    "places": [
+      "台北",
+      "台湾大学",
+      "国际照相馆"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-05-09-inscribes-twenty-fourth-year-photos-to-zhaozhen-and-zhuangyin"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-12-buys-fan-for-yingshan-and-books-for-yanzeng",
+    "date": "1959-05-12",
+    "displayDate": "1959年5月12日",
+    "datePrecision": "day",
+    "title": "李敖上午为英善买扇子，并为彦增购《巴黎忆语》《父与子》《近世十大音乐家》",
+    "summary": "上午，李敖为孙英善买扇子，又为陈彦增购书三种：《巴黎忆语》《父与子》《近世十大音乐家》。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 213
+    },
+    "view": [
+      "日常线",
+      "交游线",
+      "读书线"
+    ],
+    "tags": [
+      "孙英善",
+      "扇子",
+      "陈彦增",
+      "巴黎忆语",
+      "父与子",
+      "近世十大音乐家",
+      "购书"
+    ],
+    "people": [
+      "李敖",
+      "孙英善",
+      "陈彦增"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "大学后期日记乙集",
+      "巴黎忆语",
+      "父与子",
+      "近世十大音乐家"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-05-11-writes-birthday-poem-for-creditor-chen-yanzeng"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-12-yingshan-says-li-considerate-watches-army-drill-and-talks-with-dazhong",
+    "date": "1959-05-12",
+    "displayDate": "1959年5月12日",
+    "datePrecision": "day",
+    "title": "英善夜言李敖对朋友体贴；李敖下午看陆军仪队耍花枪，夜与大中谈应对事",
+    "summary": "夜里，孙英善说李敖对朋友体贴，李敖认为自己应当更大力为之。下午，他看陆军仪队耍花枪；夜里又与孟大中谈应对之事。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 215
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 217,
+        "note": "下午看陆军仪队耍花枪。"
+      },
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 219,
+        "note": "夜与孟大中谈应对事。"
+      }
+    ],
+    "view": [
+      "交游线",
+      "日常线",
+      "自我修养线"
+    ],
+    "tags": [
+      "孙英善",
+      "体贴朋友",
+      "陆军仪队",
+      "耍花枪",
+      "孟大中",
+      "应对"
+    ],
+    "people": [
+      "李敖",
+      "孙英善",
+      "孟大中"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-05-10-jing-home-brutus-friend-sand-theory-considerateness-and-bad-man-comment",
+      "daxue-houqi-yi-1959-05-10-dazhong-seal-stone-songran-cigarettes-and-bitan-rowing"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-13-sends-letter-and-three-inscribed-books-to-chen-yanzeng",
+    "date": "1959-05-13",
+    "displayDate": "1959年5月13日",
+    "datePrecision": "day",
+    "title": "李敖给“陈彦增老寿星”寄一信三书，并在《巴黎忆语》《父与子》《近世十大音乐家》题字祝寿",
+    "summary": "李敖给“陈彦增老寿星”寄一封信和三本书，并分别题字。《巴黎忆语》题“愿这本书带给你更多罗曼蒂克的梦幻”，署“翁袁孙李名不正肃”；《父与子》题为“虚无主义的杰作”，署李敖率松燃、祝泰、英善同祝；《近世十大音乐家》题“此曲只应天上有，斯人莫道世间无”，署松燃、祝泰、英善跟李敖“有志一同”。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 223
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 225,
+        "note": "《巴黎忆语》题字，祝更多罗曼蒂克的梦幻。"
+      },
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 227,
+        "note": "《父与子》题字，称为虚无主义的杰作。"
+      },
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 229,
+        "note": "《近世十大音乐家》题字，寄贺陈彦增生日。"
+      }
+    ],
+    "view": [
+      "书信线",
+      "交游线",
+      "读书线",
+      "生日线"
+    ],
+    "tags": [
+      "陈彦增",
+      "老寿星",
+      "生日",
+      "题字",
+      "巴黎忆语",
+      "父与子",
+      "近世十大音乐家",
+      "翁松燃",
+      "祝泰",
+      "孙英善"
+    ],
+    "people": [
+      "李敖",
+      "陈彦增",
+      "翁松燃",
+      "祝泰",
+      "孙英善",
+      "袁兆真"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "大学后期日记乙集",
+      "巴黎忆语",
+      "父与子",
+      "近世十大音乐家"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-05-11-writes-birthday-poem-for-creditor-chen-yanzeng",
+      "daxue-houqi-yi-1959-05-12-buys-fan-for-yingshan-and-books-for-yanzeng"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-13-records-nine-old-ma-sayings-on-weakness-present-and-vitality",
+    "date": "1959-05-13",
+    "displayDate": "1959年5月13日",
+    "datePrecision": "day",
+    "title": "李敖记录老马九条谈话，涉及约翰克利斯朵夫、软弱、把握现在、凤山应付能力与活力",
+    "summary": "李敖记录老马九条谈话：老马竟说约翰克利斯朵夫有时也堕落；说“软弱有时很可爱”；说自己不是和尚或圣人，动凡心无妨；主张把握现在而不要有目的，高兴什么就干什么，将来无法把握，不必为将来发狂；又说李敖在凤山有应付能力，提到 Jonathan Swift 等人无比的活力，嫌李敖人事太繁，并说“我现在是很脆弱的”。李敖最后判断老马一些莫名其妙话可以原谅，但不能同情。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 231
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 237,
+        "note": "老马谈把握现在而不要有目的。"
+      },
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 239,
+        "note": "老马说李敖在凤山有应付能力。"
+      },
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 241,
+        "note": "提 Jonathan Swift 等人无比的活力。"
+      },
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 247,
+        "note": "李敖判断老马莫名其妙话可以被原谅，不可被同情。"
+      }
+    ],
+    "view": [
+      "交游线",
+      "思想线",
+      "自我修养线"
+    ],
+    "tags": [
+      "老马",
+      "马宏祥",
+      "约翰克利斯朵夫",
+      "软弱",
+      "把握现在",
+      "凤山",
+      "Jonathan Swift",
+      "活力",
+      "人事太繁",
+      "脆弱"
+    ],
+    "people": [
+      "李敖",
+      "马宏祥",
+      "Jonathan Swift"
+    ],
+    "places": [
+      "台北",
+      "凤山"
+    ],
+    "works": [
+      "大学后期日记乙集",
+      "约翰克利斯朵夫"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-05-15-old-ma-letter-on-friend-sand-theory-and-sticky-passion",
+      "daxue-houqi-yi-1959-01-02-long-talk-with-ma-and-jing-at-dali-street-on-love-knowledge-ideal-and-ro-main-rolland"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-13-carves-seal-new-level-from-one-thirty-to-three",
+    "date": "1959-05-13",
+    "displayDate": "1959年5月13日",
+    "datePrecision": "day",
+    "title": "李敖夜里一点半至三点刻成一印，认为治印自此进入新层次",
+    "summary": "李敖刻印一颗，是今晚一点半至三点的作品；原日记图删，说明最上为样张，下六图为不同盖法所得样式。他认为自己的治印自此进入新层次。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 249
+    },
+    "view": [
+      "日常线",
+      "艺术线",
+      "自我修养线"
+    ],
+    "tags": [
+      "刻印",
+      "治印",
+      "样张",
+      "新层次",
+      "夜间工作"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-01-05-spends-two-hours-carving-seal-and-night-unfinished-letter-to-p",
+      "daxue-houqi-yi-1959-05-10-dazhong-seal-stone-songran-cigarettes-and-bitan-rowing"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-13-tennessee-williams-quote-and-divorce-letter-study",
+    "date": "1959-05-13",
+    "displayDate": "1959年5月13日",
+    "datePrecision": "day",
+    "title": "李敖记田纳西关于女人之爱的说法，并连续研究离书、留意心理残忍离婚案",
+    "summary": "李敖记美国剧作家田纳西的话：“一个女人之爱一个男人，只是因为她不愿别人得到他。”他又说昨日今日都在研究离书，并在今日报上看到有人以“心理残忍”为理由而离婚。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 251
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 253,
+        "note": "昨日今日皆研究离书，并见报载以“心理残忍”为理由而离婚者。"
+      }
+    ],
+    "view": [
+      "思想线",
+      "读书线",
+      "婚恋线"
+    ],
+    "tags": [
+      "田纳西",
+      "女人之爱",
+      "离书",
+      "心理残忍",
+      "离婚",
+      "婚姻"
+    ],
+    "people": [
+      "李敖",
+      "田纳西"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-04-20-agrees-with-bachelor-hague-on-love-and-marriage",
+      "daxue-houqi-yi-1959-05-09-shouerkang-farewell-songran-movie-nichao-and-marriage-tragedy"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-14-night-with-dazhong-at-engineering-college-until-one-thirty",
+    "date": "1959-05-14",
+    "displayDate": "1959年5月14日",
+    "datePrecision": "day",
+    "title": "李敖夜与孟大中在工学院，一时半才归",
+    "summary": "夜里，李敖与孟大中在工学院，一时半才回去。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 257
+    },
+    "view": [
+      "日常线",
+      "交游线",
+      "校园线"
+    ],
+    "tags": [
+      "孟大中",
+      "工学院",
+      "一时半"
+    ],
+    "people": [
+      "李敖",
+      "孟大中"
+    ],
+    "places": [
+      "台北",
+      "台湾大学",
+      "工学院"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-05-12-yingshan-says-li-considerate-watches-army-drill-and-talks-with-dazhong"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-15-jing-treats-lunch-writes-for-dazhong-laopo-disturbs-nap-and-shouerkang-dinner",
+    "date": "1959-05-15",
+    "displayDate": "1959年5月15日",
+    "datePrecision": "day",
+    "title": "景新汉请李敖午饭后，李敖为孟大中作书；老破来吵午睡，夜与徐瑗等饭于寿尔康",
+    "summary": "景新汉请李敖午饭后，李敖为孟大中作书；老破又来吵午睡。夜里，李敖与徐瑗、述古、耀祖等在寿尔康吃饭。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 261
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 263,
+        "note": "与徐瑗、述古、耀祖等夜饭于寿尔康。"
+      }
+    ],
+    "view": [
+      "日常线",
+      "交游线",
+      "书法线"
+    ],
+    "tags": [
+      "景新汉",
+      "孟大中",
+      "作书",
+      "老破",
+      "午睡",
+      "徐瑗",
+      "述古",
+      "耀祖",
+      "寿尔康"
+    ],
+    "people": [
+      "李敖",
+      "景新汉",
+      "孟大中",
+      "老破",
+      "徐瑗",
+      "述古",
+      "耀祖"
+    ],
+    "places": [
+      "台北",
+      "寿尔康"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-05-14-night-with-dazhong-at-engineering-college-until-one-thirty"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-15-xu-jiyun-zheng-kedian-praise-professor-demeanor-and-class-girls",
+    "date": "1959-05-15",
+    "displayDate": "1959年5月15日",
+    "datePrecision": "day",
+    "title": "许极允与郑克典说李敖有教授派头，郑又转述班上女生称其风度",
+    "summary": "许极允与郑克典说李敖有教授派头；郑克典还转述其班女生谈到李敖风度。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 265
+    },
+    "view": [
+      "自我评价线",
+      "校园线",
+      "交游线"
+    ],
+    "tags": [
+      "许极允",
+      "郑克典",
+      "教授派头",
+      "女生",
+      "风度"
+    ],
+    "people": [
+      "李敖",
+      "许极允",
+      "郑克典"
+    ],
+    "places": [
+      "台北",
+      "台湾大学"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-05-10-xu-praises-scholar-look-voice-and-playfulness"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-15-starts-smoking-and-blue-shirt-party-reads-self-praise-page",
+    "date": "1959-05-15",
+    "displayDate": "1959年5月15日",
+    "datePrecision": "day",
+    "title": "李敖夜始抽烟；“蓝衣党”程徐王看其自赞页，称冲字也该请客",
+    "summary": "夜里，李敖开始抽烟。午前，“蓝衣党”程、徐、王看他日记中自赞那一页，她们说：“冲你写的字，就该请客。”",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 267
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 269,
+        "note": "“蓝衣党”程、徐、王看李敖日记自赞页，并说冲字就该请客。"
+      }
+    ],
+    "view": [
+      "日常线",
+      "校园线",
+      "自我评价线"
+    ],
+    "tags": [
+      "抽烟",
+      "蓝衣党",
+      "程",
+      "徐",
+      "王",
+      "日记",
+      "自赞",
+      "字",
+      "请客"
+    ],
+    "people": [
+      "李敖",
+      "程",
+      "徐",
+      "王"
+    ],
+    "places": [
+      "台北",
+      "台湾大学"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-05-11-resolves-daily-one-thesis-chapter-and-self-praise-portrait"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-15-old-ma-letter-on-friend-sand-theory-and-sticky-passion",
+    "date": "1959-05-15",
+    "displayDate": "1959年5月15日",
+    "datePrecision": "day",
+    "title": "老马来信说“朋友沙子论”倡导者李敖反是朋友中最热情、黏性最大的人",
+    "summary": "老马来信说，“朋友沙子论”的倡导者李敖竟然是朋友中最热情、黏性最大的人。李敖因而以逻辑八股式语气反问，这是否就是“最冷酷和最热情的是最相近”。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 271
+    },
+    "view": [
+      "交游线",
+      "思想线",
+      "自我评价线"
+    ],
+    "tags": [
+      "老马",
+      "马宏祥",
+      "朋友沙子论",
+      "热情",
+      "黏性最大",
+      "冷酷"
+    ],
+    "people": [
+      "李敖",
+      "马宏祥"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-05-10-jing-home-brutus-friend-sand-theory-considerateness-and-bad-man-comment",
+      "daxue-houqi-yi-1959-04-22-practices-friend-sand-theory-with-eternal-indifference"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-15-huang-zhugui-talks-jiang-tingfu-constitution-hu-shih-love-marriage-and-borrows-human-rights",
+    "date": "1959-05-15",
+    "displayDate": "1959年5月15日",
+    "datePrecision": "day",
+    "title": "黄祝贵夜来询问蒋廷黻归国、修宪等看法，与李敖谈胡适、爱情婚姻，并借走《人权论集》",
+    "summary": "夜里，黄祝贵博士又来谈，询问李敖对蒋廷黻归国及修宪等问题的看法。二人畅谈很久，旁及胡适不受人言、爱情与婚姻问题；李敖对黄祝贵说，自己对他的爱情论实不敢领教。黄祝贵夜十一时半才走，并借去《人权论集》。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 273
+    },
+    "view": [
+      "交游线",
+      "思想线",
+      "政治线",
+      "胡适线",
+      "读书线"
+    ],
+    "tags": [
+      "黄祝贵",
+      "蒋廷黻",
+      "修宪",
+      "胡适",
+      "爱情",
+      "婚姻",
+      "人权论集"
+    ],
+    "people": [
+      "李敖",
+      "黄祝贵",
+      "蒋廷黻",
+      "胡适"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "大学后期日记乙集",
+      "人权论集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "1959-05-09-human-rights-direction",
+      "daxue-houqi-yi-1959-04-10-quotes-jiang-tingfu-criticism-of-hu-shih-directness",
+      "daxue-houqi-yi-1959-04-20-agrees-with-bachelor-hague-on-love-and-marriage"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-15-sets-twenty-four-hour-daily-plan-at-three-forty",
+    "date": "1959-05-15",
+    "displayDate": "1959年5月15日",
+    "datePrecision": "day",
+    "title": "李敖夜三时四十分订每日二十四小时生活计划，安排晚八至晨四工作八小时",
+    "summary": "夜三时四十分，李敖订每日二十四小时生活计划，并记“今晚酷静”。计划为晚八时至早四时工作八小时，早五时至早十一时睡眠六小时，十一至十二时午饭，十五至十六时午睡两小时，十七至十八时晚饭。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 275
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 277,
+        "note": "晚8时至早4时工作八小时。"
+      },
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 279,
+        "note": "早5时至早11时六小时睡眠。"
+      },
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 281,
+        "note": "午饭、午睡、晚饭时间安排。"
+      }
+    ],
+    "view": [
+      "日常线",
+      "读书线",
+      "自我管理线"
+    ],
+    "tags": [
+      "二十四小时生活计划",
+      "工作八小时",
+      "睡眠六小时",
+      "午睡",
+      "酷静",
+      "作息"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-05-01-afternoon-sleep-night-reading-black-curtain-and-yao-talk",
+      "daxue-houqi-yi-1959-05-04-night-work-until-two-thirty-and-talks-with-tricycle-drivers"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-16-jing-waits-without-waking-li-and-tang-yishan-praises-scholar-demeanor",
+    "date": "1959-05-16",
+    "displayDate": "1959年5月16日",
+    "datePrecision": "day",
+    "title": "景新汉晨来等李敖未醒而不叫；沈介绍唐一山，唐久仰李敖并称其学者风度",
+    "summary": "早晨八时半，景新汉来，等李敖到十时仍未醒，不叫而去，李敖说可见其体贴。午前，沈介绍唐一山，唐是江苏盐城人，谈到盐城有风车，并说久仰李敖、称其有学者风度。沈又说李敖招待客人颇勤。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 285
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 287,
+        "note": "沈介绍唐一山，唐称久仰李敖并言其学者风度。"
+      },
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 289,
+        "note": "沈君说李敖招待客人颇勤。"
+      }
+    ],
+    "view": [
+      "交游线",
+      "日常线",
+      "自我评价线"
+    ],
+    "tags": [
+      "景新汉",
+      "体贴",
+      "沈",
+      "唐一山",
+      "江苏盐城",
+      "风车",
+      "久仰",
+      "学者风度",
+      "招待客人"
+    ],
+    "people": [
+      "李敖",
+      "景新汉",
+      "沈",
+      "唐一山"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-05-12-yingshan-says-li-considerate-watches-army-drill-and-talks-with-dazhong",
+      "daxue-houqi-yi-1959-05-15-sets-twenty-four-hour-daily-plan-at-three-forty"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-16-trouble-with-old-ma-and-reflects-on-friend-types-standards-and-communication",
+    "date": "1959-05-16",
+    "displayDate": "1959年5月16日",
+    "datePrecision": "day",
+    "title": "李敖夜与老马闹事后大反省，认为应判别朋友类型、按可言范围相处",
+    "summary": "夜里，李敖与老马闹事后反省，认为自己的大病在于要求某类朋友必须达到某类尺度，若达不到便不耐；老马在这一点最触他意，陈又亮也是如此。他觉得与这类朋友除“渐渐疏远到一个限度”外没有第二办法，对“屡犯不悛”很不满意。李敖承认自己欣赏老马的思想能力，却受够了他乖僻的处友态度，由此领悟这类人可以论学而不足以共处，可以严肃谈问题而不足以愉快处朋友之乐。李敖感慨“做人的技巧”像房子的钥匙，没有钥匙的人即使室内有无限珠宝，也无法凭珠宝与人沟通。他总结自己过去搞错了，一再逼朋友掏出其不能掏出的东西；此后应早早判定人的类型，宁肯牺牲其只能掏出的二分之一，也不再强其所难，以免增加不快乐与失望。最后写下：“不可与言某某者，不可与言某某；跟只能言某某者，宁愿只言某某。”他称这是今晚的大收割，认为大度与宽容需要对象，丈夫处世贵能判别朋友类型而用之、处之。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 291
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 293,
+        "note": "不可与言某某者，不可与言某某。"
+      },
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 295,
+        "note": "跟只能言某某者，宁愿只言某某。"
+      },
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 297,
+        "note": "李敖称这是今晚的大收割，并论判别朋友类型而用之、处之。"
+      }
+    ],
+    "view": [
+      "交游线",
+      "思想线",
+      "自我修养线"
+    ],
+    "tags": [
+      "老马",
+      "马宏祥",
+      "陈又亮",
+      "朋友类型",
+      "朋友尺度",
+      "渐渐疏远",
+      "屡犯不悛",
+      "做人的技巧",
+      "沟通",
+      "大度",
+      "宽容",
+      "大收割"
+    ],
+    "people": [
+      "李敖",
+      "马宏祥",
+      "陈又亮"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-05-15-old-ma-letter-on-friend-sand-theory-and-sticky-passion",
+      "daxue-houqi-yi-1959-05-13-records-nine-old-ma-sayings-on-weakness-present-and-vitality",
+      "daxue-houqi-yi-1959-05-10-jing-home-brutus-friend-sand-theory-considerateness-and-bad-man-comment",
+      "daxue-houqi-yi-1959-04-12-shouerkang-xiaoyaochi-ma-home-and-friends-immaturity-reflection"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-17-talks-with-yanzeng-at-jing-home-and-four-am-wakes-lai-xu-kids",
+    "date": "1959-05-17",
+    "displayDate": "1959年5月17日",
+    "datePrecision": "day",
+    "title": "李敖夜与陈彦增在景家谈到十一时半，四时叫赖、许二小鬼起床后自己才睡",
+    "summary": "夜里，李敖与陈彦增在景新汉家谈到十一时半。夜四时，他叫赖、许二小鬼起床，自己则开始睡，戏称“此时彼落”一词可得新解。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 301
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 303,
+        "note": "夜四时叫赖、许二小鬼起床，自己开始睡，戏解“此时彼落”。"
+      }
+    ],
+    "view": [
+      "日常线",
+      "交游线",
+      "作息线"
+    ],
+    "tags": [
+      "陈彦增",
+      "景家",
+      "景新汉",
+      "十一时半",
+      "赖",
+      "许",
+      "四时",
+      "此时彼落"
+    ],
+    "people": [
+      "李敖",
+      "陈彦增",
+      "景新汉",
+      "赖",
+      "许"
+    ],
+    "places": [
+      "台北",
+      "景家"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-05-13-sends-letter-and-three-inscribed-books-to-chen-yanzeng",
+      "daxue-houqi-yi-1959-05-15-sets-twenty-four-hour-daily-plan-at-three-forty"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-18-jokes-huang-shulan-skips-trip-and-modifies-previous-seal",
+    "date": "1959-05-18",
+    "displayDate": "1959年5月18日",
+    "datePrecision": "day",
+    "title": "李敖开黄淑兰玩笑，决定下星期日不去旅行，夜三时半又修改前刻之印",
+    "summary": "李敖开黄淑兰玩笑；又决定下星期日不去旅行，称“投鼠忌器”。夜三时半，他又修改前刻之印。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 307
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 311,
+        "note": "下星期日不去旅行，投鼠忌器。"
+      },
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 313,
+        "note": "夜三时半又修改前刻之印。"
+      }
+    ],
+    "view": [
+      "日常线",
+      "校园线",
+      "艺术线"
+    ],
+    "tags": [
+      "黄淑兰",
+      "玩笑",
+      "旅行",
+      "投鼠忌器",
+      "修改印章",
+      "治印"
+    ],
+    "people": [
+      "李敖",
+      "黄淑兰"
+    ],
+    "places": [
+      "台北",
+      "台湾大学"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-05-11-tongjian-class-jokes-huang-shulan-and-weng-jing-asks-for-photo",
+      "daxue-houqi-yi-1959-05-13-carves-seal-new-level-from-one-thirty-to-three"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-18-huang-zhugui-gives-hungarian-october-revolution-inscribed",
+    "date": "1959-05-18",
+    "displayDate": "1959年5月18日",
+    "datePrecision": "day",
+    "title": "黄祝贵夜送李敖《匈牙利的十月革命》，题“敖兄教正”",
+    "summary": "夜里，黄祝贵送来《匈牙利的十月革命》，题写“敖兄教正弟黄祝贵敬赠”。李敖觉得太客气了。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 309
+    },
+    "view": [
+      "交游线",
+      "读书线",
+      "政治线"
+    ],
+    "tags": [
+      "黄祝贵",
+      "匈牙利的十月革命",
+      "题赠",
+      "敖兄教正"
+    ],
+    "people": [
+      "李敖",
+      "黄祝贵"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "大学后期日记乙集",
+      "匈牙利的十月革命"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-05-15-huang-zhugui-talks-jiang-tingfu-constitution-hu-shih-love-marriage-and-borrows-human-rights"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-19-plans-after-exams-four-to-noon-sleep-system",
+    "date": "1959-05-19",
+    "displayDate": "1959年5月19日",
+    "datePrecision": "day",
+    "title": "李敖拟在大考过后实行清晨四时至十二时睡眠制",
+    "summary": "李敖计划在大考过后实行清晨四时至十二时的睡眠制度，延续他5月以来不断调整夜间工作、白天睡眠的作息实验。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 317
+    },
+    "view": [
+      "日常线",
+      "自我管理线",
+      "读书线"
+    ],
+    "tags": [
+      "大考",
+      "清晨4-12时睡眠制",
+      "作息",
+      "夜间工作"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-05-15-sets-twenty-four-hour-daily-plan-at-three-forty",
+      "daxue-houqi-yi-1959-05-01-afternoon-sleep-night-reading-black-curtain-and-yao-talk"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-19-lunch-with-shugu-at-shouerkang-says-success-in-being-person",
+    "date": "1959-05-19",
+    "displayDate": "1959年5月19日",
+    "datePrecision": "day",
+    "title": "李敖与述古午饭于寿尔康，谈到自己做人之成功",
+    "summary": "李敖与述古在寿尔康午饭，谈到“我做人之成功”。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 319
+    },
+    "view": [
+      "交游线",
+      "日常线",
+      "自我评价线"
+    ],
+    "tags": [
+      "述古",
+      "寿尔康",
+      "午饭",
+      "做人之成功"
+    ],
+    "people": [
+      "李敖",
+      "述古"
+    ],
+    "places": [
+      "台北",
+      "寿尔康"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-05-16-trouble-with-old-ma-and-reflects-on-friend-types-standards-and-communication",
+      "daxue-houqi-yi-1959-05-11-shugu-yaozu-say-li-ao-lovable-and-wu-xiangxiang-gives-may-fourth-special-issue"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-19-writes-speech-draft-satisfied-until-four-twenty",
+    "date": "1959-05-19",
+    "displayDate": "1959年5月19日",
+    "datePrecision": "day",
+    "title": "李敖夜写演说稿，极满意，至四时二十分才准备上床",
+    "summary": "夜里，李敖写演说稿，觉得极为满意；直到四时二十分才准备上床。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 321
+    },
+    "view": [
+      "写作线",
+      "日常线",
+      "自我评价线"
+    ],
+    "tags": [
+      "演说稿",
+      "极满意",
+      "四时二十分",
+      "夜间工作"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-05-19-plans-after-exams-four-to-noon-sleep-system"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-20-shouerkang-with-qiqing-tianzhong-zhuangyin-couple-and-fu-garden-singing",
+    "date": "1959-05-20",
+    "displayDate": "1959年5月20日",
+    "datePrecision": "day",
+    "title": "李敖与启庆、天中及庄因小两口午饭于寿尔康，随后与萧袁同赴傅园大唱",
+    "summary": "李敖与萧启庆、袁天中及庄因小两口在寿尔康吃午饭；饭后，他与萧、袁同赴傅园，大唱一阵。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 325
+    },
+    "view": [
+      "交游线",
+      "日常线",
+      "音乐线"
+    ],
+    "tags": [
+      "萧启庆",
+      "袁天中",
+      "庄因",
+      "寿尔康",
+      "傅园",
+      "唱歌"
+    ],
+    "people": [
+      "李敖",
+      "萧启庆",
+      "袁天中",
+      "庄因"
+    ],
+    "places": [
+      "台北",
+      "寿尔康",
+      "傅园"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-04-23-qiqing-tianzhong-shouerkang-daxin-moon-viewing-and-singing",
+      "daxue-houqi-yi-1959-03-21-dinner-with-qiqing-at-shouer-kang-walk-back-and-dorm-talk"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-20-warns-huang-shulan-and-he-yuanyi-afraid-of-tomorrow-prank",
+    "date": "1959-05-20",
+    "displayDate": "1959年5月20日",
+    "datePrecision": "day",
+    "title": "李敖警告黄淑兰明天要捣蛋，夜里贺元宜等也怕他明天捣蛋",
+    "summary": "李敖向黄淑兰警告，明天要捣她们的蛋。夜里，贺元宜等也怕他明天捣他们的蛋。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 327
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 333,
+        "note": "夜贺元宜等怕李敖明天捣他们的蛋。"
+      }
+    ],
+    "view": [
+      "校园线",
+      "日常线",
+      "玩笑线"
+    ],
+    "tags": [
+      "黄淑兰",
+      "贺元宜",
+      "捣蛋",
+      "玩笑"
+    ],
+    "people": [
+      "李敖",
+      "黄淑兰",
+      "贺元宜"
+    ],
+    "places": [
+      "台北",
+      "台湾大学"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-05-18-jokes-huang-shulan-skips-trip-and-modifies-previous-seal"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-20-fourth-sister-farewell-xinxing-ice-and-shuiyuandi-station",
+    "date": "1959-05-20",
+    "displayDate": "1959年5月20日",
+    "datePrecision": "day",
+    "title": "四小姐下午来辞行，李敖请她及张霭蓥在新兴吃冰，七时二十三分送至水源地车站",
+    "summary": "下午，四小姐来向李敖辞行。李敖请她及张霭蓥在新兴吃冰，并于七时二十三分送她到水源地车站。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 329
+    },
+    "view": [
+      "交游线",
+      "日常线",
+      "送别线"
+    ],
+    "tags": [
+      "四小姐",
+      "张霭蓥",
+      "辞行",
+      "新兴",
+      "吃冰",
+      "水源地车站",
+      "送别"
+    ],
+    "people": [
+      "李敖",
+      "四小姐",
+      "张霭蓥"
+    ],
+    "places": [
+      "台北",
+      "新兴",
+      "水源地车站"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-05-21-silver-wing-farewell-banquet-for-fourth-sister-with-zhang-ligang-and-zhang-aiying"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-20-shen-says-li-ao-articulate",
+    "date": "1959-05-20",
+    "displayDate": "1959年5月20日",
+    "datePrecision": "day",
+    "title": "沈午称李敖口齿伶俐",
+    "summary": "沈午说李敖口齿伶俐。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 331
+    },
+    "view": [
+      "自我评价线",
+      "交游线"
+    ],
+    "tags": [
+      "沈午",
+      "口齿伶俐"
+    ],
+    "people": [
+      "李敖",
+      "沈午"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-05-19-writes-speech-draft-satisfied-until-four-twenty"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-21-designs-new-year-birthday-and-birthday-greeting-cards",
+    "date": "1959-05-21",
+    "displayDate": "1959年5月21日",
+    "datePrecision": "day",
+    "title": "李敖设计新式贺年卡、生日卡、祝寿卡",
+    "summary": "李敖设计新式贺年卡、生日卡、祝寿卡，例如“希望你过年高高兴兴的”。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 337
+    },
+    "view": [
+      "创意线",
+      "日常线",
+      "设计线"
+    ],
+    "tags": [
+      "新式贺年卡",
+      "生日卡",
+      "祝寿卡",
+      "设计",
+      "希望你过年高高兴兴的"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-05-13-sends-letter-and-three-inscribed-books-to-chen-yanzeng"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-21-silver-wing-farewell-banquet-for-fourth-sister-with-zhang-ligang-and-zhang-aiying",
+    "date": "1959-05-21",
+    "displayDate": "1959年5月21日",
+    "datePrecision": "day",
+    "title": "李敖中午与张立纲、张霭蓥在银翼宴四姐，权作送行",
+    "summary": "中午，李敖与张立纲、张霭蓥在银翼宴请四姐，权作送行。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 339
+    },
+    "view": [
+      "交游线",
+      "日常线",
+      "送别线"
+    ],
+    "tags": [
+      "张立纲",
+      "张霭蓥",
+      "四姐",
+      "银翼",
+      "送行"
+    ],
+    "people": [
+      "李敖",
+      "张立纲",
+      "张霭蓥",
+      "四姐"
+    ],
+    "places": [
+      "台北",
+      "银翼"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-05-20-fourth-sister-farewell-xinxing-ice-and-shuiyuandi-station"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-21-watches-class-baseball-bonnie-gives-candy-and-says-fun-at-xinxing-ice",
+    "date": "1959-05-21",
+    "displayDate": "1959年5月21日",
+    "datePrecision": "day",
+    "title": "李敖下午看本班与史三赛球，Bonnie 送糖后说他很好玩，并在新兴与她们吃冰",
+    "summary": "下午，李敖看本班与史三赛球。Bonnie 送糖后说“李敖很好玩”，随后李敖在新兴与她们吃冰。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 341
+    },
+    "view": [
+      "校园线",
+      "交游线",
+      "日常线"
+    ],
+    "tags": [
+      "本班",
+      "史三",
+      "赛球",
+      "Bonnie",
+      "送糖",
+      "很好玩",
+      "新兴",
+      "吃冰"
+    ],
+    "people": [
+      "李敖",
+      "Bonnie"
+    ],
+    "places": [
+      "台北",
+      "台湾大学",
+      "新兴"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-03-10-bonnie-asks-for-candy-after-third-class"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-21-farewell-party-balloon-and-guan-songtao-appendicitis-memory",
+    "date": "1959-05-21",
+    "displayDate": "1959年5月21日",
+    "datePrecision": "day",
+    "title": "李敖夜参加欢送会放气球，并因关颂韬同班追记童年东华医院开盲肠旧事",
+    "summary": "夜里，李敖参加欢送会，放气球玩。他意外发现关颂韬与刘老板同班，并加按说明关颂韬是北平协和医院外科主任，李敖七岁时，即民国三十年，曾在北平东华医院由他开盲肠；关颂韬知道李敖喜欢养鸟，自己也喜欢养鸟，特别送过他一只鸟，现在人在美国。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 343
+    },
+    "view": [
+      "交游线",
+      "回忆线",
+      "健康线"
+    ],
+    "tags": [
+      "欢送会",
+      "放气球",
+      "关颂韬",
+      "刘老板",
+      "北平协和医院",
+      "东华医院",
+      "开盲肠",
+      "民国三十年",
+      "美国"
+    ],
+    "people": [
+      "李敖",
+      "关颂韬",
+      "刘老板"
+    ],
+    "places": [
+      "台北",
+      "北平",
+      "东华医院",
+      "北平协和医院",
+      "美国"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary-with-author-note",
+    "crossReferences": [
+      "1948-appendicitis-donghua-hospital"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-22-watches-the-sad-sack-with-jing-xinhan",
+    "date": "1959-05-22",
+    "displayDate": "1959年5月22日",
+    "datePrecision": "day",
+    "title": "李敖中午与景新汉看《傻人行大运》",
+    "summary": "中午，李敖与景新汉看电影《傻人行大运》。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 347
+    },
+    "view": [
+      "电影线",
+      "交游线",
+      "日常线"
+    ],
+    "tags": [
+      "景新汉",
+      "傻人行大运",
+      "电影"
+    ],
+    "people": [
+      "李敖",
+      "景新汉"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "大学后期日记乙集",
+      "傻人行大运"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-05-15-jing-treats-lunch-writes-for-dazhong-laopo-disturbs-nap-and-shouerkang-dinner"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-22-visitors-from-afternoon-until-midnight",
+    "date": "1959-05-22",
+    "displayDate": "1959年5月22日",
+    "datePrecision": "day",
+    "title": "李敖下午起连续接待祝公、庭生、述古、广诚、大中、黄祝贵，至夜十二时人事方尽",
+    "summary": "下午起，祝公、庭生、述古、广诚、大中、黄祝贵相继来访李敖；直到夜十二时，人事才告一段落。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 349
+    },
+    "view": [
+      "日常线",
+      "交游线"
+    ],
+    "tags": [
+      "祝公",
+      "庭生",
+      "述古",
+      "广诚",
+      "孟大中",
+      "黄祝贵",
+      "来访",
+      "人事",
+      "夜十二时"
+    ],
+    "people": [
+      "李敖",
+      "祝公",
+      "庭生",
+      "述古",
+      "广诚",
+      "孟大中",
+      "黄祝贵"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-05-15-huang-zhugui-talks-jiang-tingfu-constitution-hu-shih-love-marriage-and-borrows-human-rights",
+      "daxue-houqi-yi-1959-05-19-lunch-with-shugu-at-shouerkang-says-success-in-being-person"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-23-zhuangzhe-arrives-north-and-li-wins-chess-against-jia-shen-xu",
+    "date": "1959-05-23",
+    "displayDate": "1959年5月23日",
+    "datePrecision": "day",
+    "title": "庄喆北来；李敖夜棋战大赢贾教官、沈鸿毅、许小弟",
+    "summary": "庄喆北来。夜里，李敖棋战大赢贾教官、沈鸿毅、许小弟。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 353
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 355,
+        "note": "夜棋战大赢贾教官、沈鸿毅、许小弟。"
+      }
+    ],
+    "view": [
+      "交游线",
+      "日常线",
+      "游戏线"
+    ],
+    "tags": [
+      "庄喆",
+      "棋战",
+      "贾教官",
+      "沈鸿毅",
+      "许小弟",
+      "大赢"
+    ],
+    "people": [
+      "李敖",
+      "庄喆",
+      "贾教官",
+      "沈鸿毅",
+      "许小弟"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-05-22-visitors-from-afternoon-until-midnight"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-24-yangmingshan-trip-and-love-of-landscape",
+    "date": "1959-05-24",
+    "displayDate": "1959年5月24日",
+    "datePrecision": "day",
+    "title": "李敖作阳明山之游，并记山水之爱好",
+    "summary": "李敖作阳明山之游，并记下自己对山水的爱好。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 359
+    },
+    "view": [
+      "游历线",
+      "日常线",
+      "审美线"
+    ],
+    "tags": [
+      "阳明山",
+      "山水",
+      "爱好",
+      "游历"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台北",
+      "阳明山"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-03-22-caoshan-yangmingshan-trip-with-friends-cards-chess-waterfall-and-old-ma-girl"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-24-jing-home-old-ma-humanism-and-li-reform-part-to-stand-out",
+    "date": "1959-05-24",
+    "displayDate": "1959年5月24日",
+    "datePrecision": "day",
+    "title": "李敖夜在景家群英会，老马谈人道论，李敖谈改造一部分使一部分脱颖而出论",
+    "summary": "夜里，李敖在景新汉家参加群英会。老马大谈人道论；李敖则大谈“改造一部分，使一部分脱颖而出”之论，并认为自己谈得颇健而有力。老马说李敖很可爱。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 361
+    },
+    "view": [
+      "交游线",
+      "思想线",
+      "自我评价线"
+    ],
+    "tags": [
+      "景家",
+      "群英会",
+      "老马",
+      "马宏祥",
+      "人道论",
+      "改造一部分",
+      "脱颖而出",
+      "健而有力",
+      "可爱"
+    ],
+    "people": [
+      "李敖",
+      "景新汉",
+      "马宏祥"
+    ],
+    "places": [
+      "台北",
+      "景家"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-05-16-trouble-with-old-ma-and-reflects-on-friend-types-standards-and-communication",
+      "daxue-houqi-yi-1959-05-13-records-nine-old-ma-sayings-on-weakness-present-and-vitality",
+      "daxue-houqi-yi-1959-05-10-jing-home-brutus-friend-sand-theory-considerateness-and-bad-man-comment"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-25-rushes-article-for-dazhong",
+    "date": "1959-05-25",
+    "displayDate": "1959年5月25日",
+    "datePrecision": "day",
+    "title": "李敖午后又为孟大中赶“文章”",
+    "summary": "午后，李敖又为孟大中赶“文章”。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 365
+    },
+    "view": [
+      "日常线",
+      "交游线",
+      "写作线"
+    ],
+    "tags": [
+      "孟大中",
+      "赶文章",
+      "代作",
+      "写作"
+    ],
+    "people": [
+      "李敖",
+      "孟大中"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-05-15-jing-treats-lunch-writes-for-dazhong-laopo-disturbs-nap-and-shouerkang-dinner"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-25-loses-temper-and-resolves-solitude-restraint-and-knowing-stop",
+    "date": "1959-05-25",
+    "displayDate": "1959年5月25日",
+    "datePrecision": "day",
+    "title": "李敖夜里大发肝火，反省欠缺独处与内敛，决定练习“知止”",
+    "summary": "夜里，李敖大发肝火，认为这几乎是意料中事。他反省自己欠缺“独处与内敛”，与人长久扩放总会产生轮回性恶果；自己的毛病在于扩放太滥、过度、无聊，沉于棋、贫嘴、丑态，而未使风趣、幽默、敬意达到适中的“止”。他决定从今晚经验起，开始练习“知止”、知其所“止”。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 367
+    },
+    "view": [
+      "思想线",
+      "自我修养线",
+      "日常线"
+    ],
+    "tags": [
+      "大发肝火",
+      "独处与内敛",
+      "扩放",
+      "知止",
+      "风趣",
+      "幽默",
+      "敬意",
+      "自省"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-05-16-trouble-with-old-ma-and-reflects-on-friend-types-standards-and-communication",
+      "daxue-houqi-yi-1959-05-09-says-he-thought-solitude-time-gives-stability-and-reading",
+      "daxue-houqi-yi-1959-02-21-sees-quarrel-at-xinsheng-and-detests-pointless-anger"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-26-anger-too-great-talks-with-mahao-and-zhuangzhe-in-bath",
+    "date": "1959-05-26",
+    "displayDate": "1959年5月26日",
+    "datePrecision": "day",
+    "title": "李敖记肝火太大，夜与马浩小谈，又与庄喆洗澡时大谈",
+    "summary": "李敖记“肝火太大了”。夜里，他与马浩小谈；又在与庄喆洗澡时大谈。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 371
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 373,
+        "note": "夜与马浩小谈；与庄喆洗澡时大谈。"
+      }
+    ],
+    "view": [
+      "日常线",
+      "交游线",
+      "自我修养线"
+    ],
+    "tags": [
+      "肝火",
+      "马浩",
+      "庄喆",
+      "洗澡",
+      "大谈"
+    ],
+    "people": [
+      "李敖",
+      "马浩",
+      "庄喆"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-05-25-loses-temper-and-resolves-solitude-restraint-and-knowing-stop",
+      "daxue-houqi-yi-1959-05-23-zhuangzhe-arrives-north-and-li-wins-chess-against-jia-shen-xu"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-27-records-eisenhower-on-dulles-and-develops-photos-at-international",
+    "date": "1959-05-27",
+    "displayDate": "1959年5月27日",
+    "datePrecision": "day",
+    "title": "李敖记艾克称杜勒斯“勇于生、勇于死”，下午去国际加洗照片",
+    "summary": "李敖记艾克称杜勒斯“勇于生、勇于死”。下午，他去国际加洗照片。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 377
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 379,
+        "note": "下午去国际加洗照片。"
+      }
+    ],
+    "view": [
+      "政治观察线",
+      "日常线",
+      "影像线"
+    ],
+    "tags": [
+      "艾克",
+      "杜勒斯",
+      "勇于生",
+      "勇于死",
+      "国际",
+      "加洗照片"
+    ],
+    "people": [
+      "李敖",
+      "艾森豪威尔",
+      "杜勒斯"
+    ],
+    "places": [
+      "台北",
+      "国际照相馆"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-04-16-notes-dulles-resigned-yesterday",
+      "daxue-houqi-jia-1958-11-22-dulles-scholar-like-politician-and-yingshan-asks-why-live",
+      "daxue-houqi-yi-1959-05-09-inscribes-twenty-fourth-year-photos-to-zhaozhen-and-zhuangyin"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-28-sells-europe-geography-to-shouhui-for-thirty",
+    "date": "1959-05-28",
+    "displayDate": "1959年5月28日",
+    "datePrecision": "day",
+    "title": "李敖卖《欧洲地理》给守晖，得三十元",
+    "summary": "李敖卖《欧洲地理》给守晖，得三十元。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 383
+    },
+    "view": [
+      "日常线",
+      "经济线",
+      "读书线"
+    ],
+    "tags": [
+      "欧洲地理",
+      "守晖",
+      "卖书",
+      "三十元"
+    ],
+    "people": [
+      "李敖",
+      "守晖"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "大学后期日记乙集",
+      "欧洲地理"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-05-04-receives-two-hundred-from-fu-lecheng-for-china-history"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-28-adenauer-attends-dulles-funeral-and-li-values-justice-in-diplomacy",
+    "date": "1959-05-28",
+    "displayDate": "1959年5月28日",
+    "datePrecision": "day",
+    "title": "李敖记阿登纳赴美国参加杜勒斯葬礼，并称杜勒斯能在外交中加入正义和崇高理想",
+    "summary": "李敖记阿登纳亲赴美国参加杜勒斯葬礼，并引阿登纳说，自己飞来是要陪伴老朋友杜勒斯走完最后一段路。李敖认为杜勒斯的伟大，在于他能在专讲利害手段的外交习惯上，加入正义和崇高理想的追求。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 385
+    },
+    "view": [
+      "政治观察线",
+      "思想线"
+    ],
+    "tags": [
+      "阿登纳",
+      "杜勒斯",
+      "葬礼",
+      "美国",
+      "外交",
+      "正义",
+      "崇高理想"
+    ],
+    "people": [
+      "李敖",
+      "阿登纳",
+      "杜勒斯"
+    ],
+    "places": [
+      "台北",
+      "美国"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-05-27-records-eisenhower-on-dulles-and-develops-photos-at-international"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-28-says-he-thought-future-type-between-literature-scholarship-politics-from-wu-xiangxiang-xiao-wang",
+    "date": "1959-05-28",
+    "displayDate": "1959年5月28日",
+    "datePrecision": "day",
+    "title": "李敖由吴相湘找萧、王之事说他想到自己将来应成为介乎文学、学术、政治之间的人物",
+    "summary": "李敖由吴相湘找萧、王之事说他想到，自己将来到底要变成一个什么样的人、一类人。以他的性情、才具、胆量，他认为自己实在是介乎文学、学术、政治之间的人物，而他对自己的期望也是如此。因此，目前的自己应常反问：现在这种工作、态度和作风，是不是有助于未来的大成就。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 387
+    },
+    "view": [
+      "思想线",
+      "自我定位线",
+      "写作线",
+      "政治线"
+    ],
+    "tags": [
+      "吴相湘",
+      "萧",
+      "王",
+      "未来人物类型",
+      "文学",
+      "学术",
+      "政治",
+      "性情",
+      "才具",
+      "胆量",
+      "大成就"
+    ],
+    "people": [
+      "李敖",
+      "吴相湘",
+      "萧",
+      "王"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-05-06-popularizes-scholarship-social-reform-and-night-work-method",
+      "daxue-houqi-yi-1959-05-24-jing-home-old-ma-humanism-and-li-reform-part-to-stand-out",
+      "daxue-houqi-yi-1959-04-24-says-he-thought-from-wu-xiangxiang-matter-why-in-vain"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-28-wants-broader-mind-like-disraeli-and-notes-harsh-judgments-indian-unreality",
+    "date": "1959-05-28",
+    "displayDate": "1959年5月28日",
+    "datePrecision": "day",
+    "title": "李敖说自己心胸该再开广、要像底斯累利，又记尖刻评语与印度人太不现实",
+    "summary": "李敖说自己的心胸该再开广，要像底斯累利那样。同日他又记下“老！胖！奸！丑！脏！恶心！”的尖刻评语，并说印度人太不现实，从无尽的过去到无尽的未来。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 389
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 391,
+        "note": "尖刻评语：“老！胖！奸！丑！脏！恶心！”"
+      },
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 393,
+        "note": "印度人太不现实——从无尽的过去到无尽的未来。"
+      }
+    ],
+    "view": [
+      "思想线",
+      "自我修养线",
+      "观察线"
+    ],
+    "tags": [
+      "心胸开广",
+      "底斯累利",
+      "尖刻评语",
+      "印度人",
+      "不现实"
+    ],
+    "people": [
+      "李敖",
+      "底斯累利"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-05-28-says-he-thought-future-type-between-literature-scholarship-politics-from-wu-xiangxiang-xiao-wang"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-28-sends-may-art-exhibition-invitations-to-wu-juncai-zongzhang-huang",
+    "date": "1959-05-28",
+    "displayDate": "1959年5月28日",
+    "datePrecision": "day",
+    "title": "李敖送五月画展请帖给吴俊才、“总长”、黄等人",
+    "summary": "李敖送五月画展请帖给吴俊才、“总长”、黄等人；按语说明“总长”是陈淑平的外号。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 395
+    },
+    "view": [
+      "交游线",
+      "艺术线",
+      "日常线"
+    ],
+    "tags": [
+      "五月画展",
+      "请帖",
+      "吴俊才",
+      "总长",
+      "陈淑平",
+      "黄"
+    ],
+    "people": [
+      "李敖",
+      "吴俊才",
+      "陈淑平",
+      "黄"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary-with-author-note",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-05-29-views-may-art-exhibition-and-attends-zhongshan-hall-farewell-party"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-29-notes-feelings-when-treating-qiqing-at-youfangyuan",
+    "date": "1959-05-29",
+    "displayDate": "1959年5月29日",
+    "datePrecision": "day",
+    "title": "李敖记夜请启庆于游芳园时的感想，提醒自己勿忘",
+    "summary": "李敖记下夜里请萧启庆于游芳园时的感想，并提醒自己“勿忘也”。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 399
+    },
+    "view": [
+      "交游线",
+      "日常线",
+      "自省线"
+    ],
+    "tags": [
+      "萧启庆",
+      "游芳园",
+      "感想",
+      "勿忘"
+    ],
+    "people": [
+      "李敖",
+      "萧启庆"
+    ],
+    "places": [
+      "台北",
+      "游芳园"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-05-20-shouerkang-with-qiqing-tianzhong-zhuangyin-couple-and-fu-garden-singing"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-29-views-may-art-exhibition-and-attends-zhongshan-hall-farewell-party",
+    "date": "1959-05-29",
+    "displayDate": "1959年5月29日",
+    "datePrecision": "day",
+    "title": "李敖看五月画展，并赴中山堂参加欢送晚会看西班牙舞、芭蕾、恰恰与电影",
+    "summary": "李敖看五月画展。随后，他赴中山堂参加欢送晚会，节目有西班牙舞、芭蕾、恰恰等舞，以及电影 Melbourne Olympic City 和 Tammy & The Bachelor。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 401
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 403,
+        "note": "中山堂欢送晚会有西班牙舞、芭蕾、恰恰及两部电影。"
+      }
+    ],
+    "view": [
+      "艺术线",
+      "日常线",
+      "电影线",
+      "交游线"
+    ],
+    "tags": [
+      "五月画展",
+      "中山堂",
+      "欢送晚会",
+      "西班牙舞",
+      "芭蕾",
+      "恰恰",
+      "Melbourne Olympic City",
+      "Tammy & The Bachelor"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台北",
+      "中山堂"
+    ],
+    "works": [
+      "大学后期日记乙集",
+      "Melbourne Olympic City",
+      "Tammy & The Bachelor"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-05-28-sends-may-art-exhibition-invitations-to-wu-juncai-zongzhang-huang"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-29-talks-with-yingshan-from-nihility-to-ambition-and-resolves-become-capable-after-dulles-death",
+    "date": "1959-05-29",
+    "displayDate": "1959年5月29日",
+    "datePrecision": "day",
+    "title": "李敖夜感触多，由虚无转与英善大谈大野心大事业，并因杜勒斯之死欲把自己造成“有办法”的人",
+    "summary": "夜里，李敖感触颇多，觉得不是消极而实是虚无。因与孙英善大谈，从目前小事谈到将来大野心、大事业，他顿觉畅然。自杜勒斯死后，李敖颇欲把自己造成一个“有办法”的人；既自知别人不行，他一定要加深自己的行，使自己行起来。他觉得自己的努力工作还不够，因此要加紧，每夜四时方能睡。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 405
+    },
+    "view": [
+      "思想线",
+      "自我修养线",
+      "交游线"
+    ],
+    "tags": [
+      "孙英善",
+      "虚无",
+      "大野心",
+      "大事业",
+      "杜勒斯",
+      "有办法的人",
+      "努力工作",
+      "每夜四时"
+    ],
+    "people": [
+      "李敖",
+      "孙英善",
+      "杜勒斯"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-05-28-adenauer-attends-dulles-funeral-and-li-values-justice-in-diplomacy",
+      "daxue-houqi-yi-1959-05-28-says-he-thought-future-type-between-literature-scholarship-politics-from-wu-xiangxiang-xiao-wang",
+      "daxue-houqi-yi-1959-05-19-writes-speech-draft-satisfied-until-four-twenty"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-30-teases-mahao-at-may-art-exhibition-room",
+    "date": "1959-05-30",
+    "displayDate": "1959年5月30日",
+    "datePrecision": "day",
+    "title": "李敖下午在五月画展室消遣马浩等人",
+    "summary": "下午，李敖在五月画展室消遣马浩等人。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 409
+    },
+    "view": [
+      "艺术线",
+      "交游线",
+      "日常线"
+    ],
+    "tags": [
+      "五月画展室",
+      "马浩",
+      "消遣"
+    ],
+    "people": [
+      "李敖",
+      "马浩"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-05-29-views-may-art-exhibition-and-attends-zhongshan-hall-farewell-party"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-30-buys-frame-with-yanzeng-for-xianlin-and-writes-wedding-letter",
+    "date": "1959-05-30",
+    "displayDate": "1959年5月30日至31日晨",
+    "datePrecision": "day",
+    "title": "李敖傍晚与陈彦增为咸林买镜框，夜写给幼茵、咸林的新婚贺信",
+    "summary": "傍晚，李敖与陈彦增为咸林买镜框；夜里写信给新娘幼茵、新郎咸林。信中说陈彦增因受训、李敖因考试，实在无法分身前往台中参加二人大喜事，只好寄上一件小礼物，表示“两光棍的大意思”，遥祝新婚燕尔、笑口常开，并请多多帮忙。信署“彦增、敖”，时间为1959年5月31日晨。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 411
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 413,
+        "note": "信中说明不能赴台中参加婚礼，只好寄小礼物。"
+      },
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "005.1959年5月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+        "line": 415,
+        "note": "信署“彦增、敖”，1959年5月31日晨。"
+      }
+    ],
+    "view": [
+      "书信线",
+      "交游线",
+      "婚礼线"
+    ],
+    "tags": [
+      "陈彦增",
+      "咸林",
+      "幼茵",
+      "镜框",
+      "新婚贺信",
+      "台中",
+      "小礼物",
+      "两光棍"
+    ],
+    "people": [
+      "李敖",
+      "陈彦增",
+      "咸林",
+      "幼茵"
+    ],
+    "places": [
+      "台北",
+      "台中"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-05-17-talks-with-yanzeng-at-jing-home-and-four-am-wakes-lai-xu-kids"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-31-notes-huang-zhengming-immediate-attitude-to-students",
+    "date": "1959-05-31",
+    "displayDate": "1959年5月31日",
+    "datePrecision": "day",
+    "title": "李敖记黄正铭对学生说话的“马上的态度”可念",
+    "summary": "李敖记黄正铭对学生说话有“马上的态度”，要稿稿立来、照片照片立来，觉得可念。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 419
+    },
+    "view": [
+      "人物观察线",
+      "校园线"
+    ],
+    "tags": [
+      "黄正铭",
+      "学生",
+      "马上的态度",
+      "稿",
+      "照片",
+      "可念"
+    ],
+    "people": [
+      "李敖",
+      "黄正铭"
+    ],
+    "places": [
+      "台北",
+      "台湾大学"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary"
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-31-reads-old-letters-and-feels-again-may-thirty-first",
+    "date": "1959-05-31",
+    "displayDate": "1959年5月31日",
+    "datePrecision": "day",
+    "title": "李敖夜读旧信，悟到今日又是5月31日，颇有感触",
+    "summary": "夜里，李敖读旧信，犹悟今日又是5月31日，颇有感触。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 421
+    },
+    "view": [
+      "日常线",
+      "书信线",
+      "回忆线"
+    ],
+    "tags": [
+      "旧信",
+      "5月31日",
+      "感触"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "zaonian-riji-1958-05-31-hears-ma-hongxiang-comment-on-free-love",
+      "zaonian-riji-1958-05-31-last-kiss-on-third-floor",
+      "zaonian-riji-1958-05-31-treats-guangcheng-and-huamin-dinner"
+    ]
+  },
+  {
+    "id": "daxue-houqi-yi-1959-05-31-shen-says-fifth-womens-dorm-nickname-xianshila",
+    "date": "1959-05-31",
+    "displayDate": "1959年5月31日",
+    "datePrecision": "day",
+    "title": "沈转述女生第五宿舍给李敖取外号“咸湿姥”，意为“大色狼”",
+    "summary": "沈说，女生第五宿舍流传李敖的外号是“咸湿姥”，意思犹如“大色狼”。",
+    "source": {
+      "book": "大学后期日记乙集",
+      "chapter": "005.1959年5月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "line": 423
+    },
+    "view": [
+      "校园线",
+      "交游线",
+      "自我形象线"
+    ],
+    "tags": [
+      "沈",
+      "女生第五宿舍",
+      "外号",
+      "咸湿姥",
+      "大色狼"
+    ],
+    "people": [
+      "李敖",
+      "沈"
+    ],
+    "places": [
+      "台北",
+      "台湾大学",
+      "女生第五宿舍"
+    ],
+    "works": [
+      "大学后期日记乙集"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "daxue-houqi-yi-1959-05-20-warns-huang-shulan-and-he-yuanyi-afraid-of-tomorrow-prank"
+    ]
+  },
+  {
     "id": "daxue-houqi-yi-1966-10-mid-preface-reflects-on-diary-immaturity-and-resistance",
     "date": "1966-10-15",
     "displayDate": "1966年10月中旬",
