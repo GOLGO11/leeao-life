@@ -1669,7 +1669,26 @@
       "chapter": "007.委蜕纪",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/007.委蜕纪.txt",
       "line": 11
-    }
+    },
+    "crossReferences": [
+      "daxue-houqi-yi-1966-open-letter-to-qian-siliang-about-ntu-false-evidence-and-summoning-him-to-court"
+    ],
+    "additionalSources": [
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "009.给钱思亮校长的一封公开信",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/009.给钱思亮校长的一封公开信.txt",
+        "line": 7,
+        "note": "公开信回述：李敖于1963年3月19日自动在台大历史系研究所休学，次年春本应复学而未再办手续，遂离开台大。"
+      },
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "009.给钱思亮校长的一封公开信",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/009.给钱思亮校长的一封公开信.txt",
+        "line": 9,
+        "note": "公开信说明李敖离开台大后常解释自己并非被开除，而是因学校腐化不愿再念而自动休学。"
+      }
+    ]
   },
   {
     "id": "book5-1961-wenxianhui-temporary-job",

@@ -1444,7 +1444,20 @@
       "chapter": "002.毕业以后，从军以前",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/002.毕业以后，从军以前.txt",
       "line": 11
-    }
+    },
+    "crossReferences": [
+      "1959-08-02-southbound-military",
+      "daxue-houqi-yi-1959-08-02-arrives-taichung-receives-guying-at-night-and-gets-luggage"
+    ],
+    "additionalSources": [
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "008.1959年8月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/008.1959年8月.txt",
+        "line": 23,
+        "note": "乙集正文止于1959年8月2日夜抵台中、接鼓应并取行李，顺接《早年日记》8月3日失业在家与计划新生活。"
+      }
+    ]
   },
   {
     "id": "zaonian-riji-1959-08-03-mounts-hu-shi-calligraphy-and-uses-holder",
@@ -21871,7 +21884,9 @@
       "traditional-monologue-1963-08-16-if-i-were-a-woman-post-publication-backlash-note",
       "1966-11-16-hu-qiuyuan-publishes-letter",
       "zaonian-riji-1966-11-18-central-daily-runs-zhonghua-magazine-ad-accusing-communist",
-      "book7-1999-08-27-hu-qiuyuan-loses-final-appeal-and-must-pay-li-ao"
+      "book7-1999-08-27-hu-qiuyuan-loses-final-appeal-and-must-pay-li-ao",
+      "daxue-houqi-yi-1963-04-05-ntu-replies-hu-qiuyuan-about-guowen-zhoubao-and-li-ao-borrowing-records",
+      "daxue-houqi-yi-1966-open-letter-to-qian-siliang-about-ntu-false-evidence-and-summoning-him-to-court"
     ],
     "source": {
       "book": "早年日记",
@@ -21879,7 +21894,16 @@
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
       "line": 1103,
       "note": "本条据《早年日记》原记。"
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "009.给钱思亮校长的一封公开信",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/009.给钱思亮校长的一封公开信.txt",
+        "line": 37,
+        "note": "公开信在1966年即说明胡秋原仍利用台大复函打击李敖，李敖将请法院传钱思亮作证，是同年12月反诉胡案庭审链的前置动作。"
+      }
+    ]
   },
   {
     "id": "zaonian-riji-1966-12-21-second-precinct-sealed-book-room-fee-garrison-pays",

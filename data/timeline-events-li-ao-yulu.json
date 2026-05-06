@@ -4165,25 +4165,25 @@
       "纸上罗曼斯"
     ],
     "certainty": "reported-by-author",
-  "source": {
-    "book": "李敖语录",
-    "chapter": "031.纸上罗曼斯",
-    "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt",
-    "line": 271
+    "source": {
+      "book": "李敖语录",
+      "chapter": "031.纸上罗曼斯",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt",
+      "line": 271
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "004.1959年4月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/004.1959年4月.txt",
+        "line": 271,
+        "note": "乙集原文同日第四则：李敖说自己近乎惨痛地感到与女人有任何关系终会不快，抱定不与女人有丝毫往还的宗旨与主义。"
+      }
+    ],
+    "crossReferences": [
+      "daxue-houqi-yi-1959-04-23-xiaoxuan-birthday-long-mutual-gaze"
+    ]
   },
-  "additionalSources": [
-    {
-      "book": "大学后期日记乙集",
-      "chapter": "004.1959年4月",
-      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/004.1959年4月.txt",
-      "line": 271,
-      "note": "乙集原文同日第四则：李敖说自己近乎惨痛地感到与女人有任何关系终会不快，抱定不与女人有丝毫往还的宗旨与主义。"
-    }
-  ],
-  "crossReferences": [
-    "daxue-houqi-yi-1959-04-23-xiaoxuan-birthday-long-mutual-gaze"
-  ]
-},
   {
     "id": "li-ao-yulu-1959-06-28-diary-seeks-clean-self-reliance",
     "date": "1959-06-28",
@@ -4220,7 +4220,10 @@
       "chapter": "031.纸上罗曼斯",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt",
       "line": 275
-    }
+    },
+    "crossReferences": [
+      "daxue-houqi-yi-1959-06-28-clean-self-and-great-decision-to-enrich-self"
+    ]
   },
   {
     "id": "li-ao-yulu-1959-07-20-diary-calm-thinking-passionate-pursuit",
@@ -4258,7 +4261,21 @@
       "chapter": "031.纸上罗曼斯",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt",
       "line": 291
-    }
+    },
+    "crossReferences": [
+      "daxue-houqi-yi-1959-07-20-night-talks-with-hongxiang-at-jimei-about-archiving-past-newness-open-love-and-calm-thinking",
+      "daxue-houqi-yi-1959-07-23-hongxiang-shangyi-talk-about-being-energetic-and-solving-mental-through-physical",
+      "daxue-houqi-yi-1959-07-30-talks-with-mage-huang-xianchang-about-hard-battles-truth-instinct-and-strengths"
+    ],
+    "additionalSources": [
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "007.1959年7月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/007.1959年7月.txt",
+        "line": 389,
+        "note": "乙集原文显示此句出自7月20日夜与宏祥在吉美夜谈的第七点，上下文还包括抛掉过去、追求新的、开放心胸恋爱和正当欲望等自我更新条目。"
+      }
+    ]
   },
   {
     "id": "li-ao-yulu-1960-08-15-preofficer-diary-anti-women-analysis",

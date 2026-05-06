@@ -721,7 +721,9 @@
     "certainty": "confirmed",
     "crossReferences": [
       "traditional-monologue-1963-06-01-if-i-were-a-woman-published-in-wenxing",
-      "zaonian-riji-1966-12-09-counterclaim-hu-case-rebukes-hu-qiuyuan-one-and-half-hours"
+      "zaonian-riji-1966-12-09-counterclaim-hu-case-rebukes-hu-qiuyuan-one-and-half-hours",
+      "daxue-houqi-yi-1963-04-05-ntu-replies-hu-qiuyuan-about-guowen-zhoubao-and-li-ao-borrowing-records",
+      "daxue-houqi-yi-1966-open-letter-to-qian-siliang-about-ntu-false-evidence-and-summoning-him-to-court"
     ],
     "source": {
       "book": "传统下的独白",
@@ -736,6 +738,20 @@
         "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
         "line": 1103,
         "note": "1966年12月9日原记补明李敖出反诉胡案庭，痛斥胡秋原一个半小时，属于《假如我是女人》后记所称胡秋原控告诽谤后的官司链。"
+      },
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "009.给钱思亮校长的一封公开信",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/009.给钱思亮校长的一封公开信.txt",
+        "line": 13,
+        "note": "公开信回述李敖因写文章论列胡秋原“闽变”叛国事，被胡秋原诬告到官厅，缠讼四年仍未了。"
+      },
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "009.给钱思亮校长的一封公开信",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/009.给钱思亮校长的一封公开信.txt",
+        "line": 37,
+        "note": "公开信称胡秋原仍利用台大复函打击李敖，故李敖不得不请法院开始传钱思亮。"
       }
     ]
   },

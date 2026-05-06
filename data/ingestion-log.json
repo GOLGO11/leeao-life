@@ -11709,5 +11709,635 @@
       "???5??? closeout?????0?????????",
       "5???????81??5?1??31????????"
     ]
+  },
+  {
+    "iteration": 337,
+    "date": "2026-05-06",
+    "book": "大学后期日记乙集",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集",
+    "scope": [
+      "006.1959年6月.txt：1959年6月1日至6月7日"
+    ],
+    "strategy": "《大学后期日记乙集》6月第一轮：处理6月1日至6月7日。先核1959台大毕业宽日期、Bonnie、长袍/教授风度、曾庆昌、史仲序、酱爆肉/洗脚水打油诗、陈淑平与胡适派头、黄英星/玉森影响、5月31咸湿姥外号、5月女性关系和知止反省等旧节点。本轮按日记密度新增考试、饭局、发刊辞、赠诗、电影、买袜、剪报评论、毕业感怀、题照、园游会等日常与当事人事件；外部征婚报道只作为李敖记录并评论的剪报/社会观察事件处理。",
+    "filesRead": [
+      "006.1959年6月.txt",
+      "data/timeline-events-daxue-houqi-riji-yi.json",
+      "data/timeline-events-daxue-houqi-riji-jia.json",
+      "data/timeline-events-zaonian-riji.json",
+      "data/timeline-events-first-book-broad.json"
+    ],
+    "eventsAdded": 21,
+    "crossReferenceUpdates": [
+      "6月1考试与6月4毕业感怀回挂1959-ntu-graduation台大毕业宽日期节点。",
+      "6月1女性劣点表按用户要求写为“李敖说他在……想到……”，并回挂5月11女人关系倦游、5月29虚无转大野心和1958年女性幻灭节点。",
+      "6月2庄因酱爆肉/洗脚水/Pall Mall打油诗回挂3月23《酱爆肉》与5月11《债主陈彦增寿诗》。",
+      "6月4“大情棍/咸湿佬”毕业诗回挂5月31女生第五宿舍“咸湿姥”外号节点。",
+      "6月6陈淑平摄影与Bonnie“胡适派头”回挂1958年8月9日陈母称胡适派头与5月21 Bonnie节点。",
+      "6月7长衫/教授形象回挂6月1曾庆昌长袍教授风度、3月15吴相湘长袍评论和1958年9月29黄祝贵长袍节点。"
+    ],
+    "nextRecommended": [
+      "下一轮建议继续006.1959年6月.txt第二段，处理6月8日至6月14日左右。重点包括6月8西洋近代史考试、庄因纪念册、傅乐成/杜维运重庆宴、黄英星等二文；6月9论文草稿、Bonnie送李子、教书钱三百、为袁祝公作信、四首赠诗；6月10端午周家大吃鸡鸭鱼肉与戒酒、校园夜谈、张曼索照片；后续若到6月14，继续注意毕业、论文、照片/纪念册、朋友送别与女性线。",
+      "第二段开挖前仍需先查旧库：傅乐成、杜维运、Bonnie、黄淑兰、陈淑平、石缦仪、袁祝公、端午/戒酒、毕业照和论文草稿，避免重复。"
+    ],
+    "output": [
+      "data/timeline-events-daxue-houqi-riji-yi.json",
+      "data/ingestion-log.json",
+      "app.js",
+      "index.html",
+      "exports/leeao-current-timeline.txt",
+      "exports/leeao-current-timeline.csv"
+    ],
+    "notes": [
+      "本轮乙集新增21条。",
+      "006.1959年6月.txt本轮只处理至6月7日；6月8以后留待下一轮。"
+    ]
+  },
+  {
+    "iteration": 338,
+    "date": "2026-05-06",
+    "book": "大学后期日记乙集",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集",
+    "scope": [
+      "006.1959年6月.txt：1959年6月8日至6月14日"
+    ],
+    "strategy": "《大学后期日记乙集》6月第二轮：处理6月8日至6月14日。先核傅乐成、杜维运、Bonnie、黄淑兰、陈淑平、石缦仪、袁祝公、端午/戒酒、毕业照、论文草稿、Rosa、张曼、陈彦增等旧节点。本轮新增西洋近代史考试、庄因赠纪念册、傅杜重庆宴、Rosa纪念词、为黄英星等作二文、论文草稿与抄论文、杀老鼠、T门口见Bonnie与照片交换、教书钱还债、想Bonnie与为袁祝公作信、两组赠诗、端午周家宴与戒酒、校园夜谈与张曼索照片、洗照片与看胡适《词选》、Rosa照片怅然、毕业祝宴与送彦增南下、照片/公文纸/蓝衣党、旧句“又开风气又为师”、彦增调屏东来函、写公文/卡片与梦Rosa。",
+    "filesRead": [
+      "006.1959年6月.txt",
+      "data/timeline-events-daxue-houqi-riji-yi.json",
+      "data/timeline-events-daxue-houqi-riji-jia.json",
+      "data/timeline-events-zaonian-riji.json",
+      "data/timeline-events-first-book-broad.json"
+    ],
+    "eventsAdded": 21,
+    "crossReferenceUpdates": [
+      "6月8考试继续回挂1959-ntu-graduation与6月1考试节点。",
+      "6月8庄因赠纪念册回挂6月2纪念册/酱爆肉/Pall Mall打油诗节点。",
+      "6月9论文草稿回挂1958年论文题形成链、5月11每日一章论文决心和5月15夜车作息。",
+      "6月9与6月11照片线回挂6月6陈淑平摄影、6月4毕业照题照及6月13照片送出。",
+      "6月10端午戒酒回挂6月8傅杜重庆宴饮酒与1958端午旧节点。",
+      "6月12 Rosa怅然与6月14梦Rosa回挂1958年12月Rosa信/不能忘节点和本月Rosa纪念词。",
+      "6月13“又开风气又为师”回挂5月6大众化/社会改革方向和5月28未来人物类型节点。"
+    ],
+    "nextRecommended": [
+      "下一轮建议继续006.1959年6月.txt第三段，处理6月15日至6月18日，这一段是毕业典礼和谢师宴核心，信息很密。重点包括6月15张曼索二十四岁生日造像题赠、寄“公文信”给Bonnie、景新汉考完来舍；6月16逻辑/秦汉史考试、殷海光监考评考卷、陈淑平送照片和胡适相、母亲寄四百元毕业礼物；6月17访方豪、小蓬莱、弹子房；6月18中山堂毕业典礼、Bonnie黑长袍/诗/母妹、系照、玉楼东谢师宴、吴俊才与夏德仪评价、Bonnie直言装醉、王曼施等敬酒。",
+      "这一轮要特别注意6月18不能压缩过度，毕业典礼、Bonnie、谢师宴、系照/评价、直言装醉至少应分多条，并回挂1959-ntu-graduation、长袍/胡适派头、Bonnie线和毕业照线。"
+    ],
+    "output": [
+      "data/timeline-events-daxue-houqi-riji-yi.json",
+      "data/ingestion-log.json",
+      "app.js",
+      "index.html",
+      "exports/leeao-current-timeline.txt",
+      "exports/leeao-current-timeline.csv"
+    ],
+    "notes": [
+      "本轮乙集新增21条。",
+      "006.1959年6月.txt本轮处理至6月14日；6月15日起留待下一轮。"
+    ]
+  },
+  {
+    "iteration": 339,
+    "date": "2026-05-06",
+    "book": "大学后期日记乙集",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集",
+    "scope": [
+      "006.1959年6月.txt：1959年6月15日至6月18日"
+    ],
+    "strategy": "《大学后期日记乙集》6月第三轮：处理6月15日至6月18日毕业典礼与谢师宴核心段。先核张曼、Bonnie、公文信、景新汉、殷海光、陈淑平照片/胡适相、母亲毕业礼物、方豪、小蓬莱、弹子、钱思亮、中山堂、黑长袍、李丽华、夏德仪、吴俊才、玉楼东、查良钊、沈刚伯、劳榦、王曼施等旧节点。本轮按毕业密度拆条，尤其6月18分为毕业典礼、Bonnie互动、弹子、系照师长评价、玉楼东谢师宴、Bonnie直言装醉、王曼施敬酒等多条。",
+    "filesRead": [
+      "006.1959年6月.txt",
+      "data/timeline-events-daxue-houqi-riji-yi.json",
+      "data/timeline-events-daxue-houqi-riji-jia.json",
+      "data/timeline-events-zaonian-riji.json",
+      "data/timeline-events-first-book-broad.json"
+    ],
+    "eventsAdded": 14,
+    "crossReferenceUpdates": [
+      "6月15张曼题照回挂6月10张曼索照片、6月4黄英星题毕业照与1959-ntu-graduation。",
+      "6月15公文信给Bonnie回挂6月14公文/卡片、6月9想Bonnie和T门口照片线。",
+      "6月16逻辑/秦汉史考试回挂1月6学殷海光/逻辑线与毕业宽节点。",
+      "6月18毕业典礼、谢师宴各条均回挂1959-ntu-graduation。",
+      "6月18Bonnie黑长袍互动回挂6月15公文信、6月9想Bonnie、6月7长衫/教授形象与6月12 Rosa照片怅然。",
+      "6月18系照与夏德仪/吴俊才评价回挂1958年夏德仪长袍、1958年吴俊才称道卡片及6月13照片线。",
+      "6月18玉楼东谢师宴回挂6月10端午戒酒与6月8傅杜重庆宴饮酒。"
+    ],
+    "nextRecommended": [
+      "下一轮建议继续006.1959年6月.txt第四段，处理6月19日至6月24日左右。重点包括6月19请新汉和和涌吃饭、吉美写信、万国看《艳福之夜》、景家写给Bonnie信；6月20口占绝句赠以宽、英善寿尔康夜饭；6月21给Bonnie信写成、述古处与广诚宵夜冰、续写《妈妈的梦幻》；6月22请启庆午饭并发信、文学院会议室会咪咪并厌倦女人、湖南店与台湾影院《隐名大侠》；6月23整理东西还咪咪；6月24写稿、给天培善培信、明信片祝启庆生日。",
+      "这一轮要特别注意书信与作品线：Bonnie信、《妈妈的梦幻》、给天培善培信、启庆生日明信片都要入；咪咪线要谨慎写为李敖当事人的会面/整理归还，不把情绪夸张成事实。"
+    ],
+    "output": [
+      "data/timeline-events-daxue-houqi-riji-yi.json",
+      "data/ingestion-log.json",
+      "app.js",
+      "index.html",
+      "exports/leeao-current-timeline.txt",
+      "exports/leeao-current-timeline.csv"
+    ],
+    "notes": [
+      "本轮乙集新增14条。",
+      "006.1959年6月.txt本轮处理至6月18日；6月19日起留待下一轮。"
+    ]
+  },
+  {
+    "iteration": 340,
+    "date": "2026-05-06",
+    "book": "大学后期日记乙集",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集",
+    "scope": [
+      "006.1959年6月.txt：1959年6月19日至6月24日"
+    ],
+    "strategy": "《大学后期日记乙集》6月第四轮：处理6月19日至6月24日。先核Bonnie信、《妈妈的梦幻》发表/后记、咪咪旧线、隐名大侠/艳福之夜、天培善培、萧启庆生日、华昌平、莎冈等旧节点。本轮完整覆盖6月24后半：本学期成绩、恋爱教主评价、与马戈弹子/新兴谈大野心和反女性决心、莎冈诉讼剪报均入库；外部莎冈新闻只作为李敖记录并评论“西方精神”的剪报事件处理。",
+    "filesRead": [
+      "006.1959年6月.txt",
+      "data/timeline-events-daxue-houqi-riji-yi.json",
+      "data/timeline-events-daxue-houqi-riji-jia.json",
+      "data/timeline-events-zaonian-riji.json",
+      "data/timeline-events-traditional-monologue.json"
+    ],
+    "eventsAdded": 18,
+    "crossReferenceUpdates": [
+      "6月19-21 Bonnie信三条互相回挂，并回挂6月18谢师宴Bonnie直言。",
+      "6月21续写《妈妈的梦幻》回挂1960年《联合报》发表节点与1962年后记节点。",
+      "6月22会咪咪与6月23归还东西互相回挂，并回挂1958年7月26以好朋友视咪咪旧线。",
+      "6月24成绩单回挂6月1、6月8、6月16考试节点。",
+      "6月24反女性/好汉决心回挂6月22咪咪会面、6月23归还东西与6月5以感情制感情节点。",
+      "6月24莎冈剪报回挂6月3征婚剪报评论与5月7伊丽莎白泰勒再醮新闻观察。"
+    ],
+    "nextRecommended": [
+      "下一轮建议继续006.1959年6月.txt第五段，处理6月25日至6月30日并完成6月正文收束。重点包括6月25彦增介绍汪永定、景府谈反女性和甘地毒酒电报/Be a hero醒觉；6月26启庆午饭访方豪、史仲序赞誉、黄赖称待他们最好、给光锦信、咪咪寄还一包东西却扣留旧信；6月27李玄伯称考不取研究所、送彦增《青年的人生观》、黄锡昌称实际学问厚、风度反省；6月28买《本国历史题解》给广诚等后续。",
+      "第五段要特别注意：6月25-26的反女性话语与6月22-24已有线索高度连续，应以交叉引用归档，避免重复写成多条同义“反女性”事件；但具体交游、书信、送书、买书、研究所评价仍应独立入。"
+    ],
+    "output": [
+      "data/timeline-events-daxue-houqi-riji-yi.json",
+      "data/ingestion-log.json",
+      "app.js",
+      "index.html",
+      "exports/leeao-current-timeline.txt",
+      "exports/leeao-current-timeline.csv"
+    ],
+    "notes": [
+      "本轮乙集新增18条。",
+      "006.1959年6月.txt本轮处理至6月24日；6月25日起留待下一轮。"
+    ]
+  },
+  {
+    "iteration": 341,
+    "date": "2026-05-06",
+    "book": "大学后期日记乙集",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集",
+    "scope": [
+      "006.1959年6月.txt：1959年6月25日至6月30日"
+    ],
+    "strategy": "《大学后期日记乙集》6月第五轮：处理6月25日至6月30日，完成6月正文收束。先核查6月25-30同日旧库、咪咪旧物、反女性/Be a hero线、风度线、《李敖语录》6月28摘录、胡适演说追记等既有节点；本轮按日记类大而全原则新增介绍汪永定、景府谈话、启庆午饭访方豪、史仲序来信、黄赖评价、给光锦信、咪咪寄还旧物扣留旧信、李玄伯研究所评价、赠彦增《青年的人生观》、黄锡昌实际学问评价、风度反省、买《本国历史题解》给广诚、马戈请看《勇士堡》、不求人了解与充实自我大决定、Rosa相遇、请新汉中磊午饭和老兵身世、6月29长谈批评胡适并英善称特立独行、张凤栖托送胡适演说油印本、赶论文、阿地来访等事件。6月28《李敖语录》已有摘录不重复造同义孤岛，作为原日记完整语境事件的交叉引用。",
+    "filesRead": [
+      "006.1959年6月.txt",
+      "data/timeline-events-daxue-houqi-riji-yi.json",
+      "data/timeline-events-daxue-houqi-riji-jia.json",
+      "data/timeline-events-li-ao-yulu.json",
+      "data/ingestion-log.json"
+    ],
+    "eventsAdded": 20,
+    "crossReferenceUpdates": [
+      "6月25景府反女性与Be a hero醒觉回挂6月22咪咪会面、6月23归还东西、6月24反女性/好汉决心。",
+      "6月26咪咪寄还旧物但扣留李敖旧信，回挂6月22、6月23咪咪线和6月25反女性醒觉线。",
+      "6月27风度反省回挂甲集1958年6月29、7月18风度评价旧线。",
+      "6月28不求人了解、干净自清与充实自我大决定，回挂《李敖语录》1959年6月28摘录，并回挂6月24、6月25反女性/英雄线。",
+      "6月29 Rosa 相遇回挂6月12见Rosa与照片、6月14梦Rosa旧线；6月29长谈回挂6月20孙英善宴。",
+      "6月30赶论文回挂6月9完成论文初稿节点。"
+    ],
+    "nextRecommended": [
+      "下一轮建议做006.1959年6月.txt全月closeout：按6月1日至30日逐日检查是否每一天都有覆盖，重点复核6月18谢师宴、6月22-26咪咪/反女性连续线、6月28《李敖语录》摘录回挂、6月29胡适演说追记，确认没有把557行以后页脚和QQ群信息误入库。",
+      "closeout通过后，再进入007.1959年7月.txt；7月开头预计会继续有毕业后论文、研究所、交游、读书和情感自律线，进入前先扫旧库7月同日语录与甲集重复。"
+    ],
+    "output": [
+      "data/timeline-events-daxue-houqi-riji-yi.json",
+      "data/ingestion-log.json",
+      "app.js",
+      "index.html",
+      "exports/leeao-current-timeline.txt",
+      "exports/leeao-current-timeline.csv"
+    ],
+    "notes": [
+      "本轮乙集新增20条。",
+      "006.1959年6月.txt正文处理至6月30日；557行以后为制作者/QQ群页脚，不入库。"
+    ]
+  },
+  {
+    "iteration": 342,
+    "date": "2026-05-06",
+    "book": "大学后期日记乙集",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集",
+    "scope": [
+      "006.1959年6月.txt：全月closeout"
+    ],
+    "strategy": "《大学后期日记乙集》6月closeout：通读006.1959年6月.txt 1-556行正文，按已入库事件行号逐日核对6月1日至6月30日覆盖，重点复核6月18毕业典礼/谢师宴、6月22-26咪咪与反女性连续线、6月28《李敖语录》摘录回挂、6月29胡适演说追记及557行以后页脚污染。确认6月1“抢救”西洋现代史大纲未成已在同日考试事件摘要和补充来源中覆盖；6月4抄录韦庄/张泌《浣溪沙》、黄英星偷抄诗，6月23“我否定的，我少理他”等已在相邻事件摘要中覆盖。本轮不新增同义重复事件。",
+    "filesRead": [
+      "006.1959年6月.txt",
+      "data/timeline-events-daxue-houqi-riji-yi.json",
+      "data/ingestion-log.json",
+      "exports/leeao-current-timeline.txt",
+      "exports/leeao-current-timeline.csv"
+    ],
+    "eventsAdded": 0,
+    "crossReferenceUpdates": [
+      "closeout确认6月1西洋现代史大纲小项已归入同日考试事件摘要和补充来源，不另造重复事件。",
+      "closeout确认6月28完整日记语境事件已回挂《李敖语录》1959年6月28摘录；6月22-26咪咪线与反女性/Be a hero线互相回挂。"
+    ],
+    "nextRecommended": [
+      "下一轮建议进入007.1959年7月.txt第一轮。开始前先扫7月日期标题与旧库1959年7月同日节点，尤其注意《李敖语录》、甲集旧摘录、毕业/研究所/论文线是否已有相近事件。",
+      "7月第一轮建议从7月1日至7月7日推进；重点预计包括论文、研究所、毕业后交游、读书写作、女性关系自律与日常花费/电影等，仍按日记类大而全策略处理。"
+    ],
+    "output": [
+      "data/timeline-events-daxue-houqi-riji-yi.json",
+      "data/ingestion-log.json",
+      "app.js",
+      "index.html",
+      "exports/leeao-current-timeline.txt",
+      "exports/leeao-current-timeline.csv"
+    ],
+    "notes": [
+      "本轮为6月全月closeout，未新增事件；查到的候选漏项均已在既有事件摘要或补充来源中覆盖。",
+      "006.1959年6月.txt 557行以后为制作者/QQ群/网址页脚，确认不入库。"
+    ]
+  },
+  {
+    "iteration": 343,
+    "date": "2026-05-06",
+    "book": "大学后期日记乙集",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集",
+    "scope": [
+      "007.1959年7月.txt：1959年7月1日至7月7日"
+    ],
+    "strategy": "《大学后期日记乙集》7月第一轮：进入007.1959年7月.txt，先扫7月1日至7日原文和旧库1959年7月节点；确认旧库已有1959-07-07-thesis-plan，因此本轮将7月7日夜三时三刻赶成《宋代婚姻》研究计划作为原始日记现场事件入库并回挂旧主干，同时给旧主干补本书来源。本轮按日记类大而全原则新增论文装订、勉华俊信、查泰莱夫人禁映剪报、Rosa红衣与情感自律、三轮车夫吴先生、送论文至姚寓且胡适问论文、胡适飞美记录、独看《逃狱惊魂》、整理小片手记生写小说信心、鼓应寿尔康宴、研究所是否考的摇摆与拼一次、彻夜不眠制、老破照片、善培来宿及赠《飘》、老马生日、7月7日梦境/小羊/足不出户/持敬反省/阙家小少女/第二次教书费/慰彦增和买双喜/《宋代婚姻》研究计划等。外部新闻只作为李敖剪存材料处理。",
+    "filesRead": [
+      "007.1959年7月.txt",
+      "data/timeline-events-daxue-houqi-riji-yi.json",
+      "data/timeline-events.json",
+      "data/timeline-events-li-ao-yulu.json",
+      "data/timeline-events-zaonian-riji.json",
+      "data/timeline-events-daxue-houqi-riji-jia.json"
+    ],
+    "eventsAdded": 24,
+    "crossReferenceUpdates": [
+      "7月1论文装订回挂6月30赶论文与6月9完成论文草稿。",
+      "7月2送论文至姚寓回挂7月1论文装订与6月29胡适演说油印本/第一次听胡适追记。",
+      "7月4研究所是否考的摇摆回挂6月25甘地毒酒电报/Be a hero醒觉。",
+      "7月7《宋代婚姻》研究计划回挂旧主干1959-07-07-thesis-plan；旧主干亦补入本书日记来源并反向回挂本轮原文事件。",
+      "7月5赠《飘》回挂同日善培来宿；7月7慰彦增回挂6月14、6月27彦增线。"
+    ],
+    "nextRecommended": [
+      "下一轮建议继续007.1959年7月.txt第二轮，处理7月8日至7月14日。重点包括7月8姚从吾谈论文与研究计划、三姐等小蓬莱饭局、看 Some Came Running、晚宴后决定不考及众人劝不可放弃研究所、新汉来书诗句；7月9明确不考、电影《喷射机英雄》及教书/交游；7月10以后需先扫原文再定边界。",
+      "第二轮要特别注意7月8与旧主干1959-07-07-thesis-plan摘要中“次日长谈后决定当兵、不考研究所”的关系，优先做回挂与补源，避免同一决定重复造多条。"
+    ],
+    "output": [
+      "data/timeline-events-daxue-houqi-riji-yi.json",
+      "data/timeline-events.json",
+      "data/ingestion-log.json",
+      "app.js",
+      "index.html",
+      "exports/leeao-current-timeline.txt",
+      "exports/leeao-current-timeline.csv"
+    ],
+    "notes": [
+      "本轮乙集新增24条。",
+      "007.1959年7月.txt本轮处理至7月7日；7月8日起留待下一轮。"
+    ]
+  },
+  {
+    "iteration": 344,
+    "date": "2026-05-06",
+    "book": "大学后期日记乙集",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集",
+    "scope": [
+      "007.1959年7月.txt：1959年7月8日至7月14日"
+    ],
+    "strategy": "《大学后期日记乙集》7月第二轮：处理7月8日至7月14日。先核旧库1959-07-07-thesis-plan与7月8不考研究所决断关系；本轮将7月8姚从吾谈论文/研究计划、7月8晚宴酒酣决定不考及7月9无复多疑补为旧主干additionalSources并回挂，避免重复造同义主干。其余按日记类大而全原则新增耀祖谈长成少女、小蓬莱饭局与新兴吃冰、车中小女学生认出历史系、善培鸿飞同看Some Came Running、新汉来书、7月9启庆与景家谈话、独看《喷射机英雄》、少女之美观察、教书/遇人/孟大中赴印度、吴大宇家与吴庆宜、访老马与漫画计划、姚信劝考、梦境、陪报名与新兴吃冰、甘桂越转述评价、给庄因信谈不考与殉道、刘宗华/老马绝联/孔明精神、孟大中晚饭与God’s Little Acre、迎华俊与李玄伯称未考可惜、教书三小时四十与整理《交游录》、英善森记宴华俊与送马联、寿尔康/萤桥长谈众人评李敖、姚谈文人性情与胡适秘书可能、偏才评价、7月14第九宿舍午饭与无聊觉醒等。",
+    "filesRead": [
+      "007.1959年7月.txt",
+      "data/timeline-events-daxue-houqi-riji-yi.json",
+      "data/timeline-events.json",
+      "data/timeline-events-li-ao-yulu.json",
+      "data/timeline-events-zaonian-riji.json",
+      "data/timeline-events-daxue-houqi-riji-jia.json"
+    ],
+    "eventsAdded": 28,
+    "crossReferenceUpdates": [
+      "旧主干1959-07-07-thesis-plan新增7月8姚从吾谈论文/研究计划、7月8晚宴决定不考、7月9无复多疑三条additionalSources，并回挂本轮姚谈与决定不考原文事件。",
+      "7月10姚信劝考、陪报名、庄因信均回挂7月8决定不考研究所事件，形成同一决断链。",
+      "7月12华俊、胡家伦、铸人长评回挂7月8不考决断与7月7持敬反省。",
+      "7月13姚谈文人性情/北方之强回挂7月10姚信劝考与7月12友人长评。"
+    ],
+    "nextRecommended": [
+      "下一轮建议继续007.1959年7月.txt第三轮，处理7月15日至7月22日。重点包括7月15写信慰玉衡、台风夜与华俊棋战、英善处朋友不幸论；7月16触电、松燃来、想编《李敖的人间笑话》、梦阿登纳、给鼓应诗等；7月17以后需先扫原文再决定边界。",
+      "第三轮仍要注意“不考研究所”余波是否继续出现，凡与7月8-10同义的决定节点只回挂，不重复造主事件；新出现的书信、梦、写作计划、交游日常则照收。"
+    ],
+    "output": [
+      "data/timeline-events-daxue-houqi-riji-yi.json",
+      "data/timeline-events.json",
+      "data/ingestion-log.json",
+      "app.js",
+      "index.html",
+      "exports/leeao-current-timeline.txt",
+      "exports/leeao-current-timeline.csv"
+    ],
+    "notes": [
+      "本轮乙集新增28条。",
+      "007.1959年7月.txt本轮处理至7月14日；7月15日起留待下一轮。"
+    ]
+  },
+  {
+    "iteration": 345,
+    "date": "2026-05-06",
+    "book": "大学后期日记乙集",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集",
+    "scope": [
+      "007.1959年7月.txt：1959年7月15日至7月22日"
+    ],
+    "strategy": "《大学后期日记乙集》7月第三轮：处理7月15日至7月22日。先核旧库同日节点，发现《李敖语录》已有1959年7月20日“思考要冷静，追求与实行要热情”摘录；本轮将7月20吉美夜谈作为完整日记语境入库并回挂该语录摘录。其余按大而全策略新增写信慰玉衡、台风夜与华俊秉烛棋战、与英善谈朋友不幸论、修灯触电、松燃北来、李敖说他想编《李敖的人间笑话》、梦阿登纳演说、给鼓应打油诗、松燃请饭后扭打、孟大中夜谈与新兴吃冰、景家/清真馆、马家/省立台北图书馆/《拇指仙童》、抽签、送孟大中赴松山机场、善导寺子宽先生送书、祝公寿尔康晚饭、阙至正小坐与请马看《大雪山》、吉美夜谈七点、三轮车夫马先生、华昌平欲写研究李敖论文、阙汉骞称“小娃娃”、阙小妹稚气、请健祥午饭与购小草盒/杂志等。",
+    "filesRead": [
+      "007.1959年7月.txt",
+      "data/timeline-events-daxue-houqi-riji-yi.json",
+      "data/timeline-events-li-ao-yulu.json",
+      "data/timeline-events-daxue-houqi-riji-jia.json",
+      "data/timeline-events-zaonian-riji.json"
+    ],
+    "eventsAdded": 24,
+    "crossReferenceUpdates": [
+      "7月20吉美夜谈回挂《李敖语录》1959年7月20日摘录，并回挂7月14无聊觉醒与6月28充实自我大决定。",
+      "7月16李敖说他想编《李敖的人间笑话》回挂7月9漫画练习计划，避免写成“李敖想到”。",
+      "7月19送孟大中回挂7月17孟大中夜谈与7月9孟大中将赴印度。",
+      "7月21华昌平欲写研究李敖论文回挂6月24华昌平称恋爱教主。"
+    ],
+    "nextRecommended": [
+      "下一轮建议继续007.1959年7月.txt第四轮，处理7月23日至7月31日并完成7月正文收束。重点包括7月23宏祥尚义谈“有劲”与心理/生理问题，7月24送健祥与机场小洋毛丫头、黄锡昌言热情，7月25华俊考清华/马罗评诗人般潇洒/周弘蒙娜丽莎笑考证，7月27三月教书收入、装箱书、景家夜谈后生病，7月28探周德伟病与儿童乐园，7月29合宴华俊/五箱书，7月30作七信与电影及硬仗生活谈，7月31恋爱病理学家、森记晚饭、强恕小丫头、讽刺新诗、怒海焚舟。",
+      "第四轮要特别注意507行以后页脚不要入库；7月20语录摘录已回挂，本月 closeout 时还需复核7月全月是否有重复的情感转折节点。"
+    ],
+    "output": [
+      "data/timeline-events-daxue-houqi-riji-yi.json",
+      "data/ingestion-log.json",
+      "app.js",
+      "index.html",
+      "exports/leeao-current-timeline.txt",
+      "exports/leeao-current-timeline.csv"
+    ],
+    "notes": [
+      "本轮乙集新增24条。",
+      "007.1959年7月.txt本轮处理至7月22日；7月23日起留待下一轮。"
+    ]
+  },
+  {
+    "iteration": 346,
+    "date": "2026-05-06",
+    "book": "大学后期日记乙集",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集",
+    "scope": [
+      "007.1959年7月.txt：1959年7月23日至7月31日"
+    ],
+    "strategy": "《大学后期日记乙集》7月第四轮：处理7月23日至7月31日，完成7月正文收束。先核旧库1959年7月23日至31日节点，未发现本段同日旧主干；本轮按日记类大而全原则新增宏祥尚义谈“有劲”与心理/生理问题、送健祥与侨生称潇洒/机场小洋毛丫头、黄锡昌言热情、阙汉骞又笑“小孩子”、华俊考清华、马罗言诗人般潇洒与读书多、周弘蒙娜丽莎怀孕考证、连日寿尔康独饭、下午教书、教书收入五百和三月总收入、袁兆真约谈/重庆晚饭/曲先生/铸人家、探周德伟病、室内照相、儿童乐园、启庆周弘吃冰与合宴华俊、良榘松燃重庆宴、五箱书装箱寄存、景家夜谈后病甚、作七信、马家晚饭/留钱/看《敌后英雄》、与马戈黄显昌硬仗生活谈、恋爱病理学家评价、又亮森记晚饭、强恕小丫头、讽刺新诗、寿尔康午饭与《怒海焚舟》。507行以后页脚不入库。",
+    "filesRead": [
+      "007.1959年7月.txt",
+      "data/timeline-events-daxue-houqi-riji-yi.json",
+      "data/timeline-events-li-ao-yulu.json",
+      "data/timeline-events-daxue-houqi-riji-jia.json",
+      "data/timeline-events-zaonian-riji.json"
+    ],
+    "eventsAdded": 27,
+    "crossReferenceUpdates": [
+      "7月23“有劲”谈话与7月30硬仗生活谈均回挂7月20吉美夜谈自我更新线。",
+      "7月24侨生称潇洒、7月25马罗称诗人般潇洒互相回挂，并回挂6月18吴俊才称潇洒旧线。",
+      "7月29五箱书装箱回挂7月7足不出户主义；7月31恋爱病理学家回挂6月24华昌平恋爱教主线。"
+    ],
+    "nextRecommended": [
+      "下一轮建议做007.1959年7月.txt全月closeout：逐日复核7月1日至31日覆盖，重点检查7月8-10不考研究所决断链与旧主干1959-07-07-thesis-plan是否重复、7月20《李敖语录》摘录是否回挂、7月23/30自我更新线是否重叠，以及507行以后页脚是否完全未入库。",
+      "closeout通过后再进入008.1959年8月.txt；8月会直接接上研究所考试/入伍前日记线，应先核早年日记已有1959年8月节点，避免重复。"
+    ],
+    "output": [
+      "data/timeline-events-daxue-houqi-riji-yi.json",
+      "data/ingestion-log.json",
+      "app.js",
+      "index.html",
+      "exports/leeao-current-timeline.txt",
+      "exports/leeao-current-timeline.csv"
+    ],
+    "notes": [
+      "本轮乙集新增27条。",
+      "007.1959年7月.txt正文处理至7月31日；507行以后为制作者/QQ群/网址页脚，不入库。"
+    ]
+  },
+  {
+    "iteration": 347,
+    "date": "2026-05-06",
+    "book": "大学后期日记乙集",
+    "phase": "1959年7月全月 closeout",
+    "strategy": "《大学后期日记乙集》7月全月收束：逐日核对007.1959年7月.txt与现有103条7月事件，不新增同义事件；重点补强研究计划/不考研究所旧核心节点、7月20《李敖语录》摘录与7月23/30自我更新谈话之间的交叉引用。剪报页脚继续排除，正文虚构/语录摘句不重复造项。",
+    "sourceFiles": [
+      "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/007.1959年7月.txt"
+    ],
+    "eventsAdded": 0,
+    "eventIds": [],
+    "crossReferenceUpdates": [
+      {
+        "id": "1959-07-07-thesis-plan",
+        "addedCrossReferences": [
+          "daxue-houqi-yi-1959-07-10-qiqing-brings-yao-letter-urging-not-to-abandon-graduate-school-li-avoids-meeting",
+          "daxue-houqi-yi-1959-07-10-writes-zhuangyin-about-laopo-photo-and-not-taking-exam-as-feeling-martyrdom",
+          "daxue-houqi-yi-1959-07-11-welcomes-huajun-at-station-and-li-xuanbo-says-regret-not-taking-exam"
+        ],
+        "addedAdditionalSources": [
+          195,
+          213,
+          255
+        ]
+      },
+      {
+        "id": "li-ao-yulu-1959-07-20-diary-calm-thinking-passionate-pursuit",
+        "addedCrossReferences": [
+          "daxue-houqi-yi-1959-07-20-night-talks-with-hongxiang-at-jimei-about-archiving-past-newness-open-love-and-calm-thinking",
+          "daxue-houqi-yi-1959-07-23-hongxiang-shangyi-talk-about-being-energetic-and-solving-mental-through-physical",
+          "daxue-houqi-yi-1959-07-30-talks-with-mage-huang-xianchang-about-hard-battles-truth-instinct-and-strengths"
+        ],
+        "addedAdditionalSources": [
+          389
+        ]
+      }
+    ],
+    "coverage": {
+      "sourceChapter": "007.1959年7月",
+      "julyEventCountAfterCloseout": 103,
+      "missingDays": [],
+      "note": "逐日核对7月1日至31日：论文、研究所、教书、交游、读书电影、写信、剪报、作息计划、7月20/23/30自我更新谈话均已有节点或交叉引用归档。"
+    },
+    "validation": {
+      "planned": "export-timeline-text + export-timeline-csv + structural validation after edits",
+      "duplicatePolicy": "本轮不新增事件，只补交叉引用和additionalSources，以免重复制造研究所/语录同义节点。"
+    },
+    "nextRecommendation": "下一轮正式进入《大学后期日记乙集》008.1959年8月.txt 第一段，建议先处理8月1日至8月7日；开轮前先检索旧《早年日记》1959年8月节点，尤其8月4研究所考试、8月22黄锡昌、8月下旬搬动/书信/教书等，采用旧节点补源与新日常细节拆收并行。"
+  },
+  {
+    "iteration": 348,
+    "date": "2026-05-06",
+    "book": "大学后期日记乙集",
+    "phase": "1959年8月第一轮暨本书正文尾段",
+    "strategy": "处理008.1959年8月.txt。核对发现本文件正文仅8月1日至8月2日，8月3日至7日属于《早年日记》“毕业以后，从军以前”，本轮严格不越书。新增8月1写信/王家午饭/周家劝周德伟/李玄伯与辞行/庭生舞会，8月2扎行李与重庆午饭/车站二十余人送行/车上识马润潮/抵台中接鼓应取行李；旧核心1959-08-02-southbound-military补乙集原文来源与细节回挂。",
+    "sourceFiles": [
+      "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/008.1959年8月.txt"
+    ],
+    "eventsAdded": 9,
+    "eventIds": [
+      "daxue-houqi-yi-1959-08-01-writes-letters-to-huang-shulan-cheng-youmei-and-gives-shi-manyi",
+      "daxue-houqi-yi-1959-08-01-lunches-at-wang-home-and-notes-weiping-youth-purity-cleverness",
+      "daxue-houqi-yi-1959-08-01-afternoon-at-zhou-home-until-dinner-and-advises-zhou-dewei",
+      "daxue-houqi-yi-1959-08-01-talks-with-li-xuanbo-and-makes-farewell-rounds-before-southbound-trip",
+      "daxue-houqi-yi-1959-08-01-guying-returns-and-li-attends-zhutingsheng-dance",
+      "daxue-houqi-yi-1959-08-02-jing-helps-pack-and-huajun-hongxiang-youliang-treat-lunch-before-billiards",
+      "daxue-houqi-yi-1959-08-02-friends-see-li-off-at-station-before-southbound-train",
+      "daxue-houqi-yi-1959-08-02-meets-ma-runchao-on-train-who-calls-him-broadly-connected-pure-literatus",
+      "daxue-houqi-yi-1959-08-02-arrives-taichung-receives-guying-at-night-and-gets-luggage"
+    ],
+    "crossReferenceUpdates": [
+      {
+        "id": "1959-08-02-southbound-military",
+        "addedCrossReferences": [
+          "daxue-houqi-yi-1959-08-01-writes-letters-to-huang-shulan-cheng-youmei-and-gives-shi-manyi",
+          "daxue-houqi-yi-1959-08-01-lunches-at-wang-home-and-notes-weiping-youth-purity-cleverness",
+          "daxue-houqi-yi-1959-08-01-afternoon-at-zhou-home-until-dinner-and-advises-zhou-dewei",
+          "daxue-houqi-yi-1959-08-01-talks-with-li-xuanbo-and-makes-farewell-rounds-before-southbound-trip",
+          "daxue-houqi-yi-1959-08-01-guying-returns-and-li-attends-zhutingsheng-dance",
+          "daxue-houqi-yi-1959-08-02-jing-helps-pack-and-huajun-hongxiang-youliang-treat-lunch-before-billiards",
+          "daxue-houqi-yi-1959-08-02-friends-see-li-off-at-station-before-southbound-train",
+          "daxue-houqi-yi-1959-08-02-meets-ma-runchao-on-train-who-calls-him-broadly-connected-pure-literatus",
+          "daxue-houqi-yi-1959-08-02-arrives-taichung-receives-guying-at-night-and-gets-luggage"
+        ],
+        "addedAdditionalSources": [
+          11,
+          19,
+          23
+        ]
+      }
+    ],
+    "duplicatePolicy": "8月2离开台北/南下已有旧核心节点，本轮只新增日记细节并回挂，不重复造总节点；8月3以后留给《早年日记》已入库节点或之后该书closeout。",
+    "coverage": {
+      "sourceChapter": "008.1959年8月",
+      "processedLines": "1-23",
+      "excludedLines": "25-31 制作群/网站页脚",
+      "note": "《大学后期日记乙集》正文到1959年8月2日终止。"
+    },
+    "validation": {
+      "planned": "export-timeline-text + export-timeline-csv + structural validation after version update"
+    },
+    "nextRecommendation": "下一轮建议做《大学后期日记乙集》全书 closeout：核对本书1月至8月2日总覆盖、旧核心与《李敖语录》《早年日记》交叉引用，重点检查8月2终点是否与早年日记8月3起点顺接；若通过，再转入下一本/下一阶段。"
+  },
+  {
+    "iteration": 349,
+    "date": "2026-05-06",
+    "book": "大学后期日记乙集",
+    "phase": "附录《给钱思亮校长的一封公开信》",
+    "strategy": "补处理此前漏掉的009.给钱思亮校长的一封公开信。此章不是1959年日记正文，而是1966年公开信，按附录处理：新增1963-04-05台大复函胡秋原并被李敖斥为伪证的证据节点，以及1966年李敖写公开信给钱思亮并说将请法院传钱作证的书信/司法节点；同时对1963-03-19自动休学、1963-11-01《高等教育的一面怪现状》、胡秋原官司链补additionalSources与crossReferences。",
+    "sourceFiles": [
+      "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/009.给钱思亮校长的一封公开信.txt"
+    ],
+    "eventsAdded": 2,
+    "eventIds": [
+      "daxue-houqi-yi-1963-04-05-ntu-replies-hu-qiuyuan-about-guowen-zhoubao-and-li-ao-borrowing-records",
+      "daxue-houqi-yi-1966-open-letter-to-qian-siliang-about-ntu-false-evidence-and-summoning-him-to-court"
+    ],
+    "crossReferenceUpdates": [
+      {
+        "file": "data/timeline-events-fifth-book.json",
+        "id": "book5-1963-03-19-leaves-ntu-graduate-school"
+      },
+      {
+        "file": "data/timeline-events-fourth-book-deepening.json",
+        "id": "book4-deep-1963-11-01-wenxing-higher-education-article"
+      },
+      {
+        "file": "data/timeline-events-traditional-monologue.json",
+        "id": "traditional-monologue-1963-08-16-if-i-were-a-woman-post-publication-backlash-note"
+      },
+      {
+        "file": "data/timeline-events-zaonian-riji.json",
+        "id": "zaonian-riji-1966-12-09-counterclaim-hu-case-rebukes-hu-qiuyuan-one-and-half-hours"
+      }
+    ],
+    "duplicatePolicy": "不重复制造1963休学、1963高教文章、胡秋原官司总节点；只新增本附录独有的公开信动作与台大复函证据节点，其余归档到既有事件。",
+    "coverage": {
+      "sourceChapter": "009.给钱思亮校长的一封公开信",
+      "processedLines": "1-41",
+      "excludedLines": "43-49 制作群/网站页脚"
+    },
+    "validation": {
+      "planned": "version update + export-timeline-text + export-timeline-csv + structural validation"
+    },
+    "nextRecommendation": "下一轮建议做《大学后期日记乙集》真正全书 closeout：重新核对前记、1月至8月2日、附录公开信，重点检查附录与《教育与脸谱》《传统下的独白》《早年日记》胡秋原官司链的交叉引用是否足够、是否有重复。"
+  },
+  {
+    "iteration": 350,
+    "date": "2026-05-06",
+    "book": "大学后期日记乙集",
+    "phase": "全书 closeout",
+    "strategy": "《大学后期日记乙集》全书收束：不新增事件，核对前记、1959年1月至8月2日正文、附录《给钱思亮校长的一封公开信》；补齐《李敖语录》6月28日摘录反向回链，以及8月2日南下核心节点与《早年日记》8月3日起点的顺接回链。",
+    "sourceFiles": [
+      "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/《大学后期日记乙集》前记.txt",
+      "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt",
+      "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt",
+      "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/003.1959年3月.txt",
+      "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/004.1959年4月.txt",
+      "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/005.1959年5月.txt",
+      "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/006.1959年6月.txt",
+      "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/007.1959年7月.txt",
+      "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/008.1959年8月.txt",
+      "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/009.给钱思亮校长的一封公开信.txt"
+    ],
+    "eventsAdded": 0,
+    "eventIds": [],
+    "crossReferenceUpdates": [
+      {
+        "file": "data/timeline-events-li-ao-yulu.json",
+        "id": "li-ao-yulu-1959-06-28-diary-seeks-clean-self-reliance",
+        "addedCrossReferences": [
+          "daxue-houqi-yi-1959-06-28-clean-self-and-great-decision-to-enrich-self"
+        ]
+      },
+      {
+        "file": "data/timeline-events.json",
+        "id": "1959-08-02-southbound-military",
+        "addedCrossReferences": [
+          "zaonian-riji-1959-08-03-stays-home-and-plans-new-life"
+        ]
+      },
+      {
+        "file": "data/timeline-events-zaonian-riji.json",
+        "id": "zaonian-riji-1959-08-03-stays-home-and-plans-new-life",
+        "addedCrossReferences": [
+          "1959-08-02-southbound-military",
+          "daxue-houqi-yi-1959-08-02-arrives-taichung-receives-guying-at-night-and-gets-luggage"
+        ],
+        "addedAdditionalSources": [
+          23
+        ]
+      }
+    ],
+    "coverage": {
+      "bookEventCountAfterCloseout": 702,
+      "sourceChapters": [
+        "《大学后期日记乙集》前记",
+        "001.1959年1月",
+        "002.1959年2月",
+        "003.1959年3月",
+        "004.1959年4月",
+        "005.1959年5月",
+        "006.1959年6月",
+        "007.1959年7月",
+        "008.1959年8月",
+        "009.给钱思亮校长的一封公开信"
+      ],
+      "missingDays": [],
+      "note": "1959年1月1日至8月2日逐日覆盖；008章8月3日以后属于《早年日记》，未越书；009章作为1966年公开信附录处理，页脚未入库。"
+    },
+    "validation": {
+      "planned": "version update + export-timeline-text + export-timeline-csv + structural validation",
+      "duplicatePolicy": "本轮只补回链与来源，不新增事件；同义节点继续归档到crossReferences/additionalSources。"
+    },
+    "nextRecommendation": "下一轮建议先核沉思日记类目录，确认《大学后期日记乙集》后的下一本书名和边界，再开下一本第一轮；开轮前先做旧库同书名/同日期查重，尤其日记续接处不要把《早年日记》已处理内容重复入库。"
   }
 ]
