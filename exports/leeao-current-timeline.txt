@@ -1,9 +1,9 @@
 ﻿李敖交互式年表：当前增量纯文本备份
-生成日期：2026-05-05
-事件总数：3761
-数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json；data/timeline-events-ni-bendan.json；data/timeline-events-dream-awake.json；data/timeline-events-li-ao-xinkan.json；data/timeline-events-qianqiu-wansui-wuya-qiushi.json；data/timeline-events-li-ao-zawenji.json；data/timeline-events-qianqiu-wansui-bianwai.json；data/timeline-events-beijing-fayuansi.json；data/timeline-events-shangshan-ai.json；data/timeline-events-red-11.json；data/timeline-events-virtual-seventeen.json；data/timeline-events-yangwei-america.json；data/timeline-events-73rd-martyr.json；data/timeline-events-love-secret.json；data/timeline-events-li-ao-love-poems.json；data/timeline-events-li-yulu.json；data/timeline-events-li-ao-yulu.json；data/timeline-events-sui-qianwan-li-ao-wangyi.json；data/timeline-events-tiaozhan-li-ao-ao-yulu.json；data/timeline-events-daxue-zhaji.json；data/timeline-events-zaonian-riji.json；data/timeline-events-daxue-houqi-riji-jia.json
+生成日期：2026-05-06
+事件总数：3994
+数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json；data/timeline-events-ni-bendan.json；data/timeline-events-dream-awake.json；data/timeline-events-li-ao-xinkan.json；data/timeline-events-qianqiu-wansui-wuya-qiushi.json；data/timeline-events-li-ao-zawenji.json；data/timeline-events-qianqiu-wansui-bianwai.json；data/timeline-events-beijing-fayuansi.json；data/timeline-events-shangshan-ai.json；data/timeline-events-red-11.json；data/timeline-events-virtual-seventeen.json；data/timeline-events-yangwei-america.json；data/timeline-events-73rd-martyr.json；data/timeline-events-love-secret.json；data/timeline-events-li-ao-love-poems.json；data/timeline-events-li-yulu.json；data/timeline-events-li-ao-yulu.json；data/timeline-events-sui-qianwan-li-ao-wangyi.json；data/timeline-events-tiaozhan-li-ao-ao-yulu.json；data/timeline-events-daxue-zhaji.json；data/timeline-events-zaonian-riji.json；data/timeline-events-daxue-houqi-riji-jia.json；data/timeline-events-daxue-houqi-riji-yi.json
 说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。
-日期精度统计：day=3321；year=97；year-range=13；undated-range=1；undated-context=141；season=29；lunar-day=1；year-after=7；month=53；half-year=2；school-year-context=5；day-range=16；year-about=8；month-after=3；year-context=16；day-after=4；before-date-context=11；after-date-context=8；month-context=3；day-context=6；range-context=14；year-end=1；month-range=1
+日期精度统计：day=3553；year=97；year-range=13；undated-range=1；undated-context=141；season=29；lunar-day=1；year-after=7；month=53；half-year=2；school-year-context=5；day-range=16；year-about=8；month-after=3；year-context=16；day-after=4；before-date-context=11；day-about=1；after-date-context=8；month-context=3；day-context=6；range-context=14；year-end=1；month-range=1
 
 
 1935
@@ -2246,6 +2246,19 @@
   补充来源：大学札记 / 024.翁松燃 / line 3；说明：原书《大学札记》同日条。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/009.中国当代人物.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-05-24-daxue-zhaji-weng-songran
+- 1957年5月25日 | 李敖说他想到要替朋友设想前途
+  精度：day；可靠度：excerpted-diary；排序日期：1957-05-25
+  摘要：《李敖语录》摘录《大学札记》1957年5月25日条。李敖说他躺在床上想到，应花时间替几位好朋友仔细考虑前途，并热心帮助朋友做事。
+  人物：李敖
+  地点：-
+  标签：李敖语录、大学札记、日记、语录摘录、1957
+  视图：日常线、写作线、思想线
+  作品：李敖语录、大学札记
+  交叉引用：-
+  来源：李敖语录 / 004.自我炼钢 / line 51
+  补充来源：大学札记 / 026.为朋友做打算 / line 3；说明：原书《大学札记》同日条。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-05-25-daxue-zhaji-plan-for-friends
 - 1957年5月25日 | 李敖清晨失眠后，为自慰问题设定私人自律规则
   精度：day；可靠度：confirmed；排序日期：1957-05-25
   摘要：《手淫与动机派》写，1957年5月25日大约清晨两点，李敖醒后睡不着，躺在床上想了许多，其中最主要的是对自慰问题作决定：同意每周末入睡前一次，平时彻底禁止；他还把这个决定同道德行为、动机派标准和日后哲学研究联系起来。
@@ -2259,19 +2272,6 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/025.手淫与动机派.txt
   数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-05-25-sets-private-sexual-self-discipline-rule
-- 1957年5月25日 | 李敖想到要替朋友设想前途
-  精度：day；可靠度：excerpted-diary；排序日期：1957-05-25
-  摘要：《李敖语录》摘录《大学札记》1957年5月25日条。李敖躺在床上想到，应花时间替几位好朋友仔细考虑前途，并热心帮助朋友做事。
-  人物：李敖
-  地点：-
-  标签：李敖语录、大学札记、日记、语录摘录、1957
-  视图：日常线、写作线、思想线
-  作品：李敖语录、大学札记
-  交叉引用：-
-  来源：李敖语录 / 004.自我炼钢 / line 51
-  补充来源：大学札记 / 026.为朋友做打算 / line 3；说明：原书《大学札记》同日条。
-  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
-  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-05-25-daxue-zhaji-plan-for-friends
 - 1957年5月26日 | 李敖决定每天只用睡前一小时做自律功夫
   精度：day；可靠度：confirmed；排序日期：1957-05-26
   摘要：《当心“自我耽溺”》写，1957年5月26日，李敖意识到自己把太多时间花在自律、读修养书和写日记上；王建人还两度笑他整天写日记。李敖因此决定，自律功夫只在每天临睡前一小时内做，其他时间连修养书和日记本都不要翻。
@@ -2805,7 +2805,7 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/001.大学札记/089.自负.txt
   数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-06-29-talks-with-third-sister-and-zhang-zhongjuan-at-normal-university
-- 1957年6月29日 | 李敖在王家看到四只小鹦鹉，想到将来养小动物
+- 1957年6月29日 | 李敖在王家看到四只小鹦鹉，并说他想到将来养小动物
   精度：day；可靠度：confirmed；排序日期：1957-06-29
   摘要：《养小动物》写，1957年6月29日，李敖在王家看到四只小鹦鹉，很是喜欢，并想到将来养两对鹦鹉及兔子等小动物，作为好玩的嗜好。
   人物：李敖
@@ -3301,7 +3301,7 @@
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-07-29-daxue-zhaji-not-afraid-of-solitude
 - 1957年7月30日 | 李敖午赴台静农家小坐
   精度：day；可靠度：confirmed；排序日期：1957-07-30
-  摘要：《见台静农》写，1957年7月30日中午，李敖赴台静农先生家小坐。台静农说近日将把所有时间都花在看招生卷子上，李敖由此想到生活累人和时间用途问题。
+  摘要：《见台静农》写，1957年7月30日中午，李敖赴台静农先生家小坐。台静农说近日将把所有时间都花在看招生卷子上，李敖说他由此想到生活累人和时间用途问题。
   人物：李敖、台静农
   地点：-
   标签：大学札记、台静农、招生卷子、小坐
@@ -3377,9 +3377,9 @@
   补充来源：大学札记 / 136.比例的眼光 / line 3；说明：原书《大学札记》同日条。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/004.自我炼钢.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1957-08-06-daxue-zhaji-proportion-view
-- 1957年8月8日 | 李敖念英文时想到陈绍鹏先生读书的样子
+- 1957年8月8日 | 李敖说他念英文时想到陈绍鹏先生读书的样子
   精度：day；可靠度：confirmed；排序日期：1957-08-08
-  摘要：《陈绍鹏先生》写，1957年8月8日，李敖每念英文就想到陈绍鹏先生，想到他安坐椅中、悠闲而专心读书的情形，并称其为大名士和能做学问的人。
+  摘要：《陈绍鹏先生》写，1957年8月8日，李敖说他每念英文就想到陈绍鹏先生，想到他安坐椅中、悠闲而专心读书的情形，并称其为大名士和能做学问的人。
   人物：李敖、陈绍鹏
   地点：-
   标签：大学札记、陈绍鹏、英文、读书、做学问
@@ -3535,7 +3535,7 @@
   数据：data/timeline-events-daxue-zhaji.json#daxue-zhaji-1957-08-29-receives-zhang-shimin-letter-and-replies-four-hours
 - 1957年8月30日 | 李敖以朋友眼中的自己作为行为标准
   精度：day；可靠度：excerpted-diary；排序日期：1957-08-30
-  摘要：《李敖语录》摘录《大学札记》1957年8月30日条。李敖想到可用朋友观点来看自己，从对人帮助到明信片字迹，都可借此作为行为取舍标准。
+  摘要：《李敖语录》摘录《大学札记》1957年8月30日条。李敖说他想到可用朋友观点来看自己，从对人帮助到明信片字迹，都可借此作为行为取舍标准。
   人物：李敖
   地点：-
   标签：李敖语录、大学札记、日记、语录摘录、1957
@@ -4094,9 +4094,9 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/001.十七天的校园生活.txt
   数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1958-05-30-writes-about-interest-in-calligraphy
-- 1958年5月30日 | 李敖在史学方法课上想到要培养态度坚决的作风
+- 1958年5月30日 | 李敖说他在史学方法课上想到要培养态度坚决的作风
   精度：day；可靠度：confirmed；排序日期：1958-05-30
-  摘要：1958年5月30日，李敖在史学方法课上想到“何物南北，什么东西！”并记下自己要培养出一股态度坚决的作风。
+  摘要：1958年5月30日，李敖说他在史学方法课上想到“何物南北，什么东西！”并记下自己要培养出一股态度坚决的作风。
   人物：李敖
   地点：台湾大学
   标签：早年日记、史学方法、课堂、作风、态度坚决
@@ -4198,9 +4198,9 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/001.十七天的校园生活.txt
   数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1958-06-02-records-triathlon-results
-- 1958年6月3日 | 李敖与施珂谈天后想到该做第二张竞生
+- 1958年6月3日 | 李敖与施珂谈天后，说他想到该做第二张竞生
   精度：day；可靠度：confirmed；排序日期：1958-06-03
-  摘要：1958年6月3日，李敖与施珂谈天后想到，自己该做“第二张竞生”。本条保留谈话触发的自我定位。
+  摘要：1958年6月3日，李敖与施珂谈天后，说他想到自己该做“第二张竞生”。本条保留谈话触发的自我定位。
   人物：李敖、施珂、张竞生
   地点：-
   标签：早年日记、施珂、张竞生、谈天
@@ -4315,9 +4315,9 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/001.十七天的校园生活.txt
   数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1958-06-06-watches-a-farewell-to-arms
-- 1958年6月6日 | 李敖想到要把笑话写成《哈哈集》，把一生快乐事写成《得意集》
+- 1958年6月6日 | 李敖说他想到要把笑话写成《哈哈集》，把一生快乐事写成《得意集》
   精度：day；可靠度：confirmed；排序日期：1958-06-06
-  摘要：1958年6月6日，李敖想到应把许多笑话写成《哈哈集》，又想到把一生快乐的事写成《得意集》；咪咪则说可把失意的事写出来作为警惕，李敖觉得不需要。
+  摘要：1958年6月6日，李敖说他想到应把许多笑话写成《哈哈集》，又想到把一生快乐的事写成《得意集》；咪咪则说可把失意的事写出来作为警惕，李敖觉得不需要。
   人物：李敖、咪咪
   地点：-
   标签：早年日记、哈哈集、得意集、咪咪、写作计划
@@ -4343,7 +4343,7 @@
   数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1958-06-07-talks-with-sun-zhishen
 - 1958年6月7日 | 李敖独坐新兴左角遥望云山
   精度：day；可靠度：confirmed；排序日期：1958-06-07
-  摘要：1958年6月7日，李敖独坐在新兴左角，遥望远处云山，想到看云看天而不看世俗群，可以使自己愈来愈广阔。
+  摘要：1958年6月7日，李敖独坐在新兴左角，遥望远处云山，并说他想到看云看天而不看世俗群，可以使自己愈来愈广阔。
   人物：李敖
   地点：新兴
   标签：早年日记、新兴、看云、云山、独坐
@@ -4744,9 +4744,9 @@
   补充来源：大学后期日记甲集 / 001.1958年6月 / line 217；说明：同日劝陈彦增少写日记。；大学后期日记甲集 / 001.1958年6月 / line 219；说明：同日由与袁祝泰之事想到室中少开玩笑。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/001.1958年6月.txt
   数据：data/timeline-events-daxue-houqi-riji-jia.json#daxue-houqi-jia-1958-06-14-history-exam-and-advises-yanzeng-less-diary
-- 1958年6月14日 | 李敖洗衣时想到罗塞蒂诗句，夜读西洋史甚愉快
+- 1958年6月14日 | 李敖说他洗衣时想到罗塞蒂诗句，夜读西洋史甚愉快
   精度：day；可靠度：diary；排序日期：1958-06-14
-  摘要：李敖洗衣时想到 Christina Rossetti 的诗句，并以此联想到恋爱态度；夜里他看西洋史，觉得成绩斐然，并愉快于三天来的努力工作和长进。
+  摘要：李敖说他洗衣时想到 Christina Rossetti 的诗句，并以此联想到恋爱态度；夜里他看西洋史，觉得成绩斐然，并愉快于三天来的努力工作和长进。
   人物：李敖、Christina Rossetti
   地点：台北
   标签：大学后期日记甲集、洗衣、Christina Rossetti、西洋史、恋爱态度
@@ -4952,7 +4952,7 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/001.1958年6月.txt
   数据：data/timeline-events-daxue-houqi-riji-jia.json#daxue-houqi-jia-1958-06-16-anything-connected-with-her-unpleasant
-- 1958年6月16日 | 李敖把镜子置于书桌前，并想到练漫画、写笑话与有趣之书
+- 1958年6月16日 | 李敖把镜子置于书桌前，并说他想到练漫画、写笑话与有趣之书
   精度：day；可靠度：diary；排序日期：1958-06-16
   摘要：李敖夜里把镜子放在书桌前，觉得镜子是促进上进的一大助力；他又由封面画想到可练习画漫画，做滑稽人，写笑话、有趣之书和打油诗。
   人物：李敖
@@ -5030,19 +5030,6 @@
   补充来源：大学后期日记甲集 / 001.1958年6月 / line 329；说明：同日继续反省过去高估女性与旧日迷恋。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/001.1958年6月.txt
   数据：data/timeline-events-daxue-houqi-riji-jia.json#daxue-houqi-jia-1958-06-17-light-love-and-disillusion
-- 1958年6月17日 | 李敖在近古史课上想到多采僻说与论史方式
-  精度：day；可靠度：diary；排序日期：1958-06-17
-  摘要：李敖在近古史课上想到，写史应多采僻说与论史方式，事实叙述可以简略，因为僻说与论史更能显示程度。
-  人物：李敖
-  地点：台北
-  标签：大学后期日记甲集、近古史、论史、史学方法
-  视图：读书线、思想线、校园线
-  作品：大学后期日记甲集、近古史
-  交叉引用：-
-  来源：大学后期日记甲集 / 001.1958年6月 / line 323
-  补充来源：-
-  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/001.1958年6月.txt
-  数据：data/timeline-events-daxue-houqi-riji-jia.json#daxue-houqi-jia-1958-06-17-near-modern-history-class-method
 - 1958年6月17日 | 李敖在普通教室走廊见“苏菲亚”与“桥牌”
   精度：day；可靠度：diary；排序日期：1958-06-17
   摘要：李敖第二节下课在普通教室走廊上见到“苏菲亚”与“桥牌”，并记“苏菲亚”怕羞、“桥牌”甚虚弱。
@@ -5069,6 +5056,19 @@
   补充来源：大学后期日记甲集 / 001.1958年6月 / line 333；说明：同日自评一年一个月来人生和爱情经验带来自恃进步。；大学后期日记甲集 / 001.1958年6月 / line 335；说明：同日夜与余士辅小谈，称自己已完成、长成、解脱。；大学后期日记甲集 / 001.1958年6月 / line 339；说明：同日晚在图书馆看书至十时。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/001.1958年6月.txt
   数据：data/timeline-events-daxue-houqi-riji-jia.json#daxue-houqi-jia-1958-06-17-library-laughter-progress-and-yu-shifu-talk
+- 1958年6月17日 | 李敖说他在近古史课上想到多采僻说与论史方式
+  精度：day；可靠度：diary；排序日期：1958-06-17
+  摘要：李敖说他在近古史课上想到，写史应多采僻说与论史方式，事实叙述可以简略，因为僻说与论史更能显示程度。
+  人物：李敖
+  地点：台北
+  标签：大学后期日记甲集、近古史、论史、史学方法
+  视图：读书线、思想线、校园线
+  作品：大学后期日记甲集、近古史
+  交叉引用：-
+  来源：大学后期日记甲集 / 001.1958年6月 / line 323
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/001.1958年6月.txt
+  数据：data/timeline-events-daxue-houqi-riji-jia.json#daxue-houqi-jia-1958-06-17-near-modern-history-class-method
 - 1958年6月18日 | 李敖与老马念《古代社会》、考试后同老马和咪咪谈到傍晚
   精度：day；可靠度：diary；排序日期：1958-06-18
   摘要：李敖与老马念《古代社会》而得共学之乐；下午考试时老马迟到一小时，考后李敖与老马、咪咪在水利局后面谈到七点，老马并谈欣赏乃再创造。
@@ -5240,7 +5240,7 @@
   数据：data/timeline-events-daxue-houqi-riji-jia.json#daxue-houqi-jia-1958-06-21-dragon-boat-wang-family-cold-headache
 - 1958年6月22日 | 李敖反省毕业后生活方式、前途打算与行动影响心情
   精度：day；可靠度：diary；排序日期：1958-06-22
-  摘要：李敖由沈的生活想到自己毕业后不可如俗人过生活，也不应在学时如此；夜里在车中他想到要以傲岸神情对付俗事，并提醒自己多为前途打算。晚上回来后，他又感到行动的确影响心情，是获得快乐的一种良法。
+  摘要：李敖说他由沈的生活想到自己毕业后不可如俗人过生活，也不应在学时如此；夜里在车中他想到要以傲岸神情对付俗事，并提醒自己多为前途打算。晚上回来后，他又感到行动的确影响心情，是获得快乐的一种良法。
   人物：李敖
   地点：台北
   标签：大学后期日记甲集、毕业、前途、行动、心情、俗事
@@ -5420,7 +5420,7 @@
   补充来源：大学后期日记甲集 / 001.1958年6月 / line 707；说明：同日细记小梅坐处、衣着、笑容和二女中背景。；大学后期日记甲集 / 001.1958年6月 / line 709；说明：同日想起 L 说他嫉妒。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/001.1958年6月.txt
   数据：data/timeline-events-daxue-houqi-riji-jia.json#daxue-houqi-jia-1958-06-25-xiaomei-success-and-l-jealousy
-- 1958年6月25日 | 李敖想到能否大量真爱女孩子，并批评“她”家教与恶性
+- 1958年6月25日 | 李敖说他想到能否大量真爱女孩子，并批评“她”家教与恶性
   精度：day；可靠度：diary；排序日期：1958-06-25
   摘要：李敖问自己能否大量真爱一些女孩子；同日他又写“她”不能算好人，认为她恶性重大、家教甚坏。
   人物：李敖
@@ -5433,7 +5433,7 @@
   补充来源：大学后期日记甲集 / 001.1958年6月 / line 725；说明：同日批评“她”的恶性与家教。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/001.1958年6月.txt
   数据：data/timeline-events-daxue-houqi-riji-jia.json#daxue-houqi-jia-1958-06-25-questions-loving-many-girls-and-criticizes-her
-- 1958年6月26日 | 李敖与子维在荷池边谈话，被 X 注视，并想到给胡适写信
+- 1958年6月26日 | 李敖与子维在荷池边谈话，被 X 注视，并说他想到给胡适写信
   精度：day；可靠度：diary；排序日期：1958-06-26
   摘要：李敖与子维在荷池边讲话，楼上 X 一直看着他的一举一动，使他再次想到风度的重要；他又觉得中午来时应向 Y 打招呼，可写封信给胡适，随后找昭先时来梦儿回头看。他还记练习十分钟小睡、与英善谈卡片本做法，并记下孙玉华的身分。
   人物：李敖、子维、X、Y、胡适、昭先、来梦儿、英善、孙玉华
@@ -5459,19 +5459,6 @@
   补充来源：李敖语录 / 031.纸上罗曼斯 / line 47；说明：同日自我约束“不言人过”。；大学后期日记甲集 / 001.1958年6月 / line 739；说明：《大学后期日记甲集》原文记笑脸要像拔枪一样快。；大学后期日记甲集 / 001.1958年6月 / line 741；说明：原文记“不说女孩子缺点！不言人过。”
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1958-06-26-diary-smile-and-not-speaking-ill
-- 1958年6月26日 | 李敖由女孩子笑脸说话想到笑脸要快，并自戒不言人过
-  精度：day；可靠度：diary；排序日期：1958-06-26
-  摘要：李敖由前一日看见女孩子对管理员笑脸说话，想到自己也应声出而笑脸至，笑脸要像拔枪那样快；同日他又写不说女孩子缺点、不言人过。
-  人物：李敖
-  地点：台北
-  标签：大学后期日记甲集、笑脸、不言人过、女孩子、风度
-  视图：自我训练线、情感线、日常线
-  作品：大学后期日记甲集
-  交叉引用：li-ao-yulu-1958-06-26-diary-smile-and-not-speaking-ill
-  来源：大学后期日记甲集 / 001.1958年6月 / line 739
-  补充来源：大学后期日记甲集 / 001.1958年6月 / line 741；说明：同日写“不说女孩子缺点！不言人过。”
-  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/001.1958年6月.txt
-  数据：data/timeline-events-daxue-houqi-riji-jia.json#daxue-houqi-jia-1958-06-26-smile-fast-and-not-speaking-ill
 - 1958年6月26日 | 李敖在图书馆见 Y 与来梦儿，并反省风度须常在
   精度：day；可靠度：diary；排序日期：1958-06-26
   摘要：李敖记图书馆中 Y 来得很早，两人互望；来梦儿也来了，取书时目光互对一次。他由在参考室对昌平想到风度重要而可爱，认为任何情况下都不失去风度才算。
@@ -5485,6 +5472,19 @@
   补充来源：大学后期日记甲集 / 001.1958年6月 / line 735；说明：同日记来梦儿取书时目光互对。；大学后期日记甲集 / 001.1958年6月 / line 737；说明：同日由参考室对昌平想到风度。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/001.1958年6月.txt
   数据：data/timeline-events-daxue-houqi-riji-jia.json#daxue-houqi-jia-1958-06-26-library-y-lamour-and-style-with-changping
+- 1958年6月26日 | 李敖说他由女孩子笑脸说话想到笑脸要快，并自戒不言人过
+  精度：day；可靠度：diary；排序日期：1958-06-26
+  摘要：李敖说他由前一日看见女孩子对管理员笑脸说话，想到自己也应声出而笑脸至，笑脸要像拔枪那样快；同日他又写不说女孩子缺点、不言人过。
+  人物：李敖
+  地点：台北
+  标签：大学后期日记甲集、笑脸、不言人过、女孩子、风度
+  视图：自我训练线、情感线、日常线
+  作品：大学后期日记甲集
+  交叉引用：li-ao-yulu-1958-06-26-diary-smile-and-not-speaking-ill
+  来源：大学后期日记甲集 / 001.1958年6月 / line 739
+  补充来源：大学后期日记甲集 / 001.1958年6月 / line 741；说明：同日写“不说女孩子缺点！不言人过。”
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/001.1958年6月.txt
+  数据：data/timeline-events-daxue-houqi-riji-jia.json#daxue-houqi-jia-1958-06-26-smile-fast-and-not-speaking-ill
 - 1958年6月26日 | 李敖赴外文系图书馆找书，见劳伦斯传并结识孟祥柯
   精度：day；可靠度：diary；排序日期：1958-06-26
   摘要：李敖赴外文系图书馆，在外文系找书而看见自己的能力；他见到劳伦斯等人的传记，觉得西方书是一个新世界，要向那方面发展。孟祥柯对他说久仰，李敖因而觉得每日至少交一友甚好。
@@ -5706,7 +5706,7 @@
   补充来源：大学后期日记甲集 / 002.1958年7月 / line 7；说明：同日与萧启庆、袁祝泰玩牌。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/002.1958年7月.txt
   数据：data/timeline-events-daxue-houqi-riji-jia.json#daxue-houqi-jia-1958-07-01-xu-gaoruan-visits-and-card-game-with-qiqing-zhugong
-- 1958年7月2日 | 李敖在考试日被“凝”看见，并想到利用参考室类书
+- 1958年7月2日 | 李敖在考试日被“凝”看见，并说他想到利用参考室类书
   精度：day；可靠度：diary；排序日期：1958-07-02
   摘要：李敖坐下时，“凝”陆续看他；十点后她们去考试，出来在路上又看到。当天他还记图画词典等参考室中的类书应好好利用，并补记钞票刚出厂时用称重法检验数目。
   人物：李敖、凝
@@ -5862,19 +5862,6 @@
   补充来源：大学后期日记甲集 / 002.1958年7月 / line 107；说明：同日余士辅介绍张振东。；大学后期日记甲集 / 002.1958年7月 / line 109；说明：同日阿星介绍林金龙。；大学后期日记甲集 / 002.1958年7月 / line 115；说明：同日记曹勉之先生。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/002.1958年7月.txt
   数据：data/timeline-events-daxue-houqi-riji-jia.json#daxue-houqi-jia-1958-07-06-new-acquaintances-wang-zhang-lin-cao
-- 1958年7月7日 | 李敖又想到李幼冬事，后来称这是《论“处女膜整型”》夙愿来源
-  精度：day；可靠度：diary；排序日期：1958-07-07
-  摘要：李敖又想到李幼冬事，感到不安之至；后按说明，五年后他在1963年10月1日《文星》第七十二号发表《论“处女膜整型”》，其中论李幼冬事件，并说明从大学时起就发愤要写大文字，痛斥传统下“羞忿自尽”的荒谬观念。
-  人物：李敖、李幼冬
-  地点：台北
-  标签：大学后期日记甲集、李幼冬、论“处女膜整型”、文星、羞忿自尽、性观念
-  视图：思想线、写作线、性观念线
-  作品：大学后期日记甲集、论“处女膜整型”、文星
-  交叉引用：book5-1963-10-01-chunvmo-zhengxing-published
-  来源：大学后期日记甲集 / 002.1958年7月 / line 133
-  补充来源：大学后期日记甲集 / 002.1958年7月 / line 135；说明：后按引1963文中回述李幼冬事件。；大学后期日记甲集 / 002.1958年7月 / line 137；说明：后按引1963文中说明他大学时读相关评论而睡不好。；大学后期日记甲集 / 002.1958年7月 / line 139；说明：后按引1963文中说明从那时发愤写大文字。；大学后期日记甲集 / 002.1958年7月 / line 143；说明：后按引1963文中说写完这几段总算聊尽夙愿。
-  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/002.1958年7月.txt
-  数据：data/timeline-events-daxue-houqi-riji-jia.json#daxue-houqi-jia-1958-07-07-li-youdong-memory-seed-for-chunvmo-essay
 - 1958年7月7日 | 李敖与姚从吾合照，姚从吾先替他整理领子
   精度：day；可靠度：diary；排序日期：1958-07-07
   摘要：李敖与姚从吾先生合照一帧；姚从吾先替李敖整理领子，才与他照相。李敖并记自己该每月照一次相。
@@ -5914,6 +5901,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/002.1958年7月.txt
   数据：data/timeline-events-daxue-houqi-riji-jia.json#daxue-houqi-jia-1958-07-07-decides-to-write-sex-novel
+- 1958年7月7日 | 李敖说他又想到李幼冬事，后来称这是《论“处女膜整型”》夙愿来源
+  精度：day；可靠度：diary；排序日期：1958-07-07
+  摘要：李敖说他又想到李幼冬事，感到不安之至；后按说明，五年后他在1963年10月1日《文星》第七十二号发表《论“处女膜整型”》，其中论李幼冬事件，并说明从大学时起就发愤要写大文字，痛斥传统下“羞忿自尽”的荒谬观念。
+  人物：李敖、李幼冬
+  地点：台北
+  标签：大学后期日记甲集、李幼冬、论“处女膜整型”、文星、羞忿自尽、性观念
+  视图：思想线、写作线、性观念线
+  作品：大学后期日记甲集、论“处女膜整型”、文星
+  交叉引用：book5-1963-10-01-chunvmo-zhengxing-published
+  来源：大学后期日记甲集 / 002.1958年7月 / line 133
+  补充来源：大学后期日记甲集 / 002.1958年7月 / line 135；说明：后按引1963文中回述李幼冬事件。；大学后期日记甲集 / 002.1958年7月 / line 137；说明：后按引1963文中说明他大学时读相关评论而睡不好。；大学后期日记甲集 / 002.1958年7月 / line 139；说明：后按引1963文中说明从那时发愤写大文字。；大学后期日记甲集 / 002.1958年7月 / line 143；说明：后按引1963文中说写完这几段总算聊尽夙愿。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/002.1958年7月.txt
+  数据：data/timeline-events-daxue-houqi-riji-jia.json#daxue-houqi-jia-1958-07-07-li-youdong-memory-seed-for-chunvmo-essay
 - 1958年7月8日 | 李敖与孙、唐大吵后决定展开严肃自束生活
   精度：day；可靠度：diary；排序日期：1958-07-08
   摘要：李敖与孙小吵、与唐大吵，极为不愉快和沮丧，因自己竟与“这些人”有干系而作大决定：任何俗人都不能太熟，凡否定一人即须自检，展开严肃自束生活，练习拒绝俗人，青春绝不断送在俗人身上，并作主敬练习。
@@ -6020,7 +6020,7 @@
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1958-07-10-diary-refuses-lowly-romance
 - 1958年7月10日 | 李敖收到咪咪来信劝他充实且 humble，阿土称他整日用功
   精度：day；可靠度：diary；排序日期：1958-07-10
-  摘要：咪咪信中说近况单调，希望李敖好好利用三个月，使自己更充实，最重要的是更 humble；同日阿土说李敖整日不出、用功。李敖又想到圣诞夜事，认为当年太不行，如今已经能站起来。
+  摘要：咪咪信中说近况单调，希望李敖好好利用三个月，使自己更充实，最重要的是更 humble；同日阿土说李敖整日不出、用功。李敖说他又想到圣诞夜事，认为当年太不行，如今已经能站起来。
   人物：李敖、咪咪、阿土
   地点：台北
   标签：大学后期日记甲集、咪咪、来信、humble、阿土、圣诞夜
@@ -6109,7 +6109,7 @@
   补充来源：大学后期日记甲集 / 002.1958年7月 / line 213；说明：同日记跟知识恋爱并非不正常。；大学后期日记甲集 / 002.1958年7月 / line 215；说明：同日长段自许英雄式生活与钢铁意志。；大学后期日记甲集 / 002.1958年7月 / line 217；说明：同日记对女人不费太大力气，与昔日劝曹宏武之言不同。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/002.1958年7月.txt
   数据：data/timeline-events-daxue-houqi-riji-jia.json#daxue-houqi-jia-1958-07-12-story-of-mankind-knowledge-love-and-heroic-self
-- 1958年7月12日 | 李敖摘记 Baldwin 与 William Penn 语，并联想到毛子水
+- 1958年7月12日 | 李敖摘记 Baldwin 与 William Penn 语，并说他联想到毛子水
   精度：day；可靠度：diary；排序日期：1958-07-12
   摘要：李敖记 Stanley Baldwin 关于民主不可缺少政治自由与思想自由的话，又记 William Penn 关于过多阅读会压迫心智、熄灭天然灵光的说法，并后按称每想到这话就想到毛子水。
   人物：李敖、Stanley Baldwin、William Penn、毛子水
@@ -8035,7 +8035,7 @@
   数据：data/timeline-events-daxue-houqi-riji-jia.json#daxue-houqi-jia-1958-09-13-drafts-condolence-letter-to-xi-yinsheng-but-does-not-copy-send
 - 1958年9月13日 | 李敖读6月9日日记，忽想在台大创“哈哈会”
   精度：day；可靠度：diary；排序日期：1958-09-13
-  摘要：李敖读6月9日日记，忽然想到在台大创立一个“哈哈会”。
+  摘要：李敖读6月9日日记，并说他忽然想到在台大创立一个“哈哈会”。
   人物：李敖
   地点：台大
   标签：大学后期日记甲集、6月9日日记、台大、哈哈会
@@ -8540,19 +8540,6 @@
   补充来源：大学后期日记甲集 / 004.1958年9月 / line 365；说明：同日对 Rosa、Y 等侧头如不见。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/004.1958年9月.txt
   数据：data/timeline-events-daxue-houqi-riji-jia.json#daxue-houqi-jia-1958-09-26-freshmen-unaccustomed-and-li-ao-ignores-rosa-y
-- 1958年9月27日 | 李敖由禹之谟之死想到流血死去有时竟不可得
-  精度：day；可靠度：diary；排序日期：1958-09-27
-  摘要：李敖写“流血死去有时竟不可得”，并举禹之谟为革命欲流血而死，却被清吏绞杀为例。
-  人物：李敖、禹之谟
-  地点：台北
-  标签：大学后期日记甲集、禹之谟、革命、流血、清吏、绞杀
-  视图：思想线、历史线、革命线
-  作品：大学后期日记甲集
-  交叉引用：-
-  来源：大学后期日记甲集 / 004.1958年9月 / line 379
-  补充来源：-
-  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/004.1958年9月.txt
-  数据：data/timeline-events-daxue-houqi-riji-jia.json#daxue-houqi-jia-1958-09-27-reflects-yu-zhimo-death-and-bloodless-execution
 - 1958年9月27日 | 李敖夜给孟大中送月饼，并在月下、冰店小谈
   精度：day；可靠度：diary；排序日期：1958-09-27
   摘要：夜里，李敖给孟大中送去两块月饼，并同他到月下、冰店小谈；李敖甚喜孟大中的消极论，概括为自己求乐，同时希望别人也乐。
@@ -8566,6 +8553,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/004.1958年9月.txt
   数据：data/timeline-events-daxue-houqi-riji-jia.json#daxue-houqi-jia-1958-09-27-brings-mooncakes-to-meng-dazhong-and-likes-passive-theory
+- 1958年9月27日 | 李敖说他由禹之谟之死想到流血死去有时竟不可得
+  精度：day；可靠度：diary；排序日期：1958-09-27
+  摘要：李敖写“流血死去有时竟不可得”，并举禹之谟为革命欲流血而死，却被清吏绞杀为例。
+  人物：李敖、禹之谟
+  地点：台北
+  标签：大学后期日记甲集、禹之谟、革命、流血、清吏、绞杀
+  视图：思想线、历史线、革命线
+  作品：大学后期日记甲集
+  交叉引用：-
+  来源：大学后期日记甲集 / 004.1958年9月 / line 379
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/004.1958年9月.txt
+  数据：data/timeline-events-daxue-houqi-riji-jia.json#daxue-houqi-jia-1958-09-27-reflects-yu-zhimo-death-and-bloodless-execution
 - 1958年9月27日 | 李敖傍晚赴王家过中秋，被称北人南相、漂亮，并送二姐铜币
   精度：day；可靠度：diary；排序日期：1958-09-27
   摘要：傍晚，李敖赴王家过中秋节；二婶、二姐等说他北人南相、漂亮，他送一枚铜币给二姐。
@@ -8605,9 +8605,9 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/004.1958年9月.txt
   数据：data/timeline-events-daxue-houqi-riji-jia.json#daxue-houqi-jia-1958-09-28-thinks-sequel-to-thirty-three-not-also-happy
-- 1958年9月28日 | 李敖看丕隆，想到善与人处的扩大
+- 1958年9月28日 | 李敖说他看丕隆后想到善与人处的扩大
   精度：day；可靠度：diary；排序日期：1958-09-28
-  摘要：李敖去看丕隆，并想到善与人处的扩大。
+  摘要：李敖去看丕隆，并说他想到善与人处的扩大。
   人物：李敖、丕隆
   地点：台北
   标签：大学后期日记甲集、丕隆、善与人处
@@ -9424,9 +9424,9 @@
   补充来源：大学后期日记甲集 / 005.1958年10月 / line 59；说明：起床与上午安排。；大学后期日记甲集 / 005.1958年10月 / line 65；说明：午间安排。；大学后期日记甲集 / 005.1958年10月 / line 69；说明：晚间在参考室。；大学后期日记甲集 / 005.1958年10月 / line 73；说明：睡眠不可多于八小时。；大学后期日记甲集 / 005.1958年10月 / line 75；说明：电影每周最多一次。；大学后期日记甲集 / 005.1958年10月 / line 77；说明：星期日及例假日为自由日。；大学后期日记甲集 / 005.1958年10月 / line 81；说明：非念书的事尽量排给假日。；大学后期日记甲集 / 005.1958年10月 / line 83；说明：同条含每逢五、十 Masturbation。；大学后期日记甲集 / 005.1958年10月 / line 85；说明：同乐朋友预选并写信约好。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/005.1958年10月.txt
   数据：data/timeline-events-daxue-houqi-riji-jia.json#daxue-houqi-jia-1958-10-17-revises-daily-life-principles-recorded-under-october-4
-- 1958年10月17日 | 李敖想到Y，坚持标准，并决定对翻译课后的Y采取沉默冷落
+- 1958年10月17日 | 李敖说他想到Y，坚持标准，并决定对翻译课后的Y采取沉默冷落
   精度：day；可靠度：diary；排序日期：1958-10-17
-  摘要：李敖又想到Y之事，称绝不自毁标准；景新汉昨日指出他目的与俗同却不采俗手段的矛盾，祝公今日来信劝他舍己从俗，但李敖坚持不妥协，并决定自明日上翻译课起不再有进展之念，以有意的沉默和无语的冷落为手段。
+  摘要：李敖说他又想到Y之事，称绝不自毁标准；景新汉昨日指出他目的与俗同却不采俗手段的矛盾，祝公今日来信劝他舍己从俗，但李敖坚持不妥协，并决定自明日上翻译课起不再有进展之念，以有意的沉默和无语的冷落为手段。
   人物：李敖、Y、景新汉、祝公
   地点：台北、台大
   标签：大学后期日记甲集、Y、景新汉、祝公、翻译课、标准、沉默
@@ -9606,19 +9606,6 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/005.1958年10月.txt
   数据：data/timeline-events-daxue-houqi-riji-jia.json#daxue-houqi-jia-1958-10-20-plays-with-puppy-at-shop-opposite
-- 1958年10月20日 | 李敖由戴帽脱帽礼俗想到帽与人的历史，又想上方剑
-  精度：day；可靠度：diary；排序日期：1958-10-20
-  摘要：李敖比较古人见人戴帽、今人脱帽为礼，并连及子路死于卫、汉武不免冠见汲黯、周亚夫免冠谢罪，称这是帽与人的历史；又感叹若有上方剑可作先斩后奏之用。
-  人物：李敖、子路、汉武帝、汲黯、周亚夫
-  地点：台北、台大
-  标签：大学后期日记甲集、帽、礼俗、子路、汉武帝、汲黯、周亚夫、上方剑
-  视图：思想线、阅读线
-  作品：大学后期日记甲集
-  交叉引用：-
-  来源：大学后期日记甲集 / 005.1958年10月 / line 255
-  补充来源：大学后期日记甲集 / 005.1958年10月 / line 257；说明：同日又想上方剑可作先斩后奏之用。
-  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/005.1958年10月.txt
-  数据：data/timeline-events-daxue-houqi-riji-jia.json#daxue-houqi-jia-1958-10-20-hats-history-and-shangfang-sword-thoughts
 - 1958年10月20日 | 李敖坐在图书馆一角，改从“可厌”面看女孩子并思考自己该成为什么人
   精度：day；可靠度：diary；排序日期：1958-10-20
   摘要：李敖坐在图书馆一角远望窗外，想到女孩子“可厌”的一面，列举小气、浅薄、虚伪、虚荣、臭架子、短视、装模作样、爱利用人、自私、不尊重人等；他又思考自己该是什么样的人，借“不为五斗米折腰”说明与她们生干系只会使自己失掉自己并蒙屈辱。
@@ -9645,6 +9632,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/005.1958年10月.txt
   数据：data/timeline-events-daxue-houqi-riji-jia.json#daxue-houqi-jia-1958-10-20-talks-with-zhuangyin-at-xinxing-and-campus-smoking-much
+- 1958年10月20日 | 李敖说他由戴帽脱帽礼俗想到帽与人的历史，又想上方剑
+  精度：day；可靠度：diary；排序日期：1958-10-20
+  摘要：李敖比较古人见人戴帽、今人脱帽为礼，并连及子路死于卫、汉武不免冠见汲黯、周亚夫免冠谢罪，称这是帽与人的历史；又感叹若有上方剑可作先斩后奏之用。
+  人物：李敖、子路、汉武帝、汲黯、周亚夫
+  地点：台北、台大
+  标签：大学后期日记甲集、帽、礼俗、子路、汉武帝、汲黯、周亚夫、上方剑
+  视图：思想线、阅读线
+  作品：大学后期日记甲集
+  交叉引用：-
+  来源：大学后期日记甲集 / 005.1958年10月 / line 255
+  补充来源：大学后期日记甲集 / 005.1958年10月 / line 257；说明：同日又想上方剑可作先斩后奏之用。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/005.1958年10月.txt
+  数据：data/timeline-events-daxue-houqi-riji-jia.json#daxue-houqi-jia-1958-10-20-hats-history-and-shangfang-sword-thoughts
 - 1958年10月20日 | 李敖续成10月13日之诗《爱情如牙刷》
   精度：day；可靠度：diary；排序日期：1958-10-20
   摘要：李敖续成10月13日之诗，写“三月换一把，爱情如牙刷（或作‘女人如牙刷’），但寻风头草，不觅解语花”。
@@ -9712,7 +9712,7 @@
   数据：data/timeline-events-daxue-houqi-riji-jia.json#daxue-houqi-jia-1958-10-21-content-with-current-life-and-avoids-trouble
 - 1958年10月21日 | 李敖重想6月22日提出的“不合作的坚决”，称其为为人大标准
   精度：day；可靠度：diary；排序日期：1958-10-21
-  摘要：李敖又想到6月22日提出的“不合作的坚决”，称这是自己为人的大标准之一，也是近日最着力所在；最近在这一点上颇心安而不矛盾，甚可喜。
+  摘要：李敖说他又想到6月22日提出的“不合作的坚决”，称这是自己为人的大标准之一，也是近日最着力所在；最近在这一点上颇心安而不矛盾，甚可喜。
   人物：李敖
   地点：台北、台大
   标签：大学后期日记甲集、不合作的坚决、为人标准、心安
@@ -11010,9 +11010,9 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/006.1958年11月.txt
   数据：data/timeline-events-daxue-houqi-riji-jia.json#daxue-houqi-jia-1958-11-17-lunch-with-xinhan-and-hide-and-seek-in-college-of-liberal-arts
-- 1958年11月17日 | 李敖在医院想到“咀嚼主义”
+- 1958年11月17日 | 李敖说他在医院想到“咀嚼主义”
   精度：day；可靠度：diary；排序日期：1958-11-17
-  摘要：李敖在医院想到“咀嚼主义”，认为闲时烦时可细味，受用无穷；不必多，多亦无用，烟云过眼而不当于心便无益。
+  摘要：李敖说他在医院想到“咀嚼主义”，认为闲时烦时可细味，受用无穷；不必多，多亦无用，烟云过眼而不当于心便无益。
   人物：李敖
   地点：台北、医院
   标签：大学后期日记甲集、医院、咀嚼主义、烟云过眼
@@ -11985,9 +11985,9 @@
   补充来源：大学后期日记甲集 / 007.1958年12月 / line 147；说明：词后说明以“不老”哲学和怕太太协会两点意思敬贺胡适六十八岁生辰。；大学后期日记甲集 / 007.1958年12月 / line 149；说明：署“李敖 1958年”。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt
   数据：data/timeline-events-daxue-houqi-riji-jia.json#daxue-houqi-jia-1958-12-06-good-deeds-near-birthday-song-for-hu-shih
-- 1958年12月6日 | 李敖床上想到编“相识卡”，耀祖英善评其外马虎内整齐
+- 1958年12月6日 | 李敖说他在床上想到编“相识卡”，耀祖英善评其外马虎内整齐
   精度：day；可靠度：diary；排序日期：1958-12-06
-  摘要：李敖在床上想到应当编“相识卡”。耀祖与英善说他外马虎而内整齐，李敖想大概是因为他们见到自己用针钉纽扣。前天耀祖还说：“李敖的可爱就在这里，他当了总统杀了人就会后悔。”
+  摘要：李敖说他在床上想到应当编“相识卡”。耀祖与英善说他外马虎而内整齐，李敖想大概是因为他们见到自己用针钉纽扣。前天耀祖还说：“李敖的可爱就在这里，他当了总统杀了人就会后悔。”
   人物：李敖、耀祖、英善
   地点：台北、台大
   标签：大学后期日记甲集、相识卡、耀祖、英善、外马虎内整齐、钉纽扣、可爱
@@ -12063,19 +12063,6 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt
   数据：data/timeline-events-daxue-houqi-riji-jia.json#daxue-houqi-jia-1958-12-07-yuanshan-grass-with-zhou-children-and-yaozu
-- 1958年12月8日 | 李敖上车前想到“是狗还是人”“人间何处有真人”，并决意排除怀往之情
-  精度：day；可靠度：diary；排序日期：1958-12-08
-  摘要：李敖上车前想到“是狗还是人？”“人间何处有真人？”在车上又觉得即使些微怀往之情，也都是肉麻、可耻、恶心的，此念不可衰下去。他说过去虽有此类念头，却是部分、矛盾的，自今起要成为百分之百清一色的念头，别的都滚蛋。
-  人物：李敖
-  地点：台北、台大
-  标签：大学后期日记甲集、人间何处有真人、怀往之情、情感切割、自省
-  视图：思想线、情感线、自省线
-  作品：大学后期日记甲集
-  交叉引用：-
-  来源：大学后期日记甲集 / 007.1958年12月 / line 177
-  补充来源：-
-  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt
-  数据：data/timeline-events-daxue-houqi-riji-jia.json#daxue-houqi-jia-1958-12-08-bus-thoughts-is-dog-or-human-and-rejects-nostalgia
 - 1958年12月8日 | 李敖写白话新诗《毛毛诗》
   精度：day；可靠度：diary；排序日期：1958-12-08
   摘要：李敖在日记中写《毛毛诗》，标明是“新诗，白话的”。诗从睡醒在床上发现一根黑黑、曲拐弯的毛，写到不知是腋毛还是阴毛。
@@ -12102,6 +12089,19 @@
   补充来源：大学后期日记甲集 / 007.1958年12月 / line 195；说明：夜与翁松燃看《初恋》。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt
   数据：data/timeline-events-daxue-houqi-riji-jia.json#daxue-houqi-jia-1958-12-08-photo-like-rosa-and-watches-first-love-with-weng-songran
+- 1958年12月8日 | 李敖说他上车前想到“是狗还是人”“人间何处有真人”，并决意排除怀往之情
+  精度：day；可靠度：diary；排序日期：1958-12-08
+  摘要：李敖说他上车前想到“是狗还是人？”“人间何处有真人？”在车上又觉得即使些微怀往之情，也都是肉麻、可耻、恶心的，此念不可衰下去。他说过去虽有此类念头，却是部分、矛盾的，自今起要成为百分之百清一色的念头，别的都滚蛋。
+  人物：李敖
+  地点：台北、台大
+  标签：大学后期日记甲集、人间何处有真人、怀往之情、情感切割、自省
+  视图：思想线、情感线、自省线
+  作品：大学后期日记甲集
+  交叉引用：-
+  来源：大学后期日记甲集 / 007.1958年12月 / line 177
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/007.1958年12月.txt
+  数据：data/timeline-events-daxue-houqi-riji-jia.json#daxue-houqi-jia-1958-12-08-bus-thoughts-is-dog-or-human-and-rejects-nostalgia
 - 1958年12月9日 | 华民来信称李敖虽时运不佳、未来夫妻破裂、生病，仍有勇气活得有声有色
   精度：day；可靠度：diary；排序日期：1958-12-09
   摘要：华民来信说，李敖近来时运不佳，夫妻（未来的）破裂，又生病；但多亏他还有勇气活下去，且活得有声有色，令人佩服。
@@ -12975,6 +12975,136 @@
   数据：data/timeline-events-traditional-monologue-sequel.json#traditional-monologue-sequel-1958-three-discourses-on-women-written
 
 1959
+- 1959年1月1日 | 李敖下午在广诚处录音 Dear John，意外觉得自己歌声好听
+  精度：day；可靠度：diary；排序日期：1959-01-01
+  摘要：下午，李敖在广诚处录音 Dear John，想不到自己的歌声这样好听。
+  人物：李敖、广诚
+  地点：台北
+  标签：Dear John、录音、广诚、歌声
+  视图：日常线、交游线、音乐线
+  作品：大学后期日记乙集、Dear John
+  交叉引用：daxue-houqi-jia-1958-11-09-wulai-trip-with-qingchao-society
+  来源：大学后期日记乙集 / 001.1959年1月 / line 7
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-01-records-dear-john-at-guangcheng-and-likes-own-singing
+- 1959年1月1日 | 李敖在1959年1月开头记“1959年以跳舞开始，1958年以跳舞送走”
+  精度：day；可靠度：diary；排序日期：1959-01-01
+  摘要：《大学后期日记乙集》1959年1月开篇即记：“1959年以跳舞开始。1958年以跳舞送走了。”这承接了1958年12月31日周家舞会与生平第一次跳舞的尾声。
+  人物：李敖
+  地点：台北
+  标签：1959年、跳舞、新年、大学后期日记乙集
+  视图：日记线、情感线、交游线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-jia-1958-12-31-zhou-home-dance-with-guo-zhongkang-liang-and-first-dance-with-p
+  来源：大学后期日记乙集 / 001.1959年1月 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-01-year-starts-with-dancing-after-1958-sent-away-by-dancing
+- 1959年1月1日 | 李敖坐烟台曹先生车赴 P 家，P 戏称袋内情书不许看
+  精度：day；可靠度：diary；排序日期：1959-01-01
+  摘要：李敖坐烟台曹先生的车赴 P 家，一同出来时，他要看 P 的皮包，P 说：“袋内情书不许看。”
+  人物：李敖、P、曹先生
+  地点：台北、P家
+  标签：P、曹先生、烟台、P家、情书、皮包
+  视图：情感线、交游线、日常线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-jia-1958-12-30-afternoon-goes-to-p-home-with-zhou-hong-and-yaozu、daxue-houqi-jia-1958-12-31-zhou-home-dance-with-guo-zhongkang-liang-and-first-dance-with-p
+  来源：大学后期日记乙集 / 001.1959年1月 / line 11
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-01-rides-cao-car-to-p-home-and-p-says-love-letters-in-bag-not-allowed-to-read
+- 1959年1月1日 | 述古转述赵倩倩说李敖好玩，李敖自称“口坏心好”
+  精度：day；可靠度：diary；排序日期：1959-01-01
+  摘要：下午，述古说赵倩倩认为李敖好玩；李敖则说自己实在是一个“口坏心好”的人。
+  人物：李敖、述古、赵倩倩
+  地点：台北
+  标签：述古、赵倩倩、口坏心好
+  视图：交游线、自省线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 001.1959年1月 / line 9
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-01-shugu-says-zhao-qianqian-finds-him-fun-and-li-ao-calls-self-bad-mouth-good-heart
+- 1959年1月2日 | 李敖与马宏祥、景新汉在大理街大谈爱情、知识、理想、读书与罗曼罗兰路线
+  精度：day；可靠度：diary；排序日期：1959-01-02
+  摘要：夜里，李敖与马宏祥、景新汉在大理街大谈，记录多达百条意见。谈话从舍弃不属于自己的东西、不要放弃自己的圈子、痛苦与快乐、跳舞与生活开放、爱情与大理想的关系、读书制造背景、学术工作须寂寞、规律使天才不损失，到爱因斯坦、斯宾诺莎、罗曼罗兰、托尔斯泰、殷海光、胡适等。他特别记下“李白喝酒与李敖跳舞，可为今古之异”，又认为今晚之谈对自己极有重大影响，努力已不再胡适式，要走罗曼罗兰的路。
+  人物：李敖、马宏祥、景新汉、胡适、罗曼罗兰、托尔斯泰、殷海光、斯宾诺莎、爱因斯坦、歌德、杜威
+  地点：台北、大理街、北平
+  标签：马宏祥、景新汉、大理街、爱情、读书、罗曼罗兰、胡适、殷海光、逻辑、跳舞
+  视图：思想线、交游线、读书线、情感线
+  作品：大学后期日记乙集、约翰克利斯朵夫、战争与和平
+  交叉引用：daxue-houqi-jia-1958-12-31-zhou-home-dance-with-guo-zhongkang-liang-and-first-dance-with-p、daxue-houqi-jia-1958-12-27-arranges-work-schedule-and-forget-everything-work-method、daxue-houqi-jia-1958-12-26-relieved-from-rosa-turmoil-self-diagnosis-ship-cabin-and-turtle-study
+  来源：大学后期日记乙集 / 001.1959年1月 / line 19
+  补充来源：大学后期日记乙集 / 001.1959年1月 / line 59；说明：“李白喝酒与李敖跳舞，可为今古之异。”；大学后期日记乙集 / 001.1959年1月 / line 85；说明：谈读书在制造背景、学术工作非要寂寞不可。；大学后期日记乙集 / 001.1959年1月 / line 125；说明：谈爱因斯坦、斯宾诺莎、理想与决心。；大学后期日记乙集 / 001.1959年1月 / line 143；说明：谈要做第一流的、影响一个大时代的新人。；大学后期日记乙集 / 001.1959年1月 / line 193；说明：自觉最大缺点在读书太少，先择第一流书读之。；大学后期日记乙集 / 001.1959年1月 / line 221；说明：努力不再胡适式，要走罗曼罗兰的路。；大学后期日记乙集 / 001.1959年1月 / line 227；说明：李敖记今晚之谈对自己极有重大影响。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-02-long-talk-with-ma-and-jing-at-dali-street-on-love-knowledge-ideal-and-ro-main-rolland
+- 1959年1月2日 | 李敖晚宴祝公于天津锅贴店，夜寄《中国近代史》给 P
+  精度：day；可靠度：diary；排序日期：1959-01-02
+  摘要：1月2日，李敖晚宴祝公于天津锅贴店；夜里又寄《中国近代史》一册给 P。
+  人物：李敖、祝公、P
+  地点：台北、天津锅贴店
+  标签：祝公、天津锅贴店、P、中国近代史、寄书
+  视图：交游线、情感线、读书线
+  作品：大学后期日记乙集、中国近代史
+  交叉引用：daxue-houqi-yi-1959-01-01-rides-cao-car-to-p-home-and-p-says-love-letters-in-bag-not-allowed-to-read
+  来源：大学后期日记乙集 / 001.1959年1月 / line 15
+  补充来源：大学后期日记乙集 / 001.1959年1月 / line 17；说明：夜寄《中国近代史》一册给 P。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-02-banquet-zhu-at-tianjin-guotie-and-mails-modern-chinese-history-to-p
+- 1959年1月3日 | 李敖又与马宏祥谈英雄传记、理想、孤独、读书和自我认识
+  精度：day；可靠度：diary；排序日期：1959-01-03
+  摘要：李敖又与马宏祥谈话，话题包括陈彦增的《爱情友情中断说》、英雄传记使自己卓立不群、毛子水文中天堂与地狱、马宏祥重理想而不重个人生活细节、生活方式要“亦庄亦侠亦温文”、非吾类朋友会误时间所以孤独必要、再创造式读书、托尔斯泰追求理想失败，以及晚上在大新续谈哲学家、镜子、精神阉割和中国传记英雄豪杰形成竟无女人影响等。
+  人物：李敖、马宏祥、陈彦增、毛子水、托尔斯泰
+  地点：台北、大新
+  标签：马宏祥、英雄传记、理想、孤独、读书、陈彦增、爱情友情中断说、托尔斯泰
+  视图：思想线、交游线、读书线
+  作品：大学后期日记乙集、爱情友情中断说
+  交叉引用：daxue-houqi-yi-1959-01-02-long-talk-with-ma-and-jing-at-dali-street-on-love-knowledge-ideal-and-ro-main-rolland
+  来源：大学后期日记乙集 / 001.1959年1月 / line 231
+  补充来源：大学后期日记乙集 / 001.1959年1月 / line 247；说明：谈以再创造、心领神会的大热情读书求真意。；大学后期日记乙集 / 001.1959年1月 / line 253；说明：晚上又在大新与老马谈。；大学后期日记乙集 / 001.1959年1月 / line 261；说明：谈中国传记中英雄豪杰形成竟没女人影响。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-03-talks-again-with-ma-on-hero-biographies-ideal-solitude-reading-and-self-knowledge
+- 1959年1月3日 | 李敖下午与新汉、宏祥等看《海盗》，夜与周弘等谈至深夜并唱 Dear John
+  精度：day；可靠度：diary；排序日期：1959-01-03
+  摘要：下午，李敖与景新汉、马宏祥等看《海盗》。夜里又与周弘、霭蓥、宏祥等在大新谈至十一时半，再与周弘、关、马、叶等谈于新兴，并唱 Dear John。
+  人物：李敖、景新汉、马宏祥、周弘、霭蓥、关、叶
+  地点：台北、大新、新兴
+  标签：海盗、大新、新兴、Dear John、周弘、景新汉、马宏祥
+  视图：日常线、交游线、电影线、音乐线
+  作品：大学后期日记乙集、海盗、Dear John
+  交叉引用：daxue-houqi-yi-1959-01-01-records-dear-john-at-guangcheng-and-likes-own-singing
+  来源：大学后期日记乙集 / 001.1959年1月 / line 263
+  补充来源：大学后期日记乙集 / 001.1959年1月 / line 265；说明：夜与周弘、霭蓥、宏祥等在大新谈至十一时半，又转新兴谈并唱 Dear John。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-03-watches-the-buccaneer-with-xinhan-hongxiang-and-night-talks-sings-dear-john
+- 1959年1月4日 | 李敖三时去马戈处，四时四十分送马戈、祝泰返凤山
+  精度：day；可靠度：diary；排序日期：1959-01-04
+  摘要：下午三时，李敖去马戈处；四时四十分送马戈、祝泰返凤山，景新汉在车站等候。
+  人物：李敖、马戈、祝泰、景新汉
+  地点：台北、凤山、车站
+  标签：马戈、祝泰、凤山、车站、景新汉
+  视图：交游线、日常线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 001.1959年1月 / line 269
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-04-goes-to-ma-ge-and-sees-off-ma-ge-zhu-tai-to-fengshan
+- 1959年1月5日 | 李敖午后花两小时治印，夜写给 P 的信未成
+  精度：day；可靠度：diary；排序日期：1959-01-05
+  摘要：午后，李敖花两小时治一方印；夜里写给 P 的信，但未写成。
+  人物：李敖、P
+  地点：台北
+  标签：治印、P、写信
+  视图：日常线、写作线、情感线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-02-banquet-zhu-at-tianjin-guotie-and-mails-modern-chinese-history-to-p
+  来源：大学后期日记乙集 / 001.1959年1月 / line 273
+  补充来源：大学后期日记乙集 / 001.1959年1月 / line 275；说明：夜写给 P 信未成。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-05-spends-two-hours-carving-seal-and-night-unfinished-letter-to-p
 - 1959年1月6日 | 李敖日记称学到殷海光“不难”
   精度：day；可靠度：confirmed；排序日期：1959-01-06
   摘要：李敖在台大章又引1959年1月6日日记，称“夜读逻辑，决定好好学到殷海光……像‘吸收’胡适一样，他没有多少好‘吸收’的”，可见他对思想导师的吸收与超越姿态。
@@ -12988,6 +13118,383 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/007.台大（1954-1959·19到24岁）.txt
   数据：data/timeline-events-fourth-book.json#book4-1959-01-06-diary-says-can-learn-yin-quickly
+- 1959年1月6日 | 李敖夜读逻辑，决定好好学到殷海光、从马戈言，并说胡适可吸收不多
+  精度：day；可靠度：diary；排序日期：1959-01-06
+  摘要：夜里李敖读逻辑，决定好好学到殷海光、从马戈言，认为这并不难；他又说像“吸收”胡适一样，胡适没有多少好“吸收”的。
+  人物：李敖、殷海光、马戈、胡适
+  地点：台北
+  标签：逻辑、殷海光、马戈、胡适、吸收
+  视图：读书线、思想线、胡适线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-02-long-talk-with-ma-and-jing-at-dali-street-on-love-knowledge-ideal-and-ro-main-rolland
+  来源：大学后期日记乙集 / 001.1959年1月 / line 281
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-06-reads-logic-and-decides-to-learn-from-yin-haiguang-and-ma-ge-not-hu-shih
+- 1959年1月6日 | P 的态度使李敖很不愉快
+  精度：day；可靠度：diary；排序日期：1959-01-06
+  摘要：李敖记 P 的态度使自己很不愉快。
+  人物：李敖、P
+  地点：台北
+  标签：P、不愉快
+  视图：情感线、自省线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-05-spends-two-hours-carving-seal-and-night-unfinished-letter-to-p
+  来源：大学后期日记乙集 / 001.1959年1月 / line 279
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-06-p-attitude-displeases-li-ao
+- 1959年1月7日 | 庄因请李敖夜饭于寿尔康，兆真等同席
+  精度：day；可靠度：diary；排序日期：1959-01-07
+  摘要：庄因请李敖夜饭于寿尔康，兆真等一同。
+  人物：李敖、庄因、兆真
+  地点：台北、寿尔康
+  标签：庄因、寿尔康、兆真、夜饭
+  视图：交游线、日常线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 001.1959年1月 / line 285
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-07-zhuangyin-treats-dinner-at-shouerkang-with-zhaozhen
+- 1959年1月7日 | 李敖夜赴国际学舍听胡适讲演，并觉胡适不如杜威宁等想妥再说
+  精度：day；可靠度：diary；排序日期：1959-01-07
+  摘要：夜里，李敖赴国际学舍听胡适讲演。他觉得胡适似乎没有其老师杜威那种宁等一下、想好一句完妥的话再说的做法。
+  人物：李敖、胡适、杜威
+  地点：台北、国际学舍
+  标签：胡适、杜威、国际学舍、讲演
+  视图：胡适线、思想线、讲演线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-06-reads-logic-and-decides-to-learn-from-yin-haiguang-and-ma-ge-not-hu-shih
+  来源：大学后期日记乙集 / 001.1959年1月 / line 287
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-07-hears-hu-shih-lecture-at-international-house-and-compares-to-dewey
+- 1959年1月8日 | 李敖中午借逻辑笔记及讲义，并发现自己身上不能有钱
+  精度：day；可靠度：diary；排序日期：1959-01-08
+  摘要：中午，李敖借来逻辑笔记及讲义；当天又记自己愈来愈发现身上不能有钱。
+  人物：李敖
+  地点：台北
+  标签：逻辑、笔记、讲义、钱
+  视图：读书线、日常线、自省线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-06-reads-logic-and-decides-to-learn-from-yin-haiguang-and-ma-ge-not-hu-shih
+  来源：大学后期日记乙集 / 001.1959年1月 / line 291
+  补充来源：大学后期日记乙集 / 001.1959年1月 / line 293；说明：李敖发现自己身上不能有钱。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-08-borrows-logic-notes-and-handouts-and-realizes-he-cannot-have-money
+- 1959年1月8日 | 李敖见报载救国团“文史青年年会”名单，列钱穆、李济、董作宾等并叹“唉”
+  精度：day；可靠度：diary；排序日期：1959-01-08
+  摘要：报载救国团“文史青年年会”名单，包括钱穆、李济、董作宾、罗家伦、沈刚伯、梁实秋、萧一山、姚从吾、毛子水、刘崇鋐、蒋复璁、劳榦、方豪、孔德成、沙学浚、梁嘉彬、郭廷以、台静农、吴相湘、王德昭、高明、杜呈祥、郑骞、施之勉、包遵彭、郭衣洞等，李敖在后记“唉！”
+  人物：李敖、钱穆、李济、董作宾、罗家伦、沈刚伯、梁实秋、萧一山、姚从吾、毛子水、刘崇鋐、蒋复璁、劳榦、方豪、孔德成、沙学浚、梁嘉彬、郭廷以、台静农、吴相湘、王德昭、高明、杜呈祥、郑骞、施之勉、包遵彭、郭衣洞
+  地点：台北
+  标签：救国团、文史青年年会、钱穆、李济、董作宾、姚从吾、台静农、吴相湘
+  视图：教育线、思想线、时事线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 001.1959年1月 / line 295
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-08-newspaper-lists-salvation-corps-literature-history-youth-meeting-names
+- 1959年1月8日 | 李敖夜专心读印度史，觉书本是最安全、最源远流长的细的快乐
+  精度：day；可靠度：diary；排序日期：1959-01-08
+  摘要：夜里，李敖专心读印度史，感到愉快安静。他以自己过度走极端的性情、绝世才具和刚方性格，认为应在书本上扎下根来；又反问何不多想“桃花路上”的苦楚和坏处，书本是最安全、最源远流长的细的快乐，何必他求。
+  人物：李敖
+  地点：台北
+  标签：印度史、读书、书本、桃花路上、愉快安静
+  视图：读书线、思想线、自省线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-jia-1958-12-10-makes-indian-history-cards-at-night、daxue-houqi-jia-1958-12-15-lunch-shanpei-qinyuanchun-and-borrows-indian-history-books-at-yizhong-library、daxue-houqi-jia-1958-12-18-studies-british-french-india-struggle-clive-hastings-and-bibliography、daxue-houqi-jia-1958-12-27-arranges-work-schedule-and-forget-everything-work-method
+  来源：大学后期日记乙集 / 001.1959年1月 / line 297
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-08-night-reads-indian-history-and-finds-safe-lasting-joy-in-books
+- 1959年1月9日 | 李敖午前一小时写成打油诗十三首
+  精度：day；可靠度：diary；排序日期：1959-01-09
+  摘要：午前，李敖以一小时写成打油诗十三首。
+  人物：李敖
+  地点：台北
+  标签：打油诗、十三首、急智
+  视图：写作线、诗歌线、日常线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 001.1959年1月 / line 309
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-09-writes-thirteen-doggerel-poems-in-one-hour
+- 1959年1月9日 | 李敖记己“利”“利”人，反省《聊斋》买妾之耻，并规定有衣即洗
+  精度：day；可靠度：diary；排序日期：1959-01-09
+  摘要：同日，李敖记“己‘利’、‘利’人”；又说耻污却与污为偶是不对的，以《聊斋》中一读书人女为妾为例，反问买妾者难道不可耻么；还规定有衣即洗，不拖至明日。
+  人物：李敖
+  地点：台北
+  标签：己利利人、聊斋、买妾、洗衣
+  视图：思想线、日常线、自省线
+  作品：大学后期日记乙集、聊斋
+  交叉引用：-
+  来源：大学后期日记乙集 / 001.1959年1月 / line 311
+  补充来源：大学后期日记乙集 / 001.1959年1月 / line 313；说明：反省《聊斋》中买妾与耻污问题。；大学后期日记乙集 / 001.1959年1月 / line 315；说明：规定有衣即洗，不拖至明日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-09-reflects-on-self-interest-benefiting-others-liaozhai-concubine-and-washing-clothes
+- 1959年1月9日 | 李敖说他由《老人与海》想到恋爱需要“宁折毋屈”的伟大气魄
+  精度：day；可靠度：diary；排序日期：1959-01-09
+  摘要：李敖写，如《老人与海》一般可被毁而不能被败，恋爱需要这种“宁折毋屈”的伟大气魄。
+  人物：李敖、海明威
+  地点：台北
+  标签：老人与海、恋爱、宁折毋屈、伟大气魄
+  视图：思想线、情感线、读书线
+  作品：大学后期日记乙集、老人与海
+  交叉引用：daxue-houqi-yi-1959-01-08-night-reads-indian-history-and-finds-safe-lasting-joy-in-books
+  来源：大学后期日记乙集 / 001.1959年1月 / line 303
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-09-old-man-and-sea-romance-needs-unbreakable-great-spirit
+- 1959年1月9日 | 李敖说他洗脸时想到曾为 Rosa、小羊着迷可笑，决心不再自溺于任何女人
+  精度：day；可靠度：diary；排序日期：1959-01-09
+  摘要：洗脸时，李敖说他想到前几天一度为 Rosa 着迷、一度为小羊着迷，觉得煞是可笑；他认为自己到底已非此中人，知道迷不能久，是一大进步。他决心不再允许自己自溺于任何女人，认为浮光掠影、鸿爪遗痕最好。
+  人物：李敖、Rosa、小羊
+  地点：台北
+  标签：Rosa、小羊、自溺感情、女人、浮光掠影、鸿爪遗痕
+  视图：情感线、自省线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-jia-1958-12-26-relieved-from-rosa-turmoil-self-diagnosis-ship-cabin-and-turtle-study、daxue-houqi-jia-1958-12-27-long-talk-with-rosa-and-night-zhenbeiping-jing-home-games、daxue-houqi-yi-1959-01-01-rides-cao-car-to-p-home-and-p-says-love-letters-in-bag-not-allowed-to-read
+  来源：大学后期日记乙集 / 001.1959年1月 / line 305
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-09-laughs-at-former-fascination-with-rosa-and-xiaoyang-and-resolves-no-self-drowning
+- 1959年1月9日 | 李敖梦到谭洁力在车中玩新桥牌，醒后茫茫
+  精度：day；可靠度：diary；排序日期：1959-01-09
+  摘要：李敖记昨晚梦到谭洁力在其车中玩新桥牌，屡翻出 I，桥牌甚长；醒后茫茫，不知何故。
+  人物：李敖、谭洁力
+  地点：台北
+  标签：谭洁力、梦、桥牌、I
+  视图：情感线、梦境线、日常线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 001.1959年1月 / line 301
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-09-dreams-tan-jieli-playing-new-bridge-in-car
+- 1959年1月9日 | 洵美见李敖对人做鬼脸，说“你这死样子”
+  精度：day；可靠度：diary；排序日期：1959-01-09
+  摘要：李敖记自己对人做鬼脸，洵美说：“你这死样子！”
+  人物：李敖、洵美
+  地点：台北
+  标签：洵美、鬼脸、死样子
+  视图：日常线、交游线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 001.1959年1月 / line 307
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-09-xunmei-calls-his-grimace-dead-look
+- 1959年1月10日 | 李敖夜与周弘、霭蓥等看《老人与海》，归来立意放弃胡闹生活
+  精度：day；可靠度：diary；排序日期：1959-01-10
+  摘要：夜里，李敖与周弘、霭蓥等看《老人与海》；归来又闻温静波言，忽有所感，认为那些人缺乏道德勇气与勇敢理想，自己不能像他们那样过日子，立意放弃这类生活。
+  人物：李敖、周弘、霭蓥、温静波、海明威
+  地点：台北
+  标签：老人与海、周弘、霭蓥、温静波、道德勇气、勇敢理想、放弃胡闹
+  视图：电影线、思想线、情感线
+  作品：大学后期日记乙集、老人与海
+  交叉引用：daxue-houqi-yi-1959-01-09-old-man-and-sea-romance-needs-unbreakable-great-spirit
+  来源：大学后期日记乙集 / 001.1959年1月 / line 319
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-10-watches-the-old-man-and-the-sea-with-zhouhong-aiying-and-resolves-abandon-low-life
+- 1959年1月10日 | 李敖要求自己对人既是鼓励也是威胁，并由拿破仑得到觉醒
+  精度：day；可靠度：diary；排序日期：1959-01-10
+  摘要：李敖写自己要对人们是一种鼓励，也是一种威胁；又说自清使他厌倦、傲慢使他想沉默，今晚感到胡闹乏味，觉得自己太看低自己，拿破仑在这点上给了他不少觉醒。他还批评那些人短视、少梦想、沮丧、颓废。
+  人物：李敖、拿破仑
+  地点：台北
+  标签：鼓励、威胁、自清、傲慢、沉默、拿破仑、胡闹乏味
+  视图：思想线、自省线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-10-watches-the-old-man-and-the-sea-with-zhouhong-aiying-and-resolves-abandon-low-life
+  来源：大学后期日记乙集 / 001.1959年1月 / line 321
+  补充来源：大学后期日记乙集 / 001.1959年1月 / line 325；说明：由自清、傲慢、沉默、胡闹乏味想到拿破仑给他的觉醒。；大学后期日记乙集 / 001.1959年1月 / line 327；说明：批评那些人短视、少梦想、沮丧、颓废。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-10-wants-to-be-encouragement-and-threat-and-awakens-through-napoleon
+- 1959年1月11日 | 李敖在图书馆看书时新汉来找，觉此君索寞得可怜
+  精度：day；可靠度：diary；排序日期：1959-01-11
+  摘要：李敖在图书馆看书时，景新汉来找；李敖记此君索寞得可怜。
+  人物：李敖、景新汉
+  地点：台北、图书馆
+  标签：图书馆、看书、景新汉、索寞
+  视图：读书线、交游线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 001.1959年1月 / line 333
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-11-xinhan-finds-him-at-library-and-li-ao-thinks-him-lonely
+- 1959年1月11日 | 李敖在理发馆看众生相，见争先之丑态
+  精度：day；可靠度：diary；排序日期：1959-01-11
+  摘要：李敖在理发馆里看众生相，记下争先之丑态。
+  人物：李敖
+  地点：台北、理发馆
+  标签：理发馆、众生相、争先
+  视图：日常线、观察线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 001.1959年1月 / line 331
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-11-observes-ugly-rushing-at-barbershop
+- 1959年1月12日 | 李敖夜以橘安慰耀祖，考通鉴不慌不忙，保同来吸烟大谈
+  精度：day；可靠度：diary；排序日期：1959-01-12
+  摘要：夜里，李敖以一只橘子安慰精神疲倦的耀祖；当天考《通鉴》，去前不慌不忙的功夫做得颇好；夜里保同来，吸烟大谈至十一时。
+  人物：李敖、耀祖、保同
+  地点：台北
+  标签：耀祖、橘子、通鉴、考试、保同、吸烟、大谈
+  视图：日常线、交游线、读书线
+  作品：大学后期日记乙集、通鉴
+  交叉引用：-
+  来源：大学后期日记乙集 / 001.1959年1月 / line 343
+  补充来源：大学后期日记乙集 / 001.1959年1月 / line 345；说明：考通鉴，去前不慌不忙。；大学后期日记乙集 / 001.1959年1月 / line 347；说明：夜保同来，吸烟大谈至十一时。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-12-comforts-yaozu-with-orange-takes-tongjian-exam-and-talks-with-baotong
+- 1959年1月12日 | 李敖定下永不发脾气、热心对朋友、容忍可耻三原则
+  精度：day；可靠度：diary；排序日期：1959-01-12
+  摘要：李敖列出三条：永不发脾气、不走偏锋；热心对朋友；对不能容忍的可耻还是要容忍，并说这正是与高阮信中所言“轻松放任”之意。
+  人物：李敖、高阮
+  地点：台北
+  标签：永不发脾气、热心朋友、容忍、轻松放任、高阮
+  视图：思想线、自省线、交游线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-jia-1958-12-26-lists-ten-qualities-and-first-cultivation-always-light
+  来源：大学后期日记乙集 / 001.1959年1月 / line 337
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-12-sets-three-principles-never-lose-temper-warm-to-friends-and-tolerate
+- 1959年1月13日 | 张森生病，李敖与英善合送橘子八只
+  精度：day；可靠度：diary；排序日期：1959-01-13
+  摘要：张森病，李敖与英善合送橘子八只。
+  人物：李敖、张森、英善
+  地点：台北
+  标签：张森、英善、橘子、探病
+  视图：交游线、日常线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 001.1959年1月 / line 355
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-13-zhang-sen-sick-sends-eight-oranges-with-yingshan
+- 1959年1月13日 | 李敖午后写许多打油诗遣庄因、袁兆真
+  精度：day；可靠度：diary；排序日期：1959-01-13
+  摘要：午后，李敖写许多打油诗遣庄因、袁兆真。
+  人物：李敖、庄因、袁兆真
+  地点：台北
+  标签：打油诗、庄因、袁兆真
+  视图：写作线、诗歌线、交游线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-09-writes-thirteen-doggerel-poems-in-one-hour
+  来源：大学后期日记乙集 / 001.1959年1月 / line 365
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-13-writes-many-doggerel-poems-for-zhuangyin-and-yuan-zhaozhen
+- 1959年1月13日 | 李敖练习沉默主义，自认不受震撼，并要求每日限定读书页数
+  精度：day；可靠度：diary；排序日期：1959-01-13
+  摘要：李敖记众人皆言而自己独听，甚好，此为沉默主义；又说不为小事分心才像个“大”丈夫。他发现自己已经是个不受震撼的人，要进一步做到“狗熊式”的、似健忘一般弃掉不愉快与不智的包袱；并要求每天至少在形式上这样用功，每日限定看多少页书。
+  人物：李敖
+  地点：台北
+  标签：沉默主义、不受震撼、健忘、不愉快、用功、读书页数
+  视图：思想线、自省线、读书线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-jia-1958-12-27-arranges-work-schedule-and-forget-everything-work-method、daxue-houqi-yi-1959-01-08-night-reads-indian-history-and-finds-safe-lasting-joy-in-books
+  来源：大学后期日记乙集 / 001.1959年1月 / line 357
+  补充来源：大学后期日记乙集 / 001.1959年1月 / line 359；说明：不为小事分心的态度才像个“大”丈夫。；大学后期日记乙集 / 001.1959年1月 / line 361；说明：自认已是不受震撼的人，要弃掉不愉快与不智包袱。；大学后期日记乙集 / 001.1959年1月 / line 363；说明：要求每日限定看书页数。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-13-practices-silence-unshaken-bearlike-forgetfulness-and-daily-reading-quota
+- 1959年1月13日 | 李敖读老马来信深感其意殷，夜与庄因合复一书
+  精度：day；可靠度：diary；排序日期：1959-01-13
+  摘要：李敖读老马给二爷的两封信及今日给自己的一片，感到老马对他之意颇殷，中心颇感动，认为自己不可失信而负老友；夜里与庄因合复一书给老马。
+  人物：李敖、马宏祥、二爷、庄因
+  地点：台北
+  标签：老马、马宏祥、二爷、庄因、书信、老友
+  视图：交游线、书信线、思想线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-02-long-talk-with-ma-and-jing-at-dali-street-on-love-knowledge-ideal-and-ro-main-rolland
+  来源：大学后期日记乙集 / 001.1959年1月 / line 353
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-13-reads-ma-letters-and-replies-with-zhuangyin-to-not-fail-old-friend
+- 1959年1月13日 | 李敖晨起为小玄装订笔记，小玄道谢还来且笑容颇美
+  精度：day；可靠度：diary；排序日期：1959-01-13
+  摘要：晨起，李敖为小玄装订笔记；小玄说“谢谢”而还之，其笑容颇美。
+  人物：李敖、小玄
+  地点：台北
+  标签：小玄、装订笔记、笑容
+  视图：情感线、日常线、交游线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-jia-1958-12-25-xiaoxuan-navy-sweater-gaze-and-emotional-calm
+  来源：大学后期日记乙集 / 001.1959年1月 / line 351
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-13-binds-xiaoxuan-notes-and-her-thanks-smile-is-beautiful
+- 1959年1月14日 | 李敖在图书馆中看到赵元任
+  精度：day；可靠度：diary；排序日期：1959-01-14
+  摘要：李敖在图书馆中看到赵元任。
+  人物：李敖、赵元任
+  地点：台北、图书馆
+  标签：图书馆、赵元任
+  视图：读书线、交游线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 001.1959年1月 / line 369
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-14-sees-zhao-yuanren-in-library
+- 1959年1月14日 | 李敖自觉诗上颇有急智，并嫌别人也引证《老人与海》
+  精度：day；可靠度：diary；排序日期：1959-01-14
+  摘要：李敖自觉在诗上颇有急智，亦颇自负；又说他们也来引证《老人与海》，海明威该死不瞑目。
+  人物：李敖、海明威
+  地点：台北
+  标签：诗、急智、老人与海、海明威
+  视图：诗歌线、读书线、自省线
+  作品：大学后期日记乙集、老人与海
+  交叉引用：daxue-houqi-yi-1959-01-10-watches-the-old-man-and-the-sea-with-zhouhong-aiying-and-resolves-abandon-low-life
+  来源：大学后期日记乙集 / 001.1959年1月 / line 373
+  补充来源：大学后期日记乙集 / 001.1959年1月 / line 375；说明：别人也来引证《老人与海》，李敖戏称海明威该死不瞑目。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-14-confident-in-poetic-quick-wit-and-annoyed-by-others-citing-old-man-and-sea
+- 1959年1月14日 | 李敖觉每日读书甚愉快，记老马因罗曼罗兰而变，并由印度史想消极抵抗论
+  精度：day；可靠度：diary；排序日期：1959-01-14
+  摘要：李敖觉得每日读书甚愉快，所谓“忙”之功在于有所为、为近功而忙，并引用“A busy bee has no time for sorrow”。他又记一个罗曼罗兰忽使老马转变，老马先变，自己后变；当天还由读印度史所得，想“消极抵抗论”是否可成立，是今晚的大收割。
+  人物：李敖、马戈、罗曼罗兰
+  地点：台北
+  标签：读书、忙、A busy bee has no time for sorrow、罗曼罗兰、马戈、印度史、消极抵抗论
+  视图：读书线、思想线、自省线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-08-night-reads-indian-history-and-finds-safe-lasting-joy-in-books、daxue-houqi-yi-1959-01-13-practices-silence-unshaken-bearlike-forgetfulness-and-daily-reading-quota、daxue-houqi-yi-1959-01-14-romain-rolland-method-germany-style-circle-and-hu-shih-method-not-enough
+  来源：大学后期日记乙集 / 001.1959年1月 / line 377
+  补充来源：大学后期日记乙集 / 001.1959年1月 / line 379；说明：一个罗曼罗兰使老马转变，老马一变，李敖也跟着变。；大学后期日记乙集 / 001.1959年1月 / line 381；说明：由读印度史所得，思考消极抵抗论是否可成立。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-14-daily-reading-joy-busy-bee-ma-transforms-and-passive-resistance-from-indian-history
+- 1959年1月14日 | 李敖深觉鼓舞风潮当采马戈、罗曼罗兰著书法，胡适等法不行
+  精度：day；可靠度：diary；排序日期：1959-01-14
+  摘要：李敖深觉鼓舞一时风潮应当从马戈采罗曼罗兰等著书之法，胡适等法不行；他认为同道数十人集合而影响全世界才足其意，如十八世纪德国自马丁·路德后第一次又风靡世界。
+  人物：李敖、马戈、罗曼罗兰、胡适、马丁·路德
+  地点：台北、德国
+  标签：马戈、罗曼罗兰、胡适、马丁路德、德国、著书法、影响世界
+  视图：思想线、写作线、读书线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-02-long-talk-with-ma-and-jing-at-dali-street-on-love-knowledge-ideal-and-ro-main-rolland、daxue-houqi-yi-1959-01-03-talks-again-with-ma-on-hero-biographies-ideal-solitude-reading-and-self-knowledge
+  来源：大学后期日记乙集 / 001.1959年1月 / line 371
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-14-romain-rolland-method-germany-style-circle-and-hu-shih-method-not-enough
+- 1959年1月15日 | 李敖为台大某君“征求女友”布告作诗，庄因作图，二人大笑
+  精度：day；可靠度：diary；排序日期：1959-01-15
+  摘要：台大有某君贴布告“征求女友”，李敖作诗咏之，诗中写“日前布告求女友，何年登报再征婚？”庄因今夜作图，李敖题诗，大笑不可仰。
+  人物：李敖、庄因、许琛
+  地点：台北、台湾大学
+  标签：台大、征求女友、布告、庄因、题诗、作图
+  视图：诗歌线、校园线、交游线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 001.1959年1月 / line 395
+  补充来源：大学后期日记乙集 / 001.1959年1月 / line 405；说明：庄因今夜作图，李敖题诗。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-15-writes-poem-on-taiwan-university-notice-seeking-girlfriend-with-zhuangyin-cartoon
 - 1959年1月15日 | 李敖日记立意少花时间在女人身上
   精度：day；可靠度：reported-by-author；排序日期：1959-01-15
   摘要：《李敖语录》摘录《大学后期日记乙集》1959年1月15日条。李敖写厌烦人们整日把时间花在女人身上，立意每日只用小部分时间想想看看，不多受干扰。
@@ -12996,11 +13503,63 @@
   标签：李敖语录、大学后期日记、纸上罗曼斯、日记
   视图：日常线、思想线、情感线
   作品：李敖语录、大学后期日记甲集、大学后期日记乙集、纸上罗曼斯
-  交叉引用：-
+  交叉引用：daxue-houqi-yi-1959-01-15-limits-time-thinking-about-women-after-seeing-others-waste-time
   来源：李敖语录 / 031.纸上罗曼斯 / line 205
-  补充来源：-
+  补充来源：大学后期日记乙集 / 001.1959年1月 / line 407；说明：《大学后期日记乙集》原文，李敖立意每日只花小部分时间想想看看女人，不多受干扰。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1959-01-15-diary-limits-time-on-women
+- 1959年1月15日 | 李敖厌恶女人心绪很重，晚在图书馆强行读书半小时后味油然而生
+  精度：day；可靠度：diary；排序日期：1959-01-15
+  摘要：李敖说自己厌恶女人的心绪很重，觉得眼前所见女人皆不足意，厌恶她们的衰老、缺点与传统加自造的劣质。晚上在图书馆本不太想读书、想看电影，继而勉强读之，忘怀一切，味油然而生；他决定以后遇闷时先强行读半小时，认为读书之乐之益非他事能及。
+  人物：李敖
+  地点：台北、图书馆
+  标签：厌恶女人、图书馆、读书、强行读半小时、忘怀一切、读书之乐
+  视图：情感线、读书线、思想线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-08-night-reads-indian-history-and-finds-safe-lasting-joy-in-books、daxue-houqi-yi-1959-01-13-practices-silence-unshaken-bearlike-forgetfulness-and-daily-reading-quota、daxue-houqi-yi-1959-01-14-daily-reading-joy-busy-bee-ma-transforms-and-passive-resistance-from-indian-history
+  来源：大学后期日记乙集 / 001.1959年1月 / line 391
+  补充来源：大学后期日记乙集 / 001.1959年1月 / line 393；说明：晚在图书馆强行读书半小时后，体会读书之乐之益。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-15-dislikes-women-and-forces-half-hour-reading-then-finds-joy
+- 1959年1月15日 | 李敖厌烦众人整日耗在女人身上，立意每日只花小部分时间想想看看
+  精度：day；可靠度：diary；排序日期：1959-01-15
+  摘要：李敖写这些人整日花多少时间在女人身上而空无所得，使他实在厌烦；他立意不得如此，每日只花一小部分时间想想看看即可，不多花时间受其干扰。这一条后来被《李敖语录》摘入《纸上罗曼斯》。
+  人物：李敖
+  地点：台北
+  标签：女人、时间、干扰、纸上罗曼斯、李敖语录
+  视图：情感线、思想线、自省线
+  作品：大学后期日记乙集、李敖语录、纸上罗曼斯
+  交叉引用：li-ao-yulu-1959-01-15-diary-limits-time-on-women、daxue-houqi-yi-1959-01-15-dislikes-women-and-forces-half-hour-reading-then-finds-joy
+  来源：大学后期日记乙集 / 001.1959年1月 / line 407
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-15-limits-time-thinking-about-women-after-seeing-others-waste-time
+- 1959年1月15日 | 李敖晨想以轻松眼神看男女小事，拒绝军训讲义生意，并考印度史两个半小时
+  精度：day；可靠度：diary；排序日期：1959-01-15
+  摘要：晨擦皮鞋时，李敖想何不带着轻松眼神去看男女孩子的小事，何必讨厌嫉恶；他认为自己的大病在没有把自己看得与他们不平等，要高高在上。当天教官给他介绍军训讲义生意，他拒绝；又考印度史两个半小时，因“造假史料”颇多而忍不住笑。
+  人物：李敖、教官
+  地点：台北
+  标签：轻松眼神、男女孩子、军训讲义、教官、印度史、造假史料
+  视图：思想线、教育线、读书线、日常线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-jia-1958-12-26-lists-ten-qualities-and-first-cultivation-always-light、daxue-houqi-yi-1959-01-14-daily-reading-joy-busy-bee-ma-transforms-and-passive-resistance-from-indian-history
+  来源：大学后期日记乙集 / 001.1959年1月 / line 385
+  补充来源：大学后期日记乙集 / 001.1959年1月 / line 387；说明：教官介绍军训讲义生意，李敖拒绝。；大学后期日记乙集 / 001.1959年1月 / line 389；说明：考印度史两个半小时，因“造假史料”多而笑。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-15-light-gaze-at-boys-girls-rejects-military-training-handout-business-and-india-history-exam
+- 1959年1月16日 | 李敖反省旧日所迷恋的美丽可爱只是消逝或根本没有的幻象
+  精度：day；可靠度：diary；排序日期：1959-01-16
+  摘要：李敖写，她的那些美丽与可爱已经不存在，或根本未曾如自己想象般完满；自己所迷恋的只不过是一个消逝了的或根本没有的幻象，所以一年半载以后偶接触象征过去的现实，便会震撼于现实的丑恶不堪。此条后来被《李敖语录》摘入《纸上罗曼斯》。
+  人物：李敖
+  地点：台北
+  标签：幻象、美丽、可爱、现实、纸上罗曼斯、李敖语录
+  视图：情感线、思想线、自省线
+  作品：大学后期日记乙集、李敖语录、纸上罗曼斯
+  交叉引用：li-ao-yulu-1959-01-16-diary-fading-illusion-and-li-surname、daxue-houqi-yi-1959-01-09-laughs-at-former-fascination-with-rosa-and-xiaoyang-and-resolves-no-self-drowning
+  来源：大学后期日记乙集 / 001.1959年1月 / line 411
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-16-reflects-beloved-beauty-and-loveliness-were-fading-or-imagined-illusion
 - 1959年1月16日 | 李敖日记写旧日美感幻象消失，并记“他们每个都姓李”
   精度：day；可靠度：reported-by-author；排序日期：1959-01-16
   摘要：《李敖语录》摘录《大学后期日记乙集》1959年1月16日两条。李敖写自己所迷恋的美丽与可爱可能只是幻象，又另记“他们每个都姓李”。
@@ -13009,11 +13568,271 @@
   标签：李敖语录、大学后期日记、纸上罗曼斯、日记
   视图：日常线、思想线、情感线
   作品：李敖语录、大学后期日记甲集、大学后期日记乙集、纸上罗曼斯
-  交叉引用：-
+  交叉引用：daxue-houqi-yi-1959-01-16-reflects-beloved-beauty-and-loveliness-were-fading-or-imagined-illusion、daxue-houqi-yi-1959-01-16-writes-sperm-poem-and-watches-own-sperm-under-microscope-with-shugu
   来源：李敖语录 / 031.纸上罗曼斯 / line 209
-  补充来源：李敖语录 / 031.纸上罗曼斯 / line 221；说明：同日另有“他们每个都姓李”短句。
+  补充来源：李敖语录 / 031.纸上罗曼斯 / line 221；说明：同日另有“他们每个都姓李”短句。；大学后期日记乙集 / 001.1959年1月 / line 411；说明：《大学后期日记乙集》原文，李敖反省旧日美丽可爱只是消逝或想象中的幻象。；大学后期日记乙集 / 001.1959年1月 / line 415；说明：《大学后期日记乙集》同日原文，保存“精子诗”及“他们每个都姓李”。；大学后期日记乙集 / 001.1959年1月 / line 425；说明：同日夜在农学院研究室用显微镜看自己的精子。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1959-01-16-diary-fading-illusion-and-li-surname
+- 1959年1月16日 | 李敖写“精子诗”，夜在农学院研究室与述古用显微镜看自己的精子并试做罐头
+  精度：day；可靠度：diary；排序日期：1959-01-16
+  摘要：李敖写“精子诗”，诗末为“他们每个都姓李”。夜里在农学院研究室看书，述古说何不看看你自己的精子是什么模样，于是李敖在显微镜下看之，觉得极好玩；又同述古试做罐头，觉得制罐头机甚灵巧。此条中的“他们每个都姓李”后来被《李敖语录》摘入《纸上罗曼斯》。
+  人物：李敖、述古
+  地点：台北、农学院研究室
+  标签：精子诗、显微镜、农学院研究室、述古、罐头机、李敖语录
+  视图：诗歌线、日常线、读书线
+  作品：大学后期日记乙集、李敖语录、纸上罗曼斯
+  交叉引用：li-ao-yulu-1959-01-16-diary-fading-illusion-and-li-surname
+  来源：大学后期日记乙集 / 001.1959年1月 / line 415
+  补充来源：大学后期日记乙集 / 001.1959年1月 / line 425；说明：夜在农学院研究室用显微镜看自己的精子，又同述古试做罐头。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-16-writes-sperm-poem-and-watches-own-sperm-under-microscope-with-shugu
+- 1959年1月16日 | 李敖记“史”失求诸野，认为西方人治中国史因重方法更灵光
+  精度：day；可靠度：diary；排序日期：1959-01-16
+  摘要：李敖写：“史”失求诸野；西方人治中国史，因为重方法，比中国所谓学人还灵光。
+  人物：李敖
+  地点：台北
+  标签：史学、西方人、中国史、方法
+  视图：史学线、思想线、读书线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 001.1959年1月 / line 413
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-16-westerners-study-chinese-history-better-by-method
+- 1959年1月17日 | 李敖考西洋现代史，下午与又亮看《春闺初恋》并称赞其家庭刻画
+  精度：day；可靠度：diary；排序日期：1959-01-17
+  摘要：李敖上午考西洋现代史；下午与又亮去看《春闺初恋》，认为该片刻画外国父母对女儿交男友的态度极佳。
+  人物：李敖、又亮
+  地点：台北
+  标签：考试、西洋现代史、电影、春闺初恋、陈又亮
+  视图：日常线、电影线、学业线
+  作品：大学后期日记乙集、春闺初恋
+  交叉引用：daxue-houqi-yi-1959-01-24-morning-modern-western-history-exam
+  来源：大学后期日记乙集 / 001.1959年1月 / line 429
+  补充来源：大学后期日记乙集 / 001.1959年1月 / line 431；说明：下午与又亮看《春闺初恋》，称其刻画外国父母对女儿交男友态度极佳。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-17-modern-western-history-exam-and-young-love-film-with-youliang
+- 1959年1月18日 | 李敖斥责酸气刻薄的男人，夜读逻辑倦后写“游戏即人生”诗
+  精度：day；可靠度：diary；排序日期：1959-01-18
+  摘要：李敖记自己忍不住要斥责那些说话酸气刻薄的男人；夜里读逻辑读倦，写诗称“游戏即人生”，以一笑了却烦恼，做“不倒翁”。
+  人物：李敖
+  地点：台北
+  标签：男人、酸气、逻辑、游戏即人生、不倒翁
+  视图：思想线、诗歌线、读书线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-06-reads-logic-and-decides-to-learn-from-yin-haiguang-and-ma-ge-not-hu-shih、daxue-houqi-yi-1959-01-20-library-reading-gannadou-self-gift-joy-and-methodology、daxue-houqi-yi-1959-01-22-morning-logic-exam
+  来源：大学后期日记乙集 / 001.1959年1月 / line 435
+  补充来源：大学后期日记乙集 / 001.1959年1月 / line 437；说明：夜读逻辑读倦，成诗一首。；大学后期日记乙集 / 001.1959年1月 / line 439；说明：诗中写“人言人生须游戏，我道游戏即人生”。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-18-rebukes-sour-men-and-writes-game-is-life-poem-when-tired-from-logic
+- 1959年1月18日 | 述古夜谈中转述关、马称李敖有天才而有礼，光宗谈系中腐败
+  精度：day；可靠度：diary；排序日期：1959-01-18
+  摘要：李敖夜与述古吃东西时，记下关、马说他“富天才而有礼”；同日光宗谈及系中事务，李敖感叹腐败现象令人叹气。
+  人物：李敖、述古、关、马、光宗
+  地点：台北
+  标签：述古、天才、礼貌、系中腐败、教育腐败
+  视图：日常线、人际线、教育线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 001.1959年1月 / line 447
+  补充来源：大学后期日记乙集 / 001.1959年1月 / line 449；说明：光宗谈系中事，李敖感叹腐败现象令人叹气。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-18-shugu-guan-ma-praise-talent-politeness-and-guangzong-speaks-of-department-corruption
+- 1959年1月19日 | 李敖写《借债歌》及多首宿舍朋友打油诗，戏及张霭蓥、庄因、周弘等人
+  精度：day；可靠度：diary；排序日期：1959-01-19
+  摘要：李敖写《借债歌》，称“日暮途穷叩财主，财主原来张霭蓥”。又写多首“其他”打油诗，戏及庄因、袁兆真、MISS张、周弘、陈鼓丢、周小若等人；诗按中自标“温州街七十三号台大第一宿舍第四室”。
+  人物：李敖、张霭蓥、庄因、袁兆真、MISS张、周弘、陈鼓丢、周小若
+  地点：台北、温州街七十三号、台大第一宿舍第四室
+  标签：借债歌、打油诗、台大第一宿舍第四室、温州街七十三号、朋友
+  视图：诗歌线、宿舍线、人际线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-13-writes-many-doggerel-poems-for-zhuangyin-and-yuan-zhaozhen
+  来源：大学后期日记乙集 / 001.1959年1月 / line 497
+  补充来源：大学后期日记乙集 / 001.1959年1月 / line 509；说明：《借债歌》末写张霭蓥是财主。；大学后期日记乙集 / 001.1959年1月 / line 525；说明：其他打油诗中写“辛苦庄鼻子，读书为查某”。；大学后期日记乙集 / 001.1959年1月 / line 547；说明：诗按标明“温州街七十三号台大第一宿舍第四室”。；大学后期日记乙集 / 001.1959年1月 / line 565；说明：打油诗写“因公殉职是周弘”。；大学后期日记乙集 / 001.1959年1月 / line 573；说明：打油诗写“陈鼓丢，真性豪，整天都在开玩笑”。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-19-writes-borrowing-song-and-dormitory-doggerel-about-friends
+- 1959年1月19日 | 李敖写诗咏考试时期图书馆拥挤抢椅的奇象
+  精度：day；可靠度：diary；排序日期：1959-01-19
+  摘要：考试期间，李敖写诗咏图书馆奇象：馆门一开红男绿女拼命挤，两条大汉抢一张椅子并互相叫骂，令他感到斯文扫地。
+  人物：李敖
+  地点：台北、图书馆
+  标签：考试、图书馆、抢椅、打油诗、校园
+  视图：校园线、诗歌线、日常线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 001.1959年1月 / line 453
+  补充来源：大学后期日记乙集 / 001.1959年1月 / line 455；说明：诗中写“红男绿女在一起，馆门开处拼命挤”。；大学后期日记乙集 / 001.1959年1月 / line 463；说明：诗中写两条大汉抢一椅并互相叫骂。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-19-writes-poem-on-library-exam-crowd-chaos
+- 1959年1月19日 | 李敖自记老是笑嘻嘻的性格，并顺手写三首打油诗
+  精度：day；可靠度：diary；排序日期：1959-01-19
+  摘要：李敖反省自己至性性格中的表情百分之九十九都是忍俊不禁，奇怪自己老是笑嘻嘻；随手写三首打油诗，内容涉及“不恭有李敖”、借债台、想马宏祥与“不可再牧羊”。
+  人物：李敖、马宏祥
+  地点：台北
+  标签：性格、笑嘻嘻、打油诗、马宏祥、牧羊
+  视图：自省线、诗歌线、日常线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-13-writes-many-doggerel-poems-for-zhuangyin-and-yuan-zhaozhen
+  来源：大学后期日记乙集 / 001.1959年1月 / line 469
+  补充来源：大学后期日记乙集 / 001.1959年1月 / line 471；说明：第一首打油诗写“不恭有李敖，半天生气了”。；大学后期日记乙集 / 001.1959年1月 / line 481；说明：第二首打油诗写“开源源不来，节流流不停”。；大学后期日记乙集 / 001.1959年1月 / line 489；说明：第三首打油诗写“很想马宏祥”“不可再牧羊”。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-19-notes-laughing-nature-and-writes-three-doggerel-poems
+- 1959年1月19日 | 李敖整日读书，觉得三段时间倏忽而过而这种度日法极好
+  精度：day；可靠度：diary；排序日期：1959-01-19
+  摘要：李敖整日读书，发现每日三段时间忽焉而过，由此觉得如此度日法也极好；他又感叹即使整日读书，也读不了多少。
+  人物：李敖
+  地点：台北
+  标签：整日读书、读书生活、时间、自律
+  视图：读书线、日常线、自律线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-14-daily-reading-joy-busy-bee-ma-transforms-and-passive-resistance-from-indian-history、daxue-houqi-yi-1959-01-15-dislikes-women-and-forces-half-hour-reading-then-finds-joy
+  来源：大学后期日记乙集 / 001.1959年1月 / line 495
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-19-reads-all-day-in-three-periods-and-finds-this-life-good
+- 1959年1月20日 | 李敖与陈又亮口角，记下半夜骂字、八段锦与“按摩”警句
+  精度：day；可靠度：diary；排序日期：1959-01-20
+  摘要：李敖与陈又亮口角，记陈又亮半夜写字骂他。他随即自记明天要好好同陈讲话，不能把自己的事迁怒于朋友，要把八段锦练一遍，并写下“世间‘按摩’者，人亦‘按’其‘摩’”。
+  人物：李敖、陈又亮
+  地点：台北
+  标签：陈又亮、口角、八段锦、按摩、朋友
+  视图：日常线、人际线、自省线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 001.1959年1月 / line 591
+  补充来源：大学后期日记乙集 / 001.1959年1月 / line 593；说明：半夜写字中提到心性狭窄、明天好好同他说话、练八段锦等。；大学后期日记乙集 / 001.1959年1月 / line 595；说明：李敖写下“世间‘按摩’者，人亦‘按’其‘摩’”。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-20-quarrels-with-chen-youliang-and-records-night-note-massage-warning
+- 1959年1月20日 | 李敖图书馆读书归吃甘纳豆自贻其乐，又读逻辑和《现代学术季刊》，并说他想到方法学
+  精度：day；可靠度：diary；排序日期：1959-01-20
+  摘要：李敖夜间从图书馆看书归来，吃甘纳豆，颇得自贻之乐，认为这种生活极好，应该久为之。他又念逻辑、看《现代学术季刊》，更想到搞方法学的重要。
+  人物：李敖
+  地点：台北、图书馆
+  标签：图书馆、甘纳豆、逻辑、现代学术季刊、方法学
+  视图：读书线、思想线、日常线
+  作品：大学后期日记乙集、现代学术季刊
+  交叉引用：daxue-houqi-yi-1959-01-06-reads-logic-and-decides-to-learn-from-yin-haiguang-and-ma-ge-not-hu-shih、daxue-houqi-yi-1959-01-08-borrows-logic-notes-and-handouts-and-realizes-he-cannot-have-money、daxue-houqi-yi-1959-01-14-romain-rolland-method-germany-style-circle-and-hu-shih-method-not-enough、daxue-houqi-yi-1959-01-15-dislikes-women-and-forces-half-hour-reading-then-finds-joy、daxue-houqi-yi-1959-01-22-morning-logic-exam
+  来源：大学后期日记乙集 / 001.1959年1月 / line 597
+  补充来源：大学后期日记乙集 / 001.1959年1月 / line 599；说明：念逻辑，看《现代学术季刊》，更想到搞方法学的重要。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-20-library-reading-gannadou-self-gift-joy-and-methodology
+- 1959年1月21日 | 李敖开始戴帽子
+  精度：day；可靠度：diary；排序日期：1959-01-21
+  摘要：李敖在日记中简短记下“今起戴帽子”。
+  人物：李敖
+  地点：台北
+  标签：戴帽子、日常
+  视图：日常线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 001.1959年1月 / line 603
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-21-starts-wearing-hat
+- 1959年1月21日 | 李敖诗戏又亮“小丢”与沈云，英善、陈又亮等人也和作多首打油诗
+  精度：day；可靠度：diary；排序日期：1959-01-21
+  摘要：李敖以“小丢”外号诗戏陈又亮，并围绕沈云、小丢吃醋、女财神、陈又亮自称“情棍没人要”、英善据李敖批评而作灰衣女郎诗等，记下自己、英善、陈又亮等人的多首互相戏作。
+  人物：李敖、陈又亮、沈云、英善、周弘、陈鼓丢、庄因
+  地点：台北
+  标签：打油诗、陈又亮、小丢、沈云、英善、女财神、灰衣女郎
+  视图：诗歌线、宿舍线、人际线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-19-notes-laughing-nature-and-writes-three-doggerel-poems、daxue-houqi-yi-1959-01-20-quarrels-with-chen-youliang-and-records-night-note-massage-warning
+  来源：大学后期日记乙集 / 001.1959年1月 / line 605
+  补充来源：大学后期日记乙集 / 001.1959年1月 / line 607；说明：李敖解释又亮外号“小丢”，并录与沈云、小丢相关的戏诗。；大学后期日记乙集 / 001.1959年1月 / line 635；说明：李敖另录“我的原诗”。；大学后期日记乙集 / 001.1959年1月 / line 675；说明：诗中写陈又亮作“情棍没人要”。；大学后期日记乙集 / 001.1959年1月 / line 691；说明：英善据李敖批评作灰衣女郎诗。；大学后期日记乙集 / 001.1959年1月 / line 707；说明：后续诗作涉及周弘、陈鼓丢、庄鼻子、女人美丑等。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-21-doggerel-teases-youliang-xiaodiu-shenyun-and-friends-respond
+- 1959年1月22日 | 李敖下午与启庆、天中到参考室看书，并在福利社谈到近五点
+  精度：day；可靠度：diary；排序日期：1959-01-22
+  摘要：李敖下午与启庆、天中去参考室看书，又同他们在福利社吃谈，直到将近五点。
+  人物：李敖、启庆、天中
+  地点：台北、参考室、福利社
+  标签：参考室、福利社、看书、谈话
+  视图：读书线、日常线、人际线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 001.1959年1月 / line 725
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-22-reference-room-with-qiqing-tianzhong-and-welfare-talk
+- 1959年1月22日 | 李敖下午向姚从吾直言自己的成见
+  精度：day；可靠度：diary；排序日期：1959-01-22
+  摘要：李敖下午与姚从吾直言自己的成见。这延续了他在台大历史系论文、导师与学术训练中的姚从吾线索。
+  人物：李敖、姚从吾
+  地点：台北
+  标签：姚从吾、成见、历史系、直言
+  视图：学业线、人际线、思想线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-jia-1958-11-28-registers-thesis-with-yao-title-social-restraints-and-hu-shih-opinion
+  来源：大学后期日记乙集 / 001.1959年1月 / line 727
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-22-speaks-frankly-to-yao-congwu-about-prejudice
+- 1959年1月22日 | 李敖早上考逻辑
+  精度：day；可靠度：diary；排序日期：1959-01-22
+  摘要：李敖记下早上考逻辑。
+  人物：李敖
+  地点：台北
+  标签：考试、逻辑
+  视图：学业线、读书线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-06-reads-logic-and-decides-to-learn-from-yin-haiguang-and-ma-ge-not-hu-shih、daxue-houqi-yi-1959-01-08-borrows-logic-notes-and-handouts-and-realizes-he-cannot-have-money、daxue-houqi-yi-1959-01-20-library-reading-gannadou-self-gift-joy-and-methodology
+  来源：大学后期日记乙集 / 001.1959年1月 / line 723
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-22-morning-logic-exam
+- 1959年1月22日 | 李敖夜与傅乐成在校园散步谈天，碰到黄祝贵
+  精度：day；可靠度：diary；排序日期：1959-01-22
+  摘要：李敖夜里与傅乐成在校园散步谈天，并碰到黄祝贵。
+  人物：李敖、傅乐成、黄祝贵
+  地点：台北、台大校园
+  标签：傅乐成、黄祝贵、校园散步、谈天
+  视图：校园线、人际线、日常线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 001.1959年1月 / line 731
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-22-walks-campus-with-fu-lecheng-and-meets-huang-zhugui
+- 1959年1月22日 | 李敖注意到苏衣着甚考究
+  精度：day；可靠度：diary；排序日期：1959-01-22
+  摘要：李敖在日记中记下“苏衣着甚考究”，作为当日校园观察与情感线中的一个细节。
+  人物：李敖、苏
+  地点：台北
+  标签：苏、衣着、校园观察
+  视图：情感线、日常线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 001.1959年1月 / line 729
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-22-notes-su-dressed-carefully
+- 1959年1月23日 | 李敖午前与启庆、黄祝贵小谈，小玄仍在老地方看书并看见他
+  精度：day；可靠度：diary；排序日期：1959-01-23
+  摘要：李敖午前与启庆、黄祝贵小谈；他还记下小玄仍坐在老地方看书，并看到了他。
+  人物：李敖、启庆、黄祝贵、小玄
+  地点：台北
+  标签：启庆、黄祝贵、小玄、看书、老地方
+  视图：情感线、校园线、人际线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-13-binds-xiaoxuan-notes-and-her-thanks-smile-is-beautiful
+  来源：大学后期日记乙集 / 001.1959年1月 / line 735
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-23-talks-with-qiqing-huang-zhugui-and-xiaoxuan-sees-him-reading
+- 1959年1月23日 | 李敖夜坐在苏对面，喜欢其神情，并与“神枪手”比赛画王八胜出
+  精度：day；可靠度：diary；排序日期：1959-01-23
+  摘要：李敖夜坐于苏对面，甚喜其神情；又与“神枪手”比赛画王八，记下自己画得比她快。
+  人物：李敖、苏、神枪手
+  地点：台北
+  标签：苏、神枪手、画王八、比赛、校园
+  视图：情感线、日常线、人际线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-22-notes-su-dressed-carefully、daxue-houqi-yi-1959-01-24-sits-before-su-and-finds-her-suppressed-smile-lovely、daxue-houqi-yi-1959-01-24-talks-with-shenqiangshou-who-jokes-unmarried-already-wants-divorce
+  来源：大学后期日记乙集 / 001.1959年1月 / line 737
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-23-sits-opposite-su-and-beats-shenqiangshou-at-drawing-turtles
 - 1959年1月24日 | 李敖与“神枪手”小谈，对方笑他没结婚就想离婚
   精度：day；可靠度：reported-by-author；排序日期：1959-01-24
   摘要：《李敖语录》摘录《大学后期日记乙集》1959年1月24日条。李敖记与“神枪手”小谈笑了半天，对方开玩笑说他“没结婚就想离婚”。
@@ -13022,11 +13841,50 @@
   标签：李敖语录、大学后期日记、纸上罗曼斯、日记
   视图：日常线、思想线、情感线
   作品：李敖语录、大学后期日记甲集、大学后期日记乙集、纸上罗曼斯
-  交叉引用：-
+  交叉引用：daxue-houqi-yi-1959-01-24-talks-with-shenqiangshou-who-jokes-unmarried-already-wants-divorce
   来源：李敖语录 / 031.纸上罗曼斯 / line 225
-  补充来源：-
+  补充来源：大学后期日记乙集 / 001.1959年1月 / line 745；说明：《大学后期日记乙集》1月24日原文：李敖与“神枪手”小谈笑半天，对方开玩笑说他没结婚就想离婚。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1959-01-24-diary-chat-with-shenqiangshou
+- 1959年1月24日 | 李敖与“神枪手”小谈笑半天，对方开玩笑说他没结婚就想离婚
+  精度：day；可靠度：diary；排序日期：1959-01-24
+  摘要：李敖与“神枪手”小谈，笑了半天；对方开玩笑说：“李敖先生啊！你没结婚就想离婚！”此条后来被《李敖语录》摘入《纸上罗曼斯》。
+  人物：李敖、神枪手
+  地点：台北
+  标签：神枪手、玩笑、离婚、李敖语录、纸上罗曼斯
+  视图：日常线、情感线、人际线
+  作品：大学后期日记乙集、李敖语录、纸上罗曼斯
+  交叉引用：daxue-houqi-yi-1959-01-23-sits-opposite-su-and-beats-shenqiangshou-at-drawing-turtles、li-ao-yulu-1959-01-24-diary-chat-with-shenqiangshou
+  来源：大学后期日记乙集 / 001.1959年1月 / line 745
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-24-talks-with-shenqiangshou-who-jokes-unmarried-already-wants-divorce
+- 1959年1月24日 | 李敖早晨考《西洋近代史》
+  精度：day；可靠度：diary；排序日期：1959-01-24
+  摘要：李敖早晨考《西洋近代史》。
+  人物：李敖
+  地点：台北
+  标签：考试、西洋近代史
+  视图：学业线
+  作品：大学后期日记乙集、西洋近代史
+  交叉引用：daxue-houqi-yi-1959-01-17-modern-western-history-exam-and-young-love-film-with-youliang
+  来源：大学后期日记乙集 / 001.1959年1月 / line 741
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-24-morning-modern-western-history-exam
+- 1959年1月24日 | 李敖夜又坐在苏前，觉得她忍笑的样子最好玩
+  精度：day；可靠度：diary；排序日期：1959-01-24
+  摘要：李敖夜里又坐在苏前，称她是“可爱的小东西”，并觉得她那要笑又忍住的样子最好玩。
+  人物：李敖、苏
+  地点：台北
+  标签：苏、忍笑、可爱、校园情感
+  视图：情感线、日常线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-22-notes-su-dressed-carefully、daxue-houqi-yi-1959-01-23-sits-opposite-su-and-beats-shenqiangshou-at-drawing-turtles
+  来源：大学后期日记乙集 / 001.1959年1月 / line 743
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-24-sits-before-su-and-finds-her-suppressed-smile-lovely
 - 1959年1月25日 | 李敖日记写不能容忍自己与恶心的男女交涉
   精度：day；可靠度：reported-by-author；排序日期：1959-01-25
   摘要：《李敖语录》摘录《大学后期日记乙集》1959年1月25日条。李敖写自己对恶心的男女，不能容忍去跟他们有交涉。
@@ -13035,11 +13893,180 @@
   标签：李敖语录、大学后期日记、纸上罗曼斯、日记
   视图：日常线、思想线、情感线
   作品：李敖语录、大学后期日记甲集、大学后期日记乙集、纸上罗曼斯
-  交叉引用：-
+  交叉引用：daxue-houqi-yi-1959-01-25-refuses-to-deal-with-disgusting-men-and-women
   来源：李敖语录 / 031.纸上罗曼斯 / line 229
-  补充来源：-
+  补充来源：大学后期日记乙集 / 001.1959年1月 / line 749；说明：《大学后期日记乙集》1月25日原文：李敖写自己不能容忍与恶心的男女交涉。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1959-01-25-diary-refuses-dealing-with-disgusting-people
+- 1959年1月25日 | 李敖写自己不能容忍与恶心的男女交涉
+  精度：day；可靠度：diary；排序日期：1959-01-25
+  摘要：李敖在日记中写，自己对“恶心的男女”，不能容忍去跟他们有交涉。此句后来被《李敖语录》摘入《纸上罗曼斯》。
+  人物：李敖
+  地点：台北
+  标签：恶心的男女、交涉、李敖语录、纸上罗曼斯
+  视图：情感线、自省线、日常线
+  作品：大学后期日记乙集、李敖语录、纸上罗曼斯
+  交叉引用：li-ao-yulu-1959-01-25-diary-refuses-dealing-with-disgusting-people、daxue-houqi-yi-1959-01-15-limits-time-thinking-about-women-after-seeing-others-waste-time
+  来源：大学后期日记乙集 / 001.1959年1月 / line 749
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-25-refuses-to-deal-with-disgusting-men-and-women
+- 1959年1月25日 | 李敖决定下学期每晚到图书馆，养成“知识的快乐”习惯
+  精度：day；可靠度：diary；排序日期：1959-01-25
+  摘要：李敖决定下学期一定每晚到图书馆，养成习惯；他认为此法可以消忧进学，必须切实完成“知识的快乐”。
+  人物：李敖
+  地点：台北、图书馆
+  标签：图书馆、知识的快乐、消忧进学、自律、读书习惯
+  视图：读书线、自律线、思想线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-19-reads-all-day-in-three-periods-and-finds-this-life-good、daxue-houqi-yi-1959-01-20-library-reading-gannadou-self-gift-joy-and-methodology、daxue-houqi-yi-1959-01-26-decides-to-seek-eternal-happiness-in-knowledge-and-be-a-bookworm、daxue-houqi-yi-1959-01-28-buys-snacks-and-reads-in-bed-happily
+  来源：大学后期日记乙集 / 001.1959年1月 / line 763
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-25-vows-next-semester-nightly-library-habit-for-knowledge-joy
+- 1959年1月25日 | 李敖自记连任台大第一宿舍第四室室长三年多，并录启庆、小丢所作室长诗
+  精度：day；可靠度：diary；排序日期：1959-01-25
+  摘要：李敖记自己是台大第一宿舍第四室室长，已连任三年多；他又录一首室长诗，前两句为萧启庆所作，后两句为“小丢”所作，诗中戏称贵室全体荒唐，英善、耀祖等人之外例外君子阿亮。
+  人物：李敖、萧启庆、小丢、英善、耀祖、阿亮
+  地点：台北、台大第一宿舍第四室
+  标签：台大第一宿舍第四室、室长、萧启庆、小丢、打油诗
+  视图：宿舍线、诗歌线、人际线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-19-writes-borrowing-song-and-dormitory-doggerel-about-friends、daxue-houqi-yi-1959-01-21-doggerel-teases-youliang-xiaodiu-shenyun-and-friends-respond
+  来源：大学后期日记乙集 / 001.1959年1月 / line 751
+  补充来源：大学后期日记乙集 / 001.1959年1月 / line 753；说明：室长诗写“室长领导有方，贵室全体荒唐”。；大学后期日记乙集 / 001.1959年1月 / line 757；说明：室长诗写“英善耀祖等等，例外君子阿亮”。；大学后期日记乙集 / 001.1959年1月 / line 761；说明：李敖注明前两句为萧启庆所作，后两句为小丢所作。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-25-third-year-room-chief-and-fourth-room-poem-by-qiqing-and-xiaodiu
+- 1959年1月25日 | 李敖请庄因、松燃于新兴，十一时归
+  精度：day；可靠度：diary；排序日期：1959-01-25
+  摘要：李敖请庄因、松燃在新兴相聚，夜十一时归来。
+  人物：李敖、庄因、松燃
+  地点：台北、新兴
+  标签：庄因、松燃、新兴、请客
+  视图：人际线、日常线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 001.1959年1月 / line 767
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-25-treats-zhuangyin-and-songran-at-xinxing
+- 1959年1月25日 | 李敖晚与启庆饭于寿尔康，夜在校园散步并对启庆“说法”
+  精度：day；可靠度：diary；排序日期：1959-01-25
+  摘要：李敖晚上与启庆在寿尔康吃饭；夜里二人在校园散步，李敖向启庆“说法”不已。
+  人物：李敖、启庆
+  地点：台北、寿尔康、台大校园
+  标签：萧启庆、寿尔康、校园散步、说法
+  视图：人际线、校园线、日常线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-22-reference-room-with-qiqing-tianzhong-and-welfare-talk
+  来源：大学后期日记乙集 / 001.1959年1月 / line 765
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-25-dinner-with-qiqing-at-shouer-kang-and-campus-preaching
+- 1959年1月26日 | 李敖为马宏祥办英文成绩单
+  精度：day；可靠度：diary；排序日期：1959-01-26
+  摘要：李敖为马宏祥办理英文成绩单。
+  人物：李敖、马宏祥
+  地点：台北
+  标签：马宏祥、英文成绩单、代办
+  视图：人际线、学业线、日常线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-13-reads-ma-letters-and-replies-with-zhuangyin-to-not-fail-old-friend
+  来源：大学后期日记乙集 / 001.1959年1月 / line 773
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-26-handles-english-transcript-for-ma-hongxiang
+- 1959年1月26日 | 李敖午后整理杂务后大睡，赴寿尔康晚饭，感觉颇轻松
+  精度：day；可靠度：diary；排序日期：1959-01-26
+  摘要：李敖午后整理杂务，随后大睡，直到赴寿尔康吃晚饭；他记下自己颇为轻松。
+  人物：李敖
+  地点：台北、寿尔康
+  标签：整理杂务、大睡、寿尔康、轻松
+  视图：日常线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 001.1959年1月 / line 775
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-26-organizes-chores-sleeps-and-dines-at-shouer-kang-lightly
+- 1959年1月26日 | 李敖决定从知识中寻找永恒快乐，并要更努力做书虫
+  精度：day；可靠度：diary；排序日期：1959-01-26
+  摘要：李敖晚上作“大决定”：从知识里面找永恒的快乐。他在卡片箱旁看见知识世界的深远，认为自己过去虽读了不少书仍然不够，要养成在“知识中求快乐”的习惯，更努力做一个书虫，并永远记得“万事莫如读书乐”。
+  人物：李敖
+  地点：台北
+  标签：知识中求快乐、卡片箱、书虫、万事莫如读书乐、读书
+  视图：读书线、思想线、自律线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-25-vows-next-semester-nightly-library-habit-for-knowledge-joy、daxue-houqi-yi-1959-01-19-reads-all-day-in-three-periods-and-finds-this-life-good、daxue-houqi-yi-1959-01-20-library-reading-gannadou-self-gift-joy-and-methodology、daxue-houqi-yi-1959-01-28-buys-snacks-and-reads-in-bed-happily
+  来源：大学后期日记乙集 / 001.1959年1月 / line 777
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-26-decides-to-seek-eternal-happiness-in-knowledge-and-be-a-bookworm
+- 1959年1月26日 | 李敖夜在述古处写十七页长信给老马，称述吾近日颇能转变
+  精度：day；可靠度：diary；排序日期：1959-01-26
+  摘要：李敖夜在述古处写一封十七页长信给老马，并记下“述吾近日颇能转变”。
+  人物：李敖、述古、老马
+  地点：台北
+  标签：老马、述古、十七页长信、转变
+  视图：书信线、人际线、思想线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-13-reads-ma-letters-and-replies-with-zhuangyin-to-not-fail-old-friend、daxue-houqi-yi-1959-01-14-daily-reading-joy-busy-bee-ma-transforms-and-passive-resistance-from-indian-history
+  来源：大学后期日记乙集 / 001.1959年1月 / line 779
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-26-writes-seventeen-page-long-letter-to-old-ma-at-shugu-place
+- 1959年1月26日 | 李敖夜洗浴归来，见阴云驰月、风声与舍门前树皆可爱，近二时睡
+  精度：day；可靠度：diary；排序日期：1959-01-26
+  摘要：李敖夜间洗浴归来已一点多，见阴云驰月、微闻风声，感到夜凉如水，舍门前树等皆极可爱，直到近二时才睡。
+  人物：李敖
+  地点：台北
+  标签：洗浴、夜景、阴云驰月、宿舍、近二时睡
+  视图：日常线、感兴线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 001.1959年1月 / line 781
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-26-bathes-after-midnight-and-finds-cloudy-moon-wind-and-trees-lovely
+- 1959年1月26日 | 李敖晨考秦汉史，本学期考试结束
+  精度：day；可靠度：diary；排序日期：1959-01-26
+  摘要：李敖早晨考秦汉史，至此本学期考试完毕。
+  人物：李敖
+  地点：台北
+  标签：秦汉史、考试、本学期考毕
+  视图：学业线
+  作品：大学后期日记乙集、秦汉史
+  交叉引用：daxue-houqi-yi-1959-01-22-morning-logic-exam、daxue-houqi-yi-1959-01-24-morning-modern-western-history-exam
+  来源：大学后期日记乙集 / 001.1959年1月 / line 771
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-26-qin-han-history-exam-finishes-semester
+- 1959年1月27日 | 李敖与周弘谈至夜二时，深感不愿再在情海中打转
+  精度：day；可靠度：diary；排序日期：1959-01-27
+  摘要：李敖与周弘谈到夜里二时。他深深感到自己不愿在情海中如此打转，正如他对老景所说，自己已不复当年之我，也不复为此中人。
+  人物：李敖、周弘、老景
+  地点：台北
+  标签：周弘、夜谈、情海、老景、不复当年之我
+  视图：情感线、人际线、自省线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-27-satisfied-no-woman-can-move-his-heart、daxue-houqi-yi-1959-01-09-laughs-at-former-fascination-with-rosa-and-xiaoyang-and-resolves-no-self-drowning
+  来源：大学后期日记乙集 / 001.1959年1月 / line 791
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-27-talks-with-zhouhong-until-two-and-rejects-turning-in-love-sea
+- 1959年1月27日 | 李敖午后与景新汉长谈，并准备将结论写给老马
+  精度：day；可靠度：diary；排序日期：1959-01-27
+  摘要：李敖午后与景新汉长谈，并记下应当把谈话结论写给老马。
+  人物：李敖、景新汉、老马
+  地点：台北
+  标签：景新汉、长谈、老马、结论
+  视图：人际线、思想线、书信线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-26-writes-seventeen-page-long-letter-to-old-ma-at-shugu-place
+  来源：大学后期日记乙集 / 001.1959年1月 / line 787
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-27-long-talk-with-jing-xinhan-and-plans-to-write-conclusion-to-old-ma
 - 1959年1月27日 | 李敖日记称自己已达任何女人不足动怀的地步
   精度：day；可靠度：reported-by-author；排序日期：1959-01-27
   摘要：《李敖语录》摘录《大学后期日记乙集》1959年1月27日条。李敖写自己满意于心中丝毫不为所动，认为已达到任何女人都不足以使自己动怀的地步。
@@ -13048,11 +14075,1337 @@
   标签：李敖语录、大学后期日记、纸上罗曼斯、日记
   视图：日常线、思想线、情感线
   作品：李敖语录、大学后期日记甲集、大学后期日记乙集、纸上罗曼斯
-  交叉引用：-
+  交叉引用：daxue-houqi-yi-1959-01-27-satisfied-no-woman-can-move-his-heart
   来源：李敖语录 / 031.纸上罗曼斯 / line 233
-  补充来源：-
+  补充来源：大学后期日记乙集 / 001.1959年1月 / line 785；说明：《大学后期日记乙集》1月27日原文：李敖写自己已达到任何女人都不足以使他动怀的地步。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1959-01-27-diary-not-moved-by-any-woman
+- 1959年1月27日 | 李敖自称已达到任何女人都不足以使他动怀的地步
+  精度：day；可靠度：diary；排序日期：1959-01-27
+  摘要：李敖写，最使他满意的是心中丝毫不为所动；他对自己满意，认为自己完全达到任何女人都不足以使他动怀的地步。此句后来被《李敖语录》摘入《纸上罗曼斯》。
+  人物：李敖
+  地点：台北
+  标签：女人、不动怀、自省、李敖语录、纸上罗曼斯
+  视图：情感线、自省线、思想线
+  作品：大学后期日记乙集、李敖语录、纸上罗曼斯
+  交叉引用：li-ao-yulu-1959-01-27-diary-not-moved-by-any-woman、daxue-houqi-yi-1959-01-25-refuses-to-deal-with-disgusting-men-and-women、daxue-houqi-yi-1959-01-09-laughs-at-former-fascination-with-rosa-and-xiaoyang-and-resolves-no-self-drowning、daxue-houqi-yi-1959-01-27-talks-with-zhouhong-until-two-and-rejects-turning-in-love-sea、daxue-houqi-yi-1959-01-28-observes-rosa-at-classroom-door-and-regrets-dealings-with-women
+  来源：大学后期日记乙集 / 001.1959年1月 / line 785
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-27-satisfied-no-woman-can-move-his-heart
+- 1959年1月27日 | 李敖夜与松燃、庄因赴大世界看《日本小亡命者》，觉得甚有趣
+  精度：day；可靠度：diary；排序日期：1959-01-27
+  摘要：李敖夜里与松燃、庄因赴大世界看电影《日本小亡命者》（Escapade in Japan），觉得甚有趣。
+  人物：李敖、松燃、庄因
+  地点：台北、大世界
+  标签：日本小亡命者、Escapade in Japan、大世界、电影、松燃、庄因
+  视图：电影线、人际线、日常线
+  作品：大学后期日记乙集、日本小亡命者、Escapade in Japan
+  交叉引用：-
+  来源：大学后期日记乙集 / 001.1959年1月 / line 789
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-27-watches-escapade-in-japan-with-songran-and-zhuangyin
+- 1959年1月28日 | 李敖上午给启庆“洗脑”，劝他很久
+  精度：day；可靠度：diary；排序日期：1959-01-28
+  摘要：李敖上午给启庆“洗脑”，劝他很久。
+  人物：李敖、启庆
+  地点：台北
+  标签：启庆、洗脑、劝说
+  视图：人际线、思想线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-25-dinner-with-qiqing-at-shouer-kang-and-campus-preaching
+  来源：大学后期日记乙集 / 001.1959年1月 / line 795
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-28-brainwashes-qiqing-and-advises-him-for-a-long-time
+- 1959年1月28日 | 李敖在文学院十七教室门口打量 Rosa，并感到跟任何女人扯过都悔恨
+  精度：day；可靠度：diary；排序日期：1959-01-28
+  摘要：李敖在文学院十七教室门口打量 Rosa；他由此感到，跟任何女人扯过都没有使他不悔恨的。
+  人物：李敖、Rosa
+  地点：台北、文学院十七教室
+  标签：Rosa、文学院十七教室、女人、悔恨
+  视图：情感线、校园线、自省线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-09-laughs-at-former-fascination-with-rosa-and-xiaoyang-and-resolves-no-self-drowning、daxue-houqi-yi-1959-01-27-satisfied-no-woman-can-move-his-heart
+  来源：大学后期日记乙集 / 001.1959年1月 / line 797
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-28-observes-rosa-at-classroom-door-and-regrets-dealings-with-women
+- 1959年1月28日 | 李敖夜买零食在床上看书，觉得读书之乐胜过其他娱乐
+  精度：day；可靠度：diary；排序日期：1959-01-28
+  摘要：李敖夜里买零食，在床上看书，觉得甚为快乐，并认为读书之乐胜过其他娱乐多多。
+  人物：李敖
+  地点：台北
+  标签：零食、床上看书、读书之乐、娱乐
+  视图：读书线、日常线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-26-decides-to-seek-eternal-happiness-in-knowledge-and-be-a-bookworm、daxue-houqi-yi-1959-01-25-vows-next-semester-nightly-library-habit-for-knowledge-joy
+  来源：大学后期日记乙集 / 001.1959年1月 / line 799
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-28-buys-snacks-and-reads-in-bed-happily
+- 1959年1月29日 | 李敖下午收拾东西，周弘来谈，又同赴傅园谈
+  精度：day；可靠度：diary；排序日期：1959-01-29
+  摘要：李敖下午收拾东西；周弘来谈，二人又同赴傅园继续谈话。
+  人物：李敖、周弘
+  地点：台北、傅园
+  标签：周弘、收拾东西、傅园、谈话
+  视图：人际线、日常线、校园线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-27-talks-with-zhouhong-until-two-and-rejects-turning-in-love-sea
+  来源：大学后期日记乙集 / 001.1959年1月 / line 803
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-29-packs-things-and-talks-with-zhouhong-at-fu-garden
+- 1959年1月29日 | 李敖夜仍在床上杂读
+  精度：day；可靠度：diary；排序日期：1959-01-29
+  摘要：李敖夜里仍在床上杂读。
+  人物：李敖
+  地点：台北
+  标签：床上杂读、读书、夜读
+  视图：读书线、日常线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-28-buys-snacks-and-reads-in-bed-happily
+  来源：大学后期日记乙集 / 001.1959年1月 / line 805
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-29-continues-miscellaneous-reading-in-bed-at-night
+- 1959年1月29日 | 李敖拒绝参加军训会
+  精度：day；可靠度：diary；排序日期：1959-01-29
+  摘要：李敖记下自己拒绝参加军训会。
+  人物：李敖
+  地点：台北
+  标签：军训会、拒绝、军训
+  视图：学业线、日常线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-15-light-gaze-at-boys-girls-rejects-military-training-handout-business-and-india-history-exam
+  来源：大学后期日记乙集 / 001.1959年1月 / line 807
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-29-refuses-to-attend-military-training-meeting
+- 1959年1月30日 | 李敖记下韩国人打架先用头顶再击鼻
+  精度：day；可靠度：diary；排序日期：1959-01-30
+  摘要：李敖在日记中记下一条观察：韩国人打架先用头顶，再击鼻。
+  人物：李敖、韩国人
+  地点：台北
+  标签：韩国人、打架、杂记
+  视图：日常线、杂记线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 001.1959年1月 / line 817
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-30-notes-korean-fighting-uses-head-first-then-nose
+- 1959年1月30日 | 李敖因朋友问题大受触动，决定修正待友方式并减少无意义交往
+  精度：day；可靠度：diary；排序日期：1959-01-30
+  摘要：李敖感到今天又有大变化：他深刻觉得自己对“朋友”的认识不够严格，某些人的“无耻”与“不懂事”已证明出来，使他非常不快乐。他决定修正过去待朋友的方法，尤其在金钱上对某一部分人“一介不再予、不再取”，并减少与无意义的人鬼谈鬼扯，把时间留给值得花时间的朋友。
+  人物：李敖
+  地点：台北
+  标签：朋友、无耻、不懂事、金钱、清介、无意义的人
+  视图：人际线、自省线、思想线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-27-talks-with-zhouhong-until-two-and-rejects-turning-in-love-sea、daxue-houqi-yi-1959-01-29-packs-things-and-talks-with-zhouhong-at-fu-garden、daxue-houqi-yi-1959-01-31-no-attention-philosophy-and-fewer-useless-friends
+  来源：大学后期日记乙集 / 001.1959年1月 / line 811
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-30-revises-friendship-principles-after-disappointment-with-friends
+- 1959年1月30日 | 李敖把新的朋友态度推及整个生活，并因上下午胡跑而醒悟
+  精度：day；可靠度：diary；排序日期：1959-01-30
+  摘要：李敖认为对朋友的态度会影响整个生活，不只对朋友如此，对其他生活末节亦然。他回想上下午胡跑一阵觉得后悔，并把“跟他们在一起绝对成不了什么气候”视为今日的大收获，提醒自己真该醒醒。
+  人物：李敖
+  地点：台北
+  标签：生活态度、胡跑、醒悟、朋友、自律
+  视图：自省线、日常线、思想线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-30-revises-friendship-principles-after-disappointment-with-friends
+  来源：大学后期日记乙集 / 001.1959年1月 / line 813
+  补充来源：大学后期日记乙集 / 001.1959年1月 / line 815；说明：李敖回想上下午胡跑后悔，并写“跟他们在一起绝对成不了什么气候”。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-30-extends-new-attitude-to-life-and-regrets-running-around
+- 1959年1月30日 | 李敖夜写十五页长信给老马，称“述吾二人联合转变”开始
+  精度：day；可靠度：diary；排序日期：1959-01-30
+  摘要：李敖夜里写十五页长信给老马，并记下这是“述吾二人联合转变之开始”。
+  人物：李敖、老马
+  地点：台北
+  标签：老马、十五页长信、述吾二人、联合转变
+  视图：书信线、人际线、思想线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-26-writes-seventeen-page-long-letter-to-old-ma-at-shugu-place、daxue-houqi-yi-1959-01-27-long-talk-with-jing-xinhan-and-plans-to-write-conclusion-to-old-ma、daxue-houqi-yi-1959-01-30-revises-friendship-principles-after-disappointment-with-friends
+  来源：大学后期日记乙集 / 001.1959年1月 / line 819
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-30-writes-fifteen-page-long-letter-to-old-ma-marking-joint-turning
+- 1959年1月31日 | 李敖午后与广诚、周弘、耀祖看《我与上校》
+  精度：day；可靠度：diary；排序日期：1959-01-31
+  摘要：李敖午后与广诚、周弘、耀祖去看电影《我与上校》。
+  人物：李敖、广诚、周弘、耀祖
+  地点：台北
+  标签：我与上校、电影、广诚、周弘、耀祖
+  视图：电影线、人际线、日常线
+  作品：大学后期日记乙集、我与上校
+  交叉引用：daxue-houqi-yi-1959-01-29-packs-things-and-talks-with-zhouhong-at-fu-garden
+  来源：大学后期日记乙集 / 001.1959年1月 / line 823
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-31-watches-me-and-the-colonel-with-guangcheng-zhouhong-and-yaozu
+- 1959年1月31日 | 李敖在玲珑与 CM 约明日去其宿舍，称交际周到更进一步
+  精度：day；可靠度：diary；排序日期：1959-01-31
+  摘要：李敖在玲珑与 CM 相约明日去她宿舍；他记下自己的交际周到“更进一步为之”。
+  人物：李敖、CM
+  地点：台北、玲珑
+  标签：玲珑、CM、宿舍、交际周到
+  视图：人际线、情感线、日常线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 001.1959年1月 / line 831
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-31-arranges-with-cm-at-linglong-to-visit-her-dormitory-next-day
+- 1959年1月31日 | 李敖夜独赴国际学舍看《近水楼台先得月》
+  精度：day；可靠度：diary；排序日期：1959-01-31
+  摘要：李敖夜里独自赴国际学舍看电影《近水楼台先得月》（Don’t Go Near the Water；原文作 Dont’t Near The Water）。
+  人物：李敖
+  地点：台北、国际学舍
+  标签：近水楼台先得月、Don’t Go Near the Water、国际学舍、电影
+  视图：电影线、日常线
+  作品：大学后期日记乙集、近水楼台先得月、Don’t Go Near the Water
+  交叉引用：-
+  来源：大学后期日记乙集 / 001.1959年1月 / line 825
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-31-alone-watches-dont-go-near-the-water-at-international-house
+- 1959年1月31日 | 李敖提出“不理哲学”，主张少交于己无益之友
+  精度：day；可靠度：diary；排序日期：1959-01-31
+  摘要：李敖记下“不理哲学”，并主张少交于己无益之友；他又反问为什么要做无益的事，如赴医院之类。
+  人物：李敖
+  地点：台北
+  标签：不理哲学、无益之友、无益的事、医院
+  视图：思想线、人际线、自省线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-30-revises-friendship-principles-after-disappointment-with-friends、daxue-houqi-yi-1959-01-30-extends-new-attitude-to-life-and-regrets-running-around
+  来源：大学后期日记乙集 / 001.1959年1月 / line 827
+  补充来源：大学后期日记乙集 / 001.1959年1月 / line 829；说明：李敖反问为什么要做无益的事，如赴医院之类。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-01-31-no-attention-philosophy-and-fewer-useless-friends
+- 1959年2月1日 | 李敖夜赴王家，并说他从与赵宪文谈话想到政场中人的无知与黑暗
+  精度：day；可靠度：diary；排序日期：1959-02-01
+  摘要：李敖夜里赴王家，并说他由与赵宪文的谈话想到政场中人的无知与黑暗。
+  人物：李敖、赵宪文
+  地点：台北、王家
+  标签：王家、赵宪文、政场、无知、黑暗
+  视图：政治线、人际线、思想线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 002.1959年2月 / line 7
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-01-wang-family-talk-with-zhao-xianwen-about-political-ignorance-darkness
+- 1959年2月1日 | 李敖赴女生宿舍见 CM，同午饭吃冰谈至四时半后自称完全觉醒
+  精度：day；可靠度：diary；排序日期：1959-02-01
+  摘要：李敖十二时赴女生宿舍，后与 CM 在重庆午饭、在福利社吃冰，谈到四时半。他用英文连称这是 scandal，并说今天的大收割是对她“百分之百的觉醒”，对过去关系充满否定、悔恨、可憎与恶心。
+  人物：李敖、CM
+  地点：台北、女生宿舍、重庆、福利社
+  标签：CM、女生宿舍、重庆、福利社、scandal、觉醒
+  视图：情感线、日常线、自省线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-31-arranges-with-cm-at-linglong-to-visit-her-dormitory-next-day、daxue-houqi-yi-1959-01-25-refuses-to-deal-with-disgusting-men-and-women、daxue-houqi-yi-1959-01-30-revises-friendship-principles-after-disappointment-with-friends
+  来源：大学后期日记乙集 / 002.1959年2月 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-01-visits-cm-dormitory-lunches-and-awakens-to-scandal
+- 1959年2月2日 | 李敖认为给陈又亮小朋友留自尊心甚好
+  精度：day；可靠度：diary；排序日期：1959-02-02
+  摘要：李敖记下“给陈又亮小朋友留自尊心甚好”，显示他在朋友交往中留意对方自尊。
+  人物：李敖、陈又亮
+  地点：台北
+  标签：陈又亮、自尊心、朋友
+  视图：人际线、自省线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-20-quarrels-with-chen-youliang-and-records-night-note-massage-warning、daxue-houqi-yi-1959-01-21-doggerel-teases-youliang-xiaodiu-shenyun-and-friends-respond
+  来源：大学后期日记乙集 / 002.1959年2月 / line 13
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-02-leaves-self-respect-for-chen-youliang
+- 1959年2月2日 | 周弘、又亮陪李敖到松山搭车，他在车上与庄因大谈西方新派思潮，傍晚抵台中
+  精度：day；可靠度：diary；排序日期：1959-02-02
+  摘要：周弘、又亮陪李敖到松山搭车；车上李敖与庄因大谈吸收西方新派思潮等问题。下午五时二十分抵台中，在车站见到庄严夫妇、三爷、马浩。
+  人物：李敖、周弘、又亮、庄因、庄严夫妇、三爷、马浩
+  地点：台北、松山、台中
+  标签：松山、台中、庄因、西方新派思潮、寒假
+  视图：旅行线、思想线、人际线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-31-watches-me-and-the-colonel-with-guangcheng-zhouhong-and-yaozu、daxue-houqi-yi-1959-01-25-treats-zhuangyin-and-songran-at-xinxing
+  来源：大学后期日记乙集 / 002.1959年2月 / line 11
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-02-zhouhong-youliang-see-him-to-songshan-and-train-to-taichung-with-zhuangyin-western-thought-talk
+- 1959年2月3日 | 李敖下午与张世民谈
+  精度：day；可靠度：diary；排序日期：1959-02-03
+  摘要：李敖下午与张世民谈话。
+  人物：李敖、张世民
+  地点：台中
+  标签：张世民、谈话、台中
+  视图：人际线
+  作品：大学后期日记乙集
+  交叉引用：daxue-zhaji-1957-05-19-talks-with-zhang-shimin-about-affecting-others
+  来源：大学后期日记乙集 / 002.1959年2月 / line 19
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-03-afternoon-talk-with-zhang-shimin
+- 1959年2月3日 | 李敖与善培、黎鸿飞饭于渝园并看《花都舞影》，夜在家谈至十点半
+  精度：day；可靠度：diary；排序日期：1959-02-03
+  摘要：下午五时后，李敖与善培、黎鸿飞在渝园吃饭，并看电影《花都舞影》。夜里三人在家中谈到十点半。
+  人物：李敖、善培、黎鸿飞
+  地点：台中、渝园
+  标签：善培、黎鸿飞、渝园、花都舞影、Les Girls
+  视图：电影线、人际线、日常线
+  作品：大学后期日记乙集、花都舞影、Les Girls
+  交叉引用：-
+  来源：大学后期日记乙集 / 002.1959年2月 / line 23
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-03-dines-at-yuyuan-with-shanpei-li-hongfei-watches-les-girls-and-talks-at-home
+- 1959年2月3日 | 李敖记 1936 年商务版《现代工业管理》与孙洵侯，并补注多年后在文星再见
+  精度：day；可靠度：diary；排序日期：1959-02-03
+  摘要：李敖记 1936 年商务版《现代工业管理》曾在南开大学讲过，作者孙洵侯久未再见。李敖后来按语补充，孙洵侯是中国最早翻译邓肯自传的人，庄严曾介绍二人相识；十多年后孙洵侯又到文星编辑部聊天数次，李敖称其留英、极博洽风趣。
+  人物：李敖、孙洵侯、庄严
+  地点：台中、南开大学、文星编辑部
+  标签：现代工业管理、孙洵侯、商务印书馆、南开大学、文星、敖按
+  视图：读书线、人际线、出版线
+  作品：大学后期日记乙集、现代工业管理、邓肯自传、文星
+  交叉引用：-
+  来源：大学后期日记乙集 / 002.1959年2月 / line 25
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-03-notes-1936-modern-industrial-management-and-sun-xunhou
+- 1959年2月3日 | 李敖记老太从孩子骂到老子、再从老子骂到孩子
+  精度：day；可靠度：diary；排序日期：1959-02-03
+  摘要：李敖在台中日常中记下老太骂人的场景：从孩子骂到老子，再从老子骂到孩子。
+  人物：李敖
+  地点：台中
+  标签：老太、骂人、家庭日常
+  视图：日常线、家庭线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 002.1959年2月 / line 21
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-03-notes-old-lady-scolding-from-children-to-fathers
+- 1959年2月3日 | 李敖觉得随时读英文甚有味
+  精度：day；可靠度：diary；排序日期：1959-02-03
+  摘要：李敖记下“随时读英文甚有味”，把零散时间读英文纳入日常读书习惯。
+  人物：李敖
+  地点：台北
+  标签：英文、读书、零星时间
+  视图：读书线、自律线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-26-decides-to-seek-eternal-happiness-in-knowledge-and-be-a-bookworm、daxue-houqi-yi-1959-01-28-buys-snacks-and-reads-in-bed-happily
+  来源：大学后期日记乙集 / 002.1959年2月 / line 17
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-03-finds-reading-english-anytime-tasteful
+- 1959年2月4日 | 小龙夜来与李敖谈
+  精度：day；可靠度：diary；排序日期：1959-02-04
+  摘要：夜里小龙来与李敖谈话。
+  人物：李敖、小龙
+  地点：台中
+  标签：小龙、夜谈
+  视图：人际线、日常线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 002.1959年2月 / line 35
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-04-night-talk-with-xiaolong
+- 1959年2月4日 | 华民晨来谈中学校长跋扈荒谬、教员无骨气，李敖称自己干不了
+  精度：day；可靠度：diary；排序日期：1959-02-04
+  摘要：早晨华民来谈，李敖听到中学校长如此跋扈荒谬、教员如此无骨气，感到出乎意料，并说“吾干不了也”。
+  人物：李敖、华民
+  地点：台中
+  标签：华民、中学校长、跋扈、教员、无骨气
+  视图：教育线、人际线、思想线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 002.1959年2月 / line 29
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-04-huamin-talks-school-principal-domineering-and-teachers-spineless
+- 1959年2月4日 | 华俊请李敖看《保险箱大窃案》
+  精度：day；可靠度：diary；排序日期：1959-02-04
+  摘要：华俊请李敖看电影《保险箱大窃案》（Man in the Vault）。
+  人物：李敖、华俊
+  地点：台中
+  标签：华俊、保险箱大窃案、Man in the Vault、电影
+  视图：电影线、人际线
+  作品：大学后期日记乙集、保险箱大窃案、Man in the Vault
+  交叉引用：-
+  来源：大学后期日记乙集 / 002.1959年2月 / line 33
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-04-huajun-invites-him-to-watch-man-in-the-vault
+- 1959年2月4日 | 李敖感到自己对人间小事愈来愈只闻不问不答，形成沉默的大转变
+  精度：day；可靠度：diary；排序日期：1959-02-04
+  摘要：李敖写自己对人间小事愈来愈只闻不问不答不述说，思念已离它们愈远，像跑到远超俗尘的遥远地方。他愈来愈沉默，懒得同人谈与理想无关的事，也不喜欢同多言无稽的人往还，称这是一个大转变。
+  人物：李敖
+  地点：台北
+  标签：人间小事、沉默、理想、多言无稽、大转变
+  视图：思想线、自省线、人际线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-30-revises-friendship-principles-after-disappointment-with-friends、daxue-houqi-yi-1959-01-31-no-attention-philosophy-and-fewer-useless-friends、daxue-houqi-yi-1959-02-01-visits-cm-dormitory-lunches-and-awakens-to-scandal
+  来源：大学后期日记乙集 / 002.1959年2月 / line 31
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-04-turns-away-from-trivial-human-affairs-and-becomes-silent
+- 1959年2月5日 | 张霭蓥等教徒称李敖为天才
+  精度：day；可靠度：diary；排序日期：1959-02-05
+  摘要：李敖记下张霭蓥等教徒呼他为天才。
+  人物：李敖、张霭蓥、教徒
+  地点：台中
+  标签：张霭蓥、教徒、天才
+  视图：人际线、自我形象线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-19-writes-borrowing-song-and-dormitory-doggerel-about-friends
+  来源：大学后期日记乙集 / 002.1959年2月 / line 47
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-05-zhang-aiying-and-christians-call-him-genius
+- 1959年2月5日 | 李敖杂记腹诽之罪、米高扬政治技术与荷兰自行车多
+  精度：day；可靠度：diary；排序日期：1959-02-05
+  摘要：李敖同日杂记“腹诽之罪，何世无之”；又记米高扬的政治技术是搞工商而不争政权，并有过人的交际手腕；还记荷兰自行车多。
+  人物：李敖、米高扬
+  地点：台中、荷兰
+  标签：腹诽、米高扬、政治技术、工商、荷兰自行车
+  视图：思想线、政治线、杂记线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 002.1959年2月 / line 41
+  补充来源：大学后期日记乙集 / 002.1959年2月 / line 43；说明：李敖记米高扬搞工商不争政权的政治技术及过人的交际手腕。；大学后期日记乙集 / 002.1959年2月 / line 45；说明：李敖记荷兰自行车多。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-05-notes-belly-slander-mikoyan-politics-and-dutch-bicycles
+- 1959年2月5日 | 李敖看铁匠们的生活，怜悯小童工，并说他想到其一生生命尽于斯
+  精度：day；可靠度：diary；排序日期：1959-02-05
+  摘要：李敖观察铁匠们的生活，觉得小童工极可怜。他认为他们的生活方式与知识分子阶层完全不同，千日如一日，一生生命尽于斯，也不想人生大问题、不怀疑人生意义。
+  人物：李敖、铁匠、小童工
+  地点：台中
+  标签：铁匠、小童工、知识分子、人生意义、社会观察
+  视图：社会线、日常线、思想线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 002.1959年2月 / line 39
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-05-observes-blacksmiths-and-pities-child-workers
+- 1959年2月6日 | 李敖午后看《妾意如绵》，觉得珍茜蒙丝妩媚最像 Rosa
+  精度：day；可靠度：diary；排序日期：1959-02-06
+  摘要：李敖午后看电影《妾意如绵》，觉得珍茜蒙丝的妩媚最像 Rosa，极为喜欢，并说他由此想到可爱的女人毕竟不止她一人。
+  人物：李敖、珍茜蒙丝、Rosa
+  地点：台北
+  标签：妾意如绵、Home Before Dark、珍茜蒙丝、Jean Simmons、Rosa
+  视图：电影线、情感线、日常线
+  作品：大学后期日记乙集、妾意如绵、Home Before Dark
+  交叉引用：daxue-houqi-yi-1959-01-28-observes-rosa-at-classroom-door-and-regrets-dealings-with-women、daxue-houqi-yi-1959-01-09-laughs-at-former-fascination-with-rosa-and-xiaoyang-and-resolves-no-self-drowning
+  来源：大学后期日记乙集 / 002.1959年2月 / line 53
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-06-watches-home-before-dark-and-finds-jean-simmons-like-rosa
+- 1959年2月6日 | 李敖认为零星读英文法功效不次于整段正襟危坐读书
+  精度：day；可靠度：diary；排序日期：1959-02-06
+  摘要：李敖写，零星读书时读英文法最好，功效不次于整段正襟危坐的读书。
+  人物：李敖
+  地点：台北
+  标签：英文法、零星读书、读书方法
+  视图：读书线、自律线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-02-03-finds-reading-english-anytime-tasteful、daxue-houqi-yi-1959-01-26-decides-to-seek-eternal-happiness-in-knowledge-and-be-a-bookworm
+  来源：大学后期日记乙集 / 002.1959年2月 / line 51
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-06-finds-scattered-reading-of-english-grammar-effective
+- 1959年2月6日 | 李敖出来碰到徐传飞，对方称他为 scholar
+  精度：day；可靠度：diary；排序日期：1959-02-06
+  摘要：李敖出来碰到徐传飞，徐传飞称他为 scholar。
+  人物：李敖、徐传飞
+  地点：台中
+  标签：徐传飞、scholar、称赞
+  视图：人际线、自我形象线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 002.1959年2月 / line 55
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-06-xu-chuanfei-calls-him-scholar
+- 1959年2月6日 | 李敖夜读《Hater’s Castle》和克罗宁谈“完”的修养文章，决定多读此类新式修养文字
+  精度：day；可靠度：diary；排序日期：1959-02-06
+  摘要：李敖夜读 A. J. Cronin 的 Hater’s Castle，又读作者在《皇冠》上谈“完”的精神的文章。他认为此类新式新体裁修养文字胜过十册旧教条式修养书，并记下要坚持完成正在做的工作，即使它看似没有意义；又举罗耀拉在生命最后二十分钟仍主张打完手上球为例。
+  人物：李敖、A. J. Cronin、罗耀拉
+  地点：台北
+  标签：Hater’s Castle、A. J. Cronin、皇冠、完成精神、罗耀拉、修养文字
+  视图：读书线、思想线、写作线
+  作品：大学后期日记乙集、Hater’s Castle、皇冠
+  交叉引用：daxue-houqi-yi-1959-01-26-decides-to-seek-eternal-happiness-in-knowledge-and-be-a-bookworm、daxue-houqi-yi-1959-02-06-finds-scattered-reading-of-english-grammar-effective
+  来源：大学后期日记乙集 / 002.1959年2月 / line 57
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-06-reads-haters-castle-and-cronin-essay-on-finishing-spirit
+- 1959年2月6日 | 李敖晚上写小说
+  精度：day；可靠度：diary；排序日期：1959-02-06
+  摘要：李敖晚上写小说。此处为李敖日记中记录的写作动作，不把小说正文虚构内容入表。
+  人物：李敖
+  地点：台北
+  标签：写小说、写作
+  视图：写作线、日常线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-02-06-reads-haters-castle-and-cronin-essay-on-finishing-spirit
+  来源：大学后期日记乙集 / 002.1959年2月 / line 59
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-06-writes-novel-in-the-evening
+- 1959年2月7日 | 李敖与庄因、松燃看《姐儿卖俏》
+  精度：day；可靠度：diary；排序日期：1959-02-07
+  摘要：李敖与庄因、松燃看电影《姐儿卖俏》。
+  人物：李敖、庄因、松燃
+  地点：台中
+  标签：姐儿卖俏、电影、庄因、松燃
+  视图：电影线、人际线、日常线
+  作品：大学后期日记乙集、姐儿卖俏
+  交叉引用：-
+  来源：大学后期日记乙集 / 002.1959年2月 / line 63
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-07-watches-jier-maiqiao-with-zhuangyin-and-songran
+- 1959年2月7日 | 李敖与陈彦增长谈
+  精度：day；可靠度：diary；排序日期：1959-02-07
+  摘要：李敖与陈彦增长谈。
+  人物：李敖、陈彦增
+  地点：台中
+  标签：陈彦增、长谈
+  视图：人际线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 002.1959年2月 / line 65
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-07-long-talk-with-chen-yanzeng
+- 1959年2月7日 | 李敖夜赴张世民家，记“小夫妇”除夕不知去向
+  精度：day；可靠度：diary；排序日期：1959-02-07
+  摘要：除夕夜，李敖赴张世民家，并记下“小夫妇不知道去哪儿过除夕去了”。
+  人物：李敖、张世民、小夫妇
+  地点：台中
+  标签：张世民、除夕、小夫妇
+  视图：人际线、日常线、节日线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-02-03-afternoon-talk-with-zhang-shimin
+  来源：大学后期日记乙集 / 002.1959年2月 / line 67
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-07-goes-to-zhang-shimin-home-on-new-years-eve
+- 1959年2月8日 | 李敖十一时赴善导寺，善培借他一百元
+  精度：day；可靠度：diary；排序日期：1959-02-08
+  摘要：李敖十一时赴善导寺，善培借给他一百元。
+  人物：李敖、善培
+  地点：台北、善导寺
+  标签：善导寺、善培、借钱、一百元
+  视图：人际线、日常线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 002.1959年2月 / line 73
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-08-goes-to-shandao-temple-and-shanpei-lends-hundred-yuan
+- 1959年2月8日 | 李敖与宏祥散步于中兴桥，又赴田园隔壁冰店畅谈至天黑
+  精度：day；可靠度：diary；排序日期：1959-02-08
+  摘要：李敖与马宏祥散步于中兴桥，又赴田园隔壁的冰店畅谈。二人意气甚健，到天黑才归，并谢绝马家晚饭之请。
+  人物：李敖、马宏祥
+  地点：台北、中兴桥、田园隔壁冰店
+  标签：马宏祥、中兴桥、田园、冰店、畅谈
+  视图：人际线、日常线、思想线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-02-08-lunch-at-hongxiang-home-and-zhenwu-talks-chengzhi-worldly-success
+  来源：大学后期日记乙集 / 002.1959年2月 / line 77
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-08-strolls-with-hongxiang-on-zhongxing-bridge-and-talks-at-ice-shop
+- 1959年2月8日 | 李敖午饭于宏祥家，听真吾先生谈诚之处人发财之道与旧社会身世
+  精度：day；可靠度：diary；排序日期：1959-02-08
+  摘要：李敖在马宏祥家吃午饭，真吾先生为他谈诚之处人发财之道，并自述一二身世。李敖深感旧社会人之做人及冲力颇足取，遗憾的是其知识眼界不足以追踪新时代与全国，只知一乡一镇。
+  人物：李敖、马宏祥、真吾先生、诚之
+  地点：台北、马宏祥家
+  标签：马宏祥、真吾先生、诚之、处人、发财、旧社会
+  视图：人际线、思想线、社会线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-26-handles-english-transcript-for-ma-hongxiang、daxue-houqi-yi-1959-01-27-long-talk-with-jing-xinhan-and-plans-to-write-conclusion-to-old-ma
+  来源：大学后期日记乙集 / 002.1959年2月 / line 75
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-08-lunch-at-hongxiang-home-and-zhenwu-talks-chengzhi-worldly-success
+- 1959年2月8日 | 李敖夜与英善谈
+  精度：day；可靠度：diary；排序日期：1959-02-08
+  摘要：李敖夜里与英善谈话。
+  人物：李敖、英善
+  地点：台北
+  标签：英善、夜谈
+  视图：人际线、日常线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 002.1959年2月 / line 81
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-08-night-talk-with-yingshan
+- 1959年2月8日 | 李敖夜赴周弘家，周弘介绍段白澜等，李敖唱 Dear John 并大吃汤团年糕
+  精度：day；可靠度：diary；排序日期：1959-02-08
+  摘要：李敖夜赴周弘家，周弘介绍段白澜等人给他认识；李敖又唱 Dear John，引得众人群笑。他还在周家大吃汤团、年糕。
+  人物：李敖、周弘、段白澜
+  地点：台北、周弘家
+  标签：周弘、段白澜、Dear John、汤团、年糕、春节
+  视图：人际线、音乐线、节日线
+  作品：大学后期日记乙集、Dear John
+  交叉引用：daxue-houqi-yi-1959-01-03-watches-the-buccaneer-with-xinhan-hongxiang-and-night-talks-sings-dear-john、daxue-houqi-yi-1959-01-31-watches-me-and-the-colonel-with-guangcheng-zhouhong-and-yaozu
+  来源：大学后期日记乙集 / 002.1959年2月 / line 79
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-08-zhouhong-home-introduces-duan-bailan-sings-dear-john-and-eats-new-year-food
+- 1959年2月8日 | 李敖晨八时飞快车北返，三小时不到做札记七页
+  精度：day；可靠度：diary；排序日期：1959-02-08
+  摘要：李敖早晨八时搭飞快车北返，不到三小时做札记七页，并称这也是“手之一勤”。
+  人物：李敖
+  地点：台中、台北
+  标签：飞快车、北返、札记七页、手勤
+  视图：旅行线、读书线、自律线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-02-06-finds-scattered-reading-of-english-grammar-effective、daxue-houqi-yi-1959-02-06-reads-haters-castle-and-cronin-essay-on-finishing-spirit
+  来源：大学后期日记乙集 / 002.1959年2月 / line 71
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-08-northbound-fast-train-and-seven-pages-of-notes
+- 1959年2月9日 | 李敖又谢绝马家火锅之邀，下午先赴景家后与景新汉、老马大谈至六时
+  精度：day；可靠度：diary；排序日期：1959-02-09
+  摘要：李敖中午又谢绝马家火锅之邀，在校门口碰到老马，老马也来邀他。下午他先赴景家，后老马又至，三人大谈至六时。
+  人物：李敖、老马、景新汉
+  地点：台北、景家、校门口
+  标签：马家火锅、老马、景新汉、大谈、校门口
+  视图：人际线、思想线、日常线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-02-08-lunch-at-hongxiang-home-and-zhenwu-talks-chengzhi-worldly-success、daxue-houqi-yi-1959-02-08-strolls-with-hongxiang-on-zhongxing-bridge-and-talks-at-ice-shop、daxue-houqi-yi-1959-01-30-writes-fifteen-page-long-letter-to-old-ma-marking-joint-turning
+  来源：大学后期日记乙集 / 002.1959年2月 / line 87
+  补充来源：大学后期日记乙集 / 002.1959年2月 / line 89；说明：下午先赴景家，后老马复至，三人大谈至六时。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-09-declines-ma-family-hotpot-and-talks-with-jing-xinhan-old-ma-until-six
+- 1959年2月9日 | 李敖在书摊以三元买旧书，后赴善培处未遇
+  精度：day；可靠度：diary；排序日期：1959-02-09
+  摘要：李敖在书摊以三元买旧书，随后赴善培处，未遇而归。
+  人物：李敖、善培
+  地点：台北、书摊
+  标签：书摊、旧书、三元、善培
+  视图：读书线、日常线、人际线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-02-08-goes-to-shandao-temple-and-shanpei-lends-hundred-yuan
+  来源：大学后期日记乙集 / 002.1959年2月 / line 91
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-09-buys-old-books-for-three-yuan-and-misses-shanpei
+- 1959年2月9日 | 李敖晨与之昂、英善赴傅园照相，随后看成绩总平均八十五点七
+  精度：day；可靠度：diary；排序日期：1959-02-09
+  摘要：李敖早晨与之昂、英善赴傅园照相，自己入镜三张；随后赴文学院看成绩，总平均 85.7。
+  人物：李敖、之昂、英善
+  地点：台北、傅园、文学院
+  标签：傅园、照相、之昂、英善、成绩、总平均85.7
+  视图：校园线、学业线、日常线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 002.1959年2月 / line 85
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-09-fu-garden-photos-with-zhiang-yingshan-and-sees-average-grade-85-7
+- 1959年2月10日 | 李敖记午后赶零南车的 T 之言、黑大衣与丝袜，称今日甚美
+  精度：day；可靠度：diary；排序日期：1959-02-10
+  摘要：李敖记下午后赶零南车的 T 所言，以及她的黑大衣、丝袜，并称“今日甚美”。
+  人物：李敖、T
+  地点：台北
+  标签：T、零南车、黑大衣、丝袜、美
+  视图：情感线、日常线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 002.1959年2月 / line 97
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-10-notes-t-on-lingnan-train-black-coat-stockings-beautiful
+- 1959年2月10日 | 李敖赴马家远足未成，与宏祥校园福利社宿舍大谈至夜，并看《天官赐福》后黯然别
+  精度：day；可靠度：diary；排序日期：1959-02-10
+  摘要：李敖早晨赴马家，因时间互延，三人远足未成；中午与祝泰小谈。午后他电话约宏祥来，二人在校园、福利社、宿舍大谈至夜八时后，渐成“灰色气氛”，宏祥精神甚坏，李敖也怅然。宏祥请吃锅贴等于西门町，李敖请看《天官赐福》后黯然别；翌日老马将赴外语学校报到。
+  人物：李敖、马宏祥、祝泰、老马
+  地点：台北、马家、校园、福利社、宿舍、西门町
+  标签：马家、远足未成、马宏祥、灰色气氛、锅贴、天官赐福、外语学校
+  视图：人际线、情感线、电影线
+  作品：大学后期日记乙集、天官赐福
+  交叉引用：daxue-houqi-yi-1959-02-09-declines-ma-family-hotpot-and-talks-with-jing-xinhan-old-ma-until-six、daxue-houqi-yi-1959-02-08-strolls-with-hongxiang-on-zhongxing-bridge-and-talks-at-ice-shop
+  来源：大学后期日记乙集 / 002.1959年2月 / line 95
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-10-ma-family-failed-outing-long-talk-with-hongxiang-grey-mood-and-heaven-officials-blessing
+- 1959年2月10日 | 李敖深感过去的路是对的，数日狂热尽后近于虚无主义
+  精度：day；可靠度：diary；排序日期：1959-02-10
+  摘要：李敖深感自己过去的路是对了，又追问“什么是那虚无缥缈的理想”，称自己简直是虚无主义，数日狂热到今晚尽矣。
+  人物：李敖
+  地点：台北
+  标签：过去的路、理想、虚无主义、狂热
+  视图：思想线、自省线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-02-04-turns-away-from-trivial-human-affairs-and-becomes-silent、daxue-houqi-yi-1959-01-30-extends-new-attitude-to-life-and-regrets-running-around
+  来源：大学后期日记乙集 / 002.1959年2月 / line 99
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-10-feels-past-path-right-and-frenzy-ends-in-nihilism
+- 1959年2月11日 | 李敖下午与周弘谈现代男人跳舞、弱者社会、金融市场、国际市场与民族习惯等十题
+  精度：day；可靠度：diary；排序日期：1959-02-11
+  摘要：李敖下午与周弘谈十题：现代男人也跳舞、坏话听正面好话听反面、美国式弱者被遗忘社会是否合理、金融市场心理波动、巴西烧咖啡、工业产品与国际市场不稳定、日本人在车上看报、文人贫富之言、德国民族好储蓄、西德已超过战前全德百分之三十七，以及英国船员罢工加薪与反现代化。
+  人物：李敖、周弘
+  地点：台北、美国、巴西、日本、德国、英国
+  标签：周弘、跳舞、美国社会、金融市场、巴西咖啡、日本惜阴、德国储蓄、英国罢工
+  视图：思想线、经济线、人际线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-02-08-zhouhong-home-introduces-duan-bailan-sings-dear-john-and-eats-new-year-food
+  来源：大学后期日记乙集 / 002.1959年2月 / line 109
+  补充来源：大学后期日记乙集 / 002.1959年2月 / line 111；说明：谈现代男人也跳舞，不再是女人专利。；大学后期日记乙集 / 002.1959年2月 / line 115；说明：谈像美国那样弱者被遗忘的社会是否合理。；大学后期日记乙集 / 002.1959年2月 / line 117；说明：谈金融市场比消费市场变动大且多心理因素。；大学后期日记乙集 / 002.1959年2月 / line 121；说明：谈国际市场不稳定及以国内市场为主要消费。；大学后期日记乙集 / 002.1959年2月 / line 123；说明：谈日本人在车上看报，是惜阴民族。；大学后期日记乙集 / 002.1959年2月 / line 127；说明：谈德国民族性好储蓄与西德经济。；大学后期日记乙集 / 002.1959年2月 / line 129；说明：谈英国船员罢工为加薪与反现代化。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-11-talks-with-zhouhong-on-dance-social-reading-finance-markets-and-national-habits
+- 1959年2月11日 | 李敖与弘、英善等饭于森记，又与善培赴蒋寓，午后同启庆赴姚、李二老家
+  精度：day；可靠度：diary；排序日期：1959-02-11
+  摘要：李敖与弘、英善等在森记吃饭；上午善培来，二人同赴蒋寓；午后李敖与启庆赴姚、李二老家，并散步谈天。
+  人物：李敖、弘、英善、善培、启庆、姚老、李老
+  地点：台北、森记、蒋寓、姚老家、李老家
+  标签：森记、英善、善培、蒋寓、启庆、姚老、李老
+  视图：人际线、日常线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-22-speaks-frankly-to-yao-congwu-about-prejudice、daxue-houqi-yi-1959-02-08-night-talk-with-yingshan
+  来源：大学后期日记乙集 / 002.1959年2月 / line 103
+  补充来源：大学后期日记乙集 / 002.1959年2月 / line 105；说明：上午善培来，同赴蒋寓。；大学后期日记乙集 / 002.1959年2月 / line 107；说明：午后与启庆赴姚、李二老家，并散步谈天。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-11-social-round-senji-jiang-residence-yao-li-elders-with-qiqing
+- 1959年2月11日 | 李敖与英善在少杰家晚饭，陪其弟妹玩桥牌、放冲天炮并喝乌梅酒
+  精度：day；可靠度：diary；排序日期：1959-02-11
+  摘要：李敖与英善在少杰家晚饭，同少杰弟妹玩桥牌，并请他们放冲天炮。李敖说自己与英善都有孩子气，故颇受欢迎，还喝了乌梅酒。
+  人物：李敖、英善、少杰、少杰弟妹
+  地点：台北、少杰家
+  标签：英善、少杰家、桥牌、冲天炮、孩子气、乌梅酒
+  视图：日常线、人际线、节日线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 002.1959年2月 / line 131
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-11-dinner-at-shaojie-home-bridge-firecrackers-and-plum-wine-with-yingshan
+- 1959年2月11日 | 李敖夜与弘、英善赴赵家及附中舞会，P 三次致意而他仅点头，夜小失眠
+  精度：day；可靠度：diary；排序日期：1959-02-11
+  摘要：夜里李敖与弘、英善赴赵家，又转赴罗斯福路三段二五一附中舞会。P 三次向他致意，李敖始终只是点头；归来听众人各言其事，自己亦倦言，夜里小失眠，约三时才睡。
+  人物：李敖、弘、英善、P
+  地点：台北、赵家、罗斯福路三段二五一、附中舞会
+  标签：赵家、罗斯福路三段二五一、附中舞会、P、失眠
+  视图：情感线、人际线、日常线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-01-rides-cao-car-to-p-home-and-p-says-love-letters-in-bag-not-allowed-to-read、daxue-houqi-yi-1959-02-01-visits-cm-dormitory-lunches-and-awakens-to-scandal
+  来源：大学后期日记乙集 / 002.1959年2月 / line 133
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-11-zhao-home-dance-at-roosevelt-road-p-greets-three-times-and-insomnia
+- 1959年2月12日 | 李敖午前与祝泰谈，两点后赴玲珑小食，并记上午洗澡甚快
+  精度：day；可靠度：diary；排序日期：1959-02-12
+  摘要：李敖午前与祝泰谈，下午两点后才赴玲珑小食；他还记上午洗了一澡，甚为快意。
+  人物：李敖、祝泰
+  地点：台北、玲珑
+  标签：祝泰、玲珑、小食、洗澡
+  视图：日常线、人际线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 002.1959年2月 / line 137
+  补充来源：大学后期日记乙集 / 002.1959年2月 / line 139；说明：上午洗一澡，甚快。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-12-talks-with-zhutai-snacks-at-linglong-and-enjoys-morning-bath
+- 1959年2月12日 | 李敖夜与英善谈至二时，英善翌日南下
+  精度：day；可靠度：diary；排序日期：1959-02-12
+  摘要：李敖夜里与英善谈至二时，并记英善明日将南下。
+  人物：李敖、英善
+  地点：台北
+  标签：英善、夜谈、南下
+  视图：人际线、日常线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-02-11-dinner-at-shaojie-home-bridge-firecrackers-and-plum-wine-with-yingshan
+  来源：大学后期日记乙集 / 002.1959年2月 / line 143
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-12-night-talk-with-yingshan-until-two-before-he-goes-south
+- 1959年2月12日 | 李敖夜在周弘家，周芷病，英善后来，吃点心并与辰渝下棋
+  精度：day；可靠度：diary；排序日期：1959-02-12
+  摘要：李敖夜在周弘家，周芷病，后来英善也来；十一时半才归。他在周家吃苹果、饼干、糖等，并与辰渝下棋。
+  人物：李敖、周弘、周芷、英善、辰渝
+  地点：台北、周弘家
+  标签：周弘家、周芷、英善、辰渝、下棋、点心
+  视图：人际线、日常线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-02-08-zhouhong-home-introduces-duan-bailan-sings-dear-john-and-eats-new-year-food
+  来源：大学后期日记乙集 / 002.1959年2月 / line 141
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-12-zhouhong-home-zhouzhi-sick-yingshan-arrives-snacks-and-chess-with-chenyu
+- 1959年2月13日 | 李敖下午觉得读睡读之法甚好，晚饭后独在宿舍，祝泰走后松燃来
+  精度：day；可靠度：diary；排序日期：1959-02-13
+  摘要：李敖下午觉得“读睡读之法”甚好，并决定此后晚饭当晚食。晚饭后他独在宿舍，祝泰走后松燃来。
+  人物：李敖、祝泰、松燃
+  地点：台北、宿舍
+  标签：读睡读、晚饭、宿舍、祝泰、松燃
+  视图：读书线、日常线、人际线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-02-06-finds-scattered-reading-of-english-grammar-effective、daxue-houqi-yi-1959-02-08-northbound-fast-train-and-seven-pages-of-notes
+  来源：大学后期日记乙集 / 002.1959年2月 / line 159
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-13-finds-reading-sleep-reading-method-good-and-evening-alone-after-zhutai-songran
+- 1959年2月13日 | 李敖午后赴文星买两个镜框，三人合送周弘、周芷，并补写六日来日记
+  精度：day；可靠度：diary；排序日期：1959-02-13
+  摘要：李敖午后赴文星买两个镜框，三人合送周弘、周芷；同日补写六日来的日记。
+  人物：李敖、周弘、周芷
+  地点：台北、文星
+  标签：文星、镜框、周弘、周芷、补写日记
+  视图：出版线、人际线、写作线
+  作品：大学后期日记乙集、文星
+  交叉引用：daxue-houqi-yi-1959-02-13-pe-score-65-and-zhouhong-birthday-lunch-with-father-whisky
+  来源：大学后期日记乙集 / 002.1959年2月 / line 161
+  补充来源：大学后期日记乙集 / 002.1959年2月 / line 163；说明：李敖补写六日来之日记。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-13-buys-two-frames-at-wenxing-for-zhouhong-zhouzhi-and-catches-up-six-days-diary
+- 1959年2月13日 | 李敖午间大突变，发愿铲除发脾气、对不可与言者不与言，做理性化的做人成功者
+  精度：day；可靠度：diary；排序日期：1959-02-13
+  摘要：李敖午间有一个大突变，并说他真切想到脾气上的“己所不欲，勿施于人”。他要求自己彻底铲除发脾气，对不可与言的人不与言，更多礼貌、恕道与体贴；他还因同耀祖打架而忏悔，发愿做成一个“理性化的做人成功的人”。
+  人物：李敖、耀祖
+  地点：台北
+  标签：己所不欲勿施于人、发脾气、不可与言、礼貌、恕道、理性化做人
+  视图：自省线、思想线、人际线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-30-revises-friendship-principles-after-disappointment-with-friends、daxue-houqi-yi-1959-02-04-turns-away-from-trivial-human-affairs-and-becomes-silent
+  来源：大学后期日记乙集 / 002.1959年2月 / line 151
+  补充来源：大学后期日记乙集 / 002.1959年2月 / line 153；说明：李敖要求彻底铲除发脾气。；大学后期日记乙集 / 002.1959年2月 / line 155；说明：李敖要求对不可与言的人不与言。；大学后期日记乙集 / 002.1959年2月 / line 157；说明：李敖要求更多礼貌、恕道与体贴，并发愿做理性化的做人成功的人。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-13-vows-to-remove-temper-and-be-rationalized-successful-person
+- 1959年2月13日 | 李敖体育六十五分；周弘生日请他在寓所吃面，他与周父小谈并喝威士忌
+  精度：day；可靠度：diary；排序日期：1959-02-13
+  摘要：李敖记体育六十五分。周弘生日，请他在寓所午饭吃面；李敖与周弘父亲小谈，并喝威士忌。
+  人物：李敖、周弘、周弘父亲
+  地点：台北、周弘寓所
+  标签：体育65分、周弘生日、吃面、周父、威士忌
+  视图：学业线、人际线、日常线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-02-12-zhouhong-home-zhouzhi-sick-yingshan-arrives-snacks-and-chess-with-chenyu
+  来源：大学后期日记乙集 / 002.1959年2月 / line 147
+  补充来源：大学后期日记乙集 / 002.1959年2月 / line 149；说明：周弘生日请李敖午饭吃面于其寓，与其父小谈，喝威士忌。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-13-pe-score-65-and-zhouhong-birthday-lunch-with-father-whisky
+- 1959年2月13日 | 李敖孤独之夜心灰意懒，觉得朋友女人不如书本与孤单
+  精度：day；可靠度：diary；排序日期：1959-02-13
+  摘要：李敖在孤独的夜里颇有心灰意懒的情绪，觉得朋友、女人不如书本与孤单。
+  人物：李敖
+  地点：台北
+  标签：孤独、心灰意懒、朋友、女人、书本、孤单
+  视图：情感线、读书线、自省线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-26-decides-to-seek-eternal-happiness-in-knowledge-and-be-a-bookworm、daxue-houqi-yi-1959-02-10-feels-past-path-right-and-frenzy-ends-in-nihilism
+  来源：大学后期日记乙集 / 002.1959年2月 / line 169
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-13-lonely-night-feels-friends-and-women-less-than-books-and-solitude
+- 1959年2月13日 | 李敖迷于科学方法，决定开学后尽听福生课，并要好好利用时间使周弘等多读书
+  精度：day；可靠度：diary；排序日期：1959-02-13
+  摘要：李敖记自己搞科学方法甚迷，开学后当尽听福生课。他又说当好好利用时间，今年接老马一片，意甚哀婉，自己尽力而为、死而后已，并要使周弘等多读书。
+  人物：李敖、福生、老马、周弘
+  地点：台北
+  标签：科学方法、福生课、老马、利用时间、周弘、多读书
+  视图：思想线、读书线、人际线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-20-library-reading-gannadou-self-gift-joy-and-methodology、daxue-houqi-yi-1959-02-06-reads-haters-castle-and-cronin-essay-on-finishing-spirit、daxue-houqi-yi-1959-01-30-writes-fifteen-page-long-letter-to-old-ma-marking-joint-turning
+  来源：大学后期日记乙集 / 002.1959年2月 / line 165
+  补充来源：大学后期日记乙集 / 002.1959年2月 / line 167；说明：李敖记当好好利用时间，老马一片意甚哀婉，并要使周弘等多读书。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-13-absorbed-in-scientific-method-plans-to-attend-fusheng-and-urges-friends-to-read
+- 1959年2月14日 | 李敖与宏祥饭于中山堂并参观欧美风光展，向往西方建筑风景而愈觉东方可厌
+  精度：day；可靠度：diary；排序日期：1959-02-14
+  摘要：李敖与马宏祥在中山堂吃饭，并参观欧美风光展览。他观西方建筑风景极为向往，并愈觉东方可厌。
+  人物：李敖、马宏祥
+  地点：台北、中山堂、西方、东方
+  标签：马宏祥、中山堂、欧美风光展览、西方建筑、东方可厌
+  视图：思想线、人际线、文化线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-02-02-zhouhong-youliang-see-him-to-songshan-and-train-to-taichung-with-zhuangyin-western-thought-talk
+  来源：大学后期日记乙集 / 002.1959年2月 / line 175
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-14-dines-with-hongxiang-at-zhongshan-hall-and-visits-euro-american-scenery-exhibition
+- 1959年2月14日 | 李敖午后与宏祥谈天，并赴大世界看《派对女郎》
+  精度：day；可靠度：diary；排序日期：1959-02-14
+  摘要：李敖午后与马宏祥谈天，并一同赴大世界看电影《派对女郎》（Party Girl）。
+  人物：李敖、马宏祥
+  地点：台北、大世界
+  标签：马宏祥、大世界、派对女郎、Party Girl
+  视图：电影线、人际线、日常线
+  作品：大学后期日记乙集、派对女郎、Party Girl
+  交叉引用：daxue-houqi-yi-1959-02-10-ma-family-failed-outing-long-talk-with-hongxiang-grey-mood-and-heaven-officials-blessing
+  来源：大学后期日记乙集 / 002.1959年2月 / line 173
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-14-talks-with-hongxiang-and-watches-party-girl-at-grand-world
+- 1959年2月14日 | 李敖再与马看《潜艇驱逐战》
+  精度：day；可靠度：diary；排序日期：1959-02-14
+  摘要：李敖再与马看电影《潜艇驱逐战》。
+  人物：李敖、马
+  地点：台北
+  标签：马宏祥、潜艇驱逐战、电影
+  视图：电影线、人际线
+  作品：大学后期日记乙集、潜艇驱逐战
+  交叉引用：daxue-houqi-yi-1959-02-14-talks-with-hongxiang-and-watches-party-girl-at-grand-world
+  来源：大学后期日记乙集 / 002.1959年2月 / line 177
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-14-watches-submarine-destroyer-war-with-ma
+- 1959年2月15日 | 李敖午与新汉饭于寿尔康，后与宏祥去新兴，傍晚前与老马校园散步大辩“性”问题
+  精度：day；可靠度：diary；排序日期：1959-02-15
+  摘要：李敖午间与景新汉在寿尔康吃饭，随后和马宏祥去新兴；傍晚前与老马在校园散步，当天大辩“性”问题，终不得解。
+  人物：李敖、景新汉、马宏祥、老马
+  地点：台北、寿尔康、新兴、台大校园
+  标签：景新汉、寿尔康、马宏祥、新兴、老马、性问题、校园散步
+  视图：人际线、思想线、情感线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-02-09-declines-ma-family-hotpot-and-talks-with-jing-xinhan-old-ma-until-six、daxue-houqi-yi-1959-02-14-dines-with-hongxiang-at-zhongshan-hall-and-visits-euro-american-scenery-exhibition
+  来源：大学后期日记乙集 / 002.1959年2月 / line 181
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-15-lunch-with-xinhan-at-shouer-kang-xinxing-with-hongxiang-and-sex-debate-with-old-ma
+- 1959年2月15日 | 李敖日记把爱情比作大台风，《李敖语录》原标日期为2月24日
+  精度：day；可靠度：reported-by-author；排序日期：1959-02-15
+  摘要：《李敖语录》摘录《大学后期日记乙集》“爱情好比大台风”“爱情台风化”一句，原标为1959年2月24日；核乙集原文，此句见1959年2月15日第九条，前后还有保持距离与爱情如粗茶淡饭等同日札记。
+  人物：李敖
+  地点：台北
+  标签：李敖语录、大学后期日记、纸上罗曼斯、日记
+  视图：日常线、思想线、情感线
+  作品：李敖语录、大学后期日记甲集、大学后期日记乙集、纸上罗曼斯
+  交叉引用：daxue-houqi-yi-1959-02-15-li-instructor-life-view-distance-for-friendship-love-and-love-typhoon
+  来源：李敖语录 / 031.纸上罗曼斯 / line 243
+  补充来源：大学后期日记乙集 / 002.1959年2月 / line 197；说明：《大学后期日记乙集》2月15日原文：“爱情好比大台风，爱情台风化”。《李敖语录》摘录处原标2月24日。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt
+  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1959-02-24-diary-love-typhoon-metaphor
+- 1959年2月15日 | 李敖记托尔斯泰与屠格涅夫交恶感想，午前与铸人小谈，并劝新汉不要只看戏也要演戏
+  精度：day；可靠度：diary；排序日期：1959-02-15
+  摘要：李敖记下托尔斯泰与屠格涅夫交恶之感想；午前与铸人小谈，称为“可爱的废话”；又劝新汉不要只是“看戏”，也要“演戏”。
+  人物：李敖、托尔斯泰、屠格涅夫、铸人、景新汉
+  地点：台北
+  标签：托尔斯泰、屠格涅夫、铸人、可爱的废话、景新汉、看戏、演戏
+  视图：思想线、人际线、读书线
+  作品：大学后期日记乙集、托尔斯泰、屠格涅夫
+  交叉引用：daxue-houqi-yi-1959-02-15-lunch-with-xinhan-at-shouer-kang-xinxing-with-hongxiang-and-sex-debate-with-old-ma
+  来源：大学后期日记乙集 / 002.1959年2月 / line 183
+  补充来源：大学后期日记乙集 / 002.1959年2月 / line 185；说明：午前与铸人小谈“可爱的废话”。；大学后期日记乙集 / 002.1959年2月 / line 187；说明：劝新汉不要只是“看戏”，也要“演戏”。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-15-tolstoy-turgenev-feud-zhuren-nonsense-and-advises-xinhan-to-act
+- 1959年2月15日 | 李敖记李教官人生观，并写友情爱情要保持距离、爱情如粗茶淡饭、爱情好比大台风
+  精度：day；可靠度：diary；排序日期：1959-02-15
+  摘要：李教官对李敖说他的人生观：“朋友面前莫言假，老婆面前不说真。”李敖又记下无论友情爱情皆要“保持距离，以策安全”，爱情应如粗茶淡饭、做最起码的要求，以及“爱情好比大台风，爱情台风化”。《李敖语录》摘录“爱情台风化”时原标 1959年2月24日；乙集原文可核为2月15日。
+  人物：李敖、李教官
+  地点：台北
+  标签：李教官、人生观、友情、爱情、保持距离、粗茶淡饭、爱情台风化、李敖语录
+  视图：情感线、思想线、人际线
+  作品：大学后期日记乙集、李敖语录、纸上罗曼斯
+  交叉引用：li-ao-yulu-1959-02-24-diary-love-typhoon-metaphor、daxue-houqi-yi-1959-02-15-lunch-with-xinhan-at-shouer-kang-xinxing-with-hongxiang-and-sex-debate-with-old-ma、daxue-houqi-yi-1959-01-31-no-attention-philosophy-and-fewer-useless-friends
+  来源：大学后期日记乙集 / 002.1959年2月 / line 189
+  补充来源：大学后期日记乙集 / 002.1959年2月 / line 191；说明：无论友情爱情皆要“保持距离，以策安全”。；大学后期日记乙集 / 002.1959年2月 / line 195；说明：爱情当如粗茶淡饭，做最起码的要求。；大学后期日记乙集 / 002.1959年2月 / line 197；说明：爱情好比大台风，“爱情台风化”。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-15-li-instructor-life-view-distance-for-friendship-love-and-love-typhoon
+- 1959年2月15日 | 李敖记缩头主义为老马老景所重，又记柴可夫斯基情书与年轻富寡暗助故事
+  精度：day；可靠度：diary；排序日期：1959-02-15
+  摘要：李敖记“缩头主义，老马老景甚重”；又记柴可夫斯基到一地先写信，一位年轻富寡女子暗随之、暗中资助，柴氏情书最多，李敖称这是多迷离的美感。
+  人物：李敖、老马、老景、柴可夫斯基
+  地点：台北
+  标签：缩头主义、老马、老景、柴可夫斯基、情书、富寡、美感
+  视图：思想线、情感线、读书线
+  作品：大学后期日记乙集、柴可夫斯基情书
+  交叉引用：-
+  来源：大学后期日记乙集 / 002.1959年2月 / line 199
+  补充来源：大学后期日记乙集 / 002.1959年2月 / line 201；说明：记柴可夫斯基情书与年轻富寡女子暗中资助的迷离美感。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-15-shrink-head-principle-old-ma-old-jing-and-tchaikovsky-letter-romance
+- 1959年2月15日 | 李敖夜读《世界新希望》一百二十二页，认为朋友电影收获皆不如读书，教育应采读名著法
+  精度：day；可靠度：diary；排序日期：1959-02-15
+  摘要：李敖夜读《世界新希望》一百二十二页，花四五小时。他的大感想是，任何收获如朋友、电影皆不如读书；教育应采读名著法，使思想在一夜间提升，可胜过千百今人古人。
+  人物：李敖
+  地点：台北
+  标签：世界新希望、读书、名著法、教育、朋友、电影
+  视图：读书线、教育线、思想线
+  作品：大学后期日记乙集、世界新希望
+  交叉引用：daxue-houqi-yi-1959-02-13-lonely-night-feels-friends-and-women-less-than-books-and-solitude、daxue-houqi-yi-1959-01-26-decides-to-seek-eternal-happiness-in-knowledge-and-be-a-bookworm、daxue-houqi-yi-1959-02-06-reads-haters-castle-and-cronin-essay-on-finishing-spirit
+  来源：大学后期日记乙集 / 002.1959年2月 / line 203
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-15-reads-new-hope-for-world-and-concludes-reading-classics-surpasses-friends-films
+- 1959年2月16日 | 石磊中午来与李敖谈学界黑暗
+  精度：day；可靠度：diary；排序日期：1959-02-16
+  摘要：中午石磊来，与李敖谈学界黑暗。
+  人物：李敖、石磊
+  地点：台北
+  标签：石磊、学界黑暗
+  视图：教育线、人际线、思想线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-02-04-huamin-talks-school-principal-domineering-and-teachers-spineless
+  来源：大学后期日记乙集 / 002.1959年2月 / line 209
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-16-shi-lei-talks-academic-world-darkness
+- 1959年2月16日 | 李敖午与庄因、启庆饭于寿尔康
+  精度：day；可靠度：diary；排序日期：1959-02-16
+  摘要：李敖中午与庄因、启庆在寿尔康吃饭。
+  人物：李敖、庄因、启庆
+  地点：台北、寿尔康
+  标签：庄因、启庆、寿尔康、午饭
+  视图：人际线、日常线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-02-15-lunch-with-xinhan-at-shouer-kang-xinxing-with-hongxiang-and-sex-debate-with-old-ma
+  来源：大学后期日记乙集 / 002.1959年2月 / line 207
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-16-lunch-with-zhuangyin-qiqing-at-shouer-kang
+- 1959年2月16日 | 李敖觉得穿灰衣的“萍”甚可爱，听赵元任讲演并与吴庆宜小谈
+  精度：day；可靠度：diary；排序日期：1959-02-16
+  摘要：李敖记穿灰衣的“萍”甚可爱；同日听赵元任讲演，并与吴庆宜小谈。
+  人物：李敖、萍、赵元任、吴庆宜
+  地点：台北
+  标签：萍、灰衣、赵元任、讲演、吴庆宜
+  视图：情感线、学术线、人际线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-14-sees-zhao-yuanren-in-library
+  来源：大学后期日记乙集 / 002.1959年2月 / line 211
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-16-grey-clothed-ping-zhao-yuanren-lecture-and-wu-qingyi-talk
+- 1959年2月17日 | 保同夜来向李敖借长袍并谈天
+  精度：day；可靠度：diary；排序日期：1959-02-17
+  摘要：夜里保同来向李敖借长袍，并与他谈天。
+  人物：李敖、保同
+  地点：台北
+  标签：保同、长袍、谈天
+  视图：人际线、日常线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-12-comforts-yaozu-with-orange-takes-tongjian-exam-and-talks-with-baotong
+  来源：大学后期日记乙集 / 002.1959年2月 / line 227
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-17-baotong-borrows-robe-and-talks-at-night
+- 1959年2月17日 | 述古称李敖有骨气，李敖列出近日“硬到底、无语、无为、好脾气、体贴朋友”五项大作风
+  精度：day；可靠度：diary；排序日期：1959-02-17
+  摘要：述古说李敖有骨气。李敖总结自己近日的大作风：硬到底，即不妥协、不合作；无语，即对不满意的人与事报以无言；无为，尤其对女人；哲人一般的好脾气；体贴朋友，如今日访广诚代其办事。
+  人物：李敖、述古、广诚
+  地点：台北
+  标签：述古、骨气、硬到底、无语、无为、好脾气、体贴朋友
+  视图：自省线、思想线、人际线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-02-13-vows-to-remove-temper-and-be-rationalized-successful-person、daxue-houqi-yi-1959-02-15-li-instructor-life-view-distance-for-friendship-love-and-love-typhoon、daxue-houqi-yi-1959-01-31-no-attention-philosophy-and-fewer-useless-friends
+  来源：大学后期日记乙集 / 002.1959年2月 / line 215
+  补充来源：大学后期日记乙集 / 002.1959年2月 / line 217；说明：第一项为“硬到底（不妥协、不合作）”。；大学后期日记乙集 / 002.1959年2月 / line 219；说明：第二项为“无语”，对不满意的人与事报以无言。；大学后期日记乙集 / 002.1959年2月 / line 221；说明：第三项为“无为（尤其对女人）”。；大学后期日记乙集 / 002.1959年2月 / line 223；说明：第四项为哲人一般的好脾气。；大学后期日记乙集 / 002.1959年2月 / line 225；说明：第五项为体贴朋友，如今日访广诚代其办事。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-17-shugu-says-he-has-backbone-and-he-lists-five-recent-major-styles
+- 1959年2月18日 | 庄、袁、马夜来李敖室中聚谈
+  精度：day；可靠度：diary；排序日期：1959-02-18
+  摘要：夜里庄、袁、马来李敖室中聚谈。
+  人物：李敖、庄、袁、马
+  地点：台北、宿舍
+  标签：庄、袁、马、室中聚谈
+  视图：人际线、日常线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 002.1959年2月 / line 235
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-18-zhuang-yuan-ma-gather-in-room-at-night
+- 1959年2月18日 | 宏孝、庄因晨来，李敖一上午因此过去
+  精度：day；可靠度：diary；排序日期：1959-02-18
+  摘要：早晨宏孝来，庄因也来，李敖记“一上午去矣”。
+  人物：李敖、宏孝、庄因
+  地点：台北
+  标签：宏孝、庄因、来访
+  视图：人际线、日常线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 002.1959年2月 / line 231
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-18-morning-visits-by-hongxiao-and-zhuangyin-take-whole-morning
+- 1959年2月18日 | 李敖下午在周家，众人挽他夜里跳舞，他拒绝
+  精度：day；可靠度：diary；排序日期：1959-02-18
+  摘要：李敖下午在周家，众人都挽他今夜去跳舞，他拒绝了。
+  人物：李敖、周家众人
+  地点：台北、周家
+  标签：周家、跳舞、拒绝
+  视图：人际线、情感线、日常线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-02-11-zhao-home-dance-at-roosevelt-road-p-greets-three-times-and-insomnia
+  来源：大学后期日记乙集 / 002.1959年2月 / line 233
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-18-refuses-dance-invitations-at-zhou-family
+- 1959年2月18日 | 李敖送老马上车，归来在逍遥池洗澡
+  精度：day；可靠度：diary；排序日期：1959-02-18
+  摘要：李敖送老马上车，归来后在逍遥池洗澡。
+  人物：李敖、老马
+  地点：台北、逍遥池
+  标签：老马、送上车、逍遥池、洗澡
+  视图：人际线、日常线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-02-10-ma-family-failed-outing-long-talk-with-hongxiang-grey-mood-and-heaven-officials-blessing
+  来源：大学后期日记乙集 / 002.1959年2月 / line 237
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-18-sees-old-ma-off-and-bathes-at-xiaoyao-pool
+- 1959年2月19日 | 李敖午后与新汉赴万国看《罗马奇缘》
+  精度：day；可靠度：diary；排序日期：1959-02-19
+  摘要：李敖午后与景新汉赴万国看电影《罗马奇缘》。
+  人物：李敖、景新汉
+  地点：台北、万国
+  标签：景新汉、万国、罗马奇缘、Roman Holiday
+  视图：电影线、人际线、日常线
+  作品：大学后期日记乙集、罗马奇缘、Roman Holiday
+  交叉引用：daxue-houqi-yi-1959-02-15-tolstoy-turgenev-feud-zhuren-nonsense-and-advises-xinhan-to-act
+  来源：大学后期日记乙集 / 002.1959年2月 / line 241
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-19-watches-roman-holiday-with-xinhan-at-wanguo
+- 1959年2月19日 | 李敖记下“她叫杨×惠”
+  精度：day；可靠度：diary；排序日期：1959-02-19
+  摘要：李敖在日记中简短记下“她叫杨×惠”。
+  人物：李敖、杨×惠
+  地点：台北
+  标签：杨×惠、姓名记录
+  视图：情感线、日常线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 002.1959年2月 / line 243
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-19-notes-her-name-yang-x-hui
+- 1959年2月20日 | 李敖与庄因午饭后在傅园谈，又同晚饭于玲珑并看到苏梦影
+  精度：day；可靠度：diary；排序日期：1959-02-20
+  摘要：李敖与庄因午饭后在傅园谈话，又同在玲珑吃晚饭，并看到苏梦影。
+  人物：李敖、庄因、苏梦影
+  地点：台北、傅园、玲珑
+  标签：庄因、傅园、玲珑、苏梦影
+  视图：人际线、日常线、情感线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-02-12-talks-with-zhutai-snacks-at-linglong-and-enjoys-morning-bath
+  来源：大学后期日记乙集 / 002.1959年2月 / line 247
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-20-zhuangyin-fu-garden-linglong-dinner-and-sees-su-mengying
+- 1959年2月20日 | 李敖饭后同庄因赴景家彻夜谈鬼、人世、游戏与合戏，下跳棋两盘并卷烟至晨七时
+  精度：day；可靠度：diary；排序日期：1959-02-20
+  摘要：饭后李敖同庄因赴景家，做彻夜谈，谈鬼、谈人世，又玩并合戏、下跳棋两盘、卷烟，一直至晨七时。
+  人物：李敖、庄因、景新汉
+  地点：台北、景家
+  标签：景家、彻夜谈、鬼、人世、合戏、跳棋、卷烟
+  视图：人际线、思想线、日常线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-jia-1958-10-30-night-at-jing-discusses-joke-materials-proverbs-johnson-and-gomoku
+  来源：大学后期日记乙集 / 002.1959年2月 / line 249
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-20-all-night-talk-at-jing-home-on-ghosts-human-world-games-checkers-cigarettes
+- 1959年2月21日 | 李敖记意大利人工受精须丈夫许可，并说他由剪电影镜头想到性保守与打破性问题
+  精度：day；可靠度：diary；排序日期：1959-02-21
+  摘要：李敖记，人工受精在意大利如不得丈夫许可，以通奸视之。又由剪去电影镜头想到性保守，并问自己余生何不就打破性问题而努力。
+  人物：李敖
+  地点：台北、意大利
+  标签：人工受精、意大利、通奸、电影镜头、性保守、性问题
+  视图：思想线、性观念线、社会线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-02-15-lunch-with-xinhan-at-shouer-kang-xinxing-with-hongxiang-and-sex-debate-with-old-ma、daxue-houqi-yi-1959-02-15-li-instructor-life-view-distance-for-friendship-love-and-love-typhoon
+  来源：大学后期日记乙集 / 002.1959年2月 / line 257
+  补充来源：大学后期日记乙集 / 002.1959年2月 / line 275；说明：李敖由剪去电影镜头想到性保守，并思考余生何不就打破性问题而努力。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-21-notes-italian-artificial-insemination-law-and-sex-conservatism-from-film-cuts
+- 1959年2月21日 | 李敖在新生见吵架，深厌动肝火之无聊
+  精度：day；可靠度：diary；排序日期：1959-02-21
+  摘要：李敖在新生见到吵架，深深厌恶动肝火的无聊。
+  人物：李敖
+  地点：台北、新生
+  标签：新生、吵架、动肝火、无聊
+  视图：日常线、自省线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-02-13-vows-to-remove-temper-and-be-rationalized-successful-person
+  来源：大学后期日记乙集 / 002.1959年2月 / line 255
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-21-sees-quarrel-at-xinsheng-and-detests-pointless-anger
+- 1959年2月21日 | 李敖杂记艾克语、欢天喜地派、爱与痛苦、中国社会单一化、梵高面包和审美客观
+  精度：day；可靠度：diary；排序日期：1959-02-21
+  摘要：李敖记艾克语：“不要花一分钟的时间去想我们所不喜欢的人。”又记“欢天喜地派”；思考爱不该是损害、痛苦是否为损害；主张使中国社会单一化，不可再走中体西用路线；记梵高说面包不是值得否问题而是得不到问题；又批评人看自己女人皆天仙，“情人眼里出西施”太不客观，审美当客观。
+  人物：李敖、艾克、梵高
+  地点：台北
+  标签：艾克、欢天喜地派、爱、痛苦、中体西用、梵高、审美客观
+  视图：思想线、情感线、社会线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-02-10-feels-past-path-right-and-frenzy-ends-in-nihilism、daxue-houqi-yi-1959-02-15-li-instructor-life-view-distance-for-friendship-love-and-love-typhoon
+  来源：大学后期日记乙集 / 002.1959年2月 / line 263
+  补充来源：大学后期日记乙集 / 002.1959年2月 / line 265；说明：李敖记“欢天喜地派”。；大学后期日记乙集 / 002.1959年2月 / line 267；说明：李敖思考爱不该是损害，痛苦是否为损害。；大学后期日记乙集 / 002.1959年2月 / line 269；说明：李敖记使中国社会单一化，不可再走中体西用路线。；大学后期日记乙集 / 002.1959年2月 / line 271；说明：李敖记梵高言面包不是值得否问题，乃是得不到问题。；大学后期日记乙集 / 002.1959年2月 / line 273；说明：李敖批评“情人眼里出西施”不客观，审美当客观。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-21-records-aike-quote-happy-school-love-damage-social-unification-bread-and-beauty-objectivity
+- 1959年2月21日 | 李敖连说几十个笑话，并记胡平著《雪论》
+  精度：day；可靠度：diary；排序日期：1959-02-21
+  摘要：李敖连说几十个笑话；同日记下胡平著《雪论》。
+  人物：李敖、胡平
+  地点：台北
+  标签：笑话、胡平、雪论
+  视图：笑话线、读书线、日常线
+  作品：大学后期日记乙集、雪论
+  交叉引用：daxue-houqi-jia-1958-10-27-decides-to-compile-li-ao-joke-collection、daxue-houqi-jia-1958-10-30-night-at-jing-discusses-joke-materials-proverbs-johnson-and-gomoku
+  来源：大学后期日记乙集 / 002.1959年2月 / line 259
+  补充来源：大学后期日记乙集 / 002.1959年2月 / line 261；说明：李敖记胡平著《雪论》。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-21-tells-dozens-of-jokes-and-notes-hu-ping-snow-theory
+- 1959年2月21日 | 李敖觉得老马不能超以象外，夜与马谈并赴其家，老马给晚饭钱，马母约明日晚饭
+  精度：day；可靠度：diary；排序日期：1959-02-21
+  摘要：李敖记老马不能“超以象外”。夜里他与马谈并赴其家，老马拿钱给他晚饭，老马母亲又约他明日晚饭，李敖觉得都甚可感。
+  人物：李敖、老马、马母
+  地点：台北、马家
+  标签：老马、超以象外、马家、晚饭钱、马母
+  视图：人际线、情感线、日常线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-02-18-sees-old-ma-off-and-bathes-at-xiaoyao-pool、daxue-houqi-yi-1959-02-15-shrink-head-principle-old-ma-old-jing-and-tchaikovsky-letter-romance
+  来源：大学后期日记乙集 / 002.1959年2月 / line 277
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-21-old-ma-cannot-transcend-talks-at-night-and-ma-mother-invites-dinner
+- 1959年2月21日 | 李敖晨吃三碗炒饭后睡，新汉叫醒；午与宏祥、庄因饭于寿尔康，吃冰后看《鸳鸯梦》
+  精度：day；可靠度：diary；排序日期：1959-02-21
+  摘要：早晨七时后，李敖吃炒饭三碗而眠；十一时二十分新汉叫醒他。中午他与宏祥、庄因饭于寿尔康，再赴吉美吃冰，后赴新生看《鸳鸯梦》（Monpti）。
+  人物：李敖、景新汉、马宏祥、庄因
+  地点：台北、寿尔康、吉美、新生
+  标签：炒饭、景新汉、马宏祥、庄因、寿尔康、吉美、鸳鸯梦、Monpti
+  视图：电影线、日常线、人际线
+  作品：大学后期日记乙集、鸳鸯梦、Monpti
+  交叉引用：daxue-houqi-yi-1959-02-20-all-night-talk-at-jing-home-on-ghosts-human-world-games-checkers-cigarettes、daxue-houqi-yi-1959-02-15-lunch-with-xinhan-at-shouer-kang-xinxing-with-hongxiang-and-sex-debate-with-old-ma
+  来源：大学后期日记乙集 / 002.1959年2月 / line 253
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-21-sleeps-after-three-bowls-fried-rice-xinhan-wakes-him-lunch-ice-and-monpti
+- 1959年2月22日 | 李敖午后欢送翁松燃，有良榘、祝泰、建人、庄因及室中诸公到场，玩牌后饭于寿尔康
+  精度：day；可靠度：diary；排序日期：1959-02-22
+  摘要：李敖午后欢送翁松燃，到场者有良榘、祝泰、建人、庄因及室中诸公。众人玩牌，晚饭于寿尔康。
+  人物：李敖、翁松燃、良榘、祝泰、建人、庄因、室中诸公
+  地点：台北、寿尔康
+  标签：翁松燃、欢送、良榘、祝泰、建人、庄因、玩牌、寿尔康
+  视图：人际线、日常线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-02-07-watches-jier-maiqiao-with-zhuangyin-and-songran、daxue-houqi-yi-1959-02-13-finds-reading-sleep-reading-method-good-and-evening-alone-after-zhutai-songran
+  来源：大学后期日记乙集 / 002.1959年2月 / line 281
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-22-farewell-songran-with-friends-cards-and-dinner-at-shouer-kang
+- 1959年2月22日 | 李敖记今日为元宵节
+  精度：day；可靠度：diary；排序日期：1959-02-22
+  摘要：李敖记下今日为元宵节。
+  人物：李敖
+  地点：台北
+  标签：元宵节
+  视图：日常线、节日线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 002.1959年2月 / line 285
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-22-lantern-festival
+- 1959年2月22日 | 李敖记日本留学政策一贯由国家派出、专门治技术而归，不为学位也不留而不归
+  精度：day；可靠度：diary；排序日期：1959-02-22
+  摘要：李敖记，日本留学政策一贯由国家派出，专门治技术而归，并非谋取学位，也不是留而不归。
+  人物：李敖
+  地点：台北、日本
+  标签：日本留学政策、国家派出、技术、学位、留学
+  视图：教育线、思想线、日本线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 002.1959年2月 / line 287
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-22-notes-japan-study-abroad-policy-state-sent-technical-return-not-degree
+- 1959年2月22日 | 李敖夜看周弘病，劝其专心治学，周母又约吃元宵
+  精度：day；可靠度：diary；排序日期：1959-02-22
+  摘要：李敖夜里去看周弘病。周弘今夜请晚饭未找到李敖；李敖劝周弘专心治学，周母又约他吃元宵。
+  人物：李敖、周弘、周母
+  地点：台北、周家
+  标签：周弘、生病、专心治学、周母、元宵
+  视图：人际线、读书线、节日线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-02-13-absorbed-in-scientific-method-plans-to-attend-fusheng-and-urges-friends-to-read、daxue-houqi-yi-1959-02-13-pe-score-65-and-zhouhong-birthday-lunch-with-father-whisky
+  来源：大学后期日记乙集 / 002.1959年2月 / line 283
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-22-visits-sick-zhouhong-advises-scholarship-and-mother-invites-lantern-meal
+- 1959年2月23日 | 李敖午后与述古赴街取灰裤、赴田园听音乐，与郑秀陶小谈打破传统，并请述古晚饭于游芳园
+  精度：day；可靠度：diary；排序日期：1959-02-23
+  摘要：李敖午后与述古赴街取裤，灰裤六十元；又赴田园听音乐，与郑秀陶小谈打破传统等问题。随后请述古晚饭于游芳园。
+  人物：李敖、述古、郑秀陶
+  地点：台北、田园、游芳园
+  标签：述古、灰裤、六十元、田园、听音乐、郑秀陶、打破传统、游芳园
+  视图：日常线、人际线、思想线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-02-17-shugu-says-he-has-backbone-and-he-lists-five-recent-major-styles
+  来源：大学后期日记乙集 / 002.1959年2月 / line 293
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-23-with-shugu-picks-up-grey-trousers-music-at-tianyuan-talks-with-zheng-xiutao-and-treats-dinner
+- 1959年2月23日 | 李敖取来七百五十元
+  精度：day；可靠度：diary；排序日期：1959-02-23
+  摘要：李敖取来七百五十元。
+  人物：李敖
+  地点：台北
+  标签：取钱、七百五十元
+  视图：日常线、经济线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 002.1959年2月 / line 291
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-23-takes-750-yuan
+- 1959年2月23日 | 李敖换新稿纸写文章
+  精度：day；可靠度：diary；排序日期：1959-02-23
+  摘要：李敖换新稿纸写文章。
+  人物：李敖
+  地点：台北
+  标签：新稿纸、写文章
+  视图：写作线、日常线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-02-06-writes-novel-in-the-evening
+  来源：大学后期日记乙集 / 002.1959年2月 / line 299
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-23-changes-new-manuscript-paper-to-write-article
+- 1959年2月23日 | 李敖解冻后洗冷水浴，并说他由麦米伦谈话想到西方人政治用语工巧
+  精度：day；可靠度：diary；排序日期：1959-02-23
+  摘要：天气解冻，李敖洗冷水浴，并说他想到麦米伦“论我们试试看”与“非狄更斯时代之英国”等谈话，感叹西方人政治用语皆工巧，不像中国式枯燥八股。
+  人物：李敖、麦米伦
+  地点：台北、英国
+  标签：解冻、冷水浴、麦米伦、政治用语、西方、八股
+  视图：思想线、政治线、日常线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 002.1959年2月 / line 295
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-23-thaw-cold-bath-and-macmillan-political-language
+- 1959年2月23日 | 姚先生信来，李敖打电话给陈淑平，并写限时信给启庆
+  精度：day；可靠度：diary；排序日期：1959-02-23
+  摘要：姚先生来信；李敖打电话给陈淑平，并写限时信给启庆。
+  人物：李敖、姚先生、陈淑平、启庆
+  地点：台北
+  标签：姚先生、陈淑平、启庆、限时信、电话
+  视图：书信线、人际线、日常线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-02-16-grey-clothed-ping-zhao-yuanren-lecture-and-wu-qingyi-talk
+  来源：大学后期日记乙集 / 002.1959年2月 / line 297
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-23-receives-yao-letter-calls-chen-shuping-and-writes-express-letter-to-qiqing
 - 1959-02-24 | 赴南港听胡适讲《真历史与假历史》
   精度：day；可靠度：confirmed；排序日期：1959-02-24
   摘要：李敖赴南港听胡适演讲《真历史与假历史》，日记中也留下“叹众老之中，竟无一可为吾师者”的判断。
@@ -13066,19 +15419,253 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/005.“北土非吾愿，东林怀我师”.txt
   数据：data/timeline-events.json#1959-02-24-hu-shih-lecture
-- 1959年2月24日 | 李敖日记把爱情比作大台风
-  精度：day；可靠度：reported-by-author；排序日期：1959-02-24
-  摘要：《李敖语录》摘录《大学后期日记乙集》1959年2月24日条。李敖写“爱情好比大台风”，称之为“爱情台风化”。
+- 1959年2月24日 | 李敖与启庆晚饭于铁路饭店，逛街后赴植物园夜游、中央图书馆谈天，并叹众老无师
+  精度：day；可靠度：diary；排序日期：1959-02-24
+  摘要：李敖与启庆在铁路饭店吃晚饭，随后同逛街，赴植物园夜游，甚为快乐；又赴中央图书馆谈天。他感叹众老之中竟无一可为自己的老师。
+  人物：李敖、启庆
+  地点：台北、铁路饭店、植物园、中央图书馆
+  标签：启庆、铁路饭店、植物园、夜游、中央图书馆、众老无师
+  视图：人际线、日常线、思想线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-02-16-lunch-with-zhuangyin-qiqing-at-shouer-kang、daxue-houqi-yi-1959-02-23-receives-yao-letter-calls-chen-shuping-and-writes-express-letter-to-qiqing
+  来源：大学后期日记乙集 / 002.1959年2月 / line 307
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-24-dinner-with-qiqing-at-railway-hotel-botanical-garden-night-tour-central-library-talk
+- 1959年2月24日 | 李敖午后送松燃未成，却送到穿军装的小丫头
+  精度：day；可靠度：diary；排序日期：1959-02-24
+  摘要：李敖午后原欲送松燃未成，却送到了那个穿军装的小丫头。
+  人物：李敖、松燃、穿军装的小丫头
+  地点：台北
+  标签：松燃、送行、军装小丫头
+  视图：人际线、日常线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-02-22-farewell-songran-with-friends-cards-and-dinner-at-shouer-kang
+  来源：大学后期日记乙集 / 002.1959年2月 / line 303
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-24-fails-to-see-songran-off-but-sees-off-little-girl-in-military-uniform
+- 1959年2月24日 | 李敖夜在逍遥池洗浴甚快
+  精度：day；可靠度：diary；排序日期：1959-02-24
+  摘要：李敖夜里在逍遥池一浴，觉得甚快。
+  人物：李敖
+  地点：台北、逍遥池
+  标签：逍遥池、洗浴
+  视图：日常线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-02-18-sees-old-ma-off-and-bathes-at-xiaoyao-pool
+  来源：大学后期日记乙集 / 002.1959年2月 / line 309
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-24-night-bath-at-xiaoyao-pool
+- 1959年2月24日 | 李敖赴南港听胡适讲《真历史与假历史》，以四百年《水经注》研究史为例
+  精度：day；可靠度：diary；排序日期：1959-02-24
+  摘要：李敖赴南港，听胡适讲演《真历史与假历史》；胡适以四百年的《水经注》研究史为例。
+  人物：李敖、胡适
+  地点：台北、南港
+  标签：南港、胡适、真历史与假历史、水经注、讲演
+  视图：胡适线、史学线、学术线
+  作品：大学后期日记乙集、真历史与假历史、水经注
+  交叉引用：daxue-houqi-yi-1959-01-07-hears-hu-shih-lecture-at-international-house-and-compares-to-dewey、daxue-houqi-yi-1959-01-06-reads-logic-and-decides-to-learn-from-yin-haiguang-and-ma-ge-not-hu-shih
+  来源：大学后期日记乙集 / 002.1959年2月 / line 305
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-24-nangang-hears-hu-shih-lecture-true-history-false-history
+- 1959年2月25日 | 李敖与周渝各吃三份冰淇淋、两个牛肉包，并赠象牙棋题“棋王李敖”
+  精度：day；可靠度：diary；排序日期：1959-02-25
+  摘要：李敖与周渝各吃冰淇淋三份、牛肉包两个，又把家存象牙棋一盒送给周渝。因周渝说“有女朋友真麻烦，下棋还得故意输”，李敖题写：“愿这盒象牙棋能使小周渝赢尽他所碰到的女孩子。四八、二、二五。棋王李敖。”
+  人物：李敖、周渝
+  地点：台北
+  标签：周渝、冰淇淋、牛肉包、象牙棋、棋王李敖、女朋友
+  视图：人际线、日常线、游戏线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 002.1959年2月 / line 313
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-25-eats-ice-cream-beef-buns-with-zhouyu-and-gives-ivory-chess-set-inscribed-chess-king-li-ao
+- 1959年2月25日 | 李敖订近日“四戒”：影、烟、“杵”女人一把、舞
+  精度：day；可靠度：diary；排序日期：1959-02-25
+  摘要：李敖订下近日四戒：影、烟、“杵”女人一把（并注明非在公共汽车之谓也）、舞。
   人物：李敖
   地点：台北
-  标签：李敖语录、大学后期日记、纸上罗曼斯、日记
-  视图：日常线、思想线、情感线
-  作品：李敖语录、大学后期日记甲集、大学后期日记乙集、纸上罗曼斯
-  交叉引用：-
-  来源：李敖语录 / 031.纸上罗曼斯 / line 243
+  标签：四戒、电影、烟、女人、舞、自律
+  视图：自律线、情感线、日常线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-02-18-refuses-dance-invitations-at-zhou-family、daxue-houqi-yi-1959-02-17-shugu-says-he-has-backbone-and-he-lists-five-recent-major-styles
+  来源：大学后期日记乙集 / 002.1959年2月 / line 335
+  补充来源：大学后期日记乙集 / 002.1959年2月 / line 337；说明：第一戒为影。；大学后期日记乙集 / 002.1959年2月 / line 339；说明：第二戒为烟。；大学后期日记乙集 / 002.1959年2月 / line 341；说明：第三戒为“杵”女人一把，并注明非在公共汽车之谓。；大学后期日记乙集 / 002.1959年2月 / line 343；说明：第四戒为舞。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-25-sets-four-prohibitions-film-smoking-poking-women-and-dancing
+- 1959年2月25日 | 李敖自称交际本领甚大，与友朋谈颇可使“四座并欢”
+  精度：day；可靠度：diary；排序日期：1959-02-25
+  摘要：李敖记自己交际本领甚大，与友朋谈话，颇能使“四座并欢”。
+  人物：李敖
+  地点：台北
+  标签：交际本领、四座并欢、友朋
+  视图：人际线、自我形象线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-02-17-shugu-says-he-has-backbone-and-he-lists-five-recent-major-styles、daxue-houqi-yi-1959-02-13-vows-to-remove-temper-and-be-rationalized-successful-person
+  来源：大学后期日记乙集 / 002.1959年2月 / line 317
   补充来源：-
-  文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt
-  数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1959-02-24-diary-love-typhoon-metaphor
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-25-notes-social-skill-can-make-four-seats-happy
+- 1959年2月25日 | 李敖注册，共选二十一学分
+  精度：day；可靠度：diary；排序日期：1959-02-25
+  摘要：李敖注册，共选二十一学分。
+  人物：李敖
+  地点：台北、台湾大学
+  标签：注册、二十一学分
+  视图：学业线、校园线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 002.1959年2月 / line 315
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-25-registers-for-twenty-one-credits
+- 1959年2月25日 | 李敖注册日观察小玄、Stone、Bonnie、石缦仪、罗与文月等人
+  精度：day；可靠度：diary；排序日期：1959-02-25
+  摘要：李敖记小玄还是老样子；史一的 Stone 是可人的小丫头，两个眼睛像新文艺所谓“深深的海水”，市女中毕业，忽焉在前忽焉在后；他又觉得 Bonnie 很可爱，是少妇型、社会型，穿黄色太空装，还说李敖和胡老先生一模一样，二人多次碰到并说有缘；排队注册时，李敖让石缦仪到自己前面，谈到研究院，石缦仪说他一定考得取，李敖后来按语补充石缦仪在英国且曾为《文星》译文；李敖又记罗甚落魄，女人老得真快，文月是一例。
+  人物：李敖、小玄、Stone、Bonnie、石缦仪、罗、文月、胡适
+  地点：台北、台湾大学、英国
+  标签：小玄、Stone、Bonnie、石缦仪、研究院、文星、文月、注册
+  视图：情感线、校园线、人际线
+  作品：大学后期日记乙集、文星
+  交叉引用：daxue-houqi-yi-1959-01-23-talks-with-qiqing-huang-zhugui-and-xiaoxuan-sees-him-reading、daxue-houqi-yi-1959-02-24-nangang-hears-hu-shih-lecture-true-history-false-history
+  来源：大学后期日记乙集 / 002.1959年2月 / line 319
+  补充来源：大学后期日记乙集 / 002.1959年2月 / line 321；说明：李敖记 Stone 可人，眼睛像“深深的海水”。；大学后期日记乙集 / 002.1959年2月 / line 323；说明：李敖记 Bonnie 可爱、黄色太空装，并说他和胡老先生一模一样。；大学后期日记乙集 / 002.1959年2月 / line 325；说明：李敖让石缦仪排在自己前面，谈研究院；后按称石缦仪在英国，曾为《文星》译文。；大学后期日记乙集 / 002.1959年2月 / line 327；说明：李敖记罗甚落魄。；大学后期日记乙集 / 002.1959年2月 / line 329；说明：李敖记女人老得真快，文月是一例。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-25-observes-xiaoxuan-stone-bonnie-shi-manyi-luo-wenyue-at-registration
+- 1959年2月25日 | 黄淑兰、陈淑平等戏叫李敖“磕头”，启庆、小丢、戴之昂又称与他相处愉快可深交
+  精度：day；可靠度：diary；排序日期：1959-02-25
+  摘要：黄淑兰、陈淑平等叫李敖“磕头”，李敖谈了半天价钱；黄淑兰说他有新雅号，但须先还清旧欠糖三包才告诉，王曼施说她的索价低些。萧启庆屡说跟李敖在一起愉快；小丢日记写“见到李敖，这是过年来第一高兴的事”；戴之昂来信给英善，说虽接触不多，却发觉李敖确可深交。
+  人物：李敖、黄淑兰、陈淑平、王曼施、萧启庆、小丢、戴之昂、英善
+  地点：台北
+  标签：黄淑兰、陈淑平、磕头、糖三包、王曼施、萧启庆、小丢、戴之昂、可深交
+  视图：人际线、自我形象线、日常线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-02-23-receives-yao-letter-calls-chen-shuping-and-writes-express-letter-to-qiqing、daxue-houqi-yi-1959-02-17-shugu-says-he-has-backbone-and-he-lists-five-recent-major-styles
+  来源：大学后期日记乙集 / 002.1959年2月 / line 331
+  补充来源：大学后期日记乙集 / 002.1959年2月 / line 333；说明：萧启庆、小丢日记、戴之昂来信都表达与李敖相处愉快或可深交。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-25-huang-shulan-chen-shuping-kowtow-teasing-and-friends-praise-qiqing-xiaodiu-dai-zhiang
+- 1959年2月26日 | 李敖在周家大吃元宵
+  精度：day；可靠度：diary；排序日期：1959-02-26
+  摘要：李敖在周家大吃元宵。
+  人物：李敖
+  地点：台北、周家
+  标签：周家、元宵
+  视图：日常线、节日线、人际线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-02-22-visits-sick-zhouhong-advises-scholarship-and-mother-invites-lantern-meal、daxue-houqi-yi-1959-02-22-lantern-festival
+  来源：大学后期日记乙集 / 002.1959年2月 / line 347
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-26-eats-lantern-festival-dumplings-at-zhou-family
+- 1959年2月26日 | 周渝赠李敖一首写长袍拖地、载运女贼的戏诗
+  精度：day；可靠度：diary；排序日期：1959-02-26
+  摘要：周渝赠诗给李敖，诗曰：“来来去去，李敖倒霉，长袍拖地，载运女贼。”
+  人物：李敖、周渝
+  地点：台北
+  标签：周渝、赠诗、长袍、女贼、戏诗
+  视图：诗歌线、人际线、日常线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-02-25-eats-ice-cream-beef-buns-with-zhouyu-and-gives-ivory-chess-set-inscribed-chess-king-li-ao
+  来源：大学后期日记乙集 / 002.1959年2月 / line 349
+  补充来源：大学后期日记乙集 / 002.1959年2月 / line 351；说明：周渝赠诗正文起句“来来去去”。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-26-zhouyu-presents-poem-about-unlucky-li-ao-long-robe-and-female-thief
+- 1959年2月27日 | 李敖记三个小孩比赛记忆力的笑话
+  精度：day；可靠度：diary；排序日期：1959-02-27
+  摘要：李敖记下三个小孩比赛记忆力的笑话：甲说自己出生时情形全记得，乙说哥哥比他先出来，丙说爸爸带他去、妈妈带他回。
+  人物：李敖
+  地点：台北
+  标签：笑话、三个小孩、记忆力
+  视图：笑话线、日常线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-02-21-tells-dozens-of-jokes-and-notes-hu-ping-snow-theory
+  来源：大学后期日记乙集 / 002.1959年2月 / line 361
+  补充来源：大学后期日记乙集 / 002.1959年2月 / line 363；说明：甲说“我出生时情形全记得”。；大学后期日记乙集 / 002.1959年2月 / line 365；说明：乙说“哥哥比我先出来”。；大学后期日记乙集 / 002.1959年2月 / line 367；说明：丙说“爸爸带我去，妈妈带我回”。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-27-records-three-children-memory-contest-joke
+- 1959年2月27日 | 李敖自钉书架
+  精度：day；可靠度：diary；排序日期：1959-02-27
+  摘要：李敖自钉书架。
+  人物：李敖
+  地点：台北
+  标签：自钉书架、书架
+  视图：日常线、读书线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 002.1959年2月 / line 369
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-27-nails-bookshelf-himself
+- 1959年2月27日 | 李敖夜为又亮刻“珍”印，并决定此后少做这类事
+  精度：day；可靠度：diary；排序日期：1959-02-27
+  摘要：李敖夜里为又亮刻“珍”印，并记下此后当力求少做这类事。
+  人物：李敖、又亮
+  地点：台北
+  标签：又亮、刻印、珍印、少做此类事
+  视图：日常线、人际线、自律线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-02-02-leaves-self-respect-for-chen-youliang、daxue-houqi-yi-1959-01-30-revises-friendship-principles-after-disappointment-with-friends
+  来源：大学后期日记乙集 / 002.1959年2月 / line 371
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-27-carves-zhen-seal-for-youliang-and-resolves-fewer-such-tasks
+- 1959年2月27日 | 李敖思作《处女问题》，拟引《亚玛》《胡适文存》痛诋处女癖
+  精度：day；可靠度：diary；排序日期：1959-02-27
+  摘要：李敖说他想到要写一篇《处女问题》，计划引证《亚玛》《胡适文存》，痛诋处女癖。
+  人物：李敖、胡适
+  地点：台北
+  标签：处女问题、亚玛、胡适文存、处女癖、写作计划
+  视图：写作线、性观念线、思想线
+  作品：大学后期日记乙集、处女问题、亚玛、胡适文存
+  交叉引用：daxue-houqi-yi-1959-02-21-notes-italian-artificial-insemination-law-and-sex-conservatism-from-film-cuts
+  来源：大学后期日记乙集 / 002.1959年2月 / line 373
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-27-plans-article-virginity-question-citing-yama-and-hu-shih-wencun
+- 1959年2月27日 | 李敖说他夜里想到男女皆可用“绝交交友法”
+  精度：day；可靠度：diary；排序日期：1959-02-27
+  摘要：李敖说他夜里想到，不分男女皆可用“绝交交友法”。
+  人物：李敖
+  地点：台北
+  标签：绝交交友法、男女、交友
+  视图：人际线、情感线、思想线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-30-revises-friendship-principles-after-disappointment-with-friends、daxue-houqi-yi-1959-02-15-li-instructor-life-view-distance-for-friendship-love-and-love-typhoon
+  来源：大学后期日记乙集 / 002.1959年2月 / line 375
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-27-thinks-break-friendship-to-make-friendship-method-for-men-and-women
+- 1959年2月28日 | 李敖对交游大感失望，决心疏远冷淡此类男女，把时间精力给孤独与知识兴趣
+  精度：day；可靠度：diary；排序日期：1959-02-28
+  摘要：李敖感到与人的交游大多令他失望，不论男女，尤其女人和“幼稚的男人”，都不能带给他什么，除了那些一次又一次的伤害、悔恨与损失。此刻他觉醒并决心疏远和冷淡这类男女，认为“孤独与知识的兴趣”、追求知识的兴趣，才是真正该花时间费精力的。
+  人物：李敖
+  地点：台北
+  标签：交游失望、女人、幼稚的男人、疏远、冷淡、孤独、知识的兴趣
+  视图：自省线、读书线、情感线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-02-13-lonely-night-feels-friends-and-women-less-than-books-and-solitude、daxue-houqi-yi-1959-02-27-thinks-break-friendship-to-make-friendship-method-for-men-and-women、daxue-houqi-yi-1959-02-25-sets-four-prohibitions-film-smoking-poking-women-and-dancing
+  来源：大学后期日记乙集 / 002.1959年2月 / line 379
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-28-disappointed-in-friends-men-women-resolves-cold-distance-and-knowledge-solitude
+- 1959年2月28日 | 李敖夜与宏祥在博物馆后台阶吃玉米，称近日无情人需要，并为宏祥向英星借二十元
+  精度：day；可靠度：diary；排序日期：1959-02-28
+  摘要：李敖夜里与马宏祥在博物馆后台阶上吃玉米，觉得自己近日殊无情人之需要。他又给宏祥筹二十元，钱借自英星。
+  人物：李敖、马宏祥、英星
+  地点：台北、博物馆后台阶
+  标签：马宏祥、博物馆后台阶、玉米、无情人之需要、筹钱、二十元、英星
+  视图：人际线、情感线、日常线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-02-28-disappointed-in-friends-men-women-resolves-cold-distance-and-knowledge-solitude、daxue-houqi-yi-1959-02-14-talks-with-hongxiang-and-watches-party-girl-at-grand-world
+  来源：大学后期日记乙集 / 002.1959年2月 / line 381
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-02-28-eats-corn-with-hongxiang-on-museum-back-steps-no-lover-need-and-raises-twenty-yuan-from-yingxing
 - 1959-03-01 | 写信批评胡适以下“老朽们”
   精度：day；可靠度：confirmed；排序日期：1959-03-01
   摘要：李敖在日记中记下傍晚覆徐高阮长信，攻击胡适以下的老朽们，显示他不满足于既有自由主义师承。
@@ -13092,17 +15679,446 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/005.“北土非吾愿，东林怀我师”.txt
   数据：data/timeline-events.json#1959-03-01-letter-against-elders
+- 1959年3月1日 | 李敖下午欢送李新中校
+  精度：day；可靠度：diary；排序日期：1959-03-01
+  摘要：李敖下午参加对李新中校的欢送。
+  人物：李敖、李新中
+  地点：台北
+  标签：李新中、欢送
+  视图：人际线、日常线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 003.1959年3月 / line 7
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/003.1959年3月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-03-01-afternoon-farewell-for-li-xinzhong
+- 1959年3月1日 | 李敖开始新计划的生活，并说俗物仍来扯时当多出外以逃俗务
+  精度：day；可靠度：diary；排序日期：1959-03-01
+  摘要：李敖记下开始新计划的生活，除俗物仍来牵扯外，一切均正常进行；他说自己应当多出外，以逃开俗务。
+  人物：李敖
+  地点：台北
+  标签：新计划、俗务、自律、生活计划
+  视图：自省线、日常线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-02-28-disappointed-in-friends-men-women-resolves-cold-distance-and-knowledge-solitude、daxue-houqi-yi-1959-02-25-sets-four-prohibitions-film-smoking-poking-women-and-dancing
+  来源：大学后期日记乙集 / 003.1959年3月 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/003.1959年3月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-03-01-starts-new-planned-life-and-goes-out-to-escape-mundane-affairs
+- 1959年3月1日 | 李敖文成后开始整理“识人录”
+  精度：day；可靠度：diary；排序日期：1959-03-01
+  摘要：论 Liberty 一文完成后，李敖开始整理“识人录”。
+  人物：李敖
+  地点：台北
+  标签：识人录、整理、写作计划
+  视图：写作线、人际线、日常线
+  作品：大学后期日记乙集、识人录、论Liberty
+  交叉引用：daxue-houqi-jia-1958-12-06-thinks-of-acquaintance-cards-and-friends-evaluate-neatness-lovability
+  来源：大学后期日记乙集 / 003.1959年3月 / line 15
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/003.1959年3月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-03-01-begins-organizing-record-of-knowing-people-after-finishing-essay
+- 1959年3月1日 | 李敖夜里做论 Liberty 一文
+  精度：day；可靠度：diary；排序日期：1959-03-01
+  摘要：李敖夜里写作一篇论 Liberty 的文章。
+  人物：李敖
+  地点：台北
+  标签：Liberty、自由、写作
+  视图：写作线、思想线
+  作品：大学后期日记乙集、论Liberty
+  交叉引用：-
+  来源：大学后期日记乙集 / 003.1959年3月 / line 13
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/003.1959年3月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-03-01-writes-essay-on-liberty-at-night
+- 1959年3月1日 | 李敖称整日工作带来“存款式的快乐”，并提笔成“工作颂”
+  精度：day；可靠度：diary；排序日期：1959-03-01
+  摘要：李敖说像今天这样过多好，工作充满整天，夜来虽疲倦却疲倦得舒服；他把从不停的大量工作所得称为“存款式的快乐”，又把交往、电影等快乐称为“花钱式的快乐”。晚饭后他因歌有小怅，立即作文使怅绪未燃而熄，并在夜10时37分提笔成“工作颂”：起来去工作，立刻去工作，所有快乐中，工作最快乐。
+  人物：李敖
+  地点：台北
+  标签：工作颂、存款式的快乐、工作、疲倦、作文、电影
+  视图：自省线、写作线、日常线
+  作品：大学后期日记乙集、工作颂
+  交叉引用：daxue-houqi-yi-1959-02-28-disappointed-in-friends-men-women-resolves-cold-distance-and-knowledge-solitude、daxue-houqi-yi-1959-02-25-sets-four-prohibitions-film-smoking-poking-women-and-dancing
+  来源：大学后期日记乙集 / 003.1959年3月 / line 17
+  补充来源：大学后期日记乙集 / 003.1959年3月 / line 19；说明：“工作颂”首句：起来去工作。；大学后期日记乙集 / 003.1959年3月 / line 21；说明：“工作颂”次句：立刻去工作。；大学后期日记乙集 / 003.1959年3月 / line 23；说明：“工作颂”三句：所有快乐中。；大学后期日记乙集 / 003.1959年3月 / line 25；说明：“工作颂”末句及时间：工作最快乐，夜10时37分。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/003.1959年3月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-03-01-work-filled-day-and-work-song-deposit-style-happiness
+- 1959年3月1日 | 李敖傍晚复徐高阮长信，攻击胡适以下老朽并不满胡适态度
+  精度：day；可靠度：diary；排序日期：1959-03-01
+  摘要：李敖傍晚复徐高阮一封长信，攻击胡适以下的“老朽们”。他写自己对胡适那种“好话说三遍”的态度越来越不满意。
+  人物：李敖、徐高阮、胡适
+  地点：台北
+  标签：徐高阮、胡适、长信、老朽、批评
+  视图：思想线、人际线、写作线
+  作品：大学后期日记乙集、徐高阮信
+  交叉引用：daxue-houqi-yi-1959-02-24-nangang-hears-hu-shih-lecture-true-history-false-history、daxue-houqi-yi-1959-01-07-hears-hu-shih-lecture-at-international-house-and-compares-to-dewey
+  来源：大学后期日记乙集 / 003.1959年3月 / line 11
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/003.1959年3月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-03-01-replies-xu-gaoruan-long-letter-attacking-hu-shih-and-old-men
+- 1959年3月1日 | 英星自动借金给李敖而不借陈，李敖称这是做人另一成功
+  精度：day；可靠度：diary；排序日期：1959-03-01
+  摘要：英星主动把金借给李敖，却不肯借给陈；李敖把这件事记为自己做人上的另一成功。
+  人物：李敖、英星、陈
+  地点：台北
+  标签：英星、借金、做人成功
+  视图：人际线、日常线、自省线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-02-28-eats-corn-with-hongxiang-on-museum-back-steps-no-lover-need-and-raises-twenty-yuan-from-yingxing
+  来源：大学后期日记乙集 / 003.1959年3月 / line 9
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/003.1959年3月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-03-01-yingxing-lends-gold-to-li-not-chen-and-li-calls-it-success-in-conduct
+- 1959年3月2日 | 李敖评论罗素似有大言欺人狂，胡适似有责人挑错狂
+  精度：day；可靠度：diary；排序日期：1959-03-02
+  摘要：李敖在日记中写，罗素似乎有“大言欺人狂”，胡适似乎有“责人挑错狂”。
+  人物：李敖、罗素、胡适
+  地点：台北
+  标签：罗素、胡适、批评、思想观察
+  视图：思想线、读书线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-03-01-replies-xu-gaoruan-long-letter-attacking-hu-shih-and-old-men、daxue-houqi-jia-1958-06-25-reading-method-modern-nationalism-russell-lawrence
+  来源：大学后期日记乙集 / 003.1959年3月 / line 31
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/003.1959年3月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-03-02-comments-russell-and-hu-shih-as-boastful-and-faultfinding
+- 1959年3月2日 | 李敖夜打电话约周弘到图书馆看书
+  精度：day；可靠度：diary；排序日期：1959-03-02
+  摘要：李敖夜里打电话给周弘，约他到图书馆来看书。
+  人物：李敖、周弘
+  地点：台北、图书馆
+  标签：周弘、图书馆、看书、电话
+  视图：人际线、读书线、日常线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-02-26-eats-lantern-festival-dumplings-at-zhou-family
+  来源：大学后期日记乙集 / 003.1959年3月 / line 35
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/003.1959年3月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-03-02-calls-zhouhong-to-library-to-read
+- 1959年3月2日 | 李敖说绝交不出恶言的态度仍要拾回采行
+  精度：day；可靠度：diary；排序日期：1959-03-02
+  摘要：李敖说绝交时不出恶言的态度仍要拾回来采行，因为自己也有太多近乎不可恕的事。
+  人物：李敖
+  地点：台北
+  标签：绝交、不出恶言、自省
+  视图：自省线、人际线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-02-27-thinks-break-friendship-to-make-friendship-method-for-men-and-women、daxue-houqi-yi-1959-01-30-revises-friendship-principles-after-disappointment-with-friends
+  来源：大学后期日记乙集 / 003.1959年3月 / line 29
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/003.1959年3月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-03-02-resolves-break-relations-without-bad-words
+- 1959年3月2日 | 李敖通鉴课上与李玄伯谈，下课后吴相湘盛赞其袍
+  精度：day；可靠度：diary；排序日期：1959-03-02
+  摘要：李敖在通鉴课上与李玄伯谈话；下课后，吴相湘盛赞他的长袍。
+  人物：李敖、李玄伯、吴相湘
+  地点：台北、台大
+  标签：通鉴课、李玄伯、吴相湘、长袍
+  视图：求学线、人际线、日常线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 003.1959年3月 / line 33
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/003.1959年3月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-03-02-talks-with-li-xuanbo-in-tongjian-class-and-wu-xiangxiang-praises-robe
+- 1959年3月3日 | 李敖又在森记包晚饭
+  精度：day；可靠度：diary；排序日期：1959-03-03
+  摘要：李敖又在森记包晚饭。
+  人物：李敖
+  地点：台北、森记
+  标签：森记、晚饭
+  视图：日常线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 003.1959年3月 / line 49
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/003.1959年3月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-03-03-dinner-at-senji-again
+- 1959年3月3日 | 李敖上第一堂逻辑课，记小玄浅蓝衬衫、蓝外套与苍白面色
+  精度：day；可靠度：diary；排序日期：1959-03-03
+  摘要：李敖上第一堂逻辑课，记录小玄穿浅蓝衬衫、蓝外套，面色有点苍白，坐在隔一排最左面。
+  人物：李敖、小玄
+  地点：台北、台大
+  标签：逻辑课、小玄、浅蓝衬衫、蓝外套
+  视图：求学线、情感线、日常线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-02-25-observes-xiaoxuan-stone-bonnie-shi-manyi-luo-wenyue-at-registration
+  来源：大学后期日记乙集 / 003.1959年3月 / line 41
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/003.1959年3月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-03-03-first-logic-class-observes-xiaoxuan-blue-clothes
+- 1959年3月3日 | 李敖下午赴法学院访得赵凤喈《中国妇女在法律上之地位》，并与启扬、新地等谈
+  精度：day；可靠度：diary；排序日期：1959-03-03
+  摘要：李敖下午到法学院，访得赵凤喈《中国妇女在法律上之地位》一书，并与启扬、新地等人谈话。
+  人物：李敖、赵凤喈、启扬、新地
+  地点：台北、台大法学院
+  标签：法学院、赵凤喈、中国妇女在法律上之地位、启扬、新地
+  视图：读书线、求学线、人际线
+  作品：大学后期日记乙集、中国妇女在法律上之地位
+  交叉引用：-
+  来源：大学后期日记乙集 / 003.1959年3月 / line 47
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/003.1959年3月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-03-03-visits-law-college-finds-zhao-fengjie-women-legal-status-and-talks-with-qiyang-xindi
+- 1959年3月3日 | 李敖午饭前腹诽逻辑老师曾天从讲个没完
+  精度：day；可靠度：diary；排序日期：1959-03-03
+  摘要：李敖在日记中写“曾天从呵，我的肚子在骂你了！”后按说明，曾天从先生是他的逻辑老师，这段日记是午饭前写的，当时已经下课，但曾先生仍起劲地讲个没完。
+  人物：李敖、曾天从
+  地点：台北、台大
+  标签：曾天从、逻辑老师、午饭前、课堂
+  视图：求学线、日常线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 003.1959年3月 / line 45
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/003.1959年3月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-03-03-notes-logic-teacher-zeng-tiancong-keeps-talking-before-lunch
+- 1959年3月3日 | 李敖在普通教室侧门碰到 Rosa，双方以没有表情做表情
+  精度：day；可靠度：diary；排序日期：1959-03-03
+  摘要：李敖在普通教室侧门碰到 Rosa，他写两人都以没有表情做了表情。
+  人物：李敖、Rosa
+  地点：台北、台大
+  标签：Rosa、普通教室、没有表情
+  视图：情感线、人际线、日常线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-01-09-laughs-at-former-fascination-with-rosa-and-xiaoyang-and-resolves-no-self-drowning、daxue-houqi-yi-1959-02-06-watches-home-before-dark-and-finds-jean-simmons-like-rosa
+  来源：大学后期日记乙集 / 003.1959年3月 / line 43
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/003.1959年3月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-03-03-meets-rosa-at-classroom-side-door-with-expressionless-expression
+- 1959年3月3日 | 李敖夜花十四元购壶一个
+  精度：day；可靠度：diary；排序日期：1959-03-03
+  摘要：李敖夜里花十四元买了一个壶。
+  人物：李敖
+  地点：台北
+  标签：购壶、十四元
+  视图：日常线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 003.1959年3月 / line 51
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/003.1959年3月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-03-03-buys-pot-for-fourteen-dollars-at-night
+- 1959年3月3日 | 李敖借到 Westermarck 婚姻史，惊叹巨著多年尘封未割页
+  精度：day；可靠度：diary；排序日期：1959-03-03
+  摘要：李敖借到 Westermarck 的婚姻史，称其为巨著；他还注意到书的复叶尚未割开，已经在图书馆中尘封多年。
+  人物：李敖
+  地点：台北、图书馆
+  标签：Westermarck、婚姻史、图书馆、未割页
+  视图：读书线、求学线
+  作品：大学后期日记乙集、The History of Human Marriage
+  交叉引用：-
+  来源：大学后期日记乙集 / 003.1959年3月 / line 39
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/003.1959年3月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-03-03-borrows-westermarck-history-of-human-marriage-uncut-dusty-volume
+- 1959年3月4日 | 李敖夜请启庆晚饭，谈考研究所步骤并意识到论文太费时间
+  精度：day；可靠度：diary；排序日期：1959-03-04
+  摘要：李敖夜里请萧启庆吃晚饭，两人谈及考研究所步骤；他觉得论文花费时间太多，是当晚很大的收获，应当注意。
+  人物：李敖、萧启庆
+  地点：台北
+  标签：萧启庆、研究所、论文、晚饭
+  视图：求学线、人际线、写作线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-02-24-dinner-with-qiqing-at-railway-hotel-botanical-garden-night-tour-central-library-talk
+  来源：大学后期日记乙集 / 003.1959年3月 / line 59
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/003.1959年3月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-03-04-dinner-with-qiqing-discusses-graduate-school-steps-and-thesis-time
+- 1959年3月4日 | 李敖说对现实功利朋友只能用“沙子论”对付
+  精度：day；可靠度：diary；排序日期：1959-03-04
+  摘要：李敖说，对那些现实功利的朋友，只有用“沙子论”来对付。后按说明，朋友沙子论是他从苏东坡诗“亲友如抔沙，放手还复散”想出来的。
+  人物：李敖
+  地点：台北
+  标签：朋友沙子论、现实功利、苏东坡、交友
+  视图：人际线、自省线、思想线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-02-28-disappointed-in-friends-men-women-resolves-cold-distance-and-knowledge-solitude、daxue-houqi-yi-1959-01-30-revises-friendship-principles-after-disappointment-with-friends
+  来源：大学后期日记乙集 / 003.1959年3月 / line 55
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/003.1959年3月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-03-04-friend-sand-theory-for-utilitarian-friends
+- 1959年3月4日 | 某君佩服李敖想完悲哀事后一唱又快活的态度
+  精度：day；可靠度：diary；排序日期：1959-03-04
+  摘要：李敖记以前某君对他说，很佩服他“想完了悲哀的事，一唱又快活了”的态度。
+  人物：李敖、某君
+  地点：台北
+  标签：唱歌、悲哀、快活、某君
+  视图：自省线、人际线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 003.1959年3月 / line 57
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/003.1959年3月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-03-04-someone-admires-his-attitude-of-singing-away-sorrow
+- 1959年3月5日 | 李敖在女生宿舍看到找人的求人者，称今日的他再不会忍受看脸色受气
+  精度：day；可靠度：diary；排序日期：1959-03-05
+  摘要：李敖说自己也许对女孩子有点神经过敏，总看不惯一切近乎“看脸色”或“受气”的事。晚上他在女生宿舍看到找人的求人者，十分看不惯，并说自己深知今日的李敖再也不会忍受这些。
+  人物：李敖
+  地点：台北、女生宿舍
+  标签：女生宿舍、看脸色、受气、自尊
+  视图：情感线、自省线、日常线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-02-28-disappointed-in-friends-men-women-resolves-cold-distance-and-knowledge-solitude、daxue-houqi-yi-1959-02-13-vows-to-remove-temper-and-be-rationalized-successful-person
+  来源：大学后期日记乙集 / 003.1959年3月 / line 65
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/003.1959年3月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-03-05-womens-dorm-seeker-makes-li-resolve-not-to-endure-abasement
+- 1959年3月5日 | 李敖在印度史课戏启庆，写“我的笔名冀翼萧”等打油诗句
+  精度：day；可靠度：diary；排序日期：1959-03-05
+  摘要：李敖在印度史课上戏萧启庆，写下“我的身长特别高，我的笔名冀翼萧，今天心里乱糟糟，一想到她心就焦”等诗句，并注明启庆笔名“冀翼”。
+  人物：李敖、萧启庆
+  地点：台北
+  标签：印度史、萧启庆、冀翼、打油诗
+  视图：求学线、人际线、写作线
+  作品：大学后期日记乙集、印度史戏启庆
+  交叉引用：daxue-houqi-yi-1959-03-04-dinner-with-qiqing-discusses-graduate-school-steps-and-thesis-time
+  来源：大学后期日记乙集 / 003.1959年3月 / line 67
+  补充来源：大学后期日记乙集 / 003.1959年3月 / line 69；说明：诗句一：我的身长特别高。；大学后期日记乙集 / 003.1959年3月 / line 71；说明：诗句二及注：我的笔名冀翼萧，启庆笔名“冀翼”。；大学后期日记乙集 / 003.1959年3月 / line 73；说明：诗句三：今天心里乱糟糟。；大学后期日记乙集 / 003.1959年3月 / line 75；说明：诗句四：一想到她心就焦。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/003.1959年3月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-03-05-indian-history-comic-verse-teasing-qiqing-pen-name-jiyi
+- 1959年3月5日 | 李敖批评蒋复璁谈下雨事迷信荒诞，感叹其居然做中央图书馆馆长
+  精度：day；可靠度：diary；排序日期：1959-03-05
+  摘要：李敖记蒋复璁谈下雨的事，认为迷信荒诞，并感叹这种人居然做中央图书馆馆长。
+  人物：李敖、蒋复璁
+  地点：台北、中央图书馆
+  标签：蒋复璁、下雨、迷信、中央图书馆
+  视图：思想线、人际线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 003.1959年3月 / line 77
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/003.1959年3月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-03-05-criticizes-jiang-fucong-rain-superstition-central-library-director
+- 1959年3月5日 | 李敖晨搞论文兴趣奇浓，并说他想作《七出考》《冥婚考》等长文
+  精度：day；可靠度：diary；排序日期：1959-03-05
+  摘要：李敖早晨搞论文，兴趣奇浓；他又说自己想作《七出考》《冥婚考》等长文。
+  人物：李敖
+  地点：台北
+  标签：论文、七出考、冥婚考、长文、婚姻史
+  视图：写作线、求学线、思想线
+  作品：大学后期日记乙集、七出考、冥婚考
+  交叉引用：daxue-houqi-yi-1959-03-03-borrows-westermarck-history-of-human-marriage-uncut-dusty-volume、daxue-houqi-yi-1959-03-04-dinner-with-qiqing-discusses-graduate-school-steps-and-thesis-time
+  来源：大学后期日记乙集 / 003.1959年3月 / line 63
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/003.1959年3月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-03-05-morning-thesis-interest-and-plans-qichu-minghun-long-essays
+- 1959年3月6日 | 李敖三小时读《近代西方思潮》百页
+  精度：day；可靠度：diary；排序日期：1959-03-06
+  摘要：李敖用三小时读《近代西方思潮》一百页。
+  人物：李敖
+  地点：台北
+  标签：近代西方思潮、三小时、百页
+  视图：读书线、日常线
+  作品：大学后期日记乙集、近代西方思潮
+  交叉引用：-
+  来源：大学后期日记乙集 / 003.1959年3月 / line 85
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/003.1959年3月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-03-06-reads-hundred-pages-of-modern-western-thought-in-three-hours
+- 1959年3月6日 | 李敖在双叶购《怎样判别是非》
+  精度：day；可靠度：diary；排序日期：1959-03-06
+  摘要：李敖在双叶购买《怎样判别是非》。
+  人物：李敖
+  地点：台北、双叶
+  标签：双叶、怎样判别是非、购书
+  视图：读书线、日常线
+  作品：大学后期日记乙集、怎样判别是非
+  交叉引用：-
+  来源：大学后期日记乙集 / 003.1959年3月 / line 83
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/003.1959年3月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-03-06-buys-how-to-judge-right-and-wrong-at-shuangye
+- 1959年3月6日 | 李敖晨与姚老谈论文等事
+  精度：day；可靠度：diary；排序日期：1959-03-06
+  摘要：李敖早晨与姚老谈论文等事。
+  人物：李敖、姚老
+  地点：台北
+  标签：姚老、论文
+  视图：求学线、人际线、写作线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-03-05-morning-thesis-interest-and-plans-qichu-minghun-long-essays
+  来源：大学后期日记乙集 / 003.1959年3月 / line 81
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/003.1959年3月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-03-06-morning-talks-with-yao-lao-about-thesis
+- 1959年3月7日 | 李敖记“举国作伪”，又写“青出于蓝而冰寒于水”
+  精度：day；可靠度：diary；排序日期：1959-03-07
+  摘要：李敖在日记中记下“举国作伪”，又写“青出于蓝而冰寒于水云乎哉！”作为当日札记式感想。
+  人物：李敖
+  地点：台北
+  标签：举国作伪、青出于蓝、札记
+  视图：思想线、自省线
+  作品：大学后期日记乙集
+  交叉引用：-
+  来源：大学后期日记乙集 / 003.1959年3月 / line 89
+  补充来源：大学后期日记乙集 / 003.1959年3月 / line 91；说明：同日第二则札记：青出于蓝而冰寒于水云乎哉。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/003.1959年3月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-03-07-notes-nationwide-falsification-and-qingchu-yulan-phrase
+- 1959年3月7日 | 李敖周末夜不看《环游世界八十天》，独坐图书馆并自称意志决绝得心应手
+  精度：day；可靠度：diary；排序日期：1959-03-07
+  摘要：大群人又去跳舞，李敖独坐在寥落的图书馆中。周末晚上，他在路上想到不看电影《环游世界八十天》，并说自己已把意志和决绝锻炼得得心应手。
+  人物：李敖
+  地点：台北、图书馆
+  标签：环游世界八十天、电影、图书馆、跳舞、意志、决绝
+  视图：日常线、读书线、自省线
+  作品：大学后期日记乙集、环游世界八十天
+  交叉引用：daxue-houqi-yi-1959-02-25-sets-four-prohibitions-film-smoking-poking-women-and-dancing、daxue-houqi-yi-1959-03-01-work-filled-day-and-work-song-deposit-style-happiness
+  来源：大学后期日记乙集 / 003.1959年3月 / line 95
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/003.1959年3月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-03-07-refuses-around-the-world-in-eighty-days-and-sits-in-library-training-will
+- 1959年3月7日 | 李敖第二节在杂志阅览室遥对小玄，决定永远止于“看看想想耳”
+  精度：day；可靠度：diary；排序日期：1959-03-07
+  摘要：李敖第二节在杂志阅览室遥对小玄，觉得她是年轻可爱的“小东西”“小圣女”，自见到她以来今天望得最久。他说自己并不想做什么，所能做的止于此，要永远只在“看看想想耳”的阶段，不破坏这个程度下的美感与关系。
+  人物：李敖、小玄
+  地点：台北、图书馆、杂志阅览室
+  标签：小玄、杂志阅览室、看看想想耳、美感、关系
+  视图：情感线、读书线、自省线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-03-03-first-logic-class-observes-xiaoxuan-blue-clothes、daxue-houqi-yi-1959-02-25-observes-xiaoxuan-stone-bonnie-shi-manyi-luo-wenyue-at-registration
+  来源：大学后期日记乙集 / 003.1959年3月 / line 93
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/003.1959年3月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-03-07-magazine-reading-room-watches-xiaoxuan-and-keeps-beauty-at-looking-thinking-stage
+- 1959年3月8日 | 马夜来与李敖谈到十一时，谈女人“唯一暂时的美”论，李敖又记“名女人是拍卖出来的”
+  精度：day；可靠度：diary；排序日期：1959-03-08
+  摘要：夜里马来找李敖谈话，十一时才回去；谈话中谈及女人的“唯一暂时的美”论。同日下一则，李敖记下“名女人是拍卖出来的”。这条作为《李敖语录》摘录该句的乙集原文上下文，不另重复制造语录节点。
+  人物：李敖、马
+  地点：台北
+  标签：马、女人、唯一暂时的美、名女人是拍卖出来的、李敖语录
+  视图：情感线、思想线、人际线
+  作品：大学后期日记乙集、李敖语录
+  交叉引用：li-ao-yulu-1959-03-08-diary-famous-women-auctioned、daxue-houqi-yi-1959-03-07-magazine-reading-room-watches-xiaoxuan-and-keeps-beauty-at-looking-thinking-stage
+  来源：大学后期日记乙集 / 003.1959年3月 / line 101
+  补充来源：大学后期日记乙集 / 003.1959年3月 / line 103；说明：同日第三则原文：名女人是拍卖出来的。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/003.1959年3月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-03-08-ma-talks-women-temporary-beauty-and-famous-women-auctioned-context
+- 1959年3月8日 | 李敖午后与宏祥、庄因、祝泰、英善迎彦增于车站并同逛街
+  精度：day；可靠度：diary；排序日期：1959-03-08
+  摘要：李敖午后与马宏祥、庄因、祝泰、英善到车站迎接陈彦增，并同逛街；他还记彦增在凤山所有的处罚都受过。
+  人物：李敖、马宏祥、庄因、祝泰、英善、陈彦增
+  地点：台北、车站、凤山
+  标签：马宏祥、庄因、祝泰、英善、陈彦增、车站、凤山、逛街
+  视图：人际线、日常线
+  作品：大学后期日记乙集
+  交叉引用：daxue-houqi-yi-1959-02-28-eats-corn-with-hongxiang-on-museum-back-steps-no-lover-need-and-raises-twenty-yuan-from-yingxing
+  来源：大学后期日记乙集 / 003.1959年3月 / line 99
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/003.1959年3月.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1959-03-08-meets-yanzeng-at-station-with-hongxiang-zhuangyin-zhutai-yingshan-and-strolls
 - 1959年3月8日 | 李敖日记写“名女人是拍卖出来的”
   精度：day；可靠度：reported-by-author；排序日期：1959-03-08
-  摘要：《李敖语录》摘录《大学后期日记乙集》1959年3月8日条。李敖记下“名女人是拍卖出来的”一句。
+  摘要：《李敖语录》摘录《大学后期日记乙集》1959年3月8日条。李敖记下“名女人是拍卖出来的”一句；乙集原文同日上一则还记马夜来谈及女人的“唯一暂时的美”论。
   人物：李敖
   地点：台北
   标签：李敖语录、大学后期日记、纸上罗曼斯、日记
   视图：日常线、思想线、情感线
-  作品：李敖语录、大学后期日记甲集、大学后期日记乙集、纸上罗曼斯
-  交叉引用：-
+  作品：李敖语录、大学后期日记乙集、纸上罗曼斯
+  交叉引用：daxue-houqi-yi-1959-03-08-ma-talks-women-temporary-beauty-and-famous-women-auctioned-context
   来源：李敖语录 / 031.纸上罗曼斯 / line 247
-  补充来源：-
+  补充来源：大学后期日记乙集 / 003.1959年3月 / line 103；说明：乙集原文同日第三则：名女人是拍卖出来的。；大学后期日记乙集 / 003.1959年3月 / line 101；说明：乙集原文同日第二则记马来谈至十一时，并谈女人“唯一暂时的美”论。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1959-03-08-diary-famous-women-auctioned
 - 1959年3月12日 | 李敖在印度史课上插嘴谈寡妇，引众人大笑
@@ -13924,7 +16940,7 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/002.毕业以后，从军以前.txt
   数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1959-08-29-finishes-fathers-and-sons
-- 1959年8月30日 | 李敖由《猎人日记》想到文学影响改革
+- 1959年8月30日 | 李敖说他由《猎人日记》想到文学影响改革
   精度：day；可靠度：confirmed；排序日期：1959-08-30
   摘要：1959年8月30日，李敖在日记中写到一部《猎人日记》对农奴改革的影响，认为这比政治改革更是正路；同日还记下喜欢在窄格滑纸上写字。
   人物：李敖、屠格涅夫
@@ -14905,7 +17921,7 @@
   数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1961-02-18-xinhan-leaves-key-note-for-new-room
 - 1961年2月18日夜 | 李敖在“四席小屋”度过初夜并整理读写
   精度：day；可靠度：confirmed；排序日期：1961-02-18
-  摘要：1961年2月18日夜，李敖在小屋中边整理边读写，点灯听外面小雨声，想到多年奔波后今夜起聊得小休；他以黑白幔遮门，又拿出胡适照片，夜深始睡，称这是“四席小屋”的“初夜”。
+  摘要：1961年2月18日夜，李敖在小屋中边整理边读写，点灯听外面小雨声，并说他想到多年奔波后今夜起聊得小休；他以黑白幔遮门，又拿出胡适照片，夜深始睡，称这是“四席小屋”的“初夜”。
   人物：李敖、胡适
   地点：台北、四席小屋
   标签：早年日记、四席小屋日记、四席小屋、初夜、胡适照片、整理
@@ -14916,9 +17932,9 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/003.四席小屋日记.txt
   数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1961-02-18-first-night-in-four-mat-room
-- 1961年2月18日晨 | 李敖想到写《旧事新诂》
+- 1961年2月18日晨 | 李敖说他想到写《旧事新诂》
   精度：day；可靠度：confirmed；排序日期：1961-02-18
-  摘要：1961年2月18日晨起，李敖想到写《旧事新诂》，重点是把旧史赋予新解释，以纠正今人以今臆古之失。
+  摘要：1961年2月18日晨起，李敖说他想到写《旧事新诂》，重点是把旧史赋予新解释，以纠正今人以今臆古之失。
   人物：李敖
   地点：-
   标签：早年日记、四席小屋日记、旧事新诂、历史研究
@@ -15438,7 +18454,7 @@
   数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1961-03-05-margo-apologizes-and-bitian-cemetery-trip
 - 1961年3月5日 | 李敖在景家畅谈并录天培、周弘留学来信
   精度：day；可靠度：confirmed；排序日期：1961-03-05
-  摘要：1961年3月5日午后，李敖在景家畅谈，想到著《旧事新诂》；日记又录天培给善培的信和周弘2月26日从柏克莱来信，信中谈李敖、英善退伍后是否留校、赴美读书和研究生生活等。
+  摘要：1961年3月5日午后，李敖在景家畅谈，并说他想到著《旧事新诂》；日记又录天培给善培的信和周弘2月26日从柏克莱来信，信中谈李敖、英善退伍后是否留校、赴美读书和研究生生活等。
   人物：李敖、景新汉、天培、李善培、周弘、英善
   地点：台北、柏克莱
   标签：早年日记、四席小屋日记、景新汉、旧事新诂、天培、周弘、柏克莱、留学
@@ -15865,9 +18881,9 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/003.四席小屋日记.txt
   数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1961-03-19-teaches-zhizheng-composition-and-discusses-ninth-team-dinner
-- 1961年3月19日 | 李敖想到《中国萨冈》并写《假如我是女人》一千多字
+- 1961年3月19日 | 李敖说他想到《中国萨冈》并写《假如我是女人》一千多字
   精度：day；可靠度：confirmed；排序日期：1961-03-19
-  摘要：1961年3月19日，李敖想到写《中国萨冈》，又在厕上起草一阵；下午写一千多字《假如我是女人》，八时半后才去吃饭，并去逍遥池洗浴。
+  摘要：1961年3月19日，李敖说他想到写《中国萨冈》，又在厕上起草一阵；下午写一千多字《假如我是女人》，八时半后才去吃饭，并去逍遥池洗浴。
   人物：李敖
   地点：台北、四席小屋、逍遥池
   标签：早年日记、四席小屋日记、中国萨冈、假如我是女人、逍遥池
@@ -16023,7 +19039,7 @@
   数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1961-03-25-views-fashion-show-with-qingmao-and-buys-records
 - 1961年3月25日夜 | 李敖在姚从吾买《宋会要》当天夜写至四时三刻
   精度：day；可靠度：confirmed；排序日期：1961-03-25
-  摘要：1961年3月25日夜，李敖拒绝清茂请电影，碰到杨允达并想到写诗《诗人与团》；夜间士振、李鸿飞来坐，李敖继续写作至四时三刻。
+  摘要：1961年3月25日夜，李敖拒绝清茂请电影，碰到杨允达，并说他想到写诗《诗人与团》；夜间士振、李鸿飞来坐，李敖继续写作至四时三刻。
   人物：李敖、姚从吾、清茂、杨允达、士振、李鸿飞
   地点：台北、四席小屋
   标签：早年日记、四席小屋日记、宋会要、杨允达、诗人与团、士振、李鸿飞、深夜写作
@@ -16101,7 +19117,7 @@
   数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1961-03-28-sets-poet-scholar-fighter-life-ideal
 - 1961年3月29日 | 李敖装热水器并受马戈劝说思著《中国性史》
   精度：day；可靠度：confirmed；排序日期：1961-03-29
-  摘要：1961年3月29日，马戈、庄因、施珂来访，李敖一下午大谈；他花二十三元五装热水器于壶。夜间庄因宿其处，马戈力劝李敖放弃出国之念而著书，李敖也想到著《中国性史》。
+  摘要：1961年3月29日，马戈、庄因、施珂来访，李敖一下午大谈；他花二十三元五装热水器于壶。夜间庄因宿其处，马戈力劝李敖放弃出国之念而著书，李敖也说他想到著《中国性史》。
   人物：李敖、马戈、庄因、施珂
   地点：台北、四席小屋
   标签：早年日记、四席小屋日记、马戈、庄因、施珂、热水器、中国性史、出国
@@ -16164,9 +19180,9 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/003.四席小屋日记.txt
   数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1961-03-31-builds-left-bookshelf-and-reads-songhuiyao-before-yao-talk
-- 1961年4月1日 | 李敖想到《姨太太考》，夜改写《红玫瑰》并给林海音写信
+- 1961年4月1日 | 李敖说他想到《姨太太考》，夜改写《红玫瑰》并给林海音写信
   精度：day；可靠度：confirmed；排序日期：1961-04-01
-  摘要：1961年4月1日，李敖被晋生叫醒后已十一时半，只好不赴校，与晋生谈时想到作《姨太太考》；夜间士振、彦增来谈后，李敖改写《红玫瑰》，并给林海音写一封信，至四时半完成。
+  摘要：1961年4月1日，李敖被晋生叫醒后已十一时半，只好不赴校，与晋生谈时说他想到作《姨太太考》；夜间士振、彦增来谈后，李敖改写《红玫瑰》，并给林海音写一封信，至四时半完成。
   人物：李敖、晋生、士振、陈彦增、林海音
   地点：台北、四席小屋
   标签：早年日记、四席小屋日记、姨太太考、红玫瑰、林海音、晋生、士振、陈彦增
@@ -17193,7 +20209,7 @@
   数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1961-05-06-shows-hu-shi-poem-to-yao-and-shanpei-birthday
 - 1961年5月6日夜 | 李敖在景美小逛，为施珂拟研究计划并决定戒纸烟
   精度：day；可靠度：confirmed；排序日期：1961-05-06
-  摘要：1961年5月6日夜，李敖访桃桃不在，遂与陈彦增、士振在景美小逛，想到想下乡去住；同日为施珂拟研究计划，并决定戒纸烟。
+  摘要：1961年5月6日夜，李敖访桃桃不在，遂与陈彦增、士振在景美小逛，并说他想到想下乡去住；同日为施珂拟研究计划，并决定戒纸烟。
   人物：李敖、桃桃、陈彦增、士振、施珂
   地点：台北、景美
   标签：早年日记、四席小屋日记、桃桃、陈彦增、士振、景美、施珂、研究计划、戒纸烟
@@ -17596,7 +20612,7 @@
   数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1961-05-21-treats-zhuangyin-lunch
 - 1961年5月21日 | 李敖夜坐姚从吾研究室，拟定两年研究所计划并想退租小屋
   精度：day；可靠度：confirmed；排序日期：1961-05-21
-  摘要：1961年5月21日晚七时后，李敖到姚从吾研究室，在安静环境中拟定两年研究所计划、两年后再作出国计，并想到考取研究所后退租四席小屋，把藏书分放宿舍、研究生室和姚室，以节省租金并避开应酬。
+  摘要：1961年5月21日晚七时后，李敖到姚从吾研究室，在安静环境中拟定两年研究所计划、两年后再作出国计，并说他想到考取研究所后退租四席小屋，把藏书分放宿舍、研究生室和姚室，以节省租金并避开应酬。
   人物：李敖、姚从吾
   地点：姚从吾研究室、四席小屋
   标签：早年日记、四席小屋日记、姚从吾研究室、研究所计划、出国计划、退租、四席小屋、藏书、租金
@@ -19194,7 +22210,7 @@
   作品：论“处女膜整型”、文星、李敖快意恩仇录
   交叉引用：daxue-houqi-jia-1958-07-07-li-youdong-memory-seed-for-chunvmo-essay
   来源：李敖快意恩仇录 / 009.白露纪 / line 9
-  补充来源：大学后期日记甲集 / 002.1958年7月 / line 133；说明：《大学后期日记甲集》7月7日原文记李敖又想到李幼冬事，后按接入1963年《论“处女膜整型”》。；大学后期日记甲集 / 002.1958年7月 / line 139；说明：后按引1963文说明李敖从李幼冬事发愤要写大文字。
+  补充来源：大学后期日记甲集 / 002.1958年7月 / line 133；说明：《大学后期日记甲集》7月7日原文记李敖说他又想到李幼冬事，后按接入1963年《论“处女膜整型”》。；大学后期日记甲集 / 002.1958年7月 / line 139；说明：后按引1963文说明李敖从李幼冬事发愤要写大文字。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/009.白露纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1963-10-01-chunvmo-zhengxing-published
 - 1963年10月7日 | 骆梵寄剪报给李敖，继续《论“处女膜整形”》后的讨论
@@ -22923,7 +25939,7 @@
   数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-08-02-handles-handover-with-xiao-mengneng-and-moves-out-21-23
 - 1966年8月6日 | 李敖得知殷海光长期补助取消，凑钱托平景送咖啡
   精度：day；可靠度：confirmed；排序日期：1966-08-06
-  摘要：1966年8月6日下午，平景来访，告诉李敖殷海光的长期补助已被取消，喝咖啡的习惯因此中止。李敖想到虽已多年未与殷海光见面，但“情感上的怀念仍是有增无已”，便凑出一百元，请平景买一听咖啡送给殷海光。夜里萧孟能又来，谈到二时半。
+  摘要：1966年8月6日下午，平景来访，告诉李敖殷海光的长期补助已被取消，喝咖啡的习惯因此中止。李敖说他想到虽已多年未与殷海光见面，但“情感上的怀念仍是有增无已”，便凑出一百元，请平景买一听咖啡送给殷海光。夜里萧孟能又来，谈到二时半。
   人物：李敖、平景、殷海光、萧孟能
   地点：-
   标签：早年日记、二十年前的一些断片、平景、殷海光、咖啡、萧孟能
@@ -23053,7 +26069,7 @@
   数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-08-24-kaohsiung-wenxing-dayong-branch-sealed-after-sixty-days
 - 1966年8月25日 | 李敖写三篇文章，并与 Miles 谈到清晨五点
   精度：day；可靠度：confirmed；排序日期：1966-08-25
-  摘要：1966年8月25日，李敖在日记中记下想到小发财后开一间棺材店，并作文三篇。Miles 来访，二人谈到清早五点。
+  摘要：1966年8月25日，李敖在日记中说他想到小发财后开一间棺材店，并作文三篇。Miles 来访，二人谈到清早五点。
   人物：李敖、Miles
   地点：-
   标签：早年日记、二十年前的一些断片、作文三篇、Miles、棺材店
@@ -24923,6 +27939,19 @@
   补充来源：李敖文存二集 / 010.一封存证信的故事 / line 9；说明：列出原定刊期；早年日记 / 004.二十年前的一些断片 / line 705；说明：1966年8月30日原记《中央日报》方面同意9月1日广告照登，且未删“卖牛肉面”等话。；早年日记 / 004.二十年前的一些断片 / line 733；说明：1966年9月5日原记李敖向《中央日报》交涉，获准广告登第一版一次并续登两次。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/005.李敖文存二集/010.一封存证信的故事.txt
   数据：data/timeline-events-wencun-two.json#wencun-two-1966-09-01-to-09-08-central-daily-ran-first-three-ads
+- 1966年10月中旬 | 李敖为《大学后期日记乙集》写前记，说明本集时间、日记缺陷与反抗腐败教育精神
+  精度：day-about；可靠度：reported-by-author；排序日期：1966-10-15
+  摘要：李敖在前记中说明，《大学后期日记乙集》记录他在台湾大学文学院历史系四年级、1959年1月1日至8月2日的简略日记；8月2日回台中后三十五天即入伍。他沿用《甲集》前记关于幼稚、矛盾、自夸、梦幻、彷徨等“必要的不成熟”的声明，又说明日记多记事、少论学，读书心得另在卡片札记卷册中。他特别指出乙集附录给钱思亮校长的公开信，可见钱思亮诸公颟顸腐败的一面，并把这一阶段写成“钻破蚕茧”的反抗。
+  人物：李敖、钱思亮、陆游
+  地点：台北、台湾大学
+  标签：大学后期日记乙集、前记、台大、钱思亮、中央日报、不肖的学生、反抗教育
+  视图：整理线、日记线、思想线、教育线
+  作品：大学后期日记乙集、大学后期日记甲集、给钱思亮校长的一封公开信
+  交叉引用：daxue-houqi-jia-1966-09-27-preface-reflects-on-campus-diary
+  来源：大学后期日记乙集 / 《大学后期日记乙集》前记 / line 3
+  补充来源：大学后期日记乙集 / 《大学后期日记乙集》前记 / line 11；说明：前记说明日记习惯多记事少论学，读书心得多在卡片、札记、卷册。；大学后期日记乙集 / 《大学后期日记乙集》前记 / line 15；说明：前记说明乙集附录给钱思亮校长的公开信，并承接反抗腐败教育压迫精神。；大学后期日记乙集 / 《大学后期日记乙集》前记 / line 25；说明：前记回应《中央日报》称李敖为台大“不肖的学生”。；大学后期日记乙集 / 《大学后期日记乙集》前记 / line 27；说明：前记署“1966年10月之半”。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/《大学后期日记乙集》前记.txt
+  数据：data/timeline-events-daxue-houqi-riji-yi.json#daxue-houqi-yi-1966-10-mid-preface-reflects-on-diary-immaturity-and-resistance
 - 《文星》第九十八期查禁后（待校） | 李敖写《我们对“言论立场”的严正表示》并寄到海外
   精度：undated-context；可靠度：contextual；排序日期：1966-12-31
   摘要：《无出其左，有谢可击》追述，国民党查禁《文星》第九十八期、禁止《国法党限》文章流传后，海外报刊多有转载；李敖后来又写《我们对“言论立场”的严正表示》寄到海外，继续揭露谢然之底细。
@@ -32709,7 +35738,7 @@
   数据：data/timeline-events-third-book.json#book3-1984-06-15-eagle-dog-general-published
 - 1984年6月18日 | 李敖感而写《老虎歌》
   精度：day；可靠度：reported-by-author；排序日期：1984-06-18
-  摘要：《老虎歌》题前小记写，李敖由“虎落平阳被犬欺”一语联想到自己的处境，“感而有诗，打油一首”。文末署1984年6月18日。
+  摘要：《老虎歌》题前小记写，李敖说他由“虎落平阳被犬欺”一语联想到自己的处境，“感而有诗，打油一首”。文末署1984年6月18日。
   人物：李敖
   地点：台湾
   标签：爱情的秘密、老虎歌、虎落平阳、1984
@@ -32956,7 +35985,7 @@
   数据：data/timeline-events-third-book.json#book3-1984-10-06-letter-to-shi-prison-human-rights
 - 1984年10月7日星期天 | 李敖在国父纪念馆附近见老兵沿街卖国旗，写下流亡政权残梦
   精度：day；可靠度：confirmed；排序日期：1984-10-07
-  摘要：《卖国旗的老兵》写，1984年10月7日星期天，国庆将近，李敖散步时在国父纪念馆附近见一名精神失常似的退役老兵沿街兜售塑胶国旗，高喊“中华民国万岁”。李敖由此联想到流亡来台后的政权残梦与老兵的破碎命运，把街头目击写成一则极具时代感的观察。
+  摘要：《卖国旗的老兵》写，1984年10月7日星期天，国庆将近，李敖散步时在国父纪念馆附近见一名精神失常似的退役老兵沿街兜售塑胶国旗，高喊“中华民国万岁”。李敖说他由此联想到流亡来台后的政权残梦与老兵的破碎命运，把街头目击写成一则极具时代感的观察。
   人物：李敖
   地点：台北、国父纪念馆
   标签：老兵、国旗、国父纪念馆、国庆前夕、街头观察
@@ -41160,7 +44189,7 @@
   数据：data/timeline-events-woshi-tiananmen.json#woshi-tiananmen-1991-05-27-check-dalai-lama-human-rights-record
 - 1991年5月28日 | 李敖借瑞典日报5月28日报道感叹金钱可使国家自由
   精度：day；可靠度：inferred；排序日期：1991-05-28
-  摘要：《金钱可使国家自由》正文开头直接写“瑞典一家日报5月28日引述爱沙尼亚外交部长的话说”，爱沙尼亚愿付苏联十亿美元换取独立。李敖由此联想到东西德统一、日本北方小岛议题，感叹苏联霸权衰落后被压迫者竟可用金钱买自由。结合目录中《李敖求是新语》1991年6月1日至8月20日语境，这条可保守落为1991年5月28日。
+  摘要：《金钱可使国家自由》正文开头直接写“瑞典一家日报5月28日引述爱沙尼亚外交部长的话说”，爱沙尼亚愿付苏联十亿美元换取独立。李敖说他由此联想到东西德统一、日本北方小岛议题，感叹苏联霸权衰落后被压迫者竟可用金钱买自由。结合目录中《李敖求是新语》1991年6月1日至8月20日语境，这条可保守落为1991年5月28日。
   人物：李敖、梅瑞、戈尔巴乔夫
   地点：爱沙尼亚、苏联、瑞典
   标签：求是新语、李敖求是新语、爱沙尼亚、苏联、独立、1991
@@ -41914,7 +44943,7 @@
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1991-after-jun-06-189-qiushi-frontpage-zhao-shaokang-money-letter
 - 1991年6月2日至12日间 | 李敖写《“不必去管资本主义或社会主义”》
   精度：range-context；可靠度：inferred；排序日期：1991-06-11
-  摘要：《“不必去管资本主义或社会主义”》未见署日，正文引6月2日《多伦多明星报》关于叶利钦竞选的报道，并说俄罗斯共和国将在本月12日选出总统；据此可保守挂在1991年6月2日至12日间。李敖由叶利钦“不必去管资本主义或社会主义”联想到邓小平黑猫白猫论，称现代中俄共产党都在实事求是。
+  摘要：《“不必去管资本主义或社会主义”》未见署日，正文引6月2日《多伦多明星报》关于叶利钦竞选的报道，并说俄罗斯共和国将在本月12日选出总统；据此可保守挂在1991年6月2日至12日间。李敖说他由叶利钦“不必去管资本主义或社会主义”联想到邓小平黑猫白猫论，称现代中俄共产党都在实事求是。
   人物：李敖、叶利钦、邓小平
   地点：台湾
   标签：千秋万岁乌鸦求是合集、叶利钦、多伦多明星报、资本主义、社会主义、邓小平、1991
@@ -47327,7 +50356,7 @@
   数据：data/timeline-events-sui-qianwan-li-ao-wangyi.json#sui-qianwan-2013-04-12-sees-peng-mingmin-in-western-restaurant
 - 2013年4月13日 | 李敖给石齐平新书写序后被出版社“断头求生”
   精度：day；可靠度：confirmed；排序日期：2013-04-13
-  摘要：《2013年4月》写，石齐平新书《中国：大趋势，大博弈》请李敖写序；序写好后，长江文艺出版社说审查通不过，只好把序删去。李敖由此联想到自己近五十年前在台湾写序被国民党掐死的旧经验。
+  摘要：《2013年4月》写，石齐平新书《中国：大趋势，大博弈》请李敖写序；序写好后，长江文艺出版社说审查通不过，只好把序删去。李敖说他由此联想到自己近五十年前在台湾写序被国民党掐死的旧经验。
   人物：李敖、石齐平
   地点：台湾、大陆
   标签：虽千万人，李敖往矣、石齐平、中国：大趋势，大博弈、序、长江文艺出版社、审查
@@ -48358,7 +51387,7 @@
   数据：data/timeline-events-sui-qianwan-li-ao-wangyi.json#sui-qianwan-2015-07-29-after-eighty-self-describes-health
 - 2015年9月11日 | 陶冬冬听说李敖一再生病后飞来看他
   精度：day；可靠度：confirmed；排序日期：2015-09-11
-  摘要：《2015年9月》“画家的茫然”写，2015年9月11日，李敖记好友画家陶冬冬听说自己一再生病，特地飞来看他；李敖由“冬冬”的名字联想到画家与乱世中的遁世。
+  摘要：《2015年9月》“画家的茫然”写，2015年9月11日，李敖记好友画家陶冬冬听说自己一再生病，特地飞来看他；李敖说他由“冬冬”的名字联想到画家与乱世中的遁世。
   人物：李敖、陶冬冬
   地点：台湾
   标签：陶冬冬、探病、画家、生病

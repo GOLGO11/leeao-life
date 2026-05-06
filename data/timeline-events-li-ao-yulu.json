@@ -371,8 +371,8 @@
     "date": "1957-05-25",
     "displayDate": "1957年5月25日",
     "datePrecision": "day",
-    "title": "李敖想到要替朋友设想前途",
-    "summary": "《李敖语录》摘录《大学札记》1957年5月25日条。李敖躺在床上想到，应花时间替几位好朋友仔细考虑前途，并热心帮助朋友做事。",
+    "title": "李敖说他想到要替朋友设想前途",
+    "summary": "《李敖语录》摘录《大学札记》1957年5月25日条。李敖说他躺在床上想到，应花时间替几位好朋友仔细考虑前途，并热心帮助朋友做事。",
     "view": [
       "日常线",
       "写作线",
@@ -2119,7 +2119,7 @@
     "displayDate": "1957年8月30日",
     "datePrecision": "day",
     "title": "李敖以朋友眼中的自己作为行为标准",
-    "summary": "《李敖语录》摘录《大学札记》1957年8月30日条。李敖想到可用朋友观点来看自己，从对人帮助到明信片字迹，都可借此作为行为取舍标准。",
+    "summary": "《李敖语录》摘录《大学札记》1957年8月30日条。李敖说他想到可用朋友观点来看自己，从对人帮助到明信片字迹，都可借此作为行为取舍标准。",
     "view": [
       "日常线",
       "写作线",
@@ -3587,7 +3587,19 @@
       "chapter": "031.纸上罗曼斯",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt",
       "line": 205
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "001.1959年1月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt",
+        "line": 407,
+        "note": "《大学后期日记乙集》原文，李敖立意每日只花小部分时间想想看看女人，不多受干扰。"
+      }
+    ],
+    "crossReferences": [
+      "daxue-houqi-yi-1959-01-15-limits-time-thinking-about-women-after-seeing-others-waste-time"
+    ]
   },
   {
     "id": "li-ao-yulu-1959-01-16-diary-fading-illusion-and-li-surname",
@@ -3633,7 +3645,32 @@
         "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt",
         "line": 221,
         "note": "同日另有“他们每个都姓李”短句。"
+      },
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "001.1959年1月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt",
+        "line": 411,
+        "note": "《大学后期日记乙集》原文，李敖反省旧日美丽可爱只是消逝或想象中的幻象。"
+      },
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "001.1959年1月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt",
+        "line": 415,
+        "note": "《大学后期日记乙集》同日原文，保存“精子诗”及“他们每个都姓李”。"
+      },
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "001.1959年1月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt",
+        "line": 425,
+        "note": "同日夜在农学院研究室用显微镜看自己的精子。"
       }
+    ],
+    "crossReferences": [
+      "daxue-houqi-yi-1959-01-16-reflects-beloved-beauty-and-loveliness-were-fading-or-imagined-illusion",
+      "daxue-houqi-yi-1959-01-16-writes-sperm-poem-and-watches-own-sperm-under-microscope-with-shugu"
     ]
   },
   {
@@ -3673,7 +3710,19 @@
       "chapter": "031.纸上罗曼斯",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt",
       "line": 225
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "001.1959年1月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt",
+        "line": 745,
+        "note": "《大学后期日记乙集》1月24日原文：李敖与“神枪手”小谈笑半天，对方开玩笑说他没结婚就想离婚。"
+      }
+    ],
+    "crossReferences": [
+      "daxue-houqi-yi-1959-01-24-talks-with-shenqiangshou-who-jokes-unmarried-already-wants-divorce"
+    ]
   },
   {
     "id": "li-ao-yulu-1959-01-25-diary-refuses-dealing-with-disgusting-people",
@@ -3711,7 +3760,19 @@
       "chapter": "031.纸上罗曼斯",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt",
       "line": 229
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "001.1959年1月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt",
+        "line": 749,
+        "note": "《大学后期日记乙集》1月25日原文：李敖写自己不能容忍与恶心的男女交涉。"
+      }
+    ],
+    "crossReferences": [
+      "daxue-houqi-yi-1959-01-25-refuses-to-deal-with-disgusting-men-and-women"
+    ]
   },
   {
     "id": "li-ao-yulu-1959-01-27-diary-not-moved-by-any-woman",
@@ -3749,15 +3810,27 @@
       "chapter": "031.纸上罗曼斯",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt",
       "line": 233
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "001.1959年1月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/001.1959年1月.txt",
+        "line": 785,
+        "note": "《大学后期日记乙集》1月27日原文：李敖写自己已达到任何女人都不足以使他动怀的地步。"
+      }
+    ],
+    "crossReferences": [
+      "daxue-houqi-yi-1959-01-27-satisfied-no-woman-can-move-his-heart"
+    ]
   },
   {
     "id": "li-ao-yulu-1959-02-24-diary-love-typhoon-metaphor",
-    "date": "1959-02-24",
-    "displayDate": "1959年2月24日",
+    "date": "1959-02-15",
+    "displayDate": "1959年2月15日",
     "datePrecision": "day",
-    "title": "李敖日记把爱情比作大台风",
-    "summary": "《李敖语录》摘录《大学后期日记乙集》1959年2月24日条。李敖写“爱情好比大台风”，称之为“爱情台风化”。",
+    "title": "李敖日记把爱情比作大台风，《李敖语录》原标日期为2月24日",
+    "summary": "《李敖语录》摘录《大学后期日记乙集》“爱情好比大台风”“爱情台风化”一句，原标为1959年2月24日；核乙集原文，此句见1959年2月15日第九条，前后还有保持距离与爱情如粗茶淡饭等同日札记。",
     "view": [
       "日常线",
       "思想线",
@@ -3787,7 +3860,19 @@
       "chapter": "031.纸上罗曼斯",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt",
       "line": 243
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "002.1959年2月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/002.1959年2月.txt",
+        "line": 197,
+        "note": "《大学后期日记乙集》2月15日原文：“爱情好比大台风，爱情台风化”。《李敖语录》摘录处原标2月24日。"
+      }
+    ],
+    "crossReferences": [
+      "daxue-houqi-yi-1959-02-15-li-instructor-life-view-distance-for-friendship-love-and-love-typhoon"
+    ]
   },
   {
     "id": "li-ao-yulu-1959-03-08-diary-famous-women-auctioned",
@@ -3795,7 +3880,7 @@
     "displayDate": "1959年3月8日",
     "datePrecision": "day",
     "title": "李敖日记写“名女人是拍卖出来的”",
-    "summary": "《李敖语录》摘录《大学后期日记乙集》1959年3月8日条。李敖记下“名女人是拍卖出来的”一句。",
+    "summary": "《李敖语录》摘录《大学后期日记乙集》1959年3月8日条。李敖记下“名女人是拍卖出来的”一句；乙集原文同日上一则还记马夜来谈及女人的“唯一暂时的美”论。",
     "view": [
       "日常线",
       "思想线",
@@ -3815,7 +3900,6 @@
     ],
     "works": [
       "李敖语录",
-      "大学后期日记甲集",
       "大学后期日记乙集",
       "纸上罗曼斯"
     ],
@@ -3825,7 +3909,26 @@
       "chapter": "031.纸上罗曼斯",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/031.纸上罗曼斯.txt",
       "line": 247
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "003.1959年3月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/003.1959年3月.txt",
+        "line": 103,
+        "note": "乙集原文同日第三则：名女人是拍卖出来的。"
+      },
+      {
+        "book": "大学后期日记乙集",
+        "chapter": "003.1959年3月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/004.大学日记后期乙集/003.1959年3月.txt",
+        "line": 101,
+        "note": "乙集原文同日第二则记马来谈至十一时，并谈女人“唯一暂时的美”论。"
+      }
+    ],
+    "crossReferences": [
+      "daxue-houqi-yi-1959-03-08-ma-talks-women-temporary-beauty-and-famous-women-auctioned-context"
+    ]
   },
   {
     "id": "li-ao-yulu-1959-03-12-diary-interrupts-indian-history-class",
