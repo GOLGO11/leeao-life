@@ -971,7 +971,10 @@
       "line": 13
     },
     "crossReferences": [
-      "preofficer-diary-1959-09-07-writes-first-two-fengshan-poems-on-way-to-camp"
+      "preofficer-diary-1959-09-07-writes-first-two-fengshan-poems-on-way-to-camp",
+      "preofficer-diary-1959-09-23-writes-fengshan-poems-continuation-and-aerial-photo-field-poem",
+      "preofficer-diary-1959-09-24-fengshan-poems-six-to-twelve-and-pillow-log-race-first",
+      "preofficer-diary-1959-09-26-fengshan-poems-thirteen-to-seventeen-and-basic-training-selection"
     ],
     "additionalSources": [
       {
@@ -980,6 +983,27 @@
         "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/008.横槊集·1959年9月.txt",
         "line": 13,
         "note": "《凤山杂诗》前二首实于1959年9月7日高凤途中写成。"
+      },
+      {
+        "book": "一个预备军官的日记",
+        "chapter": "008.横槊集·1959年9月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/008.横槊集·1959年9月.txt",
+        "line": 343,
+        "note": "《一个预备军官的日记》原文补出9月23日《凤山杂诗》续集。"
+      },
+      {
+        "book": "一个预备军官的日记",
+        "chapter": "008.横槊集·1959年9月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/008.横槊集·1959年9月.txt",
+        "line": 397,
+        "note": "9月24日《凤山杂诗》第六至十二首。"
+      },
+      {
+        "book": "一个预备军官的日记",
+        "chapter": "008.横槊集·1959年9月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/008.横槊集·1959年9月.txt",
+        "line": 493,
+        "note": "9月26日《凤山杂诗》第十三至十七首。"
       }
     ]
   },
@@ -1018,7 +1042,19 @@
       "chapter": "006.投笔纪",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/006.投笔纪.txt",
       "line": 35
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "一个预备军官的日记",
+        "chapter": "009.横槊集、插羽集·1959年10月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/009.横槊集、插羽集·1959年10月.txt",
+        "line": 1515,
+        "note": "《一个预备军官的日记》原日记完整记录里港美浓溪旁写日记、濯足、自然联想与炮击伤亡感。"
+      }
+    ],
+    "crossReferences": [
+      "preofficer-diary-1959-10-28-ligang-mortar-firing-poem-and-river-diary-with-thoreau-walden"
+    ]
   },
   {
     "id": "book5-1959-10-31-gas-chamber-training",
@@ -1052,7 +1088,19 @@
       "chapter": "006.投笔纪",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/006.投笔纪.txt",
       "line": 39
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "一个预备军官的日记",
+        "chapter": "009.横槊集、插羽集·1959年10月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/009.横槊集、插羽集·1959年10月.txt",
+        "line": 1817,
+        "note": "《一个预备军官的日记》原日记补明考炮、华民称其默默无闻及毒气室后两首诗。"
+      }
+    ],
+    "crossReferences": [
+      "preofficer-diary-1959-10-31-cannon-exam-first-turns-in-gas-chamber-poems-and-huamin-says-silent"
+    ]
   },
   {
     "id": "book5-1960-01-18-instructor-buttons-li-collar",
