@@ -87,7 +87,7 @@ const supplementalDataFiles = new Set([
   "./data/timeline-events-fourth-book-deepening.json"
 ]);
 const processedBookCount = dataFiles.filter((file) => !supplementalDataFiles.has(file)).length;
-const dataVersion = "2026-05-07-preofficer-diary-round31-december-28-jinge";
+const dataVersion = "2026-05-07-preofficer-diary-round47-january-24";
 
 const dateFormatter = new Intl.DateTimeFormat("zh-Hant", {
   year: "numeric",
