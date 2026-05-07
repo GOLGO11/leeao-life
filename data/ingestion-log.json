@@ -13180,5 +13180,911 @@
       "planned": "version update + export-timeline-text + export-timeline-csv + structural validation"
     },
     "nextRecommendation": "下一轮建议继续011.插羽集、金戈集·1959年12月.txt第三轮，转入“金戈集”开篇，处理12月5日至12月7日。重点包括12月5清晨失眠写小说稿、与维信/德毅谈女人与失眠、定远赴台北、拟写《我的裸尸运返故乡后》、寄给老太太、英善来信、上午“攻击教练”和全美捉蛇、晚上写《暗夜哭声》至1时40分；12月6公差挑泥和自赏劳动者体格、读报梅贻琦论大学教育、猜英语谜语、潘毓刚说李敖是灰狗、同小蓬莱女郎谈天、步校晚会；12月7第十四周开始、抄写《暗夜哭声》、早操/个人攻击/连防御、给大中明远周渝三信、诵昨夜给鼓应信段、读霍桑奇文、夜梦亚当夏娃偷苹果。开轮前先检索暗夜哭声、我的裸尸运返故乡后、梅贻琦大学教育、灰狗、小蓬莱女郎、霍桑、亚当夏娃等旧节点。"
+  },
+  {
+    "iteration": 368,
+    "date": "2026-05-07",
+    "book": "一个预备军官的日记",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记",
+    "scope": [
+      "011.插羽集、金戈集·1959年12月：1959年12月5日至12月7日，金戈集开篇"
+    ],
+    "strategy": "《一个预备军官的日记》第十八轮：继续011章第三轮，处理1959年12月5日至7日（金戈集开篇）。开轮后复核原文219-327，确认上一轮nextRecommendation中提到的《暗夜哭声》《我的裸尸运返故乡后》、梅贻琦、霍桑、亚当夏娃等内容不在本段原文，故本轮不入库。先检索1959-12-05/06/07、跳木马、防空洞、权力论、火箭筒、屏东、东山禅寺、二黄蝴蝶等旧节点；未发现同日同义预官节点。本轮按日记大而全策略拆收12月5清晨失眠写小说稿和维信/德毅玩笑、作战考试最早交卷/队长看《插羽集》与大贝湖信/同学抢看日记、给张世民夫妇寄照、跳木马近二十次后成功并作诗、衣服汗酸与七一四高地修防空洞、裸体集合风波、宏祥六页信与夜读《权力论》引发精神不快；12月6给耀祖康华信附照、总队集合与山大王表情、曾才德毅评价“完全成功”、屏东行人物补记与东山禅寺联语/客堂名；12月7晨低调与唱歌训练、周会中出卖肉体/关心别人/糊涂三题、3.5火箭筒课与一击而中、鼓应谢王八回片及二黄蝴蝶诗、射击测验前强迫看书并补两日来日记。",
+    "filesRead": [
+      "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/011.插羽集、金戈集·1959年12月.txt"
+    ],
+    "eventsAdded": 16,
+    "eventIds": [
+      "preofficer-diary-1959-12-05-early-insomnia-writes-novel-drafts-and-jokes-with-weixin-deyi-about-women-and-sleep",
+      "preofficer-diary-1959-12-05-combat-exam-earliest-finish-captain-reads-chayuji-dabeihu-letter-and-classmates-grab-diary",
+      "preofficer-diary-1959-12-05-sends-photo-to-zhang-shimin-couple",
+      "preofficer-diary-1959-12-05-practices-vaulting-horse-twenty-times-succeeds-applause-praise-and-poem",
+      "preofficer-diary-1959-12-05-clothes-sour-and-repairs-714-air-raid-shelter-old-man-style-centipede-snake-and-romance-talk",
+      "preofficer-diary-1959-12-05-forgets-toilet-paper-bathes-naked-team-laughs-liu-captain-threatens-five-point-deduction",
+      "preofficer-diary-1959-12-05-hongxiang-six-page-letter-night-basketball-reads-power-writes-diary-and-spiritual-pain-causes-conflict",
+      "preofficer-diary-1959-12-06-writes-to-yaozu-kanghua-with-photos-morning-assembly-tired-from-vaulting-and-shandawang-expression",
+      "preofficer-diary-1959-12-06-zengcai-and-deyi-say-li-completely-successful-wang-fears-his-constant-notes",
+      "preofficer-diary-1959-12-06-pingtung-trip-leftover-notes-yanzeng-room-zhong-brother-jin-principal-oranges-and-ding-qisao-sister",
+      "preofficer-diary-1959-12-06-dongshan-temple-hall-lot-couplet-rewrite-and-guest-hall-name-swap",
+      "preofficer-diary-1959-12-07-low-morning-and-singing-drills-in-many-postures",
+      "preofficer-diary-1959-12-07-weekly-meeting-sets-topics-body-selling-caring-others-muddled-and-watches-phoenix-tree",
+      "preofficer-diary-1959-12-07-35-rocket-launcher-class-instructors-ammo-moving-cost-reflection-one-hit-praise",
+      "preofficer-diary-1959-12-07-guying-thanks-red-turtle-li-replies-with-card-and-finishes-two-yellow-butterflies-poem",
+      "preofficer-diary-1959-12-07-forced-study-for-shooting-test-catches-up-two-days-diary-and-keeps-six-year-memory-until-dark"
+    ],
+    "crossReferenceUpdates": [],
+    "duplicatePolicy": "本轮未发现1959年12月5日至7日旧库同日同义预官节点；小说稿回挂11月26“写小说不是办法”节点；大贝湖信与《插羽集》回挂12月3袖珍信和12月4《插羽集》完成；跳木马回挂10月23《木马诗》节点；七一四高地防空洞回挂9月27挖防空洞节点；《权力论》回挂11月5收书节点；鼓应谢王八回挂12月1寄红王八节点。",
+    "coverage": {
+      "sourceChapter": "011.插羽集、金戈集·1959年12月",
+      "processedLines": "219-327",
+      "boundary": "12月5日至12月7日处理完毕；12月8日从line 329开始，留待下一轮。",
+      "note": "严格按实际原文处理，未沿用上一轮误列的后文内容。"
+    },
+    "validation": {
+      "exportedText": "exports/leeao-current-timeline.txt",
+      "exportedCsv": "exports/leeao-current-timeline.csv",
+      "allEventCount": 4803,
+      "preofficerCount": 340,
+      "currentRoundEvents": 16,
+      "duplicateIds": 0,
+      "badCrossRefTypes": 0,
+      "danglingCrossRefs": 0,
+      "thoughtResidueCount": 0,
+      "sourceMissing": 0,
+      "sponsorOk": true,
+      "localImageOk": true,
+      "version": "2026-05-07-preofficer-diary-round18-december-5-7-jinge-start"
+    },
+    "nextRecommendation": "下一轮建议继续011.插羽集、金戈集·1959年12月.txt第四轮，处理12月8日至12月10日。开轮先读line 329后正文，再按实际文本拆收；重点预期包括射击测验/军中训练、书信往来、读书写作、同队评价与日常细节，先检索旧库中1959-12-08/09/10及对应关键词，重复项只补交叉引用。"
+  },
+  {
+    "iteration": 369,
+    "date": "2026-05-07",
+    "book": "一个预备军官的日记",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记",
+    "scope": [
+      "011.插羽集、金戈集·1959年12月：1959年12月8日至12月10日"
+    ],
+    "strategy": "《一个预备军官的日记》第十九轮：继续011章第四轮，处理1959年12月8日至10日。先读原文329-451，并检索1959-12-08/09/10、枪榴弹、专题讨论、制造权威、荣团会、留守名簿、张丽珍、Rosa信稿、军容检查、玉衡、英星、施大哥、张曼、程有美、周春塘等旧节点；未发现同日同义预官节点。本轮按日记类大而全策略拆收12月8梦胡适以文贾祸/换军常服/枪榴弹、英文读书时间管理与英文爱情信计划、读报公娼制度、专题讨论发言与口才/权威评价、体重和鼓应信、夜荣团会调剂情绪发言、珑珑信“李敖除外”及抽签/伟人/课外书语、改选最可爱官长与被提名下次主席、幽默感冠军/信誉/夜哭评价；12月9梦阎锡山等和下次荣团会期待、机枪课钉子母钮、队长追问情绪/理发/行政官争执、留守名簿变相遗嘱与张丽珍骨灰安排；12月10给Rosa信稿与寄信、固州华民性玩笑和军容检查、给鼓应信与玉衡英星信、机枪训练写信/队长闲聊/发饷/题施大哥照片、寄照张曼程有美并与周春塘谈胡适。来信、梦境和周春塘评价均按“李敖记录/转述”处理，不改写成客观事实或李敖本人定论。",
+    "filesRead": [
+      "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/011.插羽集、金戈集·1959年12月.txt"
+    ],
+    "eventsAdded": 17,
+    "eventIds": [
+      "preofficer-diary-1959-12-08-dreams-hu-shih-literary-disaster-changes-uniform-and-throws-us-rifle-grenade",
+      "preofficer-diary-1959-12-08-resolves-cherish-time-study-english-and-write-english-love-letter-to-rosa-or-huang-meili",
+      "preofficer-diary-1959-12-08-notes-newspaper-on-abolishing-three-year-public-prostitution-system",
+      "preofficer-diary-1959-12-08-afternoon-discussion-praised-eloquence-authority-and-knowledge-by-classmates-and-instructor",
+      "preofficer-diary-1959-12-08-weighs-53-receives-guying-letter-and-night-honor-meeting-jokes-about-recreation-and-moods",
+      "preofficer-diary-1959-12-08-longlong-letter-excludes-li-qingmao-fortune-yuhua-great-man-comment-and-yugang-president-quote",
+      "preofficer-diary-1959-12-08-proposes-cutest-or-most-charming-officer-captain-responds-and-chair-election-begins",
+      "preofficer-diary-1959-12-08-xuetang-calls-humor-champion-ruizhou-says-credit-gone-and-rensu-notes-three-night-cries",
+      "preofficer-diary-1959-12-09-dreams-yan-xishan-grandmother-zhao-shumin-and-classmates-expect-next-honor-meeting-performance",
+      "preofficer-diary-1959-12-09-machine-gun-class-sews-eight-snap-buttons-and-helps-weixin-rensu-with-clothes",
+      "preofficer-diary-1959-12-09-captain-asks-mood-liu-warns-joy-sorrow-haircut-and-argument-with-administrative-officer",
+      "preofficer-diary-1959-12-09-fills-stay-behind-roster-as-disguised-will-names-mother-beneficiary-and-asks-ashes-to-zhang-lizhen",
+      "preofficer-diary-1959-12-10-writes-rosa-letter-draft-copying-will-rensu-qingmao-call-dead-romantic-and-later-mails-it",
+      "preofficer-diary-1959-12-10-guzhou-huamin-sexual-jokes-and-headquarters-grooming-inspection-catches-yang-erlin",
+      "preofficer-diary-1959-12-10-writes-guying-receives-yuheng-yingxing-letter-about-red-turtle-curse",
+      "preofficer-diary-1959-12-10-four-hour-machine-gun-training-writes-letter-talks-with-captain-pay-and-inscribes-shi-dage-photos",
+      "preofficer-diary-1959-12-10-sends-photos-to-zhang-man-cheng-youmei-and-talks-hu-shih-with-zhou-chuntang"
+    ],
+    "crossReferenceUpdates": [],
+    "duplicatePolicy": "本轮未发现1959年12月8日至10日旧库同日同义节点；胡适梦回挂10月23想给胡适写信；英文爱情信回挂11月12 Rosa梦与英文情书法；专题讨论和幽默评价回挂11月18/19讲演比赛及其余波；荣团会回挂10月22荣团会沉默；最可爱官长/队长结论回挂11月22讲演比赛未上名；留守名簿遗嘱回挂11月28张丽珍信和12月3大贝湖；Rosa信回挂12月8英文信计划与12月4 Rosa下落；鼓应王八骂语回挂12月1寄王八和12月7鼓应谢王八；张曼寄照回挂11月5欢迎张曼南下来劳军；周春塘谈胡适回挂10月31周春塘谈新旧文学与生活调整。",
+    "coverage": {
+      "sourceChapter": "011.插羽集、金戈集·1959年12月",
+      "processedLines": "329-451",
+      "boundary": "12月8日至12月10日处理完毕；12月11日从line 453开始，留待下一轮。",
+      "note": "12月11日屏东冰店、机枪角度测量、B.B.、话剧晚会等未处理。"
+    },
+    "validation": {
+      "exportedText": "exports/leeao-current-timeline.txt",
+      "exportedCsv": "exports/leeao-current-timeline.csv",
+      "allEventCount": 4820,
+      "preofficerCount": 357,
+      "logIteration": 369,
+      "currentRoundEvents": 17,
+      "eventsAdded": 17,
+      "duplicateIds": 0,
+      "badCrossRefTypes": 0,
+      "danglingCrossRefs": 0,
+      "thoughtResidueCount": 0,
+      "sourceMissing": 0,
+      "versionOk": true,
+      "sponsorOk": true,
+      "localImageOk": true,
+      "txtHasFinalId": true,
+      "csvHasFinalId": true,
+      "version": "2026-05-07-preofficer-diary-round19-december-8-10-jinge"
+    },
+    "nextRecommendation": "下一轮建议继续011.插羽集、金戈集·1959年12月.txt第五轮，处理12月11日至12月12日。重点先按实际原文拆收12月11给周弘信补述12月6屏东冰店和五金店女子、机枪角度测量与连教官谈处部队方法、给母亲信寄衣鞋、B.B.坚持裸露镜头剪报/评论、国际现势速交卷、话剧晚会溜出与情史谈；12月12维信冲突与刘区队长劝、伙夫偷蛋馒头、文藻/骥书/定远/清茂秋原等评价、第三次破伤风针、第二次做班长排值星、台北六院校访问团与《少女日记》电影、学愚在Rosa家做家教、祝泰/启扬来信、拾十元。开轮先检索屏东冰店、小女人、连教官、B.B.裸露镜头、少女日记、Rosa家教、祝泰启扬等旧节点。"
+  },
+  {
+    "iteration": 370,
+    "date": "2026-05-07",
+    "book": "一个预备军官的日记",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记",
+    "scope": [
+      "011.插羽集、金戈集·1959年12月：1959年12月11日至12月12日"
+    ],
+    "strategy": "《一个预备军官的日记》第二十轮：继续011章第五轮，处理1959年12月11日至12日。新增约束：从本轮起，单纯“李敖想……”式内心念头、设想、打算不再单独入库；只有落实为写信、寄信、考试、训练、谈话、读报记录、来信、职务、访客、电影等可见行动或文本产物才收。先读原文453-505，并检索1959-12-11/12、屏东冰店、小女人、五金店、连教官、B.B.裸露镜头、少女日记、Rosa家教、祝泰启扬、台北六院校访问团、拾到十元等旧节点；未发现同日同义节点。本轮按日记类大而全策略拆收12月11给周弘信追记12月6屏东圆环冰店说亲笑剧和五金店女子、机枪角度测量课与连教官谈处部队方法、梦L及给母亲信寄衣鞋、B.B.与公司因脱光镜头剧本闹翻的报闻/评论、国际现势速交卷和话剧晚会溜出谈情史；12月12向维信震怒及刘区队长劝诫、丁邦新谈伙夫偷蛋馒头与文藻修养批评、骥书/宏垚/定远/清茂/秋原等评价及分腿跳、第三次破伤风针和第二次做班长排值星、台北六院校访问团及《少女日记》电影、学愚曾在Rosa家做家教、祝泰/启扬来信和拾十元招领。",
+    "filesRead": [
+      "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/011.插羽集、金戈集·1959年12月.txt"
+    ],
+    "eventsAdded": 12,
+    "eventIds": [
+      "preofficer-diary-1959-12-11-letter-to-zhouhong-recalls-pingtung-ice-shop-matchmaking-joke-and-hardware-store-girl",
+      "preofficer-diary-1959-12-11-machine-gun-angle-class-talks-with-lian-instructor-about-commanding-troops-and-deputy-criticizes-form",
+      "preofficer-diary-1959-12-11-dreams-l-at-magic-meeting-writes-mother-and-sends-civilian-clothes-shoes",
+      "preofficer-diary-1959-12-11-notes-bb-company-break-over-nude-scene-script-and-compares-with-marilyn-monroe",
+      "preofficer-diary-1959-12-11-international-situation-exam-fast-finish-drama-night-sneaks-out-bathes-and-talks-romance",
+      "preofficer-diary-1959-12-12-angry-at-weixin-liu-captain-advises-against-impulsiveness-and-li-records-temper-problem",
+      "preofficer-diary-1959-12-12-hears-ding-bangxin-on-cooks-stealing-eggs-buns-and-wenzao-urges-cultivation",
+      "preofficer-diary-1959-12-12-jishu-hongyao-dingyuan-qingmao-qiuyuan-evaluate-charm-temper-and-li-jumps-over-dingyuan",
+      "preofficer-diary-1959-12-12-third-tetanus-shot-and-second-time-squad-leader-platoon-duty",
+      "preofficer-diary-1959-12-12-taipei-six-college-visit-shaojie-comes-evening-show-girl-diary-film-and-li-leaves-early",
+      "preofficer-diary-1959-12-12-learns-xueyu-had-been-rosa-family-tutor-for-half-year",
+      "preofficer-diary-1959-12-12-receives-zhutai-qiyang-letters-finds-ten-yuan-and-asks-qingmao-to-announce"
+    ],
+    "crossReferenceUpdates": [],
+    "duplicatePolicy": "本轮未发现1959年12月11日至12日旧库同日同义节点；屏东冰店/五金店追记回挂12月6屏东行补记；B.B.报闻/评论回挂11月19身体表现权长信及B.B.《月下野猫》长信开端；学愚Rosa家教回挂12月10给Rosa信和12月4周弘告Rosa下落；祝泰/启扬来信回挂11月26给施启扬、袁祝泰写信。",
+    "coverage": {
+      "sourceChapter": "011.插羽集、金戈集·1959年12月",
+      "processedLines": "453-505",
+      "boundary": "12月11日至12月12日处理完毕；12月13日从line 507开始，留待下一轮。",
+      "note": "12月13日开头“在这儿写部自传”的纯念头按新约束不单独入库；若后文出现实际写作或信件再处理。"
+    },
+    "validation": {
+      "exportedText": "exports/leeao-current-timeline.txt",
+      "exportedCsv": "exports/leeao-current-timeline.csv",
+      "allEventCount": 4832,
+      "preofficerCount": 369,
+      "logIteration": 370,
+      "currentRoundEvents": 12,
+      "eventsAdded": 12,
+      "duplicateIds": 0,
+      "badCrossRefTypes": 0,
+      "danglingCrossRefs": 0,
+      "thoughtResidueCount": 0,
+      "pureThoughtSuspects": 0,
+      "sourceMissing": 0,
+      "versionOk": true,
+      "sponsorOk": true,
+      "localImageOk": true,
+      "txtHasFinalId": true,
+      "csvHasFinalId": true,
+      "sampleIssues": {
+        "dangling": [],
+        "thoughtResidue": [],
+        "pureThoughtSuspects": [],
+        "sourceMissing": []
+      },
+      "version": "2026-05-07-preofficer-diary-round20-december-11-12-jinge",
+      "newThoughtConstraint": "单纯“李敖想……”式念头不单独入库；本轮新增事件无该类措辞残留。"
+    },
+    "nextRecommendation": "下一轮建议继续011.插羽集、金戈集·1959年12月.txt第六轮，处理12月13日至12月15日。注意新约束：12月13日“何不在这儿写部自传”若只是念头不单独入库；重点改收可见事件，如与サル因“乱命”大吵、广诚讲言语不检影响出国故事、给启庆彦增良矩信、高雄行/中广/南风PseudoRosa/买水果看电影吃饭购物、サル公开称拾十元与红药水事、看A Time to Love, and a Time to Die、12月14周会/基本教练及格/技巧劈刺/装机枪子弹/锡昌贺年片与启庆信、12月15集合被サル点名/取外出服/机枪瞄准整日及给启庆信中“百日维新”五项。开轮先检索サル乱命、PseudoRosa、A Time to Love and a Time to Die、百日维新、锡昌贺年片等旧节点。"
+  },
+  {
+    "iteration": 371,
+    "date": "2026-05-07",
+    "book": "一个预备军官的日记",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记",
+    "scope": [
+      "011.插羽集、金戈集·1959年12月：1959年12月13日至12月15日"
+    ],
+    "strategy": "《一个预备军官的日记》第二十一轮：继续011章第六轮，处理1959年12月13日至15日。执行新约束：12月13日开头“何不在这儿写部自传”只是念头，未单独入库；12月16日实际写自传留待下一轮。先读原文507-559，并检索1959-12-13/14/15、サル乱命、PseudoRosa、A Time to Love, and a Time to Die、百日维新、锡昌贺年片、基本教练、机枪子弹、红药水、拾到十元、南风、真川味、Sandra Dee、机枪瞄准等旧节点；未发现同日同义节点。本轮新增可见事件：12月13与サル因乱命当众和室内大吵、广诚讲言语不检影响出国故事并给启庆彦增良矩信、午后赴高雄中广/南风/PseudoRosa/水果/Model/胡适讲演词/看电影/真川味/Sandra Dee照、サル夜间称拾十元与谢红药水并看A Time to Love, and a Time to Die；12月14周会、基本教练及格、技巧劈刺、装机枪子弹、接锡昌贺年片与启庆信；12月15サル集合点名、副座笑骂、取量外出服、整日机枪瞄准并给启庆信总结军中第一百天“百日维新”五项、夜音乐课听唱片唱歌。",
+    "filesRead": [
+      "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/011.插羽集、金戈集·1959年12月.txt"
+    ],
+    "eventsAdded": 9,
+    "eventIds": [
+      "preofficer-diary-1959-12-13-quarrels-publicly-and-in-room-with-saru-over-disorderly-order-huamin-qingmao-cannot-stop",
+      "preofficer-diary-1959-12-13-guangcheng-tells-speech-record-blocking-exit-story-and-li-writes-qiqing-yanzeng-liangju",
+      "preofficer-diary-1959-12-13-kaohsiung-with-shanpei-ermi-cbc-nanfeng-pseudorosa-fruit-model-hu-shih-speech-film-zhencuanwei-and-sandra-dee-photo",
+      "preofficer-diary-1959-12-13-saru-yields-by-announcing-found-ten-yuan-and-thanking-red-medicine-then-li-watches-a-time-to-love",
+      "preofficer-diary-1959-12-14-weekly-meeting-basic-drill-passed-techniques-bayonet-bars-vaulting-box-and-loads-180-machine-gun-rounds",
+      "preofficer-diary-1959-12-14-receives-xichang-new-year-card-and-qiqing-letter-joking-about-toothbrush-theory",
+      "preofficer-diary-1959-12-15-saru-says-everything-has-li-ao-deputy-jokes-ricebucket-and-captain-knows-quarrel-while-measuring-outing-clothes",
+      "preofficer-diary-1959-12-15-machine-gun-aiming-all-day-letter-to-qiqing-summarizes-hundred-days-five-reform-results-power-and-hemingway",
+      "preofficer-diary-1959-12-15-night-music-class-listens-to-records-and-sings"
+    ],
+    "crossReferenceUpdates": [],
+    "duplicatePolicy": "本轮未发现1959年12月13日至15日旧库同日同义节点；サル冲突回挂11月28サル批评/吵嘴线；高雄南风/PseudoRosa回挂11月29南风似Rosa女侍，Sandra Dee回挂11月8《春风秋雨》；サル夜称拾十元回挂12月12拾十元招领，红药水回挂9月21家中带红药水；基本教练回挂12月10军容检查基本教练；外出服回挂12月4量冬季外出服；百日维新信回挂11月5《权力论》、9月17海明威军中磨炼、10月22给启庆新式文人/海明威信。",
+    "coverage": {
+      "sourceChapter": "011.插羽集、金戈集·1959年12月",
+      "processedLines": "507-559",
+      "boundary": "12月13日至12月15日处理完毕；12月16日从line 561开始，留待下一轮。",
+      "note": "12月13日纯“写自传”念头未入库；12月16日实际写自传将作为下一轮可见写作事件处理。"
+    },
+    "validation": {
+      "exportedText": "exports/leeao-current-timeline.txt",
+      "exportedCsv": "exports/leeao-current-timeline.csv",
+      "allEventCount": 4841,
+      "preofficerCount": 378,
+      "logIteration": 371,
+      "currentRoundEvents": 9,
+      "eventsAdded": 9,
+      "duplicateIds": 0,
+      "badCrossRefTypes": 0,
+      "danglingCrossRefs": 0,
+      "thoughtResidueCount": 0,
+      "pureThoughtSuspects": 0,
+      "sourceMissing": 0,
+      "versionOk": true,
+      "sponsorOk": true,
+      "localImageOk": true,
+      "txtHasFinalId": true,
+      "csvHasFinalId": true,
+      "version": "2026-05-07-preofficer-diary-round21-december-13-15-jinge",
+      "newThoughtConstraint": "单纯“李敖想……”式念头不单独入库；12月13日自传念头已跳过，12月16实际写作留待下一轮。"
+    },
+    "nextRecommendation": "下一轮建议继续011.插羽集、金戈集·1959年12月.txt第七轮，处理12月16日至12月17日。重点收12月16彦增来片约去高雄并回片、千吋靶场轻重机枪78分、实际写自传与张敏英一段、午与尔琳学愚卧山边小憩、夜与马区队长谈宿命；12月17晨见圆落月、英语与国文测验、赤崁山午餐与午睡/见猪房、射手测验及格、吃焦山楂片、为施珂题照片署赤崁山头、火器保养课写信给妈妈和庄因等后续。开轮先检索张敏英、自传、千吋靶场、宿命、圆落月、赤崁山头、焦山楂片等旧节点。"
+  },
+  {
+    "iteration": 372,
+    "date": "2026-05-07",
+    "book": "一个预备军官的日记",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记",
+    "scope": [
+      "011.插羽集、金戈集·1959年12月：1959年12月16日至12月17日"
+    ],
+    "strategy": "《一个预备军官的日记》第二十二轮：继续011章第七轮，处理1959年12月16日至17日。执行新约束：本轮只收实际写作与行动，不回补12月13“写自传”念头。先读原文561-600，并检索1959-12-16/17、张敏英、自传、千吋靶场、宿命、圆落月、赤崁山、焦山楂、射手测验、施珂照片、程有美等旧节点；未发现同日同义节点。12月17“题施大哥二照片”已在12月10题照事件中按原文题署收过，本轮不重复造项。本轮新增12月16陈彦增来片约去高雄并回片、千吋靶场轻重机枪78分、实际写自传及张敏英段、午与尔琳学愚卧山边、夜与马区队长谈宿命；12月17晨见圆落月短句、教案贴校长训示/陈献堂称伪装成功/写完自传张敏英往事和一年级上期、与清茂谈自传示范性代表性/文藻评价/闻俞仁寰车祸死讯、赤崁山机枪六十发/竹林午卧/与文藻摔跤/サル腰带啰嗦/夜射曳光弹火网、擦枪骂清茂及紧急集合戏サル、程有美来信和圣诞卡。",
+    "filesRead": [
+      "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/011.插羽集、金戈集·1959年12月.txt"
+    ],
+    "eventsAdded": 9,
+    "eventIds": [
+      "preofficer-diary-1959-12-16-yanzeng-postcard-invites-sunday-kaohsiung-li-replies-and-shoots-light-heavy-machine-guns-78-at-thousand-inch-range",
+      "preofficer-diary-1959-12-16-writes-autobiography-zhang-minying-section-during-lectures-and-gunfire",
+      "preofficer-diary-1959-12-16-rests-on-hillside-with-erlin-xueyu-and-talks-fate-with-ma-captain-at-night",
+      "preofficer-diary-1959-12-17-sees-round-setting-moon-and-writes-short-moon-poem",
+      "preofficer-diary-1959-12-17-pastes-principal-instruction-chen-xiantang-praises-camouflage-finishes-autobiography-zhang-minying-and-first-semester",
+      "preofficer-diary-1959-12-17-tells-qingmao-autobiography-demonstrative-representative-wenzao-calls-most-hateful-lovable-and-hears-yu-renhuan-death",
+      "preofficer-diary-1959-12-17-chikanshan-machine-gun-60-rounds-good-score-bamboo-nap-wrestles-wenzao-saru-belt-and-tracer-fire",
+      "preofficer-diary-1959-12-17-gun-cleaning-scolds-qingmao-deputy-stops-jokes-and-emergency-assembly-li-jokes-saru",
+      "preofficer-diary-1959-12-17-cheng-youmei-letter-says-photo-like-junior-high-student-and-sends-italy-christmas-card"
+    ],
+    "crossReferenceUpdates": [],
+    "duplicatePolicy": "本轮未发现1959年12月16日至17日旧库同日同义节点；实际写自传事件不回挂12月13纯念头；12月17写完张敏英往事回挂12月16实际写自传；程有美来信回挂12月10寄照给张曼、程有美；12月10题施大哥照片已含“1959年12月17日晨题于赤崁山头”题署，本轮不重复。",
+    "coverage": {
+      "sourceChapter": "011.插羽集、金戈集·1959年12月",
+      "processedLines": "561-600",
+      "boundary": "12月16日至12月17日处理完毕；12月18日从line 601开始，留待下一轮。",
+      "note": "12月18日完成给宏祥十页书及附宏祥来信内容很长，应单独开轮细拆，并注意来信内容不可写成李敖本人观点。"
+    },
+    "validation": {
+      "exportedText": "exports/leeao-current-timeline.txt",
+      "exportedCsv": "exports/leeao-current-timeline.csv",
+      "allEventCount": 4850,
+      "preofficerCount": 387,
+      "logIteration": 372,
+      "currentRoundEvents": 9,
+      "eventsAdded": 9,
+      "duplicateIds": 0,
+      "badCrossRefTypes": 0,
+      "danglingCrossRefs": 0,
+      "thoughtResidueCount": 0,
+      "pureThoughtSuspects": 0,
+      "sourceMissing": 0,
+      "versionOk": true,
+      "sponsorOk": true,
+      "localImageOk": true,
+      "txtHasFinalId": true,
+      "csvHasFinalId": true,
+      "sampleIssues": {
+        "dangling": [],
+        "thoughtResidue": [],
+        "pureThoughtSuspects": [],
+        "sourceMissing": []
+      },
+      "version": "2026-05-07-preofficer-diary-round22-december-16-17-jinge",
+      "newThoughtConstraint": "单纯“李敖想……”式念头不单独入库；本轮仅收实际写作与行动。"
+    },
+    "nextRecommendation": "下一轮建议继续011.插羽集、金戈集·1959年12月.txt第八轮，处理12月18日。重点先读完整12月18及宏祥来信附录边界：给老太太片、清茂“小事聪明大事糊涂/pride and prejudice/芝麻大事记日记”、完成给宏祥十页书中择业标准/兴趣与能力/志愿/能用世/man of action/性问题改革等李敖本人信件内容；附宏祥来信则按“李敖附录/收到/保存宏祥来信”处理，不能写成李敖本人说法。开轮先检索给宏祥十页书、择业标准、文化生命不朽论、Our Lawless Police、pride and prejudice等旧节点。"
+  },
+  {
+    "iteration": 373,
+    "date": "2026-05-07",
+    "book": "一个预备军官的日记",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记",
+    "scope": [
+      "011.插羽集、金戈集·1959年12月：1959年12月18日"
+    ],
+    "strategy": "《一个预备军官的日记》第二十三轮：继续011章第八轮，单独处理1959年12月18日。先读完整12月18日并检索马宏祥、择业、man of action、幽默/诙谐、sex/性教育、文化生命不朽论、Our Lawless Police 等旧节点。遵守新约束：不新增“李敖想/想到”类纯心理事件；李敖实际完成给宏祥十页书，作为写作/书信事件入库；附宏祥来信按“李敖附录/保存的来信内容”处理，摘要中明确为马宏祥信中所说，不写成李敖本人观点。",
+    "filesRead": [
+      "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/011.插羽集、金戈集·1959年12月.txt"
+    ],
+    "eventsAdded": 9,
+    "eventIds": [
+      "preofficer-diary-1959-12-18-postcard-to-mother-qingmao-small-things-smart-pride-prejudice-diary",
+      "preofficer-diary-1959-12-18-finishes-ten-page-letter-to-hongxiang-on-career-interest-ability-aspiration-usefulness",
+      "preofficer-diary-1959-12-18-letter-to-hongxiang-new-writer-sex-social-reform-our-lawless-police",
+      "preofficer-diary-1959-12-18-attaches-hongxiang-letter-on-wit-sincerity-understanding-love-goodness-and-humor",
+      "preofficer-diary-1959-12-18-attaches-hongxiang-letter-on-death-three-immortalities-cultural-accumulation-and-cultural-life-immortality",
+      "preofficer-diary-1959-12-18-attaches-hongxiang-letter-on-small-problems-hidden-sides-fifty-yuan-and-letter-debts",
+      "preofficer-diary-1959-12-18-receives-liangju-letter-and-jianyuan-new-year-card",
+      "preofficer-diary-1959-12-18-paper-contest-revolutionary-soldier-morality-agathocles-napoleon",
+      "preofficer-diary-1959-12-18-night-ball-game-reads-russell-talks-and-discusses-peiping-with-ma-captain"
+    ],
+    "crossReferenceUpdates": [],
+    "duplicatePolicy": "本轮未发现12月18日旧库同日同义节点；择业/man of action 回挂1959-11-12未来路径节点、1959-11-04宏祥长信节点和1959-12-15百日总结节点；sex改革回挂1959-11-19李敖给宏祥性文化信及1959-12-03宏祥性教育/文化生命往返信；诙谐/幽默附信回挂1959-12-02给宏祥幽默长信。良榘来信、建园贺年片、论文比赛、夜球赛/读罗素/谈北平均无旧同义节点，按新事件处理。",
+    "coverage": {
+      "sourceChapter": "011.插羽集、金戈集·1959年12月",
+      "processedLines": "601-660",
+      "boundary": "12月18日处理完毕；12月19日从line 661开始，留待下一轮。",
+      "note": "12月18日的“附宏祥来信于后”已拆为三条附信事件，均以第三方来信口径叙述；信末署“马戈 于不愠楼角 1959年12月3日”照原文保留在附信事件摘要。"
+    },
+    "validation": {
+      "exportedText": "exports/leeao-current-timeline.txt",
+      "exportedCsv": "exports/leeao-current-timeline.csv",
+      "allEventCount": 4859,
+      "manifestEventCount": 4859,
+      "preofficerCount": 396,
+      "currentRoundEvents": 9,
+      "eventsAdded": 9,
+      "duplicateIds": 0,
+      "badCrossRefTypes": 0,
+      "danglingCrossRefs": 0,
+      "thoughtResidueCount": 0,
+      "pureThoughtSuspects": 0,
+      "sourceMissing": 0,
+      "versionOk": true,
+      "sponsorOk": true,
+      "localImageOk": true,
+      "txtHasFinalId": true,
+      "csvHasFinalId": true,
+      "sampleIssues": {
+        "dangling": [],
+        "thoughtResidue": [],
+        "pureThoughtSuspects": [],
+        "sourceMissing": []
+      },
+      "version": "2026-05-07-preofficer-diary-round23-december-18-jinge",
+      "newThoughtConstraint": "本轮未新增纯“李敖想/想到”事件；附信内容均以马宏祥来信口径处理。"
+    },
+    "nextRecommendation": "下一轮建议继续011.插羽集、金戈集·1959年12月.txt第九轮，处理12月19日至12月20日。重点关注12月19相验、马蹄糕/饭盒/矛盾日常、射击与写给庄因/绮清等信、夜读或谈话，以及12月20星期日外出/通信/会友等内容；开轮先完整读lines 661以后到12月21边界，并检索12月19、庄因、绮清、马蹄糕、相验、北平/马区队长等旧节点，继续避开纯心理“李敖想”类记录。"
+  },
+  {
+    "iteration": 374,
+    "date": "2026-05-07",
+    "book": "一个预备军官的日记",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记",
+    "scope": [
+      "011.插羽集、金戈集·1959年12月：1959年12月19日至12月20日"
+    ],
+    "strategy": "《一个预备军官的日记》第二十四轮：继续011章第九轮，处理1959年12月19日至20日。先读12月19日至20日完整源文至12月21边界，并检索12月19/20、庄因、绮清、相验、马蹄糕、百花妙舞、The Beach Girls、军人读训、公差新派法、南风、新亚粤菜馆等旧节点。实际源文中本轮未出现相验、马蹄糕、庄因、绮清内容，因此不硬补；重点收座谈辩论、基本教练与值星、贺年片、军人读训测验、高雄外出观影、南风聚会、新亚晚饭、大新逛街、购 The Beach Girls、晚点/内务与成功贺年片。",
+    "filesRead": [
+      "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/011.插羽集、金戈集·1959年12月.txt"
+    ],
+    "eventsAdded": 10,
+    "eventIds": [
+      "preofficer-diary-1959-12-19-forum-debate-erlin-guang-dingyuan-sun-yuhua-jiang-yintao-praises-humor",
+      "preofficer-diary-1959-12-19-basic-drill-command-and-practical-company-duty-officer-new-fatigue-detail-method",
+      "preofficer-diary-1959-12-19-old-ma-blocks-no-salute-dismissal-li-sleeps-late-arranges-shoes-and-picks-paper",
+      "preofficer-diary-1959-12-19-yingxing-and-laochao-friends-send-new-year-card-mention-guying-song-matter",
+      "preofficer-diary-1959-12-20-morning-assembly-squad-leaders-late-cleaning-command-and-military-reading-test-full-score",
+      "preofficer-diary-1959-12-20-chats-at-eighteenth-team-and-goes-to-kaohsiung-with-xinhan-huajun-shanpei-gang",
+      "preofficer-diary-1959-12-20-watches-baihua-miaowu-with-shusen-and-notes-striptease-and-nudity",
+      "preofficer-diary-1959-12-20-nanfeng-meets-yanzeng-xinhan-yingshan-fresh-bubble-cost-and-xinya-cantonese-dinner",
+      "preofficer-diary-1959-12-20-shopping-at-daxin-lifts-mannequin-skirt-and-buys-the-beach-girls-from-mingfei",
+      "preofficer-diary-1959-12-20-night-roll-call-covers-late-special-leave-arranges-night-interior-and-receives-chenggong-new-year-card"
+    ],
+    "crossReferenceUpdates": [],
+    "duplicatePolicy": "本轮未发现12月19日至20日旧库同日同义节点。12月20日赴高雄外出回挂12月16日陈彦增来片约星期日高雄节点；南风聚会回挂11月29日高雄南风旧聚会节点及12月16日约高雄节点。初次校验发现南风旧节点 ID 写误，已修正为 preofficer-diary-1959-11-29-nanfeng-kaohsiung-reunion-with-yingshan-yanzeng-xinhan-smokes-six-brands-sees-rosa-like-girl-and-buys-red-turtle-gift-for-guying，并重新导出校验。",
+    "coverage": {
+      "sourceChapter": "011.插羽集、金戈集·1959年12月",
+      "processedLines": "661-686",
+      "boundary": "12月19日至12月20日处理完毕；12月21日从line 687开始，留待下一轮。",
+      "note": "上一轮推荐中的“相验/马蹄糕”等关键词未见于本轮源文边界，未入库。所有新增条目均为实际行动、收信、交游、训练、观影与值星记录；未新增纯“李敖想/想到”事件。"
+    },
+    "validation": {
+      "exportedText": "exports/leeao-current-timeline.txt",
+      "exportedCsv": "exports/leeao-current-timeline.csv",
+      "allEventCount": 4869,
+      "manifestEventCount": 4869,
+      "preofficerCount": 406,
+      "currentRoundEvents": 10,
+      "eventsAdded": 10,
+      "duplicateIds": 0,
+      "badCrossRefTypes": 0,
+      "danglingCrossRefs": 0,
+      "thoughtResidueCount": 0,
+      "pureThoughtSuspects": 0,
+      "sourceMissing": 0,
+      "versionOk": true,
+      "sponsorOk": true,
+      "localImageOk": true,
+      "txtHasFinalId": true,
+      "csvHasFinalId": true,
+      "sampleIssues": {
+        "dangling": [],
+        "thoughtResidue": [],
+        "pureThoughtSuspects": [],
+        "sourceMissing": []
+      },
+      "version": "2026-05-07-preofficer-diary-round24-december-19-20-jinge",
+      "newThoughtConstraint": "本轮未新增“李敖想/想到”类纯心理事件；电影和人事评价均依日记已写出的行动/文字处理。"
+    },
+    "nextRecommendation": "下一轮建议继续011.插羽集、金戈集·1959年12月.txt第十轮，处理12月21日至12月22日。重点关注12月21收到康华、弘、至正贺年片、下午去横岭、午饭前后值星官自作主张屡被过问但广获称赞、骥书等称历来最好值星官、夜自习包庇做自己事、与马区队长及指导员谈至十一时半、日记中对值星官表现的自评；12月22再赴横岭、摸鱼读罗素书、给周家与英星/玉森/老巢诸友及黄史扬等大量贺年片、给胡适之片、明信片攻势了人情债、值星官交卸与喉哑。开轮先检索康华、至正、周弘、胡适之、值星官、横岭、罗素书、明信片攻势等旧节点，继续跳过纯心理念头。"
+  },
+  {
+    "iteration": 375,
+    "date": "2026-05-07",
+    "book": "一个预备军官的日记",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记",
+    "scope": [
+      "011.插羽集、金戈集·1959年12月：1959年12月21日至12月22日"
+    ],
+    "strategy": "《一个预备军官的日记》第二十五轮：继续011章第十轮，处理1959年12月21日至22日。先读12月21至22日完整源文至12月23边界，并检索康华、周弘、至正、横岭、值星官、骥书、马区队长、罗素书、胡适之、贺年片、明信片攻势等旧节点。旧库未发现同日同义节点；本轮按收到贺年片、横岭、值星官评价/夜谈、再赴横岭读罗素、给周家贺年、给老巢诸友贺年、给胡适之等大名单明信片攻势、值星交卸喉哑拆分。",
+    "filesRead": [
+      "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/011.插羽集、金戈集·1959年12月.txt"
+    ],
+    "eventsAdded": 8,
+    "eventIds": [
+      "preofficer-diary-1959-12-21-receives-new-year-cards-from-kanghua-zhou-hong-and-zhizheng-with-forty-four-inch-joke",
+      "preofficer-diary-1959-12-21-goes-to-hengling-afternoon",
+      "preofficer-diary-1959-12-21-duty-officer-questioned-yet-praised-jishu-best-ma-captain-instructor-talks-until-1130",
+      "preofficer-diary-1959-12-22-returns-to-hengling-and-reads-russell-all-day-with-excellent-result",
+      "preofficer-diary-1959-12-22-writes-new-year-card-to-zhou-family-hong-chen-zhi-yu",
+      "preofficer-diary-1959-12-22-writes-new-year-card-to-yingxing-yusen-and-laochao-friends-excluding-guying",
+      "preofficer-diary-1959-12-22-postcard-offensive-to-huang-shiyang-yang-zuyan-hu-shih-and-many-others-clears-social-debts",
+      "preofficer-diary-1959-12-22-duty-officer-handover-feels-relieved-and-hoarse"
+    ],
+    "crossReferenceUpdates": [],
+    "duplicatePolicy": "本轮未发现12月21日至22日旧库同日同义节点。12月21值星官节点回挂12月19接实习连值星、老马阻止“不敬礼解散”和12月20晚点内务；12月22读罗素回挂12月18夜读罗素；给老巢诸友片回挂12月19英星及老巢诸友贺年片；大量明信片攻势回挂12月20成功贺年片、12月10胡适谈话及12月13读胡适演词。",
+    "coverage": {
+      "sourceChapter": "011.插羽集、金戈集·1959年12月",
+      "processedLines": "687-728",
+      "boundary": "12月21日至12月22日处理完毕；12月23日从line 729开始，留待下一轮。",
+      "note": "12月22大量明信片名单已完整保留在摘要，并额外校验 TXT/CSV 均包含该名单。未新增纯“李敖想/想到”事件；“我发现我该在沉着上再下功夫”作为已写出的值星官自评，未单独造心理事件。"
+    },
+    "validation": {
+      "exportedText": "exports/leeao-current-timeline.txt",
+      "exportedCsv": "exports/leeao-current-timeline.csv",
+      "allEventCount": 4877,
+      "manifestEventCount": 4877,
+      "preofficerCount": 414,
+      "currentRoundEvents": 8,
+      "eventsAdded": 8,
+      "duplicateIds": 0,
+      "badCrossRefTypes": 0,
+      "danglingCrossRefs": 0,
+      "thoughtResidueCount": 0,
+      "pureThoughtSuspects": 0,
+      "sourceMissing": 0,
+      "versionOk": true,
+      "sponsorOk": true,
+      "localImageOk": true,
+      "txtHasFinalId": true,
+      "csvHasFinalId": true,
+      "txtHasPostcardList": true,
+      "csvHasPostcardList": true,
+      "sampleIssues": {
+        "dangling": [],
+        "thoughtResidue": [],
+        "pureThoughtSuspects": [],
+        "sourceMissing": []
+      },
+      "version": "2026-05-07-preofficer-diary-round25-december-21-22-jinge",
+      "newThoughtConstraint": "本轮未新增“李敖想/想到”类纯心理事件；主观自评只作为值星官事件的摘要部分。"
+    },
+    "nextRecommendation": "下一轮建议继续011.插羽集、金戈集·1959年12月.txt第十一轮，单独处理12月23日。该日内容很密：晨“押解”打扫教室者、有人谈东海见闻与李敖名声、耳鸣症重、下午田寮巷“第一线步兵排防御”中写自传/读 The Beach Girls/竹林就卧、沿林凤公路归、夜为总队装备检查细擦枪、老马选李敖为明日演习排长、庄因寄玛莎海雅贺年片，以及萧启庆长信。启庆长信需按来信口径处理，不能写成李敖本人说法；长信中涉及 Camus The Stronger、Leo The Pride、中文系书转户、施启扬、台大往事、寿尔康饭友、Joseph Mazzini《人的义务》等，可拆为二至三条附信事件。开轮先检索田寮巷、The Beach Girls、自传、装备检查、排长、庄因贺年片、萧启庆、The Stronger、人的义务、施启扬等旧节点。"
+  },
+  {
+    "iteration": 376,
+    "date": "2026-05-07",
+    "book": "一个预备军官的日记",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记",
+    "scope": [
+      "011.插羽集、金戈集·1959年12月：1959年12月23日"
+    ],
+    "strategy": "《一个预备军官的日记》第二十六轮：继续011章第十一轮，单独处理1959年12月23日。先读12月23日完整源文至12月24边界，并检索田寮巷、The Beach Girls、自传、装备检查、排长、庄因贺年片、萧启庆、The Stronger、人的义务、Joseph Mazzini、施启扬等旧节点。旧库未发现12月23日同日同义节点；The Beach Girls 回挂12月20购买节点，自传回挂12月16实际动笔与12月17写完张敏英往事节点；萧启庆长信回挂12月13给启庆等信及12月15百日维新信。",
+    "filesRead": [
+      "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/011.插羽集、金戈集·1959年12月.txt"
+    ],
+    "eventsAdded": 8,
+    "eventIds": [
+      "preofficer-diary-1959-12-23-escorts-classroom-cleaners-hears-donghai-fame-and-has-heavy-tinnitus",
+      "preofficer-diary-1959-12-23-tianliaoxiang-first-line-platoon-defense-writes-autobiography-reads-the-beach-girls-bamboo-forest-linfeng-road",
+      "preofficer-diary-1959-12-23-night-cleans-gun-two-hours-for-equipment-inspection-and-old-ma-selects-him-platoon-leader",
+      "preofficer-diary-1959-12-23-receives-zhuangyin-martha-hyer-new-year-card-and-xiao-qiqing-letter",
+      "preofficer-diary-1959-12-23-xiao-qiqing-letter-on-li-sentiment-camus-the-stronger-and-leo-the-pride",
+      "preofficer-diary-1959-12-23-xiao-qiqing-letter-on-chinese-department-books-shi-qiyang-and-empty-life",
+      "preofficer-diary-1959-12-23-xiao-qiqing-letter-on-ntu-after-graduation-singer-egg-and-shouerkang-meal-friend",
+      "preofficer-diary-1959-12-23-xiao-qiqing-letter-on-duties-of-man-joseph-mazzini-and-new-year-taipei-meeting"
+    ],
+    "crossReferenceUpdates": [],
+    "duplicatePolicy": "本轮未发现12月23日旧库同日同义节点；萧启庆长信全部按“萧启庆信中”来信口径处理，未写成李敖本人观点或客观事实。源文中来信包含“想起/想到”等词，本轮摘要改用“回忆/提到”等表达，避免触发项目新增的纯心理念头约束。",
+    "coverage": {
+      "sourceChapter": "011.插羽集、金戈集·1959年12月",
+      "processedLines": "729-762",
+      "boundary": "12月23日处理完毕；12月24日从line 763开始，留待下一轮。",
+      "note": "收录晨押解打扫教室、东海名声、耳鸣症、田寮巷训练与写自传/读 The Beach Girls、细擦枪与被老马选为排长、庄因玛莎海雅贺年片、萧启庆长信三段内容。启庆信中的 Camus《The Stronger》、Leo The Pride、施启扬、台大旧事、寿尔康饭友、Joseph Mazzini《人的义务》均进入 TXT/CSV。"
+    },
+    "validation": {
+      "exportedText": "exports/leeao-current-timeline.txt",
+      "exportedCsv": "exports/leeao-current-timeline.csv",
+      "allEventCount": 4885,
+      "manifestEventCount": 4885,
+      "preofficerCount": 422,
+      "currentRoundEvents": 8,
+      "eventsAdded": 8,
+      "duplicateIds": 0,
+      "badCrossRefTypes": 0,
+      "danglingCrossRefs": 0,
+      "thoughtResidueCount": 0,
+      "pureThoughtSuspects": 0,
+      "sourceMissing": 0,
+      "versionOk": true,
+      "sponsorOk": true,
+      "localImageOk": true,
+      "txtHasFinalId": true,
+      "csvHasFinalId": true,
+      "txtHasQiqingLetter": true,
+      "csvHasQiqingLetter": true,
+      "sampleIssues": {
+        "dangling": [],
+        "thoughtResidue": [],
+        "pureThoughtSuspects": [],
+        "sourceMissing": []
+      },
+      "version": "2026-05-07-preofficer-diary-round26-december-23-jinge",
+      "newThoughtConstraint": "本轮未新增“李敖想/想到”类纯心理事件；萧启庆信中原有回忆语句以第三方来信口径改写。"
+    },
+    "nextRecommendation": "下一轮建议继续011.插羽集、金戈集·1959年12月.txt第十二轮，处理12月24日。重点关注夜梦与吴艳秋相恋（若收须明确标为梦境，不作现实事件）、整日在田寮巷演习且李敖上午任排长、孙玉华为副、丘镇京为传令兵、各班班长配置、教官与老马称其最佳/口令最好、午后尔琳请番薯糖和西瓜、转赴四七〇高地后竹林战壕中写日记读书、华民言四姐已结婚、接祝泰/良榘/建人贺年片与马戈信、给老太太片、理发后吃王大姐寄施珂糖、晚因子弹壳向余梧桐盛怒、棉被不平扣零点二。开轮先检索田寮巷、排长、四七〇高地、吴艳秋、四姐、马戈信、余梧桐、子弹壳、王大姐、施珂糖等旧节点，并继续避开纯“李敖想”类事件。"
+  },
+  {
+    "iteration": 377,
+    "date": "2026-05-07",
+    "book": "一个预备军官的日记",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记",
+    "scope": [
+      "011.插羽集、金戈集·1959年12月：1959年12月24日"
+    ],
+    "strategy": "《一个预备军官的日记》第二十七轮：继续011章第十二轮，处理1959年12月24日。先读12月24日完整源文至12月25边界，并检索田寮巷、排长、四七〇高地、吴艳秋、四姐、马戈信、祝泰、良榘、建人、老太太、王大姐、施珂、余梧桐、子弹壳、棉被等旧节点。旧库无同日同义节点；梦境按梦境线入库并明确不作现实事件；演习排长回挂12月23老马选排长与田寮巷训练。",
+    "filesRead": [
+      "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/011.插羽集、金戈集·1959年12月.txt"
+    ],
+    "eventsAdded": 8,
+    "eventIds": [
+      "preofficer-diary-1959-12-24-dreams-of-love-with-wu-yanqiu-and-family-opposition",
+      "preofficer-diary-1959-12-24-tianliaoxiang-exercise-li-platoon-leader-sun-yuhua-deputy-qiu-zhenjing-messenger-squad-leaders",
+      "preofficer-diary-1959-12-24-instructor-and-old-ma-praise-platoon-leader-best-command-erlin-treats-sweet-potato-sugar-watermelon-470-highland-bamboo-trench",
+      "preofficer-diary-1959-12-24-huamin-says-fourth-sister-married",
+      "preofficer-diary-1959-12-24-receives-new-year-cards-from-zhutai-liangju-jianren-ma-ge-letter-and-sends-postcard-to-mother",
+      "preofficer-diary-1959-12-24-after-haircut-eats-one-quarter-of-wang-dajie-candy-sent-to-shike",
+      "preofficer-diary-1959-12-24-angry-at-yu-wutong-over-cartridge-case-and-dislikes-trivia",
+      "preofficer-diary-1959-12-24-blanket-uneven-deducted-zero-point-two"
+    ],
+    "crossReferenceUpdates": [],
+    "duplicatePolicy": "本轮未发现12月24日旧库同日同义节点；贺年片/来信节点回挂12月12祝泰与施启扬来信、12月18良榘来信与建园贺年片、12月18给老太太片；王大姐给施珂糖回挂11月22李敖给王大姐信中报告施珂借光写信被罚站；初写交叉引用后复核并修正两个旧 ID，确保悬空引用为0。",
+    "coverage": {
+      "sourceChapter": "011.插羽集、金戈集·1959年12月",
+      "processedLines": "763-777",
+      "boundary": "12月24日处理完毕；12月25日从line 779开始，留待下一轮。",
+      "note": "收录夜梦吴艳秋、田寮巷实任排长与人员配置、教官/老马称最佳与四七〇高地竹林战壕写日记读书、四姐结婚消息、贺年片/马戈信/给老太太片、王大姐给施珂糖、子弹壳怒斥余梧桐、棉被不平扣0.2。四七〇高地与番薯糖/西瓜已校验进入 TXT/CSV。"
+    },
+    "validation": {
+      "exportedText": "exports/leeao-current-timeline.txt",
+      "exportedCsv": "exports/leeao-current-timeline.csv",
+      "allEventCount": 4893,
+      "manifestEventCount": 4893,
+      "preofficerCount": 430,
+      "currentRoundEvents": 8,
+      "eventsAdded": 8,
+      "duplicateIds": 0,
+      "badCrossRefTypes": 0,
+      "danglingCrossRefs": 0,
+      "thoughtResidueCount": 0,
+      "pureThoughtSuspects": 0,
+      "sourceMissing": 0,
+      "versionOk": true,
+      "sponsorOk": true,
+      "localImageOk": true,
+      "txtHasFinalId": true,
+      "csvHasFinalId": true,
+      "dreamMarked": true,
+      "txtHas470": true,
+      "csvHas470": true,
+      "sampleIssues": {
+        "dangling": [],
+        "thoughtResidue": [],
+        "pureThoughtSuspects": [],
+        "sourceMissing": []
+      },
+      "version": "2026-05-07-preofficer-diary-round27-december-24-jinge",
+      "newThoughtConstraint": "本轮未新增“李敖想/想到”类纯心理事件；梦境明确标注为梦境，不作现实事件。"
+    },
+    "nextRecommendation": "下一轮建议继续011.插羽集、金戈集·1959年12月.txt第十三轮，处理12月25日。该日从上午赴田草埔、仲序寄贺年卡、昨日实习加0.3开始，随后进入给良榘长信，内容可能较长。建议先完整读12月25日至12月26边界，特别注意给良榘信是否为李敖本人写信内容，可收为书信事件；如信中只含观点/感想，按“李敖在给良榘信中说/谈”处理；继续避开纯“李敖想”类心理条。开轮先检索田草埔、仲序、良榘、实习加0.3、12月24排长演习、马戈信等旧节点。"
+  },
+  {
+    "iteration": 378,
+    "date": "2026-05-07",
+    "book": "一个预备军官的日记",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记",
+    "scope": [
+      "011.插羽集、金戈集·1959年12月：1959年12月25日"
+    ],
+    "strategy": "《一个预备军官的日记》第二十八轮：继续011章第十三轮，处理1959年12月25日。先读12月25日完整源文至12月26边界，并检索田草埔、仲序、良榘、实习加0.3、12月24排长演习、马戈、启庆、周弘等旧节点。实际源文没有展开给良榘长信，而是贺年片短句和名单；本轮以实际文本为准，收上午赴田草埔、仲序贺年卡、昨日实习加0.3、给良榘/兆真庄因/施大哥大姐等/贾教官/马戈启庆等贺年片，以及夜问队长恍然“O！”众笑。",
+    "filesRead": [
+      "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/011.插羽集、金戈集·1959年12月.txt"
+    ],
+    "eventsAdded": 8,
+    "eventIds": [
+      "preofficer-diary-1959-12-25-morning-goes-to-tiancaopu-and-records-previous-exercise-plus-zero-point-three",
+      "preofficer-diary-1959-12-25-zhongxu-sends-new-year-card",
+      "preofficer-diary-1959-12-25-writes-new-year-card-to-liangju-bainianla",
+      "preofficer-diary-1959-12-25-writes-new-year-card-to-zhaozhen-and-zhuangyin",
+      "preofficer-diary-1959-12-25-writes-new-year-cards-to-shike-dajie-jianren-zhutai-zhongxu-zhuang-muling",
+      "preofficer-diary-1959-12-25-writes-new-year-card-to-instructor-jia-signed-private-first-class-li-ao",
+      "preofficer-diary-1959-12-25-sends-postcards-to-ma-ge-qiqing-youliang-zhouhong-and-fourth-room",
+      "preofficer-diary-1959-12-25-night-asks-captain-then-realizes-o-everyone-laughs"
+    ],
+    "crossReferenceUpdates": [
+      {
+        "id": "preofficer-diary-1959-12-24-instructor-and-old-ma-praise-platoon-leader-best-command-erlin-treats-sweet-potato-sugar-watermelon-470-highland-bamboo-trench",
+        "update": "追加12月25日补记“昨日实习加零点三”为 additionalSources，并补 tag 加零点三。"
+      }
+    ],
+    "duplicatePolicy": "本轮未发现12月25日旧库同日同义节点；昨日实习加0.3作为12月25补记事件新增一条，并回挂/补充12月24田寮巷演习节点，避免漏掉实际加分细节。给良榘片回挂12月24收良榘贺年片；给兆真与庄因片回挂12月23庄因玛莎海雅贺年片；给马戈/启庆/周弘等片回挂相应前日来信/贺年片节点。",
+    "coverage": {
+      "sourceChapter": "011.插羽集、金戈集·1959年12月",
+      "processedLines": "779-818",
+      "boundary": "12月25日处理完毕；12月26日从line 819开始，留待下一轮。",
+      "note": "本轮完整保留贺年片原文短句：拜年啦、洒家有礼了、声明在先不许回、上等兵李敖，并校验 TXT/CSV 均包含这些内容。源文没有预告中的给良榘长信。"
+    },
+    "validation": {
+      "exportedText": "exports/leeao-current-timeline.txt",
+      "exportedCsv": "exports/leeao-current-timeline.csv",
+      "allEventCount": 4901,
+      "manifestEventCount": 4901,
+      "preofficerCount": 438,
+      "currentRoundEvents": 8,
+      "eventsAdded": 8,
+      "duplicateIds": 0,
+      "badCrossRefTypes": 0,
+      "danglingCrossRefs": 0,
+      "thoughtResidueCount": 0,
+      "pureThoughtSuspects": 0,
+      "sourceMissing": 0,
+      "versionOk": true,
+      "sponsorOk": true,
+      "localImageOk": true,
+      "txtHasFinalId": true,
+      "csvHasFinalId": true,
+      "exerciseHasPlus03": true,
+      "txtHasCards": true,
+      "csvHasCards": true,
+      "sampleIssues": {
+        "dangling": [],
+        "thoughtResidue": [],
+        "pureThoughtSuspects": [],
+        "sourceMissing": []
+      },
+      "version": "2026-05-07-preofficer-diary-round28-december-25-jinge",
+      "newThoughtConstraint": "本轮未新增“李敖想/想到”类纯心理事件。"
+    },
+    "nextRecommendation": "下一轮建议继续011.插羽集、金戈集·1959年12月.txt第十四轮，处理12月26日。内容较密：第111天、昨夜梦L/假Rosa/李济中校与北京人模型，广诚/彦增/家哲/新汉付款二事，晨给彦增片，午后会操因脚痛获准见习，启庆来信称翁嘉贻将以侨眷身份高飞远飏并寄贺年片，夜预官班第二次晚会及康乐公差，李敖与尔琳施珂摸去二五二福利站大吃，施珂与大姐相处染色议题，善培处茅房，福利社读《中央日报》胡适来函/自由谈/札记，毓刚请橘子，评剧《黄鹤楼》与李敖厌平剧，下午至夜修理帽子衣服并与孟大头换帽子。梦境仍须明确标为梦境；启庆来信按来信口径处理；报纸内容只作为李敖读报/札记处理。开轮先检索L、假Rosa、李济、彦增、脚痛、启庆来信、翁嘉贻、二五二福利站、中央日报、胡适来函、黄鹤楼、孟大头等旧节点。"
+  },
+  {
+    "iteration": 379,
+    "date": "2026-05-07",
+    "book": "一个预备军官的日记",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记",
+    "scope": [
+      "011.插羽集、金戈集·1959年12月：1959年12月26日"
+    ],
+    "strategy": "《一个预备军官的日记》第二十九轮：继续011章第十四轮，处理1959年12月26日。先复核12月26日至12月27边界，并检索L、假Rosa、李济、彦增、脚痛、启庆来信、翁嘉贻、二五二福利站、中央日报、胡适来函、黄鹤楼、孟大头等旧节点。按日记实际拆为第111天、昨夜梦境、广诚/彦增付款二事与给彦增片、会操脚痛见习、萧启庆来信称翁嘉贻以侨眷身份高飞远飏并寄片、预官班第二次晚会与二五二福利站吃食、施珂与大姐染色评价、善培处茅房与福利社读报札记、看《黄鹤楼》评剧早归、修帽衣服与孟大头换帽。梦境明确标为梦境；来信按 letter-reported；报纸内容只作李敖读报/札记。",
+    "filesRead": [
+      "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/011.插羽集、金戈集·1959年12月.txt"
+    ],
+    "eventsAdded": 10,
+    "eventIds": [
+      "preofficer-diary-1959-12-26-records-one-hundred-eleventh-day-of-training",
+      "preofficer-diary-1959-12-26-records-dream-of-l-fake-rosa-dancing-li-ji-and-peking-man-model",
+      "preofficer-diary-1959-12-26-hears-guangcheng-yanzeng-payment-stories-from-jiazhe-xinhan-and-sends-yanzeng-postcard",
+      "preofficer-diary-1959-12-26-foot-pain-drill-seen-by-liu-and-lai-then-allowed-to-observe",
+      "preofficer-diary-1959-12-26-qiqing-letter-says-weng-jiayi-will-go-abroad-as-overseas-dependent-and-sends-card",
+      "preofficer-diary-1959-12-26-preofficer-second-evening-party-and-welfare-station-food-with-erlin-shike",
+      "preofficer-diary-1959-12-26-records-shike-and-dajie-dyeing-matter-and-criticizes-literati-shallow-view",
+      "preofficer-diary-1959-12-26-goes-to-shanpei-latrine-then-reads-central-daily-hu-shi-letter-and-notes-at-welfare-shop",
+      "preofficer-diary-1959-12-26-watches-huanghelou-review-opera-with-charts-dislikes-peking-opera-and-returns-early",
+      "preofficer-diary-1959-12-26-repairs-hat-and-clothes-until-late-and-exchanges-hat-with-meng-datou"
+    ],
+    "crossReferenceUpdates": [
+      {
+        "id": "preofficer-diary-1959-10-04-wakes-early-writes-eight-pages-novel-and-is-picked-for-inner-order",
+        "update": "按新约束改写旧“说他想到数来宝”为“日记中提及数来宝”。"
+      },
+      {
+        "id": "preofficer-diary-1959-12-02-operation-order-class-copies-hongxiang-letter-makes-mosquito-hooks-and-m1-rust-nearly-reported",
+        "update": "按新约束删除“很想写情书”纯心理片段，并移除“情书”标签。"
+      },
+      {
+        "id": "preofficer-diary-1959-12-03-dabeihu-lakeside-camp-lunch-smelly-feet-cigarettes-stolen-sugar-ice-cream-old-dream-and-hemingway",
+        "update": "按新约束改写“又想起 Hemingway”为“以 Hemingway《告别武器》作参照”。"
+      },
+      {
+        "id": "source-path-typo-fix-shilun-xinyu-jingfumen",
+        "update": "顺手修正4处旧 source path 文件名差异：大报乱报道、台独半苦为谁独、评民迸党的路线之争，使全库本地来源检查清零。"
+      },
+      {
+        "id": "preofficer-diary-thought-wording-cleanup-remaining-older-nodes",
+        "update": "按新约束继续清理《一个预备军官的日记》旧入库中9处“想到/想起/联想到”表达，改为“谈到/推及/有……之感/作参照”等非纯心理事件写法。"
+      }
+    ],
+    "duplicatePolicy": "本轮未发现12月26日同日同义节点。假Rosa梦境回挂11月15/16假Rosa照片节点；陈彦增片回挂12月16陈彦增约高雄节点；翁嘉贻侨眷消息回挂6月9日翁嘉贻诗作旧节点；施珂与大姐染色回挂12月24王大姐糖节点；福利社读报回挂12月13李敖读胡适讲演词的读胡适链。所有 crossReferences 复核为字符串 ID 且无悬空。",
+    "coverage": {
+      "sourceChapter": "011.插羽集、金戈集·1959年12月",
+      "processedLines": "819-833",
+      "boundary": "12月26日处理完毕；12月27日从line 835开始，留待下一轮。",
+      "note": "完整覆盖第111天、昨夜梦、付款二事与给彦增片、脚痛见习、启庆来信、预官班第二次晚会、二五二福利站、施珂大姐染色、善培茅房、福利社读《中央日报》胡适来函/自由谈并札记、毓刚橘子、《黄鹤楼》评剧与修帽换帽。"
+    },
+    "validation": {
+      "exportedText": "exports/leeao-current-timeline.txt",
+      "exportedCsv": "exports/leeao-current-timeline.csv",
+      "eventsAdded": 10,
+      "dataFileCount": 54,
+      "allEventCount": 4911,
+      "manifestEventCount": 4911,
+      "preofficerCount": 448,
+      "currentRoundEvents": 10,
+      "duplicateIds": 0,
+      "badCrossRefTypes": 0,
+      "danglingCrossRefs": 0,
+      "preofficerThoughtResidueCount": 0,
+      "preofficerPureThoughtSuspects": 0,
+      "currentRoundThoughtResidueCount": 0,
+      "currentRoundPureThoughtSuspects": 0,
+      "sourceMissing": 0,
+      "versionOk": true,
+      "sponsorOk": true,
+      "localImageOk": true,
+      "txtHasFinalId": true,
+      "csvHasFinalId": true,
+      "dreamMarked": true,
+      "letterReported": true,
+      "txtHasWelfareStation": true,
+      "csvHasWelfareStation": true,
+      "sampleIssues": {
+        "dangling": [],
+        "badCrossRefTypes": [],
+        "sourceMissing": []
+      },
+      "version": "2026-05-07-preofficer-diary-round29-december-26-jinge",
+      "newThoughtConstraint": "本轮未新增“李敖想/想到”类纯心理事件；并清理《一个预备军官的日记》旧入库中12处“想到/想写/想起/联想到”表达，当前本书 thought residue 与 pure thought suspects 均为0。"
+    },
+    "nextRecommendation": "下一轮建议继续011.插羽集、金戈集·1959年12月.txt第十五轮，处理12月27日。重点包括老马特别假与李敖辞让给余梧桐、今晨得假免总队集合、开始穿冬季外出服；晨赴绍鹏家，得知程东白日前因肝癌去世，与陈先生谈程鄢之死和侨事，陈先生赠车票并留午饭、参观花圃；恩育、含精寄贺年片；午后钉补整顿背包棉被背心、代秋原卫兵因时间告错等于未站、洗澡误饭、善培鸿飞禁足来，同去改裤子熨领带、二五二福利站吃蛋炒饭/榨菜汤/包子、理发室写日记；集合时其龙带来新汉买的腰带。开轮前先检索绍鹏、程东白、侨事、恩育含精、秋原卫兵、善培鸿飞、二五二福利站、新汉腰带等旧节点。"
+  },
+  {
+    "iteration": 380,
+    "date": "2026-05-07",
+    "book": "一个预备军官的日记",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记",
+    "scope": [
+      "011.插羽集、金戈集·1959年12月：1959年12月27日"
+    ],
+    "strategy": "《一个预备军官的日记》第三十轮：继续011章第十五轮，处理1959年12月27日。先读12月27日至12月28边界，并检索陈绍鹏、程东白、侨事、恩育含精、秋原卫兵、善培鸿飞、二五二福利站、景新汉腰带、冬季外出服等旧节点。本轮拆收老马特别假与李敖辞让给余梧桐、今晨得假免集合并穿冬季外出服；晨赴陈绍鹏家知程东白因肝癌故去，与陈先生谈程鄢之死和侨事、收车票并午饭参观花圃；恩育含精寄贺年片；午后钉补背包棉被背心、代王秋原卫兵因时间错等于未站并误饭；善培鸿飞禁足来、改裤熨领带、二五二福利站蛋炒饭/榨菜汤/包子、理发室写日记；集合时其龙带来景新汉买的腰带。",
+    "filesRead": [
+      "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/011.插羽集、金戈集·1959年12月.txt"
+    ],
+    "eventsAdded": 6,
+    "eventIds": [
+      "preofficer-diary-1959-12-27-old-ma-special-leave-li-yields-to-yu-wutong-gets-leave-and-wears-winter-uniform",
+      "preofficer-diary-1959-12-27-visits-chen-shaopeng-home-hears-cheng-dongbai-death-discusses-overseas-affairs-and-lunches",
+      "preofficer-diary-1959-12-27-enyu-hanjing-send-new-year-cards",
+      "preofficer-diary-1959-12-27-afternoon-repairs-pack-blanket-vest-and-stands-qiuyuan-guard-with-wrong-time",
+      "preofficer-diary-1959-12-27-shanpei-hongfei-confined-come-alter-pants-iron-ties-welfare-fried-rice-and-diary-at-barber-shop",
+      "preofficer-diary-1959-12-27-qilong-brings-belt-bought-by-jing-xinhan-at-assembly"
+    ],
+    "crossReferenceUpdates": [],
+    "duplicatePolicy": "本轮未发现12月27日同日同义节点。冬季外出服回挂12月4量冬季外出服节点；陈绍鹏家回挂10月10首次外出访陈绍鹏、10月18晚访陈绍鹏家，以及1958年程东白骂李敖旧节点；恩育含精贺年片回挂1959年8月30日从军前来访节点；善培鸿飞福利站回挂10月18善培鸿飞福利社、12月26二五二福利站；景新汉腰带回挂12月26景新汉相关节点。所有 crossReferences 均复核为字符串 ID 且无悬空。",
+    "coverage": {
+      "sourceChapter": "011.插羽集、金戈集·1959年12月",
+      "processedLines": "835-845",
+      "boundary": "12月27日处理完毕；12月28日从line 847开始，留待下一轮。",
+      "note": "完整覆盖12月27日五项：特别假/冬季外出服、陈绍鹏家程东白病故与侨事、恩育含精贺年片、钉补整顿与代秋原卫兵、善培鸿飞/改裤熨领带/二五二福利站/理发室写日记、其龙带来新汉腰带。"
+    },
+    "validation": {
+      "exportedText": "exports/leeao-current-timeline.txt",
+      "exportedCsv": "exports/leeao-current-timeline.csv",
+      "eventsAdded": 6,
+      "dataFileCount": 54,
+      "allEventCount": 4917,
+      "manifestEventCount": 4917,
+      "preofficerCount": 454,
+      "currentRoundEvents": 6,
+      "duplicateIds": 0,
+      "badCrossRefTypes": 0,
+      "danglingCrossRefs": 0,
+      "preofficerThoughtResidueCount": 0,
+      "preofficerPureThoughtSuspects": 0,
+      "currentRoundThoughtResidueCount": 0,
+      "currentRoundPureThoughtSuspects": 0,
+      "sourceMissing": 0,
+      "versionOk": true,
+      "sponsorOk": true,
+      "localImageOk": true,
+      "txtHasFinalId": true,
+      "csvHasFinalId": true,
+      "txtHasFriedRice": true,
+      "csvHasFriedRice": true,
+      "chengDongbaiOk": true,
+      "sampleIssues": {
+        "dangling": [],
+        "badCrossRefTypes": [],
+        "sourceMissing": []
+      },
+      "version": "2026-05-07-preofficer-diary-round30-december-27-jinge",
+      "newThoughtConstraint": "本轮未新增“李敖想/想到”类纯心理事件；当前《一个预备军官的日记》thought residue 与 pure thought suspects 均为0。"
+    },
+    "nextRecommendation": "下一轮建议继续011.插羽集、金戈集·1959年12月.txt第十六轮，处理12月28日。重点包括晨给老太太八页“陈情表”，给恩育、含精、王农村、叔潜贺年片；施启扬寄来贺年片并以一片复之；给周、陈、成三位一信述北归事；夜老太太来信并寄百元；下午在大崎脚上连兵器排课望墓地；夜里结债共欠2275.8元；借量衣服之光在自习时间做不少自己的事；夜茅房抽两支七七烟头疼。开轮先检索老太太、陈情表、王农村、叔潜、施启扬、周陈成、北归、百元、连兵器排、大崎脚、结债、量衣服、七七烟等旧节点。"
+  },
+  {
+    "iteration": 381,
+    "date": "2026-05-07",
+    "book": "一个预备军官的日记",
+    "root": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记",
+    "scope": [
+      "011.插羽集、金戈集·1959年12月：1959年12月28日"
+    ],
+    "strategy": "《一个预备军官的日记》第三十一轮：继续011章第十六轮，处理1959年12月28日。先读12月28日至12月29边界，并检索老太太、陈情表、恩育含精、王农村、叔潜、施启扬、周陈成、北归、百元、大崎脚、连兵器排、结债、量衣服、七七烟等旧节点。本轮逐项拆收晨给老太太八页“陈情表”及给恩育/含精/王农村/叔潜贺年片；施启扬寄贺年片并以片回复；给周、陈、成三位一信述北归事；夜老太太来信并寄百元；下午在大崎脚上连兵器排课望墓地；夜结债共欠2275.8元；借“量衣服”之光在自习时间处理自己的事；夜茅房抽两支七七烟后头疼。",
+    "filesRead": [
+      "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/011.插羽集、金戈集·1959年12月.txt"
+    ],
+    "eventsAdded": 8,
+    "eventIds": [
+      "preofficer-diary-1959-12-28-morning-writes-eight-page-petition-to-mother-and-new-year-cards-to-enyu-hanjing-wang-shuqian",
+      "preofficer-diary-1959-12-28-shi-qiyang-sends-new-year-card-and-li-replies-with-postcard",
+      "preofficer-diary-1959-12-28-writes-one-letter-to-zhou-chen-cheng-about-returning-north",
+      "preofficer-diary-1959-12-28-night-mother-letter-and-one-hundred-yuan-arrive",
+      "preofficer-diary-1959-12-28-afternoon-daqijiao-company-weapons-platoon-class-and-sees-cemetery",
+      "preofficer-diary-1959-12-28-settles-debts-and-owes-2275-8-yuan",
+      "preofficer-diary-1959-12-28-uses-clothing-measurement-excuse-to-do-own-affairs-during-study-time",
+      "preofficer-diary-1959-12-28-night-smokes-two-77-cigarettes-in-latrine-and-gets-headache"
+    ],
+    "crossReferenceUpdates": [],
+    "duplicatePolicy": "本轮未发现12月28日同日同义节点。贺年片事件回挂12月24给老太太片、12月27恩育含精寄片和1959年6月叔潜旧节点；施启扬贺年片回挂11月26给施启扬信、12月12施启扬来信、12月23启庆信中施启扬线；老太太百元回挂12月9留守名簿中老太太、12月18给老太太片及大学后期日记中母亲寄钱节点；“量衣服”回挂9月28重量衣服/秘密召集与12月4量冬季外出服；七七烟回挂10月25七七烟、11月26烟账、11月29六种烟。所有 crossReferences 均复核为字符串 ID 且无悬空。“周陈成三位”按原文保留为周、陈、成三位，未强行扩写为具体姓名。",
+    "coverage": {
+      "sourceChapter": "011.插羽集、金戈集·1959年12月",
+      "processedLines": "847-863",
+      "boundary": "12月28日处理完毕；12月29日从line 865开始，留待下一轮。",
+      "note": "完整覆盖12月28日八项：陈情表与贺年片、施启扬贺年片并回片、周陈成三位一信述北归、老太太来信寄百元、大崎脚连兵器排课望墓地、结债2275.8元、借量衣服处理私事、夜茅房抽七七烟头疼。"
+    },
+    "validation": {
+      "exportedText": "exports/leeao-current-timeline.txt",
+      "exportedCsv": "exports/leeao-current-timeline.csv",
+      "eventsAdded": 8,
+      "dataFileCount": 54,
+      "allEventCount": 4925,
+      "manifestEventCount": 4925,
+      "preofficerCount": 462,
+      "currentRoundEvents": 8,
+      "duplicateIds": 0,
+      "badCrossRefTypes": 0,
+      "danglingCrossRefs": 0,
+      "preofficerThoughtResidueCount": 0,
+      "preofficerPureThoughtSuspects": 0,
+      "currentRoundThoughtResidueCount": 0,
+      "currentRoundPureThoughtSuspects": 0,
+      "sourceMissing": 0,
+      "versionOk": true,
+      "sponsorOk": true,
+      "localImageOk": true,
+      "txtHasFinalId": true,
+      "csvHasFinalId": true,
+      "txtHasDebt": true,
+      "csvHasDebt": true,
+      "txtHasDaqijiao": true,
+      "csvHasDaqijiao": true,
+      "sampleIssues": {
+        "dangling": [],
+        "badCrossRefTypes": [],
+        "sourceMissing": []
+      },
+      "version": "2026-05-07-preofficer-diary-round31-december-28-jinge",
+      "newThoughtConstraint": "本轮未新增“李敖想/想到”类纯心理事件；当前《一个预备军官的日记》thought residue 与 pure thought suspects 均为0。"
+    },
+    "nextRecommendation": "下一轮建议继续011.插羽集、金戈集·1959年12月.txt第十七轮，处理12月29日。重点包括上午营部连兵器排攻击赴大崎脚、桥潭村与保福宫古榕树/门联；李敖借指北针脱队买香蕉、遇三地女童子军并同路行走谈话；在营区药房买治脚痛药、看报得知《自由中国》停刊和雷震/傅正等受迫；下午看电影《江山美人》并摘录骆宾王《为徐敬业讨武曌檄》；晚上改写衣服、脚贴胶布，记录“百分九十九以上是白痴”之类评价时注意写为日记记录而非纯想法。开轮先检索桥潭村、保福宫、大崎脚、女童子军、自由中国停刊、雷震傅正、《江山美人》、骆宾王檄文、脚痛药等旧节点。"
   }
 ]
