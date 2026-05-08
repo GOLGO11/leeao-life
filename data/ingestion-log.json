@@ -18377,5 +18377,57 @@
       "version": "2026-05-08-preofficer-diary-round107-march-29-return-camp-reading-gifts-package-bath"
     },
     "nextRecommendation": "下一轮建议处理3月30日星期三line739-747开头，先到line747冒号处为止，可不进入其后宏谋四页信正文，除非确认信件接在后续行中且需要同轮展开。重点包括：早上整理并补日记；line743“忆昔不写简体字，迂腐甚矣”属回忆/反省，可按约束不单独入库或只作为整理日记附带说明；近日大雨后苍蝇渐少，厕所满地白蛆不复见，1984年12月13日附识说明当时营房厕所满地爬白蛆、入厕踩过、只好找鸭子来吃，可作营区卫生/1984追记事件；午后给华俊、启扬及珂各一片，并给宏谋一封四页信，先作为通信动作收；若后续展开宏谋信正文，下一轮再专门处理。"
+  },
+  {
+    "iteration": 458,
+    "date": "2026-05-08",
+    "book": "一个预备军官的日记",
+    "round": "round108-march-30-morning-diary-latrine-postcards-before-hongmou-letter",
+    "source": "014.双枪少尉集·1960年3月.txt",
+    "processedLines": "739-747",
+    "boundary": "1960年3月30日星期三开头处理至line747冒号处；本轮未进入line749宏谋四页信正文。",
+    "eventsAdded": 3,
+    "eventIds": [
+      "preofficer-diary-1960-03-30-morning-arranges-things-and-catches-up-diary",
+      "preofficer-diary-1960-03-30-after-heavy-rain-flies-fewer-latrine-maggots-gone-and-1984-note-on-ducks-eating-maggots",
+      "preofficer-diary-1960-03-30-afternoon-sends-postcards-to-huajun-qiyang-shike-and-four-page-letter-to-hongmou"
+    ],
+    "notes": [
+      "本轮处理3月30日line739-747，停在line747冒号处，未进入line749宏谋四页信正文。",
+      "新增早上整理并补日记。",
+      "line743“忆昔不写简体字，迂腐甚矣”按回忆/反省处理，未单独入库。",
+      "新增近日大雨后苍蝇渐少、厕所白蛆不复见，并带入1984年12月13日附识：营房厕所满地白蛆，入厕时要踩过，只好找鸭子来吃。",
+      "新增午后给华俊、启扬及施珂各一片，并给马宏谋四页信；四页信正文留到下一轮。"
+    ],
+    "validation": {
+      "checkedAt": "2026-05-08T14:05:22.570Z",
+      "allEventCount": 5695,
+      "manifestEventCount": 5695,
+      "preofficerCount": 1232,
+      "currentRound": "preofficer-diary-round108-march-30-diary-latrine-postcards",
+      "currentRoundEvents": 3,
+      "march30Round108Events": 3,
+      "duplicateIds": 0,
+      "badCrossRefTypes": 0,
+      "danglingCrossRefs": 0,
+      "danglingCrossRefExamples": [],
+      "sourceMissing": 0,
+      "roundThoughtSuspects": [],
+      "datesCovered": [
+        "1960-03-30"
+      ],
+      "txtHasAllRoundIds": true,
+      "csvHasAllRoundIds": true,
+      "txtHasAllKeyWords": true,
+      "csvHasAllKeyWords": true,
+      "txtRoundOrder": true,
+      "csvRoundOrder": true,
+      "sponsorNamesText": true,
+      "localImage": true,
+      "faviconSakuraFixed": true,
+      "version": "2026-05-08-preofficer-diary-round108-march-30-diary-latrine-postcards",
+      "ok": true
+    },
+    "nextRecommendation": "下一轮建议处理3月30日line749-763，停在line765台湾流氓故事正文之前。重点包括：line749作为给马宏谋四页信的开头，写“人间的离合”与旧地重游负担，必须标为信件开头/书信内容，不写成现实事件或纯心理事件；line751另给杨尔琳一片，称其为“黔华的令兄，李敖的债主”，并谈中西文明可由王八画法判别，括注中国画法多平面、西方画法多侧面、中国古文字多以侧面成图；line753“我想我真有绘画的天才，我该发挥发挥”是“李敖想”类，按约束不入库；line755给华民一片，片中用想念语调戏问并提陈琪，作为明信片文本可谨慎收，避免写成李敖纯心理；line757午饭后开始英文作文分类整理，一直工作到晚饭；line759接善培一片，告地址；line761我排基本教练第一营情报组居第一，李敖未敢居功，可作为训练成绩记录；line763夜贴英诗及译文，与诸兵谈历史故事，应士兵邀请，并引出台湾流氓故事，故事正文从line765起下一轮再处理。"
   }
 ]

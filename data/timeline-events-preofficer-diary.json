@@ -67927,5 +67927,153 @@
     "places": [
       "营区"
     ]
+  },
+  {
+    "date": "1960-03-30",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "self-recorded",
+    "id": "preofficer-diary-1960-03-30-morning-arranges-things-and-catches-up-diary",
+    "displayDate": "1960年3月30日星期三01晨整理补日记",
+    "title": "李敖早上整理，并补日记",
+    "summary": "3月30日早上，李敖整理事务，并补写日记。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "014.双枪少尉集·1960年3月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/014.双枪少尉集·1960年3月.txt",
+      "line": 741,
+      "note": "早上整理，补日记。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-03-29-night-bath-after-several-days-without-bathing",
+      "preofficer-diary-1960-02-26-afternoon-mends-diary-and-writes-postcards-to-liangju-youliang-jingbo-and-letter-to-qiqing"
+    ],
+    "view": [
+      "日记线",
+      "军旅线",
+      "日常线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年3月",
+      "3月30日",
+      "整理",
+      "补日记"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "营区"
+    ]
+  },
+  {
+    "date": "1960-03-30",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "self-recorded-with-later-note",
+    "id": "preofficer-diary-1960-03-30-after-heavy-rain-flies-fewer-latrine-maggots-gone-and-1984-note-on-ducks-eating-maggots",
+    "displayDate": "1960年3月30日星期三02大雨后营区厕所卫生",
+    "title": "近日大雨后营区苍蝇渐少、厕所白蛆不复见，李敖1984年附识说明曾找鸭子吃蛆",
+    "summary": "3月30日，李敖记录近日大雨后苍蝇渐少，厕所满地爬蛆的情况也不复见，因而不必再找鸭子来吃。1984年12月13日，李敖附识说明，当时营房厕所满地爬白蛆，入厕时要踩白蛆而过，所以只好找鸭子来吃。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "014.双枪少尉集·1960年3月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/014.双枪少尉集·1960年3月.txt",
+      "line": 745,
+      "note": "近日大雨，苍蝇渐少，厕所满地爬蛆的亦不复见，不劳鸭子去打牙祭；1984年12月13日附识：当时营房厕所满地爬白蛆，入厕要踩白蛆而过，只好找鸭子来吃。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-03-05-letter-to-mother-describes-renwu-fengshan-north-heat-flies-flypaper-water-bedbugs-mosquitoes-toilet-squatting-traffic",
+      "preofficer-diary-1960-03-12-records-three-uses-of-mosquito-net-flies-mosquitoes-and-odor",
+      "preofficer-diary-1960-03-04-records-army-complaints-taoyuan-women-sacrifice-legend-and-night-nearly-empty"
+    ],
+    "view": [
+      "军旅线",
+      "卫生线",
+      "生活环境线",
+      "1984追记线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年3月",
+      "3月30日",
+      "大雨",
+      "苍蝇",
+      "厕所",
+      "白蛆",
+      "鸭子",
+      "营房卫生",
+      "1984年12月13日附识"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "营区",
+      "营房厕所"
+    ]
+  },
+  {
+    "date": "1960-03-30",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "self-recorded",
+    "id": "preofficer-diary-1960-03-30-afternoon-sends-postcards-to-huajun-qiyang-shike-and-four-page-letter-to-hongmou",
+    "displayDate": "1960年3月30日星期三03午后通信",
+    "title": "午后李敖给华俊、启扬、珂各寄一片，并给宏谋写四页信",
+    "summary": "3月30日午后，李敖给李华俊、施启扬及施珂各寄一张明信片，并给马宏谋写一封四页信。本轮只收通信动作，四页信正文留待后续处理。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "014.双枪少尉集·1960年3月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/014.双枪少尉集·1960年3月.txt",
+      "line": 747,
+      "note": "午后给华俊、启扬及珂各一片，宏谋一四页信；本轮停在冒号处，未展开四页信正文。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-03-23-noon-bathes-receives-huajun-postcard-and-replies-with-one-postcard",
+      "preofficer-diary-1959-12-28-shi-qiyang-sends-new-year-card-and-li-replies-with-postcard",
+      "preofficer-diary-1960-03-26-after-five-arrives-home-and-sees-shike-march-four-postcard",
+      "preofficer-diary-1960-03-29-receives-package-thirty-yuan-mother-letter-and-hongmou-march9-card-saying-he-is-in-xiaojinmen"
+    ],
+    "view": [
+      "通信线",
+      "交游线",
+      "军旅线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年3月",
+      "3月30日",
+      "午后",
+      "李华俊",
+      "施启扬",
+      "施珂",
+      "明信片",
+      "马宏谋",
+      "四页信"
+    ],
+    "people": [
+      "李敖",
+      "李华俊",
+      "施启扬",
+      "施珂",
+      "马宏谋"
+    ],
+    "places": [
+      "营区"
+    ]
   }
 ]
