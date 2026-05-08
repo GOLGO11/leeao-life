@@ -16277,5 +16277,168 @@
       "version": "2026-05-08-preofficer-diary-round69-february-28-ma-talk"
     },
     "nextRecommendation": "下一轮建议单独处理2月29日星期一（line 767-787），这是本章2月文件最后一日，后面 line 789 起为整理资源页脚。重点收：晨起鼓应请早点、与毓刚马戈去学校看文学院注册/杜鹃花/傅园/女孩子/握手数十计、“李敖穿长袍带女孩子是台大一景”、参观地理心理馆和化学馆并合照；午饭重庆饭店及耀祖请宴被谢却；施珂说军中事、王大姐评李敖年龄感；与启庆又亮翻姚老头研究室、剪报评语、姚从“士鳌”改“从吾”、读《自白书》、借《严几道年谱》；郝伟合照；福利社冰淇淋和 Free China；至正两来；善导寺留信；第四宿舍与法学院访启扬、得《十周年校庆特刊》、与宏武谈、见汪秉泽；夜周弘晚宴、下棋败绩、董其昌字、谈至11时后、周伯母问何时再来。注意“盖为我乎？”只可作为李敖记录周弘未请女财神时的疑问附记，不单立心理事件。"
+  },
+  {
+    "iteration": 420,
+    "date": "2026-05-08",
+    "book": "一个预备军官的日记",
+    "round": "round70-february-29",
+    "source": "013.杀气不脱集、双枪少尉集·1960年2月.txt",
+    "processedLines": "767-787",
+    "boundary": "1960年2月29日星期一处理完毕；013章2月文件正文日记已收束，下一轮从014.双枪少尉集·1960年3月.txt 的3月1日（line 3）开始。",
+    "eventsAdded": 8,
+    "eventIds": [
+      "preofficer-diary-1960-02-29-guying-breakfast-yugang-mage-campus-registration-azaleas-fu-garden-girls-handshakes-and-taida-scene",
+      "preofficer-diary-1960-02-29-visits-geography-psychology-chemistry-labs-leaves-note-for-wang-hongwen-and-takes-two-photos",
+      "preofficer-diary-1960-02-29-lunch-at-chongqing-restaurant-with-hongxiang-qiqing-youliang-guying-declines-yaozu-banquet",
+      "preofficer-diary-1960-02-29-afternoon-shike-talks-army-matters-wang-dajie-comments-on-age",
+      "preofficer-diary-1960-02-29-qiqing-youliang-visit-yao-study-clippings-comments-name-change-zibai-shu-and-yan-jidao-chronology",
+      "preofficer-diary-1960-02-29-hao-wei-takes-photo-qiqing-treats-ice-cream-buys-free-china-and-learns-zhizheng-came-twice",
+      "preofficer-diary-1960-02-29-goes-to-shandao-temple-fourth-dorm-law-school-qiyang-gives-anniversary-special-and-sees-wang-bingze",
+      "preofficer-diary-1960-02-29-zhouhong-dinner-rich-food-guests-loses-chess-dong-qichang-calligraphy-talks-until-11-zhou-mother-asks-return"
+    ],
+    "notes": [
+      "本轮收完2月29日十项日记，按自然场景聚合为8条事件。",
+      "上午收鼓应早点、毓刚马戈陪同看文学院注册、杜鹃花、傅园、女孩子、握手数十计、陈泰来“长袍带女孩子是台大一景”说；另收地理心理馆、王洪文门上留条、化学馆实验室合照二影。",
+      "午后收重庆饭店午饭、耀祖请宴谢却、施珂军中话、王大姐年龄感评论、姚老头研究室剪报评语与“士鳌/从吾”、油印《自白书》和《严几道年谱》。",
+      "下午至归途收郝伟合照、福利社冰淇淋、Free China、至正来二次、善导寺留信、第四宿舍与法学院访人、启扬赠《十周年校庆特刊》、见汪秉泽。",
+      "夜收周弘晚宴、同食者、与周渝下棋败绩、未请女财神疑问附记、董其昌字、谈至11时后、周伯母问何时再来；“盖为我乎？”未单立为心理事件。"
+    ],
+    "validation": {
+      "allEventCount": 5411,
+      "manifestEventCount": 5411,
+      "preofficerCount": 948,
+      "currentRoundEvents": 8,
+      "duplicateIds": 0,
+      "badCrossRefTypes": 0,
+      "danglingCrossRefs": 0,
+      "sourceMissing": 0,
+      "preofficerThoughtResidueCount": 0,
+      "roundThoughtSuspects": 0,
+      "datesCovered": [
+        "1960-02-29"
+      ],
+      "txtHasFirstId": true,
+      "txtHasFinalId": true,
+      "csvHasFirstId": true,
+      "csvHasFinalId": true,
+      "txtHasAllKeyWords": true,
+      "csvHasAllKeyWords": true,
+      "sponsorNamesText": true,
+      "localImage": true,
+      "faviconSakura": true,
+      "version": "2026-05-08-preofficer-diary-round70-february-29"
+    },
+    "nextRecommendation": "下一轮建议进入014.双枪少尉集·1960年3月.txt，先单独处理3月1日（line 3-17）。这天内容很密：周弘送裸体日历；静波来并同访曲先生；与家伦、铸人逛校园、看理学院注册、傅园长谈，记录严侨已死的误传及1984附识校正；铸人谈L好事近、家伦说神经病/精神病区别、三人围绕妥协问题辩析并互评犬儒/英雄式自由主义，傅园见黄梅莉背影；午后骑车访姚先生、吴相湘、李玄伯、刘主任、永康街有美、三姐，未见者要注明未见；逍遥池洗澡、新兴喝柠檬水、鼓应送十元、与贾教官谈部队事；鼓应借旅费、英星送汽车站、林炯隆车上小谈，周弘鼓应庄因又亮候车，周弘临行劝“宁下流而勿上说”，李敖改“宁下毋上”，18:30南下，车中读 My Life and Lovers、《人生修养》《性心理学》并吸 Kent；老太太准备大肠、面包和日历女郎。注意“感怀云集”“颇增遐思”不单立为心理事件，只作为误闻严侨死讯或孤身南下记录的附带语。"
+  },
+  {
+    "iteration": 421,
+    "date": "2026-05-08",
+    "book": "一个预备军官的日记",
+    "round": "round71-march-1",
+    "source": "014.双枪少尉集·1960年3月.txt",
+    "processedLines": "3-17",
+    "boundary": "1960年3月1日星期二处理完毕；下一轮从3月2日星期三（line 19）开始。",
+    "eventsAdded": 8,
+    "eventIds": [
+      "preofficer-diary-1960-03-01-morning-zhouhong-gives-nude-calendar",
+      "preofficer-diary-1960-03-01-jingbo-comes-and-visits-mr-qu-with-li",
+      "preofficer-diary-1960-03-01-jialun-zhuren-campus-science-registration-fu-garden-hears-false-news-yan-qiao-dead-and-1984-correction",
+      "preofficer-diary-1960-03-01-fu-garden-records-l-good-news-jialun-neurosis-joke-compromise-debate-cynic-heroic-liberalism-and-huang-meili-back",
+      "preofficer-diary-1960-03-01-afternoon-bike-visits-yao-wu-xiangxiang-li-xuanbo-liu-director-yongkang-youmei-third-sister-xiaoyaochi-and-decides-not-return-north",
+      "preofficer-diary-1960-03-01-campus-xinxing-lemonade-guying-gives-ten-yuan-and-talks-long-with-instructor-jia-about-troops",
+      "preofficer-diary-1960-03-01-guying-borrows-travel-money-yingxing-station-lin-jionglong-zhouhong-guying-zhuangyin-youliang-wait-and-zhouhong-farewell-joke",
+      "preofficer-diary-1960-03-01-1830-southbound-train-reads-my-life-and-lovers-kent-self-cultivation-sex-psychology-and-mother-prepares-food-with-calendar-girl"
+    ],
+    "notes": [
+      "本轮进入014章1960年3月，处理3月1日，按自然场景聚合为8条事件。",
+      "收周弘送裸体日历；静波来并同访曲先生。favicon 同轮修复：樱花 inline SVG 改为 128x128 画布、居中、82字号，避免花瓣裁切。",
+      "收与家伦、铸人逛校园、理学院注册、傅园长谈、严侨已死误传及1984附识校正，并与2月26日严侨旧宅事件交叉引用。",
+      "收傅园谈L好事近、神经病/精神病笑话、妥协辩析、无谓牺牲、完全民主社会、犬儒色彩、英雄式自由主义、黄梅莉背影。",
+      "收午后骑车访姚先生、吴相湘、李玄伯、刘主任、有美、三姐，注明未见者；收逍遥池洗澡和一年内不再北来决定；收新兴柠檬水、鼓应十元、贾教官部队谈。",
+      "收鼓应借旅费、英星送站、林炯隆小谈、周弘鼓应庄因又亮候车、“宁下毋上”笑语；收18:30南下、My Life and Lovers、Kent、《人生修养》《性心理学》、老太太准备大肠面包与日历女郎。",
+      "“感怀云集”“颇增遐思”等未单立心理事件，只作为严侨误传或南下车中记录的附带语。"
+    ],
+    "validation": {
+      "allEventCount": 5419,
+      "manifestEventCount": 5419,
+      "preofficerCount": 956,
+      "currentRoundEvents": 8,
+      "duplicateIds": 0,
+      "badCrossRefTypes": 0,
+      "danglingCrossRefs": 0,
+      "sourceMissing": 0,
+      "preofficerThoughtResidueCount": 0,
+      "roundThoughtSuspects": 0,
+      "datesCovered": [
+        "1960-03-01"
+      ],
+      "txtHasFirstId": true,
+      "txtHasFinalId": true,
+      "csvHasFirstId": true,
+      "csvHasFinalId": true,
+      "txtHasAllKeyWords": true,
+      "csvHasAllKeyWords": true,
+      "sponsorNamesText": true,
+      "localImage": true,
+      "faviconSakuraFixed": true,
+      "version": "2026-05-08-preofficer-diary-round71-march-1"
+    },
+    "nextRecommendation": "下一轮建议单独处理3月2日星期三（line 19-29）。重点：老太太赏150元，9:17普通车南下；车上结识邱瑞芳（东吴法律系）、与木匠上等兵谈马祖、洗澡三元一桶水、老班长杖击、给乞丐一元；“忽思结束后何不转心理系或旁听其中”不要单立心理事件，若收须并入“李敖记录夜读《性心理学》后志决致力Sex研究”的读书/学术方向条；公共汽车上看rose-lips-girl，前庄下车；回队收拾行装、缴物品、薪水只领三十余元，指导员和马区队长试穿长袍；与述古谈，与毓刚去二五二、送少尉阶、牛肉汤和木瓜；访善培等并送天培《丁故总干事文江逝世二十周年纪念刊》；与广诚、召雄、队长、王区队长谈，召雄劝军中勿谈政治，王区队长劝勿多言；还毓刚、Q.P.、宏谋小债；夜里3点为北上吵醒。"
+  },
+  {
+    "iteration": 422,
+    "date": "2026-05-08",
+    "book": "一个预备军官的日记",
+    "round": "round72-march-2",
+    "source": "014.双枪少尉集·1960年3月.txt",
+    "processedLines": "19-29",
+    "boundary": "1960年3月2日星期三处理完毕；下一轮从3月3日星期四（line 31）开始。",
+    "eventsAdded": 8,
+    "eventIds": [
+      "preofficer-diary-1960-03-02-old-lady-gives-150-and-917-ordinary-train-south-arrives-kaohsiung-at-four",
+      "preofficer-diary-1960-03-02-train-meets-qiu-ruifang-talks-with-carpenter-private-about-matsu-bathing-beating-and-gives-beggar-one-yuan",
+      "preofficer-diary-1960-03-02-train-records-psychology-department-or-auditing-and-resolves-to-study-sex-after-sex-psychology",
+      "preofficer-diary-1960-03-02-bus-sees-rose-lips-girl-in-front-right-corner-and-she-gets-off-at-qianzhuang",
+      "preofficer-diary-1960-03-02-returns-unit-packs-pays-items-final-private-salary-instructor-and-ma-try-long-robe-and-talks-with-shugu",
+      "preofficer-diary-1960-03-02-yugang-252-second-lieutenant-rank-beef-soup-papaya-visits-shanpei-gives-tianpei-ding-wenjiang-memorial",
+      "preofficer-diary-1960-03-02-talks-with-guangcheng-zhaoxiong-captain-and-wang-platoon-leader-about-not-talking-politics-or-too-much",
+      "preofficer-diary-1960-03-02-repays-small-debts-to-yugang-qp-hongmou-and-wakes-at-three-for-northbound-noise"
+    ],
+    "notes": [
+      "本轮处理3月2日，按车行、学术方向、返队、人际谈话和日常债务聚合为8条。",
+      "收老太太赏150元、9:17普通车南下、4时抵高雄；车上结识邱瑞芳、木匠上等兵谈马祖/民家洗澡/老班长杖击、给乞丐一元。",
+      "“忽思结束后何不转心理系或旁听其中”未单立心理事件，归入《性心理学》后学术方向记录，并与3月1日车中读《性心理学》交叉引用。",
+      "收公共汽车上 rose-lips-girl、前庄下车；收回队收拾行装、缴物品、准星罩扣款、最后上等兵薪水、指导员和马区队长试穿长袍、与述古谈。",
+      "收与毓刚去二五二、送少尉阶、牛肉汤和木瓜、访善培等、送天培《丁故总干事文江逝世二十周年纪念刊》。",
+      "收与广诚、召雄、队长、王区队长谈；召雄劝军中勿谈政治，王区队长劝勿多言，并与1月7日王区队长“心胸”事件交叉引用。",
+      "收还小债务：毓刚二十、Q.P.二十、宏谋五；收北上者夜里3点起身吵醒。"
+    ],
+    "validation": {
+      "allEventCount": 5427,
+      "manifestEventCount": 5427,
+      "preofficerCount": 964,
+      "currentRoundEvents": 8,
+      "duplicateIds": 0,
+      "badCrossRefTypes": 0,
+      "danglingCrossRefs": 0,
+      "sourceMissing": 0,
+      "preofficerThoughtResidueCount": 0,
+      "roundThoughtSuspects": 0,
+      "datesCovered": [
+        "1960-03-02"
+      ],
+      "txtHasFirstId": true,
+      "txtHasFinalId": true,
+      "csvHasFirstId": true,
+      "csvHasFinalId": true,
+      "txtHasAllKeyWords": true,
+      "csvHasAllKeyWords": true,
+      "sponsorNamesText": true,
+      "localImage": true,
+      "faviconSakuraFixed": true,
+      "version": "2026-05-08-preofficer-diary-round72-march-2"
+    },
+    "nextRecommendation": "下一轮建议单独处理3月3日星期四（line 31-37）。这天是分发到新单位的关键日，内容不宜压缩：8点出发、行前收到玉华照的 Naked Picture、与宏谋毓刚等呼别；军车上偷拆思想考核资料，得知“思想游移，媚外思想甚重”，并记录1984年1月27日追记和政战人员评价，其他评语如学识渊博、守正不阿、能力高强、对政党不感兴趣；自五块厝转入第二军团，二十八人分配、刚华民留、江树生被顶、十八人分到十七师；车向大贝湖、王大姐经施珂评论李敖身体好多了和长袍状态；抵十七师后分三股，尔昭、天昭与李敖留下，施珂去嘉义；分至四十九团四二炮连，连长房午饭、河北连长与指导员谈北平、抬行李到排长室、与贾排长/萧射击官聊天、蹲着吃饭、初见四二炮、连长认识毕福/祝嘉祥、苍蝇臭虫水缺；晚上认识黄进甲及弟黄富川，外出替李敖买脸盆牙缸等。注意1984追记要注明为后记，不混同1960当日即时记录。"
   }
 ]
