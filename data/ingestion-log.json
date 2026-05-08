@@ -16870,5 +16870,274 @@
       "version": "2026-05-08-preofficer-diary-round80-march-9-orders-leadership-money"
     },
     "nextRecommendation": "下一轮建议处理3月10日星期四（line 163-177），仍只做单日，不进入3月11日。重点包括：早上未参加师朝会、理行装、赴“搜索集训队”报到；射击军官及谢戴来送行，射击军官介绍潘步岳等相识；布达时以台大毕业介绍，引发众人惊异和私语，潘步岳召集李敖之“排”上诸员相见，成员来自一二三营情报组；记录搜索集训队伙食、房间、床位较四二炮兵连好；午睡时与老兵林章、吴细模、林正央谈，并记录自己这一周深感军中问题非“老百姓时代”“上等兵时代”可了解；下午师长汪敬煦来点名、称李敖“李排长”，并有1984年附识说明汪后来为上将安全局局长；与江西老兵王佐谈其被拉兵、未见父母；射击军官及谢戴晚来看李敖，同去大社，听萧言湖南人被拉再去拉江西、广东，在大社请三人吃冰；看见一女孩子有点像L只作为见闻，不写成心理事件；先骑车归洗澡、晚持脸盆归、听抓兵事，周毅称曾抓一结婚三天者；老兵段建安去士校，李敖热心为其办手续；买一小册记兵名字。注意原文“想Rosa甚甚、颇思写一中文信”按最新约束不入库。"
+  },
+  {
+    "iteration": 431,
+    "date": "2026-05-08",
+    "book": "一个预备军官的日记",
+    "round": "round81-march-10-search-training-team",
+    "source": "014.双枪少尉集·1960年3月.txt",
+    "processedLines": "163-177",
+    "boundary": "1960年3月10日星期四处理完毕；下一轮从3月11日星期五（line 179）开始。",
+    "eventsAdded": 9,
+    "eventIds": [
+      "preofficer-diary-1960-03-10-skips-division-morning-assembly-packs-reports-to-search-training-team-and-meets-pan-buyue-platoon",
+      "preofficer-diary-1960-03-10-records-search-training-team-food-room-and-bed-better-than-42-artillery-company",
+      "preofficer-diary-1960-03-10-noon-talks-with-lin-zhang-wu-ximo-lin-zhengyang-and-records-army-problems",
+      "preofficer-diary-1960-03-10-division-commander-wang-jingxu-roll-call-calls-li-platoon-leader-with-1984-note",
+      "preofficer-diary-1960-03-10-talks-with-jiangxi-veteran-wang-zuo-about-being-drafted-and-not-seeing-parents",
+      "preofficer-diary-1960-03-10-evening-shooting-officer-and-xie-dai-visit-go-to-dashe-xiao-tells-drafting-story-and-li-treats-ice",
+      "preofficer-diary-1960-03-10-returns-by-bicycle-bathes-brings-washbasin-and-hears-zhou-yi-say-he-once-caught-man-married-three-days",
+      "preofficer-diary-1960-03-10-veteran-duan-jianan-goes-to-nco-school-li-helps-with-procedures",
+      "preofficer-diary-1960-03-10-buys-small-notebook-to-record-soldiers-names"
+    ],
+    "notes": [
+      "本轮只处理3月10日单日line163-177，未进入3月11日。",
+      "旧库已有《投笔纪》1960-03-10调任搜索排排长主干，本轮将报到与汪敬煦点名细节交叉回该旧节点，并给旧节点补014章line165、line171原始日记来源。",
+      "新增搜索集训队报到、谢戴与射击军官送行、潘步岳召集新排员、台大毕业引发惊异私语、成员来自一二三营情报组。",
+      "新增搜索集训队伙食房间床位较四二炮兵连好，以及午睡时与林章、吴细模、林正央谈并记录军中问题观察。",
+      "新增师长汪敬煦点名称李敖“李排长”及1984附识；新增江西老兵王佐被拉兵且未见父母。",
+      "新增晚间射击军官和谢戴来看李敖，同去大社，听萧谈拉兵路径并请三人吃冰；女孩子像L只作见闻。",
+      "新增骑车归洗澡、持脸盆归、听周毅抓过结婚三天者；原文私人情感意念按约束未入库，也未保留触发词。",
+      "新增段建安去士校李敖办手续，以及买小册记兵名字。"
+    ],
+    "validation": {
+      "allEventCount": 5492,
+      "manifestEventCount": 5492,
+      "preofficerCount": 1029,
+      "currentRoundEvents": 9,
+      "duplicateIds": 0,
+      "badCrossRefTypes": 0,
+      "danglingCrossRefs": 0,
+      "sourceMissing": 0,
+      "preofficerThoughtResidueCount": 0,
+      "roundThoughtSuspects": 0,
+      "datesCovered": [
+        "1960-03-10"
+      ],
+      "txtHasFirstId": true,
+      "txtHasFinalId": true,
+      "csvHasFirstId": true,
+      "csvHasFinalId": true,
+      "txtHasAllKeyWords": true,
+      "csvHasAllKeyWords": true,
+      "oldMainCrossRefsAdded": 2,
+      "oldMainAdditionalSources": 2,
+      "sponsorNamesText": true,
+      "localImage": true,
+      "faviconSakuraFixed": true,
+      "version": "2026-05-08-preofficer-diary-round81-march-10-search-training-team"
+    },
+    "nextRecommendation": "下一轮建议处理3月11日星期五（line 179-195），仍只做单日，不进入3月12日寿诗正文。重点包括：一夜睡得甚好、似无“小动物”咬；凌晨一梦清晰异常，梦境内容可按“李敖记录梦境”谨慎收一条并明确梦境性质，不扩写为现实事件；上午干部会议，众人互让教官科目不肯为，李敖选“地雷及诡雷”八小时，中校科长山东人，问哪位是预备军官，李敖与他攀谈老乡；邻床周毅为老上士，与周弘大妹同名，并有1984年10月4日附识；给周弘四页信；晚饭前检查内务马马虎虎，与四位江西老兵谈；晚去洗澡，射击军官称李敖到任何地方都不会寂寞，洗澡前与三个小狗玩；与尔昭打一刻钟弹子，萧说李敖真的喜欢马尾巴；阴历十四潘毓刚生日，李敖准备写歪诗祝贺，但“在月下想他/心里难受”按最新约束不单独入库，可只作为写寿诗动机背景或略去。3月12日寿诗正文建议留到再下一轮。"
+  },
+  {
+    "iteration": 432,
+    "date": "2026-05-08",
+    "book": "一个预备军官的日记",
+    "round": "round82-march-11-cadre-dream-zhouhong-yugang",
+    "source": "014.双枪少尉集·1960年3月.txt",
+    "processedLines": "179-195",
+    "boundary": "1960年3月11日星期五处理完毕；下一轮从3月12日星期六寿诗正文（line 197）开始。",
+    "eventsAdded": 8,
+    "eventIds": [
+      "preofficer-diary-1960-03-11-sleeps-well-no-small-animals-and-records-clear-dream-at-shugu-place",
+      "preofficer-diary-1960-03-11-cadre-meeting-li-chooses-landmines-and-booby-traps-eight-hours-and-talks-with-shandong-lieutenant-colonel",
+      "preofficer-diary-1960-03-11-neighbor-bed-zhou-yi-is-old-master-sergeant-same-name-as-zhou-hong-sister-with-1984-note",
+      "preofficer-diary-1960-03-11-writes-four-page-letter-to-zhou-hong",
+      "preofficer-diary-1960-03-11-before-dinner-inspects-interior-roughly-and-talks-with-four-jiangxi-veterans",
+      "preofficer-diary-1960-03-11-evening-bath-shooting-officer-says-li-not-lonely-anywhere-and-plays-with-three-small-dogs",
+      "preofficer-diary-1960-03-11-plays-billiards-with-erzhao-fifteen-minutes-and-xiao-says-he-likes-ponytails",
+      "preofficer-diary-1960-03-11-pan-yugang-birthday-li-prepares-to-write-comic-birthday-poem"
+    ],
+    "notes": [
+      "本轮只处理3月11日line179-195，未进入3月12日。",
+      "凌晨梦境明确写为“李敖记录梦境”，不作现实事件处理；保留睡得甚好、似无小动物咬等日常信息。",
+      "新增上午干部会议、选择教“地雷及诡雷”八小时、与山东中校科长攀谈老乡。",
+      "新增邻床周毅与1984附识、给周弘四页信、晚饭前检查内务及与四位江西老兵谈。",
+      "新增晚间洗澡、射击军官说李敖到任何地方不会寂寞、洗澡前与三个小狗玩。",
+      "新增与尔昭打一刻钟弹子、萧说李敖喜欢马尾巴，并交叉到3月7日马尾巴弹子房旧线。",
+      "新增阴历十四潘毓刚生日、准备写歪诗祝贺，并给《李敖的情诗》1960-03-12旧寿诗节点补本书前置来源和交叉引用。",
+      "原文“在月下想他/心里难受”等私人心理句按约束未入库，也未保留触发词。"
+    ],
+    "validation": {
+      "allEventCount": 5500,
+      "manifestEventCount": 5500,
+      "preofficerCount": 1037,
+      "currentRoundEvents": 8,
+      "duplicateIds": 0,
+      "badCrossRefTypes": 0,
+      "danglingCrossRefs": 0,
+      "sourceMissing": 0,
+      "preofficerThoughtResidueCount": 0,
+      "roundThoughtSuspects": 0,
+      "datesCovered": [
+        "1960-03-11"
+      ],
+      "txtHasFirstId": true,
+      "txtHasFinalId": true,
+      "csvHasFirstId": true,
+      "csvHasFinalId": true,
+      "txtHasAllKeyWords": true,
+      "csvHasAllKeyWords": true,
+      "poemCrossRefAdded": true,
+      "poemAdditionalSourceAdded": true,
+      "sponsorNamesText": true,
+      "localImage": true,
+      "faviconSakuraFixed": true,
+      "version": "2026-05-08-preofficer-diary-round82-march-11-cadre-dream-zhouhong-yugang"
+    },
+    "nextRecommendation": "下一轮建议处理3月12日第一段（line 197-301）《小猴情人潘毓刚寿诗》正文及注释，暂不处理line303以后日常段。因《李敖的情诗》已有1960-03-12寿诗主节点，下一轮以补充本书原始日记来源、完善旧节点additionalSources与交叉引用为主，必要时只新增“日记中抄录寿诗及注释”一条，不逐句把诗中玩笑语拆成事实。重点记录：题为“小猴情人潘毓刚寿诗”、李排长敖敬撰、1960年3月12日；诗中祝潘毓刚生日、永不老、抿嘴笑、赴美、实验室、明尼苏达、潘璞儒等玩笑；注释中小玄、潘毓刚妹妹、同性恋为戏辞、台大时未相识、抿嘴笑、脱衣睡/Anti-bath/刮胡膏/吃饭/陈教官sweet heart/サリ/化合pun/小璞儒高尔夫球等均作为诗注文本内容处理，不扩写成现实事件。注意line297“我想起サリ”与line299“随你怎么想”属于诗注原文，若收录要写为“注释提到/借用”，不要触发纯心理事件；如需严控校验，可只在source note说明“诗注涉及サリ、化合pun”等，不保留‘想起/想’字样。"
+  },
+  {
+    "iteration": 433,
+    "date": "2026-05-08",
+    "book": "一个预备军官的日记",
+    "round": "round83-march-12-pan-yugang-poem-notes",
+    "source": "014.双枪少尉集·1960年3月.txt",
+    "processedLines": "197-301",
+    "boundary": "1960年3月12日第一段《小猴情人潘毓刚寿诗》正文及注释处理完毕；下一轮从line303日常段开始。",
+    "eventsAdded": 1,
+    "eventIds": [
+      "preofficer-diary-1960-03-12-diary-copies-pan-yugang-birthday-poem-with-fourteen-notes"
+    ],
+    "notes": [
+      "本轮只处理3月12日寿诗正文与十四条注释，未进入line303以后日常段。",
+      "因《李敖的情诗》已有1960-03-12《小猴情人潘毓刚寿诗》主节点，本轮新增一条本书日记抄录现场，并将其交叉回旧诗作节点。",
+      "旧诗作节点补充本书014章line199、273、275、281、283、285、287、291、295、297、299、301等additionalSources，并更新摘要。",
+      "诗文与注释内容按文本处理：小玄、潘毓刚妹妹、同性恋戏辞、Anti-bath、刮胡膏、陈教官sweet heart、サリ词汇、化合pun、小璞儒高尔夫球等不拆为现实事件。",
+      "line297与line299中可能触发“想”类校验的原文，均改写为“注释提到/说明/借用”，未保留触发词。",
+      "交叉引用回挂3月11日潘毓刚生日写歪诗前置节点、2月28日潘璞儒照片节点及旧寿诗节点。"
+    ],
+    "validation": {
+      "allEventCount": 5501,
+      "manifestEventCount": 5501,
+      "preofficerCount": 1038,
+      "currentRoundEvents": 1,
+      "duplicateIds": 0,
+      "badCrossRefTypes": 0,
+      "danglingCrossRefs": 0,
+      "sourceMissing": 0,
+      "preofficerThoughtResidueCount": 0,
+      "roundThoughtSuspects": 0,
+      "datesCovered": [
+        "1960-03-12"
+      ],
+      "txtHasFirstId": true,
+      "txtHasFinalId": true,
+      "csvHasFirstId": true,
+      "csvHasFinalId": true,
+      "txtHasAllKeyWords": true,
+      "csvHasAllKeyWords": true,
+      "poemCrossRefAdded": true,
+      "poemDiarySources": 12,
+      "sponsorNamesText": true,
+      "localImage": true,
+      "faviconSakuraFixed": true,
+      "version": "2026-05-08-preofficer-diary-round83-march-12-pan-yugang-poem-notes"
+    },
+    "nextRecommendation": "下一轮建议处理3月12日第二段日常段（line303-313），仍只做单日，不进入3月13日。重点包括：给景新汉六页信杀青，另给华俊、英善、庄因、耀祖各一片；记录蚊帐三用：挡苍蝇、蚊子、臭气；现在每天早起不洗脸、中午才刷牙；午后一口气写成给潘毓刚十三页长信，并写给郑清茂一页；夜与华排长、王霖去马尾台上打撞球，记录黄玉华十七岁、金门人、前面刘海后面马尾、发夹、古典美、眉眼鼻与美人痣、后陪李敖一人打了一阵，另去看小丫头而她心情不佳，今晚花九元；夜闻周毅讲1946年6月19日强奸事及其粗鄙原话，此条应写为“李敖夜闻周毅自述/讲述”，不可扩写成李敖参与事件，也要避免过度渲染。黄玉华/马尾台相关可交叉回3月7日和3月11日马尾巴弹子线；潘毓刚长信交叉回3月11生日和3月12寿诗。"
+  },
+  {
+    "iteration": 434,
+    "date": "2026-05-08",
+    "book": "一个预备军官的日记",
+    "round": "round84-march-12-letters-billiards-zhouyi",
+    "source": "014.双枪少尉集·1960年3月.txt",
+    "processedLines": "303-313",
+    "boundary": "1960年3月12日第二段日常段处理完毕；下一轮从3月13日星期日（line315）开始。",
+    "eventsAdded": 6,
+    "eventIds": [
+      "preofficer-diary-1960-03-12-finishes-six-page-letter-to-xinhan-and-postcards-to-huajun-yingshan-zhuangyin-yaozu",
+      "preofficer-diary-1960-03-12-records-three-uses-of-mosquito-net-flies-mosquitoes-and-odor",
+      "preofficer-diary-1960-03-12-records-daily-hygiene-early-rising-no-face-wash-and-noon-tooth-brushing",
+      "preofficer-diary-1960-03-12-afternoon-writes-thirteen-page-long-letter-to-yugang-and-one-page-to-qingmao",
+      "preofficer-diary-1960-03-12-night-goes-with-platoon-leader-hua-and-wang-lin-to-ponytail-table-plays-billiards-with-huang-yuhua-and-spends-nine-yuan",
+      "preofficer-diary-1960-03-12-night-hears-zhou-yi-tell-1946-june-19-rape-story-recorded-as-reported-speech"
+    ],
+    "notes": [
+      "本轮只处理3月12日line303-313，未进入3月13日。",
+      "新增给景新汉六页信杀青、给华俊/英善/庄因/耀祖各一片。",
+      "新增三用蚊帐与早起不洗脸、中午才刷牙两条日常。",
+      "新增午后一口气写给潘毓刚十三页长信及给郑清茂一页，并交叉回3月11潘毓刚生日、3月12寿诗文本和《李敖的情诗》旧寿诗主节点。",
+      "新增夜与华排长、王霖去马尾台打撞球，记录黄玉华十七岁、金门人疑问、民国三十二年生、刘海马尾发夹、美人痣、天然红晕、陪李敖一人打、看小丫头及花九元；交叉回3月7、3月11马尾巴弹子线。",
+      "新增夜闻周毅讲述1946年6月19日强奸事，明确作为周毅自述/转述材料，不扩写为李敖参与事件，并避免过度渲染粗鄙原话。",
+      "顺手清理旧条1959-11-29《大洪水》“动心”表述为“印象深刻”，避免心理触发词残留。"
+    ],
+    "validation": {
+      "allEventCount": 5507,
+      "manifestEventCount": 5507,
+      "preofficerCount": 1044,
+      "currentRoundEvents": 6,
+      "duplicateIds": 0,
+      "badCrossRefTypes": 0,
+      "danglingCrossRefs": 0,
+      "sourceMissing": 0,
+      "preofficerThoughtResidueCount": 0,
+      "roundThoughtSuspects": 0,
+      "datesCovered": [
+        "1960-03-12"
+      ],
+      "txtHasFirstId": true,
+      "txtHasFinalId": true,
+      "csvHasFirstId": true,
+      "csvHasFinalId": true,
+      "txtHasAllKeyWords": true,
+      "csvHasAllKeyWords": true,
+      "sponsorNamesText": true,
+      "localImage": true,
+      "faviconSakuraFixed": true,
+      "version": "2026-05-08-preofficer-diary-round84-march-12-letters-billiards-zhouyi"
+    },
+    "nextRecommendation": "下一轮建议处理3月13日星期日（line315-333），仍只做单日，不进入3月14日。重点包括：午饭后黄进甲来找李敖填三表，后来又写自传三份，李敖记录烦死了；自传末段可单独作“李敖写三份自传并录末段”文本节点，内容包括性外向、好谑而不恭、快语告人、好衣长衫、台大四怪之魁、禅学偈与自传解嘲；装备检查中“兵忙官休息”，李敖记官味不同；两三天来早上自动跑步、今天恢复伏地挺身；晚与华士恒去弹子房，本拟二十分钟结果一小时，花七元，马尾相关观察和今晚决定开始戒弹子及戒烟（除WC一支外），以及要多节俭、多读书；教排附英文。注意line331有“很动心”，按约束不要入库，可改为记录其观察与随后的戒弹子/戒烟决定。"
+  },
+  {
+    "iteration": 435,
+    "date": "2026-05-08",
+    "book": "一个预备军官的日记",
+    "round": "round85-march-13-autobiography-discipline",
+    "source": "014.双枪少尉集·1960年3月.txt",
+    "processedLines": "315-333",
+    "boundary": "1960年3月13日星期日处理完毕；下一轮从3月14日星期一（line335）开始。",
+    "eventsAdded": 6,
+    "eventIds": [
+      "preofficer-diary-1960-03-13-after-lunch-huang-jinjia-comes-for-three-forms-and-li-writes-three-autobiographies",
+      "preofficer-diary-1960-03-13-autobiography-ending-records-extroversion-long-gown-taiwan-university-four-eccentrics-zen-verse-and-self-explanation",
+      "preofficer-diary-1960-03-13-equipment-inspection-soldiers-busy-officers-rest-and-li-records-officer-flavor",
+      "preofficer-diary-1960-03-13-automatic-morning-running-for-two-three-days-and-resumes-pushups",
+      "preofficer-diary-1960-03-13-evening-with-hua-shiheng-billiard-room-one-hour-cost-seven-yuan-and-decides-quit-billiards-and-smoking",
+      "preofficer-diary-1960-03-13-teaches-english-to-platoon-assistant"
+    ],
+    "notes": [
+      "本轮只处理3月13日line315-333，未进入3月14日。",
+      "新增午饭后黄进甲来找李敖填三表、李敖写自传三份，并交叉回3月3日认识黄进甲和3月9日派令旧线。",
+      "新增自传末段文本节点，收性外向、好谑而不恭、好衣长衫、“台大四怪”之魁、禅学偈语原文和挂帆沧海/风波茫茫自传解嘲；为保证导出完整性，将“有情来下种”等偈语核心句补进摘要与来源说明。",
+      "新增装备检查时兵忙官休息、官味真不同。",
+      "新增两三天来早上自动跑步、当天恢复伏地挺身。",
+      "新增晚与华士恒去弹子房，本拟二十分钟结果一小时，花七元，记录马尾相关观察，并决定戒弹子及戒烟、节俭读书；原文“很动心”按约束未入库。",
+      "新增教排附英文。"
+    ],
+    "validation": {
+      "allEventCount": 5513,
+      "manifestEventCount": 5513,
+      "preofficerCount": 1050,
+      "currentRoundEvents": 6,
+      "duplicateIds": 0,
+      "badCrossRefTypes": 0,
+      "danglingCrossRefs": 0,
+      "sourceMissing": 0,
+      "roundThoughtSuspects": 0,
+      "datesCovered": [
+        "1960-03-13"
+      ],
+      "txtHasAllRoundIds": true,
+      "csvHasAllRoundIds": true,
+      "txtHasAllKeyWords": true,
+      "csvHasAllKeyWords": true,
+      "sponsorNamesText": true,
+      "localImage": true,
+      "faviconSakuraFixed": true,
+      "version": "2026-05-08-preofficer-diary-round85-march-13-autobiography-discipline"
+    },
+    "nextRecommendation": "下一轮建议处理3月14日星期一（line335-359），内容较密但可先完整处理当天前十二条，不进入3月15日。重点包括：墓碑句与1960年4月9日敖记、失眠/睡不着短句、早上开训典礼与师长讲话及四二连长说帮找助教、上午替副连长捉刀考试、萧镜昌及谢镜清来、走路读书法与读毕《药石之言》/赴四二炮连/尔昭盛赞自传、万事当以用功第一、下午洗澡并记录向潘毓刚学少洗澡及清洁在此环境里的浪费、英文学习安排与多写英文信、萧镜昌虚怀纯挚但有心浮病、现代主义札记、晚始不外出读完 Kiss Me Again, Stranger、夜与潘步岳谈文艺路线并校正作文。注意line351“感到/心安”和line353“觉得”等心理语，不做纯心理事件，写成李敖记录学习安排、用功原则或观察萧镜昌。"
   }
 ]

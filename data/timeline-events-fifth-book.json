@@ -1324,7 +1324,27 @@
       "chapter": "006.投笔纪",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/006.投笔纪.txt",
       "line": 83
-    }
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-03-10-skips-division-morning-assembly-packs-reports-to-search-training-team-and-meets-pan-buyue-platoon",
+      "preofficer-diary-1960-03-10-division-commander-wang-jingxu-roll-call-calls-li-platoon-leader-with-1984-note"
+    ],
+    "additionalSources": [
+      {
+        "book": "一个预备军官的日记",
+        "chapter": "014.双枪少尉集·1960年3月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/014.双枪少尉集·1960年3月.txt",
+        "line": 165,
+        "note": "日记原始现场：未参加师朝会、理行装，赴搜索集训队报到；布达时介绍李敖台大毕业，潘步岳召集排上诸员相见。"
+      },
+      {
+        "book": "一个预备军官的日记",
+        "chapter": "014.双枪少尉集·1960年3月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/014.双枪少尉集·1960年3月.txt",
+        "line": 171,
+        "note": "日记原始现场：师长汪敬煦点名，称李敖“李排长”；1984年附识说明汪后来为上将安全局局长。"
+      }
+    ]
   },
   {
     "id": "book5-1960-03-16-watches-execution-in-army",

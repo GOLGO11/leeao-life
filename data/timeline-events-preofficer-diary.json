@@ -18219,7 +18219,7 @@
     "displayDate": "1959年11月29日下午至夜",
     "datePrecision": "day",
     "title": "陈彦增请李敖看《大洪水》，夜里李敖请三人在真川味吃饭，并买旧《拾穗》、黄药片和电池",
-    "summary": "11月29日，陈彦增请李敖看电影《大洪水》（Floods of Fear）。李敖认为片中女子动人，男子有义气、重 fair play，忠厚正直，电影颇好且动心。夜里李敖请英善、彦增、新汉三人在真川味吃饭，花四十八元、小费两元，吃酱爆肉、鱼香牛肉丝、砂锅豆腐等，觉得这次高雄行很愉快痛快。他又买旧《拾穗》三册，最想买这一期已出三版的 Free China，但被新汉、彦增阻止；另买黄药片和电池。",
+    "summary": "11月29日，陈彦增请李敖看电影《大洪水》（Floods of Fear）。李敖认为片中女子动人，男子有义气、重 fair play，忠厚正直，电影颇好且印象深刻。夜里李敖请英善、彦增、新汉三人在真川味吃饭，花四十八元、小费两元，吃酱爆肉、鱼香牛肉丝、砂锅豆腐等，觉得这次高雄行很愉快痛快。他又买旧《拾穗》三册，最想买这一期已出三版的 Free China，但被新汉、彦增阻止；另买黄药片和电池。",
     "source": {
       "book": "一个预备军官的日记",
       "chapter": "010.插羽集·1959年11月",
@@ -57550,6 +57550,1562 @@
     "places": [
       "凤山",
       "示范连"
+    ]
+  },
+  {
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "book5-1960-03-10-transferred-to-regimental-search-platoon",
+      "preofficer-diary-1960-03-09-deputy-platoon-leader-life-ends-huang-jinjia-brings-order-report-next-morning"
+    ],
+    "id": "preofficer-diary-1960-03-10-skips-division-morning-assembly-packs-reports-to-search-training-team-and-meets-pan-buyue-platoon",
+    "date": "1960-03-10",
+    "displayDate": "1960年3月10日星期四早晨报到",
+    "title": "李敖未参加师朝会，理行装赴“搜索集训队”报到，射击军官与谢戴送行，并见潘步岳等新排员",
+    "summary": "3月10日早晨，李敖未参加师朝会，整理行装后赴“搜索集训队”报到。射击军官及谢戴来送行；射击军官介绍潘步岳等人与李敖相识，并说李敖同他们住了一星期，他们已经舍不得他走。布达时，介绍者说李敖是台大毕业，众人多以惊异眼光看他，间有私语；潘步岳又召集李敖“排”上诸员与他相见，这些人都是一、二、三营调来的情报组人员。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "014.双枪少尉集·1960年3月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/014.双枪少尉集·1960年3月.txt",
+      "line": 165,
+      "note": "早上未参加师朝会，理行装，赴“搜索集训队”报到；射击军官及谢戴送行；射击军官介绍潘步岳等；布达时介绍李敖台大毕业；潘步岳召集李敖“排”上诸员相见，成员为一、二、三营调来的情报组。"
+    },
+    "view": [
+      "军旅线",
+      "职务线",
+      "交游线",
+      "日常线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年3月",
+      "3月10日",
+      "师朝会",
+      "理行装",
+      "搜索集训队",
+      "报到",
+      "射击军官",
+      "谢戴",
+      "潘步岳",
+      "台大毕业",
+      "布达",
+      "情报组",
+      "一营",
+      "二营",
+      "三营"
+    ],
+    "people": [
+      "李敖",
+      "射击军官",
+      "谢戴",
+      "潘步岳"
+    ],
+    "places": [
+      "四十九团四二炮连",
+      "搜索集训队"
+    ]
+  },
+  {
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "preofficer-diary-1960-03-10-skips-division-morning-assembly-packs-reports-to-search-training-team-and-meets-pan-buyue-platoon"
+    ],
+    "id": "preofficer-diary-1960-03-10-records-search-training-team-food-room-and-bed-better-than-42-artillery-company",
+    "date": "1960-03-10",
+    "displayDate": "1960年3月10日星期四搜索集训队住食",
+    "title": "李敖记录搜索集训队伙食、房间和床位都比四二炮兵连好",
+    "summary": "到搜索集训队后，李敖记录这里的伙食、房间和床位都比四二炮兵连好。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "014.双枪少尉集·1960年3月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/014.双枪少尉集·1960年3月.txt",
+      "line": 167,
+      "note": "伙食及房间床位都比四二炮兵连好。"
+    },
+    "view": [
+      "军旅线",
+      "日常线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年3月",
+      "3月10日",
+      "搜索集训队",
+      "伙食",
+      "房间",
+      "床位",
+      "四二炮兵连"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "搜索集训队",
+      "四十九团四二炮连"
+    ]
+  },
+  {
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "preofficer-diary-1960-03-10-skips-division-morning-assembly-packs-reports-to-search-training-team-and-meets-pan-buyue-platoon"
+    ],
+    "id": "preofficer-diary-1960-03-10-noon-talks-with-lin-zhang-wu-ximo-lin-zhengyang-and-records-army-problems",
+    "date": "1960-03-10",
+    "displayDate": "1960年3月10日星期四午睡时",
+    "title": "李敖午睡时与林章、吴细模、林正央谈，并记录这一周深感军中问题非昔日身份所能了解",
+    "summary": "3月10日午睡时，李敖与老兵林章谈，又与吴细模、林正央谈。他在日记中记录，这一周来深刻感到军队中的许多问题和现象，远非“老百姓时代”及“上等兵时代”所能了解。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "014.双枪少尉集·1960年3月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/014.双枪少尉集·1960年3月.txt",
+      "line": 169,
+      "note": "午睡时与老兵林章谈，又与吴细模、林正央谈；记录这一周来深刻感到军队许多问题和现象，迥非“老百姓时代”及“上等兵时代”所能了解。"
+    },
+    "view": [
+      "军旅线",
+      "谈话线",
+      "社会观察线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年3月",
+      "3月10日",
+      "午睡",
+      "林章",
+      "吴细模",
+      "林正央",
+      "老兵",
+      "军队问题",
+      "老百姓时代",
+      "上等兵时代"
+    ],
+    "people": [
+      "李敖",
+      "林章",
+      "吴细模",
+      "林正央"
+    ],
+    "places": [
+      "搜索集训队"
+    ]
+  },
+  {
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "book5-1960-03-10-transferred-to-regimental-search-platoon",
+      "preofficer-diary-1960-03-10-skips-division-morning-assembly-packs-reports-to-search-training-team-and-meets-pan-buyue-platoon"
+    ],
+    "id": "preofficer-diary-1960-03-10-division-commander-wang-jingxu-roll-call-calls-li-platoon-leader-with-1984-note",
+    "date": "1960-03-10",
+    "displayDate": "1960年3月10日星期四下午师长点名",
+    "title": "师长汪敬煦下午来点名并称李敖“李排长”，李敖1984年附识说明汪后来为上将安全局局长",
+    "summary": "3月10日下午，师长来点名，李敖记录其胖胖的、很结实、很客气，并称他“李排长”，点名到快吃晚饭时才结束。李敖在1984年10月3日附识说明，这位师长就是汪敬煦，当时只是上校师长，后来为上将、安全局局长。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "014.双枪少尉集·1960年3月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/014.双枪少尉集·1960年3月.txt",
+      "line": 171,
+      "note": "下午师长来点名，称李敖“李排长”；点到快吃晚饭时才完。1984年10月3日李敖附识：师长即汪敬煦，后来为上将安全局局长，当时只是上校师长。"
+    },
+    "view": [
+      "军旅线",
+      "职务线",
+      "追记线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年3月",
+      "3月10日",
+      "师长",
+      "汪敬煦",
+      "李排长",
+      "点名",
+      "上校师长",
+      "上将",
+      "安全局局长",
+      "1984附识"
+    ],
+    "people": [
+      "李敖",
+      "汪敬煦"
+    ],
+    "places": [
+      "搜索集训队",
+      "十七师四十九团"
+    ]
+  },
+  {
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "diary",
+    "crossReferences": [],
+    "id": "preofficer-diary-1960-03-10-talks-with-jiangxi-veteran-wang-zuo-about-being-drafted-and-not-seeing-parents",
+    "date": "1960-03-10",
+    "displayDate": "1960年3月10日星期四下午点名后",
+    "title": "李敖与江西老兵王佐谈，王佐自述被拉兵后父母皆未得一见",
+    "summary": "同日点名后，李敖与江西老兵王佐谈话。王佐自述自己被拉兵，父母都未能见上一面。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "014.双枪少尉集·1960年3月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/014.双枪少尉集·1960年3月.txt",
+      "line": 171,
+      "note": "与江西老兵王佐谈；王佐自述其被拉兵，父母皆未得一见。"
+    },
+    "view": [
+      "军旅线",
+      "谈话线",
+      "社会观察线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年3月",
+      "3月10日",
+      "王佐",
+      "江西老兵",
+      "被拉兵",
+      "父母未见"
+    ],
+    "people": [
+      "李敖",
+      "王佐"
+    ],
+    "places": [
+      "搜索集训队"
+    ]
+  },
+  {
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "preofficer-diary-1960-03-07-evening-whole-room-walks-by-railway-to-dashe-visits-jiang-liangcheng-and-sees-cuipingyan",
+      "preofficer-diary-1960-03-07-morning-talk-shooting-officer-tells-chen-gongdu-wu-peixia-blood-and-pillow-quote"
+    ],
+    "id": "preofficer-diary-1960-03-10-evening-shooting-officer-and-xie-dai-visit-go-to-dashe-xiao-tells-drafting-story-and-li-treats-ice",
+    "date": "1960-03-10",
+    "displayDate": "1960年3月10日星期四晚间大社",
+    "title": "射击军官和谢戴晚来看李敖，同去大社；李敖听萧谈拉兵路径并请三人吃冰",
+    "summary": "3月10日晚，射击军官及谢戴来看李敖，几人同去大社。李敖记录萧说湖南人被拉后再去拉江西，再拉广东；在大社，李敖请他们三位吃冰。他还看见一名女孩子有点像 L，此处仅作当日见闻记录。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "014.双枪少尉集·1960年3月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/014.双枪少尉集·1960年3月.txt",
+      "line": 173,
+      "note": "射击军官及谢戴晚来看李敖，同去大社；萧言湖南人被拉再去拉江西，再拉广东；在大社请他们三位吃冰；看见一女孩子有点像L，只作见闻处理。"
+    },
+    "view": [
+      "军旅线",
+      "交游线",
+      "地方观察线",
+      "日常线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年3月",
+      "3月10日",
+      "射击军官",
+      "谢戴",
+      "大社",
+      "萧",
+      "湖南人",
+      "江西",
+      "广东",
+      "拉兵",
+      "吃冰",
+      "L"
+    ],
+    "people": [
+      "李敖",
+      "射击军官",
+      "谢戴",
+      "萧",
+      "女孩子",
+      "L"
+    ],
+    "places": [
+      "大社",
+      "搜索集训队"
+    ]
+  },
+  {
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "preofficer-diary-1960-03-10-evening-shooting-officer-and-xie-dai-visit-go-to-dashe-xiao-tells-drafting-story-and-li-treats-ice"
+    ],
+    "id": "preofficer-diary-1960-03-10-returns-by-bicycle-bathes-brings-washbasin-and-hears-zhou-yi-say-he-once-caught-man-married-three-days",
+    "date": "1960-03-10",
+    "displayDate": "1960年3月10日星期四夜间归队后",
+    "title": "李敖从大社先骑车归洗澡，晚持脸盆归，并听周毅说曾抓一名结婚三天者",
+    "summary": "同晚从大社回来时，李敖先骑车归队洗澡，晚间又持脸盆归来。返归后，他听众人谈抓兵事；周毅说自己曾抓过一个结婚三天的人。原文中的私人情感意念未按事件入库。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "014.双枪少尉集·1960年3月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/014.双枪少尉集·1960年3月.txt",
+      "line": 173,
+      "note": "先骑车归洗澡，晚持脸盆归；归听他们言抓兵事，周毅言曾抓一结婚三天者。原文中的私人情感意念按约束不入库。"
+    },
+    "view": [
+      "军旅线",
+      "日常线",
+      "社会观察线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年3月",
+      "3月10日",
+      "骑车",
+      "洗澡",
+      "脸盆",
+      "抓兵",
+      "周毅",
+      "结婚三天"
+    ],
+    "people": [
+      "李敖",
+      "周毅"
+    ],
+    "places": [
+      "大社",
+      "搜索集训队"
+    ]
+  },
+  {
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "diary",
+    "crossReferences": [],
+    "id": "preofficer-diary-1960-03-10-veteran-duan-jianan-goes-to-nco-school-li-helps-with-procedures",
+    "date": "1960-03-10",
+    "displayDate": "1960年3月10日星期四",
+    "title": "老兵段建安去士校，李敖热心为他办手续",
+    "summary": "3月10日，老兵段建安去士校，李敖热心为其办理手续。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "014.双枪少尉集·1960年3月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/014.双枪少尉集·1960年3月.txt",
+      "line": 175,
+      "note": "老兵段建安去士校，热心为其办手续。"
+    },
+    "view": [
+      "军旅线",
+      "日常线",
+      "交游线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年3月",
+      "3月10日",
+      "段建安",
+      "老兵",
+      "士校",
+      "办手续"
+    ],
+    "people": [
+      "李敖",
+      "段建安"
+    ],
+    "places": [
+      "搜索集训队",
+      "士校"
+    ]
+  },
+  {
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "preofficer-diary-1960-03-10-skips-division-morning-assembly-packs-reports-to-search-training-team-and-meets-pan-buyue-platoon"
+    ],
+    "id": "preofficer-diary-1960-03-10-buys-small-notebook-to-record-soldiers-names",
+    "date": "1960-03-10",
+    "displayDate": "1960年3月10日星期四",
+    "title": "李敖买一小册，用来记兵的名字",
+    "summary": "3月10日，李敖买了一本小册，用来记士兵的名字。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "014.双枪少尉集·1960年3月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/014.双枪少尉集·1960年3月.txt",
+      "line": 177,
+      "note": "买一小册，记兵的名字。"
+    },
+    "view": [
+      "军旅线",
+      "职务线",
+      "日常线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年3月",
+      "3月10日",
+      "小册",
+      "记兵名字",
+      "搜索排"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "搜索集训队"
+    ]
+  },
+  {
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "diary",
+    "crossReferences": [],
+    "id": "preofficer-diary-1960-03-11-sleeps-well-no-small-animals-and-records-clear-dream-at-shugu-place",
+    "date": "1960-03-11",
+    "displayDate": "1960年3月11日星期五凌晨",
+    "title": "李敖一夜睡得甚好，似无“小动物”咬，并记录凌晨在述古处的清晰梦境",
+    "summary": "3月11日，李敖记录自己一夜睡得甚好，似乎没有“小动物”叮咬。凌晨他做了一个清晰异常的梦，梦见在述古处有一名女子引诱他，女子似为 L，并有裸身亲昵情节；李敖在梦中终未性交而醒。本条明确为梦境记录，不作现实事件处理。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "014.双枪少尉集·1960年3月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/014.双枪少尉集·1960年3月.txt",
+      "line": 181,
+      "note": "一夜睡得甚好，似无“小动物”咬；凌晨一梦清晰异常，梦见在述古处受一名似为L的女子引诱，有裸身亲昵情节，终未性交而醒。"
+    },
+    "view": [
+      "军旅线",
+      "日常线",
+      "梦境线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年3月",
+      "3月11日",
+      "睡得甚好",
+      "小动物",
+      "梦境",
+      "述古处",
+      "L"
+    ],
+    "people": [
+      "李敖",
+      "述古",
+      "L"
+    ],
+    "places": [
+      "搜索集训队",
+      "述古处"
+    ]
+  },
+  {
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "preofficer-diary-1960-03-10-skips-division-morning-assembly-packs-reports-to-search-training-team-and-meets-pan-buyue-platoon"
+    ],
+    "id": "preofficer-diary-1960-03-11-cadre-meeting-li-chooses-landmines-and-booby-traps-eight-hours-and-talks-with-shandong-lieutenant-colonel",
+    "date": "1960-03-11",
+    "displayDate": "1960年3月11日星期五上午干部会议",
+    "title": "李敖上午干部会议选教“地雷及诡雷”八小时，并与山东中校科长攀谈老乡",
+    "summary": "3月11日上午干部会议，因大家兼教官职，每一科目推出时众人互让不肯担任，李敖选了“地雷及诡雷”八小时。中校科长是山东人，询问哪位是预备军官；李敖与他攀谈了一阵老乡。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "014.双枪少尉集·1960年3月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/014.双枪少尉集·1960年3月.txt",
+      "line": 183,
+      "note": "上午干部会议，兼教官职，众人互让不肯为；李敖选“地雷及诡雷”八小时；山东中校科长问哪位是预备军官，李敖与他攀谈老乡。"
+    },
+    "view": [
+      "军旅线",
+      "职务线",
+      "教学线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年3月",
+      "3月11日",
+      "干部会议",
+      "教官职",
+      "地雷及诡雷",
+      "八小时",
+      "中校科长",
+      "山东人",
+      "老乡",
+      "预备军官"
+    ],
+    "people": [
+      "李敖",
+      "中校科长"
+    ],
+    "places": [
+      "搜索集训队"
+    ]
+  },
+  {
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "preofficer-diary-1960-03-10-returns-by-bicycle-bathes-brings-washbasin-and-hears-zhou-yi-say-he-once-caught-man-married-three-days"
+    ],
+    "id": "preofficer-diary-1960-03-11-neighbor-bed-zhou-yi-is-old-master-sergeant-same-name-as-zhou-hong-sister-with-1984-note",
+    "date": "1960-03-11",
+    "displayDate": "1960年3月11日星期五邻床",
+    "title": "邻床周毅与李敖睡在一起；李敖1984年附识说明周毅为老上士且与周弘大妹同名",
+    "summary": "3月11日，李敖记录“周毅”与他睡在一起。1984年10月4日，他附识说明邻床周毅是老上士，与周弘的大妹同名。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "014.双枪少尉集·1960年3月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/014.双枪少尉集·1960年3月.txt",
+      "line": 185,
+      "note": "“周毅”与李敖睡在一起；1984年10月4日附识：邻床周毅是老上士，与周弘的大妹同名。"
+    },
+    "view": [
+      "军旅线",
+      "日常线",
+      "追记线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年3月",
+      "3月11日",
+      "周毅",
+      "邻床",
+      "老上士",
+      "周弘大妹",
+      "1984附识"
+    ],
+    "people": [
+      "李敖",
+      "周毅",
+      "周弘大妹"
+    ],
+    "places": [
+      "搜索集训队"
+    ]
+  },
+  {
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "diary",
+    "crossReferences": [],
+    "id": "preofficer-diary-1960-03-11-writes-four-page-letter-to-zhou-hong",
+    "date": "1960-03-11",
+    "displayDate": "1960年3月11日星期五",
+    "title": "李敖给周弘写四页信",
+    "summary": "3月11日，李敖给周弘写了一封四页信；此即日记所记“给周弘四页信”。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "014.双枪少尉集·1960年3月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/014.双枪少尉集·1960年3月.txt",
+      "line": 187,
+      "note": "给周弘四页信。"
+    },
+    "view": [
+      "书信线",
+      "交游线",
+      "军旅线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年3月",
+      "3月11日",
+      "周弘",
+      "四页信"
+    ],
+    "people": [
+      "李敖",
+      "周弘"
+    ],
+    "places": [
+      "搜索集训队"
+    ]
+  },
+  {
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "preofficer-diary-1960-03-10-talks-with-jiangxi-veteran-wang-zuo-about-being-drafted-and-not-seeing-parents"
+    ],
+    "id": "preofficer-diary-1960-03-11-before-dinner-inspects-interior-roughly-and-talks-with-four-jiangxi-veterans",
+    "date": "1960-03-11",
+    "displayDate": "1960年3月11日星期五晚饭前",
+    "title": "李敖晚饭前检查内务马马虎虎，并与四位江西老兵谈话",
+    "summary": "3月11日晚饭前，李敖检查内务，结果马马虎虎；随后与四位江西老兵谈话。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "014.双枪少尉集·1960年3月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/014.双枪少尉集·1960年3月.txt",
+      "line": 189,
+      "note": "晚饭前检查内务，马马虎虎；与四位江西老兵谈。"
+    },
+    "view": [
+      "军旅线",
+      "日常线",
+      "谈话线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年3月",
+      "3月11日",
+      "检查内务",
+      "马马虎虎",
+      "江西老兵"
+    ],
+    "people": [
+      "李敖",
+      "四位江西老兵"
+    ],
+    "places": [
+      "搜索集训队"
+    ]
+  },
+  {
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "preofficer-diary-1960-03-09-goes-to-sixth-company-to-see-yellow-dog-still-cute-biting-and-licking-comfortable"
+    ],
+    "id": "preofficer-diary-1960-03-11-evening-bath-shooting-officer-says-li-not-lonely-anywhere-and-plays-with-three-small-dogs",
+    "date": "1960-03-11",
+    "displayDate": "1960年3月11日星期五晚间洗澡前后",
+    "title": "李敖晚去洗澡，射击军官说他到任何地方都不会寂寞；洗澡前与三个小狗玩",
+    "summary": "3月11日晚，李敖去洗澡。射击军官说，李敖这种人到任何地方都不会寂寞。洗澡前，李敖与三个小狗玩，并记录小狗友善可爱。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "014.双枪少尉集·1960年3月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/014.双枪少尉集·1960年3月.txt",
+      "line": 191,
+      "note": "晚去洗澡；射击军官说李敖这种人到任何地方都不会寂寞；洗澡前与三个小狗玩，并记录小狗友善可爱。"
+    },
+    "view": [
+      "军旅线",
+      "日常线",
+      "交游线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年3月",
+      "3月11日",
+      "洗澡",
+      "射击军官",
+      "不会寂寞",
+      "三个小狗",
+      "友善可爱"
+    ],
+    "people": [
+      "李敖",
+      "射击军官"
+    ],
+    "places": [
+      "搜索集训队"
+    ]
+  },
+  {
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "preofficer-diary-1960-03-07-return-billiard-room-with-liu-ruifu-observes-ponytail-blush-and-talks-with-shooting-officer-about-liu-ruifu-literary-quality"
+    ],
+    "id": "preofficer-diary-1960-03-11-plays-billiards-with-erzhao-fifteen-minutes-and-xiao-says-he-likes-ponytails",
+    "date": "1960-03-11",
+    "displayDate": "1960年3月11日星期五晚间弹子",
+    "title": "李敖与尔昭打一刻钟弹子，萧说他真的喜欢马尾巴",
+    "summary": "3月11日，李敖与尔昭打了一刻钟弹子。萧说李敖真的喜欢马尾巴；李敖记录自己当时看呆了。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "014.双枪少尉集·1960年3月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/014.双枪少尉集·1960年3月.txt",
+      "line": 193,
+      "note": "与尔昭打了一刻钟弹子；萧说李敖真的喜欢马尾巴，李敖记录自己看呆。"
+    },
+    "view": [
+      "军旅线",
+      "日常线",
+      "交游线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年3月",
+      "3月11日",
+      "尔昭",
+      "弹子",
+      "一刻钟",
+      "萧",
+      "马尾巴"
+    ],
+    "people": [
+      "李敖",
+      "尔昭",
+      "萧"
+    ],
+    "places": [
+      "搜索集训队"
+    ]
+  },
+  {
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记",
+      "小猴情人潘毓刚寿诗"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "li-ao-love-poems-1960-03-12-writes-pan-yugang-birthday-poem"
+    ],
+    "id": "preofficer-diary-1960-03-11-pan-yugang-birthday-li-prepares-to-write-comic-birthday-poem",
+    "date": "1960-03-11",
+    "displayDate": "1960年3月11日星期五阴历十四潘毓刚生日",
+    "title": "阴历十四为潘毓刚生日，李敖准备写一首“歪诗”祝贺",
+    "summary": "3月11日正是阴历十四、潘毓刚生日。李敖在日记中称潘毓刚为可敬的小学者、可爱的小孩子，又说他修养好、素质好，是难得的小科学家；当天他决定高高兴兴写一首“歪诗”祝贺。此条作为3月12日《小猴情人潘毓刚寿诗》的前置动作入库。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "014.双枪少尉集·1960年3月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/014.双枪少尉集·1960年3月.txt",
+      "line": 195,
+      "note": "阴历十四为潘毓刚生日；李敖称其可敬、可爱、修养好、素质好，是难得的小科学家；决定高高兴兴写一首歪诗祝贺。原文月下私人感受按约束不单独入库。"
+    },
+    "view": [
+      "交游线",
+      "写作线",
+      "军旅线",
+      "日常线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年3月",
+      "3月11日",
+      "阴历十四",
+      "潘毓刚",
+      "生日",
+      "小学者",
+      "小科学家",
+      "歪诗",
+      "寿诗"
+    ],
+    "people": [
+      "李敖",
+      "潘毓刚"
+    ],
+    "places": [
+      "搜索集训队"
+    ]
+  },
+  {
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记",
+      "小猴情人潘毓刚寿诗"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "li-ao-love-poems-1960-03-12-writes-pan-yugang-birthday-poem",
+      "preofficer-diary-1960-03-11-pan-yugang-birthday-li-prepares-to-write-comic-birthday-poem",
+      "preofficer-diary-1960-02-28-visits-zhizheng-absent-yugang-home-likes-nephew-pan-puru-gets-photo"
+    ],
+    "id": "preofficer-diary-1960-03-12-diary-copies-pan-yugang-birthday-poem-with-fourteen-notes",
+    "date": "1960-03-12",
+    "displayDate": "1960年3月12日星期六寿诗正文及注释",
+    "title": "李敖在日记中抄录《小猴情人潘毓刚寿诗》正文及十四条注释，并署“李排长敖 敬撰”",
+    "summary": "3月12日，李敖在日记中抄录《小猴情人潘毓刚寿诗》正文及十四条注释，末尾署“李排长敖 敬撰 1960年3月12日”。正文以潘毓刚生日为中心，写“客家多美人”“但是科学家，那就很难找”、认识潘毓刚、祝他永不老、抿嘴常笑，并以赴美、实验室、“明尼苏达”、化合、潘璞儒打高尔夫球等作玩笑祝语。注释补出小玄、潘毓刚妹妹、同性恋为戏辞、台大时未相识、抿嘴笑、脱衣睡、Anti-bath、刮胡膏、吃饭、陈教官 sweet heart、サリ词汇、化合 pun、小璞儒高尔夫球等文本背景；本条只按诗文与注释记录处理，不逐句拆为现实事件。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "014.双枪少尉集·1960年3月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/014.双枪少尉集·1960年3月.txt",
+      "line": 199,
+      "note": "日记抄录《小猴情人潘毓刚寿诗》正文及十四条注释；末署“李排长敖 敬撰 1960年3月12日”。注释涉及小玄、潘毓刚妹妹、同性恋为戏辞、台大时未相识、抿嘴笑、脱衣睡、Anti-bath、刮胡膏、吃饭、陈教官sweet heart、サリ词汇、化合pun、小璞儒高尔夫球等，均按诗注文本处理。"
+    },
+    "additionalSources": [
+      {
+        "book": "一个预备军官的日记",
+        "chapter": "014.双枪少尉集·1960年3月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/014.双枪少尉集·1960年3月.txt",
+        "line": 273,
+        "note": "寿诗末尾署“李排长敖 敬撰 1960年3月12日”。"
+      },
+      {
+        "book": "一个预备军官的日记",
+        "chapter": "014.双枪少尉集·1960年3月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/014.双枪少尉集·1960年3月.txt",
+        "line": 275,
+        "note": "注释①至③：小玄、潘毓刚妹妹、“春眠不觉晓”的戏改。"
+      },
+      {
+        "book": "一个预备军官的日记",
+        "chapter": "014.双枪少尉集·1960年3月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/014.双枪少尉集·1960年3月.txt",
+        "line": 281,
+        "note": "注释④说明同性恋语为戏辞，并提到《坚瓠集》、闽广两越、sexual inversion。"
+      },
+      {
+        "book": "一个预备军官的日记",
+        "chapter": "014.双枪少尉集·1960年3月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/014.双枪少尉集·1960年3月.txt",
+        "line": 283,
+        "note": "注释⑤记台大时期未相识。"
+      },
+      {
+        "book": "一个预备军官的日记",
+        "chapter": "014.双枪少尉集·1960年3月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/014.双枪少尉集·1960年3月.txt",
+        "line": 285,
+        "note": "注释⑥写潘毓刚抿嘴笑。"
+      },
+      {
+        "book": "一个预备军官的日记",
+        "chapter": "014.双枪少尉集·1960年3月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/014.双枪少尉集·1960年3月.txt",
+        "line": 287,
+        "note": "注释⑦⑧谈脱衣睡、玛丽莲·梦露、战区和衣而卧，以及Anti-bath论。"
+      },
+      {
+        "book": "一个预备军官的日记",
+        "chapter": "014.双枪少尉集·1960年3月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/014.双枪少尉集·1960年3月.txt",
+        "line": 291,
+        "note": "注释⑨⑩谈刮胡膏和吃饭。"
+      },
+      {
+        "book": "一个预备军官的日记",
+        "chapter": "014.双枪少尉集·1960年3月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/014.双枪少尉集·1960年3月.txt",
+        "line": 295,
+        "note": "注释(11)谈陈教官sweet heart与酸咸之喻。"
+      },
+      {
+        "book": "一个预备军官的日记",
+        "chapter": "014.双枪少尉集·1960年3月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/014.双枪少尉集·1960年3月.txt",
+        "line": 297,
+        "note": "注释(12)提到サリ词汇。"
+      },
+      {
+        "book": "一个预备军官的日记",
+        "chapter": "014.双枪少尉集·1960年3月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/014.双枪少尉集·1960年3月.txt",
+        "line": 299,
+        "note": "注释(13)说明借用“化合”这个化学名词，有pun意味。"
+      },
+      {
+        "book": "一个预备军官的日记",
+        "chapter": "014.双枪少尉集·1960年3月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/014.双枪少尉集·1960年3月.txt",
+        "line": 301,
+        "note": "注释(14)提到小璞儒打高尔夫球。"
+      }
+    ],
+    "view": [
+      "写作线",
+      "诗文线",
+      "交游线",
+      "军旅线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年3月",
+      "3月12日",
+      "小猴情人潘毓刚寿诗",
+      "潘毓刚",
+      "寿诗",
+      "李排长敖",
+      "十四条注释",
+      "小玄",
+      "潘毓刚妹妹",
+      "同性恋戏辞",
+      "坚瓠集",
+      "sexual inversion",
+      "Anti-bath",
+      "刮胡膏",
+      "陈教官",
+      "sweet heart",
+      "サリ",
+      "化合pun",
+      "明尼苏达",
+      "潘璞儒",
+      "高尔夫球"
+    ],
+    "people": [
+      "李敖",
+      "潘毓刚",
+      "小玄",
+      "潘毓刚妹妹",
+      "褚人获",
+      "玛丽莲·梦露",
+      "陈教官",
+      "潘璞儒"
+    ],
+    "places": [
+      "搜索集训队",
+      "美国",
+      "明尼苏达"
+    ]
+  },
+  {
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "diary",
+    "crossReferences": [],
+    "id": "preofficer-diary-1960-03-12-finishes-six-page-letter-to-xinhan-and-postcards-to-huajun-yingshan-zhuangyin-yaozu",
+    "date": "1960-03-12",
+    "displayDate": "1960年3月12日星期六书信与明信片",
+    "title": "李敖给景新汉六页信杀青，并另给华俊、英善、庄因、耀祖各一片",
+    "summary": "3月12日，李敖给景新汉的六页信杀青，又给华俊、英善、庄因、耀祖各写一张片。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "014.双枪少尉集·1960年3月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/014.双枪少尉集·1960年3月.txt",
+      "line": 303,
+      "note": "给新汉六页信杀青，另给华俊、英善、庄因、耀祖各一片。"
+    },
+    "view": [
+      "书信线",
+      "交游线",
+      "军旅线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年3月",
+      "3月12日",
+      "景新汉",
+      "六页信",
+      "杀青",
+      "华俊",
+      "英善",
+      "庄因",
+      "耀祖",
+      "明信片"
+    ],
+    "people": [
+      "李敖",
+      "景新汉",
+      "华俊",
+      "英善",
+      "庄因",
+      "耀祖"
+    ],
+    "places": [
+      "搜索集训队"
+    ]
+  },
+  {
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "diary",
+    "crossReferences": [],
+    "id": "preofficer-diary-1960-03-12-records-three-uses-of-mosquito-net-flies-mosquitoes-and-odor",
+    "date": "1960-03-12",
+    "displayDate": "1960年3月12日星期六蚊帐三用",
+    "title": "李敖记录蚊帐三用：白天挡苍蝇、夜间挡蚊子、日夜在心理上挡臭气",
+    "summary": "3月12日，李敖记录“三用蚊帐”：白天可挡苍蝇，夜间可挡蚊子，日夜还可在心理上挡臭气。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "014.双枪少尉集·1960年3月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/014.双枪少尉集·1960年3月.txt",
+      "line": 305,
+      "note": "三用蚊帐：挡苍蝇（日）、蚊子（夜）、臭气（日夜，心理上）。"
+    },
+    "view": [
+      "军旅线",
+      "日常线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年3月",
+      "3月12日",
+      "蚊帐",
+      "三用蚊帐",
+      "苍蝇",
+      "蚊子",
+      "臭气"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "搜索集训队"
+    ]
+  },
+  {
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "diary",
+    "crossReferences": [],
+    "id": "preofficer-diary-1960-03-12-records-daily-hygiene-early-rising-no-face-wash-and-noon-tooth-brushing",
+    "date": "1960-03-12",
+    "displayDate": "1960年3月12日星期六日常卫生",
+    "title": "李敖记录现在每天早起不洗脸，中午才刷牙",
+    "summary": "3月12日，李敖记录自己现在每天早起不洗脸，中午才刷牙。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "014.双枪少尉集·1960年3月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/014.双枪少尉集·1960年3月.txt",
+      "line": 307,
+      "note": "现在每天早起不洗脸，中午才刷牙。"
+    },
+    "view": [
+      "军旅线",
+      "日常线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年3月",
+      "3月12日",
+      "早起",
+      "不洗脸",
+      "中午刷牙",
+      "日常卫生"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "搜索集训队"
+    ]
+  },
+  {
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记",
+      "小猴情人潘毓刚寿诗"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "preofficer-diary-1960-03-11-pan-yugang-birthday-li-prepares-to-write-comic-birthday-poem",
+      "preofficer-diary-1960-03-12-diary-copies-pan-yugang-birthday-poem-with-fourteen-notes",
+      "li-ao-love-poems-1960-03-12-writes-pan-yugang-birthday-poem"
+    ],
+    "id": "preofficer-diary-1960-03-12-afternoon-writes-thirteen-page-long-letter-to-yugang-and-one-page-to-qingmao",
+    "date": "1960-03-12",
+    "displayDate": "1960年3月12日星期六午后书信",
+    "title": "李敖午后一口气写成给潘毓刚的十三页长信，并写给郑清茂一页",
+    "summary": "3月12日午后，李敖一口气写成给潘毓刚的十三页长信，又写给郑清茂一页。此条与前一日潘毓刚生日及同日寿诗文本互作交叉引用。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "014.双枪少尉集·1960年3月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/014.双枪少尉集·1960年3月.txt",
+      "line": 309,
+      "note": "午后一口气写成给毓刚的十三页长信，及写给清茂一页。"
+    },
+    "view": [
+      "书信线",
+      "交游线",
+      "写作线",
+      "军旅线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年3月",
+      "3月12日",
+      "潘毓刚",
+      "十三页长信",
+      "郑清茂",
+      "一页信",
+      "寿诗"
+    ],
+    "people": [
+      "李敖",
+      "潘毓刚",
+      "郑清茂"
+    ],
+    "places": [
+      "搜索集训队"
+    ]
+  },
+  {
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "preofficer-diary-1960-03-07-before-noon-plays-billiards-with-tianzhao-and-platoon-leader-sees-ponytail-girl-and-young-eastern-style-girl",
+      "preofficer-diary-1960-03-07-return-billiard-room-with-liu-ruifu-observes-ponytail-blush-and-talks-with-shooting-officer-about-liu-ruifu-literary-quality",
+      "preofficer-diary-1960-03-11-plays-billiards-with-erzhao-fifteen-minutes-and-xiao-says-he-likes-ponytails"
+    ],
+    "id": "preofficer-diary-1960-03-12-night-goes-with-platoon-leader-hua-and-wang-lin-to-ponytail-table-plays-billiards-with-huang-yuhua-and-spends-nine-yuan",
+    "date": "1960-03-12",
+    "displayDate": "1960年3月12日星期六夜间马尾台",
+    "title": "李敖夜与华排长、王霖去马尾台打撞球，记录黄玉华十七岁、金门人，并花九元",
+    "summary": "3月12日夜，李敖与华排长、王霖去马尾台上打撞球。他记录同伴很能逗，他也随之应和；又细看马尾台女子黄玉华，记其十七岁、金门人疑问、民国三十二年生，前面刘海、后面马尾、有发夹，眉毛、眼睛、小鼻子佳，右眉旁及左眼下有美人痣，笑极美，脸蛋天然红晕。黄玉华后来陪李敖一人打了一阵，还偷看他的照片；李敖又去看小丫头，记录她甚烦、心情不佳。今晚花九元。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "014.双枪少尉集·1960年3月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/014.双枪少尉集·1960年3月.txt",
+      "line": 311,
+      "note": "夜与华排长及王霖去马尾台上打撞球；记录黄玉华十七岁、金门人疑问、民国三十二年生、刘海、马尾、发夹、美人痣、笑、天然红晕，后陪李敖一人打了一阵；又去看小丫头，她甚烦、心情不佳；今晚花九元。"
+    },
+    "view": [
+      "军旅线",
+      "交游线",
+      "日常线",
+      "地方观察线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年3月",
+      "3月12日",
+      "华排长",
+      "王霖",
+      "马尾台",
+      "撞球",
+      "黄玉华",
+      "十七岁",
+      "金门人",
+      "民国三十二年",
+      "刘海",
+      "马尾",
+      "发夹",
+      "美人痣",
+      "天然红晕",
+      "小丫头",
+      "九元"
+    ],
+    "people": [
+      "李敖",
+      "华排长",
+      "王霖",
+      "黄玉华",
+      "小丫头"
+    ],
+    "places": [
+      "马尾台",
+      "搜索集训队"
+    ]
+  },
+  {
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "preofficer-diary-1960-03-10-returns-by-bicycle-bathes-brings-washbasin-and-hears-zhou-yi-say-he-once-caught-man-married-three-days"
+    ],
+    "id": "preofficer-diary-1960-03-12-night-hears-zhou-yi-tell-1946-june-19-rape-story-recorded-as-reported-speech",
+    "date": "1960-03-12",
+    "displayDate": "1960年3月12日星期六夜闻周毅讲述",
+    "title": "李敖夜闻周毅讲述其1946年6月19日强奸事，并将其作为转述材料记下",
+    "summary": "3月12日夜，李敖听周毅讲述其1946年6月19日的强奸事，并记下周毅的粗鄙原话。本条只按李敖夜闻周毅自述的转述材料处理，不扩写为李敖参与事件。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "014.双枪少尉集·1960年3月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/014.双枪少尉集·1960年3月.txt",
+      "line": 313,
+      "note": "夜闻周毅言其1946年6月19日的强奸事，并记其粗鄙原话；按周毅自述/转述材料处理。"
+    },
+    "view": [
+      "军旅线",
+      "谈话线",
+      "社会观察线",
+      "转述线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年3月",
+      "3月12日",
+      "周毅",
+      "1946年6月19日",
+      "强奸事",
+      "转述材料",
+      "粗鄙原话"
+    ],
+    "people": [
+      "李敖",
+      "周毅"
+    ],
+    "places": [
+      "搜索集训队"
+    ]
+  },
+  {
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "preofficer-diary-1960-03-03-night-meets-huang-jinjia-brother-huang-fuchuan-and-they-buy-washbasin-tooth-mug",
+      "preofficer-diary-1960-03-09-deputy-platoon-leader-life-ends-huang-jinjia-brings-order-report-next-morning"
+    ],
+    "id": "preofficer-diary-1960-03-13-after-lunch-huang-jinjia-comes-for-three-forms-and-li-writes-three-autobiographies",
+    "date": "1960-03-13",
+    "displayDate": "1960年3月13日星期日午饭后",
+    "title": "午饭后黄进甲来找李敖填三表，李敖又写自传三份",
+    "summary": "3月13日午饭后，黄进甲来找李敖填三张表；随后李敖又写了三份自传，并记录此事令他很烦。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "014.双枪少尉集·1960年3月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/014.双枪少尉集·1960年3月.txt",
+      "line": 317,
+      "note": "午饭后进甲来，找李敖填三表，后又写自传三份。"
+    },
+    "view": [
+      "军旅线",
+      "职务线",
+      "日常线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年3月",
+      "3月13日",
+      "黄进甲",
+      "三表",
+      "自传三份",
+      "表格"
+    ],
+    "people": [
+      "李敖",
+      "黄进甲"
+    ],
+    "places": [
+      "搜索集训队"
+    ]
+  },
+  {
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "preofficer-diary-1960-03-13-after-lunch-huang-jinjia-comes-for-three-forms-and-li-writes-three-autobiographies"
+    ],
+    "id": "preofficer-diary-1960-03-13-autobiography-ending-records-extroversion-long-gown-taiwan-university-four-eccentrics-zen-verse-and-self-explanation",
+    "date": "1960-03-13",
+    "displayDate": "1960年3月13日星期日自传末段",
+    "title": "李敖在三份自传末段写性外向、好衣长衫、“台大四怪”之魁、禅学偈与自传解嘲",
+    "summary": "3月13日，李敖在日记中摘记自传末段：他称自己性格外向、好开玩笑而不拘恭谨，常有奇思遐想并快语告人；又写自己爱穿长衫，不分寒暑，旁人以“台大四怪”之魁看待他。末段还引昔日治禅学时所得偈语“有情来下种，因地果还生；无情亦无种，无性亦无生”，并以“挂帆沧海、风波茫茫”的意象作为自传与解嘲。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "014.双枪少尉集·1960年3月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/014.双枪少尉集·1960年3月.txt",
+      "line": 319,
+      "note": "自传末段写性外向、好谑而不恭、奇思遐想、好衣长衫、“台大四怪”之魁；又引“有情来下种，因地果还生；无情亦无种，无性亦无生”禅学偈语，并以“挂帆沧海、风波茫茫”作自传与解嘲。"
+    },
+    "additionalSources": [
+      {
+        "book": "一个预备军官的日记",
+        "chapter": "014.双枪少尉集·1960年3月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/014.双枪少尉集·1960年3月.txt",
+        "line": 321,
+        "note": "自传末段引禅学偈语：“有情来下种，因地果还生；无情亦无种，无性亦无生”。"
+      },
+      {
+        "book": "一个预备军官的日记",
+        "chapter": "014.双枪少尉集·1960年3月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/014.双枪少尉集·1960年3月.txt",
+        "line": 325,
+        "note": "自传末段以挂帆沧海、风波茫茫作自传与解嘲。"
+      }
+    ],
+    "view": [
+      "自述线",
+      "军旅线",
+      "文本线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年3月",
+      "3月13日",
+      "自传",
+      "自传末段",
+      "性外向",
+      "长衫",
+      "台大四怪",
+      "禅学",
+      "偈语",
+      "挂帆沧海",
+      "风波茫茫",
+      "解嘲"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "搜索集训队",
+      "台大"
+    ]
+  },
+  {
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "diary",
+    "crossReferences": [],
+    "id": "preofficer-diary-1960-03-13-equipment-inspection-soldiers-busy-officers-rest-and-li-records-officer-flavor",
+    "date": "1960-03-13",
+    "displayDate": "1960年3月13日星期日装备检查",
+    "title": "装备检查时兵忙官休息，李敖记录“官味真不同”",
+    "summary": "3月13日进行装备检查，李敖记录士兵忙碌、军官休息，并说“官味真不同”。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "014.双枪少尉集·1960年3月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/014.双枪少尉集·1960年3月.txt",
+      "line": 327,
+      "note": "今天装备检查，兵忙官休息，官味真不同。"
+    },
+    "view": [
+      "军旅线",
+      "制度线",
+      "日常线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年3月",
+      "3月13日",
+      "装备检查",
+      "兵忙官休息",
+      "官味"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "搜索集训队"
+    ]
+  },
+  {
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "preofficer-diary-1960-03-12-records-daily-hygiene-early-rising-no-face-wash-and-noon-tooth-brushing"
+    ],
+    "id": "preofficer-diary-1960-03-13-automatic-morning-running-for-two-three-days-and-resumes-pushups",
+    "date": "1960-03-13",
+    "displayDate": "1960年3月13日星期日身体训练",
+    "title": "李敖记录两三天来早上自动跑步，并在当天恢复伏地挺身",
+    "summary": "3月13日，李敖记录两三天来早上自动跑步，并在当天恢复做伏地挺身。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "014.双枪少尉集·1960年3月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/014.双枪少尉集·1960年3月.txt",
+      "line": 329,
+      "note": "两三天来早上自动跑步，今天恢复伏地挺身。"
+    },
+    "view": [
+      "军旅线",
+      "身体线",
+      "日常线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年3月",
+      "3月13日",
+      "自动跑步",
+      "早上跑步",
+      "伏地挺身",
+      "身体训练"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "搜索集训队"
+    ]
+  },
+  {
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "preofficer-diary-1960-03-12-night-goes-with-platoon-leader-hua-and-wang-lin-to-ponytail-table-plays-billiards-with-huang-yuhua-and-spends-nine-yuan",
+      "preofficer-diary-1960-03-11-plays-billiards-with-erzhao-fifteen-minutes-and-xiao-says-he-likes-ponytails"
+    ],
+    "id": "preofficer-diary-1960-03-13-evening-with-hua-shiheng-billiard-room-one-hour-cost-seven-yuan-and-decides-quit-billiards-and-smoking",
+    "date": "1960-03-13",
+    "displayDate": "1960年3月13日星期日晚间弹子房",
+    "title": "李敖晚与华士恒去弹子房，本拟二十分钟却打到一小时，花七元，并决定戒弹子、戒烟、多节俭读书",
+    "summary": "3月13日晚，李敖与华士恒去弹子房，本拟打二十分钟，结果一扯又是一小时，花了七元。他记录马尾相关观察，但不将原文私人反应单独入库；随后决定从今晚开始戒弹子及戒烟（除 WC 一支外），并说话算话，要多节俭、多读书。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "014.双枪少尉集·1960年3月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/014.双枪少尉集·1960年3月.txt",
+      "line": 331,
+      "note": "晚与华士恒去弹子房，本拟二十分钟，结果一小时，花七元；记录马尾相关观察；今晚决定开始戒弹子及戒烟（除WC一支外），要多节俭、多读书。原文私人反应按约束不入库。"
+    },
+    "view": [
+      "军旅线",
+      "日常线",
+      "交游线",
+      "自律线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年3月",
+      "3月13日",
+      "华士恒",
+      "弹子房",
+      "二十分钟",
+      "一小时",
+      "七元",
+      "马尾",
+      "戒弹子",
+      "戒烟",
+      "WC",
+      "节俭",
+      "读书"
+    ],
+    "people": [
+      "李敖",
+      "华士恒",
+      "马尾"
+    ],
+    "places": [
+      "弹子房",
+      "搜索集训队"
+    ]
+  },
+  {
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "diary",
+    "crossReferences": [
+      "preofficer-diary-1960-03-10-skips-division-morning-assembly-packs-reports-to-search-training-team-and-meets-pan-buyue-platoon"
+    ],
+    "id": "preofficer-diary-1960-03-13-teaches-english-to-platoon-assistant",
+    "date": "1960-03-13",
+    "displayDate": "1960年3月13日星期日",
+    "title": "李敖教排附英文",
+    "summary": "3月13日，李敖教排附英文。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "014.双枪少尉集·1960年3月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/014.双枪少尉集·1960年3月.txt",
+      "line": 333,
+      "note": "教排附英文。"
+    },
+    "view": [
+      "军旅线",
+      "教学线",
+      "日常线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年3月",
+      "3月13日",
+      "排附",
+      "英文",
+      "教学"
+    ],
+    "people": [
+      "李敖",
+      "排附"
+    ],
+    "places": [
+      "搜索集训队"
     ]
   }
 ]
