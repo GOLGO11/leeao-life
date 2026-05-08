@@ -1352,7 +1352,7 @@
     "displayDate": "1960年3月16日",
     "datePrecision": "day",
     "title": "李敖记录军中参观枪决现场",
-    "summary": "《投笔纪》摘录，1960年3月16日李敖看到军中如何处理暴行事件：师朝会后集体去参观四二炮连上士韩乾忠被枪决现场，形成他对军中暴行和老兵苦闷的观察。",
+    "summary": "《投笔纪》摘录，1960年3月16日李敖看到军中如何处理暴行事件：师朝会后集体去参观四二炮连上士韩乾忠被枪决现场，形成他对军中暴行、枪决现场与埋葬制度的观察。《预备军官日记》原始日记补出韩乾忠案情、丧用鞭炮、1984年附识、丧礼改革及军中埋葬费细节。",
     "view": [
       "军旅线",
       "司法线",
@@ -1380,7 +1380,23 @@
       "chapter": "006.投笔纪",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/006.投笔纪.txt",
       "line": 85
-    }
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-03-16-after-division-assembly-group-visits-42-mortar-company-han-qianzhong-execution-scene",
+      "preofficer-diary-1960-03-16-after-first-two-basic-drill-periods-returns-to-burial-site-sees-shoes-incense-firecrackers",
+      "preofficer-diary-1960-03-16-records-han-qianzhong-june-four-shooting-after-card-game-cigarette-loss-and-failed-treatment",
+      "preofficer-diary-1960-03-16-records-funeral-firecrackers-1984-note-and-funeral-reform",
+      "preofficer-diary-1960-03-16-records-military-burial-costs-for-execution-suicide-illness-and-combat-death"
+    ],
+    "additionalSources": [
+      {
+        "book": "一个预备军官的日记",
+        "chapter": "014.双枪少尉集·1960年3月",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/014.双枪少尉集·1960年3月.txt",
+        "line": 387,
+        "note": "原始日记现场：师朝会后集体参观四二炮连韩乾忠枪决后现场；补出再看埋葬、案情、丧用鞭炮、1984附识及军中埋葬费。"
+      }
+    ]
   },
   {
     "id": "book5-1960-05-02-leaves-search-platoon",
