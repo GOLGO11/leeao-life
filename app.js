@@ -3,12 +3,22 @@ const state = {
   log: [],
   view: "all",
   decade: "all",
+  year: "all",
   query: "",
-  sort: "asc"
+  sort: "asc",
+  renderedLimit: 240,
+  filteredEvents: [],
+  eventIndex: new Map(),
+  decadeCounts: new Map()
 };
 
+const initialRenderLimit = 240;
+const renderBatchSize = 240;
+const searchDebounceMs = 120;
+let searchTimer = 0;
+
 const viewFilter = document.querySelector("#viewFilter");
-const decadeFilter = document.querySelector("#decadeFilter");
+const yearFilter = document.querySelector("#yearFilter");
 const searchInput = document.querySelector("#searchInput");
 const sortOrder = document.querySelector("#sortOrder");
 const timelineList = document.querySelector("#timelineList");
@@ -17,6 +27,7 @@ const eventCount = document.querySelector("#eventCount");
 const rangeLabel = document.querySelector("#rangeLabel");
 const bookCount = document.querySelector("#bookCount");
 const resultLabel = document.querySelector("#resultLabel");
+const loadMore = document.querySelector("#loadMore");
 const dialog = document.querySelector("#eventDialog");
 const dialogBody = document.querySelector("#dialogBody");
 const closeDialog = document.querySelector("#closeDialog");
@@ -87,7 +98,7 @@ const supplementalDataFiles = new Set([
   "./data/timeline-events-fourth-book-deepening.json"
 ]);
 const processedBookCount = dataFiles.filter((file) => !supplementalDataFiles.has(file)).length;
-const dataVersion = "2026-05-09-displaydate-pure-time-preofficer-round150-april28b";
+const dataVersion = "2026-05-09-preofficer-diary-may-1960-round160-may16-may17-year-filter";
 
 const dateFormatter = new Intl.DateTimeFormat("zh-Hant", {
   year: "numeric",
@@ -117,7 +128,7 @@ function yearOf(event) {
 }
 
 function crossReferenceLabel(id) {
-  const linked = state.events.find((event) => event.id === id);
+  const linked = state.eventIndex.get(id);
   if (!linked) {
     return id;
   }
@@ -152,6 +163,10 @@ function unique(items) {
 }
 
 function searchableText(event) {
+  if (event.searchText) {
+    return event.searchText;
+  }
+
   return [
     event.date,
     event.title,
@@ -171,8 +186,13 @@ function filteredEvents() {
   return state.events
     .filter((event) => state.view === "all" || event.view.includes(state.view))
     .filter((event) => state.decade === "all" || decadeOf(event) === state.decade)
+    .filter((event) => state.year === "all" || yearOf(event) === state.year)
     .filter((event) => !query || searchableText(event).includes(query))
     .sort((a, b) => compareEvents(a, b, state.sort));
+}
+
+function resetRenderedLimit() {
+  state.renderedLimit = initialRenderLimit;
 }
 
 function populateFilters() {
@@ -185,13 +205,17 @@ function populateFilters() {
   }
 
   const decades = unique(state.events.map(decadeOf));
-  for (const decade of decades) {
+  const years = unique(state.events.map(yearOf));
+  for (const year of years) {
     const option = document.createElement("option");
-    option.value = decade;
-    option.textContent = `${decade}年代`;
-    decadeFilter.append(option);
+    option.value = year;
+    option.textContent = `${year}年`;
+    yearFilter.append(option);
   }
 
+  for (const decade of decades) {
+    state.decadeCounts.set(decade, state.events.filter((event) => decadeOf(event) === decade).length);
+  }
   renderDecadeNav(decades);
 }
 
@@ -203,20 +227,24 @@ function renderDecadeNav(decades) {
   allButton.className = state.decade === "all" ? "active" : "";
   allButton.addEventListener("click", () => {
     state.decade = "all";
-    decadeFilter.value = "all";
+    state.year = "all";
+    yearFilter.value = "all";
+    resetRenderedLimit();
     render();
   });
   decadeNav.append(allButton);
 
   for (const decade of decades) {
-    const count = state.events.filter((event) => decadeOf(event) === decade).length;
+    const count = state.decadeCounts.get(decade) || 0;
     const button = document.createElement("button");
     button.type = "button";
     button.textContent = `${decade}年代 · ${count}`;
     button.className = state.decade === decade ? "active" : "";
     button.addEventListener("click", () => {
       state.decade = decade;
-      decadeFilter.value = decade;
+      state.year = "all";
+      yearFilter.value = "all";
+      resetRenderedLimit();
       render();
     });
     decadeNav.append(button);
@@ -233,12 +261,15 @@ function renderStats(events) {
   }
   const sorted = [...events].sort((a, b) => a.date.localeCompare(b.date));
   rangeLabel.textContent = `${sorted[0].date.slice(0, 4)}-${sorted.at(-1).date.slice(0, 4)}`;
-  resultLabel.textContent = `当前显示 ${events.length} 条，已载入 ${state.events.length} 条，数据版本 ${dataVersion}`;
+  const shown = Math.min(events.length, state.renderedLimit);
+  resultLabel.textContent = `当前显示 ${shown}/${events.length} 条，已载入 ${state.events.length} 条，数据版本 ${dataVersion}`;
 }
 
 function renderTimeline(events) {
+  const visibleEvents = events.slice(0, state.renderedLimit);
+  const fragment = document.createDocumentFragment();
   timelineList.replaceChildren();
-  for (const event of events) {
+  for (const event of visibleEvents) {
     const item = document.createElement("li");
     item.className = "event";
     item.id = event.id;
@@ -254,8 +285,11 @@ function renderTimeline(events) {
     `;
     button.addEventListener("click", () => openEvent(event));
     item.append(button);
-    timelineList.append(item);
+    fragment.append(item);
   }
+  timelineList.append(fragment);
+  loadMore.hidden = events.length <= state.renderedLimit;
+  loadMore.textContent = `加载更多（余 ${Math.max(events.length - state.renderedLimit, 0)} 条）`;
 }
 
 function openEvent(event) {
@@ -288,6 +322,7 @@ function openEvent(event) {
 
 function render() {
   const events = filteredEvents();
+  state.filteredEvents = events;
   renderStats(events);
   renderTimeline(events);
   renderDecadeNav(unique(state.events.map(decadeOf)));
@@ -295,10 +330,14 @@ function render() {
 
 async function boot() {
   const [eventGroups, logResponse] = await Promise.all([
-    Promise.all(dataFiles.map((file) => fetch(`${file}?v=${dataVersion}`, { cache: "no-store" }).then((response) => response.json()))),
-    fetch(`./data/ingestion-log.json?v=${dataVersion}`, { cache: "no-store" })
+    Promise.all(dataFiles.map((file) => fetch(`${file}?v=${dataVersion}`).then((response) => response.json()))),
+    fetch(`./data/ingestion-log.json?v=${dataVersion}`)
   ]);
   state.events = eventGroups.flat();
+  for (const event of state.events) {
+    event.searchText = searchableText(event);
+  }
+  state.eventIndex = new Map(state.events.map((event) => [event.id, event]));
   state.log = await logResponse.json();
   populateFilters();
   render();
@@ -306,22 +345,34 @@ async function boot() {
 
 viewFilter.addEventListener("change", (event) => {
   state.view = event.target.value;
+  resetRenderedLimit();
   render();
 });
 
-decadeFilter.addEventListener("change", (event) => {
-  state.decade = event.target.value;
+yearFilter.addEventListener("change", (event) => {
+  state.year = event.target.value;
+  state.decade = "all";
+  resetRenderedLimit();
   render();
 });
 
 searchInput.addEventListener("input", (event) => {
   state.query = event.target.value;
-  render();
+  resetRenderedLimit();
+  window.clearTimeout(searchTimer);
+  searchTimer = window.setTimeout(render, searchDebounceMs);
 });
 
 sortOrder.addEventListener("change", (event) => {
   state.sort = event.target.value;
+  resetRenderedLimit();
   render();
+});
+
+loadMore.addEventListener("click", () => {
+  state.renderedLimit += renderBatchSize;
+  renderStats(state.filteredEvents);
+  renderTimeline(state.filteredEvents);
 });
 
 closeDialog.addEventListener("click", () => dialog.close());
