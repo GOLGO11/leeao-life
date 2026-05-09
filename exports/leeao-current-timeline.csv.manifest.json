@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T12:42:08.078Z",
+  "generatedAt": "2026-05-09T13:34:28.515Z",
   "source": "exports/leeao-current-timeline.txt 的同源 JSON 数据",
   "fullCsv": "exports/leeao-current-timeline.csv",
   "partSize": 1000,
@@ -68,7 +68,7 @@
     "data/timeline-events-daxue-houqi-riji-yi.json",
     "data/timeline-events-preofficer-diary.json"
   ],
-  "eventCount": 6080,
+  "eventCount": 6188,
   "columns": [
     "row",
     "year",
