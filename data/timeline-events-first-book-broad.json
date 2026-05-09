@@ -136,7 +136,7 @@
   {
     "id": "1943-summer-taiyuan-return-plan",
     "date": "1943-07-01",
-    "displayDate": "1943年暑假",
+    "displayDate": "1943年夏季",
     "datePrecision": "season",
     "title": "暑假后原拟自太原回北京",
     "summary": "家人原打算在1943年暑假后送李敖、敖弟和六妹回北京，临行前太原局势似有变故，成为姐姐回忆中的紧张片段。",
@@ -171,7 +171,7 @@
   {
     "id": "1945-younger-brother-born",
     "date": "1945-06-11",
-    "displayDate": "1945年阴历五月初二",
+    "displayDate": "1945年6月11日星期一",
     "datePrecision": "lunar-day",
     "title": "弟弟“小八”出生",
     "summary": "姐姐回忆小八生于1945年阴历五月初二寅时，地点在内务部街甲44号正房西南角一间，佣人老吴妈跑去向外祖母道喜。",
@@ -206,7 +206,7 @@
   {
     "id": "1946-leaves-neiwubu-house",
     "date": "1946-01-01",
-    "displayDate": "1946年以后",
+    "displayDate": "1946年后",
     "datePrecision": "year-after",
     "title": "离开内务部街甲44号",
     "summary": "李敖回忆，沈二爷在北平内务部街甲44号的房子租给李家，前后十年，到1946年以后才搬走。",
@@ -240,7 +240,7 @@
   {
     "id": "1948-winter-beijing-tianjin-shanghai",
     "date": "1948-12-01",
-    "displayDate": "1948年冬天",
+    "displayDate": "1948年冬季",
     "datePrecision": "season",
     "title": "从北京经天津赴上海",
     "summary": "李敖与三姐、四姐先由北京到天津，准备搭船去上海，由五叔陪同，在战乱和难民阴影中等船。",
@@ -380,7 +380,7 @@
   {
     "id": "1949-after-arrival-contact-sister",
     "date": "1949-06-01",
-    "displayDate": "1949年到台湾不久",
+    "displayDate": "1949年后",
     "datePrecision": "year-after",
     "title": "初到台湾后找到三姐地址",
     "summary": "家里到台湾不久，通过王遵侨和李慈，找到三妹的台湾地址；姐姐也由此得知初到台湾的李家生活困难。",
@@ -449,7 +449,7 @@
   {
     "id": "1951-summer-high-school-yan-teacher",
     "date": "1951-09-01",
-    "displayDate": "1951年暑假后",
+    "displayDate": "1951年秋季",
     "datePrecision": "season",
     "title": "升入台中一中高一，严侨正式成为李敖数学老师",
     "summary": "1951年暑假后，李敖进入台中一中高一上甲，正好由严侨教数学，师生关系由此正式展开。",
@@ -550,7 +550,7 @@
   {
     "id": "1954-enter-ntu-law",
     "date": "1954-09-01",
-    "displayDate": "1954年暑假",
+    "displayDate": "1954年秋季",
     "datePrecision": "season",
     "title": "以同等学力考进台大法律系司法组",
     "summary": "李敖1954年暑假以同等学力资格考进台湾大学法律系司法组，读了不到一年又自动休学。",
@@ -651,7 +651,7 @@
   {
     "id": "1957-03-01-hu-shih-wencun",
     "date": "1957-03-01",
-    "displayDate": "1957年3月1日",
+    "displayDate": "1957年3月1日星期五",
     "datePrecision": "day",
     "title": "发表《从读〈胡适文存〉说起》",
     "summary": "李敖大二时在《自由中国》第十六卷第五期发表中学旧作《从读〈胡适文存〉说起》，引起海外胡适和台湾北大系教授侧目。",
@@ -787,7 +787,7 @@
   {
     "id": "1961-summer-graduate-school",
     "date": "1961-07-01",
-    "displayDate": "1961年夏天",
+    "displayDate": "1961年夏季",
     "datePrecision": "season",
     "title": "退伍后考入研究所",
     "summary": "李敖写到自己1961年退伍回来，夏天考入研究所，冬天投稿《文星》。",
@@ -819,7 +819,7 @@
   {
     "id": "1961-winter-submits-wenxing",
     "date": "1961-12-01",
-    "displayDate": "1961年冬天",
+    "displayDate": "1961年冬季",
     "datePrecision": "season",
     "title": "向《文星》投稿《老年人和棒子》",
     "summary": "李敖退伍后冬天投稿《文星》，稿件为《老年人和棒子》；陈立峰倾倒于他，并介绍萧孟能认识他。",
@@ -1071,7 +1071,7 @@
   {
     "id": "1968-1969-selling-appliances-books",
     "date": "1968-01-01",
-    "displayDate": "1968-1969年",
+    "displayDate": "1968年前后",
     "datePrecision": "year-range",
     "title": "靠贩卖旧电器与古书维生",
     "summary": "李敖写到1968、1969年只能靠贩卖旧电器维生，也卖《古今图书集成》等古书，并动用姚从吾等旧关系。",
@@ -1140,7 +1140,7 @@
   {
     "id": "1972-08-16-yu-changcheng-released",
     "date": "1972-08-16",
-    "displayDate": "1972年8月16日",
+    "displayDate": "1972年8月16日星期三",
     "datePrecision": "day",
     "title": "于长城“感化”期满开释",
     "summary": "李敖批判感化教育时写到，于长城1972年8月16日“感化”期满，国民党次日大力宣传其感激政府照顾。",
@@ -1174,7 +1174,7 @@
   {
     "id": "1973-06-02-yu-changcheng-un",
     "date": "1973-06-02",
-    "displayDate": "1973年6月2日",
+    "displayDate": "1973年6月2日星期六",
     "datePrecision": "day",
     "title": "中央社报道于长城加入中共驻联合国代表团工作",
     "summary": "李敖引用1973年6月2日中央社马尼拉专电，称于长城赴美不久即加入中共驻联合国代表团工作，国民党感化教育再告失败。",
@@ -1209,7 +1209,7 @@
   {
     "id": "1976-mid-sisters-learn-li-ao",
     "date": "1976-07-01",
-    "displayDate": "1976年年中",
+    "displayDate": "1976年夏季",
     "datePrecision": "season",
     "title": "失散姐姐得知李敖在台湾风浪中的事迹",
     "summary": "姐姐回忆，直到1976年年中三妹首次从美国到大陆寻找两位姐姐，她们才得知家中每个人下落，也听说李敖在风浪中争斗成长。",
@@ -1277,7 +1277,7 @@
   {
     "id": "1979-06-du-bai-xia-de-chuan-tong-first-comeback-book",
     "date": "1979-06-30",
-    "displayDate": "1979年6月（复出后的第一本书）",
+    "displayDate": "1979年6月",
     "datePrecision": "month",
     "title": "复出后以《独白下的传统》作为第一本新书亮相",
     "summary": "《被封杀的“人民公敌”》在“复出”一节明说，李敖复出后的第一本书就是《独白下的传统》；他同时强调这只是“书名翻身，不是他”，说明复出一开始就伴随持续封杀与有限松动。",
@@ -1421,7 +1421,7 @@
   {
     "id": "1984-03-08-police-memory-written",
     "date": "1984-03-08",
-    "displayDate": "1984年3月8日",
+    "displayDate": "1984年3月8日星期四",
     "datePrecision": "day",
     "title": "写定《我最难忘的一个警察》",
     "summary": "《我最难忘的一个警察》文末署1984年3月8日晨，回忆软禁期间跟监警察撞车与赔偿往事。",
@@ -1453,7 +1453,7 @@
   {
     "id": "1992-end-family-reunion-taipei",
     "date": "1992-12-01",
-    "displayDate": "1992年年底",
+    "displayDate": "1992年冬季",
     "datePrecision": "season",
     "title": "分别44年后全家第一次大团圆",
     "summary": "姐姐回忆，1992年年底李敖花大笔开销，请大姐和二姐两对夫妻、在美国的四位妹妹及加拿大的小八弟共同聚在台北，完成分别44年后的全家大团圆。",
@@ -1489,7 +1489,7 @@
   {
     "id": "1995-03-05-art-auction",
     "date": "1995-03-05",
-    "displayDate": "1995年3月5日",
+    "displayDate": "1995年3月5日星期日",
     "datePrecision": "day",
     "title": "传家艺术公司举行李敖珍藏精品拍卖会",
     "summary": "姐姐回忆，1995年3月5日传家艺术公司为章孝慈募集医疗费举行李敖珍藏精品拍卖会，她在现场看到李敖半主持拍卖，谈笑介绍藏品。",
@@ -1631,7 +1631,7 @@
   {
     "id": "1947-04-16-ma-zhanshan-returns-northeast",
     "date": "1947-04-16",
-    "displayDate": "1947年4月16日",
+    "displayDate": "1947年4月16日星期三",
     "datePrecision": "day",
     "title": "马占山万里荣归东北",
     "summary": "李敖追述马占山将军在1947年4月16日回到东北，群众到车站欢迎并高呼万岁；这段叙述连接到李敖童年所见的抗日人物网络。",
@@ -1664,7 +1664,7 @@
   {
     "id": "1947-09-02-yan-hu-letter-to-yan-xi",
     "date": "1947-09-02",
-    "displayDate": "1947年9月2日",
+    "displayDate": "1947年9月2日星期二",
     "datePrecision": "day",
     "title": "严琥致严僖信中批评迷信佛教",
     "summary": "李敖在回忆严侨晚年信佛时引用严侨父亲严琥1947年9月2日给严僖的信，以对照严侨后来“信了邪教”的精神转向。",
@@ -1700,7 +1700,7 @@
   {
     "id": "1977-mid-sister-meets-third-sister",
     "date": "1977-07-01",
-    "displayDate": "1977年年中",
+    "displayDate": "1977年夏季",
     "datePrecision": "season",
     "title": "二姐在病床上见到赴大陆寻亲的三妹",
     "summary": "姐姐回忆，从1949年底到1977年年中杳无消息二十九年后，她见到从美国到大陆寻亲的三妹；这条线索补足李家两岸离散后的重逢进程。",

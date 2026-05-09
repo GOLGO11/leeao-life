@@ -2,7 +2,7 @@
   {
     "id": "martyr-73-1961-about-collects-mo-jipeng-calligraphy-and-conceives-novel",
     "date": "1961-04-30",
-    "displayDate": "约1961年（2011年三四之月回忆“五十年前”）",
+    "displayDate": "约1961年",
     "datePrecision": "year-about",
     "title": "李敖收集到莫纪彭墨迹，开始注意这位黄花岗劫后余生者并想写《第73烈士》",
     "summary": "《〈第73烈士〉志缘》写，五十年前李敖收集到莫纪彭的墨迹，从此注意到这位黄花岗上劫后余生的老先生，并想写这本小说；他在 2011 年回顾，这部小说从酝酿到完工正好半世纪。此条只采附录中的作者现实创作因缘，不把小说正文中的林光烈、莫纪彭、王宇等剧情入表。",
@@ -48,15 +48,34 @@
   {
     "id": "martyr-73-2011-before-mar-03-li-shike-event-shapes-composite-plot",
     "date": "2011-03-02",
-    "displayDate": "2011年3月3日前（《第73烈士》构思定型期；具体日期不详）",
+    "displayDate": "约2011年3月2日星期三",
     "datePrecision": "undated-context",
     "title": "李敖因李师科事件形成合并《第73烈士》小说情节的构想",
     "summary": "《〈第73烈士〉志缘》写，李师科事件引起李敖“合并小说情节的构想”。此条只记录附录中李敖自述的现实创作构思，不把正文里的李师科、林光烈、王宇等剧情当作现实事件；因原文未给构思发生日期，暂以上交完稿前的构思定型期作约略锚点。",
-    "view": ["写作线", "取材线", "史识线"],
-    "tags": ["第73烈士", "李师科", "小说构思", "情节合并", "待校日", "2011"],
-    "people": ["李敖", "李师科"],
-    "places": ["台北"],
-    "works": ["第73烈士", "《第73烈士》志缘"],
+    "view": [
+      "写作线",
+      "取材线",
+      "史识线"
+    ],
+    "tags": [
+      "第73烈士",
+      "李师科",
+      "小说构思",
+      "情节合并",
+      "待校日",
+      "2011"
+    ],
+    "people": [
+      "李敖",
+      "李师科"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "第73烈士",
+      "《第73烈士》志缘"
+    ],
     "certainty": "reported-by-author",
     "crossReferences": [
       "martyr-73-1961-about-collects-mo-jipeng-calligraphy-and-conceives-novel",

@@ -20404,5 +20404,562 @@
       "version": "2026-05-09-preofficer-diary-april-1960-round140-april23",
       "ok": true
     }
+  },
+  {
+    "iteration": 491,
+    "book": "一个预备军官的日记",
+    "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+    "round": "round141-april-1960-lines-765-771-april-24a",
+    "source": {
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "lineStart": 765,
+      "lineEnd": 771
+    },
+    "addedEventIds": [
+      "preofficer-diary-1960-04-24-morning-leave-goes-to-tainan-under-pretext-of-borrowing-teaching-chart-and-hides-in-shop-to-avoid-deputy-commander-ban",
+      "preofficer-diary-1960-04-24-lunches-at-wu-chaoshou-with-shanpei-huajun-minglin-and-watches-money-women-and-guns",
+      "preofficer-diary-1960-04-24-after-three-returns-first-and-records-rule-to-reduce-worldly-socializing-and-train-solitude-endurance",
+      "preofficer-diary-1960-04-24-night-reads-swinburne-garden-of-proserpine-and-likes-two-lines"
+    ],
+    "addedCount": 4,
+    "notes": [
+      "本轮处理1960年4月24日前半，line 765-771，至夜读Swinburne诗句止，未越入清茂二信及附信正文。",
+      "晨假赴步校借教科图之名去台南，副师长抓人不许外出，李敖躲在小店中得免，按出行与军中管制入库。",
+      "吴抄手午饭和《金钱女人与枪》观影合并为一条，保留善培、华俊、明琳同行和场内嘈乱闷热。",
+      "3时后先归与交游反省写成“减少世俗交游、锻炼忍耐寂寞能力的行动准则”，不保留原文“我想/真能”等触发式表达。",
+      "夜读Algernon C. Swinburne诗句按英文诗阅读事件入库，并注明原文人名、题名作Swinbums、Proserpins。"
+    ],
+    "nextRecommendation": "下一轮建议进入“归见清茂二信”第一封限时信（lines 773-795）：先建一条“李敖归来见清茂二信，其中一封限时信并附录于日记”的框架事件；随后只收信中直接关涉李敖的内容，如清茂说久未收到李敖来信、问候李排长；清茂谈李敖生日礼物，拟送《元杂剧研究》并请李敖回信告知寄送地址；清茂说李敖教“地雷与爆破”的消息传到干校，朋友称李敖大胆并问是否示范；清茂遥祝李敖生日、提及张丽珍梦里情人等。信中小侯、北投生活、高雄回忆、毓刚近况等第三方或清茂私人段落要谨慎，只保留与李敖直接相关的问候、礼物、地址、教学评价和生日祝词；所有内容写成“清茂信中说/问/祝”，不要写成李敖事实。",
+    "validation": {
+      "checkedAt": "2026-05-09T05:46:40.649Z",
+      "allEventCount": 5922,
+      "manifestEventCount": 5922,
+      "preofficerCount": 1459,
+      "currentRound": "preofficer-diary-round141-april-1960-lines-765-771-april-24a",
+      "currentRoundEvents": 4,
+      "duplicateIds": 0,
+      "badCrossRefTypes": 0,
+      "danglingCrossRefs": 0,
+      "danglingCrossRefExamples": [],
+      "sourceMissing": 0,
+      "roundTriggerSuspects": [],
+      "datesCovered": [
+        "1960-04-24"
+      ],
+      "txtHasAllRoundIds": true,
+      "csvHasAllRoundIds": true,
+      "txtHasAllKeyWords": true,
+      "csvHasAllKeyWords": true,
+      "missingTxtKeywords": [],
+      "missingCsvKeywords": [],
+      "sponsorNamesText": true,
+      "localImage": true,
+      "faviconSakuraFixed": true,
+      "version": "2026-05-09-preofficer-diary-april-1960-round141-april24a",
+      "ok": true
+    }
+  },
+  {
+    "iteration": 492,
+    "book": "一个预备军官的日记",
+    "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+    "round": "round142-april-1960-lines-773-795-april-24b-qingmao-letter",
+    "source": {
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "lineStart": 773,
+      "lineEnd": 795
+    },
+    "addedEventIds": [
+      "preofficer-diary-1960-04-24-returns-and-finds-two-qingmao-letters-then-appends-express-letter",
+      "preofficer-diary-1960-04-24-qingmao-express-letter-says-waited-for-li-letter-and-greets-li-platoon-leader",
+      "preofficer-diary-1960-04-24-qingmao-letter-offers-yuan-zaju-yanjiu-birthday-gift-and-asks-li-for-mailing-address",
+      "preofficer-diary-1960-04-24-qingmao-letter-asks-about-li-teaching-landmines-and-demolition-and-whether-demonstrates",
+      "preofficer-diary-1960-04-24-qingmao-letter-wishes-li-twenty-fifth-birthday-and-jokes-about-zhang-lizhen"
+    ],
+    "addedCount": 5,
+    "notes": [
+      "本轮处理1960年4月24日归见清茂二信与第一封限时信正文，line 773-795。",
+      "按照用户提醒，本轮重心放在李敖做了什么：李敖归来见到清茂二信、把限时信附入日记；信中只收与李敖直接相关的问候、生日礼物、寄送地址、地雷与爆破教学评价、生日祝词。",
+      "清茂自己的干校生活、小侯近况、北投和高雄回忆、毓刚在金门近况等旁人段落未拆为事件。",
+      "来信内容均写作“清茂限时信中说/问/预祝”，并标注 certainty 为 quoted-letter；未将清茂转述内容写成李敖亲历事实。",
+      "避开“李敖想/我想”等触发式表述，原信中涉及思量礼物的句子改写为准备生日礼物与请李敖告知地址。"
+    ],
+    "nextRecommendation": "下一轮建议进入清茂第二封来信或4月24日后续可见材料（从line 797起继续）：先确认第二封信是否仍直接围绕李敖；若是，则只收“李敖收到/保存清茂第二信”及信中直接向李敖说明、询问、评价李敖的内容。凡属于清茂自己生活、旁人近况、回忆铺陈的段落继续从严跳过或合并为来信背景，不拆成独立事件。若下一段已转入4月25日，则优先挖李敖生日当天的行程、收信、授课、读写、会面等实际行动。",
+    "validation": {
+      "checkedAt": "2026-05-09T05:57:50.853Z",
+      "allEventCount": 5927,
+      "manifestEventCount": 5927,
+      "preofficerCount": 1464,
+      "currentRound": "preofficer-diary-round142-april-1960-lines-773-795-april-24b-qingmao-letter",
+      "currentRoundEvents": 5,
+      "duplicateIds": 0,
+      "badCrossRefTypes": 0,
+      "danglingCrossRefs": 0,
+      "danglingCrossRefExamples": [],
+      "sourceMissing": 0,
+      "roundTriggerSuspects": [],
+      "datesCovered": [
+        "1960-04-24"
+      ],
+      "txtHasAllRoundIds": true,
+      "csvHasAllRoundIds": true,
+      "txtHasAllKeyWords": true,
+      "csvHasAllKeyWords": true,
+      "missingTxtKeywords": [],
+      "missingCsvKeywords": [],
+      "sponsorNamesText": true,
+      "localImage": true,
+      "faviconSakuraFixed": true,
+      "version": "2026-05-09-preofficer-diary-april-1960-round142-april24b-qingmao-letter",
+      "ok": true
+    }
+  },
+  {
+    "iteration": 493,
+    "book": "一个预备军官的日记",
+    "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+    "round": "round143-april-1960-lines-797-811-april24c-april25a",
+    "source": {
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "lineStart": 797,
+      "lineEnd": 811
+    },
+    "addedEventIds": [
+      "preofficer-diary-1960-04-24-erlin-postcard-says-li-too-cruel-to-yugang-for-too-few-letters",
+      "preofficer-diary-1960-04-24-receives-postcard-from-hongjun",
+      "preofficer-diary-1960-04-24-minglin-talks-about-us-embassy-exam-and-teases-li-laughing",
+      "preofficer-diary-1960-04-25-twenty-fifth-birthday-records-heading",
+      "preofficer-diary-1960-04-25-jingchang-erzhao-wujie-minghong-shusheng-all-say-li-will-lecture-well",
+      "preofficer-diary-1960-04-25-jingchang-says-platoon-leader-jia-called-li-strangest-person-in-world",
+      "preofficer-diary-1960-04-25-afternoon-bathes-but-still-sweats-heavily",
+      "preofficer-diary-1960-04-25-first-lecture-sweats-heavily-uses-present-people-as-examples-and-explains-weak-points"
+    ],
+    "addedCount": 8,
+    "notes": [
+      "本轮处理1960年4月24日尾声至4月25日生日与首次讲课开头，line 797-811。",
+      "4月24日尾声收尔琳来片、鸿骏来片、明琳谈美大使馆考试并调侃李敖；均以李敖收到/听到为主，不扩写旁人生活。",
+      "4月25日收生日题头、众人预判李敖讲课佳、贾排长经镜昌转述评价李敖、午后洗浴、李敖生平第一次讲课。",
+      "首次讲课事件保留大量出汗、口才自评、穿插曹梓华京戏和曾福高地雷知识、两项讲不好原因等事实细节；未保留“想不到”“真喜欢”等心理式触发语。",
+      "尔琳来片后半的“甚念小潘”等情感自述未单独入库，以免偏离用户要求的李敖行动重心。"
+    ],
+    "nextRecommendation": "下一轮建议进入马戈来函及李敖夜间回信（line 813-835）：先建“李敖收到马戈来函并附入日记”的框架事件；信中只收直接指向李敖的内容，如马戈说李敖在军中大概忙、苦、孤独但善于交游，勉励他正面坚强；马戈听庄因说李敖打算参加出国考试并表示赞成、询问经费并建议可进中研院；马戈随信寄五十元给李敖；另收信箱写错7750被退回、4月22日再寄这一封信的邮递事实。最后收4月25日夜李敖写成六页长信回复马戈，并另给老太太一封限时信。信中宏祥自己的修养、圣洁罪恶、文化大河等长篇自述不拆成事件，只作为来信背景。",
+    "validation": {
+      "checkedAt": "2026-05-09T06:02:10.875Z",
+      "allEventCount": 5935,
+      "manifestEventCount": 5935,
+      "preofficerCount": 1472,
+      "currentRound": "preofficer-diary-round143-april-1960-lines-797-811-april24c-april25a",
+      "currentRoundEvents": 8,
+      "duplicateIds": 0,
+      "badCrossRefTypes": 0,
+      "danglingCrossRefs": 0,
+      "danglingCrossRefExamples": [],
+      "sourceMissing": 0,
+      "roundTriggerSuspects": [],
+      "datesCovered": [
+        "1960-04-24",
+        "1960-04-25"
+      ],
+      "txtHasAllRoundIds": true,
+      "csvHasAllRoundIds": true,
+      "txtHasAllKeyWords": true,
+      "csvHasAllKeyWords": true,
+      "missingTxtKeywords": [],
+      "missingCsvKeywords": [],
+      "sponsorNamesText": true,
+      "localImage": true,
+      "faviconSakuraFixed": true,
+      "version": "2026-05-09-preofficer-diary-april-1960-round143-april24c-april25a",
+      "ok": true
+    }
+  },
+  {
+    "iteration": 494,
+    "book": "一个预备军官的日记",
+    "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+    "round": "round144-april-1960-lines-813-835-mage-letter-and-reply",
+    "source": {
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "lineStart": 813,
+      "lineEnd": 835
+    },
+    "addedEventIds": [
+      "preofficer-diary-1960-04-25-receives-mage-letter-and-appends-it-to-diary",
+      "preofficer-diary-1960-04-25-mage-letter-explains-delay-saying-li-in-army-wants-family-and-friend-letters",
+      "preofficer-diary-1960-04-25-mage-letter-says-li-likely-busy-hard-lonely-but-social-and-urges-strength",
+      "preofficer-diary-1960-04-25-mage-letter-supports-li-overseas-study-exam-asks-funding-and-suggests-academia-sinica",
+      "preofficer-diary-1960-04-25-mage-letter-encloses-fifty-yuan-for-li-pocket-money",
+      "preofficer-diary-1960-04-25-mage-letter-notes-mailbox-7750-error-returned-and-resent-april-22",
+      "preofficer-diary-1960-04-25-night-writes-six-page-long-letter-to-mage-and-express-letter-to-old-lady"
+    ],
+    "addedCount": 7,
+    "notes": [
+      "本轮处理1960年4月25日马戈来函及李敖夜间回信动作，line 813-835。",
+      "以李敖为主轴：李敖收到并附录马戈来函；马戈信中直接谈李敖军中处境、出国考试、经费、中研院去向和五十元零用；记录信箱7750退回后4月22日再寄；李敖夜里写六页长信回马戈，并给老太太限时信。",
+      "马戈信中关于自身圣洁与罪恶、修养、文化大河等长篇自述没有拆为事件。",
+      "来信内容全部标注 quoted-letter，避免写成李敖亲历事实。",
+      "修正一次交叉引用：将3月29日三十元包裹事件改为数据库中现有精确ID，校验后无悬空引用。"
+    ],
+    "nextRecommendation": "下一轮建议进入李敖给马戈六页回信的正文前半（line 837-845及后续可顺读）：重点收李敖在回信中把马戈来函和五十元视为生日贺礼、记自己二十五岁生日在南台孤身“避寿”、早晨无水洗脸后设法弄水洗脸并跑步看晨曦青山；再重点收李敖当天开讲“地雷与诡雷”，上下午各两小时、累得满身大汗、老兵多次鼓掌欢迎“李教官”、四小时中地雷正课不到半小时而多借题发挥，以及听众称别的教官让人睡觉/偷看小说而李敖讲得好。注意这些是李敖回信中自述，写作“李敖在给马戈信中说/记录”；其中自嘲、情绪话只服务事实，不拆心理事件。",
+    "validation": {
+      "checkedAt": "2026-05-09T06:07:22.307Z",
+      "allEventCount": 5942,
+      "manifestEventCount": 5942,
+      "preofficerCount": 1479,
+      "currentRound": "preofficer-diary-round144-april-1960-lines-813-835-mage-letter-and-reply",
+      "currentRoundEvents": 7,
+      "duplicateIds": 0,
+      "badCrossRefTypes": 0,
+      "danglingCrossRefs": 0,
+      "danglingCrossRefExamples": [],
+      "sourceMissing": 0,
+      "roundTriggerSuspects": [],
+      "datesCovered": [
+        "1960-04-25"
+      ],
+      "txtHasAllRoundIds": true,
+      "csvHasAllRoundIds": true,
+      "txtHasAllKeyWords": true,
+      "csvHasAllKeyWords": true,
+      "missingTxtKeywords": [],
+      "missingCsvKeywords": [],
+      "sponsorNamesText": true,
+      "localImage": true,
+      "faviconSakuraFixed": true,
+      "version": "2026-05-09-preofficer-diary-april-1960-round144-mage-letter-reply",
+      "ok": true
+    }
+  },
+  {
+    "iteration": 495,
+    "book": "一个预备军官的日记",
+    "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+    "round": "round145-april-1960-lines-837-869-letter-to-mage-birthday-and-teaching",
+    "source": {
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "lineStart": 837,
+      "lineEnd": 869
+    },
+    "addedEventIds": [
+      "preofficer-diary-1960-04-25-letter-to-mage-treats-letter-and-fifty-yuan-as-birthday-greeting-and-thanks-money",
+      "preofficer-diary-1960-04-25-letter-to-mage-says-birthday-alone-in-south-taiwan-and-morning-gets-water-runs-and-views-dawn",
+      "preofficer-diary-1960-04-25-letter-to-mage-details-landmine-and-booby-trap-lecture-four-hours-applause-digressions-and-level-gap",
+      "preofficer-diary-1960-04-25-letter-to-mage-says-brigade-commander-assigns-twelve-hours-field-fortification-class-after-not-checking-lecture",
+      "preofficer-diary-1960-04-25-letter-to-mage-writes-huanxisha-poem-for-his-own-birthday"
+    ],
+    "addedCount": 5,
+    "notes": [
+      "本轮处理李敖给马戈六页回信正文前半，line 837-869。",
+      "根据用户提醒，来信/回信材料改用合并粒度：本轮只新增5条，避免把每一句来往书信拆成细碎事件。",
+      "合并收录：马戈来函和五十元作为生日贺礼及感谢寄钱、生日晨无水洗脸后跑步看晨曦青山、地雷与诡雷四小时讲课及听众反馈和程度差距、大队长加派十二小时土木作业、写《浣溪沙》自寿。",
+      "地雷与诡雷讲课与上一轮“生平第一次讲课”事件存在同日同事关系，本轮作为回信中的详细展开并交叉引用上一轮事件，避免当作完全独立重复事件。",
+      "继续避开“李敖想/想不到/我想”等触发式心理表述；line 849的讲课困难改写为李敖在信中说明听众程度悬殊。"
+    ],
+    "nextRecommendation": "下一轮建议进入1960年4月26日-5月8日新段开头（line 871起）：先确认4月26日条目范围。若开头仍承接马戈回信或生日尾声，则继续用合并粒度；若进入每日条目，则优先收李敖当天实际行动，如讲课、写信、收信、借还钱、读书、会面、外出、军中任务等。对收到来信不再细拆，除非信中有非常关键且直接改变李敖行动/处境的内容，否则合并为“李敖收到某人来信，信中主要谈X”。",
+    "validation": {
+      "checkedAt": "2026-05-09T06:13:32.867Z",
+      "allEventCount": 5947,
+      "manifestEventCount": 5947,
+      "preofficerCount": 1484,
+      "currentRound": "preofficer-diary-round145-april-1960-lines-837-869-letter-to-mage-birthday-and-teaching",
+      "currentRoundEvents": 5,
+      "duplicateIds": 0,
+      "badCrossRefTypes": 0,
+      "danglingCrossRefs": 0,
+      "danglingCrossRefExamples": [],
+      "sourceMissing": 0,
+      "roundTriggerSuspects": [],
+      "datesCovered": [
+        "1960-04-25"
+      ],
+      "txtHasAllRoundIds": true,
+      "csvHasAllRoundIds": true,
+      "txtHasAllKeyWords": true,
+      "csvHasAllKeyWords": true,
+      "missingTxtKeywords": [],
+      "missingCsvKeywords": [],
+      "sponsorNamesText": true,
+      "localImage": true,
+      "faviconSakuraFixed": true,
+      "version": "2026-05-09-preofficer-diary-april-1960-round145-letter-to-mage-birthday-teaching",
+      "ok": true
+    }
+  },
+  {
+    "iteration": 496,
+    "book": "一个预备军官的日记",
+    "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+    "round": "round146-april-1960-lines-871-893-april26",
+    "source": {
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "lineStart": 871,
+      "lineEnd": 893
+    },
+    "addedEventIds": [
+      "preofficer-diary-1960-04-26-decides-title-in-that-chain-of-hard-struggles-and-writes-forging-poem",
+      "preofficer-diary-1960-04-26-before-noon-teaches-two-more-hours-of-landmines-and-students-ask-for-more-classes",
+      "preofficer-diary-1960-04-26-records-day-as-bitterly-hot"
+    ],
+    "addedCount": 3,
+    "notes": [
+      "本轮处理1960年4月26日短段，line 871-893。",
+      "按用户要求保持李敖行动重心：收李敖定册名、写题诗和自我锤炼宣言；午前继续讲两小时地雷课并获听众要求多上课；记录当天苦热。",
+      "“我要把自己锤炼成一个有力量的人”等自我宣言并入册名与题诗事件，未单独拆成心理事件。",
+      "地雷课事件交叉引用4月25日首次讲课和给马戈信中详述讲课事件，避免重复扩张。"
+    ],
+    "nextRecommendation": "下一轮建议进入4月27日前半（line 895-913，必要时顺读至黄梅莉拟信结束）：收老太爷逝世五周年作为家庭纪念；收清晨师长训全队；收曹梓华谈周毅之跋扈及其老友死于荣誉之家、李敖给该老友信并令焚之；谨慎处理黄梅莉段落，不写“李敖想起”，可写成“李敖未寄黄梅莉信，只在日记中拟出给黄梅莉的信文，并引用 Christina Georgina Rossetti 诗句”，如果后续信文继续到下一页，就顺读完整后再入库。",
+    "validation": {
+      "checkedAt": "2026-05-09T06:19:21.609Z",
+      "allEventCount": 5950,
+      "manifestEventCount": 5950,
+      "preofficerCount": 1487,
+      "currentRound": "preofficer-diary-round146-april-1960-lines-871-893-april26",
+      "currentRoundEvents": 3,
+      "duplicateIds": 0,
+      "badCrossRefTypes": 0,
+      "danglingCrossRefs": 0,
+      "danglingCrossRefExamples": [],
+      "sourceMissing": 0,
+      "roundTriggerSuspects": [],
+      "datesCovered": [
+        "1960-04-26"
+      ],
+      "txtHasAllRoundIds": true,
+      "csvHasAllRoundIds": true,
+      "txtHasAllKeyWords": true,
+      "csvHasAllKeyWords": true,
+      "missingTxtKeywords": [],
+      "missingCsvKeywords": [],
+      "sponsorNamesText": true,
+      "localImage": true,
+      "faviconSakuraFixed": true,
+      "version": "2026-05-09-preofficer-diary-april-1960-round146-april26",
+      "ok": true
+    }
+  },
+  {
+    "iteration": 497,
+    "book": "一个预备军官的日记",
+    "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+    "round": "round147-april-1960-lines-895-925-april27a",
+    "source": {
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "lineStart": 895,
+      "lineEnd": 925
+    },
+    "addedEventIds": [
+      "preofficer-diary-1960-04-27-records-fifth-anniversary-of-grandfathers-death",
+      "preofficer-diary-1960-04-27-morning-division-commander-scolds-whole-team",
+      "preofficer-diary-1960-04-27-cao-zihua-tells-zhou-yizhi-domineering-and-old-friend-death-li-writes-letter-and-orders-burned",
+      "preofficer-diary-1960-04-27-drafts-and-sends-express-letter-to-huang-meili-through-guying-with-rossetti-lines",
+      "preofficer-diary-1960-04-27-evening-receives-youmei-letter-shi-wedding-invitation-and-qingmao-yuan-zaju-birthday-gift"
+    ],
+    "addedCount": 5,
+    "notes": [
+      "本轮处理1960年4月27日前半，line 895-925。",
+      "按用户提醒降低书信拆分粒度：晚接有美信、史大哥喜帖、清茂赠《元杂剧研究》合并为一条收信/收礼事件。",
+      "黄梅莉段落顺读完整后入库为“拟写并寄出限时短信托鼓应代转”一条，未拆诗句、情绪或“我想起”式心理内容。",
+      "收老太爷逝世五周年、晨师长训全队、曹梓华谈周毅之跋扈及老友死讯并给信令焚等李敖记录/行动事件。",
+      "清茂寄《元杂剧研究》与4月24日清茂来信中拟送生日礼物交叉引用。"
+    ],
+    "nextRecommendation": "下一轮建议进入4月27日后半（line 931-947）：毓刚来一信一片并寄照片建议合并为一条，只保留与李敖直接相关的信息，如毓刚寄照片、解释可能有人仍寄旧通讯处、说自己无留学考试灵通消息、把被李敖“扣押”的《爱因斯坦传》送李敖作生日礼物、问李敖是否常给清茂小侯写信；毓刚自己的工作、金门洗澡、镇京通讯处等仅作背景或不入库。另收连长称李敖一天很用功、李敖今晚睡得很晚。",
+    "validation": {
+      "checkedAt": "2026-05-09T06:22:45.993Z",
+      "allEventCount": 5955,
+      "manifestEventCount": 5955,
+      "preofficerCount": 1492,
+      "currentRound": "preofficer-diary-round147-april-1960-lines-895-925-april27a",
+      "currentRoundEvents": 5,
+      "duplicateIds": 0,
+      "badCrossRefTypes": 0,
+      "danglingCrossRefs": 0,
+      "danglingCrossRefExamples": [],
+      "sourceMissing": 0,
+      "roundTriggerSuspects": [],
+      "datesCovered": [
+        "1960-04-27"
+      ],
+      "txtHasAllRoundIds": true,
+      "csvHasAllRoundIds": true,
+      "txtHasAllKeyWords": true,
+      "csvHasAllKeyWords": true,
+      "missingTxtKeywords": [],
+      "missingCsvKeywords": [],
+      "sponsorNamesText": true,
+      "localImage": true,
+      "faviconSakuraFixed": true,
+      "version": "2026-05-09-preofficer-diary-april-1960-round147-april27a",
+      "ok": true
+    }
+  },
+  {
+    "iteration": 498,
+    "book": "一个预备军官的日记",
+    "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+    "round": "round148-april-1960-lines-931-947-april27b",
+    "source": {
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "lineStart": 931,
+      "lineEnd": 947
+    },
+    "addedEventIds": [
+      "preofficer-diary-1960-04-27-receives-yugang-letter-card-photos-and-einstein-biography-birthday-gift",
+      "preofficer-diary-1960-04-27-company-commander-says-li-studies-hard-all-day",
+      "preofficer-diary-1960-04-27-sleeps-very-late-at-night"
+    ],
+    "addedCount": 3,
+    "notes": [
+      "本轮处理1960年4月27日后半，line 931-947。",
+      "落实用户新要求：事件标题尽量简洁，细节放在summary/sourceNote。",
+      "毓刚一信一片、照片和《爱因斯坦传》生日礼物合并为一条，不拆毓刚本人工作、金门浴室、镇京通讯处等旁人细节。",
+      "另收连长称李敖很用功、李敖夜里睡得很晚两条短事件。",
+      "避免使用“我想”等触发式原文，毓刚信中相关句子改写为诗集尚未收到但先致谢。"
+    ],
+    "nextRecommendation": "下一轮建议进入4月28日前半（line 949-965，必要时顺读造像题词结束）：标题继续短。可收：李敖评论军中男人琐碎；梦见Y在Concentration Camp带队（标为梦境）；李敖对造句兴趣很高；上午四小时地雷课及考试、副座查课时转回地雷、丁忠等称口才好；午后洗澡、步校背心报销、连长高升后醉谈、明宏访施珂未遇、明宏和树生称讲课是李敖看家本领；老太寄背心及书、六小姐寄五十元；有美寄来黄淑兰五本挂号笔记。注意“想不到”“我忽转”这类原文改写为行动描述，不入标题。",
+    "validation": {
+      "checkedAt": "2026-05-09T06:25:43.597Z",
+      "allEventCount": 5958,
+      "manifestEventCount": 5958,
+      "preofficerCount": 1495,
+      "currentRound": "preofficer-diary-round148-april-1960-lines-931-947-april27b",
+      "currentRoundEvents": 3,
+      "duplicateIds": 0,
+      "badCrossRefTypes": 0,
+      "danglingCrossRefs": 0,
+      "danglingCrossRefExamples": [],
+      "sourceMissing": 0,
+      "roundTriggerSuspects": [],
+      "datesCovered": [
+        "1960-04-27"
+      ],
+      "txtHasAllRoundIds": true,
+      "csvHasAllRoundIds": true,
+      "txtHasAllKeyWords": true,
+      "csvHasAllKeyWords": true,
+      "missingTxtKeywords": [],
+      "missingCsvKeywords": [],
+      "sponsorNamesText": true,
+      "localImage": true,
+      "faviconSakuraFixed": true,
+      "version": "2026-05-09-preofficer-diary-april-1960-round148-april27b",
+      "ok": true
+    }
+  },
+  {
+    "iteration": 499,
+    "book": "一个预备军官的日记",
+    "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+    "round": "round149-april-1960-lines-949-977-april28a",
+    "source": {
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "lineStart": 949,
+      "lineEnd": 977
+    },
+    "addedEventIds": [
+      "preofficer-diary-1960-04-28-comments-army-men-trivial-and-short-sighted",
+      "preofficer-diary-1960-04-28-dreams-y-leading-team-in-concentration-camp",
+      "preofficer-diary-1960-04-28-records-high-interest-in-sentence-making",
+      "preofficer-diary-1960-04-28-morning-teaches-four-hours-landmines-exam-and-deputy-checks-class",
+      "preofficer-diary-1960-04-28-afternoon-bathes-vest-ruined-company-commander-drunk-talk-and-forte-praise",
+      "preofficer-diary-1960-04-28-receives-vest-books-fifty-yuan-and-youmei-registered-notebooks",
+      "preofficer-diary-1960-04-28-inscribes-twenty-fifth-year-portrait-poem"
+    ],
+    "addedCount": 7,
+    "notes": [
+      "本轮处理1960年4月28日前半，line 949-977。",
+      "落实标题简洁要求：标题压短，细节集中在summary/sourceNote。",
+      "收梦境事件并标注certainty为dream-record。",
+      "上午四小时地雷课事件避开原文“想不到”“我忽转”等触发语，改写为学员考试认真、副座查课时转回地雷等行动描述。",
+      "收物与书信类合并：老太背心及书、六小姐五十元、有美寄五本黄淑兰笔记合并为一条，减少碎片化。",
+      "“题二十五岁造像”顺读到诗句和5月10日照片补记后入库。"
+    ],
+    "nextRecommendation": "下一轮建议进入4月28日后半（line 979-987）：收曹梓华能背军法法条、李敖工作时不断有人来谈话导致一神多用、李敖给老太/六小姐/启庆/马戈/善培/彦增等写信寄照片或生日信（这组要合并为一条“李敖集中写信寄照”）、周排附称李敖“最标准”且埋头苦干、李敖记录短信写法有力。标题继续简洁，通信对象细节放summary。",
+    "validation": {
+      "checkedAt": "2026-05-09T11:13:27.912Z",
+      "allEventCount": 5965,
+      "manifestEventCount": 5965,
+      "preofficerCount": 1502,
+      "currentRound": "preofficer-diary-round149-april-1960-lines-949-977-april28a",
+      "currentRoundEvents": 7,
+      "duplicateIds": 0,
+      "badCrossRefTypes": 0,
+      "danglingCrossRefs": 0,
+      "danglingCrossRefExamples": [],
+      "sourceMissing": 0,
+      "roundTriggerSuspects": [],
+      "datesCovered": [
+        "1960-04-28"
+      ],
+      "txtHasAllRoundIds": true,
+      "csvHasAllRoundIds": true,
+      "txtHasAllKeyWords": true,
+      "csvHasAllKeyWords": true,
+      "missingTxtKeywords": [],
+      "missingCsvKeywords": [],
+      "sponsorNamesText": true,
+      "localImage": true,
+      "faviconSakuraFixed": true,
+      "version": "2026-05-09-preofficer-diary-april-1960-round149-april28a",
+      "ok": true
+    }
+  },
+  {
+    "iteration": 500,
+    "book": "一个预备军官的日记",
+    "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+    "round": "round150-displaydate-fix-and-april28b-lines-979-987",
+    "source": {
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "lineStart": 979,
+      "lineEnd": 987
+    },
+    "removedEventIds": [
+      "preofficer-diary-1960-04-28-records-high-interest-in-sentence-making"
+    ],
+    "addedEventIds": [
+      "preofficer-diary-1960-04-28-records-cao-zihua-knows-military-law-articles-by-heart",
+      "preofficer-diary-1960-04-28-work-interrupted-by-constant-talkers-and-needs-divided-attention",
+      "preofficer-diary-1960-04-28-writes-many-letters-and-sends-photos-to-family-friends-and-chen-yanzeng-for-birthday",
+      "preofficer-diary-1960-04-28-zhou-paifu-praises-li-as-standard-and-hardworking"
+    ],
+    "addedCount": 4,
+    "notes": [
+      "按用户要求删除“李敖造句兴趣很高”事件，因其属于心理/兴趣类事件，不应收入。",
+      "按用户要求将所有timeline事件的displayDate规范为纯时间格式，不再包含事件描述；本轮共规范54个事件数据文件，校验确认allDisplayDatesPure为true。",
+      "本轮继续处理1960年4月28日后半，line 979-987；跳过“写奇短短信亦一妙途”，因其更接近写作感想而非具体行动。",
+      "新增曹梓华熟背军法、李敖工作时被打扰、李敖集中写信寄照、周排附称李敖最标准四条；标题保持简洁。"
+    ],
+    "nextRecommendation": "下一轮建议进入4月29日（line 989-1009）：第一条黄梅莉性幻想和第三条蛆/自由联想均属心理/联想类，建议跳过；可收李敖很快改完试卷并获虞步云称赞工作效率、李敖记录决定多照相并拟每月一次、整个下午斥候训练中少将及副师长参观且李敖在田里跑来跑去并与老兵谈话、李敖夜里招待施珂吃凤梨花生并记录其话、李敖被分到第四连兵器排并夜深研究编制表、李敖读景新汉《未成的交易》后夜里写信给新汉并附照片、李敖给周弘一信附照。李起鹏全家自杀和李承晚离府可按新闻背景谨慎跳过，除非作为李敖记录新闻的一条合并事件。",
+    "validation": {
+      "checkedAt": "2026-05-09T11:23:24.869Z",
+      "allEventCount": 5968,
+      "manifestEventCount": 5968,
+      "preofficerCount": 1505,
+      "currentRound": "preofficer-diary-round150-displaydate-fix-and-april28b-lines-979-987",
+      "currentRoundEvents": 4,
+      "removedPsychologicalEventAbsent": true,
+      "duplicateIds": 0,
+      "badCrossRefTypes": 0,
+      "danglingCrossRefs": 0,
+      "danglingCrossRefExamples": [],
+      "sourceMissing": 0,
+      "roundTriggerSuspects": [],
+      "displayDateMismatches": [],
+      "allDisplayDatesPure": true,
+      "datesCovered": [
+        "1960-04-28"
+      ],
+      "txtHasAllRoundIds": true,
+      "csvHasAllRoundIds": true,
+      "txtHasAllKeyWords": true,
+      "csvHasAllKeyWords": true,
+      "missingTxtKeywords": [],
+      "missingCsvKeywords": [],
+      "sponsorNamesText": true,
+      "localImage": true,
+      "faviconSakuraFixed": true,
+      "version": "2026-05-09-displaydate-pure-time-preofficer-round150-april28b",
+      "ok": true
+    }
   }
 ]
