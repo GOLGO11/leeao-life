@@ -91615,5 +91615,586 @@
     "places": [
       "行军驻地"
     ]
+  },
+  {
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round168-june-1960-lines-3-117-june1-june2",
+    "id": "preofficer-diary-1960-06-01-does-morning-exercises-vigorously",
+    "date": "1960-06-01",
+    "displayDate": "1960年6月1日星期三",
+    "title": "李敖卖力做早操",
+    "summary": "6月1日，李敖做早操很卖力。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "017.1960年6月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/017.1960年6月.txt",
+      "line": 7,
+      "note": "日记记做早操很卖力。"
+    },
+    "crossReferences": [],
+    "view": [
+      "军事训练线",
+      "身体锻炼线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "1960年6月",
+      "6月1日",
+      "早操"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "行军驻地"
+    ]
+  },
+  {
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round168-june-1960-lines-3-117-june1-june2",
+    "id": "preofficer-diary-1960-06-01-free-morning-talks-and-yarzhao-praises-his-eloquence",
+    "date": "1960-06-01",
+    "displayDate": "1960年6月1日星期三",
+    "title": "尔昭等夸李敖口才",
+    "summary": "6月1日，李敖清闲一早上，与人谈天；尔昭等人一再夸他口才好，说听他讲话最幽默有意思。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "017.1960年6月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/017.1960年6月.txt",
+      "line": 9,
+      "note": "日记记清闲一早上谈天，尔昭等一再夸李敖口才，称听他讲话最幽默有意思。"
+    },
+    "crossReferences": [],
+    "view": [
+      "军中互动线",
+      "军中评价线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "1960年6月",
+      "6月1日",
+      "谈天",
+      "尔昭",
+      "口才",
+      "幽默"
+    ],
+    "people": [
+      "李敖",
+      "尔昭"
+    ],
+    "places": [
+      "行军驻地"
+    ]
+  },
+  {
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round168-june-1960-lines-3-117-june1-june2",
+    "id": "preofficer-diary-1960-06-01-works-on-english-composition-in-free-afternoon",
+    "date": "1960-06-01",
+    "displayDate": "1960年6月1日星期三",
+    "title": "李敖搞英文作文",
+    "summary": "6月1日下午，李敖又得清闲，便搞英文作文。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "017.1960年6月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/017.1960年6月.txt",
+      "line": 9,
+      "note": "日记记下午又清闲，搞英文作文。"
+    },
+    "crossReferences": [],
+    "view": [
+      "写作线",
+      "英文学习线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "1960年6月",
+      "6月1日",
+      "英文作文",
+      "清闲"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "行军驻地"
+    ]
+  },
+  {
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round168-june-1960-lines-3-117-june1-june2",
+    "id": "preofficer-diary-1960-06-01-writes-two-page-letters-to-mage-and-qiqing-and-postcard-to-shike",
+    "date": "1960-06-01",
+    "displayDate": "1960年6月1日星期三",
+    "title": "李敖给马萧写信",
+    "summary": "6月1日，李敖给马戈和萧启庆各写二页信，又给施珂一张明信片。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "017.1960年6月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/017.1960年6月.txt",
+      "line": 13,
+      "note": "日记记与马、萧各二页信，施珂一片。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-05-19-sends-postcards-to-twelve-people-and-letters-to-five-people",
+      "preofficer-diary-1960-05-30-receives-qiqing-letter-with-changping-note-and-photo"
+    ],
+    "view": [
+      "通信线",
+      "马戈通信线",
+      "萧启庆通信线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "1960年6月",
+      "6月1日",
+      "马戈",
+      "萧启庆",
+      "施珂",
+      "二页信",
+      "明信片"
+    ],
+    "people": [
+      "李敖",
+      "马戈",
+      "萧启庆",
+      "施珂"
+    ],
+    "places": [
+      "行军驻地"
+    ]
+  },
+  {
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round168-june-1960-lines-3-117-june1-june2",
+    "id": "preofficer-diary-1960-06-01-receives-three-kinmen-letters-from-huajun-hongmou-and-yugang-with-photos",
+    "date": "1960-06-01",
+    "displayDate": "1960年6月1日星期三",
+    "title": "李敖接金门三信",
+    "summary": "6月1日夜，李敖接到金门来信三封：华俊二页，宏谋一页，毓刚一页并附两张照片。毓刚在信中谈到夜读书时精神不支，以及精力须苦练。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "017.1960年6月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/017.1960年6月.txt",
+      "line": 17,
+      "note": "日记记夜接金门来信三封：华俊二页、宏谋一页、毓刚一页并二照片；毓刚信谈夜读书精神不支和精力苦练。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-05-19-huajun-express-letter-unsent-and-receives-huajun-kinmen-letter"
+    ],
+    "view": [
+      "通信线",
+      "金门通信线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "1960年6月",
+      "6月1日",
+      "金门来信",
+      "华俊",
+      "宏谋",
+      "毓刚",
+      "照片",
+      "夜读书"
+    ],
+    "people": [
+      "李敖",
+      "华俊",
+      "宏谋",
+      "潘毓刚"
+    ],
+    "places": [
+      "行军驻地"
+    ]
+  },
+  {
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round168-june-1960-lines-3-117-june1-june2",
+    "id": "preofficer-diary-1960-06-01-celebrates-company-commander-one-year-and-his-one-month-with-billiards-and-chrysanthemum-tea",
+    "date": "1960-06-01",
+    "displayDate": "1960年6月1日星期三",
+    "title": "李敖与连长同庆",
+    "summary": "6月1日晚，连长就职一年，李敖到连恰好一月，二人同庆；李敖打弹子二盘，并应邀喝菊花茶。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "017.1960年6月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/017.1960年6月.txt",
+      "line": 19,
+      "note": "日记记连长就职一年，李敖到连一月，晚同庆祝，打弹子二盘，并应邀喝菊花茶。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-05-15-plays-billiards-with-company-commander-and-then-stops"
+    ],
+    "view": [
+      "军中互动线",
+      "弹子房线",
+      "饮食线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "1960年6月",
+      "6月1日",
+      "连长",
+      "就职一年",
+      "到连一月",
+      "打弹子",
+      "菊花茶"
+    ],
+    "people": [
+      "李敖",
+      "连长"
+    ],
+    "places": [
+      "行军驻地"
+    ]
+  },
+  {
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round168-june-1960-lines-3-117-june1-june2",
+    "id": "preofficer-diary-1960-06-02-drills-60mm-squad-attack-all-day-and-receives-praise",
+    "date": "1960-06-02",
+    "displayDate": "1960年6月2日星期四",
+    "title": "李敖操60m.m.班攻击",
+    "summary": "6月2日，李敖整日操60m.m.班攻击；上午与营长谈，营长对此炮还是生手，下午团长又来。何排长等多人都盛赞李敖为人，并称第四连那位排长最好。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "017.1960年6月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/017.1960年6月.txt",
+      "line": 23,
+      "note": "日记记整日操60m.m.班攻击，上午与营长谈，下午团长又来；何排长等多人称赞李敖。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-05-31-teaches-60mm-squad-attack-all-day-and-commanders-observe",
+      "preofficer-diary-1960-05-30-prepares-60mm-mortar-and-teaches-squad-attack-defense"
+    ],
+    "view": [
+      "军事训练线",
+      "教学线",
+      "军中评价线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "1960年6月",
+      "6月2日",
+      "60m.m.",
+      "班攻击",
+      "营长",
+      "团长",
+      "何排长",
+      "第四连排长"
+    ],
+    "people": [
+      "李敖",
+      "营长",
+      "团长",
+      "何排长"
+    ],
+    "places": [
+      "行军驻地"
+    ]
+  },
+  {
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round168-june-1960-lines-3-117-june1-june2",
+    "id": "preofficer-diary-1960-06-02-receives-yanzeng-fifty-yuan-and-poem-and-writes-poem-after-dinner",
+    "date": "1960-06-02",
+    "displayDate": "1960年6月2日星期四",
+    "title": "李敖收彦增劳军五十元",
+    "summary": "6月2日，陈彦增又寄来劳军五十元，并附端午打油诗请李敖斧正；晚饭后，李敖作诗记下此事。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "017.1960年6月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/017.1960年6月.txt",
+      "line": 25,
+      "note": "日记记彦增又劳军五十元，附端午正午打油诗；李敖晚饭后作诗记之，诗文见line 27-41。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-05-26-receives-yanzeng-and-zhutai-postcards-about-li-influence"
+    ],
+    "view": [
+      "通信线",
+      "陈彦增线",
+      "经济线",
+      "写诗线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "1960年6月",
+      "6月2日",
+      "陈彦增",
+      "彦增",
+      "劳军五十元",
+      "端午",
+      "打油诗",
+      "作诗"
+    ],
+    "people": [
+      "李敖",
+      "陈彦增"
+    ],
+    "places": [
+      "行军驻地"
+    ]
+  },
+  {
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round168-june-1960-lines-3-117-june1-june2",
+    "id": "preofficer-diary-1960-06-02-bathes-after-sun-drill-eats-porridge-and-writes-at-desk",
+    "date": "1960-06-02",
+    "displayDate": "1960年6月2日星期四",
+    "title": "李敖操练后洗浴伏案",
+    "summary": "6月2日，李敖白天整日在烈日下操练，归来后在晚饭前赶着洗了一次澡；晚饭喝了很多稀饭，饭后伏案。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "017.1960年6月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/017.1960年6月.txt",
+      "line": 43,
+      "note": "日记记白天整日烈日下操练，归来晚饭前赶洗一浴；晚饭喝稀饭甚多，饭后伏案。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-05-31-bathes-in-afternoon"
+    ],
+    "view": [
+      "军事训练线",
+      "日常生活线",
+      "洗浴线",
+      "饮食线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "1960年6月",
+      "6月2日",
+      "烈日操练",
+      "洗浴",
+      "稀饭",
+      "伏案"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "行军驻地"
+    ]
+  },
+  {
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round168-june-1960-lines-3-117-june1-june2",
+    "id": "preofficer-diary-1960-06-02-records-and-analyzes-renwu-latrine-literature",
+    "date": "1960-06-02",
+    "displayDate": "1960年6月2日星期四",
+    "title": "李敖记仁武厕所文学",
+    "summary": "6月2日，李敖记录自己在仁武拟汇集厕所文学，虽未完成，但录出一则自认为最佳者，又追忆仁武厕所中曾见的数则题壁文字，并分析其形成原因。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "017.1960年6月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/017.1960年6月.txt",
+      "line": 45,
+      "note": "日记记在仁武拟汇集厕所文学，录出一则并追忆数则，随后析其成因；具体题壁文字未展开入库。"
+    },
+    "crossReferences": [],
+    "view": [
+      "军中文化观察线",
+      "写作材料线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "1960年6月",
+      "6月2日",
+      "仁武",
+      "厕所文学",
+      "题壁文字",
+      "记录",
+      "分析"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "行军驻地"
+    ]
+  },
+  {
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round168-june-1960-lines-3-117-june1-june2",
+    "id": "preofficer-diary-1960-06-02-receives-xinhan-and-mage-letters-and-writes-poem-teasing-mage",
+    "date": "1960-06-02",
+    "displayDate": "1960年6月2日星期四",
+    "title": "李敖收景马信作诗",
+    "summary": "6月2日，李敖收到景新汉三页书信和马戈二页信。景新汉信中谈马戈需要参谋，马戈信中提到景新汉劝他向李敖问计；李敖因此作诗戏马戈。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "017.1960年6月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/017.1960年6月.txt",
+      "line": 89,
+      "note": "日记记新汉三页书、马戈二页信；李敖据两信内容作诗戏马戈，诗文见line 91-113。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-06-01-writes-two-page-letters-to-mage-and-qiqing-and-postcard-to-shike"
+    ],
+    "view": [
+      "通信线",
+      "景新汉线",
+      "马戈通信线",
+      "写诗线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "1960年6月",
+      "6月2日",
+      "景新汉",
+      "马戈",
+      "来信",
+      "参谋",
+      "作诗"
+    ],
+    "people": [
+      "李敖",
+      "景新汉",
+      "马戈"
+    ],
+    "places": [
+      "行军驻地"
+    ]
+  },
+  {
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round168-june-1960-lines-3-117-june1-june2",
+    "id": "preofficer-diary-1960-06-02-replies-to-xinhan-and-mage-at-night",
+    "date": "1960-06-02",
+    "displayDate": "1960年6月2日星期四",
+    "title": "李敖夜回景马信",
+    "summary": "6月2日夜，李敖分别回信给景新汉和马戈。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "017.1960年6月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/017.1960年6月.txt",
+      "line": 115,
+      "note": "日记记夜报景、马各一信。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-06-02-receives-xinhan-and-mage-letters-and-writes-poem-teasing-mage"
+    ],
+    "view": [
+      "通信线",
+      "景新汉线",
+      "马戈通信线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "1960年6月",
+      "6月2日",
+      "景新汉",
+      "马戈",
+      "回信"
+    ],
+    "people": [
+      "李敖",
+      "景新汉",
+      "马戈"
+    ],
+    "places": [
+      "行军驻地"
+    ]
+  },
+  {
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round168-june-1960-lines-3-117-june1-june2",
+    "id": "preofficer-diary-1960-06-02-cuts-four-tanks-on-hard-flannel-board",
+    "date": "1960-06-02",
+    "displayDate": "1960年6月2日星期四",
+    "title": "李敖剪Tank四辆",
+    "summary": "6月2日，李敖在硬绒板上剪出四辆Tank。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "017.1960年6月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/017.1960年6月.txt",
+      "line": 117,
+      "note": "日记记剪Tank于硬绒板，四辆。"
+    },
+    "crossReferences": [],
+    "view": [
+      "军中手作线",
+      "军事训练线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "1960年6月",
+      "6月2日",
+      "Tank",
+      "硬绒板",
+      "剪制",
+      "四辆"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "行军驻地"
+    ]
   }
 ]

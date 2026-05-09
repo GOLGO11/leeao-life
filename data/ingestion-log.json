@@ -22152,5 +22152,75 @@
       "yearFilter": true,
       "ok": true
     }
+  },
+  {
+    "iteration": 518,
+    "book": "一个预备军官的日记",
+    "chapter": "017.1960年6月",
+    "round": "round168-june-1960-lines-3-117-june1-june2",
+    "source": {
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/017.1960年6月.txt",
+      "lineStart": 3,
+      "lineEnd": 117
+    },
+    "addedCount": 13,
+    "addedEventIds": [
+      "preofficer-diary-1960-06-01-does-morning-exercises-vigorously",
+      "preofficer-diary-1960-06-01-free-morning-talks-and-yarzhao-praises-his-eloquence",
+      "preofficer-diary-1960-06-01-works-on-english-composition-in-free-afternoon",
+      "preofficer-diary-1960-06-01-writes-two-page-letters-to-mage-and-qiqing-and-postcard-to-shike",
+      "preofficer-diary-1960-06-01-receives-three-kinmen-letters-from-huajun-hongmou-and-yugang-with-photos",
+      "preofficer-diary-1960-06-01-celebrates-company-commander-one-year-and-his-one-month-with-billiards-and-chrysanthemum-tea",
+      "preofficer-diary-1960-06-02-drills-60mm-squad-attack-all-day-and-receives-praise",
+      "preofficer-diary-1960-06-02-receives-yanzeng-fifty-yuan-and-poem-and-writes-poem-after-dinner",
+      "preofficer-diary-1960-06-02-bathes-after-sun-drill-eats-porridge-and-writes-at-desk",
+      "preofficer-diary-1960-06-02-records-and-analyzes-renwu-latrine-literature",
+      "preofficer-diary-1960-06-02-receives-xinhan-and-mage-letters-and-writes-poem-teasing-mage",
+      "preofficer-diary-1960-06-02-replies-to-xinhan-and-mage-at-night",
+      "preofficer-diary-1960-06-02-cuts-four-tanks-on-hard-flannel-board"
+    ],
+    "notes": [
+      "本轮进入017.1960年6月.txt，处理1960年6月1日至6月2日，共新增13条。",
+      "6月1日收入卖力做早操、清闲谈天并获尔昭等夸口才、下午搞英文作文、给马戈/萧启庆/施珂通信、夜接金门三封来信、与连长同庆并打弹子喝菊花茶。",
+      "6月2日收入整日操60m.m.班攻击并获称赞、收彦增劳军五十元及来诗并作诗记之、操练后洗浴喝稀饭伏案、记录仁武厕所文学、收景新汉和马戈信并作诗、夜回景马信、剪Tank四辆。",
+      "6月1日“洗澡想起送海绵”属想法未入库；6月2日厕所文学只写李敖记录/摘录/分析动作，具体题壁文字不展开；景马信也以李敖收到、作诗、回信为重心。"
+    ],
+    "nextRecommendation": "下一轮建议覆盖6月3日至6月6日（line 119-164）：6月3日收午前师长查课并小谈、晚间搞英文到九点。6月4日收与何排长谈一早上、午后紧急集合及防空演习并整理、记录郝延平杜宾汉结婚新闻、夜干部Party独被遗漏并注明1985年9月10日补记、收施珂明信片。6月5日可收因施珂事记Dryden诗句、记录廷有转述树林兜生意、整日未外出而读英文、夜高速准备60m.m.班防御并批原教案错误。6月6日建议跳过梦境；收营长称60m.m.训练最好、张桐凤与林栋材来访并请吃冰、为诸顺友买新饭盒并记录兵器排两件惩罚事、下午讲60m.m.班防御并述诺曼底登陆和印度武器故事及避雨到金马馆、晚饭后给华俊/彦增/英善/周陈等写信。注意6月5日和6月6日有成人/梦境/心理段，写法仍要落在“李敖记录/准备/讲课/写信/买物”。",
+    "validation": {
+      "checkedAt": "2026-05-09T13:42:26.932Z",
+      "allEventCount": 6201,
+      "manifestEventCount": 6201,
+      "preofficerCount": 1738,
+      "currentRound": "preofficer-diary-round168-june-1960-lines-3-117-june1-june2",
+      "currentRoundEvents": 13,
+      "duplicateIds": 0,
+      "badCrossRefTypes": 0,
+      "danglingCrossRefs": 0,
+      "danglingCrossRefExamples": [],
+      "sourceMissing": 0,
+      "sourceMissingExamples": [],
+      "roundTriggerSuspects": [],
+      "displayDateWithTail": [],
+      "datesCovered": [
+        "1960-06-01",
+        "1960-06-02"
+      ],
+      "txtHasAllRoundIds": true,
+      "csvHasAllRoundIds": true,
+      "txtMissingIds": [],
+      "csvMissingIds": [],
+      "txtHasAllKeyWords": true,
+      "csvHasAllKeyWords": true,
+      "missingTxtKeywords": [],
+      "missingCsvKeywords": [],
+      "sponsorNamesText": true,
+      "localImage": true,
+      "faviconSakuraFixed": true,
+      "version": "2026-05-09-preofficer-diary-june-1960-round168-june1-june2",
+      "indexScriptVersion": true,
+      "performanceOptimized": true,
+      "yearFilter": true,
+      "ok": true
+    }
   }
 ]

@@ -98,7 +98,7 @@ const supplementalDataFiles = new Set([
   "./data/timeline-events-fourth-book-deepening.json"
 ]);
 const processedBookCount = dataFiles.filter((file) => !supplementalDataFiles.has(file)).length;
-const dataVersion = "2026-05-09-preofficer-diary-may-1960-round167-may30-may31-closeout";
+const dataVersion = "2026-05-09-preofficer-diary-june-1960-round168-june1-june2";
 
 const dateFormatter = new Intl.DateTimeFormat("zh-Hant", {
   year: "numeric",
