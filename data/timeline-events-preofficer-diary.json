@@ -74568,5 +74568,4533 @@
       "仁武特约茶室",
       "军中乐园"
     ]
+  },
+  {
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round123-april-1960-lines-517-529-april-12-13",
+    "date": "1960-04-12",
+    "id": "preofficer-diary-1960-04-12-records-united-daily-news-report-on-sexology-professor-dismissal-and-academic-freedom-protest",
+    "displayDate": "1960年4月12日星期二01摘录性学教授撤职新闻",
+    "title": "李敖摘录《联合报》关于伊利诺大学高区教授因讲授性学被撤职及学生抗议学术自由死亡的新闻",
+    "summary": "4月12日，李敖在日记中摘录《联合报》合众国际社美国伊利诺州香宾9日电：一名因讲授性学而被撤职的大学教授，在两位门徒婚礼中担任男傧相，并否认自己主张滥爱。报道又说，高区教授因劝告学生婚前发生性关系被伊利诺大学解聘，约一千五百名学生在校园举标语游行抗议，称解聘是学术自由的死亡。本条明确为李敖摘录报纸材料。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 519,
+      "note": "李敖摘录《联合报》合众国际社美国伊利诺州香宾9日电，关于高区教授因讲授性学被撤职、学生抗议学术自由死亡。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-04-copies-united-daily-news-report-on-fourteen-year-old-girl-forced-into-prostitution",
+      "preofficer-diary-1960-04-11-at-renwu-special-tea-room-copies-rules-banning-photos-love-talk-and-limiting-forty-minutes"
+    ],
+    "view": [
+      "报纸摘录线",
+      "性学与学术自由线",
+      "联合报线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月12日",
+      "联合报",
+      "合众国际社",
+      "伊利诺大学",
+      "高区教授",
+      "性学",
+      "撤职",
+      "学术自由",
+      "学生抗议"
+    ],
+    "people": [
+      "李敖",
+      "高区教授"
+    ],
+    "places": [
+      "四二炮连",
+      "美国伊利诺州香宾",
+      "伊利诺大学"
+    ]
+  },
+  {
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round123-april-1960-lines-517-529-april-12-13",
+    "date": "1960-04-12",
+    "id": "preofficer-diary-1960-04-12-receives-five-page-letter-from-ma-hongmou",
+    "displayDate": "1960年4月12日星期二02接宏谋五页书",
+    "title": "李敖收到马宏谋五页书信",
+    "summary": "4月12日，李敖收到马宏谋五页书信。原文只记“接宏谋五页书”，未展开信中内容；本条只收通信动作。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 521,
+      "note": "李敖接宏谋五页书。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-03-30-afternoon-sends-postcards-to-huajun-qiyang-shike-and-four-page-letter-to-hongmou",
+      "preofficer-diary-1960-03-30-hongmou-four-page-letter-opening-on-parting-and-returning-old-place",
+      "preofficer-diary-1960-03-29-receives-package-thirty-yuan-mother-letter-and-hongmou-march9-card-saying-he-is-in-xiaojinmen"
+    ],
+    "view": [
+      "宏谋通信线",
+      "来信线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月12日",
+      "马宏谋",
+      "宏谋",
+      "五页书",
+      "来信"
+    ],
+    "people": [
+      "李敖",
+      "马宏谋"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round123-april-1960-lines-517-529-april-12-13",
+    "date": "1960-04-13",
+    "id": "preofficer-diary-1960-04-13-sends-postcards-to-zhuangyin-xichang-and-veterinary-surgeon-lai",
+    "displayDate": "1960年4月13日星期三01给庄因锡昌赖兽医各一片",
+    "title": "李敖给庄因、锡昌和四室 Veterinary Surgeon Lai 各写一张明信片",
+    "summary": "4月13日，李敖给庄因、锡昌和四室的 Veterinary Surgeon Lai 各写一张明信片。原文只列通信对象，未展开正文。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 525,
+      "note": "李敖给庄因、锡昌、四室 Veterinary Surgeon Lai 各一片。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-03-12-finishes-six-page-letter-to-xinhan-and-postcards-to-huajun-yingshan-zhuangyin-yaozu",
+      "preofficer-diary-1960-03-21-receives-zhuangyin-postcard-with-criticism-about-busyness-plans-and-songran-greetings"
+    ],
+    "view": [
+      "通信线",
+      "庄因线",
+      "明信片线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月13日",
+      "庄因",
+      "锡昌",
+      "Veterinary Surgeon Lai",
+      "四室",
+      "明信片"
+    ],
+    "people": [
+      "李敖",
+      "庄因",
+      "锡昌",
+      "Veterinary Surgeon Lai"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round123-april-1960-lines-517-529-april-12-13",
+    "date": "1960-04-13",
+    "id": "preofficer-diary-1960-04-13-writes-thirteen-page-joint-letter-to-zhouhong-sun-yingshan-and-chen-guying",
+    "displayDate": "1960年4月13日星期三02给周弘英善鼓应十三页信",
+    "title": "李敖给周弘、孙英善、陈鼓应三人写合计十三页信",
+    "summary": "4月13日，李敖给周弘、孙英善、陈鼓应三人写合计十三页信。原文只记页数和收信人；本条按大宗通信动作入库。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 525,
+      "note": "李敖给周弘、孙英善、陈鼓应三人合十三页信。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-03-11-writes-four-page-letter-to-zhou-hong",
+      "preofficer-diary-1960-03-12-finishes-six-page-letter-to-xinhan-and-postcards-to-huajun-yingshan-zhuangyin-yaozu"
+    ],
+    "view": [
+      "通信线",
+      "周弘线",
+      "孙英善线",
+      "陈鼓应线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月13日",
+      "周弘",
+      "孙英善",
+      "陈鼓应",
+      "十三页信",
+      "通信"
+    ],
+    "people": [
+      "李敖",
+      "周弘",
+      "孙英善",
+      "陈鼓应"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round123-april-1960-lines-517-529-april-12-13",
+    "date": "1960-04-13",
+    "id": "preofficer-diary-1960-04-13-after-evening-roll-call-practices-horizontal-bar-with-pan-buyue-and-does-over-twenty",
+    "displayDate": "1960年4月13日星期三03与步岳练杠子二十多",
+    "title": "晚点名后李敖与潘步岳练杠子，做了二十多下，并定为每晚功课",
+    "summary": "4月13日晚点名后，李敖与潘步岳练杠子，做了二十多下。他在日记中记录应当每晚都这样练。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 527,
+      "note": "晚点后与步岳练杠子，做了二十多，当每晚如是为之。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-07-after-dinner-talks-past-history-with-pan-buyue-pan-says-li-always-overflows-happiness-and-no-bitter-history-visible",
+      "preofficer-diary-1960-03-17-two-hours-basic-drill-talks-with-ding-zhong-and-pan-buyue-about-youth-inaction",
+      "preofficer-diary-1960-03-31-with-pan-buyue-under-bamboo-suspects-snake-and-sees-flower-snake"
+    ],
+    "view": [
+      "身体锻炼线",
+      "潘步岳线",
+      "军中日常线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月13日",
+      "潘步岳",
+      "步岳",
+      "晚点名",
+      "杠子",
+      "练杠子",
+      "二十多下",
+      "锻炼"
+    ],
+    "people": [
+      "李敖",
+      "潘步岳"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round123-april-1960-lines-517-529-april-12-13",
+    "date": "1960-04-13",
+    "id": "preofficer-diary-1960-04-13-packages-seven-diary-notebooks-from-june-1958-to-april-1960",
+    "displayDate": "1960年4月13日星期三04包装七册日记本",
+    "title": "李敖夜里包装自1958年6月8日至1960年4月10日的一年零十个月日记，共七册",
+    "summary": "4月13日夜，李敖包装日记本。日记时间自1958年6月8日至1960年4月10日，跨度一年零十个月，共七册。此条是本书中重要的档案整理节点，并回扣《大学后期日记》起点和近期读旧日记节点。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 529,
+      "note": "夜包装日记本，自1958年6月8日至1960年4月10日，共一年零十个月的日记，计七册。"
+    },
+    "crossReferences": [
+      "daxue-houqi-jia-1958-06-08-starts-new-diary-and-new-life",
+      "qianqiu-wansui-1958-06-08-051-starts-university-late-diary",
+      "preofficer-diary-1960-04-09-reads-old-diaries-and-old-letters-and-records-self-evaluation-of-talent-and-insight",
+      "preofficer-diary-1960-03-16-noon-nap-reads-six-old-diaries-like-hotel-room-number-box",
+      "preofficer-diary-1992-02-20-chen-ruizhou-writes-preface-about-li-daily-diary-writing-at-buschool"
+    ],
+    "view": [
+      "日记本线",
+      "档案整理线",
+      "大学后期日记线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月13日",
+      "日记本",
+      "包装日记",
+      "1958年6月8日",
+      "1960年4月10日",
+      "一年零十个月",
+      "七册",
+      "大学后期日记"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-14",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round124-april-1960-lines-531-545-april-14",
+    "id": "preofficer-diary-1960-04-14-platoon-leaders-say-li-studies-all-day-and-never-rests-after-early-waking-insomnia-he-writes-letters-to-relieve-fatigue",
+    "displayDate": "1960年4月14日星期四01排长评用功不眠不休与写信祛累",
+    "title": "周排长说李敖整日用功，袁排长说他不眠不休；李敖因早醒失眠，希望晚睡一小时，又写信祛累",
+    "summary": "4月14日，周排长说李敖整日用功，袁排长说他不眠不休。李敖记录自己今晨早醒失眠，希望把作息调整为晚睡一小时（10:30-5:30）；同日又以写信来祛除疲累。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 533,
+      "note": "周排长说李敖整日用功，袁排长说李敖不眠不休；李敖因今晨早醒失眠，希望晚睡一小时（10:30-5:30），又写信以祛累。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-13-writes-thirteen-page-joint-letter-to-zhouhong-sun-yingshan-and-chen-guying",
+      "preofficer-diary-1960-04-07-from-after-breakfast-to-before-dinner-finishes-long-english-letter-to-qiqing-and-feels-tired-dizzy-happy-with-result",
+      "preofficer-diary-1960-04-09-studies-alone-at-home-in-army-and-zhou-platoon-assistant-says-he-is-like-guard"
+    ],
+    "view": [
+      "读书用功线",
+      "睡眠身体线",
+      "通信线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月14日",
+      "周排长",
+      "袁排长",
+      "整日用功",
+      "不眠不休",
+      "早醒失眠",
+      "作息",
+      "写信",
+      "祛累"
+    ],
+    "people": [
+      "李敖",
+      "周排长",
+      "袁排长"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-14",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round124-april-1960-lines-531-545-april-14",
+    "id": "preofficer-diary-1960-04-14-receives-398-yuan-back-pay-buys-miscellaneous-items-and-picks-up-clothes-at-night",
+    "displayDate": "1960年4月14日星期四02补薪三百九十八元并买什物取衣",
+    "title": "李敖连同上月补薪共得三百九十八元，夜里买什物并取衣服",
+    "summary": "4月14日，李敖连同上月补薪共得三百九十八元。夜里，他买了一些什物，并去取衣服。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 535,
+      "note": "李敖连上月补薪共得三百九十八元，夜买什物等，取衣服。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-11-shike-visits-at-night-treats-papaya-and-gives-ten-yuan-li-treats-as-loan",
+      "preofficer-diary-1960-04-10-lunch-and-dinner-at-wu-chaoshou-pickles-casseroles-and-spends-over-eighty-yuan",
+      "preofficer-diary-1960-03-29-receives-package-thirty-yuan-mother-letter-and-hongmou-march9-card-saying-he-is-in-xiaojinmen"
+    ],
+    "view": [
+      "钱款线",
+      "军中日常线",
+      "购物线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月14日",
+      "补薪",
+      "三百九十八元",
+      "买什物",
+      "取衣服",
+      "花费"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-14",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round124-april-1960-lines-531-545-april-14",
+    "id": "preofficer-diary-1960-04-14-at-ice-fruit-department-banana-two-pieces-two-jin-misunderstanding-with-little-girl-for-three-days",
+    "displayDate": "1960年4月14日星期四03冰果部小丫头两只两斤误会",
+    "title": "李敖几天来在冰果部看到小丫头，买香蕉时说“两只”被她笑作“两斤”，三天来总是误会",
+    "summary": "4月14日，李敖记录几天来一直看到那位小丫头在冰果部。今晚他去买香蕉，说要“两只”，她故意笑着说成“两斤”；李敖记下三天来两人总是这样误会，他说“两只”，她总是称“两斤”。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 537,
+      "note": "几天来李敖一直看到那小丫头在冰果部；今晚买香蕉，李敖说两只，她故意笑言两斤，三天来总是误会。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-10-return-treats-tianzhao-papaya-at-ice-shop-then-billiard-room-sees-huang-yuhua-without-speaking",
+      "preofficer-diary-1960-03-08-night-invites-liu-ruifu-to-play-billiards-at-little-girl-place-records-xiaomei-wage-food-and-one-day-off"
+    ],
+    "view": [
+      "冰果部线",
+      "日常互动线",
+      "小丫头线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月14日",
+      "冰果部",
+      "小丫头",
+      "香蕉",
+      "两只",
+      "两斤",
+      "误会"
+    ],
+    "people": [
+      "李敖",
+      "冰果部小丫头"
+    ],
+    "places": [
+      "冰果部"
+    ]
+  },
+  {
+    "date": "1960-04-14",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round124-april-1960-lines-531-545-april-14",
+    "id": "preofficer-diary-1960-04-14-roadside-melon-selling-girl-says-li-is-ka-sui-when-he-walks-by",
+    "displayDate": "1960年4月14日星期四04卖瓜女孩子说卡岁",
+    "title": "李敖走过路边卖瓜女孩子时，她说他“卡岁”",
+    "summary": "4月14日，李敖走过路边卖瓜的女孩子时，听见她说自己“卡岁”。本条按路边日常见闻入库，原文未进一步解释此语。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 539,
+      "note": "路边卖瓜的女孩子在李敖走过时说他“卡岁”。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-14-at-ice-fruit-department-banana-two-pieces-two-jin-misunderstanding-with-little-girl-for-three-days"
+    ],
+    "view": [
+      "路边见闻线",
+      "日常互动线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月14日",
+      "卖瓜女孩子",
+      "卡岁",
+      "路边见闻"
+    ],
+    "people": [
+      "李敖",
+      "卖瓜女孩子"
+    ],
+    "places": [
+      "四二炮连附近"
+    ]
+  },
+  {
+    "date": "1960-04-14",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round124-april-1960-lines-531-545-april-14",
+    "id": "preofficer-diary-1960-04-14-folds-toilet-paper-jia-guicheng-jokes-he-could-run-brothel-and-gives-rubber-sleeve",
+    "displayDate": "1960年4月14日星期四05叠草纸与贾贵诚妓院老板玩笑",
+    "title": "李敖叠草纸，贾贵诚说他退伍后可当妓院老板，并送他一个胶套",
+    "summary": "4月14日，李敖叠草纸。贾贵诚说，李敖退伍后可以当妓院老板，因为叠得好；李敖补记自己一次不过叠六张，比他们多四张，须要“料钱”。贾贵诚还送他一个胶套。此条按军中粗俗玩笑与物件往来处理。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 541,
+      "note": "李敖叠草纸；贾贵诚说李敖退伍后可当妓院老板，因为叠得好；李敖记一次六张，比他们多四张，要“料钱”；贾贵诚送胶套一个。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-04-jia-guicheng-says-women-he-played-with-in-taiwan-could-fill-a-company",
+      "preofficer-diary-1960-04-11-at-renwu-special-tea-room-copies-rules-banning-photos-love-talk-and-limiting-forty-minutes"
+    ],
+    "view": [
+      "贾贵诚线",
+      "军中粗俗玩笑线",
+      "日用品线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月14日",
+      "叠草纸",
+      "贾贵诚",
+      "妓院老板",
+      "料钱",
+      "胶套",
+      "军中玩笑"
+    ],
+    "people": [
+      "李敖",
+      "贾贵诚"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-14",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round124-april-1960-lines-531-545-april-14",
+    "id": "preofficer-diary-1960-04-14-writes-three-page-letters-to-qiqing-and-guangcheng-one-letter-to-yuqing-and-sends-lecture-notes-to-hongmou",
+    "displayDate": "1960年4月14日星期四06给启庆广诚育清写信并寄宏谋讲义",
+    "title": "李敖给萧启庆、朱广诚各写三页信，给育清一信，并给马宏谋寄讲义",
+    "summary": "4月14日，李敖给萧启庆、朱广诚各写三页信，又给谌育清一封信，并给马宏谋寄讲义。此条按通信与寄送材料动作入库。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 543,
+      "note": "李敖给启庆、广诚各三页信，育清一信，并给宏谋寄讲义。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-08-receives-letters-from-qiqing-and-guangcheng-with-shugu-note-attached",
+      "preofficer-diary-1960-04-12-receives-five-page-letter-from-ma-hongmou",
+      "preofficer-diary-1960-04-07-from-after-breakfast-to-before-dinner-finishes-long-english-letter-to-qiqing-and-feels-tired-dizzy-happy-with-result",
+      "preofficer-diary-1960-02-19-writes-yuqing-about-not-returning-visit-and-postcard-to-qiqing-to-buy-diarybook"
+    ],
+    "view": [
+      "通信线",
+      "萧启庆通信线",
+      "朱广诚线",
+      "宏谋通信线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月14日",
+      "萧启庆",
+      "启庆",
+      "朱广诚",
+      "广诚",
+      "谌育清",
+      "育清",
+      "马宏谋",
+      "宏谋",
+      "三页信",
+      "讲义"
+    ],
+    "people": [
+      "李敖",
+      "萧启庆",
+      "朱广诚",
+      "谌育清",
+      "马宏谋"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-14",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round124-april-1960-lines-531-545-april-14",
+    "id": "preofficer-diary-1960-04-14-works-at-night-until-1040-before-sleeping",
+    "displayDate": "1960年4月14日星期四07夜工作到10点40分始睡",
+    "title": "李敖夜里工作到10点40分才睡",
+    "summary": "4月14日夜，李敖工作到10点40分才睡。此条收束当天用功、通信与作息记录。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 545,
+      "note": "李敖夜工作到10点40分始睡。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-14-platoon-leaders-say-li-studies-all-day-and-never-rests-after-early-waking-insomnia-he-writes-letters-to-relieve-fatigue",
+      "preofficer-diary-1960-04-14-writes-three-page-letters-to-qiqing-and-guangcheng-one-letter-to-yuqing-and-sends-lecture-notes-to-hongmou"
+    ],
+    "view": [
+      "作息线",
+      "工作用功线",
+      "军中日常线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月14日",
+      "夜工作",
+      "10点40分",
+      "睡眠",
+      "用功"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-15",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round125-april-1960-lines-547-579-april-15",
+    "id": "preofficer-diary-1960-04-15-latrine-too-far-second-urination-comes-after-walking-back",
+    "displayDate": "1960年4月15日星期五01茅房太远第二泡尿又来",
+    "title": "李敖记录茅房太远，走回来后第二泡尿又来了",
+    "summary": "4月15日，李敖记录军中茅房太远，走回来后第二泡尿又来了。此条保留琐碎身体与营区设施日常。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 549,
+      "note": "茅房太远，李敖走回来，第二泡尿又来了。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-03-05-letter-to-mother-describes-renwu-fengshan-north-heat-flies-flypaper-water-bedbugs-mosquitoes-toilet-squatting-traffic",
+      "preofficer-diary-1960-04-14-platoon-leaders-say-li-studies-all-day-and-never-rests-after-early-waking-insomnia-he-writes-letters-to-relieve-fatigue"
+    ],
+    "view": [
+      "军中日常线",
+      "身体琐事线",
+      "营区设施线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月15日",
+      "茅房",
+      "厕所远",
+      "尿",
+      "军中日常"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-15",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round125-april-1960-lines-547-579-april-15",
+    "id": "preofficer-diary-1960-04-15-goes-to-fengshan-for-errands-washes-hat-repairs-lining-and-belt-buys-rubber-sleeve-and-second-lieutenant-insignia",
+    "displayDate": "1960年4月15日星期五02赴凤山办琐事省钱修帽皮带",
+    "title": "李敖赴凤山办琐事，洗帽、修里边、修皮带并买胶套和少尉阶级，逐项记省钱账",
+    "summary": "4月15日，李敖有琐事待办，赴凤山。因舍不得花钱买新帽子，他洗帽一次花一元；修理里面花一元五角，省四元五角；修理皮带花一元，至少省十一元；又买一个符号用胶套一元、一个少尉阶级一元五角。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 551,
+      "note": "李敖赴凤山办琐事；洗帽一元，修理里边一元五，修理皮带一元，买胶套一元，买少尉阶级一元五角，并逐项记节省。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-14-receives-398-yuan-back-pay-buys-miscellaneous-items-and-picks-up-clothes-at-night",
+      "preofficer-diary-1960-03-09-first-wednesday-off-skips-breakfast-leaves-through-roped-door-takes-725-kaohsiung-bus-to-fengshan-and-reads-kiss-me-again-stranger",
+      "preofficer-diary-1959-12-26-repairs-hat-and-clothes-until-late-and-exchanges-hat-with-meng-datou"
+    ],
+    "view": [
+      "凤山线",
+      "省钱账线",
+      "军用品线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月15日",
+      "凤山",
+      "洗帽",
+      "修帽",
+      "修皮带",
+      "胶套",
+      "少尉阶级",
+      "省钱"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "凤山"
+    ]
+  },
+  {
+    "date": "1960-04-15",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round125-april-1960-lines-547-579-april-15",
+    "id": "preofficer-diary-1960-04-15-browses-bookstores-and-draws-lot-at-fengshan-longshan-temple-records-sacrifice-to-tiger-poem",
+    "displayDate": "1960年4月15日星期五03凤山逛书店龙山寺抽签",
+    "title": "李敖在凤山大逛书店，又在龙山寺抽签，记录“投身岩下饲于虎”等签诗",
+    "summary": "4月15日，李敖在凤山大逛书店，又到凤山龙山寺抽一签玩。他记录签诗：“投身岩下饲于虎，顺是还他大丈夫，舍己也应难再得，通行天下此人无。”李敖随后记录“以身委虎，自我牺牲，此何意也耶？”",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 553,
+      "note": "李敖大逛书店，在凤山龙山寺抽一签玩，并记录“投身岩下饲于虎”等签诗及“以身委虎，自我牺牲”之问。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-10-draws-lot-at-wumiao-and-records-sign-poem",
+      "preofficer-diary-1960-04-10-goes-with-huajun-to-sangu-temple-xingji-palace-and-grand-guanyin-temple-to-draw-two-lots",
+      "preofficer-diary-1960-03-24-pan-buyue-invites-penniless-li-to-draw-lot-records-summer-south-line-and-four-line-poem",
+      "preofficer-diary-1960-03-09-first-wednesday-off-skips-breakfast-leaves-through-roped-door-takes-725-kaohsiung-bus-to-fengshan-and-reads-kiss-me-again-stranger"
+    ],
+    "view": [
+      "凤山线",
+      "书店线",
+      "抽签线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月15日",
+      "凤山",
+      "书店",
+      "凤山龙山寺",
+      "龙山寺",
+      "抽签",
+      "签诗",
+      "以身委虎",
+      "自我牺牲"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "凤山",
+      "凤山龙山寺"
+    ]
+  },
+  {
+    "date": "1960-04-15",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round125-april-1960-lines-547-579-april-15",
+    "id": "preofficer-diary-1960-04-15-lunches-at-chen-shaopeng-home-talks-all-day-and-leaves-after-dinner",
+    "displayDate": "1960年4月15日星期五04陈绍鹏家午饭谈至晚饭后归",
+    "title": "李敖在陈绍鹏家午饭，小菜甚佳，与陈先生上天下地谈了一整天，晚饭后才归",
+    "summary": "4月15日，李敖在陈绍鹏家午饭，记录小菜甚佳。他与陈先生上天下地谈了一整天，下午又没有走成，直到晚饭后才归。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 565,
+      "note": "李敖在陈绍鹏家午饭，小菜甚佳，上天下地与陈先生谈累日，下午又未走成，晚饭后始归。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-03-20-arrives-fengshan-at-three-talks-with-mr-chen-dines-at-chen-home-misses-train-and-takes-rickshaw-to-station",
+      "preofficer-diary-1959-12-27-visits-chen-shaopeng-home-hears-cheng-dongbai-death-discusses-overseas-affairs-and-lunches",
+      "preofficer-diary-1959-10-10-first-outing-national-day-visits-chen-shaopeng"
+    ],
+    "view": [
+      "陈绍鹏线",
+      "凤山线",
+      "师友谈话线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月15日",
+      "陈绍鹏",
+      "陈先生",
+      "午饭",
+      "晚饭",
+      "凤山",
+      "谈话"
+    ],
+    "people": [
+      "李敖",
+      "陈绍鹏"
+    ],
+    "places": [
+      "凤山",
+      "陈绍鹏家"
+    ]
+  },
+  {
+    "date": "1960-04-15",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round125-april-1960-lines-547-579-april-15",
+    "id": "preofficer-diary-1960-04-15-at-chen-home-records-black-license-professor-white-license-professor-and-talks-with-huang-chunren",
+    "displayDate": "1960年4月15日星期五05陈家谈黑牌白牌教授与黄纯仁",
+    "title": "李敖在陈家记录黑牌教授、白牌不敢执教教授，并与黄纯仁谈中山大学及吴康",
+    "summary": "4月15日，在陈绍鹏家谈话中，李敖记录有所谓黑牌教授廖英鸣，也有白牌却不敢执教的教授张松涵。他又与黄纯仁谈话，认为黄纯仁甚迂但人甚好；黄纯仁为中山大学及吴康辩护。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 567,
+      "note": "陈家谈话中，李敖记录黑牌教授廖英鸣、白牌不敢执教的教授张松涵；又与黄纯仁谈，黄为中山大学及吴康辩护。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-15-lunches-at-chen-shaopeng-home-talks-all-day-and-leaves-after-dinner"
+    ],
+    "view": [
+      "陈绍鹏线",
+      "教育人物线",
+      "谈话见闻线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月15日",
+      "陈绍鹏家",
+      "黑牌教授",
+      "廖英鸣",
+      "白牌教授",
+      "张松涵",
+      "黄纯仁",
+      "中山大学",
+      "吴康"
+    ],
+    "people": [
+      "李敖",
+      "陈绍鹏",
+      "廖英鸣",
+      "张松涵",
+      "黄纯仁",
+      "吴康"
+    ],
+    "places": [
+      "凤山",
+      "陈绍鹏家",
+      "中山大学"
+    ]
+  },
+  {
+    "date": "1960-04-15",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round125-april-1960-lines-547-579-april-15",
+    "id": "preofficer-diary-1960-04-15-at-chen-home-talks-poetry-and-books-chen-corrects-laoma-letter-li-records-english-hard-to-learn",
+    "displayDate": "1960年4月15日星期五06陈家谈诗谈书改老马信",
+    "title": "李敖在陈家谈诗谈书，陈先生改老马信，使李敖记录英文不易学、陈先生程度不易到达",
+    "summary": "4月15日，在陈绍鹏家，李敖与陈先生谈诗谈书。陈先生改老马信，使李敖记录英文实在不易学，能够达到陈先生的程度也很不容易。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 571,
+      "note": "在陈家谈诗谈书；陈先生改老马信，李敖记录英文诚不易学，臻于陈之程度已非易易。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-15-lunches-at-chen-shaopeng-home-talks-all-day-and-leaves-after-dinner",
+      "preofficer-diary-1959-11-01-night-guard-chen-home-rice-wine-and-english-talk",
+      "preofficer-diary-1960-03-30-afternoon-sends-postcards-to-huajun-qiyang-shike-and-four-page-letter-to-hongmou"
+    ],
+    "view": [
+      "陈绍鹏线",
+      "英文学习线",
+      "马宏谋通信线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月15日",
+      "陈绍鹏",
+      "陈先生",
+      "谈诗",
+      "谈书",
+      "老马信",
+      "英文",
+      "马宏谋"
+    ],
+    "people": [
+      "李敖",
+      "陈绍鹏",
+      "马宏谋"
+    ],
+    "places": [
+      "凤山",
+      "陈绍鹏家"
+    ]
+  },
+  {
+    "date": "1960-04-15",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round125-april-1960-lines-547-579-april-15",
+    "id": "preofficer-diary-1960-04-15-urges-mr-chen-to-write-in-english-for-foreign-publication-after-english-poetry-suggestion-had-results",
+    "displayDate": "1960年4月15日星期五07力劝陈先生英文为文寄外国",
+    "title": "李敖力劝陈绍鹏走英文为文寄外国之路，并记录自己早年劝其搞英诗已见成绩",
+    "summary": "4月15日，李敖力劝陈先生走英文为文、寄给外国刊物的路。他记录这是给陈先生的第二大建议；第一大建议是搞英诗，几年里已有成绩，陈先生已经做起副教授。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 575,
+      "note": "李敖力劝陈先生走英文为文寄外国之路，称这是第二大建议；第一大建议搞英诗，已在几年里有成绩，副教授干起来了。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-15-at-chen-home-talks-poetry-and-books-chen-corrects-laoma-letter-li-records-english-hard-to-learn",
+      "preofficer-diary-1959-11-01-night-guard-chen-home-rice-wine-and-english-talk",
+      "daxue-zhaji-1957-08-08-remembers-chen-shaopeng-while-reading-english"
+    ],
+    "view": [
+      "陈绍鹏线",
+      "英文写作线",
+      "建议线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月15日",
+      "陈绍鹏",
+      "陈先生",
+      "英文为文",
+      "寄外国",
+      "英诗",
+      "副教授",
+      "建议"
+    ],
+    "people": [
+      "李敖",
+      "陈绍鹏"
+    ],
+    "places": [
+      "凤山",
+      "陈绍鹏家"
+    ]
+  },
+  {
+    "date": "1960-04-15",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round125-april-1960-lines-547-579-april-15",
+    "id": "preofficer-diary-1960-04-15-night-in-fengshan-buys-two-loose-leaf-papers-and-to-repeat-from-memory-for-thirteen-yuan",
+    "displayDate": "1960年4月15日星期五08凤山夜购活页纸与 To Repeat From Memory",
+    "title": "李敖夜里在凤山购得活页纸两本和 To Repeat From Memory 一册，共花十三元",
+    "summary": "4月15日夜，李敖在凤山购得活页纸两本，以及 To Repeat From Memory 一册，共花十三元。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 577,
+      "note": "李敖在凤山夜购得活页纸两本，To Repeat From Memory 一册，共花十三元。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-15-browses-bookstores-and-draws-lot-at-fengshan-longshan-temple-records-sacrifice-to-tiger-poem",
+      "preofficer-diary-1960-04-14-receives-398-yuan-back-pay-buys-miscellaneous-items-and-picks-up-clothes-at-night"
+    ],
+    "view": [
+      "购书线",
+      "凤山线",
+      "英文学习线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月15日",
+      "凤山",
+      "活页纸",
+      "To Repeat From Memory",
+      "十三元",
+      "购书",
+      "英文"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "凤山"
+    ]
+  },
+  {
+    "date": "1960-04-15",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round125-april-1960-lines-547-579-april-15",
+    "id": "preofficer-diary-1960-04-15-after-getting-off-buys-shoe-polish-and-other-reserves-spending-21-yuan-9-jiao",
+    "displayDate": "1960年4月15日星期五09下车后买鞋油等预储",
+    "title": "李敖下车后买鞋油等预储，共花二十一元九角",
+    "summary": "4月15日，李敖下车后买鞋油等物作为预储，共花二十一元九角。此条收束当天凤山外出后的采购与花费。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 579,
+      "note": "李敖下车后买鞋油等预储，花了二十一元九角。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-15-goes-to-fengshan-for-errands-washes-hat-repairs-lining-and-belt-buys-rubber-sleeve-and-second-lieutenant-insignia",
+      "preofficer-diary-1960-04-15-night-in-fengshan-buys-two-loose-leaf-papers-and-to-repeat-from-memory-for-thirteen-yuan",
+      "preofficer-diary-1960-04-14-receives-398-yuan-back-pay-buys-miscellaneous-items-and-picks-up-clothes-at-night"
+    ],
+    "view": [
+      "采购线",
+      "花费线",
+      "军中日用品线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月15日",
+      "鞋油",
+      "预储",
+      "二十一元九角",
+      "采购",
+      "花费"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-16",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round126-april-1960-lines-581-593-april-16-17a",
+    "id": "preofficer-diary-1960-04-16-zhou-zhiming-says-li-has-quiet-heart",
+    "displayDate": "1960年4月16日星期六",
+    "title": "周志明说李敖有安静的心",
+    "summary": "4月16日，周志明对李敖说，有李敖那样安静的心就好了。李敖把这句同袍评价记入日记。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 583,
+      "note": "周志明说李敖“有你那么安静的心就好了”。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-06-zhou-yi-says-li-quiet-as-girl-and-yu-buyun-says-worthy-to-emulate-diligent-and-cultivated",
+      "preofficer-diary-1960-04-09-studies-alone-at-home-in-army-and-zhou-platoon-assistant-says-he-is-like-guard",
+      "preofficer-diary-1960-04-14-platoon-leaders-say-li-studies-all-day-and-never-rests-after-early-waking-insomnia-he-writes-letters-to-relieve-fatigue"
+    ],
+    "view": [
+      "同袍评价线",
+      "军中日常线",
+      "用功作息线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月16日",
+      "周志明",
+      "安静的心",
+      "同袍评价",
+      "四二炮连"
+    ],
+    "people": [
+      "李敖",
+      "周志明"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-17",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round126-april-1960-lines-581-593-april-16-17a",
+    "id": "preofficer-diary-1960-04-17-sees-young-woman-on-bus-and-another-beautiful-girl-in-tainan",
+    "displayDate": "1960年4月17日星期日01车上与台南女性见闻",
+    "title": "李敖在车上见一名少妇，下午在台南又见一名美丽女孩子",
+    "summary": "4月17日，李敖在车上见一名穿紫褐花旗袍、粉色长外衣、黑尖鞋的少妇，记其笑容和说话表情；下午在台南又见一名美丽女孩子。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 587,
+      "note": "李敖记车上一名少妇的衣着、笑容和说话表情，并补记下午在台南又见一名美丽女孩子。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-08-under-ice-shop-awning-again-sees-young-girl-from-nanfeng-and-records-clothing-and-soda-scene",
+      "preofficer-diary-1960-04-14-at-ice-fruit-department-banana-two-pieces-two-jin-misunderstanding-with-little-girl-for-three-days",
+      "preofficer-diary-1960-04-10-records-chihkan-tower-womens-shoes-costumes-and-official-book-bag-with-zhiri-gaosheng"
+    ],
+    "view": [
+      "女性见闻线",
+      "台南线",
+      "日常观察线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月17日",
+      "台南",
+      "车上",
+      "少妇",
+      "旗袍",
+      "女性见闻",
+      "日常观察"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "车上",
+      "台南"
+    ]
+  },
+  {
+    "date": "1960-04-17",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round126-april-1960-lines-581-593-april-16-17a",
+    "id": "preofficer-diary-1960-04-17-records-news-of-foreigners-kissing-in-tamsui-and-police-calling-it-obscene",
+    "displayDate": "1960年4月17日星期日02淡水洋人接吻新闻",
+    "title": "李敖记录淡水洋人当街接吻新闻，并评论国人保守",
+    "summary": "4月17日，李敖记录报载淡水洋人当街接吻引起路人围观，警察以“有伤风化”请入派出所；他据此评论国人保守迂腐。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 589,
+      "note": "日记摘录淡水洋人当街接吻被警察以“有伤风化”请入派出所的新闻，并记李敖的社会评论。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-12-records-united-daily-news-report-on-sexology-professor-dismissal-and-academic-freedom-protest",
+      "preofficer-diary-1960-04-04-copies-united-daily-news-report-on-fourteen-year-old-girl-forced-into-prostitution",
+      "preofficer-diary-1960-04-09-records-three-short-news-items-elvis-father-remarriage-contraceptive-pill-and-female-candidate-name"
+    ],
+    "view": [
+      "剪报线",
+      "社会观察线",
+      "风化议题线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月17日",
+      "淡水",
+      "洋人",
+      "接吻",
+      "有伤风化",
+      "派出所",
+      "剪报",
+      "社会观察"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "淡水"
+    ]
+  },
+  {
+    "date": "1960-04-17",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round126-april-1960-lines-581-593-april-16-17a",
+    "id": "preofficer-diary-1960-04-17-records-zhang-man-running-for-miss-china-reported-in-newspaper",
+    "displayDate": "1960年4月17日星期日03张曼竞选中国小姐见报",
+    "title": "李敖记录张曼竞选中国小姐见报",
+    "summary": "4月17日，李敖记录张曼竞选中国小姐的消息见报，并说此事此前已在他的预料中。此条只收日记中关于张曼选美消息的当日记录，不并入后来的《中国小姐论》写作或发表节点。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 591,
+      "note": "李敖记张曼竞选中国小姐今日见报，并说此事早在他预料中。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-02-27-campus-with-guying-meets-zhangman-shibai-like-caocao-zhangman-recognizes-photo-chai-shuwen-zhang-shangde",
+      "preofficer-diary-1960-02-28-before-night-train-meets-zhangman-again-she-says-clothes-change-fast",
+      "preofficer-diary-1959-12-10-sends-photos-to-zhang-man-cheng-youmei-and-talks-hu-shih-with-zhou-chuntang",
+      "traditional-monologue-1961-06-china-miss-theory-published-in-renjianshi",
+      "zaonian-riji-1961-04-14-checks-dazangjing-for-yao-and-copies-chinese-miss"
+    ],
+    "view": [
+      "张曼线",
+      "中国小姐线",
+      "剪报线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月17日",
+      "张曼",
+      "中国小姐",
+      "选美",
+      "见报",
+      "剪报"
+    ],
+    "people": [
+      "李敖",
+      "张曼"
+    ],
+    "places": []
+  },
+  {
+    "date": "1960-04-17",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round126-april-1960-lines-581-593-april-16-17a",
+    "id": "preofficer-diary-1960-04-17-shanpei-duty-and-loses-money-li-sends-57-yuan-6-jiao-by-express-registered-mail",
+    "displayDate": "1960年4月17日星期日04寄款给善培",
+    "title": "善培值星不能来且失款，李敖限时挂号寄五十七元六角并写信嘱小心",
+    "summary": "4月17日，李敖得知善培因值星不能来，又知道善培失款，便以限时挂号寄去五十七元六角，并在信中嘱其小心。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 593,
+      "note": "善培值星不能来，又失款；李敖限时挂号寄五十七元六角，并写信嘱其小心。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-09-receives-shanpei-letter-saying-cannot-go-to-tainan-tomorrow-and-complaining-li-family-dog-bit-aba",
+      "preofficer-diary-1960-04-14-receives-398-yuan-back-pay-buys-miscellaneous-items-and-picks-up-clothes-at-night",
+      "preofficer-diary-1960-03-30-receives-shanpei-postcard-with-address"
+    ],
+    "view": [
+      "李善培线",
+      "通信线",
+      "钱款互助线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月17日",
+      "李善培",
+      "善培",
+      "值星",
+      "失款",
+      "限时挂号",
+      "五十七元六角",
+      "寄款",
+      "书信"
+    ],
+    "people": [
+      "李敖",
+      "李善培"
+    ],
+    "places": []
+  },
+  {
+    "date": "1960-04-17",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round127-april-1960-lines-595-605-april-17b",
+    "id": "preofficer-diary-1960-04-17-with-huajun-browses-bookstores-lunches-at-wu-chaoshou-watches-solomon-and-sheba-and-practices-english-listening",
+    "displayDate": "1960年4月17日星期日05华俊书店吴抄手与电影",
+    "title": "李敖与华俊逛书店，在吴抄手午饭后看《所罗门王》并练习听英语",
+    "summary": "4月17日，李敖与华俊逛书店，在吴抄手午饭后看《所罗门王》（Solomen and Sheba）。他记录尤伯连纳眼神、珍纳露露布丽姬妲的形象，并说练习听英语颇有所得。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 595,
+      "note": "李敖与华俊逛书店，在吴抄手午饭后看《所罗门王》（Solomen and Sheba），并练习听英语。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-10-browses-bookstores-with-huajun-buys-cheap-mathews-chinese-english-dictionary",
+      "preofficer-diary-1960-04-10-lunch-and-dinner-at-wu-chaoshou-pickles-casseroles-and-spends-over-eighty-yuan",
+      "preofficer-diary-1960-04-15-night-in-fengshan-buys-two-loose-leaf-papers-and-to-repeat-from-memory-for-thirteen-yuan",
+      "preofficer-diary-1960-04-02-huajun-praises-li-effort-and-enthusiasm-in-english"
+    ],
+    "view": [
+      "台南线",
+      "华俊线",
+      "电影线",
+      "英文学习线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月17日",
+      "华俊",
+      "书店",
+      "吴抄手",
+      "所罗门王",
+      "Solomen and Sheba",
+      "电影",
+      "英文听力"
+    ],
+    "people": [
+      "李敖",
+      "华俊",
+      "尤伯连纳",
+      "珍纳露露布丽姬妲"
+    ],
+    "places": [
+      "台南",
+      "吴抄手"
+    ]
+  },
+  {
+    "date": "1960-04-17",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round127-april-1960-lines-595-605-april-17b",
+    "id": "preofficer-diary-1960-04-17-buys-pocket-book-of-popular-verse-and-american-pronunciation-for-yugang-and-buyue",
+    "displayDate": "1960年4月17日星期日06买英文书送毓刚步岳",
+    "title": "李敖买英文诗选与美国英语发音，共二十元，送毓刚和步岳",
+    "summary": "4月17日，李敖买 The Pocket Book of Popular Verse 及美国英语发音，共花二十元。他把书作为毓刚的生日小礼物，并送给步岳。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 597,
+      "note": "李敖买 The Pocket Book of Popular Verse 及美国英语发音，共二十元，送毓刚作生日小礼物及送步岳。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-03-11-pan-yugang-birthday-li-prepares-to-write-comic-birthday-poem",
+      "preofficer-diary-1960-03-12-diary-copies-pan-yugang-birthday-poem-with-fourteen-notes",
+      "preofficer-diary-1960-04-07-explains-poem-to-pan-buyue-and-translates-housman-you-smile-upon-your-friend-today-as-death-separation",
+      "preofficer-diary-1960-04-15-night-in-fengshan-buys-two-loose-leaf-papers-and-to-repeat-from-memory-for-thirteen-yuan"
+    ],
+    "view": [
+      "购书线",
+      "赠书线",
+      "潘毓刚线",
+      "潘步岳线",
+      "英文学习线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月17日",
+      "The Pocket Book of Popular Verse",
+      "美国英语发音",
+      "二十元",
+      "潘毓刚",
+      "毓刚",
+      "潘步岳",
+      "步岳",
+      "生日礼物",
+      "赠书"
+    ],
+    "people": [
+      "李敖",
+      "潘毓刚",
+      "潘步岳"
+    ],
+    "places": [
+      "台南"
+    ]
+  },
+  {
+    "date": "1960-04-17",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round127-april-1960-lines-595-605-april-17b",
+    "id": "preofficer-diary-1960-04-17-with-huajun-gives-yingshan-diary-writes-preface-and-eats-cheap-dinner-at-wu-chaoshou",
+    "displayDate": "1960年4月17日星期日07合送英善日记并省钱夜饭",
+    "title": "李敖与华俊合送英善日记一册并写序文，夜饭在吴抄手省钱吃红烧牛肉及花卷",
+    "summary": "4月17日，李敖与华俊合送英善日记一册，花十三元；日记里页有李敖写的“序文”。夜饭仍在吴抄手，李敖为省钱只吃红烧牛肉及花卷。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 599,
+      "note": "李敖与华俊合送英善日记一册十三元，里页有李敖“序文”；吴抄手夜饭为省钱吃红烧牛肉及花卷。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-10-lunch-and-dinner-at-wu-chaoshou-pickles-casseroles-and-spends-over-eighty-yuan",
+      "preofficer-diary-1960-04-06-receives-yingshan-postcard-saying-assigned-to-keelung-fourth-room-misses-li-and-shugu-guangcheng-to-cadre-school",
+      "preofficer-diary-1960-04-14-receives-398-yuan-back-pay-buys-miscellaneous-items-and-picks-up-clothes-at-night",
+      "preofficer-diary-1960-04-17-with-huajun-browses-bookstores-lunches-at-wu-chaoshou-watches-solomon-and-sheba-and-practices-english-listening"
+    ],
+    "view": [
+      "孙英善线",
+      "赠物线",
+      "华俊线",
+      "吴抄手线",
+      "花费线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月17日",
+      "华俊",
+      "孙英善",
+      "英善",
+      "日记",
+      "序文",
+      "十三元",
+      "吴抄手",
+      "红烧牛肉",
+      "花卷",
+      "省钱"
+    ],
+    "people": [
+      "李敖",
+      "华俊",
+      "孙英善"
+    ],
+    "places": [
+      "台南",
+      "吴抄手"
+    ]
+  },
+  {
+    "date": "1960-04-17",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round127-april-1960-lines-595-605-april-17b",
+    "id": "preofficer-diary-1960-04-17-buys-one-pair-of-socks-for-ten-yuan",
+    "displayDate": "1960年4月17日星期日08买袜子",
+    "title": "李敖买袜子一双，花十元",
+    "summary": "4月17日，李敖买袜子一双，花十元。此条保留当天小额日用品采购。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 601,
+      "note": "李敖买袜子一双，十元。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-15-after-getting-off-buys-shoe-polish-and-other-reserves-spending-21-yuan-9-jiao",
+      "preofficer-diary-1960-04-15-goes-to-fengshan-for-errands-washes-hat-repairs-lining-and-belt-buys-rubber-sleeve-and-second-lieutenant-insignia",
+      "preofficer-diary-1960-04-14-receives-398-yuan-back-pay-buys-miscellaneous-items-and-picks-up-clothes-at-night"
+    ],
+    "view": [
+      "采购线",
+      "花费线",
+      "军中日用品线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月17日",
+      "袜子",
+      "十元",
+      "采购",
+      "日用品",
+      "花费"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台南"
+    ]
+  },
+  {
+    "date": "1960-04-17",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round127-april-1960-lines-595-605-april-17b",
+    "id": "preofficer-diary-1960-04-17-urges-huajun-to-quit-billiards-and-study",
+    "displayDate": "1960年4月17日星期日09劝华俊戒弹子",
+    "title": "李敖力劝华俊戒弹子等以向学",
+    "summary": "4月17日，李敖力劝华俊戒弹子等事，把注意力转向求学。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 603,
+      "note": "李敖力劝华俊戒弹子等以向学。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-02-huajun-praises-li-effort-and-enthusiasm-in-english",
+      "preofficer-diary-1960-04-10-evening-huajun-hires-rickshaw-to-station-and-li-keeps-american-style-payment",
+      "daxue-houqi-yi-1959-08-02-jing-helps-pack-and-huajun-hongxiang-youliang-treat-lunch-before-billiards"
+    ],
+    "view": [
+      "华俊线",
+      "劝学线",
+      "朋友交往线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月17日",
+      "华俊",
+      "弹子",
+      "戒弹子",
+      "劝学",
+      "朋友交往"
+    ],
+    "people": [
+      "李敖",
+      "华俊"
+    ],
+    "places": [
+      "台南"
+    ]
+  },
+  {
+    "date": "1960-04-17",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round127-april-1960-lines-595-605-april-17b",
+    "id": "preofficer-diary-1960-04-17-night-writes-one-letter-each-to-yugang-and-hongmou",
+    "displayDate": "1960年4月17日星期日10夜给毓刚宏谋信",
+    "title": "李敖夜里给毓刚及宏谋各写一信",
+    "summary": "4月17日夜，李敖给毓刚及宏谋各写一封信。此条接续当天给毓刚购生日小礼物和此前宏谋五页来信的通信线。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 605,
+      "note": "李敖夜给毓刚及宏谋各一信。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-17-buys-pocket-book-of-popular-verse-and-american-pronunciation-for-yugang-and-buyue",
+      "preofficer-diary-1960-04-12-receives-five-page-letter-from-ma-hongmou",
+      "preofficer-diary-1960-04-14-writes-three-page-letters-to-qiqing-and-guangcheng-one-letter-to-yuqing-and-sends-lecture-notes-to-hongmou",
+      "preofficer-diary-1960-04-13-writes-thirteen-page-joint-letter-to-zhouhong-sun-yingshan-and-chen-guying"
+    ],
+    "view": [
+      "通信线",
+      "潘毓刚线",
+      "马宏谋线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月17日",
+      "潘毓刚",
+      "毓刚",
+      "马宏谋",
+      "宏谋",
+      "写信",
+      "书信"
+    ],
+    "people": [
+      "李敖",
+      "潘毓刚",
+      "马宏谋"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-18",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round128-april-1960-lines-607-613-april-18",
+    "id": "preofficer-diary-1960-04-18-records-platoon-leader-zhu-slapping-soldier-and-making-him-kneel",
+    "displayDate": "1960年4月18日星期一01朱排长打兵罚跪",
+    "title": "李敖记录朱排长打兵耳光又罚跪",
+    "summary": "4月18日，李敖记录朱排长打兵耳光，又罚兵跪下。此条按李敖日记中的军中管教见闻处理。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 609,
+      "note": "李敖记录朱排长打兵耳光又罚跪。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-09-writes-yisi-bugua-song-on-nude-photo-taken-by-sun-yuhua-with-april-27-note-zhu-platoon-leader-memorized-it",
+      "preofficer-diary-1960-04-04-cao-zihua-says-he-was-forced-to-charge-with-knife-and-two-grenades-and-li-records-old-soldier-hardship",
+      "preofficer-diary-1960-04-04-night-cao-zihua-shows-body-wounds-and-says-bullet-still-under-right-armpit-life-picked-up"
+    ],
+    "view": [
+      "军中管教线",
+      "朱排长线",
+      "军中见闻线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月18日",
+      "朱排长",
+      "打兵",
+      "耳光",
+      "罚跪",
+      "军中管教",
+      "军中见闻"
+    ],
+    "people": [
+      "李敖",
+      "朱排长"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-18",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round128-april-1960-lines-607-613-april-18",
+    "id": "preofficer-diary-1960-04-18-afternoon-receives-letter-from-qiu-zhenjing",
+    "displayDate": "1960年4月18日星期一02接镇京信",
+    "title": "李敖午后收到镇京来信",
+    "summary": "4月18日午后，李敖收到镇京来信。此条接续预官日记中邱镇京与李敖的同学、通信和军中友谊线。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 611,
+      "note": "李敖午后接镇京信。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-01-25-qiu-zhenjing-six-photos-li-chooses-one-writes-poem-and-quarrels-over-rhyme",
+      "preofficer-diary-1960-01-16-bingguang-says-li-character-like-westerners-dingyuan-bandit-grandfather-and-zhenjing-asks-quasi-portrait",
+      "preofficer-diary-1960-04-03-xiaopan-postcard-says-frontline-classmates-scattered-and-some-met-at-officer-lecture-hall"
+    ],
+    "view": [
+      "通信线",
+      "邱镇京线",
+      "军中友谊线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月18日",
+      "邱镇京",
+      "镇京",
+      "来信",
+      "通信",
+      "午后"
+    ],
+    "people": [
+      "李敖",
+      "邱镇京"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-18",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round128-april-1960-lines-607-613-april-18",
+    "id": "preofficer-diary-1960-04-18-spends-too-much-time-on-da-essay-while-practicing-english-and-records-need-to-stop",
+    "displayDate": "1960年4月18日星期一03“大”文与英文时间管理",
+    "title": "李敖记录作“大”文花太多时间，虽为搞英文仍应戒止",
+    "summary": "4月18日，李敖记录自己又在作“大”文上花了太多时间；虽也是为了搞英文，但他认为这样不可，明日应当戒止。此条按英文学习与时间管理记录处理。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 613,
+      "note": "李敖记录自己又在作“大”文上花太多时间，虽亦为搞英文，却属不可，明当戒之。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1959-10-31-life-adjustment-seven-resolutions-and-pocket-english-method",
+      "preofficer-diary-1960-03-14-records-english-study-as-urgent-and-plans-more-english-letters",
+      "preofficer-diary-1960-03-30-after-lunch-classifies-english-compositions-until-dinner",
+      "preofficer-diary-1960-04-15-at-chen-home-talks-poetry-and-books-chen-corrects-laoma-letter-li-records-english-hard-to-learn"
+    ],
+    "view": [
+      "英文学习线",
+      "写作线",
+      "时间管理线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月18日",
+      "大文",
+      "英文",
+      "搞英文",
+      "英文作文",
+      "时间管理",
+      "戒止"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-19",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round129-april-1960-lines-615-621-april-19a",
+    "id": "preofficer-diary-1960-04-19-morning-pan-buyue-accompanies-li-to-negotiate-not-attending-forward-five-day-seminar-and-see-left-eye-and-teeth",
+    "displayDate": "1960年4月19日星期二01步岳陪交涉讲习与看眼牙",
+    "title": "早上潘步岳陪李敖交涉不参加前瞻五天讲习，并去看左眼及牙",
+    "summary": "4月19日早上，潘步岳陪李敖交涉不参加前瞻五天讲习的事；随后李敖去看左眼及牙。此条收军中讲习交涉与医疗日常。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 617,
+      "note": "早上潘步岳陪李敖交涉不参加前瞻五天讲习事，并去看左眼及牙。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-03-14-night-talks-literary-line-with-pan-buyue-and-corrects-his-composition",
+      "preofficer-diary-1960-03-25-before-night-bath-pan-buyue-lends-two-yuan-and-borrows-fifty-from-tianzhao-for-li-travel-fare",
+      "preofficer-diary-1960-04-17-buys-pocket-book-of-popular-verse-and-american-pronunciation-for-yugang-and-buyue"
+    ],
+    "view": [
+      "潘步岳线",
+      "军中讲习线",
+      "医疗线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月19日",
+      "潘步岳",
+      "步岳",
+      "前瞻五天讲习",
+      "交涉",
+      "左眼",
+      "看牙",
+      "医疗日常"
+    ],
+    "people": [
+      "李敖",
+      "潘步岳"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-19",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round129-april-1960-lines-615-621-april-19a",
+    "id": "preofficer-diary-1960-04-19-afternoon-tianzhao-and-xiao-jingchang-come-and-press-li-to-attend-tianzhao-banquet-with-company-officers",
+    "displayDate": "1960年4月19日星期二02天昭镜昌强邀赴宴",
+    "title": "午后天昭及萧镜昌来，强邀李敖赴天昭之宴",
+    "summary": "4月19日午后，天昭及萧镜昌来，强邀李敖参加天昭之宴；李敖屡辞不获，只好同行。同行者包括四二炮连连长、副连长、排长及尔昭等。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 619,
+      "note": "午后天昭及镜昌来，强邀天昭之宴；李敖屡却不获而同行，同行者有四二炮连连长、副连长、排长及尔昭等。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-03-24-tianzhao-leaves-note-raises-return-travel-money-brings-qingmao-erlin-letters-li-returns-sweaty-and-reads-yugang-qingmao",
+      "preofficer-diary-1960-03-14-xiao-jingchang-and-xie-jingqing-visit-li",
+      "preofficer-diary-1960-03-17-after-dinner-xiao-jingchang-and-xie-jingqing-talk-two-hours-li-takes-notes",
+      "preofficer-diary-1960-04-10-return-treats-tianzhao-papaya-at-ice-shop-then-billiard-room-sees-huang-yuhua-without-speaking"
+    ],
+    "view": [
+      "天昭线",
+      "萧镜昌线",
+      "军中交往线",
+      "宴饮线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月19日",
+      "天昭",
+      "萧镜昌",
+      "镜昌",
+      "尔昭",
+      "四二炮连连长",
+      "副连长",
+      "排长",
+      "赴宴",
+      "军中交往"
+    ],
+    "people": [
+      "李敖",
+      "天昭",
+      "萧镜昌",
+      "尔昭",
+      "四二炮连连长",
+      "副连长",
+      "排长"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-19",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round129-april-1960-lines-615-621-april-19a",
+    "id": "preofficer-diary-1960-04-19-before-banquet-watches-nero-weekends-records-romantic-flavor-and-bb-scenes-cut",
+    "displayDate": "1960年4月19日星期二03看尼罗王与妖姬",
+    "title": "赴宴前李敖等先看《尼罗王与妖姬》，并记录 B. B. 镜头被剪",
+    "summary": "4月19日赴天昭之宴前，李敖与同行者先看《尼罗王与妖姬》（Les Week-Ends De Neron，即 Nero's Week Ends）。李敖记录此片颇富浪漫主义之味，又记 B. B. 镜头照例被剪去许多。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 619,
+      "note": "赴天昭之宴前先看《尼罗王与妖姬》（Les Week-Ends De Neron / Nero's Week Ends）；李敖记录影片浪漫主义之味和 B. B. 镜头被剪。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1959-11-12-kaohsiung-misses-hongyi-lunches-alone-watches-the-night-heaven-fell-and-notes-girls",
+      "preofficer-diary-1959-11-19-finishes-fifteen-page-letter-to-hongxiang-from-bb-night-in-heaven-fell-to-ruanji-lizhi-and-pan-moralism",
+      "preofficer-diary-1959-12-11-notes-bb-company-break-over-nude-scene-script-and-compares-with-marilyn-monroe",
+      "preofficer-diary-1960-04-19-afternoon-tianzhao-and-xiao-jingchang-come-and-press-li-to-attend-tianzhao-banquet-with-company-officers"
+    ],
+    "view": [
+      "电影线",
+      "B. B.线",
+      "天昭线",
+      "高雄外出线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月19日",
+      "尼罗王与妖姬",
+      "Les Week-Ends De Neron",
+      "Nero's Week Ends",
+      "B. B.",
+      "电影检查",
+      "浪漫主义",
+      "电影"
+    ],
+    "people": [
+      "李敖",
+      "B. B.",
+      "天昭",
+      "萧镜昌"
+    ],
+    "places": [
+      "高雄"
+    ]
+  },
+  {
+    "date": "1960-04-19",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round129-april-1960-lines-615-621-april-19a",
+    "id": "preofficer-diary-1960-04-19-goes-to-nanfeng-sits-briefly-and-sees-pseudo-rosa",
+    "displayDate": "1960年4月19日星期二04南风小坐见Pseudo-Rosa",
+    "title": "李敖赴南风小坐，见到 Pseudo-Rosa",
+    "summary": "4月19日，李敖赴南风小坐，见到 Pseudo-Rosa。他记录她似乎不如当年之美，但臂及小腿仍给他留下强烈印象。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 621,
+      "note": "李敖赴南风小坐，见 Pseudo-Rosa，并记录她似不若当年之美，唯臂及小腿仍极动人。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1959-11-29-nanfeng-kaohsiung-reunion-with-yingshan-yanzeng-xinhan-smokes-six-brands-sees-rosa-like-girl-and-buys-red-turtle-gift-for-guying",
+      "preofficer-diary-1959-12-13-kaohsiung-with-shanpei-ermi-cbc-nanfeng-pseudorosa-fruit-model-hu-shih-speech-film-zhencuanwei-and-sandra-dee-photo",
+      "preofficer-diary-1960-02-21-meets-yanzeng-at-wanguo-ice-shop-goes-nanfeng-with-pseudo-rosa-talks-occupational-guest-theory",
+      "preofficer-diary-1960-04-08-under-ice-shop-awning-again-sees-young-girl-from-nanfeng-and-records-clothing-and-soda-scene"
+    ],
+    "view": [
+      "南风线",
+      "Pseudo-Rosa线",
+      "女性见闻线",
+      "高雄外出线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月19日",
+      "南风",
+      "Pseudo-Rosa",
+      "高雄",
+      "女性见闻",
+      "小坐"
+    ],
+    "people": [
+      "李敖",
+      "Pseudo-Rosa"
+    ],
+    "places": [
+      "高雄南风",
+      "南风"
+    ]
+  },
+  {
+    "date": "1960-04-19",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round130-april-1960-lines-623-627-april-19b",
+    "id": "preofficer-diary-1960-04-19-at-dai-family-in-qianjin-reads-zhongri-pictorial-and-eats-rich-dinner",
+    "displayDate": "1960年4月19日星期二05戴家读中日画报与晚饭",
+    "title": "李敖到前金戴家，读《中日画报》并吃丰盛晚饭",
+    "summary": "4月19日，李敖到戴家。戴家为三层楼，在前金中正二路经营木行，装饰在李敖看来太土气。他在戴家大量读《中日画报》，记录其图片、明星材料的功用；晚饭有鱼肉蛤蜊等，菜色丰盛且多无台湾味。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 623,
+      "note": "戴家三层楼，在前金中正二路为木行；李敖在彼处大量读《中日画报》，晚饭有鱼肉蛤蜊等。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-19-afternoon-tianzhao-and-xiao-jingchang-come-and-press-li-to-attend-tianzhao-banquet-with-company-officers",
+      "preofficer-diary-1960-03-03-assigned-with-erzhao-tianzhao-to-49th-regiment-42-mortar-company-and-lunches-in-company-commanders-room",
+      "preofficer-diary-1959-11-22-welfare-with-xinhan-reads-magazines-at-recreation-center-plans-long-humor-letter-to-hongxiang"
+    ],
+    "view": [
+      "天昭线",
+      "宴饮线",
+      "读刊线",
+      "高雄外出线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月19日",
+      "戴家",
+      "前金",
+      "中正二路",
+      "木行",
+      "中日画报",
+      "晚饭",
+      "鱼肉",
+      "蛤蜊",
+      "天昭兄弟"
+    ],
+    "people": [
+      "李敖",
+      "天昭兄弟"
+    ],
+    "places": [
+      "前金",
+      "中正二路",
+      "戴家"
+    ]
+  },
+  {
+    "date": "1960-04-19",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round130-april-1960-lines-623-627-april-19b",
+    "id": "preofficer-diary-1960-04-19-notes-tianzhao-brothers-kindness-but-has-only-five-yuan-seven-jiao",
+    "displayDate": "1960年4月19日星期二06天昭兄弟待人厚",
+    "title": "李敖记录天昭兄弟待人甚厚，但自己囊中只五元七角",
+    "summary": "4月19日，在戴家晚饭后，李敖记录天昭兄弟待人甚厚；但自己囊中只五元七角，无法有所回报。此条接续当天被强邀赴宴和戴家晚饭。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 623,
+      "note": "李敖记录天昭兄弟待人甚厚，但囊中只五元七角，不能发生任何作用。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-19-at-dai-family-in-qianjin-reads-zhongri-pictorial-and-eats-rich-dinner",
+      "preofficer-diary-1960-03-24-tianzhao-leaves-note-raises-return-travel-money-brings-qingmao-erlin-letters-li-returns-sweaty-and-reads-yugang-qingmao",
+      "preofficer-diary-1960-03-25-before-night-bath-pan-buyue-lends-two-yuan-and-borrows-fifty-from-tianzhao-for-li-travel-fare"
+    ],
+    "view": [
+      "天昭线",
+      "钱款线",
+      "人情往来线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月19日",
+      "天昭兄弟",
+      "五元七角",
+      "人情往来",
+      "钱款",
+      "戴家"
+    ],
+    "people": [
+      "李敖",
+      "天昭兄弟"
+    ],
+    "places": [
+      "戴家"
+    ]
+  },
+  {
+    "date": "1960-04-19",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round130-april-1960-lines-623-627-april-19b",
+    "id": "preofficer-diary-1960-04-19-night-return-meets-wenzao-takes-rickshaw-and-writes-letters-to-qingmao-and-yuhua-after-lesson",
+    "displayDate": "1960年4月19日星期二07夜归遇文藻并给清茂玉华信",
+    "title": "李敖夜归车中碰到文藻，三轮车归后多工作并写信给清茂、玉华",
+    "summary": "4月19日夜归时，李敖在车中碰到文藻，随后坐三轮车归。他把今日外出记为意志不坚的人情教训，提醒自己以后要“硬板些”；夜间又多工作一些，写信给清茂、玉华。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 625,
+      "note": "夜归车中碰到文藻，三轮车归；李敖记录此行教训，夜多工作一些，写信给清茂、玉华。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1959-10-23-yang-erlin-low-tide-li-writes-vigorously-wenzao-says-bad-temper-good-person",
+      "preofficer-diary-1959-12-01-wenzao-praises-temper-good-person-zhuangyin-sunglasses-shareholders-meeting-yaozu-charming-smile",
+      "preofficer-diary-1959-10-30-qingmao-sun-yuhua-praise-leyuan-cigarettes-photo-show-movie-and-english-half-page",
+      "preofficer-diary-1960-04-19-afternoon-tianzhao-and-xiao-jingchang-come-and-press-li-to-attend-tianzhao-banquet-with-company-officers"
+    ],
+    "view": [
+      "夜归线",
+      "文藻线",
+      "通信线",
+      "时间管理线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月19日",
+      "文藻",
+      "王文藻",
+      "三轮车",
+      "清茂",
+      "郑清茂",
+      "玉华",
+      "孙玉华",
+      "写信",
+      "硬板些",
+      "夜工作"
+    ],
+    "people": [
+      "李敖",
+      "王文藻",
+      "郑清茂",
+      "孙玉华"
+    ],
+    "places": [
+      "高雄",
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-19",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round130-april-1960-lines-623-627-april-19b",
+    "id": "preofficer-diary-1960-04-19-platoon-leaders-put-long-peas-in-li-bedding-as-bamboo-viper-prank",
+    "displayDate": "1960年4月19日星期二08被中长豌豆竹叶青恶作剧",
+    "title": "排长级们夜里在李敖被中放长豌豆，作竹叶青吓他",
+    "summary": "4月19日夜，排长级们在李敖被中放长豌豆，装作竹叶青来吓他。此条保留营中恶作剧日常，并回挂此前营中见真竹叶青的记录。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 627,
+      "note": "排长级们夜在李敖被中放长豌豆，以作竹叶青来吓他。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-03-31-soldier-catches-bamboo-viper-in-bottle-li-watches-red-edged-snake-long-time",
+      "preofficer-diary-1960-03-31-with-pan-buyue-under-bamboo-suspects-snake-and-sees-flower-snake",
+      "preofficer-diary-1960-04-14-folds-toilet-paper-jia-guicheng-jokes-he-could-run-brothel-and-gives-rubber-sleeve"
+    ],
+    "view": [
+      "军中恶作剧线",
+      "竹叶青线",
+      "排长线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月19日",
+      "排长级",
+      "长豌豆",
+      "竹叶青",
+      "恶作剧",
+      "被中",
+      "军中日常"
+    ],
+    "people": [
+      "李敖",
+      "排长级们"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-20",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round131-april-1960-lines-629-639-april-20a",
+    "id": "preofficer-diary-1960-04-20-holiday-conflict-moves-to-today-and-li-decides-not-to-go-out-before-base-for-three-weeks-study",
+    "displayDate": "1960年4月20日星期三01去基地前不再出去",
+    "title": "假日冲突改到今天，李敖决定去基地前不再出去、专心用三个礼拜功",
+    "summary": "4月20日，因星期天假日又与“大官人”的假日冲突，假期改到今天。李敖借此决定在去基地以前不再出去，专心用三个礼拜的功，把外出带来的疲乏和悔行转为工作安排。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 631,
+      "note": "星期天假日因与“大官人”假日冲突改到今天；李敖决定去基地前不再出去，专心用三个礼拜功。原文中的纯心理反问未单独入库。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-19-night-return-meets-wenzao-takes-rickshaw-and-writes-letters-to-qingmao-and-yuhua-after-lesson",
+      "preofficer-diary-1960-04-18-spends-too-much-time-on-da-essay-while-practicing-english-and-records-need-to-stop",
+      "preofficer-diary-1959-10-31-life-adjustment-seven-resolutions-and-pocket-english-method"
+    ],
+    "view": [
+      "工作安排线",
+      "用功作息线",
+      "基地前线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月20日",
+      "假日冲突",
+      "大官人",
+      "去基地前",
+      "三个礼拜",
+      "用功",
+      "工作安排",
+      "不再出去"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-20",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round131-april-1960-lines-629-639-april-20a",
+    "id": "preofficer-diary-1960-04-20-sends-one-postcard-each-to-shanpei-and-huajun",
+    "displayDate": "1960年4月20日星期三02给善培华俊片",
+    "title": "李敖给善培、华俊各寄一张明信片",
+    "summary": "4月20日，李敖给善培一张明信片，也给华俊一张明信片。此条接续4月以来善培、华俊通信和会面线。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 633,
+      "note": "李敖给善培一片，华俊一片。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-17-shanpei-duty-and-loses-money-li-sends-57-yuan-6-jiao-by-express-registered-mail",
+      "preofficer-diary-1960-04-09-receives-shanpei-letter-saying-cannot-go-to-tainan-tomorrow-and-complaining-li-family-dog-bit-aba",
+      "preofficer-diary-1960-04-17-urges-huajun-to-quit-billiards-and-study",
+      "preofficer-diary-1960-04-17-with-huajun-browses-bookstores-lunches-at-wu-chaoshou-watches-solomon-and-sheba-and-practices-english-listening"
+    ],
+    "view": [
+      "通信线",
+      "李善培线",
+      "华俊线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月20日",
+      "善培",
+      "李善培",
+      "华俊",
+      "明信片",
+      "通信"
+    ],
+    "people": [
+      "李敖",
+      "李善培",
+      "华俊"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-20",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round131-april-1960-lines-629-639-april-20a",
+    "id": "preofficer-diary-1960-04-20-sends-postcard-to-mother-saying-he-does-not-want-to-go-home-and-fears-home",
+    "displayDate": "1960年4月20日星期三03给老太片述不想回家",
+    "title": "李敖给老太一张明信片，片中说不想回家、对家有点怕",
+    "summary": "4月20日，李敖给老太一张明信片，在片中说不想回家，并说自己对家实在有点怕。此条按家庭通信内容处理。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 635,
+      "note": "李敖给老太一片，片中述不想回家之意，并说对家实在有点怕。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-03-05-letter-to-mother-describes-renwu-fengshan-north-heat-flies-flypaper-water-bedbugs-mosquitoes-toilet-squatting-traffic",
+      "preofficer-diary-1960-03-05-letter-to-mother-says-place-good-for-reading-wednesday-off-training-rest-and-smooth-assignment",
+      "preofficer-diary-1960-03-29-receives-package-thirty-yuan-mother-letter-and-hongmou-march9-card-saying-he-is-in-xiaojinmen"
+    ],
+    "view": [
+      "家庭通信线",
+      "老太线",
+      "回家线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月20日",
+      "老太",
+      "老太太",
+      "明信片",
+      "不想回家",
+      "家庭通信",
+      "家"
+    ],
+    "people": [
+      "李敖",
+      "老太"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-20",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round131-april-1960-lines-629-639-april-20a",
+    "id": "preofficer-diary-1960-04-20-zhou-platoon-assistant-says-li-is-most-diligent",
+    "displayDate": "1960年4月20日星期三04周排附说最勤",
+    "title": "周排附说李敖最勤",
+    "summary": "4月20日，周排附说李敖最勤。此条接续军中同袍对李敖用功、勤勉和作息的评价线。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 637,
+      "note": "周排附说李敖最勤。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-09-studies-alone-at-home-in-army-and-zhou-platoon-assistant-says-he-is-like-guard",
+      "preofficer-diary-1959-10-19-squad-leader-commands-ruizhou-praises-diligence-and-li-practices-strength",
+      "preofficer-diary-1960-04-14-platoon-leaders-say-li-studies-all-day-and-never-rests-after-early-waking-insomnia-he-writes-letters-to-relieve-fatigue"
+    ],
+    "view": [
+      "周排附线",
+      "同袍评价线",
+      "用功作息线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月20日",
+      "周排附",
+      "最勤",
+      "同袍评价",
+      "用功",
+      "勤勉"
+    ],
+    "people": [
+      "李敖",
+      "周排附"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-20",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round131-april-1960-lines-629-639-april-20a",
+    "id": "preofficer-diary-1960-04-20-officers-extra-dishes-eat-pork-drink-red-rice-wine-li-pays-eleven-yuan",
+    "displayDate": "1960年4月20日星期三05官长级加菜红露酒",
+    "title": "晚间官长级加菜，李敖吃猪肉喝红露酒并出十一元",
+    "summary": "4月20日晚，官长级加菜，李敖大吃猪肉，喝红露酒；他又补记昨晚喝的是啤酒，本晚自己出十一元。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 639,
+      "note": "晚官长级加菜，大吃猪肉，喝红露酒；昨晚喝啤酒；李敖出十一元。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-19-at-dai-family-in-qianjin-reads-zhongri-pictorial-and-eats-rich-dinner",
+      "preofficer-diary-1959-10-10-first-military-ticket-and-dinner-with-chen-red-wine",
+      "preofficer-diary-1960-02-19-night-welfare-red-rice-wine-with-guangcheng-xuebei-fame-and-taida-storm-talk"
+    ],
+    "view": [
+      "宴饮线",
+      "花费线",
+      "官长级线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月20日",
+      "官长级",
+      "加菜",
+      "猪肉",
+      "红露酒",
+      "啤酒",
+      "十一元",
+      "花费"
+    ],
+    "people": [
+      "李敖",
+      "官长级"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-20",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round132-april-1960-lines-641-645-april-20b",
+    "id": "preofficer-diary-1960-04-20-records-blue-and-black-matter-and-difficulty-communicating-with-zhu-platoon-assistant",
+    "displayDate": "1960年4月20日星期三06蓝与黑事与朱排附难沟通",
+    "title": "李敖记录因“蓝与黑”事与朱排附难以沟通",
+    "summary": "4月20日，李敖记录因“蓝与黑”一事，觉得朱排附不可与言，难以沟通。此条按具体争执或谈话障碍记录，不单独扩写为情绪事件。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 641,
+      "note": "李敖记录为“蓝与黑”事与朱排附难以沟通；原文情绪性评价未单独扩成事件。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-03-17-zhou-platoon-assistant-recites-numbers-of-preferred-military-paradise-women",
+      "preofficer-diary-1960-03-23-morning-platoon-drill-personally-leads-rests-talks-cordially-and-mentions-military-paradise",
+      "preofficer-diary-1960-04-20-zhou-platoon-assistant-says-li-is-most-diligent"
+    ],
+    "view": [
+      "周排附线",
+      "沟通冲突线",
+      "读物谈论线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月20日",
+      "蓝与黑",
+      "朱排附",
+      "不可与言",
+      "沟通",
+      "谈话障碍"
+    ],
+    "people": [
+      "李敖",
+      "朱排附"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-20",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round132-april-1960-lines-641-645-april-20b",
+    "id": "preofficer-diary-1960-04-20-works-all-day-and-spirit-remains-good",
+    "displayDate": "1960年4月20日星期三07整日工作精神尚好",
+    "title": "李敖整日工作，精神尚好",
+    "summary": "4月20日，李敖整日工作，并记录精神尚好。此条接续当天去基地前专心用功的工作安排。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 643,
+      "note": "李敖整日工作，精神尚好。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-20-holiday-conflict-moves-to-today-and-li-decides-not-to-go-out-before-base-for-three-weeks-study",
+      "preofficer-diary-1960-04-18-spends-too-much-time-on-da-essay-while-practicing-english-and-records-need-to-stop",
+      "preofficer-diary-1960-04-14-platoon-leaders-say-li-studies-all-day-and-never-rests-after-early-waking-insomnia-he-writes-letters-to-relieve-fatigue"
+    ],
+    "view": [
+      "工作安排线",
+      "用功作息线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月20日",
+      "整日工作",
+      "精神尚好",
+      "用功",
+      "作息",
+      "工作"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-20",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round132-april-1960-lines-641-645-april-20b",
+    "id": "preofficer-diary-1960-04-20-writes-letter-for-cao-zihua-gives-eight-mao-stamp-and-pastes-it",
+    "displayDate": "1960年4月20日星期三08为曹梓华写信贴邮票",
+    "title": "李敖为曹梓华写信，赠八毛邮票并替他贴好",
+    "summary": "4月20日，李敖为曹梓华写信，并赠给他八毛邮票，替他贴好。此条保留李敖与老兵曹梓华之间的日常援助细节。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 645,
+      "note": "李敖为曹梓华写信，并以八毛邮票赠之，替他贴好。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-03-24-records-cao-zihua-always-smiling-as-ignorant-optimist-example",
+      "preofficer-diary-1960-04-04-night-cao-zihua-shows-body-wounds-and-says-bullet-still-under-right-armpit-life-picked-up",
+      "preofficer-diary-1960-04-08-noon-in-temple-cao-zihua-talks-past-foot-odor-holed-new-sneakers-and-saving-to-marry"
+    ],
+    "view": [
+      "曹梓华线",
+      "通信线",
+      "军中互助线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月20日",
+      "曹梓华",
+      "写信",
+      "八毛邮票",
+      "贴邮票",
+      "军中互助",
+      "老兵"
+    ],
+    "people": [
+      "李敖",
+      "曹梓华"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-21",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round133-april-1960-lines-647-657-april-21a",
+    "id": "preofficer-diary-1960-04-21-records-strong-drive-and-many-results",
+    "displayDate": "1960年4月21日星期四01干劲极浓成绩很多",
+    "title": "李敖记录干劲极浓、成绩很多",
+    "summary": "4月21日，李敖记录当天干劲极浓、成绩很多，但不及逐项列举。此条按工作状态与成果概括入库。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 649,
+      "note": "李敖记录干劲极浓、成绩很多，不及备举。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-20-works-all-day-and-spirit-remains-good",
+      "preofficer-diary-1960-04-20-holiday-conflict-moves-to-today-and-li-decides-not-to-go-out-before-base-for-three-weeks-study",
+      "preofficer-diary-1960-04-18-spends-too-much-time-on-da-essay-while-practicing-english-and-records-need-to-stop"
+    ],
+    "view": [
+      "工作安排线",
+      "用功作息线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月21日",
+      "干劲极浓",
+      "成绩很多",
+      "工作成果",
+      "用功",
+      "作息"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-21",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round133-april-1960-lines-647-657-april-21a",
+    "id": "preofficer-diary-1960-04-21-receives-huamin-letter-saying-he-became-administrative-officer-and-joking-about-chen-qi",
+    "displayDate": "1960年4月21日星期四02华民信行政官陈琪玩笑",
+    "title": "李敖收到华民来信，信中说华民已做行政官，并以陈琪开玩笑",
+    "summary": "4月21日，李敖收到华民来信。华民在信中说自己已经做行政官，又以陈琪为题向李敖开玩笑，问李敖是否惦念陈琪，并说自己也惦念她。此条按来信内容处理，不写作李敖本人的心理事实。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 653,
+      "note": "李敖收到华民信；信中说华民已做行政官，并以陈琪为题开玩笑。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-03-30-postcard-to-zhang-huamin-jokes-about-huamin-and-chen-qi",
+      "preofficer-diary-1960-01-28-chen-qi-and-nephew-visit-huamin-home-borrow-hotpot-hear-long-gown-dancing-and-li-gives-four-photos",
+      "preofficer-diary-1960-01-28-chen-qi-calls-li-scholar-professor-with-students-recognizes-taida-history-and-says-goodbye-twice",
+      "preofficer-diary-1960-03-28-morning-records-first-dream-of-chen-qi-intimate-scene-not-reality"
+    ],
+    "view": [
+      "张华民线",
+      "陈琪线",
+      "通信线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月21日",
+      "华民信",
+      "张华民",
+      "行政官",
+      "陈琪",
+      "来信",
+      "通信",
+      "玩笑"
+    ],
+    "people": [
+      "李敖",
+      "张华民",
+      "陈琪"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-21",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round133-april-1960-lines-647-657-april-21a",
+    "id": "preofficer-diary-1960-04-21-receives-shike-letter-with-newspaper-sketch-of-jacqueline-sasard",
+    "displayDate": "1960年4月21日星期四03施珂信杰克琳莎莎儿速写",
+    "title": "李敖收到施珂来信，随信有报纸速写“杰克琳莎莎儿”丑像",
+    "summary": "4月21日，李敖收到施珂来信。施珂从报纸撕下一张速写“杰克琳莎莎儿”的丑像，并在信中说那并没有什么，只是一个丑丫头。此条按来信和随信剪报处理。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 655,
+      "note": "李敖收到施珂信；施珂从报纸撕下速写“杰克琳莎莎儿”丑像一张，并附评语。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-09-receives-shike-postcard-saying-may-meet-day-after-tomorrow",
+      "preofficer-diary-1960-04-11-shike-visits-at-night-treats-papaya-and-gives-ten-yuan-li-treats-as-loan",
+      "preofficer-diary-1960-04-11-goes-with-shike-to-dashe-to-watch-patent-medicine-seller",
+      "preofficer-diary-1960-03-30-afternoon-sends-postcards-to-huajun-qiyang-shike-and-four-page-letter-to-hongmou"
+    ],
+    "view": [
+      "施珂线",
+      "通信线",
+      "剪报线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月21日",
+      "施珂信",
+      "施珂",
+      "杰克琳莎莎儿",
+      "速写",
+      "报纸",
+      "丑像",
+      "来信",
+      "剪报"
+    ],
+    "people": [
+      "李敖",
+      "施珂",
+      "杰克琳莎莎儿"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-21",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round133-april-1960-lines-647-657-april-21a",
+    "id": "preofficer-diary-1960-04-21-receives-shanpei-april-15-postcard",
+    "displayDate": "1960年4月21日星期四04善培15日片",
+    "title": "李敖收到善培15日寄来的明信片",
+    "summary": "4月21日，李敖收到善培于15日寄来的明信片。此条先按来片事实入库，片中内容原文未详。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 657,
+      "note": "李敖收到善培15日的明信片，原文未详片中内容。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-20-sends-one-postcard-each-to-shanpei-and-huajun",
+      "preofficer-diary-1960-04-17-shanpei-duty-and-loses-money-li-sends-57-yuan-6-jiao-by-express-registered-mail",
+      "preofficer-diary-1960-04-09-receives-shanpei-letter-saying-cannot-go-to-tainan-tomorrow-and-complaining-li-family-dog-bit-aba",
+      "preofficer-diary-1960-03-30-receives-shanpei-postcard-with-address"
+    ],
+    "view": [
+      "李善培线",
+      "通信线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月21日",
+      "善培片",
+      "李善培",
+      "15日",
+      "明信片",
+      "来片",
+      "通信"
+    ],
+    "people": [
+      "李敖",
+      "李善培"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-21",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round134-april-1960-lines-659-665-april-21b",
+    "id": "preofficer-diary-1960-04-21-receives-shanpei-april-18-postcard",
+    "displayDate": "1960年4月21日星期四05善培18日片",
+    "title": "李敖收到善培18日寄来的明信片",
+    "summary": "4月21日，李敖收到善培于18日寄来的明信片。此条按来片事实入库，片中内容原文未详，并承接同日收到善培15日片。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 659,
+      "note": "李敖收到善培18日的明信片，原文未详片中内容。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-21-receives-shanpei-april-15-postcard",
+      "preofficer-diary-1960-04-20-sends-one-postcard-each-to-shanpei-and-huajun",
+      "preofficer-diary-1960-04-17-shanpei-duty-and-loses-money-li-sends-57-yuan-6-jiao-by-express-registered-mail",
+      "preofficer-diary-1960-04-09-receives-shanpei-letter-saying-cannot-go-to-tainan-tomorrow-and-complaining-li-family-dog-bit-aba"
+    ],
+    "view": [
+      "李善培线",
+      "通信线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月21日",
+      "善培片",
+      "李善培",
+      "18日",
+      "明信片",
+      "来片",
+      "通信"
+    ],
+    "people": [
+      "李敖",
+      "李善培"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-21",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round134-april-1960-lines-659-665-april-21b",
+    "id": "preofficer-diary-1960-04-21-receives-zhiang-postcard-about-camp-hardship-and-conquering-loneliness-and-time",
+    "displayDate": "1960年4月21日星期四06之昂片营地生活苦闷",
+    "title": "李敖收到之昂来片，片中说听到关于李敖营地生活苦闷的消息，并相信他会征服寂寞和时间",
+    "summary": "4月21日，李敖收到之昂寄来的明信片。之昂在片中说，听到一些关于李敖营地生活苦闷的消息，并相信李敖会征服寂寞和时间。此条按来片内容处理，不扩写为李敖本人的事实判断。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 661,
+      "note": "李敖收到之昂片；片中说听到关于李敖营地生活苦闷的消息，并相信他会征服寂寞和时间。"
+    },
+    "crossReferences": [
+      "daxue-houqi-yi-1959-02-25-huang-shulan-chen-shuping-kowtow-teasing-and-friends-praise-qiqing-xiaodiu-dai-zhiang",
+      "daxue-houqi-yi-1959-04-01-treats-zhiang-with-yingshan-at-shouerkang-and-night-at-jing-home",
+      "daxue-houqi-yi-1959-04-02-meets-liu-bokun-couple-and-treats-zhiang-at-kelly",
+      "preofficer-diary-1960-04-21-records-strong-drive-and-many-results"
+    ],
+    "view": [
+      "戴之昂线",
+      "通信线",
+      "军中处境线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月21日",
+      "之昂片",
+      "戴之昂",
+      "营地生活",
+      "苦闷",
+      "寂寞",
+      "时间",
+      "明信片",
+      "来片",
+      "通信"
+    ],
+    "people": [
+      "李敖",
+      "戴之昂"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-21",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round134-april-1960-lines-659-665-april-21b",
+    "id": "preofficer-diary-1960-04-21-receives-first-issue-of-english-selections-and-notes-excellent-jokes",
+    "displayDate": "1960年4月21日星期四07英文选读第一期笑话奇佳",
+    "title": "李敖收到《英文选读》第一期，并记录其中笑话奇佳",
+    "summary": "4月21日，李敖收到《英文选读》第一期，并记录其中的笑话奇佳。此条按收到和阅读英文材料入库。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 663,
+      "note": "李敖收到《英文选读》第一期，并记录其中笑话奇佳。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-18-spends-too-much-time-on-da-essay-while-practicing-english-and-records-need-to-stop",
+      "preofficer-diary-1960-04-21-records-strong-drive-and-many-results",
+      "preofficer-diary-1959-10-31-life-adjustment-seven-resolutions-and-pocket-english-method"
+    ],
+    "view": [
+      "英文学习线",
+      "读物线",
+      "用功作息线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月21日",
+      "英文选读",
+      "第一期",
+      "笑话",
+      "英文材料",
+      "阅读",
+      "用功"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-21",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round134-april-1960-lines-659-665-april-21b",
+    "id": "preofficer-diary-1960-04-21-receives-yuqing-letter",
+    "displayDate": "1960年4月21日星期四08育清信",
+    "title": "李敖收到育清来信",
+    "summary": "4月21日，李敖收到育清来信。原文未详信中内容，本条按来信事实入库。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 665,
+      "note": "李敖收到育清信，原文未详信中内容。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-14-writes-three-page-letters-to-qiqing-and-guangcheng-one-letter-to-yuqing-and-sends-lecture-notes-to-hongmou",
+      "preofficer-diary-1960-02-23-receives-letters-from-yuqing-and-jing-xinhan",
+      "preofficer-diary-1960-02-19-writes-yuqing-about-not-returning-visit-and-postcard-to-qiqing-to-buy-diarybook",
+      "preofficer-diary-1960-01-28-after-lunch-meets-tan-yuqing-visits-pingdengli-zhang-homes-huajun-home-and-cai-xizhuo-new-house"
+    ],
+    "view": [
+      "谌育清线",
+      "通信线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月21日",
+      "育清信",
+      "谌育清",
+      "来信",
+      "通信"
+    ],
+    "people": [
+      "李敖",
+      "谌育清",
+      "育清"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-21",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round135-april-1960-lines-667-677-april-21c",
+    "id": "preofficer-diary-1960-04-21-receives-zhuangyin-letter-with-graduation-photos-and-guo-nihu-like-little-emperor",
+    "displayDate": "1960年4月21日星期四09庄因信寄毕业照郭祢瑚像小皇帝",
+    "title": "李敖收到庄因来信和毕业照，并记录郭祢瑚那张像小皇帝",
+    "summary": "4月21日，李敖收到庄因来信，庄因随信寄来毕业照。李敖记录其中郭祢瑚那张照片好像一个小皇帝。此条按来信与照片内容入库。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 667,
+      "note": "李敖收到庄因信，信中寄来毕业照；李敖记录郭祢瑚那张好像个小皇帝。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-13-sends-postcards-to-zhuangyin-xichang-and-veterinary-surgeon-lai",
+      "preofficer-diary-1960-03-21-receives-zhuangyin-postcard-with-criticism-about-busyness-plans-and-songran-greetings",
+      "preofficer-diary-1960-03-12-finishes-six-page-letter-to-xinhan-and-postcards-to-huajun-yingshan-zhuangyin-yaozu",
+      "preofficer-diary-1959-10-24-zhuangyin-letter-four-photos-and-hongxiang-sept21-letter-on-change-and-feelings"
+    ],
+    "view": [
+      "庄因线",
+      "通信线",
+      "照片线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月21日",
+      "庄因信",
+      "庄因",
+      "毕业照",
+      "郭祢瑚",
+      "小皇帝",
+      "照片",
+      "来信"
+    ],
+    "people": [
+      "李敖",
+      "庄因",
+      "郭祢瑚"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-21",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round135-april-1960-lines-667-677-april-21c",
+    "id": "preofficer-diary-1960-04-21-receives-qiqing-letter-saying-pleurisy",
+    "displayDate": "1960年4月21日星期四10启庆信肋膜炎",
+    "title": "李敖收到启庆来信，信中说竟是肋膜炎",
+    "summary": "4月21日，李敖收到萧启庆来信，信中说病况竟是肋膜炎。此条按来信内容入库，不扩写为李敖亲历的病情观察。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 669,
+      "note": "李敖收到启庆信，信中说竟是肋膜炎。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-14-writes-three-page-letters-to-qiqing-and-guangcheng-one-letter-to-yuqing-and-sends-lecture-notes-to-hongmou",
+      "preofficer-diary-1960-04-08-receives-letters-from-qiqing-and-guangcheng-with-shugu-note-attached",
+      "preofficer-diary-1960-04-07-from-after-breakfast-to-before-dinner-finishes-long-english-letter-to-qiqing-and-feels-tired-dizzy-happy-with-result",
+      "preofficer-diary-1960-02-19-writes-yuqing-about-not-returning-visit-and-postcard-to-qiqing-to-buy-diarybook"
+    ],
+    "view": [
+      "萧启庆通信线",
+      "疾病线",
+      "通信线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月21日",
+      "启庆信",
+      "萧启庆",
+      "肋膜炎",
+      "来信",
+      "疾病"
+    ],
+    "people": [
+      "李敖",
+      "萧启庆",
+      "启庆"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-21",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round135-april-1960-lines-667-677-april-21c",
+    "id": "preofficer-diary-1960-04-21-receives-good-jing-xinhan-letter-and-writes-seven-page-reply-at-night",
+    "displayDate": "1960年4月21日星期四11新汉来信夜作七页回信",
+    "title": "李敖收到景新汉来信，认为来信甚佳，并于夜里写七页回信",
+    "summary": "4月21日，李敖收到景新汉来信，认为这封来信甚佳。夜里，李敖写成七页信回复景新汉。此条只收收信与回信动作，回信内容另拆。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 671,
+      "note": "李敖收到新汉来信，记录来信甚佳；夜作七页书报之。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-06-receives-jing-xinhan-letter-third-letter-rosa-notice-address-changed-and-xinhan-life-no-major-change",
+      "preofficer-diary-1960-04-06-jing-xinhan-letter-praises-li-english-letter-but-advises-simple-plain-forceful-modern-english-and-offers-books-money",
+      "preofficer-diary-1960-03-23-before-noon-finishes-english-letter-to-jing-xinhan-while-tired",
+      "preofficer-diary-1960-03-19-noon-reading-old-diaries-erzhao-brings-jing-xinhan-feb-15-letter"
+    ],
+    "view": [
+      "景新汉通信线",
+      "通信线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月21日",
+      "景新汉来信",
+      "新汉来信",
+      "七页信",
+      "回信",
+      "通信"
+    ],
+    "people": [
+      "李敖",
+      "景新汉",
+      "新汉"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-21",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round135-april-1960-lines-667-677-april-21c",
+    "id": "preofficer-diary-1960-04-21-letter-to-jing-xinhan-says-practice-solitude-one-person-effort-and-keep-plans",
+    "displayDate": "1960年4月21日星期四12给新汉信一人的努力",
+    "title": "李敖在给景新汉的信中说，应练习孤独与“一人的努力”，并坚持所立计划",
+    "summary": "4月21日夜，李敖在给景新汉的七页回信中说，一个人不应要求别人太多，应把大部分时间用于练习孤独与“一人的努力”。他又说自己目前正在这样做，不轻易立计划，但所立计划都能坚持，成绩很好，这是大学时代不能有的新气象。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 673,
+      "note": "李敖在给景新汉的七页回信中谈练习孤独与“一人的努力”，以及坚持计划、成绩很好。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-21-receives-good-jing-xinhan-letter-and-writes-seven-page-reply-at-night",
+      "preofficer-diary-1960-04-21-records-strong-drive-and-many-results",
+      "preofficer-diary-1960-03-21-records-using-english-letters-to-ease-old-friends-complaints-and-working-without-being-burdened-by-socializing",
+      "preofficer-diary-1960-04-20-holiday-conflict-moves-to-today-and-li-decides-not-to-go-out-before-base-for-three-weeks-study"
+    ],
+    "view": [
+      "景新汉通信线",
+      "工作安排线",
+      "用功作息线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月21日",
+      "给景新汉信",
+      "一人的努力",
+      "练习孤独",
+      "计划",
+      "成绩很好",
+      "新气象",
+      "用功"
+    ],
+    "people": [
+      "李敖",
+      "景新汉"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-21",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round135-april-1960-lines-667-677-april-21c",
+    "id": "preofficer-diary-1960-04-21-letter-to-jing-xinhan-says-old-people-and-past-events-need-beautified-memories-only",
+    "displayDate": "1960年4月21日星期四13给新汉信旧人往事",
+    "title": "李敖在给景新汉的信中说，旧人往事给他们一个美化的回忆就很好",
+    "summary": "4月21日夜，李敖在给景新汉的七页回信中说，对旧人往事，给他们一个美化的回忆就很好，不必再进一步做什么，否则会有“炒陈饭”之讥。此条按回信内容入库。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 675,
+      "note": "李敖在给景新汉的回信中谈旧人往事与美化回忆，并提到“炒陈饭”之讥。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-21-receives-good-jing-xinhan-letter-and-writes-seven-page-reply-at-night",
+      "preofficer-diary-1960-04-06-jing-xinhan-letter-mentions-mage-visits-zhuangyin-not-met-zhugong-at-ximending-and-asks-about-rosa-meeting",
+      "preofficer-diary-1960-03-21-records-using-english-letters-to-ease-old-friends-complaints-and-working-without-being-burdened-by-socializing"
+    ],
+    "view": [
+      "景新汉通信线",
+      "旧友回忆线",
+      "通信线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月21日",
+      "给景新汉信",
+      "旧人往事",
+      "美化回忆",
+      "炒陈饭",
+      "回信"
+    ],
+    "people": [
+      "李敖",
+      "景新汉"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-21",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round135-april-1960-lines-667-677-april-21c",
+    "id": "preofficer-diary-1960-04-21-letter-to-jing-xinhan-says-mass-work-reading-in-army-and-declining-huajun-shanpei-tainan-invitation",
+    "displayDate": "1960年4月21日星期四14给新汉信军中读书谢绝台南约",
+    "title": "李敖在给景新汉的信中说，自己整日不外出、军中偷闲读书，并谢绝华俊和善培的台南约",
+    "summary": "4月21日夜，李敖在给景新汉的七页回信中说，现在工作是大量而批发式的，整日不外出，在军中偷闲读书。本星期天李华俊和李善培约他去台南，他也用花招谢绝了。此条按回信中的日程、读书和社交取舍入库。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 677,
+      "note": "李敖在给景新汉的回信中说工作大量、整日不外出、军中偷闲读书，并谢绝华俊和善培本星期天去台南之约。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-21-receives-good-jing-xinhan-letter-and-writes-seven-page-reply-at-night",
+      "preofficer-diary-1960-04-20-sends-one-postcard-each-to-shanpei-and-huajun",
+      "preofficer-diary-1960-04-17-with-huajun-browses-bookstores-lunches-at-wu-chaoshou-watches-solomon-and-sheba-and-practices-english-listening",
+      "preofficer-diary-1960-04-17-shanpei-duty-and-loses-money-li-sends-57-yuan-6-jiao-by-express-registered-mail",
+      "preofficer-diary-1960-04-20-holiday-conflict-moves-to-today-and-li-decides-not-to-go-out-before-base-for-three-weeks-study"
+    ],
+    "view": [
+      "景新汉通信线",
+      "华俊线",
+      "李善培线",
+      "台南线",
+      "用功作息线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月21日",
+      "给景新汉信",
+      "军中读书",
+      "整日不外出",
+      "李华俊",
+      "李善培",
+      "台南约",
+      "谢绝",
+      "工作"
+    ],
+    "people": [
+      "李敖",
+      "景新汉",
+      "李华俊",
+      "华俊",
+      "李善培",
+      "善培"
+    ],
+    "places": [
+      "四二炮连",
+      "台南"
+    ]
+  },
+  {
+    "date": "1960-04-21",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round136-april-1960-lines-679-685-april-21d",
+    "id": "preofficer-diary-1960-04-21-appends-and-transcribes-jing-xinhan-letter",
+    "displayDate": "1960年4月21日星期四15附新汉来信",
+    "title": "李敖在日记中附录并转录景新汉来信",
+    "summary": "4月21日，李敖在日记中以“附新汉来信”为题，保存并转录景新汉来信。此条作为后续景新汉来信内容的文本框架。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 679,
+      "note": "李敖在日记中标出“三、附新汉来信”，后文转录景新汉来信。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-21-receives-good-jing-xinhan-letter-and-writes-seven-page-reply-at-night",
+      "preofficer-diary-1960-04-06-receives-jing-xinhan-letter-third-letter-rosa-notice-address-changed-and-xinhan-life-no-major-change",
+      "preofficer-diary-1960-03-19-noon-reading-old-diaries-erzhao-brings-jing-xinhan-feb-15-letter"
+    ],
+    "view": [
+      "景新汉通信线",
+      "通信线",
+      "文献保存线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月21日",
+      "附新汉来信",
+      "景新汉来信",
+      "转录",
+      "保存",
+      "通信"
+    ],
+    "people": [
+      "李敖",
+      "景新汉",
+      "新汉"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-21",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round136-april-1960-lines-679-685-april-21d",
+    "id": "preofficer-diary-1960-04-21-jing-xinhan-letter-asks-current-situation-role-address-and-advises-rest-reading-less-social-correspondence",
+    "displayDate": "1960年4月21日星期四16新汉信问近况劝休息读书",
+    "title": "景新汉信中问李敖近况、职务和地址，并劝其有闲多休息或读书、少写应酬信",
+    "summary": "景新汉在来信开头说已久未见李敖来信，询问李敖近况如何、兵工教官和排区队长是否得手应心、地址是否又有改变、自己先前寄去的信是否收到。他说渴望李敖来信但并不期待，因为知道李敖很忙；若李敖有闲暇，倒希望他利用时机多休息或多读些书，少写应酬信。景新汉又说，不论是否接到李敖的信，只要自己有时间、李敖能读到，他总会常常写给李敖。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 683,
+      "note": "景新汉信中问李敖近况、兵工教官和排区队长职务、地址及前信；又劝有闲多休息或读书、少写应酬信，并说自己会常写。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-21-appends-and-transcribes-jing-xinhan-letter",
+      "preofficer-diary-1960-04-21-receives-good-jing-xinhan-letter-and-writes-seven-page-reply-at-night",
+      "preofficer-diary-1960-04-06-jing-xinhan-letter-praises-li-english-letter-but-advises-simple-plain-forceful-modern-english-and-offers-books-money",
+      "preofficer-diary-1960-03-19-jing-xinhan-letter-advises-more-reading-english-modern-american-fiction-small-dictionary-and-less-amusement",
+      "preofficer-diary-1960-03-19-jing-xinhan-letter-congratulates-second-lieutenant-platoon-leader-and-warns-landmines-booby-traps"
+    ],
+    "view": [
+      "景新汉通信线",
+      "通信线",
+      "读书建议线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月21日",
+      "景新汉来信",
+      "近况",
+      "兵工教官",
+      "排区队长",
+      "地址",
+      "休息",
+      "读书",
+      "应酬信"
+    ],
+    "people": [
+      "李敖",
+      "景新汉"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-21",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "quoted-letter",
+    "ingestionRound": "preofficer-diary-round138-april-1960-remove-non-li-jing-letter-and-lines-697-711-april-21f",
+    "id": "preofficer-diary-1960-04-21-jing-xinhan-letter-asks-if-li-needs-money-and-advises-care-temper-and-avoiding-idle-matters",
+    "displayDate": "1960年4月21日星期四17新汉信问李敖是否需要钱",
+    "title": "景新汉信中问李敖是否需要钱，愿寄三五十元，并劝他保重、少做闲事、收起牛脾气",
+    "summary": "景新汉在来信后段直接询问李敖是否需要钱；如有需要，要李敖即刻来信。景新汉说自己近来手头也不宽裕，但三五十元总无问题，过几天会寄些给李敖，不过必须先收到李敖来信，以便确认通信处照旧。信中又劝李敖多保重，消遣可以，但应避免闲扯杂事；待人要和气，牛脾气最好收拾起来。此条只收录信中直接关涉李敖的资助、通信地址和劝告内容。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 697,
+      "note": "景新汉信中问李敖是否需要钱，愿寄三五十元，并确认通信处；又劝李敖保重、避免闲扯杂事、对人和气、收起牛脾气。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-21-appends-and-transcribes-jing-xinhan-letter",
+      "preofficer-diary-1960-04-21-jing-xinhan-letter-asks-current-situation-role-address-and-advises-rest-reading-less-social-correspondence",
+      "preofficer-diary-1960-04-21-receives-good-jing-xinhan-letter-and-writes-seven-page-reply-at-night",
+      "preofficer-diary-1960-04-06-jing-xinhan-letter-praises-li-english-letter-but-advises-simple-plain-forceful-modern-english-and-offers-books-money",
+      "preofficer-diary-1960-03-19-jing-xinhan-letter-says-will-visit-mage-send-forty-yuan-and-support-li-money-needs"
+    ],
+    "view": [
+      "景新汉通信线",
+      "通信线",
+      "经济支援线",
+      "朋友规劝线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月21日",
+      "景新汉来信",
+      "借钱",
+      "三五十元",
+      "通信处",
+      "保重",
+      "牛脾气",
+      "朋友规劝"
+    ],
+    "people": [
+      "李敖",
+      "景新汉"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-21",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round138-april-1960-remove-non-li-jing-letter-and-lines-697-711-april-21f",
+    "id": "preofficer-diary-1960-04-21-afternoon-writes-twenty-one-pages-of-lesson-plan-and-yu-platoon-leader-marvels-at-efficiency",
+    "displayDate": "1960年4月21日星期四18一下午写成二十一页教案",
+    "title": "李敖花一下午一口气写成二十一页教案，虞排长惊异其工作效率",
+    "summary": "4月21日下午，李敖花一下午时间一口气写成教案，共十行纸二十一页。虞排长惊异于他的工作效率；李敖也在日记中记录自己此事显示出干练。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 705,
+      "note": "李敖花一下午时间一口气写成教案，共十行纸二十一页；虞排长惊异其工作效率，李敖记录自己干练。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-21-records-strong-drive-and-many-results",
+      "preofficer-diary-1960-04-20-works-all-day-and-spirit-remains-good",
+      "preofficer-diary-1960-04-20-holiday-conflict-moves-to-today-and-li-decides-not-to-go-out-before-base-for-three-weeks-study"
+    ],
+    "view": [
+      "军中工作线",
+      "教案线",
+      "效率线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月21日",
+      "教案",
+      "二十一页",
+      "虞排长",
+      "工作效率",
+      "干练"
+    ],
+    "people": [
+      "李敖",
+      "虞排长"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-21",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round138-april-1960-remove-non-li-jing-letter-and-lines-697-711-april-21f",
+    "id": "preofficer-diary-1960-04-21-evening-minghong-and-shusheng-read-diary-praise-it-and-shusheng-praises-translated-poems",
+    "displayDate": "1960年4月21日星期四19明宏树生看日记赞译诗",
+    "title": "晚间明宏、树生来访，看李敖日记后赞叹不止，树生称赞他的译诗",
+    "summary": "4月21日晚，明宏、树生来访，看李敖日记后赞叹不止；树生又称赞李敖译诗之佳。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 707,
+      "note": "晚明宏、树生来，看李敖日记，赞叹不止；树生赞李敖译诗之佳。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-09-visits-minghong-and-shusheng-at-50th-regiment-and-sees-administrative-officer-trouble",
+      "preofficer-diary-1960-04-08-night-reads-english-poetry-and-translates-sara-teasdale-like-barley-bending-as-damai-shi"
+    ],
+    "view": [
+      "军中交游线",
+      "日记展示线",
+      "诗歌翻译线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月21日",
+      "明宏",
+      "树生",
+      "日记",
+      "赞叹",
+      "译诗"
+    ],
+    "people": [
+      "李敖",
+      "明宏",
+      "树生"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-21",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round138-april-1960-remove-non-li-jing-letter-and-lines-697-711-april-21f",
+    "id": "preofficer-diary-1960-04-21-cao-zihua-tells-li-he-is-too-busy-and-machines-need-oil-and-rest",
+    "displayDate": "1960年4月21日星期四20曹梓华劝忙中休息",
+    "title": "曹梓华见李敖忙了一天，劝他说机器也要加油、休息",
+    "summary": "4月21日，曹梓华看见李敖忙了一天，对他说这样忙不成，机器也要加油、休息；曹梓华还说自己用半小时脑就会头痛。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 709,
+      "note": "曹梓华对李敖说忙一天不成，机器也要加油、休息；又说自己用半小时脑就头痛。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-20-writes-letter-for-cao-zihua-gives-eight-mao-stamp-and-pastes-it",
+      "preofficer-diary-1960-04-20-works-all-day-and-spirit-remains-good",
+      "preofficer-diary-1960-04-08-noon-in-temple-cao-zihua-talks-past-foot-odor-holed-new-sneakers-and-saving-to-marry"
+    ],
+    "view": [
+      "曹梓华线",
+      "军中日常线",
+      "工作作息线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月21日",
+      "曹梓华",
+      "忙一天",
+      "加油",
+      "休息",
+      "头痛"
+    ],
+    "people": [
+      "李敖",
+      "曹梓华"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-21",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round138-april-1960-remove-non-li-jing-letter-and-lines-697-711-april-21f",
+    "id": "preofficer-diary-1960-04-21-night-writes-three-page-letter-to-mage",
+    "displayDate": "1960年4月21日星期四21夜给马戈三页书",
+    "title": "李敖夜里给马戈写三页书信",
+    "summary": "4月21日夜，李敖给马戈写了三页书信。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 711,
+      "note": "夜给马戈三页书。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-03-22-before-noon-finishes-letter-to-mage",
+      "preofficer-diary-1960-03-19-while-withdrawing-money-receives-mage-march-16-express-letter-via-xinhan-with-forty-yuan",
+      "preofficer-diary-1960-04-21-receives-good-jing-xinhan-letter-and-writes-seven-page-reply-at-night"
+    ],
+    "view": [
+      "马戈通信线",
+      "通信线",
+      "夜间写作线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月21日",
+      "马戈",
+      "三页书",
+      "夜间写信",
+      "通信"
+    ],
+    "people": [
+      "李敖",
+      "马戈"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-22",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round139-april-1960-lines-713-747-april-22a",
+    "id": "preofficer-diary-1960-04-22-after-morning-assembly-learns-tianzhao-came-and-left-twenty-yuan",
+    "displayDate": "1960年4月22日星期五01天昭留下二十元",
+    "title": "朝会归来后李敖得知天昭来过，并留下二十元给他受用",
+    "summary": "4月22日，李敖朝会归来后，得知天昭来过，并留下二十元给他使用。李敖记录天昭细心体贴朋友穷困。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 715,
+      "note": "朝会归来，李敖得知天昭来过，留下二十元给他受用，并记录天昭体贴朋友穷困。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-19-notes-tianzhao-brothers-kindness-but-has-only-five-yuan-seven-jiao",
+      "preofficer-diary-1960-03-24-tianzhao-leaves-note-raises-return-travel-money-brings-qingmao-erlin-letters-li-returns-sweaty-and-reads-yugang-qingmao",
+      "preofficer-diary-1960-04-19-afternoon-tianzhao-and-xiao-jingchang-come-and-press-li-to-attend-tianzhao-banquet-with-company-officers"
+    ],
+    "view": [
+      "天昭线",
+      "经济支援线",
+      "军中日常线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月22日",
+      "天昭",
+      "二十元",
+      "朝会",
+      "朋友体贴",
+      "穷困"
+    ],
+    "people": [
+      "李敖",
+      "天昭"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-22",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round139-april-1960-lines-713-747-april-22a",
+    "id": "preofficer-diary-1960-04-22-morning-at-renwu-mountains-recites-english-but-wastes-time",
+    "displayDate": "1960年4月22日星期五02仁武山间背英文",
+    "title": "上午李敖在仁武山间背英文，但仍浪费不少时间",
+    "summary": "4月22日上午，李敖在仁武山间背英文；他同时记录当天仍浪费不少时间，觉得可惜。原文后半另有隐居式生活愿望句，本条未将其作为独立事件。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 717,
+      "note": "上午李敖在仁武山间背英文，但仍浪费不少时间；原文后半的隐居式生活愿望句未作独立事件。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-20-holiday-conflict-moves-to-today-and-li-decides-not-to-go-out-before-base-for-three-weeks-study",
+      "preofficer-diary-1960-04-21-letter-to-jing-xinhan-says-mass-work-reading-in-army-and-declining-huajun-shanpei-tainan-invitation",
+      "preofficer-diary-1960-04-21-afternoon-writes-twenty-one-pages-of-lesson-plan-and-yu-platoon-leader-marvels-at-efficiency"
+    ],
+    "view": [
+      "英文学习线",
+      "仁武线",
+      "用功作息线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月22日",
+      "仁武山间",
+      "背英文",
+      "浪费时间",
+      "英文学习"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "仁武山间",
+      "仁武"
+    ]
+  },
+  {
+    "date": "1960-04-22",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round139-april-1960-lines-713-747-april-22a",
+    "id": "preofficer-diary-1960-04-22-letter-to-youmei-says-fifty-three-days-changed-greatly-and-busy-with-work",
+    "displayDate": "1960年4月22日星期五03给有美信谈五十三天变化",
+    "title": "李敖给有美写信，说五十三天以来变化很大，并整天忙得头昏脑涨",
+    "summary": "4月22日，李敖给有美写信。信中说五十三天以来，自己这方面变化很大；整天忙得头昏脑涨、日月无光，本非“能者”却遭遇“多劳”，其中苦味不是收信人能够充分料到的。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 723,
+      "note": "李敖给有美信中说五十三天以来变化很大，整天忙得头昏脑涨、日月无光，并谈军中忙碌苦味。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-03-01-afternoon-bike-visits-yao-wu-xiangxiang-li-xuanbo-liu-director-yongkang-youmei-third-sister-xiaoyaochi-and-decides-not-return-north",
+      "preofficer-diary-1960-04-21-afternoon-writes-twenty-one-pages-of-lesson-plan-and-yu-platoon-leader-marvels-at-efficiency",
+      "preofficer-diary-1960-04-21-cao-zihua-tells-li-he-is-too-busy-and-machines-need-oil-and-rest"
+    ],
+    "view": [
+      "有美通信线",
+      "通信线",
+      "军中工作线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月22日",
+      "有美",
+      "五十三天",
+      "军中变化",
+      "头昏脑涨",
+      "多劳",
+      "写信"
+    ],
+    "people": [
+      "李敖",
+      "有美",
+      "程有美"
+    ],
+    "places": [
+      "仁武",
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-22",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round139-april-1960-lines-713-747-april-22a",
+    "id": "preofficer-diary-1960-04-22-letter-to-youmei-describes-renwu-remote-location-mosquitoes-flies-and-yellow-water",
+    "displayDate": "1960年4月22日星期五04给有美信写仁武环境",
+    "title": "李敖在给有美信中描述仁武偏僻，距楠梓二十分钟车程且蚊蝇与黄土饮水相伴",
+    "summary": "李敖在给有美的信中说，自己现在住在地图上也找不到的穷地方仁武，距楠梓有二十分钟“老爷汽车”的路程；此地整日蚊子与苍蝇齐飞，饮水也带着黄土。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 725,
+      "note": "李敖给有美信中描述仁武偏僻，距楠梓二十分钟车程，并写蚊蝇多、饮水带黄土。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-22-letter-to-youmei-says-fifty-three-days-changed-greatly-and-busy-with-work",
+      "preofficer-diary-1960-04-22-morning-at-renwu-mountains-recites-english-but-wastes-time",
+      "preofficer-diary-1960-04-21-letter-to-jing-xinhan-says-mass-work-reading-in-army-and-declining-huajun-shanpei-tainan-invitation"
+    ],
+    "view": [
+      "有美通信线",
+      "仁武线",
+      "军中环境线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月22日",
+      "有美",
+      "仁武",
+      "楠梓",
+      "老爷汽车",
+      "蚊子",
+      "苍蝇",
+      "黄土饮水"
+    ],
+    "people": [
+      "李敖",
+      "有美",
+      "程有美"
+    ],
+    "places": [
+      "仁武",
+      "楠梓"
+    ]
+  },
+  {
+    "date": "1960-04-22",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round139-april-1960-lines-713-747-april-22a",
+    "id": "preofficer-diary-1960-04-22-letter-to-youmei-calls-current-army-life-an-overreach-attempt-with-chushibiao-attitude",
+    "displayDate": "1960年4月22日星期五05给有美信说出师表式态度",
+    "title": "李敖在给有美信中称这次军中生活是不量力的尝试，态度是“出师表”式的",
+    "summary": "李敖在给有美的信中说，这次军中经历是一次不量力的尝试，自己的态度是“出师表”式的。此条承接同信中对五十三天变化、忙碌和仁武环境的说明。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 733,
+      "note": "李敖给有美信中说这次是一次不量力的尝试，态度是“出师表”式的。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-22-letter-to-youmei-says-fifty-three-days-changed-greatly-and-busy-with-work",
+      "preofficer-diary-1960-04-22-letter-to-youmei-describes-renwu-remote-location-mosquitoes-flies-and-yellow-water",
+      "preofficer-diary-1960-04-21-records-strong-drive-and-many-results"
+    ],
+    "view": [
+      "有美通信线",
+      "军中自述线",
+      "通信线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月22日",
+      "有美",
+      "不量力的尝试",
+      "出师表",
+      "军中自述"
+    ],
+    "people": [
+      "李敖",
+      "有美",
+      "程有美"
+    ],
+    "places": [
+      "仁武",
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-22",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round139-april-1960-lines-713-747-april-22a",
+    "id": "preofficer-diary-1960-04-22-receives-huajun-postcard-and-replies-by-express-about-overseas-study-exam",
+    "displayDate": "1960年4月22日星期五06华俊来片限时报之",
+    "title": "李敖收到华俊明信片并限时回复，来片说华俊已准备留学考试并盼李敖不要放松",
+    "summary": "4月22日，李敖收到华俊一张明信片，并以限时信回复。华俊在来片中说，自己已经痛下决心，埋头准备留学考试，并盼李敖也不要放松。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 735,
+      "note": "华俊来一片，李敖限时报之；来片说华俊已痛下决心准备留学考试，并盼李敖不要放松。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-20-sends-one-postcard-each-to-shanpei-and-huajun",
+      "preofficer-diary-1960-04-21-letter-to-jing-xinhan-says-mass-work-reading-in-army-and-declining-huajun-shanpei-tainan-invitation",
+      "preofficer-diary-1960-04-17-with-huajun-browses-bookstores-lunches-at-wu-chaoshou-watches-solomon-and-sheba-and-practices-english-listening"
+    ],
+    "view": [
+      "华俊线",
+      "通信线",
+      "留学考试线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月22日",
+      "华俊",
+      "李华俊",
+      "明信片",
+      "限时信",
+      "留学考试",
+      "不要放松"
+    ],
+    "people": [
+      "李敖",
+      "华俊",
+      "李华俊"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-22",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round139-april-1960-lines-713-747-april-22a",
+    "id": "preofficer-diary-1960-04-22-wenzao-hongji-wujie-deputy-platoon-leaders-move-in-and-wenzao-jokes-about-toilet-rule",
+    "displayDate": "1960年4月22日星期五07三位副排长搬来",
+    "title": "文藻、鸿基、武杰三位副排长搬来，夜里文藻拿厕所规定同李敖开玩笑",
+    "summary": "4月22日，文藻、鸿基、武杰三位副排长搬来。夜里李敖大便时，文藻说他真正做到了“小便入池，大便入坑”的地步。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 737,
+      "note": "文藻、鸿基、武杰三位副排长搬来；夜间文藻以“小便入池，大便入坑”同李敖开玩笑。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-19-night-return-meets-wenzao-takes-rickshaw-and-writes-letters-to-qingmao-and-yuhua-after-lesson",
+      "preofficer-diary-1959-12-12-hears-ding-bangxin-on-cooks-stealing-eggs-buns-and-wenzao-urges-cultivation",
+      "preofficer-diary-1959-10-27-laofang-praises-promising-and-wenzao-fears-temper"
+    ],
+    "view": [
+      "文藻线",
+      "军中同僚线",
+      "军中日常线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月22日",
+      "文藻",
+      "鸿基",
+      "武杰",
+      "副排长",
+      "搬来",
+      "厕所玩笑"
+    ],
+    "people": [
+      "李敖",
+      "文藻",
+      "王文藻",
+      "鸿基",
+      "武杰"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-22",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round139-april-1960-lines-713-747-april-22a",
+    "id": "preofficer-diary-1960-04-22-writes-postcard-to-elder-brother-thanking-for-sent-ugly-girl-and-adding-birdsong-line",
+    "displayDate": "1960年4月22日星期五08给大哥一片",
+    "title": "李敖给大哥写明信片，谢其寄来“丑丫头”，并写下“此地鸟声低啭”句",
+    "summary": "4月22日，李敖给大哥写一张明信片，信中写“谢谢你寄来的丑丫头”，又写“此地鸟声低啭，问汝几时归”。此处按李敖寄片及片中文字处理。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 741,
+      "note": "李敖给大哥一片，谢其寄来的“丑丫头”，并写“此地鸟声低啭，问汝几时归”。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-21-receives-shike-letter-with-newspaper-sketch-of-jacqueline-sasard",
+      "preofficer-diary-1960-04-22-letter-to-youmei-describes-renwu-remote-location-mosquitoes-flies-and-yellow-water"
+    ],
+    "view": [
+      "通信线",
+      "大哥线",
+      "施珂线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月22日",
+      "大哥",
+      "明信片",
+      "丑丫头",
+      "鸟声低啭",
+      "通信"
+    ],
+    "people": [
+      "李敖",
+      "大哥"
+    ],
+    "places": [
+      "四二炮连",
+      "仁武"
+    ]
+  },
+  {
+    "date": "1960-04-22",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round139-april-1960-lines-713-747-april-22a",
+    "id": "preofficer-diary-1960-04-22-afternoon-bathes-after-four-days-without-bathing",
+    "displayDate": "1960年4月22日星期五09午后洗浴",
+    "title": "李敖午后洗浴，记录自己已四日未洗澡",
+    "summary": "4月22日午后，李敖洗浴，并记录自己已经四日未洗澡。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 747,
+      "note": "午后洗浴，四日未洗澡。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-22-letter-to-youmei-describes-renwu-remote-location-mosquitoes-flies-and-yellow-water",
+      "preofficer-diary-1960-04-21-cao-zihua-tells-li-he-is-too-busy-and-machines-need-oil-and-rest",
+      "preofficer-diary-1960-03-24-tianzhao-leaves-note-raises-return-travel-money-brings-qingmao-erlin-letters-li-returns-sweaty-and-reads-yugang-qingmao"
+    ],
+    "view": [
+      "军中日常线",
+      "身体卫生线",
+      "仁武线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月22日",
+      "洗浴",
+      "四日未洗澡",
+      "午后",
+      "军中日常"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "四二炮连",
+      "仁武"
+    ]
+  },
+  {
+    "date": "1960-04-23",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "dream-record",
+    "ingestionRound": "preofficer-diary-round140-april-1960-lines-749-763-april-23",
+    "id": "preofficer-diary-1960-04-23-dreams-of-zhang-minying-train-and-repaying-more-than-seven-hundred-debt",
+    "displayDate": "1960年4月23日星期六01梦到张敏英还债",
+    "title": "李敖梦到张敏英、坐火车，并梦见还她七百多债而仍欠一百",
+    "summary": "4月23日，李敖记录梦境：梦到张敏英，梦中坐火车，又还张敏英七百多债；张敏英在梦里说还有一百没有还她。此条明确为梦境记录，不作现实债务事件处理。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 751,
+      "note": "李敖梦到张敏英、坐火车，并梦见还她七百多债；张敏英在梦中说仍有一百未还。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1959-12-16-writes-autobiography-zhang-minying-section-during-lectures-and-gunfire",
+        "preofficer-diary-1959-12-17-pastes-principal-instruction-chen-xiantang-praises-camouflage-finishes-autobiography-zhang-minying-and-first-semester"
+    ],
+    "view": [
+      "梦境线",
+      "张敏英线",
+      "自传线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月23日",
+      "梦境",
+      "张敏英",
+      "火车",
+      "还债",
+      "七百多",
+      "一百"
+    ],
+    "people": [
+      "李敖",
+      "张敏英"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-23",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round140-april-1960-lines-749-763-april-23",
+    "id": "preofficer-diary-1960-04-23-morning-assembly-deputy-division-commander-speaks-one-hour-li-recites-small-notebook",
+    "displayDate": "1960年4月23日星期六02朝会背小本子",
+    "title": "朝会中副师长讲了一小时，李敖拿出小本子背诵",
+    "summary": "4月23日又有朝会，副师长一讲就是一小时；李敖干脆拿出小本子背诵。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 753,
+      "note": "又是朝会，副师长讲一小时，李敖拿出小本子背诵。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-03-18-division-morning-assembly-personally-endures-deputy-division-commanders-long-windedness",
+      "preofficer-diary-1960-03-18-uses-the-whole-morning-for-study",
+      "preofficer-diary-1960-04-22-morning-at-renwu-mountains-recites-english-but-wastes-time"
+    ],
+    "view": [
+      "朝会线",
+      "用功作息线",
+      "军中日常线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月23日",
+      "朝会",
+      "副师长",
+      "一小时",
+      "小本子",
+      "背诵"
+    ],
+    "people": [
+      "李敖",
+      "副师长"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-23",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round140-april-1960-lines-749-763-april-23",
+    "id": "preofficer-diary-1960-04-23-morning-at-renwu-recites-english-talks-with-veterans-assists-orderly-exercise-and-teases-calf",
+    "displayDate": "1960年4月23日星期六03仁武背英文与传令演习",
+    "title": "上午李敖在仁武背英文、与老兵谈，协助传令演习并逗小牛",
+    "summary": "4月23日上午，李敖在仁武背英文，与老兵谈话，并协助传令演习；他还逗小牛，并记录小牛极可爱。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 755,
+      "note": "上午李敖在仁武背英文，与老兵谈，协助传令演习；逗小牛，并记小牛极可爱。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-22-morning-at-renwu-mountains-recites-english-but-wastes-time",
+      "preofficer-diary-1960-04-22-letter-to-youmei-describes-renwu-remote-location-mosquitoes-flies-and-yellow-water",
+      "preofficer-diary-1960-03-25-goes-again-to-guanyinshan-sees-farm-women-plant-peanuts-and-calves-with-plough"
+    ],
+    "view": [
+      "仁武线",
+      "英文学习线",
+      "军中演习线",
+      "老兵线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月23日",
+      "仁武",
+      "背英文",
+      "老兵",
+      "传令演习",
+      "小牛"
+    ],
+    "people": [
+      "李敖",
+      "老兵"
+    ],
+    "places": [
+      "仁武"
+    ]
+  },
+  {
+    "date": "1960-04-23",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round140-april-1960-lines-749-763-april-23",
+    "id": "preofficer-diary-1960-04-23-xichang-sends-outline-of-english-phonetics-by-registered-mail",
+    "displayDate": "1960年4月23日星期六04锡昌挂号寄英文语音书",
+    "title": "锡昌用挂号寄来 An Outline of English Phonetics",
+    "summary": "4月23日，锡昌以挂号寄来 An Outline of English Phonetics。此条按李敖收到书籍来件处理。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 757,
+      "note": "锡昌挂号寄来 An Outline of English Phonetics。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-13-sends-postcards-to-zhuangyin-xichang-and-veterinary-surgeon-lai",
+      "preofficer-diary-1960-04-23-morning-at-renwu-recites-english-talks-with-veterans-assists-orderly-exercise-and-teases-calf",
+      "preofficer-diary-1960-04-22-morning-at-renwu-mountains-recites-english-but-wastes-time"
+    ],
+    "view": [
+      "锡昌线",
+      "英文学习线",
+      "收书线",
+      "通信线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月23日",
+      "锡昌",
+      "黄锡昌",
+      "挂号",
+      "An Outline of English Phonetics",
+      "英文语音",
+      "收书"
+    ],
+    "people": [
+      "李敖",
+      "锡昌",
+      "黄锡昌"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-23",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round140-april-1960-lines-749-763-april-23",
+    "id": "preofficer-diary-1960-04-23-zhuangyin-sends-the-art-of-translation",
+    "displayDate": "1960年4月23日星期六05庄因寄翻译之艺术",
+    "title": "庄因寄来《翻译之艺术》",
+    "summary": "4月23日，庄因寄来《翻译之艺术》。此条按李敖收到庄因寄书处理。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 759,
+      "note": "庄因寄来《翻译之艺术》。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-21-receives-zhuangyin-letter-with-graduation-photos-and-guo-nihu-like-little-emperor",
+      "preofficer-diary-1960-04-13-sends-postcards-to-zhuangyin-xichang-and-veterinary-surgeon-lai",
+      "preofficer-diary-1960-04-21-evening-minghong-and-shusheng-read-diary-praise-it-and-shusheng-praises-translated-poems"
+    ],
+    "view": [
+      "庄因线",
+      "收书线",
+      "翻译线",
+      "通信线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月23日",
+      "庄因",
+      "翻译之艺术",
+      "寄书",
+      "翻译"
+    ],
+    "people": [
+      "李敖",
+      "庄因"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-23",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round140-april-1960-lines-749-763-april-23",
+    "id": "preofficer-diary-1960-04-23-evening-talks-with-ding-zhong-and-advises-him-to-take-candidate-officer-exam",
+    "displayDate": "1960年4月23日星期六06劝丁忠考候官",
+    "title": "傍晚李敖与丁忠谈话，并劝他考候官",
+    "summary": "4月23日傍晚，李敖与丁忠谈话，并劝丁忠去考候官。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 761,
+      "note": "傍晚李敖与丁忠谈，劝丁忠考候官。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-03-17-two-hours-basic-drill-talks-with-ding-zhong-and-pan-buyue-about-youth-inaction",
+        "preofficer-diary-1960-03-24-afternoon-soldiers-invite-li-to-compete-with-zhou-platoon-assistant-standing-eight-slow-shots-scores-27-loses-ding-zhong-comments",
+        "preofficer-diary-1960-04-01-treats-ding-zhong-and-others-to-snacks"
+    ],
+    "view": [
+      "丁忠线",
+      "军中交游线",
+      "候官线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月23日",
+      "丁忠",
+      "候官",
+      "谈话",
+      "劝考"
+    ],
+    "people": [
+      "李敖",
+      "丁忠"
+    ],
+    "places": [
+      "四二炮连"
+    ]
+  },
+  {
+    "date": "1960-04-23",
+    "datePrecision": "day",
+    "works": [
+      "一个预备军官的日记"
+    ],
+    "certainty": "primary-source",
+    "ingestionRound": "preofficer-diary-round140-april-1960-lines-749-763-april-23",
+    "id": "preofficer-diary-1960-04-23-night-translates-the-order-of-battle-of-the-chinese-communists-for-company-commander",
+    "displayDate": "1960年4月23日星期六07夜为连长译英文文件",
+    "title": "夜里李敖为连长翻译 The Order of Battle of the Chinese Communists",
+    "summary": "4月23日夜，李敖为连长翻译 The Order of Battle of the Chinese Communists。",
+    "source": {
+      "book": "一个预备军官的日记",
+      "chapter": "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/015.双枪少尉集、在那一连串苦斗的日子·1960年4月.txt",
+      "line": 763,
+      "note": "夜为连长译 The Order of Battle of the Chinese Communists。"
+    },
+    "crossReferences": [
+      "preofficer-diary-1960-04-21-afternoon-writes-twenty-one-pages-of-lesson-plan-and-yu-platoon-leader-marvels-at-efficiency",
+      "preofficer-diary-1960-04-23-zhuangyin-sends-the-art-of-translation",
+      "preofficer-diary-1960-04-08-night-reads-english-poetry-and-translates-sara-teasdale-like-barley-bending-as-damai-shi"
+    ],
+    "view": [
+      "翻译线",
+      "军中工作线",
+      "英文线"
+    ],
+    "tags": [
+      "一个预备军官的日记",
+      "预官日记",
+      "双枪少尉集",
+      "1960年4月",
+      "4月23日",
+      "连长",
+      "翻译",
+      "The Order of Battle of the Chinese Communists",
+      "夜间工作"
+    ],
+    "people": [
+      "李敖",
+      "连长"
+    ],
+    "places": [
+      "四二炮连"
+    ]
   }
 ]
