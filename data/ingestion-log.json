@@ -23183,5 +23183,778 @@
       "yearFilter": true,
       "ok": true
     }
+  },
+  {
+    "iteration": 532,
+    "book": "一个预备军官的日记",
+    "chapter": "018.1960年7月",
+    "round": "round182-july-1960-lines-3-105-july1-july3",
+    "source": {
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/018.1960年7月.txt",
+      "lineStart": 3,
+      "lineEnd": 105
+    },
+    "addedCount": 20,
+    "addedEventIds": [
+      "preofficer-diary-1960-07-01-early-walk-to-103-and-completes-poem-under-acacia",
+      "preofficer-diary-1960-07-01-60mm-group-test-one-malfunction-and-class-platoon-tests-complete",
+      "preofficer-diary-1985-10-28-adds-note-on-that-school-referring-to-political-work-cadre-school",
+      "preofficer-diary-1960-07-01-receives-express-letter-from-hong",
+      "preofficer-diary-1960-07-01-receives-political-exam-retest-order",
+      "preofficer-diary-1960-07-01-military-discipline-meeting-teases-erzhao-with-rubber-band-and-writes-poem",
+      "preofficer-diary-1960-07-01-edits-article-for-sergeant-after-retest-and-first-platoon-repeat-drill",
+      "preofficer-diary-1960-07-01-repairs-stone-stool-and-talks-ambitions-with-company-commander",
+      "preofficer-diary-1960-07-01-receives-education-ministry-brochure-and-yugang-postcard",
+      "preofficer-diary-1960-07-01-receives-xinhan-two-page-letter-on-red-rose-youth-exam-and-returning-taipei",
+      "preofficer-diary-1960-07-02-escapes-officer-hall-because-preparing-political-exam",
+      "preofficer-diary-1960-07-02-receives-qiqing-three-page-letter-about-hu-rongshang-going-to-america",
+      "preofficer-diary-1960-07-02-night-held-by-vice-erzhao-and-declines-company-commanders-reading-week-offer",
+      "preofficer-diary-1960-07-03-rewrites-autobiography-for-shao-changfu",
+      "preofficer-diary-1960-07-03-writes-postcard-to-mother-and-letter-to-zhaoxiong",
+      "preofficer-diary-1960-07-03-afternoon-nap-and-company-commander-forces-haircut-awards-five-yuan",
+      "preofficer-diary-1960-07-03-records-ma-yulong-zhou-cuiyong-sentences-and-ye-huaiyou-warrant",
+      "preofficer-diary-1960-07-03-plans-to-change-ao-signature-after-seeing-zhaoxiong-letter",
+      "preofficer-diary-1960-07-03-third-sunday-in-camp-changfu-says-he-keeps-stories-to-himself",
+      "preofficer-diary-1960-07-03-records-salary-raise-newspaper-study-and-soldiers-interrupting-reading"
+    ],
+    "updatedEventIds": [
+      "li-ao-love-poems-1960-07-01-early-mountain-walk-writes-under-acacia"
+    ],
+    "notes": [
+      "本轮处理1960年7月1日至7月3日，共新增20条，并更新《相思树下》旧诗作事件来源/交叉引用。",
+      "7月1日收入5时起去一〇三山路独行、晨景归续诗、60m.m.测验一发故障、1985年10月28日补注“那种学校”指政工干校、弘限时信、政治大考复试令、军纪讨论会戏击尔昭并成小诗、为士官长改文章、修石礅并与连长谈抱负、教育部简章与毓刚片、新汉二页书及附信。",
+      "7月2日收入因备政治大考逃军官讲堂、启庆三页信知胡蓉裳去美、夜被Vice/尔昭等谈话牵住并谢绝连长读书周好意。",
+      "7月3日收入为邵昌富改自传、给老太太片和召雄信、午睡及理发赏五元、马玉龙周翠永判刑/叶怀有通缉、因召雄信拟改签名敖字、连续三个星期日留营且昌富说其故事不讲、加薪报纸研究和阿兵哥打扰读书。",
+      "《相思树下》已在《李敖的情诗》入库，本轮只补日记来源和交叉引用；纯“真想筑庐”“感触”等未单列。1985补注日期已独立为1985-10-28。"
+    ],
+    "nextRecommendation": "下一轮已进入7月4日至7月5日：连教练、山上行军、防御地形、野外宿营、梦境、回营追击、通信、请假和夜谈等。",
+    "validation": {
+      "checkedAt": "2026-05-10T03:29:02.508Z",
+      "allEventCount": 6456,
+      "manifestEventCount": 6456,
+      "preofficerCount": 1993,
+      "currentRoundEvents": 20,
+      "duplicateIds": 0,
+      "badCrossRefs": 0,
+      "sourceMissing": 0,
+      "exportMissing": [],
+      "keyMissing": [],
+      "oldNoteDate": "1985-10-28",
+      "ok": true
+    }
+  },
+  {
+    "iteration": 533,
+    "book": "一个预备军官的日记",
+    "chapter": "018.1960年7月",
+    "round": "round183-july-1960-lines-107-135-july4-july5",
+    "source": {
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/018.1960年7月.txt",
+      "lineStart": 107,
+      "lineEnd": 135
+    },
+    "addedCount": 10,
+    "addedEventIds": [
+      "preofficer-diary-1960-07-04-enters-company-drill-climbs-cailiao-mountain-with-commander",
+      "preofficer-diary-1960-07-04-seeks-water-buys-ice-cream-and-drinks-soda-at-fengde",
+      "preofficer-diary-1960-07-04-washes-at-shanshang-school-strolls-street-and-waits-for-troops",
+      "preofficer-diary-1960-07-04-designs-rear-defense-terrain-and-sleeps-on-school-corridor-concrete",
+      "preofficer-diary-1960-07-04-first-time-digs-pit-in-bamboo-grove",
+      "preofficer-diary-1960-07-04-dreams-of-robbery-and-wakes-thinking-he-is-in-barracks",
+      "preofficer-diary-1960-07-05-attacks-from-shanshang-to-substation-and-returns-to-barracks-bed",
+      "preofficer-diary-1960-07-05-sends-postcards-letter-jusheng-washes-clothes-and-gives-cigarettes",
+      "preofficer-diary-1960-07-05-receives-towel-socks-leave-delayed-and-evening-spent-by-commanders",
+      "preofficer-diary-1960-07-05-chen-delan-yells-company-commander-rebukes-and-talks-with-two-team-leaders"
+    ],
+    "notes": [
+      "本轮处理1960年7月4日至7月5日，共新增10条。",
+      "7月4日收入进入连教练、菜寮附近山顶陪连长勘地形摔两跤，水中有油漆后索水、罄囊请冰淇淋、丰德村喝鲜泡汽水，山上国校洗手脸脚并逛街等部队，10时半后防御地形皆李敖设计、夜宿走廊水门汀，午间竹林挖坑如厕生平第一次，夜梦遇劫且醒时仍以为在营房。",
+      "7月5日收入自山上攻到变电所并追击回营房床铺、丰德村大量饮水和浑身酸味，给善培施珂片及容信、菊生代洗衣、送烟给排附，领毛巾袜、请假被营长拖、晚间被副团长和师长打发，陈德兰事件及夜与二组长谈至夜深。",
+      "梦境按“李敖夜梦遇劫”动作化处理；7月4日“想到十二年前毕业”“想到觅教职”属心理联想，未单列。"
+    ],
+    "nextRecommendation": "下一轮建议覆盖7月6日至7月8日（line 137-175）：7月6日梦到毓刚杀人/赵依依大哭可按梦境动作收入，师年终校阅时李敖留营房但要穿上衣、记录自费公费报考人数、加薪净得316.5元并为阿兵哥抄公布、胡适评论和午后兴奋型只作背景慎收；7月7日整日林镇攻击、烈日训练、读英文、晨周会获两项荣誉和炮排锦标、夜代士官考试、第16号《海鹏报》登出其仁武文字与给士官长修改文字；7月8日给弘限时信并为请假奔走、帮助副连长考试、晚饭后读旧日记。注意把7月6梦境写成梦，不把“胡适之”“发现午后兴奋型”这类纯评论拆成事件。",
+    "validation": {
+      "checkedAt": "2026-05-10T03:29:02.509Z",
+      "allEventCount": 6456,
+      "manifestEventCount": 6456,
+      "csvRows": 6456,
+      "preofficerCount": 1993,
+      "currentRoundEvents": 10,
+      "duplicateIds": 0,
+      "badCrossRefs": 0,
+      "sourceMissing": 0,
+      "exportMissing": [],
+      "keyMissing": [],
+      "displayDateWithTail": [],
+      "disallowedMindHits": [],
+      "titleLong": [],
+      "ok": true
+    }
+  },
+  {
+    "iteration": 534,
+    "book": "一个预备军官的日记",
+    "chapter": "018.1960年7月",
+    "round": "round184-july-1960-lines-137-183-july6-july8",
+    "source": {
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/018.1960年7月.txt",
+      "lineStart": 137,
+      "lineEnd": 183
+    },
+    "addedCount": 13,
+    "addedEventIds": [
+      "preofficer-diary-1960-07-06-dreams-yugang-kills-and-zhao-yiyi-cries",
+      "preofficer-diary-1960-07-06-year-end-inspection-troops-rest-in-field-li-stays-in-barracks",
+      "preofficer-diary-1960-07-06-salary-published-li-nets-316-5-and-copies-notice-for-soldiers",
+      "preofficer-diary-1960-07-07-linzhen-attack-sweats-reads-english-and-returns-dirty",
+      "preofficer-diary-1960-07-07-regimental-awards-li-takes-two-honors-and-platoon-banner",
+      "preofficer-diary-1960-07-07-takes-exams-for-sergeants-in-english-common-knowledge-math",
+      "preofficer-diary-1960-07-07-haipengbao-no16-publishes-renwu-hedezhang-and-sergeant-texts",
+      "preofficer-diary-1960-07-08-sends-express-letter-to-hong-and-runs-around-for-leave",
+      "preofficer-diary-1960-07-08-helps-vice-company-commander-with-exam",
+      "preofficer-diary-1960-07-08-reads-old-diary-and-savours-jialun-line-after-dinner",
+      "preofficer-diary-1960-07-08-night-small-work-surrounded-by-people-borrowing-things",
+      "preofficer-diary-1960-07-08-sixth-lunar-month-fifteenth-walks-alone-under-moon-before-sleep",
+      "preofficer-diary-1960-07-08-after-bed-tianzhao-comes-and-talks-about-erzhao-billing"
+    ],
+    "notes": [
+      "本轮处理1960年7月6日至7月8日，共新增13条。",
+      "7月6日收入梦到毓刚杀人及赵依依大哭、师年终校阅时李敖留营房且要穿上衣、加薪净得三百一十六点五元并为阿兵哥抄布告。",
+      "7月7日收入整日“林镇攻击”及读英文/浑身汗湿，晨周会团长颁奖中李敖独占第二营四项荣誉之二并得锦标，夜代士官们考试，第十六号《海鹏报》登出其仁武何德章文字和给士官长修改的文字。",
+      "7月8日收入给弘限时信并为请假奔走、帮助副连长考试、晚饭后读旧日记并细味家伦语、夜小工作被人不断缠和借物、阴历六月十五睡前月下独步、上床后天昭来谈尔昭小气与开账单。",
+      "梦境继续按梦境动作处理；胡适评论、书刊广告想法、Rosa一句、午后兴奋型等纯评论或自我观察未单列。"
+    ],
+    "nextRecommendation": "下一轮建议覆盖7月9日至7月10日（line 185-215）。7月9日可收《英文类聚》第一册写成、营部开会时李敖就军纪起立发言且向营长交涉“还我通讯兵来”、收到善培信和华俊片并得归来、黄吴照称李敖在四连举大拇指、召雄信寄来免费票、新汉片催北上、金海班加菜喝糯米酒/乌梅酒、干事说李敖最不能行踪保密、夜取改衣服并与阿周换衬衫；武佩侠请假事可只作李敖记录旁人情况，谨慎收入或并入日常见闻。7月10日可收李敖多次跑营部/副官组/团部争取八天假并吵架，知在新化考复试后理行装并赶车经台南返家，夜访华俊、买凤梨酥和皮鞋、老太太给钱与路费、整理什物至夜深，世民等候未见。",
+    "validation": {
+      "checkedAt": "2026-05-10T03:36:19.408Z",
+      "allEventCount": 6469,
+      "manifestEventCount": 6469,
+      "csvRows": 6469,
+      "preofficerCount": 2006,
+      "currentRoundEvents": 13,
+      "duplicateIds": 0,
+      "badCrossRefs": 0,
+      "sourceMissing": 0,
+      "exportMissing": [],
+      "keyMissing": [],
+      "displayDateWithTail": [],
+      "disallowedMindHits": [],
+      "titleLong": [],
+      "ok": true
+    }
+  },
+  {
+    "iteration": 535,
+    "book": "一个预备军官的日记",
+    "chapter": "018.1960年7月",
+    "round": "round185-july-1960-lines-185-215-july9-july10",
+    "source": {
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/018.1960年7月.txt",
+      "lineStart": 185,
+      "lineEnd": 215
+    },
+    "addedCount": 12,
+    "addedEventIds": [
+      "preofficer-diary-1960-07-09-completes-first-volume-of-yingwen-leiju",
+      "preofficer-diary-1960-07-09-speaks-at-battalion-meeting-on-discipline-and-asks-return-communications-soldier",
+      "preofficer-diary-1960-07-09-receives-shanpei-letter-and-huajun-postcard-and-gets-to-return",
+      "preofficer-diary-1960-07-09-huang-wuzhao-says-li-is-thumbs-up-in-fourth-company-for-banner",
+      "preofficer-diary-1960-07-09-receives-zhaoxiong-free-ticket-and-xinhan-postcard-urging-north",
+      "preofficer-diary-1960-07-09-jinhai-class-extra-food-drinks-wine-and-li-not-drunk",
+      "preofficer-diary-1960-07-09-clerk-says-li-cannot-keep-whereabouts-secret",
+      "preofficer-diary-1960-07-09-fetches-altered-clothes-and-exchanges-shirt-with-azhou",
+      "preofficer-diary-1960-07-10-runs-to-battalion-adjutant-and-regiment-and-gets-eight-days-leave",
+      "preofficer-diary-1960-07-10-political-retest-at-xinhua-and-catches-train-through-tainan-home",
+      "preofficer-diary-1960-07-10-visits-huajun-buys-pineapple-cakes-shoes-and-packs-late",
+      "preofficer-diary-1960-07-10-shimin-waits-at-li-home-after-missing-movie-but-they-do-not-meet"
+    ],
+    "notes": [
+      "本轮处理1960年7月9日至7月10日，共新增12条。",
+      "7月9日收入《英文类聚》第一册写成、营部开会李敖就军纪起立发言并向营长交涉“还我通讯兵来”、善培一信华俊一片且得归来、黄吴照称李敖在四连举大拇指、召雄免费票与新汉催北上片、金海班加菜并喝糯米酒/乌梅酒、干事说李敖最不能行踪保密、夜取改衣服并与阿周换衬衫。",
+      "7月10日收入李敖跑营部/副官组/团部争取八天假并吵架，得知在新化政治大考复试后理行装、应付师长、赶10时半车经台南车站读报后5时后抵家，夜访华俊、买凤梨酥和皮鞋、老太太给钱及路费、理什物至夜深，世民等候未见。",
+      "武佩侠请假一日及可能记过主要是旁人事项，本轮未单列；小女侨生只作为返家车中见闻，不另扩展。"
+    ],
+    "nextRecommendation": "下一轮建议覆盖7月11日至7月12日（line 217-245）。7月11日可收很早起伤风、访世民并在车站与世民华俊谈、9时半平快北上并买新乐园破戒，1时后抵北后到第一宿舍、周家、潘家，与毓刚大谈并收《大学生活》和破弹皮，午饭未吃而鼓应请夜饭于寿尔康，洗浴后在宿舍与贾教官等一人演说一阵，转赴马家研究历史英文、夜深马请吃饺子。7月12日可收凌晨睡不好后读书整理谈话读旧日记、去教育部取准考证并访台大/庄因/新兴吃冰，三姐处晚饭谈天，9时后访姚先生且拒收二百元，夜与英善等四五人大谈并宿第一旧床，新汉来访未遇。注意这段从军营转入北上应考/访友，信息密度高，可做一轮但要保持事件标题简洁。",
+    "validation": {
+      "checkedAt": "2026-05-10T03:48:53.252Z",
+      "allEventCount": 6481,
+      "manifestEventCount": 6481,
+      "csvRows": 6481,
+      "preofficerCount": 2018,
+      "currentRoundEvents": 12,
+      "duplicateIds": 0,
+      "badCrossRefs": 0,
+      "sourceMissing": 0,
+      "exportMissing": [],
+      "keyMissing": [],
+      "displayDateWithTail": [],
+      "disallowedMindHits": [],
+      "titleLong": [],
+      "ok": true
+    }
+  },
+  {
+    "iteration": 536,
+    "book": "一个预备军官的日记",
+    "chapter": "018.1960年7月",
+    "round": "round186-july-1960-lines-217-239-july11-july12",
+    "source": {
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/018.1960年7月.txt",
+      "lineStart": 217,
+      "lineEnd": 239
+    },
+    "addedCount": 9,
+    "addedEventIds": [
+      "preofficer-diary-1960-07-11-visits-shimin-talks-with-shimin-huajun-and-takes-930-train-north",
+      "preofficer-diary-1960-07-11-arrives-taipei-visits-first-dorm-zhou-pan-and-talks-with-yugang",
+      "preofficer-diary-1960-07-11-skips-lunch-and-guying-treats-dinner-at-shouerkang",
+      "preofficer-diary-1960-07-11-bathes-speaks-with-jia-in-dorm-and-studies-history-english-at-ma-home",
+      "preofficer-diary-1960-07-12-cannot-sleep-before-3-and-reads-organizes-talks-and-reads-old-diary",
+      "preofficer-diary-1960-07-12-breakfast-at-ma-home-gets-admission-ticket-visits-taiwan-university-zhuangyin-and-xinxing",
+      "preofficer-diary-1960-07-12-dinner-at-third-sister-and-talks-about-jin-huiying-becoming-nun",
+      "preofficer-diary-1960-07-12-visits-yao-after-nine-and-refuses-200-yuan",
+      "preofficer-diary-1960-07-12-talks-with-yingshan-and-others-sleeps-old-bed-xinhan-misses-him"
+    ],
+    "notes": [
+      "本轮处理1960年7月11日至7月12日，共新增9条。",
+      "7月11日收入李敖早起伤风、访世民并在车站与世民华俊谈、坐9时半平快北上并买包新乐园破戒，1时后抵北后赴第一宿舍、周家、潘家并与毓刚大谈、收《大学生活》和破弹皮，午饭未吃而鼓应请寿尔康夜饭，洗浴后与贾教官等演说、赴马家研究历史英文、夜深马请吃饺子。",
+      "7月12日收入凌晨睡不好后读书整理谈话和读旧日记，马家早饭后赴教育部取准考证、去台大见谭凝晖、访庄因并与小摩徐小姐鼓应在新兴吃冰，三姐处晚饭并谈金惠瑛做修女事，9时后访姚先生并拒收二百元，夜与英善等大谈、宿第一旧床且新汉来访未遇。",
+      "本轮保留具体行动与通信访友，不把“伤风甚讨厌”等身体/感受单列，作为北上事件附注处理。"
+    ],
+    "nextRecommendation": "下一轮建议覆盖7月13日至7月15日（line 241-283）。7月13日可收给连长、干事、排附限时信和给启庆片；送鼓应牙膏、鼓应请早饭；去善导寺，善培冲牛奶咖啡，碰启庆并由启庆请湘川菜馆、逛书店、途中遇张忠琳和杨寿贞；午接景新汉限时信催驾，傍晚独赴景家，新汉请山东店晚饭并夜宿景家。7月14日可收景家早饭后赴马家、拔右臼齿花55元；与马/善培/鸿飞聚谈；独赴有美家讲历史一下午并见有美父亲；三姐请吃饺子；弘约晚上吃饭；夜在第一因牙痛影响读书、练杠子、洗澡。7月15日可收请王大姐早点并小谈；赴马家和牙医处、与马在大新谈读、李定一祝考上；独逛书店和吃卤鸭面；善导寺见尼姑和尚并写信给Rosa；善培送高级手帕、买消炎片；夜南京饭店晚饭、赴周家为弘讲本国史、善导寺开夜车至2时。注意7月15“莫非鬼来了么”可作为睡眠中惊醒感受，不必单列。",
+    "validation": {
+      "checkedAt": "2026-05-10T04:49:15.628Z",
+      "allEventCount": 6490,
+      "manifestEventCount": 6490,
+      "csvRows": 6490,
+      "preofficerCount": 2027,
+      "currentRoundEvents": 9,
+      "duplicateIds": 0,
+      "badCrossRefs": 0,
+      "sourceMissing": 0,
+      "exportMissing": [],
+      "keyMissing": [],
+      "displayDateWithTail": [],
+      "disallowedMindHits": [],
+      "titleLong": [],
+      "ok": true
+    }
+  },
+  {
+    "iteration": 537,
+    "book": "一个预备军官的日记",
+    "chapter": "018.1960年7月",
+    "round": "round187-july-1960-lines-241-277-july13-july15",
+    "source": {
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/018.1960年7月.txt",
+      "lineStart": 241,
+      "lineEnd": 277
+    },
+    "addedCount": 14,
+    "addedEventIds": [
+      "preofficer-diary-1960-07-13-writes-express-letters-to-company-commander-clerk-platoon-adjutant-and-postcard-to-qiqing",
+      "preofficer-diary-1960-07-13-gives-guying-toothpaste-and-guying-treats-breakfast",
+      "preofficer-diary-1960-07-13-goes-to-shandao-temple-meets-qiqing-lunches-at-xiangchuan-and-browses-bookstores",
+      "preofficer-diary-1960-07-13-receives-xinhan-express-urging-and-stays-at-jing-home-after-shandong-dinner",
+      "preofficer-diary-1960-07-14-after-breakfast-at-jing-home-goes-to-ma-home-and-has-right-molar-pulled",
+      "preofficer-diary-1960-07-14-visits-youmei-talks-history-all-afternoon-and-meets-her-father",
+      "preofficer-diary-1960-07-14-third-sister-treats-dumplings-hong-asks-dinner-and-toothache-affects-study",
+      "preofficer-diary-1960-07-15-treats-wang-dajie-breakfast-and-talks-briefly",
+      "preofficer-diary-1960-07-15-goes-to-ma-home-dentist-talks-at-daxin-and-li-dingyi-congratulates",
+      "preofficer-diary-1960-07-15-browses-bookstores-before-lunch-and-eats-luya-mian",
+      "preofficer-diary-1960-07-15-at-shandao-temple-records-nun-monk-and-writes-letter-to-rosa",
+      "preofficer-diary-1960-07-15-shanpei-gives-handkerchief-and-li-buys-anti-inflammatory-tablets",
+      "preofficer-diary-1960-07-15-dinner-at-nanjing-restaurant-organizes-at-first-and-teaches-hong-chinese-history",
+      "preofficer-diary-1960-07-15-studies-overnight-at-shandao-temple-until-2-with-shanpei-coffee-milk"
+    ],
+    "notes": [
+      "本轮处理1960年7月13日至7月15日，共新增14条。",
+      "7月13日收入上午给连长、干事、排附限时信和给启庆片，送鼓应牙膏且鼓应请早饭，善导寺善培冲牛奶咖啡、重庆南路遇启庆、启庆请湘川菜馆并逛书店、途中遇张忠琳与杨寿贞，午接景新汉限时信催驾、傍晚赴景家、山东店晚饭、畅谈后夜宿景家。",
+      "7月14日收入景家早饭后赴马家并拔右臼齿花五十五元、午与马/善培/鸿飞聚谈、独赴有美家讲谈历史一下午并见有美父亲、三姐请吃饺子、弘约晚上吃饭、夜在第一因牙痛影响读书但仍练杠子洗澡。",
+      "7月15日收入请王大姐早点并小谈、赴马家和牙医处后与马在大新谈读且李定一祝考上、午饭前独逛书店并吃卤鸭面、午后在善导寺写信给Rosa并记录寺中见闻、善培送高级手帕、买消炎片、南京饭店晚饭、赴周家为弘讲本国史、善导寺开夜车至2时。",
+      "Rosa相关按“李敖写信给Rosa”处理；“莫非鬼来了么”仅作为睡眠中惊醒感受，未单列。"
+    ],
+    "nextRecommendation": "下一轮建议只覆盖7月16日（line 279-285），这是留学考试首日且密度很高：晨第三次醒后又起而开早车；首考国文，翻译《左传》甚佳，作文题“孔孟学说在今日”，李敖兴大发、满篇微词，带有“再打倒孔家店”之意；第二堂三民主义本国史地乱答一气；午在新兴吃面包等，马戈请客；下午考英文，甚难但考得尚可，专科题甚别致且误答错五分；考试日见熟人很多、马戈鼓应等见到Rosa而李敖未见、Rosa据说憔悴；景来看他，赴周家车上见谭凝晖而装作未见；晚在周家吃鸡鸭肉喝香槟，收到萧镜昌限时信及免价票；英善电话告知与华俊在第一等他，夜宿第一，众人谈其国文考试大胆翻案文。注意Rosa和谭凝晖都按“听闻/见到并行动”写，别写成内心事件；考试作答可以收为核心事件。",
+    "validation": {
+      "checkedAt": "2026-05-10T05:04:07.685Z",
+      "allEventCount": 6504,
+      "manifestEventCount": 6504,
+      "csvRows": 6504,
+      "preofficerCount": 2041,
+      "currentRoundEvents": 14,
+      "duplicateIds": 0,
+      "badCrossRefs": 0,
+      "sourceMissing": 0,
+      "exportMissing": [],
+      "keyMissing": [],
+      "displayDateWithTail": [],
+      "disallowedMindHits": [],
+      "titleLong": [],
+      "ok": true
+    }
+  },
+  {
+    "iteration": 538,
+    "book": "一个预备军官的日记",
+    "chapter": "018.1960年7月",
+    "round": "round188-july-1960-line-279-287-july16-exam-day",
+    "source": {
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/018.1960年7月.txt",
+      "lineStart": 279,
+      "lineEnd": 287
+    },
+    "addedCount": 5,
+    "addedEventIds": [
+      "preofficer-diary-1960-07-16-wakes-third-time-and-starts-early-study",
+      "preofficer-diary-1960-07-16-takes-chinese-three-principles-history-geography-and-english-exams",
+      "preofficer-diary-1960-07-16-sees-many-acquaintances-misses-rosa-and-sees-tan-ninghui-on-bus",
+      "preofficer-diary-1960-07-16-dines-at-zhou-home-drinks-champagne-and-receives-xiao-jingchang-express-ticket",
+      "preofficer-diary-1960-07-16-yingshan-calls-huajun-waits-and-li-sleeps-at-first-dorm-while-people-discuss-essay"
+    ],
+    "notes": [
+      "本轮处理1960年7月16日，共新增5条。",
+      "收入晨第三次醒后又起而开早车。",
+      "收入留学考试首日：国文翻译《左传》甚佳、作文题“孔孟学说在今日”且满篇微词并有“再打倒孔家店”之意，第二堂三民主义本国史地乱答一气，午在新兴吃面包由马戈请客，下午考英文甚难但尚可、专科题别致且误答错五分。",
+      "收入考试日见闻：见熟人颇多，马戈鼓应等见到Rosa而李敖未见，Rosa据说有点憔悴；景新汉来看，赴周家车上见谭凝晖而装作未见。",
+      "收入周家晚饭吃鸡鸭肉、喝香槟、收到萧镜昌限时信及免价票，及英善电话告知与华俊在第一等候、夜宿第一并谈国文考试大胆翻案文。"
+    ],
+    "nextRecommendation": "下一轮建议覆盖7月17日至7月18日（line 289-301）。7月17日是台北行收束返程：华俊晨来带连长快信，李敖决定取消景家聚会而归并嘱英善转告彦增；英善请午饭而李敖以计却之；与华俊赴胡家，途与毓刚小谈，在胡家谈留学；11时半到医院治牙，转赴马家午饭；取十元转赴善导寺，善培又借五十元，又赴第一整理；弘来开车送到衡阳街，李敖买《逻辑新引》送善培，又买英文书和晚报，坐6时半平快与善培谈学，11点半抵家。7月18日可收老太太给150元、为连长买凤梨酥、王二婶来并送礼、12时半公路车返营一路到嘉义/新市/新化/那拔林、抵营后镜昌尔昭围谈、连长道歉并请饭、送两盒凤梨酥给连部、送西餐手帕给善培和连长、收到英善及弘旧信、台北行宣告结束、夜两盆水洗澡。注意7月18“意淫良久”和“想请Rosa看电影”等内心内容不单列，可作为台北行结束总结里的谨慎背景。",
+    "validation": {
+      "checkedAt": "2026-05-10T05:28:21.627Z",
+      "allEventCount": 6509,
+      "manifestEventCount": 6509,
+      "csvRows": 6509,
+      "preofficerCount": 2046,
+      "currentRoundEvents": 5,
+      "duplicateIds": 0,
+      "badCrossRefs": 0,
+      "sourceMissing": 0,
+      "exportMissing": [],
+      "keyMissing": [],
+      "displayDateWithTail": [],
+      "disallowedMindHits": [],
+      "titleLong": [],
+      "ok": true
+    }
+  },
+  {
+    "iteration": 539,
+    "book": "一个预备军官的日记",
+    "chapter": "018.1960年7月",
+    "round": "round189-july-1960-lines-289-303-july17-july18",
+    "source": {
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/018.1960年7月.txt",
+      "lineStart": 289,
+      "lineEnd": 303
+    },
+    "addedCount": 8,
+    "addedEventIds": [
+      "preofficer-diary-1960-07-17-huajun-brings-company-commander-express-li-cancels-jing-home-gathering-and-visits-hu-home",
+      "preofficer-diary-1960-07-17-hospital-dental-treatment-ma-home-lunch-shanpei-lends-50-and-hong-drives-to-hengyang-street",
+      "preofficer-diary-1960-07-17-takes-630-train-talks-study-with-shanpei-and-arrives-home-1130",
+      "preofficer-diary-1960-07-18-mother-gives-150-buys-pineapple-cakes-for-commander-and-wang-aunt-visits",
+      "preofficer-diary-1960-07-18-travels-by-bus-and-train-from-home-to-nabaling-barracks",
+      "preofficer-diary-1960-07-18-jingchang-erzhao-talk-company-commander-apologizes-treats-dinner-and-praises-li",
+      "preofficer-diary-1960-07-18-gives-pineapple-cakes-to-company-office-and-handkerchiefs-to-shanpei-and-commander",
+      "preofficer-diary-1960-07-18-receives-old-letters-from-yingshan-and-hong-concludes-taipei-trip-and-bathes-with-two-basins"
+    ],
+    "notes": [
+      "本轮处理1960年7月17日至7月18日，共新增8条。",
+      "7月17日收入华俊带连长快信、取消景家聚会返营并嘱英善转告彦增、胡家谈留学、医院治牙、马家午饭、善培又假五十元、弘车送衡阳街、买《逻辑新引》送善培及英文书晚报、6时半平快返家与善培谈学。",
+      "7月18日收入老太太给150元、为连长买凤梨酥、王二婶来访送礼、长途由台中经嘉义新市新化转那拔林返营、镜昌尔昭围谈、连长因催回道歉并请饭喝桂圆酒、送凤梨酥与西餐手帕、收英善及弘旧信、台北行结束和两盆水洗澡。",
+      "黑透明旗袍女人意淫良久、很想请Rosa等纯欲望或内心句未单列；仅保留台北行结束的行动性总结。"
+    ],
+    "nextRecommendation": "下一轮建议覆盖7月19日至7月20日前半（line 305-333左右）。7月19日可收士官长因首日封和邮票夸李敖细心、装载练习后连长叫李敖留家、马戈南下前送照片、午睡梦到Lo、买肥皂伪装网等、部队外出时独食便当加皮蛋并理发洗浴；欲给Rosa作书未果、欲寄佛教会章未成事实和拟译书拟写传记都要谨慎，偏计划或心理则不单列。7月20日前半可收副座抓公差录三表、赴西区福利社寄信给Rosa、因不得外出寄平信、转赴镜昌处与天昭等在冰店食桂圆、给徐菊生肥皂一块；随后段钟渝诗文为来信材料，若非李敖行动，暂不拆。",
+    "validation": {
+      "checkedAt": "2026-05-10T05:48:55.000Z",
+      "allEventCount": 6517,
+      "manifestEventCount": 6517,
+      "csvRows": 6517,
+      "preofficerCount": 2054,
+      "currentRoundEvents": 8,
+      "duplicateIds": 0,
+      "badCrossRefs": 0,
+      "sourceMissing": 0,
+      "exportMissing": [],
+      "keyMissing": [],
+      "displayDateWithTail": [],
+      "disallowedMindHits": [],
+      "titleLong": [],
+      "ok": true,
+      "questionMarkFields": []
+    }
+  },
+  {
+    "iteration": 540,
+    "book": "一个预备军官的日记",
+    "chapter": "018.1960年7月",
+    "round": "round190-july-1960-lines-305-357-july19-july20-first-half",
+    "source": {
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/018.1960年7月.txt",
+      "lineStart": 305,
+      "lineEnd": 357
+    },
+    "addedCount": 10,
+    "addedEventIds": [
+      "preofficer-diary-1960-07-19-sergeant-major-praises-li-for-first-day-cover-and-stamps",
+      "preofficer-diary-1960-07-19-loading-practice-tired-company-commander-tells-li-to-stay-home",
+      "preofficer-diary-1960-07-19-mage-gives-photo-before-going-south",
+      "preofficer-diary-1960-07-19-naps-and-dreams-of-lo",
+      "preofficer-diary-1960-07-19-buys-soap-camouflage-net-and-other-items",
+      "preofficer-diary-1960-07-19-unit-goes-out-li-eats-box-meal-alone-haircut-and-bath",
+      "preofficer-diary-1960-07-20-deputy-assigns-li-duty-recording-three-forms",
+      "preofficer-diary-1960-07-20-sends-flat-letter-to-rosa-and-eats-longan-at-ice-shop-with-jingchang-and-tianzhao",
+      "preofficer-diary-1960-07-20-gives-soap-to-xu-jusheng-for-washing-clothes",
+      "preofficer-diary-1960-07-20-copies-duan-zhongyu-poem-qingmo-yuanli-and-comments"
+    ],
+    "notes": [
+      "本轮处理1960年7月19日至7月20日前半，共新增10条。",
+      "7月19日收入士官长因首日封和邮票夸李敖细心、装载练习后连长叫李敖留家、马戈南下前送照片、午睡梦到Lo、买肥皂伪装网、部队外出时独食便当加皮蛋并理发洗浴。",
+      "7月20日前半收入副座抓公差录三表、李敖赴西区福利社给Rosa寄平信、转赴镜昌处并与天昭等在冰店食桂圆、因徐菊生曾为他洗衣而送肥皂一块、摘录段钟渝《请莫远离》并评价。",
+      "7月19日“欲作书给Rosa未果”“很想译几部书”“想写张竞生传”等偏愿望或计划内容未单列；7月20日“晨起甚冲动”未收入。"
+    ],
+    "nextRecommendation": "下一轮建议覆盖7月20日后半至7月21日（line 359-389左右）。7月20日后半可收：镜昌说李敖和连长不像部属而像朋友；李敖填保证书、宣誓书等三份；整个下午在竹林清风下研究连测验；晚饭后请正副座、阿周及全排吃点心，花约百元；凉雨后与连长在操场谈；夜赠排附三十元并一再强之乃受。7月21日可收：晨起困倦伤风、吃伤风克并准备连测验；午后视察工事预习；买六〇炮用香等且连长说应从公库取钱；晚饭后连长称赞李敖像大学生、字好人好学问好；给周弘写申谢信并用毛笔作书；夜与副连长做填字戏；给清茂限时片。注意“无聊何妨非非想”仍属心理/句子，不单列。",
+    "validation": {
+      "checkedAt": "2026-05-10T05:55:20.000Z",
+      "allEventCount": 6527,
+      "manifestEventCount": 6527,
+      "csvRows": 6527,
+      "preofficerCount": 2064,
+      "currentRoundEvents": 10,
+      "duplicateIds": 0,
+      "badCrossRefs": 0,
+      "sourceMissing": 0,
+      "exportMissing": [],
+      "keyMissing": [],
+      "displayDateWithTail": [],
+      "disallowedMindHits": [],
+      "titleLong": [],
+      "questionMarkFields": [],
+      "ok": true
+    }
+  },
+  {
+    "iteration": 541,
+    "book": "一个预备军官的日记",
+    "chapter": "018.1960年7月",
+    "round": "round191-july-1960-lines-359-389-july20-late-july21",
+    "source": {
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/018.1960年7月.txt",
+      "lineStart": 359,
+      "lineEnd": 389
+    },
+    "addedCount": 13,
+    "addedEventIds": [
+      "preofficer-diary-1960-07-20-jingchang-says-li-and-company-commander-are-like-friends",
+      "preofficer-diary-1960-07-20-fills-guarantee-and-oath-documents",
+      "preofficer-diary-1960-07-20-studies-company-test-under-bamboo-breeze",
+      "preofficer-diary-1960-07-20-treats-commanders-azhou-and-platoon-to-snacks",
+      "preofficer-diary-1960-07-20-talks-with-company-commander-on-parade-ground-after-cool-rain",
+      "preofficer-diary-1960-07-20-gives-platoon-adjutant-thirty-yuan-at-night",
+      "preofficer-diary-1960-07-21-tired-cold-medicine-prepares-company-test-and-naps-before-noon",
+      "preofficer-diary-1960-07-21-inspects-fieldworks-previews-and-naps-again",
+      "preofficer-diary-1960-07-21-buys-sixty-mortar-incense-company-commander-says-use-public-funds",
+      "preofficer-diary-1960-07-21-company-commander-praises-li-as-most-like-university-student",
+      "preofficer-diary-1960-07-21-writes-thank-you-letter-to-zhouhong-with-brush",
+      "preofficer-diary-1960-07-21-plays-word-game-with-deputy-company-commander-at-night",
+      "preofficer-diary-1960-07-21-sends-express-postcard-to-qingmao"
+    ],
+    "notes": [
+      "本轮处理1960年7月20日后半至7月21日，共新增13条。",
+      "7月20日后半收入镜昌称李敖与连长不像部属而像朋友、李敖填保证书宣誓书三份、下午研究连测验、晚饭后请正副座阿周及全排吃点心、凉雨后与连长在操场谈、夜赠排附三十元。",
+      "7月21日收入晨起困倦伤风吃伤风克并准备连测验、午后视察工事预习并又小眠、买六〇炮用香且连长称应从公库取钱、晚饭后连长称赞李敖像大学生且字好人好学问好、给周弘毛笔申谢信、夜与副连长做填字戏、给清茂限时片。",
+      "7月20日“今晚心情不佳”和7月21日“无聊何妨非非想”均未单列为事件。"
+    ],
+    "nextRecommendation": "下一轮建议只覆盖7月22日（line 391-395），因为正文极密。可收：晨4时醒前清晰梦到Rosa，写成“李敖晨梦到Rosa”并注明是梦境；天黑出发且第一次坐在四分之四前头到双兴里集结；与连长坐四分之一到五甲势勘察地形并展开防御；据秃山头挖大工事并遇烈日和雨；午在甘蔗地里挖坑大便；2时后带玉章、廷有、董伟去西势村勘地形准备撤退；到广兴宫后请三人及司机吃冰吸烟；赴国民学校接洽走廊；7时归来车陷泥中徒步赶回并在壕中匆匆吃饭；8时10分在“武昌”计划下随部队快速下山涉水，一度滑倒，一小时零八分钟内快速活动。注意“想到步校时队上官长们坐的位置”和“冰店女人似Lo”等心理/凝视内容不单列。",
+    "validation": {
+      "checkedAt": "2026-05-10T05:59:50.000Z",
+      "allEventCount": 6540,
+      "manifestEventCount": 6540,
+      "csvRows": 6540,
+      "preofficerCount": 2077,
+      "currentRoundEvents": 13,
+      "duplicateIds": 0,
+      "badCrossRefs": 0,
+      "sourceMissing": 0,
+      "exportMissing": [],
+      "keyMissing": [],
+      "displayDateWithTail": [],
+      "disallowedMindHits": [],
+      "mentalTitle": [],
+      "titleLong": [],
+      "questionMarkFields": [],
+      "ok": true
+    }
+  },
+  {
+    "iteration": 542,
+    "book": "一个预备军官的日记",
+    "chapter": "018.1960年7月",
+    "round": "round192-july-1960-lines-391-395-july22",
+    "source": {
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/018.1960年7月.txt",
+      "lineStart": 391,
+      "lineEnd": 395
+    },
+    "addedCount": 10,
+    "addedEventIds": [
+      "preofficer-diary-1960-07-22-dreams-of-rosa-before-waking-at-four",
+      "preofficer-diary-1960-07-22-departs-before-dawn-rides-front-of-four-quarter-truck-to-shuangxingli",
+      "preofficer-diary-1960-07-22-reconnoiters-wujiashi-terrain-with-company-commander-and-deploys-defense",
+      "preofficer-diary-1960-07-22-digs-large-fortification-on-bare-hill-under-sun-and-rain",
+      "preofficer-diary-1960-07-22-defecates-in-sugarcane-field-at-noon",
+      "preofficer-diary-1960-07-22-leads-yuzhang-tingyou-dongwei-to-xishi-village-for-withdrawal-recon",
+      "preofficer-diary-1960-07-22-treats-three-men-and-driver-to-ice-and-cigarettes-at-guangxinggong",
+      "preofficer-diary-1960-07-22-goes-to-elementary-school-to-arrange-corridor",
+      "preofficer-diary-1960-07-22-returns-at-seven-vehicle-stuck-walks-back-and-eats-in-trench",
+      "preofficer-diary-1960-07-22-wuchang-plan-runs-down-mountain-fords-river-and-slips"
+    ],
+    "notes": [
+      "本轮处理1960年7月22日，共新增10条。",
+      "收入晨4时醒前清晰梦到Rosa并醒后志之、天黑出发并坐四分之四前头到双兴里集结、与连长坐四分之一赴五甲势勘察地形并展开防御。",
+      "收入据秃山头挖大工事并遭烈日风雨、午在甘蔗地挖坑大便、2时后带玉章廷有董伟赴西势村勘地形准备撤退。",
+      "收入到广兴宫后请三人及司机吃冰吸烟、赴国民学校接洽走廊、7时归来车陷泥中徒步赶回并在壕中匆匆吃饭、8时10分在“武昌”计划下随部队快速下山涉水并滑倒。",
+      "“想到步校时队上官长们坐的位置”“有点困”“冰店那小女人似Lo”等心理/凝视内容未单列。"
+    ],
+    "nextRecommendation": "下一轮建议覆盖7月23日至7月24日（line 397-419）。7月23日可收：4时又起，穿湿衣湿鞋湿袜；黑暗冷风中车绕新化，与连长抵五甲势后面甘蔗林中接受命令并勘地形；9点30分攻击发起，因变换阵地闹出“七五炮打冲锋”笑话，兵器排跑在步兵排前头，张永亭等未进入情况；归来甚倦，3时才午饭；珂来一片；阿戴又借五十元。7月24日可收：梦到 Hsieh Yo's daughter；赶到经纬书局迟到未遇清茂、与伯高逛街买借据、吴抄手午饭喝清酒；在赤崁看《俾斯麦舰歼灭战》；在延平看《惊险重重》；看电影后买笔记本、Vitamin B 和镜子等并本日花一百多元；夜 Company Commander 训话。注意7月24日电影后关于女人肉体的感受和“我想起伯高劝告”属于心理，不单列，可只作为训话后的行动背景谨慎处理。",
+    "validation": {
+      "checkedAt": "2026-05-10T06:04:20.000Z",
+      "allEventCount": 6550,
+      "manifestEventCount": 6550,
+      "csvRows": 6550,
+      "preofficerCount": 2087,
+      "currentRoundEvents": 10,
+      "duplicateIds": 0,
+      "badCrossRefs": 0,
+      "sourceMissing": 0,
+      "exportMissing": [],
+      "keyMissing": [],
+      "displayDateWithTail": [],
+      "disallowedMindHits": [],
+      "titleLong": [],
+      "questionMarkFields": [],
+      "ok": true
+    }
+  },
+  {
+    "iteration": 543,
+    "book": "一个预备军官的日记",
+    "chapter": "018.1960年7月",
+    "round": "round193-july-1960-lines-397-419-july23-july24",
+    "source": {
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/018.1960年7月.txt",
+      "lineStart": 397,
+      "lineEnd": 419
+    },
+    "addedCount": 12,
+    "addedEventIds": [
+      "preofficer-diary-1960-07-23-rises-at-four-wears-wet-clothes-and-drives-through-xinhua-in-dark-cold-wind",
+      "preofficer-diary-1960-07-23-receives-orders-with-company-commander-behind-wujiashi-and-reconnoiters-in-sugarcane",
+      "preofficer-diary-1960-07-23-attack-starts-and-seventy-five-gun-charge-joke-happens",
+      "preofficer-diary-1960-07-23-returns-tired-and-eats-lunch-at-three",
+      "preofficer-diary-1960-07-23-receives-postcard-from-ke",
+      "preofficer-diary-1960-07-23-adai-lends-li-fifty-yuan-again",
+      "preofficer-diary-1960-07-24-dreams-of-hsieh-yos-daughter",
+      "preofficer-diary-1960-07-24-jingwei-late-misses-qingmao-strolls-with-bogao-buys-ious-and-lunches-at-wu-chaoshou",
+      "preofficer-diary-1960-07-24-watches-sink-the-bismark-at-chikan",
+      "preofficer-diary-1960-07-24-watches-the-last-voyage-at-yanping",
+      "preofficer-diary-1960-07-24-buys-notebook-vitamin-b-and-mirror-after-movies-spends-over-100",
+      "preofficer-diary-1960-07-24-night-company-commander-speech-records-map-and-dagger-sentence"
+    ],
+    "notes": [
+      "本轮处理1960年7月23日至7月24日，共新增12条。",
+      "7月23日收入4时起穿湿衣鞋袜、随连长到五甲势后面甘蔗林受命并勘地形、9点30分攻击发起且闹出“七五炮打冲锋”笑话、倦归3时才午饭、珂来一片、阿戴又借五十元。",
+      "7月24日收入梦到Hsieh Yo之女、赶到经纬书局迟到未遇清茂并与伯高逛街买借据、吴抄手午饭喝清酒、在赤崁看《俾斯麦舰歼灭战》、在延平看《惊险重重》、看电影后买笔记本Vitamin B镜子并花一百多元、夜间连长训话并记英文句。",
+      "7月23日“好像做了一场噩梦”属感受比喻未单列；7月24日电影后的肉体感受和“我想起伯高的劝告”未单列。"
+    ],
+    "nextRecommendation": "下一轮建议只覆盖7月25日（line 421-493），因为醉酒作诗部分很长。可收：上午Preliminary Infantry-team Training这门课逃掉；记录注意分组循环教育法（countyfair method）；嘉义人李嘉骘调来五连，晨与之小谈；给珂一片；下午3时半因副连长任排长周年纪念日被强拉喝酒，大醉且晚饭不能食，生平首次大醉；夜8时半起，半醉下成诗《我竟醉》；大醉一次误时殊多但得一人生难得经验。第5条“没有你想象的那么严重……”偏自我劝勉/态度，不单列，最多作为未收说明。",
+    "validation": {
+      "checkedAt": "2026-05-10T06:20:20.000Z",
+      "allEventCount": 6562,
+      "manifestEventCount": 6562,
+      "csvRows": 6562,
+      "preofficerCount": 2099,
+      "currentRoundEvents": 12,
+      "duplicateIds": 0,
+      "badCrossRefs": 0,
+      "sourceMissing": 0,
+      "exportMissing": [],
+      "keyMissing": [],
+      "displayDateWithTail": [],
+      "disallowedMindHits": [],
+      "titleLong": [],
+      "questionMarkFields": [],
+      "ok": true
+    }
+  },
+  {
+    "iteration": 544,
+    "book": "一个预备军官的日记",
+    "chapter": "018.1960年7月",
+    "round": "round194-july-1960-lines-421-493-july25",
+    "source": {
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/018.1960年7月.txt",
+      "lineStart": 421,
+      "lineEnd": 493
+    },
+    "addedCount": 7,
+    "addedEventIds": [
+      "preofficer-diary-1960-07-25-skips-preliminary-infantry-team-training-class",
+      "preofficer-diary-1960-07-25-records-countyfair-method-group-cycle-education",
+      "preofficer-diary-1960-07-25-li-jiazhi-transfers-to-fifth-company-and-talks-with-li",
+      "preofficer-diary-1960-07-25-sends-postcard-to-ke",
+      "preofficer-diary-1960-07-25-deputy-platoon-leader-anniversary-forces-li-to-drink-first-great-drunk",
+      "preofficer-diary-1960-07-25-writes-poem-wo-jing-zui-while-half-drunk-at-830",
+      "preofficer-diary-1960-07-25-records-great-drunk-as-rare-life-experience"
+    ],
+    "notes": [
+      "本轮处理1960年7月25日，共新增7条。",
+      "收入上午逃掉Preliminary Infantry-team Training课、记录分组循环教育法、嘉义人李嘉骘调来五连并晨间小谈、给珂一片。",
+      "收入下午3时半因副连长任排长周年纪念日被强拉喝酒、生平首次大醉且晚饭不能食、夜8时半半醉作《我竟醉》、记录大醉虽误时甚多但为人生难得经验。",
+      "第5条“没有你想象的那么严重，努力还不是那么一个下场”等自我劝勉/态度句未单列；诗歌正文未逐句拆成事件。"
+    ],
+    "nextRecommendation": "下一轮建议只覆盖7月26日（line 495-577），因为《老子歌》长诗与资料摘记较密。可收：朝会师长来；浑身起痱子甚多；上午开始动笔译The Conquest of Happiness；午后照镜见乱发、厕归来后写《老子歌》；李敖评价自己的诗有旧典、新词、韵脚、气势四绝，并记北行时老马弟妹背诗打趣马戈；下午亦逃课未去，苦热苦风沙；收到毓刚一信且尚未返金；记录Carl G. Jung与苏黎克大学约定十年后主持心理系；记录一十九岁女孩子多次被卖的社会材料；夜请副座吃水果后读书。第2条“大任”自我联想可不单列。",
+    "validation": {
+      "checkedAt": "2026-05-10T09:29:50.000Z",
+      "allEventCount": 6569,
+      "manifestEventCount": 6569,
+      "csvRows": 6569,
+      "preofficerCount": 2106,
+      "currentRoundEvents": 7,
+      "duplicateIds": 0,
+      "badCrossRefs": 0,
+      "sourceMissing": 0,
+      "exportMissing": [],
+      "keyMissing": [],
+      "displayDateWithTail": [],
+      "disallowedMindHits": [],
+      "titleLong": [],
+      "questionMarkFields": [],
+      "ok": true
+    }
+  },
+  {
+    "iteration": 545,
+    "book": "一个预备军官的日记",
+    "chapter": "018.1960年7月",
+    "round": "round195-july-1960-lines-495-625-july26-july28",
+    "source": {
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/018.1960年7月.txt",
+      "lineStart": 495,
+      "lineEnd": 625
+    },
+    "addedCount": 20,
+    "addedEventIds": [
+      "preofficer-diary-1960-07-26-morning-assembly-division-commander-arrives",
+      "preofficer-diary-1960-07-26-body-covered-with-heat-rash",
+      "preofficer-diary-1960-07-26-starts-translating-the-conquest-of-happiness",
+      "preofficer-diary-1960-07-26-sees-messy-hair-and-writes-laozi-song",
+      "preofficer-diary-1960-07-26-evaluates-own-poetry-as-four-excellences-and-notes-mage-teasing",
+      "preofficer-diary-1960-07-26-skips-afternoon-class-due-heat-and-sand",
+      "preofficer-diary-1960-07-26-receives-yugang-letter-not-yet-returned-to-kinmen",
+      "preofficer-diary-1960-07-26-records-carl-jung-zurich-university-ten-year-promise",
+      "preofficer-diary-1960-07-26-records-nineteen-year-old-girl-sold-multiple-times-material",
+      "preofficer-diary-1960-07-26-treats-deputy-to-fruit-at-night-then-reads",
+      "preofficer-diary-1960-07-27-records-stealing-time-study-principle",
+      "preofficer-diary-1960-07-27-records-four-functions-of-women-in-life",
+      "preofficer-diary-1960-07-28-copies-john-hay-good-and-bad-luck-after-heine",
+      "preofficer-diary-1960-07-28-writes-postcard-to-yugang-about-running-around-and-lacking-optimism",
+      "preofficer-diary-1960-07-28-writes-letter-to-pangmou-about-light-talk-and-masculine-dignity",
+      "preofficer-diary-1960-07-28-clips-news-of-li-zongdong-mothers-death-as-modern-historical-material",
+      "preofficer-diary-1960-07-28-dingzhong-comes-in-afternoon-to-talk",
+      "preofficer-diary-1960-07-28-jingchang-brings-garrison-cap-li-treats-watermelon-and-sarsaparilla",
+      "preofficer-diary-1960-07-28-returns-and-writes-large-brush-calligraphy",
+      "preofficer-diary-1960-07-28-writes-letter-to-zhiang-and-ious-to-huamin"
+    ],
+    "notes": [
+      "本轮按用户要求恢复至少两天的范围，处理1960年7月26日至7月28日，共新增20条。",
+      "7月26日收入朝会师长来、浑身起痱子、开始翻译The Conquest of Happiness、照镜厕归后写《老子歌》、评价己诗四绝、下午逃课、收毓刚一信、记录Jung十年约定、记录一十九岁女孩子被卖材料、夜请副座吃水果后读书。",
+      "7月27日内容偏内在整理，本轮仅以“日记记录”形式收入抢偷光阴读书原则与女性关系四项作用，避免写成“李敖想”。",
+      "7月28日收入摘录John Hay诗、给毓刚片、给胖谋信、剪李宗侗母丧新闻、丁忠下午来谈、镜昌送船形帽且请吃西瓜喝沙士、归后大写毛笔字、给之昂信和给华民借据。",
+      "7月26日“大任”自我联想未单列；7月27日涉及幻想Rosa的条件句未单列；已将《老子歌》摘要中的“忽起灵感”改为动作写法。"
+    ],
+    "nextRecommendation": "下一轮建议覆盖7月29日至7月31日，完成1960年7月收束。7月29日可收：永亭不早点被叫来训一顿；贴李宗侗母丧帖于日记；早上研究美地图及大学；送排附铁盒和本月六包烟；下午荣团会当主席、与排附辩难并被选为连任主席；鞋修好并换车胎底、修大皮靴；因围谈误时记录应减情面多读书。7月30日可收：早上梦到Rosa；珂来片约会并回片、下午又接珂片；清茂来信并回片；收到成功三页信知英善8月16日闪电结婚并以二页书回；英善来信不道婚事；午欢送林船夫等加菜且不敢多饮酒、排附发酒疯；在茅房整理学习方法；修好两双皮鞋；上午二会并因非国民党党员免小组会；信价将涨，大写片给善培、宏祥、广诚、良矩、老太太、玉衡、玉森、启庆、彦增；又给庄因一片；夜谈连中事至深并后悔。7月31日可收：镜昌晨来久谈时李敖乘机做事；照拂新任行政官李嘉骘；洗澡被催回开会；刘义超下午来并晚饭、连长称李敖最有人情味；明日起大走路而李敖满不在乎且喜之；摘录Burns《A Red, Red Rose》并记录台风天气仍不能忘情于Rosa。注意“穷得慌”“想做行政官”“最大希望安静”等偏心理或念头不单列，除非写作事实有必要。",
+    "validation": {
+      "checkedAt": "2026-05-10T09:44:00.000Z",
+      "allEventCount": 6589,
+      "manifestEventCount": 6589,
+      "csvRows": 6589,
+      "preofficerCount": 2126,
+      "currentRoundEvents": 20,
+      "duplicateIds": 0,
+      "badCrossRefs": 0,
+      "sourceMissing": 0,
+      "exportMissing": [],
+      "keyMissing": [],
+      "displayDateWithTail": [],
+      "disallowedMindHits": [],
+      "titleLong": [],
+      "questionMarkFields": [],
+      "ok": true
+    }
+  },
+  {
+    "iteration": 546,
+    "book": "一个预备军官的日记",
+    "chapter": "018.1960年7月",
+    "round": "round196-july-1960-lines-627-707-july29-july31",
+    "source": {
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/018.1960年7月.txt",
+      "lineStart": 627,
+      "lineEnd": 707
+    },
+    "addedCount": 24,
+    "addedEventIds": [
+      "preofficer-diary-1960-07-29-rebukes-yongting-for-not-ordering-breakfast",
+      "preofficer-diary-1960-07-29-pastes-li-zongdong-mother-obituary-in-diary",
+      "preofficer-diary-1960-07-29-studies-american-maps-and-universities-in-morning",
+      "preofficer-diary-1960-07-29-gives-platoon-adjutant-tin-box-and-six-packs-cigarettes",
+      "preofficer-diary-1960-07-29-rongtuan-meeting-chair-debates-platoon-adjutant-and-reelected",
+      "preofficer-diary-1960-07-29-shoes-repaired-with-tire-soles-and-boots-repaired",
+      "preofficer-diary-1960-07-29-records-being-surrounded-in-talks-wastes-time-and-should-read-more",
+      "preofficer-diary-1960-07-30-morning-dreams-of-rosa-in-pink-sweater-and-ponytail",
+      "preofficer-diary-1960-07-30-receives-ke-postcard-about-meeting-replies-and-reports-weixin-receives-another",
+      "preofficer-diary-1960-07-30-receives-qingmao-letter-and-replies-with-postcard",
+      "preofficer-diary-1960-07-30-receives-chenggong-letter-about-yingshan-marriage-and-replies-two-pages",
+      "preofficer-diary-1960-07-30-farewell-lin-chuanfu-extra-food-avoids-drinking-and-platoon-adjutant-drunk",
+      "preofficer-diary-1960-07-30-arranges-study-method-in-latrine",
+      "preofficer-diary-1960-07-30-spends-thirty-one-five-to-repair-two-pairs-leather-shoes",
+      "preofficer-diary-1960-07-30-attends-two-morning-meetings-exempt-from-party-group-meeting",
+      "preofficer-diary-1960-07-30-postage-rising-writes-postcards-to-nine-people",
+      "preofficer-diary-1960-07-30-writes-another-postcard-to-zhuangyin-about-guying",
+      "preofficer-diary-1960-07-30-talks-about-company-affairs-until-late-night",
+      "preofficer-diary-1960-07-31-jingchang-morning-talks-long-li-gets-things-done",
+      "preofficer-diary-1960-07-31-li-jiazhi-becomes-company-administrative-officer-li-looks-after-him",
+      "preofficer-diary-1960-07-31-called-back-from-bath-to-meeting",
+      "preofficer-diary-1960-07-31-liu-yichao-visits-dinner-company-commander-says-li-has-most-human-feeling",
+      "preofficer-diary-1960-07-31-records-next-day-long-march-and-man-of-action-self-description",
+      "preofficer-diary-1960-07-31-copies-burns-a-red-red-rose-and-notes-typhoon-weather"
+    ],
+    "notes": [
+      "本轮处理1960年7月29日至7月31日，完成7月收束，共新增24条。",
+      "7月29日收入训永亭不早点、补贴李宗侗母丧帖、研究美国地图及大学、送排附铁盒与六包烟、荣团会当主席辩难并连任、修鞋换车胎底及修大皮靴、记录被围谈误时应减情面多读书。",
+      "7月30日收入梦到Rosa、珂来片约会并回片且下午又收珂片、清茂来信并回片、成功信告知英善8月16日婚讯并以二页书回且英善本人来信未道婚事、欢送林船夫加菜且排附酒疯、茅房整理学习方法、修好两双皮鞋、上午二会且非国民党党员免小组会、信价将涨集中写九人片、又给庄因一片、夜谈连中事至深。",
+      "7月31日收入镜昌晨来久谈时李敖乘机做事、照拂新任行政官李嘉骘、洗澡时被催回开会、刘义超来并晚饭且连长称李敖最有人情味、记录明日起大走路及Man of action自况、摘录Burns《A Red, Red Rose》并记台风天气。",
+      "未收入7月29日“水道的小样子”、7月30日穷得慌/安静希望/想做行政官、7月31日单纯不能忘情Rosa等心理或凝视内容；涉及Rosa者只保留梦境或诗文摘录的行动性写法。"
+    ],
+    "nextRecommendation": "下一轮建议转入《019.1960年8月.txt》，覆盖8月1日至8月2日。8月1日可收：台风带来8月；晨1时暴风雨时李敖起视排中阿兵、食一皮蛋后睡；5时前停电中整理、看窗外马尾松与相思树；7时半电话通知延期一天；8时半一切就绪并在众人昏睡与黯淡光线下展开工作；晚又被抓公差写英文名牌，边写边读，围吵中仍读不少书。中间大量英雄人物、锤炼、性方面意志等自我塑形文字，可谨慎以“李敖在日记中写军旅锤炼四点”收一条，避免拆成心理事件。8月2日可收：阴雨黑暗中集合出营门冒风雨行军，经新化、双兴里、西势村、新竹村、大弯、妈祖庙抵归仁；疲劳脚痛落伍后躺教室讲台、喝周排长酒；下午改坐四分之三炮车，雨中浑身湿冷；傍晚抵阿莲见大岗山；今日行三十八里、夜在阿莲教室外扭干衣服并睡水泥讲台；两三小时后吴照撞讲台使抬七五炮大竹杠掉下打头；半夜醒来酸痛，张永亭臭脚一夜蹬他数次。",
+    "validation": {
+      "checkedAt": "2026-05-10T09:51:15.000Z",
+      "allEventCount": 6613,
+      "manifestEventCount": 6613,
+      "csvRows": 6613,
+      "preofficerCount": 2150,
+      "currentRoundEvents": 24,
+      "duplicateIds": 0,
+      "badCrossRefs": 0,
+      "sourceMissing": 0,
+      "exportMissing": [],
+      "keyMissing": [],
+      "displayDateWithTail": [],
+      "disallowedMindHits": [],
+      "titleLong": [],
+      "questionMarkFields": [],
+      "ok": true
+    }
   }
 ]
