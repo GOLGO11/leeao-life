@@ -28264,5 +28264,1478 @@
       "已重新导出 TXT/CSV，并校验总数、CSV行数、TXT/CSV包含、交叉引用、来源、displayDate、标题长度、心理事件写法、电子书群/下载站排除和本轮来源行范围。"
     ],
     "nextRecommendedRound": "下一轮建议进入024.澎湖日记·1961年1月.txt第一轮：先读开篇并核对1961年1月1日至1月上旬边界，重点关注退伍前后地点转换、澎湖日常、军中职务、人际通信和写作材料；同时先回查12月31日跨年事件与1月1日是否有延续，避免重复。"
+  },
+  {
+    "iteration": 621,
+    "date": "2026-05-12",
+    "work": "一个预备军官的日记",
+    "chapter": "024.澎湖日记·1961年1月",
+    "sourceLines": "3-35",
+    "range": "1961年1月1日至1月4日",
+    "ingestionRound": "preofficer-diary-round271-penghu-diary-1961-january-lines-3-35-jan1-jan4",
+    "addedEventIds": [
+      "preofficer-diary-1961-01-01-breakfast-with-yanzeng-and-margo-at-fu-garden",
+      "preofficer-diary-1961-01-01-attends-zhou-hong-zhang-aiying-banquet-at-international-house",
+      "preofficer-diary-1961-01-01-decorates-dance-party-with-zhou-hong-for-four-hours",
+      "preofficer-diary-1961-01-01-dinner-at-zhou-home-and-hurries-back-to-dance-party",
+      "preofficer-diary-1961-01-01-hosts-dance-party-sings-dear-john-and-sees-lin-qiongju",
+      "preofficer-diary-1961-01-01-talks-with-single-friends-and-hears-margo-sister-classmate-clips-his-writing",
+      "preofficer-diary-1961-01-02-friends-wake-him-xinhan-copies-service-number-and-lunch-at-shoukang",
+      "preofficer-diary-1961-01-02-yanzeng-accompanies-watermelon-return-and-xinhan-gives-farewell-money-photo",
+      "preofficer-diary-1961-01-02-arrives-shandao-temple-meets-shanpei-father-and-declines-vegetarian-meal",
+      "preofficer-diary-1961-01-02-walks-to-station-meets-xichang-and-zhengming-and-receives-gushi-jinpan",
+      "preofficer-diary-1961-01-02-arrives-home-talks-with-mother-and-obtains-permission-to-cut-rosa-photo",
+      "preofficer-diary-1961-01-03-advises-mother-about-sixth-sister-boyfriend",
+      "preofficer-diary-1961-01-03-takes-mother-shopping-buys-dear-john-records-and-goes-to-market",
+      "preofficer-diary-1961-01-03-guangcheng-invites-lunch-and-movies-portrait-in-black-and-the-rat-race",
+      "preofficer-diary-1961-01-04-southbound-with-shanpei-postcard-to-huajun-and-arrives-tainan",
+      "preofficer-diary-1961-01-04-watches-fall-of-the-roman-empire-with-shanpei-in-tainan",
+      "preofficer-diary-1961-01-04-buys-diary-looks-at-nude-art-and-takes-bus-on-nanxiong-road",
+      "preofficer-diary-1961-01-04-receives-large-batch-of-new-year-cards-letters-and-photos",
+      "preofficer-diary-1961-01-04-company-commander-transfer-order-and-bridge-mahjong-with-treats"
+    ],
+    "addedCount": 19,
+    "totalsAfter": {
+      "allEvents": 7900,
+      "preofficerDiaryEvents": 3437,
+      "chapter024Events": 19
+    },
+    "exports": {
+      "text": "exports/leeao-current-timeline.txt",
+      "csv": "exports/leeao-current-timeline.csv",
+      "manifest": "exports/leeao-current-timeline.csv.manifest.json"
+    },
+    "validation": {
+      "allEventCount": 7900,
+      "manifestEventCount": 7900,
+      "csvRows": 7900,
+      "preofficerCount": 3437,
+      "chapter024Events": 19,
+      "currentRoundEvents": 19,
+      "duplicateIds": [],
+      "badCrossRefs": [],
+      "sourceMissing": [],
+      "exportMissing": [],
+      "displayBad": [],
+      "forbiddenTitle": [],
+      "titleLong": [],
+      "disallowedMindHits": [],
+      "sourceLineOutOfRange": [],
+      "requiredMissing": [],
+      "ok": true
+    },
+    "notes": [
+      "本轮进入024.澎湖日记·1961年1月，处理1月1日至1月4日。",
+      "元旦周弘、张霭蓥喜宴和舞会回挂12月26订婚舞会来片、订婚歌、12月30蛋糕及12月31改聚会地点。",
+      "1月4日大批贺片、来信、照片压缩为一条事件，完整保留人名清单，不拆为二十一条细碎来信。",
+      "原文中“心里有一种说不出的味儿”等心理句未单独入库，涉及菜场/电影/裸画/南雄道只按可见行动写。",
+      "已按真实新增19条修正 totalsAfter，并重新导出 TXT/CSV。校验覆盖总数、CSV行数、导出包含、交叉引用、来源、displayDate、标题长度、心理事件写法和本轮来源行范围。"
+    ],
+    "nextRecommendedRound": "下一轮建议继续024.澎湖日记·1961年1月第二轮，处理1月5日至1月8日。重点包括1月5日师朝会、许士军来访、收母亲150元、赴高雄为连长买笔并碰王区队长/吕彻雄/颜惠威、看《五个便士》、购物洗澡擦鞋、请排附夜食；1月6日排除“我想小太太”心理句，收操场三小时、与许士军谈排长经、基本教练指点、读文告并被称政工人才、清茂来片、补五天日记和多名访客、寄善培50元并与连长指导员谈至11点；1月7日布达式、阿兵哥请讲课、给王宇开高考书单、欢送连长大醉大吐与写二诗、施珂送《幽默漫画》、德武戒酒笑语、李斯特故事；1月8日半夜读漫画、访克勤和彩文、连部开会、与天昭访克勤、七连充员官聚会、收周弘和尔琳明信片。继续压缩旁人故事，重心放李敖当事动作。"
+  },
+  {
+    "iteration": 622,
+    "date": "2026-05-12",
+    "work": "一个预备军官的日记",
+    "chapter": "024.澎湖日记·1961年1月",
+    "sourceLines": "37-127",
+    "range": "1961年1月5日至1月8日",
+    "ingestionRound": "preofficer-diary-round272-penghu-diary-1961-january-lines-37-127-jan5-jan8",
+    "addedEventIds": [
+      "preofficer-diary-1961-01-05-attends-division-morning-assembly-and-hears-fu-deputy-commander",
+      "preofficer-diary-1961-01-05-shike-brings-xu-shijun-after-seven-years",
+      "preofficer-diary-1961-01-05-receives-150-yuan-from-mother",
+      "preofficer-diary-1961-01-05-goes-to-kaohsiung-to-buy-pen-for-company-commander",
+      "preofficer-diary-1961-01-05-daxin-clerks-praise-calligraphy-and-meets-wang-lu-yan",
+      "preofficer-diary-1961-01-05-watches-the-five-pennies-at-guangfu",
+      "preofficer-diary-1961-01-05-buys-toiletries-diary-nude-images-takes-hot-shower-and-shines-shoes",
+      "preofficer-diary-1961-01-05-plays-cards-with-company-commander-and-others",
+      "preofficer-diary-1961-01-05-treats-platoon-sergeant-night-snack",
+      "preofficer-diary-1961-01-06-three-hours-on-drill-field-and-guides-basic-drill",
+      "preofficer-diary-1961-01-06-reads-proclamation-and-is-praised-as-political-work-talent",
+      "preofficer-diary-1961-01-06-receives-qingmao-postcard",
+      "preofficer-diary-1961-01-06-catches-up-five-days-diary-and-receives-many-visitors",
+      "preofficer-diary-1961-01-06-sends-shanpei-50-yuan-by-registered-mail-and-promises-shike-loan",
+      "preofficer-diary-1961-01-06-talks-with-company-commander-and-instructor-until-eleven",
+      "preofficer-diary-1961-01-07-battalion-commander-presides-over-installation-ceremony",
+      "preofficer-diary-1961-01-07-three-soldiers-ask-li-ao-to-teach",
+      "preofficer-diary-1961-01-07-opens-civil-service-exam-booklist-for-wang-yu",
+      "preofficer-diary-1961-01-07-farewell-company-commander-drinks-fushou-wine-vomits-and-writes-two-poems",
+      "preofficer-diary-1961-01-07-shike-brings-humor-comics-and-oranges-dewu-jokes-about-drunkenness",
+      "preofficer-diary-1961-01-07-shike-tells-li-ao-liszt-story",
+      "preofficer-diary-1961-01-08-wakes-at-midnight-eats-orange-and-reads-comics",
+      "preofficer-diary-1961-01-08-skips-shooting-and-visits-keqin-and-caiwen-at-third-battalion",
+      "preofficer-diary-1961-01-08-lacks-money-for-oranges-and-returns-disappointed",
+      "preofficer-diary-1961-01-08-naps-one-hour-and-attends-company-office-meeting",
+      "preofficer-diary-1961-01-08-treats-shike-oranges-and-visits-keqin-with-tianzhao",
+      "preofficer-diary-1961-01-08-attends-seventh-company-replacement-officer-gathering",
+      "preofficer-diary-1961-01-08-receives-postcards-from-zhou-hong-and-yang-erlin"
+    ],
+    "addedCount": 28,
+    "totalsAfter": {
+      "allEvents": 7928,
+      "preofficerDiaryEvents": 3465,
+      "chapter024Events": 47
+    },
+    "exports": {
+      "text": "exports/leeao-current-timeline.txt",
+      "csv": "exports/leeao-current-timeline.csv",
+      "manifest": "exports/leeao-current-timeline.csv.manifest.json"
+    },
+    "validation": {
+      "allEventCount": 7928,
+      "manifestEventCount": 7928,
+      "csvRows": 7928,
+      "preofficerCount": 3465,
+      "chapter024Events": 47,
+      "currentRoundEvents": 28,
+      "duplicateIds": [],
+      "badCrossRefs": [],
+      "sourceMissing": [],
+      "exportMissing": [],
+      "displayBad": [],
+      "forbiddenTitle": [],
+      "titleLong": [],
+      "disallowedMindHits": [],
+      "sourceLineOutOfRange": [],
+      "requiredMissing": [],
+      "ok": true
+    },
+    "notes": [
+      "本轮处理024章1月5日至1月8日，新增以师朝会、许士军来访、母款、赴高买笔、电影购物、训练讲课、补日记、欢送醉吐、施珂送漫画、访克勤、七连聚会和收片为主。",
+      "1月6日“我想我真需要一位小太太”和“想此次若得不到一百奖金”等纯心理/设想句未单独入库。",
+      "1月7日红帖子构想未收入，因只是拟印吓人且未发生实际制作；李斯特故事只按施珂向李敖讲故事处理，不扩展为第三方人物事件。",
+      "1月8日收周弘、杨尔琳两张片压缩为一条，不拆来信内容。",
+      "已按真实新增28条修正 totalsAfter，并重新导出 TXT/CSV。校验覆盖总数、CSV行数、导出包含、交叉引用、来源、displayDate、标题长度、心理事件写法和本轮来源行范围。"
+    ],
+    "nextRecommendedRound": "下一轮建议继续024.澎湖日记·1961年1月第三轮，处理1月9日至1月12日。重点包括1月9日营朝会后丁忠转二叔信、代指导员上课两小时受欢迎、上下午操与逃洗澡、克勤床谈/转送美军毛袜给施珂、善培来片、装书入箱；1月10日梦到Lo与夫婿、江涛早起跑步、装三箱书并命永亭推至楠梓车站、发饷、全团武装集合参观基本教练比赛、接卫兵司令逃掉值星、访克勤请西瓜番茄、卫兵室拦兵不成；1月11日杨某开小差殃及李敖、着便服溜高雄买牙刷剪刀取照片买裸画、题“武大郎”狗造像、整理东西、卸司令职、贾成文红帖子、请副座/尔昭/梓华吃东西；1月12日团长训话、待命行动、凤山抄特约茶室作息表并遭红衣女子抓生殖器、参观龙凤阁满意园、看《智斗黄石岗》、赶回欢送世清晚餐、请排附西瓜并送烟、打弹子、副座夜来。敏感处照收但标题克制，写成李敖遭遇/记录，不猎奇。"
+  },
+  {
+    "iteration": 623,
+    "date": "2026-05-12",
+    "work": "一个预备军官的日记",
+    "chapter": "024.澎湖日记·1961年1月",
+    "sourceLines": "129-203",
+    "range": "1961年1月9日至1月12日",
+    "ingestionRound": "preofficer-diary-round273-penghu-diary-1961-january-lines-129-203-jan9-jan12",
+    "addedEventIds": [
+      "preofficer-diary-1961-01-09-ding-zhong-forwards-second-uncle-letter",
+      "preofficer-diary-1961-01-09-substitutes-for-instructor-and-teaches-two-hours-popularly",
+      "preofficer-diary-1961-01-09-has-drills-all-day-and-slips-away-to-bathe",
+      "preofficer-diary-1961-01-09-bed-talk-with-keqin-and-gives-us-socks-to-shike",
+      "preofficer-diary-1961-01-09-receives-shanpei-postcard-about-spiritual-fortress",
+      "preofficer-diary-1961-01-09-packs-books-into-boxes",
+      "preofficer-diary-1961-01-10-dreams-lo-and-her-husband",
+      "preofficer-diary-1961-01-10-jiang-tao-starts-early-running",
+      "preofficer-diary-1961-01-10-packs-three-book-boxes-and-sends-yongting-to-nanzi-station",
+      "preofficer-diary-1961-01-10-regiment-armed-assembly-observes-basic-drill-competition",
+      "preofficer-diary-1961-01-10-takes-guard-commander-duty-and-escapes-weekly-duty",
+      "preofficer-diary-1961-01-10-visits-keqin-with-rong-and-treats-watermelon-tomatoes",
+      "preofficer-diary-1961-01-10-buys-and-finishes-one-pack-of-cigarettes",
+      "preofficer-diary-1961-01-10-guard-room-night-fails-to-stop-soldiers-keqin-shipan-visit",
+      "preofficer-diary-1961-01-11-wakes-late-and-is-questioned-after-yang-deserts",
+      "preofficer-diary-1961-01-11-uses-guard-commander-status-to-slip-to-kaohsiung-in-civilian-clothes",
+      "preofficer-diary-1961-01-12-inscribes-wu-dalang-dog-portrait-poem",
+      "preofficer-diary-1961-01-11-organizes-belongings-all-afternoon",
+      "preofficer-diary-1961-01-11-hands-over-guard-commander-duty-after-dinner",
+      "preofficer-diary-1961-01-11-receives-red-card-from-jia-chengwen",
+      "preofficer-diary-1961-01-11-treats-deputy-commander-dumplings-soup-and-fruit",
+      "preofficer-diary-1961-01-12-hears-regiment-commander-long-talk",
+      "preofficer-diary-1961-01-12-receives-standby-action-order-after-organizing-belongings",
+      "preofficer-diary-1961-01-12-fengshan-copies-special-tea-room-schedule-and-is-groped-by-red-clothed-woman",
+      "preofficer-diary-1961-01-12-treats-watermelon-and-visits-longfengge-and-manyiyuan",
+      "preofficer-diary-1961-01-12-invites-jingchang-to-watch-hill-bent-for-leather-and-buys-calendar",
+      "preofficer-diary-1961-01-12-returns-late-to-shiqing-farewell-dinner-and-refuses-heavy-drinking",
+      "preofficer-diary-1961-01-12-treats-platoon-sergeant-watermelon-gives-cigarettes-and-plays-billiards",
+      "preofficer-diary-1961-01-12-deputy-commander-comes-again-at-night"
+    ],
+    "addedCount": 29,
+    "totalsAfter": {
+      "allEvents": 7957,
+      "preofficerDiaryEvents": 3494,
+      "chapter024Events": 76
+    },
+    "exports": {
+      "text": "exports/leeao-current-timeline.txt",
+      "csv": "exports/leeao-current-timeline.csv",
+      "manifest": "exports/leeao-current-timeline.csv.manifest.json"
+    },
+    "validation": {
+      "allEventCount": 7957,
+      "manifestEventCount": 7957,
+      "csvRows": 7957,
+      "preofficerCount": 3494,
+      "chapter024Events": 76,
+      "currentRoundEvents": 29,
+      "duplicateIds": [],
+      "badCrossRefs": [],
+      "sourceMissing": [],
+      "exportMissing": [],
+      "displayBad": [],
+      "forbiddenTitle": [],
+      "titleLong": [],
+      "disallowedMindHits": [],
+      "sourceLineOutOfRange": [],
+      "requiredMissing": [],
+      "ok": true
+    },
+    "notes": [
+      "本轮处理024章1月9日至1月12日，新增以代课、训练、通信、装书、梦Lo、卫兵司令、高雄外出、武大郎题像、待命行动、凤山特约茶室和欢送宴为主。",
+      "1月10日梦境按“李敖梦到 Lo 与其夫婿”写入，未改写为现实事件。",
+      "1月12日凤山特约茶室敏感遭遇保留为李敖抄作息表时的现场遭遇，标题克制为“李敖抄茶室表”。",
+      "副座夜来和军中环境感受只按来访事件记录，未单独拆出心理事件。",
+      "已重新导出 TXT/CSV，并校验总数、CSV行数、导出包含、交叉引用、来源、displayDate、标题长度、心理事件写法和本轮来源行范围。"
+    ],
+    "nextRecommendedRound": "下一轮建议继续024.澎湖日记·1961年1月第四轮，处理1月13日至1月16日。重点包括1月13日再当卫兵司令、电话中与接线员吵、读Our Secret Kisses和《珍妮画像》、用军毡遮床、连长代拷打逃兵、晚卫兵室读书补日记；1月14日晴好无事的司令日、忠明来借书、剪贴安海华等电影照片、梦到Lo与忠琳变叠合、景新汉来信和弘来片、跪着写《谈战斗文艺》、给王宇书单及借书；1月15日读Our Wayward World/《魔桶》/《梦宫》、接老太150元、给多人写片、连长欲查宪兵禁闭流程、与三班长书谈；1月16日卫兵室日常、看《双雄喋血》或相关电影、收到/写信、军中调动与外岛行程线。注意阅读摘记不要逐条拆，仍以李敖读/摘/写为主。"
+  },
+  {
+    "round": "preofficer-diary-round274-penghu-diary-1961-january-lines-205-347-jan13-jan16",
+    "date": "2026-05-12",
+    "book": "一个预备军官的日记",
+    "chapter": "024.澎湖日记·1961年1月",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/024.澎湖日记·1961年1月.txt",
+    "sourceLineRange": "205-347",
+    "scope": "《澎湖日记·1961年1月》1961年1月13日至1月16日，聚焦卫兵司令复任、阅读、施珂探访、信件、交接冲突、授课、辞呈与预检。",
+    "addedCount": 33,
+    "addedEventIds": [
+      "preofficer-diary-1961-01-13-arranges-to-serve-again-as-guard-commander-and-quarrels-with-operator",
+      "preofficer-diary-1961-01-13-reads-our-secret-kisses-before-lunch",
+      "preofficer-diary-1961-01-13-covers-bed-with-blanket-and-reads-portrait-of-jennie",
+      "preofficer-diary-1961-01-13-visits-shike-at-51st-regiment-sixth-company-and-gives-supplies",
+      "preofficer-diary-1961-01-13-reads-i-never-had-a-chance-to-be-good",
+      "preofficer-diary-1961-01-13-records-luo-wenhu-quote-about-girlfriends",
+      "preofficer-diary-1961-01-13-kang-tongli-praises-li-ao-and-li-teaches-phrases",
+      "preofficer-diary-1961-01-13-attends-officers-banquet-for-hospitalized-instructor-and-touches-wumei-wine",
+      "preofficer-diary-1961-01-13-receives-three-page-chen-guying-letter",
+      "preofficer-diary-1961-01-14-dreams-of-execution-business-and-luo-lie-suppression",
+      "preofficer-diary-1961-01-14-yingchun-asks-for-handover-list-and-li-ao-refuses",
+      "preofficer-diary-1961-01-14-eats-with-jingchang-repairs-shoes-and-has-snacks",
+      "preofficer-diary-1961-01-14-hangs-visiting-hours-sign-and-reads-in-small-world",
+      "preofficer-diary-1961-01-14-guard-room-crowd-and-handover-quarrel-with-wan-yingchun",
+      "preofficer-diary-1961-01-14-xu-zhaoyan-tells-assistant-list-in-united-daily",
+      "preofficer-diary-1961-01-14-records-no-more-hu-style-in-pen-or-brush-writing",
+      "preofficer-diary-1961-01-14-shipan-visits-for-short-talk",
+      "preofficer-diary-1961-01-14-writes-poem-on-newspaper-photo-of-mrs-woolf",
+      "preofficer-diary-1961-01-14-wan-yingchun-complains-to-commander-and-li-ao-phones-until-1130",
+      "preofficer-diary-1961-01-14-receives-xinhan-letter-congratulating-national-assistant-post",
+      "preofficer-diary-1961-01-14-sends-postcard-to-mother",
+      "preofficer-diary-1961-01-15-offers-resignation-over-soldiers-not-forming-up",
+      "preofficer-diary-1961-01-15-teaches-two-classes-with-stories-and-is-invited-by-fifth-company",
+      "preofficer-diary-1961-01-15-takes-a-short-nap-before-noon",
+      "preofficer-diary-1961-01-15-mails-last-night-letter-to-xinhan-express",
+      "preofficer-diary-1961-01-15-records-guard-commander-duty-troubles",
+      "preofficer-diary-1961-01-15-replaces-red-pen-nib-and-buys-ink",
+      "preofficer-diary-1961-01-15-starts-reading-comprehensive-english-chinese-dictionary-and-compiles-word-index",
+      "preofficer-diary-1961-01-15-writes-several-sections-of-platoon-leader-notes",
+      "preofficer-diary-1961-01-16-endures-long-preinspection-and-reads-dictionary-in-wind-sand",
+      "preofficer-diary-1961-01-16-quarrels-again-over-guard-duty-until-throat-hurts",
+      "preofficer-diary-1961-01-16-receives-jinkui-letter-asking-help",
+      "preofficer-diary-1961-01-16-receives-hu-jialun-new-year-card-from-minnesota"
+    ],
+    "duplicateHandling": [
+      "卫兵司令复任与1月11日卸任记录互作交叉引用。",
+      "陈鼓应、景新汉、施珂、式泮等既有人物往来只在新动作处新增，前情归入交叉引用。",
+      "信件内第三方近况不拆为独立事件，集中为李敖收到来信并摘录其要点。",
+      "梦境按用户新规则保留为“李敖梦到……”的具体事件；纯心理和单纯计划性文字不拆条。"
+    ],
+    "notes": [
+      "本轮避免收入1月17日内容，保持书内当前章节边界。",
+      "事件标题保持简短；displayDate 均为纯时间。",
+      "1月13日至1月16日新增33条。"
+    ],
+    "nextRecommendation": "下一轮建议继续024.澎湖日记·1961年1月第五轮，处理1月17日至1月18日。1月17日内容很密：梦及责胡不看雷与裸浴梦、师部人员要求卫兵室纸糊壁并争论、新司令校阅、李金富洗涤狂、弹子房见闻、新汉限时信附《联合报》助理名单新闻、李敖复信等；重点收李敖动作与记录，纯计划/心理文字跳过或只作边注。1月18日开轮先读原文再定边界。",
+    "validation": {
+      "validatedAt": "2026-05-12T13:45:00+08:00",
+      "expected": {
+        "allEventCount": 7990,
+        "manifestEventCount": 7990,
+        "csvRows": 7990,
+        "preofficerCount": 3527,
+        "chapter024Events": 109,
+        "currentRoundEvents": 33
+      },
+      "counts": {
+        "allEventCount": 7990,
+        "manifestEventCount": 7990,
+        "csvRows": 7990,
+        "preofficerCount": 3527,
+        "chapter024Events": 109,
+        "currentRoundEvents": 33
+      },
+      "checks": {
+        "duplicateIds": [],
+        "badCrossRefs": [],
+        "sourceMissing": [],
+        "sourceLineOutOfRange": [],
+        "requiredMissing": [],
+        "exportMissing": [],
+        "disallowedMindHits": [],
+        "displayBad": [],
+        "titleLong": [],
+        "countMismatch": []
+      }
+    }
+  },
+  {
+    "round": "preofficer-diary-round275-penghu-diary-1961-january-lines-349-475-jan17-jan18",
+    "date": "2026-05-12",
+    "book": "一个预备军官的日记",
+    "chapter": "024.澎湖日记·1961年1月",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/024.澎湖日记·1961年1月.txt",
+    "sourceLineRange": "349-475",
+    "scope": "《澎湖日记·1961年1月》1961年1月17日至1月18日，聚焦梦境、卫兵室争执、校阅、弹子房观察、助理名单通信、劝架、福利社读书、四姑来信与读报摘录。",
+    "addedCount": 18,
+    "addedEventIds": [
+      "preofficer-diary-1961-01-17-dreams-of-rebuking-hu-and-bathing-child",
+      "preofficer-diary-1961-01-17-argues-with-division-staff-about-papering-guard-room-walls",
+      "preofficer-diary-1961-01-17-attends-new-commander-review-and-stands-until-waist-sore",
+      "preofficer-diary-1961-01-17-records-li-jinfu-washing-habit",
+      "preofficer-diary-1961-01-17-records-chief-of-general-staff-review-not-arriving",
+      "preofficer-diary-1961-01-17-observes-billiard-room-scorekeeper-and-soldiers-crude-jokes",
+      "preofficer-diary-1961-01-17-eats-tomatoes-after-meals-and-exchanges-glances-with-boss-wife",
+      "preofficer-diary-1961-01-17-receives-xinhan-express-with-united-daily-assistant-list-news",
+      "preofficer-diary-1961-01-17-replies-to-xinhan-with-letter-signed-national-assistant",
+      "preofficer-diary-1961-01-17-stops-yongting-after-gambling-and-buying-clothes",
+      "preofficer-diary-1961-01-18-jokes-with-wenzao-about-girlfriend-visit-message",
+      "preofficer-diary-1961-01-18-pulls-tingyou-away-after-he-beats-zhongming",
+      "preofficer-diary-1961-01-18-records-enwei-talk-on-private-brothels-and-military-paradise",
+      "preofficer-diary-1961-01-18-records-others-call-him-good-political-work-material",
+      "preofficer-diary-1961-01-18-reads-at-welfare-store-after-dinner-then-returns-guard-room",
+      "preofficer-diary-1961-01-18-reads-six-pages-of-abraham-lincoln-at-night",
+      "preofficer-diary-1961-01-18-receives-two-page-letter-from-fourth-aunt-in-hong-kong",
+      "preofficer-diary-1961-01-18-reads-newspaper-and-excerpts-feng-dayong-qian-mali-case"
+    ],
+    "duplicateHandling": [
+      "1月17日助理名单不重复1月14日听闻节点，改为收到景新汉限时信附报纸新闻，并将李敖复信另列。",
+      "军中乐园材料回挂1960年11月22日、12月17日相关搜集线。",
+      "福利社读书、卫兵室、政工评价均回挂旧节点，避免同类日常孤立。",
+      "1月17日至18日的大段著述计划、时间计划、床上神做计划和想吃东西等心理/计划文字不入库。"
+    ],
+    "notes": [
+      "本轮保留梦境与敏感记录，但标题保持克制，摘要写成李敖梦到/记录/见报/收到。",
+      "四姑信只压缩为李敖收到来信并概述要点，不拆信中第三方生活为独立事件。",
+      "1月18日冯大勇案只作为李敖读报摘录，不扩大为外部案件叙事。"
+    ],
+    "nextRecommendation": "下一轮建议继续024.澎湖日记·1961年1月第六轮，处理1月19日至1月20日。1月19日重点包括被抓公差给五连讲课、施珂来请吃、营指导员安排24日和31日讲“民族英雄”、邱连煌来谈并赞三讲班演说、给尔琳两页信；技术烧人、历史家评语、贾成文红帖子和电影摘记等纯观点/摘记需谨慎。1月20日先读原文再定边界，至少覆盖两天，继续保持事件标题简洁和displayDate纯时间。",
+    "validation": {
+      "validatedAt": "2026-05-12T15:17:00+08:00",
+      "expected": {
+        "allEventCount": 8008,
+        "manifestEventCount": 8008,
+        "csvRows": 8008,
+        "preofficerCount": 3545,
+        "chapter024Events": 127,
+        "currentRoundEvents": 18
+      },
+      "counts": {
+        "allEventCount": 8008,
+        "manifestEventCount": 8008,
+        "csvRows": 8008,
+        "preofficerCount": 3545,
+        "chapter024Events": 127,
+        "currentRoundEvents": 18
+      },
+      "checks": {
+        "duplicateIds": [],
+        "badCrossRefs": [],
+        "sourceMissing": [],
+        "sourceLineOutOfRange": [],
+        "requiredMissing": [],
+        "exportMissing": [],
+        "disallowedMindHits": [],
+        "displayBad": [],
+        "titleLong": [],
+        "countMismatch": [],
+        "manifestPartCountBad": []
+      }
+    }
+  },
+  {
+    "round": "preofficer-diary-round276-penghu-diary-1961-january-lines-477-555-jan19-jan20",
+    "date": "2026-05-12",
+    "book": "一个预备军官的日记",
+    "chapter": "024.澎湖日记·1961年1月",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/024.澎湖日记·1961年1月.txt",
+    "sourceLineRange": "477-555",
+    "scope": "《澎湖日记·1961年1月》1961年1月19日至1月20日，聚焦五连讲课、施珂请吃、民族英雄课安排、邱连煌来谈、给杨尔琳信、卫兵司令卸任、赴高雄、电影与日常。",
+    "addedCount": 15,
+    "addedEventIds": [
+      "preofficer-diary-1961-01-19-teaches-fifth-company-on-zhang-liang-and-eunuchs",
+      "preofficer-diary-1961-01-19-shike-comes-at-noon-and-treats-li-ao-to-food",
+      "preofficer-diary-1961-01-19-instructor-orders-li-ao-to-teach-national-heroes-on-jan24-and-jan31",
+      "preofficer-diary-1961-01-19-qiu-lianhuang-visits-and-praises-three-principles-lecture-speech",
+      "preofficer-diary-1961-01-19-records-not-responding-to-jia-chengwen-red-card",
+      "preofficer-diary-1961-01-19-excerpts-magnificent-obsession-and-names-transfusion-theory",
+      "preofficer-diary-1961-01-19-writes-two-page-letter-to-yang-erlin-about-sixth-sister-boyfriend",
+      "preofficer-diary-1961-01-19-runs-and-phones-at-night-to-catch-people-hiding-out",
+      "preofficer-diary-1961-01-19-excerpts-wuthering-heights",
+      "preofficer-diary-1961-01-20-sorts-and-talks-with-zhaoyan-wujie-and-new-clerk",
+      "preofficer-diary-1961-01-20-hands-over-guard-commander-duty-at-noon",
+      "preofficer-diary-1961-01-20-borrows-eighty-from-adjutant-goes-to-kaohsiung-and-meets-yongting",
+      "preofficer-diary-1961-01-20-records-daye-bookstore-new-book-sixty-years-poetry-anthology",
+      "preofficer-diary-1961-01-20-watches-paratroop-command-at-jincheng-and-buys-white-underpants",
+      "preofficer-diary-1961-01-20-returns-by-bus-with-new-clerk-and-eats-dumplings-and-egg-soup"
+    ],
+    "duplicateHandling": [
+      "1月19日五连讲课回挂1月15日五连连长邀课和1月9日代指导员上课，不重复旧讲课节点。",
+      "贾成文红帖子仅作1月11日收红帖的后续处理，新增为不理红帖动作。",
+      "Magnificent Obsession 与 Wuthering Heights 均作为本日摘记，回挂1960年9月读毕旧节点。",
+      "1月20日赴高雄与遇永亭合并为一条，避免把车上外貌观察拆得过细。"
+    ],
+    "notes": [
+      "纯观点句如技术烧人、当代历史家评价未入库。",
+      "1月20日电影与购物合并为一条；18时归营吃饺另列为日常。",
+      "标题继续保持简洁，displayDate 均为纯时间。"
+    ],
+    "nextRecommendation": "下一轮建议继续024.澎湖日记·1961年1月第七轮，处理1月21日至1月22日。1月21日可收营长集合两小时、与尔昭草地扭斗受伤、准备读训免出操、卫生裤开尿道、下午出操纠正阿兵哥姿势、晚与克勤王宇赴大社买 Isumin 和晕船药、人肉市场/夜市见闻、错过晚点名。1月22日可收基本教练军歌比赛中读训、午前棋战、马戈来信、征轮演习讨论会以烟鼓励发言并溜走、与镜昌谈受人太多、与朱萍生棋战、伯高带逃兵归及老太凑钱消息。注意梦/幻想规则不适用本轮；马戈信压缩为来信事件，心理感想不单列。",
+    "validation": {
+      "validatedAt": "2026-05-12T15:29:00+08:00",
+      "expected": {
+        "allEventCount": 8023,
+        "manifestEventCount": 8023,
+        "csvRows": 8023,
+        "preofficerCount": 3560,
+        "chapter024Events": 142,
+        "currentRoundEvents": 15
+      },
+      "counts": {
+        "allEventCount": 8023,
+        "manifestEventCount": 8023,
+        "csvRows": 8023,
+        "preofficerCount": 3560,
+        "chapter024Events": 142,
+        "currentRoundEvents": 15
+      },
+      "checks": {
+        "duplicateIds": [],
+        "badCrossRefs": [],
+        "sourceMissing": [],
+        "sourceLineOutOfRange": [],
+        "requiredMissing": [],
+        "exportMissing": [],
+        "disallowedMindHits": [],
+        "displayBad": [],
+        "titleLong": [],
+        "countMismatch": [],
+        "manifestPartCountBad": []
+      }
+    }
+  },
+  {
+    "round": "preofficer-diary-round277-penghu-diary-1961-january-lines-557-585-jan21-jan22",
+    "date": "2026-05-12",
+    "book": "一个预备军官的日记",
+    "chapter": "024.澎湖日记·1961年1月",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/024.澎湖日记·1961年1月.txt",
+    "sourceLineRange": "557-585",
+    "scope": "《澎湖日记·1961年1月》1961年1月21日至1月22日，聚焦军务、草地扭斗、衣物小修、赴大社、读训、来信、讨论会脱身、棋战与逃兵归营。",
+    "addedCount": 14,
+    "addedEventIds": [
+      "preofficer-diary-1961-01-21-attends-two-hour-battalion-commander-assembly",
+      "preofficer-diary-1961-01-21-wrestles-with-erzhao-on-grass-and-injures-right-middle-finger",
+      "preofficer-diary-1961-01-21-prepares-fifteen-minute-discipline-reading-and-skips-drill",
+      "preofficer-diary-1961-01-21-pays-one-yuan-to-alter-white-underpants",
+      "preofficer-diary-1961-01-21-corrects-soldiers-postures-during-afternoon-drill",
+      "preofficer-diary-1961-01-21-goes-to-dashe-with-keqin-and-wang-yu-buys-isumin-and-atraxin",
+      "preofficer-diary-1961-01-21-visits-dashe-human-market-night-market-and-misses-roll-call",
+      "preofficer-diary-1961-01-22-reads-discipline-at-drill-and-song-contest",
+      "preofficer-diary-1961-01-22-wins-several-chess-games-before-noon",
+      "preofficer-diary-1961-01-22-receives-margo-letter-mentioning-zhang-hao-letter-and-meimei",
+      "preofficer-diary-1961-01-22-uses-cigarettes-to-encourage-discussion-then-slips-away",
+      "preofficer-diary-1961-01-22-tells-jingchang-about-avoiding-too-much-obligation",
+      "preofficer-diary-1961-01-22-defeats-zhu-pingsheng-in-two-chess-games-after-dinner",
+      "preofficer-diary-1961-01-22-bogao-brings-deserter-back-and-tells-mother-raised-money"
+    ],
+    "duplicateHandling": [
+      "大社人肉市场与夜市合并为一条敏感现场记录，不拆妓女或士兵旁枝。",
+      "马戈信压缩为李敖收到来信并记录要点，随后心理感想不另立事件。",
+      "伯高带逃兵与老太凑钱消息合并为一条夜间事件，避免对逃兵外部情况扩写。",
+      "尔昭、镜昌、伯高、施珂等旧人际线均回挂既有节点。"
+    ],
+    "notes": [
+      "本轮无梦境；纯香烟用途感叹不入库。",
+      "敏感事件按李敖到场观察或记录处理，标题克制。",
+      "标题简洁，displayDate 均为纯时间。"
+    ],
+    "nextRecommendation": "下一轮建议继续024.澎湖日记·1961年1月第八轮，处理1月23日至1月24日。1月23日非常密，建议重点收：连长请假北上后李敖与江涛游大贝湖、众信亭饮食、转赴高雄买书吃西瓜汁、明星街拒妓女拉客并等江涛、归途遇李钟；镜昌留字送狗肉，李敖第一次吃狗肉；萧启庆来书嘱送履历并说明助理职2月起薪；英善来片；自由日反共义士聚餐作罢。1月24日可收早读《小襟人物》毕、给萧启庆三页信并送军中照片、式泮借五十和谈台大女孩子、读《子见南子》后写剧本念头需谨慎，若没有实际写作则不单列。",
+    "validation": {
+      "validatedAt": "2026-05-12T15:45:00+08:00",
+      "expected": {
+        "allEventCount": 8037,
+        "manifestEventCount": 8037,
+        "csvRows": 8037,
+        "preofficerCount": 3574,
+        "chapter024Events": 156,
+        "currentRoundEvents": 14
+      },
+      "counts": {
+        "allEventCount": 8037,
+        "manifestEventCount": 8037,
+        "csvRows": 8037,
+        "preofficerCount": 3574,
+        "chapter024Events": 156,
+        "currentRoundEvents": 14
+      },
+      "checks": {
+        "duplicateIds": [],
+        "badCrossRefs": [],
+        "sourceMissing": [],
+        "sourceLineOutOfRange": [],
+        "requiredMissing": [],
+        "exportMissing": [],
+        "disallowedMindHits": [],
+        "displayBad": [],
+        "titleLong": [],
+        "countMismatch": [],
+        "manifestPartCountBad": []
+      }
+    }
+  },
+  {
+    "round": "preofficer-diary-round278-penghu-diary-1961-january-lines-587-641-jan23-jan24",
+    "date": "2026-05-12",
+    "book": "一个预备军官的日记",
+    "chapter": "024.澎湖日记·1961年1月",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/024.澎湖日记·1961年1月.txt",
+    "sourceLineRange": "587-641",
+    "scope": "《澎湖日记·1961年1月》1961年1月23日至1月24日，聚焦大贝湖/高雄行、镜昌狗肉、启庆与英善来信、自由日、读书、写信、借钱、报纸摘录与行军准备。",
+    "addedCount": 14,
+    "addedEventIds": [
+      "preofficer-diary-1961-01-23-tours-dabei-lake-with-jiang-tao-and-eats-at-johnsons-pavilion",
+      "preofficer-diary-1961-01-23-goes-to-kaohsiung-buys-books-eats-watermelon-juice-and-visits-mingxing-street",
+      "preofficer-diary-1961-01-23-receives-jingchang-note-and-eats-dog-meat-for-first-time",
+      "preofficer-diary-1961-01-23-receives-qiqing-letter-requesting-resume-and-february-assistant-salary",
+      "preofficer-diary-1961-01-23-receives-yingshan-postcard-on-future-difficulties",
+      "preofficer-diary-1961-01-23-records-freedom-day-anti-communist-righteous-men-dinner-cancelled",
+      "preofficer-diary-1961-01-24-finishes-reading-xiaojin-renwu-and-attends-roll-call",
+      "preofficer-diary-1961-01-24-writes-three-page-letter-to-qiqing-and-sends-two-military-photos",
+      "preofficer-diary-1961-01-24-shipan-lends-fifty-and-talks-about-taiwan-university-girls",
+      "preofficer-diary-1961-01-24-reads-zi-jian-nan-zi",
+      "preofficer-diary-1961-01-24-records-yongting-boasting-after-dinner",
+      "preofficer-diary-1961-01-24-excerpts-newspaper-marriage-ads",
+      "preofficer-diary-1961-01-24-records-pearl-buck-hidden-flower-and-sylvia",
+      "preofficer-diary-1961-01-24-eats-eggs-with-jiang-tao-at-night-before-march"
+    ],
+    "duplicateHandling": [
+      "大贝湖游与高雄/明星街见闻分拆，因地点与敏感性不同。",
+      "萧启庆、英善、式泮、永亭、镜昌、江涛均回挂既有人际线。",
+      "《子见南子》只收阅读动作，后续剧本念头不单列。",
+      "征婚新闻与赛珍珠材料均按李敖摘录/记录处理，不拆外部人物事件。"
+    ],
+    "notes": [
+      "敏感内容使用克制标题，写成李敖赴高雄/记录现场。",
+      "本轮未收入纯心理或单纯计划事件。",
+      "标题简洁，displayDate 均为纯时间。"
+    ],
+    "nextRecommendation": "下一轮建议继续024.澎湖日记·1961年1月第九轮，处理1月25日至1月26日。1月25日可收早起打包、便帽又丢、读林语堂《机器与精神》后《钱穆可以歇歇了！》若只是忽想不单列、连长给二包烟、读《贝多芬传》、伯高送来鸡汤、下午乘车赴高雄/凤山、买莎乐美、借钱/等车/夜宿凤山等；1月26日先完整读原文再定边界，重点看赴澎湖前准备、行军/登轮/人物通信，继续至少两天量。",
+    "validation": {
+      "validatedAt": "2026-05-12T16:00:00+08:00",
+      "expected": {
+        "allEventCount": 8051,
+        "manifestEventCount": 8051,
+        "csvRows": 8051,
+        "preofficerCount": 3588,
+        "chapter024Events": 170,
+        "currentRoundEvents": 14
+      },
+      "counts": {
+        "allEventCount": 8051,
+        "manifestEventCount": 8051,
+        "csvRows": 8051,
+        "preofficerCount": 3588,
+        "chapter024Events": 170,
+        "currentRoundEvents": 14
+      },
+      "checks": {
+        "duplicateIds": [],
+        "badCrossRefs": [],
+        "sourceMissing": [],
+        "sourceLineOutOfRange": [],
+        "requiredMissing": [],
+        "exportMissing": [],
+        "disallowedMindHits": [],
+        "displayBad": [],
+        "titleLong": [],
+        "countMismatch": [],
+        "manifestPartCountBad": []
+      }
+    }
+  },
+  {
+    "round": "preofficer-diary-round279-penghu-diary-1961-january-lines-643-683-jan25-jan26",
+    "date": "2026-05-12",
+    "book": "一个预备军官的日记",
+    "chapter": "024.澎湖日记·1961年1月",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/024.澎湖日记·1961年1月.txt",
+    "sourceLineRange": "643-683",
+    "scope": "《澎湖日记·1961年1月》1961年1月25日至1月26日，聚焦赴澎湖前打包整装、便帽丢失、阅读与通信、人际长谈、给德武买药、式泮投宿、早醒/钉箱、军中见闻、天昭借钱、棋战、报纸摘录、改乘运输舰及《澎湖日记》命名。",
+    "addedCount": 18,
+    "addedEventIds": [
+      "preofficer-diary-1961-01-25-finishes-packing-in-morning",
+      "preofficer-diary-1961-01-25-loses-service-cap-again",
+      "preofficer-diary-1961-01-25-reads-lin-yutang-machine-and-spirit",
+      "preofficer-diary-1961-01-25-prepares-several-letters",
+      "preofficer-diary-1961-01-25-treats-wang-yu-fruit-and-talks-with-buyue-at-teahouse",
+      "preofficer-diary-1961-01-25-buys-medicine-for-sick-dewu-with-last-three-yuan",
+      "preofficer-diary-1961-01-25-shipan-comes-to-stay-for-night",
+      "preofficer-diary-1961-01-26-wakes-at-five-with-early-waking-symptom",
+      "preofficer-diary-1961-01-26-nails-boxes-and-finishes-packing",
+      "preofficer-diary-1961-01-26-records-sergeant-piercing-cat-mouth-and-wang-yu-comment",
+      "preofficer-diary-1961-01-26-tianzhao-lends-twenty-and-li-insists-on-accounting",
+      "preofficer-diary-1961-01-26-has-headache-after-smoking-too-much",
+      "preofficer-diary-1961-01-26-plays-four-chess-games-after-lunch",
+      "preofficer-diary-1961-01-26-eats-fried-egg-at-welfare-society-for-health",
+      "preofficer-diary-1961-01-26-records-eisenhower-learning-to-dial-phone-news",
+      "preofficer-diary-1961-01-26-reads-meng-daqiang-song-chaofeng-marriage-ad",
+      "preofficer-diary-1961-01-26-records-taking-transport-ship-instead-of-landing-craft",
+      "preofficer-diary-1961-01-26-names-forty-day-diary-penghu-diary"
+    ],
+    "duplicateHandling": [
+      "1月25日至1月26日前文未见同日既有条目，本轮新增均为新事件。",
+      "打包、钉箱、整装与此前装书/整理东西互为连续动作，未并入旧条，改用交叉引用回挂。",
+      "王宇、步岳、德武、式泮、天昭等人物线均回挂既有人际或借钱/买药事件。",
+      "报纸征婚广告与1月24日报纸征婚摘录相近，保留为翌日阅读广告事件并交叉引用。",
+      "军中暴力见闻以李敖记录为事件主体，不拆为旁人独立事件。"
+    ],
+    "notes": [
+      "已跳过两段纯心理材料：老情人/类聚计划、太上计划与结婚广告后的个人感触。",
+      "《钱穆可以歇歇了！》只作为读书后的文题记录，不单列为写作计划。",
+      "标题保持简洁，displayDate 均为纯时间。"
+    ],
+    "nextRecommendation": "下一轮建议继续024.澎湖日记·1961年1月第十轮，处理1月27日至1月28日。重点读取并拆分给萧启庆、给陈王马景四位的信中可确证的当事人事件：26日下午整队离仁武、行军至高雄十四号码头、吃自助餐、登313运输舰、夜看高港、服晕船药、抵马公、下舰赴大赤崁、写信求寄三百元、沿途观澎湖风物、驻民房、搬海滨空房、糊墙接灯等；注意信件是1月28日夜追述，displayDate 用事件发生的纯时间，来源注明为信中追述。",
+    "validation": {
+      "validatedAt": "2026-05-12T16:12:00+08:00",
+      "expected": {
+        "allEventCount": 8069,
+        "manifestEventCount": 8069,
+        "csvRows": 8069,
+        "preofficerCount": 3606,
+        "chapter024Events": 188,
+        "currentRoundEvents": 18
+      },
+      "counts": {
+        "allEventCount": 8069,
+        "manifestEventCount": 8069,
+        "csvRows": 8069,
+        "preofficerCount": 3606,
+        "chapter024Events": 188,
+        "currentRoundEvents": 18
+      },
+      "checks": {
+        "duplicateIds": [],
+        "badCrossRefs": [],
+        "sourceMissing": [],
+        "sourceLineOutOfRange": [],
+        "requiredMissing": [],
+        "exportMissing": [],
+        "disallowedMindHits": [],
+        "displayBad": [],
+        "titleLong": [],
+        "countMismatch": [],
+        "manifestPartCountBad": [],
+        "partRowBad": []
+      }
+    }
+  },
+  {
+    "round": "preofficer-diary-round280-penghu-diary-1961-january-lines-687-853-jan27-jan28",
+    "date": "2026-05-12",
+    "book": "一个预备军官的日记",
+    "chapter": "024.澎湖日记·1961年1月",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/024.澎湖日记·1961年1月.txt",
+    "sourceLineRange": "687-853",
+    "scope": "《澎湖日记·1961年1月》1961年1月27日至1月28日，并补入1月28日夜信中追述的1月26日下午至夜间登舰细节；聚焦离仁武、抵高雄码头、登313运输舰、夜看高港、抵马公、行军至大赤崁、驻民房、搬海滨空房、整修住处、赤崁作息、公厕/洗澡、密集写信、借钱与张永亭同住日常。",
+    "addedCount": 28,
+    "addedEventIds": [
+      "preofficer-diary-1961-01-26-leaves-renwu-at-four-for-kaohsiung",
+      "preofficer-diary-1961-01-26-arrives-kaohsiung-pier-fourteen-and-eats-warehouse-buffet",
+      "preofficer-diary-1961-01-26-boards-313-transport-ship-and-enters-forward-cabin",
+      "preofficer-diary-1961-01-26-views-kaohsiung-harbor-night-from-deck",
+      "preofficer-diary-1961-01-26-leaves-kaohsiung-harbor-at-eleven-ten",
+      "preofficer-diary-1961-01-27-takes-seasickness-pill-sleeps-below-and-views-islands-at-dawn",
+      "preofficer-diary-1961-01-27-passes-yuwengdao-anchors-magong-and-disembarks-after-inspection",
+      "preofficer-diary-1961-01-27-marches-from-magong-to-dachikan-and-views-penghu-scenery",
+      "preofficer-diary-1961-01-27-stations-at-dachikan-civilian-house-with-75mm-gun-crew",
+      "preofficer-diary-1961-01-27-gets-three-tatami-to-sleep-on-concrete-floor",
+      "preofficer-diary-1961-01-28-writes-qiqing-from-dachikan-and-asks-for-three-hundred-yuan",
+      "preofficer-diary-1961-01-28-writes-four-friends-poem-and-asks-for-money",
+      "preofficer-diary-1961-01-28-moves-to-empty-seaside-room-with-soldiers",
+      "preofficer-diary-1961-01-28-repairs-seaside-room-all-day-and-injures-right-middle-finger",
+      "preofficer-diary-1961-01-28-records-dachikan-roll-call-meal-route-to-temple",
+      "preofficer-diary-1961-01-28-leaves-bed-prepared-by-deputy-company-commander",
+      "preofficer-diary-1961-01-28-records-military-paradise-roof-and-soldiers-visiting",
+      "preofficer-diary-1961-01-28-uses-public-latrine-and-tours-dachikan-pier",
+      "preofficer-diary-1961-01-28-finds-spring-well-to-wash-and-buys-lollipops",
+      "preofficer-diary-1961-01-28-teaches-soldiers-writing-letters-and-writes-old-friends",
+      "preofficer-diary-1961-01-28-asks-chen-guying-to-copy-military-paradise-materials-and-sends-nude-drawings",
+      "preofficer-diary-1961-01-28-sends-huamin-postcard-reporting-arrival",
+      "preofficer-diary-1961-01-28-writes-qingmao-about-ma-hongxiang-and-sends-photos",
+      "preofficer-diary-1961-01-28-writes-zhou-hong-about-lin-qiongju-and-engagement-photos",
+      "preofficer-diary-1961-01-28-writes-batch-postcards-and-letters-to-friends-and-family",
+      "preofficer-diary-1961-01-28-borrows-twenty-from-administrative-officer-for-toilet-paper",
+      "preofficer-diary-1961-01-28-works-until-eleven-thirty-at-night",
+      "preofficer-diary-1961-01-28-makes-zhang-yongting-wash-feet-and-forbids-window-sleeping"
+    ],
+    "duplicateHandling": [
+      "1月26日已有关“改乘运输舰”和“题澎湖日记”条目，本轮只补信中追述的实际行程细节，并以交叉引用回挂。",
+      "给萧启庆、陈鼓应、郑清茂、周弘等内容较实的信件单列；普通明信片与寒暄信合并为批量通信，避免信件事件过碎。",
+      "军中乐园相关内容只按李敖观察、托人搜集材料与写信处理，不扩写为旁人独立事件。",
+      "马公抵达与赴大赤崁分开：前者为下舰安抵澎湖，后者为四小时步行与驻地转移。"
+    ],
+    "notes": [
+      "本轮多为1月28日夜信中追述，事件date/displayDate按实际发生时间落入1月26、27、28日。",
+      "未收入“想到长恨歌”等纯心理/联想内容；诗句只作为信件内容背景，不拆为事件。",
+      "标题保持简洁，displayDate 均为纯时间。"
+    ],
+    "nextRecommendation": "下一轮建议继续024.澎湖日记·1961年1月，处理1月29日至1月30日。1月29日可收舒适睡眠、请伯高吃年糕团、寄信、陪连长检查内务、休假独逛赤崁/服务站看报/中学找厕所、俞萧同餐、午睡、接明起受训通知、船上偷取《侦探杂志》送永亭并剪漫画、与永亭做胶布卷窗、晚点后吃面包花生米整理到12时；1月30日纯心理“大决定”要跳过，重点收等车读《沧浪夜谭》、赴师部访黄容未遇、听训话、返港尾、讲美干训班报到、逛港尾、与式泮吃皮蛋香蕉、访小楼、寒风编队、认识阙诒流长谈、借钱给俞萧等。",
+    "validation": {
+      "validatedAt": "2026-05-12T16:35:00+08:00",
+      "expected": {
+        "allEventCount": 8097,
+        "manifestEventCount": 8097,
+        "csvRows": 8097,
+        "preofficerCount": 3634,
+        "chapter024Events": 216,
+        "currentRoundEvents": 28
+      },
+      "counts": {
+        "allEventCount": 8097,
+        "manifestEventCount": 8097,
+        "csvRows": 8097,
+        "preofficerCount": 3634,
+        "chapter024Events": 216,
+        "currentRoundEvents": 28
+      },
+      "checks": {
+        "duplicateIds": [],
+        "badCrossRefs": [],
+        "sourceMissing": [],
+        "sourceLineOutOfRange": [],
+        "requiredMissing": [],
+        "exportMissing": [],
+        "disallowedMindHits": [],
+        "displayBad": [],
+        "titleLong": [],
+        "countMismatch": [],
+        "manifestPartCountBad": [],
+        "partRowBad": []
+      }
+    }
+  },
+  {
+    "round": "preofficer-diary-round281-penghu-diary-1961-january-lines-855-900-jan29-jan30",
+    "date": "2026-05-12",
+    "book": "一个预备军官的日记",
+    "chapter": "024.澎湖日记·1961年1月",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/024.澎湖日记·1961年1月.txt",
+    "sourceLineRange": "855-900",
+    "scope": "《澎湖日记·1961年1月》1961年1月29日至1月30日，聚焦赤崁安顿后的睡眠、请客寄信、陪连长检查内务、休假独逛赤崁、午餐与午睡、受训通知、侦探杂志与永亭同住日常、1月30日受训行程、读《沧浪夜谭》、赴师部与讲美干训班、港尾乡活动、认识阙诒流及借钱给俞萧。",
+    "addedCount": 20,
+    "addedEventIds": [
+      "preofficer-diary-1961-01-29-sleeps-comfortably-on-boards-tatami-and-cotton-pads",
+      "preofficer-diary-1961-01-29-treats-bogao-to-rice-cake-balls",
+      "preofficer-diary-1961-01-29-mails-letters-after-arriving-dachikan",
+      "preofficer-diary-1961-01-29-accompanies-company-commander-inspecting-quarters",
+      "preofficer-diary-1961-01-29-holiday-walks-dachikan-reads-newspaper-finds-clean-toilet-and-searches-yuxiao",
+      "preofficer-diary-1961-01-29-lunches-with-yuxiao",
+      "preofficer-diary-1961-01-29-records-room-damp-with-no-sunlight",
+      "preofficer-diary-1961-01-29-naps-until-four-in-afternoon",
+      "preofficer-diary-1961-01-29-receives-notice-of-training-from-next-morning",
+      "preofficer-diary-1961-01-29-gives-detective-magazine-from-erzhao-to-yongting-and-clips-cartoons",
+      "preofficer-diary-1961-01-29-makes-tape-window-with-yongting",
+      "preofficer-diary-1961-01-29-eats-bread-peanuts-with-yongting-and-organizes-until-midnight",
+      "preofficer-diary-1961-01-30-misses-battalion-morning-assembly-for-training",
+      "preofficer-diary-1961-01-30-reads-canglang-yetan-at-wang-yu-place-while-waiting",
+      "preofficer-diary-1961-01-30-goes-to-division-headquarters-visits-huang-rong-and-hears-chuizi-talk",
+      "preofficer-diary-1961-01-30-arrives-jiangmei-training-class-and-chats-with-yuxiao",
+      "preofficer-diary-1961-01-30-walks-gangwei-with-shipan-eats-and-visits-longdegong",
+      "preofficer-diary-1961-01-30-visits-filler-officer-small-building-with-shipan",
+      "preofficer-diary-1961-01-30-meets-que-yiliu-in-cold-formation-and-talks-at-length",
+      "preofficer-diary-1961-01-30-lends-twenty-to-yu-and-ten-to-xiao"
+    ],
+    "duplicateHandling": [
+      "1月29日至1月30日前文未见同日既有条目，本轮新增均为新事件。",
+      "寄信与前一日密集写信片回挂，不拆每封已在上一轮合并过的普通信片。",
+      "《侦探杂志》条目按1月29日送永亭和剪漫画处理，船上取得杂志作为摘要背景。",
+      "1月30日港尾乡游、访小楼、识阙诒流分开，因为地点和人物交往重点不同。"
+    ],
+    "notes": [
+      "已跳过1月30日开头关于Rosa、女人关系和“大决定”的纯心理/性幻想内容。",
+      "阙诒流长谈只按李敖认识并记录谈话处理，未把其对军队改革的各条意见拆为旁人事件。",
+      "标题保持简洁，displayDate 均为纯时间。"
+    ],
+    "nextRecommendation": "下一轮建议继续024.澎湖日记·1961年1月收束本月，处理1月31日。重点收梦到收到助理费（按梦境事件可谨慎写）、澎防部保养训练班开课、李敖成为谈笑中心、听中将副司令和美国少校顾问讲话、读报/训练班日常、与阙诒流后续或其他人物互动；先完整读1月31日余文再定边界，若1月31日内容很长可分上下半轮。",
+    "validation": {
+      "validatedAt": "2026-05-12T22:36:00+08:00",
+      "expected": {
+        "allEventCount": 8117,
+        "manifestEventCount": 8117,
+        "csvRows": 8117,
+        "preofficerCount": 3654,
+        "chapter024Events": 236,
+        "currentRoundEvents": 20
+      },
+      "counts": {
+        "allEventCount": 8117,
+        "manifestEventCount": 8117,
+        "csvRows": 8117,
+        "preofficerCount": 3654,
+        "chapter024Events": 236,
+        "currentRoundEvents": 20
+      },
+      "checks": {
+        "duplicateIds": [],
+        "badCrossRefs": [],
+        "sourceMissing": [],
+        "sourceLineOutOfRange": [],
+        "requiredMissing": [],
+        "exportMissing": [],
+        "disallowedMindHits": [],
+        "displayBad": [],
+        "titleLong": [],
+        "countMismatch": [],
+        "manifestPartCountBad": [],
+        "partRowBad": []
+      }
+    }
+  },
+  {
+    "round": "preofficer-diary-round282-penghu-diary-1961-january-lines-901-947-jan31-closeout",
+    "date": "2026-05-13",
+    "book": "一个预备军官的日记",
+    "chapter": "024.澎湖日记·1961年1月",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/024.澎湖日记·1961年1月.txt",
+    "sourceLineRange": "901-947",
+    "scope": "《澎湖日记·1961年1月》1961年1月31日收束轮，聚焦助理费梦、澎防部保养训练班开课、人际谈笑中心、听副司令与美国少校顾问讲话、诗句/女性生理/格言/伊利莎信摘录、克勤剪贴册、厕所文学、写成Rosa信、保养讲习、港尾理发与离别标语。",
+    "addedCount": 14,
+    "addedEventIds": [
+      "preofficer-diary-1961-01-31-dreams-of-receiving-assistantship-fee",
+      "preofficer-diary-1961-01-31-penghu-defense-maintenance-training-class-opens",
+      "preofficer-diary-1961-01-31-records-himself-as-small-center-of-talk-and-laughter",
+      "preofficer-diary-1961-01-31-hears-vice-commander-and-us-major-adviser-speak-in-morning",
+      "preofficer-diary-1961-01-31-records-zhang-lin-poem-on-life-change",
+      "preofficer-diary-1961-01-31-records-notes-on-women-physiology",
+      "preofficer-diary-1961-01-31-records-research-discussion-debate-and-speech-aphorisms",
+      "preofficer-diary-1961-01-31-excerpts-napoleon-sister-elisa-letter-about-josephine",
+      "preofficer-diary-1961-01-31-excerpts-keqin-scrapbook-in-office-during-nap-time",
+      "preofficer-diary-1961-01-31-records-wc-literature-about-cleaning-toilet",
+      "preofficer-diary-1961-01-31-finishes-letter-to-rosa-in-afternoon",
+      "preofficer-diary-1961-01-31-records-maintenance-lecture-repeating-old-material",
+      "preofficer-diary-1961-01-31-gets-night-haircut-at-gangwei-jiangmei-street",
+      "preofficer-diary-1961-01-31-records-slogan-on-separation-and-expansion-of-strength"
+    ],
+    "duplicateHandling": [
+      "1月31日前文未见同日既有条目，本轮新增均为新事件。",
+      "格言类条目合并为一条，不逐句拆分。",
+      "厕所文学回挂1960年3月20日与6月2日厕所文学线索。",
+      "Rosa信回挂既有Rosa通信线，不把张丽珍句式单拆为心理事件。"
+    ],
+    "notes": [
+      "梦境按用户新约束写为“李敖梦到收到助理费”。",
+      "未收入电子书制作QQ群、资源站等非原文内容。",
+      "标题保持简洁，displayDate 均为纯时间。"
+    ],
+    "nextRecommendation": "下一轮建议先做024.澎湖日记·1961年1月全章closeout：检查本章1月1日至1月31日是否有重复、displayDate混入描述、标题过长、纯心理事件残留；重点复核1月26-31日信中追述的事件日期是否正确落在实际发生日。closeout通过后，再转入025.澎湖日记·1961年2月第一轮。",
+    "validation": {
+      "validatedAt": "2026-05-13T10:03:00+08:00",
+      "expected": {
+        "allEventCount": 8131,
+        "manifestEventCount": 8131,
+        "csvRows": 8131,
+        "preofficerCount": 3668,
+        "chapter024Events": 250,
+        "currentRoundEvents": 14
+      },
+      "counts": {
+        "allEventCount": 8131,
+        "manifestEventCount": 8131,
+        "csvRows": 8131,
+        "preofficerCount": 3668,
+        "chapter024Events": 250,
+        "currentRoundEvents": 14
+      },
+      "checks": {
+        "duplicateIds": [],
+        "badCrossRefs": [],
+        "sourceMissing": [],
+        "sourceLineOutOfRange": [],
+        "requiredMissing": [],
+        "exportMissing": [],
+        "disallowedMindHits": [],
+        "displayBad": [],
+        "titleLong": [],
+        "countMismatch": [],
+        "manifestPartCountBad": [],
+        "partRowBad": []
+      }
+    }
+  },
+  {
+    "round": "preofficer-diary-round283-penghu-diary-1961-january-chapter024-closeout",
+    "date": "2026-05-13",
+    "book": "一个预备军官的日记",
+    "chapter": "024.澎湖日记·1961年1月",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/024.澎湖日记·1961年1月.txt",
+    "sourceLineRange": "1-947",
+    "scope": "024章《澎湖日记·1961年1月》全章closeout：核查1月1日至1月31日事件覆盖、重复、交叉引用、displayDate、标题长度、纯心理事件残留、1月26日至31日信中追述日期与导出完整性。",
+    "addedCount": 0,
+    "addedEventIds": [],
+    "duplicateHandling": [
+      "全章未发现重复ID或同日同标题重复项。",
+      "全章交叉引用均可在全库解析。",
+      "1月26日至31日信中追述条目按实际发生日落库，未发现需改日期项。"
+    ],
+    "notes": [
+      "全章250条均在1961年1月1日至1月31日范围内。",
+      "displayDate均为纯时间，未混入事件描述。",
+      "未发现需删除的纯心理事件残留；梦境条目以“李敖梦到……”写法保留。",
+      "非原文电子书制作信息未入库。"
+    ],
+    "nextRecommendation": "下一轮建议转入025.澎湖日记·1961年2月第一轮。先读2月1日至2月3日或按原文密度定界，重点关注澎湖训练班、白沙岛/大赤崁日常、来往通信、借钱与军中乐园材料线索；继续注意梦境可收、纯心理不收，信件追述要按实际发生日落库。",
+    "validation": {
+      "validatedAt": "2026-05-13T10:20:00+08:00",
+      "expected": {
+        "allEventCount": 8131,
+        "manifestEventCount": 8131,
+        "csvRows": 8131,
+        "preofficerCount": 3668,
+        "chapter024Events": 250,
+        "currentRoundEvents": 0
+      },
+      "counts": {
+        "allEventCount": 8131,
+        "manifestEventCount": 8131,
+        "csvRows": 8131,
+        "preofficerCount": 3668,
+        "chapter024Events": 250,
+        "currentRoundEvents": 0
+      },
+      "checks": {
+        "duplicateIds": [],
+        "duplicateDateTitle": [],
+        "badCrossRefs": [],
+        "displayBad": [],
+        "sourceProblems": [],
+        "titleLong": [],
+        "forbiddenMind": [],
+        "dateRangeBad": [],
+        "futureSourceBad": [],
+        "missingExports": []
+      }
+    }
+  },
+  {
+    "round": "preofficer-diary-round284-penghu-diary-1961-february-lines-1-103-feb01",
+    "date": "2026-05-13",
+    "book": "一个预备军官的日记",
+    "chapter": "025.澎湖日记·1961年2月",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/025.澎湖日记·1961年2月.txt",
+    "sourceLineRange": "1-103",
+    "scope": "《澎湖日记·1961年2月》第一轮，处理1961年2月1日。聚焦Rosa信与镜昌寄信、国防部图表建议、Free China复刊梦、张宏保来访、版权文字、作家轶事、自然笔记、定义/格言、蒋介石引文、林肯/掷瓶/Bourke-White摘录、五十七师退伍消息与夜读《修女传》。",
+    "addedCount": 13,
+    "addedEventIds": [
+      "preofficer-diary-1961-02-01-records-coarse-buttocks-joke",
+      "preofficer-diary-1961-02-01-writes-rosa-letter-with-airmail-label-and-stamps-jingchang-mails-it",
+      "preofficer-diary-1961-02-01-records-defense-ministry-should-standardize-military-teaching-charts",
+      "preofficer-diary-1961-02-01-dreams-free-china-resumes-publication-with-hu-qiuyuan-editing",
+      "preofficer-diary-1961-02-01-zhang-hongbao-from-liaoyang-visits-after-seeing-li-name",
+      "preofficer-diary-1961-02-01-records-copyright-wording-for-future-books",
+      "preofficer-diary-1961-02-01-records-writer-habits-and-edison-employment-test",
+      "preofficer-diary-1961-02-01-records-natural-history-notes",
+      "preofficer-diary-1961-02-01-records-western-etiquette-rose-and-home-definitions",
+      "preofficer-diary-1961-02-01-records-chiang-kai-shek-writing-error-quote-with-1987-note",
+      "preofficer-diary-1961-02-01-records-lincoln-bottle-ceremony-and-bourke-white-quote",
+      "preofficer-diary-1961-02-01-records-57th-division-retirement-news-and-old-ninth-team-praise",
+      "preofficer-diary-1961-02-01-finishes-reading-the-nuns-story-at-night"
+    ],
+    "duplicateHandling": [
+      "2月1日前无025章既有条目，本轮新增均为新事件。",
+      "Rosa长信合并为一条写信/寄信事件，信内对林琼琚的心理展开不拆为事件。",
+      "可写书翰体小说属于单纯写作念头，本轮未收入。",
+      "摘录/格言按主题合并，避免将每句格言拆成过碎事件。"
+    ],
+    "notes": [
+      "梦境按“李敖梦到Free China复刊”写法保留。",
+      "纯心理句如“盼2月很久了”“我真想寄给她一个大木瓜”等未单列。",
+      "标题保持简洁，displayDate 均为纯时间。"
+    ],
+    "nextRecommendation": "下一轮建议继续025章第二轮，处理2月2日。2月2日摘录材料很多，建议单日推进：可收小充员官电话笑话、长生不老术摘录、Cervantes/Goya/Whitman/夏目漱石等晚成作家笔记、波德莱尔与养生训、牙齿/孔丘/洗血巾等生活与医学笔记、第四节课与孟昭华手势、午间挖苦尔昭并望海、晚饭后告假与俞萧去马公、看《风流下女》、热水澡、逛文石店、古今书局买《今日澎湖》、10时30分归途和退伍提前消息。",
+    "validation": {
+      "validatedAt": "2026-05-13T10:13:00+08:00",
+      "expected": {
+        "allEventCount": 8144,
+        "manifestEventCount": 8144,
+        "csvRows": 8144,
+        "preofficerCount": 3681,
+        "chapter025Events": 13,
+        "currentRoundEvents": 13
+      },
+      "counts": {
+        "allEventCount": 8144,
+        "manifestEventCount": 8144,
+        "csvRows": 8144,
+        "preofficerCount": 3681,
+        "chapter025Events": 13,
+        "currentRoundEvents": 13
+      },
+      "checks": {
+        "duplicateIds": [],
+        "badCrossRefs": [],
+        "sourceMissing": [],
+        "sourceLineOutOfRange": [],
+        "requiredMissing": [],
+        "exportMissing": [],
+        "disallowedMindHits": [],
+        "displayBad": [],
+        "titleLong": [],
+        "countMismatch": [],
+        "manifestPartCountBad": [],
+        "partRowBad": []
+      }
+    }
+  },
+  {
+    "round": "preofficer-diary-round285-penghu-diary-1961-february-lines-105-293-feb02-feb03",
+    "date": "2026-05-13",
+    "book": "一个预备军官的日记",
+    "chapter": "025.澎湖日记·1961年2月",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/025.澎湖日记·1961年2月.txt",
+    "sourceLineRange": "105-293",
+    "scope": "《澎湖日记·1961年2月》第二轮，处理1961年2月2日至2月3日。聚焦小充员官电话笑话、长生术与晚成作家摘录、养生/生活笔记、孟昭华手势、挖苦尔昭并望海、马公观影与夜逛、缴退伍照片、参观白沙接待所、赤崁码头看潮、读完《马克·吐温传》与《记者生涯》、夜谈。",
+    "addedCount": 16,
+    "addedEventIds": [
+      "preofficer-diary-1961-02-02-records-filler-officer-phone-joke",
+      "preofficer-diary-1961-02-02-excerpts-longevity-techniques",
+      "preofficer-diary-1961-02-02-records-late-blooming-writers",
+      "preofficer-diary-1961-02-02-records-baudelaire-kaibara-ekken-and-health-notes",
+      "preofficer-diary-1961-02-02-learns-gesture-games-with-meng-zhaohua-in-fourth-class",
+      "preofficer-diary-1961-02-02-mocks-erzhao-at-noon-and-walks-to-seaside",
+      "preofficer-diary-1961-02-02-records-four-character-beauty-verse",
+      "preofficer-diary-1961-02-02-asks-leave-and-goes-to-magong-with-yu-xiao-to-watch-upstairs-and-downstairs",
+      "preofficer-diary-1961-02-02-bathes-strolls-stone-shops-refuses-keqin-gift-and-buys-today-penghu",
+      "preofficer-diary-1961-02-03-fengming-visits-li-returns-company-submits-retirement-photos-and-treats-yongting-oranges",
+      "preofficer-diary-1961-02-03-visits-baisha-military-paradise-reception-office-with-yongting",
+      "preofficer-diary-1961-02-03-watches-rising-tide-at-chikan-pier-with-yongting",
+      "preofficer-diary-1961-02-03-finishes-reading-boys-life-of-mark-twain-and-excerpts-many-notes",
+      "preofficer-diary-1961-02-03-records-tang-xinmei-translation-of-burial-of-moses",
+      "preofficer-diary-1961-02-03-finishes-yuan-fang-reporter-career-and-excerpts-news-notes",
+      "preofficer-diary-1961-02-03-night-talks-with-xie-xiao-yu"
+    ],
+    "duplicateHandling": [
+      "2月2日至2月3日前无025章同日既有条目，本轮新增均为新事件。",
+      "摘录类按主题合并，不逐条拆分长生术、晚成作家和马克·吐温传三十八条。",
+      "军中乐园白沙接待所按李敖与永亭参观/记录所见处理，并回挂1月28日军中乐园材料线索。",
+      "马公观影与浴后逛店买书拆为两条，因为活动场景和作品/购买物不同。"
+    ],
+    "notes": [
+      "遵照每轮至少两日，本轮处理2月2日与2月3日。",
+      "未收入纯心理事件；文本中人物引文里的想法不转写成李敖心理事件。",
+      "标题保持简洁，displayDate 均为纯时间。"
+    ],
+    "nextRecommendation": "下一轮建议继续025章第三轮，处理2月4日至2月5日。2月4日可收标语、归建令漏名、催副官组/营长找副团长、与式泮逃课搭便车赴马公、访毓田看守所并留地址、买七美人冢照片、喝红豆汤读报、洗澡、吃饺子、看《光头冤家》、夜归得知归建令已到；2月5日内容很密，可收镜昌背回行李、午饭后归建、施珂来与来信、小店杨二小姐知退伍、理什物被瓜分、与克勤王宇逛赤崁码头、照相被保安禁止、官长部欢送宴、送镜昌、办移交、排中欢宴、嘱别德武永亭、忠明送川资被拒等；信件仍按李敖收到施珂信处理，不拆旁人独立事件。",
+    "validation": {
+      "validatedAt": "2026-05-13T10:21:00+08:00",
+      "expected": {
+        "allEventCount": 8160,
+        "manifestEventCount": 8160,
+        "csvRows": 8160,
+        "preofficerCount": 3697,
+        "chapter025Events": 29,
+        "currentRoundEvents": 16
+      },
+      "counts": {
+        "allEventCount": 8160,
+        "manifestEventCount": 8160,
+        "csvRows": 8160,
+        "preofficerCount": 3697,
+        "chapter025Events": 29,
+        "currentRoundEvents": 16
+      },
+      "checks": {
+        "duplicateIds": [],
+        "badCrossRefs": [],
+        "sourceMissing": [],
+        "sourceLineOutOfRange": [],
+        "requiredMissing": [],
+        "exportMissing": [],
+        "disallowedMindHits": [],
+        "displayBad": [],
+        "titleLong": [],
+        "countMismatch": [],
+        "manifestPartCountBad": [],
+        "partRowBad": []
+      }
+    }
+  },
+  {
+    "round": "preofficer-diary-round286-penghu-diary-1961-february-lines-295-337-feb04-feb05",
+    "date": "2026-05-13",
+    "book": "一个预备军官的日记",
+    "chapter": "025.澎湖日记·1961年2月",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/025.澎湖日记·1961年2月.txt",
+    "sourceLineRange": "295-337",
+    "scope": "《澎湖日记·1961年2月》第三轮，处理1961年2月4日至2月5日。聚焦归建令漏名与催办、式泮同赴马公访毓田、买七美人冢照片与观影、夜知归建令，及2月5日镜昌背行李、归建与收施珂信、杨二小姐知退伍、整理什物、赤崁码头照相被禁、官长部欢送宴、办移交、排中欢宴、嘱别德武永亭与拒收忠明川资。",
+    "addedCount": 15,
+    "addedEventIds": [
+      "preofficer-diary-1961-02-04-records-thousand-autumns-slogan",
+      "preofficer-diary-1961-02-04-records-filler-officers-losing-patience-and-skipping-class",
+      "preofficer-diary-1961-02-04-calls-about-return-order-omitting-his-name",
+      "preofficer-diary-1961-02-04-skips-class-with-shipan-hitches-to-magong-and-visits-yutian-in-jail",
+      "preofficer-diary-1961-02-04-buys-qimeirenzhong-photo-and-watches-once-more-with-feeling",
+      "preofficer-diary-1961-02-04-returns-at-night-learns-return-order-arrived-and-sleeps",
+      "preofficer-diary-1961-02-05-jingchang-carries-back-luggage-after-bus-does-not-arrive",
+      "preofficer-diary-1961-02-05-returns-to-company-meets-shike-and-receives-his-letter",
+      "preofficer-diary-1961-02-05-yang-second-miss-knows-li-retiring-and-taichung-home",
+      "preofficer-diary-1961-02-05-sorts-belongings-and-is-divided-up-by-others",
+      "preofficer-diary-1961-02-05-visits-chikan-pier-with-keqin-and-wang-yu-and-photography-stopped",
+      "preofficer-diary-1961-02-05-attends-officers-farewell-banquet-and-azhou-drinks-for-him",
+      "preofficer-diary-1961-02-05-sends-jingchang-back-and-handles-handover-with-administrative-officer",
+      "preofficer-diary-1961-02-05-attends-platoon-farewell-banquet-and-receives-pen",
+      "preofficer-diary-1961-02-05-farewells-dewu-yongting-and-refuses-zhongming-travel-money"
+    ],
+    "duplicateHandling": [
+      "2月4日至2月5日前无025章同日既有条目，本轮新增均为新事件。",
+      "2月4日黄祝贵不买书之念属于纯心理触发，未收入。",
+      "施珂信按李敖接到来信与信中请求合并处理，不拆信中旁人独立事件。",
+      "2月5日欢送分为官长部宴、移交、排中宴、嘱别四条，避免一条过长，同时保留当事人动作。"
+    ],
+    "notes": [
+      "遵照每轮至少两日，本轮处理2月4日与2月5日。",
+      "标题保持简洁，displayDate 均为纯时间。",
+      "退伍线索密集，均回挂2月1日退伍消息或2月3日缴退伍照片。"
+    ],
+    "nextRecommendation": "下一轮建议继续025章第四轮，处理2月6日至2月7日。2月6日是离澎湖返台大日，内容密集：4时三刻凤鸣叫醒、永亭德武陶郑班长送行、车站送早饭、江涛王宇陈仪贤赠物、码头领退伍证、与尔昭话别、赏永亭十元、乘三一一军舰离马公、船上与老友聊天作诗、逗天昭、码头慰劳袋、慢车返中、与黄容同行、睡老百姓身份的觉；2月7日先完整读原文再定界，注意若转入台中/返家新阶段，可按实际日期继续。"
+  },
+  {
+    "round": "preofficer-diary-round287-penghu-diary-1961-february-lines-339-377-feb06",
+    "date": "2026-05-13",
+    "book": "一个预备军官的日记",
+    "chapter": "025.澎湖日记·1961年2月",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/025.澎湖日记·1961年2月.txt",
+    "sourceLineRange": "339-377",
+    "scope": "《澎湖日记·1961年2月》第四轮，处理1961年2月6日。源文件到2月6日后即进入电子书尾注，未见2月7日正文；本轮收束退伍离澎湖与返台过程，包括清晨送行赠物、码头领退伍证与话别、乘三一一军舰离马公、船上与黄容及老友同行、午后抵高雄并作入港诗、逗天昭话别、领慰劳袋、16时慢车返台中，以及第一次以老百姓身份睡觉。",
+    "addedCount": 9,
+    "addedEventIds": [
+      "preofficer-diary-1961-02-06-fengming-wakes-li-and-friends-see-him-off-with-food-and-gifts",
+      "preofficer-diary-1961-02-06-receives-discharge-certificate-farewells-erzhao-and-gives-yongting-ten",
+      "preofficer-diary-1961-02-06-boards-311-warship-and-leaves-magong-penghu",
+      "preofficer-diary-1961-02-06-chats-with-old-friends-on-ship-rests-on-anchor-with-huang-rong",
+      "preofficer-diary-1961-02-06-arrives-kaohsiung-and-writes-landing-poems-with-shike",
+      "preofficer-diary-1961-02-06-teases-seasick-tianzhao-on-deck-and-farewells-him",
+      "preofficer-diary-1961-02-06-receives-comfort-bag-at-kaohsiung-pier",
+      "preofficer-diary-1961-02-06-takes-four-oclock-slow-train-back-to-taichung-with-huang-rong",
+      "preofficer-diary-1961-02-06-sleeps-late-for-first-civilian-identity-night"
+    ],
+    "notes": [
+      "未收“令人无限感慨”“心旷”“神驰”等心理感受为独立事件。",
+      "送行与赠物压缩为一条，避免把旁人动作拆得过细。",
+      "2月7日正文不存在；本轮按实际文本边界处理一日并收束本章正文。"
+    ],
+    "nextRecommendation": "下一轮建议做025章《澎湖日记·1961年2月》全章 closeout：复核2月1日至2月6日的时间纯度、标题简洁、心理事件剔除、送信/送物粒度、2月6日离澎湖节点交叉引用，并确认电子书尾注未误入正文。closeout 后再转入下一章或下一本。"
+  },
+  {
+    "round": "preofficer-diary-round288-penghu-diary-1961-february-closeout",
+    "date": "2026-05-13",
+    "book": "一个预备军官的日记",
+    "chapter": "025.澎湖日记·1961年2月",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/025.澎湖日记·1961年2月.txt",
+    "sourceLineRange": "1-377",
+    "scope": "《澎湖日记·1961年2月》全章closeout，复核2月1日至2月6日已入库事件。重点检查重复项、交叉引用、标题简洁与李敖当事人视角、displayDate纯时间、心理事件剔除、送信/送物粒度、2月6日后电子书尾注未误收。",
+    "addedCount": 0,
+    "addedEventIds": [],
+    "revisedCount": 2,
+    "revisedEventIds": [
+      "preofficer-diary-1961-02-05-jingchang-carries-back-luggage-after-bus-does-not-arrive",
+      "preofficer-diary-1961-02-05-yang-second-miss-knows-li-retiring-and-taichung-home"
+    ],
+    "revisions": [
+      {
+        "id": "preofficer-diary-1961-02-05-jingchang-carries-back-luggage-after-bus-does-not-arrive",
+        "before": {
+          "title": "镜昌背回行李",
+          "summary": "2月5日早，李敖起床等车未到，镜昌又替他把行李背回来。",
+          "ingestionRound": "preofficer-diary-round286-penghu-diary-1961-february-lines-295-337-feb04-feb05"
+        },
+        "after": {
+          "title": "李敖等车未到",
+          "summary": "2月5日早，李敖起床等车未到，镜昌又替他把行李背回来。",
+          "ingestionRound": "preofficer-diary-round286-penghu-diary-1961-february-lines-295-337-feb04-feb05; preofficer-diary-round288-penghu-diary-1961-february-closeout"
+        }
+      },
+      {
+        "id": "preofficer-diary-1961-02-05-yang-second-miss-knows-li-retiring-and-taichung-home",
+        "before": {
+          "title": "杨二小姐知退伍",
+          "summary": "2月5日，小店的杨二小姐知道李敖即将退伍，并知道他家住台中。",
+          "ingestionRound": "preofficer-diary-round286-penghu-diary-1961-february-lines-295-337-feb04-feb05"
+        },
+        "after": {
+          "title": "李敖记杨二小姐",
+          "summary": "2月5日，李敖记录小店的杨二小姐知道他即将退伍，并知道他家住台中。",
+          "ingestionRound": "preofficer-diary-round286-penghu-diary-1961-february-lines-295-337-feb04-feb05; preofficer-diary-round288-penghu-diary-1961-february-closeout"
+        }
+      }
+    ],
+    "notes": [
+      "源文件没有2月7日正文，2月6日后即进入电子书尾注。",
+      "未新增事件；只把两条标题/摘要收束到李敖当事人视角。",
+      "保留梦境条目；未收“盼”“想到”“感慨”“心旷”“神驰”等纯心理内容。"
+    ],
+    "nextRecommendation": "下一轮建议转入下一章《一个预备军官的日记》的后续文本；若章节目录显示退伍后进入新阶段，先读下一章目录和开头两日，再决定分轮边界。继续保持每轮至少两日，除非源文件实际不足两日。"
+  },
+  {
+    "round": "preofficer-diary-round289-retirement-diary-lines-1-19-feb07-feb08",
+    "date": "2026-05-13",
+    "book": "一个预备军官的日记",
+    "chapter": "026.退伍日记",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/026.退伍日记.txt",
+    "sourceLineRange": "1-19",
+    "scope": "《退伍日记》第一轮，处理1961年2月7日至2月8日。聚焦退伍返家后的整理、善培来访与夜宿家中，及2月8日与善培去农院、访问世民、寄限时片、与世民送善培北上时遇谭凝晖、夜访世民并记录美惠数其“不忠实”。",
+    "addedCount": 7,
+    "addedEventIds": [
+      "preofficer-diary-1961-02-07-sorts-belongings-after-retirement",
+      "preofficer-diary-1961-02-07-meets-shanpei-in-afternoon-and-talks-happily",
+      "preofficer-diary-1961-02-07-sleeps-at-home-at-night",
+      "preofficer-diary-1961-02-08-goes-to-agricultural-college-with-shanpei-and-visits-shimin",
+      "preofficer-diary-1961-02-08-sends-express-postcards-to-jing-xiao-sun-and-li",
+      "preofficer-diary-1961-02-08-sees-off-shanpei-with-shimin-and-meets-tan-ninghui",
+      "preofficer-diary-1961-02-08-visits-shimin-at-night-and-records-meihui-counting-his-disloyalty"
+    ],
+    "notes": [
+      "按至少两日处理，覆盖本章开头2月7日至2月8日。",
+      "谭凝晖条以李敖与世民送善培、相望点头为事件中心，旁人状态只作现场背景。",
+      "未将原文中对谭凝晖容貌/状态的主观比较、对美惠的泛论拆成心理或评论事件。"
+    ],
+    "nextRecommendation": "下一轮建议继续《退伍日记》第二轮，处理2月9日至2月10日。2月9日内容少，可与2月10日合并：整理、夜洗浴；华俊晨来、午后访述古转张家与尔琳家、晚与玉衡逛街看《赤胆屠龙》、请玉衡吃饺子。注意电影女星评价只作观影细节，不单列心理事件。"
+  },
+  {
+    "round": "preofficer-diary-round290-retirement-diary-lines-21-35-feb09-feb10",
+    "date": "2026-05-13",
+    "book": "一个预备军官的日记",
+    "chapter": "026.退伍日记",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/026.退伍日记.txt",
+    "sourceLineRange": "21-35",
+    "scope": "《退伍日记》第二轮，处理1961年2月9日至2月10日。聚焦2月9日整理与夜洗浴；2月10日华俊晨来、午后访述古转张家与尔琳家、晚与玉衡逛街看《赤胆屠龙》、请玉衡吃饺子。",
+    "addedCount": 5,
+    "addedEventIds": [
+      "preofficer-diary-1961-02-09-sorts-things-and-bathes-at-night",
+      "preofficer-diary-1961-02-10-huajun-visits-in-the-morning",
+      "preofficer-diary-1961-02-10-visits-shugu-zhang-family-and-erlin-family-in-afternoon",
+      "preofficer-diary-1961-02-10-strolls-with-yuheng-and-watches-rio-bravo",
+      "preofficer-diary-1961-02-10-treats-yuheng-to-dumplings"
+    ],
+    "notes": [
+      "2月9日内容较短，整理与夜洗浴合并为一条日常事件。",
+      "电影女星评价只保留为观影细节，未拆成心理事件。",
+      "尔琳家访问以李敖行程为中心，尔琳妹妹不在家作为现场细节。"
+    ],
+    "nextRecommendation": "下一轮建议继续《退伍日记》第三轮，处理2月11日至2月12日。两日内容较密：区公所办手续、接启庆信、讥阿八不及格、翻镇京贺片、请玉衡午饭、买铇、看《春满巴厘岛》；2月12日在一中图书馆、取善培寄来二百元并理发、三小姐剖腹生男、读善培信评估租房财力、新汉来限时信、夜读统计学。注意第12日“想起/发现理解力”类心理句只保留为读书或日记补写的具体行为，不单列心理。"
+  },
+  {
+    "round": "preofficer-diary-round291-retirement-diary-lines-37-67-feb11-feb12",
+    "date": "2026-05-13",
+    "book": "一个预备军官的日记",
+    "chapter": "026.退伍日记",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/026.退伍日记.txt",
+    "sourceLineRange": "37-67",
+    "scope": "《退伍日记》第三轮，处理1961年2月11日至2月12日。聚焦区公所办手续、收启庆信、讥阿八不及格、翻镇京贺片、请玉衡午饭、买铇、请玉衡看《春满巴厘岛》；以及2月12日在一中图书馆、取善培二百元并理发、三小姐剖腹生男、读善培信谈租房/宿舍、新汉来限时信、夜读统计学。",
+    "addedCount": 14,
+    "addedEventIds": [
+      "preofficer-diary-1961-02-11-goes-to-district-office-for-procedures",
+      "preofficer-diary-1961-02-11-receives-qiqing-letter-saying-no-need-to-go-north-soon",
+      "preofficer-diary-1961-02-11-teases-aba-about-three-failed-subjects",
+      "preofficer-diary-1961-02-11-finds-qiu-zhenjing-new-year-card",
+      "preofficer-diary-1961-02-11-treats-yuheng-lunch-at-home",
+      "preofficer-diary-1961-02-11-buys-one-plane-for-thirty-yuan",
+      "preofficer-diary-1961-02-11-treats-yuheng-to-road-to-bali",
+      "preofficer-diary-1961-02-12-spends-day-at-taichung-first-high-school-library",
+      "preofficer-diary-1961-02-12-gets-two-hundred-from-shanpei-haircut-and-ten-from-third-sister",
+      "preofficer-diary-1961-02-12-records-third-miss-caesarean-birth-of-boy",
+      "preofficer-diary-1961-02-12-reads-shanpei-letter-about-renting-room-and-dormitory-option",
+      "preofficer-diary-1961-02-12-supplements-several-days-of-diary",
+      "preofficer-diary-1961-02-12-receives-xinhan-express-letter",
+      "preofficer-diary-1961-02-12-bathes-at-night-and-reads-statistics"
+    ],
+    "notes": [
+      "保留“补数日来之日记”为具体日记行为，未收其后关于过去与忘记的感慨。",
+      "夜读统计学只写读书行为，未收“兴味甚盈”“发现理解力大进”“恐惧心消失”等心理判断。",
+      "三小姐生男按李敖记家事收录，标题注明“李敖记”。"
+    ],
+    "nextRecommendation": "下一轮建议继续《退伍日记》第四轮，处理2月13日至2月14日。内容很密：2月13日寄书、补牙、与小龙去团管区、访克勤未遇、俞来后晚饭逛街、收英善片、批量限时片/给连上寄贺片与多封信、三姐夫送快车票、克勤带澎湖照片；2月14日装牙、还国钧二百五十元、华俊晨来谈Lo夫婿、午请俞与彦增吃年午饭并看《宇宙洪荒》、读报见胡蓉裳结婚、赴台中医院看三小姐、年夜饭分糖果与压岁钱、夜整理洗浴和老太送橘。注意2月14日关于“想到/觉得/厌恶”的心理段不收。"
+  },
+  {
+    "round": "preofficer-diary-round292-retirement-diary-lines-69-101-feb13-feb14",
+    "date": "2026-05-13",
+    "book": "一个预备军官的日记",
+    "chapter": "026.退伍日记",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/026.退伍日记.txt",
+    "sourceLineRange": "69-101",
+    "scope": "《退伍日记》第四轮，处理1961年2月13日至2月14日。聚焦2月13日寄书、补牙、去团管区、访克勤未遇、俞来逛街、收英善片、批量通信、三姐夫送快车票、克勤带澎湖照片；2月14日装牙、还国钧二百五十元、华俊晨谈Lo夫婿、年午饭、看《宇宙洪荒》、读胡蓉裳婚讯、赴台中医院看三小姐、年夜饭后分糖收压岁、夜整理洗浴与老太送橘、记录除夕兼情人节。",
+    "addedCount": 18,
+    "addedEventIds": [
+      "preofficer-diary-1961-02-13-mails-books-with-xiaolong-for-eighty-five-yuan",
+      "preofficer-diary-1961-02-13-has-tooth-filled-at-ziliang-dental-for-eighty-yuan",
+      "preofficer-diary-1961-02-13-goes-to-regimental-district-with-xiaolong-and-records-slogans",
+      "preofficer-diary-1961-02-13-misses-keqin-then-yu-visits-and-old-lady-gives-fifty-for-socks",
+      "preofficer-diary-1961-02-13-receives-yingshan-postcard",
+      "preofficer-diary-1961-02-13-sends-express-cards-and-letters-to-qiqing-shanpei-company-and-others",
+      "preofficer-diary-1961-02-13-third-brother-in-law-gives-express-ticket",
+      "preofficer-diary-1961-02-13-keqin-brings-penghu-photos-with-li",
+      "preofficer-diary-1961-02-14-gets-tooth-installed",
+      "preofficer-diary-1961-02-14-sends-two-hundred-fifty-yuan-back-to-guojun",
+      "preofficer-diary-1961-02-14-huajun-visits-and-talks-about-lo-husband",
+      "preofficer-diary-1961-02-14-treats-yu-and-yanzeng-to-new-year-lunch-at-noon",
+      "preofficer-diary-1961-02-14-watches-the-lost-world-with-yu-and-yanzeng",
+      "preofficer-diary-1961-02-14-reads-news-of-hu-rongshang-marriage",
+      "preofficer-diary-1961-02-14-visits-third-miss-at-taichung-hospital",
+      "preofficer-diary-1961-02-14-distributes-candy-after-new-years-eve-dinner-and-receives-lucky-money",
+      "preofficer-diary-1961-02-14-sorts-bathes-and-receives-four-oranges-from-mother",
+      "preofficer-diary-1961-02-14-records-new-years-eve-valentines-day-and-saint-valentine"
+    ],
+    "notes": [
+      "2月14日Lo段只收华俊来谈Lo夫婿，不收李敖数次想到、觉得距离遥远、厌恶等心理判断。",
+      "《宇宙洪荒》只收观影行为，女星评价不拆事件。",
+      "年夜饭后糖果、压岁钱与打赌合并为一条家中除夕事件。"
+    ],
+    "nextRecommendation": "下一轮建议处理《退伍日记》2月15日，并同时做本章closeout。2月15日为本章最后一天，内容很密：锡昌送修订本、光锦来、访华俊与买弹弓、午请光锦华俊、连长送行送礼、4时乘车北上、车中读书与逗小童、善培接站洗尘、入第一宿舍见施珂留信诗漫画衣帽、士振之昂等来、与孙李等煮蛋喝酒至2时、小读书始睡；另接小潘片，并有施珂大哥信诗。注意来信长诗只按李敖收到/保存处理，不把信内旁人诗句拆成旁人事件。"
+  },
+  {
+    "round": "preofficer-diary-round293-retirement-diary-lines-103-191-feb15-closeout",
+    "date": "2026-05-13",
+    "book": "一个预备军官的日记",
+    "chapter": "026.退伍日记",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/026.退伍日记.txt",
+    "sourceLineRange": "103-191",
+    "scope": "《退伍日记》第五轮兼全章closeout，处理1961年2月15日。聚焦收锡昌修订本、光锦来访并访华俊、买弹弓与听华俊妹寄文、午请光锦、连长送行、4时北上、善培接站洗尘、入第一宿舍见施珂留物、会士振之昂敖小姐、与孙李等煮蛋喝酒至2时、收小潘片、收施珂大哥信。",
+    "addedCount": 12,
+    "addedEventIds": [
+      "preofficer-diary-1961-02-15-receives-revised-copy-from-xichang-early",
+      "preofficer-diary-1961-02-15-guangjin-takes-li-to-visit-huajun",
+      "preofficer-diary-1961-02-15-buys-slingshot-for-huajun-nephew-and-hears-about-kinmen-article",
+      "preofficer-diary-1961-02-15-treats-guangjin-to-lunch-with-huajun",
+      "preofficer-diary-1961-02-15-receives-company-commander-sendoff-and-gift",
+      "preofficer-diary-1961-02-15-leaves-by-four-oclock-train-reading-and-hand-tricks",
+      "preofficer-diary-1961-02-15-shanpei-meets-li-and-washes-dust",
+      "preofficer-diary-1961-02-15-enters-first-dorm-and-sees-shike-left-items",
+      "preofficer-diary-1961-02-15-meets-shizhen-zhang-zhien-and-miss-ao",
+      "preofficer-diary-1961-02-15-boils-eggs-and-drinks-until-two-before-reading-and-sleep",
+      "preofficer-diary-1961-02-15-receives-xiaopan-postcard",
+      "preofficer-diary-1961-02-15-receives-shike-elder-brother-letter-with-doggerel-poems"
+    ],
+    "revisedEventIds": [
+      "preofficer-diary-1961-02-10-huajun-visits-in-the-morning",
+      "preofficer-diary-1961-02-13-third-brother-in-law-gives-express-ticket",
+      "preofficer-diary-1961-02-13-keqin-brings-penghu-photos-with-li"
+    ],
+    "revisedCount": 3,
+    "closeout": {
+      "status": "completed",
+      "chapterEventCount": 56,
+      "coveredLineRange": "1-191",
+      "skippedLineRange": "193-199",
+      "skippedReason": "电子书广告尾行，不属于李敖当事人事件。"
+    },
+    "notes": [
+      "施珂大哥长信压缩为李敖收到并保存来信一条，未拆分信中诗作或旁人诗句。",
+      "同步修正3条既有标题，使标题重心回到李敖，避免旁人动作喧宾夺主。",
+      "本章026.退伍日记已按1-191行收束，广告尾行193-199未入库。"
+    ],
+    "nextRecommendation": "下一轮建议进入下一章《027.从军日记拾遗》或书内下一可挖章节前，先做一次《一个预备军官的日记》全书进度盘点：核对已完成章节、剩余章节、总事件数、是否还有“李敖想/想到”等心理事件残留，并确认导出TXT/CSV与网页版本一致。"
+  },
+  {
+    "round": "preofficer-diary-round294-full-book-closeout-audit",
+    "date": "2026-05-13",
+    "book": "一个预备军官的日记",
+    "chapter": "全书closeout",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记",
+    "sourceLineRange": "全书",
+    "scope": "《一个预备军官的日记》全书盘点与收束审计：核对源目录、事件章节覆盖、心理事件旧写法、时间字段纯度、导出同步与网页版本。",
+    "addedCount": 0,
+    "addedEventIds": [],
+    "revisedCount": 36,
+    "revisedEventIds": [
+      "preofficer-diary-1959-09-11-enjoys-rain-and-escapes-drama-to-eat-beef-noodles-then-acts-diarrhea",
+      "preofficer-diary-1959-10-01-night-compass-operation-with-wang-qiuyuan-and-failed-marker-search",
+      "preofficer-diary-1959-10-04-classmates-say-li-has-become-silent-and-zhou-yu-poem-exchange",
+      "preofficer-diary-1959-10-04-team-praises-m1-and-blanket-and-zhang-xiaopang-gives-orange-and-egg",
+      "preofficer-diary-1959-10-11-warship-exhibition-shoushan-loyalty-shrine-and-evening-talks",
+      "preofficer-diary-1959-10-20-snacks-with-xinhan-diary-energy-praised-and-wind-correction-lecture",
+      "preofficer-diary-1959-10-21-opening-ceremony-meals-holiday-threat-and-poems-on-commander",
+      "preofficer-diary-1959-10-26-diarrhea-pistol-lecture-light-weapons-papaya-captain-and-study-praise",
+      "preofficer-diary-1959-10-30-qingmao-sun-yuhua-praise-leyuan-cigarettes-photo-show-movie-and-english-half-page",
+      "preofficer-diary-1959-11-08-qingmao-praises-li-woman-detachment-and-li-worries-about-spending",
+      "preofficer-diary-1959-11-10-close-combat-and-battle-psychology-training-recalls-farewell-to-arms-dust-march",
+      "preofficer-diary-1959-11-10-fatigue-speech-entrustment-letter-to-yingshan-about-kaohsiung-lots-and-rongtuanhui-regret",
+      "preofficer-diary-1959-11-14-army-education-grade-zhaoxiong-test-general-hope-and-special-leave",
+      "preofficer-diary-1959-11-14-liu-zhengyan-calls-li-taida-hushi-and-taida-work-study-money-arrives-shopping-debt-relief",
+      "preofficer-diary-1959-11-16-letter-to-zhugong-says-lack-of-stability-inward-beauty-not-enough-to-refuse-marriage",
+      "preofficer-diary-1959-11-18-escapes-team-self-reports-translates-passport-of-friendship-rain-blocks-shooting-and-hongxiang-letter-ten-pages",
+      "preofficer-diary-1959-11-19-notes-american-arbitration-association-and-suggests-china-should-establish-it",
+      "preofficer-diary-1959-11-22-speech-contest-not-ranked-captain-says-right-but-army-instructor-threatens-confinement-and-friends-comment",
+      "preofficer-diary-1959-11-22-talks-with-shaohui-about-women-skips-chen-home-eats-wonton-and-wang-shusen-says-fatter",
+      "preofficer-diary-1959-11-28-instructor-brings-three-principles-rensu-complains-diary-not-qingshi-sar-says-talks-behind-back-xuetang-likes-his-talk",
+      "preofficer-diary-1959-11-28-notes-zengcai-letter-quoting-russell-spinoza-sends-card-with-colored-calf-nose-drawing-and-laofang-light-faster-than-sound-joke",
+      "preofficer-diary-1959-11-29-watches-floods-of-fear-with-yanzeng-dines-at-zhenchuanwei-buys-shi-hui-free-china-blocked-pills-and-batteries",
+      "preofficer-diary-1959-11-30-starts-thirteenth-week-goes-downhill-shooting-misses-movie-woman-and-rests-on-grass",
+      "preofficer-diary-1959-12-04-international-situation-zhou-nan-speech-winter-uniform-measurement-weixin-calls-presidential-figure",
+      "preofficer-diary-1959-12-17-chikanshan-machine-gun-60-rounds-good-score-bamboo-nap-wrestles-wenzao-saru-belt-and-tracer-fire",
+      "preofficer-diary-1959-12-19-forum-debate-erlin-guang-dingyuan-sun-yuhua-jiang-yintao-praises-humor",
+      "preofficer-diary-1960-01-09-daliao-75mm-gun-group-attack-and-talks-shy-lukang-demo-soldier",
+      "preofficer-diary-1960-01-10-night-classroom-arranges-booklet-xinhan-names-it-shaqi-butuojiji-and-talks-jing-welfare-station",
+      "preofficer-diary-1960-02-15-deyi-submits-ci-for-correction-and-li-writes-flower-monk-poem-at-night",
+      "preofficer-diary-1960-02-25-arrives-changhua-bus-train-race-and-recalls-pre-enlistment-with-shaohui",
+      "preofficer-diary-1960-02-25-train-reads-newspaper-about-eskimos-and-talks-with-hongmou-about-family-litigation",
+      "preofficer-diary-1960-04-11-afternoon-tired-naps-briefly-and-gets-dizzy",
+      "preofficer-diary-1960-04-27-cao-zihua-tells-zhou-yizhi-domineering-and-old-friend-death-li-writes-letter-and-orders-burned",
+      "preofficer-diary-1960-06-15-buys-peanuts-and-preserved-egg-for-breakfast",
+      "preofficer-diary-1960-11-17-studies-niagara-falls-in-morning-reading",
+      "preofficer-diary-1960-11-18-short-morning-reading-before-reveille"
+    ],
+    "closeout": {
+      "status": "completed",
+      "sourceChapterCount": 26,
+      "eventCount": 3777,
+      "chaptersWithEvents": [
+        "001.虽非冤家，却也路窄（潘毓刚）",
+        "002.真实的历史·素朴的记录（杨尔琳）",
+        "003.可爱的家伙（刘耀祖）",
+        "005.谈吐正如同他所写的东西（陈瑞洲）",
+        "006.《预官日记》序（陶英惠）",
+        "007.《一个预备军官的日记》引言",
+        "008.横槊集·1959年9月",
+        "009.横槊集、插羽集·1959年10月",
+        "010.插羽集·1959年11月",
+        "011.插羽集、金戈集·1959年12月",
+        "012.金戈集、杀气不脱集·1960年1月",
+        "013.杀气不脱集、双枪少尉集·1960年2月",
+        "014.双枪少尉集·1960年3月",
+        "015.双枪少尉集、在那一连串苦斗的日子·1960年4月",
+        "016.在那一连串苦斗的日子·1960年5月",
+        "017.1960年6月",
+        "018.1960年7月",
+        "019.1960年8月",
+        "020.1960年9月",
+        "021.1960年10月",
+        "022.不与集·1960年11月",
+        "023.不与集、兹疑录·1960年12月",
+        "024.澎湖日记·1961年1月",
+        "025.澎湖日记·1961年2月",
+        "026.退伍日记"
+      ],
+      "reviewedButNoEvent": [
+        "004.写序，不能也不会（施珂）"
+      ],
+      "sourceOnlyNonContent": [
+        "《一个预备军官的日记》目录"
+      ],
+      "note": "源目录止于026.退伍日记；不存在027章。本轮仅做审计修订，无新增事件。"
+    },
+    "notes": [
+      "将34条旧式“李敖觉得/认为”等摘要或标题改为“李敖记录/说/在信中称/评”等可观察动作，保留可归档事件本身。",
+      "将2条displayDate中的“早读”改为纯时间“早”，避免时间字段夹事件描述。",
+      "004.写序，不能也不会（施珂）已复读：含李敖请施珂写序和交游回忆，但缺明确日期，未新增事件。",
+      "源书没有027章；下一步应转入006.沉思日记类/006.李敖秘藏日记。"
+    ],
+    "nextRecommendation": "下一轮建议转入《李敖秘藏日记》第一轮。先读目录和开头章节，判断它是逐日材料还是札记/回忆混合；若有日记体，继续按至少两日一轮、保留李敖当事人事件、压缩来信与旁人材料的规则推进。"
   }
 ]

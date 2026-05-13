@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T05:04:58.198Z",
+  "generatedAt": "2026-05-13T03:14:50.178Z",
   "source": "exports/leeao-current-timeline.txt 的同源 JSON 数据",
   "fullCsv": "exports/leeao-current-timeline.csv",
   "partSize": 1000,
@@ -11,7 +11,8 @@
     "exports/leeao-current-timeline.part-05.csv",
     "exports/leeao-current-timeline.part-06.csv",
     "exports/leeao-current-timeline.part-07.csv",
-    "exports/leeao-current-timeline.part-08.csv"
+    "exports/leeao-current-timeline.part-08.csv",
+    "exports/leeao-current-timeline.part-09.csv"
   ],
   "dataFiles": [
     "data/timeline-events.json",
@@ -69,7 +70,7 @@
     "data/timeline-events-daxue-houqi-riji-yi.json",
     "data/timeline-events-preofficer-diary.json"
   ],
-  "eventCount": 7881,
+  "eventCount": 8240,
   "columns": [
     "row",
     "year",
