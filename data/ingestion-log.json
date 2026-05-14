@@ -29737,5 +29737,1066 @@
       "源书没有027章；下一步应转入006.沉思日记类/006.李敖秘藏日记。"
     ],
     "nextRecommendation": "下一轮建议转入《李敖秘藏日记》第一轮。先读目录和开头章节，判断它是逐日材料还是札记/回忆混合；若有日记体，继续按至少两日一轮、保留李敖当事人事件、压缩来信与旁人材料的规则推进。"
+  },
+  {
+    "round": "li-ao-micang-diary-round001-ruanjin-canjii-lines-1-63-jan26-jan30",
+    "date": "2026-05-13",
+    "book": "李敖秘藏日记",
+    "chapter": "001.软禁残记",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/006.李敖秘藏日记/001.软禁残记.txt",
+    "sourceLineRange": "1-63",
+    "scope": "《李敖秘藏日记》第一轮，先读目录并处理《软禁残记》引言及1970年1月26日至1月30日。重复的大事件“彭明敏出走后李敖被软禁”“1971年3月19日被捕”不新造事件，改补到既有事件的additionalSources；新增具体来访、通话、赌博、跟监细节。",
+    "addedCount": 17,
+    "addedEventIds": [
+      "micang-diary-1970-01-26-dines-with-lei-duan-phone-wang-xiaobo-and-treats-supper",
+      "micang-diary-1970-01-26-wu-xiangxiang-confirms-peng-escape-at-peking-university-alumni-meeting",
+      "micang-diary-1970-01-27-lunches-with-yanzeng-duan-and-gambles-winning-nine-hundred",
+      "micang-diary-1970-01-28-receives-asia-society-call-and-fails-to-raise-weibin-alimony-money",
+      "micang-diary-1970-01-28-wang-gan-visits-li-about-peng-foreign-friends-and-fox",
+      "micang-diary-1970-01-29-district-police-visits-while-li-eats-fried-rice-and-asks-about-one-armed-peng",
+      "micang-diary-1970-01-29-gambles-at-night-and-wins-nine-hundred-seventy",
+      "micang-diary-1970-01-29-notices-small-shop-surveillance-and-xiaoteng-says-007-downstairs",
+      "micang-diary-1970-01-29-rereads-adenauer-biography-before-sleep",
+      "micang-diary-1970-01-30-calls-wang-gan-about-watchers-and-jokes-about-winter-defense-money",
+      "micang-diary-1970-01-30-goes-past-police-station-and-hears-district-police-has-special-duty",
+      "micang-diary-1970-01-30-receives-wei-pang-congratulation-call",
+      "micang-diary-1970-01-30-small-shop-light-all-night-and-watchers-walk-road-after-two",
+      "micang-diary-1970-01-30-tang-naiwen-visits-and-xiaobo-jiaguang-come-at-night",
+      "micang-diary-1970-01-30-tells-friends-not-to-come-or-bear-responsibility",
+      "micang-diary-1970-01-30-xiaohua-calls-and-confirms-watchers-examined-visitors",
+      "micang-diary-1983-05-08-records-soft-house-arrest-diary-at-taipei-old-home"
+    ],
+    "revisedCount": 3,
+    "revisedEventIds": [
+      "book4-1970-01-26-learns-peng-reached-sweden",
+      "1970-01-house-arrest-begins",
+      "1971-03-19-arrested"
+    ],
+    "notes": [
+      "第一章为日记体；本轮覆盖至少两日并实际处理1月26日至1月30日。",
+      "王淦、管区警察、楼下007和深夜监视均以李敖所接触、所记录为中心。",
+      "未将“心里更明白”“心知有异”等心理句单列为事件，只写可观察动作和记录。"
+    ],
+    "nextRecommendation": "下一轮建议继续《软禁残记》1月31日至2月2日。1月31日内容很密：早起观察灰西装秃头胖子、8点48分摩托车载人到小店密商、多名监视人员换位、老段来电、刘维斌来电后赌到次晨、与魏午饭被跟踪并摆脱、获得监视系统情报、管区警察透露监视费用和规则、原约彭明敏10点爽约；2月1日至2月2日可合并处理整日监视、廷朝来谈谢聪敏处境、送蕾回家被夜间监视、Mrs. Phillips约见美国学校、与魏胖比较廖文毅和彭明敏、下馆子逛公园打保龄球看电影等。"
+  },
+  {
+    "round": "li-ao-micang-diary-round002-ruanjin-canjii-lines-65-127-jan31-feb02",
+    "date": "2026-05-13",
+    "book": "李敖秘藏日记",
+    "chapter": "001.软禁残记",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/006.李敖秘藏日记/001.软禁残记.txt",
+    "sourceLineRange": "65-127",
+    "scope": "《李敖秘藏日记》第二轮，处理《软禁残记》1970年1月31日至2月2日。重点为1月31日李敖细察楼下监视人员、接老段与刘维斌电话、被跟踪后摆脱、获知专案监视小组与预算、记录管区警察透露的看管规则、彭明敏爽约；以及2月1日至2月2日廷朝来谈谢聪敏同受监视、送蕾回家受监视、在美国学校见Mrs. Phillips谈李翰祥不能出境、与魏胖谈廖文毅/彭明敏、读彭明敏通缉令、与维斌小蕾外出。",
+    "addedCount": 20,
+    "addedEventIds": [
+      "micang-diary-1970-01-31-sees-bald-gray-suit-watcher-after-calling-knife-sharpener",
+      "micang-diary-1970-01-31-records-motorcycle-and-small-shop-secret-meeting-at-0848",
+      "micang-diary-1970-01-31-records-more-watchers-and-police-sunbathing-under-wall",
+      "micang-diary-1970-01-31-receives-laoduan-call-about-xiaozhao-being-registered",
+      "micang-diary-1970-01-31-tells-liu-weibin-surveillance-and-gambles-until-next-morning-losing-2400",
+      "micang-diary-1970-01-31-lunches-with-wei-is-followed-and-shakes-off-tail",
+      "micang-diary-1970-01-31-obtains-intelligence-on-special-surveillance-team-and-budget",
+      "micang-diary-1970-01-31-records-police-discussion-on-forcing-li-and-hsieh-to-move",
+      "micang-diary-1970-01-31-records-district-police-permitted-to-visit-or-ride-in-li-car",
+      "micang-diary-1970-01-31-records-district-police-lax-watch-and-welcome-gambling",
+      "micang-diary-1970-01-31-records-watch-fee-plan-peng-bounty-and-li-photo-at-exits",
+      "micang-diary-1970-01-31-records-peng-mingmin-missing-ten-oclock-appointment",
+      "micang-diary-1970-02-01-records-bald-and-blue-jacket-watchers-from-morning",
+      "micang-diary-1970-02-01-wei-tingchao-visits-and-li-hears-hsieh-tsungmin-also-watched",
+      "micang-diary-1970-02-01-sends-lei-home-after-one-and-meets-motorcycle-watcher-on-return",
+      "micang-diary-1970-02-01-meets-mrs-phillips-at-american-school-about-li-hanxiang-exit-ban",
+      "micang-diary-1970-02-01-compares-liao-wenyi-return-and-peng-escape-with-wei-pang",
+      "micang-diary-1970-02-01-records-newspapers-publishing-peng-wanted-notice-and-motorcycles-returning",
+      "micang-diary-1970-02-02-whole-day-surveillance-and-outing-with-weibin-xiaolei",
+      "micang-diary-1970-02-02-records-small-shop-lights-out-and-door-open-at-night"
+    ],
+    "revisedCount": 1,
+    "revisedEventIds": [
+      "micang-diary-1970-01-28-wang-gan-visits-li-about-peng-foreign-friends-and-fox"
+    ],
+    "notes": [
+      "把1月31日长段监视制度拆为“李敖获知/记录”几条，保留费用、轮班、谢聪敏和彭太太同受监视、照片分发等关键细节。",
+      "未把“大概”“心里有数”等心理判断单独成事；标题保持简洁且尽量以李敖为主语。",
+      "2月2日内容较短，与1月31日、2月1日合并完成，满足至少两日一轮。"
+    ],
+    "nextRecommendation": "下一轮建议继续《软禁残记》2月3日至2月5日。2月3日内容密集：警总查勤车、魏廷朝被捕消息、管区警察谈谢聪敏捉弄监视人、李敖赴雷太太处并送洋糖托转雷震、访齐世英、再到魏家劝慰廷朝姐、拒绝夜赌以免牵累朋友、记录计程车监视、以杜甫诗写特务、与齐伯谈通缉令政治处理；2月4日至2月5日可并入小八留字、魏胖归来联络未成、监视点改到洗衣店、看电影、写王兆民信、除夕多人来访与整日监视。"
+  },
+  {
+    "round": "li-ao-micang-diary-round003-ruanjin-canjii-lines-129-195-feb03-feb05",
+    "date": "2026-05-13",
+    "book": "李敖秘藏日记",
+    "chapter": "001.软禁残记",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/006.李敖秘藏日记/001.软禁残记.txt",
+    "sourceLineRange": "129-195",
+    "scope": "《李敖秘藏日记》第三轮，处理《软禁残记》1970年2月3日至2月5日。重点为警总查勤车、魏廷朝被捕消息、谢聪敏捉弄监视人、罗素死讯、李敖访雷太太并送糖托转雷震、访齐世英、慰问魏廷朝姐姐、拒绝夜赌、记录计程车/摩托车监视、以杜甫诗写特务、记齐伯政治建言、2月4日小八留字与魏胖归来、洗衣店监视、看电影、写王兆民信、2月5日除夕来客与整日监视。",
+    "addedCount": 19,
+    "addedEventIds": [
+      "micang-diary-1970-02-03-records-garrison-command-inspection-car-in-morning",
+      "micang-diary-1970-02-03-receives-wei-sister-and-girlfriend-calls-about-wei-tingchao-arrest",
+      "micang-diary-1970-02-03-hears-from-district-police-how-hsieh-tsungmin-teases-watchers",
+      "micang-diary-1970-02-03-records-bertrand-russell-death-at-ninety-seven",
+      "micang-diary-1970-02-03-visits-mrs-lei-and-sends-candy-to-lei-chen",
+      "micang-diary-1970-02-03-visits-chi-shih-ying-and-he-praises-li-calm-humor",
+      "micang-diary-1970-02-03-visits-wei-family-and-comforts-wei-tingchao-sister",
+      "micang-diary-1970-02-03-refuses-night-gambling-with-duan-and-liu-to-avoid-implicating-friends",
+      "micang-diary-1970-02-03-records-taxi-and-motorcycle-surveillance-while-sending-xiaolei-home",
+      "micang-diary-1970-02-03-uses-du-fu-poem-to-write-about-spy-car",
+      "micang-diary-1970-02-03-records-chi-political-advice-and-song-story-after-peng-wanted-notice",
+      "micang-diary-1970-02-04-gets-xiaoba-note-learns-wei-returned-and-cancels-lunch-due-to-tail",
+      "micang-diary-1970-02-04-records-noon-watch-at-former-laundry-with-martial-arts-book",
+      "micang-diary-1970-02-04-watches-movie-with-lei-in-afternoon",
+      "micang-diary-1970-02-04-records-night-watch-changed-to-walking-sentry",
+      "micang-diary-1970-02-04-writes-wang-zhaomin-letter-about-nine-person-surveillance-team",
+      "micang-diary-1970-02-05-receives-mengneng-dingbao-xiaozhao-bingqin-zhangping-liangyan-caiwei-visits",
+      "micang-diary-1970-02-05-records-new-years-eve-whole-day-surveillance-without-truce",
+      "micang-diary-1970-02-05-records-evening-watchers-in-small-shop-with-motorcycle-outside"
+    ],
+    "revisedCount": 0,
+    "revisedEventIds": [],
+    "notes": [
+      "魏廷朝被捕、谢聪敏捉弄监视、齐伯政治建言均写为李敖接讯/听闻/记录，避免旁人线脱离李敖中心。",
+      "未收“夜思绪颇多”等纯心理段，保留杜甫诗和吕端故事等具体日记记录。",
+      "王兆民信按书信事件收入，保留九人小组日夜监视与旧年当前失礼等关键信息。"
+    ],
+    "nextRecommendation": "下一轮建议继续《软禁残记》2月6日至2月8日。2月6日可处理萧车入水沟、陪萧去市立医院、医生识出文星集团、小滕家赌钱、整日监视及吉普车；2月7日至2月8日可处理管区警察来谈和平东路被监视者、吴相湘对监视令的评论、整日监视、范家赌到次晨赢三百一、维斌家通宵赌。"
+  },
+  {
+    "round": "li-ao-micang-diary-round004-ruanjin-canjii-lines-197-213-feb06-feb08",
+    "date": "2026-05-13",
+    "book": "李敖秘藏日记",
+    "chapter": "001.软禁残记",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/006.李敖秘藏日记/001.软禁残记.txt",
+    "sourceLineRange": "197-213",
+    "scope": "《李敖秘藏日记》第四轮，处理《软禁残记》1970年2月6日至2月8日。重点为2月6日萧车入水沟后李敖陪同到市立医院、陈蔡医师认出文星集团、小滕家赌钱、整日监视及摩托车和灰色吉普车；2月7日管区警察来谈和平东路同受监视者与吴相湘对监视令的评论、整日监视、范家赌到次晨赢三百一；2月8日整日监视与维斌家通宵赌。",
+    "addedCount": 7,
+    "addedEventIds": [
+      "micang-diary-1970-02-06-accompanies-xiao-to-city-hospital-after-car-ditch-and-hand-injury",
+      "micang-diary-1970-02-06-gambles-at-xiaoteng-home-from-afternoon",
+      "micang-diary-1970-02-06-records-whole-day-surveillance-small-shop-motorcycle-and-gray-jeep",
+      "micang-diary-1970-02-07-hears-district-police-on-heping-east-road-and-wu-xiangxiang-comment",
+      "micang-diary-1970-02-07-records-whole-day-surveillance",
+      "micang-diary-1970-02-07-gambles-at-fan-home-until-next-morning-winning-310",
+      "micang-diary-1970-02-08-records-surveillance-and-gambles-overnight-at-weibin-home"
+    ],
+    "revisedCount": 0,
+    "revisedEventIds": [],
+    "notes": [
+      "管区警察与吴相湘内容写为李敖听闻/记录，避免转成旁人独立事件。",
+      "2月7日整日监视保留为软禁连续性节点；2月8日把监视与通宵赌合并成一条，避免日常短项过碎。",
+      "标题继续压缩，displayDate 均只保留纯时间，不夹事件描述。"
+    ],
+    "nextRecommendation": "下一轮建议继续《软禁残记》2月9日至2月10日。2月9日可处理清早赌归时监视者窥望、魏胖来访并被跟踪、警察雇计程车陪魏胖游横贯公路、李敖听魏胖谈和平东路被监视者其实为彭家及松山分局监视、夜送蕾回家被红计程车跟踪；2月10日可处理李敖送小八到国泰永吉公寓、到蕾家、红车监视、看电影、深夜送蕾、以及写给吴良彦的信。"
+  },
+  {
+    "round": "li-ao-micang-diary-round005-ruanjin-canjii-lines-215-235-feb09-feb10",
+    "date": "2026-05-13",
+    "book": "李敖秘藏日记",
+    "chapter": "001.软禁残记",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/006.李敖秘藏日记/001.软禁残记.txt",
+    "sourceLineRange": "215-235",
+    "scope": "《李敖秘藏日记》第五轮，处理《软禁残记》1970年2月9日至2月10日。重点为2月9日李敖清早赌归遇监视、魏胖来访并带来两名跟踪者、李敖记录魏胖谈警察雇计程车陪游横贯公路、听魏胖说和平东路被监视者是彭家且魏胖由松山分局监视、夜2点送蕾被兴业15-03079号红计程车跟踪；2月10日李敖送小八到国泰永吉公寓再到蕾家被红车跟踪、傍晚看电影回来见红车守在小店旁、夜2点送蕾回来后红车在楼下逡巡熄灯，以及致吴亮言信说明九人全天候监视和计程车跟踪。",
+    "addedCount": 8,
+    "addedEventIds": [
+      "micang-diary-1970-02-09-returns-from-gambling-and-sees-watcher-before-wei-pang-arrives",
+      "micang-diary-1970-02-09-hears-wei-pang-on-police-taxi-cross-island-road-tracking",
+      "micang-diary-1970-02-09-hears-wei-pang-say-peng-family-watched-and-songshan-watches-him",
+      "micang-diary-1970-02-09-sends-lei-home-and-is-followed-by-red-taxi-xingye-1503079",
+      "micang-diary-1970-02-10-sends-xiaoba-to-guotai-yongji-and-red-taxi-follows-to-lane",
+      "micang-diary-1970-02-10-returns-from-movie-and-sees-red-taxi-beside-small-shop",
+      "micang-diary-1970-02-10-sends-lei-back-at-two-and-red-taxi-circles-downstairs",
+      "micang-diary-1970-02-10-writes-wu-liangyan-letter-about-surveillance-and-keeping-distance"
+    ],
+    "revisedCount": 0,
+    "revisedEventIds": [],
+    "notes": [
+      "魏胖段落以“李敖听/记录”为主轴，只保留与软禁监视网络有关的内容。",
+      "2月10日红计程车跟踪按午间、傍晚、深夜三次具体出现分列，避免合并后丢掉行程与监视变化。",
+      "吴亮言信收入为通信事件，保留礼品致谢、九人监视、计程车跟踪和请朋友保持距离等完整要点。"
+    ],
+    "nextRecommendation": "下一轮建议继续《软禁残记》2月11日至2月12日。2月11日内容较短，可处理李敖饭后到小蕾处、一直被尾随、送小八出来后红车又跟踪到家、夜里神秘男子搭计程车在小店前停留；2月12日内容较密，可处理清早被红车尾随、与小蕾看《敦煌石窟》和电影、红车监视与司机眼光、警察向萧孟能说明奉命监视、李敖与魏胖走南京东路转巷以避50cc摩托车跟踪、夜半接段联络电话、以及读《联合报》何必问对“人心向背”的回应。"
+  },
+  {
+    "round": "li-ao-micang-diary-round006-ruanjin-canjii-lines-237-251-feb11-feb12",
+    "date": "2026-05-13",
+    "book": "李敖秘藏日记",
+    "chapter": "001.软禁残记",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/006.李敖秘藏日记/001.软禁残记.txt",
+    "sourceLineRange": "237-251",
+    "scope": "《李敖秘藏日记》第六轮，处理《软禁残记》1970年2月11日至2月12日。重点为2月11日李敖在六小姐处午饭并被尾随、接“美国人”放学后红车消失又入夜停在小店前；2月12日午间李敖开车到八十在敦化桥摆脱尾随、与蕾看电影后趁监视空档开车办事并相挽步行返家、晚饭时听管区警察说明警备总部红车与谢聪敏监视调派、魏胖摆脱50CC摩托车跟踪后到李敖家聊天、夜半接蒋芸香港长途电话获知《明报晚报》报道，以及清早接蒋光超电话回应《联合报》豪赌报道。",
+    "addedCount": 8,
+    "addedEventIds": [
+      "micang-diary-1970-02-11-lunches-at-sixth-miss-place-and-is-tailed-all-the-way",
+      "micang-diary-1970-02-11-picks-up-american-student-and-red-taxi-returns-at-night",
+      "micang-diary-1970-02-12-drives-eighty-and-shakes-off-red-taxi-at-dunhua-bridge",
+      "micang-diary-1970-02-12-watches-movie-with-lei-then-walks-home-arm-in-arm-past-scouts",
+      "micang-diary-1970-02-12-hears-district-police-explain-garrison-command-red-car",
+      "micang-diary-1970-02-12-receives-wei-pang-after-he-shakes-off-50cc-motorcycle-tail",
+      "micang-diary-1970-02-12-receives-jiang-yun-hong-kong-call-about-ming-pao-photo-report",
+      "micang-diary-1970-02-12-receives-jiang-guangchao-call-and-answers-gambling-report"
+    ],
+    "revisedCount": 0,
+    "revisedEventIds": [],
+    "notes": [
+      "校正上轮推荐：2月11日原文为六小姐处午饭，不作小蕾处；2月12日清早来电者为蒋光超，不作何必问文章。",
+      "红车、侦骑、管区警察说明均写成李敖所见/所闻的软禁监视线索。",
+      "蒋芸来电中的《明报晚报》原文带问号，事件 certainty 标为 probable 并在 source note 保留疑问。"
+    ],
+    "nextRecommendation": "下一轮建议继续《软禁残记》2月13日至2月15日。2月13日可处理李敖晚饭后送小蕾回家并又接小蕾、红车变化与新侦骑；2月14日可处理情人节前后的外出、红车/摩托车跟踪、与亲友往来；2月15日若文本密度合适可并入，继续观察红车、侦骑和来访/电话的变化，注意只收李敖当事或明确记录的事件。"
+  },
+  {
+    "round": "li-ao-micang-diary-round007-ruanjin-canjii-lines-253-275-feb13-feb15",
+    "date": "2026-05-13",
+    "book": "李敖秘藏日记",
+    "chapter": "001.软禁残记",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/006.李敖秘藏日记/001.软禁残记.txt",
+    "sourceLineRange": "253-275",
+    "scope": "《李敖秘藏日记》第七轮，处理《软禁残记》1970年2月13日至2月15日。重点为2月13日李敖记录跟踪者跟不上自己和小八、与蕾打球并手拉手散步、夜间三人夜哨与热车互动；2月14日早上听管区警察谈谢聪敏在亚洲百货公司当众骂跟踪者，随后与管区警察到六小姐家午饭并访魏廷朝，约谢聪敏到波丽露吃冰，劝谢聪敏勿给官方口实，三名被监视者与两名警察同行开玩笑，三人勘保安处旧址、逛书摊下小馆，晚饭后到李敖家喝茶下棋，李敖得知黄其明和“主席”也被看管；2月15日老段拿来有彭明敏照片的Newsweek，李敖在蕾处午饭并打球仍被跟踪，傍晚回家与秃胖监视者致意，晚饭后记录红车不见。",
+    "addedCount": 16,
+    "addedEventIds": [
+      "micang-diary-1970-02-13-records-tail-failing-to-catch-him-and-xiaoba",
+      "micang-diary-1970-02-13-plays-ball-with-lei-and-walks-home-hand-in-hand-under-new-watchers",
+      "micang-diary-1970-02-13-records-three-watchers-downstairs-with-car-and-motorcycle-at-one",
+      "micang-diary-1970-02-13-warms-car-and-watchers-warm-theirs-too",
+      "micang-diary-1970-02-14-hears-district-police-on-hsieh-tsungmin-cursing-tailers-at-asia-department-store",
+      "micang-diary-1970-02-14-lunches-with-district-police-at-sixth-miss-and-visits-wei-tingchao",
+      "micang-diary-1970-02-14-goes-with-wei-tingchao-to-find-hsieh-and-eats-ice-at-bolero",
+      "micang-diary-1970-02-14-advises-hsieh-tsungmin-not-to-provoke-watchers",
+      "micang-diary-1970-02-14-walks-with-two-friends-and-two-police-joking-about-wanted-men-following-police",
+      "micang-diary-1970-02-14-inspects-old-security-office-site-with-wei-and-hsieh",
+      "micang-diary-1970-02-14-hosts-wei-and-hsieh-for-tea-chess-before-police-pickup",
+      "micang-diary-1970-02-14-learns-huang-qiming-and-chairman-also-watched",
+      "micang-diary-1970-02-15-receives-newsweek-from-laoduan-with-peng-photo",
+      "micang-diary-1970-02-15-lunches-at-lei-place-and-plays-ball-under-tail",
+      "micang-diary-1970-02-15-returns-home-sees-red-taxi-and-greets-bald-fat-watcher",
+      "micang-diary-1970-02-15-records-red-taxi-gone-after-dinner"
+    ],
+    "revisedCount": 0,
+    "revisedEventIds": [],
+    "notes": [
+      "2月14日长段按李敖所听、所访、所劝、所同行、所记录拆分，避免把谢聪敏或魏廷朝变成脱离李敖的旁人主线。",
+      "原文“黄其明和‘主席’”中的“主席”身份未展开，保留原称谓，不作推断。",
+      "2月13日至2月15日的红车、侦骑、汽车摩托车、秃胖监视者均作为软禁监视连续变化保留。"
+    ],
+    "nextRecommendation": "下一轮建议继续《软禁残记》2月16日至2月17日。2月16日可处理早上跟踪小八、午间李敖被跟踪并甩掉、傍晚小八停车后跟踪者发现跟错又回车看守、夜11点50分摩托车开走一辆；2月17日可处理跟踪依旧且红车新驾驶人与李敖友善、龙山分局以蒋光超事传李敖却旁敲彭案、以及后续同日若有继续文字。建议先顺读到2月17日结束再决定是否并入2月18日。"
+  },
+  {
+    "round": "li-ao-micang-diary-round008-ruanjin-canjii-lines-277-293-feb16-feb18",
+    "date": "2026-05-13",
+    "book": "李敖秘藏日记",
+    "chapter": "001.软禁残记",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/006.李敖秘藏日记/001.软禁残记.txt",
+    "sourceLineRange": "277-293",
+    "scope": "《李敖秘藏日记》第八轮，处理《软禁残记》1970年2月16日至2月18日。重点为2月16日早上跟踪小八、午间李敖被跟踪后甩掉、傍晚监视人员跟错小八并回车看守、一汽车二摩托车及夜11点50分摩托车离开；2月17日跟踪依旧但红车新驾驶人与李敖友善、龙山分局以蒋光超事传李敖却旁敲彭案；2月18日李敖接蕾去医院和西门町一直被跟踪，晚饭后一度不见，夜10点半回家时红车在门口。",
+    "addedCount": 6,
+    "addedEventIds": [
+      "micang-diary-1970-02-16-records-morning-tail-on-xiaoba",
+      "micang-diary-1970-02-16-shakes-off-noon-tail",
+      "micang-diary-1970-02-16-records-tail-mistaking-xiaoba-and-one-car-two-motorcycles-watch",
+      "micang-diary-1970-02-17-records-friendly-new-red-taxi-driver",
+      "micang-diary-1970-02-17-summoned-by-longshan-precinct-over-jiang-guangchao-but-questioned-on-peng-case",
+      "micang-diary-1970-02-18-picks-up-lei-goes-to-hospital-and-ximending-under-tail"
+    ],
+    "revisedCount": 0,
+    "revisedEventIds": [],
+    "notes": [
+      "2月16日小八被跟踪、李敖甩掉跟踪、跟错小八后回车看守拆为三条，以保留监视对象错认的细节。",
+      "龙山分局一事以李敖被传唤为主，不另造蒋光超或彭案背景事件。",
+      "2月18日虽不在上一轮核心推荐中，但原文短且接续红车监视线索，合并入本轮以减少碎片轮次。"
+    ],
+    "nextRecommendation": "下一轮建议继续《软禁残记》2月19日至2月24日。2月19日内容较密，可处理魏胖来终日且其跟踪者守门终日、管区警察告知市警局安全室要求以抓赌和漏税名义罗织李敖入罪、下午接蕾被跟踪且换班中由秃胖接班、夜间跟踪方式较客气；2月20日至24日原文仅“以上五天，跟踪依旧”，可作为一个连续监视节点收入，不逐日硬拆。"
+  },
+  {
+    "round": "li-ao-micang-diary-round009-ruanjin-canjii-lines-295-315-feb19-feb24",
+    "date": "2026-05-13",
+    "book": "李敖秘藏日记",
+    "chapter": "001.软禁残记",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/006.李敖秘藏日记/001.软禁残记.txt",
+    "sourceLineRange": "295-315",
+    "scope": "《李敖秘藏日记》第九轮，处理《软禁残记》1970年2月19日至2月24日。重点为2月19日魏胖来终日且其跟踪者守门终日、管区警察告知市警局安全室要求以抓赌和抓漏税名义罗织李敖入罪、下午接蕾时被跟踪并遇监视人员换班由秃胖接班、夜间跟踪方式较客气；2月20日至24日原文仅记“以上五天，跟踪依旧”，合并为一条连续监视节点。",
+    "addedCount": 5,
+    "addedEventIds": [
+      "micang-diary-1970-02-19-wei-pang-stays-all-day-and-his-watchers-guard-door",
+      "micang-diary-1970-02-19-hears-district-police-say-security-room-ordered-gambling-tax-frameup",
+      "micang-diary-1970-02-19-picks-up-lei-under-tail-during-shift-change-and-bald-fat-takes-over",
+      "micang-diary-1970-02-19-records-more-courteous-night-tail",
+      "micang-diary-1970-02-20-to-24-records-tail-continuing-for-five-days"
+    ],
+    "revisedCount": 0,
+    "revisedEventIds": [],
+    "notes": [
+      "抓赌/漏税段落按李敖听管区警察转述处理，保留罗织入罪要点，不扩写为未证成的司法结果。",
+      "2月20日至24日不逐日硬拆，合并为 range 事件，避免制造重复短项。",
+      "秃胖接班与夜间较客气跟踪分别保留，记录监视方式的具体变化。"
+    ],
+    "nextRecommendation": "下一轮建议继续《软禁残记》2月25日至2月26日。2月25日可处理跟踪者伸手招呼、李敖摆脱跟踪后与蕾去草山小游、夜管区警察谈可能被窃听与上面怀疑李敖家有电台、四班轮流和加班费怨声；2月26日可处理魏胖午后来访、门口特勤者聚合、魏胖离开时与跟他的人谈笑而去、李敖的监视者留下照旧，以及李敖整日足不出户。"
+  },
+  {
+    "round": "li-ao-micang-diary-round010-ruanjin-canjii-lines-317-327-feb25-feb26",
+    "date": "2026-05-13",
+    "book": "李敖秘藏日记",
+    "chapter": "001.软禁残记",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/006.李敖秘藏日记/001.软禁残记.txt",
+    "sourceLineRange": "317-327",
+    "scope": "《李敖秘藏日记》第十轮，处理《软禁残记》1970年2月25日至2月26日。重点为2月25日跟踪者伸手招呼、李敖摆脱跟踪后与蕾去草山小游、夜里管区警察谈李敖处恐被窃听及上面怀疑李敖家有电台、四班轮流与加班费怨声；2月26日魏胖午后来访、门口特勤者聚合、魏胖离开时与跟他的人谈笑而去而李敖的监视者留下照旧，以及李敖整日足不出户。",
+    "addedCount": 4,
+    "addedEventIds": [
+      "micang-diary-1970-02-25-shakes-off-tail-and-tours-caoshan-with-lei",
+      "micang-diary-1970-02-25-hears-district-police-on-bugging-radio-suspicion-and-unpaid-overtime",
+      "micang-diary-1970-02-26-wei-pang-visits-and-special-agents-gather-at-door",
+      "micang-diary-1970-02-26-stays-home-all-day"
+    ],
+    "revisedCount": 0,
+    "revisedEventIds": [],
+    "notes": [
+      "bugged 和电台怀疑均按李敖听管区警察转述处理，不作外部事实扩张。",
+      "魏胖来访条保留“属于他的/属于我的”监视者分组细节，体现多对象监视网络。",
+      "2月27日至28日虽为短句“两日来照旧”，本轮不越界，留待下一轮与3月1日一起处理。"
+    ],
+    "nextRecommendation": "下一轮建议继续《软禁残记》2月27日至3月1日。2月27日至28日可合并为“两日照旧”连续监视节点；3月1日内容很密：谢聪敏自彭家来且由警察请坐计程车、彭家有吉普车及男女监视人员、彭太太二次被传、李敖与谢聪敏访魏廷朝再同逛西门/中山区/延平区、李敖请天桥客家菜、车中三人坐守另三人尾随、夜归时成功脱梢，以及李敖记录正式发现被软禁足足一个月。"
+  },
+  {
+    "date": "2026-05-13",
+    "round": "li-ao-micang-diary-round011-ruanjin-canjii-lines-329-339-feb27-mar01",
+    "book": "李敖秘藏日记",
+    "scope": "《李敖秘藏日记》第十一轮，处理《软禁残记》1970年2月27日至3月1日。重点为2月27日至28日“两日来照旧”的连续软禁状态；3月1日谢聪敏从彭家到李敖处且由警察请计程车、李敖获知彭家吉普车监视与彭太太两次被传、李敖与谢聪敏访魏廷朝并同逛西门/中山区/延平区、李敖请天桥客家菜、夜归时三人成功脱梢，以及李敖记录正式发现软禁已满一个月。",
+    "added": 6,
+    "revised": 0,
+    "currentBookTotal": 116,
+    "notes": [
+      "本轮保留彭家与彭太太信息，但写成李敖接谢聪敏来后所获知/听说，避免旁人线脱离李敖当事中心。",
+      "3月1日外出链按李敖行动拆为访魏、请客、脱梢三段，标题保持简洁，displayDate 均为纯时间。",
+      "2月27日至28日短句“两日来照旧”合并为连续监视节点，不额外拆小项。"
+    ],
+    "nextRecommendation": "下一轮建议继续《软禁残记》3月2日至3月4日。3月2日“一切照旧”可与前后软禁连续节点合并判断；3月3日李敖下楼买番茄，监视人员上前帮挑并询问汽车去向，李敖答称要卖车；3月4日夜2点送小蕾回家未见监视车、仅见人影与摩托车，又记录风雨寒冷使监视人员偷懒，2点40分监视车归来。"
+  },
+  {
+    "date": "2026-05-13",
+    "round": "li-ao-micang-diary-round012-ruanjin-canjii-lines-341-355-mar02-mar04",
+    "book": "李敖秘藏日记",
+    "scope": "《李敖秘藏日记》第十二轮，处理《软禁残记》1970年3月2日至3月4日。重点为3月2日“一切照旧”的连续软禁记录；3月3日李敖下楼买番茄、监视人员帮挑并问汽车去向、李敖答称汽车要卖；3月4日夜2点李敖送小蕾回家时未见监视车、只见人影与摩托车，以及雨冷夜里监视松懈、2点40分监视车归来。",
+    "added": 4,
+    "revised": 0,
+    "currentBookTotal": 120,
+    "notes": [
+      "3月2日短句“一切照旧”作为软禁连续性节点保留，交叉引用2月27日至28日和3月1日满月记录。",
+      "3月3日买番茄事件以李敖日常动作和监视人员直接互动为中心，不扩写监视人员状态。",
+      "3月4日夜间送小蕾与监视车归来拆为两条，保留2点与2点40分两个具体时间点。"
+    ],
+    "nextRecommendation": "下一轮建议继续《软禁残记》3月5日至3月7日。3月5日可处理李敖中午外出吃饭和晚上送小蕾均被紧跟；同日他将一月来日记寄给“三三”，题作“台北半月记”加“半月记”，并附改元稹诗与说明，称此册只写软禁事件，其他个人生活、舆论资料、消息来去暂不收入。3月6日至3月7日只有“照行故事”，可合并为连续软禁节点。"
+  },
+  {
+    "date": "2026-05-13",
+    "round": "li-ao-micang-diary-round013-ruanjin-canjii-lines-357-381-mar05-mar07",
+    "book": "李敖秘藏日记",
+    "scope": "《李敖秘藏日记》第十三轮，处理《软禁残记》1970年3月5日至3月7日。重点为3月5日李敖中午外出吃饭、晚上送小蕾均被跟踪不舍；同日李敖将一月来日记寄给三三，题作“台北半月记”加“半月记”，并附改元稹诗与说明，称此册只写软禁事件，其他个人生活、舆论资料、消息来去暂不收入；3月6日至7日以“照行故事”合并为连续软禁节点。",
+    "added": 3,
+    "revised": 0,
+    "currentBookTotal": 123,
+    "notes": [
+      "寄日记条以李敖整理并寄出文本为事件核心，不把诗句拆为心理事件。",
+      "3月6日至7日原文极短，合并为连续监视节点，避免日粒度过碎。",
+      "本轮未与《早年日记》中三三旧线合并；旧线只是人物背景，不构成重复。"
+    ],
+    "nextRecommendation": "下一轮建议继续《软禁残记》3月8日至3月11日。3月8日内容较密：丁颍夫妇、小钊、晓波、嘉广、小华、老段、魏胖、谢聪敏、管区警察等多人来李敖处，李敖又记录此房已被录音；3月9日至3月11日需先细读后文，若仍短，可与3月8日一起收束为来访与监听发现节点。"
+  },
+  {
+    "date": "2026-05-13",
+    "round": "li-ao-micang-diary-round014-ruanjin-canjii-lines-383-395-mar08-mar11",
+    "book": "李敖秘藏日记",
+    "scope": "《李敖秘藏日记》第十四轮，处理《软禁残记》1970年3月8日至3月11日。重点为3月8日丁颍夫妇、小钊、王晓波、嘉广、小华、老段、魏胖、谢聪敏和管区警察到李敖处来访；同日李敖记录房间已被录音；3月9日至11日以“照行故事”合并为连续软禁节点。",
+    "added": 3,
+    "revised": 0,
+    "currentBookTotal": 126,
+    "notes": [
+      "3月8日多人来访压缩为一个来访节点，避免把单纯到访名单拆得过碎。",
+      "房间被录音作为李敖在软禁环境中记录的监听节点处理，并回挂2月25日管区警察谈 bugged 旧线。",
+      "3月9日至11日原文只有日期和“照行故事”，合并成三日连续节点。"
+    ],
+    "nextRecommendation": "下一轮建议继续《软禁残记》3月12日至3月16日。3月12日可处理李敖4点40接蕾下课、红车因驾驶不在未能尾随、8时后回家两班人马皆在，并与“协买番茄者”对话；3月13日处理世君约去美军顾问团看车、红车不得入并消失、楼下疑有蓝车、下午接蕾被跟踪并在中山桥摆脱、夜2时接蒋芸长途电话谈被看管近况及胡菊人等发起反台独签名运动；3月14日至15日处理小蕾家已有管区警察去过并称“李敖是卧底的匪谍”；3月16日处理监视车不在、换来新面孔及改为兴业15-03042号天蓝色车。"
+  },
+  {
+    "date": "2026-05-13",
+    "round": "li-ao-micang-diary-round015-ruanjin-canjii-lines-397-421-mar12-mar16",
+    "book": "李敖秘藏日记",
+    "scope": "《李敖秘藏日记》第十五轮，处理《软禁残记》1970年3月12日至3月16日。重点为3月12日李敖4点40接蕾下课、红车因驾驶不在未能尾随、8点后两班人马皆在并与“协买番茄者”对话；3月13日世君约李敖去美军顾问团看车、红车不得入且消失、楼下疑有蓝车、下午接蕾在中山桥摆脱跟踪、夜2时接蒋芸长途电话谈被看管近况及胡菊人等发起反台独签名运动；3月14日至15日李敖记录小蕾家已有管区警察去过并称“李敖是卧底的匪谍”；3月16日记录监视换新面孔及兴业15-03042号天蓝色车。",
+    "added": 7,
+    "revised": 0,
+    "currentBookTotal": 133,
+    "notes": [
+      "3月13日分为看车、蓝车、脱梢、长途电话四条，分别对应不同动作与信息来源。",
+      "“卧底的匪谍”作为李敖记录到的小蕾家警察言语保留，按敏感事实处理，不扩写。",
+      "3月16日将新面孔与天蓝色车合并为一条监视形态变化节点。"
+    ],
+    "nextRecommendation": "下一轮建议继续《软禁残记》3月17日至3月22日。3月17日夜送小蕾，蓝车采包抄式跟法，李敖记录可能因昨晚被甩掉而提高警觉；3月18日至20日若无正文可略过或并入空白连续段；3月21日记录跟踪者大换班、生面孔增多、魏胖早上才走、昨晚车中两组四人；3月22日蕾转述管区局长告诉她父亲李敖是卧底匪谍、魏廷朝常去李敖家开会且这些人快要被抓。"
+  },
+  {
+    "date": "2026-05-13",
+    "round": "li-ao-micang-diary-round016-ruanjin-canjii-lines-423-439-mar17-mar22",
+    "book": "李敖秘藏日记",
+    "scope": "《李敖秘藏日记》第十六轮，处理《软禁残记》1970年3月17日至3月22日。重点为3月17日李敖夜送小蕾时蓝车采包抄式跟法；3月21日李敖记录跟踪者大换班、都是生面孔、魏胖早上才离开、昨晚监视车中共有两组四人；3月22日李敖听蕾转述管区局长告诉其父亲，称李敖是卧底匪谍、魏廷朝常去李敖家开会、这些人快要被抓。",
+    "added": 3,
+    "revised": 0,
+    "currentBookTotal": 136,
+    "notes": [
+      "3月18日至20日原文只有日期无正文，本轮不强造空白事件。",
+      "3月22日写作上明确为李敖听蕾转述的警语，不把警方说法当作事实陈述。",
+      "3月21日保留跟踪者大换班、魏胖早上离开和两组四人三个具体事实，未把“恐熟手日久生玩忽之心”等推测单列。"
+    ],
+    "nextRecommendation": "下一轮建议继续《软禁残记》3月23日至3月28日。3月23日至24日可处理李敖到法院后监视者再跟小八、小八修车时被偷问何时修好、夜里魏廷朝和谢聪敏来、1时后小八和老段被跟且小八甩掉；3月25日处理管区警察来查李敖在不在，以及公文称有偷渡可能者共十九人；3月26日至27日处理谢聪敏晚上来小坐，并因听说李敖家被录音而来问；3月28日需先读后文密度再决定是否并入。"
+  },
+  {
+    "date": "2026-05-13",
+    "round": "li-ao-micang-diary-round017-ruanjin-canjii-lines-441-463-mar23-mar28",
+    "book": "李敖秘藏日记",
+    "scope": "《李敖秘藏日记》第十七轮，处理《软禁残记》1970年3月23日至3月28日。重点为3月24日李敖到法院后监视者改跟小八、小八修车被偷问何时修好、夜魏廷朝和谢聪敏来访、1时后小八和老段被跟且小八甩掉；3月25日管区警察来查李敖在不在、公文称有偷渡可能者共十九人；3月27日谢聪敏来问李敖家被录音；3月28日老郭来便饭并谈被调查局关押查彭事、李敖夜间摆脱监视去蕾家、在蕾家斥责管区警察并绕路返家。",
+    "added": 8,
+    "revised": 0,
+    "currentBookTotal": 144,
+    "notes": [
+      "3月23日、26日只有日期无正文，本轮不造空白事件。",
+      "3月28日密度较高，拆为老郭便饭、李敖摆脱跟踪去蕾家、李敖在蕾家斥管警三条。",
+      "涉及老郭被调查局讯问与公文十九人，只写成李敖听闻/记录，不扩写为旁人主线。"
+    ],
+    "nextRecommendation": "下一轮建议继续《软禁残记》3月29日至4月15日及其后公文摘录开头。3月29日有怪电话自称谢聪敏表弟询问谢是否在李敖家，李敖拒答；同日李敖记录被禁足足两个月；随后进入“劫余的一天日记”4月15日，管区警察秘示四份公文，先处理调查重点中的女友及女友之父、孟祥柯与“小梅”、林顺钦、王晓波来电与“没饭吃去做匪谍”、魏电话说“张委员”自意大利回等项目。公文摘录信息很密，下一轮建议先处理到 line 485 或再多读一段后收束。"
+  },
+  {
+    "date": "2026-05-13",
+    "round": "li-ao-micang-diary-round018-ruanjin-canjii-lines-465-493-mar29-apr15-documents",
+    "book": "李敖秘藏日记",
+    "scope": "《李敖秘藏日记》第十八轮，处理《软禁残记》1970年3月29日与4月15日公文摘录开头。重点为3月29日怪电话自称谢聪敏表弟并问谢聪敏是否在李敖家、李敖拒答；同日李敖记录被禁足足两个月；4月15日管区警察秘示四公文，李敖记录公文由市警局局长罗扬鞭画行、大安分局李凤超拟办，并摘录调查女友及女友之父、孟祥柯与“小梅”、林顺钦、王晓波来电、“没饭吃去做匪谍”、魏电话说“张委员”自意大利回等项目；最后记录这些公文多来自电话偷听且听不清。",
+    "added": 7,
+    "revised": 0,
+    "currentBookTotal": 151,
+    "notes": [
+      "公文调查项目统一写为李敖记录公文内容，不把公文怀疑对象写成既成事实。",
+      "4月15日已有姚从吾去世旧事件，但本轮为《软禁残记》公文摘录，性质不同，不合并。",
+      "涉及‘没饭吃去做匪谍’等敏感话语按原文保留，作为公文窃听误读链的一部分。"
+    ],
+    "nextRecommendation": "下一轮建议继续《软禁残记》4月15日两封劫余书信。先处理致魏廷朝信：李敖称软禁使若干成绩具体化，内容包括苦其心志锻炼、专注世界性大目标、人情冷暖测验、体认受难榜样、能过孤独生活并全天候做工，以及引用罗素谈伟大生活中的无趣阶段；注意这些多为李敖写给魏廷朝的信中自述/论述，可聚合为写信事件和信中要点，不宜拆成心理事件。之后再读第二封信开头决定是否同轮继续。"
+  },
+  {
+    "date": "2026-05-13",
+    "round": "li-ao-micang-diary-round019-ruanjin-canjii-lines-495-543-oct29-letters",
+    "book": "李敖秘藏日记",
+    "scope": "《李敖秘藏日记》第十九轮，处理《软禁残记》劫余两封信，署日1970年10月29日。重点为李敖夜3时致魏廷朝信，称软禁使苦其心志、世界性大目标研究、人情冷暖测验、受难榜样体认、孤独生活和全天候做工具体化，并引用罗素谈伟大生活中的无趣阶段；同日致谢聪敏信说明自己代拟彭太太致严家淦信，主旨为不失立场、不亢不卑；以及代拟信正文围绕彭太太及子女出境，提出政治问题非法律问题、有例可援非破例、度量问题非人质问题三点。",
+    "added": 3,
+    "revised": 0,
+    "currentBookTotal": 154,
+    "notes": [
+      "两封信均按信末署日1970年10月29日入库，不挂到4月15日。",
+      "致魏廷朝信的自述/论述聚合为写信事件，不拆成心理事件。",
+      "代拟彭太太信保留三点主张与出境诉求，作为李敖代拟文本动作处理。"
+    ],
+    "nextRecommendation": "下一轮建议做《软禁残记》本篇 closeout：复查本篇从1月26日至3月29日、4月15日公文和10月29日两封信的时间顺序、交叉引用和标题一致性；重点查是否仍有“李敖想/觉得/认为”等心理事件残留、displayDate 是否纯时间、3月28日敏感辱骂是否需要摘要降噪但保留事实、4月15日公文是否都明确写成李敖记录/公文调查而非事实断语。若 closeout 干净，再建议转入《李敖秘藏日记》下一章节。"
+  },
+  {
+    "date": "2026-05-13",
+    "round": "li-ao-micang-diary-round020-ruanjin-canjii-closeout",
+    "book": "李敖秘藏日记",
+    "scope": "《李敖秘藏日记》《软禁残记》全篇 closeout。复查范围覆盖1970年1月26日至3月29日连续软禁日记、4月15日公文摘录、1970年10月29日两封劫余书信及1983年5月8日发表说明。",
+    "added": 0,
+    "revised": 0,
+    "currentBookTotal": 154,
+    "notes": [
+      "全量校验通过：本书154条，20个采集轮次；全库无重复ID；本书无缺失交叉引用。",
+      "displayDate 均为纯时间；未发现“李敖想/觉得/认为/感觉/以为/考虑/盼”等心理事件残留。",
+      "3月28日敏感骂语已保留为事实动作的摘要化表述，没有逐字扩写；4月15日公文均明确写为李敖记录/公文调查，而非事实断语。",
+      "TXT/CSV 导出完整覆盖本书所有事件，并确认关键内容：录音、卧底匪谍、偷渡可能者十九人、秘示四公文、没饭吃去做匪谍、10月29日两封信。"
+    ],
+    "nextRecommendation": "下一轮建议转入《李敖秘藏日记》下一章节。开工前先读取目录和下一章前80至120行，确认章节性质、时间跨度和是否仍为日记/书信/附录材料；若是回忆性或信件材料，继续按“李敖记录/写信/听闻/转述/公文调查”标明信息来源。"
+  },
+  {
+    "date": "2026-05-13",
+    "round": "li-ao-micang-diary-round021-jinlan-round001-lines-1-113",
+    "book": "李敖秘藏日记",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/006.李敖秘藏日记/002.金兰琐碎.txt",
+    "scope": "《李敖秘藏日记》《金兰琐碎》第一轮，处理开篇说明及1978年1月11日至8月29日若干可落为李敖行动/记录的札记。重点为交代家人挡客与电话规则、剪存逃港难民报道、记录台湾人权广告战、7月6日外出办牙和银行借款、记录陈菊案、8月15日吴俊才来访邀任《中央日报》主笔并被李敖拒绝、8月27日观看片段纪录片、8月29日记录读者郑惠光致母亲购书信，以及1985年6月6日决定发表金兰札记。",
+    "added": 9,
+    "revised": 0,
+    "currentBookTotal": 163,
+    "notes": [
+      "本轮剔除《大智慧的选择》《最后的大觉悟》《大警觉》等纯修养/心理判断段，不把“李敖想/觉得/认为”式内容独立成事件。",
+      "来信材料压缩为一条“李敖记录读者来信”，没有逐段拆信。",
+      "8月15日吴俊才来访与1976年警总招待所会谈建立交叉引用，保留重复关系而不合并。"
+    ],
+    "nextRecommendation": "下一轮建议继续《金兰琐碎》第二段，处理9月17日至10月19日前后：9月18日“六百字纪律”若作为写作草稿动作可收入；10月11日至10月19日《困居记奇》逐日材料较密，可重点收外出购物、整理房间、修电视/糊橱门、孟能来访、装电视天线、郑律师西装料与法律问题等具体行动，继续排除纯心理修养段。"
+  },
+  {
+    "date": "2026-05-13",
+    "round": "li-ao-micang-diary-round022-jinlan-round002-lines-125-235",
+    "book": "李敖秘藏日记",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/006.李敖秘藏日记/002.金兰琐碎.txt",
+    "scope": "《李敖秘藏日记》《金兰琐碎》第二轮，处理9月17日至10月19日。9月17日纯情绪修养段不收入；9月18日收入李敖写“六百字纪律”草稿；10月11日多为修正生活与旁人琐事，未收；10月12日至10月19日重点收入台风漏水后买吸潮机和猫书、处理陆善仪来电、整理房间与改壁橱、糊壁橱与观影、移电视和理发看片、调整运动日课、孟能来访、清理剪报、托李放送郑律师西装料并请教法律问题、继续糊橱门、装电视天线、收回入狱后失踪订书机、拟定稿书目等具体行动。",
+    "added": 15,
+    "revised": 0,
+    "currentBookTotal": 178,
+    "notes": [
+      "继续排除“修炼自己到第一流境界”“水准以下情绪”等纯心理/修养事件。",
+      "陆善仪来电按“李敖处理来电/未回电”落为具体交往处理，不收入其心理判断。",
+      "同日同类家务与观影适度合并，写作、法律、来访和旧物线索单独保留。"
+    ],
+    "nextRecommendation": "下一轮建议继续《金兰琐碎》第三段，从10月20日读起，至少处理10月20日至10月24日或更后。重点关注金兰隐居中的日课、写作/书目安排、具体来访、家庭事务、剪报读报与出门活动；仍然不要把自我修养判断、情绪判断、单纯政治评论拆成事件。"
+  },
+  {
+    "date": "2026-05-13",
+    "round": "li-ao-micang-diary-round023-jinlan-round003-lines-236-337",
+    "book": "李敖秘藏日记",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/006.李敖秘藏日记/002.金兰琐碎.txt",
+    "scope": "《李敖秘藏日记》《金兰琐碎》第三轮，处理《困居记奇》1978年10月19日后半至10月29日。重点收入孟能谈贷款难、李敖为猫做窝、10月21日研究东京大审、孟能来访谈基金会信与《文星》旧事、调整小文起床时间、记录慈湖圣火电视画面、10月22日调钢琴并完成第一册札记存件、与小刘看房看鱼池购物散步、看齐格菲传记电影、10月23日记金兰一年、10月25日写毛笔日记、10月27日重订生活表并做准产品、10月28日婉拒胡金铨会面、与小文打赌小猫数、小彭修电视并送印泥、记录《中央日报》邓小平访田中报道、夜看《步步惊魂》、10月29日与小刘小文逛台大。",
+    "added": 18,
+    "revised": 0,
+    "currentBookTotal": 196,
+    "notes": [
+      "10月24日主要是替他人与十楼事伤神，重心不在李敖具体行动，本轮不收。",
+      "旁人来访和新闻材料均写成李敖接待/记录/观看，不把第三方内容断言成李敖亲历。",
+      "猫事、观影和家务按日常事件收，但相邻内容适度合并，避免过碎。"
+    ],
+    "nextRecommendation": "下一轮建议继续《金兰琐碎》第四段，从12月9日读起，先处理12月9日至12月16日：重点关注李敖重定写作与隐居安排、理发省钱、写《死囚的表》书名、拟化名、收到二姐衣服、李放买金石工具、重定每天写作、以及12月16日中美断交消息下李敖听广播和外出观察台大师大附近反应。"
+  },
+  {
+    "date": "2026-05-13",
+    "round": "li-ao-micang-diary-round024-jinlan-round004-lines-339-478",
+    "book": "李敖秘藏日记",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/006.李敖秘藏日记/002.金兰琐碎.txt",
+    "scope": "《李敖秘藏日记》《金兰琐碎》第四轮，处理1978年12月9日至12月16日。重点收入12月9日李敖写《大开始》和《自画一页》、12月10日理发省钱与《死囚的表》写作计划、12月11日拟化名、12月12日记录二姐手做上衣与金石工具、12月14日重定每天写作、12月16日听美国承认中共/中美断交广播、与小刘外出观察台大师大附近反应，以及记录台大“全体同学”传单。",
+    "added": 12,
+    "revised": 0,
+    "currentBookTotal": 207,
+    "notes": [
+      "12月9日和12月14日均按“李敖写/重定计划”处理，不把认清、感到、盼望等心理判断拆成事件。",
+      "12月16日政治材料只按李敖听广播、外出观察、记录传单处理，不把传单正文逐条拆为李敖事件。",
+      "12月13日主要是打岔原则与时间管理警觉，缺少明确外部动作，本轮未单独收入。"
+    ],
+    "nextRecommendation": "下一轮建议继续《金兰琐碎》第五段，从12月17日处理到12月29日篇末：重点看张晓风文章记录、改变写法/先写对话体、fiction 与 non-fiction 写法选择、签证排队材料、踩花生与穿孝剪报、高速脱产新闻，以及1978岁暮的隐居/工作量安排。完成后可做《金兰琐碎》全章 closeout。"
+  },
+  {
+    "date": "2026-05-13",
+    "round": "li-ao-micang-diary-round025-jinlan-round005-lines-479-559",
+    "book": "李敖秘藏日记",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/006.李敖秘藏日记/002.金兰琐碎.txt",
+    "scope": "《李敖秘藏日记》《金兰琐碎》第五轮，处理1978年12月17日至12月29日篇末。重点收入李敖记录张晓风断交文章、改变写法为先写对话体、整理 fiction/non-fiction 写作原则、记录小刘转述美国大使馆签证排队、记录《中国时报》踩花生与穿孝照片、记录郝尔布鲁克关于使馆与双橡园财产处置的答复，以及列出1978岁暮的金兰隐居和六小时纯写规程。",
+    "added": 7,
+    "revised": 0,
+    "currentBookTotal": 214,
+    "notes": [
+      "张晓风、签证队伍、踩花生、郝尔布鲁克等第三方材料均写成李敖记录/转述来源，不把旁人行为改写成李敖亲历。",
+      "12月17日与12月19日的写作方法条目按李敖整理写作安排处理，未把“感到”“最好”等心理判断单独拆成事件。",
+      "12月29日岁暮段只收入不出门、六小时纯写、简化俗扰与新闻等可执行规程；清气、信仰等纯修养判断不另立事件。"
+    ],
+    "nextRecommendation": "下一轮建议做《金兰琐碎》全章 closeout：复核本章从1月11日至12月29日及1985年6月6日附记的事件完整性、重复项和交叉引用；重点查12月9日至12月29日写作/隐居规程是否有重叠可合并，检查 displayDate 是否都是纯时间，导出 TXT/CSV 是否完整覆盖本章新增事件。closeout 干净后，再转入《李敖秘藏日记》下一章。"
+  },
+  {
+    "date": "2026-05-13",
+    "round": "li-ao-micang-diary-round026-jinlan-closeout",
+    "book": "李敖秘藏日记",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/006.李敖秘藏日记/002.金兰琐碎.txt",
+    "scope": "《李敖秘藏日记》《金兰琐碎》全章 closeout。复核范围覆盖1978年1月11日至12月29日的金兰札记，以及1985年6月6日附记；重点检查全章60条事件的重复项、交叉引用、displayDate纯时间、心理事件残留、第三方材料口径和导出完整性。",
+    "added": 0,
+    "revised": 5,
+    "currentBookTotal": 214,
+    "notes": [
+      "全章维持60条事件；未发现重复ID、缺失交叉引用、displayDate夹带事件描述，TXT/CSV均完整覆盖本章事件。",
+      "未发现“李敖想/觉得/认为/感觉/以为/考虑/盼”等纯心理事件残留；12月29日岁暮段只保留可执行的隐居/工作规程。",
+      "将5个标题从旁人动作口径改为李敖口径：孟能来访、李放送订书机、小彭修电视等条目改写为李敖接待/收到/听谈。",
+      "12月9日、12月14日、12月17日、12月19日、12月29日的写作与隐居规程保持分条，同时用交叉引用归档重叠关系，不另造重复事件。"
+    ],
+    "nextRecommendation": "下一轮建议转入《李敖秘藏日记》下一章。开工前先读取目录与下一章前120行，确认章节性质、时间跨度和是否仍为日记/札记/书信/附录材料；若为回忆或他人材料，继续按“李敖记录/写信/听闻/转述/公文调查”标明来源，避免把旁人行为写成李敖亲历。"
+  },
+  {
+    "date": "2026-05-13",
+    "round": "li-ao-micang-diary-round027-luxun-grandson-round001-lines-1-47",
+    "book": "李敖秘藏日记",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/006.李敖秘藏日记/003.杂评鲁迅和他孙子.txt",
+    "scope": "《李敖秘藏日记》《杂评鲁迅和他孙子》第一轮兼全章处理。本章为1982年9月23日日记式评论，全文仅约47行；本轮收入李敖1958年5月4日听胡适讲《中国文艺复兴运动》、1982年9月23日傍晚在阳明山看山岚落日、当日写《杂评鲁迅和他孙子》、以及记录并批评《联合报》周令飞谈话。",
+    "added": 4,
+    "revised": 0,
+    "currentBookTotal": 218,
+    "notes": [
+      "鲁迅、周令飞、胡适等材料均按李敖听闻/回记/写作/记录处理，不把第三方内容写成李敖亲历。",
+      "胡适在钱思亮家单独见李敖、李敖曾对邓维桢说法很详细，正文没有给出具体日期，本轮仅并入1982年9月23日写作事件摘要或交叉引用，不另造日期。",
+      "本章纯评论判断较多，未把“我想我会”等心理判断单列为事件。"
+    ],
+    "nextRecommendation": "下一轮建议做《杂评鲁迅和他孙子》closeout：重点复核这4条是否足以覆盖本章全部可落库动作，检查1958年5月4日胡适演讲是否需与《大学后期日记乙集》胡适演讲相关条目建立额外交叉引用；若干净，可转入下一章《5月26的日记》。"
+  },
+  {
+    "date": "2026-05-14",
+    "round": "li-ao-micang-diary-round028-luxun-grandson-closeout",
+    "book": "李敖秘藏日记",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/006.李敖秘藏日记/003.杂评鲁迅和他孙子.txt",
+    "scope": "《李敖秘藏日记》《杂评鲁迅和他孙子》全章 closeout。复核全文1至47行，确认本章为1982年9月23日日记式评论，当前4条事件覆盖李敖回记听胡适演讲、阳明山傍晚日常、写作评论和记录周令飞谈话四类可落库动作。",
+    "added": 0,
+    "revised": 0,
+    "currentBookTotal": 218,
+    "notes": [
+      "本章事件维持4条；未发现遗漏的李敖当事人动作。",
+      "1958年5月4日胡适《中国文艺复兴运动》演讲与既有胡适演讲条目为不同日期、不同演讲，不属于重复项，本轮不加交叉引用。",
+      "钱思亮家单独谈话和邓维桢谈话没有明确日期，保留在1982年写作事件摘要/交叉引用中，不另造时间。",
+      "全文评论判断较多，未把“我想我会”等心理判断单独立项；周令飞材料保持李敖记录/评论口径。"
+    ],
+    "nextRecommendation": "下一轮建议转入《李敖秘藏日记》下一章《5月26的日记》第一轮。先读全文或前120行确认年份与材料性质；标题像单日材料，若篇幅短可一轮处理并准备 closeout。重点继续抓李敖当天行动、记录、来信/来电、写作、外出与具体交往，排除纯心理判断。"
+  },
+  {
+    "date": "2026-05-14",
+    "round": "li-ao-micang-diary-round029-may26-round001-lines-1-35",
+    "book": "李敖秘藏日记",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/006.李敖秘藏日记/004.5月26的日记.txt",
+    "scope": "《李敖秘藏日记》《5月26的日记》第一轮兼全文处理。处理1983年5月26日单日日记1至35行，收入李敖5点起床做工、为《前进》买报并写《长程射精和中国文化》、听圣康光珪报告《老儿·小儿·病》在装订厂被抢并讲吴汉故事、晚饭前给前进社写信、夜间做工到11点。",
+    "added": 5,
+    "revised": 1,
+    "currentBookTotal": 223,
+    "notes": [
+      "《千秋评论》二十二期被抢、赶写二十三期与《千秋万岁乌鸦求是合集》既有1983年5月26日条目重叠，已互设交叉引用，不作为无关联重复项处理。",
+      "正文中的查禁公文按李敖获知/记录材料处理，不把公文内容拆成李敖亲历事件。",
+      "侯贵生新闻涉及敏感内容，但本条核心是李敖读报并写稿，按事实保留且不扩写细节。"
+    ],
+    "nextRecommendation": "下一轮建议做《5月26的日记》closeout：复核5条是否覆盖全文动作，重点查抢书事件与《千秋万岁乌鸦求是合集》交叉引用是否充分、是否需要把“决定赶出二十三期”单独保留或维持在抢书报告事件摘要中；若干净，可转入下一章《“黑军师”手记》。"
+  },
+  {
+    "date": "2026-05-14",
+    "round": "li-ao-micang-diary-round030-may26-closeout",
+    "book": "李敖秘藏日记",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/006.李敖秘藏日记/004.5月26的日记.txt",
+    "scope": "《李敖秘藏日记》《5月26的日记》全章 closeout。复核全文1至35行，确认本章为1983年5月26日单日日记，当前5条事件覆盖清晨做工、为《前进》写稿、得知并处理装订厂抢书、写信给前进社、夜间做工五类可落库动作。",
+    "added": 0,
+    "revised": 0,
+    "currentBookTotal": 223,
+    "notes": [
+      "本章事件维持5条；未发现遗漏的李敖当事人动作。",
+      "“决定立刻赶出《千秋》第二十三期来垫档”已保留在抢书报告事件摘要中，并与《千秋万岁乌鸦求是合集》《因祸为福说》既有1983年5月26日条目双向交叉引用；不再单独拆条，以免重复。",
+      "查禁命令和装订厂抢书细节按李敖中午获知/记录处理；第三方行动和公文内容不另拆为李敖亲历事件。",
+      "全章无“李敖想/觉得/认为”等纯心理事件入库；侯贵生新闻只作为李敖读报写稿触发点保留。"
+    ],
+    "nextRecommendation": "下一轮建议转入《李敖秘藏日记》下一章《“黑军师”手记》第一轮。先读取全文或前160行确认年份、篇幅和材料性质；标题像专题手记，重点抓李敖写作、记录、得知、来往和具体办刊/政治事件，旁人材料继续用“李敖记录/转述”口径。"
+  },
+  {
+    "date": "2026-05-14",
+    "round": "li-ao-micang-diary-round031-black-strategist-round001-lines-1-33",
+    "book": "李敖秘藏日记",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/006.李敖秘藏日记/005.“黑军师”手记.txt",
+    "scope": "《李敖秘藏日记》《“黑军师”手记》第一轮兼全文处理。处理1983年9月9日日记及9月13日补记1至33行，收入1982年11月21日李敖致信邓维桢、1983年9月8日写完《砸掉那铜像！》、9月9日凌晨写完《党国元老的几副嘴脸》《肚子疼的革命党》并当天完成四文、林正杰转来党外编辑作家联谊会请帖而李敖不去、9月13日补记《中国时报》党外编辑作家联谊会报道并回应“黑军师”说法。",
+    "added": 5,
+    "revised": 0,
+    "currentBookTotal": 228,
+    "notes": [
+      "党外编辑作家联谊会成立、党外后援会争议等第三方政治材料均按李敖收到请帖/补记报道/回应说法处理，不写成李敖参会亲历。",
+      "1982年11月21日致邓维桢信与既有《注意邓维桢谈话》建立交叉引用；二者主题相邻但日期和文本不同，不合并。",
+      "9月9日写作密集，四篇文章汇总为一条“完成四文”，避免把同一连日写作计划拆得过碎。"
+    ],
+    "nextRecommendation": "下一轮建议做《“黑军师”手记》closeout：复核5条是否覆盖全文动作，重点看9月8日《砸掉那铜像！》与9月9日四文是否拆分适度、9月13日补记是否保持李敖记录口径；干净后可转入下一章《独游“太原五百完人成仁招魂冢”》。"
+  },
+  {
+    "date": "2026-05-14",
+    "round": "li-ao-micang-diary-round032-black-strategist-closeout",
+    "book": "李敖秘藏日记",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/006.李敖秘藏日记/005.“黑军师”手记.txt",
+    "scope": "《李敖秘藏日记》《“黑军师”手记》全章closeout。复核1983年9月9日日记与1983年9月13日补记1至33行，确认当前5条事件覆盖1982年11月21日致信邓维桢、1983年9月8日写完《砸掉那铜像！》、9月9日凌晨及当天完成四文、拒赴党外编辑作家联谊会筹备会、9月13日补记《中国时报》报道并回应“黑军师”说法。",
+    "added": 0,
+    "revised": 0,
+    "currentBookTotal": 228,
+    "notes": [
+      "本章事件维持5条；未发现遗漏的李敖当事人动作。",
+      "9月8日《砸掉那铜像！》与9月9日四文保持分条：前者为前一日完成单文，后者为凌晨写完两文并当天完成四文；二者用交叉引用归档，不合并也不重复扩写。",
+      "党外编辑作家联谊会成立大会及后援会争议均保持李敖收到请帖、拒赴、补记报道、回应“黑军师”说法的口径，不把旁人会议活动写成李敖亲历。",
+      "全章无“李敖想/觉得/认为/感觉/以为/考虑/盼”等纯心理事件入库；displayDate均为纯时间；TXT/CSV导出覆盖本章5条事件。"
+    ],
+    "nextRecommendation": "下一轮建议转入《李敖秘藏日记》下一章《独游“太原五百完人成仁招魂冢”》第一轮。先读取全文或前160行确认时间跨度与材料性质；题名像游记/参访记，重点抓李敖实际出游、到访地点、见闻记录、题记写作、与历史人物/碑冢材料的记录口径，避免把史料正文当成李敖亲历。"
+  },
+  {
+    "date": "2026-05-14",
+    "round": "li-ao-micang-diary-round033-yuanshan-martyrs-round001-lines-1-19",
+    "book": "李敖秘藏日记",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/006.李敖秘藏日记/006.独游“太原五百完人成仁招魂冢”.txt",
+    "scope": "《李敖秘藏日记》《独游“太原五百完人成仁招魂冢”》第一轮兼全文处理。处理1984年5月12日日记与1984年6月7日补记1至19行，收入李敖午后独游圆山招魂冢、转录并评论阎锡山碑文、补记阎锡山连坐统治与阎家撤离、补记国民党对“活先烈”的处理四类李敖动作/记录。",
+    "added": 4,
+    "revised": 2,
+    "currentBookTotal": 232,
+    "notes": [
+      "碑文和青训队函均按李敖转录/补记/评论处理，不把史料正文改写成李敖亲历事件。",
+      "5月12日圆山独游与《上山·上山·爱》既有1984连载查禁节点、2011年《第73烈士》圆山忠烈祠取材节点建立交叉引用，作为同一地点和写作取材链的归档，不合并为重复事件。",
+      "6月7日补记分为阎锡山连坐统治与国民党“活先烈”处理两条，均为李敖写作/补记动作；未收入单纯心理判断。"
+    ],
+    "nextRecommendation": "下一轮建议做《独游“太原五百完人成仁招魂冢”》closeout：复核4条是否覆盖全章动作，重点看5月12日独游与碑文转录是否拆分适度、6月7日两条补记是否都保持李敖记录/评论口径，检查与《上山·上山·爱》《第73烈士》圆山链条交叉引用是否足够；若干净，可转入下一章《“统战”也要选择对象的》。"
+  },
+  {
+    "date": "2026-05-14",
+    "round": "li-ao-micang-diary-round034-yuanshan-martyrs-closeout",
+    "book": "李敖秘藏日记",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/006.李敖秘藏日记/006.独游“太原五百完人成仁招魂冢”.txt",
+    "scope": "《李敖秘藏日记》《独游“太原五百完人成仁招魂冢”》全章closeout。复核1984年5月12日日记与1984年6月7日补记1至19行，确认当前4条事件覆盖李敖午后独游圆山招魂冢、转录并评论阎锡山碑文、补记阎锡山连坐统治、补记国民党对“活先烈”的处理。",
+    "added": 0,
+    "revised": 0,
+    "currentBookTotal": 232,
+    "notes": [
+      "本章事件维持4条；未发现遗漏的李敖当事人动作。",
+      "5月12日独游圆山与转录阎锡山碑文性质不同，保持分条；二者以交叉引用归档同日同地关系。",
+      "6月7日补记分为阎锡山连坐统治与国民党对“活先烈”的处理两条，均写成李敖补记/转录/评论，不把史料正文改写成李敖亲历。",
+      "与《上山·上山·爱》1984连载查禁节点、2011年《第73烈士》圆山忠烈祠取材节点已建立交叉引用，保留地点和取材链关系而不合并为重复事件。",
+      "全章无纯心理事件入库；displayDate均为纯时间；TXT/CSV导出覆盖本章4条事件。"
+    ],
+    "nextRecommendation": "下一轮建议转入《李敖秘藏日记》下一章《“统战”也要选择对象的》第一轮。先读取全文或前160行确认材料性质与时间跨度；题名像政论/日记式评论，重点抓李敖写作、听闻、记录、来信来电、具体交往或出版动作，第三方政治材料继续用“李敖记录/转述/评论”口径，避免把旁人政治活动写成李敖亲历。"
+  },
+  {
+    "date": "2026-05-14",
+    "round": "li-ao-micang-diary-round035-united-front-round001-lines-1-13",
+    "book": "李敖秘藏日记",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/006.李敖秘藏日记/007.“统战”也要选择对象的.txt",
+    "scope": "《李敖秘藏日记》《“统战”也要选择对象的》第一轮兼全文处理。处理1984年7月20日日记1至13行，收入李敖接国泰两次来电、下午整理书三小时、傍晚接待文杰章义继平并共进晚餐谈统战对象、回述约1981年与陈映真等饭局中劝离胡秋原、回应沈刚伯关于孤独寂寞的评语、劝章义辞去大学教授职务。",
+    "added": 6,
+    "revised": 0,
+    "currentBookTotal": 238,
+    "notes": [
+      "统战和胡秋原材料均放在李敖晚餐谈话、回述饭局和劝告动作中，不把第三方政治评价拆成旁人事件。",
+      "约1981年陈映真等饭局因正文写“三年前有一天”而采用约略年份，不硬造月日，并与1984年7月20日统战谈话互挂交叉引用。",
+      "沈刚伯评语按章义转述、李敖回应处理；章义辞职段按李敖劝告动作处理，未收入单纯心理判断。"
+    ],
+    "nextRecommendation": "下一轮建议做《“统战”也要选择对象的》closeout：复核6条是否覆盖全章动作，重点看约1981年饭局是否保留约略日期即可、7月20日晚餐谈话是否没有把政论判断拆得过碎、章义与沈刚伯两段是否保持李敖回应/劝告口径；若干净，可转入下一章《代曹禺驳夏志清》。"
+  },
+  {
+    "date": "2026-05-14",
+    "round": "li-ao-micang-diary-round036-united-front-closeout",
+    "book": "李敖秘藏日记",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/006.李敖秘藏日记/007.“统战”也要选择对象的.txt",
+    "scope": "《李敖秘藏日记》《“统战”也要选择对象的》全章closeout。复核1984年7月20日日记1至13行，确认当前6条事件覆盖国泰来电、下午整理书、傍晚文杰章义继平来访共餐并谈统战对象、约1981年与陈映真等饭局中劝离胡秋原、回应沈刚伯评语、劝章义辞去大学教授职务。",
+    "added": 0,
+    "revised": 0,
+    "currentBookTotal": 238,
+    "notes": [
+      "本章事件维持6条；未发现遗漏的李敖当事人动作。",
+      "约1981年饭局仅由正文“三年前有一天”回述，保留约略年份与reported-by-author，不硬造月日。",
+      "7月20日晚餐统战谈话保留为一条总谈话，并用交叉引用归档约1981年饭局、沈刚伯评语回应、劝章义辞职三条支线，未把政论判断过碎拆条。",
+      "沈刚伯评语写成章义转述与李敖回应；章义辞职写成李敖劝告动作；第三方评价和政治判断没有改写成李敖亲历事实。",
+      "全章无纯心理事件入库；displayDate均为纯时间；TXT/CSV导出覆盖本章6条事件。"
+    ],
+    "nextRecommendation": "下一轮建议转入《李敖秘藏日记》下一章《代曹禺驳夏志清》第一轮。先读取全文或前160行确认材料性质、日期和是否为书信/文章稿；重点抓李敖代写、驳论、投稿/发表、收到材料或具体交往动作，若正文大量为替曹禺发言或文学评论，需明确写成“李敖代曹禺写/驳/记录”，不要把曹禺立场直接写成李敖本人事件。"
+  },
+  {
+    "date": "2026-05-14",
+    "round": "li-ao-micang-diary-round037-cao-yu-xia-round001-lines-1-43",
+    "book": "李敖秘藏日记",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/006.李敖秘藏日记/008.代曹禺驳夏志清.txt",
+    "scope": "《李敖秘藏日记》《代曹禺驳夏志清》第一轮兼全文处理。处理1985年1月16日日记1至43行，收入李敖上午清理书、陈资本家送《胡适的日记》影本并稍翻、1月15日经“拿美国护照的女士”收到吴祖光题赠《求凰集》、1月16日摘录曹禺《求凰集》序、核查亚瑟·米勒剧作时间并反驳夏志清对曹禺的说法。",
+    "added": 5,
+    "revised": 0,
+    "currentBookTotal": 243,
+    "notes": [
+      "曹禺序和夏志清文章均按李敖读书、摘录、考证、驳论处理，不把曹禺或夏志清的原文立场改写成李敖亲历事实。",
+      "吴祖光赠书正文写“昨天”转来，落为1985年1月15日；曹禺序摘录与夏志清驳论落在1985年1月16日日记日。",
+      "刘会云看报时指出夏志清弄错，因具体日期不明，保留在1月16日驳论事件摘要中，不另造精确日期事件。"
+    ],
+    "nextRecommendation": "下一轮建议做《代曹禺驳夏志清》closeout：复核5条是否覆盖全章动作，重点看1月15日赠书、1月16日摘录曹禺序与驳夏志清是否拆分适度，刘会云看报判断是否维持在摘要中即可；若干净，可转入下一章《1月的日记》。"
+  },
+  {
+    "round": "li-ao-micang-diary-round038-cao-yu-xia-closeout",
+    "book": "李敖秘藏日记",
+    "chapter": "008.代曹禺驳夏志清",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/006.李敖秘藏日记/008.代曹禺驳夏志清.txt",
+    "scope": "全章 closeout：第1至43行，1985年1月16日日记及昨日收书追记。",
+    "added": 0,
+    "revised": 1,
+    "removed": 0,
+    "currentBookTotal": 243,
+    "currentProjectTotal": 8483,
+    "dataVersion": "2026-05-14-li-ao-micang-diary-cao-yu-xia-closeout",
+    "checks": [
+      "全章维持5条事件：清理书籍、翻胡适日记、收到吴祖光《求凰集》、摘录曹禺序、核查亚瑟·米勒时间以驳夏志清。",
+      "将“李敖由曹禺序想到……”改为“李敖读曹禺序后转入……”，避免心理事件写法。",
+      "曹禺序与夏志清文章均按李敖摘录、核查、驳论处理，不把第三方原文直接扩写为李敖当事人事实。",
+      "刘会云意见保留在驳论摘要中，不另拆为无精确日期事件。",
+      "displayDate 保持纯时间；导出 TXT 与 CSV 需同步刷新。"
+    ],
+    "nextRecommendation": "进入下一章《1月的日记》第一轮；先读清全章范围，再按至少两日或一个自然段组处理，重点抓李敖的写作、读书、会面、电话、收信与具体记录动作。"
+  },
+  {
+    "round": "li-ao-micang-diary-round039-january-round001-lines-1-35",
+    "book": "李敖秘藏日记",
+    "chapter": "009.1月的日记",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/006.李敖秘藏日记/009.1月的日记.txt",
+    "scope": "第一轮：第1至35行，1985年1月1日至1月5日。",
+    "added": 10,
+    "revised": 1,
+    "removed": 0,
+    "currentBookTotal": 253,
+    "currentProjectTotal": 8493,
+    "dataVersion": "2026-05-14-li-ao-micang-diary-january-round001",
+    "checks": [
+      "1月1日至5日共入库10条，覆盖来电、午饭、参访、摘记、会面、慰问、拒见访问团与写作标准。",
+      "纯政治议论不单独成条，均归入来电、参访或日记记录动作的摘要背景。",
+      "1月4日与1月5日两次谢绝南加州台湾同乡会访问团互设交叉引用。",
+      "1月3日再到太原五百完人招魂冢与1984年5月12日独游圆山招魂冢互设交叉引用。",
+      "标题保持简洁，displayDate 保持纯时间。"
+    ],
+    "nextRecommendation": "下一轮继续《1月的日记》1月6日至10日：尚勤长途电话、与郑南榕/导群饭局、天福来电与调停秋镇案、还承厚五十万元、天福夫妇逸洋午饭、小人国新闻剪存、李宁传话约秋镇夫妇来饭、老孟与苏洪月娇来访。"
+  },
+  {
+    "round": "li-ao-micang-diary-round040-january-round002-lines-37-73",
+    "book": "李敖秘藏日记",
+    "chapter": "009.1月的日记",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/006.李敖秘藏日记/009.1月的日记.txt",
+    "scope": "第二轮：第37至73行，1985年1月6日至1月10日。",
+    "added": 7,
+    "revised": 1,
+    "removed": 0,
+    "currentBookTotal": 260,
+    "currentProjectTotal": 8500,
+    "dataVersion": "2026-05-14-li-ao-micang-diary-january-round002",
+    "checks": [
+      "1月6日至10日新增7条，饭局类按同日脉络合并，避免把日常来访拆得过碎。",
+      "天福来电调停秋镇案、天福夫妇逸洋午饭、秋镇夫妇午饭三条互相关联。",
+      "小人国条按李敖剪记与补记处理，不把新闻主体改写成李敖当事行动。",
+      "旧库存在1990年《小人国的对比》，但不是本轮1985年读报剪存的重复。",
+      "标题简洁，displayDate 保持纯时间。"
+    ],
+    "nextRecommendation": "下一轮进入1月11日至12日，这两天政治密度高：黄玉娇与天福电话、公政会党外二字争议、李敖请南榕和导群转告张贵木/尤清、苏洪一家午饭、晚饭与战况回报、送黄玉娇回家，以及1月12日代苏治洋写状子、天福/水扁/逸洋重判、调查书摊、劝秋镇撤案。"
+  },
+  {
+    "round": "li-ao-micang-diary-round041-january-round003-lines-75-101",
+    "book": "李敖秘藏日记",
+    "chapter": "009.1月的日记",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/006.李敖秘藏日记/009.1月的日记.txt",
+    "scope": "第三轮：第75至101行，1985年1月11日至1月12日。",
+    "added": 9,
+    "revised": 4,
+    "removed": 0,
+    "currentBookTotal": 269,
+    "currentProjectTotal": 8509,
+    "dataVersion": "2026-05-14-li-ao-micang-diary-january-round003",
+    "checks": [
+      "1月11日至12日新增9条，覆盖公政会党外二字争议、转告张贵木与尤清、苏洪家午饭、郁赵晚饭、黄玉娇报战况、苏治洋取状子、重判记录、书摊调查、劝秋镇撤案。",
+      "《替苏治洋写状子》旧有署日写作节点不重复造条；本轮只收入苏治洋取件与苏洪月娇道谢，并与旧节点互设交叉引用。",
+      "调停秋镇案链条从1月8日、9日、10日推进到1月12日撤案，相关条目已互设交叉引用。",
+      "法院重判按李敖记录新闻与案情处理，敏感事实保留但不扩写成旁人主线。",
+      "标题简洁，displayDate 保持纯时间，未加入纯心理事件。"
+    ],
+    "nextRecommendation": "下一轮继续1月13日至16日：南榕/世煜/慧玲午饭，1月14日写致《自立晚报》信并面交颜文闩、认识林森鸿陈国祥，天福夫妇逸洋谈坐牢后维持杂志发行，剪记刘宜良案中央日报消息，1月15日兆基晚饭与赵宁邀王小痴小姨劝撤自诉，1月16日拒绝邓维贤《民主政治》封面访问、与老孟老T午饭、荣文夫妇来访、秋镇天福赵宁电话。"
+  },
+  {
+    "round": "li-ao-micang-diary-round042-january-round004-lines-103-137",
+    "book": "李敖秘藏日记",
+    "chapter": "009.1月的日记",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/006.李敖秘藏日记/009.1月的日记.txt",
+    "scope": "第四轮：第103至137行，1985年1月13日至1月16日。",
+    "added": 11,
+    "revised": 3,
+    "removed": 0,
+    "currentBookTotal": 280,
+    "currentProjectTotal": 8520,
+    "dataVersion": "2026-05-14-li-ao-micang-diary-january-round004",
+    "checks": [
+      "1月13日至16日新增11条，覆盖饭局、冷病、写信送《自立晚报》、杂志续发讨论、刘宜良案剪报、劝撤自诉来电、拒《民主政治》访问、来访与夜间电话。",
+      "刘宜良案按李敖剪记《中央日报》消息处理，并与1985年3月23日《这叫什么公开审判？》旧写作节点互设交叉引用。",
+      "黄天福/逸洋坐牢后杂志续发行条与1月12日重判、撤案调停链条互设交叉引用。",
+      "1月16日夜间多方电话合并为一条，避免同夜通信过碎。",
+      "标题简洁，displayDate 保持纯时间，未加入纯心理事件。"
+    ],
+    "nextRecommendation": "下一轮继续1月17日至20日：老T午饭与大台北华城小游，天福/秋镇/苏洪来电，1月18日老T午饭与南榕晚饭，1月19日写致秋镇信并送正本/副本给秋镇、天福、逸洋，永丰邀饭、蔡仲伯同来、夜逛山路到太荣家小坐，1月20日兆基来助校。"
+  },
+  {
+    "round": "li-ao-micang-diary-round043-january-round005-lines-139-159",
+    "book": "李敖秘藏日记",
+    "chapter": "009.1月的日记",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/006.李敖秘藏日记/009.1月的日记.txt",
+    "scope": "第五轮：第139至159行，1985年1月17日至1月20日。",
+    "added": 6,
+    "revised": 2,
+    "removed": 0,
+    "currentBookTotal": 286,
+    "currentProjectTotal": 8526,
+    "dataVersion": "2026-05-14-li-ao-micang-diary-january-round005",
+    "checks": [
+      "1月17日至20日新增6条，覆盖大台北华城小游、天福/秋镇/苏洪来电、老T与郑南榕饭叙、写信送秋镇及副本给天福/逸洋、永丰蔡仲伯晚饭与夜访太荣、兆基助校。",
+      "写致秋镇信与1月12日撤案调停线、1月17日来电线互设交叉引用。",
+      "饭局与来访适度合并，避免日常事件过碎。",
+      "标题简洁，displayDate 保持纯时间，未加入纯心理事件。"
+    ],
+    "nextRecommendation": "下一轮继续1月21日至24日：小苏午饭、导群晚饭，1月22日导群维桢午饭与老孟锡福敏香小王晚饭、慰先来电、夜深南榕来谈水扁方面变化，1月23日南榕伯伦午饭及水扁/性忠夫妇/伯伦/南榕下午来谈近三小时，1月24日买旧百科全书四套、在三德与天福夫妇逸洋谈两小时、夜与天福太太和逸洋太太电话。"
+  },
+  {
+    "round": "li-ao-micang-diary-round044-january-round006-lines-161-187",
+    "book": "李敖秘藏日记",
+    "chapter": "009.1月的日记",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/006.李敖秘藏日记/009.1月的日记.txt",
+    "scope": "第六轮：第161至187行，1985年1月21日至1月24日。",
+    "added": 8,
+    "revised": 3,
+    "removed": 0,
+    "currentBookTotal": 294,
+    "currentProjectTotal": 8534,
+    "dataVersion": "2026-05-14-li-ao-micang-diary-january-round006",
+    "checks": [
+      "1月21日至24日新增8条，覆盖饭局、慰先来电、南榕夜谈水扁变化、水扁等人来谈、购买旧百科全书、三德会谈与夜间电话。",
+      "南榕夜谈与水扁来谈回挂1月12日重判线；南榕提到拒绝访问谈话，回挂1月16日拒《民主政治》访问。",
+      "三德与天福夫妇逸洋谈话回挂1月14日坐牢后杂志续发行线，并与同夜两太太电话互链。",
+      "饭局类按日合并，避免日常节点过碎。",
+      "标题简洁，displayDate 保持纯时间，未加入纯心理事件。"
+    ],
+    "nextRecommendation": "下一轮继续1月25日至28日：维桢晨来提议祝五十大寿而李敖谢绝并说明禁止祝寿，小马与小苏来谈出版计划；1月26日维桢转述刘福增批评并李敖回应，李敖谢绝台中一中同届校友返中祝寿；1月27日益宣来电问为何不到、小苏小马及女友助编《五十文选》、南榕来、尚勤长途电话；1月28日会云长途电话、路遇潘有光太太并当面责备、南榕文茜来看房、祥柯辰旦晚饭。"
+  },
+  {
+    "round": "li-ao-micang-diary-round045-january-round007-lines-189-219",
+    "book": "李敖秘藏日记",
+    "chapter": "009.1月的日记",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/006.李敖秘藏日记/009.1月的日记.txt",
+    "scope": "第七轮：第189至219行，1985年1月25日至1月28日。",
+    "added": 11,
+    "revised": 1,
+    "removed": 0,
+    "currentBookTotal": 305,
+    "currentProjectTotal": 8545,
+    "dataVersion": "2026-05-14-li-ao-micang-diary-january-round007",
+    "checks": [
+      "1月25日至28日新增11条，覆盖谢绝祝寿、出版计划、刘福增批评转述、台中一中同届祝寿谢绝、益宣来电、《五十文选》助编、南榕来访、尚勤与会云长途电话、路遇潘有光太太与看房、祥柯辰旦晚饭。",
+      "祝寿相关三条互链：1月25日谢绝维桢、1月26日谢绝台中一中同届返中祝寿、1月27日益宣来电。",
+      "1月27日尚勤长途电话与1月6日尚勤长途电话互设交叉引用。",
+      "路遇潘有光太太按李敖当面责备动作处理，旁人纠纷只作为摘要背景。",
+      "标题简洁，displayDate 保持纯时间，未加入纯心理事件。"
+    ],
+    "nextRecommendation": "下一轮继续1月29日至31日，并视长度可进入2月1日开头：1月29日市面搜查《千秋》四十期、夜《万岁》十四期完稿；1月30日导群送书六册、与老T午饭、取老T稿信、买蓝色长毛衣并收到李宁称谢、夜《万岁》十四期大致编好；1月31日天福电话谈明天宣判后坐牢，刘宜良案大法庭公开审判，下午去《前进》社，劳政武写信道歉，晚上为自己五十岁写打油诗。"
+  },
+  {
+    "round": "li-ao-micang-diary-round046-january-round008-lines-221-257",
+    "book": "李敖秘藏日记",
+    "chapter": "009.1月的日记",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/006.李敖秘藏日记/009.1月的日记.txt",
+    "scope": "第八轮：第221至257行，1985年1月29日至1月31日，完成1月日记正文末尾。",
+    "added": 12,
+    "revised": 3,
+    "removed": 0,
+    "currentBookTotal": 317,
+    "currentProjectTotal": 8557,
+    "dataVersion": "2026-05-14-li-ao-micang-diary-january-round008",
+    "checks": [
+      "1月29日至31日新增12条，覆盖《千秋》四十期被搜、《万岁》十四期完稿、导群送书、与南榕盖世午饭并劝盖世、环亚会谈、骆明道来电、斯坦伯格漫画题诗、陈启礼录音带剪报、曾心仪遭辞退后致电、南榕来访、耿荣水电话、筱峰限时信。",
+      "江南案相关条目与1月14日剪报、1月30日骆明道来电、1月31日斯坦伯格漫画题诗及《千秋万岁乌鸦求是合集》公开审判事件互设交叉引用。",
+      "耿荣水电话与1月4日蔡仁坚午饭中林正杰未探望事件互设交叉引用，归入同一党外交友情义脉络。",
+      "上一轮日志中的下一轮建议曾误带非本章内容，本轮按实际1月日记末尾文本校正执行。",
+      "标题保持简洁，displayDate 只保留纯时间；未收入单纯心理事件。"
+    ],
+    "nextRecommendation": "下一轮建议做《李敖秘藏日记》009.1月的日记全章 closeout：回查1月1日至31日新增条目，重点检查重复来电/来访是否应压缩为交叉引用、江南案与《万岁》《千秋》出版线是否互链完整、displayDate 是否全为纯时间，并刷新导出。"
+  },
+  {
+    "round": "li-ao-micang-diary-round047-january-closeout",
+    "book": "李敖秘藏日记",
+    "chapter": "009.1月的日记",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/006.李敖秘藏日记/009.1月的日记.txt",
+    "scope": "全章 closeout：复核1985年1月1日至1月31日已入库条目。",
+    "added": 0,
+    "revised": 5,
+    "removed": 0,
+    "currentBookTotal": 317,
+    "currentProjectTotal": 8557,
+    "dataVersion": "2026-05-14-li-ao-micang-diary-january-closeout",
+    "checks": [
+      "全章共74条，覆盖1月1日至31日日记正文；未发现需要删除的纯心理事件。",
+      "逐条检查 displayDate，均为纯时间，不含事件描述。",
+      "章节内及已涉及跨书交叉引用均有返链；本轮补强《千秋》四十期被搜与《千秋评论》第40期出版、查禁涨价线的互链。",
+      "本轮补强《万岁》十四期完稿与1985年《万岁评论》第十三至二十六期逐期写文字事件的互链。",
+      "保留敏感但属李敖记录/行动的江南案、党外政治、人事批评条目；摘要保持李敖记录或接电语态，不改写为旁人主事件。"
+    ],
+    "nextRecommendation": "下一轮建议转入《李敖秘藏日记》010.2月的日记第一轮，先处理2月1日至2月3日左右：重点看五十岁生日、坐牢宣判/党外案后续、江南案剪报与《前进》社往来，仍按至少两日一轮推进。"
+  },
+  {
+    "round": "li-ao-micang-diary-round048-february-round001-lines-1-21",
+    "book": "李敖秘藏日记",
+    "chapter": "010.2月的日记",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/006.李敖秘藏日记/010.2月的日记.txt",
+    "scope": "第一轮：第1至21行，1985年2月1日至2月3日。",
+    "added": 6,
+    "revised": 3,
+    "removed": 0,
+    "currentBookTotal": 323,
+    "currentProjectTotal": 8563,
+    "dataVersion": "2026-05-14-li-ao-micang-diary-february-round001",
+    "checks": [
+      "2月1日至3日新增6条，覆盖棠仪午饭与日文书、郑南榕夜谈连载《蒋经国传》、申虹命理电话、耀祖来电、2月3日上午三项来访、平景夜谈陈鼓应政治转向。",
+      "2月3日上午来访按同一时段聚合为一条，避免把单纯来访拆得过细，同时保留苏治洋官司、谢凤梅送康白稿、南榕来访三项信息。",
+      "苏治洋官司线回挂1月12日李敖交状子及《千秋万岁乌鸦求是合集》《替苏治洋写状子》节点。",
+      "平景来电与1月1日平景自日本来电互设交叉引用。",
+      "标题简洁，displayDate 只保留纯时间；未收入单纯心理事件。"
+    ],
+    "nextRecommendation": "下一轮建议继续2月4日至2月6日：南榕请尾牙被谢绝、与老孟申虹午饭、永丰送扶轮社政治犯会长夹克、兆基晚饭、南榕锡福来访；2月5日《发扬》被抢、导群来访、出庭、赴维桢处并送钱给胡虚一、黄玉娇来电谈公政会/机场送行；2月6日维桢讨论蓬莱岛案文字、慰先梦后关切来电、许国泰来谈两小时、治洋来、晚饭等。"
+  },
+  {
+    "round": "li-ao-micang-diary-round049-february-round002-lines-23-57",
+    "book": "李敖秘藏日记",
+    "chapter": "010.2月的日记",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/006.李敖秘藏日记/010.2月的日记.txt",
+    "scope": "第二轮：第23至57行，1985年2月4日至2月6日。",
+    "added": 13,
+    "revised": 9,
+    "removed": 0,
+    "currentBookTotal": 336,
+    "currentProjectTotal": 8576,
+    "dataVersion": "2026-05-14-li-ao-micang-diary-february-round002",
+    "checks": [
+      "2月4日至6日新增13条，覆盖谢绝南榕尾牙、老孟申虹午饭、永丰送夹克、兆基晚饭与南榕锡福来访、《发扬》被抢、出庭、送钱给胡虚一、兆基助校、黄玉娇来电、蓬莱岛案文字、慰先来电、力劝许国泰、见小苏与晚饭。",
+      "2月4日晚间兆基晚饭与南榕锡福来访合并为一条，2月5日午前导群来与午餐出庭合并为一条，避免单纯来访过度拆分。",
+      "苏治洋2月6日来访未单独重复建新条，而是作为许国泰谈话背景保留，并给《千秋万岁乌鸦求是合集》既有‘苏治洋到李敖家送来影印全卷’事件补入本章旁证来源。",
+      "《发扬》被抢、黄玉娇来电、许国泰谈话分别回挂1月11日公政会/尤清/党外路线相关条目；兆基助校、慰先来电、胡虚一赠金也回挂对应旧节点。",
+      "标题简洁，displayDate 只保留纯时间；未收入单纯心理事件。"
+    ],
+    "nextRecommendation": "下一轮建议继续2月7日至2月9日：2月7日小女生电话、与维桢导群小魏阿奇午饭并给阿奇二千元买电玩、慰先来电、苏治洋苏洪月娇来、兆基助校；2月8日与林文郎电话提醒政研会登记和张迺良律师、谢绝永丰晚餐、南榕午饭、司马晋等登门拜访；2月9日记录施福财讣文与施启扬、多人来电、旧书店老板娘认出李敖并赠济公圣训，可视长度决定是否只做到2月8日。"
+  },
+  {
+    "round": "li-ao-micang-diary-round050-february-round003-lines-59-143",
+    "book": "李敖秘藏日记",
+    "chapter": "010.2月的日记",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/006.李敖秘藏日记/010.2月的日记.txt",
+    "scope": "第三轮：第59至143行，1985年2月7日至2月9日。",
+    "added": 12,
+    "revised": 9,
+    "removed": 0,
+    "currentBookTotal": 348,
+    "currentProjectTotal": 8588,
+    "dataVersion": "2026-05-14-li-ao-micang-diary-february-round003",
+    "checks": [
+      "2月7日至9日新增12条，覆盖小女生对话、阿奇买电玩赠款、慰先来电、苏治洋苏洪月娇来访、兆基助校、林文郎电话、谢绝永丰晚餐、南榕午饭与崇崧送书、司马晋来访、施福财讣文与施启扬批评、多方来电、旧书店老板娘赠济公圣训。",
+      "2月9日“济公活佛圣训”只按李敖收到、录存并总评处理，不逐条拆成圣训内容事件。",
+      "慰先电话、苏治洋线、兆基助校、尚勤来电均回挂到本章或1月章相关旧节点。",
+      "2月8日谢绝晚餐与司马晋夜访互设交叉引用，作为同日同人不同动作归档。",
+      "标题简洁，displayDate 只保留纯时间；未收入单纯心理事件。"
+    ],
+    "nextRecommendation": "下一轮建议继续2月10日至2月12日：2月10日登恩和小苏来、李敖送登恩古碗一对；2月11日竞学来谈江南案/海外台独同情，与南榕午饭，忙《万岁》十五与《千秋》四十一至近1时完工；2月12日性忠改判、与导群午饭、陈嘉君来电、苏治洋夜来电谈开庭与不上诉抗议、会云和Miles长途电话。"
+  },
+  {
+    "round": "li-ao-micang-diary-round051-february-round004-lines-145-167",
+    "book": "李敖秘藏日记",
+    "chapter": "010.2月的日记",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/006.李敖秘藏日记/010.2月的日记.txt",
+    "scope": "第四轮：第145至167行，1985年2月10日至2月12日。",
+    "added": 8,
+    "revised": 13,
+    "removed": 0,
+    "currentBookTotal": 356,
+    "currentProjectTotal": 8596,
+    "dataVersion": "2026-05-14-li-ao-micang-diary-february-round004",
+    "checks": [
+      "2月10日至12日新增8条，覆盖登恩小苏来访与赠古碗、竞学谈江南案、南榕午饭、《万岁》十五与《千秋》四十一完工、性忠改判、导群午饭与陈嘉君来电、苏治洋夜间来电、会云与Miles长途电话。",
+      "《万岁》十五与《千秋》四十一完工回挂1985年《万岁评论》第十三至二十六期及《千秋评论》第41期出版节点。",
+      "竞学谈江南案回挂1月14日江南案剪报、1月31日陈启礼录音带及《这叫什么公开审判？》写作节点。",
+      "苏治洋夜来电回挂1月12日状子、2月3日/2月7日来访及《拍卷惊奇》节点；不重复旧有写作事件。",
+      "Miles电话中相扑材料按李敖接电话与日记作笑处理，未写成单纯心理事件。"
+    ],
+    "nextRecommendation": "下一轮建议继续2月13日至2月15日：2月13日南榕午饭、陈嘉君来谈留校察看、小文来信、春男来电、登恩夜述林正杰逼债、会云与朝枢长途电话、《今日晚报》南韩国会选举剪报与李敖强硬路线评论；2月14日张春男长谈、南榕来；2月15日可继续视原文密度推进。"
+  },
+  {
+    "round": "li-ao-micang-diary-round052-february-round005-lines-169-213",
+    "book": "李敖秘藏日记",
+    "chapter": "010.2月的日记",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/006.李敖秘藏日记/010.2月的日记.txt",
+    "scope": "第五轮：第169至213行，1985年2月13日至2月15日。",
+    "added": 12,
+    "revised": 14,
+    "removed": 0,
+    "currentBookTotal": 368,
+    "currentProjectTotal": 8608,
+    "dataVersion": "2026-05-14-li-ao-micang-diary-february-round005",
+    "checks": [
+      "2月13日至15日新增12条，覆盖南榕午饭、陈嘉君留校察看、小文来信与春男来电、登恩述林正杰逼债、会云朝枢长途电话、南韩国会选举剪报与强硬路线评论、张春男长谈、2月14日会面晚饭、《前进》涨价评论、2月15日便当午饭、政研会登记阻力转述、万生来电。",
+      "通信类继续压缩：小文来信与春男来电合并，2月14日南榕、为鉴、锡福、文茜合并为同日交游条，避免把来信来电拆得过细。",
+      "《前进》涨价评论回挂林正杰1983年邀李敖为《前进》写稿、《有恩于林正杰的下场》及《为什么涨价？》链条，作为交叉引用处理，不重复旧有写作事件。",
+      "政研会登记阻力回挂1月11日警告尤清、2月5日黄玉娇登记电话、2月6日劝许国泰和2月8日林文郎电话。",
+      "标题保持简洁，displayDate 只保留纯时间；没有把单纯心理活动写成事件。"
+    ],
+    "nextRecommendation": "下一轮建议继续2月16日至2月18日：2月16日永兴代万生取书、李敖亲送钱给胡虚一并到维桢处送书；2月17日波波来、李敖记录《万岁》十五被大搜查禁、兆基/老大哥/登恩送年礼并记录自己送年礼赏钱；2月18日访“潘小姨之夫”、与南榕文茜午饭、载臣志信来访与志信送水仙。"
   }
 ]

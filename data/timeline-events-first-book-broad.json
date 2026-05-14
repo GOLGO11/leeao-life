@@ -1135,7 +1135,22 @@
       "chapter": "008.最后的九日",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/008.最后的九日.txt",
       "line": 3
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖秘藏日记",
+        "chapter": "001.软禁残记",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/006.李敖秘藏日记/001.软禁残记.txt",
+        "lines": [
+          3,
+          5
+        ],
+        "note": "开篇说明彭明敏1970年1月偷渡后，国民党立刻软禁李敖，日夜跟监十四个月。"
+      }
+    ],
+    "crossReferences": [
+      "micang-diary-1983-05-08-records-soft-house-arrest-diary-at-taipei-old-home"
+    ]
   },
   {
     "id": "1972-08-16-yu-changcheng-released",

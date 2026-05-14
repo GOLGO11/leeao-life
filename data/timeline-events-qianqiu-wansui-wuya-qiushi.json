@@ -3807,7 +3807,11 @@
       "chapter": "059.注意邓维桢谈话",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/059.注意邓维桢谈话.txt",
       "line": 55
-    }
+    },
+    "crossReferences": [
+      "micang-diary-1982-09-23-writes-luxun-grandson-critique",
+      "micang-diary-1982-11-21-writes-deng-weizhen-on-political-justice"
+    ]
   },
   {
     "id": "qianqiu-wansui-1982-07-22-031-writes-on-tao-baichuan-kidnapping-students",
@@ -4713,7 +4717,8 @@
       "line": 5
     },
     "crossReferences": [
-      "book5-undated-huang-shicheng-fee-transferred-to-lin-zhengjie"
+      "book5-undated-huang-shicheng-fee-transferred-to-lin-zhengjie",
+      "micang-diary-1985-02-14-records-qianjin-price-note-and-criticizes-lin"
     ]
   },
   {
@@ -5014,7 +5019,8 @@
     "chapterTitle": "因祸为福说",
     "crossReferences": [
       "qianqiu-wansui-1983-05-30-178-finishes-qianqiu-review-23",
-      "qianqiu-wansui-1982-11-23-178-finalizes-turn-calamity-into-blessing"
+      "qianqiu-wansui-1982-11-23-178-finalizes-turn-calamity-into-blessing",
+      "micang-diary-1983-05-26-hears-book-seizure-report-and-tells-wuhan-story"
     ],
     "source": {
       "book": "千秋万岁乌鸦求是合集",
@@ -7279,7 +7285,11 @@
       "chapter": "044.替苏治洋写状子",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/044.替苏治洋写状子.txt",
       "line": 37
-    }
+    },
+    "crossReferences": [
+      "micang-diary-1985-01-12-su-zhiyang-picks-up-pleading",
+      "micang-diary-1985-02-03-receives-zhiyang-xie-fengmei-nanrong-morning-visits"
+    ]
   },
   {
     "id": "qianqiu-wansui-1985-01-25-051-qianqiu-review-40",
@@ -7319,7 +7329,8 @@
     "certainty": "confirmed",
     "crossReferences": [
       "freedom-summoning-1985-01-17-writes-why-price-increase",
-      "freedom-summoning-1985-01-qiangqiu-wansui-raise-price-under-censorship"
+      "freedom-summoning-1985-01-qiangqiu-wansui-raise-price-under-censorship",
+      "micang-diary-1985-01-29-records-qianqiu-issue-40-searches"
     ],
     "source": {
       "book": "千秋万岁乌鸦求是合集",
@@ -7379,6 +7390,13 @@
         "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/045.拍卷惊奇.txt",
         "line": 89,
         "note": "本文署期为1985年2月7日；“昨天”据此推为2月6日。"
+      },
+      {
+        "book": "李敖秘藏日记",
+        "chapter": "010.2月的日记",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/006.李敖秘藏日记/010.2月的日记.txt",
+        "line": 55,
+        "note": "2月6日日记仅记“其间治洋来”，可为《拍卷惊奇》推定的同日来访作旁证。"
       }
     ]
   },
@@ -7421,7 +7439,8 @@
     "certainty": "confirmed",
     "crossReferences": [
       "qianqiu-wansui-1985-01-12-044-kcfpu7lh7ljfg49mnqi1c",
-      "qianqiu-wansui-1985-02-06-045-su-zhiyang-brings-photocopied-case-file"
+      "qianqiu-wansui-1985-02-06-045-su-zhiyang-brings-photocopied-case-file",
+      "micang-diary-1985-02-12-receives-su-zhiyang-call-on-trial-and-appeal-protest"
     ],
     "source": {
       "book": "千秋万岁乌鸦求是合集",
@@ -7470,7 +7489,10 @@
       "chapter": "051.李敖著作年表",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/051.李敖著作年表.txt",
       "line": 105
-    }
+    },
+    "crossReferences": [
+      "micang-diary-1985-02-11-finishes-wansui-15-and-qianqiu-41"
+    ]
   },
   {
     "id": "qianqiu-wansui-1985-03-01-051-publishes-jinzhen-duyuren",
@@ -7653,7 +7675,12 @@
       "chapter": "005.这叫什么公开审判？（李敖·史通）",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/005.这叫什么公开审判？（李敖·史通）.txt",
       "line": 89
-    }
+    },
+    "crossReferences": [
+      "micang-diary-1985-01-14-records-central-daily-news-on-jiangnan-case",
+      "micang-diary-1985-01-31-records-united-daily-news-on-chen-qili-tape",
+      "micang-diary-1985-02-11-jingxue-visits-to-discuss-jiangnan-case-taiwan-independence-sympathy"
+    ]
   },
   {
     "id": "qianqiu-wansui-1985-04-24-007-fifty-retreat-declaration",
@@ -8203,7 +8230,9 @@
     "certainty": "confirmed",
     "crossReferences": [
       "book4-1984-01-wansui-review-starts",
-      "freedom-summoning-1985-01-qiangqiu-wansui-raise-price-under-censorship"
+      "freedom-summoning-1985-01-qiangqiu-wansui-raise-price-under-censorship",
+      "micang-diary-1985-01-29-finishes-wansui-issue-14",
+      "micang-diary-1985-02-11-finishes-wansui-15-and-qianqiu-41"
     ],
     "source": {
       "book": "千秋万岁乌鸦求是合集",
@@ -10145,7 +10174,9 @@
     "certainty": "confirmed",
     "crossReferences": [
       "qianqiu-wansui-1986-05-02-085-cai-renjian-leaves-letter-at-li-home",
-      "qianqiu-wansui-1989-11-13-085-writes-where-cai-renjian-was-wrong"
+      "qianqiu-wansui-1989-11-13-085-writes-where-cai-renjian-was-wrong",
+      "micang-diary-1985-02-13-dengen-reports-lin-zhengjie-debt-pressure",
+      "micang-diary-1985-02-14-records-qianjin-price-note-and-criticizes-lin"
     ],
     "source": {
       "book": "千秋万岁乌鸦求是合集",
