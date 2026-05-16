@@ -570,7 +570,10 @@
       "chapter": "013.软禁（1970-1971·35到36岁）",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/013.软禁（1970-1971·35到36岁）.txt",
       "line": 241
-    }
+    },
+    "crossReferences": [
+      "micang-diary-1985-03-11-lunches-with-xuyi-xiaowu-and-meets-liu-shaotang"
+    ]
   },
   {
     "id": "book4-1971-03-15-li-says-fully-house-arrested",
@@ -761,6 +764,9 @@
         "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/015.千秋万岁编外集/081.火烧岛十载风霜三（李世杰）.txt",
         "line": 87
       }
+    ],
+    "crossReferences": [
+      "micang-diary-1986-02-05-reads-li-shijie-parole-news-on-train"
     ]
   },
   {
@@ -876,6 +882,9 @@
         "line": 3,
         "note": "本卷重述李敖1975年12月22日移送仁爱教育实验所并开始被“洗脑”。"
       }
+    ],
+    "crossReferences": [
+      "micang-diary-1985-03-16-records-renai-villa-wall-and-barbed-wire"
     ]
   },
   {
@@ -1513,7 +1522,12 @@
       "chapter": "018.笔伐（1982-1992·47到57岁）",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/018.笔伐（1982-1992·47到57岁）.txt",
       "line": 21
-    }
+    },
+    "crossReferences": [
+      "micang-diary-1985-03-23-nanrong-brings-dong-guisen-secret-packet",
+      "micang-diary-1985-03-30-minzhong-daily-publishes-dong-guisen-confession",
+      "micang-diary-1985-04-27-records-asian-magazine-jiangnan-report"
+    ]
   },
   {
     "id": "book4-1988-10-01-wuya-review-starts",
@@ -1584,7 +1598,10 @@
       "chapter": "018.笔伐（1982-1992·47到57岁）",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/018.笔伐（1982-1992·47到57岁）.txt",
       "line": 25
-    }
+    },
+    "crossReferences": [
+      "micang-diary-1986-06-02-writes-firebrand-poem-for-nanrong-arrest"
+    ]
   },
   {
     "id": "book4-1989-04-07-zheng-nanjung-self-immolates-source4",
@@ -2423,7 +2440,8 @@
     ],
     "certainty": "confirmed",
     "crossReferences": [
-      "book4-1979-03-26-questions-china-synthetic-rubber-as-shareholder"
+      "book4-1979-03-26-questions-china-synthetic-rubber-as-shareholder",
+      "micang-diary-1985-04-03-stays-at-china-trust-hualien-hotel"
     ],
     "source": {
       "book": "李敖回忆录",
@@ -2814,7 +2832,10 @@
       "chapter": "006.台中（1949-1954·14到19岁）",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/006.台中（1949-1954·14到19岁）.txt",
       "line": 133
-    }
+    },
+    "crossReferences": [
+      "micang-diary-1986-02-05-goes-to-sun-moon-lake-via-taichung"
+    ]
   },
   {
     "id": "book4-1950-painted-scout-hat-on-old-photo-source4",
@@ -3505,7 +3526,10 @@
       "chapter": "019.口诛（1993-·58岁至今）",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/019.口诛（1993-·58岁至今）.txt",
       "line": 3
-    }
+    },
+    "crossReferences": [
+      "micang-diary-1985-03-24-receives-shangqin-call-on-old-friends-and-chen-guying"
+    ]
   },
   {
     "id": "book4-1989-04-14-forty-years-in-taiwan-speech-at-gengxin",
@@ -3596,7 +3620,8 @@
     ],
     "certainty": "confirmed",
     "crossReferences": [
-      "book4-1993-04-02-zhang-xiaoci-publicly-considers-hiring-li"
+      "book4-1993-04-02-zhang-xiaoci-publicly-considers-hiring-li",
+      "micang-diary-1995-03-22-receives-jiang-shufan-call"
     ],
     "source": {
       "book": "李敖回忆录",
@@ -3682,7 +3707,10 @@
       "chapter": "019.口诛（1993-·58岁至今）",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/019.口诛（1993-·58岁至今）.txt",
       "line": 57
-    }
+    },
+    "crossReferences": [
+      "micang-diary-1995-03-22-receives-jiang-shufan-call"
+    ]
   },
   {
     "id": "book4-1993-09-21-first-soochow-class",
@@ -4150,7 +4178,10 @@
       "chapter": "019.口诛（1993-·58岁至今）",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/019.口诛（1993-·58岁至今）.txt",
       "line": 77
-    }
+    },
+    "crossReferences": [
+      "micang-diary-1995-03-22-receives-jiang-shufan-call"
+    ]
   },
   {
     "id": "book4-1994-08-15-zhang-xiaoci-huashi-speech-defends-hiring-li",
@@ -4262,7 +4293,8 @@
     "certainty": "confirmed",
     "crossReferences": [
       "1995-03-05-art-auction",
-      "book4-1995-04-04-donates-to-zhang-xiaoci-and-launches-chiang-book"
+      "book4-1995-04-04-donates-to-zhang-xiaoci-and-launches-chiang-book",
+      "micang-diary-1995-03-22-receives-jiang-shufan-call"
     ],
     "source": {
       "book": "李敖回忆录",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T04:26:21.687Z",
+  "generatedAt": "2026-05-16T15:00:50.798Z",
   "source": "exports/leeao-current-timeline.txt 的同源 JSON 数据",
   "fullCsv": "exports/leeao-current-timeline.csv",
   "partSize": 1000,
@@ -71,7 +71,7 @@
     "data/timeline-events-preofficer-diary.json",
     "data/timeline-events-li-ao-micang-diary.json"
   ],
-  "eventCount": 8608,
+  "eventCount": 8917,
   "columns": [
     "row",
     "year",

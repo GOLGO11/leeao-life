@@ -1749,7 +1749,10 @@
         "note": "本卷重述李敖1975年12月22日清早从景美移送土城仁爱教育实验所，称其为国民党“洗脑”。"
       }
     ],
-    "displayDate": "1975年12月22日星期一"
+    "displayDate": "1975年12月22日星期一",
+    "crossReferences": [
+      "micang-diary-1985-03-16-records-renai-villa-wall-and-barbed-wire"
+    ]
   },
   {
     "id": "1976-02-09-reads-yan-obituary",
@@ -2213,7 +2216,8 @@
       }
     ],
     "crossReferences": [
-      "qianqiu-wansui-1983-07-28-011-h7siovhi7ffxq3pire"
+      "qianqiu-wansui-1983-07-28-011-h7siovhi7ffxq3pire",
+      "micang-diary-1985-03-20-trims-island-affairs-work"
     ]
   }
 ]

@@ -1159,7 +1159,11 @@
       "chapter": "009.我最难忘的一位烈士",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/009.我最难忘的一位烈士.txt",
       "line": 33
-    }
+    },
+    "crossReferences": [
+      "micang-diary-1986-06-02-receives-xiaoqiu-call-on-nanrong-arrest",
+      "micang-diary-1986-06-02-pledges-free-writing-for-democracy-era-and-freedom-world"
+    ]
   },
   {
     "id": "book3-1984-04-04-central-daily-attacks-song",
@@ -1399,7 +1403,12 @@
       "chapter": "009.我最难忘的一位烈士",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/009.我最难忘的一位烈士.txt",
       "line": 57
-    }
+    },
+    "crossReferences": [
+      "micang-diary-1985-03-19-dines-with-nanrong-xiangke-and-director-term",
+      "micang-diary-1985-03-26-weizhen-blocks-lin-zhengjie-letter-in-democracy-world",
+      "micang-diary-1986-06-02-pledges-free-writing-for-democracy-era-and-freedom-world"
+    ]
   },
   {
     "id": "book3-1987-10-song-signed-book-for-li",
@@ -1816,7 +1825,8 @@
     ],
     "certainty": "confirmed",
     "crossReferences": [
-      "book3-1947-09-12-cheng-nan-jung-born"
+      "book3-1947-09-12-cheng-nan-jung-born",
+      "micang-diary-1986-06-02-writes-firebrand-poem-for-nanrong-arrest"
     ],
     "source": {
       "book": "我最难忘的事和人",
@@ -2012,7 +2022,8 @@
     ],
     "certainty": "confirmed",
     "crossReferences": [
-      "book3-1989-04-07-cheng-nan-jung-dies"
+      "book3-1989-04-07-cheng-nan-jung-dies",
+      "micang-diary-1986-06-02-writes-firebrand-poem-for-nanrong-arrest"
     ],
     "source": {
       "book": "我最难忘的事和人",

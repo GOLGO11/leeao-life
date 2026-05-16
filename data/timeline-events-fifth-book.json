@@ -3075,7 +3075,10 @@
       "chapter": "011.殷鉴纪",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/011.殷鉴纪.txt",
       "line": 85
-    }
+    },
+    "crossReferences": [
+      "micang-diary-1985-04-01-dinner-encounters-hongzheng-and-dai-guohui-couple"
+    ]
   },
   {
     "id": "book5-1968-02-29-bai-yang-calls-li-about-questioning",
@@ -3191,7 +3194,10 @@
       "chapter": "012.东郭纪",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/012.东郭纪.txt",
       "line": 17
-    }
+    },
+    "crossReferences": [
+      "micang-diary-1985-03-26-huiyun-call-on-james-seymour-mei-xinyi-party-outside-criticism"
+    ]
   },
   {
     "id": "book5-1969-07-03-nyt-reports-bai-yang-through-overseas-channel",
@@ -3836,7 +3842,8 @@
       "line": 9
     },
     "crossReferences": [
-      "zaonian-riji-1966-04-16-mengneng-talks-letters-and-tang-yuanji-consolation"
+      "zaonian-riji-1966-04-16-mengneng-talks-letters-and-tang-yuanji-consolation",
+      "micang-diary-1985-03-26-xie-fengmei-brings-kangbai-manuscript-and-letter"
     ],
     "additionalSources": [
       {
@@ -3958,7 +3965,10 @@
       "chapter": "014.寒武纪",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/014.寒武纪.txt",
       "line": 11
-    }
+    },
+    "crossReferences": [
+      "micang-diary-1985-03-26-xie-fengmei-brings-kangbai-manuscript-and-letter"
+    ]
   },
   {
     "id": "book5-1968-12-12-enters-hongen-hospital",
@@ -4172,7 +4182,8 @@
     ],
     "certainty": "confirmed",
     "crossReferences": [
-      "1970-01-house-arrest-begins"
+      "1970-01-house-arrest-begins",
+      "micang-diary-1986-02-05-goes-to-sun-moon-lake-via-taichung"
     ],
     "source": {
       "book": "李敖快意恩仇录",
@@ -4219,7 +4230,10 @@
       "chapter": "014.寒武纪",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/014.寒武纪.txt",
       "line": 55
-    }
+    },
+    "crossReferences": [
+      "micang-diary-1985-03-20-receives-xiangyun-call-on-lei-chen-love-letters"
+    ]
   },
   {
     "id": "book5-1971-05-13-nyt-reports-li-arrest",
@@ -4296,7 +4310,10 @@
       "chapter": "014.寒武纪",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/014.寒武纪.txt",
       "line": 51
-    }
+    },
+    "crossReferences": [
+      "micang-diary-1985-04-03-stays-at-china-trust-hualien-hotel"
+    ]
   },
   {
     "id": "book5-1972-04-25-hsieh-letter-nyt",
@@ -4687,7 +4704,7 @@
     "displayDate": "1980年2月8日星期五",
     "datePrecision": "day",
     "title": "李敖与胡因梦在财神酒店用餐时遇见白云、杨维翰",
-    "summary": "《梦遗纪》写，1980年2月8日，李敖与胡因梦到财神酒店吃饭，偶遇白云与杨维翰；此处是后来胡因梦婚变叙述中的一个日常节点。",
+    "summary": "《梦遗纪》写，1980年2月8日，李敖与胡因梦到财神酒店吃饭，偶遇白云与杨维翰；此处是后来胡因梦婚变叙述中的一个日常节点。 《李敖秘藏日记》所收胡茵梦《问白云》附录又记，席间或同次接触中李敖劝白云写回忆录，白云不愿保留或揭隐私而打消念头。",
     "view": [
       "日常线",
       "感情线",
@@ -4697,7 +4714,9 @@
       "胡因梦",
       "财神酒店",
       "白云",
-      "杨维翰"
+      "杨维翰",
+      "问白云",
+      "回忆录"
     ],
     "people": [
       "李敖",
@@ -4710,7 +4729,8 @@
       "台湾"
     ],
     "works": [
-      "李敖快意恩仇录"
+      "李敖快意恩仇录",
+      "问白云"
     ],
     "certainty": "confirmed",
     "source": {
@@ -4718,7 +4738,34 @@
       "chapter": "016.梦遗纪",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/016.梦遗纪.txt",
       "line": 43
-    }
+    },
+    "crossReferences": [
+      "micang-diary-1985-03-26-lunches-alone-at-caishen-and-meets-youqing",
+      "micang-diary-1986-02-06-records-baiyun-memory-at-nantou-cemetery"
+    ],
+    "additionalSources": [
+      {
+        "book": "李敖秘藏日记",
+        "chapter": "013.欲看湖光不自由",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/006.李敖秘藏日记/013.欲看湖光不自由.txt",
+        "line": 43,
+        "note": "李敖1986年2月6日路经南投公墓时追记1980年2月8日在财神大酒店顶楼晚餐见到经理白云，并记胡茵梦事后写《问白云》。"
+      },
+      {
+        "book": "李敖秘藏日记",
+        "chapter": "013.欲看湖光不自由·附录《问白云》（胡茵梦）",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/006.李敖秘藏日记/013.欲看湖光不自由.txt",
+        "line": 53,
+        "note": "胡茵梦《问白云》附录记白云走进财神酒店西餐厅与“我”接触；此为胡茵梦文章，非李敖本人叙述。"
+      },
+      {
+        "book": "李敖秘藏日记",
+        "chapter": "013.欲看湖光不自由·附录《问白云》（胡茵梦）",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/006.李敖秘藏日记/013.欲看湖光不自由.txt",
+        "line": 59,
+        "note": "胡茵梦《问白云》附录记“李敖劝他写回忆录”，白云不愿保留或揭隐私而作罢；此为胡茵梦文章，非李敖本人叙述。"
+      }
+    ]
   },
   {
     "id": "book5-1980-08-28-divorces-hu-yinmeng-source5",
@@ -5369,7 +5416,11 @@
       "chapter": "017.猪猡纪",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/017.猪猡纪.txt",
       "line": 85
-    }
+    },
+    "crossReferences": [
+      "micang-diary-1985-03-30-pingjing-call-on-sun-mingjiu-and-zhang-xueliang",
+      "micang-diary-1985-04-03-records-womendi-magazine-launch"
+    ]
   },
   {
     "id": "book5-1985-04-25-publishes-fifty-fifty-yi",
@@ -5415,6 +5466,9 @@
         "line": 105,
         "note": "著作年表同记1985年4月25日出版《五十·五十·易》上下册并标注查禁。"
       }
+    ],
+    "crossReferences": [
+      "micang-diary-1985-04-28-to-30-records-qianqiu-43-ban-order"
     ]
   },
   {
@@ -6359,7 +6413,10 @@
       "chapter": "020.志留纪",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/020.志留纪.txt",
       "line": 26
-    }
+    },
+    "crossReferences": [
+      "micang-diary-1985-03-31-li-ning-call-on-jiang-pengjian-photocopies"
+    ]
   },
   {
     "id": "book5-1989-07-19-writes-i-want-to-kiss-zhou-lianhua",
@@ -8939,7 +8996,8 @@
     ],
     "certainty": "confirmed",
     "crossReferences": [
-      "book5-1985-04-26-birthday-gift-letter"
+      "book5-1985-04-26-birthday-gift-letter",
+      "micang-diary-1985-03-22-records-wang-xiaochi-birthday-couplet-letter"
     ],
     "source": {
       "book": "李敖快意恩仇录",
@@ -8984,7 +9042,8 @@
     "certainty": "confirmed",
     "crossReferences": [
       "book5-1985-04-26-birthday-gift-letter",
-      "book4-deep-1979-after-return-ping-xintao-introduces-sanmao"
+      "book4-deep-1979-after-return-ping-xintao-introduces-sanmao",
+      "micang-diary-1985-03-13-receives-nineties-fifty-in-sight-special-copy"
     ],
     "source": {
       "book": "李敖快意恩仇录",
@@ -9027,7 +9086,8 @@
     ],
     "certainty": "confirmed",
     "crossReferences": [
-      "book5-1985-04-26-birthday-gift-letter"
+      "book5-1985-04-26-birthday-gift-letter",
+      "micang-diary-1985-03-25-receives-wenqian-birthday-call"
     ],
     "source": {
       "book": "李敖快意恩仇录",

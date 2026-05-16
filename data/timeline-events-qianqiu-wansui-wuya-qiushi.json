@@ -1159,7 +1159,8 @@
       "zaonian-riji-1966-11-23-pingtung-universal-bookstore-boss-tian-serves-coffee",
       "zaonian-riji-1966-11-24-registered-letter-to-taipei-postmaster-over-delayed-books",
       "zaonian-riji-1966-12-21-visits-lawyer-li-twice-and-gives-four-books",
-      "zaonian-riji-1966-12-26-keelung-ban-selling-li-ao-books-xiaozuo-li-guojin-call"
+      "zaonian-riji-1966-12-26-keelung-ban-selling-li-ao-books-xiaozuo-li-guojin-call",
+      "micang-diary-1985-03-18-meets-shenhong-on-lin-ziyao-title-and-deletions"
     ],
     "source": {
       "book": "千秋万岁乌鸦求是合集",
@@ -1981,7 +1982,8 @@
       "line": 7
     },
     "crossReferences": [
-      "1983-04-13-thief-memory"
+      "1983-04-13-thief-memory",
+      "micang-diary-1986-02-05-reads-li-shijie-parole-news-on-train"
     ]
   },
   {
@@ -4718,7 +4720,9 @@
     },
     "crossReferences": [
       "book5-undated-huang-shicheng-fee-transferred-to-lin-zhengjie",
-      "micang-diary-1985-02-14-records-qianjin-price-note-and-criticizes-lin"
+      "micang-diary-1985-02-14-records-qianjin-price-note-and-criticizes-lin",
+      "micang-diary-1985-03-23-records-lin-zhengjie-qianjin-slander",
+      "micang-diary-1985-03-24-writes-open-letter-to-lin-zhengjie-and-nanrong-picks-up"
     ]
   },
   {
@@ -6793,7 +6797,9 @@
     ],
     "certainty": "confirmed",
     "crossReferences": [
-      "qianqiu-wansui-1984-09-06-context-070-sends-kujiujie-to-wang-xiaochi"
+      "qianqiu-wansui-1984-09-06-context-070-sends-kujiujie-to-wang-xiaochi",
+      "micang-diary-1985-03-22-records-wang-xiaochi-birthday-couplet-letter",
+      "micang-diary-1985-03-30-calls-wang-xiaochi-about-illness"
     ],
     "source": {
       "book": "千秋万岁乌鸦求是合集",
@@ -7288,7 +7294,9 @@
     },
     "crossReferences": [
       "micang-diary-1985-01-12-su-zhiyang-picks-up-pleading",
-      "micang-diary-1985-02-03-receives-zhiyang-xie-fengmei-nanrong-morning-visits"
+      "micang-diary-1985-02-03-receives-zhiyang-xie-fengmei-nanrong-morning-visits",
+      "micang-diary-1985-03-10-advises-zhiyang-not-to-accept-kmt-suspended-sentence",
+      "micang-diary-1985-03-21-advises-zhiyang-not-to-appeal-or-accept-suspended-sentence"
     ]
   },
   {
@@ -7440,7 +7448,11 @@
     "crossReferences": [
       "qianqiu-wansui-1985-01-12-044-kcfpu7lh7ljfg49mnqi1c",
       "qianqiu-wansui-1985-02-06-045-su-zhiyang-brings-photocopied-case-file",
-      "micang-diary-1985-02-12-receives-su-zhiyang-call-on-trial-and-appeal-protest"
+      "micang-diary-1985-02-12-receives-su-zhiyang-call-on-trial-and-appeal-protest",
+      "micang-diary-1985-02-26-receives-su-family-visit",
+      "micang-diary-1985-03-10-advises-zhiyang-not-to-accept-kmt-suspended-sentence",
+      "micang-diary-1985-03-20-su-hong-yuejiao-leaves-documents",
+      "micang-diary-1985-03-21-advises-zhiyang-not-to-appeal-or-accept-suspended-sentence"
     ],
     "source": {
       "book": "千秋万岁乌鸦求是合集",
@@ -7528,7 +7540,10 @@
       "chapter": "051.李敖著作年表",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/051.李敖著作年表.txt",
       "line": 105
-    }
+    },
+    "crossReferences": [
+      "micang-diary-1985-03-09-receives-yuanliu-books-and-declines-jinshitang-launch"
+    ]
   },
   {
     "id": "qianqiu-wansui-1985-03-02-002-ffufjuqx8fga-inqgk1n9j",
@@ -7561,7 +7576,10 @@
       "chapter": "002.“个人行为”并发症",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/002.“个人行为”并发症.txt",
       "line": 55
-    }
+    },
+    "crossReferences": [
+      "micang-diary-1985-03-02-records-ziliwanbao-legislative-speech-on-magazines"
+    ]
   },
   {
     "id": "qianqiu-wansui-1985-03-12-046-prjiwz-inqgk1n9j",
@@ -7636,7 +7654,13 @@
       "chapter": "051.李敖著作年表",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/051.李敖著作年表.txt",
       "line": 105
-    }
+    },
+    "crossReferences": [
+      "micang-diary-1985-03-12-receives-huiyun-call-on-qianqiu-mail-seizure",
+      "micang-diary-1985-03-13-works-on-qianqiu-42-and-delivers-manuscript",
+      "micang-diary-1985-03-16-records-xiaotian-reprint-of-gaofei-haodouzhiren",
+      "micang-diary-1985-03-17-records-qianqiu-42-published-at-night"
+    ]
   },
   {
     "id": "qianqiu-wansui-1985-03-23-005-sexgkrfk0fgog30irki3lg84-kemk0m-gkysgq",
@@ -7679,7 +7703,12 @@
     "crossReferences": [
       "micang-diary-1985-01-14-records-central-daily-news-on-jiangnan-case",
       "micang-diary-1985-01-31-records-united-daily-news-on-chen-qili-tape",
-      "micang-diary-1985-02-11-jingxue-visits-to-discuss-jiangnan-case-taiwan-independence-sympathy"
+      "micang-diary-1985-02-11-jingxue-visits-to-discuss-jiangnan-case-taiwan-independence-sympathy",
+      "micang-diary-1985-03-04-receives-huiyun-call-on-cbs-jiangnan-case",
+      "micang-diary-1985-03-11-records-xu-lide-resignation",
+      "micang-diary-1985-03-22-dong-shanghe-call-and-asks-shitong-draft-public-trial-article",
+      "micang-diary-1985-03-27-records-xinshengbao-xiao-zhengzhi-and-jiangnan-generals",
+      "micang-diary-1985-04-27-records-asian-magazine-jiangnan-report"
     ]
   },
   {
@@ -7717,7 +7746,10 @@
       "chapter": "007.坐五十·望一百",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/007.坐五十·望一百.txt",
       "line": 23
-    }
+    },
+    "crossReferences": [
+      "micang-diary-1985-04-26-friends-respond-to-retreat-declaration"
+    ]
   },
   {
     "id": "qianqiu-wansui-1985-04-26-006-l7nfgpi7lfgafoggk1fji",
@@ -7790,7 +7822,10 @@
       "chapter": "007.坐五十·望一百",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/007.坐五十·望一百.txt",
       "line": 49
-    }
+    },
+    "crossReferences": [
+      "micang-diary-1985-04-26-friends-respond-to-retreat-declaration"
+    ]
   },
   {
     "id": "qianqiu-wansui-1985-05-15-051-qianqiu-review-44",
@@ -8232,7 +8267,13 @@
       "book4-1984-01-wansui-review-starts",
       "freedom-summoning-1985-01-qiangqiu-wansui-raise-price-under-censorship",
       "micang-diary-1985-01-29-finishes-wansui-issue-14",
-      "micang-diary-1985-02-11-finishes-wansui-15-and-qianqiu-41"
+      "micang-diary-1985-02-11-finishes-wansui-15-and-qianqiu-41",
+      "micang-diary-1985-02-17-records-wansui-15-raided-and-banned",
+      "micang-diary-1985-02-24-records-united-daily-ban-news",
+      "micang-diary-1985-03-04-finishes-wansui-16",
+      "micang-diary-1985-03-13-records-wansui-16-ban-and-book-search",
+      "micang-diary-1985-03-15-receives-wansui-16-ban-order",
+      "micang-diary-1985-04-30-busy-with-wansui-18"
     ],
     "source": {
       "book": "千秋万岁乌鸦求是合集",
@@ -9537,7 +9578,12 @@
       "chapter": "146.我的待客之道",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/146.我的待客之道.txt",
       "line": 11
-    }
+    },
+    "crossReferences": [
+      "micang-diary-1985-02-24-receives-mingdao-call-on-wang-sheng-power",
+      "micang-diary-1985-03-31-restricts-meetings-to-minimum",
+      "micang-diary-1985-04-01-handles-mingdao-slander-matter"
+    ]
   },
   {
     "id": "qianqiu-wansui-1989-06-25-148-writes-chiang-over-sun",
@@ -9781,7 +9827,8 @@
     "certainty": "confirmed",
     "crossReferences": [
       "1975-12-22-moved-renai",
-      "book4-1975-12-22-moved-to-renai-education-experiment"
+      "book4-1975-12-22-moved-to-renai-education-experiment",
+      "micang-diary-1985-03-16-records-renai-villa-wall-and-barbed-wire"
     ],
     "source": {
       "book": "千秋万岁乌鸦求是合集",
@@ -9865,7 +9912,10 @@
       "chapter": "129.他们为什么不退职？",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/129.他们为什么不退职？.txt",
       "line": 13
-    }
+    },
+    "crossReferences": [
+      "micang-diary-1985-04-01-suhong-call-on-fei-xiping-resignation"
+    ]
   },
   {
     "id": "qianqiu-wansui-1989-08-06-078-writes-from-divorce-expert-to-king",
@@ -10176,7 +10226,9 @@
       "qianqiu-wansui-1986-05-02-085-cai-renjian-leaves-letter-at-li-home",
       "qianqiu-wansui-1989-11-13-085-writes-where-cai-renjian-was-wrong",
       "micang-diary-1985-02-13-dengen-reports-lin-zhengjie-debt-pressure",
-      "micang-diary-1985-02-14-records-qianjin-price-note-and-criticizes-lin"
+      "micang-diary-1985-02-14-records-qianjin-price-note-and-criticizes-lin",
+      "micang-diary-1985-03-23-records-lin-zhengjie-qianjin-slander",
+      "micang-diary-1985-03-24-writes-open-letter-to-lin-zhengjie-and-nanrong-picks-up"
     ],
     "source": {
       "book": "千秋万岁乌鸦求是合集",
@@ -11794,7 +11846,10 @@
       "chapter": "104.时闻杂写",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/104.时闻杂写.txt",
       "line": 29
-    }
+    },
+    "crossReferences": [
+      "micang-diary-1985-04-01-visits-hu-xuyi-at-night"
+    ]
   },
   {
     "id": "qianqiu-wansui-1990-02-22-115-writes-love-is-less-when-deep",

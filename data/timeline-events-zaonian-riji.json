@@ -13908,7 +13908,10 @@
       "chapter": "004.二十年前的一些断片",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
       "line": 187
-    }
+    },
+    "crossReferences": [
+      "micang-diary-1985-03-19-receives-xu-yiqi-hong-kong-call-on-jiangnan-risk-and-travelogues"
+    ]
   },
   {
     "id": "zaonian-riji-1966-04-10-buys-books-writes-thought-police-and-letter-to-jin-daixi",
@@ -15571,7 +15574,10 @@
       "chapter": "004.二十年前的一些断片",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
       "line": 533
-    }
+    },
+    "crossReferences": [
+      "micang-diary-1985-03-07-receives-xulu-call-on-farewell-my-concubine"
+    ]
   },
   {
     "id": "zaonian-riji-1966-06-11-replies-wu-hao-and-lingling-letters",
@@ -18134,7 +18140,8 @@
     "certainty": "confirmed",
     "crossReferences": [
       "qianqiu-wansui-1966-11-05-051-publishes-farewell-literary-world-ten-books",
-      "wencun-two-1966-09-01-advertised-in-six-taipei-newspapers"
+      "wencun-two-1966-09-01-advertised-in-six-taipei-newspapers",
+      "micang-diary-1985-03-11-lunches-with-xuyi-xiaowu-and-meets-liu-shaotang"
     ],
     "source": {
       "book": "早年日记",
@@ -20884,7 +20891,9 @@
     "certainty": "confirmed",
     "crossReferences": [
       "zaonian-riji-1966-11-23-pingtung-universal-bookstore-boss-tian-serves-coffee",
-      "zaonian-riji-1966-11-24-noisy-hengchun-inn-and-long-distance-call-to-h"
+      "zaonian-riji-1966-11-24-noisy-hengchun-inn-and-long-distance-call-to-h",
+      "micang-diary-1986-09-13-to-14-night-train-south-and-proofreads-anti-kmt-manuscript",
+      "micang-diary-1986-09-14-takes-1020-bus-north-from-hengchun"
     ],
     "source": {
       "book": "早年日记",
@@ -21033,7 +21042,12 @@
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
       "line": 1077,
       "note": "本条据《早年日记》原记。"
-    }
+    },
+    "crossReferences": [
+      "micang-diary-1986-09-13-to-14-night-train-south-and-proofreads-anti-kmt-manuscript",
+      "micang-diary-1986-09-14-picks-shells-by-taiwan-strait",
+      "micang-diary-1986-09-14-visits-maobitou-and-guanshan-sunset"
+    ]
   },
   {
     "id": "zaonian-riji-1966-11-24-eluanbi-lighthouse-clouds-and-beach-americans",
@@ -21073,7 +21087,8 @@
     ],
     "certainty": "confirmed",
     "crossReferences": [
-      "zaonian-riji-1966-11-24-kenting-guide-xu-national-park-and-three-seas-view"
+      "zaonian-riji-1966-11-24-kenting-guide-xu-national-park-and-three-seas-view",
+      "micang-diary-1986-09-14-visits-maobitou-and-guanshan-sunset"
     ],
     "source": {
       "book": "早年日记",
@@ -21515,7 +21530,9 @@
     "certainty": "confirmed",
     "crossReferences": [
       "zaonian-riji-1966-11-24-noisy-hengchun-inn-and-long-distance-call-to-h",
-      "zaonian-riji-1966-11-25-washboard-road-rail-bridge-and-yinru-car-trapped"
+      "zaonian-riji-1966-11-25-washboard-road-rail-bridge-and-yinru-car-trapped",
+      "micang-diary-1985-04-03-rides-north-link-train-to-hualien",
+      "micang-diary-1985-04-03-stays-at-china-trust-hualien-hotel"
     ],
     "source": {
       "book": "早年日记",
@@ -21604,7 +21621,8 @@
     ],
     "certainty": "confirmed",
     "crossReferences": [
-      "zaonian-riji-1966-11-25-arrives-hualien-near-midnight-and-telegrams-h"
+      "zaonian-riji-1966-11-25-arrives-hualien-near-midnight-and-telegrams-h",
+      "micang-diary-1985-04-03-rides-north-link-train-to-hualien"
     ],
     "source": {
       "book": "早年日记",

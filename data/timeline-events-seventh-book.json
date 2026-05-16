@@ -1118,7 +1118,10 @@
       "chapter": "484.刘会云",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/484.刘会云.txt",
       "line": 3
-    }
+    },
+    "crossReferences": [
+      "micang-diary-1985-03-18-calls-huiyun-on-public-diaries"
+    ]
   },
   {
     "id": "book7-1990-playboy-annual-report-features-li-ao-photo",
@@ -1584,7 +1587,12 @@
       "chapter": "647.唐僧",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/647.唐僧.txt",
       "line": 3
-    }
+    },
+    "crossReferences": [
+      "micang-diary-1986-02-05-goes-to-sun-moon-lake-via-taichung",
+      "micang-diary-1986-02-05-to-06-stays-at-sun-moon-lake-hotel",
+      "micang-diary-1986-02-06-visits-xuanzang-temple"
+    ]
   },
   {
     "id": "book7-2011-xiamen-university-lecture-considered-best-of-life",
@@ -3067,7 +3075,8 @@
     "certainty": "confirmed",
     "crossReferences": [
       "book7-1987-01-14-high-court-hearing-xiao-mengneng-false-accusation-case-first-mediation",
-      "book4-1980-08-28-li-announces-divorce-from-hu"
+      "book4-1980-08-28-li-announces-divorce-from-hu",
+      "micang-diary-1985-04-01-court-sues-yu-zhao"
     ],
     "source": {
       "book": "李敖风流自传",
@@ -3082,6 +3091,13 @@
         "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/100.和胡茵梦有关的笑话.txt",
         "line": 19,
         "note": "本卷全文摘录1985年4月2日日记，补强胡茵梦寒暄与挖苦萧孟能“欠我十天”的同场细节。"
+      },
+      {
+        "book": "李敖秘藏日记",
+        "chapter": "012.4月的日记",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/006.李敖秘藏日记/012.4月的日记.txt",
+        "line": 25,
+        "note": "4月2日原始日记补源，内容与《四点结局》所引日记同一事件，不另造重复节点。"
       }
     ]
   },
