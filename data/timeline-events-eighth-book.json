@@ -412,7 +412,12 @@
       "chapter": "006.李敖著作查禁清单及官方理由",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/008.李敖相关/006.李敖著作查禁清单及官方理由.txt",
       "line": 175
-    }
+    },
+    "crossReferences": [
+      "li-ao-zhaji-1986-11-03-notes-chiang-kai-shek-study-publication",
+      "li-ao-zhaji-1987-09-23-writes-enemies-living-and-dead-note",
+      "li-ao-zhaji-1987-09-23-contrasts-li-ao-dead-with-chiang-ching-kuo-study"
+    ]
   },
   {
     "id": "book8-1987-01-22-chiang-kai-shek-study-sequel-banned",
@@ -445,7 +450,8 @@
     "certainty": "confirmed",
     "crossReferences": [
       "book8-1986-11-02-chiang-kai-shek-study-banned",
-      "book8-1987-07-06-chiang-kai-shek-study-volume-three-banned"
+      "book8-1987-07-06-chiang-kai-shek-study-volume-three-banned",
+      "li-ao-zhaji-1987-02-19-records-garrison-searching-chiang-study-sequel"
     ],
     "source": {
       "book": "李敖相关",

@@ -2952,6 +2952,9 @@
         "line": 55,
         "note": "本卷对照《春蚕吐丝》删改处，补出1969年9月16日晚李敖等目睹殷海光遗体解剖。"
       }
+    ],
+    "crossReferences": [
+      "li-ao-zhaji-1987-04-26-receives-houston-six-person-call"
     ]
   },
   {
@@ -3077,7 +3080,8 @@
       "line": 85
     },
     "crossReferences": [
-      "micang-diary-1985-04-01-dinner-encounters-hongzheng-and-dai-guohui-couple"
+      "micang-diary-1985-04-01-dinner-encounters-hongzheng-and-dai-guohui-couple",
+      "li-ao-zhaji-1989-01-18-chen-hongzheng-borrows-materials-for-zhang-zhongdong"
     ]
   },
   {
@@ -3387,7 +3391,10 @@
       "chapter": "012.东郭纪",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/012.东郭纪.txt",
       "line": 43
-    }
+    },
+    "crossReferences": [
+      "li-ao-zhaji-1989-02-23-dines-with-wang-rongwen-and-talks-bai-yang-manuscript"
+    ]
   },
   {
     "id": "book5-1984-04-10-sun-kuanhan-jiangxianghe-published",
@@ -5419,7 +5426,10 @@
     },
     "crossReferences": [
       "micang-diary-1985-03-30-pingjing-call-on-sun-mingjiu-and-zhang-xueliang",
-      "micang-diary-1985-04-03-records-womendi-magazine-launch"
+      "micang-diary-1985-04-03-records-womendi-magazine-launch",
+      "li-ao-zhaji-1988-11-26-compares-himself-with-zola-while-shaving",
+      "li-ao-zhaji-1988-11-29-receives-wang-qixiang-call-on-sun-liren-loyalty",
+      "li-ao-zhaji-1988-11-30-receives-pan-dehui-and-chen-liangxun-on-sun-liren"
     ]
   },
   {
@@ -6226,7 +6236,10 @@
       "chapter": "019.宣淫纪",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/019.宣淫纪.txt",
       "line": 119
-    }
+    },
+    "crossReferences": [
+      "li-ao-zhaji-1989-02-27-comments-beijing-nude-oil-painting-exhibition-and-sex-freedom"
+    ]
   },
   {
     "id": "book5-1997-memoir-publishes-frontal-nude-photo",

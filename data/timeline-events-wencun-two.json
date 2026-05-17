@@ -219,7 +219,10 @@
       "chapter": "004.中国小姐新论",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/005.李敖文存二集/004.中国小姐新论.txt",
       "line": 31
-    }
+    },
+    "crossReferences": [
+      "li-ao-zhaji-1988-05-25-mocks-miss-china-hu-feicui-photo"
+    ]
   },
   {
     "id": "wencun-two-1979-08-05-miss-china-new-discourse-published",
@@ -252,7 +255,8 @@
     ],
     "certainty": "confirmed",
     "crossReferences": [
-      "wencun-two-1979-07-27-miss-china-new-discourse-written"
+      "wencun-two-1979-07-27-miss-china-new-discourse-written",
+      "li-ao-zhaji-1988-05-25-mocks-miss-china-hu-feicui-photo"
     ],
     "source": {
       "book": "李敖文存二集",
@@ -683,7 +687,10 @@
       "chapter": "010.一封存证信的故事",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/005.李敖文存二集/010.一封存证信的故事.txt",
       "line": 19
-    }
+    },
+    "crossReferences": [
+      "li-ao-zhaji-1986-12-09-comments-us-tobacco-ad-negotiation"
+    ]
   },
   {
     "id": "wencun-two-1966-09-01-advertised-in-six-taipei-newspapers",

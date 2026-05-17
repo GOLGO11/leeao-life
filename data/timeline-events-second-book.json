@@ -1226,7 +1226,10 @@
       "chapter": "036.驳萧孟能的“上诉理由㈠状”",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/036.驳萧孟能的“上诉理由㈠状”.txt",
       "line": 3
-    }
+    },
+    "crossReferences": [
+      "li-ao-zhaji-1987-04-23-meets-lin-jian-on-xiao-mengneng-settlement"
+    ]
   },
   {
     "id": "book2-1980-09-09-hu-yinmeng-court-testimony",
@@ -1504,7 +1507,8 @@
       "line": 17
     },
     "crossReferences": [
-      "micang-diary-1985-03-18-receives-xiao-wang-mobilization-law-judgment"
+      "micang-diary-1985-03-18-receives-xiao-wang-mobilization-law-judgment",
+      "li-ao-zhaji-1987-05-06-notes-wu-yuechao-death-and-xiao-case-help"
     ]
   },
   {
@@ -1572,7 +1576,10 @@
       "chapter": "036.驳萧孟能的“上诉理由㈠状”",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/036.驳萧孟能的“上诉理由㈠状”.txt",
       "line": 5
-    }
+    },
+    "crossReferences": [
+      "li-ao-zhaji-1987-04-23-meets-lin-jian-on-xiao-mengneng-settlement"
+    ]
   },
   {
     "id": "book2-1984-11-29-hu-yinmeng-nature-written",
@@ -1962,7 +1969,11 @@
       "chapter": "037.告李敖的下场",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/037.告李敖的下场.txt",
       "line": 39
-    }
+    },
+    "crossReferences": [
+      "li-ao-zhaji-1987-04-23-meets-lin-jian-on-xiao-mengneng-settlement",
+      "li-ao-zhaji-1987-05-06-notes-wu-yuechao-death-and-xiao-case-help"
+    ]
   },
   {
     "id": "book2-1987-02-25-xiao-appeal-dismissed",
@@ -1998,7 +2009,13 @@
       "chapter": "037.告李敖的下场",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/037.告李敖的下场.txt",
       "line": 41
-    }
+    },
+    "crossReferences": [
+      "li-ao-zhaji-1987-03-08-writes-law-delay-note",
+      "li-ao-zhaji-1987-04-23-meets-lin-jian-on-xiao-mengneng-settlement",
+      "li-ao-zhaji-1987-05-06-notes-wu-yuechao-death-and-xiao-case-help",
+      "li-ao-zhaji-1987-05-06-hears-xiao-mengneng-apology-through-li-fang"
+    ]
   },
   {
     "id": "book2-1987-03-08-end-of-suing-li-ao-written",
@@ -2032,7 +2049,10 @@
       "chapter": "037.告李敖的下场",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/037.告李敖的下场.txt",
       "line": 65
-    }
+    },
+    "crossReferences": [
+      "li-ao-zhaji-1987-03-08-writes-law-delay-note"
+    ]
   },
   {
     "id": "book2-1987-04-06-spy-sea-written",
@@ -2101,7 +2121,10 @@
       "chapter": "035.为文星书店争公道",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/035.为文星书店争公道.txt",
       "line": 19
-    }
+    },
+    "crossReferences": [
+      "li-ao-zhaji-1987-04-27-writes-news-office-letter-on-fake-wenxing"
+    ]
   },
   {
     "id": "book2-1987-07-14-liu-chendan-essay-written",

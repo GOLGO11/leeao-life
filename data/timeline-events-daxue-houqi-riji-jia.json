@@ -11755,7 +11755,7 @@
     "date": "1958-09-10",
     "displayDate": "1958年9月10日星期三",
     "datePrecision": "day",
-    "title": "李敖想写《吾恨录》",
+    "title": "李敖拟写《吾恨录》",
     "summary": "李敖记下想写《吾恨录》。",
     "view": [
       "写作线",
@@ -17972,7 +17972,7 @@
     "date": "1958-10-20",
     "displayDate": "1958年10月20日星期一",
     "datePrecision": "day",
-    "title": "李敖认为黑板读书法甚好",
+    "title": "李敖使用黑板读书法",
     "summary": "李敖记下“用黑板读书法甚好”。",
     "source": {
       "book": "大学后期日记甲集",
@@ -18083,7 +18083,7 @@
     "date": "1958-10-21",
     "displayDate": "1958年10月21日星期二",
     "datePrecision": "day",
-    "title": "李敖觉得如此过得甚好，何必惹麻烦",
+    "title": "李敖以“不惹麻烦”自警",
     "summary": "李敖反问如此过得甚好，既能过下去何必惹麻烦，并以“功不抵患”“吾知其不可为也”自警。",
     "source": {
       "book": "大学后期日记甲集",
@@ -18934,7 +18934,7 @@
     "date": "1958-10-28",
     "displayDate": "1958年10月28日星期二",
     "datePrecision": "day",
-    "title": "李敖觉得徐教官性格很好玩",
+    "title": "李敖记录徐教官性格",
     "summary": "李敖记徐教官的性格很好玩。",
     "source": {
       "book": "大学后期日记甲集",
@@ -19766,7 +19766,10 @@
       "chapter": "006.1958年11月",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/006.1958年11月.txt",
       "line": 9
-    }
+    },
+    "crossReferences": [
+      "li-ao-zhaji-1986-02-12-writes-lawsuit-success-failure-note"
+    ]
   },
   {
     "view": [

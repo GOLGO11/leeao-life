@@ -607,7 +607,11 @@
       "chapter": "031.从主流到乱流",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/031.从主流到乱流.txt",
       "line": 27
-    }
+    },
+    "crossReferences": [
+      "li-ao-zhaji-1984-08-30-records-xiao-mengneng-imprisonment-news",
+      "li-ao-zhaji-1984-09-11-sues-xiao-mengneng-false-accusation-and-lunches-with-zi-ge"
+    ]
   },
   {
     "id": "book2-broad-1984-06-05-mainstream-to-chaos-written",
@@ -683,7 +687,10 @@
       "chapter": "038.为萧孟能入狱在即致施启扬函",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/038.为萧孟能入狱在即致施启扬函.txt",
       "line": 17
-    }
+    },
+    "crossReferences": [
+      "li-ao-zhaji-1984-08-30-records-xiao-mengneng-imprisonment-news"
+    ]
   },
   {
     "id": "book2-broad-1984-09-12-letter-to-zeng-qingbi",
@@ -719,7 +726,10 @@
       "chapter": "038.为萧孟能入狱在即致施启扬函",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/038.为萧孟能入狱在即致施启扬函.txt",
       "line": 23
-    }
+    },
+    "crossReferences": [
+      "li-ao-zhaji-1984-08-30-records-xiao-mengneng-imprisonment-news"
+    ]
   },
   {
     "id": "book2-broad-1986-09-03-sees-wenxing-revival-clean-version",
@@ -989,7 +999,12 @@
       "chapter": "038.为萧孟能入狱在即致施启扬函",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/038.为萧孟能入狱在即致施启扬函.txt",
       "line": 43
-    }
+    },
+    "crossReferences": [
+      "li-ao-zhaji-1987-04-23-meets-lin-jian-on-xiao-mengneng-settlement",
+      "li-ao-zhaji-1987-04-27-writes-news-office-letter-on-fake-wenxing",
+      "li-ao-zhaji-1987-05-06-hears-xiao-mengneng-apology-through-li-fang"
+    ]
   },
   {
     "id": "book2-broad-1990-10-02-second-book-preface",

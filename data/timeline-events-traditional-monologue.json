@@ -866,7 +866,10 @@
       "chapter": "009.由一丝不挂说起",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/001.传统下的独白/009.由一丝不挂说起.txt",
       "line": 65
-    }
+    },
+    "crossReferences": [
+      "li-ao-zhaji-1989-02-27-comments-beijing-nude-oil-painting-exhibition-and-sex-freedom"
+    ]
   },
   {
     "id": "traditional-monologue-1962-08-27-from-going-naked-addendum",
@@ -899,7 +902,8 @@
     ],
     "certainty": "confirmed",
     "crossReferences": [
-      "traditional-monologue-1962-08-24-from-going-naked-written"
+      "traditional-monologue-1962-08-24-from-going-naked-written",
+      "li-ao-zhaji-1989-02-27-comments-beijing-nude-oil-painting-exhibition-and-sex-freedom"
     ],
     "source": {
       "book": "传统下的独白",
@@ -941,7 +945,8 @@
     "certainty": "confirmed",
     "crossReferences": [
       "traditional-monologue-1962-08-24-from-going-naked-written",
-      "traditional-monologue-1962-08-27-from-going-naked-addendum"
+      "traditional-monologue-1962-08-27-from-going-naked-addendum",
+      "li-ao-zhaji-1989-02-27-comments-beijing-nude-oil-painting-exhibition-and-sex-freedom"
     ],
     "source": {
       "book": "传统下的独白",
@@ -1889,7 +1894,8 @@
     ],
     "crossReferences": [
       "zaonian-riji-1961-04-14-checks-dazangjing-for-yao-and-copies-chinese-miss",
-      "zaonian-riji-1961-06-01-guying-letter-renjianshi-published-tea-and-haircut"
+      "zaonian-riji-1961-06-01-guying-letter-renjianshi-published-tea-and-haircut",
+      "li-ao-zhaji-1988-05-25-mocks-miss-china-hu-feicui-photo"
     ]
   }
 ]

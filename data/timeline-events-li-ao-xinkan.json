@@ -395,7 +395,10 @@
       "chapter": "010.台湾的法官最怕报阀",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/012.李敖新刊/010.台湾的法官最怕报阀.txt",
       "line": 13
-    }
+    },
+    "crossReferences": [
+      "li-ao-zhaji-1987-09-23-contrasts-li-ao-dead-with-chiang-ching-kuo-study"
+    ]
   },
   {
     "id": "liao-xinkan-1988-10-06-011-who-practices-three-principles",
@@ -2797,7 +2800,8 @@
     ],
     "certainty": "confirmed",
     "crossReferences": [
-      "liao-xinkan-1988-09-18-010-judges-fear-press-tycoons"
+      "liao-xinkan-1988-09-18-010-judges-fear-press-tycoons",
+      "li-ao-zhaji-1987-09-23-contrasts-li-ao-dead-with-chiang-ching-kuo-study"
     ],
     "source": {
       "book": "李敖新刊",
@@ -3208,7 +3212,8 @@
     "certainty": "contextual",
     "crossReferences": [
       "liao-xinkan-1988-09-18-010-judges-fear-press-tycoons",
-      "liao-xinkan-1986-10-22-writes-zilih-evening-news-after-li-ao-dead-ad"
+      "liao-xinkan-1986-10-22-writes-zilih-evening-news-after-li-ao-dead-ad",
+      "li-ao-zhaji-1987-09-23-contrasts-li-ao-dead-with-chiang-ching-kuo-study"
     ],
     "source": {
       "book": "李敖新刊",

@@ -1701,7 +1701,8 @@
       "line": 55
     },
     "crossReferences": [
-      "book5-1969-09-16-rushes-to-hospital-after-yin-death"
+      "book5-1969-09-16-rushes-to-hospital-after-yin-death",
+      "li-ao-zhaji-1987-04-26-receives-houston-six-person-call"
     ]
   },
   {
@@ -4948,7 +4949,10 @@
       "chapter": "051.李敖著作年表",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/051.李敖著作年表.txt",
       "line": 101
-    }
+    },
+    "crossReferences": [
+      "li-ao-zhaji-1984-08-15-receives-visitors-and-writes-bai-matou-note"
+    ]
   },
   {
     "id": "qianqiu-wansui-1983-05-16-063-revisits-two-noncooperators",
@@ -6799,7 +6803,8 @@
     "crossReferences": [
       "qianqiu-wansui-1984-09-06-context-070-sends-kujiujie-to-wang-xiaochi",
       "micang-diary-1985-03-22-records-wang-xiaochi-birthday-couplet-letter",
-      "micang-diary-1985-03-30-calls-wang-xiaochi-about-illness"
+      "micang-diary-1985-03-30-calls-wang-xiaochi-about-illness",
+      "li-ao-zhaji-1988-03-04-records-wang-xiaochi-piracy-defendant-logic"
     ],
     "source": {
       "book": "千秋万岁乌鸦求是合集",
@@ -9087,7 +9092,10 @@
     "crossReferences": [
       "dream-awake-1990-03-after-chen-liangxun-writes-li-ao-about-sun-liren-case",
       "qianqiu-wansui-1991-before-jul-17-190-wang-shancong-complains-through-hsieh-and-calls-li",
-      "qianqiu-wansui-1991-07-17-190-li-decides-to-publish-wang-shancong-report"
+      "qianqiu-wansui-1991-07-17-190-li-decides-to-publish-wang-shancong-report",
+      "li-ao-zhaji-1988-11-26-compares-himself-with-zola-while-shaving",
+      "li-ao-zhaji-1988-11-29-receives-wang-qixiang-call-on-sun-liren-loyalty",
+      "li-ao-zhaji-1988-11-30-receives-pan-dehui-and-chen-liangxun-on-sun-liren"
     ]
   },
   {
@@ -9873,7 +9881,10 @@
       "chapter": "129.他们为什么不退职？",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/129.他们为什么不退职？.txt",
       "line": 15
-    }
+    },
+    "crossReferences": [
+      "li-ao-zhaji-1989-01-19-records-illegal-first-national-assembly-report"
+    ]
   },
   {
     "id": "qianqiu-wansui-1989-before-jul-20-129-zhang-junhong-discusses-fei-xiping-retirement-fund",
@@ -9914,7 +9925,8 @@
       "line": 13
     },
     "crossReferences": [
-      "micang-diary-1985-04-01-suhong-call-on-fei-xiping-resignation"
+      "micang-diary-1985-04-01-suhong-call-on-fei-xiping-resignation",
+      "li-ao-zhaji-1989-01-19-records-illegal-first-national-assembly-report"
     ]
   },
   {
@@ -11848,7 +11860,8 @@
       "line": 29
     },
     "crossReferences": [
-      "micang-diary-1985-04-01-visits-hu-xuyi-at-night"
+      "micang-diary-1985-04-01-visits-hu-xuyi-at-night",
+      "li-ao-zhaji-1987-04-13-records-hu-xuyi-tatami-retirement-place"
     ]
   },
   {
@@ -12838,7 +12851,10 @@
       "chapter": "174.大文豪左拉《我控诉》手稿重现人间",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/174.大文豪左拉《我控诉》手稿重现人间.txt",
       "line": 19
-    }
+    },
+    "crossReferences": [
+      "li-ao-zhaji-1988-11-26-compares-himself-with-zola-while-shaving"
+    ]
   },
   {
     "id": "qianqiu-wansui-1991-03-16-121-writes-zola-with-right-hand",
@@ -12876,7 +12892,10 @@
       "chapter": "121.右手写左拉",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/121.右手写左拉.txt",
       "line": 23
-    }
+    },
+    "crossReferences": [
+      "li-ao-zhaji-1988-11-26-compares-himself-with-zola-while-shaving"
+    ]
   },
   {
     "id": "qianqiu-wansui-1991-03-23-122-writes-who-made-hao-hitler",
