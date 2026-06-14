@@ -1,9 +1,9 @@
 ﻿李敖交互式年表：当前增量纯文本备份
-生成日期：2026-05-24
-事件总数：9439
+生成日期：2026-06-14
+事件总数：9441
 数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json；data/timeline-events-ni-bendan.json；data/timeline-events-dream-awake.json；data/timeline-events-li-ao-xinkan.json；data/timeline-events-qianqiu-wansui-wuya-qiushi.json；data/timeline-events-li-ao-zawenji.json；data/timeline-events-qianqiu-wansui-bianwai.json；data/timeline-events-beijing-fayuansi.json；data/timeline-events-shangshan-ai.json；data/timeline-events-red-11.json；data/timeline-events-virtual-seventeen.json；data/timeline-events-yangwei-america.json；data/timeline-events-73rd-martyr.json；data/timeline-events-love-secret.json；data/timeline-events-li-ao-love-poems.json；data/timeline-events-li-yulu.json；data/timeline-events-li-ao-yulu.json；data/timeline-events-sui-qianwan-li-ao-wangyi.json；data/timeline-events-tiaozhan-li-ao-ao-yulu.json；data/timeline-events-daxue-zhaji.json；data/timeline-events-zaonian-riji.json；data/timeline-events-daxue-houqi-riji-jia.json；data/timeline-events-daxue-houqi-riji-yi.json；data/timeline-events-preofficer-diary.json；data/timeline-events-li-ao-micang-diary.json；data/timeline-events-li-ao-zhaji.json；data/timeline-events-li-ao-wuwu-diary.json
 说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。
-日期精度统计：day=8987；year=98；year-range=13；undated-range=1；undated-context=141；season=29；lunar-day=1；year-after=7；month=53；half-year=2；school-year-context=5；day-range=16；range=9；year-about=9；month-after=3；year-context=16；day-after=4；before-date-context=11；day-about=1；after-date-context=8；month-context=3；day-context=6；range-context=14；year-end=1；month-range=1
+日期精度统计：day=8989；year=98；year-range=13；undated-range=1；undated-context=141；season=29；lunar-day=1；year-after=7；month=53；half-year=2；school-year-context=5；day-range=16；range=9；year-about=9；month-after=3；year-context=16；day-after=4；before-date-context=11；day-about=1；after-date-context=8；month-context=3；day-context=6；range-context=14；year-end=1；month-range=1
 
 
 1935
@@ -72681,7 +72681,7 @@
   人物：李敖、小潘
   地点：-
   标签：-
-  视图：-
+  视图：通信线
   作品：-
   交叉引用：-
   来源：一个预备军官的日记 / 026.退伍日记 / line undefined
@@ -72694,7 +72694,7 @@
   人物：李敖、施大哥、施珂
   地点：彰化
   标签：-
-  视图：-
+  视图：通信线
   作品：施大哥信、打油诗
   交叉引用：preofficer-diary-1961-02-05-returns-to-company-meets-shike-and-receives-his-letter、preofficer-diary-1961-02-06-arrives-kaohsiung-and-writes-landing-poems-with-shike
   来源：一个预备军官的日记 / 026.退伍日记 / line undefined
@@ -72707,7 +72707,7 @@
   人物：李敖、华俊、述古、车中小童
   地点：-
   标签：-
-  视图：-
+  视图：行旅线
   作品：-
   交叉引用：preofficer-diary-1961-02-13-third-brother-in-law-gives-express-ticket、preofficer-diary-1961-02-14-sorts-bathes-and-receives-four-oranges-from-mother
   来源：一个预备军官的日记 / 026.退伍日记 / line undefined
@@ -72720,7 +72720,7 @@
   人物：李敖、锡昌
   地点：-
   标签：-
-  视图：-
+  视图：写作线
   作品：修订本
   交叉引用：preofficer-diary-1961-01-02-walks-to-station-meets-xichang-and-zhengming-and-receives-gushi-jinpan
   来源：一个预备军官的日记 / 026.退伍日记 / line undefined
@@ -72733,7 +72733,7 @@
   人物：李敖、华俊、华俊妹、华俊小侄
   地点：金门
   标签：-
-  视图：-
+  视图：交游线
   作品：李敖文章
   交叉引用：preofficer-diary-1961-02-14-huajun-visits-and-talks-about-lo-husband
   来源：一个预备军官的日记 / 026.退伍日记 / line undefined
@@ -72746,7 +72746,7 @@
   人物：李敖、外人穷、光锦、华俊
   地点：-
   标签：-
-  视图：-
+  视图：交游线
   作品：-
   交叉引用：preofficer-diary-1959-09-07-starts-hengshuo-at-houbi-and-travels-south、preofficer-diary-1961-02-10-huajun-visits-in-the-morning
   来源：一个预备军官的日记 / 026.退伍日记 / line undefined
@@ -72759,7 +72759,7 @@
   人物：李敖、光锦、华俊
   地点：-
   标签：-
-  视图：-
+  视图：交游线
   作品：-
   交叉引用：preofficer-diary-1959-09-07-starts-hengshuo-at-houbi-and-travels-south
   来源：一个预备军官的日记 / 026.退伍日记 / line undefined
@@ -72772,7 +72772,7 @@
   人物：李敖、连长
   地点：-
   标签：-
-  视图：-
+  视图：军旅线
   作品：-
   交叉引用：preofficer-diary-1961-01-05-goes-to-kaohsiung-to-buy-pen-for-company-commander、preofficer-diary-1961-01-07-farewell-company-commander-drinks-fushou-wine-vomits-and-writes-two-poems、preofficer-diary-1961-02-13-sends-express-cards-and-letters-to-qiqing-shanpei-company-and-others
   来源：一个预备军官的日记 / 026.退伍日记 / line undefined
@@ -72785,7 +72785,7 @@
   人物：李敖、施珂、善培
   地点：第一宿舍
   标签：-
-  视图：-
+  视图：交游线
   作品：施珂留信、施珂留诗、施珂漫画
   交叉引用：preofficer-diary-1961-02-05-returns-to-company-meets-shike-and-receives-his-letter、preofficer-diary-1961-02-06-arrives-kaohsiung-and-writes-landing-poems-with-shike
   来源：一个预备军官的日记 / 026.退伍日记 / line undefined
@@ -72798,7 +72798,7 @@
   人物：李敖、善培
   地点：第一宿舍
   标签：-
-  视图：-
+  视图：交游线
   作品：-
   交叉引用：preofficer-diary-1961-02-13-third-brother-in-law-gives-express-ticket
   来源：一个预备军官的日记 / 026.退伍日记 / line undefined
@@ -72811,7 +72811,7 @@
   人物：李敖、士振、张之昂、敖小姐
   地点：第一宿舍
   标签：-
-  视图：-
+  视图：交游线
   作品：-
   交叉引用：-
   来源：一个预备军官的日记 / 026.退伍日记 / line undefined
@@ -72837,7 +72837,7 @@
   人物：李敖、孙、李
   地点：-
   标签：-
-  视图：-
+  视图：交游线
   作品：-
   交叉引用：preofficer-diary-1961-02-15-shanpei-meets-li-and-washes-dust
   来源：一个预备军官的日记 / 026.退伍日记 / line undefined
@@ -113689,9 +113689,9 @@
   人物：李敖、徐绍荣、洪雪娥、任逸翔、郭、伍、周、伍振环、周孟禄、苏子琴、苏拾莹
   地点：台北
   标签：徐绍荣、洪雪娥、任逸翔、书桌、郭、伍、周、伍振环、周孟禄、新新闻、苏子琴、亚洲周刊、苏拾莹、自我介绍
-  视图：-
+  视图：日记线、交游线、出版线、媒体线、生活线
   作品：李敖五五日记、新新闻、亚洲周刊
-  交叉引用：-
+  交叉引用：li-ao-wuwu-diary-1990-11-12-ren-wu-zhou-dinner-and-congmin-addresses、li-ao-wuwu-diary-1990-11-11-yanzeng-family-and-playboy-reorg、li-ao-wuwu-diary-1990-11-10-wu-zhou-lin-jinhui-dinner-and-calls、li-ao-wuwu-diary-1990-11-07-ren-yixiang-xiaochi-and-swensens、li-ao-wuwu-diary-1990-10-24-signs-contract-with-wu-and-zhou、li-ao-wuwu-diary-1990-08-03-declines-new-news-lien-chan-interview-and-zhongwu-call
   来源：李敖五五日记 / 1990年11月 / line 213
   补充来源：-
   文件：undefined
@@ -113702,9 +113702,9 @@
   人物：李敖、忠武、中雄
   地点：台北
   标签：忠武、中雄、来电、来访
-  视图：-
+  视图：日记线、电话线、交游线
   作品：李敖五五日记
-  交叉引用：-
+  交叉引用：li-ao-wuwu-diary-1990-11-06-liberty-times-court-and-publisher-talk、li-ao-wuwu-diary-1990-08-30-receives-zhongwu-huangyi-calls-and-yongfeng-return
   来源：李敖五五日记 / 1990年11月 / line 225
   补充来源：-
   文件：undefined
@@ -113715,9 +113715,9 @@
   人物：李敖、侯德健、德健、兆基、丁颍、性忠、中雄
   地点：台北
   标签：侯德健、德健、送书、兆基、丁颍、性忠、PLAYBOY、药、影印机、中雄
-  视图：-
+  视图：日记线、交游线、出版线、媒体线、医疗线、物品线
   作品：李敖五五日记、PLAYBOY
-  交叉引用：-
+  交叉引用：li-ao-wuwu-diary-1990-09-14-buys-photocopier-and-receives-tonight-invitation、li-ao-wuwu-diary-1990-07-12-talks-with-hou-dejian-and-receives-file-call、li-ao-wuwu-diary-1990-06-26-records-hou-dejian-wenhui-report、li-ao-wuwu-diary-1990-11-08-tuku-house-viewing-and-dingying-call、li-ao-wuwu-diary-1990-11-11-yanzeng-family-and-playboy-reorg、micang-diary-1985-02-12-records-xingzhong-commuted-to-two-and-half-years、micang-diary-1985-01-20-zhaoji-helps-proofread、qianqiu-wansui-1980-03-21-012-hou-dejian-letter-to-li-ao、qianqiu-wansui-1983-06-16-012-writes-postscript-hou-dejian-letter、book7-1990-playboy-annual-report-features-li-ao-photo
   来源：李敖五五日记 / 1990年11月 / line 231
   补充来源：-
   文件：undefined
@@ -113728,9 +113728,9 @@
   人物：李敖、小屯、承厚、又亮、陈又亮、尚勤、卢孝治、潘毓刚
   地点：台北、波士顿、哈佛燕京礼堂
   标签：小屯、承厚、又亮、陈又亮、尚勤、卢孝治、剪报、租房、舢板、全美华人协会、华人成就奖、波士顿、哈佛燕京礼堂、潘毓刚、不予返台、美国之行、录音带、费正清中心、美国国务院、拒发护照
-  视图：-
+  视图：日记线、电话线、居住线、媒体线、政治线、荣誉线、出行线
   作品：李敖五五日记、舢板
-  交叉引用：-
+  交叉引用：book8-1990-10-receives-naca-outstanding-achievement-award、qianqiu-wansui-1990-10-29-120-writes-naca-award-acceptance-speech、qianqiu-wansui-1990-10-29-120-records-naca-award-acceptance-speech、book5-1990-11-28-li-rebuts-boston-office、li-ao-wuwu-diary-1990-08-03-xiaowen-moves-and-xiaopan-letter-invites-us-trip、li-ao-wuwu-diary-1990-08-13-receives-xiaopan-rongzu-trip-calls、li-ao-wuwu-diary-1990-07-26-asheng-lei-zhen-materials-and-youliang-call、li-ao-wuwu-diary-1990-08-19-seeks-youliang-and-records-typhoon-return、li-ao-wuwu-diary-1990-10-15-lunch-and-park-with-xiaotun、micang-diary-1985-01-08-repays-chenghou-five-hundred-thousand、micang-diary-1985-03-16-receives-shangqin-ad-for-banned-books
   来源：李敖五五日记 / 1990年11月 / line 243
   补充来源：-
   文件：undefined
@@ -113741,9 +113741,9 @@
   人物：李敖、中雄、施复华、惠群
   地点：台北
   标签：中雄、施复华、惠群、午饭、长谈
-  视图：-
+  视图：日记线、交游线
   作品：李敖五五日记
-  交叉引用：-
+  交叉引用：li-ao-wuwu-diary-1990-11-15-zhongwu-call-and-zhongxiong-visit、li-ao-wuwu-diary-1990-11-16-hou-dejian-books-zhaoji-dingying-and-photocopier、li-ao-wuwu-diary-1990-10-31-taiwan-news-interview-and-jiyuan-dinner、li-ao-wuwu-diary-1990-10-25-yizhi-lunch-and-shuidu-lincoln-with-xiaotun
   来源：李敖五五日记 / 1990年11月 / line 275
   补充来源：-
   文件：undefined
@@ -113754,9 +113754,9 @@
   人物：李敖、心仪、曾心仪、以祺、小沈、信疆、高信疆
   地点：台北、公司、小沈店
   标签：心仪、曾心仪、公司、以祺、小沈、小沈店、信疆、高信疆、夜谈
-  视图：-
+  视图：日记线、交游线、出版线
   作品：李敖五五日记
-  交叉引用：-
+  交叉引用：li-ao-wuwu-diary-1990-11-02-xindian-house-viewing-and-xinyi-call、li-ao-wuwu-diary-1990-10-16-printers-talk-and-xinyi-letter、micang-diary-1985-01-31-calls-zeng-xinyi-after-dismissal-from-minzhong-daily、li-ao-wuwu-diary-1990-05-03-meals-with-yiqi-and-jiali-visit、li-ao-wuwu-diary-1990-05-04-dinner-coffee-with-xiao-shen-and-yiqi、li-ao-wuwu-diary-1990-10-30-linkou-house-handover、li-ao-wuwu-diary-1990-08-21-receives-calls-and-xinjiang-visit、li-ao-wuwu-diary-1990-06-21-receives-xinjiang-couple-and-sylvie、li-ao-wuwu-diary-1990-06-04-dines-with-zhaoyang-and-talks-with-gao-xinjiang
   来源：李敖五五日记 / 1990年11月 / line 281
   补充来源：-
   文件：undefined
@@ -113767,9 +113767,9 @@
   人物：李敖、侯德健、德健、以祺、小屯、法官、肇藩、荣文、施复华、施坤良、伍、周、伍振环、周孟禄、放、李放、信疆、高信疆、戴小华、颜如君、李金莲
   地点：台北、法院
   标签：侯德健、德健、以祺、小屯、开庭、法官、中央日报、肇藩、荣文、胡适日记、施复华、施坤良、伍、周、伍振环、周孟禄、放、李放、信疆、高信疆、戴小华、颜如君、李金莲
-  视图：-
+  视图：日记线、交游线、法律线、出版线、家庭线、电话线
   作品：李敖五五日记、中央日报、胡适日记
-  交叉引用：-
+  交叉引用：li-ao-wuwu-diary-1990-11-16-hou-dejian-books-zhaoji-dingying-and-photocopier、qianqiu-wansui-1980-03-21-012-hou-dejian-letter-to-li-ao、li-ao-wuwu-diary-1990-05-03-meals-with-yiqi-and-jiali-visit、li-ao-wuwu-diary-1990-11-17-house-viewing-and-sampan-naca-award-report、li-ao-wuwu-diary-1990-09-04-central-daily-hearing-conflict-with-judge、li-ao-wuwu-diary-1990-10-09-mails-central-daily-appeal、li-ao-wuwu-diary-1990-08-14-complains-central-daily-to-city-and-press-council、li-ao-wuwu-diary-1990-04-26-hears-central-daily-refused-ad、li-ao-wuwu-diary-1990-10-26-receives-rongwen-call、li-ao-wuwu-diary-1990-10-29-news-office-yuanliu-and-kangde、micang-diary-1985-01-16-receives-hu-shih-diary-facsimile、micang-diary-1985-01-16-rongwen-couple-visits、li-ao-wuwu-diary-1990-11-18-zhongxiong-shi-fuhua-dinner-and-talk、li-ao-wuwu-diary-1990-11-14-xu-hong-ren-wu-zhou-and-xin-xinwen、li-ao-wuwu-diary-1990-10-24-signs-contract-with-wu-and-zhou、li-ao-wuwu-diary-1990-11-07-ren-yixiang-xiaochi-and-swensens、li-ao-wuwu-diary-1990-11-19-xinyi-company-yiqi-xiaoshen-xinjiang-night-talk、li-ao-wuwu-diary-1990-09-27-li-jinlian-visits-and-li-writes-chen-jianyu-exclusive
   来源：李敖五五日记 / 1990年11月 / line 289
   补充来源：-
   文件：undefined
@@ -113780,9 +113780,9 @@
   人物：李敖、惠群、熊先生、段母
   地点：台北
   标签：惠群、熊先生、口述、电话记录、段母、大敛、副总统、吊丧
-  视图：-
+  视图：日记线、电话线、交游线、口述线、丧事线
   作品：李敖五五日记
-  交叉引用：-
+  交叉引用：li-ao-wuwu-diary-1990-09-28-receives-duan-mother-death-and-hou-dejian-calls、li-ao-wuwu-diary-1990-11-18-zhongxiong-shi-fuhua-dinner-and-talk、li-ao-wuwu-diary-1990-10-25-yizhi-lunch-and-shuidu-lincoln-with-xiaotun
   来源：李敖五五日记 / 1990年11月 / line 309
   补充来源：-
   文件：undefined
@@ -113793,9 +113793,9 @@
   人物：李敖、戴小华、颜如君、吴大猷、王世杰女儿、聪敏、谢聪敏、铭山、子政、益宣、蔡仲诵
   地点：台北、法院、市政府
   标签：戴小华、颜如君、马来西亚报纸、访问、吴大猷、出控、市政府、报纸执照、聪敏、谢聪敏、铭山、子政、益宣、蔡仲诵、台大
-  视图：-
+  视图：日记线、媒体线、法律线、出版线、交游线、行政线
   作品：李敖五五日记、马来西亚报纸
-  交叉引用：-
+  交叉引用：li-ao-wuwu-diary-1990-11-20-court-rongwen-hushi-diary-and-visitors、li-ao-wuwu-diary-1990-09-24-court-against-academia-sinica-four-and-calls、li-ao-wuwu-diary-1990-09-11-united-daily-reports-wu-dayou-lawsuit、qiushi-xinyu-1989-11-12-wu-ta-yu-hypocrisy、book5-1990-03-wang-shijie-diary-reveals-rejection-of-li、li-ao-wuwu-diary-1990-10-29-news-office-yuanliu-and-kangde、book4-1981-07-10-taipei-city-cancels-qianqiu-publisher-registration、li-ao-wuwu-diary-1990-11-12-ren-wu-zhou-dinner-and-congmin-addresses、li-ao-wuwu-diary-1990-11-13-records-lynn-miles-report、li-ao-wuwu-diary-1990-09-12-rotary-southeast-lecture-invitation、micang-diary-1985-01-27-receives-yixuan-call-about-classmates-gathering、woshi-tiananmen-1989-12-06-china-no-pants-problem
   来源：李敖五五日记 / 1990年11月 / line 315
   补充来源：-
   文件：undefined
@@ -113806,9 +113806,9 @@
   人物：李敖、艺之、伍、周、伍振环、周孟禄、凤凰、华成、中雄、三三、继梅、育昆、蔡小姐
   地点：台北、公司
   标签：艺之、伍、周、伍振环、周孟禄、凤凰、华成、中雄、公司、三三、继梅、育昆、蔡小姐、饭局
-  视图：-
+  视图：日记线、交游线、出版线
   作品：李敖五五日记
-  交叉引用：-
+  交叉引用：li-ao-wuwu-diary-1990-10-25-yizhi-lunch-and-shuidu-lincoln-with-xiaotun、li-ao-wuwu-diary-1990-08-10-dines-with-yizhi-three-hours、li-ao-wuwu-diary-1990-11-20-court-rongwen-hushi-diary-and-visitors、li-ao-wuwu-diary-1990-11-14-xu-hong-ren-wu-zhou-and-xin-xinwen、li-ao-wuwu-diary-1990-10-24-signs-contract-with-wu-and-zhou、li-ao-wuwu-diary-1990-11-18-zhongxiong-shi-fuhua-dinner-and-talk、li-ao-wuwu-diary-1990-05-05-duan-dinner-and-publishing-calls、zaonian-riji-1966-04-24-birthday-shopping-movie-gifts-and-aunt-letter、zaonian-riji-1966-05-01-movie-with-sansan-jimei-and-all-night-talk、li-ao-wuwu-diary-1990-11-05-huacheng-house-viewing-and-lin-xiling-message
   来源：李敖五五日记 / 1990年11月 / line 325
   补充来源：-
   文件：undefined
@@ -113819,9 +113819,9 @@
   人物：李敖、杨怡祥
   地点：台北、中山医院
   标签：看喉、中山医院、杨怡祥、大夫、全部著作、读者
-  视图：-
+  视图：日记线、医疗线、读者线
   作品：李敖五五日记、李敖著作
-  交叉引用：-
+  交叉引用：li-ao-wuwu-diary-1990-11-20-court-rongwen-hushi-diary-and-visitors、li-ao-wuwu-diary-1990-10-31-taiwan-news-interview-and-jiyuan-dinner、li-ao-wuwu-diary-1990-08-08-receives-taichung-judge-praise-call
   来源：李敖五五日记 / 1990年11月 / line 337
   补充来源：-
   文件：undefined
@@ -113832,9 +113832,9 @@
   人物：李敖、段、段母、小屯、伍先生、永丰、小潘
   地点：台北
   标签：段、段母、丧礼照片、黑白两道、小屯、小火锅、伍先生、搬家、永丰、小潘、北美协调会、抗议、FAX、胡适与我、编书
-  视图：-
+  视图：日记线、交游线、家庭线、出版线、政治线、通讯线
   作品：李敖五五日记、胡适与我
-  交叉引用：-
+  交叉引用：li-ao-wuwu-diary-1990-11-21-huiqun-dictation-and-duan-mother-call、li-ao-wuwu-diary-1990-09-28-receives-duan-mother-death-and-hou-dejian-calls、li-ao-wuwu-diary-1990-11-17-house-viewing-and-sampan-naca-award-report、book8-1990-10-receives-naca-outstanding-achievement-award、qianqiu-wansui-1990-10-29-120-records-naca-award-acceptance-speech、li-ao-wuwu-diary-1990-08-03-xiaowen-moves-and-xiaopan-letter-invites-us-trip、li-ao-wuwu-diary-1990-08-13-receives-xiaopan-rongzu-trip-calls、micang-diary-1985-01-16-receives-hu-shih-diary-facsimile、li-ao-wuwu-diary-1990-11-20-court-rongwen-hushi-diary-and-visitors、li-ao-wuwu-diary-1990-11-23-yizhi-wu-zhou-office-and-dinner、li-ao-wuwu-diary-1990-10-24-signs-contract-with-wu-and-zhou
   来源：李敖五五日记 / 1990年11月 / line 341
   补充来源：-
   文件：undefined
@@ -113845,9 +113845,9 @@
   人物：李敖、锦江、林慧懿、李放、梁幼祥、伍、周、伍振环、周孟禄、小屯
   地点：台北、政大书城
   标签：锦江、芝麻街、林慧懿、李放、辛八达、梁幼祥、政大书城、血压、Samp Newspaper、北美协调会、抗议信、写文驳之、自由时报、判决书、伍、周、伍振环、周孟禄、小屯
-  视图：-
+  视图：日记线、交游线、健康线、写作线、法律线、出版线、通讯线
   作品：李敖五五日记、芝麻街、北美协调会《抗议信》、自由时报判决书
-  交叉引用：-
+  交叉引用：li-ao-wuwu-diary-1990-11-25-duan-photos-pan-protest-and-hushi-yu-wo、li-ao-wuwu-diary-1990-11-17-house-viewing-and-sampan-naca-award-report、book5-1990-11-28-li-rebuts-boston-office、li-ao-wuwu-diary-1990-11-06-liberty-times-court-and-publisher-talk、li-ao-wuwu-diary-1990-10-19-high-court-liberty-times-case-and-social、li-ao-wuwu-diary-1990-05-17-receives-liberty-times-subpoena、li-ao-wuwu-diary-1990-11-23-yizhi-wu-zhou-office-and-dinner、li-ao-wuwu-diary-1990-11-20-court-rongwen-hushi-diary-and-visitors、li-ao-wuwu-diary-1990-06-18-recognized-by-reader-and-restaurant-staff
   来源：李敖五五日记 / 1990年11月 / line 355
   补充来源：-
   文件：undefined
@@ -113858,9 +113858,9 @@
   人物：李敖、董大夫、曹又方、中仪嫂、王方、李钧、赖智信、小痴、应凤凰、应凤凰女儿、忠武、小屯、胡茵梦、楚崧秋
   地点：台北、六品、三总
   标签：董大夫、安血利、Esidri、华视、给女儿的贴心话、曹又方、中仪嫂、王方、李钧、白公馆、赖智信、三总、小痴、应凤凰、忠武、侨报、承印、代发行、胡茵梦、中央日报、楚崧秋、驳文
-  视图：-
+  视图：日记线、健康线、媒体线、交游线、办报线、写作线、电话线
   作品：李敖五五日记、给女儿的贴心话、侨报、中央日报、驳〈中央日报〉楚崧秋
-  交叉引用：-
+  交叉引用：li-ao-wuwu-diary-1990-11-26-jinjiang-protest-rebuttal-liberty-judgment、li-ao-wuwu-diary-1990-11-24-throat-doctor-yang-yixiang、li-ao-wuwu-diary-1990-11-22-malaysian-interview-wu-dayou-court-and-license、book4-1991-02-27-qiushi-daily-starts、woshi-tiananmen-1990-08-30-true-solution-is-ending-poverty、li-ao-wuwu-diary-1990-11-15-zhongwu-call-and-zhongxiong-visit、li-ao-wuwu-diary-1990-06-30-visits-xiaochi-at-tri-service、li-ao-wuwu-diary-1990-09-17-diarrhea-home-clipping-and-company-visit、li-ao-wuwu-diary-1990-08-14-complains-central-daily-to-city-and-press-council、li-ao-wuwu-diary-1990-09-04-central-daily-hearing-conflict-with-judge、li-ao-wuwu-diary-1990-11-20-court-rongwen-hushi-diary-and-visitors、li-ao-wuwu-diary-1990-05-17-records-hu-yinmeng-mother-and-wang-qixiang-hospitalization
   来源：李敖五五日记 / 1990年11月 / line 369
   补充来源：-
   文件：undefined
@@ -113871,9 +113871,9 @@
   人物：李敖、中仪嫂、又亮、钟毓田、黄护士、杨怡祥、杨莲生、严家淦、唐纵、邱永汉
   地点：台北、五楼、中山医院、桂林路117号、杨莲生耳鼻喉科、台北医学院
   标签：中仪嫂、又亮、钟毓田、眩晕、听力检查、中山医院、黄护士、杨怡祥、桂林路117号、杨莲生耳鼻喉科、蒸气疗法、严家淦、唐纵、台北医学院、邱永汉、办报、作息、每天可写十小时
-  视图：-
+  视图：日记线、健康线、交游线、办报线、写作线、电话线
   作品：李敖五五日记、李敖著作
-  交叉引用：-
+  交叉引用：li-ao-wuwu-diary-1990-11-24-throat-doctor-yang-yixiang、li-ao-wuwu-diary-1990-11-27-esidri-huashi-qiaobao-and-chu-songqiu、li-ao-wuwu-diary-1990-11-22-malaysian-interview-wu-dayou-court-and-license、book4-1991-02-27-qiushi-daily-starts、li-ao-wuwu-diary-1990-10-23-hu-qiuyuan-shi-yonggui-court-and-newspaper-talk、li-ao-wuwu-diary-1990-10-29-news-office-yuanliu-and-kangde、li-ao-wuwu-diary-1990-07-26-asheng-lei-zhen-materials-and-youliang-call、li-ao-wuwu-diary-1990-11-17-house-viewing-and-sampan-naca-award-report、preofficer-diary-1960-01-08-zhong-bingguang-dreams-li-worst-vulgar-and-qingmao-says-li-exposes-privacy、micang-diary-1970-10-29-drafts-peng-wife-letter-to-yen-chia-kan-for-exit-permission
   来源：李敖五五日记 / 1990年11月 / line 385
   补充来源：-
   文件：undefined
@@ -113891,6 +113891,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/016.梦遗纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1990-11-28-li-rebuts-boston-office
+- 1990年11月29日 | 李敖校稿送奠仪
+  精度：day；可靠度：confirmed；排序日期：1990-11-29
+  摘要：11月29日，李敖将安血利改服一粒；电小潘；秋镇来电要来看他，李敖说等办报具体化后再见；他一口气校正《龚德柏入狱记》，并记该稿若非乔家才被他说动、由他印出，七万字恐难见天日；文杰母丧，李敖送二千元；王善从再来信并寄照片；基峻来信。
+  人物：李敖、小潘、秋镇、龚德柏、乔家才、文杰、王善从、基峻
+  地点：台北
+  标签：安血利、Esidri、小潘、秋镇、办报、龚德柏入狱记、龚德柏、乔家才、文杰、母丧、奠仪、王善从、照片、基峻、来信
+  视图：日记线、健康线、电话线、编辑线、出版线、丧事线、通信线
+  作品：李敖五五日记、龚德柏入狱记
+  交叉引用：li-ao-wuwu-diary-1990-11-27-esidri-huashi-qiaobao-and-chu-songqiu、li-ao-wuwu-diary-1990-11-28-hearing-tests-yang-yixiang-and-routine、li-ao-wuwu-diary-1990-11-25-duan-photos-pan-protest-and-hushi-yu-wo、li-ao-wuwu-diary-1990-05-06-visits-su-qiuzhen-before-beijing-trip、liao-xinkan-1988-12-26-033-gong-debo-memoirs、liao-xinkan-1964-1965-persuades-xiao-mengneng-publish-gong-debo-books、li-ao-wuwu-diary-1990-08-05-dines-with-qiao-jiacai-gu-zhengwen-and-receives-materials、li-ao-wuwu-diary-1990-09-13-arranges-qiao-jiacai-prison-notes-publication、book3-1990-10-05-qiao-prison-account-published、li-ao-wuwu-diary-1990-08-17-receives-wang-shancong-files-and-youliang-call、li-ao-wuwu-diary-1990-09-21-dines-with-laoguo-meets-youxianda-and-receives-wang-letter、li-ao-wuwu-diary-1990-05-09-lunches-with-wenqian-li-ning-and-jijun
+  来源：李敖五五日记 / 1990年11月 / line 413
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/008.李敖五五日记/008.1990年11月.txt
+  数据：data/timeline-events-li-ao-wuwu-diary.json#li-ao-wuwu-diary-1990-11-29-esidri-xiaopan-qiuzhen-gongdebo-letters
+- 1990年11月30日 | 李敖让出编辑部
+  精度：day；可靠度：confirmed；排序日期：1990-11-30
+  摘要：11月30日，李敖与小屯午饭后逛永琦南京店，买毛衣、文具；宏正来公司；傍晚他与伍、周谈，首次看十二楼之五电打房，发现工作人员太挤，决定让出自己新设的编辑部；他记录电视中残障人士靠训练好的小猴服侍的片段；荣文补送《胡适日记》第五册二本，留字而去；李敖电基峻。
+  人物：李敖、小屯、宏正、伍、周、伍振环、周孟禄、荣文、基峻
+  地点：台北、永琦南京店、公司、十二楼之五、电打房
+  标签：小屯、永琦南京店、毛衣、文具、宏正、公司、伍、周、伍振环、周孟禄、十二楼之五、电打房、工作人员、编辑部、残障人士、小猴、荣文、胡适日记、第五册、基峻
+  视图：日记线、生活线、交游线、办报线、出版线、电话线
+  作品：李敖五五日记、胡适日记
+  交叉引用：li-ao-wuwu-diary-1990-11-29-esidri-xiaopan-qiuzhen-gongdebo-letters、li-ao-wuwu-diary-1990-11-23-yizhi-wu-zhou-office-and-dinner、li-ao-wuwu-diary-1990-11-26-jinjiang-protest-rebuttal-liberty-judgment、li-ao-wuwu-diary-1990-10-24-signs-contract-with-wu-and-zhou、li-ao-wuwu-diary-1990-05-22-xiaozhao-suggests-selling-12f-5、li-ao-wuwu-diary-1990-05-23-xiaozhao-brother-in-law-discusses-sale、li-ao-wuwu-diary-1990-09-18-letter-to-duan-hongjun-stops-world-forum-column、li-ao-wuwu-diary-1990-11-20-court-rongwen-hushi-diary-and-visitors、micang-diary-1985-01-16-receives-hu-shih-diary-facsimile、li-ao-wuwu-diary-1990-10-26-receives-rongwen-call、li-ao-wuwu-diary-1990-05-09-lunches-with-wenqian-li-ning-and-jijun、li-ao-wuwu-diary-1990-05-22-hongzheng-calls-about-tang-degang-lunch、li-ao-wuwu-diary-1990-07-23-receives-hongzheng-visit-and-zengsheifen-call
+  来源：李敖五五日记 / 1990年11月 / line 429
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/008.李敖五五日记/008.1990年11月.txt
+  数据：data/timeline-events-li-ao-wuwu-diary.json#li-ao-wuwu-diary-1990-11-30-shopping-electric-typing-room-and-hushi-diary
 - 1990年12月26日星期三 | 李敖写《忘亦好》
   精度：day；可靠度：confirmed；排序日期：1990-12-26
   摘要：《忘亦好》署1990年12月26日。李敖以诗文形式写“忘亦好”，收入本卷后构成1990年底的一个写作节点。

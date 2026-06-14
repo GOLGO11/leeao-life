@@ -19067,13 +19067,6 @@
     "displayDate": "1990年11月14日",
     "datePrecision": "day",
     "summary": "11月14日午后，李敖与徐绍荣、洪雪娥、任逸翔谈三小时；买书桌五个；郭来；夜里伍、周来谈三小时；《新新闻》苏子琴（即《亚洲周刊》苏拾莹）自我介绍。",
-    "categories": [
-      "日记线",
-      "交游线",
-      "出版线",
-      "媒体线",
-      "生活线"
-    ],
     "tags": [
       "徐绍荣",
       "洪雪娥",
@@ -19125,7 +19118,14 @@
       ],
       "note": "11月14日日记，记录午后会谈、购置书桌、晚间伍周来谈及《新新闻》苏子琴自我介绍。"
     },
-    "crossRefs": [
+    "view": [
+      "日记线",
+      "交游线",
+      "出版线",
+      "媒体线",
+      "生活线"
+    ],
+    "crossReferences": [
       "li-ao-wuwu-diary-1990-11-12-ren-wu-zhou-dinner-and-congmin-addresses",
       "li-ao-wuwu-diary-1990-11-11-yanzeng-family-and-playboy-reorg",
       "li-ao-wuwu-diary-1990-11-10-wu-zhou-lin-jinhui-dinner-and-calls",
@@ -19141,11 +19141,6 @@
     "displayDate": "1990年11月15日",
     "datePrecision": "day",
     "summary": "11月15日，李敖接忠武来电；夜里中雄来。",
-    "categories": [
-      "日记线",
-      "电话线",
-      "交游线"
-    ],
     "tags": [
       "忠武",
       "中雄",
@@ -19174,7 +19169,12 @@
       ],
       "note": "11月15日日记，记录忠武来电与中雄夜访。"
     },
-    "crossRefs": [
+    "view": [
+      "日记线",
+      "电话线",
+      "交游线"
+    ],
+    "crossReferences": [
       "li-ao-wuwu-diary-1990-11-06-liberty-times-court-and-publisher-talk",
       "li-ao-wuwu-diary-1990-08-30-receives-zhongwu-huangyi-calls-and-yongfeng-return"
     ]
@@ -19186,14 +19186,6 @@
     "displayDate": "1990年11月16日",
     "datePrecision": "day",
     "summary": "11月16日晨，侯德健来送书；下午兆基来；夜里丁颍来；性忠寄来 PLAYBOY 及药；李敖把影印机送给中雄，当天搬去。",
-    "categories": [
-      "日记线",
-      "交游线",
-      "出版线",
-      "媒体线",
-      "医疗线",
-      "物品线"
-    ],
     "tags": [
       "侯德健",
       "德健",
@@ -19236,7 +19228,15 @@
       ],
       "note": "11月16日日记，记录侯德健送书、友人来访、性忠寄物与影印机送中雄。"
     },
-    "crossRefs": [
+    "view": [
+      "日记线",
+      "交游线",
+      "出版线",
+      "媒体线",
+      "医疗线",
+      "物品线"
+    ],
+    "crossReferences": [
       "li-ao-wuwu-diary-1990-09-14-buys-photocopier-and-receives-tonight-invitation",
       "li-ao-wuwu-diary-1990-07-12-talks-with-hou-dejian-and-receives-file-call",
       "li-ao-wuwu-diary-1990-06-26-records-hou-dejian-wenhui-report",
@@ -19256,15 +19256,6 @@
     "displayDate": "1990年11月17日",
     "datePrecision": "day",
     "summary": "11月17日凌晨和早晨，李敖先后接小屯、承厚来电；午前看租房；又亮来电；尚勤寄剪报来；李敖回卢孝治电。当天他在日记中记录11月2日美国《舢板》消息：全美华人协会华人成就奖颁奖宴会列李敖为获奖者，11月11日在哈佛燕京礼堂播放李敖录音带约二十分钟；报道还称台湾政府声言李敖出国后不予返台，李敖通过长途电话告诉潘毓刚，因不能保证返台而宁可不出国，原拟波士顿公开演讲取消；报道并回顾美国国务院和哈佛费正清中心曾邀访李敖，均因台湾政府拒发护照未成。",
-    "categories": [
-      "日记线",
-      "电话线",
-      "居住线",
-      "媒体线",
-      "政治线",
-      "荣誉线",
-      "出行线"
-    ],
     "tags": [
       "小屯",
       "承厚",
@@ -19328,7 +19319,16 @@
       ],
       "note": "11月17日日记，除当日来电、看租房、收剪报、回电外，并摘录11月2日美国《舢板》关于全美华人协会华人成就奖、播放李敖录音带及赴美受阻的报道；旁枝会议议程和其他获奖人不另立事件。"
     },
-    "crossRefs": [
+    "view": [
+      "日记线",
+      "电话线",
+      "居住线",
+      "媒体线",
+      "政治线",
+      "荣誉线",
+      "出行线"
+    ],
+    "crossReferences": [
       "book8-1990-10-receives-naca-outstanding-achievement-award",
       "qianqiu-wansui-1990-10-29-120-writes-naca-award-acceptance-speech",
       "qianqiu-wansui-1990-10-29-120-records-naca-award-acceptance-speech",
@@ -19349,10 +19349,6 @@
     "displayDate": "1990年11月18日",
     "datePrecision": "day",
     "summary": "11月18日午，李敖与中雄、施复华吃饭，碰到惠群请客；下午又与施复华谈到傍晚。",
-    "categories": [
-      "日记线",
-      "交游线"
-    ],
     "tags": [
       "中雄",
       "施复华",
@@ -19383,7 +19379,11 @@
       ],
       "note": "11月18日日记，记录李敖与中雄、施复华饭叙，碰到惠群请客，并与施复华谈到傍晚。"
     },
-    "crossRefs": [
+    "view": [
+      "日记线",
+      "交游线"
+    ],
+    "crossReferences": [
       "li-ao-wuwu-diary-1990-11-15-zhongwu-call-and-zhongxiong-visit",
       "li-ao-wuwu-diary-1990-11-16-hou-dejian-books-zhaoji-dingying-and-photocopier",
       "li-ao-wuwu-diary-1990-10-31-taiwan-news-interview-and-jiyuan-dinner",
@@ -19397,11 +19397,6 @@
     "displayDate": "1990年11月19日",
     "datePrecision": "day",
     "summary": "11月19日，心仪来李敖公司；夜里李敖与以祺、小沈吃饭，并去小沈店；信疆、以祺又与李敖夜谈到一点半。",
-    "categories": [
-      "日记线",
-      "交游线",
-      "出版线"
-    ],
     "tags": [
       "心仪",
       "曾心仪",
@@ -19442,7 +19437,12 @@
       ],
       "note": "11月19日日记，记录心仪来公司，李敖与以祺、小沈饭叙并去小沈店，信疆、以祺夜谈到一点半。"
     },
-    "crossRefs": [
+    "view": [
+      "日记线",
+      "交游线",
+      "出版线"
+    ],
+    "crossReferences": [
       "li-ao-wuwu-diary-1990-11-02-xindian-house-viewing-and-xinyi-call",
       "li-ao-wuwu-diary-1990-10-16-printers-talk-and-xinyi-letter",
       "micang-diary-1985-01-31-calls-zeng-xinyi-after-dismissal-from-minzhong-daily",
@@ -19461,14 +19461,6 @@
     "displayDate": "1990年11月20日",
     "datePrecision": "day",
     "summary": "11月20日11时，侯德健、以祺来，李敖同他们午饭；小屯陪李敖开庭，法官颇责《中央日报》，并说看过李敖作品，李敖所争是原则；李敖碰到肇藩。荣文来，送《胡适日记》二套；施复华及其兄施坤良来晚饭；伍、周来，放来；信疆夫妇带戴小华及其女儿颜如君来；李金莲来电。",
-    "categories": [
-      "日记线",
-      "交游线",
-      "法律线",
-      "出版线",
-      "家庭线",
-      "电话线"
-    ],
     "tags": [
       "侯德健",
       "德健",
@@ -19544,7 +19536,15 @@
       ],
       "note": "11月20日日记，记录德健、以祺来午饭，小屯陪开庭、法官责《中央日报》并评价李敖作品，荣文送《胡适日记》，以及晚间多方来访来电。"
     },
-    "crossRefs": [
+    "view": [
+      "日记线",
+      "交游线",
+      "法律线",
+      "出版线",
+      "家庭线",
+      "电话线"
+    ],
+    "crossReferences": [
       "li-ao-wuwu-diary-1990-11-16-hou-dejian-books-zhaoji-dingying-and-photocopier",
       "qianqiu-wansui-1980-03-21-012-hou-dejian-letter-to-li-ao",
       "li-ao-wuwu-diary-1990-05-03-meals-with-yiqi-and-jiali-visit",
@@ -19572,13 +19572,6 @@
     "displayDate": "1990年11月21日",
     "datePrecision": "day",
     "summary": "11月21日，惠群来电托李敖帮忙；夜里李敖口述，由熊先生电话记录。段母大敛，李敖夜里接到来电，得知副总统以下千余人吊丧的盛况。",
-    "categories": [
-      "日记线",
-      "电话线",
-      "交游线",
-      "口述线",
-      "丧事线"
-    ],
     "tags": [
       "惠群",
       "熊先生",
@@ -19612,7 +19605,14 @@
       ],
       "note": "11月21日日记，记录惠群来电托帮忙、李敖夜里口述由熊先生电话记录，以及李敖接到段母大敛吊丧盛况的来电。"
     },
-    "crossRefs": [
+    "view": [
+      "日记线",
+      "电话线",
+      "交游线",
+      "口述线",
+      "丧事线"
+    ],
+    "crossReferences": [
       "li-ao-wuwu-diary-1990-09-28-receives-duan-mother-death-and-hou-dejian-calls",
       "li-ao-wuwu-diary-1990-11-18-zhongxiong-shi-fuhua-dinner-and-talk",
       "li-ao-wuwu-diary-1990-10-25-yizhi-lunch-and-shuidu-lincoln-with-xiaotun"
@@ -19625,14 +19625,6 @@
     "displayDate": "1990年11月22日",
     "datePrecision": "day",
     "summary": "11月22日，戴小华、颜如君代马来西亚报纸访问李敖，并陪他9:30至12:30出控吴大猷庭；李敖去市政府领报纸执照。夜里，李敖与聪敏、铭山、子政、益宣谈四小时；在法院时，律师蔡仲诵向李敖自我介绍，说在台大晚他二十年。",
-    "categories": [
-      "日记线",
-      "媒体线",
-      "法律线",
-      "出版线",
-      "交游线",
-      "行政线"
-    ],
     "tags": [
       "戴小华",
       "颜如君",
@@ -19685,7 +19677,15 @@
       ],
       "note": "11月22日日记，记录马来西亚报纸访问、陪同出控吴大猷庭、领报纸执照、夜谈四小时，以及法院中蔡仲诵自我介绍。"
     },
-    "crossRefs": [
+    "view": [
+      "日记线",
+      "媒体线",
+      "法律线",
+      "出版线",
+      "交游线",
+      "行政线"
+    ],
+    "crossReferences": [
       "li-ao-wuwu-diary-1990-11-20-court-rongwen-hushi-diary-and-visitors",
       "li-ao-wuwu-diary-1990-09-24-court-against-academia-sinica-four-and-calls",
       "li-ao-wuwu-diary-1990-09-11-united-daily-reports-wu-dayou-lawsuit",
@@ -19707,11 +19707,6 @@
     "displayDate": "1990年11月23日",
     "datePrecision": "day",
     "summary": "11月23日午，李敖与艺之吃饭；伍、周来，凤凰来，华成、中雄到公司来；夜里李敖与三三、继梅、育昆、蔡小姐吃饭。",
-    "categories": [
-      "日记线",
-      "交游线",
-      "出版线"
-    ],
     "tags": [
       "艺之",
       "伍",
@@ -19764,7 +19759,12 @@
       ],
       "note": "11月23日日记，记录李敖与艺之午饭、伍周等来访、华成中雄到公司，以及夜间饭局。"
     },
-    "crossRefs": [
+    "view": [
+      "日记线",
+      "交游线",
+      "出版线"
+    ],
+    "crossReferences": [
       "li-ao-wuwu-diary-1990-10-25-yizhi-lunch-and-shuidu-lincoln-with-xiaotun",
       "li-ao-wuwu-diary-1990-08-10-dines-with-yizhi-three-hours",
       "li-ao-wuwu-diary-1990-11-20-court-rongwen-hushi-diary-and-visitors",
@@ -19784,11 +19784,6 @@
     "displayDate": "1990年11月24日",
     "datePrecision": "day",
     "summary": "11月24日午后，李敖到中山医院看喉；三十八岁的杨怡祥大夫拥有李敖全部著作，并能详细谈出李敖书中事。",
-    "categories": [
-      "日记线",
-      "医疗线",
-      "读者线"
-    ],
     "tags": [
       "看喉",
       "中山医院",
@@ -19819,7 +19814,12 @@
       ],
       "note": "11月24日日记，记录李敖午后看喉，并记中山医院杨怡祥大夫拥有李敖全部著作且熟悉其书中事。"
     },
-    "crossRefs": [
+    "view": [
+      "日记线",
+      "医疗线",
+      "读者线"
+    ],
+    "crossReferences": [
       "li-ao-wuwu-diary-1990-11-20-court-rongwen-hushi-diary-and-visitors",
       "li-ao-wuwu-diary-1990-10-31-taiwan-news-interview-and-jiyuan-dinner",
       "li-ao-wuwu-diary-1990-08-08-receives-taichung-judge-praise-call"
@@ -19832,14 +19832,6 @@
     "displayDate": "1990年11月25日",
     "datePrecision": "day",
     "summary": "11月25日10时半后，段来向李敖出示其母亲丧礼上黑白两道大员照片，并谈丧礼宾客；午间李敖与小屯吃小火锅，夜里在家煮稀饭；他看伍先生指挥搬家，谢绝永丰郊游之约；小潘两次来电谈北美协调会抗议事，李敖请记者传真来并表示会亲自处理；从前一天到当天，李敖编完《胡适与我》。",
-    "categories": [
-      "日记线",
-      "交游线",
-      "家庭线",
-      "出版线",
-      "政治线",
-      "通讯线"
-    ],
     "tags": [
       "段",
       "段母",
@@ -19888,7 +19880,15 @@
       ],
       "note": "11月25日日记，记录段来谈母亲丧礼、李敖与小屯吃饭、看伍先生搬家、谢绝永丰郊游、小潘两电谈北美协调会抗议，以及李敖编完《胡适与我》。"
     },
-    "crossRefs": [
+    "view": [
+      "日记线",
+      "交游线",
+      "家庭线",
+      "出版线",
+      "政治线",
+      "通讯线"
+    ],
+    "crossReferences": [
       "li-ao-wuwu-diary-1990-11-21-huiqun-dictation-and-duan-mother-call",
       "li-ao-wuwu-diary-1990-09-28-receives-duan-mother-death-and-hou-dejian-calls",
       "li-ao-wuwu-diary-1990-11-17-house-viewing-and-sampan-naca-award-report",
@@ -19909,15 +19909,6 @@
     "displayDate": "1990年11月26日",
     "datePrecision": "day",
     "summary": "11月26日午，李敖请锦江吃饭，席间有教《芝麻街》的林慧懿；李敖记录林慧懿熟读其作品、称李放为“辛八达”，并记其弟梁幼祥主持政大书城。李敖记录血压升高到160-196；收到 Samp Newspaper 转来北美协调会《抗议信》，夜里写文驳之；《自由时报》案判决书寄到；夜里伍、周来；小屯返中，挤车两小时后十一点半来电。",
-    "categories": [
-      "日记线",
-      "交游线",
-      "健康线",
-      "写作线",
-      "法律线",
-      "出版线",
-      "通讯线"
-    ],
     "tags": [
       "锦江",
       "芝麻街",
@@ -19976,7 +19967,16 @@
       ],
       "note": "11月26日日记，记录午请锦江、林慧懿熟读李敖作品、血压升高、收到Samp Newspaper转来北美协调会《抗议信》并夜写文反驳、《自由时报》案判决书寄到、伍周来与小屯返中来电。"
     },
-    "crossRefs": [
+    "view": [
+      "日记线",
+      "交游线",
+      "健康线",
+      "写作线",
+      "法律线",
+      "出版线",
+      "通讯线"
+    ],
+    "crossReferences": [
       "li-ao-wuwu-diary-1990-11-25-duan-photos-pan-protest-and-hushi-yu-wo",
       "li-ao-wuwu-diary-1990-11-17-house-viewing-and-sampan-naca-award-report",
       "book5-1990-11-28-li-rebuts-boston-office",
@@ -19995,15 +19995,6 @@
     "displayDate": "1990年11月27日",
     "datePrecision": "day",
     "summary": "11月27日，李敖照董大夫嘱咐恢复服“安血利”（Esidri）半粒；记录华视报道《给女儿的贴心话》一书；午间请中仪嫂、王方、李钧、赖智信饭于六品，并记录李钧因读李敖书熟悉“白公馆”、赖智信在三总小痴床前低语；应凤凰带女儿来；夜里忠武两次来电，转述《侨报》经理愿承印李敖的报并代发行、不干涉内容；小屯来电说华视新闻播出胡茵梦闭关；李敖代中仪嫂写《驳〈中央日报〉楚崧秋》。",
-    "categories": [
-      "日记线",
-      "健康线",
-      "媒体线",
-      "交游线",
-      "办报线",
-      "写作线",
-      "电话线"
-    ],
     "tags": [
       "董大夫",
       "安血利",
@@ -20072,7 +20063,16 @@
       ],
       "note": "11月27日日记，记录李敖恢复服安血利、记录华视报道、午请中仪嫂等、接待应凤凰母女、接忠武关于《侨报》承印代发行的电话、接小屯电话并代中仪嫂写驳文。"
     },
-    "crossRefs": [
+    "view": [
+      "日记线",
+      "健康线",
+      "媒体线",
+      "交游线",
+      "办报线",
+      "写作线",
+      "电话线"
+    ],
+    "crossReferences": [
       "li-ao-wuwu-diary-1990-11-26-jinjiang-protest-rebuttal-liberty-judgment",
       "li-ao-wuwu-diary-1990-11-24-throat-doctor-yang-yixiang",
       "li-ao-wuwu-diary-1990-11-22-malaysian-interview-wu-dayou-court-and-license",
@@ -20094,14 +20094,6 @@
     "displayDate": "1990年11月28日",
     "datePrecision": "day",
     "summary": "11月28日晨，中仪嫂再来，李敖谈二十分钟后赶赴五楼；又亮来电，李敖碰到钟毓田。下午李敖做眩晕及听力检查，先由中山医院黄护士做，四点半杨怡祥专程赶来，又坐杨怡祥车去桂林路117号杨莲生耳鼻喉科施蒸气疗法；李敖记录杨莲生诊所题字、行医经历和杨怡祥热心，并记杨怡祥转告邱永汉谈李敖书价。办报在即，李敖趁机调整每日规律，列出早起、写作、运动、休息、晚饭等时段，每天可写十小时。",
-    "categories": [
-      "日记线",
-      "健康线",
-      "交游线",
-      "办报线",
-      "写作线",
-      "电话线"
-    ],
     "tags": [
       "中仪嫂",
       "又亮",
@@ -20168,7 +20160,15 @@
       ],
       "note": "11月28日日记，记录中仪嫂再来、又亮来电、碰到钟毓田、眩晕及听力检查、杨怡祥带去杨莲生耳鼻喉科施蒸气疗法、邱永汉书价转述，以及李敖因办报在即调整每日写作作息。"
     },
-    "crossRefs": [
+    "view": [
+      "日记线",
+      "健康线",
+      "交游线",
+      "办报线",
+      "写作线",
+      "电话线"
+    ],
+    "crossReferences": [
       "li-ao-wuwu-diary-1990-11-24-throat-doctor-yang-yixiang",
       "li-ao-wuwu-diary-1990-11-27-esidri-huashi-qiaobao-and-chu-songqiu",
       "li-ao-wuwu-diary-1990-11-22-malaysian-interview-wu-dayou-court-and-license",
@@ -20180,6 +20180,181 @@
       "preofficer-diary-1960-01-08-zhong-bingguang-dreams-li-worst-vulgar-and-qingmao-says-li-exposes-privacy",
       "micang-diary-1970-10-29-drafts-peng-wife-letter-to-yen-chia-kan-for-exit-permission"
     ]
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "ingestionRound": "li-ao-wuwu-diary-round058-1990-nov-29-30-closeout",
+    "id": "li-ao-wuwu-diary-1990-11-29-esidri-xiaopan-qiuzhen-gongdebo-letters",
+    "date": "1990-11-29",
+    "displayDate": "1990年11月29日",
+    "title": "李敖校稿送奠仪",
+    "summary": "11月29日，李敖将安血利改服一粒；电小潘；秋镇来电要来看他，李敖说等办报具体化后再见；他一口气校正《龚德柏入狱记》，并记该稿若非乔家才被他说动、由他印出，七万字恐难见天日；文杰母丧，李敖送二千元；王善从再来信并寄照片；基峻来信。",
+    "view": [
+      "日记线",
+      "健康线",
+      "电话线",
+      "编辑线",
+      "出版线",
+      "丧事线",
+      "通信线"
+    ],
+    "tags": [
+      "安血利",
+      "Esidri",
+      "小潘",
+      "秋镇",
+      "办报",
+      "龚德柏入狱记",
+      "龚德柏",
+      "乔家才",
+      "文杰",
+      "母丧",
+      "奠仪",
+      "王善从",
+      "照片",
+      "基峻",
+      "来信"
+    ],
+    "people": [
+      "李敖",
+      "小潘",
+      "秋镇",
+      "龚德柏",
+      "乔家才",
+      "文杰",
+      "王善从",
+      "基峻"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "李敖五五日记",
+      "龚德柏入狱记"
+    ],
+    "crossReferences": [
+      "li-ao-wuwu-diary-1990-11-27-esidri-huashi-qiaobao-and-chu-songqiu",
+      "li-ao-wuwu-diary-1990-11-28-hearing-tests-yang-yixiang-and-routine",
+      "li-ao-wuwu-diary-1990-11-25-duan-photos-pan-protest-and-hushi-yu-wo",
+      "li-ao-wuwu-diary-1990-05-06-visits-su-qiuzhen-before-beijing-trip",
+      "liao-xinkan-1988-12-26-033-gong-debo-memoirs",
+      "liao-xinkan-1964-1965-persuades-xiao-mengneng-publish-gong-debo-books",
+      "li-ao-wuwu-diary-1990-08-05-dines-with-qiao-jiacai-gu-zhengwen-and-receives-materials",
+      "li-ao-wuwu-diary-1990-09-13-arranges-qiao-jiacai-prison-notes-publication",
+      "book3-1990-10-05-qiao-prison-account-published",
+      "li-ao-wuwu-diary-1990-08-17-receives-wang-shancong-files-and-youliang-call",
+      "li-ao-wuwu-diary-1990-09-21-dines-with-laoguo-meets-youxianda-and-receives-wang-letter",
+      "li-ao-wuwu-diary-1990-05-09-lunches-with-wenqian-li-ning-and-jijun"
+    ],
+    "source": {
+      "book": "李敖五五日记",
+      "chapter": "1990年11月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/008.李敖五五日记/008.1990年11月.txt",
+      "line": 413,
+      "lines": [
+        413,
+        415,
+        417,
+        419,
+        421,
+        423,
+        425
+      ],
+      "note": "11月29日日记，记录服药调整、电话与来信、校正《龚德柏入狱记》、文杰母丧送奠仪等事项。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "ingestionRound": "li-ao-wuwu-diary-round058-1990-nov-29-30-closeout",
+    "id": "li-ao-wuwu-diary-1990-11-30-shopping-electric-typing-room-and-hushi-diary",
+    "date": "1990-11-30",
+    "displayDate": "1990年11月30日",
+    "title": "李敖让出编辑部",
+    "summary": "11月30日，李敖与小屯午饭后逛永琦南京店，买毛衣、文具；宏正来公司；傍晚他与伍、周谈，首次看十二楼之五电打房，发现工作人员太挤，决定让出自己新设的编辑部；他记录电视中残障人士靠训练好的小猴服侍的片段；荣文补送《胡适日记》第五册二本，留字而去；李敖电基峻。",
+    "view": [
+      "日记线",
+      "生活线",
+      "交游线",
+      "办报线",
+      "出版线",
+      "电话线"
+    ],
+    "tags": [
+      "小屯",
+      "永琦南京店",
+      "毛衣",
+      "文具",
+      "宏正",
+      "公司",
+      "伍",
+      "周",
+      "伍振环",
+      "周孟禄",
+      "十二楼之五",
+      "电打房",
+      "工作人员",
+      "编辑部",
+      "残障人士",
+      "小猴",
+      "荣文",
+      "胡适日记",
+      "第五册",
+      "基峻"
+    ],
+    "people": [
+      "李敖",
+      "小屯",
+      "宏正",
+      "伍",
+      "周",
+      "伍振环",
+      "周孟禄",
+      "荣文",
+      "基峻"
+    ],
+    "places": [
+      "台北",
+      "永琦南京店",
+      "公司",
+      "十二楼之五",
+      "电打房"
+    ],
+    "works": [
+      "李敖五五日记",
+      "胡适日记"
+    ],
+    "crossReferences": [
+      "li-ao-wuwu-diary-1990-11-29-esidri-xiaopan-qiuzhen-gongdebo-letters",
+      "li-ao-wuwu-diary-1990-11-23-yizhi-wu-zhou-office-and-dinner",
+      "li-ao-wuwu-diary-1990-11-26-jinjiang-protest-rebuttal-liberty-judgment",
+      "li-ao-wuwu-diary-1990-10-24-signs-contract-with-wu-and-zhou",
+      "li-ao-wuwu-diary-1990-05-22-xiaozhao-suggests-selling-12f-5",
+      "li-ao-wuwu-diary-1990-05-23-xiaozhao-brother-in-law-discusses-sale",
+      "li-ao-wuwu-diary-1990-09-18-letter-to-duan-hongjun-stops-world-forum-column",
+      "li-ao-wuwu-diary-1990-11-20-court-rongwen-hushi-diary-and-visitors",
+      "micang-diary-1985-01-16-receives-hu-shih-diary-facsimile",
+      "li-ao-wuwu-diary-1990-10-26-receives-rongwen-call",
+      "li-ao-wuwu-diary-1990-05-09-lunches-with-wenqian-li-ning-and-jijun",
+      "li-ao-wuwu-diary-1990-05-22-hongzheng-calls-about-tang-degang-lunch",
+      "li-ao-wuwu-diary-1990-07-23-receives-hongzheng-visit-and-zengsheifen-call"
+    ],
+    "source": {
+      "book": "李敖五五日记",
+      "chapter": "1990年11月",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/008.李敖五五日记/008.1990年11月.txt",
+      "line": 429,
+      "lines": [
+        429,
+        431,
+        433,
+        435,
+        437,
+        439
+      ],
+      "note": "11月30日日记，记录午饭后购物、宏正来公司、与伍周看电打房并决定让出新设编辑部、电视片段、《胡适日记》第五册补送及电基峻。"
+    }
   },
   {
     "datePrecision": "day",

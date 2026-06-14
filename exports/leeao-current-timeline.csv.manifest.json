@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T03:42:42.529Z",
+  "generatedAt": "2026-06-14T00:18:38.600Z",
   "source": "exports/leeao-current-timeline.txt 的同源 JSON 数据",
   "fullCsv": "exports/leeao-current-timeline.csv",
   "partSize": 1000,
@@ -74,7 +74,7 @@
     "data/timeline-events-li-ao-zhaji.json",
     "data/timeline-events-li-ao-wuwu-diary.json"
   ],
-  "eventCount": 9439,
+  "eventCount": 9441,
   "columns": [
     "row",
     "year",

@@ -183709,7 +183709,6 @@
     "displayDate": "1961年2月15日深夜",
     "title": "李敖煮蛋喝酒",
     "summary": "2月15日深夜，李敖与孙、李等人煮蛋、喝酒，闹到2时；之后他稍读书才睡去。",
-    "category": "social",
     "people": [
       "李敖",
       "孙",
@@ -183726,7 +183725,10 @@
     "crossReferences": [
       "preofficer-diary-1961-02-15-shanpei-meets-li-and-washes-dust"
     ],
-    "ingestionRound": "preofficer-diary-round293-retirement-diary-lines-103-191-feb15-closeout"
+    "ingestionRound": "preofficer-diary-round293-retirement-diary-lines-103-191-feb15-closeout",
+    "view": [
+      "交游线"
+    ]
   },
   {
     "id": "preofficer-diary-1961-02-15-buys-slingshot-for-huajun-nephew-and-hears-about-kinmen-article",
@@ -183734,7 +183736,6 @@
     "displayDate": "1961年2月15日上午",
     "title": "李敖买弹弓",
     "summary": "2月15日上午，李敖在路上碰到华俊，为华俊的小侄买弹弓，并听华俊说其妹把李敖的文章寄往金门。",
-    "category": "social",
     "people": [
       "李敖",
       "华俊",
@@ -183758,7 +183759,10 @@
     "crossReferences": [
       "preofficer-diary-1961-02-14-huajun-visits-and-talks-about-lo-husband"
     ],
-    "ingestionRound": "preofficer-diary-round293-retirement-diary-lines-103-191-feb15-closeout"
+    "ingestionRound": "preofficer-diary-round293-retirement-diary-lines-103-191-feb15-closeout",
+    "view": [
+      "交游线"
+    ]
   },
   {
     "id": "preofficer-diary-1961-02-15-enters-first-dorm-and-sees-shike-left-items",
@@ -183766,7 +183770,6 @@
     "displayDate": "1961年2月15日夜",
     "title": "李敖入第一宿舍",
     "summary": "2月15日夜，李敖到第一宿舍后破窗而入，见到施珂所留的信、诗、漫画、衣帽等物。",
-    "category": "social",
     "people": [
       "李敖",
       "施珂",
@@ -183792,7 +183795,10 @@
       "preofficer-diary-1961-02-05-returns-to-company-meets-shike-and-receives-his-letter",
       "preofficer-diary-1961-02-06-arrives-kaohsiung-and-writes-landing-poems-with-shike"
     ],
-    "ingestionRound": "preofficer-diary-round293-retirement-diary-lines-103-191-feb15-closeout"
+    "ingestionRound": "preofficer-diary-round293-retirement-diary-lines-103-191-feb15-closeout",
+    "view": [
+      "交游线"
+    ]
   },
   {
     "id": "preofficer-diary-1961-02-15-guangjin-takes-li-to-visit-huajun",
@@ -183800,7 +183806,6 @@
     "displayDate": "1961年2月15日上午",
     "title": "李敖访华俊",
     "summary": "2月15日上午，外人穷来向李敖拜年；光锦到来后，拉李敖去访华俊。",
-    "category": "social",
     "people": [
       "李敖",
       "外人穷",
@@ -183819,7 +183824,10 @@
       "preofficer-diary-1959-09-07-starts-hengshuo-at-houbi-and-travels-south",
       "preofficer-diary-1961-02-10-huajun-visits-in-the-morning"
     ],
-    "ingestionRound": "preofficer-diary-round293-retirement-diary-lines-103-191-feb15-closeout"
+    "ingestionRound": "preofficer-diary-round293-retirement-diary-lines-103-191-feb15-closeout",
+    "view": [
+      "交游线"
+    ]
   },
   {
     "id": "preofficer-diary-1961-02-15-leaves-by-four-oclock-train-reading-and-hand-tricks",
@@ -183827,7 +183835,6 @@
     "displayDate": "1961年2月15日16时",
     "title": "李敖四时北上",
     "summary": "2月15日，李敖只留华俊、述古送行，下午4时车开；他在车中读书，并向车中一名小童做手戏。",
-    "category": "travel",
     "people": [
       "李敖",
       "华俊",
@@ -183846,7 +183853,10 @@
       "preofficer-diary-1961-02-13-third-brother-in-law-gives-express-ticket",
       "preofficer-diary-1961-02-14-sorts-bathes-and-receives-four-oranges-from-mother"
     ],
-    "ingestionRound": "preofficer-diary-round293-retirement-diary-lines-103-191-feb15-closeout"
+    "ingestionRound": "preofficer-diary-round293-retirement-diary-lines-103-191-feb15-closeout",
+    "view": [
+      "行旅线"
+    ]
   },
   {
     "id": "preofficer-diary-1961-02-15-meets-shizhen-zhang-zhien-and-miss-ao",
@@ -183854,7 +183864,6 @@
     "displayDate": "1961年2月15日夜",
     "title": "李敖会士振之昂",
     "summary": "2月15日夜，士振、张之昂及敖小姐来到第一宿舍，与李敖相见。",
-    "category": "social",
     "people": [
       "李敖",
       "士振",
@@ -183873,7 +183882,10 @@
       "note": "“不久士振、之昂及其敖小姐来。”"
     },
     "crossReferences": [],
-    "ingestionRound": "preofficer-diary-round293-retirement-diary-lines-103-191-feb15-closeout"
+    "ingestionRound": "preofficer-diary-round293-retirement-diary-lines-103-191-feb15-closeout",
+    "view": [
+      "交游线"
+    ]
   },
   {
     "id": "preofficer-diary-1961-02-15-receives-company-commander-sendoff-and-gift",
@@ -183881,7 +183893,6 @@
     "displayDate": "1961年2月15日午后",
     "title": "李敖受连长送行",
     "summary": "2月15日午后，连长来为李敖送行，并送给李敖礼物。",
-    "category": "military",
     "people": [
       "李敖",
       "连长"
@@ -183899,7 +183910,10 @@
       "preofficer-diary-1961-01-07-farewell-company-commander-drinks-fushou-wine-vomits-and-writes-two-poems",
       "preofficer-diary-1961-02-13-sends-express-cards-and-letters-to-qiqing-shanpei-company-and-others"
     ],
-    "ingestionRound": "preofficer-diary-round293-retirement-diary-lines-103-191-feb15-closeout"
+    "ingestionRound": "preofficer-diary-round293-retirement-diary-lines-103-191-feb15-closeout",
+    "view": [
+      "军旅线"
+    ]
   },
   {
     "id": "preofficer-diary-1961-02-15-receives-revised-copy-from-xichang-early",
@@ -183907,7 +183921,6 @@
     "displayDate": "1961年2月15日一早",
     "title": "李敖收修订本",
     "summary": "2月15日一早，李敖收到锡昌又送来的修订本。",
-    "category": "literary",
     "people": [
       "李敖",
       "锡昌"
@@ -183926,7 +183939,10 @@
     "crossReferences": [
       "preofficer-diary-1961-01-02-walks-to-station-meets-xichang-and-zhengming-and-receives-gushi-jinpan"
     ],
-    "ingestionRound": "preofficer-diary-round293-retirement-diary-lines-103-191-feb15-closeout"
+    "ingestionRound": "preofficer-diary-round293-retirement-diary-lines-103-191-feb15-closeout",
+    "view": [
+      "写作线"
+    ]
   },
   {
     "id": "preofficer-diary-1961-02-15-receives-shike-elder-brother-letter-with-doggerel-poems",
@@ -183934,7 +183950,6 @@
     "displayDate": "1961年2月15日",
     "title": "李敖收施大哥信",
     "summary": "2月15日，李敖收到并保存施珂大哥2月8日午间在彰化车次所写来信；信中附多首打油诗，围绕李敖退伍归台、预备军官趣事、兔子乌龟与钢笔礼物等开玩笑，信末并记施珂称“李敖丢人事迹尽于是页矣”。",
-    "category": "correspondence",
     "people": [
       "李敖",
       "施大哥",
@@ -183961,7 +183976,10 @@
       "preofficer-diary-1961-02-05-returns-to-company-meets-shike-and-receives-his-letter",
       "preofficer-diary-1961-02-06-arrives-kaohsiung-and-writes-landing-poems-with-shike"
     ],
-    "ingestionRound": "preofficer-diary-round293-retirement-diary-lines-103-191-feb15-closeout"
+    "ingestionRound": "preofficer-diary-round293-retirement-diary-lines-103-191-feb15-closeout",
+    "view": [
+      "通信线"
+    ]
   },
   {
     "id": "preofficer-diary-1961-02-15-receives-xiaopan-postcard",
@@ -183969,7 +183987,6 @@
     "displayDate": "1961年2月15日",
     "title": "李敖收小潘片",
     "summary": "2月15日，李敖收到小潘寄来的一片。",
-    "category": "correspondence",
     "people": [
       "李敖",
       "小潘"
@@ -183983,7 +184000,10 @@
       "note": "“接小潘一片。”"
     },
     "crossReferences": [],
-    "ingestionRound": "preofficer-diary-round293-retirement-diary-lines-103-191-feb15-closeout"
+    "ingestionRound": "preofficer-diary-round293-retirement-diary-lines-103-191-feb15-closeout",
+    "view": [
+      "通信线"
+    ]
   },
   {
     "id": "preofficer-diary-1961-02-15-shanpei-meets-li-and-washes-dust",
@@ -183991,7 +184011,6 @@
     "displayDate": "1961年2月15日夜",
     "title": "李敖由善培接站",
     "summary": "2月15日夜，善培接到北返的李敖，并为他洗尘，随后二人同赴第一宿舍。",
-    "category": "social",
     "people": [
       "李敖",
       "善培"
@@ -184010,7 +184029,10 @@
     "crossReferences": [
       "preofficer-diary-1961-02-13-third-brother-in-law-gives-express-ticket"
     ],
-    "ingestionRound": "preofficer-diary-round293-retirement-diary-lines-103-191-feb15-closeout"
+    "ingestionRound": "preofficer-diary-round293-retirement-diary-lines-103-191-feb15-closeout",
+    "view": [
+      "交游线"
+    ]
   },
   {
     "id": "preofficer-diary-1961-02-15-treats-guangjin-to-lunch-with-huajun",
@@ -184018,7 +184040,6 @@
     "displayDate": "1961年2月15日午",
     "title": "李敖午请光锦",
     "summary": "2月15日中午，李敖请光锦吃饭，由华俊作陪。",
-    "category": "social",
     "people": [
       "李敖",
       "光锦",
@@ -184035,7 +184056,10 @@
     "crossReferences": [
       "preofficer-diary-1959-09-07-starts-hengshuo-at-houbi-and-travels-south"
     ],
-    "ingestionRound": "preofficer-diary-round293-retirement-diary-lines-103-191-feb15-closeout"
+    "ingestionRound": "preofficer-diary-round293-retirement-diary-lines-103-191-feb15-closeout",
+    "view": [
+      "交游线"
+    ]
   },
   {
     "id": "preofficer-diary-1982-04-19-writes-introduction-and-decides-to-publish-complete-diary",

@@ -101,7 +101,7 @@ const supplementalDataFiles = new Set([
   "./data/timeline-events-fourth-book-deepening.json"
 ]);
 const processedBookCount = dataFiles.filter((file) => !supplementalDataFiles.has(file)).length;
-const dataVersion = '2026-05-24-li-ao-wuwu-diary-round057-1990-nov-25-28';
+const dataVersion = '2026-06-14-li-ao-wuwu-diary-round058-1990-nov-29-30-closeout';
 
 const dateFormatter = new Intl.DateTimeFormat("zh-Hant", {
   year: "numeric",
