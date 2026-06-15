@@ -1,0 +1,4010 @@
+[
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "writing",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "《李敖随写录前集》自序",
+    "sourceFile": "李敖随写录前集/《李敖随写录前集》自序.txt",
+    "sourceLocation": "第3、5、7、9、11、13行",
+    "sourceQuote": "1990年冬天，有陌生人由海王印刷厂张坤山老大哥之介，携资要与我办报，遂有1991年《求是报》的2月早产和8月早夭。《求是报》夭折后，我在11月改办《李敖求是评论杂志》以善其后，在发刊词中，我声明说： 《李敖求是评论杂志》是我56岁时创办的，由于我余生生命贯注的主力是《北京法源寺》以外的几部重要小说，以及非小说的《中国思想史》等书，花在“东打一拳、西踢一脚”式的杂志上面，时间已有限制。因此我用两百页以下的月刊形式，予以掌握和掌舵。 从这种声明口气中，可看出我办这杂志，是有点勉强的，因为我感于年华老去、亟欲以余生写大书的心情是愈来愈强烈，这一心情，终于造成这杂志只出了六期，就停刊了。第六期出版在1992年4月1日，自此以后，我决心不再办报、办杂志、乃至在第一线开书店了，我要珍惜我的余生，奔向大书去也。 两年过去了，我已行年六十。为了把过去作品做一总结，我每天花一点时间，重编旧作，以快士林。我检查这半年寿命的杂志中，每期连载的“李敖随写录”可算是极有趣的作品，我决定把它们编成《李敖随写录前集》和《李敖随写录后集》二书，以为里程的碑记。这些文字虽是我随手写来的即兴之作，但就拾遗性、备忘性、笔记性、杂感性、弃之可惜性的角度来定性它们，也足见奇趣而值回票价。 文性大发，任性不已，索性成序，以告读者。 1994年9月22日",
+    "works": [
+      "李敖随写录前集",
+      "李敖随写录后集",
+      "求是报",
+      "李敖求是评论杂志",
+      "北京法源寺",
+      "中国思想史"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round001-frontmatter-001-012",
+    "id": "li-ao-suixielu-qianji-1994-09-22-writes-preface-and-reviews-qiushi-review",
+    "date": "1994-09-22",
+    "displayDate": "1994年9月22日",
+    "title": "李敖作《李敖随写录前集》自序",
+    "summary": "1994年9月22日，李敖为《李敖随写录前集》写自序，回顾1990年冬由张坤山介绍有人携资办报而引出1991年《求是报》早产早夭；又说明《李敖求是评论杂志》在1992年4月1日第六期后停刊，他决心不再办报、办杂志或第一线开书店，而把余生转向“大书”。两年后重编旧作时，他把杂志连载的“李敖随写录”定为前后集。",
+    "importance": 3,
+    "keywords": [
+      "自序",
+      "求是报",
+      "李敖求是评论杂志",
+      "北京法源寺",
+      "大书"
+    ],
+    "tags": [
+      "preface",
+      "writing-plan",
+      "qiushi",
+      "publishing",
+      "retrospective"
+    ],
+    "people": [
+      "李敖",
+      "张坤山"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "view": [
+      "随写录线",
+      "写作线",
+      "出版线",
+      "求是线"
+    ],
+    "crossReferences": [
+      "book4-1991-02-27-qiushi-daily-starts",
+      "book4-1991-11-01-li-ao-qiushi-review-starts",
+      "book4-1992-04-01-li-ao-qiushi-review-ends",
+      "beijing-fayuansi-1990-year-end-finishes-novel-before-qiushi-bao"
+    ],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "《李敖随写录前集》自序",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/《李敖随写录前集》自序.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13
+      ],
+      "note": "李敖1994年自序，说明《李敖随写录前集》的编成缘起与《求是报》《李敖求是评论杂志》链条。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "writing",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "001.凡例",
+    "sourceFile": "李敖随写录前集/001.凡例.txt",
+    "sourceLocation": "第3行",
+    "sourceQuote": "两个月来，《北京法源寺》出版、《求是报》结束，使我的“天路”今后展开新的“历程”。我发愿要集中主力，继《北京法源寺》之后，一一完成我此生想写的大书。其中最重要的是《北京法源寺》以外的几部重要小说，以及非小说的《中国思想史》等书。这些大书，是我余生生命贯注的主力。至于大书以外的，只算杂书，只是拾遗性的、备忘性的、笔记性的、杂感性的、弃之可惜性的。写它们，不可“喧宾夺主”、也不要占太多时间，随手写之可也。（1991年9月1日）",
+    "works": [
+      "李敖随写录前集",
+      "北京法源寺",
+      "求是报",
+      "中国思想史"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round001-frontmatter-001-012",
+    "id": "li-ao-suixielu-qianji-1991-09-01-sets-small-notes-beside-big-books",
+    "date": "1991-09-01",
+    "displayDate": "1991年9月1日",
+    "title": "李敖在《凡例》中设定随写与大书的轻重",
+    "summary": "1991年9月1日，李敖在《凡例》中说，两个月来《北京法源寺》出版、《求是报》结束，使他的“天路”展开新历程；他发愿集中主力完成几部重要小说与《中国思想史》等“大书”，而把随写类文字定位为拾遗、备忘、笔记、杂感，要求随手写之，不可喧宾夺主。",
+    "importance": 3,
+    "keywords": [
+      "凡例",
+      "北京法源寺",
+      "求是报",
+      "中国思想史",
+      "大书"
+    ],
+    "tags": [
+      "writing-plan",
+      "notes",
+      "qiushi",
+      "beijing-fayuansi"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "view": [
+      "随写录线",
+      "写作线",
+      "出版线"
+    ],
+    "crossReferences": [
+      "li-ao-suixielu-qianji-1994-09-22-writes-preface-and-reviews-qiushi-review",
+      "beijing-fayuansi-1990-year-end-finishes-novel-before-qiushi-bao",
+      "beijing-fayuansi-1991-06-12-writes-about-writing-fayuan",
+      "book4-1991-02-27-qiushi-daily-starts"
+    ],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "001.凡例",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/001.凡例.txt",
+      "line": 3,
+      "lines": [
+        3
+      ],
+      "note": "《凡例》署1991年9月1日，李敖自述《求是报》结束后的写作优先级。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "travel",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "002.野柳望远",
+    "sourceFile": "李敖随写录前集/002.野柳望远.txt",
+    "sourceLocation": "第3、5、7、9、17、19行",
+    "sourceQuote": "台湾岛上风景区，一来以其游人脏乱、二来以其加工太丑（凡是人工加做的，无一不丑，已毫无艺术水准可言也。近年来，且流行一种水泥做的伪树干，看来要命已极！），以致使我游兴阑珊，哪儿都不想去。 今天小屯说去野柳。这地方以前去过一次，但没登山。今天一路登到最后面的瞭望台，看树荫狭道、看大海一片（视野三百度以上）、看帆船一条、看海蚀豆腐岩等，把可看一面一看再看、把难看一面视而不见，过滤之下，亦勉强为之一畅。 海蚀石块中，有一大块酷似女人阴部。 海豚、海狮表演，动物极可爱。动物为了几条小鱼表演个不停。其后有洋人献泳技，亦走江湖者也。时间如下： 出来恰遇小老虎赖在地上不肯走，我过去摸它屁股。小老虎结实可爱。此处老虎比动物园的长得壮大，大概在饮食上少手脚也。 为强迫游客购物，游野柳者，竟遭遇正门以铁栅墙围住的怪现象，游客除越墙而入外，只好先走入狭窄腥臭之市场，才得购票入门。——民进党尤清做台北县长，其德政究与国民党何以异？（1991年9月1日）",
+    "works": [
+      "李敖随写录前集",
+      "野柳望远"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round001-frontmatter-001-012",
+    "id": "li-ao-suixielu-qianji-1991-09-01-visits-yehliu-with-xiaotun",
+    "date": "1991-09-01",
+    "displayDate": "1991年9月1日",
+    "title": "李敖与小屯去野柳望远",
+    "summary": "1991年9月1日，小屯提议去野柳，李敖同去并登到后方瞭望台，看树荫狭道、大海、帆船和海蚀岩，也观看海豚、海狮表演；出来时他遇见赖在地上的小老虎并摸它屁股。李敖在随写中同时批评野柳入口强迫游客先穿过市场购物，质问尤清主政的台北县与国民党作风何异。",
+    "importance": 3,
+    "keywords": [
+      "野柳",
+      "小屯",
+      "瞭望台",
+      "海蚀岩",
+      "小老虎",
+      "尤清"
+    ],
+    "tags": [
+      "travel",
+      "yehliu",
+      "xiaotun",
+      "observation",
+      "taipei-county"
+    ],
+    "people": [
+      "李敖",
+      "小屯",
+      "王小屯",
+      "尤清"
+    ],
+    "places": [
+      "野柳",
+      "台北县",
+      "台湾"
+    ],
+    "view": [
+      "随写录线",
+      "家庭线",
+      "旅行线",
+      "政治观察线"
+    ],
+    "crossReferences": [
+      "book4-1992-03-08-marries-wang-xiaotun"
+    ],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "002.野柳望远",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/002.野柳望远.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        17,
+        19
+      ],
+      "note": "李敖与小屯同游野柳，并把现场景观、动物表演和游客入口动线写成随写。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "media",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "003.不上电视了",
+    "sourceFile": "李敖随写录前集/003.不上电视了.txt",
+    "sourceLocation": "第3行",
+    "sourceQuote": "全能制作公司吴永佳约上华视张小燕、阳帆节目，谢绝之。目前已谢绝上中视《女人女人》九十九次播出特别节目。并谢绝东海大学邀演讲。（1991年9月2日）",
+    "works": [
+      "李敖随写录前集",
+      "不上电视了",
+      "女人女人"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round001-frontmatter-001-012",
+    "id": "li-ao-suixielu-qianji-1991-09-02-declines-tv-and-lecture-invitations",
+    "date": "1991-09-02",
+    "displayDate": "1991年9月2日",
+    "title": "李敖谢绝电视节目与东海大学演讲",
+    "summary": "1991年9月2日，吴永佳代表全能制作公司约李敖上华视张小燕、阳帆节目，李敖谢绝；同日他记下自己也谢绝中视《女人女人》九十九次播出特别节目，并谢绝东海大学演讲邀请。",
+    "importance": 3,
+    "keywords": [
+      "吴永佳",
+      "华视",
+      "张小燕",
+      "阳帆",
+      "女人女人",
+      "东海大学"
+    ],
+    "tags": [
+      "tv",
+      "lecture",
+      "declined",
+      "ctv",
+      "cts"
+    ],
+    "people": [
+      "李敖",
+      "吴永佳",
+      "张小燕",
+      "阳帆"
+    ],
+    "places": [
+      "台湾",
+      "东海大学"
+    ],
+    "view": [
+      "随写录线",
+      "媒体线",
+      "演讲线"
+    ],
+    "crossReferences": [
+      "li-ao-wuwu-diary-1990-06-21-records-tonight-with-li-ang-at-huashi",
+      "li-ao-wuwu-diary-1990-06-25-tonight-with-chang-xiaoyan-airs",
+      "li-ao-wuwu-diary-1990-09-18-records-talk-show-report-ranking-li-ao-first"
+    ],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "003.不上电视了",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/003.不上电视了.txt",
+      "line": 3,
+      "lines": [
+        3
+      ],
+      "note": "李敖记录自己拒绝华视、中视节目与东海大学演讲邀请。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "social",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "004.酷吏李元簇居然也想说笑语！",
+    "sourceFile": "李敖随写录前集/004.酷吏李元簇居然也想说笑语！.txt",
+    "sourceLocation": "第3、5行",
+    "sourceQuote": "与陈彦增全家晚饭。陈依玫说她这次陪李元簇访南美，李元簇试说笑话，但其人太严肃，所说笑话无可笑者。 酷吏李元簇也想说笑话，这才是大笑话！（1991年9月2日）",
+    "works": [
+      "李敖随写录前集",
+      "酷吏李元簇居然也想说笑话！"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round001-frontmatter-001-012",
+    "id": "li-ao-suixielu-qianji-1991-09-02-dines-with-chen-family-and-hears-li-yuanzu-joke",
+    "date": "1991-09-02",
+    "displayDate": "1991年9月2日",
+    "title": "李敖与陈彦增全家晚饭并听李元簇笑话",
+    "summary": "1991年9月2日，李敖与陈彦增全家晚饭。席间陈依玫说她陪李元簇访问南美时，李元簇试着说笑话，但其人太严肃，笑话也不可笑；李敖在随写中借此讽刺李元簇“也想说笑话”才是大笑话。",
+    "importance": 2,
+    "keywords": [
+      "陈彦增",
+      "陈依玫",
+      "李元簇",
+      "南美",
+      "晚饭"
+    ],
+    "tags": [
+      "dinner",
+      "conversation",
+      "chen-yanzeng",
+      "li-yuanzu"
+    ],
+    "people": [
+      "李敖",
+      "陈彦增",
+      "陈依玫",
+      "李元簇"
+    ],
+    "places": [
+      "台湾",
+      "南美"
+    ],
+    "view": [
+      "随写录线",
+      "交游线",
+      "政治观察线"
+    ],
+    "crossReferences": [],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "004.酷吏李元簇居然也想说笑语！",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/004.酷吏李元簇居然也想说笑语！.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5
+      ],
+      "note": "李敖与陈彦增全家晚饭，记录陈依玫转述李元簇访南美时试说笑话。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "social",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "005.陈彦增夫妇大陆归来",
+    "sourceFile": "李敖随写录前集/005.陈彦增夫妇大陆归来.txt",
+    "sourceLocation": "第3行",
+    "sourceQuote": "陈彦增夫妇述上月游黄山，自南京以一百三十元美金搭计程车，九小时后抵黄山。西湖胜景受“文革”破坏，新修的假古迹不少。彦增说苏小小墓已被秋瑾墓移居其上，我断言其说不确。（1991年9月2日）",
+    "works": [
+      "李敖随写录前集",
+      "陈彦增夫妇大陆归来"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round001-frontmatter-001-012",
+    "id": "li-ao-suixielu-qianji-1991-09-02-hears-chen-yanzeng-mainland-trip",
+    "date": "1991-09-02",
+    "displayDate": "1991年9月2日",
+    "title": "李敖听陈彦增夫妇述大陆归来见闻",
+    "summary": "1991年9月2日，陈彦增夫妇向李敖述说上月游黄山和西湖见闻，包括从南京搭计程车九小时到黄山、西湖景观受“文革”破坏以及新修假古迹不少。陈彦增说苏小小墓已被秋瑾墓移居其上，李敖当场断言此说不确。",
+    "importance": 2,
+    "keywords": [
+      "陈彦增",
+      "黄山",
+      "南京",
+      "西湖",
+      "苏小小墓",
+      "秋瑾墓"
+    ],
+    "tags": [
+      "conversation",
+      "mainland-trip",
+      "huangshan",
+      "west-lake"
+    ],
+    "people": [
+      "李敖",
+      "陈彦增",
+      "苏小小",
+      "秋瑾"
+    ],
+    "places": [
+      "黄山",
+      "南京",
+      "西湖",
+      "大陆",
+      "台湾"
+    ],
+    "view": [
+      "随写录线",
+      "交游线",
+      "大陆观察线"
+    ],
+    "crossReferences": [],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "005.陈彦增夫妇大陆归来",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/005.陈彦增夫妇大陆归来.txt",
+      "line": 3,
+      "lines": [
+        3
+      ],
+      "note": "陈彦增夫妇向李敖转述大陆旅行见闻，李敖判断苏小小墓一说不确。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "commentary",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "006.马英九咬指甲",
+    "sourceFile": "李敖随写录前集/006.马英九咬指甲.txt",
+    "sourceLocation": "第3、5、7行",
+    "sourceQuote": "我向陈依玫说，马英九的拇指畸形，虎口弯曲、关节成直角状，真难看。 陈依玫说马英九一紧张就咬指甲，结果指甲不整齐。 我从没见过马英九。但我从纸上作业，观察入微。前几天我向基竣说：你整天研究苏联，你知道叶利钦乃“八指头陀”吗？他说他从不知道叶利钦只有八个指头，你怎么知道，我说我知道的可多了。（1991年9月2日）",
+    "works": [
+      "李敖随写录前集",
+      "马英九咬指甲"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round001-frontmatter-001-012",
+    "id": "li-ao-suixielu-qianji-1991-09-02-tells-chen-yimei-about-ma-yingjeou-fingernails",
+    "date": "1991-09-02",
+    "displayDate": "1991年9月2日",
+    "title": "李敖向陈依玫谈马英九咬指甲",
+    "summary": "1991年9月2日，李敖向陈依玫说马英九的拇指畸形、虎口弯曲、关节成直角，陈依玫补充马英九一紧张就咬指甲。李敖又记下自己前几天向基峻谈叶利钦“八指头陀”的观察，强调自己虽没见过马英九，却能从纸上作业观察入微。",
+    "importance": 2,
+    "keywords": [
+      "陈依玫",
+      "马英九",
+      "咬指甲",
+      "基峻",
+      "叶利钦",
+      "纸上作业"
+    ],
+    "tags": [
+      "conversation",
+      "ma-yingjeou",
+      "observation",
+      "jijun",
+      "yeltsin"
+    ],
+    "people": [
+      "李敖",
+      "陈依玫",
+      "马英九",
+      "基峻",
+      "叶利钦"
+    ],
+    "places": [
+      "台湾",
+      "苏联"
+    ],
+    "view": [
+      "随写录线",
+      "交游线",
+      "政治观察线"
+    ],
+    "crossReferences": [
+      "qianqiu-wansui-1989-09-26-142-writes-sun-yatsen-only-christian"
+    ],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "006.马英九咬指甲",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/006.马英九咬指甲.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7
+      ],
+      "note": "李敖与陈依玫谈马英九外貌细节，并追记日前与基峻谈叶利钦手指的观察。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "culture",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "007.《卧窗惊魂》",
+    "sourceFile": "李敖随写录前集/007.《卧窗惊魂》.txt",
+    "sourceLocation": "第3行",
+    "sourceQuote": "看据安妮霍尔登（Anne Holden）小说拍成电影的《卧窗惊魂》（The Bedroom Window）录影带，写通奸后，女方隔窗目击凶案，因怕奸情外泄，乃由男方出面说他目击，作证欲绳凶手于法。不料对方律师问出破绽，为了有正义感，却几以被当做凶手及伪证者追诉的窘局。（1991年9月3日）",
+    "works": [
+      "李敖随写录前集",
+      "卧窗惊魂",
+      "The Bedroom Window"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round001-frontmatter-001-012",
+    "id": "li-ao-suixielu-qianji-1991-09-03-watches-the-bedroom-window-videotape",
+    "date": "1991-09-03",
+    "displayDate": "1991年9月3日",
+    "title": "李敖看《卧窗惊魂》录影带",
+    "summary": "1991年9月3日，李敖观看据安妮·霍尔登小说改编的电影《卧窗惊魂》录影带，并记录其通奸后女方隔窗目击凶案、因怕奸情外泄而由男方出面作证，继而陷入伪证与正义困局的剧情。",
+    "importance": 2,
+    "keywords": [
+      "卧窗惊魂",
+      "The Bedroom Window",
+      "安妮霍尔登",
+      "录影带"
+    ],
+    "tags": [
+      "film",
+      "videotape",
+      "reading-viewing",
+      "crime-story"
+    ],
+    "people": [
+      "李敖",
+      "安妮霍尔登"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "view": [
+      "随写录线",
+      "阅读观影线"
+    ],
+    "crossReferences": [],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "007.《卧窗惊魂》",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/007.《卧窗惊魂》.txt",
+      "line": 3,
+      "lines": [
+        3
+      ],
+      "note": "李敖看《卧窗惊魂》录影带并记录剧情结构。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "writing",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "008.《人民日报》论要不要改革的问题",
+    "sourceFile": "李敖随写录前集/008.《人民日报》论要不要改革的问题.txt",
+    "sourceLocation": "第3、9行",
+    "sourceQuote": "9月2日，《人民日报》以《当前改革的三个问题》为题的文章说： 以上《人民日报》立论，可以看出中共在苏联巨变下的态度。（1991年9月4日）",
+    "works": [
+      "李敖随写录前集",
+      "《人民日报》论要不要改革的问题",
+      "当前改革的三个问题"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round001-frontmatter-001-012",
+    "id": "li-ao-suixielu-qianji-1991-09-04-comments-peoples-daily-reform-article",
+    "date": "1991-09-04",
+    "displayDate": "1991年9月4日",
+    "title": "李敖摘评《人民日报》改革问题文章",
+    "summary": "1991年9月4日，李敖摘录《人民日报》9月2日《当前改革的三个问题》一文，注意其关于公有制、计划经济与市场调节的论述；他在随写中判断，从这篇立论可以看出中共在苏联巨变下的态度。",
+    "importance": 2,
+    "keywords": [
+      "人民日报",
+      "当前改革的三个问题",
+      "改革",
+      "苏联巨变",
+      "中共"
+    ],
+    "tags": [
+      "writing",
+      "peoples-daily",
+      "reform",
+      "soviet-union",
+      "china-politics"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "中国大陆",
+      "苏联",
+      "台湾"
+    ],
+    "view": [
+      "随写录线",
+      "写作线",
+      "政治观察线",
+      "大陆观察线"
+    ],
+    "crossReferences": [],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "008.《人民日报》论要不要改革的问题",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/008.《人民日报》论要不要改革的问题.txt",
+      "line": 3,
+      "lines": [
+        3,
+        9
+      ],
+      "note": "李敖摘录并评论《人民日报》关于改革问题的文章。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "writing",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "009.江西发现晋代大型砖室墓",
+    "sourceFile": "李敖随写录前集/009.江西发现晋代大型砖室墓.txt",
+    "sourceLocation": "第3、7行",
+    "sourceQuote": "香港中国通讯社南昌9月2日电：一座晋代藻井大型砖室土墩墓，最近在江西省吉水县城郊发现。 考古专家称，该墓平面结构形似汉晋时期大地主庄园的楼阁，左右两侧藻井式穹隆顶，是大地主庄园“鸟堡”式四角碉楼的写照。其规模大于江苏宜兴晋大将军周处墓。正方形回廊结构，不仅江西从未见过，在中国也为罕见。（1991年9月4日）",
+    "works": [
+      "李敖随写录前集",
+      "江西发现晋代大型砖室墓"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round001-frontmatter-001-012",
+    "id": "li-ao-suixielu-qianji-1991-09-04-notes-jiangxi-jin-dynasty-brick-tomb",
+    "date": "1991-09-04",
+    "displayDate": "1991年9月4日",
+    "title": "李敖摘记江西晋代大型砖室墓消息",
+    "summary": "1991年9月4日，李敖摘记香港中国通讯社南昌电，记录江西吉水县城郊发现晋代藻井大型砖室土墩墓，以及考古专家关于墓室结构、砖纹和规模的判断。这条作为李敖随写中的历史考古材料摘记入库，不把发现本身扩写成李敖当事现场事件。",
+    "importance": 1,
+    "keywords": [
+      "江西",
+      "吉水",
+      "晋代",
+      "砖室墓",
+      "香港中国通讯社"
+    ],
+    "tags": [
+      "writing",
+      "archaeology",
+      "jiangxi",
+      "historical-note"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "江西",
+      "吉水",
+      "南昌",
+      "台湾"
+    ],
+    "view": [
+      "随写录线",
+      "写作线",
+      "历史材料线"
+    ],
+    "crossReferences": [],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "009.江西发现晋代大型砖室墓",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/009.江西发现晋代大型砖室墓.txt",
+      "line": 3,
+      "lines": [
+        3,
+        7
+      ],
+      "note": "李敖摘记江西晋代大型砖室墓报道；只作为随写材料节点处理。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "social",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "010.与周渝逛古董店",
+    "sourceFile": "李敖随写录前集/010.与周渝逛古董店.txt",
+    "sourceLocation": "第3、5行",
+    "sourceQuote": "周渝约午饭。饭后同走到光华等商场逛古董店。以三千五百元买到百年前玳瑁眼镜一副，颇为难得。 我跟周渝说，今天在台湾玩古董的，都不读或不能读古书，这又如何能懂古董？（1991年9月4日）",
+    "works": [
+      "李敖随写录前集",
+      "与周渝逛古董店"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round001-frontmatter-001-012",
+    "id": "li-ao-suixielu-qianji-1991-09-04-lunches-with-zhou-yu-and-buys-antique-glasses",
+    "date": "1991-09-04",
+    "displayDate": "1991年9月4日",
+    "title": "李敖与周渝午饭后逛古董店",
+    "summary": "1991年9月4日，周渝约李敖午饭；饭后二人走到光华等商场逛古董店，李敖以三千五百元买到一副百年前玳瑁眼镜。他还对周渝说，今天在台湾玩古董的人多不读或不能读古书，难以真正懂古董。",
+    "importance": 3,
+    "keywords": [
+      "周渝",
+      "午饭",
+      "光华商场",
+      "古董店",
+      "玳瑁眼镜"
+    ],
+    "tags": [
+      "lunch",
+      "antiques",
+      "zhou-yu",
+      "collecting",
+      "guanghua"
+    ],
+    "people": [
+      "李敖",
+      "周渝"
+    ],
+    "places": [
+      "光华商场",
+      "台北",
+      "台湾"
+    ],
+    "view": [
+      "随写录线",
+      "交游线",
+      "收藏线"
+    ],
+    "crossReferences": [
+      "zaonian-riji-1961-05-20-zhouyu-photo-suan-yu-xian-and-friends-gathering",
+      "daxue-houqi-jia-1958-12-31-plays-chess-with-zhou-yu-and-performs-hula-hoop"
+    ],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "010.与周渝逛古董店",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/010.与周渝逛古董店.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5
+      ],
+      "note": "周渝约李敖午饭，饭后二人逛古董店，李敖购得玳瑁眼镜。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "social",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "011.傅朝枢来台",
+    "sourceFile": "李敖随写录前集/011.傅朝枢来台.txt",
+    "sourceLocation": "第3行",
+    "sourceQuote": "请基峻、鑫生晚饭。我说傅朝枢连日电话，我都躲开了。这位老兄来台湾虽对老友李敖热情澎湃，但是跟达官贵人扯个不停，我要躲之矣！（1991年9月5日）",
+    "works": [
+      "李敖随写录前集",
+      "傅朝枢来台"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round001-frontmatter-001-012",
+    "id": "li-ao-suixielu-qianji-1991-09-05-dines-with-jijun-xinsheng-and-avoids-fu-chaoshu-calls",
+    "date": "1991-09-05",
+    "displayDate": "1991年9月5日",
+    "title": "李敖请基峻、鑫生晚饭并躲傅朝枢电话",
+    "summary": "1991年9月5日，李敖请基峻、鑫生晚饭。席间他说傅朝枢连日电话，他都躲开了；傅朝枢来台湾虽对老友李敖热情澎湃，但又与达官贵人牵扯不停，李敖决定暂时躲开。",
+    "importance": 2,
+    "keywords": [
+      "基峻",
+      "鑫生",
+      "傅朝枢",
+      "晚饭",
+      "来电"
+    ],
+    "tags": [
+      "dinner",
+      "phone",
+      "fu-chaoshu",
+      "jijun"
+    ],
+    "people": [
+      "李敖",
+      "基峻",
+      "鑫生",
+      "傅朝枢"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "view": [
+      "随写录线",
+      "交游线",
+      "电话线"
+    ],
+    "crossReferences": [
+      "qianqiu-wansui-1991-04-26-137-fu-chaoshu-sends-evidence-to-qiushi",
+      "qianqiu-wansui-1991-04-26-137-writes-fu-chaoshu-wang-tiwu",
+      "li-ao-wuwu-diary-1991-02-01-chaoshu-missed-calls-zhongyisao-wangfang-visit",
+      "li-ao-wuwu-diary-1991-03-20-chaoshu-call"
+    ],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "011.傅朝枢来台",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/011.傅朝枢来台.txt",
+      "line": 3,
+      "lines": [
+        3
+      ],
+      "note": "李敖请基峻、鑫生晚饭，并说明自己连日躲开傅朝枢电话。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "social",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "012.傅朝枢来寓",
+    "sourceFile": "李敖随写录前集/012.傅朝枢来寓.txt",
+    "sourceLocation": "第3、5行",
+    "sourceQuote": "第四次自詹骨科看手伤回来，被傅朝枢逮住，说找你好苦！他带来丝衬衫、领带、西装料、中药（壮阳药）送我。说专程表达敬意。 他说他向国民党当权派表示：你们大错在做了江南，结果反成全了他；但更大错在惹了李敖。李敖以一人敌一党敌一“国”，你们惹了他，大错特错。（1991年9月6日）",
+    "works": [
+      "李敖随写录前集",
+      "傅朝枢来寓"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round001-frontmatter-001-012",
+    "id": "li-ao-suixielu-qianji-1991-09-06-fu-chaoshu-visits-apartment-with-gifts",
+    "date": "1991-09-06",
+    "displayDate": "1991年9月6日",
+    "title": "傅朝枢到寓所送礼给李敖",
+    "summary": "1991年9月6日，李敖第四次从詹骨科看手伤回来，被傅朝枢堵到。傅朝枢带来丝衬衫、领带、西装料和中药送给李敖，说是专程表达敬意，并转述自己对国民党当权派说，他们做江南案已是大错，惹了李敖更是大错特错。",
+    "importance": 3,
+    "keywords": [
+      "傅朝枢",
+      "詹骨科",
+      "手伤",
+      "丝衬衫",
+      "江南案",
+      "国民党"
+    ],
+    "tags": [
+      "visit",
+      "gifts",
+      "health",
+      "fu-chaoshu",
+      "kmt"
+    ],
+    "people": [
+      "李敖",
+      "傅朝枢"
+    ],
+    "places": [
+      "李敖寓所",
+      "台湾"
+    ],
+    "view": [
+      "随写录线",
+      "交游线",
+      "健康线",
+      "政治线"
+    ],
+    "crossReferences": [
+      "li-ao-suixielu-qianji-1991-09-05-dines-with-jijun-xinsheng-and-avoids-fu-chaoshu-calls",
+      "qianqiu-wansui-1991-04-26-137-fu-chaoshu-sends-evidence-to-qiushi",
+      "qianqiu-wansui-1991-04-26-137-writes-fu-chaoshu-wang-tiwu"
+    ],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "012.傅朝枢来寓",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/012.傅朝枢来寓.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5
+      ],
+      "note": "李敖看手伤返寓后见到傅朝枢，收下对方带来的衣料、中药等礼物。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "social",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "013.陈又亮过台",
+    "sourceFile": "李敖随写录前集/013.陈又亮过台.txt",
+    "sourceLocation": "第3、5行",
+    "sourceQuote": "又亮昨晚抵北。午后同去野柳，小屯海边捞鱼蟹，我和又亮爬山到灯塔。又亮知识广博，边走边谈水成岩等。他经亚利桑那州，为我买到一块化石木，一亿六千万年。 又亮在美做教授，现已51岁。在台大第一宿舍与我同住第四室时，才17岁。（1991年9月7日）",
+    "works": [
+      "李敖随写录前集",
+      "陈又亮过台"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round002-013-020",
+    "id": "li-ao-suixielu-qianji-1991-09-07-chen-youliang-visits-and-yehliu-lighthouse",
+    "date": "1991-09-07",
+    "displayDate": "1991年9月7日",
+    "title": "陈又亮过台，李敖与他再游野柳",
+    "summary": "1991年9月7日，陈又亮前一晚抵达台北，午后李敖与他同去野柳；小屯在海边捞鱼蟹，李敖和陈又亮爬山到灯塔，边走边谈水成岩等知识。陈又亮还从亚利桑那州为李敖买来一块一亿六千万年的化石木，李敖并追记二人曾在台大第一宿舍第四室同住的旧谊。",
+    "importance": 3,
+    "keywords": [
+      "陈又亮",
+      "野柳",
+      "小屯",
+      "灯塔",
+      "水成岩",
+      "化石木"
+    ],
+    "tags": [
+      "visit",
+      "yehliu",
+      "travel",
+      "chen-youliang",
+      "fossil-wood"
+    ],
+    "people": [
+      "李敖",
+      "陈又亮",
+      "小屯",
+      "王小屯"
+    ],
+    "places": [
+      "台北",
+      "野柳",
+      "亚利桑那州",
+      "台大第一宿舍"
+    ],
+    "view": [
+      "随写录线",
+      "交游线",
+      "旅行线",
+      "收藏线"
+    ],
+    "crossReferences": [
+      "li-ao-suixielu-qianji-1991-09-01-visits-yehliu-with-xiaotun",
+      "daxue-houqi-jia-1958-10-18-meets-chen-youliang-and-plays-bridge-until-two",
+      "liao-xinkan-1957-context-dorm-fight-stopped-by-chen-youliang"
+    ],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "013.陈又亮过台",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/013.陈又亮过台.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5
+      ],
+      "note": "陈又亮来台，李敖与他、小屯同去野柳；李敖与陈又亮爬到灯塔并记下化石木赠购线索。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "writing",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "014.五佛斩魔也上街头",
+    "sourceFile": "李敖随写录前集/014.五佛斩魔也上街头.txt",
+    "sourceLocation": "第3、5行",
+    "sourceQuote": "由民进党等团体及蔡同荣等主办的“公民投票进入联合国”游行，昨日下午除了政治诉求外，队伍中还有“车鼓阵”、“牛犁阵”、“佛祖降白魔”等。据《中国时报》报导：“万佛会龙泉山寺的密宗教友身着黄色僧袍，头戴斗笠成为队伍里的醒目标志。还有戴着狰狞面具的黑魔、白魔沿途叫嚣及五名戴着佛祖面具的教友随行演出，象征着‘除魔斩妖’。”“在游行队伍中，龙泉山寺的教友以其特殊装扮吸引众人注目，并散发‘为台湾尊严而战，佛教徒不缺席’的传单；此外并演出‘宗教实验剧’，由戴着黑魔、白魔面具的教友，在锣鼓声中叫嚣，象征‘黑色恐怖’与‘白色恐怖’。而五名戴着‘佛祖’面具的教友一排随行，代表‘五智’，帮助世人辨清是非，排除妖魔。” 民进党的格调，一至于此！（1991年9月8日）",
+    "works": [
+      "李敖随写录前集",
+      "五佛斩魔也上街头",
+      "中国时报"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round002-013-020",
+    "id": "li-ao-suixielu-qianji-1991-09-08-comments-dpp-un-parade-buddhist-theater",
+    "date": "1991-09-08",
+    "displayDate": "1991年9月8日",
+    "title": "李敖摘评“公民投票进入联合国”游行中的宗教装扮",
+    "summary": "1991年9月8日，李敖摘录《中国时报》关于民进党等团体主办“公民投票进入联合国”游行的报道，注意队伍中“车鼓阵”“牛犁阵”“佛祖降白魔”等宗教剧场化装扮；他随即评论“民进党的格调，一至于此”。此条作为李敖对报道的摘记和政治评论入库。",
+    "importance": 2,
+    "keywords": [
+      "公民投票进入联合国",
+      "民进党",
+      "蔡同荣",
+      "中国时报",
+      "龙泉山寺"
+    ],
+    "tags": [
+      "writing",
+      "dpp",
+      "parade",
+      "china-times",
+      "political-commentary"
+    ],
+    "people": [
+      "李敖",
+      "蔡同荣"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "view": [
+      "随写录线",
+      "写作线",
+      "政治观察线",
+      "媒体线"
+    ],
+    "crossReferences": [],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "014.五佛斩魔也上街头",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/014.五佛斩魔也上街头.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5
+      ],
+      "note": "李敖摘录《中国时报》报道并评论民进党游行中的宗教化表演。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "writing",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "015.宁要大彼得",
+    "sourceFile": "李敖随写录前集/015.宁要大彼得.txt",
+    "sourceLocation": "第3、5行",
+    "sourceQuote": "列宁格勒七日美联社电：“在俄罗斯议会允许列宁格勒恢复革命前的旧名圣彼得堡之后，该市大部分居民都感到欣喜，然而一些死硬派共产党员，眼见苏联国父列宁的声名衰落和塑像纷纷倒地，却称更改市名之举是资产阶级的一次胜利。”“一名五十五岁的出租车司机欢呼道，‘此刻终于来到。’他说，‘列宁是狗的名字。’”“俄罗斯最高苏维埃于昨天在莫斯科做成决定，将这个已沿用了六十七年的市名列宁格勒，恢复为圣彼得堡。更改市名的决定于十月一日生效，不过在市中心一些革命前遗留下的建筑物，早已将许许多多‘列宁格勒’的招牌取下。”“列宁格勒市长发言人说，更改市名的工作至少得耗时十年。他说，更改市名的费用估计将在五千万至一亿五千万卢布之间（官方汇率在八千三百万至二亿四千九百万美元）。” 人民讨厌共产党和列宁，讨厌得竟回归到建圣彼得堡的彼得大帝，其理性程度与反动程度，亦堪一笑一叹矣！（一九九一年九月八日）",
+    "works": [
+      "李敖随写录前集",
+      "宁要大彼得"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round002-013-020",
+    "id": "li-ao-suixielu-qianji-1991-09-08-comments-leningrad-restored-saint-petersburg",
+    "date": "1991-09-08",
+    "displayDate": "1991年9月8日",
+    "title": "李敖摘评列宁格勒恢复圣彼得堡旧名",
+    "summary": "1991年9月8日，李敖摘录美联社关于列宁格勒将恢复圣彼得堡旧名的报道，记录俄罗斯议会决定、市民反应和更名成本等信息；他评论人民讨厌共产党和列宁，竟回归到彼得大帝，其理性程度与反动程度“亦堪一笑一叹”。",
+    "importance": 2,
+    "keywords": [
+      "列宁格勒",
+      "圣彼得堡",
+      "美联社",
+      "俄罗斯",
+      "列宁",
+      "彼得大帝"
+    ],
+    "tags": [
+      "writing",
+      "soviet-union",
+      "russia",
+      "political-commentary",
+      "renaming"
+    ],
+    "people": [
+      "李敖",
+      "列宁",
+      "彼得大帝"
+    ],
+    "places": [
+      "列宁格勒",
+      "圣彼得堡",
+      "俄罗斯",
+      "莫斯科",
+      "台湾"
+    ],
+    "view": [
+      "随写录线",
+      "写作线",
+      "国际观察线",
+      "政治观察线"
+    ],
+    "crossReferences": [],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "015.宁要大彼得",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/015.宁要大彼得.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5
+      ],
+      "note": "李敖摘录列宁格勒恢复圣彼得堡旧名的报道并作政治评论。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "writing",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "016.台湾到处是书法家，真不知其丑也！",
+    "sourceFile": "李敖随写录前集/016.台湾到处是书法家，真不知其丑也！.txt",
+    "sourceLocation": "第3、5、7行",
+    "sourceQuote": "第190期《中央日报》星期天版搞“孙法民书法义卖活动第五波”，满版孙法民鬼字，竟称书法，可恶极了。徒以孙法民是财阀耳！ 孙法民老而不自知，竟以连账房先生都不如的鬼毛笔字献宝，真不知其丑也！ 报上又宣传“王愷和九十书法展”说“先后从其学习者逾三千人”，其实这王老头和孙老头一样，毫无才气，如何能成书法家！台湾到处是书法家，真不知其丑也！（1991年9月9日）",
+    "works": [
+      "李敖随写录前集",
+      "台湾到处是书法家，真不知其丑也！",
+      "中央日报"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round002-013-020",
+    "id": "li-ao-suixielu-qianji-1991-09-09-criticizes-central-daily-calligraphy-promotion",
+    "date": "1991-09-09",
+    "displayDate": "1991年9月9日",
+    "title": "李敖批评《中央日报》星期天版书法宣传",
+    "summary": "1991年9月9日，李敖读第190期《中央日报》星期天版，批评其推出“孙法民书法义卖活动第五波”和王恺和九十书法展宣传。他说孙法民以鬼毛笔字献宝，王恺和也毫无才气，并以“台湾到处是书法家，真不知其丑也”作结。",
+    "importance": 2,
+    "keywords": [
+      "中央日报",
+      "孙法民",
+      "王恺和",
+      "书法义卖",
+      "毛笔字"
+    ],
+    "tags": [
+      "writing",
+      "calligraphy",
+      "central-daily-news",
+      "cultural-commentary"
+    ],
+    "people": [
+      "李敖",
+      "孙法民",
+      "王恺和"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "view": [
+      "随写录线",
+      "写作线",
+      "文化批评线",
+      "媒体线"
+    ],
+    "crossReferences": [
+      "shangxia-1965-08-12-no-hair-on-brush"
+    ],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "016.台湾到处是书法家，真不知其丑也！",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/016.台湾到处是书法家，真不知其丑也！.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7
+      ],
+      "note": "李敖读《中央日报》星期天版书法宣传后批评孙法民、王恺和等书法风气。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "writing",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "017.大陆法学家分析台湾“审理”大陆渔民的法律漏洞",
+    "sourceFile": "李敖随写录前集/017.大陆法学家分析台湾“审理”大陆渔民的法律漏洞.txt",
+    "sourceLocation": "第3、5、7、9、11、13、15行",
+    "sourceQuote": "中新社北京9月4日电：“此间法学界部分学者在昨天举行的‘七二一’事件研讨会上，分析指出台湾方面在‘审理’此事件中的法律漏洞。” “中国人民大学法学院诉讼法教研室主任程荣斌教授指出，‘七二一’事件是一起已经和解的渔事纠纷，不是刑事案件，本身不适用刑事诉讼程序。台湾方面对七位渔民进行起诉，是违法的。程荣斌说，依据台湾《刑事诉讼法》规定，审判、办案的公务人员应当全面调查案情，对被告人有利的、不利的证据一律要加以注意。而台中地方法院在‘审理’中偏听偏信，对被告有利的证人不询问、有利的证据不调查收集，只听起诉一方的证据。这是违反其《刑事诉讼法》的。” “中国社会科学院法学所资深研究员谢怀栻认为，台中地方法院在‘审理’此案过程中，对案件关键的证人不传讯，这样进行的‘审判’本身就是违法的。他说，此案关键性的证人是‘闽狮渔’2294号船长蔡成家，他自始至终参与双方谈判。台中法院不传讯重要证人，在‘判决书’的理由部分不加以说明。这是严重违反台湾《刑事诉讼法》的。” “谢怀栻提出对有关辅佐人的问题，台中地方法院在‘判决书’的理由部分进行说明时称，辅佐人请求出庭的诉状有待‘海基会’认证，台中法院8月17日请台湾高等法院转‘海基会’予以查明，但是至8月23日没有接到回函。谢怀栻强调指出，在短短的六天之内，要完成从资格认定到辅佐人经香港入台是根本不可能的。台中地方法院把不可能的事情在‘判决书’中作为一个理由，这个理由是站不住脚的，完全是违法的。” “谢怀栻认为，台中地方法院依《刑法》第302条‘私行拘禁罪’和304条‘共同妨害他人行使权利罪’，对五位大陆渔民‘判刑’，是根本不能成立的。对于台湾方面提出‘缓刑’的几位渔民须交保及取保时交付保证金的处理，谢怀栻称此举也是违法的。依据台湾有关‘法律’规定，交保及取保交保证金是有一定条件的，即被判刑者逃跑或有其他不法行为。他认为这些情况在此案中均是不可能的。” “此间法学家共同认为，台湾方面对此案的‘审理’，无论在程序上、在实体上，判决书本身及判决后的处理都是没有理由，站不住脚的。” 以上法律见解，都不错。国民党在台湾演法律戏，益增其丑耳！（1991年9月9日）",
+    "works": [
+      "李敖随写录前集",
+      "大陆法学家分析台湾“审理”大陆渔民的法律漏洞"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round002-013-020",
+    "id": "li-ao-suixielu-qianji-1991-09-09-comments-mainland-jurists-on-721-fishermen-case",
+    "date": "1991-09-09",
+    "displayDate": "1991年9月9日",
+    "title": "李敖摘评大陆法学家分析台湾审理大陆渔民案",
+    "summary": "1991年9月9日，李敖摘录中新社北京9月4日电，记录大陆法学界对台湾审理“七二一”大陆渔民案的程序与实体漏洞分析，包括证人未传讯、辅佐人认证不可能、交保保证金违法等意见。李敖评价这些法律见解不错，并批评国民党在台湾“演法律戏”。",
+    "importance": 2,
+    "keywords": [
+      "七二一事件",
+      "大陆渔民",
+      "中新社",
+      "程荣斌",
+      "谢怀栻",
+      "国民党"
+    ],
+    "tags": [
+      "writing",
+      "legal-commentary",
+      "mainland",
+      "kmt",
+      "fishermen-case"
+    ],
+    "people": [
+      "李敖",
+      "程荣斌",
+      "谢怀栻",
+      "蔡成家"
+    ],
+    "places": [
+      "北京",
+      "台中",
+      "台湾",
+      "中国大陆"
+    ],
+    "view": [
+      "随写录线",
+      "写作线",
+      "法律线",
+      "政治观察线"
+    ],
+    "crossReferences": [],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "017.大陆法学家分析台湾“审理”大陆渔民的法律漏洞",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/017.大陆法学家分析台湾“审理”大陆渔民的法律漏洞.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15
+      ],
+      "note": "李敖摘录中新社关于大陆法学家分析台湾审理大陆渔民案的报道并作评论。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "publishing",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "018.追究停刊责任",
+    "sourceFile": "李敖随写录前集/018.追究停刊责任.txt",
+    "sourceLocation": "第3、5行",
+    "sourceQuote": "“伍总”自美返台，下午来谈两小时，我举出证据，证明彼方在《求是报》合作过程中背诺毁信乱来胡搞之行径。他为之太息，并说X先生搞家族企业、反为其家族所累，以至祸延《求是报》。 我要求赔偿损失。（1991年9月10日）",
+    "works": [
+      "李敖随写录前集",
+      "追究停刊责任",
+      "求是报"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round002-013-020",
+    "id": "li-ao-suixielu-qianji-1991-09-10-wu-general-talks-qiushi-shutdown-li-demands-compensation",
+    "date": "1991-09-10",
+    "displayDate": "1991年9月10日",
+    "title": "李敖与“伍总”谈《求是报》停刊责任并要求赔偿",
+    "summary": "1991年9月10日下午，“伍总”自美国返台后到访，与李敖谈两小时。李敖举出证据，证明对方在《求是报》合作过程中背诺毁信、乱来胡搞；“伍总”为之太息，并说X先生搞家族企业反累及《求是报》。李敖明确要求赔偿损失。",
+    "importance": 4,
+    "keywords": [
+      "伍总",
+      "求是报",
+      "停刊责任",
+      "赔偿损失",
+      "X先生"
+    ],
+    "tags": [
+      "qiushi",
+      "meeting",
+      "compensation",
+      "publishing",
+      "dispute"
+    ],
+    "people": [
+      "李敖",
+      "伍总",
+      "X先生"
+    ],
+    "places": [
+      "台湾",
+      "美国"
+    ],
+    "view": [
+      "随写录线",
+      "求是线",
+      "出版线",
+      "法律线",
+      "交游线"
+    ],
+    "crossReferences": [
+      "book4-1991-02-27-qiushi-daily-starts",
+      "book4-1991-11-01-li-ao-qiushi-review-starts",
+      "li-ao-suixielu-qianji-1994-09-22-writes-preface-and-reviews-qiushi-review",
+      "li-ao-suixielu-qianji-1991-09-01-sets-small-notes-beside-big-books"
+    ],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "018.追究停刊责任",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/018.追究停刊责任.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5
+      ],
+      "note": "“伍总”返台来谈《求是报》停刊责任，李敖举证并要求赔偿损失。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "publishing",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "019.报纸停了以后",
+    "sourceFile": "李敖随写录前集/019.报纸停了以后.txt",
+    "sourceLocation": "第3行",
+    "sourceQuote": "《求是报》停刊，各界慰问不绝。公司方面今日留话：洪范书局孙小姐：“《求是报》停刊，我们都很难过。”其实我不但不难过，还达观得很。（1991年9月10日）",
+    "works": [
+      "李敖随写录前集",
+      "报纸停了以后",
+      "求是报"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round002-013-020",
+    "id": "li-ao-suixielu-qianji-1991-09-10-receives-condolences-after-qiushi-shutdown",
+    "date": "1991-09-10",
+    "displayDate": "1991年9月10日",
+    "title": "《求是报》停刊后，李敖收到慰问留言",
+    "summary": "1991年9月10日，《求是报》停刊后各界慰问不绝；公司方面当天留话，洪范书局孙小姐说《求是报》停刊令人难过。李敖在随写中回应，自己不但不难过，反而达观得很。",
+    "importance": 2,
+    "keywords": [
+      "求是报",
+      "停刊",
+      "洪范书局",
+      "孙小姐",
+      "慰问"
+    ],
+    "tags": [
+      "qiushi",
+      "message",
+      "publishing",
+      "shutdown",
+      "hongfan"
+    ],
+    "people": [
+      "李敖",
+      "孙小姐"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "view": [
+      "随写录线",
+      "求是线",
+      "出版线",
+      "通信线"
+    ],
+    "crossReferences": [
+      "li-ao-suixielu-qianji-1991-09-10-wu-general-talks-qiushi-shutdown-li-demands-compensation",
+      "book4-1991-02-27-qiushi-daily-starts",
+      "li-ao-suixielu-qianji-1994-09-22-writes-preface-and-reviews-qiushi-review"
+    ],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "019.报纸停了以后",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/019.报纸停了以后.txt",
+      "line": 3,
+      "lines": [
+        3
+      ],
+      "note": "《求是报》停刊后，公司转来洪范书局孙小姐慰问留言，李敖记录自己的达观态度。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "writing",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "020.订报余款冲抵毛笔字",
+    "sourceFile": "李敖随写录前集/020.订报余款冲抵毛笔字.txt",
+    "sourceLocation": "第3、7、17、19、21、23、25、27行",
+    "sourceQuote": "读者陈盈宏来信，想以近两千元的订报余款易我“几个毛笔字”。来信说： 我是《求是报》订户，今提议由李先生写几个毛笔字冲抵余款。若有其他行规，请告知。 1991年8月30日 我乃写毛笔字如下： 李敖墨迹，一字千金，君以低价，得此奇珍。 盈宏先生 李敖 1991年9月11日（1991年9月11日）",
+    "works": [
+      "李敖随写录前集",
+      "订报余款冲抵毛笔字",
+      "求是报"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round002-013-020",
+    "id": "li-ao-suixielu-qianji-1991-09-11-writes-calligraphy-for-chen-yinghong-subscription-balance",
+    "date": "1991-09-11",
+    "displayDate": "1991年9月11日",
+    "title": "李敖写毛笔字冲抵陈盈宏订报余款",
+    "summary": "1991年9月11日，李敖处理《求是报》订户陈盈宏8月30日来信。陈盈宏提出用近两千元订报余款换李敖几个毛笔字，认为比余款易书更有人情味；李敖于是写下“李敖墨迹，一字千金，君以低价，得此奇珍”，署给盈宏先生并签名。",
+    "importance": 3,
+    "keywords": [
+      "陈盈宏",
+      "求是报",
+      "订报余款",
+      "毛笔字",
+      "李敖墨迹"
+    ],
+    "tags": [
+      "qiushi",
+      "calligraphy",
+      "reader-letter",
+      "subscription-balance",
+      "writing"
+    ],
+    "people": [
+      "李敖",
+      "陈盈宏"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "view": [
+      "随写录线",
+      "求是线",
+      "通信线",
+      "书法线",
+      "出版线"
+    ],
+    "crossReferences": [
+      "li-ao-suixielu-qianji-1991-09-10-receives-condolences-after-qiushi-shutdown",
+      "li-ao-wuwu-diary-1991-01-23-qiujinsi-asks-calligraphy-for-nineties",
+      "shangxia-1965-08-12-no-hair-on-brush"
+    ],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "020.订报余款冲抵毛笔字",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/020.订报余款冲抵毛笔字.txt",
+      "line": 3,
+      "lines": [
+        3,
+        7,
+        17,
+        19,
+        21,
+        23,
+        25,
+        27
+      ],
+      "note": "李敖收到陈盈宏以订报余款换毛笔字的来信后，写字并署1991年9月11日。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "publishing",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "021.保护洋人“智慧财产权”？",
+    "sourceFile": "李敖随写录前集/021.保护洋人“智慧财产权”？.txt",
+    "sourceLocation": "第3、5行",
+    "sourceQuote": "大苹果股份有限公司柯金珠来商代理合约，她淡大中文系毕业，甚聪敏。我送她《海盗万岁》一册，表示我在商业观点上赞成保护洋人“智慧财产权”，但在公义上和知识传布上，却有意见。 我说丹青图书公司的杜洁祥在《大英百科全书》上打倒中华书局的熊钝生，我幕后支持，杜洁祥在公义上和知识传布上宁坐牢也不让洋人一鱼两吃，是完全站得住的义举。（1991年9月11日）",
+    "works": [
+      "李敖随写录前集",
+      "保护洋人“智慧财产权”？",
+      "海盗万岁",
+      "大英百科全书"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round003-021-025",
+    "id": "li-ao-suixielu-qianji-1991-09-11-ke-jinzhu-contract-and-pirates-book",
+    "date": "1991-09-11",
+    "displayDate": "1991年9月11日",
+    "title": "柯金珠来商代理合约，李敖赠《海盗万岁》",
+    "summary": "1991年9月11日，大苹果股份有限公司柯金珠来与李敖商谈代理合约；李敖见她淡大中文系毕业且聪明，送她《海盗万岁》一册，并说明自己在商业观点上赞成保护洋人“智慧财产权”，但在公义与知识传播上有意见。他还说丹青图书公司杜洁祥在《大英百科全书》一案中打倒中华书局熊钝生，自己幕后支持。",
+    "importance": 3,
+    "keywords": [
+      "柯金珠",
+      "大苹果股份有限公司",
+      "代理合约",
+      "海盗万岁",
+      "智慧财产权",
+      "杜洁祥"
+    ],
+    "tags": [
+      "contract",
+      "intellectual-property",
+      "piracy",
+      "book-gift",
+      "publishing"
+    ],
+    "people": [
+      "李敖",
+      "柯金珠",
+      "杜洁祥",
+      "熊钝生"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "view": [
+      "随写录线",
+      "出版线",
+      "会谈线",
+      "知识传播线"
+    ],
+    "crossReferences": [],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "021.保护洋人“智慧财产权”？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/021.保护洋人“智慧财产权”？.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5
+      ],
+      "note": "柯金珠来商代理合约，李敖赠《海盗万岁》并谈智慧财产权与知识传播。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "social",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "022.不与美女共舞",
+    "sourceFile": "李敖随写录前集/022.不与美女共舞.txt",
+    "sourceLocation": "第3行",
+    "sourceQuote": "《中国男人》社赖灿德约参加中国小姐选拔会的酒会与舞会，美女三十多位云云，我说我不跳舞，我也从不参加婚丧喜庆。（1991年9月11日）",
+    "works": [
+      "李敖随写录前集",
+      "不与美女共舞",
+      "中国男人"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round003-021-025",
+    "id": "li-ao-suixielu-qianji-1991-09-11-lai-cande-invites-miss-china-party-li-declines",
+    "date": "1991-09-11",
+    "displayDate": "1991年9月11日",
+    "title": "赖灿德邀李敖参加中国小姐酒舞会，李敖拒绝",
+    "summary": "1991年9月11日，《中国男人》社赖灿德约李敖参加中国小姐选拔会的酒会与舞会，并称现场有三十多位美女；李敖答说自己不跳舞，也从不参加婚丧喜庆，因此拒绝这项邀约。",
+    "importance": 2,
+    "keywords": [
+      "赖灿德",
+      "中国男人",
+      "中国小姐",
+      "酒会",
+      "舞会",
+      "拒绝"
+    ],
+    "tags": [
+      "invitation",
+      "declined",
+      "miss-china",
+      "dance",
+      "lai-cande"
+    ],
+    "people": [
+      "李敖",
+      "赖灿德"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "view": [
+      "随写录线",
+      "交游线",
+      "活动邀约线"
+    ],
+    "crossReferences": [
+      "li-ao-wuwu-diary-1991-02-13-lai-cande-li-meiling-interview",
+      "li-ao-wuwu-diary-1991-04-01-lai-cande-visit",
+      "traditional-monologue-1961-06-china-miss-theory-published-in-renjianshi",
+      "wencun-two-1979-07-27-miss-china-new-discourse-written"
+    ],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "022.不与美女共舞",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/022.不与美女共舞.txt",
+      "line": 3,
+      "lines": [
+        3
+      ],
+      "note": "赖灿德邀请李敖参加中国小姐选拔会酒会和舞会，李敖以不跳舞、不参加婚丧喜庆为由拒绝。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "writing",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "023.女同性恋者拆伙付代价",
+    "sourceFile": "李敖随写录前集/023.女同性恋者拆伙付代价.txt",
+    "sourceLocation": "第3、5、7行",
+    "sourceQuote": "美联社讯：网球“女金刚”三十多岁的纳芙拉蒂诺娃9日和已分手的同居女伴茱蒂·尼尔森对簿公堂。纳芙拉蒂诺娃作证时，噙着泪水说，她以前没有细读和茱蒂签下的财产协议。 这是纳芙拉蒂诺娃和茱蒂从今年4月决裂后首次面对面，茱蒂控告纳芙拉蒂诺娃违约，没有按照协议，将总值约五百万到九百万美元的财产分她一半。 现年已四十五岁的茱蒂·尼尔森，以前曾是选美皇后，与纳芙拉蒂诺娃共同居了七年，4月分手之后，于6月诉诸法律要分财产。（1991年9月11日）",
+    "works": [
+      "李敖随写录前集",
+      "女同性恋者拆伙付代价"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round003-021-025",
+    "id": "li-ao-suixielu-qianji-1991-09-11-notes-navratilova-judy-nelson-lawsuit",
+    "date": "1991-09-11",
+    "displayDate": "1991年9月11日",
+    "title": "李敖摘记纳芙拉蒂诺娃与茱蒂·尼尔森财产诉讼",
+    "summary": "1991年9月11日，李敖摘记美联社关于纳芙拉蒂诺娃与已分手同居女伴茱蒂·尼尔森对簿公堂的报道：茱蒂指控纳芙拉蒂诺娃违约，要求依协议分得五百万至九百万美元财产。此条作为李敖随写中的国际社会新闻摘记入库，不扩写成李敖现场事件。",
+    "importance": 1,
+    "keywords": [
+      "纳芙拉蒂诺娃",
+      "茱蒂·尼尔森",
+      "美联社",
+      "诉讼",
+      "财产协议"
+    ],
+    "tags": [
+      "writing",
+      "ap",
+      "lawsuit",
+      "international-news",
+      "social-note"
+    ],
+    "people": [
+      "李敖",
+      "纳芙拉蒂诺娃",
+      "茱蒂·尼尔森"
+    ],
+    "places": [
+      "美国",
+      "台湾"
+    ],
+    "view": [
+      "随写录线",
+      "写作线",
+      "国际观察线"
+    ],
+    "crossReferences": [],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "023.女同性恋者拆伙付代价",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/023.女同性恋者拆伙付代价.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7
+      ],
+      "note": "李敖摘记纳芙拉蒂诺娃与茱蒂·尼尔森财产诉讼的美联社报道。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "social",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "024.龚忠武来",
+    "sourceFile": "李敖随写录前集/024.龚忠武来.txt",
+    "sourceLocation": "第3、5、7、9、11、13、15行",
+    "sourceQuote": "龚忠武傍晚来。他即日返美。谈话重点如下： 一、据苏联近日公布资料，1966年后，已乏支援越战，越战是在中国支援下打下去的。 二、打韩战、打越战，在确立中国反帝的国际地位，逼西方帝国主义军事势力退出亚洲。越战完成了反帝终结篇。 三、越战时间约与“文革”相终始，“文革”与越战有关。 四、美国今日困境，和苏联有伯仲者，只是底子厚，经得住折腾而已。 五、大陆老、少（少数民族）、边、穷四区，问题仍迫切。全国县中，六百四十四个县穷、四百多个县特贫。有一亿二千万人（每户按四点五人算）年平均“人均”在二百元人民币以下、“户均”只一千元者甚多。 六、水灾一事，证明西方口口声声人权人权，对真正中国人生死交关，反置而不问。（1991年9月11日）",
+    "works": [
+      "李敖随写录前集",
+      "龚忠武来"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round003-021-025",
+    "id": "li-ao-suixielu-qianji-1991-09-11-gong-zhongwu-visits-talks-vietnam-cultural-revolution-poverty",
+    "date": "1991-09-11",
+    "displayDate": "1991年9月11日",
+    "title": "龚忠武傍晚来访，与李敖谈越战、文革和大陆贫困",
+    "summary": "1991年9月11日傍晚，龚忠武来访李敖，并在当天返美。李敖记录两人谈话重点，包括苏联资料显示1966年后越战主要靠中国支援、韩战和越战确立中国反帝国际地位、文革与越战相关、美国困境与苏联相近，以及大陆老少边穷地区贫困和水灾凸显西方人权话语的选择性。",
+    "importance": 3,
+    "keywords": [
+      "龚忠武",
+      "越战",
+      "文革",
+      "大陆贫困",
+      "水灾",
+      "人权"
+    ],
+    "tags": [
+      "visit",
+      "gong-zhongwu",
+      "vietnam-war",
+      "cultural-revolution",
+      "poverty",
+      "human-rights"
+    ],
+    "people": [
+      "李敖",
+      "龚忠武"
+    ],
+    "places": [
+      "台湾",
+      "美国",
+      "中国大陆",
+      "越南",
+      "苏联"
+    ],
+    "view": [
+      "随写录线",
+      "交游线",
+      "大陆观察线",
+      "国际观察线"
+    ],
+    "crossReferences": [
+      "woshi-tiananmen-1990-08-30-true-solution-is-ending-poverty"
+    ],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "024.龚忠武来",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/024.龚忠武来.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15
+      ],
+      "note": "龚忠武傍晚来访李敖，谈越战、文革、美国困境、大陆贫困与水灾等议题。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "writing",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "025.外蒙总统退出共党",
+    "sourceFile": "李敖随写录前集/025.外蒙总统退出共党.txt",
+    "sourceLocation": "第3、5、7、9、11、13行",
+    "sourceQuote": "路透社乌兰巴托10日电：外蒙总统奥其尔巴特与数名外蒙高级官员，今天依法退出外蒙共党。 外蒙国会在苏联政变结束后通过一项法令，要求总统、副总统、国防外交两部官员、司法人员以及国营新闻机构人员，至迟须在今天决定是要辞去党职抑或政府职位，期使政府各级官员的施政作为不再受到政党摆布。 发言人表示，外蒙外长贡布苏伦亦已决定辞去党职。官员们表示，辞去党职的外蒙各级官员人数已经达到至少一千人。 蒙共于去年宣布放弃一党专政地位；随即举行第一次自由选举。尽管蒙共贏得选举胜利，它却从此必须与新兴的外蒙民主党派分享权力。 一名外蒙国会议员表示，他认为外蒙官员辞去党职，并不足以改变这些官员效忠共党的心态。他说：“共党党员永远不会轻言改变信仰。蒙共高级官员仅想借退党之举，提高人民对他们的信心。” 不知李登辉何时退出“国党”也。（1991年9月11日）",
+    "works": [
+      "李敖随写录前集",
+      "外蒙总统退出共党"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round003-021-025",
+    "id": "li-ao-suixielu-qianji-1991-09-11-comments-mongolian-president-leaves-communist-party",
+    "date": "1991-09-11",
+    "displayDate": "1991年9月11日",
+    "title": "李敖摘评外蒙总统退出共党，并反问李登辉",
+    "summary": "1991年9月11日，李敖摘录路透社乌兰巴托10日电，记录外蒙总统奥其尔巴特和多名高级官员依法退出外蒙共党，以及外蒙国会要求政务人员辞去党职或政府职位的背景。李敖在文末借题反问，不知李登辉何时退出“国党”。",
+    "importance": 2,
+    "keywords": [
+      "外蒙",
+      "奥其尔巴特",
+      "外蒙共党",
+      "路透社",
+      "李登辉",
+      "国党"
+    ],
+    "tags": [
+      "writing",
+      "mongolia",
+      "communist-party",
+      "lee-tenghui",
+      "political-commentary"
+    ],
+    "people": [
+      "李敖",
+      "奥其尔巴特",
+      "贡布苏伦",
+      "李登辉"
+    ],
+    "places": [
+      "乌兰巴托",
+      "外蒙",
+      "台湾"
+    ],
+    "view": [
+      "随写录线",
+      "写作线",
+      "国际观察线",
+      "政治观察线"
+    ],
+    "crossReferences": [
+      "woshi-tiananmen-1991-05-21-beyond-jiang-zemin-diplomatic-remarks"
+    ],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "025.外蒙总统退出共党",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/025.外蒙总统退出共党.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13
+      ],
+      "note": "李敖摘录外蒙总统及高级官员退党报道，并借此反问李登辉何时退出国民党。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "writing",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "026.国共禁书与贴胶带",
+    "sourceFile": "李敖随写录前集/026.国共禁书与贴胶带.txt",
+    "sourceLocation": "第3、5行",
+    "sourceQuote": "法新社北京十日电：本周在此间销售的美国《新闻周刊》杂志遭中共当局检查，并将一幅描述苏联政变失败的讽刺漫画，以褐色胶带贴住。不过，将杂志对着光源，仍可清楚的看到漫画内容，只见一名中共领袖及伊拉克总统萨达姆、巴勒斯坦解放组织领袖阿拉法特和古巴总统卡斯特罗面对播报苏联政变失败消息的电视机，每个人都涕泗纵横。电视上方写着播报员所念内容：苏联政变失败，全球一致兴高采烈庆祝。 国民党在台湾，过去也搞这种把戏，只是多用“墨涂法”或“撕去法”。也有用贴胶带的，我现在手边的几套百科全书就被贴得一塌糊涂。胶带是特制的，背面白纸黑字，以其他的字混淆，使人减少开天窗的感觉。（一九九一年九月十一日）",
+    "works": [
+      "李敖随写录前集",
+      "国共禁书与贴胶带",
+      "新闻周刊"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round004-026-030",
+    "id": "li-ao-suixielu-qianji-1991-09-11-comments-censorship-tape-newsweek-and-kmt-books",
+    "date": "1991-09-11",
+    "displayDate": "1991年9月11日",
+    "title": "李敖摘评中共贴胶带审查，并忆国民党禁书手法",
+    "summary": "1991年9月11日，李敖摘录法新社北京10日电，记录中共当局检查美国《新闻周刊》，用褐色胶带贴住描绘苏联政变失败的讽刺漫画。李敖随即比较国民党过去在台湾的“墨涂法”“撕去法”和贴胶带做法，并说自己手边几套百科全书就被贴得一塌糊涂。",
+    "importance": 3,
+    "keywords": [
+      "新闻周刊",
+      "贴胶带",
+      "禁书",
+      "中共",
+      "国民党",
+      "百科全书"
+    ],
+    "tags": [
+      "writing",
+      "censorship",
+      "newsweek",
+      "kmt",
+      "communist-party",
+      "books"
+    ],
+    "people": [
+      "李敖",
+      "萨达姆",
+      "阿拉法特",
+      "卡斯特罗"
+    ],
+    "places": [
+      "北京",
+      "台湾",
+      "伊拉克",
+      "古巴"
+    ],
+    "view": [
+      "随写录线",
+      "写作线",
+      "禁书线",
+      "政治观察线"
+    ],
+    "crossReferences": [
+      "1965-11-05-ten-books-seized",
+      "1966-books-banned",
+      "freedom-summoning-1983-10-17-writes-freedom-of-speech-in-the-belly"
+    ],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "026.国共禁书与贴胶带",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/026.国共禁书与贴胶带.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5
+      ],
+      "note": "李敖摘录《新闻周刊》在北京遭贴胶带审查的报道，并联系自己手边百科全书被国民党贴胶带的经验。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "writing",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "027.蒋家奴才的家家酒",
+    "sourceFile": "李敖随写录前集/027.蒋家奴才的家家酒.txt",
+    "sourceLocation": "第3、5行",
+    "sourceQuote": "中新社北京9月10日电：10日上午，“中共中央总书记、中央军委主席江泽民，国家主席、中央军委第一副主席杨尚昆和国务院总理李鹏等在华北某地，检阅了北京军区军事训练成果演练。”“参加这次演练的有北京军区所属炮兵、工程兵、装甲兵、通信兵、防化兵、航空兵等十几个兵种上百个专业的部队。长城脚下，铁马驰骋，炮声轰鸣，大地颤抖，火光冲天，十分壮观。” 海峡这边，李登辉等蒋家奴才也展开演习，办家家酒耳！（1991年9月12日）",
+    "works": [
+      "李敖随写录前集",
+      "蒋家奴才的家家酒"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round004-026-030",
+    "id": "li-ao-suixielu-qianji-1991-09-12-comments-jiang-zemin-drill-and-lee-tenghui-exercise",
+    "date": "1991-09-12",
+    "displayDate": "1991年9月12日",
+    "title": "李敖摘评江泽民等军演，并讽李登辉演习",
+    "summary": "1991年9月12日，李敖摘录中新社北京9月10日电，记录江泽民、杨尚昆、李鹏等在华北某地检阅北京军区军事训练成果演练。李敖随后把海峡这边李登辉等人的演习并置，讽称也是“办家家酒”。",
+    "importance": 2,
+    "keywords": [
+      "江泽民",
+      "杨尚昆",
+      "李鹏",
+      "北京军区",
+      "李登辉",
+      "演习"
+    ],
+    "tags": [
+      "writing",
+      "military-drill",
+      "jiang-zemin",
+      "lee-tenghui",
+      "political-commentary"
+    ],
+    "people": [
+      "李敖",
+      "江泽民",
+      "杨尚昆",
+      "李鹏",
+      "李登辉"
+    ],
+    "places": [
+      "北京",
+      "华北",
+      "台湾"
+    ],
+    "view": [
+      "随写录线",
+      "写作线",
+      "政治观察线",
+      "军事观察线"
+    ],
+    "crossReferences": [
+      "woshi-tiananmen-1991-05-21-beyond-jiang-zemin-diplomatic-remarks"
+    ],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "027.蒋家奴才的家家酒",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/027.蒋家奴才的家家酒.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5
+      ],
+      "note": "李敖摘录大陆军演报道，并与台湾李登辉等演习相对照作讽刺。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "health",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "028.体检中饯基峻行",
+    "sourceFile": "李敖随写录前集/028.体检中饯基峻行.txt",
+    "sourceLocation": "第3行",
+    "sourceQuote": "晨起大便全黑，乃决定立刻全身体检。在医院上下左右折腾了一整天。全身体检已经多年没做了。现在做要九千元。",
+    "works": [
+      "李敖随写录前集",
+      "体检中饯基峻行"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round004-026-030",
+    "id": "li-ao-suixielu-qianji-1991-09-13-black-stool-full-body-checkup",
+    "date": "1991-09-13",
+    "displayDate": "1991年9月13日",
+    "title": "李敖晨起黑便，决定立刻全身体检",
+    "summary": "1991年9月13日，李敖晨起发现大便全黑，决定立刻做全身体检。他在医院上下左右折腾了一整天，并记下自己多年没做全身体检，当时检查费用要九千元。",
+    "importance": 4,
+    "keywords": [
+      "黑便",
+      "全身体检",
+      "医院",
+      "九千元",
+      "健康"
+    ],
+    "tags": [
+      "health",
+      "checkup",
+      "hospital",
+      "black-stool"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "医院",
+      "台湾"
+    ],
+    "view": [
+      "随写录线",
+      "健康线",
+      "日常线"
+    ],
+    "crossReferences": [
+      "li-ao-suixielu-qianji-1991-09-06-fu-chaoshu-visits-apartment-with-gifts"
+    ],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "028.体检中饯基峻行",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/028.体检中饯基峻行.txt",
+      "line": 3,
+      "lines": [
+        3
+      ],
+      "note": "李敖晨起黑便后立刻做全身体检，在医院折腾一整天。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "social",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "028.体检中饯基峻行",
+    "sourceFile": "李敖随写录前集/028.体检中饯基峻行.txt",
+    "sourceLocation": "第5、7行",
+    "sourceQuote": "晚饭为基峻饯行。国基夫妇在座。谈到胡志伟。我说胡志伟胆子太小，其胆一半是国民党政府吓的，一半是自己吓自己的。 我笑在美友人，一离婚，前半生努力全部付之前妻，一切都得从头再来，但多已时不我与。基峻见报说撒切尔夫人说日本经济力强与离婚率低有关，我说日本鬼子离婚率低，在于日本女人争婚姻稳定而不争权，其智在欧美婆子之上也。（1991年9月13日）",
+    "works": [
+      "李敖随写录前集",
+      "体检中饯基峻行"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round004-026-030",
+    "id": "li-ao-suixielu-qianji-1991-09-13-farewell-dinner-for-jijun-discusses-hu-zhiwei-divorce-japan",
+    "date": "1991-09-13",
+    "displayDate": "1991年9月13日",
+    "title": "李敖晚饭为基峻饯行",
+    "summary": "1991年9月13日晚饭，李敖为基峻饯行，国基夫妇也在座。席间谈到胡志伟，李敖说胡志伟胆子太小，一半是被国民党政府吓的，一半是自己吓自己；他又谈在美友人离婚代价，并回应基峻所引撒切尔夫人关于日本经济力和低离婚率的说法。",
+    "importance": 3,
+    "keywords": [
+      "基峻",
+      "国基夫妇",
+      "胡志伟",
+      "饯行",
+      "撒切尔夫人",
+      "离婚率"
+    ],
+    "tags": [
+      "dinner",
+      "farewell",
+      "jijun",
+      "conversation",
+      "hu-zhiwei",
+      "japan"
+    ],
+    "people": [
+      "李敖",
+      "基峻",
+      "国基",
+      "胡志伟",
+      "撒切尔夫人"
+    ],
+    "places": [
+      "台湾",
+      "美国",
+      "日本"
+    ],
+    "view": [
+      "随写录线",
+      "交游线",
+      "饭局线",
+      "政治观察线"
+    ],
+    "crossReferences": [
+      "li-ao-suixielu-qianji-1991-09-05-dines-with-jijun-xinsheng-and-avoids-fu-chaoshu-calls",
+      "qianqiu-wansui-1989-09-26-142-writes-sun-yatsen-only-christian",
+      "zaonian-riji-1966-08-20-visits-liu-shaotang-new-home-and-attends-hu-zhiwei-zhao-wannian-wedding"
+    ],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "028.体检中饯基峻行",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/028.体检中饯基峻行.txt",
+      "line": 5,
+      "lines": [
+        5,
+        7
+      ],
+      "note": "李敖晚饭为基峻饯行，席间谈胡志伟、在美友人离婚和日本低离婚率。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "legal",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "029.被告王纪五死矣！",
+    "sourceFile": "李敖随写录前集/029.被告王纪五死矣！.txt",
+    "sourceLocation": "第3、5行",
+    "sourceQuote": "今日《中央日报》，我之被告王纪五死矣！前几天傍晚碰到张忠琳，她还向我介绍其子王敬毅。从讣文上得知，另一被告王秋华原来是老处女。 卖国者王世杰儿子只有两个，如今全死矣！（1991年9月14日）",
+    "works": [
+      "李敖随写录前集",
+      "被告王纪五死矣！",
+      "中央日报"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round004-026-030",
+    "id": "li-ao-suixielu-qianji-1991-09-14-reads-wang-jiwu-obituary-in-central-daily",
+    "date": "1991-09-14",
+    "displayDate": "1991年9月14日",
+    "title": "李敖读《中央日报》得知被告王纪五死亡",
+    "summary": "1991年9月14日，李敖读当天《中央日报》，得知自己的被告王纪五已经死亡；他又追记前几天傍晚碰到张忠琳，对方还向他介绍其子王敬毅。李敖从讣文上得知另一被告王秋华原来是老处女，并感叹王世杰两个儿子如今都已死去。",
+    "importance": 3,
+    "keywords": [
+      "王纪五",
+      "中央日报",
+      "张忠琳",
+      "王敬毅",
+      "王秋华",
+      "王世杰"
+    ],
+    "tags": [
+      "central-daily-news",
+      "obituary",
+      "lawsuit",
+      "wang-shijie",
+      "reading-news"
+    ],
+    "people": [
+      "李敖",
+      "王纪五",
+      "张忠琳",
+      "王敬毅",
+      "王秋华",
+      "王世杰"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "view": [
+      "随写录线",
+      "法律线",
+      "阅读线",
+      "王世杰线"
+    ],
+    "crossReferences": [
+      "li-ao-wuwu-diary-1990-12-06-wu-dayou-court-qiushibao-name-and-yizhi-letter",
+      "book5-1990-03-wang-shijie-diary-reveals-rejection-of-li",
+      "traditional-monologue-sequel-1966-02-17-diary-hears-wang-shijie-moves-to-ban-preface"
+    ],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "029.被告王纪五死矣！",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/029.被告王纪五死矣！.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5
+      ],
+      "note": "李敖从《中央日报》讣文得知被告王纪五死亡，并补记张忠琳、王敬毅、王秋华和王世杰家族线索。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "writing",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "030.国家到底为何？",
+    "sourceFile": "李敖随写录前集/030.国家到底为何？.txt",
+    "sourceLocation": "第3、5行",
+    "sourceQuote": "政治学上说国家构成的要项：“领土”也、“人民”也、“政府”也、“主权”也，列举备至，但我总觉得漏列了最被忽视的一项，就是“那一群结党营私的坏人”。真正国家的运作，其实全在这群人手里，他们实际作恶，却以“国家”、“政府”等抽象招牌行之，以“国家”、“政府”等抽象盾牌挡之，而使世人、国人不察，也从而以“国家”、“政府”等为对象服从之、效忠之、献身之、评论之、岂不上当也耶？ 英文中“国家”（state）一词，观念始于16世纪马基维利（Machiavelli）之首创，但马基维利时的国家观念、就比现代构成的要项少，例如缺一定领土观念、也缺现代主权观念等。可见古人比今人还实事求是得多，古人比较能单刀直入，扣紧真正关键在君臣臣民人际上的“恶”，反不易为幻象所欺也。（1991年9月14日）",
+    "works": [
+      "李敖随写录前集",
+      "国家到底为何？"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round004-026-030",
+    "id": "li-ao-suixielu-qianji-1991-09-14-writes-what-is-the-state",
+    "date": "1991-09-14",
+    "displayDate": "1991年9月14日",
+    "title": "李敖写《国家到底为何？》",
+    "summary": "1991年9月14日，李敖写《国家到底为何？》，认为政治学列举国家由领土、人民、政府、主权构成，却漏掉真正支配国家运作的“那一群结党营私的坏人”。他又由英文 state 与马基维利谈起，主张古人反而更能扣紧君臣臣民人际上的“恶”，不易被抽象国家幻象欺骗。",
+    "importance": 2,
+    "keywords": [
+      "国家",
+      "政府",
+      "主权",
+      "结党营私",
+      "马基维利",
+      "state"
+    ],
+    "tags": [
+      "writing",
+      "state",
+      "political-theory",
+      "machiavelli",
+      "government"
+    ],
+    "people": [
+      "李敖",
+      "马基维利"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "view": [
+      "随写录线",
+      "写作线",
+      "政治思想线"
+    ],
+    "crossReferences": [],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "030.国家到底为何？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/030.国家到底为何？.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5
+      ],
+      "note": "李敖写短论《国家到底为何？》，批评抽象国家观遮蔽结党营私者的实际作恶。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "social",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "031.与维桢谈",
+    "sourceFile": "李敖随写录前集/031.与维桢谈.txt",
+    "sourceLocation": "第3、5、7行",
+    "sourceQuote": "午前做完体检。维桢陪着谈了一个半小时。 我怪维桢过去没钱时反倒为理想做事，现在有了钱却不做事了。 维桢说有人说《北京法源寺》不及高阳小说。我说高阳小说有何思想？——以高阳小说尺度看《北京法源寺》，真太侮辱我的书了。这种水平的读者，也配谈我的书么？（1991年9月14日）",
+    "works": [
+      "李敖随写录前集",
+      "北京法源寺",
+      "与维桢谈"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round005-031-035",
+    "id": "li-ao-suixielu-qianji-1991-09-14-weizhen-talks-after-checkup-about-beijing-fayuansi",
+    "date": "1991-09-14",
+    "displayDate": "1991年9月14日",
+    "title": "李敖体检后与维桢谈《北京法源寺》",
+    "summary": "1991年9月14日午前，李敖做完体检后，维桢陪他谈了一个半小时。李敖责怪维桢过去没钱时反倒为理想做事，如今有钱却不做事；谈到有人说《北京法源寺》不及高阳小说时，李敖反问高阳小说有何思想，认为用高阳小说尺度看《北京法源寺》是侮辱他的书。",
+    "importance": 3,
+    "keywords": [
+      "维桢",
+      "邓维桢",
+      "体检",
+      "北京法源寺",
+      "高阳",
+      "小说"
+    ],
+    "tags": [
+      "conversation",
+      "weizhen",
+      "beijing-fayuansi",
+      "checkup",
+      "literary-criticism"
+    ],
+    "people": [
+      "李敖",
+      "维桢",
+      "邓维桢",
+      "高阳"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "view": [
+      "随写录线",
+      "交游线",
+      "北京法源寺线",
+      "健康线"
+    ],
+    "crossReferences": [
+      "li-ao-suixielu-qianji-1991-09-13-black-stool-full-body-checkup",
+      "beijing-fayuansi-1991-06-30-published-by-wenxing",
+      "beijing-fayuansi-1991-09-05-pan-yugang-errata",
+      "li-ao-wuwu-diary-1990-11-09-xu-xinliang-deng-weizhen-talk"
+    ],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "031.与维桢谈",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/031.与维桢谈.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7
+      ],
+      "note": "李敖午前体检后与维桢长谈，并围绕《北京法源寺》和高阳小说作文学评价。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "daily",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "032.如此“国军”！",
+    "sourceFile": "李敖随写录前集/032.如此“国军”！.txt",
+    "sourceLocation": "第3行",
+    "sourceQuote": "下午去正中书局买风渍书，与帅哥归。帅哥说在马祖服役时，国造65步枪（仿美制M16）一发后即故障，美造枪全连不过数枝，每次上级检阅，只好向各连调借。军备如此作伪自欺，国民党部队能作战乎？（1991年9月14日）",
+    "works": [
+      "李敖随写录前集",
+      "如此“国军”！"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round005-031-035",
+    "id": "li-ao-suixielu-qianji-1991-09-14-buys-water-damaged-books-hears-shuaige-matsu-rifle-story",
+    "date": "1991-09-14",
+    "displayDate": "1991年9月14日",
+    "title": "李敖去正中书局买风渍书并听帅哥谈马祖军备",
+    "summary": "1991年9月14日下午，李敖去正中书局买风渍书，与帅哥一同回来。帅哥谈到自己在马祖服役时，国造65步枪一发后即故障，美造枪全连不过数枝，每遇上级检阅只能向各连调借；李敖据此评论国民党部队军备作伪自欺，质疑其作战能力。",
+    "importance": 3,
+    "keywords": [
+      "正中书局",
+      "风渍书",
+      "帅哥",
+      "马祖",
+      "国造65步枪",
+      "国军"
+    ],
+    "tags": [
+      "book-buying",
+      "zhengzhong",
+      "military",
+      "matsu",
+      "shuaige",
+      "kuomintang"
+    ],
+    "people": [
+      "李敖",
+      "帅哥"
+    ],
+    "places": [
+      "正中书局",
+      "马祖",
+      "台湾"
+    ],
+    "view": [
+      "随写录线",
+      "购书线",
+      "交游线",
+      "军政观察线"
+    ],
+    "crossReferences": [
+      "li-ao-zhaji-1985-12-07-comments-zhengzhong-world-history-megalomania-mistranslation",
+      "li-ao-wuwu-diary-1991-01-02-fayuansi-draft-typesetting-jinlang-dinner-fuhua-call",
+      "preofficer-diary-1960-03-02-train-meets-qiu-ruifang-talks-with-carpenter-private-about-matsu-bathing-beating-and-gives-beggar-one-yuan",
+      "preofficer-diary-1960-04-09-records-first-regiment-and-part-of-second-regiment-57th-division-going-to-matsu-and-17th-division-ten-not-offshore"
+    ],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "032.如此“国军”！",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/032.如此“国军”！.txt",
+      "line": 3,
+      "lines": [
+        3
+      ],
+      "note": "李敖下午去正中书局买风渍书，归途或同归时听帅哥谈马祖服役所见军备作伪。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "travel",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "033.看海",
+    "sourceFile": "李敖随写录前集/033.看海.txt",
+    "sourceLocation": "第3、5行",
+    "sourceQuote": "下午小屯开车，去关渡、八里看海。 海应该带给人浩瀚的胸襟，但是台湾岛上的人却殊乏此一效果，反倒一派小家子气。看他们整天眼里只有台湾，日以摆脱祖国为念，非小家子气而何？（1991年9月15日）",
+    "works": [
+      "李敖随写录前集",
+      "看海"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round005-031-035",
+    "id": "li-ao-suixielu-qianji-1991-09-15-xiaotun-drives-to-guandu-bali-sea-view",
+    "date": "1991-09-15",
+    "displayDate": "1991年9月15日",
+    "title": "小屯开车带李敖去关渡、八里看海",
+    "summary": "1991年9月15日下午，小屯开车带李敖去关渡、八里看海。李敖由海的浩瀚联想到台湾岛上许多人反而小家子气，批评他们眼里只有台湾、日以摆脱祖国为念；此条以李敖与小屯出游看海为当事动作，并保留随写中的政治感想。",
+    "importance": 3,
+    "keywords": [
+      "小屯",
+      "关渡",
+      "八里",
+      "看海",
+      "台湾",
+      "祖国"
+    ],
+    "tags": [
+      "outing",
+      "sea-view",
+      "xiaotun",
+      "guandu",
+      "bali",
+      "political-reflection"
+    ],
+    "people": [
+      "李敖",
+      "小屯"
+    ],
+    "places": [
+      "关渡",
+      "八里",
+      "台湾"
+    ],
+    "view": [
+      "随写录线",
+      "小屯线",
+      "出游线",
+      "政治观察线"
+    ],
+    "crossReferences": [
+      "li-ao-suixielu-qianji-1991-09-01-visits-yehliu-with-xiaotun",
+      "li-ao-suixielu-qianji-1991-09-07-chen-youliang-visits-and-yehliu-lighthouse"
+    ],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "033.看海",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/033.看海.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5
+      ],
+      "note": "小屯开车带李敖去关渡、八里看海，李敖由海景转入对台湾政治心态的批评。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "commentary",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "034.《世界论坛报》论吕秀莲",
+    "sourceFile": "李敖随写录前集/034.《世界论坛报》论吕秀莲.txt",
+    "sourceLocation": "第3至17行",
+    "sourceQuote": "今日《世界论坛报》有《吕秀莲“忘了我是谁”》一文： 在民进党阵营中素有“才女”之称的吕秀莲，早期是女权运动的健将，后来涉入“美丽岛事件”，判刑入狱，坐了七年多的牢，是台湾反对运动中较有水准的知识分子，其政治主张虽不无可议之处，出身哈佛大学法学硕士的背景，倒是台北政界不敢轻视她的重要因素。 但吕秀莲这次率“台湾加入联合国宣达团”到联合国，要求与北美事务协调会代表丁懋时、中共驻联合国代表李道援与该团举行三边会谈，却是不自量力的做法，完全“忘了我是谁”。 吕秀莲说，她希望台北当局能在今年联大开会期间提出入会申请，否则我们在年底选举就会施压，又说希望协调会及中共能对三边会谈有“善意的回应”。他们此行是“用人民的力量进行外交”、“对中共挑战”，如此大剌剌的谈话，俨然是国际强权代表的姿态，令人笑掉大牙。 “宣达团”充其量只是民间临时组成的社团之一，不但毫无官方地位，甚至连压力团体都还谈不上，却侈言举行三边座谈，强要两岸代表出席，架势十足，却是如假包换的“空心大佬官”，不说中共代表不会理她，可能丁懋时都会暗骂一声：“你算哪棵葱啊？” 奉劝吕秀莲多搞一点务实的女权运动或法学方面的知识进修吧！不要再搞什么“加入联合国”的丑把戏了。 以上今日《世界论坛报》欧阳大笑文。 很多台湾人玩政治，总是出很多不入流的怪招，完全不合乎世界水准，乃至一般常识，尤以民进党员为甚。真不知四十年来外省人国民党怎么教化出来的！（1991年9月16日）",
+    "works": [
+      "李敖随写录前集",
+      "世界论坛报",
+      "吕秀莲“忘了我是谁”"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round005-031-035",
+    "id": "li-ao-suixielu-qianji-1991-09-16-comments-world-forum-lu-hsiulien-un-campaign",
+    "date": "1991-09-16",
+    "displayDate": "1991年9月16日",
+    "title": "李敖摘评《世界论坛报》论吕秀莲",
+    "summary": "1991年9月16日，李敖摘录《世界论坛报》欧阳大笑《吕秀莲“忘了我是谁”》一文，文中批评吕秀莲率“台湾加入联合国宣达团”要求三边会谈是不自量力。李敖随后评论许多台湾人玩政治常出不入流怪招，不合世界水准和一般常识，尤以民进党员为甚。",
+    "importance": 2,
+    "keywords": [
+      "世界论坛报",
+      "吕秀莲",
+      "欧阳大笑",
+      "台湾加入联合国宣达团",
+      "民进党",
+      "联合国"
+    ],
+    "tags": [
+      "reading-news",
+      "world-forum",
+      "lu-hsiulien",
+      "dpp",
+      "un-campaign",
+      "commentary"
+    ],
+    "people": [
+      "李敖",
+      "吕秀莲",
+      "欧阳大笑",
+      "丁懋时",
+      "李道援"
+    ],
+    "places": [
+      "台湾",
+      "联合国",
+      "北美"
+    ],
+    "view": [
+      "随写录线",
+      "读报线",
+      "民进党线",
+      "统独论争线"
+    ],
+    "crossReferences": [
+      "li-ao-wuwu-diary-1990-09-18-records-talk-show-report-ranking-li-ao-first",
+      "micang-diary-1985-04-14-declines-jinzhu-dinner-invitation",
+      "qiushi-xinyu-1989-11-13-li-yu-chieh-more-upright-than-campaign-oath"
+    ],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "034.《世界论坛报》论吕秀莲",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/034.《世界论坛报》论吕秀莲.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15,
+        17
+      ],
+      "note": "李敖摘录《世界论坛报》欧阳大笑文并加评吕秀莲、民进党与台湾政治怪招。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "commentary",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "035.官迷教授",
+    "sourceFile": "李敖随写录前集/035.官迷教授.txt",
+    "sourceLocation": "第3、5行",
+    "sourceQuote": "《自立晚报》上说，师大教授林玉体借调台北县政府九职等核稿秘书，今天正式到任，面对未来将被县长尤清委以重任，担任代理教育局长一事，林玉体并不愿多说。林玉体教授从师大借调至台北县政府，原来学校支薪将停止，但上课堂数仍维持五堂，县府每月支薪，使他每月减少两万元，据人事室指出，县府九职等核稿秘书月薪为三万九千元左右。 台湾人林玉体放着好好大教授不做，却甘愿委身做小吏，真官迷也！（1991年9月16日）",
+    "works": [
+      "李敖随写录前集",
+      "自立晚报",
+      "官迷教授"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round005-031-035",
+    "id": "li-ao-suixielu-qianji-1991-09-16-comments-zili-lin-yuti-taipei-county-post",
+    "date": "1991-09-16",
+    "displayDate": "1991年9月16日",
+    "title": "李敖摘评《自立晚报》林玉体借调台北县政府",
+    "summary": "1991年9月16日，李敖摘录《自立晚报》报道：师大教授林玉体借调台北县政府九职等核稿秘书，正式到任，未来可能受尤清委以代理教育局长重任。李敖评论林玉体放着教授不做而委身小吏，是“官迷”。",
+    "importance": 2,
+    "keywords": [
+      "自立晚报",
+      "林玉体",
+      "师大",
+      "台北县政府",
+      "尤清",
+      "官迷"
+    ],
+    "tags": [
+      "reading-news",
+      "independence-evening-post",
+      "lin-yuti",
+      "you-qing",
+      "education",
+      "commentary"
+    ],
+    "people": [
+      "李敖",
+      "林玉体",
+      "尤清"
+    ],
+    "places": [
+      "台湾",
+      "台北县政府",
+      "师大"
+    ],
+    "view": [
+      "随写录线",
+      "读报线",
+      "教育线",
+      "政坛观察线"
+    ],
+    "crossReferences": [],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "035.官迷教授",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/035.官迷教授.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5
+      ],
+      "note": "李敖摘录《自立晚报》林玉体借调台北县政府报道，并以“官迷”作评。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "commentary",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "036.白发红颜齐办报",
+    "sourceFile": "李敖随写录前集/036.白发红颜齐办报.txt",
+    "sourceLocation": "第3、5行",
+    "sourceQuote": "段造时《世界论坛报》用人，多为报界老人，与年轻的打字小姐们齐聚一堂，白发红颜齐办报，画面煞是有趣。 老段的报办得太烂了，他始终不能自悟这个报办得多烂。但烂归烂，精神却是第一。——老段为了报纸，牺牲自己，在所不惜；牺牲别人，亦在所不惜，这种精神，唯张其昀办“中国文化学院”（文大）时差可比拟也。（1991年9月16日）",
+    "works": [
+      "李敖随写录前集",
+      "世界论坛报",
+      "白发红颜齐办报"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round006-036-040",
+    "id": "li-ao-suixielu-qianji-1991-09-16-comments-duan-zaoshi-world-forum-staff-and-spirit",
+    "date": "1991-09-16",
+    "displayDate": "1991年9月16日",
+    "title": "李敖评段造时《世界论坛报》白发红颜齐办报",
+    "summary": "1991年9月16日，李敖写段造时的《世界论坛报》用人多为报界老人，又与年轻打字小姐齐聚一堂，形成“白发红颜齐办报”的有趣画面。他同时批评老段的报办得太烂，却肯定其办报精神第一，称老段为报纸牺牲自己和别人都在所不惜，并拿张其昀办中国文化学院作比。",
+    "importance": 2,
+    "keywords": [
+      "段造时",
+      "老段",
+      "段宏俊",
+      "世界论坛报",
+      "报界老人",
+      "张其昀",
+      "中国文化学院"
+    ],
+    "tags": [
+      "commentary",
+      "world-forum",
+      "duan-hongjun",
+      "publishing",
+      "newspaper"
+    ],
+    "people": [
+      "李敖",
+      "段造时",
+      "老段",
+      "段宏俊",
+      "张其昀"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "view": [
+      "随写录线",
+      "报业线",
+      "世界论坛报线",
+      "段宏俊线"
+    ],
+    "crossReferences": [
+      "li-ao-wuwu-diary-1990-05-17-jokes-with-duan-about-world-forum",
+      "li-ao-wuwu-diary-1990-08-28-starts-world-forum-column-and-replies-song-xilian",
+      "li-ao-wuwu-diary-1990-09-18-letter-to-duan-hongjun-stops-world-forum-column",
+      "shilun-xinyu-1989-11-10-preface-written"
+    ],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "036.白发红颜齐办报",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/036.白发红颜齐办报.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5
+      ],
+      "note": "李敖评论段造时《世界论坛报》的人员构成、办报水准和办报精神。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "communication",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "037.二来电",
+    "sourceFile": "李敖随写录前集/037.二来电.txt",
+    "sourceLocation": "第3行",
+    "sourceQuote": "小金（金一）来电，说林正杰已与杨祖珺离异，新欢为《中时晚报》记者矮胖的黄绢绢。已有身孕。小金说林正杰玩政治，玩到最后只有以道德为号召，如今道德也破产了。",
+    "works": [
+      "李敖随写录前集",
+      "二来电"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round006-036-040",
+    "id": "li-ao-suixielu-qianji-1991-09-17-xiaojin-call-about-lin-zhengjie-divorce-and-morality",
+    "date": "1991-09-17",
+    "displayDate": "1991年9月17日",
+    "title": "李敖接小金来电谈林正杰离异与道德破产",
+    "summary": "1991年9月17日，小金（金一）来电告诉李敖，林正杰已与杨祖珺离异，新欢是《中时晚报》记者黄绢绢且已有身孕。小金评论林正杰玩政治到最后只能以道德为号召，如今连道德也破产；此条记录李敖接听并记下这通来电。",
+    "importance": 3,
+    "keywords": [
+      "小金",
+      "金一",
+      "林正杰",
+      "杨祖珺",
+      "黄绢绢",
+      "中时晚报",
+      "来电"
+    ],
+    "tags": [
+      "phone-call",
+      "lin-zhengjie",
+      "politics",
+      "morality",
+      "chinatimes-evening"
+    ],
+    "people": [
+      "李敖",
+      "小金",
+      "金一",
+      "林正杰",
+      "杨祖珺",
+      "黄绢绢"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "view": [
+      "随写录线",
+      "来电线",
+      "林正杰线",
+      "党外政治线"
+    ],
+    "crossReferences": [
+      "qianqiu-wansui-1991-03-09-170-writes-zhang-jianbang-scandal-lin-zhengjie-silent",
+      "qianqiu-wansui-1991-06-08-164-writes-partyless-not-rest-stop",
+      "micang-diary-1985-04-13-reads-lin-zhengjie-attack-article"
+    ],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "037.二来电",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/037.二来电.txt",
+      "line": 3,
+      "lines": [
+        3
+      ],
+      "note": "小金来电向李敖谈林正杰离异、新欢有孕与道德号召破产。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "communication",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "037.二来电",
+    "sourceFile": "李敖随写录前集/037.二来电.txt",
+    "sourceLocation": "第5行",
+    "sourceQuote": "谢定裕（丁一）来电，明日返港。科技大学下月即招生。定裕在美为数学教授。在台大学土木，班高于我。他说他父亲（谢冠生）的遗件，除了给他的信外，已经无存。（1991年9月17日）",
+    "works": [
+      "李敖随写录前集",
+      "二来电"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round006-036-040",
+    "id": "li-ao-suixielu-qianji-1991-09-17-xie-dingyu-call-hong-kong-university-and-xie-guansheng-papers",
+    "date": "1991-09-17",
+    "displayDate": "1991年9月17日",
+    "title": "李敖接谢定裕来电谈返港、科技大学和谢冠生遗件",
+    "summary": "1991年9月17日，谢定裕（丁一）来电告诉李敖，自己明日返港，科技大学下月即招生。李敖在随写中补记谢定裕在美国任数学教授，台大土木班级高于自己；谢定裕又说其父谢冠生的遗件除给他的信外已经无存。",
+    "importance": 3,
+    "keywords": [
+      "谢定裕",
+      "丁一",
+      "返港",
+      "科技大学",
+      "数学教授",
+      "谢冠生",
+      "遗件"
+    ],
+    "tags": [
+      "phone-call",
+      "xie-dingyu",
+      "hong-kong",
+      "university",
+      "family-papers"
+    ],
+    "people": [
+      "李敖",
+      "谢定裕",
+      "丁一",
+      "谢冠生"
+    ],
+    "places": [
+      "台湾",
+      "香港",
+      "美国"
+    ],
+    "view": [
+      "随写录线",
+      "来电线",
+      "交游线",
+      "谢定裕线"
+    ],
+    "crossReferences": [
+      "li-ao-wuwu-diary-1990-12-29-fayuansi-ending-xie-dingyu-gu-lao-dinner"
+    ],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "037.二来电",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/037.二来电.txt",
+      "line": 5,
+      "lines": [
+        5
+      ],
+      "note": "谢定裕来电谈明日返港、科技大学招生，并告知谢冠生遗件无存。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "commentary",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "038.中共的人权论",
+    "sourceFile": "李敖随写录前集/038.中共的人权论.txt",
+    "sourceLocation": "第3至15行",
+    "sourceQuote": "今日报上说，李鹏会见欧洲议会对华关系代表团时，以强硬语气说，不要以为中共害怕讨论人权问题，中共愿意就人权问题，“理直气壮的”和其他国家进行平等的讨论。 报上又说：六四以后，香港一位民运人士曾经说，如果人权只意味吃饱，那不是人权，只是兽权而已。 报上又说：李鹏等人其实应该清楚，中共目前是联合国安全理事会常任理事，一九四八年的联合国人权宣言明言，人有生命、自由和人身安全的权利；不受奴役、不受酷刑的权利；思想、良心、宗教的自由；集会、结社和表达意见的自由。 我的看法是：按照中共制定《中华人民共和国宪法》第二章“公民的基本权利和义务”，第三十三条保障法律面前一律平等，第三十四条保障选举权和被选举权；第三十五条保障言论、出版、集会、结社、游行、示威的自由，第三十六条保障宗教信仰自由，第三十七条保障人身自由，第三十八条保障人格尊严，第三十九条保障住宅不受侵犯，第四十条保障通行自由。……可见中共并非不知人权不止于温饱。今天他们强调以温饱为人权，悬格未免太低，且有规避宪法者。当是饥不择人权标准之故。 在四大皆空时，温饱标准是亦人权，可是的确太近兽权了。 本月十日，当英国首相梅杰向李鹏提出人权问题时，李鹏的反应是，过去百多年来西方国家侵略，又几曾关心过中国人权状况？李鹏的回应显然是说，西方国家还欠中国一笔帐，又有什么资格批评中国的人权状况。 李鹏的回答是很有力的。（一九九一年九月十八日）",
+    "works": [
+      "李敖随写录前集",
+      "中共的人权论"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round006-036-040",
+    "id": "li-ao-suixielu-qianji-1991-09-18-writes-on-ccp-human-rights-li-peng-major-and-constitution",
+    "date": "1991-09-18",
+    "displayDate": "1991年9月18日",
+    "title": "李敖写《中共的人权论》",
+    "summary": "1991年9月18日，李敖据报上李鹏谈人权、香港民运人士把温饱人权讥为“兽权”、以及联合国人权宣言材料，写成《中共的人权论》。他认为中共宪法本身列有平等、选举、言论出版、集会结社、宗教、人身自由等权利，说明中共并非不知人权不止温饱；但他又认为李鹏以西方列强侵略史反问英国首相梅杰的人权批评，这一回答很有力。",
+    "importance": 2,
+    "keywords": [
+      "中共的人权论",
+      "李鹏",
+      "人权",
+      "中华人民共和国宪法",
+      "联合国人权宣言",
+      "梅杰",
+      "六四"
+    ],
+    "tags": [
+      "writing",
+      "human-rights",
+      "ccp",
+      "li-peng",
+      "john-major",
+      "constitution"
+    ],
+    "people": [
+      "李敖",
+      "李鹏",
+      "梅杰"
+    ],
+    "places": [
+      "中国大陆",
+      "香港",
+      "英国",
+      "欧洲议会",
+      "联合国"
+    ],
+    "view": [
+      "随写录线",
+      "写作线",
+      "人权线",
+      "中国政治线"
+    ],
+    "crossReferences": [
+      "woshi-tiananmen-1991-03-29-further-explanation-on-qian-qichen",
+      "woshi-tiananmen-1991-04-28-right-to-survive-is-a-right",
+      "jingfumen-1991-04-01-writes-us-human-rights-record-exposed"
+    ],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "038.中共的人权论",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/038.中共的人权论.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15
+      ],
+      "note": "李敖据报上李鹏、人权宣言、中华人民共和国宪法和梅杰提问材料，写成人权论评论。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "health",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "039.噩梦不绝",
+    "sourceFile": "李敖随写录前集/039.噩梦不绝.txt",
+    "sourceLocation": "第3、5、7行",
+    "sourceQuote": "清早三点半又噩梦而醒，趁机早起做工。 噩梦甚乱，包含万物皆如达利之画、食物有毒、小屯烫发、打字小姐十五人以叛乱判刑、我局促电梯洞口之梯上等等，五花八门。醒来浑身僵硬。 噩梦自与当年坐黑牢有关。（1991年9月19日）",
+    "works": [
+      "李敖随写录前集",
+      "噩梦不绝"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round006-036-040",
+    "id": "li-ao-suixielu-qianji-1991-09-19-wakes-from-nightmare-and-works-early",
+    "date": "1991-09-19",
+    "displayDate": "1991年9月19日",
+    "title": "李敖清早三点半梦醒后趁机早起做工",
+    "summary": "1991年9月19日清早三点半，李敖又从噩梦中醒来，趁机早起做工。他记录梦中万物如达利之画、食物有毒、小屯烫发、打字小姐十五人以叛乱判刑、自己局促在电梯洞口梯上等混乱景象；醒来后浑身僵硬，并判断这些噩梦与当年坐黑牢有关。",
+    "importance": 3,
+    "keywords": [
+      "噩梦",
+      "清早三点半",
+      "做工",
+      "达利",
+      "小屯",
+      "打字小姐",
+      "黑牢"
+    ],
+    "tags": [
+      "nightmare",
+      "dream",
+      "health",
+      "work",
+      "black-prison"
+    ],
+    "people": [
+      "李敖",
+      "小屯",
+      "达利"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "view": [
+      "随写录线",
+      "健康线",
+      "梦境线",
+      "黑牢记忆线",
+      "工作线"
+    ],
+    "crossReferences": [
+      "qianqiu-wansui-1989-12-03-087-writes-black-prison-anecdotes",
+      "li-ao-wuwu-diary-1990-12-17-jingzhaoyin-wu-zhou-and-congmin-return-call"
+    ],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "039.噩梦不绝",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/039.噩梦不绝.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7
+      ],
+      "note": "李敖清早梦醒并早起做工；梦中内容只作为梦境记录，不写作现实交往。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "health",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "040.身体不错",
+    "sourceFile": "李敖随写录前集/040.身体不错.txt",
+    "sourceLocation": "第3行",
+    "sourceQuote": "今早取回体检报告。董玉京大夫夸赞我的身体还可以大干特干。大便全黑乃吃了治手伤药物引起，肠胃都好好的。（1991年9月20日）",
+    "works": [
+      "李敖随写录前集",
+      "身体不错"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round006-036-040",
+    "id": "li-ao-suixielu-qianji-1991-09-20-retrieves-checkup-report-dong-yujing-says-body-good",
+    "date": "1991-09-20",
+    "displayDate": "1991年9月20日",
+    "title": "李敖取回体检报告，董玉京说身体不错",
+    "summary": "1991年9月20日早晨，李敖取回体检报告。董玉京大夫夸赞他的身体还可以“大干特干”；此前大便全黑被确认是吃治手伤药物所致，肠胃都好好的。这条收束9月13日黑便全身体检后的健康线。",
+    "importance": 3,
+    "keywords": [
+      "体检报告",
+      "董玉京",
+      "身体不错",
+      "黑便",
+      "手伤药物",
+      "肠胃"
+    ],
+    "tags": [
+      "health",
+      "checkup",
+      "medical-report",
+      "dong-yujing",
+      "black-stool"
+    ],
+    "people": [
+      "李敖",
+      "董玉京"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "view": [
+      "随写录线",
+      "健康线",
+      "体检线"
+    ],
+    "crossReferences": [
+      "li-ao-suixielu-qianji-1991-09-13-black-stool-full-body-checkup",
+      "li-ao-suixielu-qianji-1991-09-14-weizhen-talks-after-checkup-about-beijing-fayuansi",
+      "micang-diary-1985-04-26-center-clinic-health-report"
+    ],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "040.身体不错",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/040.身体不错.txt",
+      "line": 3,
+      "lines": [
+        3
+      ],
+      "note": "李敖取回体检报告，董玉京说明黑便为手伤药物所致，肠胃正常。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "commentary",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "041.龟头上的“三民主义统一中国”",
+    "sourceFile": "李敖随写录前集/041.龟头上的“三民主义统一中国”.txt",
+    "sourceLocation": "第3、5行",
+    "sourceQuote": "自立晚报登：现在民间流行一则“限制级”的政治笑话，笑话说有个无聊男子在“那话儿”上纹了几个字，不幸感染溃烂，男子跑去找医生，经过初诊，隐约发现“三国”两字，于是要他去给护士看个清楚，护士看过后，告诉医生说，正常的时候看他是“三国”，后来他自我膨胀，就出现全文“三民主义统一中国”了。 此笑话甚逗。只是国民党阳痿成性，出现全文大不易耳！（1991年9月21日）",
+    "works": [
+      "李敖随写录前集",
+      "龟头上的“三民主义统一中国”",
+      "自立晚报"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round007-041-045",
+    "id": "li-ao-suixielu-qianji-1991-09-21-comments-zili-sanmin-zhuyi-unify-china-joke",
+    "date": "1991-09-21",
+    "displayDate": "1991年9月21日",
+    "title": "李敖摘评《自立晚报》“三民主义统一中国”政治笑话",
+    "summary": "1991年9月21日，李敖摘录《自立晚报》所登一则“限制级”政治笑话：男子在生殖器上纹字，平常只见“三国”，自我膨胀后出现“三民主义统一中国”全文。李敖说此笑话甚逗，又以国民党“阳痿成性”反讽其政治口号难以伸展成全文。",
+    "importance": 2,
+    "keywords": [
+      "自立晚报",
+      "三民主义统一中国",
+      "政治笑话",
+      "国民党",
+      "三国"
+    ],
+    "tags": [
+      "reading-news",
+      "political-joke",
+      "kuomintang",
+      "three-principles",
+      "commentary"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "view": [
+      "随写录线",
+      "读报线",
+      "政治笑话线",
+      "国民党批判线"
+    ],
+    "crossReferences": [
+      "qiushi-xinyu-1991-06-27-kuan-chung-science-on-one-country-two-systems",
+      "li-ao-zhaji-1985-07-11-excerpts-biographical-literature-sanmin-reading-survey"
+    ],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "041.龟头上的“三民主义统一中国”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/041.龟头上的“三民主义统一中国”.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5
+      ],
+      "note": "李敖摘录《自立晚报》政治笑话，并借“三民主义统一中国”口号反讽国民党。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "commentary",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "042.蒋宋美龄临走还耍大牌",
+    "sourceFile": "李敖随写录前集/042.蒋宋美龄临走还耍大牌.txt",
+    "sourceLocation": "第3、5、7行",
+    "sourceQuote": "蒋宋美龄昨天赴美，搭的是专机。报载：“华航747专机昨天早上6时50分在董事长乌钺亲自督导下，由桃园中正机场飞抵台北松山机场，即滑至军用机场停机坪。接着在蒋家人员及华航人员协助下，装运蒋夫人数十箱托运行李，直至上午9时10分装机完毕。9时40分，蒋夫人由蒋纬国将军夫妇、长孙媳徐乃锦及孔二小姐等家属陪同下，分乘七辆轿车自士林官邸抵达军用机场贵宾室休息，等候登机。9时50分，李登辉总统夫妇、李元簇副总统夫妇、 总统府秘书长蒋彦士夫妇及执政党中央委员会秘书长宋楚瑜等政府首长首先到达，接着行政院长郝柏村夫妇、司法院长林洋港夫妇、立法院长梁肃戎夫妇、监察院长黄尊秋夫妇及考试院长孔德成夫妇相继抵达，并一一进入休息室向蒋夫人问好。未久，总统府资政李焕及警政署长庄亨岱也抵达军用机场门口，但由于李、庄二人事前未被列入邀请名单，而遭警卫人员挡驾。经交涉后李焕获准进入机场。昨天同机赴美的医疗人员及蒋氏家属共计十八人。华航为了沿途妥善照顾蒋夫人，除将头等舱改装卧铺，遴选七名优秀空服人员随时提供服务外，华航董事长乌钺并亲自随机护送至纽约肯尼迪机场。华航专机机长吴光瑜与张光风均为优秀资深机员，一直驾驶波音747客机，十余年来均保持良好纪录。” 这王八蛋死老太婆临走还耍大牌，而众奴才自李登辉以下却陪她耍，真集体无耻也！ 报上又说：“与宋美龄女士较有往来的妇女团体人士如辜严倬云等人，都不在邀请送行之列。”可见做奴才也分等级的，级数不够，连“拍马送行权”都不赏给你呢！（1991年9月22日）",
+    "works": [
+      "李敖随写录前集",
+      "蒋宋美龄临走还耍大牌"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round007-041-045",
+    "id": "li-ao-suixielu-qianji-1991-09-22-comments-soong-mayling-us-departure-special-plane",
+    "date": "1991-09-22",
+    "displayDate": "1991年9月22日",
+    "title": "李敖摘评蒋宋美龄赴美专机送行排场",
+    "summary": "1991年9月22日，李敖据报载蒋宋美龄前一天赴美搭专机、数十箱行李、李登辉等党政首长到军用机场送行、华航董事长随机护送等细节，批评蒋宋美龄临走仍“耍大牌”，而李登辉以下众人陪她演出，属集体无耻。他又据报指出辜严倬云等妇女团体人士未被邀送行，借此讥讽奴才也分等级。",
+    "importance": 2,
+    "keywords": [
+      "蒋宋美龄",
+      "宋美龄",
+      "赴美",
+      "专机",
+      "李登辉",
+      "李元簇",
+      "华航",
+      "辜严倬云"
+    ],
+    "tags": [
+      "reading-news",
+      "soong-mayling",
+      "special-plane",
+      "kuomintang",
+      "commentary"
+    ],
+    "people": [
+      "李敖",
+      "蒋宋美龄",
+      "宋美龄",
+      "李登辉",
+      "李元簇",
+      "蒋纬国",
+      "徐乃锦",
+      "孔二小姐",
+      "蒋彦士",
+      "宋楚瑜",
+      "郝柏村",
+      "林洋港",
+      "梁肃戎",
+      "黄尊秋",
+      "孔德成",
+      "李焕",
+      "庄亨岱",
+      "乌钺",
+      "辜严倬云"
+    ],
+    "places": [
+      "台湾",
+      "桃园中正机场",
+      "台北松山机场",
+      "士林官邸",
+      "纽约肯尼迪机场",
+      "美国"
+    ],
+    "view": [
+      "随写录线",
+      "读报线",
+      "蒋宋美龄线",
+      "国民党批判线"
+    ],
+    "crossReferences": [
+      "qiushi-xinyu-1991-07-21-soong-may-ling-english-speech",
+      "li-ao-wuwu-diary-1990-12-19-book-fair-proof-photos-and-liupin-dinner",
+      "li-ao-wuwu-diary-1991-01-14-chendan-checks-kaohsiung-book-fair-three-books-absent"
+    ],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "042.蒋宋美龄临走还耍大牌",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/042.蒋宋美龄临走还耍大牌.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7
+      ],
+      "note": "李敖据报载蒋宋美龄赴美专机与送行排场，加以讥评。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "commentary",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "043.大陆农村的官方统计",
+    "sourceFile": "李敖随写录前集/043.大陆农村的官方统计.txt",
+    "sourceLocation": "第3、5、7、9、11、13、15行",
+    "sourceQuote": "中新社北京22日电：据国家统计局统计，现在中国农村居民的消费支出中，55%用于食品支出。按联合国拟定的标准，他们的生活水平已达到温饱层次。 同时，中国农民人均纯收入每年二百元以下的贫困户比重，已从改革前的83%下降到不足4%。 过去长期赖以充饥的甘薯、玉米、高粱等粗粮，已基本从农民的餐桌上消失，鸡、鸭、鱼、肉、高级饮料、滋补品和方便食品开始进入寻常百姓家。 男耕女织的生活方式在中国延续了几千年。农妇自种棉麻、自己纺纱织布、自己缝衣做鞋的习惯，在短短十三年的经济改革中被扭转过来。如今，农村居民98%的衣着用品是从市场上买来的，而且购买成衣的农民愈来愈多。衣着商品化、城市化的趋向愈来愈明显。 现在，农村的宽宅大院，已为城里人所羡慕。农民新建的房屋中，有85%是砖木结构和钢筋混凝土结构，且其中30%是楼房。 改革前，被中国人称为“三转一响”的手表、自行车、缝纫机、收音机，还仅是城市富裕家庭中的“珍品”。现在，44%的农民家庭有了电视机，41%的农户有电风扇，18%的农户有音响。 现在，97%的农村学龄儿童入学，农村成人教育和农村职业教育也有较大发展，农村人口中的文盲率已从新中国成立初期的80%以上，下降到27%以下。全国近五万个乡级卫生院，形成了一个覆盖面广、福利性强的医疗网络，提高了农民的健康水平。（1991年9月22日）",
+    "works": [
+      "李敖随写录前集",
+      "大陆农村的官方统计"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round007-041-045",
+    "id": "li-ao-suixielu-qianji-1991-09-22-notes-mainland-rural-official-statistics",
+    "date": "1991-09-22",
+    "displayDate": "1991年9月22日",
+    "title": "李敖摘录大陆农村生活改善的官方统计",
+    "summary": "1991年9月22日，李敖摘录中新社北京电所引国家统计局数据：大陆农村居民消费支出中55%用于食品，生活水平按联合国标准达到温饱层次；低收入贫困户比重从改革前83%降至不足4%；粗粮退出餐桌、住房结构改善、电视机电风扇音响普及，学龄儿童入学率、成人教育和乡级卫生院网络也有进展。此条记录李敖在随写中保存的大陆农村官方统计材料。",
+    "importance": 2,
+    "keywords": [
+      "大陆农村",
+      "国家统计局",
+      "中新社",
+      "温饱",
+      "贫困户",
+      "农村改革",
+      "乡级卫生院"
+    ],
+    "tags": [
+      "reading-news",
+      "mainland-china",
+      "rural-statistics",
+      "economic-reform",
+      "welfare"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "中国大陆",
+      "北京"
+    ],
+    "view": [
+      "随写录线",
+      "读报线",
+      "大陆观察线",
+      "经济改革线"
+    ],
+    "crossReferences": [
+      "li-ao-suixielu-qianji-1991-09-18-writes-on-ccp-human-rights-li-peng-major-and-constitution",
+      "woshi-tiananmen-1991-04-28-right-to-survive-is-a-right"
+    ],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "043.大陆农村的官方统计",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/043.大陆农村的官方统计.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15
+      ],
+      "note": "李敖摘录中新社北京电及国家统计局关于大陆农村消费、收入、住房、教育和医疗的统计材料。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "commentary",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "044.台大中文系与意淫",
+    "sourceFile": "李敖随写录前集/044.台大中文系与意淫.txt",
+    "sourceLocation": "第3、5行",
+    "sourceQuote": "林文月在《人间》副刊写文追悼郑骞，写台大中文系自台静农以下交谊活动，全篇都是滥情之作。其实台大中文系教授都是一堆酸文人，学阀中之酸者也！ 当年这群教授意淫美人儿林文月，颇有争风吃醋味道。除林文月外，亦唯女弟子是尚。1961年度中文系五名助教清一色是女生，可以概见矣！（1991年9月22日）",
+    "works": [
+      "李敖随写录前集",
+      "台大中文系与意淫",
+      "人间"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round007-041-045",
+    "id": "li-ao-suixielu-qianji-1991-09-22-comments-lin-wenyue-zheng-qian-ntu-chinese-department",
+    "date": "1991-09-22",
+    "displayDate": "1991年9月22日",
+    "title": "李敖评林文月追悼郑骞文和台大中文系",
+    "summary": "1991年9月22日，李敖读到林文月在《人间》副刊追悼郑骞、写台大中文系自台静农以下交谊活动的文章，批评全文是滥情之作，并把台大中文系教授称为学阀中的酸文人。他又追述当年这些教授围绕林文月有争风吃醋意味，并以1961年度中文系五名助教全是女生作例证。",
+    "importance": 2,
+    "keywords": [
+      "林文月",
+      "郑骞",
+      "台大中文系",
+      "台静农",
+      "人间副刊",
+      "助教"
+    ],
+    "tags": [
+      "reading-news",
+      "ntu",
+      "chinese-department",
+      "lin-wenyue",
+      "zheng-qian",
+      "commentary"
+    ],
+    "people": [
+      "李敖",
+      "林文月",
+      "郑骞",
+      "台静农"
+    ],
+    "places": [
+      "台湾",
+      "台大"
+    ],
+    "view": [
+      "随写录线",
+      "读报线",
+      "台大线",
+      "学界批评线"
+    ],
+    "crossReferences": [
+      "book3-1990-09-07-tai-jingnong-professor-written",
+      "education-faces-1963-11-06-unsent-letter-to-tai-jingnong",
+      "preofficer-diary-1960-02-12-evening-party-talks-with-yugang-qingmao-zhenjing-hongmou-ruizhou-lin-wenyue-letters-and-dance-decision",
+      "daxue-zhaji-1957-06-27-visits-tai-jingnong-and-fang-hao-for-transfer"
+    ],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "044.台大中文系与意淫",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/044.台大中文系与意淫.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5
+      ],
+      "note": "李敖据林文月追悼郑骞文，批评台大中文系教授交谊与学界风气。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "commentary",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "045.李光耀论中共经改成就",
+    "sourceFile": "李敖随写录前集/045.李光耀论中共经改成就.txt",
+    "sourceLocation": "第3至29行",
+    "sourceQuote": "李光耀9月20日在苏联哈萨克最高苏维埃发表演讲表示，经济改革的基本政治社会条件为稳定与共识，因此必须保证政治与社会稳定、保证人民对政府所推行的改革达成广泛的共识，否则就没有足够时间发展和奠基。 他说1979年以来中共推行的农村经济改革，大幅提高了农业的产量，为大陆城乡人民提供了丰富的粮食和农副产品。1979年至1989年间，中共主要农作物产量提高了35%，工业产量增加一倍以上，不必依赖外援生存。农业方面的成功，为工业、旅游业和服务业等方面的进一步改革奠定了稳固的基础，中共还成功地在沿海地区创立了以市场经济为基础的经济特区。他指出，中共的改革几乎没有得到外来援助，在过去的十年，每年的经济增长率为7%至9%。 李光耀表示，他与西方政治家和评论家看法不同。他认为政治开放不是社会经济改革的先决条件。过分的平等会导致全面工作不力，表现欠佳。但是竞争性太强，会使人人只为自己着想而可能危害到国家的团结。因此，要善于处理两者之间的关系。 以上为台湾报章报导，语焉不详，据20日星洲《联合早报》，李光耀演讲重点如下： 尝试采用自由市场制度的第一个社会主义国家是匈牙利，西方称为“土豆烧牛肉”的共产主义。但是匈牙利并没有改变中央计划经济的基础，它只是在零售店或小商店实行自由市场的原则。中国是决定摆脱计划经济的第一个主要中央计划经济国家。中国人知道他们的经济失灵。1979年，他们很明智地先推行农业改革，放弃像毛泽东推行的集体农场的公社制度。他们成功地大量提高生产，为乡村区和城市人民提高了丰足的粮食。在1979年至1989年间，中国主要农作物的产量提高了35%，工业作物的产量在同时期也增加了一倍以上。他们不必依赖外援生存。农业方面的成功为他们在工业、旅游业和服务业方面的进一步改革奠下了稳固的基础。他们也成功地在中国沿岸的经济特区，创立了以自由市场为基础的企业。这些经济特区从前大多数是通商贸易港，欧美人士在19世纪在这些港口经营业务。 越南也已采取步骤，跟随中国推行自由市场经济。越南人在1986年12月解除农业生产管制，目前已经达到了粮食自给自足的地步。他们允许小规模私营企业和小本生意，也邀请外国人到越南投资。 从其他实行中央计划经济国家的改革，可以吸取不少教训。第一个教训就是人民必须准备接受改革初期所面对的困苦。在改革的头几年里，不但生活水准会下降，失业人数会上升，而且人民必须加倍努力工作。这种代价必须老老实实告诉人民，让他们明白。然而，如果不实行改革，他们反正也要吃苦，因为苏联以前的经济安排已经行不通了。这一点也要老老实实告诉他们。 最好的做法是吸取其他同样的计划经济转向自由市场的国家的经验，但要避免犯上同样的错误。最能协助贵国从这些国家的经济中获益的专家，是国际货币基金组织和那些曾在中国、中欧和东欧工作的世界银行小组。他们的经验和知识能在贵国起事半功倍的作用。 只要研究一下第二次世界大战之后的西德和日本的历史，再看看韩国、台湾、香港和新加坡等新兴工业经济起飞的60年代和70年代的历史，便会发觉到它们都具有政治稳定和广泛共识等先决条件。 实际上，虽然这不是西方的传统看法，我敢相信如果苏联的政治开放不是走在社会及经济改革的前头，而是跟随在后的话，在过去六年里，苏联的社会及经济改革会更大胆和更成功地推行。换句话说，只有当基本改革上了轨道——本来在过去六年是可以办到的——才好推行政治开放政策。重组意味着经济脱节，更低的生活水平，还有因无效率企业和工厂倒闭所带来的痛苦和不幸。而新的还没有完成，以提供新的工作职位。在这段期间，如果每个人都发泄个人的欲望和不满，吵着要即时的援助和成果，就会造成混乱和冲突。人们所要的，也就是自由市场经济的即时成果，他们得不到。当旧的制度正被拋弃、新的制度建立时，人们需要忍受痛苦和不幸。 随着政治开放，不满情绪的普遍发泄，导致更大的混乱。继续推行基本但痛苦的改革的决心因而被削弱。各项政策无法以同样的魄力和真诚的决心去推行。如果同中国一样，苏联除了实行社会经济改革之外没有政治开放，事态的发展就会不同。今天，苏联需要外来经济援助以进行基本改革。中国的改革几乎没有外来的援助。在过去十年里，中国每年所取得的增长率是7%至9%。政治开放加强了苏联人民的期望和愿望，使各项强硬政策难以推行。中国的情形可不一样。 我现在所说的，是和目前西方自由思想背道而驰的。西方政治科学家和评论家相信，政治开放是社会经济改革的先决条件。不过，根据我对韩国、台湾和香港在快速经济增长期间的观察，我得到了相反的见解。 哈萨克需要大约十年的时间才能全面推行自由市场经济。在这期间，哈萨克必须保持稳定。这种稳定，只有一个获得人民支持的强大政府才能实现。换句话说，人民需要受教育，才能明白和相信，为了争取更加远大的目标，作出牺牲是在所难免的。人民必须普遍认识，要使一个中央计划经济成功地改变为自由市场经济，稳定和纪律是必要的。 让我提醒大家一句，没有其他东西会比政治动乱或更糟的是政治冲突对经济增长造成的破坏来得更大。（1991年9月23日）",
+    "works": [
+      "李敖随写录前集",
+      "李光耀论中共经改成就",
+      "联合早报"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round007-041-045",
+    "id": "li-ao-suixielu-qianji-1991-09-23-notes-lee-kuan-yew-on-china-economic-reform",
+    "date": "1991-09-23",
+    "displayDate": "1991年9月23日",
+    "title": "李敖摘录李光耀论中共经济改革成就",
+    "summary": "1991年9月23日，李敖摘录台湾报章和9月20日新加坡《联合早报》所载李光耀在苏联哈萨克最高苏维埃的演讲。李光耀认为经济改革需要政治社会稳定和广泛共识，称中共自1979年以来先推农业改革、提高农作物和工业作物产量、建立经济特区，几乎没有外援却维持7%至9%增长；他又以苏联、越南、匈牙利和东亚经验说明，政治开放并非社会经济改革的先决条件。",
+    "importance": 2,
+    "keywords": [
+      "李光耀",
+      "中共经济改革",
+      "哈萨克",
+      "联合早报",
+      "农业改革",
+      "经济特区",
+      "政治稳定",
+      "苏联"
+    ],
+    "tags": [
+      "reading-news",
+      "lee-kuan-yew",
+      "economic-reform",
+      "ccp",
+      "singapore",
+      "kazakhstan"
+    ],
+    "people": [
+      "李敖",
+      "李光耀",
+      "毛泽东"
+    ],
+    "places": [
+      "苏联",
+      "哈萨克",
+      "中国大陆",
+      "新加坡",
+      "越南",
+      "匈牙利",
+      "韩国",
+      "台湾",
+      "香港",
+      "西德",
+      "日本"
+    ],
+    "view": [
+      "随写录线",
+      "读报线",
+      "李光耀线",
+      "大陆观察线",
+      "经济改革线"
+    ],
+    "crossReferences": [
+      "qiushi-xinyu-1991-08-10-lee-kuan-yew-on-mainland-stagnation",
+      "li-ao-suixielu-qianji-1991-09-22-notes-mainland-rural-official-statistics",
+      "li-ao-suixielu-qianji-1991-09-18-writes-on-ccp-human-rights-li-peng-major-and-constitution"
+    ],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "045.李光耀论中共经改成就",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/045.李光耀论中共经改成就.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15,
+        17,
+        19,
+        21,
+        23,
+        25,
+        27,
+        29
+      ],
+      "note": "李敖摘录台湾报章与新加坡《联合早报》所载李光耀关于中共经济改革、政治稳定和市场化的演讲内容。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "commentary",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "046.邓毛毛忆陈毅",
+    "sourceFile": "李敖随写录前集/046.邓毛毛忆陈毅.txt",
+    "sourceLocation": "第3、5、7、9、11、13、15、17、19、21、23、25行",
+    "sourceQuote": "香港中国通讯社北京15日电：邓小平的女儿毛毛今天以《怀念陈伯伯》为题，在《人民日报》撰文怀念陈毅。 1957年，邓小平家搬进中南海后，和陈毅一家毗邻而居，毛毛和陈毅的小女儿珊珊同岁，同一天进小学，一同去少年宫学钢琴，同成了好朋友，有一段时间毛毛几乎每天都要去陈毅家。因此，在陈毅和张茜去世后，邓小平说：“别的人我都不管，就管珊珊一个，我收她当个女儿！” 毛毛在文章中回忆说：“他们那一代的人，一起战斗、生活几十年，相知甚深。他们是同志、是战友，他们之间的关系，亲如兄弟，甚于兄弟。” 毛毛说，父亲是1920年十六岁时到法国勤工俭学的，陈伯伯是1919年赴法的勤工俭学生，两人并不认识，父亲和陈伯伯是1930年8月认识的。当时父亲在上海的党的中央任秘书长，陈伯伯是从福建前来上海向党中央汇报红四军的工作。 毛毛还回忆了她父亲、刘伯承和陈毅1947年共率中国人民解放军中原、华东两个野战军，取得淮海战役和渡江战役的伟大胜利。说“那时的总前委常委是他们三人，三人一体，不可分割”。 1952年邓小平从西南调中央任中央政务院副总理，1954年，陈毅从华东调中央任国务院副总理。从此在长达十二年的时间里，他们共同协助周恩来总理工作。两家共同度过了一些令人难忘的时光。 1966年“文革”爆发，毛毛回忆说：“为了应付日益混乱的局面，在中央一线主持工作的刘少奇和父亲先后派出近万人，组成工作组，但是他们受到了毛主席的批评。周总理、陈毅、陶铸、李先念等中央领导人再三地说服、劝阻、制止当时的各种疯狂过火行为。陈伯伯的讲话更是直率，他说：‘北京目前打的风气很浓，不能提倡！’‘工作组是我派的，工作组的错误由我来承担。’‘我的后台是谁？当然是毛主席了。各人有各人的账，我有我的账，不要用大帽子压人，压也是压不住的！’”当时还传说，当外语学院的造反派斗争陈伯伯时，陈伯伯毫不退让，他拿出《毛主席语录》，大声说：“最高指示：陈毅是个好同志！”当然，这只是个传说，但这个传说反映了陈伯伯坚持真理、不向谬误低头的光明磊落的高贵品格。 1967年10月，刘少奇、邓小平两家的孩子被赶出了中南海的家。这之前，毛毛和她姐姐曾在胡同口见到陈毅，她们正要绕道走开，陈毅却叫着她们的名字问：“都好吗？”毛毛强忍泪水说：“都好。”不想，这竟是最后一次见到陈伯伯。 三年后，她们被允许和在江西软禁的父母相见，又过了一年多的时间，邓小平一家在江西从广播中听到陈毅于1972年1月6日逝世的消息，全家人十分悲恸。后来才知道，陈毅和林彪、“四人帮”进行了不妥协的斗争，终因忧国忧民心境不爽而身患癌症不幸辞世。 1973年，邓小平全家回到北京，一到京就听说陈毅夫人张茜也因心情悲痛而身患癌症。邓小平、卓琳曾带毛毛一起去三〇一医院看望张茜。 毛毛在文章中称“陈伯伯和张茜阿姨是一对恩爱夫妻，也是一对患难夫妻，历尽千难万险而始终不渝”。 陈毅在中共中，不失为虎虎有生气的人。“文革”时对红卫兵讲话而气不挠，浩然显示真性情者，一人而已。（1991年9月23日）",
+    "works": [
+      "李敖随写录前集",
+      "邓毛毛忆陈毅",
+      "怀念陈伯伯",
+      "人民日报"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round008-046-055",
+    "id": "li-ao-suixielu-qianji-1991-09-23-notes-maomao-memorial-chen-yi",
+    "date": "1991-09-23",
+    "displayDate": "1991年9月23日",
+    "title": "李敖摘录邓毛毛怀念陈毅并称其有真性情",
+    "summary": "1991年9月23日，李敖摘录香港中新社北京15日电，转述邓小平女儿毛毛在《人民日报》以《怀念陈伯伯》追忆陈毅：邓陈两家中南海相邻、邓小平收陈毅女儿珊珊当女儿、邓小平与陈毅从1930年上海相识到淮海战役、渡江战役，再到共同协助周恩来和文革中陈毅直率制止过火行为。李敖在篇末评论，陈毅在中共中不失虎虎生气，文革时对红卫兵讲话气不挠，浩然显示真性情。",
+    "importance": 2,
+    "keywords": [
+      "邓毛毛",
+      "陈毅",
+      "邓小平",
+      "人民日报",
+      "文革",
+      "淮海战役",
+      "渡江战役"
+    ],
+    "tags": [
+      "reading-news",
+      "chen-yi",
+      "deng-xiaoping",
+      "ccp-history",
+      "cultural-revolution",
+      "commentary"
+    ],
+    "people": [
+      "李敖",
+      "邓毛毛",
+      "陈毅",
+      "邓小平",
+      "张茜",
+      "刘伯承",
+      "周恩来",
+      "刘少奇",
+      "陶铸",
+      "李先念",
+      "毛泽东"
+    ],
+    "places": [
+      "北京",
+      "中南海",
+      "上海",
+      "福建",
+      "江西",
+      "三〇一医院",
+      "中国大陆"
+    ],
+    "view": [
+      "随写录线",
+      "读报线",
+      "中共人物线",
+      "文革观察线"
+    ],
+    "crossReferences": [],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "046.邓毛毛忆陈毅",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/046.邓毛毛忆陈毅.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15,
+        17,
+        19,
+        21,
+        23,
+        25
+      ],
+      "note": "李敖摘录香港中新社北京电所引邓毛毛《怀念陈伯伯》并在篇末评论陈毅的文革气节。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "commentary",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "047.警察含笑入图来",
+    "sourceFile": "李敖随写录前集/047.警察含笑入图来.txt",
+    "sourceLocation": "第3、5行",
+    "sourceQuote": "《自立晚报》登：“民进党主席黄信介上午前往立法院，欲进入议场时，遭驻院警卫强力阻挡，发生推挤后，转出议场外的阶梯上静坐。黄信介并表示，他心中很难过，他也很同情驻卫警，因为他们‘连不合理的命令也要服从’。并指立院的运作，显然郝柏村的面子比总统的命令更重要。10点左右，黄信介欲上厕所，结果引来大群驻卫警陪同前往。10点10分院会休息时间，谢长廷出来向黄信介报告表示，双方已‘打成平手’，黄不能进入议场，郝柏村也不用上台。此时黄碰到一位老委员出来，相互握手打招呼，黄对他说：‘现在你好像真委员，我倒像是假委员了。’因为100行动联盟的到来，驻卫警约四五十人排于议场外戒备，黄和许信良却于此时立在驻卫警前拍照留念，驻卫警小队长陈山杉此时向驻卫警们表示：‘大家面带微笑，陪主席拍一张照片’，引来现场一阵哄笑。” 看了最后警察对黄信介的态度，可知国民党作弄民进党，可真作弄得令人哭笑不得呢！（1991年9月24日）",
+    "works": [
+      "李敖随写录前集",
+      "警察含笑入图来",
+      "自立晚报"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round008-046-055",
+    "id": "li-ao-suixielu-qianji-1991-09-24-comments-zili-huang-hsinchie-police-smile-photo",
+    "date": "1991-09-24",
+    "displayDate": "1991年9月24日",
+    "title": "李敖摘评黄信介与驻卫警含笑拍照",
+    "summary": "1991年9月24日，李敖摘录《自立晚报》报道：民进党主席黄信介上午前往立法院欲进议场时遭驻卫警阻挡，随后静坐、上厕所也被大群驻卫警陪同；谢长廷休息时出来报告双方“打成平手”，黄信介又与许信良立在驻卫警前拍照，驻卫警小队长陈山杉还请大家面带微笑陪主席拍照。李敖看后评论，国民党作弄民进党，真作弄得令人哭笑不得。",
+    "importance": 2,
+    "keywords": [
+      "黄信介",
+      "驻卫警",
+      "立法院",
+      "许信良",
+      "谢长廷",
+      "陈山杉",
+      "国民党",
+      "民进党"
+    ],
+    "tags": [
+      "reading-news",
+      "dpp",
+      "legislative-yuan",
+      "police",
+      "kuomintang",
+      "commentary"
+    ],
+    "people": [
+      "李敖",
+      "黄信介",
+      "许信良",
+      "谢长廷",
+      "陈山杉",
+      "郝柏村"
+    ],
+    "places": [
+      "立法院",
+      "台湾"
+    ],
+    "view": [
+      "随写录线",
+      "读报线",
+      "民进党线",
+      "国民党线",
+      "警察线"
+    ],
+    "crossReferences": [
+      "jingfumen-1991-05-02-writes-dpp-beaten-meaninglessly",
+      "li-ao-suixielu-qianji-1991-09-26-comments-china-times-dpp-sdp-kaohsiung-conflict"
+    ],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "047.警察含笑入图来",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/047.警察含笑入图来.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5
+      ],
+      "note": "李敖摘录《自立晚报》关于黄信介被驻卫警阻挡并与警察合照的报道，再作国民党作弄民进党的评论。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "social",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "048.王小痴死于三军总医院庸医之手",
+    "sourceFile": "李敖随写录前集/048.王小痴死于三军总医院庸医之手.txt",
+    "sourceLocation": "第3、5行",
+    "sourceQuote": "宣中仪、赖智信向我报告三军总医院误诊王小痴情形，中午约她们吃饭。从病历上，查不出什么“庸医杀人”的明显证据。但事实上，小痴明明死于庸医之手。 像赖智信那样热心、那样有正义感的医师，我想举世罕有。她现在在一牙科诊所服务。收入百分之七十皆为诊所取去。（1991年9月24日）",
+    "works": [
+      "李敖随写录前集",
+      "王小痴死于三军总医院庸医之手"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round008-046-055",
+    "id": "li-ao-suixielu-qianji-1991-09-24-hears-xiaochi-tri-service-misdiagnosis-and-lunches",
+    "date": "1991-09-24",
+    "displayDate": "1991年9月24日",
+    "title": "李敖听宣中仪、赖智信报告王小痴误诊情形并午饭",
+    "summary": "1991年9月24日，宣中仪、赖智信向李敖报告三军总医院误诊王小痴的情形，李敖中午约她们吃饭。他查看病历后说查不出明显“庸医杀人”的证据，但仍判断小痴事实上死于庸医之手；他又在随写中称赞赖智信热心、有正义感，记其在牙科诊所服务且收入七成归诊所。",
+    "importance": 3,
+    "keywords": [
+      "王小痴",
+      "三军总医院",
+      "宣中仪",
+      "赖智信",
+      "误诊",
+      "病历",
+      "午饭"
+    ],
+    "tags": [
+      "wang-xiaochi",
+      "tri-service-hospital",
+      "medical",
+      "lunch",
+      "xuan-zhongyi",
+      "lai-zhixin"
+    ],
+    "people": [
+      "李敖",
+      "宣中仪",
+      "赖智信",
+      "王小痴"
+    ],
+    "places": [
+      "三军总医院",
+      "台湾",
+      "牙科诊所"
+    ],
+    "view": [
+      "随写录线",
+      "王小痴线",
+      "医疗线",
+      "交游线"
+    ],
+    "crossReferences": [
+      "li-ao-wuwu-diary-1991-01-05-qiushibao-first-business-meeting-xiaochi-taichung-dinner",
+      "li-ao-wuwu-diary-1990-06-30-visits-xiaochi-at-tri-service",
+      "li-ao-wuwu-diary-1990-08-01-visits-xiaochi-illness-and-zhongyi-treatment",
+      "liao-xinkan-1988-context-asks-wang-xiaochi-compile-sanmao-trilogy"
+    ],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "048.王小痴死于三军总医院庸医之手",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/048.王小痴死于三军总医院庸医之手.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5
+      ],
+      "note": "宣中仪、赖智信向李敖报告三军总医院误诊王小痴情形，李敖约她们中午吃饭并在随写中判断王小痴死因。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "commentary",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "049.朱高正之无耻",
+    "sourceFile": "李敖随写录前集/049.朱高正之无耻.txt",
+    "sourceLocation": "第3、5、7行",
+    "sourceQuote": "报上说：“行政院长郝柏村与各部会首长，昨天晚上在三军军官俱乐部宴请执政党籍立委。中华社民党主席朱高正也参加了宴会，并陪在郝院长的座位旁。” 这事真滑稽。朱高正之无耻，真罕见也！ 不过，无耻是一回事，见识却是另一回事。在对台湾前途的远见上，朱高正比民进党中任何人都有见识，见识高他们一等。民进党是一群毫无见识只会一厢情愿的浑人，朱高正也浑，但浑中带清。朱高正是我的敌人，但我却不埋没他这一长处。（1991年9月25日）",
+    "works": [
+      "李敖随写录前集",
+      "朱高正之无耻"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round008-046-055",
+    "id": "li-ao-suixielu-qianji-1991-09-25-comments-zhu-gaozheng-shameless-and-insight",
+    "date": "1991-09-25",
+    "displayDate": "1991年9月25日",
+    "title": "李敖评朱高正赴郝柏村宴会并称其无耻而有见识",
+    "summary": "1991年9月25日，李敖据报得知行政院长郝柏村与各部会首长在三军军官俱乐部宴请执政党籍立委，中华社民党主席朱高正也参加并陪在郝柏村座旁。李敖批评此事滑稽，称朱高正之无耻罕见；但他同时区分无耻与见识，认为朱高正在台湾前途的远见上比民进党中任何人都高一等，并说朱高正虽是他的敌人，他不埋没这一长处。",
+    "importance": 2,
+    "keywords": [
+      "朱高正",
+      "郝柏村",
+      "三军军官俱乐部",
+      "中华社民党",
+      "民进党",
+      "台湾前途"
+    ],
+    "tags": [
+      "reading-news",
+      "zhu-gaozheng",
+      "hau-pei-tsun",
+      "sdp",
+      "dpp",
+      "commentary"
+    ],
+    "people": [
+      "李敖",
+      "朱高正",
+      "郝柏村"
+    ],
+    "places": [
+      "三军军官俱乐部",
+      "台湾"
+    ],
+    "view": [
+      "随写录线",
+      "读报线",
+      "朱高正线",
+      "民进党线",
+      "政治评论线"
+    ],
+    "crossReferences": [
+      "liao-xinkan-1987-06-23-first-demand-letter-to-ni-wenya-on-zhu-gaozheng",
+      "jingfumen-1989-06-15-writes-dpp-bad-money-war",
+      "jingfumen-1989-06-16-writes-dpp-system-war",
+      "qiushi-xinyu-1989-12-23-mainland-affairs-committee-empty-show",
+      "li-ao-suixielu-qianji-1991-09-26-comments-china-times-dpp-sdp-kaohsiung-conflict"
+    ],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "049.朱高正之无耻",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/049.朱高正之无耻.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7
+      ],
+      "note": "李敖据报评论朱高正参加郝柏村宴请执政党籍立委，并在批其无耻同时承认其台湾前途见识。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "commentary",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "050.我爱“黑煞日”",
+    "sourceFile": "李敖随写录前集/050.我爱“黑煞日”.txt",
+    "sourceLocation": "第3、5、7、9、11行",
+    "sourceQuote": "今天《中国时报》：台北市政会议昨天通过，以后“黄道吉日”加倍收费，另为鼓励火葬，土葬费用也大幅提高。 台北市第一、二殡仪馆每逢黄道吉日，常发生拥挤失调现象，引起许多民众抗议。社会局深入调查，发现并不是设备不足，因为平常使用率只有六成，有些日子拥挤，主要是因人迷信。 市政会议因此在昨天通过社会局所提“以价抑日”建议，以后殡仪馆各级礼堂使用租金，按农历记载，每月的“黑煞日”只收平时费用的三分之一，相对的“黄道吉日”则加倍收费。 我死后并不要在什么殡仪馆做仪式。如果有人要强制为我做，盼找“黑煞日”，我最爱也！ 我不迷信，生前既“鬼月”买房，死后自然“黑煞日”快活。（1991年9月25日）",
+    "works": [
+      "李敖随写录前集",
+      "我爱“黑煞日”",
+      "中国时报"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round008-046-055",
+    "id": "li-ao-suixielu-qianji-1991-09-25-comments-black-sha-day-funeral-fee-and-own-funeral",
+    "date": "1991-09-25",
+    "displayDate": "1991年9月25日",
+    "title": "李敖读殡仪馆“黑煞日”收费报道并表明身后反迷信",
+    "summary": "1991年9月25日，李敖读《中国时报》报道台北市政会议通过“以价抑日”，以后殡仪馆“黄道吉日”加倍收费、“黑煞日”只收平时三分之一，同时提高土葬费用以鼓励火葬。李敖随即表明自己死后不要在殡仪馆做仪式，若有人强制办理，盼选“黑煞日”；他还在随写中说自己不迷信，生前既在“鬼月”买房，死后自然可在“黑煞日”快活。",
+    "importance": 2,
+    "keywords": [
+      "黑煞日",
+      "黄道吉日",
+      "殡仪馆",
+      "火葬",
+      "土葬",
+      "鬼月买房",
+      "反迷信"
+    ],
+    "tags": [
+      "reading-news",
+      "funeral",
+      "anti-superstition",
+      "black-sha-day",
+      "taipei",
+      "self-reflection"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台北市",
+      "台北市第一殡仪馆",
+      "台北市第二殡仪馆"
+    ],
+    "view": [
+      "随写录线",
+      "读报线",
+      "生死观线",
+      "台北市政线"
+    ],
+    "crossReferences": [],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "050.我爱“黑煞日”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/050.我爱“黑煞日”.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11
+      ],
+      "note": "李敖读《中国时报》关于台北市殡仪馆黄道吉日加倍收费、黑煞日减价的报道，并引出自己的反迷信身后安排。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "commentary",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "051.台湾人玩政治的水准",
+    "sourceFile": "李敖随写录前集/051.台湾人玩政治的水准.txt",
+    "sourceLocation": "第3、5行",
+    "sourceQuote": "《中国时报》登：“民进党立委与社民党主席朱高正，于立法院第八十八会期开议日的互殴互骂冲突，25日延伸到高雄市。此间民进党人士发动群众，前往社民党南区工作委员会抗议。这项抗议行动由民进党市议员黄昭星服务处发起，动用一辆‘民主战车’，约有二十余人参与，黄昭星只在旁观‘战’，不表示意见，而由新潮流系要角高宗英、郑明进与蔡朝鹏共同发号施令。他们在下午3时10分抵达设在博仁街一号的社民党南区工作委员会，而警方早已据报，由三民分局出动近百名霹雳小组员警，于该址骑楼布成人墙，阻止民进党群众侵入社民党南区工作委员会。民进党群众与警方对峙时，‘民主战车’对着社民党办公室播放《牵亡歌》，高宗英与蔡朝鹏则先后拿麦克风骂朱高正是‘台奸’、‘国民党的走狗’等。社民党南区工作委员会文宣部总干事郑进丰打电话，要求警察局长姚高桥命令员警立即驱散在场的民进党群众。不过，警方现场指挥官三民分局督察组长赵常源仅命员警录影搜证，并三度举牌警告群众违反集会游行法。据悉，朱高正在台北另打电话给警政署长庄亨岱，要求警方妥善维护南区工作委员会人员与设施安全。到下午3时40分，民进党群众准备离去时，社民党一名党工突然窜出，扯下‘民主战车’悬挂的两幅书写‘猪高走狗，拢是畜生’布条。民进党人见状拥上喊打，该名党工背部挨了一拳，迅速回打一民进党员一拳后，双方被霹雳小组员警隔开。接着，民进党群众要求社民党交出该名躲进屋内的党工，否则不善罢干休。经过赵常源组长保证由警方秉公处理后，民进党拔下插在骑楼上的两面社民党旗，丢掷于地泄愤，同时宣布26日下午3时将发动更多的群众回到原地抗议。” 这就是台湾人玩政治的水准！朱高正始作俑者，最后反弹到自己头上来了。（1991年9月26日）",
+    "works": [
+      "李敖随写录前集",
+      "台湾人玩政治的水准",
+      "中国时报"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round008-046-055",
+    "id": "li-ao-suixielu-qianji-1991-09-26-comments-china-times-dpp-sdp-kaohsiung-conflict",
+    "date": "1991-09-26",
+    "displayDate": "1991年9月26日",
+    "title": "李敖摘评民进党赴社民党南区工作委员会抗议",
+    "summary": "1991年9月26日，李敖摘录《中国时报》报道：民进党立委与中华社民党主席朱高正在立法院开议日互殴互骂后，冲突延伸到高雄，民进党人士动员群众到社民党南区工作委员会抗议，播放《牵亡歌》并骂朱高正，警方在场录影、举牌警告，随后双方又因布条和党旗发生推挤。李敖评论这是台湾人玩政治的水准，并说朱高正始作俑者，最后反弹到自己头上。",
+    "importance": 2,
+    "keywords": [
+      "朱高正",
+      "民进党",
+      "中华社民党",
+      "高雄",
+      "社民党南区工作委员会",
+      "牵亡歌",
+      "民主战车"
+    ],
+    "tags": [
+      "reading-news",
+      "dpp",
+      "sdp",
+      "zhu-gaozheng",
+      "kaohsiung",
+      "political-conflict"
+    ],
+    "people": [
+      "李敖",
+      "朱高正",
+      "黄昭星",
+      "高宗英",
+      "郑明进",
+      "蔡朝鹏",
+      "郑进丰",
+      "姚高桥",
+      "赵常源",
+      "庄亨岱"
+    ],
+    "places": [
+      "高雄市",
+      "博仁街",
+      "社民党南区工作委员会",
+      "三民分局",
+      "立法院",
+      "台湾"
+    ],
+    "view": [
+      "随写录线",
+      "读报线",
+      "朱高正线",
+      "民进党线",
+      "政治冲突线"
+    ],
+    "crossReferences": [
+      "li-ao-suixielu-qianji-1991-09-25-comments-zhu-gaozheng-shameless-and-insight",
+      "li-ao-suixielu-qianji-1991-09-24-comments-zili-huang-hsinchie-police-smile-photo",
+      "jingfumen-1989-06-17-writes-dpp-political-technique"
+    ],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "051.台湾人玩政治的水准",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/051.台湾人玩政治的水准.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5
+      ],
+      "note": "李敖摘录《中国时报》关于民进党人士到高雄社民党南区工作委员会抗议的报道，并评论台湾人玩政治水准。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "daily",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "052.管区警察",
+    "sourceFile": "李敖随写录前集/052.管区警察.txt",
+    "sourceLocation": "第3、5行",
+    "sourceQuote": "新的管区警察——瑞安街派出所的林慧雄来拜码头，按例行手续查了户口。他说他的管区中有三位人物：李敖、李焕、卢修一。我说如果有人欺负你，比如说你的主管等人，你可以来找我。 前任管区警察刘德华已调敦化南路派出所，刘德华为人很好。（1991年9月26日）",
+    "works": [
+      "李敖随写录前集",
+      "管区警察"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round008-046-055",
+    "id": "li-ao-suixielu-qianji-1991-09-26-rui-an-district-police-lin-huixiong-checks-household",
+    "date": "1991-09-26",
+    "displayDate": "1991年9月26日",
+    "title": "瑞安街派出所林慧雄到李敖处查户口",
+    "summary": "1991年9月26日，新的管区警察、瑞安街派出所林慧雄到李敖处“拜码头”，按例行手续查户口。林慧雄说他的管区中有三位人物：李敖、李焕、卢修一；李敖对他说，如果有人欺负他，例如主管等人，可以来找李敖。李敖又记录前任管区警察刘德华已调敦化南路派出所，并称刘德华为人很好。",
+    "importance": 3,
+    "keywords": [
+      "林慧雄",
+      "瑞安街派出所",
+      "管区警察",
+      "查户口",
+      "李焕",
+      "卢修一",
+      "刘德华"
+    ],
+    "tags": [
+      "police",
+      "household-registration",
+      "rui-an",
+      "lin-huixiong",
+      "daily-life",
+      "taipei"
+    ],
+    "people": [
+      "李敖",
+      "林慧雄",
+      "李焕",
+      "卢修一",
+      "刘德华"
+    ],
+    "places": [
+      "瑞安街派出所",
+      "敦化南路派出所",
+      "台北"
+    ],
+    "view": [
+      "随写录线",
+      "警察线",
+      "日常线",
+      "台北线"
+    ],
+    "crossReferences": [
+      "micang-diary-1970-01-29-district-police-visits-while-li-eats-fried-rice-and-asks-about-one-armed-peng",
+      "micang-diary-1985-04-18-police-jiang-zhengyong-visits"
+    ],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "052.管区警察",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/052.管区警察.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5
+      ],
+      "note": "瑞安街派出所新管区警察林慧雄到李敖处拜码头并按例查户口，李敖记录二人对话和前任管警调动。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "commentary",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "053.钱其琛抨击美国的人权论",
+    "sourceFile": "李敖随写录前集/053.钱其琛抨击美国的人权论.txt",
+    "sourceLocation": "第3、5、7、9、11、13、15、17、19、21、23行",
+    "sourceQuote": "钱其琛9月25日在联大演说指出：长期以来，联合国人权讲坛却被某些国家利用为进行冷战的场所，致使联合国促进和保护人权的努力受到种种不正常现象的影响。例如，将人权作为推行强权政治的手段，干涉基本上属于他国国内管辖的事务；割裂人权概念，奉行双重标准；在人权问题上美化自己、攻击别人，不顾国际公约和各国的具体情况，只以自己的好恶作为人权的标准等等。这不但违背了“宪章”的宗旨和原则，而且严重损害了人权领域中正常的国际合作，阻碍了全人类人权和基本自由的普遍实现。中国大陆是一个有11亿5000万人口的发展中国家，每年要净增人口1700万。我们用占世界百分之七的耕地养活了占世界百分之二十二的人口，这是中共对保护人类生存权的最大贡献。中国大陆的稳定与发展，无疑是亚洲乃至世界的和平与稳定的重要因素。反之，中共如果发生动荡，将会极大地影响亚洲乃至世界的稳定。中国大陆需要稳定，世界需要中共稳定。 钱其琛所指“某些国家”，美国自然首当其冲。 以上台湾报纸报导。9月26日美国《侨报》则较详细： 中国认为人权为人类共同利益的重要组成部分。但问题在于一些国家却利用人权作为推行强权政治的手段，肆意干涉他国内政。 中国外交部长钱其琛，星期三在第四十六届联合国大会上的讲话强调，中国政府一贯支持和尊重《联合国宪章》和有关人权文书中保护人权的原则、积极参与联合国人权领域的一系列活动。 他说：“促进全人类人权和基本自由的普遍实现，与全人类的共同利益息息相关。” “四十多年来，国际社会为捍卫《联合国宪章》有关促进人权和基本自由的宗旨作出了积极的贡献。在各会员国的共同努力下，联合国制定了近七十项国际人权公约、宣言及其他文件，这对于推动联合国人权领域的活动发挥了积极作用。” “然而，长期以来，联合国人权讲坛却被某些国家利用为进行冷战的场所，致使联合国促进和保护人权的努力受到种种不正常现象的影响。例如，将人权作为推行强权政治的手段，干涉基本上属于他国国内管辖的事务；割裂人权概念，奉行双重标准；在人权问题上美化自己，攻击别人，不顾国际公约和各国的具体情况，只以自己的好恶作为人权的标准等等。这不但违背了“宪章”的宗旨和原则，而且严重损害了人权领域中正常的国际合作，阻碍了全人类人权和基本自由的普遍实现。” “我们认为，要有效地保护和促进整个人类人权和基本自由的普遍实现，应该尊重不同政治、经济、社会制度和不同历史、宗教和文化背景的国家的特点。各国在人权方面应在尊重各国主权和不干涉内政的基础上，增进相互理解，求同存异，以正常的国际合作代替‘冷战’。” “我们认为，种族歧视、种族隔离、殖民主义、外国侵略和占领是对人权的大规模侵犯，应受到国际社会的充分关注和制止。在人权领域，既要重视公民权利和政治权利，又要重视经济、社会、文化与发展权利。不能只强调某一些权利，而贬低甚至否认另一些权利：对于广大发展中国家来说，最基本的人权是生存权和发展权。” “众所周知，中国是一个有11亿5000万人口的发展中国家。尽管我们实行了卓有成效的计划生育政策，但每年仍要净增人口1700万。我们用占百分之七的耕地养活了占世界百分之二十二的人口，这是中国对保护人类生存权的最大贡献。中国政府还通过立法和其他有效措施，积极维护和保障老年人、青年、妇女、儿童和残疾人的合法权益，并取得了显著的成效。任何不怀偏见的人都不难看到，今日之中国政通人和，经济发展。中国的稳定与发展，无疑是亚洲乃至世界的和平与稳定的重要因素。反之，中国如果发生动荡，将会极大地影响亚洲乃至世界的稳定。”（1991年9月27日）",
+    "works": [
+      "李敖随写录前集",
+      "钱其琛抨击美国的人权论",
+      "侨报"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round008-046-055",
+    "id": "li-ao-suixielu-qianji-1991-09-27-notes-qian-qichen-un-human-rights-speech",
+    "date": "1991-09-27",
+    "displayDate": "1991年9月27日",
+    "title": "李敖摘录钱其琛在联大抨击美国人权论",
+    "summary": "1991年9月27日，李敖摘录台湾报纸及9月26日美国《侨报》较详报道，记录钱其琛9月25日在联合国大会演说：联合国人权讲坛被某些国家用于冷战和强权政治，割裂人权概念、奉行双重标准、干涉内政；中国以世界7%的耕地养活22%的人口，最基本的人权是生存权和发展权，中国稳定影响亚洲乃至世界稳定。李敖并指出，钱其琛所说“某些国家”，美国自然首当其冲。",
+    "importance": 2,
+    "keywords": [
+      "钱其琛",
+      "联合国大会",
+      "人权",
+      "美国",
+      "生存权",
+      "发展权",
+      "侨报"
+    ],
+    "tags": [
+      "reading-news",
+      "qian-qichen",
+      "human-rights",
+      "united-nations",
+      "us-china",
+      "right-to-survival"
+    ],
+    "people": [
+      "李敖",
+      "钱其琛"
+    ],
+    "places": [
+      "联合国",
+      "美国",
+      "中国大陆",
+      "亚洲"
+    ],
+    "view": [
+      "随写录线",
+      "读报线",
+      "人权线",
+      "大陆观察线",
+      "中美关系线"
+    ],
+    "crossReferences": [
+      "li-ao-suixielu-qianji-1991-09-18-writes-on-ccp-human-rights-li-peng-major-and-constitution",
+      "woshi-tiananmen-1991-03-29-further-explanation-on-qian-qichen",
+      "woshi-tiananmen-1991-04-28-right-to-survive-is-a-right",
+      "jingfumen-1991-04-01-writes-us-human-rights-record-exposed",
+      "li-ao-suixielu-qianji-1991-09-22-notes-mainland-rural-official-statistics"
+    ],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "053.钱其琛抨击美国的人权论",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/053.钱其琛抨击美国的人权论.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15,
+        17,
+        19,
+        21,
+        23
+      ],
+      "note": "李敖摘录台湾报纸及9月26日美国《侨报》关于钱其琛在联合国大会抨击人权双重标准的报道。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "health",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "054.荣总三日",
+    "sourceFile": "李敖随写录前集/054.荣总三日.txt",
+    "sourceLocation": "第3、5、7行",
+    "sourceQuote": "从25日到今天，连去荣民总医院三日。 荣总是老兵最后的聚集地了，处处见到老兵在排队，但老兵有的是时间，老兵只怕脱队，不怕排队。 蒋家的皇家套房，也在荣总。这真是“荣”中之辱！（1991年9月27日）",
+    "works": [
+      "李敖随写录前集",
+      "荣总三日"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round008-046-055",
+    "id": "li-ao-suixielu-qianji-1991-09-25-to-27-goes-to-veterans-general-hospital-three-days",
+    "date": "1991-09-25",
+    "displayDate": "1991年9月25日至27日",
+    "title": "李敖连续三天去荣民总医院",
+    "summary": "1991年9月25日至27日，李敖连续三天去荣民总医院。他在随写中观察荣总是老兵最后的聚集地，处处可见老兵排队，并讽称老兵有的是时间，“只怕脱队，不怕排队”；他又注意蒋家的皇家套房也在荣总，称这是“荣”中之辱。",
+    "importance": 3,
+    "keywords": [
+      "荣民总医院",
+      "荣总",
+      "老兵",
+      "排队",
+      "蒋家",
+      "皇家套房"
+    ],
+    "tags": [
+      "hospital",
+      "veterans-general-hospital",
+      "veterans",
+      "chiang-family",
+      "health",
+      "observation"
+    ],
+    "people": [
+      "李敖",
+      "蒋家"
+    ],
+    "places": [
+      "荣民总医院",
+      "台北"
+    ],
+    "view": [
+      "随写录线",
+      "健康线",
+      "荣总线",
+      "老兵线"
+    ],
+    "crossReferences": [
+      "qiushi-xinyu-1991-04-15-cruelty-of-mercy-execution-case"
+    ],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "054.荣总三日",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/054.荣总三日.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7
+      ],
+      "note": "李敖记录9月25日至27日连续三天去荣民总医院，并观察老兵排队与蒋家皇家套房。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "category": "media",
+    "sourceBook": "李敖随写录前集",
+    "sourceChapter": "055.何来John Samuelson！",
+    "sourceFile": "李敖随写录前集/055.何来John Samuelson！.txt",
+    "sourceLocation": "第3、5、7行",
+    "sourceQuote": "今日《联合报》为庆祝四十年，满版登出自己广告，大题“联经的思想名著，引发增长知识的欲求”下，加上这么一行字： 知识像一团火，开始必定是被某个外在的使者引发，但之后，它就自己鼓动自己了。——英国文学家约翰逊（John Samuelson） 一见之下，为之大笑。《联合报》竟把约翰逊Samuel Johnson错成John Samuelson！真荒谬绝伦也！（1991年9月28日）",
+    "works": [
+      "李敖随写录前集",
+      "何来John Samuelson！",
+      "联合报"
+    ],
+    "ingestionRound": "li-ao-suixielu-qianji-round008-046-055",
+    "id": "li-ao-suixielu-qianji-1991-09-28-laughs-at-united-daily-samuel-johnson-misquote",
+    "date": "1991-09-28",
+    "displayDate": "1991年9月28日",
+    "title": "李敖见《联合报》联经广告误写Samuel Johnson并大笑",
+    "summary": "1991年9月28日，李敖见当天《联合报》为庆祝四十年满版刊出联经广告，在“联经的思想名著，引发增长知识的欲求”大题下，把英国文学家Samuel Johnson错写成John Samuelson。李敖一见大笑，指《联合报》竟把约翰逊错成John Samuelson，荒谬绝伦。",
+    "importance": 2,
+    "keywords": [
+      "联合报",
+      "联经",
+      "Samuel Johnson",
+      "John Samuelson",
+      "约翰逊",
+      "广告错误"
+    ],
+    "tags": [
+      "united-daily-news",
+      "linking",
+      "samuel-johnson",
+      "typo",
+      "media-criticism",
+      "laugh"
+    ],
+    "people": [
+      "李敖",
+      "Samuel Johnson"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "view": [
+      "随写录线",
+      "读报线",
+      "媒体批评线",
+      "联经线"
+    ],
+    "crossReferences": [
+      "shilun-xinyu-1989-10-01-media-misreporting-two-cases",
+      "shilun-xinyu-1989-10-01-big-newspapers-misreported",
+      "qiushi-xinyu-1990-01-03-democracy-activists-used-as-media-chips"
+    ],
+    "source": {
+      "book": "李敖随写录前集",
+      "chapter": "055.何来John Samuelson！",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/055.何来John Samuelson！.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7
+      ],
+      "note": "李敖读《联合报》四十年庆广告，指出联经广告把Samuel Johnson误作John Samuelson。"
+    }
+  }
+]

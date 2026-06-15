@@ -89,7 +89,8 @@ const dataFiles = [
   "./data/timeline-events-preofficer-diary.json",
   "./data/timeline-events-li-ao-micang-diary.json",
   "./data/timeline-events-li-ao-zhaji.json",
-  "./data/timeline-events-li-ao-wuwu-diary.json"
+  "./data/timeline-events-li-ao-wuwu-diary.json",
+  "./data/timeline-events-li-ao-suixielu-qianji.json"
 ];
 const supplementalDataFiles = new Set([
   "./data/timeline-events-first-book-supplement.json",
@@ -101,7 +102,7 @@ const supplementalDataFiles = new Set([
   "./data/timeline-events-fourth-book-deepening.json"
 ]);
 const processedBookCount = dataFiles.filter((file) => !supplementalDataFiles.has(file)).length;
-const dataVersion = '2026-06-14-li-ao-wuwu-diary-round058-1990-nov-29-30-closeout';
+const dataVersion = '2026-06-15-li-ao-suixielu-qianji-round008-046-055';
 
 const dateFormatter = new Intl.DateTimeFormat("zh-Hant", {
   year: "numeric",
