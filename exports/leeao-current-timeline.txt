@@ -1,9 +1,9 @@
 ﻿李敖交互式年表：当前增量纯文本备份
 生成日期：2026-06-15
-事件总数：9822
-数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json；data/timeline-events-ni-bendan.json；data/timeline-events-dream-awake.json；data/timeline-events-li-ao-xinkan.json；data/timeline-events-qianqiu-wansui-wuya-qiushi.json；data/timeline-events-li-ao-zawenji.json；data/timeline-events-qianqiu-wansui-bianwai.json；data/timeline-events-beijing-fayuansi.json；data/timeline-events-shangshan-ai.json；data/timeline-events-red-11.json；data/timeline-events-virtual-seventeen.json；data/timeline-events-yangwei-america.json；data/timeline-events-73rd-martyr.json；data/timeline-events-love-secret.json；data/timeline-events-li-ao-love-poems.json；data/timeline-events-li-yulu.json；data/timeline-events-li-ao-yulu.json；data/timeline-events-sui-qianwan-li-ao-wangyi.json；data/timeline-events-tiaozhan-li-ao-ao-yulu.json；data/timeline-events-daxue-zhaji.json；data/timeline-events-zaonian-riji.json；data/timeline-events-daxue-houqi-riji-jia.json；data/timeline-events-daxue-houqi-riji-yi.json；data/timeline-events-preofficer-diary.json；data/timeline-events-li-ao-micang-diary.json；data/timeline-events-li-ao-zhaji.json；data/timeline-events-li-ao-wuwu-diary.json；data/timeline-events-li-ao-suixielu-qianji.json
+事件总数：9967
+数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json；data/timeline-events-ni-bendan.json；data/timeline-events-dream-awake.json；data/timeline-events-li-ao-xinkan.json；data/timeline-events-qianqiu-wansui-wuya-qiushi.json；data/timeline-events-li-ao-zawenji.json；data/timeline-events-qianqiu-wansui-bianwai.json；data/timeline-events-beijing-fayuansi.json；data/timeline-events-shangshan-ai.json；data/timeline-events-red-11.json；data/timeline-events-virtual-seventeen.json；data/timeline-events-yangwei-america.json；data/timeline-events-73rd-martyr.json；data/timeline-events-love-secret.json；data/timeline-events-li-ao-love-poems.json；data/timeline-events-li-yulu.json；data/timeline-events-li-ao-yulu.json；data/timeline-events-sui-qianwan-li-ao-wangyi.json；data/timeline-events-tiaozhan-li-ao-ao-yulu.json；data/timeline-events-daxue-zhaji.json；data/timeline-events-zaonian-riji.json；data/timeline-events-daxue-houqi-riji-jia.json；data/timeline-events-daxue-houqi-riji-yi.json；data/timeline-events-preofficer-diary.json；data/timeline-events-li-ao-micang-diary.json；data/timeline-events-li-ao-zhaji.json；data/timeline-events-li-ao-wuwu-diary.json；data/timeline-events-li-ao-suixielu-qianji.json；data/timeline-events-li-ao-suixielu-houji.json
 说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。
-日期精度统计：day=9370；year=98；year-range=13；undated-range=1；undated-context=141；season=29；lunar-day=1；year-after=7；month=53；half-year=2；school-year-context=5；day-range=16；range=9；year-about=9；month-after=3；year-context=16；day-after=4；before-date-context=11；day-about=1；after-date-context=8；month-context=3；day-context=6；range-context=14；year-end=1；month-range=1
+日期精度统计：day=9515；year=98；year-range=13；undated-range=1；undated-context=141；season=29；lunar-day=1；year-after=7；month=53；half-year=2；school-year-context=5；day-range=16；range=9；year-about=9；month-after=3；year-context=16；day-after=4；before-date-context=11；day-about=1；after-date-context=8；month-context=3；day-context=6；range-context=14；year-end=1；month-range=1
 
 
 1935
@@ -120432,6 +120432,84 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/055.何来John Samuelson！.txt
   数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-09-28-laughs-at-united-daily-samuel-johnson-misquote
+- 1991年9月28日 | 李敖读梁肃戎握宋美龄手旧事并批肉麻
+  精度：day；可靠度：confirmed；排序日期：1991-09-28
+  摘要：1991年9月28日，李敖读《自立晚报》报道，梁肃戎回忆抗战胜利后宋美龄到长春训慰东北地下工作人员、曾与他握手，他事后舍不得洗手，还让同志闻手上香味；宋美龄上周六离台时，梁肃戎送行后又忆起往事并称宋美龄仍有年轻时风范。李敖读后说令人起鸡皮疙瘩，批梁肃戎不但无耻而且肉麻，并借龚定盦“万人丛中一握手”诗句反讽宋美龄。
+  人物：李敖、梁肃戎、宋美龄、蒋中正、龚定盦
+  地点：长春、台湾、东北
+  标签：reading-news、liang-surong、soong-mayling、kuomintang、commentary、zili-evening
+  视图：随写录线、读报线、国民党线、宋美龄线
+  作品：李敖随写录前集、梁肃戎不但无耻，而且肉麻、自立晚报
+  交叉引用：li-ao-suixielu-qianji-1991-09-22-comments-soong-mayling-us-departure-special-plane
+  来源：李敖随写录前集 / 056.梁肃戎不但无耻，而且肉麻 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/056.梁肃戎不但无耻，而且肉麻.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-09-28-comments-liang-surong-soong-mayling-handshake
+- 1991年9月29日 | 李敖评李远哲谈三民主义并向黄祝贵致敬
+  精度：day；可靠度：confirmed；排序日期：1991-09-29
+  摘要：1991年9月29日，李敖读到李远哲前一日在大学教育改革促进会“大学教育研讨会”上谈通识教育，称台大大一必修三民主义最糟，社会学科很多而三民主义不值得花两个学期。李敖评论三民主义连百分之五分量都没有，批李远哲多年钳口后仍曲学阿世；他又读到李远哲在教师节向黄祝贵致敬，便在随写中猜测，李远哲这次生硬表态似与自己揭发其对恩师王企祥负义有关，只是抓黄祝贵来垫底。李敖还补记黄祝贵也教过自己、曾到宿舍看他并签赠著作。
+  人物：李敖、李远哲、黄祝贵、王企祥
+  地点：台大、台湾
+  标签：reading-news、lee-yuan-tseh、senminism、huang-zhugui、wang-qixiang、education
+  视图：随写录线、读报线、李远哲线、教育线、台大线
+  作品：李敖随写录前集、李远哲的“感性”戏
+  交叉引用：li-ao-wuwu-diary-1991-01-29-pingjing-says-li-yuanzhe-guying-zhuangyin-support-newspaper、li-ao-wuwu-diary-1990-06-05-receives-calls-and-rebukes-wang-qixiang、daxue-houqi-jia-1958-12-06-listens-to-huang-zhugui-lecture-on-peoples-commune、daxue-houqi-yi-1959-05-18-huang-zhugui-gives-hungarian-october-revolution-inscribed
+  来源：李敖随写录前集 / 058.李远哲的“感性”戏 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/058.李远哲的“感性”戏.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-09-29-comments-lee-yuan-tseh-senminism-huang-zhugui
+- 1991年9月29日 | 陈正澄上午来坐并约李敖同赴大陆
+  精度：day；可靠度：confirmed；排序日期：1991-09-29
+  摘要：1991年9月29日上午，陈正澄来李敖处坐，他新从大陆回来，谈欧洲宫殿美，而中国宫殿更显示帝王威严。陈正澄约李敖同赴大陆亲眼看看，李敖以老子“不出户，知天下”自道。李敖还称陈正澄是四十多年老同学中最斯文可敬者，并记自己在陈正澄卸下台大经济系主任后，力劝他专力理论与实务著述以探讨中国问题；陈正澄颇能接受，且上次来曾送李敖《计量经济学》。
+  人物：李敖、陈正澄、老子
+  地点：中国大陆、台湾、台大
+  标签：visit、old-classmate、chen-zhengcheng、mainland-trip、ntu、writing-advice
+  视图：随写录线、交游线、陈正澄线、大陆观察线、台大线
+  作品：李敖随写录前集、陈正澄来坐、计量经济学
+  交叉引用：daxue-houqi-jia-1958-11-07-welcome-party-and-talks-with-chen-zhengcheng、daxue-houqi-jia-1966-04-06-chen-zhengcheng-letter-from-germany-recalled-in-november-7-note、daxue-houqi-jia-1966-09-27-records-oil-poem-for-chen-zhengcheng、li-ao-wuwu-diary-1990-12-30-ent-ye-jingyu-zhengcheng-jinlang-callers
+  来源：李敖随写录前集 / 057.陈正澄来坐 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/057.陈正澄来坐.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-09-29-chen-zhengcheng-visits-and-invites-mainland-trip
+- 1991年9月29日 | 陈彦增全家约李敖、小屯天母聚餐并送“屌神”照片
+  精度：day；可靠度：confirmed；排序日期：1991-09-29
+  摘要：1991年9月29日，陈彦增全家约李敖与小屯在天母聚餐。陈彦增送李敖一张在日月潭九族文化村拍的照片，照片中有一座扎红带的石雕巨屌，旁有卧碑《赞曰》，以“维尔屌神，人类之英”等文字戏写生殖器崇拜。李敖读碑文后认为，文字虽有败笔，却有胜境，是民间文学佳者。
+  人物：李敖、陈彦增、小屯
+  地点：天母、日月潭、九族文化村、台湾
+  标签：dinner、chen-yanzeng、xiaotun、tianmu、sun-moon-lake、folk-literature
+  视图：随写录线、交游线、陈彦增线、民间文学线
+  作品：李敖随写录前集、屌神
+  交叉引用：daxue-zhaji-1957-05-31-writes-about-chen-yanzeng-xiao-laodi、daxue-houqi-jia-1958-06-09-prepares-haha-society-with-chen-yanzeng、li-ao-wuwu-diary-1990-12-25-yanzeng-lunch-and-xiaozhao-jiyuan-dinner、li-ao-wuwu-diary-1991-01-10-liupin-laomeng-qiushi-help-and-wedding-money
+  来源：李敖随写录前集 / 060.屌神 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/060.屌神.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-09-29-chen-yanzeng-family-tianmu-dinner-and-diaoshen-photo
+- 1991年9月29日 | 曾谁芬夜电劝李敖参加《女人女人》百集票选活动
+  精度：day；可靠度：confirmed；排序日期：1991-09-29
+  摘要：1991年9月29日夜，曾谁芬来电给李敖。李敖说请帖已收到，但《女人女人》第一百集要上电视，他不想参加；曾谁芬表示还会再来电话说服他。同日李敖摘录《中国时报》报道：中视《女人女人》将于下周六在摄影棚举行酒会，公布观众通讯票选男女风云人物结果，当前男性以李敖票数最高，其后为罗大佑、苦苓、朱高正、侯德健；女性以李昂居冠，其后为施寄青、蔡琴、甄妮、邱彰。
+  人物：李敖、曾谁芬、李昂、罗大佑、苦苓、朱高正、侯德健、施寄青、蔡琴、甄妮、邱彰
+  地点：中视摄影棚、台北、台湾
+  标签：phone-call、womankind、ctv、poll、zeng-sheifen、talk-show
+  视图：随写录线、媒体线、女人女人线、电话线
+  作品：李敖随写录前集、《女人女人》票选风云男女、女人女人、中国时报
+  交叉引用：li-ao-suixielu-qianji-1991-09-02-declines-tv-and-lecture-invitations、book8-1990-06-12-ctv-cuts-directory-protest-segment、li-ao-wuwu-diary-1990-09-18-records-talk-show-report-ranking-li-ao-first、li-ao-wuwu-diary-1990-06-21-records-tonight-with-li-ang-at-huashi
+  来源：李敖随写录前集 / 059.《女人女人》票选风云男女 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/059.《女人女人》票选风云男女.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-09-29-zeng-sheifen-call-womankind-100th-poll
+- 1991年9月30日 | 叶菊兰来电未通，李敖反省与党外时代朋友的距离
+  精度：day；可靠度：confirmed；排序日期：1991-09-30
+  摘要：1991年9月30日，叶菊兰来电给李敖，小屯告知他已经早睡，所以没有通话。李敖随后在随写中说，自己对所有党外时代的朋友都已淡漠处之；他们曾在共同打倒国民党的战线上统一过，但到最后自己朝前朝大路去了，他们却误入歧途。他又评论国民党虽然被反对者打得鼻青眼肿，但其四十年教化之毒，最后仍发作在反对者处理台湾问题的小格局上。
+  人物：李敖、叶菊兰、小屯
+  地点：台湾
+  标签：phone-call、ye-julan、tangwai、kuomintang、political-reflection、xiaotun
+  视图：随写录线、电话线、党外线、国民党线、政治反省线
+  作品：李敖随写录前集、党外人士最后中了国民党下的毒
+  交叉引用：book4-deep-1986-06-03-li-supports-zheng-nanrong-after-arrest、li-ao-wuwu-diary-1991-01-12-nhk-tape-and-new-year-cards、li-ao-suixielu-qianji-1991-09-26-comments-china-times-dpp-sdp-kaohsiung-conflict、li-ao-suixielu-qianji-1991-09-25-comments-zhu-gaozheng-shameless-and-insight
+  来源：李敖随写录前集 / 061.党外人士最后中了国民党下的毒 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/061.党外人士最后中了国民党下的毒.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-09-30-ye-julan-call-xiaotun-says-li-asleep-and-reflects-tangwai
 - 1991年9月30日星期一 | 《千秋评论》停刊，十年出版战线告一段落
   精度：day；可靠度：confirmed；排序日期：1991-09-30
   摘要：《“十年辛苦不寻常”》写，1991年9月30日，《千秋评论》在创造历史十年后停刊，李敖把这十年形容为字字皆血、一路从戒严打到解严的长期阵地战。这一停刊日可视为他以《千秋评论》为主轴连续对抗国民党的出版战线正式收束。
@@ -120445,6 +120523,422 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/565.“十年辛苦不寻常”.txt
   数据：data/timeline-events-seventh-book.json#book7-1991-09-30-qianqiu-pinglun-ends-after-ten-years
+- 1991年10月1日 | 邓育昆、刘俊德午饭请教李敖张学良电视剧
+  精度：day；可靠度：confirmed；排序日期：1991-10-01
+  摘要：1991年10月1日，邓育昆、刘俊德筹拍张作霖、张学良电视剧，中午邀李敖吃饭请教。李敖席间说，张学良如果不那么长寿，一生作为悲剧英雄到底反而更好；糟的是他垂老露面，说了太多浑话和不真的话，等于自己糟蹋自己，令李敖遗憾。
+  人物：李敖、邓育昆、刘俊德、张学良、张作霖
+  地点：台湾
+  标签：lunch、zhang-xueliang、television-drama、consultation、deng-yukun、liu-junde
+  视图：随写录线、张学良线、饭局线、媒体线
+  作品：李敖随写录前集、张学良被长寿所害
+  交叉引用：li-ao-wuwu-diary-1990-06-01-records-zhang-xueliang-appearance、li-ao-wuwu-diary-1990-06-06-receives-visitors-and-watches-zhang-xueliang-video、li-ao-wuwu-diary-1990-06-28-receives-yingzhe-and-laomeng-calls、li-ao-wuwu-diary-1990-12-11-united-daily-letter-zhang-xueliang-and-wu-zhou-xiaoshen-talk
+  来源：李敖随写录前集 / 062.张学良被长寿所害 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/062.张学良被长寿所害.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-01-deng-yukun-liu-junde-lunch-consults-zhang-xueliang-drama
+- 1991年10月2日 | 李敖读《一江春水向东流》仍被禁映报道并批解严为假
+  精度：day；可靠度：confirmed；排序日期：1991-10-02
+  摘要：1991年10月2日，李敖读报得知电影《一江春水向东流》遭禁后，片商诉愿又被新闻局正式驳回。报道说，龙门电影公司认为该片为1949年前大陆出品，且曾在台湾重映，申请进口时未受阻，受检时却被不受理检查并限制退运；片商还指出电影资料馆同年3月放映同背景经典国片却获新闻局支持。李敖据此评论，所谓解严根本是假的，国民党伪政府一有机会便钳制不绝。
+  人物：李敖
+  地点：台湾、中国大陆
+  标签：reading-news、film-ban、news-bureau、censorship、martial-law、kuomintang
+  视图：随写录线、读报线、查禁线、电影线、解严线
+  作品：李敖随写录前集、《一江春水向东流》还在查禁中、一江春水向东流
+  交叉引用：book8-1974-07-16-wenxing-selected-volume-three-banned、jingfumen-1988-08-21-writes-simplified-characters-propaganda、shilun-xinyu-1989-09-03-news-bureau-chief-should-reflect
+  来源：李敖随写录前集 / 064.《一江春水向东流》还在查禁中 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/064.《一江春水向东流》还在查禁中.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-02-comments-spring-river-east-banned-after-martial-law
+- 1991年10月2日 | 陆啸钊邀李敖豪华晚餐后，李敖决定这是“最后的晚餐”
+  精度：day；可靠度：confirmed；排序日期：1991-10-02
+  摘要：1991年10月2日，陆啸钊邀李敖吃豪华大餐，燕窝、鱼翅、鲍鱼、龙虾齐备，陈良榘、王惠群及“老婆们”在座，最后王惠群抢付账。席间陆啸钊说李敖不先向人开枪，但别人先开枪，他会用机关枪打死对方且补上一阵枪。饭后陈良榘邀大家上楼，李敖第一次考察KTV，看老同学畅怀大唱，却觉得庸俗无趣；坐到12点后与小屯先归。李敖在随写中反省自己专注知识，已在娱乐交游上“隔世”，于是决定这是“最后的晚餐”，以后不再和友人在外吃晚饭。
+  人物：李敖、陆啸钊、陈良榘、王惠群、小屯
+  地点：台湾
+  标签：dinner、lu-xiaozhao、ktv、friends、xiaotun、self-discipline
+  视图：随写录线、交游线、陆啸钊线、自我约束线
+  作品：李敖随写录前集、“最后的晚餐”
+  交叉引用：daxue-houqi-jia-1958-06-08-lu-xiaozhao-visits-at-night、li-ao-wuwu-diary-1990-12-25-yanzeng-lunch-and-xiaozhao-jiyuan-dinner、li-ao-wuwu-diary-1990-12-31-jiyuan-huiqun-reporters-pen-books-and-jingzhaoyin
+  来源：李敖随写录前集 / 063.“最后的晚餐” / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/063.“最后的晚餐”.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-02-lu-xiaozhao-luxury-dinner-ktv-last-supper
+- 1991年10月3日 | 李敖签收家具店送货并笑称自己冒充李敖
+  精度：day；可靠度：confirmed；排序日期：1991-10-03
+  摘要：1991年10月3日，家具店小朋友把“李敖先生”买的货送来，李敖签收。对方问他是李敖的什么人，李敖笑答说自己是冒充李敖的人；后来小朋友知道眼前人原来就是李敖本人，大吃一惊。
+  人物：李敖、家具店小朋友
+  地点：台湾
+  标签：daily-life、delivery、signature、joke、self-identity、impersonation
+  视图：随写录线、日常线、自我形象线
+  作品：李敖随写录前集、冒充自己
+  交叉引用：li-ao-wuwu-diary-1990-12-23-qiushi-mainland-contact-and-fake-hongyuan-ad
+  来源：李敖随写录前集 / 065.冒充自己 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/065.冒充自己.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-03-signs-furniture-delivery-jokes-impersonating-li-ao
+- 1991年10月3日 | 段造时来访谈玉里疗养院“疯团长”
+  精度：day；可靠度：confirmed；排序日期：1991-10-03
+  摘要：1991年10月3日，段造时来见李敖，谈到玉里疗养院有一位精神错乱的团长，每天仍像在部队里一样批菜单、发派令。李敖把这则听闻记入随写，并讽刺说官迷即使疯了，照样官迷不已。
+  人物：李敖、段造时、玉里疗养院精神错乱团长
+  地点：台北、玉里疗养院
+  标签：visitor、duan-zaoshi、mental-hospital、military、officialdom、satire
+  视图：随写录线、交游线、段造时线、官场讽刺线
+  作品：李敖随写录前集、疯团长
+  交叉引用：li-ao-suixielu-qianji-1991-09-16-comments-duan-zaoshi-world-forum-staff-and-spirit
+  来源：李敖随写录前集 / 066.疯团长 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/066.疯团长.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-03-duan-zaoshi-visits-yuli-crazy-regiment-commander
+- 1991年10月4日 | 李敖摘评《中央日报》为朱高正口水阵捧场
+  精度：day；可靠度：confirmed；排序日期：1991-10-04
+  摘要：1991年10月4日，李敖读国民党《中央日报》报道朱高正围绕刑法一百条修废问题与民进党立委冲突，并被称为陷入“口水阵”仍不退。李敖在随写中批评，吐口水这种下流方法正由朱高正等人开端，《中央日报》不但不知报道其恶劣，石永贵之流还为朱高正捧场，正是党棍作风。
+  人物：李敖、朱高正、石永贵
+  地点：台北、台湾
+  标签：reading-news、central-daily-news、zhu-gaozheng、article-100、spitting、party-politics
+  视图：随写录线、读报线、朱高正线、国民党媒体线
+  作品：李敖随写录前集、《中央日报》与口水
+  交叉引用：li-ao-suixielu-qianji-1991-09-25-comments-zhu-gaozheng-shameless-and-insight、li-ao-suixielu-qianji-1991-09-26-comments-china-times-dpp-sdp-kaohsiung-conflict、jingfumen-1989-06-16-writes-dpp-system-war
+  来源：李敖随写录前集 / 069.《中央日报》与口水 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/069.《中央日报》与口水.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-04-comments-central-daily-zhu-gaozheng-spitting
+- 1991年10月4日 | 李敖摘评大陆播出七三一电视剧并反讽蒋介石对日政策
+  精度：day；可靠度：confirmed；排序日期：1991-10-04
+  摘要：1991年10月4日，李敖读报得知大陆中央电视台为纪念“九一八”六十周年播出《荒原城堡七三一》，报道并引述香港《明报》描述日军七三一石井部队以中国人和苏联人作细菌实验、活体解剖等暴行。报道还说北京抗日战争纪念馆举办七三一罪证展，令年轻观众震惊愤怒。李敖据此反讽蒋介石对日本“以德报怨”，并把矛头指向仍继承蒋路线的李登辉、郝柏村等人。
+  人物：李敖、蒋介石、李登辉、郝柏村、石井四郎
+  地点：台北、中国大陆、北京、抗日战争纪念馆
+  标签：reading-news、japanese-war-crimes、cctv、anti-japanese-war、chiang-kai-shek、political-commentary
+  视图：随写录线、读报线、抗日战争线、蒋介石批判线
+  作品：李敖随写录前集、大陆播出日军细菌部队暴行、荒原城堡七三一
+  交叉引用：li-ao-suixielu-qianji-1991-09-23-notes-maomao-memorial-chen-yi、li-ao-suixielu-qianji-1991-09-28-comments-liang-surong-soong-mayling-handshake
+  来源：李敖随写录前集 / 068.大陆播出日军细菌部队暴行 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/068.大陆播出日军细菌部队暴行.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-04-comments-cctv-731-drama-and-chiang-japan-policy
+- 1991年10月4日 | 李敖摘录戈迪默获诺贝尔文学奖并比较查禁经验
+  精度：day；可靠度：confirmed；排序日期：1991-10-04
+  摘要：1991年10月4日，李敖摘录合众国际社对南非女作家纳丁·戈迪默获诺贝尔文学奖的介绍，记下她的家庭、成长、写作和南非处境。报道说戈迪默有三本书被查禁达十二年，李敖随即拿自己的禁书经验相比，称这“比起我来，真是小巫一个”；他又摘出戈迪默所谓在南非作品难以激发群众的说法，评为令人哭笑不得。
+  人物：李敖、纳丁·戈迪默
+  地点：台北、南非、约翰内斯堡
+  标签：reading-news、nobel-prize、censorship、literature、south-africa、self-comparison
+  视图：随写录线、读报线、文学线、禁书线、诺贝尔线
+  作品：李敖随写录前集、女作家及诺贝尔奖
+  交叉引用：book8-1974-07-16-wenxing-selected-volume-three-banned、beijing-fayuansi-1999-09-29-announces-english-nobel-submission、book8-2000-beijing-fayuan-temple-nobel-prize-nomination
+  来源：李敖随写录前集 / 067.女作家及诺贝尔奖 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/067.女作家及诺贝尔奖.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-04-notes-nadine-gordimer-nobel-censorship
+- 1991年10月5日 | 李敖摘录黄圣良冤狱自杀案并批司法黑暗
+  精度：day；可靠度：confirmed；排序日期：1991-10-05
+  摘要：1991年10月5日，李敖摘录《联合报》苏荣耀高雄报道黄圣良冤狱自杀案：黄圣良因被控杀人遭判刑，长期喊冤，最后自杀；真凶庄荣隆投案后，旧案牵出何昆伍伪证、刑求争议、录音带与法院判决过程等问题。李敖读后称这是“司法黑暗”又一真章，并认为报道若能把每位法官名字都亮出来，更能警惕执法人员，否则做坏事没人知道，小人更无忌惮。
+  人物：李敖、黄圣良、苏荣耀、庄荣隆、何昆伍
+  地点：台北、高雄
+  标签：reading-news、wrongful-conviction、judiciary、suicide、united-daily-news、legal-commentary
+  视图：随写录线、读报线、司法批判线、冤狱线
+  作品：李敖随写录前集、“宁入地狱，不坐冤狱”
+  交叉引用：dream-awake-1990-03-after-chen-liangxun-writes-li-ao-about-sun-liren-case、book5-1969-07-03-nyt-reports-bai-yang-through-overseas-channel、freedom-summoning-1982-05-14-wins-xiao-mengneng-case
+  来源：李敖随写录前集 / 071.“宁入地狱，不坐冤狱” / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/071.“宁入地狱，不坐冤狱”.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-05-comments-united-daily-huang-shengliang-wrongful-conviction-suicide
+- 1991年10月5日 | 谢聪敏来电谈彰化选国代难处，李敖笑称比叛乱还难
+  精度：day；可靠度：confirmed；排序日期：1991-10-05
+  摘要：1991年10月5日，谢聪敏来电向李敖谈自己在彰化选区竞选国代的种种难处，甚至难到助选人个个都要为他买保险。李敖在电话中反问，若容易民进党会分给他吗，并把这场选举归纳为“选个国代比叛乱还难”，谢聪敏听后大笑。
+  人物：李敖、谢聪敏
+  地点：台北、彰化
+  标签：phone-call、hsieh-tsung-min、campaign、national-assembly、dpp、political-humor
+  视图：随写录线、电话线、谢聪敏线、选举线
+  作品：李敖随写录前集、“选个国代比叛乱还难”
+  交叉引用：li-ao-wuwu-diary-1991-02-04-congmin-jingzhaoyin-lunch-zhou-wang-youliang-talks、li-ao-wuwu-diary-1991-03-21-congmin-call-228-materials-difficulty、book5-1964-peng-case-refuses-remorse-letter
+  来源：李敖随写录前集 / 070.“选个国代比叛乱还难” / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/070.“选个国代比叛乱还难”.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-05-xie-congmin-call-changhua-national-assembly-campaign
+- 1991年10月6日 | 李敖与小屯去故宫买书未果并批秦孝仪主持下博物院腐化
+  精度：day；可靠度：confirmed；排序日期：1991-10-06
+  摘要：1991年10月6日下午，李敖与小屯看到故宫博物院登广告称十月份大减价，便去购买书刊，结果《元丰类稿》和《故宫月刊》都买不到。李敖由此批评秦孝仪主持下的故宫博物院腐化，认为印制的复制品也多不成样子；他还顺带记下台北已步步难行，半数时间花在挤车中。
+  人物：李敖、小屯、秦孝仪
+  地点：台北、故宫博物院
+  标签：daily-life、palace-museum、book-buying、xiaotun、qin-xiaoyi、taipei-traffic
+  视图：随写录线、小屯线、购书线、故宫线、台北日常线
+  作品：李敖随写录前集、故宫博物院腐化
+  交叉引用：li-ao-suixielu-qianji-1991-09-15-xiaotun-drives-to-guandu-bali-sea-view、li-ao-wuwu-diary-1990-07-18-visits-palace-museum-with-xiaotun、li-ao-wuwu-diary-1990-10-14-palace-museum-books-and-calligraphy、qianqiu-wansui-1982-04-26-057-p21o2ui1pfl6g20n4vfeyfeorni
+  来源：李敖随写录前集 / 074.故宫博物院腐化 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/074.故宫博物院腐化.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-06-xiaotun-palace-museum-sale-no-yuanfeng-leigao
+- 1991年10月6日 | 李敖清早三点起床做工时听见双十阅兵预演军车声
+  精度：day；可靠度：confirmed；排序日期：1991-10-06
+  摘要：1991年10月6日清早三点，李敖在住处起床做工，听见窗外军车隆隆，判断这是国民党政权“双十节”前阅兵预演。李敖在随写中由窗外军车声联想到所谓“中华民国”建国八十年，并设想建国者若想到他们建立的国家沦落到台湾、成了蒋家和蒋家奴才的小朝廷，必会悔恨交并。
+  人物：李敖、蒋家
+  地点：台北、李敖住处
+  标签：early-morning-work、military-trucks、double-ten、political-commentary、kuomintang、thought-context
+  视图：随写录线、日常线、早起做工线、政治讽刺线
+  作品：李敖随写录前集、清早三点的军车声
+  交叉引用：li-ao-suixielu-qianji-1991-09-19-wakes-from-nightmare-and-works-early
+  来源：李敖随写录前集 / 072.清早三点的军车声 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/072.清早三点的军车声.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-06-wakes-at-three-hears-military-trucks-double-ten-rehearsal
+- 1991年10月6日 | 李敖摘录荣民黄坤生返大陆陪妻晚年报道
+  精度：day；可靠度：confirmed；排序日期：1991-10-06
+  摘要：1991年10月6日，李敖读《联合报》长篇报道，记下六十八岁荣民黄坤生随国军来台前与江西妻子相誓不再嫁娶，四十三年未娶且收养一子；两年前返乡探亲时发现妻子也守候四十三年，便办终止收养，让养子回亲生父母身边，自己搭机回大陆陪妻度晚年。李敖把这则两岸乱世离合评为“乱世情鸯，又见一章”。
+  人物：李敖、黄坤生、黄坤生妻子、黄坤生养子
+  地点：台北、中坜、中国大陆、江西
+  标签：reading-news、veteran、cross-strait、family-separation、marriage、united-daily-news
+  视图：随写录线、读报线、两岸离散线、荣民线
+  作品：李敖随写录前集、乱世情鸯
+  交叉引用：li-ao-suixielu-qianji-1991-09-28-comments-liang-surong-soong-mayling-handshake
+  来源：李敖随写录前集 / 073.乱世情鸯 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/073.乱世情鸯.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-06-notes-united-daily-veteran-huang-kunsheng-returning-wife
+- 1991年10月7日 | 李敖摘录《亚洲周刊》瑞典社会主义受挫报道
+  精度：day；可靠度：confirmed；排序日期：1991-10-07
+  摘要：1991年10月7日，李敖摘录前一天《亚洲周刊》《瑞典式社会主义被选民遗弃》一文，概括瑞典社民党长期福利国家路线、重税与高物价、经济萧条、选民让中间偏右联盟上台，以及新任总理比尔特称“没人再相信瑞典模式了”等要点。李敖在随写中指出，过去书刊对瑞典社会主义多为正面和肯定报道，这篇文章的新观点值得注意。
+  人物：李敖、比尔特
+  地点：台北、瑞典
+  标签：reading-news、asia-weekly、sweden、socialism、welfare-state、political-economy
+  视图：随写录线、读报线、社会主义评论线、国际观察线
+  作品：李敖随写录前集、瑞典社会主义出问题、亚洲周刊、瑞典式社会主义被选民遗弃
+  交叉引用：daxue-houqi-jia-1958-12-14-clips-sex-education-in-sweden-article
+  来源：李敖随写录前集 / 076.瑞典社会主义出问题 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/076.瑞典社会主义出问题.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-07-notes-asia-weekly-swedish-socialism-election-defeat
+- 1991年10月7日 | 施复华中午来谈美国《求是报》与《自由时报》美洲版原委
+  精度：day；可靠度：confirmed；排序日期：1991-10-07
+  摘要：1991年10月7日中午，《天天日报》施复华来见李敖，谈在美国为李敖出刊《求是报》的情形，并透露为出《自由时报》美洲版时，林荣三并未出资，钱是施复华和另两位股东所出，最后却被摆了一道。施复华带来9月9日《天天日报》，头版头条由他撰写，说明《美洲自由时报》自1990年6月1日发行、由美洲公司与台北《自由时报》契约合作、因内容和经营问题停刊并解约清产。李敖特意把这份材料存证，并批林荣三市侩，由此推及吴阿明、颜文闩等人的水准。
+  人物：李敖、施复华、林荣三、吴阿明、颜文闩
+  地点：台北、美国、洛杉矶
+  标签：visitor、publishing、qiushi-bao、liberty-times、shi-fuhua、evidence、overseas-media
+  视图：随写录线、出版线、求是报线、施复华线、自由时报线
+  作品：李敖随写录前集、林荣三真是市侩、求是报、天天日报、自由时报美洲版
+  交叉引用：book4-1991-02-27-qiushi-daily-starts、li-ao-wuwu-diary-1991-03-17-boston-readers-letter-qiushibao-north-america、li-ao-wuwu-diary-1991-03-17-six-am-fuhua-linkou、li-ao-wuwu-diary-1990-05-31-liberty-times-court-and-errands、book5-1998-07-06-lin-rongsan-compensation-check
+  来源：李敖随写录前集 / 075.林荣三真是市侩 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/075.林荣三真是市侩.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-07-shi-fuhua-visits-qiushi-america-liberty-times-evidence
+- 1991年10月8日 | 中视《女人女人》百集重播李敖谈文天祥片段，“崔苔菁”三字被消音
+  精度：day；可靠度：confirmed；排序日期：1991-10-08
+  摘要：1991年10月8日晚，中视《女人女人》播出百集，放出以李敖为首的旧节目选辑，其中一段是李敖谈文天祥。他在节目中曾说文天祥是花花公子，对自己肯花钱，家里养崔苔菁等人为他唱歌；重播时“崔苔菁”三字却被消音。李敖在随写中据此批评国民党文化管制之密。
+  人物：李敖、文天祥、崔苔菁
+  地点：台北、中视
+  标签：television、womankind、rebroadcast、censorship、ctv、wen-tianxiang
+  视图：随写录线、媒体线、女人女人线、查禁线
+  作品：李敖随写录前集、《女人女人》、女人女人
+  交叉引用：li-ao-suixielu-qianji-1991-09-29-zeng-sheifen-call-womankind-100th-poll、book8-1990-06-12-ctv-cuts-directory-protest-segment、qianqiu-wansui-1990-05-07-context-112-lectures-at-providence-and-fengchia
+  来源：李敖随写录前集 / 077.《女人女人》 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/077.《女人女人》.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-08-womankind-100th-rebroadcast-wen-tianxiang-cui-taijing-censored
+- 1991年10月9日 | 李敖读报批“100行动联盟”取消反制阅兵虎头蛇尾
+  精度：day；可靠度：confirmed；排序日期：1991-10-09
+  摘要：1991年10月9日，李敖读报得知为废除刑法第一百条而筹备双十反制阅兵的“100行动联盟”与“台湾建国运动组织”，在局势紧张后先后宣布取消行动；联盟声明称立法院司法委员会已审查废除和平内乱罪，且为免国民党借机升高冲突、制造流血事件，决定暂时停止反阅兵。李敖在随写中批评这些人是政治秀货色，在国民党一吓唬下便虎头蛇尾，并说自己看不起解严以后玩政治的人，认为他们其实都是懦夫。
+  人物：李敖
+  地点：台北、台湾
+  标签：reading-news、article-100、counter-parade、double-ten、taiwan-independence、political-commentary
+  视图：随写录线、读报线、刑法100条线、反阅兵线
+  作品：李敖随写录前集、虎头蛇尾的反制
+  交叉引用：li-ao-suixielu-qianji-1991-10-04-comments-central-daily-zhu-gaozheng-spitting、li-ao-suixielu-qianji-1991-10-06-wakes-at-three-hears-military-trucks-double-ten-rehearsal、li-ao-suixielu-qianji-1991-09-24-comments-zili-huang-hsinchie-police-smile-photo
+  来源：李敖随写录前集 / 078.虎头蛇尾的反制 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/078.虎头蛇尾的反制.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-09-comments-100-action-alliance-cancels-counter-parade
+- 1991年10月10日 | 李敖继续摘评反阅兵退场与台大医院前驱散事件
+  精度：day；可靠度：confirmed；排序日期：1991-10-10
+  摘要：1991年10月10日，李敖先读早报，摘录100行动联盟召集人陈师孟对贡寮反核事件影响、联盟退求“实质内容”、决策小组改组等解释，随即批为“虎头蛇尾懦夫行径外一章”。同日晚报又说，警方凌晨强制驱散在台大医院基础医学大楼前的联盟成员，抗议者呼喊军警侵入校园、践踏学术尊严。李敖在随写中判断，玩政治却躲在校园内、用学术遮伞，算不得好汉。
+  人物：李敖、陈师孟、李镇源
+  地点：台北、台大医院基础医学大楼
+  标签：reading-news、article-100、campus-protest、police-dispersal、political-commentary、ntu-hospital
+  视图：随写录线、读报线、刑法100条线、反阅兵线、校园政治线
+  作品：李敖随写录前集、虎头蛇尾外一章
+  交叉引用：li-ao-suixielu-qianji-1991-10-09-comments-100-action-alliance-cancels-counter-parade、jingfumen-1991-03-27-writes-taiwan-independence-for-whom
+  来源：李敖随写录前集 / 079.虎头蛇尾外一章 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/079.虎头蛇尾外一章.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-10-comments-anti-parade-aftermath-campus-dispersal
+- 1991年10月10日 | 李敖摘评《自立晚报》“憋尿战”报道，并联想到苏秋镇大膀胱
+  精度：day；可靠度：confirmed；排序日期：1991-10-10
+  摘要：1991年10月10日，李敖摘录《自立晚报》报道：100行动联盟成员与采访记者被隔离在台大医学院基础大楼门廊下，上厕所权益遭严格管制；警方“准进不准出”，许多人只好忍耐，后又由记者证或立委带队解决进出。报道中卢修一笑称立委多了一项“带人上厕所，保证有进有出”的选民服务，曹爱兰则说上厕所人权法案比刑法第一百条更急迫。李敖把这称为“憋尿之战”，并在随写中联想到苏秋镇当年以憋尿阻挡国民党法案，认为其膀胱对党外有功。
+  人物：李敖、陈定南、卢修一、曹爱兰、苏秋镇
+  地点：台北、台大医学院基础大楼
+  标签：reading-news、article-100、toilet-rights、campus-protest、su-qiuzhen、human-rights
+  视图：随写录线、读报线、刑法100条线、反阅兵线、苏秋镇线
+  作品：李敖随写录前集、憋尿战
+  交叉引用：li-ao-suixielu-qianji-1991-10-09-comments-100-action-alliance-cancels-counter-parade、li-ao-suixielu-qianji-1991-10-10-comments-anti-parade-aftermath-campus-dispersal、li-ao-wuwu-diary-1990-05-06-visits-su-qiuzhen-before-beijing-trip
+  来源：李敖随写录前集 / 080.憋尿战 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/080.憋尿战.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-10-comments-toilet-rights-battle-100-action-alliance
+- 1991年10月11日 | 王企祥来电判断李远哲实际是“台独”头子，李敖存记待查
+  精度：day；可靠度：confirmed；排序日期：1991-10-11
+  摘要：1991年10月11日，王企祥来电话向李敖提出判断，说李远哲实际是“台独”头子，李镇源则是由李远哲支持出来的。李敖没有把这话写成已证事实，而是在随写中说明“存此一说，以待查证”，把它作为王企祥电话中的政治判断留存。
+  人物：李敖、王企祥、李远哲、李镇源
+  地点：台北、台湾
+  标签：phone-call、wang-qixiang、lee-yuan-tseh、taiwan-independence、political-judgment、verification-pending
+  视图：随写录线、电话线、王企祥线、李远哲线、台独评论线
+  作品：李敖随写录前集、李远哲实际是“台独”头子？
+  交叉引用：li-ao-suixielu-qianji-1991-09-29-comments-lee-yuan-tseh-senminism-huang-zhugui、li-ao-wuwu-diary-1990-06-07-receives-calls-and-records-qixiang-on-minyun、jingfumen-1991-03-27-writes-taiwan-independence-for-whom
+  来源：李敖随写录前集 / 081.李远哲实际是“台独”头子？ / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/081.李远哲实际是“台独”头子？.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-11-wang-qixiang-call-lee-yuan-tseh-taiwan-independence-claim
+- 1991年10月12日 | 李敖记钱复、张京育两家婚事并讽国民党已成内婚集团
+  精度：day；可靠度：confirmed；排序日期：1991-10-12
+  摘要：1991年10月12日，李敖在随写中记下两则国民党权贵婚事：钱复之女钱美瑞将嫁给“台湾麦当劳家族”孙至德，张京育之子将娶军头许历农之女。李敖据此讽刺，国民党已经尽量做到“内婚制”的集团形态。
+  人物：李敖、钱复、钱美瑞、孙至德、张京育、许历农
+  地点：台北、台湾
+  标签：political-commentary、kuomintang、marriage-network、elite、endogamy、officialdom
+  视图：随写录线、国民党批判线、权贵网络线
+  作品：李敖随写录前集、国民党的内婚制
+  交叉引用：jingfumen-1991-04-02-writes-blacklist-and-cowards、li-ao-zhaji-1984-01-19-writes-zhang-jingyu-three-points-letter、li-ao-zhaji-1986-01-09-comments-qian-fu-small-overseas-students
+  来源：李敖随写录前集 / 082.国民党的内婚制 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/082.国民党的内婚制.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-12-comments-kuomintang-endogamy-qian-zhang-xu-marriages
+- 1991年10月13日 | 李敖与小屯去淡水参观“四海一家”后看海
+  精度：day；可靠度：confirmed；排序日期：1991-10-13
+  摘要：1991年10月13日下午，李敖与小屯去淡水，参观陆啸钊创建的“四海一家”。李敖说明该处日前开幕，陆啸钊曾送请帖来，但他素不参加婚丧喜庆，所以未去；这天与小屯自行前往，陆啸钊并不知道。随后两人再去看海，李敖看小屯在沙滩上与浪花比赛速度，并在现场感到海令人心旷神驰、百看不厌。
+  人物：李敖、小屯、陆啸钊
+  地点：淡水、四海一家、沙滩
+  标签：travel、xiaotun、tamsui、lu-xiaozhao、sea-view、daily-life
+  视图：随写录线、小屯线、淡水线、看海线、陆啸钊线
+  作品：李敖随写录前集、淡水看海
+  交叉引用：li-ao-suixielu-qianji-1991-09-15-xiaotun-drives-to-guandu-bali-sea-view、li-ao-suixielu-qianji-1991-10-02-lu-xiaozhao-luxury-dinner-ktv-last-supper、micang-diary-1985-04-21-goes-to-tamsui-and-wades-in-sea
+  来源：李敖随写录前集 / 083.淡水看海 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/083.淡水看海.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-13-xiaotun-tamsui-sihai-yijia-sea-view
+- 1991年10月13日 | 李敖摘录民进党第五届党代表大会名单并称“民进浑人榜”
+  精度：day；可靠度：confirmed；排序日期：1991-10-13
+  摘要：1991年10月13日，李敖摘录民进党前一天第五届第一次党员代表大会结果，包括中央执行委员、中央评议委员和中央常务委员名单，涉及林文郎、施明德、姚嘉文、谢长廷、许信良、陈水扁、邱义仁等人。李敖在随写中批评这些名单和组织形式“全部是国民党政党编制”，并讽刺其中不是浑人的少之又少，称要存此名单以入笑史。
+  人物：李敖、林文郎、施明德、姚嘉文、谢长廷、许信良、陈水扁、邱义仁
+  地点：台北、台湾
+  标签：reading-news、dpp、party-congress、political-commentary、name-list、satire
+  视图：随写录线、读报线、民进党线、党外政治线
+  作品：李敖随写录前集、民进浑人榜
+  交叉引用：jingfumen-1989-06-16-writes-dpp-system-war、jingfumen-1991-08-11-writes-dpp-personality-question、jingfumen-1991-03-31-writes-dpp-route-debate、li-ao-suixielu-qianji-1991-09-26-comments-china-times-dpp-sdp-kaohsiung-conflict
+  来源：李敖随写录前集 / 084.民进浑人榜 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/084.民进浑人榜.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-13-notes-dpp-fifth-congress-hunren-list
+- 1991年10月14日 | 李敖剪存美国《侨报》材料，摘评美国花生配额与不公平贸易
+  精度：day；可靠度：confirmed；排序日期：1991-10-14
+  摘要：1991年10月14日，李敖剪存8月20日美国《侨报》一纸，摘述美国一面批评中国限制进口和“不公平贸易”，一面自身保留纺织品、汽车和花生等进口配额。材料特别写到美国花生歉收后，种植者仍反对增加外国花生进口，布什虽提高配额，仍远低于农业部估计需求；美国花生种植者还称进口花生会损害消费者健康，正如日本牧场主曾用健康理由阻止美国牛肉。李敖以此保存美国贸易保护的例证，并摘出文章结论：把自由贸易与美国并提只是误解，美国还通过军事计划和科研项目向企业提供巨额补贴，未必谈得上真正公平贸易。
+  人物：李敖、布什
+  地点：台北、美国、中国大陆、香港、日本
+  标签：clipping、qiaobao、unfair-trade、united-states、peanut-quota、free-trade
+  视图：随写录线、剪报线、美国批判线、国际贸易线
+  作品：李敖随写录前集、美帝的不公平贸易、美国侨报
+  交叉引用：li-ao-suixielu-qianji-1991-09-27-notes-qian-qichen-un-human-rights-speech、qiushi-xinyu-1991-06-14-us-blacklist-critique、qiushi-xinyu-1991-06-15-us-political-blacklist-not-really-abolished、woshi-tiananmen-1990-08-30-true-solution-is-ending-poverty
+  来源：李敖随写录前集 / 085.美帝的不公平贸易 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/085.美帝的不公平贸易.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-14-clips-us-qiaobao-unfair-trade-peanuts-quotas
+- 1991年10月15日 | 李敖收到黄任中JJ'S开幕请帖，并声明概不参加
+  精度：day；可靠度：confirmed；排序日期：1991-10-15
+  摘要：1991年10月15日，黄任中以限时专送寄请帖给李敖，邀请他在台北凯悦大饭店娱乐总汇JJ'S正式开幕前先去尝新，活动包括晚宴、镭射灯光秀、disco、KTV和爵士乐等。李敖把请帖内容存入随写，说明自己概不参加，并说存此可见台湾富豪公子的征逐所向；他还特别注明自己不认识黄任中，不知对方为何寄请帖来。
+  人物：李敖、黄任中
+  地点：台北、凯悦大饭店、JJ'S
+  标签：invitation、huang-renzhong、social-life、grand-hyatt、jjs、declined
+  视图：随写录线、通信线、社交拒绝线、台湾富豪线
+  作品：李敖随写录前集、黄任中的请帖
+  交叉引用：li-ao-suixielu-qianji-1991-10-02-lu-xiaozhao-luxury-dinner-ktv-last-supper、li-ao-suixielu-qianji-1991-10-13-xiaotun-tamsui-sihai-yijia-sea-view
+  来源：李敖随写录前集 / 086.黄任中的请帖 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/086.黄任中的请帖.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-15-receives-huang-renzhong-jjs-opening-invitation
+- 1991年10月16日 | 李敖读德国赔偿波兰报道，再批蒋介石对日“以德报怨”
+  精度：day；可靠度：confirmed；排序日期：1991-10-16
+  摘要：1991年10月16日，李敖摘录波恩法新社报道：德国内阁决定付给波兰五亿德国马克，作为波兰遭纳粹迫害者的赔偿金，结束二十年争议；波兰官方欢迎决定，但部分亲历纳粹迫害者认为赔偿仍微乎其微。李敖由德国对波兰赔偿回看日本对中国战争伤害后的所谓“以德报怨”，再次痛批蒋介石的对日政策。
+  人物：李敖、蒋介石
+  地点：台北、波兰、德国、波恩、日本、中国
+  标签：reading-news、germany、poland、war-compensation、japan、chiang-kai-shek
+  视图：随写录线、读报线、对日政策批判线、战争赔偿线
+  作品：李敖随写录前集、波兰不肯“以德报怨”
+  交叉引用：li-ao-suixielu-qianji-1991-10-04-comments-cctv-731-drama-and-chiang-japan-policy、li-ao-suixielu-qianji-1991-09-28-comments-liang-surong-soong-mayling-handshake
+  来源：李敖随写录前集 / 087波兰不肯“以德报怨” / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/087波兰不肯“以德报怨”.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-16-comments-germany-poland-compensation-and-chiang-japan-policy
+- 1991年10月17日 | 李敖读报批陈水扁、李庆雄在司法委员会“自首”是幼稚动作
+  精度：day；可靠度：confirmed；排序日期：1991-10-17
+  摘要：1991年10月17日，李敖读报得知民进党立委陈水扁、李庆雄前一天在立法院司法委员会向法务部长等官员“自首”。陈水扁披着“陈水扁是叛乱犯吗？”和“台独建国突破刑法一百条恶法”的海报，向吕有文、吴东明要求逮捕；李庆雄也把“台湾共和国之夜”资料交给吴东明，并挂出“台湾共和国万岁”海报。李敖在随写中批评，民进党为什么老是搞这些幼稚动作。
+  人物：李敖、陈水扁、李庆雄、吕有文、吴东明
+  地点：台北、立法院司法委员会
+  标签：reading-news、dpp、chen-shui-bian、article-100、taiwan-independence、political-commentary
+  视图：随写录线、读报线、民进党线、刑法100条线、台独评论线
+  作品：李敖随写录前集、民进党的幼稚动作
+  交叉引用：li-ao-suixielu-qianji-1991-10-09-comments-100-action-alliance-cancels-counter-parade、li-ao-suixielu-qianji-1991-10-10-comments-toilet-rights-battle-100-action-alliance、li-ao-suixielu-qianji-1991-10-13-notes-dpp-fifth-congress-hunren-list、micang-diary-1985-01-23-meets-shuibian-xingzhong-bolun-nanrong
+  来源：李敖随写录前集 / 088.民进党的幼稚动作 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/088.民进党的幼稚动作.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-17-comments-dpp-self-surrender-article-100-childish
+- 1991年10月18日 | 李敖写《台湾无处不中国》四句诗反击“台独”
+  精度：day；可靠度：confirmed；排序日期：1991-10-18
+  摘要：1991年10月18日，李敖写四句《台湾无处不中国》：“妄想海峡两地隔，妄想‘台独’自快活。我且当头来棒喝：台湾无处不中国。”这首短诗直接把矛头指向“台独”想象，作为他在《随写录前集》中持续反台独论述的一则诗式表达。
+  人物：李敖
+  地点：台北、台湾、中国
+  标签：writing、poem、anti-taiwan-independence、cross-strait、political-verse
+  视图：随写录线、写作线、诗文线、台独评论线
+  作品：李敖随写录前集、台湾无处不中国
+  交叉引用：li-ao-suixielu-qianji-1991-10-11-wang-qixiang-call-lee-yuan-tseh-taiwan-independence-claim、li-ao-suixielu-qianji-1991-10-17-comments-dpp-self-surrender-article-100-childish、jingfumen-1991-03-27-writes-taiwan-independence-for-whom
+  来源：李敖随写录前集 / 089.台湾无处不中国 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/089.台湾无处不中国.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-18-writes-taiwan-everywhere-china-poem
+- 1991年10月18日 | 李敖写《别扭诗》自题反向而行的姿态
+  精度：day；可靠度：confirmed；排序日期：1991-10-18
+  摘要：1991年10月18日，李敖写《别扭诗》四句：“别人朝东我往西，别人开高我走低，别人拳打我脚踢，别人一万我万一。”这首短诗把自己写成与多数人反向而行、以别扭姿态自处的形象。
+  人物：李敖
+  地点：台北
+  标签：writing、poem、self-image、contrarian、short-verse
+  视图：随写录线、写作线、诗文线、自我形象线
+  作品：李敖随写录前集、别扭诗
+  交叉引用：qianqiu-wansui-1990-05-07-112-writes-two-selves、li-ao-suixielu-qianji-1991-10-19-writes-big-shot-fantasia-self-portrait
+  来源：李敖随写录前集 / 090.别扭诗 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/090.别扭诗.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-18-writes-bieniu-poem
+- 1991年10月18日 | 李敖借王宠惠早年任高官，批国民党到台湾后老人当政
+  精度：day；可靠度：confirmed；排序日期：1991-10-18
+  摘要：1991年10月18日，李敖在随写中以王宠惠为例，指出王宠惠三十岁即任外交总长、四十出头任国务总理，那个时代若是人才，较容易被容纳。李敖继而批评国民党后来变得鼠肚鸡肠，到台湾后老人当政，即使党内所谓青年才俊，也难在三四十岁做到部长、院长；他认为从人才年龄观察国民党，别有意味。
+  人物：李敖、王宠惠
+  地点：台北、台湾
+  标签：political-commentary、kuomintang、age-structure、officialdom、wang-chonghui
+  视图：随写录线、国民党批判线、人才评论线
+  作品：李敖随写录前集、国民党与年龄
+  交叉引用：li-ao-suixielu-qianji-1991-10-12-comments-kuomintang-endogamy-qian-zhang-xu-marriages
+  来源：李敖随写录前集 / 092.国民党与年龄 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/092.国民党与年龄.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-18-comments-kuomintang-age-structure-wang-chonghui
+- 1991年10月18日 | 李敖读《美华报导》林正杰婚变文字，批其妖妄可鄙
+  精度：day；可靠度：confirmed；排序日期：1991-10-18
+  摘要：1991年10月18日，李敖读《美华报导》第二一五期关于林正杰婚变的文字，摘出林正杰说自己有一串人骨念珠、藏在家里保护妻儿，又说离婚是为了让黄绢绢不受“老二”“小的”等称呼歧视，并自称可用“政治艺术家”和“真实的热情”形容自己。李敖在随写中批评，林正杰以进步形象号召，却私下迷信到搞人骨念珠；有妇之夫通奸后还以大道理包装，更显可鄙。李敖还把林毓生以自由主义自命却入国民党，与林正杰以道德形象号召却私通黄绢绢相提并论，讽刺他们所谓“真实”。
+  人物：李敖、林正杰、黄绢绢、祖珺、林毓生
+  地点：台北、美国
+  标签：reading-news、lin-zhengjie、marriage-scandal、political-morality、superstition、criticism
+  视图：随写录线、读报线、林正杰线、党外政治线、道德批判线
+  作品：李敖随写录前集、林正杰的妖妄和可鄙
+  交叉引用：li-ao-suixielu-qianji-1991-09-17-xiaojin-call-about-lin-zhengjie-divorce-and-morality、book5-undated-huang-shicheng-fee-transferred-to-lin-zhengjie、daxue-zhaji-1957-05-19-talks-with-zhang-shimin-about-affecting-others
+  来源：李敖随写录前集 / 091.林正杰的妖妄和可鄙 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/091.林正杰的妖妄和可鄙.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-18-comments-lin-zhengjie-marriage-bone-beads-and-political-artist
+- 1991年10月19日 | 李敖写《大人物狂想曲》，以阮籍《大人先生传》自况
+  精度：day；可靠度：confirmed；排序日期：1991-10-19
+  摘要：1991年10月19日，李敖写《大人物狂想曲》，从洋片《小人物狂想曲》引出“狂想曲”并非小人物独有，大人物也有，只是平日道貌岸然、城府很深，不为人知。李敖又把自己列为例外，称自己“游戏人间以成其大、不择人物以成其骂”，狂想曲偶尔外泄以嘲世人，并以阮籍《大人先生传》相比。
+  人物：李敖、阮籍
+  地点：台北
+  标签：writing、self-portrait、ruan-ji、satire、fantasia
+  视图：随写录线、写作线、自我形象线、阮籍线
+  作品：李敖随写录前集、大人物狂想曲、小人物狂想曲、大人先生传
+  交叉引用：li-ao-suixielu-qianji-1991-10-18-writes-bieniu-poem、qianqiu-wansui-1983-03-17-063-writes-two-noncooperators-first-note、qianqiu-wansui-1983-05-16-063-revisits-two-noncooperators
+  来源：李敖随写录前集 / 093.大人物狂想曲 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/093.大人物狂想曲.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-19-writes-big-shot-fantasia-self-portrait
 - 1991年10月19日星期六 | 李敖写《新版三十三不亦快哉》
   精度：day；可靠度：confirmed；排序日期：1991-10-19
   摘要：《志留纪》写，李敖1991年10月19日写《新版三十三不亦快哉》，以短篇条列方式表达自己的玩世喜感、政治讽刺与日常趣味。
@@ -120458,6 +120952,344 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/020.志留纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1991-10-19-writes-new-thirty-three-pleasures
+- 1991年10月20日 | 李敖读报批施明德从无奈到重拾信心的政治情绪太嫩
+  精度：day；可靠度：confirmed；排序日期：1991-10-20
+  摘要：1991年10月20日，李敖读报得知施明德竞选民进党主席落败后回高雄，为国代参选人陈菊演讲会助阵；报道称施明德因台独联盟三名盟员被捕而更感无力，直到在高雄演讲会见群众冒雨聆听，才重拾信心。李敖据此批评，搞政治的人从无力感、无奈到重拾信心之间，竟可如此来去有无，显得太嫩；感情这样不稳定，难以搞政治。
+  人物：李敖、施明德、陈菊
+  地点：台北、高雄、松山机场
+  标签：reading-news、shih-mingteh、dpp、chen-chu、political-emotion、political-commentary
+  视图：随写录线、读报线、民进党线、施明德线、政治性格评论线
+  作品：李敖随写录前集、搞政治的人岂可这么嫩？
+  交叉引用：li-ao-suixielu-qianji-1991-10-13-notes-dpp-fifth-congress-hunren-list、jingfumen-1991-08-11-writes-dpp-personality-question、book5-1986-06-25-contact-li-shijie-writing-plan
+  来源：李敖随写录前集 / 094.搞政治的人岂可这么嫩？ / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/094.搞政治的人岂可这么嫩？.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-20-comments-shih-mingteh-mood-too-tender-politics
+- 1991年10月21日 | 李敖读蔡同荣谈关仔岭事件，并补记刘家顺旧事
+  精度：day；可靠度：confirmed；排序日期：1991-10-21
+  摘要：1991年10月21日，李敖读《自立晚报》蔡同荣谈“关仔岭事件”的访问，摘出蔡同荣叙述台大时期秘密聚会、刘家顺因出国受阻而写自白书并牵出关仔岭会议等经过。李敖在随写中补记，刘家顺当年台中一中毕业保送台大政治系后曾印名片送他，名片履历使李敖“哂之”；李敖又记刘家顺离台当天已上飞机却被折返抓下，三十多年后不再与闻政治，认为这是黑牢余悸所致。
+  人物：李敖、蔡同荣、刘家顺、陈安澜、蔡顺利、黄昆虎
+  地点：台北、关仔岭、台中、松山机场
+  标签：reading-news、cai-tongrong、liu-jiashun、kuanziling-incident、political-prison、classmate-memory
+  视图：随写录线、读报线、蔡同荣线、刘家顺线、政治受难线
+  作品：李敖随写录前集、刘家顺
+  交叉引用：liao-xinkan-1988-12-29-036-floating-life-notes-fourth-sequel、liao-xinkan-1957-context-meng-dazhong-airport-sendoff、li-ao-suixielu-qianji-1991-10-21-comments-cai-tongrong-on-shih-chiyang-and-li-classmate-memory、book5-1988-12-17-peng-secret-letter-to-li
+  来源：李敖随写录前集 / 096.刘家顺 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/096.刘家顺.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-21-comments-cai-tongrong-kuanziling-and-liu-jiashun
+- 1991年10月21日 | 李敖摘记美联社教士吻修女广告判决
+  精度：day；可靠度：confirmed；排序日期：1991-10-21
+  摘要：1991年10月21日，李敖在随写中摘记一则美联社传真：意大利成衣广告出现教士吻修女画面，巴黎天主教方面抗议，但10月18日巴黎法庭裁定无伤。此条为李敖对海外宗教与广告争议的新闻摘记，不扩写成巴黎现场事件。
+  人物：李敖
+  地点：巴黎、意大利
+  标签：reading-news、associated-press、religion、advertising、court-ruling
+  视图：随写录线、读报线、宗教线、文化新闻线
+  作品：李敖随写录前集、教士吻修女
+  交叉引用：-
+  来源：李敖随写录前集 / 097.教士吻修女 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/097.教士吻修女.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-21-notes-ap-fax-priest-kisses-nun-ad-ruling
+- 1991年10月21日 | 李敖摘读蔡同荣谈施启扬“中台国”往事，并补记同窗印象
+  精度：day；可靠度：confirmed；排序日期：1991-10-21
+  摘要：1991年10月21日，李敖读《自立晚报》访问蔡同荣记录，摘出蔡同荣回忆大学刚毕业时，施启扬曾邀他与丘宏达等人讨论组成“中台国”，并称理论与行动合在一起可以成大事；蔡同荣又说后来不愿再伤害施启扬，并形容施启扬已成典型中国官场产物。李敖认为蔡同荣这段话大体勾绘出施启扬嘴脸，但不同意蔡所谓施启扬孩子时代个性直直；李敖在随写中补记，施启扬与他初高中同学同班时已“少年老成”，比别人有城府。
+  人物：李敖、蔡同荣、施启扬、丘宏达
+  地点：台北、台湾
+  标签：reading-news、cai-tongrong、shih-chiyang、classmate-memory、taiwan-independence、zili-evening-news
+  视图：随写录线、读报线、施启扬线、蔡同荣线、同窗线
+  作品：李敖随写录前集、蔡同荣论施启扬
+  交叉引用：daxue-houqi-jia-1958-11-04-qiyang-visits-and-li-ao-meets-law-students-professor-style、daxue-houqi-jia-1958-11-06-writes-long-letter-to-xu-gaoruan-and-talks-four-changes-with-qiyang、daxue-houqi-jia-1958-07-08-mo-politics-axing-church-and-qiu-hongda-cheating、book5-1988-12-17-peng-secret-letter-to-li
+  来源：李敖随写录前集 / 095.蔡同荣论施启扬 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/095.蔡同荣论施启扬.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-21-comments-cai-tongrong-on-shih-chiyang-and-li-classmate-memory
+- 1991年10月22日 | 中仪嫂来访，李敖听她讲周太太打牌凑整趣事
+  精度：day；可靠度：confirmed；排序日期：1991-10-22
+  摘要：1991年10月22日，中仪嫂来见李敖，向他讲周太太打牌的一则趣事：周太太赢了一千一百八十元，结账时还向输家多要二十元，只为凑足一千二百元才满足。李敖将这段来访闲谈记作“小气赢家”。
+  人物：李敖、中仪嫂、周太太
+  地点：台北
+  标签：visit、xuan-zhongyi、social-anecdote、card-game、daily-life
+  视图：随写录线、交游线、日常线
+  作品：李敖随写录前集、小气赢家
+  交叉引用：li-ao-wuwu-diary-1990-08-15-dines-with-zhongyi-sister-in-law-and-lawyer-guo、li-ao-suixielu-qianji-1991-09-24-hears-xiaochi-tri-service-misdiagnosis-and-lunches
+  来源：李敖随写录前集 / 098.小气赢家 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/098.小气赢家.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-22-hears-zhongyi-sister-in-law-zhou-wife-card-story
+- 1991年10月22日 | 李敖在随写中给自己定下“你黑暗，我报复”的斗志纪律
+  精度：day；可靠度：confirmed；排序日期：1991-10-22
+  摘要：1991年10月22日，李敖在随写中写下“你黑暗，我报复”的自我纪律：面对黑暗环境带来的不快和沮丧，他要求自己不花五分钟沉溺其间，而要立刻以快乐报复，开始揭发黑暗的实际行动；他又提醒自己，黑暗会因年深日久使人淡忘、松懈，所以除睡眠时间外要保持充沛、奋发、有耐心的斗志。
+  人物：李敖
+  地点：台北
+  标签：writing、self-discipline、political-will、darkness、fighting-spirit
+  视图：随写录线、写作线、自我定位线、政治斗志线
+  作品：李敖随写录前集、你黑暗，我报复
+  交叉引用：li-ao-suixielu-qianji-1991-10-19-writes-big-shot-fantasia-self-portrait、li-ao-suixielu-qianji-1991-10-18-writes-bieniu-poem
+  来源：李敖随写录前集 / 099.你黑暗，我报复 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/099.你黑暗，我报复.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-22-writes-self-discipline-darkness-revenge
+- 1991年10月23日 | 李敖打电话给林永丰，指出李镇源演讲抄袭《二二八医界再出发》
+  精度：day；可靠度：confirmed；排序日期：1991-10-23
+  摘要：1991年10月23日，李敖读《中国时报》报道李镇源在东海大学以“知识分子的心路历程”为题演讲，谈二二八前后台湾医界与100行动联盟的医界响应。当天李敖打电话给《二二八医界再出发》的作者林永丰，直说李镇源这番话“不是全抄你的书和话吗”，林永丰也认为如此。此条按李敖读报后求证并通话的当事节点入库。
+  人物：李敖、李镇源、林永丰
+  地点：台北、台中、东海大学
+  标签：phone-call、reading-news、lin-yongfeng、li-zhenyuan、228、plagiarism-claim、100-action-alliance
+  视图：随写录线、电话线、读报线、二二八线、100行动线
+  作品：李敖随写录前集、李镇源抄袭林永丰
+  交叉引用：li-ao-suixielu-qianji-1991-10-10-comments-anti-parade-aftermath-campus-dispersal、li-ao-suixielu-qianji-1991-10-11-wang-qixiang-call-lee-yuan-tseh-taiwan-independence-claim、beijing-fayuansi-1991-09-05-pan-yugang-errata
+  来源：李敖随写录前集 / 100.李镇源抄袭林永丰 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/100.李镇源抄袭林永丰.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-23-calls-lin-yongfeng-about-li-zhenyuan-copying-228-medical-book
+- 1991年10月24日 | 周渝夜来谈民进党台独路线，李敖批台湾人中没有政治家
+  精度：day；可靠度：confirmed；排序日期：1991-10-24
+  摘要：1991年10月24日夜，周渝来见李敖，告诉他自己日前责怪陈忠信，认为民进党不该搞“台独”；陈忠信私下说，从许信良以下许多人并不赞成“台独”，只是受新潮流系压力不便反对。李敖告诉周渝，政治家的可贵正在于不被错误路线裹胁，而要挺身维护大道；他据此感叹台湾人中实在没有政治家，民进党把好好的一个新党搞成这样，令人失望。
+  人物：李敖、周渝、陈忠信、许信良
+  地点：台北、台湾
+  标签：night-visit、zhou-yu、dpp、taiwan-independence、political-judgment、conversation
+  视图：随写录线、周渝线、交游线、民进党线、台独批判线
+  作品：李敖随写录前集、周渝夜谈
+  交叉引用：li-ao-suixielu-qianji-1991-09-04-lunches-with-zhou-yu-and-buys-antique-glasses、li-ao-wuwu-diary-1991-02-18-visits-zhiming-and-zhouyu、li-ao-suixielu-qianji-1991-10-13-notes-dpp-fifth-congress-hunren-list、jingfumen-1991-03-27-writes-taiwan-independence-for-whom、jingfumen-1991-08-11-writes-dpp-personality-question
+  来源：李敖随写录前集 / 101.周渝夜谈 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/101.周渝夜谈.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-24-zhou-yu-night-talk-dpp-taiwan-independence-line
+- 1991年10月25日 | 李敖读李镇源骂施启扬“台奸”，判断施启扬罪未至此
+  精度：day；可靠度：confirmed；排序日期：1991-10-25
+  摘要：1991年10月25日，李敖读到李镇源在高雄凤山公开承认支持“台独”，并批行政院副院长施启扬为“毫无知识的台奸”。李敖在随写中判断，说施启扬是台奸属于厚诬坏人；他认为施启扬“不是东西”，但罪名不到台奸，李镇源等人轻予罪名，反显其偏执。
+  人物：李敖、施启扬、李镇源
+  地点：台北、高雄凤山
+  标签：reading-news、shih-chiyang、li-zhenyuan、100-action-alliance、taiwan-independence、political-judgment
+  视图：随写录线、读报线、施启扬线、李镇源线、100行动线
+  作品：李敖随写录前集、施启扬绝非台奸
+  交叉引用：li-ao-suixielu-qianji-1991-10-21-comments-cai-tongrong-on-shih-chiyang-and-li-classmate-memory、daxue-houqi-jia-1958-11-04-qiyang-visits-and-li-ao-meets-law-students-professor-style、li-ao-suixielu-qianji-1991-10-10-comments-anti-parade-aftermath-campus-dispersal
+  来源：李敖随写录前集 / 103.施启扬绝非台奸 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/103.施启扬绝非台奸.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-25-comments-shih-chiyang-not-taiwan-traitor-li-zhenyuan-attack
+- 1991年10月25日 | 李敖读欧阳无畏讣告，追记在开国文献会识其为读者
+  精度：day；可靠度：confirmed；排序日期：1991-10-25
+  摘要：1991年10月25日，李敖读《中央日报》刊登欧阳鸷（无畏）喇嘛讣告，得知这位藏学人物已于10月10日下午在台北荣民总医院圆寂，并将于11月13日在市立第一殡仪馆举行告别式。李敖在随写中追记，自己是在开国文献会认识欧阳无畏的，对方是他的读者，但他一直不知道欧阳无畏原来是喇嘛。
+  人物：李敖、欧阳无畏、欧阳鸷
+  地点：台北、台北荣民总医院、开国文献会、市立第一殡仪馆
+  标签：obituary、central-daily-news、ouyang-wuwei、reader、memory
+  视图：随写录线、读报线、交游线、读者线、讣闻线
+  作品：李敖随写录前集、欧阳无畏死了
+  交叉引用：-
+  来源：李敖随写录前集 / 102.欧阳无畏死了 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/102.欧阳无畏死了.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-25-reads-ouyang-wuwei-obituary-and-remembers-reader
+- 1991年10月26日 | 李敖在随写中批民进党面对高雄游行威胁退缩
+  精度：day；可靠度：confirmed；排序日期：1991-10-26
+  摘要：1991年10月26日，李敖在随写中记“十二五高雄大游行”在国民党翻脸威胁下，民进党人退缩，党主席黄信介又以血压高、太太不准参加为由缺席。李敖由此批评台湾玩政治的人一被示以颜色就怕，并引用蒋渭水对陈绥民所说“台湾人畏威而不怀德”，把这句话作为对岛民政治心态的反问。
+  人物：李敖、黄信介、蒋渭水、陈绥民
+  地点：高雄、台湾
+  标签：dpp、kaohsiung-rally、huang-hsinchie、political-judgment、fear-power-not-virtue
+  视图：随写录线、民进党线、黄信介线、政治心态线
+  作品：李敖随写录前集、“台湾人畏威而不怀德”
+  交叉引用：li-ao-wuwu-diary-1991-03-29-suimin-call-jiang-weichuan-fear-power-not-virtue、li-ao-suixielu-qianji-1991-10-13-notes-dpp-fifth-congress-hunren-list、jingfumen-1991-05-02-writes-dpp-beaten-meaninglessly
+  来源：李敖随写录前集 / 107.“台湾人畏威而不怀德” / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/107.“台湾人畏威而不怀德”.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-26-comments-dpp-kaohsiung-rally-fear-power-not-virtue
+- 1991年10月26日 | 李敖读李登辉出席杨丽花歌仔戏报道，批国家剧院文化品位
+  精度：day；可靠度：confirmed；排序日期：1991-10-26
+  摘要：1991年10月26日，李敖读《中国时报》报道，杨丽花在国家剧院演出《吕布与貂蝉》，李登辉、黄信介、陈重光等人出席。李敖在随写中把这场两厅院庆祝建国八十年的安排视作文化品位低落的例证，批评从总统以下到国家剧院去捧他所谓“不入流、最低层次的落伍台湾民艺”，认为台湾岛无文化可言又得一明证。
+  人物：李敖、李登辉、杨丽花、黄信介、陈重光
+  地点：台北、国家剧院、国父纪念馆、台湾
+  标签：reading-news、lee-tenghui、yang-lihua、taiwanese-opera、national-theater、cultural-criticism
+  视图：随写录线、读报线、李登辉线、文化评论线
+  作品：李敖随写录前集、李登辉捧杨丽花！
+  交叉引用：li-ao-suixielu-qianji-1991-09-12-comments-jiang-zemin-drill-and-lee-tenghui-exercise、li-ao-suixielu-qianji-1991-09-24-comments-zili-huang-hsinchie-police-smile-photo
+  来源：李敖随写录前集 / 106.李登辉捧杨丽花！ / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/106.李登辉捧杨丽花！.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-26-comments-lee-tenghui-yang-lihua-opera-national-theater
+- 1991年10月26日 | 李敖读范曾来台被胡云鹏动粗事件，并批其人品画字
+  精度：day；可靠度：confirmed；排序日期：1991-10-26
+  摘要：1991年10月26日，李敖读到范曾前一日来台下机后，被名人画廊负责人胡云鹏因假画争议动粗；胡云鹏指范曾反复称名人画廊自日本引进的作品为假画，又以“侯军”笔名出书污蔑画廊，但此前曾证实作品为真并在作品集上签名盖章。李敖在随写中评论，范曾人品有问题应属可信；其画乍看不错，看多了却千篇一律，字则做作讨厌，只是账房毛笔字。
+  人物：李敖、范曾、胡云鹏、侯军
+  地点：台北、台湾、日本、北京
+  标签：reading-news、fan-zeng、art-criticism、painting-dispute、calligraphy、gallery
+  视图：随写录线、读报线、艺术评论线、书画线
+  作品：李敖随写录前集、评范曾
+  交叉引用：-
+  来源：李敖随写录前集 / 105.评范曾 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/105.评范曾.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-26-comments-fan-zeng-taiwan-airport-fake-painting-dispute
+- 1991年10月26日 | 李敖摘录黄水枝“替天行道”案，并判断黄帝教应为轩辕教
+  精度：day；可靠度：confirmed；排序日期：1991-10-26
+  摘要：1991年10月26日，李敖读《联合报》关于黄水枝、贺元诚持枪连续杀人案的综合资料，摘录黄水枝自称“替天行道”、列黑名单、笃信“黄帝教”、自称黄帝再世等内容，并把这批材料视为重要思想史资料。李敖在随写中据《中华民国年鉴》判断，黄水枝所谓“黄帝教”似应为内政部登记的“轩辕教”；他进一步批评王寒生创教未必至此，但宗教一旦成立，顺流而下、走火入魔，就可能被发扬到极端，提醒创教教主不可不慎。
+  人物：李敖、黄水枝、贺元诚、邓丽玉、王寒生
+  地点：台北、宜兰县、彰化县、溪州乡
+  标签：reading-news、crime、religion、xuanyuan-cult、united-daily-news、thought-history、commentary
+  视图：随写录线、读报线、宗教线、思想史线、社会新闻线
+  作品：李敖随写录前集、黄水枝“替天行道”资料
+  交叉引用：-
+  来源：李敖随写录前集 / 104.黄水枝“替天行道”资料 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/104.黄水枝“替天行道”资料.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-26-notes-huang-shuizhi-xuanyuan-cult-religion-danger
+- 1991年10月27日 | 李敖读孙震打消辞意声明，批其辞职秀无耻
+  精度：day；可靠度：confirmed；排序日期：1991-10-27
+  摘要：1991年10月27日，李敖摘录孙震前一天声明：孙震自10月23日请辞台大校长后，经郝院长、毛部长慰留，又邀台大三长、六学院院长、附设医院院长和主任秘书共商，决定打消辞意，继续留校服务。李敖在随写中批评，孙震10月23日辞职时还说“作为台大校长不能受辱”，三天后却为了恋栈权位而置被辱的台大校长于不问，因此两度直骂“此人真无耻”。
+  人物：李敖、孙震
+  地点：台北、台大
+  标签：reading-news、sun-chen、ntu、resignation、political-theater、criticism
+  视图：随写录线、读报线、台大线、政治批判线
+  作品：李敖随写录前集、孙震真无耻！
+  交叉引用：-
+  来源：李敖随写录前集 / 108.孙震真无耻！ / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/108.孙震真无耻！.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-27-comments-sun-chen-ntu-resignation-show-shameless
+- 1991年10月28日 | 陈绥民来电谈孔令晟晚景，李敖请其劝写官邸旧事
+  精度：day；可靠度：confirmed；排序日期：1991-10-28
+  摘要：1991年10月28日，陈绥民来电给李敖，谈到自己和老同学孔令晟当年以大学生投笔从戎、为国民党立功，如今却双双投闲置散，连像样退休之资都没有。李敖请陈绥民转促孔令晟写一点“官邸”中事，陈绥民答说孔令晟不会泄密。李敖又在随写中追记，陈绥民曾在胡宗南打下延安时接收《延安日报》并做延安市长，来台后任国民党中六组总干事，殷海光、彭明敏、李翰祥问题无役不与；虽是党籍中人，性格倒坦诚痛快。
+  人物：李敖、陈绥民、孔令晟、胡宗南、殷海光、彭明敏、李翰祥
+  地点：台北、延安、台湾
+  标签：phone-call、chen-suimin、kong-lingsheng、kuomintang、official-residence、political-memory
+  视图：随写录线、电话线、陈绥民线、国民党线、政治旧闻线
+  作品：李敖随写录前集、“忠党爱国”下场
+  交叉引用：li-ao-wuwu-diary-1991-02-23-chen-suimin-lunch-jiang-bingying-story、li-ao-wuwu-diary-1991-03-29-suimin-call-jiang-weichuan-fear-power-not-virtue、book5-1968-12-10-dinner-chen-suimin-and-peng-surveillance-check
+  来源：李敖随写录前集 / 109.“忠党爱国”下场 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/109.“忠党爱国”下场.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-28-chen-suimin-call-kong-lingsheng-kmt-loyalist-aftermath
+- 1991年10月29日 | 李敖谢绝苏联、英国报社访问，也谢绝海洋大学等演讲
+  精度：day；可靠度：confirmed；排序日期：1991-10-29
+  摘要：1991年10月29日，苏联报社总编辑及记者二人想访问李敖，另有英国记者也想访问，由陈中雄代为约访；李敖谢绝。李敖同时记下，本月还有海洋大学等多起演讲邀请，他也一概谢绝。此条按李敖直接拒绝媒体访问和演讲邀约的当事节点入库。
+  人物：李敖、陈中雄
+  地点：台北、苏联、英国、海洋大学
+  标签：media、interview-declined、lecture-declined、chen-zhongxiong、soviet-newspaper、british-journalist
+  视图：随写录线、媒体线、演讲线、陈中雄线
+  作品：李敖随写录前集、谢绝苏联、英国报社访问
+  交叉引用：li-ao-suixielu-qianji-1991-09-02-declines-tv-and-lecture-invitations、li-ao-wuwu-diary-1991-03-19-zhongxiong-visit-li-ao-gives-ten-thousand-again、li-ao-wuwu-diary-1991-04-02-zhongxiong-visit
+  来源：李敖随写录前集 / 110.谢绝苏联、英国报社访问 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/110.谢绝苏联、英国报社访问.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-29-declines-soviet-british-newspaper-interviews-and-lectures
+- 1991年10月29日 | 李敖摘录《光明日报》大陆贫困地区温饱与扶贫数据
+  精度：day；可靠度：confirmed；排序日期：1991-10-29
+  摘要：1991年10月29日，李敖摘录中共在陕西举行“全国贫困山区经济开发经验交流会”的资料，并记国务院贫困地区经济开发领导小组组长陈俊生对《光明日报》所谈大陆贫困地区现状：328个重点扶持贫困县农民人均纯收入比1985年增长53.4%，多数贫困地区温饱已解决，但仍有3500万人年均收入低于人民币200元。李敖又补记《光明日报》较详细资料，列出五年来贫困人口由1亿零200万减至3500万、扶贫政策由生活救济转向经济开发与技术投入，以及贴息贷款、以工代赈和各地投入等数据。
+  人物：李敖、陈俊生
+  地点：陕西、大陆、大别山区、井冈山区、沂蒙山区、武陵山区、太行山区、吕梁山区、甘肃、宁夏、闽西南、闽东北
+  标签：reading-news、mainland-china、poverty、guangming-daily、statistics、economic-development
+  视图：随写录线、读报线、大陆观察线、经济统计线
+  作品：李敖随写录前集、大陆温饱问题
+  交叉引用：li-ao-suixielu-qianji-1991-09-22-notes-mainland-rural-official-statistics、li-ao-suixielu-qianji-1991-09-23-notes-lee-kuan-yew-on-china-economic-reform
+  来源：李敖随写录前集 / 111.大陆温饱问题 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/111.大陆温饱问题.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-29-notes-guangming-daily-mainland-poverty-wenbao-data
+- 1991年10月30日 | 李敖与小屯逛新光三越，看朱铭不锈钢管人体作品后批不成东西
+  精度：day；可靠度：confirmed；排序日期：1991-10-30
+  摘要：1991年10月30日，李敖与小屯去逛新开幕的新光三越百货公司，看到其中所谓艺馆展出朱铭以不锈钢管扭曲出的人体作品。李敖认为这些作品丑陋不堪，并在随写中比较说，朱铭先前以木塑成名，虽造型千篇一律，尚有始作之功；如今改调为不锈钢管人体，显得不伦不类，所谓艺术不过自欺欺人。
+  人物：李敖、小屯、王小屯、朱铭
+  地点：台北、新光三越百货公司
+  标签：xiaotun、shin-kong-mitsukoshi、ju-ming、art-exhibition、sculpture、art-criticism
+  视图：随写录线、小屯线、文化评论线、外出线
+  作品：李敖随写录前集、朱铭新作不成东西
+  交叉引用：li-ao-suixielu-qianji-1991-10-13-xiaotun-tamsui-sihai-yijia-sea-view、li-ao-suixielu-qianji-1991-10-06-xiaotun-palace-museum-sale-no-yuanfeng-leigao、li-ao-wuwu-diary-1991-03-11-xiaotun-sogo-cabbage
+  来源：李敖随写录前集 / 113.朱铭新作不成东西 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/113.朱铭新作不成东西.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-30-xiaotun-shin-kong-mitsukoshi-ju-ming-art-critique
+- 1991年10月30日 | 李敖记黄君璧去世，并借宋美龄学画故事评其书画人格
+  精度：day；可靠度：confirmed；排序日期：1991-10-30
+  摘要：1991年10月30日，李敖在随写中记黄君璧已于前一天去世，评论黄君璧画画尚好，字却小家子气。李敖又讲宋美龄学画本欲请溥心畬教，溥心畬要求拜师磕头，宋美龄不肯，才改请黄君璧；李敖据此说人格高下仅此一事可知。
+  人物：李敖、黄君璧、宋美龄、溥心畬
+  地点：台北、台湾
+  标签：art-criticism、obituary、huang-junbi、soong-mayling、pu-xinyu、calligraphy
+  视图：随写录线、艺术评论线、宋美龄线、讣闻线
+  作品：李敖随写录前集、评黄君璧
+  交叉引用：li-ao-suixielu-qianji-1991-09-22-comments-soong-mayling-us-departure-special-plane、li-ao-suixielu-qianji-1991-09-28-comments-liang-surong-soong-mayling-handshake、qiushi-xinyu-1991-07-21-soong-may-ling-english-speech
+  来源：李敖随写录前集 / 112.评黄君璧 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/112.评黄君璧.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-30-comments-huang-junbi-death-calligraphy-soong-mayling-pu-xinyu
+- 1991年10月30日 | 李敖读大坌坑遗址遭破坏报道，质问尤清有何感想
+  精度：day；可靠度：confirmed；排序日期：1991-10-30
+  摘要：1991年10月30日，李敖读《自立晚报》报道：明年底台湾一项国际性历史考古会议指定台北县八里乡大坌坑遗址为观摩地点，但县府与乡公所调查发现，八万七千平方米遗址近五分之四山坡地已被滥葬、滥垦破坏；原本保存尚好的大坌坑文化、圆山文化与十三行文化堆积，已被破坏殆尽。李敖在随写中质问，身为台北县县长的尤清看了作何感想，并批这种无能的民进党官僚与国民党官僚无异。
+  人物：李敖、尤清
+  地点：台北县、八里乡、大坌坑遗址、观音山、台湾
+  标签：reading-news、youqing、archaeology、dabenkeng-site、heritage-destruction、dpp-bureaucrat
+  视图：随写录线、读报线、尤清线、文物古迹线、民进党线
+  作品：李敖随写录前集、尤清作何感想？
+  交叉引用：li-ao-suixielu-qianji-1991-09-01-visits-yehliu-with-xiaotun、li-ao-suixielu-qianji-1991-09-16-comments-zili-lin-yuti-taipei-county-post、jingfumen-1991-04-30-writes-small-minded-taiwan-politicians
+  来源：李敖随写录前集 / 115.尤清作何感想？ / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/115.尤清作何感想？.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-30-comments-youqing-dabenkeng-site-destruction
+- 1991年10月30日 | 李敖读宋楚瑜称“咱们都是台湾人”，批其取媚台湾人
+  精度：day；可靠度：confirmed；排序日期：1991-10-30
+  摘要：1991年10月30日，李敖读《中央日报》报道，国民党中央秘书长宋楚瑜对二届国代提名同志说要胸怀“台湾情、中国心”，以闽南语说“咱们都是台湾人”，并号召候选人效法蒋经国以台湾人自居的精神。李敖在随写中批评，宋楚瑜这种党棍口口声声反“台独”，其实只是取媚台湾人；他认为关键不在是不是台湾人，而在以政治利害冒充台湾人，未免太不要脸。
+  人物：李敖、宋楚瑜、蒋经国
+  地点：台北、台湾
+  标签：reading-news、soong-chuyu、kuomintang、taiwanese-identity、anti-taiwan-independence、political-criticism
+  视图：随写录线、读报线、宋楚瑜线、国民党线、台湾身份线
+  作品：李敖随写录前集、宋楚瑜自承台湾人
+  交叉引用：qiushi-xinyu-1990-01-12-soong-chu-yu-kneels-at-mourning-hall、qianqiu-wansui-1991-04-30-185-writes-changed-face-politician-in-kmt、li-ao-suixielu-qianji-1991-09-22-comments-soong-mayling-us-departure-special-plane
+  来源：李敖随写录前集 / 114.宋楚瑜自承台湾人 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/114.宋楚瑜自承台湾人.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-30-comments-soong-chuyu-taiwanese-chinese-heart
+- 1991年10月31日 | 李敖读文化经费报道，质疑十四亿五千万能否建设出文化
+  精度：day；可靠度：confirmed；排序日期：1991-10-31
+  摘要：1991年10月31日，李敖读报得知台湾省许多县市民众每年每人分配到的文化经费不到五十元，文建会委员会议审查通过“中央及地方文化基金充实计划”，拟以六年编列十四亿五千万元补助各县市并充实“国家文艺基金”和“文化建设基金”。李敖在随写中反问，即使每人每年分到五十元以上又如何，即使花上十四亿五千万元，建设出来的难道就是文化吗。
+  人物：李敖
+  地点：台湾
+  标签：reading-news、cultural-policy、funding、cultural-criticism
+  视图：随写录线、读报线、文化评论线
+  作品：李敖随写录前集、文化费
+  交叉引用：li-ao-suixielu-qianji-1991-10-26-comments-lee-tenghui-yang-lihua-opera-national-theater、li-ao-suixielu-qianji-1991-10-30-xiaotun-shin-kong-mitsukoshi-ju-ming-art-critique
+  来源：李敖随写录前集 / 116.文化费 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/116.文化费.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-31-comments-cultural-fund-spending-not-culture
+- 1991年10月31日 | 李敖读李登辉率众赴慈湖“谒陵”报道，并讽张学良有墓不扫
+  精度：day；可靠度：confirmed；排序日期：1991-10-31
+  摘要：1991年10月31日，李敖记蒋介石105岁冥诞当天，李登辉率五院院长和军政首长赴大溪慈湖“谒陵”，又转往头寮陵寝向蒋经国致意。李敖在随写中嘲讽这是“两代马屁，一体均沾”；他又记张学良也去慈湖“谒陵”，认为张学良放着自己父亲之墓不扫，却去谒仇人之陵，实在莫名其妙。
+  人物：李敖、李登辉、蒋介石、蒋经国、张学良、郝柏村、梁肃戎、林洋港、孔德成、黄尊秋、邱进益、蒋纬国、朱士烈、陈履安、陈燊龄、蒋仲苓
+  地点：台北、大溪、慈湖、头寮陵寝
+  标签：reading-news、cihu、chiang-kai-shek、lee-tenghui、zhang-xueliang、political-ritual
+  视图：随写录线、读报线、李登辉线、张学良线、蒋介石批判线
+  作品：李敖随写录前集、有墓不扫，却去“谒陵”
+  交叉引用：li-ao-zhaji-1986-04-08-compares-tiananmen-anniversary-and-cihu-tomb-visits、li-ao-suixielu-qianji-1991-10-01-deng-yukun-liu-junde-lunch-consults-zhang-xueliang-drama、li-ao-suixielu-qianji-1991-10-26-comments-lee-tenghui-yang-lihua-opera-national-theater
+  来源：李敖随写录前集 / 117.有墓不扫，却去“谒陵” / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/117.有墓不扫，却去“谒陵”.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-31-comments-cihu-tomb-visit-and-zhang-xueliang
+- 1991年11月1日 | 李敖在随写中定下“孤独、快乐、定稿”的专著生活技术
+  精度：day；可靠度：confirmed；排序日期：1991-11-01
+  摘要：1991年11月1日，李敖在随写中整理自己的写作生活技术：专注才有专著，有专著才有生命意义，而生命意义就在以孤独写专著为主的生活中。为达此目标，他要求自己先尽量进入“快乐的孤独”，谢绝能谢绝掉的一切人际活动，推开次级资料的搜集，并以定稿检验每天成绩；最后把方法概括为“孤独、快乐、定稿”六字。
+  人物：李敖
+  地点：台北
+  标签：writing、self-discipline、solitude、final-draft、life-method、creative-routine
+  视图：随写录线、写作线、自我定位线、工作方法线
+  作品：李敖随写录前集、1991年11月1日
+  交叉引用：li-ao-suixielu-qianji-1991-10-22-writes-self-discipline-darkness-revenge、li-ao-suixielu-qianji-1991-10-29-declines-soviet-british-newspaper-interviews-and-lectures、li-ao-suixielu-qianji-1991-10-19-writes-big-shot-fantasia-self-portrait
+  来源：李敖随写录前集 / 118.1991年11月1日 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/118.1991年11月1日.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-11-01-writes-solitude-happiness-final-draft-discipline
+- 1991年11月1日 | 李敖读高巍和儿子高登辉命名报道，质疑二十年前因李登辉得名
+  精度：day；可靠度：confirmed；排序日期：1991-11-01
+  摘要：1991年11月1日，李敖读《中国时报》报道阿美族青年高巍和晋升少将，并介绍其父高赢清曾任平地山胞议员，长子高登辉之名据称来自二十年前父亲认识李登辉总统。李敖在随写中表示不相信这个命名说法，反问二十年前李登辉“又是老几”，把这条报道视为命名怪谈。
+  人物：李敖、高巍和、高赢清、高登辉、李登辉、高志翔
+  地点：台东县、东河乡、隆昌村、台湾
+  标签：reading-news、lee-tenghui、name-story、indigenous-taiwan、china-times
+  视图：随写录线、读报线、李登辉线、命名评论线
+  作品：李敖随写录前集、命名怪谈
+  交叉引用：li-ao-suixielu-qianji-1991-10-26-comments-lee-tenghui-yang-lihua-opera-national-theater、li-ao-suixielu-qianji-1991-09-12-comments-jiang-zemin-drill-and-lee-tenghui-exercise
+  来源：李敖随写录前集 / 119.命名怪谈 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/119.命名怪谈.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-11-01-comments-gao-denghui-name-after-lee-tenghui
 - 1991年11月1日星期五 | 李敖创办《李敖求是评论》月刊
   精度：day；可靠度：confirmed；排序日期：1991-11-01
   摘要：李敖在1991年11月1日创办《李敖求是评论》，希望把更多精力集中于“成一家之言”的评论与未来的重要小说、思想史写作。
@@ -120471,6 +121303,1046 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/018.笔伐（1982-1992·47到57岁）.txt
   数据：data/timeline-events-fourth-book.json#book4-1991-11-01-li-ao-qiushi-review-starts
+- 1991年11月2日 | 李敖因吴大宇死讯想起吴铸人、吴庆宜和张忠琳旧事
+  精度：day；可靠度：confirmed；排序日期：1991-11-02
+  摘要：1991年11月2日，李敖得知国民党监察委员、中央评议委员吴大宇去世，家奠与大殓在荣民总医院怀恩堂举行。李敖在随写中评论吴大宇是国民党党棍，四十多年监委不过尸位；同时因死讯拉杂想起旧事：吴大宇之子吴铸人是他的中学好友，但大学后渐少来往，毕业后三十多年无往来；四十年前他在吴家见墙上挂黄山谷诗，曾一背成诵至今不忘；吴大宇小女儿吴庆宜善画，曾速写胡适像送他，后来读心理系并嫁给叶洪江；吴铸人追张忠琳时，还曾请李敖代转情书，后来被张忠琳抛下。
+  人物：李敖、吴大宇、吴铸人、吴庆宜、张忠琳、胡适、叶洪江、黄山谷
+  地点：台北、荣民总医院、吴大宇家
+  标签：obituary、memory、wu-dayu、wu-zhuren、wu-qingyi、zhang-zhonglin、old-friends
+  视图：随写录线、交游线、旧友线、吴大宇线、张忠琳线
+  作品：李敖随写录前集、吴大宇死了
+  交叉引用：daxue-houqi-yi-1959-07-09-visits-wu-dayu-home-and-praises-wu-qingyi-talk-and-girls-progress、daxue-houqi-yi-1959-04-29-asks-wu-qingyi-to-invite-wu-zhuren-and-friends-praise-passion-cohesion、preofficer-diary-1960-02-28-meets-wu-qingyi-wu-home-zhuren-absent-calls-youmei-zhuren-zhou-home-jokes-zhang-aiying-bag-skirt-and-goes-ma-dinner、daxue-houqi-jia-1958-09-26-guangcheng-dinner-and-zhang-zhonglin-thought
+  来源：李敖随写录前集 / 120.吴大宇死了 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/120.吴大宇死了.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-11-02-wu-dayu-death-recalls-wu-zhuren-qingyi-zhang-zhonglin
+- 1991年11月3日 | 李敖读胡茵梦提前出关报道，批其闭关与气功表演妖妄做作
+  精度：day；可靠度：confirmed；排序日期：1991-11-03
+  摘要：1991年11月3日，李敖读前一天《中国时报》《胡茵梦悄悄提前出关》一文，摘出胡茵梦闭关期间以按穴道、捶打、以气治病、木栅山散步、与“护关”妹妹传纸条沟通、后来因妹妹和母亲担心而开口讲话等情节。李敖在随写中评论这些仍是一片妖妄做作；他同时承认胡茵梦的长处是不断力争上游、努力上进，但认为她不幸走上妖妄做作之路，误以妖妄之业为进步和寄托，归根到底是无知妄作。
+  人物：李敖、胡茵梦、胡因梦
+  地点：台北、木栅山
+  标签：reading-news、hu-yinmeng、retreat、qigong、china-times、criticism
+  视图：随写录线、读报线、胡茵梦线、文化批判线
+  作品：李敖随写录前集、“胡茵梦悄悄提前出关”
+  交叉引用：book5-1980-02-08-dinner-with-hu-meets-baiyun、book4-1980-05-06-li-marries-hu-yinmeng、book4-1980-08-28-li-announces-divorce-from-hu
+  来源：李敖随写录前集 / 121.“胡茵梦悄悄提前出关” / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/121.“胡茵梦悄悄提前出关”.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-11-03-comments-hu-yinmeng-retreat-early-exit
+- 1991年11月4日 | 李敖读王康陆土城看守所报道，重申“黑牢”说起于自己揭发
+  精度：day；可靠度：confirmed；排序日期：1991-11-04
+  摘要：1991年11月4日，李敖读《联合报》报道：羁押在台北土城看守所的“台独联盟”总部秘书长王康陆写英文信给在美国的儿子，称在看守所受到有尊严待遇；所长胡击雷则说“黑牢”时代已过去，监所以人性管理。李敖在随写中回应，“黑牢”之说起于他揭发台北土城看守所的文章，十年下来所长仍如此胡扯；他认为狱政败坏，李元簇、施启扬等都不能辞其咎。
+  人物：李敖、王康陆、胡击雷、李元簇、施启扬
+  地点：台北、土城看守所、美国、新泽西州
+  标签：reading-news、black-prison、tucheng-detention-center、wang-kanglu、prison-reform、legal
+  视图：随写录线、读报线、法律线、黑牢线、狱政线
+  作品：李敖随写录前集、“黑牢”时代过去了？
+  交叉引用：book3-1982-02-10-li-released-attacks-prison、book4-1981-protected-confinement-in-xiaoyi-cell-32、book4-1981-shi-baicang-smuggles-materials-for-prison-essay、qianqiu-wansui-1989-12-03-087-writes-black-prison-anecdotes、li-ao-suixielu-qianji-1991-10-25-comments-shih-chiyang-not-taiwan-traitor-li-zhenyuan-attack
+  来源：李敖随写录前集 / 122.“黑牢”时代过去了？ / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/122.“黑牢”时代过去了？.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-11-04-comments-tucheng-black-prison-claim-wang-kanglu
+- 1991年11月5日 | 李敖摘录《海外侨报》论台湾当局纵容“台独”活动
+  精度：day；可靠度：confirmed；排序日期：1991-11-05
+  摘要：1991年11月5日，李敖读10月31日《海外侨报》，摘录其关于“台湾当局纵容‘台独’活动”的论证，并称值得重视。文中认为，国民党纵容“台独”活动升级，是把“台独”作为顽拒统一的筹码；黄信介所谓“我搞台独，他搞独台”暴露民进党与国民党政治目标其实相近；又说民进党推动“台独条款”既为造势，也借北京和国民党反应骗取选民同情，而国民党长期高压统治、二二八与白色恐怖造成的大量不满者，正提供民进党的基本选民和同情基础。此条按李敖剪读/摘录海外报刊政治论证入库。
+  人物：李敖、黄信介、李登辉、张俊宏
+  地点：台湾、北京、海外
+  标签：reading-news、overseas-qiaobao、taiwan-independence、dpp、kuomintang、unification
+  视图：随写录线、读报线、台独批判线、民进党线、国民党线
+  作品：李敖随写录前集、“台湾当局纵容‘台独’活动”
+  交叉引用：li-ao-suixielu-qianji-1991-10-24-zhou-yu-night-talk-dpp-taiwan-independence-line、li-ao-suixielu-qianji-1991-10-13-notes-dpp-fifth-congress-hunren-list、jingfumen-1991-03-27-writes-taiwan-independence-for-whom
+  来源：李敖随写录前集 / 123.“台湾当局纵容‘台独’活动” / line 4
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/123.“台湾当局纵容‘台独’活动”.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-11-05-notes-overseas-qiaobao-taiwan-authorities-tolerate-taiwan-independence
+- 1991年11月6日 | 李敖从陈律师处出来逛牯岭街书店，与老板笑谈学历史不能发财
+  精度：day；可靠度：confirmed；排序日期：1991-11-06
+  摘要：1991年11月6日，李敖从陈律师处出来后，去牯岭街书店逛。书店老板还记得他，说多年不见，学历史的只有李先生发了财；李敖笑答，如果发了财，绝非由于学历史，因为学历史只能翻旧账，怎么能发财。此条记录李敖当天外出、逛旧书店及与书店老板的短对话。
+  人物：李敖、陈律师、牯岭街书店老板
+  地点：台北、牯岭街
+  标签：bookstore、guling-street、daily-life、history、conversation
+  视图：随写录线、日常线、书店线、牯岭街线
+  作品：李敖随写录前集、贩书者言
+  交叉引用：thought-answer-1962-11-12-finds-syphilis-monograph-with-shangqin、zaonian-riji-1961-03-17-buys-books-on-way-to-national-central-library
+  来源：李敖随写录前集 / 125.贩书者言 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/125.贩书者言.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-11-06-guling-street-bookstore-boss-history-fortune-joke
+- 1991年11月6日 | 李敖读郝柏村答询二二八应愧疚说，称其为迟来的道歉
+  精度：day；可靠度：confirmed；排序日期：1991-11-06
+  摘要：1991年11月6日，李敖读到行政院长郝柏村前一天答复立委林聪明质询时表示，政府当年在大陆失败，对大陆同胞应感愧疚；对于二二八事件中受害的本省同胞与外省同胞，也同样应该表示愧疚。李敖在随写中称这是四十多年后的道歉，是迟来的道歉；并补记《立法院公报》第八十卷第九十期中的郝柏村原句，保留其关于国家统一、大陆失败检讨与二二八受害者愧疚的完整语境。
+  人物：李敖、郝柏村、林聪明、蒋介石
+  地点：台北、大陆、台湾
+  标签：reading-news、hau-peitsun、228、legislative-yuan、apology、political-accountability
+  视图：随写录线、读报线、二二八线、郝柏村线、政治责任线
+  作品：李敖随写录前集、迟来的道歉
+  交叉引用：li-ao-suixielu-qianji-1991-10-23-calls-lin-yongfeng-about-li-zhenyuan-copying-228-medical-book、li-ao-wuwu-diary-1991-03-21-congmin-call-228-materials-difficulty、qianqiu-wansui-1991-03-02-133-writes-lesson-for-hao-baicun
+  来源：李敖随写录前集 / 124.迟来的道歉 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/124.迟来的道歉.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-11-06-comments-hau-peitsun-late-apology-228
+- 1991年11月7日 | 李敖记五十二军擦车老兵谈撤退砍断攀绳，并据回忆录补正军头掩饰
+  精度：day；可靠度：confirmed；排序日期：1991-11-07
+  摘要：1991年11月7日，李敖在随写中记录一名每天清早在附近擦车维生的五十二军老兵前一天与他小聊，说营口、上海大撤退时，船开前上面下令砍断攀绳，使仍在上船的战友纷纷落海。李敖随即对读刘玉章《戎马五十年》、《陆军五二军剿匪作战经过》、刘毅夫《常胜将军刘玉章》、张晴光《血战余生》以及廖传枢《蒋军第五十二军营口漏网记》，指出这些军头或相关回忆均不提砍断攀绳一事，认为擦车老兵之言可以补正有意掩饰。此条以李敖听老兵亲述并作史料核对为中心，长篇军史材料不拆为旁人独立年表。
+  人物：李敖、五十二军老兵、刘玉章、刘毅夫、张晴光、廖传枢、马继壮
+  地点：台北、营口、上海
+  标签：conversation、military-history、memoir-check、retreat、civil-war
+  视图：随写录线、老兵谈话线、军史考辨线、国共内战线
+  作品：李敖随写录前集、五十二军老兵之言
+  交叉引用：li-ao-wuwu-diary-1990-05-19-hears-taxi-veteran-on-liu-yuzhang、preofficer-diary-1960-02-21-records-liu-yuzhang-executing-regardless-of-relatives、qianqiu-wansui-1983-10-22-067-writes-liu-guangtou-escape-story
+  来源：李敖随写录前集 / 126.五十二军老兵之言 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/126.五十二军老兵之言.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-11-07-hears-fifty-second-army-veteran-rope-cutting-and-corrects-memoirs
+- 1991年11月8日 | 李敖摘录林聪明“宜兰独立说”，称其反讽台独甚有趣
+  精度：day；可靠度：confirmed；排序日期：1991-11-08
+  摘要：1991年11月8日，李敖摘录立委林聪明11月5日在立法院质询郝柏村时的一段反讽：若公民投票可以决定成立“台湾共和国”，宜兰也可因地形封闭、交通条件、国际港口、口音差异和地方自治诉求而先办投票，建立“兰阳共和国”，作为台独论的试金石。李敖在随写中判断，林聪明之言甚有反讽之趣；理论上若“台湾独立”之说能成立，则“台独”之后“宜独”也难阻止，等于以子之矛攻子之盾。
+  人物：李敖、林聪明、郝柏村
+  地点：立法院、宜兰、台湾、澎湖、金门、马祖、台北、花莲
+  标签：reading-news、legislative-yuan、taiwan-independence、referendum、satire
+  视图：随写录线、读报线、台独批判线、公投线、林聪明线
+  作品：李敖随写录前集、宜兰独立说
+  交叉引用：li-ao-suixielu-qianji-1991-11-06-comments-hau-peitsun-late-apology-228、li-ao-suixielu-qianji-1991-11-05-notes-overseas-qiaobao-taiwan-authorities-tolerate-taiwan-independence、jingfumen-1991-03-27-writes-taiwan-independence-for-whom
+  来源：李敖随写录前集 / 127.宜兰独立说 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/127.宜兰独立说.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-11-08-comments-lin-congming-yilan-independence-satire
+- 1991年11月9日 | 叶菊兰来电李敖未回，李敖记其记者会上称消息来自“郑南榕托梦”
+  精度：day；可靠度：confirmed；排序日期：1991-11-09
+  摘要：1991年11月9日，李敖在随写中记叶菊兰7日偕施明德、林浊水在立法院记者会宣称，陈长文赴大陆洽谈两岸合作打击犯罪时，郝柏村曾托其转私函给李鹏，并携带打击台独报告与两岸直航报告。记者追问消息来源时，叶菊兰称有权威管道；再追问“权威管道”为何，她竟说是“郑南榕托梦”。同日叶菊兰来电找李敖，李敖没有回电，并惋惜她虽是优秀女强人，却涉身政治、为群小所浼而入歧途。此条把“托梦”限定在李敖摘记的记者会答问语境中，同时记录当天来电未回。
+  人物：李敖、叶菊兰、郑南榕、陈长文、郝柏村、李鹏、施明德、林浊水、李登辉
+  地点：立法院、大陆、台湾
+  标签：phone-call、press-conference、taiwan-independence、cross-strait、dream-claim
+  视图：随写录线、叶菊兰线、郑南榕线、电话线、两岸线
+  作品：李敖随写录前集、“郑南榕托梦”！
+  交叉引用：li-ao-suixielu-qianji-1991-09-30-ye-julan-call-xiaotun-says-li-asleep-and-reflects-tangwai、book4-1989-03-06-last-phone-call-with-zheng-nanjung、book4-1989-04-07-zheng-nanjung-self-immolates-source4、book4-deep-1986-06-03-li-supports-zheng-nanrong-after-arrest、li-ao-suixielu-qianji-1991-11-05-notes-overseas-qiaobao-taiwan-authorities-tolerate-taiwan-independence
+  来源：李敖随写录前集 / 128.“郑南榕托梦”！ / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/128.“郑南榕托梦”！.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-11-09-ye-julan-call-not-returned-and-zheng-nanrong-dream-source
+- 1991年11月10日 | 李敖晚饭后偶见台视播《大小姐与流浪汉》，批朱延平公然抄袭卓别林
+  精度：day；可靠度：confirmed；排序日期：1991-11-10
+  摘要：1991年11月10日，李敖晚饭后偶然看到台视播放国片《大小姐与流浪汉》，该片由朱延平导演，许不了、胡茵梦主演。李敖在随写中批评片中竟公然抄袭卓别林电影，认为这种国片导演胆大妄为。此条记录李敖当晚观看电视电影及即时影评，不扩写为朱延平或电影史独立事件。
+  人物：李敖、朱延平、许不了、胡茵梦、卓别林
+  地点：台湾
+  标签：television、film、film-criticism、chaplin、taiwan-cinema
+  视图：随写录线、媒体观看线、电影批评线、胡茵梦线
+  作品：李敖随写录前集、导演朱延平抄袭卓别林、大小姐与流浪汉
+  交叉引用：li-ao-suixielu-qianji-1991-11-03-comments-hu-yinmeng-retreat-early-exit、book2-evidence-1980-08-28-li-hu-divorce、preofficer-diary-1959-12-02-humor-letter-discusses-truman-baogong-hitler-chengyaojin-women-cleopatra-josephine-rosa-and-comic-figures
+  来源：李敖随写录前集 / 129.导演朱延平抄袭卓别林 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/129.导演朱延平抄袭卓别林.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-11-10-watches-taiwan-tv-movie-and-criticizes-zhu-yanping-chaplin-plagiarism
+- 1991年11月10日 | 李敖摘录《中国时报》所刊李光耀《时代》访谈，称其论中苏改革颇有独见
+  精度：day；可靠度：confirmed；排序日期：1991-11-10
+  摘要：1991年11月10日，李敖读《中国时报》刊出李光耀日前接受《时代周刊》访问，称其颇有独见，并摘录其关于自由市场、多党民主、中国大陆经济重建、苏联改革与政治开放时序的问答。李光耀在访谈中认为，中国人与越南人并不反对自由市场，抗拒的是多党民主；中国大陆农村人口生活改善而城市知识分子不满，若邓小平死时能安排无争议强人接班才可乐观；戈尔巴乔夫政治开放提高期待却削弱有效政府，使改革失去条件。此条按李敖读报摘录思想材料入库，不把访谈问答拆为多条国际政治节点。
+  人物：李敖、李光耀、邓小平、戈尔巴乔夫、叶利钦、谢瓦讷兹
+  地点：中国大陆、北韩、越南、苏联、新加坡
+  标签：reading-news、lee-kuan-yew、china-reform、soviet-reform、political-thought
+  视图：随写录线、读报线、李光耀线、中国改革线、苏联改革线
+  作品：李敖随写录前集、李光耀的独见
+  交叉引用：li-ao-suixielu-qianji-1991-09-23-notes-lee-kuan-yew-on-china-economic-reform、qiushi-xinyu-1991-08-10-lee-kuan-yew-on-mainland-stagnation、li-ao-suixielu-qianji-1991-09-18-writes-on-ccp-human-rights-li-peng-major-and-constitution
+  来源：李敖随写录前集 / 130.李光耀的独见 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/130.李光耀的独见.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-11-10-notes-lee-kuan-yew-time-interview-on-china-soviet-reform
+- 1991年11月11日 | 李敖录读者政明来信追问《李敖求是评论》迟到，并写“一旦为贼常成靶”
+  精度：day；可靠度：confirmed；排序日期：1991-11-11
+  摘要：1991年11月11日，李敖录读者政明先生来信。政明说自己原为《求是报》订户，停刊后余款自动转为《李敖求是评论》订户；8月20日停刊启事称新月刊10月出版，但到11月8日仍未收到，因而怀疑是名字遗漏或特务拦截。李敖说明《李敖求是评论》出书迟到这次与“特务搞鬼”无关，但此例显示国民党作恶多端后即使想“立地成佛”也不便宜，于是在随写中写下“一旦为贼常成靶”。
+  人物：李敖、政明
+  地点：台湾
+  标签：reader-letter、publishing、qiushi-review、qiushi-bao、kuomintang
+  视图：随写录线、读者来信线、办刊线、求是报线、国民党批判线
+  作品：李敖随写录前集、“一旦为贼常成靶”、李敖求是评论、求是报
+  交叉引用：book4-1991-11-01-li-ao-qiushi-review-starts、book4-1991-02-27-qiushi-daily-starts、li-ao-suixielu-qianji-1994-09-22-writes-preface-and-reviews-qiushi-review、li-ao-suixielu-qianji-1991-09-01-sets-small-notes-beside-big-books
+  来源：李敖随写录前集 / 131.“一旦为贼常成靶” / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/131.“一旦为贼常成靶”.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-11-11-reader-letter-qiushi-review-delay-once-thief-always-target
+- 1991年11月12日 | 李敖读陈水扁指责许阿桂选择性执法声明，认为批许对、批监察院欠当
+  精度：day；可靠度：confirmed；排序日期：1991-11-12
+  摘要：1991年11月12日，李敖读到陈水扁当天发表声明，除谴责监察院滥权外，还指出检察官许阿桂侦办华隆案时，对张建邦及其家人不起诉，却只对翁大铭集团起诉，是明显的“选择性执法”；陈水扁又批许阿桂言行不一、双重标准，并要求说明华隆案内幕。李敖在随写中判断，陈水扁指责许阿桂是指责对了，但指责监察院却欠当；他认为问题重点在弹劾理由是否成立，若理由对，就不必追问背后动力，并说这次弹劾理由站得住。
+  人物：李敖、陈水扁、许阿桂、张建邦、翁大铭
+  地点：台湾
+  标签：reading-news、legal、control-yuan、hualon-case、chen-shuibian
+  视图：随写录线、读报线、司法批评线、监察院线、华隆案线
+  作品：李敖随写录前集、陈水扁指责许阿桂选择性执法
+  交叉引用：qianqiu-wansui-1991-03-09-170-writes-zhang-jianbang-scandal-lin-zhengjie-silent、li-ao-suixielu-qianji-1991-11-06-comments-hau-peitsun-late-apology-228
+  来源：李敖随写录前集 / 133.陈水扁指责许阿桂选择性执法 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/133.陈水扁指责许阿桂选择性执法.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-11-12-comments-chen-shuibian-xu-agui-selective-enforcement-hualon
+- 1991年11月12日 | 邻居周劢夫来谈书画，并称佩服李敖挺身而斗的精神
+  精度：day；可靠度：confirmed；排序日期：1991-11-12
+  摘要：1991年11月12日，李敖的邻居周劢夫教授来谈书画。李敖称周劢夫收藏本领很可佩服，但其收藏品中掺入不少党国大员之作，未免失之过宽。周劢夫则说，他最佩服李敖挺身而斗的精神。此条为明确来访与谈话节点。
+  人物：李敖、周劢夫
+  地点：台北
+  标签：visit、conversation、calligraphy-painting、collection
+  视图：随写录线、来访线、书画线、邻居线
+  作品：李敖随写录前集、周劢夫来谈
+  交叉引用：-
+  来源：李敖随写录前集 / 132.周劢夫来谈 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/132.周劢夫来谈.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-11-12-zhou-maifu-visits-talks-calligraphy-painting-and-praises-li-fighting-spirit
+- 1991年11月13日 | 李敖与台大第一宿舍第四室老友聚餐，笑称专心写书不交新朋友
+  精度：day；可靠度：confirmed；排序日期：1991-11-13
+  摘要：1991年11月13日，台大第一宿舍第四室老友孙英善自美国来台，中午李敖与同室老友陈彦增、陈良榘聚餐。席间李敖笑说自己专心写书，不交新朋友，老朋友也“遇缺不补”；新朋不交、旧友不补，是参悟人生后一乐。他又把朋友视为写作的敌人，认为朋友太耽误时间，并借胡适交游满天下、写书失败作反面例子。此条以老友聚餐和李敖在席间的写作生活判断为中心。
+  人物：李敖、孙英善、陈彦增、陈良榘、胡适
+  地点：台北、台大第一宿舍第四室
+  标签：lunch、old-friends、ntu-dormitory、writing-discipline、friendship
+  视图：随写录线、老友线、第四室线、聚餐线、写作纪律线
+  作品：李敖随写录前集、第四室老友聚餐
+  交叉引用：book4-1959-08-02-ntu-friends-sendoff-to-taichung-source4、daxue-houqi-yi-1959-01-25-third-year-room-chief-and-fourth-room-poem-by-qiqing-and-xiaodiu、li-ao-suixielu-qianji-1991-09-07-chen-youliang-visits-and-yehliu-lighthouse、daxue-houqi-jia-1958-08-30-sun-yingshan-treats-chi-di-lian、sui-qianwan-2015-02-01-lunches-with-chen-yanzeng-and-sketches-on-ipad
+  来源：李敖随写录前集 / 134.第四室老友聚餐 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/134.第四室老友聚餐.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-11-13-fourth-room-old-friends-lunch-and-no-new-friends-writing-discipline
+- 1991年11月14日 | 李敖读南方朔、司马文武文字，称许阿桂与《活水》批评皆自己有文在先
+  精度：day；可靠度：confirmed；排序日期：1991-11-14
+  摘要：1991年11月14日，李敖读《中国时报》副刊南方朔《忍者桂现象析义》，摘录其论许阿桂、孙震被错误与无知造就为“奇怪英雄”的三点要旨，并称写得不错。李敖接着说明南方朔本名王杏庆，是他的朋友和被告，曾与司马文武等诽谤他而被他告成；如今他们一起办《新新闻》，听说貌合神离。李敖在随写中说，自己早已指出许阿桂不对，开了先河，王杏庆这种文字只是后起之秀；又摘司马文武7月29日《别让文化活水流成政治死水》批文化总会《活水》、朱熹学说研讨会和意识形态操作，认为这些“死水”与捧朱熹问题也都是李敖有文在先，司马文武虽写得不错，也只是后起之秀。
+  人物：李敖、南方朔、王杏庆、许阿桂、孙震、司马文武、江春男、郝柏村、蒋介石、李登辉、朱熹、王阳明
+  地点：台湾、台大
+  标签：reading-news、media-criticism、legal-dispute、hualon-case、cultural-politics
+  视图：随写录线、读报线、南方朔线、司马文武线、许阿桂线、文化总会线
+  作品：李敖随写录前集、后起之秀的文字、忍者桂现象析义
+  交叉引用：li-ao-suixielu-qianji-1991-11-12-comments-chen-shuibian-xu-agui-selective-enforcement-hualon、li-ao-suixielu-qianji-1991-10-27-comments-sun-chen-ntu-resignation-show-shameless、book4-1987-05-07-diary-on-litigation-as-joyful-justice、li-ao-zhaji-1984-05-14-receives-wang-xingqing-stroke-rumor-call、li-ao-wuwu-diary-1990-08-03-declines-new-news-lien-chan-interview-and-zhongwu-call、qianqiu-wansui-1990-09-02-119-writes-hao-baicun-wang-yangming
+  来源：李敖随写录前集 / 135.后起之秀的文字 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/135.后起之秀的文字.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-11-14-comments-nanfang-shuo-sima-wenwu-later-followers-after-li
+- 1991年11月15日 | 李敖因李璜死讯附李世杰拟告李璜状，并评其以子之矛攻子之盾
+  精度：day；可靠度：confirmed；排序日期：1991-11-15
+  摘要：1991年11月15日，李敖在随写中记青年党头子李璜去世，享年九十六岁；又回忆几年前李宁访问李璜后告诉他，李璜谈到李敖时压低声音、面露恐惧，李敖闻之大笑。李敖接着说李世杰生前一再怂恿他告李璜，并自告奋勇代写告发状；如今李世杰、李璜都已去世，他特附李世杰遗作。该状以李敖为告发人、李璜为被告，借第三势力、战盟、警总判决等材料拟控李璜叛乱。李敖最后评此状立意甚逗、有奇趣，是以子之矛攻子之盾；又说青年党以反国民党而兴，却以为国民党跑龙套而亡，李璜之死可谓及身而绝。
+  人物：李敖、李璜、李世杰、李宁、曾琦、左舜生、张发奎、黄旭初、韦贽唐、张君劢、王同荣、陈石奇、范子文、满素玉、张用寰
+  地点：台湾、香港、台北、新店
+  标签：death-news、legal-draft、third-force、youth-party、kuomintang
+  视图：随写录线、死讯触发回忆线、李世杰线、青年党线、法律文书线
+  作品：李敖随写录前集、李世杰拟告李璜状
+  交叉引用：li-ao-wuwu-diary-1990-07-29-hears-li-shijie-death-and-calls-xuyi、qiushi-xinyu-1989-11-01-li-shih-chieh-letter-on-yu-case、micang-diary-1986-02-05-reads-li-shijie-parole-news-on-train
+  来源：李敖随写录前集 / 136.李世杰拟告李璜状 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/136.李世杰拟告李璜状.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-11-15-li-huang-death-attaches-li-shijie-draft-complaint
+- 1991年11月16日 | 尹章义来电致敬，读李敖《泪眼中的废除刑法第100条运动》后感慨
+  精度：day；可靠度：confirmed；排序日期：1991-11-16
+  摘要：1991年11月16日，尹章义来电向李敖“致敬”，说他读了李敖刊于《李敖求是评论》的《泪眼中的废除刑法第100条运动》后很感慨，认为大学教授们当年不敢挺身反抗，今日反倒出来作秀，实在可议；他又说自己不是轻易许人的人，但佩服李敖的特殊风骨。李敖随后补记尹章义在辅仁大学历史系执教，以外省人研究台湾史，功力深厚，使台湾同道学者瞠乎其后，并提到尹章义曾私下说自己搞台湾史有比台湾人还行的抱负；李敖认为这话带点赌气，但事实上成绩过人。
+  人物：李敖、尹章义
+  地点：辅仁大学、台湾
+  标签：phone-call、qiushi-review、article-100、taiwan-history、academic
+  视图：随写录线、电话线、刑法一百条线、求是评论线、台湾史线
+  作品：李敖随写录前集、尹章义来电、李敖求是评论、泪眼中的废除刑法第100条运动
+  交叉引用：book4-1991-11-01-li-ao-qiushi-review-starts、li-ao-suixielu-qianji-1991-11-11-reader-letter-qiushi-review-delay-once-thief-always-target、li-ao-suixielu-qianji-1991-10-09-comments-100-action-alliance-cancels-counter-parade
+  来源：李敖随写录前集 / 139.尹章义来电 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/139.尹章义来电.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-11-16-yin-zhangyi-calls-after-reading-article-100-essay
+- 1991年11月16日 | 李敖读造桥段车祸报道，批《中央日报》死亡人数比各报多六人
+  精度：day；可靠度：confirmed；排序日期：1991-11-16
+  摘要：1991年11月16日，李敖读到前一天山线铁路造桥段大车祸报道，注意到各报都登死亡三十人，唯独《中央日报》以头条称“乘客三十六人不幸丧生”，比别人多死六人。他在随写中说这虽是报道小事，却足见石永贵主持下党报的颟顸。此条按李敖读报并批党报差错入库，不另拆车祸本身。
+  人物：李敖、石永贵
+  地点：造桥、台湾
+  标签：reading-news、central-daily-news、media-criticism、railway-accident、kuomintang-newspaper
+  视图：随写录线、读报线、中央日报线、媒体批评线
+  作品：李敖随写录前集、《中央日报》多死六个
+  交叉引用：li-ao-suixielu-qianji-1991-10-04-comments-central-daily-zhu-gaozheng-spitting、li-ao-wuwu-diary-1991-01-10-shi-yonggui-acquittal-record、qiushi-xinyu-1991-07-18-zhou-enlai-not-nankai-university-graduate
+  来源：李敖随写录前集 / 137.《中央日报》多死六个 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/137.《中央日报》多死六个.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-11-16-comments-central-daily-zaoqiao-crash-death-count-error
+- 1991年11月16日 | 陈良埙自美返台午请李敖和小屯吃粤菜，李敖追记其孙案冤狱后玩世不恭
+  精度：day；可靠度：confirmed；排序日期：1991-11-16
+  摘要：1991年11月16日，陈良埙自美国返台，中午请李敖和小屯吃粤菜。李敖在随写中说，陈良埙出狱以后玩世不恭，每次见面便与他互开玩笑，还曾买玩具大便丢在朋友家中作弄朋友，七十老翁犹如顽童。李敖又因这顿饭想起陈良埙当年任孙立人侍从参谋、绰号“副司令”，本来前程可为，却因一场冤狱一切成空；但他能以玩世自得，也算不幸中之幸。
+  人物：李敖、陈良埙、王小屯、孙立人
+  地点：台湾、美国
+  标签：lunch、old-friend、sun-liren-case、wrongful-imprisonment、xiaotun
+  视图：随写录线、饭局线、陈良埙线、孙立人案线、小屯线
+  作品：李敖随写录前集、陈良埙玩世不恭
+  交叉引用：shilun-xinyu-1989-08-16-sun-liren-case-remarks、dream-awake-1990-03-after-chen-liangxun-writes-li-ao-about-sun-liren-case、li-ao-wuwu-diary-1991-01-29-liangxun-diamond-lunch-xuyi-dai-tianhai-juezi-visit、li-ao-wuwu-diary-1991-02-06-night-dinner-with-meng-liangxun-xiaosu
+  来源：李敖随写录前集 / 138.陈良埙玩世不恭 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/138.陈良埙玩世不恭.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-11-16-chen-liangxun-returns-from-us-lunch-with-li-and-xiaotun
+- 1991年11月17日 | 李敖与陈彦增全家在松江路特厚餐馆吃饭，听徐茂雄讲“解牛经”
+  精度：day；可靠度：confirmed；排序日期：1991-11-17
+  摘要：1991年11月17日，李敖与陈彦增全家在松江路一二四巷特厚餐馆吃饭。主持人是淡水工商讲师徐茂雄，也是郭文华的同事；徐茂雄亲自下厨做牛肉，由头到尾“目有全牛”，无不可食。李敖自称素来不考究吃，只是听徐茂雄讲“解牛经”。
+  人物：李敖、陈彦增、陈彦增全家、徐茂雄、郭文华
+  地点：台北、松江路一二四巷、特厚餐馆、淡水工商
+  标签：dinner、restaurant、chen-yanzeng、food、conversation
+  视图：随写录线、饭局线、陈彦增线、饮食线
+  作品：李敖随写录前集、解牛经
+  交叉引用：li-ao-suixielu-qianji-1991-11-13-fourth-room-old-friends-lunch-and-no-new-friends-writing-discipline、sui-qianwan-2015-02-01-lunches-with-chen-yanzeng-and-sketches-on-ipad、daxue-zhaji-1957-05-31-writes-about-chen-yanzeng-xiao-laodi
+  来源：李敖随写录前集 / 141.解牛经 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/141.解牛经.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-11-17-chen-yanzeng-family-tehou-restaurant-xu-maoxiong-beef-talk
+- 1991年11月17日 | 李敖早餐边看书边听新闻，闻西哈努克流亡期间子死孙亡而叹政治斗争凶残
+  精度：day；可靠度：confirmed；排序日期：1991-11-17
+  摘要：1991年11月17日，李敖早餐时边吃边看书，顺便听到新闻报道：西哈努克这次返国告诉人民，他有五名儿女、十四名孙儿都在流亡期间被活活打死。李敖在随写中感叹政治斗争凶残至此。此条按李敖早餐时听新闻并作感慨入库，不拆为柬埔寨政治事件年表。
+  人物：李敖、西哈努克
+  地点：柬埔寨、台湾
+  标签：heard-news、breakfast、sihanouk、political-violence
+  视图：随写录线、听新闻线、政治斗争线
+  作品：李敖随写录前集、西哈努克子死孙亡
+  交叉引用：-
+  来源：李敖随写录前集 / 140.西哈努克子死孙亡 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/140.西哈努克子死孙亡.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-11-17-breakfast-hears-sihanouk-children-grandchildren-killed-news
+- 1991年11月17日 | 李敖读《时报周刊》杨凡访问稿，回忆杨凡到家拍照搬乱藏书
+  精度：day；可靠度：confirmed；排序日期：1991-11-17
+  摘要：1991年11月17日，李敖读到当天出版的《时报周刊》第七一六期访问香港摄影家杨凡，并摘录杨凡近作摄影专辑《美丽传奇》中谈拍李敖的一段：朋友警告杨凡小心被李敖告，杨凡称不怕，又写李敖家书多、厨房厕所都像图书馆，并记李敖右手贴跌打膏、笑说因和女朋友在床上玩被踢脱臼。李敖随即回忆杨凡来家拍照那天，为了摄影效果把书搬得天翻地覆，害他花两三个小时恢复原状；看到照片的人会以为他的书很乱，其实大谬不然。他由此说摄影为求真而失真，并称杨凡博学风趣，和他一见如故。
+  人物：李敖、杨凡
+  地点：李敖家、香港、台湾
+  标签：reading-magazine、photography、home-visit、times-weekly、media
+  视图：随写录线、读刊线、摄影线、居家藏书线
+  作品：李敖随写录前集、摄影家杨凡、美丽传奇
+  交叉引用：book4-1979-11-11-times-weekly-cover-li-and-hu、book7-1979-11-11-times-weekly-features-hu-yinmeng-holding-bridge-card-with-li-photo
+  来源：李敖随写录前集 / 142.摄影家杨凡 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/142.摄影家杨凡.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-11-17-reads-times-weekly-yang-fan-and-remembers-photo-session
+- 1991年11月18日 | 李敖读郭廷亮坠车报道，称不信其被谋害
+  精度：day；可靠度：confirmed；排序日期：1991-11-18
+  摘要：1991年11月18日，李敖读报得知，曾因“匪谍案”被判刑的孙立人旧部郭廷亮，自台北搭复兴号返中坜时在列车启动后跳车摔成重伤，转送台北荣总后生命垂危；家属和昔日袍泽对坠车原因议论纷纷，女儿郭志强质疑铁路单位说法，并怀疑郭廷亮因携带有关孙案不利当局的重要文件而“怀璧其罪”。李敖在随写中明确说，他不相信郭廷亮被谋害；若要谋害早该动手，不必延至今日，何况孙案中郭廷亮方面的主要证据早已由曾心仪和李敖公布，并无所谓还有重要文件。
+  人物：李敖、郭廷亮、郭志强、孙立人、何治军、曾心仪
+  地点：台北、中坜、省立桃园医院、台北荣总
+  标签：reading-news、sun-liren-case、train-accident、political-case、commentary
+  视图：随写录线、读报线、孙立人案线、郭廷亮线、阴谋说辨析线
+  作品：李敖随写录前集、我不信郭廷亮被谋害
+  交叉引用：dream-awake-1990-03-after-chen-liangxun-writes-li-ao-about-sun-liren-case、qianqiu-wansui-1988-context-190-li-publishes-sun-liren-and-sun-case-studies、qianqiu-wansui-1991-07-17-190-li-decides-to-publish-wang-shancong-report、shilun-xinyu-1989-08-16-sun-liren-case-remarks
+  来源：李敖随写录前集 / 143.我不信郭廷亮被谋害 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/143.我不信郭廷亮被谋害.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-11-18-comments-guo-tingliang-train-fall-not-murder
+- 1991年11月19日 | 李敖收到电影工作者投书，存证批中影《推手》获金马奖提名的双重标准
+  精度：day；可靠度：confirmed；排序日期：1991-11-19
+  摘要：1991年11月19日，李敖收到署名“一群居住在台湾的电影艺术工作者”的投书。投书质疑中央电影公司发行的《推手》按新闻局电影处规定本应因使用大陆籍主要演员王伯昭而禁演，却获得多项金马奖提名；并对比汤臣电影公司、叶洪伟导演《五个女人和一根绳子》因大陆籍演员戏多而遭禁演，指责行政院新闻局和国民党党营中影有双重标准、只许官家放火不许百姓点灯。李敖在随写中说，中央电影公司是国民党党营机构，在金马奖上受新闻局照顾如此，已犯众怒；他存此投书为证，以见双方水平。
+  人物：李敖、王伯昭、江奉琪、李安、叶洪伟、郎雄
+  地点：台湾、纽约、东京
+  标签：received-letter、film、golden-horse-awards、cmpc、kuomintang、media-policy
+  视图：随写录线、投书线、电影线、国民党线、新闻局线
+  作品：李敖随写录前集、国民党的电影问题、推手
+  交叉引用：micang-diary-1985-03-10-records-cmpc-cultural-city-tax-evasion、li-ao-suixielu-qianji-1991-11-10-watches-taiwan-tv-movie-and-criticizes-zhu-yanping-chaplin-plagiarism
+  来源：李敖随写录前集 / 145.国民党的电影问题 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/145.国民党的电影问题.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-11-19-receives-film-workers-letter-on-pushing-hands-cmpc-double-standard
+- 1991年11月19日 | 李敖接谢聪敏来电邀赴彰化助选演讲，因厌恶政治拒绝
+  精度：day；可靠度：confirmed；排序日期：1991-11-19
+  摘要：1991年11月19日，谢聪敏来电，约李敖到彰化县为他演讲助选。李敖在随写中记下自己拒绝邀请，并说明理由是厌恶政治。此条延续十月谢聪敏来电谈彰化选情难处的线索，只记录李敖接电和拒绝助选，不把谢聪敏竞选活动另拆。
+  人物：李敖、谢聪敏
+  地点：彰化县
+  标签：phone-call、xie-congmin、campaign、changhua、refusal
+  视图：随写录线、电话线、谢聪敏线、选举线
+  作品：李敖随写录前集、谢聪敏来电
+  交叉引用：li-ao-suixielu-qianji-1991-10-05-xie-congmin-call-changhua-national-assembly-campaign
+  来源：李敖随写录前集 / 146.谢聪敏来电 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/146.谢聪敏来电.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-11-19-xie-congmin-call-invites-changhua-campaign-speech-refused
+- 1991年11月19日 | 李敖摘录邓朴方受难访谈，批共产党斗争同志残忍
+  精度：day；可靠度：confirmed；排序日期：1991-11-19
+  摘要：1991年11月19日，李敖读《中国时报》转引香港《明报》访问邓朴方的内容，摘录邓小平长子邓朴方在文革中被红卫兵折磨、从楼上推下而半身瘫痪，以及其后与父母重逢、邓小平和卓琳照料病情、1979年至1980年间赴加拿大手术治疗等经历。李敖在随写中评论，共产党斗争敌人残忍尚可说，斗争同志残忍不可说；一个党堕落到这样斗争自己人、使人终生瘫痪，再有任何理由也说不过去。此条按李敖读报摘录并作政治判断入库；原文末尾另见“1991年1月19日”孤行，未采为本条日期。
+  人物：李敖、邓朴方、邓小平、卓琳、马昆、哥顿·岩士唐、杜鲁道
+  地点：江西、北京301医院、新奥尔良、加拿大、渥太华、香港
+  标签：reading-news、cultural-revolution、deng-pufang、deng-xiaoping、political-violence
+  视图：随写录线、读报线、文革线、中共批判线、邓小平线
+  作品：李敖随写录前集、邓朴方忆受难岁月
+  交叉引用：woshi-tiananmen-1989-06-07-communists-duped-twice、woshi-tiananmen-1989-07-14-french-revolution-and-china、woshi-tiananmen-1989-07-23-dont-be-too-pessimistic-about-china
+  来源：李敖随写录前集 / 144.邓朴方忆受难岁月 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/144.邓朴方忆受难岁月.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-11-19-notes-deng-pufang-mingpao-interview-cultural-revolution-suffering
+- 1991年11月20日 | 李敖接江述凡来电，记其“不看西湖、享受西湖”之语
+  精度：day；可靠度：confirmed；排序日期：1991-11-20
+  摘要：1991年11月20日，江述凡来电对李敖说，自己不是去看西湖，而是去享受西湖。李敖在随写中称此语真能得山水之乐。本条按李敖接电话并记友人谈话处理，西湖游赏为江述凡谈话内容，不另作李敖旅行事件。
+  人物：李敖、江述凡
+  地点：西湖
+  标签：phone-call、jiang-shufan、west-lake、travel-comment
+  视图：随写录线、电话线、友人谈话线、山水评论线
+  作品：李敖随写录前集、享受西湖
+  交叉引用：-
+  来源：李敖随写录前集 / 147.享受西湖 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/147.享受西湖.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-11-20-jiang-shufan-call-on-enjoying-west-lake
+- 1991年11月21日 | 李敖从陈律师处出来去看苏秋镇，劝其参选别打“李敖牌”
+  精度：day；可靠度：confirmed；排序日期：1991-11-21
+  摘要：1991年11月21日，李敖从陈律师处出来后去看苏秋镇，钟廖权也在座。苏秋镇向李敖谈他听到的台湾贿选选风，说不贿选反被选民认为不是玩真的；李敖在随写中感叹民风令人哭笑不得。李敖随后告诉苏秋镇，参选别打“李敖牌”，因为自己仇人满天下，借此助选反会得不偿失，并以美国打中共牌比喻后患无穷。
+  人物：李敖、陈律师、苏秋镇、钟廖权
+  地点：台湾
+  标签：visit、su-qiuzhen、campaign、bribery-election、political-advice
+  视图：随写录线、会谈线、苏秋镇线、选举线、台湾政治线
+  作品：李敖随写录前集、苏秋镇谈台湾的选风
+  交叉引用：li-ao-suixielu-qianji-1991-10-10-comments-toilet-rights-battle-100-action-alliance、li-ao-wuwu-diary-1990-05-06-visits-su-qiuzhen-before-beijing-trip
+  来源：李敖随写录前集 / 148.苏秋镇谈台湾的选风 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/148.苏秋镇谈台湾的选风.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-11-21-visits-su-qiuzhen-and-warns-not-to-use-li-ao-card
+- 1991年11月21日 | 李敖读《中央日报》法官升迁报道，称高院法官不愿升三审因收红包方便
+  精度：day；可靠度：confirmed；排序日期：1991-11-21
+  摘要：1991年11月21日，李敖读《中央日报》关于最高法院与二审资深法官、庭长待遇职等相近，导致二审法官不愿“高升”三审的报道。李敖在随写中判断，二审法官不愿升迁的原因之一，是在高等法院拿红包方便；高院法官有实权，又能直接接触当事人和律师，上下其手机会较多。此条记录李敖读报后的司法腐败评论。
+  人物：李敖
+  地点：台湾
+  标签：reading-news、judiciary、corruption、red-envelope、central-daily-news
+  视图：随写录线、读报线、司法线、高院线、红包线
+  作品：李敖随写录前集、高院法官与红包
+  交叉引用：li-ao-suixielu-qianji-1991-11-21-excerpts-huang-dianhua-letter-and-criticizes-xu-agui-hualon-case
+  来源：李敖随写录前集 / 149.高院法官与红包 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/149.高院法官与红包.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-11-21-comments-central-daily-high-court-judges-red-envelopes
+- 1991年11月21日 | 李敖摘录黄奠华投书，批许阿桂在华隆案中不公正
+  精度：day；可靠度：confirmed；排序日期：1991-11-21
+  摘要：1991年11月21日，李敖读《联合报》刊登台中高分院庭长黄奠华投书，认为这篇评许阿桂承办华隆案的文字“颇能持平”，并在随写中全文摘录。投书指出许阿桂在张家股票、张家宜传真、翁有铭交保羁押、游显德人头等环节中的查证与执法疑点。李敖读后评论，许阿桂在“两坏之间”掩护一方、起诉另一方，仍浪得英雄之名，足见台湾舆论与社会判断混乱。此条按李敖读报摘录与评论处理，黄奠华投书内部案情不拆为多条。
+  人物：李敖、黄奠华、许阿桂、翁有铭、张建邦、张家宜、姜文锱、游显德、陈水扁
+  地点：台中市、台湾、宜兰
+  标签：reading-news、judiciary、hualon-case、xu-agui、huang-dianhua、legal-commentary
+  视图：随写录线、读报线、司法线、许阿桂线、华隆案线
+  作品：李敖随写录前集、黄奠华法官的持平之言
+  交叉引用：li-ao-suixielu-qianji-1991-11-12-comments-chen-shuibian-xu-agui-selective-enforcement-hualon、li-ao-suixielu-qianji-1991-11-14-comments-nanfang-shuo-sima-wenwu-later-followers-after-li、li-ao-suixielu-qianji-1991-11-21-comments-central-daily-high-court-judges-red-envelopes
+  来源：李敖随写录前集 / 150.黄奠华法官的持平之言 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/150.黄奠华法官的持平之言.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-11-21-excerpts-huang-dianhua-letter-and-criticizes-xu-agui-hualon-case
+- 1991年11月22日 | 李敖记廖书雯以算命理由参选，批台湾迷信风气
+  精度：day；可靠度：confirmed；排序日期：1991-11-22
+  摘要：1991年11月22日，李敖在随写中记前台北市警察局局长廖兆祥之女廖书雯声称“代父出征”竞选“国大”代表，并说算命者预言其三十岁后有名，自己在宿命论和机缘巧合下决定参选。李敖随即评论这种公开以算命作竞选理由而不自觉的现象，显示台湾迷信风气。本条只按李敖摘记候选人言论并作社会评论处理。
+  人物：李敖、廖书雯、廖兆祥
+  地点：台北市、台湾
+  标签：commentary、campaign、fortune-telling、superstition、national-assembly
+  视图：随写录线、选举线、迷信批判线、国大代表线
+  作品：李敖随写录前集、妖妄的国代候选人
+  交叉引用：-
+  来源：李敖随写录前集 / 152.妖妄的国代候选人 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/152.妖妄的国代候选人.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-11-22-comments-liao-shuwen-fortune-telling-candidacy-superstition
+- 1991年11月22日 | 李敖接王企祥来电，得知其责王敬羲在香港盗印李敖书十余年未付款
+  精度：day；可靠度：confirmed；排序日期：1991-11-22
+  摘要：1991年11月22日，王企祥来电告诉李敖，他因弟弟王敬羲在香港盗印李敖的书十几年来未付一块钱，大感不平，已当面责怪王敬羲不义；其母也不认同王敬羲所为。李敖把这通电话作为王敬羲长期盗印和版权旧账的补记。
+  人物：李敖、王企祥、王敬羲、王母
+  地点：香港
+  标签：phone-call、wang-qixiang、wang-jingxi、hong-kong、pirated-books、copyright
+  视图：随写录线、电话线、王企祥线、王敬羲线、版权线
+  作品：李敖随写录前集、王企祥责王敬羲
+  交叉引用：book5-1966-wang-jingxi-hongkong-publishes-jiegubufengjin-no-royalties、qianqiu-wansui-1971-051-jiegubufengjin-published-in-hongkong
+  来源：李敖随写录前集 / 151.王企祥责王敬羲 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/151.王企祥责王敬羲.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-11-22-wang-qixiang-call-rebukes-wang-jingxi-for-hongkong-pirated-books
+- 1991年11月23日 | 李敖读天帝教《中央日报》广告，称其以祈祷化解“台独危机”的方法荒谬
+  精度：day；可靠度：confirmed；排序日期：1991-11-23
+  摘要：1991年11月23日，李敖摘录天帝教首席使者涵静老人李玉阶11月22日在《中央日报》刊出的大幅通告。通告以民进党“台独条款”引发朝野对立为背景，要求教徒延长紧急祈祷诵诰半个月，祈求化解危机。李敖在随写中评论，这件通告可算中国宗教史的笑料；他判断李玉阶“化解的目标可算正确”，但以祈祷达成政治目标的方法荒谬，因此称其为“妄人”。此条按李敖读广告和宗教政治评论处理。
+  人物：李敖、李玉阶
+  地点：台湾
+  标签：reading-news、tiantijiao、li-yujie、religion、taiwan-independence、dpp
+  视图：随写录线、读报线、宗教批判线、台独条款线、民进党线
+  作品：李敖随写录前集、天帝教与妄人
+  交叉引用：qiushi-xinyu-1989-10-04-trip-to-taichung-and-li-tz-yi、qiushi-xinyu-1989-11-13-li-yu-chieh-more-upright-than-campaign-oath
+  来源：李敖随写录前集 / 153.天帝教与妄人 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/153.天帝教与妄人.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-11-23-comments-tiantijiao-ad-prayer-response-to-taiwan-independence-crisis
+- 1991年11月24日 | 邓维桢午前来访谈许信良与新潮流斗争，李敖以唇亡齿寒回应
+  精度：day；可靠度：confirmed；排序日期：1991-11-24
+  摘要：1991年11月24日午前，邓维桢来访李敖，谈前几天许信良去看他时透露与新潮流系斗争的内幕：许信良称自己并非需要张俊宏做秘书长，而是不愿张俊宏政治生命被挤掉，所以要在党主席任上与新潮流系斗争；邓维桢还评价张俊宏面恶心善，不善政治斗争。李敖当场回应，许信良深知“唇亡齿寒”的道理；邓维桢又说现代英雄只有几个礼拜寿命，搞政治者每天以刺激求售，变成商品。本条按邓维桢到李敖处谈话和李敖回应处理。
+  人物：李敖、邓维桢、许信良、张俊宏
+  地点：台湾
+  标签：visit、deng-weizhen、hsu-hsinliang、new-tide-faction、dpp、political-conversation
+  视图：随写录线、会谈线、邓维桢线、许信良线、新潮流线、民进党线
+  作品：李敖随写录前集、邓维桢谈许信良
+  交叉引用：li-ao-wuwu-diary-1990-11-09-xu-xinliang-deng-weizhen-talk、jingfumen-1989-07-21-writes-worrying-new-tide-faction、jingfumen-1991-03-31-writes-dpp-route-debate、li-ao-suixielu-qianji-1991-10-24-zhou-yu-night-talk-dpp-taiwan-independence-line
+  来源：李敖随写录前集 / 155.邓维桢谈许信良 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/155.邓维桢谈许信良.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-11-24-deng-weizhen-visits-discusses-hsu-hsinliang-new-tide-faction
+- 1991年11月24日 | 李敖读周公大礼祭祖报道，称台湾开倒车并再批蒋彦士
+  精度：day；可靠度：confirmed；排序日期：1991-11-24
+  摘要：1991年11月24日，李敖读《中央日报》报道中华圣教会前一日在中正文化中心广场以所谓失传三千年的周公大礼举办祭祖大典，蒋彦士、邱创焕、吴敦义等分别主祭，主办方称要推行礼教、慎终追远、建立三纲五常。李敖在随写中把这则报道视为台湾开倒车开到三千年前，并说自己早就批评蒋彦士，如今又添新证。本条只收李敖读报评论，不拆祭典为外部独立事件。
+  人物：李敖、蒋彦士、邱创焕、吴敦义
+  地点：中正文化中心广场、台湾
+  标签：reading-news、ancestor-ceremony、confucian-rite、jiang-yanshi、cultural-politics
+  视图：随写录线、读报线、礼教批判线、蒋彦士线
+  作品：李敖随写录前集、周礼祭祖，浑蛋集合
+  交叉引用：li-ao-suixielu-qianji-1991-09-22-comments-soong-mayling-us-departure-special-plane
+  来源：李敖随写录前集 / 154.周礼祭祖，浑蛋集合 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/154.周礼祭祖，浑蛋集合.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-11-24-comments-central-daily-zhou-rite-ancestor-ceremony-jiang-yanshi
+- 1991年11月25日 | 李敖收到刘福增两张竞选请帖，批大学教授涉身政治抢骨头
+  精度：day；可靠度：confirmed；排序日期：1991-11-25
+  摘要：1991年11月25日，李敖记老同学刘福增分别在11日、20日寄来请帖，约他出席11月17日“国大代表候选人刘福增竞选总部成立大会”和11月26日“刘福增教授参选新竹县国代台北后援会”；两场活动均由李远哲以主持或名誉会长身份介入。李敖在随写中评论，刘福增不失为质直读书人，却涉身政治至此，大学教授不专业学术、维护尊严，反与市井俗人抢骨头，是台湾特有怪现象。
+  人物：李敖、刘福增、李远哲
+  地点：新竹县、台北、台湾
+  标签：invitation、liu-fuzeng、lee-yuan-tseh、campaign、national-assembly、political-commentary
+  视图：随写录线、请帖线、刘福增线、李远哲线、选举线、大学教授线
+  作品：李敖随写录前集、刘福增的请帖
+  交叉引用：micang-diary-1985-01-26-hears-weizhen-report-liu-fuzeng-criticism-and-responds、li-ao-suixielu-qianji-1991-09-29-comments-lee-yuan-tseh-senminism-huang-zhugui
+  来源：李敖随写录前集 / 156.刘福增的请帖 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/156.刘福增的请帖.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-11-25-receives-liu-fuzeng-campaign-invitations-and-criticizes-professor-politics
+- 1991年11月26日 | 李敖剪存《纽约侨报》寺泽国子一人办《犹他日报》材料并表示佩服
+  精度：day；可靠度：confirmed；排序日期：1991-11-26
+  摘要：1991年11月26日，李敖剪到7月间《纽约侨报》一则关于美国盐湖城日文报纸《犹他日报》的材料：九十三岁的寺泽国子已担任社长五十多年，从编辑、排字到印刷几乎一人维持报纸，并与女儿和子收集日本领事馆新闻简报、送报给当地老一辈日本侨民。李敖在随写中评论，这位日本老太太的精神真可佩服。本条按李敖剪报、摘录并评论处理，不把寺泽国子生平另拆为李敖年表外部事件。
+  人物：李敖、寺泽国子、和子
+  地点：美国、犹他州、盐湖城、日本领事馆
+  标签：clipping、newspaper、utah-nippo、terazawa-kuniko、journalism、overseas-japanese
+  视图：随写录线、剪报线、报业线、海外侨民线
+  作品：李敖随写录前集、一人办报五十年
+  交叉引用：-
+  来源：李敖随写录前集 / 157.一人办报五十年 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/157.一人办报五十年.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-11-26-clips-new-york-qiaobao-utah-nippo-one-person-newspaper
+- 1991年11月27日 | 李敖记《国际先锋论坛报》揭里根二战经历谎言
+  精度：day；可靠度：confirmed；排序日期：1991-11-27
+  摘要：1991年11月27日，李敖摘记本月20日《国际先锋论坛报》副社长本杰明·布雷德利揭发美国总统们谎言的报道，其中说里根曾在1983年白宫接见以色列总理沙米尔时，自称二战期间在欧洲担任通讯部队摄影师并拍摄纳粹集中营惨状；但报道指真相是里根在二战中从未离开美国。此条按李敖读报摘记处理，重点在其保存“美国总统级谎话”材料。
+  人物：李敖、本杰明·布雷德利、里根、沙米尔
+  地点：美国、白宫、欧洲、以色列
+  标签：reading-news、international-herald-tribune、reagan、presidential-lies、world-war-ii
+  视图：随写录线、读报线、美国政治线、谎言材料线
+  作品：李敖随写录前集、美国总统级谎话
+  交叉引用：-
+  来源：李敖随写录前集 / 158.美国总统级谎话 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/158.美国总统级谎话.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-11-27-notes-international-herald-tribune-bradlee-reagan-war-lie
+- 1991年11月28日 | 李敖在随写中借汤卿谋、袁枚感叹读者只部分理解其文章
+  精度：day；可靠度：confirmed；排序日期：1991-11-28
+  摘要：1991年11月28日，李敖在随写中由明末姑苏才子汤卿谋“三副眼泪”谈起，提到文章不遇知己之悲，又转到袁枚这类名满天下的大牌作家，说明即使有名，读者对作者文章深浅的理解也极有限。李敖由此自述，自己以文章名，但读者所知也只是部分，甚至只是一小部分。本条按李敖写作自我认知与读者关系反省处理。
+  人物：李敖、汤卿谋、袁枚
+  地点：姑苏
+  标签：writing、self-reflection、readers、literary-reputation、partial-understanding
+  视图：随写录线、写作线、读者线、自我评价线
+  作品：李敖随写录前集、部分知己
+  交叉引用：-
+  来源：李敖随写录前集 / 159.部分知已 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/159.部分知已.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-11-28-reflects-readers-only-partly-know-li-ao-writings
+- 1991年11月29日 | 李敖坐计程车遇匡学中，听其谈反攻大陆幻觉并回讲白崇禧浇花故事
+  精度：day；可靠度：confirmed；排序日期：1991-11-29
+  摘要：1991年11月29日，李敖坐计程车时碰到以前水晶大厦对面饭馆的匡学中先生；匡学中已改行开车，是烟台人。他向李敖谈1949年十岁来台时，做游击司令的父亲相信蒋介石可以反攻大陆，结果带来的老底子都在家乡菜馆吃光，一二十年后才发现反攻不了大陆；又举小时候想买脚踏车而父亲以“就要回大陆”阻止为例。李敖听后告诉他白崇禧浇花时也被朋友说“就要回大陆了”的故事，借同类笑话回应反攻幻觉。
+  人物：李敖、匡学中、匡学中父亲、蒋介石、白崇禧
+  地点：水晶大厦、烟台、台湾、大陆
+  标签：taxi、conversation、mainland-counterattack、kuang-xuezhong、bai-chongxi、anecdote
+  视图：随写录线、计程车线、口述见闻线、反攻大陆线、白崇禧线
+  作品：李敖随写录前集、开车者言
+  交叉引用：-
+  来源：李敖随写录前集 / 161.开车者言 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/161.开车者言.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-11-29-taxi-talk-with-kuang-xuezhong-and-bai-chongxi-flower-story
+- 1991年11月29日 | 郭律师代李敖假扣押胡秋原新店住宅，李敖听后大笑
+  精度：day；可靠度：confirmed；排序日期：1991-11-29
+  摘要：1991年11月29日，李敖记胡秋原诽谤案刑事判决已确定，胡秋原被判拘役四十天、缓刑两年；民事方面，李敖向胡秋原索赔四百万元。同日上午，郭律师代李敖会同法院执行人员，到台北县新店中央新村第五街十一号胡秋原家，假扣押其住宅产权，胡秋原下楼签字，封条贴在书橱旁边。郭律师把执行经过告诉李敖后，李敖闻之大笑。此条是胡秋原官司链中李敖委任律师执行假扣押的当事节点。
+  人物：李敖、胡秋原、郭律师、胡秋原媳妇、法院执行人员、法院书记官
+  地点：台北县新店、中央新村第五街十一号、胡秋原家
+  标签：legal-action、hu-qiuyuan、provisional-attachment、defamation-case、xindian、lawyer
+  视图：随写录线、法律线、胡秋原线、郭律师线、假扣押线
+  作品：李敖随写录前集、假扣押了胡秋原住宅
+  交叉引用：zaonian-riji-1966-12-09-counterclaim-hu-case-rebukes-hu-qiuyuan-one-and-half-hours、book7-1999-08-27-hu-qiuyuan-loses-final-appeal-and-must-pay-li-ao、book7-1999-12-02-hu-qiuyuan-pays-927261-and-li-ao-removes-seal
+  来源：李敖随写录前集 / 160.假扣押了胡秋原住宅 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/160.假扣押了胡秋原住宅.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-11-29-attaches-hu-qiuyuan-home-in-xindian-defamation-case
+- 1991年11月30日 | 刘辰旦自高雄来访与李敖谈两小时，李敖谈大陆、坐牢旧案与台湾政治
+  精度：day；可靠度：confirmed；排序日期：1991-11-30
+  摘要：1991年11月30日上午，刘辰旦自高雄来访，与李敖谈了两小时。刘辰旦问李敖为何不去大陆看看；李敖笑答，自己一路看台湾已对台湾失望，不要再叫他对大陆失望。李敖又谈到过去与刘辰旦一起坐牢时，被谢聪敏、魏廷朝硬咬成台独分子，当时心里埋怨；但二十年后认识台湾政治人物越多，越发现谢、魏仍是较好的台湾人，而如今台湾玩政治者无所不为。刘辰旦还讲北京见闻和反国民党旧日冒险如没有安全网的空中飞人，李敖记下其“今天安全多了，摔不死的空中飞人谁要看”之喻。
+  人物：李敖、刘辰旦、谢聪敏、魏廷朝、齐白石、齐白石之子
+  地点：高雄、大陆、台湾、北京
+  标签：visit、liu-chendan、prison-friend、political-conversation、taiwan-politics、mainland
+  视图：随写录线、会谈线、刘辰旦线、狱友线、台湾政治线、大陆线
+  作品：李敖随写录前集、刘辰旦来谈
+  交叉引用：book4-1972-02-29-first-secret-trial-sees-liu-chendan、book4-1975-04-25-liu-chendan-sends-birthday-cake、li-ao-wuwu-diary-1991-02-07-chendan-jinjiang-chen-lizhu-visit
+  来源：李敖随写录前集 / 163.刘辰旦来谈 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/163.刘辰旦来谈.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-11-30-liu-chendan-visits-from-kaohsiung-two-hour-talk
+- 1991年11月30日 | 李宁电话中评李敖电视画面与实际模样，李敖自嘲“真人不露相”
+  精度：day；可靠度：confirmed；排序日期：1991-11-30
+  摘要：1991年11月30日，李宁在电话中对李敖说，电视画面可打八十分时，实际人的模样可打一百一十分，并说李敖在电视中的画面还不错。李敖在随写中自称模样其实平凡，看外貌绝对看不出自己这么厉害，于是以“真人不露相”自嘲。本条按李敖接李宁电话及其对自身电视形象的随写自评处理。
+  人物：李敖、李宁
+  地点：-
+  标签：phone-call、li-ning、television-image、self-commentary、appearance
+  视图：随写录线、电话线、李宁线、电视形象线、自我评价线
+  作品：李敖随写录前集、“真人不露相”？
+  交叉引用：book5-1982-03-16-politician-interview-on-performance
+  来源：李敖随写录前集 / 164.“真人不露相”？ / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/164.“真人不露相”？.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-11-30-li-ning-phone-comments-tv-image-and-real-appearance
+- 1991年11月30日 | 李敖读新华社翰园碑林电讯后苦笑，并记陈大络来电未理
+  精度：day；可靠度：confirmed；排序日期：1991-11-30
+  摘要：1991年11月30日，李敖摘录新华社北京25日电，内容说河南开封正在筹建中国翰园碑林，规划收集大量当代与历代书画篆刻碑刻，并提到台湾书法家陈大络寄赠书法作品及相关精印件。李敖读后苦笑，批评“什么时代了”还搞古代碑林式玩意儿，又讥陈大络之流并非所谓台湾著名书法家，把这类作品集体勒石只是斯文扫地、令人恶心。李敖还补记，前一阵子陈大络打电话找他，他没有理会。本条按李敖读电讯评论并补记未回应来电处理。
+  人物：李敖、李公涛、陈大络、袁守谦、马超俊、吴吟世、长安伊知子、崔国日、刘大慰
+  地点：北京、河南开封、龙亭公园、西安、曲阜、台湾、日本、南朝鲜、加拿大
+  标签：reading-news、xinhua、stele-forest、call-not-returned、chen-daluo、calligraphy-criticism
+  视图：随写录线、读报线、书法批判线、碑林线、陈大络线、电话线
+  作品：李敖随写录前集、碑林玩意儿
+  交叉引用：-
+  来源：李敖随写录前集 / 162.碑林玩意儿 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/162.碑林玩意儿.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-11-30-comments-xinhua-hanyuan-stele-forest-and-ignores-chen-daluo-call
+- 1991年12月1日 | 李敖与陈彦增全家吃湖北菜，读王德馨建议避“马克思”字样的审查意见后发笑
+  精度：day；可靠度：confirmed；排序日期：1991-12-01
+  摘要：1991年12月1日，李敖与陈彦增全家吃湖北菜。席间陈彦增交给李敖他在中兴大学法商学院企业管理学系《企业管理学报》的稿本及王德馨教授审查意见书；王德馨建议题目不提“马克思”，改作“麦克斯·韦伯 Max Weber 与其组织管理思想”，李敖看后一笑。李敖随即联想到军阀时期、国民党时期的恐马克思情结，连《马氏文通》、梁实秋译马库斯·奥瑞利阿斯《沉思录》都曾因“马”字遭禁或受池鱼之殃，并评论今日大学教授把马克思改成麦克斯，似仍有残余情结。
+  人物：李敖、陈彦增、陈彦增全家、王德馨、马克思、麦克斯·韦伯、梁实秋、马库斯·奥瑞利阿斯
+  地点：中兴大学法商学院、台湾
+  标签：dinner、chen-yanzeng、manuscript-review、marx、max-weber、censorship-memory、academic-review
+  视图：随写录线、饭局线、陈彦增线、学术审查线、禁忌字线、国民党审查线
+  作品：李敖随写录前集、此马来头大
+  交叉引用：li-ao-suixielu-qianji-1991-09-29-chen-yanzeng-family-tianmu-dinner-and-diaoshen-photo、li-ao-suixielu-qianji-1991-11-17-chen-yanzeng-family-tehou-restaurant-xu-maoxiong-beef-talk、book5-1987-05-liang-copyright-correspondence-after-two-decades
+  来源：李敖随写录前集 / 165.此马来头大 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/165.此马来头大.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-12-01-eats-hubei-food-with-chen-yanzeng-family-and-reads-max-weber-review
+- 1991年12月1日 | 李敖读《联合报》张姓女子法庭露胸抗议案，批国民党法官举轻若重
+  精度：day；可靠度：confirmed；排序日期：1991-12-01
+  摘要：1991年12月1日，李敖读《联合报》报道：台北县金山张姓女子因11月2日在士林分院简易庭抓伤法官、毁损办公室公物，被判有期徒刑七个月；张女听判后不服，在法庭内掀衣露胸抗议，又被法警拖出庭外。李敖在随写中判断，张女行为不能只用“可能患有精神衰弱现象”带过；一些小人物痛恨司法不公、别无他法，才诉诸这种直接方式。他认为若真精神衰弱应送医检查，不能动辄判七个月，使其势必坐牢，并批评国民党法官惯于举轻若重。
+  人物：李敖、张姓女子、士林分院法官、法警
+  地点：台北县金山、士林分院、士林简易庭
+  标签：reading-news、judiciary、court-protest、sentencing、small-people、legal-commentary
+  视图：随写录线、读报线、司法线、小人物线、国民党法官线
+  作品：李敖随写录前集、小人物的抗议方式
+  交叉引用：-
+  来源：李敖随写录前集 / 166.小人物的抗议方式 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/166.小人物的抗议方式.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-12-01-comments-united-daily-zhang-woman-court-protest-seven-month-sentence
+- 1991年12月2日 | 丁颍来访，李敖午请吃饭并听王企祥谈宋美龄秘辛
+  精度：day；可靠度：confirmed；排序日期：1991-12-02
+  摘要：1991年12月2日，丁颍来访，李敖中午请他吃饭，王企祥及丁颍友人周伯乃等在座。王企祥看了李敖在《求是评论》写宋美龄的文字，席间谈到若干宋美龄秘辛，包括顾维钧见宋须经游建文、游建文可陪宋美龄打牌并出入卧室、游建文太太与胡适驻美时期酒会、黄仁泉挂名驻美大使馆领干薪，以及“一二三自由日”谷正纲推王企祥上台讲话而王企祥一言不发、不愿被耍成“反共义士”等。此条按李敖饭局中听王企祥转述并记录处理，不把秘辛内部各事另拆。
+  人物：李敖、丁颍、王企祥、周伯乃、宋美龄、顾维钧、游建文、刘锴、胡适、孔令侃、黄仁泉、黄仁霖、杜鲁门、谷正纲
+  地点：敦化南路安乐大厦、仁爱路、纽约、美国
+  标签：lunch、wang-qixiang、soong-mayling、political-anecdotes、oral-history、qiushi-review
+  视图：随写录线、饭局线、王企祥线、宋美龄线、口述秘辛线
+  作品：李敖随写录前集、宋美龄秘辛、求是评论
+  交叉引用：li-ao-suixielu-qianji-1991-09-22-comments-soong-mayling-us-departure-special-plane、li-ao-suixielu-qianji-1991-09-28-comments-liang-surong-soong-mayling-handshake、li-ao-suixielu-qianji-1991-10-30-comments-huang-junbi-death-calligraphy-soong-mayling-pu-xinyu、qiushi-xinyu-1991-07-21-soong-may-ling-english-speech
+  来源：李敖随写录前集 / 168.宋美龄秘辛 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/168.宋美龄秘辛.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-12-02-hosts-ding-ying-lunch-wang-qixiang-soong-mayling-anecdotes
+- 1991年12月2日 | 李敖读章筠倩讣文与任治平追思文，讥任显群“衣冠冢”与顾正秋名分之争
+  精度：day；可靠度：confirmed；排序日期：1991-12-02
+  摘要：1991年12月2日，李敖读《中央日报》刊出的章筠倩讣文及其小女儿任治平《忆亡母——任显群夫人》。追思文说章筠倩6月28日病逝美国波士顿，并在墓旁为任显群做衣冠冢，以表“结发伉俪死能同穴”；文中还提到任显群与一位平剧名伶的婚外情。李敖在随写中认为题名“任显群夫人”显然是在向顾正秋示威，又指出讣闻由“夫任显群”领衔且加黑框；他回想1975年任显群死后《中央日报》讣闻中“未亡人”项下章筠倩、顾正秋并列，并无侧室之说，如今任显群死后十六年又发生“老公独占”现象，称之为“代母夺父”。
+  人物：李敖、任显群、章筠倩、顾正秋、任治平
+  地点：美国波士顿、香港、台湾
+  标签：reading-news、obituary、ren-xianqun、gu-zhengqiu、family-status、commentary
+  视图：随写录线、读报线、讣文线、任显群线、顾正秋线
+  作品：李敖随写录前集、任显群有“衣冠冢”
+  交叉引用：li-ao-wuwu-diary-1990-05-26-evening-congee-toast-and-gu-zhengqiu-comment
+  来源：李敖随写录前集 / 167.任显群有“衣冠冢” / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/167.任显群有“衣冠冢”.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-12-02-comments-ren-xianqun-clothes-tomb-obituary-and-gu-zhengqiu
+- 1991年12月3日 | 李敖读《世界论坛报》李登辉自称台湾史三大研究者之一，批其厚颜自吹
+  精度：day；可靠度：confirmed；排序日期：1991-12-03
+  摘要：1991年12月3日，李敖读《世界论坛报》报道：李登辉11月29日前往台北新光三越百货公司参观《天下》杂志主办的“发现台湾”巡回摄影展，参观五十分钟并提供回忆中的史实；兴起时又向《天下》发行人殷允芃表示，当前研究台湾史者有中研院曹永河、史迹专家林衡道，以及他自己三人。李敖在随写中批评，李登辉学的是农业经济，竟自吹为台湾史三大有研究者之一，实在厚颜。
+  人物：李敖、李登辉、殷允芃、曹永河、林衡道
+  地点：台北新光三越百货公司、台湾、中研院
+  标签：reading-news、lee-tenghui、taiwan-history、world-forum、commentary
+  视图：随写录线、读报线、李登辉线、台湾史线、自吹批判线
+  作品：李敖随写录前集、李登辉厚颜自吹
+  交叉引用：qiushi-xinyu-1991-08-11-lee-teng-hui-and-hsu-hsin-liang
+  来源：李敖随写录前集 / 169.李登辉厚颜自吹 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/169.李登辉厚颜自吹.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-12-03-comments-world-forum-lee-tenghui-self-praises-taiwan-history-expertise
+- 1991年12月4日 | 刘绍唐电话中向李敖讲“马连良”被校成“马速良”的趣事
+  精度：day；可靠度：confirmed；排序日期：1991-12-04
+  摘要：1991年12月4日，刘绍唐在电话中对李敖讲一则趣事：传记文学社年轻一辈校对已经对过去的人事生疏，校到京戏名角“马连良”时，竟有人改为“马速良”，以为马跑得快才是好马。李敖在随写中评论，此事虽小，可见代沟之大。
+  人物：李敖、刘绍唐、马连良
+  地点：-
+  标签：phone-call、liu-shaotang、proofreading、biographical-literature、generation-gap、peking-opera
+  视图：随写录线、电话线、刘绍唐线、出版校对线、代沟线
+  作品：李敖随写录前集、马速良
+  交叉引用：zaonian-riji-1966-08-20-visits-liu-shaotang-new-home-and-attends-hu-zhiwei-zhao-wannian-wedding
+  来源：李敖随写录前集 / 170.马速良 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/170.马速良.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-12-04-liu-shaotang-call-malianliang-masuliang-generation-gap
+- 1991年12月5日 | 李敖摘记《人民日报》以生存权、犯罪率和流浪汉反击美国人权批评
+  精度：day；可靠度：confirmed；排序日期：1991-12-05
+  摘要：1991年12月5日，李敖摘记12月4日《人民日报》对美式人权的抨击。该署名评论《何以人权监护人不敢谈生存权？》以犯罪率、流浪汉人数、在押人犯比例等指标比较中美，称美国自身人权“一团糟”，却以人权监护人自居指责大陆；文章还把人权理解为足以维持吃住的生存权，并批评美国少数百万富翁不顾一般人死活。此条按李敖剪存/摘录中美人权论战材料处理，未将《人民日报》评论作为李敖本人断言。
+  人物：李敖
+  地点：大陆、美国
+  标签：reading-news、human-rights、right-to-survive、china-us-comparison、peoples-daily
+  视图：随写录线、摘报线、人权线、中美比较线、生存权线
+  作品：李敖随写录前集、人权中美比较论
+  交叉引用：woshi-tiananmen-1991-03-29-further-explanation-on-qian-qichen、woshi-tiananmen-1991-04-28-right-to-survive-is-a-right、ni-bendan-2010-03-13-writes-us-human-rights-record-response
+  来源：李敖随写录前集 / 172.人权中美比较论 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/172.人权中美比较论.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-12-05-notes-peoples-daily-human-rights-china-us-comparison
+- 1991年12月5日 | 李敖摘记蔡万春名下无遗产，二千七百万欠税成呆账
+  精度：day；可靠度：confirmed；排序日期：1991-12-05
+  摘要：1991年12月5日，李敖摘记财政部赋税署长侯伯烈说法：国泰集团创始人蔡万春去世后，由于没有留下遗产，其积欠的二千七百万元税款无法追回。侯伯烈说明，欠税人去世后税款依法应先自遗产扣除，但蔡万春已因中风在床、禁治产宣告十年以上，名下没有财产，加上夫妻离婚、三个儿子分家，这笔欠税遂成呆账。李敖以“大富翁‘穷’死”为题保存此事。
+  人物：李敖、蔡万春、侯伯烈
+  地点：台湾
+  标签：reading-news、tax、tsai-wanchun、cathay-group、bad-debt、wealth
+  视图：随写录线、摘报线、税务线、富豪线
+  作品：李敖随写录前集、大富翁“穷”死
+  交叉引用：-
+  来源：李敖随写录前集 / 173.大富翁“穷”死 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/173.大富翁“穷”死.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-12-05-notes-tsai-wanchun-tax-arrears-become-bad-debt
+- 1991年12月5日 | 陈中雄留下国民党组织战资料，李敖存作“配票作业”证据
+  精度：day；可靠度：confirmed；排序日期：1991-12-05
+  摘要：1991年12月5日，陈中雄给李敖留下一件国民党发动组织战搞选举的资料。资料是一封致革命实践研究院结业学长的信，署名华力进、宋楚瑜、陈金让，要求学长为12月21日国代选举争取四分之三以上席次，检附县市及选区提名同志名单，请其填写能争取的亲友介绍卡，以便组工会运用；信中另附回邮信封和八张“介绍卡”。李敖在随写中表示特予留存，以为国民党“配票作业”存证。
+  人物：李敖、陈中雄、华力进、宋楚瑜、陈金让
+  地点：台湾
+  标签：received-material、chen-zhongxiong、kuomintang、vote-allocation、national-assembly-election、evidence
+  视图：随写录线、资料线、陈中雄线、国民党线、选举线、存证线
+  作品：李敖随写录前集、国民党“配票作业”
+  交叉引用：li-ao-wuwu-diary-1991-03-19-zhongxiong-visit-li-ao-gives-ten-thousand-again、book6-2005-02-23-issues-six-point-statement-to-lock-song-chuyu-into-anti-arms-line
+  来源：李敖随写录前集 / 171.国民党“配票作业” / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/171.国民党“配票作业”.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-12-05-chen-zhongxiong-leaves-kmt-vote-allocation-material
+- 1991年12月6日 | 李敖下午到远东百货买两条西裤，并请售货小姐代改两条旧裤
+  精度：day；可靠度：confirmed；排序日期：1991-12-06
+  摘要：1991年12月6日，李敖在随写中先说明自己生平不考究吃穿，衣服常胡乱买来，懒得订做；还回忆几年前颜宁晚饭后被他搂着回家，路上笑他说“穿的衣服都不是你自己的”，意思是都不合身。当日下午，远东百货公司大廉价，李敖去买现成西裤两条，又请售货小姐把两条旧裤裤腿放长，因为售货小姐说短裤腿已不流行。李敖解释，旧裤穿了十多年有些瘦，新裤流行肥大而较舒适；旧裤舍不得丢，买新裤后代改只要五十元。
+  人物：李敖、颜宁、售货小姐
+  地点：远东百货公司
+  标签：daily-life、shopping、clothing、far-eastern-department-store、yan-ning、frugality
+  视图：随写录线、日常线、购物线、衣着线、颜宁回忆线
+  作品：李敖随写录前集、买新裤，改旧裤
+  交叉引用：-
+  来源：李敖随写录前集 / 174.买新裤，改旧裤 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/174.买新裤，改旧裤.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-12-06-buys-new-trousers-and-alters-old-trousers-at-far-eastern-department-store
+- 1991年12月7日 | 李敖下午与小屯在建国南路信义路口买脚踏车后分骑而归
+  精度：day；可靠度：confirmed；排序日期：1991-12-07
+  摘要：1991年12月7日下午，李敖与小屯到建国南路、信义路口买了一辆脚踏车。车行老板认出李敖，最后算价三千六百元；买成后，李敖与小屯分骑回家。此条按李敖与小屯的日常外出和购物行动记录。
+  人物：李敖、小屯、王小屯、车行老板
+  地点：建国南路信义路口、台北
+  标签：daily-life、shopping、bicycle、xiaotun、jianguo-road、xinyi-road
+  视图：随写录线、日常线、购物线、小屯线、台北动线
+  作品：李敖随写录前集、买脚踏车
+  交叉引用：li-ao-suixielu-qianji-1991-12-06-buys-new-trousers-and-alters-old-trousers-at-far-eastern-department-store、li-ao-suixielu-qianji-1991-10-06-xiaotun-palace-museum-sale-no-yuanfeng-leigao
+  来源：李敖随写录前集 / 178.买脚踏车 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/178.买脚踏车.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-12-07-buys-bicycle-with-xiaotun-at-jianguo-xinyi
+- 1991年12月7日 | 李敖读《中央日报》陈水扁提案冒签报道，批民进党非法代签
+  精度：day；可靠度：confirmed；排序日期：1991-12-07
+  摘要：1991年12月7日，李敖读《中央日报》关于立法院院会的报道与特稿，得知陈水扁所提退辅会案、台翔案出现同一人代签连署的情形，郁慕明当场揭发，李胜峰则反讽民进党“授权”说若成立，执政党也可由书记长一人代表签到。李敖在随写中判断，陈水扁方面在法理上站不住，民进党一旦小人得志便会学国民党，连非法代签和事后狡赖也一模一样。
+  人物：李敖、陈水扁、郁慕明、李胜峰、彭百显
+  地点：立法院、台湾
+  标签：reading-news、chen-shuibian、legislative-yuan、proxy-signature、dpp、political-ethics、legal-commentary
+  视图：随写录线、读报线、陈水扁线、民进党线、立法院线、法理论断线
+  作品：李敖随写录前集、看扁阿扁
+  交叉引用：li-ao-suixielu-qianji-1991-10-13-notes-dpp-fifth-congress-hunren-list、li-ao-suixielu-qianji-1991-10-17-comments-dpp-self-surrender-article-100-childish、li-ao-suixielu-qianji-1991-11-12-comments-chen-shuibian-xu-agui-selective-enforcement-hualon
+  来源：李敖随写录前集 / 176.看扁阿扁 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/176.看扁阿扁.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-12-07-comments-central-daily-chen-shuibian-proxy-signature
+- 1991年12月7日 | 李敖读《联合报》资深监委退职报道，批监察委员拿黑心钱吃白饭
+  精度：day；可靠度：confirmed；排序日期：1991-12-07
+  摘要：1991年12月7日，李敖读《联合报》报道监察院年终检讨会闭幕，行宪后第一届资深监察委员将于12月31日全数退职，报道称其结束四十三年政治生涯。李敖在随写中反驳所谓“高风亮节”，说监察委员只是御用鹰犬，连何济周案、宋英之夫雷震案等涉及自身或同僚的不平都不敢弹劾，更不可能替老百姓伸张，因而批评他们四十三年拿黑心钱吃白饭。
+  人物：李敖、何济周、宋英、雷震
+  地点：监察院、南京、台湾
+  标签：reading-news、control-yuan、senior-representatives、political-criticism、lei-chen
+  视图：随写录线、读报线、监察院线、雷震案线、政治批评线
+  作品：李敖随写录前集、监委拿黑心钱吃白饭
+  交叉引用：qiushi-xinyu-1991-06-09-song-ying-on-fu-cheng-and-lei-chen
+  来源：李敖随写录前集 / 177.监委拿黑心钱吃白饭 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/177.监委拿黑心钱吃白饭.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-12-07-comments-united-daily-retiring-control-yuan-members
+- 1991年12月7日 | 李敖剪存《中国时报》两则大陆亲属来台困厄报道，称可作乱世浩劫死证
+  精度：day；可靠度：confirmed；排序日期：1991-12-07
+  摘要：1991年12月7日，李敖读《中国时报》两则报道并作为“乱世浩劫二例”保存。第一则是前资深国大代表黄显图大陆籍太太周国琼及儿子黄智平去年底来台依亲，黄显图二十多天后病故，母子因不懂继承而被法院强制赶出新店住处，只得由三重市工人邱建全暂时安置在旅社。第二则是八十一岁的周景瑞在大陆苦守四十五年，被在台丈夫贾少锋接来台湾团聚后，因误以为丈夫中风昏迷后已故而上吊死亡。李敖在随写中评论，四十多年乱世浩劫，每家有每家的不幸，把这些特例收集起来，更可为悲欢离合作些“死证”。
+  人物：李敖、黄显图、周国琼、黄智平、邱建全、周景瑞、贾少锋
+  地点：新店市中央新村、木栅、三重市、淡水镇协元里、荣总、大陆、香港、台湾
+  标签：clipping、china-times、family-separation、mainland-relatives、inheritance、chaos-disaster、oral-evidence
+  视图：随写录线、剪报线、乱世浩劫线、两岸亲属线、悲欢离合线
+  作品：李敖随写录前集、乱世浩劫二例
+  交叉引用：-
+  来源：李敖随写录前集 / 175.乱世浩劫二例 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/175.乱世浩劫二例.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-12-07-clips-china-times-two-chaos-disaster-family-separation-cases
+- 1991年12月8日 | 李敖下午与小屯在林森北路买下一只喜马拉雅小公猫
+  精度：day；可靠度：confirmed；排序日期：1991-12-08
+  摘要：1991年12月8日下午，李敖十多年不养猫后，与小屯在林森北路看中一只小公猫。对方原索价一万六千元，最后以一万二千元成交；李敖记下它是10月14日出生的喜马拉雅猫，并说明其头宽圆、脸短眼大，是波斯猫与暹罗猫交配出的品种。他还观察这只猫脸部、耳部、足部、尾部褐色很淡，娇态可爱，并记下售猫者为江西雩都的李台香。
+  人物：李敖、小屯、王小屯、李台香
+  地点：林森北路、台北、江西雩都
+  标签：daily-life、shopping、pet、himalayan-cat、xiaotun、linsen-north-road
+  视图：随写录线、日常线、购物线、小屯线、宠物线
+  作品：李敖随写录前集、买喜马拉雅猫
+  交叉引用：li-ao-suixielu-qianji-1991-12-07-buys-bicycle-with-xiaotun-at-jianguo-xinyi、li-ao-suixielu-qianji-1991-12-06-buys-new-trousers-and-alters-old-trousers-at-far-eastern-department-store
+  来源：李敖随写录前集 / 180.买喜马拉雅猫 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/180.买喜马拉雅猫.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-12-08-buys-himalayan-cat-with-xiaotun-on-linsen-north-road
+- 1991年12月8日 | 李敖读《联合报》台北图书馆藏书统计，批国民党统治下读书风气
+  精度：day；可靠度：confirmed；排序日期：1991-12-08
+  摘要：1991年12月8日，李敖读《联合报》报道台北市议员陈学圣建议市府增建图书馆并增购藏书。报道列出，台北市平均每十万人才有一座图书馆，每位市民拥有图书馆藏书数仅0.4本，远低于维也纳、伦敦、巴黎等城市。李敖在随写中据此批评，台湾在国民党统治下读书风气竟如此低落，至于所读之书是否值得一读更谈不到。
+  人物：李敖、陈学圣
+  地点：台北市、维也纳、伦敦、巴黎
+  标签：reading-news、library、taipei、reading-culture、education、kuomintang
+  视图：随写录线、读报线、文化线、图书馆线、读书风气线
+  作品：李敖随写录前集、十万人一个图书馆每个人不到一本书
+  交叉引用：-
+  来源：李敖随写录前集 / 179.十万人一个图书馆每个人不到一本书 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/179.十万人一个图书馆每个人不到一本书.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-12-08-comments-united-daily-taipei-library-books-per-capita
+- 1991年12月9日 | 李敖听说胡虚一欲花授田证折现款印父亲纪念文字，力劝其不要破财
+  精度：day；可靠度：confirmed；排序日期：1991-12-09
+  摘要：1991年12月9日，李敖听说胡虚一想拿战士授田证折现后所存约一半的钱，也就是约十万元，刊印父亲家信和纪念文字，便强烈反对。他提醒胡虚一每月住房和部分月支还靠朋友帮助，而这位朋友就是李敖，自己也在负债状态；他建议由这边影印装订二三十本即可，不要花“棺材本”。事后李敖又请苏世芳、吕佳真电告胡虚一，替他分析自费印书不划算；胡虚一仍坚持并来信解释，李敖最终懒得再管。李敖在随写中一方面批其糊涂，一方面承认其纪念先人与同乡功德的情谊可佩，并认为这类文字宜交《湖南文献》等刊物发表，不宜由胡虚一自费印行。
+  人物：李敖、胡虚一、苏世芳、吕佳真、李台香
+  地点：台湾、大陆、湖南华容、江西雩都
+  标签：friendship、hu-xuyi、printing、veterans、mainland-visiting、financial-help、letters、memorial-writing
+  视图：随写录线、胡虚一线、老兵线、出版线、探亲线、友人资助线
+  作品：李敖随写录前集、胡虚一破财印书行孝
+  交叉引用：qianqiu-wansui-1990-01-15-context-104-gives-hu-xuyi-travel-money、li-ao-zhaji-1987-04-13-records-hu-xuyi-tatami-retirement-place、micang-diary-1985-02-05-gives-money-to-hu-xuyi-at-tianyuan、li-ao-wuwu-diary-1990-12-09-renheyuan-xuyi-call-sun-liren-funeral
+  来源：李敖随写录前集 / 181.胡虚一破财印书行孝 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/181.胡虚一破财印书行孝.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-12-09-opposes-hu-xuyi-spending-redemption-money-printing-father-memorial
+- 1991年12月10日 | 李敖摘录《自立晚报》十则黄色广告，批吴丰山主持下报纸风气
+  精度：day；可靠度：confirmed；排序日期：1991-12-10
+  摘要：1991年12月10日，李敖阅读吴丰山主持的《自立晚报》，摘录当天十则疑似色情或应召性质的广告，并逐条加上简短按语。他从“服务小姐月入数十万”“1992新潮休闲”“美男师护肤”“调情预约”等广告词中指出其暗示性，批评《自立晚报》每天刊登这类黄色广告。此条按李敖读报、摘录与媒体批评处理，不把广告内商家拆成独立事件。
+  人物：李敖、吴丰山
+  地点：台湾
+  标签：reading-newspaper、media-criticism、independent-evening-post、advertising、sex-ads
+  视图：随写录线、媒体线、摘报线、广告线、自立晚报线
+  作品：李敖随写录前集、吴丰山主持的黄色广告
+  交叉引用：-
+  来源：李敖随写录前集 / 182.吴丰山主持的黄色广告 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/182.吴丰山主持的黄色广告.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-12-10-notes-independent-evening-post-sex-ads-and-wu-fengshan
+- 1991年12月11日 | 李敖收到《黑龙江百科全书》与刘捷来信，并评其编纂用力而装订怪
+  精度：day；可靠度：confirmed；排序日期：1991-12-11
+  摘要：1991年12月11日，李敖收到大陆出版的《黑龙江百科全书》一厚册，书中附有总纂刘捷给他的信。李敖认为这部书编得巨细不遗、很不错，可见刘捷等人用力之深，但也批评装订怪异：书背不烫金却贴书名胶纸，外面又加不伦不类的函装，显得不相称。刘捷在来信中说明，这封信从李敖故乡哈尔滨寄出，因李敖在哈尔滨出生、又是台湾有影响的作家，故将他收入这部大陆第一部省级百科全书；刘捷还说明自己因《台湾三十年1949-1979》《环华百科全书》和《我将归来开放——李敖作品选》等材料，辨明李敖出生哈尔滨、籍贯吉林扶余的资料，并请李敖收到书信后回函。
+  人物：李敖、刘捷、黄志平
+  地点：哈尔滨、黑龙江省、黑龙江省哈尔滨市动力区王兆新村、台湾、大陆、吉林扶余
+  标签：received-book、letter、heilongjiang-encyclopedia、harbin、mainland-publication、bibliography、identity-record
+  视图：随写录线、收信线、赠书线、哈尔滨线、百科全书线、文星线
+  作品：李敖随写录前集、刘捷与《黑龙江百科全书》、黑龙江百科全书、台湾三十年1949-1979、环华百科全书、我将归来开放——李敖作品选、文星
+  交叉引用：1935-04-25-birth、book5-1961-11-01-laonianren-he-bangzi-published、book7-1961-winter-enters-wenxing-through-old-man-and-stick
+  来源：李敖随写录前集 / 189.刘捷与《黑龙江百科全书》 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/189.刘捷与《黑龙江百科全书》.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-12-11-receives-heilongjiang-encyclopedia-and-liu-jie-letter
+- 1991年12月11日 | 李敖读《联合报》彭明敏纽约谈话，判断其会后悔率先支持李登辉
+  精度：day；可靠度：confirmed；排序日期：1991-12-11
+  摘要：1991年12月11日，李敖读《联合报》美加新闻中心傅依杰纽约9日电，报道彭明敏在纽约透露，国是会议后曾托人带给李登辉一封措辞强烈的私人信，严肃批评其若干做法，甚至要求李登辉公开辞职；报道还引述彭明敏谈“统独休兵”、李登辉“没有人了解我”、明年秋天返台及批评郝柏村失败主义等内容。李敖在随写中判断，以彭明敏的高格调，他一定后悔当年率先支持过李登辉。
+  人物：李敖、彭明敏、李登辉、傅依杰、郝柏村、丘吉尔
+  地点：纽约、台湾
+  标签：reading-news、peng-mingmin、lee-tenghui、new-york、political-commentary、taiwan-independence
+  视图：随写录线、读报线、彭明敏线、李登辉线、党外线
+  作品：李敖随写录前集、彭明敏谈话
+  交叉引用：1970-01-house-arrest-begins、li-ao-suixielu-qianji-1991-12-03-comments-world-forum-lee-tenghui-self-praises-taiwan-history-expertise
+  来源：李敖随写录前集 / 183.彭明敏谈话 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/183.彭明敏谈话.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-12-11-comments-peng-mingmin-new-york-talk-lee-tenghui-regret
+- 1991年12月11日 | 李敖读《联合报》谢聪敏迎妈祖游行拉票报道，批为假神道拉票
+  精度：day；可靠度：confirmed；排序日期：1991-12-11
+  摘要：1991年12月11日，李敖读《联合报》报道，彰化县第四选区民进党国代候选人谢聪敏由康宁祥陪同，迎回一尊妈祖神像在二林镇市区游行，沿途燃放鞭炮并挨家登门拉票，警方因其称迎神活动而未按游行处理。李敖在随写中用“古人是假神道设教，今人是假神道拉票”作比，批评高等知识分子为搞政治竟如此低级。
+  人物：李敖、谢聪敏、康宁祥、李日章、邱垂亮、赖添贵
+  地点：彰化县第四选区、二林镇、二林仁和宫
+  标签：reading-news、xie-congmin、campaign、mazu、religion-and-politics、national-assembly-election
+  视图：随写录线、读报线、谢聪敏线、选举线、宗教政治线
+  作品：李敖随写录前集、假神道拉票
+  交叉引用：li-ao-suixielu-qianji-1991-10-05-xie-congmin-call-changhua-national-assembly-campaign、li-ao-suixielu-qianji-1991-11-19-xie-congmin-call-invites-changhua-campaign-speech-refused
+  来源：李敖随写录前集 / 184.假神道拉票 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/184.假神道拉票.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-12-11-comments-xie-congmin-mazu-parade-vote-canvassing
+- 1991年12月11日 | 李敖读民进党中央助选团广告，批“引清兵入关”比拟不伦
+  精度：day；可靠度：confirmed；排序日期：1991-12-11
+  摘要：1991年12月11日，李敖读到民进党“中央助选团”广告，其中把国民党称为可能“引清兵入关”，并说中共以“过时主权观”不承认台湾独立自主，恫吓台湾若不在这一前提下谈判将不排除武力。李敖在随写中判断，“引清兵入关”一句比拟不伦：清兵相对明朝中央政府只是地方部队，而今日国民党才是地方小朝廷；若说国民党引兵，也应是引中央部队。李敖据此批评民进党玩政治只会喊“总统直选”“公民投票”“重返联合国”“引清兵入关”等口号，缺乏可行性和现实感。
+  人物：李敖、李洁明、吴三桂
+  地点：台湾、中国大陆、北京、美国
+  标签：reading-ad、dpp、campaign-ad、taiwan-independence、slogan-critique、cross-strait
+  视图：随写录线、广告线、民进党线、台独批判线、两岸线、口号政治线
+  作品：李敖随写录前集、“引清兵入关”？
+  交叉引用：li-ao-suixielu-qianji-1991-09-08-comments-dpp-un-parade-buddhist-theater、li-ao-suixielu-qianji-1991-10-13-notes-dpp-fifth-congress-hunren-list、li-ao-suixielu-qianji-1991-10-18-writes-taiwan-everywhere-china-poem、li-ao-suixielu-qianji-1991-11-08-comments-lin-congming-yilan-independence-satire
+  来源：李敖随写录前集 / 186.“引清兵入关”？ / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/186.“引清兵入关”？.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-12-11-comments-dpp-ad-qing-soldiers-entering-pass-slogan
+- 1991年12月11日 | 李敖读民进党满版广告，批其称台湾实质独立而又主张台独自相矛盾
+  精度：day；可靠度：confirmed；排序日期：1991-12-11
+  摘要：1991年12月11日，李敖读《自立晚报》上由“民主进步党中央助选团”刊出的满版广告。广告称台湾与中国经过一个世纪分隔，已发展出各自特有属性与国民意识，并借白乐崎“分离的台湾身份”说法，主张台湾实质上的独立已是客观存在的事实。李敖在随写中据此反驳：既然“独立”已是客观事实，整天还吵着要“台独”的人便在逻辑上自相矛盾；他批评这批人头脑和思考能力太坏却还玩政治。
+  人物：李敖、白乐崎
+  地点：台湾、中国、美国
+  标签：reading-ad、independent-evening-post、dpp、taiwan-independence、logical-critique、campaign-ad
+  视图：随写录线、广告线、民进党线、台独批判线、逻辑批评线
+  作品：李敖随写录前集、登广告自曝其矛盾
+  交叉引用：li-ao-suixielu-qianji-1991-11-05-notes-overseas-qiaobao-taiwan-authorities-tolerate-taiwan-independence、li-ao-suixielu-qianji-1991-10-24-zhou-yu-night-talk-dpp-taiwan-independence-line、li-ao-suixielu-qianji-1991-10-18-writes-taiwan-everywhere-china-poem、li-ao-suixielu-qianji-1991-12-11-comments-dpp-ad-qing-soldiers-entering-pass-slogan
+  来源：李敖随写录前集 / 187.登广告自曝其矛盾 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/187.登广告自曝其矛盾.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-12-11-comments-dpp-independent-fact-ad-self-contradiction
+- 1991年12月11日 | 李敖读许强追思会报道，批李镇源四十年后才表现安全勇气
+  精度：day；可靠度：confirmed；排序日期：1991-12-11
+  摘要：1991年12月11日，李敖读报得知台大医学院、医院前一晚举行许强医师追思会。报道说明许强为台北帝大医科第一届毕业、日本九州帝国大学医学博士，1950年被国民党政权以意图破坏国体、非法颠覆政府罪名枪决；追思会上李镇源称许强耿直、有正义感，自己深受影响，并欣慰能在世界人权纪念日追悼许强。李敖在随写中批评李镇源可鄙，反问若受许强人格影响，为何四十年后才发生效果；他认为李镇源的勇气不发生在国民党黑暗作恶时，只发生在国民党“洗面革心”之后，勇气与时机配合得太安全。
+  人物：李敖、李镇源、许强、苏友鹏
+  地点：台大医学院、台大医院、台北帝大医科、日本九州帝国大学、台湾
+  标签：reading-news、li-zhenyuan、xu-qiang、article-100、white-terror、memorial、political-courage
+  视图：随写录线、读报线、李镇源线、刑法一百条线、白色恐怖线、政治勇气线
+  作品：李敖随写录前集、李镇源的可鄙
+  交叉引用：li-ao-suixielu-qianji-1991-10-11-wang-qixiang-call-lee-yuan-tseh-taiwan-independence-claim、li-ao-suixielu-qianji-1991-10-23-calls-lin-yongfeng-about-li-zhenyuan-copying-228-medical-book、li-ao-suixielu-qianji-1991-10-25-comments-shih-chiyang-not-taiwan-traitor-li-zhenyuan-attack、li-ao-suixielu-qianji-1991-11-16-yin-zhangyi-calls-after-reading-article-100-essay
+  来源：李敖随写录前集 / 188.李镇源的可鄙 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/188.李镇源的可鄙.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-12-11-comments-li-zhenyuan-xu-qiang-memorial-safe-courage
+- 1991年12月11日 | 李敖读熊式一死讯，补记在吴申叔家初见与贵阳街看画时再遇
+  精度：day；可靠度：confirmed；排序日期：1991-12-11
+  摘要：1991年12月11日，李敖读报得知熊式一8月2日离台赴北京探视子女，9月15日因白血病晚期抢救无效去世。李敖由此补记，二十多年前在吴申叔家初见熊式一时，对方对他恭维备至；两年前李敖在贵阳街看画，熊式一也过来打招呼。但李敖在随写中说明，因熊式一曾以英文写《蒋介石传》且谀蒋不已，所以自己并不喜欢他。
+  人物：李敖、熊式一、吴申叔、熊德聣、蒋介石
+  地点：北京、北京外语学院、吴申叔家、贵阳街、大陆、台湾
+  标签：reading-news、death-notice、xiong-shiyi、wu-shenshu、old-acquaintance、chiang-kai-shek-biography
+  视图：随写录线、死讯线、旧识线、吴申叔线、蒋介石传线
+  作品：李敖随写录前集、熊式一死了
+  交叉引用：book7-1966-04-09-last-dinner-at-wu-shenshu-home、book5-1964-01-14-first-meets-wu-shenshu
+  来源：李敖随写录前集 / 185.熊式一死了 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/185.熊式一死了.txt
+  数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-12-11-reads-xiong-shiyi-death-and-recalls-two-encounters
+- 1991年12月12日 | 邓维桢来访，与李敖谈写作和出书计划
+  精度：day；可靠度：confirmed；排序日期：1991-12-12
+  摘要：1991年12月12日，邓维桢来访，与李敖谈写作和出书计划。李敖在随写中评价邓维桢是朋友中最会计算、最肯用头脑的人，能不断求新求变、创造机会、掌握主动，并灵活进出于计划收放之间；他又说邓维桢太太干练，两人相得，能够成就惊人。
+  人物：李敖、邓维桢、邓维桢太太
+  地点：台湾、台北
+  标签：visit、meeting、writing-plan、publishing-plan、friendship
+  视图：随写录线、后集线、邓维桢线、写作计划线、出版线
+  作品：李敖随写录后集、邓维桢和他太太
+  交叉引用：li-ao-suixielu-qianji-1991-11-24-deng-weizhen-visits-discusses-hsu-hsinliang-new-tide-faction、li-ao-wuwu-diary-1990-11-09-xu-xinliang-deng-weizhen-talk、qianqiu-wansui-1982-07-16-059-writes-on-deng-weizhen-talk
+  来源：李敖随写录后集 / 001.邓维桢和他太太 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/010.李敖随写录后集/001.邓维桢和他太太.txt
+  数据：data/timeline-events-li-ao-suixielu-houji.json#li-ao-suixielu-houji-1991-12-12-deng-weizhen-visits-talks-writing-publishing-plan
+- 1991年12月13日 | 李敖为信义公寓修漏，并回忆1964年购屋价与今昔世变
+  精度：day；可靠度：confirmed；排序日期：1991-12-13
+  摘要：1991年12月13日，李敖记录信义公寓做修漏工程。这间三十坪的信义公寓已使用二十七年，相当老旧；他追记1964年买下时房价为新台币十二万元，其中六万元付现金、六万元分期付款，二十七年后楼下售出价格已达九百万元。李敖据此感叹，仅从信义公寓房价变化即可窥见世变。
+  人物：李敖
+  地点：信义公寓、台北
+  标签：daily-life、home、apartment、property、memory、xinyi-apartment
+  视图：随写录线、后集线、信义公寓线、居住线、世变线
+  作品：李敖随写录后集、信义公寓今昔
+  交叉引用：zaonian-riji-1966-08-18-buys-coffee-visits-yin-haiguang-and-checks-bs-bike-for-beef-plan、zaonian-riji-1966-10-06-learns-driving-and-1986-note-on-buying-kerry-car、micang-diary-1985-03-05-records-cai-wanlin-statement-and-guotai-xinyi-apartment
+  来源：李敖随写录后集 / 002.信义公寓今昔 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/010.李敖随写录后集/002.信义公寓今昔.txt
+  数据：data/timeline-events-li-ao-suixielu-houji.json#li-ao-suixielu-houji-1991-12-13-xinyi-apartment-leak-repair-and-price-memory
+- 1991年12月14日 | 李敖与陈良埙、沈登恩午饭，饭后参观远景台大店
+  精度：day；可靠度：confirmed；排序日期：1991-12-14
+  摘要：1991年12月14日，李敖与陈良埙、沈登恩午饭，饭后去参观远景台大店。李敖在随写中评价沈登恩投身出版，精神与信念非一般市井出版商可及；虽然沈登恩因《诺贝尔文学奖全集》计划失败而长期受困，李敖说自己一直没有冷落他，并记沈登恩每逢年节和自己生日都会亲自送礼，以示不忘。
+  人物：李敖、陈良埙、沈登恩
+  地点：远景台大店、台北、台湾
+  标签：lunch、visit、publisher、bookstore、friendship、publishing
+  视图：随写录线、后集线、沈登恩线、出版线、远景线、朋友交往线
+  作品：李敖随写录后集、沈登恩、诺贝尔文学奖全集
+  交叉引用：li-ao-wuwu-diary-1991-01-27-zhou-zhiming-national-newspaper-origin-dengen-visit、li-ao-wuwu-diary-1990-12-18-switches-jinlan-to-vhs-and-pays-jijun-phoenix、micang-diary-1978-10-28-declines-king-hu-meeting-via-shen-dengen
+  来源：李敖随写录后集 / 003.沈登恩 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/010.李敖随写录后集/003.沈登恩.txt
+  数据：data/timeline-events-li-ao-suixielu-houji.json#li-ao-suixielu-houji-1991-12-14-lunches-chen-liangxun-shen-dengen-visits-yuanjing-ntu-store
+- 1991年12月15日 | 李敖在路上拾见苏秋镇竞选传单，摘录后批其李郝二分法太简单
+  精度：day；可靠度：confirmed；排序日期：1991-12-15
+  摘要：1991年12月15日下午，李敖走在马路上，看到丢弃在地的竞选传单，其中一张是苏秋镇给李登辉的第二封公开信。他在随写中录下全文：传单猛烈攻击郝柏村，也把李登辉与台大、台湾政治等问题相连。李敖读后评论，全文也算台湾“乡土文学”，但内容把李登辉和郝柏村作二分法，思路太简单；他在随写中判断，蒋家奴才是一丘之貉，没有李好郝坏之理。
+  人物：李敖、苏秋镇、李登辉、郝柏村、蒋介石、宋美龄
+  地点：台湾、台北
+  标签：campaign-flyer、street-finding、reading-material、su-qiuzhen、lee-teng-hui、hau-pei-tsun、political-commentary
+  视图：随写录线、后集线、苏秋镇线、竞选线、李登辉线、郝柏村线、读材料线
+  作品：李敖随写录后集、路上拾遗所见、给李登辉总统的第二封公开信
+  交叉引用：li-ao-suixielu-qianji-1991-11-21-visits-su-qiuzhen-and-warns-not-to-use-li-ao-card、li-ao-suixielu-qianji-1991-10-10-comments-toilet-rights-battle-100-action-alliance、li-ao-wuwu-diary-1991-02-09-sansan-call-qiuzhen-night-talk
+  来源：李敖随写录后集 / 004.路上拾遗所见 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/010.李敖随写录后集/004.路上拾遗所见.txt
+  数据：data/timeline-events-li-ao-suixielu-houji.json#li-ao-suixielu-houji-1991-12-15-picks-up-su-qiuzhen-flyer-and-comments-li-hau-split
+- 1991年12月16日 | 李敖读《中央日报》报道，批其把苏秋镇乱说成民进党
+  精度：day；可靠度：confirmed；排序日期：1991-12-16
+  摘要：1991年12月16日，李敖读《中央日报》报道沈银和政见发表会，报道把苏秋镇写成“民进党候选人”并称其率众闹场。李敖在随写中指出，苏秋镇根本不是民进党，也不屑是民进党；他据此批评由石永贵主持下的《中央日报》无知荒谬，竟到了这种程度。
+  人物：李敖、苏秋镇、沈银和、石永贵
+  地点：青年公园、台北、台湾
+  标签：reading-news、central-daily-news、su-qiuzhen、dpp、election、media-critique
+  视图：随写录线、后集线、读报线、苏秋镇线、中央日报线、媒体批评线、选举线
+  作品：李敖随写录后集、《中央日报》乱说人是民进党
+  交叉引用：li-ao-suixielu-qianji-1991-11-21-visits-su-qiuzhen-and-warns-not-to-use-li-ao-card、li-ao-suixielu-qianji-1991-12-07-comments-central-daily-chen-shuibian-proxy-signature、li-ao-suixielu-qianji-1991-10-04-comments-central-daily-zhu-gaozheng-spitting
+  来源：李敖随写录后集 / 006.《中央日报》乱说人是民进党 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/010.李敖随写录后集/006.《中央日报》乱说人是民进党.txt
+  数据：data/timeline-events-li-ao-suixielu-houji.json#li-ao-suixielu-houji-1991-12-16-comments-central-daily-mislabels-su-qiuzhen-dpp
+- 1991年12月16日 | 李敖读《中央日报》购书统计报道，批主管出版官僚不以为羞
+  精度：day；可靠度：confirmed；排序日期：1991-12-16
+  摘要：1991年12月16日，李敖读《中央日报》记者陈济元采访报道：行政院新闻局副局长廖正豪在文化大学新闻研究所演讲时称，国人物质生活已不虞匮乏，精神生活却贫乏，平均每人每年花在购买图书出版品的钱只有新台币二十元。李敖在随写中批评，这种现象出自主管图书出版品的官员之口，而官员自己不以为羞，正显官僚。他又补充，即使一年二十元买书，所买多半也是“怪力乱神”之作，真正正经书仍靠边站。
+  人物：李敖、陈济元、廖正豪、邵玉铭
+  地点：台湾、文化大学新闻研究所
+  标签：reading-news、central-daily-news、book-culture、publishing、bureaucracy、reading-habits
+  视图：随写录线、后集线、读报线、出版文化线、新闻局线、读书风气线
+  作品：李敖随写录后集、每人每年只花二十元买书
+  交叉引用：li-ao-suixielu-qianji-1991-12-08-comments-united-daily-taipei-library-books-per-capita、li-ao-suixielu-qianji-1991-12-07-comments-central-daily-chen-shuibian-proxy-signature
+  来源：李敖随写录后集 / 005.每人每年只花二十元买书 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/010.李敖随写录后集/005.每人每年只花二十元买书.txt
+  数据：data/timeline-events-li-ao-suixielu-houji.json#li-ao-suixielu-houji-1991-12-16-comments-central-daily-liao-zhenghao-book-spending
+- 1991年12月17日 | 李敖读死刑犯捐赠器官报道，并批具结书官样文句荒唐
+  精度：day；可靠度：confirmed；排序日期：1991-12-17
+  摘要：1991年12月17日，李敖读《联合报》报道台北看守所安排媒体采访死刑犯捐赠器官，报道说明看守所澄清外界以为捐赠并非自愿的传言，日本NHK电视台也前来采访。李敖在随写中判断，强迫捐赠器官之事应非事实，但捐赠手续确有可议；他特别注意到电视新闻播出的死刑犯具结书画面，开头竟写“蒙最高法院判死刑定谳”，认为这是照抄官衙胥吏拟稿的可笑文句，若被日本媒体借镜带走，更显荒唐。
+  人物：李敖、胡击雷
+  地点：台北看守所、台北、台湾、日本
+  标签：reading-news、united-daily-news、death-penalty、organ-donation、legal-procedure、media、wording-critique
+  视图：随写录线、后集线、读报线、司法线、死刑线、媒体线、官样文书线
+  作品：李敖随写录后集、“蒙最高法院判死刑定谳”
+  交叉引用：li-ao-suixielu-qianji-1991-12-05-notes-peoples-daily-human-rights-china-us-comparison
+  来源：李敖随写录后集 / 008.“蒙最高法院判死刑定谳” / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/010.李敖随写录后集/008.“蒙最高法院判死刑定谳”.txt
+  数据：data/timeline-events-li-ao-suixielu-houji.json#li-ao-suixielu-houji-1991-12-17-comments-death-row-organ-donation-document-wording
+- 1991年12月17日 | 李敖就非党盟录影带删李远哲部分，批其学术中立出尔反尔
+  精度：day；可靠度：confirmed；排序日期：1991-12-17
+  摘要：1991年12月17日，李敖读到非党盟电视文宣录影带因未经同意引用李远哲而被中央选举委员会删除相关部分，非党盟会长苏裕夫则表示支持李远哲强调学术中立的观点。李敖在随写中提出自己的看法：李远哲分别为罗美文、刘福增说过并不中立的话，后来又对两人双双撤荐，出尔反尔，实属未妥；他批评这种书呆行径害人而不自知。
+  人物：李敖、李远哲、苏裕夫、罗美文、刘福增
+  地点：台湾
+  标签：reading-news、lee-yuan-tseh、academic-neutrality、election、media-campaign、political-commentary
+  视图：随写录线、后集线、李远哲线、选举线、学术中立线、读报线
+  作品：李敖随写录后集、如此学术中立！
+  交叉引用：li-ao-suixielu-qianji-1991-09-29-comments-lee-yuan-tseh-senminism-huang-zhugui、li-ao-suixielu-qianji-1991-10-11-wang-qixiang-call-lee-yuan-tseh-taiwan-independence-claim、li-ao-suixielu-qianji-1991-11-25-receives-liu-fuzeng-campaign-invitations-and-criticizes-professor-politics
+  来源：李敖随写录后集 / 007.如此学术中立！ / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/010.李敖随写录后集/007.如此学术中立！.txt
+  数据：data/timeline-events-li-ao-suixielu-houji.json#li-ao-suixielu-houji-1991-12-17-comments-lee-yuan-tseh-academic-neutrality-video-deletion
+- 1991年12月18日 | 李敖读候选人看风水报道，批台湾选举也卷入妖妄风气
+  精度：day；可靠度：confirmed；排序日期：1991-12-18
+  摘要：1991年12月18日，李敖读《联合报》报道：中华民国地理师协会副理事长陈冠宇说，每逢选举前有名气的地理师异常忙碌，会受托替候选人算运势、看风水，也有人因被说今年“运”不旺而放弃参选。李敖在随写中批评，台湾妖妄之风日浓，连选举也被风水卷入；他认为全世界选举都不时兴风水，台湾却独树一帜，并讽刺民主政治落到这班人手里真是“风水”欠佳。
+  人物：李敖、陈冠宇
+  地点：台湾
+  标签：reading-news、united-daily-news、election、fengshui、superstition、political-commentary
+  视图：随写录线、后集线、读报线、选举线、迷信批判线、风水线
+  作品：李敖随写录后集、选举与风水
+  交叉引用：li-ao-suixielu-qianji-1991-11-22-comments-liao-shuwen-fortune-telling-candidacy-superstition、li-ao-suixielu-qianji-1991-12-11-comments-xie-congmin-mazu-parade-vote-canvassing、li-ao-suixielu-qianji-1991-11-23-comments-tiantijiao-ad-prayer-response-to-taiwan-independence-crisis
+  来源：李敖随写录后集 / 009.选举与风水 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/010.李敖随写录后集/009.选举与风水.txt
+  数据：data/timeline-events-li-ao-suixielu-houji.json#li-ao-suixielu-houji-1991-12-18-comments-election-fengshui-taiwan-superstition
+- 1991年12月19日（追记前一日收件） | 李敖追记收到吴清桂寄来的郑自才竞选海报，并评其台独政见
+  精度：day；可靠度：confirmed；排序日期：1991-12-19
+  摘要：1991年12月19日，李敖在随写中追记，前一天收到郑自才太太吴清桂寄给他并注明“亲启”的竞选海报。李敖由此回想1970年4月24日郑自才与黄文雄行刺蒋经国不中时，自己的第一反应是“预备军官的射击教育失败了”。他在随写中承认郑自才刺蒋有大功于党外，也理解郑自才年老回来入狱、由太太“代夫出征”的志向；但他同时批评，为了竞选而听新潮流一批年轻人摆布，以“台湾共和国”为政见，未免失之。
+  人物：李敖、郑自才、吴清桂、黄文雄、蒋经国
+  地点：台湾
+  标签：received-campaign-material、zheng-zicai、wu-qinggui、election、taiwan-independence、political-commentary、memory
+  视图：随写录线、后集线、收件线、郑自才线、党外线、台独批判线、选举线
+  作品：李敖随写录后集、郑自才
+  交叉引用：li-ao-suixielu-qianji-1991-12-11-comments-dpp-independent-fact-ad-self-contradiction、li-ao-suixielu-qianji-1991-10-18-writes-taiwan-everywhere-china-poem、li-ao-suixielu-qianji-1991-11-08-comments-lin-congming-yilan-independence-satire
+  来源：李敖随写录后集 / 010.郑自才 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/010.李敖随写录后集/010.郑自才.txt
+  数据：data/timeline-events-li-ao-suixielu-houji.json#li-ao-suixielu-houji-1991-12-19-notes-zheng-zicai-wife-campaign-poster-and-taiwan-republic-platform
 - 1991年12月21日星期六 | 李敖答方健祥，综合四人意见重列《北京法源寺》勘误表
   精度：day；可靠度：confirmed；排序日期：1991-12-21
   摘要：方健祥10月8日致信，称读《北京法源寺》后震撼，并希望再版时改正两处小疵。李敖12月21日答复，再次说明此书出书前与办《求是报》撞档，来不及细校；他综合陈兆基、林永丰、潘毓刚和方健祥前后指正，统一列出勘误表，并盼对方继续指正。
@@ -121166,6 +123038,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/013.彭尸纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1994-08-27-li-final-advice-to-peng-hsieh-wei
+- 1994年9月22日 | 李敖作《李敖随写录后集》自序，称后集为随写“曲终奏雅”
+  精度：day；可靠度：confirmed；排序日期：1994-09-22
+  摘要：1994年9月22日，李敖刚写完《李敖随写录前集》自序，又写《李敖随写录后集》自序。他在自序中回看王荣文八年前借詹宏志之笔提出的“古典李敖、当代李敖、未来李敖”分期，认为把自己分成“过去李敖”和“未来李敖”更贴切；自《北京法源寺》问世后，他说自己的写作方向已朝“世界性、永恒性的大手笔”扭转，主力转移到这一方向。李敖据此把《李敖随写录前集》《李敖随写录后集》的出版看作追念“过去李敖”的曲终奏雅，又说明后集后半部多为未发表文字，原拟供《李敖求是评论》第七期使用，并表示余生大概不会再花这么多时间写这么多随写。 
+  人物：李敖、王荣文、詹宏志
+  地点：台湾、台北
+  标签：preface、writing、book-publication、self-periodization、qiushi-review、beijing-fayuansi
+  视图：随写录线、后集线、自序线、写作转向线、北京法源寺线、求是评论线
+  作品：李敖随写录后集、李敖随写录前集、北京法源寺、李敖求是评论、古典李敖的总结
+  交叉引用：li-ao-suixielu-qianji-1994-09-22-writes-preface-and-reviews-qiushi-review、beijing-fayuansi-1990-year-end-finishes-novel-before-qiushi-bao、beijing-fayuansi-1991-06-30-published-by-wenxing、book4-1991-11-01-li-ao-qiushi-review-starts、book4-1992-04-01-li-ao-qiushi-review-ends
+  来源：李敖随写录后集 / 《李敖随写录后集》自序 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/010.李敖随写录后集/《李敖随写录后集》自序.txt
+  数据：data/timeline-events-li-ao-suixielu-houji.json#li-ao-suixielu-houji-1994-09-22-writes-preface-and-positions-houji-as-final-coda
 - 1994年9月22日 | 李敖作《李敖随写录前集》自序
   精度：day；可靠度：confirmed；排序日期：1994-09-22
   摘要：1994年9月22日，李敖为《李敖随写录前集》写自序，回顾1990年冬由张坤山介绍有人携资办报而引出1991年《求是报》早产早夭；又说明《李敖求是评论杂志》在1992年4月1日第六期后停刊，他决心不再办报、办杂志或第一线开书店，而把余生转向“大书”。两年后重编旧作时，他把杂志连载的“李敖随写录”定为前后集。

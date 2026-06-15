@@ -1,0 +1,842 @@
+[
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "sourceBook": "李敖随写录后集",
+    "ingestionRound": "li-ao-suixielu-houji-round001-frontmatter-001-010",
+    "id": "li-ao-suixielu-houji-1994-09-22-writes-preface-and-positions-houji-as-final-coda",
+    "date": "1994-09-22",
+    "displayDate": "1994年9月22日",
+    "category": "writing",
+    "sourceChapter": "《李敖随写录后集》自序",
+    "sourceFile": "李敖随写录后集/《李敖随写录后集》自序.txt",
+    "sourceLocation": "第3至27行",
+    "sourceQuote": "刚刚写完了《李敖随写录前集》自序……《李敖随写录前集》、《李敖随写录后集》的出版，正是曲终奏雅的精华……1994年9月22日",
+    "title": "李敖作《李敖随写录后集》自序，称后集为随写“曲终奏雅”",
+    "summary": "1994年9月22日，李敖刚写完《李敖随写录前集》自序，又写《李敖随写录后集》自序。他在自序中回看王荣文八年前借詹宏志之笔提出的“古典李敖、当代李敖、未来李敖”分期，认为把自己分成“过去李敖”和“未来李敖”更贴切；自《北京法源寺》问世后，他说自己的写作方向已朝“世界性、永恒性的大手笔”扭转，主力转移到这一方向。李敖据此把《李敖随写录前集》《李敖随写录后集》的出版看作追念“过去李敖”的曲终奏雅，又说明后集后半部多为未发表文字，原拟供《李敖求是评论》第七期使用，并表示余生大概不会再花这么多时间写这么多随写。 ",
+    "importance": 5,
+    "keywords": [
+      "李敖随写录后集",
+      "自序",
+      "王荣文",
+      "詹宏志",
+      "古典李敖",
+      "当代李敖",
+      "未来李敖",
+      "北京法源寺",
+      "李敖求是评论"
+    ],
+    "tags": [
+      "preface",
+      "writing",
+      "book-publication",
+      "self-periodization",
+      "qiushi-review",
+      "beijing-fayuansi"
+    ],
+    "people": [
+      "李敖",
+      "王荣文",
+      "詹宏志"
+    ],
+    "places": [
+      "台湾",
+      "台北"
+    ],
+    "view": [
+      "随写录线",
+      "后集线",
+      "自序线",
+      "写作转向线",
+      "北京法源寺线",
+      "求是评论线"
+    ],
+    "crossReferences": [
+      "li-ao-suixielu-qianji-1994-09-22-writes-preface-and-reviews-qiushi-review",
+      "beijing-fayuansi-1990-year-end-finishes-novel-before-qiushi-bao",
+      "beijing-fayuansi-1991-06-30-published-by-wenxing",
+      "book4-1991-11-01-li-ao-qiushi-review-starts",
+      "book4-1992-04-01-li-ao-qiushi-review-ends"
+    ],
+    "works": [
+      "李敖随写录后集",
+      "李敖随写录前集",
+      "北京法源寺",
+      "李敖求是评论",
+      "古典李敖的总结"
+    ],
+    "source": {
+      "book": "李敖随写录后集",
+      "chapter": "《李敖随写录后集》自序",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/010.李敖随写录后集/《李敖随写录后集》自序.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15,
+        17,
+        19,
+        21,
+        23,
+        25,
+        27
+      ],
+      "note": "李敖作后集自序，说明与前集、自身写作分期、《北京法源寺》和《李敖求是评论》的关系。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "sourceBook": "李敖随写录后集",
+    "ingestionRound": "li-ao-suixielu-houji-round001-frontmatter-001-010",
+    "id": "li-ao-suixielu-houji-1991-12-12-deng-weizhen-visits-talks-writing-publishing-plan",
+    "date": "1991-12-12",
+    "displayDate": "1991年12月12日",
+    "category": "meeting",
+    "sourceChapter": "001.邓维桢和他太太",
+    "sourceFile": "李敖随写录后集/001.邓维桢和他太太.txt",
+    "sourceLocation": "第3行",
+    "sourceQuote": "邓维桢来，谈写作和出书计划。维桢是朋友中最会计算、最肯用头脑的人……（1991年12月12日）",
+    "title": "邓维桢来访，与李敖谈写作和出书计划",
+    "summary": "1991年12月12日，邓维桢来访，与李敖谈写作和出书计划。李敖在随写中评价邓维桢是朋友中最会计算、最肯用头脑的人，能不断求新求变、创造机会、掌握主动，并灵活进出于计划收放之间；他又说邓维桢太太干练，两人相得，能够成就惊人。",
+    "importance": 4,
+    "keywords": [
+      "邓维桢",
+      "写作计划",
+      "出书计划",
+      "邓维桢太太"
+    ],
+    "tags": [
+      "visit",
+      "meeting",
+      "writing-plan",
+      "publishing-plan",
+      "friendship"
+    ],
+    "people": [
+      "李敖",
+      "邓维桢",
+      "邓维桢太太"
+    ],
+    "places": [
+      "台湾",
+      "台北"
+    ],
+    "view": [
+      "随写录线",
+      "后集线",
+      "邓维桢线",
+      "写作计划线",
+      "出版线"
+    ],
+    "crossReferences": [
+      "li-ao-suixielu-qianji-1991-11-24-deng-weizhen-visits-discusses-hsu-hsinliang-new-tide-faction",
+      "li-ao-wuwu-diary-1990-11-09-xu-xinliang-deng-weizhen-talk",
+      "qianqiu-wansui-1982-07-16-059-writes-on-deng-weizhen-talk"
+    ],
+    "works": [
+      "李敖随写录后集",
+      "邓维桢和他太太"
+    ],
+    "source": {
+      "book": "李敖随写录后集",
+      "chapter": "001.邓维桢和他太太",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/010.李敖随写录后集/001.邓维桢和他太太.txt",
+      "line": 3,
+      "lines": [
+        3
+      ],
+      "note": "邓维桢来访，与李敖谈写作和出书计划，李敖随写评价其做事方法。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "sourceBook": "李敖随写录后集",
+    "ingestionRound": "li-ao-suixielu-houji-round001-frontmatter-001-010",
+    "id": "li-ao-suixielu-houji-1991-12-13-xinyi-apartment-leak-repair-and-price-memory",
+    "date": "1991-12-13",
+    "displayDate": "1991年12月13日",
+    "category": "daily-life",
+    "sourceChapter": "002.信义公寓今昔",
+    "sourceFile": "李敖随写录后集/002.信义公寓今昔.txt",
+    "sourceLocation": "第3行",
+    "sourceQuote": "今天信义公寓做修漏工程……1964年买它的时候，房价是新台币十二万元……（1991年12月13日）",
+    "title": "李敖为信义公寓修漏，并回忆1964年购屋价与今昔世变",
+    "summary": "1991年12月13日，李敖记录信义公寓做修漏工程。这间三十坪的信义公寓已使用二十七年，相当老旧；他追记1964年买下时房价为新台币十二万元，其中六万元付现金、六万元分期付款，二十七年后楼下售出价格已达九百万元。李敖据此感叹，仅从信义公寓房价变化即可窥见世变。",
+    "importance": 4,
+    "keywords": [
+      "信义公寓",
+      "修漏工程",
+      "1964年购屋",
+      "房价",
+      "国泰信义公寓"
+    ],
+    "tags": [
+      "daily-life",
+      "home",
+      "apartment",
+      "property",
+      "memory",
+      "xinyi-apartment"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "信义公寓",
+      "台北"
+    ],
+    "view": [
+      "随写录线",
+      "后集线",
+      "信义公寓线",
+      "居住线",
+      "世变线"
+    ],
+    "crossReferences": [
+      "zaonian-riji-1966-08-18-buys-coffee-visits-yin-haiguang-and-checks-bs-bike-for-beef-plan",
+      "zaonian-riji-1966-10-06-learns-driving-and-1986-note-on-buying-kerry-car",
+      "micang-diary-1985-03-05-records-cai-wanlin-statement-and-guotai-xinyi-apartment"
+    ],
+    "works": [
+      "李敖随写录后集",
+      "信义公寓今昔"
+    ],
+    "source": {
+      "book": "李敖随写录后集",
+      "chapter": "002.信义公寓今昔",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/010.李敖随写录后集/002.信义公寓今昔.txt",
+      "line": 3,
+      "lines": [
+        3
+      ],
+      "note": "李敖记录信义公寓修漏，并追记1964年购屋价格与1991年房价对比。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "sourceBook": "李敖随写录后集",
+    "ingestionRound": "li-ao-suixielu-houji-round001-frontmatter-001-010",
+    "id": "li-ao-suixielu-houji-1991-12-14-lunches-chen-liangxun-shen-dengen-visits-yuanjing-ntu-store",
+    "date": "1991-12-14",
+    "displayDate": "1991年12月14日",
+    "category": "meeting",
+    "sourceChapter": "003.沈登恩",
+    "sourceFile": "李敖随写录后集/003.沈登恩.txt",
+    "sourceLocation": "第3行",
+    "sourceQuote": "与陈良埙、沈登恩午饭。饭后去参观远景台大店……每逢年节及我生日，他必亲送礼物以示不忘。（1991年12月14日）",
+    "title": "李敖与陈良埙、沈登恩午饭，饭后参观远景台大店",
+    "summary": "1991年12月14日，李敖与陈良埙、沈登恩午饭，饭后去参观远景台大店。李敖在随写中评价沈登恩投身出版，精神与信念非一般市井出版商可及；虽然沈登恩因《诺贝尔文学奖全集》计划失败而长期受困，李敖说自己一直没有冷落他，并记沈登恩每逢年节和自己生日都会亲自送礼，以示不忘。",
+    "importance": 4,
+    "keywords": [
+      "陈良埙",
+      "沈登恩",
+      "远景台大店",
+      "诺贝尔文学奖全集",
+      "出版"
+    ],
+    "tags": [
+      "lunch",
+      "visit",
+      "publisher",
+      "bookstore",
+      "friendship",
+      "publishing"
+    ],
+    "people": [
+      "李敖",
+      "陈良埙",
+      "沈登恩"
+    ],
+    "places": [
+      "远景台大店",
+      "台北",
+      "台湾"
+    ],
+    "view": [
+      "随写录线",
+      "后集线",
+      "沈登恩线",
+      "出版线",
+      "远景线",
+      "朋友交往线"
+    ],
+    "crossReferences": [
+      "li-ao-wuwu-diary-1991-01-27-zhou-zhiming-national-newspaper-origin-dengen-visit",
+      "li-ao-wuwu-diary-1990-12-18-switches-jinlan-to-vhs-and-pays-jijun-phoenix",
+      "micang-diary-1978-10-28-declines-king-hu-meeting-via-shen-dengen"
+    ],
+    "works": [
+      "李敖随写录后集",
+      "沈登恩",
+      "诺贝尔文学奖全集"
+    ],
+    "source": {
+      "book": "李敖随写录后集",
+      "chapter": "003.沈登恩",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/010.李敖随写录后集/003.沈登恩.txt",
+      "line": 3,
+      "lines": [
+        3
+      ],
+      "note": "李敖与陈良埙、沈登恩午饭并参观远景台大店，随写评价沈登恩出版精神与人情。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "sourceBook": "李敖随写录后集",
+    "ingestionRound": "li-ao-suixielu-houji-round001-frontmatter-001-010",
+    "id": "li-ao-suixielu-houji-1991-12-15-picks-up-su-qiuzhen-flyer-and-comments-li-hau-split",
+    "date": "1991-12-15",
+    "displayDate": "1991年12月15日",
+    "category": "commentary",
+    "sourceChapter": "004.路上拾遗所见",
+    "sourceFile": "李敖随写录后集/004.路上拾遗所见.txt",
+    "sourceLocation": "第3至53行",
+    "sourceQuote": "下午走在马路上，见有丢弃在地的竞选传单，有一张是苏秋镇的……全文也算是台湾“乡土文学”了……（1991年12月15日）",
+    "title": "李敖在路上拾见苏秋镇竞选传单，摘录后批其李郝二分法太简单",
+    "summary": "1991年12月15日下午，李敖走在马路上，看到丢弃在地的竞选传单，其中一张是苏秋镇给李登辉的第二封公开信。他在随写中录下全文：传单猛烈攻击郝柏村，也把李登辉与台大、台湾政治等问题相连。李敖读后评论，全文也算台湾“乡土文学”，但内容把李登辉和郝柏村作二分法，思路太简单；他在随写中判断，蒋家奴才是一丘之貉，没有李好郝坏之理。",
+    "importance": 4,
+    "keywords": [
+      "苏秋镇",
+      "竞选传单",
+      "李登辉",
+      "郝柏村",
+      "第二封公开信",
+      "台湾乡土文学",
+      "李郝二分法"
+    ],
+    "tags": [
+      "campaign-flyer",
+      "street-finding",
+      "reading-material",
+      "su-qiuzhen",
+      "lee-teng-hui",
+      "hau-pei-tsun",
+      "political-commentary"
+    ],
+    "people": [
+      "李敖",
+      "苏秋镇",
+      "李登辉",
+      "郝柏村",
+      "蒋介石",
+      "宋美龄"
+    ],
+    "places": [
+      "台湾",
+      "台北"
+    ],
+    "view": [
+      "随写录线",
+      "后集线",
+      "苏秋镇线",
+      "竞选线",
+      "李登辉线",
+      "郝柏村线",
+      "读材料线"
+    ],
+    "crossReferences": [
+      "li-ao-suixielu-qianji-1991-11-21-visits-su-qiuzhen-and-warns-not-to-use-li-ao-card",
+      "li-ao-suixielu-qianji-1991-10-10-comments-toilet-rights-battle-100-action-alliance",
+      "li-ao-wuwu-diary-1991-02-09-sansan-call-qiuzhen-night-talk"
+    ],
+    "works": [
+      "李敖随写录后集",
+      "路上拾遗所见",
+      "给李登辉总统的第二封公开信"
+    ],
+    "source": {
+      "book": "李敖随写录后集",
+      "chapter": "004.路上拾遗所见",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/010.李敖随写录后集/004.路上拾遗所见.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15,
+        17,
+        19,
+        21,
+        23,
+        25,
+        27,
+        29,
+        31,
+        33,
+        35,
+        37,
+        39,
+        41,
+        43,
+        45,
+        47,
+        49,
+        51,
+        53
+      ],
+      "note": "李敖下午在路上拾见苏秋镇竞选传单，录其公开信并评价其李郝二分法。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "sourceBook": "李敖随写录后集",
+    "ingestionRound": "li-ao-suixielu-houji-round001-frontmatter-001-010",
+    "id": "li-ao-suixielu-houji-1991-12-16-comments-central-daily-liao-zhenghao-book-spending",
+    "date": "1991-12-16",
+    "displayDate": "1991年12月16日",
+    "category": "commentary",
+    "sourceChapter": "005.每人每年只花二十元买书",
+    "sourceFile": "李敖随写录后集/005.每人每年只花二十元买书.txt",
+    "sourceLocation": "第3至9行",
+    "sourceQuote": "今日《中央日报》记者陈济元采访报导……国人每年每人花在购买图书出版品的钱，平均才二十元新台币而已……（1991年12月16日）",
+    "title": "李敖读《中央日报》购书统计报道，批主管出版官僚不以为羞",
+    "summary": "1991年12月16日，李敖读《中央日报》记者陈济元采访报道：行政院新闻局副局长廖正豪在文化大学新闻研究所演讲时称，国人物质生活已不虞匮乏，精神生活却贫乏，平均每人每年花在购买图书出版品的钱只有新台币二十元。李敖在随写中批评，这种现象出自主管图书出版品的官员之口，而官员自己不以为羞，正显官僚。他又补充，即使一年二十元买书，所买多半也是“怪力乱神”之作，真正正经书仍靠边站。",
+    "importance": 4,
+    "keywords": [
+      "中央日报",
+      "陈济元",
+      "廖正豪",
+      "行政院新闻局",
+      "文化大学新闻研究所",
+      "买书",
+      "出版品",
+      "怪力乱神"
+    ],
+    "tags": [
+      "reading-news",
+      "central-daily-news",
+      "book-culture",
+      "publishing",
+      "bureaucracy",
+      "reading-habits"
+    ],
+    "people": [
+      "李敖",
+      "陈济元",
+      "廖正豪",
+      "邵玉铭"
+    ],
+    "places": [
+      "台湾",
+      "文化大学新闻研究所"
+    ],
+    "view": [
+      "随写录线",
+      "后集线",
+      "读报线",
+      "出版文化线",
+      "新闻局线",
+      "读书风气线"
+    ],
+    "crossReferences": [
+      "li-ao-suixielu-qianji-1991-12-08-comments-united-daily-taipei-library-books-per-capita",
+      "li-ao-suixielu-qianji-1991-12-07-comments-central-daily-chen-shuibian-proxy-signature"
+    ],
+    "works": [
+      "李敖随写录后集",
+      "每人每年只花二十元买书"
+    ],
+    "source": {
+      "book": "李敖随写录后集",
+      "chapter": "005.每人每年只花二十元买书",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/010.李敖随写录后集/005.每人每年只花二十元买书.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9
+      ],
+      "note": "李敖读《中央日报》廖正豪购书统计报道，并批出版主管官僚和台湾读书风气。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "sourceBook": "李敖随写录后集",
+    "ingestionRound": "li-ao-suixielu-houji-round001-frontmatter-001-010",
+    "id": "li-ao-suixielu-houji-1991-12-16-comments-central-daily-mislabels-su-qiuzhen-dpp",
+    "date": "1991-12-16",
+    "displayDate": "1991年12月16日",
+    "category": "commentary",
+    "sourceChapter": "006.《中央日报》乱说人是民进党",
+    "sourceFile": "李敖随写录后集/006.《中央日报》乱说人是民进党.txt",
+    "sourceLocation": "第3至9行",
+    "sourceQuote": "今日《中央日报》登……民进党候选人苏秋镇率众前往“闹场”……殊不知苏秋镇根本不是民进党、也不屑是民进党。（1991年12月16日）",
+    "title": "李敖读《中央日报》报道，批其把苏秋镇乱说成民进党",
+    "summary": "1991年12月16日，李敖读《中央日报》报道沈银和政见发表会，报道把苏秋镇写成“民进党候选人”并称其率众闹场。李敖在随写中指出，苏秋镇根本不是民进党，也不屑是民进党；他据此批评由石永贵主持下的《中央日报》无知荒谬，竟到了这种程度。",
+    "importance": 4,
+    "keywords": [
+      "中央日报",
+      "苏秋镇",
+      "沈银和",
+      "民进党",
+      "石永贵",
+      "政见发表会"
+    ],
+    "tags": [
+      "reading-news",
+      "central-daily-news",
+      "su-qiuzhen",
+      "dpp",
+      "election",
+      "media-critique"
+    ],
+    "people": [
+      "李敖",
+      "苏秋镇",
+      "沈银和",
+      "石永贵"
+    ],
+    "places": [
+      "青年公园",
+      "台北",
+      "台湾"
+    ],
+    "view": [
+      "随写录线",
+      "后集线",
+      "读报线",
+      "苏秋镇线",
+      "中央日报线",
+      "媒体批评线",
+      "选举线"
+    ],
+    "crossReferences": [
+      "li-ao-suixielu-qianji-1991-11-21-visits-su-qiuzhen-and-warns-not-to-use-li-ao-card",
+      "li-ao-suixielu-qianji-1991-12-07-comments-central-daily-chen-shuibian-proxy-signature",
+      "li-ao-suixielu-qianji-1991-10-04-comments-central-daily-zhu-gaozheng-spitting"
+    ],
+    "works": [
+      "李敖随写录后集",
+      "《中央日报》乱说人是民进党"
+    ],
+    "source": {
+      "book": "李敖随写录后集",
+      "chapter": "006.《中央日报》乱说人是民进党",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/010.李敖随写录后集/006.《中央日报》乱说人是民进党.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9
+      ],
+      "note": "李敖读《中央日报》把苏秋镇写成民进党候选人的报道，并批其无知荒谬。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "sourceBook": "李敖随写录后集",
+    "ingestionRound": "li-ao-suixielu-houji-round001-frontmatter-001-010",
+    "id": "li-ao-suixielu-houji-1991-12-17-comments-lee-yuan-tseh-academic-neutrality-video-deletion",
+    "date": "1991-12-17",
+    "displayDate": "1991年12月17日",
+    "category": "commentary",
+    "sourceChapter": "007.如此学术中立！",
+    "sourceFile": "李敖随写录后集/007.如此学术中立！.txt",
+    "sourceLocation": "第3、5行",
+    "sourceQuote": "非党盟电视文宣录影带，涉及未经同意引用诺贝尔奖得主李远哲部分，中央选举委员会昨天已予以删除……我的看法是……（1991年12月17日）",
+    "title": "李敖就非党盟录影带删李远哲部分，批其学术中立出尔反尔",
+    "summary": "1991年12月17日，李敖读到非党盟电视文宣录影带因未经同意引用李远哲而被中央选举委员会删除相关部分，非党盟会长苏裕夫则表示支持李远哲强调学术中立的观点。李敖在随写中提出自己的看法：李远哲分别为罗美文、刘福增说过并不中立的话，后来又对两人双双撤荐，出尔反尔，实属未妥；他批评这种书呆行径害人而不自知。",
+    "importance": 4,
+    "keywords": [
+      "非党盟",
+      "电视文宣录影带",
+      "李远哲",
+      "中央选举委员会",
+      "苏裕夫",
+      "罗美文",
+      "刘福增",
+      "学术中立"
+    ],
+    "tags": [
+      "reading-news",
+      "lee-yuan-tseh",
+      "academic-neutrality",
+      "election",
+      "media-campaign",
+      "political-commentary"
+    ],
+    "people": [
+      "李敖",
+      "李远哲",
+      "苏裕夫",
+      "罗美文",
+      "刘福增"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "view": [
+      "随写录线",
+      "后集线",
+      "李远哲线",
+      "选举线",
+      "学术中立线",
+      "读报线"
+    ],
+    "crossReferences": [
+      "li-ao-suixielu-qianji-1991-09-29-comments-lee-yuan-tseh-senminism-huang-zhugui",
+      "li-ao-suixielu-qianji-1991-10-11-wang-qixiang-call-lee-yuan-tseh-taiwan-independence-claim",
+      "li-ao-suixielu-qianji-1991-11-25-receives-liu-fuzeng-campaign-invitations-and-criticizes-professor-politics"
+    ],
+    "works": [
+      "李敖随写录后集",
+      "如此学术中立！"
+    ],
+    "source": {
+      "book": "李敖随写录后集",
+      "chapter": "007.如此学术中立！",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/010.李敖随写录后集/007.如此学术中立！.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5
+      ],
+      "note": "李敖读非党盟录影带删李远哲材料的消息，并批李远哲学术中立说出尔反尔。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "sourceBook": "李敖随写录后集",
+    "ingestionRound": "li-ao-suixielu-houji-round001-frontmatter-001-010",
+    "id": "li-ao-suixielu-houji-1991-12-17-comments-death-row-organ-donation-document-wording",
+    "date": "1991-12-17",
+    "displayDate": "1991年12月17日",
+    "category": "commentary",
+    "sourceChapter": "008.“蒙最高法院判死刑定谳”",
+    "sourceFile": "李敖随写录后集/008.“蒙最高法院判死刑定谳”.txt",
+    "sourceLocation": "第3至21行",
+    "sourceQuote": "今天《联合报》登……强迫捐赠之事，应非事实。但是捐赠手续，确有可议……劈头竟是“蒙最高法院判死刑定谳”字样……（1991年12月17日）",
+    "title": "李敖读死刑犯捐赠器官报道，并批具结书官样文句荒唐",
+    "summary": "1991年12月17日，李敖读《联合报》报道台北看守所安排媒体采访死刑犯捐赠器官，报道说明看守所澄清外界以为捐赠并非自愿的传言，日本NHK电视台也前来采访。李敖在随写中判断，强迫捐赠器官之事应非事实，但捐赠手续确有可议；他特别注意到电视新闻播出的死刑犯具结书画面，开头竟写“蒙最高法院判死刑定谳”，认为这是照抄官衙胥吏拟稿的可笑文句，若被日本媒体借镜带走，更显荒唐。",
+    "importance": 4,
+    "keywords": [
+      "联合报",
+      "台北看守所",
+      "死刑犯",
+      "捐赠器官",
+      "NHK",
+      "胡击雷",
+      "最高法院",
+      "具结书"
+    ],
+    "tags": [
+      "reading-news",
+      "united-daily-news",
+      "death-penalty",
+      "organ-donation",
+      "legal-procedure",
+      "media",
+      "wording-critique"
+    ],
+    "people": [
+      "李敖",
+      "胡击雷"
+    ],
+    "places": [
+      "台北看守所",
+      "台北",
+      "台湾",
+      "日本"
+    ],
+    "view": [
+      "随写录线",
+      "后集线",
+      "读报线",
+      "司法线",
+      "死刑线",
+      "媒体线",
+      "官样文书线"
+    ],
+    "crossReferences": [
+      "li-ao-suixielu-qianji-1991-12-05-notes-peoples-daily-human-rights-china-us-comparison"
+    ],
+    "works": [
+      "李敖随写录后集",
+      "“蒙最高法院判死刑定谳”"
+    ],
+    "source": {
+      "book": "李敖随写录后集",
+      "chapter": "008.“蒙最高法院判死刑定谳”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/010.李敖随写录后集/008.“蒙最高法院判死刑定谳”.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15,
+        17,
+        19,
+        21
+      ],
+      "note": "李敖读《联合报》死刑犯捐赠器官报道，并据电视新闻画面批具结书开头官样文句。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "sourceBook": "李敖随写录后集",
+    "ingestionRound": "li-ao-suixielu-houji-round001-frontmatter-001-010",
+    "id": "li-ao-suixielu-houji-1991-12-18-comments-election-fengshui-taiwan-superstition",
+    "date": "1991-12-18",
+    "displayDate": "1991年12月18日",
+    "category": "commentary",
+    "sourceChapter": "009.选举与风水",
+    "sourceFile": "李敖随写录后集/009.选举与风水.txt",
+    "sourceLocation": "第3、5行",
+    "sourceQuote": "今日《联合报》登：中华民国地理师协会副理事长陈冠宇说……台湾妖妄之风日浓，连选举一事也扯进来了……（1991年12月18日）",
+    "title": "李敖读候选人看风水报道，批台湾选举也卷入妖妄风气",
+    "summary": "1991年12月18日，李敖读《联合报》报道：中华民国地理师协会副理事长陈冠宇说，每逢选举前有名气的地理师异常忙碌，会受托替候选人算运势、看风水，也有人因被说今年“运”不旺而放弃参选。李敖在随写中批评，台湾妖妄之风日浓，连选举也被风水卷入；他认为全世界选举都不时兴风水，台湾却独树一帜，并讽刺民主政治落到这班人手里真是“风水”欠佳。",
+    "importance": 4,
+    "keywords": [
+      "联合报",
+      "选举",
+      "风水",
+      "地理师",
+      "陈冠宇",
+      "中华民国地理师协会",
+      "候选人",
+      "妖妄"
+    ],
+    "tags": [
+      "reading-news",
+      "united-daily-news",
+      "election",
+      "fengshui",
+      "superstition",
+      "political-commentary"
+    ],
+    "people": [
+      "李敖",
+      "陈冠宇"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "view": [
+      "随写录线",
+      "后集线",
+      "读报线",
+      "选举线",
+      "迷信批判线",
+      "风水线"
+    ],
+    "crossReferences": [
+      "li-ao-suixielu-qianji-1991-11-22-comments-liao-shuwen-fortune-telling-candidacy-superstition",
+      "li-ao-suixielu-qianji-1991-12-11-comments-xie-congmin-mazu-parade-vote-canvassing",
+      "li-ao-suixielu-qianji-1991-11-23-comments-tiantijiao-ad-prayer-response-to-taiwan-independence-crisis"
+    ],
+    "works": [
+      "李敖随写录后集",
+      "选举与风水"
+    ],
+    "source": {
+      "book": "李敖随写录后集",
+      "chapter": "009.选举与风水",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/010.李敖随写录后集/009.选举与风水.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5
+      ],
+      "note": "李敖读《联合报》候选人请地理师看风水报道，并批台湾选举妖妄风气。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "sourceBook": "李敖随写录后集",
+    "ingestionRound": "li-ao-suixielu-houji-round001-frontmatter-001-010",
+    "id": "li-ao-suixielu-houji-1991-12-19-notes-zheng-zicai-wife-campaign-poster-and-taiwan-republic-platform",
+    "date": "1991-12-19",
+    "displayDate": "1991年12月19日（追记前一日收件）",
+    "category": "communication",
+    "sourceChapter": "010.郑自才",
+    "sourceFile": "李敖随写录后集/010.郑自才.txt",
+    "sourceLocation": "第3至7行",
+    "sourceQuote": "昨天收到郑自才的太太吴清桂寄给我“亲启”的竞选海报……唯独为了竞选……以“台湾共和国”为政见，未免失之矣！（1991年12月19日）",
+    "title": "李敖追记收到吴清桂寄来的郑自才竞选海报，并评其台独政见",
+    "summary": "1991年12月19日，李敖在随写中追记，前一天收到郑自才太太吴清桂寄给他并注明“亲启”的竞选海报。李敖由此回想1970年4月24日郑自才与黄文雄行刺蒋经国不中时，自己的第一反应是“预备军官的射击教育失败了”。他在随写中承认郑自才刺蒋有大功于党外，也理解郑自才年老回来入狱、由太太“代夫出征”的志向；但他同时批评，为了竞选而听新潮流一批年轻人摆布，以“台湾共和国”为政见，未免失之。",
+    "importance": 4,
+    "keywords": [
+      "郑自才",
+      "吴清桂",
+      "竞选海报",
+      "亲启",
+      "黄文雄",
+      "蒋经国",
+      "党外",
+      "新潮流",
+      "台湾共和国"
+    ],
+    "tags": [
+      "received-campaign-material",
+      "zheng-zicai",
+      "wu-qinggui",
+      "election",
+      "taiwan-independence",
+      "political-commentary",
+      "memory"
+    ],
+    "people": [
+      "李敖",
+      "郑自才",
+      "吴清桂",
+      "黄文雄",
+      "蒋经国"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "view": [
+      "随写录线",
+      "后集线",
+      "收件线",
+      "郑自才线",
+      "党外线",
+      "台独批判线",
+      "选举线"
+    ],
+    "crossReferences": [
+      "li-ao-suixielu-qianji-1991-12-11-comments-dpp-independent-fact-ad-self-contradiction",
+      "li-ao-suixielu-qianji-1991-10-18-writes-taiwan-everywhere-china-poem",
+      "li-ao-suixielu-qianji-1991-11-08-comments-lin-congming-yilan-independence-satire"
+    ],
+    "works": [
+      "李敖随写录后集",
+      "郑自才"
+    ],
+    "source": {
+      "book": "李敖随写录后集",
+      "chapter": "010.郑自才",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/010.李敖随写录后集/010.郑自才.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7
+      ],
+      "note": "李敖在12月19日随写中追记前一天收到吴清桂寄来的郑自才竞选海报，并评论郑自才与台独政见。"
+    }
+  }
+]

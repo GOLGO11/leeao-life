@@ -34925,5 +34925,624 @@
     "currentProjectTotal": 9822,
     "dataVersion": "2026-06-15-li-ao-suixielu-qianji-round008-046-055",
     "nextRecommendation": "下一轮建议继续《李敖随写录前集》056至065：处理梁肃戎不但无耻而且肉麻、陈正澄来坐、李远哲的“感性”戏、《女人女人》票选风云男女、屌神、党外人士最后中了国民党下的毒、张学良被长寿所害、“最后的晚餐”、《一江春水向东流》还在查禁中，以及冒充自己。继续按一次10篇推进；直接来访、会谈、观看、读报大笑等李敖当事动作优先落点，外部材料仍写成李敖摘评/评论。"
+  },
+  {
+    "round": "li-ao-suixielu-qianji-round009-056-065",
+    "book": "李敖随写录前集",
+    "chapter": "056.梁肃戎不但无耻，而且肉麻至065.冒充自己",
+    "date": "2026-06-15",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/056.梁肃戎不但无耻，而且肉麻.txt至065.冒充自己.txt",
+    "scope": "《李敖随写录前集》第九轮：继续按一次10篇处理056至065，覆盖李敖读梁肃戎回忆宋美龄握手并批肉麻、陈正澄来坐并邀赴大陆、评李远哲三民主义与黄祝贵致敬、曾谁芬夜电劝参加《女人女人》百集并摘录票选报道、陈彦增全家约天母聚餐并赠“屌神”照片、叶菊兰来电未通后李敖反省党外朋友、邓育昆和刘俊德午饭请教张学良电视剧、陆啸钊豪华晚餐与KTV后李敖定为“最后的晚餐”、读《一江春水向东流》仍遭禁映报道，以及家具店送货时李敖笑称自己冒充李敖。",
+    "range": "1991-09-28 to 1991-10-03",
+    "sourceLines": "056第3、5、7、9、11行；057第3、5、7、9、11行；058第3、5、7、9、11行；059第3、5、7、9、11、13行；060第3至33行奇数行；061第3、5行；062第3行；063第3、5、7、9行；064第3、5、7、9、11行；065第3、5行",
+    "added": 10,
+    "revised": 0,
+    "removed": 0,
+    "ids": [
+      "li-ao-suixielu-qianji-1991-09-28-comments-liang-surong-soong-mayling-handshake",
+      "li-ao-suixielu-qianji-1991-09-29-chen-zhengcheng-visits-and-invites-mainland-trip",
+      "li-ao-suixielu-qianji-1991-09-29-comments-lee-yuan-tseh-senminism-huang-zhugui",
+      "li-ao-suixielu-qianji-1991-09-29-zeng-sheifen-call-womankind-100th-poll",
+      "li-ao-suixielu-qianji-1991-09-29-chen-yanzeng-family-tianmu-dinner-and-diaoshen-photo",
+      "li-ao-suixielu-qianji-1991-09-30-ye-julan-call-xiaotun-says-li-asleep-and-reflects-tangwai",
+      "li-ao-suixielu-qianji-1991-10-01-deng-yukun-liu-junde-lunch-consults-zhang-xueliang-drama",
+      "li-ao-suixielu-qianji-1991-10-02-lu-xiaozhao-luxury-dinner-ktv-last-supper",
+      "li-ao-suixielu-qianji-1991-10-02-comments-spring-river-east-banned-after-martial-law",
+      "li-ao-suixielu-qianji-1991-10-03-signs-furniture-delivery-jokes-impersonating-li-ao"
+    ],
+    "status": "completed",
+    "notes": [
+      "056、058、064为李敖读报/摘评节点；报载旁人场景仅作为李敖评论对象保留。",
+      "057、060、062、063、065为明确李敖当事交游/日常节点，分别记录来坐、聚餐赠照、午饭请教、晚餐KTV和签收送货。",
+      "059将曾谁芬夜电与《中国时报》票选报道合为同一《女人女人》百集节点，避免同主题过度拆碎。",
+      "061虽未与叶菊兰通话，但来电、小屯代告和李敖在随写中反省党外朋友构成同一通信/反省节点。",
+      "058的“我猜”按李敖在随写中猜测处理，061、063的反省也明确写为在随写中，不写成客观事实。"
+    ],
+    "checks": [
+      "已重建TXT/CSV导出并校验：项目总表9832条，《李敖随写录前集》68条；duplicateIds=0；字符串crossReferences缺失=0；duplicateRefs=0；TXT/CSV/manifest总量一致；app/index dataVersion一致。"
+    ],
+    "currentBookTotal": 68,
+    "currentProjectTotal": 9832,
+    "dataVersion": "2026-06-15-li-ao-suixielu-qianji-round009-056-065",
+    "nextRecommendation": "下一轮建议继续《李敖随写录前集》066至075：处理疯团长、女作家及诺贝尔奖、大陆播出日军细菌部队暴行、《中央日报》与口水、“选个国代比叛乱还难”、“宁入地狱，不坐冤狱”、清早三点的军车声、乱世情鸯、故宫博物院腐化，以及林荣三真是市侩。继续按10篇推进；其中072若是清早听见/想到军车声，要明确写成李敖清早在何处听见或想到。"
+  },
+  {
+    "round": "li-ao-suixielu-qianji-round010-066-075",
+    "book": "李敖随写录前集",
+    "chapter": "066.疯团长至075.林荣三真是市侩",
+    "date": "2026-06-15",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/066.疯团长.txt至075.林荣三真是市侩.txt",
+    "scope": "《李敖随写录前集》第十轮：继续按一次10篇处理066至075，覆盖段造时来访谈玉里疗养院“疯团长”、李敖摘录戈迪默获诺贝尔文学奖并比较禁书经验、摘评大陆播出七三一电视剧与罪证展、读《中央日报》朱高正口水阵报道、谢聪敏来电谈彰化竞选国代困难、摘录黄圣良冤狱自杀案并批司法黑暗、清早三点起床做工时听见双十阅兵预演军车声、读荣民黄坤生返大陆陪妻报道、与小屯去故宫买书未果并批故宫腐化，以及施复华中午来谈美国《求是报》和《自由时报》美洲版原委。外部报道继续按李敖摘录/评论节点处理；李敖来访、电话、清早听见、外出购书和材料存证作为当事事件。",
+    "range": "1991-10-03 to 1991-10-07",
+    "sourceLines": "066第3行；067第3、5、7、9行；068第3、5、7、9、11、13行；069第3、5、7行；070第3行；071第3至37行奇数行；072第3行；073第3、5行；074第3、5、7行；075第3至17行奇数行",
+    "added": 10,
+    "revised": 0,
+    "removed": 0,
+    "ids": [
+      "li-ao-suixielu-qianji-1991-10-03-duan-zaoshi-visits-yuli-crazy-regiment-commander",
+      "li-ao-suixielu-qianji-1991-10-04-notes-nadine-gordimer-nobel-censorship",
+      "li-ao-suixielu-qianji-1991-10-04-comments-cctv-731-drama-and-chiang-japan-policy",
+      "li-ao-suixielu-qianji-1991-10-04-comments-central-daily-zhu-gaozheng-spitting",
+      "li-ao-suixielu-qianji-1991-10-05-xie-congmin-call-changhua-national-assembly-campaign",
+      "li-ao-suixielu-qianji-1991-10-05-comments-united-daily-huang-shengliang-wrongful-conviction-suicide",
+      "li-ao-suixielu-qianji-1991-10-06-wakes-at-three-hears-military-trucks-double-ten-rehearsal",
+      "li-ao-suixielu-qianji-1991-10-06-notes-united-daily-veteran-huang-kunsheng-returning-wife",
+      "li-ao-suixielu-qianji-1991-10-06-xiaotun-palace-museum-sale-no-yuanfeng-leigao",
+      "li-ao-suixielu-qianji-1991-10-07-shi-fuhua-visits-qiushi-america-liberty-times-evidence"
+    ],
+    "status": "completed",
+    "notes": [
+      "066、070、072、074、075为明确李敖当事节点，分别记录来访、电话、清早在住处听见军车、与小屯外出购书、施复华中午来访并交材料。",
+      "067、068、069、071、073均为李敖读报/摘录/评论节点，外部人物和新闻事实只作为李敖评论对象保留，不扩写成旁人独立年表。",
+      "071报道案情较长，本轮压缩为黄圣良冤狱自杀案的司法批判节点，不把法院审理细节逐项拆开。",
+      "072涉及联想和设想，已明确写成李敖清早三点在住处做工时听见军车，并在随写中由军车声联想到/设想，不写成客观历史场景。",
+      "075把施复华来访、谈美国《求是报》、带来《天天日报》材料和李敖存证合并为一个出版/媒体节点，避免同日同题过度拆分。"
+    ],
+    "checks": [
+      "已重建TXT/CSV导出并校验：项目总表9842条，《李敖随写录前集》78条；duplicateIds=0；字符串crossReferences缺失=0；duplicateRefs=0；TXT/CSV/manifest总量一致；app/index dataVersion一致；本轮10条均进入TXT与CSV。"
+    ],
+    "currentBookTotal": 78,
+    "currentProjectTotal": 9842,
+    "dataVersion": "2026-06-15-li-ao-suixielu-qianji-round010-066-075",
+    "nextRecommendation": "下一轮建议继续《李敖随写录前集》076至085：处理瑞典社会主义出问题、《女人女人》、虎头蛇尾的反制、虎头蛇尾外一章、憋尿战、李远哲实际是“台独”头子？、国民党的内婚制、淡水看海、民进浑人榜，以及美帝的不公平贸易。继续按10篇推进；直接来访、外出看海、读报摘评和李敖自己的政治判断分清主次，外部新闻仍写成李敖摘评节点。"
+  },
+  {
+    "round": "li-ao-suixielu-qianji-round011-076-085",
+    "book": "李敖随写录前集",
+    "chapter": "076.瑞典社会主义出问题至085.美帝的不公平贸易",
+    "date": "2026-06-15",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/076.瑞典社会主义出问题.txt至085.美帝的不公平贸易.txt",
+    "scope": "《李敖随写录前集》第十一轮：继续按一次10篇处理076至085，覆盖李敖摘录《亚洲周刊》瑞典式社会主义受挫报道、中视《女人女人》百集重播李敖谈文天祥片段且“崔苔菁”三字被消音、读报批100行动联盟与台湾建国运动组织取消反制阅兵、继续摘评陈师孟解释与台大医院前驱散事件、摘评《自立晚报》100行动联盟“憋尿战”、王企祥来电判断李远哲/李镇源政治关系且李敖存记待查、批国民党权贵婚事为内婚制、与小屯去淡水参观陆啸钊“四海一家”并看海、摘录民进党第五届党代表大会名单并讽为民进浑人榜，以及剪存美国《侨报》不公平贸易材料。直接媒体播出、电话、外出看海作为李敖当事事件；读报/剪报材料仍写成李敖摘录或评论节点。",
+    "range": "1991-10-07 to 1991-10-14",
+    "sourceLines": "076第3、5、7、9、11、13、15、17行；077第3行；078第3、5、7、9行；079第3、5、7、9、11行；080第3、5、7、9、11、13、15行；081第3、5行；082第3行；083第3、5行；084第3行；085第3、5、7、9、11行",
+    "added": 10,
+    "revised": 0,
+    "removed": 0,
+    "ids": [
+      "li-ao-suixielu-qianji-1991-10-07-notes-asia-weekly-swedish-socialism-election-defeat",
+      "li-ao-suixielu-qianji-1991-10-08-womankind-100th-rebroadcast-wen-tianxiang-cui-taijing-censored",
+      "li-ao-suixielu-qianji-1991-10-09-comments-100-action-alliance-cancels-counter-parade",
+      "li-ao-suixielu-qianji-1991-10-10-comments-anti-parade-aftermath-campus-dispersal",
+      "li-ao-suixielu-qianji-1991-10-10-comments-toilet-rights-battle-100-action-alliance",
+      "li-ao-suixielu-qianji-1991-10-11-wang-qixiang-call-lee-yuan-tseh-taiwan-independence-claim",
+      "li-ao-suixielu-qianji-1991-10-12-comments-kuomintang-endogamy-qian-zhang-xu-marriages",
+      "li-ao-suixielu-qianji-1991-10-13-xiaotun-tamsui-sihai-yijia-sea-view",
+      "li-ao-suixielu-qianji-1991-10-13-notes-dpp-fifth-congress-hunren-list",
+      "li-ao-suixielu-qianji-1991-10-14-clips-us-qiaobao-unfair-trade-peanuts-quotas"
+    ],
+    "status": "completed",
+    "notes": [
+      "076、078、079、080、082、084、085为读报/剪报/摘录评论节点，外部政治与国际新闻不扩写为旁人独立年表。",
+      "077虽是旧节目重播，但主体是李敖节目片段在中视《女人女人》百集播出并被消音，按媒体曝光与审查节点入库。",
+      "081是王企祥来电中的判断，摘要已明确写成王企祥电话判断、李敖存记待查，不写成李远哲客观事实。",
+      "083为明确当事外出节点，记录李敖下午与小屯去淡水参观四海一家，并在海边看小屯与浪花比赛速度。",
+      "078至080属于同一刑法100条/反阅兵延伸线，但三篇焦点分别是取消行动、退场解释与校园驱散、上厕所权益，故各列一条。"
+    ],
+    "checks": [
+      "已重建TXT/CSV导出并校验：项目总表9852条，《李敖随写录前集》88条；duplicateIds=0；字符串crossReferences缺失=0；duplicateRefs=0；TXT/CSV/manifest总量一致；app/index dataVersion一致；本轮10条均进入TXT与CSV。"
+    ],
+    "currentBookTotal": 88,
+    "currentProjectTotal": 9852,
+    "dataVersion": "2026-06-15-li-ao-suixielu-qianji-round011-076-085",
+    "nextRecommendation": "下一轮建议继续《李敖随写录前集》086至095：处理黄任中的请帖、波兰不肯“以德报怨”、我看凌峰、彩色龙虾、老友“蒙难”、埃及新出土法老、殡仪馆的国民党化、陈履安高层告急、张作霖大元帅府旧址，以及日本文化更彻底。继续按10篇推进；086、088、090若含李敖收帖、读书/观影、老友遭难等当事关系要优先落点，外部历史/国际材料仍写成李敖摘录或评论。"
+  },
+  {
+    "round": "li-ao-suixielu-qianji-round012-086-095",
+    "book": "李敖随写录前集",
+    "chapter": "086.黄任中的请帖至095.蔡同荣论施启扬",
+    "date": "2026-06-15",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/086.黄任中的请帖.txt至095.蔡同荣论施启扬.txt",
+    "scope": "《李敖随写录前集》第十二轮：继续按一次10篇处理086至095，实际目录为黄任中的请帖、波兰不肯“以德报怨”、民进党的幼稚动作、台湾无处不中国、别扭诗、林正杰的妖妄和可鄙、国民党与年龄、大人物狂想曲、搞政治的人岂可这么嫩？、蔡同荣论施启扬。黄任中请帖按李敖收到并拒赴处理；089、090、093按李敖短诗/短文写作节点处理；087、088、091、092、094、095均为李敖读报/摘录/评论节点，其中095补入李敖与施启扬初高中同班的旧识判断。",
+    "range": "1991-10-15 to 1991-10-21",
+    "sourceLines": "086第3至31行奇数行；087第3、5行；088第3、5、7行；089第3、5、7、9行；090第3、5、7、9行；091第3、5、7、9、11、13、15、17、19行；092第3行；093第3、5行；094第3、5行；095第3、5、7、9、11、13行",
+    "added": 10,
+    "revised": 0,
+    "removed": 0,
+    "ids": [
+      "li-ao-suixielu-qianji-1991-10-15-receives-huang-renzhong-jjs-opening-invitation",
+      "li-ao-suixielu-qianji-1991-10-16-comments-germany-poland-compensation-and-chiang-japan-policy",
+      "li-ao-suixielu-qianji-1991-10-17-comments-dpp-self-surrender-article-100-childish",
+      "li-ao-suixielu-qianji-1991-10-18-writes-taiwan-everywhere-china-poem",
+      "li-ao-suixielu-qianji-1991-10-18-writes-bieniu-poem",
+      "li-ao-suixielu-qianji-1991-10-18-comments-lin-zhengjie-marriage-bone-beads-and-political-artist",
+      "li-ao-suixielu-qianji-1991-10-18-comments-kuomintang-age-structure-wang-chonghui",
+      "li-ao-suixielu-qianji-1991-10-19-writes-big-shot-fantasia-self-portrait",
+      "li-ao-suixielu-qianji-1991-10-20-comments-shih-mingteh-mood-too-tender-politics",
+      "li-ao-suixielu-qianji-1991-10-21-comments-cai-tongrong-on-shih-chiyang-and-li-classmate-memory"
+    ],
+    "status": "completed",
+    "notes": [
+      "上一轮建议中的086至095题名与实际目录不完全一致，本轮以本地源文件实际086至095为准推进。",
+      "086为李敖收到黄任中限时专送请帖并明确不参加，属通信/社交拒绝节点；不把JJ'S开幕活动扩写为李敖出席。",
+      "089、090、093为李敖直接写作的短诗/短文，虽篇幅短，仍按当事写作节点入库。",
+      "091报道林正杰婚变材料较长，压缩为李敖摘评《美华报导》林正杰言论和道德批判，不把林正杰私事拆成旁人年表。",
+      "095保留李敖读蔡同荣访问后的当事补记：施启扬与李敖初高中同学同班时即少年老成、有城府。"
+    ],
+    "checks": [
+      "已重建TXT/CSV导出并校验：项目总表9862条，《李敖随写录前集》98条；duplicateIds=0；字符串crossReferences缺失=0；duplicateRefs=0；TXT/CSV/manifest总量一致；app/index dataVersion一致；本轮10条均进入TXT与CSV。"
+    ],
+    "currentBookTotal": 98,
+    "currentProjectTotal": 9862,
+    "dataVersion": "2026-06-15-li-ao-suixielu-qianji-round012-086-095",
+    "nextRecommendation": "下一轮建议继续《李敖随写录前集》096至105：处理刘家顺、教士吻修女、小气赢家、你黑暗，我报复、李镇源抄袭林永丰、周渝夜谈、欧阳无畏死了、施启扬绝非台奸、黄水枝“替天行道”资料，以及评范曾。继续按10篇推进；101若为周渝夜谈应优先按李敖会谈/夜谈当事节点处理，102欧阳无畏死讯与103施启扬判断也要区分李敖得知、评论与外部背景。"
+  },
+  {
+    "round": "li-ao-suixielu-qianji-round013-096-105",
+    "book": "李敖随写录前集",
+    "chapter": "096.刘家顺至105.评范曾",
+    "date": "2026-06-15",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/096.刘家顺.txt至105.评范曾.txt",
+    "scope": "《李敖随写录前集》第十三轮：继续按一次10篇处理096至105，覆盖李敖读蔡同荣谈关仔岭并补记刘家顺、摘记教士吻修女广告判决、中仪嫂来访讲周太太打牌趣事、李敖写“你黑暗，我报复”自我纪律、打电话给林永丰判断李镇源抄袭《二二八医界再出发》、周渝夜来谈民进党台独路线、读欧阳无畏讣告并补记读者关系、读李镇源批施启扬为台奸并作判断、摘录黄水枝“替天行道”案并考辨黄帝教/轩辕教，以及评范曾人品与书画。外部新闻继续按李敖摘记/评论处理；电话、来访、夜谈、自我写作和旧识补记作为李敖当事事件。",
+    "range": "1991-10-21 to 1991-10-26",
+    "sourceLines": "096第3至23行奇数行；097第3行；098第3行；099第3、5行；100第3、5、7、9行；101第3、5行；102第3、5行；103第3、5行；104第3至39行奇数行；105第3、5、7、9行",
+    "added": 10,
+    "revised": 0,
+    "removed": 0,
+    "ids": [
+      "li-ao-suixielu-qianji-1991-10-21-comments-cai-tongrong-kuanziling-and-liu-jiashun",
+      "li-ao-suixielu-qianji-1991-10-21-notes-ap-fax-priest-kisses-nun-ad-ruling",
+      "li-ao-suixielu-qianji-1991-10-22-hears-zhongyi-sister-in-law-zhou-wife-card-story",
+      "li-ao-suixielu-qianji-1991-10-22-writes-self-discipline-darkness-revenge",
+      "li-ao-suixielu-qianji-1991-10-23-calls-lin-yongfeng-about-li-zhenyuan-copying-228-medical-book",
+      "li-ao-suixielu-qianji-1991-10-24-zhou-yu-night-talk-dpp-taiwan-independence-line",
+      "li-ao-suixielu-qianji-1991-10-25-reads-ouyang-wuwei-obituary-and-remembers-reader",
+      "li-ao-suixielu-qianji-1991-10-25-comments-shih-chiyang-not-taiwan-traitor-li-zhenyuan-attack",
+      "li-ao-suixielu-qianji-1991-10-26-notes-huang-shuizhi-xuanyuan-cult-religion-danger",
+      "li-ao-suixielu-qianji-1991-10-26-comments-fan-zeng-taiwan-airport-fake-painting-dispute"
+    ],
+    "status": "completed",
+    "notes": [
+      "096把蔡同荣访问材料作为李敖读报对象，落点放在李敖补记刘家顺台大名片、离台受阻和黑牢余悸，不把关仔岭会议拆成外部人物流水账。",
+      "097、103、104、105均为李敖读报/摘录/评论节点；104材料虽长，仅收为李敖据《联合报》和《中华民国年鉴》所作宗教思想史判断。",
+      "098、100、101为明确当事节点，分别记录中仪嫂来访讲趣事、李敖打电话给林永丰求证抄袭判断、周渝夜来并与李敖谈民进党台独路线。",
+      "099为李敖在随写中给自己定纪律，摘要已写明“在随写中”自我要求，不把情绪和斗志判断写成客观外部事件。",
+      "102读欧阳无畏讣告时补入李敖在开国文献会识其为读者的旧识记忆，并注明李敖当时并不知道对方是喇嘛。"
+    ],
+    "checks": [
+      "已重建TXT/CSV导出并校验：项目总表9872条，《李敖随写录前集》108条；duplicateIds=0；字符串crossReferences缺失=0；duplicateRefs=0；TXT/CSV/manifest总量一致；app/index dataVersion一致；本轮10条均进入TXT与CSV。"
+    ],
+    "currentBookTotal": 108,
+    "currentProjectTotal": 9872,
+    "dataVersion": "2026-06-15-li-ao-suixielu-qianji-round013-096-105",
+    "nextRecommendation": "下一轮建议继续《李敖随写录前集》106至115：处理李登辉捧杨丽花！、“台湾人畏威而不怀德”、孙震真无耻！、“忠党爱国”下场、谢绝苏联、英国报社访问、大陆温饱问题、评黄君璧、朱铭新作不成东西、宋楚瑜自承台湾人，以及尤清作何感想？继续按10篇推进；110若涉及李敖谢绝苏联、英国报社访问，应优先按直接通信/媒体邀访节点处理，其他读报评论仍明确写成李敖摘评或判断。"
+  },
+  {
+    "round": "li-ao-suixielu-qianji-round014-106-115",
+    "book": "李敖随写录前集",
+    "chapter": "106.李登辉捧杨丽花！至115.尤清作何感想？",
+    "date": "2026-06-15",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/106.李登辉捧杨丽花！.txt至115.尤清作何感想？.txt",
+    "scope": "《李敖随写录前集》第十四轮：继续按一次10篇处理106至115，覆盖李敖读李登辉出席杨丽花歌仔戏报道、批民进党面对高雄游行威胁退缩、读孙震打消辞意声明并批辞职秀、接陈绥民来电谈孔令晟和忠党爱国晚景、谢绝苏联与英国报社访问及海洋大学等演讲、摘录大陆贫困地区温饱与扶贫数据、评黄君璧去世及宋美龄学画故事、与小屯逛新光三越看朱铭不锈钢管人体作品、读宋楚瑜自称台湾人报道并批政治取媚，以及读大坌坑遗址遭破坏报道并质问尤清。外部新闻继续按李敖摘记/评论处理；来电、谢绝邀访邀讲、与小屯外出看展作为李敖当事事件。",
+    "range": "1991-10-26 to 1991-10-30",
+    "sourceLines": "106第3、5行；107第3、5、7行；108第3、5、7行；109第3、5行；110第3行；111第3至17行奇数行；112第3、5行；113第3行；114第3、5行；115第3、5行",
+    "added": 10,
+    "revised": 0,
+    "removed": 0,
+    "ids": [
+      "li-ao-suixielu-qianji-1991-10-26-comments-lee-tenghui-yang-lihua-opera-national-theater",
+      "li-ao-suixielu-qianji-1991-10-26-comments-dpp-kaohsiung-rally-fear-power-not-virtue",
+      "li-ao-suixielu-qianji-1991-10-27-comments-sun-chen-ntu-resignation-show-shameless",
+      "li-ao-suixielu-qianji-1991-10-28-chen-suimin-call-kong-lingsheng-kmt-loyalist-aftermath",
+      "li-ao-suixielu-qianji-1991-10-29-declines-soviet-british-newspaper-interviews-and-lectures",
+      "li-ao-suixielu-qianji-1991-10-29-notes-guangming-daily-mainland-poverty-wenbao-data",
+      "li-ao-suixielu-qianji-1991-10-30-comments-huang-junbi-death-calligraphy-soong-mayling-pu-xinyu",
+      "li-ao-suixielu-qianji-1991-10-30-xiaotun-shin-kong-mitsukoshi-ju-ming-art-critique",
+      "li-ao-suixielu-qianji-1991-10-30-comments-soong-chuyu-taiwanese-chinese-heart",
+      "li-ao-suixielu-qianji-1991-10-30-comments-youqing-dabenkeng-site-destruction"
+    ],
+    "status": "completed",
+    "notes": [
+      "106、107、108、111、112、114、115均为李敖读报/摘录/评论节点，报道中的外部活动、声明、遗址调查和政治讲话不拆成旁人独立年表。",
+      "109为陈绥民来电，记录李敖请其劝孔令晟写官邸旧事，并保留李敖对陈绥民旧职与性格的补记。",
+      "110为明确当事媒体/演讲节点，记录陈中雄代约苏联、英国媒体访问和海洋大学等演讲，李敖一概谢绝。",
+      "113为明确当事外出节点，记录李敖与小屯逛新光三越并现场看到朱铭作品后作艺术批评。",
+      "107、114、115的政治判断均写成李敖在随写中的引用、批评或质问，不写成客观事实判断。"
+    ],
+    "checks": [
+      "已重建TXT/CSV导出并校验：项目总表9882条，《李敖随写录前集》118条；duplicateIds=0；字符串crossReferences缺失=0；duplicateRefs=0；TXT/CSV/manifest总量一致；app/index dataVersion一致；本轮10条均进入TXT与CSV。"
+    ],
+    "currentBookTotal": 118,
+    "currentProjectTotal": 9882,
+    "dataVersion": "2026-06-15-li-ao-suixielu-qianji-round014-106-115",
+    "nextRecommendation": "下一轮建议继续《李敖随写录前集》116至125：处理文化费、有墓不扫却去“谒陵”、1991年11月1日、命名怪谈、吴大宇死了、“胡茵梦悄悄提前出关”、“黑牢”时代过去了？、“台湾当局纵容‘台独’活动”、迟来的道歉，以及贩书者言。继续按10篇推进；120若涉及吴大宇身故与李敖旧识关系，应区分得知死讯与旧事补记；121若为胡茵梦新闻评论，应明确写成李敖读报/摘评，不扩写成胡茵梦独立年表。"
+  },
+  {
+    "round": "li-ao-suixielu-qianji-round015-116-125",
+    "book": "李敖随写录前集",
+    "chapter": "116.文化费至125.贩书者言",
+    "date": "2026-06-15",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/116.文化费.txt至125.贩书者言.txt",
+    "scope": "《李敖随写录前集》第十五轮：继续按一次10篇处理116至125，覆盖李敖读文化经费计划并质疑花钱是否成文化、读李登辉率众慈湖谒陵并讽张学良、写“孤独、快乐、定稿”的专著生活技术、读高登辉命名报道并质疑李登辉二十年前地位、因吴大宇死讯拉杂想起吴铸人/吴庆宜/张忠琳旧事、读胡茵梦提前出关报道并批妖妄做作、读王康陆土城看守所报道并重申黑牢说源于自己揭发、摘录《海外侨报》论台湾当局纵容台独、读郝柏村答询二二八愧疚说并称迟来的道歉，以及从陈律师处出来后逛牯岭街书店与老板笑谈学历史不能发财。外部报道继续按李敖摘读/评论处理；写作方法、旧识回忆、逛书店对话作为李敖当事事件。",
+    "range": "1991-10-31 to 1991-11-06",
+    "sourceLines": "116第3、5行；117第3、5行；118第3、5、7、9、11、13、15行；119第3、5行；120第3至33行奇数行；121第3、5、7、9、11、13、15行；122第3、5行；123第4、6、8、10、12行；124第3、5、7行；125第3行",
+    "added": 10,
+    "revised": 0,
+    "removed": 0,
+    "ids": [
+      "li-ao-suixielu-qianji-1991-10-31-comments-cultural-fund-spending-not-culture",
+      "li-ao-suixielu-qianji-1991-10-31-comments-cihu-tomb-visit-and-zhang-xueliang",
+      "li-ao-suixielu-qianji-1991-11-01-writes-solitude-happiness-final-draft-discipline",
+      "li-ao-suixielu-qianji-1991-11-01-comments-gao-denghui-name-after-lee-tenghui",
+      "li-ao-suixielu-qianji-1991-11-02-wu-dayu-death-recalls-wu-zhuren-qingyi-zhang-zhonglin",
+      "li-ao-suixielu-qianji-1991-11-03-comments-hu-yinmeng-retreat-early-exit",
+      "li-ao-suixielu-qianji-1991-11-04-comments-tucheng-black-prison-claim-wang-kanglu",
+      "li-ao-suixielu-qianji-1991-11-05-notes-overseas-qiaobao-taiwan-authorities-tolerate-taiwan-independence",
+      "li-ao-suixielu-qianji-1991-11-06-comments-hau-peitsun-late-apology-228",
+      "li-ao-suixielu-qianji-1991-11-06-guling-street-bookstore-boss-history-fortune-joke"
+    ],
+    "status": "completed",
+    "notes": [
+      "116、117、119、121、122、123、124均为李敖读报/摘录/评论节点，外部文化政策、谒陵、命名报道、闭关报道、看守所说法、海外侨报论证和郝柏村答询不拆为旁人独立年表。",
+      "118为李敖在随写中自定写作生活技术，摘要已写明“在随写中”，不把目标性文字写成外部事件。",
+      "120因原文明确说“由吴大宇之死，拉杂想起这些往事”，本轮合为一个死讯触发的旧识回忆节点，不拆吴铸人、吴庆宜、张忠琳多条。",
+      "122把“黑牢时代过去了”报道与李敖自称黑牢说起于自己揭发土城看守所合并为狱政批评节点，并接回土城看守所旧线。",
+      "125为明确当事外出和对话节点，记录李敖从陈律师处出来逛牯岭街书店及与老板笑谈。"
+    ],
+    "checks": [
+      "已重建TXT/CSV导出并校验：项目总表9892条，《李敖随写录前集》128条；duplicateIds=0；字符串crossReferences缺失=0；duplicateRefs=0；badDisplayDates=0；TXT/CSV/manifest总量一致；app/index dataVersion一致；本轮10条均进入TXT与CSV。"
+    ],
+    "currentBookTotal": 128,
+    "currentProjectTotal": 9892,
+    "dataVersion": "2026-06-15-li-ao-suixielu-qianji-round015-116-125",
+    "nextRecommendation": "下一轮建议继续《李敖随写录前集》126至135：处理五十二军老兵之言、宜兰独立说、“郑南榕托梦”！、导演朱延平抄袭卓别林、李光耀的独见、“一旦为贼常成靶”、周劢夫来谈、陈水扁指责许阿桂选择性执法、第四室老友聚餐，以及后起之秀的文字。继续按10篇推进；132、134若为来谈或老友聚餐，应优先按李敖会谈/聚餐当事节点处理，126若材料很长则压缩为李敖摘录/评论节点。"
+  },
+  {
+    "round": "li-ao-suixielu-qianji-round016-126-135",
+    "book": "李敖随写录前集",
+    "chapter": "126.五十二军老兵之言至135.后起之秀的文字",
+    "date": "2026-06-15",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/126.五十二军老兵之言.txt至135.后起之秀的文字.txt",
+    "scope": "《李敖随写录前集》第十六轮：继续按一次10篇处理126至135，覆盖李敖听五十二军擦车老兵谈撤退砍断攀绳并据回忆录补正军头掩饰、摘录林聪明以宜兰独立反讽台独、记叶菊兰记者会称消息源为“郑南榕托梦”且当日来电未回、晚饭后偶见台视电影并批朱延平抄袭卓别林、摘录李光耀《时代》访谈论中苏改革、录读者政明来信追问《李敖求是评论》迟寄并写“一旦为贼常成靶”、周劢夫来谈书画并称佩服李敖挺身而斗、读陈水扁指责许阿桂选择性执法声明并判断批许对而批监察院欠当、与台大第一宿舍第四室老友孙英善/陈彦增/陈良榘聚餐并谈不交新朋友，以及读南方朔和司马文武文字后称许阿桂与《活水》批评皆自己有文在先。外部声明、报刊访谈和他人文章继续按李敖摘读/评论处理；来电未回、邻居来谈、老友聚餐和晚饭后看电视作为李敖当事事件。",
+    "range": "1991-11-07 to 1991-11-14",
+    "sourceLines": "126第3、5、7、9、11、13、15行；127第3、5行；128第3、5、7行；129第3行；130第3至39行奇数行；131第3、5、7行；132第3、5行；133第3、5、7、9、11行；134第3行；135第3、5、7、9、11、13、15、17、19、21、23行",
+    "added": 10,
+    "revised": 0,
+    "removed": 0,
+    "ids": [
+      "li-ao-suixielu-qianji-1991-11-07-hears-fifty-second-army-veteran-rope-cutting-and-corrects-memoirs",
+      "li-ao-suixielu-qianji-1991-11-08-comments-lin-congming-yilan-independence-satire",
+      "li-ao-suixielu-qianji-1991-11-09-ye-julan-call-not-returned-and-zheng-nanrong-dream-source",
+      "li-ao-suixielu-qianji-1991-11-10-watches-taiwan-tv-movie-and-criticizes-zhu-yanping-chaplin-plagiarism",
+      "li-ao-suixielu-qianji-1991-11-10-notes-lee-kuan-yew-time-interview-on-china-soviet-reform",
+      "li-ao-suixielu-qianji-1991-11-11-reader-letter-qiushi-review-delay-once-thief-always-target",
+      "li-ao-suixielu-qianji-1991-11-12-zhou-maifu-visits-talks-calligraphy-painting-and-praises-li-fighting-spirit",
+      "li-ao-suixielu-qianji-1991-11-12-comments-chen-shuibian-xu-agui-selective-enforcement-hualon",
+      "li-ao-suixielu-qianji-1991-11-13-fourth-room-old-friends-lunch-and-no-new-friends-writing-discipline",
+      "li-ao-suixielu-qianji-1991-11-14-comments-nanfang-shuo-sima-wenwu-later-followers-after-li"
+    ],
+    "status": "completed",
+    "notes": [
+      "126材料很长，但主轴是李敖听附近擦车老兵前一天小聊所述，并在随写中据多种军史回忆核对；故合为一个老兵谈话兼史料补正节点，不拆刘玉章、张晴光、廖传枢等旁人独立年表。",
+      "127、130、133、135均为李敖读报/摘录/评论节点，外部质询、访谈、声明和副刊文章不扩写为旁人现场事件。",
+      "128把“郑南榕托梦”写成叶菊兰在记者会被追问消息来源时的说法，并合并当天叶菊兰来电李敖未回；摘要已限定梦境表述语境。",
+      "129是李敖晚饭后偶见台视电影的观看节点，按媒体观看与影评处理。",
+      "132、134为明确来谈/聚餐当事节点，分别记录周劢夫来谈书画和第四室老友聚餐；134中的朋友观念按席间李敖自述写入。"
+    ],
+    "checks": [
+      "已重建TXT/CSV导出并校验：项目总表9902条，《李敖随写录前集》138条；duplicateIds=0；crossReferences缺失=0；duplicateRefs=0；badDisplayDates=0；TXT/CSV/manifest总量一致；app/index dataVersion一致；本轮10条均进入TXT与CSV。"
+    ],
+    "currentBookTotal": 138,
+    "currentProjectTotal": 9902,
+    "dataVersion": "2026-06-15-li-ao-suixielu-qianji-round016-126-135",
+    "nextRecommendation": "下一轮建议继续《李敖随写录前集》136至145：处理名作家的蠢话、陈履安论尊严、台湾是中国的地方之一、骗子骗官、执行死刑与调查局、贺伯与蒋介石有后、赵赞凯来求稿、叶明勋死了、马壁学来了，以及王老吉死了。继续按10篇推进；138若涉及台湾/中国关系判断，仍写成李敖在随写中的论断；140若为死刑/调查局新闻，压为李敖摘评节点；142、144、145若有来访或死讯触发旧事回忆，按李敖当事会谈或因死讯想起的语境处理。"
+  },
+  {
+    "round": "li-ao-suixielu-qianji-round017-136-145",
+    "book": "李敖随写录前集",
+    "chapter": "136.李世杰拟告李璜状至145.国民党的电影问题",
+    "date": "2026-06-15",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/136.李世杰拟告李璜状.txt至145.国民党的电影问题.txt",
+    "scope": "《李敖随写录前集》第十七轮：继续按一次10篇处理136至145，覆盖李敖因李璜死讯附李世杰拟告李璜状并评其以子之矛攻子之盾、读山线铁路造桥段车祸报道并批《中央日报》死亡人数多报六人、陈良埙自美返台午请李敖和小屯吃粤菜且李敖追记其孙案冤狱后玩世不恭、尹章义来电致敬并谈读《泪眼中的废除刑法第100条运动》感慨、李敖早餐边看书边听西哈努克子死孙亡新闻并叹政治斗争凶残、与陈彦增全家在特厚餐馆吃饭听徐茂雄讲解牛经、读《时报周刊》杨凡访谈并回忆杨凡到家拍照搬乱藏书、读郭廷亮坠车报道后表态不信谋害说、摘录邓朴方受难访谈并批共产党斗争同志残忍，以及收到台湾电影工作者投书并存证批中影《推手》获金马奖提名的双重标准。长篇告发状、投书和报刊访谈均作为李敖附录/收到/摘读材料处理，不拆为旁人独立年表；饭局、电话、听新闻、收到投书和家中拍照回忆作为李敖当事事件。",
+    "range": "1991-11-15 to 1991-11-19",
+    "sourceLines": "136第3、5、7、9、11、13、15、19、23、25、27、29、33、35、37、43、45、47、49、51、53、55、59、63、65行；137第3行；138第3、5行；139第3、5行；140第3行；141第3行；142第3、5、7、9、11、13行；143第3、5行；144第3、5、7、9、11、13、15、17、19、21、23行；145第3、5、7、9、11、13、15行",
+    "added": 10,
+    "revised": 0,
+    "removed": 0,
+    "ids": [
+      "li-ao-suixielu-qianji-1991-11-15-li-huang-death-attaches-li-shijie-draft-complaint",
+      "li-ao-suixielu-qianji-1991-11-16-comments-central-daily-zaoqiao-crash-death-count-error",
+      "li-ao-suixielu-qianji-1991-11-16-chen-liangxun-returns-from-us-lunch-with-li-and-xiaotun",
+      "li-ao-suixielu-qianji-1991-11-16-yin-zhangyi-calls-after-reading-article-100-essay",
+      "li-ao-suixielu-qianji-1991-11-17-breakfast-hears-sihanouk-children-grandchildren-killed-news",
+      "li-ao-suixielu-qianji-1991-11-17-chen-yanzeng-family-tehou-restaurant-xu-maoxiong-beef-talk",
+      "li-ao-suixielu-qianji-1991-11-17-reads-times-weekly-yang-fan-and-remembers-photo-session",
+      "li-ao-suixielu-qianji-1991-11-18-comments-guo-tingliang-train-fall-not-murder",
+      "li-ao-suixielu-qianji-1991-11-19-notes-deng-pufang-mingpao-interview-cultural-revolution-suffering",
+      "li-ao-suixielu-qianji-1991-11-19-receives-film-workers-letter-on-pushing-hands-cmpc-double-standard"
+    ],
+    "status": "completed",
+    "notes": [
+      "136虽附完整刑事告发状，但李敖当事节点是因李璜死讯回忆李宁旧话、附李世杰生前代写状子并作评论；告发状内部证据和证人不拆为多条。",
+      "137、143、144为李敖读报/读刊后判断节点；140是早餐时边看书边听到新闻后的感慨，均不扩写为外部新闻独立年表。",
+      "138、141为明确饭局节点，分别记录陈良埙请吃粤菜及与陈彦增全家在特厚餐馆听徐茂雄讲牛肉。",
+      "139为尹章义来电节点，并合并李敖对其台湾史研究的补记。",
+      "142把《时报周刊》杨凡访谈与李敖回忆杨凡到家拍照合并为一个摄影/媒体节点；145把电影工作者投书和李敖存证评论合并为一个收到投书节点。"
+    ],
+    "checks": [
+      "已重建TXT/CSV导出并校验：项目总表9912条，《李敖随写录前集》148条；duplicateIds=0；crossReferences缺失=0；duplicateRefs=0；badDisplayDates=0；TXT/CSV/manifest总量一致；app/index dataVersion一致；本轮10条均进入TXT与CSV。"
+    ],
+    "currentBookTotal": 148,
+    "currentProjectTotal": 9912,
+    "dataVersion": "2026-06-15-li-ao-suixielu-qianji-round017-136-145",
+    "nextRecommendation": "下一轮建议继续《李敖随写录前集》146至155：处理谢聪敏来电、享受西湖、苏秋镇谈台湾的选风、高院法官与红包、黄奠华法官的持平之言、王企祥责王敬羲、妖妄的国代候选人、天帝教与妄人、周礼祭祖，浑蛋集合，以及邓维桢谈许信良。继续按10篇推进；146、148、155若为来电/谈话，按李敖通信或会谈当事节点处理；149、150若为司法材料，压成李敖摘评节点；153、154若为宗教/祭祖批评，明确写成李敖在随写中的判断。"
+  },
+  {
+    "round": "li-ao-suixielu-qianji-round018-146-155",
+    "book": "李敖随写录前集",
+    "chapter": "146.谢聪敏来电至155.邓维桢谈许信良",
+    "date": "2026-06-15",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/146.谢聪敏来电.txt至155.邓维桢谈许信良.txt",
+    "scope": "《李敖随写录前集》第十八轮：继续按一次10篇处理146至155，覆盖李敖接谢聪敏来电并拒绝赴彰化助选演讲、接江述凡来电记其“享受西湖”语、从陈律师处出来去看苏秋镇并劝其别打李敖牌、读《中央日报》法官升迁报道后评论高院法官红包、摘录黄奠华投书并批许阿桂华隆案办案不公、接王企祥来电获知其责王敬羲长期盗印李敖书、记廖书雯以算命理由参选并批台湾迷信风气、摘录天帝教广告并批以祈祷化解政治危机的方法荒谬、读周公大礼祭祖报道后批台湾复古与蒋彦士，以及午前接待邓维桢谈许信良与新潮流系斗争并以唇亡齿寒回应。长篇投书、广告和报道均作为李敖读报/摘录/评论材料处理，不拆为旁人独立事件；谈话和来电均按李敖接触、回应或记述入库。",
+    "range": "1991-11-19 to 1991-11-24",
+    "sourceLines": "146第3行；147第3行；148第3、5行；149第3行；150第3、5、7、9、11、13、15、17、19、21、23、25行；151第3行；152第3、5行；153第3、5、7、9、11、13、15、17、19、21行；154第3、5行；155第3、5、7行",
+    "added": 10,
+    "revised": 0,
+    "removed": 0,
+    "ids": [
+      "li-ao-suixielu-qianji-1991-11-19-xie-congmin-call-invites-changhua-campaign-speech-refused",
+      "li-ao-suixielu-qianji-1991-11-20-jiang-shufan-call-on-enjoying-west-lake",
+      "li-ao-suixielu-qianji-1991-11-21-visits-su-qiuzhen-and-warns-not-to-use-li-ao-card",
+      "li-ao-suixielu-qianji-1991-11-21-comments-central-daily-high-court-judges-red-envelopes",
+      "li-ao-suixielu-qianji-1991-11-21-excerpts-huang-dianhua-letter-and-criticizes-xu-agui-hualon-case",
+      "li-ao-suixielu-qianji-1991-11-22-wang-qixiang-call-rebukes-wang-jingxi-for-hongkong-pirated-books",
+      "li-ao-suixielu-qianji-1991-11-22-comments-liao-shuwen-fortune-telling-candidacy-superstition",
+      "li-ao-suixielu-qianji-1991-11-23-comments-tiantijiao-ad-prayer-response-to-taiwan-independence-crisis",
+      "li-ao-suixielu-qianji-1991-11-24-comments-central-daily-zhou-rite-ancestor-ceremony-jiang-yanshi",
+      "li-ao-suixielu-qianji-1991-11-24-deng-weizhen-visits-discusses-hsu-hsinliang-new-tide-faction"
+    ],
+    "status": "completed",
+    "notes": [
+      "146与151为明确来电节点：分别记录李敖拒绝为谢聪敏彰化选举助讲，以及王企祥向李敖告知责王敬羲盗印李敖著作旧账。",
+      "147只记录李敖接江述凡来电并赞其“享受西湖”之语，避免误写成李敖游西湖。",
+      "148与155为会谈节点：苏秋镇处谈台湾选风并给出“勿打李敖牌”建议；邓维桢午前来访谈许信良、新潮流系与张俊宏，李敖作“唇亡齿寒”回应。",
+      "149、150、152、153、154均按李敖读报、摘录或随写评论处理；长篇司法投书、天帝教广告、祭祖报道和候选人言论不拆为外部独立年表。"
+    ],
+    "checks": [
+      "已重建TXT/CSV导出并校验：项目总表9922条，《李敖随写录前集》158条；duplicateIds=0；crossReferences缺失=0；duplicateRefs=0；badDisplayDates=0；TXT/CSV/manifest总量一致；app/index dataVersion一致；本轮10条均进入TXT与CSV。"
+    ],
+    "currentBookTotal": 158,
+    "currentProjectTotal": 9922,
+    "dataVersion": "2026-06-15-li-ao-suixielu-qianji-round018-146-155",
+    "nextRecommendation": "下一轮建议继续《李敖随写录前集》156至165：处理李敖赴高阳住处听其讲张大千、台湾地院法官接红包、政治私交、郭国基政治态度、读陈履安与陈重光旧事、许常惠来电谈音乐界、读蒋纬国谈军队国家化，以及相关国大选举/司法/文化评论。继续按10篇推进；若156起实际文件名与目录有差异，以源文件目录为准。"
+  },
+  {
+    "round": "li-ao-suixielu-qianji-round019-156-165",
+    "book": "李敖随写录前集",
+    "chapter": "156.刘福增的请帖至165.此马来头大",
+    "date": "2026-06-15",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/156.刘福增的请帖.txt至165.此马来头大.txt",
+    "scope": "《李敖随写录前集》第十九轮：继续按一次10篇处理156至165，覆盖李敖收到刘福增竞选请帖并批大学教授涉政、剪存《纽约侨报》寺泽国子一人办报材料、摘记《国际先锋论坛报》揭里根二战经历谎言、借汤卿谋与袁枚反省读者只部分理解李敖文章、委任郭律师假扣押胡秋原新店住宅并听取回报、坐计程车遇匡学中谈反攻大陆幻觉并回讲白崇禧浇花故事、读新华社翰园碑林电讯后批书法碑林风气并补记未理陈大络来电、接待刘辰旦自高雄来访两小时谈大陆/坐牢旧事/台湾政治、接李宁电话谈电视画面与实际模样并自嘲真人不露相，以及与陈彦增全家吃湖北菜并读王德馨审查意见后评论恐马克思情结。外部报刊、电讯、审查意见和他人讲述均作为李敖剪存、读报、听闻、会谈或现场回应处理，不拆为旁人独立事件。",
+    "range": "1991-11-25 to 1991-12-01",
+    "sourceLines": "156第3、5行；157第3、5行；158第3行；159第3、5行；160第3行；161第3、5、7行；162第3、5、7、9、11、13、15、17行；163第3、5、7、9、11行；164第3、5行；165第3、5行",
+    "added": 10,
+    "revised": 0,
+    "removed": 0,
+    "ids": [
+      "li-ao-suixielu-qianji-1991-11-25-receives-liu-fuzeng-campaign-invitations-and-criticizes-professor-politics",
+      "li-ao-suixielu-qianji-1991-11-26-clips-new-york-qiaobao-utah-nippo-one-person-newspaper",
+      "li-ao-suixielu-qianji-1991-11-27-notes-international-herald-tribune-bradlee-reagan-war-lie",
+      "li-ao-suixielu-qianji-1991-11-28-reflects-readers-only-partly-know-li-ao-writings",
+      "li-ao-suixielu-qianji-1991-11-29-attaches-hu-qiuyuan-home-in-xindian-defamation-case",
+      "li-ao-suixielu-qianji-1991-11-29-taxi-talk-with-kuang-xuezhong-and-bai-chongxi-flower-story",
+      "li-ao-suixielu-qianji-1991-11-30-comments-xinhua-hanyuan-stele-forest-and-ignores-chen-daluo-call",
+      "li-ao-suixielu-qianji-1991-11-30-liu-chendan-visits-from-kaohsiung-two-hour-talk",
+      "li-ao-suixielu-qianji-1991-11-30-li-ning-phone-comments-tv-image-and-real-appearance",
+      "li-ao-suixielu-qianji-1991-12-01-eats-hubei-food-with-chen-yanzeng-family-and-reads-max-weber-review"
+    ],
+    "status": "completed",
+    "notes": [
+      "156为收请帖节点，兼记李敖对刘福增、李远哲涉选的评论；未把两场竞选活动拆为外部事件。",
+      "157、158、162为剪报/读报/电讯摘评节点；162另含陈大络前一阵子来电未理，合并在读电讯评论中处理。",
+      "160为强法律行动节点：郭律师代李敖执行胡秋原住宅产权假扣押，李敖听取经过后大笑。",
+      "161、163、164、165分别为计程车谈话、刘辰旦来访、李宁电话和陈彦增饭局/稿本审查意见节点，均以李敖接触、回应或现场判断为中心。"
+    ],
+    "checks": [
+      "已重建TXT/CSV导出并校验：项目总表9932条，《李敖随写录前集》168条；duplicateIds=0；crossReferences缺失=0；duplicateRefs=0；badDisplayDates=0；TXT/CSV/manifest总量一致；app/index dataVersion一致；本轮10条均进入TXT与CSV。"
+    ],
+    "currentBookTotal": 168,
+    "currentProjectTotal": 9932,
+    "dataVersion": "2026-06-15-li-ao-suixielu-qianji-round019-156-165",
+    "nextRecommendation": "下一轮建议继续《李敖随写录前集》166至175：处理小人物的抗议方式、任显群有“衣冠冢”、宋美龄秘辛、李登辉厚颜自吹、马速良、国民党“配票作业”、人权中美比较论、大富翁“穷”死、买新裤改旧裤、乱世浩劫二例。继续按10篇推进；166、174若是李敖日常动作或亲历细节要优先收，167至173及175若为读报/摘评/历史材料则明确写成李敖读报、剪存或随写中的判断。"
+  },
+  {
+    "round": "li-ao-suixielu-qianji-round020-166-175",
+    "book": "李敖随写录前集",
+    "chapter": "166.小人物的抗议方式至175.乱世浩劫二例",
+    "date": "2026-06-15",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/166.小人物的抗议方式.txt至175.乱世浩劫二例.txt",
+    "scope": "《李敖随写录前集》第二十轮：继续按一次10篇处理166至175，覆盖李敖读《联合报》张姓女子法庭抗议案并批国民党法官举轻若重、读章筠倩讣文与任治平追思文并讥任显群衣冠冢和顾正秋名分之争、丁颍来访时午饭听王企祥谈宋美龄秘辛、读《世界论坛报》李登辉自称台湾史三大研究者之一并批其厚颜、接刘绍唐电话听“马连良/马速良”校对趣事、陈中雄留下国民党配票资料并由李敖存证、摘记《人民日报》中美人权/生存权比较、摘记蔡万春欠税成呆账、下午到远东百货买新裤并改旧裤，以及剪存《中国时报》两则大陆亲属来台困厄报道作为乱世浩劫死证。报刊长文、选举信函和两则浩劫材料均以李敖读报、摘存、收取资料或现场评论为中心，不拆为旁人独立年表。",
+    "range": "1991-12-01 to 1991-12-07",
+    "sourceLines": "166第3、5、7、9、11、13、15行；167第3、5、7、9、11、13、15、17、19、21行；168第3、5、7、9、11、13、15、17行；169第3、5行；170第3、5行；171第3、5、7、9、11、13、15、17、19、21、23、25、27、29、31、33行；172第3、5、7、9、11、13行；173第3行；174第3、5、7行；175第3、5、7、9、11、13、15、17、19、21、23、25、27、29、31、33、35、37、39行",
+    "added": 10,
+    "revised": 0,
+    "removed": 0,
+    "ids": [
+      "li-ao-suixielu-qianji-1991-12-01-comments-united-daily-zhang-woman-court-protest-seven-month-sentence",
+      "li-ao-suixielu-qianji-1991-12-02-comments-ren-xianqun-clothes-tomb-obituary-and-gu-zhengqiu",
+      "li-ao-suixielu-qianji-1991-12-02-hosts-ding-ying-lunch-wang-qixiang-soong-mayling-anecdotes",
+      "li-ao-suixielu-qianji-1991-12-03-comments-world-forum-lee-tenghui-self-praises-taiwan-history-expertise",
+      "li-ao-suixielu-qianji-1991-12-04-liu-shaotang-call-malianliang-masuliang-generation-gap",
+      "li-ao-suixielu-qianji-1991-12-05-chen-zhongxiong-leaves-kmt-vote-allocation-material",
+      "li-ao-suixielu-qianji-1991-12-05-notes-peoples-daily-human-rights-china-us-comparison",
+      "li-ao-suixielu-qianji-1991-12-05-notes-tsai-wanchun-tax-arrears-become-bad-debt",
+      "li-ao-suixielu-qianji-1991-12-06-buys-new-trousers-and-alters-old-trousers-at-far-eastern-department-store",
+      "li-ao-suixielu-qianji-1991-12-07-clips-china-times-two-chaos-disaster-family-separation-cases"
+    ],
+    "status": "completed",
+    "notes": [
+      "166、167、169、172、173、175均为李敖读报/摘报/评论节点；长报道内部人物经历不拆成旁人年表。",
+      "168为饭局口述材料：丁颍来，李敖午请吃饭，王企祥席间谈宋美龄秘辛；七项秘辛合并为一条会谈记录。",
+      "170为刘绍唐电话节点，按李敖接电并记录传记文学社校对趣事处理。",
+      "171为陈中雄留下资料节点，李敖摘录国民党信函和介绍卡格式并说明存证。",
+      "174为李敖日常行动节点：下午去远东百货买两条新西裤并改两条旧裤；颜宁旧话作为背景回忆。"
+    ],
+    "checks": [
+      "已重建TXT/CSV导出并校验：项目总表9942条，《李敖随写录前集》178条；duplicateIds=0；crossReferences缺失=0；duplicateRefs=0；badDisplayDates=0；TXT/CSV/manifest总量一致；app/index dataVersion一致；本轮10条均进入TXT与CSV。"
+    ],
+    "currentBookTotal": 178,
+    "currentProjectTotal": 9942,
+    "dataVersion": "2026-06-15-li-ao-suixielu-qianji-round020-166-175",
+    "nextRecommendation": "下一轮建议继续《李敖随写录前集》176至185：处理看扁阿扁、监委拿黑心钱吃白饭、买脚踏车、十万人一个图书馆每个人不到一本书、买喜马拉雅猫、胡虚一破财印书行孝、吴丰山主持的黄色广告、彭明敏谈话、假神道拉票、熊式一死了。继续按10篇推进；178、180若为李敖购买行动要按日常当事节点收，181、183若为来谈或谈话材料要写清场景，其余报刊批评仍按李敖读报/摘评处理。"
+  },
+  {
+    "round": "li-ao-suixielu-qianji-round021-176-185",
+    "book": "李敖随写录前集",
+    "chapter": "176.看扁阿扁至185.熊式一死了",
+    "date": "2026-06-15",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/176.看扁阿扁.txt至185.熊式一死了.txt",
+    "scope": "《李敖随写录前集》第二十一轮：继续按一次10篇处理176至185，覆盖李敖读《中央日报》陈水扁提案冒签报道并批其法理站不住、读《联合报》资深监察委员退职报道并批监委长期失职、下午与小屯在建国南路信义路口买脚踏车、读台北市图书馆藏书统计并批国民党统治下读书风气、下午与小屯在林森北路买喜马拉雅小公猫、听说胡虚一欲以战士授田证折现款印父亲纪念文字并力劝阻止、摘录《自立晚报》十则黄色广告并批吴丰山主持下报纸风气、读彭明敏纽约谈话并判断其会后悔率先支持李登辉、读谢聪敏迎妈祖游行拉票报道并批为假神道拉票，以及读熊式一死讯后补记吴申叔家初见和贵阳街再遇。报刊主体、广告文字和胡虚一附录史料均作为李敖读报、摘录、听闻、劝阻或随写判断处理，不拆为旁人独立年表。",
+    "range": "1991-12-07 to 1991-12-11",
+    "sourceLines": "176第3、5、7、9、11、13、15、17、19、21、23行；177第3、5行；178第3、5行；179第3、5、7、9、11、13行；180第3、5、7行；181第3、5、7、9、11、13、15、17、19、21、23、25、27、29行；182第3、5、7、9、11、13、15、17、19、21、23行；183第3、5、7、9、11、13、15、17、19、21、23、25行；184第3、5、7、9、11、13行；185第3、5行",
+    "added": 10,
+    "revised": 0,
+    "removed": 0,
+    "ids": [
+      "li-ao-suixielu-qianji-1991-12-07-comments-central-daily-chen-shuibian-proxy-signature",
+      "li-ao-suixielu-qianji-1991-12-07-comments-united-daily-retiring-control-yuan-members",
+      "li-ao-suixielu-qianji-1991-12-07-buys-bicycle-with-xiaotun-at-jianguo-xinyi",
+      "li-ao-suixielu-qianji-1991-12-08-comments-united-daily-taipei-library-books-per-capita",
+      "li-ao-suixielu-qianji-1991-12-08-buys-himalayan-cat-with-xiaotun-on-linsen-north-road",
+      "li-ao-suixielu-qianji-1991-12-09-opposes-hu-xuyi-spending-redemption-money-printing-father-memorial",
+      "li-ao-suixielu-qianji-1991-12-10-notes-independent-evening-post-sex-ads-and-wu-fengshan",
+      "li-ao-suixielu-qianji-1991-12-11-comments-peng-mingmin-new-york-talk-lee-tenghui-regret",
+      "li-ao-suixielu-qianji-1991-12-11-comments-xie-congmin-mazu-parade-vote-canvassing",
+      "li-ao-suixielu-qianji-1991-12-11-reads-xiong-shiyi-death-and-recalls-two-encounters"
+    ],
+    "status": "completed",
+    "notes": [
+      "176、177、179、182、183、184均为李敖读报/摘录/评论节点；报刊内的立院、监察院、图书馆、广告、彭明敏谈话与谢聪敏游行细节不拆成旁人年表。",
+      "178、180为李敖与小屯外出购买的日常当事节点，分别记录建国南路信义路口买脚踏车和林森北路买喜马拉雅猫。",
+      "181为李敖听闻、劝阻和请苏世芳、吕佳真转劝的朋友交往节点；附录中胡虚一父亲1942年史料只作李敖阅读/判断背景，不扩写为外部抗战年表。",
+      "183的“后悔支持李登辉”写为李敖在随写中判断；184的“假神道拉票”写为李敖读报后的评论。",
+      "185以李敖读死讯触发的旧识回忆为中心，记录吴申叔家初见和贵阳街看画时再遇，不把熊式一赴京病逝扩写为独立传记线。"
+    ],
+    "checks": [
+      "已重建TXT/CSV导出并校验：项目总表9952条，《李敖随写录前集》188条；duplicateIds=0；crossReferences缺失=0；duplicateRefs=0；badDisplayDates=0；TXT/CSV/manifest总量一致；app/index dataVersion一致；本轮10条均进入TXT与CSV。"
+    ],
+    "currentBookTotal": 188,
+    "currentProjectTotal": 9952,
+    "dataVersion": "2026-06-15-li-ao-suixielu-qianji-round021-176-185",
+    "nextRecommendation": "下一轮建议收束《李敖随写录前集》186至189：处理“引清兵入关”？、登广告自曝其矛盾、李镇源的可鄙、刘捷与《黑龙江百科全书》。目录目前只见186至189四篇，下一轮可按收束轮处理；若186至188仍为报刊/政论材料，继续写成李敖读报、摘评或随写中的判断，189若涉及刘捷来信、赠书或百科全书材料，要写清李敖收到、阅读或评论的场景。"
+  },
+  {
+    "round": "li-ao-suixielu-qianji-round022-186-189-closeout",
+    "book": "李敖随写录前集",
+    "chapter": "186.“引清兵入关”？至189.刘捷与《黑龙江百科全书》",
+    "date": "2026-06-15",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/186.“引清兵入关”？.txt至189.刘捷与《黑龙江百科全书》.txt",
+    "scope": "《李敖随写录前集》第二十二轮收束：处理目录末尾186至189，覆盖李敖读民进党中央助选团广告并批“引清兵入关”比拟不伦、读《自立晚报》民进党满版广告并批“台湾实质独立”说与继续台独自相矛盾、读许强医师追思会报道并批李镇源四十年后才表现安全勇气，以及收到《黑龙江百科全书》与刘捷来信并评其编纂用力而装订怪。186至188均为李敖读广告/读报后的随写判断，189为李敖收到书信并阅读评价的当事节点；广告全文、追思会报道和刘捷来信内容均不拆为旁人独立年表。",
+    "range": "1991-12-11",
+    "sourceLines": "186第3、5、7、9、11、13行；187第3、5、7、9行；188第3、5、7、9行；189第3、5、7、9、11、13、15、17、19、21、23行",
+    "added": 4,
+    "revised": 0,
+    "removed": 0,
+    "ids": [
+      "li-ao-suixielu-qianji-1991-12-11-comments-dpp-ad-qing-soldiers-entering-pass-slogan",
+      "li-ao-suixielu-qianji-1991-12-11-comments-dpp-independent-fact-ad-self-contradiction",
+      "li-ao-suixielu-qianji-1991-12-11-comments-li-zhenyuan-xu-qiang-memorial-safe-courage",
+      "li-ao-suixielu-qianji-1991-12-11-receives-heilongjiang-encyclopedia-and-liu-jie-letter"
+    ],
+    "status": "completed",
+    "notes": [
+      "186、187均为民进党助选广告读后评论，写成李敖对口号、逻辑和台独论述的随写判断，不扩写为民进党广告发布事件。",
+      "188为李敖读许强追思会报道后批李镇源，重点在李敖对李镇源政治勇气时机的判断，许强案与追思会只作报道背景。",
+      "189为李敖收到《黑龙江百科全书》与刘捷来信的当事节点；刘捷信中书目考证、地址和百科全书说明合并为收信/赠书背景。",
+      "本轮为《李敖随写录前集》目录正文收束轮；源目录只见186至189，下一步建议做全书级收束复核。"
+    ],
+    "checks": [
+      "已重建TXT/CSV导出并校验：项目总表9956条，《李敖随写录前集》192条；duplicateIds=0；crossReferences缺失=0；duplicateRefs=0；《李敖随写录前集》badDisplayDates=0；TXT/CSV/manifest总量一致；app/index dataVersion一致；本轮4条均进入TXT与CSV。"
+    ],
+    "currentBookTotal": 192,
+    "currentProjectTotal": 9956,
+    "dataVersion": "2026-06-15-li-ao-suixielu-qianji-round022-186-189-closeout",
+    "nextRecommendation": "下一轮建议做《李敖随写录前集》全书级收束复核：核对目录至189篇及自序/凡例均已覆盖，统一检查 source/sourceLocation/displayDate/datePrecision、书内排序、重复ID、交叉引用、TXT/CSV导出覆盖与README/日志计数；确认无漏收后，再转入下一本沉思日记类材料。"
+  },
+  {
+    "round": "li-ao-suixielu-qianji-round023-full-closeout-audit",
+    "book": "李敖随写录前集",
+    "chapter": "全书级收束复核",
+    "date": "2026-06-15",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/《李敖随写录前集》自序.txt、001.凡例.txt至189.刘捷与《黑龙江百科全书》.txt，以及《李敖随写录前集》目录.txt",
+    "scope": "《李敖随写录前集》全书级收束复核：核对源目录、目录文件、自序、001.凡例至189.刘捷与《黑龙江百科全书》的章节覆盖，统一检查 source/sourceLocation/displayDate/datePrecision、书内排序、重复ID、交叉引用、source.path与source.lines、TXT/CSV导出覆盖、README/日志计数与app/index版本号。复核结果确认无漏收正文；目录文件不参与事件抽取；源目录中087文件名为原样“087波兰不肯“以德报怨”.txt”（少点），事件表按原文件名覆盖。",
+    "range": "1991-09-07 to 1994-09-22",
+    "sourceLines": "目录级复核：源文件191个，其中目录1个不入表，自序与正文189篇共190个非目录源文件均已覆盖；《李敖随写录前集》事件192条。",
+    "added": 0,
+    "revised": 0,
+    "removed": 0,
+    "ids": [],
+    "status": "completed",
+    "notes": [
+      "确认《李敖随写录前集》源目录001至189正文均有事件来源覆盖，自序也已覆盖；目录文件只作目录核对，不入年表。",
+      "事件表保持192条不变；多于190个源文件的原因是少数章节按李敖当事行动中心拆成多条事件。",
+      "源文件名“087波兰不肯“以德报怨”.txt”少了001式点号，已按原始文件名保留并通过source.path存在性校验，不做规范化改名。",
+      "本轮未新增事件，也未改写事件表本体；只记录全书收束审计并同步版本号。"
+    ],
+    "checks": [
+      "已重建TXT/CSV并完成全书审计：源文件191个，其中目录1个不入表，非目录源文件190个（自序+001至189正文）均已覆盖；《李敖随写录前集》192条，项目总表9956条；qianji duplicateIds=0，全项目duplicateIds=0；crossReferences缺失=0；duplicateRefs=0；missingRequired=0；source.path缺失=0；source.lines越界=0；书内sourceChapter排序倒置=0；本书192条均进入TXT与CSV；app/index dataVersion一致。"
+    ],
+    "currentBookTotal": 192,
+    "currentProjectTotal": 9956,
+    "dataVersion": "2026-06-15-li-ao-suixielu-qianji-round023-full-closeout-audit",
+    "nextRecommendation": "下一轮建议转入《李敖随写录后集》第一轮：先做目录、自序与起始文件边界确认，读取《李敖随写录后集》自序及001至010（邓维桢和他太太、信义公寓今昔、沈登恩、路上拾遗所见、每人每年只花二十元买书、《中央日报》乱说人是民进党、如此学术中立！、“蒙最高法院判死刑定谳”、选举与风水、郑自才），继续只收李敖当事动作、写作、收信/回电、读报摘评和现场判断，纯外部新闻作背景。"
+  },
+  {
+    "round": "li-ao-suixielu-houji-round001-frontmatter-001-010",
+    "book": "李敖随写录后集",
+    "chapter": "《李敖随写录后集》自序、001.邓维桢和他太太至010.郑自才",
+    "date": "2026-06-15",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/010.李敖随写录后集/《李敖随写录后集》自序.txt、001.邓维桢和他太太.txt至010.郑自才.txt",
+    "scope": "《李敖随写录后集》第一轮：新建后集数据文件并接入app与TXT/CSV导出；处理自序及001至010，覆盖李敖作后集自序并说明后集与《北京法源寺》《李敖求是评论》的关系、邓维桢来谈写作和出书计划、信义公寓修漏与购屋今昔、与陈良埙沈登恩午饭后参观远景台大店、路上拾见苏秋镇竞选传单并摘评、读《中央日报》购书统计报道并批官僚、读《中央日报》把苏秋镇乱说成民进党并批石永贵主持下报纸无知、读非党盟录影带删李远哲部分并批其学术中立、读死刑犯捐赠器官报道并批具结书官样文句、读选举风水报道并批台湾妖妄风气，以及追记收到吴清桂寄来的郑自才竞选海报并评其台独政见。外部传单、报道、录影带和历史材料均作为李敖拾见、读报、收件或随写判断背景，不拆旁人独立年表。",
+    "range": "1991-12-12 to 1994-09-22",
+    "sourceLines": "自序第3、5、7、9、11、13、15、17、19、21、23、25、27行；001第3行；002第3行；003第3行；004第3、5、7、9、11、13、15、17、19、21、23、25、27、29、31、33、35、37、39、41、43、45、47、49、51、53行；005第3、5、7、9行；006第3、5、7、9行；007第3、5行；008第3、5、7、9、11、13、15、17、19、21行；009第3、5行；010第3、5、7行",
+    "added": 11,
+    "revised": 0,
+    "removed": 0,
+    "ids": [
+      "li-ao-suixielu-houji-1994-09-22-writes-preface-and-positions-houji-as-final-coda",
+      "li-ao-suixielu-houji-1991-12-12-deng-weizhen-visits-talks-writing-publishing-plan",
+      "li-ao-suixielu-houji-1991-12-13-xinyi-apartment-leak-repair-and-price-memory",
+      "li-ao-suixielu-houji-1991-12-14-lunches-chen-liangxun-shen-dengen-visits-yuanjing-ntu-store",
+      "li-ao-suixielu-houji-1991-12-15-picks-up-su-qiuzhen-flyer-and-comments-li-hau-split",
+      "li-ao-suixielu-houji-1991-12-16-comments-central-daily-liao-zhenghao-book-spending",
+      "li-ao-suixielu-houji-1991-12-16-comments-central-daily-mislabels-su-qiuzhen-dpp",
+      "li-ao-suixielu-houji-1991-12-17-comments-lee-yuan-tseh-academic-neutrality-video-deletion",
+      "li-ao-suixielu-houji-1991-12-17-comments-death-row-organ-donation-document-wording",
+      "li-ao-suixielu-houji-1991-12-18-comments-election-fengshui-taiwan-superstition",
+      "li-ao-suixielu-houji-1991-12-19-notes-zheng-zicai-wife-campaign-poster-and-taiwan-republic-platform"
+    ],
+    "status": "completed",
+    "notes": [
+      "后集作为独立来源层新建data/timeline-events-li-ao-suixielu-houji.json，并接入app.js与两个导出脚本的数据文件列表。",
+      "自序按1994年9月22日李敖写作与自我写作分期节点入库，回挂《随写录前集》自序、《北京法源寺》与《李敖求是评论》旧链。",
+      "004、005、006、007、008、009均为李敖拾见、读报、看电视画面或随写评论节点；传单全文、报纸报道、录影带争议、死刑犯捐赠器官程序和地理师说法不拆旁人独立事件。",
+      "010写为李敖在12月19日随写中追记前一日收件，并明确把“失之矣”处理成李敖对竞选政见的随写判断。"
+    ],
+    "checks": [
+      "已重建TXT/CSV导出并校验：项目总表9967条，《李敖随写录后集》11条；duplicateIds=0；crossReferences缺失=0；duplicateRefs=0；后集missingRequired=0；source.path缺失=0；source.lines越界=0；TXT/CSV/manifest总量一致；app/index dataVersion一致；app与两个导出脚本均已接入后集数据文件；本轮11条均进入TXT与CSV。"
+    ],
+    "currentBookTotal": 11,
+    "currentProjectTotal": 9967,
+    "dataVersion": "2026-06-15-li-ao-suixielu-houji-round001-frontmatter-001-010",
+    "nextRecommendation": "下一轮建议继续《李敖随写录后集》第二轮，处理011至020：郝军头所信何教？、高玉树无耻、“六亿农民皆诗人”之后、中医解决不了检验问题、回潘毓刚电、海上缉私事件、陈大革谈宋楚瑜的阴谋、倒胃的邻居、还有公德心吗？、介绍黄信介票投给同党。继续按后集10篇一轮推进；011至014若为读报/政论/医药判断，要明确写成李敖在随写中读到、判断或批评，015若为回电应按李敖通信动作入库。"
   }
 ]
