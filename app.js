@@ -91,7 +91,8 @@ const dataFiles = [
   "./data/timeline-events-li-ao-zhaji.json",
   "./data/timeline-events-li-ao-wuwu-diary.json",
   "./data/timeline-events-li-ao-suixielu-qianji.json",
-  "./data/timeline-events-li-ao-suixielu-houji.json"
+  "./data/timeline-events-li-ao-suixielu-houji.json",
+  "./data/timeline-events-li-ao-baokanji.json"
 ];
 const supplementalDataFiles = new Set([
   "./data/timeline-events-first-book-supplement.json",
@@ -103,7 +104,7 @@ const supplementalDataFiles = new Set([
   "./data/timeline-events-fourth-book-deepening.json"
 ]);
 const processedBookCount = dataFiles.filter((file) => !supplementalDataFiles.has(file)).length;
-const dataVersion = '2026-06-15-li-ao-suixielu-houji-round001-frontmatter-001-010';
+const dataVersion = '2026-06-16-li-ao-baokanji-round001-001-018';
 
 const dateFormatter = new Intl.DateTimeFormat("zh-Hant", {
   year: "numeric",

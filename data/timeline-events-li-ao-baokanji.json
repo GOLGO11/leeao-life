@@ -1,0 +1,1293 @@
+[
+  {
+    "datePrecision": "range-context",
+    "certainty": "inferred",
+    "sourceBook": "李敖报刊集",
+    "ingestionRound": "li-ao-baokanji-round001-001-018",
+    "id": "li-ao-baokanji-1961-11-to-1965-12-writes-wenxing-editor-room-reports",
+    "date": "1961-11-01",
+    "displayDate": "1961年11月至1965年12月",
+    "category": "editing",
+    "sourceChapter": "001.李敖与“编辑室报告”",
+    "sourceFile": "李敖报刊集/001.李敖与“编辑室报告”.txt",
+    "sourceLocation": "第3至401行",
+    "sourceQuote": "李敖主编《文星》四年，掀起了一股“文星风云”，每月《文星》出刊，李敖写“编辑室报告”。",
+    "title": "李敖主编《文星》期间持续写“编辑室报告”",
+    "summary": "本书《李敖与“编辑室报告”》说明，李敖主编《文星》四年，每月出刊时写“编辑室报告”，借介绍本期内容夹带自己的议论意见。由于韩妙玄后记又记录李敖后来提醒部分“编辑室报告”其实出自陆啸钊，年表只据这篇作总体节点，不把摘编中的每则人物、文化或司法评论都拆成李敖单篇写作事件。",
+    "importance": 6,
+    "keywords": [
+      "李敖",
+      "文星",
+      "编辑室报告",
+      "韩妙玄",
+      "陆啸钊",
+      "文星风云"
+    ],
+    "tags": [
+      "periodical-editing",
+      "wenxing",
+      "editor-room-report",
+      "source-boundary",
+      "caveat"
+    ],
+    "people": [
+      "李敖",
+      "韩妙玄",
+      "陆啸钊"
+    ],
+    "places": [
+      "台湾",
+      "台北"
+    ],
+    "view": [
+      "报刊集线",
+      "文星线",
+      "编辑室报告线",
+      "写作线"
+    ],
+    "crossReferences": [
+      "book4-1963-07-18-chen-lifeng-recommends-li-as-wenxing-editor",
+      "book5-1965-12-15-wenxing-98-banned",
+      "book5-1965-12-27-wenxing-one-year-suspension"
+    ],
+    "works": [
+      "李敖报刊集",
+      "文星",
+      "编辑室报告"
+    ],
+    "source": {
+      "book": "李敖报刊集",
+      "chapter": "001.李敖与“编辑室报告”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/001.李敖报刊集/001.李敖与“编辑室报告”.txt",
+      "line": 3,
+      "lines": [
+        3,
+        401
+      ],
+      "note": "本篇为“编辑室报告”摘编说明；韩妙玄后记提示部分作者归属需谨慎。"
+    },
+    "additionalSources": [
+      {
+        "book": "李敖报刊集",
+        "chapter": "002.《文星杂志选集》导言",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/001.李敖报刊集/002.《文星杂志选集》导言.txt",
+        "line": 5,
+        "lines": [
+          5,
+          9
+        ],
+        "note": "导言说明李敖从《文星》第五年出现并使杂志改观。"
+      }
+    ]
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "sourceBook": "李敖报刊集",
+    "ingestionRound": "li-ao-baokanji-round001-001-018",
+    "id": "li-ao-baokanji-1980-01-05-writes-wenxing-anthology-preface",
+    "date": "1980-01-05",
+    "displayDate": "1980年1月5日",
+    "category": "writing",
+    "sourceChapter": "002.《文星杂志选集》导言",
+    "sourceFile": "李敖报刊集/002.《文星杂志选集》导言.txt",
+    "sourceLocation": "第3至23行",
+    "sourceQuote": "《文星》杂志被封后十四年……我很高兴我能主持这一选辑。我从文星第五年开始选，选出六本书的量。",
+    "title": "李敖写《文星杂志选集》导言，说明从《文星》第五年选起",
+    "summary": "1980年1月5日，李敖为《文星杂志选集》写导言。他在文中回看《文星》1957年11月创刊、1965年12月被封的经过，认为真正的《文星》生命从第五年、即李敖出现后开始；又说沈登恩认为应让《文星杂志选集》流传市面，他很高兴主持选辑，并有意不选自己的文章，以求更客观。",
+    "importance": 7,
+    "keywords": [
+      "文星杂志选集",
+      "文星",
+      "沈登恩",
+      "萧孟能",
+      "李敖全集",
+      "导言"
+    ],
+    "tags": [
+      "wenxing",
+      "anthology",
+      "preface",
+      "editing",
+      "publication-memory"
+    ],
+    "people": [
+      "李敖",
+      "萧孟能",
+      "沈登恩"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "view": [
+      "报刊集线",
+      "文星线",
+      "文星杂志选集线",
+      "出版线"
+    ],
+    "crossReferences": [
+      "freedom-summoning-1982-before-june-edits-wenxing-anthology",
+      "book8-1974-07-16-wenxing-selected-volume-three-banned",
+      "book2-broad-1982-07-20-xiao-sues-wenxing-selection"
+    ],
+    "works": [
+      "李敖报刊集",
+      "文星杂志选集",
+      "文星",
+      "李敖全集"
+    ],
+    "source": {
+      "book": "李敖报刊集",
+      "chapter": "002.《文星杂志选集》导言",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/001.李敖报刊集/002.《文星杂志选集》导言.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        9,
+        11,
+        17,
+        21,
+        23
+      ],
+      "note": "李敖署日的《文星杂志选集》导言，说明选辑缘起和选文原则。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "sourceBook": "李敖报刊集",
+    "ingestionRound": "li-ao-baokanji-round001-001-018",
+    "id": "li-ao-baokanji-1980-01-05-inscribes-wenxing-anthology",
+    "date": "1980-01-05",
+    "displayDate": "1980年1月5日",
+    "category": "writing",
+    "sourceChapter": "003.《文星杂志选集》题词",
+    "sourceFile": "李敖报刊集/003.《文星杂志选集》题词.txt",
+    "sourceLocation": "第3至7行",
+    "sourceQuote": "《文星》杂志在萧孟能独具只眼、李敖别有一手的经营下，四年于兹……",
+    "title": "李敖为《文星杂志选集》题词，称远景出版选集难能可贵",
+    "summary": "同在1980年1月5日，李敖为《文星杂志选集》题词。他在题词中称《文星》是三十年来最有深度、最有永恒价值的杂志，并把四年经营归结为萧孟能“独具只眼”、李敖“别有一手”；在《文星》暴毙十四年后，远景出版社出版选集，李敖称其难能可贵。",
+    "importance": 5,
+    "keywords": [
+      "文星杂志选集",
+      "题词",
+      "远景出版社",
+      "萧孟能",
+      "文星"
+    ],
+    "tags": [
+      "wenxing",
+      "anthology",
+      "inscription",
+      "publishing"
+    ],
+    "people": [
+      "李敖",
+      "萧孟能"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "view": [
+      "报刊集线",
+      "文星线",
+      "文星杂志选集线"
+    ],
+    "crossReferences": [
+      "li-ao-baokanji-1980-01-05-writes-wenxing-anthology-preface",
+      "freedom-summoning-1982-before-june-edits-wenxing-anthology"
+    ],
+    "works": [
+      "李敖报刊集",
+      "文星杂志选集",
+      "文星"
+    ],
+    "source": {
+      "book": "李敖报刊集",
+      "chapter": "003.《文星杂志选集》题词",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/001.李敖报刊集/003.《文星杂志选集》题词.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7
+      ],
+      "note": "李敖为《文星杂志选集》题词，署同日。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "sourceBook": "李敖报刊集",
+    "ingestionRound": "li-ao-baokanji-round001-001-018",
+    "id": "li-ao-baokanji-1982-07-01-writes-wenxing-elegy-unfooled-person",
+    "date": "1982-07-01",
+    "displayDate": "1982年7月1日",
+    "category": "writing",
+    "sourceChapter": "004.“只要寻一个不受人惑的人”",
+    "sourceFile": "李敖报刊集/004.“只要寻一个不受人惑的人”.txt",
+    "sourceLocation": "第5至15行",
+    "sourceQuote": "直到第五年开始以后，也就是从我进入这杂志以后，《文星》杂志才开始从质变到量变……",
+    "title": "李敖写《文星》哀辞，称旨趣在寻找“不受人惑的人”",
+    "summary": "1982年7月1日，李敖写《“只要寻一个不受人惑的人”——〈文星〉杂志哀辞》。他在哀辞中回看自己进入《文星》后，杂志从第四十九期到第九十八期形成四年特色；又在文中说明自己掌舵《文星》是要以思想领导政治、训练中国人独立思想，不受人惑。",
+    "importance": 7,
+    "keywords": [
+      "文星",
+      "哀辞",
+      "不受人惑的人",
+      "思想挂帅",
+      "第四十九期",
+      "第九十八期"
+    ],
+    "tags": [
+      "wenxing",
+      "elegy",
+      "self-reflection",
+      "ideological-positioning"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "view": [
+      "报刊集线",
+      "文星线",
+      "思想线",
+      "写作线"
+    ],
+    "crossReferences": [
+      "li-ao-baokanji-1980-01-05-writes-wenxing-anthology-preface",
+      "freedom-summoning-1982-before-june-edits-wenxing-anthology",
+      "book5-1965-12-27-wenxing-one-year-suspension"
+    ],
+    "works": [
+      "李敖报刊集",
+      "文星",
+      "只要寻一个不受人惑的人"
+    ],
+    "source": {
+      "book": "李敖报刊集",
+      "chapter": "004.“只要寻一个不受人惑的人”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/001.李敖报刊集/004.“只要寻一个不受人惑的人”.txt",
+      "line": 5,
+      "lines": [
+        5,
+        7,
+        9,
+        11,
+        13,
+        15
+      ],
+      "note": "李敖署日的《文星》杂志哀辞。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "sourceBook": "李敖报刊集",
+    "ingestionRound": "li-ao-baokanji-round001-001-018",
+    "id": "li-ao-baokanji-1981-07-15-writes-banned-qianqiu-review-and-shifts-to-book-series",
+    "date": "1981-07-15",
+    "displayDate": "1981年7月15日",
+    "category": "writing",
+    "sourceChapter": "005.被封杀的《千秋评论》",
+    "sourceFile": "李敖报刊集/005.被封杀的《千秋评论》.txt",
+    "sourceLocation": "第13至65行",
+    "sourceQuote": "就这样的，我向官方申请了以《千秋评论》为名的杂志执照。4月18日，官方按《出版法》第9条给我执照……",
+    "title": "李敖写《被封杀的〈千秋评论〉》，由杂志执照转向丛书出版",
+    "summary": "1981年7月15日，李敖写《被封杀的〈千秋评论〉》。他在文中说明《千秋评论》原构想是像河上肇那样的个人杂志，起初甚至拟名《李敖评论》；因外界名词之争，他改向官方申请《千秋评论》杂志执照，4月18日取得执照，却很快被以《出版法》第11条技术击倒。李敖据此宣告作为杂志的《千秋评论》胎死腹中，并决定改出版《李敖千秋评论》系列丛书，在书籍出版轨道间做“脱轨的老大”。",
+    "importance": 8,
+    "keywords": [
+      "千秋评论",
+      "李敖评论",
+      "出版法",
+      "杂志执照",
+      "技术击倒",
+      "李敖千秋评论丛书",
+      "石敢言",
+      "秦怀冰"
+    ],
+    "tags": [
+      "qianqiu-review",
+      "publication-law",
+      "periodical-license",
+      "book-series",
+      "censorship"
+    ],
+    "people": [
+      "李敖",
+      "石敢言",
+      "秦怀冰",
+      "河上肇"
+    ],
+    "places": [
+      "台湾",
+      "台北"
+    ],
+    "view": [
+      "报刊集线",
+      "千秋评论线",
+      "出版法线",
+      "言论自由线"
+    ],
+    "crossReferences": [
+      "book4-1981-04-18-news-bureau-approves-qianqiu-magazine-license",
+      "book4-1981-06-17-high-court-guilty-verdict-undercuts-license",
+      "book4-1981-07-10-taipei-city-cancels-qianqiu-publisher-registration",
+      "book8-1981-starts-li-ao-qianqiu-commentary-series",
+      "qianqiu-wansui-1981-09-01-051-qianqiu-review-01"
+    ],
+    "works": [
+      "李敖报刊集",
+      "被封杀的《千秋评论》",
+      "千秋评论",
+      "李敖评论",
+      "李敖千秋评论丛书"
+    ],
+    "source": {
+      "book": "李敖报刊集",
+      "chapter": "005.被封杀的《千秋评论》",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/001.李敖报刊集/005.被封杀的《千秋评论》.txt",
+      "line": 13,
+      "lines": [
+        13,
+        15,
+        17,
+        43,
+        53,
+        55,
+        57,
+        61,
+        63,
+        65
+      ],
+      "note": "李敖写作《被封杀的〈千秋评论〉》，回述杂志执照被封杀及丛书路线。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "sourceBook": "李敖报刊集",
+    "ingestionRound": "li-ao-baokanji-round001-001-018",
+    "id": "li-ao-baokanji-1984-01-23-writes-wansui-review-origin",
+    "date": "1984-01-23",
+    "displayDate": "1984年1月23日",
+    "category": "writing",
+    "sourceChapter": "006.《万岁评论》缘起",
+    "sourceFile": "李敖报刊集/006.《万岁评论》缘起.txt",
+    "sourceLocation": "第3至73行",
+    "sourceQuote": "《千秋评论》如今已出版了二十八期……这一“李敖每月一书”的宿愿，我终于能够达成了……补救的方法就是出版《万岁评论》。",
+    "title": "李敖写《万岁评论》缘起，宣布用新丛书补强《千秋评论》",
+    "summary": "1984年1月23日，李敖写《〈万岁评论〉缘起》。他在文中从1966年《文星》被封后构想“李敖每月一书”说起，回述1981年《千秋评论》执照被技术击倒、入狱前预编六册、入狱中自1981年9月起“越狱”出版的过程；到《千秋评论》已出二十八期时，他认为个人独角戏篇幅不足以容纳朋友作品，于是决心从1984年起出版《万岁评论》，由自己和朋友们合著完成。",
+    "importance": 8,
+    "keywords": [
+      "万岁评论",
+      "千秋评论",
+      "李敖每月一书",
+      "出版法",
+      "林秉钦",
+      "叶圣康",
+      "四季出版",
+      "汝清"
+    ],
+    "tags": [
+      "wansui-review",
+      "qianqiu-review",
+      "book-series",
+      "publication-strategy",
+      "prison-writing"
+    ],
+    "people": [
+      "李敖",
+      "林秉钦",
+      "叶圣康",
+      "汝清",
+      "黄婧",
+      "胡茵梦",
+      "高信疆"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "土城"
+    ],
+    "view": [
+      "报刊集线",
+      "万岁评论线",
+      "千秋评论线",
+      "出版线",
+      "狱中写作线"
+    ],
+    "crossReferences": [
+      "qianqiu-wansui-1966-context-011-conceives-monthly-book-strategy-after-wenxing-ban",
+      "book4-1981-08-10-prepares-first-six-qianqiu-volumes-before-prison",
+      "book4-1984-01-wansui-review-starts",
+      "qianqiu-wansui-1984-12-31-051-wansui-review-issues-1-12-writing-and-bans"
+    ],
+    "works": [
+      "李敖报刊集",
+      "万岁评论",
+      "千秋评论",
+      "李敖千秋评论丛书",
+      "李敖每月一书"
+    ],
+    "source": {
+      "book": "李敖报刊集",
+      "chapter": "006.《万岁评论》缘起",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/001.李敖报刊集/006.《万岁评论》缘起.txt",
+      "line": 3,
+      "lines": [
+        3,
+        31,
+        39,
+        41,
+        45,
+        51,
+        53,
+        55,
+        59,
+        61,
+        63,
+        65,
+        67,
+        73
+      ],
+      "note": "李敖署日的《万岁评论》缘起，兼述《千秋评论》前史。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "sourceBook": "李敖报刊集",
+    "ingestionRound": "li-ao-baokanji-round001-001-018",
+    "id": "li-ao-baokanji-1987-03-23-writes-plan-to-merge-wansui-into-qianqiu",
+    "date": "1987-03-23",
+    "displayDate": "1987年3月23日",
+    "category": "publishing",
+    "sourceChapter": "007.挂“千秋”羊头，卖“万岁”狗肉",
+    "sourceFile": "李敖报刊集/007.挂“千秋”羊头，卖“万岁”狗肉.txt",
+    "sourceLocation": "第5至21行",
+    "sourceQuote": "今年4月25日是我五十二岁生日，我想推出“李敖每月一书”，按月出击，整个的战术，要全盘调整一下。",
+    "title": "李敖写文调整出版战术，决定把《万岁评论》并入《千秋评论》",
+    "summary": "1987年3月23日，李敖写《挂“千秋”羊头，卖“万岁”狗肉》。他在文中统计《万岁评论》自1984年1月23日第一期至1987年3月31日第四十期，四十本中绝大多数被查禁；于是计划在52岁生日后推出新的“李敖每月一书”战术，月底出一书、月中出《千秋评论》，并把《万岁评论》并入《千秋评论》，从《李敖千秋评论丛书》第六十七期开始编号。",
+    "importance": 7,
+    "keywords": [
+      "万岁评论",
+      "千秋评论",
+      "李敖每月一书",
+      "第五十二岁生日",
+      "第六十七期",
+      "查禁率"
+    ],
+    "tags": [
+      "wansui-review",
+      "qianqiu-review",
+      "publication-strategy",
+      "censorship",
+      "monthly-book"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "view": [
+      "报刊集线",
+      "万岁评论线",
+      "千秋评论线",
+      "出版线"
+    ],
+    "crossReferences": [
+      "li-ao-baokanji-1984-01-23-writes-wansui-review-origin",
+      "book4-1984-01-wansui-review-starts",
+      "qianqiu-wansui-1984-12-31-051-wansui-review-issues-1-12-writing-and-bans",
+      "qianqiu-wansui-1985-10-31-051-wansui-review-issues-13-26-writing-and-bans"
+    ],
+    "works": [
+      "李敖报刊集",
+      "万岁评论",
+      "千秋评论",
+      "李敖千秋评论丛书",
+      "李敖每月一书"
+    ],
+    "source": {
+      "book": "李敖报刊集",
+      "chapter": "007.挂“千秋”羊头，卖“万岁”狗肉",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/001.李敖报刊集/007.挂“千秋”羊头，卖“万岁”狗肉.txt",
+      "line": 5,
+      "lines": [
+        5,
+        7,
+        9,
+        11,
+        13,
+        15,
+        19,
+        21
+      ],
+      "note": "李敖署日的《万岁评论》四十期以后调整说明。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "sourceBook": "李敖报刊集",
+    "ingestionRound": "li-ao-baokanji-round001-001-018",
+    "id": "li-ao-baokanji-1989-11-24-writes-qianqiu-100-issues-essay",
+    "date": "1989-11-24",
+    "displayDate": "1989年11月24日",
+    "category": "writing",
+    "sourceChapter": "008.《千秋评论》一百期期期期期期",
+    "sourceFile": "李敖报刊集/008.《千秋评论》一百期期期期期期.txt",
+    "sourceLocation": "第3至15行",
+    "sourceQuote": "《千秋评论》（《李敖千秋评论丛书》）第一期是1981年9月我在黑牢里创刊的，到今年1989年底，正好出足了一百期。",
+    "title": "李敖写《千秋评论》百期纪念文，回看八年出版与查禁",
+    "summary": "1989年11月24日，李敖写《〈千秋评论〉一百期期期期期期》。他在文中解释题目中连用“期”字的文字游戏，又回看《千秋评论》第一期于1981年9月在黑牢中创刊，到1989年底出足一百期；他把这八年描述为从牢里写到牢外、从黑夜写到黎明的文字纪录、揭发与抗议，并重提第五十八期遭连续查扣而他一再重印的经历。",
+    "importance": 7,
+    "keywords": [
+      "千秋评论",
+      "一百期",
+      "黑牢",
+      "第五十八期",
+      "查禁",
+      "重印"
+    ],
+    "tags": [
+      "qianqiu-review",
+      "anniversary",
+      "censorship",
+      "writing",
+      "self-summary"
+    ],
+    "people": [
+      "李敖",
+      "柏杨",
+      "周昌"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "view": [
+      "报刊集线",
+      "千秋评论线",
+      "出版线",
+      "查禁线"
+    ],
+    "crossReferences": [
+      "qianqiu-wansui-1981-09-01-051-qianqiu-review-01",
+      "love-secret-1986-09-07-writes-qianqiu-review-fifth-anniversary-summary",
+      "book4-deep-1986-07-23-qianqiu-58-seized-repeatedly"
+    ],
+    "works": [
+      "李敖报刊集",
+      "千秋评论",
+      "李敖千秋评论丛书",
+      "《千秋评论》一百期期期期期期"
+    ],
+    "source": {
+      "book": "李敖报刊集",
+      "chapter": "008.《千秋评论》一百期期期期期期",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/001.李敖报刊集/008.《千秋评论》一百期期期期期期.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        11,
+        13,
+        15
+      ],
+      "note": "李敖署日的《千秋评论》百期纪念文。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "sourceBook": "李敖报刊集",
+    "ingestionRound": "li-ao-baokanji-round001-001-018",
+    "id": "li-ao-baokanji-1991-09-26-writes-qianqiu-review-shutdown-notice",
+    "date": "1991-09-26",
+    "displayDate": "1991年9月26日",
+    "category": "publishing",
+    "sourceChapter": "009.《千秋评论》停刊告白",
+    "sourceFile": "李敖报刊集/009.《千秋评论》停刊告白.txt",
+    "sourceLocation": "第3至19行",
+    "sourceQuote": "由于《求是评论》（《李敖求是评论杂志》）即将创刊，为了集中主力，我决定……把办了十年的《千秋评论》停刊。",
+    "title": "李敖写《千秋评论》停刊告白，为《李敖求是评论》集中主力",
+    "summary": "1991年9月26日，56岁的李敖在台湾写《〈千秋评论〉停刊告白》。他说明《千秋评论》自1981年9月出版第一期，到1991年9月满十周年，共出一百二十期、一百二十一册；因《李敖求是评论杂志》即将创刊，为了集中主力，他决定在《求是报》停刊后也让十年的《千秋评论》告一段落。文中还回忆入狱前夜汝清陪他预编前六册、林秉钦转交四季出版、石柏苍建立狱中新作秘密外运管道的起点。",
+    "importance": 8,
+    "keywords": [
+      "千秋评论",
+      "停刊告白",
+      "李敖求是评论",
+      "求是报",
+      "汝清",
+      "林秉钦",
+      "叶圣康",
+      "石柏苍"
+    ],
+    "tags": [
+      "qianqiu-review",
+      "shutdown",
+      "qiushi-review",
+      "publication-transition",
+      "prison-writing"
+    ],
+    "people": [
+      "李敖",
+      "汝清",
+      "黄婧",
+      "林秉钦",
+      "叶圣康",
+      "石柏苍",
+      "李登辉",
+      "郝柏村"
+    ],
+    "places": [
+      "台湾",
+      "台北"
+    ],
+    "view": [
+      "报刊集线",
+      "千秋评论线",
+      "求是评论线",
+      "出版线",
+      "狱中写作线"
+    ],
+    "crossReferences": [
+      "li-ao-baokanji-1989-11-24-writes-qianqiu-100-issues-essay",
+      "li-ao-baokanji-1991-08-20-writes-qiushi-bao-shutdown-notice",
+      "book4-1991-11-01-li-ao-qiushi-review-starts",
+      "book4-1981-08-10-prepares-first-six-qianqiu-volumes-before-prison"
+    ],
+    "works": [
+      "李敖报刊集",
+      "千秋评论",
+      "李敖千秋评论丛书",
+      "李敖求是评论",
+      "求是报"
+    ],
+    "source": {
+      "book": "李敖报刊集",
+      "chapter": "009.《千秋评论》停刊告白",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/001.李敖报刊集/009.《千秋评论》停刊告白.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        17,
+        19
+      ],
+      "note": "李敖署日的《千秋评论》停刊告白。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "sourceBook": "李敖报刊集",
+    "ingestionRound": "li-ao-baokanji-round001-001-018",
+    "id": "li-ao-baokanji-1988-09-16-writes-wuya-review-launch-manifesto",
+    "date": "1988-09-16",
+    "displayDate": "1988年9月16日",
+    "category": "writing",
+    "sourceChapter": "010.乌鸦的心愿",
+    "sourceFile": "李敖报刊集/010.乌鸦的心愿.txt",
+    "sourceLocation": "第5至11行",
+    "sourceQuote": "我现在又申请到《乌鸦评论》杂志执照，在没入狱前，我就是要一期一期办下去。",
+    "title": "李敖写《乌鸦评论》发刊词，称已申请到杂志执照",
+    "summary": "1988年9月16日，李敖写《乌鸦的心愿——〈乌鸦评论〉发刊词》。他在发刊词中回看自己虽曾主持《文星》，却始终没有真正办过自己的杂志；《千秋评论》执照曾在1981年被技术击倒，如今他又申请到《乌鸦评论》杂志执照，表示在没入狱前要一期一期办下去，并把《乌鸦评论》定位为痛斥政局黑暗、社会疯狂和知识分子怯懦的“谴责杂志”。",
+    "importance": 8,
+    "keywords": [
+      "乌鸦评论",
+      "发刊词",
+      "乌鸦的心愿",
+      "杂志执照",
+      "谴责杂志",
+      "文星",
+      "千秋评论"
+    ],
+    "tags": [
+      "wuya-review",
+      "launch",
+      "periodical-license",
+      "manifesto",
+      "censorship"
+    ],
+    "people": [
+      "李敖",
+      "劳伦斯",
+      "威尔斯"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "view": [
+      "报刊集线",
+      "乌鸦评论线",
+      "出版线",
+      "言论自由线"
+    ],
+    "crossReferences": [
+      "book4-1981-04-18-news-bureau-approves-qianqiu-magazine-license",
+      "book4-1988-10-01-wuya-review-starts",
+      "book5-1988-12-17-peng-secret-letter-to-li"
+    ],
+    "works": [
+      "李敖报刊集",
+      "乌鸦评论",
+      "乌鸦的心愿",
+      "文星",
+      "千秋评论"
+    ],
+    "source": {
+      "book": "李敖报刊集",
+      "chapter": "010.乌鸦的心愿",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/001.李敖报刊集/010.乌鸦的心愿.txt",
+      "line": 5,
+      "lines": [
+        5,
+        7,
+        9,
+        11
+      ],
+      "note": "李敖署日的《乌鸦评论》发刊词。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "sourceBook": "李敖报刊集",
+    "ingestionRound": "li-ao-baokanji-round001-001-018",
+    "id": "li-ao-baokanji-1989-03-14-writes-wuya-review-suspension-notice",
+    "date": "1989-03-14",
+    "displayDate": "1989年3月14日",
+    "category": "publishing",
+    "sourceChapter": "011.《乌鸦评论》休刊告白",
+    "sourceFile": "李敖报刊集/011.《乌鸦评论》休刊告白.txt",
+    "sourceLocation": "第3至11行",
+    "sourceQuote": "目前每月出《乌鸦评论》四册、《千秋评论》一册……都由我一个人总其成，实在太累了一点。",
+    "title": "李敖写《乌鸦评论》休刊告白，因健康与出版负荷暂停周刊",
+    "summary": "1989年3月14日，李敖写《〈乌鸦评论〉休刊告白》。他在告白中说刚在医院，医生嘱其节劳；同时每月出《乌鸦评论》四册、《千秋评论》一册以及多种出版社、文星书店丛书，全部由他一人总其成，实在太累，所以决定把《乌鸦评论》休刊，集中精力于其他出版品，并安排订户余款退还或折购、以盈利补贴新编《拆穿蒋介石》。",
+    "importance": 7,
+    "keywords": [
+      "乌鸦评论",
+      "休刊告白",
+      "千秋评论",
+      "李敖出版社真相丛书",
+      "文星书店丛书",
+      "拆穿蒋介石",
+      "苏荣泉"
+    ],
+    "tags": [
+      "wuya-review",
+      "suspension",
+      "health",
+      "publishing-workload",
+      "subscriptions"
+    ],
+    "people": [
+      "李敖",
+      "苏荣泉"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "view": [
+      "报刊集线",
+      "乌鸦评论线",
+      "千秋评论线",
+      "出版线",
+      "身体线"
+    ],
+    "crossReferences": [
+      "li-ao-baokanji-1988-09-16-writes-wuya-review-launch-manifesto",
+      "book4-1988-10-01-wuya-review-starts",
+      "book5-1988-12-17-peng-secret-letter-to-li"
+    ],
+    "works": [
+      "李敖报刊集",
+      "乌鸦评论",
+      "千秋评论",
+      "李敖出版社真相丛书",
+      "文星书店丛书",
+      "拆穿蒋介石"
+    ],
+    "source": {
+      "book": "李敖报刊集",
+      "chapter": "011.《乌鸦评论》休刊告白",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/001.李敖报刊集/011.《乌鸦评论》休刊告白.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11
+      ],
+      "note": "李敖署日的《乌鸦评论》休刊告白。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "sourceBook": "李敖报刊集",
+    "ingestionRound": "li-ao-baokanji-round001-001-018",
+    "id": "li-ao-baokanji-1991-02-27-qiushi-bao-east-west-launch",
+    "date": "1991-02-27",
+    "displayDate": "1991年2月27日",
+    "category": "publishing",
+    "sourceChapter": "012.《求是报》1991年2月27日创刊",
+    "sourceFile": "李敖报刊集/012.《求是报》1991年2月27日创刊.txt",
+    "sourceLocation": "第3至11行",
+    "sourceQuote": "由李敖任发行人的特立独行报纸《求是报》，于公元1991年2月27日创刊……同日在中国台湾发行东方版、在美洲美国发行西方版。",
+    "title": "《求是报》创刊，李敖任发行人并安排东西两版同日出版",
+    "summary": "1991年2月27日，《求是报》创刊。本书所收《求是报》报道说明，这份由李敖任发行人的报纸，同日在台湾发行东方版、在美国发行西方版；台湾东方版的执照为1991年1月16日局版台报字第0354号，西方版由加州州政府登录，业务由施复华主持，但言论、编采作业和法律责任均由李敖负责。",
+    "importance": 9,
+    "keywords": [
+      "求是报",
+      "创刊",
+      "东方版",
+      "西方版",
+      "施复华",
+      "邵玉铭",
+      "李敖的报纸"
+    ],
+    "tags": [
+      "qiushi-bao",
+      "newspaper",
+      "launch",
+      "publisher",
+      "east-west-editions"
+    ],
+    "people": [
+      "李敖",
+      "施复华",
+      "邵玉铭"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "美国",
+      "加州"
+    ],
+    "view": [
+      "报刊集线",
+      "求是报线",
+      "出版线",
+      "美国线"
+    ],
+    "crossReferences": [
+      "book4-1991-02-27-qiushi-daily-starts",
+      "li-ao-wuwu-diary-1991-02-26-qiushi-bao-released",
+      "li-ao-wuwu-diary-1991-02-28-qiushi-bao-published",
+      "li-ao-suixielu-qianji-1991-10-07-shi-fuhua-visits-qiushi-america-liberty-times-evidence"
+    ],
+    "works": [
+      "李敖报刊集",
+      "求是报",
+      "李敖的报纸"
+    ],
+    "source": {
+      "book": "李敖报刊集",
+      "chapter": "012.《求是报》1991年2月27日创刊",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/001.李敖报刊集/012.《求是报》1991年2月27日创刊.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11
+      ],
+      "note": "本篇为《求是报》创刊报道，记录李敖发行人职责与东西两版。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "sourceBook": "李敖报刊集",
+    "ingestionRound": "li-ao-baokanji-round001-001-018",
+    "id": "li-ao-baokanji-1991-01-29-writes-one-newspaper-can-overthrow-you",
+    "date": "1991-01-29",
+    "displayDate": "1991年1月29日夜深",
+    "category": "writing",
+    "sourceChapter": "013.一张报，打倒你！",
+    "sourceFile": "李敖报刊集/013.一张报，打倒你！.txt",
+    "sourceLocation": "第3至39行",
+    "sourceQuote": "如今，李敖的《求是报》创刊了，无独有偶的，在“一张报，打倒你”的精神上，志士仁人，心同理同……",
+    "title": "李敖夜深写《一张报，打倒你！》，为《求是报》创刊立意",
+    "summary": "1991年1月29日夜深，李敖写《一张报，打倒你！》。他在文中先从自己多年藏书和收藏抗战时期《新华日报》说起，再把1947年2月28日《新华日报》被查禁与即将创办的《求是报》相连，认为两者都在国民党压力下凭“一张报”开路；同时又在文中说明《求是报》的抱负，是在打倒之后为中国前途提供“睿智的南针”。",
+    "importance": 7,
+    "keywords": [
+      "一张报，打倒你",
+      "求是报",
+      "新华日报",
+      "藏书",
+      "二二八",
+      "中国前途"
+    ],
+    "tags": [
+      "qiushi-bao",
+      "launch-writing",
+      "newspaper",
+      "xinhua-daily",
+      "political-analogy"
+    ],
+    "people": [
+      "李敖",
+      "蒋介石",
+      "陈诚",
+      "王安石"
+    ],
+    "places": [
+      "台湾",
+      "上海",
+      "重庆",
+      "汉口"
+    ],
+    "view": [
+      "报刊集线",
+      "求是报线",
+      "藏书线",
+      "写作线"
+    ],
+    "crossReferences": [
+      "li-ao-wuwu-diary-1991-01-29-pingjing-says-li-yuanzhe-guying-zhuangyin-support-newspaper",
+      "book4-1991-02-27-qiushi-daily-starts",
+      "li-ao-baokanji-1991-02-27-qiushi-bao-east-west-launch"
+    ],
+    "works": [
+      "李敖报刊集",
+      "一张报，打倒你！",
+      "求是报",
+      "新华日报"
+    ],
+    "source": {
+      "book": "李敖报刊集",
+      "chapter": "013.一张报，打倒你！",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/001.李敖报刊集/013.一张报，打倒你！.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        19,
+        23,
+        37,
+        39
+      ],
+      "note": "李敖于《求是报》创刊前夜写的办报立意文章。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "sourceBook": "李敖报刊集",
+    "ingestionRound": "li-ao-baokanji-round001-001-018",
+    "id": "li-ao-baokanji-1991-02-26-writes-three-poems-for-qiushi-bao-launch",
+    "date": "1991-02-26",
+    "displayDate": "1991年2月26日",
+    "category": "writing",
+    "sourceChapter": "014.生公说法鬼神听",
+    "sourceFile": "李敖报刊集/014.生公说法鬼神听.txt",
+    "sourceLocation": "第11至25行",
+    "sourceQuote": "我很喜欢这个传说，因而在《求是报》创刊之日，以传说为典，写了三首小诗，以为自祝。",
+    "title": "李敖为《求是报》创刊自祝，写下三首办报小诗",
+    "summary": "1991年2月26日，李敖写《生公说法鬼神听》。他在文中借竺道生“生公说法，顽石点头”的传说，在《求是报》创刊之日写三首小诗自祝，把“李敖办报”与打倒政客、妖妄、混球和还我自由相连，形成《求是报》出报前后的自我鼓动。",
+    "importance": 6,
+    "keywords": [
+      "生公说法鬼神听",
+      "求是报",
+      "办报小诗",
+      "竺道生",
+      "自祝"
+    ],
+    "tags": [
+      "qiushi-bao",
+      "poem",
+      "launch",
+      "self-celebration"
+    ],
+    "people": [
+      "李敖",
+      "刘禹锡",
+      "竺道生"
+    ],
+    "places": [
+      "台湾",
+      "苏州",
+      "虎丘"
+    ],
+    "view": [
+      "报刊集线",
+      "求是报线",
+      "诗作线",
+      "写作线"
+    ],
+    "crossReferences": [
+      "li-ao-wuwu-diary-1991-02-26-qiushi-bao-released",
+      "li-ao-baokanji-1991-02-27-qiushi-bao-east-west-launch"
+    ],
+    "works": [
+      "李敖报刊集",
+      "生公说法鬼神听",
+      "求是报"
+    ],
+    "source": {
+      "book": "李敖报刊集",
+      "chapter": "014.生公说法鬼神听",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/001.李敖报刊集/014.生公说法鬼神听.txt",
+      "line": 11,
+      "lines": [
+        11,
+        13,
+        15,
+        17,
+        19,
+        21,
+        23,
+        25
+      ],
+      "note": "李敖署日的《求是报》创刊自祝诗文。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "sourceBook": "李敖报刊集",
+    "ingestionRound": "li-ao-baokanji-round001-001-018",
+    "id": "li-ao-baokanji-1991-01-16-writes-qiushi-bao-price-defense",
+    "date": "1991-01-16",
+    "displayDate": "1991年1月16日",
+    "category": "writing",
+    "sourceChapter": "015.《求是报》是知识贵族最便宜的报",
+    "sourceFile": "李敖报刊集/015.《求是报》是知识贵族最便宜的报.txt",
+    "sourceLocation": "第3至19行",
+    "sourceQuote": "在决定定价的业务会议中，发行部门向我表示：“一大张卖十二元，是不是太贵了？”",
+    "title": "李敖写《求是报》定价辩护，主张一大张十二元并不贵",
+    "summary": "1991年1月16日，李敖写《〈求是报〉是知识贵族最便宜的报》。他在文中说明《求是报》决定于2月27日创刊，台北市政府已于1990年11月19日准予登记；他选择每天发行对开一大张，并在定价业务会议中回应发行部门对每份十二元过贵的疑虑，认为《求是报》没有党派、财阀、广告公司支持，只能靠读者支持，而以内容、印刷、评论与知识价值衡量并不昂贵。",
+    "importance": 7,
+    "keywords": [
+      "求是报",
+      "定价",
+      "十二元",
+      "知识贵族",
+      "台北市政府",
+      "业务会议",
+      "发行人"
+    ],
+    "tags": [
+      "qiushi-bao",
+      "pricing",
+      "business-meeting",
+      "newspaper",
+      "publishing-economics"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台湾",
+      "台北"
+    ],
+    "view": [
+      "报刊集线",
+      "求是报线",
+      "出版线",
+      "经营线"
+    ],
+    "crossReferences": [
+      "qianqiu-wansui-1991-before-jan-16-160-qiushi-pricing-meeting",
+      "qianqiu-wansui-1991-01-16-160-writes-matsushita-pricing",
+      "book4-1991-02-27-qiushi-daily-starts"
+    ],
+    "works": [
+      "李敖报刊集",
+      "求是报",
+      "《求是报》是知识贵族最便宜的报"
+    ],
+    "source": {
+      "book": "李敖报刊集",
+      "chapter": "015.《求是报》是知识贵族最便宜的报",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/001.李敖报刊集/015.《求是报》是知识贵族最便宜的报.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        11,
+        13,
+        15,
+        17,
+        19
+      ],
+      "note": "李敖署日的《求是报》定价与版面说明。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "sourceBook": "李敖报刊集",
+    "ingestionRound": "li-ao-baokanji-round001-001-018",
+    "id": "li-ao-baokanji-1991-08-20-writes-qiushi-bao-shutdown-notice",
+    "date": "1991-08-20",
+    "displayDate": "1991年8月20日",
+    "category": "publishing",
+    "sourceChapter": "017.《求是报》停刊告白",
+    "sourceFile": "李敖报刊集/017.《求是报》停刊告白.txt",
+    "sourceLocation": "第3至27行",
+    "sourceQuote": "《求是报》创刊于1991年2月27日，决定停刊于1991年8月20日，共出一百七十二号。",
+    "title": "李敖写《求是报》停刊告白，安排订户转入《李敖求是评论》",
+    "summary": "1991年8月20日，李敖写《〈求是报〉停刊告白》。他说明《求是报》自2月27日创刊，到8月20日决定停刊，共出一百七十二号；办报原由1990年10月12日两位商人经张坤山介绍出资约办，但五个月后商人因压力退伙，自8月1日起试图改组仍无望，李敖无财力打消耗战，只好停刊。告白中他同时决定《李敖千秋评论》再三期后告一段落，新创《李敖求是评论》月刊，并安排《求是报》订户余款自动转订、换书或退款。",
+    "importance": 9,
+    "keywords": [
+      "求是报",
+      "停刊告白",
+      "张坤山",
+      "李敖求是评论",
+      "李敖千秋评论",
+      "订户",
+      "退款"
+    ],
+    "tags": [
+      "qiushi-bao",
+      "shutdown",
+      "subscriptions",
+      "qiushi-review",
+      "publication-transition",
+      "finances"
+    ],
+    "people": [
+      "李敖",
+      "张坤山"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "美洲"
+    ],
+    "view": [
+      "报刊集线",
+      "求是报线",
+      "求是评论线",
+      "千秋评论线",
+      "出版线"
+    ],
+    "crossReferences": [
+      "book4-1991-02-27-qiushi-daily-starts",
+      "li-ao-suixielu-qianji-1991-09-10-wu-general-talks-qiushi-shutdown-li-demands-compensation",
+      "li-ao-suixielu-qianji-1991-09-11-writes-calligraphy-for-chen-yinghong-subscription-balance",
+      "book4-1991-11-01-li-ao-qiushi-review-starts"
+    ],
+    "works": [
+      "李敖报刊集",
+      "求是报",
+      "李敖求是评论",
+      "李敖千秋评论",
+      "千秋评论"
+    ],
+    "source": {
+      "book": "李敖报刊集",
+      "chapter": "017.《求是报》停刊告白",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/001.李敖报刊集/017.《求是报》停刊告白.txt",
+      "line": 3,
+      "lines": [
+        3,
+        7,
+        9,
+        13,
+        15,
+        17,
+        19,
+        21,
+        23,
+        25,
+        27
+      ],
+      "note": "李敖署日的《求是报》停刊告白。"
+    }
+  },
+  {
+    "datePrecision": "day",
+    "certainty": "confirmed",
+    "sourceBook": "李敖报刊集",
+    "ingestionRound": "li-ao-baokanji-round001-001-018",
+    "id": "li-ao-baokanji-1991-10-20-writes-li-ao-qiushi-review-launch-essay",
+    "date": "1991-10-20",
+    "displayDate": "1991年10月20日，在中国台湾",
+    "category": "writing",
+    "sourceChapter": "018.《李敖求是评论杂志》发刊词",
+    "sourceFile": "李敖报刊集/018.《李敖求是评论杂志》发刊词.txt",
+    "sourceLocation": "第3至9行",
+    "sourceQuote": "我的《千秋评论》（《李敖千秋评论丛书》）办了十年、《求是报》办了半年……我决定创办《李敖求是评论杂志》。",
+    "title": "李敖在台湾写《李敖求是评论杂志》发刊词",
+    "summary": "1991年10月20日，李敖在台湾写《〈李敖求是评论杂志〉发刊词》。他在发刊词中说《千秋评论》办了十年、《求是报》办了半年，二者都完成阶段使命，因此决定创办《李敖求是评论杂志》；同时说明自己56岁后生命主力将放在《北京法源寺》以外的重要小说和《中国思想史》等非小说著作上，所以用两百页以下的月刊形式来掌握“东打一拳、西踢一脚”的评论工作。",
+    "importance": 8,
+    "keywords": [
+      "李敖求是评论",
+      "发刊词",
+      "千秋评论",
+      "求是报",
+      "北京法源寺",
+      "中国思想史"
+    ],
+    "tags": [
+      "qiushi-review",
+      "launch",
+      "manifesto",
+      "qianqiu-review",
+      "qiushi-bao",
+      "writing-plan"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台湾",
+      "中国台湾"
+    ],
+    "view": [
+      "报刊集线",
+      "求是评论线",
+      "千秋评论线",
+      "求是报线",
+      "写作转向线"
+    ],
+    "crossReferences": [
+      "li-ao-baokanji-1991-08-20-writes-qiushi-bao-shutdown-notice",
+      "li-ao-baokanji-1991-09-26-writes-qianqiu-review-shutdown-notice",
+      "book4-1991-11-01-li-ao-qiushi-review-starts",
+      "book4-1992-04-01-li-ao-qiushi-review-ends",
+      "beijing-fayuansi-1990-year-end-finishes-novel-before-qiushi-bao"
+    ],
+    "works": [
+      "李敖报刊集",
+      "李敖求是评论",
+      "千秋评论",
+      "李敖千秋评论丛书",
+      "求是报",
+      "北京法源寺",
+      "中国思想史"
+    ],
+    "source": {
+      "book": "李敖报刊集",
+      "chapter": "018.《李敖求是评论杂志》发刊词",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/001.李敖报刊集/018.《李敖求是评论杂志》发刊词.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9
+      ],
+      "note": "李敖署日的《李敖求是评论杂志》发刊词。"
+    }
+  }
+]
