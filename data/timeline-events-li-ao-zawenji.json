@@ -907,10 +907,27 @@
         "chapter": "013.《李敖中文大句典》构想书",
         "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/013.《李敖中文大句典》构想书.txt",
         "line": 5
+      },
+      {
+        "book": "李敖访谈录1990-2018",
+        "chapter": "070.20140828《南方周末》专访李敖",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/070.20140828《南方周末》专访李敖.txt",
+        "line": 55,
+        "lines": [
+          55,
+          65,
+          95,
+          153,
+          155,
+          161,
+          163
+        ],
+        "note": "《南方周末》访问补充李敖在2014年金兰大厦书房继续谈全民造句、句典和中文决定权。"
       }
     ],
     "crossReferences": [
-      "li-ao-zawenji-2008-09-06-writes-chinese-sentence-dictionary-plan"
+      "li-ao-zawenji-2008-09-06-writes-chinese-sentence-dictionary-plan",
+      "li-ao-fangtanlu-2014-08-28-southern-weekend-jinlan-chinese-interview"
     ]
   },
   {
@@ -1203,7 +1220,8 @@
     },
     "crossReferences": [
       "li-ao-zawenji-1999-09-01-yanglan-interview-chinese-sentence-dictionary",
-      "li-ao-zawenji-2000-03-13-says-signed-yuanliu-for-chinese-sentence-dictionary"
+      "li-ao-zawenji-2000-03-13-says-signed-yuanliu-for-chinese-sentence-dictionary",
+      "li-ao-fangtanlu-2014-08-28-southern-weekend-jinlan-chinese-interview"
     ],
     "additionalSources": [
       {
@@ -1217,6 +1235,22 @@
         "chapter": "026.2000年3月13日",
         "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/026.2000年3月13日.txt",
         "line": 45
+      },
+      {
+        "book": "李敖访谈录1990-2018",
+        "chapter": "070.20140828《南方周末》专访李敖",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/070.20140828《南方周末》专访李敖.txt",
+        "line": 65,
+        "lines": [
+          65,
+          67,
+          95,
+          153,
+          155,
+          161,
+          163
+        ],
+        "note": "《南方周末》访问补充李敖说《最美句典》仍在编，并设想由全中国人一起造句、由他最后讲评。"
       }
     ]
   },

@@ -511,14 +511,27 @@
     ],
     "certainty": "confirmed",
     "crossReferences": [
-      "book8-2011-07-23-speaks-at-hong-kong-book-fair"
+      "book8-2011-07-23-speaks-at-hong-kong-book-fair",
+      "li-ao-fangtanlu-2012-04-20-bund-shangri-la-interview-hearing-aid-knife"
     ],
     "source": {
       "book": "我梦碎，所以我梦醒",
       "chapter": "061.梦醒时分",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/011.我梦碎，所以我梦醒/061.梦醒时分.txt",
       "line": 81
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖访谈录1990-2018",
+        "chapter": "060.20120523《外滩画报》专访李敖",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/060.20120523《外滩画报》专访李敖.txt",
+        "line": 9,
+        "lines": [
+          9
+        ],
+        "note": "《外滩画报》访问补充这副助听器是李敖2011年为参加香港书展而买，2012年受访时仍需花几分钟戴上。"
+      }
+    ]
   },
   {
     "id": "dream-awake-2011-07-23-points-out-pan-yugang-at-hong-kong-book-fair-speech",
@@ -689,7 +702,8 @@
       "book6-2005-03-28-presses-xue-to-sue-lee-tenghui-and-attach-taizongyuan-assets",
       "book6-2006-03-06-presses-su-tsengchang-to-admit-abolishing-nuc",
       "ni-bendan-2010-08-13-writes-impotent-america",
-      "book7-2010-10-publishes-yangwei-america"
+      "book7-2010-10-publishes-yangwei-america",
+      "li-ao-fangtanlu-2011-08-joins-pfp-and-legislative-run"
     ],
     "source": {
       "book": "我梦碎，所以我梦醒",
@@ -732,6 +746,23 @@
         "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/005.虽千万人，李敖往矣/006.2011年10月.txt",
         "line": 163,
         "note": "10月15日微博再把10月9日香港《亚洲周刊》列为自己在媒体封锁下转入第三地出现的一例。"
+      },
+      {
+        "book": "李敖访谈录1990-2018",
+        "chapter": "060.20120523《外滩画报》专访李敖",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/060.20120523《外滩画报》专访李敖.txt",
+        "line": 77,
+        "lines": [
+          77,
+          79,
+          81,
+          83,
+          91,
+          93,
+          95,
+          99
+        ],
+        "note": "《外滩画报》访问中李敖回述参选2012年文山区“立委”的目的、宋楚瑜被煽动参选和自己得票约9600票。"
       }
     ]
   },

@@ -312,7 +312,8 @@
     "certainty": "confirmed",
     "crossReferences": [
       "book7-2010-10-publishes-yangwei-america",
-      "dream-awake-2011-10-09-asia-weekly-publishes-li-ao-bombards-kmt-ccp-interview"
+      "dream-awake-2011-10-09-asia-weekly-publishes-li-ao-bombards-kmt-ccp-interview",
+      "li-ao-fangtanlu-2010-08-29-jinjiang-press-conference-and-southern-weekend-interview"
     ],
     "source": {
       "book": "你笨蛋，你笨蛋",
@@ -341,6 +342,20 @@
         "path": "《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/005.阳痿美国/046.尾幕 JOHN-JOHN收尾.txt",
         "line": 37,
         "note": "尾幕回扣“美国阳痿了”的戏剧结论。"
+      },
+      {
+        "book": "李敖访谈录1990-2018",
+        "chapter": "049.20100910《南方周末》专访李敖",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/049.20100910《南方周末》专访李敖.txt",
+        "line": 43,
+        "lines": [
+          43,
+          51,
+          105,
+          107,
+          109
+        ],
+        "note": "《南方周末》专访中李敖翻开《阳痿美国》举美元数据，并说明这本书两年写成、揭露美国黑暗面。"
       }
     ]
   },
@@ -1205,7 +1220,8 @@
     "certainty": "inferred",
     "crossReferences": [
       "book8-2009-hosts-yumiao-tianxia-and-sixty-years-of-laughter-and-pride",
-      "ni-bendan-2010-03-13-writes-us-human-rights-record-response"
+      "ni-bendan-2010-03-13-writes-us-human-rights-record-response",
+      "li-ao-fangtanlu-2009-summer-phoenix-sixty-years-filming-old-sites-roof-tile"
     ],
     "source": {
       "book": "你笨蛋，你笨蛋",
@@ -1220,6 +1236,16 @@
         "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/005.虽千万人，李敖往矣/044.2016年7月.txt",
         "line": 101,
         "note": "2016年7月25日回述当年做电视节目时，周功鑫陪他在台北故宫博物院接触《南京条约》正本。"
+      },
+      {
+        "book": "李敖访谈录1990-2018",
+        "chapter": "046.20090803《南方人物周刊》专访李敖",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/046.20090803《南方人物周刊》专访李敖.txt",
+        "line": 371,
+        "lines": [
+          371
+        ],
+        "note": "《南方人物周刊》访问补述同一凤凰来台六十年专题拍摄中，李敖还重访基隆码头、傅园和台中一中旧宅，并带回旧瓦。"
       }
     ]
   },

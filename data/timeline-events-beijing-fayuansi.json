@@ -1386,6 +1386,29 @@
         "chapter": "019.2000-2001《上海青年报》专访李敖",
         "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/019.2000-2001《上海青年报》专访李敖.txt",
         "line": 243
+      },
+      {
+        "book": "李敖访谈录1990-2018",
+        "chapter": "012.20000218《上海青年报》专访李敖",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/012.20000218《上海青年报》专访李敖.txt",
+        "line": 9,
+        "lines": [
+          7,
+          9,
+          13
+        ],
+        "note": "《上海青年报》访问中谈提名意义和诺奖标准。"
+      },
+      {
+        "book": "李敖访谈录1990-2018",
+        "chapter": "020.20010423《亚洲周刊》专访李敖",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/020.20010423《亚洲周刊》专访李敖.txt",
+        "line": 45,
+        "lines": [
+          45,
+          47
+        ],
+        "note": "《亚洲周刊》访问中再次谈大陆盗版和冒名书界线。"
       }
     ],
     "crossReferences": [
@@ -1452,11 +1475,27 @@
         "path": "《大李敖全集5.0》（wjm_tcy版）分章节/017.百家论李敖/007.李敖研究fashion文集/012.李敖的保镖.txt",
         "line": 9,
         "note": "第三方叙述，补充现场安保和人潮失控情况；非李敖本人说法。"
+      },
+      {
+        "book": "李敖访谈录1990-2018",
+        "chapter": "042.20050929《南方周末》专访李敖",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/042.20050929《南方周末》专访李敖.txt",
+        "line": 107,
+        "lines": [
+          107,
+          109,
+          111,
+          113,
+          115
+        ],
+        "note": "《南方周末》补记李敖神州文化之旅中北大、清华、复旦演讲现场，说明北大演讲后法源寺行程的高校现场背景。"
       }
     ],
     "crossReferences": [
       "beijing-fayuansi-1990-before-completion-research-assistance",
-      "book7-2005-shenzhou-trip-daughter-asks-why-people-like-the-old-man-at-peking-university"
+      "book7-2005-shenzhou-trip-daughter-asks-why-people-like-the-old-man-at-peking-university",
+      "li-ao-fangtanlu-2005-09-late-shenzhou-lecture-scenes-pku-tsinghua-fudan",
+      "li-ao-fangtanlu-2005-09-22-after-peking-university-almost-returns-taiwan"
     ]
   },
   {

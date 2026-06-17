@@ -1,9 +1,9 @@
 ﻿李敖交互式年表：当前增量纯文本备份
 生成日期：2026-06-17
-事件总数：10218
-数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json；data/timeline-events-ni-bendan.json；data/timeline-events-dream-awake.json；data/timeline-events-li-ao-xinkan.json；data/timeline-events-qianqiu-wansui-wuya-qiushi.json；data/timeline-events-li-ao-zawenji.json；data/timeline-events-qianqiu-wansui-bianwai.json；data/timeline-events-beijing-fayuansi.json；data/timeline-events-shangshan-ai.json；data/timeline-events-red-11.json；data/timeline-events-virtual-seventeen.json；data/timeline-events-yangwei-america.json；data/timeline-events-73rd-martyr.json；data/timeline-events-love-secret.json；data/timeline-events-li-ao-love-poems.json；data/timeline-events-li-yulu.json；data/timeline-events-li-ao-yulu.json；data/timeline-events-sui-qianwan-li-ao-wangyi.json；data/timeline-events-tiaozhan-li-ao-ao-yulu.json；data/timeline-events-daxue-zhaji.json；data/timeline-events-zaonian-riji.json；data/timeline-events-daxue-houqi-riji-jia.json；data/timeline-events-daxue-houqi-riji-yi.json；data/timeline-events-preofficer-diary.json；data/timeline-events-li-ao-micang-diary.json；data/timeline-events-li-ao-zhaji.json；data/timeline-events-li-ao-wuwu-diary.json；data/timeline-events-li-ao-suixielu-qianji.json；data/timeline-events-li-ao-suixielu-houji.json；data/timeline-events-li-ao-baokanji.json；data/timeline-events-li-ao-shuxuji.json；data/timeline-events-li-ao-shuxuji-xuji.json；data/timeline-events-li-ao-duihualu.json
+事件总数：10313
+数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json；data/timeline-events-ni-bendan.json；data/timeline-events-dream-awake.json；data/timeline-events-li-ao-xinkan.json；data/timeline-events-qianqiu-wansui-wuya-qiushi.json；data/timeline-events-li-ao-zawenji.json；data/timeline-events-qianqiu-wansui-bianwai.json；data/timeline-events-beijing-fayuansi.json；data/timeline-events-shangshan-ai.json；data/timeline-events-red-11.json；data/timeline-events-virtual-seventeen.json；data/timeline-events-yangwei-america.json；data/timeline-events-73rd-martyr.json；data/timeline-events-love-secret.json；data/timeline-events-li-ao-love-poems.json；data/timeline-events-li-yulu.json；data/timeline-events-li-ao-yulu.json；data/timeline-events-sui-qianwan-li-ao-wangyi.json；data/timeline-events-tiaozhan-li-ao-ao-yulu.json；data/timeline-events-daxue-zhaji.json；data/timeline-events-zaonian-riji.json；data/timeline-events-daxue-houqi-riji-jia.json；data/timeline-events-daxue-houqi-riji-yi.json；data/timeline-events-preofficer-diary.json；data/timeline-events-li-ao-micang-diary.json；data/timeline-events-li-ao-zhaji.json；data/timeline-events-li-ao-wuwu-diary.json；data/timeline-events-li-ao-suixielu-qianji.json；data/timeline-events-li-ao-suixielu-houji.json；data/timeline-events-li-ao-baokanji.json；data/timeline-events-li-ao-shuxuji.json；data/timeline-events-li-ao-shuxuji-xuji.json；data/timeline-events-li-ao-duihualu.json；data/timeline-events-li-ao-fangtanlu-1990-2018.json
 说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。
-日期精度统计：day=9729；year=98；year-range=13；undated-range=1；undated-context=144；season=29；lunar-day=1；year-after=7；month=62；half-year=2；school-year-context=5；day-range=17；range=15；year-about=10；range-context=15；month-after=3；year-context=17；day-after=5；before-date-context=15；day-about=1；after-date-context=8；month-context=5；day-context=7；before-day=2；before-month=4；month-range=2；year-end=1
+日期精度统计：day=9801；year=102；year-range=13；undated-range=1；undated-context=147；season=29；lunar-day=1；year-after=7；month=75；half-year=2；school-year-context=5；day-range=17；range=15；year-about=10；range-context=15；month-after=3；year-context=17；day-after=5；before-date-context=15；day-about=1；after-date-context=8；month-context=5；day-context=7；before-day=2；before-month=4；month-range=2；year-end=1；date-range=3
 
 
 1935
@@ -90743,7 +90743,7 @@
   作品：李敖千秋评论丛书、李敖相关
   交叉引用：book8-1987-10-11-diplomacy-sex-and-foreign-affairs-suspended-for-one-year
   来源：李敖相关 / 004.中华民国作家作品目录——李敖 / line 41
-  补充来源：李敖对话录 / 014.台湾最有力量的个人 / line 43；说明：1984年5月访问追述《千秋评论丛书》用作者每月出书突破出版法限制。
+  补充来源：李敖对话录 / 014.台湾最有力量的个人 / line 43；说明：1984年5月访问追述《千秋评论丛书》用作者每月出书突破出版法限制。；李敖访谈录1990-2018 / 001.19901120戴小华专访李敖 / line 81；说明：戴小华访问中，李敖自述《李敖千秋评论丛书》已发行九年，每月一本，独立作业。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/008.李敖相关/004.中华民国作家作品目录——李敖.txt
   数据：data/timeline-events-eighth-book.json#book8-1981-starts-li-ao-qianqiu-commentary-series
 - 1981年 | 李敖与李明谨烛光晚餐后在紫藤庐认识“静美”
@@ -114798,7 +114798,7 @@
   作品：李敖五五日记、中央日报、胡适日记
   交叉引用：li-ao-wuwu-diary-1990-11-16-hou-dejian-books-zhaoji-dingying-and-photocopier、qianqiu-wansui-1980-03-21-012-hou-dejian-letter-to-li-ao、li-ao-wuwu-diary-1990-05-03-meals-with-yiqi-and-jiali-visit、li-ao-wuwu-diary-1990-11-17-house-viewing-and-sampan-naca-award-report、li-ao-wuwu-diary-1990-09-04-central-daily-hearing-conflict-with-judge、li-ao-wuwu-diary-1990-10-09-mails-central-daily-appeal、li-ao-wuwu-diary-1990-08-14-complains-central-daily-to-city-and-press-council、li-ao-wuwu-diary-1990-04-26-hears-central-daily-refused-ad、li-ao-wuwu-diary-1990-10-26-receives-rongwen-call、li-ao-wuwu-diary-1990-10-29-news-office-yuanliu-and-kangde、micang-diary-1985-01-16-receives-hu-shih-diary-facsimile、micang-diary-1985-01-16-rongwen-couple-visits、li-ao-wuwu-diary-1990-11-18-zhongxiong-shi-fuhua-dinner-and-talk、li-ao-wuwu-diary-1990-11-14-xu-hong-ren-wu-zhou-and-xin-xinwen、li-ao-wuwu-diary-1990-10-24-signs-contract-with-wu-and-zhou、li-ao-wuwu-diary-1990-11-07-ren-yixiang-xiaochi-and-swensens、li-ao-wuwu-diary-1990-11-19-xinyi-company-yiqi-xiaoshen-xinjiang-night-talk、li-ao-wuwu-diary-1990-09-27-li-jinlian-visits-and-li-writes-chen-jianyu-exclusive
   来源：李敖五五日记 / 1990年11月 / line 289
-  补充来源：-
+  补充来源：李敖访谈录1990-2018 / 001.19901120戴小华专访李敖 / line 9；说明：戴小华文中补出高信疆夫妇当晚带她到李敖寓所、李敖开门接待并约次日访谈的现场细节。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节\006.沉思日记类\008.李敖五五日记\008.1990年11月.txt
   数据：data/timeline-events-li-ao-wuwu-diary.json#li-ao-wuwu-diary-1990-11-20-court-rongwen-hushi-diary-and-visitors
 - 1990年11月21日 | 李敖口述接丧电
@@ -114824,9 +114824,22 @@
   作品：李敖五五日记、马来西亚报纸
   交叉引用：li-ao-wuwu-diary-1990-11-20-court-rongwen-hushi-diary-and-visitors、li-ao-wuwu-diary-1990-09-24-court-against-academia-sinica-four-and-calls、li-ao-wuwu-diary-1990-09-11-united-daily-reports-wu-dayou-lawsuit、qiushi-xinyu-1989-11-12-wu-ta-yu-hypocrisy、book5-1990-03-wang-shijie-diary-reveals-rejection-of-li、li-ao-wuwu-diary-1990-10-29-news-office-yuanliu-and-kangde、book4-1981-07-10-taipei-city-cancels-qianqiu-publisher-registration、li-ao-wuwu-diary-1990-11-12-ren-wu-zhou-dinner-and-congmin-addresses、li-ao-wuwu-diary-1990-11-13-records-lynn-miles-report、li-ao-wuwu-diary-1990-09-12-rotary-southeast-lecture-invitation、micang-diary-1985-01-27-receives-yixuan-call-about-classmates-gathering、woshi-tiananmen-1989-12-06-china-no-pants-problem
   来源：李敖五五日记 / 1990年11月 / line 315
-  补充来源：-
+  补充来源：李敖访谈录1990-2018 / 001.19901120戴小华专访李敖 / line 125；说明：补出戴小华专访叙事中的访谈后随李敖到台北地方法院控吴大猷、王世杰儿女庭，并到原文星出版社旧址附近小吃店。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节\006.沉思日记类\008.李敖五五日记\008.1990年11月.txt
   数据：data/timeline-events-li-ao-wuwu-diary.json#li-ao-wuwu-diary-1990-11-22-malaysian-interview-wu-dayou-court-and-license
+- 1990年11月22日，戴小华访问中 | 李敖在戴小华访问中展示查禁表并谈独力写作
+  精度：day；可靠度：confirmed；排序日期：1990-11-22
+  摘要：戴小华访问李敖时，李敖在台北寓所拿出书籍查禁表卷轴，说明自己已有九十六本书被查禁、共写一百三十多本；又说每天至少工作十二小时，《李敖千秋评论丛书》九年来每月一本、由他独立作业，并从书架抽出I.F.史东著作给访客看。
+  人物：李敖、戴小华、高信疆、I.F.史东
+  地点：台北、李敖寓所
+  标签：戴小华、查禁表、李敖千秋评论丛书、独立作业、I.F.史东、书房
+  视图：访谈线、出版线、查禁线、日常工作线
+  作品：李敖访谈录1990-2018、李敖千秋评论丛书
+  交叉引用：li-ao-wuwu-diary-1990-11-22-malaysian-interview-wu-dayou-court-and-license、book8-1981-starts-li-ao-qianqiu-commentary-series、li-ao-baokanji-1991-09-26-writes-qianqiu-review-shutdown-notice
+  来源：李敖访谈录1990-2018 / 001.19901120戴小华专访李敖 / line 53
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/001.19901120戴小华专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-1990-11-22-dai-xiaohua-interview-shows-banned-list
 - 1990年11月23日 | 李敖会客赴饭局
   精度：day；可靠度：undefined；排序日期：1990-11-23
   摘要：11月23日午，李敖与艺之吃饭；伍、周来，凤凰来，华成、中雄到公司来；夜里李敖与三三、继梅、育昆、蔡小姐吃饭。
@@ -115474,7 +115487,7 @@
   作品：中华民国现代名人录、李敖相关
   交叉引用：qianqiu-wansui-1990-10-29-120-records-naca-award-acceptance-speech
   来源：李敖相关 / 003.中华民国现代名人录——李敖 / line 7
-  补充来源：千秋万岁乌鸦求是合集 / 120.全美华人协会颁奖典礼录音答辞 / line 5；说明：补出李敖因与台湾国民党政府纠缠无法赴美，委请好友代为出席、领奖并发表录音答辞。
+  补充来源：千秋万岁乌鸦求是合集 / 120.全美华人协会颁奖典礼录音答辞 / line 5；说明：补出李敖因与台湾国民党政府纠缠无法赴美，委请好友代为出席、领奖并发表录音答辞。；李敖访谈录1990-2018 / 001.19901120戴小华专访李敖 / line 37；说明：戴小华访问中，李敖回述该月24日全美华人协会颁奖、自己未赴美而应邀录音答辞，并在录音中批评海外华人。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/008.李敖相关/003.中华民国现代名人录——李敖.txt
   数据：data/timeline-events-eighth-book.json#book8-1990-10-receives-naca-outstanding-achievement-award
 - 1990年12月30日星期日前 | 李敖为《北京法源寺》做历史考证并请友人代查北京实地资料
@@ -115526,7 +115539,7 @@
   作品：PLAYBOY、李敖风流自传
   交叉引用：-
   来源：李敖风流自传 / 495.我与PLAYBOY的一点后缘 / line 3
-  补充来源：-
+  补充来源：李敖访谈录1990-2018 / 007.1999年6月PLAYBOY专访李敖 / line 19；说明：1999年PLAYBOY专访中，李敖回述1990年美版PLAYBOY企业年报刊出他的照片。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/495.我与PLAYBOY的一点后缘.txt
   数据：data/timeline-events-seventh-book.json#book7-1990-playboy-annual-report-features-li-ao-photo
 - 1990年12月 | 胡适百年诞辰时，李敖应徐开尘之约写成《胡适百年孤寂》
@@ -126591,6 +126604,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/019.口诛（1993-·58岁至今）.txt
   数据：data/timeline-events-fourth-book.json#book4-1996-03-21-tells-huang-zhaoqiang-he-will-stop-teaching
+- 1996年4月15日 | 《远见》专访李敖，谈孤独愉悦与独处工作
+  精度：day；可靠度：confirmed；排序日期：1996-04-15
+  摘要：《远见》刊出萧富元采访整理的李敖专访。李敖在访谈中把孤独说成自己的自然状态，称自己不寂寞、能“独与天地精神往来”，技术上则要很忙，靠看书和进修填满时间；他还说自己没有娱乐，最怕生重病，因为重病会使他不能看书。
+  人物：李敖、萧富元
+  地点：台湾
+  标签：远见、萧富元、孤独、独处、读书、健康
+  视图：访谈线、思想线、日常工作线、健康线
+  作品：李敖访谈录1990-2018、远见
+  交叉引用：-
+  来源：李敖访谈录1990-2018 / 002.19960415《远见》专访李敖 / line 9
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/002.19960415《远见》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-1996-04-15-yuanjian-interview-lonely-joy
 - 1996年5月21日星期二 | 李敖上完在东吴大学的最后一课
   精度：day；可靠度：confirmed；排序日期：1996-05-21
   摘要：1996年5月21日，李敖在东吴上完最后一课，为三年教职画下句点；他回望东吴时期，认为真正有治学潜力的学生不多，但几位正课与旁听学生仍令他印象深刻。
@@ -126788,6 +126814,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/003.李敖书序集续集/010.《黄旗梦碎》序.txt
   数据：data/timeline-events-li-ao-shuxuji-xuji.json#li-ao-shuxuji-xuji-1997-mid-authorizes-qian-da-to-use-hongxi-materials
+- 1997年 | 李敖口述养生之道，称打官司就是养生
+  精度：year；可靠度：confirmed；排序日期：1997-12-31
+  摘要：在《李敖养生之道——打官司》口述中，李敖把打官司说成自己的养生之道；同时谈到每天快走一个半到两个小时、不烟不酒不茶不嫖不赌、睡眠不到六小时以及保持敌我意识。文中还记录他已有五岁女儿、三岁儿子和小他三十岁的太太王小屯，并说上法庭次数不下二三百次，当时官司还剩十二个。
+  人物：李敖、王小屯、谢士明、涂淑慧
+  地点：台湾
+  标签：养生、打官司、快走、王小屯、家庭、健康
+  视图：访谈线、健康线、法律线、家庭线
+  作品：李敖访谈录1990-2018、李敖养生之道——打官司
+  交叉引用：-
+  来源：李敖访谈录1990-2018 / 003.1997李敖养生之道——打官司 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/003.1997李敖养生之道——打官司.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-1997-health-through-lawsuits-interview
 - 1997年 | 李敖与陈境圳合著《你不知道的二二八》
   精度：year；可靠度：confirmed；排序日期：1997-12-31
   摘要：《突破二二八》写，1997年李敖与陈境圳合著《你不知道的二二八》，李敖强调此书的整体架构出自自己，细部充实则多赖陈境圳完成。此条把他在二二八议题上的早期介入，从 2007 年重印线再往前推回到首次成书节点。
@@ -126824,7 +126863,7 @@
   作品：李敖风流自传
   交叉引用：li-ao-zawenji-1997-context-writes-comfort-women-auction-preface
   来源：李敖风流自传 / 629.义助慰安妇 / line 3
-  补充来源：李敖杂文集 / 006.义助慰安妇 / line 3；李敖杂文集 / 006.义助慰安妇 / line 25；虽千万人，李敖往矣 / 005.2011年9月 / line 67；说明：李敖2011年在黄阿桃去世后回述1995年拿出100件收藏义卖3000万分送慰安妇的经过。
+  补充来源：李敖杂文集 / 006.义助慰安妇 / line 3；李敖杂文集 / 006.义助慰安妇 / line 25；虽千万人，李敖往矣 / 005.2011年9月 / line 67；说明：李敖2011年在黄阿桃去世后回述1995年拿出100件收藏义卖3000万分送慰安妇的经过。；李敖访谈录1990-2018 / 006.19990403《长江日报》专访李敖 / line 43；说明：1999年《长江日报》访问中，李敖回述曾拿出收藏义卖并把款项捐给慰安妇。；李敖访谈录1990-2018 / 011.20000111《中国青年报》专访李敖 / line 31；说明：《中国青年报》访问中回述卖胡适字等收藏筹款三千三百万台币分送慰安妇。；李敖访谈录1990-2018 / 014.20000413《北京青年报》专访李敖 / line 93；说明：《北京青年报》访问中回述散财卖艺术收藏品分给慰安妇。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/629.义助慰安妇.txt
   数据：data/timeline-events-seventh-book.json#book7-1997-charity-auction-for-comfort-women-and-donates-proceeds
 - 约1997年12月31日星期三 | 李敖形成一边做资料工一边待客的习惯
@@ -126891,7 +126930,7 @@
   作品：志留纪、李敖快意恩仇录
   交叉引用：-
   来源：李敖快意恩仇录 / 020.志留纪 / line 166
-  补充来源：虽千万人，李敖往矣 / 005.2011年9月 / line 143；说明：李敖2011年微博回述自己早在11年前公开捐出遗体，送给台大医院大体解剖。；虽千万人，李敖往矣 / 005.2011年9月 / line 147；说明：补充李敖谈遗体捐出后可能用于器官移植或由医师决定。；虽千万人，李敖往矣 / 040.2015年10月 / line 139；说明：2015年10月23日李敖对臧英年回述，自己早把尸体捐给台大医院解剖，所谓坟墓都是假的。
+  补充来源：虽千万人，李敖往矣 / 005.2011年9月 / line 143；说明：李敖2011年微博回述自己早在11年前公开捐出遗体，送给台大医院大体解剖。；虽千万人，李敖往矣 / 005.2011年9月 / line 147；说明：补充李敖谈遗体捐出后可能用于器官移植或由医师决定。；虽千万人，李敖往矣 / 040.2015年10月 / line 139；说明：2015年10月23日李敖对臧英年回述，自己早把尸体捐给台大医院解剖，所谓坟墓都是假的。；李敖访谈录1990-2018 / 011.20000111《中国青年报》专访李敖 / line 127；说明：《中国青年报》访问中说明死后捐台湾大学医学院、眼睛器官和骨骼标本安排。；李敖访谈录1990-2018 / 017.20000809《北京青年报》专访李敖 / line 49；说明：《北京青年报》访问中确认遗体捐赠和骨骼标本安排没有改变。；李敖访谈录1990-2018 / 058.20111123《华西都市报》专访李敖 / line 221；说明：《华西都市报》访问中李敖回述十多年前已公开捐出遗体和遗骨给台大医院大体解剖。；李敖访谈录1990-2018 / 059.2011《新闻晨报》专访李敖 / line 53；说明：《新闻晨报》访问中李敖重申多年前立下遗嘱，遗体捐给台大医学院。；李敖访谈录1990-2018 / 060.20120523《外滩画报》专访李敖 / line 17；说明：《外滩画报》访问中李敖再说会把遗体捐给台大医院做研究。；李敖访谈录1990-2018 / 063.20121010《长江日报》专访李敖 / line 47；说明：《长江日报》访问中李敖再说墓志铭不用写，因为身体全捐给台北医院。；李敖访谈录1990-2018 / 064.20121028《长春晚报》专访李敖 / line 31；说明：《长春晚报》访问中李敖重申身体全捐给医院、身后千刀万剐。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/020.志留纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1998-08-07-finishes-zhili-ji-and-body-donation-note
 - 1998年8月，新党初选期间 | 李敖安排钱达再上《笑傲江湖》，并在计程车上谈新党规划名单
@@ -126907,6 +126946,45 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/003.李敖书序集续集/010.《黄旗梦碎》序.txt
   数据：data/timeline-events-li-ao-shuxuji-xuji.json#li-ao-shuxuji-xuji-1998-08-arranges-qian-da-xiaoaojianghu-and-taxi-talk
+- 1998年10月 | 李敖接受《跨海看台湾》专访，谈书房、千秋十年与不再离台
+  精度：month；可靠度：confirmed；排序日期：1998-10-01
+  摘要：《跨海看台湾》专访李敖时，他谈到自己书房本来有三个、已经消灭两个，主张给书房“减肥”；又展示第一本和第一百二十本《李敖千秋评论丛书》，说明一年十二本、正好十年。访谈中他还说到1999年5月12日将来台满五十年，一天未离开，如今能走也大概不再离开，并在台北书房里以“卧游”“神游”代替重温旧地。
+  人物：李敖
+  地点：台北、台湾
+  标签：跨海看台湾、书房、李敖千秋评论丛书、来台五十年、卧游、神游
+  视图：访谈线、出版线、书房线、台湾线
+  作品：李敖访谈录1990-2018、跨海看台湾、李敖千秋评论丛书
+  交叉引用：book8-1981-starts-li-ao-qianqiu-commentary-series、li-ao-baokanji-1991-09-26-writes-qianqiu-review-shutdown-notice、li-ao-suixielu-houji-1992-02-02-records-dream-of-london-from-armchair-travel-to-dream-travel
+  来源：李敖访谈录1990-2018 / 005.199810《跨海看台湾》专访李敖 / line 35
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/005.199810《跨海看台湾》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-1998-10-cross-strait-taiwan-interview-study-and-not-leaving
+- 1998年 | 李敖在《新新闻周报》专题中评论媒体财团与东森争议
+  精度：year；可靠度：confirmed；排序日期：1998-12-31
+  摘要：《新新闻周报》在李敖与东森电视台节目续约争议后访问他。李敖集中评论财团控制媒体、联合报系和东森等问题，又把自己与媒体的关系说成利用媒体说自己的话；谈到东视时，他表示最后一集仍骂附马爷和赖国洲，并说正要与东视进行诉讼。
+  人物：李敖、黄创夏、郭志荣、陈慧文、赖国洲
+  地点：台湾
+  标签：新新闻周报、东森、东视、媒体财团、联合报、诉讼
+  视图：访谈线、媒体线、电视线、法律线
+  作品：李敖访谈录1990-2018、新新闻周报
+  交叉引用：book4-1995-10-30-li-ao-roams-jianghu-begins-broadcast、book4-deep-1996-10-30-roams-jianghu-renewed-after-one-year、li-ao-shuxuji-xuji-1997-mid-authorizes-qian-da-to-use-hongxi-materials
+  来源：李敖访谈录1990-2018 / 004.1998《新新闻周报》李敖专题 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/004.1998《新新闻周报》李敖专题.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-1998-xinxinwen-interview-media-consortiums-east-tv
+- 1998年《新新闻周报》专题中 | 李敖自述《真相》六百集均由自己独力准备
+  精度：year；可靠度：confirmed；排序日期：1998-12-31
+  摘要：在《新新闻周报》专题中，李敖谈到自己的电视工作量，说《真相》做了六百集，每集字幕六千五百字，没有助手，都是自己完成。这条记录他在开放电视时期把大量节目制作仍维持为个人作业的一面。
+  人物：李敖
+  地点：台湾
+  标签：真相、电视节目、独力作业、字幕、媒体
+  视图：访谈线、电视线、日常工作线
+  作品：李敖访谈录1990-2018、真相
+  交叉引用：book4-1995-10-30-li-ao-roams-jianghu-begins-broadcast、book4-deep-1996-10-30-roams-jianghu-renewed-after-one-year
+  来源：李敖访谈录1990-2018 / 004.1998《新新闻周报》李敖专题 / line 13
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/004.1998《新新闻周报》李敖专题.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-1998-xinxinwen-truth-show-six-hundred-episodes
 - 1998年底 | 李敖写成《李敖快意恩仇录》自序
   精度：year-end；可靠度：confirmed；排序日期：1998-12-31
   摘要：《李敖快意恩仇录》自序署“1998年六十三年将弃我而去之日，李敖写于中国台湾”，标出此书自我总结、继续清算恩仇的写作时间。
@@ -127026,6 +127104,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/008.李敖五五日记/《李敖五五日记》前记.txt
   数据：data/timeline-events-li-ao-wuwu-diary.json#li-ao-wuwu-diary-1999-03-17-writes-preface
+- 1999年3月受访，4月3日刊出 | 李敖接受《长江日报》专访，谈大陆版本与新小说计划
+  精度：day；可靠度：confirmed；排序日期：1999-04-03
+  摘要：《长江日报》1999年3月采访李敖，4月3日刊出。李敖谈到中国友谊出版公司出版《李敖回忆录》后又出《李敖快意恩仇录》，也说自己在人民文学出版社出过《北京法源寺》，并承认大陆还有盗版和二渠道版本。访谈中他说明自己正在写另一部长篇小说，同时谈到《中国思想史》构想和大陆读者获得其书的渠道。
+  人物：李敖
+  地点：台湾、中国大陆
+  标签：长江日报、大陆出版、中国友谊出版公司、人民文学出版社、北京法源寺、中国思想史
+  视图：访谈线、出版线、大陆线、写作线
+  作品：李敖访谈录1990-2018、长江日报、李敖回忆录、李敖快意恩仇录、北京法源寺、中国思想史
+  交叉引用：beijing-fayuansi-1992-context-renmin-wenxue-authorized-mainland-edition、beijing-fayuansi-1991-06-30-published-by-wenxing
+  来源：李敖访谈录1990-2018 / 006.19990403《长江日报》专访李敖 / line 9
+  补充来源：李敖访谈录1990-2018 / 018.20000809《羊城晚报》专访李敖 / line 9；说明：2000年8月《羊城晚报》访问记补述中国友谊出版公司后续授权。；李敖访谈录1990-2018 / 015.2000《北京青年报》《羊城晚报》《搜狐网》专访李敖 / line 189；说明：北京青年报/羊城晚报/搜狐网整理稿补述中国友谊出版公司出版与授权。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/006.19990403《长江日报》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-1999-04-03-changjiang-interview-mainland-books-and-new-novel
 - 1999年5月12日星期三 | 出版《李敖大全集》21至40册并推出《李敖祸台十书》
   精度：day；可靠度：confirmed；排序日期：1999-05-12
   摘要：《李敖五十年表》记，1999年5月12日，李敖出版《李敖大全集》21至40册，并同时推出《李敖祸台十书》。这条将其1990年代末的作品大规模再结集，与政治批判新作并行推进的出版节奏明确落到日级。
@@ -127039,6 +127130,45 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/008.李敖相关/001.李敖五十年表.txt
   数据：data/timeline-events-eighth-book.json#book8-1999-05-12-publishes-li-ao-collected-works-21-to-40-and-harm-taiwan-ten-books
+- 1999年8月19日《中国时报》专访 | 李敖在《中国时报》专访中说明代表新党参选总统
+  精度：day；可靠度：confirmed；排序日期：1999-08-19
+  摘要：李敖接受《中国时报》专访时表示将代表新党参选总统，并说自己只花一分钟就决定，“好事就是要冲动”。他把反黑金、反台独、两岸和平解决、关心小市民生活列为与新党合作的四点基础；又说明这场选举将主打陈水扁、次攻连战，也不会放过宋楚瑜。访谈还记录他太太事先不知情且全力反对，以及他暂不决定副总统人选。
+  人物：李敖、陈水扁、连战、宋楚瑜、许信良、王小屯
+  地点：台湾
+  标签：中国时报、新党、总统选举、陈水扁、连战、宋楚瑜
+  视图：访谈线、政治线、选举线、新党线
+  作品：李敖访谈录1990-2018、中国时报
+  交叉引用：book6-2000-01-01-li-chinghua-pushes-li-ao-to-run-in-presidential-race
+  来源：李敖访谈录1990-2018 / 008.19990819《中国时报》专访李敖 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/008.19990819《中国时报》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-1999-08-19-china-times-new-party-presidential-run
+- 1999年8月22日 | 李敖出席新党六周年党庆，演讲提出“出卖台湾，买回大陆”
+  精度：day；可靠度：confirmed；排序日期：1999-08-22
+  摘要：《中国时报》8月23日报道，李敖前一天出席新党六周年党庆，在台北国际会议中心向约五千名群众发表专题演讲。他感谢新党抬举，解释与新党的关系，并集中阐述两岸谈判和一国两制观点，提出“出卖台湾，买回大陆”的口号，还毛遂自荐可担任台湾谈判代表，要求把国号、国旗都放上谈判桌。
+  人物：李敖、陈文茜、郁慕明、朱高正、赵少康
+  地点：台北国际会议中心、台湾
+  标签：新党、六周年党庆、两岸谈判、一国两制、出卖台湾买回大陆、演讲
+  视图：政治线、演讲线、选举线、两岸线
+  作品：李敖访谈录1990-2018、中国时报
+  交叉引用：li-ao-fangtanlu-1999-08-19-china-times-new-party-presidential-run、book6-2000-01-01-li-chinghua-pushes-li-ao-to-run-in-presidential-race
+  来源：李敖访谈录1990-2018 / 008.19990819《中国时报》专访李敖 / line 77
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/008.19990819《中国时报》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-1999-08-22-new-party-anniversary-speech-sell-taiwan-buy-mainland
+- 1999年8月25日 | 李敖接受《商业周刊》专访，从历史角度批“两国论”和“美国牌”
+  精度：day；可靠度：confirmed；排序日期：1999-08-25
+  摘要：《商业周刊》专访李敖，请他从历史角度看李登辉“两国论”和“美国牌”。李敖判断李登辉想拖美国下水，但台湾处境已不同于蒋介石时代，美国最后必须放弃台湾；他主张台湾应找机会谈判，并判断中共在2000年总统大选前不会打台湾，而会采取敌对与封杀动作，把局面拖到下一届总统产生。
+  人物：李敖、李登辉、陈水扁、宋楚瑜、连战、许淑晴
+  地点：台湾、美国、中国大陆
+  标签：商业周刊、两国论、美国牌、李登辉、两岸、总统选举
+  视图：访谈线、政治线、两岸线、选举线
+  作品：李敖访谈录1990-2018、商业周刊
+  交叉引用：li-ao-fangtanlu-1999-08-19-china-times-new-party-presidential-run
+  来源：李敖访谈录1990-2018 / 009.19990825《商业周刊》专访李敖 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/009.19990825《商业周刊》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-1999-08-25-business-weekly-two-state-us-card
 - 1999年8月27日星期五 | 胡秋原判赔李敖百万确定，李敖自述终于打败这场三十七年官司
   精度：day；可靠度：confirmed；排序日期：1999-08-27
   摘要：《胡秋原赔了五分之一退休金给我》写，1999年8月27日《联合报》登出“胡秋原判赔李敖百万确定”。李敖回看这场从三十七年前结下梁子延续下来的官司，认为自己终于打败胡秋原，不仅为自己报仇，也为殷海光雪恨。
@@ -127060,9 +127190,9 @@
   标签：杨澜工作室、李敖中文大句典、凤凰电视、中文、1999
   视图：访谈线、写作线、文化线
   作品：杨澜工作室、李敖中文大句典、李敖杂文集
-  交叉引用：li-ao-zawenji-2008-09-06-writes-chinese-sentence-dictionary-plan
+  交叉引用：li-ao-zawenji-2008-09-06-writes-chinese-sentence-dictionary-plan、li-ao-fangtanlu-2014-08-28-southern-weekend-jinlan-chinese-interview
   来源：李敖政论综艺集 / 008.19990901《杨澜工作室》 / line 177
-  补充来源：李敖政论综艺集 / 008.19990901《杨澜工作室》 / line 183；李敖杂文集 / 013.《李敖中文大句典》构想书 / line 5
+  补充来源：李敖政论综艺集 / 008.19990901《杨澜工作室》 / line 183；李敖杂文集 / 013.《李敖中文大句典》构想书 / line 5；李敖访谈录1990-2018 / 070.20140828《南方周末》专访李敖 / line 55；说明：《南方周末》访问补充李敖在2014年金兰大厦书房继续谈全民造句、句典和中文决定权。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/012.李敖政论综艺集/008.19990901《杨澜工作室》.txt
   数据：data/timeline-events-li-ao-zawenji.json#li-ao-zawenji-1999-09-01-yanglan-interview-chinese-sentence-dictionary
 - 1999年9月29日星期三 | 李敖在《挑战李敖》中预告《北京法源寺》英文本将送诺贝尔文学奖参选
@@ -127117,6 +127247,45 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/003.李敖书序集续集/010.《黄旗梦碎》序.txt
   数据：data/timeline-events-li-ao-shuxuji-xuji.json#li-ao-shuxuji-xuji-before-1999-01-01-writes-huangqi-mengsui-preface-for-qian-da
+- 1999年3月《长江日报》访问中 | 李敖在《长江日报》访问中说正写《第73烈士》
+  精度：month；可靠度：confirmed；排序日期：1999-03-31
+  摘要：在《长江日报》访问中，李敖说明《北京法源寺》之后正在写另一部小说，题材是黄花岗第七十三个烈士，也就是七十二烈士中“没有死的那个”。他估计这部小说还要一两年时间完成，此处补出《第73烈士》在1999年已经进入写作计划的公开节点。
+  人物：李敖
+  地点：台湾、中国大陆
+  标签：第73烈士、黄花岗、小说计划、长江日报、写作
+  视图：访谈线、写作线、小说线、辛亥线
+  作品：李敖访谈录1990-2018、第73烈士、北京法源寺
+  交叉引用：martyr-73-1961-about-collects-mo-jipeng-calligraphy-and-conceives-novel、ni-bendan-2011-before-mar-03-visits-huanghuagang-and-decides-to-finish-73rd-martyr、book7-2011-04-27-marks-publication-of-the-73rd-martyr-with-corrected-date
+  来源：李敖访谈录1990-2018 / 006.19990403《长江日报》专访李敖 / line 17
+  补充来源：李敖访谈录1990-2018 / 019.2000-2001《上海青年报》专访李敖 / line 235；说明：2000至2001年上海青年报整理稿中补述《第73烈士》题材、莫纪彭和中国思想史写作。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/006.19990403《长江日报》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-1999-03-writing-73rd-martyr-plan
+- 1999年6月号 | 《PLAYBOY》专访李敖，李敖展示珍藏海报并谈杂志渊源
+  精度：month；可靠度：confirmed；排序日期：1999-06-01
+  摘要：《PLAYBOY》国际中文36期专访李敖，记者在雨天访问李敖和他的书房。李敖开心展示珍藏的PLAYBOY海报，并说自己曾在1986年、1989年接受香港版和台湾版PLAYBOY专访，1990年美版PLAYBOY企业年报还刊出他的照片；访谈也谈到他狱中藉双胞胎中页照片逃避现实的片刻经验。
+  人物：李敖
+  地点：台湾、李敖书房
+  标签：PLAYBOY、花花公子、书房、海报、媒体后缘
+  视图：访谈线、媒体线、书房线、收藏线
+  作品：李敖访谈录1990-2018、PLAYBOY
+  交叉引用：li-ao-duihualu-1986-10-hong-kong-playboy-interviews-li-ao、book7-1990-playboy-annual-report-features-li-ao-photo
+  来源：李敖访谈录1990-2018 / 007.1999年6月PLAYBOY专访李敖 / line 13
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/007.1999年6月PLAYBOY专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-1999-06-playboy-interview-head-alumnus
+- 1999年8月28日至9月3日《TVBS周刊》 | 李敖在《TVBS周刊》专访中把参选定义为思想运动
+  精度：date-range；可靠度：confirmed；排序日期：1999-08-28
+  摘要：在《TVBS周刊》专访中，参选后的李敖说自己不聘秘书、不喜欢保全随扈，因为随扈会让他联想到当年被跟监、坐牢的恶梦；又说选举“亦真亦假”，不握手、不拍照、不拉感情票，利用竞选大量宣传理念思想。他把参选定义为思想运动而非一般政治活动，并说政策白皮书只会提出大原则、大方向。
+  人物：李敖、周玉蔻、甯育华、林绍琪、高育
+  地点：台湾
+  标签：TVBS周刊、总统选举、思想运动、随扈、秘书、政策白皮书
+  视图：访谈线、政治线、选举线、媒体线
+  作品：李敖访谈录1990-2018、TVBS周刊
+  交叉引用：li-ao-fangtanlu-1999-08-19-china-times-new-party-presidential-run、li-ao-fangtanlu-1999-08-22-new-party-anniversary-speech-sell-taiwan-buy-mainland
+  来源：李敖访谈录1990-2018 / 010.19990828-0903《TVBS周刊》专访李敖 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/010.19990828-0903《TVBS周刊》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-1999-08-28-tvbs-campaign-as-thought-movement
 - 1999年10月 | 李敖在《明报月刊》预先发表《民国定义和总统定义》
   精度：month；可靠度：confirmed；排序日期：1999-10-01
   摘要：《我言明在先》写，李敖在 1999 年 10 月号《明报月刊》发表《民国定义和总统定义》，先行界定所谓“总统”只是“中国台湾的领导人”别名，并主张未来两岸谈出的“中国”仍可采用“中华民国”名义。此文构成他后来投入 2000 年选举前的公开定位声明。
@@ -127171,6 +127340,32 @@
   数据：data/timeline-events-li-ao-zawenji.json#li-ao-zawenji-1999-context-writes-denounce-falun-gong
 
 2000
+- 2000年1月11日上午，《中国青年报》电话访谈中 | 李敖在《中国青年报》专访中回忆旧北京并说明不愿回去重温旧梦
+  精度：day；可靠度：confirmed；排序日期：2000-01-11
+  摘要：同一次《中国青年报》电话访谈中，李敖在台湾受访时回忆北京新鲜胡同小学、天桥、城墙和景山等童年图像，也说不会再回出生地和旧宅，理由是“重温旧梦就是破坏旧梦”；他提到母亲回内务部街旧宅，见十口之家变成大杂院而哭。访谈末尾他又说自己五十多年没见雪，雪只在电影和梦里，自己不游山玩水，也不离开台湾。
+  人物：李敖、李敖母亲
+  地点：台湾、北京、新鲜胡同、内务部街、景山
+  标签：中国青年报、北京、新鲜胡同、内务部街、重温旧梦、雪
+  视图：访谈线、记忆线、家庭线、两岸线
+  作品：李敖访谈录1990-2018
+  交叉引用：-
+  来源：李敖访谈录1990-2018 / 011.20000111《中国青年报》专访李敖 / line 123
+  补充来源：李敖访谈录1990-2018 / 015.2000《北京青年报》《羊城晚报》《搜狐网》专访李敖 / line 35；说明：后续转载/整理稿中重述不回内地与旧梦说法。；李敖访谈录1990-2018 / 017.20000809《北京青年报》专访李敖 / line 43；说明：《北京青年报》同题访问中重述不回内地与内务部街旧宅。；李敖访谈录1990-2018 / 018.20000809《羊城晚报》专访李敖 / line 71；说明：《羊城晚报》快速问答中重述不回去重温旧梦。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/011.20000111《中国青年报》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2000-01-11-china-youth-interview-old-beijing-and-no-return
+- 2000年1月11日上午，《中国青年报》电话访谈中 | 李敖在《中国青年报》专访中把参选定义为思想教育活动
+  精度：day；可靠度：confirmed；排序日期：2000-01-11
+  摘要：《中国青年报》在2000年1月11日上午电话访谈李敖。李敖把代表新党参选“总统”解释为在台湾选举场中做思想教育：台湾不是国家，“总统”只是中国台湾地区领导人，自己不靠握手、抱小孩和拉交情争票，胜算低，但这不等于搅局。
+  人物：李敖、李登辉、宋楚瑜、胡适
+  地点：台湾、北京
+  标签：中国青年报、总统选举、新党、思想教育、国家定义与总统定义、搅局
+  视图：访谈线、政治线、选举线、思想线
+  作品：李敖访谈录1990-2018、国家定义与总统定义
+  交叉引用：li-ao-fangtanlu-1999-08-19-china-times-new-party-presidential-run、li-ao-fangtanlu-1999-08-28-tvbs-campaign-as-thought-movement、book7-1999-10-publishes-definitions-of-republic-and-president-before-run
+  来源：李敖访谈录1990-2018 / 011.20000111《中国青年报》专访李敖 / line 11
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/011.20000111《中国青年报》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2000-01-11-china-youth-interview-election-as-thought-education
 - 2000年1月12日星期三 | 李敖收到魏廷朝遗孀张庆惠来信致谢慰问金
   精度：day；可靠度：confirmed；排序日期：2000-01-12
   摘要：《魏太太》写，2000年1月12日，魏廷朝遗孀张庆惠来信感谢李敖在魏廷朝骤逝后立即致悼并寄来巨额慰问金。李敖在这章里把此信与后来立法院相见并置，留下他对旧友身后家属持续照应的一条线索。
@@ -127220,7 +127415,7 @@
   作品：李敖风流自传
   交叉引用：-
   来源：李敖风流自传 / 476.路遇胡茵梦 / line 3
-  补充来源：-
+  补充来源：李敖访谈录1990-2018 / 013.20000412《TVBS周刊》李敖对谈 / line 185；说明：TVBS李敖李昂对谈中，李敖回述约三个月前在东丰街买报纸时遇胡茵梦。；李敖访谈录1990-2018 / 019.2000-2001《上海青年报》专访李敖 / line 163；说明：《上海青年报》整理稿中，李敖重述自己走在台北东丰街遇胡茵梦。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/476.路遇胡茵梦.txt
   数据：data/timeline-events-seventh-book.json#book7-2000-01-21-meets-hu-yinmeng-on-street-and-embraces-farewell
 - 2000年2月15日星期二 | 《北京法源寺》英文版举行新书发表会
@@ -127236,6 +127431,32 @@
   补充来源：挑战李敖 / 096.20000216挑战李敖 / line 81
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/002.挑战李敖/096.20000216挑战李敖.txt
   数据：data/timeline-events-beijing-fayuansi.json#beijing-fayuansi-2000-02-15-english-edition-launch
+- 2000年2月17日下午3点，《上海青年报》电话访谈中 | 李敖在《上海青年报》电话访问中谈诺奖提名和中国思想史写作
+  精度：day；可靠度：confirmed；排序日期：2000-02-17
+  摘要：宋元多次约访后，于2000年2月17日下午3点与李敖通话。李敖谈《北京法源寺》获诺贝尔文学奖提名，说这是对台湾文学界和文建会的讽刺，也表示申请不是为奖金；他还说自己一天睡四个半小时，余下时间几乎都在工作，最近正从事中国思想史写作。
+  人物：李敖、宋元
+  地点：台湾、上海
+  标签：上海青年报、宋元、北京法源寺、诺贝尔文学奖、中国思想史、工作狂
+  视图：访谈线、写作线、出版线、日常工作线
+  作品：李敖访谈录1990-2018、北京法源寺、中国思想史
+  交叉引用：book8-2000-beijing-fayuan-temple-nobel-prize-nomination、beijing-fayuansi-2000-2001-shanghai-youth-interview-nobel-and-piracy
+  来源：李敖访谈录1990-2018 / 012.20000218《上海青年报》专访李敖 / line 47
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/012.20000218《上海青年报》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2000-02-17-shanghai-youth-phone-interview-nobel-and-work
+- 2000年3月5日，《北京青年报》周刊人物原载 | 李敖在《北京青年报》专访中谈《北京法源寺》、诺奖和小说写法
+  精度：day；可靠度：confirmed；排序日期：2000-03-05
+  摘要：《北京青年报》周刊人物原载专访中，李敖确认《北京法源寺》已获提名、英译本已由牛津大学出版社出版。他说明自己从未到过法源寺，选择法源寺是看重“悯忠寺”的忠烈脉络；又说小说要表达思想和文字力量，康有为实际上写的是他自己，下一部还要写男女关系小说。
+  人物：李敖、康有为、梁启超
+  地点：台湾、北京、法源寺
+  标签：北京青年报、北京法源寺、诺贝尔文学奖、牛津大学出版社、悯忠寺、小说写作
+  视图：访谈线、写作线、出版线、文学线
+  作品：李敖访谈录1990-2018、北京法源寺
+  交叉引用：book8-2000-beijing-fayuan-temple-nobel-prize-nomination、beijing-fayuansi-1999-09-29-announces-english-nobel-submission、beijing-fayuansi-2000-02-15-english-edition-launch
+  来源：李敖访谈录1990-2018 / 014.20000413《北京青年报》专访李敖 / line 7
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/014.20000413《北京青年报》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2000-03-05-beijing-youth-weekly-fayuansi-and-fiction
 - 2000年3月13日星期一 | 李敖在电子报中说已与远流签约，三年内编《李敖中文大句典》
   精度：day；可靠度：confirmed；排序日期：2000-03-13
   摘要：2000年3月13日《李敖送电集》文字中，李敖谈中文、语音输入与同音字困境，说“最近我和远流出版社签了约，要在三年内编一本《李敖中文大句典》”，用句子表达语言与感情。这条补出2008年构想书之前的签约推进层。
@@ -127249,6 +127470,19 @@
   补充来源：李敖杂文集 / 013.《李敖中文大句典》构想书 / line 5
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/026.2000年3月13日.txt
   数据：data/timeline-events-li-ao-zawenji.json#li-ao-zawenji-2000-03-13-says-signed-yuanliu-for-chinese-sentence-dictionary
+- 2000年3月20日选举后（《广角镜月刊》访谈原文如此） | 在阳明山回忆选后拒接陈水扁电话
+  精度：day；可靠度：reported-by-author；排序日期：2000-03-20
+  摘要：李敖在《广角镜月刊》访谈中回忆，2000年总统选举后他在阳明山住所，国安局派二十六人保护；宋楚瑜阵营想取得他的电话，他说可以给，陈水扁来电则被他拒接。他借这个场景把选后敌友、胜败与自己的政治立场讲成一段辛辣的现场记忆。
+  人物：-
+  地点：-
+  标签：阳明山、总统选举、宋楚瑜、陈水扁、国安局
+  视图：-
+  作品：《广角镜月刊》专访李敖
+  交叉引用：li-ao-fangtanlu-1999-08-19-china-times-new-party-presidential-run、li-ao-fangtanlu-2000-01-11-china-youth-interview-election-as-thought-education
+  来源：李敖访谈录1990-2018 / 022. / line 95
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/022.20010716《广角镜月刊》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2000-03-20-yangmingshan-election-night-refuses-chen-call
 - 2000年3月30日星期四 | 李敖在《秘密书房》恢复《北京法源寺》系列第六集
   精度：day；可靠度：confirmed；排序日期：2000-03-30
   摘要：2000年3月30日《李敖秘密书房》题为《北京法源寺》（六），李敖说明因总统选举中断后恢复该系列，并说自己的长篇小说目前只有《北京法源寺》一部。此条记录节目讨论，不采小说剧情为现实事件。
@@ -127353,6 +127587,19 @@
   补充来源：李敖秘密书房 / 088.20000410《北京法源寺》（十三） / line 5
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/003.李敖秘密书房/088.20000410《北京法源寺》（十三）.txt
   数据：data/timeline-events-beijing-fayuansi.json#beijing-fayuansi-2000-04-10-secret-study-episode-13
+- 2000年4月11日，TVBS周刊安排对谈 | 李敖与李昂录制TVBS“权力与欲望”对谈
+  精度：day；可靠度：confirmed；排序日期：2000-04-11
+  摘要：TVBS周刊安排李敖与李昂围绕“权力与欲望/女人与政治”对谈。李敖评论谢雪红、吕秀莲和李昂新作，认为中国政治没有女性和知识分子的角色，谢雪红是危险而错误的定位；对谈后两人玩笑说要接力合作一部华文“最黄”的小说。附录报道还记李昂曾读过《北京法源寺》初稿并批评。
+  人物：李敖、李昂、周玉蔻、谢雪红、吕秀莲、陈水扁
+  地点：台北、台湾
+  标签：TVBS周刊、李昂、女人与政治、权力与欲望、谢雪红、吕秀莲
+  视图：访谈线、对谈线、政治线、文学线
+  作品：李敖访谈录1990-2018、北京法源寺
+  交叉引用：-
+  来源：李敖访谈录1990-2018 / 013.20000412《TVBS周刊》李敖对谈 / line 321
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/013.20000412《TVBS周刊》李敖对谈.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2000-04-11-tvbs-li-ao-li-ang-dialogue-women-politics
 - 2000年4月11日星期二 | 李敖在《秘密书房》完成《北京法源寺》系列最后一集总结
   精度：day；可靠度：confirmed；排序日期：2000-04-11
   摘要：2000年4月11日《北京法源寺》（十四）中，李敖说明这是该系列最后一集、要做总结，并继续讨论小说结尾。此条标记《秘密书房》集中介绍《北京法源寺》系列的收束节点。
@@ -127366,6 +127613,71 @@
   补充来源：李敖秘密书房 / 089.20000411《北京法源寺》（十四） / line 5；李敖秘密书房 / 089.20000411《北京法源寺》（十四） / line 7
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/003.李敖秘密书房/089.20000411《北京法源寺》（十四）.txt
   数据：data/timeline-events-beijing-fayuansi.json#beijing-fayuansi-2000-04-11-secret-study-episode-14-finale
+- 2000年5月20日下午，书房访问中 | 李敖在凤凰《时事开讲》书房访问中预告要告李登辉
+  精度：day；可靠度：confirmed；排序日期：2000-05-20
+  摘要：陈水扁就职当天“520”直播结束后，曹景行与曾静漪到李敖书房访问。李敖原已宣布选后不再受访，但答应曹景行邀请；当时书房缺水，他早上又连续演讲两小时、喉咙不适。专访一开始，李敖就拿出简报，说“明天”要开记者会准备告李登辉，并批评陈水扁师承李登辉、拖延两岸关系。
+  人物：李敖、曹景行、曾静漪、李登辉、陈水扁
+  地点：台湾、李敖书房
+  标签：时事开讲、凤凰卫视、曹景行、曾静漪、书房、李登辉、陈水扁
+  视图：访谈线、电视线、司法线、政治线
+  作品：李敖访谈录1990-2018、时事开讲
+  交叉引用：li-ao-fangtanlu-2000-05-22-sues-lee-teng-hui-two-state-and-hongxi
+  来源：李敖访谈录1990-2018 / 016.2000《时事开讲》专访李敖 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/016.2000《时事开讲》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2000-05-20-phoenix-shishi-kaijiang-study-interview
+- 2000年5月22日上午10时40分 | 李敖控告卸任后的李登辉涉嫌“两国论”内乱罪和鸿禧山庄贪渎罪
+  精度：day；可靠度：confirmed；排序日期：2000-05-22
+  摘要：李登辉卸任第二天，李敖于2000年5月22日上午10时40分把他告上法庭。李敖先到台湾高等法院检察署控告李登辉因“两国论”涉嫌内乱罪，随后又转往台北地方法院检察署，就鸿禧山庄别墅案控告李登辉涉嫌贪渎罪；他表示将无限期、持续控告李登辉。
+  人物：李敖、李登辉、陈水扁
+  地点：台湾、台北、台湾高等法院检察署、台北地方法院检察署、鸿禧山庄
+  标签：李登辉、两国论、内乱罪、鸿禧山庄、贪渎罪、高等法院检察署、台北地方法院检察署
+  视图：司法线、政治线、访谈线
+  作品：李敖访谈录1990-2018
+  交叉引用：li-ao-fangtanlu-2000-05-20-phoenix-shishi-kaijiang-study-interview、li-ao-shuxuji-xuji-1997-mid-authorizes-qian-da-to-use-hongxi-materials
+  来源：李敖访谈录1990-2018 / 019.2000-2001《上海青年报》专访李敖 / line 337
+  补充来源：李敖访谈录1990-2018 / 016.2000《时事开讲》专访李敖 / line 15；说明：5月20日书房访问中，李敖预告将开记者会准备告李登辉。；李敖访谈录1990-2018 / 017.20000809《北京青年报》专访李敖 / line 55；说明：8月北京青年报访问中回述李登辉一下台就告上法庭。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/019.2000-2001《上海青年报》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2000-05-22-sues-lee-teng-hui-two-state-and-hongxi
+- 2000年7月26日 | 李敖赢得秦孝仪名誉侵害案并获赔三十万新台币
+  精度：day；可靠度：confirmed；排序日期：2000-07-26
+  摘要：2000年7月26日，李敖打赢诉伪故宫博物院院长秦孝仪侵犯名誉的官司，获赔三十万新台币。李敖在后来的访问中说这笔钱约值一万美元，并准备把它用于购买大量散失在民间的资料；他也把这场四年官司解释为“打过程”的技术击倒。
+  人物：李敖、秦孝仪
+  地点：台湾
+  标签：秦孝仪、伪故宫博物院、名誉侵害、三十万新台币、民间资料、官司
+  视图：司法线、收藏线、访谈线
+  作品：李敖访谈录1990-2018
+  交叉引用：-
+  来源：李敖访谈录1990-2018 / 017.20000809《北京青年报》专访李敖 / line 59
+  补充来源：李敖访谈录1990-2018 / 015.2000《北京青年报》《羊城晚报》《搜狐网》专访李敖 / line 51；说明：同组整理稿中重述7月26日胜诉与购资料计划。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/017.20000809《北京青年报》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2000-07-26-wins-qin-xiaoyi-defamation-compensation
+- 2000年8月9日下午，《羊城晚报》长途电话访问中 | 李敖接受《羊城晚报》电话访问并说明大陆出版授权
+  精度：day；可靠度：confirmed；排序日期：2000-08-09
+  摘要：2000年8月9日下午，《羊城晚报》记者通过长途电话采访李敖。访问记说明，中国友谊出版公司已出版《李敖回忆录》《李敖快意恩仇录》《文化顽童李敖》，《李敖大全集》1至20册售罄后，李敖又授权该公司出版21至40册，并签下《笑傲五十年》等十本书合同。李敖在访问中还谈到青年读者、用书方法、官司、爱情观和《只爱一点点》。
+  人物：李敖
+  地点：台湾、广州、中国大陆
+  标签：羊城晚报、中国友谊出版公司、李敖大全集、李敖回忆录、李敖快意恩仇录、笑傲五十年
+  视图：访谈线、出版线、版权线
+  作品：李敖访谈录1990-2018、李敖大全集、李敖回忆录、李敖快意恩仇录、文化顽童李敖、笑傲五十年、只爱一点点
+  交叉引用：li-ao-fangtanlu-1999-04-03-changjiang-interview-mainland-books-and-new-novel、book8-1999-05-12-publishes-li-ao-collected-works-21-to-40-and-harm-taiwan-ten-books
+  来源：李敖访谈录1990-2018 / 018.20000809《羊城晚报》专访李敖 / line 11
+  补充来源：李敖访谈录1990-2018 / 015.2000《北京青年报》《羊城晚报》《搜狐网》专访李敖 / line 189；说明：北京青年报/羊城晚报/搜狐网整理稿中重述中国友谊出版公司出版与授权。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/018.20000809《羊城晚报》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2000-08-09-yangcheng-evening-phone-interview-mainland-publishing
+- 2000年8月11日，中央电视台四套《海峡两岸》首播 | 李敖首次在中国大陆电视节目中亮相
+  精度：day；可靠度：confirmed；排序日期：2000-08-11
+  摘要：中央电视台《海峡两岸》以书面方式采访李敖，并委托台湾真相电视台代拍回答录像。报道说李敖7月20日起“登陆”中央电视台，节目将在2000年8月11日、18日、25日播出；8月7日记者越洋电话确认，这是李敖首次在中国内地电视节目中亮相。李敖解释接受CCTV采访，是想在精神层面沟通两岸、交流思想。
+  人物：李敖
+  地点：台湾、中国大陆
+  标签：中央电视台、CCTV、海峡两岸、真相电视台、大陆电视、两岸沟通
+  视图：电视线、访谈线、两岸线、媒体线
+  作品：李敖访谈录1990-2018、海峡两岸
+  交叉引用：-
+  来源：李敖访谈录1990-2018 / 017.20000809《北京青年报》专访李敖 / line 15
+  补充来源：李敖访谈录1990-2018 / 015.2000《北京青年报》《羊城晚报》《搜狐网》专访李敖 / line 5；说明：华声报讯与整理稿中记8月11日央视四套亮相及接受采访原因。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/017.20000809《北京青年报》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2000-08-11-cctv-haixia-liangan-first-mainland-tv
 - 2000年 | 李庆华任新党主席时力排众议，推动李敖投入2000年“总统”选举
   精度：year；可靠度：confirmed；排序日期：2000-01-01
   摘要：《李庆华李庆安兄妹档》回忆，李庆华任新党党主席时，曾力排众议推李敖出来参加2000年“总统”选举。李敖把这件事视为自己在历史与记录上留下“2000年光芒的一页”的关键推动，并明确表示对李庆华一直感念。这条的价值在于补出李敖自述的政治参选推动链，而不是扩写李氏家族轶事。
@@ -127402,7 +127714,7 @@
   作品：北京法源寺、李敖相关
   交叉引用：beijing-fayuansi-1991-06-30-published-by-wenxing、beijing-fayuansi-1999-09-29-announces-english-nobel-submission、beijing-fayuansi-2000-02-15-english-edition-launch、beijing-fayuansi-2000-03-31-secret-study-episode-07、beijing-fayuansi-2000-2001-shanghai-youth-interview-nobel-and-piracy
   来源：李敖相关 / 001.李敖五十年表 / line 157
-  补充来源：李敖相关 / 001.李敖五十年表 / line 157；李敖访谈录1990-2018 / 019.2000-2001《上海青年报》专访李敖 / line 189；李敖访谈录1990-2018 / 019.2000-2001《上海青年报》专访李敖 / line 209；李敖秘密书房 / 086.20000406《北京法源寺》（十一） / line 5；李敖研究fashion文集 / 005.大陆研究李敖综述 / line 19；说明：第三方研究综述，补《中国友谊》2000年初借提名出版宣传版本的说法。
+  补充来源：李敖相关 / 001.李敖五十年表 / line 157；李敖访谈录1990-2018 / 019.2000-2001《上海青年报》专访李敖 / line 189；李敖访谈录1990-2018 / 019.2000-2001《上海青年报》专访李敖 / line 209；李敖秘密书房 / 086.20000406《北京法源寺》（十一） / line 5；李敖研究fashion文集 / 005.大陆研究李敖综述 / line 19；说明：第三方研究综述，补《中国友谊》2000年初借提名出版宣传版本的说法。；李敖访谈录1990-2018 / 012.20000218《上海青年报》专访李敖 / line 7；说明：2000年2月《上海青年报》访问中谈《北京法源寺》获诺贝尔文学奖提名。；李敖访谈录1990-2018 / 014.20000413《北京青年报》专访李敖 / line 7；说明：《北京青年报》周刊人物访问中确认提名、英译本及资格论述。；李敖访谈录1990-2018 / 018.20000809《羊城晚报》专访李敖 / line 123；说明：《羊城晚报》附录记东吴大学人士推动英译本角逐诺贝尔文学奖。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/008.李敖相关/001.李敖五十年表.txt
   数据：data/timeline-events-eighth-book.json#book8-2000-beijing-fayuan-temple-nobel-prize-nomination
 - 2000年 | 宋楚瑜败选后托张光锦送来五百万元，李敖只答应寄放不收走
@@ -127446,6 +127758,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/010.你笨蛋，你笨蛋/002.准伤痕文学.txt
   数据：data/timeline-events-ni-bendan.json#ni-bendan-2001-03-11-writes-quasi-scar-literature
+- 2001年3月20日至22日电话联系中 | 李敖在《上海青年报》电话联系中说明闭关、结束电视时代并准备新书
+  精度：day；可靠度：confirmed；排序日期：2001-03-22
+  摘要：宋元在2001年3月20日、22日两次同“闭关”中的李敖通话。李敖表示近来归隐、息交绝游，连续几个月关在高楼著书；过去一年母亲去世、发高烧和胃溃疡后，他远离尘嚣、闭门思过。李敖又说已辞掉《李敖脱口秀》，决定全面结束电视时代，把精力放在写作上，并请人刻“青山见我楼”闲章，准备66岁生日出版《上山·上山·爱》。
+  人物：李敖、宋元、李敖母亲
+  地点：台湾、李敖高楼寓所
+  标签：上海青年报、宋元、闭关、息交绝游、李敖脱口秀、青山见我楼、上山·上山·爱
+  视图：访谈线、写作线、电视线、家庭线、日常工作线
+  作品：李敖访谈录1990-2018、李敖脱口秀、上山·上山·爱
+  交叉引用：book7-2001-04-25-publishes-shangshan-shangshan-ai、shangshan-ai-2001-04-13-writes-about-writing、shangshan-ai-2001-before-apr25-finishes-in-forty-days
+  来源：李敖访谈录1990-2018 / 019.2000-2001《上海青年报》专访李敖 / line 363
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/019.2000-2001《上海青年报》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2001-03-22-shanghai-youth-calls-reclusion-and-tv-retirement
+- 2001年3月20日至22日通话前后 | 李敖状告刘泰英诽谤案一审败诉并表示将上诉
+  精度：day；可靠度：confirmed；排序日期：2001-03-22
+  摘要：《上海青年报》整理稿记录，近期台北地方法院一审判决李敖状告刘泰英诽谤案败诉。案件缘于2000年总统选举期间，刘泰英谈李敖年轻时花钱和女性等语；李敖认为构成诽谤。李敖在电话中说自己是看不惯刘泰英、找茬要告，并表示将按法定程序继续上诉。
+  人物：李敖、刘泰英
+  地点：台湾、台北地方法院
+  标签：刘泰英、诽谤案、台北地方法院、上诉、总统选举
+  视图：司法线、政治线、访谈线
+  作品：李敖访谈录1990-2018
+  交叉引用：-
+  来源：李敖访谈录1990-2018 / 019.2000-2001《上海青年报》专访李敖 / line 381
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/019.2000-2001《上海青年报》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2001-03-22-liu-taiying-defamation-case-first-instance-lost
 - 2001年3月29日星期四 | 李敖写《“假货”何其多》，自认最早点破“台独是假的”
   精度：day；可靠度：confirmed；排序日期：2001-03-29
   摘要：《台独是假的》写，李敖自称最早点破“台独是假的”的先知，并点出其中最简明的一篇是2001年3月29日所写《“假货”何其多》，作为其长期拆穿“假台独”论述的代表文字。
@@ -127469,7 +127807,7 @@
   作品：上山·上山·爱、我写《上山·上山·爱》、北京法源寺
   交叉引用：shangshan-ai-1984-about-serial-banned-before-completion、shangshan-ai-2001-before-apr25-finishes-in-forty-days、book7-2001-04-25-publishes-shangshan-shangshan-ai
   来源：上山·上山·爱 / 005.我写《上山·上山·爱》 / line 37
-  补充来源：上山·上山·爱 / 005.我写《上山·上山·爱》 / line 13；上山·上山·爱 / 005.我写《上山·上山·爱》 / line 15；上山·上山·爱 / 005.我写《上山·上山·爱》 / line 19；上山·上山·爱 / 005.我写《上山·上山·爱》 / line 21
+  补充来源：上山·上山·爱 / 005.我写《上山·上山·爱》 / line 13；上山·上山·爱 / 005.我写《上山·上山·爱》 / line 15；上山·上山·爱 / 005.我写《上山·上山·爱》 / line 19；上山·上山·爱 / 005.我写《上山·上山·爱》 / line 21；李敖访谈录1990-2018 / 020.20010423《亚洲周刊》专访李敖 / line 27；说明：《亚洲周刊》访问中，李敖说明三十年前构思、真假比例、性与思想定位和十七年前查禁。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/002.上山·上山·爱/005.我写《上山·上山·爱》.txt
   数据：data/timeline-events-shangshan-ai.json#shangshan-ai-2001-04-13-writes-about-writing
 - 2001年4月13日星期五 | 李敖称《上山·上山·爱》构思三十多年后，最后四十多天一口气写完
@@ -127482,9 +127820,48 @@
   作品：上山·上山·爱
   交叉引用：shangshan-ai-before-1971-prison-conception-and-fragments、shangshan-ai-2001-04-13-writes-about-writing、book7-2001-04-25-publishes-shangshan-shangshan-ai
   来源：上山·上山·爱 / 005.我写《上山·上山·爱》 / line 21
-  补充来源：上山·上山·爱 / 004.第三部——三十年后 / line 1611；上山·上山·爱 / 005.我写《上山·上山·爱》 / line 23；上山·上山·爱 / 005.我写《上山·上山·爱》 / line 25
+  补充来源：上山·上山·爱 / 004.第三部——三十年后 / line 1611；上山·上山·爱 / 005.我写《上山·上山·爱》 / line 23；上山·上山·爱 / 005.我写《上山·上山·爱》 / line 25；李敖访谈录1990-2018 / 019.2000-2001《上海青年报》专访李敖 / line 377；说明：2001年3月电话联系中，李敖预告生日出版现代长篇《上山·上山·爱》。；李敖访谈录1990-2018 / 020.20010423《亚洲周刊》专访李敖 / line 27；说明：《亚洲周刊》访问中补述创作动念、经验与想像来源。；李敖访谈录1990-2018 / 022. / line 119；说明：李敖在《广角镜月刊》访谈中说《上山·上山·爱》写了三十年，最后四十天串联成书。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/002.上山·上山·爱/005.我写《上山·上山·爱》.txt
   数据：data/timeline-events-shangshan-ai.json#shangshan-ai-2001-before-apr25-finishes-in-forty-days
+- 2001年4月23日下午，书房访问中 | 李敖在《亚洲周刊》书房访问中说明《上山·上山·爱》写作过程
+  精度：day；可靠度：confirmed；排序日期：2001-04-23
+  摘要：闭关一年后，李敖于2001年4月23日下午在书房接受《亚洲周刊》访问。谈《上山·上山·爱》时，他说明自己三十年前开始动念想写爱情故事，女主角来自经验、想像和阅读的综合，书中十分之一真实、十分之九幻想；他把性写作解释为用性引入真理，又说这本书17年前即曾被以“为匪宣传”等罪名查禁。
+  人物：李敖、邱立本、童清峰、高行健
+  地点：台湾、李敖书房
+  标签：亚洲周刊、邱立本、童清峰、上山·上山·爱、爱情故事、查禁、为匪宣传
+  视图：访谈线、写作线、出版线、文学线
+  作品：李敖访谈录1990-2018、上山·上山·爱、北京法源寺
+  交叉引用：book7-2001-04-25-publishes-shangshan-shangshan-ai、shangshan-ai-2001-04-13-writes-about-writing、shangshan-ai-2001-before-apr25-finishes-in-forty-days
+  来源：李敖访谈录1990-2018 / 020.20010423《亚洲周刊》专访李敖 / line 23
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/020.20010423《亚洲周刊》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2001-04-23-asia-weekly-study-interview-shangshan-writing
+- 2001年4月23日下午，书房访问中 | 李敖在《亚洲周刊》访问中说已回归写作并与外界隔绝
+  精度：day；可靠度：confirmed；排序日期：2001-04-23
+  摘要：同次书房访问中，李敖说选举后从银幕消失，是要回归基本面，半年前已不做电视，希望未来再写一两本书。他解释自己不踏出台湾，是在台湾活在神游和想像空间里；日常则不烟酒茶咖啡，每天读书十小时，稿子全用手写，不用电脑和电子邮件，与外界隔绝，关门做自己的皇帝。
+  人物：李敖
+  地点：台湾、李敖书房
+  标签：亚洲周刊、回归基本面、电视时代、神游、手写、电子邮件、读书
+  视图：访谈线、写作线、电视线、日常工作线
+  作品：李敖访谈录1990-2018、李敖大全集
+  交叉引用：li-ao-fangtanlu-2001-03-22-shanghai-youth-calls-reclusion-and-tv-retirement
+  来源：李敖访谈录1990-2018 / 020.20010423《亚洲周刊》专访李敖 / line 105
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/020.20010423《亚洲周刊》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2001-04-23-asia-weekly-interview-return-to-basics-handwritten-isolated
+- 2001年4月25日六十六岁生日 | 收到陈水扁生日花篮水果并称心软手不软
+  精度：day；可靠度：reported-by-author；排序日期：2001-04-25
+  摘要：李敖在《广角镜月刊》访谈中说，六十六岁生日时陈水扁送来花篮和水果；前一年六十五岁生日，陈水扁刚当选总统，也送过一本签名书。他说自己对老朋友会有一点“心软”，但谈到真理和批评时“手不软”，把私人交情和公开批判分开处理。
+  人物：-
+  地点：-
+  标签：陈水扁、生日、政治批评、交情
+  视图：-
+  作品：《广角镜月刊》专访李敖
+  交叉引用：book7-2001-04-25-publishes-shangshan-shangshan-ai、li-ao-fangtanlu-1999-08-22-new-party-anniversary-speech-sell-taiwan-buy-mainland
+  来源：李敖访谈录1990-2018 / 022. / line 61
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/022.20010716《广角镜月刊》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2001-04-25-chen-shuibian-birthday-gifts-soft-heart-hard-hand
 - 2001年4月25日星期三 | 李敖出版长篇小说《上山·上山·爱》
   精度：day；可靠度：confirmed；排序日期：2001-04-25
   摘要：《李敖的淫威》写，2001年4月25日，李敖继《北京法源寺》后再出长篇小说《上山·上山·爱》。此书在台湾登上排行榜第一名并迅速售空，连台北市议会审查出版品条例时都拿它当成“情色样本”开玩笑，反成李敖名气与威慑力的一次侧证。
@@ -127495,9 +127872,22 @@
   作品：上山·上山·爱、北京法源寺、李敖风流自传
   交叉引用：shangshan-ai-1984-about-serial-banned-before-completion、shangshan-ai-2001-04-13-writes-about-writing、shangshan-ai-2001-before-apr25-finishes-in-forty-days
   来源：李敖风流自传 / 612.李敖的淫威 / line 3
-  补充来源：上山·上山·爱 / 005.我写《上山·上山·爱》 / line 15；上山·上山·爱 / 005.我写《上山·上山·爱》 / line 21
+  补充来源：上山·上山·爱 / 005.我写《上山·上山·爱》 / line 15；上山·上山·爱 / 005.我写《上山·上山·爱》 / line 21；李敖访谈录1990-2018 / 019.2000-2001《上海青年报》专访李敖 / line 377；说明：2001年3月电话联系中，李敖预告66岁生日将出版《上山·上山·爱》。；李敖访谈录1990-2018 / 020.20010423《亚洲周刊》专访李敖 / line 3；说明：《亚洲周刊》访问以李敖新作《上山·上山·爱》为主题。；李敖访谈录1990-2018 / 021. / line 75；说明：李敖在新华网访谈中谈总统选举后休息半年，出版《上山·上山·爱》，并称已售八万本。；李敖访谈录1990-2018 / 022. / line 119；说明：李敖在《广角镜月刊》访谈中补述《上山·上山·爱》的长期写作与四十天收束。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/612.李敖的淫威.txt
   数据：data/timeline-events-seventh-book.json#book7-2001-04-25-publishes-shangshan-shangshan-ai
+- 2001年5月5日上午11时，东丰街书房访问中 | 在东丰街书房接待新华网记者
+  精度：day；可靠度：reported-by-source；排序日期：2001-05-05
+  摘要：新华网记者孙承斌上午十一时来到李敖东丰街书房兼工作室采访。李敖一边招呼记者，一边处理书画装裱，还展示国民党查禁他九十四种书的长卷；他说自己有四个书房、每天读写约十小时，很少应酬，也少烟酒茶咖啡。这场访问谈了两个半小时以上，他后来说明，今天让记者来，是要让大陆听到他的声音。
+  人物：-
+  地点：-
+  标签：新华网、东丰街书房、孙承斌、禁书、采访
+  视图：-
+  作品：《新华网》专访李敖
+  交叉引用：li-ao-fangtanlu-1990-11-22-dai-xiaohua-interview-shows-banned-list、li-ao-fangtanlu-2001-04-23-asia-weekly-interview-return-to-basics-handwritten-isolated
+  来源：李敖访谈录1990-2018 / 021. / line 13
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/021.20010604《新华网》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2001-05-05-xinhua-mainland-reporter-study-interview
 - 2001年5月7日星期一 | 李敖写《李敖的“淫威”》
   精度：day；可靠度：confirmed；排序日期：2001-05-07
   摘要：《李敖的“淫威”》文末署“2001年5月7日，在中国台湾”。李敖借大陆伪书《和李敖一起疯狂》与《上山·上山·爱》上市后的回响，讥刺社会如何一边消费自己的名声，一边又假正经地围观。
@@ -127511,6 +127901,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/010.你笨蛋，你笨蛋/004.李敖的“淫威”.txt
   数据：data/timeline-events-ni-bendan.json#ni-bendan-2001-05-07-writes-li-aos-intimidating-fame
+- 2001年6月4日《新华网》专访刊出 | 在新华网访谈中谈大陆旧梦与伪书
+  精度：day；可靠度：reported-by-source；排序日期：2001-06-04
+  摘要：《新华网》刊出专访时，李敖在东丰街书房向记者展示大陆翻印、盗版乃至伪托的李敖书。他说现在没有回大陆的计划；若只为重温童年旧梦而回去，反会破坏那个旧梦。访谈末尾，他又对大陆读者说要多看李敖的书，但不要看盗版书。
+  人物：-
+  地点：-
+  标签：新华网、大陆、盗版书、伪书、旧梦
+  视图：-
+  作品：《新华网》专访李敖
+  交叉引用：li-ao-fangtanlu-2001-05-05-xinhua-mainland-reporter-study-interview
+  来源：李敖访谈录1990-2018 / 021. / line 231
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/021.20010604《新华网》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2001-06-04-xinhua-interview-mainland-old-dream-and-pirated-books
+- 2001年7月16日《广角镜月刊》访谈中 | 在《广角镜月刊》访谈中谈《上山·上山·爱》
+  精度：day；可靠度：reported-by-author；排序日期：2001-07-16
+  摘要：《广角镜月刊》在大书房访问李敖时，他集中谈《上山·上山·爱》的写法：女性人物来自真实接触与想象优点的合成，封面照片中的女子也曾与他共同生活十六天；小说以“脱裤子谈思想”来包住哲学结构。他又说这部小说酝酿三十年、前几章十七年前曾被禁，最后四十天串联成书，日后还可能写政治和社会小说。
+  人物：-
+  地点：-
+  标签：《上山·上山·爱》、小说、女性、思想、写作
+  视图：-
+  作品：《上山·上山·爱》、《广角镜月刊》专访李敖
+  交叉引用：shangshan-ai-2001-before-apr25-finishes-in-forty-days、book7-2001-04-25-publishes-shangshan-shangshan-ai、li-ao-fangtanlu-2001-04-23-asia-weekly-study-interview-shangshan-writing
+  来源：李敖访谈录1990-2018 / 022. / line 15
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/022.20010716《广角镜月刊》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2001-07-16-guangjiaojing-interview-shangshan-ai-sex-and-thought
 - 2001年8月13日星期一 | 在中天主持《李敖大哥大》
   精度：day；可靠度：confirmed；排序日期：2001-08-13
   摘要：《李敖五十年表》记，2001年8月13日，李敖由郑乃嘉设计，在中天主持《李敖大哥大》。这条把他从周荃体系节目、凤凰电视节目到晚年主持线之间的2001年电视节点单独钉住，使媒体谱系不只停留在阶段总结，而有明确开播点。
@@ -127573,7 +127989,7 @@
   作品：北京法源寺、上海青年报
   交叉引用：book8-2000-beijing-fayuan-temple-nobel-prize-nomination、beijing-fayuansi-1992-context-renmin-wenxue-authorized-mainland-edition
   来源：李敖访谈录1990-2018 / 019.2000-2001《上海青年报》专访李敖 / line 209
-  补充来源：李敖访谈录1990-2018 / 019.2000-2001《上海青年报》专访李敖 / line 189；李敖访谈录1990-2018 / 019.2000-2001《上海青年报》专访李敖 / line 243
+  补充来源：李敖访谈录1990-2018 / 019.2000-2001《上海青年报》专访李敖 / line 189；李敖访谈录1990-2018 / 019.2000-2001《上海青年报》专访李敖 / line 243；李敖访谈录1990-2018 / 012.20000218《上海青年报》专访李敖 / line 9；说明：《上海青年报》访问中谈提名意义和诺奖标准。；李敖访谈录1990-2018 / 020.20010423《亚洲周刊》专访李敖 / line 45；说明：《亚洲周刊》访问中再次谈大陆盗版和冒名书界线。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/019.2000-2001《上海青年报》专访李敖.txt
   数据：data/timeline-events-beijing-fayuansi.json#beijing-fayuansi-2000-2001-shanghai-youth-interview-nobel-and-piracy
 
@@ -127642,7 +128058,7 @@
   作品：红色11、李敖风流自传
   交叉引用：book7-1972-07-moves-from-room-2-to-room-11-at-jingmei-detention、book6-2007-03-29-inscribes-red-11-for-lin-yufang、red-11-2003-03-28-finishes-script-in-eighty-days-standing
   来源：李敖风流自传 / 412.《红色11》后记 / line 17
-  补充来源：红色11 / 006.后记 / line 17；红色11 / 006.后记 / line 13；红色11 / 006.后记 / line 19
+  补充来源：红色11 / 006.后记 / line 17；红色11 / 006.后记 / line 13；红色11 / 006.后记 / line 19；李敖访谈录1990-2018 / 023. / line 15；说明：李敖在《亚洲周刊》访谈中说明《红色11》取材白色恐怖和狱中材料，部分来自回忆录片段。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/412.《红色11》后记.txt
   数据：data/timeline-events-seventh-book.json#book7-2003-03-28-finishes-postscript-to-red-11
 - 2003年3月28日星期五 | 李敖称花八十天站着写完剧本《红色11》
@@ -127655,9 +128071,22 @@
   作品：红色11
   交叉引用：book7-2003-03-28-finishes-postscript-to-red-11、book7-1972-07-moves-from-room-2-to-room-11-at-jingmei-detention
   来源：红色11 / 006.后记 / line 13
-  补充来源：红色11 / 006.后记 / line 19
+  补充来源：红色11 / 006.后记 / line 19；李敖访谈录1990-2018 / 023. / line 15；说明：李敖在《亚洲周刊》访谈中说明《红色11》人物、囚房名义和三十年白色恐怖素材。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/004.小说剧本类/003.红色11/006.后记.txt
   数据：data/timeline-events-red-11.json#red-11-2003-03-28-finishes-script-in-eighty-days-standing
+- 2003年5月4日《亚洲周刊》专访中 | 复出受访谈《红色11》与白色恐怖素材
+  精度：day；可靠度：reported-by-source；排序日期：2003-05-04
+  摘要：《亚洲周刊》报道，李敖沉潜十一月后重新出现，不再主持电视节目，回到写作，并推出小说与剧本《红色11》。他在访谈中说明，“11号”来自狱中囚房，作品把自己三十年来掌握的白色恐怖、坐牢和政治迫害故事戏剧化处理；人物有真有假，有些素材早在回忆录中露出片段，这次集中写成舞台结构。
+  人物：-
+  地点：-
+  标签：《红色11》、白色恐怖、坐牢、复出、亚洲周刊
+  视图：-
+  作品：《红色11》、《亚洲周刊》专访李敖
+  交叉引用：red-11-2003-03-28-finishes-script-in-eighty-days-standing、book7-2003-03-28-finishes-postscript-to-red-11
+  来源：李敖访谈录1990-2018 / 023. / line 7
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/023.20030504《亚洲周刊》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2003-05-04-asia-weekly-red-11-white-terror-interview
 - 2003年8月17日星期日 | 李敖买下一条斗鱼，并由其好斗性写出自况式感想
   精度：day；可靠度：confirmed；排序日期：2003-08-17
   摘要：《斗鱼》写，2003年8月17日，李敖买下一条斗鱼，喜其飘逸、倨傲而甘于孤独。两天后他把斗鱼放进大鱼缸，斗鱼疯狂追逐保护箱中的小红鱼，至21日竟把自己累死。李敖借这条斗鱼写下对“专盯小号目标、终至斗死自己”式人格的观察，也留下难得的日常生活痕迹。
@@ -127684,8 +128113,86 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/003.李敖书序集续集/016.序凉如水.txt
   数据：data/timeline-events-li-ao-shuxuji-xuji.json#li-ao-shuxuji-xuji-2003-10-01-writes-xu-liang-ru-shui-for-lu-yilin
+- 2003年11月23日前后，《亚洲周刊》专题报道中 | 胡秋原控告诽谤案二审败诉
+  精度：day；可靠度：reported-by-source；排序日期：2003-11-23
+  摘要：《亚洲周刊》专题报道，胡秋原因李敖写作涉及胡适、殷海光、台湾大学和自由主义传统等问题而控告他诽谤；案件历经约十年，台湾高等法院二审判李敖败诉，须赔偿一百六十万元，仍可上诉。这个节点与早年李敖反告胡秋原胜诉的脉络相对照，显示两人长期文字与诉讼交锋仍在延烧。
+  人物：-
+  地点：-
+  标签：胡秋原、诽谤案、台湾高等法院、赔偿、诉讼
+  视图：-
+  作品：《亚洲周刊》李敖专题
+  交叉引用：book7-1999-08-27-hu-qiuyuan-loses-final-appeal-and-must-pay-li-ao
+  来源：李敖访谈录1990-2018 / 024. / line 15
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/024.20031123《亚洲周刊》李敖专题.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2003-11-23-hu-qiuyuan-defamation-case-high-court-loss
+- 2003年11月24日上午至下午 | 住院前仍在书房读写并改诗
+  精度：day；可靠度：reported-by-source；排序日期：2003-11-24
+  摘要：李敖当天上午仍在书房读书写字，还朗诵并修改自题诗，把汪精卫旧句转成自嘲病语，顺带用Dole、威而刚等笑话抵消手术压力。下午他住进和信医院，准备次日上午由张树人切除前列腺癌；他又开玩笑说和信属辜家，是老仇人的地盘，但张树人医术好。
+  人物：-
+  地点：-
+  标签：前列腺癌、和信医院、张树人、书房、改诗
+  视图：-
+  作品：《联合晚报》李敖专题
+  交叉引用：li-ao-fangtanlu-2003-09-prostate-cancer-found-after-checkup
+  来源：李敖访谈录1990-2018 / 025. / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/025.20031124《联合晚报》李敖专题.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2003-11-24-study-poem-before-hexin-admission
+- 2003年11月25日上午8时起 | 前列腺癌切除手术成功
+  精度：day；可靠度：reported-by-source；排序日期：2003-11-25
+  摘要：李敖上午八时进入手术室，麻醉前还告诉麻醉医师自己怕冷；张树人团队约九十分钟完成前列腺癌切除，十五颗淋巴结未见转移，并尽量保留性神经。术后李敖在病床上仍同李庆华、郁慕明开玩笑，说恢复期要研究孙中山学说，也把病中经验预告成《阴茎遗言》。
+  人物：-
+  地点：-
+  标签：前列腺癌、手术、张树人、李庆华、郁慕明、《阴茎遗言》
+  视图：-
+  作品：《苹果日报》李敖专题
+  交叉引用：li-ao-fangtanlu-2003-09-prostate-cancer-found-after-checkup、li-ao-fangtanlu-2003-11-24-study-poem-before-hexin-admission
+  来源：李敖访谈录1990-2018 / 026. / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/026.20031126《苹果日报》李敖专题.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2003-11-25-prostate-cancer-surgery-successful
+- 2003年12月15日前后，出院前后媒体访问中 | 术后受访谈休养、卖书房与参选打算
+  精度：day；可靠度：reported-by-source；排序日期：2003-12-15
+  摘要：前列腺癌手术后，李敖在出院前后接受TVBS和东森新闻访问，感谢张树人与和信医院，也自述从麻醉醒来第一句话是“辜振甫万岁”。他回阳明山休养，预估休息数月，可能因财务压力卖掉东丰街书房；政治上则说要帮助连宋，陈文茜若辞立委，票源可转给他，年底不排除成为“李委员”。
+  人物：-
+  地点：-
+  标签：术后休养、阳明山、东丰街书房、连宋、立委选举
+  视图：-
+  作品：《TVBS》李敖专题、《东森新闻》专访李敖
+  交叉引用：li-ao-fangtanlu-2003-11-25-prostate-cancer-surgery-successful、book6-2004-10-12-registers-legislative-candidacy
+  来源：李敖访谈录1990-2018 / 027. / line 5
+  补充来源：李敖访谈录1990-2018 / 028. / line 7；说明：东森新闻记录李敖出院前后受访，谈手术恢复、醒后玩笑和病情经过。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/027.20031215《TVBS》李敖专题.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2003-12-15-post-surgery-media-interviews-rest-and-legislative-plan
+- 约2003年9月，健康检查后 | 检查后发现第二期前列腺癌
+  精度：month；可靠度：reported-by-source；排序日期：2003-09-24
+  摘要：李敖后来在病后访问中回忆，原本是治疗骨头问题，朋友路以光提醒他验血，验出PSA偏高；谢师明建议他看泌尿科，陈文茜又熟悉和信医院，于是他去了和信。媒体专题称，约在11月24日住院前两个月，检查发现他罹患第二期前列腺癌，但他仍以“不致命”和活到一百零六岁的玩笑消解病情。
+  人物：-
+  地点：-
+  标签：前列腺癌、和信医院、PSA、路以光、谢师明、陈文茜
+  视图：-
+  作品：《东森新闻》专访李敖、《亚洲周刊》李敖专题、《联合晚报》李敖专题
+  交叉引用：li-ao-fangtanlu-2003-11-24-study-poem-before-hexin-admission
+  来源：李敖访谈录1990-2018 / 028. / line 51
+  补充来源：李敖访谈录1990-2018 / 024. / line 5；说明：《亚洲周刊》专题称李敖检查出第二期前列腺癌，并列出近年手术史。；李敖访谈录1990-2018 / 025. / line 7；说明：《联合晚报》报道李敖约两个月前检查发现前列腺癌。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/028.20031215《东森新闻》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2003-09-prostate-cancer-found-after-checkup
 
 2004
+- 2004年2月29日下午，三二〇公投电视辩论会中 | 代表反方参加公投电视辩论并与谢长廷交锋
+  精度：day；可靠度：reported-by-source；排序日期：2004-02-29
+  摘要：中选会主办三二〇公投电视辩论会，第二项公投题目由谢长廷与李敖分别代表正反方辩论。李敖在现场拿出谢长廷访北京照片、彭明敏竞选文宣和陈水扁北京坦克车前照片，连续追问民进党既有台独党纲为何执政后不台独，又把焦点拉回两岸谈判前台湾应以何种身份上桌。
+  人物：-
+  地点：-
+  标签：三二〇公投、电视辩论、谢长廷、陈水扁、台独党纲
+  视图：-
+  作品：《中国时报》李敖专题
+  交叉引用：li-ao-fangtanlu-2004-02-qilu-weekly-phone-interview-li-wen-and-referendum、book6-2004-11-27-publishes-joint-daily-advertisement-against-green-candidates-over-fake-referendum
+  来源：李敖访谈录1990-2018 / 031.20040229《中国时报》李敖专题 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/031.20040229《中国时报》李敖专题.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2004-02-29-cna-referendum-tv-debate-with-hsieh-changting
 - 2004年3月8日星期一 | 李敖应凤凰电视之邀开播评论台湾“大选”，开启大陆电视主场线
   精度：day；可靠度：confirmed；排序日期：2004-03-08
   摘要：《刘长乐》写，2004年3月8日，李敖应凤凰电视之邀开播评论即将开票的台湾“大选”。他把这次上凤凰视为“直攻腹心”的起点，并把刘长乐拉他进入电视与大陆公共空间，看作自己从“台湾李敖”重新回到“中国李敖”的关键转折。
@@ -127696,9 +128203,22 @@
   作品：李敖风流自传、李敖有话说
   交叉引用：-
   来源：李敖风流自传 / 619.刘长乐 / line 5
-  补充来源：-
+  补充来源：李敖访谈录1990-2018 / 036.20050202、200505中旬《南方人物周刊》专访李敖 / line 37；说明：《南方人物周刊》在连宋访陆后联系李敖，并引述其凤凰节目中对连宋承认中国人的评价。；李敖访谈录1990-2018 / 038.20050602《读者文摘》李敖专题 / line 23；说明：《读者文摘》专题转引李敖称凤凰台开播《李敖有话说》后，十个月内大陆观众对其态度已有变化。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/619.刘长乐.txt
   数据：data/timeline-events-seventh-book.json#book7-2004-03-08-begins-phoenix-tv-commentary-line
+- 2004年5月22日《文汇报》台北专访刊出 | 在台北接受《文汇报》专访谈选后政局
+  精度：day；可靠度：reported-by-source；排序日期：2004-05-22
+  摘要：香港《文汇报》在台北独家访问李敖。李敖把大选后的台湾政局、族群撕裂、国亲合并、国民党本土化以及去中国化问题串成一组判断；他从自己居住的大安区消费阶层外流、三通成本和日常行业萧条谈起，说明台湾已经被边缘化，并认为民进党不敢触碰北京底线。
+  人物：-
+  地点：-
+  标签：文汇报、台北访问、选后政局、去中国化、国亲合并
+  视图：-
+  作品：《文汇报》专访李敖
+  交叉引用：li-ao-fangtanlu-2004-02-29-cna-referendum-tv-debate-with-hsieh-changting
+  来源：李敖访谈录1990-2018 / 032.20040522《文汇报》专访李敖 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/032.20040522《文汇报》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2004-05-22-wenwei-taipei-interview-after-election
 - 2004年10月12日星期二 | 李敖办理立委参选登记
   精度：day；可靠度：confirmed；排序日期：2004-10-12
   摘要：《从参选到上台》写，2004年10月12日李敖到主管机关办理立法委员参选登记，陈文茜、王祥基等人在侧，正式展开他的立委选战。
@@ -127709,7 +128229,7 @@
   作品：李敖议坛哀思录
   交叉引用：-
   来源：李敖议坛哀思录 / 008.从参选到上台 / line 3
-  补充来源：-
+  补充来源：李敖访谈录1990-2018 / 027. / line 11；说明：李敖术后接受TVBS访问时说陈文茜若辞立委，年底不排除由他参选并成为“李委员”。；李敖访谈录1990-2018 / 030. / line 7；说明：《李敖参选立委对话录》记录李敖估算参选票源与九万票目标。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/008.从参选到上台.txt
   数据：data/timeline-events-sixth-book.json#book6-2004-10-12-registers-legislative-candidacy
 - 2004年11月2日星期二 | 李敖发表《2300万，别再做笨蛋》，先行亮出参选立委后的反军购主轴
@@ -127722,7 +128242,7 @@
   作品：2300万，别再做笨蛋——李敖就军购案的声明、与台湾关系法、李敖议坛哀思录
   交叉引用：book6-2004-10-12-registers-legislative-candidacy、book6-2005-03-09-first-questioning-of-defense-minister-li-jie
   来源：李敖议坛哀思录 / 015.我选立委的第一目的 / line 13
-  补充来源：-
+  补充来源：李敖访谈录1990-2018 / 030. / line 33；说明：李敖在参选对话中称若当立委，将就《台湾关系法》向美国讨公道。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/015.我选立委的第一目的.txt
   数据：data/timeline-events-sixth-book.json#book6-2004-11-02-issues-2300-million-dont-be-fools-statement-against-us-arms-logic
 - 2004年11月14日星期日 | 李敖在国父纪念馆举行参选期间唯一正式公开演讲
@@ -127751,6 +128271,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/109.公投他投，罗网你投.txt
   数据：data/timeline-events-sixth-book.json#book6-2004-11-27-publishes-joint-daily-advertisement-against-green-candidates-over-fake-referendum
+- 2004年12月2日，台北寓所专访中 | 在台北寓所接受《新周报》访问谈立委选战
+  精度：day；可靠度：reported-by-source；排序日期：2004-12-02
+  摘要：立委选前九天，李敖在台北寓所接受《新周报》访问。他把自己的参选方式说成个人对团体、违反常态的选举，目的在“颠覆它”；又说如果取得立法院平台，就能把一国两制的好处讲得更清楚。访谈后段，他谈前列腺开刀后身体下滑、五十五年未离开台湾，以及未来生涯只求“废物利用”。
+  人物：-
+  地点：-
+  标签：新周报、台北寓所、立委选举、前列腺手术、一国两制
+  视图：-
+  作品：《新周报》专访李敖
+  交叉引用：book6-2004-10-12-registers-legislative-candidacy、li-ao-fangtanlu-2004-legislative-campaign-dialogue-votes-dog-and-platform
+  来源：李敖访谈录1990-2018 / 033.20041202《新周报》专访李敖 / line 7
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/033.20041202《新周报》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2004-12-02-new-weekly-home-interview-legislative-campaign
 - 2004年12月8日星期三 | 李敖在《联合报》刊出最后一次立委竞选广告，称“选三只老鼠呢？还是一头老虎？”
   精度：day；可靠度：confirmed；排序日期：2004-12-08
   摘要：《选三只老鼠呢？还是一头老虎？》写，2004年12月8日李敖在《联合报》刊最后一次立委竞选广告，强调自己是真正敢跟政府对干的“老虎”，并借包润石11月29日重提“四不一没有”、陈水扁12月1日再向美国保证以及许历农12月4日推荐信，提出“向老共要和平、向老美要公平、向民进党要太平”的竞选主张。
@@ -127761,7 +128294,7 @@
   作品：联合报、李敖议坛哀思录、与台湾关系法
   交叉引用：book6-2004-11-14-national-father-memorial-hall-campaign-speech、book6-2004-11-27-publishes-joint-daily-advertisement-against-green-candidates-over-fake-referendum
   来源：李敖议坛哀思录 / 110.选三只老鼠呢？还是一头老虎？ / line 5
-  补充来源：-
+  补充来源：李敖访谈录1990-2018 / 030. / line 33；说明：李敖在参选对话中概括竞选主张为向共产党要和平、向美国要公平、向民进党要太平。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/110.选三只老鼠呢？还是一头老虎？.txt
   数据：data/timeline-events-sixth-book.json#book6-2004-12-08-publishes-final-joint-daily-legislative-campaign-ad
 - 2004年12月11日星期六 | 李敖在逛书店与上飞碟途中确认自己当选立委
@@ -127774,11 +128307,76 @@
   作品：李敖风流自传
   交叉引用：-
   来源：李敖风流自传 / 510.绝无仅有的选举方式 / line 3
-  补充来源：-
+  补充来源：李敖访谈录1990-2018 / 034.20041213《中国新闻周刊》专访李敖 / line 7；说明：《中国新闻周刊》选后电话专访补记李敖最后一名当选，开票时正在书店买书。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/510.绝无仅有的选举方式.txt
   数据：data/timeline-events-seventh-book.json#book7-2004-12-11-learns-of-legislative-election-victory-after-bookstore-and-radio-trip
+- 2004年12月13日，《中国新闻周刊》电话专访中 | 当选后电话受访称立委只是平台
+  精度：day；可靠度：reported-by-source；排序日期：2004-12-13
+  摘要：立委选举揭晓后，李敖接受《中国新闻周刊》电话访问。他说开票时自己在书店选书，不是不自信而是不在乎；立法委员对他只是多了一个“指东划西”的平台。他还把当选解释为可以在公开场合传播一国两制讯息，并把自己定位为“快快乐乐的战士”，要快乐地把敌人拖垮。
+  人物：-
+  地点：-
+  标签：中国新闻周刊、电话访问、立委当选、书店、一国两制
+  视图：-
+  作品：《中国新闻周刊》专访李敖
+  交叉引用：book7-2004-12-11-learns-of-legislative-election-victory-after-bookstore-and-radio-trip
+  来源：李敖访谈录1990-2018 / 034.20041213《中国新闻周刊》专访李敖 / line 11
+  补充来源：李敖访谈录1990-2018 / 042.20050929《南方周末》专访李敖 / line 5；说明：《南方周末》编者按称此文为李敖刚当选立委后未刊专访，补充其用立法院平台宣传思想和一国两制的说法。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/034.20041213《中国新闻周刊》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2004-12-13-china-news-weekly-post-election-phone-interview
+- 2004年2月，《齐鲁周刊》赴台采访期间 | 电话受访谈李文新书与三二〇公投
+  精度：month；可靠度：reported-by-source；排序日期：2004-02-29
+  摘要：《齐鲁周刊》记者赴台采访李文相关话题，连续多日打电话，第七天终于接通李敖；李敖因主题是女儿而同意电话访问。他说知道李文写了《我和李敖一起骂》，但还没看到书，也不同意她写这种书；随后又把反对三二〇公投解释为思想运动，并谈自己迟迟未回大陆：北京记忆很好、怕飞行也怕冷，若去也许考虑坐船。
+  人物：-
+  地点：-
+  标签：李文、《我和李敖一起骂》、三二〇公投、大陆、电话访问
+  视图：-
+  作品：《齐鲁周刊》专访李敖、《我和李敖一起骂》
+  交叉引用：li-ao-fangtanlu-2001-06-04-xinhua-interview-mainland-old-dream-and-pirated-books、li-ao-fangtanlu-2003-12-15-post-surgery-media-interviews-rest-and-legislative-plan
+  来源：李敖访谈录1990-2018 / 029. / line 35
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/029.200402《齐鲁周刊》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2004-02-qilu-weekly-phone-interview-li-wen-and-referendum
+- 2004年立委选举期间 | 参选立委对话中谈票源、狗与政见
+  精度：year；可靠度：reported-by-author；排序日期：2004-12-31
+  摘要：在2004年立委参选对话中，李敖说自己曾在通化街花十万元替陈文茜买狗，二人交情超过二十年；他估算自己可得九万票，并把陈文茜、冯沪祥等票源纳入盘算。他又说若没当选只是罗素，若当选则像牛顿、威尔第，甚至想做立法院长；政见则概括为向共产党要和平、向美国要公平、向民进党要太平，并说愿意坐船去大陆谈。
+  人物：-
+  地点：-
+  标签：立委选举、陈文茜、票源、政见、两岸
+  视图：-
+  作品：《李敖参选立委对话录》
+  交叉引用：book6-2004-10-12-registers-legislative-candidacy、book6-2004-11-02-issues-2300-million-dont-be-fools-statement-against-us-arms-logic、book6-2004-12-08-publishes-final-joint-daily-legislative-campaign-ad
+  来源：李敖访谈录1990-2018 / 030. / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/030.2004李敖参选立委对话录.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2004-legislative-campaign-dialogue-votes-dog-and-platform
+- 2004年岁末，台北东丰街李敖寓所访问中 | 在东丰街寓所接受《人民日报》海外版访问
+  精度：month；可靠度：reported-by-source；排序日期：2004-12-31
+  摘要：《人民日报》海外版记者在2004年岁末到台北东丰街李敖寓所访问。现场书靠四壁，房间中心形成书岛；李敖与记者从监视经验、蒋介石评传、凤凰节目谈到自己的红色身份。他又说当“伪立委”是无产阶级参加资产阶级议会，要在这个平台讲与大陆来往的好处；谈到竞选时，他还笑说安全部门派八个保镖、四辆黑色宝马，夹着的却是自己的普通计程车。
+  人物：-
+  地点：-
+  标签：人民日报、东丰街寓所、书房、伪立委、红色身份
+  视图：-
+  作品：《人民日报》专访李敖
+  交叉引用：li-ao-fangtanlu-2004-12-13-china-news-weekly-post-election-phone-interview、book6-2005-02-01-sworn-in-as-legislator-and-sets-office-rules
+  来源：李敖访谈录1990-2018 / 037.20050330《人民日报》专访李敖 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/037.20050330《人民日报》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2004-yearend-peoples-daily-dongfeng-study-interview
 
 2005
+- 2005年1月21日，《中新网》专题报道中 | 回应王尚勤新书《李敖为谁哭泣？》
+  精度：day；可靠度：reported-by-source；排序日期：2005-01-21
+  摘要：王尚勤即将出版《李敖为谁哭泣？》，媒体询问李敖反应。李敖说自己已很久没和王尚勤联络，是从王长安处得知出书；他不能阻止别人合法行使权利，但往事过去多年，再搬出来讲“好吗”？他以“去问刘德华”作低调回应，又说自己将满七十，忙着颠覆“lp政府”都来不及，没时间想过去。
+  人物：-
+  地点：-
+  标签：王尚勤、《李敖为谁哭泣？》、李文、旧情、中新网
+  视图：-
+  作品：《李敖为谁哭泣？》、《中新网》李敖专题
+  交叉引用：book4-deep-1964-hedy-lee-born-in-us、li-ao-fangtanlu-2004-02-qilu-weekly-phone-interview-li-wen-and-referendum
+  来源：李敖访谈录1990-2018 / 035.20050121《中新网》李敖专题 / line 9
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/035.20050121《中新网》李敖专题.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2005-01-21-responds-to-wang-shangqin-book
 - 2005年2月1日星期二 | 李敖在立委宣誓时摆出自己照片，拒绝向孙中山遗像宣誓
   精度：day；可靠度：confirmed；排序日期：2005-02-01
   摘要：《我拒绝向孙中山宣誓》写，李敖认为《宣誓条例》强制向国旗与“国父”遗像宣誓荒谬，且孙中山本人曾作假誓，因此在立委就职宣誓时请摄影家赖岳忠把自己的照片放大贴板，立在桌上，故意挡在自己与孙中山遗像之间，对着自己的照片宣誓。
@@ -127789,7 +128387,7 @@
   作品：宣誓条例、李敖议坛哀思录
   交叉引用：book6-2005-02-01-sworn-in-as-legislator-and-sets-office-rules、book6-2005-02-01-writes-open-letter-to-colleagues-against-oath-regulations
   来源：李敖议坛哀思录 / 013.我拒绝向孙中山宣誓 / line 21
-  补充来源：-
+  补充来源：李敖访谈录1990-2018 / 036.20050202、200505中旬《南方人物周刊》专访李敖 / line 51；说明：李敖在《南方人物周刊》访问中解释对着本人照片宣誓，是用好玩的动作搅掉迷信仪式。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/013.我拒绝向孙中山宣誓.txt
   数据：data/timeline-events-sixth-book.json#book6-2005-02-01-refuses-to-swear-to-sun-yat-sen-by-using-his-own-portrait
 - 2005年2月1日星期二 | 李敖给立法院同仁写公开信，主张废止《宣誓条例》
@@ -127815,9 +128413,35 @@
   作品：李敖议坛哀思录
   交叉引用：-
   来源：李敖议坛哀思录 / 008.从参选到上台 / line 17
-  补充来源：-
+  补充来源：李敖访谈录1990-2018 / 036.20050202、200505中旬《南方人物周刊》专访李敖 / line 35；说明：《南方人物周刊》访问补记李敖就任翌日回谈第一天上岗心情和对着本人照片宣誓。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/008.从参选到上台.txt
   数据：data/timeline-events-sixth-book.json#book6-2005-02-01-sworn-in-as-legislator-and-sets-office-rules
+- 2005年2月2日，《南方人物周刊》电话访问中 | 就任立委翌日电话受访谈照片宣誓与反军购平台
+  精度：day；可靠度：reported-by-source；排序日期：2005-02-02
+  摘要：《南方人物周刊》第一次电话访问李敖，时间在他就任“国会”议员次日。李敖谈自己前一天对着本人照片宣誓，说这是用好玩的动作搅掉迷信仪式；随后说明进入立法院后，要把台湾和美国关系“掐住”，反对台湾继续花钱买武器，并打算利用国防委员会平台阻止军购。
+  人物：-
+  地点：-
+  标签：南方人物周刊、电话访问、照片宣誓、国防委员会、反军购
+  视图：-
+  作品：《南方人物周刊》专访李敖
+  交叉引用：book6-2005-02-01-refuses-to-swear-to-sun-yat-sen-by-using-his-own-portrait、book6-2005-02-01-sworn-in-as-legislator-and-sets-office-rules、book6-2005-03-09-first-questioning-of-defense-minister-li-jie
+  来源：李敖访谈录1990-2018 / 036.20050202、200505中旬《南方人物周刊》专访李敖 / line 35
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/036.20050202、200505中旬《南方人物周刊》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2005-02-02-southern-people-phone-interview-after-legislator-oath
+- 2005年2月2日《南方人物周刊》访问中 | 称已把凤凰款项捐给北大建胡适铜像
+  精度：day；可靠度：reported-by-author；排序日期：2005-02-02
+  摘要：李敖在《南方人物周刊》访问中谈近年更多做电视节目，写书比例减少。被问到节目酬劳时，他说不能讲业务秘密，但“最近”从凤凰拿到一笔钱，已全部捐给北京大学，希望北大为胡适修盖铜像；金额约三十五万元人民币。这个说法与稍后大陆行筹备中“到北大磋商胡适铜像”相互呼应。
+  人物：-
+  地点：-
+  标签：北京大学、胡适铜像、凤凰卫视、捐款、电视节目
+  视图：-
+  作品：《南方人物周刊》专访李敖、《读者文摘》李敖专题
+  交叉引用：book7-2004-03-08-begins-phoenix-tv-commentary-line
+  来源：李敖访谈录1990-2018 / 036.20050202、200505中旬《南方人物周刊》专访李敖 / line 369
+  补充来源：李敖访谈录1990-2018 / 038.20050602《读者文摘》李敖专题 / line 5；说明：《读者文摘》专题转述李敖计划借北大访问与校方磋商树立胡适铜像。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/036.20050202、200505中旬《南方人物周刊》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2005-02-02-donates-phoenix-fee-to-peking-university-hu-shih-statue
 - 2005年2月23日星期三 | 李敖发表《李敖的六点声明》，先把宋楚瑜咬定在反军购线上
   精度：day；可靠度：confirmed；排序日期：2005-02-23
   摘要：《反军购固盘秘辛》写，2005年2月23日李敖发表《李敖的六点声明》，一面回顾自己拆穿国民党与民进党的著述，一面强调多党制衡和在野党套牢执政党的必要，并点名宋楚瑜既然已参加民主行动联盟反军购游行，就不应受亲美、CIA背景或军火回扣人士影响而转向支持军购。
@@ -127854,7 +128478,7 @@
   作品：与台湾关系法、李敖议坛哀思录
   交叉引用：-
   来源：李敖议坛哀思录 / 018.我告诉你，就是狗 / line 3
-  补充来源：-
+  补充来源：李敖访谈录1990-2018 / 036.20050202、200505中旬《南方人物周刊》专访李敖 / line 115；说明：李敖在就职后访问中说明进入立法院后可加入国防委员会阻止美国对台军售。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/018.我告诉你，就是狗.txt
   数据：data/timeline-events-sixth-book.json#book6-2005-03-09-first-questioning-of-defense-minister-li-jie
 - 2005年3月10日星期四 | 李敖在国防委员会痛批退辅会亏待老荣民
@@ -128247,6 +128871,84 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/035.钢笔事件.txt
   数据：data/timeline-events-sixth-book.json#book6-2005-05-23-questions-li-jie-on-special-budget-and-arms-rental-progress
+- 2005年6月2日《读者文摘》专题中 | 大陆行开始由北大与凤凰卫视安排磋商
+  精度：day；可靠度：reported-by-source；排序日期：2005-06-02
+  摘要：《读者文摘》专题转述《中国时报》报道：李敖1949年来台后双脚从未离开台湾，近期可望重回故里，并将安排到北京大学演讲、与校方磋商胡适铜像事宜。李敖助理称北大副校长访台时曾托人邀请李敖访问北大；凤凰卫视也正透过高层邀请他访问大陆，初步行程为六天五夜，最快当月成行。
+  人物：-
+  地点：-
+  标签：大陆行、北京大学、凤凰卫视、胡适铜像、读者文摘
+  视图：-
+  作品：《读者文摘》李敖专题
+  交叉引用：li-ao-fangtanlu-2005-02-02-donates-phoenix-fee-to-peking-university-hu-shih-statue、li-ao-fangtanlu-2001-06-04-xinhua-interview-mainland-old-dream-and-pirated-books
+  来源：李敖访谈录1990-2018 / 038.20050602《读者文摘》李敖专题 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/038.20050602《读者文摘》李敖专题.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2005-06-02-reader-digest-mainland-trip-negotiation
+- 2005年7月2日，《美国侨报》访问当天 | 自称当天活过胡适享年节点
+  精度：day；可靠度：reported-by-author；排序日期：2005-07-02
+  摘要：同一场《美国侨报》专访中，李敖谈到自己近年做电视节目较多、写字较少，但累计写作已达一千五百万字。当天他特别指出，2005年7月2日是自己七十岁生日后两个月零七天，正好超过胡适去世时的年龄；他说若活到当天晚上，就算在寿数上超过胡适，并把这归于现代医疗、个人养生和不抽烟等条件。
+  人物：-
+  地点：-
+  标签：胡适、七十岁、写作字数、养生、美国侨报
+  视图：-
+  作品：《美国侨报》专访李敖
+  交叉引用：li-ao-fangtanlu-2005-07-02-qiaobao-home-interview-mainland-trip-and-father-records
+  来源：李敖访谈录1990-2018 / 039.20050702《美国侨报》专访李敖 / line 63
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/039.20050702《美国侨报》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2005-07-02-surpasses-hu-shih-age-after-seventieth-birthday
+- 2005年7月2日，美国侨报记者家中专访中 | 接受美国侨报专访谈九月大陆行与父亲北大资料
+  精度：day；可靠度：reported-by-source；排序日期：2005-07-02
+  摘要：媒体披露李敖将于9月访问大陆后，美国侨报记者乔磊到李敖家中独家专访。李敖在家中说明，五十多年未回大陆，并非赌气，而是认为知识可用间接方法取得，重温旧梦会破坏旧梦；若成行，他愿把大陆行称作“相看两不厌之旅”。他还说北大副校长前阵子已送来父亲当年在北大的记录，而这次行程若宣布，也应由凤凰卫视出面。
+  人物：-
+  地点：-
+  标签：美国侨报、大陆行、相看两不厌、北京大学、父亲资料、凤凰卫视
+  视图：-
+  作品：《美国侨报》专访李敖
+  交叉引用：li-ao-fangtanlu-2005-06-02-reader-digest-mainland-trip-negotiation
+  来源：李敖访谈录1990-2018 / 039.20050702《美国侨报》专访李敖 / line 7
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/039.20050702《美国侨报》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2005-07-02-qiaobao-home-interview-mainland-trip-and-father-records
+- 2005年9月19日，北京行前专访中 | 行前说明大陆演讲方向并称不见大官
+  精度：day；可靠度：reported-by-author；排序日期：2005-09-19
+  摘要：在《中国时报》行前访问中，李敖说北京当局完全没有同他沟通演讲题目与内容，自己也已宣布不与中国领导人见面；北大将按学者规格接待，并赠送胡适文集。他设想演讲尽量不谈“台湾”两个字，而要拿毛泽东1920年曾主张湖南独立、十个月后转向统一的史料，说明台湾离开祖国一百一十年，也应给台湾人时间；他还准备把《反分裂国家法》解读为既限制台湾、也限制共产党。
+  人物：-
+  地点：-
+  标签：北京行、北大演讲、胡适文集、毛泽东、反分裂国家法、两岸
+  视图：-
+  作品：《中国时报》专访李敖
+  交叉引用：li-ao-fangtanlu-2005-09-19-china-times-before-beijing-trip-with-300-books、book7-2004-03-08-begins-phoenix-tv-commentary-line、li-ao-fangtanlu-2005-09-late-shenzhou-lecture-scenes-pku-tsinghua-fudan
+  来源：李敖访谈录1990-2018 / 040.20050919《中国时报》专访李敖 / line 37
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/040.20050919《中国时报》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2005-09-19-china-times-before-trip-speech-direction-no-leaders
+- 2005年9月19日上午，北京行前专访中 | 带三百本著作克服飞行恐惧重回北京
+  精度：day；可靠度：reported-by-source；排序日期：2005-09-19
+  摘要：北京行当天上午，李敖接受《中国时报》行前专访。报道说他带着三百本厚厚著作，克服飞机恐惧症，重回阔别五十七年的北京。李敖解释原本想八十岁后再回北京，像伏尔泰回到查禁过他书的祖国；后来凤凰电视台老板来看他，担心太晚体力不支，才提前成行。原本还设计过从基隆搭“爱之船”到香港再转火车赴京，最后他同意坐飞机。
+  人物：-
+  地点：-
+  标签：北京行、大陆行、飞机恐惧症、凤凰卫视、旧梦
+  视图：-
+  作品：《中国时报》专访李敖
+  交叉引用：li-ao-fangtanlu-2005-07-02-qiaobao-home-interview-mainland-trip-and-father-records、book7-2005-revisits-xinxian-hutong-primary-school-in-beijing、beijing-fayuansi-2005-09-22-first-visit-to-fayuan-temple-after-peking-university、li-ao-fangtanlu-2005-09-late-shenzhou-lecture-scenes-pku-tsinghua-fudan
+  来源：李敖访谈录1990-2018 / 040.20050919《中国时报》专访李敖 / line 5
+  补充来源：李敖访谈录1990-2018 / 042.20050929《南方周末》专访李敖 / line 83；说明：《南方周末》补述李敖怕冷和怕飞机，刘长乐长期劝说他飞行，并记录李敖在台北、北京、香港记者会上答谢刘长乐。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/040.20050919《中国时报》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2005-09-19-china-times-before-beijing-trip-with-300-books
+- 2005年9月22日北大演讲后，2009年访问回述 | 北大演讲后一度想中止大陆行返台
+  精度：day；可靠度：reported-by-author；排序日期：2005-09-22
+  摘要：2009年《南方人物周刊》问李敖回看大陆行时，报道提示他第一场北大演讲后曾想返回台湾，差点让大陆行夭折。李敖回述说，北大之后到第二场清华演讲就温和了，里面有许多内部原因；他还提到自己在北京念小学时的把兄弟詹永杰劝他“别开玩笑”，使行程继续下去。这条把2005年神州文化之旅热闹表面后的临场压力和调整记录下来。
+  人物：李敖、詹永杰
+  地点：北京大学、清华大学、北京、台湾
+  标签：神州文化之旅、北大演讲、清华演讲、返台念头、詹永杰
+  视图：大陆线、演讲线、访谈回忆线
+  作品：《南方人物周刊》专访李敖
+  交叉引用：li-ao-fangtanlu-2005-09-late-shenzhou-lecture-scenes-pku-tsinghua-fudan、beijing-fayuansi-2005-09-22-first-visit-to-fayuan-temple-after-peking-university
+  来源：李敖访谈录1990-2018 / 046.20090803《南方人物周刊》专访李敖 / line 37
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/046.20090803《南方人物周刊》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2005-09-22-after-peking-university-almost-returns-taiwan
 - 2005年9月22日星期四 | 李敖北大演讲后预告下午去法源寺，后来自称写书前从未到过那里
   精度：day；可靠度：confirmed；排序日期：2005-09-22
   摘要：2005年9月22日北大演讲中，李敖提到自己当天下午要去法源寺看看，并说此前从未去过那个地方，却能写出《北京法源寺》。后来节目中他回忆大陆行时到法源寺现场人潮汹涌，无法“独与天地精神往来”。此条记录作品完成多年后作者实地到访/参访法源寺的现实行动，不采小说情节。
@@ -128255,11 +128957,24 @@
   标签：北京法源寺、法源寺、北京大学演讲、神州文化之旅、实地参访、北京
   视图：大陆线、演讲线、创作线
   作品：北京法源寺、李敖演讲集、李敖有话说
-  交叉引用：beijing-fayuansi-1990-before-completion-research-assistance、book7-2005-shenzhou-trip-daughter-asks-why-people-like-the-old-man-at-peking-university
+  交叉引用：beijing-fayuansi-1990-before-completion-research-assistance、book7-2005-shenzhou-trip-daughter-asks-why-people-like-the-old-man-at-peking-university、li-ao-fangtanlu-2005-09-late-shenzhou-lecture-scenes-pku-tsinghua-fudan、li-ao-fangtanlu-2005-09-22-after-peking-university-almost-returns-taiwan
   来源：李敖演讲集 / 038.20050922李敖北大演讲 / line 93
-  补充来源：李敖有话说 / 631.2006-08-07：谈王国维的遗书 / line 21；李敖有话说 / 631.2006-08-07：谈王国维的遗书 / line 25；李敖研究fashion文集 / 012.李敖的保镖 / line 9；说明：第三方叙述，补充现场安保和人潮失控情况；非李敖本人说法。
+  补充来源：李敖有话说 / 631.2006-08-07：谈王国维的遗书 / line 21；李敖有话说 / 631.2006-08-07：谈王国维的遗书 / line 25；李敖研究fashion文集 / 012.李敖的保镖 / line 9；说明：第三方叙述，补充现场安保和人潮失控情况；非李敖本人说法。；李敖访谈录1990-2018 / 042.20050929《南方周末》专访李敖 / line 107；说明：《南方周末》补记李敖神州文化之旅中北大、清华、复旦演讲现场，说明北大演讲后法源寺行程的高校现场背景。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/011.李敖演讲集/038.20050922李敖北大演讲.txt
   数据：data/timeline-events-beijing-fayuansi.json#beijing-fayuansi-2005-09-22-first-visit-to-fayuan-temple-after-peking-university
+- 2005年9月23日，《北京晚报》文学专访中 | 接受《北京晚报》访问谈文学证据、小说说理与两部长篇
+  精度：day；可靠度：reported-by-author；排序日期：2005-09-23
+  摘要：李敖接受《北京晚报》文学专访时，把自己与鲁迅的差异说成“情绪字眼删掉后仍是资料和证据”，反对文学缩回个人小世界；又以陀思妥耶夫斯基、萧伯纳、海明威为例，回应自己小说中长篇讲话、对话和说理的写法。谈《上山·上山·爱》时，他说明这本小说以台湾白色恐怖为背景，和历史题材的《北京法源寺》完全不同，并说哲学讨论与现代叙述技巧显示了自己的写作幅度。
+  人物：李敖、鲁迅、茅盾、高行健
+  地点：北京
+  标签：北京晚报、文学、鲁迅、证据、上山·上山·爱、北京法源寺
+  视图：访谈线、文学线、写作线
+  作品：《北京晚报》专访李敖、上山·上山·爱、北京法源寺
+  交叉引用：book7-2001-04-25-publishes-shangshan-shangshan-ai、beijing-fayuansi-1991-06-30-published-by-wenxing
+  来源：李敖访谈录1990-2018 / 041.20050923《北京晚报》专访李敖 / line 9
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/041.20050923《北京晚报》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2005-09-23-beijing-evening-news-literature-interview
 - 2005年10月4日星期二 | 李敖劝谢长廷阵前起义，并公布谢聪敏稿件
   精度：day；可靠度：confirmed；排序日期：2005-10-04
   摘要：同场质询后段，李敖以党外旧友身份劝谢长廷不要继续替陈水扁背黑锅，甚至提出“辞职”或“阵前起义”两条路；他还说将印发谢聪敏交给他的稿件，借谢聪敏、彭明敏、李鸿禧、辜宽敏等党外旧案，批评民进党当道者背叛党外理想，要求谢长廷以聪明、慈悲和勇气向陈水扁抗议。
@@ -128507,6 +129222,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/550.我家最早认识的台湾人.txt
   数据：data/timeline-events-seventh-book.json#book7-2005-after-becoming-legislator-reconnects-with-weng-zhen-family-descendants
+- 2005年5月中旬，立法院专设办公室电话联系中 | 在立法院办公室第二次接受《南方人物周刊》联系
+  精度：month；可靠度：reported-by-source；排序日期：2005-05-15
+  摘要：连战、宋楚瑜相继访问大陆后，《南方人物周刊》在5月中旬再次联系李敖。报道说当时李敖正在立法院内自己的专设办公室里，但他懒得再谈连宋二人，只说“没什么好说的”“要说的早都说了”。这个小节点留下他就任后在立法院办公室中的媒体应答状态。
+  人物：-
+  地点：-
+  标签：南方人物周刊、立法院办公室、连战、宋楚瑜、大陆访问
+  视图：-
+  作品：《南方人物周刊》专访李敖
+  交叉引用：li-ao-fangtanlu-2005-02-02-southern-people-phone-interview-after-legislator-oath
+  来源：李敖访谈录1990-2018 / 036.20050202、200505中旬《南方人物周刊》专访李敖 / line 37
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/036.20050202、200505中旬《南方人物周刊》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2005-05-southern-people-second-call-in-legislative-office
+- 2005年9月下旬，神州文化之旅高校演讲期间 | 神州文化之旅中在北大、清华、复旦形成现场演讲风格
+  精度：date-range；可靠度：reported-by-source；排序日期：2005-09-22
+  摘要：《南方周末》在神州文化之旅热潮中记录李敖高校演讲现场：他在北大校办公楼二层演讲厅向观众俏皮敬礼，说“你们终于见到我了”，闵维方介绍北大古迹时学生隔窗喊“敖哥，讲两句”；到清华演讲开场，他拥抱主持人曾子墨后脱下西服外套，调侃“被美女拥抱浑身发热”。报道把北大、清华、复旦三场演讲都概括成各校版《李敖有话说》，突出了他把电视节目式道具、剪报和口才移到大陆高校现场的方式。
+  人物：李敖、闵维方、曾子墨
+  地点：北京大学、清华大学、复旦大学、北京、上海
+  标签：神州文化之旅、北大演讲、清华演讲、复旦演讲、李敖有话说
+  视图：演讲线、大陆线、媒体线
+  作品：《南方周末》专访李敖、李敖有话说
+  交叉引用：beijing-fayuansi-2005-09-22-first-visit-to-fayuan-temple-after-peking-university、book7-2005-shenzhou-trip-daughter-asks-why-people-like-the-old-man-at-peking-university
+  来源：李敖访谈录1990-2018 / 042.20050929《南方周末》专访李敖 / line 107
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/042.20050929《南方周末》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2005-09-late-shenzhou-lecture-scenes-pku-tsinghua-fudan
 - 约2005年10月1日星期六 | 李敖在北大演讲时，小女儿李谌当场问“大家为什么喜欢这老头？”
   精度：undated-context；可靠度：contextual；排序日期：2005-10-01
   摘要：《我的小女儿》写，李敖参加神州文化之旅时，全家同在北京；他到北大演讲，人山人海，年纪尚小的小女儿李谌当场问小屯：“大家为什么喜欢这老头？”这条材料虽无确日，却留下他晚年大陆行与家庭现场同时入镜的一笔罕见日常痕迹。
@@ -128574,6 +129315,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/065.我当场撕掉国防部文件.txt
   数据：data/timeline-events-sixth-book.json#book6-2006-01-05-tears-defense-ministry-gdp-report
+- 2006年2月10日，《南方周末》电话访问中 | 电话受访说明参选台北市长是发声平台
+  精度：day；可靠度：reported-by-author；排序日期：2006-02-10
+  摘要：李敖在《南方周末》电话访问中谈到近日以无党籍参选台北市长。他说自己不是要做一般修桥造路的市长，而是要提高台北的政治位阶，把“中央政府”赶出台北；胜选不是第一考虑，重要的是给选民一个选择，并借选举让正义声音被听见。他同时说明台湾仍是自己的工作场地，资料和书都在身边；五年来三次手术后的政治动作，也被他说成不得不利用“肥皂箱”传播思想、阻挡三千亿军购。
+  人物：李敖、马英九
+  地点：台北、台湾
+  标签：南方周末、电话访问、台北市长选举、肥皂箱、军购案
+  视图：政治线、选举线、访谈线
+  作品：《南方周末》专访李敖
+  交叉引用：book6-2006-10-15-tv-reports-li-ao-run-for-taipei-mayor-reactions、book6-2006-11-25-taipei-mayor-policy-presentation-raises-defense-and-arms-procurement
+  来源：李敖访谈录1990-2018 / 043.20060210《南方周末》专访李敖 / line 13
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/043.20060210《南方周末》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2006-02-10-southern-weekend-phone-interview-taipei-mayor-run
 - 2006年3月6日星期一 | 李敖同场追打“假台独”，逼苏贞昌给出台独时间表
   精度：day；可靠度：confirmed；排序日期：2006-03-06
   摘要：同场质询后段，李敖借二二八、彭明敏宣言和民进党党纲的时间线，指责民进党执政后仍不敢宣布台湾共和国成立，只敢玩“终统”“正名”等假动作；他自称在满朝大员与二百多名立委中，真正曾因台独坐牢的只有自己，于是当面要求苏贞昌给出台独时间表，别再以假台独掩饰执政无能。
@@ -128678,6 +129432,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/091.“笑‘敖’年代”.txt
   数据：data/timeline-events-sixth-book.json#book6-2006-04-20-xiao-ao-niandai-press-conference-before-broadcast
+- 2006年4月21日，《联合早报》台北专访报道中 | 在台北接受《联合早报》访问回应新加坡“笨论”风波
+  精度：day；可靠度：reported-by-source；排序日期：2006-04-21
+  摘要：“新加坡人比较笨”风波后，李敖在台北接受《联合早报》访问，改称新加坡人“全体都不笨”，理由是他们知道政府可以信任并选择信任政府。他从陈文茜处得知李显龙回应后表示欣慰，还从文件夹取出李光耀抱幼年李显龙的照片佐证自己对李显龙“宽大”的判断。谈及若赴新加坡，他在台北访问现场说自己很想见李光耀、李显龙，但先前说过不见政治人物而把路堵住；问到想去哪里时，他说最想看晚晴园和鞭刑刑具。
+  人物：李敖、李显龙、李光耀、陈文茜
+  地点：台北、新加坡、晚晴园
+  标签：联合早报、新加坡、笨论、李显龙、李光耀、晚晴园
+  视图：访谈线、媒体线、新加坡线
+  作品：《联合早报》专访李敖、李敖有话说
+  交叉引用：-
+  来源：李敖访谈录1990-2018 / 044.20060426《联合早报》专访李敖 / line 11
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/044.20060426《联合早报》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2006-04-21-zaobao-taipei-interview-singapore-controversy
 - 2006年4月21日星期五 | 马英九请李敖吃午饭谈军购，李敖要求赴国民党中常会“单刀赴会”
   精度：day；可靠度：confirmed；排序日期：2006-04-21
   摘要：《马英九请吃饭》写，2006年4月21日马英九在牡丹园餐厅请李敖吃午饭，金惟纯、金溥聪在座，双方就军购问题交换意见但未达成共识；会后李敖表示单独劝马英九没有用，要去国民党中央常务委员会公开劝说整个团队，题目是“如何让国民党醒过来”，并说要“单刀赴会把他们给宰掉”。
@@ -129252,6 +130019,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/006.李敖议坛哀思录/111.我这一票人.txt
   数据：data/timeline-events-sixth-book.json#book6-2007-01-18-announces-support-vote-for-chen-tsungming-as-prosecutor-general
+- 2007年1月26日，《南都周刊》台北专访中 | 台北受访称不退出江湖并谈余生写作方向
+  精度：day；可靠度：reported-by-source；排序日期：2007-01-26
+  摘要：高调参选台北市长未获成功、《李敖有话说》也宣告停播后，李敖在台北接受《南都周刊》访问。编者按称外界有人说他已经“廉颇老矣”，但李敖表示不会退出江湖，并决定在余生再次维护中华文学尊严、整理中国好的文字。他还谈到大陆邀请与晚年安排：在访问现场说自己喜欢海南岛那种不即不离大陆的岛屿感，海南大学、上海大学给过聘书或房子但他不敢接受；近期是否再去大陆则说不知道，凤凰卫视希望安排巡回演讲，而他太老，不做很远规划。
+  人物：李敖、季羡林
+  地点：台北、海南岛、上海大学、海南大学
+  标签：南都周刊、台北市长选后、李敖有话说、中华文学、海南岛、巡回演讲
+  视图：访谈线、写作线、晚年线
+  作品：《南都周刊》专访李敖、李敖有话说
+  交叉引用：book6-2006-12-09-loses-taipei-mayor-election-after-predicting-votes、book7-2004-03-08-begins-phoenix-tv-commentary-line
+  来源：李敖访谈录1990-2018 / 045.20070126《南都周刊》专访李敖 / line 7
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/045.20070126《南都周刊》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2007-01-26-nandu-taipei-interview-after-mayor-and-phoenix
 - 2007年2月5日星期一 | 李敖写“为媚美军购质问国民党员”，以雷倩为例列十二项质问
   精度：day；可靠度：confirmed；排序日期：2007-02-05
   摘要：《为媚美军购质问国民党员》写，2007年2月5日李敖写成同名文章，以雷倩控告喷瓦斯事件为背景，从军购大前提、安全需求、潜舰、程序委员会、院会表决、雷学明案、反军购身份、投票反复、北京行和私德诚信等十二项，要求雷倩公开答复。
@@ -130016,9 +130796,9 @@
   标签：李敖中文大句典、刘长乐、凤凰电视、阳明山、2008
   视图：写作线、出版线、晚年计划线
   作品：李敖中文大句典、李敖杂文集
-  交叉引用：li-ao-zawenji-1999-09-01-yanglan-interview-chinese-sentence-dictionary、li-ao-zawenji-2000-03-13-says-signed-yuanliu-for-chinese-sentence-dictionary
+  交叉引用：li-ao-zawenji-1999-09-01-yanglan-interview-chinese-sentence-dictionary、li-ao-zawenji-2000-03-13-says-signed-yuanliu-for-chinese-sentence-dictionary、li-ao-fangtanlu-2014-08-28-southern-weekend-jinlan-chinese-interview
   来源：李敖杂文集 / 013.《李敖中文大句典》构想书 / line 9
-  补充来源：李敖政论综艺集 / 008.19990901《杨澜工作室》 / line 183；李敖送电集 / 026.2000年3月13日 / line 45
+  补充来源：李敖政论综艺集 / 008.19990901《杨澜工作室》 / line 183；李敖送电集 / 026.2000年3月13日 / line 45；李敖访谈录1990-2018 / 070.20140828《南方周末》专访李敖 / line 65；说明：《南方周末》访问补充李敖说《最美句典》仍在编，并设想由全中国人一起造句、由他最后讲评。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/013.《李敖中文大句典》构想书.txt
   数据：data/timeline-events-li-ao-zawenji.json#li-ao-zawenji-2008-09-06-writes-chinese-sentence-dictionary-plan
 - 约2008年11月30日星期日 | 李敖密会陈云林并赠送《虚拟的十七岁》
@@ -130062,6 +130842,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/005.虽千万人，李敖往矣/037.2015年7月.txt
   数据：data/timeline-events-sui-qianwan-li-ao-wangyi.json#sui-qianwan-2009-05-11-inscribes-book-to-wan-li-for-inkstone
+- 2009年8月3日，《南方人物周刊》台北专访中 | 台北受访复盘大陆行并谈《阳痿美国》、山居和死亡安排
+  精度：day；可靠度：reported-by-author；排序日期：2009-08-03
+  摘要：《南方人物周刊》记者在台北访问李敖时，报道他在价值不菲的豪宅楼下小径留影，并从大陆行、台湾、家人、女人、诗书文章一路问到死亡。李敖回看2005年大陆行，称自己“终于活着回去了”；谈写作时说现在电视不做了，反而闷头写书，正在写《阳痿美国》；谈阳明山生活时说自己十二年来只有一次身体不舒服下山，早上五点半起、晚上十二点睡、午间只躺地十分钟；最后又说遗体会捐给台湾大学医院，墓碑什么都不写。
+  人物：李敖
+  地点：台北、阳明山、台湾大学医院
+  标签：南方人物周刊、台北专访、阳明山、阳痿美国、死亡安排、山居
+  视图：访谈线、写作线、晚年线
+  作品：《南方人物周刊》专访李敖、阳痿美国
+  交叉引用：li-ao-fangtanlu-2005-09-late-shenzhou-lecture-scenes-pku-tsinghua-fudan、ni-bendan-2010-08-13-writes-impotent-america
+  来源：李敖访谈录1990-2018 / 046.20090803《南方人物周刊》专访李敖 / line 21
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/046.20090803《南方人物周刊》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2009-08-03-southern-people-taipei-interview-death-writing-yangmingshan
 - 2009年8月19日星期三 | 李敖为《百丑图》写序
   精度：day；可靠度：confirmed；排序日期：2009-08-19
   摘要：《吾从其丑》文末署“2009年8月19日”。李敖应吴兆南方面之请，为《百丑图》写序，借丑角传统发挥自己关于反讽、言论自由与舞台真话的看法。
@@ -130075,6 +130868,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/010.你笨蛋，你笨蛋/017.吾从其丑.txt
   数据：data/timeline-events-ni-bendan.json#ni-bendan-2009-08-19-writes-preface-for-baichoutu
+- 约2009年春夏，台北家中 | 孔东梅到李敖家中拜访
+  精度：undated-context；可靠度：reported-by-author；排序日期：2009-05-31
+  摘要：2009年《南方人物周刊》访问中，李敖回述几个月前毛泽东外孙女孔东梅到他家看他。他在家中对孔东梅开玩笑说，她是毛泽东思想的真正实践者，因为毛泽东说革命不是请客吃饭，而她们这一代“整天请客吃饭”，正说明革命成功了。这条只记录孔东梅到访与李敖在家中的当事回应，不把其政治判断外扩成旁人事件。
+  人物：李敖、孔东梅、毛泽东
+  地点：台北、李敖家中
+  标签：孔东梅、毛泽东、家中拜访、台北
+  视图：交游线、访谈回忆线、晚年线
+  作品：《南方人物周刊》专访李敖
+  交叉引用：-
+  来源：李敖访谈录1990-2018 / 046.20090803《南方人物周刊》专访李敖 / line 68
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/046.20090803《南方人物周刊》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2009-spring-kong-dongmei-visits-home
 - 2009年7月 | 李敖收到齐世英之女寄赠《巨流河》，但终未回信
   精度：month；可靠度：confirmed；排序日期：2009-07-01
   摘要：《齐世英》写，2009年7月，李敖收到齐世英之女寄赠的《巨流河》和附信，对方称与李敖来自同一片乡土、盼其赐寄数语。李敖记下自己年复一年都没有回一行字，并把这份沉默视为对齐家虚伪的一种判断。
@@ -130088,6 +130894,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/595.齐世英.txt
   数据：data/timeline-events-seventh-book.json#book7-2009-07-receives-giant-river-from-qi-shiyings-daughter-and-does-not-reply
+- 2009年夏，为凤凰“来台六十年”专题拍摄时 | 为凤凰来台六十年专题重访旧地并带回台中一中旧瓦
+  精度：undated-context；可靠度：reported-by-author；排序日期：2009-07-31
+  摘要：李敖在《南方人物周刊》访问中说，自己给凤凰做来台六十年专题节目时，重访了台湾六十年来的一些据点：基隆码头没有变，台湾大学傅园没有变，他在傅园拍照片后拿照片说明当年在那里追女朋友；到了台中，台中一中日式老宅已经破败将拆，他带回一片瓦，并写诗“六十年前谁识我，六十年后我识谁。信之老屋终作土，捧得凄凉片瓦回”。他还解释“凄凉”的是瓦，不是自己。
+  人物：李敖、刘长乐
+  地点：基隆码头、台湾大学傅园、台中一中、台中、台湾
+  标签：凤凰卫视、来台六十年、基隆码头、傅园、台中一中、旧瓦
+  视图：媒体线、回忆线、旅行线
+  作品：《南方人物周刊》专访李敖、有话说李敖
+  交叉引用：ni-bendan-2009-goes-to-palace-museum-vault-and-photographs-with-treaty-of-nanking
+  来源：李敖访谈录1990-2018 / 046.20090803《南方人物周刊》专访李敖 / line 371
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/046.20090803《南方人物周刊》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2009-summer-phoenix-sixty-years-filming-old-sites-roof-tile
 - 2009年 | 主持《李敖语妙天下》与《笑傲六十年·李敖有话说》
   精度：year；可靠度：confirmed；排序日期：2009-12-31
   摘要：《李敖五十年表》记，2009年李敖主持《李敖语妙天下》与《笑傲六十年·李敖有话说》。在本项目现有数据里，2000年代后期李敖的电视与媒体节点大多分散于别书，这条把其晚年节目主持线重新补成一条清楚的年度节点。
@@ -130109,9 +130928,9 @@
   标签：你笨蛋，你笨蛋、有话说李敖、南京条约、故宫博物院、待校日、2009
   视图：媒体线、文献线、取材线
   作品：你笨蛋，你笨蛋、有话说李敖、南京条约
-  交叉引用：book8-2009-hosts-yumiao-tianxia-and-sixty-years-of-laughter-and-pride、ni-bendan-2010-03-13-writes-us-human-rights-record-response
+  交叉引用：book8-2009-hosts-yumiao-tianxia-and-sixty-years-of-laughter-and-pride、ni-bendan-2010-03-13-writes-us-human-rights-record-response、li-ao-fangtanlu-2009-summer-phoenix-sixty-years-filming-old-sites-roof-tile
   来源：你笨蛋，你笨蛋 / 021.有感于年复一年的《美国人权纪录》 / line 11
-  补充来源：虽千万人，李敖往矣 / 044.2016年7月 / line 101；说明：2016年7月25日回述当年做电视节目时，周功鑫陪他在台北故宫博物院接触《南京条约》正本。
+  补充来源：虽千万人，李敖往矣 / 044.2016年7月 / line 101；说明：2016年7月25日回述当年做电视节目时，周功鑫陪他在台北故宫博物院接触《南京条约》正本。；李敖访谈录1990-2018 / 046.20090803《南方人物周刊》专访李敖 / line 371；说明：《南方人物周刊》访问补述同一凤凰来台六十年专题拍摄中，李敖还重访基隆码头、傅园和台中一中旧宅，并带回旧瓦。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/010.你笨蛋，你笨蛋/021.有感于年复一年的《美国人权纪录》.txt
   数据：data/timeline-events-ni-bendan.json#ni-bendan-2009-goes-to-palace-museum-vault-and-photographs-with-treaty-of-nanking
 
@@ -130306,9 +131125,9 @@
   标签：你笨蛋，你笨蛋、阳痿美国、美国、2010
   视图：写作线、政治线、国际线
   作品：你笨蛋，你笨蛋、阳痿美国
-  交叉引用：book7-2010-10-publishes-yangwei-america、dream-awake-2011-10-09-asia-weekly-publishes-li-ao-bombards-kmt-ccp-interview
+  交叉引用：book7-2010-10-publishes-yangwei-america、dream-awake-2011-10-09-asia-weekly-publishes-li-ao-bombards-kmt-ccp-interview、li-ao-fangtanlu-2010-08-29-jinjiang-press-conference-and-southern-weekend-interview
   来源：你笨蛋，你笨蛋 / 032.我写《阳痿美国》 / line 21
-  补充来源：阳痿美国 / 001.扉幕 JOHN-JOHN开场白 / line 17；说明：本书正文落实“使美国阳痿”的核心概念。；阳痿美国 / 001.扉幕 JOHN-JOHN开场白 / line 27；说明：首幕直接点出书名式命题。；阳痿美国 / 046.尾幕 JOHN-JOHN收尾 / line 37；说明：尾幕回扣“美国阳痿了”的戏剧结论。
+  补充来源：阳痿美国 / 001.扉幕 JOHN-JOHN开场白 / line 17；说明：本书正文落实“使美国阳痿”的核心概念。；阳痿美国 / 001.扉幕 JOHN-JOHN开场白 / line 27；说明：首幕直接点出书名式命题。；阳痿美国 / 046.尾幕 JOHN-JOHN收尾 / line 37；说明：尾幕回扣“美国阳痿了”的戏剧结论。；李敖访谈录1990-2018 / 049.20100910《南方周末》专访李敖 / line 43；说明：《南方周末》专访中李敖翻开《阳痿美国》举美元数据，并说明这本书两年写成、揭露美国黑暗面。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/010.你笨蛋，你笨蛋/032.我写《阳痿美国》.txt
   数据：data/timeline-events-ni-bendan.json#ni-bendan-2010-08-13-writes-impotent-america
 - 2010年8月19日星期四 | 宋楚瑜到阳明山给李敖看琉球文件
@@ -130324,6 +131143,84 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/011.我梦碎，所以我梦醒/013.“钓鱼台”梦碎.txt
   数据：data/timeline-events-dream-awake.json#dream-awake-2010-08-19-song-chuyu-brings-ryukyu-documents-to-li-ao
+- 2010年8月29日，上海行程中 | 专程参观中共一大会址
+  精度：day；可靠度：reported-by-source；排序日期：2010-08-29
+  摘要：2010年8月29日，李敖专程赴中共一大会址参观。他对《南方周末》说，中国共产党成立于上海，这也是上海的一个特色，所以自己选择来到这个地方。这条作为上海世博行程中的一个明确政治历史现场动作入表。
+  人物：李敖
+  地点：上海、中共一大会址
+  标签：中共一大会址、上海、参观、中国共产党
+  视图：旅行线、史识线、政治线
+  作品：《南方周末》专访李敖
+  交叉引用：li-ao-fangtanlu-2010-08-26-family-expo-fuchun-trip
+  来源：李敖访谈录1990-2018 / 049.20100910《南方周末》专访李敖 / line 85
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/049.20100910《南方周末》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2010-08-29-visits-cpc-first-congress-site
+- 2010年8月29日，上海行程中 | 经周立波牵线携全家会见余隆并让李戡演奏《黄河》选段
+  精度：day；可靠度：reported-by-source；排序日期：2010-08-29
+  摘要：2010年8月29日，经周立波牵头，李敖携全家与指挥家余隆会面，李戡当场在余隆面前演奏《黄河》选段。这一小场景把李敖送儿上北大前后的家庭出行、文化圈会面和对李戡的公开推介合在同一天。
+  人物：李敖、李戡、周立波、余隆、王小屯、李谌
+  地点：上海
+  标签：周立波、余隆、李戡、黄河、上海
+  视图：家庭线、交游线、旅行线
+  作品：《南方周末》专访李敖、黄河
+  交叉引用：li-ao-fangtanlu-2010-08-26-family-expo-fuchun-trip
+  来源：李敖访谈录1990-2018 / 049.20100910《南方周末》专访李敖 / line 7
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/049.20100910《南方周末》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2010-08-29-meets-yu-long-li-kan-plays-yellow-river
+- 2010年8月29日，上海途中 | 带家人重看少年上海旧地并前往探望二姐
+  精度：day；可靠度：reported-by-source；排序日期：2010-08-29
+  摘要：2010年上海行程中，李敖在去上海博物馆路上，带家人抽空参观自己十四岁时生活过的南京路街区、国际饭店和金门大饭店，并回忆当年在缉椝中学读书、去商务印书馆常从这里经过但没钱消费。前往医院看骨折的二姐李珣途中，他又送给《南方周末》记者一本新书《阳痿美国》，谈到大姐李珉、二姐李珣仍在大陆以及1949年举家赴台造成的两地分离。
+  人物：李敖、李珣、李珉、王小屯、李戡、李谌
+  地点：上海、南京路、国际饭店、金门大饭店、缉椝中学
+  标签：上海旧地、南京路、国际饭店、金门大饭店、缉椝中学、李珣、阳痿美国
+  视图：旅行线、家庭线、回忆线
+  作品：《南方周末》专访李敖、阳痿美国
+  交叉引用：book7-1949-05-11-leaves-shanghai-on-zhongxing-lun-with-family
+  来源：李敖访谈录1990-2018 / 049.20100910《南方周末》专访李敖 / line 25
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/049.20100910《南方周末》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2010-08-29-shanghai-old-neighborhood-and-sister-visit
+- 2010年8月29日，上海锦江饭店 | 在锦江饭店开《李敖大全集》修订版发布会并接受独家专访
+  精度：day；可靠度：reported-by-source；排序日期：2010-08-29
+  摘要：2010年8月29日，七十五岁的李敖在上海锦江饭店贵宾楼门口对《南方周末》说，这也许是自己最后一次回大陆，因年事已高，怕人们把现在的他和过去比较。此间他在锦江饭店召开《李敖大全集》修订版新闻发布会，会后接受《南方周末》独家专访。他在访问中说自己希望和台湾岛完全切掉，不上网、不用电脑、不用手机，每周一个人在阳明山待六天做研究、写书；又说三年“立法院”政治生活后已经厌倦台湾政治，不再玩政治游戏，并说明《阳痿美国》9月1日在台湾、香港发行，自己花两年写成四十万字、六百页。
+  人物：李敖
+  地点：上海、锦江饭店、阳明山、台湾、香港
+  标签：南方周末、锦江饭店、李敖大全集、阳明山、不再玩政治、阳痿美国
+  视图：访谈线、出版线、政治线、写作线
+  作品：《南方周末》专访李敖、李敖大全集、阳痿美国、李敖议坛哀思录
+  交叉引用：book7-2010-10-publishes-yangwei-america、ni-bendan-2010-08-13-writes-impotent-america
+  来源：李敖访谈录1990-2018 / 049.20100910《南方周末》专访李敖 / line 9
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/049.20100910《南方周末》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2010-08-29-jinjiang-press-conference-and-southern-weekend-interview
+- 2010年8月30日，上海开往杭州动车上 | 在上海至杭州动车上接受凤凰网专访
+  精度：day；可靠度：reported-by-source；排序日期：2010-08-30
+  摘要：2010年8月30日，凤凰网在上海开往杭州的动车上专访李敖。谈李戡赴北大时，李敖在车上说本来不要去北京，以后有火车就要去，还笑着抱住旁边铁道部人士；他区别对子女的期待，称儿子将来可能翻江倒海、女儿可能进入凤凰。谈杭州看《富春山居图》合璧前的安排时，他把这个构想归功于刘长乐；被问以后是否还口诛笔伐，他说只要有机会还会继续，平常没人围着时就自言自语，并称自己没有娱乐、没有休闲，是工作狂。
+  人物：李敖、李戡、李谌、刘长乐
+  地点：上海、杭州、动车、北京
+  标签：凤凰网、动车、李戡、李谌、富春山居图、工作狂
+  视图：访谈线、家庭线、旅行线
+  作品：《凤凰网》专访李敖、富春山居图
+  交叉引用：li-ao-fangtanlu-2010-08-26-family-expo-fuchun-trip、sui-qianwan-2011-06-08-sees-fuchun-mountains-reunited
+  来源：李敖访谈录1990-2018 / 047.20100830《凤凰网》专访李敖 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/047.20100830《凤凰网》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2010-08-30-phoenix-train-interview-shanghai-hangzhou
+- 2010年8月26日至31日，上海杭州行中 | 以看世博为名携家人赴上海杭州并看《富春山居图》
+  精度：date-range；可靠度：reported-by-source；排序日期：2010-08-26
+  摘要：凤凰卫视总裁刘长乐先前曾请李敖赴北京奥运和上海世博，李敖因身体调养推辞；后来刘长乐以“送儿上北大”为由再劝，李敖答应带妻子、儿子李戡、女儿李谌飞到上海。他说看世博只是幌子，真正目的是在自己七十五岁、来日无多的感受中，与家人有一次集体出行。8月26日至31日期间，李敖一行在上海经特殊通道参观世博会中国馆、上海馆、台湾馆，又探访上海博物馆、上海图书馆及博古斋，并专程到杭州浙江博物馆观看次年将在台北合璧的《富春山居图》，还游西湖、看《印象西湖》。
+  人物：李敖、刘长乐、李戡、李谌、王小屯
+  地点：上海、杭州、上海世博会、上海博物馆、上海图书馆、浙江博物馆、西湖
+  标签：上海世博、浙江博物馆、富春山居图、刘长乐、送儿上北大、家庭出行
+  视图：旅行线、家庭线、两岸线
+  作品：《南方周末》专访李敖、富春山居图
+  交叉引用：sui-qianwan-2011-06-08-sees-fuchun-mountains-reunited
+  来源：李敖访谈录1990-2018 / 049.20100910《南方周末》专访李敖 / line 13
+  补充来源：李敖访谈录1990-2018 / 048.20100831《凤凰网》专访李敖 / line 7；说明：凤凰网记者手记记录2010年8月26日至31日贴身跟随李敖拜访世博会、上海博物馆、书局和浙江博物馆。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/049.20100910《南方周末》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2010-08-26-family-expo-fuchun-trip
 - 2010年10月 | 李敖出版《阳痿美国》，公开为自己半世纪美国旧梦送葬
   精度：month；可靠度：confirmed；排序日期：2010-10-01
   摘要：《〈阳痿美国〉》写，2010年10月，李敖出版六百五十多页的《阳痿美国》，把自己半世纪前对美国的向往彻底翻转成系统批判。李敖把这本书视为拆穿美国、也送葬自己旧梦的一次强烈转变。
@@ -130332,9 +131229,9 @@
   标签：阳痿美国、美国、出版、思想转变
   视图：写作线、思想线、出版线
   作品：阳痿美国、李敖风流自传
-  交叉引用：ni-bendan-2010-08-13-writes-impotent-america、dream-awake-2011-10-09-asia-weekly-publishes-li-ao-bombards-kmt-ccp-interview
+  交叉引用：ni-bendan-2010-08-13-writes-impotent-america、dream-awake-2011-10-09-asia-weekly-publishes-li-ao-bombards-kmt-ccp-interview、li-ao-fangtanlu-2010-08-29-jinjiang-press-conference-and-southern-weekend-interview
   来源：李敖风流自传 / 651.《阳痿美国》 / line 3
-  补充来源：阳痿美国 / 《阳痿美国》目录 / line 1；说明：本轮接入当前本书目录作为出版物实体补源。；阳痿美国 / 《阳痿美国》目录 / line 54；说明：目录说明本书译名以李敖认定者为准。；阳痿美国 / 001.扉幕 JOHN-JOHN开场白 / line 27；说明：首幕直接点出书名式命题。；阳痿美国 / 046.尾幕 JOHN-JOHN收尾 / line 37；说明：尾幕回扣全书戏剧结论。
+  补充来源：阳痿美国 / 《阳痿美国》目录 / line 1；说明：本轮接入当前本书目录作为出版物实体补源。；阳痿美国 / 《阳痿美国》目录 / line 54；说明：目录说明本书译名以李敖认定者为准。；阳痿美国 / 001.扉幕 JOHN-JOHN开场白 / line 27；说明：首幕直接点出书名式命题。；阳痿美国 / 046.尾幕 JOHN-JOHN收尾 / line 37；说明：尾幕回扣全书戏剧结论。；李敖访谈录1990-2018 / 049.20100910《南方周末》专访李敖 / line 105；说明：2010年8月29日《南方周末》专访中，李敖预告《阳痿美国》9月1日在台湾、香港发行，并说明写作时间、篇幅与剧本体例。；李敖访谈录1990-2018 / 057.20110907《中国新闻周刊》专访李敖 / line 13；说明：《中国新闻周刊》访问中李敖回述《阳痿美国》大陆改名《审判美国》，并说明三年前决定把美国材料写成书。；李敖访谈录1990-2018 / 065.20130730《环球人物杂志》专访李敖 / line 43；说明：《环球人物杂志》访问中李敖用《阳痿美国》/《审判美国》回应微博读者关于关塔那摩材料证据的问题。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/651.《阳痿美国》.txt
   数据：data/timeline-events-seventh-book.json#book7-2010-10-publishes-yangwei-america
 - 2010年 | 李敖逼高信疆做健康检查，后又出资购墓地处理后事
@@ -130386,37 +131283,76 @@
   标签：厦门大学、名誉教授、朱崇实、阳痿美国
   视图：生平线、交游线、荣誉线
   作品：阳痿美国、李敖风流自传
-  交叉引用：book7-2006-03-29-receives-zhu-chongshi-calligraphy-praise、li-ao-zawenji-2011-after-mar-31-writes-three-poems-for-xiamen-honorary-post
+  交叉引用：book7-2006-03-29-receives-zhu-chongshi-calligraphy-praise、li-ao-zawenji-2011-after-mar-31-writes-three-poems-for-xiamen-honorary-post、book7-2011-xiamen-university-lecture-considered-best-of-life
   来源：李敖风流自传 / 637.朱崇实校长 / line 3
-  补充来源：李敖杂文集 / 009.关于厦门大学聘书诗三首 / line 3
+  补充来源：李敖杂文集 / 009.关于厦门大学聘书诗三首 / line 3；李敖访谈录1990-2018 / 051.20110404《厦门商报》李敖专题 / line 9；说明：《厦门商报》现场报道补证李敖厦门大学演讲时受聘成为厦门大学名誉教授。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/637.朱崇实校长.txt
   数据：data/timeline-events-seventh-book.json#book7-2011-03-31-receives-xiamen-university-honorary-professorship
+- 2011年4月1日，暨南大学演讲后 | 暨南大学演讲后接受记者“围殴”式混合采访
+  精度：day；可靠度：reported-by-source；排序日期：2011-04-01
+  摘要：2011年4月1日，李敖在暨南大学九十分钟演讲后，又与数十名记者展开“围殴”式混合采访。记者问他如何定位自己，他说最心仪的头衔是文学家，只是别人不承认而自己不甘心；问到年过七十是否“不逾矩”，他把“不逾矩”删掉，只留“从心所欲”。谈李戡在北大读书，他说看到李戡也在学业会商排名里、上网成性，但不后悔把他送到北大，并称李戡北上读书是“弃暗投明”；谈北大自由学风时，又提到自己曾捐一百三十万台币给北大建胡适铜像，钱还在那里。
+  人物：李敖、李戡、胡适
+  地点：广州、暨南大学、北京大学
+  标签：暨南大学、记者围访、文学家、李戡、北京大学、胡适铜像
+  视图：演讲线、访谈线、家庭线
+  作品：《南方日报》李敖专题
+  交叉引用：book8-2011-04-01-gives-lecture-at-jinan-university、li-ao-fangtanlu-2005-02-02-donates-phoenix-fee-to-peking-university-hu-shih-statue
+  来源：李敖访谈录1990-2018 / 050.20110402《南方日报》李敖专题 / line 63
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/050.20110402《南方日报》李敖专题.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2011-04-01-jinan-post-lecture-media-scrum
 - 2011年4月1日星期五 | 在暨南大学演讲
   精度：day；可靠度：confirmed；排序日期：2011-04-01
-  摘要：《李敖五十年表》记，2011年4月1日，李敖在出版《大江大海骗了你》与《第73烈士》的同年赴暨南大学演讲。与随后汕头大学、厦门大学、香港书展等连续公开活动相连，这条有助于把其2011年大陆/香港演讲线拆成更清楚的节点。
-  人物：李敖
+  摘要：《李敖五十年表》记，2011年4月1日，李敖在出版《大江大海骗了你》与《第73烈士》的同年赴暨南大学演讲。《南方日报》现场报道进一步显示，他在正式演讲前受聘担任暨南大学名誉教授，由校长胡军颁证并佩戴校徽；演讲题为“黄花岗第七十三烈士”，他围绕新书说明黄花岗史事、莫纪彭线索、中国软实力与中美道路。报道还说明此行由好友潘毓刚牵线，并将继续赴汕头大学、厦门大学演讲。
+  人物：李敖、胡军、潘毓刚、莫纪彭
   地点：暨南大学、中国大陆
-  标签：暨南大学、演讲、大陆行
+  标签：暨南大学、演讲、大陆行、名誉教授、黄花岗第七十三烈士、潘毓刚、胡军
   视图：演讲线、生平线、大陆线
-  作品：李敖相关
-  交叉引用：-
+  作品：李敖相关、第73烈士、《南方日报》李敖专题
+  交叉引用：li-ao-fangtanlu-2011-04-01-jinan-post-lecture-media-scrum、book7-2011-04-27-marks-publication-of-the-73rd-martyr-with-corrected-date
   来源：李敖相关 / 001.李敖五十年表 / line 179
-  补充来源：-
+  补充来源：李敖访谈录1990-2018 / 050.20110402《南方日报》李敖专题 / line 13；说明：《南方日报》记录李敖2011年4月1日暨南大学演讲、受聘名誉教授、演讲主题和潘毓刚牵线。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/008.李敖相关/001.李敖五十年表.txt
   数据：data/timeline-events-eighth-book.json#book8-2011-04-01-gives-lecture-at-jinan-university
 - 2011年4月2日星期六 | 在汕头大学演讲
   精度：day；可靠度：confirmed；排序日期：2011-04-02
-  摘要：《李敖五十年表》记，2011年4月2日，李敖在汕头大学演讲。这条与同年4月1日暨南大学、4月3日厦门大学、7月23日香港书展的活动排比，补强了李敖2011年高密度公开演讲期的中段节点。
+  摘要：《李敖五十年表》记，2011年4月2日，李敖在汕头大学演讲。《中国网》现场报道进一步补出，这场活动名为“X计划之思辨进行时”，李敖在好友潘毓刚陪同下到场，与学生对话，并把李戡叫上台回应外界关于北大“会商名单”的误读；他还向汕头大学图书馆赠书、给幸运听众签名，随后参观新图书馆和至诚书院。这条与同年4月1日暨南大学、4月3日厦门大学、7月23日香港书展的活动排比，补强其2011年高密度公开演讲期。
   人物：李敖
   地点：汕头大学、中国大陆
   标签：汕头大学、演讲、大陆行
   视图：演讲线、生平线、大陆线
   作品：李敖相关
-  交叉引用：-
+  交叉引用：li-ao-fangtanlu-2011-04-03-xiamen-stage-li-kan-denies-counseling-joke
   来源：李敖相关 / 001.李敖五十年表 / line 179
-  补充来源：-
+  补充来源：李敖访谈录1990-2018 / 052.20110406《中国网》李敖专题 / line 3；说明：《中国网》记录李敖2011年4月2日到汕头大学，与潘毓刚、李戡同台并向图书馆赠书。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/008.李敖相关/001.李敖五十年表.txt
   数据：data/timeline-events-eighth-book.json#book8-2011-04-02-gives-lecture-at-shantou-university
+- 2011年4月3日星期日 | 李敖应朱崇实之邀在厦门大学建南大礼堂演讲
+  精度：day；可靠度：confirmed；排序日期：2011-04-03
+  摘要：2011年4月3日，李敖应朱崇实邀请，在厦门大学建南大礼堂以鲁迅在厦大为切口演讲，并被现场报道记为受聘厦门大学名誉教授。他在演讲中把鲁迅到厦门大学解释为与许广平关系有关，又承认自己短篇文章多、专书少的创作比较；后来《李敖风流自传》回看此行时，他自评这场厦大演讲是自己一生最好的一场，比北大那场更激越，并说明因怕连累刘长乐而未事先告知厦门行。
+  人物：李敖、朱崇实、刘长乐、吴成典
+  地点：厦门大学、厦门
+  标签：厦门大学、朱崇实、演讲、刘长乐、大陆行
+  视图：大陆线、媒体线、演讲线
+  作品：李敖风流自传
+  交叉引用：book7-2011-03-31-receives-xiamen-university-honorary-professorship、li-ao-fangtanlu-2011-04-03-xiamen-stage-li-kan-denies-counseling-joke
+  来源：李敖风流自传 / 636.厦门大学 / line 5
+  补充来源：李敖访谈录1990-2018 / 051.20110404《厦门商报》李敖专题 / line 5；说明：《厦门商报》现场报道李敖2011年4月3日在厦门大学建南大礼堂演讲、受聘名誉教授并被学生指出口误。；李敖访谈录1990-2018 / 060.20120523《外滩画报》专访李敖 / line 205；说明：2012年《外滩画报》访问中，李敖回述去年去厦门大学时没有告诉刘长乐，是怕连累对方。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/636.厦门大学.txt
+  数据：data/timeline-events-seventh-book.json#book7-2011-xiamen-university-lecture-considered-best-of-life
+- 2011年4月3日星期日 | 厦门大学演讲时父子同台澄清李戡“会商名单”玩笑
+  精度：day；可靠度：confirmed；排序日期：2011-04-03
+  摘要：《厦门商报》报道，李敖在厦门大学建南大礼堂演讲时，针对媒体把他在广东演讲中关于李戡进入北大学业“会商名单”的玩笑说成“网瘾咨询”，当场把李戡叫上台。李敖先说那只是玩笑，又让李戡亲口否认；这个小插曲把2011年南方演讲行中的父子同台、媒体误读和李敖即场辟谣合成一个具体现场。
+  人物：李敖、李戡
+  地点：厦门大学、厦门大学建南大礼堂、厦门
+  标签：厦门大学、李戡、父子同台、媒体误读、演讲
+  视图：演讲线、家庭线、媒体线
+  作品：李敖访谈录1990-2018
+  交叉引用：book7-2011-xiamen-university-lecture-considered-best-of-life、book8-2011-04-02-gives-lecture-at-shantou-university、li-ao-fangtanlu-2011-04-01-jinan-post-lecture-media-scrum
+  来源：李敖访谈录1990-2018 / 051.20110404《厦门商报》李敖专题 / line 51
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/051.20110404《厦门商报》李敖专题.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2011-04-03-xiamen-stage-li-kan-denies-counseling-joke
 - 2011年4月27日星期三 | 李敖特意把《第73烈士》版权页印成4月27日，以纠正黄花岗纪念日期误传
   精度：day；可靠度：confirmed；排序日期：2011-04-27
   摘要：《〈第73烈士〉志缘》写，李敖特意把《第73烈士》版权页印为2011年4月27日，用来对应辛亥黄花岗起义一百周年的正确阳历日期，并借此纠正长期把“三月二十九”阴历误当阳历来过的百年错误。这使本书出版本身也成为一次史实校正动作。
@@ -130425,9 +131361,9 @@
   标签：第73烈士、黄花岗、4月27日、版权页、日期校正
   视图：写作线、出版线、史识线
   作品：第73烈士、李敖风流自传
-  交叉引用：martyr-73-1961-about-collects-mo-jipeng-calligraphy-and-conceives-novel、book7-2011-03-03-submits-manuscript-of-the-73rd-martyr、book7-2011-03-11-asks-wang-yu-for-photo-for-the-73rd-martyr
+  交叉引用：martyr-73-1961-about-collects-mo-jipeng-calligraphy-and-conceives-novel、book7-2011-03-03-submits-manuscript-of-the-73rd-martyr、book7-2011-03-11-asks-wang-yu-for-photo-for-the-73rd-martyr、book8-2011-04-01-gives-lecture-at-jinan-university
   来源：李敖风流自传 / 237.《第73烈士》志缘 / line 19
-  补充来源：第73烈士 / 008.附录——《第73烈士》志缘 / line 19
+  补充来源：第73烈士 / 008.附录——《第73烈士》志缘 / line 19；李敖访谈录1990-2018 / 050.20110402《南方日报》李敖专题 / line 19；说明：《南方日报》暨南演讲报道中，李敖现场解释《黄花岗第七十三烈士》书名、莫纪彭线索和小说真假结构。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/237.《第73烈士》志缘.txt
   数据：data/timeline-events-seventh-book.json#book7-2011-04-27-marks-publication-of-the-73rd-martyr-with-corrected-date
 - 2011年5月17日星期二 | 开通新浪微博
@@ -130453,7 +131389,7 @@
   作品：虽千万人，李敖往矣、哈囉李敖
   交叉引用：book7-2015-early-turns-hello-li-ao-into-full-book-though-ten-million-followers-milestone
   来源：虽千万人，李敖往矣 / 001.2011年5月 / line 7
-  补充来源：虽千万人，李敖往矣 / 054.开微博的缘由 / line 3；说明：说明“哈啰李敖”命名、台湾 Facebook 与大陆博客/微博/QQ 的平台分布。；虽千万人，李敖往矣 / 054.开微博的缘由 / line 11；说明：李敖自述因书不能流传，只好写140字网站短文。；虽千万人，李敖往矣 / 016.2013年10月 / line 19；说明：补述“哈啰李敖”每晚8点20分在新浪网发布、140字内写作的固定形态。；虽千万人，李敖往矣 / 019.2014年1月 / line 85；说明：2014年1月回述“哈啰李敖”连续写满一年，每天20分钟完成。；虽千万人，李敖往矣 / 028.2014年10月 / line 25；说明：2014年10月继续说明每天半小时微博只是一天四十八分之一。；虽千万人，李敖往矣 / 033.2015年3月 / line 25；说明：2015年3月6日回述4年前李戡点化他使用每则140字微博，并由小屯每晚8点20翻成简体直奔祖国。；虽千万人，李敖往矣 / 047.2016年10月 / line 113；说明：2016年10月28日李敖自评自己以140字完成快速起承转合的短文技法。；虽千万人，李敖往矣 / 048.2016年11月 / line 57；说明：2016年11月14日说明天天在微博发言的三重目的。；虽千万人，李敖往矣 / 《虽千万人，李敖往矣》自序 / line 3；说明：自序回述李戡四年前点化微博管道、每晚8点20由小屯翻成简体字直奔祖国，并说明粉丝已千万。；虽千万人，李敖往矣 / 《虽千万人，李敖往矣》自序 / line 5；说明：自序说明“哈囉李敖”开笔时已预告会在岛上出未删完整版，后由《虽千万人，李敖往矣》兑现。；虽千万人，李敖往矣 / 《虽千万人，李敖往矣》自序 / line 9；说明：自序概括每天一则写了30个月，除2012全年缺货外迄未小休，并称140字成为一种新文体。；虽千万人，李敖往矣 / 054.开微博的缘由 / line 5；说明：补述坚持每天写140字微博，且基本不回复来信，只让人知道自己在做什么。；虽千万人，李敖往矣 / 054.开微博的缘由 / line 9；说明：补述微博以小故事为主，并会减少与“党中央”不合的内容以免被封杀。
+  补充来源：虽千万人，李敖往矣 / 054.开微博的缘由 / line 3；说明：说明“哈啰李敖”命名、台湾 Facebook 与大陆博客/微博/QQ 的平台分布。；虽千万人，李敖往矣 / 054.开微博的缘由 / line 11；说明：李敖自述因书不能流传，只好写140字网站短文。；虽千万人，李敖往矣 / 016.2013年10月 / line 19；说明：补述“哈啰李敖”每晚8点20分在新浪网发布、140字内写作的固定形态。；虽千万人，李敖往矣 / 019.2014年1月 / line 85；说明：2014年1月回述“哈啰李敖”连续写满一年，每天20分钟完成。；虽千万人，李敖往矣 / 028.2014年10月 / line 25；说明：2014年10月继续说明每天半小时微博只是一天四十八分之一。；虽千万人，李敖往矣 / 033.2015年3月 / line 25；说明：2015年3月6日回述4年前李戡点化他使用每则140字微博，并由小屯每晚8点20翻成简体直奔祖国。；虽千万人，李敖往矣 / 047.2016年10月 / line 113；说明：2016年10月28日李敖自评自己以140字完成快速起承转合的短文技法。；虽千万人，李敖往矣 / 048.2016年11月 / line 57；说明：2016年11月14日说明天天在微博发言的三重目的。；虽千万人，李敖往矣 / 《虽千万人，李敖往矣》自序 / line 3；说明：自序回述李戡四年前点化微博管道、每晚8点20由小屯翻成简体字直奔祖国，并说明粉丝已千万。；虽千万人，李敖往矣 / 《虽千万人，李敖往矣》自序 / line 5；说明：自序说明“哈囉李敖”开笔时已预告会在岛上出未删完整版，后由《虽千万人，李敖往矣》兑现。；虽千万人，李敖往矣 / 《虽千万人，李敖往矣》自序 / line 9；说明：自序概括每天一则写了30个月，除2012全年缺货外迄未小休，并称140字成为一种新文体。；虽千万人，李敖往矣 / 054.开微博的缘由 / line 5；说明：补述坚持每天写140字微博，且基本不回复来信，只让人知道自己在做什么。；虽千万人，李敖往矣 / 054.开微博的缘由 / line 9；说明：补述微博以小故事为主，并会减少与“党中央”不合的内容以免被封杀。；李敖访谈录1990-2018 / 053.20110821《晶报·深港书评》专访李敖 / line 85；说明：《晶报·深港书评》访问中，李敖说明微博起因、写多读少、妻子代看留言和不回复原则。；李敖访谈录1990-2018 / 056.20110831《辽沈晚报》专访李敖 / line 9；说明：《辽沈晚报》访问补充微博由赖岳忠申请设计，李敖用 iPad2 手写输入并保持日均两则以上。；李敖访谈录1990-2018 / 060.20120523《外滩画报》专访李敖 / line 53；说明：《外滩画报》访问中李敖回述微博粉丝到260万后停发、太太曾代发并会改文，以及自己只学会电脑打字。；李敖访谈录1990-2018 / 061.20121010《成都商报》专访李敖 / line 43；说明：《成都商报》访问中李敖说明自己不上网，微博写好后由妻子代发，并视140字为考验文字功夫的媒介。；李敖访谈录1990-2018 / 062.20121010《华西都市报》专访李敖 / line 33；说明：《华西都市报》访问中李敖说微博太费时间、不用电脑、常躺在床上仰写后由夫人发到网上。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/005.虽千万人，李敖往矣/001.2011年5月.txt
   数据：data/timeline-events-sui-qianwan-li-ao-wangyi.json#sui-qianwan-2011-05-17-starts-hello-li-ao-140-char-web-writing
 - 2011年5月17日星期二 | 晓娥来电告知《阳痿美国》等书在大陆出版受阻
@@ -130557,7 +131493,7 @@
   作品：虽千万人，李敖往矣、审判美国、阳痿美国
   交叉引用：ni-bendan-2010-08-13-writes-impotent-america、book7-2010-10-publishes-yangwei-america、sui-qianwan-2011-05-17-xiaoe-calls-about-mainland-publication-blockage
   来源：虽千万人，李敖往矣 / 001.2011年5月 / line 331
-  补充来源：虽千万人，李敖往矣 / 001.2011年5月 / line 327；说明：同日前后文先说明《阳痿美国》几经疏通后蒙准改名出版。；虽千万人，李敖往矣 / 001.2011年5月 / line 335；说明：补充同一本书在海峡两边分别叫《审判美国》和《阳痿美国》。
+  补充来源：虽千万人，李敖往矣 / 001.2011年5月 / line 327；说明：同日前后文先说明《阳痿美国》几经疏通后蒙准改名出版。；虽千万人，李敖往矣 / 001.2011年5月 / line 335；说明：补充同一本书在海峡两边分别叫《审判美国》和《阳痿美国》。；李敖访谈录1990-2018 / 056.20110831《辽沈晚报》专访李敖 / line 77；说明：《辽沈晚报》访问补充李敖说《阳痿美国》曾保证五十万册，如今大陆出版方趋于谨慎。；李敖访谈录1990-2018 / 057.20110907《中国新闻周刊》专访李敖 / line 13；说明：《中国新闻周刊》访问补充《阳痿美国》在大陆改名《审判美国》出版以及写作强度。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/005.虽千万人，李敖往矣/001.2011年5月.txt
   数据：data/timeline-events-sui-qianwan-li-ao-wangyi.json#sui-qianwan-2011-05-27-receives-citic-edition-of-trial-america
 - 2011年6月4日星期六 | 李敖搭计程车时自嘲年龄被司机说漏
@@ -130685,9 +131621,9 @@
   标签：我梦碎，所以我梦醒、香港书展、助听器、西门子、身体、2011
   视图：身体线、演讲线、日常线
   作品：我梦碎，所以我梦醒、李敖香港旋风
-  交叉引用：book8-2011-07-23-speaks-at-hong-kong-book-fair
+  交叉引用：book8-2011-07-23-speaks-at-hong-kong-book-fair、li-ao-fangtanlu-2012-04-20-bund-shangri-la-interview-hearing-aid-knife
   来源：我梦碎，所以我梦醒 / 061.梦醒时分 / line 81
-  补充来源：-
+  补充来源：李敖访谈录1990-2018 / 060.20120523《外滩画报》专访李敖 / line 9；说明：《外滩画报》访问补充这副助听器是李敖2011年为参加香港书展而买，2012年受访时仍需花几分钟戴上。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/011.我梦碎，所以我梦醒/061.梦醒时分.txt
   数据：data/timeline-events-dream-awake.json#dream-awake-2011-07-23-wears-new-hearing-aid-for-hong-kong-book-fair-speech
 - 2011年7月24日星期日 | 李敖在光华新闻文化中心演讲
@@ -130765,7 +131701,7 @@
   作品：虽千万人，李敖往矣、莫文蔚演唱会
   交叉引用：-
   来源：虽千万人，李敖往矣 / 004.2011年8月 / line 67
-  补充来源：-
+  补充来源：李敖访谈录1990-2018 / 054.20110822《现代快报》专访李敖 / line 73；说明：《现代快报》访问中李敖回述莫文蔚请他到“回蔚”演唱会，他坐包厢看八千人演唱会。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/005.虽千万人，李敖往矣/004.2011年8月.txt
   数据：data/timeline-events-sui-qianwan-li-ao-wangyi.json#sui-qianwan-2011-08-07-attends-karen-mok-concert
 - 2011年8月17日星期三 | 李敖改写《他》
@@ -130783,7 +131719,7 @@
   数据：data/timeline-events-ni-bendan.json#ni-bendan-2011-08-17-rewrites-he
 - 2011年8月18日星期四 | 大陆版《坐牢家爸爸给女儿的八十封信》出版且被小删
   精度：day；可靠度：confirmed；排序日期：2011-08-18
-  摘要：《2011年8月》记，李敖得知大陆版《坐牢家爸爸给女儿的八十封信》出版，虽有删节但幅度不大；他由此比较两岸出版尺度，并把这本狱中家书的晚年再版情况补入自己的网络记录。
+  摘要：《2011年8月》记，李敖得知大陆版《坐牢家爸爸给女儿的八十封信》出版，虽有删节但幅度不大；多家2011年8月访谈又补出更具体的再版背景：此书初版于1987年，2000年前后已有大陆版，2011年甘肃人民美术出版社新版以狱中家书为卖点重出；李敖特别介意新版序言中被删的十六个字，并用它比较两岸出版尺度和审查边界。
   人物：李敖
   地点：大陆
   标签：虽千万人，李敖往矣、坐牢家爸爸给女儿的八十封信、大陆版、删节、出版
@@ -130791,7 +131727,7 @@
   作品：虽千万人，李敖往矣、坐牢家爸爸给女儿的八十封信
   交叉引用：book8-1987-12-prison-father-letters-published
   来源：虽千万人，李敖往矣 / 004.2011年8月 / line 157
-  补充来源：虽千万人，李敖往矣 / 004.2011年8月 / line 181；说明：同月继续谈大陆删节与家书出版尺度。
+  补充来源：虽千万人，李敖往矣 / 004.2011年8月 / line 181；说明：同月继续谈大陆删节与家书出版尺度。；李敖访谈录1990-2018 / 053.20110821《晶报·深港书评》专访李敖 / line 5；说明：《晶报·深港书评》访问补充2011年大陆新版、早年台版和2000年大陆授权版背景，以及十六字删节。；李敖访谈录1990-2018 / 054.20110822《现代快报》专访李敖 / line 13；说明：《现代快报》访问补充狱中家书写作限制、旧版绝版十多年和2011年一年五书计划。；李敖访谈录1990-2018 / 055.20110824《京华时报》专访李敖 / line 15；说明：《京华时报》访问补充甘肃人民美术出版社新版与十年前大陆版情况。；李敖访谈录1990-2018 / 056.20110831《辽沈晚报》专访李敖 / line 9；说明：《辽沈晚报》访问补充李敖称为新版出版受了委屈，以及被删的是序言十六字。；李敖访谈录1990-2018 / 059.2011《新闻晨报》专访李敖 / line 7；说明：《新闻晨报》访问补充新版出版后外界看到李敖温情一面，李敖调侃从此别人不怕他。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/005.虽千万人，李敖往矣/004.2011年8月.txt
   数据：data/timeline-events-sui-qianwan-li-ao-wangyi.json#sui-qianwan-2011-08-18-mainland-edition-of-prison-father-letters-published-with-small-cuts
 - 2011年8月18日星期四 | 李敖参加“20110818李敖微访谈”
@@ -130807,6 +131743,32 @@
   补充来源：虽千万人，李敖往矣 / 055.20110818李敖微访谈 / line 13；说明：回答把儿子送到北京读书的理由。；虽千万人，李敖往矣 / 055.20110818李敖微访谈 / line 53；说明：回答未来几年写作计划，称世界性的大书应该写。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/005.虽千万人，李敖往矣/055.20110818李敖微访谈.txt
   数据：data/timeline-events-sui-qianwan-li-ao-wangyi.json#sui-qianwan-2011-08-18-does-micro-interview
+- 2011年8月19日星期五 | 接受《现代快报》《京华时报》电话访问，围绕家书再版谈父女与子女教育
+  精度：day；可靠度：confirmed；排序日期：2011-08-19
+  摘要：2011年8月19日前后，《现代快报》和《京华时报》先后电话访问李敖，主题都落在大陆新版《坐牢家爸爸给女儿的八十封信》。李敖解释自己当年在狱中是利用每周给家人的短信机会，把知识和判断送出监狱；谈到李文、李戡和李谌时，他把父爱更多说成经济支持和教育投入，例如送李文赴美读书、为李戡请德文老师、为小女儿安排钢琴和大提琴。
+  人物：李敖、李文、李戡、李谌
+  地点：台北、北京、美国
+  标签：现代快报、京华时报、电话访问、坐牢家爸爸给女儿的八十封信、子女教育
+  视图：访谈线、家书线、家庭线
+  作品：李敖访谈录1990-2018、坐牢家爸爸给女儿的八十封信
+  交叉引用：sui-qianwan-2011-08-18-mainland-edition-of-prison-father-letters-published-with-small-cuts、book8-1987-12-prison-father-letters-published
+  来源：李敖访谈录1990-2018 / 054.20110822《现代快报》专访李敖 / line 7
+  补充来源：李敖访谈录1990-2018 / 055.20110824《京华时报》专访李敖 / line 7；说明：《京华时报》同周电话访问补充大陆新版、李文定居北京和子女教育投入。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/054.20110822《现代快报》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2011-08-19-modern-jinghua-phone-interviews-prison-letters-family
+- 2011年8月21日星期日 | 在台北家中接《晶报·深港书评》长途电话，谈家书、微博和晚年写作
+  精度：day；可靠度：confirmed；排序日期：2011-08-21
+  摘要：《晶报·深港书评》记者拨通李敖台北家中电话，完成约一个半小时长途访问。李敖围绕大陆新版《坐牢家爸爸给女儿的八十封信》，回忆狱中每周两封、每封不得超过二百字的写信限制；又谈到自己开微博后的写法、几乎每天与李戡通电话的父子节奏、每周六天独自在阳明山“小窝”工作的办法，以及2011年还要继续写“九一一”和台湾选举题材两本书。
+  人物：李敖、李文、李戡
+  地点：台北、阳明山
+  标签：晶报、电话访问、坐牢家爸爸给女儿的八十封信、微博、阳明山、李戡
+  视图：访谈线、写作线、家庭线、网络线
+  作品：李敖访谈录1990-2018、坐牢家爸爸给女儿的八十封信、阳痿美国、第73烈士
+  交叉引用：sui-qianwan-2011-08-18-mainland-edition-of-prison-father-letters-published-with-small-cuts、sui-qianwan-2011-05-17-starts-hello-li-ao-140-char-web-writing、sui-qianwan-2011-09-27-records-six-day-mountain-routine
+  来源：李敖访谈录1990-2018 / 053.20110821《晶报·深港书评》专访李敖 / line 7
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/053.20110821《晶报·深港书评》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2011-08-21-jingbao-phone-interview-prison-letters-weibo-writing
 - 2011年8月29日星期一 | 李敖改写《你笨蛋，你笨蛋》
   精度：day；可靠度：confirmed；排序日期：2011-08-29
   摘要：《你笨蛋，你笨蛋》文末署“2011年8月29日改写”。李敖回溯1994、1998、2000三次蓝营选举抉择，把“你笨蛋，你笨蛋”写成对国民党与蓝营选民的集中政治讽刺。
@@ -130820,9 +131782,35 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/010.你笨蛋，你笨蛋/040.你笨蛋，你笨蛋.txt
   数据：data/timeline-events-ni-bendan.json#ni-bendan-2011-08-29-rewrites-you-idiot-you-idiot
+- 2011年8月31日星期三 | 接受《辽沈晚报》电话访问，谈微博、出版删节和晚年日常
+  精度：day；可靠度：confirmed；排序日期：2011-08-31
+  摘要：《辽沈晚报》半小时电话访问李敖时，记者注意到他听力已有下降但思路清晰。李敖谈到《坐牢家爸爸给女儿的八十封信》新版序言被删十六字、自己微博已有二百一十多万粉丝且只关注李戡、陈文茜和赖岳忠；他还说明微博账号由赖岳忠申请设计，自己用 iPad2 手写输入，日常仍读书写作，不愿把老年虚耗掉。
+  人物：李敖、李戡、陈文茜、赖岳忠、李文
+  地点：台北、大陆网络平台
+  标签：辽沈晚报、电话访问、微博、iPad、出版删节、听力
+  视图：访谈线、网络线、出版线、晚年线
+  作品：李敖访谈录1990-2018、坐牢家爸爸给女儿的八十封信、阳痿美国、大江大海骗了你、第73烈士
+  交叉引用：sui-qianwan-2011-05-17-starts-hello-li-ao-140-char-web-writing、sui-qianwan-2011-08-18-mainland-edition-of-prison-father-letters-published-with-small-cuts、sui-qianwan-2011-05-27-receives-citic-edition-of-trial-america
+  来源：李敖访谈录1990-2018 / 056.20110831《辽沈晚报》专访李敖 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/056.20110831《辽沈晚报》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2011-08-31-liaoshen-phone-interview-weibo-publication-and-daily-life
+- 2011年9月7日星期三 | 接受《中国新闻周刊》访问，解释《审判美国》与晚年写大书的转向
+  精度：day；可靠度：confirmed；排序日期：2011-09-07
+  摘要：《中国新闻周刊》访问中，李敖把2011年5月17日开微博说成自己“写不过人吗”的斗气入场，又回顾《阳痿美国》改名《审判美国》在大陆出版。他说自己近半年每天写作十五小时以上，已完成《阳痿美国》《大江大海骗了你》《第73烈士》三本大书，并在访谈现场说明未来会少耗力在台湾政论上，转向更有世界性和长篇结构的写作。
+  人物：李敖
+  地点：台湾、大陆出版场
+  标签：中国新闻周刊、微博、审判美国、阳痿美国、第73烈士、晚年写作
+  视图：访谈线、写作线、出版线、网络线
+  作品：李敖访谈录1990-2018、审判美国、阳痿美国、大江大海骗了你、第73烈士
+  交叉引用：sui-qianwan-2011-05-27-receives-citic-edition-of-trial-america、sui-qianwan-2011-09-publishes-you-idiot-you-idiot-and-counts-four-books-in-year、book7-2010-10-publishes-yangwei-america
+  来源：李敖访谈录1990-2018 / 057.20110907《中国新闻周刊》专访李敖 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/057.20110907《中国新闻周刊》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2011-09-07-china-news-weekly-interview-america-books
 - 2011年9月27日星期二 | 李敖记录自己一周六天上山工作的规律
   精度：day；可靠度：confirmed；排序日期：2011-09-27
-  摘要：《2011年9月》记，李敖说明自己一周六天上山工作，并把山上书房、日常节奏和晚年劳动习惯写成微博材料。
+  摘要：《2011年9月》记，李敖说明自己一周六天上山工作，并把山上书房、日常节奏和晚年劳动习惯写成微博材料。2011年8月多次访谈进一步显示，他常把阳明山“小窝”作为独处劳动的场所，每周六天在那里工作、写作十几个小时，靠“来回带物法”和“念念有词法”处理材料与记忆；这些回述把晚年山居写作从微博短句补成了较完整的日课。
   人物：李敖
   地点：阳明山、山上书房
   标签：虽千万人，李敖往矣、山上书房、工作节奏、日常、写作
@@ -130830,7 +131818,7 @@
   作品：虽千万人，李敖往矣
   交叉引用：-
   来源：虽千万人，李敖往矣 / 005.2011年9月 / line 289
-  补充来源：-
+  补充来源：李敖访谈录1990-2018 / 053.20110821《晶报·深港书评》专访李敖 / line 107；说明：《晶报·深港书评》访问补充李敖每周六天独自在阳明山小窝工作、用来回带物法和念念有词法。；李敖访谈录1990-2018 / 054.20110822《现代快报》专访李敖 / line 57；说明：《现代快报》访问补充李敖一周六天在山上、一天写作十六小时与2011年写书目标。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/005.虽千万人，李敖往矣/005.2011年9月.txt
   数据：data/timeline-events-sui-qianwan-li-ao-wangyi.json#sui-qianwan-2011-09-27-records-six-day-mountain-routine
 - 2011年9月27日星期二 | 李敖到赖岳忠工作室看猫
@@ -130854,9 +131842,9 @@
   标签：我梦碎，所以我梦醒、亚洲周刊、宋楚瑜、马英九、阳痿美国、2011
   视图：媒体线、选举线、两岸线
   作品：我梦碎，所以我梦醒、阳痿美国、审判美国、你笨蛋，你笨蛋
-  交叉引用：book6-2005-03-14-questions-xue-shimin-on-nsb-secrecy-and-taizongyuan-money、book6-2005-03-28-presses-xue-to-sue-lee-tenghui-and-attach-taizongyuan-assets、book6-2006-03-06-presses-su-tsengchang-to-admit-abolishing-nuc、ni-bendan-2010-08-13-writes-impotent-america、book7-2010-10-publishes-yangwei-america
+  交叉引用：book6-2005-03-14-questions-xue-shimin-on-nsb-secrecy-and-taizongyuan-money、book6-2005-03-28-presses-xue-to-sue-lee-tenghui-and-attach-taizongyuan-assets、book6-2006-03-06-presses-su-tsengchang-to-admit-abolishing-nuc、ni-bendan-2010-08-13-writes-impotent-america、book7-2010-10-publishes-yangwei-america、li-ao-fangtanlu-2011-08-joins-pfp-and-legislative-run
   来源：我梦碎，所以我梦醒 / 061.梦醒时分 / line 197
-  补充来源：我梦碎，所以我梦醒 / 061.梦醒时分 / line 133；说明：访谈开头交代宋楚瑜问计与李敖煽动宋参选。；我梦碎，所以我梦醒 / 061.梦醒时分 / line 165；说明：补充《阳痿美国》大陆出版受阻与李敖报复说法。；我梦碎，所以我梦醒 / 061.梦醒时分 / line 185；说明：补充李敖自述在立法院追台综院款项、并准备向监察院告马英九“内乱外患罪”。；虽千万人，李敖往矣 / 006.2011年10月 / line 41；说明：李敖在10月4日微博预告业已上市的10月9日《亚洲周刊》可见完整的李敖。；虽千万人，李敖往矣 / 006.2011年10月 / line 163；说明：10月15日微博再把10月9日香港《亚洲周刊》列为自己在媒体封锁下转入第三地出现的一例。
+  补充来源：我梦碎，所以我梦醒 / 061.梦醒时分 / line 133；说明：访谈开头交代宋楚瑜问计与李敖煽动宋参选。；我梦碎，所以我梦醒 / 061.梦醒时分 / line 165；说明：补充《阳痿美国》大陆出版受阻与李敖报复说法。；我梦碎，所以我梦醒 / 061.梦醒时分 / line 185；说明：补充李敖自述在立法院追台综院款项、并准备向监察院告马英九“内乱外患罪”。；虽千万人，李敖往矣 / 006.2011年10月 / line 41；说明：李敖在10月4日微博预告业已上市的10月9日《亚洲周刊》可见完整的李敖。；虽千万人，李敖往矣 / 006.2011年10月 / line 163；说明：10月15日微博再把10月9日香港《亚洲周刊》列为自己在媒体封锁下转入第三地出现的一例。；李敖访谈录1990-2018 / 060.20120523《外滩画报》专访李敖 / line 77；说明：《外滩画报》访问中李敖回述参选2012年文山区“立委”的目的、宋楚瑜被煽动参选和自己得票约9600票。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/011.我梦碎，所以我梦醒/061.梦醒时分.txt
   数据：data/timeline-events-dream-awake.json#dream-awake-2011-10-09-asia-weekly-publishes-li-ao-bombards-kmt-ccp-interview
 - 2011年10月10日星期一 | 小屯来电提醒简体转换造成“文件夹”误写
@@ -130898,6 +131886,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/011.我梦碎，所以我梦醒/061.梦醒时分.txt
   数据：data/timeline-events-dream-awake.json#dream-awake-2011-11-17-writes-closing-chapter-while-lying-in-bed
+- 2011年11月23日星期三 | 接受《华西都市报》107分钟专访，回应晚年形象、财富、亲情和遗体捐赠
+  精度：day；可靠度：confirmed；排序日期：2011-11-23
+  摘要：“2011第六届中国作家富豪榜”发布前夕，李敖接受《华西都市报》107分钟独家专访。访谈中他从2010年上海世博行的生活礼貌谈到文字中的争斗，又谈亲情距离、希望李戡做大学教授、钱与自由、在狱中如何靠知识把心放到牢外，以及早年已公开把遗体和遗骨都捐给台大医院“大体解剖”。
+  人物：李敖、李戡、李文、马寅初
+  地点：上海、台湾、台大医院
+  标签：华西都市报、作家富豪榜、李戡、亲情、遗体捐赠、狱中思考
+  视图：访谈线、家庭线、晚年线、身体线
+  作品：李敖访谈录1990-2018、北京法源寺
+  交叉引用：book5-1998-08-07-finishes-zhili-ji-and-body-donation-note、li-ao-fangtanlu-2010-08-26-family-expo-fuchun-trip
+  来源：李敖访谈录1990-2018 / 058.20111123《华西都市报》专访李敖 / line 17
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/058.20111123《华西都市报》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2011-11-23-huaxi-107-minute-interview-many-sided-life
 - 2011年11月26日星期六 | 李敖写《我梦碎，所以我梦醒》序
   精度：day；可靠度：confirmed；排序日期：2011-11-26
   摘要：《我梦碎，所以我梦醒》序文末署“2011年11月26日在中国台湾”。李敖在序中说自己继2011年2月用40天写《大江大海骗了你》后，9个月后只花17天写成这本书；又说明自己75岁后渐弃电视口伐、回归书房笔诛，每天工作18小时，并以躺着仰写的方式完成这部应时之书。
@@ -131041,6 +132042,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/010.你笨蛋，你笨蛋/038.联语对比举例.txt
   数据：data/timeline-events-ni-bendan.json#ni-bendan-2011-before-aug-17-collects-couplet-examples
+- 2011年8月 | 李敖加入亲民党并宣布参选“立法委员”
+  精度：month；可靠度：confirmed；排序日期：2011-08-31
+  摘要：《外滩画报》2012年回述，2011年8月，76岁的李敖突然加入亲民党并宣布参加“立法委员”选举；同年《现代快报》访问中，他解释自己要借选举证明台湾民主并不充分，登记还要跨过高额保证金和联署门槛。到2012年4月20日在台北香格里拉受访时，他回看文山区选举，说自己几乎不去跑也拿到约九千六百票，明知选不上仍要选，是为了争取最后一次冲破两党钳制的机会。
+  人物：李敖、宋楚瑜、马英九
+  地点：台湾、台北文山区
+  标签：亲民党、立法委员选举、宋楚瑜、文山区、两党政治
+  视图：选举线、政治线、晚年线
+  作品：李敖访谈录1990-2018
+  交叉引用：dream-awake-2011-10-09-asia-weekly-publishes-li-ao-bombards-kmt-ccp-interview、book6-2006-12-09-loses-taipei-mayor-election-after-predicting-votes
+  来源：李敖访谈录1990-2018 / 060.20120523《外滩画报》专访李敖 / line 35
+  补充来源：李敖访谈录1990-2018 / 054.20110822《现代快报》专访李敖 / line 87；说明：《现代快报》访问补充李敖谈参选门槛、保证金和以选举证明台湾民主问题。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/060.20120523《外滩画报》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2011-08-joins-pfp-and-legislative-run
 - 2011年8月 | 李敖发表《英文汉诂》残稿以纪念朱良箴
   精度：month；可靠度：confirmed；排序日期：2011-08-31
   摘要：《〈英文汉诂〉残稿》说明，朱良箴病逝后，李敖仍未忘情，于2011年8月把自己写下的一篇序和前十篇合并发表，一面纪念朱良箴，一面保存这部未竟之书的残稿。
@@ -131064,7 +132078,7 @@
   作品：虽千万人，李敖往矣、你笨蛋，你笨蛋、阳痿美国、大江大海骗了你、第73烈士
   交叉引用：ni-bendan-2011-08-29-rewrites-you-idiot-you-idiot、book7-2011-03-03-submits-manuscript-of-the-73rd-martyr、book7-2010-10-publishes-yangwei-america
   来源：虽千万人，李敖往矣 / 005.2011年9月 / line 153
-  补充来源：虽千万人，李敖往矣 / 005.2011年9月 / line 157；说明：补述一年十二个月四本书与总页数。
+  补充来源：虽千万人，李敖往矣 / 005.2011年9月 / line 157；说明：补述一年十二个月四本书与总页数。；李敖访谈录1990-2018 / 053.20110821《晶报·深港书评》专访李敖 / line 153；说明：《晶报·深港书评》访问中李敖自数一年内推出《大江大海骗了你》《阳痿美国》《第七十三烈士》，且还要写九一一和台湾选举两书。；李敖访谈录1990-2018 / 054.20110822《现代快报》专访李敖 / line 57；说明：《现代快报》访问中李敖称2011年目标是五本书，已出三本，年底前还要完成《你笨蛋，你笨蛋》等两本。；李敖访谈录1990-2018 / 057.20110907《中国新闻周刊》专访李敖 / line 13；说明：《中国新闻周刊》访问补充李敖近半年每天十五小时以上同时写数本书，已完成三本大书。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/005.虽千万人，李敖往矣/005.2011年9月.txt
   数据：data/timeline-events-sui-qianwan-li-ao-wangyi.json#sui-qianwan-2011-09-publishes-you-idiot-you-idiot-and-counts-four-books-in-year
 - 2011年9月 | 李敖拒赴美国国会图书馆演说
@@ -131080,6 +132094,19 @@
   补充来源：虽千万人，李敖往矣 / 031.2015年1月 / line 73；说明：2015年1月12日微博回述美国国会图书馆邀请演讲并开办李敖特藏，因马里兰大学孔子学院施压而告吹。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/011.我梦碎，所以我梦醒/034.“黑猫”梦碎，“白猫”也梦碎.txt
   数据：data/timeline-events-dream-awake.json#dream-awake-2011-09-refuses-library-of-congress-speech-after-confucius-institute-pressure
+- 2011年 | 在台北仁爱路家中接《新闻晨报》电话专访，谈家书、死亡和遗产
+  精度：year；可靠度：confirmed；排序日期：2011-12-31
+  摘要：《新闻晨报》2011年电话访问李敖时，正逢《坐牢家爸爸给女儿的80封信》出版；李敖在台北仁爱路家中接听访问，谈自己如何用金钱弥补李文成长中的父爱缺席，也说所谓作家富豪榜多属造谣。谈生死时，他重申自己多年前已经立下遗嘱，遗体将捐给台大医学院，留给儿女的不是财产而是他自认九死无悔的人格。
+  人物：李敖、李文、李戡、李谌
+  地点：台北仁爱路、台大医学院
+  标签：新闻晨报、电话访问、仁爱路、坐牢家爸爸给女儿的80封信、遗体捐赠
+  视图：访谈线、家庭线、晚年线、身体线
+  作品：李敖访谈录1990-2018、坐牢家爸爸给女儿的80封信
+  交叉引用：sui-qianwan-2011-08-18-mainland-edition-of-prison-father-letters-published-with-small-cuts、book5-1998-08-07-finishes-zhili-ji-and-body-donation-note
+  来源：李敖访谈录1990-2018 / 059.2011《新闻晨报》专访李敖 / line 7
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/059.2011《新闻晨报》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2011-news-morning-post-renai-home-interview-prison-letters
 - 2011年 | 李敖写《顽童哲学家》
   精度：year；可靠度：confirmed；排序日期：2011-12-31
   摘要：《顽童哲学家》末署“2011年”。李敖借追影子、转圈圈与 Peter Pan 的意象，写自己理解中的“顽童哲学家”——不断追赶自己的那种人。
@@ -131106,21 +132133,60 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/552.八点方向.txt
   数据：data/timeline-events-seventh-book.json#book7-2011-publishes-i-dream-broken-so-i-awake-and-lists-eight-directions
-- 2011年 | 李敖应朱崇实之邀赴厦门大学演讲，并自评为生平最好一场
-  精度：year；可靠度：confirmed；排序日期：2011-12-31
-  摘要：《厦门大学》写，2011年李敖应朱崇实邀请赴厦门大学演讲，自称这是自己一生最好的一场演讲，比北大那场更激越。章中同时补出他因怕连累刘长乐而未事先告知此行，使厦门之行带有一层私谊与自我保护的意味。
-  人物：李敖、朱崇实、刘长乐、吴成典
-  地点：厦门大学、厦门
-  标签：厦门大学、朱崇实、演讲、刘长乐、大陆行
-  视图：大陆线、媒体线、演讲线
-  作品：李敖风流自传
-  交叉引用：book7-2011-03-31-receives-xiamen-university-honorary-professorship
-  来源：李敖风流自传 / 636.厦门大学 / line 5
-  补充来源：-
-  文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/636.厦门大学.txt
-  数据：data/timeline-events-seventh-book.json#book7-2011-xiamen-university-lecture-considered-best-of-life
 
 2012
+- 2012年4月20日星期五 | 在台北香格里拉饭店接受《外滩画报》访问，戴助听器并用随身匕首拆书
+  精度：day；可靠度：confirmed；排序日期：2012-04-20
+  摘要：2012年4月20日下午，李敖在台北敦化南路二段香格里拉饭店茶轩接受《外滩画报》访问。距离77岁生日还有5天，他穿白夹克、灰衬衫、红领带，提着最近在台湾出版的5本书进场；坐下后先花几分钟戴上为香港书展买的助听器，又从腰间取出美国产 Gerber 匕首划开新书塑封，边演示边说这是随身防身之物。访问结束到下午5点多，外面下雨，他仍坚持起身与记者告别。
+  人物：李敖
+  地点：台北、敦化南路二段香格里拉饭店茶轩
+  标签：外滩画报、香格里拉饭店、助听器、Gerber匕首、新书、77岁前夕
+  视图：访谈线、身体线、晚年线
+  作品：李敖访谈录1990-2018
+  交叉引用：dream-awake-2011-07-23-wears-new-hearing-aid-for-hong-kong-book-fair-speech、li-ao-fangtanlu-2012-01-moves-from-yangmingshan-to-jinlan-apartment
+  来源：李敖访谈录1990-2018 / 060.20120523《外滩画报》专访李敖 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/060.20120523《外滩画报》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2012-04-20-bund-shangri-la-interview-hearing-aid-knife
+- 2012年4月20日星期五 | 在香格里拉访谈现场规划八十岁推出《李敖大全集》后四十本和《李敖140》
+  精度：day；可靠度：confirmed；排序日期：2012-04-20
+  摘要：在台北香格里拉饭店接受《外滩画报》访问时，李敖把晚年写作计划说得很具体：他称《李敖大全集》已出40本、2800万字，等再过三年到80岁时，要把第41至80本一起推出，前后合计5000万字；凤凰电视台节目也要全部变成文字，微博文字则准备整理成《李敖140》。这类“打算”明确发生在2012年4月20日采访现场，地点和语境清楚。
+  人物：李敖
+  地点：台北、敦化南路二段香格里拉饭店茶轩
+  标签：李敖大全集、李敖140、微博、凤凰卫视、写作计划
+  视图：写作线、出版线、媒体线、晚年线
+  作品：李敖访谈录1990-2018、李敖大全集、李敖140
+  交叉引用：sui-qianwan-2011-05-17-starts-hello-li-ao-140-char-web-writing、book8-2012-publishes-only-selected-works-in-mainland
+  来源：李敖访谈录1990-2018 / 060.20120523《外滩画报》专访李敖 / line 245
+  补充来源：李敖访谈录1990-2018 / 061.20121010《成都商报》专访李敖 / line 51；说明：《成都商报》访问补充李敖2012年10月仍在同时写十本书，并计划两年零八个月后推出80本《李敖大全集》。；李敖访谈录1990-2018 / 062.20121010《华西都市报》专访李敖 / line 33；说明：《华西都市报》访问补充《李敖大全集》前40本已出、30本写好、10本正在写，以及微博停更后的文字准备日后再发。；李敖访谈录1990-2018 / 063.20121010《长江日报》专访李敖 / line 33；说明：《长江日报》书面访问补充80本大全集、纸质全集和未完成十本计划。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/060.20120523《外滩画报》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2012-04-20-plans-complete-works-and-li-ao-140
+- 2012年10月10日前后 | 《李敖50年唯一自选集》推出后密集接受内地媒体书面、邮件和录音访问
+  精度：day；可靠度：confirmed；排序日期：2012-10-10
+  摘要：《李敖50年唯一自选集》推出后，李敖在2012年10月前后密集接受《成都商报》《华西都市报》《长江日报》等内地媒体访问；方式包括邮件专访、书面回复，以及出版方把问题带到台北书房后由李敖录音回答。他把这套自选集说成自己50年来第一次真正“选”，是上半生写作精华和水面上的八分之一，同时又借访问继续谈微博代发、李戡北大生活、刘晓庆诗作、80岁前推出80本《李敖大全集》的计划。
+  人物：李敖、李戡、刘晓庆、陈文茜
+  地点：台北书房、中国大陆
+  标签：李敖50年唯一自选集、成都商报、华西都市报、长江日报、书面访问、录音访问
+  视图：访谈线、出版线、写作线、家庭线
+  作品：李敖访谈录1990-2018、李敖50年唯一自选集、李敖大全集、李敖情书集
+  交叉引用：book8-2012-publishes-only-selected-works-in-mainland、li-ao-fangtanlu-2012-04-20-plans-complete-works-and-li-ao-140
+  来源：李敖访谈录1990-2018 / 061.20121010《成都商报》专访李敖 / line 15
+  补充来源：李敖访谈录1990-2018 / 062.20121010《华西都市报》专访李敖 / line 11；说明：《华西都市报》经出版方把问题带到台北书房，由李敖录音回答自选集、眼睛手术、日课、微博和李戡。；李敖访谈录1990-2018 / 063.20121010《长江日报》专访李敖 / line 17；说明：《长江日报》书面采访中李敖谈诺奖、《北京法源寺》、自选集、大全集、遗体捐赠和李戡。；李敖访谈录1990-2018 / 064.20121028《长春晚报》专访李敖 / line 7；说明：《长春晚报》访问补充自选集首批上市书目、微博被删停更和遗体捐赠。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/061.20121010《成都商报》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2012-10-10-selected-works-media-interviews
+- 2012年1月前后 | 因心律不齐搬离阳明山书房，住回金兰大厦
+  精度：month；可靠度：confirmed；排序日期：2012-01-20
+  摘要：《外滩画报》2012年4月20日访问时记录，李敖三个月前搬离住了多年的阳明山书房，住回敦化南路一段金兰大厦。他解释自己心脏不太好、出现心律不齐，半夜若需急救住山下更方便；搬回旧公寓后仍选择独居，每周回家一次，与家人待一整天。
+  人物：李敖
+  地点：阳明山、台北敦化南路一段、金兰大厦
+  标签：阳明山书房、金兰大厦、心律不齐、独居、晚年生活
+  视图：日常线、身体线、晚年线
+  作品：李敖访谈录1990-2018
+  交叉引用：sui-qianwan-2011-09-27-records-six-day-mountain-routine、sui-qianwan-2013-07-12-sells-mountain-study-and-moves-last-mementos、li-ao-fangtanlu-2014-08-28-southern-weekend-jinlan-chinese-interview
+  来源：李敖访谈录1990-2018 / 060.20120523《外滩画报》专访李敖 / line 13
+  补充来源：李敖访谈录1990-2018 / 070.20140828《南方周末》专访李敖 / line 7；说明：《南方周末》访问补充李敖2014年在台北敦南大道金兰大厦书房的日常：自己擦地、整理资料、每天待14小时。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/060.20120523《外滩画报》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2012-01-moves-from-yangmingshan-to-jinlan-apartment
 - 2012年春季 | 信义书局林家成送来杨西崑旧藏十五箱书
   精度：season；可靠度：confirmed；排序日期：2012-03-01
   摘要：《2013年1月》回述，杨西崑退休后曾到李敖家请教，死后故居转手；2012年春，信义书局林家成送给李敖十五箱书，李敖打开后见到“杨西崑印”，等于隔街旧交的藏书转入自己的书房。
@@ -131134,6 +132200,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/005.虽千万人，李敖往矣/007.2013年1月.txt
   数据：data/timeline-events-sui-qianwan-li-ao-wangyi.json#sui-qianwan-2012-spring-receives-yang-xikun-books-from-xinyi-bookstore
+- 2012年7月前后 | 白内障小手术后继续独居书房写作
+  精度：month；可靠度：confirmed；排序日期：2012-07-31
+  摘要：《华西都市报》访问前，陈文茜曾在微博透露李敖因白内障看诊并开刀；李敖在录音回答中把它称为“不碍事”的小手术，说年纪大了眼睛有毛病正常，身体还不错，但也要当心。术后他的日常仍是一个人住在书房，早上六点起床，自己整理书房，除吃饭外一整天都在写，正在同时写九部作品。
+  人物：李敖、陈文茜
+  地点：台北书房
+  标签：白内障、眼睛手术、书房、独居、写作日课
+  视图：身体线、日常线、写作线、晚年线
+  作品：李敖访谈录1990-2018、李敖大全集
+  交叉引用：li-ao-fangtanlu-2012-10-10-selected-works-media-interviews
+  来源：李敖访谈录1990-2018 / 062.20121010《华西都市报》专访李敖 / line 17
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/062.20121010《华西都市报》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2012-07-cataract-surgery-and-study-routine
 - 2012年 | 田沁鑫在李敖书房与李敖讨论改编《北京法源寺》，李敖授权舞台化
   精度：year；可靠度：reported-by-third-party；排序日期：2012-12-31
   摘要：《北京青年报》2018年报道回溯，田沁鑫2012年因《风华绝代》赴台北时经刘晓庆首次见到李敖；在李敖书房里，两人讨论哪部作品适合改编，田沁鑫提出《法源寺》，李敖认为语言密度高、适合对话。报道又称田沁鑫随后六次赴台北与李敖见面，李敖赠她万宝龙钢笔和印章，签约时几乎不审合同，只电话询问能否保留康有为关于历史必然性的观点。此条为第三方报道回溯，不是李敖本人自述。
@@ -131149,15 +132228,15 @@
   数据：data/timeline-events-beijing-fayuansi.json#beijing-fayuansi-2012-tian-qinxin-adaptation-study-meetings
 - 2012年 | 在内地出版《李敖50年唯一自选集》
   精度：year；可靠度：confirmed；排序日期：2012-12-31
-  摘要：《李敖五十年表》记，李敖在2012年全年没发微博，但在内地出版《李敖50年唯一自选集》。这条补出他在微博沉默期仍持续通过出版进入公共传播场的一根作品线。
+  摘要：《李敖五十年表》记，李敖在2012年全年没发微博，但在内地出版《李敖50年唯一自选集》。2012年10月多家媒体访问进一步补出，这套书由李敖本人亲自选定，以《传统下的独白》《李敖情书集》等组成，首批上市包括《传统下的独白》《为自由招魂》《北京法源寺》《李敖情书集》《蒋介石评传》《胡适研究》等；李敖把它说成上半生写作精华、水面上的八分之一，也借此重新进入大陆出版公共场。
   人物：李敖
   地点：中国大陆
   标签：李敖50年唯一自选集、内地出版、自选集
   视图：出版线、大陆线、生平线
   作品：李敖50年唯一自选集、李敖相关
-  交叉引用：-
+  交叉引用：li-ao-fangtanlu-2012-10-10-selected-works-media-interviews
   来源：李敖相关 / 001.李敖五十年表 / line 181
-  补充来源：-
+  补充来源：李敖访谈录1990-2018 / 061.20121010《成都商报》专访李敖 / line 15；说明：《成都商报》访问补充李敖亲谈《李敖50年唯一自选集》的选本痛苦和意义。；李敖访谈录1990-2018 / 062.20121010《华西都市报》专访李敖 / line 7；说明：《华西都市报》补充自选集由李敖亲自选定、包含《传统下的独白》《李敖情书集》等。；李敖访谈录1990-2018 / 064.20121028《长春晚报》专访李敖 / line 7；说明：《长春晚报》补充自选集13部图书分类和首批上市书目。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/008.李敖相关/001.李敖五十年表.txt
   数据：data/timeline-events-eighth-book.json#book8-2012-publishes-only-selected-works-in-mainland
 
@@ -131170,9 +132249,9 @@
   标签：新浪微博、环球人物杂志、专访、重新发微博
   视图：网络线、媒体线、生平线
   作品：环球人物杂志、新浪微博、李敖相关
-  交叉引用：-
+  交叉引用：li-ao-fangtanlu-2013-07-30-global-people-interview-after-study-sale
   来源：李敖相关 / 001.李敖五十年表 / line 183
-  补充来源：虽千万人，李敖往矣 / 007.2013年1月 / line 3；说明：《虽千万人，李敖往矣》2013年第一则从1月13日起，补证其重新进入微博写作的起点。
+  补充来源：虽千万人，李敖往矣 / 007.2013年1月 / line 3；说明：《虽千万人，李敖往矣》2013年第一则从1月13日起，补证其重新进入微博写作的起点。；李敖访谈录1990-2018 / 065.20130730《环球人物杂志》专访李敖 / line 43；说明：《环球人物杂志》2013年7月访问补充李敖微博前后加起来约九个月、粉丝突破五百万，并解释以微博和媒体争取让言论被听到。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/008.李敖相关/001.李敖五十年表.txt
   数据：data/timeline-events-eighth-book.json#book8-2013-01-13-resumes-weibo-and-accepts-global-people-interview
 - 2013年1月24日星期四 | 陈舜政带来《樊江关》剧本答李敖戏文疑问
@@ -131437,15 +132516,15 @@
   数据：data/timeline-events-sui-qianwan-li-ao-wangyi.json#sui-qianwan-2013-06-27-says-dream-awake-banned-after-yangwei-america-conflict
 - 2013年7月12日星期五 | 李敖卖掉山上书房并搬回最后纪念品
   精度：day；可靠度：confirmed；排序日期：2013-07-12
-  摘要：《2013年7月》写，李敖前一天卖掉山上的书房，次日与小屯上山搬回最后纪念品；十七年的山居清供自此成为过去式，他打扫干净后望了最后一眼。
+  摘要：《2013年7月》写，李敖前一天卖掉山上的书房，次日与小屯上山搬回最后纪念品；十七年的山居清供自此成为过去式，他打扫干净后望了最后一眼。随后《环球人物杂志》访问又补出，采访前他刚把书房藏书一半搬到仁爱路家里，另一半搬到敦化南路书房，并自称很会整理东西。
   人物：李敖、小屯
   地点：阳明山、山上书房
   标签：虽千万人，李敖往矣、山上书房、小屯、阳明山、搬迁、十七年山居
   视图：居所线、书房线、晚年线
   作品：虽千万人，李敖往矣
-  交叉引用：-
+  交叉引用：li-ao-fangtanlu-2013-07-30-global-people-interview-after-study-sale
   来源：虽千万人，李敖往矣 / 013.2013年7月 / line 73
-  补充来源：-
+  补充来源：李敖访谈录1990-2018 / 065.20130730《环球人物杂志》专访李敖 / line 9；说明：《环球人物杂志》访问补充李敖卖掉阳明山书房后分搬藏书到仁爱路家里和敦化南路书房。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/005.虽千万人，李敖往矣/013.2013年7月.txt
   数据：data/timeline-events-sui-qianwan-li-ao-wangyi.json#sui-qianwan-2013-07-12-sells-mountain-study-and-moves-last-mementos
 - 2013年7月15日星期一 | “哈啰李敖”粉丝达到五百万
@@ -131458,7 +132537,7 @@
   作品：虽千万人，李敖往矣、哈啰李敖
   交叉引用：sui-qianwan-2013-03-13-hello-li-ao-nears-four-million-followers
   来源：虽千万人，李敖往矣 / 013.2013年7月 / line 97
-  补充来源：-
+  补充来源：李敖访谈录1990-2018 / 065.20130730《环球人物杂志》专访李敖 / line 43；说明：《环球人物杂志》访问补充记者问及7月15日微博粉丝突破五百万，李敖回应用《阳痿美国》/《审判美国》作为证据链例子。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/005.虽千万人，李敖往矣/013.2013年7月.txt
   数据：data/timeline-events-sui-qianwan-li-ao-wangyi.json#sui-qianwan-2013-07-15-hello-li-ao-reaches-five-million-followers
 - 2013年7月18日星期四 | 胡镇埔私下向李敖谈反对买美国武器后被撤职
@@ -131484,7 +132563,7 @@
   作品：虽千万人，李敖往矣、哈啰李敖
   交叉引用：sui-qianwan-2011-05-17-starts-hello-li-ao-140-char-web-writing
   来源：虽千万人，李敖往矣 / 013.2013年7月 / line 115
-  补充来源：-
+  补充来源：李敖访谈录1990-2018 / 065.20130730《环球人物杂志》专访李敖 / line 59；说明：《环球人物杂志》访问中李敖说明每天写140字只需20分钟，微博以外大部分时间在写小说。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/005.虽千万人，李敖往矣/013.2013年7月.txt
   数据：data/timeline-events-sui-qianwan-li-ao-wangyi.json#sui-qianwan-2013-07-19-describes-nightly-820-sina-routine-and-censorship
 - 2013年7月29日星期一 | “哈啰李敖”被新浪以社区管理规定拒发
@@ -131500,6 +132579,19 @@
   补充来源：虽千万人，李敖往矣 / 013.2013年7月 / line 181；说明：次日继续以曹操、刘表和新浪作比，回应拒发。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/005.虽千万人，李敖往矣/013.2013年7月.txt
   数据：data/timeline-events-sui-qianwan-li-ao-wangyi.json#sui-qianwan-2013-07-29-hello-li-ao-rejected-by-sina-community-rules
+- 2013年7月30日 | 卖掉阳明山书房后接受《环球人物》专访，谈《我梦碎所以我梦醒》和微博发声
+  精度：day；可靠度：confirmed；排序日期：2013-07-30
+  摘要：《环球人物杂志》访问李敖时，他这两年较少受访、少上电视，刚卖掉阳明山书房，把书一半搬到仁爱路家里、一半搬到敦化南路书房。访问中李敖谈新作《我梦碎所以我梦醒》、身体与饮食、随身小刀、微博粉丝刚过五百万和“言论自由必须让人听到”的发声逻辑；他又说自己每天在书房六张桌子间游走，各桌处理不同文章，微博以外大部分时间仍在写小说。
+  人物：李敖
+  地点：阳明山、仁爱路家中、敦化南路书房、台北
+  标签：环球人物杂志、阳明山书房、敦化南路书房、仁爱路、微博、我梦碎所以我梦醒
+  视图：访谈线、书房线、网络线、写作线
+  作品：李敖访谈录1990-2018、我梦碎所以我梦醒、阳痿美国、审判美国
+  交叉引用：sui-qianwan-2013-07-12-sells-mountain-study-and-moves-last-mementos、sui-qianwan-2013-07-15-hello-li-ao-reaches-five-million-followers、book8-2013-01-13-resumes-weibo-and-accepts-global-people-interview
+  来源：李敖访谈录1990-2018 / 065.20130730《环球人物杂志》专访李敖 / line 9
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/065.20130730《环球人物杂志》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2013-07-30-global-people-interview-after-study-sale
 - 2013年8月3日星期六 | 潘毓刚转来伪作《李敖评毛泽东》，李敖辨为冒名
   精度：day；可靠度：confirmed；排序日期：2013-08-03
   摘要：《2013年8月》写，潘毓刚传来所谓《李敖评毛泽东》，小屯打印九页转给李敖；李敖看后认定是捏造冒充，称文章写得太烂，自己“一闻就知道”。
@@ -131770,11 +132862,24 @@
   标签：虽千万人，李敖往矣、李戡、台湾学运、上网发表、李戡戡乱记、国民党员毛泽东
   视图：家庭线、网络线、政治线
   作品：虽千万人，李敖往矣、李戡戡乱记、国民党员毛泽东
-  交叉引用：-
+  交叉引用：li-ao-fangtanlu-2014-03-31-asia-weekly-sunflower-interview、li-ao-fangtanlu-2014-04-09-haixia-phone-interview-sunflower-withdrawal
   来源：虽千万人，李敖往矣 / 021.2013年3月 / line 181
-  补充来源：-
+  补充来源：李敖访谈录1990-2018 / 066.20140410《海峡导报》专访李敖 / line 5；说明：《海峡导报》电话访问补充李敖本人也在太阳花学运退场前夕公开评论学生水平和两岸定位。；李敖访谈录1990-2018 / 067.20140413《亚洲周刊》专访李敖 / line 7；说明：《亚洲周刊》访问补充李敖在3月31日上午长谈反服贸学运，并特别点出台湾学生缺少敢作敢当的英雄。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/005.虽千万人，李敖往矣/021.2013年3月.txt
   数据：data/timeline-events-sui-qianwan-li-ao-wangyi.json#sui-qianwan-2014-03-30-records-li-kan-posts-taiwan-student-movement-analysis
+- 2014年3月31日上午 | 接受《亚洲周刊》访问，痛批台湾反服贸学运
+  精度：day；可靠度：confirmed；排序日期：2014-03-31
+  摘要：反服贸学运延烧期间，李敖在3月27日晚列出七点判断，认为学运证明台湾民主全是假、青年对祖国无向心力、两岸台湾专家外行等；3月31日上午，他接受《亚洲周刊》访问，围绕学生不敢面对中国问题、马英九团队软弱、服贸背后的美国全球化和台湾国会瘫痪展开长谈。这场访问是他在太阳花学运高峰期的一次集中公开判断。
+  人物：李敖、马英九、王金平、陈独秀、谢聪敏
+  地点：台湾、立法院
+  标签：亚洲周刊、太阳花学运、反服贸、台湾政治、马英九
+  视图：访谈线、政治线、两岸线
+  作品：李敖访谈录1990-2018
+  交叉引用：sui-qianwan-2014-03-30-records-li-kan-posts-taiwan-student-movement-analysis
+  来源：李敖访谈录1990-2018 / 067.20140413《亚洲周刊》专访李敖 / line 7
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/067.20140413《亚洲周刊》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2014-03-31-asia-weekly-sunflower-interview
 - 2014年3月31日星期一 | 李敖在眼镜店外摔倒伤到左膝
   精度：day；可靠度：confirmed；排序日期：2014-03-31
   摘要：《2014年3月》写，眼镜店送李敖一瓶矿泉水，他出门失手让水瓶滚地，冲去捡时没看到台阶，一跤摔得不轻，左膝出血、裤子也破了；随后坐捷运回家，还和小屯拿对面女孩的破膝裤开玩笑。
@@ -131801,6 +132906,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/005.虽千万人，李敖往矣/022.2014年4月.txt
   数据：data/timeline-events-sui-qianwan-li-ao-wangyi.json#sui-qianwan-2014-04-07-sina-converts-jiuzhou-line-to-jiuzhoudao
+- 2014年4月9日下午 | 在台北家中接《海峡导报》电话，评论太阳花学运退场
+  精度：day；可靠度：confirmed；排序日期：2014-04-09
+  摘要：《海峡导报》报道，台湾反服贸学生将于4月10日从“立法院”撤出前一天下午，记者独家电话采访在台北家中的李敖。李敖把学生退场解释为美国对民进党翻脸，并认为背后有北京给华盛顿压力；他又批评马英九软弱、王金平“收割”，称学运证明台湾“假民主”，最后判断马英九、民进党和学生都不是赢家。
+  人物：李敖、马英九、王金平、金溥聪、赖清德
+  地点：台北家中、台湾立法院、台湾
+  标签：海峡导报、电话访问、台北家中、太阳花学运、反服贸、退场
+  视图：访谈线、政治线、两岸线
+  作品：李敖访谈录1990-2018
+  交叉引用：li-ao-fangtanlu-2014-03-31-asia-weekly-sunflower-interview、sui-qianwan-2014-03-30-records-li-kan-posts-taiwan-student-movement-analysis
+  来源：李敖访谈录1990-2018 / 066.20140410《海峡导报》专访李敖 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/066.20140410《海峡导报》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2014-04-09-haixia-phone-interview-sunflower-withdrawal
 - 2014年4月25日星期五 | 赖岳忠近距为李敖七十九岁祝寿
   精度：day；可靠度：confirmed；排序日期：2014-04-25
   摘要：《2014年4月》写，李敖住台北，方圆五百公尺以内赖岳忠首当其冲，一切“唯赖是赖”；当天李敖七十九岁，赖岳忠近距离为他祝寿。
@@ -131876,9 +132994,22 @@
   作品：虽千万人，李敖往矣、国民党员毛泽东
   交叉引用：-
   来源：虽千万人，李敖往矣 / 024.2014年6月 / line 85
-  补充来源：虽千万人，李敖往矣 / 024.2014年6月 / line 91；说明：翌日继续说明李戡戴口罩与手套深入私人和国民党党史馆秘藏档案。
+  补充来源：虽千万人，李敖往矣 / 024.2014年6月 / line 91；说明：翌日继续说明李戡戴口罩与手套深入私人和国民党党史馆秘藏档案。；李敖访谈录1990-2018 / 069.20140728《澎湃新闻网》李敖、李戡专题 / line 43；说明：《澎湃新闻网》专题补充李戡《国民党员毛泽东》的史料来源包括李敖收藏的国民党内部会议记录，并说明此书先在香港出版。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/005.虽千万人，李敖往矣/024.2014年6月.txt
   数据：data/timeline-events-sui-qianwan-li-ao-wangyi.json#sui-qianwan-2014-06-15-li-kan-kmt-member-mao-to-debut-at-hong-kong-book-fair
+- 2014年6月16日 | 《半岛都市报》刊出李敖“混世宝典”三部曲专题
+  精度：day；可靠度：confirmed；排序日期：2014-06-16
+  摘要：《半岛都市报》专题称，80岁的李敖近日再出“混世宝典”三部曲：《李敖有种：活着你就得有种》《李敖有趣：活着你就得有趣》《李敖有料：活着你就得有料》。这套书主要面向年轻人重新编录，围绕“不信邪”“有情趣”“拼实力”三个主题；专题摘出李敖关于年轻人大脑要起飞、分手要趁早、消灭负能量等说法，作为他晚年把旧文章重新包装给年轻读者的出版节点。
+  人物：李敖、宋涛涛
+  地点：中国大陆
+  标签：半岛都市报、混世宝典、李敖有种、李敖有趣、李敖有料、年轻人
+  视图：出版线、媒体线、晚年线
+  作品：李敖访谈录1990-2018、李敖有种：活着你就得有种、李敖有趣：活着你就得有趣、李敖有料：活着你就得有料
+  交叉引用：book8-2012-publishes-only-selected-works-in-mainland
+  来源：李敖访谈录1990-2018 / 068.20140616《半岛都市报》李敖专题 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/068.20140616《半岛都市报》李敖专题.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2014-06-16-bandao-hunshi-baodian-trilogy
 - 2014年6月21日星期六 | 李敖接受三立电视台一个半小时专访
   精度：day；可靠度：confirmed；排序日期：2014-06-21
   摘要：《2014年6月》写，绿色的三立电视台为收视率破格邀请李敖做专访；李敖在一个半小时中“言人所不敢言”，谈台湾与祖国六十五年来政策疏离等问题。
@@ -131902,7 +133033,7 @@
   作品：虽千万人，李敖往矣、国民党员毛泽东、亚洲周刊
   交叉引用：book8-2014-07-16-speaks-with-li-kan-at-hong-kong-book-fair
   来源：虽千万人，李敖往矣 / 025.2014年7月 / line 25
-  补充来源：-
+  补充来源：李敖访谈录1990-2018 / 069.20140728《澎湃新闻网》李敖、李戡专题 / line 5；说明：《澎湃新闻网》专题补充7月16日李戡在香港出席书展活动，推出关于国共合作历史的新书。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/005.虽千万人，李敖往矣/025.2014年7月.txt
   数据：data/timeline-events-sui-qianwan-li-ao-wangyi.json#sui-qianwan-2014-07-04-decides-to-attend-li-kan-book-event-at-hong-kong-book-fair
 - 2014年7月12日星期六 | 李敖记录李戡《国民党员毛泽东》在香港上市
@@ -131915,7 +133046,7 @@
   作品：虽千万人，李敖往矣、国民党员毛泽东
   交叉引用：sui-qianwan-2014-06-15-li-kan-kmt-member-mao-to-debut-at-hong-kong-book-fair
   来源：虽千万人，李敖往矣 / 025.2014年7月 / line 73
-  补充来源：-
+  补充来源：李敖访谈录1990-2018 / 069.20140728《澎湃新闻网》李敖、李戡专题 / line 45；说明：《澎湃新闻网》专题补充《国民党员毛泽东》的史料来源、香港出版状态和李敖收藏文献的作用。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/005.虽千万人，李敖往矣/025.2014年7月.txt
   数据：data/timeline-events-sui-qianwan-li-ao-wangyi.json#sui-qianwan-2014-07-12-records-li-kan-kmt-member-mao-listed-in-hong-kong
 - 2014年7月16日星期三 | 与李戡在香港书展演讲
@@ -131926,9 +133057,9 @@
   标签：香港书展、李戡、父子同台、演讲
   视图：演讲线、家庭线、海外线
   作品：李敖相关
-  交叉引用：-
+  交叉引用：sui-qianwan-2014-07-04-decides-to-attend-li-kan-book-event-at-hong-kong-book-fair
   来源：李敖相关 / 001.李敖五十年表 / line 185
-  补充来源：虽千万人，李敖往矣 / 025.2014年7月 / line 25；说明：会前说明李戡新书在香港书展上市，李敖决定应《亚洲周刊》江迅之邀参加发表会。；虽千万人，李敖往矣 / 025.2014年7月 / line 139；说明：会后在港第三天到红毛坟场看杨衢云墓，补足香港行程侧面。
+  补充来源：虽千万人，李敖往矣 / 025.2014年7月 / line 25；说明：会前说明李戡新书在香港书展上市，李敖决定应《亚洲周刊》江迅之邀参加发表会。；虽千万人，李敖往矣 / 025.2014年7月 / line 139；说明：会后在港第三天到红毛坟场看杨衢云墓，补足香港行程侧面。；李敖访谈录1990-2018 / 069.20140728《澎湃新闻网》李敖、李戡专题 / line 5；说明：《澎湃新闻网》专题补充李戡7月16日出席香港书展活动并推出第二本新书，旁及李敖父子同场的背景。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/008.李敖相关/001.李敖五十年表.txt
   数据：data/timeline-events-eighth-book.json#book8-2014-07-16-speaks-with-li-kan-at-hong-kong-book-fair
 - 2014年7月23日星期三 | 李敖在香港第三天到红毛坟场看杨衢云墓
@@ -131983,6 +133114,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/005.虽千万人，李敖往矣/026.2014年8月.txt
   数据：data/timeline-events-sui-qianwan-li-ao-wangyi.json#sui-qianwan-2014-08-23-visits-als-stricken-wu-zhangjiong-in-hospital
+- 2014年8月28日 | 在金兰大厦书房接受《南方周末》访问，谈《我知道》和抢救中文
+  精度：day；可靠度：confirmed；排序日期：2014-08-28
+  摘要：《南方周末》访问时，李敖坐在台北敦南大道金兰大厦两百多平米书房里，向记者建议把填字节目《我知道》改名为《你知道我知道》，并把这个节目想成让有趣中文起死回生的机会。他每天一早坐进书房，自己擦地、整理书和资料，常在书房待14小时；访谈中他从《康熙字典》、鲁迅翻译、欧阳修炼字、王安石“绿”字、简体字和电脑词库一路谈到《最美句典》，说若能由全中国人一起造句、再由他讲评，是抢救中文的最后机会。这个“计划”发生在金兰大厦书房访问现场，地点和语境明确。
+  人物：李敖、袁蕾、鲁迅、欧阳修、王安石、胡适
+  地点：台北、敦南大道金兰大厦书房
+  标签：南方周末、金兰大厦、我知道、你知道我知道、最美句典、中文、句典
+  视图：访谈线、写作线、文化线、书房线
+  作品：李敖访谈录1990-2018、我知道、最美句典、李敖中文大句典
+  交叉引用：li-ao-zawenji-2008-09-06-writes-chinese-sentence-dictionary-plan、li-ao-zawenji-1999-09-01-yanglan-interview-chinese-sentence-dictionary、li-ao-fangtanlu-2012-01-moves-from-yangmingshan-to-jinlan-apartment
+  来源：李敖访谈录1990-2018 / 070.20140828《南方周末》专访李敖 / line 7
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/070.20140828《南方周末》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2014-08-28-southern-weekend-jinlan-chinese-interview
 - 2014年9月4日星期四 | 李敖称书被查禁拒售后“我就微博啦”
   精度：day；可靠度：confirmed；排序日期：2014-09-04
   摘要：《2014年9月》写，李敖一生出书破百，被国民党查禁九十六种，共产党接力查禁后已过三位数；除被禁外还有书摊拒售情事。面对查禁、拒售和发行资本垄断，他把出口转到微博。
@@ -132193,6 +133337,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/005.虽千万人，李敖往矣/033.2015年3月.txt
   数据：data/timeline-events-sui-qianwan-li-ao-wangyi.json#sui-qianwan-2015-03-25-li-kan-finds-li-dingyi-book-with-intact-preface-at-uw
+- 2015年4月4日下午，台北敦化南路家中 | 李敖在敦化南路家中接受《海峡导报》采访，谈80岁新书和微博
+  精度：day；可靠度：confirmed；排序日期：2015-04-04
+  摘要：4月4日下午，《海峡导报》驻台记者到台北市敦化南路李敖家中拜访，并把此前多次专访李敖父子的报纸作为生日礼物送给他。李敖感谢长期关注，受访一个多小时；采访中他说自己每天坚持写一条微博、写满140字且粉丝已一千多万，4月25日80岁生日将出《李敖风流自传》和《虽千万人，李敖往矣》两本书庆生。记者手记又记，李敖原以正在出书为由婉拒，听说记者将返厦门后答应受访，还在门外贴“李”字、递水、延长访谈并合影。
+  人物：李敖、吴生林、李戡
+  地点：台北、敦化南路李敖家中、厦门
+  标签：海峡导报、台北家中、80岁生日、微博、李敖风流自传、虽千万人，李敖往矣
+  视图：访谈线、出版线、微博线、晚年线
+  作品：李敖访谈录1990-2018、李敖风流自传、虽千万人，李敖往矣
+  交叉引用：book7-2015-early-turns-hello-li-ao-into-full-book-though-ten-million-followers-milestone、sui-qianwan-2015-04-25-fengliu-zizhuan-published-in-taiwan
+  来源：李敖访谈录1990-2018 / 071.20150407《海峡导报》专访李敖 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/071.20150407《海峡导报》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2015-04-04-haixia-daobao-home-interview-before-80th-birthday
 - 2015年4月19日星期日 | 李敖在八十岁生日前逐一向身体部位祝寿
   精度：day；可靠度：confirmed；排序日期：2015-04-19
   摘要：《2015年4月》“个别祝寿”写，2015年4月19日，李敖把即将到来的八十岁生日拆成身体各部位来祝贺：眼睛、鼻子、耳朵、嘴巴一一点名，最后又以玩笑方式面对男性身体和衰老。
@@ -132240,9 +133397,9 @@
   标签：李敖风流自传、出版、台湾、八十岁、无大陆版
   视图：出版线、著作线、晚年线
   作品：李敖风流自传、虽千万人，李敖往矣
-  交叉引用：book7-2014-12-17-records-diary-turning-toward-writing-fengliu-zizhuan、book7-2015-early-turns-hello-li-ao-into-full-book-though-ten-million-followers-milestone
+  交叉引用：book7-2014-12-17-records-diary-turning-toward-writing-fengliu-zizhuan、book7-2015-early-turns-hello-li-ao-into-full-book-though-ten-million-followers-milestone、li-ao-fangtanlu-2015-04-04-haixia-daobao-home-interview-before-80th-birthday、li-ao-fangtanlu-2015-07-30-ctv-interview-love-marriage-and-fengliu-zizhuan
   来源：虽千万人，李敖往矣 / 035.2015年5月 / line 13
-  补充来源：虽千万人，李敖往矣 / 033.2015年3月 / line 109；说明：3月29日预告4月25日将出版《李敖风流自传》庆祝八十岁，并说明无大陆版。
+  补充来源：虽千万人，李敖往矣 / 033.2015年3月 / line 109；说明：3月29日预告4月25日将出版《李敖风流自传》庆祝八十岁，并说明无大陆版。；李敖访谈录1990-2018 / 071.20150407《海峡导报》专访李敖 / line 49；说明：《海峡导报》访问中李敖说明《李敖风流自传》是80岁生日新书之一。；李敖访谈录1990-2018 / 072.20150730中视专访李敖 / line 15；说明：中视专访报道补充80岁李敖为自己写《李敖风流自传》。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/005.虽千万人，李敖往矣/035.2015年5月.txt
   数据：data/timeline-events-sui-qianwan-li-ao-wangyi.json#sui-qianwan-2015-04-25-fengliu-zizhuan-published-in-taiwan
 - 2015年5月1日星期五 | 张小燕再邀李敖上节目，郑乃嘉因附加第三人条件拒绝
@@ -132297,6 +133454,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/005.虽千万人，李敖往矣/037.2015年7月.txt
   数据：data/timeline-events-sui-qianwan-li-ao-wangyi.json#sui-qianwan-2015-07-29-after-eighty-self-describes-health
+- 2015年7月30日，中视专访报道中 | 李敖接受中视专访，谈失恋轻生、胡茵梦婚姻和《风流自传》
+  精度：day；可靠度：confirmed；排序日期：2015-07-30
+  摘要：台湾媒体7月30日报道中视专访李敖，80岁的他在节目中谈初恋受阻后曾在宿舍服药轻生，后来改变爱情观；又回忆自己在公车站搭讪女友、与现任太太的姻缘，以及和胡茵梦婚姻、林青霞、洪秀柱等旧事。节目还以《李敖风流自传》为线索，引出他小时候胆小，上学时要佣人陪在教室外，并在节目中回忆儿时梦魇经验。
+  人物：李敖、胡茵梦、林青霞、洪秀柱、刘忆如
+  地点：台湾、中视节目、宿舍、公车站
+  标签：中视、电视专访、李敖风流自传、初恋、胡茵梦、梦魇
+  视图：访谈线、情感线、出版线、晚年线
+  作品：李敖访谈录1990-2018、李敖风流自传、只爱一点点
+  交叉引用：sui-qianwan-2015-04-25-fengliu-zizhuan-published-in-taiwan
+  来源：李敖访谈录1990-2018 / 072.20150730中视专访李敖 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/072.20150730中视专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2015-07-30-ctv-interview-love-marriage-and-fengliu-zizhuan
 - 2015年9月11日星期五 | 陶冬冬听说李敖一再生病后飞来看他
   精度：day；可靠度：confirmed；排序日期：2015-09-11
   摘要：《2015年9月》“画家的茫然”写，2015年9月11日，李敖记好友画家陶冬冬听说自己一再生病，特地飞来看他；李敖说他由“冬冬”的名字联想到画家与乱世中的遁世。
@@ -132474,9 +133644,9 @@
   标签：哈囉李敖、虽千万人，李敖往矣、微博、粉丝破千万、2015年初
   视图：写作线、媒体线、晚年线
   作品：虽千万人，李敖往矣、李敖风流自传
-  交叉引用：-
+  交叉引用：li-ao-fangtanlu-2015-04-04-haixia-daobao-home-interview-before-80th-birthday
   来源：李敖风流自传 / 638.“哈囉李敖” / line 3
-  补充来源：外部日期校对 / 李敖推出两本新书庆祝80岁大寿 / line 1；说明：2015-04-24 报道确认《虽千万人，李敖往矣》与《李敖风流自传》同场作为80岁新书发布，可用来校定本章所称“今年初”已进入2015年出书阶段。；虽千万人，李敖往矣 / 《虽千万人，李敖往矣》自序 / line 3；说明：李敖自序明说粉丝已千万，决定出版《虽千万人，李敖往矣》足本一书，欢庆80岁。；虽千万人，李敖往矣 / 《虽千万人，李敖往矣》自序 / line 5；说明：自序补充“哈囉李敖”开笔时已预告将来在岛上出未删完整版，现在完整版兑现。；虽千万人，李敖往矣 / 《虽千万人，李敖往矣》自序 / line 9；说明：自序概括每日一则、写了30个月，除了2012全年缺货外迄未小休。；虽千万人，李敖往矣 / 031.2015年1月 / line 91；说明：2015年1月14日“哈啰李敖”粉丝破千万，是“粉丝千万”里程碑的日级来源。；虽千万人，李敖往矣 / 033.2015年3月 / line 25；说明：李敖明说55年来文字被两岸封杀，4年前由李戡点化开始140字微博；粉丝千万后决定出版《虽千万人，李敖往矣》足本欢庆80岁。；虽千万人，李敖往矣 / 033.2015年3月 / line 29；说明：李敖说明开笔时预告的岛上未删完整版已经兑现。
+  补充来源：外部日期校对 / 李敖推出两本新书庆祝80岁大寿 / line 1；说明：2015-04-24 报道确认《虽千万人，李敖往矣》与《李敖风流自传》同场作为80岁新书发布，可用来校定本章所称“今年初”已进入2015年出书阶段。；虽千万人，李敖往矣 / 《虽千万人，李敖往矣》自序 / line 3；说明：李敖自序明说粉丝已千万，决定出版《虽千万人，李敖往矣》足本一书，欢庆80岁。；虽千万人，李敖往矣 / 《虽千万人，李敖往矣》自序 / line 5；说明：自序补充“哈囉李敖”开笔时已预告将来在岛上出未删完整版，现在完整版兑现。；虽千万人，李敖往矣 / 《虽千万人，李敖往矣》自序 / line 9；说明：自序概括每日一则、写了30个月，除了2012全年缺货外迄未小休。；虽千万人，李敖往矣 / 031.2015年1月 / line 91；说明：2015年1月14日“哈啰李敖”粉丝破千万，是“粉丝千万”里程碑的日级来源。；虽千万人，李敖往矣 / 033.2015年3月 / line 25；说明：李敖明说55年来文字被两岸封杀，4年前由李戡点化开始140字微博；粉丝千万后决定出版《虽千万人，李敖往矣》足本欢庆80岁。；虽千万人，李敖往矣 / 033.2015年3月 / line 29；说明：李敖说明开笔时预告的岛上未删完整版已经兑现。；李敖访谈录1990-2018 / 071.20150407《海峡导报》专访李敖 / line 49；说明：《海峡导报》访问中，李敖说4月25日80岁生日正出《虽千万人，李敖往矣》，并说明微博粉丝已过千万。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/638.“哈囉李敖”.txt
   数据：data/timeline-events-seventh-book.json#book7-2015-early-turns-hello-li-ao-into-full-book-though-ten-million-followers-milestone
 - 2015年10月31日星期六前后 | 李敖清早被救护车送急诊，照MRI后住院一周
@@ -132847,17 +134017,30 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/005.虽千万人，李敖往矣/051.2017年2月.txt
   数据：data/timeline-events-sui-qianwan-li-ao-wangyi.json#sui-qianwan-2017-02-07-records-giving-money-to-liang-surong-for-mainland-trip
+- 2017年2月22日晚上，台北家中 | 亚洲周刊人员夜访台北家中，李敖谈脑瘤、85本《大全集》和文物回归展
+  精度：day；可靠度：confirmed；排序日期：2017-02-22
+  摘要：2月22日晚上，亚洲周刊人员到李敖台北家中探望并录音访问。李敖拄拐开门、签书唱歌，告别时还笑说下次可能要在墓地前看他；问到腿疾，他说前一年因左腿无力就医，查出脑部恶性肿瘤，已做二十八次电疗并影响吞咽。他在台北家中谈到要三年内完成85本《李敖大全集》，还计划把一百件收藏品带到北京做“流台文物回归祖国展”，半卖半送。
+  人物：李敖、陈文茜、胡适、郑欣淼、单霁翔
+  地点：台北、李敖家中、阳明山书房、北京、北京故宫博物院
+  标签：亚洲周刊、台北家中、脑部恶性肿瘤、电疗、李敖大全集、文物回归展
+  视图：访谈线、健康线、出版线、收藏线、晚年线
+  作品：李敖访谈录1990-2018、李敖大全集
+  交叉引用：book8-2017-02-25-asia-weekly-interviews-li-ao、sui-qianwan-2017-03-21-discloses-brainstem-malignant-tumor-and-treatment
+  来源：李敖访谈录1990-2018 / 073.20170222《亚洲周刊》专访李敖 / line 15
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/073.20170222《亚洲周刊》专访李敖.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2017-02-22-asia-weekly-home-visit-health-and-daqianji
 - 2017年2月25日星期六 | 《亚洲周刊》专访李敖
   精度：day；可靠度：confirmed；排序日期：2017-02-25
-  摘要：《李敖五十年表》记，2017年2月25日，《亚洲周刊》专访李敖。把这条放在同年最后一次演讲与告别信之前，可以更清楚呈现李敖晚年最后一年的公开媒体露面节奏。
+  摘要：《李敖五十年表》记，2017年2月25日，《亚洲周刊》专访李敖。访谈在李敖台北市敦化南路书房进行，时间逾四小时；李敖谈到发现脑瘤后计划调整，称85岁前还有一千天，要把《李敖大全集》做到85册。他又谈家庭、遗嘱、研究方法、2005年大陆演讲、言论自由与“立德”，并在台北书房被问到一生梦想是否实现时回答“很接近”，因为自己还能把85本《大全集》印出来。
   人物：李敖
   地点：香港
   标签：亚洲周刊、专访、媒体露面
   视图：媒体线、生平线、海外线
   作品：亚洲周刊、李敖相关
-  交叉引用：-
+  交叉引用：li-ao-fangtanlu-2017-02-22-asia-weekly-home-visit-health-and-daqianji、sui-qianwan-2017-03-21-discloses-brainstem-malignant-tumor-and-treatment
   来源：李敖相关 / 001.李敖五十年表 / line 191
-  补充来源：-
+  补充来源：李敖访谈录1990-2018 / 074.20170225《亚洲周刊》专访李敖 / line 5；说明：《亚洲周刊》四小时专访纪要，补足地点、时长、千日计划、家庭与言论自由等细节。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/008.李敖相关/001.李敖五十年表.txt
   数据：data/timeline-events-eighth-book.json#book8-2017-02-25-asia-weekly-interviews-li-ao
 - 2017年2月27日星期一 | 李敖写自己一生拒去中正纪念堂，也没去过毛泽东纪念堂
@@ -132933,9 +134116,9 @@
   标签：脑干恶性肿瘤、放射治疗、标靶药、类固醇、不良于行
   视图：身体线、晚年线、医疗线
   作品：虽千万人，李敖往矣
-  交叉引用：sui-qianwan-2016-12-10-taxi-driver-recognizes-voice-and-li-ao-notes-bad-legs、sui-qianwan-2017-09-04-writes-will
+  交叉引用：sui-qianwan-2016-12-10-taxi-driver-recognizes-voice-and-li-ao-notes-bad-legs、sui-qianwan-2017-09-04-writes-will、li-ao-fangtanlu-2017-02-22-asia-weekly-home-visit-health-and-daqianji、li-ao-fangtanlu-2017-04-11-china-press-malaysia-friends-visit、li-ao-fangtanlu-2017-06-farewell-letter-and-zaijian-liao-plan
   来源：虽千万人，李敖往矣 / 052.2017年3月 / line 85
-  补充来源：-
+  补充来源：李敖访谈录1990-2018 / 073.20170222《亚洲周刊》专访李敖 / line 33；说明：2月22日亚洲周刊夜访中，李敖已说明左腿无力、脑部肿瘤、电疗、吞咽影响与85本《大全集》计划。；李敖访谈录1990-2018 / 075.20170411《中国报》报导 / line 19；说明：《中国报》探访报道补充28次电疗、标靶药、吞咽困难、凌晨三点工作与《大全集》后45册。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/005.虽千万人，李敖往矣/052.2017年3月.txt
   数据：data/timeline-events-sui-qianwan-li-ao-wangyi.json#sui-qianwan-2017-03-21-discloses-brainstem-malignant-tumor-and-treatment
 - 2017年4月5日星期三 | 李敖把《虚拟的十七岁》送给台北荣总神经内科主任王署君
@@ -132959,9 +134142,9 @@
   标签：飞页书屋、最后一次演讲、告别信、晚年
   视图：演讲线、生平线、媒体线
   作品：致家人、友人、仇人的告别信、李敖相关
-  交叉引用：-
+  交叉引用：li-ao-fangtanlu-2017-06-farewell-letter-and-zaijian-liao-plan
   来源：李敖相关 / 001.李敖五十年表 / line 191
-  补充来源：-
+  补充来源：李敖访谈录1990-2018 / 076.2018《新民周刊》回顾专访 / line 13；说明：《新民周刊》回顾补述2017年6月告别信、余月编《大全集》目录和影像谢幕安排。；李敖访谈录1990-2018 / 077.20180319《北京青年报》报导 / line 17；说明：《北京青年报》报道补述亲笔信与《再见李敖》50集访谈节目构想。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/008.李敖相关/001.李敖五十年表.txt
   数据：data/timeline-events-eighth-book.json#book8-2017-06-09-gives-last-public-lecture-at-flypage-bookstore
 - 2017年9月4日星期一 | 李敖立遗嘱，安排著作权、保险金和给李文的月付事项
@@ -132977,6 +134160,45 @@
   补充来源：虽千万人，李敖往矣 / 056.李敖遗嘱 / line 7；说明：著作权赠与王志慧，并待李戡能经营时移转。；虽千万人，李敖往矣 / 056.李敖遗嘱 / line 9；说明：富邦人寿保险金由李谌为受益人取得。；虽千万人，李敖往矣 / 056.李敖遗嘱 / line 11；说明：陈境圳每月支付美金1000元给李文及丧失权利条件。；虽千万人，李敖往矣 / 056.李敖遗嘱 / line 19；说明：遗嘱署日为2017年9月4日。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/005.虽千万人，李敖往矣/056.李敖遗嘱.txt
   数据：data/timeline-events-sui-qianwan-li-ao-wangyi.json#sui-qianwan-2017-09-04-writes-will
+- 2017年4月11日报道前，台北寓所 | 《中国报》报道马来西亚友人探访病中李敖
+  精度：month；可靠度：reported；排序日期：2017-04-11
+  摘要：《中国报》4月11日报道，月前一个晚上，江迅、李桑等马来西亚友人到李敖台北寓所探访。李敖倚靠购物车或拐杖开门，和来客聊近一小时四十分钟；面对江迅拥抱落泪，他调侃“我都还没死”。在台北寓所谈话中，他因怕坐飞机和失联婉拒马来西亚之行，又说与台北医院医生讨价还价后被允许每天工作15个小时，半夜三点起工；他在病中感到“想做的很多，能做的时间很少”，仍继续阅读、研撰和编《李敖大全集》后传部分45册。
+  人物：李敖、江迅、李桑、陈文茜
+  地点：台北寓所、台北、马来西亚、北京故宫
+  标签：中国报、马来西亚友人、病中探访、李敖大全集、半夜三点工作
+  视图：探访线、健康线、出版线、收藏线、晚年线
+  作品：李敖访谈录1990-2018、李敖大全集
+  交叉引用：li-ao-fangtanlu-2017-02-22-asia-weekly-home-visit-health-and-daqianji、sui-qianwan-2017-03-21-discloses-brainstem-malignant-tumor-and-treatment
+  来源：李敖访谈录1990-2018 / 075.20170411《中国报》报导 / line 11
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/075.20170411《中国报》报导.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2017-04-11-china-press-malaysia-friends-visit
+- 2017年6月 | 李敖写《致家人、友人、仇人的告别信》，安排影像告别和《再见李敖》
+  精度：month；可靠度：confirmed；排序日期：2017-06-30
+  摘要：2017年6月，李敖写《致家人、友人、仇人的告别信》，说自己查出脑瘤、做完放射治疗后每天服类固醇，又两次因急性肺炎住院，痛苦得像接近地狱。此后几个月里，他和助手忙着编选《李敖大全集》第41至85册目录；在告别信和视频节目安排中，他说医生要他抓紧想做、想干的事，他就想在余下时间里同家人、友人、仇人再见一面，并计划通过《再见李敖》邀请来宾到台北书房吃饭、合影、看猫，留下人生谢幕影像。
+  人物：李敖、郑乃嘉、李戡
+  地点：台北、李敖书房
+  标签：告别信、再见李敖、李敖大全集、脑瘤、急性肺炎、台北书房
+  视图：健康线、出版线、媒体线、晚年线
+  作品：李敖访谈录1990-2018、致家人、友人、仇人的告别信、李敖大全集、再见李敖
+  交叉引用：book8-2017-06-09-gives-last-public-lecture-at-flypage-bookstore、sui-qianwan-2017-03-21-discloses-brainstem-malignant-tumor-and-treatment、book8-2018-03-18-li-ao-dies
+  来源：李敖访谈录1990-2018 / 076.2018《新民周刊》回顾专访 / line 13
+  补充来源：李敖访谈录1990-2018 / 077.20180319《北京青年报》报导 / line 15；说明：《北京青年报》补述2017年6月视频节目画面、亲笔信内容和《再见李敖》计划。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/076.2018《新民周刊》回顾专访.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2017-06-farewell-letter-and-zaijian-liao-plan
+- 2017年10月出院后一周前后 | 李敖出院回家后仍赶编《大全集》，随后向郑乃嘉承认85本做不完
+  精度：month；可靠度：reported；排序日期：2017-10-31
+  摘要：2017年10月，标靶药物似乎起效，李敖觉得状态恢复，当即要求出院回家，不顾劝阻想赶着把《李敖大全集》编完。太太把除菌仪器搬回家并挡住访客，但李敖仍让陶冬冬看望，用很低的音量聊了两个小时拍卖藏品的事，想请他找台办，把藏品一半捐献、一半拍卖。出院一个礼拜后，李敖坐在轮椅上找郑乃嘉到家里，流泪说85本《大全集》做不完了，不知道怎么收尾，努力很久的视频节目计划也只能暂停。
+  人物：李敖、陶冬冬、郑乃嘉、李敖太太
+  地点：台北、李敖家中
+  标签：标靶药物、出院、李敖大全集、藏品拍卖、视频节目暂停
+  视图：健康线、出版线、收藏线、媒体线、晚年线
+  作品：李敖访谈录1990-2018、李敖大全集、再见李敖
+  交叉引用：li-ao-fangtanlu-2017-06-farewell-letter-and-zaijian-liao-plan、book8-2018-03-18-li-ao-dies
+  来源：李敖访谈录1990-2018 / 078.20180329腾讯新闻报导 / line 7
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/078.20180329腾讯新闻报导.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2017-10-discharged-and-concedes-85-books-unfinished
 - 2017年11月 | 舞台剧《北京法源寺》到台北演出时，李敖已在医院昏迷
   精度：month；可靠度：reported-by-third-party；排序日期：2017-11-30
   摘要：《北京青年报》报道说，舞台剧《北京法源寺》北京首演时李敖因北京冬天太冷未能到场；2017年11月该剧抵达台北时，李敖已经昏迷在医院，演员只能在李戡陪同下到李敖书房参观。此条是作品改编在李敖晚年发生的接受史节点，主体为第三方报道，不是李敖本人行动。
@@ -132990,18 +134212,31 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/077.20180319《北京青年报》报导.txt
   数据：data/timeline-events-beijing-fayuansi.json#beijing-fayuansi-2017-11-stage-play-taipei-while-hospitalized
+- 2017年底至2018年3月18日前最后一段时间 | 李敖晚年复健、想再开刀，最后对陈文茜说“我要走了”
+  精度：undated-context；可靠度：reported；排序日期：2017-12-31
+  摘要：腾讯新闻2018年3月29日报道，李敖最后阶段仍以玩笑抵抗病情：陈文茜去看他做复健时，他说要“特别表演”，稍歇后又伤感说自己一生想争取、想奋斗，结果一场空；临终三四个月前，李敖在病房还有再次开刀的想法，但医生不主张，他私下对赖岳忠说“我的时间不多了”。最后一段时间，陈文茜赶到病房，他紧握她的手，始终不说“死”字，只留下“我要走了，这一次你救不了我的”这句话。
+  人物：李敖、陈文茜、赖岳忠、Vicky
+  地点：台北病房、复健场所
+  标签：复健、再次开刀想法、临终病房、陈文茜、赖岳忠
+  视图：健康线、晚年线、交游线
+  作品：李敖访谈录1990-2018
+  交叉引用：li-ao-fangtanlu-2017-10-discharged-and-concedes-85-books-unfinished、book8-2018-03-18-li-ao-dies
+  来源：李敖访谈录1990-2018 / 078.20180329腾讯新闻报导 / line 17
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/005.李敖访谈录1990-2018/078.20180329腾讯新闻报导.txt
+  数据：data/timeline-events-li-ao-fangtanlu-1990-2018.json#li-ao-fangtanlu-2018-03-18-final-months-rehab-and-last-words
 
 2018
 - 2018年3月18日星期日 | 李敖逝世
   精度：day；可靠度：confirmed；排序日期：2018-03-18
-  摘要：《李敖五十年表》记，2018年3月18日上午10时59分，李敖与世长辞。对整个‘大而全的李敖年表’而言，这是必须明确落库的终点节点，而第八本提供了最直接的收束式表述。
+  摘要：《李敖五十年表》记，2018年3月18日上午10时59分，李敖与世长辞。后续报道补明，他在台北荣民总医院因脑癌安然离世，享年83岁；家属说明一切遵照他的意愿和一贯作风，不举行告别式、追思会等任何活动，一切从简。对整个“大而全的李敖年表”而言，这是必须明确落库的终点节点。
   人物：李敖
   地点：台湾
   标签：逝世、终点节点、上帝李
   视图：生平线、家庭线
   作品：李敖相关
-  交叉引用：-
+  交叉引用：li-ao-fangtanlu-2017-06-farewell-letter-and-zaijian-liao-plan、li-ao-fangtanlu-2017-10-discharged-and-concedes-85-books-unfinished、li-ao-fangtanlu-2018-03-18-final-months-rehab-and-last-words
   来源：李敖相关 / 001.李敖五十年表 / line 193
-  补充来源：-
+  补充来源：李敖访谈录1990-2018 / 076.2018《新民周刊》回顾专访 / line 11；说明：《新民周刊》回顾报道记录2018年3月18日上午10点59分去世，李戡说明不举行告别式、追思会。；李敖访谈录1990-2018 / 077.20180319《北京青年报》报导 / line 9；说明：《北京青年报》报道补充荣民总医院病程说明、家属说明和李戡微博。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/008.李敖相关/001.李敖五十年表.txt
   数据：data/timeline-events-eighth-book.json#book8-2018-03-18-li-ao-dies
