@@ -36216,5 +36216,281 @@
     "currentProjectTotal": 10132,
     "dataVersion": "2026-06-16-li-ao-baokanji-round001-001-018",
     "nextRecommendation": "下一轮建议做《李敖报刊集》全书级收束复核：核对目录文件、001至018覆盖、016既有事件、source/displayDate/source.lines、交叉引用与导出一致性；复核通过后可转入007.采访序跋类的002.李敖书序集。"
+  },
+  {
+    "round": "li-ao-baokanji-round002-full-closeout-audit",
+    "book": "李敖报刊集",
+    "chapter": "全书收束复核",
+    "date": "2026-06-17",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/001.李敖报刊集",
+    "scope": "《李敖报刊集》全书级收束复核：核对源目录、目录文件、001至018正文覆盖；确认001至015、017至018由data/timeline-events-li-ao-baokanji.json覆盖，016《李敖谈〈李敖的报纸〉》此前已在《北京法源寺》专题中作为《李敖报刊集》来源入库，不重复造条；复查本书来源事件的source/displayDate/datePrecision/source.lines/source.path/source.chapter、交叉引用、TXT/CSV/manifest总量与app/index版本。",
+    "range": "1961-11-01 to 1991-10-20",
+    "sourceLines": "源目录19个txt：目录文件不入事件；001至015、017至018共17个章节由本书数据文件覆盖；016由beijing-fayuansi-1991-06-11-qiushi-bao-reprint-controversy覆盖。",
+    "added": 0,
+    "revised": 0,
+    "removed": 0,
+    "ids": [],
+    "status": "done",
+    "notes": [
+      "源目录只有目录文件与001至018正文，不存在019至030；上一轮建议已修正为本轮全书收束复核。",
+      "001为后人整理“编辑室报告”摘编且有作者归属提醒，作为总括节点保留；016已有既有专题事件覆盖，未重复造条。",
+      "本书来源覆盖按李敖写作、编辑出版、发行人责任、声明、访谈回应与经营善后为边界；纯报刊背景、附录和旁人论述不拆成独立事件。"
+    ],
+    "checks": [
+      "全书复核通过：源目录19个txt，扣除目录文件后001至018共18个覆盖单元；《李敖报刊集》来源累计18条，其中本书数据文件17条，既有016事件1条；项目总表10132条；CSV分片11个；duplicateIds=0；missingChapters=0；duplicatePrimarySourceChapter=0；crossReferences缺失=0；duplicateRefs=0；badDisplayDates=0；badDatePrecision=0；source.path缺失=0；source.lines越界=0；TXT/CSV/manifest总量一致；app/index dataVersion一致。"
+    ],
+    "currentBookTotal": 18,
+    "newDataFileTotal": 17,
+    "currentProjectTotal": 10132,
+    "dataVersion": "2026-06-17-li-ao-baokanji-round002-full-closeout-audit",
+    "nextRecommendation": "下一轮建议转入007.采访序跋类的002.李敖书序集，先做目录与001至010边界确认；重点处理《十论》《汪政权的开场与收场》《恶法录及其他》《紫禁城的黄昏》《海国男儿》《满宫残照记》《调查局研究》《李宗仁回忆录》《汪精卫传》《军统内幕》等序跋/推荐文字中明确属于李敖写作、推荐、出版安排、材料判断或自述的当事事件。"
+  },
+  {
+    "date": "2026-06-17",
+    "round": "li-ao-shuxuji-round001",
+    "corpus": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/002.李敖书序集",
+    "scope": "001-010",
+    "sourceFiles": [
+      "001.写在居浩然《十论》的前面.txt",
+      "002.介绍《汪政权的开场与收场》.txt",
+      "003.《恶法录及其他》新版前言.txt",
+      "004.介绍《紫禁城的黄昏》.txt",
+      "005.推荐《海国男儿》.txt",
+      "006.介绍《满宫残照记》.txt",
+      "007.《调查局研究》序.txt",
+      "008.推荐《李宗仁回忆录》.txt",
+      "009.我看《汪精卫传》.txt",
+      "010.新版《军统内幕》缘起.txt"
+    ],
+    "dataFile": "data/timeline-events-li-ao-shuxuji.json",
+    "added": 9,
+    "revised": 1,
+    "currentBookTotal": 10,
+    "newDataFileTotal": 9,
+    "currentProjectTotal": 10141,
+    "dataVersion": "2026-06-17-li-ao-shuxuji-round001-001-010",
+    "notes": [
+      "《〈恶法录及其他〉新版前言》已由旧节点 book2-1988-02-02-evil-laws-preface-written 承载，本轮只补《李敖书序集》来源，避免重复事件。",
+      "思想、评价、回忆类内容均以李敖写序、推荐、校订、出版安排的现场为锚点；书中历史背景不单独拆为非李敖事件。"
+    ],
+    "checks": [
+      "已重建 exports/leeao-current-timeline.txt、exports/leeao-current-timeline.csv 与 11 个分段 CSV。",
+      "manifest.eventCount = 10141，dataFiles 已包含 data/timeline-events-li-ao-shuxuji.json。",
+      "《李敖书序集》001-010 来源覆盖完成：9 条新增事件 + 旧《恶法录》节点 additionalSources 补源。",
+      "新增 ID 均已进入 TXT/CSV；本轮新增/修订事件交叉引用均可解析；未发现重复 ID 或坏来源行号。"
+    ],
+    "nextRecommendation": "继续《李敖书序集》011-020，并做全书收束；重点处理《厚黑教主传》《政海秘辛》《新官场现形记》《国共斗争的见闻》《鹰犬将军》《侍卫长谈毛泽东》《侍卫官谈蒋介石》、梁漱溟、章太炎研究与安全局机密文件序，并检查沈醉、乔家才、梁漱溟、章太炎、安全局文件等线索是否与旧节点合并。"
+  },
+  {
+    "round": "li-ao-shuxuji-round002-011-020-closeout",
+    "book": "李敖书序集",
+    "chapter": "011-020兼全书收束",
+    "date": "2026-06-17",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/002.李敖书序集",
+    "scope": "处理《李敖书序集》011至020，并做全书收束：新增厚黑教主传、政海秘辛、新官场现形记、国共斗争见闻、鹰犬将军、侍卫长谈毛泽东、侍卫官谈蒋介石、梁漱溟忆往谈旧录、章太炎研究、历年办理匪案汇编等书序/题记/出版动作。",
+    "sourceFiles": [
+      "011.新印《厚黑教主传》述源.txt",
+      "012.新版《政海秘辛》缘起.txt",
+      "013.《新官场现形记》序.txt",
+      "014.介绍《国共斗争的见闻》.txt",
+      "015.《鹰犬将军》新版书后.txt",
+      "016.《侍卫长谈毛泽东》题记.txt",
+      "017.《侍卫官谈蒋介石》题记.txt",
+      "018.梁漱溟和他的《忆往谈旧录》.txt",
+      "019.汪荣祖《章太炎研究》序.txt",
+      "020.安全局机密文件——《历年办理匪案汇编》序.txt"
+    ],
+    "dataFile": "data/timeline-events-li-ao-shuxuji.json",
+    "added": 15,
+    "revised": 0,
+    "removed": 0,
+    "status": "done",
+    "notes": [
+      "012、014、015中有明确日期的李敖当事动作已细分为带信、收信、收资料、亲访罗开甲、写序/书后等节点。",
+      "020保留两条李敖当事节点：一条写序并保护秘密来源，一条以序中回述方式记录李敖使用该秘密文件查案、影印给蔡仲伯、补严侨案资料等动作；周芝雨、李友邦、段沄、黄氏姐妹等旁人案情不拆成独立非李敖事件。",
+      "003《〈恶法录及其他〉新版前言》已在第一轮补入旧节点additionalSources，本轮全书收束按20个正文来源单元覆盖计算。"
+    ],
+    "checks": [
+      "已重建 exports/leeao-current-timeline.txt、exports/leeao-current-timeline.csv 与 11 个分段 CSV。",
+      "manifest.eventCount = 10156，dataFiles 已包含 data/timeline-events-li-ao-shuxuji.json。",
+      "《李敖书序集》全书收束通过：源目录21个txt，扣除目录文件后001至020共20个正文来源单元均已覆盖；003由旧《恶法录》节点additionalSources覆盖。",
+      "data/timeline-events-li-ao-shuxuji.json 累计24条，本轮新增15条均进入TXT/CSV；本轮新增事件交叉引用均可解析；未发现重复ID或坏来源行号；app/index dataVersion一致。"
+    ],
+    "currentBookTotal": 20,
+    "newDataFileTotal": 24,
+    "currentProjectTotal": 10156,
+    "dataVersion": "2026-06-17-li-ao-shuxuji-round002-011-020-closeout",
+    "nextRecommendation": "下一轮建议转入007.采访序跋类的003.李敖书序集续集，先做目录与001至010边界确认；继续按书序/题记/出版安排、来信收信、亲自校订配图、历史评价现场等李敖当事动作入库。"
+  },
+  {
+    "round": "li-ao-shuxuji-xuji-round001-001-010",
+    "book": "李敖书序集续集",
+    "chapter": "001-010",
+    "date": "2026-06-17",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/003.李敖书序集续集",
+    "scope": "进入《李敖书序集续集》第一轮，处理001至010：覆盖《李敖语录》香港版感言、《李敖告别文坛十书》广告词旧节点补源、《求是报合订本》广告词、《国民党查禁李敖著作》序、《二二八研究》广告词、《李敖作品精选集》总序、《洗你的脑，掐他脖子》自序、简介两种、桂冠出版李敖殷海光雷震广告词、《黄旗梦碎》序中钱达、鸿禧山庄与新党初选相关当事动作。",
+    "sourceFiles": [
+      "001.《李敖语录香港版》感言.txt",
+      "002.《李敖告别文坛十书》广告词.txt",
+      "003.《求是报合订本》广告词.txt",
+      "004.《国民党查禁李敖著作》序.txt",
+      "005.《二二八研究》广告词.txt",
+      "006.《李敖作品精选集》总序.txt",
+      "007.《洗你的脑，掐他脖子》自序.txt",
+      "008.简介两种.txt",
+      "009.桂冠出版李敖殷海光雷震著作之广告词.txt",
+      "010.《黄旗梦碎》序.txt"
+    ],
+    "dataFile": "data/timeline-events-li-ao-shuxuji-xuji.json",
+    "added": 11,
+    "revised": 1,
+    "removed": 0,
+    "status": "done",
+    "notes": [
+      "002《李敖告别文坛十书》广告词不重复造条，补入既有1966年9月1日广告公开推出事件additionalSources。",
+      "005《二二八研究》广告词本身未署日，结合《另一面的二二八》1989年3月2日和3月23日两篇回述，将三书出版保守落为1989年2月27日至28日。",
+      "008与009无署日，按无署日简介/广告上下文事件处理，不重复拆解已存在的各书出版节点。",
+      "010《黄旗梦碎》序拆出鸿禧山庄资料授权、安排钱达再上《笑傲江湖》并在计程车谈规划名单、为钱达写序三类李敖当事动作。"
+    ],
+    "checks": [
+      "已重建 exports/leeao-current-timeline.txt、exports/leeao-current-timeline.csv 与 11 个分段 CSV。",
+      "manifest.eventCount = 10167，dataFiles 已包含 data/timeline-events-li-ao-shuxuji-xuji.json。",
+      "《李敖书序集续集》001至010来源覆盖通过：001、003至010由本书新数据文件覆盖，002《李敖告别文坛十书》广告词由既有1966年9月1日广告事件additionalSources覆盖。",
+      "data/timeline-events-li-ao-shuxuji-xuji.json 累计11条，本轮新增11条均进入TXT/CSV；旧广告节点补源1条；duplicateIds=0；crossReferences缺失=0；duplicateRefs=0；source.path缺失=0；source.lines越界=0；TXT/CSV/manifest总量一致；app/index dataVersion一致。"
+    ],
+    "currentBookTotal": 10,
+    "newDataFileTotal": 11,
+    "currentProjectTotal": 10167,
+    "dataVersion": "2026-06-17-li-ao-shuxuji-xuji-round001-001-010",
+    "nextRecommendation": "下一轮建议继续《李敖书序集续集》011至018并做全书收束：重点处理《卫士长谈毛泽东》题记、李玠《大陆当代顺口溜赏析》诗序、《文茜半生缘》序、《蒋介石张学良秘闻》出版说明、《复瓿书成空自苦，击辕歌罢遣谁听》、序凉如水、《调查局黑牢345天》序与《好命操作手册》序；同步核对全书18个正文来源单元、旧节点补源、source.lines与导出一致性。"
+  },
+  {
+    "round": "li-ao-shuxuji-xuji-round002-011-018-closeout",
+    "book": "李敖书序集续集",
+    "chapter": "011-018兼全书收束",
+    "date": "2026-06-17",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/003.李敖书序集续集",
+    "scope": "完成《李敖书序集续集》011至018并做全书收束：处理《卫士长谈毛泽东》题记、李玠《大陆当代顺口溜赏析》诗序、《文茜半生缘》序、《蒋介石张学良秘闻》出版说明、《复瓿书成空自苦，击辕歌罢遣谁听》、序凉如水、《调查局黑牢345天》序与《好命操作手册》序。",
+    "sourceFiles": [
+      "011.《卫士长谈毛泽东》题记.txt",
+      "012.诗序李玠《大陆当代顺口溜赏析》.txt",
+      "013.《文茜半生缘》序.txt",
+      "014.《蒋介石张学良秘闻》出版说明.txt",
+      "015.复瓿书成空自苦，击辕歌罢遣谁听.txt",
+      "016.序凉如水.txt",
+      "017.《调查局黑牢345天》序.txt",
+      "018.《好命操作手册》序.txt"
+    ],
+    "dataFile": "data/timeline-events-li-ao-shuxuji-xuji.json",
+    "added": 9,
+    "revised": 1,
+    "removed": 0,
+    "status": "done",
+    "notes": [
+      "011《卫士长谈毛泽东》题记与《李敖书序集》016《侍卫长谈毛泽东》题记同文异题，本轮不重复造条，补入旧节点additionalSources。",
+      "013《文茜半生缘》序以1999年1月11日半夜三点写序为主节点；序中回述参观陈文茜办公室、近几个月两次单独吃饭长谈，另列为约1998年前后当事经验节点。",
+      "018《好命操作手册》序拆为1996年10月下旬起在《笑傲江湖》三个月十二集反迷信合作，以及1997年3月在台北写序两条。"
+    ],
+    "checks": [
+      "已重建exports/leeao-current-timeline.txt、exports/leeao-current-timeline.csv与11个分段CSV。",
+      "manifest.eventCount = 10176，TXT条目数 = 10176，CSV数据行 = 10176，dataFiles已包含data/timeline-events-li-ao-shuxuji-xuji.json。",
+      "《李敖书序集续集》全书18个正文来源单元覆盖通过：001、003至010由本书数据文件覆盖；002与011由既有节点additionalSources补源；012至018由本轮9条新增事件覆盖。",
+      "data/timeline-events-li-ao-shuxuji-xuji.json累计20条；本轮新增9条均进入TXT/CSV；旧《侍卫长谈毛泽东》节点已补入011来源；duplicateIds=0，crossReferences缺失=0，duplicateRefs=0，source.lines越界=0，app/index dataVersion一致。"
+    ],
+    "currentBookTotal": 18,
+    "newDataFileTotal": 20,
+    "currentProjectTotal": 10176,
+    "dataVersion": "2026-06-17-li-ao-shuxuji-xuji-round002-011-018-closeout",
+    "nextRecommendation": "下一轮建议转入007.采访序跋类/004.李敖对话录，先做目录与001至010边界确认；重点只抽李敖本人发言、受访、回忆、判断和现场动作，不把访谈对象背景扩成旁人事件。"
+  },
+  {
+    "round": "li-ao-duihualu-round001-preface-001-010",
+    "book": "李敖对话录",
+    "chapter": "目录、自序、001-010",
+    "date": "2026-06-17",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/004.李敖对话录",
+    "scope": "转入《李敖对话录》第一轮，确认目录并处理自序与001至010：才华盖世侠骨柔情的思想家、对是非绝对是不让步的、在台大·在法庭、吐他一口痰、答陈依玫、论国民党的美感、我的皮肉生涯、党外人士不够小、选举问题总解答、李敖答问之一。",
+    "sourceFiles": [
+      "《李敖对话录》目录.txt",
+      "《李敖对话录》自序.txt",
+      "001.才华盖世侠骨柔情的思想家.txt",
+      "002.对是非绝对是不让步的.txt",
+      "003.在台大·在法庭.txt",
+      "004.吐他一口痰.txt",
+      "005.答陈依玫.txt",
+      "006.论国民党的美感.txt",
+      "007.我的皮肉生涯.txt",
+      "008.党外人士不够小.txt",
+      "009.选举问题总解答.txt",
+      "010.李敖答问之一.txt"
+    ],
+    "dataFile": "data/timeline-events-li-ao-duihualu.json",
+    "added": 15,
+    "revised": 7,
+    "removed": 0,
+    "status": "done",
+    "notes": [
+      "目录只作边界确认，不造事件；自序单独成1988年写作节点。",
+      "访谈类按访谈/答问发生或署期建立主节点；访谈中出现的具体李敖动作，只有能落到明确上下文的才拆出独立节点。",
+      "001、004、009中涉及严师母十万元、林正杰竞选稿费、政大国关中心、三本号外出版等旧库已覆盖事项，本轮补additionalSources而不重复造条。",
+      "010中李敖说自己在午夜梦回时长考/细查大小问题，已在摘要中保留状语，不写成无场景的抽象心理节点。"
+    ],
+    "checks": [
+      "已重建 exports/leeao-current-timeline.txt、exports/leeao-current-timeline.csv 与分卷 CSV。",
+      "已校验 manifest.eventCount、TXT行数、CSV行数均为10191。",
+      "已校验 data/timeline-events-li-ao-duihualu.json 共15条，且新ID已进入TXT/CSV。",
+      "已校验目录/自序/001-010来源覆盖；本轮来源行号均在GB18030原文范围内。",
+      "已校验全库无重复ID，本轮新增/补源涉及的交叉引用均可解析。",
+      "已校验7个旧节点补入《李敖对话录》additionalSources。"
+    ],
+    "currentBookTotal": 10,
+    "newDataFileTotal": 15,
+    "currentProjectTotal": 10191,
+    "dataVersion": "2026-06-17-li-ao-duihualu-round001-preface-001-010",
+    "nextRecommendation": "下一轮建议继续《李敖对话录》011至020并做全书收束；重点处理《李敖答问之二》《李敖答问之三》、“却笑英雄‘有’好手，一江春水走曹瞒”、台湾最有力量的个人、Seven Down、五十而不知天命、作战而死、光靠龟儿子、《花花公子》访问与书店升天。"
+  },
+  {
+    "round": "li-ao-duihualu-round002-011-020-closeout",
+    "book": "李敖对话录",
+    "chapter": "011-020",
+    "date": "2026-06-17",
+    "source": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/004.李敖对话录",
+    "scope": "继续并收束《李敖对话录》：处理011至020，包括《李敖答问之二》《李敖答问之三》、“却笑英雄‘有’好手，一江春水走曹瞒”、台湾最有力量的个人、Seven Down、五十而不知天命、五一九绿色行动、党外组党、Playboy访问与文星版权战。",
+    "sourceFiles": [
+      "011.李敖答问之二.txt",
+      "012.李敖答问之三.txt",
+      "013.“却笑英雄‘有’好手，一江春水走曹瞒”.txt",
+      "014.台湾最有力量的个人.txt",
+      "015.给他来个“Seven Down”！.txt",
+      "016.五十而不知天命.txt",
+      "017.只有作战而死，怎能求情而死.txt",
+      "018.光靠龟儿子是不够的.txt",
+      "019.《花花公子》访问李敖.txt",
+      "020.书店升天，作者扫地.txt"
+    ],
+    "dataFile": "data/timeline-events-li-ao-duihualu.json",
+    "added": 27,
+    "revised": 16,
+    "removed": 0,
+    "status": "done",
+    "notes": [
+      "011-020中纯观点材料只随主访谈节点概括；明确的李敖写作、转信、送书、软禁、捐款、会面、授权、诉讼等当事动作拆为独立节点。",
+      "016附录《李敖·胡茵梦与青年朋友谈》为1980年《台湾时报》实录，按书内来源入表，不因其为附录而跳过。",
+      "“想/思考”类按要求加状语：例如在《台湾时报》对谈中说明自己在独处时自拟题目细细思考。",
+      "《千秋评论》前六册、秘密运稿、第二十七期查禁、拒入国民党、胡茵梦结婚/离婚、文星版权案等旧库已有锚点，本轮以additionalSources补源或交叉引用为主。"
+    ],
+    "checks": [
+      "已重建 exports/leeao-current-timeline.txt、exports/leeao-current-timeline.csv 与分卷 CSV。",
+      "已校验 manifest.eventCount、TXT行数、CSV行数均为10218。",
+      "已校验 data/timeline-events-li-ao-duihualu.json 累计42条，本轮新增27条均进入TXT/CSV。",
+      "已校验011-020来源覆盖完整，本轮《李敖对话录》来源行号均在GB18030原文范围内。",
+      "已校验全库无重复ID，交叉引用无缺失且同一事件内无重复引用。",
+      "已校验16个旧节点补入《李敖对话录》additionalSources。"
+    ],
+    "currentBookTotal": 20,
+    "newDataFileTotal": 42,
+    "currentProjectTotal": 10218,
+    "dataVersion": "2026-06-17-li-ao-duihualu-round002-011-020-closeout",
+    "nextRecommendation": "下一轮建议进入007采访序跋类下一本；若按目录顺序，应先检查004之后是否还有同类书，若无则转入下一分类并从目录/自序开始。"
   }
 ]

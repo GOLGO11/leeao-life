@@ -2124,6 +2124,19 @@
     },
     "crossReferences": [
       "li-ao-zhaji-1987-04-27-writes-news-office-letter-on-fake-wenxing"
+    ],
+    "additionalSources": [
+      {
+        "book": "李敖对话录",
+        "chapter": "020.书店升天，作者扫地",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/004.李敖对话录/020.书店升天，作者扫地.txt",
+        "line": 19,
+        "lines": [
+          3,
+          19
+        ],
+        "note": "1987年6月17日访问详述朱婉坚返台、公证授与出版权和文星复业。"
+      }
     ]
   },
   {
@@ -2394,7 +2407,25 @@
       "chapter": "007.《恶法录及其他》新版前言",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/007.《恶法录及其他》新版前言.txt",
       "line": 37
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖书序集",
+        "chapter": "003.《恶法录及其他》新版前言",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/002.李敖书序集/003.《恶法录及其他》新版前言.txt",
+        "line": 35,
+        "lines": [
+          35,
+          37
+        ],
+        "note": "《李敖书序集》收同篇前言；第35行说明文星复业后决定新版问世，第37行署日。"
+      }
+    ],
+    "crossReferences": [
+      "book2-1963-04-05-lu-xiaozhao-letter-evil-laws",
+      "book2-1966-02-15-zhang-qun-secret-memo",
+      "li-ao-baokanji-1961-11-to-1965-12-writes-wenxing-editor-room-reports"
+    ]
   },
   {
     "id": "book2-1988-08-10-belated-clarification-written",

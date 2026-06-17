@@ -1,0 +1,801 @@
+[
+  {
+    "id": "li-ao-shuxuji-1987-11-23-writes-preface-to-ju-haoran-shilun-and-starts-posthumous-publication-plan",
+    "date": "1987-11-23",
+    "displayDate": "1987年11月23日夜",
+    "datePrecision": "day",
+    "title": "李敖写在居浩然《十论》前面，启动文星复业后的居浩然遗作出版计划",
+    "summary": "李敖在夜里为居浩然《十论》新排版写前言，回忆大学时代受居书影响、1964年结识居浩然及其后通信往来。文星复业后，他与朱婉健决定尽量出版居浩然遗作，并在王小痴、居浩然遗孀支持下先整理《十论》作为第一种，借此为亡友留存作品。",
+    "category": "writing",
+    "type": "李敖当事人事件",
+    "source": {
+      "book": "李敖书序集",
+      "chapter": "001.写在居浩然《十论》的前面",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/002.李敖书序集/001.写在居浩然《十论》的前面.txt",
+      "line": 179,
+      "lines": [
+        3,
+        179,
+        187
+      ]
+    },
+    "sourceQuote": "我开始整理，做起这件旧道德工作来了。这本《十论》，只是全部计划里的第一本。",
+    "confidence": "high",
+    "tags": [
+      "书序",
+      "出版",
+      "文星",
+      "居浩然"
+    ],
+    "crossReferences": [
+      "qianqiu-wansui-1983-06-20-070-receives-ju-mi-letter-and-writes-ju-haoran-memorial",
+      "qianqiu-wansui-1983-07-01-070-publishes-wang-xiaochi-letter-and-tamkang-essays",
+      "qianqiu-wansui-1984-09-06-context-070-sends-kujiujie-to-wang-xiaochi",
+      "preofficer-diary-1959-11-04-receives-ma-hongxiang-eight-page-letter-on-solitude-influence-women-and-books"
+    ]
+  },
+  {
+    "id": "li-ao-shuxuji-1987-11-25-introduces-wang-regime-opening-and-ending",
+    "date": "1987-11-25",
+    "displayDate": "1987年11月25日",
+    "datePrecision": "day",
+    "title": "李敖介绍《汪政权的开场与收场》",
+    "summary": "李敖为金雄白《汪政权的开场与收场》写介绍，说明此书在台湾长期难以输入、也难以引起官方允许下的讨论。他从作者自述中看到一种“收尸型”的义士性格，认为这部关于汪政权始末的回忆录值得郑重介绍。",
+    "category": "writing",
+    "type": "李敖当事人事件",
+    "source": {
+      "book": "李敖书序集",
+      "chapter": "002.介绍《汪政权的开场与收场》",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/002.李敖书序集/002.介绍《汪政权的开场与收场》.txt",
+      "line": 13,
+      "lines": [
+        5,
+        13,
+        17
+      ]
+    },
+    "sourceQuote": "由这些陈述，我看出金雄白的性格与抱负，他是一位收尸型的义士人物。",
+    "confidence": "high",
+    "tags": [
+      "书序",
+      "出版",
+      "汪精卫"
+    ],
+    "crossReferences": [
+      "li-ao-shuxuji-1988-12-15-reviews-wang-jingwei-biography"
+    ]
+  },
+  {
+    "id": "li-ao-shuxuji-1988-context-introduces-twilight-in-forbidden-city-and-corrects-translation",
+    "date": "1988-12-31",
+    "displayDate": "1988年，庄士敦死后五十年，在台湾",
+    "datePrecision": "year-context",
+    "title": "李敖在台湾介绍《紫禁城的黄昏》，并校正中译本若干错误",
+    "summary": "李敖在台湾为《紫禁城的黄昏》写介绍，指出台湾重印距旧译本已二十年，并亲自校正若干译名和史料错误，例如庄士敦姓名、傅泾波名号，以及胡适信件应据原文翻译等。此事只记录李敖为重印本所做的介绍与校订工作，不另扩展书中溥仪史事。",
+    "category": "writing",
+    "type": "李敖当事人事件",
+    "source": {
+      "book": "李敖书序集",
+      "chapter": "004.介绍《紫禁城的黄昏》",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/002.李敖书序集/004.介绍《紫禁城的黄昏》.txt",
+      "line": 61,
+      "lines": [
+        61,
+        63
+      ]
+    },
+    "sourceQuote": "现在事隔二十年，这本书在台湾重印，我把原书秦译中的错误，订正了一些。",
+    "confidence": "high",
+    "tags": [
+      "书序",
+      "出版",
+      "校订"
+    ],
+    "crossReferences": [
+      "li-ao-shuxuji-1988-06-29-introduces-mangong-canzhaoji-retypesets-corrects"
+    ]
+  },
+  {
+    "id": "li-ao-shuxuji-1988-05-11-recommends-haiguo-naner-reprint",
+    "date": "1988-05-11",
+    "displayDate": "1988年5月11日，在台湾",
+    "datePrecision": "day",
+    "title": "李敖在台湾推荐重印《海国男儿》",
+    "summary": "李敖为《海国男儿》重印本写推荐，回忆自己1947年在北京小学读到马洛作品，1949年来台后又在租书店见到此书，1966年8月31日则在台北牯岭街旧书摊重新买下并保存至今。四十年后由他的出版社重印，他把这次重见旧书写成一种从北京到台湾的旧梦回返。",
+    "category": "writing",
+    "type": "李敖当事人事件",
+    "source": {
+      "book": "李敖书序集",
+      "chapter": "005.推荐《海国男儿》",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/002.李敖书序集/005.推荐《海国男儿》.txt",
+      "line": 13,
+      "lines": [
+        3,
+        5,
+        13
+      ]
+    },
+    "sourceQuote": "我读到马洛（Hector Malot）的作品，是四十一年前的事了。",
+    "confidence": "high",
+    "tags": [
+      "书序",
+      "出版",
+      "读书记忆"
+    ],
+    "crossReferences": []
+  },
+  {
+    "id": "li-ao-shuxuji-1988-06-29-introduces-mangong-canzhaoji-retypesets-corrects",
+    "date": "1988-06-29",
+    "displayDate": "1988年6月29日",
+    "datePrecision": "day",
+    "title": "李敖介绍并重排订正《满宫残照记》",
+    "summary": "李敖为《满宫残照记》写介绍，说明这本1947年上海旧书虽属时政性文字，却仍有文化意义。他在新版中补入图片、重新排版并订正旧本错误，使它以更清楚的面貌重印出来。",
+    "category": "writing",
+    "type": "李敖当事人事件",
+    "source": {
+      "book": "李敖书序集",
+      "chapter": "006.介绍《满宫残照记》",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/002.李敖书序集/006.介绍《满宫残照记》.txt",
+      "line": 45,
+      "lines": [
+        45,
+        51
+      ]
+    },
+    "sourceQuote": "现在我重新出版《满宫残照记》，加配了图片，也重排文字、订正了一些错误。",
+    "confidence": "high",
+    "tags": [
+      "书序",
+      "出版",
+      "校订"
+    ],
+    "crossReferences": [
+      "li-ao-shuxuji-1988-context-introduces-twilight-in-forbidden-city-and-corrects-translation"
+    ]
+  },
+  {
+    "id": "li-ao-shuxuji-1988-09-08-writes-preface-to-diaochaju-yanjiu-for-li-shijie",
+    "date": "1988-09-08",
+    "displayDate": "1988年9月8日夜",
+    "datePrecision": "day",
+    "title": "李敖夜写《调查局研究》序，回述劝李世杰展开写作计划",
+    "summary": "李敖夜里为李世杰《调查局研究》写序，回忆两人在狱中同处多年、出狱后重联的经过。1986年6月25日，他经陈菊取得李世杰电话，6月30日到李世杰家中午餐并力劝他展开大型写作计划；同年9月30日起，李世杰作品开始在《万岁评论》《千秋评论》刊出，如今结集时请李敖作序。",
+    "category": "writing",
+    "type": "李敖当事人事件",
+    "source": {
+      "book": "李敖书序集",
+      "chapter": "007.《调查局研究》序",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/002.李敖书序集/007.《调查局研究》序.txt",
+      "line": 49,
+      "lines": [
+        49,
+        57,
+        59
+      ]
+    },
+    "sourceQuote": "我在六月三十日到他家午餐，跟他谈了很久，力劝他开始一项大型的写作计划。",
+    "confidence": "high",
+    "tags": [
+      "书序",
+      "出版",
+      "李世杰",
+      "政治案件"
+    ],
+    "crossReferences": [
+      "micang-diary-1986-02-05-reads-li-shijie-parole-news-on-train",
+      "book5-1986-09-30-li-shijie-series-begins",
+      "li-ao-wuwu-diary-1990-07-29-hears-li-shijie-death-and-calls-xuyi",
+      "li-ao-suixielu-qianji-1991-11-15-li-huang-death-attaches-li-shijie-draft-complaint"
+    ]
+  },
+  {
+    "id": "li-ao-shuxuji-1988-12-13-recommends-li-zongren-memoir-authorizes-new-edition",
+    "date": "1988-12-13",
+    "displayDate": "1988年12月13日",
+    "datePrecision": "day",
+    "title": "李敖推荐《李宗仁回忆录》，并回述与唐德刚签约重排新版",
+    "summary": "李敖为《李宗仁回忆录》写推荐，说明唐德刚当年曾在他被冤狱时来狱中探视，出狱后也曾拜访。今年6月6日，唐德刚与陈泓铮到李敖家，李敖提出台湾坊间版本多为删节盗印本，应由自己的出版社重出；唐德刚当场签署授权，李敖也决定拿出收藏图片，用铜版纸专门刊印图版。",
+    "category": "writing",
+    "type": "李敖当事人事件",
+    "source": {
+      "book": "李敖书序集",
+      "chapter": "008.推荐《李宗仁回忆录》",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/002.李敖书序集/008.推荐《李宗仁回忆录》.txt",
+      "line": 9,
+      "lines": [
+        9,
+        11,
+        13
+      ]
+    },
+    "sourceQuote": "今年六月六日，唐先生由美国来，偕陈泓铮到我家。",
+    "confidence": "high",
+    "tags": [
+      "书序",
+      "出版",
+      "唐德刚"
+    ],
+    "crossReferences": []
+  },
+  {
+    "id": "li-ao-shuxuji-1988-12-15-reviews-wang-jingwei-biography",
+    "date": "1988-12-15",
+    "displayDate": "1988年12月15日",
+    "datePrecision": "day",
+    "title": "李敖写《我看〈汪精卫传〉》，评闻少华传记的成败",
+    "summary": "李敖为闻少华《汪精卫传》写评论，指出这本由吉林文史出版社出版的传记资料价值可取，但也批评作者在结论中套用过度的谴责语气和“历史唯物主义”框架。他把这本书视为追索汪精卫真实心境的一个基础，而非最后定论。",
+    "category": "writing",
+    "type": "李敖当事人事件",
+    "source": {
+      "book": "李敖书序集",
+      "chapter": "009.我看《汪精卫传》",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/002.李敖书序集/009.我看《汪精卫传》.txt",
+      "line": 5,
+      "lines": [
+        3,
+        5,
+        13
+      ]
+    },
+    "sourceQuote": "闻少华这本《汪精卫传》，它的成败，也就在这些地方。",
+    "confidence": "high",
+    "tags": [
+      "书序",
+      "出版",
+      "汪精卫"
+    ],
+    "crossReferences": [
+      "li-ao-shuxuji-1987-11-25-introduces-wang-regime-opening-and-ending"
+    ]
+  },
+  {
+    "id": "li-ao-shuxuji-1989-04-21-writes-new-juntong-neimu-origin-for-shen-zui",
+    "date": "1989-04-21",
+    "displayDate": "1989年4月21日",
+    "datePrecision": "day",
+    "title": "李敖写新版《军统内幕》缘起，决定为沈醉隔海出书并亲自配图",
+    "summary": "李敖为沈醉《军统内幕》新版写缘起，说明两人虽未见面，但五年前沈醉曾托徐益棨从北京秘密寄书给他，并以诗与信称许他，令他感动。李敖出版公司成立后，他决定不避成本与麻烦，为沈醉在海峡彼岸出书，《军统内幕》作为第一种，并在附记中说明自己亲自配图、沿用大陆二版，同时指出若干原书错误和隐去的人名。",
+    "category": "writing",
+    "type": "李敖当事人事件",
+    "source": {
+      "book": "李敖书序集",
+      "chapter": "010.新版《军统内幕》缘起",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/002.李敖书序集/010.新版《军统内幕》缘起.txt",
+      "line": 7,
+      "lines": [
+        7,
+        9,
+        11
+      ]
+    },
+    "sourceQuote": "李敖出版公司成立以后，我决定克服许多麻烦、克服许多无利可图，为海峡彼岸的沈醉先生出版著作。",
+    "confidence": "high",
+    "tags": [
+      "书序",
+      "出版",
+      "沈醉"
+    ],
+    "crossReferences": [
+      "book3-1989-05-04-qiao-first-letter",
+      "book3-1989-08-31-qiao-letter-commentary-start"
+    ]
+  },
+  {
+    "id": "li-ao-shuxuji-1989-04-25-writes-source-note-for-new-houhei-jiaozhu-zhuan",
+    "date": "1989-04-25",
+    "displayDate": "1989年4月25日",
+    "datePrecision": "day",
+    "title": "李敖写新印《厚黑教主传》述源，四十年后重新刊出张默生旧著",
+    "summary": "李敖为张默生《厚黑教主传》新印本写述源，先借俞大维转述夏曾佑、陈寅恪“无书可看”的故事，说明李宗吾厚黑之学在中国书中属于异数。他说明张默生1947年完成此书后长期被国民党列为禁书，如今由自己在四十年后重新刊出，既是伤逝，也有自念之意。",
+    "category": "writing",
+    "type": "李敖当事人事件",
+    "source": {
+      "book": "李敖书序集",
+      "chapter": "011.新印《厚黑教主传》述源",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/002.李敖书序集/011.新印《厚黑教主传》述源.txt",
+      "line": 11,
+      "lines": [
+        7,
+        11,
+        13
+      ]
+    },
+    "sourceQuote": "现在我在四十年后予以新刊问世，既伤逝者，行自念也。",
+    "confidence": "high",
+    "tags": [
+      "书序",
+      "出版",
+      "禁书",
+      "李宗吾"
+    ],
+    "crossReferences": []
+  },
+  {
+    "id": "li-ao-shuxuji-1989-03-23-asks-sansan-to-carry-letter-to-cheng-siyuan",
+    "date": "1989-03-23",
+    "displayDate": "1989年3月23日",
+    "datePrecision": "day",
+    "title": "李敖托三三带信给程思远，为出版《政海秘辛》寻求同意",
+    "summary": "李敖在新版《政海秘辛》缘起中回述，出版《李宗仁回忆录》后，自己深知还须程思远著作配合才更完美。1989年3月23日，他托三三带信给程思远，说明自己困居台湾四十年、两度入狱仍拟出版程书，请程思远同意。",
+    "category": "writing",
+    "type": "李敖当事人事件",
+    "source": {
+      "book": "李敖书序集",
+      "chapter": "012.新版《政海秘辛》缘起",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/002.李敖书序集/012.新版《政海秘辛》缘起.txt",
+      "line": 15,
+      "lines": [
+        15
+      ]
+    },
+    "sourceQuote": "今年3月23日，我托三三带信给思远先生。",
+    "confidence": "high",
+    "tags": [
+      "书序",
+      "出版",
+      "书信",
+      "程思远",
+      "三三"
+    ],
+    "crossReferences": [
+      "li-ao-shuxuji-1988-12-13-recommends-li-zongren-memoir-authorizes-new-edition",
+      "li-ao-wuwu-diary-1990-06-03-receives-xiaopan-beijing-call"
+    ]
+  },
+  {
+    "id": "li-ao-shuxuji-1989-04-17-receives-cheng-siyuan-authorization-letter",
+    "date": "1989-04-17",
+    "displayDate": "1989年4月17日",
+    "datePrecision": "day",
+    "title": "李敖收到程思远回信，获授权处理其全部著作",
+    "summary": "程思远在4月17日回信李敖，称常读李敖著作并深为景佩，除授权李敖处理他的全部著作外，也愿为李敖出版社版本增补资料。李敖在缘起中把这封回信视为信任与好意，并由此先刊《政海秘辛》。",
+    "category": "writing",
+    "type": "李敖当事人事件",
+    "source": {
+      "book": "李敖书序集",
+      "chapter": "012.新版《政海秘辛》缘起",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/002.李敖书序集/012.新版《政海秘辛》缘起.txt",
+      "line": 15,
+      "lines": [
+        15
+      ]
+    },
+    "sourceQuote": "4月17日，思远先生回信给我。",
+    "confidence": "high",
+    "tags": [
+      "书序",
+      "出版",
+      "书信",
+      "程思远"
+    ],
+    "crossReferences": [
+      "li-ao-shuxuji-1989-03-23-asks-sansan-to-carry-letter-to-cheng-siyuan",
+      "li-ao-shuxuji-1988-12-13-recommends-li-zongren-memoir-authorizes-new-edition"
+    ]
+  },
+  {
+    "id": "li-ao-shuxuji-1989-05-08-writes-new-zhenghai-mixin-origin",
+    "date": "1989-05-08",
+    "displayDate": "1989年5月8日",
+    "datePrecision": "day",
+    "title": "李敖写新版《政海秘辛》缘起，先刊程思远著作",
+    "summary": "李敖为程思远《政海秘辛》新版写缘起，先从毛泽东《蝶恋花》、李宗仁与蒋介石纠缠、程思远辅佐李宗仁谈起，再回到自己的出版动作：他已出版《李宗仁回忆录》，又托三三带信给程思远并获授权，于是感于程思远的信任，先将《政海秘辛》刊出。",
+    "category": "writing",
+    "type": "李敖当事人事件",
+    "source": {
+      "book": "李敖书序集",
+      "chapter": "012.新版《政海秘辛》缘起",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/002.李敖书序集/012.新版《政海秘辛》缘起.txt",
+      "line": 15,
+      "lines": [
+        15,
+        17
+      ]
+    },
+    "sourceQuote": "我感于思远先生的信任与好意，特先将《政海秘辛》刊出。",
+    "confidence": "high",
+    "tags": [
+      "书序",
+      "出版",
+      "程思远",
+      "李宗仁"
+    ],
+    "crossReferences": [
+      "li-ao-shuxuji-1989-03-23-asks-sansan-to-carry-letter-to-cheng-siyuan",
+      "li-ao-shuxuji-1989-04-17-receives-cheng-siyuan-authorization-letter",
+      "li-ao-shuxuji-1988-12-13-recommends-li-zongren-memoir-authorizes-new-edition"
+    ]
+  },
+  {
+    "id": "li-ao-shuxuji-1989-06-11-writes-preface-to-new-guanchang-xianxingji",
+    "date": "1989-06-11",
+    "displayDate": "1989年6月11日",
+    "datePrecision": "day",
+    "title": "李敖为大风《新官场现形记》写序",
+    "summary": "李敖受命为大风《新官场现形记》写序，指出晚清谴责小说之后，以国民党官吏为对象的谴责小说长期空白，而大风此书是例外。他在拜读原稿时多次大笑，认为自己以台大历史系出身的眼光看这部作品，既看小说，也看历史。",
+    "category": "writing",
+    "type": "李敖当事人事件",
+    "source": {
+      "book": "李敖书序集",
+      "chapter": "013.《新官场现形记》序",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/002.李敖书序集/013.《新官场现形记》序.txt",
+      "line": 15,
+      "lines": [
+        11,
+        13,
+        15,
+        17
+      ]
+    },
+    "sourceQuote": "我在受命写序、拜读原稿之时，多次哈哈大笑。",
+    "confidence": "high",
+    "tags": [
+      "书序",
+      "出版",
+      "大风",
+      "小说"
+    ],
+    "crossReferences": [
+      "jingfumen-1989-06-24-writes-big-wind-rises",
+      "qianqiu-bianwai-1989-11-16-dafeng-advocates-li-ao-as-taiwan-leader",
+      "li-ao-wuwu-diary-1991-02-13-liu-jingxue-and-dafeng-lianri-letters"
+    ]
+  },
+  {
+    "id": "li-ao-shuxuji-1990-01-05-receives-wan-dahong-materials-and-letter-via-xu-yiqi",
+    "date": "1990-01-05",
+    "displayDate": "1990年1月5日",
+    "datePrecision": "day",
+    "title": "许以祺过台带来万大鋐资料和请序信",
+    "summary": "李敖在介绍《国共斗争的见闻》中回述，许以祺在1990年1月5日过台，带来黄三转托的万大鋐资料，其中有万大鋐给李敖的信，请他为书写序介绍。李敖见信后认为万氏毛笔信文字洒脱、有前辈风范，便决定聊写介绍刊于书前。",
+    "category": "writing",
+    "type": "李敖当事人事件",
+    "source": {
+      "book": "李敖书序集",
+      "chapter": "014.介绍《国共斗争的见闻》",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/002.李敖书序集/014.介绍《国共斗争的见闻》.txt",
+      "line": 7,
+      "lines": [
+        5,
+        7
+      ]
+    },
+    "sourceQuote": "今年1月5日，许以祺过台，带来黄三转托的万先生资料。",
+    "confidence": "high",
+    "tags": [
+      "书序",
+      "出版",
+      "来信",
+      "万大鋐",
+      "许以祺"
+    ],
+    "crossReferences": []
+  },
+  {
+    "id": "li-ao-shuxuji-1990-01-08-night-writes-introduction-to-guogong-douzheng-jianwen",
+    "date": "1990-01-08",
+    "displayDate": "1990年1月8日深夜",
+    "datePrecision": "day",
+    "title": "李敖深夜写《国共斗争的见闻》介绍",
+    "summary": "李敖深夜为万大鋐《国共斗争的见闻》写介绍，回述自己过去在香港《九十年代》读到“孟真”《国共小识》便知是行家作品，后来才发现“孟真”就是旧识万大鋐。二十七八年前，他曾在开国文献会帮忙编《开国文献》时与万大鋐外出访查资料；这次因黄三与许以祺转托，他为万氏国共斗争见闻写下书前介绍。",
+    "category": "writing",
+    "type": "李敖当事人事件",
+    "source": {
+      "book": "李敖书序集",
+      "chapter": "014.介绍《国共斗争的见闻》",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/002.李敖书序集/014.介绍《国共斗争的见闻》.txt",
+      "line": 13,
+      "lines": [
+        3,
+        5,
+        7,
+        13,
+        15
+      ]
+    },
+    "sourceQuote": "特写此文，呈万先生，兼告读者。",
+    "confidence": "high",
+    "tags": [
+      "书序",
+      "出版",
+      "万大鋐",
+      "国共斗争"
+    ],
+    "crossReferences": [
+      "li-ao-shuxuji-1990-01-05-receives-wan-dahong-materials-and-letter-via-xu-yiqi"
+    ]
+  },
+  {
+    "id": "li-ao-shuxuji-1990-04-05-visits-luo-kaijia-over-song-xilian-correction",
+    "date": "1990-04-05",
+    "displayDate": "1990年4月5日",
+    "datePrecision": "day",
+    "title": "李敖收到宋希濂快信后亲访罗开甲查校二十八军军长姓名",
+    "summary": "在《鹰犬将军》新版编校中，吕佳真提出原书关于二十八军军长姓名的疑义。宋希濂3月24日快信请罗开甲代答；李敖4月5日收到快信当天即亲访罗开甲并转交原信。罗开甲反复回想后先说不记得，后又来信说明自己当时到荆门前在沙市之事并不知悉，李敖于是把此问题暂列难解，并据其他资料倾向“刘秉哲”为正确。",
+    "category": "writing",
+    "type": "李敖当事人事件",
+    "source": {
+      "book": "李敖书序集",
+      "chapter": "015.《鹰犬将军》新版书后",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/002.李敖书序集/015.《鹰犬将军》新版书后.txt",
+      "line": 39,
+      "lines": [
+        9,
+        39
+      ]
+    },
+    "sourceQuote": "我在4月5日收到快信当天即亲访罗开甲将军，并转交原信。",
+    "confidence": "high",
+    "tags": [
+      "书序",
+      "出版",
+      "校订",
+      "宋希濂",
+      "吕佳真",
+      "罗开甲"
+    ],
+    "crossReferences": [
+      "book3-1988-07-28-li-writes-song-from-xitou",
+      "book3-1989-03-30-li-replies-to-song",
+      "li-ao-wuwu-diary-1990-05-08-talks-with-junmi-about-song-xilian-book"
+    ]
+  },
+  {
+    "id": "li-ao-shuxuji-1990-04-09-night-writes-afterword-for-new-eagle-dog-general",
+    "date": "1990-04-09",
+    "displayDate": "1990年4月9日夜",
+    "datePrecision": "day",
+    "title": "李敖夜写《鹰犬将军》新版书后，说明台湾新版配图、附录与校订责任",
+    "summary": "李敖夜里为宋希濂《鹰犬将军》台湾新版写书后，回述1988年7月自己写信建议在台湾出新版并获宋希濂同意，虽因误解和其他因素拖延一年九个月，终告完成。他说明新版彩色配图由自己配置，附录十篇也由自己基于补充正文而选定；大陆版错字则在台湾新版中改正，吕佳真编校时提出疑义后，由李敖写信经大风转宋希濂，并继续追查罗开甲一节。",
+    "category": "writing",
+    "type": "李敖当事人事件",
+    "source": {
+      "book": "李敖书序集",
+      "chapter": "015.《鹰犬将军》新版书后",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/002.李敖书序集/015.《鹰犬将军》新版书后.txt",
+      "line": 41,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        39,
+        41
+      ]
+    },
+    "sourceQuote": "以上配图并没给宋希濂将军过目，如有任何不妥，由我负完全责任。",
+    "confidence": "high",
+    "tags": [
+      "书序",
+      "出版",
+      "校订",
+      "宋希濂",
+      "鹰犬将军"
+    ],
+    "crossReferences": [
+      "book3-1984-06-07-li-writes-eagle-dog-general",
+      "book3-1984-06-15-eagle-dog-general-published",
+      "qianqiu-bianwai-1985-06-song-xilian-preface-thanks-li-ao-eagle-dog-general",
+      "book3-1988-07-28-li-writes-song-from-xitou",
+      "book3-1989-11-25-song-book-process-written",
+      "li-ao-shuxuji-1990-04-05-visits-luo-kaijia-over-song-xilian-correction"
+    ]
+  },
+  {
+    "id": "li-ao-shuxuji-1990-05-01-writes-note-for-shiwei-zhang-tan-mao-zedong",
+    "date": "1990-05-01",
+    "displayDate": "1990年5月1日",
+    "datePrecision": "day",
+    "title": "李敖写《侍卫长谈毛泽东》题记",
+    "summary": "李敖为《侍卫长谈毛泽东》写题记，以曹操、许子将和“侍从眼中无英雄”等典故开头，评说毛泽东与蒋介石皆为乱世奸雄，但毛泽东“奸中偶得其真”，尚有可观之处。他把这部侍卫回忆介绍为从英雄到厌物一应俱全、可让读者看到真正毛泽东的书。",
+    "category": "writing",
+    "type": "李敖当事人事件",
+    "source": {
+      "book": "李敖书序集",
+      "chapter": "016.《侍卫长谈毛泽东》题记",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/002.李敖书序集/016.《侍卫长谈毛泽东》题记.txt",
+      "line": 7,
+      "lines": [
+        3,
+        5,
+        7
+      ]
+    },
+    "sourceQuote": "这本《侍卫长谈毛泽东》，从英雄到厌物，一应俱全。",
+    "confidence": "high",
+    "tags": [
+      "书序",
+      "出版",
+      "毛泽东"
+    ],
+    "crossReferences": [
+      "li-ao-shuxuji-1990-05-27-writes-note-for-shiwei-guan-tan-jiang-jieshi"
+    ],
+    "additionalSources": [
+      {
+        "book": "李敖书序集续集",
+        "chapter": "011.《卫士长谈毛泽东》题记",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/003.李敖书序集续集/011.《卫士长谈毛泽东》题记.txt",
+        "line": 9,
+        "note": "《李敖书序集续集》异题重收此文作《卫士长谈毛泽东》题记；编辑说明称李敖出版社1990年5月20日出版《卫士长谈毛泽东》，书前有李敖配图十四幅。"
+      }
+    ]
+  },
+  {
+    "id": "li-ao-shuxuji-1990-05-27-writes-note-for-shiwei-guan-tan-jiang-jieshi",
+    "date": "1990-05-27",
+    "displayDate": "1990年5月27日",
+    "datePrecision": "day",
+    "title": "李敖写《侍卫官谈蒋介石》题记，并说明据大陆文字辑刊",
+    "summary": "李敖为《侍卫官谈蒋介石》写题记，说明一个月前印《卫士长谈毛泽东》，一个月后再印这本谈蒋介石的书。他区分蒋介石侍从回忆中的“台湾派”和“大陆派”，认为台湾派多为吹捧，大陆派反能得真；前些日子俞济时去世后，他益感大陆派材料迫切，便花时间从大陆印行文字中编成此书，以搭配毛泽东那本。",
+    "category": "writing",
+    "type": "李敖当事人事件",
+    "source": {
+      "book": "李敖书序集",
+      "chapter": "017.《侍卫官谈蒋介石》题记",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/002.李敖书序集/017.《侍卫官谈蒋介石》题记.txt",
+      "line": 9,
+      "lines": [
+        3,
+        7,
+        9,
+        11
+      ]
+    },
+    "sourceQuote": "特花一些时间，就大陆印的文字中，编成此书，用来搭配《卫士长谈毛泽东》。",
+    "confidence": "high",
+    "tags": [
+      "书序",
+      "出版",
+      "蒋介石"
+    ],
+    "crossReferences": [
+      "li-ao-shuxuji-1990-05-01-writes-note-for-shiwei-zhang-tan-mao-zedong",
+      "li-ao-wuwu-diary-1990-10-19-bobo-song-and-jiangjieshi-book-published"
+    ]
+  },
+  {
+    "id": "li-ao-shuxuji-1990-11-15-writes-liang-shuming-yiwang-tanjiulu-note-and-adds-images",
+    "date": "1990-11-15",
+    "displayDate": "1990年11月15日",
+    "datePrecision": "day",
+    "title": "李敖写梁漱溟《忆往谈旧录》介绍，并为新版配图",
+    "summary": "李敖为梁漱溟《忆往谈旧录》写介绍，概述梁漱溟生平与著述后，明确把自己的评价落在书前介绍里：梁漱溟未必够格做哲学家，却是一位教育家、奔走国是者和有骨气的伟大知识分子。李敖出版社新版成书之日，他特别为此书配图多幅，以便读者阅读。",
+    "category": "writing",
+    "type": "李敖当事人事件",
+    "source": {
+      "book": "李敖书序集",
+      "chapter": "018.梁漱溟和他的《忆往谈旧录》",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/002.李敖书序集/018.梁漱溟和他的《忆往谈旧录》.txt",
+      "line": 9,
+      "lines": [
+        7,
+        9,
+        11
+      ]
+    },
+    "sourceQuote": "李敖出版社新版成书之日，我特别为它配图多幅，以快读者。",
+    "confidence": "high",
+    "tags": [
+      "书序",
+      "出版",
+      "配图",
+      "梁漱溟"
+    ],
+    "crossReferences": []
+  },
+  {
+    "id": "li-ao-shuxuji-1991-06-02-writes-wang-rongzu-zhang-taiyan-research-preface-in-taiwan",
+    "date": "1991-06-02",
+    "displayDate": "1991年6月2日，在台湾",
+    "datePrecision": "day",
+    "title": "李敖在台湾为汪荣祖《章太炎研究》写序",
+    "summary": "李敖为台大历史系老同学汪荣祖《章太炎研究》写序，称汪荣祖是自己最佩服的历史学者之一，并把历史学者的标准定为史学在行且有正义感。他借章太炎一生把学问与正义感结合在一起，强调新一代正义之士仍要挺身研究往史；汪荣祖书成请他作序，他不辞而“特志其大者，以归老友”。",
+    "category": "writing",
+    "type": "李敖当事人事件",
+    "source": {
+      "book": "李敖书序集",
+      "chapter": "019.汪荣祖《章太炎研究》序",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/002.李敖书序集/019.汪荣祖《章太炎研究》序.txt",
+      "line": 19,
+      "lines": [
+        3,
+        11,
+        19,
+        21
+      ]
+    },
+    "sourceQuote": "荣祖的著作，就是我们的范本。书成之日，荣祖要我写序，我不敢辞。",
+    "confidence": "high",
+    "tags": [
+      "书序",
+      "出版",
+      "汪荣祖",
+      "章太炎"
+    ],
+    "crossReferences": [
+      "book5-1986-03-05-letter-to-wang-rongzu-on-haoran-spirit",
+      "li-ao-suixielu-houji-1992-02-11-chen-pingjing-call-wang-rongzu-viewpoint-blind-spots",
+      "book4-1995-04-04-donates-to-zhang-xiaoci-and-launches-chiang-book"
+    ]
+  },
+  {
+    "id": "li-ao-shuxuji-1991-11-12-preface-context-uses-feian-huibian-for-case-checking",
+    "date": "1991-11-12",
+    "displayDate": "1991年11月12日序中回述",
+    "datePrecision": "day-context",
+    "title": "李敖在《历年办理匪案汇编》序中回述以秘密文件追查李登辉、蔡仲伯与严侨等案",
+    "summary": "李敖在《历年办理匪案汇编》序中回述自己如何使用这套安全局机密文件：他曾在《蒋宋美龄通奸》所收文章中据此提供李登辉参加共产党且出卖同志的官方文证；又曾与蔡仲伯谈案情，影印第二辑第二案四页给蔡看，并劝其写出不实之处；他还说明自己写《我最难忘的一位老师》时尚未取得此书，后来才可用这套“万宝囊”“死字典”查严侨案。",
+    "category": "writing",
+    "type": "李敖当事人事件",
+    "source": {
+      "book": "李敖书序集",
+      "chapter": "020.安全局机密文件——《历年办理匪案汇编》序",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/002.李敖书序集/020.安全局机密文件——《历年办理匪案汇编》序.txt",
+      "line": 93,
+      "lines": [
+        3,
+        17,
+        91,
+        93,
+        95
+      ]
+    },
+    "sourceQuote": "有一次，我跟我的朋友蔡仲伯老大哥谈到他的案情，他大为惊讶我知道的那么多！",
+    "confidence": "high",
+    "tags": [
+      "书序",
+      "出版",
+      "档案",
+      "政治案件",
+      "李登辉",
+      "蔡仲伯",
+      "严侨"
+    ],
+    "crossReferences": [
+      "book8-1989-li-ao-new-series-published",
+      "li-ao-wuwu-diary-1990-12-19-book-fair-proof-photos-and-liupin-dinner",
+      "li-ao-wuwu-diary-1991-01-15-book-fair-letters-central-daily-court-yongran-call",
+      "micang-diary-1985-01-19-dines-with-yongfeng-cai-zhongbo-and-visits-tairong",
+      "micang-diary-1985-04-17-finishes-yan-qiao-memorial-essay",
+      "li-ao-wuwu-diary-1990-09-22-anhe-writing-calls-wang-and-hosts-dinner"
+    ]
+  },
+  {
+    "id": "li-ao-shuxuji-1991-11-12-writes-preface-to-linian-banli-feian-huibian-and-protects-source",
+    "date": "1991-11-12",
+    "displayDate": "1991年11月12日",
+    "datePrecision": "day",
+    "title": "李敖写《历年办理匪案汇编》序，并以原寸影印保护秘密来源",
+    "summary": "李敖为安全局机密文件《历年办理匪案汇编》写序，说明自己只从秘密管道取得第一、二辑，1958年以后是否还有续辑已难征。他决定为保持秘密文件原状，将此书完全以原寸影印方式印制；提供文件者目前不能公布姓名，书封编号也要挖掉，以确保来源安全。李敖在序末称这位无名英雄“仍长在我心，永存感念”。",
+    "category": "writing",
+    "type": "李敖当事人事件",
+    "source": {
+      "book": "李敖书序集",
+      "chapter": "020.安全局机密文件——《历年办理匪案汇编》序",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/002.李敖书序集/020.安全局机密文件——《历年办理匪案汇编》序.txt",
+      "line": 119,
+      "lines": [
+        17,
+        119,
+        121
+      ]
+    },
+    "sourceQuote": "为保持秘密文件原状，这部书，完全以原寸影印方式印制。",
+    "confidence": "high",
+    "tags": [
+      "书序",
+      "出版",
+      "档案",
+      "政治案件",
+      "安全局",
+      "秘密文件"
+    ],
+    "crossReferences": [
+      "li-ao-shuxuji-1991-11-12-preface-context-uses-feian-huibian-for-case-checking",
+      "li-ao-suixielu-qianji-1991-11-04-comments-tucheng-black-prison-claim-wang-kanglu",
+      "li-ao-wuwu-diary-1990-12-19-book-fair-proof-photos-and-liupin-dinner"
+    ]
+  }
+]
