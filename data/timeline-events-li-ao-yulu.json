@@ -4381,7 +4381,21 @@
       "chapter": "030.情书一束",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/030.情书一束.txt",
       "line": 47
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖情书集",
+        "chapter": "005.给LW",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集/005.给LW.txt",
+        "line": 5,
+        "lines": [
+          5,
+          19,
+          21
+        ],
+        "note": "补《给LW》原文来源。"
+      }
+    ]
   },
   {
     "id": "li-ao-yulu-1962-09-05-writes-to-g-after-typhoon",
@@ -4409,7 +4423,8 @@
     ],
     "works": [
       "李敖语录",
-      "给G的九十四封信"
+      "给G的九十四封信",
+      "李敖情书集"
     ],
     "certainty": "reported-by-author",
     "source": {
@@ -4417,7 +4432,25 @@
       "chapter": "030.情书一束",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/030.情书一束.txt",
       "line": 79
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖情书集",
+        "chapter": "006.给G的九十四封信",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集/006.给G的九十四封信.txt",
+        "line": 311,
+        "lines": [
+          311,
+          319,
+          327,
+          329,
+          331,
+          335,
+          337
+        ],
+        "note": "补《给G的九十四封信》原文来源。"
+      }
+    ]
   },
   {
     "id": "li-ao-yulu-1964-03-31-qingshuji-future-novel",
@@ -4452,7 +4485,23 @@
       "chapter": "030.情书一束",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/030.情书一束.txt",
       "line": 105
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖情书集",
+        "chapter": "008.给谷莺",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集/008.给谷莺.txt",
+        "line": 7,
+        "lines": [
+          7,
+          13,
+          21,
+          25,
+          27
+        ],
+        "note": "补《给谷莺》原文来源。"
+      }
+    ]
   },
   {
     "id": "li-ao-yulu-1964-08-03-writes-to-h-after-not-seeing-her",
@@ -4588,7 +4637,8 @@
     ],
     "works": [
       "李敖语录",
-      "给阿贞"
+      "给阿贞",
+      "李敖情书集"
     ],
     "certainty": "reported-by-author",
     "source": {
@@ -4596,7 +4646,23 @@
       "chapter": "030.情书一束",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/030.情书一束.txt",
       "line": 249
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖情书集",
+        "chapter": "010.给阿贞",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集/010.给阿贞.txt",
+        "line": 5,
+        "lines": [
+          5,
+          7,
+          9,
+          17,
+          19
+        ],
+        "note": "补《给阿贞》原文来源。"
+      }
+    ]
   },
   {
     "id": "li-ao-yulu-1967-03-17-writes-to-y-before-sunday",

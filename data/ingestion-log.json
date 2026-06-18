@@ -36989,5 +36989,595 @@
       "074.20170225《亚洲周刊》专访李敖.txt"
     ],
     "nextRecommendation": "007.采访序跋类已处理至最后一本。下一轮建议转入 008 类，先列目录确认第一本书与章节边界；如果目录中是书信函件类，优先从第一本的目录/自序/001至010开始，继续只抽李敖当事动作、书信往来、署写、发出、收到、回忆和计划，旁人背景不扩成事件。"
+  },
+  {
+    "date": "2026-06-17",
+    "round": "li-ao-qingshuji-round001-001-010",
+    "book": "李敖情书集",
+    "sourcePath": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集/",
+    "sourceFiles": [
+      "001.《李敖情书集》新序.txt",
+      "002.《李敖情书集》原序.txt",
+      "003.给咪咪.txt",
+      "004.给Bonnie.txt",
+      "005.给LW.txt",
+      "006.给G的九十四封信.txt（本轮处理第1至25个署日块，至1962-09-23）",
+      "007.给尚勤的两封信.txt",
+      "008.给谷莺.txt",
+      "009.给H的十三封信.txt",
+      "010.给阿贞.txt"
+    ],
+    "dataFile": "data/timeline-events-li-ao-qingshuji.json",
+    "addedEventIds": [
+      "li-ao-qingshuji-1958-03-18-writes-to-mimi-in-modern-history-class",
+      "li-ao-qingshuji-1961-10-18-writes-lw-letter-at-bitan",
+      "li-ao-qingshuji-1962-07-14-decides-to-send-lw-letter",
+      "li-ao-qingshuji-1962-04-08-g-letter-001-photo-key-friday-talk",
+      "li-ao-qingshuji-1962-05-03-g-letter-002-skating-tickets",
+      "li-ao-qingshuji-1962-05-09-g-letter-003-john-third-epistle",
+      "li-ao-qingshuji-1962-06-04-g-letter-004-photos-and-june8-pickup",
+      "li-ao-qingshuji-1962-06-06-g-letter-005-poem-for-g",
+      "li-ao-qingshuji-1962-06-11-g-letter-006-graduation-photo-dinner",
+      "li-ao-qingshuji-1962-06-12-g-letter-007-color-photo-and-exam",
+      "li-ao-qingshuji-1962-06-13-g-letter-008-after-phone-disappointment",
+      "li-ao-qingshuji-1962-06-17-g-letter-009-birthday-cake",
+      "li-ao-qingshuji-1962-06-21-g-letter-010-birthday-and-cohabitation-plan",
+      "li-ao-qingshuji-1962-07-12-g-letter-011-medical-college-cafeteria",
+      "li-ao-qingshuji-1962-07-13-g-letter-012-fulong-plan",
+      "li-ao-qingshuji-1962-08-12-g-letter-013-church-door-sermon",
+      "li-ao-qingshuji-1962-08-15-g-letter-014-call-or-night-run",
+      "li-ao-qingshuji-1962-09-02-g-letter-015-after-g-goes-hualien",
+      "li-ao-qingshuji-1962-09-03-g-letter-016-glasses-and-telegram-forms",
+      "li-ao-qingshuji-1962-09-04-g-letter-017-hualien-contacts-and-limited-mail",
+      "li-ao-qingshuji-1962-09-06-g-letter-019-slippers-keyring-and-express-envelopes",
+      "li-ao-qingshuji-1962-09-08-g-letter-020-telegram-and-hualien-plan",
+      "li-ao-qingshuji-1962-09-10-g-letter-021-yang-erlin-letter-and-parcel",
+      "li-ao-qingshuji-1962-09-11-g-letter-022-plans-bus-to-hualien",
+      "li-ao-qingshuji-1962-09-12-g-letter-023-sends-id-and-canned-goods",
+      "li-ao-qingshuji-1962-09-21-g-letter-024-after-four-day-meeting",
+      "li-ao-qingshuji-1962-09-23-g-letter-025-diary-stops-and-hu-qiuyuan-busy",
+      "li-ao-qingshuji-1966-04-08-letter-to-shangqin-wenxing-bye-bye",
+      "li-ao-qingshuji-1974-01-27-prison-letter-to-shangqin",
+      "li-ao-qingshuji-1964-09-02-h-letter-pictures-and-being-understood",
+      "li-ao-qingshuji-1964-09-29-h-letter-to-taichung-and-grace",
+      "li-ao-qingshuji-1964-09-29-noon-h-note-before-train",
+      "li-ao-qingshuji-1964-09-29-night-h-letter-in-taichung-hotel",
+      "li-ao-qingshuji-1964-10-01-h-letter-after-return-and-wenxing-notice",
+      "li-ao-qingshuji-1964-10-03-to-04-h-weekend-card-table-letter",
+      "li-ao-qingshuji-1964-10-08-h-letter-donner-marnie-and-dream-woman",
+      "li-ao-qingshuji-1965-09-06-sends-matchboxes-to-azhen",
+      "li-ao-qingshuji-1988-01-16-writes-new-preface-and-reedits-love-letters"
+    ],
+    "added": 38,
+    "revisedEventIds": [
+      "li-ao-love-poems-1982-04-17-writes-preface-to-three-emotion-books",
+      "qianqiu-wansui-1982-06-051-publishes-three-emotion-books",
+      "qianqiu-wansui-1966-11-05-051-publishes-farewell-literary-world-ten-books",
+      "daxue-houqi-yi-1959-06-21-finishes-letter-to-bonnie-in-afternoon",
+      "li-ao-yulu-1961-10-18-late-night-love-letter-from-qingshuji",
+      "li-ao-yulu-1962-09-05-writes-to-g-after-typhoon",
+      "li-ao-yulu-1964-03-31-qingshuji-future-novel",
+      "li-ao-yulu-1965-09-04-early-morning-letter-to-azhen",
+      "book5-1964-08-04-letter-to-h-real-man",
+      "book5-1964-09-09-letter-to-h-typhoon-phone-and-loneliness",
+      "book5-1964-09-28-letter-to-h-illness-and-visit",
+      "book5-1964-09-30-letter-to-h-coffin-mahjong-and-return-trip",
+      "book5-1964-09-28-to-1964-10-04-letters-to-h"
+    ],
+    "revised": 13,
+    "status": "done",
+    "notes": "进入008.书信函件类第一本《李敖情书集》第一轮。新增38条：1958年西洋近古史课上给咪咪；1961年碧潭深夜给LW与1962年附跋决定寄出；《给G的九十四封信》先处理至1962年9月23日，拆出G在台北、花莲初期的照片、讲演、毕业、生日、限时信、电报、花莲联络人、寄物、赴花莲计划、南港前写信与日记停写等当事节点；1966年给尚勤谈与文星bye-bye及1974年狱中给尚勤；1964年给H的若干旧库未单列强节点；1965年给阿贞后续送火柴盒；1988年《李敖情书集》新序。旧库已有1982《三情之书》序/出版、1966《也有情书》、1959 Bonnie信、1961 LW、1962-09-05 G、1964谷莺、阿贞及H若干节点，本轮均补当前书来源，不重复造同义条。凡“想/梦/神游/计划”类摘要均补足西洋近古史课上、台北、花莲、台中旅馆、狱中等语境状语。",
+    "checks": {
+      "expectedNewDataFileTotal": 38,
+      "expectedProjectTotal": 10351,
+      "dataVersion": "2026-06-17-li-ao-qingshuji-round001-001-010",
+      "rebuildExports": true,
+      "duplicateIds": 0,
+      "duplicateRefs": 0,
+      "missingRefs": 0,
+      "sourceLineErrors": 0
+    },
+    "currentBookTotal": 10,
+    "newDataFileTotal": 38,
+    "currentProjectTotal": 10351,
+    "partialSourceFiles": [
+      "006.给G的九十四封信.txt"
+    ],
+    "nextRecommendation": "下一轮建议继续《李敖情书集》006.给G的九十四封信，从1962年9月26日（第26个署日块）接着处理，优先推进到1962年10月底或11月初；重点是G在花莲期间的来信/寄物/花莲行程计划、李敖写《修改<医师法>与废止中医》、迎新会、日月潭/花莲同游计划，以及所有“想/计划/梦到/盼望”表述的地点语境。"
+  },
+  {
+    "date": "2026-06-17",
+    "round": "li-ao-qingshuji-round002-g-19620926-19621029",
+    "book": "李敖情书集",
+    "sourcePath": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集/",
+    "sourceFiles": [
+      "006.给G的九十四封信.txt（本轮处理1962-09-26至1962-10-29署日块，并拆分10月19日/20日连续信）"
+    ],
+    "dataFile": "data/timeline-events-li-ao-qingshuji.json",
+    "addedEventIds": [
+      "li-ao-qingshuji-1962-09-26-g-letter-026-hu-qiuyuan-article-and-hualien-jealousy",
+      "li-ao-qingshuji-1962-10-03-g-letter-027-finishes-medical-law-article",
+      "li-ao-qingshuji-1962-10-07-g-letter-028-airport-pickup-plan",
+      "li-ao-qingshuji-1962-10-13-g-letter-029-after-g-returns-hualien-busy-and-lawsuit",
+      "li-ao-qingshuji-1962-10-14-g-letter-030-northeastern-engineering-dean-banquet",
+      "li-ao-qingshuji-1962-10-15-g-letter-031-xu-xu-urges-less-smoking",
+      "li-ao-qingshuji-1962-10-16-g-letter-032-qiqing-discharged-two-movies",
+      "li-ao-qingshuji-1962-10-17-g-letter-033-first-class-after-notoriety",
+      "li-ao-qingshuji-1962-10-19-g-letter-034-sends-books-and-lawsuit-mediation",
+      "li-ao-qingshuji-1962-10-20-g-letter-035-sends-socks-and-checks-hualien-bus",
+      "li-ao-qingshuji-1962-10-22-g-letter-036-misses-g-and-shows-photo-to-xu-xu",
+      "li-ao-qingshuji-1962-10-24-g-letter-037-declares-marriage-and-sun-moon-lake-plan",
+      "li-ao-qingshuji-1962-10-29-g-letter-038-hualien-trip-routes-and-wenxing-submission"
+    ],
+    "added": 13,
+    "revisedEventIds": [],
+    "revised": 0,
+    "status": "done",
+    "notes": "继续《李敖情书集》006《给G的九十四封信》第二轮，新增13条，覆盖1962年9月26日至10月29日：胡秋原案文章、《修改<医师法>与废止中医》赶稿、机场接G、G返花莲后李敖在台北忙文章和法院辩解状、赴东北大学工学院院长宴、徐訏劝少抽烟、萧启庆退伍后看电影、开课后自称恶名、寄英文书袜子水果信封、拒绝官司和谈条件、查花莲金马号、向徐訏展示G照片、北投饭后想G、声明结婚对象和日月潭计划、接受花莲同游计划并寄《文星》征文稿。所有“想/计划/神游/盼望”摘要均补足在台北、北投、在家或对花莲行程的语境状语。",
+    "checks": {
+      "expectedNewDataFileTotal": 51,
+      "expectedProjectTotal": 10364,
+      "dataVersion": "2026-06-17-li-ao-qingshuji-round002-g-19620926-19621029",
+      "rebuildExports": true,
+      "duplicateIds": 0,
+      "duplicateRefs": 0,
+      "missingRefs": 0,
+      "sourceLineErrors": 0
+    },
+    "currentBookTotal": 10,
+    "newDataFileTotal": 51,
+    "currentProjectTotal": 10364,
+    "partialSourceFiles": [
+      "006.给G的九十四封信.txt"
+    ],
+    "nextRecommendation": "下一轮建议继续《李敖情书集》006.给G的九十四封信，处理1962年10月30日至11月17日左右：重点抽发薪/经援玩笑、赶写《评中医及医师法》、G是否回台北与机场迎送、文星五周年纪念会、安东街墙上文告、在机场送G后回家整理她留下物品、Bottorff家聚会和11月16至17日杂事，并继续给“想/计划/盼望”类表述补足台北、机场、家中等状语。"
+  },
+  {
+    "date": "2026-06-17",
+    "round": "li-ao-qingshuji-round003-g-19621030-19621118",
+    "book": "李敖情书集",
+    "sourcePath": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集/",
+    "sourceFiles": [
+      "006.给G的九十四封信.txt（本轮处理1962-10-30至1962-11-18；其中11月18日由原文星期日与上下文校正）"
+    ],
+    "dataFile": "data/timeline-events-li-ao-qingshuji.json",
+    "addedEventIds": [
+      "li-ao-qingshuji-1962-10-30-g-letter-039-pears-and-glass-bottle-for-g-mother",
+      "li-ao-qingshuji-1962-11-01-g-letter-040-salary-joke-and-medical-law-draft",
+      "li-ao-qingshuji-1962-11-05-g-letter-041-wenxing-fifth-anniversary",
+      "li-ao-qingshuji-1962-11-06-g-letter-042-return-taipei-and-hualien-plans",
+      "li-ao-qingshuji-1962-11-07-g-letter-043-class-and-waiting-for-g-return",
+      "li-ao-qingshuji-1962-11-07-g-letter-044-anton-street-wall-notice",
+      "li-ao-qingshuji-1962-11-08-g-letter-045-enlarged-photo-and-military-airport",
+      "li-ao-qingshuji-1962-11-14-g-letter-046-airport-sendoff-and-room-after-g-left",
+      "li-ao-qingshuji-1962-11-15-g-letter-047-bottorff-party-shows-g-photo",
+      "li-ao-qingshuji-1962-11-16-g-letter-048-annotates-g-old-essay-wangshi",
+      "li-ao-qingshuji-1962-11-16-g-letter-049-nangang-and-xu-gaoruan-snack",
+      "li-ao-qingshuji-1962-11-17-g-letter-050-ma-hongxiang-fee-and-xinbada-letter",
+      "li-ao-qingshuji-1962-11-18-g-letter-051-court-summons-and-december-hualien-plan"
+    ],
+    "added": 13,
+    "revisedEventIds": [],
+    "revised": 0,
+    "status": "done",
+    "notes": "继续《李敖情书集》006《给G的九十四封信》第三轮，新增13条，覆盖1962年10月30日至11月18日：再寄日本梨与想买玻璃瓶给G母、赶写《评中医及医师法》并倒数去花莲、参加《文星》五周年纪念会、劝G回台北并筹划机场/花莲行程、11月7日上课等信与安东街墙上匿名文告、11月8日看G放大照片并约军用机场、11月14日机场送G后回家收拾粉扑套和头发、11月15日Bottorff家聚会并传看G花莲照片、11月16日批注G旧作《往事》、同日去南港并与徐高阮等小坐、11月17日处理马宏祥父兄稿费和辛八达来信、11月18日收法院传票并仍想12月去花莲。原文line961署作“1962年11月16日没有接到你的信的星期日”，但1962-11-16为星期五，且信中11月22日星期四、12月8日星期六均吻合历法，故按11月18日星期日入库并在displayDate中保留原文矛盾。所有“想/计划/盼望”摘要均补足给花莲G写信、在台北、机场、家中等语境状语。",
+    "checks": {
+      "expectedNewDataFileTotal": 64,
+      "expectedProjectTotal": 10377,
+      "dataVersion": "2026-06-17-li-ao-qingshuji-round003-g-19621030-19621118",
+      "rebuildExports": true,
+      "duplicateIds": 0,
+      "duplicateRefs": 0,
+      "missingRefs": 0,
+      "sourceLineErrors": 0,
+      "dateConflictHandled": true
+    },
+    "currentBookTotal": 10,
+    "newDataFileTotal": 64,
+    "currentProjectTotal": 10377,
+    "partialSourceFiles": [
+      "006.给G的九十四封信.txt"
+    ],
+    "nextRecommendation": "下一轮建议继续《李敖情书集》006.给G的九十四封信，从1962年11月23日接着处理到12月初：重点抽11月22日台北地方法院出庭后的人山人海、法庭应答、徐复观指认“那个小孩子”、台大法律系学生递条、刘凤翰请看电影吃饭、和事老再现、持续想G和计划花莲行程；再推进到陶希圣约谈、孟瑶评价、小姨求情、12月1日左右花莲行程仍受阻等节点。"
+  },
+  {
+    "date": "2026-06-18",
+    "round": "li-ao-qingshuji-round004-g-19621120-19621204",
+    "book": "李敖情书集",
+    "sourcePath": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集/",
+    "sourceFiles": [
+      "006.给G的九十四封信.txt（本轮处理1962-11-20至1962-12-04；跳过源文夹入的1962-12-07信，留给下一轮）"
+    ],
+    "dataFile": "data/timeline-events-li-ao-qingshuji.json",
+    "addedEventIds": [
+      "li-ao-qingshuji-1962-11-20-g-letter-052-liang-shiqiu-home-talk",
+      "li-ao-qingshuji-1962-11-22-g-letter-053-hu-qiuyuan-court-hearing",
+      "li-ao-qingshuji-1962-11-22-g-letter-054-after-court-support-and-liu-fenghan",
+      "li-ao-qingshuji-1962-11-23-g-letter-055-calls-worry-and-hualien-supplies",
+      "li-ao-qingshuji-1962-11-23-g-letter-056-tao-xisheng-talk-and-aunt-request",
+      "li-ao-qingshuji-1962-11-24-g-letter-057-sends-pears-cloth-and-watches-film",
+      "li-ao-qingshuji-1962-11-25-g-letter-058-missing-g-printing-factory-and-ray-donner",
+      "li-ao-qingshuji-1962-11-26-g-letter-059-xianneizhu-marriage-and-lawsuit",
+      "li-ao-qingshuji-1962-11-27-g-letter-060-rainy-day-dream-and-dai-zhiang-dance",
+      "li-ao-qingshuji-1962-11-28-g-letter-061-hualien-earthquake-and-classmates-ask-lawsuit",
+      "li-ao-qingshuji-1962-11-29-g-letter-062-liu-xinhuang-and-dance-party",
+      "li-ao-qingshuji-1962-12-01-g-letter-063-dec22-return-plan-and-cold-bed",
+      "li-ao-qingshuji-1962-12-02-g-letter-064-dongfangwang-talk-and-nie-hualing-letter",
+      "li-ao-qingshuji-1962-12-04-g-letter-065-wenxing-printing-mediation-and-gas-stove"
+    ],
+    "added": 14,
+    "revisedEventIds": [],
+    "revised": 0,
+    "status": "done",
+    "notes": "继续《李敖情书集》006《给G的九十四封信》第四轮，新增14条，覆盖1962年11月20日至12月4日：11月20日晚与余光中、萧孟能在梁实秋家长谈；11月22日胡秋原案出庭、法庭人山人海、徐复观指认“那个小孩子”、李敖向胡秋原做鬼脸、台大法律系学生递条、庭后刘凤翰请看电影吃饭；11月23日庭后仍来电来人、想G、花莲计划、陶希圣约谈、孟瑶评价、打电话请小姨求G准他去花莲；11月24日寄梨和绒布并看《假期惊魂》；11月25日未接G信、看照片、去印刷厂、到Ray Donner家；11月26日借《贤内助》催G结婚并谈官司谣言；11月27日雨天梦G在太平洋边、戴之昂舞会预告和大舅子稿费电话；11月28日剪记花莲地震并在上课时被追问官司；11月29日追记书摊遇刘心皇与昨晚舞会；12月1日建议G十二月二十二日返台北；12月2日与东方望长谈并收到聂华苓谈《张飞的眼睛》来信；12月4日因《文星》付印难赴花莲，调解友人钱事，受邀现代诗朗诵会并购气化炉。源文中1962年12月7日信夹在11月28与11月29之间，本轮按日期窗口暂跳过，留给下一轮和12月5、6、8、9一起处理。所有“想/梦/计划/盼望”摘要均补足在台北、法庭、家中、信中等语境状语。",
+    "checks": {
+      "expectedNewDataFileTotal": 78,
+      "expectedProjectTotal": 10391,
+      "dataVersion": "2026-06-18-li-ao-qingshuji-round004-g-19621120-19621204",
+      "rebuildExports": true,
+      "duplicateIds": 0,
+      "duplicateRefs": 0,
+      "missingRefs": 0,
+      "sourceLineErrors": 0,
+      "skippedOutOfWindowSourceDate": "1962-12-07"
+    },
+    "currentBookTotal": 10,
+    "newDataFileTotal": 78,
+    "currentProjectTotal": 10391,
+    "partialSourceFiles": [
+      "006.给G的九十四封信.txt"
+    ],
+    "nextRecommendation": "下一轮建议继续《李敖情书集》006.给G的九十四封信，处理1962年12月5日至12月9日，并补回源文夹在前面的12月7日信：重点抽12月5日决定寄钱和买小礼物、刘绍唐在美而廉请咖啡；12月6日大舅子来、寄五百元；12月7日政大学生记者合照、文献会陈胖子失恋、想起九年前认识罗惠芳；12月8日太空被监控玩笑；12月9日Ray Donner饭局、余光中催去师大现代诗朗诵会、带G照片赴会、整日跑楼下取信。"
+  },
+  {
+    "date": "2026-06-18",
+    "round": "li-ao-qingshuji-round005-g-19621205-19621209",
+    "book": "李敖情书集",
+    "sourcePath": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集/",
+    "sourceFiles": [
+      "006.给G的九十四封信.txt（本轮处理1962-12-05至1962-12-09，并补回源文夹在前面的1962-12-07信）"
+    ],
+    "dataFile": "data/timeline-events-li-ao-qingshuji.json",
+    "addedEventIds": [
+      "li-ao-qingshuji-1962-12-05-g-letter-066-money-gift-liu-shaotang-coffee",
+      "li-ao-qingshuji-1962-12-06-g-letter-067-liu-he-visit-and-sends-five-hundred",
+      "li-ao-qingshuji-1962-12-07-g-letter-068-anton-street-lonely-and-chen-pangzi",
+      "li-ao-qingshuji-1962-12-07-g-letter-069-remembers-meeting-luo-huifang",
+      "li-ao-qingshuji-1962-12-08-g-letter-070-double-quilt-and-taikongbei-joke",
+      "li-ao-qingshuji-1962-12-08-g-letter-071-ray-donner-dinner-and-yu-guangzhong-call",
+      "li-ao-qingshuji-1962-12-09-g-letter-072-modern-poetry-reading-and-g-photo"
+    ],
+    "added": 7,
+    "revisedEventIds": [],
+    "revised": 0,
+    "status": "done",
+    "notes": "继续《李敖情书集》006《给G的九十四封信》第五轮，新增7条，覆盖1962年12月5日至12月9日并补回源文夹在前面的12月7日信：12月5日决定给G寄钱和小礼物、刘绍唐在美而廉请咖啡；12月6日刘鹤来访、李敖寄五百元给G；12月7日写信说怕回安东街、记政大学生记者合照和文献会陈胖子失恋，并在信末写到日期时想起九年前认识罗惠芳；12月8日寄双人太空被并写监控玩笑，另由12月9日信追记Ray Donner饭局和余光中来电催去师大现代诗朗诵会；12月9日李敖整日跑楼下取信、带G照片赴师大现代诗朗诵会并受欢迎，且在会中交给刘鹤五十元托买点心。所有“想/回忆/计划”摘要均补足在台北、写信时、12月9日诗会前等语境状语。",
+    "checks": {
+      "expectedNewDataFileTotal": 85,
+      "expectedProjectTotal": 10398,
+      "dataVersion": "2026-06-18-li-ao-qingshuji-round005-g-19621205-19621209",
+      "rebuildExports": true,
+      "duplicateIds": 0,
+      "duplicateRefs": 0,
+      "missingRefs": 0,
+      "sourceLineErrors": 0
+    },
+    "currentBookTotal": 10,
+    "newDataFileTotal": 85,
+    "currentProjectTotal": 10398,
+    "partialSourceFiles": [
+      "006.给G的九十四封信.txt"
+    ],
+    "nextRecommendation": "下一轮建议继续《李敖情书集》006.给G的九十四封信，处理1962年12月11日至12月14日：重点抽12月11日追记师大诗会后续、圣诞节前象征性北返条件、交给刘鹤五十元托买点心；12月13日催G决定22日北返、寄海星女中惜别纪念册、再次问结婚；12月14日前后可接《十诫》、玻璃丝袜、小礼物、男老师寄限时信、22日至1月3日在台北的要求和机场臭脚丫子检验站玩笑。"
+  },
+  {
+    "date": "2026-06-18",
+    "round": "li-ao-qingshuji-round006-g-19621211-19621214",
+    "book": "李敖情书集",
+    "sourcePath": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集",
+    "sourceFiles": [
+      "006.给G的九十四封信.txt（本轮处理1962-12-11至1962-12-14）"
+    ],
+    "dataFile": "data/timeline-events-li-ao-qingshuji.json",
+    "addedEventIds": [
+      "li-ao-qingshuji-1962-12-11-g-letter-073-symbolic-return-condition",
+      "li-ao-qingshuji-1962-12-12-g-letter-074-receives-two-letters",
+      "li-ao-qingshuji-1962-12-13-g-letter-075-urges-dec22-return",
+      "li-ao-qingshuji-1962-12-13-g-letter-076-sends-haixing-farewell-album",
+      "li-ao-qingshuji-1962-12-13-g-letter-077-asks-marriage-again",
+      "li-ao-qingshuji-1962-12-14-g-letter-078-ten-commandments-glass-stockings",
+      "li-ao-qingshuji-1962-12-14-g-letter-079-male-teachers-express-mail",
+      "li-ao-qingshuji-1962-12-14-g-letter-080-dec22-to-jan3-taipei-demand"
+    ],
+    "added": 8,
+    "revisedEventIds": [],
+    "revised": 0,
+    "status": "done",
+    "notes": "继续《李敖情书集》006《给G的九十四封信》第六轮，新增8条；覆盖12月11日台北信中欢迎G圣诞节前象征性北返并开出同睡条件、补记交给刘鹤五十元买点心，12月12日据翌日信回述收到G两封信，12月13日催G决定22日北返、寄海星女中惜别纪念册、信尾再次追问结婚，12月14日约看《十诫》并写玻璃丝袜小礼物玩笑、追问男老师代寄限时信、要求G从12月22日至次年1月3日留在台北并写松山机场臭脚丫子检验站玩笑。所有“想/盼望/要求/决定”类摘要均补足在台北写信时、据翌日信回述、信尾等语境状语。",
+    "checks": {
+      "expectedNewDataFileTotal": 93,
+      "expectedProjectTotal": 10406,
+      "dataVersion": "2026-06-18-li-ao-qingshuji-round006-g-19621211-19621214",
+      "rebuildExports": true,
+      "duplicateIds": 0,
+      "duplicateRefs": 0,
+      "missingRefs": 0,
+      "sourceLineErrors": 0
+    },
+    "currentBookTotal": 10,
+    "newDataFileTotal": 93,
+    "currentProjectTotal": 10406,
+    "partialSourceFiles": [
+      "006.给G的九十四封信.txt"
+    ],
+    "nextRecommendation": "下一轮建议继续《李敖情书集》006.给G的九十四封信，处理1962年12月15日至12月19日：重点抽12月15日决定从此信件重新编号、看G新发型照片和洗花莲底片、强硬要求22日回来；12月16日王崇五夫妇请饭并评价李敖文章、担心G搬回台北和松山机场抢人玩笑；12月17日正式认识武陵溪、午后随萧孟能去南港和胡适墓/胡适住所、找出四年前送胡适的书、晚上请赵中孚及东吴学生吃饭、台大法律学会邀讲而不想讲、文献会袁先生邀舞会；12月18日替G安排22日至25日行程和31日请假、回应求婚像拉屎、杨国枢等来访谈G；12月19日晚饭后继续追问信件缺号、铁定22日回来和整天想G想到做不下事。"
+  },
+  {
+    "date": "2026-06-18",
+    "round": "li-ao-qingshuji-round007-g-19621215-19621219",
+    "book": "李敖情书集",
+    "sourcePath": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集",
+    "sourceFiles": [
+      "006.给G的九十四封信.txt（本轮处理1962-12-15至1962-12-19）"
+    ],
+    "dataFile": "data/timeline-events-li-ao-qingshuji.json",
+    "addedEventIds": [
+      "li-ao-qingshuji-1962-12-15-g-letter-081-renumbers-letters-after-missing-mail",
+      "li-ao-qingshuji-1962-12-15-g-letter-082-new-hairstyle-photos-and-negatives",
+      "li-ao-qingshuji-1962-12-15-g-letter-083-insists-dec22-return-and-impatience",
+      "li-ao-qingshuji-1962-12-15-night-g-letter-084-wang-chongwu-dinner-and-article-praise",
+      "li-ao-qingshuji-1962-12-16-g-letter-085-return-schedule-and-songshan-airport-joke",
+      "li-ao-qingshuji-1962-12-17-g-letter-086-meets-wu-lingxi",
+      "li-ao-qingshuji-1962-12-17-g-letter-087-nangang-hu-shi-grave-and-old-book",
+      "li-ao-qingshuji-1962-12-17-g-letter-088-dinner-zhao-zhongfu-ntu-law-and-yuan-dance",
+      "li-ao-qingshuji-1962-12-18-g-letter-089-arranges-dec22-to-dec31-return-plan",
+      "li-ao-qingshuji-1962-12-18-g-letter-090-responds-marriage-proposal-and-daily-mail",
+      "li-ao-qingshuji-1962-12-18-g-letter-091-yang-guoshu-visitors-discuss-g",
+      "li-ao-qingshuji-1962-12-19-g-letter-092-new-numbering-and-telegram-threat"
+    ],
+    "added": 12,
+    "revisedEventIds": [],
+    "revised": 0,
+    "status": "done",
+    "notes": "继续《李敖情书集》006《给G的九十四封信》第七轮，新增12条；覆盖12月15日因缺信决定重新编号、看G新发型照片并洗好花莲底片、强硬要求G 22日回来，12月15日晚王崇五夫妇请饭并评价李敖文章，12月16日追问G搬回台北时间表和松山机场抢人玩笑，12月17日正式认识武陵溪、赴南港看胡适墓和胡适住所并在书架前想起四年前见胡适、晚上请赵中孚和东吴学生吃饭且记录台大法律学会邀讲与文献会袁先生邀舞会，12月18日替G安排22日至25日行程和31日请假、回应求婚玩笑并重申每天写信、杨国枢等来访谈G，12月19日晚饭后继续追问信件缺号、铁定22日回来并说整天想G到做不下事。所有“想/决定/要求/担心”类摘要均补足在台北信中、据翌日信回述、晚饭后等语境状语。",
+    "checks": {
+      "expectedNewDataFileTotal": 105,
+      "expectedProjectTotal": 10418,
+      "dataVersion": "2026-06-18-li-ao-qingshuji-round007-g-19621215-19621219",
+      "rebuildExports": true,
+      "duplicateIds": 0,
+      "duplicateRefs": 0,
+      "missingRefs": 0,
+      "sourceLineErrors": 0
+    },
+    "currentBookTotal": 10,
+    "newDataFileTotal": 105,
+    "currentProjectTotal": 10418,
+    "partialSourceFiles": [
+      "006.给G的九十四封信.txt"
+    ],
+    "nextRecommendation": "下一轮建议继续《李敖情书集》006.给G的九十四封信，处理1962年12月20日至1963年1月5日之间的断档与返花莲后信件：重点先确认12月20日至25日是否只由后文回述G在台北停留；抽12月26日晚饭后G飞走后李敖上课困倦、下午在印刷厂、晚饭时众人评价G叫“宝宝”和李敖叫“太太”、执行秘书称前日下午来找他的小姐漂亮、李敖不敢回安东街而先逛东门书摊；12月28日恢复三楼原状、洗床单、买小花瓶、渝园受训和追问G何时回来；12月29日寄百余张贺年片、请萧老板娘等在掬水轩吃饭、得到裸体女人日历、记新密探；除夕欠资信玩笑；1963年1月5日未收到G信、得李善培毛袜、与刘绍唐李善培订红灯罩花瓶台灯、布置卧室和寄贺年片给G。"
+  },
+  {
+    "date": "2026-06-18",
+    "round": "li-ao-qingshuji-round008-g-19621220-19630105",
+    "book": "李敖情书集",
+    "sourcePath": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集",
+    "sourceFiles": [
+      "006.给G的九十四封信.txt（本轮处理1962-12-20至1963-01-05；12月20日至25日未见独立信件，仅由12月26日信回述G在台北短聚后今早飞离及12月24日下午来访）"
+    ],
+    "dataFile": "data/timeline-events-li-ao-qingshuji.json",
+    "addedEventIds": [
+      "li-ao-qingshuji-1962-12-26-g-letter-093-after-g-flies-away-class-and-printing",
+      "li-ao-qingshuji-1962-12-26-g-letter-094-dinner-comments-on-baobao-and-taitai",
+      "li-ao-qingshuji-1962-12-26-g-letter-095-afraid-return-anton-street-bookstalls",
+      "li-ao-qingshuji-1962-12-27-g-letter-096-yuyuan-xiao-training",
+      "li-ao-qingshuji-1962-12-28-g-letter-097-restores-third-floor-buys-vase",
+      "li-ao-qingshuji-1962-12-29-g-letter-098-sends-over-hundred-new-year-cards",
+      "li-ao-qingshuji-1962-12-29-g-letter-099-jushuixuan-lunch-calendar-and-new-agent",
+      "li-ao-qingshuji-1962-12-31-g-letter-100-postage-due-express-mail-joke",
+      "li-ao-qingshuji-1963-01-05-g-letter-101-no-letter-and-new-wool-socks",
+      "li-ao-qingshuji-1963-01-05-g-letter-102-orders-red-lampshade-and-arranges-bedroom"
+    ],
+    "added": 10,
+    "revisedEventIds": [],
+    "revised": 0,
+    "status": "done",
+    "notes": "继续《李敖情书集》006《给G的九十四封信》第八轮，新增10条；确认12月20日至25日无独立信件，不硬补日期节点，仅在12月26日事件中保留G今早飞走和12月24日下午来访的回述痕迹。新增内容覆盖12月26日G飞离台北后李敖上课困倦、下午到印刷厂、晚饭时听众人评价G叫“宝宝”和自己叫“太太”、执行秘书称前日下午来找他的小姐漂亮、晚饭后不敢回安东街而先逛东门书摊；12月27日中午在渝园受老萧“受训”；12月28日恢复三楼原状、洗床单、买小花瓶并追问G何时回来；12月29日寄一百多张贺年片、在掬水轩请客并记新密探；除夕夜写欠资限时信玩笑；1963年1月5日未收到G信、得李善培毛袜、与刘绍唐李善培订红灯罩花瓶台灯、布置卧室并另信寄贺年片给G。所有“想/不敢/追问/恭候”等摘要均补足台北晚饭后、据翌日信回述、信中等语境状语。",
+    "checks": {
+      "expectedNewDataFileTotal": 115,
+      "expectedProjectTotal": 10428,
+      "dataVersion": "2026-06-18-li-ao-qingshuji-round008-g-19621220-19630105",
+      "rebuildExports": true,
+      "duplicateIds": 0,
+      "duplicateRefs": 0,
+      "missingRefs": 0,
+      "sourceLineErrors": 0,
+      "sourceGapNote": "1962-12-20至1962-12-25无独立信件，未新增独立事件。"
+    },
+    "currentBookTotal": 10,
+    "newDataFileTotal": 115,
+    "currentProjectTotal": 10428,
+    "partialSourceFiles": [
+      "006.给G的九十四封信.txt"
+    ],
+    "nextRecommendation": "下一轮建议继续《李敖情书集》006.给G的九十四封信，处理1963年1月6日至1月10日：重点抽1月6日找出新店照片九张寄给G、法庭/入狱漫画、盼G十天内回来、收拾房间、去台大买信封信纸并到“好朋友”照相馆看G橱窗照片；1月7日发现遗失四封信、怀疑老修女扣信、等G回来才穿新袜、要求G考完就卷行李、写搬家顾问手令；1月8日信封信纸早已限时寄去、《十三年和十三月》惹沈刚伯姚从吾吴相湘不快、与於梨华林海音萧孟能到方豪神父家、拒给於梨华林海音看G照片、盼下周一二见G；1月10日统计G在花莲“勾引”的男人、因老修女和17号归期发脾气、海星女中丢信、由南港回来又收到下月十一日出庭传票。"
+  },
+  {
+    "date": "2026-06-18",
+    "round": "li-ao-qingshuji-round009-g-19630106-19630110",
+    "book": "李敖情书集",
+    "sourcePath": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集",
+    "sourceFiles": [
+      "006.给G的九十四封信.txt（本轮处理1963-01-06至1963-01-10；1月9日未见独立信件）"
+    ],
+    "dataFile": "data/timeline-events-li-ao-qingshuji.json",
+    "addedEventIds": [
+      "li-ao-qingshuji-1963-01-06-g-letter-103-xindian-photos-and-cartoons",
+      "li-ao-qingshuji-1963-01-06-g-letter-104-room-envelope-photo-studio-and-pacing",
+      "li-ao-qingshuji-1963-01-07-g-letter-105-four-letters-lost-and-suspects-nuns",
+      "li-ao-qingshuji-1963-01-07-g-letter-106-waits-new-socks-and-urges-packing",
+      "li-ao-qingshuji-1963-01-07-g-letter-107-moving-consultant-order",
+      "li-ao-qingshuji-1963-01-08-g-letter-108-express-stationery-and-thirteen-years-reaction",
+      "li-ao-qingshuji-1963-01-08-g-letter-109-fanghao-home-yu-lihua-lin-haiyin",
+      "li-ao-qingshuji-1963-01-08-g-letter-110-hopes-to-see-g-next-monday-or-tuesday",
+      "li-ao-qingshuji-1963-01-10-g-letter-111-counts-hualien-men-and-loses-temper",
+      "li-ao-qingshuji-1963-01-10-g-letter-112-lost-secret-letters-nangang-court-summons"
+    ],
+    "added": 10,
+    "revisedEventIds": [],
+    "revised": 0,
+    "status": "done",
+    "notes": "继续《李敖情书集》006《给G的九十四封信》第九轮，新增10条；覆盖1月6日找出新店照片九张寄给G并提法庭/入狱漫画、在星期天收拾房间、去台大买信封信纸并到“好朋友”照相馆看G橱窗照片、在房中想G想到踱步；1月7日发现四封信遗失并怀疑老修女扣信、等G回来才穿新袜并催她考完卷行李、写杨尔琳章苏民为搬家顾问手令；1月8日追问信封信纸已限时寄出为何不写信、记《十三年和十三月》惹沈刚伯姚从吾吴相湘不快、与於梨华林海音萧孟能到方豪神父家并拒给她们看G照片、信末盼下周一二见G；1月10日统计G在花莲“勾引”的男人并因17号归期发脾气、信末怒写海星女中丢三封含机密和肉麻话的信、由南港回来后又收到下月十一日出庭传票。所有“想/盼望/怀疑/发脾气”类摘要均补足在台北写信时、信末、刚由南港回来等语境状语。",
+    "checks": {
+      "expectedNewDataFileTotal": 125,
+      "expectedProjectTotal": 10438,
+      "dataVersion": "2026-06-18-li-ao-qingshuji-round009-g-19630106-19630110",
+      "rebuildExports": true,
+      "duplicateIds": 0,
+      "duplicateRefs": 0,
+      "missingRefs": 0,
+      "sourceLineErrors": 0,
+      "sourceGapNote": "1963-01-09无独立信件，未新增独立事件。"
+    },
+    "currentBookTotal": 10,
+    "newDataFileTotal": 125,
+    "currentProjectTotal": 10438,
+    "partialSourceFiles": [
+      "006.给G的九十四封信.txt"
+    ],
+    "nextRecommendation": "下一轮建议继续《李敖情书集》006.给G的九十四封信，处理1963年1月11日和3月4日，并确认1月12日至3月3日之间源文无独立信件：重点抽1月11日得知G后天星期日可回来后高兴得坐立不安、同意日月潭计划并安排阴历初二台中会合、要求G至迟星期日下午回来且先买飞机票、宣布此后不再往花莲写信、在台北收拾房间恭候G、催G告知确定飞机时间并威胁打电报；再抽3月4日催G别怕老修女校长、要求15号回台北、电话中听到G诱惑人的声音、推想G与杨章二在花莲美而廉吃饭并作打油诗。之后可转入“此信起，G在美国”的第七十九封信。"
+  },
+  {
+    "date": "2026-06-18",
+    "round": "li-ao-qingshuji-round010-g-19630111-19630304",
+    "book": "李敖情书集",
+    "sourcePath": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集",
+    "sourceFiles": [
+      "006.给G的九十四封信.txt（本轮处理1963-01-11和1963-03-04；1963-01-12至1963-03-03未见独立信件）"
+    ],
+    "dataFile": "data/timeline-events-li-ao-qingshuji.json",
+    "addedEventIds": [
+      "li-ao-qingshuji-1963-01-11-g-letter-113-sunday-return-news-and-restless-joy",
+      "li-ao-qingshuji-1963-01-11-g-letter-114-sun-moon-lake-plan-after-lunar-new-year",
+      "li-ao-qingshuji-1963-01-11-g-letter-115-last-letter-to-hualien-and-sunday-flight",
+      "li-ao-qingshuji-1963-01-11-g-letter-116-cleans-room-and-threatens-telegrams",
+      "li-ao-qingshuji-1963-03-04-g-letter-117-urges-march-fifteenth-return",
+      "li-ao-qingshuji-1963-03-04-g-letter-118-hears-g-voice-and-imagines-meierlian-dinner"
+    ],
+    "added": 6,
+    "revisedEventIds": [],
+    "revised": 0,
+    "status": "done",
+    "notes": "继续《李敖情书集》006《给G的九十四封信》第十轮，新增6条；覆盖1月11日G告知后天星期日可回台北后李敖在台北兴奋得坐立不安、赞成日月潭计划并安排阴历初二到台中同游、要求G至迟星期日下午返台北且先买飞机票、因海星女中丢信宣布此后不再往花莲写信、在台北收拾房间并催问飞机时间/威胁打电报；3月4日催G别怕老修女校长并15号回台北、听到G诱惑人的声音后在信中推想她正在花莲美而廉同“杨章二”吃饭并写打油诗。1963-01-12至1963-03-03源文无独立编号信件，未硬补日期节点；“想/推想”类摘要已补足在信中、在台北、在花莲美而廉等语境状语。",
+    "checks": {
+      "expectedNewDataFileTotal": 131,
+      "expectedProjectTotal": 10444,
+      "dataVersion": "2026-06-18-li-ao-qingshuji-round010-g-19630111-19630304",
+      "rebuildExports": true,
+      "duplicateIds": 0,
+      "duplicateRefs": 0,
+      "missingRefs": 0,
+      "sourceLineErrors": 0,
+      "sourceGapNote": "1963-01-12至1963-03-03无独立编号信件，未新增独立事件。"
+    },
+    "currentBookTotal": 6,
+    "newDataFileTotal": 131,
+    "currentProjectTotal": 10444,
+    "partialSourceFiles": [
+      "006.给G的九十四封信.txt"
+    ],
+    "nextRecommendation": "下一轮建议继续《李敖情书集》006.给G的九十四封信，转入第七十九封“此信起，G在美国”，先处理1964年9月24日晨这一封：重点抽李敖在信中谈现实/未来/由G决定一切、以Dr. Jekyll and Mr. Hyde比拟人格分裂、在信中说有时非常想G而有时不敢想/不愿想、G飞机起飞后自己哭到晚上、伏案卖命十小时后赶信寄出，以及追忆G在孙英善家大笑等当事节点；同时确认1963-03-05至1964-09-23在此源文段无独立信件。"
+  },
+  {
+    "date": "2026-06-18",
+    "round": "li-ao-qingshuji-round011-g-in-america-19640924",
+    "book": "李敖情书集",
+    "sourcePath": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集",
+    "sourceFiles": [
+      "006.给G的九十四封信.txt（本轮处理第七十九封“此信起，G在美国”，1964年9月24日晨；1963-03-05至1964-09-23未见独立编号信件）"
+    ],
+    "dataFile": "data/timeline-events-li-ao-qingshuji.json",
+    "addedEventIds": [
+      "li-ao-qingshuji-1964-09-24-g-letter-119-advises-g-to-choose-her-own-future",
+      "li-ao-qingshuji-1964-09-24-g-letter-120-yields-to-others-choices-and-condemns-himself",
+      "li-ao-qingshuji-1964-09-24-g-letter-121-thinks-of-jekyll-hyde-and-life-absurdity",
+      "li-ao-qingshuji-1964-09-24-g-letter-122-rewrites-su-wu-poem-and-fears-thinking-of-g",
+      "li-ao-qingshuji-1964-09-24-g-letter-123-understands-g-pain-and-happy-type",
+      "li-ao-qingshuji-1964-09-24-g-letter-124-recalls-crying-after-g-plane-took-off",
+      "li-ao-qingshuji-1964-09-24-g-letter-125-writes-after-ten-hours-at-desk-and-lets-g-decide",
+      "li-ao-qingshuji-1964-09-24-g-letter-126-remembers-g-laughing-at-sun-yingshan-home"
+    ],
+    "added": 8,
+    "revisedEventIds": [],
+    "revised": 0,
+    "status": "done",
+    "notes": "继续《李敖情书集》006《给G的九十四封信》第十一轮，转入“此信起，G在美国”的第七十九封，新增8条；覆盖1964年9月24日晨李敖在给美国G的信中劝她从自身立场选择未来、不因同情而救他；写自己任凭别人选择入牢狱/自我否定/背十字架并自判地狱；想起Dr. Jekyll and Mr. Hyde并谈人格分裂与人生荒谬；改写苏武诗并说有时非常想G、有时不敢想/不愿想；理解G的心情和痛苦并判断她是快乐型的人；回忆G飞机起飞后自己哭到晚上；伏案十小时后清晨赶信并表示由G决定一切；信末想起G在孙英善家大笑。所有“想起/判断/回忆/不敢想”类摘要均补足为在1964年9月24日晨给美国G的信中。",
+    "checks": {
+      "expectedNewDataFileTotal": 139,
+      "expectedProjectTotal": 10452,
+      "dataVersion": "2026-06-18-li-ao-qingshuji-round011-g-in-america-19640924",
+      "rebuildExports": true,
+      "duplicateIds": 0,
+      "duplicateRefs": 0,
+      "missingRefs": 0,
+      "sourceLineErrors": 0,
+      "sourceGapNote": "1963-03-05至1964-09-23在此源文段无独立编号信件，未新增独立事件。"
+    },
+    "currentBookTotal": 8,
+    "newDataFileTotal": 139,
+    "currentProjectTotal": 10452,
+    "partialSourceFiles": [
+      "006.给G的九十四封信.txt"
+    ],
+    "nextRecommendation": "下一轮建议继续《李敖情书集》006.给G的九十四封信，处理第八十至八十二封（1964年10月1日、10月15日、10月30日夜1时）：重点抽10月1日换黑边新眼镜并在中国眼镜公司被读者打折、买书时书店老板说《文星丛刊》中他的书卖光、请徐訏在渝园吃饭并听香港《新生报》议其辞去文星职务、书稿脱期每天赶七千多字和参加教育召集；10月15日尚义《狂流》校补出版安排、想整理父亲《中国文学史》、忽发“私生子/野合”怪想写给G；10月30日陈之藩谈於梨华和劝他去美国、李善培山上做小和尚来信、再寄四张照片并盼G照片。"
+  },
+  {
+    "date": "2026-06-18",
+    "round": "li-ao-qingshuji-round012-g-19641001-19641030",
+    "book": "李敖情书集",
+    "sourcePath": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集",
+    "sourceFiles": [
+      "006.给G的九十四封信.txt（本轮处理第八十至八十二封，1964-10-01、1964-10-15、1964-10-30夜1时）"
+    ],
+    "dataFile": "data/timeline-events-li-ao-qingshuji.json",
+    "addedEventIds": [
+      "li-ao-qingshuji-1964-10-01-g-letter-127-buys-black-rim-glasses-and-reader-discount",
+      "li-ao-qingshuji-1964-10-01-g-letter-128-bookstore-says-his-wenxing-books-sold-out",
+      "li-ao-qingshuji-1964-10-01-g-letter-129-dines-with-xu-xu-at-yuyuan-and-hears-hong-kong-report",
+      "li-ao-qingshuji-1964-10-01-g-letter-130-walks-after-long-time-and-asks-g-for-photo",
+      "li-ao-qingshuji-1964-10-01-g-letter-131-manuscript-overdue-and-daily-seven-thousand-words",
+      "li-ao-qingshuji-1964-10-01-g-letter-132-attends-education-call-up-morning",
+      "li-ao-qingshuji-1964-10-15-g-letter-133-arranges-shangyi-kuangliu-posthumous-manuscript",
+      "li-ao-qingshuji-1964-10-15-g-letter-134-plans-to-edit-father-chinese-literature-history",
+      "li-ao-qingshuji-1964-10-15-g-letter-135-writes-strange-thought-on-illegitimate-great-people",
+      "li-ao-qingshuji-1964-10-30-g-letter-136-chen-zhifan-talks-us-return-yu-lihua-and-li-ao-article",
+      "li-ao-qingshuji-1964-10-30-g-letter-137-chen-zhifan-urges-li-ao-to-go-to-america",
+      "li-ao-qingshuji-1964-10-30-g-letter-138-receives-li-shanpei-monk-letter",
+      "li-ao-qingshuji-1964-10-30-g-letter-139-sends-four-photos-to-g-and-wants-her-photo"
+    ],
+    "added": 13,
+    "revisedEventIds": [],
+    "revised": 0,
+    "status": "done",
+    "notes": "继续《李敖情书集》006《给G的九十四封信》第十二轮，新增13条；覆盖1964年10月1日换黑边新眼镜并在中国眼镜公司遇读者打折、买书被书店老板认出并听说自己的《文星丛刊》卖光、请徐訏在渝园吃饭并听香港《新生报》“十三妹”议其辞去文星职务、久未上街走动甚累并催G寄照片、书稿脱期每天赶七千多字、清早参加教育召集；10月15日安排尚义《狂流》校补出版并决定不由文星印行、在信中想整理父亲《中国文学史》稿本、忽发“私生子/野合”怪想写给G；10月30日夜1时回述陈之藩谈美国归来事与於梨华文章、陈之藩劝其赶紧去美国、收到李善培在山上做“小和尚”的来信、再寄四张照片给G并盼G照片。同轮已新增网页“李敖历史上的今天”模块，按浏览器当天月日展示精确到日事件并可展开/点开详情。",
+    "checks": {
+      "expectedNewDataFileTotal": 152,
+      "expectedProjectTotal": 10465,
+      "dataVersion": "2026-06-18-history-today-qingshuji-round012-g-19641001-19641030",
+      "rebuildExports": true,
+      "duplicateIds": 0,
+      "duplicateRefs": 0,
+      "missingRefs": 0,
+      "sourceLineErrors": 0,
+      "historyTodayFeature": true
+    },
+    "currentBookTotal": 13,
+    "newDataFileTotal": 152,
+    "currentProjectTotal": 10465,
+    "partialSourceFiles": [
+      "006.给G的九十四封信.txt"
+    ],
+    "nextRecommendation": "下一轮建议继续《李敖情书集》006.给G的九十四封信，处理第八十三至八十四封（1964年11月9日、11月27日）：重点抽11月9日李敖列出单调作息表（中午起床、下午/夜间/凌晨写作）、偶尔同“李鸿藻”等看电影、评论“李鸿藻”可能与女学生结婚；11月27日天气转凉想G、《教育与脸谱》初版二千册卖光、文星书店七本书中仅四本现货、寄司马笑太太文章中提到李敖的一页、下月五号又开庭、前天下午同老萧逛牯岭街书摊后疲惫并感到身体不太行。"
   }
 ]

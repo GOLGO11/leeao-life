@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T10:47:40.684Z",
+  "generatedAt": "2026-06-18T04:00:06.260Z",
   "source": "exports/leeao-current-timeline.txt 的同源 JSON 数据",
   "fullCsv": "exports/leeao-current-timeline.csv",
   "partSize": 1000,
@@ -80,9 +80,10 @@
     "data/timeline-events-li-ao-shuxuji.json",
     "data/timeline-events-li-ao-shuxuji-xuji.json",
     "data/timeline-events-li-ao-duihualu.json",
-    "data/timeline-events-li-ao-fangtanlu-1990-2018.json"
+    "data/timeline-events-li-ao-fangtanlu-1990-2018.json",
+    "data/timeline-events-li-ao-qingshuji.json"
   ],
-  "eventCount": 10313,
+  "eventCount": 10465,
   "columns": [
     "row",
     "year",

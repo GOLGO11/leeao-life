@@ -7,6 +7,7 @@ const state = {
   query: "",
   sort: "asc",
   renderedLimit: 240,
+  historyTodayExpanded: false,
   filteredEvents: [],
   eventIndex: new Map(),
   decadeCounts: new Map()
@@ -14,6 +15,7 @@ const state = {
 
 const initialRenderLimit = 240;
 const renderBatchSize = 240;
+const historyTodayPreviewLimit = 6;
 const searchDebounceMs = 120;
 let searchTimer = 0;
 
@@ -31,6 +33,10 @@ const loadMore = document.querySelector("#loadMore");
 const dialog = document.querySelector("#eventDialog");
 const dialogBody = document.querySelector("#dialogBody");
 const closeDialog = document.querySelector("#closeDialog");
+const historyTodayTitle = document.querySelector("#historyTodayTitle");
+const historyTodayCount = document.querySelector("#historyTodayCount");
+const historyTodayList = document.querySelector("#historyTodayList");
+const historyTodayToggle = document.querySelector("#historyTodayToggle");
 
 const dataFiles = [
   "./data/timeline-events.json",
@@ -96,7 +102,8 @@ const dataFiles = [
   "./data/timeline-events-li-ao-shuxuji.json",
   "./data/timeline-events-li-ao-shuxuji-xuji.json",
   "./data/timeline-events-li-ao-duihualu.json",
-  "./data/timeline-events-li-ao-fangtanlu-1990-2018.json"
+  "./data/timeline-events-li-ao-fangtanlu-1990-2018.json",
+  "./data/timeline-events-li-ao-qingshuji.json"
 ];
 const supplementalDataFiles = new Set([
   "./data/timeline-events-first-book-supplement.json",
@@ -108,7 +115,7 @@ const supplementalDataFiles = new Set([
   "./data/timeline-events-fourth-book-deepening.json"
 ]);
 const processedBookCount = dataFiles.filter((file) => !supplementalDataFiles.has(file)).length;
-const dataVersion = '2026-06-17-li-ao-fangtanlu-1990-2018-closeout-audit';
+const dataVersion = '2026-06-18-history-today-qingshuji-round012-g-19641001-19641030';
 
 const dateFormatter = new Intl.DateTimeFormat("zh-Hant", {
   year: "numeric",
@@ -127,6 +134,20 @@ function formatDate(value) {
 
 function dateLabel(event) {
   return event.displayDate || formatDate(event.date);
+}
+
+function currentMonthDay() {
+  const today = new Date();
+  return `${String(today.getMonth() + 1).padStart(2, "0")}-${String(today.getDate()).padStart(2, "0")}`;
+}
+
+function monthDayLabel(monthDay) {
+  const [month, day] = monthDay.split("-").map(Number);
+  return `${month}月${day}日`;
+}
+
+function isHistoryTodayEvent(event, monthDay = currentMonthDay()) {
+  return isDayPrecise(event) && event.date?.slice(5, 10) === monthDay;
 }
 
 function decadeOf(event) {
@@ -275,6 +296,48 @@ function renderStats(events) {
   resultLabel.textContent = `当前显示 ${shown}/${events.length} 条，已载入 ${state.events.length} 条，数据版本 ${dataVersion}`;
 }
 
+function renderHistoryToday() {
+  const monthDay = currentMonthDay();
+  const events = state.events.filter((event) => isHistoryTodayEvent(event, monthDay)).sort((a, b) => compareEvents(a, b));
+  const visibleEvents = state.historyTodayExpanded ? events : events.slice(0, historyTodayPreviewLimit);
+  const fragment = document.createDocumentFragment();
+
+  historyTodayTitle.textContent = monthDayLabel(monthDay);
+  historyTodayCount.textContent = events.length ? `${events.length} 条精确日期事件` : "暂无精确日期事件";
+  historyTodayList.replaceChildren();
+
+  if (!events.length) {
+    const item = document.createElement("li");
+    item.className = "history-today__item";
+    const empty = document.createElement("p");
+    empty.className = "history-today__empty";
+    empty.textContent = "年表中暂未收录李敖在这一天的精确日期事件。";
+    item.append(empty);
+    fragment.append(item);
+  }
+
+  for (const event of visibleEvents) {
+    const item = document.createElement("li");
+    item.className = "history-today__item";
+
+    const button = document.createElement("button");
+    button.type = "button";
+    button.className = "history-today__card";
+    button.innerHTML = `
+      <span class="history-today__year">${yearOf(event)}</span>
+      <strong class="history-today__title">${event.title}</strong>
+      <p class="history-today__summary">${event.summary}</p>
+    `;
+    button.addEventListener("click", () => openEvent(event));
+    item.append(button);
+    fragment.append(item);
+  }
+
+  historyTodayList.append(fragment);
+  historyTodayToggle.hidden = events.length <= historyTodayPreviewLimit;
+  historyTodayToggle.textContent = state.historyTodayExpanded ? "收起" : `展开全部 ${events.length} 条`;
+}
+
 function renderTimeline(events) {
   const visibleEvents = events.slice(0, state.renderedLimit);
   const fragment = document.createDocumentFragment();
@@ -334,6 +397,7 @@ function render() {
   const events = filteredEvents();
   state.filteredEvents = events;
   renderStats(events);
+  renderHistoryToday();
   renderTimeline(events);
   renderDecadeNav(unique(state.events.map(decadeOf)));
 }
@@ -383,6 +447,11 @@ loadMore.addEventListener("click", () => {
   state.renderedLimit += renderBatchSize;
   renderStats(state.filteredEvents);
   renderTimeline(state.filteredEvents);
+});
+
+historyTodayToggle.addEventListener("click", () => {
+  state.historyTodayExpanded = !state.historyTodayExpanded;
+  renderHistoryToday();
 });
 
 closeDialog.addEventListener("click", () => dialog.close());

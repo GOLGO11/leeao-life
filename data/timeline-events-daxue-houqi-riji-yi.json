@@ -25231,12 +25231,25 @@
       "台北"
     ],
     "works": [
-      "大学后期日记乙集"
+      "大学后期日记乙集",
+      "李敖情书集"
     ],
     "certainty": "diary",
     "crossReferences": [
       "daxue-houqi-yi-1959-06-19-at-jing-home-writes-front-part-of-letter-to-bonnie",
       "daxue-houqi-yi-1959-06-18-bonnie-says-she-hates-sober-people-pretending-drunk-at-banquet"
+    ],
+    "additionalSources": [
+      {
+        "book": "李敖情书集",
+        "chapter": "004.给Bonnie",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集/004.给Bonnie.txt",
+        "line": 23,
+        "lines": [
+          23
+        ],
+        "note": "补《给Bonnie》成信本文署日来源。"
+      }
     ]
   },
   {
