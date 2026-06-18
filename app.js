@@ -15,7 +15,7 @@ const state = {
 
 const initialRenderLimit = 240;
 const renderBatchSize = 240;
-const historyTodayPreviewLimit = 6;
+const historyTodayPreviewLimit = 1;
 const searchDebounceMs = 120;
 let searchTimer = 0;
 
@@ -115,7 +115,7 @@ const supplementalDataFiles = new Set([
   "./data/timeline-events-fourth-book-deepening.json"
 ]);
 const processedBookCount = dataFiles.filter((file) => !supplementalDataFiles.has(file)).length;
-const dataVersion = '2026-06-18-history-today-qingshuji-round012-g-19641001-19641030';
+const dataVersion = '2026-06-18-li-ao-qingshuji-round015-g-19651229-19660106';
 
 const dateFormatter = new Intl.DateTimeFormat("zh-Hant", {
   year: "numeric",
@@ -335,7 +335,7 @@ function renderHistoryToday() {
 
   historyTodayList.append(fragment);
   historyTodayToggle.hidden = events.length <= historyTodayPreviewLimit;
-  historyTodayToggle.textContent = state.historyTodayExpanded ? "收起" : `展开全部 ${events.length} 条`;
+  historyTodayToggle.textContent = state.historyTodayExpanded ? "收起" : `展开其余 ${events.length - historyTodayPreviewLimit} 条`;
 }
 
 function renderTimeline(events) {

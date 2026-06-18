@@ -1,9 +1,9 @@
 ﻿李敖交互式年表：当前增量纯文本备份
 生成日期：2026-06-18
-事件总数：10465
+事件总数：10496
 数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json；data/timeline-events-ni-bendan.json；data/timeline-events-dream-awake.json；data/timeline-events-li-ao-xinkan.json；data/timeline-events-qianqiu-wansui-wuya-qiushi.json；data/timeline-events-li-ao-zawenji.json；data/timeline-events-qianqiu-wansui-bianwai.json；data/timeline-events-beijing-fayuansi.json；data/timeline-events-shangshan-ai.json；data/timeline-events-red-11.json；data/timeline-events-virtual-seventeen.json；data/timeline-events-yangwei-america.json；data/timeline-events-73rd-martyr.json；data/timeline-events-love-secret.json；data/timeline-events-li-ao-love-poems.json；data/timeline-events-li-yulu.json；data/timeline-events-li-ao-yulu.json；data/timeline-events-sui-qianwan-li-ao-wangyi.json；data/timeline-events-tiaozhan-li-ao-ao-yulu.json；data/timeline-events-daxue-zhaji.json；data/timeline-events-zaonian-riji.json；data/timeline-events-daxue-houqi-riji-jia.json；data/timeline-events-daxue-houqi-riji-yi.json；data/timeline-events-preofficer-diary.json；data/timeline-events-li-ao-micang-diary.json；data/timeline-events-li-ao-zhaji.json；data/timeline-events-li-ao-wuwu-diary.json；data/timeline-events-li-ao-suixielu-qianji.json；data/timeline-events-li-ao-suixielu-houji.json；data/timeline-events-li-ao-baokanji.json；data/timeline-events-li-ao-shuxuji.json；data/timeline-events-li-ao-shuxuji-xuji.json；data/timeline-events-li-ao-duihualu.json；data/timeline-events-li-ao-fangtanlu-1990-2018.json；data/timeline-events-li-ao-qingshuji.json
 说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。
-日期精度统计：day=9952；year=102；year-range=13；undated-range=1；undated-context=147；season=29；lunar-day=1；year-after=7；month=75；half-year=2；school-year-context=5；day-range=18；range=15；year-about=10；range-context=15；month-after=3；year-context=17；day-after=5；before-date-context=15；day-about=1；after-date-context=8；month-context=5；day-context=7；before-day=2；before-month=4；month-range=2；year-end=1；date-range=3
+日期精度统计：day=9983；year=102；year-range=13；undated-range=1；undated-context=147；season=29；lunar-day=1；year-after=7；month=75；half-year=2；school-year-context=5；day-range=18；range=15；year-about=10；range-context=15；month-after=3；year-context=17；day-after=5；before-date-context=15；day-about=1；after-date-context=8；month-context=5；day-context=7；before-day=2；before-month=4；month-range=2；year-end=1；date-range=3
 
 
 1935
@@ -80052,6 +80052,110 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集/006.给G的九十四封信.txt
   数据：data/timeline-events-li-ao-qingshuji.json#li-ao-qingshuji-1964-10-30-g-letter-137-chen-zhifan-urges-li-ao-to-go-to-america
+- 五十三年十一月九日 | 李敖在信中说偶尔同“李鸿藻”等看电影，并评论其婚事不相称
+  精度：day；可靠度：reported-by-author；排序日期：1964-11-09
+  摘要：同日给美国G的信中，李敖说自己偶尔跟“李鸿藻”等人看一次电影；随即转入评论，说“李鸿藻”可能要同一个女学生结婚，那女学生瘦、干、丑、小、黑、矮又闷闷的，而“李鸿藻”同她相比大两倍多，太不相称。此条记录的是李敖在11月9日信中的交游和即兴评价。
+  人物：李敖、G、李鸿藻
+  地点：台北、美国
+  标签：G在美国、李鸿藻、看电影、女学生、婚事评论、不相称
+  视图：书信线、交游线、日常线
+  作品：李敖情书集
+  交叉引用：-
+  来源：李敖情书集 / 006.给G的九十四封信 / line 1912
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集/006.给G的九十四封信.txt
+  数据：data/timeline-events-li-ao-qingshuji.json#li-ao-qingshuji-1964-11-09-g-letter-141-movie-with-li-hongzao-and-marriage-comment
+- 五十三年十一月九日 | 李敖在给美国G的信中列出当前单调而密集的写作作息
+  精度：day；可靠度：reported-by-author；排序日期：1964-11-09
+  摘要：1964年11月9日，李敖在给美国G的信中列出自己当前生活状况：中午12时起床，12时至2时整理、午饭并读报，下午2时至6时写作四小时，傍晚整理、晚饭、办杂务，晚上8时至凌晨1时再写五小时，随后整理、吃点东西、扫地，凌晨2时至4时继续写作并睡前洗热水澡。他还说小运动随时做做，整理房间也算运动，每日生活单调平静，几乎没有变化。
+  人物：李敖、G
+  地点：台北、美国
+  标签：G在美国、作息表、写作、午12时起床、凌晨写作、整理房间、生活单调
+  视图：书信线、写作线、日常线
+  作品：李敖情书集
+  交叉引用：li-ao-qingshuji-1964-10-01-g-letter-131-manuscript-overdue-and-daily-seven-thousand-words
+  来源：李敖情书集 / 006.给G的九十四封信 / line 1890
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集/006.给G的九十四封信.txt
+  数据：data/timeline-events-li-ao-qingshuji.json#li-ao-qingshuji-1964-11-09-g-letter-140-current-daily-writing-routine
+- 五十三年十一月二十七日 | 李敖在天愈来愈凉时给美国G写信说很想她
+  精度：day；可靠度：reported-by-author；排序日期：1964-11-27
+  摘要：1964年11月27日，李敖在给美国G的信开头写道天愈来愈凉，自己好想她。这个“想G”节点明确置于11月27日的书信语境中，承接10月30日仍在寄照片、盼照片的通信线。
+  人物：李敖、G
+  地点：台北、美国
+  标签：G在美国、天气转凉、想G、书信开头
+  视图：书信线、情感线
+  作品：李敖情书集
+  交叉引用：li-ao-qingshuji-1964-10-30-g-letter-139-sends-four-photos-to-g-and-wants-her-photo
+  来源：李敖情书集 / 006.给G的九十四封信 / line 1922
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集/006.给G的九十四封信.txt
+  数据：data/timeline-events-li-ao-qingshuji.json#li-ao-qingshuji-1964-11-27-g-letter-142-cold-weather-misses-g
+- 五十三年十一月二十七日 | 李敖在信中记下月五号又要开庭
+  精度：day；可靠度：reported-by-author；排序日期：1964-11-27
+  摘要：同日信中，李敖插入一句说下月五号又开庭，又要和某人见面。原文未明说是哪一案或哪一人，本条只按信中所见记录为11月27日对即将开庭的提示，不再外推案名。
+  人物：李敖、G
+  地点：台北、美国
+  标签：G在美国、下月五号、开庭、官司、未明案名
+  视图：书信线、司法线
+  作品：李敖情书集
+  交叉引用：li-ao-qingshuji-1963-01-10-g-letter-112-lost-secret-letters-nangang-court-summons
+  来源：李敖情书集 / 006.给G的九十四封信 / line 1932
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集/006.给G的九十四封信.txt
+  数据：data/timeline-events-li-ao-qingshuji.json#li-ao-qingshuji-1964-11-27-g-letter-146-next-month-fifth-court-hearing
+- 五十三年十一月二十七日 | 李敖在信中统计自己七本书中仅四本在文星书店现货供应
+  精度：day；可靠度：reported-by-author；排序日期：1964-11-27
+  摘要：同日给美国G的信中，李敖继续写出版近况：他的七本书中，文星书店现在“现货供应”的只有四本，其他《胡适评传》《为中国思想趋向求答案》及《教育与脸谱》都已经卖光。这个节点延续10月1日书店老板称他的《文星丛刊》卖光的出版线。
+  人物：李敖、G
+  地点：台北、文星书店、美国
+  标签：G在美国、文星书店、现货供应、胡适评传、为中国思想趋向求答案、教育与脸谱、卖光
+  视图：书信线、出版线
+  作品：李敖情书集、胡适评传、为中国思想趋向求答案、教育与脸谱
+  交叉引用：li-ao-qingshuji-1964-10-01-g-letter-128-bookstore-says-his-wenxing-books-sold-out、li-ao-qingshuji-1964-11-27-g-letter-143-education-and-faces-first-print-sold-out
+  来源：李敖情书集 / 006.给G的九十四封信 / line 1926
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集/006.给G的九十四封信.txt
+  数据：data/timeline-events-li-ao-qingshuji.json#li-ao-qingshuji-1964-11-27-g-letter-144-wenxing-only-four-books-in-stock
+- 五十三年十一月二十七日 | 李敖在信中说《教育与脸谱》初版二千册已全部卖光
+  精度：day；可靠度：reported-by-author；排序日期：1964-11-27
+  摘要：同日信中，李敖告诉美国G，自己的《教育与脸谱》初版二千册已全部卖光，最后一本大概是刘真买去，据说送给周至柔了。这个节点把《教育与脸谱》从写成、刊出推进到首印售罄。
+  人物：李敖、G、刘真、周至柔
+  地点：台北、美国
+  标签：G在美国、教育与脸谱、初版二千册、全部卖光、刘真、周至柔
+  视图：书信线、出版线
+  作品：李敖情书集、教育与脸谱
+  交叉引用：education-faces-1964-07-27-preface-written-before-dawn、education-faces-1964-08-10-preface-published-in-wenxing、li-ao-qingshuji-1964-10-01-g-letter-128-bookstore-says-his-wenxing-books-sold-out
+  来源：李敖情书集 / 006.给G的九十四封信 / line 1924
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集/006.给G的九十四封信.txt
+  数据：data/timeline-events-li-ao-qingshuji.json#li-ao-qingshuji-1964-11-27-g-letter-143-education-and-faces-first-print-sold-out
+- 五十三年十一月二十七日 | 李敖在信中说自己工作过度，并记前天下午同老萧逛牯岭街书摊后疲惫
+  精度：day；可靠度：reported-by-author；排序日期：1964-11-27
+  摘要：同日信末，李敖告诉美国G，自己仍然工作过度，很容易疲倦；前天下午同老萧逛牯岭街书摊，逛了一下午回来疲惫已极，觉得身体真是不太行了。他还想到再过五个月就已三十岁，感叹自己老了。
+  人物：李敖、G、老萧
+  地点：台北、牯岭街书摊、美国
+  标签：G在美国、工作过度、疲倦、老萧、牯岭街书摊、三十岁、身体不太行
+  视图：书信线、日常线、健康线
+  作品：李敖情书集
+  交叉引用：li-ao-qingshuji-1964-10-01-g-letter-131-manuscript-overdue-and-daily-seven-thousand-words、li-ao-qingshuji-1964-11-09-g-letter-140-current-daily-writing-routine
+  来源：李敖情书集 / 006.给G的九十四封信 / line 1934
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集/006.给G的九十四封信.txt
+  数据：data/timeline-events-li-ao-qingshuji.json#li-ao-qingshuji-1964-11-27-g-letter-147-overworked-and-guling-street-bookstalls-with-lao-xiao
+- 五十三年十一月二十七日 | 李敖把《台湾日报》上提到自己的一页寄给美国G
+  精度：day；可靠度：reported-by-author；排序日期：1964-11-27
+  摘要：11月27日信中，李敖提到司马笑的太太正在《台湾日报》连载《我嫁了一个美国丈夫》，其中有一段提到李敖；他把这一页寄给美国G看。此条记录的是他在书信中主动把媒体提及自己的材料转寄给G。
+  人物：李敖、G、司马笑太太
+  地点：台北、美国
+  标签：G在美国、台湾日报、司马笑太太、我嫁了一个美国丈夫、寄报页、提到李敖
+  视图：书信线、媒体线、情感线
+  作品：李敖情书集、台湾日报、我嫁了一个美国丈夫
+  交叉引用：-
+  来源：李敖情书集 / 006.给G的九十四封信 / line 1928
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集/006.给G的九十四封信.txt
+  数据：data/timeline-events-li-ao-qingshuji.json#li-ao-qingshuji-1964-11-27-g-letter-145-sends-taiwan-daily-page-about-him-to-g
 - 1964年12月1日星期二 | 《文星》刊出《私生子与罗光》编辑室报告
   精度：day；可靠度：confirmed；排序日期：1964-12-01
   摘要：《私生子与罗光》以1964年12月1日《文星》第八十六期编辑室报告为锚点，批评罗光一稿两投与宗教争论中的失范。
@@ -80327,6 +80431,84 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/005.李敖文存二集/009.过早的答案.txt
   数据：data/timeline-events-wencun-two.json#wencun-two-1965-04-21-letter-to-liu-jimin
+- 1965年4月25日（4月29日信中回述） | 李敖三十大寿下午起在萧家度过，三十多人祝寿直到夜里三点
+  精度：day；可靠度：reported-by-author；排序日期：1965-04-25
+  摘要：1965年4月29日信中，李敖回述4月25日“三十大寿”：中午在三姐家过，下午起在萧家度过。到场祝寿者有萧孟能一家、刘绍唐、刘凤翰、陆乾原夫妇、张继高、宋卓敏、李声庭、李士振、黄胜常与高继梅兄妹、陈彦增、郭鑫生、张白帆、家中老太太、三姐、三姐夫、六小姐、七小姐等三十多人，非常热闹，直闹到夜里3点才完。
+  人物：李敖、G、萧孟能、刘绍唐、刘凤翰、陆乾原、张继高、宋卓敏、李声庭、李士振、黄胜常、高继梅、陈彦增、郭鑫生、张白帆
+  地点：台北、萧家、三姐家、美国
+  标签：G在美国、三十大寿、萧家、祝寿、夜里三点、三十多人
+  视图：书信线、交游线、家族线
+  作品：李敖情书集
+  交叉引用：li-ao-qingshuji-1964-11-27-g-letter-147-overworked-and-guling-street-bookstalls-with-lao-xiao
+  来源：李敖情书集 / 006.给G的九十四封信 / line 1942
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集/006.给G的九十四封信.txt
+  数据：data/timeline-events-li-ao-qingshuji.json#li-ao-qingshuji-1965-04-25-g-letter-148-thirtieth-birthday-at-xiao-home
+- 1965年4月27日（5月7日信中回述） | 李敖在4月27日法庭开庭时听李白华谈“有条有理，无法无天”来历
+  精度：day；可靠度：reported-by-author；排序日期：1965-04-27
+  摘要：5月7日信中，李敖回述4月27日法庭开庭，案子是萧孟能太太告胡秋原。李白华律师告诉他，描写法官黑暗的成语“有条（金条）有理，无法（法币）无天”，是李白华抗战胜利后讲给法学家郭卫的，以后不胫而走，传到今天。
+  人物：李敖、G、萧孟能太太、胡秋原、李白华、郭卫
+  地点：台北、美国
+  标签：G在美国、法庭开庭、萧孟能太太告胡秋原、李白华、郭卫、有条有理无法无天
+  视图：书信线、司法线、交游线
+  作品：李敖情书集
+  交叉引用：li-ao-qingshuji-1964-11-27-g-letter-146-next-month-fifth-court-hearing
+  来源：李敖情书集 / 006.给G的九十四封信 / line 1970
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集/006.给G的九十四封信.txt
+  数据：data/timeline-events-li-ao-qingshuji.json#li-ao-qingshuji-1965-04-27-g-letter-154-hears-li-baihua-on-court-proverb
+- 1965年4月29日 | 李敖在信中说生日后太忙太累，背部不舒服并病了一天
+  精度：day；可靠度：reported-by-author；排序日期：1965-04-29
+  摘要：同日信中，李敖告诉美国G，这一阵子生活仍是老样，只是太忙太累，背部很不舒服；生日以后病了一天，现在好了。他随即自嘲三十开外的人了，老了、老了，把生日后的身体感受写进信里。
+  人物：李敖、G
+  地点：台北、美国
+  标签：G在美国、太忙太累、背部不舒服、生日后病一天、三十开外、自嘲老了
+  视图：书信线、健康线、日常线
+  作品：李敖情书集
+  交叉引用：li-ao-qingshuji-1964-11-27-g-letter-147-overworked-and-guling-street-bookstalls-with-lao-xiao、li-ao-qingshuji-1965-04-25-g-letter-148-thirtieth-birthday-at-xiao-home
+  来源：李敖情书集 / 006.给G的九十四封信 / line 1946
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集/006.给G的九十四封信.txt
+  数据：data/timeline-events-li-ao-qingshuji.json#li-ao-qingshuji-1965-04-29-g-letter-150-too-busy-tired-back-pain-after-birthday
+- 1965年4月29日 | 李敖在信中想起朱自清《仅存的》，感叹人生能有几个三十
+  精度：day；可靠度：reported-by-author；排序日期：1965-04-29
+  摘要：4月29日信中，李敖记起十多年前、也许近二十年前读过朱自清小诗《仅存的》，并抄出“发上依稀的残香里，我看见渺茫的昨日的影子，远了，远了”等句；随后他在信中由三十岁生日想到“如今已三十开外，人生能有几个三十？”这是他在生日后写给美国G的年龄感叹。
+  人物：李敖、G、朱自清
+  地点：台北、美国
+  标签：G在美国、朱自清、仅存的、三十开外、人生能有几个三十、想起
+  视图：书信线、情感线、思想线
+  作品：李敖情书集、仅存的
+  交叉引用：li-ao-qingshuji-1965-04-25-g-letter-148-thirtieth-birthday-at-xiao-home
+  来源：李敖情书集 / 006.给G的九十四封信 / line 1948
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集/006.给G的九十四封信.txt
+  数据：data/timeline-events-li-ao-qingshuji.json#li-ao-qingshuji-1965-04-29-g-letter-151-remembers-zhu-ziqing-poem-and-thirty-reflection
+- 1965年4月29日 | 李敖感谢美国G寄来生日卡，并记录生日礼物
+  精度：day；可靠度：reported-by-author；排序日期：1965-04-29
+  摘要：4月29日信中，李敖感谢美国G寄来的生日卡，也记下自己收到不少礼物：萧同兹送领带夹和领带，郑锡华送小记事本，刘绍唐送花篮，李士振送座笔，另有西装、刮胡刀、晨衣、烤面包炉等；刘凤翰等人为他合买一部六千多块的大书《大清实录》，最近就要送来。
+  人物：李敖、G、萧同兹、郑锡华、刘绍唐、李士振、刘凤翰
+  地点：台北、美国
+  标签：G在美国、生日卡、生日礼物、萧同兹、郑锡华、刘绍唐、李士振、刘凤翰、大清实录
+  视图：书信线、情感线、交游线
+  作品：李敖情书集、大清实录
+  交叉引用：li-ao-qingshuji-1965-04-25-g-letter-148-thirtieth-birthday-at-xiao-home
+  来源：李敖情书集 / 006.给G的九十四封信 / line 1944
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集/006.给G的九十四封信.txt
+  数据：data/timeline-events-li-ao-qingshuji.json#li-ao-qingshuji-1965-04-29-g-letter-149-thanks-g-birthday-card-and-records-gifts
+- 1965年4月29日附记 | 李敖在信末另寄生日照十张给美国G
+  精度：day；可靠度：reported-by-author；排序日期：1965-04-29
+  摘要：4月29日信末附记，李敖告诉美国G另寄生日照十张。这一小节点延续前几封信里照片往来的通信线，也是他把三十岁生日现场影像寄给G的动作。
+  人物：李敖、G
+  地点：台北、美国
+  标签：G在美国、生日照、另寄十张、照片往来
+  视图：书信线、情感线、日常线
+  作品：李敖情书集
+  交叉引用：li-ao-qingshuji-1964-10-30-g-letter-139-sends-four-photos-to-g-and-wants-her-photo、li-ao-qingshuji-1965-04-25-g-letter-148-thirtieth-birthday-at-xiao-home
+  来源：李敖情书集 / 006.给G的九十四封信 / line 1962
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集/006.给G的九十四封信.txt
+  数据：data/timeline-events-li-ao-qingshuji.json#li-ao-qingshuji-1965-04-29-g-letter-152-sends-ten-birthday-photos
 - 1965年4月29日星期四 | 李敖写信鼓励孙陵重推《大风雪》
   精度：day；可靠度：confirmed；排序日期：1965-04-29
   摘要：《肚皮里的言论自由》收李敖1965年4月29日致孙陵信，祝贺《大风雪》解禁后重见书摊，并称其解禁史料是中国禁书史上的好材料。
@@ -80366,6 +80548,71 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/019.口诛（1993-·58岁至今）.txt
   数据：data/timeline-events-fourth-book.json#book4-1965-05-04-letter-on-ntu-speaking-ban
+- 1965年5月6日（5月7日信中回述） | 李敖收到居浩然自澳洲来信，信中评论G在《教育与脸谱》里的话
+  精度：day；可靠度：reported-by-author；排序日期：1965-05-06
+  摘要：5月7日信中，李敖回述昨天收到居浩然从澳洲来的信。居浩然读了李敖在《教育与脸谱》中引用G信里的话，评论G从美国还写信替他惋惜，确实对他很好；但对“众叛亲离”的说法不明其所指，又说“亲离”可能指G自己。
+  人物：李敖、G、居浩然
+  地点：台北、澳洲、美国
+  标签：G在美国、居浩然、澳洲来信、教育与脸谱、G的信、众叛亲离
+  视图：书信线、交游线、出版线
+  作品：李敖情书集、教育与脸谱
+  交叉引用：li-ao-qingshuji-1964-11-27-g-letter-143-education-and-faces-first-print-sold-out
+  来源：李敖情书集 / 006.给G的九十四封信 / line 1990
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集/006.给G的九十四封信.txt
+  数据：data/timeline-events-li-ao-qingshuji.json#li-ao-qingshuji-1965-05-06-g-letter-157-receives-ju-haoran-australia-letter-about-g-comments
+- 1965年5月6日晚（5月7日信中回述） | 李敖昨晚请林今开吃饭，并听他说高雄“爱河”命名经过
+  精度：day；可靠度：reported-by-author；排序日期：1965-05-06
+  摘要：1965年5月7日信中，李敖回述昨晚请林今开（林枕客）吃晚饭。林今开谈到民国三十八年在高雄做记者时，有一天发消息，不知道高雄川叫什么，遂起名“爱河”，以后流传开来，到如今人人都这样叫这条臭水沟。
+  人物：李敖、G、林今开、林枕客
+  地点：台北、高雄、爱河、美国
+  标签：G在美国、林今开、林枕客、晚饭、高雄、爱河、命名
+  视图：书信线、交游线、日常线
+  作品：李敖情书集
+  交叉引用：-
+  来源：李敖情书集 / 006.给G的九十四封信 / line 1968
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集/006.给G的九十四封信.txt
+  数据：data/timeline-events-li-ao-qingshuji.json#li-ao-qingshuji-1965-05-06-g-letter-153-dines-with-lin-jinkai-and-hears-aihe-name-origin
+- 1965年5月7日 | 李敖在信中列出自己当前四个官司，称真是官司缠身
+  精度：day；可靠度：reported-by-author；排序日期：1965-05-07
+  摘要：同日信中，李敖向美国G列出当前官司情形：台北高等法院是胡秋原告他、他反诉；台北地方法院是他重新告胡秋原，另有雷啸岑、马五先生、萧孟能太太也分别告胡；台中高等分院是他告徐复观；台中地方法院是他告中央书局，因为他们印发徐复观骂他的话。他总结四个官司集于一身，真可说“官司缠身”。
+  人物：李敖、G、胡秋原、雷啸岑、马五、萧孟能太太、徐复观
+  地点：台北高等法院、台北地方法院、台中高等分院、台中地方法院、美国
+  标签：G在美国、四个官司、胡秋原、反诉、徐复观、中央书局、官司缠身
+  视图：书信线、司法线
+  作品：李敖情书集
+  交叉引用：li-ao-qingshuji-1965-04-27-g-letter-154-hears-li-baihua-on-court-proverb、li-ao-qingshuji-1964-11-27-g-letter-146-next-month-fifth-court-hearing
+  来源：李敖情书集 / 006.给G的九十四封信 / line 1978
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集/006.给G的九十四封信.txt
+  数据：data/timeline-events-li-ao-qingshuji.json#li-ao-qingshuji-1965-05-07-g-letter-156-lists-four-current-lawsuits
+- 1965年5月7日 | 李敖在信中忽然连带想到四个名称、成语和谣言传播例子
+  精度：day；可靠度：reported-by-author；排序日期：1965-05-07
+  摘要：5月7日给美国G的信中，李敖由林今开的“爱河”命名和李白华的“有条有理，无法无天”来历，忽然连带想到另外两个例子：胡适讲给孙伏园的“中国不亡，是无天理”后来传遍天下，以及父亲在北平亲历一项谣言早上从东城一人口中发出、晚上已传遍西城。他把四个小例子随便写给G看。
+  人物：李敖、G、林今开、李白华、胡适、孙伏园、李敖父亲
+  地点：台北、高雄、北平、美国
+  标签：G在美国、忽然连带想到、爱河、有条有理无法无天、中国不亡是无天理、胡适、孙伏园、北平谣言
+  视图：书信线、思想线
+  作品：李敖情书集
+  交叉引用：li-ao-qingshuji-1965-05-06-g-letter-153-dines-with-lin-jinkai-and-hears-aihe-name-origin、li-ao-qingshuji-1965-04-27-g-letter-154-hears-li-baihua-on-court-proverb
+  来源：李敖情书集 / 006.给G的九十四封信 / line 1972
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集/006.给G的九十四封信.txt
+  数据：data/timeline-events-li-ao-qingshuji.json#li-ao-qingshuji-1965-05-07-g-letter-155-connects-four-rumor-and-phrase-examples
+- 1965年5月7日 | 李敖在信末说《民族晚报》《台湾日报》都拉他写连载专栏
+  精度：day；可靠度：reported-by-author；排序日期：1965-05-07
+  摘要：5月7日信末，李敖告诉美国G，这一阵自己又忙上加忙，《民族晚报》和《台湾日报》都拉他写连载专栏，尚不知能否应命。这条记录的是他在官司缠身和出版余波之外，面临新的媒体写作邀约。
+  人物：李敖、G
+  地点：台北、美国
+  标签：G在美国、民族晚报、台湾日报、连载专栏、忙上加忙、媒体邀约
+  视图：书信线、媒体线、写作线
+  作品：李敖情书集、民族晚报、台湾日报
+  交叉引用：li-ao-qingshuji-1965-05-07-g-letter-156-lists-four-current-lawsuits、li-ao-qingshuji-1964-11-27-g-letter-147-overworked-and-guling-street-bookstalls-with-lao-xiao
+  来源：李敖情书集 / 006.给G的九十四封信 / line 1994
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集/006.给G的九十四封信.txt
+  数据：data/timeline-events-li-ao-qingshuji.json#li-ao-qingshuji-1965-05-07-g-letter-158-two-newspapers-ask-for-serialized-columns
 - 1965年5月13日星期四 | 李敖写信建议孙陵揭出查禁机关内幕
   精度：day；可靠度：confirmed；排序日期：1965-05-13
   摘要：《肚皮里的言论自由》记孙陵谈查禁机关把“爱新觉罗氏”当“俄帝字汇”后，李敖在1965年5月13日去信，建议孙陵把查禁机关内幕抖出来，由《文星》发表以存一代信史。
@@ -81510,6 +81757,71 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/010.根株纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1965-12-28-nyt-asks-li-to-write-wenxing-news-draft
+- 1965年12月29日（12月30日夜深信中回述） | 李敖收到美国G的圣诞夜来信，并追问此前数封信是否收到
+  精度：day；可靠度：reported-by-author；排序日期：1965-12-29
+  摘要：1965年12月30日夜深给美国G的信中，李敖回述昨天收到她圣诞夜写来的信。G说一直没有接到他的信，李敖感到奇怪，列出自己10月23日、10月25日、10月29日、12月2日都曾写信给她，另零星寄过书和杂志，12月23日还打过电报，并追问她是否没收到这些信。
+  人物：李敖、G
+  地点：台北、美国
+  标签：G在美国、圣诞夜来信、收信、追问信件、寄书杂志、电报
+  视图：书信线、情感线、日常线
+  作品：李敖情书集
+  交叉引用：-
+  来源：李敖情书集 / 006.给G的九十四封信 / line 2004
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集/006.给G的九十四封信.txt
+  数据：data/timeline-events-li-ao-qingshuji.json#li-ao-qingshuji-1965-12-29-g-letter-159-receives-g-christmas-eve-letter
+- 1965年12月30日夜深 | 李敖在夜深给美国G的信中说很想写《思想反共论》专书
+  精度：day；可靠度：reported-by-author；排序日期：1965-12-30
+  摘要：12月30日夜深给美国G的信中，李敖接着谈自己的写作方向，说很想写一本《思想反共论》的专书，只是始终未能着手；他说明要写的专书太多，无论学术性或普及性，都要坚持“经世致用”的原则，不愿逃避现实或“置四海穷困而不言”。
+  人物：李敖、G
+  地点：台北、美国
+  标签：G在美国、思想反共论、很想写、专书、经世致用、不逃避现实
+  视图：书信线、思想线、写作线
+  作品：李敖情书集、思想反共论
+  交叉引用：li-ao-qingshuji-1965-12-30-g-letter-162-liang-shiqiu-advises-academic-route
+  来源：李敖情书集 / 006.给G的九十四封信 / line 2012
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集/006.给G的九十四封信.txt
+  数据：data/timeline-events-li-ao-qingshuji.json#li-ao-qingshuji-1965-12-30-g-letter-163-wants-to-write-thought-anti-communism-book
+- 1965年12月30日夜深 | 李敖在夜深给G的信中决定改寄挂号信，称作“投石问路”
+  精度：day；可靠度：reported-by-author；排序日期：1965-12-30
+  摘要：同封夜深信中，李敖因G说没有收到他的信，又因自己一再索取她的电话号码和美国福利部待填表格副本却得不到回讯而起疑，决定这封信寄挂号，算是“投石问路”。
+  人物：李敖、G
+  地点：台北、美国
+  标签：G在美国、挂号信、投石问路、电话号码、美国福利部表格、起疑
+  视图：书信线、情感线、日常线
+  作品：李敖情书集
+  交叉引用：li-ao-qingshuji-1965-12-29-g-letter-159-receives-g-christmas-eve-letter
+  来源：李敖情书集 / 006.给G的九十四封信 / line 2006
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集/006.给G的九十四封信.txt
+  数据：data/timeline-events-li-ao-qingshuji.json#li-ao-qingshuji-1965-12-30-g-letter-160-decides-registered-letter-as-test
+- 1965年12月30日夜深 | 李敖在信中记录《中央日报》正式登出《文星》停刊一年消息
+  精度：day；可靠度：reported-by-author；排序日期：1965-12-30
+  摘要：12月30日夜深信中，李敖告诉美国G，昨天国民党《中央日报》已正式登出《文星》杂志被罚禁止发行一年的消息；他说明光凭这一停刊消息，就不难猜想消息背后还有许多“节目”，并说这一阵子困扰极多，若非自己的坚强和定力，换成别人恐怕精神都要分裂。
+  人物：李敖、G
+  地点：台北、美国
+  标签：G在美国、文星、停刊一年、中央日报、困扰极多、言论压力
+  视图：书信线、媒体线、文星线
+  作品：李敖情书集、文星、中央日报
+  交叉引用：book5-1965-12-27-wenxing-one-year-suspension、book2-1965-12-26-letter-to-yin-haiguang-wenxing-ban、book5-1965-12-28-nyt-asks-li-to-write-wenxing-news-draft
+  来源：李敖情书集 / 006.给G的九十四封信 / line 2008
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集/006.给G的九十四封信.txt
+  数据：data/timeline-events-li-ao-qingshuji.json#li-ao-qingshuji-1965-12-30-g-letter-161-records-central-daily-wenxing-suspension
+- 1965年12月30日夜深 | 李敖在信中说梁实秋力劝他休息，改走学术专著的路
+  精度：day；可靠度：reported-by-author；排序日期：1965-12-30
+  摘要：同封信中，李敖写给美国G说梁实秋力劝他休息，放弃杂志上的攻击，改换走学术专著的路。他也逐渐感到自己争取言论自由的努力已经达到上限，已到毛姆小说所谓 The Razor's Edge，因此颇多感触。
+  人物：李敖、G、梁实秋、毛姆
+  地点：台北、美国
+  标签：G在美国、梁实秋、休息、学术专著、言论自由、The Razor's Edge
+  视图：书信线、思想线、文星线
+  作品：李敖情书集、文星
+  交叉引用：li-ao-qingshuji-1965-12-30-g-letter-161-records-central-daily-wenxing-suspension、book5-1965-12-28-nyt-asks-li-to-write-wenxing-news-draft
+  来源：李敖情书集 / 006.给G的九十四封信 / line 2010
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集/006.给G的九十四封信.txt
+  数据：data/timeline-events-li-ao-qingshuji.json#li-ao-qingshuji-1965-12-30-g-letter-162-liang-shiqiu-advises-academic-route
 - 1965年 | 《文星》被国民党停刊
   精度：year；可靠度：broad；排序日期：1965-01-01
   摘要：李敖写到1965年国民党终于动手，停刊《文星》，他前后四年的文星风云就此告一段落。
@@ -81733,6 +82045,45 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
   数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-01-04-receives-jiang-yun-letter-after-new-year-test
+- 1966年1月5日夜1时3刻 | 李敖今晚与监察委员黄宝实及李律师等吃饭，谈了很多
+  精度：day；可靠度：reported-by-author；排序日期：1966-01-05
+  摘要：同封信中，李敖告诉美国G，今晚与监察委员黄宝实及李律师等吃饭，谈了很多。此条记录的是《文星》和书被查禁当日夜里，他仍有外出饭局与政治、法律圈人物交谈的当事活动。
+  人物：李敖、G、黄宝实、李律师
+  地点：台北、美国
+  标签：G在美国、黄宝实、李律师、监察委员、吃饭、谈了很多
+  视图：书信线、交游线、司法线
+  作品：李敖情书集
+  交叉引用：zaonian-riji-1966-01-05-dines-with-huang-baoshi-and-reads-zhuru-leigao
+  来源：李敖情书集 / 006.给G的九十四封信 / line 2024
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集/006.给G的九十四封信.txt
+  数据：data/timeline-events-li-ao-qingshuji.json#li-ao-qingshuji-1966-01-05-g-letter-165-dines-with-huang-baoshi-and-lawyer-li
+- 1966年1月5日夜1时3刻 | 李敖在信中说自己被断唯一生路，并劝美国G最好不要回来
+  精度：day；可靠度：reported-by-author；排序日期：1966-01-05
+  摘要：1月5日夜给美国G的信中，李敖谈到书被禁后并不灰心，也没有太多感慨，但觉得环境对他太过分：自己没有政治野心、党籍、团体或宗教，息交绝游、没有职业，只靠写文章过活，却仍不为环境所容，被断了唯一“生路”。在吉凶莫卜之时，他又在信中劝G能不回来最好不回来，不愿她跟自己一起受罪。
+  人物：李敖、G
+  地点：台北、美国
+  标签：G在美国、书被禁、断我生路、没有职业、写文章过活、最好不回来
+  视图：书信线、情感线、司法线、出版线
+  作品：李敖情书集、孙逸仙和中国西化医学
+  交叉引用：li-ao-qingshuji-1966-01-05-g-letter-164-garrison-bans-wenxing-97-and-sun-yatsen-book、li-ao-qingshuji-1966-01-05-g-letter-165-dines-with-huang-baoshi-and-lawyer-li
+  来源：李敖情书集 / 006.给G的九十四封信 / line 2026
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集/006.给G的九十四封信.txt
+  数据：data/timeline-events-li-ao-qingshuji.json#li-ao-qingshuji-1966-01-05-g-letter-166-feels-livelihood-cut-off-and-urges-g-not-return
+- 1966年1月5日夜1时3刻 | 李敖收到警总令文，得知《文星》第97期和《孙逸仙和中国西化医学》被查禁扣押
+  精度：day；可靠度：reported-by-author；排序日期：1966-01-05
+  摘要：1966年1月5日夜1时3刻给美国G的信中，李敖记录警备总司令部当天又送来令文，查禁《文星》第97期和他的《孙逸仙和中国西化医学》一书，并扣押这两种出版品；理由是二者都载有他的《新夷说》，被指为曲解国父遗教、淆乱视听、影响民心士气。他特别标出，这是自己第一次遭遇亲自出版的书被查禁，也是生命里重要的一天。
+  人物：李敖、G、孙逸仙
+  地点：台北、美国
+  标签：G在美国、警备总司令部、文星第97期、孙逸仙和中国西化医学、新夷说、查禁扣押
+  视图：书信线、司法线、文星线、出版线
+  作品：李敖情书集、文星、孙逸仙和中国西化医学、新夷说
+  交叉引用：qianqiu-wansui-1965-11-12-051-publishes-sun-yatsen-western-medicine、book5-1965-writes-sun-yatsen-western-medicine、book5-1965-12-27-wenxing-one-year-suspension
+  来源：李敖情书集 / 006.给G的九十四封信 / line 2022
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集/006.给G的九十四封信.txt
+  数据：data/timeline-events-li-ao-qingshuji.json#li-ao-qingshuji-1966-01-05-g-letter-164-garrison-bans-wenxing-97-and-sun-yatsen-book
 - 1966年1月5日星期三 | 李敖与黄宝实等在竹林吃饭，并看《侏儒类稿》
   精度：day；可靠度：confirmed；排序日期：1966-01-05
   摘要：1966年1月5日晚，李敖与黄宝实、黄家老三、李律师、孟能在竹林吃饭，随后去明星喝咖啡。黄宝实以新著《侏儒类稿》请李敖看，李敖称其精审，但也批评做“学术”不如用同样时力去写监察委员弹劾书。
@@ -81759,6 +82110,58 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt
   数据：data/timeline-events-zaonian-riji.json#zaonian-riji-1966-01-05-receives-chen-pingjing-letter-from-bore-ruo-retreat
+- 1966年1月6日夜2时 | “李鸿藻”晚上来问李敖若被捕能做什么，李敖以送Playboy玩笑回应
+  精度：day；可靠度：reported-by-author；排序日期：1966-01-06
+  摘要：1月6日夜2时信中，李敖记“李鸿藻”晚上来，已经问他如果被捕，能为他做什么。李敖开玩笑回答：替他送几张 Playboy 中的大屁股女人到牢里来吧。这条小事把《文星》风波下的被捕预感，和他在亲友前的玩笑语气一并留下。
+  人物：李敖、G、李鸿藻
+  地点：台北、美国
+  标签：G在美国、李鸿藻、被捕、Playboy、玩笑、牢里
+  视图：书信线、交游线、司法线
+  作品：李敖情书集、Playboy
+  交叉引用：li-ao-qingshuji-1966-01-06-g-letter-169-records-media-attacks-after-wenxing、li-ao-qingshuji-1964-11-09-g-letter-141-movie-with-li-hongzao-and-marriage-comment
+  来源：李敖情书集 / 006.给G的九十四封信 / line 2046
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集/006.给G的九十四封信.txt
+  数据：data/timeline-events-li-ao-qingshuji.json#li-ao-qingshuji-1966-01-06-g-letter-170-li-hongzao-asks-what-if-arrested
+- 1966年1月6日夜2时 | 李敖中午醒来后与萧同兹一起吃饭，听他谈化“敌”为友
+  精度：day；可靠度：reported-by-author；排序日期：1966-01-06
+  摘要：1966年1月6日夜2时给美国G的信中，李敖记录当天忙糟糟：中午醒来，与萧同兹一起吃饭。萧同兹谈到过去主持国民党宣传时，在化“敌”为友方面所做的努力。
+  人物：李敖、G、萧同兹
+  地点：台北、美国
+  标签：G在美国、萧同兹、中午醒来、吃饭、国民党宣传、化敌为友
+  视图：书信线、交游线、日常线
+  作品：李敖情书集
+  交叉引用：-
+  来源：李敖情书集 / 006.给G的九十四封信 / line 2038
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集/006.给G的九十四封信.txt
+  数据：data/timeline-events-li-ao-qingshuji.json#li-ao-qingshuji-1966-01-06-g-letter-167-lunches-with-xiao-tongzi
+- 1966年1月6日夜2时 | 李敖在信中记录《醒狮》《政治评论》《中央日报》围攻他的文字
+  精度：day；可靠度：reported-by-author；排序日期：1966-01-06
+  摘要：同日夜2时信中，李敖向美国G记录最近舆论攻击：青年党机关报《醒狮》刊出六千字激烈攻击他的长文，自己尚未看到；《自立晚报》上已有人连写五六天回骂；国民党《政治评论》以《<文星>走了<自由中国>底道路》为社论题目展开毒恶攻击，并在《中央日报》刊出大广告。李敖还说《中央日报》已拒登《文星》任何广告，这是对付过《自由中国》的老手法。
+  人物：李敖、G
+  地点：台北、美国
+  标签：G在美国、醒狮、自立晚报、政治评论、中央日报、文星、自由中国
+  视图：书信线、媒体线、文星线
+  作品：李敖情书集、醒狮、政治评论、中央日报、文星、自由中国
+  交叉引用：li-ao-qingshuji-1965-12-30-g-letter-161-records-central-daily-wenxing-suspension、book5-1965-12-27-wenxing-one-year-suspension
+  来源：李敖情书集 / 006.给G的九十四封信 / line 2044
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集/006.给G的九十四封信.txt
+  数据：data/timeline-events-li-ao-qingshuji.json#li-ao-qingshuji-1966-01-06-g-letter-169-records-media-attacks-after-wenxing
+- 1966年1月6日夜2时 | 李敖接徐复观限时信后到中国大饭店喝咖啡，并说“抓起来就抓起来”
+  精度：day；可靠度：reported-by-author；排序日期：1966-01-06
+  摘要：1月6日信中，李敖说下午三时后回来，忽接徐复观限时信，约他去中国大饭店喝咖啡，两人谈到五点半。徐复观解释自己提倡中国文化的理由，李敖觉得这种看法有问题；徐复观又说极不希望他被抓起来，李敖回答“抓起来就抓起来”，并说一旦自己被抓，政府、国民党和跟他打群架的文人都要背上害贤、迫害青年的恶名。
+  人物：李敖、G、徐复观
+  地点：台北、中国大饭店、美国
+  标签：G在美国、徐复观、限时信、中国大饭店、喝咖啡、抓起来就抓起来
+  视图：书信线、交游线、司法线、思想线
+  作品：李敖情书集
+  交叉引用：zaonian-riji-1966-01-06-talks-with-xu-fuguan-at-new-china-hotel、li-ao-qingshuji-1965-05-07-g-letter-156-lists-four-current-lawsuits
+  来源：李敖情书集 / 006.给G的九十四封信 / line 2040
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集/006.给G的九十四封信.txt
+  数据：data/timeline-events-li-ao-qingshuji.json#li-ao-qingshuji-1966-01-06-g-letter-168-coffee-with-xu-fuguan-and-arrest-reply
 - 1966年1月6日星期四 | 李敖与徐复观在新中国饭店谈和解、胡秋原与文星
   精度：day；可靠度：confirmed；排序日期：1966-01-06
   摘要：1966年1月6日下午，徐复观写限时信约李敖在新中国饭店喝咖啡，二人从三点半谈到五点半。谈话涉及“张大义”即胡秋原、徐复观拒绝再替胡秋原生事、辜显荣材料、郑学稼欣赏李敖、徐愿给文星出书、反对胡秋原攻击殷海光，以及徐复观盼与李敖无条件和解等。

@@ -37579,5 +37579,140 @@
       "006.给G的九十四封信.txt"
     ],
     "nextRecommendation": "下一轮建议继续《李敖情书集》006.给G的九十四封信，处理第八十三至八十四封（1964年11月9日、11月27日）：重点抽11月9日李敖列出单调作息表（中午起床、下午/夜间/凌晨写作）、偶尔同“李鸿藻”等看电影、评论“李鸿藻”可能与女学生结婚；11月27日天气转凉想G、《教育与脸谱》初版二千册卖光、文星书店七本书中仅四本现货、寄司马笑太太文章中提到李敖的一页、下月五号又开庭、前天下午同老萧逛牯岭街书摊后疲惫并感到身体不太行。"
+  },
+  {
+    "date": "2026-06-18",
+    "round": "li-ao-qingshuji-round013-g-19641109-19641127",
+    "book": "李敖情书集",
+    "sourcePath": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集",
+    "sourceFiles": [
+      "006.给G的九十四封信.txt（本轮处理第八十三至八十四封，1964-11-09、1964-11-27）"
+    ],
+    "dataFile": "data/timeline-events-li-ao-qingshuji.json",
+    "addedEventIds": [
+      "li-ao-qingshuji-1964-11-09-g-letter-140-current-daily-writing-routine",
+      "li-ao-qingshuji-1964-11-09-g-letter-141-movie-with-li-hongzao-and-marriage-comment",
+      "li-ao-qingshuji-1964-11-27-g-letter-142-cold-weather-misses-g",
+      "li-ao-qingshuji-1964-11-27-g-letter-143-education-and-faces-first-print-sold-out",
+      "li-ao-qingshuji-1964-11-27-g-letter-144-wenxing-only-four-books-in-stock",
+      "li-ao-qingshuji-1964-11-27-g-letter-145-sends-taiwan-daily-page-about-him-to-g",
+      "li-ao-qingshuji-1964-11-27-g-letter-146-next-month-fifth-court-hearing",
+      "li-ao-qingshuji-1964-11-27-g-letter-147-overworked-and-guling-street-bookstalls-with-lao-xiao"
+    ],
+    "added": 8,
+    "revisedEventIds": [],
+    "revised": 0,
+    "status": "done",
+    "notes": "继续《李敖情书集》006《给G的九十四封信》第十三轮，新增8条；覆盖1964年11月9日李敖在给美国G的信中列出当前中午起床、下午/夜间/凌晨写作的单调作息，偶尔同“李鸿藻”等看电影并评论其可能婚事不相称；11月27日天气转凉时在信中说很想G，说明《教育与脸谱》初版二千册已全部卖光，统计七本书中文星书店仅四本现货供应，把《台湾日报》上提到自己的一页寄给G，记下月五号又开庭，以及说自己工作过度、前天下午同老萧逛牯岭街书摊后疲惫并感到身体不太行。所有“想G/评论/感叹”类摘要均补足在11月9日或11月27日给美国G的信中语境。",
+    "checks": {
+      "expectedNewDataFileTotal": 160,
+      "expectedProjectTotal": 10473,
+      "dataVersion": "2026-06-18-li-ao-qingshuji-round013-g-19641109-19641127",
+      "rebuildExports": true,
+      "duplicateIds": 0,
+      "duplicateRefs": 0,
+      "missingRefs": 0,
+      "sourceLineErrors": 0
+    },
+    "currentBookTotal": 8,
+    "newDataFileTotal": 160,
+    "currentProjectTotal": 10473,
+    "partialSourceFiles": [
+      "006.给G的九十四封信.txt"
+    ],
+    "nextRecommendation": "下一轮建议继续《李敖情书集》006.给G的九十四封信，处理第八十五至八十六封（1965年4月29日、5月7日），并确认1964-11-28至1965-04-28在此源文段无独立编号信件：重点抽4月25日“三十大寿”在萧家度过、收到G生日卡和众人礼物、生日后太忙太累与背部不适、读朱自清《仅存的》而感叹三十开外、另寄生日照十张；5月7日林今开谈“爱河”命名、李白华谈“有条有理，无法无天”、李敖忽然连带想到四个谣言/成语传播例子、列出四个官司、收到居浩然澳洲来信评论G信里话、以及《民族晚报》《台湾日报》拉他写连载专栏。"
+  },
+  {
+    "date": "2026-06-18",
+    "round": "li-ao-qingshuji-round014-g-19650425-19650507",
+    "book": "李敖情书集",
+    "sourcePath": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集",
+    "sourceFiles": [
+      "006.给G的九十四封信.txt（本轮处理第八十五至八十六封，1965-04-25、1965-04-29、1965-05-06至1965-05-07；1964-11-28至1965-04-28未见独立编号信件）"
+    ],
+    "dataFile": "data/timeline-events-li-ao-qingshuji.json",
+    "addedEventIds": [
+      "li-ao-qingshuji-1965-04-25-g-letter-148-thirtieth-birthday-at-xiao-home",
+      "li-ao-qingshuji-1965-04-29-g-letter-149-thanks-g-birthday-card-and-records-gifts",
+      "li-ao-qingshuji-1965-04-29-g-letter-150-too-busy-tired-back-pain-after-birthday",
+      "li-ao-qingshuji-1965-04-29-g-letter-151-remembers-zhu-ziqing-poem-and-thirty-reflection",
+      "li-ao-qingshuji-1965-04-29-g-letter-152-sends-ten-birthday-photos",
+      "li-ao-qingshuji-1965-05-06-g-letter-153-dines-with-lin-jinkai-and-hears-aihe-name-origin",
+      "li-ao-qingshuji-1965-04-27-g-letter-154-hears-li-baihua-on-court-proverb",
+      "li-ao-qingshuji-1965-05-07-g-letter-155-connects-four-rumor-and-phrase-examples",
+      "li-ao-qingshuji-1965-05-07-g-letter-156-lists-four-current-lawsuits",
+      "li-ao-qingshuji-1965-05-06-g-letter-157-receives-ju-haoran-australia-letter-about-g-comments",
+      "li-ao-qingshuji-1965-05-07-g-letter-158-two-newspapers-ask-for-serialized-columns"
+    ],
+    "added": 11,
+    "revisedEventIds": [],
+    "revised": 0,
+    "status": "done",
+    "notes": "继续《李敖情书集》006《给G的九十四封信》第十四轮，新增11条；覆盖1965年4月25日李敖三十大寿在萧家度过，4月29日感谢美国G生日卡并记录礼物、生日后太忙太累背部不适、在信中想起朱自清《仅存的》并感叹人生能有几个三十、另寄生日照十张；5月6日晚请林今开吃饭并听“爱河”命名来历，4月27日法庭开庭时听李白华谈“有条有理，无法无天”，5月7日信中忽然连带想到四个名称/成语/谣言传播例子，列出四个官司称官司缠身，回述5月6日收到居浩然澳洲来信，以及《民族晚报》《台湾日报》拉他写连载专栏。1964-11-28至1965-04-28在此源文段无独立编号信件；其中4月25日生日为4月29日信中回述的当事事件。",
+    "checks": {
+      "expectedNewDataFileTotal": 171,
+      "expectedProjectTotal": 10484,
+      "dataVersion": "2026-06-18-li-ao-qingshuji-round014-g-19650425-19650507",
+      "rebuildExports": true,
+      "duplicateIds": 0,
+      "duplicateRefs": 0,
+      "missingRefs": 0,
+      "sourceLineErrors": 0,
+      "sourceGapNote": "1964-11-28至1965-04-28在此源文段无独立编号信件，但第八十五封回述1965-04-25生日事件。"
+    },
+    "currentBookTotal": 11,
+    "newDataFileTotal": 171,
+    "currentProjectTotal": 10484,
+    "partialSourceFiles": [
+      "006.给G的九十四封信.txt"
+    ],
+    "nextRecommendation": "下一轮建议继续《李敖情书集》006.给G的九十四封信，处理第八十七至八十九封（1965年12月30日夜深、1966年1月5日夜1时3刻、1966年1月6日夜2时），并确认1965-05-08至1965-12-29在此源文段无独立编号信件：重点抽12月30日收到G圣诞夜信并决定寄挂号“投石问路”、读《中央日报》正式刊出《文星》停刊一年消息、梁实秋劝其休息并改走学术专著、很想写《思想反共论》；1月5日警总查禁《文星》第97期与《孙逸仙和中国西化医学》、与黄宝实及李律师等吃饭、写被断生路和劝G最好不要回来；1月6日与萧同兹吃饭、同徐复观在中国大饭店喝咖啡并谈被抓、舆论围剿与“李鸿藻”来问如被捕能做什么。"
+  },
+  {
+    "date": "2026-06-18",
+    "round": "li-ao-qingshuji-round015-g-19651229-19660106",
+    "book": "李敖情书集",
+    "sourcePath": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集",
+    "sourceFiles": [
+      "006.给G的九十四封信.txt（本轮处理第八十七至八十九封，1965-12-29至1966-01-06；1965-05-08至1965-12-29未见独立编号信件）"
+    ],
+    "dataFile": "data/timeline-events-li-ao-qingshuji.json",
+    "addedEventIds": [
+      "li-ao-qingshuji-1965-12-29-g-letter-159-receives-g-christmas-eve-letter",
+      "li-ao-qingshuji-1965-12-30-g-letter-160-decides-registered-letter-as-test",
+      "li-ao-qingshuji-1965-12-30-g-letter-161-records-central-daily-wenxing-suspension",
+      "li-ao-qingshuji-1965-12-30-g-letter-162-liang-shiqiu-advises-academic-route",
+      "li-ao-qingshuji-1965-12-30-g-letter-163-wants-to-write-thought-anti-communism-book",
+      "li-ao-qingshuji-1966-01-05-g-letter-164-garrison-bans-wenxing-97-and-sun-yatsen-book",
+      "li-ao-qingshuji-1966-01-05-g-letter-165-dines-with-huang-baoshi-and-lawyer-li",
+      "li-ao-qingshuji-1966-01-05-g-letter-166-feels-livelihood-cut-off-and-urges-g-not-return",
+      "li-ao-qingshuji-1966-01-06-g-letter-167-lunches-with-xiao-tongzi",
+      "li-ao-qingshuji-1966-01-06-g-letter-168-coffee-with-xu-fuguan-and-arrest-reply",
+      "li-ao-qingshuji-1966-01-06-g-letter-169-records-media-attacks-after-wenxing",
+      "li-ao-qingshuji-1966-01-06-g-letter-170-li-hongzao-asks-what-if-arrested"
+    ],
+    "added": 12,
+    "revisedEventIds": [],
+    "revised": 0,
+    "status": "done",
+    "notes": "继续《李敖情书集》006《给G的九十四封信》第十五轮，新增12条，并把网页“李敖历史上的今天”默认预览从6条改为1条、其余折叠。新增内容覆盖1965年12月29日收到G圣诞夜信，12月30日夜深决定寄挂号信“投石问路”、记录《中央日报》正式登出《文星》停刊一年、梁实秋劝其休息并改走学术专著、在信中很想写《思想反共论》；1966年1月5日警总查禁《文星》第97期与《孙逸仙和中国西化医学》、与黄宝实及李律师等吃饭、说自己被断唯一生路并劝G最好不要回来；1966年1月6日与萧同兹吃饭、同徐复观在中国大饭店喝咖啡并谈被抓、《醒狮》《政治评论》《中央日报》等围攻，以及“李鸿藻”来问若被捕能做什么。1965-05-08至1965-12-29在此源文段无独立编号信件；其中12月29日收信为12月30日信中回述。",
+    "checks": {
+      "expectedNewDataFileTotal": 183,
+      "expectedProjectTotal": 10496,
+      "dataVersion": "2026-06-18-li-ao-qingshuji-round015-g-19651229-19660106",
+      "rebuildExports": true,
+      "duplicateIds": 0,
+      "duplicateRefs": 0,
+      "missingRefs": 0,
+      "sourceLineErrors": 0,
+      "sourceGapNote": "1965-05-08至1965-12-29在此源文段无独立编号信件；12月29日收信与《中央日报》消息均由12月30日夜深信回述。"
+    },
+    "currentBookTotal": 12,
+    "newDataFileTotal": 183,
+    "currentProjectTotal": 10496,
+    "partialSourceFiles": [
+      "006.给G的九十四封信.txt"
+    ],
+    "nextRecommendation": "下一轮建议继续《李敖情书集》006.给G的九十四封信，处理第九十至九十二封；先核第九十封署日“五十五年一月贝贝离台后两年零两天”的确切公历日，再推进到1966年2月5日晨4时及后续一封。重点抽第九十封萧孟能请徐訏等客、香港日本美国公开评论《文星》被禁、此间舆论界形成围剿以及李敖对非政治思想运动/思想反共的判断；第九十一封为旧年与文星事件拖信、孙智燊寄《金山时报》社论并请求G剪寄海外消息、参加王企祥徐露婚礼、戒烟两个月二十多天、不再去文星书店并延长半夜写作读书、与李鸿藻洗土耳其浴、上月26日同美国新闻处人员吃饭并想写The Ugly American、与周榆瑞吃早饭谈文章；第九十二封按源文再定范围。"
   }
 ]
