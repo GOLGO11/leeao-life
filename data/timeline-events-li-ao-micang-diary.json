@@ -13430,7 +13430,7 @@
     "date": "1985-01-19",
     "displayDate": "1985年1月19日午后",
     "title": "李敖送秋镇信",
-    "summary": "1985年1月19日，李敖写给苏秋镇的信；午后把正本送到苏秋镇家，碰到周朱枕，又把副本送到黄天福、逸洋处。",
+    "summary": "1985年1月19日，李敖写给苏秋镇的抗议信，说明自己1月10日起调停苏秋镇与黄天福、李逸洋纠纷，16日深夜达成协议，17日约好由黄天福、李逸洋致歉，18日开庭时苏秋镇却未全撤自诉并把致歉说成“悔过书”；李敖上午写信抗议，午后把正本送到苏秋镇家，碰到周朱枕，又把副本送到黄天福、逸洋处。《李敖书信集》053保存信文，并附1月20日《民众日报》报道和张春男《请苏秋镇撤回告诉》。",
     "view": [
       "写作线",
       "法律线",
@@ -13442,7 +13442,13 @@
       "黄天福",
       "逸洋",
       "周朱枕",
-      "信"
+      "信",
+      "李敖书信集",
+      "我不能不抗议了！",
+      "李逸洋",
+      "陈清禄",
+      "张春男",
+      "民众日报"
     ],
     "people": [
       "李敖",
@@ -13457,12 +13463,37 @@
     ],
     "works": [
       "李敖秘藏日记",
-      "1月的日记"
+      "1月的日记",
+      "李敖书信集",
+      "我不能不抗议了！",
+      "请苏秋镇撤回告诉",
+      "民众日报"
     ],
     "crossReferences": [
       "micang-diary-1985-01-12-persuades-qiuzhen-to-withdraw-case-against-tianfu-yiyang",
       "micang-diary-1985-01-17-receives-calls-from-tianfu-qiuzhen-suhong",
-      "micang-diary-1985-03-06-receives-qiuzhen-call"
+      "micang-diary-1985-03-06-receives-qiuzhen-call",
+      "micang-diary-1985-01-10-hosts-qiuzhen-couple-laomeng-and-su-hong-yuejiao",
+      "micang-diary-1985-01-16-receives-late-night-calls-from-qiuzhen-tianfu-zhaoning",
+      "li-ao-shuxinji-1985-02-14-writes-huang-tianfu-li-yiyang-penglai-island-author"
+    ],
+    "additionalSources": [
+      {
+        "book": "李敖书信集",
+        "chapter": "053.我不能不抗议了！",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/002.李敖书信集/053.我不能不抗议了！.txt",
+        "line": 5,
+        "lines": [
+          5,
+          7,
+          9,
+          11,
+          13,
+          23,
+          45
+        ],
+        "note": "《李敖书信集》053收录李敖1985年1月19日上午写给苏秋镇的抗议信，并附《民众日报》与张春男文章。"
+      }
     ]
   },
   {
