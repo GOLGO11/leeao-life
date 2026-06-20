@@ -104,7 +104,8 @@ const dataFiles = [
   "./data/timeline-events-li-ao-duihualu.json",
   "./data/timeline-events-li-ao-fangtanlu-1990-2018.json",
   "./data/timeline-events-li-ao-qingshuji.json",
-  "./data/timeline-events-li-ao-shuxinji.json"
+  "./data/timeline-events-li-ao-shuxinji.json",
+  "./data/timeline-events-li-ao-shuhanji.json"
 ];
 const supplementalDataFiles = new Set([
   "./data/timeline-events-first-book-supplement.json",
@@ -116,7 +117,7 @@ const supplementalDataFiles = new Set([
   "./data/timeline-events-fourth-book-deepening.json"
 ]);
 const processedBookCount = dataFiles.filter((file) => !supplementalDataFiles.has(file)).length;
-const dataVersion = '2026-06-19-li-ao-shuxinji-round008-full-closeout-audit';
+const dataVersion = '2026-06-20-li-ao-shuhanji-round006-045-closeout-audit';
 
 const dateFormatter = new Intl.DateTimeFormat("zh-Hant", {
   year: "numeric",
