@@ -7542,8 +7542,22 @@
       ],
       "note": "1978年札记；1985年6月6日，李敖说明检出金兰大厦第一年札记，决定发表。"
     },
-    "crossReferences": [],
-    "ingestionRound": "li-ao-micang-diary-round021-jinlan-round001-lines-1-113"
+    "crossReferences": [
+      "book7-1985-06-08-letter-to-liu-huiyun-about-his-way-of-fighting-old-k"
+    ],
+    "ingestionRound": "li-ao-micang-diary-round021-jinlan-round001-lines-1-113",
+    "additionalSources": [
+      {
+        "book": "李敖书笺集",
+        "chapter": "022.我有我的方式",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/006.李敖书笺集/022.我有我的方式.txt",
+        "line": 19,
+        "lines": [
+          19
+        ],
+        "note": "李敖6月8日致刘会云信中再说明《千秋评论》第46期决定发表《金兰琐碎》。"
+      }
+    ]
   },
   {
     "id": "micang-diary-1978-09-18-drafts-six-hundred-character-discipline",
@@ -22314,7 +22328,11 @@
     "places": [
       "台北"
     ],
-    "works": [],
+    "works": [
+      "李敖书笺集",
+      "维护人权与维护正义",
+      "关于“小董留给李敖密件”"
+    ],
     "certainty": "confirmed",
     "source": {
       "book": "李敖秘藏日记",
@@ -22333,9 +22351,25 @@
       "micang-diary-1985-03-30-minzhong-daily-publishes-dong-guisen-confession",
       "micang-diary-1985-03-31-receives-nanrong-call",
       "micang-diary-1985-04-27-records-asian-magazine-jiangnan-report",
-      "micang-diary-1985-04-28-meets-wei-guangzhong-on-us-xiaodong-news"
+      "micang-diary-1985-04-28-meets-wei-guangzhong-on-us-xiaodong-news",
+      "li-ao-shujianji-letterpaper-1985-04-01-writes-zhou-canxiong-on-dong-guisen-documents"
     ],
-    "ingestionRound": "li-ao-micang-diary-round066-march-round010-lines-235-251"
+    "ingestionRound": "li-ao-micang-diary-round066-march-round010-lines-235-251",
+    "additionalSources": [
+      {
+        "book": "李敖书笺集",
+        "chapter": "020.维护人权与维护正义",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/006.李敖书笺集/020.维护人权与维护正义.txt",
+        "line": 7,
+        "lines": [
+          7,
+          9,
+          11,
+          17
+        ],
+        "note": "《书笺集》020补明李敖4月1日随信寄给周灿雄的17页密件，即董桂森留给李敖的材料。"
+      }
+    ]
   },
   {
     "id": "micang-diary-1985-03-23-zhixin-visits",
@@ -23620,7 +23654,9 @@
     ],
     "works": [
       "民众日报",
-      "小董自白书"
+      "小董自白书",
+      "李敖书笺集",
+      "维护人权与维护正义"
     ],
     "certainty": "confirmed",
     "source": {
@@ -23638,9 +23674,25 @@
       "micang-diary-1985-03-29-nanrong-call-on-li-yizhe-message-and-li-refuses-contact",
       "micang-diary-1985-04-27-records-asian-magazine-jiangnan-report",
       "micang-diary-1985-04-28-meets-wei-guangzhong-on-us-xiaodong-news",
-      "micang-diary-1985-04-29-huiyun-call-on-world-journal-fbi-contact"
+      "micang-diary-1985-04-29-huiyun-call-on-world-journal-fbi-contact",
+      "li-ao-shujianji-letterpaper-1985-04-01-writes-zhou-canxiong-on-dong-guisen-documents"
     ],
-    "ingestionRound": "li-ao-micang-diary-round069-march-round013-closeout-lines-307-327"
+    "ingestionRound": "li-ao-micang-diary-round069-march-round013-closeout-lines-307-327",
+    "additionalSources": [
+      {
+        "book": "李敖书笺集",
+        "chapter": "020.维护人权与维护正义",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/006.李敖书笺集/020.维护人权与维护正义.txt",
+        "line": 9,
+        "lines": [
+          7,
+          9,
+          11,
+          17
+        ],
+        "note": "《书笺集》020补出李敖4月1日比较《民众日报》所刊董桂森密件和吴敦《我狙杀叛逆刘宜良（江南）经过》的后续使用。"
+      }
+    ]
   },
   {
     "id": "micang-diary-1985-03-30-calls-wang-xiaochi-about-illness",

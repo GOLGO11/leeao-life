@@ -1266,19 +1266,35 @@
       "台北"
     ],
     "works": [
-      "胡茵梦的“天性”问题"
+      "胡茵梦的“天性”问题",
+      "李敖书笺集"
     ],
     "certainty": "confirmed",
     "crossReferences": [
       "book2-1984-03-23-wang-jianfen-court-record",
-      "book2-1984-11-29-hu-yinmeng-nature-written"
+      "book2-1984-11-29-hu-yinmeng-nature-written",
+      "li-ao-shujianji-letterpaper-1984-08-hu-yinmeng-case-petition-to-prosecutors-delay"
     ],
     "source": {
       "book": "李敖自传与回忆续集",
       "chapter": "024.胡茵梦的“天性”问题",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/024.胡茵梦的“天性”问题.txt",
       "line": 7
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖书笺集",
+        "chapter": "012.胡茵梦的“天性”问题",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/006.李敖书笺集/012.胡茵梦的“天性”问题.txt",
+        "line": 7,
+        "lines": [
+          5,
+          7,
+          25
+        ],
+        "note": "《书笺集》012同文重收，补明李敖称1984年3月8日写状提醒法院判决遗漏胡茵梦背信、侵占证物问题。"
+      }
+    ]
   },
   {
     "id": "book2-evidence-1984-11-28-hu-hearing",
@@ -1305,7 +1321,8 @@
       "台北"
     ],
     "works": [
-      "胡茵梦的“天性”问题"
+      "胡茵梦的“天性”问题",
+      "李敖书笺集"
     ],
     "certainty": "inferred",
     "crossReferences": [
@@ -1317,7 +1334,25 @@
       "chapter": "024.胡茵梦的“天性”问题",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/024.胡茵梦的“天性”问题.txt",
       "line": 21
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖书笺集",
+        "chapter": "012.胡茵梦的“天性”问题",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/006.李敖书笺集/012.胡茵梦的“天性”问题.txt",
+        "line": 5,
+        "lines": [
+          5,
+          11,
+          13,
+          15,
+          17,
+          19,
+          25
+        ],
+        "note": "《书笺集》012重收此文，补出11月28日前后开庭追问胡茵梦证词、权状与信托关系的更正信语境。"
+      }
+    ]
   },
   {
     "id": "book2-evidence-1985-04-04-hu-investigation-court",

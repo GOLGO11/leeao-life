@@ -1,13 +1,13 @@
 [
   {
     "datePrecision": "day",
-    "certainty": "confirmed",
+    "certainty": "reported-by-author",
     "ingestionRound": "li-ao-zhaji-round006-chapters-051-060",
-    "id": "li-ao-zhaji-1984-01-19-writes-zhang-jingyu-three-points-letter",
-    "date": "1984-01-19",
-    "displayDate": "1984年1月19日",
+    "id": "li-ao-zhaji-1985-01-19-writes-zhang-jingyu-three-points-letter",
+    "date": "1985-01-19",
+    "displayDate": "1985年1月19日晨",
     "title": "李敖致信张京育",
-    "summary": "1984年1月19日，李敖写信给国民党新闻局长张京育，质问新闻局“扫黄”以“三点不露”为标准，却放任国民党主持的《中国时报》《新生报》《大华晚报》《联合报》和第一党报《中央日报》刊出露奶头和阴部的裸女图。李敖在信中说自己并不反对《中央日报》登裸照，而是反对国民党订标准后自己不能遵守，并要求张京育明告取舍。",
+    "summary": "1985年1月19日晨，李敖写信给国民党新闻局长张京育，质问新闻局“扫黄”以“三点不露”为标准，却放任国民党主持的《中国时报》《新生报》《大华晚报》《联合报》和第一党报《中央日报》刊出露奶头和阴部的裸女图。李敖在信中说自己并不反对《中央日报》登裸照，而是反对国民党订标准后自己不能遵守，并要求张京育明告取舍；《札记》1985年12月24日追述此信时写成“去年1月19日”，本轮按《书笺集》原信署名日校正。",
     "view": [
       "札记线",
       "媒体线",
@@ -39,7 +39,10 @@
       "中国时报",
       "新生报",
       "大华晚报",
-      "联合报"
+      "联合报",
+      "李敖书笺集",
+      "谁露了奶头？",
+      "小偷与上帝"
     ],
     "crossReferences": [
       "li-ao-zhaji-1985-12-24-comments-minzu-evening-news-nude-photo"
@@ -52,8 +55,26 @@
       "lines": [
         3
       ],
-      "note": "李敖在1985年12月24日札记中追述自己1984年1月19日致张京育信，质问新闻局“三点不露”标准与党营媒体裸照问题。"
-    }
+      "note": "《札记》1985年12月24日追述作“去年1月19日”；《书笺集》017原信署1985年1月19日晨，且信中引用1985年1月9日《中央日报》材料，本轮按原信署名日校正。"
+    },
+    "additionalSources": [
+      {
+        "book": "李敖书笺集",
+        "chapter": "017.谁露了奶头？",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/006.李敖书笺集/017.谁露了奶头？.txt",
+        "line": 5,
+        "lines": [
+          5,
+          7,
+          9,
+          11,
+          21,
+          23,
+          27
+        ],
+        "note": "《书笺集》017保存致张京育原信，署1985年1月19日晨，补出1985年1月9日《中央日报》《小偷与上帝》裸照材料。"
+      }
+    ]
   },
   {
     "datePrecision": "day",
@@ -651,7 +672,9 @@
     "works": [
       "李敖札记"
     ],
-    "crossReferences": [],
+    "crossReferences": [
+      "li-ao-shujianji-letterpaper-1984-07-22-writes-xu-guotai-on-vase-auction-and-mine-disasters"
+    ],
     "source": {
       "book": "李敖札记",
       "chapter": "010.1984年7月23日",
@@ -2726,7 +2749,9 @@
     "works": [
       "李敖札记"
     ],
-    "crossReferences": [],
+    "crossReferences": [
+      "li-ao-shujianji-letterpaper-1985-11-10-before-noon-writes-liu-huiyun-on-qianqiu-fifty-issues"
+    ],
     "source": {
       "book": "李敖札记",
       "chapter": "049.拒见林希翎",
@@ -2736,7 +2761,19 @@
         3
       ],
       "note": "李敖记登恩代林希翎邀约见面，自己谢绝并托登恩转话；当天登恩又转告林希翎回话。"
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖书笺集",
+        "chapter": "031.“千秋评论”连出五十期了！",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/006.李敖书笺集/031.“千秋评论”连出五十期了！.txt",
+        "line": 21,
+        "lines": [
+          21
+        ],
+        "note": "李敖11月10日信中再次回述林希翎来台坚持要见他，他拒绝。"
+      }
+    ]
   },
   {
     "datePrecision": "day",
@@ -2895,7 +2932,7 @@
     "date": "1985-12-24",
     "displayDate": "1985年12月24日",
     "title": "李敖评露奶头问题",
-    "summary": "1985年12月24日，李敖写《又是露奶头问题》札记，说明张京育一年将尽仍未回复他1984年1月19日的信，而国民党传播媒体仍照样露“峰起之奶”。他举当天《民族晚报》刊出巴黎“滚马俱乐部”上空乳房并以《众人皆隐我独出》作标题为例，反问“小民”岂能不跟进。",
+    "summary": "1985年12月24日，李敖写《又是露奶头问题》札记，说明张京育一年将尽仍未回复他1月19日致张京育的信，而国民党传播媒体仍照样露“峰起之奶”。他举当天《民族晚报》刊出巴黎“滚马俱乐部”上空乳房并以《众人皆隐我独出》作标题为例，反问“小民”岂能不跟进。",
     "view": [
       "札记线",
       "媒体线",
@@ -2925,7 +2962,7 @@
       "众人皆隐我独出"
     ],
     "crossReferences": [
-      "li-ao-zhaji-1984-01-19-writes-zhang-jingyu-three-points-letter"
+      "li-ao-zhaji-1985-01-19-writes-zhang-jingyu-three-points-letter"
     ],
     "source": {
       "book": "李敖札记",

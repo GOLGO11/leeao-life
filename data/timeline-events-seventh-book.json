@@ -1784,7 +1784,9 @@
       "玄奘寺"
     ],
     "works": [
-      "李敖风流自传"
+      "李敖风流自传",
+      "李敖书笺集",
+      "政治规格的讨论"
     ],
     "certainty": "confirmed",
     "source": {
@@ -1796,7 +1798,24 @@
     "crossReferences": [
       "micang-diary-1986-02-05-goes-to-sun-moon-lake-via-taichung",
       "micang-diary-1986-02-05-to-06-stays-at-sun-moon-lake-hotel",
-      "micang-diary-1986-02-06-visits-xuanzang-temple"
+      "micang-diary-1986-02-06-visits-xuanzang-temple",
+      "li-ao-shujianji-letterpaper-1984-10-24-morning-writes-deng-weizhen-on-taiwanese-political-specification"
+    ],
+    "additionalSources": [
+      {
+        "book": "李敖书笺集",
+        "chapter": "011.政治规格的讨论",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/006.李敖书笺集/011.政治规格的讨论.txt",
+        "line": 37,
+        "lines": [
+          37,
+          39,
+          41,
+          43,
+          45
+        ],
+        "note": "《书笺集》011所收10月24日致邓维桢信，回述10月14日清早在日月潭凭栏远望、天亮后到玄奘寺，并在信中写下“身外身”之感。"
+      }
     ]
   },
   {
@@ -3453,14 +3472,35 @@
     "certainty": "confirmed",
     "crossReferences": [
       "book7-1984-12-05-writes-letter-to-liu-huiyun-revealing-mood-after-divorce",
-      "book7-1984-12-22-meets-lu-huadong-and-refuses-to-let-persecution-go"
+      "book7-1984-12-22-meets-lu-huadong-and-refuses-to-let-persecution-go",
+      "li-ao-shujianji-letterpaper-1985-06-04-noon-meets-house-sale-people-and-refuses-lei-yuqi-declaration",
+      "micang-diary-1985-06-06-decides-to-publish-jinlan-notes"
     ],
     "source": {
       "book": "李敖风流自传",
       "chapter": "558.我有我的方式",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/558.我有我的方式.txt",
       "line": 3
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖书笺集",
+        "chapter": "022.我有我的方式",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/006.李敖书笺集/022.我有我的方式.txt",
+        "line": 21,
+        "lines": [
+          5,
+          7,
+          11,
+          13,
+          15,
+          17,
+          19,
+          21
+        ],
+        "note": "《书笺集》同信全文，补入卖房、拒写宣言、《损害赔偿请求书》、海外专栏与《金兰琐碎》等细节。"
+      }
+    ]
   },
   {
     "id": "book7-2011-publishes-i-dream-broken-so-i-awake-and-lists-eight-directions",

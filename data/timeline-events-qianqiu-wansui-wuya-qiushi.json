@@ -6853,7 +6853,10 @@
       "chapter": "051.李敖著作年表",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/051.李敖著作年表.txt",
       "line": 103
-    }
+    },
+    "crossReferences": [
+      "li-ao-shujianji-letterpaper-1984-06-14-morning-writes-jiang-pengjian-urging-sacrifice"
+    ]
   },
   {
     "id": "qianqiu-wansui-1984-07-06-041-g1ro9xh5u-nesglqsifn9j",
@@ -6929,7 +6932,10 @@
       "chapter": "051.李敖著作年表",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/051.李敖著作年表.txt",
       "line": 103
-    }
+    },
+    "crossReferences": [
+      "li-ao-shujianji-letterpaper-1984-07-19-writes-jiang-pengjian-on-qianqiu-34-seizure"
+    ]
   },
   {
     "id": "qianqiu-wansui-1984-08-15-051-qianqiu-review-35",
@@ -6971,7 +6977,10 @@
       "chapter": "051.李敖著作年表",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/051.李敖著作年表.txt",
       "line": 103
-    }
+    },
+    "crossReferences": [
+      "li-ao-shujianji-letterpaper-1984-07-19-writes-jiang-pengjian-on-qianqiu-34-seizure"
+    ]
   },
   {
     "id": "qianqiu-wansui-1984-09-06-070-writes-after-reading-wang-xiaochi-essay",
@@ -8534,7 +8543,26 @@
       "chapter": "051.李敖著作年表",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/051.李敖著作年表.txt",
       "line": 105
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖书笺集",
+        "chapter": "031.“千秋评论”连出五十期了！",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/006.李敖书笺集/031.“千秋评论”连出五十期了！.txt",
+        "line": 5,
+        "lines": [
+          5,
+          7,
+          9,
+          11,
+          13
+        ],
+        "note": "李敖11月10日致刘会云信中说明第五十期从1981年9月1日狱中第一期一路出到1985年11月15日，并记封面金兰台灯旧照与“无尽灯”诗。"
+      }
+    ],
+    "crossReferences": [
+      "li-ao-shujianji-letterpaper-1985-11-10-before-noon-writes-liu-huiyun-on-qianqiu-fifty-issues"
+    ]
   },
   {
     "id": "qianqiu-wansui-1985-11-24-004-hqjnolnj3jzyh7son2iwe",

@@ -4592,7 +4592,9 @@
       "李敖书翰集",
       "有关“李敖告别文坛十书”的一封信",
       "独白下的传统",
-      "李敖告别文坛十书"
+      "李敖告别文坛十书",
+      "李敖书笺集",
+      "寄赠阅户"
     ],
     "view": [
       "书信线",
@@ -4601,7 +4603,24 @@
     ],
     "crossReferences": [
       "li-ao-shuhanji-1966-11-15-letter-on-farewell-ten-books-status",
-      "1979-06-du-bai-xia-de-chuan-tong-first-comeback-book"
+      "1979-06-du-bai-xia-de-chuan-tong-first-comeback-book",
+      "li-ao-shujianji-letterpaper-1985-02-12-night-notice-to-lifetime-gift-readers"
+    ],
+    "additionalSources": [
+      {
+        "book": "李敖书笺集",
+        "chapter": "018.寄赠阅户",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/006.李敖书笺集/018.寄赠阅户.txt",
+        "line": 5,
+        "lines": [
+          5,
+          7,
+          9,
+          11,
+          23
+        ],
+        "note": "《书笺集》018在1985年《寄赠阅户》中回述1979年《独白下的传统》版权页承诺终身赠送1966年直接预约受损读者。"
+      }
     ]
   },
   {

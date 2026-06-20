@@ -71,7 +71,8 @@ const dataFiles = [
   "data/timeline-events-li-ao-shuxinji.json",
   "data/timeline-events-li-ao-shuhanji.json",
   "data/timeline-events-li-ao-shujianji.json",
-  "data/timeline-events-li-ao-shuzhaji.json"
+  "data/timeline-events-li-ao-shuzhaji.json",
+  "data/timeline-events-li-ao-shujianji-letterpaper.json"
 ];
 
 const outputDir = path.join(root, "exports");

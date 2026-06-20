@@ -17244,14 +17244,32 @@
     "crossReferences": [
       "zaonian-riji-1966-08-15-tv-yu-guangzhong-russell-johnson-beef-noodle-plan-and-guling-lease",
       "zaonian-riji-1966-09-04-mengneng-xiaozhao-xiaozuo-beef-enterprise-reader-letters-and-operation-beirut",
-      "wencun-two-1966-09-01-advertised-in-six-taipei-newspapers"
+      "wencun-two-1966-09-01-advertised-in-six-taipei-newspapers",
+      "li-ao-shujianji-letterpaper-1968-01-13-writes-he-buzheng-beef-noodle-registration-denied"
     ],
     "source": {
       "book": "早年日记",
       "chapter": "004.二十年前的一些断片",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/004.二十年前的一些断片.txt",
       "line": 751
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖书笺集",
+        "chapter": "043.李氏理想，张氏实行",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/006.李敖书笺集/043.李氏理想，张氏实行.txt",
+        "line": 27,
+        "lines": [
+          17,
+          19,
+          21,
+          23,
+          25,
+          27
+        ],
+        "note": "1968年1月13日李敖致何步正旧信补明卖牛肉面未成事实，是因营业登记被阻，并强调已有详细计划书。"
+      }
+    ]
   },
   {
     "id": "zaonian-riji-1966-09-18-views-house-for-wang-family-with-zhang-ping",

@@ -388,18 +388,17 @@
     }
   },
   {
-    "id": "book2-broad-1982-05-23-xiao-press-defamation-judgment",
-    "date": "1982-05-23",
-    "displayDate": "约1982年5月23日星期日",
-    "datePrecision": "undated-context",
+    "id": "book2-broad-1983-05-23-xiao-press-defamation-judgment",
+    "date": "1983-05-23",
+    "displayDate": "1983年5月23日（由1984年6月5日信中“去年5月23日”换算）",
+    "datePrecision": "day",
     "title": "地方法院判萧孟能记者会诽谤李敖",
-    "summary": "《从主流到乱流》记述，萧孟能因《文星杂志选集》事招待记者骂李敖，被李敖告到法院；去年5月23日地方法院推事林茂雄判决萧孟能诽谤成立。",
+    "summary": "《从主流到乱流》记述，萧孟能因《文星杂志选集》事招待记者攻击李敖，被李敖告到法院；1983年5月23日，地方法院推事林茂雄判决萧孟能诽谤成立，处有期徒刑五月，后高院改判公然侮辱罚金三百元定谳。",
     "view": [
       "司法线",
       "出版线"
     ],
     "tags": [
-      "待校日",
       "萧孟能",
       "文星杂志选集",
       "诽谤"
@@ -415,13 +414,26 @@
     "works": [
       "从主流到乱流"
     ],
-    "certainty": "contextual",
+    "certainty": "reported-by-author",
     "source": {
       "book": "李敖自传与回忆续集",
       "chapter": "031.从主流到乱流",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/031.从主流到乱流.txt",
       "line": 23
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖书笺集",
+        "chapter": "004.从主流到乱流",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/006.李敖书笺集/004.从主流到乱流.txt",
+        "line": 23,
+        "lines": [
+          23,
+          25,
+          27
+        ]
+      }
+    ]
   },
   {
     "id": "book2-broad-1982-07-20-xiao-sues-wenxing-selection",
@@ -457,7 +469,18 @@
       "chapter": "031.从主流到乱流",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/031.从主流到乱流.txt",
       "line": 13
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖书笺集",
+        "chapter": "004.从主流到乱流",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/006.李敖书笺集/004.从主流到乱流.txt",
+        "line": 13,
+        "lines": [
+          13
+        ]
+      }
+    ]
   },
   {
     "id": "book2-broad-1982-11-30-lin-maoxiong-dismisses-xiao",
@@ -493,7 +516,19 @@
       "chapter": "031.从主流到乱流",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/031.从主流到乱流.txt",
       "line": 13
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖书笺集",
+        "chapter": "004.从主流到乱流",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/006.李敖书笺集/004.从主流到乱流.txt",
+        "line": 13,
+        "lines": [
+          13,
+          15
+        ]
+      }
+    ]
   },
   {
     "id": "book2-broad-1983-01-29-high-court-dismisses-xiao-appeal",
@@ -531,7 +566,19 @@
       "chapter": "031.从主流到乱流",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/031.从主流到乱流.txt",
       "line": 17
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖书笺集",
+        "chapter": "004.从主流到乱流",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/006.李敖书笺集/004.从主流到乱流.txt",
+        "line": 17,
+        "lines": [
+          17,
+          19
+        ]
+      }
+    ]
   },
   {
     "id": "book2-broad-1983-02-28-news-bureau-approves-wenxing-registration",
@@ -567,7 +614,19 @@
       "chapter": "031.从主流到乱流",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/031.从主流到乱流.txt",
       "line": 5
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖书笺集",
+        "chapter": "004.从主流到乱流",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/006.李敖书笺集/004.从主流到乱流.txt",
+        "line": 5,
+        "lines": [
+          5,
+          11
+        ]
+      }
+    ]
   },
   {
     "id": "book2-broad-1984-04-25-xiao-land-case-appeal-dismissed",
@@ -611,6 +670,20 @@
     "crossReferences": [
       "li-ao-zhaji-1984-08-30-records-xiao-mengneng-imprisonment-news",
       "li-ao-zhaji-1984-09-11-sues-xiao-mengneng-false-accusation-and-lunches-with-zi-ge"
+    ],
+    "additionalSources": [
+      {
+        "book": "李敖书笺集",
+        "chapter": "004.从主流到乱流",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/006.李敖书笺集/004.从主流到乱流.txt",
+        "line": 27,
+        "lines": [
+          27,
+          29,
+          33,
+          35
+        ]
+      }
     ]
   },
   {
@@ -651,6 +724,26 @@
     },
     "crossReferences": [
       "micang-diary-1985-03-18-receives-xiao-wang-mobilization-law-judgment"
+    ],
+    "additionalSources": [
+      {
+        "book": "李敖书笺集",
+        "chapter": "004.从主流到乱流",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/006.李敖书笺集/004.从主流到乱流.txt",
+        "line": 41,
+        "lines": [
+          3,
+          5,
+          7,
+          9,
+          13,
+          21,
+          23,
+          27,
+          37,
+          41
+        ]
+      }
     ]
   },
   {
@@ -807,7 +900,22 @@
       "chapter": "032.“洁本”云乎哉？",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/032.“洁本”云乎哉？.txt",
       "line": 3
-    }
+    },
+    "crossReferences": [
+      "li-ao-shujianji-letterpaper-1986-09-05-noon-letter-recounts-wang-jianfen-xiao-mengneng-executions"
+    ],
+    "additionalSources": [
+      {
+        "book": "李敖书笺集",
+        "chapter": "041.彼以熊来，吾以熊往",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/006.李敖书笺集/041.彼以熊来，吾以熊往.txt",
+        "line": 27,
+        "lines": [
+          27
+        ],
+        "note": "1986年9月5日致王尚勤信中回述萧孟能最近复刊《文星》，李敖随后又演出查封戏。"
+      }
+    ]
   },
   {
     "id": "book2-broad-1986-09-10-clean-version-written",

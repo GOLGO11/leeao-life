@@ -3295,7 +3295,21 @@
       "出版线"
     ],
     "crossReferences": [
-      "li-ao-shuxinji-1982-03-06-center-clinic-letter-to-xu-rongshu-prison-questions"
+      "li-ao-shuxinji-1982-03-06-center-clinic-letter-to-xu-rongshu-prison-questions",
+      "li-ao-shujianji-letterpaper-1985-10-10-morning-writes-liu-shuzheng-on-lincoln-building-roof"
+    ],
+    "additionalSources": [
+      {
+        "book": "李敖书笺集",
+        "chapter": "029.苍蝇也没那么好拍的！",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/006.李敖书笺集/029.苍蝇也没那么好拍的！.txt",
+        "line": 15,
+        "lines": [
+          11,
+          15
+        ],
+        "note": "李敖1985年10月10日致刘树铮信中回述，他和陈水扁曾促使警方取缔林肯大厦色情营业。"
+      }
     ]
   },
   {
@@ -3364,7 +3378,8 @@
     ],
     "crossReferences": [
       "qianqiu-wansui-1984-05-07-047-k3hizrixsqzvg84g7lnesj6nj5f",
-      "li-ao-shuxinji-1983-11-13-writes-meng-juezi-sends-books-photos-auction"
+      "li-ao-shuxinji-1983-11-13-writes-meng-juezi-sends-books-photos-auction",
+      "li-ao-shujianji-letterpaper-1984-06-14-morning-writes-jiang-pengjian-urging-sacrifice"
     ]
   },
   {
@@ -3744,7 +3759,8 @@
     ],
     "crossReferences": [
       "micang-diary-1978-10-21-mengneng-visits-about-foundation-letter-and-wenxing-memory",
-      "book2-broad-1984-04-25-xiao-land-case-appeal-dismissed"
+      "book2-broad-1984-04-25-xiao-land-case-appeal-dismissed",
+      "li-ao-shujianji-letterpaper-1984-10-04-writes-chen-shuibian-on-illegal-book-seizure"
     ]
   },
   {
@@ -3888,7 +3904,23 @@
       "居住线"
     ],
     "crossReferences": [
-      "liao-xinkan-1984-context-asks-jiang-pengjian-question-crystal-building"
+      "liao-xinkan-1984-context-asks-jiang-pengjian-question-crystal-building",
+      "li-ao-shujianji-letterpaper-1984-07-19-writes-jiang-pengjian-on-qianqiu-34-seizure",
+      "li-ao-shujianji-letterpaper-1985-10-19-noon-writes-jiang-pengjian-on-book-bans-and-foreign-protection"
+    ],
+    "additionalSources": [
+      {
+        "book": "李敖书笺集",
+        "chapter": "030.“恃他族之庇”有何不好？",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/006.李敖书笺集/030.“恃他族之庇”有何不好？.txt",
+        "line": 5,
+        "lines": [
+          5,
+          7,
+          23
+        ],
+        "note": "李敖1985年10月19日致江鹏坚信中寄上《吴棋芳怎样作弄江鹏坚？》，要求继续追杀行政院。"
+      }
     ]
   },
   {
