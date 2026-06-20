@@ -670,7 +670,23 @@
       "chapter": "020.别孵那贼蛋！",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/006.波波颂/020.别孵那贼蛋！.txt",
       "line": 29
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖书札集",
+        "chapter": "024.“一字师”还敢否？",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/005.李敖书札集/024.“一字师”还敢否？.txt",
+        "line": 5,
+        "lines": [
+          5,
+          7
+        ],
+        "note": "李敖9月5日晨给耿荣水信中说明，为配合邓维贤文章，早上花一个半小时写成《别孵那贼蛋！》。"
+      }
+    ],
+    "crossReferences": [
+      "li-ao-shuzhaji-1983-09-05-morning-sends-geng-rongshui-two-articles-for-qianjin-before-support-association"
+    ]
   },
   {
     "id": "bobo-song-1983-11-21-flow-li-ao-mainland",

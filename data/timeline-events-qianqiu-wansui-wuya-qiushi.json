@@ -1678,6 +1678,19 @@
         "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/183.殷鉴远了吗？.txt",
         "line": 175,
         "note": "李敖回述殷海光死前后防范教会利用，并在怀恩堂责备周联华。"
+      },
+      {
+        "book": "李敖书札集",
+        "chapter": "002.讨老婆的一个新害处",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/005.李敖书札集/002.讨老婆的一个新害处.txt",
+        "line": 29,
+        "lines": [
+          29,
+          31,
+          33,
+          35
+        ],
+        "note": "李敖在1982年给胡虚一信中回述殷海光死后到怀恩堂、责备周联华并坚持删去宗教字眼的经过。"
       }
     ]
   },
@@ -1722,6 +1735,19 @@
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/138.如此春蚕，如此吐丝.txt",
       "line": 55
     },
+    "additionalSources": [
+      {
+        "book": "李敖书札集",
+        "chapter": "002.讨老婆的一个新害处",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/005.李敖书札集/002.讨老婆的一个新害处.txt",
+        "line": 69,
+        "lines": [
+          69,
+          71
+        ],
+        "note": "王晓波1969年9月18日信中补明殷海光遗体解剖当晚，李敖、孟祥柯、王小明、王晓波到解剖室目睹惨状。"
+      }
+    ],
     "crossReferences": [
       "book5-1969-09-16-rushes-to-hospital-after-yin-death",
       "li-ao-zhaji-1987-04-26-receives-houston-six-person-call"
@@ -4338,7 +4364,7 @@
     "displayDate": "1982年12月1日星期三",
     "datePrecision": "day",
     "title": "《千秋评论》第16期《政治·女人·蛇》出版",
-    "summary": "《李敖著作年表》记载，李敖于1982年12月1日出版《千秋评论》第16期《政治·女人·蛇》。 年表在此期后标注“查禁”。",
+    "summary": "《李敖著作年表》记载，李敖于1982年12月1日出版《千秋评论》第16期《政治·女人·蛇》，并在此期后标注“查禁”。《李敖书札集》所收12月1日夜致陈平景未发信补明，当天上午四季出版公司与装订厂遭同步搜书，警察带走四百多本，查禁命令时间细到上午10时；叶圣康附信和《纵横》报道又补出此期尚未上市即被没收、部分书已流入市场的经过。",
     "view": [
       "出版线",
       "写作线",
@@ -4373,7 +4399,38 @@
       "chapter": "051.李敖著作年表",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/051.李敖著作年表.txt",
       "line": 99
-    }
+    },
+    "crossReferences": [
+      "li-ao-shuzhaji-1982-12-01-midnight-writes-unsent-chen-pingjing-letter-on-qianqiu-16-seizure"
+    ],
+    "additionalSources": [
+      {
+        "book": "李敖书札集",
+        "chapter": "031.“不要动”与“快半拍”",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/005.李敖书札集/031.“不要动”与“快半拍”.txt",
+        "line": 7,
+        "lines": [
+          7,
+          9,
+          11,
+          13,
+          15,
+          17,
+          25,
+          27,
+          49,
+          61,
+          63,
+          65,
+          73,
+          77,
+          81,
+          83,
+          85
+        ],
+        "note": "李敖12月1日夜致陈平景未发信、叶圣康12月3日附信和《纵横》报道补明第16期《政治·女人·蛇》当天被同步搜抢、带走四百多本及上市前查禁细节。"
+      }
+    ]
   },
   {
     "id": "qianqiu-wansui-1982-12-05-033-ff1jf7g6zpnun5dfgbfgpglz",
@@ -5065,21 +5122,50 @@
     "date": "1983-05-26",
     "displayDate": "1983年5月26日星期四",
     "title": "李敖上午得知《千秋评论》二十二期被抢，下午开工赶写二十三期",
-    "summary": "《因祸为福说》所收1983年5月30日日记记，26日上午传来《千秋评论》二十二期被抢后，李敖当天下午就开工赶写二十三期。",
+    "summary": "《因祸为福说》所收1983年5月30日日记记，26日上午传来《千秋评论》二十二期被抢后，李敖当天下午就开工赶写二十三期。《李敖书札集》11月23日致陈平景信又剪入《前进周刊》报道，说明警总5月24日下午4时在印刷厂查扣第二十二期。",
     "line": 21,
     "chapterNo": 178,
     "chapterTitle": "因祸为福说",
     "crossReferences": [
       "qianqiu-wansui-1983-05-30-178-finishes-qianqiu-review-23",
       "qianqiu-wansui-1982-11-23-178-finalizes-turn-calamity-into-blessing",
-      "micang-diary-1983-05-26-hears-book-seizure-report-and-tells-wuhan-story"
+      "micang-diary-1983-05-26-hears-book-seizure-report-and-tells-wuhan-story",
+      "li-ao-shuzhaji-1983-05-26-interrupts-qianjin-article-after-qianqiu-22-seized-and-writes-sheguijian",
+      "li-ao-shuzhaji-1983-11-23-writes-chen-pingjing-on-chen-guying-reconciliation-and-fast-half-step"
     ],
     "source": {
       "book": "千秋万岁乌鸦求是合集",
       "chapter": "178.因祸为福说",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/178.因祸为福说.txt",
       "line": 21
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖书札集",
+        "chapter": "018.射鬼箭",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/005.李敖书札集/018.射鬼箭.txt",
+        "line": 5,
+        "lines": [
+          3,
+          5
+        ],
+        "note": "李敖5月26日给《前进》社信中回述，写稿途中得知警总到装订厂抢走第22期。"
+      },
+      {
+        "book": "李敖书札集",
+        "chapter": "031.“不要动”与“快半拍”",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/005.李敖书札集/031.“不要动”与“快半拍”.txt",
+        "line": 95,
+        "lines": [
+          95,
+          97,
+          99,
+          101,
+          103
+        ],
+        "note": "李敖11月23日致陈平景信剪入《前进周刊》报道，补明警总5月24日下午4时在印刷厂查扣第22期。"
+      }
+    ]
   },
   {
     "id": "qianqiu-wansui-1983-05-27-064-writes-fork-new-theory",
@@ -5912,14 +5998,33 @@
       "qianqiu-wansui-1983-10-30-051-qianqiu-review-26",
       "qianqiu-wansui-1983-11-20-051-publishes-qianqiu-review-extra-2",
       "qianqiu-wansui-1983-11-30-051-publishes-qianqiu-review-extra-3",
-      "book8-1983-10-29-chiu-review-26-banned-before-publication"
+      "book8-1983-10-29-chiu-review-26-banned-before-publication",
+      "li-ao-shuzhaji-1983-11-01-writes-juren-on-qianqiu-26-seized-and-seizure-cost"
     ],
     "source": {
       "book": "千秋万岁乌鸦求是合集",
       "chapter": "015.《鸡骨·泡沫·抢》自序",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/015.《鸡骨·泡沫·抢》自序.txt",
       "line": 9
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖书札集",
+        "chapter": "028.会计学上的新成本",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/005.李敖书札集/028.会计学上的新成本.txt",
+        "line": 15,
+        "lines": [
+          5,
+          9,
+          13,
+          15,
+          17,
+          25,
+          29
+        ],
+        "note": "李敖11月1日给菊人信中读到《联合报》报道第26集被扣押九千余本，并说明自己因此分身乏术。"
+      }
+    ]
   },
   {
     "id": "qianqiu-wansui-1983-10-30-051-qianqiu-review-26",
@@ -5927,7 +6032,7 @@
     "displayDate": "1983年10月30日星期日",
     "datePrecision": "day",
     "title": "《千秋评论》第26期《钞票·肚皮·尿》出版",
-    "summary": "《李敖著作年表》记载，李敖于1983年10月30日出版《千秋评论》第26期《钞票·肚皮·尿》。 年表在此期后标注“查禁”。",
+    "summary": "《李敖著作年表》记载，李敖于1983年10月30日出版《千秋评论》第26期《钞票·肚皮·尿》，并在此期后标注“查禁”。《李敖书札集》11月23日致陈平景信补明，此期原应12月上市，10月29日装订时国民党大队人马未出示查禁命令即开抢，查禁命令后来才寄到桂冠图书公司，邮戳已是当天下午4点。",
     "view": [
       "出版线",
       "写作线",
@@ -5958,14 +6063,29 @@
     ],
     "certainty": "confirmed",
     "crossReferences": [
-      "book8-1983-10-29-chiu-review-26-banned-before-publication"
+      "book8-1983-10-29-chiu-review-26-banned-before-publication",
+      "li-ao-shuzhaji-1983-11-23-writes-chen-pingjing-on-chen-guying-reconciliation-and-fast-half-step",
+      "li-ao-shuzhaji-1983-11-01-writes-juren-on-qianqiu-26-seized-and-seizure-cost"
     ],
     "source": {
       "book": "千秋万岁乌鸦求是合集",
       "chapter": "051.李敖著作年表",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/051.李敖著作年表.txt",
       "line": 101
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖书札集",
+        "chapter": "031.“不要动”与“快半拍”",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/005.李敖书札集/031.“不要动”与“快半拍”.txt",
+        "line": 105,
+        "lines": [
+          105,
+          107
+        ],
+        "note": "李敖11月23日致陈平景信补明第26期10月29日装订时被抢，查禁命令后来才寄到桂冠图书公司。"
+      }
+    ]
   },
   {
     "id": "qianqiu-wansui-1983-11-10-051-publishes-battle-is-test-of-dangwai",
@@ -6031,7 +6151,7 @@
     "displayDate": "1983年11月20日星期日",
     "datePrecision": "day",
     "title": "李敖出版《李敖千秋评论号外》第二期《开枪·斗牛·蛋》",
-    "summary": "《李敖著作年表》记载，李敖于1983年11月20日出版《李敖千秋评论号外》第二期《开枪·斗牛·蛋》。",
+    "summary": "《李敖著作年表》记载，李敖于1983年11月20日出版《李敖千秋评论号外》第二期《开枪·斗牛·蛋》。《李敖书札集》11月29日《上县太爷书》补明，曾发粦在彰化县被鹿港分局草港派出所警察打死一案全文登在此号外第二期，李敖把全文检附给黄石城参考。",
     "view": [
       "写作线",
       "出版线"
@@ -6070,7 +6190,24 @@
         "path": "《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/004.李敖对话录/009.选举问题总解答.txt",
         "line": 117,
         "note": "1983年11月20日《选举问题总解答》中，李敖回述本月配合选举的出版安排：11月20日。"
+      },
+      {
+        "book": "李敖书札集",
+        "chapter": "032.上县太爷书",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/005.李敖书札集/032.上县太爷书.txt",
+        "line": 15,
+        "lines": [
+          7,
+          9,
+          11,
+          13,
+          15
+        ],
+        "note": "李敖11月29日给黄石城信说明曾发粦案全文登在《千秋评论号外》第二期《开枪·斗牛·蛋》。"
       }
+    ],
+    "crossReferences": [
+      "li-ao-shuzhaji-1983-11-29-dawn-writes-huang-shicheng-on-zeng-falin-and-kmt-cooperation"
     ]
   },
   {

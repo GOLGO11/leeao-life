@@ -20873,7 +20873,7 @@
     "date": "1970-09-04",
     "displayDate": "1970年9月4日午夜",
     "title": "李敖带 Shapiro 和 Leonard Pratt 到安康监狱接雷震出狱",
-    "summary": "10月6日凌晨给Y的信中，李敖回述自己已被软禁八个多月，跟监者无聊如“守灵”；但9月4日午夜，他带《纽约时报》兼 Time-Life 的 Donald H. Shapiro 和美联社 Leonard Pratt 到新店安康监狱，接雷震出狱，以突破官方的消息封锁。",
+    "summary": "10月6日凌晨给Y的信中，李敖回述自己已被软禁八个多月，跟监者无聊如“守灵”；但9月4日午夜，他带《纽约时报》兼 Time-Life 的 Donald H. Shapiro 和美联社 Leonard Pratt 到新店安康监狱，接雷震出狱，以突破官方的消息封锁。《李敖书札集》1984年致雷美琳信又回想，雷美琳当年在特务环伺中偷偷把同雷震的约会告诉他。",
     "tags": [
       "Y",
       "雷震",
@@ -20887,7 +20887,8 @@
     ],
     "crossReferences": [
       "1970-01-house-arrest-begins",
-      "book5-1970-09-03-meets-lei-chen-release-with-foreign-reporters"
+      "book5-1970-09-03-meets-lei-chen-release-with-foreign-reporters",
+      "li-ao-shuzhaji-1984-02-21-morning-writes-lei-meilin-urging-my-father-lei-chen"
     ],
     "source": {
       "book": "李敖情书集",
@@ -20897,7 +20898,21 @@
       "lines": [
         847
       ]
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖书札集",
+        "chapter": "035.给“雷震之女”的一封信",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/005.李敖书札集/035.给“雷震之女”的一封信.txt",
+        "line": 15,
+        "lines": [
+          15,
+          17,
+          22
+        ],
+        "note": "李敖1984年致雷美琳信回想1970年9月3日约外国记者接雷震出狱，并称雷美琳在特务环伺中偷偷告知约会。"
+      }
+    ]
   },
   {
     "datePrecision": "day",

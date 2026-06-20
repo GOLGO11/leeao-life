@@ -569,7 +569,9 @@
     "crossReferences": [
       "qianqiu-wansui-1983-11-10-051-publishes-battle-is-test-of-dangwai",
       "qianqiu-wansui-1983-11-20-051-publishes-qianqiu-review-extra-2",
-      "qianqiu-wansui-1983-11-30-051-publishes-qianqiu-review-extra-3"
+      "qianqiu-wansui-1983-11-30-051-publishes-qianqiu-review-extra-3",
+      "li-ao-shuzhaji-1983-09-21-writes-fang-sumin-urging-return-and-fighting-consciousness",
+      "li-ao-shuzhaji-1983-11-20-ill-writes-deng-weixian-sending-election-qa"
     ],
     "additionalSources": [
       {
@@ -582,6 +584,18 @@
           103
         ],
         "note": "1984年7月访问补述曾托许荣淑转信给方素敏。"
+      },
+      {
+        "book": "李敖书札集",
+        "chapter": "030.病中做工",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/005.李敖书札集/030.病中做工.txt",
+        "line": 5,
+        "lines": [
+          5,
+          9,
+          11
+        ],
+        "note": "李敖11月20日致邓维贤信说明《选举问题总解答》已提前写完，专为《民主人》而作。"
       }
     ]
   },
@@ -986,7 +1000,7 @@
     "displayDate": "1984年3月前",
     "datePrecision": "before-month",
     "title": "李敖写《上县太爷书》提醒黄石城过度与国民党合作",
-    "summary": "李敖在1984年3月访谈中追述，自己曾在《上县太爷书》中告诉黄石城，他这个党外人士未免太跟国民党合作，例如国民党开县党部大会时还请他列席致词。此条补记李敖在党外路线争论中的一项具体写作干预。",
+    "summary": "李敖在1984年3月访谈中追述，自己曾在《上县太爷书》中告诉黄石城，他这个党外人士未免太跟国民党合作，例如国民党开县党部大会时还请他列席致词。《李敖书札集》补明此信写于1983年11月29日晨2时，信中同时请黄石城援助曾发粦被警察打死案遗属，并借阿登纳故事劝黄石城不要做“苏南成第二”。",
     "category": "writing",
     "type": "李敖当事人事件",
     "source": {
@@ -1018,7 +1032,28 @@
       "上县太爷书",
       "李敖对话录"
     ],
-    "crossReferences": []
+    "crossReferences": [
+      "li-ao-shuzhaji-1983-11-29-dawn-writes-huang-shicheng-on-zeng-falin-and-kmt-cooperation"
+    ],
+    "additionalSources": [
+      {
+        "book": "李敖书札集",
+        "chapter": "032.上县太爷书",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/005.李敖书札集/032.上县太爷书.txt",
+        "line": 17,
+        "lines": [
+          7,
+          15,
+          17,
+          19,
+          21,
+          23,
+          25,
+          29
+        ],
+        "note": "《李敖书札集》补出《上县太爷书》全文、署日和曾发粦案请托，并说明李敖6月30日看报后即想写信提醒黄石城。"
+      }
+    ]
   },
   {
     "id": "li-ao-duihualu-1984-03-says-he-is-writing-literary-work-before-next-year",
