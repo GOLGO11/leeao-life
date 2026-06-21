@@ -1,9 +1,9 @@
 ﻿李敖交互式年表：当前增量纯文本备份
-生成日期：2026-06-20
-事件总数：11065
-数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json；data/timeline-events-ni-bendan.json；data/timeline-events-dream-awake.json；data/timeline-events-li-ao-xinkan.json；data/timeline-events-qianqiu-wansui-wuya-qiushi.json；data/timeline-events-li-ao-zawenji.json；data/timeline-events-qianqiu-wansui-bianwai.json；data/timeline-events-beijing-fayuansi.json；data/timeline-events-shangshan-ai.json；data/timeline-events-red-11.json；data/timeline-events-virtual-seventeen.json；data/timeline-events-yangwei-america.json；data/timeline-events-73rd-martyr.json；data/timeline-events-love-secret.json；data/timeline-events-li-ao-love-poems.json；data/timeline-events-li-yulu.json；data/timeline-events-li-ao-yulu.json；data/timeline-events-sui-qianwan-li-ao-wangyi.json；data/timeline-events-tiaozhan-li-ao-ao-yulu.json；data/timeline-events-daxue-zhaji.json；data/timeline-events-zaonian-riji.json；data/timeline-events-daxue-houqi-riji-jia.json；data/timeline-events-daxue-houqi-riji-yi.json；data/timeline-events-preofficer-diary.json；data/timeline-events-li-ao-micang-diary.json；data/timeline-events-li-ao-zhaji.json；data/timeline-events-li-ao-wuwu-diary.json；data/timeline-events-li-ao-suixielu-qianji.json；data/timeline-events-li-ao-suixielu-houji.json；data/timeline-events-li-ao-baokanji.json；data/timeline-events-li-ao-shuxuji.json；data/timeline-events-li-ao-shuxuji-xuji.json；data/timeline-events-li-ao-duihualu.json；data/timeline-events-li-ao-fangtanlu-1990-2018.json；data/timeline-events-li-ao-qingshuji.json；data/timeline-events-li-ao-shuxinji.json；data/timeline-events-li-ao-shuhanji.json；data/timeline-events-li-ao-shujianji.json；data/timeline-events-li-ao-shuzhaji.json；data/timeline-events-li-ao-shujianji-letterpaper.json
+生成日期：2026-06-21
+事件总数：11111
+数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json；data/timeline-events-ni-bendan.json；data/timeline-events-dream-awake.json；data/timeline-events-li-ao-xinkan.json；data/timeline-events-qianqiu-wansui-wuya-qiushi.json；data/timeline-events-li-ao-zawenji.json；data/timeline-events-qianqiu-wansui-bianwai.json；data/timeline-events-beijing-fayuansi.json；data/timeline-events-shangshan-ai.json；data/timeline-events-red-11.json；data/timeline-events-virtual-seventeen.json；data/timeline-events-yangwei-america.json；data/timeline-events-73rd-martyr.json；data/timeline-events-love-secret.json；data/timeline-events-li-ao-love-poems.json；data/timeline-events-li-yulu.json；data/timeline-events-li-ao-yulu.json；data/timeline-events-sui-qianwan-li-ao-wangyi.json；data/timeline-events-tiaozhan-li-ao-ao-yulu.json；data/timeline-events-daxue-zhaji.json；data/timeline-events-zaonian-riji.json；data/timeline-events-daxue-houqi-riji-jia.json；data/timeline-events-daxue-houqi-riji-yi.json；data/timeline-events-preofficer-diary.json；data/timeline-events-li-ao-micang-diary.json；data/timeline-events-li-ao-zhaji.json；data/timeline-events-li-ao-wuwu-diary.json；data/timeline-events-li-ao-suixielu-qianji.json；data/timeline-events-li-ao-suixielu-houji.json；data/timeline-events-li-ao-baokanji.json；data/timeline-events-li-ao-shuxuji.json；data/timeline-events-li-ao-shuxuji-xuji.json；data/timeline-events-li-ao-duihualu.json；data/timeline-events-li-ao-fangtanlu-1990-2018.json；data/timeline-events-li-ao-qingshuji.json；data/timeline-events-li-ao-shuxinji.json；data/timeline-events-li-ao-shuhanji.json；data/timeline-events-li-ao-shujianji.json；data/timeline-events-li-ao-shuzhaji.json；data/timeline-events-li-ao-shujianji-letterpaper.json；data/timeline-events-li-ao-shuduji.json
 说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。
-日期精度统计：day=10536；year=102；year-range=13；undated-range=1；undated-context=146；season=29；lunar-day=1；year-after=7；month=77；half-year=2；school-year-context=5；day-range=19；range=23；year-about=10；range-context=15；month-after=3；year-context=17；day-after=5；before-date-context=15；day-about=1；day-context=13；after-date-context=8；month-context=5；before-day=2；before-month=4；month-range=2；year-end=1；date-range=3
+日期精度统计：day=10582；year=102；year-range=13；undated-range=1；undated-context=146；season=29；lunar-day=1；year-after=7；month=77；half-year=2；school-year-context=5；day-range=19；range=23；year-about=10；range-context=15；month-after=3；year-context=17；day-after=5；before-date-context=15；day-about=1；day-context=13；after-date-context=8；month-context=5；before-day=2；before-month=4；month-range=2；year-end=1；date-range=3
 
 
 1935
@@ -79109,9 +79109,9 @@
   标签：梁实秋、中研院、史语所、王世杰、李济
   视图：交游线、教育线、生平线
   作品：王世杰日记、李敖快意恩仇录
-  交叉引用：-
+  交叉引用：li-ao-shuduji-1987-05-13-night-writes-liang-shiqiu-on-memory-and-wenxing-copyright
   来源：李敖快意恩仇录 / 010.根株纪 / line 47
-  补充来源：-
+  补充来源：李敖书牍集 / 031.关于“记忆”的讨论 / line 7；说明：李敖在1987年5月13日致梁实秋信中回述梁曾写信给李济，建议中研院史语所收纳李敖。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/010.根株纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1963-05-liang-recommends-li-to-academia-sinica
 - 1963年夏季 | 钱思亮约谈时向李敖透露胡适留有一封未写完给他的信
@@ -82415,9 +82415,9 @@
   标签：文星、纽约时报、梁实秋、停刊
   视图：文星线、媒体线、交游线
   作品：文星、李敖快意恩仇录
-  交叉引用：-
+  交叉引用：li-ao-shuduji-1987-05-13-night-writes-liang-shiqiu-on-memory-and-wenxing-copyright
   来源：李敖快意恩仇录 / 010.根株纪 / line 29
-  补充来源：-
+  补充来源：李敖书牍集 / 031.关于“记忆”的讨论 / line 9；说明：李敖在1987年5月13日信中补述《纽约时报》英文稿请梁实秋协助而被婉拒的经过。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/010.根株纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1965-12-28-nyt-asks-li-to-write-wenxing-news-draft
 - 1965年12月29日（12月30日夜深信中回述） | 李敖收到美国G的圣诞夜来信，并追问此前数封信是否收到
@@ -86681,9 +86681,9 @@
   标签：关于韩福瑞和他的思想、萧孟能、韩福瑞、文星书店、洁本云乎哉、1966
   视图：写作线、出版线、文星线
   作品：关于韩福瑞和他的思想、韩福瑞和他的思想、“洁本”云乎哉？、李敖杂文集
-  交叉引用：book2-broad-1986-09-10-clean-version-written、book5-1965-12-27-wenxing-one-year-suspension、li-ao-zawenji-1966-01-01-wenxing-ad-humphrey-book
+  交叉引用：book2-broad-1986-09-10-clean-version-written、book5-1965-12-27-wenxing-one-year-suspension、li-ao-zawenji-1966-01-01-wenxing-ad-humphrey-book、li-ao-shuduji-1986-09-16-writes-wang-rongwen-returning-proofs-and-criticizing-revived-wenxing
   来源：李敖杂文集 / 011.关于韩福瑞和他的思想 / line 3
-  补充来源：李敖杂文集 / 011.关于韩福瑞和他的思想 / line 11；李敖杂文集 / 011.关于韩福瑞和他的思想 / line 13；李敖杂文集 / 011.关于韩福瑞和他的思想 / line 7
+  补充来源：李敖杂文集 / 011.关于韩福瑞和他的思想 / line 11；李敖杂文集 / 011.关于韩福瑞和他的思想 / line 13；李敖杂文集 / 011.关于韩福瑞和他的思想 / line 7；李敖书牍集 / 002.银纸包个臭皮蛋 / line 9；说明：1986年9月16日致王荣文信中再次点明复刊《文星》两篇韩福瑞文章真实作者为当年李敖。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/011.关于韩福瑞和他的思想.txt
   数据：data/timeline-events-li-ao-zawenji.json#li-ao-zawenji-1966-before-feb-xiao-mengneng-humphrey-preface-written-by-li
 - 1966年2月28日星期一前 | 李敖连改带写陈香梅《我所知道的韩福瑞》
@@ -86694,9 +86694,9 @@
   标签：我所知道的韩福瑞、陈香梅、韩福瑞、洁本云乎哉、文星、1966
   视图：写作线、文星线
   作品：我所知道的韩福瑞、韩福瑞和他的思想、“洁本”云乎哉？、李敖杂文集
-  交叉引用：book2-broad-1986-09-10-clean-version-written、li-ao-zawenji-1966-01-01-wenxing-ad-humphrey-book
+  交叉引用：book2-broad-1986-09-10-clean-version-written、li-ao-zawenji-1966-01-01-wenxing-ad-humphrey-book、li-ao-shuduji-1986-09-16-writes-wang-rongwen-returning-proofs-and-criticizing-revived-wenxing
   来源：李敖杂文集 / 010.我所知道的韩福瑞 / line 3
-  补充来源：-
+  补充来源：李敖书牍集 / 002.银纸包个臭皮蛋 / line 9；说明：1986年9月16日致王荣文信中再次点明复刊《文星》两篇韩福瑞文章真实作者为当年李敖。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/010.我所知道的韩福瑞.txt
   数据：data/timeline-events-li-ao-zawenji.json#li-ao-zawenji-1966-before-feb-chen-xiangmei-humphrey-article-rewritten-by-li
 - 1966年3月20日至22日 | 李敖赴台中办三件事：看母亲病、校父亲《中国文学史》遗稿并写序、同徐复观打官司
@@ -86850,9 +86850,9 @@
   标签：梁实秋、警备总部、找保、王兆民、文星
   视图：司法线、交游线、文星线
   作品：李敖快意恩仇录
-  交叉引用：-
+  交叉引用：li-ao-shuduji-1987-05-13-night-writes-liang-shiqiu-on-memory-and-wenxing-copyright
   来源：李敖快意恩仇录 / 010.根株纪 / line 31
-  补充来源：-
+  补充来源：李敖书牍集 / 031.关于“记忆”的讨论 / line 7；说明：李敖在1987年5月13日信中回想二十年前警备总部释放后找保、到梁实秋家又避免累及梁的情境。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/010.根株纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1966-after-wenxing-liang-refuses-to-guarantee-li
 
@@ -96736,7 +96736,7 @@
   作品：千秋评论、李敖回忆录
   交叉引用：-
   来源：李敖回忆录 / 018.笔伐（1982-1992·47到57岁） / line 3
-  补充来源：千秋万岁乌鸦求是合集 / 011.在废墟中营建 / line 143；千秋万岁乌鸦求是合集 / 011.在废墟中营建 / line 145；李敖对话录 / 014.台湾最有力量的个人 / line 39；说明：1984年5月访问追述第二次政治牢前申请《千秋评论》杂志与封杀经过。
+  补充来源：千秋万岁乌鸦求是合集 / 011.在废墟中营建 / line 143；千秋万岁乌鸦求是合集 / 011.在废墟中营建 / line 145；李敖对话录 / 014.台湾最有力量的个人 / line 39；说明：1984年5月访问追述第二次政治牢前申请《千秋评论》杂志与封杀经过。；李敖书牍集 / 025.前任作恶，后任当灾 / line 13；说明：1987年3月4日致许水德信中追述1981年4月18日申请到《千秋评论杂志》执照。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/018.笔伐（1982-1992·47到57岁）.txt
   数据：data/timeline-events-fourth-book.json#book4-1981-04-18-news-bureau-approves-qianqiu-magazine-license
 - 1981年4月23日星期四 | 李敖实际收到《千秋评论杂志》执照
@@ -96747,9 +96747,9 @@
   标签：千秋评论、杂志执照、新闻局
   视图：出版线、生平线
   作品：千秋评论、李敖回忆录
-  交叉引用：book4-1981-04-18-news-bureau-approves-qianqiu-magazine-license
+  交叉引用：book4-1981-04-18-news-bureau-approves-qianqiu-magazine-license、li-ao-shuduji-1987-03-04-writes-xu-shuide-qianqiu-wenxing-double-standard
   来源：李敖回忆录 / 018.笔伐（1982-1992·47到57岁） / line 5
-  补充来源：-
+  补充来源：李敖书牍集 / 025.前任作恶，后任当灾 / line 13；说明：1987年3月4日致许水德信中追述1981年4月23日执照发下。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/018.笔伐（1982-1992·47到57岁）.txt
   数据：data/timeline-events-fourth-book.json#book4-1981-04-23-li-receives-qianqiu-license
 - 1981年5月17日星期日 | 李敖深夜写《永远失职，永不失业！》
@@ -96780,15 +96780,15 @@
   数据：data/timeline-events-li-ao-shuhanji.json#li-ao-shuhanji-1981-06-13-writes-li-mingjin-candlelight-happy-problem-child
 - 1981年6月17日星期三 | 高院改判有罪使李敖杂志执照陷入危机
   精度：day；可靠度：confirmed；排序日期：1981-06-17
-  摘要：李敖记述，执照发下仅五十五天后的1981年6月17日，高院把原先地院无罪的萧孟能案突然改判有罪，直接为后来注销《千秋评论》发行人登记铺路。
+  摘要：李敖记述，执照发下仅五十五天后的1981年6月17日，高院把原先地院无罪的萧孟能案突然改判有罪，直接为后来注销《千秋评论》发行人登记铺路。1987年3月4日致许水德信中，他又追述收到台北市政府来函后既大惑不解又恍然大悟，认为高院给市府通风报信，是联合作业封杀李敖。
   人物：李敖、林晃、黄剑青、顾锦才、萧孟能
   地点：台湾
   标签：千秋评论、高院、萧孟能案、冤狱
   视图：司法线、出版线、生平线
   作品：千秋评论、李敖回忆录
-  交叉引用：book2-1980-08-26-xiao-accuses-li-embezzlement
+  交叉引用：book2-1980-08-26-xiao-accuses-li-embezzlement、li-ao-shuduji-1987-03-04-writes-xu-shuide-qianqiu-wenxing-double-standard
   来源：李敖回忆录 / 018.笔伐（1982-1992·47到57岁） / line 5
-  补充来源：千秋万岁乌鸦求是合集 / 011.在废墟中营建 / line 145
+  补充来源：千秋万岁乌鸦求是合集 / 011.在废墟中营建 / line 145；李敖书牍集 / 025.前任作恶，后任当灾 / line 35；说明：1987年3月4日致许水德信中追述高院判决、台北市政府来函和李敖对联合封杀的判断。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/018.笔伐（1982-1992·47到57岁）.txt
   数据：data/timeline-events-fourth-book.json#book4-1981-06-17-high-court-guilty-verdict-undercuts-license
 - 1981年6月22日星期一 | 杨宗才带五岁儿子进入看守所
@@ -97612,15 +97612,15 @@
   数据：data/timeline-events-fourth-book.json#book4-1981-11-22-prison-whitens-visit-with-new-music
 - 1981年11月23日星期一 | 李敖在土城看守所拒见施启扬
   精度：day；可靠度：confirmed；排序日期：1981-11-23
-  摘要：李敖记，1981年11月23日早上他在土城看守所篮球场运动时，狱吏通知法务部次长施启扬想见他，李敖回答“不想见他”，传为看守所奇事。《李敖书简集》007保存同日狱中秘密信语境：他还收到汝清19号平信，在信中设想与女秘书环游世界、审视木乃伊或秦始皇，又由一万六千年还原论想象白头偕老后青梅竹马。
+  摘要：李敖记，1981年11月23日早上他在土城看守所篮球场运动时，狱吏通知法务部次长施启扬想见他，李敖回答“不想见他”，传为看守所奇事。《李敖书简集》007保存同日狱中秘密信语境：他还收到汝清19号平信，在信中设想与女秘书环游世界、审视木乃伊或秦始皇，又由一万六千年还原论想象白头偕老后青梅竹马。1987年2月27日致施启扬信中，李敖又把拒见的一部分理由追述为顾虑施启扬官职身份，不便往来。
   人物：李敖、施启扬
   地点：土城看守所
   标签：施启扬、土城看守所、拒见、狱中生活
   视图：生平线、司法线、交游线
   作品：我最难忘的一个官僚同学、李敖书简集、环游·还原·抢
-  交叉引用：book3-1981-08-10-li-second-political-imprisonment
+  交叉引用：book3-1981-08-10-li-second-political-imprisonment、li-ao-shuduji-1987-02-27-night-writes-shi-qiyang-good-friends-fade-away
   来源：我最难忘的事和人 / 007.我最难忘的一个官僚同学 / line 217
-  补充来源：李敖书简集 / 007.环游·还原·抢 / line 5；说明：《书简集》007前半段括号署1981年11月23日，补出拒见施启扬的狱中秘密信语境。
+  补充来源：李敖书简集 / 007.环游·还原·抢 / line 5；说明：《书简集》007前半段括号署1981年11月23日，补出拒见施启扬的狱中秘密信语境。；李敖书牍集 / 023.“良友渐随千劫尽” / line 19；说明：1987年2月27日致施启扬信中，李敖把当年拒见施启扬的一部分理由追述为不便牵连官场老同学。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/007.我最难忘的一个官僚同学.txt
   数据：data/timeline-events-third-book.json#book3-1981-11-23-li-refuses-shi-visit-tucheng
 - 1981年11月23日晨 | 李敖狱中密信汝清，告知写完《我的殷海光》并谈印书警觉
@@ -98660,9 +98660,9 @@
   标签：为自由招魂、萧孟能、文星、冤狱赔偿、1982
   视图：司法线、出版线、思想线
   作品：为自由招魂、月亮属于谁的？、文星杂志选集
-  交叉引用：book4-1981-06-17-high-court-guilty-verdict-undercuts-license、book2-broad-1983-05-23-xiao-press-defamation-judgment、book2-broad-1982-07-20-xiao-sues-wenxing-selection、book2-broad-1982-11-30-lin-maoxiong-dismisses-xiao、book2-broad-1983-01-29-high-court-dismisses-xiao-appeal、freedom-summoning-1982-before-june-edits-wenxing-anthology
+  交叉引用：book4-1981-06-17-high-court-guilty-verdict-undercuts-license、book2-broad-1983-05-23-xiao-press-defamation-judgment、book2-broad-1982-07-20-xiao-sues-wenxing-selection、book2-broad-1982-11-30-lin-maoxiong-dismisses-xiao、book2-broad-1983-01-29-high-court-dismisses-xiao-appeal、freedom-summoning-1982-before-june-edits-wenxing-anthology、li-ao-shuduji-1987-03-04-writes-xu-shuide-qianqiu-wenxing-double-standard、li-ao-shuduji-1987-04-06-writes-yu-guohua-on-xiao-mengneng-execution-delay
   来源：为自由招魂 / 013.月亮属于谁的？ / line 23
-  补充来源：-
+  补充来源：李敖书牍集 / 025.前任作恶，后任当灾 / line 37；说明：1987年3月4日致许水德信中追述最高法院以六件判决书推翻高院枉法裁判。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/013.月亮属于谁的？.txt
   数据：data/timeline-events-freedom-summoning.json#freedom-summoning-1982-05-14-wins-xiao-mengneng-case
 - 1982年5月20日星期四 | 李敖出版《三情之书》三种
@@ -103780,15 +103780,15 @@
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1984-10-05-042-g3xg49fhtffai85i46lii
 - 1984年10月6日星期六 | 李敖致施启扬公开信追问狱政黑暗
   精度：day；可靠度：confirmed；排序日期：1984-10-06
-  摘要：1984年10月6日，李敖写《你怎能把所学和所用变成两截？》给施启扬，说明《关怀》第35期已刊出自己为“监牢暴行与监狱人权”座谈会所写《你有郑文良，我有赖文良》，并摘引刘峰松关于土城看守所、龟山监狱、少年观护所暴行的谈话，要求施启扬不要把精湛法学只当谋干禄的工具，而要承认、面对或辞去同流合污的官职。
+  摘要：1984年10月6日，李敖写《你怎能把所学和所用变成两截？》给施启扬，说明《关怀》第35期已刊出自己为“监牢暴行与监狱人权”座谈会所写《你有郑文良，我有赖文良》，并摘引刘峰松关于土城看守所、龟山监狱、少年观护所暴行的谈话，要求施启扬不要把精湛法学只当谋干禄的工具，而要承认、面对或辞去同流合污的官职。1987年2月27日致施启扬信中，李敖又回述自己写此信时就判断施做了国民党的官，必不敢回信表态。
   人物：李敖、施启扬、刘峰松
   地点：台湾
   标签：施启扬、监狱人权、公开信、狱政、李敖书信集、关怀、刘峰松、土城看守所、龟山监狱
   视图：司法线、出版线、思想线
   作品：我最难忘的一个官僚同学、李敖书信集、你怎能把所学和所用变成两截？、关怀
-  交叉引用：book3-1984-10-05-li-article-against-shi-published
+  交叉引用：book3-1984-10-05-li-article-against-shi-published、li-ao-shuduji-1987-02-27-night-writes-shi-qiyang-good-friends-fade-away
   来源：我最难忘的事和人 / 007.我最难忘的一个官僚同学 / line 231
-  补充来源：李敖书信集 / 047.你怎能把所学和所用变成两截？ / line 5；说明：《李敖书信集》047重收1984年10月6日李敖给施启扬的信，含《关怀》第35期、刘峰松座谈和李敖要求施启扬面对狱政黑暗的文字。
+  补充来源：李敖书信集 / 047.你怎能把所学和所用变成两截？ / line 5；说明：《李敖书信集》047重收1984年10月6日李敖给施启扬的信，含《关怀》第35期、刘峰松座谈和李敖要求施启扬面对狱政黑暗的文字。；李敖书牍集 / 023.“良友渐随千劫尽” / line 11；说明：1987年2月27日致施启扬信中，李敖回引1984年10月6日公开信并追述当年写信时的判断。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/007.我最难忘的一个官僚同学.txt
   数据：data/timeline-events-third-book.json#book3-1984-10-06-letter-to-shi-prison-human-rights
 - 1984年10月7日星期日 | 李敖在国父纪念馆附近见老兵沿街卖国旗，写下流亡政权残梦
@@ -104423,7 +104423,7 @@
   标签：访问、李宁、党外、写作、朋友分合、柏杨
   视图：-
   作品：李敖对话录、资治通鉴、中国名著精华全集
-  交叉引用：qianqiu-wansui-1983-11-10-051-publishes-battle-is-test-of-dangwai
+  交叉引用：qianqiu-wansui-1983-11-10-051-publishes-battle-is-test-of-dangwai、li-ao-shuduji-1987-04-10-night-writes-deng-weizhen-on-enemies-and-friends
   来源：李敖对话录 / 013.“却笑英雄‘有’好手，一江春水走曹瞒” / line 201
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/004.李敖对话录/013.“却笑英雄‘有’好手，一江春水走曹瞒”.txt
@@ -105361,9 +105361,9 @@
   标签：札记、张京育、新闻局、扫黄、三点不露、露奶头、中央日报、中国时报、新生报、大华晚报、联合报
   视图：札记线、媒体线、政治线
   作品：李敖札记、中央日报、中国时报、新生报、大华晚报、联合报、李敖书笺集、谁露了奶头？、小偷与上帝
-  交叉引用：li-ao-zhaji-1985-12-24-comments-minzu-evening-news-nude-photo
+  交叉引用：li-ao-zhaji-1985-12-24-comments-minzu-evening-news-nude-photo、li-ao-shuduji-1986-11-07-morning-writes-zhang-jingyu-left-right-breast-and-lu-xun-ban
   来源：李敖札记 / 053.又是露奶头问题 / line 3
-  补充来源：李敖书笺集 / 017.谁露了奶头？ / line 5；说明：《书笺集》017保存致张京育原信，署1985年1月19日晨，补出1985年1月9日《中央日报》《小偷与上帝》裸照材料。
+  补充来源：李敖书笺集 / 017.谁露了奶头？ / line 5；说明：《书笺集》017保存致张京育原信，署1985年1月19日晨，补出1985年1月9日《中央日报》《小偷与上帝》裸照材料。；李敖书牍集 / 007.左奶、右奶，查禁哪只奶？ / line 9；说明：1986年11月7日再致张京育信中大段追述1985年1月19日“三点不露”原信。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/007.李敖札记/053.又是露奶头问题.txt
   数据：data/timeline-events-li-ao-zhaji.json#li-ao-zhaji-1985-01-19-writes-zhang-jingyu-three-points-letter
 - 1985年1月20日 | 兆基来帮李敖校稿
@@ -110600,9 +110600,9 @@
   标签：台北市政府、龙云翔、国家赔偿、误扣
   视图：司法线、出版线、书信线
   作品：五十·五十·易、李敖快意恩仇录
-  交叉引用：-
+  交叉引用：li-ao-shuduji-1986-10-29-writes-xu-shuide-demanding-punishment-and-compensation
   来源：李敖快意恩仇录 / 018.闹衙纪 / line 7
-  补充来源：-
+  补充来源：李敖书牍集 / 005.贵市长言而无信，令人羞羞 / line 19；说明：1986年10月29日李敖致许水德函回述1985年6月24日国家赔偿请求、台北市同意赔款6901元并承诺处分警员。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/018.闹衙纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1985-06-24-claims-damages-from-taipei-city
 - 1985年6月27日星期四 | 高雄警员误扣李敖《我给我画帽子》
@@ -110821,9 +110821,9 @@
   标签：台北市政府、国家赔偿、国库支票、误扣
   视图：司法线、出版线、恩怨线
   作品：五十·五十·易、李敖快意恩仇录
-  交叉引用：-
+  交叉引用：li-ao-shuduji-1986-10-29-writes-xu-shuide-demanding-punishment-and-compensation
   来源：李敖快意恩仇录 / 018.闹衙纪 / line 7
-  补充来源：-
+  补充来源：李敖书牍集 / 005.贵市长言而无信，令人羞羞 / line 19；说明：1986年10月29日李敖致许水德函回述1985年6月24日国家赔偿请求、台北市同意赔款6901元并承诺处分警员。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/018.闹衙纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1985-08-29-taipei-city-compensation-check
 - 1985年8月30日星期五 | 李敖出版《能下床就是好猫》
@@ -111759,9 +111759,9 @@
   标签：札记、戒严、五一九绿色行动、郑南榕、台湾戒严日、孙运璿、许荣淑、蒋经国
   视图：札记线、政治线、戒严线
   作品：李敖札记
-  交叉引用：-
+  交叉引用：li-ao-shuduji-1987-07-16-appeals-after-martial-law-lift
   来源：李敖札记 / 067.戒严四十年？ / line 3
-  补充来源：-
+  补充来源：李敖书牍集 / 034.给李政一的一封信 / line 7；说明：7月17日信回述解严后上诉与“解严秀”，补足戒严议题的后续节点。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/007.李敖札记/067.戒严四十年？.txt
   数据：data/timeline-events-li-ao-zhaji.json#li-ao-zhaji-1986-04-08-comments-519-green-action-and-martial-law
 - 1986年4月8日 | 李敖评迁怒电器
@@ -112396,9 +112396,9 @@
   标签：文星复刊、萧孟能、洁本
   视图：出版线、论战线
   作品：“洁本”云乎哉？
-  交叉引用：li-ao-shujianji-letterpaper-1986-09-05-noon-letter-recounts-wang-jianfen-xiao-mengneng-executions
+  交叉引用：li-ao-shujianji-letterpaper-1986-09-05-noon-letter-recounts-wang-jianfen-xiao-mengneng-executions、li-ao-shuduji-1986-09-16-writes-wang-rongwen-returning-proofs-and-criticizing-revived-wenxing
   来源：李敖自传与回忆续集 / 032.“洁本”云乎哉？ / line 3
-  补充来源：李敖书笺集 / 041.彼以熊来，吾以熊往 / line 27；说明：1986年9月5日致王尚勤信中回述萧孟能最近复刊《文星》，李敖随后又演出查封戏。
+  补充来源：李敖书笺集 / 041.彼以熊来，吾以熊往 / line 27；说明：1986年9月5日致王尚勤信中回述萧孟能最近复刊《文星》，李敖随后又演出查封戏。；李敖书牍集 / 002.银纸包个臭皮蛋 / line 15；说明：1986年9月16日致王荣文信中再次评论复刊《文星》广告打回、韩福瑞文章出自李敖，以及社内“保安人员”字样。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/032.“洁本”云乎哉？.txt
   数据：data/timeline-events-second-book-broad.json#book2-broad-1986-09-03-sees-wenxing-revival-clean-version
 - 1986年9月5日，早起兴来 | 李敖致亨利，回应战斗性隐居并交代神秘送信人
@@ -112557,6 +112557,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/007.李敖札记/080.五十年前的批语.txt
   数据：data/timeline-events-li-ao-zhaji.json#li-ao-zhaji-1986-09-09-excerpts-yijing-bureaucratic-comment
+- 1986年9月9日夜1时40分 | 李敖夜致吴大猷，责备其带杨振宁受蒋经国召见
+  精度：day；可靠度：reported-by-author；排序日期：1986-09-09
+  摘要：1986年9月9日夜1时40分，李敖致信吴大猷。信中他先引8月16日《时报新闻周刊》关于杨振宁回台、吴大猷致电俞国华转达召见建议、7月31日杨振宁与吴大猷中途离开中研院院会晋见蒋经国的报道；随后责备吴大猷身为中研院院长却带杨振宁受统治者“召见”并大感欣慰，认为这失去知识分子的尊严与规格。信末他随信附上《吴大猷假公济私的一面》影本，请吴反省。
+  人物：李敖、吴大猷、杨振宁、蒋经国、俞国华、颜斶、蔡元培、Walter Lippmann
+  地点：台湾、中研院、总统府
+  标签：吴大猷、杨振宁、蒋经国、中研院、召见、知识分子尊严
+  视图：书信线、知识分子线、政治线
+  作品：李敖书牍集、责备吴大猷先生、吴大猷假公济私的一面、时报新闻周刊
+  交叉引用：-
+  来源：李敖书牍集 / 001.责备吴大猷先生 / line 25
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/001.责备吴大猷先生.txt
+  数据：data/timeline-events-li-ao-shuduji.json#li-ao-shuduji-1986-09-09-night-writes-wu-dayou-rebuking-yang-zhenning-summons
 - 1986年9月9日星期二 | 李敖在《李敖札记》中称自己是工作狂
   精度：day；可靠度：excerpted-diary；排序日期：1986-09-09
   摘要：《李敖语录》摘录《李敖札记》1986年9月9日条。李敖写工作与消遣在他那里根本是一件事，自己的工作从来就是快乐；有人说星期天要消遣，但日历在他眼中全是黑字，并称自己是工作狂。
@@ -112578,9 +112591,9 @@
   标签：文星复刊、萧孟能、写作
   视图：出版线、论战线
   作品：“洁本”云乎哉？
-  交叉引用：li-ao-zawenji-1966-before-feb-chen-xiangmei-humphrey-article-rewritten-by-li、li-ao-zawenji-1966-before-feb-xiao-mengneng-humphrey-preface-written-by-li
+  交叉引用：li-ao-zawenji-1966-before-feb-chen-xiangmei-humphrey-article-rewritten-by-li、li-ao-zawenji-1966-before-feb-xiao-mengneng-humphrey-preface-written-by-li、li-ao-shuduji-1986-09-16-writes-wang-rongwen-returning-proofs-and-criticizing-revived-wenxing
   来源：李敖自传与回忆续集 / 032.“洁本”云乎哉？ / line 15
-  补充来源：李敖杂文集 / 010.我所知道的韩福瑞 / line 3；李敖杂文集 / 011.关于韩福瑞和他的思想 / line 3
+  补充来源：李敖杂文集 / 010.我所知道的韩福瑞 / line 3；李敖杂文集 / 011.关于韩福瑞和他的思想 / line 3；李敖书牍集 / 002.银纸包个臭皮蛋 / line 9；说明：《书牍集》002补充李敖在致王荣文信中称复刊《文星》试图消灭李敖却仍刊出两篇李敖旧作痕迹。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/032.“洁本”云乎哉？.txt
   数据：data/timeline-events-second-book-broad.json#book2-broad-1986-09-10-clean-version-written
 - 1986年9月13日夜9点 | 李敖完稿千秋合刊
@@ -112752,6 +112765,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/007.李敖札记/082.台湾人与外省人.txt
   数据：data/timeline-events-li-ao-zhaji.json#li-ao-zhaji-1986-09-16-writes-taiwanese-and-mainlanders-note
+- 1986年9月16日 | 李敖致王荣文，附还全集校稿并批复刊《文星》
+  精度：day；可靠度：reported-by-author；排序日期：1986-09-16
+  摘要：1986年9月16日，李敖致王荣文，附还远流版《李敖全集》四册校稿，并请王荣文代谢远流校对人员。信中他说听闻复刊《文星》拒登远流版《李敖全集》广告，反而有趣；又指出复刊号中萧孟能《关于〈韩福瑞和他的思想〉》与陈香梅《我所知道的韩福瑞》其实都出自当年李敖之手。李敖还在信中判断复刊《文星》来路怪、人马杂，称获得林金开给范光霂信后，对其中“保安人员备查中”字样好奇。
+  人物：李敖、王荣文、萧孟能、陈香梅、林金开、范光霂、余光中
+  地点：台湾
+  标签：王荣文、远流版李敖全集、文星复刊、萧孟能、陈香梅、韩福瑞、广告
+  视图：书信线、出版线、文星线、论战线
+  作品：李敖书牍集、银纸包个臭皮蛋、李敖全集、文星、关于韩福瑞和他的思想、我所知道的韩福瑞
+  交叉引用：book2-broad-1986-09-03-sees-wenxing-revival-clean-version、book2-broad-1986-09-10-clean-version-written、li-ao-zawenji-1966-before-feb-chen-xiangmei-humphrey-article-rewritten-by-li、li-ao-zawenji-1966-before-feb-xiao-mengneng-humphrey-preface-written-by-li
+  来源：李敖书牍集 / 002.银纸包个臭皮蛋 / line 19
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/002.银纸包个臭皮蛋.txt
+  数据：data/timeline-events-li-ao-shuduji.json#li-ao-shuduji-1986-09-16-writes-wang-rongwen-returning-proofs-and-criticizing-revived-wenxing
 - 1986年9月16日星期二 | 署写《银纸包个臭皮蛋》
   精度：day；可靠度：confirmed；排序日期：1986-09-16
   摘要：《银纸包个臭皮蛋》文末署“敖之 1986年9月16日”。
@@ -112791,6 +112817,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/007.李敖札记/084.“贤”就“贤”吧！.txt
   数据：data/timeline-events-li-ao-zhaji.json#li-ao-zhaji-1986-09-26-comments-qunxian-building-name
+- 1986年9月28日 | 李敖致王尚勤，附还《海外的中国人》并谈直线前进
+  精度：day；可靠度：reported-by-author；排序日期：1986-09-28
+  摘要：1986年9月28日，李敖致王尚勤，说明三信都收到，并附还其《海外的中国人》稿本，请以后有机会代买一册送他。信中他从王尚勤的人生道路谈起，认为人生应一段段直线前进而非周而复始；又回述前几个月黄老三大姨高美人来台卖房、与自己吃饭两次的情形，以她重新开始为例谈终点与起点。王尚勤次日将返美，李敖还祝她回去处理小文之事胜利。
+  人物：李敖、王尚勤、高美人、小文、胡茵梦、Thoreau、Darwin、Marx
+  地点：台湾、北京、美国、Walden Pond
+  标签：王尚勤、海外的中国人、高美人、小文、Walden Pond、直线前进
+  视图：书信线、交游线、思想线
+  作品：李敖书牍集、直线前进对，周而复始错、海外的中国人
+  交叉引用：book2-1986-09-05-bear-reply-written
+  来源：李敖书牍集 / 003.直线前进对，周而复始错 / line 21
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/003.直线前进对，周而复始错.txt
+  数据：data/timeline-events-li-ao-shuduji.json#li-ao-shuduji-1986-09-28-writes-wang-shangqin-returning-overseas-chinese-manuscript
 - 1986年9月30日星期二 | 李士杰回忆文字开始在李敖刊物连载
   精度：day；可靠度：confirmed；排序日期：1986-09-30
   摘要：《三叠纪》写，在李敖催促下，李士杰自1986年9月30日起在《万岁评论》《千秋评论》发表文字，讲述自己从死刑到长期政治监禁的经历。
@@ -112890,11 +112929,24 @@
   标签：札记、来回带物法、资料工作、分类入档、工作方法、马桶盖
   视图：日常线、写作线、资料线
   作品：李敖札记
-  交叉引用：li-ao-yulu-1986-09-09-li-ao-zhaji-workaholic
+  交叉引用：li-ao-yulu-1986-09-09-li-ao-zhaji-workaholic、li-ao-shuduji-1986-10-12-writes-shen-dengen-on-gifts-weizhen-and-carrying-items-method
   来源：李敖札记 / 089.来回带物法 / line 3
-  补充来源：-
+  补充来源：李敖书牍集 / 004.来回带物法 / line 9；说明：《书牍集》004以致沈登恩信形式重收“来回带物法”，并补出沈登恩、邓维桢、胡虚一等书信语境。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/007.李敖札记/089.来回带物法.txt
   数据：data/timeline-events-li-ao-zhaji.json#li-ao-zhaji-1986-10-12-writes-carrying-items-method
+- 1986年10月12日 | 李敖致沈登恩，谈邓维桢、来回带物法与帮忙边界
+  精度：day；可靠度：reported-by-author；排序日期：1986-10-12
+  摘要：1986年10月12日，李敖致沈登恩，说明已收到来信，并在信中回述前几天散步两度碰到邓维桢时称赞沈登恩每逢生日年节总送礼、做人有味道；又回述昨天散步碰到胡虚一并请吃火锅，胡虚一也称邓维桢头脑高出党外人士太多。李敖在信中说明自己除散步外全天藏在家里，用摸索出的“来回带物法”处理资料；又附上罗素照片十件、龚定盦参考书三册，表示第一流作者的忙可以帮，二流以下不必找他。
+  人物：李敖、沈登恩、邓维桢、胡虚一、何振亚、王荣文、罗素、龚定盦、余光中、Thomas Mann
+  地点：台湾
+  标签：沈登恩、邓维桢、胡虚一、来回带物法、罗素、龚定盦、资料工作
+  视图：书信线、日常线、资料线、交游线
+  作品：李敖书牍集、来回带物法
+  交叉引用：li-ao-zhaji-1986-10-12-writes-carrying-items-method、li-ao-shujianji-letterpaper-1985-05-24-morning-writes-shen-dengen-shiri-xintan
+  来源：李敖书牍集 / 004.来回带物法 / line 15
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/004.来回带物法.txt
+  数据：data/timeline-events-li-ao-shuduji.json#li-ao-shuduji-1986-10-12-writes-shen-dengen-on-gifts-weizhen-and-carrying-items-method
 - 1986年10月13日 | 李敖与龙律师谈讼案
   精度：day；可靠度：confirmed；排序日期：1986-10-13
   摘要：1986年10月13日，李敖与龙律师谈多件讼案。龙律师转告，林正杰入狱前托郑胜助律师转话，说自己如今已入狱，请李敖不要再告他；李敖答复，林正杰入狱与李敖告其诽谤是两码事，关键在林正杰肯不肯认错道歉，而不是入不入狱。
@@ -112947,6 +112999,45 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/191.何须马丁尼！（沈沉）.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1986-10-21-191-shenchen-writes-no-need-martini
+- 1986年10月28日下午，10月29日函中记述 | 古亭分局警员在罗斯福路查扣李敖出版物四十一册
+  精度：day；可靠度：reported-by-author；排序日期：1986-10-28
+  摘要：1986年10月28日下午，台北市警察局古亭分局罗斯福路派出所警员胡鹏翔在马路上查扣李敖等所著《万岁评论丛书》第三十一至第三十五期及《新观点丛书》第一期，共四十一册，只交付手写收据。李敖次日函中指出，第三十五期查禁令尚未下来，警员又未开具台北市政府取缔违禁出版品制式收据，属违法查扣。
+  人物：李敖、胡鹏翔、许水德、颜锦福、颜世锡
+  地点：台北、罗斯福路、古亭分局
+  标签：万岁评论丛书、新观点丛书、查扣、古亭分局、罗斯福路派出所、胡鹏翔、出版管制
+  视图：出版线、司法线、书信线
+  作品：李敖书牍集、贵市长言而无信，令人羞羞、万岁评论丛书、新观点丛书
+  交叉引用：li-ao-shuduji-1986-10-29-writes-xu-shuide-demanding-punishment-and-compensation、li-ao-shujianji-letterpaper-1984-08-28-taipei-city-seizes-books-at-xueying-bookstore、book5-1985-06-24-claims-damages-from-taipei-city、book5-1985-08-29-taipei-city-compensation-check
+  来源：李敖书牍集 / 005.贵市长言而无信，令人羞羞 / line 11
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/005.贵市长言而无信，令人羞羞.txt
+  数据：data/timeline-events-li-ao-shuduji.json#li-ao-shuduji-1986-10-28-police-seize-wansui-review-books-on-roosevelt-road
+- 1986年10月29日 | 李敖致许水德，要求严办古亭分局违法查扣并赔偿
+  精度：day；可靠度：reported-by-author；排序日期：1986-10-29
+  摘要：1986年10月29日，李敖致台北市长许水德，并副本给颜锦福、颜世锡，主旨为古亭分局一再违法查扣书刊，要求严办并赔偿。他在函中列明10月28日查扣过程及三项违法，回述1985年6月24日已委龙云翔向许水德请求国家赔偿，台北市政府后来同意赔款六千九百零一元并承诺处分违法警员；如今古亭分局又故态复萌，李敖要求答复处分为何没有下文，并追问局长及他人有无教唆情事。
+  人物：李敖、许水德、颜锦福、颜世锡、胡鹏翔、龙云翔
+  地点：台北市政府、台北、古亭分局
+  标签：许水德、颜锦福、颜世锡、古亭分局、国家赔偿、查扣、龙云翔
+  视图：书信线、司法线、出版线
+  作品：李敖书牍集、贵市长言而无信，令人羞羞、万岁评论丛书、新观点丛书
+  交叉引用：li-ao-shuduji-1986-10-28-police-seize-wansui-review-books-on-roosevelt-road、book5-1985-06-24-claims-damages-from-taipei-city、book5-1985-08-29-taipei-city-compensation-check、li-ao-shujianji-letterpaper-1984-10-04-writes-chen-shuibian-on-illegal-book-seizure
+  来源：李敖书牍集 / 005.贵市长言而无信，令人羞羞 / line 27
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/005.贵市长言而无信，令人羞羞.txt
+  数据：data/timeline-events-li-ao-shuduji.json#li-ao-shuduji-1986-10-29-writes-xu-shuide-demanding-punishment-and-compensation
+- 1986年10月31日，11月3日信中回述 | 李敖赶在蒋介石冥诞秘密上版《蒋介石研究》
+  精度：day；可靠度：reported-by-author；排序日期：1986-10-31
+  摘要：1986年10月31日，蒋介石冥诞之际，李敖赶出并秘密上版《蒋介石研究》。他在11月3日致王荣文信中回述，此举让他拖到11月3日才能回王荣文10月30日来信；李敖称这次出版“大快人心”，是在众口喊万岁时表达不同声音与抗议，也证明台湾还有不买蒋家账的人。
+  人物：李敖、蒋介石、王荣文
+  地点：台湾
+  标签：蒋介石研究、蒋介石冥诞、秘密上版、出版、抗议
+  视图：出版线、政治线、书信线
+  作品：李敖书牍集、“惭愧公荣文王”、蒋介石研究
+  交叉引用：book8-1986-11-02-chiang-kai-shek-study-banned、li-ao-zhaji-1986-11-03-notes-chiang-kai-shek-study-publication
+  来源：李敖书牍集 / 006.“惭愧公荣文王” / line 7
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/006.“惭愧公荣文王”.txt
+  数据：data/timeline-events-li-ao-shuduji.json#li-ao-shuduji-1986-10-31-secretly-puts-chiang-kai-shek-study-on-press
 - 1986年11月1日 | 李敖评工专台大校史
   精度：day；可靠度：confirmed；排序日期：1986-11-01
   摘要：1986年11月1日，李敖写《工专长寿·台大短命》札记，记台北工专庆祝建校七十五周年并从日治时代创校起算；他转而批评台湾大学明明1928年建校、若从医学部还可追溯至台湾总督府医学校，却被硬从1945年接收台北帝国大学算起，认为这种剪断前史没有道理。
@@ -112968,9 +113059,9 @@
   标签：蒋介石研究、查禁、扣押、出版管制
   视图：出版线、司法线、思想线
   作品：蒋介石研究、李敖相关
-  交叉引用：li-ao-zhaji-1986-11-03-notes-chiang-kai-shek-study-publication、li-ao-zhaji-1987-09-23-writes-enemies-living-and-dead-note、li-ao-zhaji-1987-09-23-contrasts-li-ao-dead-with-chiang-ching-kuo-study
+  交叉引用：li-ao-zhaji-1986-11-03-notes-chiang-kai-shek-study-publication、li-ao-zhaji-1987-09-23-writes-enemies-living-and-dead-note、li-ao-zhaji-1987-09-23-contrasts-li-ao-dead-with-chiang-ching-kuo-study、li-ao-shuduji-1986-10-31-secretly-puts-chiang-kai-shek-study-on-press
   来源：李敖相关 / 006.李敖著作查禁清单及官方理由 / line 175
-  补充来源：-
+  补充来源：李敖书牍集 / 006.“惭愧公荣文王” / line 7；说明：1986年11月3日致王荣文信中回述赶在10月31日蒋介石冥诞时秘密上版《蒋介石研究》。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/008.李敖相关/006.李敖著作查禁清单及官方理由.txt
   数据：data/timeline-events-eighth-book.json#book8-1986-11-02-chiang-kai-shek-study-banned
 - 1986年11月3日 | 李敖记《蒋介石研究》出版
@@ -112981,11 +113072,24 @@
   标签：札记、蒋介石研究、出版、蒋介石、党外、冥诞
   视图：出版线、政治线、札记线
   作品：李敖札记、蒋介石研究
-  交叉引用：book8-1986-11-02-chiang-kai-shek-study-banned、li-ao-zhaji-1987-09-23-writes-enemies-living-and-dead-note、li-ao-zhaji-1987-09-23-contrasts-li-ao-dead-with-chiang-ching-kuo-study
+  交叉引用：book8-1986-11-02-chiang-kai-shek-study-banned、li-ao-zhaji-1987-09-23-writes-enemies-living-and-dead-note、li-ao-zhaji-1987-09-23-contrasts-li-ao-dead-with-chiang-ching-kuo-study、li-ao-shuduji-1986-10-31-secretly-puts-chiang-kai-shek-study-on-press
   来源：李敖札记 / 092.出版《蒋介石研究》 / line 3
-  补充来源：-
+  补充来源：李敖书牍集 / 006.“惭愧公荣文王” / line 7；说明：1986年11月3日致王荣文信中回述赶在10月31日蒋介石冥诞时秘密上版《蒋介石研究》。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/007.李敖札记/092.出版《蒋介石研究》.txt
   数据：data/timeline-events-li-ao-zhaji.json#li-ao-zhaji-1986-11-03-notes-chiang-kai-shek-study-publication
+- 1986年11月3日，昨晚校完最后二册 | 李敖致王荣文，称校完远流版全集并催争取“未来李敖”
+  精度：day；可靠度：reported-by-author；排序日期：1986-11-03
+  摘要：1986年11月3日，李敖致王荣文，说明昨晚校完远流版《李敖全集》最后二册，觉得又立下著作方面的新里程碑，并感谢王荣文及远流朋友。针对王荣文10月30日提出的“未来李敖”出版计划，李敖在信中批评王荣文未先“烧冷灶”，又把他和别的作者一般看待；他要求王荣文千方百计争取“未来李敖”的出版，否则将在历史和金钱上证明缺乏持续眼光，最后戏称将来要给王荣文铸“惭愧公荣文王”像。
+  人物：李敖、王荣文、赖阿胜、邓维桢、关公
+  地点：台湾
+  标签：王荣文、远流版李敖全集、未来李敖、出版计划、蒋介石研究
+  视图：书信线、出版线、写作线
+  作品：李敖书牍集、“惭愧公荣文王”、李敖全集、蒋介石研究、资治通鉴
+  交叉引用：qianqiu-wansui-1986-02-26-050-sf0lkxmko-kemk0mg2wts6-iof、li-ao-shuduji-1986-10-31-secretly-puts-chiang-kai-shek-study-on-press
+  来源：李敖书牍集 / 006.“惭愧公荣文王” / line 13
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/006.“惭愧公荣文王”.txt
+  数据：data/timeline-events-li-ao-shuduji.json#li-ao-shuduji-1986-11-03-writes-wang-rongwen-on-complete-works-and-future-li-ao
 - 1986年11月5日星期三 | 李敖清晨写《调查局最高兴》
   精度：day；可靠度：confirmed；排序日期：1986-11-05
   摘要：《调查局最高兴》署1986年11月5日晨。李敖借立委要求复校国立中正大学的质询，反讽国民党纪念蒋介石的政治逻辑。
@@ -113025,6 +113129,45 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/038.为萧孟能入狱在即致施启扬函.txt
   数据：data/timeline-events-second-book-broad.json#book2-broad-1986-11-06-xiao-mobilization-law-appeal-dismissed
+- 1986年11月7日晨 | 李敖晨致张京育，再追问露奶头与鲁迅查禁双重标准
+  精度：day；可靠度：reported-by-author；排序日期：1986-11-07
+  摘要：1986年11月7日晨，李敖再致新闻局长张京育，先追述1985年1月19日信中对“三点不露”与国民党报纸裸照的质问，说明张京育一直无以答复。最近他看到《文星》复刊三号重刊鲁迅《狂人日记》，在信中批评鲁迅作品早经明令查禁，却因胡秋原《中华杂志》和所谓复刊《文星》而被差别放行；他把这种左袒标准同“一点露一点不露”的裸女图片相连，在信中反问张京育到底要查禁左奶还是右奶。
+  人物：李敖、张京育、淩鸿勋、鲁迅、胡秋原
+  地点：台湾
+  标签：张京育、新闻局、三点不露、露奶头、鲁迅、狂人日记、文星复刊、查禁标准
+  视图：书信线、出版线、媒体线、政治线
+  作品：李敖书牍集、左奶、右奶，查禁哪只奶？、狂人日记、文星、中华杂志、中央日报
+  交叉引用：li-ao-zhaji-1985-01-19-writes-zhang-jingyu-three-points-letter、li-ao-zhaji-1985-12-24-comments-minzu-evening-news-nude-photo、book2-broad-1986-09-03-sees-wenxing-revival-clean-version
+  来源：李敖书牍集 / 007.左奶、右奶，查禁哪只奶？ / line 19
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/007.左奶、右奶，查禁哪只奶？.txt
+  数据：data/timeline-events-li-ao-shuduji.json#li-ao-shuduji-1986-11-07-morning-writes-zhang-jingyu-left-right-breast-and-lu-xun-ban
+- 1986年11月12日夜 | 李敖夜致林世煜、林小鱼，谈“八大臣出洋”并送书
+  精度：day；可靠度：reported-by-author；排序日期：1986-11-12
+  摘要：1986年11月12日夜，李敖致林世煜、林小鱼。信中他读当天《中央日报》陈履安等国民党青年才俊赴美英日德考察宪政与政党运作的消息，第一反应是此事像八十年前满清五大臣出洋：蒋经国与西太后同样年过古稀而以宪政戏法骗人。他又引吴樾刺五大臣及其妻诗句，提醒理想主义者在新党成立后常被牛鬼蛇神占尽便宜。信末李敖说明想看的书已找出全部送上，并附信请他们转给文杰。
+  人物：李敖、林世煜、林小鱼、陈履安、蒋经国、吴樾、文杰
+  地点：台湾、美国、英国、德国、日本、北京
+  标签：林世煜、林小鱼、陈履安、八大臣、五大臣、吴樾、中央日报、国民党
+  视图：书信线、政治线、思想线、交游线
+  作品：李敖书牍集、从五大臣到八大臣、中央日报
+  交叉引用：-
+  来源：李敖书牍集 / 008.从五大臣到八大臣 / line 31
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/008.从五大臣到八大臣.txt
+  数据：data/timeline-events-li-ao-shuduji.json#li-ao-shuduji-1986-11-12-night-writes-lin-shiyu-xiaoyu-on-eight-ministers-and-sends-books
+- 1986年11月14夜 | 李敖夜答吴哲朗，谈《千秋评论》补寄与党外危机
+  精度：day；可靠度：reported-by-author；排序日期：1986-11-14
+  摘要：1986年11月14夜，李敖答吴哲朗，说明吴哲朗寄来的信、赠书和三千元支票早已收到，但自己每天写作却少写信，常拖很久才回。吴哲朗要求补寄《千秋评论》二十二、四十四、四十六、四十八期并续订四十九期以后；李敖在信中解释，过去收订阅款后每次付邮都被国民党邮局偷偷查扣，造成卖一本赔两本，后来只好退款，不再搞订户；台北市读者虽曾和郑南榕“自由时代系列周刊”联合专人送到家，但外地仍难办理。信末他又根据民进党组党后争权夺利的情况，判断“不识时务”的党外更显重要。
+  人物：李敖、吴哲朗、郑南榕、黄玉娇、曾子、居浩然
+  地点：台湾、台中、台北
+  标签：吴哲朗、千秋评论、邮局查扣、订户、郑南榕、自由时代系列周刊、民进党、党外
+  视图：书信线、出版线、党外线、交游线
+  作品：李敖书牍集、与朋友交，其写信乎？、千秋评论、自由时代系列周刊、台湾时报
+  交叉引用：li-ao-shujianji-letterpaper-1985-02-12-night-notice-to-lifetime-gift-readers
+  来源：李敖书牍集 / 009.与朋友交，其写信乎？ / line 41
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/009.与朋友交，其写信乎？.txt
+  数据：data/timeline-events-li-ao-shuduji.json#li-ao-shuduji-1986-11-14-night-replies-wu-zhelang-on-qianqiu-subscription-and-party-opposition
 - 1986年11月19日星期三 | 李敖写《我最佩服以色列人》
   精度：day；可靠度：confirmed；排序日期：1986-11-19
   摘要：《我最佩服以色列人》署1986年11月19日夜，借以色列问题表达自己对民族处境与现实政治的看法。
@@ -113051,6 +113194,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/038.为萧孟能入狱在即致施启扬函.txt
   数据：data/timeline-events-second-book-broad.json#book2-broad-1986-11-19-xiao-case-sent-for-execution
+- 1986年11月23夜12时 | 李敖夜半致林永丰，以“天行有常”勉其竞选受挫
+  精度：day；可靠度：reported-by-author；排序日期：1986-11-23
+  摘要：1986年11月23夜12时，李敖致妇产科医生林永丰。信中他说当天报上登出林永丰助选团倒戈、撤销自办政见会等消息，他看报后想起韩德尔音乐会无人来仍照演、王尔德新剧被倒彩仍称剧本成功的两个故事；又引《荀子·天论》“天行有常”，说明君子不因小人吵闹而改变行动，鼓励林永丰在“小人之匈匈”“小人计其功”的打击中仍旧“永丰有常”。
+  人物：李敖、林永丰、韩德尔、王尔德、荀子
+  地点：台湾
+  标签：林永丰、助选团、政见会、天行有常、韩德尔、王尔德、荀子
+  视图：书信线、选举线、思想线
+  作品：李敖书牍集、天行有常、荀子·天论
+  交叉引用：li-ao-shujianji-1982-06-01-writes-lin-yongfeng-declining-dinner-after-thinking
+  来源：李敖书牍集 / 010.天行有常 / line 19
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/010.天行有常.txt
+  数据：data/timeline-events-li-ao-shuduji.json#li-ao-shuduji-1986-11-23-midnight-writes-lin-yongfeng-tianxing-youchang
+- 1986年12月5日夜1时 | 李敖夜致俞济时，读赠书后劝其写无忌讳自传
+  精度：day；可靠度：reported-by-author；排序日期：1986-12-05
+  摘要：1986年12月5日夜1时，李敖致信俞济时，感谢其经周之鸣、胡虚一转赠《八十虚度追忆》等三书，并说自己拜读后同意胡虚一称俞济时有求真、知耻一面。李敖在信中写下两个读后感觉：先欣赏俞济时仍替老袍泽说话的义气，又指出他长期在蒋介石身边，回忆涉及蒋介石时忌讳太多、可信度打折。信末李敖盼俞济时以“大臣”心胸自行出版一部没有忌讳的自传，彻底检讨大陆沉沦责任，并附赠《蒋介石研究》请其指教。
+  人物：李敖、俞济时、胡虚一、周之鸣、蒋介石、宋美龄、吴嵩庆、许崇智
+  地点：台湾、南京、上海
+  标签：俞济时、胡虚一、周之鸣、蒋介石、八十虚度追忆、蒋介石研究、自传、侍卫长
+  视图：书信线、历史线、政治线、出版线
+  作品：李敖书牍集、给俞济时将军一封信、八十虚度追忆、一二八淞沪抗日战役经纬回忆、彻底剿灭方酋志敏部纪实、蒋介石研究
+  交叉引用：li-ao-shuduji-1986-10-31-secretly-puts-chiang-kai-shek-study-on-press、li-ao-shuxuji-1990-05-27-writes-note-for-shiwei-guan-tan-jiang-jieshi
+  来源：李敖书牍集 / 011.给俞济时将军一封信 / line 67
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/011.给俞济时将军一封信.txt
+  数据：data/timeline-events-li-ao-shuduji.json#li-ao-shuduji-1986-12-05-night-writes-yu-jishi-urging-candid-autobiography
 - 1986年12月5日星期五 | 李敖写《再记国民党和它同路人的知识水平》
   精度：day；可靠度：confirmed；排序日期：1986-12-05
   摘要：《再记国民党和它同路人的知识水平》署1986年12月5日晨，把前一年那组知识考伐继续往下追打。
@@ -113129,6 +113298,84 @@
   补充来源：李敖札记 / 098.我的悲剧 / line 3；说明：《李敖札记》原文；李敖自述古典美德与古典世界追求。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/005.立言家的真面目.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1986-12-09-li-ao-zhaji-tragic-classical-world
+- 1986年12月12日 | 李敖致邓维桢，自剖“财神爷”谣言与财务处境
+  精度：day；可靠度：reported-by-author；排序日期：1986-12-12
+  摘要：1986年12月12日，李敖致邓维桢，奇怪邓维桢也轻信外界关于他很有钱的传说。信中他引《跋“侯德健给李敖的信”》自剖，说明“财神爷”名声来自谣言、义助朋友和三手凯迪拉克等夸张传闻；他承认曾以六位数字援助政治受难者，最近包括五一九绿色行动龙山寺捐十万元、郑南榕被捕后送其父母十万元，但强调自己曾抵押母亲公寓救急、欠刘小姐家七十万，手边周转不足以承受大意外。李敖还在信中说明自己真正问题是要花许多时间建立写作环境和散布能力，在台湾被严密封杀与孤立。
+  人物：李敖、邓维桢、侯德健、郑南榕、刘小姐、马克思、恩格斯、梅厄夫人、高墉
+  地点：台湾、龙山寺、华南银行
+  标签：邓维桢、财神爷、谣言、侯德健、五一九绿色行动、郑南榕、财务、封杀
+  视图：书信线、财务线、交游线、政治线
+  作品：李敖书牍集、“财神爷”的悄悄话、跋“侯德健给李敖的信”、李敖的是非功过
+  交叉引用：qianqiu-wansui-1983-06-16-012-writes-postscript-hou-dejian-letter、qianqiu-wansui-1980-03-21-012-hou-dejian-letter-to-li-ao、li-ao-duihualu-1986-05-17-to-19-donates-to-and-is-confined-during-519-green-action、book4-deep-1986-06-03-li-supports-zheng-nanrong-after-arrest
+  来源：李敖书牍集 / 012.“财神爷”的悄悄话 / line 17
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/012.“财神爷”的悄悄话.txt
+  数据：data/timeline-events-li-ao-shuduji.json#li-ao-shuduji-1986-12-12-writes-deng-weizhen-on-caishenye-rumor-and-finances
+- 1986年12月13日 | 李敖致沈登恩，辨析国民党文人与《文星》旧事
+  精度：day；可靠度：reported-by-author；排序日期：1986-12-13
+  摘要：1986年12月13日，李敖致沈登恩，摘引高阳追忆胡秋原、徐高阮由《文星》台柱转为讨伐《文星》者的说法。李敖在信中回述所谓“预借稿费”旧事，指出文星并未买下稿子，不能代国民党政府负救济之责；又批评把揭发司法、警察迫害说成“制造是非”的道德标准。信末他回到胡适信被徐高阮扣住、声讨李敖大会和警总检举等旧事，说明自己宁愿做“小人”也不同意这类“君子”标准。
+  人物：李敖、沈登恩、高阳、胡秋原、徐高阮、胡适、殷海光
+  地点：台北、台南、台北妇女之家
+  标签：沈登恩、国民党文人、文星、高阳、徐高阮、胡秋原、胡适、道德标准
+  视图：书信线、文星线、论战线、交游线
+  作品：李敖书牍集、给沈登恩信中的几段、高阳出击、论君子与小人之争、文星
+  交叉引用：-
+  来源：李敖书牍集 / 013.给沈登恩信中的几段 / line 27
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/013.给沈登恩信中的几段.txt
+  数据：data/timeline-events-li-ao-shuduji.json#li-ao-shuduji-1986-12-13-writes-shen-dengen-on-kuomintang-writers-and-wenxing
+- 1986年12月15日，夜1时打住 | 李敖致沈登恩，回述“不提李敖之名”的封锁趣事
+  精度：day；可靠度：reported-by-author；排序日期：1986-12-15
+  摘要：1986年12月15日，李敖致沈登恩，先说明附上多尔衮图像两张，又因陈兆基剪来梁实秋文章，回述自己托沈登恩转送北京新鲜胡同小学照片给梁实秋却成了“无名氏”。他在信中把台湾对他的封锁概括为“不提李敖之名”，分“不愿提”和“不敢提”两类：从徐复观在答辩书中避写李敖，到俞大纲、方豪请李敖看稿校稿却在序跋中不敢点名，再到姚从吾哀思录合照把他化为“等”。信末他又记录餐厅遇陈良埙后，影印《李先闻自传》孙立人急救李先闻材料给陈良埙，并批评高级知识分子连恩人姓名也不敢提。
+  人物：李敖、沈登恩、陈兆基、梁实秋、徐复观、俞大纲、萧孟能、张健、方豪、姚从吾、陈良埙、孙立人、李先闻
+  地点：台湾、北京、新鲜胡同、台大历史系、餐厅
+  标签：沈登恩、不提李敖之名、封锁、梁实秋、俞大纲、方豪、徐复观、陈良埙、孙立人、李先闻
+  视图：书信线、交游线、出版线、封锁线
+  作品：李敖书牍集、“不提李敖之名”记趣、记得当时年纪小、戏剧纵横谈、方豪六十自定稿、姚从吾先生哀思录、李先闻自传
+  交叉引用：li-ao-shuduji-1986-10-12-writes-shen-dengen-on-gifts-weizhen-and-carrying-items-method
+  来源：李敖书牍集 / 014.“不提李敖之名”记趣 / line 53
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/014.“不提李敖之名”记趣.txt
+  数据：data/timeline-events-li-ao-shuduji.json#li-ao-shuduji-1986-12-15-writes-shen-dengen-on-no-name-blockade
+- 1986年12月20日 | 李敖函请《自立晚报》解释“李敖死了”广告
+  精度：day；可靠度：documented；排序日期：1986-12-20
+  摘要：1986年12月20日，李敖致函《自立晚报》发行人吴三连和广告费收据负责人吴丰山，要求解释10月22日第一版大幅刊出“李敖死了”广告并附文字诋毁李敖一事。函中他引《中国新闻记者信条》和《中华民国报业道德规范》，要求说明广告是否不真、不良、使读者受欺受害；又反问若有人送来“吴三连死了”“蒋经国死了”等广告，《自立晚报》是否也会照登。李敖限一周内诚意答复，否则依法诉究。
+  人物：李敖、吴三连、吴丰山、蒋宋美龄、蒋经国
+  地点：台湾
+  标签：自立晚报、李敖死了、吴三连、吴丰山、广告、报业道德规范、诽谤
+  视图：司法线、媒体线、书信线
+  作品：李敖书牍集、有关《自立晚报》的函与状、自立晚报、中国新闻记者信条、中华民国报业道德规范
+  交叉引用：liao-xinkan-1986-10-22-writes-zilih-evening-news-after-li-ao-dead-ad、li-ao-shuduji-1986-12-30-files-private-prosecution-over-zilih-dead-ad、li-ao-shuduji-1987-08-03-writes-wu-sanlian-chiang-ching-kuo-dead-book-warning
+  来源：李敖书牍集 / 016.有关《自立晚报》的函与状 / line 3
+  补充来源：李敖书牍集 / 038.给吴三连的预告信 / line 13；说明：李敖8月3日致吴三连，承接“李敖死了”“水蛭”广告案并寄《蒋经国死了》。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/016.有关《自立晚报》的函与状.txt
+  数据：data/timeline-events-li-ao-shuduji.json#li-ao-shuduji-1986-12-20-writes-zilih-evening-news-demanding-ad-explanation
+- 1986年12月27日 | 李敖函请台北市政府新闻处处理《八十年代评论》
+  精度：day；可靠度：documented；排序日期：1986-12-27
+  摘要：1986年12月27日，李敖函请台北市政府新闻处依法处理《八十年代评论》非法发行，并副本给行政院新闻局。他在函中列出五项理由：康文雄无发行人资格却以近似《八十年代》的名称、商标、地址和电话出版；康宁祥可能转让登记证；《八十年代》正停刊中；杂志未经程序另出书籍；康文雄庭供自己只是挂名发行人且未申请登记发行他人著作。李敖最后指出该书刊丑化李敖，而新闻处对批评国民党的李敖书籍无一不禁，却纵容此类打击党外前辈的刊物，要求答复。1987年5月4日信中又追述，台北市政府已于1987年2月25日予以扣押。
+  人物：李敖、康文雄、康宁祥
+  地点：台北市政府新闻处、行政院新闻局、台北市莒光路
+  标签：台北市政府新闻处、行政院新闻局、八十年代评论、康文雄、康宁祥、出版法、党外
+  视图：司法线、出版线、政治线、书信线
+  作品：李敖书牍集、请台北市政府新闻处答复、八十年代、八十年代评论
+  交叉引用：li-ao-zhaji-1987-04-27-writes-news-office-letter-on-fake-wenxing、li-ao-shuduji-1987-05-04-writes-xu-shuide-to-sanction-wenxing-107
+  来源：李敖书牍集 / 015.请台北市政府新闻处答复 / line 3
+  补充来源：李敖书牍集 / 030.答非所问是不行的 / line 57；说明：5月4日信中说明，1986年12月27日抗议后，台北市政府新闻处于1987年2月25日扣押《八十年代评论》。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/015.请台北市政府新闻处答复.txt
+  数据：data/timeline-events-li-ao-shuduji.json#li-ao-shuduji-1986-12-27-writes-taipei-news-office-on-eighties-review
+- 1986年12月30日 | 李敖具状自诉《自立晚报》“李敖死了”广告案
+  精度：day；可靠度：documented；排序日期：1986-12-30
+  摘要：1986年12月30日，李敖具状自诉吴三连、吴丰山、颜文闩和吴祥辉，指10月22日《自立晚报》刊出大幅“李敖死了”广告并称李敖为“水蛭”等，妨害名誉及信用。状中追述他已先发函要求解释，但对方悍然不理；李敖据此主张其行为在道德上违背新闻信条和报业规范，在法律上构成加重诽谤罪，请法院审理并科以应得之刑。
+  人物：李敖、吴三连、吴丰山、颜文闩、吴祥辉
+  地点：台湾
+  标签：自立晚报、李敖死了、自诉、吴三连、吴丰山、颜文闩、吴祥辉、加重诽谤
+  视图：司法线、媒体线
+  作品：李敖书牍集、有关《自立晚报》的函与状、自立晚报
+  交叉引用：liao-xinkan-1986-10-22-writes-zilih-evening-news-after-li-ao-dead-ad、li-ao-shuduji-1986-12-20-writes-zilih-evening-news-demanding-ad-explanation、li-ao-shuduji-1987-02-26-noon-writes-xu-wenbin-on-zilih-defense-and-death-ads、li-ao-shuduji-1987-02-28-writes-wu-shuli-on-court-delay-and-zilih-case、li-ao-shuduji-1987-04-04-morning-writes-ren-yubin-to-assist-arrest-wu-xianghui、li-ao-shuduji-1987-08-03-writes-wu-sanlian-chiang-ching-kuo-dead-book-warning
+  来源：李敖书牍集 / 016.有关《自立晚报》的函与状 / line 23
+  补充来源：李敖书牍集 / 024.这是什么问案标准？ / line 17；说明：2月28日致吴树立信中追述12月30日自诉案的庭期、拘提申请与“死了”广告法律测试。；李敖书牍集 / 027.从恐吓到通缉 / line 25；说明：4月4日信中记吴祥辉因李敖自诉诽谤案传唤不到、拘提无着而遭通缉。；李敖书牍集 / 038.给吴三连的预告信 / line 13；说明：李敖8月3日致吴三连，承接“李敖死了”“水蛭”广告案并寄《蒋经国死了》。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/016.有关《自立晚报》的函与状.txt
+  数据：data/timeline-events-li-ao-shuduji.json#li-ao-shuduji-1986-12-30-files-private-prosecution-over-zilih-dead-ad
 - 1986年2月5日夜至2月6日清早 | 李敖夜宿日月潭
   精度：range；可靠度：confirmed；排序日期：1986-02-05
   摘要：李敖夜宿“中国信托”日月潭大饭店清和台311室；清早4点即醒，因天太暗未能看湖光，便在头痛中看书，并记下一周来每天清晨头痛。
@@ -113163,9 +113410,9 @@
   标签：五一九绿色行动、软禁、捐款、龙山寺、国民党情治
   视图：-
   作品：李敖对话录
-  交叉引用：li-ao-zhaji-1986-04-08-comments-519-green-action-and-martial-law
+  交叉引用：li-ao-zhaji-1986-04-08-comments-519-green-action-and-martial-law、li-ao-shuduji-1986-12-12-writes-deng-weizhen-on-caishenye-rumor-and-finances
   来源：李敖对话录 / 019.《花花公子》访问李敖 / line 203
-  补充来源：-
+  补充来源：李敖书牍集 / 012.“财神爷”的悄悄话 / line 11；说明：李敖在1986年12月12日致邓维桢信中自述五一九绿色行动龙山寺捐十万元。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/004.李敖对话录/019.《花花公子》访问李敖.txt
   数据：data/timeline-events-li-ao-duihualu.json#li-ao-duihualu-1986-05-17-to-19-donates-to-and-is-confined-during-519-green-action
 - 1986年5月26日前几天 | 郑南榕陪陈水扁来看李敖，李敖向陈水扁说明自己未慰问吴淑珍的理由
@@ -113202,9 +113449,9 @@
   标签：郑南榕、自由时代、党外杂志、援助
   视图：交游线、出版线、司法线
   作品：自由时代、李敖回忆录
-  交叉引用：book4-deep-1984-03-freedom-era-cooperation-begins、micang-diary-1986-06-02-receives-xiaoqiu-call-on-nanrong-arrest、micang-diary-1986-06-02-rushes-to-court-after-lunch、micang-diary-1986-06-02-sends-drinks-cake-to-detained-nanrong、micang-diary-1986-06-02-pays-shitong-for-tucheng-arrangements、micang-diary-1986-06-02-visits-zheng-home-and-gives-parents-money、micang-diary-1986-06-02-pledges-free-writing-for-democracy-era-and-freedom-world、micang-diary-1986-06-02-writes-firebrand-poem-for-nanrong-arrest
+  交叉引用：book4-deep-1984-03-freedom-era-cooperation-begins、micang-diary-1986-06-02-receives-xiaoqiu-call-on-nanrong-arrest、micang-diary-1986-06-02-rushes-to-court-after-lunch、micang-diary-1986-06-02-sends-drinks-cake-to-detained-nanrong、micang-diary-1986-06-02-pays-shitong-for-tucheng-arrangements、micang-diary-1986-06-02-visits-zheng-home-and-gives-parents-money、micang-diary-1986-06-02-pledges-free-writing-for-democracy-era-and-freedom-world、micang-diary-1986-06-02-writes-firebrand-poem-for-nanrong-arrest、li-ao-shuduji-1986-12-12-writes-deng-weizhen-on-caishenye-rumor-and-finances
   来源：李敖回忆录 / 018.笔伐（1982-1992·47到57岁） / line 23
-  补充来源：李敖秘藏日记 / 014.夺魄的代价 / line 25；说明：李敖1986年6月2日日记补出郑南榕被捕当天即去郑家慰问郑伯伯、郑伯母，并送老人家十万元。；李敖秘藏日记 / 014.夺魄的代价 / line 33；说明：李敖同日日记又记每周为《民主时代》《自由天地》各免费写文一篇，以支持郑南榕相关杂志。
+  补充来源：李敖秘藏日记 / 014.夺魄的代价 / line 25；说明：李敖1986年6月2日日记补出郑南榕被捕当天即去郑家慰问郑伯伯、郑伯母，并送老人家十万元。；李敖秘藏日记 / 014.夺魄的代价 / line 33；说明：李敖同日日记又记每周为《民主时代》《自由天地》各免费写文一篇，以支持郑南榕相关杂志。；李敖书牍集 / 012.“财神爷”的悄悄话 / line 11；说明：李敖在1986年12月12日致邓维桢信中自述郑南榕被捕后送给其父母十万元。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/018.笔伐（1982-1992·47到57岁）.txt
   数据：data/timeline-events-fourth-book-deepening.json#book4-deep-1986-06-03-li-supports-zheng-nanrong-after-arrest
 - 1986年夏季 | 李敖因海外传话作《高楼书感》回应统一问题
@@ -113274,15 +113521,15 @@
   数据：data/timeline-events-li-ao-duihualu.json#li-ao-duihualu-1986-10-says-future-is-big-books-chinese-thought-and-beijing-fayuansi
 - 1986年10月22日星期三后 | 李敖因《自立晚报》刊“李敖死了”广告而去信并提告
   精度：after-date-context；可靠度：confirmed；排序日期：1986-10-22
-  摘要：《台湾的法官最怕报阀》追述，1986年10月22日《自立晚报》出现大幅“李敖死了”广告。李敖看后去信给发行人吴三连、社长吴丰山、总编辑颜文闩，要求依新闻记者信条与报业道德规范解释；对方不理后，李敖将他们告到法院。
+  摘要：《台湾的法官最怕报阀》追述，1986年10月22日《自立晚报》出现大幅“李敖死了”广告。李敖看后于12月20日去信给发行人吴三连和吴丰山，要求依新闻记者信条与报业道德规范解释；对方不理后，12月30日李敖将吴三连、吴丰山、颜文闩和广告作者吴祥辉告到法院。
   人物：李敖、吴三连、吴丰山、颜文闩、杨丰卿
   地点：台北、台北地方法院
   标签：李敖新刊、台湾的法官最怕报阀、自立晚报、李敖死了、诽谤、广告、1986
   视图：司法线、媒体线
   作品：李敖新刊、台湾的法官最怕报阀
-  交叉引用：liao-xinkan-1988-09-18-010-judges-fear-press-tycoons、li-ao-zhaji-1987-09-23-contrasts-li-ao-dead-with-chiang-ching-kuo-study
+  交叉引用：liao-xinkan-1988-09-18-010-judges-fear-press-tycoons、li-ao-zhaji-1987-09-23-contrasts-li-ao-dead-with-chiang-ching-kuo-study、li-ao-shuduji-1986-12-20-writes-zilih-evening-news-demanding-ad-explanation、li-ao-shuduji-1986-12-30-files-private-prosecution-over-zilih-dead-ad
   来源：李敖新刊 / 010.台湾的法官最怕报阀 / line 5
-  补充来源：-
+  补充来源：李敖书牍集 / 016.有关《自立晚报》的函与状 / line 3；说明：《书牍集》补出李敖1986年12月20日致《自立晚报》函的全文。；李敖书牍集 / 016.有关《自立晚报》的函与状 / line 23；说明：《书牍集》补出李敖1986年12月30日自诉状的全文。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/012.李敖新刊/010.台湾的法官最怕报阀.txt
   数据：data/timeline-events-li-ao-xinkan.json#liao-xinkan-1986-10-22-writes-zilih-evening-news-after-li-ao-dead-ad
 
@@ -113300,6 +113547,19 @@
   补充来源：爱情的秘密 / 061.向沧海凝神 / line 17；说明：文末署日。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/001.爱情的秘密/061.向沧海凝神.txt
   数据：data/timeline-events-love-secret.json#love-secret-1987-01-09-writes-on-frost-neither-out-far-nor-in-deep
+- 1987年1月13日 | 李敖致苏洪月娇，称告朱高正是“人告人”
+  精度：day；可靠度：reported-by-author；排序日期：1987-01-13
+  摘要：1987年1月13日，李敖致苏洪月娇，感谢她寄赠公报和文件，并说自己隐居以来与朋友多限于书面，反而因讼案未了得在法院见敌人。信中他回述前几天邓维桢到法院作证时正好碰到自己，二人聊到朱高正；李敖当场说明自己告朱高正不是“党外告党外”，而是一个人被诽谤后告另一个人，并强调党外身份不是诽谤护符。信末李敖附上警务黑暗函正本，副本已寄警务处长和台北县警察局长，请苏洪月娇严予追惩。
+  人物：李敖、苏洪月娇、邓维桢、朱高正、郑南榕、姚高桥、苏东启、苏治洋、苏治灏
+  地点：法院、台北县警察局
+  标签：苏洪月娇、邓维桢、朱高正、党外、诽谤、警务黑暗函、法院
+  视图：书信线、司法线、党外线、交游线
+  作品：李敖书牍集、是人告人，不是党外告党外
+  交叉引用：-
+  来源：李敖书牍集 / 017.是人告人，不是党外告党外 / line 17
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/017.是人告人，不是党外告党外.txt
+  数据：data/timeline-events-li-ao-shuduji.json#li-ao-shuduji-1987-01-13-writes-su-hong-yuejiao-on-person-suing-person
 - 1987年1月14日星期三 | 萧孟能诬告案在高院开庭，法官首次力劝双方和解
   精度：day；可靠度：confirmed；排序日期：1987-01-14
   摘要：《萧负李》写，1987年1月14日，萧孟能在其诬告案上诉后于高等法院开庭，法官廖茂荣一再劝谕和解。李敖为尊重法官善意，退庭后委由龙云翔律师去函开具条件，为后续2月18日再开庭而终告破裂的和解尝试埋下前奏。
@@ -113313,6 +113573,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/478.萧负李.txt
   数据：data/timeline-events-seventh-book.json#book7-1987-01-14-high-court-hearing-xiao-mengneng-false-accusation-case-first-mediation
+- 1987年1月19夜 | 李敖夜答李世杰，以“要埋单”谈清算黑暗统治
+  精度：day；可靠度：reported-by-author；排序日期：1987-01-19
+  摘要：1987年1月19夜，李敖致李世杰，读其关于国民党黑暗统治下奇冤异惨的大部头文字后，称佩服其博闻强记、巨细不遗。李敖在信中回述自己坐司法牢时因秘密管道细部功夫较好，坐军法牢时则因防范过严和雷震没收旧例而受影响；他认为难友出狱后能写敢写者难能可贵，劫后余生奋笔清算国民党黑暗统治，正是要替这种统治“埋单”。
+  人物：李敖、李世杰、胡虚一、雷震、曹雪芹、宋伟霖、宗荣禄
+  地点：台湾
+  标签：李世杰、要埋单、黑狱、司法牢、军法牢、国民党黑暗统治、写作
+  视图：书信线、司法线、写作线、政治线
+  作品：李敖书牍集、“要埋单”、红楼梦
+  交叉引用：li-ao-shuxuji-1988-09-08-writes-preface-to-diaochaju-yanjiu-for-li-shijie、li-ao-shuduji-1987-05-17-night-replies-li-shijie-on-destroying-cadres
+  来源：李敖书牍集 / 018.“要埋单” / line 13
+  补充来源：李敖书牍集 / 032.二李通信 / line 175；说明：李敖5月17日夜复李世杰时回提2月4日长信与前信，并延续“黑暗统治要埋单”的讨论。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/018.“要埋单”.txt
+  数据：data/timeline-events-li-ao-shuduji.json#li-ao-shuduji-1987-01-19-night-writes-li-shijie-on-exposing-black-rule
 - 1987年1月22日星期四 | 《蒋介石研究续集》遭扣押处分
   精度：day；可靠度：confirmed；排序日期：1987-01-22
   摘要：同一查禁清单列出，《蒋介石研究续集》于1987年1月15日出书后，1987年1月22日即遭以（76）剑佳字第0130号扣押。与第一卷、第三卷相连看，可以清楚看出李敖在蒋介石研究系列上的连续出书与连续受压节奏。
@@ -113430,6 +113703,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/006.波波颂/046.打碎玉壶也是冰.txt
   数据：data/timeline-events-bobo-song.json#bobo-song-1987-02-13-shattered-jade-pot-still-ice
+- 1987年2月14日 | 李敖致许文彬，劝其为《自立晚报》辩护时自反而缩
+  精度：day；可靠度：reported-by-author；排序日期：1987-02-14
+  摘要：1987年2月14日，李敖致许文彬律师，承接前天开庭后二人互称相识为快的谈话。李敖在信中说明许文彬担任《自立晚报》对造辩护人属律师业务常情，自己并不怪他；但他以许文彬曾代纪政控告《开放》杂志为例，反问《自立晚报》称李敖“死了”、骂其为“水蛭”是否合乎文化事业职业道德。信末李敖借林肯拒绝为不合正义的“我方”辩护，劝许文彬共同进步。
+  人物：李敖、许文彬、吴三连、吴丰山、颜文闩、纪政、林肯、华定国
+  地点：土城看守所、台湾
+  标签：许文彬、自立晚报、李敖死了、律师、正义、纪政、开放杂志
+  视图：书信线、司法线、媒体线
+  作品：李敖书牍集、律师·正义·缩、自立晚报、开放
+  交叉引用：li-ao-shuduji-1986-12-20-writes-zilih-evening-news-demanding-ad-explanation、li-ao-shuduji-1986-12-30-files-private-prosecution-over-zilih-dead-ad、liao-xinkan-1986-10-22-writes-zilih-evening-news-after-li-ao-dead-ad、li-ao-shuduji-1987-02-26-noon-writes-xu-wenbin-on-zilih-defense-and-death-ads
+  来源：李敖书牍集 / 019.律师·正义·缩 / line 15
+  补充来源：李敖书牍集 / 022.祸延小蒋及其晚娘 / line 9；说明：2月26日再致许文彬信中承接前天出庭和答辩要旨，继续讨论《自立晚报》辩护。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/019.律师·正义·缩.txt
+  数据：data/timeline-events-li-ao-shuduji.json#li-ao-shuduji-1987-02-14-writes-lawyer-xu-wenbin-on-zilih-defense
 - 1987年2月18日星期三 | 萧孟能诬告案高院开庭，和解未成
   精度：day；可靠度：confirmed；排序日期：1987-02-18
   摘要：李敖记述1987年2月18日上午9点40分，高院开审萧孟能诬告案；审判长调停，萧孟能愿登报道歉，但因律师节外生枝和解未成。
@@ -113456,6 +113742,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/007.李敖札记/103.警备总司令大发雷霆.txt
   数据：data/timeline-events-li-ao-zhaji.json#li-ao-zhaji-1987-02-19-records-garrison-searching-chiang-study-sequel
+- 1987年2月22日 | 李敖致李世杰，读惠安大冤案稿并戏谈肚皮与头皮
+  精度：day；可靠度：reported-by-author；排序日期：1987-02-22
+  摘要：1987年2月22日，李敖致李世杰，称有一件涉肚皮与头皮之事报告。他在信中说前阵子买到一册 Sylvia Kristel 专集，看到一张肚皮微凸的裸照后想“光凭此肚皮，就可赚钱矣”；又回想小时候在北京见到“断送老头皮”诗句，后来才知出自杨朴故事。转入正题后，李敖称先睹李世杰写沈之岳调查局制造的惠安大冤案，动魄惊心；又说昨天在火车上读1534年版《惠安县志》，据乡风文字判断惠安人老实却遭巨劫，因而写信祝贺李世杰“不惜头皮，硬要一倾肚皮”。
+  人物：李敖、李世杰、沈之岳、苏轼、杨朴、Sylvia Kristel、王世贞、赵令畴、孔平仲、陆游
+  地点：北京、火车上、惠安
+  标签：李世杰、惠安大冤案、沈之岳、调查局、肚皮、头皮、惠安县志、Sylvia Kristel
+  视图：书信线、司法线、读书线、交游线
+  作品：李敖书牍集、从肚皮到头皮、惠安县志、调谑编、侯鲭录、孔氏谈苑
+  交叉引用：li-ao-shuduji-1987-01-19-night-writes-li-shijie-on-exposing-black-rule、li-ao-shuxuji-1988-09-08-writes-preface-to-diaochaju-yanjiu-for-li-shijie、li-ao-shuduji-1987-05-17-night-replies-li-shijie-on-destroying-cadres
+  来源：李敖书牍集 / 020.从肚皮到头皮 / line 21
+  补充来源：李敖书牍集 / 032.二李通信 / line 177；说明：李敖5月17日夜重读李世杰2月4日长信，补足二李通信的后续脉络。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/020.从肚皮到头皮.txt
+  数据：data/timeline-events-li-ao-shuduji.json#li-ao-shuduji-1987-02-22-writes-li-shijie-from-belly-to-scalp
+- 1987年2月23日 | 李敖致黄少谷，追究吴昭莹久拖诽谤自诉案
+  精度：day；可靠度：reported-by-author；排序日期：1987-02-23
+  摘要：1987年2月23日，李敖致司法院院长黄少谷，要求惩处并答复台北地方法院刑庭推事吴昭莹久拖其自诉蔡仁坚、林正杰、吴祥辉、汪梦湘诽谤案一事。他在信中说明，自己1986年1月4日具状自诉后，法院虽在1月13日、2月17日、3月1日、4月19日开庭，但此后十个月完全没有下文；四名被告中只有汪梦湘到过一次庭，林正杰和吴祥辉也未被拘提。李敖又借王金平票据案六年未审讽刺司法院“有人在打鼾”，要求追究吴昭莹及各级监督人员。
+  人物：李敖、黄少谷、吴昭莹、蔡仁坚、林正杰、吴祥辉、汪梦湘、吴树立、王金平
+  地点：台北地方法院、司法院、三军军官俱乐部
+  标签：黄少谷、吴昭莹、台北地方法院、自诉、诽谤案、迟延案件、王金平
+  视图：书信线、司法线、政治线
+  作品：李敖书牍集、司法院有人在打鼾吧？
+  交叉引用：li-ao-shuduji-1987-02-28-writes-wu-shuli-on-court-delay-and-zilih-case
+  来源：李敖书牍集 / 021.司法院有人在打鼾吧？ / line 93
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/021.司法院有人在打鼾吧？.txt
+  数据：data/timeline-events-li-ao-shuduji.json#li-ao-shuduji-1987-02-23-writes-huang-shaogu-on-wu-zhaoying-delayed-defamation-case
 - 1987年2月24日星期二 | 李敖在台北地院撞见仍逍遥未执行的萧孟能
   精度：day；可靠度：confirmed；排序日期：1987-02-24
   摘要：李敖在1987年2月28日致施启扬函中说，直到四天前即2月24日，萧孟能还来台北地院逍遥，显示台北地检处迟未发监执行。
@@ -113482,6 +113794,45 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/037.告李敖的下场.txt
   数据：data/timeline-events-second-book.json#book2-1987-02-25-xiao-appeal-dismissed
+- 1987年2月26日午 | 李敖午间再致许文彬，谈《自立晚报》辩护与“死了”广告
+  精度：day；可靠度：reported-by-author；排序日期：1987-02-26
+  摘要：1987年2月26日午，李敖再致许文彬，承接前天出庭前后看到许为“台南帮”所写答辩要旨一事。他在信中批评答辩状草率而强词夺理，劝许重读《吴三连的真面目》；又说明自己虽不喜欢索赔，但以法律索赔是文明办法。李敖还补寄“蒋经国死了”“蒋宋美龄死了”两附件，并在信中设想如果法院不判《自立晚报》被告有罪，自己就用同类广告测试法律标准，想到将“祸延小蒋及其晚娘”时忍不住笑；信末另索华定国案全卷并赠近作三册。
+  人物：李敖、许文彬、吴三连、吴丰山、颜文闩、蒋经国、蒋宋美龄、黄少谷、吴树立、杨丰卿、华定国、魏摩兰、拉寇儿薇芝
+  地点：台北地方法院、台南
+  标签：许文彬、自立晚报、吴三连、死了广告、民事赔偿、华定国案
+  视图：书信线、司法线、出版线
+  作品：李敖书牍集、祸延小蒋及其晚娘、吴三连的真面目、威尼斯商人
+  交叉引用：li-ao-shuduji-1987-02-14-writes-lawyer-xu-wenbin-on-zilih-defense、li-ao-shuduji-1986-12-30-files-private-prosecution-over-zilih-dead-ad、li-ao-shuduji-1987-02-28-writes-wu-shuli-on-court-delay-and-zilih-case、li-ao-shuduji-1987-08-03-writes-wu-sanlian-chiang-ching-kuo-dead-book-warning
+  来源：李敖书牍集 / 022.祸延小蒋及其晚娘 / line 25
+  补充来源：李敖书牍集 / 038.给吴三连的预告信 / line 13；说明：8月3日信补出“蒋经国死了”书已印出并寄吴三连的后续动作。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/022.祸延小蒋及其晚娘.txt
+  数据：data/timeline-events-li-ao-shuduji.json#li-ao-shuduji-1987-02-26-noon-writes-xu-wenbin-on-zilih-defense-and-death-ads
+- 1987年2月27日夜 | 李敖夜致施启扬，感叹“良友渐随千劫尽”
+  精度：day；可靠度：reported-by-author；排序日期：1987-02-27
+  摘要：1987年2月27日夜，李敖致施启扬，重提1984年10月6日给施启扬的公开信及狱政人权问题。他在信中回述，当年写信时就判断施启扬做了国民党的官，必不敢回信表态；若其不可救药，自己就应写文章以施为样板警惕士林。李敖又提到五十生日前写《我最难忘的一位老师》时顺带写到施启扬，今后仍会在自传或专文中多写。信末他说三天前在路上遇任建园，谈及张光锦抱怨老同学疏离；李敖解释张为现任中将，自己不便往来，并把1981年在台北看守所拒见施启扬的一部分理由也归入这种顾虑，因而有“良友渐随千劫尽”之感。
+  人物：李敖、施启扬、刘峰松、王文振、陈士宽、王孟仁、严侨、任建园、张光锦、郑文良、赖文良
+  地点：台北看守所、台中一中、土城看守所
+  标签：施启扬、狱政、老同学、良友渐随千劫尽、张光锦、任建园、台北看守所
+  视图：书信线、司法线、交游线、回忆线
+  作品：李敖书牍集、“良友渐随千劫尽”、你有郑文良，我有赖文良——给施启扬的公开信、我最难忘的一位老师、关怀
+  交叉引用：book3-1984-10-06-letter-to-shi-prison-human-rights、book3-1984-10-05-li-article-against-shi-published、book3-1981-11-23-li-refuses-shi-visit-tucheng
+  来源：李敖书牍集 / 023.“良友渐随千劫尽” / line 21
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/023.“良友渐随千劫尽”.txt
+  数据：data/timeline-events-li-ao-shuduji.json#li-ao-shuduji-1987-02-27-night-writes-shi-qiyang-good-friends-fade-away
+- 1987年2月28日 | 李敖致吴树立，追问两案为何不拘不到庭被告
+  精度：day；可靠度：reported-by-author；排序日期：1987-02-28
+  摘要：1987年2月28日，李敖致台北地方法院院长吴树立，附上2月23日给黄少谷的信，追问其自诉蔡仁坚等案和《自立晚报》“李敖死了”广告案的问案标准。他在信中对照郑南榕两次不到庭即被发拘票、通缉的前例，指出自己1986年1月4日自诉蔡仁坚、林正杰、吴祥辉、汪梦湘案拖了一年多，被告多未到庭；1986年12月30日自诉吴三连、吴丰山、颜文闩、吴祥辉案也已三次开庭而被告不到，2月14日拘提申请无回音。李敖并在信中设想，若法院判《自立晚报》被告无罪，自己即可据此刊登“蒋经国死了”“蒋宋美龄死了”广告。附录显示吴树立3月2日、3日复函称已督促承办人处理。
+  人物：李敖、吴树立、黄少谷、吴昭莹、蔡仁坚、林正杰、吴祥辉、汪梦湘、郑南榕、吴三连、吴丰山、颜文闩、杨丰卿、蒋经国、蒋宋美龄
+  地点：台北地方法院、司法院
+  标签：吴树立、台北地方法院、自诉、拘提、通缉、郑南榕、自立晚报、死了广告
+  视图：书信线、司法线、出版线、政治线
+  作品：李敖书牍集、这是什么问案标准？、李敖死了
+  交叉引用：li-ao-shuduji-1987-02-23-writes-huang-shaogu-on-wu-zhaoying-delayed-defamation-case、li-ao-shuduji-1987-02-26-noon-writes-xu-wenbin-on-zilih-defense-and-death-ads、li-ao-shuduji-1986-12-30-files-private-prosecution-over-zilih-dead-ad、li-ao-shuduji-1987-02-14-writes-lawyer-xu-wenbin-on-zilih-defense、li-ao-shuduji-1987-08-03-writes-wu-sanlian-chiang-ching-kuo-dead-book-warning
+  来源：李敖书牍集 / 024.这是什么问案标准？ / line 37
+  补充来源：李敖书牍集 / 038.给吴三连的预告信 / line 13；说明：8月3日信补出“蒋经国死了”书已印出并寄吴三连的后续动作。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/024.这是什么问案标准？.txt
+  数据：data/timeline-events-li-ao-shuduji.json#li-ao-shuduji-1987-02-28-writes-wu-shuli-on-court-delay-and-zilih-case
 - 1987年2月28日星期六 | 致施启扬函，要求依法处理萧孟能入狱执行
   精度：day；可靠度：confirmed；排序日期：1987-02-28
   摘要：李敖在1987年2月28日致法务部部长施启扬函，副本给柴启宸与曾庆璧，要求督促依法处理萧孟能又被判四个月后的发监执行。
@@ -113495,6 +113846,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/038.为萧孟能入狱在即致施启扬函.txt
   数据：data/timeline-events-second-book-broad.json#book2-broad-1987-02-28-letter-to-shih-chiyang
+- 1987年3月4日 | 李敖致许水德，追问《千秋评论》与《文星》处理双重标准
+  精度：day；可靠度：reported-by-author；排序日期：1987-03-04
+  摘要：1987年3月4日，李敖致台北市长许水德，副本给司法院院长黄少谷和行政院新闻局局长张京育，请其答复《千秋评论杂志》与《文星杂志》处理为何不同。他在信中追述，自己1981年4月18日获《千秋评论》执照、4月23日实际收到，6月17日萧孟能自诉案被高院枉判有罪，7月10日台北市政府即来函要求变更发行人；李敖收到来函后既大惑不解又恍然大悟，认为高院给市府通风报信形成封杀。信中又列举最高法院后来推翻枉判、萧孟能因窃占与违反国家总动员法被判刑，要求许水德说明是否同样行文萧孟能、是否停止《文星》发行。
+  人物：李敖、许水德、黄少谷、张京育、李登辉、黄老生、萧孟能、林晃、黄剑青、顾锦才
+  地点：台北市政府、行政院新闻局、台湾高等法院、最高法院、台北地方法院
+  标签：许水德、千秋评论、文星杂志、萧孟能、出版法、双重标准、新闻局
+  视图：书信线、出版线、司法线、政治线
+  作品：李敖书牍集、前任作恶，后任当灾、千秋评论杂志、文星杂志
+  交叉引用：book4-1981-04-18-news-bureau-approves-qianqiu-magazine-license、book4-1981-04-23-li-receives-qianqiu-license、book4-1981-06-17-high-court-guilty-verdict-undercuts-license、freedom-summoning-1982-05-14-wins-xiao-mengneng-case、li-ao-zhaji-1987-04-27-writes-news-office-letter-on-fake-wenxing、li-ao-shuduji-1987-04-06-writes-yu-guohua-on-xiao-mengneng-execution-delay、li-ao-shuduji-1987-05-04-writes-xu-shuide-to-sanction-wenxing-107
+  来源：李敖书牍集 / 025.前任作恶，后任当灾 / line 45
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/025.前任作恶，后任当灾.txt
+  数据：data/timeline-events-li-ao-shuduji.json#li-ao-shuduji-1987-03-04-writes-xu-shuide-qianqiu-wenxing-double-standard
+- 1987年3月5日 | 李敖致苏洪月娇并申请查究王剑芬居留延期
+  精度：day；可靠度：reported-by-author；排序日期：1987-03-05
+  摘要：1987年3月5日，李敖致苏洪月娇，收到她来信及台湾省政府警务处长林永鸿复函后，继续追问台北县警察局处理王剑芬外侨居留案。他在信中说明，1月13日曾请苏洪月娇转询姚高桥非法搜查党外书刊却包庇依法应查外国人的问题；如今林永鸿据台北县警察局说法回函，反而显示姚高桥和林永鸿都未正面处理。李敖随后附3月5日给林永鸿的申请书，主张王剑芬既因违反国家总动员法被判有期徒刑三月，台北县警察局不报内政部核示是否限令出境，却擅自延长居留，承办人员有图利嫌疑；附记中他说今早收到限时信，已遵嘱分寄来件。
+  人物：李敖、苏洪月娇、林永鸿、姚高桥、王剑芬、罗张、石田公二、陈茂松
+  地点：台北县警察局、台湾省政府警务处、新店市花园新城、内政部、台北市政府警察局
+  标签：苏洪月娇、林永鸿、姚高桥、王剑芬、外侨居留证、国家总动员法、警政
+  视图：书信线、司法线、警政线、政治线
+  作品：李敖书牍集、警察头子们是什么意思？
+  交叉引用：li-ao-shuduji-1987-01-13-writes-su-hong-yuejiao-on-person-suing-person
+  来源：李敖书牍集 / 026.警察头子们是什么意思？ / line 57
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/026.警察头子们是什么意思？.txt
+  数据：data/timeline-events-li-ao-shuduji.json#li-ao-shuduji-1987-03-05-writes-su-hong-yuejiao-and-applies-on-wang-jianfen-residence
 - 1987年3月8日 | 李敖写法律延宕札记
   精度：day；可靠度：confirmed；排序日期：1987-03-08
   摘要：1987年3月8日，李敖写《法律延宕也别有好处》札记，由哈姆雷特把“法律的延宕”列为人生苦痛之一说起，转而把法律延宕写成一种凌迟敌人的战斗风味，并引用英文谚语“Sow the wind and reap the whirlwind”，说在延宕中看到敌人一个个遭到加倍恶报，也是一种快事。
@@ -113586,6 +113963,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/006.波波颂/047.拳王的索寞.txt
   数据：data/timeline-events-bobo-song.json#bobo-song-1987-03-31-boxer-loneliness
+- 1987年4月4日晨10时 | 李敖晨致任玉斌，请协缉吴祥辉
+  精度：day；可靠度：reported-by-author；排序日期：1987-04-04
+  摘要：1987年4月4日晨10时，李敖致台北市警察局大安分局信义路派出所主管任玉斌，感谢其依法处理吴祥辉涉嫌恐吓及预备杀害案。李敖在信中回述，自己1986年10月18日报请该所侦办，案件经移送后，3月31日晚报已报道吴祥辉依恐吓罪嫌被起诉；今早报纸又称吴祥辉因李敖自诉诽谤案传唤不到、拘提无着而遭台北地方法院通缉。李敖列出吴祥辉住处与《民进周刊》编辑部办公地点，请任玉斌协缉归案。
+  人物：李敖、任玉斌、吴祥辉
+  地点：台北市警察局大安分局、信义路派出所、台北地方法院、和平东路三段、长安东路一段、民进周刊编辑部
+  标签：任玉斌、吴祥辉、恐吓、通缉、信义路派出所、民进周刊、李敖死了
+  视图：书信线、司法线、警政线、出版线
+  作品：李敖书牍集、从恐吓到通缉、李敖死了、民进周刊
+  交叉引用：li-ao-shuduji-1986-12-30-files-private-prosecution-over-zilih-dead-ad、li-ao-shuduji-1987-02-28-writes-wu-shuli-on-court-delay-and-zilih-case
+  来源：李敖书牍集 / 027.从恐吓到通缉 / line 31
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/027.从恐吓到通缉.txt
+  数据：data/timeline-events-li-ao-shuduji.json#li-ao-shuduji-1987-04-04-morning-writes-ren-yubin-to-assist-arrest-wu-xianghui
+- 1987年4月6日 | 李敖致俞国华，查问萧孟能四月刑为何未执行
+  精度：day；可靠度：reported-by-author；排序日期：1987-04-06
+  摘要：1987年4月6日，李敖致行政院院长俞国华，主旨是萧孟能又被判四个月，而法务部长施启扬未督促属下依法处理，要求查办并答复。他在信中列举萧孟能多项前科，说明违反国家总动员法罪已于1986年11月6日最高法院驳回上诉确定，11月14日移送最高法院检察署，11月19日发交台北地检处执行；但至1987年4月6日已近五个月，萧孟能仍在台北逍遥。李敖又说自己2月28日已写信给施启扬督促柴启宸处理，却一个多月无回音，并以施性忠定谳五天即入狱为例，追问“厚萧薄施”的作风何在。
+  人物：李敖、俞国华、萧孟能、施启扬、柴启宸、刘会云、王剑芬、施性忠
+  地点：行政院、法务部、最高法院、最高法院检察署、台北地检处、台北
+  标签：俞国华、萧孟能、施启扬、柴启宸、国家总动员法、执行迟延、法务部
+  视图：书信线、司法线、政治线
+  作品：李敖书牍集、致俞国华先生一封信
+  交叉引用：li-ao-shuduji-1987-03-04-writes-xu-shuide-qianqiu-wenxing-double-standard、freedom-summoning-1982-05-14-wins-xiao-mengneng-case、li-ao-zhaji-1987-04-27-writes-news-office-letter-on-fake-wenxing
+  来源：李敖书牍集 / 028.致俞国华先生一封信 / line 19
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/028.致俞国华先生一封信.txt
+  数据：data/timeline-events-li-ao-shuduji.json#li-ao-shuduji-1987-04-06-writes-yu-guohua-on-xiao-mengneng-execution-delay
 - 1987年4月6日星期一 | 写《“谍海浮尸”与“法海浮书”》
   精度：day；可靠度：confirmed；排序日期：1987-04-06
   摘要：《“谍海浮尸”与“法海浮书”》文末署1987年4月6日夜。
@@ -113599,6 +114002,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/023.“谍海浮尸”与“法海浮书”.txt
   数据：data/timeline-events-second-book.json#book2-1987-04-06-spy-sea-written
+- 1987年4月10日夜2时半 | 李敖夜致邓维桢，谈树敌与择友
+  精度：day；可靠度：reported-by-author；排序日期：1987-04-10
+  摘要：1987年4月10日夜2时半，李敖致邓维桢，先请其代转《自由与人权》给平景，并说明此书并非禁书。他在信中回应邓维桢4月1日来信所说“树敌太多使朋友不敢做朋友”，反而把四处树敌视为检验朋友的方法；李敖自称别人整天做公共关系，自己却整天破坏公共关系、批评人，敌人几乎每半个月多出一窝。信中他又修正王尔德的朋友标准，认为真正的朋友应是在自己疏远他们后仍挺身为真理站在身边的人，并举陈水扁入狱时自己公开讲话、驳斥其“朋友”李筱峰为例。附记中，李敖代胡虚一感谢邓维桢帮忙。
+  人物：李敖、邓维桢、平景、王尔德、陈水扁、李筱峰、胡虚一
+  地点：台湾
+  标签：邓维桢、树敌、择友、王尔德、陈水扁、李筱峰、胡虚一
+  视图：书信线、交游线、政治线
+  作品：李敖书牍集、树敌与择友、自由与人权
+  交叉引用：li-ao-shuduji-1986-12-12-writes-deng-weizhen-on-caishenye-rumor-and-finances、li-ao-duihualu-1984-03-li-ning-interviews-li-ao-on-dangwai-writing-and-friends
+  来源：李敖书牍集 / 029.树敌与择友 / line 23
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/029.树敌与择友.txt
+  数据：data/timeline-events-li-ao-shuduji.json#li-ao-shuduji-1987-04-10-night-writes-deng-weizhen-on-enemies-and-friends
 - 1987年4月13日 | 李敖记胡虚一榻位
   精度：day；可靠度：confirmed；排序日期：1987-04-13
   摘要：1987年4月13日，李敖写《一榻内外》札记，记录胡虚一被“大有为政府”恩准有终老之所，兴冲冲去看后才发现只是一间房中许多榻榻米中的一块。李敖借宋太祖夜访赵普“一榻之外，皆他人家也”的典故，批评国民党如此待遇大陆老兵，称如今天下非国民党所有，遂成一榻之内即他人家。
@@ -113638,6 +114054,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/004.李敖对话录/020.书店升天，作者扫地.txt
   数据：data/timeline-events-li-ao-duihualu.json#li-ao-duihualu-1987-04-17-negotiates-dalin-waterbuffalo-stop-wenxing-reprints
+- 1987年4月21日 | 李敖见梁实秋《文学因缘》时报版后委律师查询授权
+  精度：day；可靠度：reported-by-author；排序日期：1987-04-21
+  摘要：李敖在5月13日致梁实秋信中回述，自己核查《文学因缘》版权旧约后，4月21日看到时报文化出版公司版本，随即委托律师致函该公司查询；对方回信称该书确经梁实秋本人授权。李敖由此确认文星旧版权又被另行处理，成为后来写信要求梁实秋说明、道歉和补偿的直接触发点。
+  人物：李敖、梁实秋、朱晚健、萧孟能
+  地点：台北
+  标签：梁实秋、文学因缘、时报文化出版公司、文星、版权
+  视图：书信线、出版线、司法线
+  作品：李敖书牍集、关于“记忆”的讨论、文学因缘、文星杂志
+  交叉引用：li-ao-shuduji-1987-05-13-night-writes-liang-shiqiu-on-memory-and-wenxing-copyright、li-ao-shuduji-1987-05-16-before-noon-writes-liang-shiqiu-again-on-shakespeare-memory、book5-1987-05-liang-copyright-correspondence-after-two-decades
+  来源：李敖书牍集 / 031.关于“记忆”的讨论 / line 17
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/031.关于“记忆”的讨论.txt
+  数据：data/timeline-events-li-ao-shuduji.json#li-ao-shuduji-1987-04-21-asks-lawyer-to-inquire-times-literary-fate-liang-shiqiu
 - 1987年4月23日夜 | 李敖谈萧孟能和解
   精度：day；可靠度：confirmed；排序日期：1987-04-23
   摘要：1987年4月23日夜8点，李敖在碧富邑见林建，信疆在座。林建说他探监见到萧孟能，劝萧量力，萧孟能同意照李敖此前条件和解：自承1980年8月20日自诉李敖侵占案错误，并向老友李敖道歉；道歉后李敖对自诉萧孟能诬告案不再追究。林建问李敖是否仍同意和解，李敖说同意，并以诸葛亮三气周瑜后还去东吴吊丧开玩笑，表示可同去土城看守所签字，还说会在看守所福利社买水果送萧孟能，以免对方疑心有毒。
@@ -113666,15 +114095,15 @@
   数据：data/timeline-events-li-ao-zhaji.json#li-ao-zhaji-1987-04-26-receives-houston-six-person-call
 - 1987年4月27日 | 李敖处理伪文星
   精度：day；可靠度：confirmed；排序日期：1987-04-27
-  摘要：1987年4月27日，林建星期天晚上未按约留字后，李敖判断对方反复，今早打电话告诉林建自己不等了，大家各显神通。电话后，李敖写给台北市政府新闻处唐处长的信，打字后亲自去市政府；唐处长不在，他见到赵科长并请其注意，赵科长说一直注意。李敖把掐死萧孟能的“伪”文星称作自己的第一道神通，并说此后萧还有苦头吃。
+  摘要：1987年4月27日，林建星期天晚上未按约留字后，李敖判断对方反复，今早打电话告诉林建自己不等了，大家各显神通。电话后，李敖写给台北市政府新闻处唐启明的最速件，要求针对3月4日《千秋评论》与《文星》处理差异答复，并即行扣押5月1日出版的《文星》第一〇七期；他打字后亲自去市政府，唐处长不在，他见到赵科长并请其注意。《书牍集》保存的信中又说明，萧孟能4月17日已入狱执行，若《文星》继续发行，应依《出版法》处理。李敖把掐死萧孟能的“伪”文星称作自己的第一道神通。
   人物：李敖、林建、萧孟能、唐处长、赵科长
   地点：台湾、台北市政府
   标签：札记、伪文星、萧孟能、林建、台北市政府新闻处、唐处长、赵科长、市政府、文星
   视图：出版线、法律线、札记线
   作品：李敖札记、文星
-  交叉引用：li-ao-zhaji-1987-04-23-meets-lin-jian-on-xiao-mengneng-settlement、book2-1987-06-07-wenxing-bookstore-justice、book2-broad-1987-02-28-letter-to-shih-chiyang
+  交叉引用：li-ao-zhaji-1987-04-23-meets-lin-jian-on-xiao-mengneng-settlement、book2-1987-06-07-wenxing-bookstore-justice、book2-broad-1987-02-28-letter-to-shih-chiyang、li-ao-shuduji-1987-03-04-writes-xu-shuide-qianqiu-wenxing-double-standard、li-ao-shuduji-1987-04-06-writes-yu-guohua-on-xiao-mengneng-execution-delay、li-ao-shuduji-1987-05-04-writes-xu-shuide-to-sanction-wenxing-107、li-ao-shuduji-1986-12-27-writes-taipei-news-office-on-eighties-review
   来源：李敖札记 / 110.掐死“伪”文星 / line 11
-  补充来源：-
+  补充来源：李敖书牍集 / 030.答非所问是不行的 / line 35；说明：《书牍集》保存4月27日最速件全文，说明李敖要求唐启明针对问题答复并扣押5月1日《文星》第一〇七期。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/007.李敖札记/110.掐死“伪”文星.txt
   数据：data/timeline-events-li-ao-zhaji.json#li-ao-zhaji-1987-04-27-writes-news-office-letter-on-fake-wenxing
 - 1987年5月1日 | 李敖摘评奔丧规定
@@ -113690,6 +114119,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/007.李敖札记/111.只准家祭，不准奔丧.txt
   数据：data/timeline-events-li-ao-zhaji.json#li-ao-zhaji-1987-05-01-excerpts-labor-mainland-funeral-leave-rule
+- 1987年5月4日 | 李敖再致许水德，请处分《文星》第一〇七期
+  精度：day；可靠度：reported-by-author；排序日期：1987-05-04
+  摘要：1987年5月4日，李敖以最速件致台北市长许水德，请就5月1日出版的《文星杂志》第一〇七期予以行政处分。他在信中说明，4月27日已亲送新闻处收发室一函，要求扣押该期《文星》，并把副本送唐启明处长室女秘书和第一科赵科长；法务部公文已明告萧孟能4月17日入狱执行，若《文星》未依法变更发行人即应扣押。李敖又说自己当天在市面买到仍挂萧孟能发行人名义的《文星》第一〇七期，便要求比照《八十年代评论》依法扣押。附录中，新闻处5月11日承认未去函《文星》变更发行人，5月22日又复告《文星》登记已依新闻局5月13日函核定注销。
+  人物：李敖、许水德、萧孟能、唐启明、赵科长、张京育、柴启宸
+  地点：台北市政府、台北市政府新闻处、行政院新闻局、台北地检处
+  标签：许水德、文星杂志、萧孟能、唐启明、赵科长、出版法、扣押、注销登记
+  视图：书信线、出版线、司法线、政治线
+  作品：李敖书牍集、答非所问是不行的、文星杂志、八十年代评论
+  交叉引用：li-ao-shuduji-1987-03-04-writes-xu-shuide-qianqiu-wenxing-double-standard、li-ao-shuduji-1987-04-06-writes-yu-guohua-on-xiao-mengneng-execution-delay、li-ao-zhaji-1987-04-27-writes-news-office-letter-on-fake-wenxing、li-ao-shuduji-1986-12-27-writes-taipei-news-office-on-eighties-review
+  来源：李敖书牍集 / 030.答非所问是不行的 / line 61
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/030.答非所问是不行的.txt
+  数据：data/timeline-events-li-ao-shuduji.json#li-ao-shuduji-1987-05-04-writes-xu-shuide-to-sanction-wenxing-107
 - 1987年5月6日 | 李敖记吴越潮死讯
   精度：day；可靠度：confirmed；排序日期：1987-05-06
   摘要：1987年5月6日，李敖摘《新生报》洛杉矶电讯，记立法委员吴越潮因心脏病在寓所病逝，享年73岁。李敖追述吴越潮在萧孟能诬告案中曾力持正义，责备萧孟能，并请王铁汉劝胡因梦母女不可作伪证；李敖还称吴越潮私谊上比梁肃戎、费希平更热心助人。
@@ -113768,6 +114210,58 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/018.闹衙纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1987-05-09-kaohsiung-compensation-agreement
+- 1987年5月13日夜 | 李敖夜致梁实秋，要求处理文星版权与“记忆”问题
+  精度：day；可靠度：reported-by-author；排序日期：1987-05-13
+  摘要：1987年5月13日夜，李敖致梁实秋，回顾二十年前自己被警备总部释放找保时曾到梁家求助、梁实秋在特务面前婉拒而自己也不愿累及他的旧事；又提到梁曾推荐他进中研院、购买《告别文坛十书》、由沈登恩转收北京新鲜胡同小学照片。信中李敖又回述《纽约时报》稿件、莎士比亚译稿和《文学因缘》授权争议，并在信末说自己想了又想，决定先写这封信，请梁实秋提出道歉、补偿或解释方案，否则才公开或诉诸法律。
+  人物：李敖、梁实秋、萧孟能、朱晚健、沈登恩、李济
+  地点：台北、北京新鲜胡同小学
+  标签：梁实秋、文星、文学因缘、告别文坛十书、纽约时报、版权
+  视图：书信线、出版线、司法线、朋友线
+  作品：李敖书牍集、关于“记忆”的讨论、文学因缘、告别文坛十书、为文星复刊喝彩
+  交叉引用：li-ao-shuduji-1987-04-21-asks-lawyer-to-inquire-times-literary-fate-liang-shiqiu、li-ao-shuduji-1987-05-16-before-noon-writes-liang-shiqiu-again-on-shakespeare-memory、book5-1966-after-wenxing-liang-refuses-to-guarantee-li、book5-1987-05-liang-copyright-correspondence-after-two-decades、li-ao-shuduji-1986-12-15-writes-shen-dengen-on-no-name-blockade
+  来源：李敖书牍集 / 031.关于“记忆”的讨论 / line 23
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/031.关于“记忆”的讨论.txt
+  数据：data/timeline-events-li-ao-shuduji.json#li-ao-shuduji-1987-05-13-night-writes-liang-shiqiu-on-memory-and-wenxing-copyright
+- 1987年5月16日上午前 | 李敖再致梁实秋，逐条举证莎士比亚译稿与记忆问题
+  精度：day；可靠度：reported-by-author；排序日期：1987-05-16
+  摘要：1987年5月16日上午前，李敖收到梁实秋留在家中的回信；因中午约请百岁老师陈纯吃饭，他先赶写第二封信。李敖在信中逐条引1964年合同、1966年梁实秋来信和萧孟能附注，说明文星曾取得莎士比亚译稿专有权，自己当年因顾惜梁的名誉才阻止公开和法律行动。最后他在信中质疑梁实秋以“记忆”解释旧事的说法，并提醒若记忆说法不成立，便会涉及欺诈和侵害著作权责任。
+  人物：李敖、梁实秋、萧孟能、陈纯
+  地点：台北
+  标签：梁实秋、莎士比亚、文星、文学因缘、著作权、陈纯
+  视图：书信线、出版线、司法线
+  作品：李敖书牍集、关于“记忆”的讨论、莎士比亚全集、文学因缘
+  交叉引用：li-ao-shuduji-1987-04-21-asks-lawyer-to-inquire-times-literary-fate-liang-shiqiu、li-ao-shuduji-1987-05-13-night-writes-liang-shiqiu-on-memory-and-wenxing-copyright、book5-1987-05-liang-copyright-correspondence-after-two-decades
+  来源：李敖书牍集 / 031.关于“记忆”的讨论 / line 79
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/031.关于“记忆”的讨论.txt
+  数据：data/timeline-events-li-ao-shuduji.json#li-ao-shuduji-1987-05-16-before-noon-writes-liang-shiqiu-again-on-shakespeare-memory
+- 1987年5月17日夜 | 李敖夜答李世杰，谈国民党迫害干部与“刑余”史笔
+  精度：day；可靠度：reported-by-author；排序日期：1987-05-17
+  摘要：1987年5月17日夜，李敖回复李世杰，说明自己本想把李世杰2月4日长信与回信一起刊出，却因百余日来又忙又病未能成文。当天重读来信后，他在信中赞许李世杰分析出狱者“不能写”“不敢写”的状态，又区分被国民党迫害的国民党干部与非国民党员李敖；继而引用蒋经国1953年干部政策文字，批评其实际上摧毁干部。李敖在信中读李世杰来信而想起司马迁，认为其牢狱之灾反使作品具有“刑余”力量，期望他继续写出现代《史记》。
+  人物：李敖、李世杰、蒋经国、司马迁
+  地点：台北
+  标签：李世杰、蒋经国、政治犯、国民党干部、司马迁
+  视图：书信线、政治线、坐牢线、朋友线
+  作品：李敖书牍集、二李通信、史记
+  交叉引用：li-ao-shuduji-1987-01-19-night-writes-li-shijie-on-exposing-black-rule、li-ao-shuduji-1987-02-22-writes-li-shijie-from-belly-to-scalp、li-ao-shuxuji-1988-09-08-writes-preface-to-diaochaju-yanjiu-for-li-shijie
+  来源：李敖书牍集 / 032.二李通信 / line 191
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/032.二李通信.txt
+  数据：data/timeline-events-li-ao-shuduji.json#li-ao-shuduji-1987-05-17-night-replies-li-shijie-on-destroying-cadres
+- 1987年6月3日晚上 | 李敖病中为郑南榕赶写黄信介、张俊宏、魏廷朝出狱杂感
+  精度：day；可靠度：reported-by-author；排序日期：1987-06-03
+  摘要：李敖在6月14日致刘辰旦信中回述，6月6日刘辰旦来看他那天的前两晚，即6月3日晚上，他仍在病中，却为郑南榕的《自由时代周刊》赶出《对黄信介、张俊宏、魏廷朝出狱的杂感》。李敖后来把文章寄给刘辰旦，请他影印代寄李政一；郑南榕又转述魏廷朝看后称这是李敖写得最客气的一篇文章。
+  人物：李敖、郑南榕、刘辰旦、黄信介、张俊宏、魏廷朝、李政一、彭明敏
+  地点：台北
+  标签：郑南榕、刘辰旦、黄信介、张俊宏、魏廷朝、自由时代周刊、病中写作
+  视图：书信线、政治线、写作线、朋友线
+  作品：李敖书牍集、寄刘辰旦谈党外内史、对黄信介、张俊宏、魏廷朝出狱的杂感、自由时代周刊
+  交叉引用：li-ao-shuduji-1987-06-14-writes-liu-chendan-on-dangwai-inner-history、book2-1985-09-25-too-light-written、book2-1987-07-17-letter-to-li-zhengyi
+  来源：李敖书牍集 / 033.寄刘辰旦谈党外内史 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/033.寄刘辰旦谈党外内史.txt
+  数据：data/timeline-events-li-ao-shuduji.json#li-ao-shuduji-1987-06-03-night-ill-writes-huang-zhang-wei-release-reflection-for-zheng-nanrong
 - 1987年6月7日星期日 | 写《为文星书店争公道》
   精度：day；可靠度：confirmed；排序日期：1987-06-07
   摘要：《为文星书店争公道》文末署1987年6月7日，围绕文星书店开业登记、所有权与萧孟能相关争议展开。
@@ -113794,6 +114288,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/010.根株纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1987-06-08-minshengbao-xu-kaichen-interview
+- 1987年6月11日 | 李敖赴台中探丁颖，归途在车站答陈英彪问立委抗争
+  精度：day；可靠度：reported-by-author；排序日期：1987-06-11
+  摘要：李敖在6月14日致刘辰旦信中回述，三天前即6月11日去台中，因丁颖衰病而到丁家探望，并留下钱。返程时在车站，一位陈英彪上前自我介绍，问他民进党立委在立法院大闹的行动是否可以肯定；李敖当场回答，如果表里一致、不是演戏，就可以肯定。
+  人物：李敖、丁颖、陈英彪、刘辰旦
+  地点：台中、车站、立法院
+  标签：丁颖、陈英彪、民进党、立法院、台中
+  视图：书信线、政治线、朋友线、出行线
+  作品：李敖书牍集、寄刘辰旦谈党外内史、时报周刊
+  交叉引用：li-ao-shuduji-1987-06-14-writes-liu-chendan-on-dangwai-inner-history、li-ao-shuhanji-1970-08-25-writes-ding-ying-ad-copy-for-wang-xiaobo-ivory-tower
+  来源：李敖书牍集 / 033.寄刘辰旦谈党外内史 / line 9
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/033.寄刘辰旦谈党外内史.txt
+  数据：data/timeline-events-li-ao-shuduji.json#li-ao-shuduji-1987-06-11-visits-ding-ying-in-taichung-and-talks-with-chen-yingbiao
+- 1987年6月12日 | 李敖在计程车里听朱高正反对国安法广播而冷笑
+  精度：day；可靠度：reported-by-author；排序日期：1987-06-12
+  摘要：李敖在6月14日致刘辰旦信中回述，前天即6月12日立法院前抗议《国安法》行动发生时，他在计程车里听到广播，说朱高正谈话表示反对，听后不禁冷笑。李敖随即在信中对照朱高正不到一年前在《自由台湾》社论中主张“体制外反对”的文字，质疑朱后来进入国民党控制的代议机构后的政治姿态。
+  人物：李敖、朱高正、刘辰旦
+  地点：台北、计程车、立法院
+  标签：朱高正、国安法、立法院、自由台湾、计程车
+  视图：书信线、政治线、听闻线
+  作品：李敖书牍集、寄刘辰旦谈党外内史、自由台湾
+  交叉引用：li-ao-shuduji-1987-06-14-writes-liu-chendan-on-dangwai-inner-history、liao-xinkan-1987-06-23-first-demand-letter-to-ni-wenya-on-zhu-gaozheng、liao-xinkan-1988-12-21-029-ni-wenya-replies
+  来源：李敖书牍集 / 033.寄刘辰旦谈党外内史 / line 19
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/033.寄刘辰旦谈党外内史.txt
+  数据：data/timeline-events-li-ao-shuduji.json#li-ao-shuduji-1987-06-12-hears-zhu-gaozheng-radio-in-taxi-and-cold-laughs
 - 1987年6月13日 | 《民生报》报道李敖告於梨华文星版权案
   精度：day；可靠度：undefined；排序日期：1987-06-13
   摘要：1987年6月13日《民生报》报道李敖又告了於梨华。李敖在访问中说明，於梨华《归》《也是秋天》两书早在1963年3月25日和1964年5月间先后让渡给文星书店朱婉坚，但他查出她1970年12月间又转卖给皇冠出版社平鑫涛，因此趁她十六年后回台时提出告诉。
@@ -113807,6 +114327,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/004.李敖对话录/020.书店升天，作者扫地.txt
   数据：data/timeline-events-li-ao-duihualu.json#li-ao-duihualu-1987-06-13-sues-yu-lihua-over-wenxing-copyright
+- 1987年6月14日 | 李敖致刘辰旦，病后杂写党外内史与朱高正问题
+  精度：day；可靠度：reported-by-author；排序日期：1987-06-14
+  摘要：1987年6月14日，李敖致刘辰旦，感谢其寄来名贵茶叶并关心病况，说明自己这一阵子太累，进出医院，才稍离医药。信中他回述郑南榕谈彭明敏海外杂志攻击李敖一事、魏廷朝读文反应、6月11日赴台中探丁颖、6月12日在计程车里听朱高正反对《国安法》广播等事；又大段对照朱高正在《自由台湾》和立法院中的表现，并在信中判断自己不喜欢政治人物，是因为台上台下对照常使他觉得被他们戏弄。信末他称这封信是“信手拉杂写党外内史”。
+  人物：李敖、刘辰旦、郑南榕、彭明敏、魏廷朝、丁颖、陈英彪、朱高正、邓维桢
+  地点：台北、台中、立法院
+  标签：刘辰旦、郑南榕、彭明敏、魏廷朝、丁颖、朱高正、党外内史、国安法
+  视图：书信线、政治线、朋友线
+  作品：李敖书牍集、寄刘辰旦谈党外内史、自由时代周刊、自由台湾、时报周刊
+  交叉引用：li-ao-shuduji-1987-06-03-night-ill-writes-huang-zhang-wei-release-reflection-for-zheng-nanrong、li-ao-shuduji-1987-06-11-visits-ding-ying-in-taichung-and-talks-with-chen-yingbiao、li-ao-shuduji-1987-06-12-hears-zhu-gaozheng-radio-in-taxi-and-cold-laughs、liao-xinkan-1987-06-23-first-demand-letter-to-ni-wenya-on-zhu-gaozheng、liao-xinkan-1988-12-21-029-ni-wenya-replies
+  来源：李敖书牍集 / 033.寄刘辰旦谈党外内史 / line 63
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/033.寄刘辰旦谈党外内史.txt
+  数据：data/timeline-events-li-ao-shuduji.json#li-ao-shuduji-1987-06-14-writes-liu-chendan-on-dangwai-inner-history
 - 1987年6月17日午 | 李敖在《书店升天，作者扫地》中详谈文星复业与版权战
   精度：day；可靠度：undefined；排序日期：1987-06-17
   摘要：李敖在1987年6月17日午的《书店升天，作者扫地》中，集中说明文星书店独资登记、朱婉坚权利、与大林和水牛的协议、蔡文甫《没有观众的舞台》、於梨华《归》《也是秋天》、何凡《不按牌理出牌》、文星停业政治原因，以及余光中也将被告等版权问题。他把这场行动定位为透过法院与舆论，为世道人心做施教与炯戒。
@@ -113841,9 +114374,9 @@
   标签：张桂贞、张佩华、台中一中、禁书、查扣
   视图：司法线、家庭线、出版线
   作品：李敖快意恩仇录
-  交叉引用：-
+  交叉引用：li-ao-shuduji-1987-08-01-morning-writes-guochang-after-taichung-raid
   来源：李敖快意恩仇录 / 018.闹衙纪 / line 11
-  补充来源：-
+  补充来源：李敖书牍集 / 037.盗贼政府 / line 5；说明：李敖8月1日信中回提台中母亲住所被非法搜查、台北台中三处藏书被大卡车搬走。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/018.闹衙纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1987-06-22-receives-letter-about-taichung-raid
 - 1987年6月23日星期二 | 李敖透过法院发催告信要求倪文亚告发朱高正
@@ -113854,9 +114387,9 @@
   标签：李敖新刊、倪文亚、朱高正、催告书、立法院、1987
   视图：书信线、司法线、政治线
   作品：李敖新刊、倪文亚答复李敖事件、李敖催告书
-  交叉引用：liao-xinkan-1988-12-21-029-ni-wenya-replies
+  交叉引用：liao-xinkan-1988-12-21-029-ni-wenya-replies、li-ao-shuduji-1987-06-12-hears-zhu-gaozheng-radio-in-taxi-and-cold-laughs、li-ao-shuduji-1987-06-14-writes-liu-chendan-on-dangwai-inner-history
   来源：李敖新刊 / 029.倪文亚答复李敖事件 / line 25
-  补充来源：李敖新刊 / 029.倪文亚答复李敖事件 / line 5；说明：正文概述催告信内容与法律理由。；李敖新刊 / 029.倪文亚答复李敖事件 / line 23；说明：文内题名为“李敖催告书”。
+  补充来源：李敖新刊 / 029.倪文亚答复李敖事件 / line 5；说明：正文概述催告信内容与法律理由。；李敖新刊 / 029.倪文亚答复李敖事件 / line 23；说明：文内题名为“李敖催告书”。；李敖书牍集 / 033.寄刘辰旦谈党外内史 / line 19；说明：6月14日信已记录李敖对朱高正在立法院言行与国安法表态的观察，是后续催告倪文亚链条的背景。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/012.李敖新刊/029.倪文亚答复李敖事件.txt
   数据：data/timeline-events-li-ao-xinkan.json#liao-xinkan-1987-06-23-first-demand-letter-to-ni-wenya-on-zhu-gaozheng
 - 1987年6月24日星期三 | 李敖把《能下床就是好猫》题赠林英喆、徐开尘、邱海岳
@@ -113880,9 +114413,9 @@
   标签：张桂贞、台中市政府、三联单、国家赔偿
   视图：司法线、家庭线、出版线
   作品：李敖快意恩仇录
-  交叉引用：-
+  交叉引用：li-ao-shuduji-1987-08-01-morning-writes-guochang-after-taichung-raid
   来源：李敖快意恩仇录 / 018.闹衙纪 / line 11
-  补充来源：-
+  补充来源：李敖书牍集 / 037.盗贼政府 / line 5；说明：李敖8月1日信中说明自己因台中母亲住所被非法搜查，必须赶回台中处理。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/018.闹衙纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1987-06-24-goes-taichung-after-raid
 - 1987年7月1日星期三 | 立法院秘书长函复李敖致倪文亚催告信
@@ -113906,9 +114439,9 @@
   标签：张桂贞、台中市政府、国家赔偿、损害赔偿请求书
   视图：司法线、家庭线、书信线
   作品：李敖快意恩仇录
-  交叉引用：-
+  交叉引用：li-ao-shuduji-1987-08-01-morning-writes-guochang-after-taichung-raid
   来源：李敖快意恩仇录 / 018.闹衙纪 / line 11
-  补充来源：千秋万岁乌鸦求是合集 / 156.驳斥台中市长张子源 / line 17；说明：后续法律文书重申张桂贞案国家赔偿请求的侵权与赔偿法理。
+  补充来源：千秋万岁乌鸦求是合集 / 156.驳斥台中市长张子源 / line 17；说明：后续法律文书重申张桂贞案国家赔偿请求的侵权与赔偿法理。；李敖书牍集 / 037.盗贼政府 / line 7；说明：李敖8月1日信中补述台中搜查造成藏书损失与“盗贼政府”判断。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/018.闹衙纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1987-07-01-zhang-guizhen-claim-against-taichung
 - 1987年7月6日星期一 | 《蒋介石研究三集》遭扣押处分
@@ -113932,9 +114465,9 @@
   标签：李敖新刊、倪文亚、朱高正、立法院、催告、1987
   视图：书信线、司法线、政治线
   作品：李敖新刊、倪文亚答复李敖事件
-  交叉引用：liao-xinkan-1988-12-21-029-ni-wenya-replies
+  交叉引用：liao-xinkan-1988-12-21-029-ni-wenya-replies、li-ao-shuduji-1987-06-12-hears-zhu-gaozheng-radio-in-taxi-and-cold-laughs、li-ao-shuduji-1987-06-14-writes-liu-chendan-on-dangwai-inner-history
   来源：李敖新刊 / 029.倪文亚答复李敖事件 / line 45
-  补充来源：李敖新刊 / 029.倪文亚答复李敖事件 / line 7；说明：正文转述李敖再函的主要措辞。
+  补充来源：李敖新刊 / 029.倪文亚答复李敖事件 / line 7；说明：正文转述李敖再函的主要措辞。；李敖书牍集 / 033.寄刘辰旦谈党外内史 / line 19；说明：6月14日信已记录李敖对朱高正在立法院言行与国安法表态的观察，是后续催告倪文亚链条的背景。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/012.李敖新刊/029.倪文亚答复李敖事件.txt
   数据：data/timeline-events-li-ao-xinkan.json#liao-xinkan-1987-07-13-li-ao-again-demands-ni-wenya-report-zhu-gaozheng
 - 1987年7月14日星期二 | 李敖写《真值得写它一笔》
@@ -113952,17 +114485,30 @@
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1987-07-14-073-writes-worth-recording
 - 1987年7月14日星期二 | 解严之际写《刘辰旦——患难见真情的朋友》
   精度：day；可靠度：confirmed；排序日期：1987-07-14
-  摘要：李敖在文章末尾署1987年7月14日夜12时，注明“所谓解严之际在台北写”，追忆刘辰旦与白色恐怖案件。
+  摘要：《刘辰旦——患难见真情的朋友》文末署1987年7月14日。李敖后来在7月17日致李政一信中说明，刘辰旦7月25日至30日在高雄开书画展，他特别赶成此文作为展出“序”，详述患难之交，并引到李政一狱中字条。
   人物：李敖、刘辰旦
   地点：台北
   标签：刘辰旦、解严、写作
   视图：出版线、交游线、生平线
   作品：刘辰旦——患难见真情的朋友
-  交叉引用：-
+  交叉引用：book2-1987-07-17-letter-to-li-zhengyi、li-ao-shuduji-1987-07-16-appeals-after-martial-law-lift
   来源：李敖自传与回忆续集 / 017.刘辰旦——患难见真情的朋友 / line 157
-  补充来源：-
+  补充来源：李敖书牍集 / 034.给李政一的一封信 / line 17；说明：李敖在7月17日信中说明赶写刘辰旦展览序文的缘起和李政一狱中字条入文。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/017.刘辰旦——患难见真情的朋友.txt
   数据：data/timeline-events-second-book.json#book2-1987-07-14-liu-chendan-essay-written
+- 1987年7月16日 | 李敖与黄信介等在解严后提出上诉
+  精度：day；可靠度：reported-by-author；排序日期：1987-07-16
+  摘要：李敖在7月17日致李政一信中回述，国民党在7月15日“演戏式”解除戒严后，竟禁止政治犯解严后无条件上诉；他因此不服气，决定上诉。7月16日，李敖、黄信介、张俊宏、颜明圣都提出上诉，但《中央日报》和《自立晚报》都故意不发李敖上诉消息；李敖在信中借此再次说明自己在台湾受到的封锁比其他党外人士更严重。
+  人物：李敖、李政一、黄信介、张俊宏、颜明圣
+  地点：台湾、台北
+  标签：解严、戒严法、上诉、政治犯、中央日报、自立晚报
+  视图：书信线、司法线、政治线、媒体线
+  作品：李敖书牍集、给李政一的一封信
+  交叉引用：book2-1987-07-17-letter-to-li-zhengyi、li-ao-zhaji-1986-04-08-comments-519-green-action-and-martial-law、book2-1987-07-14-liu-chendan-essay-written
+  来源：李敖书牍集 / 034.给李政一的一封信 / line 7
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/034.给李政一的一封信.txt
+  数据：data/timeline-events-li-ao-shuduji.json#li-ao-shuduji-1987-07-16-appeals-after-martial-law-lift
 - 1987年7月16日星期四 | 倪文亚以毛笔宣纸长函回复李敖
   精度：day；可靠度：confirmed；排序日期：1987-07-16
   摘要：《倪文亚答复李敖事件》收录，1987年7月16日倪文亚写信给李敖，回应他7月13日来函。李敖后来称这封四页信以毛笔写在宣纸上，措辞客气，但在朱高正问题上仍嫌闪躲。
@@ -113978,15 +114524,15 @@
   数据：data/timeline-events-li-ao-xinkan.json#liao-xinkan-1987-07-16-ni-wenya-brush-letter-replies-to-li-ao
 - 1987年7月17日星期五 | 写《给李政一的一封信》
   精度：day；可靠度：confirmed；排序日期：1987-07-17
-  摘要：《给李政一的一封信》文末署“巴大哥 1987年7月17日”，延续白色恐怖案中朋友间的通信与申辩。
+  摘要：《给李政一的一封信》文末署“巴大哥 1987年7月17日”。李敖写给李政一，回望十年前仁爱庄分别、七年前李政一“偷渡”后来信和两年多前电话；又说7月16日自己与黄信介、张俊宏、颜明圣在解严后上诉，却被《中央日报》和《自立晚报》封锁消息。信中还说明自己赶写《刘辰旦——患难见真情的朋友》作为刘辰旦高雄展序，并引用李政一狱中字条，只遗憾无法夹带出李政一用铁丝敲成的耳挖。
   人物：李敖、李政一
   地点：台湾
   标签：李政一、书信、写作
   视图：出版线、交游线
   作品：给李政一的一封信
-  交叉引用：-
+  交叉引用：li-ao-shuduji-1987-07-16-appeals-after-martial-law-lift、book2-1987-07-14-liu-chendan-essay-written、li-ao-shuduji-1987-06-03-night-ill-writes-huang-zhang-wei-release-reflection-for-zheng-nanrong
   来源：李敖自传与回忆续集 / 018.给李政一的一封信 / line 25
-  补充来源：-
+  补充来源：李敖书牍集 / 034.给李政一的一封信 / line 25；说明：《李敖书牍集》同文补足仁爱庄旧别、解严后上诉、刘辰旦序文和狱中字条细节。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/018.给李政一的一封信.txt
   数据：data/timeline-events-second-book.json#book2-1987-07-17-letter-to-li-zhengyi
 - 1987年7月17日星期五 | 李敖写《一首预言诗》
@@ -114023,11 +114569,24 @@
   标签：李敖新刊、倪文亚、朱高正、催告函、立法院、1987
   视图：书信线、司法线、政治线
   作品：李敖新刊、倪文亚答复李敖事件、李敖催告函
-  交叉引用：liao-xinkan-1988-12-21-029-ni-wenya-replies
+  交叉引用：liao-xinkan-1988-12-21-029-ni-wenya-replies、li-ao-shuduji-1987-06-12-hears-zhu-gaozheng-radio-in-taxi-and-cold-laughs、li-ao-shuduji-1987-06-14-writes-liu-chendan-on-dangwai-inner-history
   来源：李敖新刊 / 029.倪文亚答复李敖事件 / line 93
-  补充来源：李敖新刊 / 029.倪文亚答复李敖事件 / line 91；说明：文内题名为“李敖催告函”。；李敖新刊 / 029.倪文亚答复李敖事件 / line 105；说明：主旨载明要求倪文亚五日内提出告发。
+  补充来源：李敖新刊 / 029.倪文亚答复李敖事件 / line 91；说明：文内题名为“李敖催告函”。；李敖新刊 / 029.倪文亚答复李敖事件 / line 105；说明：主旨载明要求倪文亚五日内提出告发。；李敖书牍集 / 033.寄刘辰旦谈党外内史 / line 19；说明：6月14日信已记录李敖对朱高正在立法院言行与国安法表态的观察，是后续催告倪文亚链条的背景。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/012.李敖新刊/029.倪文亚答复李敖事件.txt
   数据：data/timeline-events-li-ao-xinkan.json#liao-xinkan-1987-07-22-li-ao-sends-second-demand-letter-to-ni-wenya
+- 1987年7月22日雷声中 | 李敖在雷声中致心仪，论定知识分子的着眼点
+  精度：day；可靠度：reported-by-author；排序日期：1987-07-22
+  摘要：1987年7月22日“雷声中”，李敖致心仪，读其《悼念郑学稼先生》后劝她考虑是否该照原样发表。他在信中认为心仪因私情私谊而对郑学稼过度溢美，强调论定知识分子必须从立身大节着眼，不能只看私德。李敖又在信中写到郑学稼佩服陈独秀却投身国民党政工头子王昇旗下，并由此想起徐复观佩服熊十力却做蒋介石家臣的矛盾。
+  人物：李敖、曾心仪、郑学稼、陈独秀、王昇、徐复观、熊十力、许历农、胡秋原
+  地点：台北
+  标签：心仪、郑学稼、知识分子、陈独秀、王昇、徐复观、熊十力
+  视图：书信线、思想线、政治线
+  作品：李敖书牍集、论定知识分子的着眼点、悼念郑学稼先生
+  交叉引用：li-ao-shuduji-1987-07-29-writes-xinyi-on-zheng-xuejia-old-wang-mazi、zaonian-riji-1966-01-06-talks-with-xu-fuguan-at-new-china-hotel
+  来源：李敖书牍集 / 035.论定知识分子的着眼点 / line 21
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/035.认定知识分子的着眼点.txt
+  数据：data/timeline-events-li-ao-shuduji.json#li-ao-shuduji-1987-07-22-thunder-writes-xinyi-on-judging-intellectuals
 - 1987年7月24日星期五 | 写《为旧帐算新帐》
   精度：day；可靠度：confirmed；排序日期：1987-07-24
   摘要：《为旧帐算新帐》文末署1987年7月24日下午，回顾1962年《播种者胡适》及其后的笔仗旧账。
@@ -114067,6 +114626,45 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/005.我与胡适的“微妙关系”.txt
   数据：data/timeline-events-second-book.json#book2-1987-07-27-hu-shih-relationship-written
+- 1987年7月29日 | 李敖致心仪，反驳郑学稼提供反共理论之说
+  精度：day；可靠度：reported-by-author；排序日期：1987-07-29
+  摘要：1987年7月29日，李敖致心仪，收到她7月25日来信后，称赞她处理《悼念郑学稼先生》的方式，但不同意她说郑学稼在知识封闭环境中提供某些反共理论。李敖在信中大段摘引郑学稼早年自述、称赞马克思和神秘化马克思主义的文字，判断郑只是拿马克思这个“老王麻子”去反毛泽东这个“王麻子”，方法上不能算真正反共。信末他说明自己只是想证明不能同意“郑学稼提供反共理论”的说法，并希望这番举证对心仪有帮助。
+  人物：李敖、曾心仪、郑学稼、马克思、毛泽东、徐复观
+  地点：台北
+  标签：心仪、郑学稼、马克思、毛泽东、反共理论、徐复观
+  视图：书信线、思想线、政治线
+  作品：李敖书牍集、“老王麻子”能反“王麻子”吗？、悼念郑学稼先生
+  交叉引用：li-ao-shuduji-1987-07-22-thunder-writes-xinyi-on-judging-intellectuals、zaonian-riji-1966-01-06-talks-with-xu-fuguan-at-new-china-hotel
+  来源：李敖书牍集 / 036.“老王麻子”能反“王麻子”吗？ / line 281
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/036.“老王麻子”能反“王麻子”吗？.txt
+  数据：data/timeline-events-li-ao-shuduji.json#li-ao-shuduji-1987-07-29-writes-xinyi-on-zheng-xuejia-old-wang-mazi
+- 1987年8月1日晨 | 李敖晨致国昌，因台中母亲住所被搜须返台中处理
+  精度：day；可靠度：reported-by-author；排序日期：1987-08-01
+  摘要：1987年8月1日晨，李敖致国昌兄，说明台中母亲住所遭国民党政府非法搜查，损失不赀且凌乱不堪，自己必须赶回台中处理，无法接待对方。他在信中退还港币一千元，说明书是赠送不能收钱，又说自己的台北、台中三处藏书处都被非法搜查，大卡车满载而去，导致《千秋》《万岁》全套越来越难保全。李敖在信中称国民党政府兼具小偷与强盗气质，是“盗贼政府”，并回忆第一次坐牢时台北、台中家也曾同时被非法搜查抄家。
+  人物：李敖、国昌、则奋、张桂贞
+  地点：台中、台北
+  标签：台中搜查、张桂贞、藏书、千秋评论、万岁评论、盗贼政府
+  视图：书信线、司法线、出版线、家庭线
+  作品：李敖书牍集、盗贼政府、千秋评论、万岁评论
+  交叉引用：book5-1987-06-22-receives-letter-about-taichung-raid、book5-1987-06-24-goes-taichung-after-raid、book5-1987-07-01-zhang-guizhen-claim-against-taichung、liao-xinkan-1988-12-22-030-appeal-for-zhang-guizhen
+  来源：李敖书牍集 / 037.盗贼政府 / line 15
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/037.盗贼政府.txt
+  数据：data/timeline-events-li-ao-shuduji.json#li-ao-shuduji-1987-08-01-morning-writes-guochang-after-taichung-raid
+- 1987年8月3日 | 李敖致吴三连，寄《蒋经国死了》并预告“吴三连死了”
+  精度：day；可靠度：reported-by-author；排序日期：1987-08-03
+  摘要：1987年8月3日，李敖致吴三连，引用郑贞铭谈美国诽谤法的文字，对照《自立晚报》刊“李敖死了”、称李敖为“水蛭”的广告若在美国等文明国家必然难逃刑责。因台北地院作出枉法裁判为《自立晚报》开脱，李敖在信中说明自己已印出《蒋经国死了》并随信附上一册，以证明自己言出必行、吴三连等人如何“祸延小蒋”；他又在信中想，吴三连有生之年也可能见到《吴三连死了》一书。
+  人物：李敖、吴三连、蒋经国、郑贞铭、吴丰山、颜文闩、吴祥辉
+  地点：台北
+  标签：吴三连、自立晚报、李敖死了、蒋经国死了、吴三连死了、诽谤、郑贞铭
+  视图：书信线、司法线、媒体线、出版线
+  作品：李敖书牍集、给吴三连的预告信、蒋经国死了、吴三连死了、李敖死了、自立晚报
+  交叉引用：li-ao-shuduji-1986-12-20-writes-zilih-evening-news-demanding-ad-explanation、li-ao-shuduji-1986-12-30-files-private-prosecution-over-zilih-dead-ad、li-ao-shuduji-1987-02-26-noon-writes-xu-wenbin-on-zilih-defense-and-death-ads、li-ao-shuduji-1987-02-28-writes-wu-shuli-on-court-delay-and-zilih-case、li-ao-zhaji-1987-09-23-contrasts-li-ao-dead-with-chiang-ching-kuo-study
+  来源：李敖书牍集 / 038.给吴三连的预告信 / line 15
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/038.给吴三连的预告信.txt
+  数据：data/timeline-events-li-ao-shuduji.json#li-ao-shuduji-1987-08-03-writes-wu-sanlian-chiang-ching-kuo-dead-book-warning
 - 1987年8月11日 | 李敖评两党骑人
   精度：day；可靠度：confirmed；排序日期：1987-08-11
   摘要：1987年8月11日，李敖写国民党骑在人民头上，台湾人即使独立，也未必不会骑在自己人民头上；他把当时若干政治杂碎与国民党并列，称其为“同样货色”的党与骑。
@@ -114153,9 +114751,9 @@
   标签：札记、李敖死了、蒋经国研究、蒋经国、谤书、广告、民进党、党外、国民党同路人
   视图：出版线、法律线、政治线、札记线
   作品：李敖札记、蒋经国研究、李敖死了
-  交叉引用：liao-xinkan-1986-10-22-writes-zilih-evening-news-after-li-ao-dead-ad、liao-xinkan-1988-09-18-010-judges-fear-press-tycoons、liao-xinkan-1988-before-sep-18-sues-asian-magazine-li-ao-dead-ad、qiushi-xinyu-1990-01-13-two-years-after-chiang-ching-kuo-death、li-ao-zhaji-1986-11-03-notes-chiang-kai-shek-study-publication、book8-1986-11-02-chiang-kai-shek-study-banned、li-ao-zhaji-1987-09-23-writes-enemies-living-and-dead-note
+  交叉引用：liao-xinkan-1986-10-22-writes-zilih-evening-news-after-li-ao-dead-ad、liao-xinkan-1988-09-18-010-judges-fear-press-tycoons、liao-xinkan-1988-before-sep-18-sues-asian-magazine-li-ao-dead-ad、qiushi-xinyu-1990-01-13-two-years-after-chiang-ching-kuo-death、li-ao-zhaji-1986-11-03-notes-chiang-kai-shek-study-publication、book8-1986-11-02-chiang-kai-shek-study-banned、li-ao-zhaji-1987-09-23-writes-enemies-living-and-dead-note、li-ao-shuduji-1987-08-03-writes-wu-sanlian-chiang-ching-kuo-dead-book-warning
   来源：李敖札记 / 118.从“李敖死了”到“蒋经国死了” / line 3
-  补充来源：-
+  补充来源：李敖书牍集 / 038.给吴三连的预告信 / line 13；说明：8月3日信已说明李敖印出《蒋经国死了》并寄吴三连，是9月札记对照死亡标题的前置行动。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/007.李敖札记/118.从“李敖死了”到“蒋经国死了”.txt
   数据：data/timeline-events-li-ao-zhaji.json#li-ao-zhaji-1987-09-23-contrasts-li-ao-dead-with-chiang-ching-kuo-study
 - 1987年10月11日星期日 | 《外交·性交·交》被处定期停发一年并扣押
@@ -114342,15 +114940,15 @@
   数据：data/timeline-events-li-ao-duihualu.json#li-ao-duihualu-1987-04-zhu-wanjian-returns-and-authorizes-wenxing-copyright-to-li-ao
 - 1987年5月 | 李敖因梁实秋一稿两卖涉及文星版权而与其通信
   精度：month；可靠度：confirmed；排序日期：1987-05-31
-  摘要：《根株纪》写，李敖自梁实秋拒绝作保后约二十年不敢再连累他；直到1987年5月间，因梁实秋一稿两卖、涉及文星版权，两人才再通过信。
+  摘要：《根株纪》写，李敖自梁实秋拒绝作保后约二十年不敢再连累他；1987年4月21日李敖看到时报文化公司出版梁实秋《文学因缘》并委律师查询授权，5月13日夜与5月16日上午前先后致梁实秋通信，围绕《文学因缘》、莎士比亚译稿和文星旧版权要求说明。
   人物：李敖、梁实秋、朱婉坚
   地点：台湾
   标签：梁实秋、文星版权、一稿两卖、朱婉坚
   视图：出版线、司法线、交游线
   作品：李敖快意恩仇录
-  交叉引用：-
+  交叉引用：li-ao-shuduji-1987-04-21-asks-lawyer-to-inquire-times-literary-fate-liang-shiqiu、li-ao-shuduji-1987-05-13-night-writes-liang-shiqiu-on-memory-and-wenxing-copyright、li-ao-shuduji-1987-05-16-before-noon-writes-liang-shiqiu-again-on-shakespeare-memory
   来源：李敖快意恩仇录 / 010.根株纪 / line 31
-  补充来源：-
+  补充来源：李敖书牍集 / 031.关于“记忆”的讨论 / line 23；说明：《李敖书牍集》收录1987年5月13日与5月16日两封信，补足日级通信和争议细节。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/010.根株纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1987-05-liang-copyright-correspondence-after-two-decades
 - 1987年10月 | 出版《李敖自传与回忆》与《李敖自传与回忆续集》
@@ -115442,9 +116040,9 @@
   标签：李敖新刊、倪文亚、朱高正、催告书、1988
   视图：写作线、司法线、政治线
   作品：李敖新刊、倪文亚答复李敖事件
-  交叉引用：-
+  交叉引用：li-ao-shuduji-1987-06-12-hears-zhu-gaozheng-radio-in-taxi-and-cold-laughs、li-ao-shuduji-1987-06-14-writes-liu-chendan-on-dangwai-inner-history
   来源：李敖新刊 / 029.倪文亚答复李敖事件 / line 19
-  补充来源：-
+  补充来源：李敖书牍集 / 033.寄刘辰旦谈党外内史 / line 19；说明：6月14日信已记录李敖对朱高正在立法院言行与国安法表态的观察，是后续催告倪文亚链条的背景。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/012.李敖新刊/029.倪文亚答复李敖事件.txt
   数据：data/timeline-events-li-ao-xinkan.json#liao-xinkan-1988-12-21-029-ni-wenya-replies
 - 1988年12月22日星期四 | 李敖代张桂贞写上诉状批驳台中高分院推事

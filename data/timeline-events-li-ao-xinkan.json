@@ -1123,7 +1123,31 @@
       "chapter": "029.倪文亚答复李敖事件",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/012.李敖新刊/029.倪文亚答复李敖事件.txt",
       "line": 19
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖书牍集",
+        "chapter": "033.寄刘辰旦谈党外内史",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/033.寄刘辰旦谈党外内史.txt",
+        "line": 19,
+        "lines": [
+          19,
+          33,
+          35,
+          39,
+          43,
+          49,
+          53,
+          55,
+          63
+        ],
+        "note": "6月14日信已记录李敖对朱高正在立法院言行与国安法表态的观察，是后续催告倪文亚链条的背景。"
+      }
+    ],
+    "crossReferences": [
+      "li-ao-shuduji-1987-06-12-hears-zhu-gaozheng-radio-in-taxi-and-cold-laughs",
+      "li-ao-shuduji-1987-06-14-writes-liu-chendan-on-dangwai-inner-history"
+    ]
   },
   {
     "id": "liao-xinkan-1988-12-22-030-appeal-for-zhang-guizhen",
@@ -1617,7 +1641,9 @@
     ],
     "certainty": "confirmed",
     "crossReferences": [
-      "liao-xinkan-1988-12-21-029-ni-wenya-replies"
+      "liao-xinkan-1988-12-21-029-ni-wenya-replies",
+      "li-ao-shuduji-1987-06-12-hears-zhu-gaozheng-radio-in-taxi-and-cold-laughs",
+      "li-ao-shuduji-1987-06-14-writes-liu-chendan-on-dangwai-inner-history"
     ],
     "source": {
       "book": "李敖新刊",
@@ -1639,6 +1665,24 @@
         "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/012.李敖新刊/029.倪文亚答复李敖事件.txt",
         "line": 23,
         "note": "文内题名为“李敖催告书”。"
+      },
+      {
+        "book": "李敖书牍集",
+        "chapter": "033.寄刘辰旦谈党外内史",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/033.寄刘辰旦谈党外内史.txt",
+        "line": 19,
+        "lines": [
+          19,
+          33,
+          35,
+          39,
+          43,
+          49,
+          53,
+          55,
+          63
+        ],
+        "note": "6月14日信已记录李敖对朱高正在立法院言行与国安法表态的观察，是后续催告倪文亚链条的背景。"
       }
     ]
   },
@@ -1739,7 +1783,9 @@
     ],
     "certainty": "confirmed",
     "crossReferences": [
-      "liao-xinkan-1988-12-21-029-ni-wenya-replies"
+      "liao-xinkan-1988-12-21-029-ni-wenya-replies",
+      "li-ao-shuduji-1987-06-12-hears-zhu-gaozheng-radio-in-taxi-and-cold-laughs",
+      "li-ao-shuduji-1987-06-14-writes-liu-chendan-on-dangwai-inner-history"
     ],
     "source": {
       "book": "李敖新刊",
@@ -1754,6 +1800,24 @@
         "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/012.李敖新刊/029.倪文亚答复李敖事件.txt",
         "line": 7,
         "note": "正文转述李敖再函的主要措辞。"
+      },
+      {
+        "book": "李敖书牍集",
+        "chapter": "033.寄刘辰旦谈党外内史",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/033.寄刘辰旦谈党外内史.txt",
+        "line": 19,
+        "lines": [
+          19,
+          33,
+          35,
+          39,
+          43,
+          49,
+          53,
+          55,
+          63
+        ],
+        "note": "6月14日信已记录李敖对朱高正在立法院言行与国安法表态的观察，是后续催告倪文亚链条的背景。"
       }
     ]
   },
@@ -1905,7 +1969,9 @@
     ],
     "certainty": "confirmed",
     "crossReferences": [
-      "liao-xinkan-1988-12-21-029-ni-wenya-replies"
+      "liao-xinkan-1988-12-21-029-ni-wenya-replies",
+      "li-ao-shuduji-1987-06-12-hears-zhu-gaozheng-radio-in-taxi-and-cold-laughs",
+      "li-ao-shuduji-1987-06-14-writes-liu-chendan-on-dangwai-inner-history"
     ],
     "source": {
       "book": "李敖新刊",
@@ -1927,6 +1993,24 @@
         "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/012.李敖新刊/029.倪文亚答复李敖事件.txt",
         "line": 105,
         "note": "主旨载明要求倪文亚五日内提出告发。"
+      },
+      {
+        "book": "李敖书牍集",
+        "chapter": "033.寄刘辰旦谈党外内史",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/033.寄刘辰旦谈党外内史.txt",
+        "line": 19,
+        "lines": [
+          19,
+          33,
+          35,
+          39,
+          43,
+          49,
+          53,
+          55,
+          63
+        ],
+        "note": "6月14日信已记录李敖对朱高正在立法院言行与国安法表态的观察，是后续催告倪文亚链条的背景。"
       }
     ]
   },
@@ -2769,7 +2853,7 @@
     "displayDate": "1986年10月22日星期三后",
     "datePrecision": "after-date-context",
     "title": "李敖因《自立晚报》刊“李敖死了”广告而去信并提告",
-    "summary": "《台湾的法官最怕报阀》追述，1986年10月22日《自立晚报》出现大幅“李敖死了”广告。李敖看后去信给发行人吴三连、社长吴丰山、总编辑颜文闩，要求依新闻记者信条与报业道德规范解释；对方不理后，李敖将他们告到法院。",
+    "summary": "《台湾的法官最怕报阀》追述，1986年10月22日《自立晚报》出现大幅“李敖死了”广告。李敖看后于12月20日去信给发行人吴三连和吴丰山，要求依新闻记者信条与报业道德规范解释；对方不理后，12月30日李敖将吴三连、吴丰山、颜文闩和广告作者吴祥辉告到法院。",
     "view": [
       "司法线",
       "媒体线"
@@ -2801,14 +2885,47 @@
     "certainty": "confirmed",
     "crossReferences": [
       "liao-xinkan-1988-09-18-010-judges-fear-press-tycoons",
-      "li-ao-zhaji-1987-09-23-contrasts-li-ao-dead-with-chiang-ching-kuo-study"
+      "li-ao-zhaji-1987-09-23-contrasts-li-ao-dead-with-chiang-ching-kuo-study",
+      "li-ao-shuduji-1986-12-20-writes-zilih-evening-news-demanding-ad-explanation",
+      "li-ao-shuduji-1986-12-30-files-private-prosecution-over-zilih-dead-ad"
     ],
     "source": {
       "book": "李敖新刊",
       "chapter": "010.台湾的法官最怕报阀",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/012.李敖新刊/010.台湾的法官最怕报阀.txt",
       "line": 5
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖书牍集",
+        "chapter": "016.有关《自立晚报》的函与状",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/016.有关《自立晚报》的函与状.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          7,
+          11,
+          13,
+          15,
+          17,
+          19,
+          21
+        ],
+        "note": "《书牍集》补出李敖1986年12月20日致《自立晚报》函的全文。"
+      },
+      {
+        "book": "李敖书牍集",
+        "chapter": "016.有关《自立晚报》的函与状",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/016.有关《自立晚报》的函与状.txt",
+        "line": 23,
+        "lines": [
+          23,
+          25
+        ],
+        "note": "《书牍集》补出李敖1986年12月30日自诉状的全文。"
+      }
+    ]
   },
   {
     "id": "liao-xinkan-1970-03-17-xiao-letter-to-li-on-feng-zuomin-royalty",

@@ -136,7 +136,20 @@
     },
     "crossReferences": [
       "book2-broad-1986-09-10-clean-version-written",
-      "li-ao-zawenji-1966-01-01-wenxing-ad-humphrey-book"
+      "li-ao-zawenji-1966-01-01-wenxing-ad-humphrey-book",
+      "li-ao-shuduji-1986-09-16-writes-wang-rongwen-returning-proofs-and-criticizing-revived-wenxing"
+    ],
+    "additionalSources": [
+      {
+        "book": "李敖书牍集",
+        "chapter": "002.银纸包个臭皮蛋",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/002.银纸包个臭皮蛋.txt",
+        "line": 9,
+        "lines": [
+          9
+        ],
+        "note": "1986年9月16日致王荣文信中再次点明复刊《文星》两篇韩福瑞文章真实作者为当年李敖。"
+      }
     ]
   },
   {
@@ -199,12 +212,23 @@
         "chapter": "011.关于韩福瑞和他的思想",
         "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/011.关于韩福瑞和他的思想.txt",
         "line": 7
+      },
+      {
+        "book": "李敖书牍集",
+        "chapter": "002.银纸包个臭皮蛋",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/002.银纸包个臭皮蛋.txt",
+        "line": 9,
+        "lines": [
+          9
+        ],
+        "note": "1986年9月16日致王荣文信中再次点明复刊《文星》两篇韩福瑞文章真实作者为当年李敖。"
       }
     ],
     "crossReferences": [
       "book2-broad-1986-09-10-clean-version-written",
       "book5-1965-12-27-wenxing-one-year-suspension",
-      "li-ao-zawenji-1966-01-01-wenxing-ad-humphrey-book"
+      "li-ao-zawenji-1966-01-01-wenxing-ad-humphrey-book",
+      "li-ao-shuduji-1986-09-16-writes-wang-rongwen-returning-proofs-and-criticizing-revived-wenxing"
     ]
   },
   {

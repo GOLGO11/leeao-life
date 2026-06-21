@@ -902,7 +902,8 @@
       "line": 3
     },
     "crossReferences": [
-      "li-ao-shujianji-letterpaper-1986-09-05-noon-letter-recounts-wang-jianfen-xiao-mengneng-executions"
+      "li-ao-shujianji-letterpaper-1986-09-05-noon-letter-recounts-wang-jianfen-xiao-mengneng-executions",
+      "li-ao-shuduji-1986-09-16-writes-wang-rongwen-returning-proofs-and-criticizing-revived-wenxing"
     ],
     "additionalSources": [
       {
@@ -914,6 +915,19 @@
           27
         ],
         "note": "1986年9月5日致王尚勤信中回述萧孟能最近复刊《文星》，李敖随后又演出查封戏。"
+      },
+      {
+        "book": "李敖书牍集",
+        "chapter": "002.银纸包个臭皮蛋",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/002.银纸包个臭皮蛋.txt",
+        "line": 15,
+        "lines": [
+          9,
+          11,
+          13,
+          15
+        ],
+        "note": "1986年9月16日致王荣文信中再次评论复刊《文星》广告打回、韩福瑞文章出自李敖，以及社内“保安人员”字样。"
       }
     ]
   },
@@ -962,11 +976,24 @@
         "chapter": "011.关于韩福瑞和他的思想",
         "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/011.关于韩福瑞和他的思想.txt",
         "line": 3
+      },
+      {
+        "book": "李敖书牍集",
+        "chapter": "002.银纸包个臭皮蛋",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/002.银纸包个臭皮蛋.txt",
+        "line": 9,
+        "lines": [
+          9,
+          11,
+          13
+        ],
+        "note": "《书牍集》002补充李敖在致王荣文信中称复刊《文星》试图消灭李敖却仍刊出两篇李敖旧作痕迹。"
       }
     ],
     "crossReferences": [
       "li-ao-zawenji-1966-before-feb-chen-xiangmei-humphrey-article-rewritten-by-li",
-      "li-ao-zawenji-1966-before-feb-xiao-mengneng-humphrey-preface-written-by-li"
+      "li-ao-zawenji-1966-before-feb-xiao-mengneng-humphrey-preface-written-by-li",
+      "li-ao-shuduji-1986-09-16-writes-wang-rongwen-returning-proofs-and-criticizing-revived-wenxing"
     ]
   },
   {

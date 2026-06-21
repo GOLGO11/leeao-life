@@ -45,7 +45,8 @@
       "小偷与上帝"
     ],
     "crossReferences": [
-      "li-ao-zhaji-1985-12-24-comments-minzu-evening-news-nude-photo"
+      "li-ao-zhaji-1985-12-24-comments-minzu-evening-news-nude-photo",
+      "li-ao-shuduji-1986-11-07-morning-writes-zhang-jingyu-left-right-breast-and-lu-xun-ban"
     ],
     "source": {
       "book": "李敖札记",
@@ -73,6 +74,17 @@
           27
         ],
         "note": "《书笺集》017保存致张京育原信，署1985年1月19日晨，补出1985年1月9日《中央日报》《小偷与上帝》裸照材料。"
+      },
+      {
+        "book": "李敖书牍集",
+        "chapter": "007.左奶、右奶，查禁哪只奶？",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/007.左奶、右奶，查禁哪只奶？.txt",
+        "line": 9,
+        "lines": [
+          7,
+          9
+        ],
+        "note": "1986年11月7日再致张京育信中大段追述1985年1月19日“三点不露”原信。"
       }
     ]
   },
@@ -3720,7 +3732,9 @@
     "works": [
       "李敖札记"
     ],
-    "crossReferences": [],
+    "crossReferences": [
+      "li-ao-shuduji-1987-07-16-appeals-after-martial-law-lift"
+    ],
     "source": {
       "book": "李敖札记",
       "chapter": "067.戒严四十年？",
@@ -3730,7 +3744,22 @@
         3
       ],
       "note": "李敖写札记回顾台湾戒严日、郑南榕五一九绿色行动及孙运璿答复许荣淑的戒严说法。"
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖书牍集",
+        "chapter": "034.给李政一的一封信",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/034.给李政一的一封信.txt",
+        "line": 7,
+        "lines": [
+          7,
+          9,
+          11,
+          13
+        ],
+        "note": "7月17日信回述解严后上诉与“解严秀”，补足戒严议题的后续节点。"
+      }
+    ]
   },
   {
     "datePrecision": "day",
@@ -4759,7 +4788,8 @@
       "李敖札记"
     ],
     "crossReferences": [
-      "li-ao-yulu-1986-09-09-li-ao-zhaji-workaholic"
+      "li-ao-yulu-1986-09-09-li-ao-zhaji-workaholic",
+      "li-ao-shuduji-1986-10-12-writes-shen-dengen-on-gifts-weizhen-and-carrying-items-method"
     ],
     "source": {
       "book": "李敖札记",
@@ -4770,7 +4800,21 @@
         3
       ],
       "note": "李敖说明自己在家走动时顺手带资料归位、分类入档的“来回带物法”。"
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖书牍集",
+        "chapter": "004.来回带物法",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/004.来回带物法.txt",
+        "line": 9,
+        "lines": [
+          7,
+          9,
+          11
+        ],
+        "note": "《书牍集》004以致沈登恩信形式重收“来回带物法”，并补出沈登恩、邓维桢、胡虚一等书信语境。"
+      }
+    ]
   },
   {
     "datePrecision": "day",
@@ -4905,7 +4949,8 @@
     "crossReferences": [
       "book8-1986-11-02-chiang-kai-shek-study-banned",
       "li-ao-zhaji-1987-09-23-writes-enemies-living-and-dead-note",
-      "li-ao-zhaji-1987-09-23-contrasts-li-ao-dead-with-chiang-ching-kuo-study"
+      "li-ao-zhaji-1987-09-23-contrasts-li-ao-dead-with-chiang-ching-kuo-study",
+      "li-ao-shuduji-1986-10-31-secretly-puts-chiang-kai-shek-study-on-press"
     ],
     "source": {
       "book": "李敖札记",
@@ -4917,7 +4962,20 @@
         5
       ],
       "note": "李敖记《蒋介石研究》出版后的政治意义，并批评党外在蒋介石冥诞前后噤若寒蝉。"
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖书牍集",
+        "chapter": "006.“惭愧公荣文王”",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/006.“惭愧公荣文王”.txt",
+        "line": 7,
+        "lines": [
+          5,
+          7
+        ],
+        "note": "1986年11月3日致王荣文信中回述赶在10月31日蒋介石冥诞时秘密上版《蒋介石研究》。"
+      }
+    ]
   },
   {
     "datePrecision": "day",
@@ -5805,7 +5863,7 @@
     "date": "1987-04-27",
     "displayDate": "1987年4月27日",
     "title": "李敖处理伪文星",
-    "summary": "1987年4月27日，林建星期天晚上未按约留字后，李敖判断对方反复，今早打电话告诉林建自己不等了，大家各显神通。电话后，李敖写给台北市政府新闻处唐处长的信，打字后亲自去市政府；唐处长不在，他见到赵科长并请其注意，赵科长说一直注意。李敖把掐死萧孟能的“伪”文星称作自己的第一道神通，并说此后萧还有苦头吃。",
+    "summary": "1987年4月27日，林建星期天晚上未按约留字后，李敖判断对方反复，今早打电话告诉林建自己不等了，大家各显神通。电话后，李敖写给台北市政府新闻处唐启明的最速件，要求针对3月4日《千秋评论》与《文星》处理差异答复，并即行扣押5月1日出版的《文星》第一〇七期；他打字后亲自去市政府，唐处长不在，他见到赵科长并请其注意。《书牍集》保存的信中又说明，萧孟能4月17日已入狱执行，若《文星》继续发行，应依《出版法》处理。李敖把掐死萧孟能的“伪”文星称作自己的第一道神通。",
     "view": [
       "出版线",
       "法律线",
@@ -5840,7 +5898,11 @@
     "crossReferences": [
       "li-ao-zhaji-1987-04-23-meets-lin-jian-on-xiao-mengneng-settlement",
       "book2-1987-06-07-wenxing-bookstore-justice",
-      "book2-broad-1987-02-28-letter-to-shih-chiyang"
+      "book2-broad-1987-02-28-letter-to-shih-chiyang",
+      "li-ao-shuduji-1987-03-04-writes-xu-shuide-qianqiu-wenxing-double-standard",
+      "li-ao-shuduji-1987-04-06-writes-yu-guohua-on-xiao-mengneng-execution-delay",
+      "li-ao-shuduji-1987-05-04-writes-xu-shuide-to-sanction-wenxing-107",
+      "li-ao-shuduji-1986-12-27-writes-taipei-news-office-on-eighties-review"
     ],
     "source": {
       "book": "李敖札记",
@@ -5851,7 +5913,27 @@
         11
       ],
       "note": "李敖记录林建未留字后，自己致电林建、写信给台北市政府新闻处并亲赴市政府处理“伪文星”。"
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖书牍集",
+        "chapter": "030.答非所问是不行的",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/030.答非所问是不行的.txt",
+        "line": 35,
+        "lines": [
+          5,
+          9,
+          11,
+          13,
+          17,
+          23,
+          29,
+          31,
+          35
+        ],
+        "note": "《书牍集》保存4月27日最速件全文，说明李敖要求唐启明针对问题答复并扣押5月1日《文星》第一〇七期。"
+      }
+    ]
   },
   {
     "datePrecision": "day",
@@ -6206,7 +6288,8 @@
       "qiushi-xinyu-1990-01-13-two-years-after-chiang-ching-kuo-death",
       "li-ao-zhaji-1986-11-03-notes-chiang-kai-shek-study-publication",
       "book8-1986-11-02-chiang-kai-shek-study-banned",
-      "li-ao-zhaji-1987-09-23-writes-enemies-living-and-dead-note"
+      "li-ao-zhaji-1987-09-23-writes-enemies-living-and-dead-note",
+      "li-ao-shuduji-1987-08-03-writes-wu-sanlian-chiang-ching-kuo-dead-book-warning"
     ],
     "source": {
       "book": "李敖札记",
@@ -6217,7 +6300,21 @@
         3
       ],
       "note": "李敖把“李敖死了”谤书、广告与自己出版《蒋经国研究》对照。"
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖书牍集",
+        "chapter": "038.给吴三连的预告信",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/038.给吴三连的预告信.txt",
+        "line": 13,
+        "lines": [
+          11,
+          13,
+          15
+        ],
+        "note": "8月3日信已说明李敖印出《蒋经国死了》并寄吴三连，是9月札记对照死亡标题的前置行动。"
+      }
+    ]
   },
   {
     "datePrecision": "day",

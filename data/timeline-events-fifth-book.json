@@ -2531,7 +2531,22 @@
       "chapter": "010.根株纪",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/010.根株纪.txt",
       "line": 29
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖书牍集",
+        "chapter": "031.关于“记忆”的讨论",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/031.关于“记忆”的讨论.txt",
+        "line": 9,
+        "lines": [
+          9
+        ],
+        "note": "李敖在1987年5月13日信中补述《纽约时报》英文稿请梁实秋协助而被婉拒的经过。"
+      }
+    ],
+    "crossReferences": [
+      "li-ao-shuduji-1987-05-13-night-writes-liang-shiqiu-on-memory-and-wenxing-copyright"
+    ]
   },
   {
     "id": "book5-1963-05-liang-recommends-li-to-academia-sinica",
@@ -2571,7 +2586,22 @@
       "chapter": "010.根株纪",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/010.根株纪.txt",
       "line": 47
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖书牍集",
+        "chapter": "031.关于“记忆”的讨论",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/031.关于“记忆”的讨论.txt",
+        "line": 7,
+        "lines": [
+          7
+        ],
+        "note": "李敖在1987年5月13日致梁实秋信中回述梁曾写信给李济，建议中研院史语所收纳李敖。"
+      }
+    ],
+    "crossReferences": [
+      "li-ao-shuduji-1987-05-13-night-writes-liang-shiqiu-on-memory-and-wenxing-copyright"
+    ]
   },
   {
     "id": "book5-1963-11-05-visits-xu-zhuoyun-home",
@@ -5664,7 +5694,23 @@
       "chapter": "018.闹衙纪",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/018.闹衙纪.txt",
       "line": 7
-    }
+    },
+    "crossReferences": [
+      "li-ao-shuduji-1986-10-29-writes-xu-shuide-demanding-punishment-and-compensation"
+    ],
+    "additionalSources": [
+      {
+        "book": "李敖书牍集",
+        "chapter": "005.贵市长言而无信，令人羞羞",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/005.贵市长言而无信，令人羞羞.txt",
+        "line": 19,
+        "lines": [
+          19,
+          21
+        ],
+        "note": "1986年10月29日李敖致许水德函回述1985年6月24日国家赔偿请求、台北市同意赔款6901元并承诺处分警员。"
+      }
+    ]
   },
   {
     "id": "book5-1985-08-29-taipei-city-compensation-check",
@@ -5703,7 +5749,23 @@
       "chapter": "018.闹衙纪",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/018.闹衙纪.txt",
       "line": 7
-    }
+    },
+    "crossReferences": [
+      "li-ao-shuduji-1986-10-29-writes-xu-shuide-demanding-punishment-and-compensation"
+    ],
+    "additionalSources": [
+      {
+        "book": "李敖书牍集",
+        "chapter": "005.贵市长言而无信，令人羞羞",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/005.贵市长言而无信，令人羞羞.txt",
+        "line": 19,
+        "lines": [
+          19,
+          21
+        ],
+        "note": "1986年10月29日李敖致许水德函回述1985年6月24日国家赔偿请求、台北市同意赔款6901元并承诺处分警员。"
+      }
+    ]
   },
   {
     "id": "book5-1985-04-15-publishes-i-paint-my-hat",
@@ -5985,7 +6047,25 @@
       "chapter": "018.闹衙纪",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/018.闹衙纪.txt",
       "line": 11
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖书牍集",
+        "chapter": "037.盗贼政府",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/037.盗贼政府.txt",
+        "line": 5,
+        "lines": [
+          5,
+          7,
+          9,
+          15
+        ],
+        "note": "李敖8月1日信中回提台中母亲住所被非法搜查、台北台中三处藏书被大卡车搬走。"
+      }
+    ],
+    "crossReferences": [
+      "li-ao-shuduji-1987-08-01-morning-writes-guochang-after-taichung-raid"
+    ]
   },
   {
     "id": "book5-1987-06-24-goes-taichung-after-raid",
@@ -6022,7 +6102,24 @@
       "chapter": "018.闹衙纪",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/018.闹衙纪.txt",
       "line": 11
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖书牍集",
+        "chapter": "037.盗贼政府",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/037.盗贼政府.txt",
+        "line": 5,
+        "lines": [
+          5,
+          7,
+          15
+        ],
+        "note": "李敖8月1日信中说明自己因台中母亲住所被非法搜查，必须赶回台中处理。"
+      }
+    ],
+    "crossReferences": [
+      "li-ao-shuduji-1987-08-01-morning-writes-guochang-after-taichung-raid"
+    ]
   },
   {
     "id": "book5-1987-07-01-zhang-guizhen-claim-against-taichung",
@@ -6066,7 +6163,23 @@
         "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/156.驳斥台中市长张子源.txt",
         "line": 17,
         "note": "后续法律文书重申张桂贞案国家赔偿请求的侵权与赔偿法理。"
+      },
+      {
+        "book": "李敖书牍集",
+        "chapter": "037.盗贼政府",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/037.盗贼政府.txt",
+        "line": 7,
+        "lines": [
+          5,
+          7,
+          9,
+          15
+        ],
+        "note": "李敖8月1日信中补述台中搜查造成藏书损失与“盗贼政府”判断。"
       }
+    ],
+    "crossReferences": [
+      "li-ao-shuduji-1987-08-01-morning-writes-guochang-after-taichung-raid"
     ]
   },
   {
@@ -7902,7 +8015,22 @@
       "chapter": "010.根株纪",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/010.根株纪.txt",
       "line": 31
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖书牍集",
+        "chapter": "031.关于“记忆”的讨论",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/031.关于“记忆”的讨论.txt",
+        "line": 7,
+        "lines": [
+          7
+        ],
+        "note": "李敖在1987年5月13日信中回想二十年前警备总部释放后找保、到梁实秋家又避免累及梁的情境。"
+      }
+    ],
+    "crossReferences": [
+      "li-ao-shuduji-1987-05-13-night-writes-liang-shiqiu-on-memory-and-wenxing-copyright"
+    ]
   },
   {
     "id": "book5-1987-05-liang-copyright-correspondence-after-two-decades",
@@ -7910,7 +8038,7 @@
     "displayDate": "1987年5月",
     "datePrecision": "month",
     "title": "李敖因梁实秋一稿两卖涉及文星版权而与其通信",
-    "summary": "《根株纪》写，李敖自梁实秋拒绝作保后约二十年不敢再连累他；直到1987年5月间，因梁实秋一稿两卖、涉及文星版权，两人才再通过信。",
+    "summary": "《根株纪》写，李敖自梁实秋拒绝作保后约二十年不敢再连累他；1987年4月21日李敖看到时报文化公司出版梁实秋《文学因缘》并委律师查询授权，5月13日夜与5月16日上午前先后致梁实秋通信，围绕《文学因缘》、莎士比亚译稿和文星旧版权要求说明。",
     "view": [
       "出版线",
       "司法线",
@@ -7939,7 +8067,29 @@
       "chapter": "010.根株纪",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/010.根株纪.txt",
       "line": 31
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖书牍集",
+        "chapter": "031.关于“记忆”的讨论",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/031.关于“记忆”的讨论.txt",
+        "line": 23,
+        "lines": [
+          7,
+          9,
+          13,
+          17,
+          19,
+          23
+        ],
+        "note": "《李敖书牍集》收录1987年5月13日与5月16日两封信，补足日级通信和争议细节。"
+      }
+    ],
+    "crossReferences": [
+      "li-ao-shuduji-1987-04-21-asks-lawyer-to-inquire-times-literary-fate-liang-shiqiu",
+      "li-ao-shuduji-1987-05-13-night-writes-liang-shiqiu-on-memory-and-wenxing-copyright",
+      "li-ao-shuduji-1987-05-16-before-noon-writes-liang-shiqiu-again-on-shakespeare-memory"
+    ]
   },
   {
     "id": "book5-1987-06-08-minshengbao-xu-kaichen-interview",

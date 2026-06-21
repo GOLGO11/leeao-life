@@ -1027,14 +1027,29 @@
       "book2-broad-1982-07-20-xiao-sues-wenxing-selection",
       "book2-broad-1982-11-30-lin-maoxiong-dismisses-xiao",
       "book2-broad-1983-01-29-high-court-dismisses-xiao-appeal",
-      "freedom-summoning-1982-before-june-edits-wenxing-anthology"
+      "freedom-summoning-1982-before-june-edits-wenxing-anthology",
+      "li-ao-shuduji-1987-03-04-writes-xu-shuide-qianqiu-wenxing-double-standard",
+      "li-ao-shuduji-1987-04-06-writes-yu-guohua-on-xiao-mengneng-execution-delay"
     ],
     "source": {
       "book": "为自由招魂",
       "chapter": "013.月亮属于谁的？",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/009.为自由招魂/013.月亮属于谁的？.txt",
       "line": 23
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖书牍集",
+        "chapter": "025.前任作恶，后任当灾",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/025.前任作恶，后任当灾.txt",
+        "line": 37,
+        "lines": [
+          37,
+          39
+        ],
+        "note": "1987年3月4日致许水德信中追述最高法院以六件判决书推翻高院枉法裁判。"
+      }
+    ]
   },
   {
     "id": "freedom-summoning-1982-before-june-edits-wenxing-anthology",

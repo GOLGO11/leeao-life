@@ -1230,6 +1230,16 @@
           39
         ],
         "note": "1984年5月访问追述第二次政治牢前申请《千秋评论》杂志与封杀经过。"
+      },
+      {
+        "book": "李敖书牍集",
+        "chapter": "025.前任作恶，后任当灾",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/025.前任作恶，后任当灾.txt",
+        "line": 13,
+        "lines": [
+          13
+        ],
+        "note": "1987年3月4日致许水德信中追述1981年4月18日申请到《千秋评论杂志》执照。"
       }
     ]
   },
@@ -1261,14 +1271,27 @@
     ],
     "certainty": "confirmed",
     "crossReferences": [
-      "book4-1981-04-18-news-bureau-approves-qianqiu-magazine-license"
+      "book4-1981-04-18-news-bureau-approves-qianqiu-magazine-license",
+      "li-ao-shuduji-1987-03-04-writes-xu-shuide-qianqiu-wenxing-double-standard"
     ],
     "source": {
       "book": "李敖回忆录",
       "chapter": "018.笔伐（1982-1992·47到57岁）",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/018.笔伐（1982-1992·47到57岁）.txt",
       "line": 5
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖书牍集",
+        "chapter": "025.前任作恶，后任当灾",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/025.前任作恶，后任当灾.txt",
+        "line": 13,
+        "lines": [
+          13
+        ],
+        "note": "1987年3月4日致许水德信中追述1981年4月23日执照发下。"
+      }
+    ]
   },
   {
     "id": "book4-1981-06-17-high-court-guilty-verdict-undercuts-license",
@@ -1276,7 +1299,7 @@
     "displayDate": "1981年6月17日星期三",
     "datePrecision": "day",
     "title": "高院改判有罪使李敖杂志执照陷入危机",
-    "summary": "李敖记述，执照发下仅五十五天后的1981年6月17日，高院把原先地院无罪的萧孟能案突然改判有罪，直接为后来注销《千秋评论》发行人登记铺路。",
+    "summary": "李敖记述，执照发下仅五十五天后的1981年6月17日，高院把原先地院无罪的萧孟能案突然改判有罪，直接为后来注销《千秋评论》发行人登记铺路。1987年3月4日致许水德信中，他又追述收到台北市政府来函后既大惑不解又恍然大悟，认为高院给市府通风报信，是联合作业封杀李敖。",
     "view": [
       "司法线",
       "出版线",
@@ -1304,7 +1327,8 @@
     ],
     "certainty": "confirmed",
     "crossReferences": [
-      "book2-1980-08-26-xiao-accuses-li-embezzlement"
+      "book2-1980-08-26-xiao-accuses-li-embezzlement",
+      "li-ao-shuduji-1987-03-04-writes-xu-shuide-qianqiu-wenxing-double-standard"
     ],
     "source": {
       "book": "李敖回忆录",
@@ -1318,6 +1342,20 @@
         "chapter": "011.在废墟中营建",
         "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/011.在废墟中营建.txt",
         "line": 145
+      },
+      {
+        "book": "李敖书牍集",
+        "chapter": "025.前任作恶，后任当灾",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/025.前任作恶，后任当灾.txt",
+        "line": 35,
+        "lines": [
+          13,
+          15,
+          25,
+          33,
+          35
+        ],
+        "note": "1987年3月4日致许水德信中追述高院判决、台北市政府来函和李敖对联合封杀的判断。"
       }
     ]
   },

@@ -991,7 +991,8 @@
       "中国名著精华全集"
     ],
     "crossReferences": [
-      "qianqiu-wansui-1983-11-10-051-publishes-battle-is-test-of-dangwai"
+      "qianqiu-wansui-1983-11-10-051-publishes-battle-is-test-of-dangwai",
+      "li-ao-shuduji-1987-04-10-night-writes-deng-weizhen-on-enemies-and-friends"
     ]
   },
   {
@@ -1686,7 +1687,20 @@
       "李敖对话录"
     ],
     "crossReferences": [
-      "li-ao-zhaji-1986-04-08-comments-519-green-action-and-martial-law"
+      "li-ao-zhaji-1986-04-08-comments-519-green-action-and-martial-law",
+      "li-ao-shuduji-1986-12-12-writes-deng-weizhen-on-caishenye-rumor-and-finances"
+    ],
+    "additionalSources": [
+      {
+        "book": "李敖书牍集",
+        "chapter": "012.“财神爷”的悄悄话",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/007.李敖书牍集/012.“财神爷”的悄悄话.txt",
+        "line": 11,
+        "lines": [
+          11
+        ],
+        "note": "李敖在1986年12月12日致邓维桢信中自述五一九绿色行动龙山寺捐十万元。"
+      }
     ]
   },
   {
