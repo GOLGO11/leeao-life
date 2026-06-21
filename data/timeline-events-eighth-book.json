@@ -79,7 +79,7 @@
     "displayDate": "1987年9月10日星期四",
     "datePrecision": "day",
     "title": "《孙中山研究》初版后因封面标题受行政处分",
-    "summary": "《李敖著作查禁清单及官方理由》录，李敖出版社发行的《孙中山研究》于1987年9月10日初版，随后因封面把“孙中山卖国”标题醒目置于国父遗像之上，被认定违反出版法，遭到禁止出售、散布并扣押出版品的行政处分。这条材料把此前只到年份的《孙中山研究》节点推进到日级，并补足其受处分的官方理由。",
+    "summary": "《李敖著作查禁清单及官方理由》录，李敖出版社发行的《孙中山研究》于1987年9月10日初版；9月25日台北市政府新闻处处长唐启明决行，以（76）府新一字第193305号“最速件”行政处分该书，理由是封面把“孙中山卖国”标题醒目置于国父遗像之上，被认定违反出版法而遭禁止出售、散布并扣押出版品。",
     "view": [
       "出版线",
       "司法线",
@@ -105,7 +105,10 @@
     ],
     "certainty": "confirmed",
     "crossReferences": [
-      "book5-1987-writes-sun-yatsen-study"
+      "book5-1987-writes-sun-yatsen-study",
+      "li-ao-shuhanji-letterbox-1987-09-25-taipei-city-bans-sun-yat-sen-study",
+      "li-ao-shuhanji-letterbox-1987-09-30-writes-yan-jinfu-and-files-appeal-on-sun-yat-sen-study",
+      "li-ao-shuhanji-letterbox-1987-10-22-writes-open-letter-to-shao-yuming"
     ],
     "source": {
       "book": "李敖相关",
@@ -127,6 +130,19 @@
         "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/024.批判国民党.txt",
         "line": 189,
         "note": "李敖回顾其批判孙中山主线，称1987年出版《孙中山研究》。"
+      },
+      {
+        "book": "李敖书函集",
+        "chapter": "002.查禁《孙中山研究》的荒谬理由",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/008.李敖书函集/002.查禁《孙中山研究》的荒谬理由.txt",
+        "line": 9,
+        "lines": [
+          9,
+          11,
+          13,
+          23
+        ],
+        "note": "《李敖书函集》补出9月25日最速件处分与9月30日致颜锦福追问许水德的脉络。"
       }
     ]
   },
@@ -166,7 +182,27 @@
       "chapter": "006.李敖著作查禁清单及官方理由",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/008.李敖相关/006.李敖著作查禁清单及官方理由.txt",
       "line": 397
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖书函集",
+        "chapter": "003.给新闻局局长邵玉铭的公开信",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/008.李敖书函集/003.给新闻局局长邵玉铭的公开信.txt",
+        "line": 77,
+        "lines": [
+          75,
+          77,
+          79,
+          81,
+          89
+        ],
+        "note": "10月22日公开信补出10月9日台北市政府最速件处分、10月11日至次年10月10日停止发行一年。"
+      }
+    ],
+    "crossReferences": [
+      "li-ao-shuhanji-letterbox-1987-10-09-taipei-city-punishes-qianqiu-71",
+      "li-ao-shuhanji-letterbox-1987-10-22-writes-open-letter-to-shao-yuming"
+    ]
   },
   {
     "id": "book8-1990-06-09-uses-writers-directory-on-ctv-to-protest-exclusion",

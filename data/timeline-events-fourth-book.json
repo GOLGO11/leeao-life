@@ -3782,7 +3782,7 @@
     "displayDate": "1989年4月14日星期五",
     "datePrecision": "day",
     "title": "“来台四十周年纪念演讲会”在耕莘文教院爆满举行",
-    "summary": "1989年4月14日，李敖的“来台四十周年纪念演讲会”在耕莘文教院举行，场内外人山人海，演讲后签名卖书一下卖空五十万元，并由黄菊文特别安排便衣暗中保护。",
+    "summary": "1989年4月14日，李敖的“来台四十周年纪念演讲会”在耕莘文教院举行，场内外人山人海，演讲后签名卖书一下卖空五十万元，并由黄菊文特别安排便衣暗中保护。吴文亮当晚来信补记现场：李敖讲足两小时仍精力充沛，排队签名人潮延续很久，李敖女儿也在旁替书签名，施性忠担任主持。",
     "view": [
       "生平线",
       "思想线",
@@ -3825,10 +3825,32 @@
         "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/152.李敖来台四十年.txt",
         "line": 3,
         "note": "此处预告4月14日耕莘文教院“四十年目睹怪现状”演讲会，并列出十五家出版社合办。"
+      },
+      {
+        "book": "李敖书函集",
+        "chapter": "017.《乌鸦评论》及其他",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/008.李敖书函集/017.《乌鸦评论》及其他.txt",
+        "line": 89,
+        "lines": [
+          69,
+          71,
+          73,
+          75,
+          77,
+          79,
+          81,
+          83,
+          85,
+          87,
+          89
+        ],
+        "note": "吴文亮4月15日凌晨来信，补记4月14日耕莘演讲会现场、签名与主持情形。"
       }
     ],
     "crossReferences": [
-      "qianqiu-wansui-1989-04-12-151-152-friends-dinner-forty-years-in-taiwan"
+      "qianqiu-wansui-1989-04-12-151-152-friends-dinner-forty-years-in-taiwan",
+      "li-ao-shuhanji-letterbox-1989-04-10-afternoon-calls-wu-wenliang-about-publishing-letters",
+      "li-ao-shuhanji-letterbox-1989-04-22-morning-replies-wu-wenliang-on-wuya-review"
     ]
   },
   {

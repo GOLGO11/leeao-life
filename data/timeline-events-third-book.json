@@ -2024,7 +2024,7 @@
     "displayDate": "1989年8月31日星期四前后",
     "datePrecision": "day-range",
     "title": "李敖写《乔家才将军来信书后》",
-    "summary": "《我最难忘的一个国特》附录二署1989年8月31日至9月4日，李敖借乔家才来信讨论军统、戴笠、沈醉与愚忠问题。",
+    "summary": "《我最难忘的一个国特》附录二署1989年8月31日至9月4日，李敖借乔家才来信讨论军统、戴笠、沈醉与愚忠问题。8月27日致沈醉信中，李敖已说明会附上乔家才两封信，让沈醉看到台湾方面对他的误解，并准备再写文章为沈醉说话。",
     "view": [
       "出版线",
       "思想线"
@@ -2051,14 +2051,29 @@
     "certainty": "confirmed",
     "crossReferences": [
       "book3-1989-05-04-qiao-first-letter",
-      "book3-1989-06-14-qiao-second-letter"
+      "book3-1989-06-14-qiao-second-letter",
+      "li-ao-shuhanji-letterbox-1989-08-27-writes-shen-zui-with-juntong-neimu-and-qiao-letters"
     ],
     "source": {
       "book": "我最难忘的事和人",
       "chapter": "016.我最难忘的一个国特",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/016.我最难忘的一个国特.txt",
       "line": 153
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖书函集",
+        "chapter": "019.致沈醉",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/008.李敖书函集/019.致沈醉.txt",
+        "line": 7,
+        "lines": [
+          5,
+          7,
+          11
+        ],
+        "note": "李敖8月27日致沈醉信说明随附乔家才两信，并准备再为沈醉写文。"
+      }
+    ]
   },
   {
     "id": "book3-1989-10-18-cheng-nan-jung-preface",

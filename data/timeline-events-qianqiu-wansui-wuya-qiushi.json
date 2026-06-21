@@ -9072,7 +9072,30 @@
       "chapter": "076.从侮辱圣母到侮辱国父",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/076.从侮辱圣母到侮辱国父.txt",
       "line": 55
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖书函集",
+        "chapter": "003.给新闻局局长邵玉铭的公开信",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/008.李敖书函集/003.给新闻局局长邵玉铭的公开信.txt",
+        "line": 27,
+        "lines": [
+          21,
+          23,
+          25,
+          27,
+          29,
+          45,
+          63,
+          89
+        ],
+        "note": "10月22日公开信详细论证《孙中山研究》封面不构成侮辱国父遗像罪，是翌日文章的直接案情背景。"
+      }
+    ],
+    "crossReferences": [
+      "li-ao-shuhanji-letterbox-1987-09-25-taipei-city-bans-sun-yat-sen-study",
+      "li-ao-shuhanji-letterbox-1987-10-22-writes-open-letter-to-shao-yuming"
+    ]
   },
   {
     "id": "qianqiu-wansui-1987-11-10-077-files-recusal-motion-against-judges",
@@ -10440,7 +10463,7 @@
     "displayDate": "1989年9月22日星期五",
     "datePrecision": "day",
     "title": "李敖写《有恩于林正杰的下场》",
-    "summary": "《有恩于林正杰的下场》署1989年9月22日。李敖由张春男曾在家中打趣林正杰像蒋介石写起，重提林正杰对李敖先捧后打、蔡仁坚1986年5月2日信中承认李敖有恩于《前进》等材料。",
+    "summary": "《有恩于林正杰的下场》署1989年9月22日。李敖由张春男曾在家中打趣林正杰像蒋介石写起，重提林正杰对李敖先捧后打、蔡仁坚1986年5月2日信中承认李敖有恩于《前进》等材料。《李敖书函集》补出11月29日致吴树民信，李敖继续以林正杰旧日称许和蔡仁坚来信反驳“报仇”“破坏团结”说。",
     "view": [
       "写作线"
     ],
@@ -10474,14 +10497,29 @@
       "micang-diary-1985-02-13-dengen-reports-lin-zhengjie-debt-pressure",
       "micang-diary-1985-02-14-records-qianjin-price-note-and-criticizes-lin",
       "micang-diary-1985-03-23-records-lin-zhengjie-qianjin-slander",
-      "micang-diary-1985-03-24-writes-open-letter-to-lin-zhengjie-and-nanrong-picks-up"
+      "micang-diary-1985-03-24-writes-open-letter-to-lin-zhengjie-and-nanrong-picks-up",
+      "li-ao-shuhanji-letterbox-1989-11-29-morning-writes-wu-shumin-rebutting-zilih-morning-lin-zhengjie-report"
     ],
     "source": {
       "book": "千秋万岁乌鸦求是合集",
       "chapter": "139.有恩于林正杰的下场",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/139.有恩于林正杰的下场.txt",
       "line": 15
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖书函集",
+        "chapter": "025.吴树民请注意",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/008.李敖书函集/025.吴树民请注意.txt",
+        "line": 5,
+        "lines": [
+          5,
+          9,
+          13
+        ],
+        "note": "11月29日致吴树民信回述林正杰旧日称许、蔡仁坚来信和《前进》恩怨，作为9月22日林正杰线后续。"
+      }
+    ]
   },
   {
     "id": "qianqiu-wansui-1989-09-26-142-writes-sun-yatsen-only-christian",

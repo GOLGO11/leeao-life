@@ -1121,7 +1121,10 @@
     "crossReferences": [
       "liao-xinkan-1986-10-22-writes-zilih-evening-news-after-li-ao-dead-ad",
       "li-ao-shuduji-1986-12-30-files-private-prosecution-over-zilih-dead-ad",
-      "li-ao-shuduji-1987-08-03-writes-wu-sanlian-chiang-ching-kuo-dead-book-warning"
+      "li-ao-shuduji-1987-08-03-writes-wu-sanlian-chiang-ching-kuo-dead-book-warning",
+      "li-ao-shuhanji-letterbox-1987-01-06-executes-against-wu-fengshan-office-paintings",
+      "li-ao-shuhanji-letterbox-1987-01-09-wu-fengshan-apologizes-at-li-home",
+      "li-ao-shuhanji-letterbox-1987-11-12-noon-writes-shi-xingzhong-on-book-sale-and-zilih-compensation"
     ],
     "additionalSources": [
       {
@@ -1135,6 +1138,18 @@
           15
         ],
         "note": "李敖8月3日致吴三连，承接“李敖死了”“水蛭”广告案并寄《蒋经国死了》。"
+      },
+      {
+        "book": "李敖书函集",
+        "chapter": "007.再致施性忠老哥",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/008.李敖书函集/007.再致施性忠老哥.txt",
+        "line": 9,
+        "lines": [
+          9,
+          11,
+          19
+        ],
+        "note": "11月12日致施性忠信补出1月6日赴法院执行、查封吴丰山办公室壁画与1月9日吴丰山私下道歉的后续。"
       }
     ]
   },
@@ -1270,7 +1285,10 @@
       "li-ao-shuduji-1987-02-26-noon-writes-xu-wenbin-on-zilih-defense-and-death-ads",
       "li-ao-shuduji-1987-02-28-writes-wu-shuli-on-court-delay-and-zilih-case",
       "li-ao-shuduji-1987-04-04-morning-writes-ren-yubin-to-assist-arrest-wu-xianghui",
-      "li-ao-shuduji-1987-08-03-writes-wu-sanlian-chiang-ching-kuo-dead-book-warning"
+      "li-ao-shuduji-1987-08-03-writes-wu-sanlian-chiang-ching-kuo-dead-book-warning",
+      "li-ao-shuhanji-letterbox-1987-01-06-executes-against-wu-fengshan-office-paintings",
+      "li-ao-shuhanji-letterbox-1987-01-09-wu-fengshan-apologizes-at-li-home",
+      "li-ao-shuhanji-letterbox-1987-11-12-noon-writes-shi-xingzhong-on-book-sale-and-zilih-compensation"
     ],
     "additionalSources": [
       {
@@ -1312,6 +1330,18 @@
           15
         ],
         "note": "李敖8月3日致吴三连，承接“李敖死了”“水蛭”广告案并寄《蒋经国死了》。"
+      },
+      {
+        "book": "李敖书函集",
+        "chapter": "007.再致施性忠老哥",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/008.李敖书函集/007.再致施性忠老哥.txt",
+        "line": 9,
+        "lines": [
+          9,
+          11,
+          19
+        ],
+        "note": "11月12日致施性忠信补出1月6日赴法院执行、查封吴丰山办公室壁画与1月9日吴丰山私下道歉的后续。"
       }
     ]
   },
@@ -1371,6 +1401,25 @@
       "司法线",
       "党外线",
       "交游线"
+    ],
+    "additionalSources": [
+      {
+        "book": "李敖书函集",
+        "chapter": "001.跟警察头子打笔仗",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/008.李敖书函集/001.跟警察头子打笔仗.txt",
+        "line": 37,
+        "lines": [
+          37,
+          41,
+          43,
+          45,
+          49
+        ],
+        "note": "9月4日致吴伯雄信回述1月13日写信请苏洪月娇代查王剑芬居留与警察包庇问题。"
+      }
+    ],
+    "crossReferences": [
+      "li-ao-shuhanji-letterbox-1987-09-04-writes-wu-bohsiung-six-questions-police-heads"
     ]
   },
   {
@@ -1756,7 +1805,10 @@
       "li-ao-shuduji-1987-02-14-writes-lawyer-xu-wenbin-on-zilih-defense",
       "li-ao-shuduji-1986-12-30-files-private-prosecution-over-zilih-dead-ad",
       "li-ao-shuduji-1987-02-28-writes-wu-shuli-on-court-delay-and-zilih-case",
-      "li-ao-shuduji-1987-08-03-writes-wu-sanlian-chiang-ching-kuo-dead-book-warning"
+      "li-ao-shuduji-1987-08-03-writes-wu-sanlian-chiang-ching-kuo-dead-book-warning",
+      "li-ao-shuhanji-letterbox-1987-01-06-executes-against-wu-fengshan-office-paintings",
+      "li-ao-shuhanji-letterbox-1987-01-09-wu-fengshan-apologizes-at-li-home",
+      "li-ao-shuhanji-letterbox-1987-11-12-noon-writes-shi-xingzhong-on-book-sale-and-zilih-compensation"
     ],
     "additionalSources": [
       {
@@ -1769,6 +1821,18 @@
           15
         ],
         "note": "8月3日信补出“蒋经国死了”书已印出并寄吴三连的后续动作。"
+      },
+      {
+        "book": "李敖书函集",
+        "chapter": "007.再致施性忠老哥",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/008.李敖书函集/007.再致施性忠老哥.txt",
+        "line": 9,
+        "lines": [
+          9,
+          11,
+          19
+        ],
+        "note": "11月12日致施性忠信补出1月6日赴法院执行、查封吴丰山办公室壁画与1月9日吴丰山私下道歉的后续。"
       }
     ]
   },
@@ -1924,7 +1988,10 @@
       "li-ao-shuduji-1987-02-26-noon-writes-xu-wenbin-on-zilih-defense-and-death-ads",
       "li-ao-shuduji-1986-12-30-files-private-prosecution-over-zilih-dead-ad",
       "li-ao-shuduji-1987-02-14-writes-lawyer-xu-wenbin-on-zilih-defense",
-      "li-ao-shuduji-1987-08-03-writes-wu-sanlian-chiang-ching-kuo-dead-book-warning"
+      "li-ao-shuduji-1987-08-03-writes-wu-sanlian-chiang-ching-kuo-dead-book-warning",
+      "li-ao-shuhanji-letterbox-1987-01-06-executes-against-wu-fengshan-office-paintings",
+      "li-ao-shuhanji-letterbox-1987-01-09-wu-fengshan-apologizes-at-li-home",
+      "li-ao-shuhanji-letterbox-1987-11-12-noon-writes-shi-xingzhong-on-book-sale-and-zilih-compensation"
     ],
     "additionalSources": [
       {
@@ -1937,6 +2004,18 @@
           15
         ],
         "note": "8月3日信补出“蒋经国死了”书已印出并寄吴三连的后续动作。"
+      },
+      {
+        "book": "李敖书函集",
+        "chapter": "007.再致施性忠老哥",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/008.李敖书函集/007.再致施性忠老哥.txt",
+        "line": 9,
+        "lines": [
+          9,
+          11,
+          19
+        ],
+        "note": "11月12日致施性忠信补出1月6日赴法院执行、查封吴丰山办公室壁画与1月9日吴丰山私下道歉的后续。"
       }
     ]
   },
@@ -2021,7 +2100,23 @@
       "freedom-summoning-1982-05-14-wins-xiao-mengneng-case",
       "li-ao-zhaji-1987-04-27-writes-news-office-letter-on-fake-wenxing",
       "li-ao-shuduji-1987-04-06-writes-yu-guohua-on-xiao-mengneng-execution-delay",
-      "li-ao-shuduji-1987-05-04-writes-xu-shuide-to-sanction-wenxing-107"
+      "li-ao-shuduji-1987-05-04-writes-xu-shuide-to-sanction-wenxing-107",
+      "li-ao-shuhanji-letterbox-1987-10-22-writes-open-letter-to-shao-yuming"
+    ],
+    "additionalSources": [
+      {
+        "book": "李敖书函集",
+        "chapter": "003.给新闻局局长邵玉铭的公开信",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/008.李敖书函集/003.给新闻局局长邵玉铭的公开信.txt",
+        "line": 69,
+        "lines": [
+          67,
+          69,
+          71,
+          89
+        ],
+        "note": "10月22日公开信回述3月4日质问《千秋评论》与《文星》处理有异，并说明唐启明5月11日承认未去函文星变更发行人。"
+      }
     ]
   },
   {
@@ -2095,7 +2190,30 @@
       "政治线"
     ],
     "crossReferences": [
-      "li-ao-shuduji-1987-01-13-writes-su-hong-yuejiao-on-person-suing-person"
+      "li-ao-shuduji-1987-01-13-writes-su-hong-yuejiao-on-person-suing-person",
+      "li-ao-shuhanji-letterbox-1985-01-10-first-applies-to-deport-wang-jianfen",
+      "li-ao-shuhanji-letterbox-1986-03-25-writes-yao-gaoqiao-on-wang-jianfen-expired-residence",
+      "li-ao-shuhanji-letterbox-1987-09-04-writes-wu-bohsiung-six-questions-police-heads"
+    ],
+    "additionalSources": [
+      {
+        "book": "李敖书函集",
+        "chapter": "001.跟警察头子打笔仗",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/008.李敖书函集/001.跟警察头子打笔仗.txt",
+        "line": 75,
+        "lines": [
+          37,
+          45,
+          49,
+          61,
+          63,
+          65,
+          75,
+          119,
+          157
+        ],
+        "note": "9月4日致吴伯雄信补出3月5日向林永鸿申请书及台北县警察局、警务处、警政署三级搪塞链。"
+      }
     ]
   },
   {
@@ -2433,7 +2551,23 @@
       "li-ao-shuduji-1987-03-04-writes-xu-shuide-qianqiu-wenxing-double-standard",
       "li-ao-shuduji-1987-04-06-writes-yu-guohua-on-xiao-mengneng-execution-delay",
       "li-ao-zhaji-1987-04-27-writes-news-office-letter-on-fake-wenxing",
-      "li-ao-shuduji-1986-12-27-writes-taipei-news-office-on-eighties-review"
+      "li-ao-shuduji-1986-12-27-writes-taipei-news-office-on-eighties-review",
+      "li-ao-shuhanji-letterbox-1987-10-22-writes-open-letter-to-shao-yuming"
+    ],
+    "additionalSources": [
+      {
+        "book": "李敖书函集",
+        "chapter": "003.给新闻局局长邵玉铭的公开信",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/008.李敖书函集/003.给新闻局局长邵玉铭的公开信.txt",
+        "line": 69,
+        "lines": [
+          67,
+          69,
+          71,
+          89
+        ],
+        "note": "10月22日公开信把《文星》处理双重标准纳入台北市政府新闻处一贯作业证据。"
+      }
     ]
   },
   {
@@ -3200,7 +3334,24 @@
       "li-ao-shuduji-1986-12-30-files-private-prosecution-over-zilih-dead-ad",
       "li-ao-shuduji-1987-02-26-noon-writes-xu-wenbin-on-zilih-defense-and-death-ads",
       "li-ao-shuduji-1987-02-28-writes-wu-shuli-on-court-delay-and-zilih-case",
-      "li-ao-zhaji-1987-09-23-contrasts-li-ao-dead-with-chiang-ching-kuo-study"
+      "li-ao-zhaji-1987-09-23-contrasts-li-ao-dead-with-chiang-ching-kuo-study",
+      "li-ao-shuhanji-letterbox-1987-01-06-executes-against-wu-fengshan-office-paintings",
+      "li-ao-shuhanji-letterbox-1987-01-09-wu-fengshan-apologizes-at-li-home",
+      "li-ao-shuhanji-letterbox-1987-11-12-noon-writes-shi-xingzhong-on-book-sale-and-zilih-compensation"
+    ],
+    "additionalSources": [
+      {
+        "book": "李敖书函集",
+        "chapter": "007.再致施性忠老哥",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/008.李敖书函集/007.再致施性忠老哥.txt",
+        "line": 9,
+        "lines": [
+          9,
+          11,
+          19
+        ],
+        "note": "11月12日致施性忠信补出1月6日赴法院执行、查封吴丰山办公室壁画与1月9日吴丰山私下道歉的后续。"
+      }
     ]
   }
 ]

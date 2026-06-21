@@ -5403,7 +5403,7 @@
     "displayDate": "1987年",
     "datePrecision": "year",
     "title": "李敖写《孙中山研究》延伸批孙考证",
-    "summary": "《猪猡纪》写，李敖1987年写《孙中山研究》，继续以史料比对方式拆解孙中山神话；台北市新闻处长唐启明曾把他告到地检处，但检察官被其说服。",
+    "summary": "《猪猡纪》写，李敖1987年写《孙中山研究》，继续以史料比对方式拆解孙中山神话；《李敖书函集》补出该书9月25日被台北市政府以最速件查禁、10月10日移送台北地检处、11月3日侦查庭和11月24日致郑忠仁检察官等后续。",
     "view": [
       "思想线",
       "出版线",
@@ -5450,7 +5450,27 @@
         "path": "《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/024.批判国民党.txt",
         "line": 189,
         "note": "李敖回顾其批判孙中山主线，称1987年出版《孙中山研究》。"
+      },
+      {
+        "book": "李敖书函集",
+        "chapter": "010.请检察官辞职",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/008.李敖书函集/010.请检察官辞职.txt",
+        "line": 17,
+        "lines": [
+          11,
+          15,
+          17,
+          19
+        ],
+        "note": "11月24日致郑忠仁信补出李敖把《孙中山研究》案视为文字狱并以海外专栏、台湾专书反击。"
       }
+    ],
+    "crossReferences": [
+      "book8-1987-09-10-sun-yat-sen-study-first-edition-penalized",
+      "li-ao-shuhanji-letterbox-1987-09-25-taipei-city-bans-sun-yat-sen-study",
+      "li-ao-shuhanji-letterbox-1987-10-22-writes-open-letter-to-shao-yuming",
+      "li-ao-shuhanji-letterbox-1987-11-03-writes-fu-chaoshu-first-column-and-court",
+      "li-ao-shuhanji-letterbox-1987-11-24-writes-prosecutor-zheng-zhongren-to-resign"
     ]
   },
   {
@@ -5751,7 +5771,8 @@
       "line": 7
     },
     "crossReferences": [
-      "li-ao-shuduji-1986-10-29-writes-xu-shuide-demanding-punishment-and-compensation"
+      "li-ao-shuduji-1986-10-29-writes-xu-shuide-demanding-punishment-and-compensation",
+      "li-ao-shuhanji-letterbox-1987-10-22-writes-open-letter-to-shao-yuming"
     ],
     "additionalSources": [
       {
@@ -5764,6 +5785,19 @@
           21
         ],
         "note": "1986年10月29日李敖致许水德函回述1985年6月24日国家赔偿请求、台北市同意赔款6901元并承诺处分警员。"
+      },
+      {
+        "book": "李敖书函集",
+        "chapter": "003.给新闻局局长邵玉铭的公开信",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/008.李敖书函集/003.给新闻局局长邵玉铭的公开信.txt",
+        "line": 69,
+        "lines": [
+          67,
+          69,
+          71,
+          89
+        ],
+        "note": "10月22日公开信回述1985年台北市政府按国家赔偿协议赔李敖6901元。"
       }
     ]
   },

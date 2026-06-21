@@ -2231,11 +2231,11 @@
   },
   {
     "id": "book7-1987-wu-xiangxiang-writes-praising-sun-yat-sen-study",
-    "date": "1987-12-31",
-    "displayDate": "1987年",
-    "datePrecision": "year",
+    "date": "1987-11-02",
+    "displayDate": "1987年11月2日",
+    "datePrecision": "day",
     "title": "吴相湘自美国来信，称许《孙中山研究》并追念三十年前交情",
-    "summary": "《吴相湘》写，1987年吴相湘七十五岁时自美国来信，称赞李敖所写《孙中山研究》，并特意提到书中念旧情的文字使他感动，回忆三十年前往事如“当时意气论交人”。这条材料留下李敖与旧师友在学术与情义上的晚年回响。",
+    "summary": "《关于“直笔”的讨论》收录，1987年11月2日吴相湘自美国来信给李敖，说借到《孙中山研究》后一日夜读完，书中念旧情的文字使他感动，并说明自己《孙逸仙博士传》若干处“含糊其辞”实不得已。李敖11月17日复信，劝其晚年重订旧作、随心所欲“直笔”。",
     "view": [
       "交游线",
       "写作线",
@@ -2266,7 +2266,30 @@
       "chapter": "187.吴相湘",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/187.吴相湘.txt",
       "line": 3
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖书函集",
+        "chapter": "009.关于“直笔”的讨论",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/008.李敖书函集/009.关于“直笔”的讨论.txt",
+        "line": 11,
+        "lines": [
+          7,
+          11,
+          17,
+          21,
+          23,
+          25,
+          31,
+          33
+        ],
+        "note": "《李敖书函集》补出吴相湘来信日期为1987年11月2日，以及李敖11月17日复信。"
+      }
+    ],
+    "crossReferences": [
+      "li-ao-shuhanji-letterbox-1987-11-17-writes-wu-xiangxiang-on-straight-writing",
+      "book5-1987-writes-sun-yatsen-study"
+    ]
   },
   {
     "id": "book7-1984-10-07-observes-old-veteran-selling-flags-before-national-day",

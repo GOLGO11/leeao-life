@@ -1983,7 +1983,8 @@
       "line": 31
     },
     "crossReferences": [
-      "li-ao-shujianji-letterpaper-1986-09-05-noon-letter-recounts-wang-jianfen-xiao-mengneng-executions"
+      "li-ao-shujianji-letterpaper-1986-09-05-noon-letter-recounts-wang-jianfen-xiao-mengneng-executions",
+      "li-ao-shuhanji-letterbox-1987-09-04-writes-wu-bohsiung-six-questions-police-heads"
     ],
     "additionalSources": [
       {
@@ -2003,6 +2004,22 @@
           31
         ],
         "note": "《李敖书笺集》重收此信，补出王尚勤来信与礼物、李母/胡星妈争议、抱熊照片、小文及王剑芬/萧孟能执行近事。"
+      },
+      {
+        "book": "李敖书函集",
+        "chapter": "001.跟警察头子打笔仗",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/008.李敖书函集/001.跟警察头子打笔仗.txt",
+        "line": 45,
+        "lines": [
+          37,
+          43,
+          45,
+          61,
+          63,
+          75,
+          119
+        ],
+        "note": "9月4日致吴伯雄信补出王剑芬居留案在1985至1987年的连续申请、检举与搪塞背景。"
       }
     ]
   },
@@ -2615,8 +2632,8 @@
     "date": "1988-08-10",
     "displayDate": "1988年8月10日星期三",
     "datePrecision": "day",
-    "title": "写《迟来的澄清》",
-    "summary": "《迟来的澄清》文末署李敖，日期为1988年8月10日，继续为胡茵梦房屋与法院误判问题澄清。",
+    "title": "李敖写《迟来的澄清》，要求各报刊出萧孟能诬告案结果",
+    "summary": "1988年8月10日，李敖写《迟来的澄清》致各报，因刚收到最高法院1988年度台上字第3360号判决，确认萧孟能八年前对他的侵占指控是一件诬告，萧孟能也被判徒刑且不能易科罚金。李敖在信中回想八年来锲而不舍，以最高法院刑事判决和六件民事判决、裁定获得清白，并逐项说明亲笔字据、科学鉴定、笔录篡改、代栽证据、捏造配偶、歪曲纪念书画抵债等问题。",
     "view": [
       "出版线",
       "司法线",
@@ -2642,7 +2659,47 @@
       "book": "李敖自传与回忆续集",
       "chapter": "030.迟来的澄清",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/030.迟来的澄清.txt",
-      "line": 27
-    }
+      "line": 27,
+      "lines": [
+        7,
+        9,
+        11,
+        13,
+        15,
+        17,
+        19,
+        21,
+        23,
+        25,
+        27
+      ]
+    },
+    "crossReferences": [
+      "li-ao-shuhanji-letterbox-1988-08-10-writes-yu-jizhong-on-china-times-photo-and-clarification",
+      "book2-1987-02-25-xiao-appeal-dismissed",
+      "book2-1987-03-08-end-of-suing-li-ao-written"
+    ],
+    "additionalSources": [
+      {
+        "book": "李敖书函集",
+        "chapter": "016.迟来的澄清",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/008.李敖书函集/016.迟来的澄清.txt",
+        "line": 27,
+        "lines": [
+          7,
+          9,
+          11,
+          13,
+          15,
+          17,
+          19,
+          21,
+          23,
+          25,
+          27
+        ],
+        "note": "《李敖书函集》收同文，补出致各报信的完整澄清脉络。"
+      }
+    ]
   }
 ]
