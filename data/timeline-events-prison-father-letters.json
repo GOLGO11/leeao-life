@@ -1,0 +1,6561 @@
+[
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1973-05-03-writes-alligator-letter-to-li-wen",
+    "date": "1973-05-03",
+    "displayDate": "1973年5月3日",
+    "title": "李敖在景美狱中写《再会呀，鳄鱼呀！》给李文",
+    "summary": "1973年5月3日，李敖在景美军法处看守所第八房写《再会呀，鳄鱼呀！》给女儿李文。他从鳄鱼能吃人、鳄鱼眼泪、crocodile/alligator 的俗语讲起，教她用“See you later, alligator”同小朋友说再会；又写到 Dorothy Parker 在浴盆养鳄鱼、韩愈写《祭鳄鱼文》，并让她重看自己以前写给她的“为虎作伥”意思。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "002.再会呀，鳄鱼呀！",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/002.再会呀，鳄鱼呀！.txt",
+      "line": 31,
+      "lines": [
+        3,
+        5,
+        7,
+        13,
+        15,
+        19,
+        21,
+        23,
+        25,
+        27,
+        29,
+        31
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "鳄鱼",
+      "英文函授",
+      "韩愈",
+      "景美军法处看守所"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "Dorothy Parker",
+      "韩愈"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "美国",
+      "广东"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "再会呀，鳄鱼呀！",
+      "祭鳄鱼文"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1973-10-07-morning-writes-two-money-letters-to-li-wen",
+    "date": "1973-10-07",
+    "displayDate": "1973年10月7日晨至上午",
+    "title": "李敖在景美狱中一早上连写两封《纸上谈钱》给李文",
+    "summary": "1973年10月7日晨，李敖在景美军法处看守所第八房写第一封《纸上谈钱》给李文，问她九岁生日时姥姥给的五块钱怎么花，并从 penny、nickel、dime、quarter、half dollar 讲到 Ohio 的 Buckeye 外号。当天上午他又写第二封同题信，介绍美钞上华盛顿、杰斐逊、林肯、汉密尔顿、杰克逊、格兰特、富兰克林、麦金莱和克利夫兰等人像；信末自嘲一早上连写两封都是纸上谈钱，并说明姥姥9月26日的信已经收到。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "003.纸上谈钱",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/003.纸上谈钱.txt",
+      "line": 53,
+      "lines": [
+        3,
+        5,
+        7,
+        21,
+        23,
+        25,
+        27,
+        29,
+        33,
+        35,
+        39,
+        41,
+        45,
+        49,
+        53,
+        55
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "纸上谈钱",
+      "美元",
+      "英文函授",
+      "张桂贞"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "张桂贞",
+      "华盛顿",
+      "林肯",
+      "富兰克林"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "美国",
+      "Ohio"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "纸上谈钱"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1973-10-21-writes-open-sesame-taipei-nights-letter",
+    "date": "1973-10-21",
+    "displayDate": "1973年10月21日",
+    "title": "李敖在景美狱中给李文写《喊一声“芝麻开门！”就行了》",
+    "summary": "1973年10月21日，李敖在景美军法处看守所第八房写《喊一声“芝麻开门！”就行了》给李文。他从姑姑为李文生日烤蛋糕说起，解释 sponge cake、cakewalk、take the cake 等词，又引《天方夜谭》里的辛巴达、阿拉丁神灯、阿里巴巴与四十大盗，顺手把“芝麻开门”同六姑保险箱开玩笑相连。信中他称这些知识短札为写给女儿的“台北夜谭”，并问李文喜不喜欢。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "004.喊一声“芝麻开门！”就行了",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/004.喊一声“芝麻开门！”就行了.txt",
+      "line": 11,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "生日",
+      "台北夜谭",
+      "天方夜谭",
+      "芝麻开门"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "张桂贞"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "伊朗",
+      "墨西哥",
+      "美国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "喊一声“芝麻开门！”就行了",
+      "天方夜谭",
+      "一千零一夜"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "family",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day-inferred",
+    "id": "prison-father-letters-1973-10-24-receives-li-wen-oct11-letter",
+    "date": "1973-10-24",
+    "displayDate": "1973年10月24日（由10月26日夜信倒推）",
+    "title": "李敖在景美狱中收到李文10月11日来信",
+    "summary": "1973年10月26日夜，李敖在《头头大观》信末写给李文：“你11号的信，前天收到。”由此可知，他在景美军法处看守所第八房约于10月24日收到女儿10月11日来信。这类收信小事说明父女狱中通信并非单向讲课，而是李敖依据李文来信继续调整写信内容。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "005.头头大观",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/005.头头大观.txt",
+      "line": 21,
+      "lines": [
+        19,
+        21
+      ]
+    },
+    "tags": [
+      "狱中通信",
+      "李文",
+      "收信",
+      "景美军法处看守所"
+    ],
+    "people": [
+      "李敖",
+      "李文"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "美国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "头头大观"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter",
+      "prison-father-letters-1973-10-26-night-writes-head-idioms-after-receiving-li-wen-letter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1973-10-26-night-writes-head-idioms-after-receiving-li-wen-letter",
+    "date": "1973-10-26",
+    "displayDate": "1973年10月26日夜",
+    "title": "李敖夜里致信李文谈“头头”英文，并说前天收到她来信",
+    "summary": "1973年10月26日夜，李敖在景美军法处看守所第八房写《头头大观》给李文。得知李文到美国上学一个多月便做了“班主席”，他在信中笑说她搞政治有一手，并从 head、boss、chief、leader、VIP、king、pope、master、chairman、tycoon 等词讲各种“头儿”。信末他说明李文10月11日来信前天已经收到。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "005.头头大观",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/005.头头大观.txt",
+      "line": 19,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15,
+        17,
+        19,
+        21
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "班主席",
+      "英文函授",
+      "收信"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "胡佛"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "美国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "头头大观"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter",
+      "prison-father-letters-1973-10-24-receives-li-wen-oct11-letter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1973-10-28-night-writes-finger-letter-to-li-wen",
+    "date": "1973-10-28",
+    "displayDate": "1973年10月28日夜",
+    "title": "李敖夜里给李文写《指教》，问姥姥手指肿痛",
+    "summary": "1973年10月28日夜，李敖在景美军法处看守所第八房写《指教》给李文。他开头先问李文说姥姥手指肿了是否要紧、是哪一只，随后把 finger、fingertip、nail、thumb、index finger、middle finger、ring finger、little finger 等词串成一封英文函授信，并讲到“跃跃欲试”“染指”“屈指可数”“指不胜屈”等中英文对应。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "006.指教",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/006.指教.txt",
+      "line": 23,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        17,
+        19,
+        21,
+        23
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "张桂贞",
+      "手指",
+      "英文函授"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "张桂贞"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "美国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "指教"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1973-11-04-writes-hair-barber-surgeon-letter-to-li-wen",
+    "date": "1973-11-04",
+    "displayDate": "1973年11月4日",
+    "title": "李敖写信给李文讲头发、伊索寓言与理发匠外科医生",
+    "summary": "1973年11月4日，李敖在景美军法处看守所第八房写《理发匠就是外科医生，外科医生就是理发匠》给李文。他让李文按头发颜色观察班上同学，讲 blonde、brunette、towhead、redhead、hairdo、hairpin 等词；又从“机会前面有发后面秃”引到《伊索寓言》，提醒她要看看狼来了、狗占马槽等故事。信末他说明英国古时候理发匠兼外科医生，直到亨利八世时代才分开。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "007.理发匠就是外科医生，外科医生就是理发匠",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/007.理发匠就是外科医生，外科医生就是理发匠.txt",
+      "line": 15,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "英文函授",
+      "伊索寓言",
+      "理发匠",
+      "外科医生"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "伊索",
+      "亨利八世"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "英国",
+      "希腊"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "理发匠就是外科医生，外科医生就是理发匠",
+      "伊索寓言"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1973-11-11-arranges-birthday-christmas-cash-gift-for-li-wen",
+    "date": "1973-11-11",
+    "displayDate": "1973年11月11日",
+    "title": "李敖给李文安排生日、圣诞礼金并写《送礼·向厕所跑》",
+    "summary": "1973年11月11日，李敖在景美军法处看守所第八房写《送礼·向厕所跑》给李文。他把李文生日礼物和圣诞节礼物一并折成30元礼金，交由姥姥转给她，让她自己选择想买的东西；又顺势把 give gifts、birthday gift、Christmas gift、Don't look a gift horse in the mouth、Indian giver 等英文和中文“礼尚往还”“抛砖引玉”“真金不怕火炼”串在一起。信后他补充马齿、colt、pony 等知识。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "008.送礼·向厕所跑",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/008.送礼·向厕所跑.txt",
+      "line": 7,
+      "lines": [
+        3,
+        5,
+        7,
+        9
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "生日礼物",
+      "圣诞礼物",
+      "张桂贞",
+      "英文函授"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "张桂贞"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "美国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "送礼·向厕所跑"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1973-11-18-writes-thanksgiving-sheep-horse-letter",
+    "date": "1973-11-18",
+    "displayDate": "1973年11月18日",
+    "title": "李敖写信得知姥姥将带李文去纽约看妈妈，并谈感恩节与羊马成语",
+    "summary": "1973年11月18日，李敖在景美军法处看守所第八房写《你羊我就马，你马我就羊》给李文。信中他先说姥姥感恩节将带李文去纽约看妈妈“多好啊”，然后解释 Thanksgiving Day、感恩与忘恩负义，又从林肯规定感恩节、Mrs. S. J. Hale 的《玛莉有一只小羊》和爱迪生第一张唱片讲起，转入 lamb、sheep、goat、black sheep、亡羊补牢等中英文差异。末尾他问李文英文是不是故意跟中文捣蛋。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "009.你羊我就马，你马我就羊",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/009.你羊我就马，你马我就羊.txt",
+      "line": 17,
+      "lines": [
+        3,
+        5,
+        11,
+        13,
+        15,
+        17
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "张桂贞",
+      "王尚勤",
+      "感恩节",
+      "纽约",
+      "英文函授"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "张桂贞",
+      "王尚勤",
+      "林肯",
+      "爱迪生",
+      "丘吉尔"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "纽约",
+      "美国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "你羊我就马，你马我就羊",
+      "玛莉有一只小羊"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter",
+      "book2-1964-09-22-daughter-hedy-born"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1973-12-09-writes-tiger-hunting-secret-letter-to-li-wen",
+    "date": "1973-12-09",
+    "displayDate": "1973年12月9日",
+    "title": "李敖在景美狱中写《打老虎秘诀》给李文",
+    "summary": "1973年12月9日，李敖在景美军法处看守所第八房写《打老虎秘诀》给李文。他从画片上的两只小老虎讲起，说明老虎只在亚洲才有，印度、中国、伊朗、日本都有，又把“捋虎须”“骑虎难下”“捉虎容易放虎难”“不入虎穴，焉得虎子”“为虎作伥”等中文说法与英文对应起来。信末他用猎人坐笼绑在象背上打老虎的例子，提醒学英文要不马虎。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "010.打老虎秘诀",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/010.打老虎秘诀.txt",
+      "line": 15,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "老虎",
+      "英文函授",
+      "为虎作伥",
+      "景美军法处看守所"
+    ],
+    "people": [
+      "李敖",
+      "李文"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "亚洲",
+      "印度",
+      "中国",
+      "伊朗",
+      "日本"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "打老虎秘诀"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter",
+      "prison-father-letters-1973-05-03-writes-alligator-letter-to-li-wen"
+    ]
+  },
+  {
+    "category": "family",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1973-12-21-receives-liwen-grandma-dec5-dec6-new-york-letters",
+    "date": "1973-12-21",
+    "displayDate": "1973年12月21日",
+    "title": "李敖在景美狱中收到李文和姥姥12月5、6日来信",
+    "summary": "1973年12月21日，李敖在景美军法处看守所第八房收到李文和姥姥12月5日、6日的来信。两封信让他知道她们在纽约玩得很开心；两天后他在《你送神像我搭台》信中由此展开纽约、皇后区、布鲁克林、曼哈顿和自由女神像的说明。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "011.你送神像我搭台",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/011.你送神像我搭台.txt",
+      "line": 5,
+      "lines": [
+        3,
+        5,
+        17
+      ]
+    },
+    "tags": [
+      "狱中通信",
+      "李文",
+      "张桂贞",
+      "纽约",
+      "收信",
+      "景美军法处看守所"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "张桂贞"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "纽约"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "你送神像我搭台"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1973-12-23-before-noon-writes-new-york-gotham-manhattan-letter",
+    "date": "1973-12-23",
+    "displayDate": "1973年12月23日午前",
+    "title": "李敖午前给李文写《你送神像我搭台》，由纽约来信讲曼哈顿与自由神像",
+    "summary": "1973年12月23日午前，李敖在景美军法处看守所第八房写《你送神像我搭台》给李文。因12月21日收到李文和姥姥来信，知道她们在纽约玩得开心，他在信中讲纽约外号 Gotham、纽约客 New Yorker、皇后区和拉加第亚机场、布鲁克林大桥、曼哈顿岛的购买传说，以及法国送自由神像、美国人自建台座的费用。信末他又说美国第二次世界大战花费可买十一个曼哈顿，并顺手讲 Manhattan 鸡尾酒。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "011.你送神像我搭台",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/011.你送神像我搭台.txt",
+      "line": 17,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15,
+        17
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "纽约",
+      "曼哈顿",
+      "自由神像",
+      "英文函授"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "张桂贞",
+      "王尚勤",
+      "约翰·肯尼迪"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "纽约",
+      "皇后区",
+      "布鲁克林",
+      "曼哈顿",
+      "法国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "你送神像我搭台"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter",
+      "prison-father-letters-1973-12-21-receives-liwen-grandma-dec5-dec6-new-york-letters",
+      "bobo-song-1973-12-23-time-not-with-me"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1973-12-30-writes-turtle-letter-and-notes-mother-grandma-letters",
+    "date": "1973-12-30",
+    "displayDate": "1973年12月30日",
+    "title": "李敖写《千年王八万年龟》给李文，并说明收到妈妈和姥姥来信",
+    "summary": "1973年12月30日，李敖在景美军法处看守所第八房写《千年王八万年龟》给李文。他从“龟龄”、古人烧龟甲占卜、金文和甲骨文的“用”字讲起，再区分 turtle、tortoise、hawksbill 等词。李敖在信中回忆自己过去在澎湖当排长时，夜里睡在据说闹鬼的房子里，第二天才发现挤小门的是一只大海龟；信末又说明妈妈11月20日的信、姥姥12月13日的信都收到了。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "012.千年王八万年龟",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/012.千年王八万年龟.txt",
+      "line": 17,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15,
+        17,
+        19
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "乌龟",
+      "澎湖",
+      "收信",
+      "英文函授"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "王尚勤",
+      "张桂贞"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "澎湖",
+      "美国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "千年王八万年龟"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线",
+      "军旅线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "family",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-01-05-receives-dec20-letter-before-writing-flightless-birds",
+    "date": "1974-01-05",
+    "displayDate": "1974年1月5日",
+    "title": "李敖在景美狱中收到李文和姥姥12月20日来信",
+    "summary": "1974年1月5日，李敖在景美军法处看守所第八房收到李文和姥姥12月20日的来信。次日他在《不飞的鸟》信末记下此事，并说自己要写信托一位朋友买书，下次再写给姥姥。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "013.不飞的鸟",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/013.不飞的鸟.txt",
+      "line": 25,
+      "lines": [
+        23,
+        25
+      ]
+    },
+    "tags": [
+      "狱中通信",
+      "李文",
+      "张桂贞",
+      "收信",
+      "买书"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "张桂贞"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "美国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "不飞的鸟"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-01-06-writes-flightless-birds-table-to-li-wen",
+    "date": "1974-01-06",
+    "displayDate": "1974年1月6日",
+    "title": "李敖给李文写《不飞的鸟》，造表比较鸵鸟、鸸鹋、企鹅和鹬鸵",
+    "summary": "1974年1月6日，李敖在景美军法处看守所第八房写《不飞的鸟》给李文。他说鸡鸭虽然不飞也能“意思意思”飞一小段，世界上却有几种连意思意思都不会的鸟，于是造表比较 ostrich、emu、penguin、kiwi 的飞行、奔跑、大小、产地和孵蛋方式。信中还解释 ostrichlike 的自欺、企鹅送小石头求偶、kiwi 被用来挖苦空军地勤人员，并补充食火鸡和三趾鸵鸟。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "013.不飞的鸟",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/013.不飞的鸟.txt",
+      "line": 23,
+      "lines": [
+        3,
+        5,
+        7,
+        17,
+        19,
+        21,
+        23,
+        25
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "不飞的鸟",
+      "鸵鸟",
+      "企鹅",
+      "英文函授"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "张桂贞"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "马达加斯加",
+      "澳洲",
+      "南极",
+      "纽西兰"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "不飞的鸟"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter",
+      "prison-father-letters-1974-01-05-receives-dec20-letter-before-writing-flightless-birds"
+    ]
+  },
+  {
+    "category": "family",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-01-21-receives-jan9-jan10-letters-from-liwen-grandma",
+    "date": "1974-01-21",
+    "displayDate": "1974年1月21日",
+    "title": "李敖在景美狱中收到李文和姥姥1月9、10日来信",
+    "summary": "1974年1月21日，李敖在景美军法处看守所第八房收到李文和姥姥1月9日、10日的来信。他在1月26日《你杀鹅我就杀鸡》信末说明，因为过旧年，这次信件收到得比较快。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "014.你杀鹅我就杀鸡",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/014.你杀鹅我就杀鸡.txt",
+      "line": 25,
+      "lines": [
+        23,
+        25
+      ]
+    },
+    "tags": [
+      "狱中通信",
+      "李文",
+      "张桂贞",
+      "收信",
+      "旧年"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "张桂贞"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "美国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "你杀鹅我就杀鸡"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-01-26-writes-goose-hen-golden-eggs-letter",
+    "date": "1974-01-26",
+    "displayDate": "1974年1月26日",
+    "title": "李敖写《你杀鹅我就杀鸡》给李文，比较鹅、鸡和中英文成语",
+    "summary": "1974年1月26日，李敖在景美军法处看守所第八房写《你杀鹅我就杀鸡》给李文。他从中文“鹅行鸭步”和英文 goose step、中文“鸡皮疙瘩”和英文 goose flesh 的错位讲起，再引伊索寓言中杀会下金蛋的鹅，解释 Do not kill the goose that lays the golden eggs 和中文“杀鸡取卵”正好相通。信中还讲 cooked goose、goose egg、as silly as goose、goose quill 和“千里送鹅毛”；信末说明李文和姥姥1月9、10日来信已于1月21日收到。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "014.你杀鹅我就杀鸡",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/014.你杀鹅我就杀鸡.txt",
+      "line": 23,
+      "lines": [
+        3,
+        5,
+        7,
+        11,
+        13,
+        15,
+        17,
+        19,
+        21,
+        23,
+        25
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "鹅",
+      "伊索寓言",
+      "杀鸡取卵",
+      "英文函授"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "张桂贞",
+      "伊索"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "美国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "你杀鹅我就杀鸡",
+      "伊索寓言"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter",
+      "prison-father-letters-1974-01-21-receives-jan9-jan10-letters-from-liwen-grandma"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-02-01-writes-wild-goose-atomic-bomb-poem-letter",
+    "date": "1974-02-01",
+    "displayDate": "1974年2月1日",
+    "title": "李敖写《原子弹与沉鱼落雁》给李文，讲雁、天鹅和《唐诗三百首》",
+    "summary": "1974年2月1日，李敖在景美军法处看守所第八房写《原子弹与沉鱼落雁》给李文。他延续上次鹅的话题，区分 goose、wild goose、swan、wild swan，以及中文里的雁、燕、鹄、鸿鹄；又解释“雁行折翼”“雁足传书”“雁杳鱼沉”“沉鱼落雁”和英文 wild-goose chase。信中他在“沉鱼落雁”处开玩笑说原子弹丢下来也可使鱼沉雁落，并请姥姥给李文讲李颀《古从军行》和《唐诗三百首》为什么实际收三百一十首。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "015.原子弹与沉鱼落雁",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/015.原子弹与沉鱼落雁.txt",
+      "line": 23,
+      "lines": [
+        3,
+        5,
+        15,
+        17,
+        19,
+        21,
+        23
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "雁",
+      "天鹅",
+      "唐诗三百首",
+      "英文函授"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "张桂贞",
+      "李颀"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "美国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "原子弹与沉鱼落雁",
+      "古从军行",
+      "唐诗三百首",
+      "诗经"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter",
+      "prison-father-letters-1974-01-26-writes-goose-hen-golden-eggs-letter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-02-09-writes-swans-letter-and-hengyang-street-friend-story",
+    "date": "1974-02-09",
+    "displayDate": "1974年2月9日",
+    "title": "李敖写《他所有的鹅都是天鹅》，在信中提到衡阳街朋友追阔家小姐旧事",
+    "summary": "1974年2月9日，李敖在景美军法处看守所第八房写《他所有的鹅都是天鹅》给李文。他先解释 All his geese are swans 是说人吹牛，又请姥姥给李文讲“癞蛤蟆想吃天鹅肉”。李敖在信中回忆一个朋友曾在台北衡阳街口卖芝麻饼，追阔家小姐而被小姐母亲告到警察局、被警察骂“想吃天鹅肉”，后来把饼改名“天鹅饼”；随后又讲瓦格纳《罗恩格林》、安徒生《丑小鸭》《野天鹅》、柴可夫斯基《天鹅湖》、swan song、swan maiden 和黑天鹅。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "016.他所有的鹅都是天鹅",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/016.他所有的鹅都是天鹅.txt",
+      "line": 19,
+      "lines": [
+        3,
+        5,
+        7,
+        13,
+        15,
+        17,
+        19
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "天鹅",
+      "衡阳街",
+      "天鹅饼",
+      "英文函授"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "张桂贞",
+      "瓦格纳",
+      "安徒生",
+      "柴可夫斯基"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "衡阳街",
+      "澳洲"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "他所有的鹅都是天鹅",
+      "罗恩格林",
+      "丑小鸭",
+      "野天鹅",
+      "天鹅湖"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "family",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-02-15-receives-liwen-jan30-letter-and-adjusts-letter-rhythm",
+    "date": "1974-02-15",
+    "displayDate": "1974年2月15日",
+    "title": "李敖在景美狱中收到李文1月30日来信",
+    "summary": "1974年2月15日，李敖在景美军法处看守所第八房收到李文1月30日的来信。第二天他在《麻是麻烦，可是不会生胃病》信中据此判断姥姥的手大概太累生病，并决定以后改由李文和姥姥每周轮流写信，每人两个星期写一封。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "017.麻是麻烦，可是不会生胃病",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/017.麻是麻烦，可是不会生胃病.txt",
+      "line": 31,
+      "lines": [
+        31,
+        33,
+        35
+      ]
+    },
+    "tags": [
+      "狱中通信",
+      "李文",
+      "张桂贞",
+      "收信",
+      "轮流写信"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "张桂贞"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "美国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "麻是麻烦，可是不会生胃病"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-02-16-writes-cattle-letter-and-arranges-alternate-correspondence",
+    "date": "1974-02-16",
+    "displayDate": "1974年2月16日",
+    "title": "李敖写《麻是麻烦，可是不会生胃病》，并安排李文与姥姥轮流写信",
+    "summary": "1974年2月16日，李敖在景美军法处看守所第八房写《麻是麻烦，可是不会生胃病》给李文。他在信中回述去年8月5日信里曾提到鹿和牛一样会反刍，接着讲 cattle、bull、cow、heifer、calf、buffalo、bison 等词，以及印度牛神圣、拦住计程车的趣事。因前一天收到李文1月30日来信，他在信中判断姥姥的手大概太累生病，决定以后由李文和姥姥每周轮流写信，并请姥姥告诉他八舅汇款情形。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "017.麻是麻烦，可是不会生胃病",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/017.麻是麻烦，可是不会生胃病.txt",
+      "line": 33,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        27,
+        29,
+        31,
+        33,
+        35
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "张桂贞",
+      "牛",
+      "轮流写信",
+      "八舅",
+      "英文函授"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "张桂贞",
+      "八舅"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "印度",
+      "纽约州",
+      "Buffalo"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "麻是麻烦，可是不会生胃病"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter",
+      "prison-father-letters-1974-02-15-receives-liwen-jan30-letter-and-adjusts-letter-rhythm"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-02-22-writes-jack-letter-with-halloween-and-pumpkin-spy-case",
+    "date": "1974-02-22",
+    "displayDate": "1974年2月22日",
+    "title": "李敖写《破锅有烂灶、李大有张嫂》，给李文讲 Jack 字族",
+    "summary": "1974年2月22日，李敖在景美军法处看守所第八房写《破锅有烂灶、李大有张嫂》给李文。他问李文有没有同小朋友玩 jacks 游戏，随后用 Jack/Jill、Every Jack has his Jill、jack-of-all-trades、jack-in-the-box、jackleg lawyer、jack rabbit、jackscrew 等词讲“jack”字族。信中他又讲万圣节南瓜灯 jack-o'-lantern 的爱尔兰传说，并补充尼克松二十四年前揭发 Hiss 间谍案时证据藏在南瓜里。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "018.破锅有烂灶、李大有张嫂",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/018.破锅有烂灶、李大有张嫂.txt",
+      "line": 29,
+      "lines": [
+        3,
+        5,
+        7,
+        13,
+        17,
+        19,
+        25,
+        27,
+        29,
+        31
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "Jack",
+      "万圣节",
+      "南瓜灯",
+      "Hiss间谍案",
+      "英文函授"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "富兰克林",
+      "尼克松",
+      "Alger Hiss"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "美国",
+      "北美洲",
+      "爱尔兰"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "破锅有烂灶、李大有张嫂"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter",
+      "prison-father-letters-1973-10-07-morning-writes-two-money-letters-to-li-wen"
+    ]
+  },
+  {
+    "category": "family",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-03-01-receives-liwen-feb13-letter-card-and-praises-grades",
+    "date": "1974-03-01",
+    "displayDate": "1974年3月1日",
+    "title": "李敖收到李文2月13日来信和卡片，并为她成绩进步高兴",
+    "summary": "1974年3月1日，李敖在景美军法处看守所第八房收到李文2月13日的来信和卡片。次日他在《情人与天使》信中说，李文在短短几个月中已有那么好的成绩，自己很高兴；又提醒她正是赶功课的时候，应比其他小朋友多花一些时间，等功课赶过他们再大玩特玩。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "019.情人与天使",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/019.情人与天使.txt",
+      "line": 5,
+      "lines": [
+        3,
+        5,
+        23
+      ]
+    },
+    "tags": [
+      "狱中通信",
+      "李文",
+      "收信",
+      "成绩",
+      "卡片"
+    ],
+    "people": [
+      "李敖",
+      "李文"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "美国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "情人与天使"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-03-02-writes-valentine-cupid-angels-letter",
+    "date": "1974-03-02",
+    "displayDate": "1974年3月2日",
+    "title": "李敖给李文写《情人与天使》，由卡片讲情人节、丘比特和天使等级",
+    "summary": "1974年3月2日，李敖在景美军法处看守所第八房写《情人与天使》给李文。因前一天收到李文来信和卡片，他先称赞她成绩进步，再说 Valentine's Day 译作“情人节”并不完全，应是“爱节”或“情爱节”；接着讲圣瓦伦丁、电影明星 Valentino，以及李文卡片上心被箭射穿的图案，解释维纳斯、丘比特、金银箭和情爱神话。信末他又区分有弓箭的丘比特和不拿弓箭的天使，并列出 seraph、cherub、angel 等等级。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "019.情人与天使",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/019.情人与天使.txt",
+      "line": 23,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15,
+        17,
+        21,
+        23
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "情人节",
+      "丘比特",
+      "天使",
+      "英文函授"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "圣瓦伦丁",
+      "Valentino",
+      "维纳斯",
+      "丘比特",
+      "张桂贞"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "罗马",
+      "美国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "情人与天使"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter",
+      "prison-father-letters-1974-03-01-receives-liwen-feb13-letter-card-and-praises-grades"
+    ]
+  },
+  {
+    "category": "family",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-03-06-receives-feb21-letters-and-praises-liwen-english-progress",
+    "date": "1974-03-06",
+    "displayDate": "1974年3月6日",
+    "title": "李敖收到李文和姥姥2月21日来信，赞李文英文进步快",
+    "summary": "1974年3月6日，李敖在景美军法处看守所第八房收到李文和姥姥2月21日的来信。第二天他在《看那熊相》信中记下此事，并称赞李文的英文进步真快、真不得了。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "020.看那熊相",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/020.看那熊相.txt",
+      "line": 43,
+      "lines": [
+        41,
+        43,
+        45
+      ]
+    },
+    "tags": [
+      "狱中通信",
+      "李文",
+      "张桂贞",
+      "收信",
+      "英文进步"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "张桂贞"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "美国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "看那熊相"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-03-07-writes-bear-letter-and-asks-grandma-about-uncle-remittances",
+    "date": "1974-03-07",
+    "displayDate": "1974年3月7日",
+    "title": "李敖写《看那熊相》，讲熊、牛熊行情和“熊罴入梦”",
+    "summary": "1974年3月7日，李敖在景美军法处看守所第八房写《看那熊相》给李文。他从黄石公园、约塞米蒂公园的黑熊说起，讲熊急性子、爱甜、搅蜂窝和白蚁窝，并在信中自比说自己对白蚁没有熊那样有办法；又讲熊掌、Smoky the Bear、北极熊和苏联俗称 the bear，以及英文里 bull、bear 表示买空卖空。信中他解释“熊罴入梦”是祝人生儿子，提醒如果六姑肚子大了可以这样祝贺；信末说明前一天收到李文和姥姥来信，赞李文英文进步快，并请姥姥开列八舅年节汇款数目给他。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "020.看那熊相",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/020.看那熊相.txt",
+      "line": 41,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        17,
+        21,
+        23,
+        29,
+        35,
+        37,
+        41,
+        43,
+        45
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "张桂贞",
+      "熊",
+      "熊罴入梦",
+      "八舅",
+      "英文函授"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "张桂贞",
+      "六姑",
+      "八舅",
+      "孟子"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "黄石公园",
+      "约塞米蒂公园",
+      "Wyoming",
+      "California",
+      "苏联"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "看那熊相"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter",
+      "prison-father-letters-1974-03-06-receives-feb21-letters-and-praises-liwen-english-progress"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-03-15-writes-genius-nothing-doing-grandma-letter",
+    "date": "1974-03-15",
+    "displayDate": "1974年3月15日",
+    "title": "李敖写《为什么还叫别人是姥姥？》，称李文是天才并讲 nothing 用法",
+    "summary": "1974年3月15日，李敖在景美军法处看守所第八房写《为什么还叫别人是姥姥？》给李文。他从李文英文短期进步说起，联想到孙观汉曾写《李敖和天才》证明李敖是天才，于是在信中称李文也是天才；又借爱迪生、王尔德和英文 nothing 的例句，说明天才仍须用功，并解释 Nothing doing 与北平土话“姥姥”的意思，提醒她别让人误会为什么还叫别人姥姥。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "021.为什么还叫别人是姥姥？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/021.为什么还叫别人是姥姥？.txt",
+      "line": 31,
+      "lines": [
+        3,
+        5,
+        7,
+        13,
+        29,
+        31
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "天才",
+      "英文函授",
+      "姥姥",
+      "北平土话"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "孙观汉",
+      "爱迪生",
+      "王尔德",
+      "张桂贞"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "北平",
+      "美国",
+      "英国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "为什么还叫别人是姥姥？",
+      "李敖和天才"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "family",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-03-20-receives-liwen-grandma-mar7-letters",
+    "date": "1974-03-20",
+    "displayDate": "1974年3月20日",
+    "title": "李敖收到李文和姥姥3月7日来信",
+    "summary": "1974年3月20日，李敖在景美军法处看守所第八房收到李文和姥姥3月7日的来信。两天后他在《苍蝇的老婆最多》信末记下此事，并说明本周要写长信给八舅，所以这次只写给李文。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "022.苍蝇的老婆最多",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/022.苍蝇的老婆最多.txt",
+      "line": 19,
+      "lines": [
+        17,
+        19
+      ]
+    },
+    "tags": [
+      "狱中通信",
+      "李文",
+      "张桂贞",
+      "收信",
+      "八舅"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "张桂贞",
+      "八舅"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "美国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "苍蝇的老婆最多"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-03-22-writes-fly-eyes-letter-and-notes-uncle-letter",
+    "date": "1974-03-22",
+    "displayDate": "1974年3月22日",
+    "title": "李敖写《苍蝇的老婆最多》，并说明本周要给八舅写长信",
+    "summary": "1974年3月22日，李敖在景美军法处看守所第八房写《苍蝇的老婆最多》给李文。他从一个眼睛有毛病的熟人玩笑讲到苍蝇复眼、蜻蜓眼力和英文 gnat 相关成语，又让李文找出去年10月7日谈 penny-wise and pound-foolish 的旧信重看；信末说明3月20日收到李文和姥姥来信，本周因要写长信给八舅，所以只写给李文。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "022.苍蝇的老婆最多",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/022.苍蝇的老婆最多.txt",
+      "line": 17,
+      "lines": [
+        3,
+        5,
+        7,
+        15,
+        17,
+        19
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "张桂贞",
+      "八舅",
+      "苍蝇",
+      "英文函授"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "张桂贞",
+      "八舅"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "美国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "苍蝇的老婆最多"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter",
+      "prison-father-letters-1974-03-20-receives-liwen-grandma-mar7-letters"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day-inferred",
+    "id": "prison-father-letters-1974-03-28-makes-palindromes-and-receives-mar13-letter-photo",
+    "date": "1974-03-28",
+    "displayDate": "1974年3月28日（由3月29日信倒推）",
+    "title": "李敖在景美狱中为李文造中文回文，并收到3月13日来信和照片",
+    "summary": "1974年3月28日，李敖在景美狱中信中可见有两件小事：他“昨晚特别造了四组回文”给李文，包括“你爱我不爱”“他恨我不恨”“你看我不看”“他吃我不吃”等组，又在同一天收到李文3月13日的来信和照片，称照片照得真像妈妈、姥姥也照得很好。因这些动作都由3月29日《英文回文·中文回文》的“昨晚”“昨天”倒推，日期标为推定日。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "023.英文回文·中文回文",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/023.英文回文·中文回文.txt",
+      "line": 95,
+      "lines": [
+        35,
+        37,
+        49,
+        59,
+        69,
+        79,
+        93,
+        95
+      ]
+    },
+    "tags": [
+      "狱中创作",
+      "狱中通信",
+      "李文",
+      "张桂贞",
+      "回文",
+      "收信",
+      "照片"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "张桂贞"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "美国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "英文回文·中文回文"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "创作线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-03-29-writes-english-chinese-palindrome-letter",
+    "date": "1974-03-29",
+    "displayDate": "1974年3月29日",
+    "title": "李敖写《英文回文·中文回文》，向李文讲 palindrome",
+    "summary": "1974年3月29日，李敖在景美军法处看守所第八房写《英文回文·中文回文》给李文。他从 eye、did、madam、Madam, I'm Adam 到拿破仑流放厄尔巴岛的回文句，解释英文 palindrome；又转入中文回文，列出自己前一晚特别造的四组回文和茶壶上的“可以清心也”。信末他说写得太多，只好下次再给姥姥写，并补记前一天收到李文3月13日来信和照片。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "023.英文回文·中文回文",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/023.英文回文·中文回文.txt",
+      "line": 97,
+      "lines": [
+        3,
+        5,
+        21,
+        23,
+        35,
+        79,
+        91,
+        93,
+        95,
+        97,
+        99,
+        101
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "张桂贞",
+      "回文",
+      "英文函授",
+      "拿破仑"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "张桂贞",
+      "拿破仑",
+      "纳兰性德"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "Elba",
+      "法国",
+      "意大利"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "英文回文·中文回文"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "创作线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter",
+      "prison-father-letters-1974-03-28-makes-palindromes-and-receives-mar13-letter-photo"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-04-06-writes-neck-idioms-letter",
+    "date": "1974-04-06",
+    "displayDate": "1974年4月6日",
+    "title": "李敖写《关于脖子的种种》，续接去年长颈鹿信",
+    "summary": "1974年4月6日，李敖在景美军法处看守所第八房写《关于脖子的种种》给李文。他先提醒去年8月12日曾在信中谈长颈鹿，再由缅甸女子套黄铜项圈、中国缠小脚讲到 neck、necklace、necktie、neck and neck、neck or nothing、save one's neck、stick one's neck out 等英文用法；最后借“刎颈之交”提醒“刎”别写成“吻”，否则会变成英文 necking 的意思。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "024.关于脖子的种种",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/024.关于脖子的种种.txt",
+      "line": 37,
+      "lines": [
+        3,
+        5,
+        11,
+        23,
+        27,
+        31,
+        35,
+        37
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "脖子",
+      "长颈鹿",
+      "英文函授"
+    ],
+    "people": [
+      "李敖",
+      "李文"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "缅甸",
+      "中国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "关于脖子的种种"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "family",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-04-11-receives-liwen-mar27-letter-clippings",
+    "date": "1974-04-11",
+    "displayDate": "1974年4月11日",
+    "title": "李敖收到李文3月27日来信，称剪画片和说明都很好",
+    "summary": "1974年4月11日，李敖在景美军法处看守所第八房收到李文3月27日的来信。两天后他在《眼睛有时候会上当》信末记下此事，称李文剪的画片和说明都非常好，并接着画出两条带箭头的线，让她判断哪条更长，以说明眼睛有时会上当。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "025.眼睛有时候会上当",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/025.眼睛有时候会上当.txt",
+      "line": 45,
+      "lines": [
+        43,
+        45,
+        47,
+        49,
+        51
+      ]
+    },
+    "tags": [
+      "狱中通信",
+      "李文",
+      "收信",
+      "画片",
+      "视觉错觉"
+    ],
+    "people": [
+      "李敖",
+      "李文"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "美国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "眼睛有时候会上当"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-04-13-writes-seeing-believing-optical-illusion-letter",
+    "date": "1974-04-13",
+    "displayDate": "1974年4月13日",
+    "title": "李敖写《眼睛有时候会上当》，用错觉图回应李文来信",
+    "summary": "1974年4月13日，李敖在景美军法处看守所第八房写《眼睛有时候会上当》给李文。他从 look、see、seesaw 和 Seeing is believing 讲到海市蜃楼，说明“百闻不如一见”也不能全信；信末记录4月11日收到李文3月27日来信，夸她剪的画片和说明都好，又手画一组箭头线条错觉题给她看，指出眼睛有时候会上当。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "025.眼睛有时候会上当",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/025.眼睛有时候会上当.txt",
+      "line": 43,
+      "lines": [
+        3,
+        5,
+        11,
+        15,
+        25,
+        31,
+        33,
+        39,
+        43,
+        45,
+        47,
+        49,
+        51
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "视觉错觉",
+      "英文函授",
+      "海市蜃楼"
+    ],
+    "people": [
+      "李敖",
+      "李文"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "沙漠",
+      "美国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "眼睛有时候会上当"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter",
+      "prison-father-letters-1974-04-11-receives-liwen-mar27-letter-clippings"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-04-19-writes-tongue-twisters-letter",
+    "date": "1974-04-19",
+    "displayDate": "1974年4月19日",
+    "title": "李敖写《“妈妈骑马，马慢，妈妈骂马”》，在信中又想到英文绕口令",
+    "summary": "1974年4月19日，李敖在景美军法处看守所第八房写《“妈妈骑马，马慢，妈妈骂马”》给李文。他先列出中文绕口令，再讲英文 tongue twister、tongue-tripper 和 tongue-twisting lyrics，举 seashells、big black bug、Peter Piper 等例子；写到中途，他在信中又想到一段较长的英文绕口令 Bill had a billboard，并顺手讲 billboard、bill、bore、bored 的用法。信末又补一句“一粒辣椒也比一篮南瓜好”的英文谚语。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "026.“妈妈骑马，马慢，妈妈骂马”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/026.“妈妈骑马，马慢，妈妈骂马”.txt",
+      "line": 51,
+      "lines": [
+        3,
+        5,
+        7,
+        15,
+        17,
+        21,
+        27,
+        41,
+        43,
+        51,
+        53,
+        55
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "绕口令",
+      "英文函授",
+      "信中想到"
+    ],
+    "people": [
+      "李敖",
+      "李文"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "美国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "“妈妈骑马，马慢，妈妈骂马”"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "创作线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "family",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day-inferred",
+    "id": "prison-father-letters-1974-04-25-spends-39th-birthday-alone-reading",
+    "date": "1974-04-25",
+    "displayDate": "1974年4月25日（由4月26日信倒推）",
+    "title": "李敖在景美狱中一个人静静过39岁生日，读完一本传记和一个剧本",
+    "summary": "1974年4月25日，李敖在景美军法处看守所第八房一个人静静地过39岁生日。次日他在《老鼠不信任一个洞》信末用玛士撒拉969岁、亚当930岁的差数开玩笑，说两个老头儿岁数相减的零头正是39岁；并记下自己在生日当天一天之内看了一本传记，又看了一个剧本。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "027.老鼠不信任一个洞",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/027.老鼠不信任一个洞.txt",
+      "line": 63,
+      "lines": [
+        61,
+        63
+      ]
+    },
+    "tags": [
+      "生日",
+      "狱中生活",
+      "读书",
+      "传记",
+      "剧本"
+    ],
+    "people": [
+      "李敖",
+      "玛士撒拉",
+      "亚当"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "老鼠不信任一个洞"
+    ],
+    "view": [
+      "人生线",
+      "狱中线",
+      "读书线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "family",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-04-26-receives-liwen-apr11-apr17-letters-card",
+    "date": "1974-04-26",
+    "displayDate": "1974年4月26日",
+    "title": "李敖同日收到李文4月11日、17日来信和卡片",
+    "summary": "1974年4月26日，李敖在景美军法处看守所第八房收到李文4月11日、17日的来信和卡片。他在当天《老鼠不信任一个洞》信末说“本周只给你写信”，并把这次收信同自己前一天静静过39岁生日的记录写在一起。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "027.老鼠不信任一个洞",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/027.老鼠不信任一个洞.txt",
+      "line": 63,
+      "lines": [
+        61,
+        63
+      ]
+    },
+    "tags": [
+      "狱中通信",
+      "李文",
+      "收信",
+      "卡片",
+      "生日"
+    ],
+    "people": [
+      "李敖",
+      "李文"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "美国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "老鼠不信任一个洞"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter",
+      "prison-father-letters-1974-04-25-spends-39th-birthday-alone-reading"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-04-26-writes-mouse-rat-judas-letter",
+    "date": "1974-04-26",
+    "displayDate": "1974年4月26日",
+    "title": "李敖写《老鼠不信任一个洞》，并记下39岁生日与同日收信",
+    "summary": "1974年4月26日，李敖在景美军法处看守所第八房写《老鼠不信任一个洞》给李文。他讲 mouse、mice、rat、rats、胆小如鼠与英文 wet as a drowned rat、as poor as a church mouse 等说法，又从“老鼠不信任一个洞”讲到船沉前老鼠先跑、rat 作出卖者、Judas kiss 和“别打落水狗”一组谚语；信末说英文要“一窝一窝的学”。他还记录当天收到李文两封信和卡片，并回述前一天一个人静静过39岁生日、看完一本传记和一个剧本。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "027.老鼠不信任一个洞",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/027.老鼠不信任一个洞.txt",
+      "line": 61,
+      "lines": [
+        3,
+        5,
+        9,
+        11,
+        19,
+        25,
+        35,
+        43,
+        45,
+        59,
+        61,
+        63
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "老鼠",
+      "犹大之吻",
+      "生日",
+      "读书",
+      "英文函授"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "犹大",
+      "耶稣",
+      "王尔德",
+      "玛士撒拉",
+      "亚当"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "美国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "老鼠不信任一个洞"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "读书线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter",
+      "prison-father-letters-1974-04-25-spends-39th-birthday-alone-reading",
+      "prison-father-letters-1974-04-26-receives-liwen-apr11-apr17-letters-card"
+    ]
+  },
+  {
+    "category": "family",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day-inferred",
+    "id": "prison-father-letters-1974-05-23-receives-liwen-may8-letter",
+    "date": "1974-05-23",
+    "displayDate": "1974年5月23日（由5月25日信倒推）",
+    "title": "李敖收到李文5月8日来信，谈到 Hedy 名字",
+    "summary": "1974年5月23日，李敖在景美军法处看守所第八房收到李文5月8日的来信。两天后他在《说姓道名》开头记下“前天收到你8号的信”，并从李文的英文名 Hedy 讲起，说姥姥称为 Hidy，大概是姥姥起的，由此展开英文姓名习惯的说明。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "028.说姓道名",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/028.说姓道名.txt",
+      "line": 5,
+      "lines": [
+        5,
+        37
+      ]
+    },
+    "tags": [
+      "狱中通信",
+      "李文",
+      "张桂贞",
+      "收信",
+      "Hedy"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "张桂贞"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "美国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "说姓道名"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-05-25-writes-names-hedy-lee-letter",
+    "date": "1974-05-25",
+    "displayDate": "1974年5月25日",
+    "title": "李敖写《说姓道名》，由李文来信讲 Hedy Lee 与英文姓名",
+    "summary": "1974年5月25日，李敖在景美军法处看守所第八房写《说姓道名》给李文。他从前天收到李文5月8日来信、谈到 Hedy 与姥姥说的 Hidy 开始，说明英文 name 可指姓、名或姓名，讲 first name、middle name、surname、family name、last name，以及 Robert E. Lee、Richard Nixon、Patricia Ryan 和赛珍珠改名不改名的例子；信中还说李文的 Hedy 小名可以是 Heddie 或 Hedie。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "028.说姓道名",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/028.说姓道名.txt",
+      "line": 37,
+      "lines": [
+        3,
+        5,
+        7,
+        15,
+        25,
+        27,
+        31,
+        35,
+        37
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "张桂贞",
+      "Hedy Lee",
+      "姓名",
+      "英文函授"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "张桂贞",
+      "Robert Edward Lee",
+      "Richard Nixon",
+      "Patricia Ryan",
+      "赛珍珠"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "美国",
+      "英国",
+      "中国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "说姓道名",
+      "大地"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter",
+      "prison-father-letters-1974-05-23-receives-liwen-may8-letter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-05-31-writes-owl-athens-wisdom-letter",
+    "date": "1974-05-31",
+    "displayDate": "1974年5月31日",
+    "title": "李敖写《猫头鹰为什么跟在智慧女神屁股后面？》，讲雅典、猫头鹰和多此一举",
+    "summary": "1974年5月31日，李敖在景美军法处看守所第八房写《猫头鹰为什么跟在智慧女神屁股后面？》给李文。他由 Carry coals to Newcastle、Carry water to the river 讲到 Carry owls to Athens，解释雅典、智慧女神 Athena 与猫头鹰象征智慧的关系；又说猫头鹰眼睛呆、眼珠不会动，需摇头晃脑看东西，并在信中调侃女猫头鹰用摇头代飞眼，男猫头鹰就飞了。信末还讲中国的枭、鸮、夜猫子迷信和 owl 作夜游子、夜场电影的俗语。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "029.猫头鹰为什么跟在智慧女神屁股后面？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/029.猫头鹰为什么跟在智慧女神屁股后面？.txt",
+      "line": 35,
+      "lines": [
+        3,
+        5,
+        11,
+        19,
+        21,
+        23,
+        25,
+        29,
+        31,
+        35
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "猫头鹰",
+      "雅典",
+      "智慧女神",
+      "英文函授"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "Athena",
+      "武大郎"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "Newcastle",
+      "Athens",
+      "Greece",
+      "中国",
+      "纽约"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "猫头鹰为什么跟在智慧女神屁股后面？"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "family",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-06-05-receives-grandma-may23-letter",
+    "date": "1974-06-05",
+    "displayDate": "1974年6月5日",
+    "title": "李敖收到姥姥5月23日来信",
+    "summary": "1974年6月5日，李敖在景美军法处看守所第八房收到姥姥张桂贞5月23日的来信。两天后他在《狼来了！狼来了！》信末记下收信日期，并说这封写给李文的信太长了，所以这次不给姥姥另写。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "030.狼来了！狼来了！",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/030.狼来了！狼来了！.txt",
+      "line": 29,
+      "lines": [
+        27,
+        29
+      ]
+    },
+    "tags": [
+      "狱中通信",
+      "张桂贞",
+      "收信",
+      "李文"
+    ],
+    "people": [
+      "李敖",
+      "张桂贞",
+      "李文"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "美国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "狼来了！狼来了！"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-06-07-writes-wolf-cry-wolf-letter",
+    "date": "1974-06-07",
+    "displayDate": "1974年6月7日",
+    "title": "李敖写《狼来了！狼来了！》，讲 Jack London、狼成语和姥姥来信",
+    "summary": "1974年6月7日，李敖在景美军法处看守所第八房写《狼来了！狼来了！》给李文。他从杰克·伦敦《野性的呼声》、圣伯纳混血狗和狼狗讲起，列出中文狼成语，再讲《伊索寓言》“狼来了”与英文 cry wolf、wolf down、keep the wolf from the door、wolf whistle、holding a wolf by the ears 等用法。信末说明姥姥5月23日的信已在6月5日收到，但这封给李文的信太长，所以不给姥姥另写。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "030.狼来了！狼来了！",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/030.狼来了！狼来了！.txt",
+      "line": 27,
+      "lines": [
+        3,
+        5,
+        9,
+        11,
+        15,
+        17,
+        19,
+        21,
+        23,
+        27,
+        29
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "张桂贞",
+      "狼",
+      "伊索寓言",
+      "英文函授"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "张桂贞",
+      "Jack London",
+      "Louisa M. Alcott"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "美国",
+      "英国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "狼来了！狼来了！",
+      "野性的呼声",
+      "伊索寓言",
+      "小妇人"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter",
+      "prison-father-letters-1974-06-05-receives-grandma-may23-letter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-06-14-writes-egg-humpty-dumpty-letter-and-urges-uncle-ding-remittance",
+    "date": "1974-06-14",
+    "displayDate": "1974年6月14日",
+    "title": "李敖写《谁先完蛋？》，讲 egghead、完蛋和 Humpty Dumpty",
+    "summary": "1974年6月14日，李敖在景美军法处看守所第八房写《谁先完蛋？》给李文。他接续去年11月4日信中提过的 egghead，讲蛋、卵、王八蛋、混蛋、Nuts、覆巢之下安有完卵、以卵击石和 Don't venture all your eggs in one basket；又介绍儿歌里的 Humpty Dumpty。信末他说明因催丁伯伯寄钱，本周不给姥姥写信，并嘱李文在姥姥生日时代他送卡片但要自己掏腰包；另在“给六姑”小段中解释子女性别由父方 X 或 Y 染色体决定。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "031.谁先完蛋？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/031.谁先完蛋？.txt",
+      "line": 45,
+      "lines": [
+        3,
+        5,
+        7,
+        15,
+        23,
+        25,
+        29,
+        33,
+        45,
+        47,
+        49,
+        53,
+        55,
+        57
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "张桂贞",
+      "丁伯伯",
+      "六姑",
+      "蛋",
+      "英文函授"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "张桂贞",
+      "丁伯伯",
+      "六姑",
+      "McAuliffe"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "美国",
+      "德国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "谁先完蛋？"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-06-23-writes-monkey-letter",
+    "date": "1974-06-23",
+    "displayDate": "1974年6月23日",
+    "title": "李敖写《猴相》，讲 monkey、朝三暮四和 monkey business",
+    "summary": "1974年6月23日，李敖在景美军法处看守所第八房写《猴相》给李文。他从 money、monkey、monkery 的字形差异讲起，转入“狙公”朝三暮四、猴快、猴精、教猱升木、狒狒和《西游记》孙悟空腮里藏仙丹；又用 monkey business、make a monkey of、throw a monkey wrench into、monkey with 等英文句子说明猴子在英语里的顽皮、捣乱和危险意味，并举艾森豪威尔继续指挥胜利队伍的例子。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "032.猴相",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/032.猴相.txt",
+      "line": 35,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15,
+        17,
+        23,
+        27,
+        29,
+        31,
+        35
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "猴",
+      "西游记",
+      "英文函授"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "孙悟空",
+      "太上老君",
+      "艾森豪威尔",
+      "Franklin Roosevelt"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "美国",
+      "中国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "猴相",
+      "西游记"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-06-30-writes-ape-tarzan-yeti-letter",
+    "date": "1974-06-30",
+    "displayDate": "1974年6月30日",
+    "title": "李敖写《从人猿到猿人》，讲 ape、Tarzan、Yeti 和北京人",
+    "summary": "1974年6月30日，李敖在景美军法处看守所第八房写《从人猿到猿人》给李文。他接着上封有尾巴的猴子信，改讲没尾巴的 ape：黑猩猩、长臂猿、大猩猩和婆罗洲、苏门答腊巨猿；又从牵猩猩下地狱、柏拉图和德国谚语讲到 Not that...but that... 的英文形式、Edgar Rice Burroughs 的 Tarzan of the Apes、喜马拉雅 Yeti，以及周口店“北京人”骨头在二战前遗失的事。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "033.从人猿到猿人",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/033.从人猿到猿人.txt",
+      "line": 55,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15,
+        21,
+        27,
+        41,
+        49,
+        51,
+        53,
+        55
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "猿",
+      "Tarzan",
+      "Yeti",
+      "北京人",
+      "英文函授"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "Plato",
+      "Edgar Rice Burroughs",
+      "Edmund P. Hillary",
+      "Tenzing Norgay"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "婆罗洲",
+      "苏门答腊",
+      "非洲",
+      "喜马拉雅山",
+      "Mount Everest",
+      "周口店"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "从人猿到猿人",
+      "Tarzan of the Apes"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "family",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-07-04-receives-liwen-jun19-letter",
+    "date": "1974-07-04",
+    "displayDate": "1974年7月4日",
+    "title": "李敖收到李文6月19日来信",
+    "summary": "1974年7月4日，李敖在景美军法处看守所第八房收到李文6月19日的来信。三天后他在《蘑菇个没完》信末记下“你6月19日的信7月4日收到”，这条收信小事说明父女狱中通信仍持续按来信触发下一封家书内容。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "034.蘑菇个没完",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/034.蘑菇个没完.txt",
+      "line": 31,
+      "lines": [
+        29,
+        31
+      ]
+    },
+    "tags": [
+      "狱中通信",
+      "李文",
+      "收信"
+    ],
+    "people": [
+      "李敖",
+      "李文"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "美国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "蘑菇个没完"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-07-07-writes-mushroom-letter-and-notes-jul4-letter",
+    "date": "1974-07-07",
+    "displayDate": "1974年7月7日",
+    "title": "李敖写《蘑菇个没完》，讲北平话“蘑菇”和 mushroom",
+    "summary": "1974年7月7日，李敖在景美军法处看守所第八房写《蘑菇个没完》给李文。他从李文向姥姥有所要求时“说个没完”的北平话“蘑菇”讲起，解释 mushroom 字谜、菌类、有毒 toadstool、沙皇 Alexis 吃毒菌、原子弹菌状云、mushroom fame 和 mushroom millionaire 等英文用法；信末说明7月4日已收到李文6月19日来信。这个日期同《波波颂》中7月7日夜狱中作《孤独与鬼》相接，显示同日还有诗作活动。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "034.蘑菇个没完",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/034.蘑菇个没完.txt",
+      "line": 29,
+      "lines": [
+        3,
+        5,
+        7,
+        13,
+        15,
+        17,
+        27,
+        29,
+        31
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "张桂贞",
+      "蘑菇",
+      "北平话",
+      "英文函授"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "张桂贞",
+      "Alexis",
+      "Peter the Great"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "北平",
+      "俄国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "蘑菇个没完",
+      "孤独与鬼"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter",
+      "prison-father-letters-1974-07-04-receives-liwen-jun19-letter",
+      "bobo-song-1974-07-07-loneliness-and-ghost"
+    ]
+  },
+  {
+    "category": "family",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-07-16-receives-liwen-jul3-letter",
+    "date": "1974-07-16",
+    "displayDate": "1974年7月16日",
+    "title": "李敖收到李文7月3日来信",
+    "summary": "1974年7月16日，李敖在景美军法处看守所第八房收到李文7月3日的来信。7月21日他在《非驴非马》信末记下“你3日的信16日收到”，仍把收信日期作为下一封家书的末尾补记。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "035.非驴非马",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/035.非驴非马.txt",
+      "line": 37,
+      "lines": [
+        35,
+        37
+      ]
+    },
+    "tags": [
+      "狱中通信",
+      "李文",
+      "收信"
+    ],
+    "people": [
+      "李敖",
+      "李文"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "美国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "非驴非马"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-07-21-writes-donkey-mule-letter",
+    "date": "1974-07-21",
+    "displayDate": "1974年7月21日",
+    "title": "李敖写《非驴非马》，讲 donkey、mule、hinny 与美国两党漫画",
+    "summary": "1974年7月21日，李敖在景美军法处看守所第八房写《非驴非马》给李文。他从 Hader 夫妇给儿童书画的骑驴画片讲起，解释 ass、donkey、骑驴觅驴、骑马找马、驴年马月、donkey's years、驴脾气和 as stubborn as a mule；又说明 mule 是公驴和母马生的“非驴非马”，hinny 是公马和母驴生的废物，并提到美国漫画中驴代表民主党、象代表共和党。信末补记7月16日已收到李文7月3日来信。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "035.非驴非马",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/035.非驴非马.txt",
+      "line": 35,
+      "lines": [
+        3,
+        5,
+        7,
+        13,
+        19,
+        27,
+        29,
+        31,
+        33,
+        35,
+        37
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "驴",
+      "骡子",
+      "美国两党",
+      "英文函授"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "Hader夫妇"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "美国",
+      "中国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "非驴非马"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter",
+      "prison-father-letters-1974-07-16-receives-liwen-jul3-letter"
+    ]
+  },
+  {
+    "category": "family",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-07-24-receives-grandma-liwen-mother-letters-before-return-taiwan-letter",
+    "date": "1974-07-24",
+    "displayDate": "1974年7月24日",
+    "title": "李敖同日收到姥姥、李文和妈妈多封来信与照片卡片",
+    "summary": "1974年7月24日，李敖在景美军法处看守所第八房收到姥姥7月12日来信、李文5月29日的照片卡片、李文6月18日来信三封；由八舅转来的妈妈6月24日和7月10日给李敖的信也都收到。8月4日《回台湾》信中，他把这批信件合并记下，并说明上周因李文和姥姥已在返台途中，所以没有写信。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "036.骑小马·回台湾",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/036.骑小马·回台湾.txt",
+      "line": 49,
+      "lines": [
+        45,
+        47,
+        49,
+        51,
+        77
+      ]
+    },
+    "tags": [
+      "狱中通信",
+      "李文",
+      "张桂贞",
+      "王尚勤",
+      "八舅",
+      "收信",
+      "返台"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "张桂贞",
+      "王尚勤",
+      "八舅"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "纽约",
+      "台湾",
+      "美国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "骑小马·回台湾"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-08-04-writes-pony-and-return-taiwan-letters",
+    "date": "1974-08-04",
+    "displayDate": "1974年8月4日",
+    "title": "李敖同日写《骑小马》和《回台湾》给李文",
+    "summary": "1974年8月4日，李敖在景美军法处看守所第八房同日给李文写《骑小马》和《回台湾》两封信。《骑小马》中，他由李文在纽约骑的 Shetland Pony 讲到拍马屁、马屁精、露出马脚、马路如虎口、盲人骑瞎马、Ride the high horse、pay for a dead horse、flog a dead horse 等马成语。《回台湾》中，他说明7月24日已收到姥姥、李文和妈妈多封信，因李文和姥姥上周正在返台途中而未写信；又根据李文回台湾后的处境，列出上美国学校、练英文、给妈妈和亲友写信、每周给爸爸写信、成立私人图书馆、监督姥姥保健、写日记、照相、养小狗、学会直接寄信等生活安排。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "036.骑小马·回台湾",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/036.骑小马·回台湾.txt",
+      "line": 77,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        27,
+        33,
+        43,
+        45,
+        47,
+        49,
+        51,
+        55,
+        59,
+        61,
+        63,
+        67,
+        71,
+        75,
+        77,
+        79
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "张桂贞",
+      "王尚勤",
+      "八舅",
+      "返台",
+      "小马",
+      "私人图书馆",
+      "英文函授"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "张桂贞",
+      "王尚勤",
+      "八舅"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "台湾",
+      "纽约",
+      "美国",
+      "Shetland"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "骑小马·回台湾"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter",
+      "prison-father-letters-1974-07-24-receives-grandma-liwen-mother-letters-before-return-taiwan-letter"
+    ]
+  },
+  {
+    "category": "family",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-08-07-receives-grandma-jul25-letter",
+    "date": "1974-08-07",
+    "displayDate": "1974年8月7日",
+    "title": "李敖收到姥姥7月25日来信",
+    "summary": "1974年8月7日，李敖在景美军法处看守所第八房收到姥姥张桂贞7月25日来信。三天后他在《鸽子·囮子·凯子》信末记下这件收信小事。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "037.鸽子·囮子·凯子",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/037.鸽子·囮子·凯子.txt",
+      "line": 27,
+      "lines": [
+        25,
+        27
+      ]
+    },
+    "tags": [
+      "狱中通信",
+      "张桂贞",
+      "收信"
+    ],
+    "people": [
+      "李敖",
+      "张桂贞"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "台湾"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "鸽子·囮子·凯子"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-08-10-writes-pigeon-decoy-pidgin-letter",
+    "date": "1974-08-10",
+    "displayDate": "1974年8月10日",
+    "title": "李敖写《鸽子·囮子·凯子》，讲 pigeon、stool-pigeon 和洋泾浜英文",
+    "summary": "1974年8月10日，李敖在景美军法处看守所第八房写《鸽子·囮子·凯子》给李文。他讲 pigeon、dove、信鸽、鹰派和鸽派、鸽子喝水和孵蛋，又解释美国俗话中 pigeon 可指女孩子或赌博中被骗输钱的“凯子”；随后讲 stool-pigeon、decoy、bait、trap，以及 Pigeon-English/Pidgin-English 与上海洋泾浜英文。信末补记8月7日收到姥姥7月25日来信。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "037.鸽子·囮子·凯子",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/037.鸽子·囮子·凯子.txt",
+      "line": 25,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15,
+        17,
+        21,
+        23,
+        25,
+        27
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "张桂贞",
+      "鸽子",
+      "洋泾浜英文",
+      "英文函授"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "张桂贞"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "美国",
+      "上海",
+      "洋泾浜"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "鸽子·囮子·凯子"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter",
+      "prison-father-letters-1974-08-07-receives-grandma-jul25-letter"
+    ]
+  },
+  {
+    "category": "family",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-08-14-receives-liwen-first-taiwan-letter-and-grandma-california-letter",
+    "date": "1974-08-14",
+    "displayDate": "1974年8月14日",
+    "title": "李敖收到李文回台湾后的第一封信和姥姥加州来信",
+    "summary": "1974年8月14日，李敖在景美军法处看守所第八房收到李文回台湾后的第一封信，即8月10日来信；同一天也收到姥姥8月1日在加州发出的信。8月17日他在《斗出自大来》信末把两封信合并记下。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "038.斗出自大来",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/038.斗出自大来.txt",
+      "line": 41,
+      "lines": [
+        39,
+        41,
+        43
+      ]
+    },
+    "tags": [
+      "狱中通信",
+      "李文",
+      "张桂贞",
+      "收信",
+      "返台"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "张桂贞"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "台湾",
+      "加州"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "斗出自大来"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-08-17-writes-cockfighting-cocky-letter",
+    "date": "1974-08-17",
+    "displayDate": "1974年8月17日",
+    "title": "李敖写《斗出自大来》，讲 cockeye、斗鸡和 cocky",
+    "summary": "1974年8月17日，李敖在景美军法处看守所第八房写《斗出自大来》给李文。他从“斗鸡眼”cockeye、cockeyed 讲到斗鸡、美国仍准斗鸡的三个州、gamecock、Every cock crows on its own dunghill、cock-a-doodle-doo、cock-a-hoop 和 cocky；又引用 George Eliot 描写自大者像以为太阳为听自己叫而升起的公鸡。信末补记8月14日收到李文回台湾后的第一封信和姥姥加州来信。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "038.斗出自大来",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/038.斗出自大来.txt",
+      "line": 39,
+      "lines": [
+        3,
+        5,
+        11,
+        13,
+        17,
+        19,
+        27,
+        29,
+        35,
+        39,
+        41,
+        43
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "张桂贞",
+      "斗鸡",
+      "自大",
+      "英文函授"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "张桂贞",
+      "George Eliot"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "美国",
+      "Florida",
+      "Kansas",
+      "New Mexico",
+      "英国",
+      "加州"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "斗出自大来"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter",
+      "prison-father-letters-1974-08-14-receives-liwen-first-taiwan-letter-and-grandma-california-letter"
+    ]
+  },
+  {
+    "category": "family",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-08-21-receives-uncle-hu-and-grandma-letters",
+    "date": "1974-08-21",
+    "displayDate": "1974年8月21日",
+    "title": "李敖收到胡伯伯8月6日信和姥姥8月16日信",
+    "summary": "1974年8月21日，李敖在景美军法处看守所第八房收到胡伯伯8月6日来信和姥姥8月16日来信。次日他在《谁在瞎忙？》信末说“昨天收到”，并顺便问李文是否已经收到自己8月4日、10日、17日给她的三封信。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "039.谁在瞎忙？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/039.谁在瞎忙？.txt",
+      "line": 41,
+      "lines": [
+        39,
+        41
+      ]
+    },
+    "tags": [
+      "狱中通信",
+      "胡伯伯",
+      "张桂贞",
+      "李文",
+      "收信"
+    ],
+    "people": [
+      "李敖",
+      "胡伯伯",
+      "张桂贞",
+      "李文"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "台湾"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "谁在瞎忙？"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-08-22-writes-molehill-busy-letter",
+    "date": "1974-08-22",
+    "displayDate": "1974年8月22日",
+    "title": "李敖写《谁在瞎忙？》，讲 mole、molehill 和无事忙",
+    "summary": "1974年8月22日，李敖在景美军法处看守所第八房写《谁在瞎忙？》给李文。他由 mule 和 mole 的差别讲到鼹鼠眼小、挖洞、molehill、as blind as a mole、Argus-eyed、make a mountain of a molehill，以及 promise mountains and perform molehills 一组空话骗人英文；最后把 a molehill man 解释为假忙的人，并联系《红楼梦》贾宝玉说的“无事忙”。信末他问李文是否收到自己8月4日、10日、17日的信，并补记前一天收到胡伯伯和姥姥来信。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "039.谁在瞎忙？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/039.谁在瞎忙？.txt",
+      "line": 39,
+      "lines": [
+        3,
+        5,
+        7,
+        11,
+        15,
+        17,
+        21,
+        23,
+        33,
+        37,
+        39,
+        41
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "胡伯伯",
+      "张桂贞",
+      "鼹鼠",
+      "无事忙",
+      "英文函授"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "胡伯伯",
+      "张桂贞",
+      "贾宝玉",
+      "Argus"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "台湾"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "谁在瞎忙？",
+      "红楼梦"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter",
+      "prison-father-letters-1974-08-21-receives-uncle-hu-and-grandma-letters"
+    ]
+  },
+  {
+    "category": "family",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-08-28-receives-liwen-aug20-letter",
+    "date": "1974-08-28",
+    "displayDate": "1974年8月28日",
+    "title": "李敖收到李文8月20日来信",
+    "summary": "1974年8月28日，李敖在景美军法处看守所第八房收到李文8月20日来信。8月31日他在《运动道德吗？》信末补记“你20日的信28日收到”。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "040.运动道德吗？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/040.运动道德吗？.txt",
+      "line": 37,
+      "lines": [
+        35,
+        37
+      ]
+    },
+    "tags": [
+      "狱中通信",
+      "李文",
+      "收信"
+    ],
+    "people": [
+      "李敖",
+      "李文"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "台湾"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "运动道德吗？"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-08-31-writes-sportsman-spade-letter",
+    "date": "1974-08-31",
+    "displayDate": "1974年8月31日",
+    "title": "李敖写《运动道德吗？》，由扑克牌讲 call a spade a spade 和 sportsman",
+    "summary": "1974年8月31日，李敖在景美军法处看守所第八房写《运动道德吗？》给李文。他从 poker、playing card、spade 和 Call a spade a spade 讲到“是什么就说什么”、颠倒黑白、指鹿为马、莎士比亚《驯悍记》、孔子“觚，不觚。觚哉？觚哉？”；又用胡子伯伯和姑姑开玩笑，说明名不副实。信末谈 sportsman 可指猎人也可指有运动道德的人，但猎人对动物并不公平，因此漫画中的鸭子才会奇怪；最后补记8月28日收到李文8月20日来信。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "040.运动道德吗？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/040.运动道德吗？.txt",
+      "line": 35,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        17,
+        19,
+        21,
+        27,
+        31,
+        33,
+        35,
+        37
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "扑克牌",
+      "孔子",
+      "运动道德",
+      "英文函授"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "莎士比亚",
+      "孔子",
+      "孟子",
+      "孟伯伯"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "台湾"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "运动道德吗？",
+      "驯悍记",
+      "四书"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter",
+      "prison-father-letters-1974-08-28-receives-liwen-aug20-letter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "month",
+    "id": "prison-father-letters-1974-09-writes-liwen-tenth-birthday-song-in-prison",
+    "date": "1974-09-01",
+    "displayDate": "1974年9月",
+    "title": "李敖在狱中作《小文十岁生日歌》",
+    "summary": "1974年9月，李敖在狱中作《小文十岁生日歌》，为女儿李文十岁生日写下祝歌。诗中以李文“丢掉小翅膀，跑到人间来偷睡”开头，写她成为爸爸妈妈的小宝贝；又把十年间忘不了的妈妈、姥姥、爸爸、奶奶、Kramer小学、六姑家小表妹、爸爸信里的狒狒、大嘴鸟、牛的胃、加州动物园和骑小马等记忆收拢进生日歌，最后写“人生二十才开始，小文才十岁”。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "041.小文十岁生日歌",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/041.小文十岁生日歌.txt",
+      "line": 65,
+      "lines": [
+        1,
+        3,
+        5,
+        9,
+        17,
+        19,
+        21,
+        23,
+        27,
+        35,
+        37,
+        41,
+        49,
+        55,
+        61,
+        63,
+        65
+      ]
+    },
+    "tags": [
+      "狱中创作",
+      "李文",
+      "十岁生日",
+      "生日歌",
+      "亲情"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "王尚勤",
+      "张桂贞",
+      "六姑"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "纽约",
+      "加州"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "小文十岁生日歌"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "创作线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter",
+      "book2-1964-09-22-daughter-hedy-born"
+    ]
+  },
+  {
+    "category": "family",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day-inferred",
+    "id": "prison-father-letters-1974-09-09-mails-birthday-card-to-liwen",
+    "date": "1974-09-09",
+    "displayDate": "1974年9月9日（由9月14日信倒推）",
+    "title": "李敖上星期一寄生日卡给李文",
+    "summary": "1974年9月9日左右，李敖在景美军法处看守所第八房为李文十岁生日寄出一张生日卡。9月14日他在《生日与十二宫图》开头问李文是否收到，并说明9月22日是她十岁生日。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "042.生日与十二宫图",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/042.生日与十二宫图.txt",
+      "line": 5,
+      "lines": [
+        3,
+        5,
+        71
+      ]
+    },
+    "tags": [
+      "狱中通信",
+      "李文",
+      "生日卡",
+      "十岁生日"
+    ],
+    "people": [
+      "李敖",
+      "李文"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "台湾"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "生日与十二宫图"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter",
+      "book2-1964-09-22-daughter-hedy-born"
+    ]
+  },
+  {
+    "category": "family",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-09-11-receives-liwen-sep6-letter",
+    "date": "1974-09-11",
+    "displayDate": "1974年9月11日",
+    "title": "李敖收到李文9月6日来信",
+    "summary": "1974年9月11日，李敖在景美军法处看守所第八房收到李文9月6日的来信。三天后他在《生日与十二宫图》信末补记“你6日信11日收到”。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "042.生日与十二宫图",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/042.生日与十二宫图.txt",
+      "line": 73,
+      "lines": [
+        71,
+        73
+      ]
+    },
+    "tags": [
+      "狱中通信",
+      "李文",
+      "收信"
+    ],
+    "people": [
+      "李敖",
+      "李文"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "台湾"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "生日与十二宫图"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-09-14-writes-birthday-zodiac-letter-and-gift",
+    "date": "1974-09-14",
+    "displayDate": "1974年9月14日",
+    "title": "李敖写《生日与十二宫图》，由姥姥转十五美元生日礼金给李文",
+    "summary": "1974年9月14日，李敖在景美军法处看守所第八房写《生日与十二宫图》给李文。他提醒9月22日是李文十岁生日，并问上星期一寄出的生日卡是否收到；又从法拉第、林肯、《解放黑奴宣言》说到生日、花甲、甲辰属龙、十二地支和西方十二宫图。信末他安排由姥姥转十五美元生日礼金给李文，请姥姥讲“己已巳戊戍戌”的分别和念法，并补记9月11日收到李文9月6日来信。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "042.生日与十二宫图",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/042.生日与十二宫图.txt",
+      "line": 71,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        13,
+        15,
+        25,
+        41,
+        67,
+        69,
+        71,
+        73
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "张桂贞",
+      "生日",
+      "生日礼金",
+      "十二宫图",
+      "英文函授"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "张桂贞",
+      "Michael Faraday",
+      "林肯",
+      "Hercules"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "台湾",
+      "美国",
+      "希腊"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "生日与十二宫图",
+      "解放黑奴宣言",
+      "三国演义"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter",
+      "book2-1964-09-22-daughter-hedy-born",
+      "prison-father-letters-1974-09-09-mails-birthday-card-to-liwen",
+      "prison-father-letters-1974-09-11-receives-liwen-sep6-letter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-09-21-writes-second-cat-dog-proverb-letter-to-li-wen",
+    "date": "1974-09-21",
+    "displayDate": "1974年9月21日",
+    "title": "李敖在景美狱中再给李文写《猫狗谚》，续谈狗英文和人不如狗",
+    "summary": "1974年9月21日，李敖在景美军法处看守所第八房再写一封《猫狗谚》给李文。他说要写一点好玩的、和狗有关的英文给她，列出打狗看主人、兔死狗烹、想打狗不愁找不到棒子、每条狗都有得意日等说法；又引法国罗兰夫人“我看到的人愈多，我愈欣赏狗”，说明狗的特色是忠心，不会因主人倒霉便打落水狗。信中还提醒李文养小狗要替它们捉跳蚤并问清怎么洗澡。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "001.猫狗谚",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/001.猫狗谚.txt",
+      "line": 43,
+      "lines": [
+        23,
+        25,
+        27,
+        31,
+        33,
+        35,
+        37,
+        39,
+        41,
+        43
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "猫狗谚",
+      "英文函授",
+      "罗兰夫人",
+      "景美军法处看守所"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "罗兰夫人"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "美国",
+      "法国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "猫狗谚"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "family",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-09-25-receives-liwen-sep18-sep19-letters-lincoln-photo",
+    "date": "1974-09-25",
+    "displayDate": "1974年9月25日",
+    "title": "李敖收到李文9月18、19日两封信和林肯纪念堂照片",
+    "summary": "1974年9月25日，李敖在景美军法处看守所第八房收到李文9月18、19日两封来信，并看到李文和姥姥在林肯纪念堂的照片。两天后他在《林肯·栗子·笑》第一封信开头称姥姥照得很年轻，李文似笑非笑、非常可爱。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "043.林肯·栗子·笑",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/043.林肯·栗子·笑.txt",
+      "line": 5,
+      "lines": [
+        3,
+        5,
+        31
+      ]
+    },
+    "tags": [
+      "狱中通信",
+      "李文",
+      "张桂贞",
+      "收信",
+      "照片",
+      "林肯纪念堂"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "张桂贞",
+      "林肯"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "华盛顿",
+      "林肯纪念堂"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "林肯·栗子·笑"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-09-27-writes-lincoln-smile-letter",
+    "date": "1974-09-27",
+    "displayDate": "1974年9月27日",
+    "title": "李敖写《林肯·栗子·笑》第一封，讲林肯和英文笑法",
+    "summary": "1974年9月27日，李敖在景美军法处看守所第八房写《林肯·栗子·笑》的第一封给李文。他先说9月25日收到李文两封信和林肯纪念堂照片，夸姥姥年轻、李文可爱；随后由照片背后的林肯讲到林肯母亲、贫穷自学和英文能力，再解释 smile、laugh、笑面虎、笑里藏刀、Macbeth 里的 daggers in men's smiles，以及林肯参议员竞选失败后“疼得没法笑、又大得不好意思哭”的故事。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "043.林肯·栗子·笑",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/043.林肯·栗子·笑.txt",
+      "line": 31,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        21,
+        25,
+        29,
+        31
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "张桂贞",
+      "林肯",
+      "英文函授",
+      "笑"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "张桂贞",
+      "林肯",
+      "莎士比亚"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "华盛顿",
+      "林肯纪念堂",
+      "美国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "林肯·栗子·笑",
+      "Macbeth"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter",
+      "prison-father-letters-1974-09-25-receives-liwen-sep18-sep19-letters-lincoln-photo"
+    ]
+  },
+  {
+    "category": "family",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-10-02-receives-liwen-grandma-sep27-letters",
+    "date": "1974-10-02",
+    "displayDate": "1974年10月2日",
+    "title": "李敖收到李文和姥姥9月27日来信，得知姥姥同意体检",
+    "summary": "1974年10月2日，李敖在景美军法处看守所第八房收到李文和姥姥9月27日的来信，并得知姥姥已同意到宏恩医院做一次身体检查。10月6日他在《“浪费蜡烛去找针”》开头记下这件事。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "044.“浪费蜡烛去找针”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/044.“浪费蜡烛去找针”.txt",
+      "line": 5,
+      "lines": [
+        3,
+        5,
+        23
+      ]
+    },
+    "tags": [
+      "狱中通信",
+      "李文",
+      "张桂贞",
+      "收信",
+      "宏恩医院",
+      "健康检查"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "张桂贞"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "宏恩医院",
+      "台湾"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "“浪费蜡烛去找针”"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-10-06-writes-candle-needle-health-check-letter",
+    "date": "1974-10-06",
+    "displayDate": "1974年10月6日",
+    "title": "李敖写《“浪费蜡烛去找针”》，叮嘱李文监督姥姥健康检查",
+    "summary": "1974年10月6日，李敖在景美军法处看守所第八房写《“浪费蜡烛去找针”》给李文。他先说10月2日收到李文和姥姥9月27日来信，得知姥姥同意去宏恩医院检查；随后在信中叮嘱李文，若医生要姥姥服保健药品，要每天督促她，并把照顾姥姥的情形写信告诉爸爸。他又从法国成语“浪费蜡烛去找针”、A stitch in time saves nine、海底捞针、指南针、钟表指针和 second-hand/second hand 的差别讲起。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "044.“浪费蜡烛去找针”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/044.“浪费蜡烛去找针”.txt",
+      "line": 23,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        21,
+        23,
+        25,
+        27
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "张桂贞",
+      "健康检查",
+      "宏恩医院",
+      "英文函授"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "张桂贞"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "宏恩医院",
+      "台湾",
+      "法国",
+      "中国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "“浪费蜡烛去找针”"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter",
+      "prison-father-letters-1974-10-02-receives-liwen-grandma-sep27-letters"
+    ]
+  },
+  {
+    "category": "family",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-10-14-receives-liwen-oct6-letter",
+    "date": "1974-10-14",
+    "displayDate": "1974年10月14日",
+    "title": "李敖收到李文10月6日来信",
+    "summary": "1974年10月14日，李敖在景美军法处看守所第八房收到李文10月6日的来信。10月19日他在《坐牢的名人》信末补记此事，并说明上周因给朋友写两封信，没有给李文写信。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "045.坐牢的名人",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/045.坐牢的名人.txt",
+      "line": 25,
+      "lines": [
+        23,
+        25
+      ]
+    },
+    "tags": [
+      "狱中通信",
+      "李文",
+      "收信",
+      "每周发信限制"
+    ],
+    "people": [
+      "李敖",
+      "李文"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "台湾"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "坐牢的名人"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-10-19-writes-famous-prisoners-letter-and-explains-imprisonment",
+    "date": "1974-10-19",
+    "displayDate": "1974年10月19日",
+    "title": "李敖写《坐牢的名人》，回应李文想探望他并说明坐牢不必然是坏人",
+    "summary": "1974年10月19日，李敖在景美军法处看守所第八房写《坐牢的名人》给李文。他在信中回应姥姥说李文想来看爸爸、妈妈已告诉她爸爸坐牢的事，并解释三年七个月来一直没告诉她，是因为她年纪太小，现在渐渐大了可以知道；又说坐牢原因复杂，有人是坏人，有人不是坏事甚至是冤狱。随后他讲德雷福斯、甘地夫人、尼赫鲁、圣雄甘地、勃兰特、伊丽莎白一世、马可波罗、笛福、伏尔泰、罗素、索尔仁尼琴、希特勒、赫斯和戴布兹等坐牢例子。信末补记10月14日收到李文10月6日来信，并说明这里每周只能发两封信，上周因给朋友写两封信没有给李文写。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "045.坐牢的名人",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/045.坐牢的名人.txt",
+      "line": 23,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15,
+        17,
+        19,
+        21,
+        23,
+        25
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "张桂贞",
+      "王尚勤",
+      "坐牢",
+      "冤狱",
+      "每周发信限制"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "张桂贞",
+      "王尚勤",
+      "Dreyfus",
+      "Indira Gandhi",
+      "Nehru",
+      "Mohandas Gandhi",
+      "Marco Polo",
+      "Daniel Defoe",
+      "Voltaire",
+      "Bertrand Russell",
+      "Solzhenitsyn",
+      "Hitler",
+      "Rudolf Hess",
+      "Eugene V. Debs"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "台湾",
+      "印度",
+      "法国",
+      "英国",
+      "美国",
+      "德国",
+      "意大利",
+      "中国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "坐牢的名人",
+      "马可波罗行记",
+      "Robinson Crusoe",
+      "我的奋斗"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter",
+      "prison-father-letters-1974-10-14-receives-liwen-oct6-letter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-10-26-writes-letter-to-grandma-recalled-in-signature-letter",
+    "date": "1974-10-26",
+    "displayDate": "1974年10月26日",
+    "title": "李敖给姥姥写信，由11月3日信中回溯可知",
+    "summary": "1974年10月26日，李敖在景美军法处看守所第八房曾给姥姥张桂贞写信。11月3日他在《怪签名》开头问李文，爸爸10月19日给她的信、10月26日给姥姥的信和10月27日给她的信是否都收到了，由此可定位这封给姥姥的信。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "047.怪签名",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/047.怪签名.txt",
+      "line": 5,
+      "lines": [
+        3,
+        5,
+        23
+      ]
+    },
+    "tags": [
+      "狱中通信",
+      "张桂贞",
+      "李文",
+      "给姥姥写信",
+      "信中回溯"
+    ],
+    "people": [
+      "李敖",
+      "张桂贞",
+      "李文"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "台湾"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "怪签名"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-10-27-writes-shadow-substance-letter",
+    "date": "1974-10-27",
+    "displayDate": "1974年10月27日",
+    "title": "李敖写《水肉·水月·影子戏》，在信中议论追影失实",
+    "summary": "1974年10月27日，李敖在景美军法处看守所第八房写《水肉·水月·影子戏》给李文。他从狗衔肉见水中倒影、李白水中捞月、镜花水月讲起，在信中议论有人追求影子并拿影子骗人，老母亲因溺爱小儿子而“牺牲实在而信虚幻”，会成为小儿子做恶的同谋；又讲 silhouette 和汉武帝想李夫人引出的皮人影子戏与“姗姗来迟”。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "046.水肉·水月·影子戏",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/046.水肉·水月·影子戏.txt",
+      "line": 17,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        15,
+        17
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "影子",
+      "水中捞月",
+      "信中议论",
+      "英文函授"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "李白",
+      "莫泊桑",
+      "汉武帝",
+      "李夫人"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "台湾",
+      "中国",
+      "法国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "水肉·水月·影子戏",
+      "女人的一生"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-11-03-writes-strange-signatures-letter",
+    "date": "1974-11-03",
+    "displayDate": "1974年11月3日",
+    "title": "李敖写《怪签名》，问李文是否收到10月三封信",
+    "summary": "1974年11月3日，李敖在景美军法处看守所第八房写《怪签名》给李文。他开头先问李文是否收到爸爸10月19日给她的信、10月26日给姥姥的信和10月27日给她的信；随后讲伊丽莎白一世、富兰克林、John Hancock 与美国《独立宣言》的签名，又解释 hang together 的双关语和李鸿章“庭前桃未发”“阁下李先生”的双关。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "047.怪签名",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/047.怪签名.txt",
+      "line": 23,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        15,
+        17,
+        21,
+        23
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "张桂贞",
+      "签名",
+      "双关语",
+      "英文函授"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "张桂贞",
+      "Elizabeth I",
+      "Franklin",
+      "John Hancock",
+      "李鸿章"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "台湾",
+      "美国",
+      "英国",
+      "中国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "怪签名",
+      "独立宣言"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter",
+      "prison-father-letters-1974-10-26-writes-letter-to-grandma-recalled-in-signature-letter",
+      "prison-father-letters-1974-10-27-writes-shadow-substance-letter",
+      "prison-father-letters-1974-10-19-writes-famous-prisoners-letter-and-explains-imprisonment"
+    ]
+  },
+  {
+    "category": "family",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-11-13-receives-liwen-nov8-letter-and-praises-progress",
+    "date": "1974-11-13",
+    "displayDate": "1974年11月13日",
+    "title": "李敖收到李文11月8日来信，赞她英文写作和字都有进步",
+    "summary": "1974年11月13日，李敖在景美军法处看守所第八房收到李文11月8日的来信。11月16日他在《你看中国人分得多细》开头记下此事，并称李文在英文写作和字上都有很大进步，自己很高兴；又由她信中提到的真假姥姥，转入中文亲属称谓和英文 grandma 的差别。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "048.你看中国人分得多细",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/048.你看中国人分得多细.txt",
+      "line": 5,
+      "lines": [
+        3,
+        5,
+        49
+      ]
+    },
+    "tags": [
+      "狱中通信",
+      "李文",
+      "收信",
+      "英文进步",
+      "亲属称谓"
+    ],
+    "people": [
+      "李敖",
+      "李文"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "台湾"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "你看中国人分得多细"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-11-16-writes-chinese-kinship-letter",
+    "date": "1974-11-16",
+    "displayDate": "1974年11月16日",
+    "title": "李敖写《你看中国人分得多细》，由真假姥姥讲中英文亲属称谓",
+    "summary": "1974年11月16日，李敖在景美军法处看守所第八房写《你看中国人分得多细》给李文。他从11月13日收到李文11月8日来信、信中提到真假姥姥说起，说明英文里都叫 grandma，而中文亲属关系分得细；随后逐一比较祖母、外祖母、哥哥弟弟、姐姐妹妹、堂表兄弟姐妹、uncle、aunt、nephew、niece、in-law、half brother、half sister，以及中国人和外国人回答“有几个姐妹”的不同习惯。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "048.你看中国人分得多细",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/048.你看中国人分得多细.txt",
+      "line": 49,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        13,
+        17,
+        21,
+        29,
+        33,
+        37,
+        39,
+        43,
+        45,
+        47,
+        49
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "亲属称谓",
+      "英文函授",
+      "张桂贞"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "张桂贞",
+      "六姑",
+      "怡怡",
+      "安安",
+      "宁宁"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "台湾",
+      "中国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "你看中国人分得多细"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter",
+      "prison-father-letters-1974-11-13-receives-liwen-nov8-letter-and-praises-progress"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-11-22-writes-heaven-paradise-utopia-letter",
+    "date": "1974-11-22",
+    "displayDate": "1974年11月22日",
+    "title": "李敖写《天上天堂与人间天堂》，讲 heaven、paradise、桃花源和乌托邦",
+    "summary": "1974年11月22日，李敖在景美军法处看守所第八房写《天上天堂与人间天堂》给李文。他从 heaven、paradise、弥尔顿《失乐园》、伊甸园和三十三天、七重天讲起，再讲陶渊明《桃花源记》、罗斯福以 Shangrila 比喻秘密基地、Samuel Butler 的 Erehwon，以及 Thomas More 的 Utopia。信末还说明画片上的 Thomas More 和 Henry VIII 都是 Hans Holbein 画的，并说画家长得很像孟伯伯。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "049.天上天堂与人间天堂",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/049.天上天堂与人间天堂.txt",
+      "line": 17,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15,
+        17,
+        19
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "天堂",
+      "桃花源",
+      "乌托邦",
+      "英文函授"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "John Milton",
+      "陶渊明",
+      "罗斯福",
+      "James Hilton",
+      "Samuel Butler",
+      "Thomas More",
+      "Henry VIII",
+      "Hans Holbein",
+      "孟伯伯"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "台湾",
+      "伊甸园",
+      "东京",
+      "英国",
+      "美国",
+      "中国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "天上天堂与人间天堂",
+      "失乐园",
+      "桃花源记",
+      "Erehwon",
+      "Utopia"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-12-15-writes-cat-and-mouse-act-christmas-card-letter",
+    "date": "1974-12-15",
+    "displayDate": "1974年12月15日",
+    "title": "李敖写《猫抓耗子法案》，说这是在这边能买到的最好圣诞卡片",
+    "summary": "1974年12月15日，李敖在景美军法处看守所第八房写《猫抓耗子法案》给李文，并说这是“在这边爸爸所能买到的最好的一张圣诞卡片”。他从卡片上猫眼没印好讲到重瞳、白内障、cat's-eye、cat's cradle、cat and mouse 游戏；再解释英国1913年的 Cat-and-mouse Act、妇女参政者绝食、fast 与 breakfast，以及印度甘地在牢里绝食二十一天的故事。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "050.猫抓耗子法案",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/050.猫抓耗子法案.txt",
+      "line": 17,
+      "lines": [
+        3,
+        5,
+        7,
+        11,
+        13,
+        15,
+        17
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "圣诞卡片",
+      "猫抓耗子法案",
+      "甘地",
+      "英文函授"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "虞舜",
+      "项羽",
+      "Mohandas Gandhi"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "台湾",
+      "英国",
+      "印度",
+      "中国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "猫抓耗子法案"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1974-12-22-writes-year-filial-piety-letter-and-recalls-reforms",
+    "date": "1974-12-22",
+    "displayDate": "1974年12月22日",
+    "title": "李敖写《谈年论孝》，在信中自述不随俗过旧历年和改革丧礼",
+    "summary": "1974年12月22日，李敖在景美军法处看守所第八房写《谈年论孝》给李文。他先说上周寄到学校的信和卡片，继而在狱中信中回忆二十多年前自己反对旧历年习俗，曾退回祖父给的压岁钱和糖果、独吃炒饭“唱对台”；祖父去世后，他又因祖母喜欢团圆而陪她吃年饭。李敖还在信中自述祖父丧礼时反对虚伪礼俗、推动丧礼改革，被人说成“不孝”；十年后他整理祖父的中国文学史遗稿，印成两本书作为纪念。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "051.谈年论孝",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/051.谈年论孝.txt",
+      "line": 65,
+      "lines": [
+        5,
+        51,
+        55,
+        57,
+        59,
+        61,
+        63,
+        65,
+        67
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "旧历年",
+      "孝道",
+      "丧礼改革",
+      "祖父遗稿"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "李敖祖父",
+      "李敖祖母"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "台湾"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "谈年论孝",
+      "中国文学史"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1975-01-02-night-writes-dad-mom-letter-and-notes-dec15-card-photo",
+    "date": "1975-01-02",
+    "displayDate": "1975年1月2日夜",
+    "title": "李敖夜写《“爸”·“爹”·“妈”》，说收到李文12月15日信、照片和贺年片",
+    "summary": "1975年1月2日夜，李敖在景美军法处看守所第八房写《“爸”·“爹”·“妈”》给李文。他从 dad、daddy、father、papa、mother、mama、mom 等英文称谓讲起，说明不同叫法的亲疏与语气，并举 Daddy Long Legs 等例子。信末他记下已收到李文上月15日的信和照片，也收到贺年片，并称这张照片照得漂亮可爱。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "052.“爸”·“爹”·“妈”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/052.“爸”·“爹”·“妈”.txt",
+      "line": 47,
+      "lines": [
+        3,
+        5,
+        9,
+        17,
+        25,
+        33,
+        43,
+        45,
+        47
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "英文称谓",
+      "收信",
+      "照片",
+      "贺年片"
+    ],
+    "people": [
+      "李敖",
+      "李文"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "台湾"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "“爸”·“爹”·“妈”",
+      "Daddy Long Legs"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1975-01-17-writes-wood-prefix-letter-and-asks-weekly-letters",
+    "date": "1975-01-17",
+    "displayDate": "1975年1月17日",
+    "title": "李敖写《木字头的》，问1月2日去信是否收到并盼李文每周来信",
+    "summary": "1975年1月17日，李敖在景美军法处看守所第八房写《木字头的》给李文。他由英文 meow、bow-wow 和中文偏旁说起，解释木字旁、柳树、圣柳、耶稣荆冠等字词掌故。开头他问1月2日寄给李文的信是否收到，又说自李文去年12月15日寄信和卡片以后一直没再接到信，担心她功课太忙，仍希望她每周写信来。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "053.木字头的",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/053.木字头的.txt",
+      "line": 25,
+      "lines": [
+        3,
+        5,
+        7,
+        15,
+        21,
+        25
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "收信追问",
+      "每周写信",
+      "中文偏旁",
+      "柳树"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "耶稣"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "台湾"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "木字头的"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "family",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1975-01-28-receives-liwen-jan26-plant-letter",
+    "date": "1975-01-28",
+    "displayDate": "1975年1月28日",
+    "title": "李敖收到李文1月26日来信，得知她开始学植物",
+    "summary": "1975年1月28日，李敖在景美军法处看守所第八房收到李文1月26日来信。2月1日他在《踏脚石与马铃薯》信末记下“你上月26信28收到”，并在正文开头回应李文开始学 plant、要爸爸写一点植物给她，于是转讲 Mayflower、祖先、踏脚石和马铃薯。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "054.踏脚石与马铃薯",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/054.踏脚石与马铃薯.txt",
+      "line": 27,
+      "lines": [
+        3,
+        5,
+        7,
+        17,
+        23,
+        25,
+        27
+      ]
+    },
+    "tags": [
+      "狱中通信",
+      "李文",
+      "收信",
+      "植物",
+      "英文函授"
+    ],
+    "people": [
+      "李敖",
+      "李文"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "台湾"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "踏脚石与马铃薯"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1975-02-01-writes-mayflower-potato-letter",
+    "date": "1975-02-01",
+    "displayDate": "1975年2月1日",
+    "title": "李敖写《踏脚石与马铃薯》，由李文学植物转讲祖先、五月花号和马铃薯",
+    "summary": "1975年2月1日，李敖在景美军法处看守所第八房写《踏脚石与马铃薯》给李文。他回应李文开始学植物一事，从 plant 谈到 Mayflower、Pilgrims、Plymouth Rock，说明自己不爱夸祖先，认为好祖先只能当踏脚石；又从 pot、potato、sweet potato 谈到美国人吃马铃薯、爱尔兰马铃薯歉收和美国的 Irish potatoes。信末他记明李文1月26日的信已在1月28日收到。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "054.踏脚石与马铃薯",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/054.踏脚石与马铃薯.txt",
+      "line": 25,
+      "lines": [
+        3,
+        5,
+        7,
+        11,
+        13,
+        17,
+        21,
+        23,
+        25,
+        27
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "植物",
+      "五月花号",
+      "祖先",
+      "马铃薯"
+    ],
+    "people": [
+      "李敖",
+      "李文"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "台湾",
+      "美国",
+      "爱尔兰"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "踏脚石与马铃薯"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter",
+      "prison-father-letters-1975-01-28-receives-liwen-jan26-plant-letter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1975-02-15-writes-chestnut-letter-and-promises-piano",
+    "date": "1975-02-15",
+    "displayDate": "1975年2月15日",
+    "title": "李敖写《林肯·栗子·笑》第二封，称收到成绩单影本和六页剪贴",
+    "summary": "1975年2月15日，李敖在景美军法处看守所第八房写《林肯·栗子·笑》的第二封给李文。他接续前年10月7日谈过的 buckeye 和去年1月12日谈过的小松鼠、nut，转讲 chestnut、火中取栗、cat's-paw、horse-chestnut、chestnut horse，以及林肯讽刺 Douglas 想把七叶树证明成栗色马。信末他说已收到李文成绩单影本和六页剪贴，很高兴她有好成绩、进步快；又说明自己不过旧历年所以没特别送礼，但短期内一定为她买到钢琴，并请姥姥代买一双皮拖鞋。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "043.林肯·栗子·笑",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/043.林肯·栗子·笑.txt",
+      "line": 59,
+      "lines": [
+        33,
+        35,
+        37,
+        39,
+        43,
+        45,
+        49,
+        55,
+        57,
+        59,
+        61,
+        63
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "成绩单",
+      "钢琴",
+      "皮拖鞋",
+      "栗子",
+      "英文函授"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "张桂贞",
+      "林肯",
+      "Stephen A. Douglas"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "台湾",
+      "美国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "林肯·栗子·笑"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter",
+      "prison-father-letters-1974-09-27-writes-lincoln-smile-letter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1975-03-09-writes-i-hate-japan-letter-and-raises-piano-money",
+    "date": "1975-03-09",
+    "displayDate": "1975年3月9日",
+    "title": "李敖写《我讨厌日本》，说明忙着为李文筹买钢琴的钱",
+    "summary": "1975年3月9日，李敖在景美军法处看守所第八房写《我讨厌日本》给李文。他先校正李文2月15日信中的一句中文，又说李文2月2日信、2月14日 Valentine 卡片和来信、小卡片、2月24日信都已收到；这阵子自己忙着写信替李文筹买钢琴的钱，所以没给她写信，现在钱筹得差不多，可确定下月初就能买到。李敖还在狱中信中表明自己讨厌日本和日本人，但并不抹杀他们的本领，进而讲日本人向中国、印度、美国学习的历史。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "055.我讨厌日本",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/055.我讨厌日本.txt",
+      "line": 57,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        13,
+        27,
+        41,
+        49,
+        57
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "钢琴",
+      "筹款",
+      "日本",
+      "文化判断",
+      "收信"
+    ],
+    "people": [
+      "李敖",
+      "李文"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "台湾",
+      "日本",
+      "中国",
+      "印度",
+      "美国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "我讨厌日本"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter",
+      "prison-father-letters-1975-02-15-writes-chestnut-letter-and-promises-piano"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1975-03-23-writes-da-vinci-dandelion-letter",
+    "date": "1975-03-23",
+    "displayDate": "1975年3月23日",
+    "title": "李敖写《从达芬奇到蒲公英》，称收到李文3月10日信并赞英文进步快",
+    "summary": "1975年3月23日，李敖在景美军法处看守所第八房写《从达芬奇到蒲公英》给李文。他由达芬奇左手镜写、Mona Lisa、《最后的晚餐》和降落伞讲到蒲公英，再从 dandelion 转到《乱世佳人》里把蒲公英献给女孩子的情节。信末他记下收到李文10日来信，并称她的英文进步得真快。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "056.从达芬奇到蒲公英",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/056.从达芬奇到蒲公英.txt",
+      "line": 33,
+      "lines": [
+        3,
+        5,
+        9,
+        13,
+        17,
+        25,
+        31,
+        33,
+        35
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "达芬奇",
+      "蒲公英",
+      "英文进步",
+      "收信"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "Leonardo da Vinci"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "台湾",
+      "意大利",
+      "美国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "从达芬奇到蒲公英",
+      "Mona Lisa",
+      "The Last Supper",
+      "Gone with the Wind"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1975-03-30-writes-senses-blind-elephant-letter",
+    "date": "1975-03-30",
+    "displayDate": "1975年3月30日",
+    "title": "李敖写《瞎子可以摸出象来》，说收到李文来信、复活节卡片和小口香糖",
+    "summary": "1975年3月30日，李敖在景美军法处看守所第八房写《瞎子可以摸出象来》给李文。他从五官、所谓 sixth sense、盲人摸象、Braille、Helen Keller 讲到气味、味觉、听觉、Nixon 窃听器、蝙蝠和鲨鱼等感官例子。信末他记下已收到李文23日来信、她自己做的 Easter 卡片和小口香糖，称卡片做得可爱，并解释 daylight-saving-time 的俚语 monkey time。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "057.瞎子可以摸出象来",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/057.瞎子可以摸出象来.txt",
+      "line": 51,
+      "lines": [
+        3,
+        5,
+        9,
+        13,
+        19,
+        25,
+        31,
+        37,
+        45,
+        51,
+        53
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "复活节卡片",
+      "口香糖",
+      "盲文",
+      "感官"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "Helen Keller",
+      "Richard Nixon"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "台湾",
+      "美国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "瞎子可以摸出象来"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1975-04-06-writes-peter-pan-wendy-middle-name-letter",
+    "date": "1975-04-06",
+    "displayDate": "1975年4月6日",
+    "title": "李敖写《彼得·潘·潘彼得》，在信中建议李文用 Wendy 作 middle name",
+    "summary": "1975年4月6日，李敖在景美军法处看守所第八房写《彼得·潘·潘彼得》给李文。他把上月23日信中提到的达芬奇《最后的晚餐》贴在信里，又由 Peter Pan、Wendy、Neverland 和 Barrie 讲到人名与中英对应。李敖在狱中信中认为 Wendy 声音近“文谛”，可对应李文的中文名，建议她像 Pat 一样把 Wendy 放在 middle name，并请她写信问妈妈后再决定；信中还回忆梁实秋评论《胡适评传》时称赞他搜集材料的本领很大。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "058.彼得·潘·潘彼得",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/058.彼得·潘·潘彼得.txt",
+      "line": 39,
+      "lines": [
+        3,
+        5,
+        9,
+        17,
+        25,
+        29,
+        31,
+        33,
+        35,
+        37,
+        39
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "英文名字",
+      "Wendy",
+      "胡适评传",
+      "梁实秋"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "李文母亲",
+      "梁实秋",
+      "James Matthew Barrie",
+      "Wendy",
+      "Peter Pan"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "台湾",
+      "英国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "彼得·潘·潘彼得",
+      "The Last Supper",
+      "Peter Pan",
+      "胡适评传"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter",
+      "prison-father-letters-1975-03-23-writes-da-vinci-dandelion-letter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1975-04-20-writes-india-letter-and-notes-liwen-sent-items",
+    "date": "1975-04-20",
+    "displayDate": "1975年4月20日",
+    "title": "李敖写《记印度阿三》，说收到李文送来的书、卡片和画片",
+    "summary": "1975年4月20日，李敖在景美军法处看守所第八房写《记印度阿三》给李文。他由印度人、锡克教徒、瑜伽、种姓、贱民、佛教、恒河、寡妇殉葬、泰姬陵和泰戈尔等线索，向李文讲印度历史与社会习俗；信中也清楚批评种姓和贫穷问题。信末他记下已收到李文送来的书、卡片和画片，并请姥姥替李文买一本泰戈尔小诗集，如《失群的鸟》或《飞鸟集》。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "059.记印度阿三",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/059.记印度阿三.txt",
+      "line": 65,
+      "lines": [
+        3,
+        5,
+        11,
+        17,
+        25,
+        31,
+        37,
+        45,
+        53,
+        57,
+        63,
+        65,
+        67
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "印度",
+      "泰戈尔",
+      "收礼",
+      "姥姥"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "张桂贞",
+      "Rabindranath Tagore"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "台湾",
+      "印度",
+      "恒河"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "记印度阿三",
+      "失群的鸟",
+      "飞鸟集"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1975-04-26-writes-samoa-requiem-letter",
+    "date": "1975-04-26",
+    "displayDate": "1975年4月26日",
+    "title": "李敖写《萨摩亚与自挽诗》，翻译 Stevenson 的 Requiem 给李文",
+    "summary": "1975年4月26日，李敖在景美军法处看守所第八房写《萨摩亚与自挽诗》给李文。他从 Samoa、Robert Louis Stevenson、《金银岛》和 Stevenson 晚年葬在萨摩亚山顶讲起，并把 Stevenson 墓上的 Requiem 翻译成中文“自挽诗”给李文看。信末他记下收到李文给爸爸的信、生日卡和成绩单，因她成绩好而高兴，也盼她英文写作能像成绩那样在班上出色。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "060.萨摩亚与自挽诗",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/060.萨摩亚与自挽诗.txt",
+      "line": 79,
+      "lines": [
+        3,
+        5,
+        13,
+        21,
+        29,
+        35,
+        41,
+        49,
+        55,
+        63,
+        71,
+        77,
+        79
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "生日卡",
+      "成绩单",
+      "Stevenson",
+      "自挽诗",
+      "翻译"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "Robert Louis Stevenson"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "台湾",
+      "萨摩亚",
+      "英国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "萨摩亚与自挽诗",
+      "Treasure Island",
+      "Requiem"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1975-05-10-writes-nutrition-letter-and-receives-may1-letters",
+    "date": "1975-05-10",
+    "displayDate": "1975年5月10日",
+    "title": "李敖写《素食种种》，说收到姥姥和李文5月1日来信并为成绩高兴",
+    "summary": "1975年5月10日，李敖在景美军法处看守所第八房写《素食种种》给李文。他由 Walter de la Mare 的“Miss T.”诗句讲 nutrition，逐项解释蛋白质、生理价、素食主义、醣类、脂肪、维生素、矿物质和水，也举卢梭、托尔斯泰、萧伯纳、甘地等素食名人为例。信末他记下姥姥和李文5月1日的信都已收到，因李文成绩比别的小朋友好而高兴，并说明信上画片和另附的 nutrition 画片可供她取用。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "061.素食种种",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/061.素食种种.txt",
+      "line": 59,
+      "lines": [
+        3,
+        5,
+        17,
+        19,
+        21,
+        23,
+        27,
+        29,
+        31,
+        49,
+        57,
+        59,
+        61,
+        63
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "姥姥",
+      "收信",
+      "成绩",
+      "营养",
+      "素食"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "张桂贞",
+      "Jean-Jacques Rousseau",
+      "Leo Tolstoy",
+      "George Bernard Shaw",
+      "Mohandas Gandhi"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "台湾",
+      "非洲"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "素食种种",
+      "Miss T."
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1975-05-18-writes-remora-letter-and-asks-grandma-bring-books",
+    "date": "1975-05-18",
+    "displayDate": "1975年5月18日",
+    "title": "李敖写《专门吃大鱼》，托李文请姥姥每周探望时从家里书架带中文书",
+    "summary": "1975年5月18日，李敖在景美军法处看守所第八房写《专门吃大鱼》给李文。他由“大鱼吃小鱼”讲到 remora 鮣鱼、shark sucker、hitch-hiker 和路边搭便车的英文说法。信末他把狱中读书需求交给李文，请她转告姥姥每周来看爸爸时，顺便从家里书架取两本中文书带来，以翻译小说、章回小说、历史书最理想，或什么书都可以，但不要买。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "062.专门吃大鱼",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/062.专门吃大鱼.txt",
+      "line": 19,
+      "lines": [
+        3,
+        5,
+        7,
+        11,
+        13,
+        15,
+        17,
+        19,
+        21
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "姥姥",
+      "探监",
+      "中文书",
+      "鮣鱼",
+      "英文函授"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "张桂贞"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "台湾"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "专门吃大鱼"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1975-05-24-writes-mermaid-letter-and-arranges-summer-mail-gift",
+    "date": "1975-05-24",
+    "displayDate": "1975年5月24日",
+    "title": "李敖写《“海外人鱼”》，安排暑假后信寄家里并请李文代送姥姥生日礼物",
+    "summary": "1975年5月24日，李敖在景美军法处看守所第八房写《“海外人鱼”》给李文。他由安徒生童话、小美人鱼铜像、《镜花缘》“海外人鱼”、伦敦 Mermaid Tavern 和 mermaid 的游泳含义讲起，最后问李文要不要做美人鱼。信末他安排下周起把信寄到家里，因为李文放暑假了；又嘱李文在姥姥生日时代爸爸送礼物。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "063.“海外人鱼”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/063.“海外人鱼”.txt",
+      "line": 19,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15,
+        17,
+        19
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "暑假",
+      "姥姥生日",
+      "送礼",
+      "美人鱼",
+      "安徒生"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "张桂贞",
+      "Hans Christian Andersen",
+      "William Shakespeare",
+      "Ben Jonson"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "台湾",
+      "丹麦",
+      "哥本哈根",
+      "伦敦"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "“海外人鱼”",
+      "The Little Mermaid",
+      "镜花缘"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1975-05-31-writes-six-scientists-letter-and-follows-up-books",
+    "date": "1975-05-31",
+    "displayDate": "1975年5月31日",
+    "title": "李敖写《他们六个》，照李文开来的名字讲六个科学家并追问带书事",
+    "summary": "1975年5月31日，李敖在景美军法处看守所第八房写《他们六个》给李文。他回应李文要爸爸讲六个科学家的请求，照她开来的名字，依次讲亚里士多德、伽利略、哈维、波义耳、牛顿、爱因斯坦的科学贡献和生平掌故。信末他追问5月18日信上托姥姥每周办理的带书事项，姥姥是否已经办了。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "064.他们六个",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/064.他们六个.txt",
+      "line": 101,
+      "lines": [
+        3,
+        5,
+        7,
+        19,
+        21,
+        27,
+        29,
+        33,
+        41,
+        45,
+        49,
+        53,
+        61,
+        83,
+        89,
+        91,
+        99,
+        101,
+        103
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "科学家",
+      "姥姥",
+      "带书",
+      "英文函授"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "张桂贞",
+      "Aristotle",
+      "Galileo Galilei",
+      "William Harvey",
+      "Robert Boyle",
+      "Isaac Newton",
+      "Albert Einstein"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "台湾",
+      "希腊",
+      "意大利",
+      "英国",
+      "美国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "他们六个"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter",
+      "prison-father-letters-1975-05-18-writes-remora-letter-and-asks-grandma-bring-books"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1975-06-08-writes-australia-platypus-letter-and-judges-white-australia",
+    "date": "1975-06-08",
+    "displayDate": "1975年6月8日",
+    "title": "李敖写《从鸭嘴兽到水獭》第一封，讲澳洲并在信中批评白澳政策",
+    "summary": "1975年6月8日，李敖在景美军法处看守所第八房写《从鸭嘴兽到水獭》中的第一封给李文。他由下蛋的哺乳动物鸭嘴兽、koala、袋鼠和 kangaroo court 讲到澳洲曾是英国流放犯人的地方、悉尼、堪培拉、墨尔本、塔斯马尼亚、大堡礁和澳洲畜牧。李敖在狱中信中判断澳洲“白澳政策”错误而自私，是“狗占马槽”“占着茅坑不拉屎”，并说贫穷地区的人终会对这种不公平发声。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "065.从鸭嘴兽到水獭",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/065.从鸭嘴兽到水獭.txt",
+      "line": 63,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        15,
+        17,
+        19,
+        21,
+        25,
+        29,
+        35,
+        41,
+        49,
+        51,
+        53,
+        59,
+        61,
+        63
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "澳洲",
+      "鸭嘴兽",
+      "袋鼠",
+      "白澳政策",
+      "政治判断"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "James Cook",
+      "Jorn Utzon"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "台湾",
+      "澳洲",
+      "悉尼",
+      "堪培拉",
+      "墨尔本",
+      "塔斯马尼亚"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "从鸭嘴兽到水獭",
+      "伊索寓言"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1975-06-21-writes-french-food-and-revolution-letter",
+    "date": "1975-06-21",
+    "displayDate": "1975年6月21日",
+    "title": "李敖写《“那么让他们吃饼嘛！”》第一封，讲法国饮食、战史和革命掌故",
+    "summary": "1975年6月21日，李敖在景美军法处看守所第八房写《“那么让他们吃饼嘛！”》第一封给李文。他由 gourmet、法国菜、cheese、戴高乐、贝当、凡尔登、克里蒙梭、凡尔赛、玛丽安托瓦内特、圣女贞德、蓬巴杜夫人和伏尔泰等线索，讲法国饮食、战争、政治和革命掌故。信末他说明“下周续写法国”。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "066.“那么让他们吃饼嘛！”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/066.“那么让他们吃饼嘛！”.txt",
+      "line": 31,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        15,
+        17,
+        21,
+        23,
+        25,
+        27,
+        29,
+        31
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "法国",
+      "法国大革命",
+      "伏尔泰",
+      "凡尔赛",
+      "饮食"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "Charles de Gaulle",
+      "Philippe Petain",
+      "Marie Antoinette",
+      "Joan of Arc",
+      "Madame de Pompadour",
+      "Voltaire"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "台湾",
+      "法国",
+      "巴黎",
+      "凡尔赛",
+      "凡尔登"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "“那么让他们吃饼嘛！”"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1975-06-29-continues-france-and-decides-buy-tape-recorder",
+    "date": "1975-06-29",
+    "displayDate": "1975年6月29日",
+    "title": "李敖续写法国，并决定给李文买一架录音机",
+    "summary": "1975年6月29日，李敖在景美军法处看守所第八房续写《“那么让他们吃饼嘛！”》给李文。他讲卢瓦尔河古堡、French doors、French horn、French leave、French walk，并用四句玩笑比较意大利人、西班牙人、法国人和美国人。信末他决定给李文买一架录音机，要求她把下一页信给姥姥看，并列出卡式全自动往复、Magnavox 或 Sony 名牌、小型或可装十二盒机型、托小彭以电器同业身份打折购买等具体要求。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "066.“那么让他们吃饼嘛！”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/066.“那么让他们吃饼嘛！”.txt",
+      "line": 57,
+      "lines": [
+        33,
+        35,
+        37,
+        43,
+        45,
+        47,
+        49,
+        51,
+        53,
+        55,
+        57,
+        59,
+        61,
+        63,
+        65
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "录音机",
+      "姥姥",
+      "法国",
+      "采购安排"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "张桂贞",
+      "小彭"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "台湾",
+      "法国",
+      "卢瓦尔河"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "“那么让他们吃饼嘛！”"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter",
+      "prison-father-letters-1975-06-21-writes-french-food-and-revolution-letter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1975-08-03-writes-four-mouth-grass-picture-poems",
+    "date": "1975-08-03",
+    "displayDate": "1975年8月3日",
+    "title": "李敖写《嘴含一根草》，给四张画片配四首俏皮诗",
+    "summary": "1975年8月3日，李敖在景美军法处看守所第八房写《嘴含一根草》给李文。他看四张画片有意思，分别以黑猩猩、大袋鼠、场拨鼠和美人儿为口吻，写出四首“嘴含一根草”的俏皮诗。信后他解释场拨鼠就是 prairie dog，会保护同类、埋葬死者；又说明姥姥会记得画片中的美人儿是电影明星洛丽泰扬。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "067.嘴含一根草",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/067.嘴含一根草.txt",
+      "line": 79,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        23,
+        25,
+        27,
+        41,
+        43,
+        45,
+        59,
+        61,
+        63,
+        77,
+        79,
+        81,
+        83
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "画片",
+      "童诗",
+      "黑猩猩",
+      "袋鼠",
+      "场拨鼠",
+      "洛丽泰扬"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "张桂贞",
+      "Loretta Young"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "台湾",
+      "苏花公路",
+      "美国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "嘴含一根草"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1975-08-10-writes-skunk-letter-and-playful-stinky-poem",
+    "date": "1975-08-10",
+    "displayDate": "1975年8月10日",
+    "title": "李敖写《我的本领就是臭》，在信中写小臭鼬童谣",
+    "summary": "1975年8月10日，李敖在景美军法处看守所第八房写《我的本领就是臭》给李文。他由“各人自扫门前雪”转到 Let every man skin his own skunk，讲臭鼬的自卫、臭水、水枪、great horned owl 和 skunk cabbage。李敖还在狱中信中写出“一二三，四五六，我是小臭鼬，本领就是臭”的童谣式段落，把臭鼬知识变成给女儿看的俏皮文字。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "068.我的本领就是臭",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/068.我的本领就是臭.txt",
+      "line": 39,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15,
+        17,
+        21,
+        23,
+        29,
+        31,
+        35,
+        37,
+        39
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "臭鼬",
+      "童谣",
+      "自嘲式文字",
+      "英文函授"
+    ],
+    "people": [
+      "李敖",
+      "李文"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "台湾",
+      "美国"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "我的本领就是臭"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1975-08-17-writes-otter-letter-and-praises-liwen-envelope-chinese",
+    "date": "1975-08-17",
+    "displayDate": "1975年8月17日",
+    "title": "李敖写《从鸭嘴兽到水獭》第二封，赞李文信封中文很有进步",
+    "summary": "1975年8月17日，李敖在景美军法处看守所第八房写《从鸭嘴兽到水獭》中的第二封给李文。他开头称李文这次信封上写的中文很有进步，随后从“鸭嘴兽只有澳洲有，水獭却只有澳洲没有”转入 otter，讲水獭是食肉哺乳动物、会仰面吃东西、会用石头敲蛤蜊，也是会使用工具的动物。信中又借水獭皮昂贵，转出“豹死留皮”的成语解释。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "065.从鸭嘴兽到水獭",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/065.从鸭嘴兽到水獭.txt",
+      "line": 81,
+      "lines": [
+        65,
+        67,
+        69,
+        71,
+        73,
+        75,
+        77,
+        79,
+        81
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "中文进步",
+      "水獭",
+      "成语",
+      "英文函授"
+    ],
+    "people": [
+      "李敖",
+      "李文"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "台湾",
+      "澳洲"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "从鸭嘴兽到水獭"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter",
+      "prison-father-letters-1975-06-08-writes-australia-platypus-letter-and-judges-white-australia"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1975-09-07-writes-fiji-letter-and-adds-wu-feng-afterword",
+    "date": "1975-09-07",
+    "displayDate": "1975年9月7日",
+    "title": "李敖写《飞上枝头看飞枝》，并在后记中更正吴凤神话",
+    "summary": "1975年9月7日，李敖在景美军法处看守所第八房写《飞上枝头看飞枝》给李文。他从爸爸坐牢前一年斐济独立讲起，介绍 Fiji Islands、首都 Suva、sulu 裙、吃人肉、猎头、火上行走、kava 和当地物产，并拿斐济警察与台湾警察互相开玩笑。文后李敖又加后记，说明信中所引吴凤英文解说“当然是从神话立论”，事实上吴凤因背约、骂人、与曹族格斗而被杀，详见连横《吴凤列传》。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "069.飞上枝头看飞枝",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/069.飞上枝头看飞枝.txt",
+      "line": 31,
+      "lines": [
+        3,
+        5,
+        7,
+        11,
+        13,
+        17,
+        19,
+        21,
+        23,
+        25,
+        27,
+        29,
+        31,
+        33
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "斐济",
+      "台湾警察",
+      "吴凤",
+      "后记",
+      "史实更正"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "吴凤",
+      "连横"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "台湾",
+      "斐济",
+      "Suva",
+      "兰屿"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "飞上枝头看飞枝",
+      "吴凤列传"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1975-09-20-writes-egypt-ancient-country-letter",
+    "date": "1975-09-20",
+    "displayDate": "1975年9月20日",
+    "title": "李敖写《古国神游》，带李文从埃及、金字塔讲到阿布辛拜勒抢救",
+    "summary": "1975年9月20日，李敖在景美军法处看守所第八房写《古国神游》给李文。他由埃及、西奈半岛、苏伊士运河、开罗市场、金字塔、狮身人面像、Oedipus 谜语、Howard Carter 挖出 Tutankhamen 墓、Will Rogers 的玩笑，讲到尼罗河、阿斯旺水库和阿布辛拜勒大庙搬迁抢救。信中还回接此前给李文讲过的泰姬陵，把古代大坟、法老和现代工程串成一封古国游历式家书。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "070.古国神游",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/070.古国神游.txt",
+      "line": 37,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        13,
+        15,
+        17,
+        21,
+        23,
+        25,
+        27,
+        29,
+        31,
+        33,
+        35,
+        37
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "埃及",
+      "苏伊士运河",
+      "金字塔",
+      "阿斯旺水库",
+      "阿布辛拜勒"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "Ferdinand de Lesseps",
+      "Howard Carter",
+      "Tutankhamen",
+      "Will Rogers",
+      "Ramesses II"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "台湾",
+      "埃及",
+      "西奈半岛",
+      "开罗",
+      "尼罗河",
+      "阿布辛拜勒"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "古国神游"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter",
+      "prison-father-letters-1975-04-20-writes-india-letter-and-notes-liwen-sent-items"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1975-10-12-writes-ancient-greece-letter",
+    "date": "1975-10-12",
+    "displayDate": "1975年10月12日",
+    "title": "李敖写《“古希腊的辉煌”》，由爱伦坡诗句带李文进入希腊神话和哲学",
+    "summary": "1975年10月12日，李敖在景美军法处看守所第八房写《“古希腊的辉煌”》给李文。他由爱伦坡《给海伦》中的“To the glory that was Greece / And the grandeur that was Rome”讲起，说明希腊文化与西方文明的关系；再从 Hyacinthus、Apollo、Helen、Trojan war、Laocoon、Homer、Odysseus、Athena、Parthenon、Zeus、Alexander the Great 和 Diogenes 等线索，串起希腊神话、史诗、建筑和哲学。信末他说“Rome下周写”，把下一封罗马主题接上。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "071.“古希腊的辉煌”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/071.“古希腊的辉煌”.txt",
+      "line": 71,
+      "lines": [
+        3,
+        5,
+        11,
+        13,
+        23,
+        25,
+        27,
+        29,
+        33,
+        41,
+        47,
+        49,
+        51,
+        55,
+        59,
+        61,
+        63,
+        65,
+        71,
+        73
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "古希腊",
+      "爱伦坡",
+      "荷马",
+      "雅典娜",
+      "亚历山大"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "Edgar Allan Poe",
+      "Apollo",
+      "Helen",
+      "Homer",
+      "Odysseus",
+      "Athena",
+      "Alexander the Great",
+      "Diogenes"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "台湾",
+      "希腊",
+      "雅典",
+      "土耳其",
+      "Troy"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "“古希腊的辉煌”",
+      "To Helen",
+      "Odyssey"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter",
+      "prison-father-letters-1975-05-31-writes-six-scientists-letter-and-follows-up-books"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1975-10-19-writes-ancient-rome-letter",
+    "date": "1975-10-19",
+    "displayDate": "1975年10月19日",
+    "title": "李敖写《“古罗马的壮丽”》，续接上周信讲罗马古迹、恺撒和费边社",
+    "summary": "1975年10月19日，李敖在景美军法处看守所第八房写《“古罗马的壮丽”》给李文。他续接10月12日希腊信，讲 Rome 的双重含义、All roads lead to Rome、Appian Way、Pompeii、Colosseum、Roman Holiday、Nero、catacombs 和基督徒受迫害；又从 Julius Caesar 的剖腹产、Rubicon、Veni vidi vici、Cleopatra、Hannibal、Carthage、Fabian Society、萧伯纳、H. G. Wells、Beatrice Webb 到 Greco-Roman，说明罗马文化如何与希腊文化混合。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "072.“古罗马的壮丽”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/072.“古罗马的壮丽”.txt",
+      "line": 51,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        17,
+        19,
+        21,
+        25,
+        29,
+        31,
+        33,
+        37,
+        41,
+        43,
+        45,
+        47,
+        49,
+        51
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "古罗马",
+      "恺撒",
+      "尼禄",
+      "费边社",
+      "英文成语"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "Julius Caesar",
+      "Nero",
+      "Cleopatra",
+      "Hannibal",
+      "George Bernard Shaw",
+      "H. G. Wells",
+      "Beatrice Webb"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "台湾",
+      "罗马",
+      "意大利",
+      "Pompeii",
+      "Carthage"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "“古罗马的壮丽”"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter",
+      "prison-father-letters-1975-10-12-writes-ancient-greece-letter"
+    ]
+  },
+  {
+    "category": "letters",
+    "type": "李敖当事人事件",
+    "certainty": "reported-by-author",
+    "datePrecision": "day",
+    "id": "prison-father-letters-1975-10-26-writes-poland-chopin-letter",
+    "date": "1975-10-26",
+    "displayDate": "1975年10月26日",
+    "title": "李敖写《波澜N多的波兰》，由萧邦、瓜分和波兰名人给李文讲波兰",
+    "summary": "1975年10月26日，李敖在景美军法处看守所第八房写《波澜N多的波兰》给李文。他先问李文是否弹过萧邦作品，再讲波兰夹在德国、俄国之间多次被瓜分，Warsaw 在二战中毁坏，Gdańsk、Danzig 和 Polish Corridor 与德国纠缠，波兰天主教传统、瓷器、Kraków、Copernicus、居里夫人、Joseph Conrad、Artur Rubinstein 和 Sienkiewicz 等名人。信中他还提醒李文，《Lord Jim》《Heart of Darkness》《Madame Curie》和《Quo Vadis》家里都有，值得阅读。",
+    "source": {
+      "book": "坐牢家爸爸给女儿的八十封信",
+      "chapter": "073.波澜N多的波兰",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/073.波澜N多的波兰.txt",
+      "line": 57,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        15,
+        17,
+        19,
+        21,
+        27,
+        31,
+        33,
+        41,
+        43,
+        45,
+        49,
+        51,
+        53,
+        55,
+        57
+      ]
+    },
+    "tags": [
+      "狱中家书",
+      "李文",
+      "波兰",
+      "萧邦",
+      "华沙",
+      "居里夫人",
+      "康拉德",
+      "阅读建议"
+    ],
+    "people": [
+      "李敖",
+      "李文",
+      "Frederic Chopin",
+      "Nicolaus Copernicus",
+      "Marie Curie",
+      "Joseph Conrad",
+      "Artur Rubinstein",
+      "Henryk Sienkiewicz"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台北",
+      "台湾",
+      "波兰",
+      "华沙",
+      "Gdańsk",
+      "Kraków",
+      "巴黎"
+    ],
+    "works": [
+      "坐牢家爸爸给女儿的八十封信",
+      "波澜N多的波兰",
+      "Lord Jim",
+      "Heart of Darkness",
+      "Madame Curie",
+      "Quo Vadis"
+    ],
+    "view": [
+      "书信线",
+      "亲情线",
+      "狱中线",
+      "教育线"
+    ],
+    "crossReferences": [
+      "book2-1973-01-24-first-prison-letter-to-daughter",
+      "prison-father-letters-1975-10-19-writes-ancient-rome-letter"
+    ]
+  }
+]

@@ -1,9 +1,9 @@
 ﻿李敖交互式年表：当前增量纯文本备份
 生成日期：2026-06-21
-事件总数：11179
-数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json；data/timeline-events-ni-bendan.json；data/timeline-events-dream-awake.json；data/timeline-events-li-ao-xinkan.json；data/timeline-events-qianqiu-wansui-wuya-qiushi.json；data/timeline-events-li-ao-zawenji.json；data/timeline-events-qianqiu-wansui-bianwai.json；data/timeline-events-beijing-fayuansi.json；data/timeline-events-shangshan-ai.json；data/timeline-events-red-11.json；data/timeline-events-virtual-seventeen.json；data/timeline-events-yangwei-america.json；data/timeline-events-73rd-martyr.json；data/timeline-events-love-secret.json；data/timeline-events-li-ao-love-poems.json；data/timeline-events-li-yulu.json；data/timeline-events-li-ao-yulu.json；data/timeline-events-sui-qianwan-li-ao-wangyi.json；data/timeline-events-tiaozhan-li-ao-ao-yulu.json；data/timeline-events-daxue-zhaji.json；data/timeline-events-zaonian-riji.json；data/timeline-events-daxue-houqi-riji-jia.json；data/timeline-events-daxue-houqi-riji-yi.json；data/timeline-events-preofficer-diary.json；data/timeline-events-li-ao-micang-diary.json；data/timeline-events-li-ao-zhaji.json；data/timeline-events-li-ao-wuwu-diary.json；data/timeline-events-li-ao-suixielu-qianji.json；data/timeline-events-li-ao-suixielu-houji.json；data/timeline-events-li-ao-baokanji.json；data/timeline-events-li-ao-shuxuji.json；data/timeline-events-li-ao-shuxuji-xuji.json；data/timeline-events-li-ao-duihualu.json；data/timeline-events-li-ao-fangtanlu-1990-2018.json；data/timeline-events-li-ao-qingshuji.json；data/timeline-events-li-ao-shuxinji.json；data/timeline-events-li-ao-shuhanji.json；data/timeline-events-li-ao-shujianji.json；data/timeline-events-li-ao-shuzhaji.json；data/timeline-events-li-ao-shujianji-letterpaper.json；data/timeline-events-li-ao-shuduji.json；data/timeline-events-li-ao-shuhanji-letterbox.json
+事件总数：11340
+数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json；data/timeline-events-ni-bendan.json；data/timeline-events-dream-awake.json；data/timeline-events-li-ao-xinkan.json；data/timeline-events-qianqiu-wansui-wuya-qiushi.json；data/timeline-events-li-ao-zawenji.json；data/timeline-events-qianqiu-wansui-bianwai.json；data/timeline-events-beijing-fayuansi.json；data/timeline-events-shangshan-ai.json；data/timeline-events-red-11.json；data/timeline-events-virtual-seventeen.json；data/timeline-events-yangwei-america.json；data/timeline-events-73rd-martyr.json；data/timeline-events-love-secret.json；data/timeline-events-li-ao-love-poems.json；data/timeline-events-li-yulu.json；data/timeline-events-li-ao-yulu.json；data/timeline-events-sui-qianwan-li-ao-wangyi.json；data/timeline-events-tiaozhan-li-ao-ao-yulu.json；data/timeline-events-daxue-zhaji.json；data/timeline-events-zaonian-riji.json；data/timeline-events-daxue-houqi-riji-jia.json；data/timeline-events-daxue-houqi-riji-yi.json；data/timeline-events-preofficer-diary.json；data/timeline-events-li-ao-micang-diary.json；data/timeline-events-li-ao-zhaji.json；data/timeline-events-li-ao-wuwu-diary.json；data/timeline-events-li-ao-suixielu-qianji.json；data/timeline-events-li-ao-suixielu-houji.json；data/timeline-events-li-ao-baokanji.json；data/timeline-events-li-ao-shuxuji.json；data/timeline-events-li-ao-shuxuji-xuji.json；data/timeline-events-li-ao-duihualu.json；data/timeline-events-li-ao-fangtanlu-1990-2018.json；data/timeline-events-li-ao-qingshuji.json；data/timeline-events-li-ao-shuxinji.json；data/timeline-events-li-ao-shuhanji.json；data/timeline-events-li-ao-shujianji.json；data/timeline-events-li-ao-shuzhaji.json；data/timeline-events-li-ao-shujianji-letterpaper.json；data/timeline-events-li-ao-shuduji.json；data/timeline-events-li-ao-shuhanji-letterbox.json；data/timeline-events-li-ao-shuqiji.json；data/timeline-events-prison-father-letters.json
 说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。
-日期精度统计：day=10651；year=101；year-range=13；undated-range=1；undated-context=146；season=29；lunar-day=1；year-after=7；month=77；half-year=2；school-year-context=5；day-range=19；range=23；year-about=10；range-context=15；month-after=3；year-context=17；day-after=5；before-date-context=15；day-about=1；day-context=13；after-date-context=8；month-context=5；before-day=2；before-month=4；month-range=2；year-end=1；date-range=3
+日期精度统计：day=10805；year=101；year-range=13；undated-range=1；undated-context=146；season=29；lunar-day=1；year-after=7；month=78；half-year=2；school-year-context=5；day-range=19；range=23；year-about=10；range-context=15；month-after=3；year-context=17；day-after=5；before-date-context=15；day-about=1；day-context=13；day-inferred=5；after-date-context=8；month-context=6；before-day=2；before-month=4；month-range=2；year-end=1；date-range=3
 
 
 1935
@@ -79898,15 +79898,15 @@
   数据：data/timeline-events-li-ao-shuhanji.json#li-ao-shuhanji-1964-09-20-writes-liu-bokun-on-reason-without-emotion
 - 1964年9月22日星期二 | 女儿李文在纽约出生
   精度：day；可靠度：confirmed；排序日期：1964-09-22
-  摘要：李敖在《坐牢家爸爸给女儿的八十封信》自序中写，独生女李文于1964年9月22日生在美国纽约，使他“阴错阳差”成为美国人的父亲。
-  人物：李敖、李文、尚勤
+  摘要：李敖在《坐牢家爸爸给女儿的八十封信》自序中写，独生女李文（Hedy Lee）于1964年9月22日生在美国纽约；尚勤去美国时局面已是分手，不久来电说有了小孩，李敖由此“阴错阳差”成为美国人的父亲。
+  人物：李敖、李文、尚勤、王尚勤
   地点：纽约
-  标签：女儿、纽约、家庭
+  标签：女儿、纽约、家庭、Hedy Lee、美国人的爸爸
   视图：生平线
   作品：坐牢家爸爸给女儿的八十封信
   交叉引用：-
   来源：李敖自传与回忆续集 / 016.《坐牢家爸爸给女儿的八十封信》自序 / line 3
-  补充来源：-
+  补充来源：坐牢家爸爸给女儿的八十封信 / 《坐牢家爸爸给女儿的八十封信》自序 / line 3；说明：书信函件类本书自序同样交代李文出生日期、地点和李敖成为“美国人的爸爸”的经过。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/016.《坐牢家爸爸给女儿的八十封信》自序.txt
   数据：data/timeline-events-second-book.json#book2-1964-09-22-daughter-hedy-born
 - 1964年9月24日晨 | 李敖伏案十小时后清晨赶信，并表示由G决定一切
@@ -93668,17 +93668,17 @@
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1972-context-095-shares-cell-with-okazeng
 
 1973
-- 1973年1月24日星期三 | 开始写给女儿李文的狱中家书
+- 1973年1月24日星期三 | 李敖在景美狱中开始写给女儿李文的家书，首封谈猫狗英文
   精度：day；可靠度：confirmed；排序日期：1973-01-24
-  摘要：《坐牢家爸爸给女儿的八十封信》自序说明，这批信写于1973年1月24日到1975年11月1日之间，李敖当时独居景美军法处看守所第八房。
+  摘要：《坐牢家爸爸给女儿的八十封信》自序说明，这批信写于1973年1月24日到1975年11月1日之间，李敖当时独居景美军法处看守所第八房。当前书信类本书正文补出首封即《猫狗谚》：1973年1月24日，李敖以“爸爸”署名给李文写信，问她在美国看到了多少狗和猫，并从 rain cats and dogs、cat-and-dog life、Every dog has his day、puss、kitten、A cat has nine lives 等英文说起，开始把狱中家书写成给女儿的趣味函授。
   人物：李敖、李文、冯音汝
   地点：景美军法处看守所
-  标签：狱中书信、女儿、景美军法处、李敖语录
-  视图：生平线、出版线
-  作品：坐牢家爸爸给女儿的八十封信、李敖语录
+  标签：狱中书信、女儿、景美军法处、李敖语录、猫狗谚、英文函授、第八房
+  视图：生平线、出版线、书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、李敖语录、猫狗谚
   交叉引用：-
   来源：李敖自传与回忆续集 / 016.《坐牢家爸爸给女儿的八十封信》自序 / line 9
-  补充来源：李敖语录 / 007.牢狱岁月 / line 75；说明：《李敖语录》转摘狱中家书写作期，重述1973年1月24日至1975年11月1日独居景美军法处看守所第八房。
+  补充来源：李敖语录 / 007.牢狱岁月 / line 75；说明：《李敖语录》转摘狱中家书写作期，重述1973年1月24日至1975年11月1日独居景美军法处看守所第八房。；坐牢家爸爸给女儿的八十封信 / 001.猫狗谚 / line 21；说明：当前书信类本书正文补出1973年1月24日首封家书《猫狗谚》的具体内容。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/016.《坐牢家爸爸给女儿的八十封信》自序.txt
   数据：data/timeline-events-second-book.json#book2-1973-01-24-first-prison-letter-to-daughter
 - 1973年3月5日 | 李敖狱中写给周渝，谈读书、自制与托买英文书
@@ -93694,6 +93694,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/002.李敖书信集/065.1973年3月5日致周渝信.txt
   数据：data/timeline-events-li-ao-shuxinji.json#li-ao-shuxinji-1973-03-05-prison-letter-to-zhou-yu-books-and-self-discipline
+- 1973年5月3日 | 李敖在景美狱中写《再会呀，鳄鱼呀！》给李文
+  精度：day；可靠度：reported-by-author；排序日期：1973-05-03
+  摘要：1973年5月3日，李敖在景美军法处看守所第八房写《再会呀，鳄鱼呀！》给女儿李文。他从鳄鱼能吃人、鳄鱼眼泪、crocodile/alligator 的俗语讲起，教她用“See you later, alligator”同小朋友说再会；又写到 Dorothy Parker 在浴盆养鳄鱼、韩愈写《祭鳄鱼文》，并让她重看自己以前写给她的“为虎作伥”意思。
+  人物：李敖、李文、Dorothy Parker、韩愈
+  地点：景美军法处看守所、台北、美国、广东
+  标签：狱中家书、李文、鳄鱼、英文函授、韩愈、景美军法处看守所
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、再会呀，鳄鱼呀！、祭鳄鱼文
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 002.再会呀，鳄鱼呀！ / line 31
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/002.再会呀，鳄鱼呀！.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1973-05-03-writes-alligator-letter-to-li-wen
 - 1973年6月2日星期六 | 中央社报道于长城加入中共驻联合国代表团工作
   精度：day；可靠度：confirmed；排序日期：1973-06-02
   摘要：李敖引用1973年6月2日中央社马尼拉专电，称于长城赴美不久即加入中共驻联合国代表团工作，国民党感化教育再告失败。
@@ -93707,6 +93720,97 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/013.我最难忘的一段洗脑.txt
   数据：data/timeline-events-first-book-broad.json#1973-06-02-yu-changcheng-un
+- 1973年10月7日晨至上午 | 李敖在景美狱中一早上连写两封《纸上谈钱》给李文
+  精度：day；可靠度：reported-by-author；排序日期：1973-10-07
+  摘要：1973年10月7日晨，李敖在景美军法处看守所第八房写第一封《纸上谈钱》给李文，问她九岁生日时姥姥给的五块钱怎么花，并从 penny、nickel、dime、quarter、half dollar 讲到 Ohio 的 Buckeye 外号。当天上午他又写第二封同题信，介绍美钞上华盛顿、杰斐逊、林肯、汉密尔顿、杰克逊、格兰特、富兰克林、麦金莱和克利夫兰等人像；信末自嘲一早上连写两封都是纸上谈钱，并说明姥姥9月26日的信已经收到。
+  人物：李敖、李文、张桂贞、华盛顿、林肯、富兰克林
+  地点：景美军法处看守所、台北、美国、Ohio
+  标签：狱中家书、李文、纸上谈钱、美元、英文函授、张桂贞
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、纸上谈钱
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 003.纸上谈钱 / line 53
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/003.纸上谈钱.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1973-10-07-morning-writes-two-money-letters-to-li-wen
+- 1973年10月21日 | 李敖在景美狱中给李文写《喊一声“芝麻开门！”就行了》
+  精度：day；可靠度：reported-by-author；排序日期：1973-10-21
+  摘要：1973年10月21日，李敖在景美军法处看守所第八房写《喊一声“芝麻开门！”就行了》给李文。他从姑姑为李文生日烤蛋糕说起，解释 sponge cake、cakewalk、take the cake 等词，又引《天方夜谭》里的辛巴达、阿拉丁神灯、阿里巴巴与四十大盗，顺手把“芝麻开门”同六姑保险箱开玩笑相连。信中他称这些知识短札为写给女儿的“台北夜谭”，并问李文喜不喜欢。
+  人物：李敖、李文、张桂贞
+  地点：景美军法处看守所、台北、伊朗、墨西哥、美国
+  标签：狱中家书、李文、生日、台北夜谭、天方夜谭、芝麻开门
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、喊一声“芝麻开门！”就行了、天方夜谭、一千零一夜
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 004.喊一声“芝麻开门！”就行了 / line 11
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/004.喊一声“芝麻开门！”就行了.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1973-10-21-writes-open-sesame-taipei-nights-letter
+- 1973年10月26日夜 | 李敖夜里致信李文谈“头头”英文，并说前天收到她来信
+  精度：day；可靠度：reported-by-author；排序日期：1973-10-26
+  摘要：1973年10月26日夜，李敖在景美军法处看守所第八房写《头头大观》给李文。得知李文到美国上学一个多月便做了“班主席”，他在信中笑说她搞政治有一手，并从 head、boss、chief、leader、VIP、king、pope、master、chairman、tycoon 等词讲各种“头儿”。信末他说明李文10月11日来信前天已经收到。
+  人物：李敖、李文、胡佛
+  地点：景美军法处看守所、台北、美国
+  标签：狱中家书、李文、班主席、英文函授、收信
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、头头大观
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter、prison-father-letters-1973-10-24-receives-li-wen-oct11-letter
+  来源：坐牢家爸爸给女儿的八十封信 / 005.头头大观 / line 19
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/005.头头大观.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1973-10-26-night-writes-head-idioms-after-receiving-li-wen-letter
+- 1973年10月28日夜 | 李敖夜里给李文写《指教》，问姥姥手指肿痛
+  精度：day；可靠度：reported-by-author；排序日期：1973-10-28
+  摘要：1973年10月28日夜，李敖在景美军法处看守所第八房写《指教》给李文。他开头先问李文说姥姥手指肿了是否要紧、是哪一只，随后把 finger、fingertip、nail、thumb、index finger、middle finger、ring finger、little finger 等词串成一封英文函授信，并讲到“跃跃欲试”“染指”“屈指可数”“指不胜屈”等中英文对应。
+  人物：李敖、李文、张桂贞
+  地点：景美军法处看守所、台北、美国
+  标签：狱中家书、李文、张桂贞、手指、英文函授
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、指教
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 006.指教 / line 23
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/006.指教.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1973-10-28-night-writes-finger-letter-to-li-wen
+- 1973年11月4日 | 李敖写信给李文讲头发、伊索寓言与理发匠外科医生
+  精度：day；可靠度：reported-by-author；排序日期：1973-11-04
+  摘要：1973年11月4日，李敖在景美军法处看守所第八房写《理发匠就是外科医生，外科医生就是理发匠》给李文。他让李文按头发颜色观察班上同学，讲 blonde、brunette、towhead、redhead、hairdo、hairpin 等词；又从“机会前面有发后面秃”引到《伊索寓言》，提醒她要看看狼来了、狗占马槽等故事。信末他说明英国古时候理发匠兼外科医生，直到亨利八世时代才分开。
+  人物：李敖、李文、伊索、亨利八世
+  地点：景美军法处看守所、台北、英国、希腊
+  标签：狱中家书、李文、英文函授、伊索寓言、理发匠、外科医生
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、理发匠就是外科医生，外科医生就是理发匠、伊索寓言
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 007.理发匠就是外科医生，外科医生就是理发匠 / line 15
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/007.理发匠就是外科医生，外科医生就是理发匠.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1973-11-04-writes-hair-barber-surgeon-letter-to-li-wen
+- 1973年11月11日 | 李敖给李文安排生日、圣诞礼金并写《送礼·向厕所跑》
+  精度：day；可靠度：reported-by-author；排序日期：1973-11-11
+  摘要：1973年11月11日，李敖在景美军法处看守所第八房写《送礼·向厕所跑》给李文。他把李文生日礼物和圣诞节礼物一并折成30元礼金，交由姥姥转给她，让她自己选择想买的东西；又顺势把 give gifts、birthday gift、Christmas gift、Don't look a gift horse in the mouth、Indian giver 等英文和中文“礼尚往还”“抛砖引玉”“真金不怕火炼”串在一起。信后他补充马齿、colt、pony 等知识。
+  人物：李敖、李文、张桂贞
+  地点：景美军法处看守所、台北、美国
+  标签：狱中家书、李文、生日礼物、圣诞礼物、张桂贞、英文函授
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、送礼·向厕所跑
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 008.送礼·向厕所跑 / line 7
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/008.送礼·向厕所跑.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1973-11-11-arranges-birthday-christmas-cash-gift-for-li-wen
+- 1973年11月18日 | 李敖写信得知姥姥将带李文去纽约看妈妈，并谈感恩节与羊马成语
+  精度：day；可靠度：reported-by-author；排序日期：1973-11-18
+  摘要：1973年11月18日，李敖在景美军法处看守所第八房写《你羊我就马，你马我就羊》给李文。信中他先说姥姥感恩节将带李文去纽约看妈妈“多好啊”，然后解释 Thanksgiving Day、感恩与忘恩负义，又从林肯规定感恩节、Mrs. S. J. Hale 的《玛莉有一只小羊》和爱迪生第一张唱片讲起，转入 lamb、sheep、goat、black sheep、亡羊补牢等中英文差异。末尾他问李文英文是不是故意跟中文捣蛋。
+  人物：李敖、李文、张桂贞、王尚勤、林肯、爱迪生、丘吉尔
+  地点：景美军法处看守所、台北、纽约、美国
+  标签：狱中家书、李文、张桂贞、王尚勤、感恩节、纽约、英文函授
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、你羊我就马，你马我就羊、玛莉有一只小羊
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter、book2-1964-09-22-daughter-hedy-born
+  来源：坐牢家爸爸给女儿的八十封信 / 009.你羊我就马，你马我就羊 / line 17
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/009.你羊我就马，你马我就羊.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1973-11-18-writes-thanksgiving-sheep-horse-letter
 - 1973年11月18日星期日 | 李敖在狱中作《对自然要自然》
   精度：day；可靠度：confirmed；排序日期：1973-11-18
   摘要：《对自然要自然》署1973年11月18日狱中作，是《波波颂》前段收录的狱中诗之一。
@@ -93720,6 +93824,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/006.波波颂/001.对自然要自然.txt
   数据：data/timeline-events-bobo-song.json#bobo-song-1973-11-18-natural-be-natural
+- 1973年12月9日 | 李敖在景美狱中写《打老虎秘诀》给李文
+  精度：day；可靠度：reported-by-author；排序日期：1973-12-09
+  摘要：1973年12月9日，李敖在景美军法处看守所第八房写《打老虎秘诀》给李文。他从画片上的两只小老虎讲起，说明老虎只在亚洲才有，印度、中国、伊朗、日本都有，又把“捋虎须”“骑虎难下”“捉虎容易放虎难”“不入虎穴，焉得虎子”“为虎作伥”等中文说法与英文对应起来。信末他用猎人坐笼绑在象背上打老虎的例子，提醒学英文要不马虎。
+  人物：李敖、李文
+  地点：景美军法处看守所、台北、亚洲、印度、中国、伊朗、日本
+  标签：狱中家书、李文、老虎、英文函授、为虎作伥、景美军法处看守所
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、打老虎秘诀
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter、prison-father-letters-1973-05-03-writes-alligator-letter-to-li-wen
+  来源：坐牢家爸爸给女儿的八十封信 / 010.打老虎秘诀 / line 15
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/010.打老虎秘诀.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1973-12-09-writes-tiger-hunting-secret-letter-to-li-wen
 - 1973年12月9日星期日 | 李敖在狱中作《与阳光有约》
   精度：day；可靠度：confirmed；排序日期：1973-12-09
   摘要：《与阳光有约》署1973年12月9日狱中作，延续《波波颂》中狱中写作的抒情线。
@@ -93733,6 +93850,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/006.波波颂/002.与阳光有约.txt
   数据：data/timeline-events-bobo-song.json#bobo-song-1973-12-09-appointment-with-sunlight
+- 1973年12月21日 | 李敖在景美狱中收到李文和姥姥12月5、6日来信
+  精度：day；可靠度：reported-by-author；排序日期：1973-12-21
+  摘要：1973年12月21日，李敖在景美军法处看守所第八房收到李文和姥姥12月5日、6日的来信。两封信让他知道她们在纽约玩得很开心；两天后他在《你送神像我搭台》信中由此展开纽约、皇后区、布鲁克林、曼哈顿和自由女神像的说明。
+  人物：李敖、李文、张桂贞
+  地点：景美军法处看守所、台北、纽约
+  标签：狱中通信、李文、张桂贞、纽约、收信、景美军法处看守所
+  视图：书信线、亲情线、狱中线
+  作品：坐牢家爸爸给女儿的八十封信、你送神像我搭台
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 011.你送神像我搭台 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/011.你送神像我搭台.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1973-12-21-receives-liwen-grandma-dec5-dec6-new-york-letters
+- 1973年12月23日午前 | 李敖午前给李文写《你送神像我搭台》，由纽约来信讲曼哈顿与自由神像
+  精度：day；可靠度：reported-by-author；排序日期：1973-12-23
+  摘要：1973年12月23日午前，李敖在景美军法处看守所第八房写《你送神像我搭台》给李文。因12月21日收到李文和姥姥来信，知道她们在纽约玩得开心，他在信中讲纽约外号 Gotham、纽约客 New Yorker、皇后区和拉加第亚机场、布鲁克林大桥、曼哈顿岛的购买传说，以及法国送自由神像、美国人自建台座的费用。信末他又说美国第二次世界大战花费可买十一个曼哈顿，并顺手讲 Manhattan 鸡尾酒。
+  人物：李敖、李文、张桂贞、王尚勤、约翰·肯尼迪
+  地点：景美军法处看守所、台北、纽约、皇后区、布鲁克林、曼哈顿、法国
+  标签：狱中家书、李文、纽约、曼哈顿、自由神像、英文函授
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、你送神像我搭台
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter、prison-father-letters-1973-12-21-receives-liwen-grandma-dec5-dec6-new-york-letters、bobo-song-1973-12-23-time-not-with-me
+  来源：坐牢家爸爸给女儿的八十封信 / 011.你送神像我搭台 / line 17
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/011.你送神像我搭台.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1973-12-23-before-noon-writes-new-york-gotham-manhattan-letter
 - 1973年12月23日星期日 | 李敖在狱中作《时不我与，我不与时》
   精度：day；可靠度：confirmed；排序日期：1973-12-23
   摘要：《时不我与，我不与时》署1973年12月23日午后狱中作，标记出李敖狱中写作继续推进的一天。
@@ -93746,6 +93889,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/006.波波颂/003.时不我与，我不与时.txt
   数据：data/timeline-events-bobo-song.json#bobo-song-1973-12-23-time-not-with-me
+- 1973年12月30日 | 李敖写《千年王八万年龟》给李文，并说明收到妈妈和姥姥来信
+  精度：day；可靠度：reported-by-author；排序日期：1973-12-30
+  摘要：1973年12月30日，李敖在景美军法处看守所第八房写《千年王八万年龟》给李文。他从“龟龄”、古人烧龟甲占卜、金文和甲骨文的“用”字讲起，再区分 turtle、tortoise、hawksbill 等词。李敖在信中回忆自己过去在澎湖当排长时，夜里睡在据说闹鬼的房子里，第二天才发现挤小门的是一只大海龟；信末又说明妈妈11月20日的信、姥姥12月13日的信都收到了。
+  人物：李敖、李文、王尚勤、张桂贞
+  地点：景美军法处看守所、台北、澎湖、美国
+  标签：狱中家书、李文、乌龟、澎湖、收信、英文函授
+  视图：书信线、亲情线、狱中线、教育线、军旅线
+  作品：坐牢家爸爸给女儿的八十封信、千年王八万年龟
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 012.千年王八万年龟 / line 17
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/012.千年王八万年龟.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1973-12-30-writes-turtle-letter-and-notes-mother-grandma-letters
 - 1973年6月 | 孙观汉在香港发表《李敖谈柏杨的冤狱》
   精度：month；可靠度：confirmed；排序日期：1973-06-30
   摘要：《东郭纪》写，1973年6月孙观汉在香港发表《李敖谈柏杨的冤狱》，公开李敖当年给他的秘件，并承认自己后来才了解公开发表压制自由事件的必要。
@@ -93759,8 +93915,47 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/012.东郭纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1973-06-sun-publishes-li-on-bai-yang-wrongful-imprisonment
+- 1973年10月24日（由10月26日夜信倒推） | 李敖在景美狱中收到李文10月11日来信
+  精度：day-inferred；可靠度：reported-by-author；排序日期：1973-10-24
+  摘要：1973年10月26日夜，李敖在《头头大观》信末写给李文：“你11号的信，前天收到。”由此可知，他在景美军法处看守所第八房约于10月24日收到女儿10月11日来信。这类收信小事说明父女狱中通信并非单向讲课，而是李敖依据李文来信继续调整写信内容。
+  人物：李敖、李文
+  地点：景美军法处看守所、台北、美国
+  标签：狱中通信、李文、收信、景美军法处看守所
+  视图：书信线、亲情线、狱中线
+  作品：坐牢家爸爸给女儿的八十封信、头头大观
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter、prison-father-letters-1973-10-26-night-writes-head-idioms-after-receiving-li-wen-letter
+  来源：坐牢家爸爸给女儿的八十封信 / 005.头头大观 / line 21
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/005.头头大观.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1973-10-24-receives-li-wen-oct11-letter
 
 1974
+- 1974年1月5日 | 李敖在景美狱中收到李文和姥姥12月20日来信
+  精度：day；可靠度：reported-by-author；排序日期：1974-01-05
+  摘要：1974年1月5日，李敖在景美军法处看守所第八房收到李文和姥姥12月20日的来信。次日他在《不飞的鸟》信末记下此事，并说自己要写信托一位朋友买书，下次再写给姥姥。
+  人物：李敖、李文、张桂贞
+  地点：景美军法处看守所、台北、美国
+  标签：狱中通信、李文、张桂贞、收信、买书
+  视图：书信线、亲情线、狱中线
+  作品：坐牢家爸爸给女儿的八十封信、不飞的鸟
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 013.不飞的鸟 / line 25
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/013.不飞的鸟.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-01-05-receives-dec20-letter-before-writing-flightless-birds
+- 1974年1月6日 | 李敖给李文写《不飞的鸟》，造表比较鸵鸟、鸸鹋、企鹅和鹬鸵
+  精度：day；可靠度：reported-by-author；排序日期：1974-01-06
+  摘要：1974年1月6日，李敖在景美军法处看守所第八房写《不飞的鸟》给李文。他说鸡鸭虽然不飞也能“意思意思”飞一小段，世界上却有几种连意思意思都不会的鸟，于是造表比较 ostrich、emu、penguin、kiwi 的飞行、奔跑、大小、产地和孵蛋方式。信中还解释 ostrichlike 的自欺、企鹅送小石头求偶、kiwi 被用来挖苦空军地勤人员，并补充食火鸡和三趾鸵鸟。
+  人物：李敖、李文、张桂贞
+  地点：景美军法处看守所、台北、马达加斯加、澳洲、南极、纽西兰
+  标签：狱中家书、李文、不飞的鸟、鸵鸟、企鹅、英文函授
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、不飞的鸟
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter、prison-father-letters-1974-01-05-receives-dec20-letter-before-writing-flightless-birds
+  来源：坐牢家爸爸给女儿的八十封信 / 013.不飞的鸟 / line 23
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/013.不飞的鸟.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-01-06-writes-flightless-birds-table-to-li-wen
 - 1974年1月11日星期五 | 李敖在狱中作《用冰冷表现洁白》
   精度：day；可靠度：confirmed；排序日期：1974-01-11
   摘要：《用冰冷表现洁白》署1974年1月11日狱中作，继续保留李敖狱中诗作的时间骨架。
@@ -93774,6 +93969,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/006.波波颂/004.用冰冷表现洁白.txt
   数据：data/timeline-events-bobo-song.json#bobo-song-1974-01-11-coldness-and-whiteness
+- 1974年1月21日 | 李敖在景美狱中收到李文和姥姥1月9、10日来信
+  精度：day；可靠度：reported-by-author；排序日期：1974-01-21
+  摘要：1974年1月21日，李敖在景美军法处看守所第八房收到李文和姥姥1月9日、10日的来信。他在1月26日《你杀鹅我就杀鸡》信末说明，因为过旧年，这次信件收到得比较快。
+  人物：李敖、李文、张桂贞
+  地点：景美军法处看守所、台北、美国
+  标签：狱中通信、李文、张桂贞、收信、旧年
+  视图：书信线、亲情线、狱中线
+  作品：坐牢家爸爸给女儿的八十封信、你杀鹅我就杀鸡
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 014.你杀鹅我就杀鸡 / line 25
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/014.你杀鹅我就杀鸡.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-01-21-receives-jan9-jan10-letters-from-liwen-grandma
+- 1974年1月26日 | 李敖写《你杀鹅我就杀鸡》给李文，比较鹅、鸡和中英文成语
+  精度：day；可靠度：reported-by-author；排序日期：1974-01-26
+  摘要：1974年1月26日，李敖在景美军法处看守所第八房写《你杀鹅我就杀鸡》给李文。他从中文“鹅行鸭步”和英文 goose step、中文“鸡皮疙瘩”和英文 goose flesh 的错位讲起，再引伊索寓言中杀会下金蛋的鹅，解释 Do not kill the goose that lays the golden eggs 和中文“杀鸡取卵”正好相通。信中还讲 cooked goose、goose egg、as silly as goose、goose quill 和“千里送鹅毛”；信末说明李文和姥姥1月9、10日来信已于1月21日收到。
+  人物：李敖、李文、张桂贞、伊索
+  地点：景美军法处看守所、台北、美国
+  标签：狱中家书、李文、鹅、伊索寓言、杀鸡取卵、英文函授
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、你杀鹅我就杀鸡、伊索寓言
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter、prison-father-letters-1974-01-21-receives-jan9-jan10-letters-from-liwen-grandma
+  来源：坐牢家爸爸给女儿的八十封信 / 014.你杀鹅我就杀鸡 / line 23
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/014.你杀鹅我就杀鸡.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-01-26-writes-goose-hen-golden-eggs-letter
 - 1974年1月27日，狱中 | 李敖在狱中写给尚勤，谈悲剧并收到女儿演出剪报消息
   精度：day；可靠度：reported-by-author；排序日期：1974-01-27
   摘要：李敖在狱中写给尚勤，回应母亲来信中转述的“不再走上悲剧之路”，把悲剧说成观点问题，并从高窗外阴雨绵绵的景象谈悲剧的天时地利；他又在附记中说信已收到，书大概不久会收到，母亲寄来牛津出版剪报，上面有女儿演歌剧的照片。
@@ -93787,6 +94008,253 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集/007.给尚勤的两封信.txt
   数据：data/timeline-events-li-ao-qingshuji.json#li-ao-qingshuji-1974-01-27-prison-letter-to-shangqin
+- 1974年2月1日 | 李敖写《原子弹与沉鱼落雁》给李文，讲雁、天鹅和《唐诗三百首》
+  精度：day；可靠度：reported-by-author；排序日期：1974-02-01
+  摘要：1974年2月1日，李敖在景美军法处看守所第八房写《原子弹与沉鱼落雁》给李文。他延续上次鹅的话题，区分 goose、wild goose、swan、wild swan，以及中文里的雁、燕、鹄、鸿鹄；又解释“雁行折翼”“雁足传书”“雁杳鱼沉”“沉鱼落雁”和英文 wild-goose chase。信中他在“沉鱼落雁”处开玩笑说原子弹丢下来也可使鱼沉雁落，并请姥姥给李文讲李颀《古从军行》和《唐诗三百首》为什么实际收三百一十首。
+  人物：李敖、李文、张桂贞、李颀
+  地点：景美军法处看守所、台北、美国
+  标签：狱中家书、李文、雁、天鹅、唐诗三百首、英文函授
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、原子弹与沉鱼落雁、古从军行、唐诗三百首、诗经
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter、prison-father-letters-1974-01-26-writes-goose-hen-golden-eggs-letter
+  来源：坐牢家爸爸给女儿的八十封信 / 015.原子弹与沉鱼落雁 / line 23
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/015.原子弹与沉鱼落雁.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-02-01-writes-wild-goose-atomic-bomb-poem-letter
+- 1974年2月9日 | 李敖写《他所有的鹅都是天鹅》，在信中提到衡阳街朋友追阔家小姐旧事
+  精度：day；可靠度：reported-by-author；排序日期：1974-02-09
+  摘要：1974年2月9日，李敖在景美军法处看守所第八房写《他所有的鹅都是天鹅》给李文。他先解释 All his geese are swans 是说人吹牛，又请姥姥给李文讲“癞蛤蟆想吃天鹅肉”。李敖在信中回忆一个朋友曾在台北衡阳街口卖芝麻饼，追阔家小姐而被小姐母亲告到警察局、被警察骂“想吃天鹅肉”，后来把饼改名“天鹅饼”；随后又讲瓦格纳《罗恩格林》、安徒生《丑小鸭》《野天鹅》、柴可夫斯基《天鹅湖》、swan song、swan maiden 和黑天鹅。
+  人物：李敖、李文、张桂贞、瓦格纳、安徒生、柴可夫斯基
+  地点：景美军法处看守所、台北、衡阳街、澳洲
+  标签：狱中家书、李文、天鹅、衡阳街、天鹅饼、英文函授
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、他所有的鹅都是天鹅、罗恩格林、丑小鸭、野天鹅、天鹅湖
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 016.他所有的鹅都是天鹅 / line 19
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/016.他所有的鹅都是天鹅.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-02-09-writes-swans-letter-and-hengyang-street-friend-story
+- 1974年2月15日 | 李敖在景美狱中收到李文1月30日来信
+  精度：day；可靠度：reported-by-author；排序日期：1974-02-15
+  摘要：1974年2月15日，李敖在景美军法处看守所第八房收到李文1月30日的来信。第二天他在《麻是麻烦，可是不会生胃病》信中据此判断姥姥的手大概太累生病，并决定以后改由李文和姥姥每周轮流写信，每人两个星期写一封。
+  人物：李敖、李文、张桂贞
+  地点：景美军法处看守所、台北、美国
+  标签：狱中通信、李文、张桂贞、收信、轮流写信
+  视图：书信线、亲情线、狱中线
+  作品：坐牢家爸爸给女儿的八十封信、麻是麻烦，可是不会生胃病
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 017.麻是麻烦，可是不会生胃病 / line 31
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/017.麻是麻烦，可是不会生胃病.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-02-15-receives-liwen-jan30-letter-and-adjusts-letter-rhythm
+- 1974年2月16日 | 李敖写《麻是麻烦，可是不会生胃病》，并安排李文与姥姥轮流写信
+  精度：day；可靠度：reported-by-author；排序日期：1974-02-16
+  摘要：1974年2月16日，李敖在景美军法处看守所第八房写《麻是麻烦，可是不会生胃病》给李文。他在信中回述去年8月5日信里曾提到鹿和牛一样会反刍，接着讲 cattle、bull、cow、heifer、calf、buffalo、bison 等词，以及印度牛神圣、拦住计程车的趣事。因前一天收到李文1月30日来信，他在信中判断姥姥的手大概太累生病，决定以后由李文和姥姥每周轮流写信，并请姥姥告诉他八舅汇款情形。
+  人物：李敖、李文、张桂贞、八舅
+  地点：景美军法处看守所、台北、印度、纽约州、Buffalo
+  标签：狱中家书、李文、张桂贞、牛、轮流写信、八舅、英文函授
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、麻是麻烦，可是不会生胃病
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter、prison-father-letters-1974-02-15-receives-liwen-jan30-letter-and-adjusts-letter-rhythm
+  来源：坐牢家爸爸给女儿的八十封信 / 017.麻是麻烦，可是不会生胃病 / line 33
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/017.麻是麻烦，可是不会生胃病.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-02-16-writes-cattle-letter-and-arranges-alternate-correspondence
+- 1974年2月22日 | 李敖写《破锅有烂灶、李大有张嫂》，给李文讲 Jack 字族
+  精度：day；可靠度：reported-by-author；排序日期：1974-02-22
+  摘要：1974年2月22日，李敖在景美军法处看守所第八房写《破锅有烂灶、李大有张嫂》给李文。他问李文有没有同小朋友玩 jacks 游戏，随后用 Jack/Jill、Every Jack has his Jill、jack-of-all-trades、jack-in-the-box、jackleg lawyer、jack rabbit、jackscrew 等词讲“jack”字族。信中他又讲万圣节南瓜灯 jack-o'-lantern 的爱尔兰传说，并补充尼克松二十四年前揭发 Hiss 间谍案时证据藏在南瓜里。
+  人物：李敖、李文、富兰克林、尼克松、Alger Hiss
+  地点：景美军法处看守所、台北、美国、北美洲、爱尔兰
+  标签：狱中家书、李文、Jack、万圣节、南瓜灯、Hiss间谍案、英文函授
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、破锅有烂灶、李大有张嫂
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter、prison-father-letters-1973-10-07-morning-writes-two-money-letters-to-li-wen
+  来源：坐牢家爸爸给女儿的八十封信 / 018.破锅有烂灶、李大有张嫂 / line 29
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/018.破锅有烂灶、李大有张嫂.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-02-22-writes-jack-letter-with-halloween-and-pumpkin-spy-case
+- 1974年3月1日 | 李敖收到李文2月13日来信和卡片，并为她成绩进步高兴
+  精度：day；可靠度：reported-by-author；排序日期：1974-03-01
+  摘要：1974年3月1日，李敖在景美军法处看守所第八房收到李文2月13日的来信和卡片。次日他在《情人与天使》信中说，李文在短短几个月中已有那么好的成绩，自己很高兴；又提醒她正是赶功课的时候，应比其他小朋友多花一些时间，等功课赶过他们再大玩特玩。
+  人物：李敖、李文
+  地点：景美军法处看守所、台北、美国
+  标签：狱中通信、李文、收信、成绩、卡片
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、情人与天使
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 019.情人与天使 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/019.情人与天使.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-03-01-receives-liwen-feb13-letter-card-and-praises-grades
+- 1974年3月2日 | 李敖给李文写《情人与天使》，由卡片讲情人节、丘比特和天使等级
+  精度：day；可靠度：reported-by-author；排序日期：1974-03-02
+  摘要：1974年3月2日，李敖在景美军法处看守所第八房写《情人与天使》给李文。因前一天收到李文来信和卡片，他先称赞她成绩进步，再说 Valentine's Day 译作“情人节”并不完全，应是“爱节”或“情爱节”；接着讲圣瓦伦丁、电影明星 Valentino，以及李文卡片上心被箭射穿的图案，解释维纳斯、丘比特、金银箭和情爱神话。信末他又区分有弓箭的丘比特和不拿弓箭的天使，并列出 seraph、cherub、angel 等等级。
+  人物：李敖、李文、圣瓦伦丁、Valentino、维纳斯、丘比特、张桂贞
+  地点：景美军法处看守所、台北、罗马、美国
+  标签：狱中家书、李文、情人节、丘比特、天使、英文函授
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、情人与天使
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter、prison-father-letters-1974-03-01-receives-liwen-feb13-letter-card-and-praises-grades
+  来源：坐牢家爸爸给女儿的八十封信 / 019.情人与天使 / line 23
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/019.情人与天使.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-03-02-writes-valentine-cupid-angels-letter
+- 1974年3月6日 | 李敖收到李文和姥姥2月21日来信，赞李文英文进步快
+  精度：day；可靠度：reported-by-author；排序日期：1974-03-06
+  摘要：1974年3月6日，李敖在景美军法处看守所第八房收到李文和姥姥2月21日的来信。第二天他在《看那熊相》信中记下此事，并称赞李文的英文进步真快、真不得了。
+  人物：李敖、李文、张桂贞
+  地点：景美军法处看守所、台北、美国
+  标签：狱中通信、李文、张桂贞、收信、英文进步
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、看那熊相
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 020.看那熊相 / line 43
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/020.看那熊相.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-03-06-receives-feb21-letters-and-praises-liwen-english-progress
+- 1974年3月7日 | 李敖写《看那熊相》，讲熊、牛熊行情和“熊罴入梦”
+  精度：day；可靠度：reported-by-author；排序日期：1974-03-07
+  摘要：1974年3月7日，李敖在景美军法处看守所第八房写《看那熊相》给李文。他从黄石公园、约塞米蒂公园的黑熊说起，讲熊急性子、爱甜、搅蜂窝和白蚁窝，并在信中自比说自己对白蚁没有熊那样有办法；又讲熊掌、Smoky the Bear、北极熊和苏联俗称 the bear，以及英文里 bull、bear 表示买空卖空。信中他解释“熊罴入梦”是祝人生儿子，提醒如果六姑肚子大了可以这样祝贺；信末说明前一天收到李文和姥姥来信，赞李文英文进步快，并请姥姥开列八舅年节汇款数目给他。
+  人物：李敖、李文、张桂贞、六姑、八舅、孟子
+  地点：景美军法处看守所、台北、黄石公园、约塞米蒂公园、Wyoming、California、苏联
+  标签：狱中家书、李文、张桂贞、熊、熊罴入梦、八舅、英文函授
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、看那熊相
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter、prison-father-letters-1974-03-06-receives-feb21-letters-and-praises-liwen-english-progress
+  来源：坐牢家爸爸给女儿的八十封信 / 020.看那熊相 / line 41
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/020.看那熊相.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-03-07-writes-bear-letter-and-asks-grandma-about-uncle-remittances
+- 1974年3月15日 | 李敖写《为什么还叫别人是姥姥？》，称李文是天才并讲 nothing 用法
+  精度：day；可靠度：reported-by-author；排序日期：1974-03-15
+  摘要：1974年3月15日，李敖在景美军法处看守所第八房写《为什么还叫别人是姥姥？》给李文。他从李文英文短期进步说起，联想到孙观汉曾写《李敖和天才》证明李敖是天才，于是在信中称李文也是天才；又借爱迪生、王尔德和英文 nothing 的例句，说明天才仍须用功，并解释 Nothing doing 与北平土话“姥姥”的意思，提醒她别让人误会为什么还叫别人姥姥。
+  人物：李敖、李文、孙观汉、爱迪生、王尔德、张桂贞
+  地点：景美军法处看守所、台北、北平、美国、英国
+  标签：狱中家书、李文、天才、英文函授、姥姥、北平土话
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、为什么还叫别人是姥姥？、李敖和天才
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 021.为什么还叫别人是姥姥？ / line 31
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/021.为什么还叫别人是姥姥？.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-03-15-writes-genius-nothing-doing-grandma-letter
+- 1974年3月20日 | 李敖收到李文和姥姥3月7日来信
+  精度：day；可靠度：reported-by-author；排序日期：1974-03-20
+  摘要：1974年3月20日，李敖在景美军法处看守所第八房收到李文和姥姥3月7日的来信。两天后他在《苍蝇的老婆最多》信末记下此事，并说明本周要写长信给八舅，所以这次只写给李文。
+  人物：李敖、李文、张桂贞、八舅
+  地点：景美军法处看守所、台北、美国
+  标签：狱中通信、李文、张桂贞、收信、八舅
+  视图：书信线、亲情线、狱中线
+  作品：坐牢家爸爸给女儿的八十封信、苍蝇的老婆最多
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 022.苍蝇的老婆最多 / line 19
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/022.苍蝇的老婆最多.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-03-20-receives-liwen-grandma-mar7-letters
+- 1974年3月22日 | 李敖写《苍蝇的老婆最多》，并说明本周要给八舅写长信
+  精度：day；可靠度：reported-by-author；排序日期：1974-03-22
+  摘要：1974年3月22日，李敖在景美军法处看守所第八房写《苍蝇的老婆最多》给李文。他从一个眼睛有毛病的熟人玩笑讲到苍蝇复眼、蜻蜓眼力和英文 gnat 相关成语，又让李文找出去年10月7日谈 penny-wise and pound-foolish 的旧信重看；信末说明3月20日收到李文和姥姥来信，本周因要写长信给八舅，所以只写给李文。
+  人物：李敖、李文、张桂贞、八舅
+  地点：景美军法处看守所、台北、美国
+  标签：狱中家书、李文、张桂贞、八舅、苍蝇、英文函授
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、苍蝇的老婆最多
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter、prison-father-letters-1974-03-20-receives-liwen-grandma-mar7-letters
+  来源：坐牢家爸爸给女儿的八十封信 / 022.苍蝇的老婆最多 / line 17
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/022.苍蝇的老婆最多.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-03-22-writes-fly-eyes-letter-and-notes-uncle-letter
+- 1974年3月29日 | 李敖写《英文回文·中文回文》，向李文讲 palindrome
+  精度：day；可靠度：reported-by-author；排序日期：1974-03-29
+  摘要：1974年3月29日，李敖在景美军法处看守所第八房写《英文回文·中文回文》给李文。他从 eye、did、madam、Madam, I'm Adam 到拿破仑流放厄尔巴岛的回文句，解释英文 palindrome；又转入中文回文，列出自己前一晚特别造的四组回文和茶壶上的“可以清心也”。信末他说写得太多，只好下次再给姥姥写，并补记前一天收到李文3月13日来信和照片。
+  人物：李敖、李文、张桂贞、拿破仑、纳兰性德
+  地点：景美军法处看守所、台北、Elba、法国、意大利
+  标签：狱中家书、李文、张桂贞、回文、英文函授、拿破仑
+  视图：书信线、亲情线、狱中线、创作线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、英文回文·中文回文
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter、prison-father-letters-1974-03-28-makes-palindromes-and-receives-mar13-letter-photo
+  来源：坐牢家爸爸给女儿的八十封信 / 023.英文回文·中文回文 / line 97
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/023.英文回文·中文回文.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-03-29-writes-english-chinese-palindrome-letter
+- 1974年4月6日 | 李敖写《关于脖子的种种》，续接去年长颈鹿信
+  精度：day；可靠度：reported-by-author；排序日期：1974-04-06
+  摘要：1974年4月6日，李敖在景美军法处看守所第八房写《关于脖子的种种》给李文。他先提醒去年8月12日曾在信中谈长颈鹿，再由缅甸女子套黄铜项圈、中国缠小脚讲到 neck、necklace、necktie、neck and neck、neck or nothing、save one's neck、stick one's neck out 等英文用法；最后借“刎颈之交”提醒“刎”别写成“吻”，否则会变成英文 necking 的意思。
+  人物：李敖、李文
+  地点：景美军法处看守所、台北、缅甸、中国
+  标签：狱中家书、李文、脖子、长颈鹿、英文函授
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、关于脖子的种种
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 024.关于脖子的种种 / line 37
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/024.关于脖子的种种.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-04-06-writes-neck-idioms-letter
+- 1974年4月11日 | 李敖收到李文3月27日来信，称剪画片和说明都很好
+  精度：day；可靠度：reported-by-author；排序日期：1974-04-11
+  摘要：1974年4月11日，李敖在景美军法处看守所第八房收到李文3月27日的来信。两天后他在《眼睛有时候会上当》信末记下此事，称李文剪的画片和说明都非常好，并接着画出两条带箭头的线，让她判断哪条更长，以说明眼睛有时会上当。
+  人物：李敖、李文
+  地点：景美军法处看守所、台北、美国
+  标签：狱中通信、李文、收信、画片、视觉错觉
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、眼睛有时候会上当
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 025.眼睛有时候会上当 / line 45
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/025.眼睛有时候会上当.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-04-11-receives-liwen-mar27-letter-clippings
+- 1974年4月13日 | 李敖写《眼睛有时候会上当》，用错觉图回应李文来信
+  精度：day；可靠度：reported-by-author；排序日期：1974-04-13
+  摘要：1974年4月13日，李敖在景美军法处看守所第八房写《眼睛有时候会上当》给李文。他从 look、see、seesaw 和 Seeing is believing 讲到海市蜃楼，说明“百闻不如一见”也不能全信；信末记录4月11日收到李文3月27日来信，夸她剪的画片和说明都好，又手画一组箭头线条错觉题给她看，指出眼睛有时候会上当。
+  人物：李敖、李文
+  地点：景美军法处看守所、台北、沙漠、美国
+  标签：狱中家书、李文、视觉错觉、英文函授、海市蜃楼
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、眼睛有时候会上当
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter、prison-father-letters-1974-04-11-receives-liwen-mar27-letter-clippings
+  来源：坐牢家爸爸给女儿的八十封信 / 025.眼睛有时候会上当 / line 43
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/025.眼睛有时候会上当.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-04-13-writes-seeing-believing-optical-illusion-letter
+- 1974年4月19日 | 李敖写《“妈妈骑马，马慢，妈妈骂马”》，在信中又想到英文绕口令
+  精度：day；可靠度：reported-by-author；排序日期：1974-04-19
+  摘要：1974年4月19日，李敖在景美军法处看守所第八房写《“妈妈骑马，马慢，妈妈骂马”》给李文。他先列出中文绕口令，再讲英文 tongue twister、tongue-tripper 和 tongue-twisting lyrics，举 seashells、big black bug、Peter Piper 等例子；写到中途，他在信中又想到一段较长的英文绕口令 Bill had a billboard，并顺手讲 billboard、bill、bore、bored 的用法。信末又补一句“一粒辣椒也比一篮南瓜好”的英文谚语。
+  人物：李敖、李文
+  地点：景美军法处看守所、台北、美国
+  标签：狱中家书、李文、绕口令、英文函授、信中想到
+  视图：书信线、亲情线、狱中线、创作线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、“妈妈骑马，马慢，妈妈骂马”
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 026.“妈妈骑马，马慢，妈妈骂马” / line 51
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/026.“妈妈骑马，马慢，妈妈骂马”.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-04-19-writes-tongue-twisters-letter
+- 1974年4月26日 | 李敖写《老鼠不信任一个洞》，并记下39岁生日与同日收信
+  精度：day；可靠度：reported-by-author；排序日期：1974-04-26
+  摘要：1974年4月26日，李敖在景美军法处看守所第八房写《老鼠不信任一个洞》给李文。他讲 mouse、mice、rat、rats、胆小如鼠与英文 wet as a drowned rat、as poor as a church mouse 等说法，又从“老鼠不信任一个洞”讲到船沉前老鼠先跑、rat 作出卖者、Judas kiss 和“别打落水狗”一组谚语；信末说英文要“一窝一窝的学”。他还记录当天收到李文两封信和卡片，并回述前一天一个人静静过39岁生日、看完一本传记和一个剧本。
+  人物：李敖、李文、犹大、耶稣、王尔德、玛士撒拉、亚当
+  地点：景美军法处看守所、台北、美国
+  标签：狱中家书、李文、老鼠、犹大之吻、生日、读书、英文函授
+  视图：书信线、亲情线、狱中线、读书线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、老鼠不信任一个洞
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter、prison-father-letters-1974-04-25-spends-39th-birthday-alone-reading、prison-father-letters-1974-04-26-receives-liwen-apr11-apr17-letters-card
+  来源：坐牢家爸爸给女儿的八十封信 / 027.老鼠不信任一个洞 / line 61
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/027.老鼠不信任一个洞.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-04-26-writes-mouse-rat-judas-letter
+- 1974年4月26日 | 李敖同日收到李文4月11日、17日来信和卡片
+  精度：day；可靠度：reported-by-author；排序日期：1974-04-26
+  摘要：1974年4月26日，李敖在景美军法处看守所第八房收到李文4月11日、17日的来信和卡片。他在当天《老鼠不信任一个洞》信末说“本周只给你写信”，并把这次收信同自己前一天静静过39岁生日的记录写在一起。
+  人物：李敖、李文
+  地点：景美军法处看守所、台北、美国
+  标签：狱中通信、李文、收信、卡片、生日
+  视图：书信线、亲情线、狱中线
+  作品：坐牢家爸爸给女儿的八十封信、老鼠不信任一个洞
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter、prison-father-letters-1974-04-25-spends-39th-birthday-alone-reading
+  来源：坐牢家爸爸给女儿的八十封信 / 027.老鼠不信任一个洞 / line 63
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/027.老鼠不信任一个洞.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-04-26-receives-liwen-apr11-apr17-letters-card
 - 1974年5月4日星期六 | 李敖在狱中作《朋友的没落》
   精度：day；可靠度：confirmed；排序日期：1974-05-04
   摘要：《朋友的没落》署1974年5月4日狱中作，是《波波颂》收入的又一篇狱中写作。
@@ -93800,6 +94268,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/006.波波颂/005.朋友的没落.txt
   数据：data/timeline-events-bobo-song.json#bobo-song-1974-05-04-friends-decline
+- 1974年5月25日 | 李敖写《说姓道名》，由李文来信讲 Hedy Lee 与英文姓名
+  精度：day；可靠度：reported-by-author；排序日期：1974-05-25
+  摘要：1974年5月25日，李敖在景美军法处看守所第八房写《说姓道名》给李文。他从前天收到李文5月8日来信、谈到 Hedy 与姥姥说的 Hidy 开始，说明英文 name 可指姓、名或姓名，讲 first name、middle name、surname、family name、last name，以及 Robert E. Lee、Richard Nixon、Patricia Ryan 和赛珍珠改名不改名的例子；信中还说李文的 Hedy 小名可以是 Heddie 或 Hedie。
+  人物：李敖、李文、张桂贞、Robert Edward Lee、Richard Nixon、Patricia Ryan、赛珍珠
+  地点：景美军法处看守所、台北、美国、英国、中国
+  标签：狱中家书、李文、张桂贞、Hedy Lee、姓名、英文函授
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、说姓道名、大地
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter、prison-father-letters-1974-05-23-receives-liwen-may8-letter
+  来源：坐牢家爸爸给女儿的八十封信 / 028.说姓道名 / line 37
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/028.说姓道名.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-05-25-writes-names-hedy-lee-letter
+- 1974年5月31日 | 李敖写《猫头鹰为什么跟在智慧女神屁股后面？》，讲雅典、猫头鹰和多此一举
+  精度：day；可靠度：reported-by-author；排序日期：1974-05-31
+  摘要：1974年5月31日，李敖在景美军法处看守所第八房写《猫头鹰为什么跟在智慧女神屁股后面？》给李文。他由 Carry coals to Newcastle、Carry water to the river 讲到 Carry owls to Athens，解释雅典、智慧女神 Athena 与猫头鹰象征智慧的关系；又说猫头鹰眼睛呆、眼珠不会动，需摇头晃脑看东西，并在信中调侃女猫头鹰用摇头代飞眼，男猫头鹰就飞了。信末还讲中国的枭、鸮、夜猫子迷信和 owl 作夜游子、夜场电影的俗语。
+  人物：李敖、李文、Athena、武大郎
+  地点：景美军法处看守所、台北、Newcastle、Athens、Greece、中国、纽约
+  标签：狱中家书、李文、猫头鹰、雅典、智慧女神、英文函授
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、猫头鹰为什么跟在智慧女神屁股后面？
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 029.猫头鹰为什么跟在智慧女神屁股后面？ / line 35
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/029.猫头鹰为什么跟在智慧女神屁股后面？.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-05-31-writes-owl-athens-wisdom-letter
 - 1974年6月2日星期日 | 李敖在狱中作《活在湿度计里》
   精度：day；可靠度：confirmed；排序日期：1974-06-02
   摘要：《活在湿度计里》署1974年6月2日夜狱中作，为《波波颂》中的狱中生活感受留下确日痕迹。
@@ -93813,6 +94307,45 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/006.波波颂/006.活在湿度计里.txt
   数据：data/timeline-events-bobo-song.json#bobo-song-1974-06-02-hygrometer
+- 1974年6月5日 | 李敖收到姥姥5月23日来信
+  精度：day；可靠度：reported-by-author；排序日期：1974-06-05
+  摘要：1974年6月5日，李敖在景美军法处看守所第八房收到姥姥张桂贞5月23日的来信。两天后他在《狼来了！狼来了！》信末记下收信日期，并说这封写给李文的信太长了，所以这次不给姥姥另写。
+  人物：李敖、张桂贞、李文
+  地点：景美军法处看守所、台北、美国
+  标签：狱中通信、张桂贞、收信、李文
+  视图：书信线、亲情线、狱中线
+  作品：坐牢家爸爸给女儿的八十封信、狼来了！狼来了！
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 030.狼来了！狼来了！ / line 29
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/030.狼来了！狼来了！.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-06-05-receives-grandma-may23-letter
+- 1974年6月7日 | 李敖写《狼来了！狼来了！》，讲 Jack London、狼成语和姥姥来信
+  精度：day；可靠度：reported-by-author；排序日期：1974-06-07
+  摘要：1974年6月7日，李敖在景美军法处看守所第八房写《狼来了！狼来了！》给李文。他从杰克·伦敦《野性的呼声》、圣伯纳混血狗和狼狗讲起，列出中文狼成语，再讲《伊索寓言》“狼来了”与英文 cry wolf、wolf down、keep the wolf from the door、wolf whistle、holding a wolf by the ears 等用法。信末说明姥姥5月23日的信已在6月5日收到，但这封给李文的信太长，所以不给姥姥另写。
+  人物：李敖、李文、张桂贞、Jack London、Louisa M. Alcott
+  地点：景美军法处看守所、台北、美国、英国
+  标签：狱中家书、李文、张桂贞、狼、伊索寓言、英文函授
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、狼来了！狼来了！、野性的呼声、伊索寓言、小妇人
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter、prison-father-letters-1974-06-05-receives-grandma-may23-letter
+  来源：坐牢家爸爸给女儿的八十封信 / 030.狼来了！狼来了！ / line 27
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/030.狼来了！狼来了！.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-06-07-writes-wolf-cry-wolf-letter
+- 1974年6月14日 | 李敖写《谁先完蛋？》，讲 egghead、完蛋和 Humpty Dumpty
+  精度：day；可靠度：reported-by-author；排序日期：1974-06-14
+  摘要：1974年6月14日，李敖在景美军法处看守所第八房写《谁先完蛋？》给李文。他接续去年11月4日信中提过的 egghead，讲蛋、卵、王八蛋、混蛋、Nuts、覆巢之下安有完卵、以卵击石和 Don't venture all your eggs in one basket；又介绍儿歌里的 Humpty Dumpty。信末他说明因催丁伯伯寄钱，本周不给姥姥写信，并嘱李文在姥姥生日时代他送卡片但要自己掏腰包；另在“给六姑”小段中解释子女性别由父方 X 或 Y 染色体决定。
+  人物：李敖、李文、张桂贞、丁伯伯、六姑、McAuliffe
+  地点：景美军法处看守所、台北、美国、德国
+  标签：狱中家书、李文、张桂贞、丁伯伯、六姑、蛋、英文函授
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、谁先完蛋？
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 031.谁先完蛋？ / line 45
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/031.谁先完蛋？.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-06-14-writes-egg-humpty-dumpty-letter-and-urges-uncle-ding-remittance
 - 1974年6月15日星期六 | 李敖在狱中写信谈书刊检查，并请求购买《中华古籍丛刊》
   精度：day；可靠度：confirmed；排序日期：1974-06-15
   摘要：《狱中书信两封》第一封署“六三、六、十五。敖之”。李敖说明所内书刊检查管制办法改变，朋友寄书多不能通过，建议改由所方代买，并请对方买一套《中华古籍丛刊》，另附“凭此单提中华古籍丛刊壹套”。
@@ -93826,6 +94359,58 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/002.狱中书信两封.txt
   数据：data/timeline-events-li-ao-zawenji.json#li-ao-zawenji-1974-06-15-prison-letter-on-book-censorship-and-guji-set
+- 1974年6月23日 | 李敖写《猴相》，讲 monkey、朝三暮四和 monkey business
+  精度：day；可靠度：reported-by-author；排序日期：1974-06-23
+  摘要：1974年6月23日，李敖在景美军法处看守所第八房写《猴相》给李文。他从 money、monkey、monkery 的字形差异讲起，转入“狙公”朝三暮四、猴快、猴精、教猱升木、狒狒和《西游记》孙悟空腮里藏仙丹；又用 monkey business、make a monkey of、throw a monkey wrench into、monkey with 等英文句子说明猴子在英语里的顽皮、捣乱和危险意味，并举艾森豪威尔继续指挥胜利队伍的例子。
+  人物：李敖、李文、孙悟空、太上老君、艾森豪威尔、Franklin Roosevelt
+  地点：景美军法处看守所、台北、美国、中国
+  标签：狱中家书、李文、猴、西游记、英文函授
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、猴相、西游记
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 032.猴相 / line 35
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/032.猴相.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-06-23-writes-monkey-letter
+- 1974年6月30日 | 李敖写《从人猿到猿人》，讲 ape、Tarzan、Yeti 和北京人
+  精度：day；可靠度：reported-by-author；排序日期：1974-06-30
+  摘要：1974年6月30日，李敖在景美军法处看守所第八房写《从人猿到猿人》给李文。他接着上封有尾巴的猴子信，改讲没尾巴的 ape：黑猩猩、长臂猿、大猩猩和婆罗洲、苏门答腊巨猿；又从牵猩猩下地狱、柏拉图和德国谚语讲到 Not that...but that... 的英文形式、Edgar Rice Burroughs 的 Tarzan of the Apes、喜马拉雅 Yeti，以及周口店“北京人”骨头在二战前遗失的事。
+  人物：李敖、李文、Plato、Edgar Rice Burroughs、Edmund P. Hillary、Tenzing Norgay
+  地点：景美军法处看守所、台北、婆罗洲、苏门答腊、非洲、喜马拉雅山、Mount Everest、周口店
+  标签：狱中家书、李文、猿、Tarzan、Yeti、北京人、英文函授
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、从人猿到猿人、Tarzan of the Apes
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 033.从人猿到猿人 / line 55
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/033.从人猿到猿人.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-06-30-writes-ape-tarzan-yeti-letter
+- 1974年7月4日 | 李敖收到李文6月19日来信
+  精度：day；可靠度：reported-by-author；排序日期：1974-07-04
+  摘要：1974年7月4日，李敖在景美军法处看守所第八房收到李文6月19日的来信。三天后他在《蘑菇个没完》信末记下“你6月19日的信7月4日收到”，这条收信小事说明父女狱中通信仍持续按来信触发下一封家书内容。
+  人物：李敖、李文
+  地点：景美军法处看守所、台北、美国
+  标签：狱中通信、李文、收信
+  视图：书信线、亲情线、狱中线
+  作品：坐牢家爸爸给女儿的八十封信、蘑菇个没完
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 034.蘑菇个没完 / line 31
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/034.蘑菇个没完.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-07-04-receives-liwen-jun19-letter
+- 1974年7月7日 | 李敖写《蘑菇个没完》，讲北平话“蘑菇”和 mushroom
+  精度：day；可靠度：reported-by-author；排序日期：1974-07-07
+  摘要：1974年7月7日，李敖在景美军法处看守所第八房写《蘑菇个没完》给李文。他从李文向姥姥有所要求时“说个没完”的北平话“蘑菇”讲起，解释 mushroom 字谜、菌类、有毒 toadstool、沙皇 Alexis 吃毒菌、原子弹菌状云、mushroom fame 和 mushroom millionaire 等英文用法；信末说明7月4日已收到李文6月19日来信。这个日期同《波波颂》中7月7日夜狱中作《孤独与鬼》相接，显示同日还有诗作活动。
+  人物：李敖、李文、张桂贞、Alexis、Peter the Great
+  地点：景美军法处看守所、台北、北平、俄国
+  标签：狱中家书、李文、张桂贞、蘑菇、北平话、英文函授
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、蘑菇个没完、孤独与鬼
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter、prison-father-letters-1974-07-04-receives-liwen-jun19-letter、bobo-song-1974-07-07-loneliness-and-ghost
+  来源：坐牢家爸爸给女儿的八十封信 / 034.蘑菇个没完 / line 29
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/034.蘑菇个没完.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-07-07-writes-mushroom-letter-and-notes-jul4-letter
 - 1974年7月7日星期日 | 李敖在狱中作《孤独与鬼》
   精度：day；可靠度：confirmed；排序日期：1974-07-07
   摘要：《孤独与鬼》署1974年7月7日夜狱中作，把李敖狱中诗作推进到1974年7月。
@@ -93839,6 +94424,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/006.波波颂/007.孤独与鬼.txt
   数据：data/timeline-events-bobo-song.json#bobo-song-1974-07-07-loneliness-and-ghost
+- 1974年7月16日 | 李敖收到李文7月3日来信
+  精度：day；可靠度：reported-by-author；排序日期：1974-07-16
+  摘要：1974年7月16日，李敖在景美军法处看守所第八房收到李文7月3日的来信。7月21日他在《非驴非马》信末记下“你3日的信16日收到”，仍把收信日期作为下一封家书的末尾补记。
+  人物：李敖、李文
+  地点：景美军法处看守所、台北、美国
+  标签：狱中通信、李文、收信
+  视图：书信线、亲情线、狱中线
+  作品：坐牢家爸爸给女儿的八十封信、非驴非马
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 035.非驴非马 / line 37
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/035.非驴非马.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-07-16-receives-liwen-jul3-letter
 - 1974年7月16日星期二 | 《文星杂志选集第三册》遭警总查禁
   精度：day；可靠度：confirmed；排序日期：1974-07-16
   摘要：《李敖著作查禁清单及官方理由》记，李敖1976年11月19日出狱前的著作与主编刊物中，除了多本个人著作被禁外，《文星杂志选集第三册》也已于1974年7月16日被警总依电令查禁。这条材料把李敖出版受难线从个人著作，进一步补到与《文星》相关的选集层面。
@@ -93852,6 +94450,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/008.李敖相关/006.李敖著作查禁清单及官方理由.txt
   数据：data/timeline-events-eighth-book.json#book8-1974-07-16-wenxing-selected-volume-three-banned
+- 1974年7月21日 | 李敖写《非驴非马》，讲 donkey、mule、hinny 与美国两党漫画
+  精度：day；可靠度：reported-by-author；排序日期：1974-07-21
+  摘要：1974年7月21日，李敖在景美军法处看守所第八房写《非驴非马》给李文。他从 Hader 夫妇给儿童书画的骑驴画片讲起，解释 ass、donkey、骑驴觅驴、骑马找马、驴年马月、donkey's years、驴脾气和 as stubborn as a mule；又说明 mule 是公驴和母马生的“非驴非马”，hinny 是公马和母驴生的废物，并提到美国漫画中驴代表民主党、象代表共和党。信末补记7月16日已收到李文7月3日来信。
+  人物：李敖、李文、Hader夫妇
+  地点：景美军法处看守所、台北、美国、中国
+  标签：狱中家书、李文、驴、骡子、美国两党、英文函授
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、非驴非马
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter、prison-father-letters-1974-07-16-receives-liwen-jul3-letter
+  来源：坐牢家爸爸给女儿的八十封信 / 035.非驴非马 / line 35
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/035.非驴非马.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-07-21-writes-donkey-mule-letter
+- 1974年7月24日 | 李敖同日收到姥姥、李文和妈妈多封来信与照片卡片
+  精度：day；可靠度：reported-by-author；排序日期：1974-07-24
+  摘要：1974年7月24日，李敖在景美军法处看守所第八房收到姥姥7月12日来信、李文5月29日的照片卡片、李文6月18日来信三封；由八舅转来的妈妈6月24日和7月10日给李敖的信也都收到。8月4日《回台湾》信中，他把这批信件合并记下，并说明上周因李文和姥姥已在返台途中，所以没有写信。
+  人物：李敖、李文、张桂贞、王尚勤、八舅
+  地点：景美军法处看守所、台北、纽约、台湾、美国
+  标签：狱中通信、李文、张桂贞、王尚勤、八舅、收信、返台
+  视图：书信线、亲情线、狱中线
+  作品：坐牢家爸爸给女儿的八十封信、骑小马·回台湾
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 036.骑小马·回台湾 / line 49
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/036.骑小马·回台湾.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-07-24-receives-grandma-liwen-mother-letters-before-return-taiwan-letter
 - 1974年7月31日星期三 | 严侨病逝台北崇仁医院
   精度：day；可靠度：confirmed；排序日期：1974-07-31
   摘要：李敖后来在狱中读旧报讣告，得知严侨于1974年7月31日中午病逝台北市崇仁医院，享年五十五岁。
@@ -93865,6 +94489,45 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/003.我最难忘的一位老师.txt
   数据：data/timeline-events-first-book-supplement.json#1974-07-31-yan-qiao-dies
+- 1974年8月4日 | 李敖同日写《骑小马》和《回台湾》给李文
+  精度：day；可靠度：reported-by-author；排序日期：1974-08-04
+  摘要：1974年8月4日，李敖在景美军法处看守所第八房同日给李文写《骑小马》和《回台湾》两封信。《骑小马》中，他由李文在纽约骑的 Shetland Pony 讲到拍马屁、马屁精、露出马脚、马路如虎口、盲人骑瞎马、Ride the high horse、pay for a dead horse、flog a dead horse 等马成语。《回台湾》中，他说明7月24日已收到姥姥、李文和妈妈多封信，因李文和姥姥上周正在返台途中而未写信；又根据李文回台湾后的处境，列出上美国学校、练英文、给妈妈和亲友写信、每周给爸爸写信、成立私人图书馆、监督姥姥保健、写日记、照相、养小狗、学会直接寄信等生活安排。
+  人物：李敖、李文、张桂贞、王尚勤、八舅
+  地点：景美军法处看守所、台北、台湾、纽约、美国、Shetland
+  标签：狱中家书、李文、张桂贞、王尚勤、八舅、返台、小马、私人图书馆、英文函授
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、骑小马·回台湾
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter、prison-father-letters-1974-07-24-receives-grandma-liwen-mother-letters-before-return-taiwan-letter
+  来源：坐牢家爸爸给女儿的八十封信 / 036.骑小马·回台湾 / line 77
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/036.骑小马·回台湾.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-08-04-writes-pony-and-return-taiwan-letters
+- 1974年8月7日 | 李敖收到姥姥7月25日来信
+  精度：day；可靠度：reported-by-author；排序日期：1974-08-07
+  摘要：1974年8月7日，李敖在景美军法处看守所第八房收到姥姥张桂贞7月25日来信。三天后他在《鸽子·囮子·凯子》信末记下这件收信小事。
+  人物：李敖、张桂贞
+  地点：景美军法处看守所、台北、台湾
+  标签：狱中通信、张桂贞、收信
+  视图：书信线、亲情线、狱中线
+  作品：坐牢家爸爸给女儿的八十封信、鸽子·囮子·凯子
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 037.鸽子·囮子·凯子 / line 27
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/037.鸽子·囮子·凯子.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-08-07-receives-grandma-jul25-letter
+- 1974年8月10日 | 李敖写《鸽子·囮子·凯子》，讲 pigeon、stool-pigeon 和洋泾浜英文
+  精度：day；可靠度：reported-by-author；排序日期：1974-08-10
+  摘要：1974年8月10日，李敖在景美军法处看守所第八房写《鸽子·囮子·凯子》给李文。他讲 pigeon、dove、信鸽、鹰派和鸽派、鸽子喝水和孵蛋，又解释美国俗话中 pigeon 可指女孩子或赌博中被骗输钱的“凯子”；随后讲 stool-pigeon、decoy、bait、trap，以及 Pigeon-English/Pidgin-English 与上海洋泾浜英文。信末补记8月7日收到姥姥7月25日来信。
+  人物：李敖、李文、张桂贞
+  地点：景美军法处看守所、台北、美国、上海、洋泾浜
+  标签：狱中家书、李文、张桂贞、鸽子、洋泾浜英文、英文函授
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、鸽子·囮子·凯子
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter、prison-father-letters-1974-08-07-receives-grandma-jul25-letter
+  来源：坐牢家爸爸给女儿的八十封信 / 037.鸽子·囮子·凯子 / line 25
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/037.鸽子·囮子·凯子.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-08-10-writes-pigeon-decoy-pidgin-letter
 - 1974年8月12日星期一 | 严侨设奠公祭并火葬
   精度：day；可靠度：confirmed；排序日期：1974-08-12
   摘要：严侨讣告定于1974年8月12日上午八时在台北市殡仪馆福寿厅设奠，十时大殓后发引火葬。
@@ -93878,6 +94541,370 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/003.我最难忘的一位老师.txt
   数据：data/timeline-events-first-book-supplement.json#1974-08-12-yan-funeral
+- 1974年8月14日 | 李敖收到李文回台湾后的第一封信和姥姥加州来信
+  精度：day；可靠度：reported-by-author；排序日期：1974-08-14
+  摘要：1974年8月14日，李敖在景美军法处看守所第八房收到李文回台湾后的第一封信，即8月10日来信；同一天也收到姥姥8月1日在加州发出的信。8月17日他在《斗出自大来》信末把两封信合并记下。
+  人物：李敖、李文、张桂贞
+  地点：景美军法处看守所、台北、台湾、加州
+  标签：狱中通信、李文、张桂贞、收信、返台
+  视图：书信线、亲情线、狱中线
+  作品：坐牢家爸爸给女儿的八十封信、斗出自大来
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 038.斗出自大来 / line 41
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/038.斗出自大来.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-08-14-receives-liwen-first-taiwan-letter-and-grandma-california-letter
+- 1974年8月17日 | 李敖写《斗出自大来》，讲 cockeye、斗鸡和 cocky
+  精度：day；可靠度：reported-by-author；排序日期：1974-08-17
+  摘要：1974年8月17日，李敖在景美军法处看守所第八房写《斗出自大来》给李文。他从“斗鸡眼”cockeye、cockeyed 讲到斗鸡、美国仍准斗鸡的三个州、gamecock、Every cock crows on its own dunghill、cock-a-doodle-doo、cock-a-hoop 和 cocky；又引用 George Eliot 描写自大者像以为太阳为听自己叫而升起的公鸡。信末补记8月14日收到李文回台湾后的第一封信和姥姥加州来信。
+  人物：李敖、李文、张桂贞、George Eliot
+  地点：景美军法处看守所、台北、美国、Florida、Kansas、New Mexico、英国、加州
+  标签：狱中家书、李文、张桂贞、斗鸡、自大、英文函授
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、斗出自大来
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter、prison-father-letters-1974-08-14-receives-liwen-first-taiwan-letter-and-grandma-california-letter
+  来源：坐牢家爸爸给女儿的八十封信 / 038.斗出自大来 / line 39
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/038.斗出自大来.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-08-17-writes-cockfighting-cocky-letter
+- 1974年8月21日 | 李敖收到胡伯伯8月6日信和姥姥8月16日信
+  精度：day；可靠度：reported-by-author；排序日期：1974-08-21
+  摘要：1974年8月21日，李敖在景美军法处看守所第八房收到胡伯伯8月6日来信和姥姥8月16日来信。次日他在《谁在瞎忙？》信末说“昨天收到”，并顺便问李文是否已经收到自己8月4日、10日、17日给她的三封信。
+  人物：李敖、胡伯伯、张桂贞、李文
+  地点：景美军法处看守所、台北、台湾
+  标签：狱中通信、胡伯伯、张桂贞、李文、收信
+  视图：书信线、亲情线、狱中线
+  作品：坐牢家爸爸给女儿的八十封信、谁在瞎忙？
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 039.谁在瞎忙？ / line 41
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/039.谁在瞎忙？.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-08-21-receives-uncle-hu-and-grandma-letters
+- 1974年8月22日 | 李敖写《谁在瞎忙？》，讲 mole、molehill 和无事忙
+  精度：day；可靠度：reported-by-author；排序日期：1974-08-22
+  摘要：1974年8月22日，李敖在景美军法处看守所第八房写《谁在瞎忙？》给李文。他由 mule 和 mole 的差别讲到鼹鼠眼小、挖洞、molehill、as blind as a mole、Argus-eyed、make a mountain of a molehill，以及 promise mountains and perform molehills 一组空话骗人英文；最后把 a molehill man 解释为假忙的人，并联系《红楼梦》贾宝玉说的“无事忙”。信末他问李文是否收到自己8月4日、10日、17日的信，并补记前一天收到胡伯伯和姥姥来信。
+  人物：李敖、李文、胡伯伯、张桂贞、贾宝玉、Argus
+  地点：景美军法处看守所、台北、台湾
+  标签：狱中家书、李文、胡伯伯、张桂贞、鼹鼠、无事忙、英文函授
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、谁在瞎忙？、红楼梦
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter、prison-father-letters-1974-08-21-receives-uncle-hu-and-grandma-letters
+  来源：坐牢家爸爸给女儿的八十封信 / 039.谁在瞎忙？ / line 39
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/039.谁在瞎忙？.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-08-22-writes-molehill-busy-letter
+- 1974年8月28日 | 李敖收到李文8月20日来信
+  精度：day；可靠度：reported-by-author；排序日期：1974-08-28
+  摘要：1974年8月28日，李敖在景美军法处看守所第八房收到李文8月20日来信。8月31日他在《运动道德吗？》信末补记“你20日的信28日收到”。
+  人物：李敖、李文
+  地点：景美军法处看守所、台北、台湾
+  标签：狱中通信、李文、收信
+  视图：书信线、亲情线、狱中线
+  作品：坐牢家爸爸给女儿的八十封信、运动道德吗？
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 040.运动道德吗？ / line 37
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/040.运动道德吗？.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-08-28-receives-liwen-aug20-letter
+- 1974年8月31日 | 李敖写《运动道德吗？》，由扑克牌讲 call a spade a spade 和 sportsman
+  精度：day；可靠度：reported-by-author；排序日期：1974-08-31
+  摘要：1974年8月31日，李敖在景美军法处看守所第八房写《运动道德吗？》给李文。他从 poker、playing card、spade 和 Call a spade a spade 讲到“是什么就说什么”、颠倒黑白、指鹿为马、莎士比亚《驯悍记》、孔子“觚，不觚。觚哉？觚哉？”；又用胡子伯伯和姑姑开玩笑，说明名不副实。信末谈 sportsman 可指猎人也可指有运动道德的人，但猎人对动物并不公平，因此漫画中的鸭子才会奇怪；最后补记8月28日收到李文8月20日来信。
+  人物：李敖、李文、莎士比亚、孔子、孟子、孟伯伯
+  地点：景美军法处看守所、台北、台湾
+  标签：狱中家书、李文、扑克牌、孔子、运动道德、英文函授
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、运动道德吗？、驯悍记、四书
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter、prison-father-letters-1974-08-28-receives-liwen-aug20-letter
+  来源：坐牢家爸爸给女儿的八十封信 / 040.运动道德吗？ / line 35
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/040.运动道德吗？.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-08-31-writes-sportsman-spade-letter
+- 1974年9月11日 | 李敖收到李文9月6日来信
+  精度：day；可靠度：reported-by-author；排序日期：1974-09-11
+  摘要：1974年9月11日，李敖在景美军法处看守所第八房收到李文9月6日的来信。三天后他在《生日与十二宫图》信末补记“你6日信11日收到”。
+  人物：李敖、李文
+  地点：景美军法处看守所、台北、台湾
+  标签：狱中通信、李文、收信
+  视图：书信线、亲情线、狱中线
+  作品：坐牢家爸爸给女儿的八十封信、生日与十二宫图
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 042.生日与十二宫图 / line 73
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/042.生日与十二宫图.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-09-11-receives-liwen-sep6-letter
+- 1974年9月14日 | 李敖写《生日与十二宫图》，由姥姥转十五美元生日礼金给李文
+  精度：day；可靠度：reported-by-author；排序日期：1974-09-14
+  摘要：1974年9月14日，李敖在景美军法处看守所第八房写《生日与十二宫图》给李文。他提醒9月22日是李文十岁生日，并问上星期一寄出的生日卡是否收到；又从法拉第、林肯、《解放黑奴宣言》说到生日、花甲、甲辰属龙、十二地支和西方十二宫图。信末他安排由姥姥转十五美元生日礼金给李文，请姥姥讲“己已巳戊戍戌”的分别和念法，并补记9月11日收到李文9月6日来信。
+  人物：李敖、李文、张桂贞、Michael Faraday、林肯、Hercules
+  地点：景美军法处看守所、台北、台湾、美国、希腊
+  标签：狱中家书、李文、张桂贞、生日、生日礼金、十二宫图、英文函授
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、生日与十二宫图、解放黑奴宣言、三国演义
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter、book2-1964-09-22-daughter-hedy-born、prison-father-letters-1974-09-09-mails-birthday-card-to-liwen、prison-father-letters-1974-09-11-receives-liwen-sep6-letter
+  来源：坐牢家爸爸给女儿的八十封信 / 042.生日与十二宫图 / line 71
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/042.生日与十二宫图.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-09-14-writes-birthday-zodiac-letter-and-gift
+- 1974年9月21日 | 李敖在景美狱中再给李文写《猫狗谚》，续谈狗英文和人不如狗
+  精度：day；可靠度：reported-by-author；排序日期：1974-09-21
+  摘要：1974年9月21日，李敖在景美军法处看守所第八房再写一封《猫狗谚》给李文。他说要写一点好玩的、和狗有关的英文给她，列出打狗看主人、兔死狗烹、想打狗不愁找不到棒子、每条狗都有得意日等说法；又引法国罗兰夫人“我看到的人愈多，我愈欣赏狗”，说明狗的特色是忠心，不会因主人倒霉便打落水狗。信中还提醒李文养小狗要替它们捉跳蚤并问清怎么洗澡。
+  人物：李敖、李文、罗兰夫人
+  地点：景美军法处看守所、台北、美国、法国
+  标签：狱中家书、李文、猫狗谚、英文函授、罗兰夫人、景美军法处看守所
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、猫狗谚
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 001.猫狗谚 / line 43
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/001.猫狗谚.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-09-21-writes-second-cat-dog-proverb-letter-to-li-wen
+- 1974年9月25日 | 李敖收到李文9月18、19日两封信和林肯纪念堂照片
+  精度：day；可靠度：reported-by-author；排序日期：1974-09-25
+  摘要：1974年9月25日，李敖在景美军法处看守所第八房收到李文9月18、19日两封来信，并看到李文和姥姥在林肯纪念堂的照片。两天后他在《林肯·栗子·笑》第一封信开头称姥姥照得很年轻，李文似笑非笑、非常可爱。
+  人物：李敖、李文、张桂贞、林肯
+  地点：景美军法处看守所、台北、华盛顿、林肯纪念堂
+  标签：狱中通信、李文、张桂贞、收信、照片、林肯纪念堂
+  视图：书信线、亲情线、狱中线
+  作品：坐牢家爸爸给女儿的八十封信、林肯·栗子·笑
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 043.林肯·栗子·笑 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/043.林肯·栗子·笑.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-09-25-receives-liwen-sep18-sep19-letters-lincoln-photo
+- 1974年9月27日 | 李敖写《林肯·栗子·笑》第一封，讲林肯和英文笑法
+  精度：day；可靠度：reported-by-author；排序日期：1974-09-27
+  摘要：1974年9月27日，李敖在景美军法处看守所第八房写《林肯·栗子·笑》的第一封给李文。他先说9月25日收到李文两封信和林肯纪念堂照片，夸姥姥年轻、李文可爱；随后由照片背后的林肯讲到林肯母亲、贫穷自学和英文能力，再解释 smile、laugh、笑面虎、笑里藏刀、Macbeth 里的 daggers in men's smiles，以及林肯参议员竞选失败后“疼得没法笑、又大得不好意思哭”的故事。
+  人物：李敖、李文、张桂贞、林肯、莎士比亚
+  地点：景美军法处看守所、台北、华盛顿、林肯纪念堂、美国
+  标签：狱中家书、李文、张桂贞、林肯、英文函授、笑
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、林肯·栗子·笑、Macbeth
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter、prison-father-letters-1974-09-25-receives-liwen-sep18-sep19-letters-lincoln-photo
+  来源：坐牢家爸爸给女儿的八十封信 / 043.林肯·栗子·笑 / line 31
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/043.林肯·栗子·笑.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-09-27-writes-lincoln-smile-letter
+- 1974年10月2日 | 李敖收到李文和姥姥9月27日来信，得知姥姥同意体检
+  精度：day；可靠度：reported-by-author；排序日期：1974-10-02
+  摘要：1974年10月2日，李敖在景美军法处看守所第八房收到李文和姥姥9月27日的来信，并得知姥姥已同意到宏恩医院做一次身体检查。10月6日他在《“浪费蜡烛去找针”》开头记下这件事。
+  人物：李敖、李文、张桂贞
+  地点：景美军法处看守所、台北、宏恩医院、台湾
+  标签：狱中通信、李文、张桂贞、收信、宏恩医院、健康检查
+  视图：书信线、亲情线、狱中线
+  作品：坐牢家爸爸给女儿的八十封信、“浪费蜡烛去找针”
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 044.“浪费蜡烛去找针” / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/044.“浪费蜡烛去找针”.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-10-02-receives-liwen-grandma-sep27-letters
+- 1974年10月6日 | 李敖写《“浪费蜡烛去找针”》，叮嘱李文监督姥姥健康检查
+  精度：day；可靠度：reported-by-author；排序日期：1974-10-06
+  摘要：1974年10月6日，李敖在景美军法处看守所第八房写《“浪费蜡烛去找针”》给李文。他先说10月2日收到李文和姥姥9月27日来信，得知姥姥同意去宏恩医院检查；随后在信中叮嘱李文，若医生要姥姥服保健药品，要每天督促她，并把照顾姥姥的情形写信告诉爸爸。他又从法国成语“浪费蜡烛去找针”、A stitch in time saves nine、海底捞针、指南针、钟表指针和 second-hand/second hand 的差别讲起。
+  人物：李敖、李文、张桂贞
+  地点：景美军法处看守所、台北、宏恩医院、台湾、法国、中国
+  标签：狱中家书、李文、张桂贞、健康检查、宏恩医院、英文函授
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、“浪费蜡烛去找针”
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter、prison-father-letters-1974-10-02-receives-liwen-grandma-sep27-letters
+  来源：坐牢家爸爸给女儿的八十封信 / 044.“浪费蜡烛去找针” / line 23
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/044.“浪费蜡烛去找针”.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-10-06-writes-candle-needle-health-check-letter
+- 1974年10月14日 | 李敖收到李文10月6日来信
+  精度：day；可靠度：reported-by-author；排序日期：1974-10-14
+  摘要：1974年10月14日，李敖在景美军法处看守所第八房收到李文10月6日的来信。10月19日他在《坐牢的名人》信末补记此事，并说明上周因给朋友写两封信，没有给李文写信。
+  人物：李敖、李文
+  地点：景美军法处看守所、台北、台湾
+  标签：狱中通信、李文、收信、每周发信限制
+  视图：书信线、亲情线、狱中线
+  作品：坐牢家爸爸给女儿的八十封信、坐牢的名人
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 045.坐牢的名人 / line 25
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/045.坐牢的名人.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-10-14-receives-liwen-oct6-letter
+- 1974年10月19日 | 李敖写《坐牢的名人》，回应李文想探望他并说明坐牢不必然是坏人
+  精度：day；可靠度：reported-by-author；排序日期：1974-10-19
+  摘要：1974年10月19日，李敖在景美军法处看守所第八房写《坐牢的名人》给李文。他在信中回应姥姥说李文想来看爸爸、妈妈已告诉她爸爸坐牢的事，并解释三年七个月来一直没告诉她，是因为她年纪太小，现在渐渐大了可以知道；又说坐牢原因复杂，有人是坏人，有人不是坏事甚至是冤狱。随后他讲德雷福斯、甘地夫人、尼赫鲁、圣雄甘地、勃兰特、伊丽莎白一世、马可波罗、笛福、伏尔泰、罗素、索尔仁尼琴、希特勒、赫斯和戴布兹等坐牢例子。信末补记10月14日收到李文10月6日来信，并说明这里每周只能发两封信，上周因给朋友写两封信没有给李文写。
+  人物：李敖、李文、张桂贞、王尚勤、Dreyfus、Indira Gandhi、Nehru、Mohandas Gandhi、Marco Polo、Daniel Defoe、Voltaire、Bertrand Russell、Solzhenitsyn、Hitler、Rudolf Hess、Eugene V. Debs
+  地点：景美军法处看守所、台北、台湾、印度、法国、英国、美国、德国、意大利、中国
+  标签：狱中家书、李文、张桂贞、王尚勤、坐牢、冤狱、每周发信限制
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、坐牢的名人、马可波罗行记、Robinson Crusoe、我的奋斗
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter、prison-father-letters-1974-10-14-receives-liwen-oct6-letter
+  来源：坐牢家爸爸给女儿的八十封信 / 045.坐牢的名人 / line 23
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/045.坐牢的名人.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-10-19-writes-famous-prisoners-letter-and-explains-imprisonment
+- 1974年10月26日 | 李敖给姥姥写信，由11月3日信中回溯可知
+  精度：day；可靠度：reported-by-author；排序日期：1974-10-26
+  摘要：1974年10月26日，李敖在景美军法处看守所第八房曾给姥姥张桂贞写信。11月3日他在《怪签名》开头问李文，爸爸10月19日给她的信、10月26日给姥姥的信和10月27日给她的信是否都收到了，由此可定位这封给姥姥的信。
+  人物：李敖、张桂贞、李文
+  地点：景美军法处看守所、台北、台湾
+  标签：狱中通信、张桂贞、李文、给姥姥写信、信中回溯
+  视图：书信线、亲情线、狱中线
+  作品：坐牢家爸爸给女儿的八十封信、怪签名
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 047.怪签名 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/047.怪签名.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-10-26-writes-letter-to-grandma-recalled-in-signature-letter
+- 1974年10月27日 | 李敖写《水肉·水月·影子戏》，在信中议论追影失实
+  精度：day；可靠度：reported-by-author；排序日期：1974-10-27
+  摘要：1974年10月27日，李敖在景美军法处看守所第八房写《水肉·水月·影子戏》给李文。他从狗衔肉见水中倒影、李白水中捞月、镜花水月讲起，在信中议论有人追求影子并拿影子骗人，老母亲因溺爱小儿子而“牺牲实在而信虚幻”，会成为小儿子做恶的同谋；又讲 silhouette 和汉武帝想李夫人引出的皮人影子戏与“姗姗来迟”。
+  人物：李敖、李文、李白、莫泊桑、汉武帝、李夫人
+  地点：景美军法处看守所、台北、台湾、中国、法国
+  标签：狱中家书、李文、影子、水中捞月、信中议论、英文函授
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、水肉·水月·影子戏、女人的一生
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 046.水肉·水月·影子戏 / line 17
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/046.水肉·水月·影子戏.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-10-27-writes-shadow-substance-letter
+- 1974年11月3日 | 李敖写《怪签名》，问李文是否收到10月三封信
+  精度：day；可靠度：reported-by-author；排序日期：1974-11-03
+  摘要：1974年11月3日，李敖在景美军法处看守所第八房写《怪签名》给李文。他开头先问李文是否收到爸爸10月19日给她的信、10月26日给姥姥的信和10月27日给她的信；随后讲伊丽莎白一世、富兰克林、John Hancock 与美国《独立宣言》的签名，又解释 hang together 的双关语和李鸿章“庭前桃未发”“阁下李先生”的双关。
+  人物：李敖、李文、张桂贞、Elizabeth I、Franklin、John Hancock、李鸿章
+  地点：景美军法处看守所、台北、台湾、美国、英国、中国
+  标签：狱中家书、李文、张桂贞、签名、双关语、英文函授
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、怪签名、独立宣言
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter、prison-father-letters-1974-10-26-writes-letter-to-grandma-recalled-in-signature-letter、prison-father-letters-1974-10-27-writes-shadow-substance-letter、prison-father-letters-1974-10-19-writes-famous-prisoners-letter-and-explains-imprisonment
+  来源：坐牢家爸爸给女儿的八十封信 / 047.怪签名 / line 23
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/047.怪签名.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-11-03-writes-strange-signatures-letter
+- 1974年11月13日 | 李敖收到李文11月8日来信，赞她英文写作和字都有进步
+  精度：day；可靠度：reported-by-author；排序日期：1974-11-13
+  摘要：1974年11月13日，李敖在景美军法处看守所第八房收到李文11月8日的来信。11月16日他在《你看中国人分得多细》开头记下此事，并称李文在英文写作和字上都有很大进步，自己很高兴；又由她信中提到的真假姥姥，转入中文亲属称谓和英文 grandma 的差别。
+  人物：李敖、李文
+  地点：景美军法处看守所、台北、台湾
+  标签：狱中通信、李文、收信、英文进步、亲属称谓
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、你看中国人分得多细
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 048.你看中国人分得多细 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/048.你看中国人分得多细.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-11-13-receives-liwen-nov8-letter-and-praises-progress
+- 1974年11月16日 | 李敖写《你看中国人分得多细》，由真假姥姥讲中英文亲属称谓
+  精度：day；可靠度：reported-by-author；排序日期：1974-11-16
+  摘要：1974年11月16日，李敖在景美军法处看守所第八房写《你看中国人分得多细》给李文。他从11月13日收到李文11月8日来信、信中提到真假姥姥说起，说明英文里都叫 grandma，而中文亲属关系分得细；随后逐一比较祖母、外祖母、哥哥弟弟、姐姐妹妹、堂表兄弟姐妹、uncle、aunt、nephew、niece、in-law、half brother、half sister，以及中国人和外国人回答“有几个姐妹”的不同习惯。
+  人物：李敖、李文、张桂贞、六姑、怡怡、安安、宁宁
+  地点：景美军法处看守所、台北、台湾、中国
+  标签：狱中家书、李文、亲属称谓、英文函授、张桂贞
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、你看中国人分得多细
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter、prison-father-letters-1974-11-13-receives-liwen-nov8-letter-and-praises-progress
+  来源：坐牢家爸爸给女儿的八十封信 / 048.你看中国人分得多细 / line 49
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/048.你看中国人分得多细.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-11-16-writes-chinese-kinship-letter
+- 1974年11月22日 | 李敖写《天上天堂与人间天堂》，讲 heaven、paradise、桃花源和乌托邦
+  精度：day；可靠度：reported-by-author；排序日期：1974-11-22
+  摘要：1974年11月22日，李敖在景美军法处看守所第八房写《天上天堂与人间天堂》给李文。他从 heaven、paradise、弥尔顿《失乐园》、伊甸园和三十三天、七重天讲起，再讲陶渊明《桃花源记》、罗斯福以 Shangrila 比喻秘密基地、Samuel Butler 的 Erehwon，以及 Thomas More 的 Utopia。信末还说明画片上的 Thomas More 和 Henry VIII 都是 Hans Holbein 画的，并说画家长得很像孟伯伯。
+  人物：李敖、李文、John Milton、陶渊明、罗斯福、James Hilton、Samuel Butler、Thomas More、Henry VIII、Hans Holbein、孟伯伯
+  地点：景美军法处看守所、台北、台湾、伊甸园、东京、英国、美国、中国
+  标签：狱中家书、李文、天堂、桃花源、乌托邦、英文函授
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、天上天堂与人间天堂、失乐园、桃花源记、Erehwon、Utopia
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 049.天上天堂与人间天堂 / line 17
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/049.天上天堂与人间天堂.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-11-22-writes-heaven-paradise-utopia-letter
+- 1974年12月15日 | 李敖写《猫抓耗子法案》，说这是在这边能买到的最好圣诞卡片
+  精度：day；可靠度：reported-by-author；排序日期：1974-12-15
+  摘要：1974年12月15日，李敖在景美军法处看守所第八房写《猫抓耗子法案》给李文，并说这是“在这边爸爸所能买到的最好的一张圣诞卡片”。他从卡片上猫眼没印好讲到重瞳、白内障、cat's-eye、cat's cradle、cat and mouse 游戏；再解释英国1913年的 Cat-and-mouse Act、妇女参政者绝食、fast 与 breakfast，以及印度甘地在牢里绝食二十一天的故事。
+  人物：李敖、李文、虞舜、项羽、Mohandas Gandhi
+  地点：景美军法处看守所、台北、台湾、英国、印度、中国
+  标签：狱中家书、李文、圣诞卡片、猫抓耗子法案、甘地、英文函授
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、猫抓耗子法案
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 050.猫抓耗子法案 / line 17
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/050.猫抓耗子法案.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-12-15-writes-cat-and-mouse-act-christmas-card-letter
+- 1974年12月22日 | 李敖写《谈年论孝》，在信中自述不随俗过旧历年和改革丧礼
+  精度：day；可靠度：reported-by-author；排序日期：1974-12-22
+  摘要：1974年12月22日，李敖在景美军法处看守所第八房写《谈年论孝》给李文。他先说上周寄到学校的信和卡片，继而在狱中信中回忆二十多年前自己反对旧历年习俗，曾退回祖父给的压岁钱和糖果、独吃炒饭“唱对台”；祖父去世后，他又因祖母喜欢团圆而陪她吃年饭。李敖还在信中自述祖父丧礼时反对虚伪礼俗、推动丧礼改革，被人说成“不孝”；十年后他整理祖父的中国文学史遗稿，印成两本书作为纪念。
+  人物：李敖、李文、李敖祖父、李敖祖母
+  地点：景美军法处看守所、台北、台湾
+  标签：狱中家书、李文、旧历年、孝道、丧礼改革、祖父遗稿
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、谈年论孝、中国文学史
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 051.谈年论孝 / line 65
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/051.谈年论孝.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-12-22-writes-year-filial-piety-letter-and-recalls-reforms
+- 1974年3月28日（由3月29日信倒推） | 李敖在景美狱中为李文造中文回文，并收到3月13日来信和照片
+  精度：day-inferred；可靠度：reported-by-author；排序日期：1974-03-28
+  摘要：1974年3月28日，李敖在景美狱中信中可见有两件小事：他“昨晚特别造了四组回文”给李文，包括“你爱我不爱”“他恨我不恨”“你看我不看”“他吃我不吃”等组，又在同一天收到李文3月13日的来信和照片，称照片照得真像妈妈、姥姥也照得很好。因这些动作都由3月29日《英文回文·中文回文》的“昨晚”“昨天”倒推，日期标为推定日。
+  人物：李敖、李文、张桂贞
+  地点：景美军法处看守所、台北、美国
+  标签：狱中创作、狱中通信、李文、张桂贞、回文、收信、照片
+  视图：书信线、亲情线、狱中线、创作线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、英文回文·中文回文
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 023.英文回文·中文回文 / line 95
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/023.英文回文·中文回文.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-03-28-makes-palindromes-and-receives-mar13-letter-photo
+- 1974年4月25日（由4月26日信倒推） | 李敖在景美狱中一个人静静过39岁生日，读完一本传记和一个剧本
+  精度：day-inferred；可靠度：reported-by-author；排序日期：1974-04-25
+  摘要：1974年4月25日，李敖在景美军法处看守所第八房一个人静静地过39岁生日。次日他在《老鼠不信任一个洞》信末用玛士撒拉969岁、亚当930岁的差数开玩笑，说两个老头儿岁数相减的零头正是39岁；并记下自己在生日当天一天之内看了一本传记，又看了一个剧本。
+  人物：李敖、玛士撒拉、亚当
+  地点：景美军法处看守所、台北
+  标签：生日、狱中生活、读书、传记、剧本
+  视图：人生线、狱中线、读书线
+  作品：坐牢家爸爸给女儿的八十封信、老鼠不信任一个洞
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 027.老鼠不信任一个洞 / line 63
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/027.老鼠不信任一个洞.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-04-25-spends-39th-birthday-alone-reading
+- 1974年5月23日（由5月25日信倒推） | 李敖收到李文5月8日来信，谈到 Hedy 名字
+  精度：day-inferred；可靠度：reported-by-author；排序日期：1974-05-23
+  摘要：1974年5月23日，李敖在景美军法处看守所第八房收到李文5月8日的来信。两天后他在《说姓道名》开头记下“前天收到你8号的信”，并从李文的英文名 Hedy 讲起，说姥姥称为 Hidy，大概是姥姥起的，由此展开英文姓名习惯的说明。
+  人物：李敖、李文、张桂贞
+  地点：景美军法处看守所、台北、美国
+  标签：狱中通信、李文、张桂贞、收信、Hedy
+  视图：书信线、亲情线、狱中线
+  作品：坐牢家爸爸给女儿的八十封信、说姓道名
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 028.说姓道名 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/028.说姓道名.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-05-23-receives-liwen-may8-letter
+- 1974年9月 | 李敖在狱中作《小文十岁生日歌》
+  精度：month；可靠度：reported-by-author；排序日期：1974-09-01
+  摘要：1974年9月，李敖在狱中作《小文十岁生日歌》，为女儿李文十岁生日写下祝歌。诗中以李文“丢掉小翅膀，跑到人间来偷睡”开头，写她成为爸爸妈妈的小宝贝；又把十年间忘不了的妈妈、姥姥、爸爸、奶奶、Kramer小学、六姑家小表妹、爸爸信里的狒狒、大嘴鸟、牛的胃、加州动物园和骑小马等记忆收拢进生日歌，最后写“人生二十才开始，小文才十岁”。
+  人物：李敖、李文、王尚勤、张桂贞、六姑
+  地点：景美军法处看守所、台北、纽约、加州
+  标签：狱中创作、李文、十岁生日、生日歌、亲情
+  视图：书信线、亲情线、狱中线、创作线
+  作品：坐牢家爸爸给女儿的八十封信、小文十岁生日歌
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter、book2-1964-09-22-daughter-hedy-born
+  来源：坐牢家爸爸给女儿的八十封信 / 041.小文十岁生日歌 / line 65
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/041.小文十岁生日歌.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-09-writes-liwen-tenth-birthday-song-in-prison
+- 1974年9月9日（由9月14日信倒推） | 李敖上星期一寄生日卡给李文
+  精度：day-inferred；可靠度：reported-by-author；排序日期：1974-09-09
+  摘要：1974年9月9日左右，李敖在景美军法处看守所第八房为李文十岁生日寄出一张生日卡。9月14日他在《生日与十二宫图》开头问李文是否收到，并说明9月22日是她十岁生日。
+  人物：李敖、李文
+  地点：景美军法处看守所、台北、台湾
+  标签：狱中通信、李文、生日卡、十岁生日
+  视图：书信线、亲情线、狱中线
+  作品：坐牢家爸爸给女儿的八十封信、生日与十二宫图
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter、book2-1964-09-22-daughter-hedy-born
+  来源：坐牢家爸爸给女儿的八十封信 / 042.生日与十二宫图 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/042.生日与十二宫图.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1974-09-09-mails-birthday-card-to-liwen
 - 1974年 | 李敖在牢中写《只爱一点点》
   精度：year；可靠度：confirmed；排序日期：1974-12-31
   摘要：《前程》章谈爱情观时回引，李敖1974年在牢中写《只爱一点点》，以“只爱一点点”表达洒脱、限度感强的爱情态度。
@@ -93919,6 +94946,19 @@
   数据：data/timeline-events-ni-bendan.json#ni-bendan-1974-undated-writes-forgot-who-i-am-in-prison
 
 1975
+- 1975年1月2日夜 | 李敖夜写《“爸”·“爹”·“妈”》，说收到李文12月15日信、照片和贺年片
+  精度：day；可靠度：reported-by-author；排序日期：1975-01-02
+  摘要：1975年1月2日夜，李敖在景美军法处看守所第八房写《“爸”·“爹”·“妈”》给李文。他从 dad、daddy、father、papa、mother、mama、mom 等英文称谓讲起，说明不同叫法的亲疏与语气，并举 Daddy Long Legs 等例子。信末他记下已收到李文上月15日的信和照片，也收到贺年片，并称这张照片照得漂亮可爱。
+  人物：李敖、李文
+  地点：景美军法处看守所、台北、台湾
+  标签：狱中家书、李文、英文称谓、收信、照片、贺年片
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、“爸”·“爹”·“妈”、Daddy Long Legs
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 052.“爸”·“爹”·“妈” / line 47
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/052.“爸”·“爹”·“妈”.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1975-01-02-night-writes-dad-mom-letter-and-notes-dec15-card-photo
 - 1975年1月11日星期六 | 李敖在狱中写信安排卖书、封存台中老家，并记身体与家事困扰
   精度：day；可靠度：confirmed；排序日期：1975-01-11
   摘要：《狱中书信两封》第二封署“敖之六四、一、十一夜”。李敖谈除夕信、卖书款、台中老家与书房清理，提到托丁颖处理书物、请孟南下，又写到九月间总医院检查肺囊肿、血压高到160，以及小八出狱后的家事烦扰。
@@ -93932,6 +94972,123 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/002.狱中书信两封.txt
   数据：data/timeline-events-li-ao-zawenji.json#li-ao-zawenji-1975-01-11-prison-letter-on-books-house-health-and-family
+- 1975年1月17日 | 李敖写《木字头的》，问1月2日去信是否收到并盼李文每周来信
+  精度：day；可靠度：reported-by-author；排序日期：1975-01-17
+  摘要：1975年1月17日，李敖在景美军法处看守所第八房写《木字头的》给李文。他由英文 meow、bow-wow 和中文偏旁说起，解释木字旁、柳树、圣柳、耶稣荆冠等字词掌故。开头他问1月2日寄给李文的信是否收到，又说自李文去年12月15日寄信和卡片以后一直没再接到信，担心她功课太忙，仍希望她每周写信来。
+  人物：李敖、李文、耶稣
+  地点：景美军法处看守所、台北、台湾
+  标签：狱中家书、李文、收信追问、每周写信、中文偏旁、柳树
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、木字头的
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 053.木字头的 / line 25
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/053.木字头的.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1975-01-17-writes-wood-prefix-letter-and-asks-weekly-letters
+- 1975年1月28日 | 李敖收到李文1月26日来信，得知她开始学植物
+  精度：day；可靠度：reported-by-author；排序日期：1975-01-28
+  摘要：1975年1月28日，李敖在景美军法处看守所第八房收到李文1月26日来信。2月1日他在《踏脚石与马铃薯》信末记下“你上月26信28收到”，并在正文开头回应李文开始学 plant、要爸爸写一点植物给她，于是转讲 Mayflower、祖先、踏脚石和马铃薯。
+  人物：李敖、李文
+  地点：景美军法处看守所、台北、台湾
+  标签：狱中通信、李文、收信、植物、英文函授
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、踏脚石与马铃薯
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 054.踏脚石与马铃薯 / line 27
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/054.踏脚石与马铃薯.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1975-01-28-receives-liwen-jan26-plant-letter
+- 1975年2月1日 | 李敖写《踏脚石与马铃薯》，由李文学植物转讲祖先、五月花号和马铃薯
+  精度：day；可靠度：reported-by-author；排序日期：1975-02-01
+  摘要：1975年2月1日，李敖在景美军法处看守所第八房写《踏脚石与马铃薯》给李文。他回应李文开始学植物一事，从 plant 谈到 Mayflower、Pilgrims、Plymouth Rock，说明自己不爱夸祖先，认为好祖先只能当踏脚石；又从 pot、potato、sweet potato 谈到美国人吃马铃薯、爱尔兰马铃薯歉收和美国的 Irish potatoes。信末他记明李文1月26日的信已在1月28日收到。
+  人物：李敖、李文
+  地点：景美军法处看守所、台北、台湾、美国、爱尔兰
+  标签：狱中家书、李文、植物、五月花号、祖先、马铃薯
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、踏脚石与马铃薯
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter、prison-father-letters-1975-01-28-receives-liwen-jan26-plant-letter
+  来源：坐牢家爸爸给女儿的八十封信 / 054.踏脚石与马铃薯 / line 25
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/054.踏脚石与马铃薯.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1975-02-01-writes-mayflower-potato-letter
+- 1975年2月15日 | 李敖写《林肯·栗子·笑》第二封，称收到成绩单影本和六页剪贴
+  精度：day；可靠度：reported-by-author；排序日期：1975-02-15
+  摘要：1975年2月15日，李敖在景美军法处看守所第八房写《林肯·栗子·笑》的第二封给李文。他接续前年10月7日谈过的 buckeye 和去年1月12日谈过的小松鼠、nut，转讲 chestnut、火中取栗、cat's-paw、horse-chestnut、chestnut horse，以及林肯讽刺 Douglas 想把七叶树证明成栗色马。信末他说已收到李文成绩单影本和六页剪贴，很高兴她有好成绩、进步快；又说明自己不过旧历年所以没特别送礼，但短期内一定为她买到钢琴，并请姥姥代买一双皮拖鞋。
+  人物：李敖、李文、张桂贞、林肯、Stephen A. Douglas
+  地点：景美军法处看守所、台北、台湾、美国
+  标签：狱中家书、李文、成绩单、钢琴、皮拖鞋、栗子、英文函授
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、林肯·栗子·笑
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter、prison-father-letters-1974-09-27-writes-lincoln-smile-letter
+  来源：坐牢家爸爸给女儿的八十封信 / 043.林肯·栗子·笑 / line 59
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/043.林肯·栗子·笑.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1975-02-15-writes-chestnut-letter-and-promises-piano
+- 1975年3月9日 | 李敖写《我讨厌日本》，说明忙着为李文筹买钢琴的钱
+  精度：day；可靠度：reported-by-author；排序日期：1975-03-09
+  摘要：1975年3月9日，李敖在景美军法处看守所第八房写《我讨厌日本》给李文。他先校正李文2月15日信中的一句中文，又说李文2月2日信、2月14日 Valentine 卡片和来信、小卡片、2月24日信都已收到；这阵子自己忙着写信替李文筹买钢琴的钱，所以没给她写信，现在钱筹得差不多，可确定下月初就能买到。李敖还在狱中信中表明自己讨厌日本和日本人，但并不抹杀他们的本领，进而讲日本人向中国、印度、美国学习的历史。
+  人物：李敖、李文
+  地点：景美军法处看守所、台北、台湾、日本、中国、印度、美国
+  标签：狱中家书、李文、钢琴、筹款、日本、文化判断、收信
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、我讨厌日本
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter、prison-father-letters-1975-02-15-writes-chestnut-letter-and-promises-piano
+  来源：坐牢家爸爸给女儿的八十封信 / 055.我讨厌日本 / line 57
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/055.我讨厌日本.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1975-03-09-writes-i-hate-japan-letter-and-raises-piano-money
+- 1975年3月23日 | 李敖写《从达芬奇到蒲公英》，称收到李文3月10日信并赞英文进步快
+  精度：day；可靠度：reported-by-author；排序日期：1975-03-23
+  摘要：1975年3月23日，李敖在景美军法处看守所第八房写《从达芬奇到蒲公英》给李文。他由达芬奇左手镜写、Mona Lisa、《最后的晚餐》和降落伞讲到蒲公英，再从 dandelion 转到《乱世佳人》里把蒲公英献给女孩子的情节。信末他记下收到李文10日来信，并称她的英文进步得真快。
+  人物：李敖、李文、Leonardo da Vinci
+  地点：景美军法处看守所、台北、台湾、意大利、美国
+  标签：狱中家书、李文、达芬奇、蒲公英、英文进步、收信
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、从达芬奇到蒲公英、Mona Lisa、The Last Supper、Gone with the Wind
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 056.从达芬奇到蒲公英 / line 33
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/056.从达芬奇到蒲公英.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1975-03-23-writes-da-vinci-dandelion-letter
+- 1975年3月30日 | 李敖写《瞎子可以摸出象来》，说收到李文来信、复活节卡片和小口香糖
+  精度：day；可靠度：reported-by-author；排序日期：1975-03-30
+  摘要：1975年3月30日，李敖在景美军法处看守所第八房写《瞎子可以摸出象来》给李文。他从五官、所谓 sixth sense、盲人摸象、Braille、Helen Keller 讲到气味、味觉、听觉、Nixon 窃听器、蝙蝠和鲨鱼等感官例子。信末他记下已收到李文23日来信、她自己做的 Easter 卡片和小口香糖，称卡片做得可爱，并解释 daylight-saving-time 的俚语 monkey time。
+  人物：李敖、李文、Helen Keller、Richard Nixon
+  地点：景美军法处看守所、台北、台湾、美国
+  标签：狱中家书、李文、复活节卡片、口香糖、盲文、感官
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、瞎子可以摸出象来
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 057.瞎子可以摸出象来 / line 51
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/057.瞎子可以摸出象来.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1975-03-30-writes-senses-blind-elephant-letter
+- 1975年4月6日 | 李敖写《彼得·潘·潘彼得》，在信中建议李文用 Wendy 作 middle name
+  精度：day；可靠度：reported-by-author；排序日期：1975-04-06
+  摘要：1975年4月6日，李敖在景美军法处看守所第八房写《彼得·潘·潘彼得》给李文。他把上月23日信中提到的达芬奇《最后的晚餐》贴在信里，又由 Peter Pan、Wendy、Neverland 和 Barrie 讲到人名与中英对应。李敖在狱中信中认为 Wendy 声音近“文谛”，可对应李文的中文名，建议她像 Pat 一样把 Wendy 放在 middle name，并请她写信问妈妈后再决定；信中还回忆梁实秋评论《胡适评传》时称赞他搜集材料的本领很大。
+  人物：李敖、李文、李文母亲、梁实秋、James Matthew Barrie、Wendy、Peter Pan
+  地点：景美军法处看守所、台北、台湾、英国
+  标签：狱中家书、李文、英文名字、Wendy、胡适评传、梁实秋
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、彼得·潘·潘彼得、The Last Supper、Peter Pan、胡适评传
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter、prison-father-letters-1975-03-23-writes-da-vinci-dandelion-letter
+  来源：坐牢家爸爸给女儿的八十封信 / 058.彼得·潘·潘彼得 / line 39
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/058.彼得·潘·潘彼得.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1975-04-06-writes-peter-pan-wendy-middle-name-letter
+- 1975年4月20日 | 李敖写《记印度阿三》，说收到李文送来的书、卡片和画片
+  精度：day；可靠度：reported-by-author；排序日期：1975-04-20
+  摘要：1975年4月20日，李敖在景美军法处看守所第八房写《记印度阿三》给李文。他由印度人、锡克教徒、瑜伽、种姓、贱民、佛教、恒河、寡妇殉葬、泰姬陵和泰戈尔等线索，向李文讲印度历史与社会习俗；信中也清楚批评种姓和贫穷问题。信末他记下已收到李文送来的书、卡片和画片，并请姥姥替李文买一本泰戈尔小诗集，如《失群的鸟》或《飞鸟集》。
+  人物：李敖、李文、张桂贞、Rabindranath Tagore
+  地点：景美军法处看守所、台北、台湾、印度、恒河
+  标签：狱中家书、李文、印度、泰戈尔、收礼、姥姥
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、记印度阿三、失群的鸟、飞鸟集
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 059.记印度阿三 / line 65
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/059.记印度阿三.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1975-04-20-writes-india-letter-and-notes-liwen-sent-items
 - 1975年4月25日星期五 | 刘辰旦托姐姐送生日蛋糕给狱中的李敖
   精度：day；可靠度：confirmed；排序日期：1975-04-25
   摘要：李敖回忆，1975年4月25日他在小房里看书时，班长送进生日蛋糕，原来是刘辰旦请姐姐特地买来送给他的。
@@ -93958,6 +95115,45 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/014.监狱（1971-1976·36到41岁）.txt
   数据：data/timeline-events-fourth-book.json#book4-1975-04-25-liu-chendan-sends-birthday-cake
+- 1975年4月26日 | 李敖写《萨摩亚与自挽诗》，翻译 Stevenson 的 Requiem 给李文
+  精度：day；可靠度：reported-by-author；排序日期：1975-04-26
+  摘要：1975年4月26日，李敖在景美军法处看守所第八房写《萨摩亚与自挽诗》给李文。他从 Samoa、Robert Louis Stevenson、《金银岛》和 Stevenson 晚年葬在萨摩亚山顶讲起，并把 Stevenson 墓上的 Requiem 翻译成中文“自挽诗”给李文看。信末他记下收到李文给爸爸的信、生日卡和成绩单，因她成绩好而高兴，也盼她英文写作能像成绩那样在班上出色。
+  人物：李敖、李文、Robert Louis Stevenson
+  地点：景美军法处看守所、台北、台湾、萨摩亚、英国
+  标签：狱中家书、李文、生日卡、成绩单、Stevenson、自挽诗、翻译
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、萨摩亚与自挽诗、Treasure Island、Requiem
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 060.萨摩亚与自挽诗 / line 79
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/060.萨摩亚与自挽诗.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1975-04-26-writes-samoa-requiem-letter
+- 1975年5月10日 | 李敖写《素食种种》，说收到姥姥和李文5月1日来信并为成绩高兴
+  精度：day；可靠度：reported-by-author；排序日期：1975-05-10
+  摘要：1975年5月10日，李敖在景美军法处看守所第八房写《素食种种》给李文。他由 Walter de la Mare 的“Miss T.”诗句讲 nutrition，逐项解释蛋白质、生理价、素食主义、醣类、脂肪、维生素、矿物质和水，也举卢梭、托尔斯泰、萧伯纳、甘地等素食名人为例。信末他记下姥姥和李文5月1日的信都已收到，因李文成绩比别的小朋友好而高兴，并说明信上画片和另附的 nutrition 画片可供她取用。
+  人物：李敖、李文、张桂贞、Jean-Jacques Rousseau、Leo Tolstoy、George Bernard Shaw、Mohandas Gandhi
+  地点：景美军法处看守所、台北、台湾、非洲
+  标签：狱中家书、李文、姥姥、收信、成绩、营养、素食
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、素食种种、Miss T.
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 061.素食种种 / line 59
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/061.素食种种.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1975-05-10-writes-nutrition-letter-and-receives-may1-letters
+- 1975年5月18日 | 李敖写《专门吃大鱼》，托李文请姥姥每周探望时从家里书架带中文书
+  精度：day；可靠度：reported-by-author；排序日期：1975-05-18
+  摘要：1975年5月18日，李敖在景美军法处看守所第八房写《专门吃大鱼》给李文。他由“大鱼吃小鱼”讲到 remora 鮣鱼、shark sucker、hitch-hiker 和路边搭便车的英文说法。信末他把狱中读书需求交给李文，请她转告姥姥每周来看爸爸时，顺便从家里书架取两本中文书带来，以翻译小说、章回小说、历史书最理想，或什么书都可以，但不要买。
+  人物：李敖、李文、张桂贞
+  地点：景美军法处看守所、台北、台湾
+  标签：狱中家书、李文、姥姥、探监、中文书、鮣鱼、英文函授
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、专门吃大鱼
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 062.专门吃大鱼 / line 19
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/062.专门吃大鱼.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1975-05-18-writes-remora-letter-and-asks-grandma-bring-books
 - 1975年5月22日星期四 | 李敖改判八年六个月
   精度：day；可靠度：confirmed；排序日期：1975-05-22
   摘要：因蒋介石死后台湾减刑，李敖案在1975年5月22日改判八年六个月，减刑后所余刑期只剩一年多。
@@ -93971,6 +95167,71 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/003.我最难忘的一位老师.txt
   数据：data/timeline-events-first-book-supplement.json#1975-05-22-sentence-reduced
+- 1975年5月24日 | 李敖写《“海外人鱼”》，安排暑假后信寄家里并请李文代送姥姥生日礼物
+  精度：day；可靠度：reported-by-author；排序日期：1975-05-24
+  摘要：1975年5月24日，李敖在景美军法处看守所第八房写《“海外人鱼”》给李文。他由安徒生童话、小美人鱼铜像、《镜花缘》“海外人鱼”、伦敦 Mermaid Tavern 和 mermaid 的游泳含义讲起，最后问李文要不要做美人鱼。信末他安排下周起把信寄到家里，因为李文放暑假了；又嘱李文在姥姥生日时代爸爸送礼物。
+  人物：李敖、李文、张桂贞、Hans Christian Andersen、William Shakespeare、Ben Jonson
+  地点：景美军法处看守所、台北、台湾、丹麦、哥本哈根、伦敦
+  标签：狱中家书、李文、暑假、姥姥生日、送礼、美人鱼、安徒生
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、“海外人鱼”、The Little Mermaid、镜花缘
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 063.“海外人鱼” / line 19
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/063.“海外人鱼”.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1975-05-24-writes-mermaid-letter-and-arranges-summer-mail-gift
+- 1975年5月31日 | 李敖写《他们六个》，照李文开来的名字讲六个科学家并追问带书事
+  精度：day；可靠度：reported-by-author；排序日期：1975-05-31
+  摘要：1975年5月31日，李敖在景美军法处看守所第八房写《他们六个》给李文。他回应李文要爸爸讲六个科学家的请求，照她开来的名字，依次讲亚里士多德、伽利略、哈维、波义耳、牛顿、爱因斯坦的科学贡献和生平掌故。信末他追问5月18日信上托姥姥每周办理的带书事项，姥姥是否已经办了。
+  人物：李敖、李文、张桂贞、Aristotle、Galileo Galilei、William Harvey、Robert Boyle、Isaac Newton、Albert Einstein
+  地点：景美军法处看守所、台北、台湾、希腊、意大利、英国、美国
+  标签：狱中家书、李文、科学家、姥姥、带书、英文函授
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、他们六个
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter、prison-father-letters-1975-05-18-writes-remora-letter-and-asks-grandma-bring-books
+  来源：坐牢家爸爸给女儿的八十封信 / 064.他们六个 / line 101
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/064.他们六个.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1975-05-31-writes-six-scientists-letter-and-follows-up-books
+- 1975年6月8日 | 李敖写《从鸭嘴兽到水獭》第一封，讲澳洲并在信中批评白澳政策
+  精度：day；可靠度：reported-by-author；排序日期：1975-06-08
+  摘要：1975年6月8日，李敖在景美军法处看守所第八房写《从鸭嘴兽到水獭》中的第一封给李文。他由下蛋的哺乳动物鸭嘴兽、koala、袋鼠和 kangaroo court 讲到澳洲曾是英国流放犯人的地方、悉尼、堪培拉、墨尔本、塔斯马尼亚、大堡礁和澳洲畜牧。李敖在狱中信中判断澳洲“白澳政策”错误而自私，是“狗占马槽”“占着茅坑不拉屎”，并说贫穷地区的人终会对这种不公平发声。
+  人物：李敖、李文、James Cook、Jorn Utzon
+  地点：景美军法处看守所、台北、台湾、澳洲、悉尼、堪培拉、墨尔本、塔斯马尼亚
+  标签：狱中家书、李文、澳洲、鸭嘴兽、袋鼠、白澳政策、政治判断
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、从鸭嘴兽到水獭、伊索寓言
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 065.从鸭嘴兽到水獭 / line 63
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/065.从鸭嘴兽到水獭.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1975-06-08-writes-australia-platypus-letter-and-judges-white-australia
+- 1975年6月21日 | 李敖写《“那么让他们吃饼嘛！”》第一封，讲法国饮食、战史和革命掌故
+  精度：day；可靠度：reported-by-author；排序日期：1975-06-21
+  摘要：1975年6月21日，李敖在景美军法处看守所第八房写《“那么让他们吃饼嘛！”》第一封给李文。他由 gourmet、法国菜、cheese、戴高乐、贝当、凡尔登、克里蒙梭、凡尔赛、玛丽安托瓦内特、圣女贞德、蓬巴杜夫人和伏尔泰等线索，讲法国饮食、战争、政治和革命掌故。信末他说明“下周续写法国”。
+  人物：李敖、李文、Charles de Gaulle、Philippe Petain、Marie Antoinette、Joan of Arc、Madame de Pompadour、Voltaire
+  地点：景美军法处看守所、台北、台湾、法国、巴黎、凡尔赛、凡尔登
+  标签：狱中家书、李文、法国、法国大革命、伏尔泰、凡尔赛、饮食
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、“那么让他们吃饼嘛！”
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 066.“那么让他们吃饼嘛！” / line 31
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/066.“那么让他们吃饼嘛！”.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1975-06-21-writes-french-food-and-revolution-letter
+- 1975年6月29日 | 李敖续写法国，并决定给李文买一架录音机
+  精度：day；可靠度：reported-by-author；排序日期：1975-06-29
+  摘要：1975年6月29日，李敖在景美军法处看守所第八房续写《“那么让他们吃饼嘛！”》给李文。他讲卢瓦尔河古堡、French doors、French horn、French leave、French walk，并用四句玩笑比较意大利人、西班牙人、法国人和美国人。信末他决定给李文买一架录音机，要求她把下一页信给姥姥看，并列出卡式全自动往复、Magnavox 或 Sony 名牌、小型或可装十二盒机型、托小彭以电器同业身份打折购买等具体要求。
+  人物：李敖、李文、张桂贞、小彭
+  地点：景美军法处看守所、台北、台湾、法国、卢瓦尔河
+  标签：狱中家书、李文、录音机、姥姥、法国、采购安排
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、“那么让他们吃饼嘛！”
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter、prison-father-letters-1975-06-21-writes-french-food-and-revolution-letter
+  来源：坐牢家爸爸给女儿的八十封信 / 066.“那么让他们吃饼嘛！” / line 57
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/066.“那么让他们吃饼嘛！”.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1975-06-29-continues-france-and-decides-buy-tape-recorder
 - 1975年7月1日星期二 | 乔家才写定《入狱记》底稿署日
   精度：day；可靠度：confirmed；排序日期：1975-07-01
   摘要：《乔家才入狱记》附录末尾署“民国六十四年7月1日记”，表明乔家才在1975年7月1日完成或整理这份黑牢回忆底稿；李敖后来据此改题并全文发表。
@@ -93984,6 +95245,58 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/003.我最难忘的事和人/016.我最难忘的一个国特.txt
   数据：data/timeline-events-third-book-qiao-evidence.json#book3-1975-07-01-qiao-prison-memoir-dated
+- 1975年8月3日 | 李敖写《嘴含一根草》，给四张画片配四首俏皮诗
+  精度：day；可靠度：reported-by-author；排序日期：1975-08-03
+  摘要：1975年8月3日，李敖在景美军法处看守所第八房写《嘴含一根草》给李文。他看四张画片有意思，分别以黑猩猩、大袋鼠、场拨鼠和美人儿为口吻，写出四首“嘴含一根草”的俏皮诗。信后他解释场拨鼠就是 prairie dog，会保护同类、埋葬死者；又说明姥姥会记得画片中的美人儿是电影明星洛丽泰扬。
+  人物：李敖、李文、张桂贞、Loretta Young
+  地点：景美军法处看守所、台北、台湾、苏花公路、美国
+  标签：狱中家书、李文、画片、童诗、黑猩猩、袋鼠、场拨鼠、洛丽泰扬
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、嘴含一根草
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 067.嘴含一根草 / line 79
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/067.嘴含一根草.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1975-08-03-writes-four-mouth-grass-picture-poems
+- 1975年8月10日 | 李敖写《我的本领就是臭》，在信中写小臭鼬童谣
+  精度：day；可靠度：reported-by-author；排序日期：1975-08-10
+  摘要：1975年8月10日，李敖在景美军法处看守所第八房写《我的本领就是臭》给李文。他由“各人自扫门前雪”转到 Let every man skin his own skunk，讲臭鼬的自卫、臭水、水枪、great horned owl 和 skunk cabbage。李敖还在狱中信中写出“一二三，四五六，我是小臭鼬，本领就是臭”的童谣式段落，把臭鼬知识变成给女儿看的俏皮文字。
+  人物：李敖、李文
+  地点：景美军法处看守所、台北、台湾、美国
+  标签：狱中家书、李文、臭鼬、童谣、自嘲式文字、英文函授
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、我的本领就是臭
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 068.我的本领就是臭 / line 39
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/068.我的本领就是臭.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1975-08-10-writes-skunk-letter-and-playful-stinky-poem
+- 1975年8月17日 | 李敖写《从鸭嘴兽到水獭》第二封，赞李文信封中文很有进步
+  精度：day；可靠度：reported-by-author；排序日期：1975-08-17
+  摘要：1975年8月17日，李敖在景美军法处看守所第八房写《从鸭嘴兽到水獭》中的第二封给李文。他开头称李文这次信封上写的中文很有进步，随后从“鸭嘴兽只有澳洲有，水獭却只有澳洲没有”转入 otter，讲水獭是食肉哺乳动物、会仰面吃东西、会用石头敲蛤蜊，也是会使用工具的动物。信中又借水獭皮昂贵，转出“豹死留皮”的成语解释。
+  人物：李敖、李文
+  地点：景美军法处看守所、台北、台湾、澳洲
+  标签：狱中家书、李文、中文进步、水獭、成语、英文函授
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、从鸭嘴兽到水獭
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter、prison-father-letters-1975-06-08-writes-australia-platypus-letter-and-judges-white-australia
+  来源：坐牢家爸爸给女儿的八十封信 / 065.从鸭嘴兽到水獭 / line 81
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/065.从鸭嘴兽到水獭.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1975-08-17-writes-otter-letter-and-praises-liwen-envelope-chinese
+- 1975年9月7日 | 李敖写《飞上枝头看飞枝》，并在后记中更正吴凤神话
+  精度：day；可靠度：reported-by-author；排序日期：1975-09-07
+  摘要：1975年9月7日，李敖在景美军法处看守所第八房写《飞上枝头看飞枝》给李文。他从爸爸坐牢前一年斐济独立讲起，介绍 Fiji Islands、首都 Suva、sulu 裙、吃人肉、猎头、火上行走、kava 和当地物产，并拿斐济警察与台湾警察互相开玩笑。文后李敖又加后记，说明信中所引吴凤英文解说“当然是从神话立论”，事实上吴凤因背约、骂人、与曹族格斗而被杀，详见连横《吴凤列传》。
+  人物：李敖、李文、吴凤、连横
+  地点：景美军法处看守所、台北、台湾、斐济、Suva、兰屿
+  标签：狱中家书、李文、斐济、台湾警察、吴凤、后记、史实更正
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、飞上枝头看飞枝、吴凤列传
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
+  来源：坐牢家爸爸给女儿的八十封信 / 069.飞上枝头看飞枝 / line 31
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/069.飞上枝头看飞枝.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1975-09-07-writes-fiji-letter-and-adds-wu-feng-afterword
 - 1975年9月15日星期一 | 李敖复判前夜声明刑求口供全部无效
   精度：day；可靠度：confirmed；排序日期：1975-09-15
   摘要：李敖在《刘辰旦——患难见真情的朋友》中引自己复判前夜写给军法处的五段话，署“李敖 9月15日”，其中明确声明自被捕后因刑求而写下与签署的一切内容“全部无效”。
@@ -93997,6 +95310,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/017.刘辰旦——患难见真情的朋友.txt
   数据：data/timeline-events-second-book.json#book2-1975-09-15-li-statement-before-retrial
+- 1975年9月20日 | 李敖写《古国神游》，带李文从埃及、金字塔讲到阿布辛拜勒抢救
+  精度：day；可靠度：reported-by-author；排序日期：1975-09-20
+  摘要：1975年9月20日，李敖在景美军法处看守所第八房写《古国神游》给李文。他由埃及、西奈半岛、苏伊士运河、开罗市场、金字塔、狮身人面像、Oedipus 谜语、Howard Carter 挖出 Tutankhamen 墓、Will Rogers 的玩笑，讲到尼罗河、阿斯旺水库和阿布辛拜勒大庙搬迁抢救。信中还回接此前给李文讲过的泰姬陵，把古代大坟、法老和现代工程串成一封古国游历式家书。
+  人物：李敖、李文、Ferdinand de Lesseps、Howard Carter、Tutankhamen、Will Rogers、Ramesses II
+  地点：景美军法处看守所、台北、台湾、埃及、西奈半岛、开罗、尼罗河、阿布辛拜勒
+  标签：狱中家书、李文、埃及、苏伊士运河、金字塔、阿斯旺水库、阿布辛拜勒
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、古国神游
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter、prison-father-letters-1975-04-20-writes-india-letter-and-notes-liwen-sent-items
+  来源：坐牢家爸爸给女儿的八十封信 / 070.古国神游 / line 37
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/070.古国神游.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1975-09-20-writes-egypt-ancient-country-letter
 - 1975年9月22日星期一 | 李敖刑期由十年改为八年半
   精度：day；可靠度：confirmed；排序日期：1975-09-22
   摘要：《三叠纪》写，1975年9月22日，李士杰获减为无期徒刑的同日，李敖本人的刑期也由十年改判为八年半。
@@ -94036,17 +95362,56 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/014.监狱（1971-1976·36到41岁）.txt
   数据：data/timeline-events-fourth-book.json#book4-1975-09-25-retrial-reduced-to-five-years-eight-months
-- 1975年11月1日星期六 | 给女儿的狱中家书写作期结束
+- 1975年10月12日 | 李敖写《“古希腊的辉煌”》，由爱伦坡诗句带李文进入希腊神话和哲学
+  精度：day；可靠度：reported-by-author；排序日期：1975-10-12
+  摘要：1975年10月12日，李敖在景美军法处看守所第八房写《“古希腊的辉煌”》给李文。他由爱伦坡《给海伦》中的“To the glory that was Greece / And the grandeur that was Rome”讲起，说明希腊文化与西方文明的关系；再从 Hyacinthus、Apollo、Helen、Trojan war、Laocoon、Homer、Odysseus、Athena、Parthenon、Zeus、Alexander the Great 和 Diogenes 等线索，串起希腊神话、史诗、建筑和哲学。信末他说“Rome下周写”，把下一封罗马主题接上。
+  人物：李敖、李文、Edgar Allan Poe、Apollo、Helen、Homer、Odysseus、Athena、Alexander the Great、Diogenes
+  地点：景美军法处看守所、台北、台湾、希腊、雅典、土耳其、Troy
+  标签：狱中家书、李文、古希腊、爱伦坡、荷马、雅典娜、亚历山大
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、“古希腊的辉煌”、To Helen、Odyssey
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter、prison-father-letters-1975-05-31-writes-six-scientists-letter-and-follows-up-books
+  来源：坐牢家爸爸给女儿的八十封信 / 071.“古希腊的辉煌” / line 71
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/071.“古希腊的辉煌”.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1975-10-12-writes-ancient-greece-letter
+- 1975年10月19日 | 李敖写《“古罗马的壮丽”》，续接上周信讲罗马古迹、恺撒和费边社
+  精度：day；可靠度：reported-by-author；排序日期：1975-10-19
+  摘要：1975年10月19日，李敖在景美军法处看守所第八房写《“古罗马的壮丽”》给李文。他续接10月12日希腊信，讲 Rome 的双重含义、All roads lead to Rome、Appian Way、Pompeii、Colosseum、Roman Holiday、Nero、catacombs 和基督徒受迫害；又从 Julius Caesar 的剖腹产、Rubicon、Veni vidi vici、Cleopatra、Hannibal、Carthage、Fabian Society、萧伯纳、H. G. Wells、Beatrice Webb 到 Greco-Roman，说明罗马文化如何与希腊文化混合。
+  人物：李敖、李文、Julius Caesar、Nero、Cleopatra、Hannibal、George Bernard Shaw、H. G. Wells、Beatrice Webb
+  地点：景美军法处看守所、台北、台湾、罗马、意大利、Pompeii、Carthage
+  标签：狱中家书、李文、古罗马、恺撒、尼禄、费边社、英文成语
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、“古罗马的壮丽”
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter、prison-father-letters-1975-10-12-writes-ancient-greece-letter
+  来源：坐牢家爸爸给女儿的八十封信 / 072.“古罗马的壮丽” / line 51
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/072.“古罗马的壮丽”.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1975-10-19-writes-ancient-rome-letter
+- 1975年10月26日 | 李敖写《波澜N多的波兰》，由萧邦、瓜分和波兰名人给李文讲波兰
+  精度：day；可靠度：reported-by-author；排序日期：1975-10-26
+  摘要：1975年10月26日，李敖在景美军法处看守所第八房写《波澜N多的波兰》给李文。他先问李文是否弹过萧邦作品，再讲波兰夹在德国、俄国之间多次被瓜分，Warsaw 在二战中毁坏，Gdańsk、Danzig 和 Polish Corridor 与德国纠缠，波兰天主教传统、瓷器、Kraków、Copernicus、居里夫人、Joseph Conrad、Artur Rubinstein 和 Sienkiewicz 等名人。信中他还提醒李文，《Lord Jim》《Heart of Darkness》《Madame Curie》和《Quo Vadis》家里都有，值得阅读。
+  人物：李敖、李文、Frederic Chopin、Nicolaus Copernicus、Marie Curie、Joseph Conrad、Artur Rubinstein、Henryk Sienkiewicz
+  地点：景美军法处看守所、台北、台湾、波兰、华沙、Gdańsk、Kraków、巴黎
+  标签：狱中家书、李文、波兰、萧邦、华沙、居里夫人、康拉德、阅读建议
+  视图：书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、波澜N多的波兰、Lord Jim、Heart of Darkness、Madame Curie、Quo Vadis
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter、prison-father-letters-1975-10-19-writes-ancient-rome-letter
+  来源：坐牢家爸爸给女儿的八十封信 / 073.波澜N多的波兰 / line 57
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/010.坐牢家爸爸给女儿的八十封信/073.波澜N多的波兰.txt
+  数据：data/timeline-events-prison-father-letters.json#prison-father-letters-1975-10-26-writes-poland-chopin-letter
+- 1975年11月1日星期六 | 李敖写末封狱中家书《登天梯》，给女儿的狱中家书写作期结束
   精度：day；可靠度：confirmed；排序日期：1975-11-01
-  摘要：《坐牢家爸爸给女儿的八十封信》所收书信写作期止于1975年11月1日，跨越李敖在景美军法处看守所第八房的两年多时间。
+  摘要：1975年11月1日，李敖在景美军法处看守所第八房写《登天梯》给李文，这是《坐牢家爸爸给女儿的八十封信》所收最后一封，标志这组给女儿的狱中家书写作期止于这一天。信中他由消防车云梯和美国黑社会把 ladder 叫作 Jacob 讲起，说明旧约 Jacob、Esau、mess of pottage、Jacob's ladder、船边绳梯、袜子抽丝和植物名 Jacob's ladder 等英文用法。
   人物：李敖、李文
-  地点：景美军法处看守所
-  标签：狱中书信、女儿、景美军法处、李敖语录
-  视图：生平线、出版线
-  作品：坐牢家爸爸给女儿的八十封信、李敖语录
-  交叉引用：-
+  地点：景美军法处看守所、台北、台湾
+  标签：狱中书信、女儿、景美军法处、李敖语录、狱中家书、李文、登天梯、Jacob's ladder、英文函授
+  视图：生平线、出版线、书信线、亲情线、狱中线、教育线
+  作品：坐牢家爸爸给女儿的八十封信、李敖语录、登天梯
+  交叉引用：book2-1973-01-24-first-prison-letter-to-daughter
   来源：李敖自传与回忆续集 / 016.《坐牢家爸爸给女儿的八十封信》自序 / line 9
-  补充来源：李敖语录 / 007.牢狱岁月 / line 75；说明：《李敖语录》转摘狱中家书写作期，重述1973年1月24日至1975年11月1日独居景美军法处看守所第八房。
+  补充来源：李敖语录 / 007.牢狱岁月 / line 75；说明：《李敖语录》转摘狱中家书写作期，重述1973年1月24日至1975年11月1日独居景美军法处看守所第八房。；坐牢家爸爸给女儿的八十封信 / 074.登天梯 / line 31；说明：《坐牢家爸爸给女儿的八十封信》末封，署1975年11月1日，讲 Jacob's ladder 与登天梯。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/016.《坐牢家爸爸给女儿的八十封信》自序.txt
   数据：data/timeline-events-second-book.json#book2-1975-11-01-last-prison-letter-to-daughter
 - 1975年12月22日星期一 | 李敖被移送土城仁爱教育实验所
@@ -115135,15 +116500,15 @@
   数据：data/timeline-events-li-ao-shuhanji-letterbox.json#li-ao-shuhanji-letterbox-1987-11-12-noon-writes-shi-xingzhong-on-book-sale-and-zilih-compensation
 - 1987年11月14日星期六 | 写《坐牢家爸爸给女儿的八十封信》自序
   精度：day；可靠度：confirmed；排序日期：1987-11-14
-  摘要：《坐牢家爸爸给女儿的八十封信》自序文末署1987年11月14日，交代女儿李文出生和狱中家书写作背景。
-  人物：李敖、李文
+  摘要：《坐牢家爸爸给女儿的八十封信》自序文末署1987年11月14日。李敖在序中交代女儿李文出生于纽约、幼年多随姥姥和姑姑生活，自己在狱中五年八个月期间写给她许多信，权作函授；又说明这些信写于1973年1月24日至1975年11月1日，当时他独居景美军法处看守所第八房。李敖在序中回想自己把破皮鞋钢片磨出锋口来割插图，因雷震文字被偷和王鸿礼手势警告而无法畅所欲写，五年八个月中看书极多、写作极少，较用心写下来的主要就是这些有趣信件；最后以尼赫鲁狱中给女儿写世界史和书信作对照，称此书是不成格局中的破格例外。
+  人物：李敖、李文、冯音汝、雷震、王鸿礼、尼赫鲁、甘地夫人
   地点：台湾
-  标签：女儿、狱中书信、自序
-  视图：出版线、生平线
-  作品：坐牢家爸爸给女儿的八十封信
+  标签：女儿、狱中书信、自序、景美军法处看守所、第八房、冯音汝、雷震、尼赫鲁
+  视图：出版线、生平线、书信线、亲情线、狱中线
+  作品：坐牢家爸爸给女儿的八十封信、Letters from a Father to His Daughter、Glimpses of World History
   交叉引用：-
   来源：李敖自传与回忆续集 / 016.《坐牢家爸爸给女儿的八十封信》自序 / line 17
-  补充来源：-
+  补充来源：坐牢家爸爸给女儿的八十封信 / 《坐牢家爸爸给女儿的八十封信》自序 / line 17；说明：当前书信函件类本书自序补出李文成长、狱中第八房写信、割插图、文字检查与尼赫鲁对照。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/016.《坐牢家爸爸给女儿的八十封信》自序.txt
   数据：data/timeline-events-second-book.json#book2-1987-11-14-prison-father-letters-preface
 - 1987年11月15日晨4时后 | 李敖清晨三致施性忠，取消售书并自剖为“书房里的战士”
@@ -131872,6 +133237,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/006.求是新语/186.蒋宋美龄又不要脸了.txt
   数据：data/timeline-events-qiushi-xinyu.json#qiushi-xinyu-1991-07-21-soong-may-ling-english-speech
+- 1991年7月24日晚上 | 苏张之丙到《求是报》社看李敖，李敖婉谢同访张学良
+  精度：day；可靠度：reported-by-author；排序日期：1991-07-24
+  摘要：7月24日晚上，哥伦比亚大学教授、美国中国文化交流基金会会长苏张之丙到《求是报》社看李敖。她代表哥大口述历史小组准备访问张学良，因忧虑张学良会隐讳与蒋氏关系，又知道李敖写过《张学良研究》等书，想约李敖同访；李敖婉谢。同行的日本经济新闻社驻台负责人陈中雄又劝他写信给张学良，李敖也婉谢。
+  人物：李敖、苏张之丙、陈中雄、张学良、顾维钧
+  地点：《求是报》社、台北
+  标签：张学良、口述历史、求是报、哥伦比亚大学
+  视图：书信线、政治线、出版线
+  作品：李敖书启集、关于张学良心态动态的讨论、求是报、张学良研究、张学良研究续集
+  交叉引用：li-ao-shuxuji-xuji-1990-06-01-compiles-jiang-zhang-secret-materials-for-zhang-xueliang-ninetieth、li-ao-wuwu-diary-1991-02-24-he-shili-zhang-xueliang-birthday-li-ao-judgment
+  来源：李敖书启集 / 002.关于张学良心态动态的讨论 / line 13
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/002.关于张学良心态动态的讨论.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1991-07-24-sobelman-visits-qiushi-and-li-declines-zhang-xueliang-interview
+- 1991年7月25日 | 李敖致何世礼，请他劝张学良留下真实历史
+  精度：day；可靠度：reported-by-author；排序日期：1991-07-25
+  摘要：7月25日清晨醒来，李敖躺在床上想，唯一能进言且说动张学良的人只有何世礼，于是决定写信。他当天致何世礼，说明自己不愿同访、也不愿直接写给张学良，却希望何世礼把他的意思转达给张学良：张学良应在口述历史中面对蒋氏、九一八和禁锢旧事，不宜再以私昵或隐讳牺牲史德。信中还以“斯德哥尔摩征候群”“柏杨征候群”、史家“真实”与“公正”等概念，分析张学良晚年的心态和历史责任。
+  人物：李敖、何世礼、张学良、蒋介石、蒋经国、柏杨
+  地点：台北
+  标签：张学良、何世礼、口述历史、史德、九一八
+  视图：书信线、政治线、思想线
+  作品：李敖书启集、关于张学良心态动态的讨论、张学良研究、张学良研究续集
+  交叉引用：li-ao-shuqiji-1991-07-24-sobelman-visits-qiushi-and-li-declines-zhang-xueliang-interview、li-ao-wuwu-diary-1991-02-24-he-shili-talks-hedong-918-mao-bangchu、li-ao-wuwu-diary-1991-02-24-he-shili-zhang-xueliang-birthday-li-ao-judgment、li-ao-wuwu-diary-1991-03-16-liu-brings-he-shili-letter、li-ao-shuxuji-xuji-1990-06-01-compiles-jiang-zhang-secret-materials-for-zhang-xueliang-ninetieth
+  来源：李敖书启集 / 002.关于张学良心态动态的讨论 / line 15
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/002.关于张学良心态动态的讨论.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1991-07-25-writes-he-shili-to-persuade-zhang-xueliang-history
 - 1991年7月28日 | 李敖答张吕辉，谈《求是报》改组并把“三点不露”转给李登辉看
   精度：day；可靠度：reported-by-author；排序日期：1991-07-28
   摘要：1991年7月28日，李敖答张吕辉来信。李敖在回信中说明，最近《求是报》改组，三个股东中两个已不堪亏累而去，使他花费太多时间善后，来日只能靠自己维持。张吕辉信中提到儿子张誉曦阅读《千秋》与《求是报》并追问“三点不露”给李敖自己看有何想法；李敖据此决定今后改为“给李登辉看的‘三点不露’”，并在信中讥李登辉主持的中华文化复兴运动总会不如看看“裸女文化”。他还由小朋友意见，在回信中回想到自己小学四年级时媒体单纯、思路闭塞，转告张誉曦惜福好自为。
@@ -133198,6 +134589,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/088.民进党的幼稚动作.txt
   数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-10-17-comments-dpp-self-surrender-article-100-childish
+- 1991年10月18日 | 李敖为张学良心态讨论写前记并保存何世礼复信
+  精度：day；可靠度：reported-by-author；排序日期：1991-10-18
+  摘要：1991年10月18日，李敖为《关于张学良心态动态的讨论》写前记。他说明自己曾在《求是报》发表给何世礼的信，后来何世礼回信，回信本身也具有史料意义；为保存这段围绕张学良口述历史与心态的往返，他决定把两信一并发表。
+  人物：李敖、何世礼、张学良
+  地点：台北
+  标签：张学良、何世礼、求是报、史料保存
+  视图：书信线、出版线、政治线
+  作品：李敖书启集、关于张学良心态动态的讨论、求是报
+  交叉引用：li-ao-shuqiji-1991-07-25-writes-he-shili-to-persuade-zhang-xueliang-history、li-ao-suixielu-qianji-1991-10-01-deng-yukun-liu-junde-lunch-consults-zhang-xueliang-drama、li-ao-suixielu-qianji-1991-10-31-comments-cihu-tomb-visit-and-zhang-xueliang
+  来源：李敖书启集 / 002.关于张学良心态动态的讨论 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/002.关于张学良心态动态的讨论.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1991-10-18-writes-preface-for-zhang-xueliang-he-shili-exchange
 - 1991年10月18日 | 李敖写《台湾无处不中国》四句诗反击“台独”
   精度：day；可靠度：confirmed；排序日期：1991-10-18
   摘要：1991年10月18日，李敖写四句《台湾无处不中国》：“妄想海峡两地隔，妄想‘台独’自快活。我且当头来棒喝：台湾无处不中国。”这首短诗直接把矛头指向“台独”想象，作为他在《随写录前集》中持续反台独论述的一则诗式表达。
@@ -133705,6 +135109,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/009.李敖随写录前集/125.贩书者言.txt
   数据：data/timeline-events-li-ao-suixielu-qianji.json#li-ao-suixielu-qianji-1991-11-06-guling-street-bookstore-boss-history-fortune-joke
+- 1991年11月6日 | 李敖收到金兰大厦CD座联名信并转交管理委员会
+  精度：day；可靠度：reported-by-author；排序日期：1991-11-06
+  摘要：1991年11月6日，李敖收到金兰大厦CD座二十三户签名信，内容要求处理管理费、特殊基金、停车场和管理委员会问题。收信后，李敖把原件转交金兰大厦管理委员会选出的委员处理，自己没有逐项答复；他在后来的信中说明，这些事项已有会议记录和公开文件可查，对恶意威胁不必重复解释。
+  人物：李敖、李月圆、程灏
+  地点：金兰大厦
+  标签：金兰大厦、住户纠纷、管理委员会、CD座
+  视图：书信线、日常线、司法线
+  作品：李敖书启集、怨结金兰
+  交叉引用：li-ao-shuhanji-letterbox-1989-04-23-jinlan-meeting-elects-li-and-sets-charges、li-ao-shuhanji-letterbox-1989-05-31-writes-neighbors-resigning-jinlan-chair
+  来源：李敖书启集 / 003.怨结金兰 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/003.怨结金兰.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1991-11-06-receives-jinlan-cd-petition-and-forwards-to-committee
 - 1991年11月6日 | 李敖读郝柏村答询二二八应愧疚说，称其为迟来的道歉
   精度：day；可靠度：confirmed；排序日期：1991-11-06
   摘要：1991年11月6日，李敖读到行政院长郝柏村前一天答复立委林聪明质询时表示，政府当年在大陆失败，对大陆同胞应感愧疚；对于二二八事件中受害的本省同胞与外省同胞，也同样应该表示愧疚。李敖在随写中称这是四十多年后的道歉，是迟来的道歉；并补记《立法院公报》第八十卷第九十期中的郝柏村原句，保留其关于国家统一、大陆失败检讨与二二八受害者愧疚的完整语境。
@@ -134667,6 +136084,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/010.李敖随写录后集/007.如此学术中立！.txt
   数据：data/timeline-events-li-ao-suixielu-houji.json#li-ao-suixielu-houji-1991-12-17-comments-lee-yuan-tseh-academic-neutrality-video-deletion
+- 1991年12月18日 | 李敖收到林田嘉美署名的金兰CD座来信
+  精度：day；可靠度：reported-by-author；排序日期：1991-12-18
+  摘要：11月底，金兰大厦管理员向李敖报告，CD座部分住户拒依管理委员会收据缴费，另行独立收费。12月18日，李敖又收到自称“金兰大厦CD座住户理事林田嘉美”的来信；他在信中注意到此信笔迹与程灏相同，并由此继续检视CD座独立收费、管理费和公共基金的争议。
+  人物：李敖、林田嘉美、程灏
+  地点：金兰大厦
+  标签：金兰大厦、住户纠纷、管理费、CD座
+  视图：书信线、日常线、司法线
+  作品：李敖书启集、怨结金兰
+  交叉引用：li-ao-shuqiji-1991-11-06-receives-jinlan-cd-petition-and-forwards-to-committee、li-ao-shuhanji-letterbox-1989-04-23-jinlan-meeting-elects-li-and-sets-charges
+  来源：李敖书启集 / 003.怨结金兰 / line 27
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/003.怨结金兰.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1991-12-18-receives-lin-tianjiamei-jinlan-cd-letter
 - 1991年12月18日 | 李敖读候选人看风水报道，批台湾选举也卷入妖妄风气
   精度：day；可靠度：confirmed；排序日期：1991-12-18
   摘要：1991年12月18日，李敖读《联合报》报道：中华民国地理师协会副理事长陈冠宇说，每逢选举前有名气的地理师异常忙碌，会受托替候选人算运势、看风水，也有人因被说今年“运”不旺而放弃参选。李敖在随写中批评，台湾妖妄之风日浓，连选举也被风水卷入；他认为全世界选举都不时兴风水，台湾却独树一帜，并讽刺民主政治落到这班人手里真是“风水”欠佳。
@@ -134693,6 +136123,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/010.李敖随写录后集/010.郑自才.txt
   数据：data/timeline-events-li-ao-suixielu-houji.json#li-ao-suixielu-houji-1991-12-19-notes-zheng-zicai-wife-campaign-poster-and-taiwan-republic-platform
+- 1991年12月20日 | 李敖自费打字影印《怨结金兰》给金兰邻居
+  精度：day；可靠度：reported-by-author；排序日期：1991-12-20
+  摘要：1991年12月20日，李敖把《怨结金兰》自费打字、影印，寄送金兰大厦邻居；CD座住户以挂号邮寄，其余住户由管理员分送。他在信中逐项反驳CD座住户独立收费和追索公共基金的说法，说明停车场、管理费和特别基金来龙去脉，并警告若有人明知事实不合仍提诉讼，他会以诬告反击。
+  人物：李敖、程灏、林田嘉美
+  地点：金兰大厦
+  标签：金兰大厦、住户纠纷、管理费、停车场、诬告
+  视图：书信线、日常线、司法线
+  作品：李敖书启集、怨结金兰
+  交叉引用：li-ao-shuqiji-1991-11-06-receives-jinlan-cd-petition-and-forwards-to-committee、li-ao-shuqiji-1991-12-18-receives-lin-tianjiamei-jinlan-cd-letter、li-ao-shuhanji-letterbox-1989-04-23-jinlan-meeting-elects-li-and-sets-charges、li-ao-shuhanji-letterbox-1989-05-31-writes-neighbors-resigning-jinlan-chair
+  来源：李敖书启集 / 003.怨结金兰 / line 51
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/003.怨结金兰.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1991-12-20-writes-jinlan-neighbors-letter-against-cd-independence
 - 1991年12月20日 | 李敖读郝柏村参加卫理堂圣诞崇拜报道，讥其信仰摇摆
   精度：day；可靠度：confirmed；排序日期：1991-12-20
   摘要：1991年12月20日，李敖读《中央日报》报道，得知行政院长郝柏村夫妇前一晚应李国鼎邀请，到新生南路的台北卫理堂参加圣诞感恩圣乐崇拜。李敖在随写中随即讥讽，郝柏村日前还到各类庙宇上香拜佛，反问他到底信什么教。
@@ -135345,6 +136788,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/010.李敖随写录后集/044.溢领黑心钱.txt
   数据：data/timeline-events-li-ao-suixielu-houji.json#li-ao-suixielu-houji-1992-01-07-clips-united-daily-overpaid-legislative-fees-black-money
+- 1992年1月8日 | 李敖再致金兰邻居，反驳程灏1月6日传单
+  精度：day；可靠度：reported-by-author；排序日期：1992-01-08
+  摘要：1992年1月8日，距《怨结金兰》发出三周后，李敖再写信给金兰邻居。他说明CD座签名者中已有住户撤回签名并道歉，又针对程灏1月6日散发的信逐项反驳。信中还列出CD座电梯保养费、水电费欠缴情形，指出管理员徐晋贤已用个人退休金垫付，并提醒CD座若继续自称独立，电梯保养和公共安全责任也须自行承担。
+  人物：李敖、程灏、徐晋贤
+  地点：金兰大厦
+  标签：金兰大厦、住户纠纷、程灏、电梯保养、管理费
+  视图：书信线、日常线、司法线
+  作品：李敖书启集、再致金兰邻居
+  交叉引用：li-ao-shuqiji-1991-12-20-writes-jinlan-neighbors-letter-against-cd-independence、li-ao-shuqiji-1991-12-18-receives-lin-tianjiamei-jinlan-cd-letter
+  来源：李敖书启集 / 005.再致金兰邻居 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/005.再致金兰邻居.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1992-01-08-writes-second-jinlan-neighbors-letter-rebutting-cheng-hao
 - 1992年1月8日 | 李敖在王小痴逝世一周年随写中记王小痴生平
   精度：day；可靠度：confirmed；排序日期：1992-01-08
   摘要：1992年1月8日，王小痴逝世一周年，李敖在随写中追记其生平。李敖记王小痴本名王翼樟，1928年生，早年受陈子奋教授书画金石，后来在台湾漫画、报业、电影与传播事业中活动，曾主持《新生漫画》周刊、参与《民风画刊》《兄弟画报》、在《成功晚报》《民族晚报》任职，也以“龙中天”为笔名为党外杂志写《论蒋经国》等文。李敖还记王小痴因影展后劳累住院，遭误诊和多次手术，晚年又被三军总医院误诊，于1991年1月8日去世，享年六十四岁。
@@ -135397,6 +136853,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/010.李敖随写录后集/045.增额立委更不要脸.txt
   数据：data/timeline-events-li-ao-suixielu-houji.json#li-ao-suixielu-houji-1992-01-08-comments-lei-yuqi-letter-extra-legislators-shameless
+- 1992年1月8日晚上 | 李敖致赖宪沧，追查《求是报》订报款案
+  精度：day；可靠度：reported-by-author；排序日期：1992-01-08
+  摘要：1992年1月8日晚上，李敖致赖宪沧，说明赖宪沧曾订《求是报》十份共三万六千元，却又被发行负责人向友人重复收款。他在信中说，自己已在1991年12月23日刑事自诉状里把此事列为犯罪事实；经追查，订费支票进入林鸾凤帐户，而林鸾凤是周孟禄的弟妹。李敖因此预告，若检察官需要，赖宪沧可能要出庭作证。
+  人物：李敖、赖宪沧、林鸾凤、周孟禄
+  地点：台北
+  标签：求是报、订报款、刑事自诉、赖宪沧
+  视图：书信线、司法线、出版线
+  作品：李敖书启集、致赖宪沧、求是报
+  交叉引用：book4-1991-02-27-qiushi-daily-starts、li-ao-baokanji-1991-08-20-writes-qiushi-bao-shutdown-notice
+  来源：李敖书启集 / 006.致赖宪沧 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/006.致赖宪沧.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1992-01-08-evening-writes-lai-xiancang-on-qiushi-subscription-case
 - 1992年1月9日 | 李敖录存路透社波恩电，记德国官员蓝格因拥抱李鹏将被免职
   精度：day；可靠度：confirmed；排序日期：1992-01-09
   摘要：1992年1月9日，李敖在随写中录存路透社波恩7日电：德国经济合作部高级官员蓝格因访问中国大陆时拥抱中共总理李鹏，本月稍后将被免职。材料称德国政府发言人未说明原因，但蓝格1991年5月拥抱李鹏之举，似乎被视为原谅中共1989年镇压民主运动，使科尔政府尴尬；蓝格则称自己曾强调尊重人权，是李鹏突然拥抱他而无法回避。此条作为李敖摘存的国际政治材料入表。
@@ -135865,6 +137334,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/010.李敖随写录后集/083.探谢氏兄妹.txt
   数据：data/timeline-events-li-ao-suixielu-houji.json#li-ao-suixielu-houji-1992-01-28-visits-hsieh-congmin-and-hsieh-xiumei-at-renai-hospital
+- 1992年1月29日 | 李敖三致金兰邻居，附证据反驳程灏
+  精度：day；可靠度：reported-by-author；排序日期：1992-01-29
+  摘要：1992年1月29日，李敖第三次致信金兰邻居，回应程灏1月18日来信。他在信中指出D座一楼房客已撤回签名并道歉，又用税单、土地登记、车位租约和会议记录等材料，反驳“李敖只是房客”、叶财记与懋盛公司产权关系、停车场公共收费和CD座独立等说法。信末他列出六项附件，说明自己愿以文件证据而非传单口水解决争议。
+  人物：李敖、程灏、叶财记、叶台娣、苏为正、林燕燕
+  地点：金兰大厦
+  标签：金兰大厦、住户纠纷、程灏、停车场、产权
+  视图：书信线、日常线、司法线
+  作品：李敖书启集、三致金兰邻居
+  交叉引用：li-ao-shuqiji-1991-12-20-writes-jinlan-neighbors-letter-against-cd-independence、li-ao-shuqiji-1992-01-08-writes-second-jinlan-neighbors-letter-rebutting-cheng-hao、li-ao-suixielu-houji-1992-02-20-zhang-fucong-visits-jinlan-cd-tower-reunification-dispute、li-ao-suixielu-houji-1992-02-29-sets-jinlan-cd-return-conditions-and-resigns-chair-at-abef-meeting
+  来源：李敖书启集 / 007.三致金兰邻居 / line 3
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/007.三致金兰邻居.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1992-01-29-writes-third-jinlan-neighbors-letter-with-evidence
 - 1992年1月29日 | 李敖收到刘辰旦电传，赞同其对谢聪敏处境的看法
   精度：day；可靠度：confirmed；排序日期：1992-01-29
   摘要：1992年1月29日，李敖收到刘辰旦电传。刘辰旦在电传中说谢聪敏对民进党太一厢情愿，落选又挨揍，台湾政治文化就是如此；他无法与谢联络，询问近况，并请李敖代为致意，祝其早日康复，又问春节是否南下、是否带小王到南部散心。李敖在随写中摘录电传后写下“辰旦见解甚是”，表示赞同。
@@ -135956,6 +137438,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/010.李敖随写录后集/090.宠猫会开电风扇.txt
   数据：data/timeline-events-li-ao-suixielu-houji.json#li-ao-suixielu-houji-1992-01-31-cat-jiangjiang-turns-on-fan-and-jumps-onto-counter
+- 1992年1月31日 | 李敖致孙震，要求台大出具历史研究所就读证明
+  精度：day；可靠度：reported-by-author；排序日期：1992-01-31
+  摘要：1992年1月31日，李敖致台湾大学校长孙震，请台大发给证明，确认自己曾在历史研究所就读。他在信中回述，自己1959年历史系毕业，1961年考入台大历史研究所，读研期间在《文星》发表文章并与台大关系日坏，1963年3月19日自动休学；如今已五十七岁，与台大“于义已绝”，只要求学校据实证明曾经就读。
+  人物：李敖、孙震、钱思亮
+  地点：台湾大学
+  标签：台湾大学、历史研究所、孙震、休学、证明
+  视图：书信线、教育线、生平线
+  作品：李敖书启集、给孙震先生一封信、文星
+  交叉引用：book5-1963-03-19-leaves-ntu-graduate-school、li-ao-suixielu-houji-1992-02-19-receives-ntu-reply-and-graduate-school-transcript
+  来源：李敖书启集 / 008.给孙震先生一封信 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/008.给孙震先生一封信.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1992-01-31-writes-sun-zhen-for-ntu-graduate-study-certificate
 - 1992年2月1日 | 李敖记陆啸钊转述范圣所说台北市买票行情
   精度：day；可靠度：confirmed；排序日期：1992-02-01
   摘要：1992年2月1日，李敖在随写中记陆啸钊转述范圣的话：台北市选举买票每票可到二千元，并且有人包买。此条以李敖记录友人转述的台北贿选行情为中心。
@@ -136489,6 +137984,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/010.李敖随写录后集/129.写作主力两大类.txt
   数据：data/timeline-events-li-ao-suixielu-houji.json#li-ao-suixielu-houji-1992-02-17-defines-two-main-late-life-writing-categories-novels-and-intellectual-history
+- 1992年2月17日 | 李敖致张福淙，说明已卖掉汽车改骑脚踏车
+  精度：day；可靠度：reported-by-author；排序日期：1992-02-17
+  摘要：1992年2月17日，李敖致邻居张福淙，谈金兰大厦CD座独立与调停失败。他请张福淙在25日前给出书面结果，预告月底将召开ABEF座管理会议，必要时讨论分家和改选。信中李敖说自己支持CD座分开，已退掉高价租来的停车位，把汽车以二十九万元卖掉，改骑脚踏车；他还在信中判断，经过这一阵子调停失败，张福淙也该有所觉悟。
+  人物：李敖、张福淙、程灏
+  地点：金兰大厦
+  标签：金兰大厦、张福淙、卖车、脚踏车、停车位
+  视图：书信线、日常线、财务线
+  作品：李敖书启集、卖掉汽车，改骑脚踏车了
+  交叉引用：li-ao-shuqiji-1991-12-20-writes-jinlan-neighbors-letter-against-cd-independence、li-ao-shuqiji-1992-01-29-writes-third-jinlan-neighbors-letter-with-evidence、li-ao-suixielu-qianji-1991-12-07-buys-bicycle-with-xiaotun-at-jianguo-xinyi、li-ao-suixielu-houji-1992-02-20-zhang-fucong-visits-jinlan-cd-tower-reunification-dispute、li-ao-suixielu-houji-1992-02-29-sets-jinlan-cd-return-conditions-and-resigns-chair-at-abef-meeting
+  来源：李敖书启集 / 009.卖掉汽车，改骑脚踏车了 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/009.卖掉汽车，改骑脚踏车了.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1992-02-17-writes-zhang-fucong-sold-car-and-bicycle
 - 1992年2月17日 | 胡基峻返台后李敖请其午饭，并回忆两人办《求是报》的文字作业
   精度：day；可靠度：confirmed；排序日期：1992-02-17
   摘要：1992年2月17日，胡基峻赴美五个月后返台，李敖中午请他吃饭，仲伟烈、郭鑫生作陪。李敖在随写中称胡基峻正直纯朴、不改本色，是好朋友；又追记胡基峻曾陪他办《求是报》半年，《求是报》的文字作业只出于李敖与胡基峻两人之手。李敖还提到胡基峻是台大哲学系事件受害人，被迫离开台大后转入新闻业，久而久之养成整天追新闻的习惯；《求是报》停刊后仍每日忙碌，李敖笑他把太多大好时间花在新闻上，胡基峻则笑着申辩。
@@ -136931,6 +138439,58 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/018.笔伐（1982-1992·47到57岁）.txt
   数据：data/timeline-events-fourth-book.json#book4-1992-04-01-li-ao-qiushi-review-ends
+- 1992年4月19日 | 李敖致裴存藩夫人，提议整理裴存藩史料
+  精度：day；可靠度：reported-by-author；排序日期：1992-04-19
+  摘要：1992年4月19日，李敖致裴存藩夫人，说明已收到裴存藩的讣闻，但自己一向不参加婚丧喜庆，所以不会出席丧礼。他在信中提出另一种纪念方式：若家属愿意提供裴存藩全部文件和遗物，他可以据此整理史料、鉴定价值，并为裴存藩一生作出较客观的位置判断。
+  人物：李敖、裴存藩、裴存藩夫人
+  地点：台北
+  标签：裴存藩、史料整理、丧礼、书信
+  视图：书信线、生平线、出版线
+  作品：李敖书启集、致裴存藩夫人
+  交叉引用：li-ao-wuwu-diary-1990-07-03-receives-pei-family-invitation
+  来源：李敖书启集 / 010.致裴存藩夫人 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/010.致裴存藩夫人.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1992-04-19-writes-mingbo-on-pei-cunfan-materials
+- 1992年5月9日 | 李敖到北县文化中心县民大学演讲《我是真正的台湾人》
+  精度：day；可靠度：reported-by-correspondent；排序日期：1992-05-09
+  摘要：刘峰松1993年8月来信回述，李敖曾于1992年5月9日到北县文化中心县民大学演讲《我是真正的台湾人》；讲话内容后来由北县文化中心人员整理成文，刘峰松寄校样请李敖校正。此条按来信所述补入演讲节点，后续1993年8月10日李敖复信谈校样和勘误。
+  人物：李敖、刘峰松
+  地点：北县文化中心、台北县
+  标签：演讲、北县文化中心、县民大学、我是真正的台湾人、刘峰松
+  视图：演讲线、书信线、出版线
+  作品：李敖书启集、复刘峰松、我是真正的台湾人
+  交叉引用：li-ao-shuqiji-1993-08-10-replies-liu-fengsong-on-proof-and-politics
+  来源：李敖书启集 / 029.复刘峰松 / line 19
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/029.复刘峰松.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1992-05-09-speaks-at-taipei-county-cultural-center-true-taiwanese
+- 1992年5月14日 | 李敖警告金兰大厦CD座邻居，不得以水电费要挟全楼
+  精度：day；可靠度：reported-by-author；排序日期：1992-05-14
+  摘要：1992年5月14日，李敖写《李敖警告金兰大厦CD座邻居》。他指出CD座理事会5月9日行文，以地下室车库未解决为由拒分摊大楼水电费，张福淙当天已贴出紧急公告；李敖在信中警告，若CD座拒缴导致全楼断水断电，他会控告CD座每户妨害自由并要求民事赔偿。他又逐项说明地下室车位属二十二位持有人私产，所谓59坪或75坪全体共有车位只是“地下楼阁”，并回述自己当年退掉月租3600元的私人车位、改租15000元公家车位，是为公家收入“捧场”。
+  人物：李敖、张福淙、程灏、蔡宪荣、苏为正、徐晋贤、林凤梧、林燕燕
+  地点：金兰大厦、地下室车库、台北
+  标签：金兰大厦、CD座、水电费、地下室车库、妨害自由、住户纠纷
+  视图：书信线、日常线、司法线、金兰大厦线
+  作品：李敖书启集、李敖警告金兰大厦CD座邻居
+  交叉引用：li-ao-shuqiji-1992-01-29-writes-third-jinlan-neighbors-letter-with-evidence、li-ao-shuqiji-1992-02-17-writes-zhang-fucong-sold-car-and-bicycle、li-ao-suixielu-houji-1992-02-29-sets-jinlan-cd-return-conditions-and-resigns-chair-at-abef-meeting
+  来源：李敖书启集 / 011.李敖警告金兰大厦CD座邻居 / line 19
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/011.李敖警告金兰大厦CD座邻居.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1992-05-14-warns-jinlan-cd-neighbors-over-utilities
+- 1992年5月20日 | 李敖代胡学古复洪贵参律师函，反驳水晶大厦顶楼权利争议
+  精度：day；可靠度：reported-by-author；排序日期：1992-05-20
+  摘要：1992年5月20日，李敖代胡学古复洪贵参律师函，驳斥水晶大厦管理委员会来函。他在函中重述水晶大厦顶楼三座由萧孟能扩建，1977年萧孟能、朱婉坚协议补充条款已把十三层中间“楼外楼”可使用部分交由朱婉坚永久使用，并称大厦十五年来照收管理费，等于承认此项权利。信中又指出徐进业、陈秋子当年以购屋抵债解决高利贷问题，来函称房屋经法院拍卖给徐进业是胡说；最后警告若再欺人太甚，将登报、诉讼并依律师法请求惩戒洪贵参。
+  人物：李敖、胡学古、洪贵参、萧孟能、朱婉坚、郑锡华、徐进业、陈秋子
+  地点：水晶大厦、台北
+  标签：水晶大厦、胡学古、洪贵参、朱婉坚、萧孟能、律师函
+  视图：书信线、司法线、居住线
+  作品：李敖书启集、代胡学古复洪贵参律师函
+  交叉引用：book2-1977-12-17-xiao-zhu-separation-agreement、book2-1978-08-01-zhang-guizhen-rental-contract、liao-xinkan-1984-context-asks-jiang-pengjian-question-crystal-building
+  来源：李敖书启集 / 012.代胡学古复洪贵参律师函 / line 25
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/012.代胡学古复洪贵参律师函.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1992-05-20-drafts-hu-xuegu-reply-to-hong-guican-lawyer-letter
 - 1992年5月27日星期三 | 陶英惠写《预官日记》序，回忆李敖同队与日记即将出版
   精度：day；可靠度：third-party-recollection；排序日期：1992-05-27
   摘要：陶英惠1992年5月27日写《预官日记》序。他说自己与李敖是台大历史系同窗，在步校又同队，每天形影不离；李敖在步校趣事和糗事很多，当时留有日记并将印出公之于世，自己可由日记回看李敖如何调侃队职官及同学。此为第三方见证。
@@ -136944,6 +138504,175 @@
   补充来源：一个预备军官的日记 / 006.《预官日记》序（陶英惠） / line 9；说明：陶英惠回忆与李敖台大同窗、步校同队，并说明李敖日记即将印出。；一个预备军官的日记 / 006.《预官日记》序（陶英惠） / line 11；说明：陶英惠认为可从李敖大学时期日记与预官日记理解其早已与众不同。；一个预备军官的日记 / 006.《预官日记》序（陶英惠） / line 13；说明：陶英惠称李敖坚嘱其写序。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/006.《预官日记》序（陶英惠）.txt
   数据：data/timeline-events-preofficer-diary.json#preofficer-diary-1992-05-27-tao-yinghui-writes-preface-about-li-ao-in-ninth-company
+- 1992年6月11日 | 李敖就程灏诬告“不办理移交”案作综合陈述
+  精度：day；可靠度：reported-by-author；排序日期：1992-06-11
+  摘要：1992年6月11日，李敖写《对程灏诬告案的综合陈述》。程灏到地检署控告林凤梧、林丽蘋、李敖“不办理移交”，李敖在陈述中说明金兰大厦公款仍在邮局，存折、管理委员会印、吕清贵印和林凤梧印四项分掌，必须集合才可提款，这一制度是十多年来安全防弊的传统；主任委员向来垂拱而治、不碰钱，所以李敖本人连这些印章存折都没见过。他又批张福淙上台后想把钱权“四合一”，而CD座又企图瓜分地下室车库存款，均与住户公约和车位私产权利相冲突。
+  人物：李敖、程灏、林凤梧、林丽蘋、张福淙、徐晋贤、吕清贵、苏为正、尤清
+  地点：金兰大厦、地检署、华南商业银行
+  标签：金兰大厦、程灏、诬告、移交、邮局存款、地下室车位
+  视图：书信线、司法线、日常线、金兰大厦线
+  作品：李敖书启集、对程灏诬告案的综合陈述
+  交叉引用：li-ao-shuqiji-1992-05-14-warns-jinlan-cd-neighbors-over-utilities、li-ao-shuqiji-1992-02-17-writes-zhang-fucong-sold-car-and-bicycle、li-ao-suixielu-houji-1992-02-29-sets-jinlan-cd-return-conditions-and-resigns-chair-at-abef-meeting
+  来源：李敖书启集 / 013.对程灏诬告案的综合陈述 / line 51
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/013.对程灏诬告案的综合陈述.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1992-06-11-states-cheng-hao-false-accusation-handover-case
+- 1992年7月1日 | 李敖复大安区调解委员会，质疑金兰大厦调解当事人资格
+  精度：day；可靠度：reported-by-author；排序日期：1992-07-01
+  摘要：1992年7月1日，李敖复台北市大安区调解委员会。他表示已收到通知书和申请调解书，但张福淙当选金兰大厦主任委员是在CD座独立之后，又因AB座援例独立，已不能代表全大厦；CD座方面蔡宪荣、程灏等也没有取得二十八户四分之三签名授权。李敖因此要求调解委员会先确认张福淙、蔡宪荣、程灏三人的代表资格，否则当事人不适格，无从调解。
+  人物：李敖、张福淙、蔡宪荣、程灏
+  地点：台北市大安区调解委员会、金兰大厦
+  标签：金兰大厦、大安区调解委员会、张福淙、蔡宪荣、程灏、当事人适格
+  视图：书信线、司法线、调解线、金兰大厦线
+  作品：李敖书启集、复台北市大安区调解委员会
+  交叉引用：li-ao-shuqiji-1992-06-11-states-cheng-hao-false-accusation-handover-case、li-ao-shuqiji-1992-05-14-warns-jinlan-cd-neighbors-over-utilities
+  来源：李敖书启集 / 014.复台北市大安区调解委员会 / line 19
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/014.复台北市大安区调解委员会.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1992-07-01-replies-daan-mediation-committee-on-jinlan-standing
+- 1992年7月2日 | 李敖写《所谓“移交”问题》，说明自己卸任时无物可交
+  精度：day；可靠度：reported-by-author；排序日期：1992-07-02
+  摘要：1992年7月2日，李敖写《所谓“移交”问题》。他在文中回述金兰大厦主任委员传统始于许自诚，无为而治、分层负责，历届主任委员只是住户大会改选，并无官僚式“移交”；1989年4月23日陈斯禄卸任给李敖如此，1992年2月29日李敖卸任给张福淙亦如此。李敖又说明账证文书由管理员卓浩然、徐晋贤保管，存款则由存折和三颗印章分掌防弊；林凤梧要求张福淙提出接替者再到银行变更印鉴，并非拒绝移交。结尾李敖判断，所谓“移交”只是“一朝权在手，便把令来行”者的权力膨胀。
+  人物：李敖、许自诚、陈斯禄、张福淙、林凤梧、林丽蘋、卓浩然、徐晋贤、苏为正
+  地点：金兰大厦、邮局
+  标签：金兰大厦、移交、张福淙、林凤梧、林丽蘋、主任委员
+  视图：书信线、日常线、司法线、金兰大厦线
+  作品：李敖书启集、所谓“移交”问题
+  交叉引用：li-ao-shuqiji-1992-06-11-states-cheng-hao-false-accusation-handover-case、li-ao-suixielu-houji-1992-02-29-sets-jinlan-cd-return-conditions-and-resigns-chair-at-abef-meeting、li-ao-shuhanji-letterbox-1989-04-23-jinlan-meeting-elects-li-and-sets-charges
+  来源：李敖书启集 / 015.所谓“移交”问题 / line 19
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/015.所谓“移交”问题.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1992-07-02-explains-jinlan-handover-question
+- 1992年7月3日 | 李敖参与提出金兰大厦三座分会书面解决方案
+  精度：day；可靠度：reported-by-author；排序日期：1992-07-03
+  摘要：1992年7月3日，《金兰大厦今后问题解决方案》以AB座互助会名义发出。方案主张CD座、AB座、EF座各自成会，今后一切问题由三会互以书面解决；每座加装电表，按实际用电分摊水电，若CD座、EF座不愿负担电表费用，AB座李敖私人愿意出资。方案还主张地下室二十二个车位属私人，三座不得擅分收益；管理采三座轮值，未尽争议由法律处理，并明示AB座已聘陈良榘、龙云翔二位常年法律顾问。
+  人物：李敖、苏为正、陈良榘、龙云翔
+  地点：金兰大厦、地下室车库
+  标签：金兰大厦、AB座互助会、电表、地下室车位、法律顾问、三座轮值
+  视图：书信线、日常线、司法线、金兰大厦线
+  作品：李敖书启集、金兰大厦今后问题解决方案
+  交叉引用：li-ao-shuqiji-1992-07-02-explains-jinlan-handover-question、li-ao-shuqiji-1992-07-01-replies-daan-mediation-committee-on-jinlan-standing、li-ao-shuqiji-1992-05-14-warns-jinlan-cd-neighbors-over-utilities
+  来源：李敖书启集 / 016.金兰大厦今后问题解决方案 / line 21
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/016.金兰大厦今后问题解决方案.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1992-07-03-proposes-jinlan-three-association-solution
+- 1992年8月3日 | 李敖得子李戡
+  精度：day；可靠度：reported-by-author；排序日期：1992-08-03
+  摘要：李敖在1992年11月10日给友人的信中回述，自己3月8日娶妻，8月3日生子；儿子取名李戡，是因为国民党的“戡乱”刚停止，而他自称“我戡乱开始”。信中还说孩子一百天时已经学会以哭声示人，显示这条既是家庭新生节点，也是李敖借命名表达政治讽刺的节点。
+  人物：李敖、王小屯、李戡、潘毓刚
+  地点：台北
+  标签：李戡、王小屯、得子、命名、戡乱
+  视图：家庭线、书信线、政治线
+  作品：李敖书启集、有子三书
+  交叉引用：book4-1992-03-08-marries-wang-xiaotun、li-ao-shuqiji-1992-11-10-writes-three-letters-about-son-li-kan
+  来源：李敖书启集 / 022.有子三书 / line 7
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/022.有子三书.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1992-08-03-son-li-kan-born
+- 1992年8月22日 | 李敖致黄大洲和秦慧珠，检举工务局包庇东丰街违建
+  精度：day；可靠度：reported-by-author；排序日期：1992-08-22
+  摘要：1992年8月22日，李敖以检举函致台北市长黄大洲、台北市议员秦慧珠，并副知工务局长曹友萍。他说明自己6月22日已检举台北市东丰街56号一楼后院法定空地被蔡荣德擅建房屋、堵塞避难空地和防火巷，但建管处6月29日回函把检举函改称陈情书，又以多年既存违建和分期分类处理搪塞。李敖在函中列举刑法、建筑技术规则、消防警察大队函和中央法规，要求黄大洲惩处工务局违法人员并督促拆除，否则将请秦慧珠持续质询、向郝柏村检举，并不排除告黄大洲。
+  人物：李敖、黄大洲、秦慧珠、曹友萍、蔡荣德、郝柏村、李登辉
+  地点：台北市政府、台北市工务局、东丰街56号、台北市大安区
+  标签：黄大洲、秦慧珠、台北市工务局、东丰街、违章建筑、防火巷
+  视图：书信线、司法线、政治线、居住线
+  作品：李敖书启集、黄大洲听着！
+  交叉引用：jingfumen-1991-04-30-writes-small-minded-taiwan-politicians
+  来源：李敖书启集 / 017.黄大洲听着！ / line 29
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/017.黄大洲听着！.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1992-08-22-accuses-huang-dazhou-public-works-covering-dongfeng-illegal-building
+- 1992年8月31日 | 李敖参与AB座互助会复CD座，批地下室问题只是“地下楼阁”
+  精度：day；可靠度：reported-by-author；排序日期：1992-08-31
+  摘要：1992年8月31日，金兰大厦AB座互助会复CD座理事会，副本分送全体住户。函中坚持双方应以会对会、具体方案对具体方案，不应把二十八户个人意见逐封转来要求AB座答询。针对CD座又提出撤废机械房问题，函中回到程灏称地下室另有194.87平方米、蔡宪荣称另有248.46平方米全体共有车位的旧说，指出实际根本没有59坪或75坪共有车位，所谓撤废机械房出口也牵涉第十二、十三号私人车位；李敖所代表的AB座因此批评CD座未先研究真相，只是在胡搅蛮缠。
+  人物：李敖、程灏、蔡宪荣
+  地点：金兰大厦、地下室车库
+  标签：金兰大厦、AB座互助会、CD座理事会、地下楼阁、地下室车位、机械房
+  视图：书信线、日常线、金兰大厦线
+  作品：李敖书启集、以“地下阁楼”为例
+  交叉引用：li-ao-shuqiji-1992-07-03-proposes-jinlan-three-association-solution、li-ao-shuqiji-1992-05-14-warns-jinlan-cd-neighbors-over-utilities
+  来源：李敖书启集 / 018.以“地下阁楼”为例 / line 21
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/018.以“地下阁楼”为例.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1992-08-31-replies-cd-council-underground-castle-question
+- 1992年10月20日 | 李敖再致黄大洲，追问东丰街违建拆除时序和公信
+  精度：day；可靠度：reported-by-author；排序日期：1992-10-20
+  摘要：1992年10月20日，李敖以最速件再致台北市长黄大洲，副知工务局长曹友萍。他说明8月22日已要求惩处包庇东丰街56号违建的工务局人员并速拆违建；10月16日清晨又收到建管处书函，称定于10月12日上午派工强制拆除。李敖在信中追问：为何10月12日拆除却10月16日才告知，且到10月20日仍毫无动静；为何消防警察大队函只限东丰街56号，建管处却扩大为54、56、58、60号；又要求防止施工队只象征拆屋顶、保留钢梁供重建。信末他警告，黄大洲若不彻底解决，李敖一定没完没了。
+  人物：李敖、黄大洲、曹友萍、蔡荣德
+  地点：台北市政府、台北市工务局、东丰街56号、台北市大安区
+  标签：黄大洲、台北市工务局、东丰街、违章建筑、最速件、强制拆除
+  视图：书信线、司法线、政治线、居住线
+  作品：李敖书启集、致黄大洲
+  交叉引用：li-ao-shuqiji-1992-08-22-accuses-huang-dazhou-public-works-covering-dongfeng-illegal-building、jingfumen-1991-04-30-writes-small-minded-taiwan-politicians
+  来源：李敖书启集 / 019.致黄大洲 / line 29
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/019.致黄大洲.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1992-10-20-writes-huang-dazhou-on-dongfeng-demolition-doubts
+- 1992年11月1日 | 李敖答释昭慧，同意著作收录并说明埋头写专书
+  精度：day；可靠度：reported-by-author；排序日期：1992-11-01
+  摘要：1992年11月1日，李敖答释昭慧来信。释昭慧拟在新书《独留情义落江湖》中收入《求是》论辩中李敖原函与相关文字，先征求同意；李敖在回信中说她太周到，自己当然同意，并以将来自己著作收入释昭慧文章时她也必然同意作对照。李敖又在信中判断，台湾当局受美方压力大修《著作权法》虽有保障智慧财产权一面，也会阻滞思想流传；他还说明《求是》时代告一段落，自己已厌闻小岛上事，正埋头写一本本专书，把主要时间用于探讨中国人的思想模式，预备写成百万字以从根救起。
+  人物：李敖、释昭慧、张福淙、苦茶庵主、陈妙秋
+  地点：台北、台湾
+  标签：释昭慧、著作权法、求是、独留情义落江湖、专书写作、中国思想模式
+  视图：书信线、出版线、思想线、宗教线
+  作品：李敖书启集、致释昭慧、独留情义落江湖、求是、求是与佛门、教棍敛财全有道，寺庙收入真惊人
+  交叉引用：qianqiu-wansui-1991-05-11-165-li-replies-to-shih-chao-hwei、li-ao-shuhanji-letterbox-1991-05-22-one-am-writes-shih-chao-hwei-on-lawyer-call-and-author-address、li-ao-shuhanji-letterbox-1991-06-10-morning-again-writes-shih-chao-hwei-after-searching-qiushi-records、li-ao-shuhanji-letterbox-1991-06-13-noon-replies-shih-chao-hwei-on-lawsuits-and-taiwan-courts、book4-1992-04-01-li-ao-qiushi-review-ends
+  来源：李敖书启集 / 020.致释昭慧 / line 15
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/020.致释昭慧.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1992-11-01-replies-shih-chao-hwei-on-copyright-and-books
+- 1992年11月2日 | 李敖致萧启庆、王国璎，请为李文申请哈佛写推荐信
+  精度：day；可靠度：reported-by-author；排序日期：1992-11-02
+  摘要：1992年11月2日，李敖致萧启庆、王国璎，先向老友新婚致意并说明因忙碌迟迟未复。他在信中回述女儿李文（Hedy Lee）在自己坐牢时出生，成长中长期往返美国与台湾，如今即将从纽约大学毕业，想继续读研究所，因此请萧启庆为她写哈佛推荐信。信中又回述石守谦几个月前到家中看收藏，并借中央研究院院士选举批评学界。
+  人物：李敖、萧启庆、王国璎、李文、石守谦、陈又亮、丁邦新、张玉法
+  地点：台北、美国、哈佛大学、纽约大学
+  标签：萧启庆、王国璎、李文、Hedy Lee、哈佛推荐信、中央研究院
+  视图：书信线、家庭线、教育线、学界线
+  作品：李敖书启集、致萧启庆王国璎
+  交叉引用：book4-deep-1964-hedy-lee-born-in-us
+  来源：李敖书启集 / 021.致萧启庆王国璎 / line 15
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/021.致萧启庆王国璎.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1992-11-02-writes-xiao-qiqing-wang-guoying-for-hedy-harvard-recommendation
+- 1992年11月10日 | 李敖写《有子三书》，向友人谈李戡出生百日与命名
+  精度：day；可靠度：reported-by-author；排序日期：1992-11-10
+  摘要：1992年11月10日，李敖连续写给潘毓刚、王荣祖、陈平景等三组友人，围绕儿子李戡出生百日、命名和带孩子的变化展开。他在给潘毓刚信中回述3月8日娶妻、8月3日生子，并解释“李戡”之名；在给王荣祖信中回应对方电话里关于珍惜亲子时间的提醒，笑说养小孩近似养小猫；在给陈平景信中又以“戡戡”为小名写下童谣式文字。
+  人物：李敖、李戡、王小屯、潘毓刚、王荣祖、陈平景
+  地点：台北
+  标签：有子三书、李戡、王小屯、潘毓刚、王荣祖、陈平景
+  视图：书信线、家庭线、日常线
+  作品：李敖书启集、有子三书
+  交叉引用：li-ao-shuqiji-1992-08-03-son-li-kan-born、book4-1992-03-08-marries-wang-xiaotun
+  来源：李敖书启集 / 022.有子三书 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/022.有子三书.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1992-11-10-writes-three-letters-about-son-li-kan
+- 1992年11月16日 | 李敖致陈又亮，谈大陆版《北京法源寺》校改问题
+  精度：day；可靠度：reported-by-author；排序日期：1992-11-16
+  摘要：1992年11月16日，李敖致陈又亮，说对方离开台北后，他陆续校看《北京法源寺》大陆版清样。他肯定校者抓出原稿中丁香花、治天下等错误，却也指出有些改动不能接受：例如给“执灯”增“手拿”，以及把谭嗣同的话改成平山周的话，都会破坏作者原意。信末他请陈又亮代谢北京方面“出书共犯”。
+  人物：李敖、陈又亮、谭嗣同、平山周
+  地点：台北、北京
+  标签：陈又亮、北京法源寺、大陆版、清样、校改
+  视图：书信线、出版线、大陆线
+  作品：李敖书启集、致陈又亮、北京法源寺
+  交叉引用：beijing-fayuansi-1991-06-30-published-by-wenxing、beijing-fayuansi-1992-context-renmin-wenxue-authorized-mainland-edition、li-ao-suixielu-qianji-1991-09-07-chen-youliang-visits-and-yehliu-lighthouse
+  来源：李敖书启集 / 023.致陈又亮 / line 15
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/023.致陈又亮.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1992-11-16-writes-chen-youliang-on-mainland-fayuansi-proofing
+- 1992年12月1日 | 李敖致赵天仪，请他出庭为殷海光与台大哲学系事件作证
+  精度：day；可靠度：reported-by-author；排序日期：1992-12-01
+  摘要：1992年12月1日，李敖致赵天仪，告知12月5日上午10时半在博爱路司法大厦台北地方法院第八法庭作证，并请他携带身份证。他在信中说明，这次作证既是历史事件，也是台大哲学系事件的前奏；李敖重读赵天仪《台大哲学系事件真相》后，认为殷海光事件正被胡秋原、台大、警备总部乃至法院文件共同扭曲，他们必须纠正并留下历史记录。
+  人物：李敖、赵天仪、胡秋原、殷海光
+  地点：台北地方法院、博爱路司法大厦、台湾大学
+  标签：赵天仪、胡秋原、殷海光、台大哲学系事件、作证
+  视图：书信线、司法线、教育线、思想线
+  作品：李敖书启集、致赵天仪、台大哲学系事件真相
+  交叉引用：li-ao-suixielu-houji-1992-02-17-hosts-hu-jijun-zhong-weilie-guo-xinsheng-and-recalls-qiushi-work
+  来源：李敖书启集 / 024.致赵天仪 / line 15
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/024.致赵天仪.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1992-12-01-writes-zhao-tianyi-to-testify-on-hu-qiuyuan-case
 - 1992年冬季 | 分别44年后全家第一次大团圆
   精度：season；可靠度：broad；排序日期：1992-12-01
   摘要：姐姐回忆，1992年年底李敖花大笔开销，请大姐和二姐两对夫妻、在美国的四位妹妹及加拿大的小八弟共同聚在台北，完成分别44年后的全家大团圆。
@@ -136998,6 +138727,45 @@
   数据：data/timeline-events-beijing-fayuansi.json#beijing-fayuansi-1992-context-renmin-wenxue-authorized-mainland-edition
 
 1993
+- 1993年1月16日夜 | 李敖夜致汤麟武，谈《北京法源寺》、百万字写作计划与拒见彭明敏
+  精度：day；可靠度：reported-by-author；排序日期：1993-01-16
+  摘要：1993年1月16日夜，李敖致汤麟武，回忆此前读到汤麟武赴意大利领奖前后寄来的诗文，劝他趁生前印成书；又随信送上《北京法源寺》，称这是自己一百多本书中最喜欢的一本。李敖在信中说明自己如今想少理台湾小岛事务，把重点放到中国思想研究，计划六十岁前写成百万字；同信还谈到彭明敏回台后想见他，李敖拒绝见面，认为老朋友分歧已深，不见反比相见好。
+  人物：李敖、汤麟武、彭明敏、吕思勉
+  地点：台北、意大利、台湾
+  标签：汤麟武、北京法源寺、中国思想、百万字计划、彭明敏、吕思勉
+  视图：书信线、出版线、思想线、政治线
+  作品：李敖书启集、致汤麟武、北京法源寺、伏枥存稿
+  交叉引用：beijing-fayuansi-1991-06-30-published-by-wenxing、li-ao-shuqiji-1992-11-01-replies-shih-chao-hwei-on-copyright-and-books、li-ao-suixielu-houji-1992-02-25-records-peng-mingmin-la-press-conference-and-worries-being-used
+  来源：李敖书启集 / 025.致汤麟武 / line 37
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/025.致汤麟武.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1993-01-16-night-writes-tang-linwu-on-fayuansi-million-words-and-peng
+- 1993年1月21日 | 李敖致台北市政府新闻处，请证明自己已非李敖出版社发行人
+  精度：day；可靠度：reported-by-author；排序日期：1993-01-21
+  摘要：1993年1月21日，李敖致台北市政府新闻处，要求出具证明：自1988年10月22日起，李敖出版社的发行人与出版人已非李敖。信中他回述1987年《孙中山研究》案被移送台北地检处时，为免王自义无辜受牵连，自己曾出面担任出版人处理政府“政骚扰”；案结后又辞去出版人，登记改由黄菊文担任。如今胡秋原诉讼中法官施俊尧仍误认他是李敖出版社和《求是》的发行人，李敖因此索取正式证明。
+  人物：李敖、王自义、黄菊文、胡秋原、郑忠仁、唐启明、施俊尧
+  地点：台北市政府新闻处、台北地检处、台北
+  标签：李敖出版社、政骚扰、孙中山研究、王自义、黄菊文、胡秋原
+  视图：书信线、司法线、出版线
+  作品：李敖书启集、政骚扰、孙中山研究、求是
+  交叉引用：li-ao-shuhanji-letterbox-1987-10-10-reads-united-daily-sun-yat-sen-case-transferred、li-ao-shuhanji-letterbox-1987-11-24-writes-prosecutor-zheng-zhongren-to-resign
+  来源：李敖书启集 / 026.政骚扰 / line 35
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/026.政骚扰.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1993-01-21-writes-news-office-for-li-ao-publishing-registration-proof
+- 1993年2月7日 | 李敖给翟宗泉写信，要求监察院拿具体司法黑资料办案
+  精度：day；可靠度：reported-by-author；排序日期：1993-02-07
+  摘要：1993年2月7日，李敖给监察委员翟宗泉写信，说自己2月2日读报得知翟宗泉、张德铭拟弹劾法官任鸣钜，对此既佩服又意外。李敖随即提出首席检察官石明江和最高法院数名法官涉嫌违法滥权的材料，劝翟宗泉不要找张德铭这种恨李敖的人，而应拿一个具体案子“天马落地”，真正让监察权办出样子。
+  人物：李敖、翟宗泉、张德铭、任鸣钜、石明江、蒋嵘华、郑汉龙、丁锦清、黄聪明、刘敬一
+  地点：台湾、监察院
+  标签：翟宗泉、监察院、弹劾、司法黑资料、张德铭、任鸣钜
+  视图：书信线、司法线、政治线
+  作品：李敖书启集、给翟宗泉的一封信、李登辉的真面目
+  交叉引用：-
+  来源：李敖书启集 / 027.给翟宗泉的一封信 / line 13
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/027.给翟宗泉的一封信.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1993-02-07-writes-zhai-zongquan-on-impeaching-judges
 - 1993年2月22日星期一 | 张桂贞诉台中市政府国家赔偿案最高法院定谳胜诉
   精度：day；可靠度：confirmed；排序日期：1993-02-22
   摘要：《闹衙纪》写，最高法院法官范秉阁、苏茂秋、李琼荫、张福安、吴启宾于1993年2月22日驳回林柏榕上诉，张桂贞诉台中市政府藏书查扣案历时五年七个月后终告胜利。
@@ -137011,6 +138779,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/018.闹衙纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1993-02-22-taichung-state-compensation-final-win
+- 1993年2月25日 | 李敖致《民众日报》李瑞标，并附《林柏榕听好！》追打张桂贞赔偿案
+  精度：day；可靠度：reported-by-author；排序日期：1993-02-25
+  摘要：1993年2月25日，李敖致《民众日报》李瑞标，指出该报2月24日《李敖的妈胜诉》只听台中市政府说法而失准，请报社全文刊登他所附的《林柏榕听好！》作为更正。附件中，李敖以张桂贞代理人身份回述台中市政府五年七个月前非法搜索宿舍、查扣一万四千七百零八本书，如今最高法院定谳败诉；他又以台中一中旧同学身份致林柏榕，要求三日内赔偿，并警告若拖延将申请强制执行，甚至查封市长办公室。
+  人物：李敖、李瑞标、张桂贞、林柏榕、吴丰山
+  地点：台中市政府、台中、民众日报
+  标签：民众日报、李瑞标、张桂贞、林柏榕、台中市政府、国家赔偿
+  视图：书信线、司法线、家庭线、媒体线
+  作品：李敖书启集、致《民众日报》李瑞标、林柏榕听好！
+  交叉引用：book5-1993-02-22-taichung-state-compensation-final-win、book5-1993-02-25-demand-letter-to-lin-bairong
+  来源：李敖书启集 / 028.致《民众日报》李瑞标 / line 9
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/028.致《民众日报》李瑞标.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1993-02-25-writes-minzhong-daily-and-lin-bairong-on-zhang-guizhen-case
 - 1993年2月25日星期四 | 李敖写催告函要求台中市政府赔偿张桂贞
   精度：day；可靠度：confirmed；排序日期：1993-02-25
   摘要：《闹衙纪》写，张桂贞案定谳后，李敖于1993年2月25日写催告函给台中市长林柏榕，要求三日内依法赔偿，并警告若拖延将申请强制执行。
@@ -137115,6 +138896,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/019.口诛（1993-·58岁至今）.txt
   数据：data/timeline-events-fourth-book.json#book4-1993-06-07-breakfast-finalizes-soochow-job
+- 1993年8月10日 | 李敖复刘峰松，寄回《我是真正台湾人》校样并劝勿从政
+  精度：day；可靠度：reported-by-author；排序日期：1993-08-10
+  摘要：1993年8月10日，李敖复刘峰松，寄回《我是真正台湾人》校样，认为只需一纸勘误便可。他在信中借翁同龢“五不居士”说自己也差不多，只是可把“不入城”改成“不出城”；又劝刘峰松不要从政，称二人有坐牢交情，谈话无忌，可以避免大错。刘峰松原信则补明这篇文字来自1992年5月9日李敖在北县文化中心县民大学的同题演讲。
+  人物：李敖、刘峰松、翁同龢
+  地点：台北、北县文化中心
+  标签：刘峰松、我是真正台湾人、校样、县民大学、政治劝告
+  视图：书信线、出版线、政治线、演讲线
+  作品：李敖书启集、复刘峰松、我是真正台湾人
+  交叉引用：li-ao-shuqiji-1992-05-09-speaks-at-taipei-county-cultural-center-true-taiwanese
+  来源：李敖书启集 / 029.复刘峰松 / line 11
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/029.复刘峰松.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1993-08-10-replies-liu-fengsong-on-proof-and-politics
 - 1993年9月16日星期四 | 美国《侨报》报道章孝慈聘李敖任教
   精度：day；可靠度：confirmed；排序日期：1993-09-16
   摘要：《口诛》章追列海外舆论，1993年9月16日美国《侨报》以《章孝慈聘李敖任教、决建东吴为具人文精神大学》为题，报道东吴聘李敖与章孝慈办学理念的关系。
@@ -137206,6 +139000,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/019.口诛（1993-·58岁至今）.txt
   数据：data/timeline-events-fourth-book-deepening.json#book4-deep-1993-10-21-nanyang-reprints-lonely-wolf
+- 1993年10月27日 | 李敖给台大校长陈维昭公开信，要求追查党化教育与台大用人污点
+  精度：day；可靠度：reported-by-author；排序日期：1993-10-27
+  摘要：1993年10月27日，李敖写给台湾大学校长陈维昭的公开信。读到10月24日报上报道陈维昭称台大要调查哲学系事件、洗清“污点”后，李敖在信中肯定其学术自由勇气，却批评方向仍不足：台大哲学系事件本质是国民党内斗与党化教育控制大学，真正污点不只在被请来又赶走的人，也在第一流人物被挡在门外。李敖借章孝慈请他到东吴任教一事，反问台大为何任他从母校漂走。
+  人物：李敖、陈维昭、章孝慈、胡适
+  地点：台湾大学、东吴大学、台北
+  标签：台湾大学、陈维昭、台大哲学系事件、党化教育、章孝慈、东吴大学
+  视图：书信线、教育线、政治线、思想线
+  作品：李敖书启集、给台大校长的公开信
+  交叉引用：li-ao-shuqiji-1992-01-31-writes-sun-zhen-for-ntu-graduate-study-certificate、book4-1993-06-07-breakfast-finalizes-soochow-job、book4-1993-09-21-first-soochow-class、book4-1993-10-27-letter-to-zhang-xiaoci
+  来源：李敖书启集 / 030.给台大校长的公开信 / line 21
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/030.给台大校长的公开信.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1993-10-27-open-letter-to-ntu-president-chen-weizhao
 - 1993年10月27日星期三 | 李敖致信章孝慈谈东吴之缘与校园乐趣
   精度：day；可靠度：confirmed；排序日期：1993-10-27
   摘要：李敖于1993年10月27日致信章孝慈，婉拒东吴音乐会邀请，又写到自己来到东吴后“独步后山、独遁书库”的山林与学术之乐，并称若不被解聘，或将终老于斯。
@@ -137245,6 +139052,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/005.大寒纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1993-11-19-wang-zuorong-banquet-at-tianchu
+- 1993年11月20日 | 李敖写信责王晓波，要求其为殷海光旧案出庭作证
+  精度：day；可靠度：reported-by-author；排序日期：1993-11-20
+  摘要：1993年11月20日，李敖以“敖哥”名义写《大义责王晓波》。他在信中回述多年不理王晓波，是因不满其背离殷海光、投奔胡秋原；又说自己重检橱中“王晓波档”时，仍想到三十年前真纯好辩的旧友和台风夜在自己家下棋的往事，但无法抵消对“老友变节”的决绝。当前胡秋原案转入民庭，李敖决定请王晓波出庭作证；律师陈良榘前一日转告法官会发传票后，李敖特写此信，要求王晓波12月17日上午到高等法院第二十法庭。
+  人物：李敖、王晓波、殷海光、胡秋原、陈良榘、赵天仪
+  地点：台北、高等法院
+  标签：王晓波、殷海光、胡秋原、证人、高等法院
+  视图：书信线、司法线、殷海光线、人际线
+  作品：李敖书启集、大义责王晓波
+  交叉引用：li-ao-shuqiji-1992-12-01-writes-zhao-tianyi-to-testify-on-hu-qiuyuan-case、li-ao-shuzhaji-1983-06-21-mountain-waist-writes-jinli-refuting-wang-xiaobo-shame-not-enough、qianqiu-wansui-1989-09-05-102-writes-evidence-of-hu-qiuyuan-persecution
+  来源：李敖书启集 / 031.大义责王晓波 / line 15
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/031.大义责王晓波.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1993-11-20-writes-wang-xiaobo-to-testify-for-yin-haiguang-case
 - 1993年11月26日，在台湾 | 李敖在台湾为陈复书写序
   精度：day；可靠度：undefined；排序日期：1993-11-26
   摘要：李敖在台湾为陈复书写序《复瓿书成空自苦，击辕歌罢遣谁听》。他从作家早死、美女早熟而都不宜早走下笔，劝陈复不必急于把青年文字当成定本；他把这本书定位为年轻一代用功、见解和文字能力的材料，认为可供相近年龄的读者一读。
@@ -137258,6 +139078,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/003.李敖书序集续集/015.复瓿书成空自苦，击辕歌罢遣谁听.txt
   数据：data/timeline-events-li-ao-shuxuji-xuji.json#li-ao-shuxuji-xuji-1993-11-26-writes-preface-for-chen-fu-in-taiwan
+- 1993年12月16日 | 李敖在家信中记李戡会走路，又回述前一天和小屯哄孩子
+  精度：day；可靠度：reported-by-author；排序日期：1993-12-16
+  摘要：1993年12月16日，李敖在给大姐的信末写家中日常：李戡已经会摇摆走路，起初高举双臂保持平衡，如今微垂双臂即可，走路时两条短腿交互前进，从背后看尤其有趣。李敖又在信中回述前一天，自己和小屯坐在沙发上任李戡大哭不理，李戡边哭边走来却不示弱，反而推护栏，最后二人只好过去哄他。
+  人物：李敖、李戡、王小屯
+  地点：台北、家中
+  标签：李戡、王小屯、家庭日常、育儿
+  视图：家庭线、书信线、生活线
+  作品：李敖书启集、兔子腿买不买
+  交叉引用：li-ao-shuqiji-1992-08-03-son-li-kan-born、li-ao-shuqiji-1992-11-10-writes-three-letters-about-son-li-kan
+  来源：李敖书启集 / 032.兔子腿买不买 / line 33
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/032.兔子腿买不买.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1993-12-16-family-letter-records-li-kan-walking-and-temper
+- 1993年12月16日 | 李敖给大姐李珉信，笑谈猎兔照并安排大陆出版授权
+  精度：day；可靠度：reported-by-author；排序日期：1993-12-16
+  摘要：1993年12月16日，李敖清早写给大姐李珉和大姐夫。他在信中先看到大姐在哈尔滨雪地猎兔照片后，笑称除即时赞赏外，又在信中联想到“兔子腿买不买”的笑话，并半开玩笑判断兔子可能是事先带去雪场的活兔。随后他谈大陆出版安排：过去一直委由陈又亮代办且分文不拿，近年两岸通了，他想把制度化工作交给大姐接手，所得由大姐、二姐对分；并就云南出版社王继锋的问题逐条授权，愿为大陆版写新序、提供照片配图，也说自己“哪儿都懒得去，只想老死台湾”。
+  人物：李敖、李珉、陈又亮、王继锋、程志方
+  地点：台北、哈尔滨、云南
+  标签：李珉、大陆出版、云南出版社、陈又亮、李敖全集、猎兔照
+  视图：书信线、出版线、家庭线、大陆线
+  作品：李敖书启集、兔子腿买不买、李敖全集、中国性命研究
+  交叉引用：li-ao-shuqiji-1992-11-16-writes-chen-youliang-on-mainland-fayuansi-proofing
+  来源：李敖书启集 / 032.兔子腿买不买 / line 41
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/032.兔子腿买不买.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1993-12-16-writes-li-min-on-mainland-publishing-and-rabbit-photo
 - 1993年 | 李敖借海地难民例子提出“第一流知识分子唯恐中国大乱”
   精度：year；可靠度：confirmed；排序日期：1993-12-31
   摘要：《唯恐中国大乱》写，1993年李敖借海地难民被美国海岸警卫队拦回的例子，批评那些整天唱衰中国、唯恐中国不乱的人，并明确提出“第一流知识分子唯恐中国大乱”。这条材料可看作他九十年代处理中美与中国秩序问题的一次凝练表达。
@@ -137299,6 +139145,45 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/019.口诛（1993-·58岁至今）.txt
   数据：data/timeline-events-fourth-book.json#book4-1994-05-23-zhang-xiaoci-los-angeles-interview-on-soochow-hiring
+- 1994年6月26日 | 李敖与何炳棣见面长谈四个半小时，夜归后读何文
+  精度：day；可靠度：reported-by-author；排序日期：1994-06-26
+  摘要：1994年6月26日，据次日信中回述，李敖与何炳棣一见面即对坐畅谈，从下午4点谈到8点半，四个半小时不喝水不小便。近晚上10点半分手后，李敖11点抵家，先读何炳棣《读史阅世六十年，胡适之先生杂忆》，并特别注意其文末对胡适历史地位的论断和“认真讨论”傅斯年、丁文江、胡适旧事的细节。
+  人物：李敖、何炳棣、胡适、傅斯年、丁文江
+  地点：台北
+  标签：何炳棣、胡适、读史阅世六十年、会面长谈
+  视图：书信线、学术线、胡适线、交游线
+  作品：李敖书启集、对何炳棣先生“认真的讨论”的讨论、读史阅世六十年，胡适之先生杂忆
+  交叉引用：daxue-houqi-jia-1958-09-20-sends-four-page-letter-to-hu-shih
+  来源：李敖书启集 / 033.对何炳棣先生“认真的讨论”的讨论 / line 5
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/033.对何炳棣先生“认真的讨论”的讨论.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1994-06-26-meets-he-bingdi-and-reads-hu-shih-memoir-at-night
+- 1994年6月27日午 | 李敖午间致何炳棣，校正胡适、傅斯年、丁文江史料异文
+  精度：day；可靠度：reported-by-author；排序日期：1994-06-27
+  摘要：1994年6月27日午，李敖写给何炳棣，围绕何文中“认真的讨论”再做讨论。他在信中指出，何炳棣可能因多看李济、李先谟父子的记录而“上了当”，胡适1952年《傅孟真先生遗著序》和傅斯年1936年《我所认识的丁文江先生》更能校正“要杀丁文江”一事的口气与场景。李敖又说当天早上读何炳棣《华北原始土地耕作方式》后赞叹“体大思精”，并对何文《从爱的起源和性质初测〈红楼梦〉在世界文学史上应有的地位》提出程颐原语引号和“极”字的校订意见。
+  人物：李敖、何炳棣、胡适、傅斯年、丁文江、李济、李先谟、程颐
+  地点：台北
+  标签：何炳棣、胡适、傅斯年、丁文江、史料校订、红楼梦
+  视图：书信线、学术线、胡适线、考据线
+  作品：李敖书启集、对何炳棣先生“认真的讨论”的讨论、傅孟真先生遗著序、我所认识的丁文江先生、华北原始土地耕作方式、红楼梦
+  交叉引用：daxue-houqi-jia-1958-09-20-sends-four-page-letter-to-hu-shih
+  来源：李敖书启集 / 033.对何炳棣先生“认真的讨论”的讨论 / line 49
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/033.对何炳棣先生“认真的讨论”的讨论.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1994-06-27-noon-writes-he-bingdi-on-hu-shih-ding-wenjiang-source-corrections
+- 1994年7月10日 | 李敖答陈复，说明自己对人冷淡、量笑而为与“偷笑”
+  精度：day；可靠度：reported-by-author；排序日期：1994-07-10
+  摘要：1994年7月10日，李敖写《从“冷淡”到“偷笑”》给陈复。针对李雪菱说李敖笑容“意思意思”，他在信中判断这种观察颇敏锐，并解释自己对人评价不高，见对方友善前来，只好“量笑而为”。他又在信中回首近三十年前齐世英请他与杜维明吃饭后谈青年变化一事，借此说交朋友太累，自己连“意思意思”都吝于为之；最后说明他的冷淡也是一种法门，有慧根者仍能得到“不言之教”，而他从不对人太好，反倒常常“偷笑”。
+  人物：李敖、陈复、李雪菱、齐世英、杜维明、殷海光
+  地点：台北
+  标签：陈复、李雪菱、冷淡、偷笑、齐世英、杜维明
+  视图：书信线、思想线、人际线、自述线
+  作品：李敖书启集、从“冷淡”到“偷笑”、北京法源寺、约翰生传
+  交叉引用：li-ao-shuxuji-xuji-1993-11-26-writes-preface-for-chen-fu-in-taiwan
+  来源：李敖书启集 / 034.从“冷淡”到“偷笑” / line 13
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/034.从“冷淡”到“偷笑”.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1994-07-10-replies-chen-fu-on-coldness-smile-and-secret-laughter
 - 1994年7月25日星期一 | 写定《我最难忘的一个国特》
   精度：day；可靠度：confirmed；排序日期：1994-07-25
   摘要：《我最难忘的一个国特》开篇署1994年7月25日，李敖汇集乔家才来信、沈醉说明和《乔家才入狱记》等文献，纪念这位国民党特工将军。
@@ -137338,6 +139223,45 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/019.口诛（1993-·58岁至今）.txt
   数据：data/timeline-events-fourth-book.json#book4-1994-08-15-zhang-xiaoci-huashi-speech-defends-hiring-li
+- 1994年8月17日晨8时 | 李敖晨间寄陈依玫，批自立卖报系事件中吴丰山未被丢鸡蛋
+  精度：day；可靠度：reported-by-author；排序日期：1994-08-17
+  摘要：1994年8月17日晨8时，李敖匆写《吴丰山与鸡蛋》寄陈依玫。他在信中先说自己平常不看自立报系的报，因为办得太烂，但这两天倒买了一两份，看看开天窗或同室操戈；读报得知自立员工因自立卖给财阀而向高清愿方面丢五百个鸡蛋后，他在信中奇怪吴丰山在整场“悲情活动”中哪里去了，并判断吴丰山兄弟若拒卖，高清愿也卖不成。李敖借此劝陈依玫不要再糊涂，噩梦醒来应转业新生。
+  人物：李敖、陈依玫、吴丰山、高清愿
+  地点：台北、自立报系
+  标签：陈依玫、吴丰山、自立报系、高清愿、鸡蛋、报格
+  视图：书信线、媒体线、政治线、人际线
+  作品：李敖书启集、吴丰山与鸡蛋、自立晚报
+  交叉引用：li-ao-suixielu-qianji-1991-12-10-notes-independent-evening-post-sex-ads-and-wu-fengshan、li-ao-suixielu-houji-1991-12-28-clips-china-times-independent-morning-post-layoffs-wu-fengshan
+  来源：李敖书启集 / 036.吴丰山与鸡蛋 / line 17
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/036.吴丰山与鸡蛋.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1994-08-17-morning-writes-chen-yimei-on-wu-fengshan-and-zili-eggs
+- 1994年8月18日 | 李敖致金兰AB座邻居，拒再负责管理并委托张牙医投票
+  精度：day；可靠度：reported-by-author；排序日期：1994-08-18
+  摘要：1994年8月18日，李敖因当晚AB座会议不能前来，特写《致AB座邻居》。他要求全面改选管理委员，做过的都不再做；若不全面改选或仍选出他负责，他先声明绝不干，称这几年自己任劳任怨、花钱、挨告，也看够了邻居的无情无义和风凉话。李敖又建议由从未做过管理委员的邻居负责今后AB座事务，并点名11A座何将军、8B座裴夫人等“名门大家”可负责管理；当晚如有投票，则委托12A座张牙医代投，张的意见就是他的意见。
+  人物：李敖、何世礼、裴夫人、张牙医
+  地点：金兰大厦、AB座、台北
+  标签：金兰大厦、AB座、管理委员、张牙医、何世礼、裴夫人
+  视图：书信线、金兰线、生活线、法律线
+  作品：李敖书启集、致AB座邻居
+  交叉引用：li-ao-shuqiji-1992-07-03-proposes-jinlan-three-association-solution、li-ao-shuqiji-1992-08-31-replies-cd-council-underground-castle-question
+  来源：李敖书启集 / 037.致AB座邻居 / line 19
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/037.致AB座邻居.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1994-08-18-writes-ab-neighbors-refuses-jinlan-management-reelection
+- 1994年8月21日 | 李敖致程国强，以一千元赙仪回应程烈四十年前旧情
+  精度：day；可靠度：reported-by-author；排序日期：1994-08-21
+  摘要：1994年8月21日，李敖写《千元相映，两代情深》给程国强。程国强父亲程烈去世，李敖在信中回忆1955年自己父亲去世时，程烈与高惜冰各送一千元巨金，确实帮了遗下妇孺的大忙；如今他本想送高额赙金以尚往还，但转而想到程国强在国民党政权中不需“助生送死之礼”，于是决定只送一千元，以彰显程烈四十年前疏财报师之情和国民党四十年来币制贬值之酷。李敖又在信中笑称自己死后此信或可拍卖数十万元，并把程国强寄来的讣告留作现代丧礼史料。
+  人物：李敖、程国强、程烈、高惜冰、李鼎彝、施启扬、石永贵
+  地点：台北、三军总医院、三芝
+  标签：程国强、程烈、赙仪、丧礼史料、币制贬值
+  视图：书信线、家庭线、人际线、历史线
+  作品：李敖书启集、千元相映，两代情深
+  交叉引用：qianqiu-wansui-1989-12-09-context-092-cheng-guoqiang-classmates-gathering、qianqiu-wansui-1989-12-09-092-writes-floating-life-note
+  来源：李敖书启集 / 038.千元相映，两代情深 / line 7
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/038.千元相映，两代情深.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1994-08-21-writes-cheng-guoqiang-one-thousand-condolence-and-keeps-obituary
 - 1994年8月27日星期六 | 李敖写长信给彭明敏、谢聪敏、魏廷朝作最后劝告
   精度：day；可靠度：confirmed；排序日期：1994-08-27
   摘要：《彭尸纪》写，李敖在1994年8月23日读到彭明敏文章后，于8月27日写长信给彭、谢、魏三人，针对“台湾人民自救宣言”三十周年纪念的政治表述提出严肃劝告。
@@ -137351,6 +139275,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/013.彭尸纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1994-08-27-li-final-advice-to-peng-hsieh-wei
+- 1994年9月13日 | 李敖到华城强制执行现场，指出钟惠璇卡片并质疑段宏俊空言
+  精度：day；可靠度：reported-by-author；排序日期：1994-09-13
+  摘要：1994年9月13日，台北地院就新店华城一路20号房地强制执行。李敖在9月21日函中回述，段宏俊带众到场、口头声言有种种权利，并称其中两间已租给他人八年；李敖则向法官黄小莹指出，所谓房客空房垃圾堆中有一张闪亮卡片，上有“钟惠璇”之名。法官拾起验明后转问段宏俊为何“房客”房中有此物件，段宏俊语塞。随后黄小莹仍依段宏俊要求将其中两间关起、暂不纳入强制执行，李敖和律师陈良榘一再提醒此举可能违反强制执行法。
+  人物：李敖、王志慧、黄小莹、段宏俊、钟惠璇、郑家玉、陈良榘
+  地点：台北县新店市、华城一路20号、台北地方法院
+  标签：华城、强制执行、黄小莹、段宏俊、钟惠璇、陈良榘
+  视图：司法线、书信线、家庭线、地产线
+  作品：李敖书启集、为法官黄小莹执法偏颇质国民党司法院长施启扬函
+  交叉引用：li-ao-wuwu-diary-1990-11-05-huacheng-house-viewing-and-lin-xiling-message、qianqiu-wansui-1989-07-04-144-writes-lesson-for-duan-hongjun
+  来源：李敖书启集 / 039.为法官黄小莹执法偏颇质国民党司法院长施启扬函 / line 17
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/039.为法官黄小莹执法偏颇质国民党司法院长施启扬函.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1994-09-13-huacheng-enforcement-scene-points-out-zhong-huixuan-card
+- 1994年9月21日 | 李敖致司法院长施启扬，质疑黄小莹在华城执行案偏颇
+  精度：day；可靠度：reported-by-author；排序日期：1994-09-21
+  摘要：1994年9月21日，李敖写最速件《为法官黄小莹执法偏颇质国民党司法院长施启扬函》，受文者为司法院院长施启扬，副本给台北地院院长胡致中与法官黄小莹。信中他先以“启扬老同学”相称，提醒施启扬任司法院长审查时曾因自己揭发的《施启扬要红包》被国大代表质问；随后详列王志慧购得华城房地、3月24日和解、5月21日到期不迁、8月18日履勘和9月13日执行受阻的经过，指黄小莹曲意袒护段宏俊。李敖要求施启扬督促地院依法处理，并警告若失职将循中外舆论与监察院争回公道；后记称信发出并副知黄小莹后，段宏俊终于被赶走。
+  人物：李敖、施启扬、黄小莹、胡致中、王志慧、段宏俊、钟惠璇、陈良榘
+  地点：司法院、台北地方法院、台北县新店市、华城一路20号
+  标签：施启扬、黄小莹、胡致中、华城、段宏俊、王志慧、强制执行
+  视图：司法线、书信线、家庭线、政治线
+  作品：李敖书启集、为法官黄小莹执法偏颇质国民党司法院长施启扬函、施启扬要红包
+  交叉引用：li-ao-shuqiji-1994-09-13-huacheng-enforcement-scene-points-out-zhong-huixuan-card、li-ao-shuduji-1987-02-27-night-writes-shi-qiyang-good-friends-fade-away、book3-1969-01-26-li-gives-shi-encyclopedia
+  来源：李敖书启集 / 039.为法官黄小莹执法偏颇质国民党司法院长施启扬函 / line 27
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/039.为法官黄小莹执法偏颇质国民党司法院长施启扬函.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1994-09-21-writes-shi-qiyang-over-judge-huang-xiaoying-enforcement-bias
 - 1994年9月22日 | 李敖作《李敖随写录后集》自序，称后集为随写“曲终奏雅”
   精度：day；可靠度：confirmed；排序日期：1994-09-22
   摘要：1994年9月22日，李敖刚写完《李敖随写录前集》自序，又写《李敖随写录后集》自序。他在自序中回看王荣文八年前借詹宏志之笔提出的“古典李敖、当代李敖、未来李敖”分期，认为把自己分成“过去李敖”和“未来李敖”更贴切；自《北京法源寺》问世后，他说自己的写作方向已朝“世界性、永恒性的大手笔”扭转，主力转移到这一方向。李敖据此把《李敖随写录前集》《李敖随写录后集》的出版看作追念“过去李敖”的曲终奏雅，又说明后集后半部多为未发表文字，原拟供《李敖求是评论》第七期使用，并表示余生大概不会再花这么多时间写这么多随写。 
@@ -137429,6 +139379,19 @@
   补充来源：李敖大哥大 / 059.台大校长不要脸 / line 59
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/004.台大校长不要脸.txt
   数据：data/timeline-events-li-ao-zawenji.json#li-ao-zawenji-1994-after-apr-17-asks-chen-weizhao-testify-yin-haiguang-case
+- 1994年8月 | 李敖嘱苦苓联系龙云翔，并劝其分时间写“大书”
+  精度：month-context；可靠度：reported-by-author；排序日期：1994-08
+  摘要：1994年8月，李敖写《嘱苦苓老弟》给苦苓。他在信中说苦苓上月5日送来的书和信都已收到，又把台中电视访问因对方舍不得花钱而暂作罢，看成给电视台一个教训。李敖还转达律师龙云翔来信：西区狮子会想请苦苓演讲，请苦苓复电；随后他在信中判断苦苓不宜把全部时间投入抛头露面和写小册子式的书，应分出时间写完整“大书”，并说自己行年六十，自发表《北京法源寺》起已朝此方向转进。
+  人物：李敖、苦苓、龙云翔
+  地点：台北、台中
+  标签：苦苓、龙云翔、西区狮子会、演讲、北京法源寺、大书
+  视图：书信线、文学线、演讲线、人际线
+  作品：李敖书启集、嘱苦苓老弟、北京法源寺
+  交叉引用：bobo-song-1986-07-26-introduce-tuosiji、bobo-song-1990-06-01-introduce-tuosiji-note
+  来源：李敖书启集 / 035.嘱苦苓老弟 / line 13
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/035.嘱苦苓老弟.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1994-08-writes-kuling-on-lions-club-talk-and-big-books
 - 约1994年前后（无署日广告词） | 李敖为桂冠版李敖、殷海光、雷震著作写广告词
   精度：undated-context；可靠度：undefined；排序日期：1994-12-31
   摘要：《桂冠出版李敖殷海光雷震著作之广告词》未署日期，李敖以“救主义的主义只有自由主义”概括桂冠版雷震、殷海光、李敖著作的意义，称自由主义从胡适立命的北京，到雷震、殷海光亡命的台北，最后由李敖总其成并“戴上思想的桂冠”。本条按桂冠出版期前后的广告写作和出版推广处理。
@@ -137457,6 +139420,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/019.口诛（1993-·58岁至今）.txt
   数据：data/timeline-events-fourth-book.json#book4-1995-02-13-letter-to-soochow-history-faculty
+- 1995年2月15日 | 李敖接受中视采访义助章孝慈，播出前得知节目被封杀
+  精度：day；可靠度：reported-by-author；排序日期：1995-02-15
+  摘要：1995年2月15日，李敖因义助章孝慈一事接受中视采访。记者周慧婷上午10点50分电传来信，下午4点她与摄影记者朱兴一到李敖处录影，并言明当晚播出；不料播出前半小时，周慧婷来电道歉，私下告诉李敖节目被总经理石永贵封杀。李敖在电话中劝她不要难过，说自己对被封杀经验老到，已司空见惯；他本想写信向吴俊才抗议，但在信中回述自己转念怕中视对周、朱不利，因而暂时忍下，也没对外提起。
+  人物：李敖、周慧婷、朱兴一、石永贵、吴俊才、章孝慈
+  地点：台北、中视
+  标签：中视、周慧婷、朱兴一、石永贵、吴俊才、章孝慈、封杀
+  视图：媒体线、书信线、东吴线、政治线
+  作品：李敖书启集、致吴俊才论石永贵的嘴脸
+  交叉引用：book4-1995-03-05-art-auction-for-zhang-xiaoci-fund、book4-1995-04-04-donates-to-zhang-xiaoci-and-launches-chiang-book、book4-1994-11-14-zhang-xiaoci-brain-hemorrhage
+  来源：李敖书启集 / 040.致吴俊才论石永贵的嘴脸 / line 7
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/040.致吴俊才论石永贵的嘴脸.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1995-02-15-ctv-records-li-helping-zhang-xiaoci-and-is-blocked
+- 1995年2月22日晨 | 李敖晨间致吴俊才，抗议石永贵封杀中视报道并追述旧怨
+  精度：day；可靠度：reported-by-author；排序日期：1995-02-22
+  摘要：1995年2月22日晨，李敖写《致吴俊才论石永贵的嘴脸》。前一日报纸登出中视总经理石永贵封杀“李敖义助章孝慈”新闻，且中视大员以没有文物画面、无新闻价值护航，李敖在信中向吴俊才说明事实不符：周慧婷、朱兴一不但拍回文物画面，还顺便带一组给吴俊才。李敖又在信中回想十五年前石永贵主持《新生报》时用《“厉獒”惊梦》漫画诽谤自己，五年前主持《中央日报》时又拒绝更正诽谤文字；因此他劝吴俊才采取行动，至少不要被石永贵反噬。
+  人物：李敖、吴俊才、石永贵、周慧婷、朱兴一、章孝慈、楚崧秋
+  地点：台北、中视、东吴大学
+  标签：吴俊才、石永贵、中视、章孝慈、中央日报、新生报、封杀
+  视图：媒体线、书信线、政治线、东吴线
+  作品：李敖书启集、致吴俊才论石永贵的嘴脸、厉獒惊梦、中央日报
+  交叉引用：li-ao-shuqiji-1995-02-15-ctv-records-li-helping-zhang-xiaoci-and-is-blocked、li-ao-wuwu-diary-1990-08-21-misses-shi-yonggui-complaint-hearing-and-receives-press-council-call、li-ao-wuwu-diary-1991-01-10-shi-yonggui-acquittal-record、book4-1976-07-23-baoanchu-car-takes-li-to-talks、book4-1993-09-21-first-soochow-class
+  来源：李敖书启集 / 040.致吴俊才论石永贵的嘴脸 / line 19
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/040.致吴俊才论石永贵的嘴脸.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1995-02-22-morning-writes-wu-juncai-protesting-shi-yonggui-ctv-blockade
 - 1995年3月5日星期日 | 传家艺术公司举行李敖珍藏精品拍卖会
   精度：day；可靠度：confirmed；排序日期：1995-03-05
   摘要：姐姐回忆，1995年3月5日传家艺术公司为章孝慈募集医疗费举行李敖珍藏精品拍卖会，她在现场看到李敖半主持拍卖，谈笑介绍藏品。
@@ -137548,6 +139537,58 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/006.李敖秘藏日记/017.李登辉对谁而发.txt
   数据：data/timeline-events-li-ao-micang-diary.json#micang-diary-1995-05-04-records-lee-teng-hui-integrity-dispute
+- 1995年5月13日（据5月14日报道反推） | 李敖在地检署与秦孝仪打官司，成为未赴邓丽君灵堂的不在场证明
+  精度：day；可靠度：reported-by-author；排序日期：1995-05-13
+  摘要：1995年5月14日报纸报道李敖前一日到邓丽君灵堂吊祭。李敖次日更正时指出，事实上自己在同一天同一时段正在地检署跟秦孝仪打官司，法院记录就是证明；他借法律上的 ALIBI 说明自己不可能同时周旋于灵堂与法院之间。这条按李敖5月15日信中提出的不在场证明，反推其5月13日的司法现场。
+  人物：李敖、秦孝仪、邓丽君
+  地点：地检署、台北
+  标签：秦孝仪、邓丽君、地检署、不在场证明、媒体误报
+  视图：司法线、媒体线、书信线
+  作品：李敖书启集、我与邓丽君
+  交叉引用：li-ao-fangtanlu-2000-07-26-wins-qin-xiaoyi-defamation-compensation、book4-1995-02-13-letter-to-soochow-history-faculty
+  来源：李敖书启集 / 041.我与邓丽君 / line 9
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/041.我与邓丽君.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1995-05-13-prosecutors-office-qin-xiaoyi-alibi-during-teresa-teng-funeral-report
+- 1995年5月15日 | 李敖致多家媒体更正，否认前往邓丽君灵堂吊祭
+  精度：day；可靠度：reported-by-author；排序日期：1995-05-15
+  摘要：1995年5月15日，李敖写《我与邓丽君》给《中国时报》《民生报》《自立早报》《民众日报》和 TVBS，要求依《出版法》一字不改更正。前一天媒体称他最早到邓丽君灵堂、默默伫立致哀；李敖在信中说明自己十多年不参加婚丧喜庆，六十岁生日被朋友硬拉到圆山饭店祝寿是唯一例外。他还说自己与邓丽君素昧平生、路线也南辕北辙，媒体把他跑去吊丧写成事实，离谱到必须更正。5月17日附记中，他又记录邓丽君治丧委员会名单没有列他，认为或与抗议更正有关。
+  人物：李敖、邓丽君、宋楚瑜、胡志强
+  地点：台北、圆山大饭店
+  标签：邓丽君、媒体更正、出版法、婚丧喜庆、TVBS、治丧委员会
+  视图：媒体线、书信线、生活线
+  作品：李敖书启集、我与邓丽君、中国时报、民生报、自立早报、民众日报
+  交叉引用：li-ao-shuqiji-1995-05-13-prosecutors-office-qin-xiaoyi-alibi-during-teresa-teng-funeral-report
+  来源：李敖书启集 / 041.我与邓丽君 / line 15
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/041.我与邓丽君.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1995-05-15-writes-media-correction-denying-teresa-teng-funeral-visit
+- 1995年5月23日 | 李敖致石守谦，记刘九庵来家看周越跋并谈傅申未看
+  精度：day；可靠度：reported-by-author；排序日期：1995-05-23
+  摘要：1995年5月23日，李敖致石守谦，说承石守谦提醒，自己已经写出关于周越的论文。信中他记录刘九庵这次来台亲到自己家中，看了王著千文后面的周越跋；李敖请刘九庵回大陆告诉启功，这件跋文并未烧掉，而是流传到台湾、流传到李敖手里。李敖又写苏瑞屏原想请傅申来看这件与黄山谷有关的稀世之珍，傅申却不便前来；他在电话中对苏瑞屏表示不快并挂电话。刘九庵看后还请李敖再拿宝贝看，李敖请其一行七人在京兆尹吃午餐，并在倦勤斋讲演休息时同意大陆方面引证自己收藏的周越材料。
+  人物：李敖、石守谦、刘九庵、启功、傅申、苏瑞屏、池士勋
+  地点：台北、李敖家、京兆尹、倦勤斋
+  标签：石守谦、周越、刘九庵、启功、傅申、苏瑞屏、京兆尹
+  视图：书信线、收藏线、学术线、人际线
+  作品：李敖书启集、致石守谦的一封信、周越论文
+  交叉引用：-
+  来源：李敖书启集 / 042.致石守谦的一封信 / line 23
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/042.致石守谦的一封信.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1995-05-23-writes-shi-shouqian-on-zhou-yue-and-liu-jiuan-visit
+- 1995年5月24日 | 李敖致林永丰，说明邓丽君误报后续并称已在草山订下山居
+  精度：day；可靠度：reported-by-author；排序日期：1995-05-24
+  摘要：1995年5月24日，李敖写《我与邓丽君后一章》给林永丰。他收到讣闻后说明自己不参加婚丧喜庆，也不会去林家家祭；继而在信中回述日前媒体误报他参加邓丽君丧礼后，四家报纸和一家电视都已更正，慈济功德会也来人向李敖读者联谊会亓先生道歉。李敖在信中判断这种“做好事即可造假”的心态很恐怖，并解释若不更正，朋友会奇怪他为何不参加伯父伯母丧礼却参加邓丽君丧礼。信末他又写自己已在草山即阳明山订下新建楼房，计划将来死在那里，台湾是自己的埋骨之地。
+  人物：李敖、林永丰、邓丽君、陈兆基、亓先生
+  地点：草山、阳明山、台湾、台北
+  标签：林永丰、邓丽君、媒体更正、慈济功德会、草山、阳明山山居
+  视图：书信线、媒体线、生活线、山居线
+  作品：李敖书启集、我与邓丽君后一章
+  交叉引用：li-ao-shuqiji-1995-05-15-writes-media-correction-denying-teresa-teng-funeral-visit、sui-qianwan-2013-07-12-sells-mountain-study-and-moves-last-mementos
+  来源：李敖书启集 / 043.我与邓丽君后一章 / line 21
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/043.我与邓丽君后一章.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1995-05-24-writes-lin-yongfeng-teresa-teng-correction-and-yangmingshan-residence
 - 1995年7月5日星期三 | 李敖拒赴与彭明敏、谢聪敏、魏廷朝的餐会
   精度：day；可靠度：confirmed；排序日期：1995-07-05
   摘要：《彭尸纪》写，1995年6月谢聪敏多次来电，邀李敖参加7月5日与彭明敏、魏廷朝等人的餐会；李敖认为政治与人格问题未解，拒绝赴约，并称之为“最后的晚餐”。
@@ -137574,17 +139615,30 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/014.李敖杂文集/014.给吕佳真的工作日志.txt
   数据：data/timeline-events-li-ao-zawenji.json#li-ao-zawenji-1995-07-14-work-log-for-lu-jiazhen
+- 1995年8月14日晨 | 李敖晨间致周荃，谢绝“真相敖出头”节目邀约并取消福华之约
+  精度：day；可靠度：reported-by-author；排序日期：1995-08-14
+  摘要：1995年8月14日晨，李敖写《给周荃》。周荃以青眼、巨金和黄金档邀请他在真相新闻网做周一至周五一个半小时的“真相敖出头”节目；李敖在信中思之再三，认为自己迟早会把周荃的人际关系和朋友同志骂光，故坦然谢绝。李敖又在信中说明自己五十岁后想摆脱“小岛上的事”，走向世界、未来与永恒；若正式上电视，恐更误“争千秋”的素愿。最后他写今日下午福华之约“想爽了”，请周荃和张老师原谅，并表示日后可免费效劳。
+  人物：李敖、周荃、张老师
+  地点：台北、福华
+  标签：周荃、真相新闻网、真相敖出头、福华、电视节目、争千秋
+  视图：媒体线、书信线、思想线、电视线
+  作品：李敖书启集、给周荃、北京法源寺、李敖笑傲江湖
+  交叉引用：book4-1995-10-20-signs-li-ao-roams-jianghu-contract、book4-1995-10-30-li-ao-roams-jianghu-begins-broadcast、book7-2002-05-31-leaves-zhongtian-ending-five-year-zhou-quan-period
+  来源：李敖书启集 / 044.给周荃 / line 15
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/044.给周荃.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1995-08-14-morning-rejects-zhou-quan-truth-news-program-proposal
 - 1995年8月17日星期四 | 李敖挂号致信谢长廷要求更正彭明敏辩护说法
   精度：day；可靠度：confirmed；排序日期：1995-08-17
-  摘要：《彭尸纪》写，李敖看到谢长廷在《联合报》为彭明敏辩护后，于1995年8月17日挂号写信给谢长廷，要求他核对事实并更正；谢长廷次日回信。
-  人物：李敖、谢长廷、彭明敏
+  摘要：《彭尸纪》写，李敖看到谢长廷在《联合报》为彭明敏辩护后，于1995年8月17日挂号写信给谢长廷，要求他核对事实并更正。《李敖书启集》重收此信，补出李敖读到报道称谢长廷认为《你不知道的彭明敏》不足采信，遂在信中回述上月14日与谢长廷当面谈《谢长廷新文化教室》和“动态道德观”，批驳“没有受害人”说法，并说自己就是被彭明敏诬陷后关进军法黑狱的受害人，使他在信中回想“故‘狱’梦重归”。谢长廷8月18日答书并致《联合报》记者澄清；李敖附记赞美其更正，并说明记者误传谢受彭明敏委托阻止新书，自己回送谢长廷一本《李登辉的真面目》。
+  人物：李敖、谢长廷、彭明敏、李鸿禧、李登辉、蔡仲伯
   地点：台湾
-  标签：谢长廷、彭明敏、联合报、挂号信
+  标签：谢长廷、彭明敏、联合报、挂号信、你不知道的彭明敏、动态道德观、李鸿禧、李登辉的真面目
   视图：书信线、媒体线、恩怨线
-  作品：李敖快意恩仇录
+  作品：李敖快意恩仇录、李敖书启集、质问谢长廷老弟、你不知道的彭明敏、谢长廷新文化教室、李登辉的真面目
   交叉引用：-
   来源：李敖快意恩仇录 / 013.彭尸纪 / line 133
-  补充来源：-
+  补充来源：李敖书启集 / 045.质问谢长廷老弟 / line 21；说明：《李敖书启集》重收此信，补出谢长廷答书、给《联合报》记者澄清函与李敖附记。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/013.彭尸纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1995-08-17-letter-to-hsieh-changting-peng-defense
 - 1995年9月3日星期日 | 李敖写《“血洗台湾”考》
@@ -137849,6 +139903,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/007.我是天安门/024.强者的喘息.txt
   数据：data/timeline-events-woshi-tiananmen.json#woshi-tiananmen-1996-08-11-stronger-power-needs-breathing-space
+- 1996年8月20日 | 李敖致法务部调查局，提交孙中山墨迹证据反驳秦孝仪“双钩”指控
+  精度：day；可靠度：reported-by-author；排序日期：1996-08-20
+  摘要：1996年8月20日，李敖致法务部调查局最速件，副本给台湾高等法院隆股，随函检送《孙中山墨迹》影本五件及其他附证，供鉴定时参酌。信中他回述1995年3月5日为义助章孝慈拍卖所藏中国美术精品六十二件，其中“孙中山墨迹”由张慈让以三百二十万元拍得；二十二天后秦孝仪在立委质询场合声言李敖卖假国父墨宝。李敖在函中追查出秦孝仪所谓“原件”的影本来自国民党党史会秘密印行的《总理与总裁重要文电初集》，并逐条说明所谓“双钩”与原件大小、字形和鉴定方法均不合；又举孙中山同文墨迹多件，要求调查局把此函、附证和《中国历代墨宝精华》原书一并归卷，退还高院存卷。
+  人物：李敖、秦孝仪、孙中山、章孝慈、张慈让、颜锦福、陈立夫
+  地点：台湾高等法院、法务部调查局、台北
+  标签：法务部调查局、秦孝仪、孙中山墨迹、传家艺术、章孝慈、张慈让、双钩、台湾高等法院
+  视图：司法线、收藏线、书信线、东吴线
+  作品：李敖书启集、致法务部调查局、孙中山墨迹、总理与总裁重要文电初集、中国历代墨宝精华、美哉中华
+  交叉引用：book4-1995-03-05-art-auction-for-zhang-xiaoci-fund、1995-03-05-art-auction、li-ao-fangtanlu-2000-07-26-wins-qin-xiaoyi-defamation-compensation
+  来源：李敖书启集 / 046.致法务部调查局 / line 75
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/046.致法务部调查局.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1996-08-20-writes-investigation-bureau-on-sun-yatsen-calligraphy-qin-xiaoyi-case
 - 1996年9月8日星期日 | 李敖写《硬的是他，但他不要硬》
   精度：day；可靠度：inferred；排序日期：1996-09-08
   摘要：《硬的是他，但他不要硬》文末署“1996年9月8日在中国台湾”。李敖写保钓与护土问题，认为当时真正硬得起来的只有中国大陆。
@@ -138139,6 +140206,19 @@
   补充来源：虽千万人，李敖往矣 / 005.2011年9月 / line 143；说明：李敖2011年微博回述自己早在11年前公开捐出遗体，送给台大医院大体解剖。；虽千万人，李敖往矣 / 005.2011年9月 / line 147；说明：补充李敖谈遗体捐出后可能用于器官移植或由医师决定。；虽千万人，李敖往矣 / 040.2015年10月 / line 139；说明：2015年10月23日李敖对臧英年回述，自己早把尸体捐给台大医院解剖，所谓坟墓都是假的。；李敖访谈录1990-2018 / 011.20000111《中国青年报》专访李敖 / line 127；说明：《中国青年报》访问中说明死后捐台湾大学医学院、眼睛器官和骨骼标本安排。；李敖访谈录1990-2018 / 017.20000809《北京青年报》专访李敖 / line 49；说明：《北京青年报》访问中确认遗体捐赠和骨骼标本安排没有改变。；李敖访谈录1990-2018 / 058.20111123《华西都市报》专访李敖 / line 221；说明：《华西都市报》访问中李敖回述十多年前已公开捐出遗体和遗骨给台大医院大体解剖。；李敖访谈录1990-2018 / 059.2011《新闻晨报》专访李敖 / line 53；说明：《新闻晨报》访问中李敖重申多年前立下遗嘱，遗体捐给台大医学院。；李敖访谈录1990-2018 / 060.20120523《外滩画报》专访李敖 / line 17；说明：《外滩画报》访问中李敖再说会把遗体捐给台大医院做研究。；李敖访谈录1990-2018 / 063.20121010《长江日报》专访李敖 / line 47；说明：《长江日报》访问中李敖再说墓志铭不用写，因为身体全捐给台北医院。；李敖访谈录1990-2018 / 064.20121028《长春晚报》专访李敖 / line 31；说明：《长春晚报》访问中李敖重申身体全捐给医院、身后千刀万剐。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/020.志留纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1998-08-07-finishes-zhili-ji-and-body-donation-note
+- 1998年11月8日晨7时 | 李敖晨间给林瑞图加油，承诺在电视节目中继续支持
+  精度：day；可靠度：reported-by-author；排序日期：1998-11-08
+  摘要：1998年11月8日晨7时，李敖写《给林瑞图加油信》。他一连打了多次电话给林瑞图未通，因当天是林瑞图竞选服务处成立的日子，而自己向来不参加婚丧喜庆，所以不能亲自前来，只能写信。李敖在信中肯定林瑞图多年揭发弊案的成绩，借当日报上李远哲评价陈水扁“勿以小毛病抹杀全部贡献”一句，转用于林瑞图；他说不但写信支持，也会在电视节目中亲自出面继续支持、代为宣扬，并请林瑞图转下资料由他统筹处理。
+  人物：李敖、林瑞图、李远哲、陈水扁
+  地点：台北
+  标签：林瑞图、竞选服务处、电视节目、李远哲、陈水扁、揭发弊案
+  视图：书信线、政治线、电视线、选举线
+  作品：李敖书启集、给林瑞图加油信
+  交叉引用：-
+  来源：李敖书启集 / 047.给林瑞图加油信 / line 19
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/047.给林瑞图加油信.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1998-11-08-morning-writes-lin-ruitu-campaign-support-letter
 - 1998年8月，新党初选期间 | 李敖安排钱达再上《笑傲江湖》，并在计程车上谈新党规划名单
   精度：month-context；可靠度：undefined；排序日期：1998-08-31
   摘要：新党初选期间，钱达已先上两集《笑傲江湖》，8月中又来电问李敖能否再安排两集，李敖立刻想法子在月底前安排。后来钱达来上后两集时，两人在计程车上谈到新党初选和规划名单；李敖劝他不要讲原题目而要谈规划名单，并追问自己能否代为公开，钱达则坚持不能在选前引爆资料。
@@ -138297,6 +140377,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/007.采访序跋类/003.李敖书序集续集/013.《文茜半生缘》序.txt
   数据：data/timeline-events-li-ao-shuxuji-xuji.json#li-ao-shuxuji-xuji-1999-01-11-three-am-writes-preface-to-wenqian-banshengyuan
+- 1999年1月19日 | 李敖致梁肃戎，感谢其愿无条件撤回曾心仪案
+  精度：day；可靠度：reported-by-author；排序日期：1999-01-19
+  摘要：1999年1月19日，李敖写《建国党与梁肃戎》给梁肃戎。信中他先以“四人帮”年度聚餐只剩二人，回忆上次在新党初选操场匆匆一谈；随后说曾心仪事件涉及梁肃戎人权，事发之初自己已在电视节目中责其不当，选后又邀曾心仪上节目，曾心仪公开谴责建国党而有忏意。李敖在信中说明自己请曾心仪先于1月2日写信前来，再请沪祥侧面探梁肃戎意思，得知梁肃戎看在自己面上愿大度撤回、不附任何条件，特地专函致意；并把曾心仪来信影本送参。
+  人物：李敖、梁肃戎、曾心仪、许世楷、沪祥
+  地点：台北、新党初选操场
+  标签：梁肃戎、曾心仪、建国党、真相、笑傲江湖、人权、撤诉
+  视图：书信线、政治线、电视线、人际线
+  作品：李敖书启集、建国党与梁肃戎、孙立人研究、孙案研究、笑傲江湖
+  交叉引用：qianqiu-wansui-1988-context-190-li-publishes-sun-liren-and-sun-case-studies、li-ao-shuduji-1987-07-22-thunder-writes-xinyi-on-judging-intellectuals、li-ao-shuduji-1987-07-29-writes-xinyi-on-zheng-xuejia-old-wang-mazi、li-ao-shujianji-1982-07-26-open-letter-to-liang-surong-on-police-power-law、sui-qianwan-2017-02-07-records-giving-money-to-liang-surong-for-mainland-trip
+  来源：李敖书启集 / 048.建国党与梁肃戎 / line 9
+  补充来源：-
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/048.建国党与梁肃戎.txt
+  数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1999-01-19-writes-liang-surong-mediating-zeng-xinyi-jianguo-party-case
 - 1999年3月17日 | 李敖写五五日记前记
   精度：day；可靠度：confirmed；排序日期：1999-03-17
   摘要：李敖在《李敖五五日记》前记中说明，这部日记从1990年4月25日五十五岁生日写起，到1991年4月10日止，小缺数天而大体完整；他又说五十五岁这年完成了从《北京法源寺》到《求是报》等许多成就，这部简略日记足以说明。
