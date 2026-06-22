@@ -1,5 +1,6 @@
 import fs from "node:fs";
 import path from "node:path";
+import { buildTimelineBundle } from "./build-timeline-bundle.mjs";
 
 const root = process.cwd();
 const dataFiles = [
@@ -76,7 +77,9 @@ const dataFiles = [
   "data/timeline-events-li-ao-shuduji.json",
   "data/timeline-events-li-ao-shuhanji-letterbox.json",
   "data/timeline-events-li-ao-shuqiji.json",
-  "data/timeline-events-prison-father-letters.json"
+  "data/timeline-events-prison-father-letters.json",
+  "data/timeline-events-ma-ge-letters.json",
+  "data/timeline-events-lishi-yu-renxiang.json"
 ];
 
 const outputDir = path.join(root, "exports");
@@ -235,4 +238,6 @@ fs.writeFileSync(
   "utf8",
 );
 
-console.log(JSON.stringify(manifest, null, 2));
+const timelineBundle = buildTimelineBundle(root);
+
+console.log(JSON.stringify({ ...manifest, timelineBundle }, null, 2));

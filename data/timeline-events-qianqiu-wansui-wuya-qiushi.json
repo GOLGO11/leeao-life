@@ -35,7 +35,16 @@
       "chapter": "051.李敖著作年表",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/051.李敖著作年表.txt",
       "line": 39
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "历史与人像",
+        "chapter": "003.杜威的教育思想及其他",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/001.历史与人像/003.杜威的教育思想及其他.txt",
+        "line": 49,
+        "note": "《历史与人像》本篇后记说明原文登《学生》第四十六号，时为高中一年级、十七岁。"
+      }
+    ]
   },
   {
     "id": "qianqiu-wansui-1952-08-01-051-publishes-cooperation-and-capital-control",
@@ -512,14 +521,24 @@
     ],
     "certainty": "confirmed",
     "crossReferences": [
-      "1966-books-banned"
+      "1966-books-banned",
+      "lishi-yu-renxiang-1963-08-18-preface-history-and-portraits"
     ],
     "source": {
       "book": "千秋万岁乌鸦求是合集",
       "chapter": "051.李敖著作年表",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/051.李敖著作年表.txt",
       "line": 63
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "历史与人像",
+        "chapter": "《历史与人像》自序",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/001.历史与人像/《历史与人像》自序.txt",
+        "line": 3,
+        "note": "自序说明本书收十二篇历史人像论文和札记，最早写于1952年，最晚写于1963年4月。"
+      }
+    ]
   },
   {
     "id": "qianqiu-wansui-1964-03-25-051-publishes-hu-shi-research",

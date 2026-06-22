@@ -6405,7 +6405,19 @@
       "chapter": "003.四席小屋日记",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/002.早年日记/003.四席小屋日记.txt",
       "line": 713
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "历史与人像",
+        "chapter": "008.宋帝始生异象考",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/001.历史与人像/008.宋帝始生异象考.txt",
+        "line": 115,
+        "note": "《历史与人像》收入本篇，署“1961年3月16日穷五小时之力读宋史，做此文”。"
+      }
+    ],
+    "crossReferences": [
+      "lishi-yu-renxiang-1963-04-07-song-emperor-birth-omens-postscript-topic"
+    ]
   },
   {
     "id": "zaonian-riji-1961-03-16-buys-stapler-tai-da-qingnian-and-writes-yang-essay",

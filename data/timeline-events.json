@@ -295,20 +295,25 @@
     "tags": [
       "胡适",
       "姚从吾",
-      "台大"
+      "台大",
+      "给马戈的五十封信",
+      "马戈"
     ],
     "people": [
       "李敖",
       "胡适",
       "姚从吾",
-      "萧启庆"
+      "萧启庆",
+      "马宏祥",
+      "马戈"
     ],
     "places": [
       "台北",
       "松山机场"
     ],
     "works": [
-      "“北土非吾愿，东林怀我师”"
+      "“北土非吾愿，东林怀我师”",
+      "给马戈的五十封信"
     ],
     "certainty": "confirmed",
     "source": {
@@ -318,7 +323,8 @@
       "line": 65
     },
     "crossReferences": [
-      "daxue-houqi-jia-1958-11-06-after-hu-shih-airport-renews-effort-and-women-disgust"
+      "daxue-houqi-jia-1958-11-06-after-hu-shih-airport-renews-effort-and-women-disgust",
+      "ma-ge-letters-1958-11-05-logic-class-writes-ying-hushi-to-ma"
     ],
     "additionalSources": [
       {
@@ -327,6 +333,13 @@
         "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/006.1958年11月.txt",
         "line": 79,
         "note": "《大学后期日记甲集》原文，详记李敖赴松山机场迎胡适、胡适在人潮中叫他、姚从吾谈论文并鼓励“好好干”、胡适握手称“李先生”。"
+      },
+      {
+        "book": "给马戈的五十封信",
+        "chapter": "041.迎胡适",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/011.给马戈的五十封信/041.迎胡适.txt",
+        "line": 7,
+        "note": "11月5日《迎胡适》回述赴机场迎胡适，记胡适先呼“李敖”、继呼“李先生”，并录胡适答记者问太太未归。"
       }
     ],
     "displayDate": "1958年11月4日星期二"

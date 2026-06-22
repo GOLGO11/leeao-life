@@ -112,7 +112,9 @@ const dataFiles = [
   "./data/timeline-events-li-ao-shuduji.json",
   "./data/timeline-events-li-ao-shuhanji-letterbox.json",
   "./data/timeline-events-li-ao-shuqiji.json",
-  "./data/timeline-events-prison-father-letters.json"
+  "./data/timeline-events-prison-father-letters.json",
+  "./data/timeline-events-ma-ge-letters.json",
+  "./data/timeline-events-lishi-yu-renxiang.json"
 ];
 const supplementalDataFiles = new Set([
   "./data/timeline-events-first-book-supplement.json",
@@ -123,8 +125,17 @@ const supplementalDataFiles = new Set([
   "./data/timeline-events-third-book-qiao-evidence.json",
   "./data/timeline-events-fourth-book-deepening.json"
 ]);
-const processedBookCount = dataFiles.filter((file) => !supplementalDataFiles.has(file)).length;
-const dataVersion = '2026-06-21-prison-father-letters-round008-071-074-closeout';
+const dataVersion = '2026-06-22-lishi-yu-renxiang-round002-011-012-closeout';
+const timelineBundle = window.LEEAO_TIMELINE_BUNDLE;
+const timelineBundleMatches =
+  timelineBundle?.dataVersion === dataVersion &&
+  Array.isArray(timelineBundle.events) &&
+  Array.isArray(timelineBundle.log);
+const bundledDataFiles = timelineBundleMatches && Array.isArray(timelineBundle.dataFiles)
+  ? timelineBundle.dataFiles.map((file) => (file.startsWith("./") ? file : `./${file}`))
+  : [];
+const activeDataFiles = bundledDataFiles.length ? bundledDataFiles : dataFiles;
+const processedBookCount = activeDataFiles.filter((file) => !supplementalDataFiles.has(file)).length;
 
 const dateFormatter = new Intl.DateTimeFormat("zh-Hant", {
   year: "numeric",
@@ -411,17 +422,35 @@ function render() {
   renderDecadeNav(unique(state.events.map(decadeOf)));
 }
 
-async function boot() {
-  const [eventGroups, logResponse] = await Promise.all([
-    Promise.all(dataFiles.map((file) => fetch(`${file}?v=${dataVersion}`).then((response) => response.json()))),
-    fetch(`./data/ingestion-log.json?v=${dataVersion}`)
-  ]);
-  state.events = eventGroups.flat();
+function hydrate(events, log) {
+  state.events = events;
   for (const event of state.events) {
     event.searchText = searchableText(event);
   }
   state.eventIndex = new Map(state.events.map((event) => [event.id, event]));
-  state.log = await logResponse.json();
+  state.log = log;
+}
+
+function hydrateFromBundle() {
+  if (!timelineBundleMatches) {
+    return false;
+  }
+  hydrate(timelineBundle.events, timelineBundle.log);
+  return true;
+}
+
+async function hydrateFromFetch() {
+  const [eventGroups, logResponse] = await Promise.all([
+    Promise.all(dataFiles.map((file) => fetch(`${file}?v=${dataVersion}`).then((response) => response.json()))),
+    fetch(`./data/ingestion-log.json?v=${dataVersion}`)
+  ]);
+  hydrate(eventGroups.flat(), await logResponse.json());
+}
+
+async function boot() {
+  if (!hydrateFromBundle()) {
+    await hydrateFromFetch();
+  }
   populateFilters();
   render();
 }

@@ -1,0 +1,974 @@
+[
+  {
+    "id": "lishi-yu-renxiang-1953-high-school-writes-xingli-kao",
+    "date": "1953-01-01",
+    "displayDate": "1953年（高中二年级）",
+    "datePrecision": "year",
+    "title": "李敖高中二年级写《行李考》",
+    "summary": "李敖在《行李考》后记中说明，这篇考证文字写于高中二年级，当时他十八岁；后来收入《历史与人像》时，他把这篇早年札记作为自己学术写作过渡期的材料保存下来。",
+    "view": [
+      "写作线",
+      "研究线"
+    ],
+    "tags": [
+      "历史与人像",
+      "行李考",
+      "高中",
+      "考证",
+      "过渡期"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "历史与人像",
+      "行李考"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "历史与人像",
+      "chapter": "006.行李考",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/001.历史与人像/006.行李考.txt",
+      "line": 19
+    },
+    "crossReferences": []
+  },
+  {
+    "id": "lishi-yu-renxiang-1958-02-15-central-daily-xingli-letter",
+    "date": "1958-02-15",
+    "displayDate": "1958年2月15日",
+    "datePrecision": "day",
+    "title": "李敖在《中央日报》副刊发表关于“行李”的纠误信",
+    "summary": "李敖给《中央日报》副刊编者写信，指出张钦成文章中关于“行李”的引文疑出顾炎武《日知录集释》，并批评其不但抄错、也解释错；这封信刊于1958年2月15日《中央日报》副刊。",
+    "view": [
+      "写作线",
+      "研究线",
+      "出版线"
+    ],
+    "tags": [
+      "历史与人像",
+      "行李考",
+      "中央日报",
+      "副刊",
+      "纠误",
+      "顾炎武",
+      "日知录集释"
+    ],
+    "people": [
+      "李敖",
+      "张钦成",
+      "顾炎武"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "历史与人像",
+      "行李考",
+      "中央日报",
+      "日知录集释"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "历史与人像",
+      "chapter": "006.行李考",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/001.历史与人像/006.行李考.txt",
+      "line": 39
+    },
+    "crossReferences": [
+      "lishi-yu-renxiang-1953-high-school-writes-xingli-kao"
+    ]
+  },
+  {
+    "id": "lishi-yu-renxiang-1961-05-26-typhoon-writes-song-jin-kechangshu",
+    "date": "1961-05-26",
+    "displayDate": "1961年5月26日下午",
+    "datePrecision": "day",
+    "title": "李敖在台风中写定《宋禁科场书》",
+    "summary": "下午，李敖花一个半小时在台风中写定《宋禁科场书》。文章从出版自由谈到宋代检查制、焚书毁板和科场书查禁，指出考试大全一类文字在宋代属于被取缔的“小黑书”。",
+    "view": [
+      "写作线",
+      "研究线"
+    ],
+    "tags": [
+      "历史与人像",
+      "宋禁科场书",
+      "宋会要",
+      "出版自由",
+      "禁书",
+      "台风"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "历史与人像",
+      "宋禁科场书",
+      "宋会要辑稿"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "历史与人像",
+      "chapter": "009.宋禁科场书",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/001.历史与人像/009.宋禁科场书.txt",
+      "line": 57
+    },
+    "crossReferences": []
+  },
+  {
+    "id": "lishi-yu-renxiang-1962-04-23-writes-ji-cuiling-article",
+    "date": "1962-04-23",
+    "displayDate": "1962年4月23日",
+    "datePrecision": "day",
+    "title": "李敖写成《纪翠绫该生在什么时候？》",
+    "summary": "李敖写成《纪翠绫该生在什么时候？》，从礼教、法律和通奸罪沿革谈到纪翠绫事件，认为她若生在古代会遭受更严酷惩罚，并在文章中借反讽批评当时社会对爱情自由和性道德的压迫。",
+    "view": [
+      "写作线",
+      "思想线",
+      "论战线"
+    ],
+    "tags": [
+      "历史与人像",
+      "纪翠绫",
+      "性道德",
+      "通奸罪",
+      "法律史",
+      "文星"
+    ],
+    "people": [
+      "李敖",
+      "纪翠绫"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "历史与人像",
+      "纪翠绫该生在什么时候？"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "历史与人像",
+      "chapter": "005.纪翠绫该生在什么时候？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/001.历史与人像/005.纪翠绫该生在什么时候？.txt",
+      "line": 121
+    },
+    "crossReferences": []
+  },
+  {
+    "id": "lishi-yu-renxiang-1962-05-01-ji-cuiling-wenxing-backlash",
+    "date": "1962-05-01",
+    "displayDate": "1962年5月1日",
+    "datePrecision": "day",
+    "title": "《纪翠绫该生在什么时候？》刊出后李敖立刻被叫骂",
+    "summary": "《纪翠绫该生在什么时候？》原登《文星》第五十五号。李敖在后记中回述，发表前台北《民族晚报》已把纪翠绫和他等量齐观，文章一出来，他立刻被报纸社论和读者来信叫骂，使他想到手拿石头的文士和法利赛人。",
+    "view": [
+      "论战线",
+      "出版线",
+      "写作线"
+    ],
+    "tags": [
+      "历史与人像",
+      "纪翠绫",
+      "文星",
+      "民族晚报",
+      "读者来信",
+      "舆论攻击"
+    ],
+    "people": [
+      "李敖",
+      "纪翠绫"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "历史与人像",
+      "纪翠绫该生在什么时候？",
+      "文星",
+      "民族晚报"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "历史与人像",
+      "chapter": "005.纪翠绫该生在什么时候？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/001.历史与人像/005.纪翠绫该生在什么时候？.txt",
+      "line": 201
+    },
+    "crossReferences": [
+      "lishi-yu-renxiang-1962-04-23-writes-ji-cuiling-article"
+    ]
+  },
+  {
+    "id": "lishi-yu-renxiang-1962-06-01-zheng-xuejia-attacks-li-ao-bazhaluofu",
+    "date": "1962-06-01",
+    "displayDate": "1962年6月1日",
+    "datePrecision": "day",
+    "title": "郑学稼在《世界评论》攻击李敖为“巴札洛夫”",
+    "summary": "台北《世界评论》第十年第六期刊出郑学稼《论巴札洛夫》。李敖在《纪翠绫该生在什么时候？》后记中说，这是攻击他的文字中最突出的一篇；郑文大骂他是“狂妄的青年”、文化打手，又把“假罗亭”“沙宁”“打手”等帽子扣到他头上，李敖特意摘录以显示其罗织策略。",
+    "view": [
+      "论战线",
+      "出版线"
+    ],
+    "tags": [
+      "历史与人像",
+      "纪翠绫",
+      "郑学稼",
+      "世界评论",
+      "巴札洛夫",
+      "文化论战"
+    ],
+    "people": [
+      "李敖",
+      "郑学稼",
+      "纪翠绫"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "历史与人像",
+      "纪翠绫该生在什么时候？",
+      "世界评论",
+      "论巴札洛夫"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "历史与人像",
+      "chapter": "005.纪翠绫该生在什么时候？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/001.历史与人像/005.纪翠绫该生在什么时候？.txt",
+      "line": 203
+    },
+    "crossReferences": [
+      "lishi-yu-renxiang-1962-05-01-ji-cuiling-wenxing-backlash"
+    ]
+  },
+  {
+    "id": "lishi-yu-renxiang-1962-07-01-writes-yuan-shikai-sikong",
+    "date": "1962-07-01",
+    "displayDate": "1962年7月1日",
+    "datePrecision": "day",
+    "title": "李敖写成《袁世凯的祀孔》",
+    "summary": "李敖写成《袁世凯的祀孔》，以简要年表和文献摘引梳理袁世凯尊孔、祀孔和郊天的政治表演，指出袁以总统和皇帝姿态宗教化圣人偶像，并把复古礼制放在民国初年政治脉络中分析。",
+    "view": [
+      "写作线",
+      "研究线",
+      "思想线"
+    ],
+    "tags": [
+      "历史与人像",
+      "袁世凯",
+      "祀孔",
+      "尊孔",
+      "民国史",
+      "政治宗教"
+    ],
+    "people": [
+      "李敖",
+      "袁世凯",
+      "孔子"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "历史与人像",
+      "袁世凯的祀孔"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "历史与人像",
+      "chapter": "001.袁世凯的祀孔",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/001.历史与人像/001.袁世凯的祀孔.txt",
+      "line": 71
+    },
+    "crossReferences": []
+  },
+  {
+    "id": "lishi-yu-renxiang-1962-10-01-xu-shuzheng-review-chuanjiwenxue",
+    "date": "1962-10-01",
+    "displayDate": "1962年10月1日",
+    "datePrecision": "day",
+    "title": "李敖《对〈徐树铮先生文集年谱合刊〉的批评》原刊《传记文学》",
+    "summary": "李敖的《对〈徐树铮先生文集年谱合刊〉的批评》原刊刘绍唐所办《传记文学》第一卷第五期。他在文中说自己细读徐道邻所编文集年谱后大感失望，批评其史料运用、年谱体例和史实解释都有问题，并从史学方法角度反对替徐树铮翻案。",
+    "view": [
+      "写作线",
+      "研究线",
+      "出版线"
+    ],
+    "tags": [
+      "历史与人像",
+      "徐树铮",
+      "徐道邻",
+      "传记文学",
+      "刘绍唐",
+      "书评",
+      "史学方法"
+    ],
+    "people": [
+      "李敖",
+      "徐树铮",
+      "徐道邻",
+      "刘绍唐"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "历史与人像",
+      "对《徐树铮先生文集年谱合刊》的批评",
+      "传记文学",
+      "徐树铮先生文集年谱合刊"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "历史与人像",
+      "chapter": "012.对《徐树铮先生文集年谱合刊》的批评",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/001.历史与人像/012.对《徐树铮先生文集年谱合刊》的批评.txt",
+      "line": 141
+    },
+    "additionalSources": [
+      {
+        "book": "历史与人像",
+        "chapter": "012.对《徐树铮先生文集年谱合刊》的批评",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/001.历史与人像/012.对《徐树铮先生文集年谱合刊》的批评.txt",
+        "line": 35,
+        "note": "李敖在正文中说明细读文集年谱后失望，并概括对徐道邻年谱的根本批评。"
+      }
+    ],
+    "crossReferences": []
+  },
+  {
+    "id": "lishi-yu-renxiang-1962-11-27-song-jin-kechangshu-postscript",
+    "date": "1962-11-27",
+    "displayDate": "1962年11月27日",
+    "datePrecision": "day",
+    "title": "李敖在《宋禁科场书》后记中回顾《宋会要》专题计划",
+    "summary": "李敖在《宋禁科场书》后记中说明，这是他读《宋会要》所做的札记；他本想以《宋会要》为底本，参照宋人文集，就几十个专题分别写成文字，但只完成这一篇，便因没有时间而中止。",
+    "view": [
+      "研究线",
+      "写作线"
+    ],
+    "tags": [
+      "历史与人像",
+      "宋禁科场书",
+      "宋会要",
+      "写作计划",
+      "后记"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "历史与人像",
+      "宋禁科场书",
+      "宋会要"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "历史与人像",
+      "chapter": "009.宋禁科场书",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/001.历史与人像/009.宋禁科场书.txt",
+      "line": 59
+    },
+    "crossReferences": [
+      "lishi-yu-renxiang-1961-05-26-typhoon-writes-song-jin-kechangshu"
+    ]
+  },
+  {
+    "id": "lishi-yu-renxiang-1962-12-11-xingli-kao-postscript-transition",
+    "date": "1962-12-11",
+    "displayDate": "1962年12月11日",
+    "datePrecision": "day",
+    "title": "李敖在《行李考》后记中保留旧札记以看写作过渡",
+    "summary": "李敖在《行李考》后记中说明，他把这篇缺陷很多的高中旧札记一字不改拿出来，与现在的文字比较，正可看出自己写作和研究方法的“过渡性”。",
+    "view": [
+      "写作线",
+      "整理线",
+      "研究线"
+    ],
+    "tags": [
+      "历史与人像",
+      "行李考",
+      "后记",
+      "旧稿",
+      "过渡性"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "历史与人像",
+      "行李考"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "历史与人像",
+      "chapter": "006.行李考",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/001.历史与人像/006.行李考.txt",
+      "line": 21
+    },
+    "crossReferences": [
+      "lishi-yu-renxiang-1953-high-school-writes-xingli-kao",
+      "lishi-yu-renxiang-1958-02-15-central-daily-xingli-letter"
+    ]
+  },
+  {
+    "id": "lishi-yu-renxiang-1962-12-16-song-marriage-thesis-postscript-corrections",
+    "date": "1962-12-16",
+    "displayDate": "1962年12月16日",
+    "datePrecision": "day",
+    "title": "李敖在宋代婚姻论文后记中修正“政和八年”判断",
+    "summary": "李敖在《夫妻同体主义下的宋代婚姻的无效撤销解消及其效力与手续》后记中说明，这篇文章是三年前的大学毕业论文；他又修正自己原先把洪迈“政和八年”视为错误的注解，并记下两位先生还为他改正了一些笔误。",
+    "view": [
+      "学业线",
+      "研究线",
+      "写作线"
+    ],
+    "tags": [
+      "历史与人像",
+      "宋代婚姻",
+      "毕业论文",
+      "后记",
+      "校正",
+      "政和八年"
+    ],
+    "people": [
+      "李敖",
+      "洪迈"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "历史与人像",
+      "夫妻同体主义下的宋代婚姻的无效撤销解消及其效力与手续",
+      "宋代婚姻解消及其社会约制的初探"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "历史与人像",
+      "chapter": "010.夫妻同体主义下的宋代婚姻的无效撤销解消及其效力与手续",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/001.历史与人像/010.夫妻同体主义下的宋代婚姻的无效撤销解消及其效力与手续.txt",
+      "line": 595
+    },
+    "crossReferences": [
+      "daxue-houqi-yi-1959-07-01-finishes-and-binds-thesis-great-relief"
+    ]
+  },
+  {
+    "id": "lishi-yu-renxiang-1963-04-01-sanger-wenxing-family-planning-topic",
+    "date": "1963-04-01",
+    "displayDate": "1963年4月1日",
+    "datePrecision": "day",
+    "title": "李敖《桑格夫人和节育运动》在《文星》专题发表",
+    "summary": "《桑格夫人和节育运动》原登《文星》第六十六号，是该期封面人物介绍；李敖在后记中说明，同期还有舒子宽、蒋梦麟、李循和、孙英善等关于桑格夫人和节育运动专题的论述。",
+    "view": [
+      "出版线",
+      "写作线",
+      "思想线"
+    ],
+    "tags": [
+      "历史与人像",
+      "桑格夫人",
+      "节育运动",
+      "文星",
+      "家庭计划",
+      "封面人物"
+    ],
+    "people": [
+      "李敖",
+      "桑格夫人",
+      "舒子宽",
+      "蒋梦麟",
+      "李循和",
+      "孙英善"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "历史与人像",
+      "桑格夫人和节育运动",
+      "文星"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "历史与人像",
+      "chapter": "004.桑格夫人和节育运动",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/001.历史与人像/004.桑格夫人和节育运动.txt",
+      "line": 303
+    },
+    "crossReferences": []
+  },
+  {
+    "id": "lishi-yu-renxiang-1963-04-07-song-emperor-birth-omens-postscript-topic",
+    "date": "1963-04-07",
+    "displayDate": "1963年4月7日",
+    "datePrecision": "day",
+    "title": "李敖在《宋帝始生异象考》后记中想到名人始生异象题目",
+    "summary": "李敖在《宋帝始生异象考》后记中写，他相信各朝帝王和许多中国历史名人的始生异象都可这样排比研究，并举岳飞、文天祥为例，认为这实在是一个极好的论文题目。",
+    "view": [
+      "研究线",
+      "思想线",
+      "写作线"
+    ],
+    "tags": [
+      "历史与人像",
+      "宋帝始生异象考",
+      "始生异象",
+      "论文题目",
+      "后记"
+    ],
+    "people": [
+      "李敖",
+      "岳飞",
+      "文天祥"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "历史与人像",
+      "宋帝始生异象考"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "历史与人像",
+      "chapter": "008.宋帝始生异象考",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/001.历史与人像/008.宋帝始生异象考.txt",
+      "line": 117
+    },
+    "crossReferences": [
+      "zaonian-riji-1961-03-16-writes-song-emperor-studies-with-statistics"
+    ]
+  },
+  {
+    "id": "lishi-yu-renxiang-1963-04-08-night-xu-shuzheng-review-postscript-biography",
+    "date": "1963-04-08",
+    "displayDate": "1963年4月8日夜",
+    "datePrecision": "day",
+    "title": "李敖夜里在徐树铮书评后记中补记《徐树铮正传》",
+    "summary": "1963年4月8日夜，李敖在《对〈徐树铮先生文集年谱合刊〉的批评》后记第二条中补充徐树铮传记资料，指出1920年神州书局出版的《徐树铮正传》对徐树铮抨击很多，但病在考证不精、传说式文字太多。",
+    "view": [
+      "研究线",
+      "写作线"
+    ],
+    "tags": [
+      "历史与人像",
+      "徐树铮",
+      "徐树铮正传",
+      "后记",
+      "传记资料",
+      "考证"
+    ],
+    "people": [
+      "李敖",
+      "徐树铮"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "历史与人像",
+      "对《徐树铮先生文集年谱合刊》的批评",
+      "徐树铮正传"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "历史与人像",
+      "chapter": "012.对《徐树铮先生文集年谱合刊》的批评",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/001.历史与人像/012.对《徐树铮先生文集年谱合刊》的批评.txt",
+      "line": 149
+    },
+    "crossReferences": [
+      "lishi-yu-renxiang-1962-10-01-xu-shuzheng-review-chuanjiwenxue"
+    ]
+  },
+  {
+    "id": "lishi-yu-renxiang-1963-04-12-song-marriage-postscript-hu-shi-nida",
+    "date": "1963-04-12",
+    "displayDate": "1963年4月12日",
+    "datePrecision": "day",
+    "title": "李敖在宋代婚姻论文后记中回述胡适问进度并称佩服仁井田升",
+    "summary": "李敖在宋代婚姻论文后记中回述，胡适听说他对中国婚姻史有兴趣且正着手写这类论文，曾两次问他写作状况；他又说明仁井田升的著作给他不少启发，自己佩服其功力和见解。",
+    "view": [
+      "学业线",
+      "研究线",
+      "胡适线"
+    ],
+    "tags": [
+      "历史与人像",
+      "宋代婚姻",
+      "胡适",
+      "仁井田升",
+      "毕业论文",
+      "后记"
+    ],
+    "people": [
+      "李敖",
+      "胡适",
+      "仁井田升"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "历史与人像",
+      "夫妻同体主义下的宋代婚姻的无效撤销解消及其效力与手续",
+      "宋代婚姻解消及其社会约制的初探"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "历史与人像",
+      "chapter": "010.夫妻同体主义下的宋代婚姻的无效撤销解消及其效力与手续",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/001.历史与人像/010.夫妻同体主义下的宋代婚姻的无效撤销解消及其效力与手续.txt",
+      "line": 599
+    },
+    "crossReferences": [
+      "daxue-houqi-yi-1959-07-02-delivers-thesis-to-yao-home-yao-says-hu-shi-asked-again"
+    ]
+  },
+  {
+    "id": "lishi-yu-renxiang-1963-04-15-writes-li-yi-an-remarriage",
+    "date": "1963-04-15",
+    "displayDate": "1963年4月15日",
+    "datePrecision": "day",
+    "title": "李敖写成《李易安再嫁了吗？》",
+    "summary": "李敖写成《李易安再嫁了吗？》，回应《中央日报》朴人关于李清照再嫁的文章。他从史料可靠性、宋代法律、寡居作品、称谓证据和人格背景等方面考证李清照没有再嫁，并在文末强调女人再嫁或守寡都是个人私事，别人无权以泛道德字眼乱骂，更不可造谣。",
+    "view": [
+      "写作线",
+      "研究线",
+      "思想线"
+    ],
+    "tags": [
+      "历史与人像",
+      "李易安",
+      "李清照",
+      "中央日报",
+      "朴人",
+      "考证",
+      "女性观"
+    ],
+    "people": [
+      "李敖",
+      "李清照",
+      "朴人"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "历史与人像",
+      "李易安再嫁了吗？",
+      "中央日报"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "历史与人像",
+      "chapter": "011.李易安再嫁了吗？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/001.历史与人像/011.李易安再嫁了吗？.txt",
+      "line": 53
+    },
+    "crossReferences": []
+  },
+  {
+    "id": "lishi-yu-renxiang-1963-05-01-li-yi-an-wenxing-published",
+    "date": "1963-05-01",
+    "displayDate": "1963年5月1日",
+    "datePrecision": "day",
+    "title": "《李易安再嫁了吗？》原登《文星》第六十七号",
+    "summary": "《李易安再嫁了吗？》原登《文星》第六十七号，在台北出版。李敖后来在后记中交代刊出信息，使这篇为李清照辩诬、同时讨论女性再嫁观念的考证文章进入《历史与人像》的文本脉络。",
+    "view": [
+      "出版线",
+      "写作线",
+      "研究线"
+    ],
+    "tags": [
+      "历史与人像",
+      "李易安",
+      "李清照",
+      "文星",
+      "考证",
+      "发表"
+    ],
+    "people": [
+      "李敖",
+      "李清照"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "历史与人像",
+      "李易安再嫁了吗？",
+      "文星"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "历史与人像",
+      "chapter": "011.李易安再嫁了吗？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/001.历史与人像/011.李易安再嫁了吗？.txt",
+      "line": 55
+    },
+    "crossReferences": [
+      "lishi-yu-renxiang-1963-04-15-writes-li-yi-an-remarriage"
+    ]
+  },
+  {
+    "id": "lishi-yu-renxiang-1963-05-08-yongshu-responds-li-yi-an-remarriage",
+    "date": "1963-05-08",
+    "displayDate": "1963年5月8日",
+    "datePrecision": "day",
+    "title": "雍叔在《民族晚报》以《再嫁夫人》回应李敖李易安考证",
+    "summary": "台北《民族晚报》刊出雍叔《再嫁夫人》，也谈李易安再嫁问题。李敖在后记中引述雍叔的看法：虽经李敖不惮烦劳详细考证，许多人已经形成的错误印象仍未必完全廓清，李易安所受谤诬恐怕还会继续流传。",
+    "view": [
+      "论战线",
+      "出版线",
+      "研究线"
+    ],
+    "tags": [
+      "历史与人像",
+      "李易安",
+      "李清照",
+      "民族晚报",
+      "雍叔",
+      "再嫁夫人",
+      "受评互动"
+    ],
+    "people": [
+      "李敖",
+      "雍叔",
+      "李清照"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "历史与人像",
+      "李易安再嫁了吗？",
+      "再嫁夫人",
+      "民族晚报"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "历史与人像",
+      "chapter": "011.李易安再嫁了吗？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/001.历史与人像/011.李易安再嫁了吗？.txt",
+      "line": 55
+    },
+    "crossReferences": [
+      "lishi-yu-renxiang-1963-04-15-writes-li-yi-an-remarriage",
+      "lishi-yu-renxiang-1963-05-01-li-yi-an-wenxing-published"
+    ]
+  },
+  {
+    "id": "lishi-yu-renxiang-1963-05-20-sanger-catholic-books",
+    "date": "1963-05-20",
+    "displayDate": "1963年5月20日",
+    "datePrecision": "day",
+    "title": "李敖因批评天主教会收到张岳塞送来的两本教会宣传品",
+    "summary": "李敖在《桑格夫人和节育运动》后记中说，台北圣家天主堂的张岳塞看了他文中批评天主教会的部分，特地送来张希贤《自然节育》和顾保鹄《婚配圣事》各一册；李敖建议读者参看这些教会宣传品。",
+    "view": [
+      "论战线",
+      "思想线",
+      "人际线"
+    ],
+    "tags": [
+      "历史与人像",
+      "桑格夫人",
+      "节育运动",
+      "天主教会",
+      "圣家天主堂",
+      "自然节育",
+      "婚配圣事"
+    ],
+    "people": [
+      "李敖",
+      "张岳塞",
+      "张希贤",
+      "顾保鹄"
+    ],
+    "places": [
+      "台北",
+      "圣家天主堂"
+    ],
+    "works": [
+      "历史与人像",
+      "桑格夫人和节育运动",
+      "自然节育",
+      "婚配圣事"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "历史与人像",
+      "chapter": "004.桑格夫人和节育运动",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/001.历史与人像/004.桑格夫人和节育运动.txt",
+      "line": 305
+    },
+    "crossReferences": [
+      "lishi-yu-renxiang-1963-04-01-sanger-wenxing-family-planning-topic"
+    ]
+  },
+  {
+    "id": "lishi-yu-renxiang-1963-05-20-li-yi-an-postscript-yongshu",
+    "date": "1963-05-20",
+    "displayDate": "1963年5月20日",
+    "datePrecision": "day",
+    "title": "李敖为《李易安再嫁了吗？》补后记并记录雍叔回应",
+    "summary": "李敖在《李易安再嫁了吗？》后记中交代文章原登《文星》第六十七号，并记录5月8日雍叔在台北《民族晚报》以《再嫁夫人》续谈此案。他把这段回应收进后记，使自己的李清照再嫁考证和外界受评互动连在一起。",
+    "view": [
+      "写作线",
+      "论战线",
+      "研究线"
+    ],
+    "tags": [
+      "历史与人像",
+      "李易安",
+      "李清照",
+      "后记",
+      "雍叔",
+      "文星",
+      "民族晚报"
+    ],
+    "people": [
+      "李敖",
+      "雍叔",
+      "李清照"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "历史与人像",
+      "李易安再嫁了吗？",
+      "文星",
+      "民族晚报",
+      "再嫁夫人"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "历史与人像",
+      "chapter": "011.李易安再嫁了吗？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/001.历史与人像/011.李易安再嫁了吗？.txt",
+      "line": 55
+    },
+    "crossReferences": [
+      "lishi-yu-renxiang-1963-04-15-writes-li-yi-an-remarriage",
+      "lishi-yu-renxiang-1963-05-01-li-yi-an-wenxing-published",
+      "lishi-yu-renxiang-1963-05-08-yongshu-responds-li-yi-an-remarriage"
+    ]
+  },
+  {
+    "id": "lishi-yu-renxiang-1963-05-21-xu-shuzheng-review-postscript-liu-fenghan-appendix",
+    "date": "1963-05-21",
+    "displayDate": "1963年5月21日",
+    "datePrecision": "day",
+    "title": "李敖在徐树铮书评后记中补萧一山线索，并按语收刘凤翰附录",
+    "summary": "李敖在《对〈徐树铮先生文集年谱合刊〉的批评》后记第三条中补充萧一山《清代通史》新册的段祺瑞共和电报材料；同日又在刘凤翰附录后作按，说明刘凤翰此文已登《文星》第六十七号，刘凤翰答应他收入本书作附录，并代他校改一次。",
+    "view": [
+      "研究线",
+      "写作线",
+      "人际线"
+    ],
+    "tags": [
+      "历史与人像",
+      "徐树铮",
+      "徐道邻",
+      "萧一山",
+      "刘凤翰",
+      "后记",
+      "附录"
+    ],
+    "people": [
+      "李敖",
+      "徐树铮",
+      "徐道邻",
+      "萧一山",
+      "刘凤翰"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "历史与人像",
+      "对《徐树铮先生文集年谱合刊》的批评",
+      "清代通史",
+      "《徐树铮先生年谱》的商榷",
+      "文星"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "历史与人像",
+      "chapter": "012.对《徐树铮先生文集年谱合刊》的批评",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/001.历史与人像/012.对《徐树铮先生文集年谱合刊》的批评.txt",
+      "line": 151
+    },
+    "additionalSources": [
+      {
+        "book": "历史与人像",
+        "chapter": "012.对《徐树铮先生文集年谱合刊》的批评",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/001.历史与人像/012.对《徐树铮先生文集年谱合刊》的批评.txt",
+        "line": 431,
+        "note": "李敖按语说明刘凤翰文章刊于《文星》第六十七号，并答应收为附录、代为校改。"
+      }
+    ],
+    "crossReferences": [
+      "lishi-yu-renxiang-1962-10-01-xu-shuzheng-review-chuanjiwenxue",
+      "lishi-yu-renxiang-1963-04-08-night-xu-shuzheng-review-postscript-biography"
+    ]
+  },
+  {
+    "id": "lishi-yu-renxiang-1963-08-18-preface-history-and-portraits",
+    "date": "1963-08-18",
+    "displayDate": "1963年8月18日",
+    "datePrecision": "day",
+    "title": "李敖在台北写《历史与人像》自序",
+    "summary": "李敖在台北写《历史与人像》自序，说明此书收十二篇有关历史人像的论文和札记，时间跨度从十七岁写《杜威的教育思想及其他》到二十八岁写《李易安再嫁了吗？》。他在自序中说，保留不成熟部分和传统思路遗迹，是因为这些文字是他个人生命史上的重要过渡。",
+    "view": [
+      "写作线",
+      "出版线",
+      "整理线"
+    ],
+    "tags": [
+      "历史与人像",
+      "自序",
+      "历史文化类",
+      "个人生命史",
+      "过渡"
+    ],
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "历史与人像",
+      "杜威的教育思想及其他",
+      "李易安再嫁了吗？"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "历史与人像",
+      "chapter": "《历史与人像》自序",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/001.历史与人像/《历史与人像》自序.txt",
+      "line": 7
+    },
+    "crossReferences": [
+      "qianqiu-wansui-1964-01-25-051-publishes-history-and-portraits"
+    ]
+  }
+]

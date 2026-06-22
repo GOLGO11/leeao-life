@@ -40,7 +40,7 @@
     "displayDate": "1958年10月20日星期一",
     "datePrecision": "day",
     "title": "李敖写下《爱情如牙刷》",
-    "summary": "《爱情如牙刷》文末署1958年10月20日，并在诗中括注或作“女人如牙刷”。本条只收精确署日写作节点，不把诗中比喻扩展为现实感情事件。",
+    "summary": "《爱情如牙刷》文末署1958年10月20日，并在诗中括注或作“女人如牙刷”；10月21日李敖又把“女人如牙刷”版本录在给马宏祥的信中。本条只收精确署日写作节点，不把诗中比喻扩展为现实感情事件。",
     "view": [
       "写作线",
       "诗文线",
@@ -60,7 +60,9 @@
     ],
     "works": [
       "李敖的情诗",
-      "爱情如牙刷"
+      "爱情如牙刷",
+      "给马戈的五十封信",
+      "女人如牙刷"
     ],
     "certainty": "reported-by-author",
     "source": {
@@ -71,7 +73,8 @@
     },
     "crossReferences": [
       "daxue-houqi-jia-1958-10-20-completes-love-like-toothbrush-poem",
-      "li-ao-yulu-1958-10-20-diary-no-flower-and-library-reflection"
+      "li-ao-yulu-1958-10-20-diary-no-flower-and-library-reflection",
+      "ma-ge-letters-1958-10-21-sends-nvren-ru-yashua-and-optimist-poem"
     ],
     "additionalSources": [
       {
@@ -94,6 +97,20 @@
         "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/005.1958年10月.txt",
         "line": 271,
         "note": "日记原文收“不觅解语花”。"
+      },
+      {
+        "book": "给马戈的五十封信",
+        "chapter": "035.女人如牙刷",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/011.给马戈的五十封信/035.女人如牙刷.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          7,
+          9,
+          11
+        ],
+        "note": "《给马戈的五十封信》035以《女人如牙刷》题名重录此诗。"
       }
     ]
   },
@@ -114,10 +131,14 @@
       "乌来观瀑诗",
       "乌来",
       "早期写作",
-      "1958"
+      "1958",
+      "给马戈的五十封信",
+      "马戈"
     ],
     "people": [
-      "李敖"
+      "李敖",
+      "马宏祥",
+      "马戈"
     ],
     "places": [
       "乌来",
@@ -125,7 +146,8 @@
     ],
     "works": [
       "李敖的情诗",
-      "乌来观瀑诗"
+      "乌来观瀑诗",
+      "给马戈的五十封信"
     ],
     "certainty": "reported-by-author",
     "source": {
@@ -136,7 +158,8 @@
     },
     "crossReferences": [
       "daxue-houqi-jia-1958-11-10-composes-wulai-waterfall-and-two-playful-poems-in-tongjian-class",
-      "daxue-houqi-jia-1958-11-09-wulai-trip-with-qingchao-society"
+      "daxue-houqi-jia-1958-11-09-wulai-trip-with-qingchao-society",
+      "ma-ge-letters-1958-11-11-sends-six-poems-to-ma"
     ],
     "additionalSources": [
       {
@@ -159,6 +182,13 @@
         "path": "《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/003.大学日记后期甲集/006.1958年11月.txt",
         "line": 219,
         "note": "日记原文补记李敖极爱乌来瀑布。"
+      },
+      {
+        "book": "给马戈的五十封信",
+        "chapter": "042.成诗数首",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/011.给马戈的五十封信/042.成诗数首.txt",
+        "line": 3,
+        "note": "《成诗数首》录《乌来观瀑诗》全文并寄马戈指正。"
       }
     ]
   },

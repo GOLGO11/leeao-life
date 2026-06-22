@@ -1,5 +1,6 @@
 import fs from "node:fs";
 import path from "node:path";
+import { buildTimelineBundle } from "./build-timeline-bundle.mjs";
 
 const root = process.cwd();
 const dataFiles = [
@@ -76,7 +77,9 @@ const dataFiles = [
   "data/timeline-events-li-ao-shuduji.json",
   "data/timeline-events-li-ao-shuhanji-letterbox.json",
   "data/timeline-events-li-ao-shuqiji.json",
-  "data/timeline-events-prison-father-letters.json"
+  "data/timeline-events-prison-father-letters.json",
+  "data/timeline-events-ma-ge-letters.json",
+  "data/timeline-events-lishi-yu-renxiang.json"
 ];
 const outputPath = path.join(root, "exports", "leeao-current-timeline.txt");
 
@@ -167,4 +170,6 @@ for (const event of events) {
 fs.mkdirSync(path.dirname(outputPath), { recursive: true });
 fs.writeFileSync(outputPath, `\uFEFF${lines.join("\n")}\n`, "utf8");
 
+const timelineBundle = buildTimelineBundle(root);
 console.log(outputPath);
+console.log(JSON.stringify({ timelineBundle }, null, 2));
