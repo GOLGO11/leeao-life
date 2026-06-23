@@ -10199,7 +10199,10 @@
       "侯贵生",
       "新闻",
       "长程射精和中国文化",
-      "写稿"
+      "写稿",
+      "中国性研究",
+      "人工授精",
+      "中国文化"
     ],
     "people": [
       "李敖",
@@ -10212,7 +10215,8 @@
       "李敖秘藏日记",
       "5月26的日记",
       "前进",
-      "长程射精和中国文化"
+      "长程射精和中国文化",
+      "中国性研究"
     ],
     "certainty": "confirmed",
     "source": {
@@ -10228,7 +10232,29 @@
     },
     "crossReferences": [],
     "ingestionRound": "li-ao-micang-diary-round029-may26-round001-lines-1-35",
-    "dataFile": "data/timeline-events-li-ao-micang-diary.json"
+    "dataFile": "data/timeline-events-li-ao-micang-diary.json",
+    "additionalSources": [
+      {
+        "book": "中国性研究",
+        "chapter": "017.长程射精和中国文化",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/005.中国性研究/017.长程射精和中国文化.txt",
+        "line": 58,
+        "lines": [
+          13,
+          17,
+          20,
+          29,
+          31,
+          39,
+          41,
+          49,
+          54,
+          56,
+          58
+        ],
+        "note": "《中国性研究》收入本篇，署1983年5月26日；正文从侯贵生事件扩展为“中国匹夫匹妇们的思想模型”批评。"
+      }
+    ]
   },
   {
     "id": "micang-diary-1983-05-26-hears-book-seizure-report-and-tells-wuhan-story",
@@ -10484,13 +10510,14 @@
     "displayDate": "1983年9月8日早上",
     "datePrecision": "day",
     "title": "李敖写完砸铜像",
-    "summary": "1983年9月8日早上，李敖为了给自己关于吴稚晖铜像、国民党捧私昵与历史公道的立论举证，写完《砸掉那铜像！》。",
+    "summary": "1983年9月8日早上，李敖写完《砸掉那铜像！》。全文中他说明自己每次经过台北敦化北路与南京东路交叉口，看到吴稚晖铜像便展开“看没有起”，并以《苏报》案、章太炎书信、端方档案和蒋维乔回忆等材料，为自己关于吴稚晖铜像、国民党捧私昵与历史公道的立论举证。",
     "view": [
       "写作线",
       "政治线",
       "思想线"
     ],
     "tags": [
+      "中国近代史新论",
       "吴稚晖",
       "铜像",
       "国民党",
@@ -10511,6 +10538,7 @@
     "works": [
       "李敖秘藏日记",
       "“黑军师”手记",
+      "中国近代史新论",
       "砸掉那铜像！"
     ],
     "certainty": "confirmed",
@@ -10526,6 +10554,26 @@
       ],
       "note": "1983年9月9日日记回记“昨天早上”写完《砸掉那铜像！》。"
     },
+    "additionalSources": [
+      {
+        "book": "中国近代史新论",
+        "chapter": "015.砸掉那铜像！",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/007.中国近代史新论/015.砸掉那铜像！.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          17,
+          27,
+          151,
+          175,
+          209,
+          323,
+          325
+        ],
+        "note": "《中国近代史新论》收录《砸掉那铜像！》全文，补出李敖每次经过台北敦化北路南京东路口看到吴稚晖铜像的现场语境，以及他复查《苏报》、端方档案、章太炎书信等材料后的论证。"
+      }
+    ],
     "crossReferences": [
       "micang-diary-1982-11-21-writes-deng-weizhen-on-political-justice",
       "micang-diary-1983-09-09-finishes-two-early-morning-articles-and-four-total"

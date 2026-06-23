@@ -116,7 +116,16 @@ const dataFiles = [
   "./data/timeline-events-ma-ge-letters.json",
   "./data/timeline-events-lishi-yu-renxiang.json",
   "./data/timeline-events-dushi-zhinan.json",
-  "./data/timeline-events-wei-lishi-boyun.json"
+  "./data/timeline-events-wei-lishi-boyun.json",
+  "./data/timeline-events-yaoba-jinzhen-duyuren.json",
+  "./data/timeline-events-zhongguo-xing-yanjiu.json",
+  "./data/timeline-events-zhongguo-ming-yanjiu.json",
+  "./data/timeline-events-zhongguo-jindaishi-xinlun.json",
+  "./data/timeline-events-zhongguo-xiandaishi-zhenglun.json",
+  "./data/timeline-events-zhongguo-xiandaishi-dinglun.json",
+  "./data/timeline-events-zhongguo-mixin-xinyan.json",
+  "./data/timeline-events-zhongguo-yishu-xinyan.json",
+  "./data/timeline-events-li-ao-xiaoao-jianghu.json"
 ];
 const supplementalDataFiles = new Set([
   "./data/timeline-events-first-book-supplement.json",
@@ -127,7 +136,7 @@ const supplementalDataFiles = new Set([
   "./data/timeline-events-third-book-qiao-evidence.json",
   "./data/timeline-events-fourth-book-deepening.json"
 ]);
-const dataVersion = '2026-06-23-wei-lishi-boyun-round005-041-048-closeout';
+const dataVersion = '2026-06-23-li-ao-xiaoao-jianghu-round002-011-020';
 const timelineBundle = window.LEEAO_TIMELINE_BUNDLE;
 const timelineBundleMatches =
   timelineBundle?.dataVersion === dataVersion &&
