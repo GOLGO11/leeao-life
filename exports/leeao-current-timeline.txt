@@ -1,9 +1,9 @@
 ﻿李敖交互式年表：当前增量纯文本备份
-生成日期：2026-06-22
-事件总数：11418
-数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json；data/timeline-events-ni-bendan.json；data/timeline-events-dream-awake.json；data/timeline-events-li-ao-xinkan.json；data/timeline-events-qianqiu-wansui-wuya-qiushi.json；data/timeline-events-li-ao-zawenji.json；data/timeline-events-qianqiu-wansui-bianwai.json；data/timeline-events-beijing-fayuansi.json；data/timeline-events-shangshan-ai.json；data/timeline-events-red-11.json；data/timeline-events-virtual-seventeen.json；data/timeline-events-yangwei-america.json；data/timeline-events-73rd-martyr.json；data/timeline-events-love-secret.json；data/timeline-events-li-ao-love-poems.json；data/timeline-events-li-yulu.json；data/timeline-events-li-ao-yulu.json；data/timeline-events-sui-qianwan-li-ao-wangyi.json；data/timeline-events-tiaozhan-li-ao-ao-yulu.json；data/timeline-events-daxue-zhaji.json；data/timeline-events-zaonian-riji.json；data/timeline-events-daxue-houqi-riji-jia.json；data/timeline-events-daxue-houqi-riji-yi.json；data/timeline-events-preofficer-diary.json；data/timeline-events-li-ao-micang-diary.json；data/timeline-events-li-ao-zhaji.json；data/timeline-events-li-ao-wuwu-diary.json；data/timeline-events-li-ao-suixielu-qianji.json；data/timeline-events-li-ao-suixielu-houji.json；data/timeline-events-li-ao-baokanji.json；data/timeline-events-li-ao-shuxuji.json；data/timeline-events-li-ao-shuxuji-xuji.json；data/timeline-events-li-ao-duihualu.json；data/timeline-events-li-ao-fangtanlu-1990-2018.json；data/timeline-events-li-ao-qingshuji.json；data/timeline-events-li-ao-shuxinji.json；data/timeline-events-li-ao-shuhanji.json；data/timeline-events-li-ao-shujianji.json；data/timeline-events-li-ao-shuzhaji.json；data/timeline-events-li-ao-shujianji-letterpaper.json；data/timeline-events-li-ao-shuduji.json；data/timeline-events-li-ao-shuhanji-letterbox.json；data/timeline-events-li-ao-shuqiji.json；data/timeline-events-prison-father-letters.json；data/timeline-events-ma-ge-letters.json；data/timeline-events-lishi-yu-renxiang.json
+生成日期：2026-06-23
+事件总数：11471
+数据文件：data/timeline-events.json；data/timeline-events-first-book-supplement.json；data/timeline-events-first-book-broad.json；data/timeline-events-first-book-daily.json；data/timeline-events-second-book.json；data/timeline-events-second-book-broad.json；data/timeline-events-second-book-evidence.json；data/timeline-events-third-book.json；data/timeline-events-third-book-qiao-evidence.json；data/timeline-events-fourth-book.json；data/timeline-events-fourth-book-deepening.json；data/timeline-events-fifth-book.json；data/timeline-events-sixth-book.json；data/timeline-events-seventh-book.json；data/timeline-events-eighth-book.json；data/timeline-events-traditional-monologue.json；data/timeline-events-traditional-monologue-sequel.json；data/timeline-events-monologue-under-tradition.json；data/timeline-events-wencun.json；data/timeline-events-wencun-two.json；data/timeline-events-bobo-song.json；data/timeline-events-li-ao-complete-works.json；data/timeline-events-education-and-faces.json；data/timeline-events-cultural-debate-danhuo.json；data/timeline-events-thought-trend-answer.json；data/timeline-events-shangxia-gujin-talks.json；data/timeline-events-shilun-xinyu.json；data/timeline-events-qiushi-xinyu.json；data/timeline-events-woshi-tiananmen.json；data/timeline-events-jingfumen.json；data/timeline-events-freedom-summoning.json；data/timeline-events-ni-bendan.json；data/timeline-events-dream-awake.json；data/timeline-events-li-ao-xinkan.json；data/timeline-events-qianqiu-wansui-wuya-qiushi.json；data/timeline-events-li-ao-zawenji.json；data/timeline-events-qianqiu-wansui-bianwai.json；data/timeline-events-beijing-fayuansi.json；data/timeline-events-shangshan-ai.json；data/timeline-events-red-11.json；data/timeline-events-virtual-seventeen.json；data/timeline-events-yangwei-america.json；data/timeline-events-73rd-martyr.json；data/timeline-events-love-secret.json；data/timeline-events-li-ao-love-poems.json；data/timeline-events-li-yulu.json；data/timeline-events-li-ao-yulu.json；data/timeline-events-sui-qianwan-li-ao-wangyi.json；data/timeline-events-tiaozhan-li-ao-ao-yulu.json；data/timeline-events-daxue-zhaji.json；data/timeline-events-zaonian-riji.json；data/timeline-events-daxue-houqi-riji-jia.json；data/timeline-events-daxue-houqi-riji-yi.json；data/timeline-events-preofficer-diary.json；data/timeline-events-li-ao-micang-diary.json；data/timeline-events-li-ao-zhaji.json；data/timeline-events-li-ao-wuwu-diary.json；data/timeline-events-li-ao-suixielu-qianji.json；data/timeline-events-li-ao-suixielu-houji.json；data/timeline-events-li-ao-baokanji.json；data/timeline-events-li-ao-shuxuji.json；data/timeline-events-li-ao-shuxuji-xuji.json；data/timeline-events-li-ao-duihualu.json；data/timeline-events-li-ao-fangtanlu-1990-2018.json；data/timeline-events-li-ao-qingshuji.json；data/timeline-events-li-ao-shuxinji.json；data/timeline-events-li-ao-shuhanji.json；data/timeline-events-li-ao-shujianji.json；data/timeline-events-li-ao-shuzhaji.json；data/timeline-events-li-ao-shujianji-letterpaper.json；data/timeline-events-li-ao-shuduji.json；data/timeline-events-li-ao-shuhanji-letterbox.json；data/timeline-events-li-ao-shuqiji.json；data/timeline-events-prison-father-letters.json；data/timeline-events-ma-ge-letters.json；data/timeline-events-lishi-yu-renxiang.json；data/timeline-events-dushi-zhinan.json；data/timeline-events-wei-lishi-boyun.json
 说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。
-日期精度统计：day=10879；year=102；year-range=13；undated-range=1；undated-context=147；season=30；lunar-day=1；year-after=7；month=78；half-year=2；school-year-context=5；day-range=19；range-context=16；range=23；year-about=10；month-after=3；year-context=17；day-after=5；before-date-context=15；day-about=1；day-context=13；day-inferred=5；after-date-context=8；month-context=6；before-day=2；before-month=4；month-range=2；year-end=1；date-range=3
+日期精度统计：day=10924；year=103；year-range=13；undated-range=1；undated-context=149；season=30；lunar-day=1；year-after=7；month=82；half-year=2；school-year-context=5；day-range=19；range-context=16；range=23；year-about=10；month-after=3；year-context=18；day-after=5；before-date-context=15；day-about=1；day-context=13；day-inferred=5；after-date-context=8；month-context=6；before-day=2；before-month=4；month-range=2；year-end=1；date-range=3
 
 
 1935
@@ -1396,12 +1396,12 @@
   摘要：《小寒纪》写，李敖从1952年8月9日到27日十八天中，几乎每天到省立台中图书馆，根据馆藏写成《四部备要暨四部丛刊书目对照表例》，收入早年《李敖札记》第三卷。
   人物：李敖
   地点：省立台中图书馆、台中
-  标签：台中图书馆、李敖札记、自学、书目
+  标签：台中图书馆、李敖札记、读史指南、自学、书目
   视图：读书线、作品线、生平线
-  作品：四部备要暨四部丛刊书目对照表例、李敖札记、李敖快意恩仇录
+  作品：四部备要暨四部丛刊书目对照表例、李敖札记、李敖快意恩仇录、读史指南
   交叉引用：-
   来源：李敖快意恩仇录 / 004.小寒纪 / line 25
-  补充来源：-
+  补充来源：读史指南 / 001.四部备要暨四部丛刊书目对照表例 / line 1063；说明：《读史指南》本篇末尾回述此表为1952年8月9日至27日根据省立台中图书馆藏书做成，并收入《李敖札记》第三卷。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/004.小寒纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1952-08-09-writes-sibu-beiyao-index-table
 - 约1952年9月1日星期一 | 黄钟为李敖一人补习数学
@@ -81599,6 +81599,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/001.李敖情书集/009.给H的十三封信.txt
   数据：data/timeline-events-li-ao-qingshuji.json#li-ao-qingshuji-1964-08-02-to-03-h-letter-002-works-until-two-thirty-and-takes-doriden
+- 1964年9月 | 李敖写《〈古今图书集成〉研究》，说明文星版索引的意义
+  精度：month；可靠度：confirmed；排序日期：1964-09-01
+  摘要：李敖在《〈古今图书集成〉研究》中从版本、价格、流传与文星版十项优点谈这部大书的价值，特别说明文星索引小组发现全书部数不是沿袭两百五十年的6109部，而是6117部；他把文星版索引视为有意义的尝试，也为古书利用补上现代工具。
+  人物：李敖、陈梦雷、胡适
+  地点：台湾
+  标签：读史指南、古今图书集成、文星、索引、百科全书、版本、校勘
+  视图：作品线、研究线、出版线
+  作品：读史指南、《古今图书集成》研究、古今图书集成、文星版古今图书集成、古今图书集成索引
+  交叉引用：qianqiu-wansui-1964-09-15-183-letter-to-yin-on-research-materials
+  来源：读史指南 / 002.《古今图书集成》研究 / line 621
+  补充来源：读史指南 / 002.《古今图书集成》研究 / line 491；说明：文中分述文星版《古今图书集成》的十项优点。；读史指南 / 002.《古今图书集成》研究 / line 535；说明：文星索引小组发现《古今图书集成》部数应为6117部，纠正长期沿袭错误。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/002.读史指南/002.《古今图书集成》研究.txt
+  数据：data/timeline-events-dushi-zhinan.json#dushi-zhinan-1964-09-gujin-tushu-jicheng-research
 - 1964年9月27日夜至28日早晨（9月28日信中回述） | 李敖送H回来后服 Doriden 睡四小时，清晨四点醒来继续工作
   精度：range；可靠度：reported-by-author；排序日期：1964-09-27
   摘要：第六封信中，李敖回述昨晚送H回来，吃了两粒 Doriden，勉强睡了四个钟头；今早四点钟就醒，一直工作，到写信时快十点。他又写今天早上下雨，天气阴沉得很凄凉，自己很想H、很寂寞。
@@ -83564,6 +83577,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/007.李敖全集/018.避祸学大纲.txt
   数据：data/timeline-events-li-ao-complete-works.json#complete-works-1965-08-outline-of-avoiding-trouble
+- 1965年9月 | 《人间世》刊出李敖《名器不可乱！》
+  精度：month；可靠度：confirmed；排序日期：1965-09-01
+  摘要：《名器不可乱！》刊于《人间世》第七卷第十期、再复刊第五号。李敖由《左传》《资治通鉴》谈“名器”不可轻授，转入台湾政治社会，直指岛上“不够格”和“不够料”的人占尽名器，人事与制度普遍混乱，因而呼吁至少在名器一点上珍重固有文化。
+  人物：李敖、孔子、苏轼、吕希哲
+  地点：台湾
+  标签：为历史拨云、名器、人间世、台湾政治、制度批评、固有文化
+  视图：作品线、思想线、政治线
+  作品：为历史拨云、名器不可乱！、人间世、资治通鉴、左传
+  交叉引用：-
+  来源：为历史拨云 / 007.名器不可乱！ / line 29
+  补充来源：为历史拨云 / 007.名器不可乱！ / line 23；说明：李敖列举台湾政治社会中“不够格”“不够料”的人占尽名器。；为历史拨云 / 007.名器不可乱！ / line 27；说明：李敖由名器混乱推到对制度与固有文化的关切。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/003.为历史拨云/007.名器不可乱！.txt
+  数据：data/timeline-events-wei-lishi-boyun.json#wei-lishi-boyun-1965-09-renjianshi-publishes-mingqi-buke-luan
 - 1965年9月3日夜至4日清早（9月4日清早信中回述） | 李敖感谢阿贞昨晚做他的小“国宾”，并在回家路上由冷气引申“不正常”五年
   精度：range；可靠度：reported-by-author；排序日期：1965-09-03
   摘要：1965年9月4日清早给阿贞的信中，李敖回述昨天晚上阿贞做他的“小国宾”，虽然两人看法并不“统一”，但她给了他一个说“莫名其妙”之话的机会。回家路上，阿贞说刚才在国宾冷得发抖，因为冷气“不正常”；李敖便引申说“不正常从五年以前就开始了”，追问还有什么生活方式和遭遇会比她这五年来的一切更不正常。
@@ -90720,6 +90746,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/001.李敖自传与回忆/005.“北土非吾愿，东林怀我师”.txt
   数据：data/timeline-events-first-book-broad.json#1968-1969-selling-appliances-books
+- 1968年3月 | 李敖写《介绍世界最大的百科全书》推广文星版《古今图书集成》
+  精度：month；可靠度：confirmed；排序日期：1968-03-01
+  摘要：李敖在《介绍世界最大的百科全书》中介绍文星版《古今图书集成》，称它是一万卷、一亿四千四百万字的中国和世界最大百科全书；他以氏姓、镜子等检索例子说明索引是打开全书的钥匙，并把人类学、宗教、考古、法律、政治、农业等现代学科列入可利用范围。
+  人物：李敖
+  地点：台湾
+  标签：读史指南、古今图书集成、文星、百科全书、索引、工具书
+  视图：作品线、出版线、研究线
+  作品：读史指南、介绍世界最大的百科全书、古今图书集成、文星版古今图书集成、古今图书集成索引
+  交叉引用：dushi-zhinan-1964-09-gujin-tushu-jicheng-research
+  来源：读史指南 / 003.介绍世界最大的百科全书 / line 125
+  补充来源：读史指南 / 003.介绍世界最大的百科全书 / line 3；说明：开篇说明文星版《古今图书集成》的规模与世界百科全书地位。；读史指南 / 003.介绍世界最大的百科全书 / line 45；说明：文中强调中文旧书缺索引，文星版索引补上现代检索工具。；读史指南 / 003.介绍世界最大的百科全书 / line 119；说明：文末列举现代学科利用《古今图书集成》的范围。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/002.读史指南/003.介绍世界最大的百科全书.txt
+  数据：data/timeline-events-dushi-zhinan.json#dushi-zhinan-1968-03-introduces-world-largest-encyclopedia
 - 约1968年3月4日星期一 | 文星书店宣布结束经营
   精度：undated-context；可靠度：contextual；排序日期：1968-03-04
   摘要：《记文星事件》附录译文称，《文星》书店宣布将于4月1日关门；正文说明消息传出后，安瑞甫在3月7日找萧孟能。依上下文，宣布结业约在3月4日。
@@ -97840,6 +97879,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/004.李敖文存/009.论和尚吃肉.txt
   数据：data/timeline-events-wencun.json#wencun-1979-07-10-monks-eating-meat-written
+- 1979年7月11日 | 李敖写《介绍〈中国历史演义全集〉》
+  精度：day；可靠度：confirmed；排序日期：1979-07-11
+  摘要：李敖指出正史浩繁难读，历史要进入民间，需要说书、演义一类通俗历史；他据此介绍《中国历史演义全集》，主张从《东周列国志演义》起，串联秦汉、后汉、三国、两晋、南北朝、唐、五代、宋、元、明、清、民国，再以《二十五史总演义》和《新中国未来记演义》作综合与前瞻。
+  人物：李敖
+  地点：台湾
+  标签：读史指南、中国历史演义全集、历史演义、通俗历史、远流
+  视图：作品线、出版线、研究线
+  作品：读史指南、中国历史演义总说、介绍《中国历史演义全集》、中国历史演义全集、东周列国志演义、二十五史总演义、新中国未来记演义
+  交叉引用：li-ao-shuhanji-1979-10-08-writes-junlang-book-buying-discount-yuanliu
+  来源：读史指南 / 004.中国历史演义总说 / line 103
+  补充来源：读史指南 / 004.中国历史演义总说 / line 47；说明：文中说明正史难读，通俗历史和历史演义承担历史民间化功能。；读史指南 / 004.中国历史演义总说 / line 61；说明：李敖说明《中国历史演义全集》作为出版主题的必要性。；读史指南 / 004.中国历史演义总说 / line 67；说明：文中列出从《东周列国志演义》到《新中国未来记演义》的理想全集次序。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/002.读史指南/004.中国历史演义总说.txt
+  数据：data/timeline-events-dushi-zhinan.json#dushi-zhinan-1979-07-11-introduces-chinese-history-romance-complete-set
 - 1979年7月15日星期日 | 《“逸豫适足亡身”吗？》刊于《中国时报》
   精度：day；可靠度：confirmed；排序日期：1979-07-15
   摘要：《“逸豫适足亡身”吗？》文末署《中国时报》1979年7月15日，补出这篇时评进入公共空间的发表层。
@@ -98061,6 +98113,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/004.李敖文存/001.看谁文章写得好？（代序）.txt
   数据：data/timeline-events-wencun.json#wencun-1979-09-05-preface-published-in-china-times
+- 1979年9月10日星期一 | 李敖写《蝙蝠和清流》，反驳“中间势力清流论”
+  精度：day；可靠度：confirmed；排序日期：1979-09-10
+  摘要：李敖在1979年9月10日写《蝙蝠和清流》。他先回指自己在《独白下的传统》中写《人能感动蝙蝠论》时所做的动物泛灵信仰考辨，再转到报纸上的“中间势力清流论”，指出传统“清议”本来是第一线的明是非、分邪正，不是折中骑墙，也不是无党派耆宿的陪衬姿态。文末他据前一日报纸说蝙蝠洞蝙蝠飞走，讽刺不要另有“物之生克”式的变种蝙蝠。
+  人物：李敖、韩愈、袁枚、Kossuth、Winston Churchill
+  地点：台湾、中国、匈牙利、英国
+  标签：为历史拨云、蝙蝠和清流、清流、清议、中间势力、东林、独白下的传统
+  视图：作品线、思想线、政治线
+  作品：为历史拨云、蝙蝠和清流、人能感动蝙蝠论、独白下的传统、伊索寓言、新约
+  交叉引用：monologue-under-tradition-1979-05-14-human-can-move-bats-written-in-three-hours
+  来源：为历史拨云 / 026.蝙蝠和清流 / line 31
+  补充来源：为历史拨云 / 026.蝙蝠和清流 / line 3；说明：李敖回指自己在《独白下的传统》中写《人能感动蝙蝠论》，并称其为纯中国思想考辨。；为历史拨云 / 026.蝙蝠和清流 / line 23；说明：李敖由报纸上的“中间势力清流论”转入对清流、清议的辨析。；为历史拨云 / 026.蝙蝠和清流 / line 27；说明：李敖强调真正的清流不是中间、无立场，而是在第一线显出本色。；为历史拨云 / 026.蝙蝠和清流 / line 33；说明：附记中李敖在写后想到“浊流”的对照，并点出“浊水溪”。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/003.为历史拨云/026.蝙蝠和清流.txt
+  数据：data/timeline-events-wei-lishi-boyun.json#wei-lishi-boyun-1979-09-10-writes-bats-and-clear-streams
 - 1979年9月15日星期六 | 李敖出版《李敖文存》《李敖文存二集》
   精度：day；可靠度：confirmed；排序日期：1979-09-15
   摘要：《李敖著作年表》记载，李敖1979年6月复出后，于9月15日出版《李敖文存》和《李敖文存二集》。旧库已有两书内大量单篇写作与发表节点，本条补出两部书的同日出版层。
@@ -98139,6 +98204,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/004.李敖文存/018.绝子如不见.txt
   数据：data/timeline-events-wencun.json#wencun-1979-10-17-letter-to-meng-juezi-published
+- 1979年10月20日星期六（10月29日刊于《中国时报》） | 李敖写《拦路告状不可拦！》，为弱者拦路申冤辩护
+  精度：day；可靠度：confirmed；排序日期：1979-10-20
+  摘要：李敖在1979年10月20日写《拦路告状不可拦！》，10月29日刊于《中国时报》。他从监察院地方巡察时地方官警阻拦告状人谈起，追索登闻鼓、立肺石、邀车驾、拦舆等传统，说明拦路告状虽是旧式动作，却往往来自正式救济失灵后的弱者处境。文中他又举十四年前台湾省主席巡视花莲时妇人哭诉被拖入厕所的新闻，反问现代民主法治若不能落实，凭什么阻止弱者用“落伍”但真切的方式求救。
+  人物：李敖、陈履安、李文仪
+  地点：台湾、花莲、台北
+  标签：为历史拨云、拦路告状、监察院、立肺石、申冤、民主法治、中国时报
+  视图：作品线、政治线、法律线
+  作品：为历史拨云、拦路告状不可拦！、中国时报、周礼、册府元龟、旧唐书
+  交叉引用：wei-lishi-boyun-1985-07-11-morning-writes-li-fei-shi
+  来源：为历史拨云 / 023.拦路告状不可拦！ / line 25
+  补充来源：为历史拨云 / 023.拦路告状不可拦！ / line 3；说明：李敖据报写监察院地方巡察时，地方官警疑有阻拦民众告状。；为历史拨云 / 023.拦路告状不可拦！ / line 7；说明：李敖把拦路告状与登闻鼓、立肺石等传统申冤制度连起来分析。；为历史拨云 / 023.拦路告状不可拦！ / line 19；说明：李敖举十四年前台湾省主席巡视花莲时妇人哭诉被阻的新闻为例。；为历史拨云 / 023.拦路告状不可拦！ / line 23；说明：李敖收束说，若不能真正民主法治，“落伍”的拦路告状仍比空话更真切。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/003.为历史拨云/023.拦路告状不可拦！.txt
+  数据：data/timeline-events-wei-lishi-boyun.json#wei-lishi-boyun-1979-10-20-writes-roadside-petitions-not-block
 - 1979年11月11日星期日 | 《时报周刊》以胡茵梦手持桥牌小照搂李敖作封面，恋情传闻大热
   精度：day；可靠度：confirmed；排序日期：1979-11-11
   摘要：《胡茵梦出现》写，1979年11月11日《时报周刊》以胡茵梦为封面，手执一张红心老K桥牌，牌上小照片是她从背后搂着李敖。这一封面把两人的关系从文化版、社会版进一步推向大众娱乐视野，也让李敖自述自己由“社会版”人物变成“影剧版”要角。
@@ -98492,6 +98570,19 @@
   补充来源：李敖秘藏日记 / 013.欲看湖光不自由 / line 43；说明：李敖1986年2月6日路经南投公墓时追记1980年2月8日在财神大酒店顶楼晚餐见到经理白云，并记胡茵梦事后写《问白云》。；李敖秘藏日记 / 013.欲看湖光不自由·附录《问白云》（胡茵梦） / line 53；说明：胡茵梦《问白云》附录记白云走进财神酒店西餐厅与“我”接触；此为胡茵梦文章，非李敖本人叙述。；李敖秘藏日记 / 013.欲看湖光不自由·附录《问白云》（胡茵梦） / line 59；说明：胡茵梦《问白云》附录记“李敖劝他写回忆录”，白云不愿保留或揭隐私而作罢；此为胡茵梦文章，非李敖本人叙述。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/016.梦遗纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1980-02-08-dinner-with-hu-meets-baiyun
+- 1980年3月20日 | 李敖写定《中国历史演义总说》后半部，说明会读演义可省力入史
+  精度：day；可靠度：confirmed；排序日期：1980-03-20
+  摘要：李敖在《中国历史演义总说》后半逐部说明《东周列国志演义》到《民国演义》，又谈《二十五史演义》和《新中国未来记》。他概括会读历史演义的人可用最少精力得到最大好处，并把《新中国未来记》视为预言过后转成先知型文献，认为读者可借《中国历史演义全集》理解中国、成为理智的爱国者。
+  人物：李敖、蔡东藩、梁启超
+  地点：台湾
+  标签：读史指南、中国历史演义全集、历史演义、新中国未来记、二十五史演义、读史方法
+  视图：作品线、出版线、研究线
+  作品：读史指南、中国历史演义总说、中国历史演义全集、民国演义、二十五史演义、新中国未来记
+  交叉引用：dushi-zhinan-1979-07-11-introduces-chinese-history-romance-complete-set、li-ao-shuhanji-1979-10-08-writes-junlang-book-buying-discount-yuanliu
+  来源：读史指南 / 004.中国历史演义总说 / line 297
+  补充来源：读史指南 / 004.中国历史演义总说 / line 275；说明：李敖概括会读历史演义的人可用最少精力得到最大好处。；读史指南 / 004.中国历史演义总说 / line 283；说明：文中说明《中国历史演义全集》二十八大册之外，还需要综合性的一册。；读史指南 / 004.中国历史演义总说 / line 293；说明：李敖把《新中国未来记》视为预言事后转成先知型文献。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/002.读史指南/004.中国历史演义总说.txt
+  数据：data/timeline-events-dushi-zhinan.json#dushi-zhinan-1980-03-20-finishes-chinese-history-romance-guide
 - 1980年3月21日星期五 | 侯德健写长信给李敖请求二十万元援助
   精度：day；可靠度：confirmed；排序日期：1980-03-21
   摘要：《跋“侯德健给李敖的信”》说明侯德健在1980年3月、《龙的传人》发行前三星期写长信给李敖；信末署“晚 侯德健 白 69,3,21”。李敖后来发表此信，并记下收到后“哭笑不得”的反应。
@@ -99677,6 +99768,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/016.梦遗纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1981-10-19-letter-to-wu-weixian-in-prison
+- 1981年10月21日星期三 | 李敖写《中国的家》，从家族形态谈孝道在工业社会的折扣
+  精度：day；可靠度：confirmed；排序日期：1981-10-21
+  摘要：李敖在1981年10月21日写《中国的家》。他从“齐家治国平天下”的家族观念谈起，指出古代中国的“家”是有经济基础、法律保障乃至族长权力和私刑的完整单位。文章转而说明传统大家庭进入工业社会后难以适应，两代家庭经济常已不足以同时“蓄妻子”又“事父母”，因此不了解社会形态变化而硬以“孝道”律人，或以“不孝”自责，都是不公平的。
+  人物：李敖
+  地点：中国
+  标签：为历史拨云、中国的家、家族、孝道、工业社会、大家庭、齐家治国
+  视图：作品线、思想线、文化线
+  作品：为历史拨云、中国的家、大学
+  交叉引用：-
+  来源：为历史拨云 / 037.中国的家 / line 11
+  补充来源：为历史拨云 / 037.中国的家 / line 3；说明：李敖从“欲治其国者，先齐其家”谈中国古代家族单位。；为历史拨云 / 037.中国的家 / line 7；说明：李敖说明传统理想大家庭进入工业社会后难以适应。；为历史拨云 / 037.中国的家 / line 9；说明：李敖指出工业社会家庭经济变化会迫使孝道标准打折扣。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/003.为历史拨云/037.中国的家.txt
+  数据：data/timeline-events-wei-lishi-boyun.json#wei-lishi-boyun-1981-10-21-writes-chinese-family
 - 1981年10月21日星期三 | 林志新进入台北看守所
   精度：day；可靠度：confirmed；排序日期：1981-10-21
   摘要：《监狱学土城？》列林志新1981年10月21日入所，1982年1月19日送病舍当天死亡，是台北看守所死亡个案链的一环。
@@ -100340,6 +100444,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/054.论褫夺狂——兼论政治犯是终身职.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1981-12-31-054-rlmr3fhmimo2——g3grlmjzzlh7mnjk6np1ks6jpcc
+- 1981年 | 李敖写《新夺情说》，以“吕秀莲模式”批监狱奔丧法被封杀
+  精度：year；可靠度：confirmed；排序日期：1981-12-31
+  摘要：李敖在1981年写《新夺情说》。他从林肯不奔父丧、吴起不临母丧和中国传统奔丧、守制讲起，转入张居正父死后被明神宗准许“夺情”留任的权变。文章后段把这种“夺情”逻辑引到台湾监狱：1974年《监狱行刑法》虽增订受刑人父母、配偶或子女死亡可戒护返家探视，但“得准”也意味着可不准，李敖称这条奔丧法最后被夺情说封杀，形成“吕秀莲模式”。
+  人物：李敖、Abraham Lincoln、吴起、张居正、李幼孜、明神宗、冯保、张瀚、吕秀莲
+  地点：中国、台湾、美国、监狱
+  标签：为历史拨云、新夺情说、夺情、奔丧、监狱行刑法、吕秀莲、张居正
+  视图：作品线、政治线、法律线
+  作品：为历史拨云、新夺情说、监狱行刑法
+  交叉引用：li-ao-zhaji-1987-05-01-excerpts-labor-mainland-funeral-leave-rule
+  来源：为历史拨云 / 041.新夺情说 / line 19
+  补充来源：为历史拨云 / 041.新夺情说 / line 5；说明：李敖从林肯不奔父丧与吴起不临母丧谈中国孝道中的奔丧要求。；为历史拨云 / 041.新夺情说 / line 9；说明：李敖详述张居正父死后以“夺情”留任的政治权变。；为历史拨云 / 041.新夺情说 / line 13；说明：李敖把奔丧意识流连接到1974年《监狱行刑法》第二十六条之一。；为历史拨云 / 041.新夺情说 / line 17；说明：李敖批评“得准”给禁子牢头上下其手机会，并称为“吕秀莲模式”。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/003.为历史拨云/041.新夺情说.txt
+  数据：data/timeline-events-wei-lishi-boyun.json#wei-lishi-boyun-1981-year-writes-new-duoqing-theory
 - 1981年 | 李敖听杨增悌说李善培在美国被杀后作《无所逃》
   精度：year；可靠度：reported-by-author；排序日期：1981-12-31
   摘要：《李诗四首》中的《无所逃》题下注明，杨增悌告诉李敖“李善培在美国被一个黑人杀死了”，李敖因而作此诗。此条只采题注中的现实触发与写作动作，不把诗中普遍化的生死感慨扩成事实叙事。
@@ -102279,6 +102396,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/019.宣淫纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1982-annie-thousand-days-intimate-memory
+- 1982年岁暮 | 李敖岁暮发表十七岁书目表，回看早年研究与今日功力相连
+  精度：year-context；可靠度：confirmed；排序日期：1982-12-31
+  摘要：李敖在《四部备要暨四部丛刊书目对照表例》末尾说明，他三十年后发表这份十七岁时在省立台中图书馆做成的书目表，是要证明自己对中国文化的研究早在少年时已有水准；他认为当年的功力和用功，与今日功力和成绩有因果连贯，敌人朋友都应注意。
+  人物：李敖
+  地点：省立台中图书馆、台中
+  标签：读史指南、四部备要、四部丛刊、李敖札记、台中图书馆、自学、书目
+  视图：回忆线、作品线、研究线
+  作品：读史指南、四部备要暨四部丛刊书目对照表例、李敖札记
+  交叉引用：book5-1952-08-09-writes-sibu-beiyao-index-table
+  来源：读史指南 / 001.四部备要暨四部丛刊书目对照表例 / line 1067
+  补充来源：读史指南 / 001.四部备要暨四部丛刊书目对照表例 / line 1063；说明：李敖回述此表为1952年8月9日至27日根据省立台中图书馆藏书做成，并收在《李敖札记》第三卷。；读史指南 / 001.四部备要暨四部丛刊书目对照表例 / line 1065；说明：李敖说明三十年后发表早年成绩，是要证明少年时的研究水准与今日功力相连。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/002.读史指南/001.四部备要暨四部丛刊书目対照表例.txt
+  数据：data/timeline-events-dushi-zhinan.json#dushi-zhinan-1982-late-year-republishes-youth-bibliography-table
 - 约1982年12月31日星期五 | 李敖要新格唱片向宋楚瑜抗议窜改《龙的传人》
   精度：undated-context；可靠度：contextual；排序日期：1982-12-31
   摘要：李敖在侯德健跋文中回忆，新闻局长宋楚瑜窜改《龙的传人》后，他很为侯德健不平，曾要求新格唱片公司向宋楚瑜抗议，但新格方面不敢。
@@ -113062,6 +113192,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/006.波波颂/032.陶潜者，今之我也.txt
   数据：data/timeline-events-bobo-song.json#bobo-song-1985-07-11-tao-qian-is-me
+- 1985年7月11日星期四晨 | 李敖晨写《冯起炎如果生在现代》，讽现代统治者连拦路上书机会也不给
+  精度：day；可靠度：confirmed；排序日期：1985-07-11
+  摘要：李敖在1985年7月11日晨写《冯起炎如果生在现代》。他据《清代文字狱档》写冯起炎携作品拦路等待乾隆，想请皇帝替自己做媒，结果被直隶总督袁守侗拟发黑龙江给披甲人为奴。李敖由此转到现代政治：现代统治者不必把拦路上书的小百姓发配为奴，因为防弹车、交通管制和神枪手已经使小百姓根本接近不了“圣主”。
+  人物：李敖、冯起炎、乾隆、袁守侗
+  地点：临汾、泰陵、黑龙江、中国
+  标签：为历史拨云、冯起炎、拦路上书、清代文字狱档、防弹车、小百姓、统治者
+  视图：作品线、政治线、法律线
+  作品：为历史拨云、冯起炎如果生在现代、清代文字狱档、易经、诗经
+  交叉引用：wei-lishi-boyun-1985-07-11-morning-writes-li-fei-shi、wei-lishi-boyun-1979-10-20-writes-roadside-petitions-not-block
+  来源：为历史拨云 / 036.冯起炎如果生在现代 / line 17
+  补充来源：为历史拨云 / 036.冯起炎如果生在现代 / line 3；说明：李敖据《清代文字狱档》写冯起炎携作品拦路等待乾隆。；为历史拨云 / 036.冯起炎如果生在现代 / line 11；说明：李敖指出小百姓向统治者直接上书，后果可能严重。；为历史拨云 / 036.冯起炎如果生在现代 / line 13；说明：李敖转讽现代统治者以交通管制、防弹轿车和神枪手阻断百姓接近。；为历史拨云 / 036.冯起炎如果生在现代 / line 15；说明：李敖收束说现代“圣主”不给小百姓接近机会，自然也就不必奴隶他。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/003.为历史拨云/036.冯起炎如果生在现代.txt
+  数据：data/timeline-events-wei-lishi-boyun.json#wei-lishi-boyun-1985-07-11-morning-writes-feng-qiyan-modern
+- 1985年7月11日晨 | 李敖晨写《立肺石》，批国民党连古代申冤制度也复兴不出
+  精度：day；可靠度：confirmed；排序日期：1985-07-11
+  摘要：李敖在1985年7月11日晨写《立肺石》。他由唐、明、清告御状先挨揍谈到《周礼》肺石罚站申冤制度，指出立肺石本意是让穷民下情上达，却又以三日罚站限制百姓“渎上”。文末他讥讽口口声声复兴文化的国民党连立肺石都复兴不出来，下情不能上达甚至连古人都不如。
+  人物：李敖、王安石、武则天、凌杨藻
+  地点：中国、台湾
+  标签：为历史拨云、立肺石、周礼、申冤制度、言论自由、国民党、文化复兴
+  视图：作品线、政治线、思想线
+  作品：为历史拨云、立肺石、周礼、周官新义、蠡勺编
+  交叉引用：-
+  来源：为历史拨云 / 020.立肺石 / line 19
+  补充来源：为历史拨云 / 020.立肺石 / line 3；说明：李敖说明中国文化中下情上达常先要挨揍或罚站。；为历史拨云 / 020.立肺石 / line 5；说明：李敖说明立肺石的罚站申冤机制及其实际折扣。；为历史拨云 / 020.立肺石 / line 17；说明：李敖由立肺石转批国民党连古代下情上达形式都复兴不出。；为历史拨云 / 020.立肺石 / line 21；说明：附记中李敖讨论凌杨藻《蠡勺编》对肺石形制的新说。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/003.为历史拨云/020.立肺石.txt
+  数据：data/timeline-events-wei-lishi-boyun.json#wei-lishi-boyun-1985-07-11-morning-writes-li-fei-shi
 - 1985年7月15日星期一 | 《千秋评论》第46期《和尚·和尚·施》出版
   精度：day；可靠度：confirmed；排序日期：1985-07-15
   摘要：《李敖著作年表》记载，李敖于1985年7月15日出版《千秋评论》第46期《和尚·和尚·施》。 年表在此期后标注“查禁”。
@@ -113257,6 +113413,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/005.一个预备军官的日记/017.1960年6月.txt
   数据：data/timeline-events-preofficer-diary.json#preofficer-diary-1985-09-04-adds-note-meng-dazhong-germany-aided-by-forged-documents-with-shi-qiyang
+- 1985年9月8日星期日 | 李敖写《中国印》，梳理中国图章从封泥到清代印制的文化史
+  精度：day；可靠度：confirmed；排序日期：1985-09-08
+  摘要：李敖在1985年9月8日写《中国印》。他从中国人重盖印而外国人重签名谈起，依次梳理封泥期、朱印期、私印流行、石印玉印材料、阴文阳文和清代官印制度。文中也顺手批评台湾流行“印相学”和“开运印”，认为这种把命运寄托于图章的迷信已经走火入魔、不入流。
+  人物：李敖、陶宗仪、苏秦、王冕、山涛、权德舆
+  地点：中国、台湾、青田、寿山、云南
+  标签：为历史拨云、中国印、图章、封泥、朱印、清代官印、开运印
+  视图：作品线、文化线、思想线
+  作品：为历史拨云、中国印、辍耕录、周礼、史记、魏书、晋书
+  交叉引用：wei-lishi-boyun-1985-09-09-morning-writes-seal-politics
+  来源：为历史拨云 / 032.中国印 / line 39
+  补充来源：为历史拨云 / 032.中国印 / line 3；说明：李敖从中国人重图章、外国人重签名谈中国印的文化特色。；为历史拨云 / 032.中国印 / line 7；说明：李敖说明封泥期的泥封、识别和防拆作用。；为历史拨云 / 032.中国印 / line 17；说明：李敖谈私印流行，并批评台湾“印相学”“开运印”的迷信。；为历史拨云 / 032.中国印 / line 29；说明：李敖详述清朝官场印信等级和关防制度。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/003.为历史拨云/032.中国印.txt
+  数据：data/timeline-events-wei-lishi-boyun.json#wei-lishi-boyun-1985-09-08-writes-chinese-seals
+- 1985年9月9日星期一晨 | 李敖晨写《图章政治》，以印章制度批国民党知易行难
+  精度：day；可靠度：confirmed；排序日期：1985-09-09
+  摘要：李敖在1985年9月9日晨写《图章政治》。他由“印累绶若”谈官吏身兼多职和图章代行，重点整理何永佶1944年《废止图章改用签字办公刍议》和1946年《谈“秘书长”》，指出图章制度造成权责、人事、上下脱节，滋生兼职、私人秘书和师爷式政治。文章后段对照《中央日报》1968年社论和《中国时报》1984年社论，认为国民党早知印章制度妨碍行政效率，却积重难返，正是“知易行难”。
+  人物：李敖、何永佶、石显、Franklin D. Roosevelt、Winston Churchill、孙中山
+  地点：中国、台湾、重庆、天津、台南
+  标签：为历史拨云、图章政治、印章制度、签字办公、秘书长、分层负责、国民党
+  视图：作品线、政治线、思想线
+  作品：为历史拨云、图章政治、废止图章改用签字办公刍议、谈“秘书长”、大公报、中央日报、中国时报、民法
+  交叉引用：wei-lishi-boyun-1985-09-08-writes-chinese-seals
+  来源：为历史拨云 / 033.图章政治 / line 147
+  补充来源：为历史拨云 / 033.图章政治 / line 9；说明：李敖由“印累绶若”转入图章政治在中国大行的原因。；为历史拨云 / 033.图章政治 / line 13；说明：李敖介绍何永佶1944年《废止图章改用签字办公刍议》关于图章办公弊病的论述。；为历史拨云 / 033.图章政治 / line 97；说明：李敖借何永佶论述提出禁止兼职、废止图章和“一人一职”。；为历史拨云 / 033.图章政治 / line 107；说明：李敖以1968年《中央日报》社论说明国民党后知后觉地承认印章制度问题。；为历史拨云 / 033.图章政治 / line 145；说明：李敖收束说国民党对图章政治正是知易行难。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/003.为历史拨云/033.图章政治.txt
+  数据：data/timeline-events-wei-lishi-boyun.json#wei-lishi-boyun-1985-09-09-morning-writes-seal-politics
 - 1985年9月10日星期二 | 李敖补记干部Party含义
   精度：day；可靠度：primary-source；排序日期：1985-09-10
   摘要：1985年9月10日，李敖在1960年6月4日日记旁补记，说明当年所说“Party”是指国民党小组会。
@@ -115729,6 +115911,19 @@
   补充来源：李敖札记 / 098.我的悲剧 / line 3；说明：《李敖札记》原文；李敖自述古典美德与古典世界追求。
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/005.诗集语录类/004.李敖语录/005.立言家的真面目.txt
   数据：data/timeline-events-li-ao-yulu.json#li-ao-yulu-1986-12-09-li-ao-zhaji-tragic-classical-world
+- 1986年12月9日傍晚 | 李敖傍晚以一小时半写成《从科举到选举》
+  精度：day；可靠度：confirmed；排序日期：1986-12-09
+  摘要：李敖在1986年12月9日傍晚以一小时半写成《从科举到选举》。他由唐太宗科举使天下英雄入彀，转写台湾国民党用部分选举制造民主假象，把华洋博士、学者教授、律师医生、党棍军头等吸入选坛，化掉抗暴与原则的力量，并仿王定保口吻讽写蒋经国在介寿馆阳台看“新议员”入彀。
+  人物：李敖、王定保、唐太宗、蒋经国、赵少康、冯定国
+  地点：台湾、介寿馆
+  标签：为历史拨云、科举、选举、国民党、民主假象、蒋经国、台湾政治
+  视图：作品线、政治线、思想线
+  作品：为历史拨云、从科举到选举、摭言
+  交叉引用：-
+  来源：为历史拨云 / 010.从科举到选举 / line 23
+  补充来源：为历史拨云 / 010.从科举到选举 / line 15；说明：李敖把20世纪台湾选举制度与科举制度相类比。；为历史拨云 / 010.从科举到选举 / line 17；说明：李敖批评国民党开放部分选举以制造民主假象并化掉抗暴力量。；为历史拨云 / 010.从科举到选举 / line 21；说明：李敖仿《摭言》口吻改写蒋经国看新议员入彀。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/003.为历史拨云/010.从科举到选举.txt
+  数据：data/timeline-events-wei-lishi-boyun.json#wei-lishi-boyun-1986-12-09-evening-writes-from-keju-to-xuanju
 - 1986年12月12日 | 李敖致邓维桢，自剖“财神爷”谣言与财务处境
   精度：day；可靠度：reported-by-author；排序日期：1986-12-12
   摘要：1986年12月12日，李敖致邓维桢，奇怪邓维桢也轻信外界关于他很有钱的传说。信中他引《跋“侯德健给李敖的信”》自剖，说明“财神爷”名声来自谣言、义助朋友和三手凯迪拉克等夸张传闻；他承认曾以六位数字援助政治受难者，最近包括五一九绿色行动龙山寺捐十万元、郑南榕被捕后送其父母十万元，但强调自己曾抵押母亲公寓救急、欠刘小姐家七十万，手边周转不足以承受大意外。李敖还在信中说明自己真正问题是要花许多时间建立写作环境和散布能力，在台湾被严密封杀与孤立。
@@ -116303,6 +116498,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/002.李敖自传与回忆续集/038.为萧孟能入狱在即致施启扬函.txt
   数据：data/timeline-events-second-book-broad.json#book2-broad-1987-02-28-letter-to-shih-chiyang
+- 1987年3月3日星期二 | 李敖写《限时专判》，从听狱之限谈速审速结与人权
+  精度：day；可靠度：confirmed；排序日期：1987-03-03
+  摘要：李敖在1987年3月3日写《限时专判》。他由匈奴审案十日为限谈起，指出中国经典和律令中也有旬日听狱、淹禁逾限惩办司法人员的传统；从现代人权角度看，十日断案若过急当然可能粗疏，但更大的问题是长期羁押、无限期拖审对人的摧残。附记中他补说，若十天确实用于认真听审、处理证据，也未必不够。
+  人物：李敖、匈奴
+  地点：中国、匈奴
+  标签：为历史拨云、限时专判、听狱之限、司法、人权、大明律
+  视图：作品线、法律线、思想线
+  作品：为历史拨云、限时专判、大明律、唐律疏议、北史
+  交叉引用：-
+  来源：为历史拨云 / 025.限时专判 / line 17
+  补充来源：为历史拨云 / 025.限时专判 / line 3；说明：李敖由匈奴狱久者不过十日的记载开题。；为历史拨云 / 025.限时专判 / line 11；说明：李敖从现代人权角度辨析限时审判过快与无限拖押两种问题。；为历史拨云 / 025.限时专判 / line 15；说明：李敖举《大明律》“淹禁致死”等规定说明传统中也惩治司法拖延。；为历史拨云 / 025.限时专判 / line 19；说明：附记中李敖补充，十日若专用于听审、理证，也未必太短。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/003.为历史拨云/025.限时专判.txt
+  数据：data/timeline-events-wei-lishi-boyun.json#wei-lishi-boyun-1987-03-03-writes-time-limited-judgment
 - 1987年3月4日 | 李敖致许水德，追问《千秋评论》与《文星》处理双重标准
   精度：day；可靠度：reported-by-author；排序日期：1987-03-04
   摘要：1987年3月4日，李敖致台北市长许水德，副本给司法院院长黄少谷和行政院新闻局局长张京育，请其答复《千秋评论杂志》与《文星杂志》处理为何不同。他在信中追述，自己1981年4月18日获《千秋评论》执照、4月23日实际收到，6月17日萧孟能自诉案被高院枉判有罪，7月10日台北市政府即来函要求变更发行人；李敖收到来函后既大惑不解又恍然大悟，认为高院给市府通风报信形成封杀。信中又列举最高法院后来推翻枉判、萧孟能因窃占与违反国家总动员法被判刑，要求许水德说明是否同样行文萧孟能、是否停止《文星》发行。
@@ -118450,6 +118658,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/018.笔伐（1982-1992·47到57岁）.txt
   数据：data/timeline-events-fourth-book.json#book4-1988-10-01-wuya-review-starts
+- 1988年10月4日 | 李敖写《国民党无大臣之风》，批国民党官僚不知“大臣之体”
+  精度：day；可靠度：confirmed；排序日期：1988-10-04
+  摘要：李敖写《国民党无大臣之风》，从蒋梦麟被吴稚晖斥为“无大臣之风”谈起，说明中国传统中“大臣之体”重在定天下大计、百年大计，而不是专管小事。他借陈平、丙吉、曾国藩、李鸿章等例子立标尺，转批国民党满朝大臣只会南北奔波、巡视考场、慰问灾区、亲督党务，既不懂大臣之体，也不知道真正的大计该如何定。
+  人物：李敖、蒋梦麟、吴稚晖、刘半农、陈平、丙吉、曾国藩、李鸿章
+  地点：台湾、中国
+  标签：为历史拨云、大臣之风、国民党、官僚批评、政治伦理、蒋梦麟
+  视图：作品线、政治线、思想线
+  作品：为历史拨云、国民党无大臣之风、西潮
+  交叉引用：-
+  来源：为历史拨云 / 011.国民党无大臣之风 / line 17
+  补充来源：为历史拨云 / 011.国民党无大臣之风 / line 3；说明：李敖由蒋梦麟、吴稚晖“无大臣之风”故事开题。；为历史拨云 / 011.国民党无大臣之风 / line 5；说明：李敖定义大臣之体在定天下大计、百年大计。；为历史拨云 / 011.国民党无大臣之风 / line 15；说明：李敖转批国民党大臣专管小事、无大臣之风。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/003.为历史拨云/011.国民党无大臣之风.txt
+  数据：data/timeline-events-wei-lishi-boyun.json#wei-lishi-boyun-1988-10-04-writes-kmt-no-great-minister-style
+- 1988年10月5日 | 李敖写《大臣的进退》，批国民党官员知进不知退
+  精度：day；可靠度：confirmed；排序日期：1988-10-05
+  摘要：李敖写《大臣的进退》，承接前一天《国民党无大臣之风》，说明真正大臣合乎原则时进而不退，不合原则时退而不进。他以晏子、冯道为进而不退的例子，以艾登、张伯伦为退而不恋栈的例子，最后批评国民党官员只知道做官，萧天赞、郭婉容等遇关说案或税政反复仍不辞职，是小人式不要脸。
+  人物：李敖、晏子、冯道、Anthony Eden、Neville Chamberlain、萧天赞、郭婉容
+  地点：台湾、英国
+  标签：为历史拨云、大臣进退、国民党、萧天赞、郭婉容、政治伦理、辞职
+  视图：作品线、政治线、思想线
+  作品：为历史拨云、大臣的进退、国民党无大臣之风
+  交叉引用：wei-lishi-boyun-1988-10-04-writes-kmt-no-great-minister-style
+  来源：为历史拨云 / 012.大臣的进退 / line 13
+  补充来源：为历史拨云 / 012.大臣的进退 / line 3；说明：李敖明说本文承接《国民党无大臣之风》。；为历史拨云 / 012.大臣的进退 / line 7；说明：李敖说明为了百姓而进而不退的大臣原则。；为历史拨云 / 012.大臣的进退 / line 11；说明：李敖批评萧天赞、郭婉容等国民党官员恋栈。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/003.为历史拨云/012.大臣的进退.txt
+  数据：data/timeline-events-wei-lishi-boyun.json#wei-lishi-boyun-1988-10-05-writes-great-minister-advance-retreat
 - 1988年10月6日星期四 | 李敖写《谁实行三民主义？》
   精度：day；可靠度：confirmed；排序日期：1988-10-06
   摘要：《谁实行三民主义？》文末署1988年10月6日。李敖借蔡孟坚回忆见蒋介石谈北欧小国实行三民主义，反讽国民党对三民主义只此一家的垄断心态。
@@ -118476,6 +118710,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/012.李敖新刊/012.双十节违反“国父遗教”.txt
   数据：data/timeline-events-li-ao-xinkan.json#liao-xinkan-1988-10-09-012-double-ten-violates-testament
+- 1988年10月11日 | 李敖写《大臣的失态》，据《立法院公报》记录萧天赞关说案答辩
+  精度：day；可靠度：confirmed；排序日期：1988-10-11
+  摘要：李敖写《大臣的失态》，明说自己日前已写《国民党无大臣之风》《大臣的进退》，现在因看到《立法院公报》第七十七卷第七十九期所载9月30日院会记录，认为俞国华答称任命萧天赞前不知其受处分是失态，又痛批萧天赞在立法院以“回娘家”口吻请求大哥大姐原谅，低三下四到古今议会少见。
+  人物：李敖、萧天赞、俞国华、费希平
+  地点：立法院、台湾
+  标签：为历史拨云、大臣失态、萧天赞、俞国华、费希平、立法院公报、关说案
+  视图：作品线、政治线、立法院线
+  作品：为历史拨云、大臣的失态、国民党无大臣之风、大臣的进退、立法院公报
+  交叉引用：wei-lishi-boyun-1988-10-04-writes-kmt-no-great-minister-style、wei-lishi-boyun-1988-10-05-writes-great-minister-advance-retreat
+  来源：为历史拨云 / 013.大臣的失态 / line 13
+  补充来源：为历史拨云 / 013.大臣的失态 / line 3；说明：李敖明说本文承接日前两篇大臣文章。；为历史拨云 / 013.大臣的失态 / line 5；说明：李敖说明本文起因是看到《立法院公报》9月30日院会记录。；为历史拨云 / 013.大臣的失态 / line 9；说明：文中摘录萧天赞在立法院请求大哥大姐原谅的答辩。；为历史拨云 / 013.大臣的失态 / line 11；说明：李敖批评萧天赞为了恋栈官位低三下四。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/003.为历史拨云/013.大臣的失态.txt
+  数据：data/timeline-events-wei-lishi-boyun.json#wei-lishi-boyun-1988-10-11-writes-great-minister-loss-of-composure
 - 1988年10月12日星期三 | 李敖写《可怕的偏执狂》
   精度：day；可靠度：confirmed；排序日期：1988-10-12
   摘要：《可怕的偏执狂》文末署1988年10月12日。李敖从冯作民与柳庭桂债务纠纷、黑函、标语与杀人案谈起，批评媒体和社会同情叙事中的偏执狂心理。
@@ -118515,6 +118762,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/012.李敖新刊/015.冯作民杀人案寻幽.txt
   数据：data/timeline-events-li-ao-xinkan.json#liao-xinkan-1988-10-14-015-feng-zuomin-murder-case-search
+- 1988年10月15日 | 李敖写《论“大夫无私交”》，自述少私交是为写大文章
+  精度：day；可靠度：confirmed；排序日期：1988-10-15
+  摘要：李敖写《论“大夫无私交”》，开篇自称“作文成功，做人失败”，因为专注作文无暇交朋友；他又回述林青霞劝他不要给崇拜者回信，自己极少回信也是因要写大文章。文章由《论语》《史记》和伯里克利斯、赫尔等例子说明大夫无私交的公言、公事风度，转批国民党大臣靠私下拉拢、公关、请托、打招呼与礼尚往来维持关系，严重不成体统。
+  人物：李敖、林青霞、澹台灭明、宋昌、申屠嘉、Pericles、Cordell Hull、林洋港、苏南成、俞国华、李焕
+  地点：台湾、美国、雅典
+  标签：为历史拨云、大夫无私交、无私交、公关、国民党、林青霞、政治伦理
+  视图：作品线、思想线、政治线
+  作品：为历史拨云、论“大夫无私交”、论语、史记、迟来的“Ping”
+  交叉引用：li-ao-shuxinji-1985-02-22-replies-zhang-dawei-ping-real-self、wei-lishi-boyun-1988-10-04-writes-kmt-no-great-minister-style
+  来源：为历史拨云 / 014.论“大夫无私交” / line 13
+  补充来源：为历史拨云 / 014.论“大夫无私交” / line 3；说明：李敖自述专注作文、无暇私交，并提到林青霞劝他不要回崇拜者来信。；为历史拨云 / 014.论“大夫无私交” / line 9；说明：李敖批评国民党大臣以私下拉拢、公关、请托、攀交情为常态。；为历史拨云 / 014.论“大夫无私交” / line 11；说明：李敖以林洋港、苏南成、俞国华、李焕等例子批评大臣私交失体。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/003.为历史拨云/014.论“大夫无私交”.txt
+  数据：data/timeline-events-wei-lishi-boyun.json#wei-lishi-boyun-1988-10-15-writes-no-private-association
 - 1988年10月18日星期二 | 李敖写《谢聪敏回台志感》
   精度：day；可靠度：confirmed；排序日期：1988-10-18
   摘要：《谢聪敏回台志感》文末署1988年10月18日。李敖以谢聪敏回台为题，追写政治犯、异议人物与台湾政治变化中的感触。
@@ -118606,6 +118866,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/012.李敖新刊/020.邵玉铭还假惺惺什么啊？.txt
   数据：data/timeline-events-li-ao-xinkan.json#liao-xinkan-1988-11-03-020-shao-yuming-hypocrisy
+- 1988年11月10日 | 李敖写《中国人的观音思想》
+  精度：day；可靠度：confirmed；排序日期：1988-11-10
+  摘要：李敖写《中国人的观音思想》，从观世音传入中国、避唐太宗李世民讳改称观音谈起，追索观音由男性转为双性、女性、“可男可女”的变像，又借“锁骨菩萨”等材料说明中国观音信仰中曾有以欲止欲的想象；文末把中国人的观音思想定位为膜拜女神的一般见解。
+  人物：李敖、观音、李世民
+  地点：中国
+  标签：为历史拨云、观音、佛教、民间信仰、性别、中国思想
+  视图：作品线、思想线、宗教线
+  作品：为历史拨云、中国人的观音思想、法华经、西湖二集
+  交叉引用：-
+  来源：为历史拨云 / 003.中国人的观音思想 / line 15
+  补充来源：为历史拨云 / 003.中国人的观音思想 / line 7；说明：李敖说明观音名称、变像与性别转换。；为历史拨云 / 003.中国人的观音思想 / line 11；说明：文中以“锁骨菩萨”等材料说明以欲止欲的佛门说法。；为历史拨云 / 003.中国人的观音思想 / line 13；说明：李敖把中国人的观音思想定位为膜拜女神的一般见解。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/003.为历史拨云/003.中国人的观音思想.txt
+  数据：data/timeline-events-wei-lishi-boyun.json#wei-lishi-boyun-1988-11-10-writes-guanyin-thought
 - 1988年11月14日星期一 | 李敖写《旧文化运动与国民党》
   精度：day；可靠度：confirmed；排序日期：1988-11-14
   摘要：《旧文化运动与国民党》文末署1988年11月14日。李敖把所谓旧文化运动与国民党政治文化连在一起，批判国民党借传统、遗教和党化教育维护统治。
@@ -118619,6 +118892,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/012.李敖新刊/021.旧文化运动与国民党.txt
   数据：data/timeline-events-li-ao-xinkan.json#liao-xinkan-1988-11-14-021-old-culture-movement-kmt
+- 1988年11月16日 | 李敖写《中国人的汉贼问题》，借连战表态重评国民党偏安
+  精度：day；可靠度：confirmed；排序日期：1988-11-16
+  摘要：李敖写《中国人的汉贼问题》，先考“汉贼不两立”应出《后出师表》且此表可疑，再指出诸葛亮后半生精神在于不愿“坐而待亡”。他转到国民党困守台湾的现实，批评过去只喊汉贼不两立却忘了“王业不偏安”，又借连战否认汉贼不两立政策，判断国民党孤臣孽子想用汉贼并立来偏安，诸葛亮和蒋介石都不会相信。
+  人物：李敖、诸葛亮、连战、蒋介石、叶公超
+  地点：台湾、大陆
+  标签：为历史拨云、汉贼不两立、后出师表、国民党、偏安、两岸
+  视图：作品线、政治线、思想线
+  作品：为历史拨云、中国人的汉贼问题、后出师表
+  交叉引用：-
+  来源：为历史拨云 / 008.中国人的汉贼问题 / line 11
+  补充来源：为历史拨云 / 008.中国人的汉贼问题 / line 3；说明：李敖考辨“汉贼不两立”出处与《后出师表》真伪疑点。；为历史拨云 / 008.中国人的汉贼问题 / line 9；说明：李敖由连战表态转评国民党从汉贼不两立到汉贼并立。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/003.为历史拨云/008.中国人的汉贼问题.txt
+  数据：data/timeline-events-wei-lishi-boyun.json#wei-lishi-boyun-1988-11-16-writes-hanze-problem
 - 1988年11月20日星期日 | 李敖写《俄国实行三民主义？》
   精度：day；可靠度：confirmed；排序日期：1988-11-20
   摘要：《俄国实行三民主义？》文末署1988年11月20日。李敖借俄国与三民主义的比较，反讽国民党把各种现代制度和社会政策都往三民主义名下收编。
@@ -118632,6 +118918,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/012.李敖新刊/022.俄国实行三民主义？.txt
   数据：data/timeline-events-li-ao-xinkan.json#liao-xinkan-1988-11-20-022-russia-three-principles
+- 1988年11月22日 | 李敖写《中国人的名教思想》，并附胡适《名教》作旁支参照
+  精度：day；可靠度：confirmed；排序日期：1988-11-22
+  摘要：李敖写《中国人的名教思想》，从《世说新语》、嵇康《释私论》与魏晋自然思想谈起，判断政治势力杀嵇康既有名教理由，也有名教以外理由。文中进而说明名教后来滚大为纲常、名分、尊卑、礼法、人伦的总称，并把顾炎武、胡适对“名教”的解释列为旁支；篇后附胡适《名教》，但不另拆为李敖事件。
+  人物：李敖、嵇康、陈寅恪、俞正燮、胡适、顾炎武
+  地点：中国
+  标签：为历史拨云、名教、嵇康、胡适、魏晋、儒道
+  视图：作品线、思想线、研究线
+  作品：为历史拨云、中国人的名教思想、释私论、世说新语、名教
+  交叉引用：-
+  来源：为历史拨云 / 006.中国人的名教思想 / line 17
+  补充来源：为历史拨云 / 006.中国人的名教思想 / line 7；说明：李敖评俞正燮、陈寅恪对嵇康被杀与名教关系的解释。；为历史拨云 / 006.中国人的名教思想 / line 15；说明：李敖说明名教由儒道歧义扩大为纲常、名分、礼法、人伦总称，并列顾炎武、胡适解释为旁支。；为历史拨云 / 006.中国人的名教思想 / line 19；说明：本篇署日后收胡适《名教》为附录。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/003.为历史拨云/006.中国人的名教思想.txt
+  数据：data/timeline-events-wei-lishi-boyun.json#wei-lishi-boyun-1988-11-22-writes-mingjiao-thought
 - 1988年11月26日 | 李敖论言论尺度
   精度：day；可靠度：confirmed；排序日期：1988-11-26
   摘要：1988年11月26日，李敖写《极权国家的言论尺度》，说极权国家的言论尺度有官方允许的尺度和因恐惧官方而自我设限的尺度，后者比前者还严。他以“剃刀”与“剃刀边缘”为喻，批评国民党极权下的知识分子没有胆量，反而越躲越远，使“君子自重”的自我设限低于官方极限。
@@ -118736,6 +119035,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/007.我是天安门/020.“依然骨肉，几家能够？”.txt
   数据：data/timeline-events-woshi-tiananmen.json#woshi-tiananmen-1988-12-03-families-torn-apart-by-revolution
+- 1988年12月5日星期一 | 李敖写《从官逼民反到民逼官反》，预警国民党被抗争逼到硬干
+  精度：day；可靠度：confirmed；排序日期：1988-12-05
+  摘要：李敖在1988年12月5日写《从官逼民反到民逼官反》。他从“官者，管也”的政治文化谈起，讥刺警界大员虚报年龄一类官场陋习，又由“官逼民反”转写当时台湾民间抗争升高、国民党公信力式微的处境。文末他借曾祥铎《国民党在立院终于“硬干”了？》和科西嘉归属法国的历史比喻，预警国民党若被民间压力逼到“民逼官反”，可能反向采取更硬的政治动作。
+  人物：李敖、曾祥铎、Napoleon Bonaparte
+  地点：台湾、科西嘉、法国
+  标签：为历史拨云、官逼民反、民逼官反、国民党、民间抗争、立法院、科西嘉
+  视图：作品线、政治线、思想线
+  作品：为历史拨云、从官逼民反到民逼官反、国民党在立院终于“硬干”了？
+  交叉引用：-
+  来源：为历史拨云 / 022.从官逼民反到民逼官反 / line 11
+  补充来源：为历史拨云 / 022.从官逼民反到民逼官反 / line 3；说明：李敖从“官者，管也”与宋代官年、实年谈到现代官场虚饰。；为历史拨云 / 022.从官逼民反到民逼官反 / line 7；说明：李敖写国民党公信力式微、民间抗争渐高，造成“官不聊生”的局面。；为历史拨云 / 022.从官逼民反到民逼官反 / line 9；说明：李敖引用曾祥铎文章并借科西嘉归属法国作政治比喻。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/003.为历史拨云/022.从官逼民反到民逼官反.txt
+  数据：data/timeline-events-wei-lishi-boyun.json#wei-lishi-boyun-1988-12-05-writes-officials-driven-to-rebel
 - 1988年12月8日星期四 | 李敖写《李敖控告李登辉及五院院长伪造文书案》
   精度：day；可靠度：confirmed；排序日期：1988-12-08
   摘要：《李敖控告李登辉及五院院长伪造文书案》文末署1988年12月8日。李敖收录并评述自己告发李登辉及五院院长在蒋经国遗嘱见证上涉嫌伪造文书的材料，以及台北地检处结案函。
@@ -118762,6 +119074,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/012.李敖新刊/025.解严、解严、越解越严.txt
   数据：data/timeline-events-li-ao-xinkan.json#liao-xinkan-1988-12-08-025-martial-law-lifted-tighter
+- 1988年12月11日星期日 | 李敖写《弄孙与被孙子弄》，借费希平退职发言讽钱穆被孙子弄
+  精度：day；可靠度：confirmed；排序日期：1988-12-11
+  摘要：李敖在1988年12月11日写《弄孙与被孙子弄》。他先抓住费希平12月6日在立法院要求老委员、老代表退职回家“含饴弄孙”的发言，讽刺费希平只要求别人交棒，却不要求自己退场。随后他由“弄孙”转造“被孙子弄”一典，借孙武、孙膑、曹操删书争议和汉墓竹简出土，嘲讽钱穆早年论证孙武孙膑同为一人，后来被材料“死有对证”地出了丑。
+  人物：李敖、费希平、马太后、孙武、孙膑、曹操、钱穆、Robert Benchley
+  地点：台湾、立法院、中国
+  标签：为历史拨云、弄孙、被孙子弄、费希平、老代表、全面改选、孙子、钱穆
+  视图：作品线、政治线、思想线
+  作品：为历史拨云、弄孙与被孙子弄、东观汉记、后汉书、孙子、史记
+  交叉引用：qianqiu-wansui-1989-07-20-129-writes-why-they-do-not-retire、qiushi-xinyu-1989-12-23-mainland-affairs-committee-empty-show
+  来源：为历史拨云 / 040.弄孙与被孙子弄 / line 15
+  补充来源：为历史拨云 / 040.弄孙与被孙子弄 / line 3；说明：李敖据费希平12月6日立法院发言，讽其要求别人含饴弄孙而不要求自己。；为历史拨云 / 040.弄孙与被孙子弄 / line 7；说明：李敖说既有弄孙一典，也应有“被孙子弄”一典，并由此转入孙子问题。；为历史拨云 / 040.弄孙与被孙子弄 / line 11；说明：李敖写钱穆早年论证孙武孙膑同为一人，后来被汉墓竹简出土反证。；为历史拨云 / 040.弄孙与被孙子弄 / line 13；说明：李敖以Robert Benchley自嘲写作才能的话类比钱穆之于历史。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/003.为历史拨云/040.弄孙与被孙子弄.txt
+  数据：data/timeline-events-wei-lishi-boyun.json#wei-lishi-boyun-1988-12-11-writes-playing-with-grandchildren
 - 1988年12月13日 | 李敖推荐《李宗仁回忆录》，并回述与唐德刚签约重排新版
   精度：day；可靠度：undefined；排序日期：1988-12-13
   摘要：李敖为《李宗仁回忆录》写推荐，说明唐德刚当年曾在他被冤狱时来狱中探视，出狱后也曾拜访。今年6月6日，唐德刚与陈泓铮到李敖家，李敖提出台湾坊间版本多为删节盗印本，应由自己的出版社重出；唐德刚当场签署授权，李敖也决定拿出收藏图片，用铜版纸专门刊印图版。
@@ -119089,6 +119414,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/012.李敖新刊/037.无出其左，有谢可击.txt
   数据：data/timeline-events-li-ao-xinkan.json#liao-xinkan-1989-01-15-037-wenxing-xie-ranzhi
+- 1989年1月15日星期日 | 李敖写《岳飞案的另一面》，借华视岳飞剧反查宋高宗与岳家军问题
+  精度：day；可靠度：confirmed；排序日期：1989-01-15
+  摘要：李敖在1989年1月15日写《岳飞案的另一面》。他据1月14日《联合报》报道教育部希望华视《八千里路云和月》不要让岳飞死得太惨，先讽刺若岳飞确被绞死，电视不能为教育效果抹杀史实。随后他转入岳飞案复杂面：真正祸首不只秦桧，更有宋高宗保位私心；同时反攻能力和岳家军军纪也不能被宣传神话遮蔽。他据《朱子语类》、俞正燮等材料，提醒不能轻信电视塑造的单线英雄叙事。
+  人物：李敖、岳飞、宋高宗、秦桧、胡宏、胡安国、朱熹、俞正燮
+  地点：台湾、中国、贺兰山、宁夏、河北
+  标签：为历史拨云、岳飞案、华视、八千里路云和月、宋高宗、秦桧、岳家军、电视宣传
+  视图：作品线、历史线、政治线
+  作品：为历史拨云、岳飞案的另一面、联合报、八千里路云和月、满江红、朱子语类、癸巳存稿
+  交叉引用：-
+  来源：为历史拨云 / 046.岳飞案的另一面 / line 15
+  补充来源：为历史拨云 / 046.岳飞案的另一面 / line 3；说明：李敖据《联合报》报道教育部希望华视不要让岳飞死得太惨开题。；为历史拨云 / 046.岳飞案的另一面 / line 9；说明：李敖指出岳飞案真正制造冤狱的祸首是宋高宗本人。；为历史拨云 / 046.岳飞案的另一面 / line 11；说明：李敖校正课本对贺兰山的说法，并质疑反攻神话。；为历史拨云 / 046.岳飞案的另一面 / line 13；说明：李敖引《朱子语类》等材料说明宋朝军人骄惰扰民，岳家军亦未能免。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/003.为历史拨云/046.岳飞案的另一面.txt
+  数据：data/timeline-events-wei-lishi-boyun.json#wei-lishi-boyun-1989-01-15-writes-other-side-yue-fei-case
 - 1989年1月18日 | 李敖问陈宏正借资料
   精度：day；可靠度：confirmed；排序日期：1989-01-18
   摘要：1989年1月18日，陈宏正又来向李敖借资料。李敖追问他一再找自己提供资料到底是借给谁，陈宏正说是张忠栋托他借的。李敖借此批评这些学者教授自己没有本领，却老是靠别人，质疑学者教授是否这样成名。
@@ -119167,6 +119505,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/175.国民党的前途在哪里？.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1989-01-31-175-writes-kmt-future
+- 1989年2月2日 | 李敖写《中国人的贪污思想》，讥国民党调查局设肃贪处
+  精度：day；可靠度：confirmed；排序日期：1989-02-02
+  摘要：李敖写《中国人的贪污思想》，把中国贪污分为贪得无厌型、政治作用型、应付开支型三类，强调后者常由制度与俸给不合理造成。文末他看到国民党调查局在2月1日成立肃贪处，觉得好笑，指出惩贪严刑从明太祖到戡乱时期都不缺，真正要改的是监督不能出自政府本身、薪金必须合乎情理。
+  人物：李敖、严嵩、和珅、萧何、石守信
+  地点：台湾、中国
+  标签：为历史拨云、贪污、肃贪处、国民党调查局、制度批评、养廉
+  视图：作品线、政治线、思想线
+  作品：为历史拨云、中国人的贪污思想
+  交叉引用：-
+  来源：为历史拨云 / 005.中国人的贪污思想 / line 15
+  补充来源：为历史拨云 / 005.中国人的贪污思想 / line 5；说明：李敖把贪污分为三类。；为历史拨云 / 005.中国人的贪污思想 / line 13；说明：李敖由国民党调查局成立肃贪处转入制度与薪金改革判断。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/003.为历史拨云/005.中国人的贪污思想.txt
+  数据：data/timeline-events-wei-lishi-boyun.json#wei-lishi-boyun-1989-02-02-writes-corruption-thought
 - 1989年2月4日 | 耿荣水向李敖道歉
   精度：day；可靠度：confirmed；排序日期：1989-02-04
   摘要：1989年2月4日，耿荣水来见李敖，为诽谤李敖一事道歉，并缴付罚金十七万五千元给李敖，双方宣称言归于好。耿荣水又谈祖父所述日兵、中国兵拿老百姓鸡鸭的不同做法，李敖由此记下从拿鸡鸭看军纪的比较，并记耿荣水说其祖先同郑成功一起来台。
@@ -119219,6 +119570,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/007.李敖札记/134.日久见人心.txt
   数据：data/timeline-events-li-ao-zhaji.json#li-ao-zhaji-1989-02-23-dines-with-wang-rongwen-and-talks-bai-yang-manuscript
+- 1989年2月23日 | 李敖写《中国人的加水思想》
+  精度：day；可靠度：confirmed；排序日期：1989-02-23
+  摘要：李敖写《中国人的加水思想》，先从谢冰莹、陈纪滢名字被误印引出“水上身”的笑话，再回到清代文书对“大逆不道”者姓名加水旁的惯例。他举孙中山在清廷告示、宫中档与两广总督电文中写作“孙汶”的例子，批评这种姓名加水思想泛滥到荒唐程度。
+  人物：李敖、谢冰莹、陈纪滢、孙中山、尤清
+  地点：台湾、中国
+  标签：为历史拨云、加水思想、姓名、清代文书、孙中山、文字迷信
+  视图：作品线、思想线、研究线
+  作品：为历史拨云、中国人的加水思想、世载堂杂忆、破涕录
+  交叉引用：-
+  来源：为历史拨云 / 004.中国人的加水思想 / line 13
+  补充来源：为历史拨云 / 004.中国人的加水思想 / line 5；说明：李敖由谢冰莹、陈纪滢名字误印引出“水上身”的笑话。；为历史拨云 / 004.中国人的加水思想 / line 7；说明：李敖说明清代文书对大逆不道者名加水旁的惯例。；为历史拨云 / 004.中国人的加水思想 / line 9；说明：李敖举孙文被写作孙汶的文证。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/003.为历史拨云/004.中国人的加水思想.txt
+  数据：data/timeline-events-wei-lishi-boyun.json#wei-lishi-boyun-1989-02-23-writes-jiashui-thought
 - 1989年2月27日 | 李敖评裸画与自由
   精度：day；可靠度：confirmed；排序日期：1989-02-27
   摘要：1989年2月27日，李敖写《裸画与自由》，记北京举行大规模人体油画展，门票二元相当于平均每日工资一半，一个星期天有一万五千人参观，四十元画册也很快售罄。他又记两年前大陆国家出版署曾通知各出版机构，反右、文革、性三个题材尽可能不予出版，认为这显示中共对“性”忌讳很深。李敖评论“性”的开放是争取自由的一种前奏，裸体艺术又是性开放的张本，批评假道学与真教条钳制有关“性”的一切。
@@ -120350,6 +120714,32 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/008.你是景福门/044.贵宾的马后炮.txt
   数据：data/timeline-events-jingfumen.json#jingfumen-1989-07-30-writes-belated-advice-for-guests
+- 1989年8月1日星期二 | 李敖写《古今哭庙大观》，追索哭庙文化到国民党哭灵
+  精度：day；可靠度：confirmed；排序日期：1989-08-01
+  摘要：李敖在1989年8月1日写《古今哭庙大观》。他把中国史上的哭庙、哭宫、哭城、哭陵、哭厅等仪式梳理成一条政治情感传统，再转到民国以后中山陵、国父纪念馆、中正纪念堂等空间中的哭灵与表态。他不把这些眼泪看作单纯哀悼，而是视为政治忠诚、投资和仪式姿态的表现。
+  人物：李敖、孔子、孙中山、蒋介石、蒋经国
+  地点：中国、台湾、中山陵、国父纪念馆、中正纪念堂
+  标签：为历史拨云、哭庙、哭灵、国民党、中山陵、国父纪念馆、中正纪念堂
+  视图：作品线、政治线、文化线
+  作品：为历史拨云、古今哭庙大观
+  交叉引用：wei-lishi-boyun-1989-08-02-writes-politics-of-crying
+  来源：为历史拨云 / 029.古今哭庙大观 / line 21
+  补充来源：为历史拨云 / 029.古今哭庙大观 / line 3；说明：李敖从古代哭庙、哭宫、哭城等传统开题。；为历史拨云 / 029.古今哭庙大观 / line 13；说明：李敖把哭庙传统延伸到民国以后对孙中山、蒋介石等政治象征的哭灵。；为历史拨云 / 029.古今哭庙大观 / line 19；说明：李敖把到中正纪念堂等处哭灵视为政治投资和表态。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/003.为历史拨云/029.古今哭庙大观.txt
+  数据：data/timeline-events-wei-lishi-boyun.json#wei-lishi-boyun-1989-08-01-writes-crying-temples-survey
+- 1989年8月2日星期三 | 李敖写《哭的政治与政治的哭》，批朱高正哭蒋经国的政治眼泪
+  精度：day；可靠度：confirmed；排序日期：1989-08-02
+  摘要：李敖在1989年8月2日写《哭的政治与政治的哭》。他继续前一日“哭庙”话题，分析政治中的公哭、私哭、礼哭与表演性眼泪，认为有些哭并非真情而是政治动作。文中他特别写朱高正曾为蒋经国而哭，后来又说那是为给国民党好印象、以便救台湾；李敖据此批评这种眼泪把爱与怕、真情与策略混在一起。
+  人物：李敖、朱高正、蒋经国、汉文帝、宋太祖
+  地点：台湾、中国
+  标签：为历史拨云、政治的哭、哭庙、朱高正、蒋经国、政治表演
+  视图：作品线、政治线、思想线
+  作品：为历史拨云、哭的政治与政治的哭、古今哭庙大观
+  交叉引用：wei-lishi-boyun-1989-08-01-writes-crying-temples-survey
+  来源：为历史拨云 / 030.哭的政治与政治的哭 / line 19
+  补充来源：为历史拨云 / 030.哭的政治与政治的哭 / line 3；说明：李敖从政治与哭的关系继续展开前一日主题。；为历史拨云 / 030.哭的政治与政治的哭 / line 11；说明：李敖把哭分为公哭、私哭、礼哭等不同政治情境。；为历史拨云 / 030.哭的政治与政治的哭 / line 17；说明：李敖点名朱高正为蒋经国哭及其后来解释，并加以批评。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/003.为历史拨云/030.哭的政治与政治的哭.txt
+  数据：data/timeline-events-wei-lishi-boyun.json#wei-lishi-boyun-1989-08-02-writes-politics-of-crying
 - 1989年8月3日星期四 | 李敖评段宏俊竞逐“总统”前途坎坷
   精度：day；可靠度：inferred；排序日期：1989-08-03
   摘要：《段宏俊前途坎坷？》开头直接以“8月3日《自立早报》”“同日《台湾时报》”进入时事。结合《世论新语》1989年书内专栏语境，这条可保守落为 1989年8月3日的专栏短评，记录李敖对段宏俊竞逐“总统”前景的判断。
@@ -120389,6 +120779,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/005.世论新语/007.睁眼说瞎话.txt
   数据：data/timeline-events-shilun-xinyu.json#shilun-xinyu-1989-08-06-gao-yushu-campaign-speech-denial
+- 1989年8月13日星期日 | 李敖写《政治椅子学》，由立法院拆椅子讽万年议会
+  精度：day；可靠度：confirmed；排序日期：1989-08-13
+  摘要：李敖在1989年8月13日写《政治椅子学》。他从立法院因老委员凋零、座位过多而拆椅子写起，讽刺老委员一面人数减少，一面又要求保留空椅子给摄影记者看。文章随后比较英国下议院座位不足反而形成政治实践，再追索中国从胡床、椅子到宋太祖撤去宰相座位的历史，把椅子的有无写成权力等级与政治体制的象征。
+  人物：李敖、宋太祖、赵普
+  地点：台湾、立法院、英国、中国
+  标签：为历史拨云、政治椅子学、立法院、万年国会、英国国会、宋太祖
+  视图：作品线、政治线、文化线
+  作品：为历史拨云、政治椅子学、席上腐谈、资治通鉴
+  交叉引用：-
+  来源：为历史拨云 / 024.政治椅子学 / line 21
+  补充来源：为历史拨云 / 024.政治椅子学 / line 3；说明：李敖从立法院座位过多、老委员要求保留空椅子给摄影记者看的新闻开题。；为历史拨云 / 024.政治椅子学 / line 7；说明：李敖比较英国下议院座位不足反成政治传统。；为历史拨云 / 024.政治椅子学 / line 17；说明：李敖追索中国椅子史，并写宋太祖撤去宰相座位的权力象征。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/003.为历史拨云/024.政治椅子学.txt
+  数据：data/timeline-events-wei-lishi-boyun.json#wei-lishi-boyun-1989-08-13-writes-political-chair-theory
 - 1989年8月16日星期三 | 李敖借陈良埙谈话质疑“孙立人事件”与“英明领袖”说法
   精度：day；可靠度：inferred；排序日期：1989-08-16
   摘要：《“英明领袖”何能被欺瞒？》开头直接写陈良埙等“8月16日发表谈话”。结合《世论新语》1989年专栏语境，这条可保守落为 1989年8月16日，记录李敖借此反驳“蒋介石被欺瞒”说法。
@@ -120493,6 +120896,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/005.世论新语/017.余纪忠变造照片.txt
   数据：data/timeline-events-shilun-xinyu.json#shilun-xinyu-1989-08-20-yu-jizhong-photo-tampering
+- 1989年8月21日星期一 | 李敖写《范仲淹的四大坚持》，对电视连续剧预先校正范仲淹形象
+  精度：day；可靠度：confirmed；排序日期：1989-08-21
+  摘要：李敖在1989年8月21日写《范仲淹的四大坚持》。他因范仲淹千年诞辰和中视、文建会将播《一代名臣范仲淹》，担心国民党传播媒体糟蹋古人，于是自己先写几段校正。文章提出范仲淹四大坚持：济天下众、卫天下道、守天下法、先天下忧；从义庄、修史不改、反对轻杀臣下到“先天下之忧而忧”，把范仲淹写成既有道义、法治又有公共怀抱的人。
+  人物：李敖、范仲淹、晏殊、富弼、明太祖、范文从
+  地点：台湾、中国、姑苏、高邮
+  标签：为历史拨云、范仲淹、四大坚持、中视、文建会、一代名臣范仲淹、义庄、法治
+  视图：作品线、历史线、思想线
+  作品：为历史拨云、范仲淹的四大坚持、一代名臣范仲淹、宋史、清夜录、涑水纪闻、鹤林玉露
+  交叉引用：li-ao-shuxinji-2002-01-20-writes-yang-renkai-fan-zhongyan-boyisong-taboo
+  来源：为历史拨云 / 045.范仲淹的四大坚持 / line 17
+  补充来源：为历史拨云 / 045.范仲淹的四大坚持 / line 3；说明：李敖因范仲淹千年诞辰与中视、文建会连续剧将播而开题。；为历史拨云 / 045.范仲淹的四大坚持 / line 9；说明：李敖列范仲淹“济天下众”坚持，强调其义庄与共己之产。；为历史拨云 / 045.范仲淹的四大坚持 / line 11；说明：李敖列范仲淹“卫天下道”坚持，写其不因梦兆改史。；为历史拨云 / 045.范仲淹的四大坚持 / line 13；说明：李敖列范仲淹“守天下法”坚持，重在反对轻杀臣下。；为历史拨云 / 045.范仲淹的四大坚持 / line 15；说明：李敖列范仲淹“先天下忧”坚持，并写其影响后人。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/003.为历史拨云/045.范仲淹的四大坚持.txt
+  数据：data/timeline-events-wei-lishi-boyun.json#wei-lishi-boyun-1989-08-21-writes-fan-zhongyan-four-insistences
 - 1989年8月21日星期一 | 李敖借吴俊才党务报告讥评国民党沦为选票党
   精度：day；可靠度：inferred；排序日期：1989-08-21
   摘要：《吴俊才老天真》正文第5行直接写“8月21日，吴老师在党务报告时……”。李敖借吴俊才批评国民党候选人争票无党纪，进一步讽刺国民党已从革命党沦为选票党。结合《世论新语》1989年专栏语境，这条可保守落为1989年8月21日。
@@ -121949,6 +122365,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/105.“子见南子”捉古.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1989-12-03-105-writes-catching-ancient-zijian-nanzi
+- 1989年12月3日星期日 | 李敖写《谈政治污染》，批台湾选举污染高等知识分子
+  精度：day；可靠度：confirmed；排序日期：1989-12-03
+  摘要：李敖在1989年12月3日写《谈政治污染》。他先说明中国文化里厌恶政治、担心政治污染自由人格与尊严的传统，再转到台湾选举现实，批评选战使人被金钱、人情、派系和站台逻辑卷入。他尤其不满高等知识分子也替候选人投资、助选、陪跑，认为这不是参与公共事务，而是把独立人格交给政治污染。
+  人物：李敖、严光、陈寿祺、陈宝琛
+  地点：台湾、中国
+  标签：为历史拨云、政治污染、选举、高等知识分子、台湾政治、人格独立
+  视图：作品线、政治线、思想线
+  作品：为历史拨云、谈政治污染
+  交叉引用：wei-lishi-boyun-1979-09-10-writes-bats-and-clear-streams
+  来源：为历史拨云 / 028.谈政治污染 / line 13
+  补充来源：为历史拨云 / 028.谈政治污染 / line 3；说明：李敖先从中国文化中厌恶政治、远离政治污染的传统谈起。；为历史拨云 / 028.谈政治污染 / line 7；说明：李敖将政治污染转入台湾选举与现实人情网络。；为历史拨云 / 028.谈政治污染 / line 11；说明：李敖批评高等知识分子也投入助选和政治投资。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/003.为历史拨云/028.谈政治污染.txt
+  数据：data/timeline-events-wei-lishi-boyun.json#wei-lishi-boyun-1989-12-03-writes-political-pollution
 - 1989年12月3日星期日 | 李敖写《黑牢忆趣》
   精度：day；可靠度：confirmed；排序日期：1989-12-03
   摘要：《黑牢忆趣》署1989年12月3日。李敖回忆两次国民党黑牢中的苦中作乐、台独案侦讯、谢聪敏密函、蔡俊军、许性德、黄中国等狱中片段。
@@ -122092,6 +122521,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/093.浮生一粲一续.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1989-12-10-093-writes-floating-life-note-first-sequel
+- 1989年12月11日 | 李敖写《非公关论》，说明自己不靠公关求支持
+  精度：day；可靠度：confirmed；排序日期：1989-12-11
+  摘要：李敖写《非公关论》，从《左传》叔向、祁奚故事说起，称自己读古书很多，颇喜“外举不隐仇、内举不隐子”的大公无私。他进而说明真正正人君子不做公共关系，人与人的关系应以道义、是非为准；他自称从来不靠卑躬屈膝做公关求人支持，因为若支持出于道义，有无私交甚至有仇，都应支持。
+  人物：李敖、叔向、祁奚、解狐
+  地点：中国、台湾
+  标签：为历史拨云、非公关、公关、祁奚、叔向、道义、是非
+  视图：作品线、思想线、政治线
+  作品：为历史拨云、非公关论、左传、史记
+  交叉引用：wei-lishi-boyun-1988-10-15-writes-no-private-association
+  来源：为历史拨云 / 015.非公关论 / line 11
+  补充来源：为历史拨云 / 015.非公关论 / line 7；说明：李敖说自己读古书很多，颇喜祁奚、叔向故事。；为历史拨云 / 015.非公关论 / line 9；说明：李敖说明真正正人君子不做公关，并自称不屑卑躬屈膝求人支持。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/003.为历史拨云/015.非公关论.txt
+  数据：data/timeline-events-wei-lishi-boyun.json#wei-lishi-boyun-1989-12-11-writes-anti-public-relations
 - 1989年12月11日星期一 | 李敖写《浮生一粲二续》
   精度：day；可靠度：confirmed；排序日期：1989-12-11
   摘要：《浮生一粲二续》署1989年12月11日。李敖回忆离开《文星》后的生活谋生、李焕试探彭明敏案宣言，以及余传韬回台时的政治建议。
@@ -122783,6 +123225,71 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/104.时闻杂写.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1990-01-15-104-writes-miscellaneous-current-notes
+- 1990年2月5日星期一 | 李敖写《烧掉黑资料》，借古人焚毁黑资料批现代秘档政治
+  精度：day；可靠度：confirmed；排序日期：1990-02-05
+  摘要：李敖在1990年2月5日写《烧掉黑资料》。他列举刘秀焚毁告发书、曹操焚烧袁绍档案、陆象先烧告密信、明成祖烧胡濙封事等故事，说明真正要安定人心，有时必须把追究旧账的黑材料烧掉。文章末尾转向现代政治，指出现代人不但不烧黑资料，反而拿黑资料修理别人、建立安全资料，甚至原件烧掉还可有影印本残存。
+  人物：李敖、刘秀、曹操、陆象先、明成祖、胡濙
+  地点：中国、台湾
+  标签：为历史拨云、黑资料、秘档政治、档案、告密、政治清算
+  视图：作品线、政治线、思想线
+  作品：为历史拨云、烧掉黑资料、资治通鉴、旧唐书、明史
+  交叉引用：-
+  来源：为历史拨云 / 021.烧掉黑资料 / line 15
+  补充来源：为历史拨云 / 021.烧掉黑资料 / line 3；说明：李敖以刘秀焚告发书开题，说明焚毁黑材料可安人心。；为历史拨云 / 021.烧掉黑资料 / line 9；说明：李敖连举曹操、陆象先、明成祖等焚毁告密材料的例子。；为历史拨云 / 021.烧掉黑资料 / line 13；说明：李敖转批现代人拿黑资料惩人、建安全资料，且影印本仍可能残留。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/003.为历史拨云/021.烧掉黑资料.txt
+  数据：data/timeline-events-wei-lishi-boyun.json#wei-lishi-boyun-1990-02-05-writes-burn-black-materials
+- 1990年2月6日星期二 | 李敖写《谢本师》，由章太炎出师门谈“当仁不让于师”
+  精度：day；可靠度：confirmed；排序日期：1990-02-06
+  摘要：李敖在1990年2月6日写《谢本师》。他先批评钱穆在《论语新解》中把孔子“当仁不让于师”的“师”曲解为“众”，认为这是削弱孔子革命性标准。随后他以章炳麟被俞樾逐出师门后写《谢本师》为核心例子，写章太炎在排满革命和师道之间选择真理；又补孙诒让愿意为章太炎撑腰，以及周作人等后来的“谢本师”连锁，说明中国人终于学会在真理关头不让于师。
+  人物：李敖、孔子、钱穆、章炳麟、俞樾、孙诒让、周作人、刘成禺
+  地点：中国、杭州、台湾、瑞安
+  标签：为历史拨云、谢本师、当仁不让于师、章炳麟、俞樾、孙诒让、周作人、师道
+  视图：作品线、思想线、文化线
+  作品：为历史拨云、谢本师、论语、论语新解、世载堂杂忆
+  交叉引用：-
+  来源：为历史拨云 / 042.谢本师 / line 13
+  补充来源：为历史拨云 / 042.谢本师 / line 3；说明：李敖批评钱穆曲解“当仁不让于师”。；为历史拨云 / 042.谢本师 / line 7；说明：李敖详述章炳麟与俞樾师生决裂及《谢本师》。；为历史拨云 / 042.谢本师 / line 9；说明：李敖引刘成禺记孙诒让愿为章太炎撑腰。；为历史拨云 / 042.谢本师 / line 11；说明：李敖写章炳麟也被学生周作人等如法炮制地谢本师。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/003.为历史拨云/042.谢本师.txt
+  数据：data/timeline-events-wei-lishi-boyun.json#wei-lishi-boyun-1990-02-06-writes-thanking-former-teacher
+- 1990年2月8日 | 李敖写《半部〈论语〉治天下》
+  精度：day；可靠度：confirmed；排序日期：1990-02-08
+  摘要：李敖写《半部〈论语〉治天下》，追索《论语》地位从晋唐到宋元逐渐走红，又把“半部《论语》治天下”的当事人落到赵普。他从赵普寡学、宋太祖劝读书、家人发箧见《论语》等材料，判断这一说法虽难免附会，却使中国人形成夸大《论语》奥妙的刻板思想。
+  人物：李敖、赵普、赵匡胤、朱熹、杜甫
+  地点：中国
+  标签：为历史拨云、论语、赵普、宋史、儒家、刻板思想
+  视图：作品线、思想线、研究线
+  作品：为历史拨云、半部《论语》治天下、论语、宋史、乐庵语录
+  交叉引用：-
+  来源：为历史拨云 / 009.半部《论语》治天下 / line 17
+  补充来源：为历史拨云 / 009.半部《论语》治天下 / line 5；说明：李敖说明“半部《论语》治天下”的当事人为赵普。；为历史拨云 / 009.半部《论语》治天下 / line 15；说明：李敖判断此说造成中国人夸大《论语》奥妙的刻板思想。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/003.为历史拨云/009.半部《论语》治天下.txt
+  数据：data/timeline-events-wei-lishi-boyun.json#wei-lishi-boyun-1990-02-08-writes-half-analects-rule
+- 1990年2月11日 | 李敖写《豸》，由“灋”字批中国法律传统中的神判痕迹
+  精度：day；可靠度：confirmed；排序日期：1990-02-11
+  摘要：李敖写《豸》，从中国法律的“灋”字拆出水、廌、去三部分，说明“廌”这种传说独角神羊被设想为能触出罪人。他借皋陶审判、王充怀疑和獬豸冠传统，批评中国法律传统一开始就充满神判法痕迹，犯人有罪无罪不靠理智研判而靠神羊乱撞。
+  人物：李敖、皋陶、王充、司马相如、顾炎武
+  地点：中国
+  标签：为历史拨云、豸、獬豸、法律、神判法、王充、洋麒麟
+  视图：作品线、思想线、法律线
+  作品：为历史拨云、豸、论衡、后汉书、日知录
+  交叉引用：wei-lishi-boyun-1990-02-12-writes-western-unicorn
+  来源：为历史拨云 / 018.豸 / line 23
+  补充来源：为历史拨云 / 018.豸 / line 3；说明：李敖从“灋”字结构说明水、廌、去的含义。；为历史拨云 / 018.豸 / line 9；说明：李敖批评中国法律传统有神判法痕迹。；为历史拨云 / 018.豸 / line 21；说明：李敖以《日知录》豸、止通用收束，讽中国人不知豸。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/003.为历史拨云/018.豸.txt
+  数据：data/timeline-events-wei-lishi-boyun.json#wei-lishi-boyun-1990-02-11-writes-zhi-legal-unicorn
+- 1990年2月12日 | 李敖写《洋麒麟》，把unicorn译为“洋麒麟”并联想到牢中自由
+  精度：day；可靠度：confirmed；排序日期：1990-02-12
+  摘要：李敖写《洋麒麟》，指出梁实秋词典把 unicorn 译成“麒麟”并不准确，严格说应译为“洋麒麟”，因为中国麒麟像羊，洋麒麟更像马。文章从中古传说、处女驯服独角兽、《坤舆图说》和西方图像谈到安妮·林白《独角兽》诗，最后由笼中独角兽横看成囚、纵看自由，联想到拉夫瑞斯、梭罗、甘地式的监狱中自由。
+  人物：李敖、梁实秋、Dorothy P. Lathrop、Gustave Moreau、Anne Morrow Lindbergh、Richard Lovelace、Henry David Thoreau、Gandhi
+  地点：中国、印度、希腊、罗马
+  标签：为历史拨云、洋麒麟、unicorn、麒麟、监狱自由、翻译、豸
+  视图：作品线、思想线、研究线
+  作品：为历史拨云、洋麒麟、坤舆图说、The Unicorn、The Unicorn in Captivity
+  交叉引用：wei-lishi-boyun-1990-02-11-writes-zhi-legal-unicorn
+  来源：为历史拨云 / 019.洋麒麟 / line 15
+  补充来源：为历史拨云 / 019.洋麒麟 / line 3；说明：李敖认为 unicorn 应译为“洋麒麟”。；为历史拨云 / 019.洋麒麟 / line 7；说明：李敖说明中古传说中处女驯服洋麒麟。；为历史拨云 / 019.洋麒麟 / line 13；说明：李敖由笼中独角兽诗联想到监狱中的自由气概。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/003.为历史拨云/019.洋麒麟.txt
+  数据：data/timeline-events-wei-lishi-boyun.json#wei-lishi-boyun-1990-02-12-writes-western-unicorn
 - 1990年2月22日星期四 | 李敖写《多情却似总少情》
   精度：day；可靠度：confirmed；排序日期：1990-02-22
   摘要：《多情却似总少情》署1990年2月22日。李敖谈爱情在生命中所占比例，回引1974年牢中诗《只爱一点点》，阐明其“多情却似总少情”的爱情观。
@@ -122796,6 +123303,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/013.千秋万岁乌鸦求是合集/115.多情却似总少情.txt
   数据：data/timeline-events-qianqiu-wansui-wuya-qiushi.json#qianqiu-wansui-1990-02-22-115-writes-love-is-less-when-deep
+- 1990年2月23日 | 李敖写《中国人的“五百年”思想》
+  精度：day；可靠度：confirmed；排序日期：1990-02-23
+  摘要：李敖写《中国人的“五百年”思想》，从《孟子》“五百年必有王者兴”谈到孟子“舍我其谁”的使命感，又接到司马谈、司马迁以五百年继圣人经典的抱负。文末他指出五百年后来成为隐含抱负的时间单位，流风甚至延伸到诗句和鲤鱼跃龙门的神奇性。
+  人物：李敖、孟子、司马谈、司马迁、陆游、赵翼
+  地点：中国
+  标签：为历史拨云、五百年思想、孟子、司马迁、中国思想、使命感
+  视图：作品线、思想线、研究线
+  作品：为历史拨云、中国人的“五百年”思想、孟子、史记
+  交叉引用：-
+  来源：为历史拨云 / 002.中国人的“五百年”思想 / line 11
+  补充来源：为历史拨云 / 002.中国人的“五百年”思想 / line 3；说明：李敖由《孟子》“五百年必有王者兴”说明孟子使命感。；为历史拨云 / 002.中国人的“五百年”思想 / line 7；说明：李敖把司马谈、司马迁继圣人经典的抱负纳入五百年思想延续。；为历史拨云 / 002.中国人的“五百年”思想 / line 9；说明：李敖说明五百年成为隐含抱负的时间单位。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/003.为历史拨云/002.中国人的“五百年”思想.txt
+  数据：data/timeline-events-wei-lishi-boyun.json#wei-lishi-boyun-1990-02-23-writes-five-hundred-year-thought
 - 1990年3月6日星期二 | 李敖写《若亡而实在》
   精度：day；可靠度：confirmed；排序日期：1990-03-06
   摘要：《若亡而实在》署1990年3月6日。李敖借“若亡而实在”谈爱情记忆与人生感受，也与他在其他自传材料中回忆离婚后情感经验的线索互相照应。
@@ -123394,6 +123914,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/008.李敖五五日记/002.1990年5月.txt
   数据：data/timeline-events-li-ao-wuwu-diary.json#li-ao-wuwu-diary-1990-05-09-yuan-yuxi-diagnoses-arm-problem
+- 1990年5月9日星期三 | 李敖写《论“不敢毁伤”》，批身体发肤孝道思想自相矛盾
+  精度：day；可靠度：confirmed；排序日期：1990-05-09
+  摘要：李敖在1990年5月9日写《论“不敢毁伤”》。他从曾子临死前让学生看手脚谈起，追索《孝经》“身体发肤，受之父母，不敢毁伤”的孝道元目，并举乐正子春摔伤脚、范宣八岁伤指大哭、夏侯惇拔矢啖睛等故事。文章后段转到王阳、王尊、桓温等忠孝冲突，指出这种思想既要求不毁伤身体，又要求为君、为官、为战勇敢，终究无法自圆其说。
+  人物：李敖、曾子、孔子、乐正子春、范宣、夏侯惇、王阳、王尊、桓温
+  地点：中国、四川、九折坂
+  标签：为历史拨云、不敢毁伤、身体发肤、孝道、忠孝冲突、曾子、孝经
+  视图：作品线、思想线、文化线
+  作品：为历史拨云、论“不敢毁伤”、论语、孝经、礼记、世说新语、三国演义、汉书
+  交叉引用：-
+  来源：为历史拨云 / 034.论“不敢毁伤” / line 21
+  补充来源：为历史拨云 / 034.论“不敢毁伤” / line 3；说明：李敖从曾子临死前让学生看手脚的故事开题。；为历史拨云 / 034.论“不敢毁伤” / line 9；说明：李敖引《孝经》说明身体发肤、不敢毁伤成为中国思想元目。；为历史拨云 / 034.论“不敢毁伤” / line 15；说明：李敖举《三国演义》夏侯惇拔矢啖睛表现父精母血不可弃。；为历史拨云 / 034.论“不敢毁伤” / line 19；说明：李敖指出不敢毁伤与忠君、任官、作战勇敢之间存在无法自圆其说的矛盾。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/003.为历史拨云/034.论“不敢毁伤”.txt
+  数据：data/timeline-events-wei-lishi-boyun.json#wei-lishi-boyun-1990-05-09-writes-do-not-damage-body
 - 1990年5月10日 | 李敖讲《中台病不病》
   精度：day；可靠度：confirmed；排序日期：1990-05-10
   摘要：李敖午后赴台中，四点半由中台学生到火车站来接；五点半到六点五十分，他讲《中台病不病》，夜宿台中。
@@ -124473,6 +125006,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/008.李敖五五日记/003.1990年6月.txt
   数据：data/timeline-events-li-ao-wuwu-diary.json#li-ao-wuwu-diary-1990-06-12-receives-peng-secret-return-conditions
+- 1990年6月12日星期二 | 李敖写《“生稊”与“生华”》，读美联社消息后用《易经》论老少恋
+  精度：day；可靠度：confirmed；排序日期：1990-06-12
+  摘要：李敖在1990年6月12日写《“生稊”与“生华”》。他当天看到美联社加州电讯，说住院治疗肺病的Elizabeth Taylor正与二十三岁男子热恋，便转引《易经·大过》“枯杨生稊”“枯杨生华”。他解释“老夫女妻”尚被说成“无不利”，老妇得少男则只有“无咎无誉”，由此把男女老少恋的文化判断写成一则借经说事的短评。
+  人物：李敖、Elizabeth Taylor
+  地点：加州、美国、中国
+  标签：为历史拨云、生稊、生华、易经、大过、Elizabeth Taylor、老少恋
+  视图：作品线、思想线、文化线
+  作品：为历史拨云、“生稊”与“生华”、易经、美联社
+  交叉引用：-
+  来源：为历史拨云 / 035.“生稊”与“生华” / line 25
+  补充来源：为历史拨云 / 035.“生稊”与“生华” / line 3；说明：李敖写当天看到美联社加州电讯，Elizabeth Taylor与二十三岁男子热恋。；为历史拨云 / 035.“生稊”与“生华” / line 19；说明：李敖解释《易经》“生稊”与老夫女妻的说法。；为历史拨云 / 035.“生稊”与“生华” / line 21；说明：李敖解释《易经》“生华”与老妇士夫的说法。；为历史拨云 / 035.“生稊”与“生华” / line 23；说明：李敖由《大过》卦收束男女老少恋的判断。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/003.为历史拨云/035.“生稊”与“生华”.txt
+  数据：data/timeline-events-wei-lishi-boyun.json#wei-lishi-boyun-1990-06-12-writes-shengti-and-shenghua
 - 1990年6月12日星期二 | 李敖写《金兰随记》
   精度：day；可靠度：confirmed；排序日期：1990-06-12
   摘要：《金兰随记》署1990年6月12日。李敖以随记方式处理“金兰”题目，延续本卷杂文中把典故、人物与时论交错编排的写法。
@@ -125344,6 +125890,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/008.李敖五五日记/004.1990年7月.txt
   数据：data/timeline-events-li-ao-wuwu-diary.json#li-ao-wuwu-diary-1990-07-08-meets-reader-wang-wuyi
+- 1990年7月8日星期日 | 李敖写《直不疑与隽不疑》，表彰隽母督子平反的人权意识
+  精度：day；可靠度：confirmed；排序日期：1990-07-08
+  摘要：李敖在1990年7月8日写《直不疑与隽不疑》。他先写直不疑被误认偷金、又被谣传盗嫂，却宁愿承担或只淡淡一句“我乃无兄”，以此呈现毁誉听人、是非存己的洒脱。接着他写隽不疑每次录囚平反后，其母必问活了多少人，若未能平反就不食抗议；李敖由此称这位老太太在人权保障上，比今天中国人权会、台湾人权会诸公更值得表彰。
+  人物：李敖、直不疑、隽不疑、汉文帝、汉昭帝、隽不疑之母
+  地点：中国、南阳、京兆
+  标签：为历史拨云、直不疑、隽不疑、平反、人权保障、冤狱、汉书
+  视图：作品线、法律线、思想线
+  作品：为历史拨云、直不疑与隽不疑、汉书、老子
+  交叉引用：-
+  来源：为历史拨云 / 044.直不疑与隽不疑 / line 17
+  补充来源：为历史拨云 / 044.直不疑与隽不疑 / line 5；说明：李敖先写直不疑宁受不平而不反驳的特色。；为历史拨云 / 044.直不疑与隽不疑 / line 9；说明：李敖评价直不疑毁誉听人、是非存己的作风耐人寻味。；为历史拨云 / 044.直不疑与隽不疑 / line 13；说明：李敖写隽不疑为吏严而不残，常有平反。；为历史拨云 / 044.直不疑与隽不疑 / line 15；说明：李敖称隽不疑之母督子平反，在人权保障上值得表彰。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/003.为历史拨云/044.直不疑与隽不疑.txt
+  数据：data/timeline-events-wei-lishi-boyun.json#wei-lishi-boyun-1990-07-08-writes-zhi-and-juan-buyi
 - 1990年7月9日 | 叶李华来访李敖
   精度：day；可靠度：confirmed；排序日期：1990-07-09
   摘要：7月9日下午，叶李华来访李敖。
@@ -126319,6 +126878,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/008.李敖五五日记/005.1990年8月.txt
   数据：data/timeline-events-li-ao-wuwu-diary.json#li-ao-wuwu-diary-1990-08-13-receives-xiaopan-rongzu-trip-calls
+- 1990年8月14日 | 李敖写《复仇——不共戴天》，校正经典复仇思想与《公羊传》译误
+  精度：day；可靠度：confirmed；排序日期：1990-08-14
+  摘要：李敖写《复仇——不共戴天》，从《礼记》《大戴礼记》整理中国复仇思想中父母、兄弟、朋友、族人等层次，指出“不共戴天”正解应是与仇人不同活于世，有我无你。文章又谈《周礼》调人制度如何用流放凶手为复仇者下台阶，并在注中提出自己对“不反兵”的解释，同时批评《春秋公羊传今注今译》把“父不受诛，子复仇可也”译错。
+  人物：李敖、孔子、伍子胥、丘濬、郑玄
+  地点：中国
+  标签：为历史拨云、复仇、不共戴天、礼记、公羊传、周礼、译注批评
+  视图：作品线、思想线、研究线
+  作品：为历史拨云、复仇——不共戴天、礼记、大戴礼记、公羊传、周礼、春秋公羊传今注今译
+  交叉引用：-
+  来源：为历史拨云 / 016.复仇——不共戴天 / line 19
+  补充来源：为历史拨云 / 016.复仇——不共戴天 / line 5；说明：李敖由《礼记》整理父母、兄弟、堂兄弟之仇的复仇层次。；为历史拨云 / 016.复仇——不共戴天 / line 17；说明：李敖说明《周礼》调人制度以流放凶手柔化经典复仇刚性。；为历史拨云 / 016.复仇——不共戴天 / line 21；说明：李敖在注中提出自己对“不反兵”的解释。；为历史拨云 / 016.复仇——不共戴天 / line 23；说明：李敖批评《春秋公羊传今注今译》译错“父不受诛，子复仇可也”。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/003.为历史拨云/016.复仇——不共戴天.txt
+  数据：data/timeline-events-wei-lishi-boyun.json#wei-lishi-boyun-1990-08-14-writes-revenge-under-heaven
 - 1990年8月14日 | 李敖接官司电话
   精度：day；可靠度：confirmed；排序日期：1990-08-14
   摘要：8月14日，仁宁来电告诉李敖官司打赢，并转述台中律师同行盛赞李敖在庭上滔滔不绝、口才极好；老郭另电告，已查封民进。
@@ -127060,6 +127632,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/008.李敖五五日记/006.1990年9月.txt
   数据：data/timeline-events-li-ao-wuwu-diary.json#li-ao-wuwu-diary-1990-09-14-buys-photocopier-and-receives-tonight-invitation
+- 1990年9月14日星期五 | 李敖写《郝柏村岂可朝淫祠上香！》，批中央大员提倡迷信
+  精度：day；可靠度：confirmed；排序日期：1990-09-14
+  摘要：李敖在1990年9月14日写《郝柏村岂可朝淫祠上香！》。他据《中央日报》报道郝柏村前一晚到高雄后劲凤屏宫上香祈福，讽刺这位行政院长为了做官建厂而以中央大员之尊到寺庙膜拜。李敖继而引《礼记》“淫祀无福”、孔子“非其鬼而祭之，谄也”和历代取缔淫祠传统，批评国民党官员不但不知分寸，反而带头助长台湾淫祠与迷信。
+  人物：李敖、郝柏村、李焕、孔子、狄仁杰、丸井圭治
+  地点：台湾、高雄后劲凤屏宫、汐止显应庙、台北
+  标签：为历史拨云、郝柏村、淫祠、上香、中央日报、迷信、国民党
+  视图：作品线、政治线、思想线
+  作品：为历史拨云、郝柏村岂可朝淫祠上香！、中央日报、礼记、左传、台湾宗教调查报告书
+  交叉引用：shilun-xinyu-1989-11-05-li-huan-two-mistakes-outing
+  来源：为历史拨云 / 031.郝柏村岂可朝淫祠上香！ / line 11
+  补充来源：为历史拨云 / 031.郝柏村岂可朝淫祠上香！ / line 3；说明：李敖据《中央日报》报道郝柏村到后劲凤屏宫上香开题。；为历史拨云 / 031.郝柏村岂可朝淫祠上香！ / line 5；说明：李敖批评郝柏村以中央大员身份上香，是提倡迷信、失体统。；为历史拨云 / 031.郝柏村岂可朝淫祠上香！ / line 7；说明：李敖引《礼记》、孔子和《左传》说明即使迷信也有分寸。；为历史拨云 / 031.郝柏村岂可朝淫祠上香！ / line 9；说明：李敖由历代取缔淫祠转批国民党大员到处膜拜。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/003.为历史拨云/031.郝柏村岂可朝淫祠上香！.txt
+  数据：data/timeline-events-wei-lishi-boyun.json#wei-lishi-boyun-1990-09-14-writes-hao-bochun-incense
 - 1990年9月15日 | 李敖谢绝电视邀约
   精度：day；可靠度：confirmed；排序日期：1990-09-15
   摘要：9月15日，李敖谢绝吴月虹约上电视；中午请中仪嫂、聪敏、载臣吃饭；又回复《中国时报》莫昭平的电话。
@@ -129922,6 +130507,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/008.李敖五五日记/011.1991年2月.txt
   数据：data/timeline-events-li-ao-wuwu-diary.json#li-ao-wuwu-diary-1991-02-07-lincoln-meeting-yang-taishun-foundation-speech-declined
+- 1991年2月7日星期四 | 李敖写《“实事求是，莫做调人！”》，把求真推进到实践真理
+  精度：day；可靠度：confirmed；排序日期：1991-02-07
+  摘要：李敖在1991年2月7日写《“实事求是，莫做调人！”》。他从《汉书》河间献王“实事求是”和胡适日记解释谈起，又回述自己二十五年前编《胡适选集》时收入胡适《追念吴稚晖先生》，特别注意其中“实事求是，莫做调人”八字。文章进一步指出吴稚晖、胡适本人都未能完全做到“莫做调人”，并批评现实生活中最容易妥协和稀泥；他认为“实事求是”不只是客观方法，更是从实事中追求并实践真理。
+  人物：李敖、河间献王、胡适、吴稚晖、黄以周、蒋介石、林语堂
+  地点：中国、台湾、江阴、上海
+  标签：为历史拨云、实事求是、莫做调人、胡适、吴稚晖、黄以周、胡适选集、真理实践
+  视图：作品线、思想线、文化线
+  作品：为历史拨云、“实事求是，莫做调人！”、汉书、胡适日记、胡适选集、追念吴稚晖先生、当代汉英词典
+  交叉引用：ni-bendan-2002-06-26-writes-supplementary-preface-for-hu-shi-selection
+  来源：为历史拨云 / 043.“实事求是，莫做调人！” / line 23
+  补充来源：为历史拨云 / 043.“实事求是，莫做调人！” / line 7；说明：李敖引胡适1951年日记对“实事求是”的解释。；为历史拨云 / 043.“实事求是，莫做调人！” / line 9；说明：李敖回述二十五年前编《胡适选集》时收胡适《追念吴稚晖先生》。；为历史拨云 / 043.“实事求是，莫做调人！” / line 17；说明：李敖指出吴稚晖和胡适本人也未能真正做到莫做调人。；为历史拨云 / 043.“实事求是，莫做调人！” / line 21；说明：李敖批评林语堂英译过窄，强调实事求是重在追求并实践真理。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/003.为历史拨云/043.“实事求是，莫做调人！”.txt
+  数据：data/timeline-events-wei-lishi-boyun.json#wei-lishi-boyun-1991-02-07-writes-seek-truth-no-mediator
 - 1991年2月8日 | 李敖与周谈并接维纲来电
   精度：day；可靠度：confirmed；排序日期：1991-02-08
   摘要：2月8日，李敖与周谈；维纲也来电。此条作为《求是报》筹备期连续谈事与通信记录。
@@ -131339,6 +131937,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/008.李敖五五日记/012.1991年3月.txt
   数据：data/timeline-events-li-ao-wuwu-diary.json#li-ao-wuwu-diary-1991-03-10-ke-call
+- 1991年3月10日星期日 | 李敖写《既不“盛世”，也不“修史”，更不“春秋”》，驳《中国时报》二二八社论
+  精度：day；可靠度：confirmed；排序日期：1991-03-10
+  摘要：李敖在1991年3月10日写《既不“盛世”，也不“修史”，更不“春秋”》。他摘录余纪忠《中国时报》3月9日社论《盛世修史有赖春秋之笔》，同意开放档案、反对台湾史学界保持距离以策安全，但集中反驳社论把台湾称为“盛世”、把政府开放二二八档案称为“盛世修史”、又高谈“春秋之笔”。李敖认为蒋家小朝廷谈不上盛世，国民党修二二八史是政治敷衍，且“春秋之笔”传统本身也充满避讳和遮掩，不能拿来粉饰现实。
+  人物：李敖、余纪忠、蒋介石、蒋经国、孔子、司马迁、汉武帝、王允
+  地点：台湾、中国
+  标签：为历史拨云、二二八、中国时报、盛世修史、春秋之笔、开放档案、台湾史
+  视图：作品线、政治线、历史线
+  作品：为历史拨云、既不“盛世”，也不“修史”，更不“春秋”、中国时报、盛世修史有赖春秋之笔、春秋、史记
+  交叉引用：li-ao-shuxuji-xuji-1989-02-27-to-28-launches-228-research-three-books、li-ao-suixielu-houji-1992-02-23-questions-qiu-jinyi-228-presidential-archives-procedure、li-ao-suixielu-houji-1992-02-29-speaks-at-democracy-foundation-228-research-report-and-tv-news
+  来源：为历史拨云 / 048.既不“盛世”，也不“修史”，更不“春秋” / line 23
+  补充来源：为历史拨云 / 048.既不“盛世”，也不“修史”，更不“春秋” / line 3；说明：李敖据3月9日《中国时报》社论《盛世修史有赖春秋之笔》开题。；为历史拨云 / 048.既不“盛世”，也不“修史”，更不“春秋” / line 13；说明：李敖说明自己同意开放档案，但认为社论误导多处。；为历史拨云 / 048.既不“盛世”，也不“修史”，更不“春秋” / line 15；说明：李敖反驳今日台湾是盛世的说法。；为历史拨云 / 048.既不“盛世”，也不“修史”，更不“春秋” / line 17；说明：李敖反驳国民党以盛世修史名义处理二二八史。；为历史拨云 / 048.既不“盛世”，也不“修史”，更不“春秋” / line 19；说明：李敖反驳社论高谈春秋之笔，指出孔子《春秋》本身也有避讳。；为历史拨云 / 048.既不“盛世”，也不“修史”，更不“春秋” / line 21；说明：李敖以司马迁制度保障和台湾官方压力对比，说明今日难有直笔。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/003.为历史拨云/048.既不“盛世”，也不“修史”，更不“春秋”.txt
+  数据：data/timeline-events-wei-lishi-boyun.json#wei-lishi-boyun-1991-03-10-writes-not-flourishing-age-history-spring-autumn
 - 1991年3月11日 | 李敖午后抽空与小屯去SOGO吃高丽菜
   精度：day；可靠度：confirmed；排序日期：1991-03-11
   摘要：3月11日午后，李敖抽空与小屯去SOGO吃高丽菜。此条记录忙碌办报间隙中的短暂外出与饮食小事。
@@ -132691,6 +133302,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/006.沉思日记类/008.李敖五五日记/012.1991年3月.txt
   数据：data/timeline-events-li-ao-wuwu-diary.json#li-ao-wuwu-diary-1991-03-31-duan-visit
+- 1991年3月31日星期日 | 李敖写《岂容国民党民进党，大小混蛋搞“成年礼”》，痛批复古礼仪移植
+  精度：day；可靠度：confirmed；排序日期：1991-03-31
+  摘要：李敖在1991年3月31日写《岂容国民党民进党，大小混蛋搞“成年礼”》。他拉杂摘录台北市、台北县、台中、彰化、高雄、宜兰、花莲等地在青年节举行成年礼的报道，指出上香祭祖、饮成年酒、赠印章和《六法全书》乃至镭射舞会等做法不伦不类。文章后段追到许水德赴日看到成人礼后想移植台湾，批评国民党和民进党地方首长不明礼乐制度的背景与需要，强驱青年虚情假意。
+  人物：李敖、黄大洲、尤清、周清玉、吴敦义、游锡堃、吴国栋、许水德、陈奇禄、孔子
+  地点：台湾、台北市、台北县、台中市、彰化县、高雄市、宜兰县、花莲县、日本
+  标签：为历史拨云、成年礼、国民党、民进党、青年节、制礼作乐、许水德
+  视图：作品线、政治线、文化线
+  作品：为历史拨云、岂容国民党民进党，大小混蛋搞“成年礼”、内政部国民礼仪范例、南史
+  交叉引用：qiushi-xinyu-1991-05-28-coming-of-age-budget-cut-to-one-dollar
+  来源：为历史拨云 / 039.岂容国民党民进党大小混蛋搞“成年礼” / line 31
+  补充来源：为历史拨云 / 039.岂容国民党民进党大小混蛋搞“成年礼” / line 3；说明：李敖从1991年3月29日青年节全台各地举行成年礼开题。；为历史拨云 / 039.岂容国民党民进党大小混蛋搞“成年礼” / line 19；说明：李敖摘录各地成年礼后，批评其不伦不类。；为历史拨云 / 039.岂容国民党民进党大小混蛋搞“成年礼” / line 23；说明：李敖说明礼乐制度有时代背景与需要，硬复古会闹笑话。；为历史拨云 / 039.岂容国民党民进党大小混蛋搞“成年礼” / line 25；说明：李敖追述许水德赴日看到成人礼后想移植台湾的来由。；为历史拨云 / 039.岂容国民党民进党大小混蛋搞“成年礼” / line 29；说明：李敖以《南史》语收束，批国民党民进党大小混蛋搞成年礼。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/003.为历史拨云/039.岂容国民党民进党大小混蛋搞“成年礼”.txt
+  数据：data/timeline-events-wei-lishi-boyun.json#wei-lishi-boyun-1991-03-31-writes-against-coming-of-age-ceremony
 - 1991年3月31日星期日 | 李敖写《评民进党的路线之争》
   精度：day；可靠度：confirmed；排序日期：1991-03-31
   摘要：《评民进党的路线之争》文末署“1991年3月31日”。李敖评论美丽岛系与新潮流系路线论战，批评民进党从党外时代的大目标堕落成派系蜗角之争。
@@ -140001,6 +140625,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/019.口诛（1993-·58岁至今）.txt
   数据：data/timeline-events-fourth-book-deepening.json#book4-deep-1993-10-01-open-magazine-introduces-soochow-course
+- 1993年10月6日 | 李敖写《中国史的拨云见日》，提出四种乌云遮蔽中国史
+  精度：day；可靠度：confirmed；排序日期：1993-10-06
+  摘要：李敖写《中国史的拨云见日》，把中国史受遮蔽归为“古云”“蓝云”“红云”“洋云”四种乌云，分别指古代史学、国民党一党史观、共产党教条史观和外国汉学误读。他认为警觉中国史陷在四种乌云之下，才是噩梦初醒的起点；历史要的是乌云遮不住的真东西。
+  人物：李敖
+  地点：中国、台湾
+  标签：为历史拨云、中国史、拨云见日、国民党史观、共产党史观、汉学、历史方法
+  视图：作品线、思想线、研究线
+  作品：为历史拨云、中国史的拨云见日
+  交叉引用：-
+  来源：为历史拨云 / 001.中国史的拨云见日 / line 19
+  补充来源：为历史拨云 / 001.中国史的拨云见日 / line 5；说明：李敖提出中国史被古云、蓝云、红云、洋云四种乌云罩住。；为历史拨云 / 001.中国史的拨云见日 / line 17；说明：李敖说明拨开乌云才能见真东西，历史要真。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/003.为历史拨云/001.中国史的拨云见日.txt
+  数据：data/timeline-events-wei-lishi-boyun.json#wei-lishi-boyun-1993-10-06-writes-chinese-history-cloud-clearing
 - 1993年10月21日星期四 | 吉隆坡《南洋商报》改题刊出李敖东吴报道
   精度：day；可靠度：confirmed；排序日期：1993-10-21
   摘要：《联合晚报》的《孤独的狼重新啸傲江湖？》同月21日由吉隆坡《南洋商报》改题为《李敖重新啸傲江湖？》刊出，显示东吴任教新闻已进入海外华文媒体。
@@ -140380,6 +141017,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/004.李敖回忆录/019.口诛（1993-·58岁至今）.txt
   数据：data/timeline-events-fourth-book-deepening.json#book4-deep-1994-12-13-letter-to-wang-qinglin-after-zhang-illness
+- 1994年3月 | 李敖写《记一个难缠的敌人》，以姚苌、苻登说明顽敌难缠
+  精度：month；可靠度：confirmed；排序日期：1994-03-01
+  摘要：李敖写《记一个难缠的敌人》，摘《晋书·苻登传》姚苌病中仍能出其不意牵制苻登的故事，抓住苻登“何其厄哉”的感叹，说明真正难缠的敌人会瞻之在前、忽焉在后，即使一时将死也忽然复来。他又引雷恶地称遇姚苌是“是吾分也”，归结为时有豪杰也会惊叹顽敌难缠。
+  人物：李敖、姚苌、苻登、苻坚、雷恶地
+  地点：中国
+  标签：为历史拨云、难缠的敌人、晋书、姚苌、苻登、历史人物
+  视图：作品线、思想线、研究线
+  作品：为历史拨云、记一个难缠的敌人、晋书
+  交叉引用：-
+  来源：为历史拨云 / 017.记一个难缠的敌人 / line 9
+  补充来源：为历史拨云 / 017.记一个难缠的敌人 / line 5；说明：李敖摘《晋书·苻登传》姚苌、苻登故事。；为历史拨云 / 017.记一个难缠的敌人 / line 7；说明：李敖说明苻登碰到姚苌这种难缠敌人的倒霉处。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/003.为历史拨云/017.记一个难缠的敌人.txt
+  数据：data/timeline-events-wei-lishi-boyun.json#wei-lishi-boyun-1994-03-writes-difficult-enemy
 - 1994年4月17日星期日后 | 李敖在官司中请陈维昭为殷海光遭台大迫害作证，陈维昭写信拒绝
   精度：after-date-context；可靠度：inferred；排序日期：1994-04-17
   摘要：《台大校长不要脸》写，1994年4月17日《自立晚报》刊出陈维昭称殷海光因批评国民党而被撵出台大教职；后来李敖打官司，请陈维昭来作证，陈维昭却写信给法院称社务繁忙、不克到场。
@@ -140406,6 +141056,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/008.书信函件类/009.李敖书启集/035.嘱苦苓老弟.txt
   数据：data/timeline-events-li-ao-shuqiji.json#li-ao-shuqiji-1994-08-writes-kuling-on-lions-club-talk-and-big-books
+- 约1994年前后（《为历史拨云》027未署日） | 李敖写未署日短文《独裁又爱财者的下场》
+  精度：undated-context；可靠度：contextual；排序日期：1994-12-31
+  摘要：《独裁又爱财者的下场》未署日期。李敖在短文中重述周厉王任用荣夷公“专利”、又以卫巫钳制国人言论，造成“道路以目”并最终被流放到彘的故事。结尾他把重点落在“独裁又爱财者”的政治结局上，借古史短评指向权力垄断、财富垄断和压制言论三者相互勾连的危险。
+  人物：李敖、周厉王、荣夷公、召穆公
+  地点：中国、彘
+  标签：为历史拨云、独裁又爱财者的下场、周厉王、荣夷公、道路以目、专利
+  视图：作品线、政治线、思想线
+  作品：为历史拨云、独裁又爱财者的下场、史记
+  交叉引用：-
+  来源：为历史拨云 / 027.独裁又爱财者的下场 / line 9
+  补充来源：为历史拨云 / 027.独裁又爱财者的下场 / line 3；说明：李敖从周厉王任用荣夷公“专利”写起。；为历史拨云 / 027.独裁又爱财者的下场 / line 7；说明：李敖写周厉王以卫巫监控言论，终于造成道路以目。；为历史拨云 / 027.独裁又爱财者的下场 / line 9；说明：李敖以“独裁又爱财者的下场，一至于此”作结。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/003.为历史拨云/027.独裁又爱财者的下场.txt
+  数据：data/timeline-events-wei-lishi-boyun.json#wei-lishi-boyun-1994-undated-writes-dictator-money-lover-fate
 - 约1994年前后（无署日广告词） | 李敖为桂冠版李敖、殷海光、雷震著作写广告词
   精度：undated-context；可靠度：undefined；排序日期：1994-12-31
   摘要：《桂冠出版李敖殷海光雷震著作之广告词》未署日期，李敖以“救主义的主义只有自由主义”概括桂冠版雷震、殷海光、李敖著作的意义，称自由主义从胡适立命的北京，到雷震、殷海光亡命的台北，最后由李敖总其成并“戴上思想的桂冠”。本条按桂冠出版期前后的广告写作和出版推广处理。
@@ -140668,6 +141331,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/003.惊世杂文类/008.你是景福门/020.“血洗台湾”考.txt
   数据：data/timeline-events-jingfumen.json#jingfumen-1995-09-03-writes-blood-wash-taiwan-study
+- 1995年9月10日星期日 | 李敖写《幽高墙》，由明代皇族软禁写骨肉之惨
+  精度：day；可靠度：confirmed；排序日期：1995-09-10
+  摘要：李敖在1995年9月10日写《幽高墙》。他解释“幽高墙”是皇帝把皇族子孙关在高墙内软禁，近于无期徒刑、一关到死；随后以明成祖幽禁明惠帝少子朱文圭、明宣宗幽禁朱高煦父子及其他旁支宗室为例，说明帝王权力中的骨肉之惨。文章末尾借陈登原《高中本国史》和罗素的假设，点出中国皇族禁锢甚至会造成“子女自为婚配”的乱伦困境。
+  人物：李敖、明成祖、明惠帝、朱文圭、明英宗、李贤、明宣宗、朱高煦、陈登原、Bertrand Russell
+  地点：中国、南京、凤阳、中都广安宫、西安门
+  标签：为历史拨云、幽高墙、明史、明成祖、朱文圭、朱高煦、皇族软禁
+  视图：作品线、历史线、思想线
+  作品：为历史拨云、幽高墙、明史、高中本国史
+  交叉引用：-
+  来源：为历史拨云 / 038.幽高墙 / line 23
+  补充来源：为历史拨云 / 038.幽高墙 / line 3；说明：李敖解释“幽高墙”是皇帝软禁皇族子孙的优待式惩罚。；为历史拨云 / 038.幽高墙 / line 5；说明：李敖写明成祖把明惠帝少子朱文圭幽高墙，后由明英宗释放。；为历史拨云 / 038.幽高墙 / line 13；说明：李敖写明成祖后代也遭到类似幽高墙的报应式命运。；为历史拨云 / 038.幽高墙 / line 21；说明：李敖借陈登原《高中本国史》和罗素假设收束皇族禁锢的乱伦困境。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/003.为历史拨云/038.幽高墙.txt
+  数据：data/timeline-events-wei-lishi-boyun.json#wei-lishi-boyun-1995-09-10-writes-imprisoned-behind-high-walls
 - 1995年10月20日星期五 | 李敖与真相新闻网签下《李敖笑傲江湖》主持合约
   精度：day；可靠度：confirmed；排序日期：1995-10-20
   摘要：经过春夏秋三轮商谈后，李敖于1995年10月20日与真相新闻网代表李昊曈签约，正式敲定《李敖笑傲江湖》节目，并在记者共餐观礼中宣布展开个人电视秀。
@@ -140824,6 +141500,19 @@
   补充来源：-
   文件：《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/005.李敖快意恩仇录/003.陆根纪.txt
   数据：data/timeline-events-fifth-book.json#book5-1995-second-sister-writes-family-memoir
+- 未署日（《为历史拨云》047，排序暂依本书上下文） | 李敖写未署日文章《捺钵文化和比较》，从生活、政治和影响三面看契丹捺钵
+  精度：undated-context；可靠度：contextual；排序日期：1995-12-31
+  摘要：《捺钵文化和比较》未署日期。李敖在文中明说自己拟尽量避免与前辈学人的着眼点和方法雷同，只从契丹生活状况、政治制度和历史影响三方面述说捺钵文化。他把捺钵视为契丹渔猎生活的“行在之所”，也是政治中心随皇帝移动的制度函数；又比较契丹与女真在文化本质、南北官制、入仕、教育、田赋、钱法、汉化、军队和田猎生活等方面的差异。
+  人物：李敖、章学诚、朱有燉、赵翼
+  地点：契丹、女真、白山黑水、热河、木兰、中国
+  标签：为历史拨云、捺钵文化、契丹、女真、渔猎文化、辽史、比较研究
+  视图：作品线、历史线、研究线
+  作品：为历史拨云、捺钵文化和比较、辽史、大金国志、二十二史札记
+  交叉引用：-
+  来源：为历史拨云 / 047.捺钵文化和比较 / line 11
+  补充来源：为历史拨云 / 047.捺钵文化和比较 / line 13；说明：李敖列出从生活状况看捺钵文化的论述方向。；为历史拨云 / 047.捺钵文化和比较 / line 23；说明：李敖将捺钵解释为契丹渔猎生活的求生制度，而非简单游幸。；为历史拨云 / 047.捺钵文化和比较 / line 33；说明：李敖说明契丹政治中心在捺钵而不在五京。；为历史拨云 / 047.捺钵文化和比较 / line 37；说明：李敖写捺钵制度影响金、元、清近千年。；为历史拨云 / 047.捺钵文化和比较 / line 45；说明：李敖开始比较契丹与女真的九项差异。；为历史拨云 / 047.捺钵文化和比较 / line 61；说明：李敖以田猎生活差异收束契丹与女真比较。
+  文件：《大李敖全集5.0》（wjm_tcy版）分章节/009.历史文化类/003.为历史拨云/047.捺钵文化和比较.txt
+  数据：data/timeline-events-wei-lishi-boyun.json#wei-lishi-boyun-1995-undated-writes-nabo-culture-comparison
 - 约1995年前后（无署日简介） | 李敖留下文星丛刊九种与《李敖大全集》特色简介
   精度：undated-context；可靠度：undefined；排序日期：1995-12-31
   摘要：《简介两种》未署日期，收入两组与李敖出版体系有关的简介：一组概述《传统下的独白》《历史与人像》《胡适研究》《胡适评传》《为中国思想趋向求答案》等九种“李敖文星丛刊”；另一组说明《李敖大全集》的命名、思想、自传、小说、书信、评论、历史、杂文、随笔、诗歌和人物写作特色。本条只记录李敖作品简介文本的形成与保存，不重复拆出各书既有出版节点。

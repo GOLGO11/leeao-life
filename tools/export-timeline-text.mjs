@@ -79,7 +79,9 @@ const dataFiles = [
   "data/timeline-events-li-ao-shuqiji.json",
   "data/timeline-events-prison-father-letters.json",
   "data/timeline-events-ma-ge-letters.json",
-  "data/timeline-events-lishi-yu-renxiang.json"
+  "data/timeline-events-lishi-yu-renxiang.json",
+  "data/timeline-events-dushi-zhinan.json",
+  "data/timeline-events-wei-lishi-boyun.json"
 ];
 const outputPath = path.join(root, "exports", "leeao-current-timeline.txt");
 
