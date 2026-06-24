@@ -125,7 +125,8 @@ const dataFiles = [
   "./data/timeline-events-zhongguo-xiandaishi-dinglun.json",
   "./data/timeline-events-zhongguo-mixin-xinyan.json",
   "./data/timeline-events-zhongguo-yishu-xinyan.json",
-  "./data/timeline-events-li-ao-xiaoao-jianghu.json"
+  "./data/timeline-events-li-ao-xiaoao-jianghu.json",
+  "./data/timeline-events-tiaozhan-li-ao.json"
 ];
 const supplementalDataFiles = new Set([
   "./data/timeline-events-first-book-supplement.json",
@@ -136,7 +137,7 @@ const supplementalDataFiles = new Set([
   "./data/timeline-events-third-book-qiao-evidence.json",
   "./data/timeline-events-fourth-book-deepening.json"
 ]);
-const dataVersion = '2026-06-23-li-ao-xiaoao-jianghu-round002-011-020';
+const dataVersion = '2026-06-24-tiaozhan-li-ao-round003-021-030';
 const timelineBundle = window.LEEAO_TIMELINE_BUNDLE;
 const timelineBundleMatches =
   timelineBundle?.dataVersion === dataVersion &&
