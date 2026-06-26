@@ -1,6 +1,6 @@
 import fs from "node:fs";
 import path from "node:path";
-import { buildTimelineBundle } from "./build-timeline-bundle.mjs";
+import { buildTimelineBundle, createTimelineBundle } from "./build-timeline-bundle.mjs";
 
 const root = process.cwd();
 const dataFiles = [
@@ -136,9 +136,9 @@ function additionalSourceLines(event) {
   });
 }
 
-const events = dataFiles
-  .flatMap((file) => readJson(file).map((event) => ({ ...event, dataFile: file })))
-  .sort(compareEvents);
+const timelineData = createTimelineBundle(root);
+const activeDataFiles = timelineData.dataFiles;
+const events = timelineData.events.sort(compareEvents);
 
 const precisionCounts = events.reduce((counts, event) => {
   const key = precisionLabel(event);
@@ -150,7 +150,7 @@ const lines = [
   "李敖交互式年表：当前增量纯文本备份",
   `生成日期：${new Date().toISOString().slice(0, 10)}`,
   `事件总数：${events.length}`,
-  `数据文件：${dataFiles.join("；")}`,
+  `数据文件：${activeDataFiles.join("；")}`,
   "说明：date 是机器排序用日期；displayDate 保留原文日期形态。datePrecision 非 day 的条目均需后续人工校日；同一年内先列精确到日条目，再列模糊时间条目。",
   `日期精度统计：${Object.entries(precisionCounts).map(([key, value]) => `${key}=${value}`).join("；")}`,
   ""

@@ -1,6 +1,6 @@
 import fs from "node:fs";
 import path from "node:path";
-import { buildTimelineBundle } from "./build-timeline-bundle.mjs";
+import { buildTimelineBundle, createTimelineBundle } from "./build-timeline-bundle.mjs";
 
 const root = process.cwd();
 const dataFiles = [
@@ -218,9 +218,9 @@ function csvFor(rows) {
   ].join("\r\n");
 }
 
-const events = dataFiles
-  .flatMap((file) => readJson(file).map((event) => ({ ...event, dataFile: file })))
-  .sort(compareEvents);
+const timelineData = createTimelineBundle(root);
+const activeDataFiles = timelineData.dataFiles;
+const events = timelineData.events.sort(compareEvents);
 const rows = events.map(rowFor);
 
 fs.mkdirSync(outputDir, { recursive: true });
@@ -240,7 +240,7 @@ const manifest = {
   fullCsv: path.relative(root, outputPath).replaceAll("\\", "/"),
   partSize,
   partCsv: partPaths.map((file) => path.relative(root, file).replaceAll("\\", "/")),
-  dataFiles,
+  dataFiles: activeDataFiles,
   eventCount: rows.length,
   columns,
 };

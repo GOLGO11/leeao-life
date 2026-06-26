@@ -19,6 +19,24 @@ const historyTodayPreviewLimit = 1;
 const searchDebounceMs = 120;
 let searchTimer = 0;
 
+const arrayFields = [
+  "view",
+  "tags",
+  "people",
+  "places",
+  "works",
+  "crossReferences",
+  "additionalSources"
+];
+
+function normalizeEvent(event) {
+  const normalized = { ...event };
+  arrayFields.forEach((field) => {
+    normalized[field] = Array.isArray(event[field]) ? event[field] : [];
+  });
+  return normalized;
+}
+
 const viewFilter = document.querySelector("#viewFilter");
 const yearFilter = document.querySelector("#yearFilter");
 const searchInput = document.querySelector("#searchInput");
@@ -126,7 +144,8 @@ const dataFiles = [
   "./data/timeline-events-zhongguo-mixin-xinyan.json",
   "./data/timeline-events-zhongguo-yishu-xinyan.json",
   "./data/timeline-events-li-ao-xiaoao-jianghu.json",
-  "./data/timeline-events-tiaozhan-li-ao.json"
+  "./data/timeline-events-tiaozhan-li-ao.json",
+  "./data/timeline-events-li-ao-mimi-shufang.json"
 ];
 const supplementalDataFiles = new Set([
   "./data/timeline-events-first-book-supplement.json",
@@ -137,7 +156,7 @@ const supplementalDataFiles = new Set([
   "./data/timeline-events-third-book-qiao-evidence.json",
   "./data/timeline-events-fourth-book-deepening.json"
 ]);
-const dataVersion = '2026-06-24-tiaozhan-li-ao-round003-021-030';
+const dataVersion = '2026-06-26-li-ao-mimi-shufang-round005-041-050';
 const timelineBundle = window.LEEAO_TIMELINE_BUNDLE;
 const timelineBundleMatches =
   timelineBundle?.dataVersion === dataVersion &&
@@ -435,7 +454,7 @@ function render() {
 }
 
 function hydrate(events, log) {
-  state.events = events;
+  state.events = events.map(normalizeEvent);
   for (const event of state.events) {
     event.searchText = searchableText(event);
   }

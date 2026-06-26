@@ -35,14 +35,14 @@ function extractDataVersion(source) {
   return match[1];
 }
 
-export function buildTimelineBundle(root = defaultRoot) {
+export function createTimelineBundle(root = defaultRoot) {
   const appSource = readText(root, appPath);
   const dataVersion = extractDataVersion(appSource);
   const dataFiles = extractStringArray(appSource, "dataFiles").map(normalizeDataFile);
   const supplementalDataFiles = extractStringArray(appSource, "supplementalDataFiles").map(normalizeDataFile);
   const events = dataFiles.flatMap((file) => readJson(root, file).map((event) => ({ ...event, dataFile: file })));
   const log = readJson(root, "data/ingestion-log.json");
-  const bundle = {
+  return {
     dataVersion,
     generatedAt: new Date().toISOString(),
     dataFiles,
@@ -52,6 +52,10 @@ export function buildTimelineBundle(root = defaultRoot) {
     events,
     log,
   };
+}
+
+export function buildTimelineBundle(root = defaultRoot) {
+  const bundle = createTimelineBundle(root);
   const absoluteOutputPath = path.join(root, outputPath);
   fs.mkdirSync(path.dirname(absoluteOutputPath), { recursive: true });
   fs.writeFileSync(
@@ -61,10 +65,10 @@ export function buildTimelineBundle(root = defaultRoot) {
   );
   return {
     outputPath,
-    dataVersion,
-    dataFileCount: dataFiles.length,
-    eventCount: events.length,
-    logCount: log.length,
+    dataVersion: bundle.dataVersion,
+    dataFileCount: bundle.dataFiles.length,
+    eventCount: bundle.events.length,
+    logCount: bundle.log.length,
   };
 }
 
