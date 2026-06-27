@@ -215,7 +215,7 @@ function csvFor(rows) {
   return [
     columns.map(csvCell).join(","),
     ...rows.map((row) => columns.map((column) => csvCell(row[column])).join(",")),
-  ].join("\r\n");
+  ].join("\n");
 }
 
 const timelineData = createTimelineBundle(root);
@@ -224,13 +224,13 @@ const events = timelineData.events.sort(compareEvents);
 const rows = events.map(rowFor);
 
 fs.mkdirSync(outputDir, { recursive: true });
-fs.writeFileSync(outputPath, `\uFEFF${csvFor(rows)}\r\n`, "utf8");
+fs.writeFileSync(outputPath, `\uFEFF${csvFor(rows)}\n`, "utf8");
 
 const partPaths = [];
 for (let start = 0; start < rows.length; start += partSize) {
   const partNumber = String(partPaths.length + 1).padStart(2, "0");
   const partPath = path.join(outputDir, `leeao-current-timeline.part-${partNumber}.csv`);
-  fs.writeFileSync(partPath, `\uFEFF${csvFor(rows.slice(start, start + partSize))}\r\n`, "utf8");
+  fs.writeFileSync(partPath, `\uFEFF${csvFor(rows.slice(start, start + partSize))}\n`, "utf8");
   partPaths.push(partPath);
 }
 
