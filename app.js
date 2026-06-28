@@ -148,7 +148,8 @@ const dataFiles = [
   "./data/timeline-events-li-ao-mimi-shufang.json",
   "./data/timeline-events-li-ao-diandao-zhongsheng.json",
   "./data/timeline-events-li-ao-talk-show.json",
-  "./data/timeline-events-li-ao-dageda.json"
+  "./data/timeline-events-li-ao-dageda.json",
+  "./data/timeline-events-li-ao-youhua-shuo.json"
 ];
 const supplementalDataFiles = new Set([
   "./data/timeline-events-first-book-supplement.json",
@@ -159,7 +160,7 @@ const supplementalDataFiles = new Set([
   "./data/timeline-events-third-book-qiao-evidence.json",
   "./data/timeline-events-fourth-book-deepening.json"
 ]);
-const dataVersion = '2026-06-27-li-ao-dageda-round009-081-090';
+const dataVersion = '2026-06-28-li-ao-youhua-shuo-round017-161-170';
 const timelineBundle = window.LEEAO_TIMELINE_BUNDLE;
 const timelineBundleMatches =
   timelineBundle?.dataVersion === dataVersion &&
