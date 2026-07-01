@@ -160,7 +160,7 @@ const supplementalDataFiles = new Set([
   "./data/timeline-events-third-book-qiao-evidence.json",
   "./data/timeline-events-fourth-book-deepening.json"
 ]);
-const dataVersion = '2026-06-30-li-ao-youhua-shuo-round053-521-530';
+const dataVersion = '2026-07-01-li-ao-youhua-shuo-round074-731-735-closeout';
 const timelineBundle = window.LEEAO_TIMELINE_BUNDLE;
 const timelineBundleMatches =
   timelineBundle?.dataVersion === dataVersion &&
