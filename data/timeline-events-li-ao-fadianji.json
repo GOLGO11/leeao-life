@@ -1,0 +1,2201 @@
+[
+  {
+    "id": "li-ao-fadianji-001-mocks-chen-and-lien-abandon-protect-misread-tainan-slogan",
+    "date": "1999-12-01",
+    "year": 1999,
+    "month": 12,
+    "day": 1,
+    "displayDate": "1999年12月1日",
+    "datePrecision": "day",
+    "title": "李敖借两个误会笑话讽刺陈水扁和连战的弃保盘算",
+    "summary": "《会错了意，先表了情》先讲《阁楼》漫画和妇产科笑话中的“会错意”，再套到2000年总统选战：陈水扁在宋楚瑜声势强时抛出“总统要选台南人”，表面说陈、连都是台南人，实则希望“弃连保扁”；连战阵营又想“弃扁保连”。李敖把双方都写成没信心而先表态的选举窘局。",
+    "category": "politics",
+    "source": {
+      "book": "李敖发电集",
+      "chapter": "001.1999年12月1日",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/002.李敖发电集/001.1999年12月1日.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9
+      ]
+    },
+    "people": [
+      "李敖",
+      "陈水扁",
+      "宋楚瑜",
+      "连战"
+    ],
+    "places": [
+      "台湾",
+      "台南"
+    ],
+    "works": [
+      "李敖发电集",
+      "李敖电子报",
+      "Penthouse"
+    ],
+    "tags": [
+      "李敖发电集",
+      "第一轮",
+      "第001章",
+      "陈水扁",
+      "连战",
+      "宋楚瑜",
+      "弃连保扁",
+      "台南人总统",
+      "选举讽刺"
+    ],
+    "crossReferences": [
+      "li-ao-fangdianji-022-criticizes-chen-shuibian-tainan-president-small-circle",
+      "tiaozhan-li-ao-1999-11-29-criticizes-chen-shuibian-tainan-president-logic",
+      "li-ao-yanjiangji-012-criticizes-narrow-tainan-identity",
+      "tiaozhan-li-ao-2000-03-13-answers-abandon-lien-but-not-protect-bian"
+    ],
+    "view": [
+      "政治线",
+      "选举线",
+      "媒体线"
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "li-ao-fadianji-round001-001-008"
+  },
+  {
+    "id": "li-ao-fadianji-001-rejects-death-taboo-after-huang-hsinchieh-criticism",
+    "date": "1999-12-01",
+    "year": 1999,
+    "month": 12,
+    "day": 1,
+    "displayDate": "1999年12月1日",
+    "datePrecision": "day",
+    "title": "黄信介去世后，李敖反驳“人死为大”不能批评的禁忌",
+    "summary": "《我就不信什么“人死为大”》回应读者张文才对黄信介评论的质疑。李敖说自己不接受“刚去世就不能批评”的前提，并以1962年2月24日胡适去世当晚，胡秋原、徐复观急忙修改批胡文章为例，批评这种“人死为大”的骂法转换虚伪；他认为死后立即批评反而能帮助看清死者真面目。",
+    "category": "thought",
+    "source": {
+      "book": "李敖发电集",
+      "chapter": "001.1999年12月1日",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/002.李敖发电集/001.1999年12月1日.txt",
+      "line": 11,
+      "lines": [
+        11,
+        13,
+        15,
+        17
+      ]
+    },
+    "people": [
+      "李敖",
+      "张文才",
+      "黄信介",
+      "胡适",
+      "胡秋原",
+      "徐复观"
+    ],
+    "places": [
+      "台湾",
+      "文星书店"
+    ],
+    "works": [
+      "李敖发电集",
+      "李敖电子报"
+    ],
+    "tags": [
+      "李敖发电集",
+      "第一轮",
+      "第001章",
+      "黄信介",
+      "人死为大",
+      "胡适",
+      "胡秋原",
+      "徐复观",
+      "历史评价"
+    ],
+    "crossReferences": [
+      "li-ao-fangdianji-023-remembers-huang-hsinchieh-two-meetings-and-political-decline",
+      "li-ao-suixielu-houji-1992-02-24-reflects-on-thirty-years-after-hu-shih-death-and-wenxing-memory",
+      "book7-1999-08-27-hu-qiuyuan-loses-final-appeal-and-must-pay-li-ao"
+    ],
+    "view": [
+      "思想线",
+      "媒体线",
+      "恩怨线"
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "li-ao-fadianji-round001-001-008"
+  },
+  {
+    "id": "li-ao-fadianji-002-publishes-wu-junhong-letter-on-unification-moral-case",
+    "date": "1999-12-02",
+    "year": 1999,
+    "month": 12,
+    "day": 2,
+    "displayDate": "1999年12月2日",
+    "datePrecision": "day",
+    "title": "李敖刊出吴俊宏来信，并回应统独问题的道德说服难题",
+    "summary": "《跋吴俊宏给李敖的信》刊出“成大共产党”案政治犯吴俊宏来信。吴俊宏回忆1972年与李敖同在新店军法处看守所，听完李敖台大演讲后感谢其公开提倡一国两制；但他认为单以战争威吓阻台独，不足以从道德上说服台湾人民，于是用长工鄙视贫穷父母的比喻，说明台湾富裕后鄙视大陆的心态。李敖在跋中同意其观点，却说台湾社会现实、短视，只能先从功利利害处劝说。",
+    "category": "correspondence",
+    "source": {
+      "book": "李敖发电集",
+      "chapter": "002.1999年12月2日",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/002.李敖发电集/002.1999年12月2日.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15,
+        17,
+        19,
+        21,
+        23,
+        25,
+        27,
+        29,
+        31,
+        33,
+        35
+      ]
+    },
+    "people": [
+      "李敖",
+      "吴俊宏",
+      "吴荣元",
+      "李荆荪",
+      "李登辉"
+    ],
+    "places": [
+      "新店军法处看守所",
+      "台湾大学",
+      "台湾",
+      "大陆"
+    ],
+    "works": [
+      "李敖发电集",
+      "李敖电子报"
+    ],
+    "tags": [
+      "李敖发电集",
+      "第一轮",
+      "第002章",
+      "吴俊宏",
+      "吴荣元",
+      "成大共产党",
+      "一国两制",
+      "台独",
+      "政治犯",
+      "道德说服"
+    ],
+    "crossReferences": [
+      "li-ao-dageda-108-urges-university-students-to-be-more-left-and-recalls-wu-rongyuan-prison-case",
+      "li-ao-youhua-shuo-127-recalls-last-taiwan-communists-and-urges-wealth-among-people",
+      "xiaoao-liushinian-004-recalls-wu-rongyuan-and-political-prisoners",
+      "li-ao-yanjiangji-013-distinguishes-state-government-and-un"
+    ],
+    "view": [
+      "书信线",
+      "狱中线",
+      "两岸线"
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "li-ao-fadianji-round001-001-008"
+  },
+  {
+    "id": "li-ao-fadianji-003-answers-yamamoto-isao-on-fifty-years-not-necessarily-dragging-taiwan",
+    "date": "1999-12-03",
+    "year": 1999,
+    "month": 12,
+    "day": 3,
+    "displayDate": "1999年12月3日",
+    "datePrecision": "day",
+    "title": "日本经济新闻山本勋来访时，李敖反问“五十年”未必拖垮台湾",
+    "summary": "《与山本勋论五十年》记日本经济新闻编辑局委员山本勋到李敖书房访问，追问台湾若与中华人民共和国签下一国两制五十年不变，是否会被拖垮。李敖以1895年《马关条约》后五十年日本并未被台湾拖垮作反问，强调五十年很长，可能出现意想不到的变化和机会，不应只从吃亏方向低估自己。",
+    "category": "interview",
+    "source": {
+      "book": "李敖发电集",
+      "chapter": "003.1999年12月3日",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/002.李敖发电集/003.1999年12月3日.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7
+      ]
+    },
+    "people": [
+      "李敖",
+      "山本勋"
+    ],
+    "places": [
+      "台北",
+      "台湾",
+      "日本"
+    ],
+    "works": [
+      "李敖发电集",
+      "李敖电子报",
+      "日本经济新闻",
+      "马关条约"
+    ],
+    "tags": [
+      "李敖发电集",
+      "第一轮",
+      "第003章",
+      "山本勋",
+      "日本经济新闻",
+      "一国两制",
+      "五十年不变",
+      "马关条约"
+    ],
+    "crossReferences": [
+      "li-ao-youhua-shuo-146-reads-1999-yamamoto-diary-on-one-country-two-systems-fifty-years",
+      "li-ao-youhua-shuo-671-recalls-yamamoto-interview-on-one-country-two-systems-fifty-years",
+      "li-ao-yumiao-tianxia-081-reads-yamamoto-isao-study-visit-fifty-years"
+    ],
+    "view": [
+      "两岸线",
+      "访谈线",
+      "思想线"
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "li-ao-fadianji-round001-001-008"
+  },
+  {
+    "id": "li-ao-fadianji-003-answers-wu-delang-that-challengers-must-offer-alternative",
+    "date": "1999-12-03",
+    "year": 1999,
+    "month": 12,
+    "day": 3,
+    "displayDate": "1999年12月3日",
+    "datePrecision": "day",
+    "title": "台大演讲后，李敖答吴德朗：挑战一国两制者须先拿出办法",
+    "summary": "《挑战李敖不如反问自己》追记11月30日台大“台大人的第二命题”演讲问答。吴德朗递交书面问题，质疑一国两制会让台湾成为北京内政、特别法朝令夕改且美国背书无用。李敖回答说国际互动会约束北京，美国背书与当前协防并无本质不同，台湾本就是中国内政问题；真正的问题是反对者若只否定李敖办法却拿不出解决办法，便成了孟子所谓“既不能令、又不受命”。",
+    "category": "speech",
+    "source": {
+      "book": "李敖发电集",
+      "chapter": "003.1999年12月3日",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/002.李敖发电集/003.1999年12月3日.txt",
+      "line": 9,
+      "lines": [
+        9,
+        11,
+        13,
+        15,
+        17,
+        19
+      ]
+    },
+    "people": [
+      "李敖",
+      "吴德朗"
+    ],
+    "places": [
+      "台湾大学",
+      "台湾",
+      "北京",
+      "美国"
+    ],
+    "works": [
+      "李敖发电集",
+      "李敖电子报"
+    ],
+    "tags": [
+      "李敖发电集",
+      "第一轮",
+      "第003章",
+      "台湾大学",
+      "台大人的第二命题",
+      "吴德朗",
+      "一国两制",
+      "内政问题",
+      "孟子"
+    ],
+    "crossReferences": [
+      "tiaozhan-li-ao-1999-11-30-ntu-second-proposition-independence-war",
+      "tiaozhan-li-ao-1999-11-30-ntu-explains-deng-one-country-two-systems",
+      "tiaozhan-li-ao-1999-11-30-ntu-qna-historical-position-and-delay-strategy"
+    ],
+    "view": [
+      "演讲线",
+      "两岸线",
+      "思想线"
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "li-ao-fadianji-round001-001-008"
+  },
+  {
+    "id": "li-ao-fadianji-004-responds-to-chen-shuibian-praise-and-formosa-totalization",
+    "date": "1999-12-06",
+    "year": 1999,
+    "month": 12,
+    "day": 6,
+    "displayDate": "1999年12月6日",
+    "datePrecision": "day",
+    "title": "陈水扁称赞李敖资料世界一流后，李敖反批美丽岛案“总归户”",
+    "summary": "《为阿扁论李敖的谈话进一解》摘12月3日《台湾时报》陈水扁专刊，陈称李敖资料搜集功夫世界一流，并据李敖档案认定宋楚瑜在文化检查中至少是“共谋”和“从犯”。李敖接受这两点，却反批民进党把29407件政治犯案件总归户为美丽岛案，又把美丽岛案总归户给律师群，再把言论管制旧账总归户给宋楚瑜一人，这是用歪曲真相方式打击敌人。",
+    "category": "politics",
+    "source": {
+      "book": "李敖发电集",
+      "chapter": "004.1999年12月6日",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/002.李敖发电集/004.1999年12月6日.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9
+      ]
+    },
+    "people": [
+      "李敖",
+      "陈水扁",
+      "宋楚瑜",
+      "陈守山",
+      "苏贞昌",
+      "谢长廷",
+      "张俊雄",
+      "尤清",
+      "郭吉仁"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "李敖发电集",
+      "李敖电子报",
+      "台湾时报"
+    ],
+    "tags": [
+      "李敖发电集",
+      "第一轮",
+      "第004章",
+      "陈水扁",
+      "宋楚瑜",
+      "美丽岛案",
+      "美丽岛律师团",
+      "文化检查",
+      "资料搜集"
+    ],
+    "crossReferences": [
+      "tiaozhan-li-ao-1999-12-03-says-crimes-should-not-all-be-dumped-on-soong",
+      "tiaozhan-li-ao-1999-12-03-criticizes-formosa-lawyers-taking-spoils",
+      "tiaozhan-li-ao-1999-12-07-opens-by-restoring-formosa-truth",
+      "li-ao-mimi-shufang-037-criticizes-formosa-totalization-to-lawyers-and-soong",
+      "li-ao-youhua-shuo-302-quotes-chen-shuibian-on-his-data-collection-and-explains-lifelong-filing"
+    ],
+    "view": [
+      "政治线",
+      "媒体线",
+      "资料线"
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "li-ao-fadianji-round001-001-008"
+  },
+  {
+    "id": "li-ao-fadianji-004-005-publishes-liu-guoji-octs-qa-on-taiwan-status-un-and-one-country",
+    "date": "1999-12-06",
+    "year": 1999,
+    "month": 12,
+    "day": 6,
+    "displayDate": "1999年12月6日",
+    "datePrecision": "day",
+    "title": "李敖刊出刘国基一国两制问答，系统说明台湾定位、入联与一国问题",
+    "summary": "《你不知道的“一国两制”》上、下两篇由刘国基代李敖以问答体说明一国两制。上篇从中华民国宪法、1992年修宪、上海公报、中美建交公报、克林顿“三不”、台湾关系法、八一七公报和两国论入手，区分国家与政府、事实分治与法律分裂。下篇转入联合国2758号决议，指出台湾作为中国一部分并未退出联合国，代表权可经谈判解决；最后说明台湾真正反对的是“一国”而非“两制”，并以邓小平五十年不变和汪道涵反问作结。李敖称这篇说明是论一国两制的经典之作。",
+    "category": "politics",
+    "source": {
+      "book": "李敖发电集",
+      "chapter": "004.1999年12月6日",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/002.李敖发电集/004.1999年12月6日.txt",
+      "line": 11,
+      "lines": [
+        11,
+        13,
+        15,
+        17,
+        19,
+        21,
+        23,
+        25,
+        27,
+        29,
+        31,
+        33,
+        35,
+        37,
+        39,
+        41,
+        43,
+        45,
+        47,
+        49,
+        51,
+        53,
+        55,
+        57,
+        59,
+        61,
+        63,
+        65
+      ]
+    },
+    "people": [
+      "李敖",
+      "刘国基",
+      "李登辉",
+      "江泽民",
+      "克林顿",
+      "苏起",
+      "汪道涵",
+      "邓小平",
+      "蒋介石"
+    ],
+    "places": [
+      "台湾",
+      "大陆",
+      "美国",
+      "联合国",
+      "台北",
+      "广州"
+    ],
+    "works": [
+      "李敖发电集",
+      "李敖电子报",
+      "上海公报",
+      "中美建交公报",
+      "台湾关系法",
+      "八一七公报",
+      "联合国大会第2758号决议"
+    ],
+    "tags": [
+      "李敖发电集",
+      "第一轮",
+      "第004章",
+      "第005章",
+      "刘国基",
+      "一国两制",
+      "台湾定位",
+      "联合国2758号决议",
+      "台湾关系法",
+      "两国论"
+    ],
+    "crossReferences": [
+      "tiaozhan-li-ao-1999-11-30-ntu-explains-un-2758-taiwan-already-in-un",
+      "li-ao-yanjiangji-013-distinguishes-state-government-and-un",
+      "tiaozhan-li-ao-1999-12-07-qna-one-country-two-systems-vs-one-country-one-system",
+      "li-ao-yanjiangji-028-explains-octs-origin-from-ye-jianying-and-deng",
+      "li-ao-zhenglun-zongyiji-059-says-one-country-not-two-systems-is-the-real-dispute"
+    ],
+    "view": [
+      "两岸线",
+      "政治线",
+      "思想线"
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "li-ao-fadianji-round001-001-008",
+    "additionalSources": [
+      {
+        "book": "李敖发电集",
+        "chapter": "005.1999年12月7日",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/002.李敖发电集/005.1999年12月7日.txt",
+        "line": 25,
+        "lines": [
+          25,
+          27,
+          29,
+          31,
+          33,
+          35,
+          37,
+          39,
+          41,
+          43,
+          45,
+          47,
+          49,
+          51,
+          53
+        ],
+        "note": "下篇继续说明台湾与联合国、一国两制与五十年不变。"
+      }
+    ]
+  },
+  {
+    "id": "li-ao-fadianji-005-006-007-exposes-liu-taiying-liu-jiachang-boshin-xinhe-file",
+    "date": "1999-12-07",
+    "year": 1999,
+    "month": 12,
+    "day": 7,
+    "displayDate": "1999年12月7日",
+    "datePrecision": "day",
+    "title": "李敖公布刘泰英核可密件，指国民党以七亿余元“五鬼搬运”扶助刘家昌",
+    "summary": "《刘泰英出钱，刘家昌办事》披露华夏投资1999年6月17日密件：国民党中央为总统大选辅选，委托刘家昌承担文宣工作，华夏等党营事业先以现金增资投资刘家昌“欣和”，再由刘家昌买断博新股权，出售博新所得又回投欣和，总额达六亿二千万；加上博新设备低价回售和转卖，李敖估计整个“五鬼搬运”超过七亿一千万元。他追问欣和股价二百倍、拥连批宋广告经费、政策指示来源和可能图利，并在12月8、9日连续刊出刘泰英批可的秘密签呈正文。12月17日刘家昌以广告称华夏经办人为“宋系人马”后，李敖又反击说若此说成立，最后批“可”的刘泰英也成了宋系人马，并补述刘家昌曾要分给他一股博新、价值四千二百万元，他当场谢绝。",
+    "category": "politics",
+    "source": {
+      "book": "李敖发电集",
+      "chapter": "005.1999年12月7日",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/002.李敖发电集/005.1999年12月7日.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15,
+        17,
+        19,
+        21,
+        23
+      ]
+    },
+    "people": [
+      "李敖",
+      "刘泰英",
+      "刘家昌",
+      "章孝严",
+      "李登辉",
+      "连战",
+      "赵少康"
+    ],
+    "places": [
+      "台湾",
+      "汐止"
+    ],
+    "works": [
+      "李敖发电集",
+      "李敖电子报",
+      "华夏投资签呈"
+    ],
+    "tags": [
+      "李敖发电集",
+      "第一轮",
+      "第005章",
+      "第006章",
+      "第007章",
+      "刘泰英",
+      "刘家昌",
+      "博新",
+      "欣和",
+      "华夏投资",
+      "国民党党产",
+      "五鬼搬运"
+    ],
+    "crossReferences": [
+      "tiaozhan-li-ao-1999-12-07-qna-exposes-soong-evidence-and-liu-jiachang-liu-taiying-files",
+      "tiaozhan-li-ao-1999-12-07-qna-refused-liu-jiachang-boshin-shares-and-exposed-files",
+      "tiaozhan-li-ao-1999-12-22-liu-taiying-liu-jiachang-file-triggered-early-hsingpiao",
+      "tiaozhan-li-ao-2000-01-11-recalls-liu-jiachang-liu-taiying-file-and-hao-silence"
+    ],
+    "view": [
+      "政治线",
+      "党产线",
+      "媒体线"
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "li-ao-fadianji-round001-001-008",
+    "additionalSources": [
+      {
+        "book": "李敖发电集",
+        "chapter": "006.1999年12月8日",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/002.李敖发电集/006.1999年12月8日.txt",
+        "line": 11,
+        "lines": [
+          11,
+          13,
+          15,
+          17,
+          19,
+          21,
+          23,
+          25,
+          27,
+          29,
+          31,
+          33,
+          35,
+          37,
+          39,
+          41,
+          43,
+          45
+        ],
+        "note": "刊出刘泰英核可密件前半，含博新股权转让和欣和投资架构。"
+      },
+      {
+        "book": "李敖发电集",
+        "chapter": "007.1999年12月9日",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/002.李敖发电集/007.1999年12月9日.txt",
+        "line": 15,
+        "lines": [
+          15,
+          17,
+          19,
+          21,
+          23,
+          25,
+          27,
+          29,
+          31,
+          33,
+          35,
+          37,
+          39,
+          41,
+          43,
+          45,
+          47
+        ],
+        "note": "续刊密件评估分析，列出二百倍股价、刘家昌无现金、海外纸上控股与上市风险。"
+      },
+      {
+        "book": "李敖发电集",
+        "chapter": "013.1999年12月17日",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/002.李敖发电集/013.1999年12月17日.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          7,
+          9,
+          11,
+          13
+        ],
+        "note": "刘家昌刊广告称华夏经办人为宋系人马，李敖反击若如此则刘泰英也成宋系人马，并补述自己拒收博新一股。"
+      }
+    ]
+  },
+  {
+    "id": "li-ao-fadianji-006-states-three-conditions-for-free-speech-in-online-forum",
+    "date": "1999-12-08",
+    "year": 1999,
+    "month": 12,
+    "day": 8,
+    "displayDate": "1999年12月8日",
+    "datePrecision": "day",
+    "title": "李敖在电子报讨论区提出言论自由的三个重要条件",
+    "summary": "《言论自由有三个重要条件》写给网络讨论区读者：言论自由不包括捏造事实、不包括匿名逃避责任，也不包括造成“明白而立即危险”。李敖自称是中国倡导言论自由最大的功臣，因而特别提醒网络发言最常违反的是事实与署名责任两点。",
+    "category": "thought",
+    "source": {
+      "book": "李敖发电集",
+      "chapter": "006.1999年12月8日",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/002.李敖发电集/006.1999年12月8日.txt",
+      "line": 7,
+      "lines": [
+        7,
+        9
+      ]
+    },
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "李敖发电集",
+      "李敖电子报"
+    ],
+    "tags": [
+      "李敖发电集",
+      "第一轮",
+      "第006章",
+      "言论自由",
+      "网络讨论区",
+      "事实",
+      "匿名",
+      "明白而立即危险"
+    ],
+    "crossReferences": [
+      "li-ao-xiaoao-jianghu-1996-context-episode-018-freedom-of-speech-broadcast",
+      "li-ao-mimi-shufang-015-explains-lawsuits-as-one-way-to-protect-speech-and-fight-officials"
+    ],
+    "view": [
+      "思想线",
+      "媒体线",
+      "网络线"
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "li-ao-fadianji-round001-001-008"
+  },
+  {
+    "id": "li-ao-fadianji-007-criticizes-lu-hsiulien-taoyuan-indigenous-bureau-delay",
+    "date": "1999-12-09",
+    "year": 1999,
+    "month": 12,
+    "day": 9,
+    "displayDate": "1999年12月9日",
+    "datePrecision": "day",
+    "title": "李敖据洪国治批评，指吕秀莲以拖延原住民行政局欺骗原住民",
+    "summary": "《吕秀莲骗原住民》摘11月23日《民众日报》报道，平地原住民议员洪国治批评桃园县原住民人口全省第四，却未设原住民行政局，相关预算又因精省缩水；县长吕秀莲只说等桃园升格直辖市再列重点。李敖据此说吕秀莲以“置之不理”的方式欺骗了真正的台湾人原住民。",
+    "category": "politics",
+    "source": {
+      "book": "李敖发电集",
+      "chapter": "007.1999年12月9日",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/002.李敖发电集/007.1999年12月9日.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7
+      ]
+    },
+    "people": [
+      "李敖",
+      "吕秀莲",
+      "洪国治"
+    ],
+    "places": [
+      "桃园县",
+      "台湾",
+      "台北市",
+      "高雄市"
+    ],
+    "works": [
+      "李敖发电集",
+      "李敖电子报",
+      "民众日报"
+    ],
+    "tags": [
+      "李敖发电集",
+      "第一轮",
+      "第007章",
+      "吕秀莲",
+      "洪国治",
+      "原住民",
+      "桃园县",
+      "原住民行政局"
+    ],
+    "crossReferences": [
+      "tiaozhan-li-ao-1999-10-25-reads-indigenous-protest-materials-and-criticizes-lien-chan-relief-show",
+      "tiaozhan-li-ao-1999-10-26-follows-up-indigenous-protest-and-lien-chan-expensive-pee",
+      "tiaozhan-li-ao-2000-03-04-criticizes-lee-tenghui-wang-yongqing-and-lu-hsiu-lien-political-prisoner-claims",
+      "jingfumen-1988-08-23-writes-indigenous-people-shout"
+    ],
+    "view": [
+      "政治线",
+      "原住民线",
+      "媒体线"
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "li-ao-fadianji-round001-001-008"
+  },
+  {
+    "id": "li-ao-fadianji-007-uses-mars-climate-orbiter-unit-error-to-criticize-mixed-arms-procurement",
+    "date": "1999-12-09",
+    "year": 1999,
+    "month": 12,
+    "day": 9,
+    "displayDate": "1999年12月9日",
+    "datePrecision": "day",
+    "title": "李敖用火星气象卫星英制公制错误，批台湾军购单位制混乱",
+    "summary": "《武器未开战，单位先开战》引用10月21日《太平洋时报》报道，洛克希德马丁制造的火星气象卫星因英制、公制换算错误失联，损失一亿二千五百万美元。李敖转而批评台湾乱买武器，空军同时使用英制的美国飞机和公制的法国幻象机，地面操控也要两套，武器未开战，单位先开战。",
+    "category": "politics",
+    "source": {
+      "book": "李敖发电集",
+      "chapter": "007.1999年12月9日",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/002.李敖发电集/007.1999年12月9日.txt",
+      "line": 9,
+      "lines": [
+        9,
+        11,
+        13
+      ]
+    },
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台湾",
+      "美国",
+      "法国",
+      "火星"
+    ],
+    "works": [
+      "李敖发电集",
+      "李敖电子报",
+      "太平洋时报"
+    ],
+    "tags": [
+      "李敖发电集",
+      "第一轮",
+      "第007章",
+      "火星气象卫星",
+      "洛克希德马丁",
+      "NASA",
+      "英制",
+      "公制",
+      "军购",
+      "幻象机"
+    ],
+    "crossReferences": [
+      "tiaozhan-li-ao-2000-01-25-listens-feng-arms-procurement-and-inserts-f16-mirage-units",
+      "tiaozhan-li-ao-2000-01-31-says-defense-spending-and-mixed-systems-waste-public-money"
+    ],
+    "view": [
+      "军事线",
+      "政治线",
+      "科技线"
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "li-ao-fadianji-round001-001-008"
+  },
+  {
+    "id": "li-ao-fadianji-008-attacks-228-park-museum-as-one-sided-self-praise",
+    "date": "1999-12-10",
+    "year": 1999,
+    "month": 12,
+    "day": 10,
+    "displayDate": "1999年12月10日",
+    "datePrecision": "day",
+    "title": "李敖批评二二八公园与纪念馆单方面挑拨族群并为美丽岛律师自我宣传",
+    "summary": "《去他妈的二二八公园！》中，李敖先自述作为外省人为台湾人坐牢、并曾编《二二八研究》三部书，却同时遭狭隘台湾人和外省老兵书摊老板辱骂。随后他批评陈水扁将新公园改名二二八公园、设置纪念馆时，只强调外省人杀台湾人，抹去台湾人杀外省人的部分；馆中没有李敖等反抗人物照片，却重复出现美丽岛律师群照片，被他视为利用公器自我吹捧。",
+    "category": "politics",
+    "source": {
+      "book": "李敖发电集",
+      "chapter": "008.1999年12月10日",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/002.李敖发电集/008.1999年12月10日.txt",
+      "line": 11,
+      "lines": [
+        11,
+        13,
+        15
+      ]
+    },
+    "people": [
+      "李敖",
+      "陈水扁"
+    ],
+    "places": [
+      "台北",
+      "台湾",
+      "二二八公园",
+      "新公园"
+    ],
+    "works": [
+      "李敖发电集",
+      "李敖电子报",
+      "二二八研究",
+      "二二八研究续集",
+      "二二八研究三集"
+    ],
+    "tags": [
+      "李敖发电集",
+      "第一轮",
+      "第008章",
+      "二二八",
+      "二二八公园",
+      "二二八纪念馆",
+      "陈水扁",
+      "美丽岛律师团",
+      "族群"
+    ],
+    "crossReferences": [
+      "tiaozhan-li-ao-1999-12-08-culture-228-park-and-ethnic-hatred",
+      "li-ao-dageda-039-argues-fourth-stage-of-228-was-taiwanese-killing-taiwanese",
+      "li-ao-dageda-050-shows-qing-palace-taiwan-memorials",
+      "li-ao-mimi-shufang-037-criticizes-formosa-totalization-to-lawyers-and-soong"
+    ],
+    "view": [
+      "政治线",
+      "历史线",
+      "媒体线"
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "li-ao-fadianji-round001-001-008"
+  },
+  {
+    "id": "li-ao-fadianji-009-criticizes-education-empty-small-rootless-boring",
+    "date": "1999-12-13",
+    "year": 1999,
+    "month": 12,
+    "day": 13,
+    "displayDate": "1999年12月13日",
+    "datePrecision": "day",
+    "title": "李敖把台湾教育困境概括为空谈、小格局、失根忘本和无趣",
+    "summary": "《今天教育的困境卡在哪里？》把当时台湾教育失败归为四点：国民党教育计划、李远哲教改和候选人政见多流于空谈；李登辉“立足台湾，胸怀大陆，放眼世界”的口号在实践中缩成“本土至上”的小格局；《认识台湾》教科书剪断台湾与中国史料、罗福星和林献堂等脉络，又淡化慰安妇与台籍日本兵，造成失根忘本；教材无趣和填鸭考试压抑学生独立追求。李敖最后以天文写作者陈培堃的兴趣驱动为反例，说明教育改革应先让求知变得有趣。",
+    "category": "education",
+    "source": {
+      "book": "李敖发电集",
+      "chapter": "009.1999年12月13日",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/002.李敖发电集/009.1999年12月13日.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        9,
+        13,
+        17,
+        21
+      ]
+    },
+    "people": [
+      "李敖",
+      "李登辉",
+      "李远哲",
+      "黄季陆",
+      "罗福星",
+      "林献堂",
+      "李庆华",
+      "陈培堃"
+    ],
+    "places": [
+      "台湾",
+      "大陆",
+      "日本",
+      "美国"
+    ],
+    "works": [
+      "李敖发电集",
+      "李敖电子报",
+      "认识台湾",
+      "三国志",
+      "临海水土志",
+      "隋书",
+      "岛夷略志",
+      "PK天文游记",
+      "和星星做朋友——小飞侠星座专辑",
+      "星空下的彼得潘"
+    ],
+    "tags": [
+      "李敖发电集",
+      "第二轮",
+      "第009章",
+      "教育改革",
+      "李远哲",
+      "认识台湾",
+      "同心圆史观",
+      "慰安妇",
+      "罗福星",
+      "林献堂",
+      "陈培堃"
+    ],
+    "crossReferences": [
+      "tiaozhan-li-ao-1999-12-06-qna-education-reform-start-with-textbooks",
+      "li-ao-diandao-zhongsheng-006-criticizes-du-zhengsheng-textbook-and-comfort-women-deletion",
+      "li-ao-yanjiangji-025-says-comfort-women-history-erased-from-taiwan-textbooks",
+      "tiaozhan-li-ao-2000-02-01-shows-wushe-comfort-women-and-taiwanese-victims",
+      "tiaozhan-li-ao-2000-02-02-broadcasts-children-mis-educated-episode"
+    ],
+    "view": [
+      "教育线",
+      "思想线",
+      "政治线"
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-03-li-ao-fadianji-round002-009-016"
+  },
+  {
+    "id": "li-ao-fadianji-010-publishes-wang-qixiang-academic-persecution-file",
+    "date": "1999-12-14",
+    "year": 1999,
+    "month": 12,
+    "day": 14,
+    "displayDate": "1999年12月14日",
+    "datePrecision": "day",
+    "title": "李敖刊出王企祥稿，指刘兆玄、李远哲等参与清华学术迫害",
+    "summary": "《刘兆玄、李远哲学术迫害内幕》说明九节文字由前清华大学教授王企祥起草、李敖定稿，用来揭发王企祥二十年前被清华解聘案。文中把沈君山、徐贤修、刘兆玄、毛高文和李卓皓列入迫害链条，追述1978年毁谤信流布、1979年清华合约期满前夜通知不必再来、Freeman假信与Szymanski关系、李远哲被指未查证却谎称查证，以及王企祥曾帮助李远哲免正式兵役、进入伯克利等旧恩。李敖结尾把这件事概括为“清高其外，卑鄙其中”的学术界黑暗。",
+    "category": "education",
+    "source": {
+      "book": "李敖发电集",
+      "chapter": "010.1999年12月14日",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/002.李敖发电集/010.1999年12月14日.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        9,
+        13,
+        17,
+        19,
+        21,
+        25,
+        27,
+        29,
+        31,
+        33,
+        35,
+        41,
+        45,
+        47
+      ]
+    },
+    "people": [
+      "李敖",
+      "王企祥",
+      "刘兆玄",
+      "李远哲",
+      "沈君山",
+      "徐贤修",
+      "毛高文",
+      "李卓皓",
+      "蒋经国",
+      "Verner Schomaker",
+      "Szymanski",
+      "Freeman",
+      "吴大猷",
+      "郝柏村",
+      "卢嘉锡",
+      "梅贻琦",
+      "俞大维",
+      "李曾遹"
+    ],
+    "places": [
+      "清华大学",
+      "台湾",
+      "美国",
+      "加拿大",
+      "香港",
+      "沙特阿拉伯",
+      "加州理工学院",
+      "伯克利"
+    ],
+    "works": [
+      "李敖发电集",
+      "李敖电子报"
+    ],
+    "tags": [
+      "李敖发电集",
+      "第二轮",
+      "第010章",
+      "王企祥",
+      "刘兆玄",
+      "李远哲",
+      "清华大学",
+      "学术迫害",
+      "Freeman信",
+      "Szymanski",
+      "李卓皓"
+    ],
+    "crossReferences": [
+      "tiaozhan-li-ao-1999-10-14-shows-wang-qixiang-lee-yuanzhe-materials",
+      "tiaozhan-li-ao-1999-11-19-recalls-chen-tangshan-military-school-detention-and-lee-yuanzhe-deserter-issue",
+      "tiaozhan-li-ao-2000-02-03-callin-explains-why-wang-qixiang-did-not-appear-on-show",
+      "li-ao-yanjiangji-032-uses-wang-qixiang-case-against-lee-yuan-tseh",
+      "li-ao-suixielu-qianji-1991-09-29-comments-lee-yuan-tseh-senminism-huang-zhugui"
+    ],
+    "view": [
+      "教育线",
+      "学术线",
+      "恩怨线"
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-03-li-ao-fadianji-round002-009-016"
+  },
+  {
+    "id": "li-ao-fadianji-011-publishes-lee-tenghui-garrison-donation-photos-on-formosa",
+    "date": "1999-12-15",
+    "year": 1999,
+    "month": 12,
+    "day": 15,
+    "displayDate": "1999年12月15日",
+    "datePrecision": "day",
+    "title": "李敖在电子报刊出李登辉向警总捐款的两张照片",
+    "summary": "《两张重要的照片》回应庄万寿谈美丽岛事件二十年媒体生态的文章。李敖同意重夺历史诠释权，却追问庄万寿为何不查李登辉1979年12月12日称“阴谋暴力分子”的谈话，以及12月16日报道中李登辉率台北市各界到警备总部、向汪敬煦致敬并捐两百万元慰问金的记录。李敖于是把两张当年报纸未刊的照片公布在《李敖电子报》上，作为文证、图证，显示李登辉也曾站在镇压美丽岛的一边。",
+    "category": "media",
+    "source": {
+      "book": "李敖发电集",
+      "chapter": "011.1999年12月15日",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/002.李敖发电集/011.1999年12月15日.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        13,
+        15,
+        17,
+        23,
+        27,
+        29,
+        31
+      ]
+    },
+    "people": [
+      "李敖",
+      "庄万寿",
+      "李登辉",
+      "汪敬煦",
+      "王又曾",
+      "黄信介",
+      "黄辉珍",
+      "连战",
+      "宋楚瑜",
+      "孙运璿"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "高雄",
+      "警备总部"
+    ],
+    "works": [
+      "李敖发电集",
+      "李敖电子报",
+      "自立晚报",
+      "中国时报",
+      "联合报",
+      "美丽岛杂志"
+    ],
+    "tags": [
+      "李敖发电集",
+      "第二轮",
+      "第011章",
+      "美丽岛事件",
+      "李登辉",
+      "警备总部",
+      "汪敬煦",
+      "两百万元",
+      "庄万寿",
+      "照片",
+      "历史诠释权"
+    ],
+    "crossReferences": [
+      "li-ao-mimi-shufang-037-shows-li-tenghui-donation-evidence-on-formosa",
+      "li-ao-mimi-shufang-037-criticizes-formosa-totalization-to-lawyers-and-soong",
+      "tiaozhan-li-ao-1999-12-08-culture-228-park-and-ethnic-hatred",
+      "li-ao-fadianji-008-attacks-228-park-museum-as-one-sided-self-praise"
+    ],
+    "view": [
+      "媒体线",
+      "历史线",
+      "政治线"
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-03-li-ao-fadianji-round002-009-016"
+  },
+  {
+    "id": "li-ao-fadianji-012-014-letter-to-zhao-yi-global-tv-and-pubic-public",
+    "date": "1999-12-16",
+    "year": 1999,
+    "month": 12,
+    "day": 16,
+    "displayDate": "1999年12月16日",
+    "datePrecision": "day",
+    "title": "李敖致信赵怡后，把环球电视争议和露毛案拉回新闻局台面",
+    "summary": "《回新闻局长赵怡老弟的一封信》公开回应赵怡12月15日手写信。李敖澄清“日女下体”处罚原非赵怡任内责任，却指出外界传闻国民党、连战、王又曾父子和蔡豪、王令麟借环球电视经营权风波与新闻局程序压迫吴子嘉和《挑战李敖》，因此他要求赵怡不要让新闻局成为封台、封口的黑手。12月20日《赵怡局长的“德政”》又刊出新闻局新闻稿：环球电视需提经营权争议、财务和员工保障资料，《挑战李敖》叶月里绪菜写真集案则函请改进但未罚款。李敖把这视为赵怡悬崖勒马，并在《Pubic走向Public》中把“露毛案”转成性尺度、艺术尺度和言论自由开放的议题。",
+    "category": "media",
+    "source": {
+      "book": "李敖发电集",
+      "chapter": "012.1999年12月16日",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/002.李敖发电集/012.1999年12月16日.txt",
+      "line": 3,
+      "lines": [
+        3,
+        7,
+        13,
+        15,
+        17,
+        23,
+        29,
+        31,
+        45,
+        47,
+        51
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "李敖发电集",
+        "chapter": "014.1999年12月20日",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/002.李敖发电集/014.1999年12月20日.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          7,
+          15,
+          17,
+          19,
+          21,
+          23,
+          25,
+          27
+        ],
+        "note": "12月20日续刊新闻局新闻稿与李敖对环球电视、露毛案温和处理的评价，并发展为pubic/public自由尺度短论。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "赵怡",
+      "吴子嘉",
+      "蔡豪",
+      "连战",
+      "王又曾",
+      "王令麟",
+      "叶月里绪菜",
+      "叶岛蕾",
+      "蔡俊军",
+      "蔡同荣",
+      "辜振甫",
+      "罗文嘉"
+    ],
+    "places": [
+      "新闻局",
+      "环球电视台",
+      "政治大学",
+      "台湾",
+      "日本",
+      "明治大学",
+      "台北市"
+    ],
+    "works": [
+      "李敖发电集",
+      "李敖电子报",
+      "挑战李敖"
+    ],
+    "tags": [
+      "李敖发电集",
+      "第二轮",
+      "第012章",
+      "第014章",
+      "赵怡",
+      "新闻局",
+      "环球电视",
+      "吴子嘉",
+      "蔡豪",
+      "叶月里绪菜",
+      "日女下体",
+      "言论自由",
+      "pubic",
+      "public"
+    ],
+    "crossReferences": [
+      "tiaozhan-li-ao-1999-12-15-nccu-zhao-yi-meeting-and-global-tv-threat",
+      "tiaozhan-li-ao-1999-12-16-qna-global-tv-meets-zhao-yi",
+      "tiaozhan-li-ao-1999-12-15-nccu-nude-covers-as-speech-freedom",
+      "book5-1980s-sex-writing-nude-covers-and-new-vocabulary",
+      "book5-1997-memoir-publishes-frontal-nude-photo"
+    ],
+    "view": [
+      "媒体线",
+      "书信线",
+      "言论自由线"
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-03-li-ao-fadianji-round002-009-016"
+  },
+  {
+    "id": "li-ao-fadianji-013-receives-requests-to-save-soong-in-hsingpiao-crisis",
+    "date": "1999-12-17",
+    "year": 1999,
+    "month": 12,
+    "day": 17,
+    "displayDate": "1999年12月17日",
+    "datePrecision": "day",
+    "title": "兴票案风暴中，胡之伟和张慈让来电请李敖救宋楚瑜",
+    "summary": "《请李敖救宋楚瑜》记下两通来电：在美国的老同学胡之伟说，至少接到一百个电话，要他赶紧请李敖救宋楚瑜；张慈让也说大概只有李敖能救宋楚瑜，建议他劝许信良等人凭良知承认民进党曾拿过宋楚瑜的钱。李敖则以“政治人物还有良知吗？”作反问，把兴票案中的求救、筹码和政治道德怀疑压缩成一个短札。",
+    "category": "politics",
+    "source": {
+      "book": "李敖发电集",
+      "chapter": "013.1999年12月17日",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/002.李敖发电集/013.1999年12月17日.txt",
+      "line": 15,
+      "lines": [
+        15,
+        17
+      ]
+    },
+    "people": [
+      "李敖",
+      "宋楚瑜",
+      "胡之伟",
+      "张慈让",
+      "许信良"
+    ],
+    "places": [
+      "美国",
+      "台湾"
+    ],
+    "works": [
+      "李敖发电集",
+      "李敖电子报"
+    ],
+    "tags": [
+      "李敖发电集",
+      "第二轮",
+      "第013章",
+      "宋楚瑜",
+      "兴票案",
+      "胡之伟",
+      "张慈让",
+      "许信良",
+      "民进党"
+    ],
+    "crossReferences": [
+      "tiaozhan-li-ao-1999-12-07-qna-exposes-soong-evidence-and-liu-jiachang-liu-taiying-files",
+      "tiaozhan-li-ao-1999-12-22-liu-taiying-liu-jiachang-file-triggered-early-hsingpiao",
+      "li-ao-yanjiangji-017-warns-soong-high-moral-standard-trap",
+      "li-ao-yanjiangji-018-advises-soong-crisis-handling"
+    ],
+    "view": [
+      "政治线",
+      "选举线",
+      "交游线"
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-03-li-ao-fadianji-round002-009-016"
+  },
+  {
+    "id": "li-ao-fadianji-018-publishes-xuerou-letter-and-southern-weekend-review",
+    "date": "1999-12-24",
+    "year": 1999,
+    "month": 12,
+    "day": 24,
+    "displayDate": "1999年12月24日",
+    "datePrecision": "day",
+    "title": "李敖在电子报刊出雪柔来信和《南方周末》书评",
+    "summary": "《雪柔给李敖的信》刊出雪柔自北京寄来的来信。她回忆参加李敖节目访问后的感受，称李敖“真”，并提到陈立、陈晓林、江筠、沈野等两岸媒体人物；随信附上《南方周末》夏辰关于《李敖祸台五十年》的广告式书评。李敖在文末说雪柔在摄影棚中的聪慧、美丽和表达令他难忘，把大陆读者来信、媒体评价与电子报传播合在一起。",
+    "category": "correspondence",
+    "source": {
+      "book": "李敖发电集",
+      "chapter": "018.1999年12月24日",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/002.李敖发电集/018.1999年12月24日.txt",
+      "line": 13,
+      "lines": [
+        13,
+        15,
+        17,
+        19,
+        21,
+        23,
+        25,
+        27,
+        31,
+        37,
+        39,
+        43,
+        47,
+        51
+      ]
+    },
+    "people": [
+      "李敖",
+      "雪柔",
+      "陈立",
+      "陈晓林",
+      "江筠",
+      "沈野",
+      "夏辰"
+    ],
+    "places": [
+      "北京",
+      "大陆",
+      "台湾"
+    ],
+    "works": [
+      "李敖发电集",
+      "李敖电子报",
+      "李敖祸台五十年",
+      "南方周末"
+    ],
+    "tags": [
+      "李敖发电集",
+      "第三轮",
+      "第018章",
+      "雪柔",
+      "南方周末",
+      "李敖祸台五十年",
+      "夏辰",
+      "读者来信"
+    ],
+    "crossReferences": [],
+    "view": [
+      "书信线",
+      "媒体线",
+      "大陆传播线"
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-03-li-ao-fadianji-round003-017-024"
+  },
+  {
+    "id": "li-ao-fadianji-021-donates-ten-thousand-usd-after-wei-tingchao-death",
+    "date": "1999-12-29",
+    "year": 1999,
+    "month": 12,
+    "day": 29,
+    "displayDate": "1999年12月29日",
+    "datePrecision": "day",
+    "title": "魏廷朝去世后，李敖捐一万美元并写悼诗号召援助遗属",
+    "summary": "《魏廷朝死了》记李敖在赴世新大学演讲途中得知魏廷朝去世。李敖回忆魏廷朝是狱中难友、曾把他“硬咬”进台独圈的朋友，又说自己捐出一万美元，折合新台币三十二万元，希望海外台湾人跟进捐助；文中附两段悼诗，并列出张庆惠邮政划拨账户。这条保留李敖在难友死亡后的实际捐款、悼念和公开号召。",
+    "category": "relationship",
+    "source": {
+      "book": "李敖发电集",
+      "chapter": "021.1999年12月29日",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/002.李敖发电集/021.1999年12月29日.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13
+      ]
+    },
+    "people": [
+      "李敖",
+      "魏廷朝",
+      "张庆惠"
+    ],
+    "places": [
+      "世新大学",
+      "台湾",
+      "海外"
+    ],
+    "works": [
+      "李敖发电集",
+      "李敖电子报"
+    ],
+    "tags": [
+      "李敖发电集",
+      "第三轮",
+      "第021章",
+      "魏廷朝",
+      "难友",
+      "政治犯",
+      "捐款",
+      "一万美元",
+      "悼诗"
+    ],
+    "crossReferences": [
+      "li-ao-shuduji-1987-06-03-night-ill-writes-huang-zhang-wei-release-reflection-for-zheng-nanrong",
+      "li-ao-xiaoao-jianghu-1998-08-after-remembers-lu-xiuyi-as-neighbor-and-renai-inmate",
+      "red-11-2003-03-28-finishes-script-in-eighty-days-standing"
+    ],
+    "view": [
+      "交游线",
+      "狱中线",
+      "政治犯线"
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-03-li-ao-fadianji-round003-017-024"
+  },
+  {
+    "id": "li-ao-fadianji-021-publishes-huang-shanshan-letter-and-replies-after-new-party-tension",
+    "date": "1999-12-29",
+    "year": 1999,
+    "month": 12,
+    "day": 29,
+    "displayDate": "1999年12月29日",
+    "datePrecision": "day",
+    "title": "黄珊珊来信向李敖致歉后，李敖回述新党会中郝龙斌与谢启大的冷脸",
+    "summary": "《黄珊珊／李敖通信》刊出黄珊珊1999年11月25日来信。她说三个月来新党同志和公职人员没有给李敖足够回应，甚至很少站出来替他发言，自己虽支持李敖，却因党务和办公室限制无法公开行动；罗展鸿也在信末向李敖致意。李敖12月28日复信，回述新党党团会中郝龙斌、谢启大两张“臭脸”，以及自己揭发刘泰英、刘家昌密件后郝龙斌不理他、谢启大后来到书房打听李宋内幕的细节。",
+    "category": "correspondence",
+    "source": {
+      "book": "李敖发电集",
+      "chapter": "021.1999年12月29日",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/002.李敖发电集/021.1999年12月29日.txt",
+      "line": 45,
+      "lines": [
+        45,
+        47,
+        49,
+        53,
+        57,
+        61,
+        63,
+        65,
+        67,
+        71,
+        73,
+        77,
+        81,
+        85,
+        89,
+        91,
+        93
+      ]
+    },
+    "people": [
+      "李敖",
+      "黄珊珊",
+      "罗展鸿",
+      "郝龙斌",
+      "谢启大",
+      "刘泰英",
+      "刘家昌",
+      "宋楚瑜"
+    ],
+    "places": [
+      "新党",
+      "立法院",
+      "李敖书房",
+      "台湾"
+    ],
+    "works": [
+      "李敖发电集",
+      "李敖电子报"
+    ],
+    "tags": [
+      "李敖发电集",
+      "第三轮",
+      "第021章",
+      "黄珊珊",
+      "罗展鸿",
+      "新党",
+      "郝龙斌",
+      "谢启大",
+      "刘泰英",
+      "刘家昌"
+    ],
+    "crossReferences": [
+      "li-ao-fangdianji-018-writes-li-qinghua-wolf-letter-and-self-defense-poem-for-new-party-crisis",
+      "tiaozhan-li-ao-2000-01-11-confronts-hao-longbin-and-xie-qida-over-rabbit",
+      "tiaozhan-li-ao-2000-01-11-recalls-liu-jiachang-liu-taiying-file-and-hao-silence"
+    ],
+    "view": [
+      "书信线",
+      "新党线",
+      "选举线"
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-03-li-ao-fadianji-round003-017-024"
+  },
+  {
+    "id": "li-ao-fadianji-022-answers-hsieh-chida-with-lee-soong-chronology-and-praise-table",
+    "date": "1999-12-30",
+    "year": 1999,
+    "month": 12,
+    "day": 30,
+    "displayDate": "1999年12月30日",
+    "datePrecision": "day",
+    "title": "李敖答谢启大，并整理李登辉历年称赞宋楚瑜的对照表",
+    "summary": "《答谢启大》回应谢启大来信，李敖把李登辉与宋楚瑜从1971年到1997年的关系脉络列成提示，要求从夏珍书和旧报中看清两人过去的亲密。紧接着《李登辉对宋楚瑜肝胆相照赞不绝口表》汇集1989、1994年多则报刊材料，列出李登辉称宋楚瑜有经验、有魄力、清白，并把宋楚瑜说成“一起穿裤子长大的兄弟”等旧话，以反击李登辉后来骂宋为贼、骗子、没廉耻。",
+    "category": "politics",
+    "source": {
+      "book": "李敖发电集",
+      "chapter": "022.1999年12月30日",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/002.李敖发电集/022.1999年12月30日.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        11,
+        13,
+        17,
+        21,
+        25,
+        29,
+        33,
+        37,
+        41,
+        47,
+        49,
+        51,
+        61,
+        71,
+        83,
+        97,
+        109,
+        121,
+        133
+      ]
+    },
+    "people": [
+      "李敖",
+      "谢启大",
+      "李登辉",
+      "宋楚瑜",
+      "夏珍",
+      "蔡英文",
+      "黄昆辉",
+      "连战"
+    ],
+    "places": [
+      "台湾",
+      "国民党"
+    ],
+    "works": [
+      "李敖发电集",
+      "李敖电子报",
+      "联合报",
+      "中央日报",
+      "自由时报",
+      "李登辉总统顾问团兴票案报告"
+    ],
+    "tags": [
+      "李敖发电集",
+      "第三轮",
+      "第022章",
+      "谢启大",
+      "李登辉",
+      "宋楚瑜",
+      "李宋关系",
+      "兴票案",
+      "肝胆相照",
+      "赞不绝口表"
+    ],
+    "crossReferences": [
+      "li-ao-fadianji-013-receives-requests-to-save-soong-in-hsingpiao-crisis",
+      "tiaozhan-li-ao-1999-12-22-liu-taiying-liu-jiachang-file-triggered-early-hsingpiao",
+      "li-ao-yanjiangji-017-warns-soong-high-moral-standard-trap",
+      "li-ao-yanjiangji-018-advises-soong-crisis-handling"
+    ],
+    "view": [
+      "政治线",
+      "选举线",
+      "资料线"
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-03-li-ao-fadianji-round003-017-024"
+  },
+  {
+    "id": "li-ao-fadianji-023-publishes-nobel-candidate-li-ao-profile",
+    "date": "1999-12-31",
+    "year": 1999,
+    "month": 12,
+    "day": 31,
+    "displayDate": "1999年12月31日",
+    "datePrecision": "day",
+    "title": "《李敖电子报》刊出诺贝尔文学奖候选人李敖简介",
+    "summary": "《诺贝尔文学奖候选人李敖简介》以候选人介绍方式整理李敖生平与写作位置：1935年哈尔滨出生、1949年到台湾、台大历史系背景、主编《文星》、两次入狱、作品大批被禁，并引用《纽约时报》、亚洲周刊和戴布兹名言来塑造其自由主义、反权威和为底层发声的形象。这条记录的是电子报在诺奖参选前后自我整理与传播的动作，实际提名事件仍挂回《北京法源寺》旧锚。",
+    "category": "writing",
+    "source": {
+      "book": "李敖发电集",
+      "chapter": "023.1999年12月31日",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/002.李敖发电集/023.1999年12月31日.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        13,
+        17,
+        21,
+        25,
+        31,
+        35,
+        41,
+        47,
+        55,
+        63,
+        69,
+        75,
+        81,
+        83
+      ]
+    },
+    "people": [
+      "李敖",
+      "H. L. Mencken",
+      "Eugene Debs"
+    ],
+    "places": [
+      "哈尔滨",
+      "台湾",
+      "美国",
+      "大陆",
+      "瑞典"
+    ],
+    "works": [
+      "李敖发电集",
+      "李敖电子报",
+      "北京法源寺",
+      "纽约时报",
+      "亚洲周刊"
+    ],
+    "tags": [
+      "李敖发电集",
+      "第三轮",
+      "第023章",
+      "诺贝尔文学奖",
+      "候选人简介",
+      "北京法源寺",
+      "纽约时报",
+      "戴布兹",
+      "自我介绍"
+    ],
+    "crossReferences": [
+      "book8-2000-beijing-fayuan-temple-nobel-prize-nomination",
+      "beijing-fayuansi-1999-09-29-announces-english-nobel-submission",
+      "beijing-fayuansi-2000-02-15-english-edition-launch",
+      "tiaozhan-li-ao-2000-03-04-talks-about-nobel-literature-nomination-and-taiwan-not-recognizing-him"
+    ],
+    "view": [
+      "写作线",
+      "媒体线",
+      "文学线"
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-03-li-ao-fadianji-round003-017-024"
+  },
+  {
+    "id": "li-ao-fadianji-024-exposes-shi-zhangzhu-renamed-shi-yan-and-shimen-villa",
+    "date": "2000-01-03",
+    "year": 2000,
+    "month": 1,
+    "day": 3,
+    "displayDate": "2000年1月3日",
+    "datePrecision": "day",
+    "title": "李敖追查石掌珠改名石晏，并揭露石门海边别墅疑云",
+    "summary": "《李登辉的牙医改名了》延续李登辉牙医线。李敖说石掌珠在水里土地曝光后，58岁改名为石晏；他又指石晏在台北县石门乡德茂里海边另有隐蔽别墅，建筑无登记、无门牌，疑属违章，并附土地登记簿资料追查石门头围段下圆坑小段40-2地号。此条只收新出现的改名与石门别墅线，水里土地和鸿禧山庄底层事实仍挂回《挑战李敖》旧锚。",
+    "category": "politics",
+    "source": {
+      "book": "李敖发电集",
+      "chapter": "024.2000年1月3日",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/002.李敖发电集/024.2000年1月3日.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15,
+        17,
+        19
+      ]
+    },
+    "people": [
+      "李敖",
+      "李登辉",
+      "石掌珠",
+      "石晏"
+    ],
+    "places": [
+      "台北县",
+      "石门乡",
+      "德茂里",
+      "石门头围段下圆坑小段",
+      "南投水里",
+      "鸿禧山庄"
+    ],
+    "works": [
+      "李敖发电集",
+      "李敖电子报",
+      "土地登记簿"
+    ],
+    "tags": [
+      "李敖发电集",
+      "第三轮",
+      "第024章",
+      "李登辉",
+      "石掌珠",
+      "石晏",
+      "石门别墅",
+      "德茂里",
+      "违章建筑",
+      "土地登记"
+    ],
+    "crossReferences": [
+      "tiaozhan-li-ao-1999-12-27-exposes-lee-dentist-hongxi-house",
+      "tiaozhan-li-ao-1999-12-27-traces-shi-zhangzhu-hongxi-dunhua-shuili",
+      "tiaozhan-li-ao-1999-12-27-says-truth-will-emerge-from-careful-hypothesis"
+    ],
+    "view": [
+      "政治线",
+      "资料线",
+      "地产线"
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-03-li-ao-fadianji-round003-017-024"
+  },
+  {
+    "id": "li-ao-fadianji-024-answers-lu-jinde-on-taiwan-unifying-china-through-open-party-competition",
+    "date": "2000-01-03",
+    "year": 2000,
+    "month": 1,
+    "day": 3,
+    "displayDate": "2000年1月3日",
+    "datePrecision": "day",
+    "title": "李敖回应陆晋德“谁统一谁”，主张用开放政党竞争反向统一中国",
+    "summary": "《谁统一谁？》刊出陆晋德来信。陆晋德听完交通大学演讲后提出，台湾不必只想被大陆统一，也可要求共产党放弃四个坚持中的一项，互相开放政党活动，让共产党到台湾组织，也让国民党、民进党、新党到大陆组织，以台湾选举经验去“统一中国”。李敖回信称这是勇敢而前瞻的想法，并用拿破仑从科西嘉走向法国的例子说明台湾不应守小岛，而应把统一问题丢回给共产党，以谈判、开放和选举替代战争、封闭与独裁。",
+    "category": "politics",
+    "source": {
+      "book": "李敖发电集",
+      "chapter": "024.2000年1月3日",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/002.李敖发电集/024.2000年1月3日.txt",
+      "line": 21,
+      "lines": [
+        21,
+        23,
+        25,
+        27,
+        29,
+        31,
+        33,
+        35,
+        37,
+        41,
+        45,
+        49,
+        53,
+        57,
+        61
+      ]
+    },
+    "people": [
+      "李敖",
+      "陆晋德",
+      "拿破仑"
+    ],
+    "places": [
+      "台湾",
+      "大陆",
+      "交通大学",
+      "科西嘉",
+      "法国"
+    ],
+    "works": [
+      "李敖发电集",
+      "李敖电子报"
+    ],
+    "tags": [
+      "李敖发电集",
+      "第三轮",
+      "第024章",
+      "陆晋德",
+      "谁统一谁",
+      "统一中国",
+      "开放政党",
+      "四个坚持",
+      "拿破仑",
+      "科西嘉"
+    ],
+    "crossReferences": [
+      "tiaozhan-li-ao-1999-11-10-corsica-napoleon-and-economic-control-china",
+      "li-ao-yanjiangji-036-uses-napoleon-corsica-to-urge-taiwan-ambition",
+      "li-ao-youhua-shuo-368-shows-lu-jinde-family-photos-and-calls-him-friend-in-taiwan",
+      "li-ao-youhua-shuo-368-reads-lu-jinde-article-kmt-good-or-communist-party-good"
+    ],
+    "view": [
+      "两岸线",
+      "思想线",
+      "书信线"
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-03-li-ao-fadianji-round003-017-024"
+  },
+  {
+    "id": "li-ao-fadianji-026-hualien-lotus-speech-reinterprets-buddhism-fate-and-wisdom",
+    "date": "2000-01-05",
+    "year": 2000,
+    "month": 1,
+    "day": 5,
+    "displayDate": "2000年1月5日",
+    "datePrecision": "day",
+    "title": "李敖在花莲演讲《从莲花中看花莲》，由原始佛教、慈济和命运观谈智慧",
+    "summary": "《从莲花中看花莲》记录李敖在花莲演讲。他从莲花与释迦牟尼讲起，强调原始佛教本有反有神、多神和反盖庙的一面，批评台湾佛教常背离这一精神；他同时肯定慈济相对少盖庙、较接近慈善实践，再用“出污泥而不染”转到花莲被财阀污染仍可自持的比喻。演讲后段他说对外不要迷信宗教、对内不要迷信命运，并把女性政治、佛经性别观和《李敖大全集》读书法都收束到“用智慧解决问题”。",
+    "category": "thought",
+    "source": {
+      "book": "李敖发电集",
+      "chapter": "026.2000年1月5日",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/002.李敖发电集/026.2000年1月5日.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        9,
+        11,
+        17,
+        19,
+        23,
+        31,
+        35,
+        41,
+        43,
+        45,
+        47,
+        59
+      ]
+    },
+    "people": [
+      "李敖",
+      "释迦牟尼",
+      "证严",
+      "星云",
+      "张之洞",
+      "甘地",
+      "康有为",
+      "梁启超"
+    ],
+    "places": [
+      "花莲",
+      "台湾",
+      "印度"
+    ],
+    "works": [
+      "李敖发电集",
+      "李敖电子报",
+      "金刚经",
+      "爱莲说",
+      "李敖大全集"
+    ],
+    "tags": [
+      "李敖发电集",
+      "第四轮",
+      "第026章",
+      "花莲演讲",
+      "从莲花中看花莲",
+      "佛教",
+      "慈济",
+      "原始佛教",
+      "命运观",
+      "女性政治"
+    ],
+    "crossReferences": [
+      "tiaozhan-li-ao-1999-11-18-announces-hualien-lotus-lecture",
+      "tiaozhan-li-ao-1999-11-11-compares-hsingyun-and-chengyen-in-callin",
+      "li-ao-dageda-035-broadcast-criticizes-welcoming-buddha-finger-bone",
+      "li-ao-mimi-shufang-011-restates-agnostic-position-and-criticizes-religious-hallucination",
+      "li-ao-mimi-shufang-068-says-believers-betray-original-buddhism-and-mazu"
+    ],
+    "view": [
+      "思想线",
+      "宗教线",
+      "演讲线"
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "li-ao-fadianji-round004-025-032"
+  },
+  {
+    "id": "li-ao-fadianji-027-publishes-new-party-kmt-party-assets-trust-policy",
+    "date": "2000-01-06",
+    "year": 2000,
+    "month": 1,
+    "day": 6,
+    "displayDate": "2000年1月6日",
+    "datePrecision": "day",
+    "title": "李敖刊出新党“党产信托，换汤不换药”意见，要求清查国民党党产",
+    "summary": "《怎样处分国民党党产？》先回述刘泰英1999年10月9日饭局中承认若党产还出，国民党会先垮、民进党会赢；随后刊出新党政策会1月5日“党产信托，换汤不换药”意见。文本质疑国民党党产价值、海外资产、来路不明资产和信托契约可撤回等问题，并提出政党规范入宪、制定政党法、设政党基金会、立法院成立清查重估委员会、非法党产充公作为国民年金或公共基金等处理程序。",
+    "category": "politics",
+    "source": {
+      "book": "李敖发电集",
+      "chapter": "027.2000年1月6日",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/002.李敖发电集/027.2000年1月6日.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        11,
+        13,
+        17,
+        23,
+        25,
+        27,
+        29,
+        31,
+        33,
+        41,
+        43,
+        45,
+        47,
+        51
+      ]
+    },
+    "people": [
+      "李敖",
+      "刘泰英"
+    ],
+    "places": [
+      "台湾",
+      "立法院"
+    ],
+    "works": [
+      "李敖发电集",
+      "李敖电子报"
+    ],
+    "tags": [
+      "李敖发电集",
+      "第四轮",
+      "第027章",
+      "国民党党产",
+      "党产信托",
+      "新党政策会",
+      "政党基金会",
+      "国民年金"
+    ],
+    "crossReferences": [
+      "tiaozhan-li-ao-1999-12-14-liu-taiying-party-assets-cannot-expose",
+      "tiaozhan-li-ao-2000-01-03-cites-liu-taiying-october-ninth-party-assets",
+      "tiaozhan-li-ao-2000-01-03-callin-party-assets-trust-scam",
+      "li-ao-mimi-shufang-086-warns-party-assets-trust-delay-will-let-assets-be-hidden",
+      "li-ao-mimi-shufang-086-recalls-liu-taiying-october-dinner-and-says-party-assets-cannot-do-good"
+    ],
+    "view": [
+      "政治线",
+      "选举线",
+      "党产线"
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "li-ao-fadianji-round004-025-032"
+  },
+  {
+    "id": "li-ao-fadianji-027-comments-on-ko-naixin-virginity-and-hymenoplasty-essay",
+    "date": "2000-01-06",
+    "year": 2000,
+    "month": 1,
+    "day": 6,
+    "displayDate": "2000年1月6日",
+    "datePrecision": "day",
+    "title": "李敖写《我看处女寇乃馨》，把寇乃馨守身说同《论“处女膜整型”》旧论相接",
+    "summary": "同日《我看处女寇乃馨》中，李敖从自己1963年《论“处女膜整型”》谈起，把寇乃馨被称作“台湾演艺圈最后一个处女”的新闻放入处女观念史。他逐条查《圣经》处女章节，认为寇乃馨把守身论建在基督信仰上并不成立；但他又承认寇乃馨可自成一说，借“欲望的满足会降低爱情的强度”坚持婚前自抑，只是这种唯灵抑肉也可能成为自误。文末再以 Robert Sermaise《The Fleshly Prelude》作文学参照。",
+    "category": "culture",
+    "source": {
+      "book": "李敖发电集",
+      "chapter": "027.2000年1月6日",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/002.李敖发电集/027.2000年1月6日.txt",
+      "line": 55,
+      "lines": [
+        55,
+        57,
+        59,
+        61,
+        63
+      ]
+    },
+    "people": [
+      "李敖",
+      "寇乃馨",
+      "Robert Sermaise"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "李敖发电集",
+      "李敖电子报",
+      "论“处女膜整型”",
+      "圣经",
+      "The Fleshly Prelude"
+    ],
+    "tags": [
+      "李敖发电集",
+      "第四轮",
+      "第027章",
+      "寇乃馨",
+      "处女膜整型",
+      "处女癖",
+      "圣经",
+      "性观念"
+    ],
+    "crossReferences": [
+      "book5-1963-10-01-chunvmo-zhengxing-published",
+      "daxue-houqi-yi-1959-02-27-plans-article-virginity-question-citing-yama-and-hu-shih-wencun",
+      "li-ao-dageda-028-broadcast-discusses-kou-naixin-and-his-preface",
+      "li-ao-mimi-shufang-082-discusses-hymenoplasty-virginity-obsession-and-chicken-blood-with-lin-jingyun"
+    ],
+    "view": [
+      "文化线",
+      "思想线",
+      "性观念线"
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "li-ao-fadianji-round004-025-032"
+  },
+  {
+    "id": "li-ao-fadianji-032-soochow-cross-strait-speech-urges-students-to-see-loaded-terms",
+    "date": "2000-01-13",
+    "year": 2000,
+    "month": 1,
+    "day": 13,
+    "displayDate": "2000年1月13日",
+    "datePrecision": "day",
+    "title": "李敖在东吴谈“21世纪两岸关系”，要求学生识破丐词和美国拴狗逻辑",
+    "summary": "《21世纪两岸关系》记录李敖回到东吴演讲。他说两岸关系不是只需智慧，更需勇气，因为蒋氏父子四十年的反共教育把台湾判断冻结住。演讲中他把“台湾是主权独立国家”等只问第一命题、不问战争后果的说法称为“丐词”魔术，批大学生被政客带着走；随后从许信良“大胆西进”、台商经济腹地、陈水扁中国政策白皮书的六项前提、李光耀对李登辉的观察，讲到美国对蒋介石和李登辉的 leash on 政策，以及两国论后英美法在联合国投票上的反应。",
+    "category": "politics",
+    "source": {
+      "book": "李敖发电集",
+      "chapter": "032.2000年1月13日",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/002.李敖发电集/032.2000年1月13日.txt",
+      "line": 35,
+      "lines": [
+        35,
+        37,
+        39,
+        43,
+        45,
+        49,
+        53,
+        55,
+        57,
+        59
+      ]
+    },
+    "people": [
+      "李敖",
+      "蒋介石",
+      "蒋经国",
+      "李登辉",
+      "许信良",
+      "陈水扁",
+      "李光耀",
+      "王永庆",
+      "张荣发"
+    ],
+    "places": [
+      "东吴大学",
+      "台湾",
+      "中国大陆",
+      "美国",
+      "联合国"
+    ],
+    "works": [
+      "李敖发电集",
+      "李敖电子报",
+      "21世纪两岸关系",
+      "中国政策白皮书"
+    ],
+    "tags": [
+      "李敖发电集",
+      "第四轮",
+      "第032章",
+      "东吴大学",
+      "两岸关系",
+      "丐词",
+      "大胆西进",
+      "leash on",
+      "两国论"
+    ],
+    "crossReferences": [
+      "tiaozhan-li-ao-1999-12-16-qna-chiang-lee-soong-dogs-and-leash-policy",
+      "li-ao-youhua-shuo-008-explains-referendum-question-begging-with-wife-beating-and-cao-jingxing-examples",
+      "li-ao-youhua-shuo-062-shows-chiang-biography-and-leash-on-chiang",
+      "li-ao-mimi-shufang-075-restates-one-country-two-systems-and-taiwan-leader-formula",
+      "tiaozhan-li-ao-2000-01-13-from-school-presidents-to-li-heads-free-speech"
+    ],
+    "view": [
+      "政治线",
+      "两岸线",
+      "演讲线"
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "li-ao-fadianji-round004-025-032"
+  }
+]

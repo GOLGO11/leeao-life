@@ -101,7 +101,10 @@ const dataFiles = [
   "data/timeline-events-li-ao-yumiao-tianxia.json",
   "data/timeline-events-xiaoao-liushinian-youhua-shuo.json",
   "data/timeline-events-li-ao-yanjiangji.json",
-  "data/timeline-events-li-ao-zhenglun-zongyiji.json"
+  "data/timeline-events-li-ao-zhenglun-zongyiji.json",
+  "data/timeline-events-li-ao-shenzhou-cultural-trip.json",
+  "data/timeline-events-li-ao-fangdianji.json",
+  "data/timeline-events-li-ao-fadianji.json"
 ];
 
 const outputDir = path.join(root, "exports");
