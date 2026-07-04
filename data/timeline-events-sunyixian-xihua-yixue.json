@@ -1,0 +1,68 @@
+[
+  {
+    "category": "research-writing",
+    "type": "李敖当事人事件",
+    "additionalSources": [],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "sunyixian-xihua-yixue-round001-closeout",
+    "id": "sunyixian-xihua-yixue-1965-11-06-writes-medical-association-protest-letter",
+    "date": "1965-11-06",
+    "year": 1965,
+    "month": 11,
+    "day": 6,
+    "displayDate": "1965年11月6日",
+    "datePrecision": "day",
+    "title": "李敖为《孙逸仙和中国西化医学》致台湾省医师公会抗议信",
+    "summary": "《为〈孙逸仙和中国西化医学〉给台湾省医师公会的信》署日1965年11月6日。李敖回述该会经《台湾医界》编辑林今开邀他就孙中山与近代西化医学编写专书、交文星书店出版；但书在出版过程中，医师公会来信称文稿须转呈国民党中央党部审核认可，李敖遂写信抗议“预审制”，并拒绝参加11月14日医学会年会《传统医学与现代医学》专题演说。",
+    "source": {
+      "book": "孙逸仙和中国西化医学",
+      "chapter": "008.回到“医生”，回到“基督”.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/004.孙逸仙和中国西化医学/008.回到“医生”，回到“基督”.txt",
+      "line": 145,
+      "lines": [
+        123,
+        127,
+        129,
+        131,
+        141,
+        145,
+        147
+      ]
+    },
+    "people": [
+      "李敖",
+      "孙中山",
+      "林今开",
+      "萧孟能"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "孙逸仙和中国西化医学",
+      "台湾医界",
+      "文星书店",
+      "传统医学与现代医学"
+    ],
+    "tags": [
+      "孙逸仙和中国西化医学",
+      "第一轮",
+      "台湾省医师公会",
+      "文星书店",
+      "预审制",
+      "出版自由",
+      "医学会年会"
+    ],
+    "crossReferences": [
+      "book5-1965-writes-sun-yatsen-western-medicine",
+      "li-ao-qingshuji-1966-01-05-g-letter-164-garrison-bans-wenxing-97-and-sun-yatsen-book"
+    ],
+    "view": [
+      "写作线",
+      "出版线",
+      "司法线",
+      "人物研究线"
+    ]
+  }
+]

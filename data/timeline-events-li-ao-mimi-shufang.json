@@ -7187,7 +7187,30 @@
         7,
         29
       ]
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖发电集",
+        "chapter": "044.2000年1月31日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/002.李敖发电集/044.2000年1月31日.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          7,
+          9,
+          11,
+          13,
+          15,
+          17,
+          19,
+          21,
+          23,
+          25
+        ],
+        "note": "《李敖发电集》刊出李敖2000年1月24日晨三时半为戴高乐将军《剑锋》所写题辞全文。"
+      }
+    ]
   },
   {
     "id": "li-ao-mimi-shufang-026-episode-one-explains-de-gaulle-tank-foresight-and-free-france",
@@ -26183,7 +26206,28 @@
         5,
         5
       ]
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "033.2000年3月22日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/033.2000年3月22日.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          7,
+          9,
+          11,
+          13,
+          15,
+          17,
+          19,
+          21
+        ],
+        "note": "第五轮补源：《李敖送电集》033刊出《李敖的四点书面谈话》原文，补入《秘密书房》宣读旧锚。"
+      }
+    ]
   },
   {
     "id": "li-ao-mimi-shufang-2000-03-18-issues-four-point-election-statement",

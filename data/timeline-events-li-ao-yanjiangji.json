@@ -1653,7 +1653,29 @@
         3
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "001.2000年2月1日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/001.2000年2月1日.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          7,
+          11,
+          15,
+          19,
+          21,
+          23,
+          27,
+          29,
+          31
+        ],
+        "note": "《李敖送电集》转刊《庸医杀人，良医杀？》，为台北医学院演讲提供新党新月刊整理版本。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-006-recalls-speaking-at-taipei-medical-college-thirty-six-years-earlier",
@@ -2148,7 +2170,32 @@
         5
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "002.2000年2月2日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/002.2000年2月2日.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          7,
+          9,
+          13,
+          15,
+          17,
+          21,
+          23,
+          27,
+          29,
+          31,
+          35,
+          37
+        ],
+        "note": "《李敖送电集》转刊《别再中山了！》，为中山大学演讲提供新党新月刊整理版本。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-007-brings-six-fellow-rebellion-case-prisoners",
@@ -4972,7 +5019,32 @@
         31
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "003.2000年2月3日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/003.2000年2月3日.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          7,
+          9,
+          11,
+          13,
+          15,
+          17,
+          19,
+          21,
+          23,
+          25,
+          27,
+          29
+        ],
+        "note": "《李敖送电集》转刊《台大人的第二命题》，为台大演讲提供新党新月刊整理版本。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-013-distinguishes-state-government-and-un",
@@ -7419,7 +7491,28 @@
         5
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "015.2000年2月25日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/015.2000年2月25日.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          9,
+          11,
+          15,
+          17,
+          21,
+          25,
+          31,
+          37
+        ],
+        "note": "《送电集》015为中兴法商《大学教育的悲哀》演讲整理刊出；同场旧锚已足够细，本轮补总源不重复拆分。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-018-shows-free-china-article-and-student-courage",
@@ -8437,7 +8530,24 @@
         59
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "019.2000年3月2日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/019.2000年3月2日.txt",
+        "line": 37,
+        "lines": [
+          37,
+          39,
+          41,
+          43,
+          45,
+          47
+        ],
+        "note": "《陈水扁勇敢吗？》作为同一“不勇敢/不敢组党”论点的电子报短文来源。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-019-urges-nchu-students-to-fight-for-reconstruction-funds",
@@ -8651,7 +8761,28 @@
         5
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "014.2000年2月24日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/014.2000年2月24日.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          7,
+          11,
+          15,
+          19,
+          23,
+          27,
+          29,
+          31
+        ],
+        "note": "《送电集》014为世新大学演讲整理刊出；同场已由《李敖演讲集》《挑战李敖》旧锚承载，本轮只补总源。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-020-remembers-wei-tingchao-and-meilidao-lawyers",
@@ -9306,7 +9437,20 @@
         5
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "026.2000年3月13日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/026.2000年3月13日.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5
+        ],
+        "note": "第四轮补源：《李敖送电集》026刊出《交大2000怎么走？》，补入交大演讲旧锚。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-021-uses-lin-yutang-typewriter-to-discuss-timing",
@@ -9428,7 +9572,31 @@
         13
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "026.2000年3月13日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/026.2000年3月13日.txt",
+        "line": 15,
+        "lines": [
+          15,
+          17,
+          19,
+          25,
+          27,
+          29,
+          33,
+          35,
+          37,
+          39,
+          43,
+          45,
+          47
+        ],
+        "note": "第四轮补源：《李敖送电集》026刊出《交大2000怎么走？》，补入交大演讲旧锚。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-021-argues-characters-benefit-from-computer-recognition",
@@ -12646,7 +12814,20 @@
         7
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖发电集",
+        "chapter": "036.2000年1月19日",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/002.李敖发电集/036.2000年1月19日.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          7
+        ]
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-025-praises-shih-hsingchung-and-dpp-resource-erasure",
@@ -12687,7 +12868,18 @@
         11
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖发电集",
+        "chapter": "036.2000年1月19日",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/002.李敖发电集/036.2000年1月19日.txt",
+        "line": 9,
+        "lines": [
+          9
+        ]
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-025-calls-chen-and-lien-party-asset-promises-deception",
@@ -12729,7 +12921,18 @@
         13
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖发电集",
+        "chapter": "036.2000年1月19日",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/002.李敖发电集/036.2000年1月19日.txt",
+        "line": 11,
+        "lines": [
+          11
+        ]
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-025-introduces-unmasking-lee-tenghui-and-evidence-types",
@@ -12772,7 +12975,18 @@
         17
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖发电集",
+        "chapter": "036.2000年1月19日",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/002.李敖发电集/036.2000年1月19日.txt",
+        "line": 15,
+        "lines": [
+          15
+        ]
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-025-corrects-taiwan-son-claim-about-chen-prison-record",
@@ -12817,7 +13031,18 @@
         19
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖发电集",
+        "chapter": "036.2000年1月19日",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/002.李敖发电集/036.2000年1月19日.txt",
+        "line": 17,
+        "lines": [
+          17
+        ]
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-025-restores-wei-tingchao-and-taiyuan-list-history",
@@ -12863,6 +13088,18 @@
     },
     "crossReferences": [
       "li-ao-yanjiangji-020-remembers-wei-tingchao-and-meilidao-lawyers"
+    ],
+    "additionalSources": [
+      {
+        "book": "李敖发电集",
+        "chapter": "036.2000年1月19日",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/002.李敖发电集/036.2000年1月19日.txt",
+        "line": 19,
+        "lines": [
+          19,
+          21
+        ]
+      }
     ]
   },
   {
@@ -12905,7 +13142,18 @@
         25
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖发电集",
+        "chapter": "036.2000年1月19日",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/002.李敖发电集/036.2000年1月19日.txt",
+        "line": 23,
+        "lines": [
+          23
+        ]
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-025-praises-shih-hsingchung-brick-seal-prank",
@@ -12947,7 +13195,18 @@
         27
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖发电集",
+        "chapter": "036.2000年1月19日",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/002.李敖发电集/036.2000年1月19日.txt",
+        "line": 25,
+        "lines": [
+          25
+        ]
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-025-ends-with-judgment-lesson-for-hsinchu-voters",
@@ -12987,7 +13246,18 @@
         29
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖发电集",
+        "chapter": "036.2000年1月19日",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/002.李敖发电集/036.2000年1月19日.txt",
+        "line": 27,
+        "lines": [
+          27
+        ]
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-026-opens-with-global-tv-and-taiwan-father-joke",
@@ -13071,7 +13341,24 @@
         11
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "029.2000年3月16日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/029.2000年3月16日.txt",
+        "line": 31,
+        "lines": [
+          31,
+          35,
+          37,
+          39,
+          41,
+          43
+        ],
+        "note": "第四轮补源：《李敖送电集》029-030刊出《成功有两种》，补入成功大学演讲旧锚。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-026-uses-unmasking-lee-tenghui-as-example-of-moral-standards",
@@ -13159,6 +13446,21 @@
     },
     "crossReferences": [
       "li-ao-yanjiangji-025-restores-wei-tingchao-and-taiyuan-list-history"
+    ],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "030.2000年3月17日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/030.2000年3月17日.txt",
+        "line": 5,
+        "lines": [
+          5,
+          7,
+          9,
+          11
+        ],
+        "note": "第四轮补源：《李敖送电集》029-030刊出《成功有两种》，补入成功大学演讲旧锚。"
+      }
     ]
   },
   {
@@ -13201,7 +13503,23 @@
         23
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "030.2000年3月17日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/030.2000年3月17日.txt",
+        "line": 13,
+        "lines": [
+          13,
+          15,
+          17,
+          19,
+          21
+        ],
+        "note": "第四轮补源：《李敖送电集》029-030刊出《成功有两种》，补入成功大学演讲旧锚。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-026-connects-banned-books-to-student-thought-and-chinese",
@@ -13288,7 +13606,19 @@
         29
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "030.2000年3月17日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/030.2000年3月17日.txt",
+        "line": 23,
+        "lines": [
+          23
+        ],
+        "note": "第四轮补源：《李敖送电集》029-030刊出《成功有两种》，补入成功大学演讲旧锚。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-026-says-heroes-are-afraid-but-still-act",
@@ -13328,7 +13658,19 @@
         31
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "030.2000年3月17日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/030.2000年3月17日.txt",
+        "line": 23,
+        "lines": [
+          23
+        ],
+        "note": "第四轮补源：《李敖送电集》029-030刊出《成功有两种》，补入成功大学演讲旧锚。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-026-warns-war-and-soldier-risk-at-chengkung",
@@ -14201,7 +14543,22 @@
         23
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "010.2000年2月18日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/010.2000年2月18日.txt",
+        "line": 31,
+        "lines": [
+          31,
+          37,
+          47,
+          49
+        ],
+        "note": "《送电集》010续刊苗栗演讲，补出中研院研究员提供罗福星资料和李敖现场展示照片。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-027-says-recognizing-taiwan-textbook-erased-luo-fuxing",
@@ -14244,7 +14601,22 @@
         27
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "011.2000年2月21日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/011.2000年2月21日.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          7,
+          9
+        ],
+        "note": "《送电集》011续刊苗栗演讲，补出“认识台湾”教科书中罗福星三字不见的完整转刊段落。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-027-explains-identity-changes-with-political-market",
@@ -14290,7 +14662,23 @@
         31
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "011.2000年2月21日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/011.2000年2月21日.txt",
+        "line": 11,
+        "lines": [
+          11,
+          13,
+          15,
+          17,
+          19
+        ],
+        "note": "《送电集》011补出李敖用爱因斯坦、荷马、西施、罗福星与郑南榕说明族群认同随政治需要变化的段落。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-027-says-truth-history-and-justice-are-distorted",
@@ -15831,7 +16219,21 @@
         3
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "017.2000年2月29日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/017.2000年2月29日.txt",
+        "line": 33,
+        "lines": [
+          29,
+          31,
+          33
+        ],
+        "note": "《李敖送电集》017-019刊出《聪明台湾人，检验候选人（校正本）》，补入第一次总统候选人政见发表会校正版来源。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-029-publishes-lee-tenghui-swiss-and-liechtenstein-accounts",
@@ -15876,7 +16278,19 @@
         5
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "017.2000年2月29日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/017.2000年2月29日.txt",
+        "line": 35,
+        "lines": [
+          35
+        ],
+        "note": "《李敖送电集》017-019刊出《聪明台湾人，检验候选人（校正本）》，补入第一次总统候选人政见发表会校正版来源。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-029-uses-chen-fangming-praise-to-claim-political-understanding",
@@ -15916,7 +16330,19 @@
         7
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "017.2000年2月29日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/017.2000年2月29日.txt",
+        "line": 37,
+        "lines": [
+          37
+        ],
+        "note": "《李敖送电集》017-019刊出《聪明台湾人，检验候选人（校正本）》，补入第一次总统候选人政见发表会校正版来源。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-029-says-policy-needs-premise-through-technology-basic-law",
@@ -15958,7 +16384,20 @@
         9
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "017.2000年2月29日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/017.2000年2月29日.txt",
+        "line": 43,
+        "lines": [
+          41,
+          43
+        ],
+        "note": "《李敖送电集》017-019刊出《聪明台湾人，检验候选人（校正本）》，补入第一次总统候选人政见发表会校正版来源。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-029-says-un-2758-means-taiwan-still-in-un-as-china-part",
@@ -16002,6 +16441,18 @@
     },
     "crossReferences": [
       "li-ao-yanjiangji-011-says-taiwan-still-in-un-through-prc"
+    ],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "017.2000年2月29日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/017.2000年2月29日.txt",
+        "line": 45,
+        "lines": [
+          45
+        ],
+        "note": "《李敖送电集》017-019刊出《聪明台湾人，检验候选人（校正本）》，补入第一次总统候选人政见发表会校正版来源。"
+      }
     ]
   },
   {
@@ -16044,7 +16495,19 @@
         13
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "017.2000年2月29日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/017.2000年2月29日.txt",
+        "line": 47,
+        "lines": [
+          47
+        ],
+        "note": "《李敖送电集》017-019刊出《聪明台湾人，检验候选人（校正本）》，补入第一次总统候选人政见发表会校正版来源。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-029-tests-chen-china-policy-by-war-and-negotiation-feasibility",
@@ -16087,7 +16550,20 @@
         15
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "017.2000年2月29日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/017.2000年2月29日.txt",
+        "line": 49,
+        "lines": [
+          49,
+          51
+        ],
+        "note": "《李敖送电集》017-019刊出《聪明台湾人，检验候选人（校正本）》，补入第一次总统候选人政见发表会校正版来源。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-029-says-lien-chen-soong-cross-strait-policies-not-true",
@@ -16134,7 +16610,19 @@
         19
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "017.2000年2月29日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/017.2000年2月29日.txt",
+        "line": 53,
+        "lines": [
+          53
+        ],
+        "note": "《李敖送电集》017-019刊出《聪明台湾人，检验候选人（校正本）》，补入第一次总统候选人政见发表会校正版来源。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-029-uses-kmt-headquarters-broken-promise-against-chen-credit",
@@ -16176,7 +16664,20 @@
         21
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "018.2000年3月1日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/018.2000年3月1日.txt",
+        "line": 9,
+        "lines": [
+          7,
+          9
+        ],
+        "note": "《李敖送电集》017-019刊出《聪明台湾人，检验候选人（校正本）》，补入第一次总统候选人政见发表会校正版来源。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-029-uses-illegal-building-and-japanese-grave-to-question-fairness",
@@ -16219,7 +16720,20 @@
         25
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "018.2000年3月1日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/018.2000年3月1日.txt",
+        "line": 11,
+        "lines": [
+          11,
+          13
+        ],
+        "note": "《李敖送电集》017-019刊出《聪明台湾人，检验候选人（校正本）》，补入第一次总统候选人政见发表会校正版来源。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-029-offers-pork-and-foot-mouth-as-concrete-agriculture-policy",
@@ -16260,7 +16774,19 @@
         29
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "018.2000年3月1日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/018.2000年3月1日.txt",
+        "line": 17,
+        "lines": [
+          17
+        ],
+        "note": "《李敖送电集》017-019刊出《聪明台湾人，检验候选人（校正本）》，补入第一次总统候选人政见发表会校正版来源。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-029-sets-economy-and-mainland-hinterland-as-major-policy",
@@ -16302,7 +16828,20 @@
         31
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "018.2000年3月1日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/018.2000年3月1日.txt",
+        "line": 19,
+        "lines": [
+          19,
+          21
+        ],
+        "note": "《李敖送电集》017-019刊出《聪明台湾人，检验候选人（校正本）》，补入第一次总统候选人政见发表会校正版来源。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-029-defines-roc-as-remaining-peripheral-regime",
@@ -16342,7 +16881,20 @@
         35
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "018.2000年3月1日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/018.2000年3月1日.txt",
+        "line": 21,
+        "lines": [
+          21,
+          25
+        ],
+        "note": "《李敖送电集》017-019刊出《聪明台湾人，检验候选人（校正本）》，补入第一次总统候选人政见发表会校正版来源。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-029-uses-chiang-1950-death-claim-and-octs-price",
@@ -16388,6 +16940,20 @@
     },
     "crossReferences": [
       "li-ao-yanjiangji-023-says-chiang-called-roc-dead-and-pla-protects-name"
+    ],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "018.2000年3月1日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/018.2000年3月1日.txt",
+        "line": 25,
+        "lines": [
+          23,
+          25,
+          27
+        ],
+        "note": "《李敖送电集》017-019刊出《聪明台湾人，检验候选人（校正本）》，补入第一次总统候选人政见发表会校正版来源。"
+      }
     ]
   },
   {
@@ -16429,7 +16995,20 @@
         41
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "018.2000年3月1日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/018.2000年3月1日.txt",
+        "line": 27,
+        "lines": [
+          27,
+          29
+        ],
+        "note": "《李敖送电集》017-019刊出《聪明台湾人，检验候选人（校正本）》，补入第一次总统候选人政见发表会校正版来源。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-029-sets-competence-and-stability-as-voting-standard",
@@ -16473,7 +17052,24 @@
         43
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "018.2000年3月1日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/018.2000年3月1日.txt",
+        "line": 31,
+        "lines": [
+          31,
+          33,
+          35,
+          37,
+          39,
+          41
+        ],
+        "note": "《李敖送电集》017-019刊出《聪明台湾人，检验候选人（校正本）》，补入第一次总统候选人政见发表会校正版来源。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-029-would-support-chen-if-he-abandons-independence",
@@ -16518,6 +17114,22 @@
     },
     "crossReferences": [
       "li-ao-yanjiangji-028-offers-to-support-chen-if-he-abolishes-independence-plank"
+    ],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "019.2000年3月2日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/019.2000年3月2日.txt",
+        "line": 7,
+        "lines": [
+          3,
+          5,
+          7,
+          13,
+          15
+        ],
+        "note": "《李敖送电集》017-019刊出《聪明台湾人，检验候选人（校正本）》，补入第一次总统候选人政见发表会校正版来源。"
+      }
     ]
   },
   {
@@ -16558,7 +17170,22 @@
         53
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "019.2000年3月2日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/019.2000年3月2日.txt",
+        "line": 17,
+        "lines": [
+          17,
+          19,
+          21,
+          23
+        ],
+        "note": "《李敖送电集》017-019刊出《聪明台湾人，检验候选人（校正本）》，补入第一次总统候选人政见发表会校正版来源。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-030-moves-from-zheng-banqiao-to-miao-and-taiwanese-identity",
@@ -16601,7 +17228,23 @@
         3
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "030.2000年3月17日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/030.2000年3月17日.txt",
+        "line": 25,
+        "lines": [
+          25,
+          27,
+          29,
+          31,
+          33
+        ],
+        "note": "第四轮补源：《李敖送电集》030-031刊出《从郑板桥到板桥》，补入板桥演讲旧锚。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-030-shows-presidential-office-folder-and-nsb-secrets",
@@ -16642,7 +17285,20 @@
         7
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "030.2000年3月17日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/030.2000年3月17日.txt",
+        "line": 35,
+        "lines": [
+          35,
+          37
+        ],
+        "note": "第四轮补源：《李敖送电集》030-031刊出《从郑板桥到板桥》，补入板桥演讲旧锚。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-030-publishes-nsb-report-on-lee-nobel-lobbying",
@@ -16684,7 +17340,19 @@
         9
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "030.2000年3月17日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/030.2000年3月17日.txt",
+        "line": 37,
+        "lines": [
+          37
+        ],
+        "note": "第四轮补源：《李敖送电集》030-031刊出《从郑板桥到板桥》，补入板桥演讲旧锚。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-030-defines-research-as-up-to-heaven-down-to-underworld",
@@ -16724,7 +17392,20 @@
         11
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "030.2000年3月17日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/030.2000年3月17日.txt",
+        "line": 39,
+        "lines": [
+          39,
+          41
+        ],
+        "note": "第四轮补源：《李敖送电集》030-031刊出《从郑板桥到板桥》，补入板桥演讲旧锚。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-030-uses-lee-hsienwen-grave-and-lee-tenghui-family-evidence",
@@ -16767,7 +17448,21 @@
         13
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "030.2000年3月17日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/030.2000年3月17日.txt",
+        "line": 39,
+        "lines": [
+          39,
+          41,
+          43
+        ],
+        "note": "第四轮补源：《李敖送电集》030-031刊出《从郑板桥到板桥》，补入板桥演讲旧锚。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-030-shows-presidential-orders-and-su-chicheng-comments",
@@ -16809,7 +17504,21 @@
         15
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "030.2000年3月17日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/030.2000年3月17日.txt",
+        "line": 45,
+        "lines": [
+          45,
+          47,
+          49
+        ],
+        "note": "第四轮补源：《李敖送电集》030-031刊出《从郑板桥到板桥》，补入板桥演讲旧锚。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-030-announces-lee-tenghui-swiss-bank-account-before-debate",
@@ -16853,6 +17562,21 @@
     },
     "crossReferences": [
       "li-ao-yanjiangji-029-publishes-lee-tenghui-swiss-and-liechtenstein-accounts"
+    ],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "031.2000年3月20日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/031.2000年3月20日.txt",
+        "line": 5,
+        "lines": [
+          5,
+          7,
+          9,
+          11
+        ],
+        "note": "第四轮补源：《李敖送电集》030-031刊出《从郑板桥到板桥》，补入板桥演讲旧锚。"
+      }
     ]
   },
   {
@@ -16893,7 +17617,20 @@
         21
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "031.2000年3月20日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/031.2000年3月20日.txt",
+        "line": 13,
+        "lines": [
+          13,
+          15
+        ],
+        "note": "第四轮补源：《李敖送电集》030-031刊出《从郑板桥到板桥》，补入板桥演讲旧锚。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-030-searches-chiang-merits-with-wang-rongzu",
@@ -16977,7 +17714,19 @@
         25
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "031.2000年3月20日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/031.2000年3月20日.txt",
+        "line": 17,
+        "lines": [
+          17
+        ],
+        "note": "第四轮补源：《李敖送电集》030-031刊出《从郑板桥到板桥》，补入板桥演讲旧锚。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-030-says-chen-copied-li-chinghua-direct-link-policy",
@@ -17023,7 +17772,21 @@
         27
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "031.2000年3月20日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/031.2000年3月20日.txt",
+        "line": 19,
+        "lines": [
+          19,
+          21,
+          23
+        ],
+        "note": "第四轮补源：《李敖送电集》030-031刊出《从郑板桥到板桥》，补入板桥演讲旧锚。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-030-says-he-competes-against-lee-tenghui-too",
@@ -17067,7 +17830,22 @@
         31
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "031.2000年3月20日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/031.2000年3月20日.txt",
+        "line": 25,
+        "lines": [
+          25,
+          27,
+          29,
+          31
+        ],
+        "note": "第四轮补源：《李敖送电集》030-031刊出《从郑板桥到板桥》，补入板桥演讲旧锚。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-030-uses-kmt-headquarters-and-party-assets-against-chen",
@@ -17110,6 +17888,20 @@
     },
     "crossReferences": [
       "li-ao-yanjiangji-029-uses-kmt-headquarters-broken-promise-against-chen-credit"
+    ],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "031.2000年3月20日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/031.2000年3月20日.txt",
+        "line": 33,
+        "lines": [
+          33,
+          35,
+          37
+        ],
+        "note": "第四轮补源：《李敖送电集》030-031刊出《从郑板桥到板桥》，补入板桥演讲旧锚。"
+      }
     ]
   },
   {
@@ -17153,7 +17945,21 @@
         35
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "031.2000年3月20日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/031.2000年3月20日.txt",
+        "line": 33,
+        "lines": [
+          33,
+          35,
+          37
+        ],
+        "note": "第四轮补源：《李敖送电集》030-031刊出《从郑板桥到板桥》，补入板桥演讲旧锚。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-030-uses-caocao-talent-order-to-choose-less-bad-leaders",
@@ -17195,7 +18001,21 @@
         37
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "031.2000年3月20日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/031.2000年3月20日.txt",
+        "line": 39,
+        "lines": [
+          39,
+          41,
+          43
+        ],
+        "note": "第四轮补源：《李敖送电集》030-031刊出《从郑板桥到板桥》，补入板桥演讲旧锚。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-030-laments-few-successors-after-chiang-and-lee",
@@ -17242,7 +18062,20 @@
         39
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "031.2000年3月20日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/031.2000年3月20日.txt",
+        "line": 41,
+        "lines": [
+          41,
+          43
+        ],
+        "note": "第四轮补源：《李敖送电集》030-031刊出《从郑板桥到板桥》，补入板桥演讲旧锚。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-030-closes-by-saying-he-speaks-with-data",
@@ -17984,7 +18817,24 @@
         3
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "022.2000年3月7日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/022.2000年3月7日.txt",
+        "line": 29,
+        "lines": [
+          27,
+          29,
+          31,
+          33,
+          37,
+          39
+        ],
+        "note": "《李敖送电集》022-024刊出《真心爱台湾，莫鼓动战争（修正版）》，补入第二次总统候选人政见发表会修正版来源。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-032-praises-wu-tayu-anti-nuclear-bomb-stance",
@@ -18024,7 +18874,22 @@
         7
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "022.2000年3月7日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/022.2000年3月7日.txt",
+        "line": 41,
+        "lines": [
+          41,
+          43,
+          45,
+          47
+        ],
+        "note": "《李敖送电集》022-024刊出《真心爱台湾，莫鼓动战争（修正版）》，补入第二次总统候选人政见发表会修正版来源。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-032-says-white-paper-means-taiwan-is-china-us-issue",
@@ -18065,7 +18930,20 @@
         9
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "022.2000年3月7日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/022.2000年3月7日.txt",
+        "line": 49,
+        "lines": [
+          47,
+          49
+        ],
+        "note": "《李敖送电集》022-024刊出《真心爱台湾，莫鼓动战争（修正版）》，补入第二次总统候选人政见发表会修正版来源。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-032-sets-mission-against-real-villains-and-hypocrites",
@@ -18105,7 +18983,19 @@
         11
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "022.2000年3月7日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/022.2000年3月7日.txt",
+        "line": 49,
+        "lines": [
+          49
+        ],
+        "note": "《李敖送电集》022-024刊出《真心爱台湾，莫鼓动战争（修正版）》，补入第二次总统候选人政见发表会修正版来源。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-032-uses-deng-next-generation-to-equate-status-quo-with-octs",
@@ -18147,7 +19037,20 @@
         13
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "023.2000年3月8日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/023.2000年3月8日.txt",
+        "line": 11,
+        "lines": [
+          11,
+          13
+        ],
+        "note": "《李敖送电集》022-024刊出《真心爱台湾，莫鼓动战争（修正版）》，补入第二次总统候选人政见发表会修正版来源。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-032-reminds-taiwan-once-blocked-prc-un-and-beijing-olympics",
@@ -18187,7 +19090,21 @@
         17
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "023.2000年3月8日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/023.2000年3月8日.txt",
+        "line": 17,
+        "lines": [
+          17,
+          19,
+          21
+        ],
+        "note": "《李敖送电集》022-024刊出《真心爱台湾，莫鼓动战争（修正版）》，补入第二次总统候选人政见发表会修正版来源。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-032-says-lee-tenghui-mainland-policy-cost-500-billion",
@@ -18228,7 +19145,19 @@
         19
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "023.2000年3月8日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/023.2000年3月8日.txt",
+        "line": 23,
+        "lines": [
+          23
+        ],
+        "note": "《李敖送电集》022-024刊出《真心爱台湾，莫鼓动战争（修正版）》，补入第二次总统候选人政见发表会修正版来源。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-032-attacks-academia-sinica-white-way-and-building-documents",
@@ -18269,7 +19198,22 @@
         21
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "023.2000年3月8日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/023.2000年3月8日.txt",
+        "line": 25,
+        "lines": [
+          25,
+          27,
+          29,
+          33
+        ],
+        "note": "《李敖送电集》022-024刊出《真心爱台湾，莫鼓动战争（修正版）》，补入第二次总统候选人政见发表会修正版来源。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-032-uses-wang-qixiang-case-against-lee-yuan-tseh",
@@ -18311,7 +19255,20 @@
         27
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "023.2000年3月8日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/023.2000年3月8日.txt",
+        "line": 35,
+        "lines": [
+          35,
+          37
+        ],
+        "note": "《李敖送电集》022-024刊出《真心爱台湾，莫鼓动战争（修正版）》，补入第二次总统候选人政见发表会修正版来源。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-032-calls-chen-shui-bian-dangerous-object",
@@ -18352,7 +19309,19 @@
         29
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "023.2000年3月8日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/023.2000年3月8日.txt",
+        "line": 39,
+        "lines": [
+          39
+        ],
+        "note": "《李敖送电集》022-024刊出《真心爱台湾，莫鼓动战争（修正版）》，补入第二次总统候选人政见发表会修正版来源。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-032-says-only-octs-can-bring-prc-to-table",
@@ -18397,7 +19366,20 @@
         31
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "023.2000年3月8日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/023.2000年3月8日.txt",
+        "line": 43,
+        "lines": [
+          43,
+          45
+        ],
+        "note": "《李敖送电集》022-024刊出《真心爱台湾，莫鼓动战争（修正版）》，补入第二次总统候选人政见发表会修正版来源。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-032-lists-negotiation-items-un-defense-and-palace-museum",
@@ -18438,7 +19420,20 @@
         33
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "023.2000年3月8日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/023.2000年3月8日.txt",
+        "line": 45,
+        "lines": [
+          45,
+          47
+        ],
+        "note": "《李敖送电集》022-024刊出《真心爱台湾，莫鼓动战争（修正版）》，补入第二次总统候选人政见发表会修正版来源。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-032-says-peace-can-save-four-trillion-and-tmd-costs",
@@ -18479,7 +19474,21 @@
         35
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "024.2000年3月9日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/024.2000年3月9日.txt",
+        "line": 7,
+        "lines": [
+          3,
+          5,
+          7
+        ],
+        "note": "《李敖送电集》022-024刊出《真心爱台湾，莫鼓动战争（修正版）》，补入第二次总统候选人政见发表会修正版来源。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-032-mocks-buying-recognition-from-nauru",
@@ -18520,7 +19529,19 @@
         37
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "024.2000年3月9日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/024.2000年3月9日.txt",
+        "line": 9,
+        "lines": [
+          9
+        ],
+        "note": "《李敖送电集》022-024刊出《真心爱台湾，莫鼓动战争（修正版）》，补入第二次总统候选人政见发表会修正版来源。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-032-uses-beautiful-girl-strategy-again",
@@ -18562,6 +19583,19 @@
     },
     "crossReferences": [
       "li-ao-yanjiangji-022-uses-beautiful-girl-metaphor-for-taiwan-strategy"
+    ],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "024.2000年3月9日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/024.2000年3月9日.txt",
+        "line": 19,
+        "lines": [
+          19,
+          21
+        ],
+        "note": "《李敖送电集》022-024刊出《真心爱台湾，莫鼓动战争（修正版）》，补入第二次总统候选人政见发表会修正版来源。"
+      }
     ]
   },
   {
@@ -18603,7 +19637,21 @@
         45
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "024.2000年3月9日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/024.2000年3月9日.txt",
+        "line": 23,
+        "lines": [
+          23,
+          25,
+          27
+        ],
+        "note": "《李敖送电集》022-024刊出《真心爱台湾，莫鼓动战争（修正版）》，补入第二次总统候选人政见发表会修正版来源。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-032-claims-only-he-can-speak-this-truth-in-taiwan",
@@ -18643,7 +19691,19 @@
         49
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "024.2000年3月9日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/024.2000年3月9日.txt",
+        "line": 29,
+        "lines": [
+          29
+        ],
+        "note": "《李敖送电集》022-024刊出《真心爱台湾，莫鼓动战争（修正版）》，补入第二次总统候选人政见发表会修正版来源。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-033-attacks-lee-yuan-tseh-us-nobel-identity",
@@ -18684,7 +19744,20 @@
         3
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "027.2000年3月14日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/027.2000年3月14日.txt",
+        "line": 19,
+        "lines": [
+          19,
+          21
+        ],
+        "note": "第四轮补源：《李敖送电集》027-029刊出《改变台湾命运，要选对人（修正版）》，补入第三次总统候选人政见发表会旧锚。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-033-shows-lee-yuan-tseh-on-academia-election-and-political-interference",
@@ -18724,7 +19797,23 @@
         7
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "027.2000年3月14日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/027.2000年3月14日.txt",
+        "line": 25,
+        "lines": [
+          25,
+          27,
+          29,
+          35,
+          41
+        ],
+        "note": "第四轮补源：《李敖送电集》027-029刊出《改变台湾命运，要选对人（修正版）》，补入第三次总统候选人政见发表会旧锚。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-033-says-chen-would-be-weak-president-and-danger-abroad",
@@ -18766,7 +19855,24 @@
         9
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "027.2000年3月14日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/027.2000年3月14日.txt",
+        "line": 29,
+        "lines": [
+          29,
+          31,
+          33,
+          35,
+          37,
+          41
+        ],
+        "note": "第四轮补源：《李敖送电集》027-029刊出《改变台湾命运，要选对人（修正版）》，补入第三次总统候选人政见发表会旧锚。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-033-uses-exam-paper-and-wang-qixiang-documents-against-lee-yuan-tseh",
@@ -18810,7 +19916,21 @@
         15
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "027.2000年3月14日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/027.2000年3月14日.txt",
+        "line": 43,
+        "lines": [
+          43,
+          45,
+          47
+        ],
+        "note": "第四轮补源：《李敖送电集》027-029刊出《改变台湾命运，要选对人（修正版）》，补入第三次总统候选人政见发表会旧锚。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-033-calls-lee-yuan-tseh-lee-tenghui-incarnation-for-abandon-lien-protect-bian",
@@ -18855,7 +19975,22 @@
         19
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "028.2000年3月15日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/028.2000年3月15日.txt",
+        "line": 7,
+        "lines": [
+          7,
+          9,
+          11,
+          13
+        ],
+        "note": "第四轮补源：《李敖送电集》027-029刊出《改变台湾命运，要选对人（修正版）》，补入第三次总统候选人政见发表会旧锚。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-033-uses-military-brothel-half-pack-new-paradise-standard",
@@ -18895,7 +20030,22 @@
         23
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "028.2000年3月15日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/028.2000年3月15日.txt",
+        "line": 15,
+        "lines": [
+          15,
+          17,
+          19,
+          21
+        ],
+        "note": "第四轮补源：《李敖送电集》027-029刊出《改变台湾命运，要选对人（修正版）》，补入第三次总统候选人政见发表会旧锚。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-033-argues-octs-benefits-money-no-draft-no-war",
@@ -18936,7 +20086,25 @@
         27
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "028.2000年3月15日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/028.2000年3月15日.txt",
+        "line": 23,
+        "lines": [
+          23,
+          25,
+          29,
+          31,
+          33,
+          35,
+          39
+        ],
+        "note": "第四轮补源：《李敖送电集》027-029刊出《改变台湾命运，要选对人（修正版）》，补入第三次总统候选人政见发表会旧锚。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-033-proposes-lanyu-nuclear-waste-negotiation-with-secret-documents",
@@ -18979,7 +20147,22 @@
         29
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "028.2000年3月15日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/028.2000年3月15日.txt",
+        "line": 27,
+        "lines": [
+          27,
+          29,
+          31,
+          33
+        ],
+        "note": "第四轮补源：《李敖送电集》027-029刊出《改变台湾命运，要选对人（修正版）》，补入第三次总统候选人政见发表会旧锚。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-033-praises-avoiding-military-service",
@@ -19020,7 +20203,20 @@
         33
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "028.2000年3月15日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/028.2000年3月15日.txt",
+        "line": 35,
+        "lines": [
+          35,
+          39
+        ],
+        "note": "第四轮补源：《李敖送电集》027-029刊出《改变台湾命运，要选对人（修正版）》，补入第三次总统候选人政见发表会旧锚。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-033-calls-speech-near-farewell-and-asks-voters-to-choose-him",
@@ -19060,7 +20256,22 @@
         41
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "028.2000年3月15日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/028.2000年3月15日.txt",
+        "line": 41,
+        "lines": [
+          41,
+          43,
+          45,
+          47
+        ],
+        "note": "第四轮补源：《李敖送电集》027-029刊出《改变台湾命运，要选对人（修正版）》，补入第三次总统候选人政见发表会旧锚。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-033-describes-taiwan-smallness-and-global-stage",
@@ -19100,7 +20311,22 @@
         45
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "029.2000年3月16日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/029.2000年3月16日.txt",
+        "line": 7,
+        "lines": [
+          7,
+          9,
+          11,
+          13
+        ],
+        "note": "第四轮补源：《李敖送电集》027-029刊出《改变台湾命运，要选对人（修正版）》，补入第三次总统候选人政见发表会旧锚。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-033-claims-writing-surpasses-hu-liang-lu-and-nobel-nomination",
@@ -19144,7 +20370,22 @@
         49
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "029.2000年3月16日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/029.2000年3月16日.txt",
+        "line": 15,
+        "lines": [
+          15,
+          17,
+          19,
+          21
+        ],
+        "note": "第四轮补源：《李敖送电集》027-029刊出《改变台湾命运，要选对人（修正版）》，补入第三次总统候选人政见发表会旧锚。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-034-identifies-with-juveniles-through-prison-neighborhood",
@@ -19187,7 +20428,21 @@
         5
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "038.2000年3月29日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/038.2000年3月29日.txt",
+        "line": 7,
+        "lines": [
+          7,
+          9,
+          11
+        ],
+        "note": "第五轮补源：《李敖送电集》038-043刊出《少年观护所演讲——活出你自己》，补入《李敖演讲集》034旧锚。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-034-says-youth-need-self-not-wrong-education",
@@ -19227,7 +20482,21 @@
         17
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "038.2000年3月29日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/038.2000年3月29日.txt",
+        "line": 15,
+        "lines": [
+          15,
+          17,
+          19
+        ],
+        "note": "第五轮补源：《李敖送电集》038-043刊出《少年观护所演讲——活出你自己》，补入《李敖演讲集》034旧锚。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-034-criticizes-qiongyao-love-concept",
@@ -19268,7 +20537,21 @@
         21
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "038.2000年3月29日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/038.2000年3月29日.txt",
+        "line": 21,
+        "lines": [
+          21,
+          23,
+          25
+        ],
+        "note": "第五轮补源：《李敖送电集》038-043刊出《少年观护所演讲——活出你自己》，补入《李敖演讲集》034旧锚。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-034-defines-solitary-joy-as-success",
@@ -19309,7 +20592,22 @@
         31
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "038.2000年3月29日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/038.2000年3月29日.txt",
+        "line": 29,
+        "lines": [
+          29,
+          31,
+          33,
+          35
+        ],
+        "note": "第五轮补源：《李敖送电集》038-043刊出《少年观护所演讲——活出你自己》，补入《李敖演讲集》034旧锚。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-034-teaches-self-victory-against-drugs-and-noise",
@@ -19351,7 +20649,23 @@
         35
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "039.2000年3月30日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/039.2000年3月30日.txt",
+        "line": 7,
+        "lines": [
+          7,
+          9,
+          13,
+          15,
+          17
+        ],
+        "note": "第五轮补源：《李敖送电集》038-043刊出《少年观护所演讲——活出你自己》，补入《李敖演讲集》034旧锚。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-034-says-he-quit-alcohol-smoking-tea-and-coffee",
@@ -19391,7 +20705,20 @@
         39
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "039.2000年3月30日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/039.2000年3月30日.txt",
+        "line": 7,
+        "lines": [
+          7,
+          9
+        ],
+        "note": "第五轮补源：《李敖送电集》038-043刊出《少年观护所演讲——活出你自己》，补入《李敖演讲集》034旧锚。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-034-uses-zhou-chu-story-for-self-reliance",
@@ -19431,7 +20758,20 @@
         43
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "039.2000年3月30日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/039.2000年3月30日.txt",
+        "line": 11,
+        "lines": [
+          11,
+          13
+        ],
+        "note": "第五轮补源：《李敖送电集》038-043刊出《少年观护所演讲——活出你自己》，补入《李敖演讲集》034旧锚。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-034-uses-lee-yuan-tseh-transfer-to-explain-interest",
@@ -19472,7 +20812,21 @@
         51
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "039.2000年3月30日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/039.2000年3月30日.txt",
+        "line": 17,
+        "lines": [
+          17,
+          19,
+          21
+        ],
+        "note": "第五轮补源：《李敖送电集》038-043刊出《少年观护所演讲——活出你自己》，补入《李敖演讲集》034旧锚。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-034-urges-good-book-habit-as-self-saving",
@@ -19513,7 +20867,21 @@
         57
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "039.2000年3月30日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/039.2000年3月30日.txt",
+        "line": 23,
+        "lines": [
+          23,
+          25,
+          27
+        ],
+        "note": "第五轮补源：《李敖送电集》038-043刊出《少年观护所演讲——活出你自己》，补入《李敖演讲集》034旧锚。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-034-says-his-prison-writing-made-meaning",
@@ -19555,7 +20923,19 @@
         61
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "040.2000年3月31日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/040.2000年3月31日.txt",
+        "line": 7,
+        "lines": [
+          7
+        ],
+        "note": "第五轮补源：《李敖送电集》038-043刊出《少年观护所演讲——活出你自己》，补入《李敖演讲集》034旧锚。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-034-tells-youth-their-rebellion-is-too-weak",
@@ -19595,7 +20975,21 @@
         65
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "040.2000年3月31日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/040.2000年3月31日.txt",
+        "line": 9,
+        "lines": [
+          9,
+          11,
+          13
+        ],
+        "note": "第五轮补源：《李敖送电集》038-043刊出《少年观护所演讲——活出你自己》，补入《李敖演讲集》034旧锚。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-034-uses-seven-golden-men-to-teach-success-not-until-money-in-pocket",
@@ -19634,7 +21028,23 @@
         75
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "040.2000年3月31日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/040.2000年3月31日.txt",
+        "line": 19,
+        "lines": [
+          19,
+          21,
+          23,
+          25,
+          27
+        ],
+        "note": "第五轮补源：《李敖送电集》038-043刊出《少年观护所演讲——活出你自己》，补入《李敖演讲集》034旧锚。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-034-calls-himself-good-bully-and-says-bad-people-need-education",
@@ -19674,7 +21084,19 @@
         83
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "040.2000年3月31日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/040.2000年3月31日.txt",
+        "line": 29,
+        "lines": [
+          29
+        ],
+        "note": "第五轮补源：《李敖送电集》038-043刊出《少年观护所演讲——活出你自己》，补入《李敖演讲集》034旧锚。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-034-stresses-independent-character-and-no-party-membership",
@@ -19715,7 +21137,21 @@
         89
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "041.2000年4月3日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/041.2000年4月3日.txt",
+        "line": 11,
+        "lines": [
+          11,
+          13,
+          15
+        ],
+        "note": "第五轮补源：《李敖送电集》038-043刊出《少年观护所演讲——活出你自己》，补入《李敖演讲集》034旧锚。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-034-uses-han-emperor-mnemonic-to-deny-genius",
@@ -19755,7 +21191,23 @@
         97
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "041.2000年4月3日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/041.2000年4月3日.txt",
+        "line": 21,
+        "lines": [
+          21,
+          23,
+          25,
+          27,
+          29
+        ],
+        "note": "第五轮补源：《李敖送电集》038-043刊出《少年观护所演讲——活出你自己》，补入《李敖演讲集》034旧锚。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-034-teaches-careful-selection-and-note-cutting-in-reading",
@@ -19795,7 +21247,27 @@
         111
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "042.2000年4月4日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/042.2000年4月4日.txt",
+        "line": 7,
+        "lines": [
+          7,
+          9,
+          11,
+          13,
+          15,
+          17,
+          19,
+          21,
+          23
+        ],
+        "note": "第五轮补源：《李敖送电集》038-043刊出《少年观护所演讲——活出你自己》，补入《李敖演讲集》034旧锚。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-034-uses-journey-to-west-name-trap-to-explain-un-entry",
@@ -19839,6 +21311,23 @@
     },
     "crossReferences": [
       "li-ao-yanjiangji-029-says-un-2758-means-taiwan-still-in-un-as-china-part"
+    ],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "042.2000年4月4日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/042.2000年4月4日.txt",
+        "line": 23,
+        "lines": [
+          23,
+          25,
+          27,
+          29,
+          31,
+          33
+        ],
+        "note": "第五轮补源：《李敖送电集》038-043刊出《少年观护所演讲——活出你自己》，补入《李敖演讲集》034旧锚。"
+      }
     ]
   },
   {
@@ -19880,7 +21369,24 @@
         135
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "043.2000年4月5日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/043.2000年4月5日.txt",
+        "line": 7,
+        "lines": [
+          7,
+          9,
+          11,
+          13,
+          15,
+          17
+        ],
+        "note": "第五轮补源：《李敖送电集》038-043刊出《少年观护所演讲——活出你自己》，补入《李敖演讲集》034旧锚。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-034-uses-voltaire-to-explain-women-value-men-beyond-looks",
@@ -19922,7 +21428,24 @@
         139
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "043.2000年4月5日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/043.2000年4月5日.txt",
+        "line": 19,
+        "lines": [
+          19,
+          21,
+          23,
+          25,
+          27,
+          29
+        ],
+        "note": "第五轮补源：《李敖送电集》038-043刊出《少年观护所演讲——活出你自己》，补入《李敖演讲集》034旧锚。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-034-answers-gender-equality-as-rare-balance",
@@ -19962,7 +21485,21 @@
         151
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖送电集",
+        "chapter": "043.2000年4月5日.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/011.李敖电子报/003.李敖送电集/043.2000年4月5日.txt",
+        "line": 31,
+        "lines": [
+          31,
+          33,
+          35
+        ],
+        "note": "第五轮补源：《李敖送电集》038-043刊出《少年观护所演讲——活出你自己》，补入《李敖演讲集》034旧锚。"
+      }
+    ]
   },
   {
     "id": "li-ao-yanjiangji-035-returns-to-campus-after-four-years-and-surgeries",

@@ -1,0 +1,674 @@
+[
+  {
+    "category": "research-writing",
+    "type": "李敖当事人事件",
+    "additionalSources": [],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "sunzhongshan-yanjiu-round001-closeout",
+    "id": "sunzhongshan-yanjiu-1983-06-26-writes-li-hongzhang-meeting-refutation",
+    "date": "1983-06-26",
+    "year": 1983,
+    "month": 6,
+    "day": 26,
+    "displayDate": "1983年6月26日下午",
+    "datePrecision": "day",
+    "title": "李敖写《孙中山见了李鸿章吗？》，拆解国民党附会史事",
+    "summary": "《孙中山见了李鸿章吗？》末署1983年6月26日下午在草山之阳。李敖从桂崇基《中山先生见李鸿章》写起，对照陈少白回忆、郑观应与盛宣怀信、吴相湘新资料和自己《孙逸仙和中国西化医学》旧论，判定国民党关于孙中山面见李鸿章的说法多属捏造，并把这篇作为“违章历史拆除”的一例。",
+    "source": {
+      "book": "孙中山研究",
+      "chapter": "001.孙中山见了李鸿章吗？.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/005.孙中山研究/001.孙中山见了李鸿章吗？.txt",
+      "line": 165,
+      "lines": [
+        3,
+        7,
+        51,
+        53,
+        61,
+        67,
+        95,
+        101,
+        151,
+        163,
+        165
+      ]
+    },
+    "people": [
+      "李敖",
+      "孙中山",
+      "李鸿章",
+      "桂崇基",
+      "陈少白",
+      "郑观应",
+      "吴相湘"
+    ],
+    "places": [
+      "草山",
+      "台湾",
+      "台北"
+    ],
+    "works": [
+      "孙中山研究",
+      "孙中山见了李鸿章吗？",
+      "孙逸仙和中国西化医学",
+      "传记文学"
+    ],
+    "tags": [
+      "孙中山研究",
+      "第一轮",
+      "第001章",
+      "李鸿章",
+      "国民党史观",
+      "史料考证",
+      "捏造历史"
+    ],
+    "crossReferences": [
+      "book5-1965-writes-sun-yatsen-western-medicine",
+      "sunyixian-xihua-yixue-1965-11-06-writes-medical-association-protest-letter"
+    ],
+    "view": [
+      "写作线",
+      "人物研究线",
+      "思想线",
+      "论战线"
+    ]
+  },
+  {
+    "category": "research-writing",
+    "type": "李敖当事人事件",
+    "additionalSources": [
+      {
+        "book": "孙中山研究",
+        "chapter": "012.孙中山把三民主义作为“统战工具”.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/005.孙中山研究/012.孙中山把三民主义作为“统战工具”.txt",
+        "line": 47,
+        "lines": [
+          17,
+          27,
+          33,
+          35,
+          41,
+          43,
+          45,
+          47,
+          49
+        ],
+        "note": "1984年8月6日以两小时写成三民主义统战工具考证，8月9日加附记。"
+      }
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "sunzhongshan-yanjiu-round001-closeout",
+    "id": "sunzhongshan-yanjiu-1984-07-03-to-08-09-writes-lincoln-and-three-principles-translation-studies",
+    "date": "1984-07-03",
+    "endDate": "1984-08-09",
+    "year": 1984,
+    "month": 7,
+    "day": 3,
+    "displayDate": "1984年7月3日至8月9日",
+    "datePrecision": "range",
+    "title": "李敖连写林肯名言与三民主义统战工具考证",
+    "summary": "1984年7月3日，李敖写成《孙中山与林肯名言》，从葛底斯堡演说、孙文译语和国民党宣传追查“民有、民治、民享”的含义错位；8月6日又以两小时写成《孙中山把三民主义作为“统战工具”》，8月9日补附记，用殷海光《我对于三民主义的看法和建议》和孙文著作变化说明三民主义的政治统战功能。本条合并两篇同一思想宣传考证线。",
+    "source": {
+      "book": "孙中山研究",
+      "chapter": "011.孙中山与林肯名言.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/005.孙中山研究/011.孙中山与林肯名言.txt",
+      "line": 201,
+      "lines": [
+        39,
+        45,
+        71,
+        83,
+        187,
+        193,
+        199,
+        201
+      ]
+    },
+    "people": [
+      "李敖",
+      "孙中山",
+      "林肯",
+      "殷海光",
+      "胡适",
+      "钱歌川"
+    ],
+    "places": [
+      "台湾",
+      "美国"
+    ],
+    "works": [
+      "孙中山研究",
+      "孙中山与林肯名言",
+      "孙中山把三民主义作为“统战工具”",
+      "葛底斯堡演说",
+      "我对于三民主义的看法和建议"
+    ],
+    "tags": [
+      "孙中山研究",
+      "第一轮",
+      "第011章",
+      "第012章",
+      "三民主义",
+      "民有民治民享",
+      "林肯名言",
+      "统战工具"
+    ],
+    "crossReferences": [],
+    "view": [
+      "写作线",
+      "思想线",
+      "人物研究线",
+      "政治线"
+    ]
+  },
+  {
+    "category": "research-writing",
+    "type": "李敖当事人事件",
+    "additionalSources": [
+      {
+        "book": "孙中山研究",
+        "chapter": "013.孙中山的第二兴趣是“女人”.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/005.孙中山研究/013.孙中山的第二兴趣是“女人”.txt",
+        "line": 17,
+        "lines": [
+          5,
+          7,
+          13,
+          15,
+          17
+        ],
+        "note": "1984年8月25日晨写成关于孙中山“第二兴趣”的短论。"
+      }
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "sunzhongshan-yanjiu-round001-closeout",
+    "id": "sunzhongshan-yanjiu-1984-08-23-to-08-25-writes-sun-women-and-chen-cuifen-studies",
+    "date": "1984-08-23",
+    "endDate": "1984-08-25",
+    "year": 1984,
+    "month": 8,
+    "day": 23,
+    "displayDate": "1984年8月23日至25日",
+    "datePrecision": "range",
+    "title": "李敖连写孙中山婚恋材料与陈粹芬考证",
+    "summary": "1984年8月23日凌晨2至6时，李敖写成《孙中山与陈粹芬》，从冯自由、刘成禺、李又宁、日本共同社与《读卖新闻》等材料追查陈粹芬、大月薰等被官方叙事掩没的女性；8月25日晨又写《孙中山的第二兴趣是“女人”》，把宫崎滔天记录的“革命、女人、书”次序和革命家转向问题合并成短论。本条按同一婚恋材料考证线合并。",
+    "source": {
+      "book": "孙中山研究",
+      "chapter": "014.孙中山与陈粹芬.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/005.孙中山研究/014.孙中山与陈粹芬.txt",
+      "line": 87,
+      "lines": [
+        5,
+        19,
+        29,
+        37,
+        41,
+        79,
+        85,
+        87
+      ]
+    },
+    "people": [
+      "李敖",
+      "孙中山",
+      "陈粹芬",
+      "大月薰",
+      "宫川富美子",
+      "冯自由",
+      "刘成禺",
+      "李又宁"
+    ],
+    "places": [
+      "台湾",
+      "横滨",
+      "澳门",
+      "中山石岐"
+    ],
+    "works": [
+      "孙中山研究",
+      "孙中山与陈粹芬",
+      "孙中山的第二兴趣是“女人”",
+      "革命逸史",
+      "世载堂杂忆"
+    ],
+    "tags": [
+      "孙中山研究",
+      "第一轮",
+      "第013章",
+      "第014章",
+      "陈粹芬",
+      "大月薰",
+      "婚恋材料",
+      "官方叙事"
+    ],
+    "crossReferences": [
+      "li-ao-dageda-095-shows-sun-yatsen-research-and-says-sun-repeatedly-remarried"
+    ],
+    "view": [
+      "写作线",
+      "人物研究线",
+      "资料线",
+      "家庭线"
+    ]
+  },
+  {
+    "category": "research-writing",
+    "type": "李敖当事人事件",
+    "additionalSources": [
+      {
+        "book": "孙中山研究",
+        "chapter": "005.孙中山的一个错误.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/005.孙中山研究/005.孙中山的一个错误.txt",
+        "line": 77,
+        "lines": [
+          3,
+          73,
+          75,
+          77
+        ],
+        "note": "1984年12月17日写成，校正孙中山称山西首先响应武昌起义的错误。"
+      },
+      {
+        "book": "孙中山研究",
+        "chapter": "010.孙中山不准再打炮.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/005.孙中山研究/010.孙中山不准再打炮.txt",
+        "line": 19,
+        "lines": [
+          3,
+          7,
+          13,
+          17,
+          19
+        ],
+        "note": "1984年12月25日午写成，考察孙中山炮击广州与国民党封炮叙事。"
+      }
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "sunzhongshan-yanjiu-round001-closeout",
+    "id": "sunzhongshan-yanjiu-1984-12-15-to-12-25-writes-london-shanxi-and-cannon-studies",
+    "date": "1984-12-15",
+    "endDate": "1984-12-25",
+    "year": 1984,
+    "month": 12,
+    "day": 15,
+    "displayDate": "1984年12月15日至25日",
+    "datePrecision": "range",
+    "title": "李敖在1984年12月连写孙中山伦敦蒙难、山西响应和炮击广州考证",
+    "summary": "1984年12月15日午，李敖写成《孙中山向清吏下跪求饶》，借中视《国父伦敦蒙难记》引出清使馆密档和《随轺笔记》材料，重审伦敦蒙难罗生门；12月17日写《孙中山的一个错误》，校正孙中山称山西首先响应武昌起义的说法；12月25日午写《孙中山不准再打炮》，追查广州蒙难后孙中山“炮教”和国民党封炮的荒诞。本条合并为同一年底批孙史料考证小组。",
+    "source": {
+      "book": "孙中山研究",
+      "chapter": "002.孙中山向清吏下跪求饶.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/005.孙中山研究/002.孙中山向清吏下跪求饶.txt",
+      "line": 319,
+      "lines": [
+        5,
+        19,
+        23,
+        75,
+        77,
+        283,
+        305,
+        311,
+        317,
+        319
+      ]
+    },
+    "people": [
+      "李敖",
+      "孙中山",
+      "邓廷铿",
+      "吴相湘",
+      "阎锡山",
+      "陈炯明"
+    ],
+    "places": [
+      "台湾",
+      "伦敦",
+      "广州",
+      "山西",
+      "太原"
+    ],
+    "works": [
+      "孙中山研究",
+      "孙中山向清吏下跪求饶",
+      "孙中山的一个错误",
+      "孙中山不准再打炮",
+      "伦敦被难记",
+      "随轺笔记"
+    ],
+    "tags": [
+      "孙中山研究",
+      "第一轮",
+      "第002章",
+      "第005章",
+      "第010章",
+      "伦敦蒙难",
+      "山西起义",
+      "炮击广州",
+      "史料考证"
+    ],
+    "crossReferences": [],
+    "view": [
+      "写作线",
+      "人物研究线",
+      "政治线",
+      "资料线"
+    ]
+  },
+  {
+    "category": "research-writing",
+    "type": "李敖当事人事件",
+    "additionalSources": [],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "sunzhongshan-yanjiu-round001-closeout",
+    "id": "sunzhongshan-yanjiu-1985-02-09-writes-foreign-complaint-study",
+    "date": "1985-02-09",
+    "year": 1985,
+    "month": 2,
+    "day": 9,
+    "displayDate": "1985年2月9日晨7时",
+    "datePrecision": "day",
+    "title": "李敖写《孙中山与告洋状》，反讽国民党“告洋状”扣帽子",
+    "summary": "《孙中山与吿洋状》署1985年2月9日晨7时。李敖从国民党以“告洋状”丑化党外人士写起，转引孙中山等1900年致香港总督书，指出国民党责人“告洋状”时忘记其总理早有向外国寻求支持的文献记录；篇后并附车之鉴来信，把此文接到《卖国大比赛》材料线。",
+    "source": {
+      "book": "孙中山研究",
+      "chapter": "003.孙中山与吿洋状.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/005.孙中山研究/003.孙中山与吿洋状.txt",
+      "line": 47,
+      "lines": [
+        3,
+        7,
+        11,
+        41,
+        45,
+        47,
+        49,
+        58,
+        87,
+        89
+      ]
+    },
+    "people": [
+      "李敖",
+      "孙中山",
+      "陈水扁",
+      "车之鉴",
+      "林明德"
+    ],
+    "places": [
+      "台湾",
+      "香港"
+    ],
+    "works": [
+      "孙中山研究",
+      "孙中山与吿洋状",
+      "卖国大比赛",
+      "千秋评论"
+    ],
+    "tags": [
+      "孙中山研究",
+      "第一轮",
+      "第003章",
+      "告洋状",
+      "卖国大比赛",
+      "国民党",
+      "党外"
+    ],
+    "crossReferences": [
+      "micang-diary-1985-03-08-finishes-maiguo-dabisa"
+    ],
+    "view": [
+      "写作线",
+      "政治线",
+      "人物研究线",
+      "论战线"
+    ]
+  },
+  {
+    "category": "research-writing",
+    "type": "李敖当事人事件",
+    "additionalSources": [],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "sunzhongshan-yanjiu-round001-closeout",
+    "id": "sunzhongshan-yanjiu-1985-04-19-writes-read-father-teachings-for-chu-lien",
+    "date": "1985-04-19",
+    "year": 1985,
+    "month": 4,
+    "day": 19,
+    "displayDate": "1985年4月19日",
+    "datePrecision": "day",
+    "title": "李敖写《孙中山〈国父遗教〉不可不读也！》，借陈启礼谈黑社会与革命史",
+    "summary": "《孙中山〈国父遗教〉不可不读也！》署1985年4月19日。李敖从陈启礼在管训中读《国父遗教》说起，摘读蔡元培、张相文与孙中山往返信件，指出国民党革命早期与秘密会党、黑社会之间的复杂关系，并借此劝陈启礼从官方准读书里读出“利用黑社会，然后踢掉黑社会”的史料。",
+    "source": {
+      "book": "孙中山研究",
+      "chapter": "007.孙中山《国父遗教》不可不读也！.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/005.孙中山研究/007.孙中山《国父遗教》不可不读也！.txt",
+      "line": 59,
+      "lines": [
+        5,
+        21,
+        27,
+        47,
+        49,
+        51,
+        53,
+        55,
+        57,
+        59
+      ]
+    },
+    "people": [
+      "李敖",
+      "孙中山",
+      "陈启礼",
+      "蔡元培",
+      "张相文"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "孙中山研究",
+      "孙中山《国父遗教》不可不读也！",
+      "国父遗教"
+    ],
+    "tags": [
+      "孙中山研究",
+      "第一轮",
+      "第007章",
+      "国父遗教",
+      "竹联帮",
+      "陈启礼",
+      "秘密会党",
+      "黑社会"
+    ],
+    "crossReferences": [],
+    "view": [
+      "写作线",
+      "人物研究线",
+      "政治线",
+      "资料线"
+    ]
+  },
+  {
+    "category": "research-writing",
+    "type": "李敖当事人事件",
+    "additionalSources": [
+      {
+        "book": "孙中山研究",
+        "chapter": "008.孙中山蒋介石逼反老同志.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/005.孙中山研究/008.孙中山蒋介石逼反老同志.txt",
+        "line": 253,
+        "lines": [
+          5,
+          11,
+          83,
+          97,
+          127,
+          135,
+          153,
+          159,
+          177,
+          199,
+          223,
+          249,
+          253
+        ],
+        "note": "1985年10月6日夜1时写成长篇陈炯明翻案文字。"
+      }
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "sunzhongshan-yanjiu-round001-closeout",
+    "id": "sunzhongshan-yanjiu-1985-06-18-to-10-06-writes-martyrdom-and-chen-jiongming-essays",
+    "date": "1985-06-18",
+    "endDate": "1985-10-06",
+    "year": 1985,
+    "month": 6,
+    "day": 18,
+    "displayDate": "1985年6月18日至10月6日",
+    "datePrecision": "range",
+    "title": "李敖写孙蒋“殉国”短论与陈炯明长篇翻案",
+    "summary": "1985年6月18日夜，李敖写《孙中山蒋介石为什么不殉国？》，把孙中山广州蒙难与蒋介石南京失守前后自称殉国决心的说法并列；10月6日夜1时，又写成《孙中山蒋介石逼反老同志——替陈炯明翻翻案》，长篇整理陈炯明与孙中山、蒋介石的冲突、胡适和章炳麟等人的评议，以及美国公使雪曼观察。本条合并为孙蒋领袖叙事与陈炯明翻案同一批判线。",
+    "source": {
+      "book": "孙中山研究",
+      "chapter": "009.孙中山蒋介石为什么不殉国？.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/005.孙中山研究/009.孙中山蒋介石为什么不殉国？.txt",
+      "line": 19,
+      "lines": [
+        3,
+        7,
+        9,
+        15,
+        17,
+        19
+      ]
+    },
+    "people": [
+      "李敖",
+      "孙中山",
+      "蒋介石",
+      "陈炯明",
+      "胡适",
+      "章炳麟",
+      "吴敬恒"
+    ],
+    "places": [
+      "台湾",
+      "广州",
+      "南京",
+      "香港"
+    ],
+    "works": [
+      "孙中山研究",
+      "孙中山蒋介石为什么不殉国？",
+      "孙中山蒋介石逼反老同志",
+      "孙大总统广州蒙难记"
+    ],
+    "tags": [
+      "孙中山研究",
+      "第一轮",
+      "第008章",
+      "第009章",
+      "陈炯明",
+      "广州蒙难",
+      "殉国叙事",
+      "翻案"
+    ],
+    "crossReferences": [
+      "li-ao-xiaoao-jianghu-1996-02-context-episode-033-rehabilitates-chen-jiongming-part-one-broadcast",
+      "qianqiu-wansui-1989-11-17-088-receives-chen-dingyan-letter-via-chen-jiongming-topic",
+      "qianqiu-wansui-1989-12-07-088-writes-admiring-chen-dingyan"
+    ],
+    "view": [
+      "写作线",
+      "人物研究线",
+      "政治线",
+      "论战线"
+    ]
+  },
+  {
+    "category": "research-writing",
+    "type": "李敖当事人事件",
+    "additionalSources": [],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "sunzhongshan-yanjiu-round001-closeout",
+    "id": "sunzhongshan-yanjiu-1986-03-07-writes-luandang-zhenxiang-sun-yatsen-study",
+    "date": "1986-03-07",
+    "year": 1986,
+    "month": 3,
+    "day": 7,
+    "displayDate": "1986年3月7日夜",
+    "datePrecision": "day",
+    "title": "李敖受汪荣祖来信触发，三小时写《〈乱党之真相〉中的孙中山》",
+    "summary": "《〈乱党之真相〉中的孙中山》开篇说史家汪荣祖来信，使李敖想起几十年前出版的《乱党之真相》；文末署1986年3月7日夜以三小时写。李敖据《乱党之真相》关于孙中山行医、澳门财务、日本婚恋、宋家姐妹等攻击性材料，再以罗香林、简又文、冯自由、刘成禺、席格雷夫等资料逐项校勘，作为继续拆解国民党圣化叙事的材料。",
+    "source": {
+      "book": "孙中山研究",
+      "chapter": "015.《乱党之真相》中的孙中山.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/005.孙中山研究/015.《乱党之真相》中的孙中山.txt",
+      "line": 89,
+      "lines": [
+        3,
+        5,
+        13,
+        17,
+        25,
+        35,
+        39,
+        63,
+        77,
+        87,
+        89
+      ]
+    },
+    "people": [
+      "李敖",
+      "汪荣祖",
+      "孙中山",
+      "宋嘉树",
+      "宋蔼龄",
+      "宋庆龄",
+      "冯自由",
+      "刘成禺",
+      "席格雷夫"
+    ],
+    "places": [
+      "台湾",
+      "澳门",
+      "日本",
+      "南京",
+      "上海"
+    ],
+    "works": [
+      "孙中山研究",
+      "《乱党之真相》中的孙中山",
+      "乱党之真相",
+      "宋家王朝"
+    ],
+    "tags": [
+      "孙中山研究",
+      "第一轮",
+      "第015章",
+      "乱党之真相",
+      "汪荣祖",
+      "宋家",
+      "资料校勘"
+    ],
+    "crossReferences": [
+      "li-ao-youhua-shuo-615-after-visit-uses-luandang-zhenxiang-to-discuss-sun-and-song-family"
+    ],
+    "view": [
+      "写作线",
+      "人物研究线",
+      "资料线",
+      "论战线"
+    ]
+  }
+]

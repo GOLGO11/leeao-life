@@ -157,7 +157,17 @@ const dataFiles = [
   "./data/timeline-events-li-ao-zhenglun-zongyiji.json",
   "./data/timeline-events-li-ao-shenzhou-cultural-trip.json",
   "./data/timeline-events-li-ao-fangdianji.json",
-  "./data/timeline-events-li-ao-fadianji.json"
+  "./data/timeline-events-li-ao-fadianji.json",
+  "./data/timeline-events-li-ao-songdianji.json",
+  "./data/timeline-events-li-ao-laidianji.json",
+  "./data/timeline-events-li-ao-tongdianji.json",
+  "./data/timeline-events-hushi-yanjiu.json",
+  "./data/timeline-events-hushi-pingzhuan.json",
+  "./data/timeline-events-hushi-yuwo.json",
+  "./data/timeline-events-sunyixian-xihua-yixue.json",
+  "./data/timeline-events-sunzhongshan-yanjiu.json",
+  "./data/timeline-events-lidenghui-zhenmianmu.json",
+  "./data/timeline-events-lidenghui-jiamianju.json"
 ];
 const supplementalDataFiles = new Set([
   "./data/timeline-events-first-book-supplement.json",
@@ -168,7 +178,7 @@ const supplementalDataFiles = new Set([
   "./data/timeline-events-third-book-qiao-evidence.json",
   "./data/timeline-events-fourth-book-deepening.json"
 ]);
-const dataVersion = '2026-07-03-li-ao-fadianji-round004-025-032';
+const dataVersion = "2026-07-04-lidenghui-jiamianju-round001-closeout";
 const timelineBundle = window.LEEAO_TIMELINE_BUNDLE;
 const timelineBundleMatches =
   timelineBundle?.dataVersion === dataVersion &&

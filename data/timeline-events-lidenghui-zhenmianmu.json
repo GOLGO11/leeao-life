@@ -1,0 +1,1247 @@
+[
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "lidenghui-zhenmianmu-round001-001-015",
+    "id": "lidenghui-zhenmianmu-1993-02-20-writes-introduction-and-compiles-monkey-show-essays",
+    "date": "1993-02-20",
+    "year": 1993,
+    "month": 2,
+    "day": 20,
+    "displayDate": "1993年2月20日",
+    "datePrecision": "day",
+    "title": "李敖写《李登辉的真面目》引言，汇编四年多李登辉文章",
+    "summary": "《李登辉的真面目》引言署1993年2月20日在中国台湾。李敖说明自己四年多来写了不少以“猴戏”为主轴的李登辉文章，并把本书定位为集合四十篇文章、以铁证检验李登辉及拥李舆论的政论研究集；他还回指几年前已出版《共产党李登辉》《民进党研究》等书，强调自己对李登辉和民进党走向的预判。",
+    "source": {
+      "book": "李登辉的真面目",
+      "chapter": "《李登辉的真面目》引言.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/006.李登辉的真面目/《李登辉的真面目》引言.txt",
+      "line": 9,
+      "lines": [
+        3,
+        7,
+        9
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "李登辉的真面目",
+        "chapter": "《李登辉的真面目》目录.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/006.李登辉的真面目/《李登辉的真面目》目录.txt",
+        "line": 3,
+        "lines": [
+          1,
+          3,
+          4,
+          35
+        ],
+        "note": "目录列出引言和001至035，补出本书结构。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "李登辉",
+      "蒋经国",
+      "司马迁"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "李登辉的真面目",
+      "共产党李登辉",
+      "民进党研究"
+    ],
+    "tags": [
+      "李登辉研究",
+      "引言",
+      "成书",
+      "人物研究类",
+      "第一轮"
+    ],
+    "crossReferences": [
+      "li-ao-shuqiji-1993-02-07-writes-zhai-zongquan-on-impeaching-judges",
+      "li-ao-xiaoao-jianghu-1995-10-31-after-shows-lee-teng-hui-true-face-new-edition",
+      "tiaozhan-li-ao-1999-09-28-shows-lee-teng-hui-true-face-and-feian-huibian",
+      "tiaozhan-li-ao-2000-02-03-promotes-lee-true-face-and-mask-on-hongxi"
+    ],
+    "view": [
+      "写作线",
+      "人物研究线",
+      "政治线",
+      "出版线"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "lidenghui-zhenmianmu-round001-001-015",
+    "id": "lidenghui-zhenmianmu-1988-09-17-to-11-07-wuya-ccp-evidence-debate-with-gu",
+    "date": "1988-09-17",
+    "year": 1988,
+    "month": 9,
+    "day": 17,
+    "displayDate": "1988年9月17日至11月7日",
+    "datePrecision": "date-range",
+    "title": "李敖在《乌鸦评论》展开“共产党李登辉”官方证据笔战",
+    "summary": "李敖9月17日写成《共产党李登辉出卖同志的官方证据》，以《历年办理匪案汇编》所载“奸匪李登辉”材料反驳既有传闻式报道，并在10月1日《乌鸦评论》第一期刊出。谷正文来文反驳后，李敖于10月3日写《“李登辉并无共党背景”吗？》，10月7日第二期刊出；10月16日晨又写《共产党李登辉的种种》，梳理谷正文、李世杰来文和官方文件问题；11月7日再以《还有另一个李登辉么？》回应谷正文《请寻找另一个李登辉》。本条合并001至003、005四篇同一证据笔战，避免把同一主题拆碎。",
+    "source": {
+      "book": "李登辉的真面目",
+      "chapter": "001.共产党李登辉出卖同志的官方证据.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/006.李登辉的真面目/001.共产党李登辉出卖同志的官方证据.txt",
+      "line": 17,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15,
+        17
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "李登辉的真面目",
+        "chapter": "002.“李登辉并无共党背景”吗？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/006.李登辉的真面目/002.“李登辉并无共党背景”吗？.txt",
+        "line": 11,
+        "lines": [
+          3,
+          5,
+          7,
+          9,
+          11
+        ],
+        "note": "李敖回应谷正文第一次反驳。"
+      },
+      {
+        "book": "李登辉的真面目",
+        "chapter": "003.共产党李登辉的种种.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/006.李登辉的真面目/003.共产党李登辉的种种.txt",
+        "line": 19,
+        "lines": [
+          3,
+          5,
+          9,
+          17,
+          19
+        ],
+        "note": "003回述第一至第三期《乌鸦评论》的刊载链，并继续用官方文件回应谷正文。"
+      },
+      {
+        "book": "李登辉的真面目",
+        "chapter": "005.还有另一个李登辉么？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/006.李登辉的真面目/005.还有另一个李登辉么？.txt",
+        "line": 9,
+        "lines": [
+          3,
+          5,
+          7,
+          9
+        ],
+        "note": "李敖再答谷正文《请寻找另一个李登辉》。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "李登辉",
+      "谷正文",
+      "李世杰",
+      "叶城松",
+      "蒋经国",
+      "吴克泰",
+      "南方朔"
+    ],
+    "places": [
+      "台湾",
+      "台北"
+    ],
+    "works": [
+      "李登辉的真面目",
+      "共产党李登辉出卖同志的官方证据",
+      "“李登辉并无共党背景”吗？",
+      "共产党李登辉的种种",
+      "还有另一个李登辉么？",
+      "乌鸦评论",
+      "历年办理匪案汇编"
+    ],
+    "tags": [
+      "李登辉研究",
+      "乌鸦评论",
+      "谷正文",
+      "历年办理匪案汇编",
+      "官方文件",
+      "共产党李登辉"
+    ],
+    "crossReferences": [
+      "li-ao-baokanji-1988-09-16-writes-wuya-review-launch-manifesto",
+      "book4-1988-10-01-wuya-review-starts",
+      "li-ao-shuxuji-1991-11-12-preface-context-uses-feian-huibian-for-case-checking",
+      "li-ao-xiaoao-jianghu-1996-02-29-after-shows-feian-huibian-and-garrison-judgment-on-lee-teng-hui",
+      "tiaozhan-li-ao-1999-09-28-shows-lee-teng-hui-true-face-and-feian-huibian",
+      "tiaozhan-li-ao-2000-02-16-recalls-gu-zhengwen-gave-secret-bandit-case-compilation"
+    ],
+    "view": [
+      "写作线",
+      "人物研究线",
+      "论战线",
+      "政治线"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "lidenghui-zhenmianmu-round001-001-015",
+    "id": "lidenghui-zhenmianmu-1988-10-24-writes-political-buttocks-essay",
+    "date": "1988-10-24",
+    "year": 1988,
+    "month": 10,
+    "day": 24,
+    "displayDate": "1988年10月24日",
+    "datePrecision": "day",
+    "title": "李敖写《李登辉的屁股功夫》，以“三分之一屁股”分析国民党官场",
+    "summary": "《李登辉的屁股功夫》署1988年10月24日。李敖从“政治屁股学”切入，借1988年7月8日《自立早报》关于李登辉在蒋经国寓所只坐三分之一座椅的报道，分析国民党官场的服从姿态，并把这张身体语言材料作为判断李登辉政治性格的一个证据。",
+    "source": {
+      "book": "李登辉的真面目",
+      "chapter": "004.李登辉的屁股功夫.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/006.李登辉的真面目/004.李登辉的屁股功夫.txt",
+      "line": 17,
+      "lines": [
+        13,
+        15,
+        17
+      ]
+    },
+    "additionalSources": [],
+    "people": [
+      "李敖",
+      "李登辉",
+      "蒋经国"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "李登辉的真面目",
+      "李登辉的屁股功夫",
+      "自立早报"
+    ],
+    "tags": [
+      "李登辉研究",
+      "政治身体语言",
+      "国民党官场",
+      "自立早报"
+    ],
+    "crossReferences": [
+      "li-ao-dageda-099-shows-lee-tenghui-one-third-butt-photo-and-his-two-books",
+      "li-ao-xiaoao-jianghu-1995-10-31-after-shows-lee-teng-hui-true-face-new-edition"
+    ],
+    "view": [
+      "写作线",
+      "人物研究线",
+      "政治线"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "lidenghui-zhenmianmu-round001-001-015",
+    "id": "lidenghui-zhenmianmu-1989-03-30-replies-pan-junmi-on-letter-to-lee",
+    "date": "1989-03-30",
+    "year": 1989,
+    "month": 3,
+    "day": 30,
+    "displayDate": "1989年3月30日至4月10日",
+    "datePrecision": "date-range",
+    "title": "李敖复潘君密，评海外国民党员《上李登辉主席书》并谈《新官场现形记》出版",
+    "summary": "《李登辉笨态百出》本体是一封署1989年3月30日的书信。李敖答复潘君密多次来信，批评海外国民党员《上李登辉主席书》中要求李登辉“真正实行三民主义”并不成立，认为李登辉只是蒋氏体制和国民党当权派观念的傀儡；他还谈到愿意协助潘君密《新官场现形记》在台出版、代售与稿酬安排。4月10日附记又补出潘君密对第八项的解释。",
+    "source": {
+      "book": "李登辉的真面目",
+      "chapter": "006.李登辉笨态百出.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/006.李登辉的真面目/006.李登辉笨态百出.txt",
+      "line": 17,
+      "lines": [
+        7,
+        9,
+        11,
+        13,
+        15,
+        17
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "李登辉的真面目",
+        "chapter": "006.李登辉笨态百出.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/006.李登辉的真面目/006.李登辉笨态百出.txt",
+        "line": 57,
+        "lines": [
+          21,
+          25,
+          39,
+          53,
+          55,
+          57
+        ],
+        "note": "同章附录保存《上李登辉主席书》与李敖4月10日附记。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "潘君密",
+      "黄健民",
+      "李登辉",
+      "孙中山",
+      "蒋经国"
+    ],
+    "places": [
+      "台湾",
+      "纽约"
+    ],
+    "works": [
+      "李登辉的真面目",
+      "李登辉笨态百出",
+      "新官场现形记",
+      "上李登辉主席书",
+      "乌鸦评论"
+    ],
+    "tags": [
+      "书信",
+      "潘君密",
+      "海外国民党员",
+      "三民主义",
+      "出版安排"
+    ],
+    "crossReferences": [],
+    "view": [
+      "书信线",
+      "写作线",
+      "出版线",
+      "政治线"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "lidenghui-zhenmianmu-round001-001-015",
+    "id": "lidenghui-zhenmianmu-1989-07-27-to-1990-01-16-writes-lee-political-short-critiques",
+    "date": "1989-07-27",
+    "year": 1989,
+    "month": 7,
+    "day": 27,
+    "displayDate": "1989年7月27日至1990年1月16日",
+    "datePrecision": "date-range",
+    "title": "李敖写一组李登辉政治短评，从求签迷信、司法平反到同名李登辉考证",
+    "summary": "1989年7月27日至1990年1月16日，李敖连续写下《李登辉的亡国动作》《李登辉无人君之风》《李登辉被罚跪考》《李登辉式“平反”》《李登辉杀郭士沅？》和《嘴巴不歪的李登辉》。这一组短文分别从李登辉带宋楚瑜求签、地方巡视管小事、日本时代罚跪说法、剥蕉案与孙立人案“平反”、郭士沅遇害政治动机推测，以及复旦校长同名李登辉的传记材料切入，构成《李登辉的真面目》早期短评簇。本条按主题簇合并，不把每篇短札拆成单独事件。",
+    "source": {
+      "book": "李登辉的真面目",
+      "chapter": "007.李登辉的亡国动作.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/006.李登辉的真面目/007.李登辉的亡国动作.txt",
+      "line": 21,
+      "lines": [
+        11,
+        15,
+        17,
+        19,
+        21
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "李登辉的真面目",
+        "chapter": "008.李登辉无人君之风.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/006.李登辉的真面目/008.李登辉无人君之风.txt",
+        "line": 21,
+        "lines": [
+          19,
+          21
+        ],
+        "note": "李敖以李登辉巡视台北县市、管大汉溪堤等新闻批其无人君之风。"
+      },
+      {
+        "book": "李登辉的真面目",
+        "chapter": "009.李登辉被罚跪考.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/006.李登辉的真面目/009.李登辉被罚跪考.txt",
+        "line": 19,
+        "lines": [
+          3,
+          5,
+          19
+        ],
+        "note": "李敖考辨李登辉被罚跪说法中的中国式、日本式跪坐问题。"
+      },
+      {
+        "book": "李登辉的真面目",
+        "chapter": "010.李登辉式“平反”.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/006.李登辉的真面目/010.李登辉式“平反”.txt",
+        "line": 15,
+        "lines": [
+          3,
+          5,
+          15
+        ],
+        "note": "李敖并论剥蕉案、孙立人案的李登辉式平反。"
+      },
+      {
+        "book": "李登辉的真面目",
+        "chapter": "011.李登辉杀郭士沅？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/006.李登辉的真面目/011.李登辉杀郭士沅？.txt",
+        "line": 21,
+        "lines": [
+          3,
+          5,
+          7,
+          19,
+          21
+        ],
+        "note": "李敖就郭士沅遇害写政治动机狂想曲。"
+      },
+      {
+        "book": "李登辉的真面目",
+        "chapter": "012.嘴巴不歪的李登辉.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/006.李登辉的真面目/012.嘴巴不歪的李登辉.txt",
+        "line": 19,
+        "lines": [
+          3,
+          7,
+          17,
+          19
+        ],
+        "note": "李敖引何德鹤《一代师表李登辉》考证复旦校长李登辉，以同名者反衬台湾李登辉。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "李登辉",
+      "宋楚瑜",
+      "蒋介石",
+      "孙立人",
+      "吴振瑞",
+      "郭士沅",
+      "何德鹤",
+      "复旦校长李登辉"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "上海",
+      "复旦大学"
+    ],
+    "works": [
+      "李登辉的真面目",
+      "李登辉的亡国动作",
+      "李登辉无人君之风",
+      "李登辉被罚跪考",
+      "李登辉式“平反”",
+      "李登辉杀郭士沅？",
+      "嘴巴不歪的李登辉",
+      "一代师表李登辉"
+    ],
+    "tags": [
+      "李登辉研究",
+      "政治短评",
+      "求签",
+      "司法平反",
+      "郭士沅",
+      "复旦李登辉"
+    ],
+    "crossReferences": [],
+    "view": [
+      "写作线",
+      "人物研究线",
+      "政治线",
+      "思想线"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "lidenghui-zhenmianmu-round001-001-015",
+    "id": "lidenghui-zhenmianmu-1990-03-09-writes-against-arrest-of-gu-zhengwen",
+    "date": "1990-03-09",
+    "year": 1990,
+    "month": 3,
+    "day": 9,
+    "displayDate": "1990年3月9日午",
+    "datePrecision": "day",
+    "title": "李敖得知谷正文被捕后三小时赶写《李登辉岂可迫害谷正文！》",
+    "summary": "《李登辉岂可迫害谷正文！》署1990年3月9日午。李敖先交代谷正文因旁听官司、经龙云翔介绍而与自己往来，又回述两年前围绕《历年办理匪案汇编》和“奸匪李登辉”证据的笔战。谷正文致李登辉密函并准备公开旧事后被安全局逮捕，李敖在得知消息后三小时赶写此文，批评李登辉对曾经回护乃至救过自己的谷正文忘恩负义。",
+    "source": {
+      "book": "李登辉的真面目",
+      "chapter": "013.李登辉岂可迫害谷正文！.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/006.李登辉的真面目/013.李登辉岂可迫害谷正文！.txt",
+      "line": 25,
+      "lines": [
+        7,
+        13,
+        15,
+        17,
+        19,
+        23,
+        25
+      ]
+    },
+    "additionalSources": [],
+    "people": [
+      "李敖",
+      "谷正文",
+      "李登辉",
+      "宋心濂",
+      "滕杰",
+      "龙云翔",
+      "蒋经国"
+    ],
+    "places": [
+      "台湾",
+      "台北"
+    ],
+    "works": [
+      "李登辉的真面目",
+      "李登辉岂可迫害谷正文！",
+      "历年办理匪案汇编",
+      "共产党李登辉出卖同志的官方证据",
+      "李敖新刊",
+      "共产党李登辉"
+    ],
+    "tags": [
+      "谷正文",
+      "安全局",
+      "李登辉研究",
+      "笔战后续",
+      "政治迫害"
+    ],
+    "crossReferences": [
+      "li-ao-wuwu-diary-1990-08-05-dines-with-qiao-jiacai-gu-zhengwen-and-receives-materials",
+      "li-ao-xiaoao-jianghu-1996-context-phone-chat-with-gu-zhengwen-on-dabao-xingyun",
+      "tiaozhan-li-ao-1999-12-31-qna-secret-file-original-from-gu-zhengwen",
+      "tiaozhan-li-ao-2000-02-16-recalls-gu-zhengwen-gave-secret-bandit-case-compilation"
+    ],
+    "view": [
+      "写作线",
+      "人物研究线",
+      "政治线",
+      "交游线"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "lidenghui-zhenmianmu-round001-001-015",
+    "id": "lidenghui-zhenmianmu-1990-07-10-to-09-01-writes-genealogy-and-judicial-reform-critiques",
+    "date": "1990-07-10",
+    "year": 1990,
+    "month": 7,
+    "day": 10,
+    "displayDate": "1990年7月10日至9月1日",
+    "datePrecision": "date-range",
+    "title": "李敖写两篇短评，查李登辉“耕读世家”包装并批林洋港司法革新",
+    "summary": "1990年7月10日《李登辉是“耕读世家”吗？》中，李敖读《世界李氏》第四卷第三期《中华民国第八任总统李登辉先生》，批其把李登辉包装成“先世耕读传家”。9月1日《李登辉、林洋港配谈司法革新吗？》又从林洋港公布《司法革新实况简报》并称奉李登辉指示谈起，追溯朱高正抗传案中的机场密商，批评李登辉与林洋港显示司法并不独立。本条合并014至015两篇同属包装/制度批判的短评。",
+    "source": {
+      "book": "李登辉的真面目",
+      "chapter": "014.李登辉是“耕读世家”吗？.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/006.李登辉的真面目/014.李登辉是“耕读世家”吗？.txt",
+      "line": 11,
+      "lines": [
+        3,
+        5,
+        9,
+        11
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "李登辉的真面目",
+        "chapter": "015.李登辉、林洋港配谈司法革新吗？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/006.李登辉的真面目/015.李登辉、林洋港配谈司法革新吗？.txt",
+        "line": 15,
+        "lines": [
+          5,
+          9,
+          13,
+          15
+        ],
+        "note": "李敖批评林洋港奉李登辉指示公布司法革新简报，并回扣朱高正抗传案。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "李登辉",
+      "林洋港",
+      "朱高正",
+      "李焕",
+      "刘阔才",
+      "梁肃戎"
+    ],
+    "places": [
+      "台湾",
+      "台北"
+    ],
+    "works": [
+      "李登辉的真面目",
+      "李登辉是“耕读世家”吗？",
+      "李登辉、林洋港配谈司法革新吗？",
+      "世界李氏",
+      "司法革新实况简报",
+      "自立晚报"
+    ],
+    "tags": [
+      "李登辉研究",
+      "耕读世家",
+      "司法独立",
+      "林洋港",
+      "朱高正"
+    ],
+    "crossReferences": [
+      "li-ao-shuqiji-1993-02-07-writes-zhai-zongquan-on-impeaching-judges"
+    ],
+    "view": [
+      "写作线",
+      "人物研究线",
+      "政治线",
+      "司法线"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "lidenghui-zhenmianmu-round002-016-035-closeout",
+    "id": "lidenghui-zhenmianmu-1991-03-29-records-huang-yuming-punished-after-letter-to-lee",
+    "date": "1991-03-29",
+    "year": 1991,
+    "month": 3,
+    "day": 29,
+    "displayDate": "1991年3月29日",
+    "datePrecision": "day",
+    "title": "李敖写黄玉明上书追问李登辉共产党身份后遭停权处分",
+    "summary": "《李登辉杀鸡儆猴处分黄玉明》署1991年3月29日。李敖追述近九十岁的老国民党员黄玉明2月6日上书李登辉，要求其说明是否已脱离共产党籍并澄清郭士沅案；黄玉明3月14日接到停止党权二年的处分，随后申诉要求撤销。李敖在文末说明，黄玉明所据资料来自自己《共产党李登辉》和《世界论坛报》专文所揭发材料，称国民党内斗原来触动了他埋下的地雷。",
+    "source": {
+      "book": "李登辉的真面目",
+      "chapter": "016.李登辉杀鸡儆猴处分黄玉明.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/006.李登辉的真面目/016.李登辉杀鸡儆猴处分黄玉明.txt",
+      "line": 61,
+      "lines": [
+        3,
+        39,
+        41,
+        51,
+        55,
+        57,
+        59,
+        61
+      ]
+    },
+    "additionalSources": [],
+    "people": [
+      "李敖",
+      "黄玉明",
+      "李登辉",
+      "郭士沅",
+      "吴克泰"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "李登辉的真面目",
+      "李登辉杀鸡儆猴处分黄玉明",
+      "共产党李登辉",
+      "世界论坛报"
+    ],
+    "tags": [
+      "李登辉研究",
+      "黄玉明",
+      "共产党李登辉",
+      "党纪处分",
+      "郭士沅"
+    ],
+    "crossReferences": [
+      "li-ao-wuwu-diary-1991-03-25-huang-yuming-visits-office",
+      "li-ao-wuwu-diary-1991-03-28-huang-yuming-call-wants-friendship",
+      "li-ao-wuwu-diary-1991-03-28-huang-yuming-visit",
+      "li-ao-wuwu-diary-1991-04-01-returns-huang-yuming-call"
+    ],
+    "view": [
+      "写作线",
+      "人物研究线",
+      "政治线",
+      "交游线"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "lidenghui-zhenmianmu-round002-016-035-closeout",
+    "id": "lidenghui-zhenmianmu-1991-03-28-to-03-30-criticizes-cultural-revival-council-membership",
+    "date": "1991-03-28",
+    "year": 1991,
+    "month": 3,
+    "day": 28,
+    "displayDate": "1991年3月28日至3月30日",
+    "datePrecision": "date-range",
+    "title": "李敖连续批文化总会，称其为李登辉抓文化的机关",
+    "summary": "3月28日文化总会成立，李登辉到场致词。李敖当天写《文化总会总不会文化》，批评这个号称民间团体的组织实为李登辉抓文化的机关，并把李登辉与郝柏村主导的两个文化衙门视作政治运动污染文化。3月30日《开妓院的也进了“中华文化复兴运动”芳名册》又读成立大会手册和个人会员名册，继续讽刺文化总会以蒋介石“伟业”为一脉传承，却把大量政商名流纳入复兴文化名册。",
+    "source": {
+      "book": "李登辉的真面目",
+      "chapter": "017.文化总会总不会文化.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/006.李登辉的真面目/017.文化总会总不会文化.txt",
+      "line": 27,
+      "lines": [
+        3,
+        7,
+        9,
+        23,
+        25,
+        27
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "李登辉的真面目",
+        "chapter": "018.开妓院的也进了“中华文化复兴运动”芳名册.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/006.李登辉的真面目/018.开妓院的也进了“中华文化复兴运动”芳名册.txt",
+        "line": 11,
+        "lines": [
+          3,
+          5,
+          7,
+          9,
+          11
+        ],
+        "note": "李敖续读文化总会成立大会手册和会员名册。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "李登辉",
+      "郝柏村",
+      "蒋介石",
+      "黄石城",
+      "毛高文",
+      "宋楚瑜",
+      "张荣发"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "国立中央图书馆"
+    ],
+    "works": [
+      "李登辉的真面目",
+      "文化总会总不会文化",
+      "开妓院的也进了“中华文化复兴运动”芳名册",
+      "中华文化复兴运动总会成立大会手册",
+      "国民党懂什么文化！"
+    ],
+    "tags": [
+      "李登辉研究",
+      "文化总会",
+      "中华文化复兴运动",
+      "文化政策",
+      "国民党文化衙门"
+    ],
+    "crossReferences": [
+      "li-ao-suixielu-qianji-1991-11-14-comments-nanfang-shuo-sima-wenwu-later-followers-after-li",
+      "li-ao-diandao-zhongsheng-048-broadcasts-living-water-dead-water"
+    ],
+    "view": [
+      "写作线",
+      "人物研究线",
+      "政治线",
+      "文化线"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "lidenghui-zhenmianmu-round002-016-035-closeout",
+    "id": "lidenghui-zhenmianmu-1991-04-06-to-05-03-writes-lee-political-identity-critiques",
+    "date": "1991-04-06",
+    "year": 1991,
+    "month": 4,
+    "day": 6,
+    "displayDate": "1991年4月6日至5月3日",
+    "datePrecision": "date-range",
+    "title": "李敖写一组李登辉政治身份短评，从祭蒋不祭黄到外蒙古问题",
+    "summary": "1991年4月6日至5月3日，李敖连续写下《李登辉只祭蒋陵不祭黄陵》《李登辉啊，不是过渡，而是永远》《李登辉忘了自己是老几》《李登辉在走袁大头、蒋光头的老路！》和《李登辉智能障碍得了“蒙古症”》。这一组短文分别由中央日报祭蒋陵报道、李登辉称立院国大乱象为过渡现象、4月30日记者会谈杨尚昆访问、总统连任说法和外蒙古定位切入，集中批评李登辉的政治身份、两岸定位、连任伏笔与历史判断。",
+    "source": {
+      "book": "李登辉的真面目",
+      "chapter": "019.李登辉只祭蒋陵不祭黄陵.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/006.李登辉的真面目/019.李登辉只祭蒋陵不祭黄陵.txt",
+      "line": 9,
+      "lines": [
+        3,
+        5,
+        7,
+        9
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "李登辉的真面目",
+        "chapter": "020.李登辉啊，不是过渡，而是永远.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/006.李登辉的真面目/020.李登辉啊，不是过渡，而是永远.txt",
+        "line": 31,
+        "lines": [
+          3,
+          7,
+          25,
+          29,
+          31
+        ],
+        "note": "李敖反驳李登辉把立院与国大乱象称为过渡现象。"
+      },
+      {
+        "book": "李登辉的真面目",
+        "chapter": "021.李登辉忘了自己是老几.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/006.李登辉的真面目/021.李登辉忘了自己是老几.txt",
+        "line": 27,
+        "lines": [
+          3,
+          9,
+          11,
+          23,
+          25,
+          27
+        ],
+        "note": "李敖批评李登辉以“中华民国总统”名义谈杨尚昆来访和自己赴大陆。"
+      },
+      {
+        "book": "李登辉的真面目",
+        "chapter": "022.李登辉在走袁大头、蒋光头的老路！.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/006.李登辉的真面目/022.李登辉在走袁大头、蒋光头的老路！.txt",
+        "line": 21,
+        "lines": [
+          3,
+          5,
+          7,
+          11,
+          13,
+          19,
+          21
+        ],
+        "note": "李敖抓出李登辉对连任问题的伏笔，类比袁世凯与蒋介石。"
+      },
+      {
+        "book": "李登辉的真面目",
+        "chapter": "023.李登辉智能障碍得了“蒙古症”.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/006.李登辉的真面目/023.李登辉智能障碍得了“蒙古症”.txt",
+        "line": 41,
+        "lines": [
+          3,
+          5,
+          19,
+          37,
+          39,
+          41
+        ],
+        "note": "李敖由4月30日记者会外蒙古答话追溯蒋介石外蒙责任，并批李登辉无法务实表态。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "李登辉",
+      "蒋介石",
+      "蒋经国",
+      "朱高正",
+      "杨尚昆",
+      "邱进益",
+      "袁世凯",
+      "蔡锷"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "桃园",
+      "慈湖",
+      "大陆",
+      "外蒙古"
+    ],
+    "works": [
+      "李登辉的真面目",
+      "李登辉只祭蒋陵不祭黄陵",
+      "李登辉啊，不是过渡，而是永远",
+      "李登辉忘了自己是老几",
+      "李登辉在走袁大头、蒋光头的老路！",
+      "李登辉智能障碍得了“蒙古症”",
+      "国家统一纲领",
+      "中苏友好同盟条约"
+    ],
+    "tags": [
+      "李登辉研究",
+      "政治短评",
+      "两岸定位",
+      "总统连任",
+      "外蒙古",
+      "中央日报"
+    ],
+    "crossReferences": [
+      "micang-diary-1995-04-26-publicly-challenges-lee-teng-hui-promise",
+      "micang-diary-1995-05-04-records-lee-teng-hui-integrity-dispute",
+      "li-ao-dageda-036-uses-lee-tenghui-book-to-frame-chen-shuibian-mongolia-recognition"
+    ],
+    "view": [
+      "写作线",
+      "人物研究线",
+      "政治线",
+      "两岸线"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "lidenghui-zhenmianmu-round002-016-035-closeout",
+    "id": "lidenghui-zhenmianmu-1991-05-15-to-07-05-investigates-evergreen-chang-jung-fa-privilege-chain",
+    "date": "1991-05-15",
+    "year": 1991,
+    "month": 5,
+    "day": 15,
+    "displayDate": "1991年5月15日至7月5日",
+    "datePrecision": "date-range",
+    "title": "李敖连续追查长荣案，指向李登辉支持张荣发的政商特权链",
+    "summary": "1991年5月15日至7月5日，李敖以《魏赵全围，管他是谁》为起点，连续写下长荣/张荣发调查链。他支持郁慕明揭发长荣案，但把焦点扩大到李登辉、郭南宏、张建邦、交通部与民航局的官商勾结：从1989年1月15日修订《民用航空运输业管理规则》、核准筹设长荣航空、租用中正机场土地、长荣被排除在优待机票规则之外，到长荣租机、经济出走说法和日本资金/全日空技术支持。此条合并024至032九章，避免把同一长荣案调查链拆成多条重复事件。",
+    "source": {
+      "book": "李登辉的真面目",
+      "chapter": "024.魏赵全围，管他是谁.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/006.李登辉的真面目/024.魏赵全围，管他是谁.txt",
+      "line": 43,
+      "lines": [
+        13,
+        25,
+        35,
+        37,
+        39,
+        43
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "李登辉的真面目",
+        "chapter": "025.李登辉以下图利张荣发内幕.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/006.李登辉的真面目/025.李登辉以下图利张荣发内幕.txt",
+        "line": 33,
+        "lines": [
+          3,
+          17,
+          19,
+          29,
+          31,
+          33
+        ],
+        "note": "李敖由修订法令与《财讯》查证追问图利张荣发内幕。"
+      },
+      {
+        "book": "李登辉的真面目",
+        "chapter": "026.郭南宏低声下气，张荣发大摇大摆.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/006.李登辉的真面目/026.郭南宏低声下气，张荣发大摇大摆.txt",
+        "line": 17,
+        "lines": [
+          3,
+          5,
+          11,
+          13,
+          15,
+          17
+        ],
+        "note": "李敖公布1月15日至1月23日修法和函件链，说明法令为私人配合修正。"
+      },
+      {
+        "book": "李登辉的真面目",
+        "chapter": "027.李登辉支持张荣发“租霸王地”内幕.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/006.李登辉的真面目/027.李登辉支持张荣发“租霸王地”内幕.txt",
+        "line": 81,
+        "lines": [
+          3,
+          17,
+          43,
+          47,
+          73,
+          77,
+          79,
+          81
+        ],
+        "note": "李敖追查长荣申请租用中正机场土地及第三跑道、高球场变更。"
+      },
+      {
+        "book": "李登辉的真面目",
+        "chapter": "028.“开放天空”并不“开放优待”.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/006.李登辉的真面目/028.“开放天空”并不“开放优待”.txt",
+        "line": 73,
+        "lines": [
+          3,
+          49,
+          59,
+          61,
+          69,
+          71,
+          73
+        ],
+        "note": "李敖以民航局优待机票文件说明长荣被排除在一般航空公司约束外。"
+      },
+      {
+        "book": "李登辉的真面目",
+        "chapter": "029.张荣发——一发不可收拾啦！.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/006.李登辉的真面目/029.张荣发——一发不可收拾啦！.txt",
+        "line": 41,
+        "lines": [
+          3,
+          7,
+          13,
+          31,
+          33,
+          35,
+          37,
+          41
+        ],
+        "note": "李敖把长荣法令、租机和日本资金问题合并为张荣发玩法避责的特权模式。"
+      },
+      {
+        "book": "李登辉的真面目",
+        "chapter": "030.拆穿对长荣出走问题的欺人之谈.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/006.李登辉的真面目/030.拆穿对长荣出走问题的欺人之谈.txt",
+        "line": 59,
+        "lines": [
+          33,
+          49,
+          53,
+          57,
+          59
+        ],
+        "note": "李敖批评长荣退出六年国建计划的经济出走说法。"
+      },
+      {
+        "book": "李登辉的真面目",
+        "chapter": "031.日本鬼子是长荣集团的黑后台！.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/006.李登辉的真面目/031.日本鬼子是长荣集团的黑后台！.txt",
+        "line": 39,
+        "lines": [
+          3,
+          31,
+          33,
+          35,
+          37,
+          39
+        ],
+        "note": "李敖对照《联合报》和《商务周刊》，追问长荣日本银行界支持。"
+      },
+      {
+        "book": "李登辉的真面目",
+        "chapter": "032.为长荣集团的日本资本追资料.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/006.李登辉的真面目/032.为长荣集团的日本资本追资料.txt",
+        "line": 29,
+        "lines": [
+          3,
+          7,
+          19,
+          23,
+          25,
+          27,
+          29
+        ],
+        "note": "李敖再据《美洲时报周刊》追补日本丸红、北海道拓植银行和全日空资料。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "李登辉",
+      "张荣发",
+      "郁慕明",
+      "郭南宏",
+      "张建邦",
+      "陈家儒",
+      "楼维华",
+      "简又新",
+      "林正杰",
+      "陈水扁",
+      "吴永毅",
+      "许瑞源",
+      "林钰祥",
+      "洪冬桂"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "中正国际机场",
+      "桃园",
+      "日本",
+      "北京"
+    ],
+    "works": [
+      "李登辉的真面目",
+      "魏赵全围，管他是谁",
+      "李登辉以下图利张荣发内幕",
+      "郭南宏低声下气，张荣发大摇大摆",
+      "李登辉支持张荣发“租霸王地”内幕",
+      "“开放天空”并不“开放优待”",
+      "张荣发——一发不可收拾啦！",
+      "拆穿对长荣出走问题的欺人之谈",
+      "日本鬼子是长荣集团的黑后台！",
+      "为长荣集团的日本资本追资料",
+      "民用航空运输业管理规则",
+      "财讯",
+      "商务周刊",
+      "美洲时报周刊"
+    ],
+    "tags": [
+      "李登辉研究",
+      "长荣案",
+      "张荣发",
+      "政商勾结",
+      "郁慕明",
+      "开放天空",
+      "日本资本",
+      "中正国际机场"
+    ],
+    "crossReferences": [
+      "qiushi-xinyu-1991-06-22-yu-mu-ming-prediction-on-legislative-chaos",
+      "qiushi-xinyu-1991-07-07-who-is-wu-sangui"
+    ],
+    "view": [
+      "写作线",
+      "人物研究线",
+      "政治线",
+      "经济线"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "lidenghui-zhenmianmu-round002-016-035-closeout",
+    "id": "lidenghui-zhenmianmu-1991-07-11-to-07-29-writes-final-lee-short-critiques",
+    "date": "1991-07-11",
+    "year": 1991,
+    "month": 7,
+    "day": 11,
+    "displayDate": "1991年7月11日至7月29日",
+    "datePrecision": "date-range",
+    "title": "李敖写本书收尾三篇短评，批李登辉自比萨达特、谈活水与大陆水灾",
+    "summary": "1991年7月11日至29日，李敖写下《李登辉何德何能，岂可自比萨达特》《李登辉想拖人下水》和《拆穿李登辉的笨谎话！》。三篇分别由李登辉接受《华盛顿时报》专访自比萨达特、背朱熹诗句并发行《活水》双周刊、以及因大陆水灾延期访问中美洲的总统府说明切入，构成本书最后一组李登辉短评。此条合并033至035，保留收尾连续性。",
+    "source": {
+      "book": "李登辉的真面目",
+      "chapter": "033.李登辉何德何能，岂可自比萨达特.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/006.李登辉的真面目/033.李登辉何德何能，岂可自比萨达特.txt",
+      "line": 35,
+      "lines": [
+        3,
+        7,
+        9,
+        33,
+        35
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "李登辉的真面目",
+        "chapter": "034.李登辉想拖人下水.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/006.李登辉的真面目/034.李登辉想拖人下水.txt",
+        "line": 125,
+        "lines": [
+          3,
+          47,
+          59,
+          119,
+          121,
+          123,
+          125
+        ],
+        "note": "李敖由闻一多《死水》、李公朴闻一多被暗杀与《活水》双周刊批李登辉。"
+      },
+      {
+        "book": "李登辉的真面目",
+        "chapter": "035.拆穿李登辉的笨谎话！.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/006.李登辉的真面目/035.拆穿李登辉的笨谎话！.txt",
+        "line": 31,
+        "lines": [
+          3,
+          9,
+          13,
+          21,
+          29,
+          31
+        ],
+        "note": "李敖批评李登辉因大陆水灾延期出访的总统府说法。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "李登辉",
+      "萨达特",
+      "纳赛尔",
+      "蒋介石",
+      "蒋经国",
+      "闻一多",
+      "李公朴",
+      "朱熹",
+      "邱进益",
+      "李元簇",
+      "郝柏村"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "大陆",
+      "中美洲",
+      "哥斯达黎加",
+      "尼加拉瓜",
+      "洪都拉斯",
+      "埃及",
+      "以色列"
+    ],
+    "works": [
+      "李登辉的真面目",
+      "李登辉何德何能，岂可自比萨达特",
+      "李登辉想拖人下水",
+      "拆穿李登辉的笨谎话！",
+      "华盛顿时报",
+      "萨达特自传",
+      "死水",
+      "活水",
+      "中央日报"
+    ],
+    "tags": [
+      "李登辉研究",
+      "萨达特",
+      "活水",
+      "死水",
+      "大陆水灾",
+      "总统府",
+      "短评"
+    ],
+    "crossReferences": [
+      "li-ao-suixielu-qianji-1991-11-14-comments-nanfang-shuo-sima-wenwu-later-followers-after-li",
+      "li-ao-diandao-zhongsheng-048-broadcasts-living-water-dead-water",
+      "li-ao-youhua-shuo-061-reads-dead-water-and-criticizes-taiwan-politicians-faces"
+    ],
+    "view": [
+      "写作线",
+      "人物研究线",
+      "政治线",
+      "文化线"
+    ]
+  }
+]

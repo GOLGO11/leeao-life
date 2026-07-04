@@ -20094,7 +20094,21 @@
       "micang-diary-1985-03-13-records-wansui-16-ban-and-book-search",
       "micang-diary-1985-03-15-receives-wansui-16-ban-order"
     ],
-    "ingestionRound": "li-ao-micang-diary-round059-march-round003-lines-67-87"
+    "ingestionRound": "li-ao-micang-diary-round059-march-round003-lines-67-87",
+    "additionalSources": [
+      {
+        "book": "孙中山研究",
+        "chapter": "004.孙中山与卖国大比赛.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/005.孙中山研究/004.孙中山与卖国大比赛.txt",
+        "line": 173,
+        "lines": [
+          169,
+          171,
+          173
+        ],
+        "note": "《孙中山与卖国大比赛》收录成文文本，文末署1985年3月8日夜二时，与日记完稿记录互证。"
+      }
+    ]
   },
   {
     "id": "micang-diary-1985-03-09-records-lee-tenghui-paraguay-chiang-statue",

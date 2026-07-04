@@ -104,7 +104,17 @@ const dataFiles = [
   "data/timeline-events-li-ao-zhenglun-zongyiji.json",
   "data/timeline-events-li-ao-shenzhou-cultural-trip.json",
   "data/timeline-events-li-ao-fangdianji.json",
-  "data/timeline-events-li-ao-fadianji.json"
+  "data/timeline-events-li-ao-fadianji.json",
+  "data/timeline-events-li-ao-songdianji.json",
+  "data/timeline-events-li-ao-laidianji.json",
+  "data/timeline-events-li-ao-tongdianji.json",
+  "data/timeline-events-hushi-yanjiu.json",
+  "data/timeline-events-hushi-pingzhuan.json",
+  "data/timeline-events-hushi-yuwo.json",
+  "data/timeline-events-sunyixian-xihua-yixue.json",
+  "data/timeline-events-sunzhongshan-yanjiu.json",
+  "data/timeline-events-lidenghui-zhenmianmu.json",
+  "data/timeline-events-lidenghui-jiamianju.json"
 ];
 
 const outputDir = path.join(root, "exports");

@@ -1,0 +1,1023 @@
+[
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "lidenghui-jiamianju-round001-closeout",
+    "id": "lidenghui-jiamianju-1999-03-31-writes-introduction-and-compiles-mask-essays",
+    "date": "1999-03-31",
+    "year": 1999,
+    "month": 3,
+    "day": 31,
+    "displayDate": "1999年3月31日",
+    "datePrecision": "day",
+    "title": "李敖写《李登辉的假面具》引言，说明从旧文与新文合编成书",
+    "summary": "《李登辉的假面具》引言署1999年3月31日。李敖说明十年前李登辉继承蒋经国时，他已写文著书拆穿，四十篇汇为1993年《李登辉的真面目》；本书从其中抽出五篇，又另写十七篇，合成二十二篇。他还记王作荣告诉他李登辉私下自比“耶和华”的故事，并特别说明《李登辉“鸿禧山庄”贪污舞弊案调查报告》主要是亓丰瑜功劳，自己总其成。本条记录《假面具》成书说明，不重复新增《真面目》成书事件。",
+    "source": {
+      "book": "李登辉的假面具",
+      "chapter": "《李登辉的假面具》引言.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/007.李登辉的假面具/《李登辉的假面具》引言.txt",
+      "line": 9,
+      "lines": [
+        3,
+        5,
+        7,
+        9
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "李登辉的假面具",
+        "chapter": "《李登辉的假面具》目录.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/007.李登辉的假面具/《李登辉的假面具》目录.txt",
+        "line": 3,
+        "lines": [
+          1,
+          3,
+          24
+        ],
+        "note": "目录列出引言与001至022，补出本书结构。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "李登辉",
+      "蒋经国",
+      "王作荣",
+      "亓丰瑜"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "李登辉的假面具",
+      "李登辉的真面目",
+      "李登辉“鸿禧山庄”贪污舞弊案调查报告"
+    ],
+    "tags": [
+      "李登辉研究",
+      "引言",
+      "成书",
+      "人物研究类",
+      "第一轮"
+    ],
+    "crossReferences": [
+      "lidenghui-zhenmianmu-1993-02-20-writes-introduction-and-compiles-monkey-show-essays",
+      "tiaozhan-li-ao-2000-02-03-promotes-lee-true-face-and-mask-on-hongxi",
+      "li-ao-dageda-099-shows-lee-tenghui-one-third-butt-photo-and-his-two-books"
+    ],
+    "view": [
+      "写作线",
+      "人物研究线",
+      "政治线",
+      "出版线"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "lidenghui-jiamianju-round001-closeout",
+    "id": "lidenghui-jiamianju-1988-07-15-to-1989-12-18-writes-early-lee-short-critiques",
+    "date": "1988-07-15",
+    "year": 1988,
+    "month": 7,
+    "day": 15,
+    "displayDate": "1988年7月15日至1989年12月18日",
+    "datePrecision": "date-range",
+    "title": "李敖写李登辉早期短评簇，从“新酒”话术到白信封黑资料",
+    "summary": "1988年7月15日至1989年12月18日，李敖写下《“新瓶装新酒”吗？》《这是哪门子“新酒”？》《李登辉的户籍》和《白信封中的黑资料》。四篇短评分别抓住李登辉“新酒装新瓶”的圣经典故误读、提名苏南成进中常会的党纪玩法、户籍职业栏“事实认定”的行政荒谬，以及匿名传单把李敖旧文当作国民党内斗黑资料来使用。本条合并001至004，保留这组早期政治短评的连续性。",
+    "source": {
+      "book": "李登辉的假面具",
+      "chapter": "001.“新瓶装新酒”吗？.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/007.李登辉的假面具/001.“新瓶装新酒”吗？.txt",
+      "line": 15,
+      "lines": [
+        3,
+        7,
+        11,
+        13,
+        15
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "李登辉的假面具",
+        "chapter": "002.这是哪门子“新酒”？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/007.李登辉的假面具/002.这是哪门子“新酒”？.txt",
+        "line": 17,
+        "lines": [
+          3,
+          9,
+          15,
+          17
+        ],
+        "note": "李敖由苏南成进中常会批国民党式独裁民主。"
+      },
+      {
+        "book": "李登辉的假面具",
+        "chapter": "003.李登辉的户籍.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/007.李登辉的假面具/003.李登辉的户籍.txt",
+        "line": 11,
+        "lines": [
+          3,
+          5,
+          9,
+          11
+        ],
+        "note": "李敖以户籍职业栏更改和自己办护照经验批事实认定。"
+      },
+      {
+        "book": "李登辉的假面具",
+        "chapter": "004.白信封中的黑资料.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/007.李登辉的假面具/004.白信封中的黑资料.txt",
+        "line": 11,
+        "lines": [
+          3,
+          7,
+          9,
+          11
+        ],
+        "note": "李敖说明匿名传单所用两篇文章出自自己旧作。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "李登辉",
+      "苏南成"
+    ],
+    "places": [
+      "台湾",
+      "台北"
+    ],
+    "works": [
+      "李登辉的假面具",
+      "“新瓶装新酒”吗？",
+      "这是哪门子“新酒”？",
+      "李登辉的户籍",
+      "白信封中的黑资料",
+      "乌鸦评论",
+      "蒋宋美龄通奸",
+      "共产党李登辉"
+    ],
+    "tags": [
+      "李登辉研究",
+      "政治短评",
+      "苏南成",
+      "户籍",
+      "匿名传单",
+      "共产党李登辉"
+    ],
+    "crossReferences": [
+      "lidenghui-zhenmianmu-1988-09-17-to-11-07-wuya-ccp-evidence-debate-with-gu",
+      "lidenghui-zhenmianmu-1988-10-24-writes-political-buttocks-essay"
+    ],
+    "view": [
+      "写作线",
+      "人物研究线",
+      "政治线"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "lidenghui-jiamianju-round001-closeout",
+    "id": "lidenghui-jiamianju-1991-03-06-to-03-07-reopens-lee-ccp-evidence-in-qiushi",
+    "date": "1991-03-06",
+    "year": 1991,
+    "month": 3,
+    "day": 6,
+    "displayDate": "1991年3月6日至3月7日",
+    "datePrecision": "date-range",
+    "title": "李敖在《求是报》语境中重提李登辉共产党问题",
+    "summary": "1991年3月6日至3月7日，李敖写《“奸匪李登辉”字眼赫然出现！》和《李登辉的共产党问题》。他借李登辉接见二二八家属的报道，再次拿出国安局机密《历年办理匪案汇编》所载“叶城松等叛乱案”摘要；随后说明《求是报》刊出文证与吴克泰近照，并从报告内容、行政程序和法律解释三方面判断李登辉早年已有“自新”和出卖同志问题。本条记录1991年的再揭发与报纸刊载语境，旧的1988年《乌鸦评论》证据笔战只作crossReferences。",
+    "source": {
+      "book": "李登辉的假面具",
+      "chapter": "005.“奸匪李登辉”字眼赫然出现！.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/007.李登辉的假面具/005.“奸匪李登辉”字眼赫然出现！.txt",
+      "line": 9,
+      "lines": [
+        3,
+        5,
+        7,
+        9
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "李登辉的假面具",
+        "chapter": "006.李登辉的共产党问题.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/007.李登辉的假面具/006.李登辉的共产党问题.txt",
+        "line": 19,
+        "lines": [
+          3,
+          9,
+          15,
+          17,
+          19
+        ],
+        "note": "李敖说明《求是报》刊出文证和吴克泰图证后的判断。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "李登辉",
+      "叶城松",
+      "杨廷椅",
+      "吴克泰"
+    ],
+    "places": [
+      "台湾",
+      "台北"
+    ],
+    "works": [
+      "李登辉的假面具",
+      "“奸匪李登辉”字眼赫然出现！",
+      "李登辉的共产党问题",
+      "求是报",
+      "历年办理匪案汇编",
+      "李登辉的小故事"
+    ],
+    "tags": [
+      "李登辉研究",
+      "共产党李登辉",
+      "求是报",
+      "历年办理匪案汇编",
+      "二二八"
+    ],
+    "crossReferences": [
+      "lidenghui-zhenmianmu-1988-09-17-to-11-07-wuya-ccp-evidence-debate-with-gu",
+      "lidenghui-zhenmianmu-1991-03-29-records-huang-yuming-punished-after-letter-to-lee",
+      "li-ao-xiaoao-jianghu-1996-02-29-after-shows-feian-huibian-and-garrison-judgment-on-lee-teng-hui",
+      "tiaozhan-li-ao-1999-09-28-shows-lee-teng-hui-true-face-and-feian-huibian"
+    ],
+    "view": [
+      "写作线",
+      "人物研究线",
+      "政治线",
+      "论战线"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "lidenghui-jiamianju-round001-closeout",
+    "id": "lidenghui-jiamianju-1991-03-28-to-04-08-writes-lin-dong-and-mainland-taiwan-critiques",
+    "date": "1991-03-28",
+    "year": 1991,
+    "month": 3,
+    "day": 28,
+    "displayDate": "1991年3月28日至4月8日",
+    "datePrecision": "date-range",
+    "title": "李敖写林栋受召见与“意淫大陆，手淫台湾”两篇短评",
+    "summary": "1991年3月28日，李敖写《李登辉召见林栋慰问个屁》，由台视报道李登辉召见林栋谈起，翻出1973年调查局《要案纪实》“油商行贿案”秘密记录，说明林栋受贿起诉与蒋氏父子内斗背景。4月8日又写《李登辉“意淫大陆，手淫台湾”》，借邱进益转述李登辉看中国地图发呆，批评当局一方面意淫大陆，另一方面在台湾维持蒙藏、新疆、光复大陆等旧架构。本条合并007至008两篇短评。",
+    "source": {
+      "book": "李登辉的假面具",
+      "chapter": "007.李登辉召见林栋慰问个屁.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/007.李登辉的假面具/007.李登辉召见林栋慰问个屁.txt",
+      "line": 43,
+      "lines": [
+        3,
+        7,
+        9,
+        37,
+        39,
+        41,
+        43
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "李登辉的假面具",
+        "chapter": "008.李登辉“意淫大陆，手淫台湾”.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/007.李登辉的假面具/008.李登辉“意淫大陆，手淫台湾”.txt",
+        "line": 23,
+        "lines": [
+          3,
+          9,
+          11,
+          21,
+          23
+        ],
+        "note": "李敖用“意淫大陆，手淫台湾”概括国民党两岸政治姿态。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "李登辉",
+      "林栋",
+      "邱进益",
+      "蒋经国",
+      "蒋介石"
+    ],
+    "places": [
+      "台湾",
+      "大陆",
+      "外蒙古",
+      "香港",
+      "琉球"
+    ],
+    "works": [
+      "李登辉的假面具",
+      "李登辉召见林栋慰问个屁",
+      "李登辉“意淫大陆，手淫台湾”",
+      "要案纪实"
+    ],
+    "tags": [
+      "李登辉研究",
+      "林栋",
+      "油商行贿案",
+      "意淫大陆",
+      "两岸定位"
+    ],
+    "crossReferences": [
+      "lidenghui-zhenmianmu-1991-04-06-to-05-03-writes-lee-political-identity-critiques",
+      "li-ao-dageda-010-reuses-phrase-obscene-mainland-self-pleasure-taiwan"
+    ],
+    "view": [
+      "写作线",
+      "人物研究线",
+      "政治线",
+      "两岸线"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "lidenghui-jiamianju-round001-closeout",
+    "id": "lidenghui-jiamianju-1991-06-23-writes-zhu-xi-cultural-card-critiques",
+    "date": "1991-06-23",
+    "year": 1991,
+    "month": 6,
+    "day": 23,
+    "displayDate": "1991年6月23日",
+    "datePrecision": "day",
+    "title": "李敖写两篇朱熹短评，称李登辉患上“朱熹病”",
+    "summary": "1991年6月23日，李敖写《歪嘴又打朱熹牌！》和《为有源头朱熹来！》。他指出李登辉本月初起召见小朋友背朱熹诗、提倡朱熹思想，却把“方塘”说成“方田”；又把3月28日文化总会成立、6月以来三次背古诗词、朱学会议和蒋介石当年倡阳明学并置，判断李登辉借朱熹自抬身价、用文化牌接续蒋氏政治工程。",
+    "source": {
+      "book": "李登辉的假面具",
+      "chapter": "009.歪嘴又打朱熹牌！.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/007.李登辉的假面具/009.歪嘴又打朱熹牌！.txt",
+      "line": 15,
+      "lines": [
+        9,
+        11,
+        13,
+        15
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "李登辉的假面具",
+        "chapter": "010.为有源头朱熹来！.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/007.李登辉的假面具/010.为有源头朱熹来！.txt",
+        "line": 79,
+        "lines": [
+          13,
+          15,
+          23,
+          25,
+          59,
+          63,
+          77,
+          79
+        ],
+        "note": "李敖把李登辉朱熹路线与蒋介石阳明学政治化相连。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "李登辉",
+      "朱熹",
+      "蒋介石",
+      "胡适",
+      "王阳明"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "李登辉的假面具",
+      "歪嘴又打朱熹牌！",
+      "为有源头朱熹来！",
+      "观书有感",
+      "西江月",
+      "游子吟"
+    ],
+    "tags": [
+      "李登辉研究",
+      "朱熹",
+      "文化总会",
+      "文化牌",
+      "蒋介石"
+    ],
+    "crossReferences": [
+      "lidenghui-zhenmianmu-1991-03-28-to-03-30-criticizes-cultural-revival-council-membership",
+      "li-ao-suixielu-qianji-1991-11-14-comments-nanfang-shuo-sima-wenwu-later-followers-after-li"
+    ],
+    "view": [
+      "写作线",
+      "人物研究线",
+      "政治线",
+      "文化线"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "lidenghui-jiamianju-round001-closeout",
+    "id": "lidenghui-jiamianju-1991-06-25-writes-national-policy-center-and-evergreen-critique",
+    "date": "1991-06-25",
+    "year": 1991,
+    "month": 6,
+    "day": 25,
+    "displayDate": "1991年6月25日午后",
+    "datePrecision": "day",
+    "title": "李敖写国策中心短评，指张荣发智库背后是李登辉授意",
+    "summary": "1991年6月25日午后，李敖写《财阀伸手捞国策，总统幕后搞“台独”》。他由《中国时报》谈国策中心困扰的专论和《世界论坛报》社论《张荣发先生应关闭“国策中心”》切入，批评国策中心并非纯学术研究，而是财阀以假学术铺路、与李登辉秘密关系互相支撑；他判断张荣发的智库花样背后授意人是李登辉。本条与《真面目》长荣案调查链相连，但不重复拆长荣航空特权细目。",
+    "source": {
+      "book": "李登辉的假面具",
+      "chapter": "011.财阀伸手捞国策，总统幕后搞“台独”.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/007.李登辉的假面具/011.财阀伸手捞国策，总统幕后搞“台独”.txt",
+      "line": 37,
+      "lines": [
+        3,
+        13,
+        19,
+        21,
+        29,
+        35,
+        37
+      ]
+    },
+    "additionalSources": [],
+    "people": [
+      "李敖",
+      "李登辉",
+      "张荣发",
+      "黄昭堂"
+    ],
+    "places": [
+      "台湾",
+      "台北"
+    ],
+    "works": [
+      "李登辉的假面具",
+      "财阀伸手捞国策，总统幕后搞“台独”",
+      "中国时报",
+      "世界论坛报",
+      "张荣发先生应关闭“国策中心”"
+    ],
+    "tags": [
+      "李登辉研究",
+      "国策中心",
+      "张荣发",
+      "长荣",
+      "台独",
+      "政商关系"
+    ],
+    "crossReferences": [
+      "lidenghui-zhenmianmu-1991-05-15-to-07-05-investigates-evergreen-chang-jung-fa-privilege-chain",
+      "qiushi-xinyu-1991-06-22-yu-mu-ming-prediction-on-legislative-chaos"
+    ],
+    "view": [
+      "写作线",
+      "人物研究线",
+      "政治线",
+      "政商线"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "lidenghui-jiamianju-round001-closeout",
+    "id": "lidenghui-jiamianju-1991-07-07-to-08-12-writes-ideology-and-power-short-critiques",
+    "date": "1991-07-07",
+    "year": 1991,
+    "month": 7,
+    "day": 7,
+    "displayDate": "1991年7月7日至8月12日",
+    "datePrecision": "date-range",
+    "title": "李敖写意识形态与权力短评簇，批三民主义、李郝关系和三原则",
+    "summary": "1991年7月7日至8月12日，李敖写《李登辉的三民主义阿米巴》《李登辉郝柏村岂有一好一坏之分！》和《李登辉滥调重弹，了无新义》。他先评李登辉在圆山饭店对美侨商会、留美同学会演说《台湾经验与中国前途》，批“三民主义”成为抽象名词排列组合；8月2日再由叶菊兰揭郝柏村体制外军事会议，批李登辉与郝柏村合则两利；8月12日又读《中央日报》李总统处理国家大政三个原则，认为不过是拾蒋经国余唾。本条合并012、015、017三篇短评。",
+    "source": {
+      "book": "李登辉的假面具",
+      "chapter": "012.李登辉的三民主义阿米巴.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/007.李登辉的假面具/012.李登辉的三民主义阿米巴.txt",
+      "line": 29,
+      "lines": [
+        3,
+        5,
+        7,
+        17,
+        27,
+        29
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "李登辉的假面具",
+        "chapter": "015.李登辉郝柏村岂有一好一坏之分！.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/007.李登辉的假面具/015.李登辉郝柏村岂有一好一坏之分！.txt",
+        "line": 17,
+        "lines": [
+          3,
+          9,
+          11,
+          15,
+          17
+        ],
+        "note": "李敖由叶菊兰揭郝柏村体制外会议，批李登辉与郝柏村同类。"
+      },
+      {
+        "book": "李登辉的假面具",
+        "chapter": "017.李登辉滥调重弹，了无新义.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/007.李登辉的假面具/017.李登辉滥调重弹，了无新义.txt",
+        "line": 27,
+        "lines": [
+          3,
+          23,
+          25,
+          27
+        ],
+        "note": "李敖批李登辉三原则沿袭蒋经国旧说。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "李登辉",
+      "郝柏村",
+      "叶菊兰",
+      "蒋经国",
+      "孙中山"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "圆山饭店"
+    ],
+    "works": [
+      "李登辉的假面具",
+      "李登辉的三民主义阿米巴",
+      "李登辉郝柏村岂有一好一坏之分！",
+      "李登辉滥调重弹，了无新义",
+      "台湾经验与中国前途",
+      "中央日报"
+    ],
+    "tags": [
+      "李登辉研究",
+      "三民主义",
+      "郝柏村",
+      "叶菊兰",
+      "政治短评"
+    ],
+    "crossReferences": [
+      "li-ao-suixielu-qianji-1991-09-21-comments-zili-sanmin-zhuyi-unify-china-joke",
+      "li-ao-suixielu-qianji-1991-11-09-ye-julan-call-not-returned-and-zheng-nanrong-dream-source"
+    ],
+    "view": [
+      "写作线",
+      "人物研究线",
+      "政治线"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "lidenghui-jiamianju-round001-closeout",
+    "id": "lidenghui-jiamianju-1991-07-19-to-08-11-writes-taishan-and-lee-ccp-followups-with-hsieh",
+    "date": "1991-07-19",
+    "year": 1991,
+    "month": 7,
+    "day": 19,
+    "displayDate": "1991年7月19日至8月11日",
+    "datePrecision": "date-range",
+    "title": "李敖刊出并续评谢聪敏《泰山与李登辉》，追补杨廷椅案文证",
+    "summary": "1991年7月19日至8月11日，李敖围绕谢聪敏《泰山与李登辉》写成一组追补文字。谢聪敏从“乌秋寮”、新生台湾建设研究会、杨廷椅和李登辉涉案说起；李敖在读后补入《历年办理匪案汇编》第一辑与第二辑中杨廷椅、李水井等案秘密资料，并指出官方不更正李登辉曾是共产党与出卖同志问题，等于默认。8月11日，谢聪敏再补正李登辉1945年行踪与1960年被捕说法，李敖则引用谷正文旧文继续质疑“没有机会出卖同志”的解释。本条合并013、014、016三篇同一论证链。",
+    "source": {
+      "book": "李登辉的假面具",
+      "chapter": "013.从杨廷椅被枪毙到李登辉是共产党.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/007.李登辉的假面具/013.从杨廷椅被枪毙到李登辉是共产党.txt",
+      "line": 140,
+      "lines": [
+        3,
+        43,
+        47,
+        49,
+        51,
+        59,
+        106,
+        130,
+        138,
+        140
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "李登辉的假面具",
+        "chapter": "014.李登辉默认自己曾出卖共产党同志.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/007.李登辉的假面具/014.李登辉默认自己曾出卖共产党同志.txt",
+        "line": 13,
+        "lines": [
+          3,
+          5,
+          11,
+          13
+        ],
+        "note": "李敖把官方不更正视为默认李登辉问题。"
+      },
+      {
+        "book": "李登辉的假面具",
+        "chapter": "016.谢聪敏再谈泰山与李登辉.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/007.李登辉的假面具/016.谢聪敏再谈泰山与李登辉.txt",
+        "line": 37,
+        "lines": [
+          3,
+          5,
+          17,
+          21,
+          35,
+          37
+        ],
+        "note": "谢聪敏补正后，李敖继续提出异见并引用谷正文旧文。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "谢聪敏",
+      "李登辉",
+      "杨廷椅",
+      "李水井",
+      "叶城松",
+      "吴克泰",
+      "谷正文",
+      "沈宗瀚"
+    ],
+    "places": [
+      "台湾",
+      "泰山",
+      "东京"
+    ],
+    "works": [
+      "李登辉的假面具",
+      "泰山与李登辉",
+      "从杨廷椅被枪毙到李登辉是共产党",
+      "李登辉默认自己曾出卖共产党同志",
+      "谢聪敏再谈泰山与李登辉",
+      "历年办理匪案汇编",
+      "求是报"
+    ],
+    "tags": [
+      "李登辉研究",
+      "谢聪敏",
+      "杨廷椅",
+      "共产党李登辉",
+      "历年办理匪案汇编",
+      "泰山"
+    ],
+    "crossReferences": [
+      "lidenghui-zhenmianmu-1988-09-17-to-11-07-wuya-ccp-evidence-debate-with-gu",
+      "lidenghui-jiamianju-1991-03-06-to-03-07-reopens-lee-ccp-evidence-in-qiushi",
+      "li-ao-xiaoao-jianghu-1996-02-29-after-shows-feian-huibian-and-garrison-judgment-on-lee-teng-hui"
+    ],
+    "view": [
+      "写作线",
+      "人物研究线",
+      "论战线",
+      "政治线"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "lidenghui-jiamianju-round001-closeout",
+    "id": "lidenghui-jiamianju-1991-12-17-to-12-19-writes-lee-learns-chiang-critiques",
+    "date": "1991-12-17",
+    "year": 1991,
+    "month": 12,
+    "day": 17,
+    "displayDate": "1991年12月17日至12月19日",
+    "datePrecision": "date-range",
+    "title": "李敖写《李登辉学蒋介石》两文，列举李登辉继承蒋氏路数",
+    "summary": "1991年12月17日至12月19日，李敖写《李登辉学蒋介石》和《李登辉比蒋介石还蒋介石》。前文从总统兼党主席、起立方式强奸党意、家长式领导三点根本，以及训词、新闻管制、司法不独立、朱熹/文化复兴、天威难测任命、只见外国记者、双十阅兵等七点抽样，说明李登辉走蒋介石路数；后文再续列党主席总统二合一、造势书、无副主席、万年国代、劝进、禁陪选、临时条款和修宪扩权等十余点。本条合并018至019两篇同题批判。",
+    "source": {
+      "book": "李登辉的假面具",
+      "chapter": "018.李登辉学蒋介石.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/007.李登辉的假面具/018.李登辉学蒋介石.txt",
+      "line": 59,
+      "lines": [
+        3,
+        9,
+        11,
+        29,
+        31,
+        49,
+        59
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "李登辉的假面具",
+        "chapter": "019.李登辉比蒋介石还蒋介石.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/007.李登辉的假面具/019.李登辉比蒋介石还蒋介石.txt",
+        "line": 41,
+        "lines": [
+          3,
+          19,
+          21,
+          29,
+          41
+        ],
+        "note": "李敖续列李登辉比蒋介石还蒋介石的制度和宣传做法。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "李登辉",
+      "蒋介石",
+      "蒋经国",
+      "张雨生",
+      "朱熹"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "李登辉的假面具",
+      "李登辉学蒋介石",
+      "李登辉比蒋介石还蒋介石",
+      "我的未来不是梦"
+    ],
+    "tags": [
+      "李登辉研究",
+      "蒋介石",
+      "党政一元",
+      "总统扩权",
+      "修宪",
+      "政治短评"
+    ],
+    "crossReferences": [
+      "lidenghui-zhenmianmu-1991-04-06-to-05-03-writes-lee-political-identity-critiques",
+      "li-ao-dageda-105-reads-1989-kmt-speech-saying-china-only-one-and-must-unify"
+    ],
+    "view": [
+      "写作线",
+      "人物研究线",
+      "政治线",
+      "制度线"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "lidenghui-jiamianju-round001-closeout",
+    "id": "lidenghui-jiamianju-1992-03-18-writes-critique-of-228-research-report",
+    "date": "1992-03-18",
+    "year": 1992,
+    "month": 3,
+    "day": 18,
+    "displayDate": "1992年3月18日",
+    "datePrecision": "day",
+    "title": "李敖写长文批评李登辉指示下的《“二二八事件”研究报告》",
+    "summary": "1992年3月18日，李敖写《评李登辉指示〈“二二八事件”研究报告〉》。他指出二二八45周年时行政院研究二二八事件小组推出报告，源于李登辉敦请邱创焕探讨后指示行政院成立小组，政治目的明显；全文从委员和研究员组成、资料引用、外省人死伤与主犯名单处理、刘青山之死、死亡人数人口学推计等方面批评报告。李敖还记录2月29日在民主基金会公开质问赖泽涵、陈三井当场声明附录为夹带的情形，并在结论中声明自己只谈真相真理、无关省籍。",
+    "source": {
+      "book": "李登辉的假面具",
+      "chapter": "020.评李登辉指示《“二二八事件”研究报告》.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/007.李登辉的假面具/020.评李登辉指示《“二二八事件”研究报告》.txt",
+      "line": 517,
+      "lines": [
+        3,
+        11,
+        15,
+        17,
+        49,
+        101,
+        127,
+        251,
+        273,
+        499,
+        501,
+        515,
+        517
+      ]
+    },
+    "additionalSources": [],
+    "people": [
+      "李敖",
+      "李登辉",
+      "邱创焕",
+      "赖泽涵",
+      "陈三井",
+      "刘青山",
+      "林衡道",
+      "陈仪"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "嘉义"
+    ],
+    "works": [
+      "李登辉的假面具",
+      "评李登辉指示《“二二八事件”研究报告》",
+      "“二二八事件”研究报告",
+      "大溪档案",
+      "嘉义市三二事变报告书"
+    ],
+    "tags": [
+      "李登辉研究",
+      "二二八",
+      "研究报告",
+      "赖泽涵",
+      "民主基金会",
+      "历史研究"
+    ],
+    "crossReferences": [
+      "li-ao-suixielu-houji-1992-02-29-speaks-at-democracy-foundation-228-research-report-and-tv-news",
+      "li-ao-shuxuji-xuji-1989-02-27-to-28-launches-228-research-three-books",
+      "li-ao-dageda-039-argues-fourth-stage-of-228-was-taiwanese-killing-taiwanese"
+    ],
+    "view": [
+      "写作线",
+      "人物研究线",
+      "政治线",
+      "二二八线",
+      "历史线"
+    ]
+  },
+  {
+    "category": "political-investigation-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "lidenghui-jiamianju-round001-closeout",
+    "id": "lidenghui-jiamianju-1996-03-13-writes-hongxi-villa-corruption-investigation-report-with-qi",
+    "date": "1996-03-13",
+    "year": 1996,
+    "month": 3,
+    "day": 13,
+    "displayDate": "1996年3月13日",
+    "datePrecision": "day",
+    "title": "李敖与亓丰瑜合写李登辉“鸿禧山庄”贪污舞弊案调查报告",
+    "summary": "1996年3月13日，李敖写成《李登辉“鸿禧山庄”贪污舞弊案调查报告》，附记说明本文与亓丰瑜合写。报告从曾文惠、张月云3月3日回应谈起，追查李登辉成为鸿禧山庄第一客户、总统牌促销与行政护航、1992年4月底至5月初曾文惠登记购买、1993年12月23日水利用地变更、道路用地和违建流程、房产估价与公证价差、赠与税与逃漏税等问题；结论列出第一名客户官商勾结、道路违建、水利用地变更、以显著不当代价取得房产、三次逃漏税，并指出涉及刑法不正利益。本条记录原始调查报告，后续节目展示和诉讼只作crossReferences。",
+    "source": {
+      "book": "李登辉的假面具",
+      "chapter": "021.李登辉“鸿禧山庄”贪污舞弊案调查报告.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/007.李登辉的假面具/021.李登辉“鸿禧山庄”贪污舞弊案调查报告.txt",
+      "line": 257,
+      "lines": [
+        3,
+        17,
+        23,
+        85,
+        93,
+        95,
+        125,
+        143,
+        181,
+        197,
+        241,
+        243,
+        255,
+        257,
+        259
+      ]
+    },
+    "additionalSources": [],
+    "people": [
+      "李敖",
+      "亓丰瑜",
+      "李登辉",
+      "曾文惠",
+      "张月云",
+      "周玉蔻",
+      "吴伯雄",
+      "连战",
+      "蔡万才",
+      "李庆元",
+      "张福淙"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "鸿禧山庄"
+    ],
+    "works": [
+      "李登辉的假面具",
+      "李登辉“鸿禧山庄”贪污舞弊案调查报告",
+      "商业周刊",
+      "时报周刊",
+      "天机",
+      "总统夫人也避税"
+    ],
+    "tags": [
+      "李登辉研究",
+      "鸿禧山庄",
+      "亓丰瑜",
+      "曾文惠",
+      "贪污舞弊",
+      "调查报告",
+      "官商勾结"
+    ],
+    "crossReferences": [
+      "li-ao-dageda-023-recalls-hongxi-investigation-with-qi-fengyu",
+      "li-ao-dageda-023-presents-land-use-documents-against-lee-tenghui",
+      "tiaozhan-li-ao-1999-10-12-says-he-and-qi-fengyu-investigated-hongxi-eighteen-times",
+      "tiaozhan-li-ao-1999-12-27-recalls-hongxi-report-with-qi-fengyu",
+      "li-ao-fangtanlu-2000-05-22-sues-lee-teng-hui-two-state-and-hongxi",
+      "li-ao-youhua-shuo-225-lists-ninth-hongxi-case-and-recalls-investigating-with-qi-fengyu"
+    ],
+    "view": [
+      "写作线",
+      "人物研究线",
+      "调查线",
+      "政治线",
+      "司法线"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "lidenghui-jiamianju-round001-closeout",
+    "id": "lidenghui-jiamianju-1996-03-27-writes-ccp-and-its-traitor-after-peoples-daily-confirmation",
+    "date": "1996-03-27",
+    "year": 1996,
+    "month": 3,
+    "day": 27,
+    "displayDate": "1996年3月27日",
+    "datePrecision": "day",
+    "title": "李敖写《中共和它的一个叛徒》，回顾中共承认李登辉背叛共产党",
+    "summary": "1996年3月27日，李敖写《中共和它的一个叛徒》。他回顾自己八年前于1988年9月17日发表《共产党李登辉出卖同志的官方证据》，借谷正文协助取得《历年办理匪案汇编》坐实李登辉问题；随后10月3日、10月16日继续写文，并与其他四十篇合编成1993年5月出版、已六版以上的《李登辉的真面目》。文章指出中共直到1995年7月24日《人民日报》一评李登辉康奈尔演讲时，才首次承认李登辉早年加入过中国共产党、后来背叛了。本条记录1996年的回顾和中共确认语境，不重复1988年证据笔战。",
+    "source": {
+      "book": "李登辉的假面具",
+      "chapter": "022.中共和它的一个叛徒.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/007.李登辉的假面具/022.中共和它的一个叛徒.txt",
+      "line": 13,
+      "lines": [
+        5,
+        7,
+        9,
+        13
+      ]
+    },
+    "additionalSources": [],
+    "people": [
+      "李敖",
+      "李登辉",
+      "谷正文"
+    ],
+    "places": [
+      "台湾",
+      "北京",
+      "康奈尔大学"
+    ],
+    "works": [
+      "李登辉的假面具",
+      "中共和它的一个叛徒",
+      "共产党李登辉出卖同志的官方证据",
+      "李登辉的真面目",
+      "人民日报",
+      "历年办理匪案汇编"
+    ],
+    "tags": [
+      "李登辉研究",
+      "共产党李登辉",
+      "人民日报",
+      "康奈尔演讲",
+      "历年办理匪案汇编",
+      "回顾"
+    ],
+    "crossReferences": [
+      "lidenghui-zhenmianmu-1988-09-17-to-11-07-wuya-ccp-evidence-debate-with-gu",
+      "lidenghui-zhenmianmu-1993-02-20-writes-introduction-and-compiles-monkey-show-essays",
+      "li-ao-xiaoao-jianghu-1996-02-29-after-shows-feian-huibian-and-garrison-judgment-on-lee-teng-hui",
+      "tiaozhan-li-ao-1999-09-28-shows-lee-teng-hui-true-face-and-feian-huibian"
+    ],
+    "view": [
+      "写作线",
+      "人物研究线",
+      "政治线",
+      "两岸线"
+    ]
+  }
+]

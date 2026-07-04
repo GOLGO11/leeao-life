@@ -43812,7 +43812,8 @@
       ]
     },
     "crossReferences": [
-      "li-ao-dageda-034-recalls-childhood-beijing-and-new-hsien-primary-school"
+      "li-ao-dageda-034-recalls-childhood-beijing-and-new-hsien-primary-school",
+      "li-ao-laidianji-2000-06-28-publishes-old-man-skating-picture"
     ]
   },
   {
@@ -129221,7 +129222,21 @@
       "chapter": "366.2005-08-01：哭泣的狮子.txt",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/007.李敖有话说/366.2005-08-01：哭泣的狮子.txt",
       "line": 9
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "胡适与我",
+        "chapter": "007.残存日记中的爱国者.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/003.胡适与我/007.残存日记中的爱国者.txt",
+        "line": 317,
+        "lines": [
+          315,
+          317,
+          319
+        ],
+        "note": "《胡适与我》收录原文，文末署1979年7月2日，并标明《中国时报》1979年7月16-17日刊出。"
+      }
+    ]
   },
   {
     "id": "li-ao-youhua-shuo-366-reads-his-article-and-analyzes-li-ao-style-pressure",

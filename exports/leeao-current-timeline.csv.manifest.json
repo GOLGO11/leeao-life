@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T15:18:35.624Z",
+  "generatedAt": "2026-07-04T14:19:49.345Z",
   "source": "exports/leeao-current-timeline.txt 的同源 JSON 数据",
   "fullCsv": "exports/leeao-current-timeline.csv",
   "partSize": 1000,
@@ -134,9 +134,19 @@
     "data/timeline-events-li-ao-zhenglun-zongyiji.json",
     "data/timeline-events-li-ao-shenzhou-cultural-trip.json",
     "data/timeline-events-li-ao-fangdianji.json",
-    "data/timeline-events-li-ao-fadianji.json"
+    "data/timeline-events-li-ao-fadianji.json",
+    "data/timeline-events-li-ao-songdianji.json",
+    "data/timeline-events-li-ao-laidianji.json",
+    "data/timeline-events-li-ao-tongdianji.json",
+    "data/timeline-events-hushi-yanjiu.json",
+    "data/timeline-events-hushi-pingzhuan.json",
+    "data/timeline-events-hushi-yuwo.json",
+    "data/timeline-events-sunyixian-xihua-yixue.json",
+    "data/timeline-events-sunzhongshan-yanjiu.json",
+    "data/timeline-events-lidenghui-zhenmianmu.json",
+    "data/timeline-events-lidenghui-jiamianju.json"
   ],
-  "eventCount": 27452,
+  "eventCount": 27574,
   "columns": [
     "row",
     "year",

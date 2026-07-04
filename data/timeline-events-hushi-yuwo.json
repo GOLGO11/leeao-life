@@ -1,0 +1,885 @@
+[
+  {
+    "category": "research-writing",
+    "type": "李敖当事人事件",
+    "additionalSources": [],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "hushi-yuwo-round001-closeout",
+    "id": "hushi-yuwo-1961-10-19-writes-hu-shih-not-afraid-of-wife",
+    "date": "1961-10-19",
+    "year": 1961,
+    "month": 10,
+    "day": 19,
+    "displayDate": "1961年10月19日星期四晨",
+    "datePrecision": "day",
+    "title": "李敖晨写《胡适之不怕老婆考》",
+    "summary": "《胡适之不怕老婆考》文末署“李敖 1961年10月19日晨”。李敖以胡适宣传怕太太、江冬秀受访以及胡适晚年谈话等材料，写成一篇戏谑式考证文字，作为他早期胡适小品与考据文字的一环。",
+    "source": {
+      "book": "胡适与我",
+      "chapter": "003.胡适之不怕老婆考.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/003.胡适与我/003.胡适之不怕老婆考.txt",
+      "line": 19,
+      "lines": [
+        5,
+        15,
+        17,
+        19
+      ]
+    },
+    "people": [
+      "李敖",
+      "胡适",
+      "江冬秀",
+      "赵元任"
+    ],
+    "places": [
+      "南港",
+      "台湾"
+    ],
+    "works": [
+      "胡适与我",
+      "胡适之不怕老婆考"
+    ],
+    "tags": [
+      "胡适与我",
+      "第一轮",
+      "第003章",
+      "胡适",
+      "江冬秀",
+      "怕太太",
+      "小品考证"
+    ],
+    "crossReferences": [],
+    "view": [
+      "写作线",
+      "人物研究线",
+      "交游线"
+    ]
+  },
+  {
+    "category": "research-writing",
+    "type": "李敖当事人事件",
+    "additionalSources": [],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "hushi-yuwo-round001-closeout",
+    "id": "hushi-yuwo-1965-06-01-publishes-hu-huo-or-huo-hu-refutation",
+    "date": "1965-06-01",
+    "year": 1965,
+    "month": 6,
+    "day": 1,
+    "displayDate": "1965年6月1日星期二",
+    "datePrecision": "day",
+    "title": "李敖在《人间世》发表《胡祸呢？还是祸胡？》",
+    "summary": "《胡祸呢？还是祸胡？》末署原登《人间世》第七卷第七期、再复刊第二号，1965年6月1日。李敖承接1962年《为〈播种者胡适〉翻旧账》的六派分类，三年后再把“叛胡派”“阳捧阴抑派”纳入批判，并集中反击《胡祸丛谈》对胡适的栽赃式攻击。",
+    "source": {
+      "book": "胡适与我",
+      "chapter": "004.胡祸呢？还是祸胡？.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/003.胡适与我/004.胡祸呢？还是祸胡？.txt",
+      "line": 97,
+      "lines": [
+        3,
+        21,
+        63,
+        81,
+        91,
+        97
+      ]
+    },
+    "people": [
+      "李敖",
+      "胡适",
+      "殷海光",
+      "沈刚伯",
+      "郑学稼",
+      "任卓宣"
+    ],
+    "places": [
+      "台湾",
+      "台北"
+    ],
+    "works": [
+      "胡适与我",
+      "胡祸呢？还是祸胡？",
+      "人间世",
+      "为《播种者胡适》翻旧账",
+      "胡祸丛谈",
+      "胡适与国运"
+    ],
+    "tags": [
+      "胡适与我",
+      "第一轮",
+      "第004章",
+      "人间世",
+      "胡祸丛谈",
+      "播种者胡适",
+      "论战"
+    ],
+    "crossReferences": [
+      "book2-1962-01-01-sower-hu-shih",
+      "hushi-yanjiu-1962-02-24-to-03-01-writes-hu-shih-death-and-sower-debate-followups"
+    ],
+    "view": [
+      "写作线",
+      "出版线",
+      "论战线",
+      "人物研究线"
+    ]
+  },
+  {
+    "category": "research-writing",
+    "type": "李敖当事人事件",
+    "additionalSources": [],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "hushi-yuwo-round001-closeout",
+    "id": "hushi-yuwo-1967-05-to-1968-01-publishes-hu-shih-and-three-people",
+    "date": "1967-05-01",
+    "endDate": "1968-01-01",
+    "year": 1967,
+    "month": 5,
+    "displayDate": "1967年5月至1968年1月",
+    "datePrecision": "range",
+    "title": "李敖在《传记文学》连刊《胡适和三个人》系列",
+    "summary": "《胡适和三个人》由三组人物研究文字合成：有关陈衡哲与胡适的一篇刊于《传记文学》第十卷第五期（1967年5月），有关章炳麟与胡适的一篇刊于第十一卷第四期（1967年10月），有关蔡元培与胡适的一篇刊于第十二卷第一期（1968年1月）。本条按同一组胡适人物关系研究合并，不拆三人的生平材料。",
+    "source": {
+      "book": "胡适与我",
+      "chapter": "005.胡适和三个人.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/003.胡适与我/005.胡适和三个人.txt",
+      "line": 65,
+      "lines": [
+        3,
+        27,
+        45,
+        65,
+        67,
+        183,
+        185,
+        313
+      ]
+    },
+    "people": [
+      "李敖",
+      "胡适",
+      "陈衡哲",
+      "章炳麟",
+      "蔡元培",
+      "任鸿隽"
+    ],
+    "places": [
+      "台湾",
+      "台北"
+    ],
+    "works": [
+      "胡适与我",
+      "胡适和三个人",
+      "传记文学",
+      "十日谈",
+      "胡适文存二集"
+    ],
+    "tags": [
+      "胡适与我",
+      "第一轮",
+      "第005章",
+      "传记文学",
+      "陈衡哲",
+      "章炳麟",
+      "蔡元培",
+      "人物研究"
+    ],
+    "crossReferences": [],
+    "view": [
+      "写作线",
+      "出版线",
+      "人物研究线"
+    ]
+  },
+  {
+    "category": "research-writing",
+    "type": "李敖当事人事件",
+    "additionalSources": [],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "hushi-yuwo-round001-closeout",
+    "id": "hushi-yuwo-1970-04-20-compiles-hu-shih-yucui-preface",
+    "date": "1970-04-20",
+    "year": 1970,
+    "month": 4,
+    "day": 20,
+    "displayDate": "1970年4月20日星期一",
+    "datePrecision": "day",
+    "title": "李敖写《胡适语粹》序目，完成五百单元式胡适思想选粹",
+    "summary": "《〈胡适语粹〉序目》署1970年4月20日。李敖说明《胡适语粹》以胡适主要专书和文字汇集为基料，按哲学、宗教、政治、教育、文学、人物等大类编成五百个小单元，并把这种分类编印视为对胡适遗著整理迟滞的一点抗议与功德。",
+    "source": {
+      "book": "胡适与我",
+      "chapter": "006.《胡适语粹》序目.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/003.胡适与我/006.《胡适语粹》序目.txt",
+      "line": 67,
+      "lines": [
+        3,
+        17,
+        59,
+        65,
+        67
+      ]
+    },
+    "people": [
+      "李敖",
+      "胡适"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "胡适与我",
+      "胡适语粹",
+      "胡适文存",
+      "胡适选集",
+      "胡适文选"
+    ],
+    "tags": [
+      "胡适与我",
+      "第一轮",
+      "第006章",
+      "胡适语粹",
+      "编选",
+      "五百单元",
+      "胡适遗著"
+    ],
+    "crossReferences": [
+      "li-ao-wuwu-diary-1990-12-08-minshengbao-publishes-bainian-guji-and-hushi-yucui",
+      "ni-bendan-2002-02-07-writes-new-preface-for-hu-shi-yucui",
+      "li-ao-dageda-029-announces-reprint-of-hu-shih-yucui-at-book-fair"
+    ],
+    "view": [
+      "写作线",
+      "出版线",
+      "人物研究线",
+      "资料线"
+    ]
+  },
+  {
+    "category": "research-writing",
+    "type": "李敖当事人事件",
+    "additionalSources": [],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "hushi-yuwo-round001-closeout",
+    "id": "hushi-yuwo-1983-01-16-writes-small-countercurrent-big-return",
+    "date": "1983-01-16",
+    "year": 1983,
+    "month": 1,
+    "day": 16,
+    "displayDate": "1983年1月16日星期日深夜",
+    "datePrecision": "day",
+    "title": "李敖一口气写完《从小逆流到大回归》",
+    "summary": "《从小逆流到大回归》末署“一九八三年一月十六日深夜一口气写完”。李敖以胡适1947年至1954年间有关自由民主、苏联与社会主义的文字为线索，整理胡适思想由“小逆流”警觉到反共反极权“大回归”的过程。",
+    "source": {
+      "book": "胡适与我",
+      "chapter": "008.从小逆流到大回归.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/003.胡适与我/008.从小逆流到大回归.txt",
+      "line": 142,
+      "lines": [
+        3,
+        35,
+        112,
+        126,
+        138,
+        140,
+        142
+      ]
+    },
+    "people": [
+      "李敖",
+      "胡适",
+      "周鲠生",
+      "陈独秀"
+    ],
+    "places": [
+      "台湾",
+      "中国",
+      "美国"
+    ],
+    "works": [
+      "胡适与我",
+      "从小逆流到大回归",
+      "眼前世界文化的趋向",
+      "从<到奴役之路>说起"
+    ],
+    "tags": [
+      "胡适与我",
+      "第一轮",
+      "第008章",
+      "苏联",
+      "社会主义",
+      "自由民主",
+      "思想史"
+    ],
+    "crossReferences": [
+      "hushi-yanjiu-1956-03-to-1963-03-01-drafts-and-reworks-hu-shih-soviet-russia-four-stages"
+    ],
+    "view": [
+      "写作线",
+      "思想线",
+      "人物研究线"
+    ]
+  },
+  {
+    "category": "research-writing",
+    "type": "李敖当事人事件",
+    "additionalSources": [
+      {
+        "book": "胡适与我",
+        "chapter": "010.一贯作业搜奇.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/003.胡适与我/010.一贯作业搜奇.txt",
+        "line": 161,
+        "lines": [
+          3,
+          15,
+          151,
+          153,
+          157,
+          159,
+          161
+        ],
+        "note": "1983年2月2日夜深，李敖写成《一贯作业搜奇》，追查《胡适选集》案的全套作业。"
+      },
+      {
+        "book": "胡适与我",
+        "chapter": "011.“你们后死有责！”.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/003.胡适与我/011.“你们后死有责！”.txt",
+        "line": 63,
+        "lines": [
+          7,
+          9,
+          57,
+          59,
+          63,
+          85,
+          91,
+          93,
+          99,
+          103,
+          107
+        ],
+        "note": "1983年2月3日晨致陈宏正，说明两篇文章与《胡适全集》追问，并附1971年押房中的全集计划。"
+      }
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "hushi-yuwo-round001-closeout",
+    "id": "hushi-yuwo-1983-01-31-to-02-03-writes-hu-shih-posthumous-works-and-complete-works-push",
+    "date": "1983-01-31",
+    "endDate": "1983-02-03",
+    "year": 1983,
+    "month": 1,
+    "day": 31,
+    "displayDate": "1983年1月31日至2月3日",
+    "datePrecision": "range",
+    "title": "李敖连写胡适身后事与《胡适选集》案，并致陈宏正追问《胡适全集》",
+    "summary": "1983年1月31日晚，李敖花十小时写成《“千秋万岁名，寂寞身后事”》，把胡适一千元旧恩、自己编《胡适选集》和国民党封杀案连成“借一千，还十万”的身后事；2月2日夜深又写《一贯作业搜奇》，公布《胡适选集》案背后的著作权与司法流程；2月3日晨致陈宏正信《“你们后死有责！”》，说明已先写两文，并附出1971年押房中写下的《〈胡适全集〉计划》。本条合并为同一场胡适遗著与全集整理追问。",
+    "source": {
+      "book": "胡适与我",
+      "chapter": "009.“千秋万岁名，寂寞身后事”.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/003.胡适与我/009.“千秋万岁名，寂寞身后事”.txt",
+      "line": 187,
+      "lines": [
+        19,
+        71,
+        75,
+        183,
+        185,
+        187
+      ]
+    },
+    "people": [
+      "李敖",
+      "胡适",
+      "陈宏正",
+      "唐德刚",
+      "王志维",
+      "杨联陞",
+      "毛子水",
+      "刘绍唐",
+      "江冬秀"
+    ],
+    "places": [
+      "台湾",
+      "警备总部保安处押房"
+    ],
+    "works": [
+      "胡适与我",
+      "“千秋万岁名，寂寞身后事”",
+      "一贯作业搜奇",
+      "“你们后死有责！”",
+      "胡适选集",
+      "胡适全集"
+    ],
+    "tags": [
+      "胡适与我",
+      "第一轮",
+      "第009章",
+      "第010章",
+      "第011章",
+      "胡适选集",
+      "胡适全集",
+      "陈宏正",
+      "著作权",
+      "押房计划"
+    ],
+    "crossReferences": [
+      "1961-10-07-hu-check",
+      "li-ao-shuzhaji-1983-02-27-writes-liu-shaotang-on-hu-shi-complete-works-and-biography-literature"
+    ],
+    "view": [
+      "写作线",
+      "出版线",
+      "人物研究线",
+      "资料线",
+      "司法线"
+    ]
+  },
+  {
+    "category": "research-writing",
+    "type": "李敖当事人事件",
+    "additionalSources": [],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "hushi-yuwo-round001-closeout",
+    "id": "hushi-yuwo-1984-05-09-writes-leopard-skin-on-hu-shih-chronicle",
+    "date": "1984-05-09",
+    "year": 1984,
+    "month": 5,
+    "day": 9,
+    "displayDate": "1984年5月9日星期三",
+    "datePrecision": "day",
+    "title": "李敖写《豹死留了什么皮？》，批评《胡适之先生年谱长编初稿》删改胡适",
+    "summary": "《豹死留了什么皮？》署“敖之 1984年5月9日”。李敖感谢陈宏正送来《胡适之先生年谱长编初稿》《胡适之先生晚年谈话录》，随后以1929年胡适反国民党文字被硬删为例，批评年谱整理者不忠实，并把这件事接回《胡适选集》被封杀与《胡适全集》胎死的旧线。",
+    "source": {
+      "book": "胡适与我",
+      "chapter": "012.豹死留了什么皮？.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/003.胡适与我/012.豹死留了什么皮？.txt",
+      "line": 101,
+      "lines": [
+        5,
+        9,
+        79,
+        81,
+        83,
+        91,
+        99,
+        101
+      ]
+    },
+    "people": [
+      "李敖",
+      "胡适",
+      "陈宏正",
+      "胡颂平",
+      "王世杰",
+      "陈雪屏",
+      "唐德刚"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "胡适与我",
+      "豹死留了什么皮？",
+      "胡适之先生年谱长编初稿",
+      "胡适之先生晚年谈话录",
+      "胡适选集",
+      "胡适全集"
+    ],
+    "tags": [
+      "胡适与我",
+      "第一轮",
+      "第012章",
+      "胡适年谱",
+      "胡颂平",
+      "胡适选集",
+      "胡适全集",
+      "删改"
+    ],
+    "crossReferences": [
+      "hushi-yuwo-1983-01-31-to-02-03-writes-hu-shih-posthumous-works-and-complete-works-push"
+    ],
+    "view": [
+      "写作线",
+      "人物研究线",
+      "资料线",
+      "出版线"
+    ]
+  },
+  {
+    "category": "research-writing",
+    "type": "李敖当事人事件",
+    "additionalSources": [
+      {
+        "book": "胡适与我",
+        "chapter": "013.用胡适给傅斯年的一封私信收尾.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/003.胡适与我/013.用胡适给傅斯年的一封私信收尾.txt",
+        "line": 351,
+        "lines": [
+          349,
+          351,
+          353,
+          355
+        ],
+        "note": "文末附注补记李敖与胡适曾一起考据蒋廷黻是否加入复兴社的谈话。"
+      }
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "hushi-yuwo-round001-closeout",
+    "id": "hushi-yuwo-1986-03-02-writes-democracy-dictatorship-with-hu-fu-letter",
+    "date": "1986-03-02",
+    "year": 1986,
+    "month": 3,
+    "day": 2,
+    "displayDate": "1986年3月2日星期日夜",
+    "datePrecision": "day",
+    "title": "李敖写《用胡适给傅斯年的一封私信收尾》，重申胡适民主思想地位",
+    "summary": "《用胡适给傅斯年的一封私信收尾》末署1986年3月2日夜。李敖从自己二十五年前《播种者胡适》的论断写起，回应张忠栋纪念演讲中的错误，决定重读民治与独裁论战原始文献，并用胡适给傅斯年的私信为长文收尾，重新肯定胡适在中国民主思想上的地位。",
+    "source": {
+      "book": "胡适与我",
+      "chapter": "013.用胡适给傅斯年的一封私信收尾.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/003.胡适与我/013.用胡适给傅斯年的一封私信收尾.txt",
+      "line": 331,
+      "lines": [
+        5,
+        21,
+        23,
+        321,
+        329,
+        331
+      ]
+    },
+    "people": [
+      "李敖",
+      "胡适",
+      "傅斯年",
+      "张忠栋",
+      "蒋廷黻",
+      "钱端升",
+      "吴景超",
+      "丁文江",
+      "钱思亮"
+    ],
+    "places": [
+      "台湾",
+      "台北"
+    ],
+    "works": [
+      "胡适与我",
+      "用胡适给傅斯年的一封私信收尾",
+      "播种者胡适",
+      "在动乱中坚持民主的胡适",
+      "独立评论"
+    ],
+    "tags": [
+      "胡适与我",
+      "第一轮",
+      "第013章",
+      "民主思想",
+      "民治与独裁",
+      "傅斯年",
+      "张忠栋",
+      "独立评论"
+    ],
+    "crossReferences": [
+      "book2-1962-01-01-sower-hu-shih",
+      "book7-1963-summer-qian-siliang-reveals-hu-shi-left-an-unfinished-letter",
+      "li-ao-zhaji-1986-03-06-corrects-zhang-zhongdong-hu-shih-errors"
+    ],
+    "view": [
+      "写作线",
+      "思想线",
+      "人物研究线",
+      "论战线"
+    ]
+  },
+  {
+    "category": "research-writing",
+    "type": "李敖当事人事件",
+    "additionalSources": [],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "hushi-yuwo-round001-closeout",
+    "id": "hushi-yuwo-1987-02-11-writes-martial-arts-novel-inferior-note",
+    "date": "1987-02-11",
+    "year": 1987,
+    "month": 2,
+    "day": 11,
+    "displayDate": "1987年2月11日星期三",
+    "datePrecision": "day",
+    "title": "李敖写《武侠小说，下流！》，排比胡适反对报纸刊武侠小说的材料",
+    "summary": "《武侠小说，下流！》署1987年2月11日。李敖对照胡颂平《胡适之先生晚年谈话录》和雷啸岑回忆，说明胡适认为以政论理想办报不宜刊武侠小说，并以“下流”指其不入流；李敖由此写成一则胡适文学标准与报纸原则的小考。",
+    "source": {
+      "book": "胡适与我",
+      "chapter": "014.武侠小说，下流！.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/003.胡适与我/014.武侠小说，下流！.txt",
+      "line": 13,
+      "lines": [
+        1,
+        3,
+        5,
+        7,
+        9,
+        11,
+        13
+      ]
+    },
+    "people": [
+      "李敖",
+      "胡适",
+      "胡颂平",
+      "雷啸岑",
+      "彭浩一"
+    ],
+    "places": [
+      "台湾",
+      "香港"
+    ],
+    "works": [
+      "胡适与我",
+      "武侠小说，下流！",
+      "胡适之先生晚年谈话录",
+      "自由报"
+    ],
+    "tags": [
+      "胡适与我",
+      "第一轮",
+      "第014章",
+      "武侠小说",
+      "自由报",
+      "雷啸岑",
+      "文学标准"
+    ],
+    "crossReferences": [],
+    "view": [
+      "写作线",
+      "人物研究线",
+      "媒体线"
+    ]
+  },
+  {
+    "category": "research-writing",
+    "type": "李敖当事人事件",
+    "additionalSources": [],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "hushi-yuwo-round001-closeout",
+    "id": "hushi-yuwo-1990-09-02-writes-qian-mu-and-hu-shih-on-chiang-illegal-reelection",
+    "date": "1990-09-02",
+    "year": 1990,
+    "month": 9,
+    "day": 2,
+    "displayDate": "1990年9月2日星期日",
+    "datePrecision": "day",
+    "title": "李敖写《从蒋介石非法连任看钱穆与胡适》",
+    "summary": "《从蒋介石非法连任看钱穆与胡适》署1990年9月2日。李敖借钱穆去世后余英时等人的颂词，比较钱穆与胡适对蒋介石1960年第三任“总统”问题的态度，并利用当年出版的《王世杰日记》材料，批评钱穆媚俗、同时指出胡适虽有立场但仍显委蛇。",
+    "source": {
+      "book": "胡适与我",
+      "chapter": "017.从蒋介石非法连任看钱穆与胡适.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/003.胡适与我/017.从蒋介石非法连任看钱穆与胡适.txt",
+      "line": 75,
+      "lines": [
+        3,
+        13,
+        21,
+        71,
+        73,
+        75
+      ]
+    },
+    "people": [
+      "李敖",
+      "胡适",
+      "钱穆",
+      "蒋介石",
+      "余英时",
+      "王世杰"
+    ],
+    "places": [
+      "台湾",
+      "台北"
+    ],
+    "works": [
+      "胡适与我",
+      "从蒋介石非法连任看钱穆与胡适",
+      "王世杰日记",
+      "屡蒙总统召见之回忆"
+    ],
+    "tags": [
+      "胡适与我",
+      "第一轮",
+      "第017章",
+      "钱穆",
+      "蒋介石",
+      "非法连任",
+      "王世杰日记",
+      "余英时"
+    ],
+    "crossReferences": [],
+    "view": [
+      "写作线",
+      "政治线",
+      "人物研究线"
+    ]
+  },
+  {
+    "category": "research-writing",
+    "type": "李敖当事人事件",
+    "additionalSources": [
+      {
+        "book": "胡适与我",
+        "chapter": "019.蒋介石与胡适密件之二.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/003.胡适与我/019.蒋介石与胡适密件之二.txt",
+        "line": 21,
+        "lines": [
+          3,
+          9,
+          11,
+          15,
+          17,
+          19,
+          21
+        ],
+        "note": "同日第二篇，据胡适纪念馆展出蒋介石1949年5月28日致胡适亲笔信继续考证。"
+      }
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "hushi-yuwo-round001-closeout",
+    "id": "hushi-yuwo-1990-11-12-writes-chiang-and-hu-shih-secret-documents",
+    "date": "1990-11-12",
+    "year": 1990,
+    "month": 11,
+    "day": 12,
+    "displayDate": "1990年11月12日星期一",
+    "datePrecision": "day",
+    "title": "李敖写《蒋介石与胡适密件》两篇，以收藏密件补证胡适赴美宣传内情",
+    "summary": "《蒋介石与胡适密件之一》《之二》均署1990年11月12日。李敖先公布自己收藏的1937年王世杰呈文和蒋介石代电，说明胡适赴美宣传计划与王世杰日记互证；又据胡适纪念馆展出的1949年蒋介石致胡适亲笔信，讨论蒋介石请胡适在美争取道义支援的落空。本条合并两篇同日密件考证，不拆1937与1949为两条。",
+    "source": {
+      "book": "胡适与我",
+      "chapter": "018.蒋介石与胡适密件之一.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/003.胡适与我/018.蒋介石与胡适密件之一.txt",
+      "line": 45,
+      "lines": [
+        3,
+        5,
+        35,
+        39,
+        41,
+        43,
+        45
+      ]
+    },
+    "people": [
+      "李敖",
+      "胡适",
+      "蒋介石",
+      "王世杰",
+      "钱端升",
+      "张彭春",
+      "傅斯年",
+      "顾维钧",
+      "雷震"
+    ],
+    "places": [
+      "台湾",
+      "南京",
+      "美国",
+      "上海"
+    ],
+    "works": [
+      "胡适与我",
+      "蒋介石与胡适密件之一",
+      "蒋介石与胡适密件之二",
+      "王世杰日记",
+      "残存日记中的爱国者"
+    ],
+    "tags": [
+      "胡适与我",
+      "第一轮",
+      "第018章",
+      "第019章",
+      "密件",
+      "王世杰",
+      "蒋介石",
+      "胡适纪念馆",
+      "赴美宣传"
+    ],
+    "crossReferences": [
+      "li-ao-youhua-shuo-366-writes-patriot-in-surviving-diary-article",
+      "hushi-yuwo-1990-09-02-writes-qian-mu-and-hu-shih-on-chiang-illegal-reelection"
+    ],
+    "view": [
+      "写作线",
+      "资料线",
+      "政治线",
+      "人物研究线"
+    ]
+  },
+  {
+    "category": "research-writing",
+    "type": "李敖当事人事件",
+    "additionalSources": [],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "hushi-yuwo-round001-closeout",
+    "id": "hushi-yuwo-1990-11-24-writes-preface-for-hu-shih-and-me",
+    "date": "1990-11-24",
+    "year": 1990,
+    "month": 11,
+    "day": 24,
+    "displayDate": "1990年11月24日星期六夜二时半",
+    "datePrecision": "day",
+    "title": "李敖写《胡适与我》自序，以胡适百年冥诞结集辨伪",
+    "summary": "《胡适与我》自序署1990年11月24日夜二时半。李敖从二十年前由萌芽出版社印行《胡适给赵元任的信》谈起，解释胡适“交友以自大其身，求士以求此身之不朽”的心意，并以1990年12月17日胡适百年冥诞为契机，结集《胡适与我》以辨所谓胡适专家的真伪。",
+    "source": {
+      "book": "胡适与我",
+      "chapter": "《胡适与我》自序.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/003.胡适与我/《胡适与我》自序.txt",
+      "line": 15,
+      "lines": [
+        3,
+        11,
+        13,
+        15
+      ]
+    },
+    "people": [
+      "李敖",
+      "胡适",
+      "赵元任",
+      "李恕谷"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "胡适与我",
+      "胡适给赵元任的信"
+    ],
+    "tags": [
+      "胡适与我",
+      "第一轮",
+      "自序",
+      "胡适百年冥诞",
+      "萌芽出版社",
+      "结集"
+    ],
+    "crossReferences": [
+      "li-ao-wuwu-diary-1990-12-08-minshengbao-publishes-bainian-guji-and-hushi-yucui",
+      "book7-1990-12-writes-hu-shi-bai-nian-gu-ji-for-xu-kaichen"
+    ],
+    "view": [
+      "写作线",
+      "出版线",
+      "人物研究线"
+    ]
+  }
+]
