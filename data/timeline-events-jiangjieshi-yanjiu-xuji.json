@@ -1,0 +1,1057 @@
+[
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "additionalSources": [
+      {
+        "book": "蒋介石研究续集",
+        "chapter": "《蒋介石研究续集》自序.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/017.蒋介石研究续集/《蒋介石研究续集》自序.txt",
+        "line": 3,
+        "lines": [
+          3,
+          9,
+          11
+        ],
+        "note": "自序说明第一本出版后两个多月再出版续集，并把全书定位为继续补充、追踪蒋介石真面目的研究。"
+      },
+      {
+        "book": "蒋介石研究续集",
+        "chapter": "《蒋介石研究续集》目录.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/017.蒋介石研究续集/《蒋介石研究续集》目录.txt",
+        "line": 1,
+        "lines": [
+          1,
+          3
+        ],
+        "note": "补入本书目录与自序位置，证明本轮按整本续集处理。"
+      }
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-xuji-round001-closeout",
+    "id": "jiangjieshi-yanjiu-xuji-1987-01-07-writes-sequel-preface-after-first-book-banned",
+    "date": "1987-01-07",
+    "year": 1987,
+    "month": 1,
+    "day": 7,
+    "displayDate": "1987年1月7日",
+    "datePrecision": "day",
+    "title": "李敖写《蒋介石研究续集》自序，把续集定位为第一本被禁后的继续追踪",
+    "summary": "1987年1月7日，李敖在台湾写《蒋介石研究续集》自序，说明《蒋介石研究》1986年10月31日出版后两个多月，他决定再出续集，以继续补充和追踪蒋介石真面目的事实与理由。他把蒋介石与西太后并列为近代中国长期祸国者，强调在台湾蒋家王朝的大本营里研究蒋介石困难重重，但仍要在资料封锁和众口一声的环境下做自由人。第一本出版、查禁和后来节目重述已有旧锚，本条只收续集自序与整本续作定位。",
+    "source": {
+      "book": "蒋介石研究续集",
+      "chapter": "《蒋介石研究续集》自序.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/017.蒋介石研究续集/《蒋介石研究续集》自序.txt",
+      "line": 13,
+      "lines": [
+        3,
+        9,
+        11,
+        13
+      ]
+    },
+    "people": [
+      "李敖",
+      "蒋介石",
+      "西太后"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "蒋介石研究",
+      "蒋介石研究续集"
+    ],
+    "tags": [
+      "蒋介石研究续集",
+      "自序",
+      "查禁后续",
+      "研究方法",
+      "蒋家王朝"
+    ],
+    "view": [
+      "作品线",
+      "史料线",
+      "政治线"
+    ],
+    "crossReferences": [
+      "jiangjieshi-yanjiu-1986-10-20-writes-preface-to-debunk-chiang-family-myths-with-evidence",
+      "book8-1987-01-22-chiang-kai-shek-study-sequel-banned",
+      "li-ao-zhaji-1987-02-19-records-garrison-searching-chiang-study-sequel",
+      "li-ao-youhua-shuo-058-shows-his-chiang-research-series-and-says-he-never-let-it-go"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "additionalSources": [
+      {
+        "book": "蒋介石研究续集",
+        "chapter": "001.蒋介石还是没加入“丈夫团”.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/017.蒋介石研究续集/001.蒋介石还是没加入“丈夫团”.txt",
+        "line": 5,
+        "lines": [
+          5,
+          7,
+          9,
+          91,
+          93
+        ],
+        "note": "第一章承接《千秋评论》旧文，补入官方《中华民国建国史》同样未列蒋介石加入丈夫团。"
+      }
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-xuji-round001-closeout",
+    "id": "jiangjieshi-yanjiu-xuji-1985-10-03-to-10-30-adds-husband-group-and-photo-evidence",
+    "date": "1985-10-03",
+    "year": 1985,
+    "month": 10,
+    "day": 3,
+    "displayDate": "1985年10月3日至10月30日",
+    "datePrecision": "date-range",
+    "title": "李敖补证蒋介石未入“丈夫团”，并质疑蒋介石与张群合照宣传",
+    "summary": "1985年10月3日至10月30日，李敖连续补写两篇早年履历考证：一篇以国民党官方《中华民国建国史》反证蒋介石并未列名同盟会“丈夫团”，讽刺警备总部若要查禁李敖旧文，也应一并查禁官书；另一篇质疑张群回忆与蒋介石合照如何被用来突出两人“潜行回国参加革命”，并指出当时受处分回国的并非只有蒋、张二人，国民党是以照片变造和湮灭其他人来制造亲密战友神话。第一本《蒋介石研究》已有早年履历神话总事件，本条只收续集新增的官方书证和照片证据。",
+    "source": {
+      "book": "蒋介石研究续集",
+      "chapter": "002.蒋介石与张群合照质疑.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/017.蒋介石研究续集/002.蒋介石与张群合照质疑.txt",
+      "line": 31,
+      "lines": [
+        21,
+        23,
+        31,
+        33
+      ]
+    },
+    "people": [
+      "李敖",
+      "蒋介石",
+      "张群",
+      "沈亦云",
+      "沈云龙",
+      "阎锡山",
+      "毛思诚"
+    ],
+    "places": [
+      "台湾",
+      "日本",
+      "东京"
+    ],
+    "works": [
+      "蒋介石研究续集",
+      "中华民国建国史",
+      "我与日本七十年",
+      "民国十五年以前之蒋介石先生"
+    ],
+    "tags": [
+      "丈夫团",
+      "张群合照",
+      "照片变造",
+      "早年履历",
+      "官方书证",
+      "宣传神话"
+    ],
+    "view": [
+      "史料线",
+      "写作线",
+      "政治线"
+    ],
+    "crossReferences": [
+      "jiangjieshi-yanjiu-1985-09-04-to-12-04-debunks-early-chiang-biography-myths",
+      "li-ao-mimi-shufang-021-shows-rosters-to-correct-military-school-claims",
+      "li-ao-youhua-shuo-059-shows-japanese-student-list-with-zhang-qun-but-no-chiang",
+      "li-ao-yumiao-tianxia-098-proves-chiang-not-japanese-military-academy"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "additionalSources": [
+      {
+        "book": "蒋介石研究续集",
+        "chapter": "003.蒋介石怎样暗杀革命元勋？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/017.蒋介石研究续集/003.蒋介石怎样暗杀革命元勋？.txt",
+        "line": 5,
+        "lines": [
+          5,
+          53,
+          117,
+          141,
+          213,
+          409,
+          411,
+          413
+        ],
+        "note": "长文从批评陈鼓应史料处理入手，追索陶成章案、陈其美与蒋介石责任，并在末尾注明写作日期。"
+      }
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-xuji-round001-closeout",
+    "id": "jiangjieshi-yanjiu-xuji-1985-05-08-writes-tao-chengzhang-assassination-case",
+    "date": "1985-05-08",
+    "year": 1985,
+    "month": 5,
+    "day": 8,
+    "displayDate": "1985年5月8日",
+    "datePrecision": "day",
+    "title": "李敖写长文重审陶成章被暗杀案，点出蒋介石作为主凶的证据链",
+    "summary": "1985年5月8日，李敖写《蒋介石怎样暗杀革命元勋？》，以评陈鼓应文章为入口，批评党外人士临时粗制滥造“国民党学”，并重新梳理陶成章被暗杀案。他追查陈其美在上海攫权后的杀机、蒋介石事后逃往日本的官书遮掩，以及辛亥老人和多种传记材料的共同指向，最后判断行刺时蒋介石为主凶、王竹卿为助凶。节目中对陶案的后来重述只作交叉引用，本条保留续集长文的研究动作。",
+    "source": {
+      "book": "蒋介石研究续集",
+      "chapter": "003.蒋介石怎样暗杀革命元勋？.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/017.蒋介石研究续集/003.蒋介石怎样暗杀革命元勋？.txt",
+      "line": 141,
+      "lines": [
+        5,
+        53,
+        117,
+        141,
+        213,
+        409,
+        411,
+        413
+      ]
+    },
+    "people": [
+      "李敖",
+      "蒋介石",
+      "陶成章",
+      "陈其美",
+      "陈鼓应",
+      "王竹卿",
+      "孙中山",
+      "章炳麟"
+    ],
+    "places": [
+      "上海",
+      "日本",
+      "浙江"
+    ],
+    "works": [
+      "蒋介石研究续集",
+      "蒋介石的第一次暗杀事件",
+      "蒋介石的第一次暗杀案件",
+      "传记文学"
+    ],
+    "tags": [
+      "陶成章案",
+      "陈其美",
+      "暗杀",
+      "国民党学",
+      "史料批评",
+      "辛亥革命"
+    ],
+    "view": [
+      "史料线",
+      "写作线",
+      "政治线"
+    ],
+    "crossReferences": [
+      "jiangjieshi-yanjiu-1984-11-07-to-1986-06-13-writes-on-chiang-party-power-and-propaganda",
+      "li-ao-youhua-shuo-059-explains-chiang-leveraged-tao-chengzhang-assassination-to-sun-yatsen",
+      "li-ao-youhua-shuo-058-shows-his-chiang-research-series-and-says-he-never-let-it-go"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "additionalSources": [
+      {
+        "book": "蒋介石研究续集",
+        "chapter": "004.蒋介石在肇和起义中算老几？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/017.蒋介石研究续集/004.蒋介石在肇和起义中算老几？.txt",
+        "line": 117,
+        "lines": [
+          117,
+          119,
+          121,
+          123,
+          127
+        ],
+        "note": "第四章把肇和起义中被国民党改写的杨虎角色重新放回革命史脉络。"
+      },
+      {
+        "book": "蒋介石研究续集",
+        "chapter": "005.蒋介石与江阴炮台.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/017.蒋介石研究续集/005.蒋介石与江阴炮台.txt",
+        "line": 117,
+        "lines": [
+          5,
+          117,
+          119
+        ],
+        "note": "第五章承接清晨肇和起义考证，继续谈江阴炮台与杨虎的侠骨柔情和勇敢犯难。"
+      }
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-xuji-round001-closeout",
+    "id": "jiangjieshi-yanjiu-xuji-1985-07-07-repositions-zhaohe-uprising-and-jiangyin-battery",
+    "date": "1985-07-07",
+    "year": 1985,
+    "month": 7,
+    "day": 7,
+    "displayDate": "1985年7月7日",
+    "datePrecision": "day",
+    "title": "李敖连写肇和起义与江阴炮台考证，把杨虎从蒋介石神话旁边拉回史实",
+    "summary": "1985年7月7日，李敖早晚连写《蒋介石在肇和起义中算老几？》和《蒋介石与江阴炮台》，把国民党历史课本和领袖崇拜中被改写的肇和起义重新定位。他指出杨虎在肇和起义、护卫孙中山、上海时期的角色被国民党后来叙事大幅压低，原因与杨虎后来投共有关；同时由江阴炮台材料继续肯定杨虎的侠骨柔情和勇敢犯难。此处不把肇和、江阴逐案细拆，而合并为同日同一条蒋史反宣传考证。",
+    "source": {
+      "book": "蒋介石研究续集",
+      "chapter": "004.蒋介石在肇和起义中算老几？.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/017.蒋介石研究续集/004.蒋介石在肇和起义中算老几？.txt",
+      "line": 117,
+      "lines": [
+        117,
+        123,
+        127
+      ]
+    },
+    "people": [
+      "李敖",
+      "蒋介石",
+      "杨虎",
+      "孙中山",
+      "陈炯明",
+      "陆冲鹏"
+    ],
+    "places": [
+      "肇和兵舰",
+      "江阴炮台",
+      "上海",
+      "广东"
+    ],
+    "works": [
+      "蒋介石研究续集",
+      "杨虎轶事两则",
+      "传记文学"
+    ],
+    "tags": [
+      "肇和起义",
+      "江阴炮台",
+      "杨虎",
+      "孙中山",
+      "历史课本",
+      "蒋介石神话"
+    ],
+    "view": [
+      "史料线",
+      "写作线",
+      "政治线"
+    ],
+    "crossReferences": [
+      "jiangjieshi-yanjiu-1986-01-28-traces-fourteen-chiang-desertions-at-critical-moments",
+      "li-ao-yumiao-tianxia-106-attacks-chiang-as-opportunist-deserter"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "additionalSources": [
+      {
+        "book": "蒋介石研究续集",
+        "chapter": "006.蒋介石定本全集删去了什么？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/017.蒋介石研究续集/006.蒋介石定本全集删去了什么？.txt",
+        "line": 5,
+        "lines": [
+          5,
+          9,
+          13,
+          17,
+          19,
+          21
+        ],
+        "note": "第六章对照原信、毛思诚本和《总统蒋公思想言论总集》，定位删去的二十五字。"
+      }
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-xuji-round001-closeout",
+    "id": "jiangjieshi-yanjiu-xuji-1985-09-09-exposes-deleted-chiang-good-lewd-line",
+    "date": "1985-09-09",
+    "year": 1985,
+    "month": 9,
+    "day": 9,
+    "displayDate": "1985年9月9日",
+    "datePrecision": "day",
+    "title": "李敖核校蒋介石定本全集，揭出国民党删掉“人言弟为好色”二十五字",
+    "summary": "1985年9月9日，李敖写《蒋介石定本全集删去了什么？》，从1984年秦孝仪主编、党史委员会恭印的《总统蒋公思想言论总集》入手，追校蒋介石1924年3月25日给胡汉民、汪精卫的信。他先指出毛思诚《民国十五年以前之蒋介石先生》已多处改误，又发现定本全集继续照本宣科并额外删去“即如人言弟为好色，殊不知此为无聊之甚者，至不得已之事”等二十五字，认为这是国民党遮盖领袖好色事实的手脚。蒋介石多次脱队旧锚已存在，本条只收续集新增的文本删改证据。",
+    "source": {
+      "book": "蒋介石研究续集",
+      "chapter": "006.蒋介石定本全集删去了什么？.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/017.蒋介石研究续集/006.蒋介石定本全集删去了什么？.txt",
+      "line": 19,
+      "lines": [
+        5,
+        13,
+        17,
+        19,
+        21
+      ]
+    },
+    "people": [
+      "李敖",
+      "蒋介石",
+      "秦孝仪",
+      "胡汉民",
+      "汪精卫",
+      "毛思诚",
+      "孙中山",
+      "廖仲恺",
+      "刘峙"
+    ],
+    "places": [
+      "广州",
+      "黄埔",
+      "奉化",
+      "台湾"
+    ],
+    "works": [
+      "蒋介石研究续集",
+      "总统蒋公思想言论总集",
+      "民国十五年以前之蒋介石先生",
+      "复胡汉民、汪兆铭书自述个性并商行止问题"
+    ],
+    "tags": [
+      "文本删改",
+      "定本全集",
+      "好色",
+      "胡汉民",
+      "汪精卫",
+      "黄埔军校"
+    ],
+    "view": [
+      "史料线",
+      "写作线",
+      "文本线"
+    ],
+    "crossReferences": [
+      "jiangjieshi-yanjiu-1986-01-28-traces-fourteen-chiang-desertions-at-critical-moments",
+      "li-ao-yumiao-tianxia-106-attacks-chiang-as-opportunist-deserter"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "additionalSources": [
+      {
+        "book": "蒋介石研究续集",
+        "chapter": "007.蒋介石与杜夫人.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/017.蒋介石研究续集/007.蒋介石与杜夫人.txt",
+        "line": 69,
+        "lines": [
+          35,
+          37,
+          41,
+          69,
+          71,
+          117,
+          121,
+          123,
+          125,
+          127
+        ],
+        "note": "第七章从杜聿明被俘后曹秀清被迫赴台、贫困谋生，到晚年拒绝回台湾，串成杜家家庭线。"
+      },
+      {
+        "book": "蒋介石研究续集",
+        "chapter": "008.蒋介石犯了兵家大忌.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/017.蒋介石研究续集/008.蒋介石犯了兵家大忌.txt",
+        "line": 41,
+        "lines": [
+          5,
+          9,
+          21,
+          41,
+          43,
+          63,
+          73,
+          87
+        ],
+        "note": "第八章以杜聿明回忆追查徐蚌会战中蒋介石出尔反尔和犯兵家大忌的指挥责任。"
+      }
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-xuji-round001-closeout",
+    "id": "jiangjieshi-yanjiu-xuji-1986-07-23-to-09-08-links-du-family-hostage-and-huaihai-blunder",
+    "date": "1986-07-23",
+    "year": 1986,
+    "month": 7,
+    "day": 23,
+    "displayDate": "1986年7月23日至9月8日",
+    "datePrecision": "date-range",
+    "title": "李敖把杜聿明被俘、杜夫人赴台受困和徐蚌会战指挥失误连成一条蒋史证据链",
+    "summary": "1986年7月23日至9月8日，李敖先写《蒋介石与杜夫人》，再写《蒋介石犯了兵家大忌》，围绕杜聿明一家和徐蚌会战整理蒋介石责任。第七章写杜聿明被俘后，曹秀清被蒋介石手谕逼带家人搭最后一班飞机到台湾，实际生活无着，后来回大陆并终身不愿回台湾；第八章则以杜聿明《淮海战役始末》追查蒋介石在徐蚌会战中摇摆决策、远程亲笔命令、空投废物和最后逼部队陷入重围的指挥失误。这里把家庭人质线和会战责任线合并，不再逐段拆成战役小事件。",
+    "source": {
+      "book": "蒋介石研究续集",
+      "chapter": "007.蒋介石与杜夫人.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/017.蒋介石研究续集/007.蒋介石与杜夫人.txt",
+      "line": 69,
+      "lines": [
+        35,
+        41,
+        69,
+        71,
+        121,
+        125,
+        127
+      ]
+    },
+    "people": [
+      "李敖",
+      "蒋介石",
+      "杜聿明",
+      "曹秀清",
+      "杨振宁",
+      "蒋宋美龄",
+      "刘峙",
+      "邱清泉",
+      "孙元良",
+      "黄维",
+      "杨虎"
+    ],
+    "places": [
+      "徐州",
+      "淮海战役",
+      "台湾",
+      "上海",
+      "香港",
+      "大陆"
+    ],
+    "works": [
+      "蒋介石研究续集",
+      "淮海战役始末",
+      "文史资料选辑",
+      "我的回忆"
+    ],
+    "tags": [
+      "杜聿明",
+      "曹秀清",
+      "徐蚌会战",
+      "淮海战役",
+      "人质",
+      "兵家大忌",
+      "指挥失误"
+    ],
+    "view": [
+      "史料线",
+      "家庭线",
+      "军事线",
+      "政治线"
+    ],
+    "crossReferences": [
+      "zhongguo-xiandaishi-dinglun-1989-01-09-writes-huaihai-xubeng-liu-zhi",
+      "li-ao-youhua-shuo-058-shows-his-chiang-research-series-and-says-he-never-let-it-go"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "additionalSources": [
+      {
+        "book": "蒋介石研究续集",
+        "chapter": "010.蒋介石怎样作弄李宗仁？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/017.蒋介石研究续集/010.蒋介石怎样作弄李宗仁？.txt",
+        "line": 75,
+        "lines": [
+          5,
+          75,
+          81,
+          135,
+          137,
+          139,
+          141,
+          285,
+          287,
+          295
+        ],
+        "note": "第十章以李宗仁回忆录为主，追踪蒋介石从副总统选举到代总统阶段如何压制桂系。"
+      },
+      {
+        "book": "蒋介石研究续集",
+        "chapter": "013.蒋介石是“中华民国”真总统吗？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/017.蒋介石研究续集/013.蒋介石是“中华民国”真总统吗？.txt",
+        "line": 7,
+        "lines": [
+          5,
+          7,
+          9,
+          21,
+          29,
+          33
+        ],
+        "note": "第十三章以杜鲁门宴请和胡适信札名片证明李宗仁在中外有识者眼中是总统。"
+      }
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-xuji-round001-closeout",
+    "id": "jiangjieshi-yanjiu-xuji-1985-01-02-to-1986-01-09-traces-li-zongren-vp-president-legitimacy",
+    "date": "1985-01-02",
+    "year": 1985,
+    "month": 1,
+    "day": 2,
+    "displayDate": "1985年1月2日至1986年1月9日",
+    "datePrecision": "date-range",
+    "title": "李敖以李宗仁材料重查副总统竞选、代总统和蒋介石复职的法统问题",
+    "summary": "1985年1月2日至1986年1月9日，李敖在《蒋介石怎样作弄李宗仁？》和《蒋介石是“中华民国”真总统吗？》中，围绕李宗仁从副总统到总统法统地位做两段式考证。他先借李宗仁回忆录追查蒋介石如何施压桂系、逼李宗仁退出副总统竞选并纵容党部、宪警、中统军统等机关动员；再以杜鲁门在蒋介石复职次日仍称李宗仁为总统、胡适信封和名片写“李大总统”“德公总统”等材料，指出蒋介石1950年复职违宪，李宗仁在严格法理上是总统。李宗仁回忆录推荐、胡适信札展示等旧锚只作交叉引用。",
+    "source": {
+      "book": "蒋介石研究续集",
+      "chapter": "010.蒋介石怎样作弄李宗仁？.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/017.蒋介石研究续集/010.蒋介石怎样作弄李宗仁？.txt",
+      "line": 75,
+      "lines": [
+        5,
+        75,
+        81,
+        135,
+        141,
+        285,
+        287
+      ]
+    },
+    "people": [
+      "李敖",
+      "蒋介石",
+      "李宗仁",
+      "白崇禧",
+      "孙科",
+      "程潜",
+      "黄绍竑",
+      "杜鲁门",
+      "胡适",
+      "阎锡山"
+    ],
+    "places": [
+      "南京",
+      "美国",
+      "纽约",
+      "台湾"
+    ],
+    "works": [
+      "蒋介石研究续集",
+      "李宗仁回忆录",
+      "中国宪法新论",
+      "为南京撤守告全国同胞书"
+    ],
+    "tags": [
+      "李宗仁",
+      "副总统",
+      "代总统",
+      "总统复职",
+      "桂系",
+      "胡适信札",
+      "中华民国宪法"
+    ],
+    "view": [
+      "史料线",
+      "政治线",
+      "法统线"
+    ],
+    "crossReferences": [
+      "li-ao-shuxuji-1988-12-13-recommends-li-zongren-memoir-authorizes-new-edition",
+      "li-ao-mimi-shufang-021-recalls-reader-stole-hu-shi-li-zongren-letter",
+      "li-ao-youhua-shuo-265-shows-hu-shih-card-to-li-zongren-and-explains-secret-sources",
+      "li-ao-zhenglun-zongyiji-116-keeps-li-zongren-protest-and-zhang-xueliang-hidden-in-gold-account"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "additionalSources": [
+      {
+        "book": "蒋介石研究续集",
+        "chapter": "009.蒋介石的“引退谋和书告”.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/017.蒋介石研究续集/009.蒋介石的“引退谋和书告”.txt",
+        "line": 133,
+        "lines": [
+          5,
+          15,
+          23,
+          25,
+          27,
+          129,
+          131,
+          133,
+          135
+        ],
+        "note": "第九章细读蒋介石元旦文告和司徒雷登评论，指出败局中仍以胜利者姿态谋和。"
+      },
+      {
+        "book": "蒋介石研究续集",
+        "chapter": "011.蒋介石与真假保密局.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/017.蒋介石研究续集/011.蒋介石与真假保密局.txt",
+        "line": 13,
+        "lines": [
+          9,
+          11,
+          13,
+          19,
+          25,
+          27,
+          31,
+          33
+        ],
+        "note": "第十一章据沈醉等材料说明蒋介石撤走真保密局，留给李宗仁一个空架子假保密局。"
+      },
+      {
+        "book": "蒋介石研究续集",
+        "chapter": "012.蒋介石怎样逃亡？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/017.蒋介石研究续集/012.蒋介石怎样逃亡？.txt",
+        "line": 73,
+        "lines": [
+          5,
+          11,
+          13,
+          17,
+          21,
+          29,
+          53,
+          55,
+          73,
+          77,
+          79
+        ],
+        "note": "第十二章把成都、重庆逃亡时的专机和特种技术叙事同官方回忆互校。"
+      }
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-xuji-round001-closeout",
+    "id": "jiangjieshi-yanjiu-xuji-1985-06-07-to-1986-03-03-traces-chiang-retreat-fake-security-and-escape",
+    "date": "1985-06-07",
+    "year": 1985,
+    "month": 6,
+    "day": 7,
+    "displayDate": "1985年6月7日至1986年3月3日",
+    "datePrecision": "date-range",
+    "title": "李敖把蒋介石引退文告、真假保密局和大陆逃亡整理成下野不放权的证据链",
+    "summary": "1985年6月7日至1986年3月3日，李敖在三章中处理蒋介石1948至1949年败退过程：他先从重庆、成都逃亡材料中质疑蒋介石靠专机和“特种技术”脱险的官方叙事；又细读1949年元旦文告与司徒雷登评论，指出蒋介石在败局中仍以优势统治者姿态“引退谋和”；最后据沈醉、毛人凤纪念文字等材料，揭出蒋介石下野前把真保密局撤出并由自己控制，只留一个无外勤、无情报、无实际任务的假保密局给李宗仁。国库黄金和李宗仁被架空已有旧锚，本条只收续集新证据链。",
+    "source": {
+      "book": "蒋介石研究续集",
+      "chapter": "011.蒋介石与真假保密局.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/017.蒋介石研究续集/011.蒋介石与真假保密局.txt",
+      "line": 13,
+      "lines": [
+        9,
+        11,
+        13,
+        19,
+        25,
+        31,
+        33
+      ]
+    },
+    "people": [
+      "李敖",
+      "蒋介石",
+      "李宗仁",
+      "司徒雷登",
+      "白崇禧",
+      "沈醉",
+      "毛人凤",
+      "徐志道",
+      "蒋经国",
+      "董显光",
+      "秦孝仪"
+    ],
+    "places": [
+      "南京",
+      "重庆",
+      "成都",
+      "台湾",
+      "上海",
+      "广州"
+    ],
+    "works": [
+      "蒋介石研究续集",
+      "中华民国三十八年元旦告全国军民同胞书",
+      "引退谋和文告",
+      "毛故上将人凤先生哀思录",
+      "蒋总统传"
+    ],
+    "tags": [
+      "引退谋和",
+      "真假保密局",
+      "毛人凤",
+      "李宗仁",
+      "重庆逃亡",
+      "专机",
+      "特种技术"
+    ],
+    "view": [
+      "史料线",
+      "政治线",
+      "情治线",
+      "军事线"
+    ],
+    "crossReferences": [
+      "jiangjieshi-yanjiu-1985-12-19-writes-chiang-and-national-treasury-gold-investigation",
+      "li-ao-zhenglun-zongyiji-116-keeps-li-zongren-protest-and-zhang-xueliang-hidden-in-gold-account",
+      "li-ao-xiaoao-jianghu-1998-winter-episode-097-dai-li-intelligence-two-broadcast",
+      "li-ao-youhua-shuo-281-shows-228-secret-files-and-says-zhang-xueliang-was-nearly-killed-under-secret-order"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "additionalSources": [
+      {
+        "book": "蒋介石研究续集",
+        "chapter": "015.蒋介石亲准.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/017.蒋介石研究续集/015.蒋介石亲准.txt",
+        "line": 7,
+        "lines": [
+          7,
+          9,
+          11,
+          17,
+          23,
+          31,
+          37,
+          39
+        ],
+        "note": "第十五章从冯玉祥回忆、李宗仁请假、魏道明入出境和张群赴日批示，证明高级官员行动须经蒋介石批准。"
+      }
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-xuji-round001-closeout",
+    "id": "jiangjieshi-yanjiu-xuji-1986-11-04-uses-travel-approval-to-reopen-wang-jingwei-escape",
+    "date": "1986-11-04",
+    "year": 1986,
+    "month": 11,
+    "day": 4,
+    "displayDate": "1986年11月4日",
+    "datePrecision": "day",
+    "title": "李敖以“蒋介石亲准”制度重查汪精卫出走是否可能未经默许",
+    "summary": "1986年11月4日，李敖写《蒋介石亲准》，从冯玉祥《我所知道的蒋介石》中“放走汉奸汪精卫的蒋介石”一章入手，指出汪精卫、曾仲鸣、林柏生等人坐专机离开重庆，不可能绕过戴笠和蒋介石个人批准。李敖又列出李宗仁回乡吊丧须经蒋介石批准、魏道明夫妇来去台湾须请示总统、张群转陈萧同兹赴日参观获批“照准”等旁证，证明高级官员行动自由长期依赖蒋介石御批，从而认为汪精卫出走极可能有蒋介石默许。此题与李宗仁法统线相邻，但为汪精卫出走和个人批准制度，故单列一条。",
+    "source": {
+      "book": "蒋介石研究续集",
+      "chapter": "015.蒋介石亲准.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/017.蒋介石研究续集/015.蒋介石亲准.txt",
+      "line": 37,
+      "lines": [
+        7,
+        9,
+        17,
+        23,
+        31,
+        37,
+        39
+      ]
+    },
+    "people": [
+      "李敖",
+      "蒋介石",
+      "汪精卫",
+      "冯玉祥",
+      "戴笠",
+      "曾仲鸣",
+      "林柏生",
+      "李宗仁",
+      "魏道明",
+      "张群",
+      "萧同兹"
+    ],
+    "places": [
+      "重庆",
+      "昆明",
+      "南京",
+      "台湾",
+      "东京",
+      "日本"
+    ],
+    "works": [
+      "蒋介石研究续集",
+      "我所知道的蒋介石",
+      "李宗仁回忆录",
+      "怀念魏道明先生"
+    ],
+    "tags": [
+      "蒋介石亲准",
+      "汪精卫",
+      "御批",
+      "行动自由",
+      "冯玉祥",
+      "高级官员"
+    ],
+    "view": [
+      "史料线",
+      "政治线",
+      "制度线"
+    ],
+    "crossReferences": [
+      "jiangjieshi-yanjiu-xuji-1985-01-02-to-1986-01-09-traces-li-zongren-vp-president-legitimacy"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "additionalSources": [
+      {
+        "book": "蒋介石研究续集",
+        "chapter": "014.蒋介石是个什么家？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/017.蒋介石研究续集/014.蒋介石是个什么家？.txt",
+        "line": 25,
+        "lines": [
+          5,
+          7,
+          19,
+          21,
+          23,
+          25,
+          29
+        ],
+        "note": "第十四章搜集国民党人士给蒋介石套上的各种家，收束为独裁者高帽批评。"
+      },
+      {
+        "book": "蒋介石研究续集",
+        "chapter": "016.蒋介石遗嘱依法无效.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/017.蒋介石研究续集/016.蒋介石遗嘱依法无效.txt",
+        "line": 15,
+        "lines": [
+          11,
+          13,
+          15,
+          17,
+          19
+        ],
+        "note": "第十六章按民法代笔遗嘱规则质疑蒋介石遗嘱见证与代笔程序。"
+      },
+      {
+        "book": "蒋介石研究续集",
+        "chapter": "017.为神化蒋介石抽样.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/017.蒋介石研究续集/017.为神化蒋介石抽样.txt",
+        "line": 7,
+        "lines": [
+          5,
+          7,
+          9,
+          11,
+          25,
+          39,
+          41
+        ],
+        "note": "第十七章以行政院函、大学教授文章和纪念庙计划抽样蒋介石神化工程。"
+      },
+      {
+        "book": "蒋介石研究续集",
+        "chapter": "018.蒋介石棺材里冒出了什么？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/017.蒋介石研究续集/018.蒋介石棺材里冒出了什么？.txt",
+        "line": 41,
+        "lines": [
+          7,
+          21,
+          25,
+          33,
+          39,
+          41,
+          43
+        ],
+        "note": "第十八章比较蒋经国、治丧报告和中央日报记录，追出棺中四书数量和放置者矛盾。"
+      },
+      {
+        "book": "蒋介石研究续集",
+        "chapter": "019.蒋介石手著《苏俄在中国》了吗？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/017.蒋介石研究续集/019.蒋介石手著《苏俄在中国》了吗？.txt",
+        "line": 33,
+        "lines": [
+          3,
+          11,
+          17,
+          23,
+          29,
+          33,
+          35,
+          37,
+          39
+        ],
+        "note": "第十九章以阮继光、陶希圣和文学侍从材料，否定蒋经国与楚崧秋所称《苏俄在中国》为蒋介石手著。"
+      }
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-xuji-round001-closeout",
+    "id": "jiangjieshi-yanjiu-xuji-1985-02-25-to-1987-01-05-debunks-chiang-deification-will-coffin-books-and-ghostwriting",
+    "date": "1985-02-25",
+    "year": 1985,
+    "month": 2,
+    "day": 25,
+    "displayDate": "1985年2月25日至1987年1月5日",
+    "datePrecision": "date-range",
+    "title": "李敖合并抽样蒋介石神化工程：各种“家”、遗嘱、棺中书和《苏俄在中国》代笔",
+    "summary": "1985年2月25日至1987年1月5日，李敖在续集后段集中处理蒋介石死后神化和著述神话：他先以叶庆炳、江应龙等文章和纪念庙计划抽样国民党如何把蒋介石推成神；再列举谷正纲、董显光、蒋一安等人给蒋介石加上的军事家、思想家、哲学家、教育家等高帽；随后从民法代笔遗嘱规则质疑蒋介石遗嘱依法无效，又比较蒋经国、治丧报告和《中央日报》关于棺中书的矛盾，最后以阮继光所见《苏俄在中国》大纲、陶希圣代笔传统和陈布雷材料，反驳蒋经国、楚崧秋所谓蒋介石亲手著书。为避免碎片化，本条把014、016至019合并为同一组领袖神化与文本神话考证。",
+    "source": {
+      "book": "蒋介石研究续集",
+      "chapter": "017.为神化蒋介石抽样.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/017.蒋介石研究续集/017.为神化蒋介石抽样.txt",
+      "line": 7,
+      "lines": [
+        5,
+        7,
+        11,
+        25,
+        39,
+        41
+      ]
+    },
+    "people": [
+      "李敖",
+      "蒋介石",
+      "蒋经国",
+      "蒋宋美龄",
+      "秦孝仪",
+      "田炯锦",
+      "叶庆炳",
+      "江应龙",
+      "任卓宣",
+      "楚崧秋",
+      "阮继光",
+      "陶希圣",
+      "陈布雷",
+      "陶成章"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "慈湖",
+      "阳明山"
+    ],
+    "works": [
+      "蒋介石研究续集",
+      "总统蒋公思想言论总集",
+      "总统蒋公哀思录",
+      "守父灵一月记",
+      "难忘的一年",
+      "苏俄在中国",
+      "中国之命运",
+      "陈布雷回忆录"
+    ],
+    "tags": [
+      "蒋介石神化",
+      "蒋总统是神",
+      "遗嘱",
+      "棺材里放书",
+      "苏俄在中国",
+      "代笔",
+      "文学侍从"
+    ],
+    "view": [
+      "史料线",
+      "文本线",
+      "政治线",
+      "宗教线"
+    ],
+    "crossReferences": [
+      "jiangjieshi-yanjiu-1986-06-13-to-07-14-criticizes-chiang-cult-and-qian-mu-imperial-scholarship",
+      "daxue-houqi-jia-1958-10-21-tries-translating-preface-of-soviet-russia-in-china",
+      "li-ao-youhua-shuo-259-identifies-tao-xisheng-chen-guyuan-and-zhou-enlai-talent-argument",
+      "li-ao-yumiao-tianxia-106-shows-cihu-chiang-statues-and-bronze-head",
+      "li-ao-youhua-shuo-058-broadcasts-clearing-chiang-stars-and-books"
+    ]
+  }
+]

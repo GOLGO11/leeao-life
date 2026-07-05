@@ -1,0 +1,934 @@
+[
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "zhengnanrong-yanjiu-round001-closeout",
+    "id": "zhengnanrong-yanjiu-1983-03-12-zheng-interviews-li-on-party-outside-and-sex",
+    "date": "1983-03-12",
+    "year": 1983,
+    "month": 3,
+    "day": 12,
+    "displayDate": "1983年3月12日",
+    "datePrecision": "day",
+    "title": "郑南榕访问李敖，谈党外、党内与性",
+    "summary": "《党外·党内·性》注明为郑南榕访问李敖，署日1983年3月12日。访谈从党外新生代、组党、党外杂志、国民党历史、坐牢示范、世界级思想家到性观念，留下郑南榕早期直接访问李敖的一组材料。",
+    "source": {
+      "book": "郑南榕研究",
+      "chapter": "001.党外·党内·性.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/008.郑南榕研究/001.党外·党内·性.txt",
+      "line": 195,
+      "lines": [
+        3,
+        7,
+        25,
+        57,
+        105,
+        195
+      ]
+    },
+    "people": [
+      "李敖",
+      "郑南榕"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "郑南榕研究",
+      "党外·党内·性"
+    ],
+    "tags": [
+      "郑南榕研究",
+      "访问",
+      "党外",
+      "党内",
+      "性"
+    ],
+    "view": [
+      "交游线",
+      "思想线",
+      "媒体线"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "zhengnanrong-yanjiu-round001-closeout",
+    "id": "zhengnanrong-yanjiu-1983-10-04-replies-zheng-on-free-speech-first-priority",
+    "date": "1983-10-04",
+    "year": 1983,
+    "month": 10,
+    "day": 4,
+    "displayDate": "1983年10月1日至4日",
+    "datePrecision": "day",
+    "title": "李敖答郑南榕，提出“言论自由第一优先”",
+    "summary": "郑南榕1983年10月1日致李敖，说明自己在党外后援会章程与杂志言论自由之间的坚持；李敖10月4日回信，称言论自由是“优先的自由”“第一自由”，不能用民主程序作为拘束批评党外的依据，并请郑代校发表文字。",
+    "source": {
+      "book": "郑南榕研究",
+      "chapter": "002.言论自由第一优先.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/008.郑南榕研究/002.言论自由第一优先.txt",
+      "line": 103,
+      "lines": [
+        79,
+        85,
+        97,
+        99,
+        103,
+        113,
+        127
+      ]
+    },
+    "people": [
+      "李敖",
+      "郑南榕",
+      "林正杰",
+      "邓维桢"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "郑南榕研究",
+      "党外团结靠民主",
+      "言论自由第一优先"
+    ],
+    "tags": [
+      "言论自由",
+      "第一优先",
+      "党外后援会",
+      "杂志",
+      "书信"
+    ],
+    "view": [
+      "思想线",
+      "政治线",
+      "书信线"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "zhengnanrong-yanjiu-round001-closeout",
+    "id": "zhengnanrong-yanjiu-1985-03-11-to-05-13-democracy-world-qianjin-lin-debate",
+    "date": "1985-03-11",
+    "year": 1985,
+    "month": 3,
+    "day": 11,
+    "displayDate": "1985年3月11日至5月13日",
+    "datePrecision": "day",
+    "title": "李敖与郑南榕围绕《前进》、林正杰和《民主天地》展开论战",
+    "summary": "《郑南榕研究》把1985年春李敖致郑南榕、致林正杰公开信和《千呼万唤“屎”出来》连成一组：李敖先因《自由时代》办刊一年写信谈总监挂名和品管，随后在公开信中回应《前进》对他与郑南榕的挑拨，5月又答郑南榕之请反驳《前进》批李文字。本条合并同一场党外内部论战，不逐篇拆分。",
+    "source": {
+      "book": "郑南榕研究",
+      "chapter": "003.是该打屁股的！.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/008.郑南榕研究/003.是该打屁股的！.txt",
+      "line": 27,
+      "lines": [
+        5,
+        7,
+        25,
+        27
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "郑南榕研究",
+        "chapter": "004.给林正杰先生的公开信.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/008.郑南榕研究/004.给林正杰先生的公开信.txt",
+        "line": 83,
+        "lines": [
+          5,
+          49,
+          83,
+          91,
+          117
+        ],
+        "note": "补出1985年3月24日公开信及《民主天地》第七期对《前进》挑拨李敖、郑南榕关系的反驳。"
+      },
+      {
+        "book": "郑南榕研究",
+        "chapter": "006.千呼万唤“屎”出来.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/008.郑南榕研究/006.千呼万唤“屎”出来.txt",
+        "line": 61,
+        "lines": [
+          5,
+          25,
+          57,
+          61,
+          63
+        ],
+        "note": "补出李敖应郑南榕之请，在《民主天地》第十一期反击《前进》批李文字。"
+      },
+      {
+        "book": "郑南榕研究",
+        "chapter": "028.郑南榕论林正杰拆滥污.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/008.郑南榕研究/028.郑南榕论林正杰拆滥污.txt",
+        "line": 71,
+        "lines": [
+          3,
+          5,
+          15,
+          17,
+          71
+        ],
+        "note": "补出郑南榕1985年4月22日追查《深耕》财务疑案的后续材料。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "郑南榕",
+      "林正杰",
+      "杨祖珺",
+      "许荣淑",
+      "吴乃仁"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "郑南榕研究",
+      "自由时代",
+      "民主天地",
+      "前进",
+      "深耕"
+    ],
+    "tags": [
+      "党外论战",
+      "林正杰",
+      "前进",
+      "民主天地",
+      "深耕财务"
+    ],
+    "crossReferences": [
+      "book3-1985-04-15-cheng-nan-jung-li-resigns-director",
+      "micang-diary-1985-03-24-writes-open-letter-to-lin-zhengjie-and-nanrong-picks-up",
+      "micang-diary-1985-04-20-lunches-at-xiangyi-and-answers-lin-zhengjie-reconciliation"
+    ],
+    "view": [
+      "政治线",
+      "媒体线",
+      "写作线",
+      "交游线"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "zhengnanrong-yanjiu-round001-closeout",
+    "id": "zhengnanrong-yanjiu-1986-03-12-writes-free-era-two-year-reflection",
+    "date": "1986-03-12",
+    "year": 1986,
+    "month": 3,
+    "day": 12,
+    "displayDate": "1986年3月12日下午",
+    "datePrecision": "day",
+    "title": "李敖为郑南榕自由时代系列二周年写感言",
+    "summary": "《你叫我的魂，我夺你的魄》署作“郑南榕自由时代系列杂志二周年感言”，李敖回顾郑南榕以多人登记杂志对抗停刊制度，《自由时代》创刊之初即提出“争取100%自由”，两年来与《千秋评论》《万岁评论》连线作战、突破蒋家三代清算，但也提醒百分之百言论自由若缺乏普及性仍不足自满。",
+    "source": {
+      "book": "郑南榕研究",
+      "chapter": "008.你叫我的魂，我夺你的魄.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/008.郑南榕研究/008.你叫我的魂，我夺你的魄.txt",
+      "line": 31,
+      "lines": [
+        3,
+        17,
+        21,
+        25,
+        29,
+        31
+      ]
+    },
+    "people": [
+      "李敖",
+      "郑南榕",
+      "林世煜",
+      "叶菊兰",
+      "胡慧玲"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "郑南榕研究",
+      "自由时代",
+      "千秋评论",
+      "万岁评论"
+    ],
+    "tags": [
+      "自由时代二周年",
+      "言论自由",
+      "杂志登记",
+      "蒋家三代",
+      "百分之百自由"
+    ],
+    "crossReferences": [
+      "book3-1984-03-12-free-era-first-issue-li-cover",
+      "book4-deep-1984-03-freedom-era-cooperation-begins"
+    ],
+    "view": [
+      "出版线",
+      "思想线",
+      "政治线",
+      "交游线"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "zhengnanrong-yanjiu-round001-closeout",
+    "id": "zhengnanrong-yanjiu-1986-06-12-to-11-17-supports-arrested-zheng-with-writing-court-and-letters",
+    "date": "1986-06-12",
+    "year": 1986,
+    "month": 6,
+    "day": 12,
+    "displayDate": "1986年6月12日至11月17日",
+    "datePrecision": "day",
+    "title": "郑南榕被捕后，李敖写文、旁听、劝绝食并反控康系",
+    "summary": "郑南榕被捕后，《郑南榕研究》收入李敖一组支援行动：6月12日写《怀念郑南榕》，概括其成长、办刊、转交小董密件和五一九行动；6月26日旁听张德铭告郑案并批判沈银和合议庭程序与偏颇；9月21日写信经叶菊兰转给狱中郑南榕，劝其慎用绝食；11月17日又告知叶菊兰自己写完控告康宁祥等人的状子，借诉讼逼出党外内部是非。",
+    "source": {
+      "book": "郑南榕研究",
+      "chapter": "009.怀念郑南榕.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/008.郑南榕研究/009.怀念郑南榕.txt",
+      "line": 57,
+      "lines": [
+        3,
+        35,
+        43,
+        49,
+        53,
+        57
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "郑南榕研究",
+        "chapter": "010.这样的法官能审党外人士吗？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/008.郑南榕研究/010.这样的法官能审党外人士吗？.txt",
+        "line": 53,
+        "lines": [
+          3,
+          11,
+          35,
+          51,
+          53
+        ],
+        "note": "补出李敖为支持郑南榕而旁听张德铭告郑案，并批判审判长沈银和应回避。"
+      },
+      {
+        "book": "郑南榕研究",
+        "chapter": "011.大小大气象.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/008.郑南榕研究/011.大小大气象.txt",
+        "line": 35,
+        "lines": [
+          5,
+          7,
+          15,
+          17,
+          27,
+          35
+        ],
+        "note": "补出李敖给狱中郑南榕的绝食劝告，以及同日给叶菊兰的转信说明。"
+      },
+      {
+        "book": "郑南榕研究",
+        "chapter": "012.逼出是非来！.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/008.郑南榕研究/012.逼出是非来！.txt",
+        "line": 31,
+        "lines": [
+          7,
+          19,
+          21,
+          25,
+          27,
+          31
+        ],
+        "note": "补出李敖写信给叶菊兰，说明已控告康宁祥等四人以回敬康系人物控告郑南榕。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "郑南榕",
+      "叶菊兰",
+      "张德铭",
+      "沈银和",
+      "康宁祥",
+      "李胜雄",
+      "谢长廷"
+    ],
+    "places": [
+      "台北",
+      "法院",
+      "土城"
+    ],
+    "works": [
+      "郑南榕研究",
+      "怀念郑南榕",
+      "这样的法官能审党外人士吗？",
+      "大小大气象",
+      "逼出是非来！"
+    ],
+    "tags": [
+      "郑南榕被捕",
+      "张德铭案",
+      "法官回避",
+      "绝食",
+      "康宁祥"
+    ],
+    "crossReferences": [
+      "book4-deep-1986-06-03-li-supports-zheng-nanrong-after-arrest",
+      "book4-1985-03-23-zheng-nanjung-delivers-xiaodong-secret-packet",
+      "micang-diary-1986-06-02-receives-xiaoqiu-call-on-nanrong-arrest",
+      "micang-diary-1986-06-02-visits-zheng-home-and-gives-parents-money"
+    ],
+    "view": [
+      "政治线",
+      "司法线",
+      "写作线",
+      "交游线"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "zhengnanrong-yanjiu-round001-closeout",
+    "id": "zhengnanrong-yanjiu-1987-06-20-writes-zheng-on-national-security-law-protests",
+    "date": "1987-06-20",
+    "year": 1987,
+    "month": 6,
+    "day": 20,
+    "displayDate": "1987年6月20日午",
+    "datePrecision": "day",
+    "title": "李敖致郑南榕，谈政治犯抗议国安法与独立作业",
+    "summary": "《难怪会被蒋氏父子作弄至今也！》是李敖1987年6月20日写给郑南榕的信。他一面肯定郑南榕社论点破国民党借国安法与清党处理民进党群众路线，推荐李世杰关于平反而非特赦的文字；一面说明自己向不参加集会，要用自己的方式独力打击国民党。",
+    "source": {
+      "book": "郑南榕研究",
+      "chapter": "013.难怪会被蒋氏父子作弄至今也！.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/008.郑南榕研究/013.难怪会被蒋氏父子作弄至今也！.txt",
+      "line": 25,
+      "lines": [
+        7,
+        9,
+        17,
+        19,
+        21,
+        23,
+        25
+      ]
+    },
+    "people": [
+      "李敖",
+      "郑南榕",
+      "李世杰",
+      "谢长廷",
+      "蒋经国"
+    ],
+    "places": [
+      "台湾",
+      "立法院"
+    ],
+    "works": [
+      "郑南榕研究",
+      "自由时代",
+      "难怪会被蒋氏父子作弄至今也！"
+    ],
+    "tags": [
+      "国安法",
+      "政治犯",
+      "平反",
+      "集会",
+      "独立作业"
+    ],
+    "crossReferences": [
+      "book4-deep-1986-06-03-li-supports-zheng-nanrong-after-arrest",
+      "li-ao-shuduji-1987-06-03-night-ill-writes-huang-zhang-wei-release-reflection-for-zheng-nanrong"
+    ],
+    "view": [
+      "政治线",
+      "思想线",
+      "书信线"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "zhengnanrong-yanjiu-round001-closeout",
+    "id": "zhengnanrong-yanjiu-1989-03-08-to-03-19-writes-free-speech-first-and-different-endpoints",
+    "date": "1989-03-08",
+    "year": 1989,
+    "month": 3,
+    "day": 8,
+    "displayDate": "1989年3月8日至19日",
+    "datePrecision": "day",
+    "title": "李敖为自由时代五周年写“言论自由还是第一优先”等逆耳文",
+    "summary": "郑南榕在1989年3月6日电话邀李敖为“自由时代系列周刊”五周年写文后，李敖写成《言论自由还是第一优先》，重申两人起点同在百分之百言论自由，但他不同意把杂志转作政治活动；3月19日又写《起点一样、终点不同》，借林勤纲辞职与司法尊严问题继续说明自己与郑南榕的分歧。",
+    "source": {
+      "book": "郑南榕研究",
+      "chapter": "014.言论自由还是第一优先.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/008.郑南榕研究/014.言论自由还是第一优先.txt",
+      "line": 19,
+      "lines": [
+        3,
+        5,
+        13,
+        17,
+        19
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "郑南榕研究",
+        "chapter": "015.起点一样、终点不同.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/008.郑南榕研究/015.起点一样、终点不同.txt",
+        "line": 13,
+        "lines": [
+          5,
+          7,
+          9,
+          13
+        ],
+        "note": "补出李敖在五周年之后继续用“起点一样、终点不同”说明与郑南榕的台独分歧。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "郑南榕",
+      "林勤纲",
+      "陈独秀",
+      "雷震"
+    ],
+    "places": [
+      "台湾",
+      "嘉义"
+    ],
+    "works": [
+      "郑南榕研究",
+      "言论自由还是第一优先",
+      "起点一样、终点不同",
+      "自由时代"
+    ],
+    "tags": [
+      "自由时代五周年",
+      "言论自由",
+      "台独分歧",
+      "司法尊严",
+      "最后通话"
+    ],
+    "crossReferences": [
+      "book4-1989-03-06-last-phone-call-with-zheng-nanjung",
+      "book4-1989-04-07-zheng-nanjung-self-immolates-source4"
+    ],
+    "view": [
+      "思想线",
+      "政治线",
+      "写作线",
+      "交游线"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "zhengnanrong-yanjiu-round001-closeout",
+    "id": "zhengnanrong-yanjiu-1989-04-08-to-04-24-writes-memorial-essays-after-self-immolation",
+    "date": "1989-04-08",
+    "year": 1989,
+    "month": 4,
+    "day": 8,
+    "displayDate": "1989年4月8日至24日",
+    "datePrecision": "day",
+    "title": "郑南榕自焚后，李敖连续写悼文与诠释文章",
+    "summary": "郑南榕1989年4月7日自焚后，李敖次日到郑家慰问并写《郑南榕死矣！》，回忆合作办刊、最后一次电话和探监；随后连续写文，反驳“被杀焚尸”说，批评民进党把郑南榕封为“灵魂党员”，从外省人台独、烈士意义、女儿郑竹梅和郑南榕旧日论李敖等角度追念并辨析郑之死。本条只收这组悼文/诠释簇，不重复新增自焚底层事件。",
+    "source": {
+      "book": "郑南榕研究",
+      "chapter": "016.郑南榕死矣！.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/008.郑南榕研究/016.郑南榕死矣！.txt",
+      "line": 15,
+      "lines": [
+        3,
+        5,
+        11,
+        13,
+        15
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "郑南榕研究",
+        "chapter": "017.里头自焚、外头自烧.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/008.郑南榕研究/017.里头自焚、外头自烧.txt",
+        "line": 13,
+        "lines": [
+          3,
+          5,
+          11,
+          13
+        ],
+        "note": "补出李敖4月9日反驳郑南榕非自焚论，强调不应小化其牺牲精神。"
+      },
+      {
+        "book": "郑南榕研究",
+        "chapter": "018.“杀君马者道旁儿”.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/008.郑南榕研究/018.“杀君马者道旁儿”.txt",
+        "line": 13,
+        "lines": [
+          3,
+          5,
+          9,
+          13
+        ],
+        "note": "补出李敖4月10日从外省人台独和“道旁儿”角度解释郑南榕之死。"
+      },
+      {
+        "book": "郑南榕研究",
+        "chapter": "019.别小化了南榕之死.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/008.郑南榕研究/019.别小化了南榕之死.txt",
+        "line": 13,
+        "lines": [
+          3,
+          11,
+          13
+        ],
+        "note": "补出李敖4月13日借王国维、陈寅恪等例说明不可把郑南榕之死小化。"
+      },
+      {
+        "book": "郑南榕研究",
+        "chapter": "020.政治籍贯学.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/008.郑南榕研究/020.政治籍贯学.txt",
+        "line": 15,
+        "lines": [
+          3,
+          13,
+          15
+        ],
+        "note": "补出李敖4月17日用政治籍贯学重谈郑南榕外省人与台独身份。"
+      },
+      {
+        "book": "郑南榕研究",
+        "chapter": "021.何妨一烈？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/008.郑南榕研究/021.何妨一烈？.txt",
+        "line": 23,
+        "lines": [
+          3,
+          15,
+          21,
+          23
+        ],
+        "note": "补出李敖4月18日回应《中国时报》烈士社论，讨论烈士意义。"
+      },
+      {
+        "book": "郑南榕研究",
+        "chapter": "022.放过小女孩吧！.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/008.郑南榕研究/022.放过小女孩吧！.txt",
+        "line": 15,
+        "lines": [
+          13,
+          15
+        ],
+        "note": "补出李敖4月16日反对政治团体继续利用郑南榕小女儿郑竹梅。"
+      },
+      {
+        "book": "郑南榕研究",
+        "chapter": "023.郑南榕论李敖.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/008.郑南榕研究/023.郑南榕论李敖.txt",
+        "line": 15,
+        "lines": [
+          3,
+          7,
+          9,
+          13,
+          15
+        ],
+        "note": "补出李敖4月24日摘录郑南榕旧文旧访谈，说明两人交情与台独分歧。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "郑南榕",
+      "叶菊兰",
+      "郑竹梅",
+      "曾心仪",
+      "尤清",
+      "吴淑珍"
+    ],
+    "places": [
+      "郑家",
+      "自由时代杂志社",
+      "台湾"
+    ],
+    "works": [
+      "郑南榕研究",
+      "郑南榕死矣！",
+      "里头自焚、外头自烧",
+      "杀君马者道旁儿",
+      "别小化了南榕之死",
+      "郑南榕论李敖"
+    ],
+    "tags": [
+      "郑南榕自焚",
+      "悼文",
+      "灵魂党员",
+      "政治籍贯",
+      "烈士",
+      "郑竹梅"
+    ],
+    "crossReferences": [
+      "book4-1989-04-07-zheng-nanjung-self-immolates-source4",
+      "book4-1989-03-06-last-phone-call-with-zheng-nanjung",
+      "li-ao-dageda-094-broadcasts-zheng-nanrong-memorial-critique-after-xie-congmin-call",
+      "li-ao-dageda-094-argues-zheng-nanrong-was-reinterpreted-and-taiwan-independence-could-not-succeed"
+    ],
+    "view": [
+      "写作线",
+      "思想线",
+      "政治线",
+      "交游线"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "zhengnanrong-yanjiu-round001-closeout",
+    "id": "zhengnanrong-yanjiu-1989-05-18-to-06-10-writes-later-memorial-aftermath-essays",
+    "date": "1989-05-18",
+    "year": 1989,
+    "month": 5,
+    "day": 18,
+    "displayDate": "1989年5月18日至6月10日",
+    "datePrecision": "day",
+    "title": "李敖在郑南榕出殡前后继续写外省人烈士、五一九和情报局传闻",
+    "summary": "郑南榕死后一个多月，李敖又在《外省人做烈士》中到瑞安街256巷追想罗福星，把郑南榕放在外省人为台湾做烈士的对照中；5月20日《郑南榕生哀死难荣》围绕出殡与五一九绿色行动，回忆自己十万元捐款与对党外新贵做秀的批评；6月10日《〈九十年代〉与情报局》则反驳王杏庆、李怡刊出郑南榕“情报局受训”说，维护死者名誉。",
+    "source": {
+      "book": "郑南榕研究",
+      "chapter": "024.外省人做烈士.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/008.郑南榕研究/024.外省人做烈士.txt",
+      "line": 19,
+      "lines": [
+        3,
+        13,
+        15,
+        17,
+        19
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "郑南榕研究",
+        "chapter": "025.郑南榕生哀死难荣.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/008.郑南榕研究/025.郑南榕生哀死难荣.txt",
+        "line": 17,
+        "lines": [
+          3,
+          5,
+          9,
+          11,
+          15,
+          17
+        ],
+        "note": "补出李敖在郑南榕出殡次日回写五一九绿色行动、捐款来源与丧礼政治化。"
+      },
+      {
+        "book": "郑南榕研究",
+        "chapter": "026.《九十年代》与情报局.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/008.郑南榕研究/026.《九十年代》与情报局.txt",
+        "line": 17,
+        "lines": [
+          3,
+          5,
+          7,
+          13,
+          17
+        ],
+        "note": "补出李敖反驳《九十年代》关于郑南榕曾在情报局受训的传闻。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "郑南榕",
+      "罗福星",
+      "尤清",
+      "郁慕明",
+      "王杏庆",
+      "李怡",
+      "林乾义"
+    ],
+    "places": [
+      "台北市瑞安街256巷",
+      "龙山寺",
+      "台湾"
+    ],
+    "works": [
+      "郑南榕研究",
+      "外省人做烈士",
+      "郑南榕生哀死难荣",
+      "九十年代",
+      "自由时代"
+    ],
+    "tags": [
+      "外省人烈士",
+      "罗福星",
+      "五一九绿色行动",
+      "郁慕明",
+      "情报局传闻",
+      "死者名誉"
+    ],
+    "crossReferences": [
+      "book4-1989-04-07-zheng-nanjung-self-immolates-source4",
+      "book4-deep-1986-06-03-li-supports-zheng-nanrong-after-arrest",
+      "li-ao-dageda-094-disputes-chen-shuibian-as-zheng-lawyer-and-shows-zheng-nanrong-research",
+      "li-ao-dageda-097-reads-zhu-pirong-fax-on-zheng-nanrong-name-and-ancestry"
+    ],
+    "view": [
+      "写作线",
+      "政治线",
+      "媒体线",
+      "思想线"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "zhengnanrong-yanjiu-round001-closeout",
+    "id": "zhengnanrong-yanjiu-1989-10-13-rereads-zheng-old-letter",
+    "date": "1989-10-13",
+    "year": 1989,
+    "month": 10,
+    "day": 13,
+    "displayDate": "1989年10月13日",
+    "datePrecision": "day",
+    "title": "李敖重读郑南榕旧信，摘录其早年论李敖文字",
+    "summary": "《读郑南榕旧信》署日1989年10月13日，李敖回到1982年紫藤庐重晤与1983年3月21日郑南榕来信。信中郑南榕以“子产加孙产”“党外不入流”“现世宝”等语评论李敖，谈李敖、党外新生代、乱世观与百万册著作预约；李敖摘其要语，用来追念老友。",
+    "source": {
+      "book": "郑南榕研究",
+      "chapter": "027.读郑南榕旧信.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/008.郑南榕研究/027.读郑南榕旧信.txt",
+      "line": 21,
+      "lines": [
+        3,
+        5,
+        7,
+        11,
+        15,
+        19,
+        21
+      ]
+    },
+    "people": [
+      "李敖",
+      "郑南榕",
+      "林世煜",
+      "邓维贤",
+      "康宁祥"
+    ],
+    "places": [
+      "紫藤庐",
+      "台湾"
+    ],
+    "works": [
+      "郑南榕研究",
+      "读郑南榕旧信",
+      "致李敖的第一封信",
+      "吐李敖一口乱谈"
+    ],
+    "tags": [
+      "旧信",
+      "党外不入流",
+      "紫藤庐",
+      "现世宝",
+      "郑南榕论李敖"
+    ],
+    "crossReferences": [
+      "book3-1968-summer-cheng-nan-jung-first-meets-li",
+      "li-ao-shuxinji-1982-03-25-writes-pingjing-i-am-not-leaving",
+      "zhengnanrong-yanjiu-1989-04-08-to-04-24-writes-memorial-essays-after-self-immolation"
+    ],
+    "view": [
+      "书信线",
+      "交游线",
+      "写作线",
+      "思想线"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "zhengnanrong-yanjiu-round001-closeout",
+    "id": "zhengnanrong-yanjiu-1989-11-04-ye-julan-visits-li-before-legislative-campaign",
+    "date": "1989-11-04",
+    "year": 1989,
+    "month": 11,
+    "day": 4,
+    "displayDate": "1989年11月4日晨",
+    "datePrecision": "day",
+    "title": "叶菊兰参选前到李敖家说明决定，李敖写《南榕，让你看家》",
+    "summary": "《“南榕，让你看家”》写，9月23日下午叶菊兰由林永丰、颜锦福陪同到李敖家，说明决定竞选台北市立法委员；李敖回忆郑南榕被捕时曾送十万元给郑母、又给叶菊兰和邱谦成五十万元承担杂志亏损，并在读叶菊兰《南榕，让你看家》后，写成这篇文字，评论她从广告业主管转入政治与以母亲身份延续郑南榕遗志。",
+    "source": {
+      "book": "郑南榕研究",
+      "chapter": "029.“南榕，让你看家”.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/008.郑南榕研究/029.“南榕，让你看家”.txt",
+      "line": 13,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        13
+      ]
+    },
+    "people": [
+      "李敖",
+      "叶菊兰",
+      "郑南榕",
+      "林永丰",
+      "颜锦福",
+      "邱谦成",
+      "郑竹梅"
+    ],
+    "places": [
+      "李敖家",
+      "台北"
+    ],
+    "works": [
+      "郑南榕研究",
+      "南榕，让你看家"
+    ],
+    "tags": [
+      "叶菊兰",
+      "竞选立委",
+      "郑南榕遗志",
+      "杂志亏损",
+      "联广"
+    ],
+    "crossReferences": [
+      "book4-deep-1986-06-03-li-supports-zheng-nanrong-after-arrest",
+      "li-ao-shuhanji-letterbox-1991-04-23-recalls-ye-julan-visit-and-advises-leaving-politics",
+      "xiaoao-niandai-015-recalls-giving-money-to-yeh-chu-lan-after-cheng-nan-jung-arrest"
+    ],
+    "view": [
+      "交游线",
+      "政治线",
+      "写作线",
+      "家庭线"
+    ]
+  }
+]

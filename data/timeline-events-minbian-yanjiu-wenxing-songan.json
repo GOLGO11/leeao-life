@@ -1,0 +1,531 @@
+[
+  {
+    "category": "legal-research-writing",
+    "type": "李敖当事人事件",
+    "additionalSources": [
+      {
+        "book": "闽变研究与文星讼案",
+        "chapter": "001.胡秋原的真面目（李敖）.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/014.闽变研究与文星讼案/001.胡秋原的真面目（李敖）.txt",
+        "line": 41,
+        "lines": [
+          41,
+          53,
+          55,
+          77,
+          105,
+          127,
+          133
+        ],
+        "note": "补入《胡秋原的真面目》对闽变、联合战线和现代史研究方法的核心论述。"
+      },
+      {
+        "book": "闽变研究与文星讼案",
+        "chapter": "002.澄清对“人身攻击”的误解（李敖）.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/014.闽变研究与文星讼案/002.澄清对“人身攻击”的误解（李敖）.txt",
+        "line": 69,
+        "lines": [
+          5,
+          11,
+          69,
+          71
+        ],
+        "note": "补入李敖同期期刊中对“人身攻击”作为史学调查方法的解释。"
+      }
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "minbian-yanjiu-wenxing-songan-round001-closeout",
+    "id": "minbian-wenxing-songan-1962-10-01-publishes-hu-qiuyuan-true-face-and-triggers-lawsuit",
+    "date": "1962-10-01",
+    "year": 1962,
+    "month": 10,
+    "day": 1,
+    "displayDate": "1962年10月1日至1963年2月11日",
+    "datePrecision": "date-range",
+    "title": "李敖发表《胡秋原的真面目》并解释“人身攻击”，引发胡秋原控告",
+    "summary": "1962年10月1日，李敖在《文星》第六十期发表《胡秋原的真面目》和《澄清对“人身攻击”的误解》，把胡秋原参加闽变、与中共谈联合战线、抗战时期仍与中共人士来往等旧事纳入现代史研究，并说明“人身攻击”在此是对作者与文字关系的必要调查。萧孟能后来在《〈文星〉与胡秋原先生》中回述，李敖是在台大历史研究所读到胡秋原攻击文献后写文，于去年10月1日在《传记文学》和《文星》分别发表批评，致胡秋原不能忍受而提起控告；案件至1962年11月22日开第一次调查庭，1963年2月11日进入第二次调查庭。",
+    "source": {
+      "book": "闽变研究与文星讼案",
+      "chapter": "004.《文星》与胡秋原先生（萧孟能）.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/014.闽变研究与文星讼案/004.《文星》与胡秋原先生（萧孟能）.txt",
+      "line": 113,
+      "lines": [
+        3,
+        9,
+        113,
+        167,
+        177
+      ]
+    },
+    "people": [
+      "李敖",
+      "胡秋原",
+      "萧孟能",
+      "李晋芳",
+      "居浩然",
+      "许登源"
+    ],
+    "places": [
+      "台北",
+      "台大历史研究所",
+      "台北地方法院",
+      "福州",
+      "莫斯科",
+      "香港"
+    ],
+    "works": [
+      "闽变研究与文星讼案",
+      "胡秋原的真面目",
+      "澄清对人身攻击的误解",
+      "文星",
+      "传记文学",
+      "文星与胡秋原先生"
+    ],
+    "tags": [
+      "闽变研究与文星讼案",
+      "第一轮",
+      "第001至004章",
+      "胡秋原",
+      "文星",
+      "闽变",
+      "人身攻击",
+      "现代史研究",
+      "讼案起点"
+    ],
+    "view": [
+      "作品线",
+      "司法线",
+      "史料线",
+      "文星线"
+    ],
+    "crossReferences": [
+      "zhongguo-xiandaishi-dinglun-1963-05-01-publishes-modern-history-falsification-methodology",
+      "qianqiu-wansui-1965-09-25-051-publishes-minbian-and-wenxing-lawsuit"
+    ]
+  },
+  {
+    "category": "legal-counterclaim",
+    "type": "李敖当事人事件",
+    "additionalSources": [
+      {
+        "book": "闽变研究与文星讼案",
+        "chapter": "006.刑事答辩状之一（李晋芳）.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/014.闽变研究与文星讼案/006.刑事答辩状之一（李晋芳）.txt",
+        "line": 23,
+        "lines": [
+          3,
+          23
+        ],
+        "note": "补入同日辩护人李晋芳的第一份刑事答辩状。"
+      },
+      {
+        "book": "闽变研究与文星讼案",
+        "chapter": "008.申请调查证据状（李敖）.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/014.闽变研究与文星讼案/008.申请调查证据状（李敖）.txt",
+        "line": 9,
+        "lines": [
+          9,
+          11,
+          25
+        ],
+        "note": "补入李敖申请调查蒋鼎文、孙连仲、刘子清等人证以证明闽变流血战争。"
+      },
+      {
+        "book": "闽变研究与文星讼案",
+        "chapter": "009.刑事反诉状第一次（李敖）.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/014.闽变研究与文星讼案/009.刑事反诉状第一次（李敖）.txt",
+        "line": 9,
+        "lines": [
+          9,
+          11,
+          21
+        ],
+        "note": "补入李敖4月2日以胡秋原诬称盗窃国家文书等语提起反诉。"
+      }
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "minbian-yanjiu-wenxing-songan-round001-closeout",
+    "id": "minbian-wenxing-songan-1963-03-18-to-04-02-first-defense-evidence-application-and-counterclaims",
+    "date": "1963-03-18",
+    "year": 1963,
+    "month": 3,
+    "day": 18,
+    "displayDate": "1963年3月18日至4月2日",
+    "datePrecision": "date-range",
+    "title": "萧孟能、李敖一方提交第一轮答辩、申请调查闽变证据并反诉胡秋原",
+    "summary": "1963年3月18日，萧孟能在“五十一年自字第九五三号”胡秋原自诉案中提起第一次反诉，李晋芳也提交第一份刑事答辩状。3月27日，李敖就胡秋原称“闽事未经流血战争”申请法院调查证据，请蒋鼎文、孙连仲、刘子清等人证明闽变中中央军讨逆和伤亡事实。4月2日，李敖又以胡秋原连续发表文章、记者招待会和印书重述诽谤，并在诉状中诬指他“盗窃国家文书”“窃取国家资产”为由，正式提起第一次反诉。本条合并第一轮答辩、证据调查申请和反诉，不拆每一份书状为独立事件。",
+    "source": {
+      "book": "闽变研究与文星讼案",
+      "chapter": "007.刑事反诉状第一次（萧孟能）.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/014.闽变研究与文星讼案/007.刑事反诉状第一次（萧孟能）.txt",
+      "line": 9,
+      "lines": [
+        9,
+        45
+      ]
+    },
+    "people": [
+      "李敖",
+      "萧孟能",
+      "胡秋原",
+      "李晋芳",
+      "蒋鼎文",
+      "孙连仲",
+      "刘子清"
+    ],
+    "places": [
+      "台北地方法院",
+      "台北",
+      "福建",
+      "福州"
+    ],
+    "works": [
+      "闽变研究与文星讼案",
+      "刑事反诉状第一次",
+      "申请调查证据状",
+      "现代史辨伪方法论",
+      "胡秋原的真面目"
+    ],
+    "tags": [
+      "闽变研究与文星讼案",
+      "第一轮",
+      "第006至009章",
+      "胡秋原自诉",
+      "反诉",
+      "申请调查证据",
+      "闽变",
+      "盗窃国家文书指控",
+      "不拆太碎"
+    ],
+    "view": [
+      "司法线",
+      "史料线",
+      "文星线"
+    ],
+    "crossReferences": [
+      "zhongguo-xiandaishi-dinglun-1963-05-01-publishes-modern-history-falsification-methodology",
+      "daxue-houqi-yi-1963-04-05-ntu-replies-hu-qiuyuan-about-guowen-zhoubao-and-li-ao-borrowing-records",
+      "daxue-houqi-yi-1966-open-letter-to-qian-siliang-about-ntu-false-evidence-and-summoning-him-to-court"
+    ]
+  },
+  {
+    "category": "legal-research-writing",
+    "type": "李敖当事人事件",
+    "additionalSources": [
+      {
+        "book": "闽变研究与文星讼案",
+        "chapter": "011.刑事答辩状之二（李敖）.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/014.闽变研究与文星讼案/011.刑事答辩状之二（李敖）.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          513,
+          515
+        ],
+        "note": "补入李敖以《为“一言丧邦”举证》继续举证胡秋原文字责任。"
+      },
+      {
+        "book": "闽变研究与文星讼案",
+        "chapter": "013.刑事答辩状之二（李晋芳）.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/014.闽变研究与文星讼案/013.刑事答辩状之二（李晋芳）.txt",
+        "line": 149,
+        "lines": [
+          3,
+          149
+        ],
+        "note": "补入7月15日辩护人第二份刑事答辩状。"
+      },
+      {
+        "book": "闽变研究与文星讼案",
+        "chapter": "014.刑事答辩状之三（李敖）.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/014.闽变研究与文星讼案/014.刑事答辩状之三（李敖）.txt",
+        "line": 53,
+        "lines": [
+          53,
+          531,
+          591,
+          643
+        ],
+        "note": "补入8月5日第三答辩状及其中对4月29日《现代史辨伪方法论》、7月15日《为一言丧邦举证》的回述。"
+      }
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "minbian-yanjiu-wenxing-songan-round001-closeout",
+    "id": "minbian-wenxing-songan-1963-07-04-to-08-05-adds-counterclaim-and-third-defense-against-hu",
+    "date": "1963-07-04",
+    "year": 1963,
+    "month": 7,
+    "day": 4,
+    "displayDate": "1963年7月4日至8月5日",
+    "datePrecision": "date-range",
+    "title": "李敖追加反诉胡秋原两本新书，并以“一言丧邦”和二十例继续答辩",
+    "summary": "1963年7月4日，李敖针对胡秋原6月22日起发布《此风不可长》和《诽谤集团公然煽动政治清算问题》两书，提交第二次刑事反诉状，称胡秋原对他连续栽诬诽谤。7月15日前后，他又以《刑事答辩状之二——为“一言丧邦”举证》整理胡秋原三十年来有利于苏联、有利于共产党的文字，提醒言论家承担文字后果。8月5日，李敖提交第三答辩状，明说4月29日答辩状即《现代史辨伪方法论》，7月15日已呈照片五帧及《为“一言丧邦”举证》，此处再就胡秋原缠讼诬控的零星小节列举二十例答辩。",
+    "source": {
+      "book": "闽变研究与文星讼案",
+      "chapter": "012.刑事反诉状第二次（李敖）.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/014.闽变研究与文星讼案/012.刑事反诉状第二次（李敖）.txt",
+      "line": 9,
+      "lines": [
+        9,
+        31
+      ]
+    },
+    "people": [
+      "李敖",
+      "胡秋原",
+      "李晋芳",
+      "许登源"
+    ],
+    "places": [
+      "台北地方法院",
+      "台北",
+      "文星"
+    ],
+    "works": [
+      "闽变研究与文星讼案",
+      "此风不可长",
+      "诽谤集团公然煽动政治清算问题",
+      "为一言丧邦举证",
+      "刑事答辩状之三",
+      "现代史辨伪方法论",
+      "文星"
+    ],
+    "tags": [
+      "闽变研究与文星讼案",
+      "第一轮",
+      "第011至014章",
+      "反诉",
+      "一言丧邦",
+      "胡秋原",
+      "现代史辨伪方法论",
+      "二十例答辩"
+    ],
+    "view": [
+      "司法线",
+      "作品线",
+      "史料线",
+      "文星线"
+    ],
+    "crossReferences": [
+      "zhongguo-xiandaishi-dinglun-1963-05-01-publishes-modern-history-falsification-methodology",
+      "qianqiu-wansui-1965-09-25-051-publishes-minbian-and-wenxing-lawsuit",
+      "li-ao-dageda-098-shows-hu-qiuyuan-soviet-contradictions-and-1933-minbian-documents",
+      "li-ao-youhua-shuo-022-compares-hu-qiuyuan-soviet-statements-and-finds-contradictions"
+    ]
+  },
+  {
+    "category": "legal-evidence",
+    "type": "李敖当事人事件",
+    "additionalSources": [
+      {
+        "book": "闽变研究与文星讼案",
+        "chapter": "017.附录二：国史馆馆长罗家伦函.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/014.闽变研究与文星讼案/017.附录二：国史馆馆长罗家伦函.txt",
+        "line": 3,
+        "lines": [
+          3,
+          9
+        ],
+        "note": "补入国史馆7月2日复函，说明萧孟能与李敖并未亦无从窃取或盗用馆藏。"
+      },
+      {
+        "book": "闽变研究与文星讼案",
+        "chapter": "018.附录三：中华民国开国五十年文献编纂委员会高荫祖函.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/014.闽变研究与文星讼案/018.附录三：中华民国开国五十年文献编纂委员会高荫祖函.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          7
+        ],
+        "note": "补入开国五十年文献编纂委员会复函对公开印刷品和李敖临时工作人员身份的说明。"
+      },
+      {
+        "book": "闽变研究与文星讼案",
+        "chapter": "019.辩护意旨书（李晋芳）.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/014.闽变研究与文星讼案/019.辩护意旨书（李晋芳）.txt",
+        "line": 99,
+        "lines": [
+          33,
+          99,
+          111
+        ],
+        "note": "补入李晋芳8月4日辩护意旨书对国史馆和文献会函复的法律归纳。"
+      }
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "minbian-yanjiu-wenxing-songan-round001-closeout",
+    "id": "minbian-wenxing-songan-1963-07-02-to-08-04-uses-archive-replies-to-refute-theft-accusation",
+    "date": "1963-07-02",
+    "year": 1963,
+    "month": 7,
+    "day": 2,
+    "displayDate": "1963年7月2日至8月4日",
+    "datePrecision": "date-range",
+    "title": "国史馆和开国文献会复函洗清“盗窃国家文书”指控，李敖一方据此第三次反诉",
+    "summary": "台北地方法院以52绥刑诚字第二〇四四五号函查萧孟能、李敖是否窃取或盗用国家机关档案文书；国史馆7月2日复函称二人并未亦无从窃取或盗用，开国五十年文献编纂委员会也说明李敖曾为临时工作人员，所存报纸杂志为公开发行印刷品，工作人员可阅读使用，不发生所谓窃取或盗用问题。8月4日，萧孟能、李敖在第三次反诉状中把这些复函作为铁证，指出胡秋原围绕“盗窃国家文书”“幕后人”两主题翻新诬控，甚至剪贴改换“偷摄”“复制”等字样，意在欺蒙法庭。",
+    "source": {
+      "book": "闽变研究与文星讼案",
+      "chapter": "015.刑事反诉状第三次（萧孟能·李敖）.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/014.闽变研究与文星讼案/015.刑事反诉状第三次（萧孟能·李敖）.txt",
+      "line": 25,
+      "lines": [
+        9,
+        25,
+        29,
+        39,
+        61,
+        65
+      ]
+    },
+    "people": [
+      "李敖",
+      "萧孟能",
+      "胡秋原",
+      "罗家伦",
+      "高荫祖",
+      "李晋芳"
+    ],
+    "places": [
+      "台北地方法院",
+      "国史馆",
+      "中华民国开国五十年文献编纂委员会",
+      "台北"
+    ],
+    "works": [
+      "闽变研究与文星讼案",
+      "刑事反诉状第三次",
+      "辩护意旨书",
+      "文星",
+      "少作收残集"
+    ],
+    "tags": [
+      "闽变研究与文星讼案",
+      "第一轮",
+      "第015至019章",
+      "国史馆",
+      "开国五十年文献编纂委员会",
+      "盗窃国家文书指控",
+      "档案函复",
+      "反诉",
+      "胡秋原"
+    ],
+    "view": [
+      "司法线",
+      "史料线",
+      "文星线"
+    ],
+    "crossReferences": [
+      "daxue-houqi-yi-1963-04-05-ntu-replies-hu-qiuyuan-about-guowen-zhoubao-and-li-ao-borrowing-records",
+      "daxue-houqi-yi-1966-open-letter-to-qian-siliang-about-ntu-false-evidence-and-summoning-him-to-court",
+      "li-ao-mimi-shufang-003-proves-ownership-of-wartime-newspapers-in-hu-qiuyuan-lawsuit",
+      "li-ao-mimi-shufang-047-recounts-hu-qiuyuan-wartime-newspaper-proof"
+    ]
+  },
+  {
+    "category": "legal-counterclaim",
+    "type": "李敖当事人事件",
+    "additionalSources": [
+      {
+        "book": "闽变研究与文星讼案",
+        "chapter": "021.刑事理由状（李敖）.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/014.闽变研究与文星讼案/021.刑事理由状（李敖）.txt",
+        "line": 9,
+        "lines": [
+          9,
+          13,
+          15,
+          17,
+          27
+        ],
+        "note": "补入9月2日李敖就诬告部分追加书面理由，集中处理盗窃国家文书、版权和变造证据。"
+      },
+      {
+        "book": "闽变研究与文星讼案",
+        "chapter": "022.五点感慨（李敖）.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/014.闽变研究与文星讼案/022.五点感慨（李敖）.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          23,
+          25
+        ],
+        "note": "补入9月6日李敖对台北地方法院初审判决的五点感慨和高院审理说明。"
+      }
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "minbian-yanjiu-wenxing-songan-round001-closeout",
+    "id": "minbian-wenxing-songan-1963-08-29-to-09-06-supplements-counterclaim-and-responds-to-first-judgment",
+    "date": "1963-08-29",
+    "year": 1963,
+    "month": 8,
+    "day": 29,
+    "displayDate": "1963年8月29日至9月6日",
+    "datePrecision": "date-range",
+    "title": "李敖、萧孟能补充反诉理由，李敖又在初审判决后写《五点感慨》",
+    "summary": "1963年8月29日，萧孟能、李敖提交补充反诉理由状，指出胡秋原第三次印书《诽谤集团公然煽动政治清算问题》不仅诬称他们幕后影响法院，也直诬法院本身。9月2日，李敖再以刑事理由状补充诬告部分，说明《文星》第六十期闽变照片属于旧文新刊而非他署名负责，国史馆和开国文献会复函已洗清盗窃指控，胡秋原还把许登源文字强改成李敖文字、在8月28日庭上虚称李敖说过“红帽子戴定了”。9月6日，李敖针对台北地方法院初审判决写《五点感慨》，批评判决要求他为非其文字负刑责，并说明此案已在高等法院审理中。",
+    "source": {
+      "book": "闽变研究与文星讼案",
+      "chapter": "020.补充反诉理由状（萧孟能·李敖）.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/014.闽变研究与文星讼案/020.补充反诉理由状（萧孟能·李敖）.txt",
+      "line": 9,
+      "lines": [
+        9,
+        41
+      ]
+    },
+    "people": [
+      "李敖",
+      "萧孟能",
+      "胡秋原",
+      "许登源",
+      "李晋芳",
+      "蒋介石"
+    ],
+    "places": [
+      "台北地方法院",
+      "高等法院",
+      "台北",
+      "国史馆",
+      "中华民国开国五十年文献编纂委员会"
+    ],
+    "works": [
+      "闽变研究与文星讼案",
+      "补充反诉理由状",
+      "刑事理由状",
+      "五点感慨",
+      "诽谤集团公然煽动政治清算问题",
+      "文星"
+    ],
+    "tags": [
+      "闽变研究与文星讼案",
+      "第一轮",
+      "第020至022章",
+      "补充反诉",
+      "初审判决",
+      "五点感慨",
+      "诬告",
+      "变造证据",
+      "高等法院"
+    ],
+    "view": [
+      "司法线",
+      "作品线",
+      "史料线",
+      "文星线"
+    ],
+    "crossReferences": [
+      "zaonian-riji-1966-12-09-counterclaim-hu-case-rebukes-hu-qiuyuan-one-and-half-hours",
+      "li-ao-shuhanji-letterbox-1991-05-30-writes-newspapers-on-hu-qiuyuan-defamation-judgment",
+      "li-ao-mimi-shufang-046-recounts-lawsuits-since-hu-qiuyuan-and-court-process-game",
+      "li-ao-youhua-shuo-267-survives-hu-qiuyuan-lawsuit-laughing-and-claims-victory"
+    ]
+  }
+]

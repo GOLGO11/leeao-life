@@ -1,0 +1,823 @@
+[
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "additionalSources": [
+      {
+        "book": "蒋介石研究",
+        "chapter": "《蒋介石研究》目录.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/016.蒋介石研究/《蒋介石研究》目录.txt",
+        "line": 1,
+        "lines": [
+          1,
+          3
+        ],
+        "note": "补入本书目录和自序位置，说明此轮按整本处理。"
+      }
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-round001-closeout",
+    "id": "jiangjieshi-yanjiu-1986-10-20-writes-preface-to-debunk-chiang-family-myths-with-evidence",
+    "date": "1986-10-20",
+    "year": 1986,
+    "month": 10,
+    "day": 20,
+    "displayDate": "1986年10月20日",
+    "datePrecision": "day",
+    "title": "李敖写《蒋介石研究》自序，把全书定位为以证据拆穿蒋家神话",
+    "summary": "1986年10月20日，李敖在台湾写《蒋介石研究》自序，说自己二十二年前出版《胡适研究》，二十二年后出版《蒋介石研究》，是在“蒋介石阴魂不散的岛上”替国民争人格。他强调本书不是单纯发泄，而是以历史家的谨严凭证据说话，像沙尔非米尼写墨索里尼一样拆穿独裁者神话；他并说自己没有丑化蒋介石，只是把被美化的蒋介石拆穿。出版和查禁已有旧锚，本条只收本书自序与研究方法自我定位。",
+    "source": {
+      "book": "蒋介石研究",
+      "chapter": "《蒋介石研究》自序.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/016.蒋介石研究/《蒋介石研究》自序.txt",
+      "line": 9,
+      "lines": [
+        3,
+        5,
+        9
+      ]
+    },
+    "people": [
+      "李敖",
+      "蒋介石",
+      "蔡锷",
+      "袁世凯",
+      "沙尔非米尼",
+      "墨索里尼"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "蒋介石研究",
+      "胡适研究"
+    ],
+    "tags": [
+      "蒋介石研究",
+      "第一轮",
+      "自序",
+      "研究方法",
+      "蒋家神话",
+      "证据",
+      "沙尔非米尼"
+    ],
+    "view": [
+      "作品线",
+      "史料线",
+      "政治线"
+    ],
+    "crossReferences": [
+      "li-ao-shuduji-1986-10-31-secretly-puts-chiang-kai-shek-study-on-press",
+      "book8-1986-11-02-chiang-kai-shek-study-banned",
+      "li-ao-zhaji-1986-11-03-notes-chiang-kai-shek-study-publication",
+      "li-ao-youhua-shuo-058-shows-his-chiang-research-series-and-says-he-never-let-it-go"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "additionalSources": [
+      {
+        "book": "蒋介石研究",
+        "chapter": "001.蒋介石的辫子问题.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/016.蒋介石研究/001.蒋介石的辫子问题.txt",
+        "line": 23,
+        "lines": [
+          19,
+          21,
+          23,
+          25
+        ],
+        "note": "补入李敖用张群回忆推翻蒋介石1906年剪辫神话。"
+      },
+      {
+        "book": "蒋介石研究",
+        "chapter": "003.蒋介石加入了“丈夫团”吗？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/016.蒋介石研究/003.蒋介石加入了“丈夫团”吗？.txt",
+        "line": 63,
+        "lines": [
+          49,
+          51,
+          59,
+          61,
+          63,
+          65
+        ],
+        "note": "补入李敖以丈夫团名单和张群时间反证蒋介石未入丈夫团。"
+      },
+      {
+        "book": "蒋介石研究",
+        "chapter": "004.蒋介石是哪一年见孙中山的？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/016.蒋介石研究/004.蒋介石是哪一年见孙中山的？.txt",
+        "line": 155,
+        "lines": [
+          143,
+          149,
+          153,
+          155,
+          163,
+          165,
+          167
+        ],
+        "note": "补入李敖排比蒋介石自述，断定他1913年才单独见孙中山。"
+      }
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-round001-closeout",
+    "id": "jiangjieshi-yanjiu-1985-09-04-to-12-04-debunks-early-chiang-biography-myths",
+    "date": "1985-09-04",
+    "year": 1985,
+    "month": 9,
+    "day": 4,
+    "displayDate": "1985年9月4日至12月4日",
+    "datePrecision": "date-range",
+    "title": "李敖连续考证蒋介石早年履历，拆穿辫子、日本士官、丈夫团和见孙中山神话",
+    "summary": "1985年9月4日至12月4日，李敖连续写成《蒋介石的辫子问题》《蒋介石是日本士官学校毕业的吗？》《蒋介石加入了“丈夫团”吗？》和《蒋介石是哪一年见孙中山的？》。他用张群回忆、《中国国民党年鉴》、日本陆军学校制度、丈夫团名单、蒋介石1940年和1963年自述等材料，拆穿蒋介石1906年剪辫、冒称日本士官学校毕业、加入丈夫团、早年即追随孙中山等履历神话。日本士官学校问题已有多次节目和演讲旧锚，本条只收本书四篇早年履历考证簇。",
+    "source": {
+      "book": "蒋介石研究",
+      "chapter": "002.蒋介石是日本士官学校毕业的吗？.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/016.蒋介石研究/002.蒋介石是日本士官学校毕业的吗？.txt",
+      "line": 153,
+      "lines": [
+        137,
+        145,
+        149,
+        151,
+        153,
+        155
+      ]
+    },
+    "people": [
+      "李敖",
+      "蒋介石",
+      "张群",
+      "陈其美",
+      "孙中山",
+      "黄郛"
+    ],
+    "places": [
+      "台湾",
+      "日本",
+      "东京",
+      "保定",
+      "奉化",
+      "浙江"
+    ],
+    "works": [
+      "蒋介石研究",
+      "中国国民党年鉴",
+      "蒋总统秘录",
+      "总统蒋公年表初稿",
+      "民国十五年以前之蒋介石先生"
+    ],
+    "tags": [
+      "蒋介石研究",
+      "第一轮",
+      "第001至004章",
+      "日本士官学校",
+      "辫子",
+      "丈夫团",
+      "孙中山",
+      "履历神话"
+    ],
+    "view": [
+      "史料线",
+      "作品线",
+      "政治线"
+    ],
+    "crossReferences": [
+      "tiaozhan-li-ao-2000-02-11-claims-chiang-military-school-record-exposed-by-japan-roster",
+      "li-ao-youhua-shuo-059-broadcasts-debunking-chiang-japanese-military-school",
+      "li-ao-youhua-shuo-059-shows-1929-kmt-yearbook-as-origin-of-lie",
+      "li-ao-yumiao-tianxia-098-proves-chiang-not-japanese-military-academy",
+      "li-ao-yanjiangji-016-demonstrates-reading-method-with-chiang-and-mulan"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "additionalSources": [],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-round001-closeout",
+    "id": "jiangjieshi-yanjiu-1986-01-28-traces-fourteen-chiang-desertions-at-critical-moments",
+    "date": "1986-01-28",
+    "year": 1986,
+    "month": 1,
+    "day": 28,
+    "displayDate": "1986年1月28日",
+    "datePrecision": "day",
+    "title": "李敖写《紧要关头，蒋介石在哪？》，排比蒋介石至少十四次脱队记录",
+    "summary": "1986年1月28日夜，李敖写《紧要关头，蒋介石在哪？》，承接他对蒋介石见孙中山时间的考证，进一步追问蒋介石在孙中山、陈炯明、黄埔军校筹办等关键关头的去向。他排比孙中山、廖仲恺、胡汉民、许崇智等往来电文和国民党材料，指出蒋介石在“追随总理”的过程中至少有十四次拂然而行、留书而去、不告而别等脱队记录，并以廖仲恺“兄可敝屣尊荣，不能敝屣道义”作为结论性反讽。",
+    "source": {
+      "book": "蒋介石研究",
+      "chapter": "005.紧要关头，蒋介石在哪？.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/016.蒋介石研究/005.紧要关头，蒋介石在哪？.txt",
+      "line": 197,
+      "lines": [
+        193,
+        195,
+        197,
+        199
+      ]
+    },
+    "people": [
+      "李敖",
+      "蒋介石",
+      "孙中山",
+      "廖仲恺",
+      "胡汉民",
+      "许崇智",
+      "陈炯明"
+    ],
+    "places": [
+      "台湾",
+      "广州",
+      "上海",
+      "奉化",
+      "黄埔"
+    ],
+    "works": [
+      "蒋介石研究",
+      "紧要关头，蒋介石在哪？",
+      "胡汉民先生言行录"
+    ],
+    "tags": [
+      "蒋介石研究",
+      "第一轮",
+      "第005章",
+      "黄埔军校",
+      "孙中山",
+      "脱队记录",
+      "史料排比"
+    ],
+    "view": [
+      "史料线",
+      "作品线",
+      "政治线"
+    ],
+    "crossReferences": [
+      "li-ao-yumiao-tianxia-106-attacks-chiang-as-opportunist-deserter"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "additionalSources": [
+      {
+        "book": "蒋介石研究",
+        "chapter": "008.林森的“弹劾蒋中正电”.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/016.蒋介石研究/008.林森的“弹劾蒋中正电”.txt",
+        "line": 15,
+        "lines": [
+          13,
+          15,
+          17,
+          19
+        ],
+        "note": "补入李敖引用林森等人弹劾蒋中正电文的证据链。"
+      },
+      {
+        "book": "蒋介石研究",
+        "chapter": "009.蒋介石的特务观.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/016.蒋介石研究/009.蒋介石的特务观.txt",
+        "line": 33,
+        "lines": [
+          29,
+          31,
+          33,
+          35
+        ],
+        "note": "补入李敖对蒋介石特务观和领袖耳目逻辑的短评。"
+      },
+      {
+        "book": "蒋介石研究",
+        "chapter": "010.谁通电杀蒋介石？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/016.蒋介石研究/010.谁通电杀蒋介石？.txt",
+        "line": 45,
+        "lines": [
+          41,
+          43,
+          45,
+          47
+        ],
+        "note": "补入李敖对黄少谷通电与蒋介石训词的对读。"
+      },
+      {
+        "book": "蒋介石研究",
+        "chapter": "014.蒋介石怎样指导演假戏？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/016.蒋介石研究/014.蒋介石怎样指导演假戏？.txt",
+        "line": 73,
+        "lines": [
+          69,
+          71,
+          73,
+          75
+        ],
+        "note": "补入李敖以1950年美国记者访台材料揭示蒋介石宣传操作。"
+      }
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-round001-closeout",
+    "id": "jiangjieshi-yanjiu-1984-11-07-to-1986-06-13-writes-on-chiang-party-power-and-propaganda",
+    "date": "1984-11-07",
+    "year": 1984,
+    "month": 11,
+    "day": 7,
+    "displayDate": "1984年11月7日至1986年6月13日",
+    "datePrecision": "date-range",
+    "title": "李敖以居正、林森、黄少谷、特务观和1950年访台材料揭蒋介石党国权力术",
+    "summary": "1984年11月7日至1986年6月13日，李敖在《蒋介石研究》中把数篇短文合成一条党国权力考证线：他写《谁通电杀蒋介石？》对读黄少谷通电和蒋介石训词，写《蒋介石怎样对待老同志？》追述居正等老同志被杀、被关或被整肃，写《林森的“弹劾蒋中正电”》举林森等人对蒋中正窃夺军权、把持国柄的弹劾，写《蒋介石的特务观》讽刺特务只是领袖耳目，并在《蒋介石怎样指导演假戏？》中用1950年美国记者访台材料说明蒋介石宣传和外交表演。",
+    "source": {
+      "book": "蒋介石研究",
+      "chapter": "007.蒋介石怎样对待老同志？.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/016.蒋介石研究/007.蒋介石怎样对待老同志？.txt",
+      "line": 51,
+      "lines": [
+        47,
+        49,
+        51,
+        53
+      ]
+    },
+    "people": [
+      "李敖",
+      "蒋介石",
+      "居正",
+      "林森",
+      "黄少谷",
+      "宋子文",
+      "萧同兹",
+      "陈之迈"
+    ],
+    "places": [
+      "台湾",
+      "南京",
+      "上海",
+      "重庆",
+      "海南岛"
+    ],
+    "works": [
+      "蒋介石研究",
+      "谁通电杀蒋介石？",
+      "林森的弹劾蒋中正电",
+      "蒋介石的特务观",
+      "蒋介石怎样指导演假戏？"
+    ],
+    "tags": [
+      "蒋介石研究",
+      "第一轮",
+      "第007至010章",
+      "第014章",
+      "党国权力",
+      "特务",
+      "林森",
+      "居正",
+      "宣传操作"
+    ],
+    "view": [
+      "史料线",
+      "政治线",
+      "作品线"
+    ],
+    "crossReferences": [
+      "li-ao-mimi-shufang-022-opens-chiang-secret-files-as-historical-evidence",
+      "li-ao-mimi-shufang-022-uses-wu-tiecheng-orders-to-confirm-chiang-dictatorship"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "additionalSources": [
+      {
+        "book": "蒋介石研究",
+        "chapter": "011.蒋介石的“第二故乡”.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/016.蒋介石研究/011.蒋介石的“第二故乡”.txt",
+        "line": 13,
+        "lines": [
+          11,
+          13,
+          15,
+          17
+        ],
+        "note": "补入李敖把蒋介石“第二故乡”从日本到四川的变化作为政治话术证据。"
+      },
+      {
+        "book": "蒋介石研究",
+        "chapter": "015.蒋介石自承罪愆.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/016.蒋介石研究/015.蒋介石自承罪愆.txt",
+        "line": 51,
+        "lines": [
+          47,
+          49,
+          51,
+          53
+        ],
+        "note": "补入李敖读蒋介石对《中苏友好同盟条约》和外蒙古问题自承罪愆的材料。"
+      }
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-round001-closeout",
+    "id": "jiangjieshi-yanjiu-1985-03-06-to-1986-09-07-reads-chiang-promises-self-confession-and-timetables",
+    "date": "1985-03-06",
+    "year": 1985,
+    "month": 3,
+    "day": 6,
+    "displayDate": "1985年3月6日至1986年9月7日",
+    "datePrecision": "date-range",
+    "title": "李敖对读蒋介石自承罪愆、“第二故乡”和国民党时间表，质疑党国承诺",
+    "summary": "1985年3月6日至1986年9月7日，李敖在《蒋介石研究》中把蒋介石言论和国民党承诺做成一组对读。他在《蒋介石自承罪愆》中指出，蒋介石承认签订《中苏友好同盟条约》、放弃外蒙古是“幼稚的幻想”和“我的责任”；在《蒋介石的“第二故乡”》里把蒋介石所谓日本和四川两个第二故乡相互对照；又在《蒋介石的时间表》中列举反攻大陆、光复台湾、地方自治、废娼等一系列时间表落空，说明国民党给出时间表也不代表会兑现。",
+    "source": {
+      "book": "蒋介石研究",
+      "chapter": "016.蒋介石的时间表.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/016.蒋介石研究/016.蒋介石的时间表.txt",
+      "line": 166,
+      "lines": [
+        162,
+        164,
+        166,
+        168
+      ]
+    },
+    "people": [
+      "李敖",
+      "蒋介石",
+      "严家淦",
+      "康宁祥"
+    ],
+    "places": [
+      "台湾",
+      "四川",
+      "日本",
+      "外蒙古",
+      "中国大陆"
+    ],
+    "works": [
+      "蒋介石研究",
+      "中苏友好同盟条约",
+      "蒋介石的时间表",
+      "蒋介石自承罪愆"
+    ],
+    "tags": [
+      "蒋介石研究",
+      "第一轮",
+      "第011章",
+      "第015至016章",
+      "外蒙古",
+      "时间表",
+      "第二故乡",
+      "国民党承诺"
+    ],
+    "view": [
+      "史料线",
+      "政治线",
+      "作品线"
+    ],
+    "crossReferences": [
+      "li-ao-yumiao-tianxia-079-criticizes-history-books-for-not-admitting-1949-fall",
+      "li-ao-zhenglun-zongyiji-127-repeats-roc-dead-and-says-ma-yingjeou-uses-centennial-to-fool-people"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "additionalSources": [
+      {
+        "book": "蒋介石研究",
+        "chapter": "006.蒋介石为什么不把父母合葬？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/016.蒋介石研究/006.蒋介石为什么不把父母合葬？.txt",
+        "line": 29,
+        "lines": [
+          25,
+          27,
+          29,
+          31
+        ],
+        "note": "补入李敖解释蒋介石父母未合葬和王太夫人再嫁背景。"
+      },
+      {
+        "book": "蒋介石研究",
+        "chapter": "020.蒋介石只信基督教吗？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/016.蒋介石研究/020.蒋介石只信基督教吗？.txt",
+        "line": 29,
+        "lines": [
+          25,
+          27,
+          29,
+          31
+        ],
+        "note": "补入李敖对蒋介石基督教、佛教、民间神道和圣母像材料的对读。"
+      },
+      {
+        "book": "蒋介石研究",
+        "chapter": "021.蒋经国怀胎二十多个月吗？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/016.蒋介石研究/021.蒋经国怀胎二十多个月吗？.txt",
+        "line": 29,
+        "lines": [
+          25,
+          29,
+          33,
+          41,
+          43
+        ],
+        "note": "补入李敖用蒋经国出生年月反推蒋介石留日年表矛盾。"
+      }
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-round001-closeout",
+    "id": "jiangjieshi-yanjiu-1986-02-08-to-05-07-examines-chiang-family-lineage-religion-and-chiang-chingkuo-adoption",
+    "date": "1986-02-08",
+    "year": 1986,
+    "month": 2,
+    "day": 8,
+    "displayDate": "1986年2月8日至5月7日",
+    "datePrecision": "date-range",
+    "title": "李敖考证蒋介石家庭谱系、宗教信仰和蒋经国过继问题",
+    "summary": "1986年2月8日至5月7日，李敖在《蒋介石研究》中把蒋家家庭谱系与宗教信仰合成一组反神话考证：他写《蒋介石为什么不把父母合葬？》，由王太夫人再嫁背景解释未合葬；写《蒋介石只信基督教吗？》，用佛教、神道、风水和圣母像材料说明蒋介石并非单纯基督徒；写《蒋经国怀胎二十多个月吗？》，从蒋经国1910年3月18日出生倒推蒋介石留日年表矛盾；又写《蒋经国的另一个爸爸》，用《亡弟瑞青哀状》说明蒋经国曾被过继给蒋周传。",
+    "source": {
+      "book": "蒋介石研究",
+      "chapter": "022.蒋经国的另一个爸爸.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/016.蒋介石研究/022.蒋经国的另一个爸爸.txt",
+      "line": 47,
+      "lines": [
+        7,
+        17,
+        39,
+        47,
+        49,
+        51
+      ]
+    },
+    "people": [
+      "李敖",
+      "蒋介石",
+      "蒋经国",
+      "蒋周传",
+      "王太夫人",
+      "宋美龄",
+      "蒋纬国",
+      "戴传贤"
+    ],
+    "places": [
+      "台湾",
+      "奉化",
+      "溪口",
+      "日本",
+      "南京"
+    ],
+    "works": [
+      "蒋介石研究",
+      "慈庵记",
+      "亡弟瑞青哀状",
+      "守父灵一月记",
+      "总统蒋公年表初稿"
+    ],
+    "tags": [
+      "蒋介石研究",
+      "第一轮",
+      "第006章",
+      "第020至022章",
+      "蒋家谱系",
+      "蒋经国",
+      "过继",
+      "宗教信仰",
+      "家庭神话"
+    ],
+    "view": [
+      "史料线",
+      "家族线",
+      "作品线"
+    ],
+    "crossReferences": [
+      "qiushi-xinyu-1990-01-13-two-years-after-chiang-ching-kuo-death"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "additionalSources": [
+      {
+        "book": "蒋介石研究",
+        "chapter": "017.蒋介石的大法螺.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/016.蒋介石研究/017.蒋介石的大法螺.txt",
+        "line": 21,
+        "lines": [
+          17,
+          21,
+          23
+        ],
+        "note": "补入李敖以蒋介石手订喊话要旨批其自称救星。"
+      },
+      {
+        "book": "蒋介石研究",
+        "chapter": "018.蒋介石与变化气.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/016.蒋介石研究/018.蒋介石与变化气.txt",
+        "line": 27,
+        "lines": [
+          25,
+          27,
+          29,
+          31
+        ],
+        "note": "补入李敖用“变化气质/变化气”笑话批国民党不学而谈学术。"
+      }
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-round001-closeout",
+    "id": "jiangjieshi-yanjiu-1986-06-13-to-07-14-criticizes-chiang-cult-and-qian-mu-imperial-scholarship",
+    "date": "1986-06-13",
+    "year": 1986,
+    "month": 6,
+    "day": 13,
+    "displayDate": "1986年6月13日至7月14日",
+    "datePrecision": "date-range",
+    "title": "李敖以法螺、变化气质和钱穆素书楼，批蒋介石领袖崇拜与御用学术",
+    "summary": "1986年6月13日至7月14日，李敖在《蒋介石研究》中写《蒋介石的大法螺》《蒋介石与变化气》和《蒋介石和钱穆之间的一些臭史》，把蒋介石自称领袖、救星、谈“变化气质”和钱穆接受公帑住宅、歌颂蒋介石等材料并列。他认为蒋介石与国民党不学而强谈学术，御用学者又以曲学阿世配合领袖崇拜；钱穆“素书楼”一案则成为知识分子依附蒋介石、失去完整人格的彰明例子。",
+    "source": {
+      "book": "蒋介石研究",
+      "chapter": "019.蒋介石和钱穆之间的一些臭史.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/016.蒋介石研究/019.蒋介石和钱穆之间的一些臭史.txt",
+      "line": 99,
+      "lines": [
+        79,
+        89,
+        95,
+        99,
+        101
+      ]
+    },
+    "people": [
+      "李敖",
+      "蒋介石",
+      "钱穆",
+      "林挺生",
+      "张载",
+      "朱熹"
+    ],
+    "places": [
+      "台湾",
+      "士林",
+      "外双溪",
+      "阳明山",
+      "香港"
+    ],
+    "works": [
+      "蒋介石研究",
+      "新亚学规",
+      "总统蒋公墨宝",
+      "反攻大陆声中向国民政府进一忠告"
+    ],
+    "tags": [
+      "蒋介石研究",
+      "第一轮",
+      "第017至019章",
+      "钱穆",
+      "素书楼",
+      "御用学术",
+      "变化气质",
+      "领袖崇拜"
+    ],
+    "view": [
+      "史料线",
+      "思想线",
+      "作品线"
+    ],
+    "crossReferences": [
+      "li-ao-shuzhaji-1983-01-18-writes-lin-zhengjie-on-qian-mu-lin-yutang-public-funds",
+      "li-ao-suixielu-houji-1992-01-13-comments-li-huan-salvation-corps-changing-youth-temperament",
+      "li-ao-zhenglun-zongyiji-111-links-qian-mu-house-qi-bangyuan-class-memory-and-japanese-magazine-evidence"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "additionalSources": [
+      {
+        "book": "蒋介石研究",
+        "chapter": "013.蒋介石与国库黄金.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/016.蒋介石研究/013.蒋介石与国库黄金.txt",
+        "line": 37,
+        "lines": [
+          3,
+          27,
+          31,
+          33,
+          37
+        ],
+        "note": "补入李敖先引《宋家王朝》再指出其中瑕疵，转入自己专题追查。"
+      },
+      {
+        "book": "蒋介石研究",
+        "chapter": "013.蒋介石与国库黄金.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/016.蒋介石研究/013.蒋介石与国库黄金.txt",
+        "line": 91,
+        "lines": [
+          87,
+          89,
+          91,
+          97,
+          99
+        ],
+        "note": "补入李敖以董显光、蒋经国和俞鸿钧材料追查黄金运台。"
+      },
+      {
+        "book": "蒋介石研究",
+        "chapter": "013.蒋介石与国库黄金.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/016.蒋介石研究/013.蒋介石与国库黄金.txt",
+        "line": 185,
+        "lines": [
+          177,
+          181,
+          185,
+          187,
+          195,
+          203
+        ],
+        "note": "补入李敖以李宗仁回忆收束国库黄金与宪政责任问题。"
+      }
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-round001-closeout",
+    "id": "jiangjieshi-yanjiu-1985-12-19-writes-chiang-and-national-treasury-gold-investigation",
+    "date": "1985-12-19",
+    "year": 1985,
+    "month": 12,
+    "day": 19,
+    "displayDate": "1985年12月19日夜",
+    "datePrecision": "day",
+    "title": "李敖写《蒋介石与国库黄金》，追查蒋介石下野后搬运国库金银外汇",
+    "summary": "1985年12月19日夜，李敖写《蒋介石与国库黄金》，先引史特林·席格雷夫《宋家王朝》关于金圆券、上海黄金和中央银行搬运的段落，再指出其中把中国银行、青帮和货船等处说错，转而以蒋经国、董显光、俞鸿钧纪念文字、詹特芳回忆、李宗仁口述等材料重构国库黄金运台链条。他强调蒋介石下野后已是“国民一分子”，却能越过代总统搬走国库金银外汇，造成李宗仁一文不名和金融崩溃，是中国现代史、宪政史和政党史上的重大笑话。后续节目关于国库黄金的重述均只作旧锚回挂。",
+    "source": {
+      "book": "蒋介石研究",
+      "chapter": "013.蒋介石与国库黄金.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/016.蒋介石研究/013.蒋介石与国库黄金.txt",
+      "line": 195,
+      "lines": [
+        175,
+        177,
+        185,
+        187,
+        195,
+        197
+      ]
+    },
+    "people": [
+      "李敖",
+      "蒋介石",
+      "李宗仁",
+      "俞鸿钧",
+      "吴嵩庆",
+      "詹特芳",
+      "董显光",
+      "史特林·席格雷夫",
+      "陈诚",
+      "杜月笙"
+    ],
+    "places": [
+      "台湾",
+      "上海",
+      "南京",
+      "厦门",
+      "广州",
+      "香港"
+    ],
+    "works": [
+      "蒋介石研究",
+      "蒋介石与国库黄金",
+      "宋家王朝",
+      "李宗仁回忆录",
+      "蒋总统传",
+      "俞鸿钧先生纪念集"
+    ],
+    "tags": [
+      "蒋介石研究",
+      "第一轮",
+      "第013章",
+      "国库黄金",
+      "金圆券",
+      "李宗仁",
+      "俞鸿钧",
+      "宪政",
+      "金融崩溃"
+    ],
+    "view": [
+      "史料线",
+      "政治线",
+      "作品线"
+    ],
+    "crossReferences": [
+      "li-ao-youhua-shuo-015-says-chiang-took-gold-to-taiwan-as-new-taiwan-dollar-reserve",
+      "li-ao-youhua-shuo-584-shows-chiang-gold-barrel-photo-and-defines-money-as-freedom",
+      "li-ao-zhenglun-zongyiji-113-returns-to-shanghai-gold-run-hyperinflation-and-chen-yi-blocking-gold-yuan",
+      "li-ao-zhenglun-zongyiji-116-retells-hyperinflation-gold-run-old-taiwan-dollar-and-chen-yi-ban",
+      "li-ao-zhenglun-zongyiji-116-separates-national-and-private-gold-and-calls-chiang-yu-civilians-moving-treasury"
+    ]
+  }
+]

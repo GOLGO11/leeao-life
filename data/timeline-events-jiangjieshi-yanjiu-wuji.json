@@ -1,0 +1,797 @@
+[
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-wuji-round001-closeout",
+    "id": "jiangjieshi-yanjiu-wuji-1987-12-15-writes-fifth-volume-after-news-bureau-police-crackdown",
+    "date": "1987-12-15",
+    "year": 1987,
+    "month": 12,
+    "day": 15,
+    "displayDate": "1987年12月15日夜",
+    "datePrecision": "day",
+    "title": "李敖写《蒋介石研究五集》自序，以新闻局密函和警察查扣书摊回应禁书新招",
+    "summary": "1987年12月15日夜，李敖写《蒋介石研究五集》自序，回顾《蒋介石研究》一至三集在戒严法令下被查禁，第四集出版时已解除戒严，旧的出版物管制办法不能再用。国民党文字警察转而在1987年11月27日全台查扣李敖的书、传唤书店书摊老板并用违警裁决压制销售；李敖查到行动源自行政院新闻局邵玉铭密函，因而告邵玉铭和八名警察分局长涉嫌妨害自由，并加出五集作为回敬。",
+    "source": {
+      "book": "蒋介石研究五集",
+      "chapter": "《蒋介石研究五集》自序.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/020.蒋介石研究五集/《蒋介石研究五集》自序.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13
+      ]
+    },
+    "people": [
+      "李敖",
+      "蒋介石",
+      "邵玉铭"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "蒋介石研究",
+      "蒋介石研究续集",
+      "蒋介石研究三集",
+      "蒋介石研究四集",
+      "蒋介石研究五集",
+      "台湾地区戒严时期出版物管制办法",
+      "出版法"
+    ],
+    "tags": [
+      "蒋介石研究五集",
+      "自序",
+      "查禁",
+      "新闻局",
+      "警察查扣",
+      "违警裁决"
+    ],
+    "view": [
+      "写作线",
+      "出版线",
+      "司法线",
+      "政治线"
+    ],
+    "crossReferences": [
+      "jiangjieshi-yanjiu-1986-10-20-writes-preface-to-debunk-chiang-family-myths-with-evidence",
+      "book8-1986-11-02-chiang-kai-shek-study-banned",
+      "jiangjieshi-yanjiu-xuji-1987-01-07-writes-sequel-preface-after-first-book-banned",
+      "book8-1987-01-22-chiang-kai-shek-study-sequel-banned",
+      "jiangjieshi-yanjiu-sanji-1987-06-27-writes-third-volume-after-sequel-ban-and-taichung-search",
+      "jiangjieshi-yanjiu-siji-1987-10-10-writes-fourth-volume-preface-after-three-bans"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-wuji-round001-closeout",
+    "id": "jiangjieshi-yanjiu-wuji-1985-11-08-to-1986-12-03-corrects-chiang-biographies-on-yongfeng-and-january-28",
+    "date": "1985-11-08",
+    "year": 1985,
+    "month": 11,
+    "day": 8,
+    "displayDate": "1985年11月8日至1986年12月3日",
+    "datePrecision": "date-range",
+    "title": "李敖连读《蒋总统传》《蒋总统秘录》，纠正永丰舰和一二八撤退叙事",
+    "summary": "1985年11月8日至1986年12月3日，李敖把御用蒋传中的两类写法并置纠谬：在《蒋介石在现场救孙中山？》中，他用黄惠龙《中山先生亲征录》、陈肇英《八十自述》等材料，指出蒋介石6月25日才离沪、29日才到永丰舰，孙中山离舰时也不止蒋介石一人，《蒋总统传》把蒋介石写成现场救孙中山是在捏造；在《为〈蒋总统秘录〉歪曲历史指谬》中，他又用第五军、十九路军资料说明一二八淞沪撤退命令3月1日晚已经下达，《蒋总统秘录》所谓第五军孤立继续作战是蓄意丑化十九路军。此条只收五集新增纠谬，永丰舰开小差和一二八抗命旧案均回挂旧锚。",
+    "source": {
+      "book": "蒋介石研究五集",
+      "chapter": "001.蒋介石在现场救孙中山？.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/020.蒋介石研究五集/001.蒋介石在现场救孙中山？.txt",
+      "line": 31,
+      "lines": [
+        9,
+        31,
+        33,
+        35,
+        37,
+        41,
+        43,
+        49
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "蒋介石研究五集",
+        "chapter": "002.为《蒋总统秘录》歪曲历史指谬.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/020.蒋介石研究五集/002.为《蒋总统秘录》歪曲历史指谬.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          17,
+          193,
+          199,
+          201,
+          209,
+          215,
+          219
+        ],
+        "note": "补入《蒋总统秘录》对一二八淞沪抗战撤退命令的丑化问题。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "蒋介石",
+      "孙中山",
+      "陈炯明",
+      "黄惠龙",
+      "陈肇英",
+      "沈云龙",
+      "董显光",
+      "蔡廷锴",
+      "俞济时"
+    ],
+    "places": [
+      "台湾",
+      "广州",
+      "永丰舰",
+      "上海",
+      "南翔",
+      "嘉定",
+      "太仓",
+      "浏河"
+    ],
+    "works": [
+      "蒋介石研究五集",
+      "蒋总统传",
+      "蒋总统秘录",
+      "中山先生亲征录",
+      "八十自述",
+      "孙大总统广州蒙难记",
+      "淞沪抗日战役第五军战斗要报"
+    ],
+    "tags": [
+      "永丰舰",
+      "陈炯明叛变",
+      "一二八",
+      "十九路军",
+      "第五军",
+      "蒋总统传",
+      "蒋总统秘录"
+    ],
+    "view": [
+      "史料线",
+      "军事线",
+      "政治线"
+    ],
+    "crossReferences": [
+      "jiangjieshi-yanjiu-1986-01-28-traces-fourteen-chiang-desertions-at-critical-moments",
+      "jiangjieshi-yanjiu-sanji-1987-06-context-reconstructs-january-28-as-nineteenth-route-army-defying-chiang",
+      "li-ao-youhua-shuo-519-catches-yongfeng-ship-propaganda-through-shanghai-question",
+      "li-ao-youhua-shuo-642-corrects-yongfeng-ship-myth-with-thirteen-day-delay-and-fourteen-awols"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-wuji-round001-closeout",
+    "id": "jiangjieshi-yanjiu-wuji-1982-10-10-to-1987-10-28-builds-zhang-xueliang-counter-accusation-chain",
+    "date": "1982-10-10",
+    "year": 1982,
+    "month": 10,
+    "day": 10,
+    "displayDate": "1982年10月10日至1987年10月28日（003无单篇署日，按五集成书语境纳入）",
+    "datePrecision": "date-range",
+    "title": "李敖合并张学良四篇，反驳国民党把大陆失败和西安事变都赖给张学良",
+    "summary": "1982年10月10日至1987年10月28日，李敖在五集中把四篇张学良材料合成反诬链：长文《蒋介石与张学良之一》从国民党把大陆失败归咎西安事变写起，用张其昀、董显光、张学良回忆、周恩来、史沫特莱、斯诺、孔祥熙、蒋介石谈话等材料，说明张学良有抗日、停战、释放政治犯等政治理由；《蒋介石与张学良之二》补出周恩来1935年致陈果夫、陈立夫信和“一登莫干、两至匡庐”材料，证明国民党早已秘密接触中共；《蒋介石与张学良之三》用何世礼材料澄清九一八之夜张学良在开明大戏院听戏并非“更抱佳人舞”；《蒋介石笔下的孙铭九》再对读蒋介石《西安半月记》和孙铭九回忆，显示西安事变现场细节并非蒋氏单方面叙述可尽。",
+    "source": {
+      "book": "蒋介石研究五集",
+      "chapter": "003.蒋介石与张学良之一.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/020.蒋介石研究五集/003.蒋介石与张学良之一.txt",
+      "line": 5,
+      "lines": [
+        3,
+        5,
+        45,
+        87,
+        163,
+        299,
+        497,
+        579,
+        597,
+        611
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "蒋介石研究五集",
+        "chapter": "004.蒋介石与张学良之二.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/020.蒋介石研究五集/004.蒋介石与张学良之二.txt",
+        "line": 5,
+        "lines": [
+          5,
+          27,
+          33,
+          35,
+          49
+        ],
+        "note": "补入周恩来1935年9月1日信与国共秘密接触时间考证。"
+      },
+      {
+        "book": "蒋介石研究五集",
+        "chapter": "005.蒋介石与张学良之三.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/020.蒋介石研究五集/005.蒋介石与张学良之三.txt",
+        "line": 3,
+        "lines": [
+          3,
+          95,
+          97,
+          99,
+          103,
+          107,
+          131,
+          137
+        ],
+        "note": "补入何世礼等材料对九一八之夜张学良行踪的澄清。"
+      },
+      {
+        "book": "蒋介石研究五集",
+        "chapter": "006.蒋介石笔下的孙铭九.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/020.蒋介石研究五集/006.蒋介石笔下的孙铭九.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          7,
+          29,
+          37
+        ],
+        "note": "补入蒋介石《西安半月记》与孙铭九回忆的现场对读。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "蒋介石",
+      "张学良",
+      "周恩来",
+      "陈立夫",
+      "陈果夫",
+      "孙铭九",
+      "何世礼",
+      "孔祥熙",
+      "史沫特莱",
+      "斯诺",
+      "叶剑英",
+      "秦邦宪"
+    ],
+    "places": [
+      "台湾",
+      "西安",
+      "延安",
+      "莫干山",
+      "北平",
+      "沈阳",
+      "上海",
+      "南京"
+    ],
+    "works": [
+      "蒋介石研究五集",
+      "蒋总统传",
+      "党史概要",
+      "苏俄在中国",
+      "西安半月记",
+      "参加抗战准备工作之回忆",
+      "中外杂志",
+      "现代史的关键人物张学良"
+    ],
+    "tags": [
+      "张学良",
+      "西安事变",
+      "九一八",
+      "孙铭九",
+      "周恩来",
+      "国共秘密接触",
+      "国民党宣传"
+    ],
+    "view": [
+      "史料线",
+      "军事线",
+      "政治线"
+    ],
+    "crossReferences": [
+      "zhongguo-xiandaishi-zhenglun-1982-autumn-winter-writes-defending-zhang-xueliang",
+      "zhongguo-xiandaishi-zhenglun-1987-10-27-writes-postscript-to-sun-mingjiu-photos",
+      "li-ao-shuxuji-xuji-1990-06-01-compiles-jiang-zhang-secret-materials-for-zhang-xueliang-ninetieth",
+      "li-ao-dageda-001-restates-early-zhang-xueliang-research",
+      "li-ao-dageda-001-shows-secret-telegram-and-he-shili-diary",
+      "li-ao-youhua-shuo-281-shows-sun-mingjiu-letter-and-recounts-capturing-chiang-behind-rocks"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-wuji-round001-closeout",
+    "id": "jiangjieshi-yanjiu-wuji-1987-08-18-to-08-21-rechecks-huayuankou-yellow-river-flood",
+    "date": "1987-08-18",
+    "year": 1987,
+    "month": 8,
+    "day": 18,
+    "displayDate": "1987年8月18日至8月21日",
+    "datePrecision": "date-range",
+    "title": "李敖重查花园口黄河决堤，反驳《蒋总统传》把水灾写成战功",
+    "summary": "1987年8月18日至8月21日，李敖连续写《蒋介石放水成性》和《〈蒋总统传〉信口开河》，追查1938年花园口黄河决堤。他先从何应钦《八年抗战之经过》写起，指出蒋介石和何应钦共同承担掘堤责任，再对读魏汝霖、黄河堵口复堤材料和张群题词，强调灾区遍及豫东、皖北、苏北，人民创伤难平；随后批董显光《蒋总统传》把决黄河堤写成阻止日军进开封的功业，反指这是“淹敌人少、淹同胞多”的始作俑者式叙事。",
+    "source": {
+      "book": "蒋介石研究五集",
+      "chapter": "007.蒋介石放水成性.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/020.蒋介石研究五集/007.蒋介石放水成性.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        43,
+        83,
+        127,
+        151,
+        185,
+        187
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "蒋介石研究五集",
+        "chapter": "008.《蒋总统传》信口开河.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/020.蒋介石研究五集/008.《蒋总统传》信口开河.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          9,
+          13,
+          15
+        ],
+        "note": "补入《蒋总统传》对黄河决堤的歌功颂德与李敖反驳。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "蒋介石",
+      "何应钦",
+      "董显光",
+      "魏汝霖",
+      "张群",
+      "萧白帆",
+      "陈纳德"
+    ],
+    "places": [
+      "台湾",
+      "花园口",
+      "中牟",
+      "河南",
+      "安徽",
+      "江苏",
+      "开封",
+      "武汉"
+    ],
+    "works": [
+      "蒋介石研究五集",
+      "八年抗战之经过",
+      "抗战时期黄河决口纪实",
+      "黄河花园合龙纪念册",
+      "蒋总统传",
+      "中国近百年革命史",
+      "我与中国"
+    ],
+    "tags": [
+      "花园口",
+      "黄河决堤",
+      "抗战",
+      "蒋总统传",
+      "董显光",
+      "水灾"
+    ],
+    "view": [
+      "史料线",
+      "军事线",
+      "政治线"
+    ],
+    "crossReferences": []
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-wuji-round001-closeout",
+    "id": "jiangjieshi-yanjiu-wuji-1985-08-24-to-1986-06-15-expands-unequal-treaty-and-sell-country-evidence",
+    "date": "1985-08-24",
+    "year": 1985,
+    "month": 8,
+    "day": 24,
+    "displayDate": "1985年8月24日至1986年6月15日（009无单篇署日）",
+    "datePrecision": "date-range",
+    "title": "李敖把废约神话、中美共同防御条约和外蒙古联合国席位并成卖国证据链",
+    "summary": "1985年8月24日至1986年6月15日，李敖在五集中把不平等条约问题继续扩展开来：在《不平等条约是蒋介石废除的吗？》中，他从1978年学生质疑高中历史和三民主义课本日期矛盾说起，检查英美法废约、会审公堂、九龙和《中苏友好同盟条约》等史料，指出国民党并非唯一或完整废除不平等条约者；在给车之鉴的《蒋介石卖国冠军》中，他把《中美共同防御条约》、九一八不抵抗、热河和外蒙古等列入国民党失土链；在《蒋介石的“蒙古症”》中，他再引蒋介石对外蒙独立的罪愆、1953年废约和1961年未否决外蒙古入联合国，说明国民党从断送到保送外蒙古。",
+    "source": {
+      "book": "蒋介石研究五集",
+      "chapter": "011.蒋介石的“蒙古症”.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/020.蒋介石研究五集/011.蒋介石的“蒙古症”.txt",
+      "line": 5,
+      "lines": [
+        5,
+        21,
+        27,
+        35,
+        41,
+        43,
+        45,
+        47
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "蒋介石研究五集",
+        "chapter": "009.不平等条约是蒋介石废除的吗？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/020.蒋介石研究五集/009.不平等条约是蒋介石废除的吗？.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          19,
+          73,
+          167,
+          203,
+          227,
+          235,
+          237,
+          239
+        ],
+        "note": "补入废除不平等条约、会审公堂、九龙与中苏条约仍属不平等条约的考证。"
+      },
+      {
+        "book": "蒋介石研究五集",
+        "chapter": "010.蒋介石卖国冠军.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/020.蒋介石研究五集/010.蒋介石卖国冠军.txt",
+        "line": 3,
+        "lines": [
+          3,
+          25,
+          101,
+          103,
+          107,
+          111,
+          113,
+          117
+        ],
+        "note": "补入车之鉴来函引发的国民党失土与卖国比较。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "蒋介石",
+      "王世杰",
+      "胡庆育",
+      "邵毓麟",
+      "叶公超",
+      "车之鉴",
+      "汪精卫",
+      "张学良",
+      "石敬瑭"
+    ],
+    "places": [
+      "台湾",
+      "外蒙古",
+      "九龙",
+      "上海",
+      "天津",
+      "旅顺",
+      "大连",
+      "钓鱼台",
+      "热河",
+      "东北"
+    ],
+    "works": [
+      "蒋介石研究五集",
+      "中国不平等条约之废除",
+      "中苏友好同盟条约",
+      "中美共同防御条约",
+      "中美关于在中华民国之美军地位协定",
+      "苏俄在中国"
+    ],
+    "tags": [
+      "不平等条约",
+      "外蒙古",
+      "中苏友好同盟条约",
+      "中美共同防御条约",
+      "九一八",
+      "卖国"
+    ],
+    "view": [
+      "史料线",
+      "外交线",
+      "政治线"
+    ],
+    "crossReferences": [
+      "jiangjieshi-yanjiu-1985-03-06-to-1986-09-07-reads-chiang-promises-self-confession-and-timetables",
+      "jiangjieshi-yanjiu-siji-1982-05-14-to-1985-06-18-builds-outer-mongolia-vote-and-lost-state-chain",
+      "li-ao-youhua-shuo-062-shows-mutual-defense-treaty-limits-roc-territory",
+      "li-ao-youhua-shuo-733-shows-secret-mutual-defense-treaty-draft-from-wang-shijie-papers"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-wuji-round001-closeout",
+    "id": "jiangjieshi-yanjiu-wuji-1983-03-03-reopens-okamura-war-criminal-acquittal-and-kmt-japan-channel",
+    "date": "1983-03-03",
+    "year": 1983,
+    "month": 3,
+    "day": 3,
+    "displayDate": "1983年3月3日（3月17日追记）",
+    "datePrecision": "day",
+    "title": "李敖写《蒋介石与日本降将》，追查冈村宁次无罪和国民党通日暗盘",
+    "summary": "1983年3月3日，李敖写《蒋介石与日本降将》，从冈村宁次在阳明山革命实践研究院任特级军事教官说起，追查国民党审判日本战犯时如何使侵华元凶无罪。他引用冈村宁次战时训示、国防部审判战犯军事法庭判决、石美瑜和谢冠生材料，又写到1949年冈村返日后国民党仍替其处理麦帅总部追放问题；3月17日追记裴可权关于戴笠与冈村联系的材料，收束为战犯无罪早已暗盘在先，国民党通日早已暗度陈仓。",
+    "source": {
+      "book": "蒋介石研究五集",
+      "chapter": "012.蒋介石与日本降将.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/020.蒋介石研究五集/012.蒋介石与日本降将.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        17,
+        43,
+        83,
+        151,
+        183,
+        193,
+        209,
+        213,
+        221
+      ]
+    },
+    "people": [
+      "李敖",
+      "蒋介石",
+      "冈村宁次",
+      "何应钦",
+      "戴笠",
+      "蔡孟坚",
+      "董显光",
+      "谢冠生",
+      "石美瑜",
+      "裴可权"
+    ],
+    "places": [
+      "台湾",
+      "阳明山",
+      "南京",
+      "日本",
+      "京沪杭"
+    ],
+    "works": [
+      "蒋介石研究五集",
+      "革命实践研究院",
+      "由中日和约谈到董显光使日经纬",
+      "审判战犯回忆录",
+      "中央日报",
+      "戴笠将军的机智与胆识"
+    ],
+    "tags": [
+      "冈村宁次",
+      "日本战犯",
+      "受降",
+      "戴笠",
+      "白团",
+      "国民党通日"
+    ],
+    "view": [
+      "史料线",
+      "军事线",
+      "外交线",
+      "政治线"
+    ],
+    "crossReferences": [
+      "li-ao-youhua-shuo-392-broadcasts-disgraceful-victor",
+      "li-ao-youhua-shuo-392-shows-okamura-surrender-document-signature",
+      "li-ao-youhua-shuo-392-summarizes-evidence-on-surrender-truth-and-white-group",
+      "li-ao-youhua-shuo-403-cites-li-zongren-okamura-and-xu-linong-on-japan-could-fight-through"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-wuji-round001-closeout",
+    "id": "jiangjieshi-yanjiu-wuji-1984-06-07-to-1985-08-25-extends-kang-ze-and-captured-generals-evidence",
+    "date": "1984-06-07",
+    "year": 1984,
+    "month": 6,
+    "day": 7,
+    "displayDate": "1984年6月7日至1985年8月25日",
+    "datePrecision": "date-range",
+    "title": "李敖从“活先烈”名单续查康泽，扩展蒋介石降将与殉难神话证据",
+    "summary": "1984年6月7日至1985年8月25日，李敖在五集中把国民党降将问题和康泽神话接上：在《蒋介石与自己降将》中，他从《泰山·泰水·命》被查禁说起，引用蒋介石1948年至1950年多次演讲，把“被俘受屈而不能慷慨成仁”的高级将领列成“活先烈”清单；随后《蒋介石与康将军之衣》《蒋介石与康将军之洞》补入罗才荣、万子霖、新闻天地、蒋介石党务讲话和襄阳地道材料，说明康泽被国民党赶造为烈士样板，实际被俘、特赦、苟延偷生至1973年。本条回挂四集康泽条，不重复重建康泽殉难反证。",
+    "source": {
+      "book": "蒋介石研究五集",
+      "chapter": "013.蒋介石与自己降将.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/020.蒋介石研究五集/013.蒋介石与自己降将.txt",
+      "line": 5,
+      "lines": [
+        5,
+        17,
+        27,
+        33,
+        53,
+        57,
+        59
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "蒋介石研究五集",
+        "chapter": "014.蒋介石与康将军之衣.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/020.蒋介石研究五集/014.蒋介石与康将军之衣.txt",
+        "line": 55,
+        "lines": [
+          55,
+          63,
+          69,
+          77,
+          83,
+          85,
+          97,
+          111,
+          113,
+          117
+        ],
+        "note": "补入康泽襄阳战、被俘不死、特赦释放与挽联典故误用。"
+      },
+      {
+        "book": "蒋介石研究五集",
+        "chapter": "015.蒋介石与康将军之洞.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/020.蒋介石研究五集/015.蒋介石与康将军之洞.txt",
+        "line": 13,
+        "lines": [
+          13,
+          15,
+          17,
+          21,
+          23
+        ],
+        "note": "补入康泽被搜索出地道和蒋介石三处指挥所话术。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "蒋介石",
+      "康泽",
+      "杜聿明",
+      "王耀武",
+      "宋希濂",
+      "邓文仪",
+      "罗才荣",
+      "万子霖",
+      "郭勋祺",
+      "李朗星"
+    ],
+    "places": [
+      "台湾",
+      "南京",
+      "阳明山",
+      "襄阳",
+      "北平"
+    ],
+    "works": [
+      "蒋介石研究五集",
+      "泰山·泰水·命",
+      "黄埔学生六十年",
+      "政治评论",
+      "新闻天地",
+      "湖北文献",
+      "军人魂——一名革命军人成功成仁之要义"
+    ],
+    "tags": [
+      "康泽",
+      "活先烈",
+      "国民党降将",
+      "襄阳",
+      "被俘",
+      "特赦",
+      "殉难神话"
+    ],
+    "view": [
+      "史料线",
+      "军事线",
+      "政治线"
+    ],
+    "crossReferences": [
+      "jiangjieshi-yanjiu-siji-1984-05-03-debunks-kang-ze-martyrdom-through-release-records",
+      "li-ao-youhua-shuo-079-broadcasts-kang-ze-files-and-chiang-lie-dismantling",
+      "li-ao-youhua-shuo-079-shows-kang-ze-amnesty-photo-and-writes-parody-poem"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-wuji-round001-closeout",
+    "id": "jiangjieshi-yanjiu-wuji-1983-06-28-reads-hu-shih-diary-on-lei-chen-case",
+    "date": "1983-06-28",
+    "year": 1983,
+    "month": 6,
+    "day": 28,
+    "displayDate": "1983年6月28日暮色苍茫中",
+    "datePrecision": "day",
+    "title": "李敖写《蒋介石与“雷案”》，从胡适日记重查雷震案的国际反响与调人困局",
+    "summary": "1983年6月28日暮色苍茫中，李敖写《蒋介石与“雷案”》，摘读胡适1960年10月24日返台见蒋介石的日记，整理胡适在联合国、美国大选和国际舆论背景下向蒋介石谈雷震案的经过。李敖特别抓出胡适说雷案军法审判在国外造成不良反响、律师只有一天半查卷、八个半钟头结案、三十一年徒刑使他双十节抬不起头，并补入费正清给胡适的信；文末李敖批评胡适苦口婆心却做了“调人”，认为胡适若以不回台抗议或许更有力量。",
+    "source": {
+      "book": "蒋介石研究五集",
+      "chapter": "016.蒋介石与“雷案”.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/020.蒋介石研究五集/016.蒋介石与“雷案”.txt",
+      "line": 3,
+      "lines": [
+        3,
+        45,
+        47,
+        53,
+        59,
+        65,
+        71,
+        77,
+        99
+      ]
+    },
+    "people": [
+      "李敖",
+      "蒋介石",
+      "胡适",
+      "雷震",
+      "陈诚",
+      "沈昌焕",
+      "陈雪屏",
+      "李万居",
+      "高玉树",
+      "郭雨新",
+      "费正清"
+    ],
+    "places": [
+      "台湾",
+      "草山",
+      "美国",
+      "普林斯顿",
+      "南港"
+    ],
+    "works": [
+      "蒋介石研究五集",
+      "胡适日记",
+      "纽约时报",
+      "自由中国"
+    ],
+    "tags": [
+      "雷震案",
+      "胡适日记",
+      "言论自由",
+      "军法审判",
+      "费正清",
+      "调人"
+    ],
+    "view": [
+      "史料线",
+      "司法线",
+      "政治线"
+    ],
+    "crossReferences": [
+      "book5-1970-09-03-meets-lei-chen-release-with-foreign-reporters",
+      "hushi-yuwo-1990-11-12-writes-chiang-and-hu-shih-secret-documents",
+      "dajiang-dahai-pianle-ni-2010-late-rebuilds-1949-flight-changchun-and-veteran-evidence"
+    ]
+  }
+]

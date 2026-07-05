@@ -114,7 +114,23 @@ const dataFiles = [
   "data/timeline-events-sunyixian-xihua-yixue.json",
   "data/timeline-events-sunzhongshan-yanjiu.json",
   "data/timeline-events-lidenghui-zhenmianmu.json",
-  "data/timeline-events-lidenghui-jiamianju.json"
+  "data/timeline-events-lidenghui-jiamianju.json",
+  "data/timeline-events-zhengnanrong-yanjiu.json",
+  "data/timeline-events-chenshuibian-zhenmianmu.json",
+  "data/timeline-events-liyuanzhe-zhenmianmu.json",
+  "data/timeline-events-ni-buzhidao-pengmingmin.json",
+  "data/timeline-events-weiwenxue-kaichuang.json",
+  "data/timeline-events-chouloude-zhongguoren-yanjiu.json",
+  "data/timeline-events-minbian-yanjiu-wenxing-songan.json",
+  "data/timeline-events-dajiang-dahai-pianle-ni.json",
+  "data/timeline-events-jiangjieshi-yanjiu.json",
+  "data/timeline-events-jiangjieshi-yanjiu-xuji.json",
+  "data/timeline-events-jiangjieshi-yanjiu-sanji.json",
+  "data/timeline-events-jiangjieshi-yanjiu-siji.json",
+  "data/timeline-events-jiangjieshi-yanjiu-wuji.json",
+  "data/timeline-events-jiangjieshi-yanjiu-liuji.json",
+  "data/timeline-events-jiangjieshi-zhenmianmu.json",
+  "data/timeline-events-jiangjieshi-pingzhuan.json"
 ];
 
 const outputDir = path.join(root, "exports");

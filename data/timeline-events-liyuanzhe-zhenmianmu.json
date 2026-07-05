@@ -1,0 +1,377 @@
+[
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "liyuanzhe-zhenmianmu-round001-closeout",
+    "id": "liyuanzhe-zhenmianmu-1991-03-20-to-10-23-qiu-shi-wang-qixiang-discussion",
+    "date": "1991-03-20",
+    "year": 1991,
+    "month": 3,
+    "day": 20,
+    "displayDate": "1991年3月20日至10月23日",
+    "datePrecision": "date-range",
+    "title": "李敖在《求是报》整理王企祥与李远哲忘恩负义争议材料链",
+    "summary": "《李远哲的真面目》首章回收李敖1991年在《求是报》连续刊出的王企祥案材料：3月20日先写《老徒弟李远哲今日负义又忘恩》，以王企祥指导李远哲、替其免预官役和后来被清华排挤为线索；此后又陆续公开吴大猷信、王企祥亲笔材料、李远哲1989年致刘兆玄和张昭鼎信、潘毓刚来信及林明璋质疑和李敖答书。此条作为同一场李远哲/王企祥争议的长链条，不逐信拆分。",
+    "source": {
+      "book": "李远哲的真面目",
+      "chapter": "001.关于李远哲忘恩负义的讨论.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/010.李远哲的真面目/001.关于李远哲忘恩负义的讨论.txt",
+      "line": 21,
+      "lines": [
+        3,
+        7,
+        17,
+        21,
+        47,
+        81,
+        115,
+        129,
+        153,
+        155,
+        183,
+        199,
+        245,
+        257,
+        285,
+        307
+      ]
+    },
+    "people": [
+      "李敖",
+      "李远哲",
+      "王企祥",
+      "吴大猷",
+      "潘毓刚",
+      "林明璋",
+      "刘兆玄",
+      "张昭鼎",
+      "沈君山"
+    ],
+    "places": [
+      "台湾",
+      "清华大学",
+      "中央研究院",
+      "美国",
+      "日本"
+    ],
+    "works": [
+      "李远哲的真面目",
+      "求是报",
+      "老徒弟李远哲今日负义又忘恩",
+      "刘兆玄、沈君山、蒋彦士等涉嫌学术迫害"
+    ],
+    "tags": [
+      "李远哲的真面目",
+      "王企祥",
+      "求是报",
+      "忘恩负义",
+      "清华学术迫害"
+    ],
+    "view": [
+      "写作线",
+      "政治线",
+      "人物研究线",
+      "交游线"
+    ],
+    "crossReferences": [
+      "tiaozhan-li-ao-1999-10-14-shows-wang-qixiang-lee-yuanzhe-materials",
+      "li-ao-fadianji-010-publishes-wang-qixiang-academic-persecution-file",
+      "li-ao-yanjiangji-032-uses-wang-qixiang-case-against-lee-yuan-tseh",
+      "li-ao-yanjiangji-033-uses-exam-paper-and-wang-qixiang-documents-against-lee-yuan-tseh"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "liyuanzhe-zhenmianmu-round001-closeout",
+    "id": "liyuanzhe-zhenmianmu-1992-02-10-reviews-blue-blanket-for-lee-yuantseh",
+    "date": "1992-02-10",
+    "year": 1992,
+    "month": 2,
+    "day": 10,
+    "displayDate": "1992年2月10日",
+    "datePrecision": "day",
+    "title": "李敖全文附刊《蓝色的毛毯》，帮李远哲复习早年社会主义一课",
+    "summary": "李敖针对《新新闻周刊》1991年7月29日李远哲专访，找出并全文附刊自己收藏的1948年《开明少年》《蓝色的毛毯》。他把李远哲童年阅读经验、社会主义影响和故事主人翁赖克汉的“逃兵”羞愧相连，最后以鲍林示威督促政治改革作对照，要求李远哲不要做总统府“国策顾问”的花瓶。",
+    "source": {
+      "book": "李远哲的真面目",
+      "chapter": "002.帮李远哲复习一课.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/010.李远哲的真面目/002.帮李远哲复习一课.txt",
+      "line": 223,
+      "lines": [
+        3,
+        17,
+        39,
+        209,
+        217,
+        219,
+        221,
+        223
+      ]
+    },
+    "people": [
+      "李敖",
+      "李远哲",
+      "赖克汉",
+      "鲍林"
+    ],
+    "places": [
+      "台湾",
+      "上海",
+      "美国"
+    ],
+    "works": [
+      "李远哲的真面目",
+      "帮李远哲复习一课",
+      "蓝色的毛毯",
+      "开明少年",
+      "新新闻周刊"
+    ],
+    "tags": [
+      "李远哲的真面目",
+      "蓝色的毛毯",
+      "开明少年",
+      "国策顾问",
+      "逃兵心理"
+    ],
+    "view": [
+      "写作线",
+      "思想线",
+      "政治线",
+      "人物研究线"
+    ],
+    "crossReferences": [
+      "li-ao-mimi-shufang-001-shows-kaiming-shaonian-and-blue-blanket-to-lee-yuantseh",
+      "li-ao-zhenglun-zongyiji-012-criticizes-lee-yuan-tseh-reversal-and-blue-blanket",
+      "li-ao-yanjiangji-003-uses-blue-blanket-to-call-lee-yuanzhe-democracy-escapee",
+      "li-ao-yanjiangji-013-uses-blue-blanket-to-judge-lee-yuanzhe"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "liyuanzhe-zhenmianmu-round001-closeout",
+    "id": "liyuanzhe-zhenmianmu-2000-03-16-writes-election-speech-choosing-right-person",
+    "date": "2000-03-16",
+    "year": 2000,
+    "month": 3,
+    "day": 16,
+    "displayDate": "2000年3月16日",
+    "datePrecision": "day",
+    "title": "李敖写《改变台湾命运，要选对人》，把李远哲挺扁与成书预告连在一起",
+    "summary": "在《改变台湾命运，要选对人》中，李敖引用1995年中研院周报《选前省思》，批评李远哲当年告诫研究人员不要介入选举，四年后却以学术声望支持陈水扁。他又说自己握有李远哲清华考卷、王企祥指导照片和中研院材料，最近将出版《李远哲的真面目》提出证据，并把这组批评纳入2000年总统选举最后阶段的投票劝告。",
+    "source": {
+      "book": "李远哲的真面目",
+      "chapter": "007.改变台湾命运，要选对人.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/010.李远哲的真面目/007.改变台湾命运，要选对人.txt",
+      "line": 91,
+      "lines": [
+        11,
+        13,
+        19,
+        25,
+        27,
+        29,
+        35,
+        39,
+        45,
+        47,
+        89,
+        91
+      ]
+    },
+    "people": [
+      "李敖",
+      "李远哲",
+      "陈水扁",
+      "宋楚瑜",
+      "连战",
+      "李登辉",
+      "王企祥",
+      "邱义仁"
+    ],
+    "places": [
+      "台湾",
+      "中央研究院",
+      "清华大学",
+      "兰屿"
+    ],
+    "works": [
+      "李远哲的真面目",
+      "改变台湾命运，要选对人",
+      "选前省思",
+      "自由时报"
+    ],
+    "tags": [
+      "李远哲的真面目",
+      "总统选举",
+      "陈水扁",
+      "中研院中立",
+      "弃连保扁"
+    ],
+    "view": [
+      "政治线",
+      "写作线",
+      "人物研究线"
+    ],
+    "crossReferences": [
+      "li-ao-yanjiangji-033-shows-lee-yuan-tseh-on-academia-election-and-political-interference",
+      "li-ao-yanjiangji-033-uses-exam-paper-and-wang-qixiang-documents-against-lee-yuan-tseh",
+      "li-ao-mimi-shufang-074-predicts-chen-corruption-by-bureaucracy-and-li-yuantseh-book",
+      "li-ao-tongdianji-2000-08-28-writes-introduction-to-lee-yuantseh-true-face"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "liyuanzhe-zhenmianmu-round001-closeout",
+    "id": "liyuanzhe-zhenmianmu-2000-06-23-writes-instant-disciples-media-promise",
+    "date": "2000-06-23",
+    "year": 2000,
+    "month": 6,
+    "day": 23,
+    "displayDate": "2000年6月23日",
+    "datePrecision": "day",
+    "title": "李敖写《李远哲的即溶门徒》，追打党政军退出媒体政见作废",
+    "summary": "李敖在《李远哲的即溶门徒》中把李远哲宣布辞中研院院长而继续任职、又代陈水扁宣布选举政见可不兑现并列为“双料无信无耻”。他借周锡玮整理的表，列出民进党人物从1993年至2000年反复主张党政军退出媒体的公开发言，再以游锡堃5月18日仍承诺推动为证，批评陈水扁团队上台后十一天即把政见高速作废。",
+    "source": {
+      "book": "李远哲的真面目",
+      "chapter": "012.李远哲的即溶门徒.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/010.李远哲的真面目/012.李远哲的即溶门徒.txt",
+      "line": 49,
+      "lines": [
+        3,
+        5,
+        11,
+        17,
+        21,
+        35,
+        49
+      ]
+    },
+    "people": [
+      "李敖",
+      "李远哲",
+      "陈水扁",
+      "周锡玮",
+      "游锡堃",
+      "林义雄",
+      "谢长廷",
+      "林嘉诚",
+      "范巽绿",
+      "罗文嘉",
+      "洪奇昌",
+      "王拓",
+      "尤清"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "李远哲的真面目",
+      "李远哲的即溶门徒",
+      "传播白皮书",
+      "中国时报"
+    ],
+    "tags": [
+      "李远哲的真面目",
+      "陈水扁",
+      "党政军退出媒体",
+      "选举政见",
+      "中研院辞职"
+    ],
+    "view": [
+      "政治线",
+      "媒体线",
+      "写作线",
+      "人物研究线"
+    ],
+    "crossReferences": [
+      "li-ao-diandao-zhongsheng-025-calls-li-yuantseh-shameless-for-apolitical-promise-and-resignation-show",
+      "li-ao-mimi-shufang-096-asks-liu-yijun-about-li-yuantseh-advisory-group-and-broken-promise"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "liyuanzhe-zhenmianmu-round001-closeout",
+    "id": "liyuanzhe-zhenmianmu-2000-07-20-publishes-academia-sinica-secretary-eight-scandals",
+    "date": "2000-07-20",
+    "year": 2000,
+    "month": 7,
+    "day": 20,
+    "displayDate": "2000年7月20日",
+    "datePrecision": "day",
+    "title": "李敖刊出中研院“某秘书”六页信，汇整李远哲统治下八件黑幕",
+    "summary": "李敖在《李远哲统治下的中央研究院黑幕》中说，他1999年10月下旬收到中央研究院署名“某秘书”的六页打字信，并经院内行政朋友判断大抵可信，遂决定发表。信中分列司机命案、徐济安公费进修未归、院内工程浪费、废水处理场、新大楼龟裂、篮球网球场改建、李远哲演讲费和高薪、王叔岷教授被迫迁出蔡元培纪念馆等八项控诉。",
+    "source": {
+      "book": "李远哲的真面目",
+      "chapter": "014.李远哲统治下的中央研究院黑幕.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/010.李远哲的真面目/014.李远哲统治下的中央研究院黑幕.txt",
+      "line": 43,
+      "lines": [
+        3,
+        7,
+        11,
+        15,
+        19,
+        23,
+        27,
+        31,
+        35,
+        39,
+        41,
+        43
+      ]
+    },
+    "people": [
+      "李敖",
+      "李远哲",
+      "杨国枢",
+      "刘锡江",
+      "杨重信",
+      "王叔岷",
+      "徐济安"
+    ],
+    "places": [
+      "中央研究院",
+      "台湾",
+      "台北",
+      "美国"
+    ],
+    "works": [
+      "李远哲的真面目",
+      "李远哲统治下的中央研究院黑幕"
+    ],
+    "tags": [
+      "李远哲的真面目",
+      "中央研究院",
+      "院务黑幕",
+      "司机命案",
+      "危楼"
+    ],
+    "view": [
+      "政治线",
+      "写作线",
+      "人物研究线"
+    ],
+    "crossReferences": [
+      "li-ao-tongdianji-2000-07-10-writes-lee-yuantseh-driver-murder-case-investigation",
+      "li-ao-laidianji-2000-04-16-writes-neimei-building-investigation-against-lee-yuantseh",
+      "li-ao-laidianji-2000-05-04-writes-heiguan-investigation-against-lee-yuantseh-and-yang-guoshu",
+      "li-ao-tongdianji-2000-07-24-writes-white-road-lee-yuantseh-black-records",
+      "li-ao-tongdianji-2000-08-21-publishes-science-professor-complaint-against-lee-yuantseh",
+      "li-ao-tongdianji-2000-08-22-writes-xu-jian-brillouin-procurement-absence-case"
+    ]
+  }
+]

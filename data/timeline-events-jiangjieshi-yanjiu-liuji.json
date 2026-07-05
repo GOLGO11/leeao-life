@@ -1,0 +1,1119 @@
+[
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-liuji-round001-closeout",
+    "id": "jiangjieshi-yanjiu-liuji-1989-10-22-writes-sixth-volume-preface-after-three-years-of-chiang-studies",
+    "date": "1989-10-22",
+    "year": 1989,
+    "month": 10,
+    "day": 22,
+    "displayDate": "1989年10月22日",
+    "datePrecision": "day",
+    "title": "李敖写《蒋介石研究六集》自序，三年后继续以出书回应蒋氏神话和禁书压力",
+    "summary": "1989年10月22日，李敖写《蒋介石研究六集》自序，回顾《蒋介石研究》到《五集》的出版和查禁轨迹：前三集在戒严法令下被禁，四集后新闻局改用密函和警察查扣书摊，五集则作为立即回应。到六集时，新闻局密函案在法院被以“非直接被害人”为由挡下，但李敖认为这反而使新闻局暗中行文稍有收敛；他也把六集放在第一本出版三周年和蒋介石冥寿前夕，表明不会因国民党转向李登辉而停止追打旧主子的神话。",
+    "source": {
+      "book": "蒋介石研究六集",
+      "chapter": "《蒋介石研究六集》自序.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/021.蒋介石研究六集/《蒋介石研究六集》自序.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15,
+        27
+      ]
+    },
+    "people": [
+      "李敖",
+      "蒋介石",
+      "蒋经国",
+      "邵玉铭",
+      "刘士元",
+      "萧孟能"
+    ],
+    "places": [
+      "台湾",
+      "台北"
+    ],
+    "works": [
+      "蒋介石研究",
+      "蒋介石研究续集",
+      "蒋介石研究三集",
+      "蒋介石研究四集",
+      "蒋介石研究五集",
+      "蒋介石研究六集",
+      "世界论坛报"
+    ],
+    "tags": [
+      "蒋介石研究六集",
+      "自序",
+      "查禁",
+      "新闻局密函",
+      "出版回应",
+      "蒋介石冥寿"
+    ],
+    "view": [
+      "写作线",
+      "出版线",
+      "司法线",
+      "政治线"
+    ],
+    "crossReferences": [
+      "jiangjieshi-yanjiu-1986-10-20-writes-preface-to-debunk-chiang-family-myths-with-evidence",
+      "book8-1986-11-02-chiang-kai-shek-study-banned",
+      "jiangjieshi-yanjiu-xuji-1987-01-07-writes-sequel-preface-after-first-book-banned",
+      "book8-1987-01-22-chiang-kai-shek-study-sequel-banned",
+      "jiangjieshi-yanjiu-sanji-1987-06-27-writes-third-volume-after-sequel-ban-and-taichung-search",
+      "jiangjieshi-yanjiu-siji-1987-10-10-writes-fourth-volume-preface-after-three-bans",
+      "jiangjieshi-yanjiu-wuji-1987-12-15-writes-fifth-volume-after-news-bureau-police-crackdown",
+      "shilun-xinyu-1989-10-31-dont-forget-chiang-kai-shek"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-liuji-round001-closeout",
+    "id": "jiangjieshi-yanjiu-liuji-1985-01-18-to-1988-06-04-rebuilds-sun-chiang-lineage-through-tao-chen-and-daotong",
+    "date": "1985-01-18",
+    "year": 1985,
+    "month": 1,
+    "day": 18,
+    "displayDate": "1985年1月18日至1988年6月4日",
+    "datePrecision": "day-range",
+    "title": "李敖把陶成章案、陈炯明挖心诗和孙蒋道统说合并成孙蒋继承神话反证",
+    "summary": "《蒋介石研究六集》001至003围绕孙中山与蒋介石的继承神话展开。李敖先借汪子飏追论陶成章案，说明蒋介石因替孙中山和陈其美承担暗杀旧案而抓住孙中山“小辫子”，再以1925年蒋介石要剜陈炯明心肝祭孙的文字，显示其封建和残忍品位；最后在《孙中山蒋介石与道统》中排比孙中山、蒋介石、戴季陶、胡适等材料，拆解“道统”说从“至孔子而绝”到“相继不绝”的官方改写。",
+    "source": {
+      "book": "蒋介石研究六集",
+      "chapter": "001.蒋介石抓住孙中山小辫子.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/021.蒋介石研究六集/001.蒋介石抓住孙中山小辫子.txt",
+      "line": 5,
+      "lines": [
+        5,
+        9,
+        11,
+        13,
+        15,
+        17,
+        19,
+        21
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "蒋介石研究六集",
+        "chapter": "002.蒋介石要挖陈炯明心肝.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/021.蒋介石研究六集/002.蒋介石要挖陈炯明心肝.txt",
+        "line": 5,
+        "lines": [
+          5,
+          7,
+          9,
+          11,
+          15,
+          19
+        ],
+        "note": "同组短章，补出蒋介石悼孙后剜陈炯明心肝的残忍表述。"
+      },
+      {
+        "book": "蒋介石研究六集",
+        "chapter": "003.孙中山蒋介石与道统.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/021.蒋介石研究六集/003.孙中山蒋介石与道统.txt",
+        "line": 79,
+        "lines": [
+          79,
+          83,
+          101,
+          103,
+          113,
+          151
+        ],
+        "note": "同组长文，排比道统说在党国文件中的演变和胡适求证失败。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "孙中山",
+      "蒋介石",
+      "陈其美",
+      "陶成章",
+      "陈炯明",
+      "汪子飏",
+      "胡适",
+      "罗家伦",
+      "戴季陶"
+    ],
+    "places": [
+      "上海",
+      "广州",
+      "桂林",
+      "奉化"
+    ],
+    "works": [
+      "蒋介石研究六集",
+      "谁杀陶同志",
+      "孙文罪状",
+      "国父年谱",
+      "胡适之先生晚年谈话录"
+    ],
+    "tags": [
+      "孙中山",
+      "蒋介石",
+      "陶成章",
+      "陈炯明",
+      "道统",
+      "黄埔军校",
+      "党国神话"
+    ],
+    "view": [
+      "写作线",
+      "思想线",
+      "政治线",
+      "史料线"
+    ],
+    "crossReferences": [
+      "jiangjieshi-yanjiu-xuji-1985-05-08-writes-tao-chengzhang-assassination-case",
+      "jiangjieshi-yanjiu-sanji-1985-09-05-rechecks-tao-chengzhang-from-anger-to-killing-wording",
+      "li-ao-youhua-shuo-059-explains-chiang-leveraged-tao-chengzhang-assassination-to-sun-yatsen",
+      "li-ao-youhua-shuo-109-broadcast-tao-chengzhang-assassination-question",
+      "li-ao-youhua-shuo-641-explains-chiang-rise-through-chen-qimei-and-tao-chengzhang-assassination",
+      "li-ao-youhua-shuo-642-explains-sun-still-used-chiang-because-tao-assassination-and-whampoa-jiangzhe-network",
+      "li-ao-zhenglun-zongyiji-034-revises-chiang-military-education-and-huangpu-post",
+      "sunzhongshan-yanjiu-1983-06-26-writes-li-hongzhang-meeting-refutation"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-liuji-round001-closeout",
+    "id": "jiangjieshi-yanjiu-liuji-1984-06-23-writes-air-bandits-to-reframe-us-airmen-new-fourth-army-and-chenault",
+    "date": "1984-06-23",
+    "year": 1984,
+    "month": 6,
+    "day": 23,
+    "displayDate": "1984年6月23日晨2时半至6时半",
+    "datePrecision": "day",
+    "title": "李敖写《蒋介石与“空中强盗”》，用美军飞行员和新四军救援材料重拆抗战叙事",
+    "summary": "1984年6月23日清晨，李敖写《蒋介石与“空中强盗”》。文章从《联合报》报道张爱萍会见美军B-29飞行员切入，对照美国国防部说法和张爱萍叙述，再引陈纳德材料，指出中国人和新四军曾大量营救在日军后方跳伞的美国飞行员，而蒋介石虽痛恨新四军却未能阻止这种战时协作。李敖把飞虎队、陈纳德、宋美龄和“来华助战洋人”的形象重新放入国共与中美战时关系里考证。",
+    "source": {
+      "book": "蒋介石研究六集",
+      "chapter": "004.蒋介石与“空中强盗”.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/021.蒋介石研究六集/004.蒋介石与“空中强盗”.txt",
+      "line": 15,
+      "lines": [
+        15,
+        17,
+        21,
+        35,
+        37,
+        41,
+        47,
+        53,
+        77,
+        103
+      ]
+    },
+    "people": [
+      "李敖",
+      "蒋介石",
+      "张爱萍",
+      "陈纳德",
+      "宋美龄"
+    ],
+    "places": [
+      "成都",
+      "八幡",
+      "中国海",
+      "长江流域",
+      "九江",
+      "香港"
+    ],
+    "works": [
+      "蒋介石研究六集",
+      "联合报",
+      "陈纳德回忆材料",
+      "战地服务团日记"
+    ],
+    "tags": [
+      "空中强盗",
+      "飞虎队",
+      "新四军",
+      "陈纳德",
+      "抗战叙事",
+      "美国飞行员"
+    ],
+    "view": [
+      "写作线",
+      "抗战线",
+      "政治线",
+      "史料线"
+    ],
+    "crossReferences": []
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-liuji-round001-closeout",
+    "id": "jiangjieshi-yanjiu-liuji-1984-09-03-to-1986-06-24-links-capital-moves-to-roc-fallen-state",
+    "date": "1984-09-03",
+    "year": 1984,
+    "month": 9,
+    "day": 3,
+    "displayDate": "1984年9月3日至1986年6月24日",
+    "datePrecision": "day-range",
+    "title": "李敖把南京迁都、台北首都名义和蒋介石亡国密谈合并成“首都”神话反证",
+    "summary": "《蒋介石研究六集》005与006从两个角度拆解国民党的国家名义。李敖在《蒋介石与“中华民国”亡国》中以陈布雷自杀和蒋介石1950年复职密谈为证，指出蒋本人承认“中华民国”已经亡国；又在《孙中山蒋介石与迁都》中从孙中山南京建都私心、1932年洛阳迁都、1937年南京失守、1949年南京再失守一路写到台北“克难首都”和康宁祥“首都公政会”，把首都名义视为小朝廷维持国家假象的工具。",
+    "source": {
+      "book": "蒋介石研究六集",
+      "chapter": "006.蒋介石与“中华民国”亡国.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/021.蒋介石研究六集/006.蒋介石与“中华民国”亡国.txt",
+      "line": 9,
+      "lines": [
+        9,
+        41,
+        55
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "蒋介石研究六集",
+        "chapter": "005.孙中山蒋介石与迁都.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/021.蒋介石研究六集/005.孙中山蒋介石与迁都.txt",
+        "line": 43,
+        "lines": [
+          43,
+          51,
+          67,
+          69,
+          73,
+          75,
+          77,
+          93,
+          97,
+          101
+        ],
+        "note": "迁都与首都名义的同组论证。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "蒋介石",
+      "孙中山",
+      "陈布雷",
+      "蒋经国",
+      "康宁祥"
+    ],
+    "places": [
+      "南京",
+      "北京",
+      "洛阳",
+      "重庆",
+      "广州",
+      "台北",
+      "武昌"
+    ],
+    "works": [
+      "蒋介石研究六集",
+      "中华民国亡国考",
+      "复职的使命与目的",
+      "临时政府公报",
+      "苦笑录"
+    ],
+    "tags": [
+      "中华民国亡国",
+      "迁都",
+      "首都",
+      "南京",
+      "台北",
+      "康宁祥",
+      "陈布雷"
+    ],
+    "view": [
+      "写作线",
+      "政治线",
+      "两岸线",
+      "史料线"
+    ],
+    "crossReferences": [
+      "dream-awake-1984-09-03-writes-zhonghua-minguo-ruined-state-study",
+      "li-ao-dageda-006-recalls-prison-reading-chiang-collected-works",
+      "li-ao-dageda-117-shows-chiang-kai-shek-1950-secret-speech-manuscript",
+      "li-ao-youhua-shuo-001-shows-chiang-1950-secret-speech-roc-fallen",
+      "li-ao-youhua-shuo-167-recalls-prison-toilet-reading-chiang-works-and-writing-roc-fallen-study",
+      "li-ao-yumiao-tianxia-079-shows-twenty-five-year-old-fallen-state-study",
+      "zhongguo-ming-yanjiu-1986-07-14-morning-writes-nanjing-like-chess-poem",
+      "xiaoao-niandai-013-says-he-first-proposed-moving-capital-out-of-taipei"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-liuji-round001-closeout",
+    "id": "jiangjieshi-yanjiu-liuji-1987-10-28-extends-captive-doctrine-to-yijiangshan-survivors",
+    "date": "1987-10-28",
+    "year": 1987,
+    "month": 10,
+    "day": 28,
+    "displayDate": "1987年10月28日",
+    "datePrecision": "day",
+    "title": "李敖写《蒋介石杀自己的俘》，把被俘观旧题续接到一江山归俘传闻",
+    "summary": "1987年10月28日，李敖写《蒋介石杀自己的俘》，从自己在《蒋介石的被俘观》中已谈过的矛盾出发：蒋介石要求被俘军人只能自杀，却在西安事变中承认自己“为汝叛逆所俘”而继续偷生。文章再引蒋1933年演说对“欣然偷生跑回来”者的处置，连接到一江山战役后被俘又被放回者据传遭自家守军乱枪打死，形成蒋介石被俘标准如何反噬自己士兵的续证。",
+    "source": {
+      "book": "蒋介石研究六集",
+      "chapter": "007.蒋介石杀自己的俘.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/021.蒋介石研究六集/007.蒋介石杀自己的俘.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        11,
+        15,
+        17,
+        19,
+        21
+      ]
+    },
+    "people": [
+      "李敖",
+      "蒋介石",
+      "张学良",
+      "孙铭九",
+      "张玉荪"
+    ],
+    "places": [
+      "西安",
+      "华清池",
+      "一江山",
+      "大陈"
+    ],
+    "works": [
+      "蒋介石研究六集",
+      "蒋介石的被俘观",
+      "西安半月记",
+      "华清池之旅",
+      "统军作战制胜之道"
+    ],
+    "tags": [
+      "被俘观",
+      "西安事变",
+      "一江山",
+      "俘虏",
+      "军事纪律",
+      "蒋介石研究三集"
+    ],
+    "view": [
+      "写作线",
+      "政治线",
+      "军事线",
+      "史料线"
+    ],
+    "crossReferences": [
+      "jiangjieshi-yanjiu-sanji-1987-04-12-to-04-26-links-captive-doctrine-and-menglianggu-fabrication",
+      "li-ao-youhua-shuo-122-uses-chiang-capture-essay-to-say-not-fooled-by-chiang",
+      "li-ao-youhua-shuo-139-recounts-yijiangshan-survivors-machine-gunned-by-forty-ninth-regiment",
+      "li-ao-youhua-shuo-286-uses-own-seniority-and-yijiangshan-story-to-pressure-generals-on-war-cruelty"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-liuji-round001-closeout",
+    "id": "jiangjieshi-yanjiu-liuji-1987-12-05-to-12-28-reopens-treaty-of-taipei-reparations-and-secret-reactions",
+    "date": "1987-12-05",
+    "year": 1987,
+    "month": 12,
+    "day": 5,
+    "displayDate": "1987年12月5日至12月28日",
+    "datePrecision": "day-range",
+    "title": "李敖连写《中日和约》两篇，用日本外交档案和国民党密件追查放弃赔偿",
+    "summary": "1987年12月5日至28日，李敖在《蒋介石与〈中日和约〉之一、之二》中重查《中日和约》。第一篇从日本公布外交档案和《朝日新闻》报道入手，指出国府并非“宽大”放弃赔偿，而是以赔偿作为谈判筹码换取旧金山和约同等地位和全中国代表名义；第二篇再用国民党外交部1952年5月10日秘密油印的《中日和约签订后各国之反应》，呈现美国、英国、日本、中共及《纽约时报》等反应，最后反问战胜国在条约中究竟以什么自居。",
+    "source": {
+      "book": "蒋介石研究六集",
+      "chapter": "008.蒋介石与《中日和约》之一.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/021.蒋介石研究六集/008.蒋介石与《中日和约》之一.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        17,
+        19,
+        21,
+        23,
+        27
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "蒋介石研究六集",
+        "chapter": "009.蒋介石与《中日和约》之二.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/021.蒋介石研究六集/009.蒋介石与《中日和约》之二.txt",
+        "line": 3,
+        "lines": [
+          3,
+          7,
+          17,
+          21,
+          23,
+          29,
+          31,
+          33
+        ],
+        "note": "第二篇补入国民党外交部秘密反应材料。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "蒋介石",
+      "叶公超",
+      "张群",
+      "杜勒斯",
+      "顾维钧",
+      "吉田茂",
+      "冈村宁次",
+      "周恩来"
+    ],
+    "places": [
+      "台北",
+      "东京",
+      "旧金山",
+      "华盛顿",
+      "伦敦",
+      "台湾",
+      "澎湖"
+    ],
+    "works": [
+      "蒋介石研究六集",
+      "中日和约",
+      "旧金山和约",
+      "朝日新闻",
+      "中日和约签订后各国之反应",
+      "纽约时报"
+    ],
+    "tags": [
+      "中日和约",
+      "放弃赔偿",
+      "旧金山和约",
+      "以德报怨",
+      "外交密件",
+      "冈村宁次"
+    ],
+    "view": [
+      "写作线",
+      "外交线",
+      "政治线",
+      "史料线"
+    ],
+    "crossReferences": [
+      "li-ao-youhua-shuo-029-condemns-chiang-waiving-japanese-reparations",
+      "li-ao-youhua-shuo-191-corrects-san-francisco-treaty-date-and-explains-us-forced-japan-taipei-treaty",
+      "li-ao-youhua-shuo-191-reads-taipei-treaty-extra-islands-to-show-japan-waived-to-roc",
+      "li-ao-youhua-shuo-663-explains-treaty-of-taipei-and-japan-reparations-harm",
+      "jiangjieshi-yanjiu-wuji-1983-03-03-reopens-okamura-war-criminal-acquittal-and-kmt-japan-channel",
+      "li-ao-youhua-shuo-392-broadcasts-disgraceful-victor",
+      "li-ao-youhua-shuo-392-summarizes-evidence-on-surrender-truth-and-white-group"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-liuji-round001-closeout",
+    "id": "jiangjieshi-yanjiu-liuji-1982-06-07-to-1985-07-03-links-chiang-report-ritual-to-room-raid-policing",
+    "date": "1982-06-07",
+    "year": 1982,
+    "month": 6,
+    "day": 7,
+    "displayDate": "1982年6月7日至1985年7月3日夜1时",
+    "datePrecision": "day-range",
+    "title": "李敖把蒋介石家中报告规矩和警察查房制度并成党国小事统治样本",
+    "summary": "《蒋介石研究六集》010与011从日常制度看党国统治。短篇《蒋介石与报告狂》借蒋孝杰对“严肃家风”的马屁，写蒋经国、蒋纬国见父亲也须先报告；长篇《蒋介石与开房间的自由》则从基隆男女教员事件追到1959年“逼死情侣案”、1960至1980年代警察查房、化名投宿和违警罚法。李敖把这些材料归为制度问题：不是单个警察执行过当，而是国民党行政与法律结构让私人生活长期受权力骚扰。",
+    "source": {
+      "book": "蒋介石研究六集",
+      "chapter": "011.蒋介石与开房间的自由.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/021.蒋介石研究六集/011.蒋介石与开房间的自由.txt",
+      "line": 5,
+      "lines": [
+        5,
+        7,
+        15,
+        27,
+        35,
+        85,
+        103,
+        119,
+        139,
+        145
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "蒋介石研究六集",
+        "chapter": "010.蒋介石与报告狂.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/021.蒋介石研究六集/010.蒋介石与报告狂.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          19
+        ],
+        "note": "同组短章，补出蒋氏家中凡事报告的家风马屁。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "蒋介石",
+      "蒋经国",
+      "蒋纬国",
+      "蒋孝杰",
+      "俞鸿钧",
+      "吴中村",
+      "涂红线"
+    ],
+    "places": [
+      "台北",
+      "基隆",
+      "嘉义",
+      "中埔",
+      "竹东"
+    ],
+    "works": [
+      "蒋介石研究六集",
+      "记者生涯",
+      "蒋总统与中华民族同寿",
+      "违警罚法",
+      "自立晚报",
+      "联合报",
+      "中国时报"
+    ],
+    "tags": [
+      "报告狂",
+      "家风",
+      "开房间",
+      "违警罚法",
+      "查房",
+      "隐私权",
+      "警察权"
+    ],
+    "view": [
+      "写作线",
+      "司法线",
+      "政治线",
+      "日常线"
+    ],
+    "crossReferences": [
+      "li-ao-xiaoao-jianghu-1987-after-martial-law-obtains-shao-yuming-secret-letter-and-sues-officials"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-liuji-round001-closeout",
+    "id": "jiangjieshi-yanjiu-liuji-1985-04-19-traces-everyone-may-kill-reasoning-from-chiang-to-jiangnan-case",
+    "date": "1985-04-19",
+    "year": 1985,
+    "month": 4,
+    "day": 19,
+    "displayDate": "1985年4月19日",
+    "datePrecision": "day",
+    "title": "李敖写《蒋介石与“人人得而诛之”》，追查江南命案背后的党国暗杀理由",
+    "summary": "1985年4月19日，李敖写《蒋介石与“人人得而诛之”》。文章从刘宜良江南命案后陈启礼、吴敦及情治系统“乱臣贼子，人人得而诛之”的辩解切入，引用地院判决强调法治国家不能以私人制裁作为杀人借口，再回到秦孝仪对蒋介石思想、生活和操持的颂扬，追踪这一口号怎样被党国道德话语包装成暗杀正当性。",
+    "source": {
+      "book": "蒋介石研究六集",
+      "chapter": "012.蒋介石与“人人得而诛之”.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/021.蒋介石研究六集/012.蒋介石与“人人得而诛之”.txt",
+      "line": 5,
+      "lines": [
+        5,
+        7,
+        9,
+        11,
+        29
+      ]
+    },
+    "people": [
+      "李敖",
+      "蒋介石",
+      "刘宜良",
+      "陈启礼",
+      "吴敦",
+      "汪希苓",
+      "秦孝仪"
+    ],
+    "places": [
+      "台湾",
+      "美国"
+    ],
+    "works": [
+      "蒋介石研究六集",
+      "江南命案",
+      "领袖精神万古常新",
+      "蒋总统的思想、生活、操持"
+    ],
+    "tags": [
+      "江南命案",
+      "人人得而诛之",
+      "暗杀",
+      "情报局",
+      "法治",
+      "秦孝仪"
+    ],
+    "view": [
+      "写作线",
+      "司法线",
+      "政治线",
+      "史料线"
+    ],
+    "crossReferences": [
+      "book4-1985-03-23-zheng-nanjung-delivers-xiaodong-secret-packet",
+      "li-ao-youhua-shuo-203-recalls-correcting-zhuangzi-source-at-li-qinghua-rally",
+      "li-ao-youhua-shuo-203-shows-chen-guying-zhuangzi-to-staff-after-rally"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-liuji-round001-closeout",
+    "id": "jiangjieshi-yanjiu-liuji-1983-08-09-to-1984-08-05-reassesses-wu-zhihui-and-wu-shenshu-through-chiang-family",
+    "date": "1983-08-09",
+    "year": 1983,
+    "month": 8,
+    "day": 9,
+    "displayDate": "1983年8月9日至1984年8月5日",
+    "datePrecision": "day-range",
+    "title": "李敖合并吴稚晖与吴申叔两文，重查蒋家父子同吴家父子的党国人情",
+    "summary": "《蒋介石研究六集》013与014把吴稚晖、吴忠信、吴申叔串成一条党国元老人情线。李敖在《蒋介石与吴稚晖》中从胡适信、蒋经国日记、吴稚晖金钱往来账和“不要酬报”神话，拆解党国元老的几副嘴脸；又在《蒋家父子与吴家父子》中以吴申叔病中求助、电影《海浦春潮》受阻、蒋中正旧信交出仍无下文，以及自己1964年初识、1966年最后晚餐的记忆，补出吴家后代从“幸遇贵人”到悲愤闭门的真实处境。",
+    "source": {
+      "book": "蒋介石研究六集",
+      "chapter": "013.蒋介石与吴稚晖.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/021.蒋介石研究六集/013.蒋介石与吴稚晖.txt",
+      "line": 15,
+      "lines": [
+        15,
+        21,
+        33,
+        55,
+        57,
+        61,
+        73,
+        93,
+        101,
+        107
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "蒋介石研究六集",
+        "chapter": "014.蒋家父子与吴家父子.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/021.蒋介石研究六集/014.蒋家父子与吴家父子.txt",
+        "line": 7,
+        "lines": [
+          7,
+          17,
+          43,
+          47,
+          49
+        ],
+        "note": "同组补入吴申叔、吴忠信与蒋经国、蒋孝文的家族人情线。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "蒋介石",
+      "蒋经国",
+      "吴稚晖",
+      "吴忠信",
+      "吴申叔",
+      "吴莫愁",
+      "胡适",
+      "萧同兹"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "上海",
+      "阿里山",
+      "喜临门"
+    ],
+    "works": [
+      "蒋介石研究六集",
+      "危急存亡之秋",
+      "风雨中的宁静",
+      "海浦春潮",
+      "龙珠感旧图"
+    ],
+    "tags": [
+      "吴稚晖",
+      "吴申叔",
+      "吴忠信",
+      "党国元老",
+      "蒋家父子",
+      "人情政治",
+      "史料考证"
+    ],
+    "view": [
+      "写作线",
+      "交游线",
+      "政治线",
+      "史料线"
+    ],
+    "crossReferences": [
+      "book5-1964-01-14-first-meets-wu-shenshu",
+      "book7-1966-04-09-last-dinner-at-wu-shenshu-home",
+      "li-ao-qingshuji-1966-04-13-bonnie-postscript-writes-to-wu-shenshu-couple",
+      "li-ao-youhua-shuo-640-concludes-chiang-ruled-through-free-loyal-dogs-like-wu-zhihui",
+      "li-ao-youhua-shuo-667-introduces-wu-shenshu-and-wu-zhongxin-photo",
+      "li-ao-youhua-shuo-667-shows-wu-zhongxin-dragon-pearl-album-from-wu-shenshu"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-liuji-round001-closeout",
+    "id": "jiangjieshi-yanjiu-liuji-1984-06-10-writes-wu-kuochen-case-as-inner-kmt-power-struggle",
+    "date": "1984-06-10",
+    "year": 1984,
+    "month": 6,
+    "day": 10,
+    "displayDate": "1984年6月10日",
+    "datePrecision": "day",
+    "title": "李敖写《蒋介石与吴国桢事件》，把吴国桢赴美反击写成国民党窝里反妙史",
+    "summary": "1984年6月10日，李敖写《蒋介石与吴国桢事件》。文章从吴国桢死讯写起，梳理他从外交、财政、市政到台湾省主席的党国履历，再追到1954年《吴国桢启事》被台北各报拒登、国民党勉强登出、双方互相挞伐、吴国桢亮出党中央要求他作恶的密件，最后由宋美龄秘密赴美摆平。李敖把吴国桢事件定位为国民党权力集团内部反噬，而非单纯政见争执。",
+    "source": {
+      "book": "蒋介石研究六集",
+      "chapter": "015.蒋介石与吴国桢事件.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/021.蒋介石研究六集/015.蒋介石与吴国桢事件.txt",
+      "line": 5,
+      "lines": [
+        5,
+        11,
+        15,
+        143,
+        157,
+        175,
+        181
+      ]
+    },
+    "people": [
+      "李敖",
+      "蒋介石",
+      "吴国桢",
+      "王世杰",
+      "张其昀",
+      "宋美龄",
+      "胡适"
+    ],
+    "places": [
+      "台北",
+      "美国",
+      "萨凡那",
+      "汉口",
+      "重庆",
+      "上海",
+      "台湾"
+    ],
+    "works": [
+      "蒋介石研究六集",
+      "吴国桢启事",
+      "中央日报",
+      "时代杂志"
+    ],
+    "tags": [
+      "吴国桢",
+      "台湾省主席",
+      "窝里反",
+      "国民党权力斗争",
+      "密件",
+      "宋美龄"
+    ],
+    "view": [
+      "写作线",
+      "政治线",
+      "史料线",
+      "交游线"
+    ],
+    "crossReferences": []
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-liuji-round001-closeout",
+    "id": "jiangjieshi-yanjiu-liuji-1986-10-08-writes-chiang-and-wenxing-as-secret-case-file",
+    "date": "1986-10-08",
+    "year": 1986,
+    "month": 10,
+    "day": 8,
+    "displayDate": "1986年10月8日",
+    "datePrecision": "day",
+    "title": "李敖写《蒋介石与〈文星〉》，把文星停刊、改组和结束整理成蒋氏父子权力档案",
+    "summary": "1986年10月8日，李敖写《蒋介石与〈文星〉》长文。文章从1958年“文化商人”构想、1961年投稿《文星》和1963年后介入提升杂志水准写起，追到胡秋原攻击、陶希圣劝入党、萧同兹父子血缘靠山、1965年警总查禁第九十期和第九十八期、蒋介石“迅速设法予以封闭”手令、张群压文、萧同兹报告、蒋介石批“可如拟试办”，再写到1966年联号查禁、文星改组、1968年资料室被搜、郑锡华被捕、警总逼老佣人打小报告，最后以1986年《中央日报》重现文星广告收束。李敖把《文星》案写成蒋介石和蒋经国联手处理文化异端的完整档案。",
+    "source": {
+      "book": "蒋介石研究六集",
+      "chapter": "016.蒋介石与《文星》.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/021.蒋介石研究六集/016.蒋介石与《文星》.txt",
+      "line": 21,
+      "lines": [
+        21,
+        27,
+        43,
+        47,
+        51,
+        61,
+        69,
+        77,
+        89,
+        91,
+        159,
+        337,
+        339,
+        345,
+        441,
+        465,
+        481,
+        541,
+        545
+      ]
+    },
+    "people": [
+      "李敖",
+      "蒋介石",
+      "蒋经国",
+      "萧孟能",
+      "萧同兹",
+      "张群",
+      "胡秋原",
+      "陶希圣",
+      "黄少谷",
+      "黄杰",
+      "郑锡华"
+    ],
+    "places": [
+      "台北",
+      "文星书店",
+      "中山北路",
+      "警备总部"
+    ],
+    "works": [
+      "蒋介石研究六集",
+      "文星",
+      "孙逸仙和中国西化医学",
+      "中国文化的展望",
+      "为中国思想趋向求答案",
+      "传统下的独白",
+      "纽约联合日报",
+      "中央日报"
+    ],
+    "tags": [
+      "文星",
+      "警备总部",
+      "查禁",
+      "萧同兹",
+      "萧孟能",
+      "张群",
+      "蒋经国",
+      "文化镇压"
+    ],
+    "view": [
+      "写作线",
+      "出版线",
+      "政治线",
+      "司法线",
+      "史料线"
+    ],
+    "crossReferences": [
+      "1961-winter-submits-wenxing",
+      "book2-broad-1961-winter-wenxing-succeeds-free-china",
+      "book2-broad-1965-winter-wenxing-sealed",
+      "li-ao-qingshuji-1966-01-05-g-letter-164-garrison-bans-wenxing-97-and-sun-yatsen-book",
+      "book2-1966-02-15-zhang-qun-secret-memo",
+      "book2-broad-1968-03-04-wenxing-bookstore-announces-closing",
+      "book2-broad-1968-03-08-writes-wenxing-event",
+      "book2-broad-1968-04-01-wenxing-bookstore-closes",
+      "book2-broad-1986-09-03-sees-wenxing-revival-clean-version",
+      "book2-broad-1986-10-06-wenxing-event-note",
+      "li-ao-diandao-zhongsheng-035-shows-kmt-secret-letter-blocking-wenxing-resumption",
+      "sunyixian-xihua-yixue-1965-11-06-writes-medical-association-protest-letter"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-liuji-round001-closeout",
+    "id": "jiangjieshi-yanjiu-liuji-1984-08-21-to-1988-02-29-samples-chiang-family-symbolic-politics-and-exile-testimony",
+    "date": "1984-08-21",
+    "year": 1984,
+    "month": 8,
+    "day": 21,
+    "displayDate": "1984年8月21日至1988年2月29日，另收入童轩荪信后补注",
+    "datePrecision": "day-range",
+    "title": "李敖在六集末组短文中抽样蒋氏父子遗物政治、读书神话和海外遗民证词",
+    "summary": "《蒋介石研究六集》017至022多为短证和补札，李敖把它们合成蒋氏父子神话的日常抽样：蒋介石卧室、书房、办公室被保持为虚位以待死人的道具，蒋经国和李登辉也沿用办公室陈列政治；蒋介石、蒋经国的读书书单被拆成不学有术的马屁；童轩荪来信和李敖补注则提供白色恐怖、蒋介石不讲民主、张学良幽囚和蒋经国特务系统的海外遗民视角；《太阳不只一个》和《水晶寿星》又用毛泽东“两颗太阳”与蒋介石百岁冥寿，把国民党政治神话收束到象征层面。",
+    "source": {
+      "book": "蒋介石研究六集",
+      "chapter": "020.童轩荪笔下的蒋介石.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/021.蒋介石研究六集/020.童轩荪笔下的蒋介石.txt",
+      "line": 9,
+      "lines": [
+        9,
+        11,
+        23,
+        29,
+        31,
+        37,
+        43,
+        63,
+        89,
+        165
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "蒋介石研究六集",
+        "chapter": "017.蒋介石的卧室和书房.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/021.蒋介石研究六集/017.蒋介石的卧室和书房.txt",
+        "line": 3,
+        "lines": [
+          3,
+          7,
+          9,
+          11
+        ],
+        "note": "蒋介石卧室、书房作为事死如生政治道具。"
+      },
+      {
+        "book": "蒋介石研究六集",
+        "chapter": "018.蒋介石蒋经国父子的办公室.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/021.蒋介石研究六集/018.蒋介石蒋经国父子的办公室.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          9,
+          11,
+          17
+        ],
+        "note": "总统府办公室虚位以待死人，连李登辉继任也延续。"
+      },
+      {
+        "book": "蒋介石研究六集",
+        "chapter": "019.蒋介石蒋经国父子读了些什么书？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/021.蒋介石研究六集/019.蒋介石蒋经国父子读了些什么书？.txt",
+        "line": 3,
+        "lines": [
+          3,
+          13,
+          15,
+          19,
+          21
+        ],
+        "note": "蒋氏父子的读书神话抽样。"
+      },
+      {
+        "book": "蒋介石研究六集",
+        "chapter": "021.蒋介石与太阳不只一个.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/021.蒋介石研究六集/021.蒋介石与太阳不只一个.txt",
+        "line": 17,
+        "lines": [
+          17,
+          19,
+          21
+        ],
+        "note": "政治竞争中太阳不只一个的短论。"
+      },
+      {
+        "book": "蒋介石研究六集",
+        "chapter": "022.蒋介石与“水晶寿星”.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/021.蒋介石研究六集/022.蒋介石与“水晶寿星”.txt",
+        "line": 13,
+        "lines": [
+          13,
+          15,
+          27,
+          31
+        ],
+        "note": "百岁冥寿、水晶寿星和《蒋介石研究》出版姿态。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "蒋介石",
+      "蒋经国",
+      "宋美龄",
+      "李登辉",
+      "童轩荪",
+      "柏杨",
+      "毛泽东",
+      "左舜生",
+      "林秉钦",
+      "吴大猷"
+    ],
+    "places": [
+      "台北",
+      "总统府",
+      "圣地亚哥",
+      "延安",
+      "故宫博物院"
+    ],
+    "works": [
+      "蒋介石研究六集",
+      "逆境坚定力风雨生信心",
+      "沧海微言",
+      "生的哀歌日记",
+      "近三十年见闻杂记",
+      "蒋介石研究",
+      "千秋评论"
+    ],
+    "tags": [
+      "蒋氏父子",
+      "纪念政治",
+      "读书神话",
+      "白色恐怖",
+      "童轩荪",
+      "水晶寿星",
+      "两颗太阳"
+    ],
+    "view": [
+      "写作线",
+      "政治线",
+      "史料线",
+      "日常线"
+    ],
+    "crossReferences": [
+      "jiangjieshi-yanjiu-wuji-1983-03-03-reopens-okamura-war-criminal-acquittal-and-kmt-japan-channel",
+      "jiangjieshi-yanjiu-liuji-1987-12-05-to-12-28-reopens-treaty-of-taipei-reparations-and-secret-reactions",
+      "li-ao-youhua-shuo-640-tells-wu-zhihui-was-made-to-die-one-day-before-chiang-birthday",
+      "li-ao-youhua-shuo-667-introduces-wu-shenshu-and-wu-zhongxin-photo",
+      "shilun-xinyu-1989-10-31-dont-forget-chiang-kai-shek"
+    ]
+  }
+]

@@ -1,0 +1,1003 @@
+[
+  {
+    "category": "political-commentary-writing",
+    "type": "李敖当事人事件",
+    "additionalSources": [
+      {
+        "book": "大江大海骗了你",
+        "chapter": "002.从“拾穗”到“拿锄头的人”.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/015.大江大海骗了你/002.从“拾穗”到“拿锄头的人”.txt",
+        "line": 29,
+        "lines": [
+          27,
+          29,
+          35,
+          39,
+          41,
+          45,
+          49
+        ],
+        "note": "说明《李敖秘密谈话录》第一本锁定龙应台，并以《大江大海骗了你》命名。"
+      },
+      {
+        "book": "大江大海骗了你",
+        "chapter": "003.龙应台提议与我拥抱.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/015.大江大海骗了你/003.龙应台提议与我拥抱.txt",
+        "line": 5,
+        "lines": [
+          3,
+          5,
+          9
+        ],
+        "note": "补入李敖在2010年底前赶写“屠龙记”的成书语境。"
+      },
+      {
+        "book": "大江大海骗了你",
+        "chapter": "004.知我者，其唯老太太乎？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/015.大江大海骗了你/004.知我者，其唯老太太乎？.txt",
+        "line": 11,
+        "lines": [
+          9,
+          11,
+          15,
+          19
+        ],
+        "note": "补入李敖读完《大江大海一九四九》后决定回击的叙述。"
+      },
+      {
+        "book": "大江大海骗了你",
+        "chapter": "186.抓乌龟与抓兔子.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/015.大江大海骗了你/186.抓乌龟与抓兔子.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          9,
+          13,
+          25
+        ],
+        "note": "补入全书收尾处对《大江大海一九四九》的总体定位与证据方法。"
+      },
+      {
+        "book": "大江大海骗了你",
+        "chapter": "190.“我有点心软了”.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/015.大江大海骗了你/190.“我有点心软了”.txt",
+        "line": 5,
+        "lines": [
+          3,
+          5,
+          11,
+          15,
+          19
+        ],
+        "note": "补入全书最后对四十天完工和龙应台书的总评。"
+      }
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "dajiang-dahai-pianle-ni-round001-closeout",
+    "id": "dajiang-dahai-pianle-ni-2010-late-to-2011-02-completes-forty-day-secret-talks-counterbook",
+    "date": "2010-12-31",
+    "year": 2010,
+    "month": 12,
+    "day": 31,
+    "displayDate": "约2010年底至2011年2月",
+    "datePrecision": "date-range",
+    "title": "李敖把《李敖秘密谈话录》第一本锁定龙应台，并用四十天完成《大江大海骗了你》",
+    "summary": "约2010年底至2011年2月，李敖把《李敖秘密谈话录》第一本命名为《大江大海骗了你》，明确以龙应台《大江大海一九四九》为对象。他说自己终于打开该书后，很快抓住问题所在，决定把这本书写成“屠龙记”；龙应台用四百天写书，他独自用四十天完成反书。全书首尾多次说明，这不是逐字摘错，而是抓住材料选择、证据方法和思想根基来拆解龙应台的1949叙事；2011年2月书衣文字和电视重述已有旧锚，本条只记录本书自身的成书与总论。",
+    "source": {
+      "book": "大江大海骗了你",
+      "chapter": "016.我只花十分之一的时间.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/015.大江大海骗了你/016.我只花十分之一的时间.txt",
+      "line": 5,
+      "lines": [
+        3,
+        5,
+        7
+      ]
+    },
+    "people": [
+      "李敖",
+      "龙应台"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "大江大海骗了你",
+      "李敖秘密谈话录",
+      "大江大海一九四九",
+      "阳痿美国"
+    ],
+    "tags": [
+      "大江大海骗了你",
+      "第一轮",
+      "整本closeout",
+      "龙应台",
+      "大江大海一九四九",
+      "秘密谈话录",
+      "四十天成书",
+      "屠龙记"
+    ],
+    "view": [
+      "作品线",
+      "政论线",
+      "史料线"
+    ],
+    "crossReferences": [
+      "li-ao-yanjiangji-045-rejects-big-river-big-sea-for-saluting-defeated-1949-team",
+      "li-ao-zhenglun-zongyiji-098-criticizes-great-river-sea-for-showing-phenomena-without-causes",
+      "li-ao-zhenglun-zongyiji-111-opens-decode-wenqian-with-da-jiang-da-hai-pian-le-ni",
+      "li-ao-zhenglun-zongyiji-113-contrasts-forty-day-counterbook-with-long-four-hundred-day-pasteup",
+      "ni-bendan-2011-02-writes-book-jacket-words-for-big-river-sea-deceived-you"
+    ]
+  },
+  {
+    "category": "political-commentary-writing",
+    "type": "李敖当事人事件",
+    "additionalSources": [
+      {
+        "book": "大江大海骗了你",
+        "chapter": "019.龙应台的根本毛病在哪里？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/015.大江大海骗了你/019.龙应台的根本毛病在哪里？.txt",
+        "line": 13,
+        "lines": [
+          5,
+          13,
+          17,
+          21
+        ],
+        "note": "补入李敖对龙应台历史训练、文化理解和思想深度的根本批评。"
+      },
+      {
+        "book": "大江大海骗了你",
+        "chapter": "020.只会写“现象”，不会写“原因”.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/015.大江大海骗了你/020.只会写“现象”，不会写“原因”.txt",
+        "line": 5,
+        "lines": [
+          3,
+          5,
+          7,
+          11,
+          23
+        ],
+        "note": "补入“只写现象、不写原因”的核心判断。"
+      },
+      {
+        "book": "大江大海骗了你",
+        "chapter": "176.龙应台程度不够、心态可议.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/015.大江大海骗了你/176.龙应台程度不够、心态可议.txt",
+        "line": 11,
+        "lines": [
+          3,
+          11,
+          15
+        ],
+        "note": "补入本书后段对龙应台能力和心态的总括。"
+      },
+      {
+        "book": "大江大海骗了你",
+        "chapter": "181.龙应台的三阶段.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/015.大江大海骗了你/181.龙应台的三阶段.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          7,
+          9
+        ],
+        "note": "补入李敖把龙应台从1984年至2010年的写作转向分成三阶段。"
+      },
+      {
+        "book": "大江大海骗了你",
+        "chapter": "182.龙应台完全罩不住这种大题目.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/015.大江大海骗了你/182.龙应台完全罩不住这种大题目.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5
+        ],
+        "note": "补入李敖认为龙应台无法处理1949大题目的结论。"
+      }
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "dajiang-dahai-pianle-ni-round001-closeout",
+    "id": "dajiang-dahai-pianle-ni-2010-late-defines-long-yingtai-style-error",
+    "date": "2010-12-31",
+    "year": 2010,
+    "month": 12,
+    "day": 31,
+    "displayDate": "约2010年底至2011年2月",
+    "datePrecision": "date-range",
+    "title": "李敖提出“龙应台式错误”，批评《大江大海一九四九》只写现象、不写原因",
+    "summary": "约2010年底至2011年2月，李敖在《大江大海骗了你》中把龙应台的根本问题概括为“龙应台式错误”：只会写现象，不会写原因；只看小人物的哭声，却不追问战争、政权和制度责任。他说龙应台历史训练不足，文化思想也不够，无法罩住1949这样的大题目；又把龙应台从1984年批评国民党，到后来转向“文化台独”和《大江大海一九四九》的写作，概括成三阶段。本条承接既有节目旧锚，不重复拆电视节目里的同题批评。",
+    "source": {
+      "book": "大江大海骗了你",
+      "chapter": "017.“龙应台式错误”.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/015.大江大海骗了你/017.“龙应台式错误”.txt",
+      "line": 17,
+      "lines": [
+        3,
+        5,
+        13,
+        17,
+        21,
+        25
+      ]
+    },
+    "people": [
+      "李敖",
+      "龙应台",
+      "蒋介石"
+    ],
+    "places": [
+      "台湾",
+      "中国大陆"
+    ],
+    "works": [
+      "大江大海骗了你",
+      "大江大海一九四九",
+      "野火集"
+    ],
+    "tags": [
+      "大江大海骗了你",
+      "第一轮",
+      "第017至020章",
+      "第176至182章",
+      "龙应台式错误",
+      "现象与原因",
+      "文化台独",
+      "1949叙事"
+    ],
+    "view": [
+      "政论线",
+      "思想线",
+      "史料线"
+    ],
+    "crossReferences": [
+      "li-ao-zhenglun-zongyiji-098-criticizes-great-river-sea-for-showing-phenomena-without-causes",
+      "li-ao-zhenglun-zongyiji-111-calls-long-yingtai-tribute-to-chiang-and-first-button-wrong",
+      "li-ao-zhenglun-zongyiji-113-summarizes-first-button-kmt-loser-tribute-and-three-per-thousand-land",
+      "li-ao-zhenglun-zongyiji-112-defines-long-yingtai-cultural-taiwan-independence-with-aesop-bat"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "additionalSources": [
+      {
+        "book": "大江大海骗了你",
+        "chapter": "007.叶公超的切肤之痛.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/015.大江大海骗了你/007.叶公超的切肤之痛.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          7,
+          11,
+          13,
+          15
+        ],
+        "note": "补入李敖以叶公超旧案说明蒋介石日记和官方材料需要反向检验。"
+      },
+      {
+        "book": "大江大海骗了你",
+        "chapter": "012.蒋介石的“专立文字”骗术.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/015.大江大海骗了你/012.蒋介石的“专立文字”骗术.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5
+        ],
+        "note": "补入李敖对蒋介石主动留下文字以自我包装的辨伪。"
+      },
+      {
+        "book": "大江大海骗了你",
+        "chapter": "014.蒋介石的“不立文字”骗术.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/015.大江大海骗了你/014.蒋介石的“不立文字”骗术.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5
+        ],
+        "note": "补入李敖对蒋介石不留文字、借部属执行的另一层辨伪。"
+      },
+      {
+        "book": "大江大海骗了你",
+        "chapter": "015.档案里根本找不到.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/015.大江大海骗了你/015.档案里根本找不到.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5
+        ],
+        "note": "补入李敖对“档案找不到”不能等于事实不存在的说明。"
+      },
+      {
+        "book": "大江大海骗了你",
+        "chapter": "070.吴相湘的“国民党史观”.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/015.大江大海骗了你/070.吴相湘的“国民党史观”.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          9,
+          15
+        ],
+        "note": "补入李敖对吴相湘和国民党史观的批评。"
+      },
+      {
+        "book": "大江大海骗了你",
+        "chapter": "072.龙应台与“刺刀从军”.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/015.大江大海骗了你/072.龙应台与“刺刀从军”.txt",
+        "line": 5,
+        "lines": [
+          3,
+          5,
+          9,
+          11,
+          15
+        ],
+        "note": "补入李敖对龙应台引用“刺刀从军”说法的质疑。"
+      },
+      {
+        "book": "大江大海骗了你",
+        "chapter": "082.建国百年个屁！.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/015.大江大海骗了你/082.建国百年个屁！.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          15,
+          19,
+          29
+        ],
+        "note": "补入李敖把中华民国百年宣传并入国民党史观辨伪的论述。"
+      }
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "dajiang-dahai-pianle-ni-round001-closeout",
+    "id": "dajiang-dahai-pianle-ni-2010-late-uses-chiang-diary-archives-and-kmt-history-to-refute-1949",
+    "date": "2010-12-31",
+    "year": 2010,
+    "month": 12,
+    "day": 31,
+    "displayDate": "约2010年底至2011年2月",
+    "datePrecision": "date-range",
+    "title": "李敖以蒋介石日记、档案骗术和国民党史观辨伪龙应台的1949叙事",
+    "summary": "约2010年底至2011年2月，李敖在《大江大海骗了你》中把蒋介石日记、胡佛档案和国民党史观列为拆解《大江大海一九四九》的核心证据。他强调档案和日记本身也会骗人，蒋介石既有“专立文字”的自我包装，也有“不立文字”的操作空间；档案里找不到，并不等于事不存在。李敖进而用叶公超、黄郛电报、吴相湘叙事、“刺刀从军”和中华民国百年宣传等材料，批评龙应台沿用国民党失败者叙事而未做史料辨伪。",
+    "source": {
+      "book": "大江大海骗了你",
+      "chapter": "011.龙应台不懂老蒋日记.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/015.大江大海骗了你/011.龙应台不懂老蒋日记.txt",
+      "line": 5,
+      "lines": [
+        3,
+        5,
+        9,
+        11,
+        13
+      ]
+    },
+    "people": [
+      "李敖",
+      "龙应台",
+      "蒋介石",
+      "叶公超",
+      "黄郛",
+      "吴相湘"
+    ],
+    "places": [
+      "台湾",
+      "中国大陆",
+      "胡佛研究院",
+      "斯坦福"
+    ],
+    "works": [
+      "大江大海骗了你",
+      "大江大海一九四九",
+      "蒋介石日记",
+      "吴相湘传记材料"
+    ],
+    "tags": [
+      "大江大海骗了你",
+      "第一轮",
+      "第007至015章",
+      "第070至082章",
+      "蒋介石日记",
+      "档案辨伪",
+      "国民党史观",
+      "刺刀从军",
+      "建国百年"
+    ],
+    "view": [
+      "史料线",
+      "政论线",
+      "作品线"
+    ],
+    "crossReferences": [
+      "li-ao-zhenglun-zongyiji-112-reads-chiang-diary-omissions-through-he-umezu-and-hitler-analogy",
+      "li-ao-zhenglun-zongyiji-111-uses-conscripted-at-bayonet-point-to-question-long-yingtai-source",
+      "li-ao-yumiao-tianxia-079-criticizes-history-books-for-not-admitting-1949-fall",
+      "li-ao-yumiao-tianxia-080-revisits-fallen-state-study-as-classic",
+      "li-ao-zhenglun-zongyiji-127-repeats-roc-dead-and-says-ma-yingjeou-uses-centennial-to-fool-people"
+    ]
+  },
+  {
+    "category": "political-commentary-writing",
+    "type": "李敖当事人事件",
+    "additionalSources": [
+      {
+        "book": "大江大海骗了你",
+        "chapter": "029.可以这样“二二八”吗？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/015.大江大海骗了你/029.可以这样“二二八”吗？.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          13,
+          21
+        ],
+        "note": "补入李敖对龙应台二二八写法的质疑。"
+      },
+      {
+        "book": "大江大海骗了你",
+        "chapter": "030.“台湾菁英”怎样奸杀外省女人.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/015.大江大海骗了你/030.“台湾菁英”怎样奸杀外省女人.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          9,
+          19
+        ],
+        "note": "补入李敖对二二八叙事中族群暴力细节的补证。"
+      },
+      {
+        "book": "大江大海骗了你",
+        "chapter": "035.是谁引来俄国大兵？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/015.大江大海骗了你/035.是谁引来俄国大兵？.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          7,
+          11
+        ],
+        "note": "补入李敖把俄国大兵暴行与战争责任相连的论述。"
+      },
+      {
+        "book": "大江大海骗了你",
+        "chapter": "042.美国人害了台湾人.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/015.大江大海骗了你/042.美国人害了台湾人.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          7,
+          13,
+          19
+        ],
+        "note": "补入李敖把美国因素并入台湾历史叙事批判。"
+      },
+      {
+        "book": "大江大海骗了你",
+        "chapter": "046.马英九打电话来.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/015.大江大海骗了你/046.马英九打电话来.txt",
+        "line": 3,
+        "lines": [
+          3
+        ],
+        "note": "补入1999年石原慎太郎访台前李敖电话警告马英九的回述。"
+      },
+      {
+        "book": "大江大海骗了你",
+        "chapter": "048.潘毓刚斥责龙应台无耻.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/015.大江大海骗了你/048.潘毓刚斥责龙应台无耻.txt",
+        "line": 5,
+        "lines": [
+          3,
+          5,
+          11,
+          15
+        ],
+        "note": "补入李敖引用潘毓刚来信批评龙应台迎接石原慎太郎的材料。"
+      },
+      {
+        "book": "大江大海骗了你",
+        "chapter": "049.龙应台不写美国大兵在强奸.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/015.大江大海骗了你/049.龙应台不写美国大兵在强奸.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          9
+        ],
+        "note": "补入李敖对龙应台选择性书写美国大兵暴行的批评。"
+      },
+      {
+        "book": "大江大海骗了你",
+        "chapter": "052.是谁引来美国大兵？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/015.大江大海骗了你/052.是谁引来美国大兵？.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          13
+        ],
+        "note": "补入李敖追问美国大兵来台责任的材料。"
+      },
+      {
+        "book": "大江大海骗了你",
+        "chapter": "053.龙应台不是亲美派吗？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/015.大江大海骗了你/053.龙应台不是亲美派吗？.txt",
+        "line": 17,
+        "lines": [
+          3,
+          5,
+          17,
+          21,
+          53
+        ],
+        "note": "补入李敖把亲美立场和美国军事暴行记忆并置的批评。"
+      }
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "dajiang-dahai-pianle-ni-round001-closeout",
+    "id": "dajiang-dahai-pianle-ni-2010-late-links-228-us-russia-japan-and-ma-long-ishihara",
+    "date": "2010-12-31",
+    "year": 2010,
+    "month": 12,
+    "day": 31,
+    "displayDate": "约2010年底至2011年2月",
+    "datePrecision": "date-range",
+    "title": "李敖把二二八、俄美日军队记忆和石原慎太郎争议并入对龙应台的批判",
+    "summary": "约2010年底至2011年2月，李敖在《大江大海骗了你》中把二二八、俄国大兵、美国大兵、日本侵略和石原慎太郎访台争议放进同一条批判线。他说自己早已发表刘凤松、张七郎等二二八材料，后来也曾拿证据给马英九看；同时质疑龙应台写受害者，却不写是谁引来俄国大兵、美国大兵，也不正面处理美国与日本在台湾记忆中的责任。本条把1999年李敖电话警告马英九、潘毓刚斥龙应台迎接石原等旧事作为本书论证链回挂，不再重复新增那些旧事件。",
+    "source": {
+      "book": "大江大海骗了你",
+      "chapter": "043.马英九请我吃饭.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/015.大江大海骗了你/043.马英九请我吃饭.txt",
+      "line": 9,
+      "lines": [
+        9,
+        13
+      ]
+    },
+    "people": [
+      "李敖",
+      "龙应台",
+      "马英九",
+      "石原慎太郎",
+      "潘毓刚",
+      "刘凤松",
+      "张七郎"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "日本",
+      "美国",
+      "俄国",
+      "南京"
+    ],
+    "works": [
+      "大江大海骗了你",
+      "大江大海一九四九",
+      "二二八相关旧文"
+    ],
+    "tags": [
+      "大江大海骗了你",
+      "第一轮",
+      "第029至053章",
+      "二二八",
+      "美国大兵",
+      "俄国大兵",
+      "石原慎太郎",
+      "马英九",
+      "潘毓刚"
+    ],
+    "view": [
+      "政论线",
+      "史料线",
+      "台湾线"
+    ],
+    "crossReferences": [
+      "li-ao-fangdianji-012-recounts-warning-ma-yingjeou-on-ishihara-and-city-diplomacy-failure",
+      "tiaozhan-li-ao-1999-11-15-criticizes-long-yingtai-official-conscience-ishihara",
+      "li-ao-fangdianji-018-publishes-pan-yugang-letter-attacking-long-yingtai-ishihara-gesture",
+      "li-ao-diandao-zhongsheng-055-recalls-phone-warning-ma-not-to-meet-ishihara",
+      "li-ao-songdianji-1997-12-01-republishes-nanjing-massacre-essay-for-long-yingtai-ishihara"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "additionalSources": [
+      {
+        "book": "大江大海骗了你",
+        "chapter": "085.龙爸爸小兵立大功？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/015.大江大海骗了你/085.龙爸爸小兵立大功？.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          7,
+          15,
+          25
+        ],
+        "note": "补入李敖质疑龙应台父亲战功叙事的开端。"
+      },
+      {
+        "book": "大江大海骗了你",
+        "chapter": "087.龙爸爸“杀敌无数”？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/015.大江大海骗了你/087.龙爸爸“杀敌无数”？.txt",
+        "line": 5,
+        "lines": [
+          3,
+          5,
+          13,
+          23,
+          29
+        ],
+        "note": "补入李敖对“杀敌无数”等家庭记忆叙事的质疑。"
+      },
+      {
+        "book": "大江大海骗了你",
+        "chapter": "097.“武器抛海，徒手上船”.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/015.大江大海骗了你/097.“武器抛海，徒手上船”.txt",
+        "line": 5,
+        "lines": [
+          3,
+          5,
+          9,
+          11
+        ],
+        "note": "补入李敖考证五十二军撤台和武器抛海说法的材料。"
+      },
+      {
+        "book": "大江大海骗了你",
+        "chapter": "100.龙应台懂什么逃难.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/015.大江大海骗了你/100.龙应台懂什么逃难.txt",
+        "line": 5,
+        "lines": [
+          3,
+          5,
+          13,
+          15
+        ],
+        "note": "补入李敖以自身1949年离沪来台经验回应龙应台逃难叙事。"
+      },
+      {
+        "book": "大江大海骗了你",
+        "chapter": "105.龙应台竟不看《雷震日记》.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/015.大江大海骗了你/105.龙应台竟不看《雷震日记》.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          19,
+          23,
+          31
+        ],
+        "note": "补入李敖认为《雷震日记》是龙应台不可遗漏的1949材料。"
+      },
+      {
+        "book": "大江大海骗了你",
+        "chapter": "106.“一九四九”百怪图.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/015.大江大海骗了你/106.“一九四九”百怪图.txt",
+        "line": 5,
+        "lines": [
+          3,
+          5,
+          13,
+          21
+        ],
+        "note": "补入李敖用多组1949怪象扩充龙应台未写的材料面。"
+      },
+      {
+        "book": "大江大海骗了你",
+        "chapter": "113.龙应台不知道的说客.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/015.大江大海骗了你/113.龙应台不知道的说客.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          7,
+          15,
+          21
+        ],
+        "note": "补入李敖对1949幕后说客和关键人物的补证。"
+      },
+      {
+        "book": "大江大海骗了你",
+        "chapter": "123.龚德柏亲历的黑狱.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/015.大江大海骗了你/123.龚德柏亲历的黑狱.txt",
+        "line": 5,
+        "lines": [
+          3,
+          5,
+          15,
+          23,
+          31
+        ],
+        "note": "补入李敖用龚德柏亲历材料补龙应台未见黑狱经验。"
+      },
+      {
+        "book": "大江大海骗了你",
+        "chapter": "127.黑色的白描.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/015.大江大海骗了你/127.黑色的白描.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          21,
+          31,
+          41
+        ],
+        "note": "补入乔家才等黑狱白描材料。"
+      },
+      {
+        "book": "大江大海骗了你",
+        "chapter": "129.他惨叫了一声：“爸！”.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/015.大江大海骗了你/129.他惨叫了一声：“爸！”.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          13,
+          23,
+          31
+        ],
+        "note": "补入李敖用父子惨案强化1949后黑狱叙事的材料。"
+      }
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "dajiang-dahai-pianle-ni-round001-closeout",
+    "id": "dajiang-dahai-pianle-ni-2010-late-rebuilds-1949-flight-changchun-and-veteran-evidence",
+    "date": "2010-12-31",
+    "year": 2010,
+    "month": 12,
+    "day": 31,
+    "displayDate": "约2010年底至2011年2月",
+    "datePrecision": "date-range",
+    "title": "李敖用五十二军老兵、个人逃难经验和雷震等材料重建龙应台漏写的1949",
+    "summary": "约2010年底至2011年2月，李敖在《大江大海骗了你》中用五十二军老兵、刘玉章回忆、张晴光访谈、自己1949年离沪来台经验和《雷震日记》等材料，反驳龙应台的家庭战功与逃难叙事。他质疑“龙爸爸小兵立大功”“杀敌无数”和“武器抛海，徒手上船”等说法，又把长春围城、杜聿明、说客、龚德柏黑狱、乔家才白描和父子惨案等材料并列，说明只访问小人物不能替代对权力、战争责任和第一手文献的追问。",
+    "source": {
+      "book": "大江大海骗了你",
+      "chapter": "099.五十二军老兵.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/015.大江大海骗了你/099.五十二军老兵.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        11,
+        15,
+        25
+      ]
+    },
+    "people": [
+      "李敖",
+      "龙应台",
+      "龙应台之父",
+      "刘玉章",
+      "张晴光",
+      "雷震",
+      "杜聿明",
+      "龚德柏",
+      "乔家才"
+    ],
+    "places": [
+      "上海",
+      "基隆",
+      "台湾",
+      "长春",
+      "中国大陆"
+    ],
+    "works": [
+      "大江大海骗了你",
+      "大江大海一九四九",
+      "雷震日记",
+      "刘玉章回忆材料"
+    ],
+    "tags": [
+      "大江大海骗了你",
+      "第一轮",
+      "第085至129章",
+      "五十二军",
+      "1949逃难",
+      "长春围城",
+      "雷震日记",
+      "黑狱",
+      "个人经验"
+    ],
+    "view": [
+      "史料线",
+      "生命线",
+      "作品线"
+    ],
+    "crossReferences": [
+      "book4-1949-05-12-arrives-taiwan-at-keelung-source4",
+      "li-ao-yanjiangji-001-recounts-leaving-shanghai-arriving-taiwan",
+      "li-ao-zhenglun-zongyiji-111-rebuilds-changchun-siege-through-family-caesar-and-zheng-dongguo",
+      "li-ao-zhenglun-zongyiji-112-uses-liu-yuzhang-memoir-and-veteran-carwasher-to-fill-shanghai-evacuation",
+      "li-ao-zhenglun-zongyiji-113-retells-his-1949-deck-voyage-entry-permit-and-family-gold",
+      "li-ao-yumiao-tianxia-046-recalls-arriving-keelung-taichung-in-1949"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "additionalSources": [
+      {
+        "book": "大江大海骗了你",
+        "chapter": "147.张灵甫诀别书是假的.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/015.大江大海骗了你/147.张灵甫诀别书是假的.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          9,
+          23,
+          39
+        ],
+        "note": "补入李敖辨称张灵甫诀别书为假的材料。"
+      },
+      {
+        "book": "大江大海骗了你",
+        "chapter": "149.“请瞄高一点”.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/015.大江大海骗了你/149.“请瞄高一点”.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          13,
+          21,
+          29
+        ],
+        "note": "补入李敖对张灵甫相关英雄叙事的继续辨析。"
+      },
+      {
+        "book": "大江大海骗了你",
+        "chapter": "154.挑夫还要假扮吗？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/015.大江大海骗了你/154.挑夫还要假扮吗？.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          11,
+          19,
+          25
+        ],
+        "note": "补入李敖对《自由中国》、聂华苓与身份叙事的辨析。"
+      },
+      {
+        "book": "大江大海骗了你",
+        "chapter": "155.前一半也写错了.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/015.大江大海骗了你/155.前一半也写错了.txt",
+        "line": 3,
+        "lines": [
+          3,
+          7,
+          9
+        ],
+        "note": "补入李敖把龙应台“只写前一半”推进到“前一半也写错”的判断。"
+      },
+      {
+        "book": "大江大海骗了你",
+        "chapter": "160.钱复的肉糜之言.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/015.大江大海骗了你/160.钱复的肉糜之言.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          15,
+          25
+        ],
+        "note": "补入李敖用钱复言论说明上层人物对底层苦难的隔膜。"
+      },
+      {
+        "book": "大江大海骗了你",
+        "chapter": "163.杜均衡之死.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/015.大江大海骗了你/163.杜均衡之死.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          7,
+          11,
+          13
+        ],
+        "note": "补入李敖以杜均衡之死补充龙应台未写的具体苦难。"
+      },
+      {
+        "book": "大江大海骗了你",
+        "chapter": "165.开始大改特改历史了.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/015.大江大海骗了你/165.开始大改特改历史了.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          9,
+          13,
+          33,
+          37
+        ],
+        "note": "补入李敖对蒋介石形象改造和历史改写的批评。"
+      }
+    ],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "dajiang-dahai-pianle-ni-round001-closeout",
+    "id": "dajiang-dahai-pianle-ni-2010-late-lists-missing-and-false-1949-cases",
+    "date": "2010-12-31",
+    "year": 2010,
+    "month": 12,
+    "day": 31,
+    "displayDate": "约2010年底至2011年2月",
+    "datePrecision": "date-range",
+    "title": "李敖集中列举张灵甫、聂华苓、王晓波和钱复等案例，收束为龙应台“前一半也写错”",
+    "summary": "约2010年底至2011年2月，李敖在《大江大海骗了你》后段集中列举多组被龙应台漏写或写错的1949案例：张灵甫诀别书、英雄台词、《自由中国》与聂华苓、王晓波的族群论述、钱复的“肉糜之言”、杜均衡之死，以及蒋介石形象被重新包装等。他由此把前面“龙应台只写前半截”的批评推进为“前一半也写错”，认为龙应台既遗漏高层责任和关键证据，也在若干具体故事上误取传闻、误配因果。",
+    "source": {
+      "book": "大江大海骗了你",
+      "chapter": "159.忘了换掉开裆裤.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/015.大江大海骗了你/159.忘了换掉开裆裤.txt",
+      "line": 3,
+      "lines": [
+        3,
+        9,
+        15,
+        25,
+        27
+      ]
+    },
+    "people": [
+      "李敖",
+      "龙应台",
+      "张灵甫",
+      "聂华苓",
+      "王晓波",
+      "钱复",
+      "杜均衡",
+      "杜九森",
+      "蒋介石"
+    ],
+    "places": [
+      "台湾",
+      "中国大陆",
+      "孟良崮",
+      "上海"
+    ],
+    "works": [
+      "大江大海骗了你",
+      "大江大海一九四九",
+      "自由中国"
+    ],
+    "tags": [
+      "大江大海骗了你",
+      "第一轮",
+      "第147至165章",
+      "张灵甫",
+      "聂华苓",
+      "王晓波",
+      "钱复",
+      "杜均衡",
+      "历史改写"
+    ],
+    "view": [
+      "史料线",
+      "政论线",
+      "作品线"
+    ],
+    "crossReferences": [
+      "li-ao-zhenglun-zongyiji-113-returns-to-shanghai-gold-run-hyperinflation-and-chen-yi-blocking-gold-yuan",
+      "li-ao-zhenglun-zongyiji-116-retells-hyperinflation-gold-run-old-taiwan-dollar-and-chen-yi-ban",
+      "li-ao-zhenglun-zongyiji-118-continues-long-yingtai-debate-through-changchun-zheng-du-yuming-and-sun-liren",
+      "li-ao-zhenglun-zongyiji-120-retells-1949-gold-gold-yuan-roc-death-secret-speech-and-sell-taiwan-buy-mainland",
+      "li-ao-zhenglun-zongyiji-124-warns-against-chiang-rehabilitation-and-repeats-paper-writing-method"
+    ]
+  }
+]

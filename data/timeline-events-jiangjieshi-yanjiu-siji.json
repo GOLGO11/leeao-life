@@ -1,0 +1,748 @@
+[
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-siji-round001-closeout",
+    "id": "jiangjieshi-yanjiu-siji-1987-10-10-writes-fourth-volume-preface-after-three-bans",
+    "date": "1987-10-10",
+    "year": 1987,
+    "month": 10,
+    "day": 10,
+    "displayDate": "1987年10月10日夜",
+    "datePrecision": "day",
+    "title": "李敖写《蒋介石研究四集》自序，在三本被禁后声明“全天候”批评蒋介石",
+    "summary": "1987年10月10日夜，李敖写《蒋介石研究四集》自序，明说《蒋介石研究》《蒋介石研究续集》《蒋介石研究三集》分别被查禁后，自己仍出版第四集。他借许以祺来台时提出的“大陆共产党都不骂蒋介石了”一问，说明自己不因一时政治目的而骂或不骂蒋介石，所谓骂其实是以证据为基础的严格批评；又借克伦威尔画像故事说要照样画出疤痕和皱纹，把本书定位为继续给蒋介石作证据画像。",
+    "source": {
+      "book": "蒋介石研究四集",
+      "chapter": "《蒋介石研究四集》自序.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/019.蒋介石研究四集/《蒋介石研究四集》自序.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11
+      ]
+    },
+    "people": [
+      "李敖",
+      "蒋介石",
+      "许以祺",
+      "克伦威尔",
+      "利雷"
+    ],
+    "places": [
+      "台湾",
+      "中国大陆"
+    ],
+    "works": [
+      "蒋介石研究",
+      "蒋介石研究续集",
+      "蒋介石研究三集",
+      "蒋介石研究四集"
+    ],
+    "tags": [
+      "蒋介石研究四集",
+      "自序",
+      "查禁",
+      "严格批评",
+      "证据画像"
+    ],
+    "view": [
+      "写作线",
+      "出版线",
+      "政治线"
+    ],
+    "crossReferences": [
+      "jiangjieshi-yanjiu-1986-10-20-writes-preface-to-debunk-chiang-family-myths-with-evidence",
+      "book8-1986-11-02-chiang-kai-shek-study-banned",
+      "jiangjieshi-yanjiu-xuji-1987-01-07-writes-sequel-preface-after-first-book-banned",
+      "book8-1987-01-22-chiang-kai-shek-study-sequel-banned",
+      "jiangjieshi-yanjiu-sanji-1987-06-27-writes-third-volume-after-sequel-ban-and-taichung-search"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-siji-round001-closeout",
+    "id": "jiangjieshi-yanjiu-siji-1984-04-24-to-1987-03-01-rechecks-chiang-ancestry-and-zheng-sanfazi",
+    "date": "1984-04-24",
+    "year": 1984,
+    "month": 4,
+    "day": 24,
+    "displayDate": "1984年4月24日至1987年3月1日",
+    "datePrecision": "date-range",
+    "title": "李敖合读蒋介石祖宗攀附与“郑三发子”传说，处理蒋氏出身神话",
+    "summary": "1984年4月24日至1987年3月1日，李敖把两类蒋介石出身神话收在同一组证据里处理：在《蒋介石比祖宗》中，他引用《何应钦将军九五纪事长编》与毛思诚、陈布雷编校的《民国十五年以前之蒋介石先生》，嘲讽党国人物互比周武王、周公祖宗；在《蒋介石是“郑三发子”吗？》中，他梳理《金陵春梦》关于河南许昌“郑三发子”、郑绍发赴重庆寻亲和被戴笠系统软禁的传说，同时补入1965年张明镐等人撰《蒋介石在溪口》时认为许昌传说“全无根据”的反证。此条收的是李敖对传说与反证的研究动作，不把传说本身断定为事实。",
+    "source": {
+      "book": "蒋介石研究四集",
+      "chapter": "001.蒋介石比祖宗.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/019.蒋介石研究四集/001.蒋介石比祖宗.txt",
+      "line": 17,
+      "lines": [
+        3,
+        17,
+        27,
+        33,
+        35
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "蒋介石研究四集",
+        "chapter": "002.蒋介石是“郑三发子”吗？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/019.蒋介石研究四集/002.蒋介石是“郑三发子”吗？.txt",
+        "line": 11,
+        "lines": [
+          3,
+          7,
+          9,
+          11,
+          167,
+          183,
+          189,
+          203,
+          205,
+          237
+        ],
+        "note": "补入《金陵春梦》郑三发子传说、郑绍发赴重庆寻亲与许昌传说反证。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "蒋介石",
+      "何应钦",
+      "陈布雷",
+      "毛思诚",
+      "孙中山",
+      "唐人",
+      "严庆澍",
+      "郑绍发",
+      "戴笠",
+      "张明镐"
+    ],
+    "places": [
+      "台湾",
+      "河南许昌",
+      "浙江奉化",
+      "重庆",
+      "贵州",
+      "北京"
+    ],
+    "works": [
+      "蒋介石研究四集",
+      "何应钦将军九五纪事长编",
+      "民国十五年以前之蒋介石先生",
+      "金陵春梦",
+      "蒋介石在溪口"
+    ],
+    "tags": [
+      "蒋氏祖源",
+      "郑三发子",
+      "金陵春梦",
+      "蒋家神话",
+      "出身传说"
+    ],
+    "view": [
+      "史料线",
+      "政治线"
+    ],
+    "crossReferences": [
+      "jiangjieshi-yanjiu-1986-02-08-to-05-07-examines-chiang-family-lineage-religion-and-chiang-chingkuo-adoption"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-siji-round001-closeout",
+    "id": "jiangjieshi-yanjiu-siji-1987-08-15-reduces-chiang-education-to-zhenwu-school",
+    "date": "1987-08-15",
+    "year": 1987,
+    "month": 8,
+    "day": 15,
+    "displayDate": "1987年8月15日晨",
+    "datePrecision": "day",
+    "title": "李敖核算蒋介石留日教育年限，判定其学历只是蹩脚初高中程度",
+    "summary": "1987年8月15日晨，李敖写《蒋介石的教育程度》，把蒋介石在日本振武学校的就读时间核定为1907年至1909年、不到三年，再对照振武学校课程和日本士官学校履历，指出蒋介石此后并未念过日本士官学校，也没有再受教育的机会，终其一生教育程度不过是蹩脚初高中程度。此条与第一本中日本士官学校和早年履历神话旧锚相接，不重复重建早年履历全案。",
+    "source": {
+      "book": "蒋介石研究四集",
+      "chapter": "003.蒋介石的教育程度.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/019.蒋介石研究四集/003.蒋介石的教育程度.txt",
+      "line": 21,
+      "lines": [
+        21,
+        33,
+        35
+      ]
+    },
+    "people": [
+      "李敖",
+      "蒋介石",
+      "实藤惠秀",
+      "谭汝谦",
+      "林启彦"
+    ],
+    "places": [
+      "台湾",
+      "日本"
+    ],
+    "works": [
+      "蒋介石研究四集",
+      "中国人日本留学史",
+      "近代中国留学史",
+      "清末留日学生"
+    ],
+    "tags": [
+      "蒋介石学历",
+      "振武学校",
+      "日本士官学校",
+      "留日履历",
+      "早年神话"
+    ],
+    "view": [
+      "史料线",
+      "教育线",
+      "政治线"
+    ],
+    "crossReferences": [
+      "jiangjieshi-yanjiu-1985-09-04-to-12-04-debunks-early-chiang-biography-myths"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-siji-round001-closeout",
+    "id": "jiangjieshi-yanjiu-siji-1984-06-21-to-1987-08-24-reframes-huangpu-as-red-and-chiang-as-communist-comrade",
+    "date": "1984-06-21",
+    "year": 1984,
+    "month": 6,
+    "day": 21,
+    "displayDate": "1984年6月21日至1987年8月24日",
+    "datePrecision": "date-range",
+    "title": "李敖把黄埔开校、苏联援助与蒋介石自称共产主义同志连成一组考证",
+    "summary": "1984年6月21日至1987年8月24日，李敖围绕黄埔神话连续补证：他在《蒋介石并非原定黄埔校长》中引用刘峙回忆，指出孙中山原拟由许崇智兼任军官学校校长；同日又在《蒋介石与红色黄埔》中追问国民党《中央日报》何以漏写周恩来、叶剑英等共产党人在黄埔的实际职务，并列举苏联在人、财、枪三方面援助黄埔；随后在《蒋介石是共产党？》中对读1984年秦孝仪主编《总统蒋公思想言论总集》与《陆军军官学校第三期同学录序》原文，指出定本全集删改蒋介石把自己称为共产主义者诚实同志等文字。",
+    "source": {
+      "book": "蒋介石研究四集",
+      "chapter": "004.蒋介石并非原定黄埔校长.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/019.蒋介石研究四集/004.蒋介石并非原定黄埔校长.txt",
+      "line": 13,
+      "lines": [
+        11,
+        13,
+        21
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "蒋介石研究四集",
+        "chapter": "005.蒋介石与红色黄埔.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/019.蒋介石研究四集/005.蒋介石与红色黄埔.txt",
+        "line": 35,
+        "lines": [
+          35,
+          51,
+          55,
+          59,
+          65,
+          71,
+          75
+        ],
+        "note": "补入周恩来、叶剑英、苏联援助与黄埔红色来源考证。"
+      },
+      {
+        "book": "蒋介石研究四集",
+        "chapter": "006.蒋介石是共产党？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/019.蒋介石研究四集/006.蒋介石是共产党？.txt",
+        "line": 5,
+        "lines": [
+          5,
+          95,
+          109,
+          123,
+          127
+        ],
+        "note": "补入定本全集删改《陆军军官学校第三期同学录序》与蒋介石自称共产主义同志材料。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "蒋介石",
+      "孙中山",
+      "许崇智",
+      "刘峙",
+      "周恩来",
+      "叶剑英",
+      "何应钦",
+      "钱大钧",
+      "秦孝仪",
+      "谢彬"
+    ],
+    "places": [
+      "台湾",
+      "广州",
+      "黄埔",
+      "苏联"
+    ],
+    "works": [
+      "蒋介石研究四集",
+      "中央日报",
+      "何应钦将军九五纪事长编",
+      "中国国民党陆军军官学校第一期同学录",
+      "总统蒋公思想言论总集",
+      "陆军军官学校第三期同学录序",
+      "民国政党史"
+    ],
+    "tags": [
+      "黄埔军校",
+      "红色黄埔",
+      "苏联援助",
+      "周恩来",
+      "叶剑英",
+      "文本删改"
+    ],
+    "view": [
+      "史料线",
+      "军事线",
+      "政治线"
+    ],
+    "crossReferences": [
+      "jiangjieshi-yanjiu-1985-09-04-to-12-04-debunks-early-chiang-biography-myths",
+      "jiangjieshi-yanjiu-xuji-1985-10-03-to-10-30-adds-husband-group-and-photo-evidence",
+      "jiangjieshi-yanjiu-xuji-1985-02-25-to-1987-01-05-debunks-chiang-deification-will-coffin-books-and-ghostwriting"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-siji-round001-closeout",
+    "id": "jiangjieshi-yanjiu-siji-1984-06-30-reconstructs-yang-hucheng-murder-from-zhou-yanghao",
+    "date": "1984-06-30",
+    "year": 1984,
+    "month": 6,
+    "day": 30,
+    "displayDate": "1984年6月30日",
+    "datePrecision": "day",
+    "title": "李敖写《蒋介石怎样谋杀杨虎城》，以周养浩材料重构戴公祠杀害链",
+    "summary": "1984年6月30日，李敖写《蒋介石怎样谋杀杨虎城》，先概述杨虎城从西安事变另一主角到被长期拘禁的来龙去脉，再引用《访周养浩谈杨虎城之死》等材料，追到白公馆、渣滓洞和中美合作所的特务系统。文章把1949年西南动摇后毛人凤、徐远举等人密议处决，戴公祠地点、匕首行刺、杨虎城父子与宋绮云一家遇害、尸体被埋入花台并以镪水毁面的过程连成一条证据链。",
+    "source": {
+      "book": "蒋介石研究四集",
+      "chapter": "007.蒋介石怎样谋杀杨虎城.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/019.蒋介石研究四集/007.蒋介石怎样谋杀杨虎城.txt",
+      "line": 3,
+      "lines": [
+        3,
+        9,
+        277,
+        289,
+        295,
+        303,
+        315,
+        327,
+        353
+      ]
+    },
+    "people": [
+      "李敖",
+      "蒋介石",
+      "杨虎城",
+      "周养浩",
+      "戴笠",
+      "毛人凤",
+      "徐远举",
+      "杨进兴",
+      "熊祥",
+      "杨拯中",
+      "宋绮云"
+    ],
+    "places": [
+      "台湾",
+      "重庆",
+      "白公馆",
+      "渣滓洞",
+      "中美合作所",
+      "松林坡戴公祠",
+      "贵阳",
+      "黔灵山"
+    ],
+    "works": [
+      "蒋介石研究四集",
+      "访周养浩谈杨虎城之死"
+    ],
+    "tags": [
+      "杨虎城",
+      "西安事变",
+      "白公馆",
+      "渣滓洞",
+      "戴公祠",
+      "军统"
+    ],
+    "view": [
+      "史料线",
+      "司法线",
+      "军事线",
+      "政治线"
+    ],
+    "crossReferences": [
+      "jiangjieshi-yanjiu-xuji-1986-07-23-to-09-08-links-du-family-hostage-and-huaihai-blunder",
+      "jiangjieshi-yanjiu-sanji-1987-04-12-to-04-26-links-captive-doctrine-and-menglianggu-fabrication"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-siji-round001-closeout",
+    "id": "jiangjieshi-yanjiu-siji-1986-11-07-reads-wang-shijie-secret-letter-and-huang-fu-private-japan-channel",
+    "date": "1986-11-07",
+    "year": 1986,
+    "month": 11,
+    "day": 7,
+    "displayDate": "1986年11月7日午",
+    "datePrecision": "day",
+    "title": "李敖从王世杰密件重查黄郛，指蒋介石另设私人亲日代表",
+    "summary": "1986年11月7日午，李敖写《蒋介石与地下代表》，从自己曾在《千秋评论》公布的王世杰致张九如密件说起，指出王世杰在蒋介石高压下对国共关系、中苏谈判和大陆沦陷原因守口如瓶二十年。文章进一步解释密件中的“黄氏”即黄郛，认为蒋介石透过这位把兄直接取代行政院外交部权力，使黄郛成为蒋介石私人的亲日代表兼卖国代办。",
+    "source": {
+      "book": "蒋介石研究四集",
+      "chapter": "008.蒋介石与地下代表.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/019.蒋介石研究四集/008.蒋介石与地下代表.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        21,
+        31,
+        37
+      ]
+    },
+    "people": [
+      "李敖",
+      "蒋介石",
+      "王世杰",
+      "张九如",
+      "黄郛",
+      "汪精卫",
+      "宋子文",
+      "高宗武"
+    ],
+    "places": [
+      "台湾",
+      "华北",
+      "华中",
+      "日本"
+    ],
+    "works": [
+      "蒋介石研究四集",
+      "千秋评论",
+      "文星·围剿·卖",
+      "谁是卖国者？"
+    ],
+    "tags": [
+      "王世杰密件",
+      "黄郛",
+      "地下代表",
+      "对日外交",
+      "亲日路线"
+    ],
+    "view": [
+      "史料线",
+      "外交线",
+      "政治线"
+    ],
+    "crossReferences": [
+      "jiangjieshi-yanjiu-xuji-1986-11-04-uses-travel-approval-to-reopen-wang-jingwei-escape",
+      "jiangjieshi-yanjiu-sanji-1986-10-29-reverses-wang-peace-chiang-war-propaganda"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-siji-round001-closeout",
+    "id": "jiangjieshi-yanjiu-siji-1982-05-14-to-1985-06-18-builds-outer-mongolia-vote-and-lost-state-chain",
+    "date": "1982-05-14",
+    "year": 1982,
+    "month": 5,
+    "day": 14,
+    "displayDate": "1982年5月14日至1985年6月18日（1997年10月11日订补）",
+    "datePrecision": "date-range",
+    "title": "李敖把王世杰密件、外蒙公民投票和蒋介石自承亡国合成卖国证据链",
+    "summary": "1982年5月14日至1985年6月18日，李敖围绕外蒙古问题形成一组证据链：在《蒋介石、王世杰卖国》中，他由王世杰给张九如的密件和外蒙古得失，反驳国民党把卖国罪名推给军阀；1997年订补又引1953年废除《中苏友好同盟条约》与1967年苏联公布东北援共材料，补强王世杰责任线。在《蒋介石“公民投票”卖国学》中，他用雷法章、毛以亨等材料说明外蒙“公民投票”的官样文章和苏军进入东北造成既成事实；在《蒋介石自承亡国》中，他再引蒋介石《苏俄在中国》和《复职的使命与目的》，说明蒋介石自己承认接受外蒙独立并称中华民国随大陆沦陷而灭亡。本条回挂第一本“自承罪愆”旧锚，只收四集新增的王世杰、公投与亡国三层证据。",
+    "source": {
+      "book": "蒋介石研究四集",
+      "chapter": "009.蒋介石、王世杰卖国.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/019.蒋介石研究四集/009.蒋介石、王世杰卖国.txt",
+      "line": 5,
+      "lines": [
+        3,
+        5,
+        11,
+        193,
+        197,
+        199,
+        201,
+        205,
+        207,
+        213,
+        215
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "蒋介石研究四集",
+        "chapter": "010.蒋介石“公民投票”卖国学.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/019.蒋介石研究四集/010.蒋介石“公民投票”卖国学.txt",
+        "line": 129,
+        "lines": [
+          129,
+          131,
+          159,
+          185,
+          189,
+          191,
+          199,
+          203
+        ],
+        "note": "补入雷法章、毛以亨关于外蒙古公民投票与苏军进入东北的材料。"
+      },
+      {
+        "book": "蒋介石研究四集",
+        "chapter": "015.蒋介石自承亡国.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/019.蒋介石研究四集/015.蒋介石自承亡国.txt",
+        "line": 27,
+        "lines": [
+          27,
+          29,
+          35,
+          39,
+          41
+        ],
+        "note": "补入蒋介石接受外蒙独立和自称中华民国已经灭亡的原话。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "蒋介石",
+      "王世杰",
+      "张九如",
+      "戴传贤",
+      "雷法章",
+      "毛以亨",
+      "斯大林",
+      "毛泽东",
+      "艾森豪",
+      "哈里曼"
+    ],
+    "places": [
+      "台湾",
+      "外蒙古",
+      "东北",
+      "莫斯科",
+      "库仑",
+      "联合国"
+    ],
+    "works": [
+      "蒋介石研究四集",
+      "中苏友好同盟条约",
+      "俄蒙回忆录",
+      "奉派赴外蒙参观公民投票之经过",
+      "故国河山话外蒙",
+      "苏俄在中国",
+      "复职的使命与目的"
+    ],
+    "tags": [
+      "外蒙古",
+      "公民投票",
+      "中苏友好同盟条约",
+      "王世杰",
+      "亡国",
+      "苏联东北"
+    ],
+    "view": [
+      "史料线",
+      "外交线",
+      "政治线"
+    ],
+    "crossReferences": [
+      "jiangjieshi-yanjiu-1985-03-06-to-1986-09-07-reads-chiang-promises-self-confession-and-timetables"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-siji-round001-closeout",
+    "id": "jiangjieshi-yanjiu-siji-1984-05-03-debunks-kang-ze-martyrdom-through-release-records",
+    "date": "1984-05-03",
+    "year": 1984,
+    "month": 5,
+    "day": 3,
+    "displayDate": "1984年5月3日上午",
+    "datePrecision": "day",
+    "title": "李敖写《蒋介石与康泽》，用释放记录拆穿康泽“殉难”叙事",
+    "summary": "1984年5月3日上午，李敖用四小时写成《蒋介石与康泽》，由罗列入祠后又现身台湾的先例，转到康泽被国民党说成“殉难”的文字错觉。他批评挽联把康泽比作史可法、文天祥不合事实，指出康泽1948年至1963年被共产党关押十五年后释放，杜聿明也早在1959年释放并历任政协、人大职务；文末列出共产党释放国民党战犯与相关大员七批五百八十九人的名单，以此反证“殉难”叙事。",
+    "source": {
+      "book": "蒋介石研究四集",
+      "chapter": "011.蒋介石与康泽.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/019.蒋介石研究四集/011.蒋介石与康泽.txt",
+      "line": 109,
+      "lines": [
+        109,
+        117,
+        119,
+        123,
+        125,
+        129,
+        137
+      ]
+    },
+    "people": [
+      "李敖",
+      "蒋介石",
+      "康泽",
+      "邓文仪",
+      "杜聿明",
+      "罗列",
+      "史可法",
+      "文天祥",
+      "洪承畴"
+    ],
+    "places": [
+      "台湾",
+      "北平",
+      "北京"
+    ],
+    "works": [
+      "蒋介石研究四集",
+      "黄埔学生六十年",
+      "传记文学",
+      "中国人杂志"
+    ],
+    "tags": [
+      "康泽",
+      "殉难叙事",
+      "战犯释放",
+      "忠烈祠",
+      "黄埔学生"
+    ],
+    "view": [
+      "史料线",
+      "政治线"
+    ],
+    "crossReferences": [
+      "jiangjieshi-yanjiu-xuji-1986-07-23-to-09-08-links-du-family-hostage-and-huaihai-blunder"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-siji-round001-closeout",
+    "id": "jiangjieshi-yanjiu-siji-1984-09-03-to-09-04-rechecks-chen-bulei-suicide-and-shijian-narratives",
+    "date": "1984-09-03",
+    "year": 1984,
+    "month": 9,
+    "day": 3,
+    "displayDate": "1984年9月3日至9月4日",
+    "datePrecision": "date-range",
+    "title": "李敖三写蒋介石与陈布雷，重查和谈、金圆券与“尸谏”说法",
+    "summary": "1984年9月3日至9月4日，李敖连续写《蒋介石与陈布雷》三篇，围绕陶永标、蒋君章、胡健中、曹圣芬等人的说法重查陈布雷之死。他引用陶永标回忆蒋介石深夜对陈布雷说战局不利、谈判保不住半壁江山、只能背水一战，质疑蒋君章否认陈布雷曾谈和的说法；又追查金圆券崩溃与陈布雷家庭财务困境，指出胡健中等人早已说过相关原因；最后批评曹圣芬把陈布雷之死说成对“一般自私自利、背叛领袖的党员”的尸谏，认为这连尸谏对象都说错。",
+    "source": {
+      "book": "蒋介石研究四集",
+      "chapter": "012.蒋介石与陈布雷之一.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/019.蒋介石研究四集/012.蒋介石与陈布雷之一.txt",
+      "line": 127,
+      "lines": [
+        127,
+        137,
+        147
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "蒋介石研究四集",
+        "chapter": "013.蒋介石与陈布雷之二.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/019.蒋介石研究四集/013.蒋介石与陈布雷之二.txt",
+        "line": 7,
+        "lines": [
+          7,
+          17,
+          23,
+          55,
+          61,
+          63
+        ],
+        "note": "补入蒋君章、陶永标、胡健中关于和谈、金圆券和陈布雷死因的相互冲突说法。"
+      },
+      {
+        "book": "蒋介石研究四集",
+        "chapter": "014.蒋介石与陈布雷之三.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/019.蒋介石研究四集/014.蒋介石与陈布雷之三.txt",
+        "line": 5,
+        "lines": [
+          5,
+          17,
+          19,
+          21,
+          23
+        ],
+        "note": "补入曹圣芬《怀恩感旧录》中“尸谏党员”说及李敖反驳。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "蒋介石",
+      "陈布雷",
+      "陶永标",
+      "蒋君章",
+      "胡健中",
+      "曹圣芬",
+      "张道藩",
+      "金省吾"
+    ],
+    "places": [
+      "台湾",
+      "南京",
+      "重庆"
+    ],
+    "works": [
+      "蒋介石研究四集",
+      "七十年代",
+      "“尸谏”——蒋介石秘书陈布雷自杀经过",
+      "传记文学",
+      "陈布雷先生在胜利还都后的工作与生活",
+      "怀恩感旧录",
+      "陈布雷回忆录"
+    ],
+    "tags": [
+      "陈布雷",
+      "尸谏",
+      "和谈",
+      "金圆券",
+      "蒋君章",
+      "陶永标"
+    ],
+    "view": [
+      "史料线",
+      "人物线",
+      "政治线"
+    ],
+    "crossReferences": [
+      "jiangjieshi-yanjiu-1984-11-07-to-1986-06-13-writes-on-chiang-party-power-and-propaganda"
+    ]
+  }
+]

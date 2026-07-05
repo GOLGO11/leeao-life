@@ -1,0 +1,101 @@
+[
+  {
+    "id": "jiangjieshi-pingzhuan-1994-03-to-1995-03-12-coauthors-critical-biography",
+    "date": "1994-03-01",
+    "displayDate": "1994年3月至1995年3月12日",
+    "datePrecision": "month-range",
+    "title": "李敖与汪荣祖合写《蒋介石评传》，从1994年3月动笔到1995年3月李敖定序",
+    "summary": "汪荣祖序交代，两人多年酝酿后于1994年3月动笔，9月已写成四十余万字初稿，1994至1995年交替之际又在台北金兰大厦夜以继日增补定稿。李敖序则说明正文由汪荣祖执笔，他主要配图、配史料，并计划另成补注、引用、参考书目及索引一册；他希望此书在蒋介石死后二十周年发表，作为盖棺后的论定。本条只收合写、定稿与序文定位，1995年4月4日发表旧锚另作补源。",
+    "view": [
+      "写作线",
+      "出版线",
+      "蒋介石研究线"
+    ],
+    "tags": [
+      "蒋介石评传",
+      "汪荣祖",
+      "合写",
+      "定稿",
+      "金兰大厦",
+      "蒋介石研究",
+      "评传"
+    ],
+    "people": [
+      "李敖",
+      "汪荣祖",
+      "陆善仪",
+      "张锦郎",
+      "刘显叔",
+      "吕佳真",
+      "蒋介石"
+    ],
+    "places": [
+      "台北",
+      "金兰大厦",
+      "弗吉尼亚州柏堡"
+    ],
+    "works": [
+      "蒋介石评传",
+      "蒋介石评传补注、引用与主要参考书目及索引",
+      "蒋介石研究",
+      "北京法源寺"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "蒋介石评传",
+      "chapter": "001.《蒋介石评传》序（汪荣祖）",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/023.蒋介石评传/001.《蒋介石评传》序（汪荣祖）.txt",
+      "line": 9,
+      "lines": [
+        9,
+        11,
+        13,
+        15,
+        17
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "蒋介石评传",
+        "chapter": "002.《蒋介石评传》序（李敖）",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/023.蒋介石评传/002.《蒋介石评传》序（李敖）.txt",
+        "line": 17,
+        "lines": [
+          17,
+          19,
+          21,
+          23,
+          25,
+          27,
+          29,
+          31,
+          37,
+          39
+        ],
+        "note": "李敖序说明十年蒋介石专题研究、汪荣祖倡议合作、正文由汪执笔、李敖配图配史料、另拟补注索引册，并在1995年3月12日定序。"
+      },
+      {
+        "book": "蒋介石评传",
+        "chapter": "015.历史天平上的蒋介石（汪荣祖）",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/023.蒋介石评传/015.历史天平上的蒋介石（汪荣祖）.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          31,
+          33
+        ],
+        "note": "全书末篇概括本书以历史天平呈现蒋介石真面目，并以逝世二十周年论定其一生。"
+      }
+    ],
+    "crossReferences": [
+      "book4-1995-04-04-donates-to-zhang-xiaoci-and-launches-chiang-book",
+      "li-ao-laidianji-1995-05-11-wang-rongzu-li-ao-rebut-asiaweek-chiang-biography-review",
+      "li-ao-youhua-shuo-058-says-he-and-wang-rongzu-searched-for-chiang-merits-in-biography",
+      "li-ao-youhua-shuo-215-explains-chiang-biography-method-as-subjective-hatred-objective-evidence",
+      "li-ao-youhua-shuo-329-says-chiang-kai-shek-biography-with-wang-rongzu-was-built-so-future-files-confirm-not-overturn",
+      "li-ao-youhua-shuo-449-recalls-writing-chiang-biography-with-wang-rongzu-fairness-rule"
+    ],
+    "round": "jiangjieshi-pingzhuan-round001-closeout"
+  }
+]

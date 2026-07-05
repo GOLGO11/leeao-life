@@ -1,0 +1,496 @@
+[
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "chenshuibian-zhenmianmu-round001-closeout",
+    "id": "chenshuibian-zhenmianmu-1991-03-13-to-03-14-writes-legislative-decorum-critiques",
+    "date": "1991-03-13",
+    "year": 1991,
+    "month": 3,
+    "day": 13,
+    "displayDate": "1991年3月13日至3月14日",
+    "datePrecision": "date-range",
+    "title": "李敖连写两文批评陈水扁撕毁国建计划及学者护航",
+    "summary": "陈水扁在立法院质询时将国家六年计划草案写上“退票”并撕毁掷向郝柏村后，李敖在3月13日写《陈水扁就会这样！》，批其违反民主议会规格；次日又写《学者不可曲学阿世阿“阿扁”》，把争点转为目的与手段，要求“朋友陈水扁”不要以破坏制度来追求制度。",
+    "source": {
+      "book": "陈水扁的真面目",
+      "chapter": "012.陈水扁就会这样！.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/009.陈水扁的真面目/012.陈水扁就会这样！.txt",
+      "line": 31,
+      "lines": [
+        3,
+        7,
+        29,
+        31
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "陈水扁的真面目",
+        "chapter": "013.学者不可曲学阿世阿“阿扁”.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/009.陈水扁的真面目/013.学者不可曲学阿世阿“阿扁”.txt",
+        "line": 35,
+        "lines": [
+          3,
+          7,
+          9,
+          33,
+          35
+        ],
+        "note": "补出李敖隔日针对学者护航陈水扁撕书事件的目的与手段论。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "陈水扁",
+      "郝柏村",
+      "瞿海源",
+      "张忠栋",
+      "林玉体"
+    ],
+    "places": [
+      "台北"
+    ],
+    "works": [
+      "陈水扁的真面目",
+      "陈水扁就会这样！",
+      "学者不可曲学阿世阿“阿扁”"
+    ],
+    "tags": [
+      "陈水扁的真面目",
+      "立法院",
+      "国建计划",
+      "议会风度",
+      "目的与手段"
+    ],
+    "view": [
+      "政治线",
+      "写作线",
+      "人物研究线"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "chenshuibian-zhenmianmu-round001-closeout",
+    "id": "chenshuibian-zhenmianmu-2000-02-17-to-02-18-writes-debate-nobility-and-free-times-betrayal",
+    "date": "2000-02-17",
+    "year": 2000,
+    "month": 2,
+    "day": 17,
+    "displayDate": "2000年2月17日至2月18日",
+    "datePrecision": "date-range",
+    "title": "李敖连写短文，批评陈水扁辩论会姿态和“争取100%自由”转向",
+    "summary": "在总统选举辩论会与陈水扁宣传《自由时报》的语境中，李敖2月17日写《民主政治不能贵族》，批连战、陈水扁等候选人以贵族心态避开同台辩论；2月18日写《陈水扁太可耻了！》，回忆自己党外时代出钱办刊、总监杂志、以“争取100%自由”为指标，再批陈水扁把当年理想转去替财阀报纸背书。",
+    "source": {
+      "book": "陈水扁的真面目",
+      "chapter": "021.民主政治不能贵族.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/009.陈水扁的真面目/021.民主政治不能贵族.txt",
+      "line": 13,
+      "lines": [
+        3,
+        5,
+        7,
+        11,
+        13
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "陈水扁的真面目",
+        "chapter": "022.陈水扁太可耻了！.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/009.陈水扁的真面目/022.陈水扁太可耻了！.txt",
+        "line": 11,
+        "lines": [
+          3,
+          5,
+          7,
+          9,
+          11
+        ],
+        "note": "补出李敖把党外杂志争取百分百自由口号与陈水扁推荐《自由时报》传单相对照。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "陈水扁",
+      "连战",
+      "郑南榕",
+      "叶菊兰"
+    ],
+    "places": [
+      "台湾",
+      "台北"
+    ],
+    "works": [
+      "陈水扁的真面目",
+      "民主政治不能贵族",
+      "陈水扁太可耻了！",
+      "自由时报"
+    ],
+    "tags": [
+      "陈水扁的真面目",
+      "总统选举",
+      "辩论会",
+      "党外杂志",
+      "言论自由"
+    ],
+    "view": [
+      "政治线",
+      "写作线",
+      "媒体线"
+    ],
+    "crossReferences": [
+      "zhengnanrong-yanjiu-1989-03-08-to-03-19-writes-free-speech-first-and-different-endpoints",
+      "tiaozhan-li-ao-2000-01-21-criticizes-lien-chen-white-papers-and-soong-vagueness"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "chenshuibian-zhenmianmu-round001-closeout",
+    "id": "chenshuibian-zhenmianmu-2000-02-19-to-02-22-li-qingyuan-rushes-coauthored-book",
+    "date": "2000-02-19",
+    "year": 2000,
+    "month": 2,
+    "day": 19,
+    "displayDate": "2000年2月19日至2月22日",
+    "datePrecision": "date-range",
+    "title": "李敖邀李庆元三天合出《陈水扁的真面目》",
+    "summary": "李庆元前言回忆，距2000年总统大选投票日二十八天时，他到李敖台北东丰街秘密书房录制真相新闻网节目，谈陈水扁的真面目。录完后李敖临时提议合出一本陈水扁书，并要求李庆元三天内完稿；李庆元随后熬夜修订《长鼻子阿扁》并增加新篇幅，形成书中财产、股票、违建、野心等资料篇。",
+    "source": {
+      "book": "陈水扁的真面目",
+      "chapter": "《陈水扁的真面目》前言（李庆元）.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/009.陈水扁的真面目/《陈水扁的真面目》前言（李庆元）.txt",
+      "line": 9,
+      "lines": [
+        7,
+        9,
+        11,
+        13
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "陈水扁的真面目",
+        "chapter": "001.亿万富豪陈水扁（李庆元）.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/009.陈水扁的真面目/001.亿万富豪陈水扁（李庆元）.txt",
+        "line": 17,
+        "lines": [
+          13,
+          15,
+          17,
+          21,
+          65
+        ],
+        "note": "补出李庆元资料篇以陈水扁参选总统申报财产及家族资产估算为核心。"
+      },
+      {
+        "book": "陈水扁的真面目",
+        "chapter": "003.他的股票（李庆元）.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/009.陈水扁的真面目/003.他的股票（李庆元）.txt",
+        "line": 27,
+        "lines": [
+          21,
+          23,
+          25,
+          27,
+          31
+        ],
+        "note": "补出李庆元围绕吴淑珍股票与陈致中南亚科技持股整理的资料线索。"
+      },
+      {
+        "book": "陈水扁的真面目",
+        "chapter": "011.他的变（李庆元）.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/009.陈水扁的真面目/011.他的变（李庆元）.txt",
+        "line": 123,
+        "lines": [
+          9,
+          25,
+          35,
+          65,
+          123
+        ],
+        "note": "补出资料篇末以陈水扁市长任内与总统选前说法变化作收束。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "李庆元",
+      "陈水扁",
+      "吴淑珍",
+      "陈致中"
+    ],
+    "places": [
+      "台北",
+      "东丰街"
+    ],
+    "works": [
+      "陈水扁的真面目",
+      "长鼻子阿扁",
+      "挑战李敖"
+    ],
+    "tags": [
+      "陈水扁的真面目",
+      "成书",
+      "真相新闻网",
+      "李庆元",
+      "财产申报"
+    ],
+    "view": [
+      "写作线",
+      "政治线",
+      "媒体线"
+    ],
+    "crossReferences": [
+      "tiaozhan-li-ao-2000-02-21-broadcasts-is-chen-shuibian-clean-with-li-qingyuan",
+      "tiaozhan-li-ao-2000-02-21-introduces-li-qingyuan-long-nose-aben-and-new-book",
+      "tiaozhan-li-ao-2000-02-21-promotes-coauthored-true-face-of-chen-shuibian",
+      "li-ao-songdianji-2000-02-25-writes-true-face-of-chen-shuibian-preface-with-li-qingyuan"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "chenshuibian-zhenmianmu-round001-closeout",
+    "id": "chenshuibian-zhenmianmu-2000-02-21-to-03-01-revisits-taiwan-son-penglai-island-bravery",
+    "date": "2000-02-21",
+    "year": 2000,
+    "month": 2,
+    "day": 21,
+    "displayDate": "2000年2月21日至3月1日",
+    "datePrecision": "date-range",
+    "title": "李敖连续追打《台湾之子》政治犯叙事并重翻蓬莱岛案",
+    "summary": "李敖在2月21日《吕秀莲被逼供了吗？》中从陈水扁政见发表会的美丽岛叙事切入；2月22日《“台湾之子”又来骗我们了！》中核对《台湾之子》所称拒绝上诉与实际服刑八个月的矛盾，并附录1985年围绕蓬莱岛案上诉的讨论；3月1日《陈水扁勇敢吗？》再回忆入狱前夜他与许荣淑到陈水扁家劝其宣布组党的失败。",
+    "source": {
+      "book": "陈水扁的真面目",
+      "chapter": "023.吕秀莲被逼供了吗？.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/009.陈水扁的真面目/023.吕秀莲被逼供了吗？.txt",
+      "line": 9,
+      "lines": [
+        3,
+        5,
+        7,
+        9
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "陈水扁的真面目",
+        "chapter": "024.“台湾之子”又来骗我们了！.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/009.陈水扁的真面目/024.“台湾之子”又来骗我们了！.txt",
+        "line": 15,
+        "lines": [
+          3,
+          5,
+          7,
+          9,
+          11,
+          15,
+          129,
+          139,
+          163,
+          239
+        ],
+        "note": "补出李敖以《台湾之子》页码、吴淑珍上诉、谢长廷/苏贞昌等律师和1985旧文重建蓬莱岛案争议。"
+      },
+      {
+        "book": "陈水扁的真面目",
+        "chapter": "030.陈水扁勇敢吗？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/009.陈水扁的真面目/030.陈水扁勇敢吗？.txt",
+        "line": 11,
+        "lines": [
+          5,
+          7,
+          9,
+          11
+        ],
+        "note": "补出李敖把《台湾之子》的拒绝上诉说法与入狱前夜组党未成旧事并置。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "陈水扁",
+      "吕秀莲",
+      "吴淑珍",
+      "谢长廷",
+      "苏贞昌",
+      "许荣淑"
+    ],
+    "places": [
+      "台湾",
+      "台北"
+    ],
+    "works": [
+      "陈水扁的真面目",
+      "台湾之子",
+      "吕秀莲被逼供了吗？",
+      "“台湾之子”又来骗我们了！",
+      "陈水扁勇敢吗？"
+    ],
+    "tags": [
+      "陈水扁的真面目",
+      "台湾之子",
+      "蓬莱岛案",
+      "美丽岛案",
+      "组党"
+    ],
+    "view": [
+      "政治线",
+      "写作线",
+      "回忆线"
+    ],
+    "crossReferences": [
+      "li-ao-songdianji-2000-02-21-writes-lu-hsiulien-forced-confession-rebuttal",
+      "tiaozhan-li-ao-2000-02-17-shows-chen-shuibian-taiwan-son-photo-book",
+      "tiaozhan-li-ao-2000-01-20-defends-feng-on-penglaidao-and-chen-appeal",
+      "tiaozhan-li-ao-1999-11-10-recalls-before-chen-shuibian-prison-party-proposal",
+      "li-ao-fangdianji-013-reprints-chen-shuibian-1985-letter-after-fifty-retreat-declaration"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "chenshuibian-zhenmianmu-round001-closeout",
+    "id": "chenshuibian-zhenmianmu-2000-02-23-writes-late-plagiarism-one-way-direct-flight",
+    "date": "2000-02-23",
+    "year": 2000,
+    "month": 2,
+    "day": 23,
+    "displayDate": "2000年2月23日",
+    "datePrecision": "day",
+    "title": "李敖写《陈水扁迟来的抄袭》，追溯“单向直航”政见来源",
+    "summary": "李敖写《陈水扁迟来的抄袭》，从陈水扁1999年11月15日中国政策白皮书中的“单向直航、利益共享”谈起，翻出1993年5月18日李庆华与江泽民两小时谈话后公布的十点共识，指出陈水扁把李庆华早年争得的直航条件迟到地改成选举话术。",
+    "source": {
+      "book": "陈水扁的真面目",
+      "chapter": "025.陈水扁迟来的抄袭.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/009.陈水扁的真面目/025.陈水扁迟来的抄袭.txt",
+      "line": 13,
+      "lines": [
+        3,
+        7,
+        9,
+        11,
+        13
+      ]
+    },
+    "people": [
+      "李敖",
+      "陈水扁",
+      "李庆华",
+      "江泽民"
+    ],
+    "places": [
+      "台湾",
+      "大陆"
+    ],
+    "works": [
+      "陈水扁的真面目",
+      "陈水扁迟来的抄袭"
+    ],
+    "tags": [
+      "陈水扁的真面目",
+      "单向直航",
+      "两岸政策",
+      "政见抄袭",
+      "总统选举"
+    ],
+    "view": [
+      "政治线",
+      "写作线",
+      "两岸线"
+    ],
+    "crossReferences": [
+      "li-ao-fangdianji-004-mocks-chen-shuibian-one-way-direct-flight-as-election-stunt",
+      "li-ao-fangdianji-010-says-chen-shuibian-mainland-policy-copies-kmt-seven-years-ago",
+      "li-ao-yanjiangji-030-says-chen-copied-li-chinghua-direct-link-policy",
+      "tiaozhan-li-ao-2000-02-29-criticizes-chen-one-way-direct-flights-as-stolen-and-too-late"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "chenshuibian-zhenmianmu-round001-closeout",
+    "id": "chenshuibian-zhenmianmu-2000-02-24-to-02-25-writes-two-228-articles-against-chen",
+    "date": "2000-02-24",
+    "year": 2000,
+    "month": 2,
+    "day": 24,
+    "displayDate": "2000年2月24日至2月25日",
+    "datePrecision": "date-range",
+    "title": "李敖连写《陈水扁挑二二八》《陈水扁公正吗？》",
+    "summary": "在二二八纪念日前夕，李敖2月24日写《陈水扁挑二二八》，批陈水扁上任台北市长后改新公园为二二八和平公园、设纪念碑和纪念馆，认为其将悲情具体化为族群操纵；2月25日又写《陈水扁公正吗？》，把陈水扁的二二八论述接到李登辉指示的《“二二八事件”研究报告》，批其选择性叙事。",
+    "source": {
+      "book": "陈水扁的真面目",
+      "chapter": "026.陈水扁挑二二八.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/009.陈水扁的真面目/026.陈水扁挑二二八.txt",
+      "line": 9,
+      "lines": [
+        3,
+        5,
+        7,
+        9
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "陈水扁的真面目",
+        "chapter": "027.陈水扁公正吗？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/009.陈水扁的真面目/027.陈水扁公正吗？.txt",
+        "line": 11,
+        "lines": [
+          5,
+          7,
+          9,
+          11
+        ],
+        "note": "补出李敖把陈水扁二二八纪念政治与李登辉指示的二二八研究报告并置批判。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "陈水扁",
+      "李登辉",
+      "陈仪"
+    ],
+    "places": [
+      "台北",
+      "台湾"
+    ],
+    "works": [
+      "陈水扁的真面目",
+      "陈水扁挑二二八",
+      "陈水扁公正吗？",
+      "“二二八事件”研究报告"
+    ],
+    "tags": [
+      "陈水扁的真面目",
+      "二二八",
+      "二二八和平公园",
+      "历史叙事",
+      "总统选举"
+    ],
+    "view": [
+      "政治线",
+      "写作线",
+      "历史线"
+    ],
+    "crossReferences": [
+      "li-ao-fadianji-008-attacks-228-park-museum-as-one-sided-self-praise",
+      "lidenghui-jiamianju-1992-03-18-writes-critique-of-228-research-report",
+      "li-ao-shuxuji-xuji-1989-02-27-to-28-launches-228-research-three-books"
+    ]
+  }
+]

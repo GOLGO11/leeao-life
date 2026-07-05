@@ -1,0 +1,1030 @@
+[
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "additionalSources": [],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "chouloude-zhongguoren-yanjiu-round001-closeout",
+    "id": "chouloude-zhongguoren-yanjiu-1983-09-16-to-09-17-writes-qian-siliang-hu-wife-records",
+    "date": "1983-09-16",
+    "year": 1983,
+    "month": 9,
+    "day": 16,
+    "displayDate": "1983年9月16日夜至17日晨",
+    "datePrecision": "date-range",
+    "title": "李敖借江冬秀旧录追写钱思亮夫妇对胡家的忘恩负义",
+    "summary": "钱思亮去世后，李敖连夜写成《从胡老太秘录看钱大头忘恩负义》。他从胡适与江冬秀婚姻、钱思亮夫妇以干亲关系受胡适提携讲起，摘录江冬秀对胡适死后搬家、封后门、护士纠纷等回忆，反证钱思亮所谓未虐待胡老太的说法经不起查证；文末又补入1966年给钱思亮的旧信，追究台大在胡秋原案中提供伪证。本条合并胡老太旧录、胡适身后钱家关系和李敖旧信三层材料，不把江冬秀回忆中的每个细节拆成事件。",
+    "source": {
+      "book": "丑陋的中国人研究",
+      "chapter": "005.从胡老太秘录看钱大头忘恩负义.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/013.丑陋的中国人研究/005.从胡老太秘录看钱大头忘恩负义.txt",
+      "line": 93,
+      "lines": [
+        3,
+        7,
+        13,
+        63,
+        81,
+        87,
+        91,
+        93,
+        95,
+        125,
+        135
+      ]
+    },
+    "people": [
+      "李敖",
+      "胡适",
+      "江冬秀",
+      "钱思亮",
+      "张婉度",
+      "蒋经国",
+      "胡秋原"
+    ],
+    "places": [
+      "台北",
+      "福州街",
+      "南港",
+      "台湾"
+    ],
+    "works": [
+      "丑陋的中国人研究",
+      "从胡老太秘录看钱大头忘恩负义",
+      "胡适评传",
+      "国闻周报"
+    ],
+    "tags": [
+      "丑陋的中国人研究",
+      "第一轮",
+      "第005章",
+      "胡适",
+      "江冬秀",
+      "钱思亮",
+      "台大伪证",
+      "忘恩负义"
+    ],
+    "view": [
+      "写作线",
+      "人物研究线",
+      "胡适线",
+      "司法线"
+    ],
+    "crossReferences": [
+      "hushi-pingzhuan-1958-04-meets-hu-shih-at-qian-siliang-home-and-has-biography-intent",
+      "daxue-houqi-yi-1963-04-05-ntu-replies-hu-qiuyuan-about-guowen-zhoubao-and-li-ao-borrowing-records",
+      "daxue-houqi-yi-1966-open-letter-to-qian-siliang-about-ntu-false-evidence-and-summoning-him-to-court",
+      "li-ao-shuzhaji-1983-09-16-17-secretly-writes-yang-zujun-on-qian-siliang-death-and-qian-guowei"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "chouloude-zhongguoren-yanjiu-round001-closeout",
+    "id": "chouloude-zhongguoren-yanjiu-1984-01-09-to-04-14-investigates-koo-chenfu-lugang-debt-and-kinship-myth",
+    "date": "1984-01-09",
+    "year": 1984,
+    "month": 1,
+    "day": 9,
+    "displayDate": "1984年1月9日至4月14日",
+    "datePrecision": "date-range",
+    "title": "李敖追查辜振甫鹿港债务案，并拆穿辜家攀附辜鸿铭神话",
+    "summary": "林永智1月9日来信，请李敖注意辜伟甫遗嘱未执行、鹿港债权人与职员受害的内幕；李敖请黄怡整理秘密资料并访问林永智，写成《辜振甫忘恩负义了吗？》，把1982至1983年的遗嘱、债权登记、法院裁定、林坤元上书和辜振甫7月14日回信串成一条证据链，指出辜振甫推卸遗嘱执行人责任。4月14日，他又在《从认贼到被贼认》中拆穿《中国时报》把辜鸿铭说成辜振甫伯父的错误，连同辜显荣家世一起批评辜家的文化包装。本条把鹿港债务调查和辜家认亲叙事合并处理，不另拆辜伟甫遗产的每个诉讼节点。",
+    "source": {
+      "book": "丑陋的中国人研究",
+      "chapter": "006.辜振甫忘恩负义了吗？.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/013.丑陋的中国人研究/006.辜振甫忘恩负义了吗？.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        53,
+        61,
+        65,
+        75,
+        79,
+        97,
+        135,
+        155,
+        157,
+        159
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "丑陋的中国人研究",
+        "chapter": "004.从认贼到被贼认.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/013.丑陋的中国人研究/004.从认贼到被贼认.txt",
+        "line": 23,
+        "lines": [
+          3,
+          11,
+          13,
+          15,
+          21,
+          23
+        ],
+        "note": "补入4月14日对《中国时报》辜振甫家世叙事的拆穿。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "辜振甫",
+      "辜伟甫",
+      "林永智",
+      "黄怡",
+      "林坤元",
+      "谢长廷",
+      "辜显荣",
+      "辜鸿铭",
+      "余纪忠"
+    ],
+    "places": [
+      "台北",
+      "鹿港",
+      "彰化",
+      "华府"
+    ],
+    "works": [
+      "丑陋的中国人研究",
+      "辜振甫忘恩负义了吗？",
+      "从认贼到被贼认",
+      "中国时报"
+    ],
+    "tags": [
+      "丑陋的中国人研究",
+      "第一轮",
+      "第004至006章",
+      "辜振甫",
+      "鹿港",
+      "遗嘱",
+      "债务",
+      "辜鸿铭",
+      "不拆太碎"
+    ],
+    "view": [
+      "写作线",
+      "人物研究线",
+      "财团线",
+      "媒体线"
+    ],
+    "crossReferences": [
+      "book4-1979-03-26-questions-china-synthetic-rubber-as-shareholder",
+      "book4-1979-04-12-writes-china-trust-demand-letter",
+      "li-ao-shujianji-letterpaper-1986-04-14-night-replies-lin-yongzhi-returning-twenty-thousand-on-ku-debt",
+      "shilun-xinyu-1989-09-03-ku-chen-fu-charity-money",
+      "li-ao-youhua-shuo-219-recounts-rongxing-garden-debt-and-sell-five-percent-to-li-ao-strategy"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "chouloude-zhongguoren-yanjiu-round001-closeout",
+    "id": "chouloude-zhongguoren-yanjiu-1984-02-02-to-04-06-organizes-baiyang-rescue-record-and-witnesses",
+    "date": "1984-02-02",
+    "year": 1984,
+    "month": 2,
+    "day": 2,
+    "displayDate": "1984年2月2日至4月6日",
+    "datePrecision": "date-range",
+    "title": "李敖整理义助柏杨材料，征求屠申虹佐证并回应《政治家》乡愿态度",
+    "summary": "李敖2月2日至4日写定《柏杨忘恩负义了吗？》，回述自己自1968年柏杨案以来的奔走、孙观汉公开旧秘件以及柏杨出狱后的感恩对象失衡；2月5日又写《义助柏杨的外一章》，补出艾玫四封求援信、9月5日看柏杨答辩书、9月7日请司马桑敦协查的细节。2月13日，他把三篇材料影印给屠申虹，请这位关系人写读后感并重誊当年“身后事”；4月6日，他复邓维贤，说明维护李敖还不够，必须同时点破柏杨忘恩负义。本条聚合1984年同一轮旧案材料整理、关系人佐证和党外刊物回应，旧案逐日奔走只挂旧锚。",
+    "source": {
+      "book": "丑陋的中国人研究",
+      "chapter": "007.柏杨忘恩负义了吗？.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/013.丑陋的中国人研究/007.柏杨忘恩负义了吗？.txt",
+      "line": 373,
+      "lines": [
+        5,
+        13,
+        63,
+        65,
+        335,
+        355,
+        369,
+        373
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "丑陋的中国人研究",
+        "chapter": "008.义助柏杨的外一章.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/013.丑陋的中国人研究/008.义助柏杨的外一章.txt",
+        "line": 211,
+        "lines": [
+          3,
+          5,
+          13,
+          21,
+          83,
+          95,
+          111,
+          115,
+          145,
+          199,
+          205,
+          207,
+          211
+        ],
+        "note": "补入艾玫、司马桑敦和李敖狱中旧账的材料。"
+      },
+      {
+        "book": "丑陋的中国人研究",
+        "chapter": "011.怎样摸公羊.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/013.丑陋的中国人研究/011.怎样摸公羊.txt",
+        "line": 33,
+        "lines": [
+          5,
+          7,
+          33,
+          45,
+          55,
+          59
+        ],
+        "note": "补入李敖把三篇文章交屠申虹阅看并请其以关系人身份作证。"
+      },
+      {
+        "book": "丑陋的中国人研究",
+        "chapter": "014.你不能只做一半.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/013.丑陋的中国人研究/014.你不能只做一半.txt",
+        "line": 79,
+        "lines": [
+          35,
+          49,
+          53,
+          77,
+          79,
+          81
+        ],
+        "note": "补入李敖复邓维贤，反对《政治家》对柏杨问题只做一半。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "柏杨",
+      "孙观汉",
+      "艾玫",
+      "倪明华",
+      "屠申虹",
+      "邓维贤",
+      "司马桑敦",
+      "王光逖",
+      "梅心怡"
+    ],
+    "places": [
+      "台北",
+      "泰顺街",
+      "日本",
+      "美国"
+    ],
+    "works": [
+      "丑陋的中国人研究",
+      "柏杨忘恩负义了吗？",
+      "义助柏杨的外一章",
+      "给孙观汉先生的公开信",
+      "怎样摸公羊",
+      "你不能只做一半",
+      "政治家"
+    ],
+    "tags": [
+      "丑陋的中国人研究",
+      "第一轮",
+      "第007至014章",
+      "柏杨",
+      "孙观汉",
+      "屠申虹",
+      "艾玫",
+      "邓维贤",
+      "义助柏杨",
+      "不重复旧案"
+    ],
+    "view": [
+      "写作线",
+      "人物研究线",
+      "司法线",
+      "书信线",
+      "媒体线"
+    ],
+    "crossReferences": [
+      "book5-1968-02-29-bai-yang-calls-li-about-questioning",
+      "book5-1968-03-02-li-helps-bai-yang-after-release",
+      "book5-1968-03-28-secret-letter-to-sun-kuanhan-for-bai-yang",
+      "book5-1969-07-03-nyt-reports-bai-yang-through-overseas-channel",
+      "book5-1969-09-05-ai-mei-shows-bai-yang-defense-to-li",
+      "book5-1969-09-07-letter-to-sima-sangdun-for-bai-yang-case",
+      "book5-1971-07-17-new-republic-reports-bai-yang-case",
+      "book5-1972-02-29-bai-yang-issues-library-card-for-li",
+      "book5-1973-06-sun-publishes-li-on-bai-yang-wrongful-imprisonment",
+      "book5-1984-02-03-open-letter-to-sun-kuanhan-about-bai-yang",
+      "book5-1984-04-10-sun-kuanhan-jiangxianghe-published"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "chouloude-zhongguoren-yanjiu-round001-closeout",
+    "id": "chouloude-zhongguoren-yanjiu-1984-07-04-to-1985-08-09-critiques-baiyang-lincoln-history-and-enmity-psychology",
+    "date": "1984-07-04",
+    "year": 1984,
+    "month": 7,
+    "day": 4,
+    "displayDate": "1984年7月4日至1985年8月9日",
+    "datePrecision": "date-range",
+    "title": "李敖从林肯史实与恩仇心理两面扩展柏杨批评",
+    "summary": "7月4日，李敖写《为何而战？》，针对柏杨在美国文学座谈会上把林肯说成早年立志解放黑奴，长引霍夫斯塔特等材料，说明林肯对黑奴和南北战争的态度远比柏杨所说复杂。1985年8月9日，他又复邓维桢《恩仇心理学》，从李勉旧案、宗荣禄回忆和“恩多不报”谈到受恩者恐惧恩人、以毁灭恩人逃避负担的心理。本条合并为同一阶段对柏杨历史判断与忘恩心理的深化，不把美国史考证和心理学短札拆成孤立碎片。",
+    "source": {
+      "book": "丑陋的中国人研究",
+      "chapter": "019.为何而战？.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/013.丑陋的中国人研究/019.为何而战？.txt",
+      "line": 107,
+      "lines": [
+        3,
+        5,
+        7,
+        51,
+        55,
+        91,
+        95,
+        105,
+        107
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "丑陋的中国人研究",
+        "chapter": "020.恩仇心理学.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/013.丑陋的中国人研究/020.恩仇心理学.txt",
+        "line": 21,
+        "lines": [
+          7,
+          9,
+          13,
+          15,
+          17,
+          21
+        ],
+        "note": "补入李敖复邓维桢时对忘恩心理的概念化。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "柏杨",
+      "林肯",
+      "邓维桢",
+      "马克思",
+      "恩格斯",
+      "宗荣禄",
+      "颜锦福"
+    ],
+    "places": [
+      "台北",
+      "美国",
+      "南加州"
+    ],
+    "works": [
+      "丑陋的中国人研究",
+      "为何而战？",
+      "恩仇心理学",
+      "柏杨·美国·酱缸",
+      "美国政治传统"
+    ],
+    "tags": [
+      "丑陋的中国人研究",
+      "第一轮",
+      "第019至020章",
+      "柏杨",
+      "林肯",
+      "恩仇心理",
+      "历史批评",
+      "不拆太碎"
+    ],
+    "view": [
+      "写作线",
+      "人物研究线",
+      "思想线",
+      "美国线"
+    ],
+    "crossReferences": [
+      "zhongguo-xing-yanjiu-1984-04-20-morning-writes-baiyang-simaqian-castration-critique",
+      "li-ao-youhua-shuo-325-uses-hemingway-pen-story-to-question-defense-ministry-fight-for-whom"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "chouloude-zhongguoren-yanjiu-round001-closeout",
+    "id": "chouloude-zhongguoren-yanjiu-1987-01-18-to-1988-05-06-critiques-chiang-father-son-political-psychology-and-tian-dan",
+    "date": "1987-01-18",
+    "year": 1987,
+    "month": 1,
+    "day": 18,
+    "displayDate": "1987年1月18日至1988年5月6日",
+    "datePrecision": "date-range",
+    "title": "李敖以“孺慕症”“田单症”批蒋氏父子的政治心理与典故错误",
+    "summary": "李敖在《蒋介石与孺慕症》中从1959年预官生活所见老兵“总统是家长”的强迫孺慕讲起，转引柏杨1968年答辩书和纪政1986年访问，批评对蒋介石、蒋经国的自动孺慕。1988年5月6日，他又写《蒋介石、蒋经国的“田单症”》，指出蒋氏父子把“毋忘在莒”误栽到田单复国，又在《田单复国》戏台前向田单祖坟鞠躬。本条合并两篇蒋氏父子政治心理与历史典故批评，不重复预官日记和柏杨案旧事实。",
+    "source": {
+      "book": "丑陋的中国人研究",
+      "chapter": "002.蒋介石与孺慕症.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/013.丑陋的中国人研究/002.蒋介石与孺慕症.txt",
+      "line": 29,
+      "lines": [
+        5,
+        7,
+        9,
+        13,
+        15,
+        19,
+        23,
+        27,
+        29
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "丑陋的中国人研究",
+        "chapter": "003.蒋介石、蒋经国的“田单症””.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/013.丑陋的中国人研究/003.蒋介石、蒋经国的“田单症””.txt",
+        "line": 17,
+        "lines": [
+          3,
+          5,
+          7,
+          9,
+          11,
+          15,
+          17
+        ],
+        "note": "补入蒋氏父子误解“毋忘在莒”与田单复国的典故批评。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "蒋介石",
+      "蒋经国",
+      "柏杨",
+      "纪政",
+      "曹健",
+      "钱璐",
+      "田单"
+    ],
+    "places": [
+      "台湾",
+      "凤山",
+      "金门"
+    ],
+    "works": [
+      "丑陋的中国人研究",
+      "蒋介石与孺慕症",
+      "蒋介石、蒋经国的“田单症”",
+      "军事教育的目的与宗旨",
+      "田单复国"
+    ],
+    "tags": [
+      "丑陋的中国人研究",
+      "第一轮",
+      "第002至003章",
+      "蒋介石",
+      "蒋经国",
+      "孺慕症",
+      "田单症",
+      "毋忘在莒"
+    ],
+    "view": [
+      "写作线",
+      "人物研究线",
+      "政治线",
+      "军旅线"
+    ],
+    "crossReferences": [
+      "book4-1959-09-07-reserve-officer-training-begins",
+      "preofficer-diary-1959-09-07-arrives-fengshan-receives-uniform-haircut-and-sleepless-first-night",
+      "book5-1968-02-29-bai-yang-calls-li-about-questioning",
+      "book5-1969-09-05-ai-mei-shows-bai-yang-defense-to-li"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "chouloude-zhongguoren-yanjiu-round001-closeout",
+    "id": "chouloude-zhongguoren-yanjiu-1989-01-29-to-05-30-writes-mao-surrender-and-stockholm-syndrome-critiques",
+    "date": "1989-01-29",
+    "year": 1989,
+    "month": 1,
+    "day": 29,
+    "displayDate": "1989年1月29日至5月30日",
+    "datePrecision": "date-range",
+    "title": "李敖批柏杨把毛泽东重庆谈判说成投降，并提出“柏杨症候群”",
+    "summary": "1月29日，李敖接续前日对《毛泽东与武照》的批评，写《柏杨替毛泽东投降》，用蒋介石三次电邀、赫尔利赴延安、重庆九次交谈、共产党收复城市和毛泽东谈判条件等材料，反驳柏杨所谓毛泽东到重庆是向国民党投降。5月30日，他写《可耻的柏杨症候群》，从斯德哥尔摩症候群谈到柏杨、陈映真、王拓等政治犯在蒋经国死后向迫害者致敬的现象。本条只收当前书中新写的现代史与心理症候群批评；司马迁、慈禧、武则天等已有旧锚的同题短文不重复造事。",
+    "source": {
+      "book": "丑陋的中国人研究",
+      "chapter": "018.柏杨替毛泽东投降.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/013.丑陋的中国人研究/018.柏杨替毛泽东投降.txt",
+      "line": 17,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15,
+        17
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "丑陋的中国人研究",
+        "chapter": "021.可耻的柏杨症候群.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/013.丑陋的中国人研究/021.可耻的柏杨症候群.txt",
+        "line": 15,
+        "lines": [
+          3,
+          5,
+          7,
+          9,
+          11,
+          13,
+          15
+        ],
+        "note": "补入李敖以斯德哥尔摩症候群延伸出的“柏杨症候群”。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "柏杨",
+      "毛泽东",
+      "蒋介石",
+      "赫尔利",
+      "蒋经国",
+      "陈映真",
+      "王拓"
+    ],
+    "places": [
+      "台北",
+      "重庆",
+      "延安",
+      "瑞典"
+    ],
+    "works": [
+      "丑陋的中国人研究",
+      "柏杨替毛泽东投降",
+      "可耻的柏杨症候群",
+      "毛泽东与武照",
+      "中国时报",
+      "中央日报"
+    ],
+    "tags": [
+      "丑陋的中国人研究",
+      "第一轮",
+      "第018至021章",
+      "柏杨",
+      "毛泽东",
+      "重庆谈判",
+      "斯德哥尔摩症候群",
+      "蒋经国"
+    ],
+    "view": [
+      "写作线",
+      "人物研究线",
+      "政治线",
+      "现代史线"
+    ],
+    "crossReferences": [
+      "zhongguo-xing-yanjiu-1984-04-20-morning-writes-baiyang-simaqian-castration-critique",
+      "zhongguo-xing-yanjiu-1986-03-06-noon-writes-cixi-revenge-baiyang-history-critique",
+      "zhongguo-xing-yanjiu-1989-01-28-writes-baiyang-wu-zetian-incest-error-critique"
+    ]
+  },
+  {
+    "category": "publishing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "chouloude-zhongguoren-yanjiu-round001-closeout",
+    "id": "chouloude-zhongguoren-yanjiu-1989-04-26-to-08-15-frames-and-publishes-ugly-chinese-research",
+    "date": "1989-04-26",
+    "year": 1989,
+    "month": 4,
+    "day": 26,
+    "displayDate": "1989年4月26日至8月15日",
+    "datePrecision": "date-range",
+    "title": "李敖写《丑陋的中国人研究》导引，并由李敖出版社出版成书",
+    "summary": "4月26日，李敖写《丑陋的中国人研究》导引，先用庄子同异之说讨论民族性与国民性，再指出《丑陋的中国人》只看“三个臭皮匠”而不看“一个诸葛亮”，把中国人的丑陋以偏概全并卖向台湾、大陆、日本；他宣布出此研究一书，为拆穿《丑陋的中国人》而举证。8月15日，李敖出版社出版《丑陋的中国人研究》，书中收正编、外编和后续材料。本条作为全书成书与出版事件，外编作者文章只作为本书证据链，不另算李敖个人事件。",
+    "source": {
+      "book": "丑陋的中国人研究",
+      "chapter": "001.《丑陋的中国人研究》导引.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/013.丑陋的中国人研究/001.《丑陋的中国人研究》导引.txt",
+      "line": 19,
+      "lines": [
+        3,
+        7,
+        11,
+        13,
+        15,
+        17,
+        19
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "丑陋的中国人研究",
+        "chapter": "032.柏杨怎样暗中窜改文章？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/013.丑陋的中国人研究/032.柏杨怎样暗中窜改文章？.txt",
+        "line": 3,
+        "lines": [
+          3
+        ],
+        "note": "后续文中明记李敖出版社8月15日出版本书。"
+      },
+      {
+        "book": "丑陋的中国人研究",
+        "chapter": "031.《评丑陋的中国人》引起的风波（孙国栋）.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/013.丑陋的中国人研究/031.《评丑陋的中国人》引起的风波（孙国栋）.txt",
+        "line": 13,
+        "lines": [
+          5,
+          7,
+          13,
+          63
+        ],
+        "note": "外编文章作为本书收集的柏杨争议证据链。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "柏杨",
+      "汪子飏",
+      "孙国栋"
+    ],
+    "places": [
+      "台北",
+      "台湾",
+      "大陆",
+      "日本",
+      "香港",
+      "美国加州"
+    ],
+    "works": [
+      "丑陋的中国人研究",
+      "丑陋的中国人",
+      "谁是丑陋的中国人？",
+      "评丑陋的中国人",
+      "中国人，你受了什么诅咒"
+    ],
+    "tags": [
+      "丑陋的中国人研究",
+      "第一轮",
+      "第001章",
+      "外编",
+      "成书",
+      "李敖出版社",
+      "柏杨",
+      "国民性"
+    ],
+    "view": [
+      "出版线",
+      "写作线",
+      "人物研究线",
+      "思想线"
+    ],
+    "crossReferences": [
+      "qianqiu-bianwai-1985-01-05-dafeng-quotes-li-ao-party-aphorism",
+      "shilun-xinyu-1989-09-10-bowing-to-japanese-with-bare-bottom",
+      "li-ao-mimi-shufang-093-criticizes-bo-yang-and-shows-ugly-chinese-research-link",
+      "li-ao-youhua-shuo-370-compares-lu-xun-generalized-chinese-attacks-with-bo-yang"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "chouloude-zhongguoren-yanjiu-round001-closeout",
+    "id": "chouloude-zhongguoren-yanjiu-1989-09-17-to-09-19-receives-faxes-exposing-baiyang-deletions",
+    "date": "1989-09-17",
+    "year": 1989,
+    "month": 9,
+    "day": 17,
+    "displayDate": "1989年9月17日至19日",
+    "datePrecision": "date-range",
+    "title": "李敖出版社收到胡基峻电传，揭出柏杨删去江泐文中李敖名字",
+    "summary": "9月17日午后，李敖出版社收到署名T.N.W.的四张电传，对照柏杨《丑陋的中国人》所收江泐两文与洛杉矶《论坛报》原文，发现柏杨把“柏杨和李敖”“冒生命危险抨击暴政、争取言论自由的柏杨和李敖”中的李敖名字删去。9月19日，胡基峻来电说明T.N.W.就是他自己，江泐也是他的笔名，柏杨收入并窜改两篇文章从未告知作者。李敖据此把孙国栋所揭发的《光明日报》版面剪裁和江泐文删名并列，作为柏杨暗中窜改文章的后续证据。",
+    "source": {
+      "book": "丑陋的中国人研究",
+      "chapter": "032.柏杨怎样暗中窜改文章？.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/013.丑陋的中国人研究/032.柏杨怎样暗中窜改文章？.txt",
+      "line": 17,
+      "lines": [
+        3,
+        5,
+        9,
+        11,
+        13,
+        17
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "丑陋的中国人研究",
+        "chapter": "033.柏杨的卑鄙及其他.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/013.丑陋的中国人研究/033.柏杨的卑鄙及其他.txt",
+        "line": 13,
+        "lines": [
+          3,
+          7,
+          9,
+          13
+        ],
+        "note": "补入胡基峻来电确认T.N.W.和江泐身份。"
+      },
+      {
+        "book": "丑陋的中国人研究",
+        "chapter": "031.《评丑陋的中国人》引起的风波（孙国栋）.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/013.丑陋的中国人研究/031.《评丑陋的中国人》引起的风波（孙国栋）.txt",
+        "line": 13,
+        "lines": [
+          5,
+          7,
+          13
+        ],
+        "note": "补入孙国栋对柏杨处理《光明日报》转载文的揭发。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "柏杨",
+      "胡基峻",
+      "江泐",
+      "孙国栋",
+      "陈鼓应",
+      "王晓波"
+    ],
+    "places": [
+      "台北",
+      "洛杉矶",
+      "香港",
+      "北京"
+    ],
+    "works": [
+      "丑陋的中国人研究",
+      "柏杨怎样暗中窜改文章？",
+      "柏杨的卑鄙及其他",
+      "丑陋的中国人",
+      "丑陋的王亦令",
+      "王亦令越描越丑",
+      "中国人，你受了什么诅咒",
+      "论坛报",
+      "光明日报"
+    ],
+    "tags": [
+      "丑陋的中国人研究",
+      "第一轮",
+      "第031至033章",
+      "柏杨",
+      "胡基峻",
+      "江泐",
+      "孙国栋",
+      "删改文章",
+      "李敖出版社"
+    ],
+    "view": [
+      "写作线",
+      "出版线",
+      "人物研究线",
+      "媒体线"
+    ],
+    "crossReferences": [
+      "li-ao-dageda-096-shows-his-role-rescuing-bo-yang-and-exposes-deletions-in-ugly-chinaman-and-sun-guanhan-collection",
+      "li-ao-xiaoao-jianghu-1996-context-episode-027-ugliest-chinese-bo-yang-broadcast",
+      "li-ao-mimi-shufang-093-criticizes-bo-yang-and-shows-ugly-chinese-research-link"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "chouloude-zhongguoren-yanjiu-round001-closeout",
+    "id": "chouloude-zhongguoren-yanjiu-1990-01-02-to-1991-10-20-writes-three-tongjian-translation-critiques",
+    "date": "1990-01-02",
+    "year": 1990,
+    "month": 1,
+    "day": 2,
+    "displayDate": "1990年1月2日至1991年10月20日",
+    "datePrecision": "date-range",
+    "title": "李敖连续三篇批柏杨版《资治通鉴》的国文与历史误译",
+    "summary": "1990年1月2日，李敖以路温舒《尚德缓刑书》为例，指出柏杨误把“囚人不胜痛，则饰辞以视之”的主词和语义翻错。2月19日至20日，他又写《柏杨无知乱译〈资治通鉴〉》，用汉哀帝元寿二年匈奴单于来朝一段说明柏杨把“太岁”猜成地下凶神是望文生义。1991年10月20日，他再写《柏杨的国文历史程度不配翻译〈资治通鉴〉》，考“将无同！”与“将无归”的晋人口语，主张应译出“那就……吧”的语气。本条合并三篇《通鉴》误译批评，后续节目重述只作crossReferences。",
+    "source": {
+      "book": "丑陋的中国人研究",
+      "chapter": "034.柏杨国文程度不够.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/013.丑陋的中国人研究/034.柏杨国文程度不够.txt",
+      "line": 15,
+      "lines": [
+        3,
+        7,
+        9,
+        11,
+        13,
+        15
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "丑陋的中国人研究",
+        "chapter": "035柏杨无知乱译《资治通鉴》.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/013.丑陋的中国人研究/035柏杨无知乱译《资治通鉴》.txt",
+        "line": 25,
+        "lines": [
+          3,
+          7,
+          9,
+          15,
+          17,
+          23,
+          25
+        ],
+        "note": "补入太岁一词与汉哀帝元寿二年段落误译批评。"
+      },
+      {
+        "book": "丑陋的中国人研究",
+        "chapter": "036.柏杨的国文历史程度不配翻译《资治通鉴》.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/013.丑陋的中国人研究/036.柏杨的国文历史程度不配翻译《资治通鉴》.txt",
+        "line": 69,
+        "lines": [
+          3,
+          5,
+          9,
+          13,
+          23,
+          39,
+          49,
+          55,
+          67,
+          69
+        ],
+        "note": "补入“将无同”“将无归”的语义考证。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "柏杨",
+      "司马光",
+      "路温舒",
+      "汉哀帝",
+      "阮瞻",
+      "王戎",
+      "谢安"
+    ],
+    "places": [
+      "台北",
+      "中国"
+    ],
+    "works": [
+      "丑陋的中国人研究",
+      "柏杨国文程度不够",
+      "柏杨无知乱译《资治通鉴》",
+      "柏杨的国文历史程度不配翻译《资治通鉴》",
+      "资治通鉴",
+      "汉书",
+      "世说新语"
+    ],
+    "tags": [
+      "丑陋的中国人研究",
+      "第一轮",
+      "第034至036章",
+      "柏杨",
+      "资治通鉴",
+      "路温舒",
+      "太岁",
+      "将无同",
+      "翻译批评"
+    ],
+    "view": [
+      "写作线",
+      "人物研究线",
+      "读书线",
+      "历史线"
+    ],
+    "crossReferences": [
+      "li-ao-mimi-shufang-016-answers-why-bo-yang-zizhi-tongjian-is-not-worth-reading",
+      "li-ao-mimi-shufang-016-mocks-bo-yang-edition-as-loud-but-weak",
+      "li-ao-youhua-shuo-108-uses-boyang-and-ugly-chinese-study-to-discuss-jiangwutong",
+      "li-ao-youhua-shuo-121-criticizes-bo-yang-tongjian-and-translates-lu-wenshu",
+      "li-ao-youhua-shuo-598-reads-hanshu-lu-wenshu-and-explains-shici-yishizhi"
+    ]
+  },
+  {
+    "category": "correspondence",
+    "type": "李敖当事人事件",
+    "confidence": "medium",
+    "certainty": "confirmed",
+    "round": "chouloude-zhongguoren-yanjiu-round001-closeout",
+    "id": "chouloude-zhongguoren-yanjiu-1983-12-06-to-1999-03-26-adds-postscripts-on-wang-guangdi-letter",
+    "date": "1983-12-06",
+    "year": 1983,
+    "month": 12,
+    "day": 6,
+    "displayDate": "1983年12月6日至1999年3月26日",
+    "datePrecision": "date-range",
+    "title": "李敖为旧日致王光逖信加跋，并在王金仲达来信后再作辨析",
+    "summary": "李敖在1983年12月6日为1968年9月7日清晨致王光逖的旧信作跋，说明当年因义助柏杨，经艾玫之请写信请司马桑敦协查柏杨案中的东北线索，信未封口交倪明华寄出，却一直没有回音。王光逖遗孀王金仲达1985年7月20日来信，说明王光逖当年曾慎重考虑三四天，因担心东京找材料反而给柏杨添麻烦，选择“不行动的行动”。1999年3月26日，李敖再写跋，仍不接受这种沉默逻辑，并顺带补正四季出版社与《野马传》旧事。本条合并两篇后续跋文，作为义助柏杨旧案的通信余波，不再重造1968年求援信本身。",
+    "source": {
+      "book": "丑陋的中国人研究",
+      "chapter": "037.跋“李敖给王光逖的信”.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/013.丑陋的中国人研究/037.跋“李敖给王光逖的信”.txt",
+      "line": 37,
+      "lines": [
+        29,
+        31,
+        35,
+        37,
+        45,
+        51
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "丑陋的中国人研究",
+        "chapter": "038.跋“王金仲达给李敖的信”.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/013.丑陋的中国人研究/038.跋“王金仲达给李敖的信”.txt",
+        "line": 81,
+        "lines": [
+          9,
+          13,
+          19,
+          25,
+          27,
+          35,
+          39,
+          51,
+          57,
+          63,
+          67,
+          75,
+          77,
+          79,
+          81
+        ],
+        "note": "补入王金仲达1985年来信及李敖1999年再跋。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "王光逖",
+      "司马桑敦",
+      "王金仲达",
+      "柏杨",
+      "倪明华",
+      "艾玫",
+      "叶圣康",
+      "张香华"
+    ],
+    "places": [
+      "台北",
+      "东京",
+      "洛杉矶",
+      "美国"
+    ],
+    "works": [
+      "丑陋的中国人研究",
+      "跋“李敖给王光逖的信”",
+      "跋“王金仲达给李敖的信”",
+      "小事看台湾",
+      "野马传"
+    ],
+    "tags": [
+      "丑陋的中国人研究",
+      "第一轮",
+      "第037至038章",
+      "王光逖",
+      "王金仲达",
+      "柏杨",
+      "司马桑敦",
+      "后续跋文",
+      "义助柏杨"
+    ],
+    "view": [
+      "书信线",
+      "写作线",
+      "人物研究线",
+      "司法线"
+    ],
+    "crossReferences": [
+      "book5-1969-09-05-ai-mei-shows-bai-yang-defense-to-li",
+      "book5-1969-09-07-letter-to-sima-sangdun-for-bai-yang-case",
+      "book5-1971-07-17-new-republic-reports-bai-yang-case"
+    ]
+  }
+]

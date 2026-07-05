@@ -1,0 +1,750 @@
+[
+  {
+    "category": "writing",
+    "type": "李敖当事人事件",
+    "additionalSources": [],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "weiwenxue-kaichuang-round001-closeout",
+    "id": "weiwenxue-kaichuang-1964-06-responds-zhong-meiyin-laxative-letter",
+    "date": "1964-06",
+    "year": 1964,
+    "month": 6,
+    "displayDate": "1964年6月",
+    "datePrecision": "month",
+    "title": "李敖写声明回应钟梅音“泻药”批评",
+    "summary": "钟梅音因李敖为於梨华小说所写序文，致信萧孟能批评李敖“胡言乱语，得意忘形”，又以《给李敖的一帖泻药》发表于《文星》。李敖在《对所谓“女作家”送我所谓“泻药”的一个声明》中以戏谑口吻回击，称自己暂不宜服“泻药”，并把争议放回《文星》鼓励独立批评、作者不受“宠”“捧”的语境中。本条合并钟梅音来信、萧孟能回信与李敖声明，不再把同一篇杂志论战拆成多条。",
+    "source": {
+      "book": "为文学开窗",
+      "chapter": "006.对所谓“女作家”送我所谓“泻药”的一个声明.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/012.为文学开窗/006.对所谓“女作家”送我所谓“泻药”的一个声明.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        17,
+        21,
+        27,
+        43
+      ]
+    },
+    "people": [
+      "李敖",
+      "钟梅音",
+      "萧孟能",
+      "於梨华",
+      "沈刚伯",
+      "李济"
+    ],
+    "places": [
+      "台北",
+      "台湾"
+    ],
+    "works": [
+      "为文学开窗",
+      "对所谓“女作家”送我所谓“泻药”的一个声明",
+      "给李敖的一帖泻药",
+      "於梨华和她的小说",
+      "胡适评传"
+    ],
+    "tags": [
+      "为文学开窗",
+      "第一轮",
+      "第006章",
+      "文星",
+      "钟梅音",
+      "於梨华",
+      "文学论战"
+    ],
+    "view": [
+      "写作线",
+      "文学论战线",
+      "交游线"
+    ],
+    "crossReferences": [
+      "education-faces-1964-05-27-yu-lihua-written",
+      "education-faces-1964-06-01-yu-lihua-published",
+      "education-faces-1964-08-17-yu-lihua-postscript"
+    ]
+  },
+  {
+    "category": "literature",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "weiwenxue-kaichuang-round001-closeout",
+    "id": "weiwenxue-kaichuang-1965-07-01-to-1966-08-25-qiongyao-chuangwai-debate",
+    "date": "1965-07-01",
+    "year": 1965,
+    "month": 7,
+    "day": 1,
+    "displayDate": "1965年7月1日至1966年8月25日",
+    "datePrecision": "date-range",
+    "title": "李敖以《没有窗，哪有“窗外”？》掀起琼瑶《窗外》论战",
+    "summary": "李敖在高雄买下琼瑶《窗外》通宵读完，回台北写成《没有窗，哪有“窗外”？》，发表于《文星》第九十三期。他借王淑女命案与《窗外》的师生恋叙事，批评台湾文坛闭塞、软弱、媚世，主张作家应走出小世界，面对苦工、冤狱、三轮车夫、小雏妓等现实题材。文章发表后，《中华日报》《幼狮文艺》、琼瑶及琼瑶阵营围绕小说、电影与文学责任持续反击；李敖又在《开窗以后》《“花落谁家”与“头落谁家”》和两篇词句短札中补记反应、电影争议和《窗外》滥套词汇。本条把001至005章合并为一条《窗外》论战，不把每篇回击、每个修辞例子拆开。",
+    "source": {
+      "book": "为文学开窗",
+      "chapter": "001.没有窗，哪有“窗外”？.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/012.为文学开窗/001.没有窗，哪有“窗外”？.txt",
+      "line": 554,
+      "lines": [
+        41,
+        47,
+        83,
+        526,
+        540,
+        554,
+        700,
+        706
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "为文学开窗",
+        "chapter": "002.开窗以后.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/012.为文学开窗/002.开窗以后.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          17,
+          29,
+          49,
+          73,
+          127
+        ],
+        "note": "记录《没有窗，哪有“窗外”？》发表后的报刊与琼瑶反应。"
+      },
+      {
+        "book": "为文学开窗",
+        "chapter": "003.“花落谁家”与“头落谁家”.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/012.为文学开窗/003.“花落谁家”与“头落谁家”.txt",
+        "line": 3,
+        "lines": [
+          3,
+          41,
+          67,
+          75
+        ],
+        "note": "补入1966年《窗外》电影风波、给王引和王柳敏两信。"
+      },
+      {
+        "book": "为文学开窗",
+        "chapter": "004.我们应该打倒的滥套词汇.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/012.为文学开窗/004.我们应该打倒的滥套词汇.txt",
+        "line": 3,
+        "lines": [
+          3,
+          75
+        ],
+        "note": "补入1966年8月25日对《窗外》滥套词汇的技术性批评。"
+      },
+      {
+        "book": "为文学开窗",
+        "chapter": "005.论头不可乱摔.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/012.为文学开窗/005.论头不可乱摔.txt",
+        "line": 3,
+        "lines": [
+          3,
+          19
+        ],
+        "note": "补入同日对琼瑶作品“摔头”套语的短评。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "琼瑶",
+      "蒋芸",
+      "王淑女",
+      "王引",
+      "王柳敏",
+      "吴海蒂"
+    ],
+    "places": [
+      "台北",
+      "高雄",
+      "台湾"
+    ],
+    "works": [
+      "为文学开窗",
+      "没有窗，哪有“窗外”？",
+      "开窗以后",
+      "“花落谁家”与“头落谁家”",
+      "窗外",
+      "文星"
+    ],
+    "tags": [
+      "为文学开窗",
+      "第一轮",
+      "第001至005章",
+      "琼瑶",
+      "窗外",
+      "文星",
+      "文学论战",
+      "不拆太碎"
+    ],
+    "view": [
+      "写作线",
+      "文学论战线",
+      "出版线",
+      "交游线"
+    ],
+    "crossReferences": [
+      "li-ao-qingshuji-1965-07-22-g-letter-188-chen-shixiang-dinner-and-literary-view",
+      "li-ao-shuhanji-1966-04-06-morning-writes-ciqin-on-facing-reality",
+      "li-ao-shuhanji-1966-04-17-late-night-replies-cy-on-qiongyao-women-and-traditional-monologue",
+      "li-ao-shuhanji-1966-08-25-writes-reading-note-on-qiongyao-chuangwai-jiang-yanrong-reading-list"
+    ]
+  },
+  {
+    "category": "editing",
+    "type": "李敖当事人事件",
+    "additionalSources": [],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "weiwenxue-kaichuang-round001-closeout",
+    "id": "weiwenxue-kaichuang-1968-12-20-to-1969-06-26-collates-yu-dagang-theater-manuscript",
+    "date": "1968-12-20",
+    "year": 1968,
+    "month": 12,
+    "day": 20,
+    "displayDate": "1968年12月20日至1969年6月26日",
+    "datePrecision": "date-range",
+    "title": "李敖为俞大纲《戏剧纵横谈》连续校稿并记录二百八十八条意见",
+    "summary": "俞大纲准备由《文星》出版《戏剧纵横谈》，向萧孟能提出条件：原稿须先由李敖看过才放心。李敖接稿后，自1968年12月20日至1969年6月26日陆续写信给俞大纲，围绕戏曲史、版本、引文、专名、译名、错字和笔误提出密集校订意见，最终编号至二百八十八条。本条把《校书别记》中的多封校稿信合并为一条长期编辑事件，不逐信拆分。",
+    "source": {
+      "book": "为文学开窗",
+      "chapter": "019.校书别记.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/012.为文学开窗/019.校书别记.txt",
+      "line": 5,
+      "lines": [
+        5,
+        13,
+        61,
+        103,
+        109,
+        835,
+        837
+      ]
+    },
+    "people": [
+      "李敖",
+      "俞大纲",
+      "萧孟能",
+      "潘光旦",
+      "林琴南"
+    ],
+    "places": [
+      "台北",
+      "台湾"
+    ],
+    "works": [
+      "为文学开窗",
+      "校书别记",
+      "戏剧纵横谈",
+      "文星"
+    ],
+    "tags": [
+      "为文学开窗",
+      "第一轮",
+      "第019章",
+      "俞大纲",
+      "校书",
+      "戏剧纵横谈",
+      "文星"
+    ],
+    "view": [
+      "写作线",
+      "出版线",
+      "交游线",
+      "学术线"
+    ],
+    "crossReferences": [
+      "li-ao-yumiao-tianxia-011-shows-yu-dawei-photos-and-yu-dagang-memory",
+      "li-ao-shuduji-1986-12-15-writes-shen-dengen-on-no-name-blockade"
+    ]
+  },
+  {
+    "category": "commentary",
+    "type": "李敖当事人事件",
+    "additionalSources": [],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "weiwenxue-kaichuang-round001-closeout",
+    "id": "weiwenxue-kaichuang-1979-08-31-writes-allusion-exam-critique",
+    "date": "1979-08-31",
+    "year": 1979,
+    "month": 8,
+    "day": 31,
+    "displayDate": "1979年8月31日",
+    "datePrecision": "day",
+    "title": "李敖写《语出何典，何能不检点？》批评大专联考用典失误",
+    "summary": "1979年大专联考国文作文题引发用典争议后，李敖写《语出何典，何能不检点？》。他批评出题者和《中央日报》等护航者不知典故本源，又以“毋忘在莒”为例，指出此典出自鲍叔牙劝齐桓公、管仲、宁戚，并非长期被官方宣传误套的田单复国故事。本条只收这篇文化教育批评，不把齐桓公、田单等典故背景另造历史事件。",
+    "source": {
+      "book": "为文学开窗",
+      "chapter": "018.语出何典，何能不检点.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/012.为文学开窗/018.语出何典，何能不检点.txt",
+      "line": 19,
+      "lines": [
+        3,
+        5,
+        9,
+        11,
+        13,
+        15,
+        17,
+        19
+      ]
+    },
+    "people": [
+      "李敖",
+      "鲍叔牙",
+      "齐桓公",
+      "管仲",
+      "宁戚",
+      "田单"
+    ],
+    "places": [
+      "台湾",
+      "莒"
+    ],
+    "works": [
+      "为文学开窗",
+      "语出何典，何能不检点？",
+      "管子",
+      "新序",
+      "中央日报"
+    ],
+    "tags": [
+      "为文学开窗",
+      "第一轮",
+      "第018章",
+      "大专联考",
+      "毋忘在莒",
+      "用典",
+      "文化批评"
+    ],
+    "view": [
+      "写作线",
+      "教育线",
+      "文化批评线"
+    ],
+    "crossReferences": [
+      "li-ao-xiaoao-jianghu-1973-05-25-receives-air-dynamics-in-prison"
+    ]
+  },
+  {
+    "category": "research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "weiwenxue-kaichuang-round001-closeout",
+    "id": "weiwenxue-kaichuang-1981-11-01-to-1982-02-01-writes-literary-history-notes",
+    "date": "1981-11-01",
+    "year": 1981,
+    "month": 11,
+    "day": 1,
+    "displayDate": "1981年11月1日至1982年2月1日",
+    "datePrecision": "date-range",
+    "title": "李敖连续写三则中国文学史札记，重估民间文学、小品文与中西戏剧",
+    "summary": "1981年11月1日，李敖写《中国文学史中的异源合流》和《中国文学史中的小品文突出》，前者从民间文学与文人文学的分流、合流解释文学史现象，后者指出中国文学遗产中最具特色的不是长诗或长篇小说，而是片段的小品文。1982年2月1日，他又写《论中西戏剧》，以西方戏剧发展为参照，批评中国戏剧长期停留在声色范围和缓慢进步中。本条合并013至015三篇文学史短札。",
+    "source": {
+      "book": "为文学开窗",
+      "chapter": "013.中国文学史中的异源合流.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/012.为文学开窗/013.中国文学史中的异源合流.txt",
+      "line": 11,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "为文学开窗",
+        "chapter": "014.中国文学史中的小品文突出.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/012.为文学开窗/014.中国文学史中的小品文突出.txt",
+        "line": 7,
+        "lines": [
+          3,
+          5,
+          7
+        ],
+        "note": "同日另一则中国文学史判断。"
+      },
+      {
+        "book": "为文学开窗",
+        "chapter": "015.论中西戏剧.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/012.为文学开窗/015.论中西戏剧.txt",
+        "line": 9,
+        "lines": [
+          3,
+          5,
+          7,
+          9
+        ],
+        "note": "延伸到中西戏剧比较。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "莎士比亚",
+      "易卜生"
+    ],
+    "places": [
+      "中国",
+      "西方"
+    ],
+    "works": [
+      "为文学开窗",
+      "中国文学史中的异源合流",
+      "中国文学史中的小品文突出",
+      "论中西戏剧"
+    ],
+    "tags": [
+      "为文学开窗",
+      "第一轮",
+      "第013至015章",
+      "文学史",
+      "小品文",
+      "戏剧",
+      "合并短札"
+    ],
+    "view": [
+      "写作线",
+      "文学研究线",
+      "文化批评线"
+    ],
+    "crossReferences": []
+  },
+  {
+    "category": "publication",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "weiwenxue-kaichuang-round001-closeout",
+    "id": "weiwenxue-kaichuang-1983-06-15-introduces-chinese-classics-essence",
+    "date": "1983-06-15",
+    "year": 1983,
+    "month": 6,
+    "day": 15,
+    "displayDate": "1983年6月15日",
+    "datePrecision": "day",
+    "title": "李敖写《介绍一套你该一看的奇书》，说明《中国名著精华全集》的选编思路",
+    "summary": "远流出版社王荣文请李敖主持《中国名著精华全集》，希望为现代读者整理一套读得下、读得懂、涵盖中国文化精华的古书选本。李敖在半年日常写作之外插入这项工作，编选全套书并另写近十万字综合介绍和个别提要，于6月7日全部完工；6月15日，他在《介绍一套你该一看的奇书》中进一步说明现代分类、导读、经世致用和可读性的原则。本条只收020章对全套项目的完成与说明，旧有序文、补记和各类提要不重复造事。",
+    "source": {
+      "book": "为文学开窗",
+      "chapter": "020.介绍一套你该一看的奇书.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/012.为文学开窗/020.介绍一套你该一看的奇书.txt",
+      "line": 97,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        87,
+        95,
+        97
+      ]
+    },
+    "additionalSources": [],
+    "people": [
+      "李敖",
+      "王荣文",
+      "徐复观",
+      "李鼎彝",
+      "郑樵"
+    ],
+    "places": [
+      "台湾",
+      "香港"
+    ],
+    "works": [
+      "为文学开窗",
+      "介绍一套你该一看的奇书",
+      "中国名著精华全集",
+      "中国历史演义全集",
+      "要把金针度与人"
+    ],
+    "tags": [
+      "为文学开窗",
+      "第一轮",
+      "第020章",
+      "远流",
+      "王荣文",
+      "中国名著精华全集",
+      "古书选本",
+      "不重复旧锚"
+    ],
+    "view": [
+      "出版线",
+      "写作线",
+      "文化研究线"
+    ],
+    "crossReferences": [
+      "yaoba-jinzhen-1983-04-18-writes-chinese-classics-essence-preface",
+      "yaoba-jinzhen-1983-06-18-adds-postscript-thanking-classics-essence-advisers",
+      "li-ao-duihualu-before-1984-03-helps-yuanliu-compile-chinese-classics-essence"
+    ]
+  },
+  {
+    "category": "translation-writing",
+    "type": "李敖当事人事件",
+    "additionalSources": [],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "weiwenxue-kaichuang-round001-closeout",
+    "id": "weiwenxue-kaichuang-1983-08-24-translates-shuoshu-in-court",
+    "date": "1983-08-24",
+    "year": 1983,
+    "month": 8,
+    "day": 24,
+    "displayDate": "1983年8月24日",
+    "datePrecision": "day",
+    "title": "李敖在法院旁听椅上把《诗经·硕鼠》译成白话",
+    "summary": "《〈硕鼠〉今译》开头说明，《诗经》中的《硕鼠》是几千年前中国人对黑暗统治者的抗议；1983年8月24日，李敖在法院旁听椅子上把它译成白话，并以古今对照方式呈现。本条只收这个明确署日、具场景的翻译动作；后续节目中朗读和解释《硕鼠》只作旧锚串联。",
+    "source": {
+      "book": "为文学开窗",
+      "chapter": "008.《硕鼠》今译.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/012.为文学开窗/008.《硕鼠》今译.txt",
+      "line": 3,
+      "lines": [
+        3
+      ]
+    },
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "法院",
+      "台湾"
+    ],
+    "works": [
+      "为文学开窗",
+      "《硕鼠》今译",
+      "诗经",
+      "硕鼠"
+    ],
+    "tags": [
+      "为文学开窗",
+      "第一轮",
+      "第008章",
+      "硕鼠",
+      "诗经",
+      "白话翻译",
+      "法院旁听"
+    ],
+    "view": [
+      "写作线",
+      "翻译线",
+      "法律线"
+    ],
+    "crossReferences": [
+      "li-ao-youhua-shuo-121-reads-1983-vernacular-translation-of-shuoshu",
+      "li-ao-youhua-shuo-121-interprets-shuoshu-as-ancient-satire-and-free-speech"
+    ]
+  },
+  {
+    "category": "commentary",
+    "type": "李敖当事人事件",
+    "additionalSources": [],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "weiwenxue-kaichuang-round001-closeout",
+    "id": "weiwenxue-kaichuang-1985-08-24-preserves-ju-haoran-inhibition-essay",
+    "date": "1985-08-24",
+    "year": 1985,
+    "month": 8,
+    "day": 24,
+    "displayDate": "1985年8月24日",
+    "datePrecision": "day",
+    "title": "李敖重读居浩然旧文，决定传播“硬抑别兴”论",
+    "summary": "李敖说明，居浩然1972年7月7日从澳大利亚墨尔本寄来一篇论文章与教育的文章，他一直保存。居浩然去世后，李敖重读旧文，感到见解飘逸、才气纵横，决定把它宣传给读者看。文章以英文 inhibition 的谐音“硬抑别兴”和“魇”字，批评中国与台湾教育、写作中的紧箍帽和缠足式训练；李敖在文末呼吁“不甘做奴才的中国人，就从先去心中之魇开始”。",
+    "source": {
+      "book": "为文学开窗",
+      "chapter": "007.居浩然论“硬抑别兴”.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/012.为文学开窗/007.居浩然论“硬抑别兴”.txt",
+      "line": 33,
+      "lines": [
+        3,
+        11,
+        21,
+        29,
+        31,
+        33
+      ]
+    },
+    "people": [
+      "李敖",
+      "居浩然",
+      "梁简文帝",
+      "纪政",
+      "徐高阮"
+    ],
+    "places": [
+      "墨尔本",
+      "澳大利亚",
+      "台湾"
+    ],
+    "works": [
+      "为文学开窗",
+      "居浩然论“硬抑别兴”"
+    ],
+    "tags": [
+      "为文学开窗",
+      "第一轮",
+      "第007章",
+      "居浩然",
+      "硬抑别兴",
+      "教育批评",
+      "文章论"
+    ],
+    "view": [
+      "写作线",
+      "交游线",
+      "教育线",
+      "文化批评线"
+    ],
+    "crossReferences": [
+      "li-ao-shuhanji-1964-07-31-writes-ju-haoran-on-australia-and-friendship",
+      "li-ao-yumiao-tianxia-110-recalls-ju-haoran-and-mahjong-rules"
+    ]
+  },
+  {
+    "category": "research-writing",
+    "type": "李敖当事人事件",
+    "additionalSources": [],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "weiwenxue-kaichuang-round001-closeout",
+    "id": "weiwenxue-kaichuang-1986-08-23-researches-zhang-taiyan-poem-calligraphy",
+    "date": "1986-08-23",
+    "year": 1986,
+    "month": 8,
+    "day": 23,
+    "displayDate": "1986年8月23日",
+    "datePrecision": "day",
+    "title": "李敖为赵中令查考章太炎条幅诗，影印诗稿出处相赠",
+    "summary": "光华商场庄敬书画古艺馆的赵中令藏有章太炎条幅，诗下注明赠友人却未写明对象。赵中令问李敖受赠者是谁，李敖从《太炎文录续编》中查出诗题《寄亦韩仲荪》，并影印该页给赵；几个月后，陈又亮从大陆带来齐鲁书社1981年版《章太炎自写诗稿》，李敖又把收有同诗的一页影印给赵中令。本条收这个文献查考与书画交往事件，不把章太炎生平背景拆成事件。",
+    "source": {
+      "book": "为文学开窗",
+      "chapter": "009.“试吟紫芝曲，应与夏黄同”.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/012.为文学开窗/009.“试吟紫芝曲，应与夏黄同”.txt",
+      "line": 41,
+      "lines": [
+        3,
+        17,
+        27,
+        29,
+        31,
+        39,
+        41
+      ]
+    },
+    "people": [
+      "李敖",
+      "赵中令",
+      "章太炎",
+      "陈又亮",
+      "胡适",
+      "陈旭麓"
+    ],
+    "places": [
+      "光华商场",
+      "苏州",
+      "台湾",
+      "大陆"
+    ],
+    "works": [
+      "为文学开窗",
+      "试吟紫芝曲，应与夏黄同",
+      "太炎文录续编",
+      "章太炎自写诗稿",
+      "制言"
+    ],
+    "tags": [
+      "为文学开窗",
+      "第一轮",
+      "第009章",
+      "章太炎",
+      "赵中令",
+      "书画",
+      "文献查考"
+    ],
+    "view": [
+      "写作线",
+      "收藏线",
+      "文化研究线",
+      "交游线"
+    ],
+    "crossReferences": [
+      "li-ao-yumiao-tianxia-050-shows-2008-diary-on-zhang-taiyan-calligraphy",
+      "li-ao-youhua-shuo-632-shows-zhang-taiyan-photo-and-compares-self-pride"
+    ]
+  },
+  {
+    "category": "education",
+    "type": "李敖当事人事件",
+    "additionalSources": [],
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "weiwenxue-kaichuang-round001-closeout",
+    "id": "weiwenxue-kaichuang-1995-05-22-designs-rhetoric-in-chinese-thought-course",
+    "date": "1995-05-22",
+    "year": 1995,
+    "month": 5,
+    "day": 22,
+    "displayDate": "1995年5月22日",
+    "datePrecision": "day",
+    "title": "李敖写“中国思想与修辞”课程说明，主张以修辞贯通思想表达",
+    "summary": "李敖在1995年5月22日写成“中国思想与修辞”（Rhetoric in Chinese Thought）课程说明。他从严复“信、雅、达”、孔子“辞达”、孟子“知言”和《易经》“修辞”谈起，说明课程要把历史、哲学、中文、外文跨系整合，训练选课者理解思想与表达思想。他特别强调广义修辞学、福楼拜“唯一合适的字”和作者读者之间的互动，期望学生思想不再混、中文不再菜。",
+    "source": {
+      "book": "为文学开窗",
+      "chapter": "017.“中国思想与修辞”（Rhetoric in Chinese Thought）这门课.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/012.为文学开窗/017.“中国思想与修辞”（Rhetoric in Chinese Thought）这门课.txt",
+      "line": 9,
+      "lines": [
+        3,
+        5,
+        7,
+        9
+      ]
+    },
+    "people": [
+      "李敖",
+      "严复",
+      "孔子",
+      "孟子",
+      "福楼拜"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "为文学开窗",
+      "中国思想与修辞",
+      "易经"
+    ],
+    "tags": [
+      "为文学开窗",
+      "第一轮",
+      "第017章",
+      "中国思想与修辞",
+      "课程设计",
+      "修辞",
+      "跨系整合"
+    ],
+    "view": [
+      "教育线",
+      "写作线",
+      "思想线"
+    ],
+    "crossReferences": [
+      "li-ao-xiaoao-jianghu-1996-05-22-context-episode-062-final-soochow-class-broadcast",
+      "li-ao-xiaoao-jianghu-1996-context-episode-066-da-yin-ren-broadcast"
+    ]
+  }
+]

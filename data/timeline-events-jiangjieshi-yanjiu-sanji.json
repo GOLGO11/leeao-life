@@ -1,0 +1,923 @@
+[
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-sanji-round001-closeout",
+    "id": "jiangjieshi-yanjiu-sanji-1987-06-27-writes-third-volume-after-sequel-ban-and-taichung-search",
+    "date": "1987-06-27",
+    "year": 1987,
+    "month": 6,
+    "day": 27,
+    "displayDate": "1987年6月27日",
+    "datePrecision": "day",
+    "title": "李敖写《蒋介石研究三集》自序，以母宅遭搜索回应两度查禁",
+    "summary": "1987年6月27日，李敖在台湾写《蒋介石研究三集》自序，回顾《蒋介石研究》与《蒋介石研究续集》先后被警备总部查禁，并指出第二次查禁理由中“诋毁国家元首”罪名消失；他又写到6月21日警备总部中区司令部与台中警方到其母亲台中住宅搜索、取走一万四千多本书，自己返北第三天即快速编成三集，作为对查禁与搜索的回敬。",
+    "source": {
+      "book": "蒋介石研究三集",
+      "chapter": "《蒋介石研究三集》自序.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/018.蒋介石研究三集/《蒋介石研究三集》自序.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9
+      ]
+    },
+    "people": [
+      "李敖",
+      "蒋介石",
+      "张少刚",
+      "李树钰"
+    ],
+    "places": [
+      "台湾",
+      "台中",
+      "台北"
+    ],
+    "works": [
+      "蒋介石研究",
+      "蒋介石研究续集",
+      "蒋介石研究三集",
+      "台湾地区戒严时期出版物管制办法"
+    ],
+    "tags": [
+      "蒋介石研究三集",
+      "自序",
+      "查禁",
+      "警备总部",
+      "台中搜索"
+    ],
+    "view": [
+      "作品线",
+      "司法线",
+      "史料线",
+      "政治线"
+    ],
+    "crossReferences": [
+      "jiangjieshi-yanjiu-1986-10-20-writes-preface-to-debunk-chiang-family-myths-with-evidence",
+      "book8-1986-11-02-chiang-kai-shek-study-banned",
+      "jiangjieshi-yanjiu-xuji-1987-01-07-writes-sequel-preface-after-first-book-banned",
+      "book8-1987-01-22-chiang-kai-shek-study-sequel-banned"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-sanji-round001-closeout",
+    "id": "jiangjieshi-yanjiu-sanji-1985-09-05-rechecks-tao-chengzhang-from-anger-to-killing-wording",
+    "date": "1985-09-05",
+    "year": 1985,
+    "month": 9,
+    "day": 5,
+    "displayDate": "1985年9月5日",
+    "datePrecision": "day",
+    "title": "李敖从“公怒之”追到“公怒杀之”，续证陶成章案被党国年表改写",
+    "summary": "1985年9月5日清晨，李敖写《蒋介石的怒与杀》，把1975年《总统蒋公哀思录》年表中的“公怒之”同1964年吴敬恒《蒋总统年表》的“公怒杀之”逐字对读，指出蒋介石杀陶成章的字样在后来的官方哀思文字中被删改。他又回到孙中山电令严缉“凶手”“凶徒”与《民国十五年以前之蒋介石先生》的半遮半掩，收束为陶成章被国史出局、暗杀者反成孙中山接班人的党国伦理问题。此条是《续集》陶成章长文的续证，不重复重建全案。",
+    "source": {
+      "book": "蒋介石研究三集",
+      "chapter": "001.蒋介石的怒与杀.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/018.蒋介石研究三集/001.蒋介石的怒与杀.txt",
+      "line": 3,
+      "lines": [
+        3,
+        9,
+        15,
+        23,
+        49,
+        53,
+        77,
+        83,
+        85,
+        87
+      ]
+    },
+    "people": [
+      "李敖",
+      "蒋介石",
+      "陶成章",
+      "孙中山",
+      "陈其美",
+      "吴敬恒"
+    ],
+    "places": [
+      "台湾",
+      "上海",
+      "日本"
+    ],
+    "works": [
+      "蒋介石研究三集",
+      "总统蒋公哀思录",
+      "蒋总统年表",
+      "民国十五年以前之蒋介石先生",
+      "传记文学",
+      "陶成章"
+    ],
+    "tags": [
+      "陶成章",
+      "公怒杀之",
+      "官方年表",
+      "暗杀案",
+      "党国史观"
+    ],
+    "view": [
+      "史料线",
+      "文本线",
+      "政治线"
+    ],
+    "crossReferences": [
+      "jiangjieshi-yanjiu-xuji-1985-05-08-writes-tao-chengzhang-assassination-case",
+      "li-ao-youhua-shuo-109-compares-chronology-deleted-kill-word",
+      "li-ao-youhua-shuo-616-shows-tao-chengzhang-fundraising-file-and-recounts-chiang-assassination"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-sanji-round001-closeout",
+    "id": "jiangjieshi-yanjiu-sanji-1987-02-06-debunks-chiang-military-genius-as-codebreaking",
+    "date": "1987-02-06",
+    "year": 1987,
+    "month": 2,
+    "day": 6,
+    "displayDate": "1987年2月6日",
+    "datePrecision": "day",
+    "title": "李敖用密电破译材料拆穿蒋介石“天纵英明”的军事神话",
+    "summary": "1987年2月6日夜，李敖写《蒋介石“天纵英明”原来如此》，先引李宗仁批评蒋介石不能将将、不能将兵，再把所谓“料敌如神”归结为偷译对手密码。他用黄绍竑回忆说明中国密电码易被推译，又引魏大铭、温毓庆破译桂系上海秘密电台，以及蔡孟坚盗得密电本送交总部的故事，指出蒋介石内战得利并非军事天才，而是“偷看底牌”。",
+    "source": {
+      "book": "蒋介石研究三集",
+      "chapter": "002.蒋介石“天纵英明”原来如此.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/018.蒋介石研究三集/002.蒋介石“天纵英明”原来如此.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        11,
+        13,
+        19,
+        23,
+        25,
+        27
+      ]
+    },
+    "people": [
+      "李敖",
+      "蒋介石",
+      "李宗仁",
+      "黄绍竑",
+      "戴笠",
+      "魏大铭",
+      "温毓庆",
+      "宋子文",
+      "蔡孟坚",
+      "陈立夫"
+    ],
+    "places": [
+      "台湾",
+      "北平",
+      "许昌",
+      "砀山"
+    ],
+    "works": [
+      "蒋介石研究三集",
+      "李宗仁回忆录",
+      "五十回忆",
+      "戴雨农先生传",
+      "传记文学",
+      "八十谈奇"
+    ],
+    "tags": [
+      "密码破译",
+      "密电本",
+      "天纵英明",
+      "料敌如神",
+      "内战"
+    ],
+    "view": [
+      "史料线",
+      "军事线",
+      "政治线"
+    ],
+    "crossReferences": [
+      "li-ao-youhua-shuo-645-criticizes-gong-yamamoto-judgment-with-us-codebreaking-evidence"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "medium",
+    "certainty": "contextual",
+    "round": "jiangjieshi-yanjiu-sanji-round001-closeout",
+    "id": "jiangjieshi-yanjiu-sanji-1987-06-context-reconstructs-january-28-as-nineteenth-route-army-defying-chiang",
+    "date": "1987-06-27",
+    "year": 1987,
+    "month": 6,
+    "day": 27,
+    "displayDate": "约1987年6月（《蒋介石研究三集》成书语境）",
+    "datePrecision": "undated-context",
+    "title": "李敖重构一二八淞沪抗战，把十九路军抗命与蒋介石拆台并置",
+    "summary": "《蒋介石与一二八》无单篇落款，本轮按《蒋介石研究三集》1987年6月成书语境入库。李敖从国民党高中历史教科书写起，指出一二八并非蒋介石抗日首义，而是在十九路军对蒋介石非抵抗路线“有技巧的抗命”下出现的战事。他追述蒋方原欲调走十九路军、第五军增援并非蒋主动、冯玉祥等人指证蒋在会场沉默与海军供给日军、陈公博北上求援被蒋派人拆台，并以《反蒋运动史》说明蒋氏痛恨十九路军，因其抵抗推翻了“三日亡国论”。",
+    "source": {
+      "book": "蒋介石研究三集",
+      "chapter": "003.蒋介石与一二八.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/018.蒋介石研究三集/003.蒋介石与一二八.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        121,
+        123,
+        127,
+        133,
+        135,
+        143,
+        197,
+        203,
+        207,
+        213,
+        319
+      ]
+    },
+    "people": [
+      "李敖",
+      "蒋介石",
+      "蔡廷锴",
+      "蒋光鼐",
+      "陈铭枢",
+      "张治中",
+      "俞济时",
+      "冯玉祥",
+      "陈公博",
+      "李济深",
+      "张学良",
+      "李宗仁"
+    ],
+    "places": [
+      "台湾",
+      "上海",
+      "闸北",
+      "吴淞",
+      "南京",
+      "洛阳",
+      "北平",
+      "福建"
+    ],
+    "works": [
+      "蒋介石研究三集",
+      "高中历史教科书",
+      "张治中回忆录",
+      "我所认识的蒋介石",
+      "中国近百年革命史",
+      "苦笑录",
+      "反蒋运动史",
+      "李宗仁回忆录"
+    ],
+    "tags": [
+      "一二八",
+      "十九路军",
+      "抗命抗日",
+      "三日亡国论",
+      "淞沪抗战",
+      "史料辨伪"
+    ],
+    "view": [
+      "史料线",
+      "军事线",
+      "政治线"
+    ],
+    "crossReferences": [
+      "li-ao-xiaoao-jianghu-1998-context-rejects-easy-reconciliation-and-praises-bai-bingbing"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-sanji-round001-closeout",
+    "id": "jiangjieshi-yanjiu-sanji-1987-02-01-to-02-03-reframes-august-13-as-strategic-blunder-and-wounded-soldier-cruelty",
+    "date": "1987-02-01",
+    "year": 1987,
+    "month": 2,
+    "day": 1,
+    "displayDate": "1987年2月1日至2月3日",
+    "datePrecision": "date-range",
+    "title": "李敖合读伤兵与战略记录，把八一三从“丰功伟业”改判为蒋介石大失策",
+    "summary": "1987年2月1日至2月3日，李敖先写《蒋介石怎样对待伤兵？》，以冯玉祥和谢冰莹材料写八一三伤兵无医药、无担架、伤口生蛆；随后写《蒋介石与八一三》，反驳国防部史政局和蒋纬国把上海作战说成持久消耗战略的“丰功伟业”。他大量引用龚德柏、张发奎、韩汉英、李宗仁等材料，指出蒋介石选择上海全面作战、迟迟不退，消耗国军精锐并把日本南进压力转为苏联获利，所谓民族救星反成斯拉夫民族救星。",
+    "source": {
+      "book": "蒋介石研究三集",
+      "chapter": "004.蒋介石与八一三.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/018.蒋介石研究三集/004.蒋介石与八一三.txt",
+      "line": 3,
+      "lines": [
+        3,
+        13,
+        21,
+        295,
+        297,
+        299,
+        303,
+        351,
+        353,
+        355,
+        375
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "蒋介石研究三集",
+        "chapter": "005.蒋介石怎样对待伤兵？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/018.蒋介石研究三集/005.蒋介石怎样对待伤兵？.txt",
+        "line": 9,
+        "lines": [
+          9,
+          11,
+          15,
+          17,
+          19
+        ],
+        "note": "补入同一八一三问题下前线伤兵无医药、无担架、伤口生蛆的证据。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "蒋介石",
+      "蒋纬国",
+      "龚德柏",
+      "冯玉祥",
+      "谢冰莹",
+      "张发奎",
+      "韩汉英",
+      "李宗仁",
+      "蒋经国"
+    ],
+    "places": [
+      "台湾",
+      "上海",
+      "淞沪战场",
+      "南京",
+      "苏联",
+      "日本"
+    ],
+    "works": [
+      "蒋介石研究三集",
+      "领袖军事上的丰功伟业",
+      "八年抗战蒋委员长如何战胜日本",
+      "中日战争史",
+      "我所认识的蒋介石",
+      "抗战日记",
+      "张发奎八一三淞沪战役回忆",
+      "李宗仁回忆录",
+      "俄帝侵华真相"
+    ],
+    "tags": [
+      "八一三",
+      "淞沪会战",
+      "伤兵",
+      "战略失误",
+      "持久消耗战略",
+      "蒋纬国"
+    ],
+    "view": [
+      "史料线",
+      "军事线",
+      "政治线"
+    ],
+    "crossReferences": [
+      "li-ao-youhua-shuo-403-uses-gong-and-chiang-to-argue-shanghai-battle-was-fatal-gamble",
+      "li-ao-youhua-shuo-404-reads-gong-debo-on-shanghai-as-chiang-worst-blunder"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-sanji-round001-closeout",
+    "id": "jiangjieshi-yanjiu-sanji-1986-10-29-reverses-wang-peace-chiang-war-propaganda",
+    "date": "1986-10-29",
+    "year": 1986,
+    "month": 10,
+    "day": 29,
+    "displayDate": "1986年10月29日",
+    "datePrecision": "day",
+    "title": "李敖写《汪精卫主和、蒋介石主战吗？》，反转国民党和战叙事",
+    "summary": "1986年10月29日晨，李敖写《汪精卫主和、蒋介石主战吗？》，从济南事变、九一八、塘沽协定、何梅协定等线索指出蒋介石长期求和避战，而汪精卫许多时候只是替蒋背黑锅。他进一步以冯玉祥、龙云密电、朱子家材料讨论汪精卫出走是否得蒋默许，又回到陶德曼调停、1937年12月国民党秘密会议、桐工作、张钱路线、何路线等，指出蒋介石也多次秘密同日本接触，却把通敌叛国的帽子只扣到别人头上。",
+    "source": {
+      "book": "蒋介石研究三集",
+      "chapter": "006.汪精卫主和、蒋介石主战吗？.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/018.蒋介石研究三集/006.汪精卫主和、蒋介石主战吗？.txt",
+      "line": 3,
+      "lines": [
+        3,
+        9,
+        23,
+        29,
+        59,
+        63,
+        67,
+        79,
+        81,
+        83,
+        91,
+        155,
+        157,
+        159,
+        161,
+        165,
+        169
+      ]
+    },
+    "people": [
+      "李敖",
+      "蒋介石",
+      "汪精卫",
+      "陈公博",
+      "冯玉祥",
+      "戴笠",
+      "龙云",
+      "朱子家",
+      "陶德曼",
+      "张群",
+      "宋子良"
+    ],
+    "places": [
+      "台湾",
+      "重庆",
+      "昆明",
+      "河内",
+      "南京",
+      "香港",
+      "日本"
+    ],
+    "works": [
+      "蒋介石研究三集",
+      "八年来的回忆",
+      "我所认识的蒋介石",
+      "中华民国重要史料初编",
+      "汪政权的开场与收场",
+      "汪兆铭降敌卖国秘史"
+    ],
+    "tags": [
+      "汪精卫",
+      "主和主战",
+      "蒋汪双簧",
+      "陶德曼调停",
+      "桐工作",
+      "秘密谈判"
+    ],
+    "view": [
+      "史料线",
+      "抗战线",
+      "政治线"
+    ],
+    "crossReferences": [
+      "jiangjieshi-yanjiu-xuji-1986-11-04-uses-travel-approval-to-reopen-wang-jingwei-escape",
+      "tiaozhan-li-ao-2000-02-03-qna-wang-jingwei-escape-and-chiang-double-play",
+      "li-ao-youhua-shuo-384-uses-wang-jingwei-secret-telegram-to-keep-chiang-role-under-study"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-sanji-round001-closeout",
+    "id": "jiangjieshi-yanjiu-sanji-1986-12-25-to-1987-02-22-gathers-diplomatic-cairo-and-lunch-anecdotes",
+    "date": "1986-12-25",
+    "year": 1986,
+    "month": 12,
+    "day": 25,
+    "displayDate": "1986年12月25日至1987年2月22日",
+    "datePrecision": "date-range",
+    "title": "李敖合并威尔基、开罗与午餐会轶事，抽样蒋介石权力场中的失态和操控",
+    "summary": "1986年12月25日至1987年2月22日，李敖连续用几组小场景拆蒋介石的“领袖体面”：在《蒋介石捉奸记》中，他借威尔基访华、宋美龄访美和美国回忆材料，写所谓中美“感情联系”背后的官邸丑态；在《蒋介石的午餐会》中，他引程思远回忆，写蒋介石以午餐会和全体起立操控张群、陈立夫等人事投票；在《蒋介石偷皮包》中，他再用俞济时、董显光材料写开罗会议期间蒋拿走属下公文包、夜查译员房间的苛细防备。三篇合收为权力场细节证据，不逐篇拆成八卦事件。",
+    "source": {
+      "book": "蒋介石研究三集",
+      "chapter": "007.蒋介石捉奸记.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/018.蒋介石研究三集/007.蒋介石捉奸记.txt",
+      "line": 21,
+      "lines": [
+        21,
+        23,
+        31,
+        35,
+        83,
+        85,
+        89,
+        93,
+        95
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "蒋介石研究三集",
+        "chapter": "012.蒋介石的午餐会.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/018.蒋介石研究三集/012.蒋介石的午餐会.txt",
+        "line": 7,
+        "lines": [
+          7,
+          9,
+          11,
+          15,
+          23,
+          29,
+          31
+        ],
+        "note": "补入蒋介石以午餐会、起立表决和党内系统操控立法院人事的权力场景。"
+      },
+      {
+        "book": "蒋介石研究三集",
+        "chapter": "008.蒋介石偷皮包.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/018.蒋介石研究三集/008.蒋介石偷皮包.txt",
+        "line": 3,
+        "lines": [
+          3,
+          7,
+          9,
+          17,
+          19,
+          31,
+          33
+        ],
+        "note": "补入开罗会议期间拿走属下公文包、夜查译员房间与黄雪村附记中的安全检查材料。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "蒋介石",
+      "宋美龄",
+      "威尔基",
+      "罗斯福",
+      "孔祥熙",
+      "程思远",
+      "张群",
+      "陈立夫",
+      "孙科",
+      "傅斯年",
+      "俞济时",
+      "董显光",
+      "商震",
+      "林蔚"
+    ],
+    "places": [
+      "台湾",
+      "重庆",
+      "开罗",
+      "南京",
+      "上海"
+    ],
+    "works": [
+      "蒋介石研究三集",
+      "天下一家",
+      "迈可回望",
+      "宋家王朝",
+      "蒋介石发表和谈声明的经过",
+      "八十虚度回忆",
+      "董显光回忆录"
+    ],
+    "tags": [
+      "威尔基访华",
+      "宋美龄访美",
+      "开罗会议",
+      "午餐会",
+      "立法院人事",
+      "权力细节"
+    ],
+    "view": [
+      "史料线",
+      "政治线",
+      "人物线"
+    ],
+    "crossReferences": []
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-sanji-round001-closeout",
+    "id": "jiangjieshi-yanjiu-sanji-1987-04-12-to-04-26-links-captive-doctrine-and-menglianggu-fabrication",
+    "date": "1987-04-12",
+    "year": 1987,
+    "month": 4,
+    "day": 12,
+    "displayDate": "1987年4月12日至4月26日",
+    "datePrecision": "date-range",
+    "title": "李敖把蒋介石“被俘只有自杀”话术接到孟良崮兵变故事的捏造",
+    "summary": "1987年4月12日，李敖写《蒋介石的被俘观》，以1947、1950年蒋介石讲话批判其要求被俘将领自杀、又以自己西安事变被俘未自杀反证其标准虚伪；同日他致胡虚一函《蒋介石与“孟良崮之役”》，把这一被俘观接到张灵甫、第七十四师和陈左弧遭遇。4月26日陈左弧回信，逐点说明所谓收编俘虏在孟良崮乘机鼓噪、裹胁官长并非事实，而是汤恩伯等人为推卸指挥无方所编造。两文合成蒋介石军事失败责任外推与军人羞辱制度的一条证据链。",
+    "source": {
+      "book": "蒋介石研究三集",
+      "chapter": "009.蒋介石的被俘观.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/018.蒋介石研究三集/009.蒋介石的被俘观.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        11,
+        13,
+        23,
+        25,
+        29,
+        31,
+        33
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "蒋介石研究三集",
+        "chapter": "010.蒋介石与“孟良崮之役”.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/018.蒋介石研究三集/010.蒋介石与“孟良崮之役”.txt",
+        "line": 7,
+        "lines": [
+          7,
+          11,
+          17,
+          23,
+          25,
+          27,
+          31,
+          45,
+          51,
+          55,
+          59,
+          63,
+          67
+        ],
+        "note": "补入李敖致胡虚一函与陈左弧回信，说明孟良崮“兵变”故事的捏造。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "蒋介石",
+      "胡虚一",
+      "陈左弧",
+      "张灵甫",
+      "汤恩伯",
+      "屈突通",
+      "文天祥",
+      "史可法"
+    ],
+    "places": [
+      "台湾",
+      "南京",
+      "阳明山庄",
+      "孟良崮",
+      "淮阴"
+    ],
+    "works": [
+      "蒋介石研究三集",
+      "国军剿匪必胜的原因与剿匪战术的改进",
+      "军人魂",
+      "对于匪军战术的研究与军队作战的要领",
+      "我是匪吗"
+    ],
+    "tags": [
+      "被俘观",
+      "孟良崮",
+      "张灵甫",
+      "陈左弧",
+      "第七十四师",
+      "兵变故事"
+    ],
+    "view": [
+      "史料线",
+      "军事线",
+      "政治线"
+    ],
+    "crossReferences": [
+      "li-ao-youhua-shuo-122-uses-chiang-capture-essay-to-say-not-fooled-by-chiang",
+      "li-ao-suixielu-houji-1992-02-19-chen-youliang-call-zhang-lingfu-menglianggu-alternative-account",
+      "jiangjieshi-yanjiu-xuji-1986-07-23-to-09-08-links-du-family-hostage-and-huaihai-blunder"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-sanji-round001-closeout",
+    "id": "jiangjieshi-yanjiu-sanji-1987-05-18-uses-huang-jinrong-birthday-kowtow-to-show-green-gang-face",
+    "date": "1987-05-18",
+    "year": 1987,
+    "month": 5,
+    "day": 18,
+    "displayDate": "1987年5月18日",
+    "datePrecision": "day",
+    "title": "李敖写蒋介石向黄金荣磕头拜寿，把总统面目接回青帮体制",
+    "summary": "1987年5月18日晨，李敖写《蒋介石向大流氓磕头拜寿》，先用《黄金荣事略》铺出黄金荣在法租界、烟土、赌台、帮会网络中的地位，再引程锡文回忆说明蒋介石早年拜黄金荣为先生、欠债与赴广州旅费均受其照应，四一二后又回报黄金荣、杜月笙、张啸林。李敖最后写到1947年黄金荣八十大寿，蒋介石秘密到黄家花园下跪磕头，判断这是蒋介石在帮会特务面前维系“大龙头”面目的政治动作。",
+    "source": {
+      "book": "蒋介石研究三集",
+      "chapter": "011.蒋介石向大流氓磕头拜寿.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/018.蒋介石研究三集/011.蒋介石向大流氓磕头拜寿.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        15,
+        19,
+        21,
+        23,
+        29,
+        31,
+        37,
+        39,
+        43
+      ]
+    },
+    "people": [
+      "李敖",
+      "蒋介石",
+      "黄金荣",
+      "虞洽卿",
+      "程锡文",
+      "杜月笙",
+      "张啸林",
+      "杨虎",
+      "李济深",
+      "陈布雷"
+    ],
+    "places": [
+      "台湾",
+      "上海",
+      "法租界",
+      "黄家花园",
+      "玉佛寺",
+      "广州"
+    ],
+    "works": [
+      "蒋介石研究三集",
+      "黄金荣事略",
+      "我当黄金荣管家的见闻"
+    ],
+    "tags": [
+      "黄金荣",
+      "青帮",
+      "四一二",
+      "黄家花园",
+      "磕头拜寿",
+      "黑社会政治"
+    ],
+    "view": [
+      "史料线",
+      "政治线",
+      "人物线"
+    ],
+    "crossReferences": [
+      "li-ao-mimi-shufang-063-uses-lost-letters-and-chiang-green-gang-note-as-evidence-loss"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-yanjiu-sanji-round001-closeout",
+    "id": "jiangjieshi-yanjiu-sanji-1987-01-03-to-03-08-samples-chiang-daily-cult-piety-and-petty-control",
+    "date": "1987-01-03",
+    "year": 1987,
+    "month": 1,
+    "day": 3,
+    "displayDate": "1987年1月3日至3月8日",
+    "datePrecision": "date-range",
+    "title": "李敖用国歌、孺慕、鞠躬、小气和祖坟抽样蒋介石日常神话",
+    "summary": "1987年1月3日至3月8日，李敖把《蒋介石研究三集》后段几篇短文合成一组日常神话抽样：他从口述历史写蒋介石临终要人抄国歌，推断其可能不会唱“国歌”；写部队老兵被强迫把蒋介石当家长，以及柏杨、纪政式“自动孺慕”；写蒋介石向孙中山像和“东方天父”鞠躬的滑稽；又以点苹果、数鸡头、母墓慈庵和祖坟被毁叙事，拆出蒋介石的小气、防备、孝子贤孙形象和蒋经国记述中的夸饰。此组合回挂《丑陋的中国人研究》的孺慕症旧锚，不重复拆小题。",
+    "source": {
+      "book": "蒋介石研究三集",
+      "chapter": "017.蒋介石会唱“国歌”吗？.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/018.蒋介石研究三集/017.蒋介石会唱“国歌”吗？.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        9,
+        17,
+        19,
+        27,
+        31,
+        33
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "蒋介石研究三集",
+        "chapter": "015.蒋介石与孺慕症.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/018.蒋介石研究三集/015.蒋介石与孺慕症.txt",
+        "line": 5,
+        "lines": [
+          5,
+          7,
+          9,
+          15,
+          23,
+          27,
+          29
+        ],
+        "note": "补入李敖预官经验中的强迫孺慕、柏杨式与纪政式自动孺慕。"
+      },
+      {
+        "book": "蒋介石研究三集",
+        "chapter": "014.蒋介石的鞠躬症.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/018.蒋介石研究三集/014.蒋介石的鞠躬症.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          7,
+          11,
+          13
+        ],
+        "note": "补入向三幅像、东方天父和孙中山遗像行礼的口述历史材料。"
+      },
+      {
+        "book": "蒋介石研究三集",
+        "chapter": "013.蒋介石的小气性格.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/018.蒋介石研究三集/013.蒋介石的小气性格.txt",
+        "line": 5,
+        "lines": [
+          5,
+          7,
+          13,
+          15,
+          17
+        ],
+        "note": "补入点苹果与数鸡头两则苛细防备故事。"
+      },
+      {
+        "book": "蒋介石研究三集",
+        "chapter": "016.蒋介石与祖坟.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/018.蒋介石研究三集/016.蒋介石与祖坟.txt",
+        "line": 5,
+        "lines": [
+          5,
+          9,
+          15,
+          25,
+          31,
+          33,
+          35,
+          37
+        ],
+        "note": "补入蒋母墓、慈庵碑刻、蒋经国叙事差异和胡耀邦修墓等祖坟材料。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "蒋介石",
+      "蒋经国",
+      "秦孝仪",
+      "俞国华",
+      "柏杨",
+      "纪政",
+      "王太夫人",
+      "孙中山",
+      "胡耀邦",
+      "辻政信"
+    ],
+    "places": [
+      "台湾",
+      "成都",
+      "慈湖",
+      "角板山",
+      "奉化",
+      "溪口",
+      "四重溪"
+    ],
+    "works": [
+      "蒋介石研究三集",
+      "先总统蒋公有关论述与史料",
+      "近代中国",
+      "青年日报",
+      "守父灵一月记",
+      "我的父亲",
+      "蒋介石在溪口"
+    ],
+    "tags": [
+      "国歌",
+      "孺慕症",
+      "鞠躬症",
+      "小气性格",
+      "祖坟",
+      "领袖神话"
+    ],
+    "view": [
+      "史料线",
+      "人物线",
+      "政治线",
+      "宗教线"
+    ],
+    "crossReferences": [
+      "chouloude-zhongguoren-yanjiu-1987-01-18-to-1988-05-06-critiques-chiang-father-son-political-psychology-and-tian-dan",
+      "li-ao-diandao-zhongsheng-023-criticizes-abian-national-anthem-sisters-plan"
+    ]
+  }
+]

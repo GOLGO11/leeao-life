@@ -1,0 +1,1397 @@
+[
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-zhenmianmu-round001-closeout",
+    "id": "jiangjieshi-zhenmianmu-1985-11-24-to-1988-11-21-reassembles-rank-religion-and-kang-ze-myths",
+    "date": "1985-11-24",
+    "year": 1985,
+    "month": 11,
+    "day": 24,
+    "displayDate": "1985年11月24日至1988年11月21日",
+    "datePrecision": "day-range",
+    "title": "李敖把军阶、宗教和康泽三组材料并置，重拆蒋介石权威形象",
+    "summary": "1985年11月24日至1988年11月21日，李敖先后写《仗打败，反多星》《蒋介石是基督徒吗？》和《康泽回忆中的蒋介石》。三文从不同角度拆解蒋介石神话：一是追查蒋介石由三星到五星的军阶姿态，说明其战败前后的自我膨胀；二是用普陀进香、圣母像、洗礼时间等材料，质疑“基督徒”身份包装；三是重读康泽材料，指出党国如何把被俘、投诚、释放等事实包装成殉难或忠烈故事。本轮把三篇合并为“蒋介石真面目”的早期拆像组，不重复重建康泽案和被俘观旧题。",
+    "source": {
+      "book": "蒋介石的真面目",
+      "chapter": "001.仗打败，反多星.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/022.蒋介石的真面目/001.仗打败，反多星.txt",
+      "line": 31,
+      "lines": [
+        31,
+        41,
+        45,
+        51,
+        53,
+        57,
+        63,
+        71
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "蒋介石的真面目",
+        "chapter": "002.蒋介石是基督徒吗？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/022.蒋介石的真面目/002.蒋介石是基督徒吗？.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          7,
+          9,
+          13
+        ],
+        "note": "同组短文，用信仰史料拆蒋介石基督徒神话。"
+      },
+      {
+        "book": "蒋介石的真面目",
+        "chapter": "003.康泽回忆中的蒋介石.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/022.蒋介石的真面目/003.康泽回忆中的蒋介石.txt",
+        "line": 7,
+        "lines": [
+          7,
+          13,
+          15,
+          19,
+          21,
+          81
+        ],
+        "note": "同组长文，续证康泽殉难神话和党国被俘叙事。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "蒋介石",
+      "康泽",
+      "张明镐",
+      "蒋经国",
+      "郑洞国"
+    ],
+    "places": [
+      "台湾",
+      "延安",
+      "襄阳",
+      "普陀山",
+      "溪口"
+    ],
+    "tags": [
+      "蒋介石研究",
+      "军阶",
+      "宗教神话",
+      "康泽",
+      "被俘观",
+      "党国宣传"
+    ],
+    "view": [
+      "写作线",
+      "政治线",
+      "史料线"
+    ],
+    "works": [
+      "仗打败，反多星",
+      "蒋介石是基督徒吗？",
+      "康泽回忆中的蒋介石",
+      "蒋介石的真面目"
+    ],
+    "crossReferences": [
+      "jiangjieshi-yanjiu-1985-09-04-to-12-04-debunks-early-chiang-biography-myths",
+      "jiangjieshi-yanjiu-sanji-1987-04-12-to-04-26-links-captive-doctrine-and-menglianggu-fabrication",
+      "jiangjieshi-yanjiu-siji-1984-05-03-debunks-kang-ze-martyrdom-through-release-records",
+      "jiangjieshi-yanjiu-wuji-1984-06-07-to-1985-08-25-extends-kang-ze-and-captured-generals-evidence",
+      "li-ao-youhua-shuo-079-broadcasts-kang-ze-files-and-chiang-lie-dismantling",
+      "li-ao-youhua-shuo-122-uses-chiang-capture-essay-to-say-not-fooled-by-chiang"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-zhenmianmu-round001-closeout",
+    "id": "jiangjieshi-zhenmianmu-1989-03-31-writes-introduction-to-debunking-chiang-anthology",
+    "date": "1989-03-31",
+    "year": 1989,
+    "month": 3,
+    "day": 31,
+    "displayDate": "1989年3月31日",
+    "datePrecision": "day",
+    "title": "李敖写《拆穿蒋介石》导言，把《乌鸦评论》所得转为反蒋资料选本",
+    "summary": "1989年3月31日，李敖在台湾写《〈拆穿蒋介石〉导言》。他说明《乌鸦评论》休刊后，把创办五个半月所得约二十万元移作新编《拆穿蒋介石》厚册，并赠送订户；这部书不收他自己的文章，而收台湾、大陆、海外三路别人写蒋介石的三十六篇文字，目标是存信史、去伪存真，并把“拆穿蒋介石”解释为“为国民争人格”的道德行动。此条记录的是编书与写导言的当事动作，蒋介石研究系列旧宣传只作回挂。",
+    "source": {
+      "book": "蒋介石的真面目",
+      "chapter": "004.《拆穿蒋介石》导言.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/022.蒋介石的真面目/004.《拆穿蒋介石》导言.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        11,
+        13
+      ]
+    },
+    "people": [
+      "李敖",
+      "蒋介石",
+      "蔡锷",
+      "袁世凯"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "tags": [
+      "拆穿蒋介石",
+      "乌鸦评论",
+      "反蒋资料",
+      "出版",
+      "为国民争人格"
+    ],
+    "view": [
+      "写作线",
+      "出版线",
+      "政治线"
+    ],
+    "works": [
+      "拆穿蒋介石",
+      "乌鸦评论",
+      "蒋介石的真面目"
+    ],
+    "crossReferences": [
+      "li-ao-baokanji-1989-03-14-writes-wuya-review-suspension-notice",
+      "qianqiu-wansui-1989-04-12-152-writes-li-ao-forty-years-in-taiwan",
+      "li-ao-youhua-shuo-058-shows-his-chiang-research-series-and-says-he-never-let-it-go"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-zhenmianmu-round001-closeout",
+    "id": "jiangjieshi-zhenmianmu-1989-09-08-to-10-14-writes-policy-and-text-myth-critiques",
+    "date": "1989-09-08",
+    "year": 1989,
+    "month": 9,
+    "day": 8,
+    "displayDate": "1989年9月8日至10月14日",
+    "datePrecision": "day-range",
+    "title": "李敖连续写短文，从涨价归公、节制资本、西藏独立到不准上岸拆党国政策话术",
+    "summary": "1989年9月8日至10月14日，李敖连续写《蒋介石与“涨价归公”》《蒋介石与“节制资本”》《蒋介石与“西藏独立”》《明的表示和暗的表示》《论不准上岸》《蒋介石与“专立文字”》《蒋介石与“不立文字”》等短文，组成一条政策和文字神话纠谬链：他把孙中山式经济口号、蒋介石对西藏和边疆的自决说、败军来台不准上岸的释兵权操作，以及党国文告中的明暗话术并列，说明蒋介石及其体制如何借口号、领土、军令和文字表演维持权力。本轮合并为一条短文组，不逐篇拆碎。",
+    "source": {
+      "book": "蒋介石的真面目",
+      "chapter": "005.蒋介石与“涨价归公”.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/022.蒋介石的真面目/005.蒋介石与“涨价归公”.txt",
+      "line": 3,
+      "lines": [
+        3,
+        15
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "蒋介石的真面目",
+        "chapter": "006.蒋介石与“节制资本”.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/022.蒋介石的真面目/006.蒋介石与“节制资本”.txt",
+        "line": 3,
+        "lines": [
+          3,
+          13
+        ],
+        "note": "同组经济口号短文。"
+      },
+      {
+        "book": "蒋介石的真面目",
+        "chapter": "007.蒋介石与“西藏独立”.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/022.蒋介石的真面目/007.蒋介石与“西藏独立”.txt",
+        "line": 3,
+        "lines": [
+          3,
+          15
+        ],
+        "note": "同组边疆政策短文。"
+      },
+      {
+        "book": "蒋介石的真面目",
+        "chapter": "008.明的表示和暗的表示.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/022.蒋介石的真面目/008.明的表示和暗的表示.txt",
+        "line": 3,
+        "lines": [
+          3,
+          15
+        ],
+        "note": "同组文告话术短文。"
+      },
+      {
+        "book": "蒋介石的真面目",
+        "chapter": "009.论不准上岸.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/022.蒋介石的真面目/009.论不准上岸.txt",
+        "line": 3,
+        "lines": [
+          3,
+          7,
+          11,
+          13,
+          17,
+          19
+        ],
+        "note": "同组败军来台与释兵权短文。"
+      },
+      {
+        "book": "蒋介石的真面目",
+        "chapter": "010.蒋介石与“专立文字”.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/022.蒋介石的真面目/010.蒋介石与“专立文字”.txt",
+        "line": 3,
+        "lines": [
+          3,
+          15
+        ],
+        "note": "同组文字政治短文。"
+      },
+      {
+        "book": "蒋介石的真面目",
+        "chapter": "011.蒋介石与“不立文字”.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/022.蒋介石的真面目/011.蒋介石与“不立文字”.txt",
+        "line": 3,
+        "lines": [
+          3,
+          17
+        ],
+        "note": "同组文字政治短文。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "蒋介石",
+      "孙中山",
+      "达赖喇嘛",
+      "刘玉章",
+      "刘汝明",
+      "陈诚"
+    ],
+    "places": [
+      "台湾",
+      "西藏",
+      "基隆",
+      "高雄",
+      "外蒙古"
+    ],
+    "tags": [
+      "政策神话",
+      "涨价归公",
+      "节制资本",
+      "西藏独立",
+      "不准上岸",
+      "文字政治"
+    ],
+    "view": [
+      "写作线",
+      "政治线",
+      "史料线"
+    ],
+    "works": [
+      "蒋介石的真面目"
+    ],
+    "crossReferences": [
+      "jiangjieshi-yanjiu-siji-1982-05-14-to-1985-06-18-builds-outer-mongolia-vote-and-lost-state-chain",
+      "jiangjieshi-yanjiu-wuji-1985-08-24-to-1986-06-15-expands-unequal-treaty-and-sell-country-evidence",
+      "woshi-tiananmen-1991-03-16-seek-truth-on-tibet",
+      "li-ao-youhua-shuo-668-recalls-1991-article-naming-chiang-supporting-tibet-independence"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-zhenmianmu-round001-closeout",
+    "id": "jiangjieshi-zhenmianmu-1989-11-14-to-1990-03-01-reopens-presidential-election-and-national-assembly-farce",
+    "date": "1989-11-14",
+    "year": 1989,
+    "month": 11,
+    "day": 14,
+    "displayDate": "1989年11月14日至1990年3月1日",
+    "datePrecision": "day-range",
+    "title": "李敖重查蒋介石总统假戏、秘刊《国大现形记》与三老宣言",
+    "summary": "1989年11月14日至1990年3月1日，李敖写成一组国大和总统合法性短文。《蒋介石的选总统假戏》由刘心皇来信、胡适、王正廷、吴稚晖和陈布雷材料，拆出1948年蒋介石竞选总统的“仙人跳”结构；《秘刊〈蒋介石国大现形记〉经过》说明司马既明秘密交稿、要求生前保密，李敖愿意无条件出版；《蒋介石与“三老宣言”》则把党国内部老人政治纳入同一条法统表演链。此条回挂2005年节目中公布司马既明身份的旧锚。",
+    "source": {
+      "book": "蒋介石的真面目",
+      "chapter": "012.蒋介石的选总统假戏.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/022.蒋介石的真面目/012.蒋介石的选总统假戏.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        13,
+        17,
+        23,
+        29,
+        31
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "蒋介石的真面目",
+        "chapter": "013.秘刊《蒋介石国大现形记》经过.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/022.蒋介石的真面目/013.秘刊《蒋介石国大现形记》经过.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          9,
+          11,
+          13
+        ],
+        "note": "秘刊国大现形记经过，与总统假戏同属法统表演链。"
+      },
+      {
+        "book": "蒋介石的真面目",
+        "chapter": "014.蒋介石与“三老宣言”.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/022.蒋介石的真面目/014.蒋介石与“三老宣言”.txt",
+        "line": 3,
+        "lines": [
+          3,
+          9
+        ],
+        "note": "同组短文，补出三老宣言的党国老人政治。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "蒋介石",
+      "刘心皇",
+      "司马既明",
+      "胡适",
+      "吴稚晖",
+      "陈布雷",
+      "居正",
+      "李宗仁"
+    ],
+    "places": [
+      "南京",
+      "台湾"
+    ],
+    "tags": [
+      "总统选举",
+      "国民大会",
+      "蒋介石国大现形记",
+      "司马既明",
+      "刘心皇",
+      "法统"
+    ],
+    "view": [
+      "写作线",
+      "政治线",
+      "史料线"
+    ],
+    "works": [
+      "蒋介石的选总统假戏",
+      "蒋介石国大现形记",
+      "蒋介石的真面目"
+    ],
+    "crossReferences": [
+      "li-ao-youhua-shuo-382-shows-manuscript-and-book-of-chiang-kai-shek-national-assembly-exposed",
+      "li-ao-youhua-shuo-382-reveals-sima-jiming-as-liu-xinhuang-after-lifetime-promise",
+      "li-ao-youhua-shuo-382-recalls-liu-xinhuang-bringing-secret-manuscript-to-li-ao-press",
+      "li-ao-youhua-shuo-382-writes-secret-publication-preface-on-double-personality",
+      "jiangjieshi-yanjiu-liuji-1983-08-09-to-1984-08-05-reassesses-wu-zhihui-and-wu-shenshu-through-chiang-family"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-zhenmianmu-round001-closeout",
+    "id": "jiangjieshi-zhenmianmu-1990-03-07-to-06-01-frames-three-anti-chiang-publication-notes",
+    "date": "1990-03-07",
+    "year": 1990,
+    "month": 3,
+    "day": 7,
+    "displayDate": "1990年3月7日至6月1日",
+    "datePrecision": "day-range",
+    "title": "李敖为三种反蒋书写前言、小引和出版说明，延续清算蒋介石出版线",
+    "summary": "1990年3月7日至6月1日，李敖写《〈清算蒋介石〉前言》《〈蒋介石与蒋经国——毁灭的种子〉小引》和《〈蒋介石张学良秘闻〉出版说明》。三篇都不是单纯史实重述，而是反蒋出版工程的说明文字：一面把清算蒋介石、蒋经国和张学良秘密材料串入出版链，一面强调这些旧案必须由资料和印本继续揭露。本轮把三篇并为出版说明组，不把张学良或蒋经国旧案另行重造。",
+    "source": {
+      "book": "蒋介石的真面目",
+      "chapter": "015.《清算蒋介石》前言.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/022.蒋介石的真面目/015.《清算蒋介石》前言.txt",
+      "line": 3,
+      "lines": [
+        3,
+        15
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "蒋介石的真面目",
+        "chapter": "016.《蒋介石与蒋经国——毁灭的种子》小引.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/022.蒋介石的真面目/016.《蒋介石与蒋经国——毁灭的种子》小引.txt",
+        "line": 3,
+        "lines": [
+          3,
+          7
+        ],
+        "note": "同组小引，转入蒋氏父子毁灭结构。"
+      },
+      {
+        "book": "蒋介石的真面目",
+        "chapter": "017.《蒋介石张学良秘闻》出版说明.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/022.蒋介石的真面目/017.《蒋介石张学良秘闻》出版说明.txt",
+        "line": 3,
+        "lines": [
+          3,
+          17
+        ],
+        "note": "同组出版说明，接张学良秘闻材料。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "蒋介石",
+      "蒋经国",
+      "张学良"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "tags": [
+      "反蒋出版",
+      "清算蒋介石",
+      "蒋经国",
+      "张学良",
+      "出版说明"
+    ],
+    "view": [
+      "出版线",
+      "写作线",
+      "政治线"
+    ],
+    "works": [
+      "清算蒋介石",
+      "蒋介石与蒋经国——毁灭的种子",
+      "蒋介石张学良秘闻",
+      "蒋介石的真面目"
+    ],
+    "crossReferences": [
+      "zhongguo-xiandaishi-zhenglun-1988-06-27-writes-preface-for-zhang-xueliang-study-sequel",
+      "zhongguo-xiandaishi-zhenglun-1991-03-01-writes-what-zhang-xueliang-hesitated-to-say",
+      "jiangjieshi-yanjiu-xuji-1986-07-23-to-09-08-links-du-family-hostage-and-huaihai-blunder"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-zhenmianmu-round001-closeout",
+    "id": "jiangjieshi-zhenmianmu-1990-09-06-to-09-13-writes-black-cat-and-east-gate-evidence",
+    "date": "1990-09-06",
+    "year": 1990,
+    "month": 9,
+    "day": 6,
+    "displayDate": "1990年9月6日至9月13日",
+    "datePrecision": "day-range",
+    "title": "李敖写黑猫队员和东门古物两篇，追打蒋介石对人命与古迹的支配",
+    "summary": "1990年9月6日至9月13日，李敖写《黑猫队员与黑心蒋介石》和《蒋介石毁损古物》。《黑猫队员》从U-2黑猫中队、叶常棣和张立义被俘后的遭遇，接回蒋介石“被俘即耻辱”的理论，批蒋氏父子把替美国冒险的空军人员推出体制之外；《毁损古物》则从台北东门被改成北方宫殿式城楼，批蒋介石以迷信和权力毁坏古迹。两文同属“蒋政权支配人命与公共物”的证据，不拆成两条短事件。",
+    "source": {
+      "book": "蒋介石的真面目",
+      "chapter": "018.黑猫队员与黑心蒋介石.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/022.蒋介石的真面目/018.黑猫队员与黑心蒋介石.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        17,
+        21,
+        23,
+        29,
+        31,
+        35
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "蒋介石的真面目",
+        "chapter": "019.蒋介石毁损古物.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/022.蒋介石的真面目/019.蒋介石毁损古物.txt",
+        "line": 5,
+        "lines": [
+          5,
+          7,
+          9,
+          11,
+          15
+        ],
+        "note": "同组短文，从台北东门古迹改造批蒋介石毁损古物。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "蒋介石",
+      "蒋经国",
+      "叶常棣",
+      "张立义",
+      "俞大维",
+      "陈诚"
+    ],
+    "places": [
+      "台湾",
+      "大陆",
+      "台北东门",
+      "美国",
+      "香港"
+    ],
+    "tags": [
+      "黑猫中队",
+      "U-2",
+      "被俘观",
+      "东门古迹",
+      "蒋介石毁损古物",
+      "美国中情局"
+    ],
+    "view": [
+      "写作线",
+      "政治线",
+      "史料线"
+    ],
+    "works": [
+      "黑猫队员与黑心蒋介石",
+      "蒋介石毁损古物",
+      "蒋介石的真面目"
+    ],
+    "crossReferences": [
+      "li-ao-youhua-shuo-328-broadcasts-wartime-human-ghost-feelings-and-introduces-u2-black-cat-intelligence-background",
+      "li-ao-youhua-shuo-328-shows-black-cat-pilot-list-and-marks-dead-or-survived-pilots",
+      "li-ao-youhua-shuo-328-says-zhang-liyi-brought-materials-to-his-house-and-told-taiwan-refused-him",
+      "li-ao-youhua-shuo-337-uses-u2-denial-example-to-argue-cia-denial-cannot-prove-document-fake",
+      "jiangjieshi-yanjiu-liuji-1987-10-28-extends-captive-doctrine-to-yijiangshan-survivors"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-zhenmianmu-round001-closeout",
+    "id": "jiangjieshi-zhenmianmu-1990-12-12-writes-changchun-siege-zheng-dongguo-air-fire",
+    "date": "1990-12-12",
+    "year": 1990,
+    "month": 12,
+    "day": 12,
+    "displayDate": "1990年12月12日夜1时10分",
+    "datePrecision": "day",
+    "title": "李敖三小时写成《蒋介石与长春围城》，用郑洞国材料拆“殉职”假新闻",
+    "summary": "1990年12月12日夜1时10分，李敖以三小时写成《蒋介石与长春围城》。文章从丁颍带回的1990年北京合照和1948年《大公报》“郑洞国殉职”剪报切入，对读郑洞国回忆、侍从副官、记者、解放军参谋、廖中符、萧劲光等材料，重建长春围城最后几日：郑洞国并未殉职，而是通过对空鸣枪和“弹尽粮绝”的表演给蒋介石交代。此条单列，因其是本书最长且证据链完整的长春围城研究。",
+    "source": {
+      "book": "蒋介石的真面目",
+      "chapter": "020.蒋介石与长春围城.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/022.蒋介石的真面目/020.蒋介石与长春围城.txt",
+      "line": 5,
+      "lines": [
+        5,
+        7,
+        13,
+        19,
+        23,
+        31,
+        37,
+        43,
+        55,
+        71,
+        81,
+        95,
+        113,
+        145,
+        153,
+        157,
+        159
+      ]
+    },
+    "people": [
+      "李敖",
+      "蒋介石",
+      "郑洞国",
+      "丁颍",
+      "谢聪敏",
+      "萧劲光",
+      "周恩来",
+      "曾泽生",
+      "李鸿"
+    ],
+    "places": [
+      "长春",
+      "北京",
+      "沈阳",
+      "南京",
+      "台湾"
+    ],
+    "tags": [
+      "长春围城",
+      "郑洞国",
+      "殉职假新闻",
+      "对空鸣枪",
+      "投诚",
+      "国民党宣传"
+    ],
+    "view": [
+      "写作线",
+      "政治线",
+      "史料线"
+    ],
+    "works": [
+      "蒋介石与长春围城",
+      "蒋介石的真面目"
+    ],
+    "crossReferences": [
+      "dajiang-dahai-pianle-ni-2010-late-rebuilds-1949-flight-changchun-and-veteran-evidence",
+      "li-ao-zhenglun-zongyiji-111-rebuilds-changchun-siege-through-family-caesar-and-zheng-dongguo",
+      "li-ao-youhua-shuo-383-shows-1948-ta-kung-pao-false-news-on-zheng-dongguo-death",
+      "li-ao-youhua-shuo-383-uses-xiao-jinguang-memoir-to-explain-changchun-surrender-performance",
+      "li-ao-youhua-shuo-383-narrates-zheng-dongguo-firing-into-air-to-cheat-chiang"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-zhenmianmu-round001-closeout",
+    "id": "jiangjieshi-zhenmianmu-1991-04-01-to-04-20-launches-whipping-corpse-and-tibet-chain",
+    "date": "1991-04-01",
+    "year": 1991,
+    "month": 4,
+    "day": 1,
+    "displayDate": "1991年4月1日至4月20日",
+    "datePrecision": "day-range",
+    "title": "李敖在蒋介石忌日前后写“鞭尸”系列，并把西藏独立责任追到蒋介石",
+    "summary": "1991年4月1日至4月20日，李敖写《毋忘鞭尸蒋介石！》《鞭尸蒋介石还待何时！》《鞭尸蒋介石的“黄金葛”》和《谁是支持西藏独立的元凶？》。前三篇把“鞭尸”解释成持续拆穿、清算蒋介石及其守灵者，强调不能因蒋死而中止证据式批判；第四篇则由达赖访美和台湾蒙藏委员会预算切入，追溯蒋介石1945年和1959年关于西藏自决/独立的说法，认为蒋为反共不惜慷祖国领土之慨。此条把忌日清算和西藏论并为1991年4月的反蒋短文簇。",
+    "source": {
+      "book": "蒋介石的真面目",
+      "chapter": "021.毋忘鞭尸蒋介石！.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/022.蒋介石的真面目/021.毋忘鞭尸蒋介石！.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        11,
+        17,
+        25,
+        29,
+        31
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "蒋介石的真面目",
+        "chapter": "022.鞭尸蒋介石还待何时！.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/022.蒋介石的真面目/022.鞭尸蒋介石还待何时！.txt",
+        "line": 3,
+        "lines": [
+          3,
+          11
+        ],
+        "note": "同组鞭尸短文。"
+      },
+      {
+        "book": "蒋介石的真面目",
+        "chapter": "023.鞭尸蒋介石的“黄金葛”.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/022.蒋介石的真面目/023.鞭尸蒋介石的“黄金葛”.txt",
+        "line": 3,
+        "lines": [
+          3,
+          19
+        ],
+        "note": "同组鞭尸短文。"
+      },
+      {
+        "book": "蒋介石的真面目",
+        "chapter": "024.谁是支持西藏独立的元凶？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/022.蒋介石的真面目/024.谁是支持西藏独立的元凶？.txt",
+        "line": 3,
+        "lines": [
+          3,
+          13,
+          17,
+          19,
+          23,
+          35
+        ],
+        "note": "同组西藏独立责任追溯。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "蒋介石",
+      "李登辉",
+      "郝柏村",
+      "连战",
+      "达赖喇嘛",
+      "吴化鹏"
+    ],
+    "places": [
+      "台湾",
+      "西藏",
+      "美国",
+      "外蒙古",
+      "慈湖",
+      "中正纪念堂"
+    ],
+    "tags": [
+      "鞭尸蒋介石",
+      "蒋介石忌日",
+      "西藏独立",
+      "达赖喇嘛",
+      "蒙藏委员会",
+      "反蒋清算"
+    ],
+    "view": [
+      "写作线",
+      "政治线",
+      "两岸线"
+    ],
+    "works": [
+      "毋忘鞭尸蒋介石",
+      "谁是支持西藏独立的元凶？",
+      "蒋介石的真面目"
+    ],
+    "crossReferences": [
+      "li-ao-xiaoao-jianghu-1996-context-episode-063-whipping-corpse-broadcast",
+      "woshi-tiananmen-1991-03-16-seek-truth-on-tibet",
+      "li-ao-youhua-shuo-668-broadcasts-who-supported-tibetan-independence",
+      "li-ao-youhua-shuo-668-recalls-1991-article-naming-chiang-supporting-tibet-independence",
+      "li-ao-youhua-shuo-668-links-chiang-spirit-to-taiwan-rulers-and-dalai-visits"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-zhenmianmu-round001-closeout",
+    "id": "jiangjieshi-zhenmianmu-1991-05-01-to-05-29-writes-chiang-family-death-and-murder-chain",
+    "date": "1991-05-01",
+    "year": 1991,
+    "month": 5,
+    "day": 1,
+    "displayDate": "1991年5月1日至5月29日",
+    "datePrecision": "day-range",
+    "title": "李敖连写蒋家家庭死亡与章亚若案，追问蒋氏父子责任",
+    "summary": "1991年5月1日至5月29日，李敖写《对蒋介石“感恩图报”新解》《蒋纬国的太太被蒋介石赐死》和《蒋介石蒋经国谋杀章亚若属实》。这一组从蒋家内部恩仇、石静宜之死和章亚若被害三条线切入，指出蒋氏父子的政治权力也渗入家庭与情妇关系；尤其在章亚若案中，李敖引用漆高儒承认黄中美谋杀的材料，进一步追问没有蒋经国或蒋介石授意，特务不可能擅杀主子情妇。本轮将蒋纬国太太和章亚若并为一条蒋家死亡链。",
+    "source": {
+      "book": "蒋介石的真面目",
+      "chapter": "025.对蒋介石“感恩图报”新解.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/022.蒋介石的真面目/025.对蒋介石“感恩图报”新解.txt",
+      "line": 3,
+      "lines": [
+        3,
+        17
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "蒋介石的真面目",
+        "chapter": "026.蒋纬国的太太被蒋介石赐死.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/022.蒋介石的真面目/026.蒋纬国的太太被蒋介石赐死.txt",
+        "line": 3,
+        "lines": [
+          3,
+          27
+        ],
+        "note": "同组蒋家家庭死亡短文。"
+      },
+      {
+        "book": "蒋介石的真面目",
+        "chapter": "027.蒋介石蒋经国谋杀章亚若属实.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/022.蒋介石的真面目/027.蒋介石蒋经国谋杀章亚若属实.txt",
+        "line": 3,
+        "lines": [
+          3,
+          11,
+          15,
+          25,
+          31,
+          37,
+          39,
+          41,
+          43
+        ],
+        "note": "同组长文，集中追问章亚若案责任。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "蒋介石",
+      "蒋经国",
+      "蒋纬国",
+      "石静宜",
+      "章亚若",
+      "黄中美",
+      "漆高儒",
+      "陈立夫"
+    ],
+    "places": [
+      "台湾",
+      "桂林",
+      "江西"
+    ],
+    "tags": [
+      "蒋家",
+      "石静宜",
+      "章亚若",
+      "谋杀",
+      "特务",
+      "蒋纬国"
+    ],
+    "view": [
+      "写作线",
+      "政治线",
+      "家族线",
+      "史料线"
+    ],
+    "works": [
+      "蒋介石蒋经国谋杀章亚若属实",
+      "蒋介石的真面目"
+    ],
+    "crossReferences": [
+      "li-ao-xiaoao-jianghu-1991-05-12-qiushi-shi-jingyi-grave-article",
+      "li-ao-youhua-shuo-639-reads-book-claims-about-mother-death-and-wang-sheng",
+      "li-ao-youhua-shuo-639-reasons-aide-cannot-kill-leaders-lover-without-order",
+      "li-ao-youhua-shuo-639-concludes-order-came-from-chiang-chingkuo-or-chiang-kai-shek",
+      "li-ao-youhua-shuo-387-categorizes-bad-faith-after-sex-with-chiang-brothers-and-kang-ninghsiang"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-zhenmianmu-round001-closeout",
+    "id": "jiangjieshi-zhenmianmu-1991-06-07-to-09-03-debates-post-chiang-punishment-and-anti-chiang-history",
+    "date": "1991-06-07",
+    "year": 1991,
+    "month": 6,
+    "day": 7,
+    "displayDate": "1991年6月7日至9月3日",
+    "datePrecision": "day-range",
+    "title": "李敖与潘君密通信讨论蒋伪倒台后清算，并为《反蒋运动史》作序",
+    "summary": "1991年6月7日至9月3日，李敖在《伪政权倒台后的处罚问题》《我们要加速打倒蒋家余孽》《蒋介石秘密批示斗臭彭明敏》和《〈反蒋运动史〉序》中，形成一组现时政治清算文字。前两篇是与潘君密通信，讨论国民党伪政权倒台后如何处理二蒋象征、蒋家财产、走狗奴才和“一国两制”下的蒋家余孽；7月4日短文公布蒋介石秘密批示要整理彭明敏秽行恶迹；9月3日序文则回到1934年《反蒋运动史》，肯定反蒋运动的史料价值，又批其仍落入中心领袖、最高党部和三民主义框架。本轮合并为一条“反蒋清算与运动史”线。",
+    "source": {
+      "book": "蒋介石的真面目",
+      "chapter": "028.伪政权倒台后的处罚问题.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/022.蒋介石的真面目/028.伪政权倒台后的处罚问题.txt",
+      "line": 31,
+      "lines": [
+        31,
+        41,
+        45,
+        49,
+        51,
+        53,
+        55,
+        59,
+        65
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "蒋介石的真面目",
+        "chapter": "029.我们要加速打倒蒋家余孽.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/022.蒋介石的真面目/029.我们要加速打倒蒋家余孽.txt",
+        "line": 7,
+        "lines": [
+          7,
+          9,
+          33,
+          49,
+          51,
+          59,
+          67
+        ],
+        "note": "同组通信，讨论台湾特区、清理蒋伪和政治容忍。"
+      },
+      {
+        "book": "蒋介石的真面目",
+        "chapter": "030.蒋介石秘密批示斗臭彭明敏.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/022.蒋介石的真面目/030.蒋介石秘密批示斗臭彭明敏.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          7,
+          11,
+          29
+        ],
+        "note": "同组短文，公开蒋介石批示斗臭彭明敏材料。"
+      },
+      {
+        "book": "蒋介石的真面目",
+        "chapter": "031.《反蒋运动史》序.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/022.蒋介石的真面目/031.《反蒋运动史》序.txt",
+        "line": 3,
+        "lines": [
+          3,
+          11,
+          15,
+          21,
+          31,
+          45,
+          47
+        ],
+        "note": "同组序文，回到1934年反蒋运动史的评价。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "潘君密",
+      "蒋介石",
+      "蒋经国",
+      "李登辉",
+      "郝柏村",
+      "彭明敏",
+      "胡汉民",
+      "孙中山"
+    ],
+    "places": [
+      "台湾",
+      "北京",
+      "西安",
+      "溪口",
+      "中正纪念堂"
+    ],
+    "tags": [
+      "反蒋清算",
+      "潘君密",
+      "蒋家余孽",
+      "彭明敏",
+      "反蒋运动史",
+      "一国两制"
+    ],
+    "view": [
+      "写作线",
+      "政治线",
+      "两岸线",
+      "史料线"
+    ],
+    "works": [
+      "伪政权倒台后的处罚问题",
+      "我们要加速打倒蒋家余孽",
+      "反蒋运动史",
+      "蒋介石的真面目"
+    ],
+    "crossReferences": [
+      "book5-1991-04-29-peng-letter-us-taiwan-politics",
+      "book5-1991-05-18-peng-letter-on-returning-taiwan",
+      "qianqiu-wansui-1964-context-094-li-huan-tests-peng-declaration-authorship"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-zhenmianmu-round001-closeout",
+    "id": "jiangjieshi-zhenmianmu-1991-11-16-attacks-academia-sinica-modern-history-covering-chiang",
+    "date": "1991-11-16",
+    "year": 1991,
+    "month": 11,
+    "day": 16,
+    "displayDate": "1991年11月16日",
+    "datePrecision": "day",
+    "title": "李敖批中研院近史所所长张玉法曲笔回护蒋介石下野后搬金和干政",
+    "summary": "1991年11月16日，李敖写《中央研究院近代史研究所所长怎样曲笔回护蒋介石》。他从张玉法《中国现代史》关于蒋介石引退、国库资财转移、任命地方军政负责人等说法切入，对读《李宗仁回忆录》、蒋经国日记、《我的父亲》、董显光《蒋总统传》、雷震日记等材料，指出蒋介石下野后仍控制电台、调动顾祝同、运走国库黄金、干预陈仪与汤恩伯等人事。此条单列，因其直接批判官方学术机构和教材如何替蒋介石曲笔。",
+    "source": {
+      "book": "蒋介石的真面目",
+      "chapter": "032.中央研究院近代史研究所所长怎样曲笔回护蒋介石.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/022.蒋介石的真面目/032.中央研究院近代史研究所所长怎样曲笔回护蒋介石.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        11,
+        55,
+        57,
+        75,
+        83,
+        85,
+        105,
+        109,
+        119,
+        127,
+        145,
+        153,
+        165,
+        167,
+        169
+      ]
+    },
+    "people": [
+      "李敖",
+      "蒋介石",
+      "张玉法",
+      "吴大猷",
+      "李宗仁",
+      "蒋经国",
+      "董显光",
+      "顾祝同",
+      "汤恩伯"
+    ],
+    "places": [
+      "中央研究院",
+      "南京",
+      "溪口",
+      "上海",
+      "台湾",
+      "福州"
+    ],
+    "tags": [
+      "中央研究院近代史研究所",
+      "张玉法",
+      "曲笔",
+      "国库黄金",
+      "下野干政",
+      "官方史学"
+    ],
+    "view": [
+      "写作线",
+      "史料线",
+      "政治线"
+    ],
+    "works": [
+      "中国现代史",
+      "中央研究院近代史研究所所长怎样曲笔回护蒋介石",
+      "蒋介石的真面目"
+    ],
+    "crossReferences": [
+      "jiangjieshi-yanjiu-1985-12-19-writes-chiang-and-national-treasury-gold-investigation",
+      "jiangjieshi-yanjiu-xuji-1985-06-07-to-1986-03-03-traces-chiang-retreat-fake-security-and-escape",
+      "li-ao-zhenglun-zongyiji-116-separates-national-and-private-gold-and-calls-chiang-yu-civilians-moving-treasury",
+      "li-ao-youhua-shuo-015-says-chiang-took-gold-to-taiwan-as-new-taiwan-dollar-reserve"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-zhenmianmu-round001-closeout",
+    "id": "jiangjieshi-zhenmianmu-1992-01-03-uses-wang-shijie-diary-for-new-outer-mongolia-evidence",
+    "date": "1992-01-03",
+    "year": 1992,
+    "month": 1,
+    "day": 3,
+    "displayDate": "1992年1月3日",
+    "datePrecision": "day",
+    "title": "李敖用《王世杰日记》新材料重追蒋介石、王世杰签订中苏条约和外蒙古责任",
+    "summary": "1992年1月3日，李敖写成《蒋介石、王世杰卖国的新史料》。文章由《王世杰日记》手稿本出版切入，细读1945年4月至8月中苏谈判、外蒙独立、雅尔塔解释、美国与英国态度、苏联已参战后仍急于订约、8月15日签字以及国民党全体起立通过等细节；又追到王世杰1965年因李敖《蒋廷黻选集》序批其卖国而介意、幕后删序，以及晚年自我辩解。此条单列，作为本书最长的外蒙古/王世杰新史料链。",
+    "source": {
+      "book": "蒋介石的真面目",
+      "chapter": "033.蒋介石、王世杰卖国的新史料.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/022.蒋介石的真面目/033.蒋介石、王世杰卖国的新史料.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        15,
+        23,
+        41,
+        57,
+        61,
+        67,
+        95,
+        115,
+        127,
+        155,
+        185,
+        191,
+        205,
+        215,
+        233,
+        241,
+        281,
+        285,
+        317,
+        323,
+        339,
+        347,
+        379,
+        385,
+        387,
+        389
+      ]
+    },
+    "people": [
+      "李敖",
+      "蒋介石",
+      "王世杰",
+      "宋子文",
+      "斯大林",
+      "杜鲁门",
+      "顾维钧",
+      "蒋经国",
+      "萧孟能"
+    ],
+    "places": [
+      "外蒙古",
+      "莫斯科",
+      "重庆",
+      "东北",
+      "美国",
+      "苏联",
+      "台湾"
+    ],
+    "tags": [
+      "王世杰日记",
+      "外蒙古",
+      "中苏友好同盟条约",
+      "卖国",
+      "蒋廷黻选集",
+      "删序",
+      "雅尔塔"
+    ],
+    "view": [
+      "写作线",
+      "史料线",
+      "政治线",
+      "外交线"
+    ],
+    "works": [
+      "蒋介石、王世杰卖国的新史料",
+      "王世杰日记",
+      "蒋廷黻选集",
+      "蒋介石的真面目"
+    ],
+    "crossReferences": [
+      "jiangjieshi-yanjiu-siji-1982-05-14-to-1985-06-18-builds-outer-mongolia-vote-and-lost-state-chain",
+      "jiangjieshi-yanjiu-wuji-1985-08-24-to-1986-06-15-expands-unequal-treaty-and-sell-country-evidence",
+      "li-ao-youhua-shuo-091-broadcasts-chiang-sold-outer-mongolia-inside-story",
+      "li-ao-youhua-shuo-091-uses-truman-and-ku-wei-chun-evidence-on-unnecessary-concessions",
+      "li-ao-youhua-shuo-091-recalls-wang-shijie-diary-hatred-after-jiang-tingfu-preface",
+      "li-ao-youhua-shuo-402-explains-wang-shijie-and-chiang-both-responsible-for-outer-mongolia"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-zhenmianmu-round001-closeout",
+    "id": "jiangjieshi-zhenmianmu-1985-09-06-writes-madame-chiang-cut-sleeve-photo-study",
+    "date": "1985-09-06",
+    "year": 1985,
+    "month": 9,
+    "day": 6,
+    "displayDate": "1985年9月6日",
+    "datePrecision": "day",
+    "title": "李敖写《蒋夫人断袖记》，以陈洁如照片变造拆蒋家婚姻谱系",
+    "summary": "1985年9月6日，李敖写《蒋夫人断袖记》。文章从江南《一个蒋夫人的悲剧》谈陈洁如开始，扩展到毛福梅、姚冶诚、陈洁如、宋美龄和蒋纬国生母等蒋家谱系问题；重点则落在国民党如何在照片和年表上动手脚，把陈洁如从北伐前夕合照中抹去、把蒋纬国吊到宋美龄名下，并用新闻局、党史会画册不同版本比对“断袖”线索。此条单列，因它是本书后半宋美龄/蒋家婚姻组的核心图像考证。",
+    "source": {
+      "book": "蒋介石的真面目",
+      "chapter": "034.蒋夫人断袖记.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/022.蒋介石的真面目/034.蒋夫人断袖记.txt",
+      "line": 5,
+      "lines": [
+        5,
+        11,
+        17,
+        25,
+        43,
+        61,
+        77,
+        89,
+        99,
+        121,
+        157,
+        171,
+        181,
+        203,
+        217,
+        221,
+        223,
+        245,
+        247
+      ]
+    },
+    "people": [
+      "李敖",
+      "蒋介石",
+      "宋美龄",
+      "陈洁如",
+      "毛福梅",
+      "姚冶诚",
+      "蒋纬国",
+      "蒋经国",
+      "吴稚晖",
+      "江南"
+    ],
+    "places": [
+      "广州",
+      "上海",
+      "溪口",
+      "香港",
+      "台湾"
+    ],
+    "tags": [
+      "蒋夫人断袖记",
+      "陈洁如",
+      "照片变造",
+      "宋美龄",
+      "蒋纬国",
+      "蒋家谱系"
+    ],
+    "view": [
+      "写作线",
+      "史料线",
+      "家族线",
+      "政治线"
+    ],
+    "works": [
+      "蒋夫人断袖记",
+      "蒋介石的真面目"
+    ],
+    "crossReferences": [
+      "li-ao-youhua-shuo-437-states-habit-of-finding-original-photos",
+      "li-ao-youhua-shuo-437-compares-chiang-and-kmt-altered-photos",
+      "li-ao-xiaoao-jianghu-1996-context-episode-080-chiang-weiguo-memoir-two-broadcast",
+      "li-ao-youhua-shuo-640-concludes-chiang-ruled-through-free-loyal-dogs-like-wu-zhihui"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "jiangjieshi-zhenmianmu-round001-closeout",
+    "id": "jiangjieshi-zhenmianmu-1988-09-14-to-1991-11-19-writes-soong-meiling-affair-and-us-visit-chain",
+    "date": "1988-09-14",
+    "year": 1988,
+    "month": 9,
+    "day": 14,
+    "displayDate": "1988年9月14日至1991年11月19日",
+    "datePrecision": "day-range",
+    "title": "李敖连写宋美龄通奸、致词、自由时报辩驳和赴美出洋相材料",
+    "summary": "1988年9月14日至1991年11月19日，李敖写成一组宋美龄文字：《宋美龄和谁通奸？》追查威尔基旧事，《我对宋美龄致词的疑问》质疑故宫致词，《为宋美龄事质问〈自由时报〉》和《再质问》则要求《自由时报》不得把他的话改成奉承宋美龄，最后《宋美龄出洋相》用董显光、顾维钧材料重建1948年宋美龄赴美求援失败、外交体制失序和在华盛顿受冷遇的经过。本轮把这些合并为宋美龄组，回挂节目中重谈蒋宋婚照、威尔基和宋美龄外交形象的旧锚。",
+    "source": {
+      "book": "蒋介石的真面目",
+      "chapter": "035.宋美龄和谁通奸？.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/022.蒋介石的真面目/035.宋美龄和谁通奸？.txt",
+      "line": 3,
+      "lines": [
+        3,
+        49
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "蒋介石的真面目",
+        "chapter": "036.我对宋美龄致词的疑问.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/022.蒋介石的真面目/036.我对宋美龄致词的疑问.txt",
+        "line": 3,
+        "lines": [
+          3,
+          17
+        ],
+        "note": "同组短文，质疑宋美龄致词。"
+      },
+      {
+        "book": "蒋介石的真面目",
+        "chapter": "037.为宋美龄事质问《自由时报》.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/022.蒋介石的真面目/037.为宋美龄事质问《自由时报》.txt",
+        "line": 3,
+        "lines": [
+          3,
+          23
+        ],
+        "note": "同组辩驳，要求自由时报更正。"
+      },
+      {
+        "book": "蒋介石的真面目",
+        "chapter": "038.为宋美龄事再质问《自由时报》.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/022.蒋介石的真面目/038.为宋美龄事再质问《自由时报》.txt",
+        "line": 5,
+        "lines": [
+          5,
+          7,
+          9,
+          13,
+          15
+        ],
+        "note": "同组再辩驳，反击老包和自由时报。"
+      },
+      {
+        "book": "蒋介石的真面目",
+        "chapter": "039.宋美龄出洋相.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/022.蒋介石的真面目/039.宋美龄出洋相.txt",
+        "line": 3,
+        "lines": [
+          3,
+          17,
+          21,
+          25,
+          33,
+          37,
+          45,
+          51,
+          73,
+          81,
+          93,
+          95,
+          105,
+          107,
+          109
+        ],
+        "note": "同组长文，重建宋美龄1948年赴美求援失败。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "宋美龄",
+      "蒋介石",
+      "顾维钧",
+      "董显光",
+      "威尔基",
+      "杜鲁门",
+      "马歇尔",
+      "王世杰",
+      "老包"
+    ],
+    "places": [
+      "台湾",
+      "美国",
+      "华盛顿",
+      "南京",
+      "自由时报"
+    ],
+    "tags": [
+      "宋美龄",
+      "通奸",
+      "威尔基",
+      "自由时报",
+      "赴美求援",
+      "顾维钧回忆录"
+    ],
+    "view": [
+      "写作线",
+      "史料线",
+      "政治线",
+      "媒体线"
+    ],
+    "works": [
+      "宋美龄和谁通奸？",
+      "宋美龄出洋相",
+      "蒋介石的真面目"
+    ],
+    "crossReferences": [
+      "li-ao-youhua-shuo-107-shows-chiang-soong-photos-and-willkie-materials",
+      "li-ao-youhua-shuo-107-explains-why-exposing-soong-affair-matters",
+      "li-ao-fangdianji-008-answers-jeffrey-with-cowles-evidence-on-soong-meiling-willkie-story",
+      "qiushi-xinyu-1991-07-21-soong-may-ling-english-speech",
+      "shilun-xinyu-1989-10-28-no-time-to-hug-beauties"
+    ]
+  }
+]
