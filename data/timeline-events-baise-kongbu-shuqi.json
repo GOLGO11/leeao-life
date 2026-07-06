@@ -1,0 +1,881 @@
+[
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-06-baise-kongbu-shuqi-round001-001-028-closeout",
+    "id": "baise-kongbu-shuqi-1995-08-24-writes-gu-zhengwen-white-terror-preface",
+    "date": "1995-08-24",
+    "year": 1995,
+    "month": 8,
+    "day": 24,
+    "displayDate": "1995年8月24日",
+    "datePrecision": "day",
+    "title": "李敖为谷正文《白色恐怖》写序，借国特回忆补强白色恐怖证据链",
+    "summary": "《谷正文〈白色恐怖〉序》署日1995年8月24日。李敖说谷正文留下回忆录样本，请他“贬而序之”，他遂从谷正文的聪明、狠毒、不悔改以及晚年揭发蒋介石旧事写起，特别点出谷正文曾连夜把安全局机密《历年办理匪案汇编》交给他，使他得以发表并据此追查“奸匪李登辉”等官方记录。本条只收本书中新写的谷正文回忆录序，不重复《李登辉的真面目》《李敖书序集》中已经处理的匪案汇编出版与李登辉证据笔战。",
+    "source": {
+      "book": "白色恐怖述奇",
+      "chapter": "002.谷正文《白色恐怖》序.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/005.白色恐怖述奇/002.谷正文《白色恐怖》序.txt",
+      "line": 3,
+      "lines": [
+        3,
+        45
+      ]
+    },
+    "people": [
+      "李敖",
+      "谷正文",
+      "李登辉",
+      "蒋介石",
+      "李友邦",
+      "毛人凤"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "白色恐怖述奇",
+      "白色恐怖",
+      "历年办理匪案汇编",
+      "李登辉的真面目"
+    ],
+    "tags": [
+      "白色恐怖述奇",
+      "谷正文",
+      "白色恐怖",
+      "历年办理匪案汇编",
+      "李登辉",
+      "序文"
+    ],
+    "view": [
+      "写作线",
+      "政治线",
+      "台湾史政线",
+      "出版线"
+    ],
+    "crossReferences": [
+      "lidenghui-zhenmianmu-1988-09-17-to-11-07-wuya-ccp-evidence-debate-with-gu",
+      "lidenghui-zhenmianmu-1990-03-09-writes-against-arrest-of-gu-zhengwen",
+      "li-ao-shuxuji-1991-11-12-writes-preface-to-linian-banli-feian-huibian-and-protects-source",
+      "tiaozhan-li-ao-2000-02-16-recalls-gu-zhengwen-gave-secret-bandit-case-compilation"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-06-baise-kongbu-shuqi-round001-001-028-closeout",
+    "id": "baise-kongbu-shuqi-1996-06-08-frames-white-terror-fake-communist-cases",
+    "date": "1996-06-08",
+    "year": 1996,
+    "month": 6,
+    "day": 8,
+    "displayDate": "1996年6月8日",
+    "datePrecision": "day",
+    "title": "李敖写《“白色恐怖”的一些特色》，以假共产党案和国安法第九条总括白色恐怖",
+    "summary": "《“白色恐怖”的一些特色》署日1996年6月8日。李敖从蒋介石“把共产党杀光论”写到台湾1949年后的政治案件，引用自己1972年3月在景美军法看守所放风时听范子文所说“真的共产党国民党根本抓不到，抓到的都是假的”，再归纳政治案件两万九千四百零七件、硬性“缴匪谍”业绩、特务奖金和假案连坐机制。文章最后转向解严后的救济困局，批评国安法第九条堵死戒严时代军事审判的上诉和平反通道。本条作为本书总论，不把文中瞿秋白、宋希濂、华沙事件等历史例证拆为李敖生平事件。",
+    "source": {
+      "book": "白色恐怖述奇",
+      "chapter": "001.“白色恐怖”的一些特色.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/005.白色恐怖述奇/001.“白色恐怖”的一些特色.txt",
+      "line": 41,
+      "lines": [
+        41,
+        51
+      ]
+    },
+    "people": [
+      "李敖",
+      "蒋介石",
+      "范子文",
+      "李登辉",
+      "瞿秋白",
+      "宋希濂"
+    ],
+    "places": [
+      "台湾",
+      "景美军法看守所"
+    ],
+    "works": [
+      "白色恐怖述奇",
+      "“白色恐怖”的一些特色"
+    ],
+    "tags": [
+      "白色恐怖述奇",
+      "白色恐怖",
+      "政治犯",
+      "假案",
+      "范子文",
+      "国家安全法第九条"
+    ],
+    "view": [
+      "思想线",
+      "写作线",
+      "政治线",
+      "台湾史政线",
+      "牢狱线"
+    ],
+    "crossReferences": [
+      "qianqiu-wansui-1972-context-095-shares-cell-with-okazeng",
+      "book4-1972-03-10-first-sentence-ten-years",
+      "li-ao-youhua-shuo-413-reads-li-shijie-and-han-daliang-national-spy-logic"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-06-baise-kongbu-shuqi-round001-001-028-closeout",
+    "id": "baise-kongbu-shuqi-1991-07-06-writes-wuhan-hotel-wrongful-case-and-publishes-wang-aiyun",
+    "date": "1991-07-06",
+    "year": 1991,
+    "month": 7,
+    "day": 6,
+    "displayDate": "1991年7月6日午",
+    "datePrecision": "day",
+    "title": "李敖写武汉大旅社冤案长文，并把王蔼云补充材料交《求是报》发表",
+    "summary": "《从吕有文混蛋看武汉大旅社冤案》署日1991年7月6日午。李敖先追述姚嘉荐命案从1959年到1976年定谳的冤案脉络，再说明被告出狱后，游全球于1983年10月12日写信请他“仗义协助”；李敖约来黄怡，分头为他们喊冤。到了1991年吕有文谈“法律漏洞”时，李敖又电请游全球等补资料，经王蔼云送来《狡猾的法律漏洞论者吕有文》一文，交《求是报》发表，并写本文追述始末。本条补入1991年写作和《求是报》发表动作，旧库中2009年节目版武汉案只作交叉引用。",
+    "source": {
+      "book": "白色恐怖述奇",
+      "chapter": "003.从吕有文浑蛋看武汉大旅社冤案.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/005.白色恐怖述奇/003.从吕有文浑蛋看武汉大旅社冤案.txt",
+      "line": 3,
+      "lines": [
+        3,
+        83
+      ]
+    },
+    "people": [
+      "李敖",
+      "游全球",
+      "黄怡",
+      "王蔼云",
+      "吕有文",
+      "姚嘉荐",
+      "陈华洲",
+      "林祖簪"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "武汉大旅社"
+    ],
+    "works": [
+      "白色恐怖述奇",
+      "从吕有文混蛋看武汉大旅社冤案",
+      "狡猾的法律漏洞论者吕有文",
+      "求是报"
+    ],
+    "tags": [
+      "白色恐怖述奇",
+      "武汉大旅社案",
+      "吕有文",
+      "王蔼云",
+      "黄怡",
+      "求是报",
+      "冤案"
+    ],
+    "view": [
+      "写作线",
+      "司法线",
+      "政治线",
+      "台湾史政线"
+    ],
+    "crossReferences": [
+      "li-ao-yumiao-tianxia-070-recounts-wuhan-hotel-false-confession",
+      "li-ao-yumiao-tianxia-070-credits-huang-yi-for-wuhan-investigation"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-06-baise-kongbu-shuqi-round001-001-028-closeout",
+    "id": "baise-kongbu-shuqi-1985-09-25-to-1990-08-12-writes-political-prisoner-memory-and-li-shijie-memorial",
+    "date": "1985-09-25",
+    "endDate": "1990-08-12",
+    "year": 1985,
+    "month": 9,
+    "day": 25,
+    "displayDate": "1985年9月25日至1990年8月12日",
+    "datePrecision": "date-range",
+    "title": "李敖合写魏廷朝、林松鹤和李世杰受难记忆，压缩成政治犯友人追述组",
+    "summary": "004至006合并为政治犯友人记忆组。1985年9月25日夜，李敖在《“太轻了，不算！”》中回忆魏廷朝第一次出狱后，由彭明敏安排会面，他追问刑求情形，魏廷朝却把被打掉牙说成“太轻了，不算”；1986年9月7日《律师的脚趾甲》以林松鹤被拔脚趾甲对照美丽岛案律师的政治风险；1990年8月12日《为李世杰先生安息礼拜追述生平》则应李世杰家属请求，代替牧师追述李世杰从调查局副处长变成“匪谍”、受刑求、两度死刑、长期关押和出狱后由李敖推动写作出版的经历。本条按人物记忆合并，不重复李世杰写作计划、魏廷朝出狱和捐款等旧事件。",
+    "source": {
+      "book": "白色恐怖述奇",
+      "chapter": "006.“太轻了，不算！”.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/005.白色恐怖述奇/006.“太轻了，不算！”.txt",
+      "line": 3,
+      "lines": [
+        3,
+        25
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "白色恐怖述奇",
+        "chapter": "004.律师的脚趾甲.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/005.白色恐怖述奇/004.律师的脚趾甲.txt",
+        "line": 13,
+        "lines": [
+          13,
+          19
+        ],
+        "note": "补出1986年9月7日李敖以林松鹤脚趾甲受刑，对照美丽岛案律师风险的短文。"
+      },
+      {
+        "book": "白色恐怖述奇",
+        "chapter": "005.为李世杰先生安息礼拜追述生平.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/005.白色恐怖述奇/005.为李世杰先生安息礼拜追述生平.txt",
+        "line": 13,
+        "lines": [
+          13,
+          21
+        ],
+        "note": "补出1990年8月12日李敖应李世杰家属请求，为安息礼拜追述其政治冤案与出狱后写作。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "魏廷朝",
+      "彭明敏",
+      "林松鹤",
+      "李世杰",
+      "尤清",
+      "曹子勤"
+    ],
+    "places": [
+      "台湾",
+      "景美军法看守所",
+      "绿岛"
+    ],
+    "works": [
+      "白色恐怖述奇",
+      "太轻了，不算！",
+      "律师的脚趾甲",
+      "为李世杰先生安息礼拜追述生平",
+      "调查局研究",
+      "调查局黑牢345天",
+      "军法看守所九年"
+    ],
+    "tags": [
+      "白色恐怖述奇",
+      "政治犯",
+      "魏廷朝",
+      "林松鹤",
+      "李世杰",
+      "刑求",
+      "安息礼拜"
+    ],
+    "view": [
+      "写作线",
+      "交游线",
+      "牢狱线",
+      "政治线",
+      "台湾史政线"
+    ],
+    "crossReferences": [
+      "daxue-houqi-yi-1959-05-06-ugly-men-club-and-meets-wei-tingchao-at-ma-home",
+      "lengyan-kan-taiwan-1987-06-04-writes-reflections-on-huang-xinjie-zhang-junhong-wei-tingchao-and-huang-hua-release",
+      "li-ao-fadianji-021-donates-ten-thousand-usd-after-wei-tingchao-death",
+      "book5-1986-06-25-contact-li-shijie-writing-plan",
+      "book5-1986-09-30-li-shijie-series-begins",
+      "li-ao-wuwu-diary-1990-07-29-hears-li-shijie-death-and-calls-xuyi",
+      "li-ao-shuxuji-1988-09-08-writes-preface-to-diaochaju-yanjiu-for-li-shijie"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-06-baise-kongbu-shuqi-round001-001-028-closeout",
+    "id": "baise-kongbu-shuqi-1988-11-13-writes-frontmatter-to-li-zhengyi-prison-memoir",
+    "date": "1988-11-13",
+    "year": 1988,
+    "month": 11,
+    "day": 13,
+    "displayDate": "1988年11月13日",
+    "datePrecision": "day",
+    "title": "李敖写在李政一狱中回忆前面，公开爆炸案同案冤狱与刑讯材料",
+    "summary": "《写在李政一狱中回忆的前面》署日1988年11月13日。李敖从谢聪敏回台、彭明敏可能返乡写起，追忆自己1971年被捕后与李政一、刘辰旦、吴忠信、郭荣文、詹重雄等被牵入台南美国新闻处与台北美国商业银行爆炸案的经历。他摘录李政一在狱中秘密传给他的字条，说明案情如何被编造、刑求逼供如何制造自白和现场表演，并补述1976年仁爱庄相处、临出狱送《唐诗宋词选》给李政一、多年后仍未再见。本条收李敖为李政一回忆所作前言及公开材料的动作；长篇附录中的刑讯细节不逐段拆分。",
+    "source": {
+      "book": "白色恐怖述奇",
+      "chapter": "007.写在李政一狱中回忆的前面.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/005.白色恐怖述奇/007.写在李政一狱中回忆的前面.txt",
+      "line": 3,
+      "lines": [
+        3,
+        53
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "白色恐怖述奇",
+        "chapter": "007.写在李政一狱中回忆的前面.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/005.白色恐怖述奇/007.写在李政一狱中回忆的前面.txt",
+        "line": 59,
+        "lines": [
+          59,
+          389
+        ],
+        "note": "补入李政一狱中回忆正文，集中呈现爆炸案栽赃、刑求和出狱政治犯处境。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "李政一",
+      "谢聪敏",
+      "魏廷朝",
+      "彭明敏",
+      "刘辰旦",
+      "吴忠信",
+      "郭荣文",
+      "詹重雄",
+      "吴彰炯"
+    ],
+    "places": [
+      "台湾",
+      "台南",
+      "台北",
+      "景美军法看守所",
+      "仁爱庄"
+    ],
+    "works": [
+      "白色恐怖述奇",
+      "写在李政一狱中回忆的前面",
+      "唐诗宋词选"
+    ],
+    "tags": [
+      "白色恐怖述奇",
+      "李政一",
+      "爆炸案",
+      "刑求",
+      "政治犯",
+      "狱中字条",
+      "仁爱庄"
+    ],
+    "view": [
+      "写作线",
+      "牢狱线",
+      "司法线",
+      "交游线",
+      "台湾史政线"
+    ],
+    "crossReferences": [
+      "book2-1987-07-17-letter-to-li-zhengyi",
+      "li-ao-shuduji-1987-07-16-appeals-after-martial-law-lift",
+      "book2-1987-07-14-liu-chendan-essay-written",
+      "book5-1972-04-25-hsieh-letter-nyt",
+      "li-ao-lun-renwu-1987-07-14-to-1991-04-05-collects-prison-friends-and-martyr-memorial-essays"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-06-baise-kongbu-shuqi-round001-001-028-closeout",
+    "id": "baise-kongbu-shuqi-1982-02-20-to-1991-07-23-writes-forced-repentance-and-detention-abuse-essays",
+    "date": "1982-02-20",
+    "endDate": "1991-07-23",
+    "year": 1982,
+    "month": 2,
+    "day": 20,
+    "displayDate": "1982年2月20日至1991年7月23日",
+    "datePrecision": "date-range",
+    "title": "李敖把强制悔过、腹诽、党报造谣与绑担架合成监狱文化批判组",
+    "summary": "008至015合并为监狱文化短论组。李敖从1982年2月20日《党报造谣的一个例》、2月21日《绑担架比较学》和2月23日《从禁止随地小便到随地禁止小便》写起，用土城看守所会客室、绑担架酷刑和司法大厦拘留所来反驳朱光军、李元簇等人的遮掩；1983年2月10日《李元簇少说了什么？》、3月12日《生还者哀歌》与1984年3月3日《“感谢政府德政”》又把政治犯被迫感谢政府、坐牢被视作光荣和古代“德政”考证相连；1984年4月20日《新腹诽罪！》用傅积宽不喊“蒋总统万岁”入狱作例；1991年7月23日《国民党的强制悔过症》再以李敖1976年无保释放和陈独秀拒写悔过书收束。本条压缩多篇短文，只收李敖持续书写的狱政/政治文化论述。",
+    "source": {
+      "book": "白色恐怖述奇",
+      "chapter": "013.党报造谣的一个例.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/005.白色恐怖述奇/013.党报造谣的一个例.txt",
+      "line": 3,
+      "lines": [
+        3,
+        23
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "白色恐怖述奇",
+        "chapter": "014.绑担架比较学.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/005.白色恐怖述奇/014.绑担架比较学.txt",
+        "line": 17,
+        "lines": [
+          17,
+          23
+        ],
+        "note": "补出1982年2月21日李敖以明清圈禁、匣床、夹床比较台北看守所绑担架酷刑。"
+      },
+      {
+        "book": "白色恐怖述奇",
+        "chapter": "015.从禁止随地小便到随地禁止小便.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/005.白色恐怖述奇/015.从禁止随地小便到随地禁止小便.txt",
+        "line": 3,
+        "lines": [
+          3,
+          31
+        ],
+        "note": "补出1982年2月23日李敖批评司法大厦拘留所与法警殴打人犯。"
+      },
+      {
+        "book": "白色恐怖述奇",
+        "chapter": "012.李元簇少说了什么？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/005.白色恐怖述奇/012.李元簇少说了什么？.txt",
+        "line": 3,
+        "lines": [
+          3,
+          15
+        ],
+        "note": "补出1983年2月10日李敖借曾祥铎文章反问李元簇为何人民以受刑为光荣。"
+      },
+      {
+        "book": "白色恐怖述奇",
+        "chapter": "010.生还者哀歌.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/005.白色恐怖述奇/010.生还者哀歌.txt",
+        "line": 3,
+        "lines": [
+          3,
+          53
+        ],
+        "note": "补出1983年3月12日李敖十分钟作诗，反讽绿岛囚犯被关三十三年后还要感谢政府德政。"
+      },
+      {
+        "book": "白色恐怖述奇",
+        "chapter": "011.“感谢政府德政”.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/005.白色恐怖述奇/011.“感谢政府德政”.txt",
+        "line": 7,
+        "lines": [
+          7,
+          31
+        ],
+        "note": "补出1984年3月3日李敖以崔寔、汉文帝刑制考证反讽统治者德政。"
+      },
+      {
+        "book": "白色恐怖述奇",
+        "chapter": "009.新腹诽罪.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/005.白色恐怖述奇/009.新腹诽罪.txt",
+        "line": 5,
+        "lines": [
+          5,
+          21
+        ],
+        "note": "补出1984年4月20日李敖用傅积宽不喊“蒋总统万岁”被抓入狱，讽刺国民党新腹诽罪。"
+      },
+      {
+        "book": "白色恐怖述奇",
+        "chapter": "008.国民党的强制悔过症.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/005.白色恐怖述奇/008.国民党的强制悔过症.txt",
+        "line": 3,
+        "lines": [
+          3,
+          29
+        ],
+        "note": "补出1991年7月23日李敖以自己1976年无保释放和陈独秀拒写悔过书，批评国民党强制悔过症。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "李元簇",
+      "朱光军",
+      "陈独秀",
+      "傅积宽",
+      "林松鹤",
+      "曾祥铎",
+      "张汤"
+    ],
+    "places": [
+      "台湾",
+      "台北看守所",
+      "司法大厦",
+      "绿岛"
+    ],
+    "works": [
+      "白色恐怖述奇",
+      "监狱学土城？",
+      "国民党的强制悔过症",
+      "绑担架比较学",
+      "新腹诽罪！",
+      "生还者哀歌"
+    ],
+    "tags": [
+      "白色恐怖述奇",
+      "监狱学土城",
+      "绑担架",
+      "强制悔过",
+      "李元簇",
+      "朱光军",
+      "感谢政府德政",
+      "腹诽罪"
+    ],
+    "view": [
+      "写作线",
+      "司法线",
+      "牢狱线",
+      "政治线",
+      "台湾史政线"
+    ],
+    "crossReferences": [
+      "book2-broad-1984-08-10-letter-to-zhu-guangjun",
+      "book2-1981-07-31-li-congming-dies",
+      "book2-evidence-1982-01-14-zhang-quan-dies",
+      "li-ao-shuxinji-1984-09-20-writes-shih-chiyang-zheng-wenliang-lai-wenliang"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-06-baise-kongbu-shuqi-round001-001-028-closeout",
+    "id": "baise-kongbu-shuqi-1982-02-23-to-1989-05-21-writes-prison-death-hearing-and-medical-abuse-essays",
+    "date": "1982-02-23",
+    "endDate": "1989-05-21",
+    "year": 1982,
+    "month": 2,
+    "day": 23,
+    "displayDate": "1982年2月23日至1989年5月21日",
+    "datePrecision": "date-range",
+    "title": "李敖从张权暴毙、狱政会议到看病代表，连续追击李元簇系统的监所黑幕",
+    "summary": "016至024合并为监所死亡与调查机制组。1982年2月23日《张权暴毙疑云》把张权、李聪明、毛松枫、林志新等看守所死亡并列，追问是否被打死或医疗延误拖死；3月23日《从“迟到的自由刑”到“逝去的自由监”》、4月12日《谁来调查？怎样调查？》和8月9日《先认错，再开会》则从自由刑、病囚处置、公开听证、狱政会议和官方作秀反复追问李元簇；1983年5月5日《彻查你自己吧！》继续批评台中看守所越狱后的形式防范；1984年5月17日《为老子名言举活证》、1989年5月21日《看病还要派代表！》再以超额收容和看病代表制度补证；1991年4月19日两篇赖文良/施启扬短文则把赖文良暴毙和李聪明旧案并入同一条追责链。本条按狱政黑幕合并，避免把每个死亡和暴动事件都拆成新事件。",
+    "source": {
+      "book": "白色恐怖述奇",
+      "chapter": "016.张权暴毙疑云.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/005.白色恐怖述奇/016.张权暴毙疑云.txt",
+      "line": 3,
+      "lines": [
+        3,
+        195
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "白色恐怖述奇",
+        "chapter": "017.从“迟到的自由刑”到“逝去的自由监”.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/005.白色恐怖述奇/017.从“迟到的自由刑”到“逝去的自由监”.txt",
+        "line": 5,
+        "lines": [
+          5,
+          23
+        ],
+        "note": "补出1982年3月23日李敖以古今狱政比较张权、林志新等死于押房而非病舍的问题。"
+      },
+      {
+        "book": "白色恐怖述奇",
+        "chapter": "018.谁来调查？怎样调查？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/005.白色恐怖述奇/018.谁来调查？怎样调查？.txt",
+        "line": 3,
+        "lines": [
+          3,
+          23
+        ],
+        "note": "补出1982年4月12日李敖要求第三者公开听证，而非法务部系统自查。"
+      },
+      {
+        "book": "白色恐怖述奇",
+        "chapter": "019.先认错，再开会.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/005.白色恐怖述奇/019.先认错，再开会.txt",
+        "line": 3,
+        "lines": [
+          3,
+          107
+        ],
+        "note": "补出1982年8月9日李敖汇总监狱暴动、越狱、作秀和官官相护，要求先认错再开狱政会议。"
+      },
+      {
+        "book": "白色恐怖述奇",
+        "chapter": "020.彻查你自己吧！.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/005.白色恐怖述奇/020.彻查你自己吧！.txt",
+        "line": 5,
+        "lines": [
+          5,
+          111
+        ],
+        "note": "补出1983年5月5日李敖借台中看守所重刑犯越狱，批评李元簇形式防范和违法脚镣。"
+      },
+      {
+        "book": "白色恐怖述奇",
+        "chapter": "021.为老子名言举活证.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/005.白色恐怖述奇/021.为老子名言举活证.txt",
+        "line": 21,
+        "lines": [
+          21,
+          45
+        ],
+        "note": "补出1984年5月17日李敖以台湾监所超额收容和囚犯处遇标准，给老子“民不畏死”举活证。"
+      },
+      {
+        "book": "白色恐怖述奇",
+        "chapter": "022.看病还要派代表！.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/005.白色恐怖述奇/022.看病还要派代表！.txt",
+        "line": 11,
+        "lines": [
+          11,
+          13
+        ],
+        "note": "补出1989年5月21日李敖批评台北看守所看病代表、医师不足与李世杰绿岛看病排队。"
+      },
+      {
+        "book": "白色恐怖述奇",
+        "chapter": "023.赃物嫌犯赖文良暴毙案家属索赔.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/005.白色恐怖述奇/023.赃物嫌犯赖文良暴毙案家属索赔.txt",
+        "line": 3,
+        "lines": [
+          3,
+          7
+        ],
+        "note": "补出1991年4月19日李敖重述赖文良暴毙案家属索赔。"
+      },
+      {
+        "book": "白色恐怖述奇",
+        "chapter": "024.施启扬丧尽天良.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/005.白色恐怖述奇/024.施启扬丧尽天良.txt",
+        "line": 3,
+        "lines": [
+          3,
+          21
+        ],
+        "note": "补出1991年4月19日李敖重述1984年9月20日致施启扬信，追问赖文良与李聪明案。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "李元簇",
+      "朱光军",
+      "张权",
+      "林文吉",
+      "李聪明",
+      "毛松枫",
+      "林志新",
+      "赖文良",
+      "施启扬",
+      "郑文良"
+    ],
+    "places": [
+      "台湾",
+      "台北看守所",
+      "土城看守所",
+      "台中看守所",
+      "桃园",
+      "绿岛"
+    ],
+    "works": [
+      "白色恐怖述奇",
+      "监狱学土城？",
+      "张权暴毙疑云",
+      "先认错，再开会",
+      "彻查你自己吧！",
+      "看病还要派代表！"
+    ],
+    "tags": [
+      "白色恐怖述奇",
+      "监狱学土城",
+      "张权",
+      "赖文良",
+      "李元簇",
+      "施启扬",
+      "狱政会议",
+      "公开听证",
+      "看病代表"
+    ],
+    "view": [
+      "写作线",
+      "司法线",
+      "牢狱线",
+      "政治线",
+      "台湾史政线"
+    ],
+    "crossReferences": [
+      "book2-evidence-1982-01-14-zhang-quan-dies",
+      "book2-1981-07-31-li-congming-dies",
+      "book2-evidence-1981-09-28-mao-songfeng-dies",
+      "li-ao-shuxinji-1984-09-20-writes-shih-chiyang-zheng-wenliang-lai-wenliang"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-06-baise-kongbu-shuqi-round001-001-028-closeout",
+    "id": "baise-kongbu-shuqi-1991-04-10-publishes-shu-jiadong-peng-mengji-kidnapping-complaint",
+    "date": "1991-04-10",
+    "year": 1991,
+    "month": 4,
+    "day": 10,
+    "displayDate": "1991年4月10日",
+    "datePrecision": "day",
+    "title": "李敖在《求是报》刊出舒家栋材料，追查彭孟缉绑票旧案",
+    "summary": "《彭孟缉与舒家栋案》《华侨掀出彭孟缉绑票旧案》均署日1991年4月10日。《求是报》取得华侨舒家栋投诉和证据后，李敖以彭孟缉长期制造冤案、假案、错案的背景开篇，摘录舒家栋自述1968年在西贡被国民党便衣特务持枪绑架、押回台湾、关押兰屿，以及后来出境、返台受阻、自杀抗议等经历；又说明《求是报》请舒家栋撰写自述，刊于4月12日“声讨黑暗”版。本条作为本书中新见的舒家栋/彭孟缉材料入库。",
+    "source": {
+      "book": "白色恐怖述奇",
+      "chapter": "025.彭孟缉与舒家栋案.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/005.白色恐怖述奇/025.彭孟缉与舒家栋案.txt",
+      "line": 3,
+      "lines": [
+        3,
+        43
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "白色恐怖述奇",
+        "chapter": "026.华侨掀出彭孟缉绑票旧案.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/005.白色恐怖述奇/026.华侨掀出彭孟缉绑票旧案.txt",
+        "line": 3,
+        "lines": [
+          3,
+          43
+        ],
+        "note": "补出《求是报》取得舒家栋投诉、请其撰写自述并刊于4月12日“声讨黑暗”版的说明。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "彭孟缉",
+      "舒家栋",
+      "严家淦",
+      "汪新之",
+      "宋楚瑜"
+    ],
+    "places": [
+      "台湾",
+      "西贡",
+      "越南",
+      "香港",
+      "兰屿",
+      "泰国",
+      "美国"
+    ],
+    "works": [
+      "白色恐怖述奇",
+      "彭孟缉与舒家栋案",
+      "华侨掀出彭孟缉绑票旧案",
+      "求是报"
+    ],
+    "tags": [
+      "白色恐怖述奇",
+      "舒家栋",
+      "彭孟缉",
+      "绑票旧案",
+      "求是报",
+      "兰屿",
+      "华侨"
+    ],
+    "view": [
+      "写作线",
+      "司法线",
+      "政治线",
+      "台湾史政线"
+    ],
+    "crossReferences": [
+      "guomindang-yanjiu-1984-02-14-to-1986-05-21-writes-private-power-and-purge-violence-essays",
+      "laozei-choushi-1988-12-09-to-1990-09-07-writes-old-kmt-bureaucrats-bribery-memoir-and-slave-official-essays"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-06-baise-kongbu-shuqi-round001-001-028-closeout",
+    "id": "baise-kongbu-shuqi-1988-11-28-to-1991-03-10-publishes-gong-debo-black-prison-memoir",
+    "date": "1988-11-28",
+    "endDate": "1991-03-10",
+    "year": 1988,
+    "month": 11,
+    "day": 28,
+    "displayDate": "1988年11月28日至1991年3月10日",
+    "datePrecision": "date-range",
+    "title": "李敖由龚德柏《逼不反的人们》联到孙立人案，并为《蒋介石黑狱亲历记》写前言",
+    "summary": "《逼不反的人们》署日1988年11月28日，李敖先追述龚德柏因触怒当道被密下诏狱、出狱后写文著书困难，自己在1964、1965年间说动萧孟能由文星书店为龚德柏出版一些书，再把龚德柏文中“逼不反的人们”借来说明自己与曾心仪整理《孙立人研究》《孙案研究》时的发现。到1991年3月10日《写在龚德柏〈蒋介石黑狱亲历记〉的前面》，李敖又介绍《求是报》取得龚德柏秘密回忆录，说明龚德柏1950年3月8日被秘密逮捕、1955年仍被蒋介石称“毫无悔改之意”、出狱后秘写稿本，李敖曾取得并发表其《中日战争史》秘本；本条合并龚德柏旧文再利用与《求是报》刊出黑狱秘录前言，不重复节目版龚德柏展示和文星出版旧锚。",
+    "source": {
+      "book": "白色恐怖述奇",
+      "chapter": "027.逼不反的人们.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/005.白色恐怖述奇/027.逼不反的人们.txt",
+      "line": 3,
+      "lines": [
+        3,
+        11
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "白色恐怖述奇",
+        "chapter": "028.写在龚德柏《蒋介石黑狱亲历记》的前面.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/005.白色恐怖述奇/028.写在龚德柏《蒋介石黑狱亲历记》的前面.txt",
+        "line": 3,
+        "lines": [
+          3,
+          13
+        ],
+        "note": "补出1991年3月10日李敖为《求是报》取得并刊出龚德柏《蒋介石黑狱亲历记》所写前言。"
+      },
+      {
+        "book": "白色恐怖述奇",
+        "chapter": "028.写在龚德柏《蒋介石黑狱亲历记》的前面.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/005.白色恐怖述奇/028.写在龚德柏《蒋介石黑狱亲历记》的前面.txt",
+        "line": 21,
+        "lines": [
+          21,
+          631
+        ],
+        "note": "补入龚德柏黑狱秘录正文，作为李敖前言所指的秘录材料来源。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "龚德柏",
+      "萧孟能",
+      "曾心仪",
+      "孙立人",
+      "蒋介石",
+      "李宗仁"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "南京",
+      "上海"
+    ],
+    "works": [
+      "白色恐怖述奇",
+      "逼不反的人们",
+      "蒋介石黑狱亲历记",
+      "求是报",
+      "孙立人研究",
+      "孙案研究",
+      "中日战争史",
+      "又是愚话"
+    ],
+    "tags": [
+      "白色恐怖述奇",
+      "龚德柏",
+      "蒋介石黑狱亲历记",
+      "求是报",
+      "孙立人案",
+      "文星书店",
+      "黑狱秘录"
+    ],
+    "view": [
+      "写作线",
+      "出版线",
+      "司法线",
+      "政治线",
+      "台湾史政线"
+    ],
+    "crossReferences": [
+      "liao-xinkan-1964-1965-persuades-xiao-mengneng-publish-gong-debo-books",
+      "liao-xinkan-1988-12-26-033-gong-debo-memoirs",
+      "li-ao-youhua-shuo-403-displays-gong-debo-secret-manuscript-and-his-own-publication",
+      "li-ao-youhua-shuo-420-publishes-gong-debo-prison-secret-book",
+      "li-ao-youhua-shuo-645-broadcasts-on-gong-debo"
+    ]
+  }
+]

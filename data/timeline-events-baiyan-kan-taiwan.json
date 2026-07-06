@@ -1,0 +1,733 @@
+[
+  {
+    "id": "baiyan-kan-taiwan-1981-01-14-to-1982-07-23-writes-star-mom-and-police-satire-on-kmt-security-law",
+    "date": "1981-01-14",
+    "displayDate": "1981年1月14日至1982年7月23日",
+    "datePrecision": "date-range",
+    "title": "李敖在《白眼看台湾》中以“星妈”和“警察”讽刺国民党法制与党外行动困境",
+    "summary": "001与006合并为一组法制讽刺。《党外人士该去做星妈》从共产党丈夫配偶是否可诉请离婚谈起，追问司法院院解字第4066号、民法第1052条与“知匪不报”逻辑如何把政治安全考量压到家庭法上，并以“星妈”例外讽刺国共斗争中的第三角；《党外人士该去做警察》则回述邓维桢曾拒登前文，转而借1982年刑事诉讼法修正案和谢长廷对司法警察、警总、调查局、宪兵权限的分析，反讽党外人士若真要夺权，不如改行当警察。两文都不是单纯法律说明，而是李敖把国民党安全法制的荒谬整理成党外路线劝告。",
+    "view": [
+      "司法线",
+      "写作线",
+      "论战线",
+      "台湾史政线"
+    ],
+    "tags": [
+      "白眼看台湾",
+      "党外人士",
+      "星妈",
+      "司法警察",
+      "刑事诉讼法",
+      "知匪不报",
+      "国民党法制"
+    ],
+    "people": [
+      "李敖",
+      "邓维桢",
+      "谢长廷",
+      "国民党大员"
+    ],
+    "places": [
+      "台湾",
+      "台北"
+    ],
+    "works": [
+      "白眼看台湾",
+      "党外人士该去做星妈",
+      "党外人士该去做警察",
+      "李敖千秋评论丛书",
+      "政治家",
+      "民法",
+      "刑事诉讼法"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "白眼看台湾",
+      "chapter": "001.党外人士该去做星妈",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/002.白眼看台湾/001.党外人士该去做星妈.txt",
+      "line": 3,
+      "lines": [
+        3,
+        33
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "白眼看台湾",
+        "chapter": "006.党外人士该去做警察",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/002.白眼看台湾/006.党外人士该去做警察.txt",
+        "line": 3,
+        "lines": [
+          3,
+          23
+        ]
+      }
+    ],
+    "crossReferences": [
+      "qianqiu-wansui-1982-07-16-059-writes-on-deng-weizhen-talk",
+      "li-ao-shuxinji-1982-06-03-lunch-with-deng-weizhen-on-politicalist-public-instrument"
+    ],
+    "round": "2026-07-06-baiyan-kan-taiwan-round001-001-018-closeout"
+  },
+  {
+    "id": "baiyan-kan-taiwan-1982-05-06-to-1982-05-29-writes-tao-baichuan-youth-party-and-kmt-family-lesson",
+    "date": "1982-05-06",
+    "displayDate": "1982年5月6日至5月29日",
+    "datePrecision": "date-range",
+    "title": "李敖借陶百川、青年党与国民党家族性，给党外人士上一课",
+    "summary": "002至004合并为党外识别国民党结构的课程。《给党外人士上一课》提出党外常受国民党宣传影响，误把徐复观、陶百川、费希平等从国民党体系中离出的“自家小孩子”当成真正党外；《围剿陶百川的一个教训》从警总文件、胡佛和《自立晚报》对陶百川“清流”形象的维护谈起，翻出陶百川任警总军法处长、1945年《蒋主席的生活和生活观》以及1978年《清流、清议与政治》，说明陶并非真正清流；《青年党内与老年党外》再以中国青年党、曾琦和李璜为例，把“帮闲的党”与国民党安排下的伪反对角色并列。本条只收李敖在本书中把这些人物合成党外辨识课的写作动作，陶百川个案旧证据用旧锚串联。",
+    "view": [
+      "思想线",
+      "写作线",
+      "论战线",
+      "台湾史政线"
+    ],
+    "tags": [
+      "白眼看台湾",
+      "党外人士",
+      "陶百川",
+      "青年党",
+      "国民党家族",
+      "清流",
+      "帮闲"
+    ],
+    "people": [
+      "李敖",
+      "陶百川",
+      "康宁祥",
+      "胡佛",
+      "苏秋镇",
+      "徐复观",
+      "费希平",
+      "曾琦",
+      "李璜",
+      "胡适",
+      "李大钊",
+      "周恩来",
+      "顾炎武",
+      "顾宪成"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "巴黎",
+      "警备总部"
+    ],
+    "works": [
+      "白眼看台湾",
+      "给党外人士上一课",
+      "围剿陶百川的一个教训",
+      "青年党内与老年党外",
+      "蒋主席的生活和生活观",
+      "清流、清议与政治",
+      "中央日报",
+      "自立晚报",
+      "民主潮",
+      "八十年代"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "白眼看台湾",
+      "chapter": "003.围剿陶百川的一个教训",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/002.白眼看台湾/003.围剿陶百川的一个教训.txt",
+      "line": 3,
+      "lines": [
+        3,
+        151
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "白眼看台湾",
+        "chapter": "002.给党外人士上一课",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/002.白眼看台湾/002.给党外人士上一课.txt",
+        "line": 3,
+        "lines": [
+          3,
+          25
+        ]
+      },
+      {
+        "book": "白眼看台湾",
+        "chapter": "004.青年党内与老年党外",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/002.白眼看台湾/004.青年党内与老年党外.txt",
+        "line": 3,
+        "lines": [
+          3,
+          65
+        ]
+      }
+    ],
+    "crossReferences": [
+      "qianqiu-wansui-1982-07-22-031-writes-on-tao-baichuan-kidnapping-students",
+      "laozei-choushi-1988-11-30-to-1990-03-writes-sheng-shicai-torture-and-tao-baichuan-human-rights-evidence",
+      "li-ao-dageda-041-shows-hu-shi-letter-to-attack-tao-baichuan",
+      "gei-waishengren-nankan-1982-05-30-to-1991-07-17-writes-xu-fuguan-fu-zheng-and-lin-zhengjie-opposition-judgment-essays"
+    ],
+    "round": "2026-07-06-baiyan-kan-taiwan-round001-001-018-closeout"
+  },
+  {
+    "id": "baiyan-kan-taiwan-1982-06-02-to-1982-08-03-writes-firebrand-vs-water-and-combat-test-for-opposition",
+    "date": "1982-06-02",
+    "displayDate": "1982年6月2日至8月3日",
+    "datePrecision": "date-range",
+    "title": "李敖提出“放火的，不要变成放水的”与“战斗是检验党外的唯一标准”",
+    "summary": "005与007合并为康宁祥放水和党外战斗标准组。《放火的，不要变成放水的》先借《纽约时报》称李敖为 firebrand，反过来劝党外不要因周慕文“恳谈”而放弃杯葛、被国民党摆一道，并以胡适、蔡元培、甘地、不合作主义和理想主义说明弱势反对者不应自认无力；《战斗是检验党外的唯一标准》再引苏秋镇在《政治家》中的访谈，把苏秋镇型的游击战和康宁祥型的两张脸对比，批评康宁祥访美名单、预算委员会沉默、入阁说和继续连任问题，并警告黄煌雄、张德铭访美后声望下跌。本条只收1982年李敖对党外战斗性和康宁祥放水性格的集中论述，后续《冷眼看台湾》的康系旧事另用旧锚串联。",
+    "view": [
+      "政治线",
+      "思想线",
+      "写作线",
+      "台湾史政线"
+    ],
+    "tags": [
+      "白眼看台湾",
+      "康宁祥",
+      "苏秋镇",
+      "放火",
+      "放水",
+      "战斗",
+      "党外路线",
+      "访美"
+    ],
+    "people": [
+      "李敖",
+      "康宁祥",
+      "苏秋镇",
+      "周慕文",
+      "邓维桢",
+      "李宁",
+      "尤清",
+      "张德铭",
+      "黄煌雄",
+      "郑南榕",
+      "谢长廷",
+      "胡适",
+      "蔡元培",
+      "甘地"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "立法院",
+      "美国",
+      "芝加哥"
+    ],
+    "works": [
+      "白眼看台湾",
+      "放火的，不要变成放水的",
+      "战斗是检验党外的唯一标准",
+      "政治家",
+      "纵横",
+      "自由中国",
+      "八十年代的忧患意识"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "白眼看台湾",
+      "chapter": "005.放火的，不要变成放水的",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/002.白眼看台湾/005.放火的，不要变成放水的.txt",
+      "line": 3,
+      "lines": [
+        3,
+        143
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "白眼看台湾",
+        "chapter": "007.战斗是检验党外的唯一标准",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/002.白眼看台湾/007.战斗是检验党外的唯一标准.txt",
+        "line": 3,
+        "lines": [
+          3,
+          191
+        ]
+      }
+    ],
+    "crossReferences": [
+      "lengyan-kan-taiwan-1983-04-03-to-1988-03-16-writes-kang-ningxiang-eighties-consensus-and-dpp-decorum-critiques",
+      "lengyan-kan-taiwan-1986-11-17-to-1987-05-07-files-kang-ningxiang-eighties-review-defamation-complaint-and-responsibility-proof",
+      "li-ao-shujianji-1982-07-20-writes-chou-ching-yu-on-exit-ban-kang-ningxiang-and-shen-junshan",
+      "li-ao-shuzhaji-1983-12-07-noon-walks-and-meets-hu-jinquan-on-kang-ningxiang-collapse"
+    ],
+    "round": "2026-07-06-baiyan-kan-taiwan-round001-001-018-closeout"
+  },
+  {
+    "id": "baiyan-kan-taiwan-1982-08-20-to-1982-09-25-writes-opposition-youth-integrity-and-human-rights-priority",
+    "date": "1982-08-20",
+    "displayDate": "1982年8月20日至9月25日",
+    "datePrecision": "date-range",
+    "title": "李敖劝党外青年别做乡愿，并赞同邓维桢把人权列为党外第一目标",
+    "summary": "008与009合并为党外青年和人权优先组。《小朋友，别乡愿！》从邓维贤接办《政治家》、党外小杂志受人情与派系牵动谈起，要求《深耕》《大地生活》《生活与环境》等年轻党外杂志坚持是非标准，不要年纪轻轻就做乡愿；《什么是党外最该做的事？》则接邓维桢《除了人权，党外没有什么可操心的！》，把党外从行政业务、经济军事教育外交等枝节拉回人权主轴，主张记录国民党侵犯人权、建立人权组织、编印人权手册并主动援助受害者。本条只收李敖借邓氏兄弟与党外刊物提出的路线劝告。",
+    "view": [
+      "思想线",
+      "写作线",
+      "人权线",
+      "台湾史政线"
+    ],
+    "tags": [
+      "白眼看台湾",
+      "党外青年",
+      "乡愿",
+      "邓维贤",
+      "邓维桢",
+      "人权",
+      "政治家",
+      "深耕"
+    ],
+    "people": [
+      "李敖",
+      "邓维贤",
+      "邓维桢",
+      "孔子",
+      "孟子",
+      "周勃",
+      "陈平"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "高雄"
+    ],
+    "works": [
+      "白眼看台湾",
+      "小朋友，别乡愿！",
+      "什么是党外最该做的事？",
+      "政治家",
+      "除了人权，党外没有什么可操心的！",
+      "深耕",
+      "大地生活",
+      "生活与环境",
+      "人权手册"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "白眼看台湾",
+      "chapter": "008.小朋友，别乡愿！",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/002.白眼看台湾/008.小朋友，别乡愿！.txt",
+      "line": 3,
+      "lines": [
+        3,
+        17
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "白眼看台湾",
+        "chapter": "009.什么是党外最该做的事？",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/002.白眼看台湾/009.什么是党外最该做的事？.txt",
+        "line": 3,
+        "lines": [
+          3,
+          61
+        ]
+      }
+    ],
+    "crossReferences": [
+      "qianqiu-wansui-1982-07-16-059-writes-on-deng-weizhen-talk",
+      "li-ao-shuxinji-1982-06-03-lunch-with-deng-weizhen-on-politicalist-public-instrument",
+      "li-ao-shuxinji-1982-08-29-writes-deng-weizhen-combat-seclusion",
+      "li-ao-shuzhaji-1983-05-19-writes-deng-weixian-on-gentleman-love-and-kang-ningxiang"
+    ],
+    "round": "2026-07-06-baiyan-kan-taiwan-round001-001-018-closeout"
+  },
+  {
+    "id": "baiyan-kan-taiwan-1982-10-18-defends-meilidao-prisoners-right-to-statement",
+    "date": "1982-10-18",
+    "displayDate": "1982年10月18日",
+    "datePrecision": "day",
+    "title": "李敖发表《对〈美丽岛受难人共同声明〉的单独声明》，为政治犯言论权辩护",
+    "summary": "010单列为李敖对美丽岛受难人声明的法律辩护。文中回述1982年9月28日台北市中山堂“市政研讨联谊会”上周清玉散发《美丽岛受难人共同声明》受阻，随后警总查禁、官方攻击、军法处惩处黄信介、姚嘉文、张俊宏、林弘宣，受难人家属黄张月卿、许荣淑、周清玉、林黎琤再发表家属共同声明。李敖在10月18日从刑法褫夺公权、在押被告与受刑人选举权、德布斯狱中参选及中外监狱文化谈起，主张政治犯仍有说话和关心国事的权利，声明自己要拼命维护他们说话的权利。",
+    "view": [
+      "司法线",
+      "人权线",
+      "写作线",
+      "台湾史政线"
+    ],
+    "tags": [
+      "白眼看台湾",
+      "美丽岛",
+      "共同声明",
+      "政治犯",
+      "褫夺公权",
+      "言论自由",
+      "警备总部"
+    ],
+    "people": [
+      "李敖",
+      "黄信介",
+      "姚嘉文",
+      "张俊宏",
+      "林弘宣",
+      "施明德",
+      "周清玉",
+      "黄张月卿",
+      "许荣淑",
+      "林黎琤",
+      "德布斯",
+      "哈定"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "中山堂",
+      "警备总部",
+      "美国"
+    ],
+    "works": [
+      "白眼看台湾",
+      "对《美丽岛受难人共同声明》的单独声明",
+      "美丽岛受难人共同声明",
+      "美丽岛受难人家属共同声明",
+      "联合报",
+      "中央日报",
+      "刑法",
+      "动员戡乱时期公职人员选举罢免法"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "白眼看台湾",
+      "chapter": "010.对《美丽岛受难人共同声明》的单独声明",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/002.白眼看台湾/010.对《美丽岛受难人共同声明》的单独声明.txt",
+      "line": 3,
+      "lines": [
+        3,
+        33
+      ]
+    },
+    "crossReferences": [
+      "lengyan-kan-taiwan-1987-06-04-writes-reflections-on-huang-xinjie-zhang-junhong-wei-tingchao-and-huang-hua-release",
+      "li-ao-yanjiangji-014-criticizes-meilidao-monopoly-of-political-prisoner-memory",
+      "li-ao-yanjiangji-020-remembers-wei-tingchao-and-meilidao-lawyers",
+      "tiaozhan-li-ao-1999-12-28-qna-meilidao-should-demand-all-political-prisoners"
+    ],
+    "round": "2026-07-06-baiyan-kan-taiwan-round001-001-018-closeout"
+  },
+  {
+    "id": "baiyan-kan-taiwan-1983-03-20-to-1983-04-11-writes-kang-water-temporary-provisions-and-monkey-lesson",
+    "date": "1983-03-20",
+    "displayDate": "1983年3月20日至4月11日",
+    "datePrecision": "date-range",
+    "title": "李敖以“康放水”和“猴子必读”批评充实临时条款与党外舆论贴金",
+    "summary": "011与013合并为康宁祥、临时条款和国家基本法组。《别帮国民党讨姨太太！》从黄玉娇称康宁祥为“康放水”谈起，追述康宁祥在立法院质询后支持孙运璿“充实临时条款”，李敖则从训政、宪法施行、动员戡乱临时条款、戒严法和陈水扁对照表说明临时条款实为绑住宪法的遁甲术，反对党外以“国家基本法”走相似歧路；《猴子必读》继续拆解《民主人》《亚洲人》把康宁祥质询说成“最大收获”的舆论，强调党外原本共识是取消临时条款，不是充实临时条款，并借刘基《郁离子》猴子故事警告人民若醒悟，权术统治者就会失效。本条与《冷眼看台湾》后来康宁祥/临时条款旧锚相连，不重复拆底层宪政旧事。",
+    "view": [
+      "宪政线",
+      "政治线",
+      "写作线",
+      "台湾史政线"
+    ],
+    "tags": [
+      "白眼看台湾",
+      "康宁祥",
+      "康放水",
+      "临时条款",
+      "国家基本法",
+      "孙运璿",
+      "党外舆论"
+    ],
+    "people": [
+      "李敖",
+      "康宁祥",
+      "黄玉娇",
+      "小魏",
+      "小文",
+      "孙运璿",
+      "许荣淑",
+      "陈水扁",
+      "王云五",
+      "张德铭",
+      "黄煌雄",
+      "刘基"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "立法院",
+      "中山堂"
+    ],
+    "works": [
+      "白眼看台湾",
+      "别帮国民党讨姨太太！",
+      "猴子必读",
+      "民主人",
+      "亚洲人",
+      "中华民国宪法",
+      "动员戡乱临时条款",
+      "戒严法",
+      "郁离子"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "白眼看台湾",
+      "chapter": "011.别帮国民党讨姨太太！",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/002.白眼看台湾/011.别帮国民党讨姨太太！.txt",
+      "line": 3,
+      "lines": [
+        3,
+        117
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "白眼看台湾",
+        "chapter": "013.猴子必读",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/002.白眼看台湾/013.猴子必读.txt",
+        "line": 3,
+        "lines": [
+          3,
+          87
+        ]
+      }
+    ],
+    "crossReferences": [
+      "lengyan-kan-taiwan-1983-04-03-to-1988-03-16-writes-kang-ningxiang-eighties-consensus-and-dpp-decorum-critiques",
+      "baiyan-kan-taiwan-1982-06-02-to-1982-08-03-writes-firebrand-vs-water-and-combat-test-for-opposition",
+      "li-ao-shuzhaji-1983-05-19-writes-deng-weixian-on-gentleman-love-and-kang-ningxiang",
+      "li-ao-shuzhaji-1983-12-09-afternoon-writes-deng-weixian-after-kmt-or-dangwai-victory-on-kang-ningxiang"
+    ],
+    "round": "2026-07-06-baiyan-kan-taiwan-round001-001-018-closeout"
+  },
+  {
+    "id": "baiyan-kan-taiwan-1983-03-08-to-1983-05-09-writes-fei-xiping-resignation-and-legislator-seat-discussion",
+    "date": "1983-03-08",
+    "displayDate": "1983年3月8日至5月9日",
+    "datePrecision": "date-range",
+    "title": "李敖围绕费希平辞职、万年立委合法性和党外“政治塞子”问题连写三文",
+    "summary": "012、015、016合并为费希平与党外立委更新组。《不嫌辞费话费辞》先论费希平从国民党政工背景、雷震案质询到党外人权形象的复杂性，批评他仍带“蓝五类”气质，并对《深耕》批李文字和《前进》答辩继续回应；《上台下台的讨论》借胡慧玲访问邓维桢，提出现任党外立委应让新人出头，指出国民党让康宁祥、黄天福等继续做立委可塞住其他党外野心分子；《小儿没病，老儿病了》再回应《夏潮论坛》“政治小儿病”投书，重申大陆选出的老立委早已失去合法代表性，费希平若真为民主奔忙，应辞职再来。本条把费希平个人、老代表合法性和党外政治明星流动合并，避免把辞职论拆成多条。",
+    "view": [
+      "政治线",
+      "宪政线",
+      "论战线",
+      "台湾史政线"
+    ],
+    "tags": [
+      "白眼看台湾",
+      "费希平",
+      "万年国会",
+      "立法委员",
+      "辞职",
+      "政治塞子",
+      "邓维桢"
+    ],
+    "people": [
+      "李敖",
+      "费希平",
+      "邓维桢",
+      "胡慧玲",
+      "康宁祥",
+      "黄天福",
+      "吴俊才",
+      "林正杰",
+      "梁肃戎",
+      "徐复观",
+      "陶百川",
+      "陈诚",
+      "孙运璿"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "立法院",
+      "东北",
+      "沈阳",
+      "北平"
+    ],
+    "works": [
+      "白眼看台湾",
+      "不嫌辞费话费辞",
+      "上台下台的讨论",
+      "小儿没病，老儿病了",
+      "前进",
+      "深耕",
+      "民主人",
+      "夏潮论坛",
+      "给梁肃戎先生的公开信"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "白眼看台湾",
+      "chapter": "012.不嫌辞费话费辞",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/002.白眼看台湾/012.不嫌辞费话费辞.txt",
+      "line": 3,
+      "lines": [
+        3,
+        137
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "白眼看台湾",
+        "chapter": "015.上台下台的讨论",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/002.白眼看台湾/015.上台下台的讨论.txt",
+        "line": 3,
+        "lines": [
+          3,
+          109
+        ]
+      },
+      {
+        "book": "白眼看台湾",
+        "chapter": "016.小儿没病，老儿病了",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/002.白眼看台湾/016.小儿没病，老儿病了.txt",
+        "line": 3,
+        "lines": [
+          3,
+          49
+        ]
+      }
+    ],
+    "crossReferences": [
+      "qianqiu-wansui-1989-before-jul-20-129-zhang-junhong-discusses-fei-xiping-retirement-fund",
+      "micang-diary-1985-04-01-suhong-call-on-fei-xiping-resignation",
+      "gei-waishengren-nankan-1982-05-30-to-1991-07-17-writes-xu-fuguan-fu-zheng-and-lin-zhengjie-opposition-judgment-essays",
+      "baiyan-kan-taiwan-1982-05-06-to-1982-05-29-writes-tao-baichuan-youth-party-and-kmt-family-lesson"
+    ],
+    "round": "2026-07-06-baiyan-kan-taiwan-round001-001-018-closeout"
+  },
+  {
+    "id": "baiyan-kan-taiwan-1983-01-12-context-writes-su-nancheng-rejoining-kmt-public-morality-critique",
+    "date": "1983-01-12",
+    "displayDate": "约1983年1月12日",
+    "datePrecision": "undated-context",
+    "title": "李敖写《不是他个人的事》，批评苏南成复党不是私人自由而是公德事件",
+    "summary": "014单列苏南成复党与党外沉默事件。李敖先称苏南成从国民党、党外、黑社会之间反复变节，是“有奶就是娘”的现实主义政客；随后逐条摘录许世贤、黄顺兴、黄石城、邱连辉、施性忠、陈定南等党外人物在1982年12月31日至1983年1月12日前后的不置评说法，指出他们把政治立场与公德问题降格为私人自由。文中按1983年1月12日《民众日报》苏南成“这是他私人的问题，也是他的自由”一语定位，故本条用上下文日期。",
+    "view": [
+      "政治线",
+      "论战线",
+      "道德线",
+      "台湾史政线"
+    ],
+    "tags": [
+      "白眼看台湾",
+      "苏南成",
+      "复党",
+      "公德",
+      "党外巨头",
+      "现实主义"
+    ],
+    "people": [
+      "李敖",
+      "苏南成",
+      "许世贤",
+      "黄顺兴",
+      "黄石城",
+      "邱连辉",
+      "施性忠",
+      "陈定南",
+      "戴传贤"
+    ],
+    "places": [
+      "台湾",
+      "台南",
+      "台北"
+    ],
+    "works": [
+      "白眼看台湾",
+      "不是他个人的事",
+      "大头·小人·影",
+      "民众日报",
+      "台湾时报"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "白眼看台湾",
+      "chapter": "014.不是他个人的事",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/002.白眼看台湾/014.不是他个人的事.txt",
+      "line": 3,
+      "lines": [
+        3,
+        33
+      ]
+    },
+    "crossReferences": [
+      "book5-1985-08-10-letter-to-su-nancheng-kaohsiung",
+      "baiyan-kan-taiwan-1982-06-02-to-1982-08-03-writes-firebrand-vs-water-and-combat-test-for-opposition",
+      "lengyan-kan-taiwan-1983-04-03-to-1988-03-16-writes-kang-ningxiang-eighties-consensus-and-dpp-decorum-critiques",
+      "li-ao-zhaji-1986-01-29-comments-youqing-on-qiu-lianhui"
+    ],
+    "round": "2026-07-06-baiyan-kan-taiwan-round001-001-018-closeout"
+  },
+  {
+    "id": "baiyan-kan-taiwan-1983-05-12-to-1983-05-15-writes-li-xiaofeng-duan-hongjun-and-prophet-stone-essays",
+    "date": "1983-05-12",
+    "displayDate": "1983年5月12日至5月15日",
+    "datePrecision": "date-range",
+    "title": "李敖回应李筱峰《向李敖帝国主义质疑》，说明段宏俊旧文与先知被投石的处境",
+    "summary": "017与018合并为李筱峰批李回应组。《雁行折翼》先说明《前进》杂志社转来李筱峰《向李敖帝国主义质疑》后，李敖主张当然发表批评自己的文字；随后他逐点回应李筱峰用段宏俊、《胡适语粹》旧序、1970年地下出版处境和“正人君子”逻辑来攻击李敖的说法，强调自己在被警总软禁、书被禁、报章封杀时只能借段宏俊等名义维持胡适思想流传；《放下石头，继续跑吧！》则以小仲马、易卜生《人民公敌》和“相见恨早”自述，解释朋友、信徒也可能向先知丢石头。本条不重复后来《冷眼看台湾》康系批李专号，只收1983年李筱峰争论的早段材料。",
+    "view": [
+      "论战线",
+      "写作线",
+      "交游线",
+      "台湾史政线"
+    ],
+    "tags": [
+      "白眼看台湾",
+      "李筱峰",
+      "段宏俊",
+      "胡适语粹",
+      "前进",
+      "批评党外自由",
+      "人民公敌"
+    ],
+    "people": [
+      "李敖",
+      "李筱峰",
+      "林正杰",
+      "段宏俊",
+      "胡适",
+      "胡适太太",
+      "刘福增",
+      "康宁祥",
+      "小仲马",
+      "大仲马",
+      "易卜生"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "白山黑水"
+    ],
+    "works": [
+      "白眼看台湾",
+      "雁行折翼",
+      "放下石头，继续跑吧！",
+      "向李敖帝国主义质疑",
+      "前进",
+      "胡适选集",
+      "胡适语粹",
+      "罗素选集",
+      "李敖告别文坛十书",
+      "人民公敌"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "白眼看台湾",
+      "chapter": "017.雁行折翼",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/002.白眼看台湾/017.雁行折翼.txt",
+      "line": 3,
+      "lines": [
+        3,
+        103
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "白眼看台湾",
+        "chapter": "018.放下石头，继续跑吧！",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/002.白眼看台湾/018.放下石头，继续跑吧！.txt",
+        "line": 3,
+        "lines": [
+          3,
+          23
+        ]
+      }
+    ],
+    "crossReferences": [
+      "love-secret-1983-01-16-writes-four-poems-after-li-xiaofeng-new-year-card",
+      "li-ao-duihualu-before-1984-02-17-asks-zeng-xinyi-send-book-to-li-xiaofeng",
+      "lengyan-kan-taiwan-1986-06-19-to-1986-09-26-writes-li-xiaofeng-wei-tingchao-and-eighties-review-rebuttals",
+      "baiyan-kan-taiwan-1982-06-02-to-1982-08-03-writes-firebrand-vs-water-and-combat-test-for-opposition"
+    ],
+    "round": "2026-07-06-baiyan-kan-taiwan-round001-001-018-closeout"
+  }
+]

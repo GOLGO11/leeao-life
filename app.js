@@ -183,7 +183,22 @@ const dataFiles = [
   "./data/timeline-events-jiangjieshi-yanjiu-wuji.json",
   "./data/timeline-events-jiangjieshi-yanjiu-liuji.json",
   "./data/timeline-events-jiangjieshi-zhenmianmu.json",
-  "./data/timeline-events-jiangjieshi-pingzhuan.json"
+  "./data/timeline-events-jiangjieshi-pingzhuan.json",
+  "./data/timeline-events-jiangjingguo-yanjiu.json",
+  "./data/timeline-events-lunding-jiangjingguo.json",
+  "./data/timeline-events-jiangjia-choushi.json",
+  "./data/timeline-events-li-ao-lun-renwu.json",
+  "./data/timeline-events-guomindang-yanjiu.json",
+  "./data/timeline-events-guomindang-yanjiu-xuji.json",
+  "./data/timeline-events-guomindang-choushi.json",
+  "./data/timeline-events-laozei-choushi.json",
+  "./data/timeline-events-gei-guomindang-nankan.json",
+  "./data/timeline-events-gei-waishengren-nankan.json",
+  "./data/timeline-events-lengyan-kan-taiwan.json",
+  "./data/timeline-events-baiyan-kan-taiwan.json",
+  "./data/timeline-events-fayan-kan-taiwan.json",
+  "./data/timeline-events-minjindang-yanjiu.json",
+  "./data/timeline-events-baise-kongbu-shuqi.json"
 ];
 const supplementalDataFiles = new Set([
   "./data/timeline-events-first-book-supplement.json",
@@ -194,7 +209,7 @@ const supplementalDataFiles = new Set([
   "./data/timeline-events-third-book-qiao-evidence.json",
   "./data/timeline-events-fourth-book-deepening.json"
 ]);
-const dataVersion = "2026-07-05-jiangjieshi-pingzhuan-round001-closeout";
+const dataVersion = "2026-07-06-baise-kongbu-shuqi-round001-001-028-closeout";
 const timelineBundle = window.LEEAO_TIMELINE_BUNDLE;
 const timelineBundleMatches =
   timelineBundle?.dataVersion === dataVersion &&

@@ -1,0 +1,309 @@
+[
+  {
+    "id": "jiangjingguo-yanjiu-1984-03-25-to-1985-12-23-presidential-defamation-and-free-speech-essays",
+    "date": "1984-03-25",
+    "displayDate": "1984年3月25日至1985年12月23日",
+    "datePrecision": "date-range",
+    "title": "李敖在《蒋经国研究》前编写作骂总统自由与诋毁元首系列短文",
+    "summary": "李敖把1984年3月25日《骂总统的自由》、1984年5月21日“中华民国”总统任次辨析、1985年1月25日中华民国总统暗杀政敌论，以及1985年12月23日《鼓励诋毁元首才是正路》收入前编。四文共同围绕总统法统、批评元首的言论空间和政治权力暴力展开；本条按前编议题合并，不把每篇文章拆成独立小事件。",
+    "view": [
+      "写作线",
+      "思想线",
+      "政治线",
+      "蒋经国研究线"
+    ],
+    "tags": [
+      "蒋经国研究",
+      "骂总统的自由",
+      "诋毁元首",
+      "言论自由",
+      "总统法统",
+      "政治暗杀",
+      "杰斐逊"
+    ],
+    "people": [
+      "李敖",
+      "齐世英",
+      "蒋经国",
+      "孙文",
+      "袁世凯",
+      "宋教仁",
+      "杰斐逊",
+      "张京育",
+      "施启扬",
+      "俞国华",
+      "汪道渊"
+    ],
+    "places": [
+      "台湾",
+      "南京",
+      "上海",
+      "美国"
+    ],
+    "works": [
+      "蒋经国研究",
+      "骂总统的自由",
+      "鼓励诋毁元首才是正路",
+      "少年中国周刊",
+      "破涕录"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "蒋经国研究",
+      "chapter": "002.骂总统的自由",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/024.蒋经国研究/002.骂总统的自由.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        21,
+        23
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "蒋经国研究",
+        "chapter": "003.“中华民国”总统到底几任？",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/024.蒋经国研究/003.“中华民国”总统到底几任？.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          21,
+          23,
+          25,
+          27,
+          29
+        ],
+        "note": "李敖在5月21日文章中质疑国民党把蒋经国称作“中华民国第七任总统”的任次算法。"
+      },
+      {
+        "book": "蒋经国研究",
+        "chapter": "004.中华民国总统怎样暗杀政敌？",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/024.蒋经国研究/004.中华民国总统怎样暗杀政敌？.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          9,
+          53,
+          77,
+          79
+        ],
+        "note": "李敖在1月25日文章中以宋教仁案等材料论总统与政治暗杀。"
+      },
+      {
+        "book": "蒋经国研究",
+        "chapter": "001.鼓励诋毁元首才是正路",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/024.蒋经国研究/001.鼓励诋毁元首才是正路.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          7,
+          11,
+          13,
+          15,
+          17,
+          19
+        ],
+        "note": "李敖在12月23日文章中以杰斐逊为例，主张民主政府应容忍乃至鼓励批评元首。"
+      }
+    ],
+    "crossReferences": [
+      "tiaozhan-li-ao-2000-02-10-defends-freedom-to-curse-president",
+      "li-ao-youhua-shuo-068-recounts-writing-freedom-to-curse-president-and-media-reactions",
+      "li-ao-dageda-087-shows-jefferson-letter-and-his-1985-encourage-slandering-president-article"
+    ],
+    "round": "jiangjingguo-yanjiu-round001-closeout"
+  },
+  {
+    "id": "jiangjingguo-yanjiu-1986-03-21-to-1987-06-16-writes-political-critiques-of-chiang-chingkuo",
+    "date": "1986-03-21",
+    "displayDate": "1986年3月21日至1987年6月16日",
+    "datePrecision": "date-range",
+    "title": "李敖在《蒋经国研究》正编写作任显群案、经济定律与民进党求见短文组",
+    "summary": "李敖在1986年3月21日致孟绝子式短文中引吴国桢回忆任显群、顾正秋与蒋经国的纠葛，3月24日又借加值型营业税批评蒋经国式“以警察国家的方法来压制经济定律”，1987年6月16日则评论民进党国大党团一再求见蒋经国。本条只收李敖在正编中的三篇政治批判写作；005、006的蒋经国身世与过继考证已由《蒋介石研究》旧锚吸收，008为唐德刚外部文章，不另拆事件。",
+    "view": [
+      "写作线",
+      "政治线",
+      "人物线",
+      "蒋经国研究线"
+    ],
+    "tags": [
+      "蒋经国研究",
+      "任显群",
+      "顾正秋",
+      "加值型营业税",
+      "经济定律",
+      "民进党国大党团",
+      "政治批判"
+    ],
+    "people": [
+      "李敖",
+      "蒋经国",
+      "任显群",
+      "顾正秋",
+      "吴国桢",
+      "孟绝子",
+      "周清玉",
+      "尤清",
+      "沈昌焕",
+      "司徒雷登"
+    ],
+    "places": [
+      "台湾",
+      "台中",
+      "上海"
+    ],
+    "works": [
+      "蒋经国研究",
+      "蒋经国同任显群争女人",
+      "蒋经国与经济定律",
+      "谁要见蒋经国？",
+      "吴国桢八十忆往",
+      "民众日报"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "蒋经国研究",
+      "chapter": "007.蒋经国同任显群争女人",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/024.蒋经国研究/007.蒋经国同任显群争女人.txt",
+      "line": 11,
+      "lines": [
+        7,
+        11,
+        23,
+        25,
+        27,
+        29,
+        33,
+        37
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "蒋经国研究",
+        "chapter": "009.蒋经国与经济定律",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/024.蒋经国研究/009.蒋经国与经济定律.txt",
+        "line": 9,
+        "lines": [
+          9,
+          11,
+          13,
+          15,
+          17
+        ],
+        "note": "李敖以加值型营业税和上海经济督导员经验，批评用警察国家方法压制经济定律。"
+      },
+      {
+        "book": "蒋经国研究",
+        "chapter": "010.谁要见蒋经国？",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/024.蒋经国研究/010.谁要见蒋经国？.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          15,
+          17,
+          23,
+          31,
+          33,
+          35,
+          39,
+          41
+        ],
+        "note": "李敖评论民进党国大党团三度致函求见蒋经国及其政治姿态。"
+      }
+    ],
+    "crossReferences": [
+      "li-ao-youhua-shuo-409-introduces-ren-xianqun-gu-zhengqiu-and-chiang-chingkuo-jealousy-in-red-eleven",
+      "li-ao-youhua-shuo-409-reads-red-eleven-ren-xianqun-framed-as-communist-informant",
+      "li-ao-youhua-shuo-409-says-ren-xianqun-had-no-communist-flesh-but-was-jailed-for-woman",
+      "jiangjieshi-yanjiu-1986-02-08-to-05-07-examines-chiang-family-lineage-religion-and-chiang-chingkuo-adoption"
+    ],
+    "round": "jiangjingguo-yanjiu-round001-closeout"
+  },
+  {
+    "id": "jiangjingguo-yanjiu-1987-07-12-writes-preface-and-frames-chiang-chingkuo-dead-book",
+    "date": "1987-07-12",
+    "displayDate": "1987年7月12日",
+    "datePrecision": "day",
+    "title": "李敖写成《蒋经国研究》缘起，说明以“蒋经国死了”回击《李敖死了》",
+    "summary": "1987年7月12日，李敖写成《蒋经国研究》缘起，说明自己已写三本《蒋介石研究》后，才在“布朗运动”中发行这本《蒋经国研究》。他追述林正杰及《前进》周刊诽谤案、《自立晚报》刊登“李敖死了”广告、台北地方法院判报社负责人无罪等经过，并说自己决定发行《蒋经国研究》，在封面广告上用“蒋经国死了”作为回击与抗议。既有的《自立晚报》诉讼链和9月23日札记已在旧库，本条只收缘起成文与本书出版策略。",
+    "view": [
+      "写作线",
+      "出版线",
+      "法律线",
+      "政治线"
+    ],
+    "tags": [
+      "蒋经国研究",
+      "蒋经国死了",
+      "李敖死了",
+      "自立晚报",
+      "前进周刊",
+      "诽谤",
+      "布朗运动"
+    ],
+    "people": [
+      "李敖",
+      "蒋经国",
+      "林正杰",
+      "吴三连",
+      "吴丰山",
+      "颜文闩",
+      "吴祥辉",
+      "杨丰卿",
+      "吴树立",
+      "许文彬",
+      "高丽华",
+      "郑南榕"
+    ],
+    "places": [
+      "台湾",
+      "台北"
+    ],
+    "works": [
+      "蒋经国研究",
+      "蒋经国死了",
+      "李敖死了",
+      "前进周刊",
+      "自立晚报",
+      "李敖书牍集"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "蒋经国研究",
+      "chapter": "《蒋经国研究》缘起",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/024.蒋经国研究/《蒋经国研究》缘起.txt",
+      "line": 3,
+      "lines": [
+        3,
+        7,
+        9,
+        17,
+        23,
+        27,
+        33,
+        39,
+        57,
+        143,
+        157,
+        199,
+        201
+      ]
+    },
+    "crossReferences": [
+      "liao-xinkan-1986-10-22-writes-zilih-evening-news-after-li-ao-dead-ad",
+      "li-ao-shuduji-1986-12-20-writes-zilih-evening-news-demanding-ad-explanation",
+      "li-ao-shuduji-1986-12-30-files-private-prosecution-over-zilih-dead-ad",
+      "li-ao-shuduji-1987-02-26-noon-writes-xu-wenbin-on-zilih-defense-and-death-ads",
+      "li-ao-shuduji-1987-02-28-writes-wu-shuli-on-court-delay-and-zilih-case",
+      "li-ao-shuduji-1987-08-03-writes-wu-sanlian-chiang-ching-kuo-dead-book-warning",
+      "li-ao-zhaji-1987-09-23-contrasts-li-ao-dead-with-chiang-ching-kuo-study"
+    ],
+    "round": "jiangjingguo-yanjiu-round001-closeout"
+  }
+]

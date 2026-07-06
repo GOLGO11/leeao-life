@@ -1,0 +1,674 @@
+[
+  {
+    "id": "guomindang-yanjiu-xuji-1983-10-13-to-1987-04-02-writes-political-warfare-officials-diplomats-and-hu-qiuyuan-essays",
+    "date": "1983-10-13",
+    "displayDate": "1983年10月13日至1987年4月2日",
+    "datePrecision": "date-range",
+    "title": "李敖合写政工将军、大使文官与胡秋原考证短文组",
+    "summary": "李敖在《国民党研究续集》中把王昇、马璧、叶公超、关镛和胡秋原压成一组国民党官场批判：他以“裁缝将军”两文追问军人、政工系统和外交位置的错置，又用马璧投共、叶公超失势、关镛赌博风波和胡秋原冒称“文化部长”等例子，说明国民党把军政、情治、文化和外交都纳入宫廷式权力安排。本条按官场与知识分子合作线合并，文星案和闽变头衔旧证据只作串联。",
+    "view": [
+      "写作线",
+      "政治线",
+      "文化线"
+    ],
+    "tags": [
+      "国民党研究续集",
+      "王昇",
+      "政工",
+      "外交",
+      "胡秋原",
+      "文星",
+      "闽变",
+      "知识分子"
+    ],
+    "people": [
+      "李敖",
+      "王昇",
+      "刘维斌",
+      "马璧",
+      "叶公超",
+      "沈昌焕",
+      "关镛",
+      "胡秋原",
+      "王世杰",
+      "曹敏"
+    ],
+    "places": [
+      "台湾",
+      "巴拉圭",
+      "赖索托",
+      "纽约",
+      "福建"
+    ],
+    "works": [
+      "国民党研究续集",
+      "国民党的裁缝将军之一",
+      "国民党的裁缝将军之二",
+      "国民党政工头子投共",
+      "国民党大使垮台秘闻",
+      "国民党的大臣之体",
+      "国民党胡秋原的时光隧道",
+      "国民党胡秋原冒充“文化部长”"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "国民党研究续集",
+      "chapter": "005.国民党的裁缝将军之二",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/002.国民党研究续集/005.国民党的裁缝将军之二.txt",
+      "line": 5,
+      "lines": [
+        5,
+        87
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "国民党研究续集",
+        "chapter": "004.国民党的裁缝将军之一",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/002.国民党研究续集/004.国民党的裁缝将军之一.txt",
+        "line": 5,
+        "lines": [
+          5,
+          37
+        ],
+        "note": "1984年1月15日文，借陈平景来信和孟觉之评论写王昇早年经历与“裁缝将军”比喻。"
+      },
+      {
+        "book": "国民党研究续集",
+        "chapter": "006.国民党政工头子投共",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/002.国民党研究续集/006.国民党政工头子投共.txt",
+        "line": 5,
+        "lines": [
+          5,
+          119
+        ],
+        "note": "1984年1月12日文，写马璧从王昇助手和反《自由中国》作者转为投共个案。"
+      },
+      {
+        "book": "国民党研究续集",
+        "chapter": "007.国民党大使垮台秘闻",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/002.国民党研究续集/007.国民党大使垮台秘闻.txt",
+        "line": 3,
+        "lines": [
+          3,
+          23
+        ],
+        "note": "1983年11月4日文，写叶公超晚年后悔入党及垮台原因。"
+      },
+      {
+        "book": "国民党研究续集",
+        "chapter": "008.国民党的大臣之体",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/002.国民党研究续集/008.国民党的大臣之体.txt",
+        "line": 5,
+        "lines": [
+          5,
+          33
+        ],
+        "note": "1986年6月14日回信，借关镛拉斯维加斯吃角子老虎中奖一事评国民党外交官标准。"
+      },
+      {
+        "book": "国民党研究续集",
+        "chapter": "009.国民党胡秋原的时光隧道",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/002.国民党研究续集/009.国民党胡秋原的时光隧道.txt",
+        "line": 3,
+        "lines": [
+          3,
+          33
+        ],
+        "note": "1986年11月18日文，追问胡秋原、王昇和《文星》围剿之间的关系。"
+      },
+      {
+        "book": "国民党研究续集",
+        "chapter": "010.国民党胡秋原冒充“文化部长”",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/002.国民党研究续集/010.国民党胡秋原冒充“文化部长”.txt",
+        "line": 3,
+        "lines": [
+          3,
+          23
+        ],
+        "note": "1987年4月2日文，用1933年报刊资料校正胡秋原在闽变政府中的头衔。"
+      }
+    ],
+    "crossReferences": [
+      "li-ao-diandao-zhongsheng-007-shows-minbian-government-roster-and-demotes-hu-qiuyuan-title",
+      "li-ao-dageda-124-profiles-kung-tehcheng-tseng-yungshien-and-wang-sheng-advisers",
+      "li-ao-fangdianji-015-uses-zhang-xiaoyan-secretary-shuffle-and-ye-gongchao-to-test-kmt-intellectuals",
+      "jiangjieshi-yanjiu-liuji-1986-10-08-writes-chiang-and-wenxing-as-secret-case-file"
+    ],
+    "round": "2026-07-06-guomindang-yanjiu-xuji-round001-closeout"
+  },
+  {
+    "id": "guomindang-yanjiu-xuji-1984-04-02-to-1986-06-10-writes-zion-mountain-and-political-judiciary-essays",
+    "date": "1984-04-02",
+    "displayDate": "1984年4月2日至1986年6月10日",
+    "datePrecision": "date-range",
+    "title": "李敖合写锡安山事件与政治司法短文组",
+    "summary": "李敖在《国民党研究续集》中把锡安山事件和蓬莱岛案并置为政治控制案例：1984年他从锡安山信徒被驱逐、逮捕和清场写到“避秦之地”也不存在，1986年再借黄少谷“政治归政治，司法归司法”一文追问蓬莱岛案背后的政治司法。本条按非政治自由和司法受控合并，不把陈水扁个人案另造重复事件。",
+    "view": [
+      "写作线",
+      "政治线",
+      "法律线"
+    ],
+    "tags": [
+      "国民党研究续集",
+      "锡安山事件",
+      "宗教自由",
+      "司法",
+      "蓬莱岛案",
+      "政治控制"
+    ],
+    "people": [
+      "李敖",
+      "黄怡",
+      "黄捷修",
+      "黄少谷",
+      "陈水扁",
+      "冯沪祥"
+    ],
+    "places": [
+      "台湾",
+      "锡安山",
+      "蓬莱岛"
+    ],
+    "works": [
+      "国民党研究续集",
+      "国民党与“锡安山事件”",
+      "国民党的政治与司法"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "国民党研究续集",
+      "chapter": "003.国民党与“锡安山事件”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/002.国民党研究续集/003.国民党与“锡安山事件”.txt",
+      "line": 5,
+      "lines": [
+        5,
+        81
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "国民党研究续集",
+        "chapter": "002.国民党的政治与司法",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/002.国民党研究续集/002.国民党的政治与司法.txt",
+        "line": 5,
+        "lines": [
+          5,
+          31
+        ],
+        "note": "1986年6月10日文，借黄少谷文章和蓬莱岛案分析国民党政治干预司法。"
+      }
+    ],
+    "crossReferences": [
+      "chenshuibian-zhenmianmu-2000-02-21-to-03-01-revisits-taiwan-son-penglai-island-bravery"
+    ],
+    "round": "2026-07-06-guomindang-yanjiu-xuji-round001-closeout"
+  },
+  {
+    "id": "guomindang-yanjiu-xuji-1984-09-22-to-1985-10-18-writes-family-law-informant-and-petitioning-crime-essays",
+    "date": "1984-09-22",
+    "displayDate": "1984年9月22日至1985年10月18日",
+    "datePrecision": "date-range",
+    "title": "李敖合写国民党家法、检举把戏与“邀驾”政治罪短文组",
+    "summary": "李敖在《国民党研究续集》中把国民党内部惩戒、检举制度和王斯岳“邀驾”案压成一组法律批判：他回忆坐牢时被告知法律保护政权而非个人，又写特务系统“家法办人”、检举人反被诬为自首不实，以及军官想向蒋经国进言却被判十二年。这组事件不拆成个案传记，只记录李敖在三文中概括国民党把举报、进言和内部处分都变成政治罪的写作动作。",
+    "view": [
+      "写作线",
+      "法律线",
+      "政治线"
+    ],
+    "tags": [
+      "国民党研究续集",
+      "家法",
+      "检举",
+      "邀驾",
+      "政治犯",
+      "情治"
+    ],
+    "people": [
+      "李敖",
+      "刘科长",
+      "戴笠",
+      "毛人凤",
+      "王希苓",
+      "陈恭澍",
+      "涂审宏",
+      "胡虚一",
+      "王斯岳",
+      "蒋经国"
+    ],
+    "places": [
+      "台湾",
+      "台北"
+    ],
+    "works": [
+      "国民党研究续集",
+      "国民党的“家法办人”",
+      "国民党的检举把戏",
+      "国民党怎样制裁“邀驾”？"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "国民党研究续集",
+      "chapter": "019.国民党的检举把戏",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/002.国民党研究续集/019.国民党的检举把戏.txt",
+      "line": 5,
+      "lines": [
+        5,
+        13
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "国民党研究续集",
+        "chapter": "018.国民党的“家法办人”",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/002.国民党研究续集/018.国民党的“家法办人”.txt",
+        "line": 3,
+        "lines": [
+          3,
+          41
+        ],
+        "note": "1985年4月19日文，从李敖受审经验写到军统、江南案和情治系统的家法。"
+      },
+      {
+        "book": "国民党研究续集",
+        "chapter": "020.国民党怎样制裁“邀驾”？",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/002.国民党研究续集/020.国民党怎样制裁“邀驾”？.txt",
+        "line": 5,
+        "lines": [
+          5,
+          25
+        ],
+        "note": "1985年10月18日文，回胡虚一来信并写王斯岳上书改革被判乱案。"
+      }
+    ],
+    "crossReferences": [],
+    "round": "2026-07-06-guomindang-yanjiu-xuji-round001-closeout"
+  },
+  {
+    "id": "guomindang-yanjiu-xuji-1984-11-06-to-1988-03-15-frames-sequel-and-yunnan-uprising-myth",
+    "date": "1984-11-06",
+    "displayDate": "1984年11月6日至1988年3月15日",
+    "datePrecision": "date-range",
+    "title": "李敖以云南起义考证和自序展开《国民党研究续集》",
+    "summary": "李敖在1984年11月6日写《国民党与云南起义》，针对国民党把中华革命党说成“再造共和”的党史叙事，指出云南起义功劳被国民党偷天换日；1988年3月15日又为《国民党研究续集》作自序，说明此书是在《国民党研究》排印时快速续编，并把自己四十年不加入、不攀附国民党视为与研究对象保持距离的基本立场。本条把开篇考证与自序合并为全书框架事件。",
+    "view": [
+      "写作线",
+      "政治线",
+      "出版线"
+    ],
+    "tags": [
+      "国民党研究续集",
+      "云南起义",
+      "中华革命党",
+      "党史",
+      "自序",
+      "出版"
+    ],
+    "people": [
+      "李敖",
+      "孙中山",
+      "唐继尧",
+      "蔡锷",
+      "袁世凯",
+      "黄季陆"
+    ],
+    "places": [
+      "台湾",
+      "云南",
+      "北京"
+    ],
+    "works": [
+      "国民党研究续集",
+      "国民党与云南起义",
+      "国民党研究续集自序"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "国民党研究续集",
+      "chapter": "001.国民党与云南起义",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/002.国民党研究续集/001.国民党与云南起义.txt",
+      "line": 9,
+      "lines": [
+        9,
+        224
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "国民党研究续集",
+        "chapter": "《国民党研究续集》自序",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/002.国民党研究续集/《国民党研究续集》自序.txt",
+        "line": 3,
+        "lines": [
+          3,
+          19
+        ],
+        "note": "1988年3月15日自序，说明续集成书时间和不加入国民党的研究立场。"
+      }
+    ],
+    "crossReferences": [
+      "li-ao-youhua-shuo-618-dismantles-kmt-hundred-year-history-and-separates-xingzhonghui",
+      "li-ao-fangdianji-019-dismantles-kmt-105-year-origin-claim"
+    ],
+    "round": "2026-07-06-guomindang-yanjiu-xuji-round001-closeout"
+  },
+  {
+    "id": "guomindang-yanjiu-xuji-1984-11-30-to-1985-01-27-writes-gangland-assassination-security-show-and-smear-propaganda-essays",
+    "date": "1984-11-30",
+    "displayDate": "1984年11月30日至1985年1月27日",
+    "datePrecision": "date-range",
+    "title": "李敖合写黑社会暗杀、治安秀与栽诬宣传短文组",
+    "summary": "李敖在《国民党研究续集》中把汪寿华被杀、江南命案后一清专案和爆炸案栽诬宣传合成一条暗杀政治线：他先追溯国民党利用杜月笙等黑社会暗杀工运人物的传统，再在江南案消息传出后判断一清专案是“治安秀”，最后比较国民党把爆炸案和江南案责任推给共产党、台独或党外的宣传模式。本条不重复旧有江南案底层事件，只收本书三篇文章的连组写法。",
+    "view": [
+      "写作线",
+      "政治线",
+      "法律线"
+    ],
+    "tags": [
+      "国民党研究续集",
+      "江南案",
+      "一清专案",
+      "黑社会",
+      "暗杀",
+      "宣传",
+      "栽诬"
+    ],
+    "people": [
+      "李敖",
+      "孙中山",
+      "杜月笙",
+      "张啸林",
+      "汪寿华",
+      "江南",
+      "陈启礼",
+      "吴敦",
+      "董桂森",
+      "俞大维",
+      "袁世凯",
+      "宋教仁"
+    ],
+    "places": [
+      "台湾",
+      "上海",
+      "美国",
+      "台北"
+    ],
+    "works": [
+      "国民党研究续集",
+      "国民党怎样指使黑社会暗杀别人？",
+      "国民党的“治安秀”",
+      "国民党的“栽诬大宣传”"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "国民党研究续集",
+      "chapter": "022.国民党的“治安秀”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/002.国民党研究续集/022.国民党的“治安秀”.txt",
+      "line": 5,
+      "lines": [
+        5,
+        23
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "国民党研究续集",
+        "chapter": "021.国民党怎样指使黑社会暗杀别人？",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/002.国民党研究续集/021.国民党怎样指使黑社会暗杀别人？.txt",
+        "line": 5,
+        "lines": [
+          5,
+          117
+        ],
+        "note": "1984年12月17日文，用汪寿华案追溯国民党与黑社会暗杀传统。"
+      },
+      {
+        "book": "国民党研究续集",
+        "chapter": "023.国民党的“栽诬大宣传”",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/002.国民党研究续集/023.国民党的“栽诬大宣传”.txt",
+        "line": 5,
+        "lines": [
+          5,
+          37
+        ],
+        "note": "1985年1月27日文，将爆炸案宣传、江南案嫁祸和宋教仁案后的责任推诿并列。"
+      }
+    ],
+    "crossReferences": [
+      "li-ao-qingshuji-1984-12-03-huiyun-letter-009-publishes-killing-silencing-to-catching-for-exculpation",
+      "li-ao-qingshuji-1984-12-05-huiyun-letter-010-argues-yiqing-project-was-cover-up",
+      "micang-diary-1985-01-31-records-united-daily-news-on-chen-qili-tape",
+      "jiangjieshi-yanjiu-liuji-1985-04-19-traces-everyone-may-kill-reasoning-from-chiang-to-jiangnan-case"
+    ],
+    "round": "2026-07-06-guomindang-yanjiu-xuji-round001-closeout"
+  },
+  {
+    "id": "guomindang-yanjiu-xuji-1985-01-06-to-1985-02-03-writes-kmt-feudalism-dai-li-shrine-and-martyrs-cult-essays",
+    "date": "1985-01-06",
+    "displayDate": "1985年1月6日至1985年2月3日",
+    "datePrecision": "date-range",
+    "title": "李敖合写国民党封建主义、戴笠祠堂与忠烈祠短文组",
+    "summary": "李敖在《国民党研究续集》中把太原五百完人纪念建筑、戴笠纪念堂、戴笠入忠烈祠和军统祭文压成一组封建主义批判：他指出国民党一面自称现代化，一面以建堂、入祠、风水迷信和“集体向上空长号”的祭仪塑造情治领袖神位。本条与前书忠烈祠旧锚相连，不重复制造戴笠入祠单点事件。",
+    "view": [
+      "写作线",
+      "政治线",
+      "文化线"
+    ],
+    "tags": [
+      "国民党研究续集",
+      "戴笠",
+      "忠烈祠",
+      "太原五百完人",
+      "祠堂",
+      "封建主义",
+      "军统"
+    ],
+    "people": [
+      "李敖",
+      "戴笠",
+      "阎锡山",
+      "刘启瑞",
+      "蒋介石",
+      "毛人凤"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "太原",
+      "青岛",
+      "南京"
+    ],
+    "works": [
+      "国民党研究续集",
+      "国民党一脑门子封建主义",
+      "国民党的建堂问题",
+      "国民党的入祠问题",
+      "国民党的“集体向上空长号”"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "国民党研究续集",
+      "chapter": "014.国民党的建堂问题",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/002.国民党研究续集/014.国民党的建堂问题.txt",
+      "line": 5,
+      "lines": [
+        5,
+        25
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "国民党研究续集",
+        "chapter": "015.国民党的入祠问题",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/002.国民党研究续集/015.国民党的入祠问题.txt",
+        "line": 5,
+        "lines": [
+          5,
+          43
+        ],
+        "note": "1985年1月6日午后文，依忠烈祠标准追问戴笠飞机失事何以入祠。"
+      },
+      {
+        "book": "国民党研究续集",
+        "chapter": "013.国民党一脑门子封建主义",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/002.国民党研究续集/013.国民党一脑门子封建主义.txt",
+        "line": 5,
+        "lines": [
+          5,
+          23
+        ],
+        "note": "1985年2月3日晨文，从戴笠死亡和风水迷信批判国民党封建脑袋。"
+      },
+      {
+        "book": "国民党研究续集",
+        "chapter": "016.国民党的“集体向上空长号”",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/002.国民党研究续集/016.国民党的“集体向上空长号”.txt",
+        "line": 15,
+        "lines": [
+          15,
+          21
+        ],
+        "note": "1985年2月3日傍晚文，摘军统祭戴笠文并讽刺其集体哀号仪式。"
+      }
+    ],
+    "crossReferences": [
+      "guomindang-yanjiu-1983-12-16-to-1986-12-08-writes-kmt-dogs-martyrs-shrine-warrants-and-seals",
+      "li-ao-youhua-shuo-153-traces-kmt-invention-of-taiyuan-five-hundred",
+      "li-ao-youhua-shuo-658-criticizes-chiang-misusing-martyrs-shrine-for-dai-li",
+      "tiaozhan-li-ao-2000-01-12-criticizes-martyrs-shrine-and-dai-li-precedent"
+    ],
+    "round": "2026-07-06-guomindang-yanjiu-xuji-round001-closeout"
+  },
+  {
+    "id": "guomindang-yanjiu-xuji-1985-08-08-writes-zong-ronglu-seppuku-and-kmt-small-spy-fate",
+    "date": "1985-08-08",
+    "displayDate": "1985年8月8日",
+    "datePrecision": "day",
+    "title": "李敖写《国民党好人切腹记》追述宗荣禄一生与自杀",
+    "summary": "李敖在1985年8月8日用八小时写定《国民党好人切腹记》，依据宗荣禄遗下的《天民回忆录》和自杀材料，追述这位天主教背景的边缘情报人员如何在战时与国民党、共产党、日军夹缝中求生，来台后又遭保密局监控、户籍受阻、劳动谋生、诉讼奔走，最终在1980年4月13日离开台大医院后切腹自杀，并把身体、书籍和积蓄捐出。本条只收李敖写作和概括宗荣禄命运，不拆宗荣禄生平为多条。",
+    "view": [
+      "写作线",
+      "社会线",
+      "政治线"
+    ],
+    "tags": [
+      "国民党研究续集",
+      "宗荣禄",
+      "天民回忆录",
+      "情报",
+      "保密局",
+      "自杀",
+      "老兵"
+    ],
+    "people": [
+      "李敖",
+      "宗荣禄",
+      "雷鸣远",
+      "戴笠",
+      "吴三连",
+      "高玉树",
+      "蒋介石",
+      "蒋经国",
+      "周百链"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "山西",
+      "延安",
+      "来福旅馆",
+      "台大医院"
+    ],
+    "works": [
+      "国民党研究续集",
+      "国民党好人切腹记",
+      "天民回忆录"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "国民党研究续集",
+      "chapter": "017.国民党好人切腹记",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/002.国民党研究续集/017.国民党好人切腹记.txt",
+      "line": 3,
+      "lines": [
+        3,
+        351
+      ]
+    },
+    "additionalSources": [],
+    "crossReferences": [],
+    "round": "2026-07-06-guomindang-yanjiu-xuji-round001-closeout"
+  },
+  {
+    "id": "guomindang-yanjiu-xuji-1987-01-01-to-1987-01-02-writes-spy-impersonation-letters-and-security-office-essays",
+    "date": "1987-01-01",
+    "displayDate": "1987年1月1日至1987年1月2日",
+    "datePrecision": "date-range",
+    "title": "李敖合写国民党特务信、冒牌特务与安全室短文组",
+    "summary": "李敖在1987年元旦前后连写《国民党的特务信》和《国民党特务统治外一章》，一面展示郑介民、贺衷寒、陶一珊、张炎元、沈之岳等情治人脉为退役或相关人员安插职位的书信，一面罗列1966年至1986年冒充军警、调查员、情报员诈骗、绑架或性侵的案例，指出冒牌特务之所以有效，正因为国民党特务统治赋予这种身份现实威力。本条把特务书信、人事安插与冒牌特务社会效应合并。",
+    "view": [
+      "写作线",
+      "政治线",
+      "社会线"
+    ],
+    "tags": [
+      "国民党研究续集",
+      "特务",
+      "情治",
+      "安全室",
+      "人事安插",
+      "冒充特务",
+      "警察国家"
+    ],
+    "people": [
+      "李敖",
+      "郑介民",
+      "邓杰",
+      "贺衷寒",
+      "陶一珊",
+      "夏维裳",
+      "徐会寿",
+      "张炎元",
+      "叶翔之",
+      "张超",
+      "沈之岳"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "国民大会",
+      "专卖局"
+    ],
+    "works": [
+      "国民党研究续集",
+      "国民党特务统治外一章",
+      "国民党的特务信"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "国民党研究续集",
+      "chapter": "012.国民党的特务信",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/002.国民党研究续集/012.国民党的特务信.txt",
+      "line": 5,
+      "lines": [
+        5,
+        117
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "国民党研究续集",
+        "chapter": "011.国民党特务统治外一章",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/002.国民党研究续集/011.国民党特务统治外一章.txt",
+        "line": 5,
+        "lines": [
+          5,
+          197
+        ],
+        "note": "1987年1月2日文，罗列冒充情治人员案例并解释其能骗成的警察国家背景。"
+      }
+    ],
+    "crossReferences": [],
+    "round": "2026-07-06-guomindang-yanjiu-xuji-round001-closeout"
+  }
+]

@@ -1,0 +1,725 @@
+[
+  {
+    "id": "laozei-choushi-1982-03-17-to-1988-08-06-writes-old-kmt-officials-traitor-biased-speech-and-hanjian-essays",
+    "date": "1982-03-17",
+    "displayDate": "1982年3月17日至1988年8月6日",
+    "datePrecision": "date-range",
+    "title": "李敖合写黄少谷、宋长志和陶希圣三则，抽出党国老臣的贰臣、偏激与钦命汉奸逻辑",
+    "summary": "《老贼臭史》开篇先以黄少谷做样本，李敖把这位司法院院长放进中国史书“贰臣传”的脉络，讽刺国民党以贰臣掌司法。随后《论宋长志的大脑构造》借警总机密文件中“偏激刊物”“偏激分子”语汇，追到1922年胡适日记里北洋军阀批示“勿宣传偏激之言论”，说明国民党并未比北洋更开明；《钦命汉奸？》则以陶龙生为陶希圣辩护的文字和陶希圣1940年致胡适密函相对照，否定“阴怀蒋码、阳投汪门”的钦命汉奸说。本条合收三篇老臣话术与历史身份批判，不另造黄少谷、宋长志、陶希圣个人传记线。",
+    "view": [
+      "写作线",
+      "政治线",
+      "司法线",
+      "思想线"
+    ],
+    "tags": [
+      "老贼臭史",
+      "国民党老臣",
+      "贰臣",
+      "偏激分子",
+      "汉奸辩白",
+      "党国司法"
+    ],
+    "people": [
+      "李敖",
+      "黄少谷",
+      "宋长志",
+      "陶希圣",
+      "陶龙生",
+      "胡适",
+      "晏子",
+      "张邦昌",
+      "吴襄",
+      "殷汝耕",
+      "唐生明"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "香港"
+    ],
+    "works": [
+      "老贼臭史",
+      "黄少谷应入贰臣传",
+      "论宋长志的大脑构造",
+      "钦命汉奸？",
+      "胡适北大日记选",
+      "中央日报"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "老贼臭史",
+      "chapter": "001.黄少谷应入贰臣传",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/004.老贼臭史/001.黄少谷应入贰臣传.txt",
+      "line": 9,
+      "lines": [
+        3,
+        17
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "老贼臭史",
+        "chapter": "006.论宋长志的大脑构造",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/004.老贼臭史/006.论宋长志的大脑构造.txt",
+        "line": 3,
+        "lines": [
+          3,
+          15
+        ],
+        "note": "1985年4月18日文，用警总机密文件和胡适1922年日记对照“偏激”话术。"
+      },
+      {
+        "book": "老贼臭史",
+        "chapter": "007.钦命汉奸？",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/004.老贼臭史/007.钦命汉奸？.txt",
+        "line": 3,
+        "lines": [
+          3,
+          11
+        ],
+        "note": "1988年8月6日文，借陶龙生文章与陶希圣致胡适密函否定钦命汉奸说。"
+      }
+    ],
+    "crossReferences": [
+      "guomindang-yanjiu-xuji-1984-04-02-to-1986-06-10-writes-zion-mountain-and-political-judiciary-essays",
+      "guomindang-yanjiu-1983-12-16-to-1986-12-08-writes-kmt-dogs-martyrs-shrine-warrants-and-seals",
+      "1964-09-02-tao-criticizes-li",
+      "1964-09-06-tao-bangshu"
+    ]
+  },
+  {
+    "id": "laozei-choushi-1982-04-07-writes-xu-fuguan-party-state-ideology-final-judgment",
+    "date": "1982-04-07",
+    "displayDate": "1982年4月7日",
+    "datePrecision": "day",
+    "title": "李敖写《你盖棺，我论定》，把徐复观定为党国学统、道统与自由民主包装人",
+    "summary": "李敖在《你盖棺，我论定》中不把徐复观只当作私人论敌，而是放进国民党败退台湾后的意识形态工程：他认为徐复观一面代国民党抢“学统”，把党团势力带进学术；一面代国民党抢“道统”，由钱穆、孔孟与新儒家包装党国文化；又从中国传统里硬找“自由民主”，把自由民主改造成政治手段。文章末段进一步称徐复观可以在党内党外、海内海外进出自如，是因为他在国民党眼中仍是“家里的人”。本条只收本书1982年的总论，不重复1960年代徐李官司和中西文化论战旧线。",
+    "view": [
+      "写作线",
+      "思想线",
+      "政治线",
+      "文星线"
+    ],
+    "tags": [
+      "老贼臭史",
+      "徐复观",
+      "学统",
+      "道统",
+      "自由民主",
+      "党国意识形态"
+    ],
+    "people": [
+      "李敖",
+      "徐复观",
+      "殷海光",
+      "胡适",
+      "钱穆",
+      "熊十力",
+      "牟宗三",
+      "任卓宣",
+      "康宁祥",
+      "周应龙"
+    ],
+    "places": [
+      "台湾",
+      "台中",
+      "台北",
+      "香港",
+      "曲阜"
+    ],
+    "works": [
+      "老贼臭史",
+      "你盖棺，我论定",
+      "民主评论",
+      "文星",
+      "中国思想史论集续编",
+      "良知的迷惘",
+      "中国时报"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "老贼臭史",
+      "chapter": "002.你盖棺，我论定",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/004.老贼臭史/002.你盖棺，我论定.txt",
+      "line": 3,
+      "lines": [
+        3,
+        131
+      ]
+    },
+    "crossReferences": [
+      "1966-02-21-xu-fuguan-attack",
+      "zaonian-riji-1966-01-06-talks-with-xu-fuguan-at-new-china-hotel",
+      "book5-1964-07-10-xu-fuguan-little-mad-dog-article",
+      "book5-1965-11-02-xu-hong-case-dismissed-li-appeals",
+      "danhuo-1962-05-13-political-review-cultural-forum",
+      "danhuo-1962-06-15-ruolan-reports-new-shape-of-debate"
+    ]
+  },
+  {
+    "id": "laozei-choushi-1982-09-13-writes-kmt-assassination-history-and-zhang-zhen-guo-evidence",
+    "date": "1982-09-13",
+    "displayDate": "1982年9月13日",
+    "datePrecision": "day",
+    "title": "李敖写《张琍敏的爸爸杀了谁？》，用国民党公开资料重查暗杀史",
+    "summary": "李敖在《张琍敏的爸爸杀了谁？》中，从孙文1919年反对暗杀说起，把国民党暗杀分成事后承认的“锄奸”和事后赖账的政治暗杀两类。文章用魏大铭在《传记文学》对戴笠、史量才、杨杏佛案的披露为引，再追到李公朴、闻一多案，特别抓出张振国在《中国一周》纪念陈诚文和官方《生命的光辉》中承认“枪杀”“制裁”李、闻的材料，说明国民党公开资料本身已足以反驳嫁祸共产党之说。末尾他又把这条暗杀史接回陈文成案、林宅血案和费希平的推论，预告真相迟早会由白发杀手或公开史料轮回浮现。本条不拆杨杏佛、史量才、闻一多、陈文成等旧案，只记录李敖在本书中的整体考证事件。",
+    "view": [
+      "写作线",
+      "政治线",
+      "司法线",
+      "史料线"
+    ],
+    "tags": [
+      "老贼臭史",
+      "国民党暗杀",
+      "军统",
+      "公开资料",
+      "传记文学",
+      "陈文成案"
+    ],
+    "people": [
+      "李敖",
+      "张振国",
+      "张琍敏",
+      "戴笠",
+      "魏大铭",
+      "杨杏佛",
+      "史量才",
+      "李公朴",
+      "闻一多",
+      "陈文成",
+      "陈庭茂",
+      "费希平",
+      "梁实秋",
+      "苏雪林",
+      "李宗黄",
+      "陈恭澍",
+      "赵理君",
+      "张秉午"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "上海",
+      "杭州",
+      "昆明",
+      "云南"
+    ],
+    "works": [
+      "老贼臭史",
+      "张琍敏的爸爸杀了谁？",
+      "传记文学",
+      "英雄无名",
+      "评述戴雨农先生的事功",
+      "中国一周",
+      "哭辞公·忆往事",
+      "生命的光辉"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "老贼臭史",
+      "chapter": "003.张琍敏的爸爸杀了谁？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/004.老贼臭史/003.张琍敏的爸爸杀了谁？.txt",
+      "line": 3,
+      "lines": [
+        3,
+        191
+      ]
+    },
+    "crossReferences": [
+      "guomindang-choushi-1981-07-27-to-1984-08-20-writes-party-paper-judicial-smear-and-political-prisoner-parole-essays",
+      "jiangjieshi-yanjiu-liuji-1985-04-19-traces-everyone-may-kill-reasoning-from-chiang-to-jiangnan-case",
+      "jiangjieshi-yanjiu-xuji-1985-05-08-writes-tao-chengzhang-assassination-case",
+      "guomindang-choushi-1981-12-01-to-1982-07-11-writes-party-ban-tolerance-and-free-intellectual-repression-essays"
+    ]
+  },
+  {
+    "id": "laozei-choushi-1983-03-01-writes-he-yingqin-surrender-bowing-and-okamura-backchannel-study",
+    "date": "1983-03-01",
+    "displayDate": "1983年3月1日",
+    "datePrecision": "day",
+    "title": "李敖写《为何将军腰》，从何应钦受降照片追出冈村宁次暗盘和媚日姿态",
+    "summary": "《为何将军腰》由1945年9月9日南京受降照片切入，李敖先指出国民党官方长期把向何应钦递交降书者误标成冈村宁次，实际照片人物是小林浅三郎；继而借吴相湘、今井武夫、田内正雄、冷欣和邵毓麟等材料，追查抗战末期“桐工作”“张钱路线”“何路线”、今井武夫与何柱国会谈、芷江洽降和南京受降前的暗盘。文章最后把冈村宁次获知降书、军刀安排、何应钦还礼和1956年何冈对话并列，说明国民党对日本战犯的体贴、宽容与宣传中的抗日姿态并不相称。本条只补《老贼臭史》中的原始长文考证，后来的电视节目重讲只作回挂。",
+    "view": [
+      "写作线",
+      "政治线",
+      "抗战线",
+      "史料线"
+    ],
+    "tags": [
+      "老贼臭史",
+      "何应钦",
+      "冈村宁次",
+      "今井武夫",
+      "南京受降",
+      "芷江洽降",
+      "媚日"
+    ],
+    "people": [
+      "李敖",
+      "何应钦",
+      "冈村宁次",
+      "小林浅三郎",
+      "今井武夫",
+      "何柱国",
+      "冷欣",
+      "邵毓麟",
+      "吴相湘",
+      "田内正雄",
+      "张群",
+      "宋子良",
+      "周佛海",
+      "丁默村",
+      "萧毅肃"
+    ],
+    "places": [
+      "南京",
+      "芷江",
+      "香港",
+      "重庆",
+      "上海",
+      "河南",
+      "杭州",
+      "东京"
+    ],
+    "works": [
+      "老贼臭史",
+      "为何将军腰",
+      "第二次中日战争史",
+      "今井武夫回忆录",
+      "在华日军投降",
+      "从参加抗战到目睹日军受降",
+      "胜利前后",
+      "铁证如山",
+      "文艺春秋"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "老贼臭史",
+      "chapter": "004.为何将军腰",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/004.老贼臭史/004.为何将军腰.txt",
+      "line": 3,
+      "lines": [
+        3,
+        309
+      ]
+    },
+    "crossReferences": [
+      "jiangjieshi-yanjiu-wuji-1983-03-03-reopens-okamura-war-criminal-acquittal-and-kmt-japan-channel",
+      "guomindang-choushi-1982-08-12-to-1991-04-24-writes-kmt-pro-japan-war-criminal-and-economic-servility-essays",
+      "li-ao-youhua-shuo-392-shows-he-yingqin-surrender-photo-and-bowing-posture",
+      "li-ao-youhua-shuo-392-corrects-surrender-photo-person-through-his-article",
+      "li-ao-youhua-shuo-392-uses-imai-takeo-memoir-on-zhijiang-negotiation",
+      "li-ao-youhua-shuo-392-shows-cold-he-okamura-materials-on-surrender-ceremony-rules"
+    ]
+  },
+  {
+    "id": "laozei-choushi-1983-12-21-to-1991-04-06-writes-everlasting-representatives-and-legislative-human-rights-essays",
+    "date": "1983-12-21",
+    "displayDate": "1983年12月21日至1991年4月6日",
+    "datePrecision": "date-range",
+    "title": "李敖合写宋英、费希平、杨宝琳、梁肃戎和薛岳，批万年民代与议场人权表演",
+    "summary": "李敖在《老贼臭史》中把几篇看似分散的议场人物短文串成一组：宋英在监察院年终检讨中承认多年不说话，却仍因雷震遗产与万年监委身份被李敖追问；费希平一面要别人退职，一面以民进党需要为由拒绝自退，被定为“老贼中的老贼”；杨宝琳在李世杰等十二名政治冤狱老人请求修改《国家安全法》第九条时，仍以依法行事阻挡归还上诉权；梁肃戎和薛岳则分别被放在老委员、外省政治、砸报馆传统与国民党议会文化中观察。本条合收本书关于万年民代、党外双重标准和司法上诉权的议场样本，不按每个老人另开传记。",
+    "view": [
+      "写作线",
+      "政治线",
+      "立法院线",
+      "司法线"
+    ],
+    "tags": [
+      "老贼臭史",
+      "万年民代",
+      "监察院",
+      "国家安全法",
+      "戒严法",
+      "党外",
+      "政治冤狱"
+    ],
+    "people": [
+      "李敖",
+      "宋英",
+      "雷震",
+      "张一中",
+      "费希平",
+      "谢长廷",
+      "杨宝琳",
+      "李世杰",
+      "胡学古",
+      "梁肃戎",
+      "康宁祥",
+      "胡秋原",
+      "薛岳",
+      "孙科",
+      "龚德柏"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "立法院",
+      "监察院",
+      "南京",
+      "上海"
+    ],
+    "works": [
+      "老贼臭史",
+      "宋英别丢老公的脸了！",
+      "谁是老贼中的老贼？",
+      "杨宝琳的贼婆心态",
+      "梁肃戎是第一劣等东北人",
+      "薛岳与民进党",
+      "国家安全法",
+      "戒严法",
+      "乌鸦评论",
+      "救国日报"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "老贼臭史",
+      "chapter": "005.宋英别丢老公的脸了！",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/004.老贼臭史/005.宋英别丟老公的脸了！.txt",
+      "line": 3,
+      "lines": [
+        3,
+        41
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "老贼臭史",
+        "chapter": "008.谁是老贼中的老贼？",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/004.老贼臭史/008.谁是老贼中的老贼？.txt",
+        "line": 3,
+        "lines": [
+          3,
+          15
+        ],
+        "note": "1988年12月9日文，批费希平要求别人退职而自己恋栈。"
+      },
+      {
+        "book": "老贼臭史",
+        "chapter": "014.杨宝琳的贼婆心态",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/004.老贼臭史/014.杨宝琳的贼婆心态.txt",
+        "line": 3,
+        "lines": [
+          3,
+          17
+        ],
+        "note": "1989年6月29日文，记录李世杰等十二人请求修改国安法以归还上诉权。"
+      },
+      {
+        "book": "老贼臭史",
+        "chapter": "017.梁肃戎是第一劣等东北人",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/004.老贼臭史/017.梁肃戎是第一劣等东北人.txt",
+        "line": 3,
+        "lines": [
+          3,
+          15
+        ],
+        "note": "1990年9月4日文，由梁肃戎主持老委员治丧和慰问康宁祥等事批其外省政治姿态。"
+      },
+      {
+        "book": "老贼臭史",
+        "chapter": "019.薛岳与民进党",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/004.老贼臭史/019.薛岳与民进党.txt",
+        "line": 3,
+        "lines": [
+          3,
+          33
+        ],
+        "note": "1991年4月6日文，把1948年薛岳等砸《救国日报》与1988年民进党砸报馆相连。"
+      }
+    ],
+    "crossReferences": [
+      "li-ao-shujianji-letterpaper-1984-03-18-dawn-writes-song-ying-lei-chen-muzha-house",
+      "qianqiu-wansui-1989-07-20-129-writes-why-they-do-not-retire",
+      "qianqiu-wansui-1989-before-jul-20-129-zhang-junhong-discusses-fei-xiping-retirement-fund",
+      "li-ao-lun-renwu-1987-07-14-to-1991-04-05-collects-prison-friends-and-martyr-memorial-essays",
+      "shilun-xinyu-1989-09-01-liang-su-rong-comments-on-mainlanders",
+      "preofficer-diary-1960-02-27-at-zhou-home-calls-xue-yue-daughter-and-zhou-chen-new-romeo-juliet-because-xue-once-wanted-arrest-zhou-dewei"
+    ]
+  },
+  {
+    "id": "laozei-choushi-1988-11-30-to-1990-03-writes-sheng-shicai-torture-and-tao-baichuan-human-rights-evidence",
+    "date": "1988-11-30",
+    "displayDate": "1988年11月30日至1990年3月",
+    "datePrecision": "date-range",
+    "title": "李敖从盛世才式虐待狂写到陶百川旧案，合成党国刑讯与人权伪装证据",
+    "summary": "《盛世才式虐待狂》用盛世才逼丁慰慈自诬卢布数目的例子，说明政治刑讯不是单纯逼供，而是审讯者先有腹案再逼受刑者猜中；李敖随即接到自己做政治犯时被警总保安处刑求的经验，点名尹俊、王洁、吴彰炯、李彬如、陈敬忠等人。1990年3月两篇陶百川文又转向1931年上海抗日学生运动，李敖根据《申报》报道和陈铭枢呈复文件，追出北大代表许秀岑、中大代表江学乾被殴架掳以及凶手“奉党的使命”行凶的官方证据，重申陶百川并非可被无条件接受的人权清流。本条把盛世才刑讯、李敖亲历政治刑求和陶百川旧案作为一组人权伪装证据，不另拆每个酷刑和每份文件。",
+    "view": [
+      "写作线",
+      "司法线",
+      "政治线",
+      "人权线"
+    ],
+    "tags": [
+      "老贼臭史",
+      "盛世才",
+      "刑讯",
+      "陶百川",
+      "人权",
+      "申报",
+      "政治犯"
+    ],
+    "people": [
+      "李敖",
+      "盛世才",
+      "丁慰慈",
+      "尹俊",
+      "王洁",
+      "吴彰炯",
+      "李彬如",
+      "陈敬忠",
+      "陶百川",
+      "陈兆基",
+      "陈铭枢",
+      "许秀岑",
+      "江学乾",
+      "张群",
+      "王福生"
+    ],
+    "places": [
+      "新疆",
+      "台湾",
+      "台北",
+      "上海",
+      "南京"
+    ],
+    "works": [
+      "老贼臭史",
+      "盛世才式虐待狂",
+      "陶百川蹂躏人权的证据",
+      "陶百川蹂躏人权的官方文件",
+      "申报",
+      "自由中国",
+      "从陶百川绑票大学生说起"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "老贼臭史",
+      "chapter": "010.盛世才式虐待狂",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/004.老贼臭史/010.盛世才式虐待狂.txt",
+      "line": 3,
+      "lines": [
+        3,
+        111
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "老贼臭史",
+        "chapter": "015.陶百川蹂躏人权的证据",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/004.老贼臭史/015.陶百川蹂躏人权的证据.txt",
+        "line": 3,
+        "lines": [
+          3,
+          89
+        ],
+        "note": "1990年3月文，用陈兆基代查《申报》材料补证陶百川1931年旧案。"
+      },
+      {
+        "book": "老贼臭史",
+        "chapter": "016.陶百川蹂躏人权的官方文件",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/004.老贼臭史/016.陶百川蹂躏人权的官方文件.txt",
+        "line": 3,
+        "lines": [
+          3,
+          15
+        ],
+        "note": "1990年3月文，补陈铭枢呈复文件作为官方证据。"
+      }
+    ],
+    "crossReferences": [
+      "li-ao-dageda-088-uses-sheng-shicai-ding-weici-torture-story-against-self-incrimination",
+      "li-ao-youhua-shuo-598-uses-sheng-shicai-ding-weici-torture-bottom-price",
+      "qianqiu-wansui-1982-07-22-031-writes-on-tao-baichuan-kidnapping-students",
+      "li-ao-youhua-shuo-301-uses-tao-baichuan-and-catholic-confession-story-to-explain-selective-human-rights"
+    ]
+  },
+  {
+    "id": "laozei-choushi-1988-12-09-to-1990-09-07-writes-old-kmt-bureaucrats-bribery-memoir-and-slave-official-essays",
+    "date": "1988-12-09",
+    "displayDate": "1988年12月9日至1990年9月7日",
+    "datePrecision": "date-range",
+    "title": "李敖用林栋、方治、谷正纲、俞国华和蒋彦士，合写老国民党官僚晚年样本",
+    "summary": "《官方秘密文件中的林栋受贿证据》以调查局《要案纪实》中的油商行贿案资料，写林栋被卷入受贿却最终获判无罪，进而指出蒋氏父子用司法案杀鸡儆猴的派系操作。《方治的画皮》从方治回忆录《我生之旅》挑出徐蚌、上海保卫战劳军片段，借其自我留皮反显败逃众生相；《谷正纲的年老嘴脸》写其老去后仍把“世盟”“亚盟”当禁脔，甚至由手下假造公文供批；《俞国华下台的省籍意义》转向浙江、宁波、奉化政治性格的讽刺；《蒋彦士，大混蛋》则把蒋经国、李登辉和蒋彦士之间的提拔关系称为奴才循环。本条合收老国民党官僚的贪腐、回忆录、地域政治和权力人格样本，不逐人拆小条。",
+    "view": [
+      "写作线",
+      "政治线",
+      "司法线",
+      "人物线"
+    ],
+    "tags": [
+      "老贼臭史",
+      "老国民党",
+      "油商行贿案",
+      "回忆录",
+      "省籍政治",
+      "李登辉",
+      "官僚样本"
+    ],
+    "people": [
+      "李敖",
+      "林栋",
+      "周书府",
+      "徐君佩",
+      "姚廷芳",
+      "方治",
+      "张道藩",
+      "邱清泉",
+      "谷正纲",
+      "张建邦",
+      "胡宗南",
+      "王昇",
+      "俞国华",
+      "蒋彦士",
+      "蒋经国",
+      "李登辉"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "南京",
+      "上海",
+      "宁波",
+      "奉化",
+      "南美"
+    ],
+    "works": [
+      "老贼臭史",
+      "官方秘密文件中的林栋受贿证据",
+      "方治的画皮",
+      "谷正纲的年老嘴脸",
+      "俞国华下台的省籍意义",
+      "蒋彦士，大混蛋",
+      "要案纪实",
+      "我生之旅"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "老贼臭史",
+      "chapter": "009.官方秘密文件中的林栋受贿证据",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/004.老贼臭史/009.官方秘密文件中的林栋受贿证据.txt",
+      "line": 3,
+      "lines": [
+        3,
+        135
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "老贼臭史",
+        "chapter": "011.方治的画皮",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/004.老贼臭史/011.方治的画皮.txt",
+        "line": 3,
+        "lines": [
+          3,
+          11
+        ],
+        "note": "1989年3月29日文，读方治《我生之旅》里的国民党败逃众生相。"
+      },
+      {
+        "book": "老贼臭史",
+        "chapter": "012.谷正纲的年老嘴脸",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/004.老贼臭史/012.谷正纲的年老嘴脸.txt",
+        "line": 3,
+        "lines": [
+          3,
+          21
+        ],
+        "note": "1989年5月13日文，写谷正纲晚年政治禁脔和认知失序。"
+      },
+      {
+        "book": "老贼臭史",
+        "chapter": "013.俞国华下台的省籍意义",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/004.老贼臭史/013.俞国华下台的省籍意义.txt",
+        "line": 3,
+        "lines": [
+          3,
+          23
+        ],
+        "note": "1989年5月22日文，由俞国华下台谈浙江、宁波、奉化政治性格。"
+      },
+      {
+        "book": "老贼臭史",
+        "chapter": "018.蒋彦士，大混蛋",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/004.老贼臭史/018.蒋彦士，大浑蛋.txt",
+        "line": 3,
+        "lines": [
+          3,
+          11
+        ],
+        "note": "1990年9月7日文，把蒋经国、李登辉和蒋彦士写成奴才循环。"
+      }
+    ],
+    "crossReferences": [
+      "lidenghui-jiamianju-1991-03-28-to-04-08-writes-lin-dong-and-mainland-taiwan-critiques",
+      "zhongguo-xiandaishi-dinglun-1989-01-10-writes-du-yuming-huaihai-fortieth-anniversary",
+      "li-ao-zhaji-1986-04-08-comments-kmt-third-plenum-gaffes",
+      "li-ao-zhaji-1984-06-16-criticizes-yu-kuo-hwa-explanation",
+      "li-ao-diandao-zhongsheng-059-analyzes-jiang-yanshi-coverup-and-lafayette-sheltering"
+    ]
+  },
+  {
+    "id": "laozei-choushi-1992-02-15-writes-qin-xiaoyi-chen-lifu-and-biographical-literature-family-servant-essay",
+    "date": "1992-02-15",
+    "displayDate": "1992年2月15日",
+    "datePrecision": "day",
+    "title": "李敖写《家奴终于忍不住了！》，把秦孝仪、陈立夫和《传记文学》转向合成护蒋史论",
+    "summary": "《家奴终于忍不住了！》以刘绍唐和《传记文学》的变化为引：李敖承认这本杂志过去太以国民党为正统取舍史料，但近年开始真理胜过利害，因而触怒秦孝仪等蒋家家奴。文章先写秦孝仪把《传记文学》骂成“匪谍”或“为匪张目”，再写陈立夫因陈洁如回忆录责备刘绍唐“见利忘义”，并追问当年阻陈洁如出版、经手钱财和蒋经国赠天母土地洋房的旧账。李敖把这篇收束成“家奴护主，颠倒史记”的护蒋史论，既接秦孝仪党史蒋史伪造案，也接陈立夫、陈洁如和刘绍唐旧线。",
+    "view": [
+      "写作线",
+      "史料线",
+      "政治线",
+      "媒体线"
+    ],
+    "tags": [
+      "老贼臭史",
+      "传记文学",
+      "秦孝仪",
+      "陈立夫",
+      "陈洁如",
+      "蒋家",
+      "史料控制"
+    ],
+    "people": [
+      "李敖",
+      "刘绍唐",
+      "秦孝仪",
+      "陈立夫",
+      "陈洁如",
+      "蒋介石",
+      "蒋经国",
+      "王爱生"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "天母"
+    ],
+    "works": [
+      "老贼臭史",
+      "家奴终于忍不住了！",
+      "传记文学",
+      "陈洁如回忆录"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "老贼臭史",
+      "chapter": "020.家奴终于忍不住了！",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/004.老贼臭史/020.家奴终于忍不住了！.txt",
+      "line": 3,
+      "lines": [
+        3,
+        17
+      ]
+    },
+    "crossReferences": [
+      "guomindang-choushi-1996-03-27-rebuts-lin-tianlin-and-qin-xiaoyi-history-forgery-lawsuit",
+      "zhongguo-xiandaishi-zhenglun-1988-11-20-writes-is-chen-lifu-not-cc",
+      "jiangjieshi-zhenmianmu-1985-09-06-writes-madame-chiang-cut-sleeve-photo-study",
+      "tiaozhan-li-ao-2000-02-11-starts-with-yu-youren-and-liu-shaotang-obituary",
+      "tiaozhan-li-ao-2000-02-11-criticizes-kmt-elders-memoirs-in-biographical-literature"
+    ]
+  }
+]

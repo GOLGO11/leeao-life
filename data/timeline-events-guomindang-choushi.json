@@ -1,0 +1,854 @@
+[
+  {
+    "id": "guomindang-choushi-1981-07-27-to-1984-08-20-writes-party-paper-judicial-smear-and-political-prisoner-parole-essays",
+    "date": "1981-07-27",
+    "displayDate": "1981年7月27日至1984年8月20日",
+    "datePrecision": "date-range",
+    "title": "李敖把党报捧杀、爆炸猜谜、冤案制造和政治犯假释合成司法宣传批判",
+    "summary": "李敖在《国民党臭史》中把《中央日报》和司法宣传放在同一组处理：他先由刘堂坤案批评党报从捧人到捧杀的舆论姿态，再写1983年《中央日报》被炸后国民党急于栽向共产党或台独，却遗忘自己打击报刊、围攻《自由中国》和制造政治暴力的历史。随后《不破案也好！》从陈文成案、两报爆炸案追到彭明敏出走后的跟监、台南美国新闻处和花旗银行爆炸冤案，说明压力下的破案可能变成制造案件；《别让国民党占了便宜又卖乖》则把林义雄等政治犯假释写成国民党在外压下退让后还想冒充宽大的表演。本条收本书的党报、司法与政治犯论证，不重造底层旧案。",
+    "view": [
+      "写作线",
+      "政治线",
+      "司法线",
+      "媒体线"
+    ],
+    "tags": [
+      "国民党臭史",
+      "中央日报",
+      "党报",
+      "冤案",
+      "爆炸案",
+      "政治犯",
+      "假释"
+    ],
+    "people": [
+      "李敖",
+      "刘堂坤",
+      "曹圣芬",
+      "范独材",
+      "陈文成",
+      "林义雄",
+      "彭明敏",
+      "李正义",
+      "刘展旦",
+      "吴忠信",
+      "郭荣文",
+      "詹崇雄",
+      "顾正纲",
+      "高俊明"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "台南",
+      "阳明山"
+    ],
+    "works": [
+      "国民党臭史",
+      "从《中央日报》捧杀人犯说起",
+      "谁炸了《中央日报》？",
+      "不破案也好！",
+      "别让国民党占了便宜又卖乖",
+      "中央日报",
+      "自由中国"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "国民党臭史",
+      "chapter": "014.不破案也好！",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/003.国民党臭史/014.不破案也好！.txt",
+      "line": 7,
+      "lines": [
+        7,
+        87
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "国民党臭史",
+        "chapter": "001.从《中央日报》捧杀人犯说起",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/003.国民党臭史/001.从《中央日报》捧杀人犯说起.txt",
+        "line": 3,
+        "lines": [
+          3,
+          23
+        ],
+        "note": "1981年7月27日改写文，由刘堂坤案批评党报捧人与法官想象式判案。"
+      },
+      {
+        "book": "国民党臭史",
+        "chapter": "013.谁炸了《中央日报》？",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/003.国民党臭史/013.谁炸了《中央日报》？.txt",
+        "line": 3,
+        "lines": [
+          3,
+          125
+        ],
+        "note": "1983年4月28日文，回应《中央日报》爆炸后国民党栽诬与党报暴力传统。"
+      },
+      {
+        "book": "国民党臭史",
+        "chapter": "016.别让国民党占了便宜又卖乖",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/003.国民党臭史/016.别让国民党占了便宜又卖乖.txt",
+        "line": 3,
+        "lines": [
+          3,
+          19
+        ],
+        "note": "1984年8月20日文，批评林义雄等政治犯假释被包装为宽大。"
+      }
+    ],
+    "crossReferences": [
+      "book2-1970-10-12-tainan-usis-bombing",
+      "1970-01-house-arrest-begins",
+      "li-ao-diandao-zhongsheng-048-judges-chen-wencheng-and-lin-family-cases-as-professional-killer-work",
+      "li-ao-zhenglun-zongyiji-044-attributes-lin-family-and-chen-wencheng-cases-to-professional-killers",
+      "guomindang-yanjiu-xuji-1984-11-30-to-1985-01-27-writes-gangland-assassination-security-show-and-smear-propaganda-essays"
+    ],
+    "round": "2026-07-06-guomindang-choushi-round001-closeout"
+  },
+  {
+    "id": "guomindang-choushi-1981-12-01-to-1982-07-11-writes-party-ban-tolerance-and-free-intellectual-repression-essays",
+    "date": "1981-12-01",
+    "displayDate": "1981年12月1日至1982年7月11日",
+    "datePrecision": "date-range",
+    "title": "李敖合写中央标准、反对党、度量与胡适旧案，批国民党党禁和自由分子压迫",
+    "summary": "李敖在《只许我中央，不许你中央》《反对党·党反对》《国民党的度量问题》和《压迫自由分子的一个例》中，把“中央”商标、党外无党、青年党与民社党的花瓶处境、胡适1945年劝毛泽东放下武力办反对党的天真，以及胡适在1920年代末至1930年遭国民党教育部、胡汉民、陈布雷等围攻的材料合成一组。他的重点不是重写胡适或青年党史，而是说明国民党一面喊宽容恢宏，一面用训政、戒严、党禁、报禁和行政命令压迫自由分子。",
+    "view": [
+      "写作线",
+      "政治线",
+      "思想线"
+    ],
+    "tags": [
+      "国民党臭史",
+      "党禁",
+      "反对党",
+      "党外",
+      "胡适",
+      "自由分子",
+      "青年党",
+      "民社党"
+    ],
+    "people": [
+      "李敖",
+      "胡适",
+      "毛泽东",
+      "胡汉民",
+      "陈布雷",
+      "梁实秋",
+      "李璜",
+      "张君劢",
+      "刘文典",
+      "杨杏佛",
+      "孙中山",
+      "谭延闿"
+    ],
+    "places": [
+      "台湾",
+      "上海",
+      "广州"
+    ],
+    "works": [
+      "国民党臭史",
+      "只许我中央，不许你中央",
+      "反对党·党反对",
+      "国民党的度量问题",
+      "压迫自由分子的一个例",
+      "人权论集",
+      "自由中国"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "国民党臭史",
+      "chapter": "003.反对党·党反对",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/003.国民党臭史/003.反对党·党反对.txt",
+      "line": 37,
+      "lines": [
+        37,
+        123
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "国民党臭史",
+        "chapter": "002.只许我中央，不许你中央",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/003.国民党臭史/002.只许我中央，不许你中央.txt",
+        "line": 3,
+        "lines": [
+          3,
+          17
+        ],
+        "note": "1981年12月1日文，从“中央”名称标准批国民党只许自己中央。"
+      },
+      {
+        "book": "国民党臭史",
+        "chapter": "005.国民党的度量问题",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/003.国民党臭史/005.国民党的度量问题.txt",
+        "line": 3,
+        "lines": [
+          3,
+          89
+        ],
+        "note": "1982年7月4日文，对照北洋、早年国民党和当代党禁，批评宽容口号为空话。"
+      },
+      {
+        "book": "国民党臭史",
+        "chapter": "006.压迫自由分子的一个例",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/003.国民党臭史/006.压迫自由分子的一个例.txt",
+        "line": 3,
+        "lines": [
+          3,
+          151
+        ],
+        "note": "1982年7月11日文，展开胡适被胡汉民、陈布雷和教育部压迫的具体例证。"
+      }
+    ],
+    "crossReferences": [
+      "zhongguo-xiandaishi-zhenglun-1964-year-writes-party-and-law",
+      "zhongguo-xiandaishi-zhenglun-1982-04-06-publishes-party-and-law-important-note",
+      "li-ao-youhua-shuo-110-quotes-hu-shih-and-promises-more-materials",
+      "li-ao-youhua-shuo-546-cites-hu-shih-god-can-be-criticized-to-defend-criticizing-ma"
+    ],
+    "round": "2026-07-06-guomindang-choushi-round001-closeout"
+  },
+  {
+    "id": "guomindang-choushi-1982-06-30-to-1989-12-13-writes-mainland-fantasy-anti-russia-retreat-and-kmt-retribution-essays",
+    "date": "1982-06-30",
+    "displayDate": "1982年6月30日至1989年12月13日",
+    "datePrecision": "date-range",
+    "title": "李敖合写反攻机器、意淫大陆、反俄退场与国民党报应短文组",
+    "summary": "李敖在《牛刀不杀鸡，杀什么？》中把反攻大陆的大机器转向台湾内部镇压，称国民党外事无力却对内凶狠；到1987年《国民党的“空诸所有”与“实诸所无”》，又把蒙藏委员会、新疆办公处、福建省政府和光复大陆设计委员会等机构压成“意淫大陆、手淫台湾”的证据。1989年《国民党的秋波》与《国民党的报应》则追到“抗俄”口号消失、赴苏接触、亚洲开发银行场合接受“Taipei, China”等现实退让，并把这视为蒋氏父子死后国民党必须为旧债付息的报应。本条回挂《国民党研究》既有意淫大陆和反攻无望锚点，不重复造同义事件。",
+    "view": [
+      "写作线",
+      "政治线",
+      "两岸线"
+    ],
+    "tags": [
+      "国民党臭史",
+      "反攻大陆",
+      "意淫大陆",
+      "光复大陆",
+      "反共抗俄",
+      "台湾",
+      "报应"
+    ],
+    "people": [
+      "李敖",
+      "蒋介石",
+      "蒋经国",
+      "朱抚松",
+      "福克斯·巴特菲尔德",
+      "郭婉容",
+      "李登辉"
+    ],
+    "places": [
+      "台湾",
+      "大陆",
+      "蒙古",
+      "西藏",
+      "新疆",
+      "福建",
+      "北京",
+      "苏联"
+    ],
+    "works": [
+      "国民党臭史",
+      "牛刀不杀鸡，杀什么？",
+      "国民党的“空诸所有”与“实诸所无”",
+      "国民党的秋波",
+      "国民党的报应"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "国民党臭史",
+      "chapter": "017.国民党的“空诸所有”与“实诸所无”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/003.国民党臭史/017.国民党的“空诸所有”与“实诸所无”.txt",
+      "line": 5,
+      "lines": [
+        5,
+        25
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "国民党臭史",
+        "chapter": "004.牛刀不杀鸡，杀什么？",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/003.国民党臭史/004.牛刀不杀鸡，杀什么？.txt",
+        "line": 3,
+        "lines": [
+          3,
+          31
+        ],
+        "note": "1982年6月30日文，从外交无能与对内镇压批反攻机器转向台湾。"
+      },
+      {
+        "book": "国民党臭史",
+        "chapter": "023.国民党的秋波",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/003.国民党臭史/023.国民党的秋波.txt",
+        "line": 3,
+        "lines": [
+          3,
+          11
+        ],
+        "note": "1989年5月6日文，写反俄口号消失、苏联接触和亚洲开发银行场合的政治退让。"
+      },
+      {
+        "book": "国民党臭史",
+        "chapter": "024.国民党的报应",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/003.国民党臭史/024.国民党的报应.txt",
+        "line": 3,
+        "lines": [
+          3,
+          9
+        ],
+        "note": "1989年12月13日文，把国民党的历史债务和民众不信任写成报应。"
+      }
+    ],
+    "crossReferences": [
+      "guomindang-yanjiu-1984-03-23-to-1984-12-13-writes-counterattack-and-symbolic-residue-essays",
+      "guomindang-yanjiu-1984-11-03-to-1988-03-10-frames-party-myths-land-fantasy-photo-forgery-and-autopsy",
+      "li-ao-dageda-010-reuses-phrase-obscene-mainland-self-pleasure-taiwan",
+      "li-ao-youhua-shuo-623-frames-kmt-recovery-script-as-obscene-mainland-fantasy",
+      "li-ao-youhua-shuo-687-shows-1949-central-daily-and-kmt-platform-change"
+    ],
+    "round": "2026-07-06-guomindang-choushi-round001-closeout"
+  },
+  {
+    "id": "guomindang-choushi-1982-08-12-to-1991-04-24-writes-kmt-pro-japan-war-criminal-and-economic-servility-essays",
+    "date": "1982-08-12",
+    "displayDate": "1982年8月12日至1991年4月24日",
+    "datePrecision": "date-range",
+    "title": "李敖合写国民党协助日本军国主义影片、倚靠岸信介与媚日经济短文组",
+    "summary": "李敖在《国民党为“大日本帝国”帮凶》《岸信介·国民党·汉奸》和《国民党的媚日经济》中，把三类媚日材料并列：一是中影、华航、永昌贸易等国民党相关机构协助日本电影《大日本帝国》；二是国民党一面反日教科书修订，一面又尊敬并倚靠满洲国和战犯罪名缠身的岸信介；三是1991年对日贸易逆差扩大而经济政策仍向日本倾斜。本条收的是本书对国民党日本路线的政论组合，冈村宁次、岸信介节目旧讲只作串联。",
+    "view": [
+      "写作线",
+      "政治线",
+      "外交线",
+      "经济线"
+    ],
+    "tags": [
+      "国民党臭史",
+      "媚日",
+      "岸信介",
+      "大日本帝国",
+      "日本战犯",
+      "对日贸易",
+      "华航",
+      "中影"
+    ],
+    "people": [
+      "李敖",
+      "西仓一喜",
+      "岸信介",
+      "东条英机",
+      "张燕卿",
+      "朱抚松",
+      "赵耀东",
+      "蒋经国",
+      "冈村宁次"
+    ],
+    "places": [
+      "台湾",
+      "日本",
+      "满洲国"
+    ],
+    "works": [
+      "国民党臭史",
+      "国民党为“大日本帝国”帮凶",
+      "岸信介·国民党·汉奸",
+      "国民党的媚日经济",
+      "大日本帝国"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "国民党臭史",
+      "chapter": "008.岸信介·国民党·汉奸",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/003.国民党臭史/008.岸信介·国民党·汉奸.txt",
+      "line": 3,
+      "lines": [
+        3,
+        69
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "国民党臭史",
+        "chapter": "007.国民党为“大日本帝国”帮凶",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/003.国民党臭史/007.国民党为“大日本帝国”帮凶.txt",
+        "line": 3,
+        "lines": [
+          3,
+          17
+        ],
+        "note": "1982年8月12日文，记西仓一喜所述中影、华航等协助日本影片。"
+      },
+      {
+        "book": "国民党臭史",
+        "chapter": "025.国民党的媚日经济",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/003.国民党臭史/025.国民党的媚日经济.txt",
+        "line": 3,
+        "lines": [
+          3,
+          9
+        ],
+        "note": "1991年4月24日文，由对日贸易逆差批国民党媚日经济。"
+      }
+    ],
+    "crossReferences": [
+      "jiangjieshi-yanjiu-wuji-1983-03-03-reopens-okamura-war-criminal-acquittal-and-kmt-japan-channel",
+      "li-ao-youhua-shuo-520-interprets-chiang-chingkuo-kishi-photo-as-hidden-manchukuo-history",
+      "micang-diary-1985-04-19-records-he-yingqin-song-age-and-japan-guests",
+      "jiangjieshi-yanjiu-liuji-1987-12-05-to-12-28-reopens-treaty-of-taipei-reparations-and-secret-reactions"
+    ],
+    "round": "2026-07-06-guomindang-choushi-round001-closeout"
+  },
+  {
+    "id": "guomindang-choushi-1982-09-11-writes-goldwater-reader-digest-and-copyright-piracy-essay",
+    "date": "1982-09-11",
+    "displayDate": "1982年9月11日",
+    "datePrecision": "day",
+    "title": "李敖写《高华德·国民党·海盗》，借版权查缉批国民党媚美",
+    "summary": "1982年9月11日，李敖写《高华德·国民党·海盗》。文章由高华德来信后台湾机关迅速查缉《读者文摘》盗版说起，追到1959年《大英百科全书》案、1966年《总统之死》在美国压力下被禁，以及清末民初、上海书业公会反对对外版权条约的资料。李敖把版权争议写成弱势社会传播知识与国民党媚美执法之间的冲突；本条不拆每个版权史例，只收这一篇长文的论证链。",
+    "view": [
+      "写作线",
+      "政治线",
+      "出版线",
+      "外交线"
+    ],
+    "tags": [
+      "国民党臭史",
+      "高华德",
+      "版权",
+      "盗版",
+      "大英百科全书",
+      "读者文摘",
+      "海盗",
+      "媚美"
+    ],
+    "people": [
+      "李敖",
+      "高华德",
+      "熊钝生",
+      "杜洁祥",
+      "陶希圣",
+      "史蒂文森",
+      "爱默生",
+      "卡莱尔",
+      "沈知方",
+      "张元济"
+    ],
+    "places": [
+      "台湾",
+      "美国",
+      "英国",
+      "上海"
+    ],
+    "works": [
+      "国民党臭史",
+      "高华德·国民党·海盗",
+      "Reader’s Digest",
+      "大英百科全书",
+      "Death of a President",
+      "海盗万岁"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "国民党臭史",
+      "chapter": "009.高华德·国民党·海盗",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/003.国民党臭史/009.高华德·国民党·海盗.txt",
+      "line": 3,
+      "lines": [
+        3,
+        207
+      ]
+    },
+    "additionalSources": [],
+    "crossReferences": [
+      "li-ao-shujianji-1982-09-07-writes-shitong-on-hugging-leg-and-hidden-not-retired-workday",
+      "li-ao-suixielu-qianji-1991-09-11-ke-jinzhu-contract-and-pirates-book",
+      "li-ao-youhua-shuo-333-shows-secret-documents-from-taiwan-us-office-and-ministry-to-target-danqing-company",
+      "li-ao-yumiao-tianxia-089-shows-pirated-original-britannica",
+      "li-ao-yumiao-tianxia-089-shows-embassy-secret-letter-danqing"
+    ],
+    "round": "2026-07-06-guomindang-choushi-round001-closeout"
+  },
+  {
+    "id": "guomindang-choushi-1982-11-08-to-1988-11-20-writes-party-discipline-factions-godsons-and-moral-smallness-essays",
+    "date": "1982-11-08",
+    "displayDate": "1982年11月8日至1988年11月20日",
+    "datePrecision": "date-range",
+    "title": "李敖合写中常委套汇、党籍儿戏、干儿子、狷者、政学系与司法院长小气短文组",
+    "summary": "李敖在《中常委走私套汇》《教国民党怎样收干儿子》《你儿戏，我也儿戏》《国民党有狷者吗？》《国民党的派系奇观》《张群不是政学系吗？》和《国民党“司法院长”的小气》中，把国民党的党内伦理压成一组：从雷震、洪兰友携款旧事追问中常委曹圣芬等人是否套汇走私；从收干儿子、朱汇森自称狷者和王宠惠小气轶事批其文化姿态；又由永久开除党籍、恢复党籍、汪精卫和陈公博处分反复，写出党籍处分像儿戏；最后以陈诚语录和张群否认政学系，说明国民党派系明明存在却长期遮掩。本条按党内纪律、派系和人格样本合并，不把每个轶事拆小条。",
+    "view": [
+      "写作线",
+      "政治线",
+      "人物线"
+    ],
+    "tags": [
+      "国民党臭史",
+      "中常委",
+      "套汇",
+      "党籍",
+      "派系",
+      "政学系",
+      "干儿子",
+      "狷者"
+    ],
+    "people": [
+      "李敖",
+      "雷震",
+      "洪兰友",
+      "曹圣芬",
+      "王宠惠",
+      "唐纵",
+      "吴荣根",
+      "蒋仲苓",
+      "郝柏村",
+      "王昇",
+      "汪精卫",
+      "陈公博",
+      "朱汇森",
+      "陈诚",
+      "张群",
+      "周永能",
+      "陈立夫"
+    ],
+    "places": [
+      "台湾",
+      "香港",
+      "上海",
+      "波兰"
+    ],
+    "works": [
+      "国民党臭史",
+      "中常委走私套汇",
+      "教国民党怎样收干儿子",
+      "你儿戏，我也儿戏",
+      "国民党有狷者吗？",
+      "国民党的派系奇观",
+      "张群不是政学系吗？",
+      "国民党“司法院长”的小气"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "国民党臭史",
+      "chapter": "012.你儿戏，我也儿戏",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/003.国民党臭史/012.你儿戏，我也儿戏.txt",
+      "line": 5,
+      "lines": [
+        5,
+        161
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "国民党臭史",
+        "chapter": "010.中常委走私套汇",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/003.国民党臭史/010.中常委走私套汇.txt",
+        "line": 3,
+        "lines": [
+          3,
+          13
+        ],
+        "note": "1982年11月8日文，由雷震、洪兰友携款旧事追问中常委套汇问题。"
+      },
+      {
+        "book": "国民党臭史",
+        "chapter": "011.教国民党怎样收干儿子",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/003.国民党臭史/011.教国民党怎样收干儿子.txt",
+        "line": 3,
+        "lines": [
+          3,
+          61
+        ],
+        "note": "1982年12月17日文，用古代义子和干儿子观念讽刺国民党政治仪式。"
+      },
+      {
+        "book": "国民党臭史",
+        "chapter": "015.国民党有狷者吗？",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/003.国民党臭史/015.国民党有狷者吗？.txt",
+        "line": 3,
+        "lines": [
+          3,
+          17
+        ],
+        "note": "1984年6月1日文，反驳朱汇森自称狷者。"
+      },
+      {
+        "book": "国民党臭史",
+        "chapter": "018.国民党的派系奇观",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/003.国民党臭史/018.国民党的派系奇观.txt",
+        "line": 3,
+        "lines": [
+          3,
+          11
+        ],
+        "note": "1988年11月20日文，以陈诚语录和党务教材说明国民党派系结构。"
+      },
+      {
+        "book": "国民党臭史",
+        "chapter": "019.张群不是政学系吗？",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/003.国民党臭史/019.张群不是政学系吗？.txt",
+        "line": 3,
+        "lines": [
+          3,
+          57
+        ],
+        "note": "1988年11月20日文，重刊雷啸岑与张群关于政学系的攻防。"
+      },
+      {
+        "book": "国民党臭史",
+        "chapter": "027.国民党“司法院长”的小气",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/003.国民党臭史/027.国民党“司法院长”的小气.txt",
+        "line": 3,
+        "lines": [
+          3,
+          15
+        ],
+        "note": "1991年10月17日文，借胡适日记中的王宠惠轶事讽刺党国大员人格。"
+      }
+    ],
+    "crossReferences": [
+      "guomindang-yanjiu-1984-02-14-to-1986-05-21-writes-private-power-and-purge-violence-essays",
+      "zhongguo-xiandaishi-zhenglun-1988-11-20-writes-is-chen-lifu-not-cc",
+      "li-ao-lun-renwu-1987-07-31-to-1989-09-16-writes-yin-haiguang-lei-zhen-publication-and-memorial-essays",
+      "qianqiu-wansui-1982-11-07-032-writes-shekou-and-rose"
+    ],
+    "round": "2026-07-06-guomindang-choushi-round001-closeout"
+  },
+  {
+    "id": "guomindang-choushi-1989-01-06-to-1989-05-02-writes-kmt-red-lineage-propaganda-work-and-may-fourth-essays",
+    "date": "1989-01-06",
+    "displayDate": "1989年1月6日至5月2日",
+    "datePrecision": "date-range",
+    "title": "李敖合写戴传贤红色记录、文工会源流与国民党五四论短文组",
+    "summary": "李敖在1989年初连续把国民党革命谱系和宣传谱系翻过来读：在《国民党元老·共产党元勋》中，他借戴传贤材料说明国民党元老与中共创建早期关系并非官方愿意呈现的清白线；在《文工会研究》中，追到1920年代国民党中央宣传部、毛泽东代理部长和台湾时期文工会人员；在《国民党与五四》中，则区分新文化运动与五四运动，批评国民党用三民主义口径解释五四，反而背离民主与科学。本条按党史宣传和五四解释合并，红色黄埔和蒋介石亲共旧锚只作串联。",
+    "view": [
+      "写作线",
+      "政治线",
+      "思想线"
+    ],
+    "tags": [
+      "国民党臭史",
+      "戴传贤",
+      "文工会",
+      "中央宣传部",
+      "毛泽东",
+      "五四",
+      "新文化运动",
+      "三民主义"
+    ],
+    "people": [
+      "李敖",
+      "戴传贤",
+      "周佛海",
+      "陈公博",
+      "张国焘",
+      "毛泽东",
+      "叶楚伧",
+      "邵力子",
+      "张道藩",
+      "陶希圣",
+      "谢然之",
+      "胡适",
+      "蒋介石"
+    ],
+    "places": [
+      "台湾",
+      "广州",
+      "北京"
+    ],
+    "works": [
+      "国民党臭史",
+      "国民党元老·共产党元勋",
+      "文工会研究",
+      "国民党与五四",
+      "政治周报"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "国民党臭史",
+      "chapter": "021.文工会研究",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/003.国民党臭史/021.文工会研究.txt",
+      "line": 3,
+      "lines": [
+        3,
+        15
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "国民党臭史",
+        "chapter": "020.国民党元老·共产党元勋",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/003.国民党臭史/020.国民党元老·共产党元勋.txt",
+        "line": 3,
+        "lines": [
+          3,
+          15
+        ],
+        "note": "1989年1月6日文，借戴传贤材料揭国民党元老与中共早期关系。"
+      },
+      {
+        "book": "国民党臭史",
+        "chapter": "022.国民党与五四",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/003.国民党臭史/022.国民党与五四.txt",
+        "line": 3,
+        "lines": [
+          3,
+          13
+        ],
+        "note": "1989年5月2日文，区分新文化运动、五四和国民党党化解释。"
+      }
+    ],
+    "crossReferences": [
+      "jiangjieshi-yanjiu-siji-1984-06-21-to-1987-08-24-reframes-huangpu-as-red-and-chiang-as-communist-comrade",
+      "li-ao-yumiao-tianxia-092-shows-kmt-second-congress-mao-chiang-document",
+      "li-ao-zhenglun-zongyiji-051-distinguishes-new-culture-from-may-fourth-politicization",
+      "li-ao-mimi-shufang-019-corrects-new-culture-context-and-chen-duxiu-photo"
+    ],
+    "round": "2026-07-06-guomindang-choushi-round001-closeout"
+  },
+  {
+    "id": "guomindang-choushi-1991-08-05-writes-kmt-pseudo-government-destroys-shihsanhang-ruins",
+    "date": "1991-08-05",
+    "displayDate": "1991年8月5日",
+    "datePrecision": "day",
+    "title": "李敖写《国民党伪政府摧毁十三行真古迹！》，批评污水厂工程破坏遗址",
+    "summary": "1991年8月5日，李敖写《国民党伪政府摧毁十三行真古迹！》。文章先解释广州十三行旧名，再转到台北县八里十三行遗址：李敖列出1957年台大试掘、中研院发现汉唐钱币和史前炼铁遗迹等资料，批评国民党政府仍把污水处理厂工程压到遗址上，又让吴泽元、赵少康等官员把责任推给中研院。他把这写成“伪政府”摧毁真古迹、却维护自身假纪念物的典型。",
+    "view": [
+      "写作线",
+      "文化线",
+      "政治线"
+    ],
+    "tags": [
+      "国民党臭史",
+      "十三行遗址",
+      "古迹",
+      "污水处理厂",
+      "文化资产",
+      "台北县",
+      "中研院"
+    ],
+    "people": [
+      "李敖",
+      "吴泽元",
+      "赵少康",
+      "尤清"
+    ],
+    "places": [
+      "台北县",
+      "八里",
+      "十三行遗址",
+      "广州",
+      "台湾"
+    ],
+    "works": [
+      "国民党臭史",
+      "国民党伪政府摧毁十三行真古迹！"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "国民党臭史",
+      "chapter": "026.国民党伪政府摧毁十三行真古迹！",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/003.国民党臭史/026.国民党伪政府摧毁十三行真古迹！.txt",
+      "line": 3,
+      "lines": [
+        3,
+        59
+      ]
+    },
+    "additionalSources": [],
+    "crossReferences": [
+      "li-ao-suixielu-qianji-1991-10-30-comments-youqing-dabenkeng-site-destruction"
+    ],
+    "round": "2026-07-06-guomindang-choushi-round001-closeout"
+  },
+  {
+    "id": "guomindang-choushi-1996-03-27-rebuts-lin-tianlin-and-qin-xiaoyi-history-forgery-lawsuit",
+    "date": "1996-03-27",
+    "displayDate": "1996年3月27日",
+    "datePrecision": "day",
+    "title": "李敖作答辩状驳林天麟与秦孝仪，汇总三十项党史蒋史篡改证据",
+    "summary": "1996年3月27日，李敖写《驳国民党检察官林天麟和国民党大员秦孝仪》。这篇答辩状以秦孝仪告诉为对象，集中反驳三十项史料作伪或删改：孙中山“天下为公”墨迹被删上款、蒋介石杀陶成章的“公怒杀之”被改、徐锡麟照片被修成西式分头、蒋介石逃日原因和初见孙中山年代被改写、遗嘱与基督教时间被包装、蒋介石亲共和好色文字被删、孙蒋合照与黄埔合照被修版、杨虎城和康泽条目被捏造、戴笠被列先烈、《蒋夫人语粹》把英语格言当蒋宋美龄语录，以及“毋忘在莒”被张冠李戴。李敖把这些证据用来反击检察官和秦孝仪借司法钳口；本条作为本书末篇司法与史学案整体入库，不把三十项逐条拆散。",
+    "view": [
+      "写作线",
+      "司法线",
+      "政治线",
+      "史学线"
+    ],
+    "tags": [
+      "国民党臭史",
+      "秦孝仪",
+      "林天麟",
+      "答辩状",
+      "党史",
+      "蒋介石",
+      "史料篡改",
+      "司法"
+    ],
+    "people": [
+      "李敖",
+      "林天麟",
+      "秦孝仪",
+      "孙中山",
+      "蒋介石",
+      "陶成章",
+      "徐锡麟",
+      "张群",
+      "何应钦",
+      "王柏龄",
+      "杨虎城",
+      "康泽",
+      "戴笠",
+      "蒋宋美龄",
+      "田单",
+      "鲍叔牙",
+      "齐桓公"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "东京",
+      "黄埔",
+      "重庆",
+      "金门",
+      "莒"
+    ],
+    "works": [
+      "国民党臭史",
+      "驳国民党检察官林天麟和国民党大员秦孝仪",
+      "国父图像墨迹集珍",
+      "民国十五年以前之蒋介石先生",
+      "总统蒋公思想言论总集",
+      "中华民国史画",
+      "中国现代史辞典",
+      "蒋夫人语粹",
+      "陆军军官学校第三期同学录序"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "国民党臭史",
+      "chapter": "028.驳国民党检察官林天麟和国民党大员秦孝仪",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/003.国民党臭史/028.驳国民党检察官林天麟和国民党大员秦孝仪.txt",
+      "line": 3,
+      "lines": [
+        3,
+        333
+      ]
+    },
+    "additionalSources": [],
+    "crossReferences": [
+      "li-ao-shuqiji-1995-05-13-prosecutors-office-qin-xiaoyi-alibi-during-teresa-teng-funeral-report",
+      "li-ao-shuqiji-1996-08-20-writes-investigation-bureau-on-sun-yatsen-calligraphy-qin-xiaoyi-case",
+      "li-ao-fangtanlu-2000-07-26-wins-qin-xiaoyi-defamation-compensation",
+      "jiangjieshi-yanjiu-sanji-1985-09-05-rechecks-tao-chengzhang-from-anger-to-killing-wording",
+      "jiangjieshi-yanjiu-siji-1984-06-21-to-1987-08-24-reframes-huangpu-as-red-and-chiang-as-communist-comrade",
+      "jiangjieshi-yanjiu-siji-1984-06-30-reconstructs-yang-hucheng-murder-from-zhou-yanghao",
+      "jiangjieshi-yanjiu-wuji-1984-06-07-to-1985-08-25-extends-kang-ze-and-captured-generals-evidence",
+      "chouloude-zhongguoren-yanjiu-1987-01-18-to-1988-05-06-critiques-chiang-father-son-political-psychology-and-tian-dan",
+      "li-ao-youhua-shuo-012-compares-real-and-altered-xu-xilin-photos",
+      "li-ao-youhua-shuo-252-compares-chiang-publications-and-restores-deleted-twenty-five-words"
+    ],
+    "round": "2026-07-06-guomindang-choushi-round001-closeout"
+  }
+]

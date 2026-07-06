@@ -1,0 +1,1872 @@
+[
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-06-minjindang-yanjiu-round001-preface-001-020",
+    "id": "minjindang-yanjiu-1989-03-13-writes-preface-framing-dpp-as-evidence-target",
+    "date": "1989-03-13",
+    "year": 1989,
+    "month": 3,
+    "day": 13,
+    "displayDate": "1989年3月13日",
+    "datePrecision": "day",
+    "title": "李敖写《民进党研究》自序，说明以证据批判民进党",
+    "summary": "《民进党研究》自序署日1989年3月13日。李敖把本书放在《国民党研究》《国民党研究续集》之后，说明自己感情上对民进党有党外源流的爱，但理智上认为国民党、民进党各有荒谬、错误与害民之处，均须以证据证明。他又回指自己5年前在香港《花花公子》访问中预判民进党发展，认为民进党已偏离反对党大方向，甚至有“比国民党还国民党”的倾向。本条只收本书出版性自序与批判框架，不把后续60篇逐篇拆为出版事件。",
+    "source": {
+      "book": "民进党研究",
+      "chapter": "《民进党研究》自序.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/《民进党研究》自序.txt",
+      "line": 3,
+      "lines": [
+        3,
+        17
+      ]
+    },
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "民进党研究",
+      "国民党研究",
+      "国民党研究续集",
+      "我为什么支持王八蛋？",
+      "花花公子"
+    ],
+    "tags": [
+      "民进党研究",
+      "自序",
+      "民进党",
+      "党外",
+      "证据批判"
+    ],
+    "view": [
+      "写作线",
+      "出版线",
+      "政治线",
+      "台湾史政线"
+    ],
+    "crossReferences": [
+      "lengyan-kan-taiwan-1983-04-03-to-1988-03-16-writes-kang-ningxiang-eighties-consensus-and-dpp-decorum-critiques",
+      "fayan-kan-taiwan-1988-03-23-writes-zuo-shunsheng-and-zhu-gaozheng-private-meeting-decorum"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-06-minjindang-yanjiu-round001-preface-001-020",
+    "id": "minjindang-yanjiu-1981-11-09-to-1983-08-10-writes-dangwai-name-jail-and-route-foundation",
+    "date": "1981-11-09",
+    "endDate": "1983-08-10",
+    "year": 1981,
+    "month": 11,
+    "day": 9,
+    "displayDate": "1981年11月9日至1983年8月10日",
+    "datePrecision": "date-range",
+    "title": "李敖从党外称谓、坐牢示范到路线斗争，建立党外须认清国民党的论述",
+    "summary": "001至004合并为党外基础论述组。001追问“党外”一词来源，引用国民党、报纸和蒋介石言论，说明称谓并非党外自造；002署日1982年3月12日，借卡莱尔蜡烛比喻，批评党外人士怕坐牢、盼特赦的心理，主张政治犯应以坐牢完成示范；003署日1982年5月23日，从自己1976年出狱后观察到“混蛋比以前多了”谈起，提醒党外辨清国民党家族性、御用历史和乡愿风；004署日1983年8月10日，回应邱垂亮海外《1983年台湾党外的路线斗争》，反对把问题化约为温和与激进，强调党外真正关节在于是否认清国民党、是否还幻想与虎谋皮。本条压缩为一条早期党外路线底稿，避免重复拆出陶百川、徐复观、康宁祥等旧案。",
+    "source": {
+      "book": "民进党研究",
+      "chapter": "001.党外是谁喊出来的？.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/001.党外是谁喊出来的？.txt",
+      "line": 3,
+      "lines": [
+        3,
+        65
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "民进党研究",
+        "chapter": "002.党外人士的一个毛病.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/002.党外人士的一个毛病.txt",
+        "line": 3,
+        "lines": [
+          3,
+          17
+        ],
+        "note": "补出1982年3月12日李敖以坐牢示范批评党外人士怕牺牲的论述。"
+      },
+      {
+        "book": "民进党研究",
+        "chapter": "003.党外与浑蛋.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/003.党外与浑蛋.txt",
+        "line": 3,
+        "lines": [
+          3,
+          97
+        ],
+        "note": "补出1982年5月23日李敖从出狱观察、国民党家族性和党外乡愿风提出的五重提醒。"
+      },
+      {
+        "book": "民进党研究",
+        "chapter": "004.咬熊、斗牛与政治.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/004.咬熊、斗牛与政治.txt",
+        "line": 5,
+        "lines": [
+          5,
+          209
+        ],
+        "note": "补出1983年8月10日李敖回应邱垂亮党外路线斗争论，重申不要与国民党合作的长文。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "邱垂亮",
+      "康宁祥",
+      "陶百川",
+      "徐复观",
+      "费希平",
+      "林正杰",
+      "陈水扁",
+      "尤清"
+    ],
+    "places": [
+      "台湾",
+      "香港"
+    ],
+    "works": [
+      "民进党研究",
+      "党外是谁喊出来的？",
+      "党外人士的一个毛病",
+      "党外与浑蛋",
+      "咬熊、斗牛与政治",
+      "1983年台湾党外的路线斗争",
+      "八十年代",
+      "美丽岛",
+      "自由中国"
+    ],
+    "tags": [
+      "民进党研究",
+      "党外",
+      "路线斗争",
+      "坐牢",
+      "国民党家族性",
+      "康宁祥",
+      "邱垂亮"
+    ],
+    "view": [
+      "思想线",
+      "写作线",
+      "政治线",
+      "台湾史政线"
+    ],
+    "crossReferences": [
+      "baiyan-kan-taiwan-1982-05-06-to-1982-05-29-writes-tao-baichuan-youth-party-and-kmt-family-lesson",
+      "baiyan-kan-taiwan-1982-06-02-to-1982-08-03-writes-firebrand-vs-water-and-combat-test-for-opposition",
+      "fayan-kan-taiwan-1983-06-25-to-08-11-writes-pope-tao-baichuan-and-kmt-family-warning",
+      "fayan-kan-taiwan-1983-08-25-to-09-26-writes-solaz-support-association-and-mainstream-critiques"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-06-minjindang-yanjiu-round001-preface-001-020",
+    "id": "minjindang-yanjiu-1983-10-08-to-1984-06-22-writes-dangwai-name-election-goal-and-kang-warning",
+    "date": "1983-10-08",
+    "endDate": "1984-06-22",
+    "year": 1983,
+    "month": 10,
+    "day": 8,
+    "displayDate": "1983年10月8日至1984年6月22日",
+    "datePrecision": "date-range",
+    "title": "李敖围绕党外“名器”、鸡骨头目标和康系路线连续警告选举党外",
+    "summary": "005至008合并为1983年选举前后党外名义与康系路线警告组。005署日1983年10月8日，批评张德铭非法借党外后援会名义、费希平等“多位民意代表”背书，称其窃盗党外“名器”；006署日10月27日清晨，从郭国基“国民党把鸡吃了，丢下鸡骨头给我们抢”谈起，区分党外的大目标与小目标，反驳只把议会席位当路线；007署日11月7日，围绕康宁祥、高雄事件、放水、国民党报刊捧场和“康系”人物，提出“这种人，我们还敢选他吗”；008署日1984年6月22日，用《蚱蜢与猫头鹰》警告党外不要误信敌人称赞和酒会。本条把选举、议会路线与康系批判收成一组，不再逐篇拆碎。",
+    "source": {
+      "book": "民进党研究",
+      "chapter": "005.谁窃盗了党外的“名器”？.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/005.谁窃盗了党外的“名器”？.txt",
+      "line": 5,
+      "lines": [
+        5,
+        111
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "民进党研究",
+        "chapter": "006.大目标与小目标.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/006.大目标与小目标.txt",
+        "line": 5,
+        "lines": [
+          5,
+          115
+        ],
+        "note": "补出1983年10月27日李敖借郭国基鸡骨头语和议会路线争论，提醒党外勿以席位小目标替代民主大目标。"
+      },
+      {
+        "book": "民进党研究",
+        "chapter": "007.这种人，我们还敢选他吗？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/007.这种人，我们还敢选他吗？.txt",
+        "line": 5,
+        "lines": [
+          5,
+          175
+        ],
+        "note": "补出1983年11月7日李敖集中批评康系人物、康宁祥放水和党外选举选择。"
+      },
+      {
+        "book": "民进党研究",
+        "chapter": "008.蚱蜢必读.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/008.蚱蜢必读.txt",
+        "line": 3,
+        "lines": [
+          3,
+          11
+        ],
+        "note": "补出1984年6月22日李敖用《蚱蜢与猫头鹰》寓言警告党外勿被敌人花言巧语诱入网罗。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "张德铭",
+      "费希平",
+      "苏贞昌",
+      "谢三升",
+      "郭国基",
+      "康宁祥",
+      "苏秋镇",
+      "林义雄",
+      "田朝明"
+    ],
+    "places": [
+      "台湾",
+      "桃竹苗",
+      "中坜",
+      "高雄"
+    ],
+    "works": [
+      "民进党研究",
+      "谁窃盗了党外的“名器”？",
+      "大目标与小目标",
+      "这种人，我们还敢选他吗？",
+      "蚱蜢必读",
+      "前进广场",
+      "生根",
+      "暖流"
+    ],
+    "tags": [
+      "民进党研究",
+      "党外后援会",
+      "党外名器",
+      "鸡骨头",
+      "议会路线",
+      "康系",
+      "康宁祥"
+    ],
+    "view": [
+      "政治线",
+      "写作线",
+      "选举线",
+      "台湾史政线"
+    ],
+    "crossReferences": [
+      "fayan-kan-taiwan-1983-09-to-10-08-writes-xu-guotai-xu-rongshu-meng-xiangke-election-appeals",
+      "fayan-kan-taiwan-1983-12-09-writes-kmt-victory-or-dangwai-victory-election-analysis",
+      "qianqiu-wansui-1983-10-29-015-writes-preface-jigu-paomo-qiang",
+      "baiyan-kan-taiwan-1983-03-20-to-1983-04-11-writes-kang-water-temporary-provisions-and-monkey-lesson"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-06-minjindang-yanjiu-round001-preface-001-020",
+    "id": "minjindang-yanjiu-1986-05-09-to-06-03-writes-youqing-overseas-party-communication-and-registration",
+    "date": "1986-05-09",
+    "endDate": "1986-06-03",
+    "year": 1986,
+    "month": 5,
+    "day": 9,
+    "displayDate": "1986年5月9日至6月3日",
+    "datePrecision": "date-range",
+    "title": "李敖批评尤清、公政会与党内外沟通，警告改名登记会套牢党外",
+    "summary": "012至014合并为1986年组党、公政会沟通与登记警告组。012署日1986年5月9日，针对纽约“台湾民主党建党委员会”成立后尤清、谢长廷、江鹏坚等人划清界限，批评尤清占着组党位置却迟不行动；013署日5月14日午，以“沟通沟通，统统掉在阴沟里”回应蒋经国指示沟通、陶百川等组饭局和党内外代表餐叙，认为登记、改名、分会许可都是国民党诱党外上桌、分化党外、套牢公政会的布局，并在5月22日夜简答尤清来函；014署日6月3日午，进一步从“党外”称谓、政党登记和《非常时期人民团体组织法》逐条说明“一登记，就套牢”。本条只记录李敖对1986年公政会路线的连续写作，五一九绿色行动捐款与被跟监另补入旧锚。",
+    "source": {
+      "book": "民进党研究",
+      "chapter": "012.有感于尤清等人的谈话.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/012.有感于尤清等人的谈话.txt",
+      "line": 3,
+      "lines": [
+        3,
+        29
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "民进党研究",
+        "chapter": "013.尤清与阴沟.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/013.尤清与阴沟.txt",
+        "line": 3,
+        "lines": [
+          3,
+          203
+        ],
+        "note": "补出1986年5月14日《沟通沟通，统统掉在阴沟里》和5月22日夜简答尤清来函。"
+      },
+      {
+        "book": "民进党研究",
+        "chapter": "014.一登记，就套牢.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/014.一登记，就套牢.txt",
+        "line": 3,
+        "lines": [
+          3,
+          59
+        ],
+        "note": "补出1986年6月3日李敖从改名、登记和人民团体法论证公政会一登记即被套牢。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "尤清",
+      "谢长廷",
+      "江鹏坚",
+      "郑南榕",
+      "陈水扁",
+      "蒋经国",
+      "陶百川",
+      "康宁祥",
+      "费希平",
+      "张俊雄",
+      "梁肃戎"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "纽约",
+      "龙山寺"
+    ],
+    "works": [
+      "民进党研究",
+      "有感于尤清等人的谈话",
+      "尤清与阴沟",
+      "一登记，就套牢",
+      "民主天地周刊",
+      "自立晚报",
+      "中国时报"
+    ],
+    "tags": [
+      "民进党研究",
+      "尤清",
+      "党外公政会",
+      "台湾民主党",
+      "五一九绿色行动",
+      "沟通",
+      "登记",
+      "改名"
+    ],
+    "view": [
+      "政治线",
+      "写作线",
+      "论战线",
+      "台湾史政线"
+    ],
+    "crossReferences": [
+      "fayan-kan-taiwan-1985-01-08-to-08-09-writes-gongzhenghui-name-and-dont-strip-too-fast",
+      "lengyan-kan-taiwan-1983-11-26-to-1987-12-16-writes-qianjin-third-kind-people-and-gongzhenghui-route-critiques",
+      "li-ao-duihualu-1986-05-17-to-19-donates-to-and-is-confined-during-519-green-action",
+      "li-ao-zhaji-1986-04-08-comments-519-green-action-and-martial-law"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-06-minjindang-yanjiu-round001-preface-001-020",
+    "id": "minjindang-yanjiu-1986-07-10-to-11-13-writes-legislative-walkout-gongzhenghui-branches-and-kang-rumor-rebuttals",
+    "date": "1986-07-10",
+    "endDate": "1986-11-13",
+    "year": 1986,
+    "month": 7,
+    "day": 10,
+    "displayDate": "1986年7月10日至11月13日",
+    "datePrecision": "date-range",
+    "title": "李敖从党外五立委退席、公政会分会到康系刊物造谣，连续追击尤清与康宁祥路线",
+    "summary": "015至018合并为1986年下半年公政会与康系反击组。015署日7月10日午，肯定费希平、江鹏坚、许荣淑、张俊雄、郑余镇等党外五立委抗议议事规则修正案退席，但仍强调党外参加国民党议会体制必须有更高战斗原则；016署日7月17日午，批评党外公政会和尤清在分会设置、云林分会申请、地方人事上不公不服众；017署日10月26日，点名《首都周刊》、首都公政分会和康系人物在“台湾人权促进会”声明中的政治公道问题；018署日11月13日夜，反击康宁祥任社长的《亚洲人》抢先刊登吴祥辉《李敖死了》中“李敖批康为私仇”的捏造，逐项用1965年12月31日唯一见黄信介、入狱与软禁时间线拆穿所谓旧恨。本条把尤清、公政会分会与康系造谣归为一条，不另造四个短评事件。",
+    "source": {
+      "book": "民进党研究",
+      "chapter": "015.“大师证明你不行，你还不听吗？”.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/015.“大师证明你不行，你还不听吗？”.txt",
+      "line": 3,
+      "lines": [
+        3,
+        47
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "民进党研究",
+        "chapter": "016.如此公政，何以服众？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/016.如此公政，何以服众？.txt",
+        "line": 3,
+        "lines": [
+          3,
+          79
+        ],
+        "note": "补出1986年7月17日李敖对公政会分会设置和尤清理事长操作的批评。"
+      },
+      {
+        "book": "民进党研究",
+        "chapter": "017.康系人物的政治公道.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/017.康系人物的政治公道.txt",
+        "line": 3,
+        "lines": [
+          3,
+          29
+        ],
+        "note": "补出1986年10月26日李敖从《首都周刊》与首都公政分会阵容谈康系人物政治公道。"
+      },
+      {
+        "book": "民进党研究",
+        "chapter": "018.康宁祥的时光隧道.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/018.康宁祥的时光隧道.txt",
+        "line": 3,
+        "lines": [
+          3,
+          43
+        ],
+        "note": "补出1986年11月13日李敖反击《亚洲人》刊登吴祥辉《李敖死了》所造康宁祥私仇说。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "费希平",
+      "江鹏坚",
+      "许荣淑",
+      "张俊雄",
+      "郑余镇",
+      "尤清",
+      "康宁祥",
+      "张德铭",
+      "林正杰",
+      "吴祥辉",
+      "黄信介",
+      "张白帆",
+      "郑南榕"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "云林",
+      "大龙峒"
+    ],
+    "works": [
+      "民进党研究",
+      "“大师证明你不行，你还不听吗？”",
+      "如此公政，何以服众？",
+      "康系人物的政治公道",
+      "康宁祥的时光隧道",
+      "首都周刊",
+      "亚洲人",
+      "李敖死了",
+      "文星"
+    ],
+    "tags": [
+      "民进党研究",
+      "党外五立委",
+      "党外公政会",
+      "尤清",
+      "康宁祥",
+      "康系",
+      "亚洲人",
+      "李敖死了"
+    ],
+    "view": [
+      "政治线",
+      "写作线",
+      "论战线",
+      "司法线",
+      "台湾史政线"
+    ],
+    "crossReferences": [
+      "li-ao-shujianji-letterpaper-1986-08-13-writes-dangwai-policy-association-renewed-warning",
+      "zhengnanrong-yanjiu-1986-06-12-to-11-17-supports-arrested-zheng-with-writing-court-and-letters",
+      "lengyan-kan-taiwan-1986-06-19-to-1986-09-26-writes-li-xiaofeng-wei-tingchao-and-eighties-review-rebuttals",
+      "lengyan-kan-taiwan-1986-11-17-to-1987-05-07-files-kang-ningxiang-eighties-review-defamation-complaint-and-responsibility-proof"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-06-minjindang-yanjiu-round001-preface-001-020",
+    "id": "minjindang-yanjiu-1987-08-24-to-1988-07-03-writes-taiwan-independence-satire-and-napoleon-corsica-analogy",
+    "date": "1987-08-24",
+    "endDate": "1988-07-03",
+    "year": 1987,
+    "month": 8,
+    "day": 24,
+    "displayDate": "1987年8月24日至1988年7月3日",
+    "datePrecision": "date-range",
+    "title": "李敖以“台湾独立”分国讽刺和拿破仑科西嘉比喻，反击小岛台独视野",
+    "summary": "019至020合并为台独讽刺组。019署日1987年8月24日，李敖以给“之鉴台弟”的书信形式，读到把台湾分为台东国、台西国、台北国、台中国、台南国、澎湖国以互相建交的构想后，用生物雌雄同体和群体交配比喻讽刺“互相建交”的荒诞；020署日1988年7月3日，则从拿破仑的科西嘉出身、科西嘉独立运动和后来法国大陆视野，劝“台独”豪杰不要被小岛格局困住。本条只收两篇互相关联的反台独比喻写作，后期节目中再讲科西嘉和拿破仑的旧锚用 crossReferences 串联。",
+    "source": {
+      "book": "民进党研究",
+      "chapter": "019.“台湾独立”的性交问题.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/019.“台湾独立”的性交问题.txt",
+      "line": 3,
+      "lines": [
+        3,
+        17
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "民进党研究",
+        "chapter": "020.拿破仑与“台湾独立”.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/020.拿破仑与“台湾独立”.txt",
+        "line": 3,
+        "lines": [
+          3,
+          15
+        ],
+        "note": "补出1988年7月3日李敖以拿破仑与科西嘉独立运动比喻台湾独立的小岛格局。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "拿破仑",
+      "许水德",
+      "苏南成",
+      "蒋经国"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "台中",
+      "台南",
+      "澎湖",
+      "科西嘉",
+      "法国"
+    ],
+    "works": [
+      "民进党研究",
+      "“台湾独立”的性交问题",
+      "拿破仑与“台湾独立”",
+      "外交成绩单小统计"
+    ],
+    "tags": [
+      "民进党研究",
+      "台湾独立",
+      "台独",
+      "拿破仑",
+      "科西嘉",
+      "讽刺"
+    ],
+    "view": [
+      "思想线",
+      "写作线",
+      "政治线",
+      "台湾史政线"
+    ],
+    "crossReferences": [
+      "lengyan-kan-taiwan-1985-07-11-to-1989-03-21-writes-mainlander-taiwanese-separation-zheng-chenggong-and-wu-feng-essays",
+      "tiaozhan-li-ao-1999-11-10-corsica-napoleon-and-economic-control-china",
+      "li-ao-zhenglun-zongyiji-120-ends-with-china-belongs-to-us-napoleon-and-ccp-holding-eggs-across-river"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-06-minjindang-yanjiu-round002-021-040",
+    "id": "minjindang-yanjiu-1988-07-06-to-07-10-writes-dpp-revolution-party-discipline-and-fei-xiping-double-standard",
+    "date": "1988-07-06",
+    "endDate": "1988-07-10",
+    "year": 1988,
+    "month": 7,
+    "day": 6,
+    "displayDate": "1988年7月6日至7月10日",
+    "datePrecision": "date-range",
+    "title": "李敖连写民进党政党属性、党纪处分和费希平双重标准，批其仍是苏联式刚性政党",
+    "summary": "021至025合并为民进党政党结构与党纪批判组。021署日1988年7月6日，借胡适《两种根本不同的政党》区分英美甲式政党与苏联乙式政党，指出民进党自称反革命，却从党章、党旗、中央党部、中常委、党证到党员宣誓都仍是变形乙式政党；022署日7月7日，进一步说民进党“党霸挂帅，何来民主；大开倒车，何来进步；取法苏联，何来民主国家的党”；023署日7月8日，从“民主进步党纪律仲裁办法”的公开谴责、留党察看、除名等处分，批评其甚至比国民党还像封建与苏联式党纪；024署日7月9日，以1986年监委罢选处分黄玉娇、林纯子、林文郎、苏洪月娇等人为例，说明道德形象努力被刚性政党结构抵消；025署日7月10日，则抓住费希平这位万年立委进入民进党中常委与立法院党团，反问民进党如何一边反国民党“继续霸占政权”，一边接收同样的政治便宜。本条不按五篇短论拆碎，而归为一条民进党苏联式党结构批判。",
+    "source": {
+      "book": "民进党研究",
+      "chapter": "021.民进党不“革命”吗？.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/021.民进党不“革命”吗？.txt",
+      "line": 3,
+      "lines": [
+        3,
+        13
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "民进党研究",
+        "chapter": "022.民进党的三不.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/022.民进党的三不.txt",
+        "line": 3,
+        "lines": [
+          3,
+          15
+        ],
+        "note": "补出1988年7月7日李敖批评民进党名为民主、进步、党，实则三不象的论述。"
+      },
+      {
+        "book": "民进党研究",
+        "chapter": "023.“你是半个王八蛋！”.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/023.“你是半个王八蛋！”.txt",
+        "line": 3,
+        "lines": [
+          3,
+          13
+        ],
+        "note": "补出1988年7月8日李敖从纪律仲裁办法和公开谴责制度批民进党党纪。"
+      },
+      {
+        "book": "民进党研究",
+        "chapter": "024.真是蠢极了！.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/024.真是蠢极了！.txt",
+        "line": 3,
+        "lines": [
+          3,
+          15
+        ],
+        "note": "补出1988年7月9日李敖以1986年监委罢选案和处分结果说明民进党刚性党结构失误。"
+      },
+      {
+        "book": "民进党研究",
+        "chapter": "025.双重标准，何以自圆？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/025.双重标准，何以自圆？.txt",
+        "line": 3,
+        "lines": [
+          3,
+          13
+        ],
+        "note": "补出1988年7月10日李敖以费希平万年立委身份进入民进党核心反问其反革命宣言的双重标准。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "胡适",
+      "费希平",
+      "黄玉娇",
+      "林纯子",
+      "林文郎",
+      "苏洪月娇",
+      "康宁祥",
+      "吴乃仁",
+      "谢长廷"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "民进党研究",
+      "民进党不“革命”吗？",
+      "民进党的三不",
+      "“你是半个王八蛋！”",
+      "真是蠢极了！",
+      "双重标准，何以自圆？",
+      "两种根本不同的政党",
+      "民主进步党纪律仲裁办法"
+    ],
+    "tags": [
+      "民进党研究",
+      "民进党",
+      "政党结构",
+      "党纪",
+      "苏联式政党",
+      "监委罢选",
+      "费希平"
+    ],
+    "view": [
+      "政治线",
+      "思想线",
+      "写作线",
+      "台湾史政线"
+    ],
+    "crossReferences": [
+      "li-ao-zhenglun-zongyiji-034-calls-kmt-and-dpp-leninist-parties",
+      "li-ao-zhenglun-zongyiji-041-calls-dpp-vote-allocation-and-party-discipline-fake-democracy",
+      "tiaozhan-li-ao-1999-11-16-compares-kmt-dpp-party-discipline-to-imperial-rebuke",
+      "baiyan-kan-taiwan-1983-03-08-to-1983-05-09-writes-fei-xiping-resignation-and-legislator-seat-discussion",
+      "minjindang-yanjiu-1989-03-13-writes-preface-framing-dpp-as-evidence-target"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-06-minjindang-yanjiu-round002-021-040",
+    "id": "minjindang-yanjiu-1988-07-23-to-08-10-writes-democratic-style-petition-press-violence-and-lei-case-target",
+    "date": "1988-07-23",
+    "endDate": "1988-08-10",
+    "year": 1988,
+    "month": 7,
+    "day": 23,
+    "displayDate": "1988年7月23日至8月10日",
+    "datePrecision": "date-range",
+    "title": "李敖批民进党和党外行动缺乏民主风度，从请愿、打记者写到雷震案抗错衙门",
+    "summary": "026、028、029、031合并为民主风度与公共行动批判组。026署日1988年7月23日，李敖从英美式民主政治是一种生活方式、教养和格调谈起，批评民进党在议会和街头都流于粗暴，借张鸿学评朱高正“讲民主，你没有风度；搞革命，你不敢”点出其不伦不类；028署日7月24日，从史密斯“治好民主毛病要更多民主”谈请愿权，认为民进党群众大会加请愿、拆招牌等行动是在“打着民主反民主”；029署日7月30日，借中正机场打记者、1948年龚德柏《救国日报》被国大代表砸馆，比较国民党与民进党的砸报馆、打记者作风，批其肇事争先、承认落后；031署日8月10日，则批“1960雷震案后援会”向监察院抗议，认为既抗错衙门又议错人，真正应追究宋英、军人监狱、军法处、警备总部和国防部。本条把民主行动方法与抗议对象判断合为一组，不把每场街头事件拆成独立小条。",
+    "source": {
+      "book": "民进党研究",
+      "chapter": "026.讲民主，你没有风度.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/026.讲民主，你没有风度.txt",
+      "line": 3,
+      "lines": [
+        3,
+        17
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "民进党研究",
+        "chapter": "028.打着民主反民主.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/028.打着民主反民主.txt",
+        "line": 3,
+        "lines": [
+          3,
+          15
+        ],
+        "note": "补出1988年7月24日李敖从请愿权、拆立法院招牌与胡适诗句批评民进党行动作践民主。"
+      },
+      {
+        "book": "民进党研究",
+        "chapter": "029.砸报馆与打记者.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/029.砸报馆与打记者.txt",
+        "line": 3,
+        "lines": [
+          3,
+          15
+        ],
+        "note": "补出1988年7月30日李敖借中正机场打记者与《救国日报》被砸旧案批评民进党暴力作风。"
+      },
+      {
+        "book": "民进党研究",
+        "chapter": "031.抗错衙门议错人.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/031.抗错衙门议错人.txt",
+        "line": 3,
+        "lines": [
+          3,
+          13
+        ],
+        "note": "补出1988年8月10日李敖批1960雷震案后援会抗议监察院，认为应追问宋英和军方系统。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "张鸿学",
+      "朱高正",
+      "史密斯",
+      "胡适",
+      "刘秀达",
+      "龚德柏",
+      "孙科",
+      "张发奎",
+      "薛岳",
+      "傅正",
+      "谢崑山",
+      "黄尊秋",
+      "宋英",
+      "雷震"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "中正机场",
+      "南京",
+      "监察院"
+    ],
+    "works": [
+      "民进党研究",
+      "讲民主，你没有风度",
+      "打着民主反民主",
+      "砸报馆与打记者",
+      "抗错衙门议错人",
+      "救国日报",
+      "雷震回忆录"
+    ],
+    "tags": [
+      "民进党研究",
+      "民主风度",
+      "群众大会",
+      "请愿",
+      "新闻自由",
+      "打记者",
+      "雷震案"
+    ],
+    "view": [
+      "政治线",
+      "写作线",
+      "媒体线",
+      "司法线",
+      "台湾史政线"
+    ],
+    "crossReferences": [
+      "fayan-kan-taiwan-1985-09-21-to-11-09-writes-petition-flying-bowl-and-jiangnan-position-critiques",
+      "zhengnanrong-yanjiu-1987-06-20-writes-zheng-on-national-security-law-protests",
+      "laozei-choushi-1983-12-21-to-1991-04-06-writes-everlasting-representatives-and-legislative-human-rights-essays",
+      "gei-waishengren-nankan-1982-05-30-to-1991-07-17-writes-xu-fuguan-fu-zheng-and-lin-zhengjie-opposition-judgment-essays"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-06-minjindang-yanjiu-round002-021-040",
+    "id": "minjindang-yanjiu-1988-07-18-to-08-26-writes-taiwan-scale-independence-blacklist-and-officialdom-critiques",
+    "date": "1988-07-18",
+    "endDate": "1988-08-26",
+    "year": 1988,
+    "month": 7,
+    "day": 18,
+    "displayDate": "1988年7月18日至8月26日",
+    "datePrecision": "date-range",
+    "title": "李敖从五省二市、夜郎自大、美独类比、黑名单和官迷，批民进党的台湾尺度",
+    "summary": "027、030、032、033、034合并为台湾尺度与台独想象批判组。027署日1988年7月18日，从蒋介石1966年秘密演说中的中央即地方构想谈起，批台湾省议会国民党与民进党议员联名提案把台湾划成五省二市，是从“意淫大陆”退化为“意淫台湾”；030署日7月31日，借夜郎自大、台湾面积和日月潭荒唐报道，批张俊雄所谓台湾面积世界第三十二位等“台湾自大”；032署日8月16日，反驳用美国独立类比台湾独立，强调同文同种建国也必须看历史背景，不能只看美国结果；033署日8月22日，批民进党声援海外台湾人返乡游行中自行制作并焚烧“黑名单”和“民主圣火”，认为这只是阿Q式精神胜利和成年人的扮演活动；034署日8月26日，从清代一府三县、日本时代台湾人少有高官到《西游记》弼马温，写台湾人的官迷心态。本条把台独、台湾面积、黑名单和官迷合并为民进党台湾视野问题组。",
+    "source": {
+      "book": "民进党研究",
+      "chapter": "027.民进党式意淫.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/027.民进党式意淫.txt",
+      "line": 3,
+      "lines": [
+        3,
+        19
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "民进党研究",
+        "chapter": "030.台湾的“夜郎症”.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/030.台湾的“夜郎症”.txt",
+        "line": 3,
+        "lines": [
+          3,
+          17
+        ],
+        "note": "补出1988年7月31日李敖以夜郎自大、台湾面积和日月潭报道批台湾自大。"
+      },
+      {
+        "book": "民进党研究",
+        "chapter": "032.美独与“台独”.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/032.美独与“台独”.txt",
+        "line": 3,
+        "lines": [
+          3,
+          13
+        ],
+        "note": "补出1988年8月16日李敖反驳以美国独立类比台湾独立的写作。"
+      },
+      {
+        "book": "民进党研究",
+        "chapter": "033.民进党与“黑名单”.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/033.民进党与“黑名单”.txt",
+        "line": 3,
+        "lines": [
+          3,
+          17
+        ],
+        "note": "补出1988年8月22日李敖批民进党自行制作并焚烧黑名单、引民主圣火的精神胜利心态。"
+      },
+      {
+        "book": "民进党研究",
+        "chapter": "034.台湾人的官迷.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/034.台湾人的官迷.txt",
+        "line": 3,
+        "lines": [
+          3,
+          13
+        ],
+        "note": "补出1988年8月26日李敖从清代、日本时代与弼马温比喻写台湾人的官迷。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "蒋介石",
+      "张俊雄",
+      "华盛顿",
+      "姚嘉文",
+      "李宪荣",
+      "叶琼姿",
+      "罗益世",
+      "雷震",
+      "施琅",
+      "孙悟空"
+    ],
+    "places": [
+      "台湾",
+      "澎湖",
+      "金门",
+      "马祖",
+      "美国",
+      "英国",
+      "中正纪念堂",
+      "龙山寺",
+      "日月潭"
+    ],
+    "works": [
+      "民进党研究",
+      "民进党式意淫",
+      "台湾的“夜郎症”",
+      "美独与“台独”",
+      "民进党与“黑名单”",
+      "台湾人的官迷",
+      "行政革新的要旨",
+      "史记",
+      "阿Q正传",
+      "西游记"
+    ],
+    "tags": [
+      "民进党研究",
+      "台湾独立",
+      "台独",
+      "意淫台湾",
+      "夜郎自大",
+      "黑名单",
+      "民主圣火",
+      "官迷"
+    ],
+    "view": [
+      "思想线",
+      "写作线",
+      "政治线",
+      "台湾史政线"
+    ],
+    "crossReferences": [
+      "minjindang-yanjiu-1987-08-24-to-1988-07-03-writes-taiwan-independence-satire-and-napoleon-corsica-analogy",
+      "lengyan-kan-taiwan-1985-07-11-to-1989-03-21-writes-mainlander-taiwanese-separation-zheng-chenggong-and-wu-feng-essays",
+      "jingfumen-1991-04-02-writes-blacklist-and-cowards",
+      "jingfumen-1991-03-20-rewrites-taiwanese-love-officialdom",
+      "li-ao-mimi-shufang-013-traces-taiwan-political-hunger-and-title-culture"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-06-minjindang-yanjiu-round002-021-040",
+    "id": "minjindang-yanjiu-1988-08-29-to-08-31-writes-dpp-degeneration-exposure-and-political-fairness",
+    "date": "1988-08-29",
+    "endDate": "1988-08-31",
+    "year": 1988,
+    "month": 8,
+    "day": 29,
+    "displayDate": "1988年8月29日至8月31日",
+    "datePrecision": "date-range",
+    "title": "李敖三日连写民进党堕落、洪奇昌声援者暴露事件和政治公道问题",
+    "summary": "035至037合并为民进党堕落与政治公道组。035署日1988年8月29日，从“党”字源流和中国历史党祸谈起，批民进党制度上从党章、党旗、中央党部、中常委到党纪处分都是国民党翻版，行为上则在第三届全国代表大会党员代表选举中出现幽灵党员、代缴党费、送礼贿选、大摆筵席和派系快速离合；036署日8月30日，读《中央日报》关于洪奇昌宣传车、声援者围殴学生和陈火木在台北地方法院门口露出下体的报道，批民进党声援者公式化地打人、否认责任，并以“政治性暴露狂”讽刺其水准；037署日8月31日，要求政治也应存一点公道，举民进报《赶走外来殖民政权》、洪奇昌拘提事件、陈翠玉和施明正死亡归责，以及康系《首都周刊》抗议国民党利用司法整肃政治异己却由张德铭告郑南榕等例，结论是民进党连起码政治公道也没有。本条将三篇连续短论收为一条，避免把同一波民进党行为批判拆碎。",
+    "source": {
+      "book": "民进党研究",
+      "chapter": "035.民进党的堕落.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/035.民进党的堕落.txt",
+      "line": 3,
+      "lines": [
+        3,
+        21
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "民进党研究",
+        "chapter": "036.政治性暴露狂.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/036.政治性暴露狂.txt",
+        "line": 3,
+        "lines": [
+          3,
+          13
+        ],
+        "note": "补出1988年8月30日李敖以洪奇昌声援者围殴学生和陈火木露出下体事件批民进党声援文化。"
+      },
+      {
+        "book": "民进党研究",
+        "chapter": "037.民进党的政治公道.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/037.民进党的政治公道.txt",
+        "line": 3,
+        "lines": [
+          3,
+          19
+        ],
+        "note": "补出1988年8月31日李敖举外来殖民政权、洪奇昌、陈翠玉、施明正和郑南榕案等例批民进党缺乏政治公道。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "林文郎",
+      "周伯伦",
+      "康宁祥",
+      "林正杰",
+      "洪奇昌",
+      "陈火木",
+      "刘智鸿",
+      "顾维裕",
+      "李进诚",
+      "陈翠玉",
+      "施明德",
+      "施明正",
+      "张德铭",
+      "郑南榕"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "台北地方法院"
+    ],
+    "works": [
+      "民进党研究",
+      "民进党的堕落",
+      "政治性暴露狂",
+      "民进党的政治公道",
+      "民进报周刊",
+      "首都周刊",
+      "中央日报"
+    ],
+    "tags": [
+      "民进党研究",
+      "民进党",
+      "党员代表选举",
+      "派系",
+      "洪奇昌",
+      "暴力声援",
+      "政治公道",
+      "郑南榕案"
+    ],
+    "view": [
+      "政治线",
+      "写作线",
+      "论战线",
+      "司法线",
+      "台湾史政线"
+    ],
+    "crossReferences": [
+      "li-ao-mimi-shufang-037-criticizes-dpp-party-structure-and-nomination-money",
+      "zhengnanrong-yanjiu-1986-06-12-to-11-17-supports-arrested-zheng-with-writing-court-and-letters",
+      "lengyan-kan-taiwan-1986-11-17-to-1987-05-07-files-kang-ningxiang-eighties-review-defamation-complaint-and-responsibility-proof",
+      "jingfumen-1991-05-02-writes-dpp-beaten-meaninglessly",
+      "tiaozhan-li-ao-1999-10-28-criticizes-traitor-elimination-and-flag-double-standards"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-06-minjindang-yanjiu-round002-021-040",
+    "id": "minjindang-yanjiu-1988-09-03-to-09-05-writes-lin-zhengjie-yao-chiawen-chairman-and-power-struggle",
+    "date": "1988-09-03",
+    "endDate": "1988-09-05",
+    "year": 1988,
+    "month": 9,
+    "day": 3,
+    "displayDate": "1988年9月3日至9月5日",
+    "datePrecision": "date-range",
+    "title": "李敖连评林正杰公开信、姚嘉文党主席和民进党统独旗号，断言权力斗争才是真的",
+    "summary": "038至040合并为民进党党主席与权力斗争组。038署日1988年9月3日，批林正杰9月1日给民进党主席姚嘉文公开信，认为在黄信介与姚嘉文争主席、前进系党代表选举失利背景下，林正杰以公开信批斗姚嘉文，是项庄舞剑式的时机操作；039署日9月4日，再评姚嘉文，认为他政治判断力弱、出狱后仍肯定周清玉为争取其出狱的作为，且从“出马竞选党主席意愿为零”转向连任，暴露民进党根本无需也无人够格做党主席；040署日9月5日，借蒋介石评文化大革命“什么理论都是假的，什么路线也是假的，真的只是权力斗争”，说明民进党所谓“台湾独立”是主体旗号，“统独之争”是插播旗号，林正杰和党内大员都在用旗号争权。本条把三篇9月初连续评论收成一条，不另拆党内人物短评。",
+    "source": {
+      "book": "民进党研究",
+      "chapter": "038.如此公开信.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/038.如此公开信.txt",
+      "line": 3,
+      "lines": [
+        3,
+        9
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "民进党研究",
+        "chapter": "039.如此党主席.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/039.如此党主席.txt",
+        "line": 3,
+        "lines": [
+          3,
+          15
+        ],
+        "note": "补出1988年9月4日李敖批评姚嘉文竞选/连任党主席、周清玉依赖与政治判断力的文字。"
+      },
+      {
+        "book": "民进党研究",
+        "chapter": "040.权力斗争才是真的.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/040.权力斗争才是真的.txt",
+        "line": 3,
+        "lines": [
+          3,
+          17
+        ],
+        "note": "补出1988年9月5日李敖把民进党统独之争、台湾独立旗号和党内路线论归结为权力斗争。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "林正杰",
+      "姚嘉文",
+      "黄信介",
+      "许信良",
+      "周清玉",
+      "许荣淑",
+      "张俊宏",
+      "蒋介石",
+      "刘邦",
+      "项羽"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "民进党研究",
+      "如此公开信",
+      "如此党主席",
+      "权力斗争才是真的",
+      "姚嘉文——我的敬爱的丈夫"
+    ],
+    "tags": [
+      "民进党研究",
+      "林正杰",
+      "姚嘉文",
+      "黄信介",
+      "党主席",
+      "权力斗争",
+      "统独之争",
+      "台湾独立"
+    ],
+    "view": [
+      "政治线",
+      "写作线",
+      "人物线",
+      "台湾史政线"
+    ],
+    "crossReferences": [
+      "baiyan-kan-taiwan-1982-10-18-defends-meilidao-prisoners-right-to-statement",
+      "zhengnanrong-yanjiu-1985-03-11-to-05-13-democracy-world-qianjin-lin-debate",
+      "lengyan-kan-taiwan-1985-04-20-to-1986-01-13-files-qianjin-lin-zhengjie-defamation-complaint-and-evidence-cluster",
+      "li-ao-zhenglun-zongyiji-005-defines-dpp-originally-as-freedom-democracy-not-taiwan-independence",
+      "li-ao-zhenglun-zongyiji-026-says-chen-froze-independence-platform"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-06-minjindang-yanjiu-round003-041-060-closeout",
+    "id": "minjindang-yanjiu-1988-09-06-to-10-02-writes-lin-zhengjie-evil-force-dpp-flattery-zhu-gaozheng-and-promise",
+    "date": "1988-09-06",
+    "endDate": "1988-10-02",
+    "year": 1988,
+    "month": 9,
+    "day": 6,
+    "displayDate": "1988年9月6日至10月2日",
+    "datePrecision": "date-range",
+    "title": "李敖连写林正杰“恶势力”、民进党媚骨、朱高正“王莽第二”和不守诺言问题",
+    "summary": "041至044合并为民进党人物信用与政治格调组。041署日1988年9月6日，李敖借《中国时报》报道林正杰称党内独派为“恶势力”，回看林正杰投身反对运动、外省人在民进党中的花瓶位置、前进派骑墙性格，以及1983年林正杰曾在《如何利用李敖》中称李敖可制裁“恶势力”，批其帽子乱丢；042署日9月8日，续《台湾人的媚骨》而写《民进党的媚骨》，列周清玉违法亮票、党外省议员签名劝进蒋经国、康宁祥致敬蒋经国、余登发感谢蒋家、洪奇昌在“总统，我们敬爱您”签名簿签名等例，批民进党反对党规格低；043署日10月1日，回忆朱高正初访印象和自己拒见朱，继而从朱高正五一九绿色行动偷踢女警、立法院粗暴、承诺全面改选不成即退席后又以劝进遮掩食言，讥其才是“王莽第二”；044署日10月2日，再把国民党不守诺言延伸到康宁祥支持充实临时条款、尤清备胎县长、林正杰只干一任和朱高正只干半任等民进党诺言问题。本条把林正杰、民进党媚骨和朱高正信用批判收成一条，不重复拆旧人物底账。",
+    "source": {
+      "book": "民进党研究",
+      "chapter": "041.谁是“恶势力”？.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/041.谁是“恶势力”？.txt",
+      "line": 3,
+      "lines": [
+        3,
+        11
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "民进党研究",
+        "chapter": "042.民进党的媚骨.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/042.民进党的媚骨.txt",
+        "line": 3,
+        "lines": [
+          3,
+          13
+        ],
+        "note": "补出1988年9月8日李敖以周清玉、省议员劝进蒋经国、康宁祥致敬蒋经国和洪奇昌签名等例批民进党媚骨。"
+      },
+      {
+        "book": "民进党研究",
+        "chapter": "043.谁是“王莽第二”？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/043.谁是“王莽第二”？.txt",
+        "line": 3,
+        "lines": [
+          3,
+          13
+        ],
+        "note": "补出1988年10月1日李敖从朱高正粗暴、退席诺言与劝进把戏，讥其为王莽第二。"
+      },
+      {
+        "book": "民进党研究",
+        "chapter": "044.民进党的不守诺言问题.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/044.民进党的不守诺言问题.txt",
+        "line": 3,
+        "lines": [
+          3,
+          13
+        ],
+        "note": "补出1988年10月2日李敖从康宁祥、尤清、林正杰、朱高正四例批民进党不守诺言。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "林正杰",
+      "姚嘉文",
+      "黄信介",
+      "周清玉",
+      "蒋经国",
+      "高育仁",
+      "黄镇岳",
+      "康宁祥",
+      "苏贞昌",
+      "谢三升",
+      "游锡堃",
+      "余登发",
+      "朱高正",
+      "邓维桢",
+      "林永丰",
+      "张鸿学",
+      "郭婉容",
+      "尤清",
+      "郑余镇",
+      "王荣文",
+      "王莽"
+    ],
+    "places": [
+      "台湾",
+      "龙山寺",
+      "云林",
+      "嘉义",
+      "台南"
+    ],
+    "works": [
+      "民进党研究",
+      "谁是“恶势力”？",
+      "民进党的媚骨",
+      "谁是“王莽第二”？",
+      "民进党的不守诺言问题",
+      "如何利用李敖",
+      "如此党主席",
+      "二二八医界再出发"
+    ],
+    "tags": [
+      "民进党研究",
+      "林正杰",
+      "恶势力",
+      "民进党",
+      "媚骨",
+      "朱高正",
+      "王莽第二",
+      "不守诺言",
+      "政治信用"
+    ],
+    "view": [
+      "政治线",
+      "写作线",
+      "人物线",
+      "台湾史政线"
+    ],
+    "crossReferences": [
+      "minjindang-yanjiu-1988-09-03-to-09-05-writes-lin-zhengjie-yao-chiawen-chairman-and-power-struggle",
+      "qianqiu-wansui-1983-03-04-085-lin-zhengjie-invites-li-to-write-for-qianjin",
+      "qianqiu-wansui-1989-09-22-139-writes-consequences-of-benefiting-lin-zhengjie",
+      "fayan-kan-taiwan-1988-03-23-writes-zuo-shunsheng-and-zhu-gaozheng-private-meeting-decorum",
+      "li-ao-shuduji-1987-06-12-hears-zhu-gaozheng-radio-in-taxi-and-cold-laughs",
+      "li-ao-youhua-shuo-360-recalls-liang-surong-telling-zhang-hongxue-zhu-gaozheng-quote",
+      "baiyan-kan-taiwan-1983-03-20-to-1983-04-11-writes-kang-water-temporary-provisions-and-monkey-lesson"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-06-minjindang-yanjiu-round003-041-060-closeout",
+    "id": "minjindang-yanjiu-1988-10-03-to-12-18-writes-dpp-principle-fei-xiping-and-zhu-gaozheng-abandonment",
+    "date": "1988-10-03",
+    "endDate": "1988-12-18",
+    "year": 1988,
+    "month": 10,
+    "day": 3,
+    "displayDate": "1988年10月3日至12月18日",
+    "datePrecision": "date-range",
+    "title": "李敖写民进党不守原则问题，并以费希平去留批其始乱终弃",
+    "summary": "045与053合并为民进党原则与费希平始乱终弃组。045署日1988年10月3日，李敖从自己已写《国民党研究》《国民党研究续集》谈国民党不守原则转向民进党，抓住费希平作为万年国会老不死议员却任民进党中常委、朱高正承诺国会未全面改选就退出立法院又以劝进自圆等例，认为民进党为了立委席次和明星人物不守原则；053署日12月18日，围绕民进党要求费希平辞职、费提出三条件一事，回到李敖1983年3月8日《费希平先生自处之道》的先知式劝退，指出党外和民进党先贪小便宜把费希平乱引为同志，今天又因国会全面改选口号而要赶他，三条件中的肯定资深民代贡献、比例代表大陆代表和退职金都会反噬民进党原口号。本条把费希平与朱高正两个“不守原则”样本收成一条，避免同费希平旧线重复。",
+    "source": {
+      "book": "民进党研究",
+      "chapter": "045.民进党的不守原则问题.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/045.民进党的不守原则问题.txt",
+      "line": 3,
+      "lines": [
+        3,
+        13
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "民进党研究",
+        "chapter": "053.民进党的始乱终弃问题.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/053.民进党的始乱终弃问题.txt",
+        "line": 3,
+        "lines": [
+          3,
+          13
+        ],
+        "note": "补出1988年12月18日李敖借费希平辞职三条件，回看自己1983年劝其辞职和民进党始乱终弃。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "费希平",
+      "朱高正",
+      "黄信介",
+      "康宁祥",
+      "许国泰",
+      "张俊宏",
+      "黄尔璇",
+      "尤清",
+      "许荣淑",
+      "林正杰"
+    ],
+    "places": [
+      "台湾",
+      "大陆",
+      "立法院"
+    ],
+    "works": [
+      "民进党研究",
+      "民进党的不守原则问题",
+      "民进党的始乱终弃问题",
+      "国民党研究",
+      "国民党研究续集",
+      "费希平先生自处之道"
+    ],
+    "tags": [
+      "民进党研究",
+      "不守原则",
+      "费希平",
+      "万年国会",
+      "国会全面改选",
+      "朱高正",
+      "始乱终弃",
+      "退职金"
+    ],
+    "view": [
+      "政治线",
+      "写作线",
+      "论战线",
+      "台湾史政线"
+    ],
+    "crossReferences": [
+      "baiyan-kan-taiwan-1983-03-08-to-1983-05-09-writes-fei-xiping-resignation-and-legislator-seat-discussion",
+      "minjindang-yanjiu-1988-07-06-to-07-10-writes-dpp-revolution-party-discipline-and-fei-xiping-double-standard",
+      "laozei-choushi-1983-12-21-to-1991-04-06-writes-everlasting-representatives-and-legislative-human-rights-essays",
+      "qianqiu-wansui-1989-before-jul-20-129-zhang-junhong-discusses-fei-xiping-retirement-fund",
+      "micang-diary-1985-04-01-suhong-call-on-fei-xiping-resignation",
+      "fayan-kan-taiwan-1988-03-23-writes-zuo-shunsheng-and-zhu-gaozheng-private-meeting-decorum"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-06-minjindang-yanjiu-round003-041-060-closeout",
+    "id": "minjindang-yanjiu-1988-10-16-to-11-17-writes-dpp-ignorance-samples-and-zhu-gaozheng-belligerency",
+    "date": "1988-10-16",
+    "endDate": "1988-11-17",
+    "year": 1988,
+    "month": 10,
+    "day": 16,
+    "displayDate": "1988年10月16日至11月17日",
+    "datePrecision": "date-range",
+    "title": "李敖为民进党的无知抽样，并专文反驳朱高正“交战团体”国际法梦呓",
+    "summary": "046与051合并为民进党无知抽样组。046署日1988年10月16日，李敖逐项抽样费希平把戊戌六君子说成腰斩、把七十二烈士和林觉民说成国民党，康宁祥系《亚洲人》说段剑岷与辛亥革命无关，朱高正误写孟子篇名、误说法国大革命二十年，黄余绣鸾把雅尔塔、波兹坦会议说成蒋介石与英美首长同起同坐，张俊雄乱说台湾面积排名与以色列，林正杰把冯妇搏虎说成冯道；051署日11月17日，针对朱高正建议把中共视为“交战团体”并逼使相互承认，李敖解释 belligerency 的国际法条件和暂时性，指出中共已在大陆完成近四十年国际承认统治，朱高正的主张是国民党自大狂翻版。本条把书本常识、历史常识与国际法常识错误合并，不按每个人的笑话另拆。",
+    "source": {
+      "book": "民进党研究",
+      "chapter": "046.为民进党的无知抽样.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/046.为民进党的无知抽样.txt",
+      "line": 3,
+      "lines": [
+        3,
+        17
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "民进党研究",
+        "chapter": "051.朱高正的无知.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/051.朱高正的无知.txt",
+        "line": 3,
+        "lines": [
+          3,
+          15
+        ],
+        "note": "补出1988年11月17日李敖从国际法上拆解朱高正把中共视作交战团体的说法。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "费希平",
+      "慈禧太后",
+      "林觉民",
+      "康宁祥",
+      "段剑岷",
+      "朱高正",
+      "孟子",
+      "黄余绣鸾",
+      "蒋介石",
+      "张俊雄",
+      "林正杰",
+      "冯妇",
+      "冯道",
+      "夏维松",
+      "林肯"
+    ],
+    "places": [
+      "台湾",
+      "法国",
+      "以色列",
+      "雅尔塔",
+      "波兹坦",
+      "美国",
+      "大陆",
+      "汉口"
+    ],
+    "works": [
+      "民进党研究",
+      "为民进党的无知抽样",
+      "朱高正的无知",
+      "急待澄清的观念差距",
+      "政治家与国运",
+      "河南革命史",
+      "立法院公报",
+      "台湾客栈？美丽乡土！"
+    ],
+    "tags": [
+      "民进党研究",
+      "无知抽样",
+      "费希平",
+      "康宁祥",
+      "朱高正",
+      "张俊雄",
+      "林正杰",
+      "交战团体",
+      "国际法"
+    ],
+    "view": [
+      "思想线",
+      "写作线",
+      "政治线",
+      "台湾史政线"
+    ],
+    "crossReferences": [
+      "fayan-kan-taiwan-1985-03-11-to-05-06-writes-asian-lin-zhengjie-prison-common-sense-and-animal-farm-critiques",
+      "baiyan-kan-taiwan-1983-03-08-to-1983-05-09-writes-fei-xiping-resignation-and-legislator-seat-discussion",
+      "li-ao-shuduji-1987-06-12-hears-zhu-gaozheng-radio-in-taxi-and-cold-laughs",
+      "liao-xinkan-1987-06-23-first-demand-letter-to-ni-wenya-on-zhu-gaozheng",
+      "minjindang-yanjiu-1988-07-18-to-08-26-writes-taiwan-scale-independence-blacklist-and-officialdom-critiques"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-06-minjindang-yanjiu-round003-041-060-closeout",
+    "id": "minjindang-yanjiu-1988-10-23-to-11-19-writes-dpp-factions-statement-war-third-congress-and-qianjin-faction",
+    "date": "1988-10-23",
+    "endDate": "1988-11-19",
+    "year": 1988,
+    "month": 10,
+    "day": 23,
+    "displayDate": "1988年10月23日至11月19日",
+    "datePrecision": "date-range",
+    "title": "李敖连写民进党派系斗争、声明战、三全大会噩梦和前进系“解散”奇观",
+    "summary": "047至050与052合并为民进党派系和党主席之争组。047署日1988年10月23日，从胡汉民“党外无党，党内无派”谈起，认为民进党本应先让各路人马形成松散小党，却学国民党式一党体制，导致党内派系暗斗，并重点批新潮流系以党工取巧、苏联式党章党部党纪夺权；048署日10月25日，评黄信介与姚嘉文围绕党主席和大陆政策的声明战，指出双方都搞小动作、扣帽子和“法西斯”式苛酷，黄信介邀姚谈大陆构想本无不妥，姚嘉文狭义解释“谈做生意”并借此打击黄；049署日10月31日，写民进党三全大会文斗武斗、追打周伯伦、黄信介取消记者会、余登发欲向姚嘉文下跪、党主席只干一任因人修改，进而重申自己早年“不党即党”的松散政党构想，称民进党从共同的梦变成噩梦；050署日11月13日，质疑黄信介说派系成历史名词，并以共产党、国民党、康系和前进系所谓解散说明派系并非口头可消；052署日11月19日，再据郑南榕《全元时代周刊》报道黄信介首场中常会、人评会名单、谢长廷、黄尔璇、陈水扁质疑前进系人事，指出前进系只是从杂志窝搬到党中央。本条把党主席竞争、派系声明和三全大会收成一条，不另拆每个党内人事动作。",
+    "source": {
+      "book": "民进党研究",
+      "chapter": "047.民进党的派系斗争问题.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/047.民进党的派系斗争问题.txt",
+      "line": 3,
+      "lines": [
+        3,
+        15
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "民进党研究",
+        "chapter": "048.民进党的声明战.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/048.民进党的声明战.txt",
+        "line": 3,
+        "lines": [
+          3,
+          11
+        ],
+        "note": "补出1988年10月25日李敖评黄信介、姚嘉文声明战和大陆政策争议。"
+      },
+      {
+        "book": "民进党研究",
+        "chapter": "049.民进党，我们的噩梦.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/049.民进党，我们的噩梦.txt",
+        "line": 3,
+        "lines": [
+          3,
+          13
+        ],
+        "note": "补出1988年10月31日李敖把民进党三全大会、黄信介当选党主席和不党即党构想联系为噩梦论。"
+      },
+      {
+        "book": "民进党研究",
+        "chapter": "050.民进党没有派系了吗？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/050.民进党没有派系了吗？.txt",
+        "line": 3,
+        "lines": [
+          3,
+          15
+        ],
+        "note": "补出1988年11月13日李敖质疑黄信介所谓民进党不再有派系，并分析前进系解散尾巴。"
+      },
+      {
+        "book": "民进党研究",
+        "chapter": "052.民进党的派系奇观.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/052.民进党的派系奇观.txt",
+        "line": 3,
+        "lines": [
+          3,
+          11
+        ],
+        "note": "补出1988年11月19日李敖据《全元时代周刊》报道续写黄信介、谢长廷、陈水扁和前进系人事争执。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "胡汉民",
+      "林永丰",
+      "谢长廷",
+      "邱义仁",
+      "康宁祥",
+      "许信良",
+      "姚嘉文",
+      "黄信介",
+      "林正杰",
+      "郑南榕",
+      "余登发",
+      "周伯伦",
+      "谢聪敏",
+      "陈水扁",
+      "黄尔璇",
+      "蔡式渊",
+      "张富忠",
+      "斯大林"
+    ],
+    "places": [
+      "台湾",
+      "阳明山",
+      "大陆"
+    ],
+    "works": [
+      "民进党研究",
+      "民进党的派系斗争问题",
+      "民进党的声明战",
+      "民进党，我们的噩梦",
+      "民进党没有派系了吗？",
+      "民进党的派系奇观",
+      "全元时代周刊",
+      "前进",
+      "民进党，我们的梦"
+    ],
+    "tags": [
+      "民进党研究",
+      "民进党",
+      "派系斗争",
+      "新潮流系",
+      "前进系",
+      "声明战",
+      "黄信介",
+      "姚嘉文",
+      "三全大会",
+      "不党即党"
+    ],
+    "view": [
+      "政治线",
+      "思想线",
+      "写作线",
+      "台湾史政线"
+    ],
+    "crossReferences": [
+      "minjindang-yanjiu-1988-09-03-to-09-05-writes-lin-zhengjie-yao-chiawen-chairman-and-power-struggle",
+      "li-ao-mimi-shufang-037-criticizes-dpp-party-structure-and-nomination-money",
+      "li-ao-mimi-shufang-037-condemns-dpp-internal-violence-and-new-tide",
+      "jingfumen-1989-07-21-writes-worrying-new-tide-faction",
+      "jingfumen-1989-06-16-writes-dpp-system-war",
+      "jingfumen-1989-06-15-writes-dpp-bad-money-war",
+      "jingfumen-1991-03-31-writes-dpp-route-debate",
+      "lengyan-kan-taiwan-1987-06-04-writes-reflections-on-huang-xinjie-zhang-junhong-wei-tingchao-and-huang-hua-release",
+      "li-ao-dageda-077-shows-free-era-identity-and-rongxing-bribe-split"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-06-minjindang-yanjiu-round003-041-060-closeout",
+    "id": "minjindang-yanjiu-1988-12-19-to-1989-01-01-writes-dpp-superstition-samples-and-wu-feng-statue",
+    "date": "1988-12-19",
+    "endDate": "1989-01-01",
+    "year": 1988,
+    "month": 12,
+    "day": 19,
+    "displayDate": "1988年12月19日至1989年1月1日",
+    "datePrecision": "date-range",
+    "title": "李敖写民进党迷信抽样，并评民进党宣传车拆毁吴凤铜像毁掉历史与正义",
+    "summary": "054与055合并为民进党迷信与吴凤史观组。054署日1988年12月19日，李敖接续10月16日无知抽样和11月17日朱高正无知，改从迷信抽样：北港朝天宫董监事候选人苏洪月娇等在妈祖前发誓、许荣淑竞选铁三角赴元保宫发誓不贿选、《深耕报周刊》大批尤清八字、林正杰入狱前由康宁祥等陪同到龙山寺进香求组党完成、蔡仁坚因议会座位第四号不吉利而要求换位、余陈月瑛被劫机惊吓后延请法师收惊；055署日1989年1月1日，记录1988年12月31日民进党宣传车载二十多名男女到嘉义火车站前拆毁吴凤铜像，李敖承认国小课本与历史不符处可讨论，但批“倒吴派”引连横《台湾通史》断章取义，否认吴凤杀身成仁全属日本人与国民党制造神话，认为他们毁掉的不只是铜像，更是历史、正义和台湾史上一位义人。本条把迷信与吴凤铜像放在民进党历史/现代性水准批判中合并。",
+    "source": {
+      "book": "民进党研究",
+      "chapter": "054.为民进党的迷信抽样.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/054.为民进党的迷信抽样.txt",
+      "line": 3,
+      "lines": [
+        3,
+        15
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "民进党研究",
+        "chapter": "055.所毁有甚于铜像者.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/055.所毁有甚于铜像者.txt",
+        "line": 3,
+        "lines": [
+          3,
+          17
+        ],
+        "note": "补出1989年1月1日李敖评民进党宣传车参与拆毁吴凤铜像，重读《台湾通史》并批倒吴派毁历史与正义。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "苏洪月娇",
+      "许荣淑",
+      "何春木",
+      "刘文雄",
+      "洪照男",
+      "尤清",
+      "颜锦福",
+      "王义雄",
+      "王聪松",
+      "许国泰",
+      "张俊雄",
+      "黄天福",
+      "黄煌雄",
+      "林正杰",
+      "康宁祥",
+      "康水木",
+      "陈胜宏",
+      "周清玉",
+      "游锡堃",
+      "洪奇昌",
+      "萧裕珍",
+      "蔡仁坚",
+      "余陈月瑛",
+      "吴凤",
+      "连横"
+    ],
+    "places": [
+      "台湾",
+      "北港朝天宫",
+      "台中",
+      "元保宫",
+      "龙山寺",
+      "新竹",
+      "高雄",
+      "嘉义",
+      "阿里山"
+    ],
+    "works": [
+      "民进党研究",
+      "为民进党的迷信抽样",
+      "所毁有甚于铜像者",
+      "为民进党的无知抽样",
+      "朱高正的无知",
+      "深耕报周刊",
+      "台湾通史"
+    ],
+    "tags": [
+      "民进党研究",
+      "迷信",
+      "无知",
+      "许荣淑",
+      "林正杰",
+      "龙山寺",
+      "吴凤",
+      "吴凤铜像",
+      "台湾通史",
+      "历史正义"
+    ],
+    "view": [
+      "思想线",
+      "写作线",
+      "政治线",
+      "历史线",
+      "台湾史政线"
+    ],
+    "crossReferences": [
+      "lengyan-kan-taiwan-1985-07-11-to-1989-03-21-writes-mainlander-taiwanese-separation-zheng-chenggong-and-wu-feng-essays",
+      "prison-father-letters-1975-09-07-writes-fiji-letter-and-adds-wu-feng-afterword",
+      "jingfumen-1989-03-18-writes-real-wu-feng",
+      "li-ao-youhua-shuo-526-uses-wu-feng-story-to-explain-228-headhunting-politics",
+      "minjindang-yanjiu-1988-07-18-to-08-26-writes-taiwan-scale-independence-blacklist-and-officialdom-critiques",
+      "li-ao-mimi-shufang-037-criticizes-dpp-party-structure-and-nomination-money"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-06-minjindang-yanjiu-round003-041-060-closeout",
+    "id": "minjindang-yanjiu-1989-01-19-to-02-24-writes-dpp-political-morality-spitting-rules-and-scapegoat-dog",
+    "date": "1989-01-19",
+    "endDate": "1989-02-24",
+    "year": 1989,
+    "month": 1,
+    "day": 19,
+    "displayDate": "1989年1月19日至2月24日",
+    "datePrecision": "date-range",
+    "title": "李敖从政治道德、口水攻势、行规规则写到高雄声援朱高正者的“替罪狗”",
+    "summary": "056至060合并为民进党政治道德与群众暴力组。056署日1989年1月19日，李敖回扣七个月前《讲民主，你没有风度》和三个月前《台湾没有水准》，以朱高正粗暴问政、康宁祥摔椅子、背后开枪和政治道德故事说明民进党摧毁的不是国民党秩序，而是对敌人的政治道德；057署日1月20日，记民进党1月17日包围立法院时朱高正捏住何适脖子并吐口水、群众次日对林联辉、黄河清、吴德美吐口水、浓痰、槟榔汁、推拉辱骂并喷瓦斯，连同《民进周刊》发起吐口水运动和烧冥纸，批其迷信、残暴、不尊重女性；058署日1月24日，从行规谈到荣星案黄周旋、周伯伦与林正杰向张建邦借钱，认为民进党里子面子全要、不守行规；059署日1月25日，从约定俗成、隐含权力谈起，批林正杰宣传车所谓三条规定没有列明不可吐口水和骚扰女性，进而讥旁听规则没写不准当众小便是否也可小便；060署日2月24日，从替罪羊和替代性攻击谈到高雄市各界声援朱高正活动中把一只小狗披国民党党旗、系“走狗母”白条痛打并辱骂吴德美，批朱高正追随者欺负弱小、缺乏教养。本条把1月到2月的粗暴、口水、规则与迁怒主题收为一组。",
+    "source": {
+      "book": "民进党研究",
+      "chapter": "056.民进党的政治道德问题.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/056.民进党的政治道德问题.txt",
+      "line": 3,
+      "lines": [
+        3,
+        15
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "民进党研究",
+        "chapter": "057.民进党的口水问题.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/057.民进党的口水问题.txt",
+        "line": 3,
+        "lines": [
+          3,
+          11
+        ],
+        "note": "补出1989年1月20日李敖记录1月17日立法院口水攻势、吴德美受辱和《民进周刊》吐口水运动。"
+      },
+      {
+        "book": "民进党研究",
+        "chapter": "058.民进党的行规问题.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/058.民进党的行规问题.txt",
+        "line": 3,
+        "lines": [
+          3,
+          13
+        ],
+        "note": "补出1989年1月24日李敖借荣星案、周伯伦和林正杰向张建邦借钱谈民进党不守行规。"
+      },
+      {
+        "book": "民进党研究",
+        "chapter": "059.民进党的规则问题.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/059.民进党的规则问题.txt",
+        "line": 3,
+        "lines": [
+          3,
+          15
+        ],
+        "note": "补出1989年1月25日李敖从约定俗成和隐含权力批民进党把没有列入规则当作可为的逻辑。"
+      },
+      {
+        "book": "民进党研究",
+        "chapter": "060.从替罪羊到替罪狗.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/004.民进党研究/060.从替罪羊到替罪狗.txt",
+        "line": 3,
+        "lines": [
+          3,
+          15
+        ],
+        "note": "补出1989年2月24日李敖从替罪羊、替代性攻击谈高雄声援朱高正者痛打披国民党党旗小狗的事件。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "朱高正",
+      "康宁祥",
+      "何适",
+      "林联辉",
+      "黄河清",
+      "吴德美",
+      "谢美美",
+      "黄木添",
+      "黄铃雄",
+      "黄周旋",
+      "周伯伦",
+      "林正杰",
+      "张建邦",
+      "庄子",
+      "盗跖",
+      "徐道邻",
+      "亚伦"
+    ],
+    "places": [
+      "台湾",
+      "立法院",
+      "台北",
+      "来来大饭店",
+      "荣星",
+      "香港",
+      "高雄",
+      "高雄市议会"
+    ],
+    "works": [
+      "民进党研究",
+      "民进党的政治道德问题",
+      "民进党的口水问题",
+      "民进党的行规问题",
+      "民进党的规则问题",
+      "从替罪羊到替罪狗",
+      "民进周刊",
+      "庄子",
+      "旧约",
+      "利未记"
+    ],
+    "tags": [
+      "民进党研究",
+      "政治道德",
+      "朱高正",
+      "口水攻势",
+      "吴德美",
+      "荣星案",
+      "周伯伦",
+      "林正杰",
+      "行规",
+      "规则",
+      "替罪羊",
+      "替罪狗"
+    ],
+    "view": [
+      "政治线",
+      "写作线",
+      "论战线",
+      "伦理线",
+      "台湾史政线"
+    ],
+    "crossReferences": [
+      "minjindang-yanjiu-1988-07-23-to-08-10-writes-democratic-style-petition-press-violence-and-lei-case-target",
+      "minjindang-yanjiu-1988-08-29-to-08-31-writes-dpp-degeneration-exposure-and-political-fairness",
+      "li-ao-suixielu-qianji-1991-10-04-comments-central-daily-zhu-gaozheng-spitting",
+      "li-ao-dageda-077-shows-shih-mingteh-wanted-poster-and-rongxing-chronology",
+      "li-ao-dageda-077-shows-free-era-identity-and-rongxing-bribe-split",
+      "qianqiu-wansui-1983-11-26-170-lin-zhengjie-letter-to-li-about-zhang-jianbang-loan",
+      "qianqiu-wansui-1991-03-09-170-writes-zhang-jianbang-scandal-lin-zhengjie-silent",
+      "li-ao-mimi-shufang-037-condemns-dpp-internal-violence-and-new-tide"
+    ]
+  }
+]

@@ -24042,7 +24042,26 @@
         29
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "蒋经国研究",
+        "chapter": "001.鼓励诋毁元首才是正路",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/012.人物研究类/024.蒋经国研究/001.鼓励诋毁元首才是正路.txt",
+        "line": 11,
+        "lines": [
+          3,
+          5,
+          7,
+          11,
+          13,
+          15,
+          17,
+          19
+        ],
+        "note": "本书前编收录1985年12月23日原文，可补2002年节目展示旧文的直接文本来源。"
+      }
+    ]
   },
   {
     "id": "li-ao-dageda-087-contrasts-jeffersons-tolerance-with-chen-shuibians-insult-limits",

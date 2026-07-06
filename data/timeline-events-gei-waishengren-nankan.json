@@ -1,0 +1,761 @@
+[
+  {
+    "id": "gei-waishengren-nankan-1991-04-04-to-1991-04-15-writes-chiang-military-school-and-savior-myth-essays",
+    "date": "1991-04-04",
+    "displayDate": "1991年4月4日至1991年4月15日",
+    "datePrecision": "date-range",
+    "title": "李敖在《给外省人难看》中合写蒋介石学历、“民族救星”和丁中江名单神话考辨",
+    "summary": "本组收《给外省人难看》中直接围绕蒋介石神话与国民党历史包装的三篇：李敖先追打蒋介石冒充日本士官学校毕业的说法，又批评郝柏村继续歌颂“民族救星”，最后借丁中江捏造名单一案指出党国传记与回忆文字怎样制造、扩散、延续政治神话。它不重复蒋介石早年学历本身的既有研究事件，而是记录李敖在本书中把这些材料再度改写成给“外省人”看的政治讽刺与史料纠偏。",
+    "view": [
+      "写作线",
+      "政治线",
+      "史料线",
+      "国民党史政线"
+    ],
+    "tags": [
+      "给外省人难看",
+      "蒋介石学历",
+      "日本士官学校",
+      "民族救星",
+      "丁中江",
+      "国民党神话"
+    ],
+    "people": [
+      "李敖",
+      "蒋介石",
+      "郝柏村",
+      "丁中江"
+    ],
+    "places": [
+      "台湾",
+      "日本"
+    ],
+    "works": [
+      "给外省人难看",
+      "蒋介石冒充日本士官学校毕业",
+      "郝柏村还在无耻歌颂“民族救星”",
+      "丁中江捏造名单"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "给外省人难看",
+      "chapter": "001.蒋介石冒充日本士官学校毕业",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/006.给外省人难看/001.蒋介石冒充日本士官学校毕业.txt",
+      "line": 3,
+      "lines": [
+        3,
+        25
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "给外省人难看",
+        "chapter": "003.郝柏村还在无耻歌颂“民族救星”",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/006.给外省人难看/003.郝柏村还在无耻歌颂“民族救星”.txt",
+        "line": 3,
+        "lines": [
+          3,
+          11
+        ]
+      },
+      {
+        "book": "给外省人难看",
+        "chapter": "033.丁中江捏造名单",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/006.给外省人难看/033.丁中江捏造名单.txt",
+        "line": 3,
+        "lines": [
+          3,
+          7
+        ]
+      }
+    ],
+    "crossReferences": [
+      "jiangjieshi-yanjiu-1985-09-04-to-12-04-debunks-early-chiang-biography-myths",
+      "jiangjieshi-yanjiu-siji-1987-08-15-reduces-chiang-education-to-zhenwu-school",
+      "jiangjieshi-yanjiu-1984-11-07-to-1986-06-13-writes-on-chiang-party-power-and-propaganda"
+    ],
+    "round": "2026-07-06-gei-waishengren-nankan-round001-closeout"
+  },
+  {
+    "id": "gei-waishengren-nankan-1982-06-18-to-1991-07-08-writes-kmt-old-guard-official-servility-and-speech-control-essays",
+    "date": "1982-06-18",
+    "displayDate": "1982年6月18日至1991年7月8日",
+    "datePrecision": "date-range",
+    "title": "李敖合写陈立夫、梁肃戎、陶百川、蒋彦士、宋长志、谢然之、邵玉铭、宋楚瑜和马英九等党国权力人物批判",
+    "summary": "本组把书中一批围绕党国旧人、军政官员与年轻权力侍从的短文合并处理：陈立夫的新谎话、梁肃戎的政治悲哀、陶百川歌颂蒋经国、蒋彦士为权门做“义子”、宋长志的军人政治观、谢然之参与《文星》迫害、邵玉铭的查禁信、宋楚瑜的佞幸形象，以及马英九吹捧蒋经国的论文。李敖在这些文章里不是记录互不相干的八卦，而是把外省权力集团的效忠姿态、言论管制、传记粉饰和青年官僚拍马文化压成同一组政治人格批判。",
+    "view": [
+      "写作线",
+      "政治线",
+      "论战线",
+      "国民党史政线"
+    ],
+    "tags": [
+      "给外省人难看",
+      "党国旧人",
+      "外省权力人物",
+      "言论管制",
+      "拍马文化",
+      "蒋经国"
+    ],
+    "people": [
+      "李敖",
+      "陈立夫",
+      "梁肃戎",
+      "陶百川",
+      "蒋彦士",
+      "宋长志",
+      "谢然之",
+      "邵玉铭",
+      "宋楚瑜",
+      "马英九",
+      "蒋经国"
+    ],
+    "places": [
+      "台湾",
+      "台北"
+    ],
+    "works": [
+      "给外省人难看",
+      "陈立夫的新谎话",
+      "梁肃戎的悲哀",
+      "陶百川的无耻",
+      "无耻的蒋彦士为姘头的妈做干儿子",
+      "给宋长志先生上一课",
+      "敲回谢然之的龟头！",
+      "邵玉铭与军阀",
+      "宋楚瑜该入什么传？",
+      "马英九的马屁言论"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "给外省人难看",
+      "chapter": "009.给宋长志先生上一课",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/006.给外省人难看/009.给宋长志先生上一课.txt",
+      "line": 3,
+      "lines": [
+        3,
+        51
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "给外省人难看",
+        "chapter": "002.陈立夫的新谎话",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/006.给外省人难看/002.陈立夫的新谎话.txt",
+        "line": 3,
+        "lines": [
+          3,
+          17
+        ]
+      },
+      {
+        "book": "给外省人难看",
+        "chapter": "004.梁肃戎的悲哀",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/006.给外省人难看/004.梁肃戎的悲哀.txt",
+        "line": 3,
+        "lines": [
+          3,
+          15
+        ]
+      },
+      {
+        "book": "给外省人难看",
+        "chapter": "005.陶百川的无耻",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/006.给外省人难看/005.陶百川的无耻.txt",
+        "line": 3,
+        "lines": [
+          3,
+          23
+        ]
+      },
+      {
+        "book": "给外省人难看",
+        "chapter": "008.无耻的蒋彦士为姘头的妈做干儿子",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/006.给外省人难看/008.无耻的蒋彦士为姘头的妈做干儿子.txt",
+        "line": 3,
+        "lines": [
+          3,
+          27
+        ]
+      },
+      {
+        "book": "给外省人难看",
+        "chapter": "012.敲回谢然之的龟头！",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/006.给外省人难看/012.敲回谢然之的龟头！.txt",
+        "line": 3,
+        "lines": [
+          3,
+          17
+        ]
+      },
+      {
+        "book": "给外省人难看",
+        "chapter": "013.邵玉铭与军阀",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/006.给外省人难看/013.邵玉铭与军阀.txt",
+        "line": 3,
+        "lines": [
+          3,
+          19
+        ]
+      },
+      {
+        "book": "给外省人难看",
+        "chapter": "014.宋楚瑜该入什么传？",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/006.给外省人难看/014.宋楚瑜该入什么传？.txt",
+        "line": 3,
+        "lines": [
+          3,
+          17
+        ]
+      },
+      {
+        "book": "给外省人难看",
+        "chapter": "015.马英九的马屁言论",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/006.给外省人难看/015.马英九的马屁言论.txt",
+        "line": 3,
+        "lines": [
+          3,
+          15
+        ]
+      }
+    ],
+    "crossReferences": [
+      "laozei-choushi-1982-03-17-to-1988-08-06-writes-old-kmt-officials-traitor-biased-speech-and-hanjian-essays",
+      "laozei-choushi-1983-12-21-to-1991-04-06-writes-everlasting-representatives-and-legislative-human-rights-essays",
+      "laozei-choushi-1988-11-30-to-1990-03-writes-sheng-shicai-torture-and-tao-baichuan-human-rights-evidence",
+      "laozei-choushi-1992-02-15-writes-qin-xiaoyi-chen-lifu-and-biographical-literature-family-servant-essay",
+      "guomindang-choushi-1989-01-06-to-1989-05-02-writes-kmt-red-lineage-propaganda-work-and-may-fourth-essays"
+    ],
+    "round": "2026-07-06-gei-waishengren-nankan-round001-closeout"
+  },
+  {
+    "id": "gei-waishengren-nankan-1988-08-13-to-1990-10-16-writes-copyright-finance-supervision-exam-and-family-law-essays",
+    "date": "1988-08-13",
+    "displayDate": "1988年8月13日至1990年10月16日",
+    "datePrecision": "date-range",
+    "title": "李敖把钱复、李达海、王又曾、吴祺芳、孔德成、钱穆和胡琏家事合写为制度与财法批判",
+    "summary": "本组收书中围绕制度、公权力、财产与法律的七篇文章：李敖警告钱复在著作权谈判上不可“丧权辱国”，又批评李达海与监察制度；随后转入王又曾涉嫌诈财、吴祺芳“内线交易”、孔德成父子破坏考试制度、钱穆家事与房事，以及胡琏亲族争产诉讼。它们共同呈现李敖如何把国际谈判、监察院、企业金融、教育考试、名人家事和司法伦理并置，作为党国社会中制度失灵与特权惯性的证据。",
+    "view": [
+      "写作线",
+      "政治线",
+      "司法线",
+      "国民党史政线"
+    ],
+    "tags": [
+      "给外省人难看",
+      "著作权",
+      "监察院",
+      "金融案件",
+      "内线交易",
+      "考试制度",
+      "家产诉讼"
+    ],
+    "people": [
+      "李敖",
+      "钱复",
+      "李达海",
+      "王又曾",
+      "吴祺芳",
+      "孔德成",
+      "钱穆",
+      "胡琏"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "美国"
+    ],
+    "works": [
+      "给外省人难看",
+      "警告钱复，不可“丧权辱国”！",
+      "给李达海上一课",
+      "王又曾涉嫌诈财物案",
+      "吴祺芳的“内线交易”",
+      "孔德成父子是破坏中国考试制度的祸首",
+      "钱穆的房事与家事",
+      "怎可告姨妈？"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "给外省人难看",
+      "chapter": "010.警告钱复，不可“丧权辱国”！",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/006.给外省人难看/010.警告钱复，不可“丧权辱国”！.txt",
+      "line": 3,
+      "lines": [
+        3,
+        13
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "给外省人难看",
+        "chapter": "011.给李达海上一课",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/006.给外省人难看/011.给李达海上一课.txt",
+        "line": 3,
+        "lines": [
+          3,
+          13
+        ]
+      },
+      {
+        "book": "给外省人难看",
+        "chapter": "016.王又曾涉嫌诈财物案",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/006.给外省人难看/016.王又曾涉嫌诈财物案.txt",
+        "line": 3,
+        "lines": [
+          3,
+          23
+        ]
+      },
+      {
+        "book": "给外省人难看",
+        "chapter": "017.吴祺芳的“内线交易”",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/006.给外省人难看/017.吴祺芳的“内线交易”.txt",
+        "line": 3,
+        "lines": [
+          3,
+          21
+        ]
+      },
+      {
+        "book": "给外省人难看",
+        "chapter": "018.孔德成父子是破坏中国考试制度的祸首",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/006.给外省人难看/018.孔德成父子是破坏中国考试制度的祸首.txt",
+        "line": 3,
+        "lines": [
+          3,
+          17
+        ]
+      },
+      {
+        "book": "给外省人难看",
+        "chapter": "019.钱穆的房事与家事",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/006.给外省人难看/019.钱穆的房事与家事.txt",
+        "line": 3,
+        "lines": [
+          3,
+          17
+        ]
+      },
+      {
+        "book": "给外省人难看",
+        "chapter": "034.怎可告姨妈？",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/006.给外省人难看/034.怎可告姨妈？.txt",
+        "line": 3,
+        "lines": [
+          3,
+          17
+        ]
+      }
+    ],
+    "crossReferences": [
+      "gei-guomindang-nankan-1988-07-20-to-1990-08-30-writes-kmt-political-culture-public-credit-and-propaganda-shorts",
+      "guomindang-yanjiu-1983-10-20-to-1985-02-28-writes-money-debt-and-cathay-fraud-essays",
+      "guomindang-yanjiu-1983-12-16-to-1986-12-08-writes-kmt-dogs-martyrs-shrine-warrants-and-seals"
+    ],
+    "round": "2026-07-06-gei-waishengren-nankan-round001-closeout"
+  },
+  {
+    "id": "gei-waishengren-nankan-1982-05-30-to-1991-07-17-writes-xu-fuguan-fu-zheng-and-lin-zhengjie-opposition-judgment-essays",
+    "date": "1982-05-30",
+    "displayDate": "1982年5月30日至1991年7月17日",
+    "datePrecision": "date-range",
+    "title": "李敖在《给外省人难看》中重判徐复观、傅正和林正杰的党外与自由中国位置",
+    "summary": "本组把徐复观、傅正、林正杰三篇并列：李敖先回到徐复观骂他“小疯狗”及相关官司，追问徐复观是否真是自由主义好汉；再借谢聪敏、魏廷朝来访与傅正之死，回看傅正从《自由中国》、雷震案到主编《雷震全集》的正负两面；最后批评林正杰在选罢法修正后的组党表态，要求他先打倒自己。三篇共同处理党外、自由中国遗绪与政治人格判断，故合成一条而不拆成三件小事。",
+    "view": [
+      "写作线",
+      "政治线",
+      "论战线",
+      "自由中国线"
+    ],
+    "tags": [
+      "给外省人难看",
+      "徐复观",
+      "傅正",
+      "林正杰",
+      "自由中国",
+      "党外"
+    ],
+    "people": [
+      "李敖",
+      "徐复观",
+      "傅正",
+      "林正杰",
+      "雷震",
+      "谢聪敏",
+      "魏廷朝"
+    ],
+    "places": [
+      "台湾",
+      "台北"
+    ],
+    "works": [
+      "给外省人难看",
+      "徐复观是好汉吗？",
+      "傅正的正负",
+      "我看林正杰还是先打倒自己吧！",
+      "自由中国",
+      "雷震全集"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "给外省人难看",
+      "chapter": "007.徐复观是好汉吗？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/006.给外省人难看/007.徐复观是好汉吗？.txt",
+      "line": 3,
+      "lines": [
+        3,
+        95
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "给外省人难看",
+        "chapter": "036.傅正的正负",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/006.给外省人难看/036.傅正的正负.txt",
+        "line": 3,
+        "lines": [
+          3,
+          67
+        ]
+      },
+      {
+        "book": "给外省人难看",
+        "chapter": "037.我看林正杰还是先打倒自己吧！",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/006.给外省人难看/037.我看林正杰还是先打倒自己吧！.txt",
+        "line": 3,
+        "lines": [
+          3,
+          15
+        ]
+      }
+    ],
+    "crossReferences": [
+      "laozei-choushi-1982-04-07-writes-xu-fuguan-party-state-ideology-final-judgment",
+      "book5-1964-07-10-xu-fuguan-little-mad-dog-article",
+      "book5-1965-11-02-xu-hong-case-dismissed-li-appeals",
+      "jiangjingguo-yanjiu-1987-07-12-writes-preface-and-frames-chiang-chingkuo-dead-book",
+      "li-ao-diandao-zhongsheng-034-compares-party-outsider-three-swordsmen-and-dpp-excluding-waishengren"
+    ],
+    "round": "2026-07-06-gei-waishengren-nankan-round001-closeout"
+  },
+  {
+    "id": "gei-waishengren-nankan-1979-08-09-to-1990-10-15-writes-academia-sinica-xu-zhuoyun-wu-dayou-and-overseas-scholar-essays",
+    "date": "1979-08-09",
+    "displayDate": "1979年8月9日至1990年10月15日",
+    "datePrecision": "date-range",
+    "title": "李敖集中批判李济、许倬云、吴大猷、沈君山和高希均等学术体制人物",
+    "summary": "本组收书中学术体制与外省学人批判的七篇：李敖从李济的内外行问题切入，继续追问李济、许倬云收钱不办事与中央研究院项目延宕；再回看许倬云在《文星》复刊文字、王世杰日记、逼婚与谄上材料中的人格表现；随后转向吴大猷假公济私、沈君山政治酒窝，以及高希均式“联想”。这些章节的价值不在新增单一传记事实，而在李敖把中研院、台大、留美学人、国家经费和政治依附并成一组学术权力结构批判。",
+    "view": [
+      "写作线",
+      "学术线",
+      "政治线",
+      "国民党史政线"
+    ],
+    "tags": [
+      "给外省人难看",
+      "中央研究院",
+      "学术体制",
+      "许倬云",
+      "吴大猷",
+      "沈君山",
+      "高希均"
+    ],
+    "people": [
+      "李敖",
+      "李济",
+      "许倬云",
+      "吴大猷",
+      "沈君山",
+      "高希均",
+      "王世杰",
+      "杨振宁"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "中央研究院",
+      "台大",
+      "美国"
+    ],
+    "works": [
+      "给外省人难看",
+      "李济的内行与外行",
+      "李济、许倬云怎样拿钱不办事",
+      "从许倬云逼婚谄上看国民党学人品格",
+      "许翼云许倬云哥俩好无耻！",
+      "吴大猷假公济私的一面",
+      "沈君山的政治酒窝，笑笑！",
+      "联想高希均的联想"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "给外省人难看",
+      "chapter": "022.李济、许倬云怎样拿钱不办事",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/006.给外省人难看/022.李济、许倬云怎样拿钱不办事.txt",
+      "line": 3,
+      "lines": [
+        3,
+        93
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "给外省人难看",
+        "chapter": "021.李济的内行与外行",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/006.给外省人难看/021.李济的内行与外行.txt",
+        "line": 3,
+        "lines": [
+          3,
+          17
+        ]
+      },
+      {
+        "book": "给外省人难看",
+        "chapter": "023.从许倬云逼婚谄上看国民党学人品格",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/006.给外省人难看/023.从许倬云逼婚谄上看国民党学人品格.txt",
+        "line": 3,
+        "lines": [
+          3,
+          63
+        ]
+      },
+      {
+        "book": "给外省人难看",
+        "chapter": "024.许翼云许倬云哥俩好无耻！",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/006.给外省人难看/024.许翼云许倬云哥俩好无耻！.txt",
+        "line": 3,
+        "lines": [
+          3,
+          11
+        ]
+      },
+      {
+        "book": "给外省人难看",
+        "chapter": "025.吴大猷假公济私的一面",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/006.给外省人难看/025.吴大猷假公济私的一面.txt",
+        "line": 3,
+        "lines": [
+          3,
+          93
+        ]
+      },
+      {
+        "book": "给外省人难看",
+        "chapter": "026.沈君山的政治酒窝，笑笑！",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/006.给外省人难看/026.沈君山的政治酒窝，笑笑！.txt",
+        "line": 3,
+        "lines": [
+          3,
+          39
+        ]
+      },
+      {
+        "book": "给外省人难看",
+        "chapter": "031.联想高希均的联想",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/006.给外省人难看/031.联想高希均的联想.txt",
+        "line": 3,
+        "lines": [
+          3,
+          19
+        ]
+      }
+    ],
+    "crossReferences": [
+      "education-faces-1964-08-22-completes-dark-sides-of-academia-sinica",
+      "book5-1963-11-05-visits-xu-zhuoyun-home",
+      "li-ao-shuduji-1986-09-09-night-writes-wu-dayou-rebuking-yang-zhenning-summons",
+      "liyuanzhe-zhenmianmu-2000-07-20-publishes-academia-sinica-secretary-eight-scandals"
+    ],
+    "round": "2026-07-06-gei-waishengren-nankan-round001-closeout"
+  },
+  {
+    "id": "gei-waishengren-nankan-1984-07-05-to-1999-03-28-writes-cultural-scholars-reputation-credential-and-party-praise-essays",
+    "date": "1984-07-05",
+    "displayDate": "1984年7月5日至1999年3月28日（含订补）",
+    "datePrecision": "date-range",
+    "title": "李敖合写成舍我、毛子水、丘宏达、林毓生、苏雪林和吴心柳的名誉、学历与伪证批判",
+    "summary": "本组收书中围绕文化界、新闻界和学院人物名誉结构的六篇：成舍我诱奸怨妇打胎、毛子水是否国特、丘宏达考试作弊、林毓生捏造文证、国民党乱捧苏雪林、以及从雷震日记看吴心柳伪造学历。李敖在这些文章里反复追问外省文化名人与党国宣传之间的交换关系：有的是私德和新闻权力，有的是特务嫌疑、考试作弊、证据捏造、学历伪造，有的是国民党借作家名声反向包装自己。林毓生一文含1999年订补，故本条日期跨到订补日。",
+    "view": [
+      "写作线",
+      "文化线",
+      "学术线",
+      "国民党史政线"
+    ],
+    "tags": [
+      "给外省人难看",
+      "文化名人",
+      "学历伪造",
+      "考试作弊",
+      "伪证",
+      "国民党宣传"
+    ],
+    "people": [
+      "李敖",
+      "成舍我",
+      "毛子水",
+      "丘宏达",
+      "林毓生",
+      "苏雪林",
+      "吴心柳",
+      "雷震"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "美国"
+    ],
+    "works": [
+      "给外省人难看",
+      "成舍我诱奸怨妇打胎三次",
+      "老毛是国特？",
+      "从丘宏达考试作弊看国民党学人品格",
+      "从林毓生捏造文证看国民党学人品格",
+      "国民党别乱捧苏雪林啦！",
+      "从雷震日记看吴心柳伪造学历"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "给外省人难看",
+      "chapter": "027.从丘宏达考试作弊看国民党学人品格",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/006.给外省人难看/027.从丘宏达考试作弊看国民党学人品格.txt",
+      "line": 3,
+      "lines": [
+        3,
+        41
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "给外省人难看",
+        "chapter": "006.成舍我诱奸怨妇打胎三次",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/006.给外省人难看/006.成舍我诱奸怨妇打胎三次.txt",
+        "line": 3,
+        "lines": [
+          3,
+          15
+        ]
+      },
+      {
+        "book": "给外省人难看",
+        "chapter": "020.老毛是国特？",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/006.给外省人难看/020.老毛是国特？.txt",
+        "line": 3,
+        "lines": [
+          3,
+          23
+        ]
+      },
+      {
+        "book": "给外省人难看",
+        "chapter": "028.从林毓生捏造文证看国民党学人品格",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/006.给外省人难看/028.从林毓生捏造文证看国民党学人品格.txt",
+        "line": 3,
+        "lines": [
+          3,
+          31
+        ],
+        "note": "原文署1987年7月28日作、1999年3月28日订补。"
+      },
+      {
+        "book": "给外省人难看",
+        "chapter": "029.国民党别乱捧苏雪林啦！",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/006.给外省人难看/029.国民党别乱捧苏雪林啦！.txt",
+        "line": 3,
+        "lines": [
+          3,
+          19
+        ]
+      },
+      {
+        "book": "给外省人难看",
+        "chapter": "035.从雷震日记看吴心柳伪造学历",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/006.给外省人难看/035.从雷震日记看吴心柳伪造学历.txt",
+        "line": 3,
+        "lines": [
+          3,
+          17
+        ]
+      }
+    ],
+    "crossReferences": [
+      "daxue-houqi-jia-1958-07-08-mo-politics-axing-church-and-qiu-hongda-cheating",
+      "bobo-song-1986-07-11-wu-xinliu-fake-degree",
+      "li-ao-diandao-zhongsheng-023-reads-central-daily-old-chairmen-photo-as-kmt-loyalists-loss"
+    ],
+    "round": "2026-07-06-gei-waishengren-nankan-round001-closeout"
+  },
+  {
+    "id": "gei-waishengren-nankan-1988-01-17-to-1989-05-15-writes-wenxing-copyright-and-zheng-zhenming-plagiarism-evidence",
+    "date": "1988-01-17",
+    "displayDate": "1988年1月17日至1989年5月15日",
+    "datePrecision": "date-range",
+    "title": "李敖把余光中《文星》版权旧案与郑贞铭抄袭案合写为出版伦理证据",
+    "summary": "本组只收两篇但不拆开：一篇是《余光中该烧哪只手？》，李敖回到《文星》版权、一次售卖、政治查禁与余光中回避责任的问题；另一篇是《郑贞铭抄袭事件》，他把尤英夫、沈登恩提供材料、文工会研究、新闻教育与一系列附件压成抄袭证据链。两篇都落在出版与新闻伦理上，前者是版权与背叛，后者是抄袭与证据保存，合并后能避免把材料性附录拆成零散小事件。",
+    "view": [
+      "写作线",
+      "文化线",
+      "新闻线",
+      "文星线"
+    ],
+    "tags": [
+      "给外省人难看",
+      "文星",
+      "余光中",
+      "版权",
+      "郑贞铭",
+      "抄袭",
+      "新闻教育"
+    ],
+    "people": [
+      "李敖",
+      "余光中",
+      "郑贞铭",
+      "尤英夫",
+      "沈登恩"
+    ],
+    "places": [
+      "台湾",
+      "台北"
+    ],
+    "works": [
+      "给外省人难看",
+      "余光中该烧哪只手？",
+      "郑贞铭抄袭事件",
+      "文星"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "给外省人难看",
+      "chapter": "030.余光中该烧哪只手？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/006.给外省人难看/030.余光中该烧哪只手？.txt",
+      "line": 3,
+      "lines": [
+        3,
+        67
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "给外省人难看",
+        "chapter": "032.郑贞铭抄袭事件",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/013.国民党史政/006.给外省人难看/032.郑贞铭抄袭事件.txt",
+        "line": 3,
+        "lines": [
+          3,
+          281
+        ],
+        "note": "正文署1989年5月15日，后附多份1988至1989年材料。"
+      }
+    ],
+    "crossReferences": [
+      "li-ao-duihualu-1987-04-zhu-wanjian-returns-and-authorizes-wenxing-copyright-to-li-ao",
+      "li-ao-duihualu-1987-04-17-negotiates-dalin-waterbuffalo-stop-wenxing-reprints",
+      "li-ao-duihualu-1987-06-13-sues-yu-lihua-over-wenxing-copyright",
+      "li-ao-duihualu-1987-06-17-noon-interview-wenxing-copyright-war",
+      "li-ao-youhua-shuo-104-criticizes-yu-guangzhong-after-wenxing-closure",
+      "li-ao-youhua-shuo-112-recalls-yu-guangzhong-wenxing-closure-remark"
+    ],
+    "round": "2026-07-06-gei-waishengren-nankan-round001-closeout"
+  }
+]
