@@ -2775,7 +2775,30 @@
         31
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "洗你的脑，掐他脖子",
+        "chapter": "003.快意恩仇的李敖传奇",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/009.洗你的脑，掐他脖子/003.快意恩仇的李敖传奇.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          7,
+          11,
+          27,
+          33,
+          61,
+          81,
+          117,
+          181,
+          187,
+          189
+        ],
+        "note": "本书收录凤凰《杨澜工作室》访问的《亚洲周刊》版全文，内容与1999年9月1日杨澜访谈旧锚相同。"
+      }
+    ]
   },
   {
     "id": "li-ao-zhenglun-zongyiji-008-keeps-black-materials-and-hu-yinmeng-tape-as-public-moral-evidence",

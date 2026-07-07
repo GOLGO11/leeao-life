@@ -1,0 +1,1117 @@
+[
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-07-gei-taiwanren-nankan-round001-001-038-closeout",
+    "id": "gei-taiwanren-nankan-1991-06-17-to-1993-02-20-writes-lien-family-and-taiwan-independence-records",
+    "date": "1991-06-17",
+    "endDate": "1993-02-20",
+    "year": 1991,
+    "month": 6,
+    "day": 17,
+    "displayDate": "1991年6月17日至1993年2月20日",
+    "datePrecision": "date-range",
+    "title": "李敖合写连横媚日材料与连战“台独”前科，拆解连氏三代本土包装",
+    "summary": "001至002合并为连氏三代材料组。1991年6月17日午，李敖在《孙子媚国民党，爷爷媚日本人》中回应省营官办报纸吹捧“连氏三代的本土情怀”，公布颜尹谟、刘明修转来的林献堂秘密日记、米山生与天南旧文，以及台湾民众党陈其昌声明，说明连横《台湾通史》与阿片论中的媚日痕迹。1993年2月20日《连战的“台独”前科》又追述他1988年10月27日在《乌鸦评论》透露资料给李世杰，再由李世杰写成《连战是谢聪敏台独同党？》；文中并回到李敖在调查局第一处任副处长时，林衡道曾报告连战在美国参加台独活动的旧情报。本条只收本书中对连氏家族包装和连战旧案的写作动作，不拆连横、彭明敏案或连战早年经历为独立事件。",
+    "source": {
+      "book": "给台湾人难看",
+      "chapter": "001.孙子媚国民党，爷爷媚日本人.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/006.给台湾人难看/001.孙子媚国民党，爷爷媚日本人.txt",
+      "line": 3,
+      "lines": [
+        3,
+        69
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "给台湾人难看",
+        "chapter": "002.连战的“台独”前科.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/006.给台湾人难看/002.连战的“台独”前科.txt",
+        "line": 3,
+        "lines": [
+          3,
+          25
+        ],
+        "note": "补入1993年2月20日李敖重提1988年《乌鸦评论》、李世杰文章和调查局旧情报中的连战台独前科。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "连战",
+      "连横",
+      "连震东",
+      "林献堂",
+      "颜尹谟",
+      "刘明修",
+      "李世杰",
+      "谢聪敏",
+      "彭明敏",
+      "魏廷朝",
+      "林衡道",
+      "沈之岳"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "日本",
+      "芝加哥",
+      "洛杉矶"
+    ],
+    "works": [
+      "给台湾人难看",
+      "孙子媚国民党，爷爷媚日本人",
+      "连战的“台独”前科",
+      "台湾通史",
+      "乌鸦评论",
+      "连战是谢聪敏台独同党？",
+      "台湾人自救宣言"
+    ],
+    "tags": [
+      "给台湾人难看",
+      "连战",
+      "连横",
+      "台湾通史",
+      "台独前科",
+      "林献堂日记",
+      "李世杰"
+    ],
+    "view": [
+      "写作线",
+      "史料线",
+      "政治线",
+      "台湾史政线"
+    ],
+    "crossReferences": []
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-07-gei-taiwanren-nankan-round001-001-038-closeout",
+    "id": "gei-taiwanren-nankan-1988-12-04-to-1990-09-04-writes-koo-chenfu-debt-rongxing-company-law-and-rebellion-records",
+    "date": "1988-12-04",
+    "endDate": "1990-09-04",
+    "year": 1988,
+    "month": 12,
+    "day": 4,
+    "displayDate": "1988年12月4日至1990年9月4日",
+    "datePrecision": "date-range",
+    "title": "李敖连续追打辜振甫鹿港债务、荣星花园、台泥公司法与叛乱案旧账",
+    "summary": "003至007合并为辜振甫证据组。1988年12月4日《辜振甫的信誉问题》以林永智公告和辜伟甫遗嘱执行争议，重查鹿港债权人与荣星花园债务；1989年7月9日、9月6日两文再围绕黄怡评论、叶明勋文章和荣星花园砍树、土地补偿、遗产执行问题，说明“你不能只说一半”。1990年9月4日两文又从经济部移送台泥违反《公司法》写到中国合成橡胶旧例，并摘出1947年台省战犯军事法庭辜振甫等人共同阴谋内乱案判决。本条只记录本书把辜家债务、公司治理与政治前科合为人物证据链的写作动作；鹿港债务、荣星园与中国合成橡胶旧事件均以旧锚串联，不重复造底层事件。",
+    "source": {
+      "book": "给台湾人难看",
+      "chapter": "003.辜振甫的信誉问题.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/006.给台湾人难看/003.辜振甫的信誉问题.txt",
+      "line": 3,
+      "lines": [
+        3,
+        39
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "给台湾人难看",
+        "chapter": "004.辜振甫砍掉了什么？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/006.给台湾人难看/004.辜振甫砍掉了什么？.txt",
+        "line": 3,
+        "lines": [
+          3,
+          21
+        ],
+        "note": "补出1989年7月9日李敖接续黄怡对荣星花园砍树的批评，补入辜伟甫遗嘱与辜家背景。"
+      },
+      {
+        "book": "给台湾人难看",
+        "chapter": "005.你不能只说一半.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/006.给台湾人难看/005.你不能只说一半.txt",
+        "line": 3,
+        "lines": [
+          3,
+          53
+        ],
+        "note": "补出1989年9月6日李敖回应叶明勋《一人独钓一江秋》，继续追查荣星花园与辜伟甫遗产。"
+      },
+      {
+        "book": "给台湾人难看",
+        "chapter": "006.辜振甫是“无端受累”吗？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/006.给台湾人难看/006.辜振甫是“无端受累”吗？.txt",
+        "line": 3,
+        "lines": [
+          3,
+          31
+        ],
+        "note": "补出1990年9月4日李敖从台泥被移送法办写到中国合成橡胶旧例。"
+      },
+      {
+        "book": "给台湾人难看",
+        "chapter": "007.辜振甫“叛乱案”留真.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/006.给台湾人难看/007.辜振甫“叛乱案”留真.txt",
+        "line": 3,
+        "lines": [
+          3,
+          43
+        ],
+        "note": "补出同日李敖摘录辜振甫1947年共同阴谋内乱案判决和履历删略问题。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "辜振甫",
+      "辜显荣",
+      "辜伟甫",
+      "辜宽敏",
+      "林永智",
+      "黄怡",
+      "叶明勋",
+      "石永贵",
+      "许丙",
+      "林熊祥",
+      "简朗山",
+      "徐坤泉"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "鹿港",
+      "荣星花园",
+      "彰化"
+    ],
+    "works": [
+      "给台湾人难看",
+      "辜振甫的信誉问题",
+      "辜振甫砍掉了什么？",
+      "你不能只说一半",
+      "辜振甫是“无端受累”吗？",
+      "辜振甫“叛乱案”留真",
+      "中央日报"
+    ],
+    "tags": [
+      "给台湾人难看",
+      "辜振甫",
+      "辜伟甫",
+      "荣星花园",
+      "鹿港债务",
+      "台泥",
+      "中国合成橡胶",
+      "叛乱案"
+    ],
+    "view": [
+      "写作线",
+      "史料线",
+      "商业线",
+      "司法线",
+      "台湾史政线"
+    ],
+    "crossReferences": [
+      "chouloude-zhongguoren-yanjiu-1984-01-09-to-04-14-investigates-koo-chenfu-lugang-debt-and-kinship-myth",
+      "book5-1986-04-14-letter-lin-yongzhi-rongxing",
+      "li-ao-shujianji-letterpaper-1986-04-14-night-replies-lin-yongzhi-returning-twenty-thousand-on-ku-debt",
+      "book4-1979-03-26-questions-china-synthetic-rubber-as-shareholder",
+      "shilun-xinyu-1989-09-03-ku-chen-fu-charity-money"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-07-gei-taiwanren-nankan-round001-001-038-closeout",
+    "id": "gei-taiwanren-nankan-1984-01-16-to-1991-03-05-writes-xie-dongmin-and-lin-yanggang-official-judicial-critiques",
+    "date": "1984-01-16",
+    "endDate": "1991-03-05",
+    "year": 1984,
+    "month": 1,
+    "day": 16,
+    "displayDate": "1984年1月16日至1991年3月5日",
+    "datePrecision": "date-range",
+    "title": "李敖合写谢东闵、林洋港短论，批本省党国高层与司法首长的权力样板",
+    "summary": "008至010合并为党国高层与司法首长短论组。1984年1月16日《谢东闵还有脸连任吗？》集中追查谢东闵“彰化帮”、谢敏初退票案、谢生富判决等材料；1988年12月1日《林洋港与莎士比亚》批林洋港在《远见》司法革新演讲中错引“皇后的贞节”故事；1991年3月5日《由废除送阅制度看林洋港的可恶》则从台南法院审阅制度纠纷写到林洋港六天之间从“不废除”到宣布废除的反复。本条按人物类型和司法政治主题合并，不另拆谢东闵、林洋港旧史事实。",
+    "source": {
+      "book": "给台湾人难看",
+      "chapter": "008.谢东闵还有脸连任吗？.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/006.给台湾人难看/008.谢东闵还有脸连任吗？.txt",
+      "line": 3,
+      "lines": [
+        3,
+        79
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "给台湾人难看",
+        "chapter": "009.林洋港与莎士比亚.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/006.给台湾人难看/009.林洋港与莎士比亚.txt",
+        "line": 3,
+        "lines": [
+          3,
+          17
+        ],
+        "note": "补出1988年12月1日李敖批林洋港错用莎士比亚与司法贞节说法。"
+      },
+      {
+        "book": "给台湾人难看",
+        "chapter": "010.由废除送阅制度看林洋港的可恶.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/006.给台湾人难看/010.由废除送阅制度看林洋港的可恶.txt",
+        "line": 3,
+        "lines": [
+          3,
+          45
+        ],
+        "note": "补出1991年3月5日李敖从台南法院审阅制度纠纷追打林洋港主持司法的反复。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "谢东闵",
+      "谢敏初",
+      "谢生富",
+      "谢长廷",
+      "林洋港",
+      "王甲乙",
+      "谢说容",
+      "张国彬",
+      "王兴仁",
+      "凯撒"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "彰化",
+      "台南",
+      "花莲",
+      "司法院"
+    ],
+    "works": [
+      "给台湾人难看",
+      "谢东闵还有脸连任吗？",
+      "林洋港与莎士比亚",
+      "由废除送阅制度看林洋港的可恶",
+      "中华民国宪法"
+    ],
+    "tags": [
+      "给台湾人难看",
+      "谢东闵",
+      "林洋港",
+      "彰化帮",
+      "司法独立",
+      "送阅制度",
+      "司法院"
+    ],
+    "view": [
+      "写作线",
+      "司法线",
+      "政治线",
+      "台湾史政线"
+    ],
+    "crossReferences": [
+      "li-ao-shuzhaji-1983-05-12-yangmingshan-open-letter-to-lin-yanggang-on-lincoln-call-girls",
+      "lidenghui-zhenmianmu-1990-07-10-to-09-01-writes-genealogy-and-judicial-reform-critiques",
+      "qianqiu-wansui-1989-03-16-157-writes-lin-yanggang-shameless",
+      "li-ao-youhua-shuo-018-shows-kneeling-to-chiang-and-huang-zunxian-taiwan-poem"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-07-gei-taiwanren-nankan-round001-001-038-closeout",
+    "id": "gei-taiwanren-nankan-1984-10-07-to-1990-09-15-writes-gao-yushu-surrender-record-and-public-house-critique",
+    "date": "1984-10-07",
+    "endDate": "1990-09-15",
+    "year": 1984,
+    "month": 10,
+    "day": 7,
+    "displayDate": "1984年10月7日至1990年9月15日",
+    "datePrecision": "date-range",
+    "title": "李敖写高玉树“真面目”和房事问题，重判党外政客被收编样本",
+    "summary": "011至012合并为高玉树人物样本组。1984年10月7日夜1时《高玉树的真面目》从康宁祥《危机与希望》称高玉树“保持自由之身”谈起，回到李敖《我的殷海光》记忆、蔡孟坚《蔡孟坚传真集》、高玉树悼蒋文字和申请入党旧事，判定高玉树出身党外却向国民党效忠。1990年9月15日《高玉树的房事问题》又据《自立早报》报道，追问高玉树久占青岛西路市产不还的说法。本条只收本书中对高玉树作为党外政客收编样本的连续书写；《文星》停刊等旧线仅串联。",
+    "source": {
+      "book": "给台湾人难看",
+      "chapter": "011.高玉树的真面目.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/006.给台湾人难看/011.高玉树的真面目.txt",
+      "line": 3,
+      "lines": [
+        3,
+        55
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "给台湾人难看",
+        "chapter": "012.高玉树的房事问题.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/006.给台湾人难看/012.高玉树的房事问题.txt",
+        "line": 3,
+        "lines": [
+          3,
+          11
+        ],
+        "note": "补出1990年9月15日李敖据《自立早报》批高玉树久占市产。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "高玉树",
+      "康宁祥",
+      "殷海光",
+      "陈平景",
+      "何秀煌",
+      "蔡孟坚",
+      "魏道明",
+      "蒋介石",
+      "吴伯雄"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "青岛西路",
+      "美国新闻处"
+    ],
+    "works": [
+      "给台湾人难看",
+      "高玉树的真面目",
+      "高玉树的房事问题",
+      "危机与希望",
+      "我的殷海光",
+      "蔡孟坚传真集"
+    ],
+    "tags": [
+      "给台湾人难看",
+      "高玉树",
+      "党外",
+      "国民党收编",
+      "市产",
+      "康宁祥",
+      "殷海光"
+    ],
+    "view": [
+      "写作线",
+      "人物线",
+      "政治线",
+      "台湾史政线"
+    ],
+    "crossReferences": [
+      "book5-1965-12-27-wenxing-one-year-suspension",
+      "li-ao-fangdianji-011-says-gao-yushu-and-peng-mingmin-claim-tra-credit-but-yang-xikun-deserves-it",
+      "li-ao-suixielu-houji-1991-12-20-comments-kao-yu-shu-ad-thanking-himself"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-07-gei-taiwanren-nankan-round001-001-038-closeout",
+    "id": "gei-taiwanren-nankan-1984-10-06-to-1989-01-18-writes-wu-sanlian-underground-kmt-and-zilih-history",
+    "date": "1984-10-06",
+    "endDate": "1989-01-18",
+    "year": 1984,
+    "month": 10,
+    "day": 6,
+    "displayDate": "1984年10月6日至1989年1月18日",
+    "datePrecision": "date-range",
+    "title": "李敖以密件重判吴三连和《自立晚报》，并斥康宁祥为吴三连贴金",
+    "summary": "013至018合并为吴三连与《自立》史料组。1984年10月6日晨《吴三连的真面目》先用国民党中央改造委员会极机密文件、吴逸民提前结训密件和《自立晚报》背景，指出吴三连是“地下国民党”。1988年11月18日至1989年1月18日，李敖又连续写《吴三连，谁要你承认？》《吴三连死有余辜》《吴三连盖棺的启示》《吴三连害了〈自立晚报〉》《斥康宁祥论吴三连》，从巴勒斯坦承认社论、吴三连去世后谀词、李玉阶李子弋办报史、叶明勋密件和康宁祥《大家的三老》反击吴三连形象。本条合收人物论定和报业史材料，不重复《自立晚报》“李敖死了”案等旧事件。",
+    "source": {
+      "book": "给台湾人难看",
+      "chapter": "013.吴三连的真面目.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/006.给台湾人难看/013.吴三连的真面目.txt",
+      "line": 3,
+      "lines": [
+        3,
+        39
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "给台湾人难看",
+        "chapter": "014.吴三连，谁要你承认？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/006.给台湾人难看/014.吴三连，谁要你承认？.txt",
+        "line": 3,
+        "lines": [
+          3,
+          11
+        ],
+        "note": "补出1988年11月18日李敖以《自立早报》承认巴勒斯坦社论批吴三连系统的外交试探。"
+      },
+      {
+        "book": "给台湾人难看",
+        "chapter": "015.吴三连死有余辜.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/006.给台湾人难看/015.吴三连死有余辜.txt",
+        "line": 3,
+        "lines": [
+          3,
+          11
+        ],
+        "note": "补出1988年12月30日吴三连死后李敖重判其地下国民党身份。"
+      },
+      {
+        "book": "给台湾人难看",
+        "chapter": "016.吴三连盖棺的启示.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/006.给台湾人难看/016.吴三连盖棺的启示.txt",
+        "line": 3,
+        "lines": [
+          3,
+          11
+        ],
+        "note": "补出1989年1月16日李敖以吴逸民密件和《自立晚报》改造史为吴三连盖棺。"
+      },
+      {
+        "book": "给台湾人难看",
+        "chapter": "017.吴三连害了《自立晚报》.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/006.给台湾人难看/017.吴三连害了《自立晚报》.txt",
+        "line": 3,
+        "lines": [
+          3,
+          13
+        ],
+        "note": "补出1989年1月17日李敖追述李玉阶、李子弋、许金德、唐纵、柏杨等《自立晚报》旧事。"
+      },
+      {
+        "book": "给台湾人难看",
+        "chapter": "018.斥康宁祥论吴三连.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/006.给台湾人难看/018.斥康宁祥论吴三连.txt",
+        "line": 3,
+        "lines": [
+          3,
+          15
+        ],
+        "note": "补出1989年1月18日李敖反驳康宁祥《大家的三老》，重述《自立晚报》停刊与复刊史。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "吴三连",
+      "吴逸民",
+      "吴丰山",
+      "刘辰旦",
+      "李玉阶",
+      "李子弋",
+      "许金德",
+      "唐纵",
+      "柏杨",
+      "叶明勋",
+      "康宁祥",
+      "郑邦琨"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "台南",
+      "巴勒斯坦"
+    ],
+    "works": [
+      "给台湾人难看",
+      "吴三连的真面目",
+      "吴三连，谁要你承认？",
+      "吴三连死有余辜",
+      "吴三连盖棺的启示",
+      "吴三连害了《自立晚报》",
+      "斥康宁祥论吴三连",
+      "自立晚报",
+      "自立早报"
+    ],
+    "tags": [
+      "给台湾人难看",
+      "吴三连",
+      "自立晚报",
+      "地下国民党",
+      "康宁祥",
+      "李玉阶",
+      "报业史"
+    ],
+    "view": [
+      "写作线",
+      "媒体线",
+      "史料线",
+      "政治线",
+      "台湾史政线"
+    ],
+    "crossReferences": [
+      "li-ao-shuduji-1987-08-03-writes-wu-sanlian-chiang-ching-kuo-dead-book-warning",
+      "li-ao-shuduji-1986-12-30-files-private-prosecution-over-zilih-dead-ad",
+      "liao-xinkan-1988-09-18-010-judges-fear-press-tycoons",
+      "lengyan-kan-taiwan-1986-06-19-to-1986-09-26-writes-li-xiaofeng-wei-tingchao-and-eighties-review-rebuttals"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-07-gei-taiwanren-nankan-round001-001-038-closeout",
+    "id": "gei-taiwanren-nankan-1991-02-27-to-06-01-supports-shoudu-zaobao-employees-claim-against-kang-ningxiang",
+    "date": "1991-02-27",
+    "endDate": "1991-06-01",
+    "year": 1991,
+    "month": 2,
+    "day": 27,
+    "displayDate": "1991年2月27日至6月1日",
+    "datePrecision": "date-range",
+    "title": "《首都早报》员工追讨王玺瑜、康宁祥时，李敖受托义务协助舆论追究",
+    "summary": "019至020合并为《首都早报》劳资追讨组。1991年2月27日《〈首都早报〉员工联函追究康宁祥违反〈劳基法〉》保存员工联络函，指出康宁祥曾支持《劳动基准法》，却在《首都早报》停刊时只示歉而未依法处理资遣。6月1日《〈首都早报〉同仁追讨王玺瑜康宁祥》进一步收《首都早报》同仁联谊会催告函和通讯，列明薪资、稿费、奖金、资遣费、认股金等追讨事项；文末说明部分员工签委托书，委托李敖和郭鑫生律师全权处理，二人表示不愿受酬、纯粹义务。本条是本书中少数明确李敖当事人介入的劳资/舆论事件，故单列。",
+    "source": {
+      "book": "给台湾人难看",
+      "chapter": "019.《首都早报》员工联函追究康宁祥违反《劳基法》.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/006.给台湾人难看/019.《首都早报》员工联函追究康宁祥违反《劳基法》.txt",
+      "line": 3,
+      "lines": [
+        3,
+        7
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "给台湾人难看",
+        "chapter": "020.《首都早报》同仁追讨王玺瑜康宁祥.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/006.给台湾人难看/020.《首都早报》同仁追讨王玺瑜康宁祥.txt",
+        "line": 3,
+        "lines": [
+          3,
+          47
+        ],
+        "note": "补出同仁联谊会催告函、第一号通讯，以及委托李敖和郭鑫生律师义务处理追讨事项。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "郭鑫生",
+      "康宁祥",
+      "王玺瑜",
+      "叶荣嘉",
+      "成令方"
+    ],
+    "places": [
+      "台湾",
+      "台北"
+    ],
+    "works": [
+      "给台湾人难看",
+      "首都早报",
+      "劳动基准法",
+      "首都早报同仁联谊会"
+    ],
+    "tags": [
+      "给台湾人难看",
+      "首都早报",
+      "康宁祥",
+      "王玺瑜",
+      "劳基法",
+      "劳资追讨",
+      "义务协助"
+    ],
+    "view": [
+      "生平线",
+      "媒体线",
+      "司法线",
+      "政治线",
+      "台湾史政线"
+    ],
+    "crossReferences": [
+      "shilun-xinyu-1989-09-29-not-an-internal-affair-column",
+      "zhongguo-xiandaishi-dinglun-1989-06-27-writes-did-zhou-enlai-sell-newspapers",
+      "jingfumen-1989-06-13-writes-from-orange-juice-to-foreign-liquor"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-07-gei-taiwanren-nankan-round001-001-038-closeout",
+    "id": "gei-taiwanren-nankan-1983-01-09-to-1989-03-05-writes-su-nancheng-kmt-return-and-representative-politics-essays",
+    "date": "1983-01-09",
+    "endDate": "1989-03-05",
+    "year": 1983,
+    "month": 1,
+    "day": 9,
+    "displayDate": "1983年1月9日至1989年3月5日",
+    "datePrecision": "date-range",
+    "title": "李敖把苏南成恢复党籍与“好为人代表”问题合写为代表性政治短论",
+    "summary": "021至022合并为苏南成和代表性政治组。1983年1月9日《大头仔回头磕头说从头》从《中央日报》报道苏南成获准恢复国民党籍写起，对照国民党党章、纪律法规和蒋介石“党员宣誓的意义”，指出“自动申请退党”与“恢复党籍”说法自相矛盾，也批苏南成“有奶就是娘”的政客路线。1989年3月5日《代“代表”表一表》则从好为人代表谈到万年民代和苏南成以高雄市全体市民名义恭贺李登辉当国民党主席。本条不重复《白眼看台湾》中苏南成复党旧锚，只收本书把复党、党纪和代表性话术压成一组的写作动作。",
+    "source": {
+      "book": "给台湾人难看",
+      "chapter": "021.大头仔回头磕头说从头.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/006.给台湾人难看/021.大头仔回头磕头说从头.txt",
+      "line": 3,
+      "lines": [
+        3,
+        107
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "给台湾人难看",
+        "chapter": "022.代“代表”表一表.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/006.给台湾人难看/022.代“代表”表一表.txt",
+        "line": 3,
+        "lines": [
+          3,
+          13
+        ],
+        "note": "补出1989年3月5日李敖从万年代表和苏南成代表高雄市民恭贺党主席，批代表性扩张。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "苏南成",
+      "雷震",
+      "蒋介石",
+      "李登辉",
+      "郑南榕",
+      "朱高正",
+      "布什"
+    ],
+    "places": [
+      "台湾",
+      "台南",
+      "高雄",
+      "美国",
+      "大陆"
+    ],
+    "works": [
+      "给台湾人难看",
+      "大头仔回头磕头说从头",
+      "代“代表”表一表",
+      "中央日报",
+      "中国国民党纪律法规及释例汇编",
+      "自由中国"
+    ],
+    "tags": [
+      "给台湾人难看",
+      "苏南成",
+      "恢复党籍",
+      "国民党党纪",
+      "代表性",
+      "万年民代",
+      "高雄"
+    ],
+    "view": [
+      "写作线",
+      "政治线",
+      "史料线",
+      "台湾史政线"
+    ],
+    "crossReferences": [
+      "baiyan-kan-taiwan-1983-01-12-context-writes-su-nancheng-rejoining-kmt-public-morality-critique",
+      "laozei-choushi-1983-12-21-to-1991-04-06-writes-everlasting-representatives-and-legislative-human-rights-essays"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-07-gei-taiwanren-nankan-round001-001-038-closeout",
+    "id": "gei-taiwanren-nankan-1983-06-27-to-1991-04-23-publishes-tamkang-ju-yingjiu-zhang-jianbang-evidence-chain",
+    "date": "1983-06-27",
+    "endDate": "1991-04-23",
+    "year": 1983,
+    "month": 6,
+    "day": 27,
+    "displayDate": "1983年6月27日至1991年4月23日",
+    "datePrecision": "date-range",
+    "title": "李敖连续刊出淡江、居瀛玖和张建邦证据链，追打张建邦应下台",
+    "summary": "023至028合并为淡江张建邦证据组。1983年6月27日《淡江大学的一件秘闻》从王小痴来信、居浩然《哭玖姐》与淡江英专创办旧史写起，追溯居瀛玖、居浩然与张建邦的校产争夺。1991年3月4日至7日，《张建邦应该下台了！》《张建邦霸占淡江校产内幕》《张建邦逼母亲上吊文证出现》《为张建邦逼母亲上吊存证》连续刊出徐萱证词和淡江教职人员见证信，把北宜高速公路搁置、交通部长责任、居瀛玖上吊和淡江校史改写相连。4月23日《张建邦是什么东西怎能比尹仲容》再以尹仲容辞职旧例反衬张建邦恋栈。本条按证据链合并，不把每份文证和每个家族节点拆成独立事件。",
+    "source": {
+      "book": "给台湾人难看",
+      "chapter": "023.淡江大学的一件秘闻.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/006.给台湾人难看/023.淡江大学的一件秘闻.txt",
+      "line": 3,
+      "lines": [
+        3,
+        73
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "给台湾人难看",
+        "chapter": "024.张建邦应该下台了！.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/006.给台湾人难看/024.张建邦应该下台了！.txt",
+        "line": 3,
+        "lines": [
+          3,
+          25
+        ],
+        "note": "补出1991年3月4日李敖借北宜高速公路搁置，要求张建邦下台并重提居瀛玖上吊。"
+      },
+      {
+        "book": "给台湾人难看",
+        "chapter": "025.张建邦霸占淡江校产内幕.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/006.给台湾人难看/025.张建邦霸占淡江校产内幕.txt",
+        "line": 3,
+        "lines": [
+          3,
+          37
+        ],
+        "note": "补出1991年3月5日《求是报》刊徐萱《居浩然与淡江英专》证词。"
+      },
+      {
+        "book": "给台湾人难看",
+        "chapter": "026.张建邦逼母亲上吊文证出现.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/006.给台湾人难看/026.张建邦逼母亲上吊文证出现.txt",
+        "line": 3,
+        "lines": [
+          3,
+          25
+        ],
+        "note": "补出1991年3月6日徐萱提供《居瀛玖之去世》文证。"
+      },
+      {
+        "book": "给台湾人难看",
+        "chapter": "027.为张建邦逼母亲上吊存证.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/006.给台湾人难看/027.为张建邦逼母亲上吊存证.txt",
+        "line": 3,
+        "lines": [
+          3,
+          19
+        ],
+        "note": "补出1991年3月7日《求是报》刊淡江教职人员见证信。"
+      },
+      {
+        "book": "给台湾人难看",
+        "chapter": "028.张建邦是什么东西怎能比尹仲容.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/006.给台湾人难看/028.张建邦是什么东西怎能比尹仲容.txt",
+        "line": 3,
+        "lines": [
+          3,
+          11
+        ],
+        "note": "补出1991年4月23日李敖以尹仲容三度请辞反衬张建邦恋栈。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "张建邦",
+      "居瀛玖",
+      "居浩然",
+      "王小痴",
+      "张惊声",
+      "居正",
+      "徐萱",
+      "张建国",
+      "谢冠生",
+      "李登辉",
+      "尹仲容"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "淡水",
+      "淡江大学",
+      "宜兰",
+      "澳洲"
+    ],
+    "works": [
+      "给台湾人难看",
+      "淡江大学的一件秘闻",
+      "张建邦应该下台了！",
+      "张建邦霸占淡江校产内幕",
+      "张建邦逼母亲上吊文证出现",
+      "为张建邦逼母亲上吊存证",
+      "张建邦是什么东西怎能比尹仲容",
+      "哭玖姐",
+      "居浩然与淡江英专"
+    ],
+    "tags": [
+      "给台湾人难看",
+      "张建邦",
+      "淡江大学",
+      "居瀛玖",
+      "居浩然",
+      "徐萱",
+      "北宜高速公路",
+      "尹仲容",
+      "求是报"
+    ],
+    "view": [
+      "写作线",
+      "史料线",
+      "媒体线",
+      "政治线",
+      "台湾史政线"
+    ],
+    "crossReferences": [
+      "li-ao-shuxuji-1987-11-23-writes-preface-to-ju-haoran-shilun-and-starts-posthumous-publication-plan",
+      "li-ao-yanjiangji-010-tamkang-speech-on-speech-freedom",
+      "li-ao-yanjiangji-010-donates-ten-thousand-usd-to-tamkang-speech-freedom-chair",
+      "li-ao-xiaoao-jianghu-1998-context-tamkang-jingsheng-hall-lecture-and-tv-reanswers-student-questions"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-07-gei-taiwanren-nankan-round001-001-038-closeout",
+    "id": "gei-taiwanren-nankan-1988-08-27-to-1991-07-30-writes-kmt-official-lies-guanshuo-finance-and-media-evidence-shorts",
+    "date": "1988-08-27",
+    "endDate": "1991-07-30",
+    "year": 1988,
+    "month": 8,
+    "day": 27,
+    "displayDate": "1988年8月27日至1991年7月30日",
+    "datePrecision": "date-range",
+    "title": "李敖合写郭婉容谎话、萧天赞关说、高育仁女儿资金和《民众日报》黑资料短论",
+    "summary": "029至033合并为官场谎话、关说和媒体财务疑云短论组。1988年8月27日《萧天赞错在哪儿？》和1989年9月24日《从关说到求情》从法务部长萧天赞旧关说案、陆啸钊《角色错乱的迷离》与胡适《人权论集》谈司法角色和关说文化；1989年5月11日《从郭婉容的谎话说起》用亚洲开发银行北京年会说辞抽样国民党粗糙谎话。1991年3月29日《高育仁女儿哪来七千五百万借人》则写《求是报》查出台北市大安地政事务所官文书中高婉倩7500万元贷款疑点；7月23日至30日《〈民众日报〉公布李氏父子黑资料》保存张俊宏致李哲朗信和苏秋镇公开信，呈现民进党与《民众日报》冲突及媒体背景指控。本条把短章压成证据短论组，不把萧天赞、郭婉容、高育仁、李哲朗各拆一条。",
+    "source": {
+      "book": "给台湾人难看",
+      "chapter": "030.萧天赞错在哪儿？.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/006.给台湾人难看/030.萧天赞错在哪儿？.txt",
+      "line": 3,
+      "lines": [
+        3,
+        15
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "给台湾人难看",
+        "chapter": "029.从郭婉容的谎话说起.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/006.给台湾人难看/029.从郭婉容的谎话说起.txt",
+        "line": 3,
+        "lines": [
+          3,
+          15
+        ],
+        "note": "补出1989年5月11日李敖以郭婉容赴北京参加亚银年会说辞为国民党粗糙谎话样本。"
+      },
+      {
+        "book": "给台湾人难看",
+        "chapter": "031.从关说到求情.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/006.给台湾人难看/031.从关说到求情.txt",
+        "line": 3,
+        "lines": [
+          3,
+          87
+        ],
+        "note": "补出1989年9月24日李敖引用陆啸钊《角色错乱的迷离》，把萧天赞案延伸到关说文化。"
+      },
+      {
+        "book": "给台湾人难看",
+        "chapter": "032.高育仁女儿哪来七千五百万借人.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/006.给台湾人难看/032.高育仁女儿哪来七千五百万借人.txt",
+        "line": 3,
+        "lines": [
+          3,
+          11
+        ],
+        "note": "补出1991年3月29日《求是报》查高育仁女儿高婉倩7500万元贷款疑点。"
+      },
+      {
+        "book": "给台湾人难看",
+        "chapter": "033.《民众日报》公布李氏父子黑资料.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/006.给台湾人难看/033.《民众日报》公布李氏父子黑资料.txt",
+        "line": 3,
+        "lines": [
+          3,
+          61
+        ],
+        "note": "补出1991年7月23日至30日民进党、张俊宏、苏秋镇和《民众日报》李氏父子的公开信与黑资料冲突。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "郭婉容",
+      "萧天赞",
+      "陆啸钊",
+      "吴勇雄",
+      "胡适",
+      "高育仁",
+      "高婉倩",
+      "林志郎",
+      "李哲朗",
+      "李瑞标",
+      "张俊宏",
+      "黄信介",
+      "张富忠",
+      "苏秋镇"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "北京",
+      "花莲",
+      "高雄",
+      "基隆"
+    ],
+    "works": [
+      "给台湾人难看",
+      "从郭婉容的谎话说起",
+      "萧天赞错在哪儿？",
+      "从关说到求情",
+      "高育仁女儿哪来七千五百万借人",
+      "《民众日报》公布李氏父子黑资料",
+      "角色错乱的迷离",
+      "人权论集",
+      "求是报",
+      "民众日报"
+    ],
+    "tags": [
+      "给台湾人难看",
+      "郭婉容",
+      "萧天赞",
+      "关说",
+      "高育仁",
+      "高婉倩",
+      "民众日报",
+      "求是报",
+      "媒体黑资料"
+    ],
+    "view": [
+      "写作线",
+      "司法线",
+      "媒体线",
+      "政治线",
+      "台湾史政线"
+    ],
+    "crossReferences": [
+      "wei-lishi-boyun-1988-10-05-writes-great-minister-advance-retreat",
+      "wei-lishi-boyun-1988-10-11-writes-great-minister-loss-of-composure",
+      "qianqiu-wansui-1989-08-26-082-writes-xiao-tianzan-can-only-be-bitten",
+      "shilun-xinyu-1989-09-23-li-huan-guanshuo-yuanzhang",
+      "li-ao-shuqiji-1993-02-25-writes-minzhong-daily-and-lin-bairong-on-zhang-guizhen-case"
+    ]
+  },
+  {
+    "category": "political-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-07-gei-taiwanren-nankan-round001-001-038-closeout",
+    "id": "gei-taiwanren-nankan-1988-07-02-to-1991-08-01-writes-dpp-and-tangwai-political-decorum-critiques",
+    "date": "1988-07-02",
+    "endDate": "1991-08-01",
+    "year": 1988,
+    "month": 7,
+    "day": 2,
+    "displayDate": "1988年7月2日至1991年8月1日",
+    "datePrecision": "date-range",
+    "title": "李敖合写朱高正、卢修一、邱义仁、吴勇雄与近闻零感，批民进党和党外政治规格",
+    "summary": "034至038合并为民进党与党外政治规格短论组。1988年7月2日《吴勇雄错在哪儿？》以林正杰向张建邦借钱和吴勇雄收王章清旅费后揭发为例，区分政治道德与政治行规；1989年8月3日《近闻零感》把香港、台湾、老民代、尤清、吴伯雄、高玉树、山地开发、黄宗文辞中宣部等零星短评集合。1991年3月6日《朱高正组党以后》从邓维桢带朱高正来访、郑南榕五一九绿色行动捐款和议会粗暴史写到民主风度；3月17日《斥“色情狂”卢修一！》批卢修一借《求是报》图片要求新闻局取缔色情；8月1日《邱义仁太幼稚了！》则批邱义仁既主张总统直选又说总统制糟糕。本条只收李敖在本书中对党外/民进党人物的政治规格批评，不重复朱高正私会、林正杰《前进》案、新潮流旧线等既有事件。",
+    "source": {
+      "book": "给台湾人难看",
+      "chapter": "037.吴勇雄错在哪儿？.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/006.给台湾人难看/037.吴勇雄错在哪儿？.txt",
+      "line": 3,
+      "lines": [
+        3,
+        19
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "给台湾人难看",
+        "chapter": "034.朱高正组党以后.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/006.给台湾人难看/034.朱高正组党以后.txt",
+        "line": 3,
+        "lines": [
+          3,
+          25
+        ],
+        "note": "补出1991年3月6日李敖从朱高正来访、五一九绿色行动和粗暴政治谈组党后的民主风度。"
+      },
+      {
+        "book": "给台湾人难看",
+        "chapter": "035.斥“色情狂”卢修一！.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/006.给台湾人难看/035.斥“色情狂”卢修一！.txt",
+        "line": 3,
+        "lines": [
+          3,
+          19
+        ],
+        "note": "补出1991年3月17日李敖批卢修一借《求是报》图片向新闻局要求取缔色情。"
+      },
+      {
+        "book": "给台湾人难看",
+        "chapter": "036.邱义仁太幼稚了！.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/006.给台湾人难看/036.邱义仁太幼稚了！.txt",
+        "line": 3,
+        "lines": [
+          3,
+          23
+        ],
+        "note": "补出1991年8月1日李敖批邱义仁总统直选后采内阁制的自相矛盾。"
+      },
+      {
+        "book": "给台湾人难看",
+        "chapter": "038.近闻零感.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/006.给台湾人难看/038.近闻零感.txt",
+        "line": 3,
+        "lines": [
+          3,
+          19
+        ],
+        "note": "补出1989年8月3日李敖以零感集合方式处理香港、老民代、尤清、吴伯雄、山地开发和黄宗文等短评。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "吴勇雄",
+      "林正杰",
+      "张建邦",
+      "陈敏男",
+      "王章清",
+      "朱高正",
+      "邓维桢",
+      "郑南榕",
+      "卢修一",
+      "邵玉铭",
+      "邱义仁",
+      "尤清",
+      "吴伯雄",
+      "高玉树",
+      "黄宗文"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "龙山寺",
+      "香港",
+      "西德",
+      "南韩"
+    ],
+    "works": [
+      "给台湾人难看",
+      "吴勇雄错在哪儿？",
+      "朱高正组党以后",
+      "斥“色情狂”卢修一！",
+      "邱义仁太幼稚了！",
+      "近闻零感",
+      "求是报",
+      "自立晚报",
+      "前进",
+      "民众日报"
+    ],
+    "tags": [
+      "给台湾人难看",
+      "朱高正",
+      "卢修一",
+      "邱义仁",
+      "吴勇雄",
+      "林正杰",
+      "政治行规",
+      "民主风度",
+      "民进党"
+    ],
+    "view": [
+      "写作线",
+      "政治线",
+      "媒体线",
+      "台湾史政线"
+    ],
+    "crossReferences": [
+      "fayan-kan-taiwan-1988-03-23-writes-zuo-shunsheng-and-zhu-gaozheng-private-meeting-decorum",
+      "minjindang-yanjiu-1988-09-06-to-10-02-writes-lin-zhengjie-evil-force-dpp-flattery-zhu-gaozheng-and-promise",
+      "jingfumen-1989-07-21-writes-worrying-new-tide-faction",
+      "qiushi-xinyu-1991-04-10-wang-tian-jing-protest-double-standard",
+      "lengyan-kan-taiwan-1985-04-20-to-1986-01-13-files-qianjin-lin-zhengjie-defamation-complaint-and-evidence-cluster",
+      "gei-waishengren-nankan-1982-05-30-to-1991-07-17-writes-xu-fuguan-fu-zheng-and-lin-zhengjie-opposition-judgment-essays",
+      "li-ao-xiaoao-jianghu-1998-08-after-remembers-lu-xiuyi-as-neighbor-and-renai-inmate"
+    ]
+  }
+]

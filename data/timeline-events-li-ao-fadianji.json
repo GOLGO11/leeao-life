@@ -1762,7 +1762,28 @@
     ],
     "confidence": "high",
     "certainty": "confirmed",
-    "round": "2026-07-03-li-ao-fadianji-round003-017-024"
+    "round": "2026-07-03-li-ao-fadianji-round003-017-024",
+    "additionalSources": [
+      {
+        "book": "洗你的脑，掐他脖子",
+        "chapter": "010.诺贝尔文学奖候选人李敖简介",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/009.洗你的脑，掐他脖子/010.诺贝尔文学奖候选人李敖简介.txt",
+        "line": 3,
+        "lines": [
+          3,
+          7,
+          11,
+          15,
+          49,
+          53,
+          65,
+          67,
+          81,
+          83
+        ],
+        "note": "本书重收1999年12月31日候选人简介，补入总统挑战书中对李敖身份和国际形象的自我说明。"
+      }
+    ]
   },
   {
     "id": "li-ao-fadianji-024-exposes-shi-zhangzhu-renamed-shi-yan-and-shimen-villa",

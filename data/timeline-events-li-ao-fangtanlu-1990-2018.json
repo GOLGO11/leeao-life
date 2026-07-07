@@ -277,7 +277,26 @@
     "crossReferences": [
       "book4-1995-10-30-li-ao-roams-jianghu-begins-broadcast",
       "book4-deep-1996-10-30-roams-jianghu-renewed-after-one-year",
-      "li-ao-shuxuji-xuji-1997-mid-authorizes-qian-da-to-use-hongxi-materials"
+      "li-ao-shuxuji-xuji-1997-mid-authorizes-qian-da-to-use-hongxi-materials",
+      "li-ao-fangdiaoji-1998-05-19-rebuts-wang-linglin-east-tv-li-ao-heibai-jiang-libel-defense"
+    ],
+    "additionalSources": [
+      {
+        "book": "李敖放刁集",
+        "chapter": "022.驳王令麟等答辩状.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/004.李敖放刁集/022.驳王令麟等答辩状.txt",
+        "line": 3,
+        "lines": [
+          3,
+          9,
+          57,
+          79,
+          85,
+          149,
+          159
+        ],
+        "note": "《李敖放刁集》收录东森《李敖黑白讲》诉讼中的答辩驳斥，补证访谈中所称与东视诉讼。"
+      }
     ]
   },
   {
@@ -684,6 +703,22 @@
           93
         ],
         "note": "《李敖发电集》重刊1999年8月22日新党六周年党庆演讲续完篇。"
+      },
+      {
+        "book": "洗你的脑，掐他脖子",
+        "chapter": "002.“出卖台湾，买回大陆！”",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/009.洗你的脑，掐他脖子/002.“出卖台湾，买回大陆！”.txt",
+        "line": 7,
+        "lines": [
+          7,
+          9,
+          13,
+          21,
+          59,
+          91,
+          149
+        ],
+        "note": "本书重收1999年8月22日新党六周年党庆演讲，作为总统挑战书的前置演说。"
       }
     ]
   },
@@ -1595,7 +1630,37 @@
           65
         ],
         "note": "同组整理稿中重述7月26日胜诉与购资料计划。"
+      },
+      {
+        "book": "李敖放刁集",
+        "chapter": "017.法官陈明枉法裁判.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/004.李敖放刁集/017.法官陈明枉法裁判.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          7,
+          13
+        ],
+        "note": "《李敖放刁集》收录秦孝仪案早期法律文书，补证名誉侵害诉讼前段。"
+      },
+      {
+        "book": "李敖放刁集",
+        "chapter": "018.法官任鸣钜、郑景文、郭美杏怎样枉法开脱国民党大员秦孝仪？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/004.李敖放刁集/018.法官任鸣钜、郑景文、郭美杏怎样枉法开脱国民党大员秦孝仪？.txt",
+        "line": 3,
+        "lines": [
+          3,
+          13,
+          29,
+          147,
+          155
+        ],
+        "note": "《李敖放刁集》收录上诉理由状，补证秦孝仪案中周越、国父墨宝和威胁说法争点。"
       }
+    ],
+    "crossReferences": [
+      "li-ao-fangdiaoji-1995-05-25-to-1999-01-16-writes-qin-xiaoyi-palace-museum-zhouyue-litigation-briefs"
     ]
   },
   {

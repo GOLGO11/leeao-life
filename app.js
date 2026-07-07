@@ -198,7 +198,16 @@ const dataFiles = [
   "./data/timeline-events-baiyan-kan-taiwan.json",
   "./data/timeline-events-fayan-kan-taiwan.json",
   "./data/timeline-events-minjindang-yanjiu.json",
-  "./data/timeline-events-baise-kongbu-shuqi.json"
+  "./data/timeline-events-baise-kongbu-shuqi.json",
+  "./data/timeline-events-gei-taiwanren-nankan.json",
+  "./data/timeline-events-ni-buzhidao-228.json",
+  "./data/timeline-events-lingyimian-228.json",
+  "./data/timeline-events-xi-ni-de-nao-qia-ta-bozi.json",
+  "./data/timeline-events-li-ao-naoyaji.json",
+  "./data/timeline-events-li-ao-daobiji.json",
+  "./data/timeline-events-li-ao-nongfaji.json",
+  "./data/timeline-events-li-ao-fangdiaoji.json",
+  "./data/timeline-events-li-ao-haosongji.json"
 ];
 const supplementalDataFiles = new Set([
   "./data/timeline-events-first-book-supplement.json",
@@ -209,7 +218,7 @@ const supplementalDataFiles = new Set([
   "./data/timeline-events-third-book-qiao-evidence.json",
   "./data/timeline-events-fourth-book-deepening.json"
 ]);
-const dataVersion = "2026-07-06-baise-kongbu-shuqi-round001-001-028-closeout";
+const dataVersion = "2026-07-07-li-ao-haosongji-round002-011-020";
 const timelineBundle = window.LEEAO_TIMELINE_BUNDLE;
 const timelineBundleMatches =
   timelineBundle?.dataVersion === dataVersion &&

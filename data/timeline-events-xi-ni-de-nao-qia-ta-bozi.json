@@ -1,0 +1,416 @@
+[
+  {
+    "id": "xi-ni-de-nao-2000-01-17-writes-presidential-challenge-book-platform",
+    "date": "2000-01-17",
+    "displayDate": "2000年1月17日",
+    "title": "李敖写成《总统挑战书》式长篇政纲，压缩总统参选的思想、两岸与内政主张",
+    "category": "political-platform-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "summary": "李敖在《洗你的脑，掐他脖子》首章用三十问答的形式说明参选总统不是单纯政治活动，而是“思想”活动：他借新党提名宣传理念、揭发黑暗，并把教育失败、两岸误判、一国两制、联合国、TMD、直航与经济、原住民、母语政策、黑金改革等议题压入同一篇挑战书。此处按一件总统挑战书事件处理，避免把同一政纲拆成过碎的政策条目。",
+    "source": {
+      "book": "洗你的脑，掐他脖子",
+      "chapter": "001.洗你的脑，掐他脖子",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/009.洗你的脑，掐他脖子/001.洗你的脑，掐他脖子.txt",
+      "line": 3,
+      "lines": [
+        3,
+        13,
+        19,
+        37,
+        49,
+        57,
+        129,
+        161,
+        167,
+        191,
+        397,
+        445,
+        591,
+        657,
+        681
+      ]
+    },
+    "people": [
+      "李敖",
+      "胡适",
+      "李庆华",
+      "李登辉",
+      "李远哲",
+      "邓小平",
+      "刘国基",
+      "王晓波",
+      "李炳南",
+      "陈水扁",
+      "王永庆",
+      "陈正澄",
+      "何飞鹏"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "大陆",
+      "中国",
+      "联合国",
+      "兰屿"
+    ],
+    "works": [
+      "洗你的脑，掐他脖子",
+      "李敖总统挑战书",
+      "台湾的主张",
+      "告台湾同胞书",
+      "国防政策白皮书",
+      "认识台湾",
+      "杜绝黑金十诫"
+    ],
+    "tags": [
+      "洗你的脑掐他脖子",
+      "总统挑战书",
+      "新党",
+      "思想活动",
+      "教育改革",
+      "一国两制",
+      "两岸政策",
+      "原住民政策",
+      "母语政策",
+      "黑金"
+    ],
+    "view": [
+      "政治线",
+      "思想线",
+      "选举线",
+      "两岸线",
+      "写作线"
+    ],
+    "crossReferences": [
+      "li-ao-fangtanlu-2000-01-11-china-youth-interview-election-as-thought-education",
+      "li-ao-fangtanlu-1999-08-19-china-times-new-party-presidential-run",
+      "book6-2000-01-01-li-chinghua-pushes-li-ao-to-run-in-presidential-race",
+      "li-ao-fadianji-004-005-publishes-liu-guoji-octs-qa-on-taiwan-status-un-and-one-country",
+      "li-ao-fadianji-034-035-endorses-wang-xiaobo-li-bingnan-one-china-arguments",
+      "li-ao-fangdianji-017-proposes-five-point-indigenous-policy-platform",
+      "li-ao-yanjiangji-028-criticizes-mother-tongue-policy-as-backward",
+      "tiaozhan-li-ao-2000-02-16-uses-wash-your-brain-as-policy-beef"
+    ]
+  },
+  {
+    "id": "xi-ni-de-nao-1999-09-24-discusses-judicial-reform-with-other-news",
+    "date": "1999-09-24",
+    "displayDate": "1999年9月24日",
+    "title": "李敖在《另眼新闻》访问中提出司法改革与审判公开主张",
+    "category": "interview",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "summary": "黄越宏、赖心莹访问李敖时，把总统参选、官司经验和司法改革连在一起追问。李敖批评翁岳生式改革缺少可行性，主张审判、卷宗和证据公开，让社会舆论成为“第四审”；同时要求限制法官公费出国、处理最高法院回避问题、增加法官并改造升迁标准，把自己的诉讼经验转成竞选期间的司法改革话语。",
+    "source": {
+      "book": "洗你的脑，掐他脖子",
+      "chapter": "004.笑骂中见真章",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/009.洗你的脑，掐他脖子/004.笑骂中见真章.txt",
+      "line": 13,
+      "lines": [
+        3,
+        7,
+        9,
+        13,
+        15,
+        21,
+        27,
+        31,
+        39,
+        47,
+        51,
+        81,
+        111,
+        127,
+        129
+      ]
+    },
+    "people": [
+      "李敖",
+      "黄越宏",
+      "赖心莹",
+      "叶金凤",
+      "翁岳生",
+      "刘泰英",
+      "唐启明",
+      "孙中山"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "最高法院"
+    ],
+    "works": [
+      "洗你的脑，掐他脖子",
+      "另眼新闻",
+      "你不知道的司法黑暗",
+      "孙中山研究",
+      "挑战李敖"
+    ],
+    "tags": [
+      "司法改革",
+      "另眼新闻",
+      "法官",
+      "第四审",
+      "最高法院",
+      "总统候选人",
+      "挑战李敖"
+    ],
+    "view": [
+      "司法线",
+      "政治线",
+      "采访线",
+      "选举线"
+    ],
+    "crossReferences": [
+      "li-ao-xiaoao-jianghu-1996-04-25-publishes-judicial-darkness-book",
+      "tiaozhan-li-ao-1999-12-01-callin-judicial-reform-by-publishing-judges",
+      "li-ao-mimi-shufang-046-debates-judicial-reform-judge-selection-and-evidence-procedure",
+      "li-ao-mimi-shufang-017-links-weng-yuesheng-ye-jinfeng-and-judicial-darkness-book"
+    ]
+  },
+  {
+    "id": "xi-ni-de-nao-1999-09-30-writes-national-interest-and-family-interest",
+    "date": "1999-09-30",
+    "displayDate": "1999年9月30日",
+    "title": "李敖在中华人民共和国五十年前夕写《国家利益与家庭利益》",
+    "category": "political-essay",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "summary": "中华人民共和国五十年前夕，李敖以游泳到香港的情人故事开场，说明国家利益与家庭利益并非天然分裂：从“不挨打、不挨饿”到“宁要核子，不要裤子”、阿拉斯加购买、一胎化、通用汽车名言，他把国家战略、民生牺牲和个人前途放在同一框架下讨论，结论是政治领导者必须让人民理解“什么对国家好，就是对家庭好”，而台湾人的未来位置在中国。",
+    "source": {
+      "book": "洗你的脑，掐他脖子",
+      "chapter": "006.国家利益与家庭利益",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/009.洗你的脑，掐他脖子/006.国家利益与家庭利益.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        17,
+        19,
+        21,
+        23,
+        25,
+        27
+      ]
+    },
+    "people": [
+      "李敖",
+      "陈毅",
+      "William H. Seward",
+      "George Moore",
+      "Dwight Eisenhower",
+      "Charles E. Wilson",
+      "毛泽东"
+    ],
+    "places": [
+      "中国台湾",
+      "中国",
+      "香港",
+      "阿拉斯加",
+      "美国",
+      "广州"
+    ],
+    "works": [
+      "洗你的脑，掐他脖子",
+      "国家利益与家庭利益",
+      "读者文摘",
+      "The Bending of the Bough"
+    ],
+    "tags": [
+      "国家利益",
+      "家庭利益",
+      "中华人民共和国五十年",
+      "阿拉斯加",
+      "一胎化",
+      "民生",
+      "中国"
+    ],
+    "view": [
+      "思想线",
+      "政治线",
+      "写作线",
+      "两岸线"
+    ],
+    "crossReferences": [
+      "li-ao-mimi-shufang-057-explains-state-family-interest-and-double-background",
+      "li-ao-youhua-shuo-036-cites-his-hong-kong-article-state-interest-and-family-interest",
+      "li-ao-yumiao-tianxia-054-cites-1999-national-family-interest-article",
+      "li-ao-yanjiangji-014-uses-alaska-analogy-for-taiwan-choice"
+    ]
+  },
+  {
+    "id": "xi-ni-de-nao-1999-10-07-ntu-failure-speech",
+    "date": "1999-10-07",
+    "displayDate": "1999年10月7日",
+    "title": "李敖到台大法学院演讲《台大人的失败》",
+    "category": "speech",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "summary": "台湾大学政治系与经济系学会邀李敖到法学院礼堂演讲。李敖从自己离开台大四十五年谈起，批评台大和陈维昭、李登辉，也要求学生保有反叛性格；他把一九一九年学生站在第一线与一九九九年学生被政客带上第二线对照，随后处理陈水扁、李远哲、两国论、一国两制、灾后捐款、母语政策和文字训练等议题，最后要求台大学生承认“台大人的失败”。",
+    "source": {
+      "book": "洗你的脑，掐他脖子",
+      "chapter": "007.台大人的失败",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/009.洗你的脑，掐他脖子/007.台大人的失败.txt",
+      "line": 7,
+      "lines": [
+        7,
+        9,
+        15,
+        17,
+        21,
+        23,
+        27,
+        31,
+        33,
+        39,
+        45,
+        51,
+        57,
+        59
+      ]
+    },
+    "people": [
+      "李敖",
+      "李登辉",
+      "陈维昭",
+      "陈水扁",
+      "李远哲",
+      "吕秀莲",
+      "江泽民",
+      "康有为",
+      "梁启超"
+    ],
+    "places": [
+      "台湾大学法学院礼堂",
+      "台湾大学",
+      "台北",
+      "联合国",
+      "兰屿",
+      "大陆"
+    ],
+    "works": [
+      "洗你的脑，掐他脖子",
+      "台大人的失败",
+      "甜蜜的十一月",
+      "开明少年",
+      "蓝色的毛毯"
+    ],
+    "tags": [
+      "台大",
+      "校园演讲",
+      "台大人的失败",
+      "反叛性格",
+      "大学生",
+      "一国两制",
+      "两国论",
+      "李远哲",
+      "母语"
+    ],
+    "view": [
+      "演讲线",
+      "教育线",
+      "青年线",
+      "政治线",
+      "两岸线"
+    ],
+    "crossReferences": [
+      "li-ao-fangtanlu-2000-01-11-china-youth-interview-election-as-thought-education",
+      "li-ao-yanjiangji-028-criticizes-mother-tongue-policy-as-backward",
+      "li-ao-yanjiangji-022-defines-presidency-as-taiwan-region-leader",
+      "tiaozhan-li-ao-2000-01-12-qna-mandarin-localized-and-mother-tongue"
+    ]
+  },
+  {
+    "id": "xi-ni-de-nao-2000-01-19-hsinchu-criticizes-taiwan-son-and-dpp-history-memory",
+    "date": "2000-01-19",
+    "displayDate": "2000年1月19日",
+    "title": "李敖在新竹批评《台湾之子》政治犯叙事与民进党历史记忆",
+    "category": "campaign-speech-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "summary": "李敖以蔡仁坚、施性忠和党外杂志资源史切入，说明民进党如何重新包装历史功劳；随后批评陈水扁《台湾之子》把自己塑造成政治犯、隐去吴淑珍秘密上诉，并把王永庆与蓬莱岛案叙事混在一起。他又校正魏廷朝、彭明敏、陈菊、泰源名单和《认识台湾》遗漏慰安妇等历史记忆，最后称施性忠留下的砖章才是战士证据，并要求新竹选民改善判断。",
+    "source": {
+      "book": "洗你的脑，掐他脖子",
+      "chapter": "009.《台湾之子》一开始就是谎话",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/009.洗你的脑，掐他脖子/009.《台湾之子》一开始就是谎话.txt",
+      "line": 3,
+      "lines": [
+        3,
+        7,
+        11,
+        13,
+        15,
+        17,
+        19,
+        21,
+        23,
+        25,
+        27
+      ]
+    },
+    "people": [
+      "李敖",
+      "蔡仁坚",
+      "施性忠",
+      "陈水扁",
+      "吴淑珍",
+      "王永庆",
+      "徐渊涛",
+      "李登辉",
+      "魏廷朝",
+      "彭明敏",
+      "谢聪敏",
+      "陈菊",
+      "林正杰"
+    ],
+    "places": [
+      "新竹",
+      "台湾",
+      "台东泰源监狱",
+      "瑞典",
+      "日本"
+    ],
+    "works": [
+      "洗你的脑，掐他脖子",
+      "台湾之子",
+      "替李登辉卸妆",
+      "认识台湾",
+      "台湾人民自救运动宣言"
+    ],
+    "tags": [
+      "台湾之子",
+      "陈水扁",
+      "新竹",
+      "蔡仁坚",
+      "施性忠",
+      "蓬莱岛案",
+      "泰源名单",
+      "慰安妇",
+      "历史记忆"
+    ],
+    "view": [
+      "选举线",
+      "政治线",
+      "民进党线",
+      "历史记忆线",
+      "演讲线"
+    ],
+    "crossReferences": [
+      "li-ao-yanjiangji-025-starts-from-tsai-jenchien-apology-letter",
+      "li-ao-yanjiangji-025-praises-shih-hsingchung-and-dpp-resource-erasure",
+      "li-ao-yanjiangji-025-corrects-taiwan-son-claim-about-chen-prison-record",
+      "chenshuibian-zhenmianmu-2000-02-21-to-03-01-revisits-taiwan-son-penglai-island-bravery",
+      "tiaozhan-li-ao-1999-12-06-reads-chen-taiwan-son-and-political-prisoner-claim",
+      "fayan-kan-taiwan-1985-02-09-to-03-10-writes-penglai-island-case-discussions-on-appeal-and-greater-duty"
+    ]
+  }
+]

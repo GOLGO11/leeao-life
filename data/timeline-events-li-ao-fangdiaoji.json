@@ -1,0 +1,1059 @@
+[
+  {
+    "id": "li-ao-fangdiaoji-1999-04-20-preface-litigation-documents",
+    "date": "1999-04-20",
+    "displayDate": "1999年4月20日",
+    "datePrecision": "day",
+    "title": "李敖为《李敖放刁集》小引定调，称本书收其“放刁”法律文献",
+    "category": "legal-writing",
+    "type": "李敖写作事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "summary": "1999年4月20日，李敖为《李敖放刁集》作小引，把全书定位为自己在诉讼和行政争讼中“放刁”的法律文献合集。他点出台中市政府禁书国赔案、《秋海棠》诽谤案、《自立晚报》广告案、《孙中山研究》封面案，以及中研院、故宫、东森等后续对象，说明本书不是一般政论，而是把具体状纸、诉愿和法律攻防留成历史记录。",
+    "source": {
+      "book": "李敖放刁集",
+      "chapter": "《李敖放刁集》小引.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/004.李敖放刁集/《李敖放刁集》小引.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5
+      ]
+    },
+    "people": [
+      "李敖"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "李敖放刁集",
+      "秋海棠",
+      "孙中山研究"
+    ],
+    "tags": [
+      "李敖放刁集",
+      "小引",
+      "法律文献",
+      "放刁",
+      "雷霆法律类"
+    ],
+    "view": [
+      "写作线",
+      "司法线",
+      "法律文书线"
+    ]
+  },
+  {
+    "id": "li-ao-fangdiaoji-1988-07-20-to-1990-11-08-writes-zhang-guizhen-taichung-banned-books-briefs",
+    "date": "1988-07-20",
+    "endDate": "1990-11-08",
+    "displayDate": "1988年7月20日至1990年11月8日",
+    "datePrecision": "date-range",
+    "title": "李敖连续代张桂贞写台中禁书国赔案答辩，追打张子源、林柏榕与出版管制黑命令",
+    "category": "legal-writing",
+    "type": "李敖法律文书事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "summary": "1988年7月20日至1990年11月8日，李敖在《李敖放刁集》收录三件围绕张桂贞诉台中市政府的法律文书：一是代张桂贞驳台中市政府上诉，重申台中市政府无书面处分却违法没收14708册书；二是借张子源卸任后控告选举批评者，反击他在市长任内把责任推给警备总部；三是驳斥新任市长林柏榕的上诉理由，把案件提升为台湾出版自由和行政违法赔偿的标本。本条合并001至003，不把每一项诉讼论点拆成独立事件。",
+    "source": {
+      "book": "李敖放刁集",
+      "chapter": "001.驳台中市政府.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/004.李敖放刁集/001.驳台中市政府.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        19,
+        35,
+        43,
+        51,
+        59,
+        63
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "李敖放刁集",
+        "chapter": "002.张桂贞控告张子源.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/004.李敖放刁集/002.张桂贞控告张子源.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          7,
+          9,
+          11,
+          13,
+          15,
+          17,
+          19,
+          21
+        ],
+        "note": "同案后续短文，借张子源控告他人反击其任内非法没收禁书责任。"
+      },
+      {
+        "book": "李敖放刁集",
+        "chapter": "003.驳斥台中市长林柏榕.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/004.李敖放刁集/003.驳斥台中市长林柏榕.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          13,
+          43,
+          53,
+          69,
+          123,
+          135,
+          143,
+          153,
+          155,
+          163,
+          171,
+          179,
+          181,
+          183,
+          185
+        ],
+        "note": "同案后续长状，驳林柏榕1990年9月26日上诉理由，并概括更审和出版自由意义。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "张桂贞",
+      "张子源",
+      "林柏榕",
+      "孟启正",
+      "杨三共",
+      "陈松碧",
+      "黄秀得",
+      "翁其荣",
+      "徐元庆",
+      "陈成泉",
+      "刘焕宇",
+      "孙森焱",
+      "曾桂香",
+      "林奇福",
+      "罗一宇",
+      "黄奠华",
+      "袁再兴",
+      "林富村"
+    ],
+    "places": [
+      "台中市",
+      "台中一中",
+      "台中市政府",
+      "台湾高等法院台中分院",
+      "最高法院"
+    ],
+    "works": [
+      "李敖放刁集",
+      "驳台中市政府",
+      "张桂贞控告张子源",
+      "驳斥台中市长林柏榕"
+    ],
+    "tags": [
+      "张桂贞",
+      "台中市政府",
+      "禁书",
+      "国家赔偿",
+      "出版自由",
+      "张子源",
+      "林柏榕"
+    ],
+    "view": [
+      "司法线",
+      "出版线",
+      "政治线",
+      "法律文书线"
+    ],
+    "crossReferences": [
+      "book5-1987-06-22-receives-letter-about-taichung-raid",
+      "book5-1987-07-01-zhang-guizhen-claim-against-taichung",
+      "book5-1988-02-10-taichung-district-court-first-win",
+      "book5-1989-05-03-taichung-case-retrial-begins",
+      "book5-1993-02-22-taichung-state-compensation-final-win",
+      "liao-xinkan-1988-12-22-030-appeal-for-zhang-guizhen",
+      "qianqiu-wansui-1989-05-25-156-writes-rebuttal-to-taichung-mayor-zhang-ziyuan",
+      "qianqiu-wansui-1990-08-05-162-writes-judges-cannot-expand-martial-law"
+    ]
+  },
+  {
+    "id": "li-ao-fangdiaoji-1985-07-01-to-1987-05-31-writes-qiuhaitang-libel-briefs",
+    "date": "1985-07-01",
+    "endDate": "1987-05-31",
+    "displayDate": "1985年7月1日至1987年5月31日",
+    "datePrecision": "date-range",
+    "title": "李敖写《秋海棠》诽谤案综合陈述和回避状，强调发行人责任不可外推",
+    "category": "legal-writing",
+    "type": "李敖法律文书事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "summary": "1985年7月1日，李敖在郁慕明、赵宁《秋海棠》诽谤案中写综合陈述，围绕“唯利是图”“搞掉四季出版社”“霸占数百万财产”等指控列证，并追问发行人与编辑的刑事责任。8月26日，他又致高院刑庭，要求曾在胡秋原旧案中留下偏见的法官汪家声回避。1987年5月31日，他再把这一案整理成《一种不能朝别人身上推的责任》，说明即使双方后来和解、道歉并赔偿，出版者责任仍不可推给作者或广告部门。本条合并004至006，作为同一诽谤案的连续法律文书。",
+    "source": {
+      "book": "李敖放刁集",
+      "chapter": "004.我要对法官说的.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/004.李敖放刁集/004.我要对法官说的.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        11,
+        15,
+        21,
+        29,
+        31,
+        33,
+        45,
+        63,
+        103,
+        127,
+        129,
+        151,
+        159,
+        173,
+        177,
+        179
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "李敖放刁集",
+        "chapter": "005.还不回避吗？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/004.李敖放刁集/005.还不回避吗？.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          7,
+          9,
+          13,
+          15,
+          17,
+          19
+        ],
+        "note": "同案回避状，要求汪家声因胡秋原旧案恩怨退出审判。"
+      },
+      {
+        "book": "李敖放刁集",
+        "chapter": "006.一种不能朝别人身上推的责任.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/004.李敖放刁集/006.一种不能朝别人身上推的责任.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          7,
+          11,
+          19,
+          31,
+          35,
+          41,
+          43
+        ],
+        "note": "同案后续法律短论，说明双方和解后仍保留出版责任原则。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "郁慕明",
+      "赵宁",
+      "王永城",
+      "叶圣康",
+      "臧秉三",
+      "苏荣泉",
+      "何玉芳",
+      "麦光珪",
+      "张坤山",
+      "王荣文",
+      "汪家声",
+      "胡秋原",
+      "杨商江",
+      "赵鹏"
+    ],
+    "places": [
+      "台北地方法院",
+      "台湾高等法院",
+      "四季出版社",
+      "秋海棠月刊"
+    ],
+    "works": [
+      "李敖放刁集",
+      "我要对法官说的",
+      "还不回避吗？",
+      "一种不能朝别人身上推的责任",
+      "秋海棠"
+    ],
+    "tags": [
+      "秋海棠",
+      "诽谤案",
+      "郁慕明",
+      "赵宁",
+      "四季出版社",
+      "发行人责任",
+      "法官回避"
+    ],
+    "view": [
+      "司法线",
+      "出版线",
+      "交游线",
+      "法律文书线"
+    ],
+    "crossReferences": [
+      "li-ao-shuxinji-1984-10-30-questions-huang-shaogu-yu-zhao-defamation",
+      "li-ao-shujianji-letterpaper-1985-01-14-writes-zili-refuting-yu-muming-four-points",
+      "li-ao-shujianji-letterpaper-1985-03-12-writes-yu-liuqi-refuting-qiuhaitang-wife",
+      "micang-diary-1985-04-01-court-sues-yu-zhao",
+      "micang-diary-1985-04-15-court-against-yu-muming-meets-liang-cheng-zhu",
+      "li-ao-yumiao-tianxia-066-recounts-suing-yu-muming-zhao-ning-yellow-river",
+      "li-ao-zhenglun-zongyiji-040-resolves-zhao-ning-yu-muming-four-seasons-money-case"
+    ]
+  },
+  {
+    "id": "li-ao-fangdiaoji-1987-02-24-to-03-17-writes-zilih-dead-ad-libel-briefs",
+    "date": "1987-02-24",
+    "endDate": "1987-03-17",
+    "displayDate": "1987年2月24日至3月17日",
+    "datePrecision": "date-range",
+    "title": "李敖写《自立晚报》“李敖死了”广告案理由状，主张报社与刊户同负诽谤责任",
+    "category": "legal-writing",
+    "type": "李敖法律文书事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "summary": "1987年2月24日至3月17日，李敖在控告吴三连等人的《自立晚报》“李敖死了”广告案中，连续写出理由状和答辩意见。他把广告中的“李敖死了”“水蛭”等词定性为诽谤，并以反讽推论说明若此案无罪，任何人也可刊登“蒋经国死了”“蒋宋美龄死了”一类广告。3月17日，他再驳许文彬的辩解，强调报纸不能把广告诽谤责任推给广告部或刊户。本条合并007至008，回挂已入库的自诉旧锚。",
+    "source": {
+      "book": "李敖放刁集",
+      "chapter": "007.审判长先生，你碰到了千古大案！.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/004.李敖放刁集/007.审判长先生，你碰到了千古大案！.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        15,
+        17,
+        21,
+        33,
+        39,
+        43,
+        45,
+        53,
+        55,
+        57
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "李敖放刁集",
+        "chapter": "008.这不是当代奇闻，又是什么？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/004.李敖放刁集/008.这不是当代奇闻，又是什么？.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          7,
+          9,
+          13,
+          15,
+          19,
+          21,
+          23
+        ],
+        "note": "同案对许文彬答辩的驳斥，强调报社广告责任不能外推。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "吴三连",
+      "吴丰山",
+      "颜文闩",
+      "吴祥辉",
+      "许文彬",
+      "杨丰卿",
+      "蒋经国",
+      "蒋宋美龄"
+    ],
+    "places": [
+      "自立晚报",
+      "台北地方法院",
+      "台湾"
+    ],
+    "works": [
+      "李敖放刁集",
+      "审判长先生，你碰到了千古大案！",
+      "这不是当代奇闻，又是什么？",
+      "自立晚报"
+    ],
+    "tags": [
+      "自立晚报",
+      "李敖死了",
+      "广告诽谤",
+      "吴三连",
+      "吴祥辉",
+      "报社责任"
+    ],
+    "view": [
+      "司法线",
+      "出版线",
+      "媒体线",
+      "法律文书线"
+    ],
+    "crossReferences": [
+      "liao-xinkan-1986-10-22-writes-zilih-evening-news-after-li-ao-dead-ad",
+      "li-ao-shuduji-1986-12-20-writes-zilih-evening-news-demanding-ad-explanation",
+      "li-ao-shuduji-1986-12-30-files-private-prosecution-over-zilih-dead-ad",
+      "li-ao-shuduji-1987-02-14-writes-lawyer-xu-wenbin-on-zilih-defense",
+      "li-ao-shuduji-1987-02-26-noon-writes-xu-wenbin-on-zilih-defense-and-death-ads",
+      "jiangjingguo-yanjiu-1987-07-12-writes-preface-and-frames-chiang-chingkuo-dead-book",
+      "lengyan-kan-taiwan-1987-03-07-inferred-files-defamation-complaint-over-asian-and-li-ao-is-dead"
+    ]
+  },
+  {
+    "id": "li-ao-fangdiaoji-1987-11-03-to-12-16-writes-sun-yatsen-study-prosecutor-letter-and-reappeal",
+    "date": "1987-11-03",
+    "endDate": "1987-12-16",
+    "displayDate": "1987年11月3日至12月16日",
+    "datePrecision": "date-range",
+    "title": "李敖为《孙中山研究》案致检察官并提再诉愿，反击“侮辱国父遗像”罗织",
+    "category": "legal-writing",
+    "type": "李敖法律文书事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "summary": "1987年11月3日，李敖为《孙中山研究》封面红条案致检察官，说明“侮辱遗像”法规本来带有帝制遗绪，而该书封面只是用红条标示“匪”“非”等研究主题，并无侮辱孙中山的结果与故意。12月16日，他又就台北市政府处分和新闻局诉愿决定提出再诉愿，讽刺政府把宣传条解读成侮辱国父遗像，等于暴露中华民国法统自身的荒诞。本条合并009至010，回挂《孙中山研究》查禁旧锚。",
+    "source": {
+      "book": "李敖放刁集",
+      "chapter": "009.为《孙中山研究》致检察官.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/004.李敖放刁集/009.为《孙中山研究》致检察官.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        9,
+        13,
+        15,
+        19,
+        37,
+        41,
+        55,
+        57,
+        63,
+        75,
+        85,
+        93,
+        97,
+        99,
+        101,
+        103
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "李敖放刁集",
+        "chapter": "010.大家逗乐一番，以悼“中华民国”也！.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/004.李敖放刁集/010.大家逗乐一番，以悼“中华民国”也！.txt",
+        "line": 3,
+        "lines": [
+          3,
+          21,
+          23,
+          25,
+          29,
+          31,
+          33,
+          45
+        ],
+        "note": "同案再诉愿书，针对台北市政府处分和新闻局诉愿决定再反击。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "孙中山",
+      "邵玉铭",
+      "许水德",
+      "唐启明",
+      "赵鹏",
+      "蔡墩铭",
+      "蒋廷黻",
+      "陈朴生",
+      "赵琛",
+      "孙德耕",
+      "梁恒昌",
+      "林山田"
+    ],
+    "places": [
+      "台北市政府",
+      "行政院新闻局",
+      "台北地检处",
+      "台湾"
+    ],
+    "works": [
+      "李敖放刁集",
+      "孙中山研究",
+      "孙逸仙和中国西化医学",
+      "奇情·上吊·血",
+      "文星·围剿·卖",
+      "西医与革命",
+      "被歪曲的革命家",
+      "为《孙中山研究》致检察官",
+      "大家逗乐一番，以悼“中华民国”也！"
+    ],
+    "tags": [
+      "孙中山研究",
+      "国父遗像",
+      "出版法",
+      "诉愿",
+      "再诉愿",
+      "言论自由"
+    ],
+    "view": [
+      "出版线",
+      "司法线",
+      "思想线",
+      "法律文书线"
+    ],
+    "crossReferences": [
+      "book8-1987-09-10-sun-yat-sen-study-first-edition-penalized",
+      "li-ao-shuhanji-letterbox-1987-09-25-taipei-city-bans-sun-yat-sen-study",
+      "li-ao-shuhanji-letterbox-1987-09-30-writes-yan-jinfu-and-files-appeal-on-sun-yat-sen-study",
+      "li-ao-shuhanji-letterbox-1987-10-10-reads-united-daily-sun-yat-sen-case-transferred",
+      "li-ao-shuhanji-letterbox-1987-10-22-writes-open-letter-to-shao-yuming",
+      "li-ao-shuhanji-letterbox-1987-10-31-writes-xu-shuide-new-cover-and-chiang-study-four",
+      "li-ao-youhua-shuo-254-recalls-sun-yat-sen-research-red-strip-case-and-defeating-prosecution"
+    ]
+  },
+  {
+    "id": "li-ao-fangdiaoji-1990-08-30-to-1991-04-20-sues-wu-dayou-zhang-yufa-wang-shijie-diary",
+    "date": "1990-08-30",
+    "endDate": "1991-04-20",
+    "displayDate": "1990年8月30日至1991年4月20日",
+    "datePrecision": "date-range",
+    "title": "李敖控吴大猷、张玉法与王世杰子女刊行《王世杰日记》诽谤，续驳陈博志判决",
+    "category": "legal-writing",
+    "type": "李敖法律文书事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "summary": "1990年8月30日，李敖为《王世杰日记》刊行中的“品行不端”“行为不正”等文字，控告中研院院长吴大猷、近史所所长张玉法及王世杰子女王纪五、王秋华。他把1963年梁实秋推荐、中研院史语所拒聘、1965年《蒋廷黻选集》序文、王世杰签订《中苏友好条约》和删序幕后压力串成证据链，主张死者王世杰虽不能被追诉，但刊行和传播者不能免责。1991年4月20日，李敖再写状文驳陈博志判决，认为张玉法、王秋华虽被认定有罪却免刑，吴大猷和王纪五无罪，仍是对中研院出版责任的开脱。本条合并011至012，不再把王世杰日记中的每段史料逐条拆开。",
+    "source": {
+      "book": "李敖放刁集",
+      "chapter": "011.为王世杰诬谤李敖事控告吴大猷、张玉法、王纪五、王秋华.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/004.李敖放刁集/011.为王世杰诬谤李敖事控告吴大猷、张玉法、王纪五、王秋华.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        15,
+        17,
+        23,
+        39,
+        67,
+        83,
+        85,
+        95,
+        99,
+        101
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "李敖放刁集",
+        "chapter": "012.张玉法既有罪，吴大猷可以无罪吗？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/004.李敖放刁集/012.张玉法既有罪，吴大猷可以无罪吗？.txt",
+        "line": 3,
+        "lines": [
+          3,
+          7,
+          9,
+          11,
+          13,
+          15,
+          17,
+          21,
+          23,
+          25
+        ],
+        "note": "同案判决后的续状，驳陈博志免刑和开脱吴大猷。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "吴大猷",
+      "张玉法",
+      "王世杰",
+      "王纪五",
+      "王秋华",
+      "李济",
+      "梁实秋",
+      "姚从吾",
+      "胡秋原",
+      "徐高阮",
+      "陈博志",
+      "张忠琳",
+      "许文彬",
+      "王次五"
+    ],
+    "places": [
+      "中央研究院",
+      "中央研究院近代史研究所",
+      "中央研究院历史语言研究所",
+      "台北地方法院",
+      "南港",
+      "文星书店"
+    ],
+    "works": [
+      "李敖放刁集",
+      "王世杰日记",
+      "蒋廷黻选集",
+      "中国文学史",
+      "阳明",
+      "文风"
+    ],
+    "tags": [
+      "王世杰日记",
+      "吴大猷",
+      "张玉法",
+      "中研院",
+      "诽谤案",
+      "公然侮辱",
+      "学术体制"
+    ],
+    "view": [
+      "司法线",
+      "学术线",
+      "出版线",
+      "法律文书线"
+    ],
+    "crossReferences": [
+      "book5-1963-05-liang-recommends-li-to-academia-sinica",
+      "book5-1990-03-wang-shijie-diary-reveals-rejection-of-li",
+      "li-ao-wuwu-diary-1990-12-06-wu-dayou-court-qiushibao-name-and-yizhi-letter",
+      "li-ao-wuwu-diary-1991-03-18-guo-call-wu-dayou-court-zhang-yufa-comment",
+      "li-ao-suixielu-qianji-1991-09-14-reads-wang-jiwu-obituary-in-central-daily",
+      "li-ao-yumiao-tianxia-099-reveals-wu-dayou-was-defendant",
+      "li-ao-youhua-shuo-091-recalls-wang-shijie-diary-hatred-after-jiang-tingfu-preface",
+      "li-ao-youhua-shuo-402-shows-wang-shijie-diary-calling-him-talented-but-immoral"
+    ]
+  },
+  {
+    "id": "li-ao-fangdiaoji-1992-01-15-to-1994-01-10-writes-qiushi-shareholder-breach-of-trust-accounting-briefs",
+    "date": "1992-01-15",
+    "endDate": "1994-01-10",
+    "displayDate": "1992年1月15日至1994年1月10日",
+    "datePrecision": "date-range",
+    "title": "李敖控周孟禄、伍振环《求是报》股东背信，并连续驳发行、烂账与会计师鉴定",
+    "category": "legal-writing",
+    "type": "李敖法律文书事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "summary": "1992年1月15日，李敖在控周孟禄、伍振环涉嫌共同侵占、背信前后，写出《控〈求是报〉股东案之一》《控〈求是报〉股东案之二》：前者驳二人否认参与办报、解释合约、林口厂房、美洲版、解约和赖宪沧订报款等争点，后者以二十五例读者缺报、重复收费、无法退费抽样，证明发行、财务、会计、人事失职。1992年12月5日，他再写《这叫什么账！》，驳法院督促后报出的烂账；1994年1月10日，又写《这叫什么会计师鉴定！》，要求黄振丰会计师依会计准则重做报告或退费。本条合并013至016，作为《求是报》股东诉讼和账务追责链处理。",
+    "source": {
+      "book": "李敖放刁集",
+      "chapter": "013.控《求是报》股东案之一.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/004.李敖放刁集/013.控《求是报》股东案之一.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        11,
+        15,
+        17,
+        19,
+        21,
+        31,
+        35,
+        41,
+        43,
+        63,
+        65,
+        69,
+        71,
+        81,
+        95,
+        99,
+        101
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "李敖放刁集",
+        "chapter": "014.控《求是报》股东案之二.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/004.李敖放刁集/014.控《求是报》股东案之二.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          23,
+          25,
+          51,
+          57,
+          75,
+          77
+        ],
+        "note": "同日发行失职抽样，以二十五例读者来信与电话为证。"
+      },
+      {
+        "book": "李敖放刁集",
+        "chapter": "015.这叫什么账！.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/004.李敖放刁集/015.这叫什么账！.txt",
+        "line": 3,
+        "lines": [
+          3,
+          7,
+          9,
+          13,
+          17,
+          19,
+          31,
+          37,
+          39
+        ],
+        "note": "1992年12月5日针对周孟禄、伍振环报账材料的烂账驳斥。"
+      },
+      {
+        "book": "李敖放刁集",
+        "chapter": "016.这叫什么会计师鉴定！.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/004.李敖放刁集/016.这叫什么会计师鉴定！.txt",
+        "line": 3,
+        "lines": [
+          3,
+          7,
+          13,
+          15,
+          23,
+          25
+        ],
+        "note": "1994年1月10日针对黄振丰会计师财务鉴定报告的驳斥。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "周孟禄",
+      "伍振环",
+      "陈良榘",
+      "张坤山",
+      "吴丽玲",
+      "胡基峻",
+      "孟祥柯",
+      "吕佳真",
+      "詹赐珠",
+      "孔慧英",
+      "施复华",
+      "赖宪沧",
+      "林鸾凤",
+      "黄振丰"
+    ],
+    "places": [
+      "求是报社",
+      "白宫大厦",
+      "林口世纪工业天下",
+      "台北市",
+      "美国",
+      "台北地方法院"
+    ],
+    "works": [
+      "李敖放刁集",
+      "求是报",
+      "控《求是报》股东案之一",
+      "控《求是报》股东案之二",
+      "这叫什么账！",
+      "这叫什么会计师鉴定！"
+    ],
+    "tags": [
+      "求是报",
+      "周孟禄",
+      "伍振环",
+      "背信",
+      "侵占",
+      "发行失职",
+      "烂账",
+      "会计师鉴定"
+    ],
+    "view": [
+      "司法线",
+      "出版线",
+      "经营线",
+      "法律文书线"
+    ],
+    "crossReferences": [
+      "book4-1991-02-27-qiushi-daily-starts",
+      "li-ao-wuwu-diary-1990-10-24-signs-contract-with-wu-and-zhou",
+      "li-ao-wuwu-diary-1991-01-11-nose-wu-zhou-contract-pingjing-chiang-weiguo-files",
+      "li-ao-shuqiji-1992-01-08-evening-writes-lai-xiancang-on-qiushi-subscription-case",
+      "li-ao-suixielu-houji-1992-02-26-bicycles-to-lai-xiancang-home-with-zhongwen-ciyuan-wedding-gift"
+    ]
+  },
+  {
+    "id": "li-ao-fangdiaoji-1995-05-25-to-1999-01-16-writes-qin-xiaoyi-palace-museum-zhouyue-litigation-briefs",
+    "date": "1995-05-25",
+    "endDate": "1999-01-16",
+    "displayDate": "1995年5月25日至1999年1月16日",
+    "datePrecision": "date-range",
+    "title": "李敖连续写秦孝仪故宫周越案法律文书，追究诽谤、登载不实和检察官开脱",
+    "category": "legal-writing",
+    "type": "李敖法律文书事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "summary": "1995年5月25日至1999年1月16日，李敖围绕秦孝仪在立法院答询中把国父墨宝问题扯成“周越跋王著千文”并称李敖威胁故宫一事，连续写出五件法律文书。017驳法官陈明开脱秦孝仪和媒体报道；018以上诉理由状系统说明秦孝仪答非所问、所谓威胁与所有权说法均站不住；019驳高院戴章甫、黄腾耀、阮富枝封杀上诉和误用判例；020正式自诉秦孝仪使立法院公务员登载不实；021再批检察官李建忠以不起诉处分移花接木，开脱秦孝仪。此条合并017至021，不拆每个判例和语法论点。",
+    "source": {
+      "book": "李敖放刁集",
+      "chapter": "017.法官陈明枉法裁判.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/004.李敖放刁集/017.法官陈明枉法裁判.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "李敖放刁集",
+        "chapter": "018.法官任鸣钜、郑景文、郭美杏怎样枉法开脱国民党大员秦孝仪？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/004.李敖放刁集/018.法官任鸣钜、郑景文、郭美杏怎样枉法开脱国民党大员秦孝仪？.txt",
+        "line": 3,
+        "lines": [
+          3,
+          7,
+          13,
+          15,
+          17,
+          29,
+          33,
+          37,
+          69,
+          83,
+          117,
+          127,
+          147,
+          153,
+          155
+        ],
+        "note": "1996年12月26日上诉理由状，集中驳秦孝仪和地院判决。"
+      },
+      {
+        "book": "李敖放刁集",
+        "chapter": "019.法官戴章甫、黄腾耀、阮富枝枉法裁判举证.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/004.李敖放刁集/019.法官戴章甫、黄腾耀、阮富枝枉法裁判举证.txt",
+        "line": 3,
+        "lines": [
+          3,
+          7,
+          11,
+          15,
+          23,
+          31,
+          39,
+          47,
+          55,
+          61,
+          73,
+          83,
+          91,
+          101,
+          103,
+          105
+        ],
+        "note": "1997年1月21日针对高院判决封杀上诉权和误用判例的举证。"
+      },
+      {
+        "book": "李敖放刁集",
+        "chapter": "020.控秦孝仪使公务员登载不实状.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/004.李敖放刁集/020.控秦孝仪使公务员登载不实状.txt",
+        "line": 3,
+        "lines": [
+          3,
+          7,
+          13,
+          17,
+          27,
+          29,
+          31
+        ],
+        "note": "1997年11月3日正式自诉秦孝仪使立法院公务员登载不实。"
+      },
+      {
+        "book": "李敖放刁集",
+        "chapter": "021.检察官李建忠怎样移花接木？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/004.李敖放刁集/021.检察官李建忠怎样移花接木？.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          7,
+          9,
+          11,
+          15,
+          25,
+          33,
+          39,
+          41
+        ],
+        "note": "1999年1月16日驳士林地检署李建忠不起诉处分。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "秦孝仪",
+      "陈明",
+      "刘瑞生",
+      "颜锦福",
+      "李庆华",
+      "任鸣钜",
+      "郑景文",
+      "郭美杏",
+      "戴章甫",
+      "黄腾耀",
+      "阮富枝",
+      "陈兆基",
+      "杨西崑",
+      "李建忠",
+      "陈重光",
+      "庄正彦",
+      "李四端"
+    ],
+    "places": [
+      "国立故宫博物院",
+      "立法院",
+      "立法院群贤楼",
+      "台北地方法院",
+      "台湾高等法院",
+      "士林地方法院检察署"
+    ],
+    "works": [
+      "李敖放刁集",
+      "周越跋王著千文",
+      "立法院公报",
+      "法官陈明枉法裁判",
+      "控秦孝仪使公务员登载不实状",
+      "检察官李建忠怎样移花接木？"
+    ],
+    "tags": [
+      "秦孝仪",
+      "故宫",
+      "周越",
+      "国父墨宝",
+      "诽谤案",
+      "使公务员登载不实",
+      "枉法裁判",
+      "不起诉处分"
+    ],
+    "view": [
+      "司法线",
+      "艺术收藏线",
+      "政治线",
+      "法律文书线"
+    ],
+    "crossReferences": [
+      "zhongguo-yishu-xinyan-1994-04-08-writes-questions-for-chin-hsiaoyi-for-hsieh-tsungmin",
+      "zhongguo-yishu-xinyan-1995-01-12-withdraws-zhou-yue-paper-after-delete-request",
+      "book4-1995-02-13-letter-to-soochow-history-faculty",
+      "li-ao-shuqiji-1995-05-13-prosecutors-office-qin-xiaoyi-alibi-during-teresa-teng-funeral-report",
+      "li-ao-shuqiji-1996-08-20-writes-investigation-bureau-on-sun-yatsen-calligraphy-qin-xiaoyi-case",
+      "li-ao-xiaoao-jianghu-1996-08-20-reads-central-daily-li-fudian-legal-department-news",
+      "li-ao-xiaoao-jianghu-1996-08-20-after-episode-060-teaches-li-fudian-lawyer-broadcast",
+      "li-ao-laidianji-2000-06-16-rebuts-two-supreme-court-civil-judgments",
+      "li-ao-fangtanlu-2000-07-26-wins-qin-xiaoyi-defamation-compensation",
+      "li-ao-zhenglun-zongyiji-040-sues-lawyers-and-qin-xiaoyi-pays-three-hundred-thousand"
+    ]
+  },
+  {
+    "id": "li-ao-fangdiaoji-1998-05-19-rebuts-wang-linglin-east-tv-li-ao-heibai-jiang-libel-defense",
+    "date": "1998-05-19",
+    "displayDate": "1998年5月19日",
+    "datePrecision": "day",
+    "title": "李敖写《驳王令麟等答辩状》，追打东森《李敖黑白讲》收视与收益诽谤案",
+    "category": "legal-writing",
+    "type": "李敖法律文书事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "summary": "1998年5月19日，李敖写《驳王令麟等答辩状》，回应王令麟、汤达仁、吴晚成在《李敖黑白讲》诽谤案中的答辩。李敖逐项反驳他们抹杀广告单价、广告满档、节目口碑和带动《惊报台湾》《夜线新闻》的说法，又以契约和内部资料反算节目成本、广告收入与收视价值，指出东森方面谎报亏损、混淆收视、广告和成本。本条只收这份答辩状的法律动作，不把每个广告数字和节目排名拆成单独事件。",
+    "source": {
+      "book": "李敖放刁集",
+      "chapter": "022.驳王令麟等答辩状.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/004.李敖放刁集/022.驳王令麟等答辩状.txt",
+      "line": 3,
+      "lines": [
+        3,
+        9,
+        13,
+        19,
+        23,
+        25,
+        57,
+        61,
+        67,
+        73,
+        77,
+        79,
+        85,
+        99,
+        107,
+        111,
+        117,
+        123,
+        127,
+        133,
+        145,
+        149,
+        151,
+        157,
+        159
+      ]
+    },
+    "people": [
+      "李敖",
+      "王令麟",
+      "汤达仁",
+      "吴晚成",
+      "王又曾",
+      "朱梅芳",
+      "李涛"
+    ],
+    "places": [
+      "东森电视台",
+      "东视综合台",
+      "台北地方法院"
+    ],
+    "works": [
+      "李敖放刁集",
+      "驳王令麟等答辩状",
+      "李敖黑白讲",
+      "惊报台湾",
+      "夜线新闻",
+      "中时晚报",
+      "大成报",
+      "民生报"
+    ],
+    "tags": [
+      "东森",
+      "王令麟",
+      "李敖黑白讲",
+      "收视率",
+      "广告收益",
+      "诽谤案",
+      "媒体财团"
+    ],
+    "view": [
+      "司法线",
+      "媒体线",
+      "电视线",
+      "法律文书线"
+    ],
+    "crossReferences": [
+      "li-ao-fangtanlu-1998-xinxinwen-interview-media-consortiums-east-tv",
+      "li-ao-fangdianji-008-reprints-china-post-profile-as-troublemaker-master-tv-critic",
+      "li-ao-mimi-shufang-079-hosts-song-min-and-recalls-dongsen-truth-media-connection",
+      "tiaozhan-li-ao-1999-11-03-analyzes-taifeng-far-east-warehouse-east-tv-documents",
+      "tiaozhan-li-ao-1999-11-04-continues-eastern-far-east-taifeng-analysis-after-coverup-tape",
+      "tiaozhan-li-ao-1999-11-05-connects-wang-linglin-financial-structure-to-media-control",
+      "tiaozhan-li-ao-1999-11-08-shows-east-multimedia-financial-statement-and-three-thirty-cash-pressure",
+      "li-ao-fadianji-012-014-letter-to-zhao-yi-global-tv-and-pubic-public"
+    ]
+  }
+]

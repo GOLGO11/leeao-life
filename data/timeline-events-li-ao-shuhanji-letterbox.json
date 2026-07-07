@@ -2307,7 +2307,8 @@
     ],
     "crossReferences": [
       "shilun-xinyu-1989-10-28-no-time-to-hug-beauties",
-      "li-ao-shuhanji-letterbox-1989-11-12-again-writes-press-council-on-liberty-times-special-correction"
+      "li-ao-shuhanji-letterbox-1989-11-12-again-writes-press-council-on-liberty-times-special-correction",
+      "li-ao-daobiji-1990-01-25-to-07-01-liberty-times-council-city-fine-criminal-and-civil-complaint"
     ]
   },
   {
@@ -2376,7 +2377,25 @@
       "shilun-xinyu-1989-10-28-no-time-to-hug-beauties",
       "li-ao-shuhanji-letterbox-1989-11-01-files-liberty-times-complaints-to-news-office-and-press-council",
       "li-ao-shuhanji-letterbox-1987-01-09-wu-fengshan-apologizes-at-li-home",
-      "li-ao-shuhanji-letterbox-1987-11-12-noon-writes-shi-xingzhong-on-book-sale-and-zilih-compensation"
+      "li-ao-shuhanji-letterbox-1987-11-12-noon-writes-shi-xingzhong-on-book-sale-and-zilih-compensation",
+      "li-ao-daobiji-1990-01-25-to-07-01-liberty-times-council-city-fine-criminal-and-civil-complaint"
+    ],
+    "additionalSources": [
+      {
+        "book": "李敖刀笔集",
+        "chapter": "017.给颜文闩一个教训.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/002.李敖刀笔集/017.给颜文闩一个教训.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          11,
+          13,
+          17,
+          21
+        ],
+        "note": "补入1989年11月7日《给颜文闩一个教训》，说明《自由时报》更正未同版刊登、拖延且疑为特制版。"
+      }
     ]
   },
   {
@@ -3621,7 +3640,11 @@
     "crossReferences": [
       "li-ao-qingshuji-1962-11-22-g-letter-053-hu-qiuyuan-court-hearing",
       "li-ao-suixielu-qianji-1991-11-29-attaches-hu-qiuyuan-home-in-xindian-defamation-case",
-      "book7-1999-08-27-hu-qiuyuan-loses-final-appeal-and-must-pay-li-ao"
+      "book7-1999-08-27-hu-qiuyuan-loses-final-appeal-and-must-pay-li-ao",
+      "li-ao-haosongji-1990-09-27-to-1991-04-25-sues-hu-qiuyuan-shi-yonggui-and-rebuts-counterclaim",
+      "li-ao-haosongji-1991-11-30-to-1992-08-04-sues-hu-qiuyuan-liang-surong-legislative-gazette-libel",
+      "li-ao-haosongji-1992-03-03-applies-extraordinary-appeal-against-supreme-court-hu-qiuyuan-ruling",
+      "li-ao-haosongji-1993-01-05-to-02-10-pursues-hu-qiuyuan-little-mad-dog-repeat-libel-evidence"
     ]
   },
   {

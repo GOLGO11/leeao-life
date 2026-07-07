@@ -108,7 +108,8 @@
       "book5-1987-writes-sun-yatsen-study",
       "li-ao-shuhanji-letterbox-1987-09-25-taipei-city-bans-sun-yat-sen-study",
       "li-ao-shuhanji-letterbox-1987-09-30-writes-yan-jinfu-and-files-appeal-on-sun-yat-sen-study",
-      "li-ao-shuhanji-letterbox-1987-10-22-writes-open-letter-to-shao-yuming"
+      "li-ao-shuhanji-letterbox-1987-10-22-writes-open-letter-to-shao-yuming",
+      "li-ao-fangdiaoji-1987-11-03-to-12-16-writes-sun-yatsen-study-prosecutor-letter-and-reappeal"
     ],
     "source": {
       "book": "李敖相关",
@@ -143,6 +144,35 @@
           23
         ],
         "note": "《李敖书函集》补出9月25日最速件处分与9月30日致颜锦福追问许水德的脉络。"
+      },
+      {
+        "book": "李敖放刁集",
+        "chapter": "009.为《孙中山研究》致检察官.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/004.李敖放刁集/009.为《孙中山研究》致检察官.txt",
+        "line": 3,
+        "lines": [
+          3,
+          19,
+          41,
+          57,
+          101,
+          103
+        ],
+        "note": "《李敖放刁集》收录致检察官书，补证李敖对《孙中山研究》封面案的刑事抗辩。"
+      },
+      {
+        "book": "李敖放刁集",
+        "chapter": "010.大家逗乐一番，以悼“中华民国”也！.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/004.李敖放刁集/010.大家逗乐一番，以悼“中华民国”也！.txt",
+        "line": 3,
+        "lines": [
+          3,
+          21,
+          25,
+          31,
+          45
+        ],
+        "note": "《李敖放刁集》收录再诉愿书，补证李敖对台北市政府处分和新闻局诉愿决定的行政争讼。"
       }
     ]
   },
@@ -197,11 +227,29 @@
           89
         ],
         "note": "10月22日公开信补出10月9日台北市政府最速件处分、10月11日至次年10月10日停止发行一年。"
+      },
+      {
+        "book": "李敖刀笔集",
+        "chapter": "023.“一国两制”说从头.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/002.李敖刀笔集/023.“一国两制”说从头.txt",
+        "line": 3,
+        "lines": [
+          3,
+          15,
+          23,
+          27,
+          29,
+          35,
+          37,
+          39
+        ],
+        "note": "1987年12月31日再诉愿补出李敖对台北市政府处分与新闻局驳回诉愿的法律反驳。"
       }
     ],
     "crossReferences": [
       "li-ao-shuhanji-letterbox-1987-10-09-taipei-city-punishes-qianqiu-71",
-      "li-ao-shuhanji-letterbox-1987-10-22-writes-open-letter-to-shao-yuming"
+      "li-ao-shuhanji-letterbox-1987-10-22-writes-open-letter-to-shao-yuming",
+      "li-ao-daobiji-1987-12-31-to-1988-01-01-qianqiu-71-reappeal-and-gio-counter-complaint"
     ]
   },
   {

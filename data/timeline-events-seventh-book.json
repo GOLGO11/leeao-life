@@ -1949,7 +1949,36 @@
       "chapter": "596.突破二二八",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/596.突破二二八.txt",
       "line": 3
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "你不知道的二二八",
+        "chapter": "001.《你不知道的二二八》序（一）李敖.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/007.你不知道的二二八/001.《你不知道的二二八》序（一）李敖.txt",
+        "line": 3,
+        "lines": [
+          3,
+          7,
+          49,
+          51,
+          53,
+          55
+        ],
+        "note": "补入李敖1997年1月29日序言中对二二八五十周年合写本书、一千问方法和三条错路的自述。"
+      },
+      {
+        "book": "你不知道的二二八",
+        "chapter": "002.《你不知道的二二八》序（二）陈境圳.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/007.你不知道的二二八/002.《你不知道的二二八》序（二）陈境圳.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          7
+        ],
+        "note": "补入陈境圳1997年1月28日序言中对每周到李敖家验收、从五百题增至一千题、六十万字压缩为二十万字的成书过程说明。"
+      }
+    ]
   },
   {
     "id": "book7-1999-10-publishes-definitions-of-republic-and-president-before-run",
@@ -1990,7 +2019,26 @@
       "chapter": "618.我言明在先",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/001.自传回忆类/007.李敖风流自传/618.我言明在先.txt",
       "line": 3
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "洗你的脑，掐他脖子",
+        "chapter": "005.民国定义和总统定义",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/009.洗你的脑，掐他脖子/005.民国定义和总统定义.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          11,
+          13,
+          15,
+          19,
+          21,
+          23
+        ],
+        "note": "本书重收1999年9月8日原文，补足《明报月刊》发表前的署日和全文要点。"
+      }
+    ]
   },
   {
     "id": "book7-1993-warns-first-rate-intellectuals-should-fear-china-chaos",
@@ -2875,7 +2923,10 @@
     "certainty": "confirmed",
     "crossReferences": [
       "book7-1999-12-02-hu-qiuyuan-pays-927261-and-li-ao-removes-seal",
-      "zaonian-riji-1966-12-09-counterclaim-hu-case-rebukes-hu-qiuyuan-one-and-half-hours"
+      "zaonian-riji-1966-12-09-counterclaim-hu-case-rebukes-hu-qiuyuan-one-and-half-hours",
+      "li-ao-haosongji-1990-09-27-to-1991-04-25-sues-hu-qiuyuan-shi-yonggui-and-rebuts-counterclaim",
+      "li-ao-haosongji-1992-06-25-to-12-08-appeals-hu-qiuyuan-civil-damages-and-rebuts-poor-defense",
+      "li-ao-haosongji-1993-01-05-to-02-10-pursues-hu-qiuyuan-little-mad-dog-repeat-libel-evidence"
     ],
     "source": {
       "book": "李敖风流自传",
@@ -2927,7 +2978,8 @@
     ],
     "certainty": "confirmed",
     "crossReferences": [
-      "book7-1999-08-27-hu-qiuyuan-loses-final-appeal-and-must-pay-li-ao"
+      "book7-1999-08-27-hu-qiuyuan-loses-final-appeal-and-must-pay-li-ao",
+      "li-ao-haosongji-1992-06-25-to-12-08-appeals-hu-qiuyuan-civil-damages-and-rebuts-poor-defense"
     ],
     "source": {
       "book": "李敖风流自传",

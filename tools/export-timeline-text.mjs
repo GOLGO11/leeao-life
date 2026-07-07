@@ -143,7 +143,18 @@ const dataFiles = [
   "data/timeline-events-gei-waishengren-nankan.json",
   "data/timeline-events-lengyan-kan-taiwan.json",
   "data/timeline-events-baiyan-kan-taiwan.json",
-  "data/timeline-events-fayan-kan-taiwan.json"
+  "data/timeline-events-fayan-kan-taiwan.json",
+  "data/timeline-events-minjindang-yanjiu.json",
+  "data/timeline-events-baise-kongbu-shuqi.json",
+  "data/timeline-events-gei-taiwanren-nankan.json",
+  "data/timeline-events-ni-buzhidao-228.json",
+  "data/timeline-events-lingyimian-228.json",
+  "data/timeline-events-xi-ni-de-nao-qia-ta-bozi.json",
+  "data/timeline-events-li-ao-naoyaji.json",
+  "data/timeline-events-li-ao-daobiji.json",
+  "data/timeline-events-li-ao-nongfaji.json",
+  "data/timeline-events-li-ao-fangdiaoji.json",
+  "data/timeline-events-li-ao-haosongji.json"
 ];
 const outputPath = path.join(root, "exports", "leeao-current-timeline.txt");
 

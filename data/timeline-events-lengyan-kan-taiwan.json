@@ -791,34 +791,50 @@
           79
         ]
       },
-    {
-      "book": "冷眼看台湾",
-      "chapter": "028.别躲了，中常委！",
-      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/001.冷眼看台湾/028.别躲了，中常委！.txt",
-      "line": 3,
-      "lines": [
-        3,
-        151
-      ]
-    },
-    {
-      "book": "冷眼看台湾",
-      "chapter": "045.还是去抓抓蒋经国吧！",
-      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/001.冷眼看台湾/045.还是去抓抓蒋经国吧！.txt",
-      "line": 3,
-      "lines": [
-        3,
-        5
-      ]
-    }
-  ],
-  "crossReferences": [
-    "lengyan-kan-taiwan-1986-06-19-to-1986-09-26-writes-li-xiaofeng-wei-tingchao-and-eighties-review-rebuttals",
-    "lengyan-kan-taiwan-1987-03-07-inferred-files-defamation-complaint-over-asian-and-li-ao-is-dead",
-    "lengyan-kan-taiwan-1987-03-14-to-1987-11-05-writes-lin-zhengjie-case-court-delay-fact-check-and-wang-mengxiang-followups",
-    "li-ao-shuduji-1986-12-27-writes-taipei-news-office-on-eighties-review",
-    "li-ao-zhaji-1988-03-05-records-kang-ningxiang-defendant-logic"
-  ],
+      {
+        "book": "冷眼看台湾",
+        "chapter": "028.别躲了，中常委！",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/001.冷眼看台湾/028.别躲了，中常委！.txt",
+        "line": 3,
+        "lines": [
+          3,
+          151
+        ]
+      },
+      {
+        "book": "冷眼看台湾",
+        "chapter": "045.还是去抓抓蒋经国吧！",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/001.冷眼看台湾/045.还是去抓抓蒋经国吧！.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5
+        ]
+      },
+      {
+        "book": "李敖刀笔集",
+        "chapter": "016.无所遁形，也责无旁贷.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/002.李敖刀笔集/016.无所遁形，也责无旁贷.txt",
+        "line": 5,
+        "lines": [
+          5,
+          11,
+          21,
+          23,
+          25,
+          27,
+          29
+        ],
+        "note": "补入1986年12月21日《无所遁形，也责无旁贷》，集中论证康宁祥才是《八十年代评论》登记发行人与责任主体。"
+      }
+    ],
+    "crossReferences": [
+      "lengyan-kan-taiwan-1986-06-19-to-1986-09-26-writes-li-xiaofeng-wei-tingchao-and-eighties-review-rebuttals",
+      "lengyan-kan-taiwan-1987-03-07-inferred-files-defamation-complaint-over-asian-and-li-ao-is-dead",
+      "lengyan-kan-taiwan-1987-03-14-to-1987-11-05-writes-lin-zhengjie-case-court-delay-fact-check-and-wang-mengxiang-followups",
+      "li-ao-shuduji-1986-12-27-writes-taipei-news-office-on-eighties-review",
+      "li-ao-zhaji-1988-03-05-records-kang-ningxiang-defendant-logic"
+    ],
     "round": "2026-07-06-lengyan-kan-taiwan-round002-021-040"
   },
   {

@@ -1,0 +1,757 @@
+[
+  {
+    "id": "li-ao-haosongji-1999-04-20-preface-defines-litigation-sampling",
+    "date": "1999-04-20",
+    "year": 1999,
+    "month": 4,
+    "day": 20,
+    "displayDate": "1999年4月20日",
+    "datePrecision": "day",
+    "title": "李敖写《李敖好讼集》小引，把三十七年诉讼经验定位为文征",
+    "summary": "1999年4月20日，李敖在《李敖好讼集》小引中回顾自己从1962年被胡秋原告到法院后“讼性大发”，三十七年间以前后出庭几百次、案卷盈尺满箱自况，并说明本书酌收批国民党大员胡秋原、石永贵等诸多讼案的部分文征，以证信史。本条只收全书定位，不把小引中对三十七年官司的概括拆成若干旧案。",
+    "category": "preface",
+    "type": "李敖当事人事件",
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖好讼集",
+      "chapter": "《李敖好讼集》小引",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/005.李敖好讼集/《李敖好讼集》小引.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7
+      ]
+    },
+    "people": [
+      "李敖",
+      "胡秋原",
+      "石永贵"
+    ],
+    "places": [
+      "台湾",
+      "法院"
+    ],
+    "works": [
+      "李敖好讼集"
+    ],
+    "tags": [
+      "李敖好讼集",
+      "小引",
+      "诉讼",
+      "法律文献",
+      "胡秋原"
+    ],
+    "view": [
+      "司法线",
+      "写作线",
+      "自述线"
+    ],
+    "crossReferences": [
+      "li-ao-mimi-shufang-046-recounts-lawsuits-since-hu-qiuyuan-and-court-process-game",
+      "book7-1999-08-27-hu-qiuyuan-loses-final-appeal-and-must-pay-li-ao",
+      "book7-1999-12-02-hu-qiuyuan-pays-927261-and-li-ao-removes-seal"
+    ]
+  },
+  {
+    "id": "li-ao-haosongji-1990-09-27-to-1991-04-25-sues-hu-qiuyuan-shi-yonggui-and-rebuts-counterclaim",
+    "date": "1990-09-27",
+    "endDate": "1991-04-25",
+    "year": 1990,
+    "month": 9,
+    "day": 27,
+    "displayDate": "1990年9月27日至1991年4月25日",
+    "datePrecision": "date-range",
+    "title": "李敖控告胡秋原、石永贵诽谤，并驳胡秋原反诉",
+    "summary": "1990年9月27日，李敖就胡秋原自1989年10月起在《中华》杂志连载《一个计划、一个谎言、一个劝告》、以十七万字指他诈欺、骗子、汉奸、无赖等三十项文字，提出加重诽谤自诉；他同时把《中央日报》发行人石永贵列为被告，理由是该报4月13日、6月12日刊出胡秋原广告。1991年4月25日，他又针对胡秋原3月28日反诉，指出《我的殷海光》《李敖自传与回忆》《乌鸦评论》均早过告诉期间，且胡秋原所谓“自卫、自辩”已逸出善意范围。本条合并003至004，不把三十项诽谤词和两则广告逐项拆开。",
+    "category": "legal",
+    "type": "李敖当事人事件",
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖好讼集",
+      "chapter": "003.控告胡秋原、石永贵诽谤",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/005.李敖好讼集/003.控告胡秋原、石永贵诽谤.txt",
+      "line": 3,
+      "lines": [
+        3,
+        67,
+        69,
+        71,
+        73
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "李敖好讼集",
+        "chapter": "004.驳胡秋原的一个状子",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/005.李敖好讼集/004.驳胡秋原的一个状子.txt",
+        "line": 3,
+        "lines": [
+          3,
+          7,
+          13,
+          15,
+          17,
+          19,
+          23,
+          31
+        ],
+        "note": "同案中李敖驳胡秋原反诉，强调相关旧文已逾告诉期间且并非诽谤。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "胡秋原",
+      "石永贵",
+      "殷海光",
+      "韦政通",
+      "夏道平",
+      "魏大喨",
+      "严侨"
+    ],
+    "places": [
+      "台湾",
+      "法院",
+      "中央日报"
+    ],
+    "works": [
+      "李敖好讼集",
+      "中华杂志",
+      "中央日报",
+      "一个计划、一个谎言、一个劝告",
+      "我的殷海光",
+      "李敖自传与回忆",
+      "乌鸦评论"
+    ],
+    "tags": [
+      "胡秋原",
+      "石永贵",
+      "中华杂志",
+      "中央日报",
+      "加重诽谤",
+      "反诉",
+      "殷海光"
+    ],
+    "view": [
+      "司法线",
+      "媒体线",
+      "胡秋原线",
+      "文星线"
+    ],
+    "crossReferences": [
+      "minbian-wenxing-songan-1962-10-01-publishes-hu-qiuyuan-true-face-and-triggers-lawsuit",
+      "li-ao-shuhanji-letterbox-1991-05-30-writes-newspapers-on-hu-qiuyuan-defamation-judgment",
+      "li-ao-suixielu-qianji-1991-11-29-attaches-hu-qiuyuan-home-in-xindian-defamation-case",
+      "book7-1999-08-27-hu-qiuyuan-loses-final-appeal-and-must-pay-li-ao"
+    ]
+  },
+  {
+    "id": "li-ao-haosongji-1991-11-30-to-1992-08-04-sues-hu-qiuyuan-liang-surong-legislative-gazette-libel",
+    "date": "1991-11-30",
+    "endDate": "1992-08-04",
+    "year": 1991,
+    "month": 11,
+    "day": 30,
+    "displayDate": "1991年11月30日至1992年8月4日",
+    "datePrecision": "date-range",
+    "title": "李敖控告胡秋原、梁肃戎在《立法院公报》及《中华》后续文字中诽谤",
+    "summary": "1991年11月30日，李敖在胡秋原《中华》杂志旧案经台湾高等法院判处拘役四十天、缓刑两年定谳后，另就胡秋原在《立法院公报》第八十卷第五十五期及《中华》杂志第三三六至三三九期的新一轮文字，列举“文化流氓”“美国特务线民”“疯狗”“汉奸”等二十八项明确诽谤，并把《立法院公报》发行人梁肃戎列为共同被告。1992年8月4日，龙云翔代写上诉理由，主张原判把胡秋原部分谕知免诉、把梁肃戎部分判无罪均违法。本条合并005的自诉与上诉理由，不拆每一项诽谤词。",
+    "category": "legal",
+    "type": "李敖当事人事件",
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖好讼集",
+      "chapter": "005.控告胡秋原、梁肃戎诽谤",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/005.李敖好讼集/005.控告胡秋原、梁肃戎诽谤.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        65,
+        67,
+        69,
+        71,
+        75,
+        81,
+        85,
+        87
+      ]
+    },
+    "people": [
+      "李敖",
+      "胡秋原",
+      "梁肃戎",
+      "龙云翔"
+    ],
+    "places": [
+      "台湾",
+      "立法院",
+      "法院"
+    ],
+    "works": [
+      "李敖好讼集",
+      "立法院公报",
+      "中华杂志"
+    ],
+    "tags": [
+      "胡秋原",
+      "梁肃戎",
+      "立法院公报",
+      "中华杂志",
+      "加重诽谤",
+      "上诉"
+    ],
+    "view": [
+      "司法线",
+      "立法院线",
+      "媒体线",
+      "胡秋原线"
+    ],
+    "crossReferences": [
+      "li-ao-shuhanji-letterbox-1991-05-30-writes-newspapers-on-hu-qiuyuan-defamation-judgment",
+      "li-ao-suixielu-qianji-1991-11-29-attaches-hu-qiuyuan-home-in-xindian-defamation-case",
+      "gei-waishengren-nankan-1982-06-18-to-1991-07-08-writes-kmt-old-guard-official-servility-and-speech-control-essays",
+      "book7-1999-08-27-hu-qiuyuan-loses-final-appeal-and-must-pay-li-ao"
+    ]
+  },
+  {
+    "id": "li-ao-haosongji-1992-03-03-applies-extraordinary-appeal-against-supreme-court-hu-qiuyuan-ruling",
+    "date": "1992-03-03",
+    "year": 1992,
+    "month": 3,
+    "day": 3,
+    "displayDate": "1992年3月3日",
+    "datePrecision": "day",
+    "title": "李敖申请非常上诉，批最高法院法官把胡秋原案轻判为公然侮辱",
+    "summary": "1992年3月3日，李敖针对最高法院八十一年度台非字第32号刑事判决写状，点名蒋嵘华、郑汉龙、丁锦清、黄聪明、刘敬一五名法官，认为判决虽确认胡秋原妨害李敖名誉，却以公然侮辱罪轻判并缓刑，且在犯罪事实、非常上诉范围、理由矛盾和刑法第310条适用上闹出四大笑话。他申请提起非常上诉，并要求将五名法官移送侦办枉法裁判。",
+    "category": "legal",
+    "type": "李敖当事人事件",
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖好讼集",
+      "chapter": "006.最高法院法官蒋嵘华、郑汉龙、丁锦清、黄聪明、刘敬一闹出了四大笑话",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/005.李敖好讼集/006.最高法院法官蒋嵘华、郑汉龙、丁锦清、黄聪明、刘敬一闹出了四大笑话.txt",
+      "line": 3,
+      "lines": [
+        3,
+        7,
+        11,
+        19,
+        23,
+        25,
+        27
+      ]
+    },
+    "people": [
+      "李敖",
+      "胡秋原",
+      "蒋嵘华",
+      "郑汉龙",
+      "丁锦清",
+      "黄聪明",
+      "刘敬一"
+    ],
+    "places": [
+      "最高法院",
+      "台北地院检察署",
+      "台湾"
+    ],
+    "works": [
+      "李敖好讼集",
+      "中华杂志"
+    ],
+    "tags": [
+      "最高法院",
+      "非常上诉",
+      "公然侮辱",
+      "诽谤",
+      "枉法裁判",
+      "胡秋原"
+    ],
+    "view": [
+      "司法线",
+      "胡秋原线"
+    ],
+    "crossReferences": [
+      "li-ao-shuhanji-letterbox-1991-05-30-writes-newspapers-on-hu-qiuyuan-defamation-judgment",
+      "li-ao-laidianji-2000-06-16-rebuts-two-supreme-court-civil-judgments",
+      "book7-1999-08-27-hu-qiuyuan-loses-final-appeal-and-must-pay-li-ao"
+    ]
+  },
+  {
+    "id": "li-ao-haosongji-1992-06-25-to-12-08-appeals-hu-qiuyuan-civil-damages-and-rebuts-poor-defense",
+    "date": "1992-06-25",
+    "endDate": "1992-12-08",
+    "year": 1992,
+    "month": 6,
+    "day": 25,
+    "displayDate": "1992年6月25日至12月8日",
+    "datePrecision": "date-range",
+    "title": "李敖上诉胡秋原民事赔偿案，批三十五万元判赔过轻并驳“老可怜”说",
+    "summary": "1992年6月25日，李敖就台湾高等法院八十年度诉字第293号民事判决补充上诉理由，点名蔡尊五、廖宏明、郑淑贞三名法官违反最高法院判例，把胡秋原以《中华》杂志十七万字、九个月、海外发行范围的实际加害情形轻描淡写，只判三十五万元及迟延利息。他列举英文媒体、国际特赦组织、全美华人协会等材料证明自己的名誉影响和身份地位，并指出胡秋原退职金、房产、稿费等经济状况。12月8日，他又写《小可怜与老可怜》，反驳胡秋原在民事诉讼中否认李敖“知名作家”、自称经济困窘、混淆公然侮辱与妨害名誉。本条合并007至008，作为同一民事赔偿上诉与答辩链。",
+    "category": "legal",
+    "type": "李敖当事人事件",
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖好讼集",
+      "chapter": "007.驳法官蔡尊五、廖宏明、郑淑贞",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/005.李敖好讼集/007.驳法官蔡尊五、廖宏明、郑淑贞.txt",
+      "line": 3,
+      "lines": [
+        3,
+        9,
+        19,
+        35,
+        97,
+        101,
+        129,
+        133,
+        149,
+        151
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "李敖好讼集",
+        "chapter": "008.“小可怜”与“老可怜”",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/005.李敖好讼集/008.“小可怜”与“老可怜”.txt",
+        "line": 3,
+        "lines": [
+          3,
+          7,
+          15,
+          23,
+          35,
+          39,
+          55,
+          59,
+          61
+        ],
+        "note": "同一民事赔偿案中，李敖驳胡秋原否认其知名作家身份和经济能力的答辩。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "胡秋原",
+      "蔡尊五",
+      "廖宏明",
+      "郑淑贞",
+      "冯沪祥",
+      "关中",
+      "郑南榕"
+    ],
+    "places": [
+      "台湾高等法院",
+      "台湾",
+      "新店"
+    ],
+    "works": [
+      "李敖好讼集",
+      "中华杂志",
+      "中国季刊",
+      "纽约时报",
+      "远东经济评论",
+      "时代周刊"
+    ],
+    "tags": [
+      "胡秋原",
+      "民事赔偿",
+      "三十五万元",
+      "知名作家",
+      "中华杂志",
+      "上诉"
+    ],
+    "view": [
+      "司法线",
+      "媒体线",
+      "胡秋原线"
+    ],
+    "crossReferences": [
+      "li-ao-suixielu-qianji-1991-11-29-attaches-hu-qiuyuan-home-in-xindian-defamation-case",
+      "book7-1999-08-27-hu-qiuyuan-loses-final-appeal-and-must-pay-li-ao",
+      "book7-1999-12-02-hu-qiuyuan-pays-927261-and-li-ao-removes-seal",
+      "li-ao-laidianji-2000-06-16-rebuts-two-supreme-court-civil-judgments",
+      "li-ao-haosongji-1993-02-09-to-1994-02-07-continues-hu-qiuyuan-civil-damages-appeal"
+    ]
+  },
+  {
+    "id": "li-ao-haosongji-1993-01-05-to-02-10-pursues-hu-qiuyuan-little-mad-dog-repeat-libel-evidence",
+    "date": "1993-01-05",
+    "endDate": "1993-02-10",
+    "year": 1993,
+    "month": 1,
+    "day": 5,
+    "displayDate": "1993年1月5日至2月10日",
+    "datePrecision": "date-range",
+    "title": "李敖以《中华》合订本继续流通为新证，追告胡秋原“小疯狗”“小窃”再犯诽谤",
+    "summary": "1993年1月5日，李敖引1991年度上易字第2969号判决，批评高院法官谷凤岐、陈世淙、蔡清游以胡秋原年老有病为由推断其“无再犯之虞”而缓刑；他指出胡秋原在判决定谳九个月后仍公开出售含原诽谤文字的《中华》杂志合订本，且合订本另载李敖当庭认错、“小疯狗”“小窃之技”等文字，构成新的加重诽谤。2月10日，他再申请调查证据，要求函查新店邮局寄出的0825、0827邮包，并传讯发行人胡秋原、调取施俊尧审理旧反诉案资料。本条合并009至010，不把“小疯狗”“小窃”和邮包调查拆成独立小条。",
+    "category": "legal",
+    "type": "李敖当事人事件",
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖好讼集",
+      "chapter": "009.“当知所警惕而无再犯之虞”吗？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/005.李敖好讼集/009.“当知所警惕而无再犯之虞”吗？.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        9,
+        17,
+        23,
+        41,
+        43,
+        49,
+        51,
+        57
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "李敖好讼集",
+        "chapter": "010.“小疯狗”案中的一张状子",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/005.李敖好讼集/010.“小疯狗”案中的一张状子.txt",
+        "line": 5,
+        "lines": [
+          5,
+          7,
+          9,
+          15,
+          17,
+          19
+        ],
+        "note": "同案调查证据申请，要求查询邮包、传讯《中华》发行人并附旧反诉案资料。"
+      },
+      {
+        "book": "李敖好讼集",
+        "chapter": "011.“小疯狗”考",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/005.李敖好讼集/011.“小疯狗”考.txt",
+        "line": 3,
+        "lines": [
+          3,
+          17,
+          25,
+          35,
+          53,
+          55
+        ],
+        "note": "同一轮证据链中，李敖进一步证明《中华》杂志“小疯狗”确指李敖。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "胡秋原",
+      "谷凤岐",
+      "陈世淙",
+      "蔡清游",
+      "苏荣泉",
+      "施俊尧",
+      "林洋港",
+      "林明德"
+    ],
+    "places": [
+      "台湾高等法院",
+      "高雄第四十一支局",
+      "新店第九支局",
+      "台北地方法院"
+    ],
+    "works": [
+      "李敖好讼集",
+      "中华杂志",
+      "一个计划、一个谎言、一个劝告"
+    ],
+    "tags": [
+      "小疯狗",
+      "小窃",
+      "中华杂志",
+      "再犯诽谤",
+      "调查证据",
+      "胡秋原"
+    ],
+    "view": [
+      "司法线",
+      "媒体线",
+      "胡秋原线"
+    ],
+    "crossReferences": [
+      "li-ao-shuhanji-letterbox-1991-05-30-writes-newspapers-on-hu-qiuyuan-defamation-judgment",
+      "li-ao-daobiji-1965-01-02-to-08-24-xu-fuguan-little-mad-dog-lawsuit",
+      "book5-1964-07-10-xu-fuguan-little-mad-dog-article",
+      "book7-1999-08-27-hu-qiuyuan-loses-final-appeal-and-must-pay-li-ao",
+      "li-ao-haosongji-1993-04-16-to-1994-02-07-rebuts-little-theft-and-mad-dog-linguistic-defenses"
+    ]
+  },
+  {
+    "id": "li-ao-haosongji-1993-02-09-to-1994-02-07-continues-hu-qiuyuan-civil-damages-appeal",
+    "date": "1993-02-09",
+    "endDate": "1994-02-07",
+    "year": 1993,
+    "month": 2,
+    "day": 9,
+    "displayDate": "1993年2月9日至1994年2月7日",
+    "datePrecision": "date-range",
+    "title": "李敖继续上诉胡秋原民事赔偿案，主张两百万元仍太轻",
+    "summary": "1993年2月9日，李敖不服台湾高等法院八十一年度诉更（一）字第15号判决，指出更审虽把原三十五万元外再判一百六十五万元、合计两百万元，但相对于《中华》杂志十七万字、九个月、海外发行和胡秋原经济能力，仍不足以赔偿其名誉损害。4月至5月，他继续驳胡秋原3月10日、3月19日、3月31日、4月29日等多份上诉与答辩状，重申自己为知名作家、胡秋原诬告反扑不成立、所谓经济困窘和“流浪街头”不可采。1994年2月7日，他又以《被告胡秋原应赔原告李敖多少钱？》指出最高法院关于“侵权行为态样”的判决见解自相冲突，主张无论罪名从加重诽谤改成公然侮辱，胡秋原在《中华》杂志妨害其名誉的事实和损害态样并未改变。本条合并012至014、016、020，作为同一民事赔偿与诬告反扑的后续阶段。",
+    "category": "legal",
+    "type": "李敖当事人事件",
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖好讼集",
+      "chapter": "012.两百万太轻了！",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/005.李敖好讼集/012.两百万太轻了！.txt",
+      "line": 3,
+      "lines": [
+        3,
+        9,
+        17,
+        27,
+        45,
+        57
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "李敖好讼集",
+        "chapter": "013.知名作家可知也",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/005.李敖好讼集/013.知名作家可知也.txt",
+        "line": 3,
+        "lines": [
+          3,
+          15,
+          23,
+          33,
+          49,
+          53
+        ],
+        "note": "李敖驳胡秋原3月10日、3月19日两状，重申海外与岛内证据足证其知名作家身份。"
+      },
+      {
+        "book": "李敖好讼集",
+        "chapter": "014.对所谓诬告的答辩",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/005.李敖好讼集/014.对所谓诬告的答辩.txt",
+        "line": 3,
+        "lines": [
+          3,
+          15,
+          31,
+          45,
+          47,
+          49
+        ],
+        "note": "胡秋原以诬告罪继续上诉，李敖以判例和前案证据答辩。"
+      },
+      {
+        "book": "李敖好讼集",
+        "chapter": "016.流浪街头及其他",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/005.李敖好讼集/016.流浪街头及其他.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          13,
+          19,
+          25,
+          35,
+          37
+        ],
+        "note": "李敖驳胡秋原拖延诉讼、否认其知名作家身份和自称经济困窘等说法。"
+      },
+      {
+        "book": "李敖好讼集",
+        "chapter": "020.被告胡秋原应赔原告李敖多少钱？",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/005.李敖好讼集/020.被告胡秋原应赔原告李敖多少钱？.txt",
+        "line": 3,
+        "lines": [
+          3,
+          7,
+          13,
+          17,
+          19,
+          41,
+          47
+        ],
+        "note": "李敖整理三十五万元、再判一百六十五万元和最高法院发回后的态样争议。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "胡秋原",
+      "王沧浚",
+      "蔡进田",
+      "张琼文",
+      "蔡尊五",
+      "廖宏明",
+      "郑淑贞",
+      "杨慧英",
+      "萧亨国",
+      "吴正一",
+      "谢正胜",
+      "朱锦娟",
+      "曾桂香",
+      "张福安",
+      "洪根树",
+      "刘延村",
+      "葛浩坡"
+    ],
+    "places": [
+      "台湾高等法院",
+      "最高法院",
+      "新店",
+      "台湾"
+    ],
+    "works": [
+      "李敖好讼集",
+      "中华杂志",
+      "环华百科全书",
+      "纽约时报",
+      "民众日报"
+    ],
+    "tags": [
+      "胡秋原",
+      "民事赔偿",
+      "两百万元",
+      "知名作家",
+      "诬告",
+      "流浪街头",
+      "最高法院",
+      "中华杂志"
+    ],
+    "view": [
+      "司法线",
+      "媒体线",
+      "胡秋原线"
+    ],
+    "crossReferences": [
+      "li-ao-haosongji-1992-06-25-to-12-08-appeals-hu-qiuyuan-civil-damages-and-rebuts-poor-defense",
+      "li-ao-suixielu-qianji-1991-11-29-attaches-hu-qiuyuan-home-in-xindian-defamation-case",
+      "book7-1999-08-27-hu-qiuyuan-loses-final-appeal-and-must-pay-li-ao",
+      "book7-1999-12-02-hu-qiuyuan-pays-927261-and-li-ao-removes-seal",
+      "li-ao-laidianji-2000-06-16-rebuts-two-supreme-court-civil-judgments"
+    ]
+  },
+  {
+    "id": "li-ao-haosongji-1993-04-16-to-1994-02-07-rebuts-little-theft-and-mad-dog-linguistic-defenses",
+    "date": "1993-04-16",
+    "endDate": "1994-02-07",
+    "year": 1993,
+    "month": 4,
+    "day": 16,
+    "displayDate": "1993年4月16日至1994年2月7日",
+    "datePrecision": "date-range",
+    "title": "李敖连续驳胡秋原关于“小窃之技”和“小疯狗”的语义卸责",
+    "summary": "1993年4月16日，李敖针对胡秋原3月19日《答辩暨反诉状》写《对胡搅蛮缠的驳斥》，指出胡秋原亲笔回函和《中华》杂志发行部印章足证杂志出售责任仍在胡本人，并拆穿其把“小窃之技”说成旧案已定谳、把“小疯狗”说成李敖自认昵称的卸责。1994年1月10日，他再以词典证明“小窃”即“小偷”；2月7日又以限定关系、成语句法和“黔驴之技”等例说明“小窃之技”仍由“小窃”限定而成侮辱语，并以居浩然好友来信为例，说明好友玩笑昵称不能由敌对者代位引用。此条承接上一轮“小疯狗/小窃”再犯证据，不另拆成词典、文法和称呼关系三条小事。",
+    "category": "legal-linguistic",
+    "type": "李敖当事人事件",
+    "certainty": "confirmed",
+    "source": {
+      "book": "李敖好讼集",
+      "chapter": "015.对胡搅蛮缠的驳斥",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/005.李敖好讼集/015.对胡搅蛮缠的驳斥.txt",
+      "line": 3,
+      "lines": [
+        3,
+        15,
+        25,
+        33,
+        39,
+        45,
+        53,
+        59,
+        61,
+        67,
+        79
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "李敖好讼集",
+        "chapter": "017.“小窃”非“小偷”？",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/005.李敖好讼集/017.“小窃”非“小偷”？.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          7,
+          9
+        ],
+        "note": "李敖用《辞源》《大辞典》证明“小窃”即“小偷”。"
+      },
+      {
+        "book": "李敖好讼集",
+        "chapter": "018.“小窃之技”的文法学解析",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/005.李敖好讼集/018.“小窃之技”的文法学解析.txt",
+        "line": 3,
+        "lines": [
+          3,
+          7,
+          9,
+          45,
+          51,
+          57,
+          59
+        ],
+        "note": "李敖从限定关系和成语结构说明“小窃之技”仍构成诽谤。"
+      },
+      {
+        "book": "李敖好讼集",
+        "chapter": "019.活了八十五岁应该知道些什么？",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/005.李敖好讼集/019.活了八十五岁应该知道些什么？.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          7,
+          13,
+          15,
+          43,
+          45
+        ],
+        "note": "李敖驳胡秋原借居浩然好友昵称卸责，指出称呼关系不能由敌对者代位。"
+      }
+    ],
+    "people": [
+      "李敖",
+      "胡秋原",
+      "周之鸣",
+      "居浩然",
+      "胡适",
+      "许慧玲"
+    ],
+    "places": [
+      "台湾",
+      "新店第九支局",
+      "台北地方法院",
+      "高等法院"
+    ],
+    "works": [
+      "李敖好讼集",
+      "中华杂志",
+      "文星讼案",
+      "辞源",
+      "大辞典",
+      "李敖文存"
+    ],
+    "tags": [
+      "小疯狗",
+      "小窃之技",
+      "小偷",
+      "中华杂志",
+      "语义辩驳",
+      "胡秋原",
+      "诽谤"
+    ],
+    "view": [
+      "司法线",
+      "语言线",
+      "胡秋原线",
+      "文星线"
+    ],
+    "crossReferences": [
+      "li-ao-haosongji-1993-01-05-to-02-10-pursues-hu-qiuyuan-little-mad-dog-repeat-libel-evidence",
+      "li-ao-daobiji-1965-01-02-to-08-24-xu-fuguan-little-mad-dog-lawsuit",
+      "book5-1964-07-10-xu-fuguan-little-mad-dog-article",
+      "minbian-wenxing-songan-1963-07-02-to-08-04-uses-archive-replies-to-refute-theft-accusation",
+      "minbian-wenxing-songan-1963-07-04-to-08-05-adds-counterclaim-and-third-defense-against-hu"
+    ]
+  }
+]

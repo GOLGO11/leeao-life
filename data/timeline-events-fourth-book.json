@@ -1309,14 +1309,21 @@
       "千秋评论",
       "高院",
       "萧孟能案",
-      "冤狱"
+      "冤狱",
+      "政治性的假司法罪",
+      "背信"
     ],
     "people": [
       "李敖",
       "林晃",
       "黄剑青",
       "顾锦才",
-      "萧孟能"
+      "萧孟能",
+      "罗小如",
+      "马淑芬",
+      "张迺良",
+      "钟曜唐",
+      "吴俊才"
     ],
     "places": [
       "台湾"
@@ -1328,7 +1335,8 @@
     "certainty": "confirmed",
     "crossReferences": [
       "book2-1980-08-26-xiao-accuses-li-embezzlement",
-      "li-ao-shuduji-1987-03-04-writes-xu-shuide-qianqiu-wenxing-double-standard"
+      "li-ao-shuduji-1987-03-04-writes-xu-shuide-qianqiu-wenxing-double-standard",
+      "li-ao-nongfaji-1976-02-19-to-1981-07-23-writes-jointly-made-miscarriage-of-justice"
     ],
     "source": {
       "book": "李敖回忆录",
@@ -1356,6 +1364,33 @@
           35
         ],
         "note": "1987年3月4日致许水德信中追述高院判决、台北市政府来函和李敖对联合封杀的判断。"
+      },
+      {
+        "book": "李敖弄法集",
+        "chapter": "001.一个联合造成的冤狱.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/003.李敖弄法集/001.一个联合造成的冤狱.txt",
+        "line": 3,
+        "lines": [
+          3,
+          7,
+          23,
+          49,
+          51,
+          67,
+          71,
+          75,
+          91,
+          101,
+          105,
+          107,
+          111,
+          115,
+          117,
+          125,
+          127,
+          129
+        ],
+        "note": "补入1976年2月19日狱中长文和1981年7月23日后记，详述萧孟能版权抵押/背信冤案在政治案外加司法案中的形成过程。"
       }
     ]
   },

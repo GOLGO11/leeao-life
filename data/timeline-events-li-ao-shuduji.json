@@ -1288,7 +1288,8 @@
       "li-ao-shuduji-1987-08-03-writes-wu-sanlian-chiang-ching-kuo-dead-book-warning",
       "li-ao-shuhanji-letterbox-1987-01-06-executes-against-wu-fengshan-office-paintings",
       "li-ao-shuhanji-letterbox-1987-01-09-wu-fengshan-apologizes-at-li-home",
-      "li-ao-shuhanji-letterbox-1987-11-12-noon-writes-shi-xingzhong-on-book-sale-and-zilih-compensation"
+      "li-ao-shuhanji-letterbox-1987-11-12-noon-writes-shi-xingzhong-on-book-sale-and-zilih-compensation",
+      "li-ao-fangdiaoji-1987-02-24-to-03-17-writes-zilih-dead-ad-libel-briefs"
     ],
     "additionalSources": [
       {
@@ -1342,6 +1343,35 @@
           19
         ],
         "note": "11月12日致施性忠信补出1月6日赴法院执行、查封吴丰山办公室壁画与1月9日吴丰山私下道歉的后续。"
+      },
+      {
+        "book": "李敖放刁集",
+        "chapter": "007.审判长先生，你碰到了千古大案！.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/004.李敖放刁集/007.审判长先生，你碰到了千古大案！.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          21,
+          33,
+          53,
+          57
+        ],
+        "note": "《李敖放刁集》收录自诉后的理由状，补证“李敖死了”广告案的法庭主张。"
+      },
+      {
+        "book": "李敖放刁集",
+        "chapter": "008.这不是当代奇闻，又是什么？.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/004.李敖放刁集/008.这不是当代奇闻，又是什么？.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          13,
+          21,
+          23
+        ],
+        "note": "《李敖放刁集》收录对许文彬答辩的驳斥，补证报社广告责任论。"
       }
     ]
   },
@@ -2351,6 +2381,27 @@
       "li-ao-shuduji-1987-03-04-writes-xu-shuide-qianqiu-wenxing-double-standard",
       "freedom-summoning-1982-05-14-wins-xiao-mengneng-case",
       "li-ao-zhaji-1987-04-27-writes-news-office-letter-on-fake-wenxing"
+    ],
+    "additionalSources": [
+      {
+        "book": "李敖刀笔集",
+        "chapter": "013.为萧孟能入狱在即致施启扬函.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/002.李敖刀笔集/013.为萧孟能入狱在即致施启扬函.txt",
+        "line": 7,
+        "lines": [
+          7,
+          11,
+          13,
+          15,
+          17,
+          19,
+          33,
+          39,
+          41,
+          43
+        ],
+        "note": "补入1987年2月28日致施启扬函，提前督促萧孟能第三次入狱执行并要求不得优待或虐待。"
+      }
     ]
   },
   {

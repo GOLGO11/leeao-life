@@ -9668,7 +9668,9 @@
     "sourceQuote": "陈水扁今天发表声明除谴责监察院滥权外，并特别指出检察官许阿桂侦办华隆案……在我看来，陈水扁指责许阿桂，指责对了，但指责监察院却指责欠当……这次弹劾理由是站得住的。（1991年11月12日）",
     "works": [
       "李敖随写录前集",
-      "陈水扁指责许阿桂选择性执法"
+      "陈水扁指责许阿桂选择性执法",
+      "只起诉了一半，“恰似你的温柔！”",
+      "国民党如何跑了犯人也跑了法律"
     ],
     "ingestionRound": "li-ao-suixielu-qianji-round016-126-135",
     "id": "li-ao-suixielu-qianji-1991-11-12-comments-chen-shuibian-xu-agui-selective-enforcement-hualon",
@@ -9693,7 +9695,8 @@
       "legal",
       "control-yuan",
       "hualon-case",
-      "chen-shuibian"
+      "chen-shuibian",
+      "selective-prosecution"
     ],
     "people": [
       "李敖",
@@ -9714,7 +9717,8 @@
     ],
     "crossReferences": [
       "qianqiu-wansui-1991-03-09-170-writes-zhang-jianbang-scandal-lin-zhengjie-silent",
-      "li-ao-suixielu-qianji-1991-11-06-comments-hau-peitsun-late-apology-228"
+      "li-ao-suixielu-qianji-1991-11-06-comments-hau-peitsun-late-apology-228",
+      "li-ao-nongfaji-1991-05-12-to-05-14-writes-hualon-selective-prosecution-and-kmt-law-escape"
     ],
     "source": {
       "book": "李敖随写录前集",
@@ -9729,7 +9733,28 @@
         11
       ],
       "note": "李敖摘评陈水扁声明：批许阿桂选择性执法是对的，批监察院弹劾却欠当。"
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖弄法集",
+        "chapter": "032.只起诉了一半，“恰似你的温柔！”.txt",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/003.李敖弄法集/032.只起诉了一半，“恰似你的温柔！”.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          7,
+          11,
+          17,
+          23,
+          27,
+          29,
+          31,
+          33
+        ],
+        "note": "1991年5月《求是报》时期先批许阿桂只起诉翁家一半。"
+      }
+    ]
   },
   {
     "datePrecision": "day",
@@ -11711,7 +11736,9 @@
     "crossReferences": [
       "zaonian-riji-1966-12-09-counterclaim-hu-case-rebukes-hu-qiuyuan-one-and-half-hours",
       "book7-1999-08-27-hu-qiuyuan-loses-final-appeal-and-must-pay-li-ao",
-      "book7-1999-12-02-hu-qiuyuan-pays-927261-and-li-ao-removes-seal"
+      "book7-1999-12-02-hu-qiuyuan-pays-927261-and-li-ao-removes-seal",
+      "li-ao-haosongji-1991-11-30-to-1992-08-04-sues-hu-qiuyuan-liang-surong-legislative-gazette-libel",
+      "li-ao-haosongji-1992-06-25-to-12-08-appeals-hu-qiuyuan-civil-damages-and-rebuts-poor-defense"
     ],
     "source": {
       "book": "李敖随写录前集",

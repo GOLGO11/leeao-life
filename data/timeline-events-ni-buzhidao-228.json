@@ -1,0 +1,439 @@
+[
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-07-ni-buzhidao-228-round001-001-003-closeout",
+    "id": "ni-buzhidao-228-1945-10-25-to-1947-02-26-indexes-takeover-corruption-and-preconditions",
+    "date": "1945-10-25",
+    "endDate": "1947-02-26",
+    "year": 1945,
+    "month": 10,
+    "day": 25,
+    "displayDate": "1945年10月25日至1947年2月26日",
+    "datePrecision": "date-range",
+    "title": "李敖、陈境圳在《你不知道的二二八》中先以殖民遗产、接收腐败和军纪问题重构二二八前因",
+    "summary": "正文001至124问作为二二八前因组，从日本统治下台湾人的教育、文官、军人和殖民经验起笔，转入光复后台湾省行政长官公署法规、接收、日产、专卖、知识分子失语、外省军警纪律和官方归因。李敖、陈境圳把这些材料安排成一千问的开端，用来说明二二八不是单一“查缉私烟”可以解释，也不能只由某一族群叙事包办。本条只收本书1997年正文的前因证据架构，不把日据教育、接收弊端和军纪个案逐条拆成独立事件。",
+    "source": {
+      "book": "你不知道的二二八",
+      "chapter": "003.你不知道的二二八.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/007.你不知道的二二八/003.你不知道的二二八.txt",
+      "line": 5,
+      "lines": [
+        5,
+        41,
+        221,
+        269,
+        421,
+        517
+      ]
+    },
+    "people": [
+      "李敖",
+      "陈境圳",
+      "陈仪",
+      "白崇禧"
+    ],
+    "places": [
+      "台湾",
+      "台北"
+    ],
+    "works": [
+      "你不知道的二二八",
+      "二二八事件文献辑录",
+      "二二八事件文献续录",
+      "二二八事件研究报告"
+    ],
+    "tags": [
+      "你不知道的二二八",
+      "二二八",
+      "一千问",
+      "日本统治",
+      "接收",
+      "行政长官公署",
+      "军纪"
+    ],
+    "view": [
+      "写作线",
+      "台湾史政线",
+      "二二八研究线",
+      "证据整理线"
+    ],
+    "crossReferences": [
+      "book7-1997-coauthors-you-dont-know-228-with-chen-jingzhen",
+      "lidenghui-jiamianju-1992-03-18-writes-critique-of-228-research-report",
+      "li-ao-mimi-shufang-022-uses-local-party-government-conflict-to-read-228",
+      "li-ao-youhua-shuo-523-explains-taiwanese-ronin-factor-through-chen-yi"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-07-ni-buzhidao-228-round001-001-003-closeout",
+    "id": "ni-buzhidao-228-1947-02-27-to-03-07-reconstructs-outbreak-spread-and-mutual-violence",
+    "date": "1947-02-27",
+    "endDate": "1947-03-07",
+    "year": 1947,
+    "month": 2,
+    "day": 27,
+    "displayDate": "1947年2月27日至3月7日",
+    "datePrecision": "date-range",
+    "title": "李敖、陈境圳把查缉私烟、各地扩散、二七部队和互相杀害材料编成二二八爆发组",
+    "summary": "正文125至400问转入事件爆发和扩散，先列美国学者等对起因的说法，再追查2月27日查缉私烟、开枪误杀、群众反应、长官公署射击、忠义服务队、二七部队、各县市冲突、外省人受害和本省人互害等材料。此组把“官逼民反”、群众暴力、地方武装和官方抹黑同时放在证据链里，不把每个县市或每个暴力片段另拆为新事件。",
+    "source": {
+      "book": "你不知道的二二八",
+      "chapter": "003.你不知道的二二八.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/007.你不知道的二二八/003.你不知道的二二八.txt",
+      "line": 521,
+      "lines": [
+        521,
+        621,
+        721,
+        821,
+        1069,
+        1221,
+        1421,
+        1621
+      ]
+    },
+    "people": [
+      "李敖",
+      "陈境圳",
+      "陈仪",
+      "傅学通",
+      "钟逸人"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "台中",
+      "嘉义",
+      "高雄"
+    ],
+    "works": [
+      "你不知道的二二八",
+      "二二八事件文献辑录",
+      "二二八事件文献续录",
+      "二二八事件研究报告"
+    ],
+    "tags": [
+      "你不知道的二二八",
+      "二二八",
+      "查缉私烟",
+      "二七部队",
+      "外省人受害",
+      "本省人互害"
+    ],
+    "view": [
+      "写作线",
+      "台湾史政线",
+      "二二八研究线",
+      "证据整理线"
+    ],
+    "crossReferences": [
+      "book7-1997-coauthors-you-dont-know-228-with-chen-jingzhen",
+      "li-ao-youhua-shuo-527-shows-private-cigarette-indictment-and-files-on-228-origin",
+      "li-ao-dageda-039-argues-fourth-stage-of-228-was-taiwanese-killing-taiwanese",
+      "lidenghui-jiamianju-1992-03-18-writes-critique-of-228-research-report"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-07-ni-buzhidao-228-round001-001-003-closeout",
+    "id": "ni-buzhidao-228-1947-03-08-to-04-30-indexes-troop-landing-clearing-and-official-stigma",
+    "date": "1947-03-08",
+    "endDate": "1947-04-30",
+    "year": 1947,
+    "month": 3,
+    "day": 8,
+    "displayDate": "1947年3月8日至4月",
+    "datePrecision": "date-range",
+    "title": "李敖、陈境圳把白崇禧来台、国军登陆、清乡和官方污名化材料合成镇压后段组",
+    "summary": "正文401至500问收束二二八后段，集中问白崇禧是否救了台湾人、国军入台与弃尸传闻、官方清乡目的、口供扭曲、台湾人被污名化以及省籍对立等后果。此条只记录本书将镇压和清乡材料压成连续证据组的做法；蒋介石密电、二一师报告和高雄杀人数争议等旧线只用crossReferences串联。",
+    "source": {
+      "book": "你不知道的二二八",
+      "chapter": "003.你不知道的二二八.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/007.你不知道的二二八/003.你不知道的二二八.txt",
+      "line": 1625,
+      "lines": [
+        1625,
+        1721,
+        1821,
+        1921,
+        2021
+      ]
+    },
+    "people": [
+      "李敖",
+      "陈境圳",
+      "白崇禧",
+      "蒋介石",
+      "陈仪",
+      "彭孟缉"
+    ],
+    "places": [
+      "台湾",
+      "基隆",
+      "高雄"
+    ],
+    "works": [
+      "你不知道的二二八",
+      "二二八事件文献辑录",
+      "台湾事变内幕记"
+    ],
+    "tags": [
+      "你不知道的二二八",
+      "二二八",
+      "白崇禧",
+      "清乡",
+      "国军登陆",
+      "省籍对立"
+    ],
+    "view": [
+      "写作线",
+      "台湾史政线",
+      "二二八研究线",
+      "证据整理线"
+    ],
+    "crossReferences": [
+      "book7-1997-coauthors-you-dont-know-228-with-chen-jingzhen",
+      "li-ao-dageda-040-shows-chiang-telegrams-to-refute-march-seven-228-claim",
+      "li-ao-dageda-040-uses-reports-and-inside-story-book-to-argue-balanced-228-death-counts",
+      "li-ao-youhua-shuo-524-shows-kaohsiung-report-and-huang-zhongtu-file"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-07-ni-buzhidao-228-round001-001-003-closeout",
+    "id": "ni-buzhidao-228-1947-03-to-1995-12-indexes-death-counts-registration-and-compensation-dispute",
+    "date": "1947-03-01",
+    "endDate": "1995-12-31",
+    "year": 1947,
+    "month": 3,
+    "day": 1,
+    "displayDate": "1947年3月至1995年底",
+    "datePrecision": "date-range",
+    "title": "李敖、陈境圳把二二八死亡数字、登记名单、纪念馆和补偿争议整理成数字反证组",
+    "summary": "正文501至640问和995至1000问围绕二二八后遗症、台独意识、各地死亡估计、官方与民间数字、人口统计学推算、1995年底登记人数、纪念碑/纪念馆和受难家属赔偿争议展开。李敖、陈境圳把“数以万计”叙事同姓名列举、补偿登记和报告方法相对照，形成数字反证组；本条不重复2002、2006节目中已经单列的基金会补偿数字和857人论证。",
+    "source": {
+      "book": "你不知道的二二八",
+      "chapter": "003.你不知道的二二八.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/007.你不知道的二二八/003.你不知道的二二八.txt",
+      "line": 2025,
+      "lines": [
+        2025,
+        2121,
+        2221,
+        2421,
+        2521,
+        2581,
+        4021,
+        4029,
+        4041
+      ]
+    },
+    "people": [
+      "李敖",
+      "陈境圳",
+      "杨亮功",
+      "史明",
+      "江崇林"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "新竹",
+      "台南",
+      "斗六"
+    ],
+    "works": [
+      "你不知道的二二八",
+      "二二八事件文献辑录",
+      "二二八事件死亡人数的人口学推计",
+      "二二八事件研究报告"
+    ],
+    "tags": [
+      "你不知道的二二八",
+      "二二八",
+      "死亡数字",
+      "人口统计",
+      "补偿",
+      "二二八纪念馆",
+      "二二八纪念碑"
+    ],
+    "view": [
+      "写作线",
+      "台湾史政线",
+      "二二八研究线",
+      "证据整理线"
+    ],
+    "crossReferences": [
+      "book7-1997-coauthors-you-dont-know-228-with-chen-jingzhen",
+      "li-ao-dageda-038-uses-compensation-counts-to-challenge-inflated-death-figures",
+      "li-ao-youhua-shuo-526-restates-857-and-eight-hundred-against-ma-apology",
+      "lidenghui-jiamianju-1992-03-18-writes-critique-of-228-research-report"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-07-ni-buzhidao-228-round001-001-003-closeout",
+    "id": "ni-buzhidao-228-1947-03-to-1975-02-indexes-hakka-indigenous-japan-us-ccp-and-youth-corps-angles",
+    "date": "1947-03-01",
+    "endDate": "1975-02-28",
+    "year": 1947,
+    "month": 3,
+    "day": 1,
+    "displayDate": "1947年3月至1975年2月",
+    "datePrecision": "date-range",
+    "title": "李敖、陈境圳把客家、原住民、日本军歌、美国立场、共产党和三青团材料并成外部叙事组",
+    "summary": "正文641至760问跳出单纯本省/外省框架，处理客家人、原住民组织、美国官员态度、日本军歌与日据记忆、共产党骚扰说法、三青团和《和平日报》等材料。此组也回应李敖序言中批评国民党把二二八推给共产党、共产党又顺势收割的“第二条错路”；本条只收本书的外部叙事证据结构，不把每一种族群或组织另拆。",
+    "source": {
+      "book": "你不知道的二二八",
+      "chapter": "003.你不知道的二二八.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/007.你不知道的二二八/003.你不知道的二二八.txt",
+      "line": 2585,
+      "lines": [
+        2585,
+        2721,
+        2821,
+        2921,
+        3021,
+        3061
+      ]
+    },
+    "people": [
+      "李敖",
+      "陈境圳",
+      "廖承志",
+      "陈仪"
+    ],
+    "places": [
+      "台湾",
+      "美国",
+      "日本",
+      "北京"
+    ],
+    "works": [
+      "你不知道的二二八",
+      "美国人眼中的二二八事件",
+      "爱憎二二八",
+      "二二八事件资料集",
+      "二二八事件文献续录"
+    ],
+    "tags": [
+      "你不知道的二二八",
+      "二二八",
+      "客家人",
+      "原住民",
+      "美国",
+      "日本军歌",
+      "共产党",
+      "三青团"
+    ],
+    "view": [
+      "写作线",
+      "台湾史政线",
+      "二二八研究线",
+      "证据整理线"
+    ],
+    "crossReferences": [
+      "book7-1997-coauthors-you-dont-know-228-with-chen-jingzhen",
+      "li-ao-dageda-045-shows-228-us-japan-secret-records",
+      "li-ao-youhua-shuo-523-explains-taiwanese-ronin-factor-through-chen-yi",
+      "dajiang-dahai-pianle-ni-2010-late-links-228-us-russia-japan-and-ma-long-ishihara"
+    ]
+  },
+  {
+    "category": "historical-research-writing",
+    "type": "李敖当事人事件",
+    "confidence": "high",
+    "certainty": "confirmed",
+    "round": "2026-07-07-ni-buzhidao-228-round001-001-003-closeout",
+    "id": "ni-buzhidao-228-1947-03-to-1948-10-indexes-intelligence-peng-mengji-zhang-qilang-and-chen-yi-responsibility",
+    "date": "1947-03-01",
+    "endDate": "1948-10-25",
+    "year": 1947,
+    "month": 3,
+    "day": 1,
+    "displayDate": "1947年3月至1948年10月25日",
+    "datePrecision": "date-range",
+    "title": "李敖、陈境圳把情治人员、彭孟缉、张七郎案和陈仪责任归属整理成二二八责任组",
+    "summary": "正文761至994问集中处理三青团是否借二二八打击陈仪、情治人员代拟四十二条、彭孟缉高雄处置、张七郎案、陈仪治台、撤军、司法、金融与台湾人对陈仪的评价等责任归属问题。此组把“陈仪一人担罪”“彭孟缉大量杀人”和“台湾精英纪念碑”放回材料链中辨析；陈仪墓照、旧台币辩护、张七郎材料和高雄报告等后续节目旧线只串联，不重复新增。",
+    "source": {
+      "book": "你不知道的二二八",
+      "chapter": "003.你不知道的二二八.txt",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/014.台湾史政类/007.你不知道的二二八/003.你不知道的二二八.txt",
+      "line": 3065,
+      "lines": [
+        3065,
+        3121,
+        3221,
+        3321,
+        3421,
+        3521,
+        3621,
+        3741,
+        3841,
+        3941,
+        4017
+      ]
+    },
+    "people": [
+      "李敖",
+      "陈境圳",
+      "陈仪",
+      "彭孟缉",
+      "张七郎",
+      "叶明勋",
+      "林茂生"
+    ],
+    "places": [
+      "台湾",
+      "高雄",
+      "凤林",
+      "福建"
+    ],
+    "works": [
+      "你不知道的二二八",
+      "行政院二二八事件研究报告",
+      "证言二二八",
+      "爱憎二二八",
+      "台湾三年"
+    ],
+    "tags": [
+      "你不知道的二二八",
+      "二二八",
+      "陈仪",
+      "彭孟缉",
+      "张七郎",
+      "三青团",
+      "四十二条",
+      "责任归属"
+    ],
+    "view": [
+      "写作线",
+      "台湾史政线",
+      "二二八研究线",
+      "证据整理线"
+    ],
+    "crossReferences": [
+      "book7-1997-coauthors-you-dont-know-228-with-chen-jingzhen",
+      "li-ao-dageda-038-shows-chen-yi-grave-photo-and-defends-his-currency-policy",
+      "li-ao-dageda-039-shows-jiangnan-book-and-zhang-qilang-materials",
+      "li-ao-youhua-shuo-524-shows-kaohsiung-report-and-huang-zhongtu-file",
+      "li-ao-youhua-shuo-526-defends-chen-yi-calling-troops-and-concludes-he-must-reveal-truth"
+    ]
+  }
+]
