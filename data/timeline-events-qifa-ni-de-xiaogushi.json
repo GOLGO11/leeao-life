@@ -1,0 +1,2470 @@
+[
+  {
+    "id": "qifa-ni-de-xiaogushi-1989-08-07-to-1994-04-05-writes-friendship-and-enemy-philosophy",
+    "date": "1989-08-07",
+    "endDate": "1994-04-05",
+    "displayDate": "1989年8月7日至1994年4月5日",
+    "datePrecision": "date-range",
+    "title": "李敖从交友之道写到树敌之乐，把朋友风险和敌人快乐整理成一组人生论",
+    "summary": "1989年8月7日，李敖写《树“敌”之乐》，把“终身之计”改说为树敌，反省自己从广事交游到以树敌为荣的变化；1994年4月5日，他又写《交友之道新解》，从“匪谍”恐惧、孔孟交友说到神交古人，认为交朋友风险多，不如与古人神交。本条把002与019合并为同一条交友/树敌人生论，不把其中古人轶事和个别友人恩怨拆开。",
+    "view": [
+      "写作线",
+      "思想线",
+      "交游线"
+    ],
+    "tags": [
+      "启发你的小故事",
+      "交友之道",
+      "树敌之乐",
+      "神交古人",
+      "独来独往"
+    ],
+    "people": [
+      "李敖",
+      "董其昌",
+      "王珣",
+      "阎愈政",
+      "黄怡",
+      "胡茵梦"
+    ],
+    "places": [
+      "台湾",
+      "长安"
+    ],
+    "works": [
+      "启发你的小故事",
+      "交友之道新解",
+      "树“敌”之乐",
+      "伯远帖"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "启发你的小故事",
+      "chapter": "019.树“敌”之乐",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/005.启发你的小故事/019.树“敌”之乐.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        11,
+        13,
+        15,
+        19,
+        21,
+        23
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "启发你的小故事",
+        "chapter": "002.交友之道新解",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/005.启发你的小故事/002.交友之道新解.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          7,
+          9,
+          11
+        ],
+        "note": "补出李敖由交友风险转向神交古人的一面，与019章树敌哲学互为表里。"
+      }
+    ],
+    "crossReferences": [
+      "diyiliu-ren-de-jingjie-1989-07-11-to-12-31-writes-lin-zhiping-year-end-and-two-shots"
+    ],
+    "round": "2026-07-08-qifa-ni-de-xiaogushi-round001-tici-001-020"
+  },
+  {
+    "id": "qifa-ni-de-xiaogushi-1989-02-03-writes-corruption-benefit-and-softening-bad-rules",
+    "date": "1989-02-03",
+    "displayDate": "1989年2月3日",
+    "datePrecision": "day",
+    "title": "李敖写《贪污的一个好处》，从制度低薪和李老太训导处经验反论小贪污",
+    "summary": "1989年2月3日，李敖承接前一日《中国人的贪污思想》，写《贪污的一个好处》。他继续批评调查局肃贪和公教人员房租津贴等制度失衡，进而提出中下级公务员的小动手脚，有时会软化不合理制度；他又以母亲在台中一中训导处铁面无私、拒收请托礼物为例，说明恶法若完全照章执行反会使学生更苦。本条作为2月2日贪污制度批评的续篇新增，不重复旧锚。",
+    "view": [
+      "写作线",
+      "政治线",
+      "家庭线"
+    ],
+    "tags": [
+      "启发你的小故事",
+      "贪污",
+      "肃贪处",
+      "调查局",
+      "房租津贴",
+      "台中一中"
+    ],
+    "people": [
+      "李敖",
+      "李老太",
+      "李世杰"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "台中一中"
+    ],
+    "works": [
+      "启发你的小故事",
+      "贪污的一个好处",
+      "中国人的贪污思想",
+      "调查局研究"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "启发你的小故事",
+      "chapter": "003.贪污的一个好处",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/005.启发你的小故事/003.贪污的一个好处.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11
+      ]
+    },
+    "crossReferences": [
+      "wei-lishi-boyun-1989-02-02-writes-corruption-thought"
+    ],
+    "round": "2026-07-08-qifa-ni-de-xiaogushi-round001-tici-001-020"
+  },
+  {
+    "id": "qifa-ni-de-xiaogushi-1986-11-15-writes-kmt-retreat-speed-and-pla-march-critique",
+    "date": "1986-11-15",
+    "displayDate": "1986年11月15日夜",
+    "datePrecision": "day",
+    "title": "李敖写《追过了头》，以国民党逃亡和解放军行军速度讽刺党国军事神话",
+    "summary": "1986年11月15日夜，李敖写《追过了头》，先用《哈哈笑》中追贼跑过头的笑话，转入国民党从抗战求和到大陆败退的逃亡形象。他回忆方豪所说厦门《中央日报》“我军一撤千里，匪军追赶不及”标题，又引国民党1958年《匪军战略战术之研究》对解放军行军速度的总结，拆穿“三人行”滑竿说，说明国民党连逃也不及共产党追。本条合并逃亡笑话、方豪旧闻和行军战术材料，不拆成军事术语条。",
+    "view": [
+      "写作线",
+      "政治线",
+      "军事线"
+    ],
+    "tags": [
+      "启发你的小故事",
+      "国民党",
+      "解放军",
+      "匪军战略战术之研究",
+      "陶德曼",
+      "方豪"
+    ],
+    "people": [
+      "李敖",
+      "蒋介石",
+      "陶德曼",
+      "方豪",
+      "毛泽东"
+    ],
+    "places": [
+      "大陆",
+      "台湾",
+      "厦门"
+    ],
+    "works": [
+      "启发你的小故事",
+      "追过了头",
+      "匪军战略战术之研究",
+      "中央日报"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "启发你的小故事",
+      "chapter": "004.追过了头",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/005.启发你的小故事/004.追过了头.txt",
+      "line": 3,
+      "lines": [
+        3,
+        11,
+        13,
+        21,
+        23,
+        29,
+        31,
+        33,
+        35
+      ]
+    },
+    "crossReferences": [
+      "li-ao-zhaji-1984-11-08-records-fanghao-retreat-headline",
+      "li-ao-youhua-shuo-139-uses-own-field-training-to-debunk-three-person-litter-myth-about-pla-speed",
+      "jiangjieshi-yanjiu-sanji-1986-10-29-reverses-wang-peace-chiang-war-propaganda"
+    ],
+    "round": "2026-07-08-qifa-ni-de-xiaogushi-round001-tici-001-020"
+  },
+  {
+    "id": "qifa-ni-de-xiaogushi-1982-10-18-to-1991-10-17-writes-social-anecdotes-on-treats-shoeshine-and-fame",
+    "date": "1982-10-18",
+    "endDate": "1991-10-17",
+    "displayDate": "1982年10月18日至1991年10月17日",
+    "datePrecision": "date-range",
+    "title": "李敖把请客、擦鞋和名人识见三类小故事写成人情世态札记",
+    "summary": "1982年10月18日至1991年10月17日，李敖在《擦鞋者言》《“谁是涂咪咪？”》和《请客学一瞥》中收拢三类小故事：擦鞋者认出李敖并谈胡茵梦、警察和言论危险；吴海蒂、孟绝子、胡适、李定一等人围绕“谁是谁”形成名媛、书生和明星常识的反差；席德进、林佛儿及预备军官旧事则展示请客中的贫富、豪吝和尴尬。本条把005至007的短篇人情轶事合并，不把每一则饭局或问候拆小条。",
+    "view": [
+      "写作线",
+      "日常线",
+      "交游线"
+    ],
+    "tags": [
+      "启发你的小故事",
+      "请客学",
+      "擦鞋者言",
+      "吴海蒂",
+      "孟绝子",
+      "席德进",
+      "林佛儿"
+    ],
+    "people": [
+      "李敖",
+      "席德进",
+      "林佛儿",
+      "吴海蒂",
+      "涂咪咪",
+      "银霞",
+      "孟绝子",
+      "胡适",
+      "李定一",
+      "胡茵梦"
+    ],
+    "places": [
+      "台湾",
+      "文星",
+      "中央酒店"
+    ],
+    "works": [
+      "启发你的小故事",
+      "请客学一瞥",
+      "擦鞋者言",
+      "“谁是涂咪咪？”",
+      "诺贝尔和平奖全集"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "启发你的小故事",
+      "chapter": "006.擦鞋者言",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/005.启发你的小故事/006.擦鞋者言.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "启发你的小故事",
+        "chapter": "005.请客学一瞥",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/005.启发你的小故事/005.请客学一瞥.txt",
+        "line": 3,
+        "lines": [
+          3,
+          7,
+          11,
+          13,
+          15,
+          17,
+          19
+        ],
+        "note": "补出三则请客故事，作为人情世态小故事组的一层。"
+      },
+      {
+        "book": "启发你的小故事",
+        "chapter": "007.“谁是涂咪咪？”",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/005.启发你的小故事/007.“谁是涂咪咪？”.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          7,
+          9,
+          11
+        ],
+        "note": "补出名媛故作不知与书生真不知的对照。"
+      }
+    ],
+    "crossReferences": [
+      "zhongguo-yishu-xinyan-1980-undated-shi-dejin-sketches-hu-yinmeng-at-li-ang-home-gift",
+      "wencun-1979-08-22-letter-to-meng-juezi",
+      "weiwenxue-kaichuang-1965-07-01-to-1966-08-25-qiongyao-chuangwai-debate"
+    ],
+    "round": "2026-07-08-qifa-ni-de-xiaogushi-round001-tici-001-020"
+  },
+  {
+    "id": "qifa-ni-de-xiaogushi-1988-11-05-writes-liang-shiqiu-typewriter-search-critique",
+    "date": "1988-11-05",
+    "displayDate": "1988年11月5日",
+    "datePrecision": "day",
+    "title": "李敖写《梁实秋偷打字机？》，以亲闻版本还原白色恐怖搜查并批梁实秋软弱",
+    "summary": "1988年11月5日，梁实秋去世一年后，李敖读梁文蔷和吴奚真对德惠街搜查事件的回忆，补出自己在文星时期亲闻于梁实秋的版本：治安人员以美国新闻处丢打字机为名闯入搜查，并拿着梁家的平面图翻箱倒柜。李敖判断，这既是查梁实秋与民社党、罗隆基等关系，也是警告非国民党知识分子识相；他继而批评梁实秋此后长期配合党国文艺场合。本条单列梁实秋搜查与软弱批判，不重复2009年节目重讲。",
+    "view": [
+      "写作线",
+      "政治线",
+      "人物线"
+    ],
+    "tags": [
+      "启发你的小故事",
+      "梁实秋",
+      "白色恐怖",
+      "美国新闻处",
+      "民社党",
+      "人权论集"
+    ],
+    "people": [
+      "李敖",
+      "梁实秋",
+      "梁文蔷",
+      "吴奚真",
+      "吴国桢",
+      "罗隆基",
+      "张君劢"
+    ],
+    "places": [
+      "德惠街",
+      "台湾",
+      "美国新闻处"
+    ],
+    "works": [
+      "启发你的小故事",
+      "梁实秋偷打字机？",
+      "德惠街一号",
+      "人权论集"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "启发你的小故事",
+      "chapter": "008.梁实秋偷打字机？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/005.启发你的小故事/008.梁实秋偷打字机？.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15
+      ]
+    },
+    "crossReferences": [
+      "li-ao-yumiao-tianxia-064-explains-liang-fear-with-typewriter-search",
+      "1959-05-09-human-rights-direction",
+      "li-ao-qingshuji-1962-11-20-g-letter-052-liang-shiqiu-home-talk"
+    ],
+    "round": "2026-07-08-qifa-ni-de-xiaogushi-round001-tici-001-020"
+  },
+  {
+    "id": "qifa-ni-de-xiaogushi-1989-11-30-writes-liu-shaotang-advice-and-you-qing-housing-critique",
+    "date": "1989-11-30",
+    "displayDate": "1989年11月30日",
+    "datePrecision": "day",
+    "title": "李敖忆刘绍唐党政关系旧话，判断蜗牛族不该相信尤清住宅承诺",
+    "summary": "1989年11月30日，李敖读“蜗牛族”支持尤清参选台北县长及尤清承诺自力造屋的报道，想起刘绍唐二十年前谈查良鉴和郑彦棻的一段话：在国民党统治下，做成事不仅看学问与形象，更要看党政关系。李敖据此判断尤清缺乏党政关系，住宅承诺只会变成抽象梦境；李锡锟虽无能，反而可能具体搬出几块砖。本条单列刘绍唐旧话转化为1989年台北县长选举判断的节点。",
+    "view": [
+      "写作线",
+      "政治线",
+      "交游线"
+    ],
+    "tags": [
+      "启发你的小故事",
+      "刘绍唐",
+      "尤清",
+      "李锡锟",
+      "蜗牛族",
+      "台北县长选举"
+    ],
+    "people": [
+      "李敖",
+      "刘绍唐",
+      "尤清",
+      "李锡锟",
+      "查良鉴",
+      "郑彦棻"
+    ],
+    "places": [
+      "台北县",
+      "台湾"
+    ],
+    "works": [
+      "启发你的小故事",
+      "忆绍唐大哥的一段话",
+      "传记文学"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "启发你的小故事",
+      "chapter": "009.忆绍唐大哥的一段话",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/005.启发你的小故事/009.忆绍唐大哥的一段话.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        11,
+        13,
+        15
+      ]
+    },
+    "crossReferences": [
+      "li-ao-lun-renwu-1983-12-05-to-1991-after-writes-contemporary-politics-essays",
+      "qiushi-xinyu-1989-12-21-world-forum-uses-li-ao-column"
+    ],
+    "round": "2026-07-08-qifa-ni-de-xiaogushi-round001-tici-001-020"
+  },
+  {
+    "id": "qifa-ni-de-xiaogushi-1989-07-22-to-1991-04-08-writes-willpower-and-no-despair",
+    "date": "1989-07-22",
+    "endDate": "1991-04-08",
+    "displayDate": "1989年7月22日至1991年4月8日",
+    "datePrecision": "date-range",
+    "title": "李敖从“怀忧丧志”到戒烟意志，把逆境中不泄气写成一组意志论",
+    "summary": "1989年7月22日，李敖写《好人不可“怀忧丧志”》，从狱中读《总统蒋公哀思录》里的遗嘱文字出发，比较蒋介石、毛泽东、孙中山和吴汉在逆境中的不泄气，归结为好人也应学习顽强意志。1991年4月8日，他又写《只靠一句话，他就戒了烟》，借行政院卫生署、董氏基金会“戒烟站”和艾森豪威尔戒烟故事，强调训练课程不如训练意志。本条按意志与逆境主题合并，不拆成蒋介石、毛泽东、戒烟站等多条。",
+    "view": [
+      "写作线",
+      "思想线",
+      "政治线"
+    ],
+    "tags": [
+      "启发你的小故事",
+      "怀忧丧志",
+      "意志力",
+      "戒烟站",
+      "艾森豪威尔",
+      "吴汉"
+    ],
+    "people": [
+      "李敖",
+      "蒋介石",
+      "毛泽东",
+      "孙中山",
+      "吴汉",
+      "艾森豪威尔"
+    ],
+    "places": [
+      "台湾",
+      "景美军法处看守所"
+    ],
+    "works": [
+      "启发你的小故事",
+      "好人不可“怀忧丧志”",
+      "只靠一句话，他就戒了烟",
+      "总统蒋公哀思录"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "启发你的小故事",
+      "chapter": "016.好人不可“怀忧丧志”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/005.启发你的小故事/016.好人不可“怀忧丧志”.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15,
+        17,
+        19,
+        21
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "启发你的小故事",
+        "chapter": "010.只靠一句话，他就戒了烟",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/005.启发你的小故事/010.只靠一句话，他就戒了烟.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          7,
+          15,
+          17,
+          19,
+          21,
+          23,
+          25
+        ],
+        "note": "补出戒烟站与艾森豪威尔故事，作为同一意志论的生活层面。"
+      }
+    ],
+    "crossReferences": [
+      "jiangjieshi-yanjiu-xuji-1985-02-25-to-1987-01-05-debunks-chiang-deification-will-coffin-books-and-ghostwriting",
+      "li-ao-yumiao-tianxia-068-jokes-quit-smoking-and-critiques-dong-foundation",
+      "li-ao-mimi-shufang-074-calls-for-new-opposition-party-to-restrain-chen"
+    ],
+    "round": "2026-07-08-qifa-ni-de-xiaogushi-round001-tici-001-020"
+  },
+  {
+    "id": "qifa-ni-de-xiaogushi-1991-05-13-writes-intellectuals-late-anti-persecution-critique",
+    "date": "1991-05-13",
+    "displayDate": "1991年5月13日",
+    "datePrecision": "day",
+    "title": "李敖写《大丈夫岂可火烧自己才讲话》，批知识分子只在迫害烧到自己时才抗争",
+    "summary": "1991年5月13日，李敖读教授与学生在中正纪念堂反政治迫害、要求释放陈正然、廖伟程、王秀惠、林银福等人的消息，肯定抗争本身，却冷笑其时机。他回述1968年柏杨被捕后自己冒险写信给孙观汉、主张海外公开施压，以及孙观汉1973年公开承认求情无效的过程；又批孙观汉等知识分子在柏杨出狱后不再推广人权抗争，属于火烧自己或亲友才讲话。本条把陈正然等人、柏杨旧案和孙观汉反思合成一条知识分子迟到抗争批评，不拆旧案逐日细节。",
+    "view": [
+      "写作线",
+      "政治线",
+      "思想线"
+    ],
+    "tags": [
+      "启发你的小故事",
+      "反政治迫害",
+      "白色恐怖",
+      "柏杨",
+      "孙观汉",
+      "知识分子"
+    ],
+    "people": [
+      "李敖",
+      "柏杨",
+      "孙观汉",
+      "陈正然",
+      "廖伟程",
+      "王秀惠",
+      "林银福",
+      "高玉树",
+      "翁大铭"
+    ],
+    "places": [
+      "中正纪念堂",
+      "台湾",
+      "香港",
+      "美国"
+    ],
+    "works": [
+      "启发你的小故事",
+      "大丈夫岂可火烧自己才讲话",
+      "李敖谈柏杨的冤狱",
+      "全民反政治迫害联合宣言"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "启发你的小故事",
+      "chapter": "011.大丈夫岂可火烧自己才讲话",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/005.启发你的小故事/011.大丈夫岂可火烧自己才讲话.txt",
+      "line": 3,
+      "lines": [
+        3,
+        9,
+        11,
+        13,
+        15,
+        19,
+        25,
+        27,
+        33,
+        39,
+        41,
+        47,
+        49,
+        51
+      ]
+    },
+    "crossReferences": [
+      "book5-1968-03-28-secret-letter-to-sun-kuanhan-for-bai-yang",
+      "book5-1973-06-sun-publishes-li-on-bai-yang-wrongful-imprisonment",
+      "chouloude-zhongguoren-yanjiu-1984-02-02-to-04-06-organizes-baiyang-rescue-record-and-witnesses"
+    ],
+    "round": "2026-07-08-qifa-ni-de-xiaogushi-round001-tici-001-020"
+  },
+  {
+    "id": "qifa-ni-de-xiaogushi-1983-07-14-writes-hit-low-level-political-attackers-too",
+    "date": "1983-07-14",
+    "displayDate": "1983年7月14日",
+    "datePrecision": "day",
+    "title": "李敖写《只好连狗一起打》，用《西游记》比喻政治斗争中的低级侧翼",
+    "summary": "1983年7月14日，李敖写《只好连狗一起打》，从《西游记》里孙悟空与二郎神作战、最后被暗器和细犬夹击的情节，发展出政治斗争中的“下驷”战术：统治者常放出不入流者纠缠真正对手，使对方因“犯而不校”的优点而受困。他又回忆1971至1972年在警备总部保安处看守所听所长罗永黎自嘲“神仙、老虎、狗”，由此主张对小人纠缠也要迎头痛击。本条单列1983年原文，并串联后续节目重讲。",
+    "view": [
+      "写作线",
+      "政治线",
+      "思想线"
+    ],
+    "tags": [
+      "启发你的小故事",
+      "只好连狗一起打",
+      "西游记",
+      "政治斗争",
+      "保安处看守所",
+      "罗永黎"
+    ],
+    "people": [
+      "李敖",
+      "孙悟空",
+      "二郎神",
+      "太上老君",
+      "罗永黎",
+      "雷震"
+    ],
+    "places": [
+      "警备总部保安处看守所",
+      "台湾"
+    ],
+    "works": [
+      "启发你的小故事",
+      "只好连狗一起打",
+      "西游记",
+      "千秋评论号外"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "启发你的小故事",
+      "chapter": "012.只好连狗一起打",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/005.启发你的小故事/012.只好连狗一起打.txt",
+      "line": 3,
+      "lines": [
+        3,
+        7,
+        17,
+        19,
+        23,
+        25,
+        27,
+        31,
+        33,
+        35,
+        37
+      ]
+    },
+    "crossReferences": [
+      "book7-1971-1972-hears-luo-yongli-describe-himself-as-god-tiger-dog-in-detention",
+      "li-ao-diandao-zhongsheng-044-shows-qianqiu-essay-and-explains-hit-dogs-too-style",
+      "li-ao-youhua-shuo-350-uses-erlang-dog-and-roadblocks-to-explain-unavoidable-low-level-enemies"
+    ],
+    "round": "2026-07-08-qifa-ni-de-xiaogushi-round001-tici-001-020"
+  },
+  {
+    "id": "qifa-ni-de-xiaogushi-1988-12-06-writes-whose-rice-and-political-symbiosis",
+    "date": "1988-12-06",
+    "displayDate": "1988年12月6日",
+    "datePrecision": "day",
+    "title": "李敖写《吃谁的饭？》，由丘延亮案推演政治敌我共生饭局",
+    "summary": "1988年12月6日，李敖写《吃谁的饭？》，从蒋纬国探望被关在景美军法处看守所的丘延亮说起：丘延亮回嘴自己吃老百姓的饭，但最终仍因蒋家亲缘获得刑期对折，陈映真等同案人也一体借光。李敖再用柳下惠、王导、诸葛亮空城计等故事，推演政治人物常靠亲人、敌人甚至对手吃饭，国民党、民进党、台独和美丽岛之间也形成可耻共生。本条单列“吃谁的饭”政治共生论，不重复丘延亮旧案本身。",
+    "view": [
+      "写作线",
+      "政治线",
+      "思想线"
+    ],
+    "tags": [
+      "启发你的小故事",
+      "丘延亮",
+      "蒋纬国",
+      "陈映真",
+      "政治共生",
+      "空城计"
+    ],
+    "people": [
+      "李敖",
+      "丘延亮",
+      "蒋纬国",
+      "陈映真",
+      "章太炎",
+      "柳下惠",
+      "王导",
+      "诸葛亮",
+      "司马懿"
+    ],
+    "places": [
+      "景美军法处看守所",
+      "台湾"
+    ],
+    "works": [
+      "启发你的小故事",
+      "吃谁的饭？",
+      "广论语骈枝"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "启发你的小故事",
+      "chapter": "013.吃谁的饭？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/005.启发你的小故事/013.吃谁的饭？.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11
+      ]
+    },
+    "crossReferences": [
+      "zhongguo-xing-yanjiu-1987-10-19-writes-genital-relations-benefits-kmt-network",
+      "lunding-jiangjingguo-1988-01-13-to-01-20-writes-two-final-judgment-essays"
+    ],
+    "round": "2026-07-08-qifa-ni-de-xiaogushi-round001-tici-001-020"
+  },
+  {
+    "id": "qifa-ni-de-xiaogushi-1983-07-01-to-1988-07-22-writes-false-spy-and-fake-communist-critiques",
+    "date": "1983-07-01",
+    "endDate": "1988-07-22",
+    "displayDate": "1983年7月1日至1988年7月22日",
+    "datePrecision": "date-range",
+    "title": "李敖从“缴匪谍”写到台湾假共产党，揭白色恐怖假案与左倾幼稚病",
+    "summary": "1983年7月1日，李敖写《从“缴耳朵”到“缴匪谍”》，把蒙古缴耳朵、明代缴私盐、现代缴小偷和罚单，连到警总军法处为表现成绩而制造假匪谍，并以黄中国案作例证。1988年7月22日，他又写《台湾的假共产党》，回忆范子文在景美军法处看守所说牢里都是假货，进而区分冤狱产品和“左倾幼稚病”产品，批台湾假共产党既不懂真共产党的长处，又拿左派招牌倒退。本条合并014至015，避免重复拆黄中国、范子文和各左派名目。",
+    "view": [
+      "写作线",
+      "政治线",
+      "司法线"
+    ],
+    "tags": [
+      "启发你的小故事",
+      "白色恐怖",
+      "缴匪谍",
+      "黄中国",
+      "范子文",
+      "假共产党",
+      "左倾幼稚病"
+    ],
+    "people": [
+      "李敖",
+      "黄中国",
+      "李国龙",
+      "范子文",
+      "满素玉",
+      "克里蒙梭"
+    ],
+    "places": [
+      "警总军法处",
+      "景美军法处看守所",
+      "台湾"
+    ],
+    "works": [
+      "启发你的小故事",
+      "从“缴耳朵”到“缴匪谍”",
+      "台湾的假共产党",
+      "礼记"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "启发你的小故事",
+      "chapter": "014.从“缴耳朵”到“缴匪谍”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/005.启发你的小故事/014.从“缴耳朵”到“缴匪谍”.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "启发你的小故事",
+        "chapter": "015.台湾的假共产党",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/005.启发你的小故事/015.台湾的假共产党.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          7,
+          9,
+          13,
+          15
+        ],
+        "note": "补出冤狱产品与左倾幼稚病两类假共产党分析。"
+      }
+    ],
+    "crossReferences": [
+      "baise-kongbu-shuqi-1996-06-08-frames-white-terror-fake-communist-cases",
+      "book5-1972-07-14-huang-zhongguo-enters-cell",
+      "book5-1972-11-01-witnesses-huang-execution-source5"
+    ],
+    "round": "2026-07-08-qifa-ni-de-xiaogushi-round001-tici-001-020"
+  },
+  {
+    "id": "qifa-ni-de-xiaogushi-1986-09-07-writes-material-king-and-evidence-method",
+    "date": "1986-09-07",
+    "displayDate": "1986年9月7日",
+    "datePrecision": "day",
+    "title": "李敖写《资料大王小谈》，说明大规模收藏如何成为文章和诉讼证据基础",
+    "summary": "1986年9月7日，李敖写《资料大王小谈》，把自己收藏资料的原则概括为“贪多务得，细大不捐”。他举胡金铨找门符、沈登恩印《虎魄》找照片、东方望庭上否认笔名而他拿出版样、萧孟能复刊《文星》不见李敖笔墨而他拿出捉刀原稿等例子，说明资料在文章、诉讼和反击中的证据作用。本条单列李敖资料方法论，不拆每个材料轶事。",
+    "view": [
+      "写作线",
+      "出版线",
+      "司法线"
+    ],
+    "tags": [
+      "启发你的小故事",
+      "资料大王",
+      "资料收藏",
+      "证据",
+      "胡金铨",
+      "沈登恩",
+      "东方望",
+      "萧孟能"
+    ],
+    "people": [
+      "李敖",
+      "胡金铨",
+      "沈登恩",
+      "东方望",
+      "萧孟能",
+      "陈香梅"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "启发你的小故事",
+      "资料大王小谈",
+      "虎魄",
+      "文星"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "启发你的小故事",
+      "chapter": "017.资料大王小谈",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/005.启发你的小故事/017.资料大王小谈.txt",
+      "line": 3,
+      "lines": [
+        3,
+        7,
+        9,
+        11,
+        13,
+        15,
+        17
+      ]
+    },
+    "crossReferences": [
+      "micang-diary-1978-10-28-declines-king-hu-meeting-via-shen-dengen",
+      "li-ao-lun-renwu-1979-to-1991-writes-hu-jinquan-wang-qixiang-jiangnan-and-huang-san-essays",
+      "li-ao-zawenji-1966-before-feb-chen-xiangmei-humphrey-article-rewritten-by-li"
+    ],
+    "round": "2026-07-08-qifa-ni-de-xiaogushi-round001-tici-001-020"
+  },
+  {
+    "id": "qifa-ni-de-xiaogushi-1989-05-25-writes-chinese-journalists-decline",
+    "date": "1989-05-25",
+    "displayDate": "1989年5月25日",
+    "datePrecision": "day",
+    "title": "李敖写《中国新闻工作者的没落》，以外国记者晚餐和报禁史批台湾新闻自由",
+    "summary": "1989年5月25日，李敖写《中国新闻工作者的没落》。他先记5月22日与伊梦兰、黄明、孔安远、陈美慧、王建辉、陈中雄等外国媒体和亚洲周刊记者晚餐，席间直称国民党统治下新闻自由是假戏，连自己花钱登广告都登不出。随后他比较满清、军阀、租界和台湾的办报环境，认为国民党根本不许办报，比旧时代更坏；即使开放报禁，两大报垄断市场也使独立言论难以发展。他还回忆十年前在楚崧秋、宋楚瑜邀宴上当面点破余纪忠所谓公平竞争。本条单列新闻自由与报业垄断批判。",
+    "view": [
+      "写作线",
+      "媒体线",
+      "政治线"
+    ],
+    "tags": [
+      "启发你的小故事",
+      "新闻自由",
+      "报禁",
+      "中国时报",
+      "联合报",
+      "余纪忠",
+      "外国记者"
+    ],
+    "people": [
+      "李敖",
+      "伊梦兰",
+      "黄明",
+      "孔安远",
+      "陈美慧",
+      "王建辉",
+      "陈中雄",
+      "楚崧秋",
+      "宋楚瑜",
+      "余纪忠"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "上海租界"
+    ],
+    "works": [
+      "启发你的小故事",
+      "中国新闻工作者的没落",
+      "中国时报",
+      "联合报"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "启发你的小故事",
+      "chapter": "018.中国新闻工作者的没落",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/005.启发你的小故事/018.中国新闻工作者的没落.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15,
+        17
+      ]
+    },
+    "crossReferences": [
+      "li-ao-shuzhaji-1983-02-08-night-writes-gao-xinjiang-on-leaving-china-times-and-own-path",
+      "gei-guomindang-nankan-1987-05-08-to-1991-06-20-writes-party-paper-central-daily-and-young-china-daily-essays",
+      "li-ao-dageda-101-reconstructs-38-year-newspaper-ban-and-special-permit-logic"
+    ],
+    "round": "2026-07-08-qifa-ni-de-xiaogushi-round001-tici-001-020"
+  },
+  {
+    "id": "qifa-ni-de-xiaogushi-1991-03-08-writes-one-sided-morality-critique",
+    "date": "1991-03-08",
+    "displayDate": "1991年3月8日",
+    "datePrecision": "day",
+    "title": "李敖写《我看不起“单面的道德”》，从二二八、以色列和萧孟能案批伪善正义",
+    "summary": "1991年3月8日，李敖写《我看不起“单面的道德”》。他先批二二八叙事只看台湾人之死而不提外省人和高山族之亡，又举伊拉克、以色列、清教徒遇海盗和巴顿掌掴小兵等例子，说明只要求对方克制、只计算自己受害，是伪君子的道德。最后他回到萧孟能与萧太太、胡茵梦伪证、《求是报》连载自传等个人旧案，指出正人君子对别人诬谤沉默、对他澄清真相却反应不佳，也是一种单面道德。本条合并国际例子与萧孟能案回述，不重复重造旧案。",
+    "view": [
+      "写作线",
+      "政治线",
+      "司法线"
+    ],
+    "tags": [
+      "启发你的小故事",
+      "单面的道德",
+      "二二八",
+      "萧孟能",
+      "胡茵梦",
+      "求是报",
+      "伪善"
+    ],
+    "people": [
+      "李敖",
+      "萧孟能",
+      "胡茵梦",
+      "巴顿",
+      "富兰克林",
+      "赫尔"
+    ],
+    "places": [
+      "台湾",
+      "伊拉克",
+      "以色列",
+      "美国"
+    ],
+    "works": [
+      "启发你的小故事",
+      "我看不起“单面的道德”",
+      "求是报"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "启发你的小故事",
+      "chapter": "020.我看不起“单面的道德”",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/005.启发你的小故事/020.我看不起“单面的道德”.txt",
+      "line": 3,
+      "lines": [
+        3,
+        7,
+        9,
+        11,
+        13,
+        15,
+        17,
+        19,
+        21,
+        23
+      ]
+    },
+    "crossReferences": [
+      "gei-guomindang-nankan-1983-05-15-to-1991-02-13-writes-kmt-smear-repression-and-personal-evidence-essays",
+      "book2-1980-08-26-xiao-accuses-li-embezzlement",
+      "li-ao-shujianji-1981-02-28-dawn-writes-times-weekly-on-hu-yinmeng-sandwich-claim",
+      "lingyimian-228-1989-03-02-to-1992-03-20-frames-mutual-victimhood-and-228-positioning"
+    ],
+    "round": "2026-07-08-qifa-ni-de-xiaogushi-round001-tici-001-020"
+  },
+  {
+    "id": "qifa-ni-de-xiaogushi-1982-04-20-defends-lin-qingxia-tax-case-and-patriotic-donation",
+    "date": "1982-04-20",
+    "displayDate": "1982年4月20日",
+    "datePrecision": "day",
+    "title": "李敖写《替林青霞说几句话》，从捐自强爱国基金转入税吏作风批判",
+    "summary": "1982年4月20日，李敖写《替林青霞说几句话》。他先回忆1981年第二次政治犯入狱前不久，林青霞到家中晚餐并谈到上进过程中的委屈；再接4月17日国税局称影星漏税新闻，说明林青霞曾一捐“自强爱国基金”一百万元却反被追查来源，因而替她反击税吏不识大体、收礼打秋风和把爱国者当漏税者的作风。本条只收李敖为林青霞公开辩护及税政批评的写作节点，不把林青霞演艺生涯或旧日饭局另拆。",
+    "view": [
+      "写作线",
+      "交游线",
+      "政治线"
+    ],
+    "tags": [
+      "启发你的小故事",
+      "林青霞",
+      "漏税",
+      "自强爱国基金",
+      "税吏作风"
+    ],
+    "people": [
+      "李敖",
+      "林青霞",
+      "胡茵梦"
+    ],
+    "places": [
+      "台湾",
+      "台北"
+    ],
+    "works": [
+      "启发你的小故事",
+      "替林青霞说几句话"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "启发你的小故事",
+      "chapter": "021.替林青霞说几句话",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/005.启发你的小故事/021.替林青霞说几句话.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        15,
+        19,
+        25,
+        27,
+        29,
+        31
+      ]
+    },
+    "crossReferences": [
+      "li-ao-dageda-001-recalls-lin-qingxia-at-his-home",
+      "dream-awake-2011-07-23-meets-brigitte-lin-after-book-fair-lecture"
+    ],
+    "round": "2026-07-08-qifa-ni-de-xiaogushi-round002-021-040"
+  },
+  {
+    "id": "qifa-ni-de-xiaogushi-1982-02-23-to-1988-11-01-writes-courage-isolation-and-anti-election-independence",
+    "date": "1982-02-23",
+    "endDate": "1988-11-01",
+    "displayDate": "1982年2月23日至1988年11月1日",
+    "datePrecision": "date-range",
+    "title": "李敖把出狱后的勇气、不怕孤立和反竞选清高写成知识分子政治人格论",
+    "summary": "1982年2月23日至1988年11月1日，李敖在三篇小文里反复整理知识分子的政治人格。《我们是最有勇气的人》写第二次政治犯出狱后，邓维桢带来张志远画作并自称勇气不够，李敖反说在国民党统治优势下继续批判的人才是最有勇气；《不怕孤立，才有独立》借林希翎访台、陈独秀和斯宾诺莎等例子，归纳“不怕孤立”是独立人格的基点；《反竞选的清高》则从土城看守所结识刘峯松、支持翁金珠，到矢内原忠雄反竞选故事，说明第一流知识分子不应落入选举泥沼。本条合并三章的勇气/孤立/反竞选主题，不逐一拆成牢中邻居、来访画像或林希翎短札。",
+    "view": [
+      "思想线",
+      "政治线",
+      "写作线"
+    ],
+    "tags": [
+      "启发你的小故事",
+      "勇气",
+      "不怕孤立",
+      "反竞选",
+      "知识分子",
+      "政治人格"
+    ],
+    "people": [
+      "李敖",
+      "邓维桢",
+      "张志远",
+      "刘峯松",
+      "翁金珠",
+      "林希翎",
+      "陈独秀",
+      "矢内原忠雄"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "土城看守所"
+    ],
+    "works": [
+      "启发你的小故事",
+      "我们是最有勇气的人",
+      "不怕孤立，才有独立",
+      "反竞选的清高",
+      "教育与人"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "启发你的小故事",
+      "chapter": "038.不怕孤立，才有独立",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/005.启发你的小故事/038.不怕孤立，才有独立.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        11,
+        13,
+        17,
+        19,
+        23,
+        25
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "启发你的小故事",
+        "chapter": "023.我们是最有勇气的人",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/005.启发你的小故事/023.我们是最有勇气的人.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          7,
+          9,
+          11,
+          13
+        ],
+        "note": "补出第二次政治犯出狱后与邓维桢谈勇气的一面。"
+      },
+      {
+        "book": "启发你的小故事",
+        "chapter": "022.反竞选的清高",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/005.启发你的小故事/022.反竞选的清高.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          7,
+          9
+        ],
+        "note": "补出刘峯松、翁金珠与反竞选清高的政治人格论。"
+      }
+    ],
+    "crossReferences": [
+      "jingfumen-1981-08-11-meets-liu-fengsong-in-tucheng",
+      "lengyan-kan-taiwan-1983-11-08-to-1986-11-20-writes-lin-yongfeng-su-dongqi-weng-jinzhu-dangwai-moral-support",
+      "li-ao-zhaji-1985-10-13-declines-meeting-lin-xiling"
+    ],
+    "round": "2026-07-08-qifa-ni-de-xiaogushi-round002-021-040"
+  },
+  {
+    "id": "qifa-ni-de-xiaogushi-1982-03-15-writes-robin-hood-preparation-after-zhang-guojie-case",
+    "date": "1982-03-15",
+    "displayDate": "1982年3月15日病后作",
+    "datePrecision": "day",
+    "title": "李敖写《罗宾汉的心理准备》，从张国杰案后反咬谈英雄面对忘恩负义",
+    "summary": "1982年3月15日，李敖病后写《罗宾汉的心理准备》。四季出版公司广告与《亚洲人》杂志都把他出狱后救冤案、张国杰被判无罪又反称监狱“大致还不错”的反差摆在眼前；李敖由此转入罗宾汉、七武士和英雄豪杰对匹夫匹妇现实、健忘、忘恩负义的心理准备，认为英雄即使在欢呼或啐骂中仍要走上前去。本条只收李敖用张国杰案后续整理“社会罗宾汉”自我定位的写作节点，不重复张国杰呼冤书和十年笔伐总线。",
+    "view": [
+      "写作线",
+      "司法线",
+      "思想线"
+    ],
+    "tags": [
+      "启发你的小故事",
+      "罗宾汉",
+      "张国杰",
+      "黑牢",
+      "忘恩负义",
+      "英雄心理"
+    ],
+    "people": [
+      "李敖",
+      "张国杰",
+      "罗宾汉",
+      "小约翰",
+      "黑泽明"
+    ],
+    "places": [
+      "台湾",
+      "英格兰",
+      "诺丁罕郡",
+      "雪伍德森林"
+    ],
+    "works": [
+      "启发你的小故事",
+      "罗宾汉的心理准备",
+      "李敖千秋评论丛书",
+      "李敖全集",
+      "亚洲人"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "启发你的小故事",
+      "chapter": "024.罗宾汉的心理准备",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/005.启发你的小故事/024.罗宾汉的心理准备.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        9,
+        15,
+        17,
+        21,
+        23,
+        29,
+        33
+      ]
+    },
+    "crossReferences": [
+      "book5-1982-to-1992-ten-year-pen-war-against-kmt",
+      "li-ao-duihualu-1982-03-16-li-ning-interviews-li-ao-for-politicalist-cover"
+    ],
+    "round": "2026-07-08-qifa-ni-de-xiaogushi-round002-021-040"
+  },
+  {
+    "id": "qifa-ni-de-xiaogushi-1989-09-30-recalls-xu-guotai-election-support-and-taoyuan-clique",
+    "date": "1989-09-30",
+    "displayDate": "1989年9月30日",
+    "datePrecision": "day",
+    "title": "李敖写《我与桃园帮》，回顾征召许国泰并批桃园帮忘恩凉薄",
+    "summary": "1989年9月30日，李敖写《我与桃园帮》。他回忆十年前许信良透过邓维桢求见时，自己以“不团结就是力量”回应；1983年选举又劝许国泰出马、替他写《我们征召许国泰》，并请黄玉娇借一百万元救急，自己担保义务代办杂志。许国泰败选后，李敖还以林肯九败鼓励他，后来许国泰当选却三年不再登门、钱也未还，李敖转而批评桃园帮未让黄玉娇偿宿愿，做人凉薄。本条把旧助选、借款担保和1989年对桃园帮的道德结账合为一条，不把全文所引助选文再拆成一条。",
+    "view": [
+      "政治线",
+      "交游线",
+      "写作线"
+    ],
+    "tags": [
+      "启发你的小故事",
+      "桃园帮",
+      "许国泰",
+      "许信良",
+      "黄玉娇",
+      "党外选举"
+    ],
+    "people": [
+      "李敖",
+      "许信良",
+      "邓维桢",
+      "许国泰",
+      "张德铭",
+      "黄玉娇",
+      "林肯"
+    ],
+    "places": [
+      "台湾",
+      "桃园",
+      "中坜"
+    ],
+    "works": [
+      "启发你的小故事",
+      "我与桃园帮",
+      "我们征召许国泰"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "启发你的小故事",
+      "chapter": "025.我与桃园帮",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/005.启发你的小故事/025.我与桃园帮.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15,
+        17,
+        19
+      ]
+    },
+    "crossReferences": [
+      "fayan-kan-taiwan-1983-09-to-10-08-writes-xu-guotai-xu-rongshu-meng-xiangke-election-appeals",
+      "li-ao-lun-renwu-1983-12-05-to-1991-after-writes-contemporary-politics-essays",
+      "micang-diary-1985-01-11-hears-yujiao-report-public-politics-association-result"
+    ],
+    "round": "2026-07-08-qifa-ni-de-xiaogushi-round002-021-040"
+  },
+  {
+    "id": "qifa-ni-de-xiaogushi-1984-06-05-writes-tao-baichuan-parole-moon-political-prisoner-critique",
+    "date": "1984-06-05",
+    "displayDate": "1984年6月5日",
+    "datePrecision": "day",
+    "title": "李敖写《他们配做“明月”吗？》，斥陶百川用减刑假释污蔑政治犯硬骨头",
+    "summary": "1984年6月5日，李敖写《他们配做“明月”吗？》。他抓住陶百川在《自立晚报》呼吁减刑、假释时提到一名官员抱怨“某某”出狱后仍反政府的说法，明白指出“某某”就是李敖，并反击陶百川把政治犯说成若提前假释便会“心向明月、改过迁善”。李敖认为有志气的政治犯本来就不悔改，陶百川奴颜卑膝地把他们送作国民党“明月”的供品，正暴露国民党自大狂。本条作为政治犯假释话语批判新增，并挂回陶百川和党国司法宣传旧线。",
+    "view": [
+      "政治线",
+      "司法线",
+      "写作线"
+    ],
+    "tags": [
+      "启发你的小故事",
+      "陶百川",
+      "政治犯",
+      "假释",
+      "减刑",
+      "国民党"
+    ],
+    "people": [
+      "李敖",
+      "陶百川",
+      "蒋介石"
+    ],
+    "places": [
+      "台湾"
+    ],
+    "works": [
+      "启发你的小故事",
+      "他们配做“明月”吗？",
+      "自立晚报"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "启发你的小故事",
+      "chapter": "026.他们配做“明月”吗？",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/005.启发你的小故事/026.他们配做“明月”吗？.txt",
+      "line": 3,
+      "lines": [
+        3,
+        9,
+        13,
+        15,
+        17,
+        19
+      ]
+    },
+    "crossReferences": [
+      "baiyan-kan-taiwan-1982-05-06-to-1982-05-29-writes-tao-baichuan-youth-party-and-kmt-family-lesson",
+      "guomindang-choushi-1981-07-27-to-1984-08-20-writes-party-paper-judicial-smear-and-political-prisoner-parole-essays"
+    ],
+    "round": "2026-07-08-qifa-ni-de-xiaogushi-round002-021-040"
+  },
+  {
+    "id": "qifa-ni-de-xiaogushi-1984-07-27-to-1986-08-14-writes-hu-xuyi-lei-zhen-memory-politics",
+    "date": "1984-07-27",
+    "endDate": "1986-08-14",
+    "displayDate": "1984年7月27日至1986年8月14日",
+    "datePrecision": "date-range",
+    "title": "李敖从厕所里的道歉写到雷震房车特权，连续批胡虚一式雷震记忆政治",
+    "summary": "1984年7月27日至1986年8月14日，李敖围绕胡虚一、雷震和殷海光记忆连续写作。《厕所里的道歉》记录胡虚一电话说参加《八十年代》殷海光座谈会，司马文武因《暖流》雷震日记风波私下致歉，李敖借厕所笑话要求公开道歉，并指出他们是在做秀而非实事。两年后的《对胡老师感想的感想》，李敖又批胡虚一替雷震谒陵、公宅、私车、汤恩伯赠车和两万元大头等特权辩护，认为这些所谓“清白”正显示党国公私不分。本条把两篇胡虚一/雷震相关文字合并，不另拆雷震家每一项财产。",
+    "view": [
+      "写作线",
+      "政治线",
+      "交游线"
+    ],
+    "tags": [
+      "启发你的小故事",
+      "胡虚一",
+      "雷震",
+      "殷海光",
+      "司马文武",
+      "雷震日记"
+    ],
+    "people": [
+      "李敖",
+      "胡虚一",
+      "雷震",
+      "司马文武",
+      "殷海光",
+      "汤恩伯",
+      "刘玉章"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "上海",
+      "南京"
+    ],
+    "works": [
+      "启发你的小故事",
+      "厕所里的道歉",
+      "对胡老师感想的感想",
+      "八十年代",
+      "暖流",
+      "雷震日记风波",
+      "自由中国"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "启发你的小故事",
+      "chapter": "033.对胡老师感想的感想",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/005.启发你的小故事/033.对胡老师感想的感想.txt",
+      "line": 3,
+      "lines": [
+        3,
+        7,
+        11,
+        13,
+        19,
+        21,
+        37,
+        39,
+        41
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "启发你的小故事",
+        "chapter": "028.厕所里的道歉",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/005.启发你的小故事/028.厕所里的道歉.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          7,
+          9
+        ],
+        "note": "补出1984年胡虚一电话、司马文武私下致歉与公开道歉原则。"
+      }
+    ],
+    "crossReferences": [
+      "fayan-kan-taiwan-1983-05-19-to-05-28-writes-eighties-defamation-settlement-and-hu-qiuyuan-memory",
+      "lengyan-kan-taiwan-1987-03-07-inferred-files-defamation-complaint-over-asian-and-li-ao-is-dead",
+      "book5-1984-02-05-letter-to-yu-jizhong"
+    ],
+    "round": "2026-07-08-qifa-ni-de-xiaogushi-round002-021-040"
+  },
+  {
+    "id": "qifa-ni-de-xiaogushi-1984-09-22-to-1984-11-08-writes-sacrifice-and-political-standard-critiques",
+    "date": "1984-09-22",
+    "endDate": "1984-11-08",
+    "displayDate": "1984年9月22日至11月8日",
+    "datePrecision": "date-range",
+    "title": "李敖从《祈战死》到鹦鹉散记，劝党外面对牺牲并批林义雄出狱后的政治规格",
+    "summary": "1984年9月22日至11月8日，李敖把党外政治伦理写成一组牺牲与规格批评。《祈战死》记9月18日刘峯松、周清玉来访，9月20日晚他与郑南榕到周清玉家送《你有郑文良，我有赖文良》稿，并以梁启超《祈战死》、甘地和印度牺牲者故事劝周清玉不要过度为牢里同志操心，党外要有面对牺牲的狠心肠。《散记鹦鹉及其他》则由日月潭孔雀园鹦鹉、祢衡《鹦鹉赋》转入《政治规格的讨论》，批评林义雄、方素敏出狱后感谢政府、拜访李副总统等表现，并以陈文成父亲陈庭茂作为反例。本条合并两篇相邻的党外牺牲/规格批评，不把甘地、祢衡或鹦鹉逸事拆成独立事件。",
+    "view": [
+      "政治线",
+      "思想线",
+      "写作线"
+    ],
+    "tags": [
+      "启发你的小故事",
+      "祈战死",
+      "党外",
+      "政治规格",
+      "周清玉",
+      "林义雄",
+      "方素敏"
+    ],
+    "people": [
+      "李敖",
+      "刘峯松",
+      "周清玉",
+      "郑南榕",
+      "赖文良",
+      "甘地",
+      "林义雄",
+      "方素敏",
+      "陈文成",
+      "陈庭茂",
+      "邓维桢"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "日月潭",
+      "印度",
+      "日本"
+    ],
+    "works": [
+      "启发你的小故事",
+      "祈战死",
+      "散记鹦鹉及其他",
+      "你有郑文良，我有赖文良",
+      "政治规格的讨论",
+      "万岁评论"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "启发你的小故事",
+      "chapter": "029.《祈战死》",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/005.启发你的小故事/029.《祈战死》.txt",
+      "line": 9,
+      "lines": [
+        9,
+        11
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "启发你的小故事",
+        "chapter": "030.散记鹦鹉及其他",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/005.启发你的小故事/030.散记鹦鹉及其他.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          11,
+          13,
+          15,
+          17,
+          19
+        ],
+        "note": "补出1984年11月8日由鹦鹉散记转入林义雄、方素敏政治规格批评。"
+      }
+    ],
+    "crossReferences": [
+      "li-ao-shuxinji-1984-09-20-writes-shih-chiyang-zheng-wenliang-lai-wenliang",
+      "book3-1984-10-05-li-article-against-shi-published",
+      "li-ao-shujianji-letterpaper-1984-10-24-morning-writes-deng-weizhen-on-taiwanese-political-specification"
+    ],
+    "round": "2026-07-08-qifa-ni-de-xiaogushi-round002-021-040"
+  },
+  {
+    "id": "qifa-ni-de-xiaogushi-1991-03-05-writes-xiaodong-prison-attack-and-fate-reflection",
+    "date": "1991-03-05",
+    "displayDate": "1991年3月5日",
+    "datePrecision": "day",
+    "title": "李敖写《哀小董》，从董桂森美国狱中遇袭回望江南案密件托付",
+    "summary": "1991年3月5日，李敖写《哀小董》。他先摘报董桂森在美国宾州联邦监狱遭人杀成重伤的消息与其竹联、江南命案、逃亡、被捕受刑背景，再说明自己从未见过“小董”，但1985年小董亡命途中曾托人把自传密件转给李敖，盼他把“被国民党出卖”的真相公诸于世。李敖说自己不负所托，将自传连同文章发在郑南榕杂志里；到1991年，他借董桂森越避越糟的命运谈“患有所不辟也”。本条作为小董密件旧线的后续反思新增，不重造1985密件交付事件。",
+    "view": [
+      "写作线",
+      "政治线",
+      "司法线"
+    ],
+    "tags": [
+      "启发你的小故事",
+      "董桂森",
+      "小董",
+      "江南命案",
+      "竹联帮",
+      "患有所不辟"
+    ],
+    "people": [
+      "李敖",
+      "董桂森",
+      "郑南榕",
+      "陈启礼",
+      "吴敦",
+      "刘宜良",
+      "汪希苓",
+      "孟子"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "美国",
+      "宾州",
+      "菲律宾",
+      "泰国",
+      "巴西"
+    ],
+    "works": [
+      "启发你的小故事",
+      "哀小董",
+      "自由时代"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "启发你的小故事",
+      "chapter": "032.哀小董",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/005.启发你的小故事/032.哀小董.txt",
+      "line": 3,
+      "lines": [
+        3,
+        15,
+        19,
+        21,
+        23,
+        25,
+        27,
+        29,
+        31,
+        33
+      ]
+    },
+    "crossReferences": [
+      "book4-1985-03-23-zheng-nanjung-delivers-xiaodong-secret-packet",
+      "fayan-kan-taiwan-1985-09-21-to-11-09-writes-petition-flying-bowl-and-jiangnan-position-critiques",
+      "li-ao-lun-renwu-1979-to-1991-writes-hu-jinquan-wang-qixiang-jiangnan-and-huang-san-essays"
+    ],
+    "round": "2026-07-08-qifa-ni-de-xiaogushi-round002-021-040"
+  },
+  {
+    "id": "qifa-ni-de-xiaogushi-1988-08-30-writes-history-stretching-chen-lifu-kang-ningxiang",
+    "date": "1988-08-30",
+    "displayDate": "1988年8月30日",
+    "datePrecision": "day",
+    "title": "李敖写《拉长别人与拉长自己》，批陈立夫反共包装和康宁祥刊物捏造大龙峒故事",
+    "summary": "1988年8月30日，李敖写《拉长别人与拉长自己》。他先由陈立夫提议五十亿至一百亿美金“收买”中共、又被民进党人士控告“资匪”谈起，批评康宁祥的《亚洲人》把陈立夫硬拉进西山会议派，拉长别人的反共光荣；又回击《亚洲人》称他曾由张白帆陪同到大龙峒求黄信介办杂志、因康宁祥反对而结仇的说法，逐段以入狱、软禁、1965年后未往来等时间线证明故事不可能发生，批其拉长自己。本条只收这篇历史造假与党外刊物品格批评，不重拆陈立夫或康宁祥旧线。",
+    "view": [
+      "政治线",
+      "写作线",
+      "人物线"
+    ],
+    "tags": [
+      "启发你的小故事",
+      "陈立夫",
+      "康宁祥",
+      "亚洲人",
+      "黄信介",
+      "捏造历史"
+    ],
+    "people": [
+      "李敖",
+      "陈立夫",
+      "康宁祥",
+      "黄信介",
+      "张白帆",
+      "杨玉城"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "大龙峒",
+      "美国"
+    ],
+    "works": [
+      "启发你的小故事",
+      "拉长别人与拉长自己",
+      "亚洲人"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "启发你的小故事",
+      "chapter": "034.拉长别人与拉长自己",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/005.启发你的小故事/034.拉长别人与拉长自己.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9
+      ]
+    },
+    "crossReferences": [
+      "gei-waishengren-nankan-1982-06-18-to-1991-07-08-writes-kmt-old-guard-official-servility-and-speech-control-essays",
+      "gei-taiwanren-nankan-1984-10-06-to-1989-01-18-writes-wu-sanlian-underground-kmt-and-zilih-history",
+      "baiyan-kan-taiwan-1982-06-02-to-1982-08-03-writes-firebrand-vs-water-and-combat-test-for-opposition"
+    ],
+    "round": "2026-07-08-qifa-ni-de-xiaogushi-round002-021-040"
+  },
+  {
+    "id": "qifa-ni-de-xiaogushi-1988-11-02-writes-overseas-pen-war-victory-on-chiu-hungdah",
+    "date": "1988-11-02",
+    "displayDate": "1988年11月2日",
+    "datePrecision": "day",
+    "title": "李敖写《海外笔仗大胜记》，追述在《中报》压倒邱宏达的中日和约笔战",
+    "summary": "1988年11月2日，李敖写《海外笔仗大胜记》。他回述1987年11月30日日本公布《中日和约》外交档案后，邱宏达在《世界日报》《联合报》把蒋介石“以德报怨”与放弃赔偿切开；李敖则于12月在美国《中报》写《国民党学人又作弊了！》，用何应钦、张群等材料证明“不索赔款”本就是对日宽大政策的一环。邱宏达只敢要求更正考试作弊问题，不敢回应铁证；李敖又公开提议查台大档案和同班证词，逼其噤声。本条作为海外报刊中的历史笔仗新增。",
+    "view": [
+      "写作线",
+      "政治线",
+      "史料线"
+    ],
+    "tags": [
+      "启发你的小故事",
+      "邱宏达",
+      "中日和约",
+      "以德报怨",
+      "中报",
+      "海外笔仗"
+    ],
+    "people": [
+      "李敖",
+      "邱宏达",
+      "蒋介石",
+      "何应钦",
+      "张群"
+    ],
+    "places": [
+      "美国",
+      "台湾",
+      "日本",
+      "南京"
+    ],
+    "works": [
+      "启发你的小故事",
+      "海外笔仗大胜记",
+      "国民党学人又作弊了！",
+      "中日和约",
+      "中报",
+      "世界日报",
+      "联合报"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "启发你的小故事",
+      "chapter": "037.海外笔仗大胜记",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/005.启发你的小故事/037.海外笔仗大胜记.txt",
+      "line": 3,
+      "lines": [
+        3,
+        7,
+        9,
+        13,
+        15
+      ]
+    },
+    "crossReferences": [
+      "qiasi-wode-wenrou-1989-02-21-to-03-02-writes-intellectual-signature-syndrome"
+    ],
+    "round": "2026-07-08-qifa-ni-de-xiaogushi-round002-021-040"
+  },
+  {
+    "id": "qifa-ni-de-xiaogushi-1988-07-25-writes-chen-wanzhen-entry-law-critique",
+    "date": "1988-07-25",
+    "displayDate": "1988年7月25日",
+    "datePrecision": "day",
+    "title": "李敖写《她闯关，你闯法》，从陈婉真被遣返批国民党让人逃也让法律逃",
+    "summary": "1988年7月25日，李敖写《她闯关，你闯法》。当天各报报道陈婉真无入境证、护照变造后在机场“闯关”，被女警抬上飞机原机遣返美国。李敖同情其千里赴义，但从《动员戡乱时期国家安全法》逐条分析：若说她有妨害国家安全嫌疑，须有申请和书面不许可；若说未经许可入境、变造护照，则应扣留法办而非遣返。他借梁启超论罗文干案“犯人逃掉，法律却逃掉”的故事，讽刺国民党既让陈婉真逃掉，也让法律逃掉。本条作为陈婉真闯关后的法理批判新增。",
+    "view": [
+      "司法线",
+      "政治线",
+      "写作线"
+    ],
+    "tags": [
+      "启发你的小故事",
+      "陈婉真",
+      "闯关",
+      "国家安全法",
+      "动员戡乱",
+      "法律批判"
+    ],
+    "people": [
+      "李敖",
+      "陈婉真",
+      "梁启超",
+      "罗文干",
+      "黎元洪",
+      "李晋芳"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "美国",
+      "南京"
+    ],
+    "works": [
+      "启发你的小故事",
+      "她闯关，你闯法",
+      "动员戡乱时期国家安全法",
+      "当代汉英词典"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "启发你的小故事",
+      "chapter": "039.她闯关，你闯法",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/005.启发你的小故事/039.她闯关，你闯法.txt",
+      "line": 5,
+      "lines": [
+        5,
+        7,
+        9,
+        11,
+        13,
+        15,
+        17
+      ]
+    },
+    "crossReferences": [],
+    "round": "2026-07-08-qifa-ni-de-xiaogushi-round002-021-040"
+  },
+  {
+    "id": "qifa-ni-de-xiaogushi-1988-09-19-to-09-21-writes-wenxing-modern-hou-lichao-zhang-baifan-records",
+    "date": "1988-09-19",
+    "endDate": "1988-09-21",
+    "displayDate": "1988年9月19日至21日",
+    "datePrecision": "date-range",
+    "title": "李敖连写三文重校《文星》旧史，追出侯立朝《现代》背景并拆张白帆冒充",
+    "summary": "1988年9月19日至21日，李敖连写《“名噪一时”的幕后》《死冒充与活冒充》《小报告下的奋斗》。他从《自由时报》给侯立朝贴上“文星论战”名声写起，追述《现代杂志》未登记先出刊、后来由国民党中央党部以订阅方式补助，并接上林正杰阵营材料中侯立朝自承奉蒋经国之命攻击《文星》的旧线；随后又纠正胡汝森、张白帆被说成《文星》主编或总编辑的说法，列举张白帆向李敖请示的文书、萧孟能任命李敖为总编辑的证据，以及张白帆越级向萧孟能打小报告的便条。本条把041至043合并为《文星》旧史校正与萧孟能案证据链的一组，不再逐人拆成小事件。",
+    "view": [
+      "写作线",
+      "出版线",
+      "司法线"
+    ],
+    "tags": [
+      "启发你的小故事",
+      "文星",
+      "现代杂志",
+      "侯立朝",
+      "张白帆",
+      "萧孟能案",
+      "蒋经国"
+    ],
+    "people": [
+      "李敖",
+      "侯立朝",
+      "胡秋原",
+      "林正杰",
+      "张白帆",
+      "萧孟能",
+      "胡汝森",
+      "陆啸钊",
+      "熊钝生",
+      "蒋经国"
+    ],
+    "places": [
+      "台湾",
+      "台北"
+    ],
+    "works": [
+      "启发你的小故事",
+      "“名噪一时”的幕后",
+      "死冒充与活冒充",
+      "小报告下的奋斗",
+      "文星",
+      "现代杂志",
+      "中华杂志",
+      "自由时报"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "启发你的小故事",
+      "chapter": "041.“名噪一时”的幕后",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/005.启发你的小故事/041.“名噪一时”的幕后.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "启发你的小故事",
+        "chapter": "042.死冒充与活冒充",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/005.启发你的小故事/042.死冒充与活冒充.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          7,
+          9,
+          11
+        ],
+        "note": "补出胡汝森、张白帆冒称《文星》主编或总编辑的辨正，以及张白帆在萧孟能案中的文书证据。"
+      },
+      {
+        "book": "启发你的小故事",
+        "chapter": "043.小报告下的奋斗",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/005.启发你的小故事/043.小报告下的奋斗.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          7,
+          9
+        ],
+        "note": "补出张白帆向萧孟能打小报告的便条与李敖对《文星》内忧外患的总结。"
+      }
+    ],
+    "crossReferences": [
+      "book7-1985-05-25-learns-hou-lichao-was-chiang-ching-kuos-hired-hand-against-wenxing",
+      "lengyan-kan-taiwan-1987-03-07-inferred-files-defamation-complaint-over-asian-and-li-ao-is-dead",
+      "qifa-ni-de-xiaogushi-1988-08-30-writes-history-stretching-chen-lifu-kang-ningxiang"
+    ],
+    "round": "2026-07-08-qifa-ni-de-xiaogushi-round003-041-054-closeout"
+  },
+  {
+    "id": "qifa-ni-de-xiaogushi-1988-11-04-writes-fu-chaoshu-zhongbao-column-defense",
+    "date": "1988-11-04",
+    "displayDate": "1988年11月4日",
+    "datePrecision": "day",
+    "title": "李敖写《有感于〈傅朝枢郑重声明〉》，说明给《中报》写稿不收钱不改稿",
+    "summary": "1988年11月4日，李敖写《有感于〈傅朝枢郑重声明〉》。傅朝枢因《民进广场》称其“收买”李敖文章而发声明，李敖据辩驳书说明自己给美洲《中报》写稿前即提出四项条件：不收稿费、稿子可不用但不可修改、文章只代表个人立场、何时分合皆互不勉强。他并把《中报》这一段经验接到过去《台湾日报》《中国时报》及当时《世界论坛报》的专栏关系，反驳把他的写作解释成金钱收买。",
+    "view": [
+      "写作线",
+      "出版线",
+      "交游线"
+    ],
+    "tags": [
+      "启发你的小故事",
+      "傅朝枢",
+      "中报",
+      "专栏",
+      "稿费",
+      "民进广场"
+    ],
+    "people": [
+      "李敖",
+      "傅朝枢",
+      "胡茵梦",
+      "刘会云",
+      "夏晓华",
+      "余纪忠",
+      "段宏俊",
+      "林正杰"
+    ],
+    "places": [
+      "台湾",
+      "香港",
+      "美洲"
+    ],
+    "works": [
+      "启发你的小故事",
+      "有感于《傅朝枢郑重声明》",
+      "中报",
+      "民进广场",
+      "台湾日报",
+      "中国时报",
+      "世界论坛报"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "启发你的小故事",
+      "chapter": "044.有感于《傅朝枢郑重声明》",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/005.启发你的小故事/044.有感于《傅朝枢郑重声明》.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11
+      ]
+    },
+    "crossReferences": [
+      "li-ao-shuhanji-letterbox-1987-11-03-writes-fu-chaoshu-first-column-and-court",
+      "qifa-ni-de-xiaogushi-1988-11-02-writes-overseas-pen-war-victory-on-chiu-hungdah",
+      "shilun-xinyu-1989-11-10-preface-written"
+    ],
+    "round": "2026-07-08-qifa-ni-de-xiaogushi-round003-041-054-closeout"
+  },
+  {
+    "id": "qifa-ni-de-xiaogushi-1989-03-07-to-03-08-writes-lei-zhen-anniversary-and-liu-ziying-redress",
+    "date": "1989-03-07",
+    "endDate": "1989-03-08",
+    "displayDate": "1989年3月7日至8日",
+    "datePrecision": "date-range",
+    "title": "李敖在雷震逝世十周年连写两文，接上刘子英临行留档补正冤狱",
+    "summary": "1989年3月7日雷震逝世十周年，李敖写《于有声处听惊雷》，批政客、党棍、报阀和学术混混借雷震牟利，重述自己从《自由中国》作者、1969年被逐出安坑监狱、1970年带外籍记者接雷震出狱，到1984年主持《万岁评论》刊雷震日记、为《雷震全集》开路的历程。次日他又写《生平未了事，留于自己补》，由孙立人案、李鸿案翻案困难说到刘子英回大陆前留下四千字文件，说明雷震案中刘子英被迫咬雷震知匪不报、坐牢十一年三个月又二十一天后终于自补未了事。本条合并045与046为雷震记忆政治和白色恐怖冤狱补正的一组。",
+    "view": [
+      "政治线",
+      "司法线",
+      "写作线"
+    ],
+    "tags": [
+      "启发你的小故事",
+      "雷震",
+      "刘子英",
+      "雷震案",
+      "万岁评论",
+      "白色恐怖",
+      "冤狱"
+    ],
+    "people": [
+      "李敖",
+      "雷震",
+      "宋英",
+      "康宁祥",
+      "林正杰",
+      "胡适",
+      "向筠",
+      "魏廷朝",
+      "胡虚一",
+      "傅正",
+      "刘子英",
+      "马之骕",
+      "曾心仪",
+      "彭克立"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "安坑监狱",
+      "新店",
+      "大陆"
+    ],
+    "works": [
+      "启发你的小故事",
+      "于有声处听惊雷",
+      "生平未了事，留于自己补",
+      "自由中国",
+      "万岁评论",
+      "雷震日记",
+      "雷震全集",
+      "崔小萍狱中记"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "启发你的小故事",
+      "chapter": "045.于有声处听惊雷",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/005.启发你的小故事/045.于有声处听惊雷.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "启发你的小故事",
+        "chapter": "046.生平未了事，留于自己补",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/005.启发你的小故事/046.生平未了事，留于自己补.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          7,
+          9,
+          11,
+          13
+        ],
+        "note": "补出刘子英临返大陆前留下四千字文件，试图自补雷震案冤狱中的未了事。"
+      }
+    ],
+    "crossReferences": [
+      "book5-1970-09-03-meets-lei-chen-release-with-foreign-reporters",
+      "qifa-ni-de-xiaogushi-1984-07-27-to-1986-08-14-writes-hu-xuyi-lei-zhen-memory-politics",
+      "li-ao-lun-renwu-1987-07-31-to-1989-09-16-writes-yin-haiguang-lei-zhen-publication-and-memorial-essays"
+    ],
+    "round": "2026-07-08-qifa-ni-de-xiaogushi-round003-041-054-closeout"
+  },
+  {
+    "id": "qifa-ni-de-xiaogushi-1989-04-06-to-1990-01-04-writes-chicken-soup-and-lu-jinde-self-reflections",
+    "date": "1989-04-06",
+    "endDate": "1990-01-04",
+    "displayDate": "1989年4月6日至1990年1月4日",
+    "datePrecision": "date-range",
+    "title": "李敖从鸡汤轶事到陆晋德来信，整理人情物情与演讲后的自我答辩",
+    "summary": "1989年4月6日，李敖写《名人与鸡汤》，由张月华送来的鸡汤联想到严复、宋孝宗、熊十力和詹森总统等故事，借“人情”与“物情”讨论知识分子和权力人物的性格。1990年1月4日，他写《读陆晋德先生来信》，回应陆晋德听完1989年12月21日交大演讲后的长信，逐项谈国民党四十年成就、六四后学生与政治家环境、台独须有作战决心、不合作主义、演讲用力、媒体封锁、文章风格和是否出国大陆行走等问题。本条把047的日常札记与051的读者来信式自我说明合为一条，不把各个古今例子和每条问答拆开。",
+    "view": [
+      "写作线",
+      "思想线",
+      "交游线"
+    ],
+    "tags": [
+      "启发你的小故事",
+      "鸡汤",
+      "人情物情",
+      "陆晋德",
+      "交通大学演讲",
+      "自我说明"
+    ],
+    "people": [
+      "李敖",
+      "张月华",
+      "苏荣泉",
+      "华严",
+      "严复",
+      "宋孝宗",
+      "熊十力",
+      "徐复观",
+      "詹森",
+      "陆晋德",
+      "陈仪",
+      "钱复"
+    ],
+    "places": [
+      "台湾",
+      "新竹",
+      "交通大学",
+      "大陆",
+      "白宫"
+    ],
+    "works": [
+      "启发你的小故事",
+      "名人与鸡汤",
+      "读陆晋德先生来信",
+      "我的母亲",
+      "齐东野语",
+      "交通快与慢"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "启发你的小故事",
+      "chapter": "047.名人与鸡汤",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/005.启发你的小故事/047.名人与鸡汤.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15,
+        17
+      ]
+    },
+    "additionalSources": [
+      {
+        "book": "启发你的小故事",
+        "chapter": "051.读陆晋德先生来信",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/005.启发你的小故事/051.读陆晋德先生来信.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          7,
+          9,
+          11,
+          13,
+          15,
+          17,
+          19,
+          21,
+          23,
+          25,
+          27,
+          29,
+          31
+        ],
+        "note": "补出陆晋德听交大演讲后写信，李敖逐项回应台湾、国民党、台独、演讲和写作风格等问题。"
+      }
+    ],
+    "crossReferences": [
+      "book3-1989-12-21-chiao-tung-lecture",
+      "li-ao-fadianji-024-answers-lu-jinde-on-taiwan-unifying-china-through-open-party-competition",
+      "li-ao-youhua-shuo-368-shows-lu-jinde-family-photos-and-calls-him-friend-in-taiwan"
+    ],
+    "round": "2026-07-08-qifa-ni-de-xiaogushi-round003-041-054-closeout"
+  },
+  {
+    "id": "qifa-ni-de-xiaogushi-1989-05-28-writes-luo-wenjia-ntu-statue-incident",
+    "date": "1989-05-28",
+    "displayDate": "1989年5月28日",
+    "datePrecision": "day",
+    "title": "罗文嘉带台大蒋介石铜像事件材料来访后，李敖写文批校规仍在中世纪",
+    "summary": "1989年5月28日，李敖写《论罗文嘉事件》。5月4日，台大学生在学生活动中心蒋介石铜像旁给铜像戴帽、披布，反讽抗议铜像侵入校园；事后校方准备处分，学生会会长罗文嘉首当其冲。5月27日中午罗文嘉带相关材料来访，李敖读后决定写文，从圣像破坏、孙中山遗像侮辱罪到《国立台湾大学学生个人奖惩办法》保护蒋介石遗像和元首肖像，批评台大以封建校规惩罚学生。",
+    "view": [
+      "政治线",
+      "教育线",
+      "写作线"
+    ],
+    "tags": [
+      "启发你的小故事",
+      "罗文嘉",
+      "台湾大学",
+      "蒋介石铜像",
+      "学生运动",
+      "校规",
+      "圣像破坏"
+    ],
+    "people": [
+      "李敖",
+      "罗文嘉",
+      "蒋介石",
+      "孙中山",
+      "毛泽东"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "台湾大学",
+      "北京大学"
+    ],
+    "works": [
+      "启发你的小故事",
+      "论罗文嘉事件",
+      "国立台湾大学学生个人奖惩办法"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "启发你的小故事",
+      "chapter": "048.论罗文嘉事件",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/005.启发你的小故事/048.论罗文嘉事件.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15,
+        17,
+        19
+      ]
+    },
+    "crossReferences": [
+      "li-ao-mimi-shufang-060-recalls-helping-luo-wenjia-and-tvbs-summons",
+      "li-ao-dageda-009-says-luo-wenjia-erased-his-rescue"
+    ],
+    "round": "2026-07-08-qifa-ni-de-xiaogushi-round003-041-054-closeout"
+  },
+  {
+    "id": "qifa-ni-de-xiaogushi-1989-07-03-writes-world-forum-anniversary-and-li-ao-column-terms",
+    "date": "1989-07-03",
+    "displayDate": "1989年7月3日",
+    "datePrecision": "day",
+    "title": "《世界论坛报》周年前夕，李敖写段宏俊办报和“李敖论坛”专栏条件",
+    "summary": "1989年7月3日，《世界论坛报》创刊将满一年，李敖写《论坛周年杂感》。他记述段宏俊1988年7月4日在台北创刊、1989年7月2日二人吃晚饭谈一年不易，又回顾岛内报业市场被《联合报》《中国时报》压住、成舍我办《立报》失败，以及自己5月25日在世新演讲时谈成舍我。李敖重点追述段宏俊请他写“李敖论坛”的条件：文章一字不改不删，登出的不给稿费，未登出的反给稿费；他也警告段宏俊打“李敖牌”可能毁掉多年关系。后记补说两人后来绝交。",
+    "view": [
+      "出版线",
+      "写作线",
+      "交游线"
+    ],
+    "tags": [
+      "启发你的小故事",
+      "世界论坛报",
+      "段宏俊",
+      "李敖论坛",
+      "报业",
+      "专栏"
+    ],
+    "people": [
+      "李敖",
+      "段宏俊",
+      "成舍我",
+      "牛若望",
+      "夏晓华",
+      "余纪忠",
+      "傅朝枢",
+      "萧孟能"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "世界新闻专科学校"
+    ],
+    "works": [
+      "启发你的小故事",
+      "论坛周年杂感",
+      "世界论坛报",
+      "李敖论坛",
+      "联合报",
+      "中国时报",
+      "立报"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "启发你的小故事",
+      "chapter": "049.论坛周年杂感",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/005.启发你的小故事/049.论坛周年杂感.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15,
+        17
+      ]
+    },
+    "crossReferences": [
+      "qifa-ni-de-xiaogushi-1988-11-04-writes-fu-chaoshu-zhongbao-column-defense",
+      "shilun-xinyu-1989-11-10-preface-written",
+      "shilun-xinyu-1989-08-03-duan-hongjun-presidential-bid"
+    ],
+    "round": "2026-07-08-qifa-ni-de-xiaogushi-round003-041-054-closeout"
+  },
+  {
+    "id": "qifa-ni-de-xiaogushi-1989-09-29-writes-peng-daogen-qiao-jiacai-politeness-defense",
+    "date": "1989-09-29",
+    "displayDate": "1989年9月29日",
+    "datePrecision": "day",
+    "title": "李敖答彭道根来信，说明批乔家才和戴笠时仍称“将军”的分寸",
+    "summary": "1989年9月29日，李敖写《要杀他，不妨客气一点》。世界论坛报转来彭道根9月8日来信，彭读完《乔家才将军来信书后》后同意李敖批乔家才和戴笠，但不满文章中屡称乔家才“将军”。李敖回文说明，自己把戴笠看作替蒋介石做事的坏人，对乔家才则因文章具有回信和赠答性质，愿保留基本礼貌和职称；称呼客气不减批判杀伤力，同时也不抹掉乔家才抗日之功。",
+    "view": [
+      "写作线",
+      "政治线",
+      "交游线"
+    ],
+    "tags": [
+      "启发你的小故事",
+      "乔家才",
+      "戴笠",
+      "彭道根",
+      "世界论坛报",
+      "称谓",
+      "国民党特务"
+    ],
+    "people": [
+      "李敖",
+      "彭道根",
+      "乔家才",
+      "戴笠",
+      "蒋介石",
+      "沈醉",
+      "王禹廷",
+      "丘吉尔"
+    ],
+    "places": [
+      "台湾",
+      "湖南长沙"
+    ],
+    "works": [
+      "启发你的小故事",
+      "要杀他，不妨客气一点",
+      "乔家才将军来信书后",
+      "传记文学",
+      "中外杂志",
+      "世界论坛报"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "启发你的小故事",
+      "chapter": "050.要杀他，不妨客气一点",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/005.启发你的小故事/050.要杀他，不妨客气一点.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15,
+        17
+      ]
+    },
+    "crossReferences": [
+      "book3-1989-08-31-qiao-letter-commentary-start",
+      "book3-1990-10-05-qiao-prison-account-published",
+      "li-ao-shuhanji-letterbox-1989-08-27-writes-shen-zui-with-juntong-neimu-and-qiao-letters"
+    ],
+    "round": "2026-07-08-qifa-ni-de-xiaogushi-round003-041-054-closeout"
+  },
+  {
+    "id": "qifa-ni-de-xiaogushi-1991-02-07-writes-qiushi-bao-registration-name-anecdote",
+    "date": "1991-02-07",
+    "displayDate": "1991年2月7日",
+    "datePrecision": "day",
+    "title": "李敖写《求是报》登记趣闻，借报名和《中国报学史》催新闻局发照",
+    "summary": "1991年2月7日，李敖写《〈求是报〉登记趣闻》。他先说国民党解除报禁后已有二百零六家登记却无新报办成，随后说明《求是报》报名本身即给新闻衙门下马威：求是是中共长期提倡的观念，1988年中共中央理论刊物也改名《求是》。李敖递交登记表时附上戈公振《中国报学史》两页影本，证明民国初年已有《求是报》名号，并放话让新闻局长邵玉铭赶快给执照，否则他就申请办《人民日报》。新闻机关最后给了执照。",
+    "view": [
+      "出版线",
+      "政治线",
+      "写作线"
+    ],
+    "tags": [
+      "启发你的小故事",
+      "求是报",
+      "报禁",
+      "新闻局",
+      "邵玉铭",
+      "办报登记",
+      "中国报学史"
+    ],
+    "people": [
+      "李敖",
+      "邵玉铭",
+      "戈公振",
+      "毛泽东",
+      "邓小平"
+    ],
+    "places": [
+      "台湾",
+      "台北",
+      "大陆"
+    ],
+    "works": [
+      "启发你的小故事",
+      "《求是报》登记趣闻",
+      "求是报",
+      "求是",
+      "红旗",
+      "人民日报",
+      "中国报学史"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "启发你的小故事",
+      "chapter": "052.《求是报》登记趣闻",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/005.启发你的小故事/052.《求是报》登记趣闻.txt",
+      "line": 3,
+      "lines": [
+        3,
+        15,
+        17,
+        19,
+        21,
+        23
+      ]
+    },
+    "crossReferences": [
+      "li-ao-baokanji-1991-01-29-writes-one-newspaper-can-overthrow-you",
+      "book4-1991-02-27-qiushi-daily-starts",
+      "li-ao-baokanji-1991-02-27-qiushi-bao-east-west-launch"
+    ],
+    "round": "2026-07-08-qifa-ni-de-xiaogushi-round003-041-054-closeout"
+  },
+  {
+    "id": "qifa-ni-de-xiaogushi-1991-03-30-writes-taiwan-kmt-smallness-through-weijing-sheng-and-chai-ling",
+    "date": "1991-03-30",
+    "displayDate": "1991年3月30日",
+    "datePrecision": "day",
+    "title": "李敖由魏京生报道、潘君密论柴玲，写“台湾太小了，国民党太小了”",
+    "summary": "1991年3月30日，李敖写《台湾太小了，国民党太小了！》。他由美联社北京3月29日报道魏京生被捕十二周年、民主墙运动收场，想起七年前罗小如来台问他未来方向时，自己说与国民党困在小岛上会使所有努力被小化；又引潘君密以笔名大风写《美与丑得失》，把柴玲在国际媒体上的放大与李敖在台湾反国民党三十年仍被小化相对照。李敖还追述柴玲上一年曾打电话给他，他对她说台湾四五十年的努力赶不上北京四五十天的动作，因为台湾和国民党都太小。",
+    "view": [
+      "政治线",
+      "思想线",
+      "写作线"
+    ],
+    "tags": [
+      "启发你的小故事",
+      "台湾太小",
+      "国民党",
+      "魏京生",
+      "柴玲",
+      "民主墙",
+      "六四",
+      "国际媒体"
+    ],
+    "people": [
+      "李敖",
+      "魏京生",
+      "罗小如",
+      "潘君密",
+      "大风",
+      "柴玲"
+    ],
+    "places": [
+      "台湾",
+      "北京",
+      "大陆",
+      "美国",
+      "西单"
+    ],
+    "works": [
+      "启发你的小故事",
+      "台湾太小了，国民党太小了！",
+      "美与丑得失"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "启发你的小故事",
+      "chapter": "053.台湾太小了，国民党太小了！",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/005.启发你的小故事/053.台湾太小了，国民党太小了！.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13
+      ]
+    },
+    "crossReferences": [
+      "woshi-tiananmen-1989-07-01-dont-handle-china-situation-emotionally",
+      "li-ao-wuwu-diary-1990-06-14-peng-matter-visitors-and-chai-ling-letter",
+      "li-ao-yumiao-tianxia-107-recalls-chai-ling-postcard-after-june-fourth"
+    ],
+    "round": "2026-07-08-qifa-ni-de-xiaogushi-round003-041-054-closeout"
+  },
+  {
+    "id": "qifa-ni-de-xiaogushi-1991-06-06-writes-jiang-qing-trial-courage-comment",
+    "date": "1991-06-06",
+    "displayDate": "1991年6月6日午",
+    "datePrecision": "day",
+    "title": "江青自杀消息后，李敖写《临大审而不可夺也！》赞其受审不屈",
+    "summary": "1991年6月6日中午，李敖写《临大审而不可夺也！》。江青自杀死后，他虽说江青令人全无好感，却认为她在“十恶大审”中气不挠、声色俱厉，远比其他窝囊被告高明；于是套用曾子“临大节而不可夺”之语，改成“临大审而不可夺也”。文章末尾说他翻出自己一岁时的1936年《北洋画报》，看江青早年蓝苹照片，发出今昔之感。",
+    "view": [
+      "政治线",
+      "写作线",
+      "思想线"
+    ],
+    "tags": [
+      "启发你的小故事",
+      "江青",
+      "临大审",
+      "四人帮审判",
+      "共产党",
+      "北洋画报"
+    ],
+    "people": [
+      "李敖",
+      "江青",
+      "毛泽东",
+      "曾子"
+    ],
+    "places": [
+      "台湾",
+      "山东诸城",
+      "延安"
+    ],
+    "works": [
+      "启发你的小故事",
+      "临大审而不可夺也！",
+      "北洋画报"
+    ],
+    "certainty": "confirmed",
+    "source": {
+      "book": "启发你的小故事",
+      "chapter": "054.临大审而不可夺也！",
+      "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/005.启发你的小故事/054.临大审而不可夺也！.txt",
+      "line": 3,
+      "lines": [
+        3,
+        5,
+        7,
+        9,
+        11
+      ]
+    },
+    "crossReferences": [
+      "li-ao-youhua-shuo-449-praises-jiang-qing-trial-courage-through-qiushi-bao-title"
+    ],
+    "round": "2026-07-08-qifa-ni-de-xiaogushi-round003-041-054-closeout"
+  }
+]

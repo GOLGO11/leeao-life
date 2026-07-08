@@ -207,7 +207,18 @@ const dataFiles = [
   "./data/timeline-events-li-ao-daobiji.json",
   "./data/timeline-events-li-ao-nongfaji.json",
   "./data/timeline-events-li-ao-fangdiaoji.json",
-  "./data/timeline-events-li-ao-haosongji.json"
+  "./data/timeline-events-li-ao-haosongji.json",
+  "./data/timeline-events-ni-buzhidao-sifa-heian.json",
+  "./data/timeline-events-xiaoao-wushinian.json",
+  "./data/timeline-events-diyiliu-ren-de-jingjie.json",
+  "./data/timeline-events-li-ao-zhihuishu.json",
+  "./data/timeline-events-qiasi-wode-wenrou.json",
+  "./data/timeline-events-qifa-ni-de-xiaogushi.json",
+  "./data/timeline-events-junzi-airen-yise.json",
+  "./data/timeline-events-zhi-ai-yidian-dian.json",
+  "./data/timeline-events-cong-wanbao-nang-dao-choushi-dui.json",
+  "./data/timeline-events-women-meiyou-mingtian.json",
+  "./data/timeline-events-li-ao-shengsishu.json"
 ];
 const supplementalDataFiles = new Set([
   "./data/timeline-events-first-book-supplement.json",
@@ -218,7 +229,7 @@ const supplementalDataFiles = new Set([
   "./data/timeline-events-third-book-qiao-evidence.json",
   "./data/timeline-events-fourth-book-deepening.json"
 ]);
-const dataVersion = "2026-07-07-li-ao-haosongji-round002-011-020";
+const dataVersion = "2026-07-08-li-ao-shengsishu-round001-001-021-closeout";
 const timelineBundle = window.LEEAO_TIMELINE_BUNDLE;
 const timelineBundleMatches =
   timelineBundle?.dataVersion === dataVersion &&

@@ -18417,7 +18417,21 @@
         41
       ]
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖生死书",
+        "chapter": "002.题许以祺摄西藏天葬台",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/010.李敖生死书/002.题许以祺摄西藏天葬台.txt",
+        "line": 27,
+        "lines": [
+          27,
+          29,
+          31
+        ],
+        "note": "《李敖生死书》收入同题诗，补出1997年6月21日傍晚得册、晚餐写草稿、次晨改定寄许以祺。"
+      }
+    ]
   },
   {
     "id": "li-ao-youhua-shuo-054-interprets-his-final-bones-as-last-gift",
@@ -161230,7 +161244,26 @@
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/007.李敖有话说/460.2005-12-09：了不起的自杀者.txt",
       "line": 5
     },
-    "crossReferences": []
+    "crossReferences": [],
+    "additionalSources": [
+      {
+        "book": "李敖生死书",
+        "chapter": "007.王国维自杀写真",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/010.李敖生死书/007.王国维自杀写真.txt",
+        "line": 3,
+        "lines": [
+          3,
+          13,
+          15,
+          101,
+          103,
+          119,
+          159,
+          163
+        ],
+        "note": "补入1983年5月7日《王国维自杀写真》原文出处。"
+      }
+    ]
   },
   {
     "id": "li-ao-youhua-shuo-460-recalls-hua-changping-swimmer-suicide-while-discussing-drowning",
@@ -207981,6 +208014,27 @@
     "crossReferences": [
       "li-ao-youhua-shuo-597-describes-bayonet-assembly-and-forced-conscription",
       "li-ao-youhua-shuo-597-describes-false-communist-case-and-seven-executions"
+    ],
+    "additionalSources": [
+      {
+        "book": "李敖生死书",
+        "chapter": "009.海底冤魂之外",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/010.李敖生死书/009.海底冤魂之外.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          9,
+          11,
+          25,
+          27,
+          31,
+          71,
+          73,
+          75
+        ],
+        "note": "补入1988年6月3日《海底冤魂之外》，作为澎湖山东流亡学生与刺刀从军案的早期书面材料。"
+      }
     ]
   },
   {
@@ -247380,7 +247434,27 @@
       "chapter": "686.2006-10-23：山西王阎锡山.txt",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/010.节目演讲类/007.李敖有话说/686.2006-10-23：山西王阎锡山.txt",
       "line": 17
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "李敖生死书",
+        "chapter": "008.没完的完人",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/010.李敖生死书/008.没完的完人.txt",
+        "line": 3,
+        "lines": [
+          3,
+          7,
+          9,
+          21,
+          23,
+          41,
+          45,
+          67,
+          69
+        ],
+        "note": "补入1989年10月25至28日《没完的完人》原文出处，作为太原五百完人造假与禁书链的文字证据。"
+      }
+    ]
   },
   {
     "id": "li-ao-youhua-shuo-686-explains-chiang-coopted-five-hundred-perfect-men-myth",

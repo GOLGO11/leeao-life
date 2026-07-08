@@ -213,7 +213,33 @@
       "chapter": "005.由不自由的自由到自由的不自由",
       "path": "《大李敖全集5.0》（wjm_tcy版）分章节/002.精品散文类/004.李敖文存/005.由不自由的自由到自由的不自由.txt",
       "line": 53
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "第一流人的境界",
+        "chapter": "040.戴布兹的千古名言",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/002.第一流人的境界/040.戴布兹的千古名言.txt",
+        "line": 3,
+        "lines": [
+          3,
+          27,
+          33,
+          39,
+          41,
+          47,
+          51,
+          57,
+          65,
+          67
+        ],
+        "note": "《第一流人的境界》重收/改写“不自由的自由”与“自由的不自由”主题，补入戴布兹法庭名言和甘地坐牢哲学。"
+      }
+    ],
+    "crossReferences": [
+      "diyiliu-ren-de-jingjie-1983-05-18-to-12-30-writes-gandhi-noncooperation-sacrifice-and-slave-thinking",
+      "li-ao-youhua-shuo-052-translates-debs-and-defines-his-own-rescue-spirit",
+      "li-ao-xiaoao-jianghu-1996-context-translates-debs-and-thinks-of-kshitigarbha-in-program"
+    ]
   },
   {
     "id": "wencun-1979-06-17-when-old-man-talks-history-written",

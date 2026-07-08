@@ -80,6 +80,33 @@
       "li-ao-fadianji-010-publishes-wang-qixiang-academic-persecution-file",
       "li-ao-yanjiangji-032-uses-wang-qixiang-case-against-lee-yuan-tseh",
       "li-ao-yanjiangji-033-uses-exam-paper-and-wang-qixiang-documents-against-lee-yuan-tseh"
+    ],
+    "additionalSources": [
+      {
+        "book": "李敖智慧书",
+        "chapter": "044.关于李远哲忘恩负义的讨论",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/003.李敖智慧书/044.关于李远哲忘恩负义的讨论.txt",
+        "line": 3,
+        "lines": [
+          3,
+          7,
+          17,
+          21,
+          47,
+          81,
+          115,
+          129,
+          153,
+          155,
+          183,
+          199,
+          245,
+          257,
+          285,
+          307
+        ],
+        "note": "《李敖智慧书》收录同题材料链，作为祸台十书版本补源，不另造重复事件。"
+      }
     ]
   },
   {
@@ -149,6 +176,26 @@
       "li-ao-zhenglun-zongyiji-012-criticizes-lee-yuan-tseh-reversal-and-blue-blanket",
       "li-ao-yanjiangji-003-uses-blue-blanket-to-call-lee-yuanzhe-democracy-escapee",
       "li-ao-yanjiangji-013-uses-blue-blanket-to-judge-lee-yuanzhe"
+    ],
+    "additionalSources": [
+      {
+        "book": "笑傲五十年",
+        "chapter": "037.帮李远哲复习一课",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/001.笑傲五十年/037.帮李远哲复习一课.txt",
+        "line": 3,
+        "lines": [
+          3,
+          17,
+          37,
+          39,
+          209,
+          217,
+          219,
+          221,
+          223
+        ],
+        "note": "《笑傲五十年》重收《帮李远哲复习一课》，保留李敖以《开明少年》《蓝色的毛毯》要求李远哲回到早年社会主义理想的论述。"
+      }
     ]
   },
   {

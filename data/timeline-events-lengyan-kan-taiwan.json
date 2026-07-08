@@ -104,10 +104,10 @@
   {
     "id": "lengyan-kan-taiwan-1982-10-16-writes-guo-guoji-national-vision-and-taiwan-demonstration-province-essay",
     "date": "1982-10-16",
-    "displayDate": "1982年10月16日",
+    "displayDate": "1982年10月16日（1988年6月24日重述）",
     "datePrecision": "day",
     "title": "李敖写《怀念郭国基先生》，保存《台湾示范省》剪报并重述郭国基的母国视野",
-    "summary": "《怀念郭国基先生》是本轮最长的一篇，李敖从郭国基1900年出生、1970年去世和台湾政治活动写起，着重保存郭国基反对台湾独立、坚持台湾与母国关系的言论。他引用《郭国基言论集》，又特别标出1948年《大公报》的《台湾示范省》剪报，说明“只有我保存这篇文章了”。旧库已经有节目中展示郭国基资料的节点，本条记录1982年李敖在本书中把郭国基塑造成台湾政治人物的母国视野样本。",
+    "summary": "《怀念郭国基先生》是本轮最长的一篇，李敖从郭国基1900年出生、1970年去世和台湾政治活动写起，着重保存郭国基反对台湾独立、坚持台湾与母国关系的言论。他引用《郭国基言论集》，又特别标出1948年《大公报》的《台湾示范省》剪报，说明“只有我保存这篇文章了”。旧库已经有节目中展示郭国基资料的节点，本条记录1982年李敖在本书中把郭国基塑造成台湾政治人物的母国视野样本。 1988年6月24日《我们没有明天》中的《没有国是孤岛》又用教授凳子实验作引，批台湾独立论者观察力薄弱，并重引郭国基关于大陆三百二十倍于台湾、不能放弃母国的判断。",
     "view": [
       "写作线",
       "人物线",
@@ -120,7 +120,9 @@
       "台湾示范省",
       "台湾独立批判",
       "母国视野",
-      "史料保存"
+      "史料保存",
+      "我们没有明天",
+      "没有国是孤岛"
     ],
     "people": [
       "李敖",
@@ -137,7 +139,9 @@
       "怀念郭国基先生",
       "郭国基言论集",
       "台湾示范省",
-      "大公报"
+      "大公报",
+      "我们没有明天",
+      "没有国是孤岛"
     ],
     "certainty": "confirmed",
     "source": {
@@ -150,7 +154,21 @@
         101
       ]
     },
-    "additionalSources": [],
+    "additionalSources": [
+      {
+        "book": "我们没有明天",
+        "chapter": "014.没有国是孤岛",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/009.我们没有明天/014.没有国是孤岛.txt",
+        "line": 3,
+        "lines": [
+          3,
+          7,
+          9,
+          11
+        ],
+        "note": "补出李敖1988年6月24日以“没有国是孤岛”重述郭国基反对台湾独立和三百二十倍母国视野。"
+      }
+    ],
     "crossReferences": [
       "li-ao-yumiao-tianxia-080-broadcast-guo-guoji-title-quote",
       "li-ao-yumiao-tianxia-080-reads-guo-guoji-1945-1949-quote",
@@ -1127,6 +1145,23 @@
           3,
           177
         ]
+      },
+      {
+        "book": "第一流人的境界",
+        "chapter": "012.“我还没开始打呢！”",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/002.第一流人的境界/012.“我还没开始打呢！”.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          7,
+          9,
+          13,
+          19,
+          29,
+          31
+        ],
+        "note": "本章用《八十年代》报道和琼斯“我还没开始打呢”故事回扣1986年1月4日《前进》诽谤自诉，故补源到既有诉讼簇。"
       }
     ],
     "crossReferences": [
@@ -1135,7 +1170,8 @@
       "micang-diary-1985-03-24-writes-open-letter-to-lin-zhengjie-and-nanrong-picks-up",
       "micang-diary-1985-04-20-lunches-at-xiangyi-and-answers-lin-zhengjie-reconciliation",
       "qianqiu-wansui-1983-11-26-170-lin-zhengjie-letter-to-li-about-zhang-jianbang-loan",
-      "qianqiu-wansui-1991-03-09-170-writes-zhang-jianbang-scandal-lin-zhengjie-silent"
+      "qianqiu-wansui-1991-03-09-170-writes-zhang-jianbang-scandal-lin-zhengjie-silent",
+      "li-ao-shuduji-1987-02-23-writes-huang-shaogu-on-wu-zhaoying-delayed-defamation-case"
     ],
     "round": "2026-07-06-lengyan-kan-taiwan-round002-021-040"
   },

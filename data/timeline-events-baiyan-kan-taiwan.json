@@ -645,7 +645,28 @@
       "lengyan-kan-taiwan-1983-04-03-to-1988-03-16-writes-kang-ningxiang-eighties-consensus-and-dpp-decorum-critiques",
       "li-ao-zhaji-1986-01-29-comments-youqing-on-qiu-lianhui"
     ],
-    "round": "2026-07-06-baiyan-kan-taiwan-round001-001-018-closeout"
+    "round": "2026-07-06-baiyan-kan-taiwan-round001-001-018-closeout",
+    "additionalSources": [
+      {
+        "book": "恰似我的温柔",
+        "chapter": "002.台湾第一不要脸",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/004.恰似我的温柔/002.台湾第一不要脸.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          7,
+          11,
+          13,
+          23,
+          25,
+          27,
+          29,
+          31
+        ],
+        "note": "《恰似我的温柔》重收1983年1月12日《台湾第一不要脸》，以苏南成恢复国民党党籍为例，补足“浪子回头型不要脸”和党纪恢复条款材料。"
+      }
+    ]
   },
   {
     "id": "baiyan-kan-taiwan-1983-05-12-to-1983-05-15-writes-li-xiaofeng-duan-hongjun-and-prophet-stone-essays",

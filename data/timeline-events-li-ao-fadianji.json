@@ -2154,7 +2154,24 @@
     ],
     "confidence": "high",
     "certainty": "confirmed",
-    "round": "li-ao-fadianji-round004-025-032"
+    "round": "li-ao-fadianji-round004-025-032",
+    "additionalSources": [
+      {
+        "book": "只爱一点点",
+        "chapter": "019.我看处女寇乃馨",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/007.只爱一点点/019.我看处女寇乃馨.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          7,
+          9,
+          11,
+          13
+        ],
+        "note": "补充《只爱一点点》收入同文的出处；本书正文自署1998年10月3日，旧锚仍保留原《李敖发电集》入库日期。"
+      }
+    ]
   },
   {
     "id": "li-ao-fadianji-032-soochow-cross-strait-speech-urges-students-to-see-loaded-terms",
@@ -2473,7 +2490,31 @@
     ],
     "confidence": "high",
     "certainty": "confirmed",
-    "round": "li-ao-fadianji-round005-033-040"
+    "round": "li-ao-fadianji-round005-033-040",
+    "additionalSources": [
+      {
+        "book": "李敖智慧书",
+        "chapter": "009.三个臭皮党，诸葛怎样想",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/016.李敖祸台五十年庆祝十书/003.李敖智慧书/009.三个臭皮党，诸葛怎样想.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          7,
+          9,
+          11,
+          13,
+          15,
+          17,
+          19,
+          21,
+          23,
+          25,
+          27
+        ],
+        "note": "《李敖智慧书》收入同一篇1994年11月24日论新党与多党制旧文；本轮补源而不另造重复事件。"
+      }
+    ]
   },
   {
     "id": "li-ao-fadianji-038-publishes-wang-xiaochan-fax-and-defends-her-in-chang-affair",

@@ -1435,7 +1435,8 @@
     "works": [
       "你不知道的司法黑暗",
       "商业周刊",
-      "李敖笑傲江湖"
+      "李敖笑傲江湖",
+      "为司法黑暗发榜"
     ],
     "certainty": "confirmed",
     "crossReferences": [
@@ -1453,7 +1454,26 @@
         9,
         33
       ]
-    }
+    },
+    "additionalSources": [
+      {
+        "book": "你不知道的司法黑暗",
+        "chapter": "001.为司法黑暗发榜",
+        "path": "《大李敖全集5.0》（wjm_tcy版）分章节/015.雷霆法律类/006.你不知道的司法黑暗/001.为司法黑暗发榜.txt",
+        "line": 3,
+        "lines": [
+          3,
+          5,
+          7,
+          9,
+          11,
+          13,
+          15,
+          29
+        ],
+        "note": "本书自序说明李敖在六十一岁生日与官司交逼时编成此书，收三十篇文章、司法黑暗长篇与十六组案例。"
+      }
+    ]
   },
   {
     "id": "li-ao-xiaoao-jianghu-1996-08-after-episode-022-four-shameless-taiwan-broadcast",
