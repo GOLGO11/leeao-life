@@ -90,13 +90,12 @@
             <p id="resultLabel">正在载入</p>
           </div>
           <ol id="timelineList" class="timeline-list"></ol>
-          <button id="loadMore" class="load-more" type="button" hidden>加载更多</button>
+          <nav id="pagination" class="pagination" aria-label="事件分页" hidden>
+            <button id="previousPage" class="pagination__arrow" type="button" aria-label="上一页">←</button>
+            <div id="pageNumbers" class="pagination__pages"></div>
+            <button id="nextPage" class="pagination__arrow" type="button" aria-label="下一页">→</button>
+          </nav>
         </section>
-      </section>
-
-      <section class="method">
-        <h2>增量原则</h2>
-        <p>先以《李敖自传与回忆》建立骨架，只收可以追到具体日期的条目。后续每处理一本书，就追加事件、保留出处、更新日志；不把163本书一次性混读成一锅粥。</p>
       </section>
     </main>
 
@@ -106,6 +105,6 @@
     </dialog>
 
     <script src="./data/timeline-bundle.js?v=2026-07-11-sui-qianwan-li-ao-wangyi-daily-completion"></script>
-<script src="./app.js?v=2026-07-08-women-meiyou-mingtian-round003-041-043-closeout"></script>
+    <script src="./app.js?v=2026-07-11-pagination"></script>
   </body>
 </html>

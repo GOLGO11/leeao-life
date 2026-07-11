@@ -6,15 +6,14 @@ const state = {
   year: "all",
   query: "",
   sort: "asc",
-  renderedLimit: 240,
+  currentPage: 1,
   historyTodayExpanded: false,
   filteredEvents: [],
   eventIndex: new Map(),
   decadeCounts: new Map()
 };
 
-const initialRenderLimit = 240;
-const renderBatchSize = 240;
+const pageSize = 240;
 const historyTodayPreviewLimit = 1;
 const searchDebounceMs = 120;
 let searchTimer = 0;
@@ -47,7 +46,11 @@ const eventCount = document.querySelector("#eventCount");
 const rangeLabel = document.querySelector("#rangeLabel");
 const bookCount = document.querySelector("#bookCount");
 const resultLabel = document.querySelector("#resultLabel");
-const loadMore = document.querySelector("#loadMore");
+const timelineSection = document.querySelector(".timeline");
+const pagination = document.querySelector("#pagination");
+const previousPage = document.querySelector("#previousPage");
+const pageNumbers = document.querySelector("#pageNumbers");
+const nextPage = document.querySelector("#nextPage");
 const dialog = document.querySelector("#eventDialog");
 const dialogBody = document.querySelector("#dialogBody");
 const closeDialog = document.querySelector("#closeDialog");
@@ -346,8 +349,16 @@ function filteredEvents() {
     .sort((a, b) => compareEvents(a, b, state.sort));
 }
 
-function resetRenderedLimit() {
-  state.renderedLimit = initialRenderLimit;
+function resetCurrentPage() {
+  state.currentPage = 1;
+}
+
+function totalPagesFor(totalEvents) {
+  return Math.max(1, Math.ceil(totalEvents / pageSize));
+}
+
+function clampCurrentPage(totalEvents) {
+  state.currentPage = Math.min(Math.max(state.currentPage, 1), totalPagesFor(totalEvents));
 }
 
 function populateFilters() {
@@ -384,7 +395,7 @@ function renderDecadeNav(decades) {
     state.decade = "all";
     state.year = "all";
     yearFilter.value = "all";
-    resetRenderedLimit();
+    resetCurrentPage();
     render();
   });
   decadeNav.append(allButton);
@@ -399,7 +410,7 @@ function renderDecadeNav(decades) {
       state.decade = decade;
       state.year = "all";
       yearFilter.value = "all";
-      resetRenderedLimit();
+      resetCurrentPage();
       render();
     });
     decadeNav.append(button);
@@ -416,8 +427,11 @@ function renderStats(events) {
   }
   const sorted = [...events].sort((a, b) => a.date.localeCompare(b.date));
   rangeLabel.textContent = `${sorted[0].date.slice(0, 4)}-${sorted.at(-1).date.slice(0, 4)}`;
-  const shown = Math.min(events.length, state.renderedLimit);
-  resultLabel.textContent = `当前显示 ${shown}/${events.length} 条，已载入 ${state.events.length} 条，数据版本 ${dataVersion}`;
+  clampCurrentPage(events.length);
+  const totalPages = totalPagesFor(events.length);
+  const start = (state.currentPage - 1) * pageSize;
+  const end = Math.min(start + pageSize, events.length);
+  resultLabel.textContent = `第 ${state.currentPage}/${totalPages} 页，显示 ${start + 1}-${end}/${events.length} 条，已载入 ${state.events.length} 条，数据版本 ${dataVersion}`;
 }
 
 function renderHistoryToday() {
@@ -462,8 +476,58 @@ function renderHistoryToday() {
   historyTodayToggle.textContent = state.historyTodayExpanded ? "收起" : `展开其余 ${events.length - historyTodayPreviewLimit} 条`;
 }
 
+function paginationPageNumbers(currentPage, totalPages) {
+  if (totalPages <= 7) {
+    return Array.from({ length: totalPages }, (_, index) => index + 1);
+  }
+
+  const pages = new Set([1, totalPages]);
+  for (let page = currentPage - 2; page <= currentPage + 2; page += 1) {
+    if (page > 1 && page < totalPages) pages.add(page);
+  }
+  if (currentPage <= 4) {
+    for (let page = 2; page <= 5; page += 1) pages.add(page);
+  }
+  if (currentPage >= totalPages - 3) {
+    for (let page = totalPages - 4; page < totalPages; page += 1) pages.add(page);
+  }
+  return [...pages].sort((a, b) => a - b);
+}
+
+function renderPagination(totalEvents) {
+  clampCurrentPage(totalEvents);
+  const totalPages = totalPagesFor(totalEvents);
+  pagination.hidden = totalEvents === 0 || totalPages <= 1;
+  previousPage.disabled = state.currentPage === 1;
+  nextPage.disabled = state.currentPage === totalPages;
+  pageNumbers.replaceChildren();
+  if (pagination.hidden) return;
+
+  let previousNumber = 0;
+  for (const page of paginationPageNumbers(state.currentPage, totalPages)) {
+    if (previousNumber && page > previousNumber + 1) {
+      const ellipsis = document.createElement("span");
+      ellipsis.className = "pagination__ellipsis";
+      ellipsis.textContent = "…";
+      ellipsis.setAttribute("aria-hidden", "true");
+      pageNumbers.append(ellipsis);
+    }
+
+    const button = document.createElement("button");
+    button.type = "button";
+    button.textContent = String(page);
+    button.setAttribute("aria-label", `第 ${page} 页`);
+    if (page === state.currentPage) button.setAttribute("aria-current", "page");
+    button.addEventListener("click", () => goToPage(page));
+    pageNumbers.append(button);
+    previousNumber = page;
+  }
+}
+
 function renderTimeline(events) {
-  const visibleEvents = events.slice(0, state.renderedLimit);
+  clampCurrentPage(events.length);
+  const start = (state.currentPage - 1) * pageSize;
+  const visibleEvents = events.slice(start, start + pageSize);
   const fragment = document.createDocumentFragment();
   timelineList.replaceChildren();
   for (const event of visibleEvents) {
@@ -485,8 +549,16 @@ function renderTimeline(events) {
     fragment.append(item);
   }
   timelineList.append(fragment);
-  loadMore.hidden = events.length <= state.renderedLimit;
-  loadMore.textContent = `加载更多（余 ${Math.max(events.length - state.renderedLimit, 0)} 条）`;
+  renderPagination(events.length);
+}
+
+function goToPage(page) {
+  const next = Math.min(Math.max(page, 1), totalPagesFor(state.filteredEvents.length));
+  if (next === state.currentPage) return;
+  state.currentPage = next;
+  renderStats(state.filteredEvents);
+  renderTimeline(state.filteredEvents);
+  timelineSection.scrollIntoView({ behavior: "smooth", block: "start" });
 }
 
 function openEvent(event) {
@@ -561,35 +633,32 @@ async function boot() {
 
 viewFilter.addEventListener("change", (event) => {
   state.view = event.target.value;
-  resetRenderedLimit();
+  resetCurrentPage();
   render();
 });
 
 yearFilter.addEventListener("change", (event) => {
   state.year = event.target.value;
   state.decade = "all";
-  resetRenderedLimit();
+  resetCurrentPage();
   render();
 });
 
 searchInput.addEventListener("input", (event) => {
   state.query = event.target.value;
-  resetRenderedLimit();
+  resetCurrentPage();
   window.clearTimeout(searchTimer);
   searchTimer = window.setTimeout(render, searchDebounceMs);
 });
 
 sortOrder.addEventListener("change", (event) => {
   state.sort = event.target.value;
-  resetRenderedLimit();
+  resetCurrentPage();
   render();
 });
 
-loadMore.addEventListener("click", () => {
-  state.renderedLimit += renderBatchSize;
-  renderStats(state.filteredEvents);
-  renderTimeline(state.filteredEvents);
-});
+previousPage.addEventListener("click", () => goToPage(state.currentPage - 1));
+nextPage.addEventListener("click", () => goToPage(state.currentPage + 1));
 
 historyTodayToggle.addEventListener("click", () => {
   state.historyTodayExpanded = !state.historyTodayExpanded;
