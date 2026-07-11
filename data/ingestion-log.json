@@ -64452,5 +64452,29 @@
     ],
     "validationSummary": "已重建bundle/TXT/CSV并复核：导出清单162个数据文件，项目总表28112条，《李敖生死书》全书7条，本轮新增7条、补源7处，日志1318条；bundle dataVersion一致且含28112条事件、1318条日志；CSV导出含29个分片且总行数28112；duplicateIds=0；题辞与001至021均已处理，其中题辞只作立意提示，002、003、007、008、009、010、015作为旧锚补源未重复造事；本轮7条新增事件与7处补源均已进入data/bundle/TXT/CSV；本轮source.path缺失=0，source.line/source.lines越界或空白=0；本轮crossReferences断链=0；newTitleDuplicates=0；additionalSources重复=0；app.js/index.html/export脚本/bundle数据清单一致。《李敖生死书》已closeout。",
     "nextRecommendation": "下一轮建议进入下一本书。"
+  },
+  {
+    "dataVersion": "2026-07-11-sui-qianwan-li-ao-wangyi-daily-completion",
+    "date": "2026-07-11",
+    "book": "虽千万人，李敖往矣",
+    "scope": "001至053月度微博正文，按真实发博日期补齐并归并同日旧锚",
+    "chaptersProcessed": [
+      "001至053月度微博文件（2011年5月至2017年4月）"
+    ],
+    "chaptersDeferred": [],
+    "eventsAdded": 1379,
+    "eventsMerged": 6,
+    "mergedDates": 5,
+    "netEventsAdded": 1373,
+    "sourceSupplements": 0,
+    "outputFile": "data/timeline-events-sui-qianwan-li-ao-wangyi.json",
+    "notes": [
+      "按用户指定的微博体口径处理：只要某日有微博，即以该日期保留一条事件。53个月度文件共识别1528个真实发博日期；原有精选事件覆盖149日，本轮新增1379条缺日事件。",
+      "以每个文件的主导年月约束日期标题，排除正文内单独成行的1971年9月13日与1894年7月25日；原书重复出现的2011年7月22日合并为同一日的一条事件。",
+      "将2011年5月17日、5月19日、5月20日、8月18日、9月27日五个旧有多事件日期归并，移除6条多余日级记录并重定向全部外部引用；原有6条附录或微博回述形成的非日更历史事件继续保留。",
+      "早期同日多则微博按日期合并并列举短文题目；2013至2015年沿用原短文标题；2016年以后无标题微博以首句生成可辨识标题，不再把同日内容拆成多条。"
+    ],
+    "validationSummary": "已重建bundle/TXT/CSV并复核：导出清单162个数据文件，项目总表29485条，《虽千万人，李敖往矣》1534条，本轮新增1379条、归并移除6条、净增1373条，日志1319条；bundle dataVersion一致且含29485条事件、1319条日志；CSV导出含30个分片且总行数29485；duplicateIds=0；1528个真实发博日期缺失=0、同日重复=0；本轮1384条新增或归并事件均已进入data/bundle/TXT/CSV；本轮source.path缺失=0，source.line/source.lines越界或空白=0；crossReferences字符串与对象式引用断链=0，被归并旧ID残留引用=0；本轮新增标题重复=0；additionalSources重复=0；app.js/index.html/export脚本/bundle数据清单一致。《虽千万人，李敖往矣》微博日期补齐完成。",
+    "nextRecommendation": "本书已按日期补齐；后续如需继续，建议只做抽样校对，不再把同日微博拆分扩写。"
   }
 ]

@@ -229,7 +229,7 @@ const supplementalDataFiles = new Set([
   "./data/timeline-events-third-book-qiao-evidence.json",
   "./data/timeline-events-fourth-book-deepening.json"
 ]);
-const dataVersion = "2026-07-08-li-ao-shengsishu-round001-001-021-closeout";
+const dataVersion = "2026-07-11-sui-qianwan-li-ao-wangyi-daily-completion";
 const timelineBundle = window.LEEAO_TIMELINE_BUNDLE;
 const timelineBundleMatches =
   timelineBundle?.dataVersion === dataVersion &&
